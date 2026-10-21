@@ -51,3 +51,9 @@ Do not call a proposed spelling or character belief 'canon' until supported by c
 ## External reference and spoiler safeguards
 
 Consult [External references and chronology policy](EXTERNAL_REFERENCES.md) when using the fan wiki or linked D&D Beyond sheets. Wiki-supported spelling is evidence for orthography, not independent proof of audible dialogue. The character sheets are end-of-campaign snapshots, not episode-one builds. Do not introduce later developments into early-episode transcripts, dossiers or lore without a time-qualified, clearly marked spoiler section. Preserve raw ASR spellings and source URLs.
+
+## Two owner-provided research sources (2026-10-21)
+
+The user-supplied [episode numbering crosswalk](EPISODE_NUMBERING.md) documents the source's **original podcast numbers** separately from the **corrected archive IDs** already used in repository paths. **Archive path IDs always follow the corrected column-I spreadsheet labels**; do not blindly extrapolate from the original number, as numbered bonuses and *Inverse* episodes cause shifts.
+
+The [owner episode notes](OWNER_EPISODE_NOTES.md) contain useful time-uncertain **owner interpretations/first-mention hypotheses** and **personal spellings**, not canonical or audio-verified language. Add a **user-note candidate** provenance class and preserve independent labels for **ASR**, **wiki spelling**, **GM-spelled term**, **audio-verified**, and **fan art**. Never silently normalize source dialogue to the owner's spelling. Owner notes may identify *where to listen* but do not satisfy the listening requirement.
