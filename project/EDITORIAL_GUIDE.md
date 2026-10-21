@@ -34,12 +34,12 @@ Do not call a proposed spelling or character belief 'canon' until supported by c
 
 ## Name rules
 
-- `Dust Hill` is the provisional editorial spelling (`Dusthill` occurs as an ASR variant).
-- `Nash Maggard` is provisional; variants `Magard`, `Maghard` appear in transcripts.
-- `Hope` is an explicitly preferred short name for the tiefling. Full name transcribed `Orifi`/`Orify` is **not spelling-verified**.
-- `Vorel` is provisional; multiple spellings occur. The longer introduction name is uncertain and requires checking.
-- A person identified as `Shun T` (well attendant) and `Gimster` (head mechanic) require spelling verification.
-- `Bo` and `Beau` refer to the same presenter/DM in the supplied transcripts; verify preferred written rendering before canonicalizing publication metadata.
+- `Dusthill` is the wiki-supported written form; `Dust Hill` is an ASR/search alias.
+- `Nash Maggard` is wiki-supported; `Magard`, `Maghard` are preserved ASR variants.
+- `Oriphi “Hope” Akmenos` is documented by the wiki. The name-pronunciation exchange with ASR `Orifi`/`Orify` remains unchanged until an audio listening review; Hope is the preferred short name.
+- `Vorel Rasvim Kurik` is wiki-supported; multiple recognition variants remain aliases and require listening for phonetic fidelity.
+- `Shun'ti Stoutbarrel` and `Jimster` are wiki-supported by **later** episode material. For E001, edit the name spelling only; never insert the later-disclosed surname into dialogue that lacks it.
+- `Beau` is the established DM name in external credits; `Bo` may occur in ASR speech. `Jon Jagger` is wiki-supported and labelled `John` in the source ASR, so reader editions use `Jon`.
 
 ## World-building safeguards
 
