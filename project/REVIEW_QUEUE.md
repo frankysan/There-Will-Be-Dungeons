@@ -127,3 +127,23 @@ Do not alter the original SRT or promote machine-only phrasing into approved dia
 
 No audio review completed during this visual-source pass.
 
+## E013 / E013.5 / E014 review targets (not listened to)
+
+| Priority | Recording/time | Task |
+|---|---|---|
+| High | E013 ~00:05–00:12 | Confirm GM **Pristine→Slavetown** history, roughly 10–20 year shift, Toyota Host vs Koromukishi vs sheriff vs magistrate; distinguish direct GM exposition from Jeweler claim |
+| High | E013 ~00:10–00:21 | Compare Stump and Jeweler mine deed motives and what the **Lactid Cartel** says the Jeweler owed it; never assume the promised item was the deed |
+| High | E013 ~00:19–01:52 | Verify **Cartel** spelling, name **Bertrand**, combat sequence and **Donk dead / Jeweler healed**, illusion of Quizquaz vs genuine demon |
+| Medium | E013 ~01:05–02:12 | Sheriff **Randy Clementine**, fate of the attacker, Stump's cartel origin/business explanation |
+| Medium | E013 ~02:12–end | Pickpocket gnomes not Eddie/Chance, purple-hatted man, giant at hotel, name and roughly 60–70 foot height |
+| High | E013.5 ~00:00–00:10, ~00:23–end | Verify **supplemental** music, Stanley's **in-character** recap including E010 old man's fate; don't contradict E009 host statement that Eddy/Chance are alive |
+| High | E013.5 ~00:10–00:23 | Verify inserted **Hope–Vorel** scene set ~E008–E009: actual dark-pact/time-travel goal, Exantos, dragon/star and lizardfolk hearsay, possible jetpack test, omitted/garbled ending. Track separate *release* and *story* dates |
+| High | E014 ~00:00–00:49 | Confirm Jeweler surname **Mulg (?)**, **Robert/Thailander/Tylander** identities, sheriff and cyclops behaviors and the “shiny” |
+| High | E014 ~00:49–01:23 | **Thorn Row** address/street names, upstairs corpse **not yet identified**, note to **Timber**, “Red Scarlet” signature, magical glyph trap |
+| Medium | E014 ~01:23–01:40 | Liberators pamphlet, woman portrait, **Freedom** gun, silver bullets, money amount and inventories |
+| High | E014 ~01:40–02:32 | Trap/mechanical route, ruby necklace **five vs six** question, true identification of freshly dead **Randall Owen** |
+| High | E014 ~02:32–03:00 | Untouchable gnome-like decoy, gas/portcullis, ritualist identity, **Catoblepraithe / Soulbroker** pronunciation, reanimated corpses, exact unresolved cliffhanger |
+| Medium | E014 artwork | Check [Catoblepraithe image](../sources/images/Catoblepraithe_-_Audie_Norman.webp) original wiki File: page/date/artist/media rights; do not treat it as proof of the creature appearing in E014 |
+
+**Carryover:** Mine deed “copper” versus “gold”, Stump's claims, the E011 Slavetown street map and original 25 captives remain unresolved. These episode dossiers are not audio-verified. [E013](../episodes/E013.md) · [E013.5](../episodes/E013.5.md) · [E014](../episodes/E014.md).
+
