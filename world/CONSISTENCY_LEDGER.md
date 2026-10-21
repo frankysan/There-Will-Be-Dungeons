@@ -49,3 +49,32 @@ This register supplements the E000–E001 seed; **none of the following have bee
 | `water.system_status` | Lower intake repaired; dragon engine restarted/worked on | Not equal to direct confirmation of town well: E005 closing explicitly says well not yet tested | E003 ~01:20–01:38; E005 ~00:10–00:40 and ~02:45 |
 
 **Editorial warning:** The fan wiki is an orthographic clue and a later-source continuity aid, not a proof of the spoken words in these four episodes. Review [E002](../episodes/E002.md), [E003](../episodes/E003.md), [E004](../episodes/E004.md), [E005](../episodes/E005.md) for source-specific treatment.
+
+
+## E006–E008 name and continuity checks (2026-10-21; unverified processed SRTs)
+
+| Key | Working name or conclusion | Variants / uncertainty | Source and review |
+|---|---|---|---|
+| `water.surface_verified` | Direct outlet test in **E006**; not directly checked at E005 wrap-up | E006 opening *recaps* that it flowed in E005; don't substitute recap for E005 witnessed surface test | E005 ~02:45; E006 ~00:00–00:01 and ~00:24–00:26 |
+| `raid.casualties` | **45 dead / 25 abducted**, meeting-era reported figures | Count might change with subsequent discoveries; E006 wiki summary only independently repeats **25** | E006 ~01:28–01:50 |
+| `npc.bok_bok` | **Bok Bok** (wiki-supported form) | `Bachbok`, `Buckbuck`, `Bokbak`, `Bokback` in SRT; captured in E006, accompanies party in E007 | E006 ~00:35–00:45, ~01:08–01:18; E007 ~00:24–00:35 |
+| `npc.rasfer` | **Rasfer II (?)** | E006 retrospective recap of E005 champion, original E005 pronunciation not rechecked | E006 ~00:01 |
+| `npc.jenjen` | **Jenjen** | `Gen Gen`, `Jen Jen`; Thomas's widow | E006 ~00:46–00:55; [wiki E006](https://twbd.fandom.com/wiki/Episode_6) |
+| `npc.aaron_wilma` | Aaron, Wilma | Wilma's murder allegation versus Stanley's reported self-defense; do not present a formal judgment | E006 ~00:58–01:05, ~01:35–01:52 |
+| `npc.tetsuo` | **Tetsuo** | Half-orc defender; do not say Jimster permanently superseded his authority | E006 ~01:30–01:35; [wiki E006](https://twbd.fandom.com/wiki/Episode_6) |
+| `npc.zorenthelas` | **Zorenthelas** (E006 wiki) | `Xoranthulus`, `Zoranthulus`, `Xorenthelas`; identified as Scoutmaster | E006 ~01:30–01:35 and ~01:56–02:30; [wiki E006](https://twbd.fandom.com/wiki/Episode_6) |
+| `place.elhandar` | **Elhandar** (E006 wiki) | `El Hondar`, `El Handar`; is it literal sky city, cosmology or belief? speaker claim | E006 ~02:00–02:27 |
+| `artifact.data_core` | C4N-D13-associated **data core**, transferred to Zorenthelas | E003/E006 origin and contents; “save planet” is automaton's reported claim | E003 ~02:35–02:57; E006 ~02:22–02:27 |
+| `artifact.wrench` | Responsive, shape-changing dwarven-speaking wrench | E005 speculative sentience now **supported by E006 response**, but exact origin/species/creator unknown | E004 ~02:13; E005 ~01:00; E006 ~02:12–02:17 |
+| `vehicle.fate_four` | **Fate 4 / Fate Four** | Original show website assets and rules sheet not yet recovered; E007 overheating/repair duration gameplay-dependent | E006 ~02:15–02:32; E007 ~01:16–01:50 |
+| `npc.old_man` | Unnamed frightened desert man | E006 disappears at glowing lights; E007 Bok Bok **returns him**; do not canonize identity | E006 ~02:49–03:10; E007 ~00:30–00:35 |
+| `fauna.light_beetles` | Luminous giant beetles | E006 lights mysterious, E007 identity disclosed; later familiarity must not be backdated | E006 ~03:07; E007 ~00:06–00:40 |
+| `place.desert_antenna` | Desert antenna / metal tree | Separate **E008 underground facility** from Dusthill tunnels, unless new primary evidence connects them | E007 ~01:54–02:16; E008 ~00:15 onward |
+| `cast.carter` | **Carter Johnson**, **Edison Manchester III** (Eddie/Eddy) | Nickname `Eddie` from SRT, `Eddy` in wiki; guest character, **not replacement voice actor for Hope** | E008 ~00:01 and ~00:16 |
+| `cast.ben` | **Ben Bumhofer**, **Chance** | Another guest/gnome, not Vorel played by Ben; confirm surname by audio or show credits | E008 ~00:01–00:02 and ~00:16 |
+| `npc.leopold` | **Leopold** | Computer denial and projected body are evidence of claims/phenomena, **not confirmation of personhood or species** | E008 ~01:06; ~01:23–01:49; ~02:59 |
+| `npc.nash_visions` | Fiery memories, unknown calls, luminous prisoner | Could be separate speakers and different agendas; no established identity or causal mechanism | E006 ~01:42–01:45; E008 ~00:06–00:10 |
+| `event.e008_nash` | **Unconscious but stable** at E008 end | Do not report death or full recovery; E008 shows death saving throws and no intervening long rest | E008 ~02:32–02:59 |
+| `artifacts.lab_floating_metal` | Two suspended metal pieces, unusual tube | Their function and final inventory placement need careful E008 audio/action check | E008 ~01:16–01:20 and ~02:54–02:59 |
+
+**Classification:** Names supported by the fan wiki are *wiki-spelling-supported*, not audio-confirmed; the rest are ASR-only or in-session speaker statements. Review detailed [E006](../episodes/E006.md), [E007](../episodes/E007.md), [E008](../episodes/E008.md) source pointers. The old E002–E005 concerns remain open.
