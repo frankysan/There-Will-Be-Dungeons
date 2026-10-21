@@ -28,3 +28,5 @@ The new comparison manifests already reference the current full filenames.
 10. **Character sheet snapshots.** Record exact linked D&D Beyond URLs and observation dates; treat these as campaign-end states, with no reconstructed opening-level stats.
 
 11. **Ground Parakeet segmentation choices in audio.** Use the [five-run E001 benchmark](../reports/PARAKEET_SEGMENTATION_2026-10-21.md) to verify the opening greeting, 01:23–01:42 banter, 02:17–03:08 interjections, 04:13–04:37 reactions and 04:45–08:45 Dusthill narration. Compare omissions, invented speech and timestamp stitching to a manually checked reference; turning LCS dedup off was a no-op on these outputs.
+
+12. **Validate two-job CrispASR concurrency.** [Initial observation](../reports/ASR_CONCURRENCY_2026-10-21.md): two instances complete episodes in roughly 6–7 minutes each with very low disk traffic and GPU activity, despite near-max system RAM. Measure sequential versus concurrent total wall-clock throughput on the **same inputs**; collect available/committed RAM and hard page-read metrics before settling on a default queue concurrency. Later test a mixed Parakeet/Qwen pair separately.
