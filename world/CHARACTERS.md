@@ -344,3 +344,25 @@ The show-era **fan-art inventory** can aid research but is not independent audio
 
 **Milestone:** **Level 5** announced at E036 close; the GM explicitly says it does **not automatically restore HP/clear exhausted conditions**. **No Blood Ball match result** is available in this batch.
 
+## E037–E039 — personal revelations, fatal injury and faction assertions
+
+| Character / group | New episode evidence | Attribution / present status |
+|---|---|---|
+| **Vorel Rasvim Kurik** | E037 private meeting; E038 cave; E039 refuge | Receives **heavy valuables trunk** from Jolt's contact for his alleged Slavetown fire assistance and hides it; **beheads Blunt Goliver E038**, fulfilling head proof for Monsoon. Exact loot storage and party awareness unresolved |
+| **Dashington (?) / Jolt contact** | E037 ~00:17–00:24 | Gun-carrying cowboy-like man who says **Jolt's crew stole Oilbeard safe contents** and offers another raid. Exact name/identity, offscreen account and Jolt's reasons not independently verified |
+| **Angel Ashi/Angelashi** | E037 ~00:29–00:55 | Performs temporary **flower/plant magic using contact with Nash's dragon-metal heart**, recounts elven/refugee past and hopes for passage home; spends intimate night with Nash, leaves before morning. Her old-world history is her testimony |
+| **Nash Maggard** | E037 private romance; E038 rescue; E039 | Shares heart information, experiences temporary botanical alteration, helps rescue Hope. Rest/exhaustion changes must be kept consistent with GM session rulings |
+| **Hope** | E038 near-fatal rocket blast, E039 fitting | Suffers face/eye/horn injury, **left arm and leg removed** and replaced with **mechanical prosthetics**. E039 tests strong grapple and **concealed rocket payload** in mechanical arm. Her abilities are custom rules, not automatically endgame build |
+| **Blunt Goliver/Bluncolifer** | E036 survives; **E038 ~01:14–02:13** | Toe Ripper chief **fatally injured, beheaded by Vorel**; head **taken to Monsoon E038**. Monsoon later says leader was **Lactid-controlled**, a claimed interpretation |
+| **Dr Dickles** | E038 surgery; E039 confession | Provides medical assessment, amputation, X-ray and prosthetic referral. **Monsoon claims he ordered Dickles killed** after treatment, not a regular paid discharge |
+| **Sister Sarah / Metal Mandy** | E038–E039 | Cleric and prosthetics engineer, aid Hope. Hope's sedated recollection depicts attack; **Monsoon admits ordering their deaths**, but independent exact scene chronology/status require listening |
+| **Stanley Billings / Dion Talus** | E039 public announcement | Wanted by authorities as alleged attempted murderer of an **Arcanum Universalis mage**; association with Buttons strongly suspected. **Charges are official accusations**, and the occupants' viewpoints on coercion/authority diverge |
+| **Buttons** | E032 coercion, E039 reports | Earlier saw E029 forced fey intrusion, then **was targeted by Stanley's Suggestion**; Teet search announcement cites a mage and Monsoon asserts **Buttons informed on them**. His current whereabouts, motives and alleged attempted murder **not observed** |
+| **Tedna** | E039 guard/Monsoon statements | Reported among **detained agents at keep**, not directly seen in a cell. Previously worked to establish catering entry |
+| **Monsoon Cabbage** | E038 head delivery, E039 briefing | **Twenty-Six leader** who examines severed head, facilitates care, says he later **ordered caregivers killed**, describes a **Lactid puppeteer**, offers under-Pit passage and tells historical **Tiat Cala** story. Claims alternate name `Sjeptwy/Septwyn Maer` (spelling to check) |
+| **Kefeli and Andreeste** | E039 Monsoon history | Names associated with tiefling past and the **Nourisher**—**Monsoon's account**, not characters met in this batch |
+| **Lazlo / Lazzlo** | E039 hideout | **Stone-bodied speaking attendant** in Monsoon's quarters, serves food, wardrobe/clothing. Identity and creation story beyond observation unresolved |
+| **Jolt** | E037 contact, E039 Monsoon suspicion | Reported leader of a **Slavetown loot raid**, and alleged would-be thief of **Gem of Tides** at wedding. Neither new crime is directly shown; Hope's goal of revenge remains |
+
+**Episode split:** Hope's **injury and amputations E038**; visible, functional **cybernetic limbs E039**. Monsoon's alleged Lactid investigation and claimed royal history are **E039**, not direct evidence of the E036/Gargoyle battle's causes.
+
