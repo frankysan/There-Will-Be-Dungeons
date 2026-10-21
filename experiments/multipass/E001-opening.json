@@ -1,0 +1,123 @@
+{
+  "schema_version": 1,
+  "episode": "E001",
+  "audio": {
+    "id": "E001-original-mp3",
+    "sha256": "88b5e4f196dfa982e479d70e5b9e73694edba8994c8c46ed703efc1e00313795",
+    "duration_ms": 11013888,
+    "identity_evidence": "Archive source manifest hash; historical run association supplied by owner, not embedded in ASR exports"
+  },
+  "primary": "E001-baseline",
+  "runs": [
+    {
+      "version": "CrispASR 0.8.43 eb633d90",
+      "quantization": null,
+      "settings": {
+        "explicit_vad": false,
+        "explicit_chunking": false
+      },
+      "processing_seconds": 15.75,
+      "id": "E001-baseline",
+      "path": "../episode01-baseline.json",
+      "format": "crispasr-json",
+      "coverage_ms": [
+        0,
+        600000
+      ],
+      "model": "Parakeet TDT 1.1B",
+      "provenance_note": "Opening 600 seconds; configuration/runtime from historical segmentation report; quantization unspecified."
+    },
+    {
+      "version": "CrispASR 0.8.43 eb633d90",
+      "quantization": null,
+      "settings": {
+        "vad": true
+      },
+      "processing_seconds": 13.33,
+      "id": "E001-vad-default",
+      "path": "../episode01-vad-default.json",
+      "format": "crispasr-json",
+      "coverage_ms": [
+        0,
+        600000
+      ],
+      "model": "Parakeet TDT 1.1B",
+      "provenance_note": "Opening 600 seconds; configuration/runtime from historical segmentation report; quantization unspecified."
+    },
+    {
+      "version": "CrispASR 0.8.43 eb633d90",
+      "quantization": null,
+      "settings": {
+        "vad": true,
+        "vad_speech_pad_ms": 700
+      },
+      "processing_seconds": 12.96,
+      "id": "E001-vad-pad700",
+      "path": "../episode01-vad-pad700.json",
+      "format": "crispasr-json",
+      "coverage_ms": [
+        0,
+        600000
+      ],
+      "model": "Parakeet TDT 1.1B",
+      "provenance_note": "Opening 600 seconds; configuration/runtime from historical segmentation report; quantization unspecified."
+    },
+    {
+      "version": "CrispASR 0.8.43 eb633d90",
+      "quantization": null,
+      "settings": {
+        "chunk_seconds": 30,
+        "chunk_overlap": 3,
+        "lcs_dedup": "auto"
+      },
+      "processing_seconds": 15.77,
+      "id": "E001-chunk30-overlap3",
+      "path": "../episode01-chunk30-overlap3.json",
+      "format": "crispasr-json",
+      "coverage_ms": [
+        0,
+        600000
+      ],
+      "model": "Parakeet TDT 1.1B",
+      "provenance_note": "Opening 600 seconds; configuration/runtime from historical segmentation report; quantization unspecified."
+    },
+    {
+      "version": "CrispASR 0.8.43 eb633d90",
+      "quantization": null,
+      "settings": {
+        "chunk_seconds": 30,
+        "chunk_overlap": 3,
+        "lcs_dedup": "off"
+      },
+      "processing_seconds": 14.96,
+      "id": "E001-chunk30-nodedup",
+      "path": "../episode01-chunk30-nodedup.json",
+      "format": "crispasr-json",
+      "coverage_ms": [
+        0,
+        600000
+      ],
+      "model": "Parakeet TDT 1.1B",
+      "provenance_note": "Opening 600 seconds; configuration/runtime from historical segmentation report; quantization unspecified."
+    },
+    {
+      "version": null,
+      "quantization": "Q8",
+      "settings": {},
+      "processing_seconds": null,
+      "id": "E001-qwen-q8",
+      "path": "../../sources/The Wastes S1E001. The Campaign Begins!.qwen-q8.raw.srt",
+      "format": "srt",
+      "coverage_ms": [
+        0,
+        11013888
+      ],
+      "model": "Qwen3-ASR 1.7B",
+      "provenance_note": "Full-episode raw SRT export. Exact build, runtime and aligner configuration unconfirmed; filename is not proof of native alignment."
+    }
+  ],
+  "comparison_coverage_ms": [
+    0,
+    600000
+  ]
+}

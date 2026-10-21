@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "episode": "E000",
+  "audio": {
+    "id": "E000-original-mp3",
+    "sha256": "9474d41c51de7e7b8d6b7b24fea0b8171f68e38126343b8272e537c3443906c3",
+    "duration_ms": 813120,
+    "identity_evidence": "Archive source manifest hash; historical run association supplied by owner, not embedded in ASR exports"
+  },
+  "primary": "E000-parakeet",
+  "runs": [
+    {
+      "version": null,
+      "quantization": null,
+      "settings": {},
+      "processing_seconds": null,
+      "id": "E000-parakeet",
+      "path": "../../sources/The Wastes S1E000. Introductions.parakeet.raw.srt",
+      "format": "srt",
+      "coverage_ms": [
+        0,
+        813120
+      ],
+      "model": "Parakeet TDT 1.1B",
+      "provenance_note": "Full-episode raw SRT export. Exact build, runtime and aligner configuration unconfirmed; filename is not proof of native alignment."
+    },
+    {
+      "version": null,
+      "quantization": "Q8",
+      "settings": {},
+      "processing_seconds": null,
+      "id": "E000-qwen-q8",
+      "path": "../../sources/The Wastes S1E000. Introductions.qwen-q8.raw.srt",
+      "format": "srt",
+      "coverage_ms": [
+        0,
+        813120
+      ],
+      "model": "Qwen3-ASR 1.7B",
+      "provenance_note": "Full-episode raw SRT export. Exact build, runtime and aligner configuration unconfirmed; filename is not proof of native alignment."
+    }
+  ]
+}

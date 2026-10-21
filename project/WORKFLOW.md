@@ -75,3 +75,33 @@ Record **every** ASR/model/precision/segmentation/VAD/diarization/alignment/post
 **Separate evidence classes:** model disagreement, wiki-backed orthography, confidence heuristics and actual audio/listener verification are not interchangeable. Only an audio-grounded reference supports definitive omissions, hallucinations and WER rankings. Record decisions in [DECISIONS.md](DECISIONS.md), outstanding listening tasks in [REVIEW_QUEUE.md](REVIEW_QUEUE.md), and update the backlog. Avoid absolute local paths and private environment details in repository docs.
 
 Example: [five-run Parakeet E001 segmentation evaluation](../reports/PARAKEET_SEGMENTATION_2026-10-21.md).
+
+## I. Experimental multi-pass comparison and targeted verification
+
+Use [the implemented comparison workflow](../reports/MULTIPASS_PIPELINE.md) before
+making reconciliation decisions. Run `python tools/pilot_asr.py --out
+local/multipass-pilot` from the repository root (one command; new output directory).
+It compares full E000/E001 raw Parakeet and Qwen Q8 exports and separately scopes
+the five detailed E001 experiments to the opening ten minutes. SRT timing remains
+cue-level; model metadata and unknown configuration fields remain explicit.
+
+Inspect `comparison.md` alongside `comparison.json`. Review hypotheses include
+possible omissions, conflicting wording, suspicious low-confidence unilateral
+text, boundary anomalies and uncertain segmentation. No majority vote or lexical
+cleanup changes speech. Candidate IDs link to primary/alternative wording and
+the immutable source hashes. `jobs.json` adds context and consolidates nearby
+regions, with a 120-second default maximum. Jobs require explicit selection for
+execution; comparison does not run ASR.
+
+Record accept/reject/defer decisions, reviewer, date, evidence and audio status in
+the separate ledger. Recompare with `--decisions` into a fresh directory; stale
+IDs fail visibly. `reconciliation.json` preserves primary text and all candidates;
+it is not a publication format. Import targeted third-pass exports as additional
+runs with explicit coverage and timestamp origin. Recognition, attribution,
+alignment, punctuation and lore spelling remain separate evaluation concerns.
+
+Before adopting this experiment for production, create a manually verified
+reference with both flagged passages and agreed controls. Measure deletion,
+insertion and substitution rates separately using `asr_reference_metrics.py`.
+Capture source identity, configuration, runtime, differences and uncertainties
+for every future experiment; see the [pilot evidence](../reports/MULTIPASS_PILOT_2026-10-21.md).

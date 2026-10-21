@@ -19,6 +19,20 @@ This package establishes a repeatable, **local-first** path from podcast audio t
 
 ## Important distinctions
 
+- **Multi-pass review tooling:** [usage and limitations](reports/MULTIPASS_PIPELINE.md),
+  [measured export pilot](reports/MULTIPASS_PILOT_2026-10-21.md). Compare preserved
+  Parakeet/Qwen outputs, inspect time-coded disagreements, generate targeted jobs,
+  and retain reviewer decisions without rewriting these reader editions.
+
+  ```powershell
+  python -m unittest discover -s tests
+  python tools/pilot_asr.py --out local/multipass-pilot
+  ```
+
+  Use a new output directory. This command compares E000/E001 exports only; it
+  does not launch recognition or process the archive. Model agreement is not
+  audio verification.
+
 - The **reader-edited drafts** normalize source-supported spelling (e.g. Dusthill, Nash Maggard, Vorel, Jimster and Shun'ti) and the cast speaker name **Jon**, with every edit logged. They are still **not audio-proofread**; ambiguous speech such as “Orifi or Orify?” remains as recognized. The machine-derived drafts and all original SRTs stay unchanged.
 
 - **Readable draft** means subtitle lines have been grouped into paragraphs with named speakers and approximate timestamps. It does **not** mean every word or speaker boundary was checked against audio.

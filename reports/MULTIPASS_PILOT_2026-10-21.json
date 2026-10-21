@@ -1,0 +1,3381 @@
+{
+  "schema_version": 1,
+  "audio_verified": false,
+  "summaries": {
+    "E000-full": {
+      "episode": "E000",
+      "counts": {
+        "possible_omission": 25,
+        "conflicting_recognition": 27,
+        "uncertain_segmentation": 7,
+        "boundary_anomaly": 2
+      },
+      "runs": [
+        {
+          "id": "E000-parakeet",
+          "words": 1606,
+          "coverage_ms": [
+            0,
+            813120
+          ],
+          "source": {
+            "name": "The Wastes S1E000. Introductions.parakeet.raw.srt",
+            "sha256": "2600766552250e83cfa8a08966dfb2c78bf5c854921969c504771752516a277c",
+            "format": "srt"
+          },
+          "metadata": {
+            "model": "Parakeet TDT 1.1B",
+            "version": null,
+            "quantization": null,
+            "settings": {},
+            "processing_seconds": null,
+            "provenance_note": "Full-episode raw SRT export. Exact build, runtime and aligner configuration unconfirmed; filename is not proof of native alignment.",
+            "timestamp_offset_ms": 0
+          }
+        },
+        {
+          "id": "E000-qwen-q8",
+          "words": 1623,
+          "coverage_ms": [
+            0,
+            813120
+          ],
+          "source": {
+            "name": "The Wastes S1E000. Introductions.qwen-q8.raw.srt",
+            "sha256": "b08354ef479a09dab53d0b252b0401822d4cbb60363e0a23016f2eed76dc0588",
+            "format": "srt"
+          },
+          "metadata": {
+            "model": "Qwen3-ASR 1.7B",
+            "version": null,
+            "quantization": "Q8",
+            "settings": {},
+            "processing_seconds": null,
+            "provenance_note": "Full-episode raw SRT export. Exact build, runtime and aligner configuration unconfirmed; filename is not proof of native alignment.",
+            "timestamp_offset_ms": 0
+          }
+        }
+      ],
+      "pairs": [
+        {
+          "runs": [
+            "E000-parakeet",
+            "E000-qwen-q8"
+          ],
+          "coverage_ms": [
+            0,
+            813120
+          ],
+          "word_counts": [
+            1606,
+            1623
+          ],
+          "statistics": {
+            "dp_cells": 413,
+            "max_dp_cells": 80,
+            "anchors": 501,
+            "fallback_blocks": 0
+          },
+          "agreement_word_pairs": 1560
+        }
+      ],
+      "jobs": 22,
+      "unlocated": 0,
+      "elapsed_seconds": 0.059,
+      "audio_verified": false,
+      "algorithm": {
+        "version": 1,
+        "drift_ms": 2000,
+        "max_tokens": 192,
+        "window_ms": 30000,
+        "comparison_coverage_ms": null
+      }
+    },
+    "E001-full": {
+      "episode": "E001",
+      "counts": {
+        "possible_omission": 1286,
+        "conflicting_recognition": 874,
+        "boundary_anomaly": 96,
+        "uncertain_segmentation": 80
+      },
+      "runs": [
+        {
+          "id": "E001-parakeet",
+          "words": 31205,
+          "coverage_ms": [
+            0,
+            11013888
+          ],
+          "source": {
+            "name": "The Wastes S1E001. The Campaign Begins!.parakeet.raw.srt",
+            "sha256": "d809896cdd3718a57d84ffa4cc91180e3edce06c3cc2e0c1f9165cd1cab25e73",
+            "format": "srt"
+          },
+          "metadata": {
+            "model": "Parakeet TDT 1.1B",
+            "version": null,
+            "quantization": null,
+            "settings": {},
+            "processing_seconds": null,
+            "provenance_note": "Full-episode raw SRT export. Exact build, runtime and aligner configuration unconfirmed; filename is not proof of native alignment.",
+            "timestamp_offset_ms": 0
+          }
+        },
+        {
+          "id": "E001-qwen-q8",
+          "words": 32244,
+          "coverage_ms": [
+            0,
+            11013888
+          ],
+          "source": {
+            "name": "The Wastes S1E001. The Campaign Begins!.qwen-q8.raw.srt",
+            "sha256": "a48adfc0c31318a66b882f5eebe729dbff9d3c691a3e1c69cc7aa65ea2dacd5d",
+            "format": "srt"
+          },
+          "metadata": {
+            "model": "Qwen3-ASR 1.7B",
+            "version": null,
+            "quantization": "Q8",
+            "settings": {},
+            "processing_seconds": null,
+            "provenance_note": "Full-episode raw SRT export. Exact build, runtime and aligner configuration unconfirmed; filename is not proof of native alignment.",
+            "timestamp_offset_ms": 0
+          }
+        }
+      ],
+      "pairs": [
+        {
+          "runs": [
+            "E001-parakeet",
+            "E001-qwen-q8"
+          ],
+          "coverage_ms": [
+            0,
+            11013888
+          ],
+          "word_counts": [
+            31205,
+            32244
+          ],
+          "statistics": {
+            "dp_cells": 14042,
+            "max_dp_cells": 323,
+            "anchors": 9246,
+            "fallback_blocks": 0
+          },
+          "agreement_word_pairs": 29688
+        }
+      ],
+      "jobs": 439,
+      "unlocated": 0,
+      "elapsed_seconds": 1.618,
+      "audio_verified": false,
+      "algorithm": {
+        "version": 1,
+        "drift_ms": 2000,
+        "max_tokens": 192,
+        "window_ms": 30000,
+        "comparison_coverage_ms": null
+      }
+    },
+    "E001-opening": {
+      "episode": "E001",
+      "counts": {
+        "possible_omission": 540,
+        "possible_hallucination": 31,
+        "conflicting_recognition": 325,
+        "boundary_anomaly": 14,
+        "uncertain_segmentation": 61
+      },
+      "runs": [
+        {
+          "id": "E001-baseline",
+          "words": 1701,
+          "coverage_ms": [
+            0,
+            600000
+          ],
+          "source": {
+            "name": "episode01-baseline.json",
+            "sha256": "1b63395a32eb5cf472ddeec35fe59fae7dc495849aed6ec0737cfd68a3900a62",
+            "format": "crispasr-json",
+            "embedded_model_name": "parakeet-tdt-1.1b.gguf"
+          },
+          "metadata": {
+            "model": "Parakeet TDT 1.1B",
+            "version": "CrispASR 0.8.43 eb633d90",
+            "quantization": null,
+            "settings": {
+              "explicit_vad": false,
+              "explicit_chunking": false
+            },
+            "processing_seconds": 15.75,
+            "provenance_note": "Opening 600 seconds; configuration/runtime from historical segmentation report; quantization unspecified.",
+            "timestamp_offset_ms": 0
+          }
+        },
+        {
+          "id": "E001-vad-default",
+          "words": 1699,
+          "coverage_ms": [
+            0,
+            600000
+          ],
+          "source": {
+            "name": "episode01-vad-default.json",
+            "sha256": "d1c63ebb538b08c0d4496bb4c539ecc6b79aa80548de0934a63d88133c888875",
+            "format": "crispasr-json",
+            "embedded_model_name": "parakeet-tdt-1.1b.gguf"
+          },
+          "metadata": {
+            "model": "Parakeet TDT 1.1B",
+            "version": "CrispASR 0.8.43 eb633d90",
+            "quantization": null,
+            "settings": {
+              "vad": true
+            },
+            "processing_seconds": 13.33,
+            "provenance_note": "Opening 600 seconds; configuration/runtime from historical segmentation report; quantization unspecified.",
+            "timestamp_offset_ms": 0
+          }
+        },
+        {
+          "id": "E001-vad-pad700",
+          "words": 1699,
+          "coverage_ms": [
+            0,
+            600000
+          ],
+          "source": {
+            "name": "episode01-vad-pad700.json",
+            "sha256": "e05ce12e28955d9facd450bed1a18c6607c2e43a006de10cf6270bd747d978b0",
+            "format": "crispasr-json",
+            "embedded_model_name": "parakeet-tdt-1.1b.gguf"
+          },
+          "metadata": {
+            "model": "Parakeet TDT 1.1B",
+            "version": "CrispASR 0.8.43 eb633d90",
+            "quantization": null,
+            "settings": {
+              "vad": true,
+              "vad_speech_pad_ms": 700
+            },
+            "processing_seconds": 12.96,
+            "provenance_note": "Opening 600 seconds; configuration/runtime from historical segmentation report; quantization unspecified.",
+            "timestamp_offset_ms": 0
+          }
+        },
+        {
+          "id": "E001-chunk30-overlap3",
+          "words": 1692,
+          "coverage_ms": [
+            0,
+            600000
+          ],
+          "source": {
+            "name": "episode01-chunk30-overlap3.json",
+            "sha256": "ac9dc3c9dc6d338bc7804cdba1a979da6b645a526c1159fdc097c9818a8187f6",
+            "format": "crispasr-json",
+            "embedded_model_name": "parakeet-tdt-1.1b.gguf"
+          },
+          "metadata": {
+            "model": "Parakeet TDT 1.1B",
+            "version": "CrispASR 0.8.43 eb633d90",
+            "quantization": null,
+            "settings": {
+              "chunk_seconds": 30,
+              "chunk_overlap": 3,
+              "lcs_dedup": "auto"
+            },
+            "processing_seconds": 15.77,
+            "provenance_note": "Opening 600 seconds; configuration/runtime from historical segmentation report; quantization unspecified.",
+            "timestamp_offset_ms": 0
+          }
+        },
+        {
+          "id": "E001-chunk30-nodedup",
+          "words": 1692,
+          "coverage_ms": [
+            0,
+            600000
+          ],
+          "source": {
+            "name": "episode01-chunk30-nodedup.json",
+            "sha256": "ac9dc3c9dc6d338bc7804cdba1a979da6b645a526c1159fdc097c9818a8187f6",
+            "format": "crispasr-json",
+            "embedded_model_name": "parakeet-tdt-1.1b.gguf"
+          },
+          "metadata": {
+            "model": "Parakeet TDT 1.1B",
+            "version": "CrispASR 0.8.43 eb633d90",
+            "quantization": null,
+            "settings": {
+              "chunk_seconds": 30,
+              "chunk_overlap": 3,
+              "lcs_dedup": "off"
+            },
+            "processing_seconds": 14.96,
+            "provenance_note": "Opening 600 seconds; configuration/runtime from historical segmentation report; quantization unspecified.",
+            "timestamp_offset_ms": 0
+          }
+        },
+        {
+          "id": "E001-qwen-q8",
+          "words": 32244,
+          "coverage_ms": [
+            0,
+            11013888
+          ],
+          "source": {
+            "name": "The Wastes S1E001. The Campaign Begins!.qwen-q8.raw.srt",
+            "sha256": "a48adfc0c31318a66b882f5eebe729dbff9d3c691a3e1c69cc7aa65ea2dacd5d",
+            "format": "srt"
+          },
+          "metadata": {
+            "model": "Qwen3-ASR 1.7B",
+            "version": null,
+            "quantization": "Q8",
+            "settings": {},
+            "processing_seconds": null,
+            "provenance_note": "Full-episode raw SRT export. Exact build, runtime and aligner configuration unconfirmed; filename is not proof of native alignment.",
+            "timestamp_offset_ms": 0
+          }
+        }
+      ],
+      "pairs": [
+        {
+          "runs": [
+            "E001-baseline",
+            "E001-vad-default"
+          ],
+          "coverage_ms": [
+            0,
+            600000
+          ],
+          "word_counts": [
+            1701,
+            1699
+          ],
+          "statistics": {
+            "dp_cells": 136,
+            "max_dp_cells": 20,
+            "anchors": 546,
+            "fallback_blocks": 0
+          },
+          "agreement_word_pairs": 1662
+        },
+        {
+          "runs": [
+            "E001-baseline",
+            "E001-vad-pad700"
+          ],
+          "coverage_ms": [
+            0,
+            600000
+          ],
+          "word_counts": [
+            1701,
+            1699
+          ],
+          "statistics": {
+            "dp_cells": 322,
+            "max_dp_cells": 140,
+            "anchors": 538,
+            "fallback_blocks": 0
+          },
+          "agreement_word_pairs": 1659
+        },
+        {
+          "runs": [
+            "E001-baseline",
+            "E001-chunk30-overlap3"
+          ],
+          "coverage_ms": [
+            0,
+            600000
+          ],
+          "word_counts": [
+            1701,
+            1689
+          ],
+          "statistics": {
+            "dp_cells": 273,
+            "max_dp_cells": 80,
+            "anchors": 534,
+            "fallback_blocks": 0
+          },
+          "agreement_word_pairs": 1646
+        },
+        {
+          "runs": [
+            "E001-baseline",
+            "E001-chunk30-nodedup"
+          ],
+          "coverage_ms": [
+            0,
+            600000
+          ],
+          "word_counts": [
+            1701,
+            1689
+          ],
+          "statistics": {
+            "dp_cells": 273,
+            "max_dp_cells": 80,
+            "anchors": 534,
+            "fallback_blocks": 0
+          },
+          "agreement_word_pairs": 1646
+        },
+        {
+          "runs": [
+            "E001-baseline",
+            "E001-qwen-q8"
+          ],
+          "coverage_ms": [
+            0,
+            600000
+          ],
+          "word_counts": [
+            1701,
+            1746
+          ],
+          "statistics": {
+            "dp_cells": 386,
+            "max_dp_cells": 48,
+            "anchors": 532,
+            "fallback_blocks": 0
+          },
+          "agreement_word_pairs": 1652
+        },
+        {
+          "runs": [
+            "E001-vad-default",
+            "E001-vad-pad700"
+          ],
+          "coverage_ms": [
+            0,
+            600000
+          ],
+          "word_counts": [
+            1699,
+            1699
+          ],
+          "statistics": {
+            "dp_cells": 399,
+            "max_dp_cells": 154,
+            "anchors": 532,
+            "fallback_blocks": 0
+          },
+          "agreement_word_pairs": 1645
+        },
+        {
+          "runs": [
+            "E001-vad-default",
+            "E001-chunk30-overlap3"
+          ],
+          "coverage_ms": [
+            0,
+            600000
+          ],
+          "word_counts": [
+            1699,
+            1689
+          ],
+          "statistics": {
+            "dp_cells": 297,
+            "max_dp_cells": 30,
+            "anchors": 527,
+            "fallback_blocks": 0
+          },
+          "agreement_word_pairs": 1636
+        },
+        {
+          "runs": [
+            "E001-vad-default",
+            "E001-chunk30-nodedup"
+          ],
+          "coverage_ms": [
+            0,
+            600000
+          ],
+          "word_counts": [
+            1699,
+            1689
+          ],
+          "statistics": {
+            "dp_cells": 297,
+            "max_dp_cells": 30,
+            "anchors": 527,
+            "fallback_blocks": 0
+          },
+          "agreement_word_pairs": 1636
+        },
+        {
+          "runs": [
+            "E001-vad-default",
+            "E001-qwen-q8"
+          ],
+          "coverage_ms": [
+            0,
+            600000
+          ],
+          "word_counts": [
+            1699,
+            1746
+          ],
+          "statistics": {
+            "dp_cells": 407,
+            "max_dp_cells": 36,
+            "anchors": 531,
+            "fallback_blocks": 0
+          },
+          "agreement_word_pairs": 1657
+        },
+        {
+          "runs": [
+            "E001-vad-pad700",
+            "E001-chunk30-overlap3"
+          ],
+          "coverage_ms": [
+            0,
+            600000
+          ],
+          "word_counts": [
+            1699,
+            1689
+          ],
+          "statistics": {
+            "dp_cells": 333,
+            "max_dp_cells": 56,
+            "anchors": 529,
+            "fallback_blocks": 0
+          },
+          "agreement_word_pairs": 1637
+        },
+        {
+          "runs": [
+            "E001-vad-pad700",
+            "E001-chunk30-nodedup"
+          ],
+          "coverage_ms": [
+            0,
+            600000
+          ],
+          "word_counts": [
+            1699,
+            1689
+          ],
+          "statistics": {
+            "dp_cells": 333,
+            "max_dp_cells": 56,
+            "anchors": 529,
+            "fallback_blocks": 0
+          },
+          "agreement_word_pairs": 1637
+        },
+        {
+          "runs": [
+            "E001-vad-pad700",
+            "E001-qwen-q8"
+          ],
+          "coverage_ms": [
+            0,
+            600000
+          ],
+          "word_counts": [
+            1699,
+            1746
+          ],
+          "statistics": {
+            "dp_cells": 596,
+            "max_dp_cells": 144,
+            "anchors": 522,
+            "fallback_blocks": 0
+          },
+          "agreement_word_pairs": 1639
+        },
+        {
+          "runs": [
+            "E001-chunk30-overlap3",
+            "E001-chunk30-nodedup"
+          ],
+          "coverage_ms": [
+            0,
+            600000
+          ],
+          "word_counts": [
+            1689,
+            1689
+          ],
+          "statistics": {
+            "dp_cells": 3,
+            "max_dp_cells": 1,
+            "anchors": 562,
+            "fallback_blocks": 0
+          },
+          "agreement_word_pairs": 1689
+        },
+        {
+          "runs": [
+            "E001-chunk30-overlap3",
+            "E001-qwen-q8"
+          ],
+          "coverage_ms": [
+            0,
+            600000
+          ],
+          "word_counts": [
+            1689,
+            1746
+          ],
+          "statistics": {
+            "dp_cells": 379,
+            "max_dp_cells": 42,
+            "anchors": 525,
+            "fallback_blocks": 0
+          },
+          "agreement_word_pairs": 1637
+        },
+        {
+          "runs": [
+            "E001-chunk30-nodedup",
+            "E001-qwen-q8"
+          ],
+          "coverage_ms": [
+            0,
+            600000
+          ],
+          "word_counts": [
+            1689,
+            1746
+          ],
+          "statistics": {
+            "dp_cells": 379,
+            "max_dp_cells": 42,
+            "anchors": 525,
+            "fallback_blocks": 0
+          },
+          "agreement_word_pairs": 1637
+        }
+      ],
+      "jobs": 25,
+      "unlocated": 0,
+      "elapsed_seconds": 1.117,
+      "audio_verified": false,
+      "algorithm": {
+        "version": 1,
+        "drift_ms": 2000,
+        "max_tokens": 192,
+        "window_ms": 30000,
+        "comparison_coverage_ms": [
+          0,
+          600000
+        ]
+      }
+    }
+  },
+  "tool_sha256": {
+    "asr_alignment.py": "44c846e043085a810a38c6b4654764f310beffd85f48b267c51e020520a544fa",
+    "asr_evidence.py": "7b529156c02b67bca337ba91a4f812f68d8bec7cabd29be15bf24e20d45c02f5",
+    "asr_reference_metrics.py": "0a483046099e3d277e2d35b80cd6c5a85e59ec8428a9ce63d2cdd6da62f59dfe",
+    "compare_asr.py": "95ec70ba0a0d6dbe21632147302d3cab5aae665f5fdeeab7b5b935957e9447b5",
+    "pilot_asr.py": "4d887901804e67405a67ca903aabae74a864a02f78640447246a9bb1aa86be47",
+    "run_asr_job.py": "24e2c98c5aecb7c4c9bb8c345e32c3637080315fdde3e23ee836607481897d3b"
+  },
+  "examples": {
+    "E000-full": {
+      "comparison_sha256": "a4c5645f1c91d7f252d41af3f29386ffaefec61968c39d7a369fc76e88eb2885",
+      "selection": "First five records, plus opening greeting/duplicate/overrun examples; not exhaustive",
+      "records": [
+        {
+          "id": "d-8e510dda94f0c289fbdc",
+          "episode": "E000",
+          "start_ms": 18000,
+          "end_ms": 18800,
+          "classification": "possible_omission",
+          "diagnostics": [
+            "Speech appears in one pass only; possible omission in E000-parakeet or insertion in the other pass",
+            "Interval includes coarse cue/segment timing, not measured word timing"
+          ],
+          "sources": [
+            {
+              "run_id": "E000-parakeet",
+              "role": "aligned",
+              "word_ids": [],
+              "lexical_text": "",
+              "segment_ids": [],
+              "timing_precision": [],
+              "speaker_labels": [],
+              "word_confidences": []
+            },
+            {
+              "run_id": "E000-qwen-q8",
+              "role": "aligned",
+              "word_ids": [
+                "w50"
+              ],
+              "lexical_text": "a",
+              "segment_ids": [
+                "s7"
+              ],
+              "timing_precision": [
+                "cue"
+              ],
+              "speaker_labels": [
+                "speaker 0"
+              ],
+              "word_confidences": [
+                null
+              ]
+            }
+          ],
+          "priority": "high",
+          "status": "unreviewed",
+          "audio_verified": false
+        },
+        {
+          "id": "d-0825563b4478d72f236e",
+          "episode": "E000",
+          "start_ms": 19010,
+          "end_ms": 22000,
+          "classification": "possible_omission",
+          "diagnostics": [
+            "Speech appears in one pass only; possible omission in E000-parakeet or insertion in the other pass",
+            "Interval includes coarse cue/segment timing, not measured word timing"
+          ],
+          "sources": [
+            {
+              "run_id": "E000-parakeet",
+              "role": "aligned",
+              "word_ids": [],
+              "lexical_text": "",
+              "segment_ids": [],
+              "timing_precision": [],
+              "speaker_labels": [],
+              "word_confidences": []
+            },
+            {
+              "run_id": "E000-qwen-q8",
+              "role": "aligned",
+              "word_ids": [
+                "w63",
+                "w64"
+              ],
+              "lexical_text": "in a",
+              "segment_ids": [
+                "s8",
+                "s9"
+              ],
+              "timing_precision": [
+                "cue"
+              ],
+              "speaker_labels": [
+                "speaker 0"
+              ],
+              "word_confidences": [
+                null,
+                null
+              ]
+            }
+          ],
+          "priority": "high",
+          "status": "unreviewed",
+          "audio_verified": false
+        },
+        {
+          "id": "d-12222d02de63a7fb5644",
+          "episode": "E000",
+          "start_ms": 28835,
+          "end_ms": 31360,
+          "classification": "conflicting_recognition",
+          "diagnostics": [
+            "Interval includes coarse cue/segment timing, not measured word timing"
+          ],
+          "sources": [
+            {
+              "run_id": "E000-parakeet",
+              "role": "aligned",
+              "word_ids": [
+                "w95"
+              ],
+              "lexical_text": "to",
+              "segment_ids": [
+                "s10"
+              ],
+              "timing_precision": [
+                "cue"
+              ],
+              "speaker_labels": [
+                "speaker 0"
+              ],
+              "word_confidences": [
+                null
+              ]
+            },
+            {
+              "run_id": "E000-qwen-q8",
+              "role": "aligned",
+              "word_ids": [
+                "w98"
+              ],
+              "lexical_text": "it'd",
+              "segment_ids": [
+                "s13"
+              ],
+              "timing_precision": [
+                "cue"
+              ],
+              "speaker_labels": [
+                "speaker 0"
+              ],
+              "word_confidences": [
+                null
+              ]
+            }
+          ],
+          "priority": "medium",
+          "status": "unreviewed",
+          "audio_verified": false
+        },
+        {
+          "id": "d-5dc963826def25918975",
+          "episode": "E000",
+          "start_ms": 41369,
+          "end_ms": 43100,
+          "classification": "conflicting_recognition",
+          "diagnostics": [
+            "Interval includes coarse cue/segment timing, not measured word timing"
+          ],
+          "sources": [
+            {
+              "run_id": "E000-parakeet",
+              "role": "aligned",
+              "word_ids": [
+                "w147"
+              ],
+              "lexical_text": "want",
+              "segment_ids": [
+                "s16"
+              ],
+              "timing_precision": [
+                "cue"
+              ],
+              "speaker_labels": [
+                "speaker 0"
+              ],
+              "word_confidences": [
+                null
+              ]
+            },
+            {
+              "run_id": "E000-qwen-q8",
+              "role": "aligned",
+              "word_ids": [
+                "w150"
+              ],
+              "lexical_text": "wanted",
+              "segment_ids": [
+                "s20"
+              ],
+              "timing_precision": [
+                "cue"
+              ],
+              "speaker_labels": [
+                "speaker 0"
+              ],
+              "word_confidences": [
+                null
+              ]
+            }
+          ],
+          "priority": "medium",
+          "status": "unreviewed",
+          "audio_verified": false
+        },
+        {
+          "id": "d-70f8a18479616b6d6903",
+          "episode": "E000",
+          "start_ms": 41369,
+          "end_ms": 43040,
+          "classification": "possible_omission",
+          "diagnostics": [
+            "Speech appears in one pass only; possible omission in E000-qwen-q8 or insertion in the other pass",
+            "Interval includes coarse cue/segment timing, not measured word timing"
+          ],
+          "sources": [
+            {
+              "run_id": "E000-parakeet",
+              "role": "aligned",
+              "word_ids": [
+                "w151"
+              ],
+              "lexical_text": "a",
+              "segment_ids": [
+                "s16"
+              ],
+              "timing_precision": [
+                "cue"
+              ],
+              "speaker_labels": [
+                "speaker 0"
+              ],
+              "word_confidences": [
+                null
+              ]
+            },
+            {
+              "run_id": "E000-qwen-q8",
+              "role": "aligned",
+              "word_ids": [],
+              "lexical_text": "",
+              "segment_ids": [],
+              "timing_precision": [],
+              "speaker_labels": [],
+              "word_confidences": []
+            }
+          ],
+          "priority": "high",
+          "status": "unreviewed",
+          "audio_verified": false
+        }
+      ]
+    },
+    "E001-full": {
+      "comparison_sha256": "497c9a17977c696e0103dbc3fb71830ffcf2f5a359b3f04f47828d6e4cb673c6",
+      "selection": "First five records, plus opening greeting/duplicate/overrun examples; not exhaustive",
+      "records": [
+        {
+          "id": "d-3e0120021a1fdf60e3a2",
+          "episode": "E001",
+          "start_ms": 5840,
+          "end_ms": 13840,
+          "classification": "possible_omission",
+          "diagnostics": [
+            "Speech appears in one pass only; possible omission in E001-qwen-q8 or insertion in the other pass",
+            "Interval includes coarse cue/segment timing, not measured word timing"
+          ],
+          "sources": [
+            {
+              "run_id": "E001-parakeet",
+              "role": "aligned",
+              "word_ids": [
+                "w0",
+                "w1",
+                "w2"
+              ],
+              "lexical_text": "no m h",
+              "segment_ids": [
+                "s0"
+              ],
+              "timing_precision": [
+                "cue"
+              ],
+              "speaker_labels": [
+                "speaker 0"
+              ],
+              "word_confidences": [
+                null,
+                null,
+                null
+              ]
+            },
+            {
+              "run_id": "E001-qwen-q8",
+              "role": "aligned",
+              "word_ids": [],
+              "lexical_text": "",
+              "segment_ids": [],
+              "timing_precision": [],
+              "speaker_labels": [],
+              "word_confidences": []
+            }
+          ],
+          "priority": "high",
+          "status": "unreviewed",
+          "audio_verified": false
+        },
+        {
+          "id": "d-978c6bdecb7078e4efe5",
+          "episode": "E001",
+          "start_ms": 22320,
+          "end_ms": 22560,
+          "classification": "possible_omission",
+          "diagnostics": [
+            "Speech appears in one pass only; possible omission in E001-parakeet or insertion in the other pass",
+            "Interval includes coarse cue/segment timing, not measured word timing"
+          ],
+          "sources": [
+            {
+              "run_id": "E001-parakeet",
+              "role": "aligned",
+              "word_ids": [],
+              "lexical_text": "",
+              "segment_ids": [],
+              "timing_precision": [],
+              "speaker_labels": [],
+              "word_confidences": []
+            },
+            {
+              "run_id": "E001-qwen-q8",
+              "role": "aligned",
+              "word_ids": [
+                "w32"
+              ],
+              "lexical_text": "Oops",
+              "segment_ids": [
+                "s5"
+              ],
+              "timing_precision": [
+                "cue"
+              ],
+              "speaker_labels": [
+                "speaker 0"
+              ],
+              "word_confidences": [
+                null
+              ]
+            }
+          ],
+          "priority": "high",
+          "status": "unreviewed",
+          "audio_verified": false
+        },
+        {
+          "id": "d-682e2a3d15b162240056",
+          "episode": "E001",
+          "start_ms": 25710,
+          "end_ms": 28720,
+          "classification": "conflicting_recognition",
+          "diagnostics": [
+            "Interval includes coarse cue/segment timing, not measured word timing"
+          ],
+          "sources": [
+            {
+              "run_id": "E001-parakeet",
+              "role": "aligned",
+              "word_ids": [
+                "w50"
+              ],
+              "lexical_text": "do",
+              "segment_ids": [
+                "s5"
+              ],
+              "timing_precision": [
+                "cue"
+              ],
+              "speaker_labels": [
+                "speaker 0"
+              ],
+              "word_confidences": [
+                null
+              ]
+            },
+            {
+              "run_id": "E001-qwen-q8",
+              "role": "aligned",
+              "word_ids": [
+                "w47"
+              ],
+              "lexical_text": "doing",
+              "segment_ids": [
+                "s8"
+              ],
+              "timing_precision": [
+                "cue"
+              ],
+              "speaker_labels": [
+                "speaker 0"
+              ],
+              "word_confidences": [
+                null
+              ]
+            }
+          ],
+          "priority": "medium",
+          "status": "unreviewed",
+          "audio_verified": false
+        },
+        {
+          "id": "d-b01c592f448ed123f15d",
+          "episode": "E001",
+          "start_ms": 25710,
+          "end_ms": 28720,
+          "classification": "conflicting_recognition",
+          "diagnostics": [
+            "Interval includes coarse cue/segment timing, not measured word timing"
+          ],
+          "sources": [
+            {
+              "run_id": "E001-parakeet",
+              "role": "aligned",
+              "word_ids": [
+                "w46"
+              ],
+              "lexical_text": "where",
+              "segment_ids": [
+                "s5"
+              ],
+              "timing_precision": [
+                "cue"
+              ],
+              "speaker_labels": [
+                "speaker 0"
+              ],
+              "word_confidences": [
+                null
+              ]
+            },
+            {
+              "run_id": "E001-qwen-q8",
+              "role": "aligned",
+              "word_ids": [
+                "w44"
+              ],
+              "lexical_text": "We're",
+              "segment_ids": [
+                "s8"
+              ],
+              "timing_precision": [
+                "cue"
+              ],
+              "speaker_labels": [
+                "speaker 0"
+              ],
+              "word_confidences": [
+                null
+              ]
+            }
+          ],
+          "priority": "medium",
+          "status": "unreviewed",
+          "audio_verified": false
+        },
+        {
+          "id": "d-e4f9d808d986fdca7c61",
+          "episode": "E001",
+          "start_ms": 25710,
+          "end_ms": 28720,
+          "classification": "conflicting_recognition",
+          "diagnostics": [
+            "Interval includes coarse cue/segment timing, not measured word timing"
+          ],
+          "sources": [
+            {
+              "run_id": "E001-parakeet",
+              "role": "aligned",
+              "word_ids": [
+                "w48"
+              ],
+              "lexical_text": "going",
+              "segment_ids": [
+                "s5"
+              ],
+              "timing_precision": [
+                "cue"
+              ],
+              "speaker_labels": [
+                "speaker 0"
+              ],
+              "word_confidences": [
+                null
+              ]
+            },
+            {
+              "run_id": "E001-qwen-q8",
+              "role": "aligned",
+              "word_ids": [
+                "w46"
+              ],
+              "lexical_text": "we're",
+              "segment_ids": [
+                "s8"
+              ],
+              "timing_precision": [
+                "cue"
+              ],
+              "speaker_labels": [
+                "speaker 0"
+              ],
+              "word_confidences": [
+                null
+              ]
+            }
+          ],
+          "priority": "medium",
+          "status": "unreviewed",
+          "audio_verified": false
+        }
+      ]
+    },
+    "E001-opening": {
+      "comparison_sha256": "6620ac1b846a7835c4ca290b7534662217d8820020013e9aef36c33bcc17301b",
+      "selection": "First five records, plus opening greeting/duplicate/overrun examples; not exhaustive",
+      "records": [
+        {
+          "id": "d-020cc32ef9041fb9fc38",
+          "episode": "E001",
+          "start_ms": 320,
+          "end_ms": 12400,
+          "classification": "possible_omission",
+          "diagnostics": [
+            "Speech appears in one pass only; possible omission in E001-vad-default or insertion in the other pass"
+          ],
+          "sources": [
+            {
+              "run_id": "E001-baseline",
+              "role": "aligned",
+              "word_ids": [
+                "w0",
+                "w1",
+                "w2",
+                "w3",
+                "w4"
+              ],
+              "lexical_text": "no m h hello everybody",
+              "segment_ids": [
+                "s0"
+              ],
+              "timing_precision": [
+                "word"
+              ],
+              "speaker_labels": [
+                null
+              ],
+              "word_confidences": [
+                null,
+                null,
+                null,
+                null,
+                null
+              ]
+            },
+            {
+              "run_id": "E001-vad-default",
+              "role": "aligned",
+              "word_ids": [],
+              "lexical_text": "",
+              "segment_ids": [],
+              "timing_precision": [],
+              "speaker_labels": [],
+              "word_confidences": []
+            },
+            {
+              "run_id": "E001-vad-pad700",
+              "role": "context_only",
+              "word_ids": [
+                "w0",
+                "w1"
+              ],
+              "lexical_text": "hello everybody",
+              "segment_ids": [
+                "s0"
+              ],
+              "timing_precision": [
+                "word"
+              ],
+              "speaker_labels": [
+                null
+              ],
+              "word_confidences": [
+                null,
+                null
+              ]
+            },
+            {
+              "run_id": "E001-chunk30-overlap3",
+              "role": "context_only",
+              "word_ids": [
+                "w0",
+                "w1",
+                "w2",
+                "w3",
+                "w4"
+              ],
+              "lexical_text": "no m h hello everybody",
+              "segment_ids": [
+                "s0"
+              ],
+              "timing_precision": [
+                "word"
+              ],
+              "speaker_labels": [
+                null
+              ],
+              "word_confidences": [
+                null,
+                null,
+                null,
+                null,
+                null
+              ]
+            },
+            {
+              "run_id": "E001-chunk30-nodedup",
+              "role": "context_only",
+              "word_ids": [
+                "w0",
+                "w1",
+                "w2",
+                "w3",
+                "w4"
+              ],
+              "lexical_text": "no m h hello everybody",
+              "segment_ids": [
+                "s0"
+              ],
+              "timing_precision": [
+                "word"
+              ],
+              "speaker_labels": [
+                null
+              ],
+              "word_confidences": [
+                null,
+                null,
+                null,
+                null,
+                null
+              ]
+            },
+            {
+              "run_id": "E001-qwen-q8",
+              "role": "context_only",
+              "word_ids": [
+                "w0",
+                "w1",
+                "w2",
+                "w3",
+                "w4",
+                "w5",
+                "w6",
+                "w7"
+              ],
+              "lexical_text": "Hello everybody and welcome to the very first",
+              "segment_ids": [
+                "s0"
+              ],
+              "timing_precision": [
+                "cue"
+              ],
+              "speaker_labels": [
+                "speaker 0"
+              ],
+              "word_confidences": [
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null
+              ]
+            }
+          ],
+          "priority": "high",
+          "status": "unreviewed",
+          "audio_verified": false
+        },
+        {
+          "id": "d-392747e8e6f05dfd9353",
+          "episode": "E001",
+          "start_ms": 320,
+          "end_ms": 1000,
+          "classification": "possible_hallucination",
+          "diagnostics": [
+            "Unilateral text with mean available probability below 0.5; uncalibrated heuristic",
+            "Related omission candidate: d-f815c2a676a0966c17d4"
+          ],
+          "sources": [
+            {
+              "run_id": "E001-vad-pad700",
+              "role": "aligned",
+              "word_ids": [],
+              "lexical_text": "",
+              "segment_ids": [],
+              "timing_precision": [],
+              "speaker_labels": [],
+              "word_confidences": []
+            },
+            {
+              "run_id": "E001-chunk30-nodedup",
+              "role": "aligned",
+              "word_ids": [
+                "w0",
+                "w1",
+                "w2"
+              ],
+              "lexical_text": "no m h",
+              "segment_ids": [
+                "s0"
+              ],
+              "timing_precision": [
+                "word"
+              ],
+              "speaker_labels": [
+                null
+              ],
+              "word_confidences": [
+                null,
+                null,
+                null
+              ]
+            },
+            {
+              "run_id": "E001-baseline",
+              "role": "context_only",
+              "word_ids": [
+                "w0",
+                "w1",
+                "w2"
+              ],
+              "lexical_text": "no m h",
+              "segment_ids": [
+                "s0"
+              ],
+              "timing_precision": [
+                "word"
+              ],
+              "speaker_labels": [
+                null
+              ],
+              "word_confidences": [
+                null,
+                null,
+                null
+              ]
+            },
+            {
+              "run_id": "E001-vad-default",
+              "role": "context_only",
+              "word_ids": [],
+              "lexical_text": "",
+              "segment_ids": [],
+              "timing_precision": [],
+              "speaker_labels": [],
+              "word_confidences": []
+            },
+            {
+              "run_id": "E001-chunk30-overlap3",
+              "role": "context_only",
+              "word_ids": [
+                "w0",
+                "w1",
+                "w2"
+              ],
+              "lexical_text": "no m h",
+              "segment_ids": [
+                "s0"
+              ],
+              "timing_precision": [
+                "word"
+              ],
+              "speaker_labels": [
+                null
+              ],
+              "word_confidences": [
+                null,
+                null,
+                null
+              ]
+            },
+            {
+              "run_id": "E001-qwen-q8",
+              "role": "context_only",
+              "word_ids": [],
+              "lexical_text": "",
+              "segment_ids": [],
+              "timing_precision": [],
+              "speaker_labels": [],
+              "word_confidences": []
+            }
+          ],
+          "priority": "high",
+          "status": "unreviewed",
+          "audio_verified": false
+        },
+        {
+          "id": "d-46ca5d69aa76d6eefed5",
+          "episode": "E001",
+          "start_ms": 320,
+          "end_ms": 1000,
+          "classification": "possible_hallucination",
+          "diagnostics": [
+            "Unilateral text with mean available probability below 0.5; uncalibrated heuristic",
+            "Related omission candidate: d-ec77348ab8ec4a24aa10"
+          ],
+          "sources": [
+            {
+              "run_id": "E001-chunk30-nodedup",
+              "role": "aligned",
+              "word_ids": [
+                "w0",
+                "w1",
+                "w2"
+              ],
+              "lexical_text": "no m h",
+              "segment_ids": [
+                "s0"
+              ],
+              "timing_precision": [
+                "word"
+              ],
+              "speaker_labels": [
+                null
+              ],
+              "word_confidences": [
+                null,
+                null,
+                null
+              ]
+            },
+            {
+              "run_id": "E001-qwen-q8",
+              "role": "aligned",
+              "word_ids": [],
+              "lexical_text": "",
+              "segment_ids": [],
+              "timing_precision": [],
+              "speaker_labels": [],
+              "word_confidences": []
+            },
+            {
+              "run_id": "E001-baseline",
+              "role": "context_only",
+              "word_ids": [
+                "w0",
+                "w1",
+                "w2"
+              ],
+              "lexical_text": "no m h",
+              "segment_ids": [
+                "s0"
+              ],
+              "timing_precision": [
+                "word"
+              ],
+              "speaker_labels": [
+                null
+              ],
+              "word_confidences": [
+                null,
+                null,
+                null
+              ]
+            },
+            {
+              "run_id": "E001-vad-default",
+              "role": "context_only",
+              "word_ids": [],
+              "lexical_text": "",
+              "segment_ids": [],
+              "timing_precision": [],
+              "speaker_labels": [],
+              "word_confidences": []
+            },
+            {
+              "run_id": "E001-vad-pad700",
+              "role": "context_only",
+              "word_ids": [],
+              "lexical_text": "",
+              "segment_ids": [],
+              "timing_precision": [],
+              "speaker_labels": [],
+              "word_confidences": []
+            },
+            {
+              "run_id": "E001-chunk30-overlap3",
+              "role": "context_only",
+              "word_ids": [
+                "w0",
+                "w1",
+                "w2"
+              ],
+              "lexical_text": "no m h",
+              "segment_ids": [
+                "s0"
+              ],
+              "timing_precision": [
+                "word"
+              ],
+              "speaker_labels": [
+                null
+              ],
+              "word_confidences": [
+                null,
+                null,
+                null
+              ]
+            }
+          ],
+          "priority": "high",
+          "status": "unreviewed",
+          "audio_verified": false
+        },
+        {
+          "id": "d-55dc97f93df5cede79be",
+          "episode": "E001",
+          "start_ms": 320,
+          "end_ms": 1000,
+          "classification": "possible_omission",
+          "diagnostics": [
+            "Speech appears in one pass only; possible omission in E001-vad-pad700 or insertion in the other pass"
+          ],
+          "sources": [
+            {
+              "run_id": "E001-vad-pad700",
+              "role": "aligned",
+              "word_ids": [],
+              "lexical_text": "",
+              "segment_ids": [],
+              "timing_precision": [],
+              "speaker_labels": [],
+              "word_confidences": []
+            },
+            {
+              "run_id": "E001-chunk30-overlap3",
+              "role": "aligned",
+              "word_ids": [
+                "w0",
+                "w1",
+                "w2"
+              ],
+              "lexical_text": "no m h",
+              "segment_ids": [
+                "s0"
+              ],
+              "timing_precision": [
+                "word"
+              ],
+              "speaker_labels": [
+                null
+              ],
+              "word_confidences": [
+                null,
+                null,
+                null
+              ]
+            },
+            {
+              "run_id": "E001-baseline",
+              "role": "context_only",
+              "word_ids": [
+                "w0",
+                "w1",
+                "w2"
+              ],
+              "lexical_text": "no m h",
+              "segment_ids": [
+                "s0"
+              ],
+              "timing_precision": [
+                "word"
+              ],
+              "speaker_labels": [
+                null
+              ],
+              "word_confidences": [
+                null,
+                null,
+                null
+              ]
+            },
+            {
+              "run_id": "E001-vad-default",
+              "role": "context_only",
+              "word_ids": [],
+              "lexical_text": "",
+              "segment_ids": [],
+              "timing_precision": [],
+              "speaker_labels": [],
+              "word_confidences": []
+            },
+            {
+              "run_id": "E001-chunk30-nodedup",
+              "role": "context_only",
+              "word_ids": [
+                "w0",
+                "w1",
+                "w2"
+              ],
+              "lexical_text": "no m h",
+              "segment_ids": [
+                "s0"
+              ],
+              "timing_precision": [
+                "word"
+              ],
+              "speaker_labels": [
+                null
+              ],
+              "word_confidences": [
+                null,
+                null,
+                null
+              ]
+            },
+            {
+              "run_id": "E001-qwen-q8",
+              "role": "context_only",
+              "word_ids": [],
+              "lexical_text": "",
+              "segment_ids": [],
+              "timing_precision": [],
+              "speaker_labels": [],
+              "word_confidences": []
+            }
+          ],
+          "priority": "high",
+          "status": "unreviewed",
+          "audio_verified": false
+        },
+        {
+          "id": "d-6cbc09406043384fc66f",
+          "episode": "E001",
+          "start_ms": 320,
+          "end_ms": 12400,
+          "classification": "possible_omission",
+          "diagnostics": [
+            "Speech appears in one pass only; possible omission in E001-vad-default or insertion in the other pass"
+          ],
+          "sources": [
+            {
+              "run_id": "E001-vad-default",
+              "role": "aligned",
+              "word_ids": [],
+              "lexical_text": "",
+              "segment_ids": [],
+              "timing_precision": [],
+              "speaker_labels": [],
+              "word_confidences": []
+            },
+            {
+              "run_id": "E001-chunk30-nodedup",
+              "role": "aligned",
+              "word_ids": [
+                "w0",
+                "w1",
+                "w2",
+                "w3",
+                "w4"
+              ],
+              "lexical_text": "no m h hello everybody",
+              "segment_ids": [
+                "s0"
+              ],
+              "timing_precision": [
+                "word"
+              ],
+              "speaker_labels": [
+                null
+              ],
+              "word_confidences": [
+                null,
+                null,
+                null,
+                null,
+                null
+              ]
+            },
+            {
+              "run_id": "E001-baseline",
+              "role": "context_only",
+              "word_ids": [
+                "w0",
+                "w1",
+                "w2",
+                "w3",
+                "w4"
+              ],
+              "lexical_text": "no m h hello everybody",
+              "segment_ids": [
+                "s0"
+              ],
+              "timing_precision": [
+                "word"
+              ],
+              "speaker_labels": [
+                null
+              ],
+              "word_confidences": [
+                null,
+                null,
+                null,
+                null,
+                null
+              ]
+            },
+            {
+              "run_id": "E001-vad-pad700",
+              "role": "context_only",
+              "word_ids": [
+                "w0",
+                "w1"
+              ],
+              "lexical_text": "hello everybody",
+              "segment_ids": [
+                "s0"
+              ],
+              "timing_precision": [
+                "word"
+              ],
+              "speaker_labels": [
+                null
+              ],
+              "word_confidences": [
+                null,
+                null
+              ]
+            },
+            {
+              "run_id": "E001-chunk30-overlap3",
+              "role": "context_only",
+              "word_ids": [
+                "w0",
+                "w1",
+                "w2",
+                "w3",
+                "w4"
+              ],
+              "lexical_text": "no m h hello everybody",
+              "segment_ids": [
+                "s0"
+              ],
+              "timing_precision": [
+                "word"
+              ],
+              "speaker_labels": [
+                null
+              ],
+              "word_confidences": [
+                null,
+                null,
+                null,
+                null,
+                null
+              ]
+            },
+            {
+              "run_id": "E001-qwen-q8",
+              "role": "context_only",
+              "word_ids": [
+                "w0",
+                "w1",
+                "w2",
+                "w3",
+                "w4",
+                "w5",
+                "w6",
+                "w7"
+              ],
+              "lexical_text": "Hello everybody and welcome to the very first",
+              "segment_ids": [
+                "s0"
+              ],
+              "timing_precision": [
+                "cue"
+              ],
+              "speaker_labels": [
+                "speaker 0"
+              ],
+              "word_confidences": [
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null
+              ]
+            }
+          ],
+          "priority": "high",
+          "status": "unreviewed",
+          "audio_verified": false
+        },
+        {
+          "id": "d-622c1aa1a534dfed3097",
+          "episode": "E001",
+          "start_ms": 99760,
+          "end_ms": 99840,
+          "classification": "possible_omission",
+          "diagnostics": [
+            "Speech appears in one pass only; possible omission in E001-baseline or insertion in the other pass"
+          ],
+          "sources": [
+            {
+              "run_id": "E001-baseline",
+              "role": "aligned",
+              "word_ids": [],
+              "lexical_text": "",
+              "segment_ids": [],
+              "timing_precision": [],
+              "speaker_labels": [],
+              "word_confidences": []
+            },
+            {
+              "run_id": "E001-chunk30-overlap3",
+              "role": "aligned",
+              "word_ids": [
+                "w271"
+              ],
+              "lexical_text": "there",
+              "segment_ids": [
+                "s2"
+              ],
+              "timing_precision": [
+                "word"
+              ],
+              "speaker_labels": [
+                null
+              ],
+              "word_confidences": [
+                null
+              ]
+            },
+            {
+              "run_id": "E001-vad-default",
+              "role": "context_only",
+              "word_ids": [],
+              "lexical_text": "",
+              "segment_ids": [],
+              "timing_precision": [],
+              "speaker_labels": [],
+              "word_confidences": []
+            },
+            {
+              "run_id": "E001-vad-pad700",
+              "role": "context_only",
+              "word_ids": [],
+              "lexical_text": "",
+              "segment_ids": [],
+              "timing_precision": [],
+              "speaker_labels": [],
+              "word_confidences": []
+            },
+            {
+              "run_id": "E001-chunk30-nodedup",
+              "role": "context_only",
+              "word_ids": [
+                "w270",
+                "w271"
+              ],
+              "lexical_text": "ferguson there",
+              "segment_ids": [
+                "s2"
+              ],
+              "timing_precision": [
+                "word"
+              ],
+              "speaker_labels": [
+                null
+              ],
+              "word_confidences": [
+                null,
+                null
+              ]
+            },
+            {
+              "run_id": "E001-qwen-q8",
+              "role": "context_only",
+              "word_ids": [
+                "w278",
+                "w279",
+                "w280",
+                "w281",
+                "w282",
+                "w283",
+                "w284"
+              ],
+              "lexical_text": "Kyle Ferguson down there in the corner",
+              "segment_ids": [
+                "s54"
+              ],
+              "timing_precision": [
+                "cue"
+              ],
+              "speaker_labels": [
+                "speaker 0"
+              ],
+              "word_confidences": [
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null
+              ]
+            }
+          ],
+          "priority": "high",
+          "status": "unreviewed",
+          "audio_verified": false
+        },
+        {
+          "id": "d-ea557477e285f458f450",
+          "episode": "E001",
+          "start_ms": 100480,
+          "end_ms": 100640,
+          "classification": "conflicting_recognition",
+          "diagnostics": [],
+          "sources": [
+            {
+              "run_id": "E001-baseline",
+              "role": "aligned",
+              "word_ids": [
+                "w275"
+              ],
+              "lexical_text": "hi",
+              "segment_ids": [
+                "s1"
+              ],
+              "timing_precision": [
+                "word"
+              ],
+              "speaker_labels": [
+                null
+              ],
+              "word_confidences": [
+                null
+              ]
+            },
+            {
+              "run_id": "E001-chunk30-overlap3",
+              "role": "aligned",
+              "word_ids": [
+                "w277"
+              ],
+              "lexical_text": "i",
+              "segment_ids": [
+                "s2"
+              ],
+              "timing_precision": [
+                "word"
+              ],
+              "speaker_labels": [
+                null
+              ],
+              "word_confidences": [
+                null
+              ]
+            },
+            {
+              "run_id": "E001-vad-default",
+              "role": "context_only",
+              "word_ids": [
+                "w271"
+              ],
+              "lexical_text": "hi",
+              "segment_ids": [
+                "s1"
+              ],
+              "timing_precision": [
+                "word"
+              ],
+              "speaker_labels": [
+                null
+              ],
+              "word_confidences": [
+                null
+              ]
+            },
+            {
+              "run_id": "E001-vad-pad700",
+              "role": "context_only",
+              "word_ids": [
+                "w274"
+              ],
+              "lexical_text": "i",
+              "segment_ids": [
+                "s0"
+              ],
+              "timing_precision": [
+                "word"
+              ],
+              "speaker_labels": [
+                null
+              ],
+              "word_confidences": [
+                null
+              ]
+            },
+            {
+              "run_id": "E001-chunk30-nodedup",
+              "role": "context_only",
+              "word_ids": [
+                "w276",
+                "w277"
+              ],
+              "lexical_text": "corner i",
+              "segment_ids": [
+                "s2"
+              ],
+              "timing_precision": [
+                "word"
+              ],
+              "speaker_labels": [
+                null
+              ],
+              "word_confidences": [
+                null,
+                null
+              ]
+            },
+            {
+              "run_id": "E001-qwen-q8",
+              "role": "context_only",
+              "word_ids": [
+                "w285",
+                "w286"
+              ],
+              "lexical_text": "Hi Kyle",
+              "segment_ids": [
+                "s55"
+              ],
+              "timing_precision": [
+                "cue"
+              ],
+              "speaker_labels": [
+                "speaker 0"
+              ],
+              "word_confidences": [
+                null,
+                null
+              ]
+            }
+          ],
+          "priority": "medium",
+          "status": "unreviewed",
+          "audio_verified": false
+        },
+        {
+          "id": "d-a3d223515c7a4d64afab",
+          "episode": "E001",
+          "start_ms": 100720,
+          "end_ms": 101920,
+          "classification": "possible_omission",
+          "diagnostics": [
+            "Speech appears in one pass only; possible omission in E001-chunk30-overlap3 or insertion in the other pass"
+          ],
+          "sources": [
+            {
+              "run_id": "E001-baseline",
+              "role": "aligned",
+              "word_ids": [
+                "w276",
+                "w277"
+              ],
+              "lexical_text": "kyle hi",
+              "segment_ids": [
+                "s1"
+              ],
+              "timing_precision": [
+                "word"
+              ],
+              "speaker_labels": [
+                null
+              ],
+              "word_confidences": [
+                null,
+                null
+              ]
+            },
+            {
+              "run_id": "E001-chunk30-overlap3",
+              "role": "aligned",
+              "word_ids": [],
+              "lexical_text": "",
+              "segment_ids": [],
+              "timing_precision": [],
+              "speaker_labels": [],
+              "word_confidences": []
+            },
+            {
+              "run_id": "E001-vad-default",
+              "role": "context_only",
+              "word_ids": [
+                "w272",
+                "w273"
+              ],
+              "lexical_text": "kyle hi",
+              "segment_ids": [
+                "s1"
+              ],
+              "timing_precision": [
+                "word"
+              ],
+              "speaker_labels": [
+                null
+              ],
+              "word_confidences": [
+                null,
+                null
+              ]
+            },
+            {
+              "run_id": "E001-vad-pad700",
+              "role": "context_only",
+              "word_ids": [
+                "w275",
+                "w276"
+              ],
+              "lexical_text": "kyle hi",
+              "segment_ids": [
+                "s0",
+                "s1"
+              ],
+              "timing_precision": [
+                "word"
+              ],
+              "speaker_labels": [
+                null
+              ],
+              "word_confidences": [
+                null,
+                null
+              ]
+            },
+            {
+              "run_id": "E001-chunk30-nodedup",
+              "role": "context_only",
+              "word_ids": [
+                "w278"
+              ],
+              "lexical_text": "guess",
+              "segment_ids": [
+                "s2"
+              ],
+              "timing_precision": [
+                "word"
+              ],
+              "speaker_labels": [
+                null
+              ],
+              "word_confidences": [
+                null
+              ]
+            },
+            {
+              "run_id": "E001-qwen-q8",
+              "role": "context_only",
+              "word_ids": [
+                "w285",
+                "w286",
+                "w287"
+              ],
+              "lexical_text": "Hi Kyle Hi",
+              "segment_ids": [
+                "s55",
+                "s56"
+              ],
+              "timing_precision": [
+                "cue"
+              ],
+              "speaker_labels": [
+                "speaker 0",
+                "speaker 3"
+              ],
+              "word_confidences": [
+                null,
+                null,
+                null
+              ]
+            }
+          ],
+          "priority": "high",
+          "status": "unreviewed",
+          "audio_verified": false
+        },
+        {
+          "id": "d-9fd5b0187767029bd507",
+          "episode": "E001",
+          "start_ms": 100800,
+          "end_ms": 102400,
+          "classification": "conflicting_recognition",
+          "diagnostics": [],
+          "sources": [
+            {
+              "run_id": "E001-baseline",
+              "role": "aligned",
+              "word_ids": [
+                "w278"
+              ],
+              "lexical_text": "hi",
+              "segment_ids": [
+                "s1"
+              ],
+              "timing_precision": [
+                "word"
+              ],
+              "speaker_labels": [
+                null
+              ],
+              "word_confidences": [
+                null
+              ]
+            },
+            {
+              "run_id": "E001-chunk30-overlap3",
+              "role": "aligned",
+              "word_ids": [
+                "w278"
+              ],
+              "lexical_text": "guess",
+              "segment_ids": [
+                "s2"
+              ],
+              "timing_precision": [
+                "word"
+              ],
+              "speaker_labels": [
+                null
+              ],
+              "word_confidences": [
+                null
+              ]
+            },
+            {
+              "run_id": "E001-vad-default",
+              "role": "context_only",
+              "word_ids": [
+                "w272",
+                "w273",
+                "w274",
+                "w275"
+              ],
+              "lexical_text": "kyle hi hi it's",
+              "segment_ids": [
+                "s1"
+              ],
+              "timing_precision": [
+                "word"
+              ],
+              "speaker_labels": [
+                null
+              ],
+              "word_confidences": [
+                null,
+                null,
+                null,
+                null
+              ]
+            },
+            {
+              "run_id": "E001-vad-pad700",
+              "role": "context_only",
+              "word_ids": [
+                "w275",
+                "w276",
+                "w277"
+              ],
+              "lexical_text": "kyle hi it's",
+              "segment_ids": [
+                "s0",
+                "s1"
+              ],
+              "timing_precision": [
+                "word"
+              ],
+              "speaker_labels": [
+                null
+              ],
+              "word_confidences": [
+                null,
+                null,
+                null
+              ]
+            },
+            {
+              "run_id": "E001-chunk30-nodedup",
+              "role": "context_only",
+              "word_ids": [
+                "w278",
+                "w279"
+              ],
+              "lexical_text": "guess it's",
+              "segment_ids": [
+                "s2",
+                "s3"
+              ],
+              "timing_precision": [
+                "word"
+              ],
+              "speaker_labels": [
+                null
+              ],
+              "word_confidences": [
+                null,
+                null
+              ]
+            },
+            {
+              "run_id": "E001-qwen-q8",
+              "role": "context_only",
+              "word_ids": [
+                "w285",
+                "w286",
+                "w287",
+                "w288",
+                "w289",
+                "w290",
+                "w291",
+                "w292",
+                "w293",
+                "w294"
+              ],
+              "lexical_text": "Hi Kyle Hi Hi It's good to have you here",
+              "segment_ids": [
+                "s55",
+                "s56",
+                "s57",
+                "s58"
+              ],
+              "timing_precision": [
+                "cue"
+              ],
+              "speaker_labels": [
+                "speaker 0",
+                "speaker 3"
+              ],
+              "word_confidences": [
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null
+              ]
+            }
+          ],
+          "priority": "medium",
+          "status": "unreviewed",
+          "audio_verified": false
+        },
+        {
+          "id": "d-1c26dccd31c03aea014e",
+          "episode": "E001",
+          "start_ms": 188510,
+          "end_ms": 188760,
+          "classification": "boundary_anomaly",
+          "diagnostics": [
+            "Overlap or backward timestamp; simultaneous speech is possible",
+            "Near-identical repeated word intervals: possible boundary duplicate, not deleted"
+          ],
+          "sources": [
+            {
+              "run_id": "E001-vad-pad700",
+              "role": "aligned",
+              "word_ids": [
+                "w592",
+                "w593"
+              ],
+              "lexical_text": "if if",
+              "segment_ids": [
+                "s1",
+                "s2"
+              ],
+              "timing_precision": [
+                "word"
+              ],
+              "speaker_labels": [
+                null
+              ],
+              "word_confidences": [
+                null,
+                null
+              ]
+            },
+            {
+              "run_id": "E001-baseline",
+              "role": "context_only",
+              "word_ids": [
+                "w596",
+                "w597"
+              ],
+              "lexical_text": "if you",
+              "segment_ids": [
+                "s2"
+              ],
+              "timing_precision": [
+                "word"
+              ],
+              "speaker_labels": [
+                null
+              ],
+              "word_confidences": [
+                null,
+                null
+              ]
+            },
+            {
+              "run_id": "E001-vad-default",
+              "role": "context_only",
+              "word_ids": [
+                "w594",
+                "w595"
+              ],
+              "lexical_text": "if you",
+              "segment_ids": [
+                "s1"
+              ],
+              "timing_precision": [
+                "word"
+              ],
+              "speaker_labels": [
+                null
+              ],
+              "word_confidences": [
+                null,
+                null
+              ]
+            },
+            {
+              "run_id": "E001-chunk30-overlap3",
+              "role": "context_only",
+              "word_ids": [
+                "w587",
+                "w588"
+              ],
+              "lexical_text": "here if",
+              "segment_ids": [
+                "s5"
+              ],
+              "timing_precision": [
+                "word"
+              ],
+              "speaker_labels": [
+                null
+              ],
+              "word_confidences": [
+                null,
+                null
+              ]
+            },
+            {
+              "run_id": "E001-chunk30-nodedup",
+              "role": "context_only",
+              "word_ids": [
+                "w587",
+                "w588"
+              ],
+              "lexical_text": "here if",
+              "segment_ids": [
+                "s5"
+              ],
+              "timing_precision": [
+                "word"
+              ],
+              "speaker_labels": [
+                null
+              ],
+              "word_confidences": [
+                null,
+                null
+              ]
+            },
+            {
+              "run_id": "E001-qwen-q8",
+              "role": "context_only",
+              "word_ids": [
+                "w621",
+                "w622",
+                "w623",
+                "w624",
+                "w625",
+                "w626",
+                "w627",
+                "w628"
+              ],
+              "lexical_text": "If you came expecting a completely one hundred",
+              "segment_ids": [
+                "s123"
+              ],
+              "timing_precision": [
+                "cue"
+              ],
+              "speaker_labels": [
+                "speaker 0"
+              ],
+              "word_confidences": [
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null
+              ]
+            }
+          ],
+          "priority": "high",
+          "status": "unreviewed",
+          "audio_verified": false
+        },
+        {
+          "id": "d-00b11636495c76b4818a",
+          "episode": "E001",
+          "start_ms": 600080,
+          "end_ms": 600240,
+          "classification": "boundary_anomaly",
+          "diagnostics": [
+            "Timestamp outside declared run coverage"
+          ],
+          "sources": [
+            {
+              "run_id": "E001-chunk30-overlap3",
+              "role": "aligned",
+              "word_ids": [
+                "w1689"
+              ],
+              "lexical_text": "were",
+              "segment_ids": [
+                "s19"
+              ],
+              "timing_precision": [
+                "word"
+              ],
+              "speaker_labels": [
+                null
+              ],
+              "word_confidences": [
+                null
+              ]
+            },
+            {
+              "run_id": "E001-baseline",
+              "role": "not_covered_or_untimed",
+              "word_ids": [],
+              "lexical_text": "",
+              "segment_ids": [],
+              "timing_precision": [],
+              "speaker_labels": [],
+              "word_confidences": []
+            },
+            {
+              "run_id": "E001-vad-default",
+              "role": "not_covered_or_untimed",
+              "word_ids": [],
+              "lexical_text": "",
+              "segment_ids": [],
+              "timing_precision": [],
+              "speaker_labels": [],
+              "word_confidences": []
+            },
+            {
+              "run_id": "E001-vad-pad700",
+              "role": "not_covered_or_untimed",
+              "word_ids": [],
+              "lexical_text": "",
+              "segment_ids": [],
+              "timing_precision": [],
+              "speaker_labels": [],
+              "word_confidences": []
+            },
+            {
+              "run_id": "E001-chunk30-nodedup",
+              "role": "not_covered_or_untimed",
+              "word_ids": [
+                "w1689",
+                "w1690"
+              ],
+              "lexical_text": "were you",
+              "segment_ids": [
+                "s19"
+              ],
+              "timing_precision": [
+                "word"
+              ],
+              "speaker_labels": [
+                null
+              ],
+              "word_confidences": [
+                null,
+                null
+              ]
+            },
+            {
+              "run_id": "E001-qwen-q8",
+              "role": "context_only",
+              "word_ids": [
+                "w1736",
+                "w1737",
+                "w1738",
+                "w1739",
+                "w1740",
+                "w1741",
+                "w1742",
+                "w1743",
+                "w1744",
+                "w1745"
+              ],
+              "lexical_text": "Is were you performing what you were doing or is",
+              "segment_ids": [
+                "s305"
+              ],
+              "timing_precision": [
+                "cue"
+              ],
+              "speaker_labels": [
+                "speaker 1"
+              ],
+              "word_confidences": [
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null
+              ]
+            }
+          ],
+          "priority": "high",
+          "status": "unreviewed",
+          "audio_verified": false
+        },
+        {
+          "id": "d-6fa71ae46b1a8d9ffee7",
+          "episode": "E001",
+          "start_ms": 600080,
+          "end_ms": 600240,
+          "classification": "boundary_anomaly",
+          "diagnostics": [
+            "Timestamp outside declared run coverage"
+          ],
+          "sources": [
+            {
+              "run_id": "E001-chunk30-nodedup",
+              "role": "aligned",
+              "word_ids": [
+                "w1689"
+              ],
+              "lexical_text": "were",
+              "segment_ids": [
+                "s19"
+              ],
+              "timing_precision": [
+                "word"
+              ],
+              "speaker_labels": [
+                null
+              ],
+              "word_confidences": [
+                null
+              ]
+            },
+            {
+              "run_id": "E001-baseline",
+              "role": "not_covered_or_untimed",
+              "word_ids": [],
+              "lexical_text": "",
+              "segment_ids": [],
+              "timing_precision": [],
+              "speaker_labels": [],
+              "word_confidences": []
+            },
+            {
+              "run_id": "E001-vad-default",
+              "role": "not_covered_or_untimed",
+              "word_ids": [],
+              "lexical_text": "",
+              "segment_ids": [],
+              "timing_precision": [],
+              "speaker_labels": [],
+              "word_confidences": []
+            },
+            {
+              "run_id": "E001-vad-pad700",
+              "role": "not_covered_or_untimed",
+              "word_ids": [],
+              "lexical_text": "",
+              "segment_ids": [],
+              "timing_precision": [],
+              "speaker_labels": [],
+              "word_confidences": []
+            },
+            {
+              "run_id": "E001-chunk30-overlap3",
+              "role": "not_covered_or_untimed",
+              "word_ids": [
+                "w1689",
+                "w1690"
+              ],
+              "lexical_text": "were you",
+              "segment_ids": [
+                "s19"
+              ],
+              "timing_precision": [
+                "word"
+              ],
+              "speaker_labels": [
+                null
+              ],
+              "word_confidences": [
+                null,
+                null
+              ]
+            },
+            {
+              "run_id": "E001-qwen-q8",
+              "role": "context_only",
+              "word_ids": [
+                "w1736",
+                "w1737",
+                "w1738",
+                "w1739",
+                "w1740",
+                "w1741",
+                "w1742",
+                "w1743",
+                "w1744",
+                "w1745"
+              ],
+              "lexical_text": "Is were you performing what you were doing or is",
+              "segment_ids": [
+                "s305"
+              ],
+              "timing_precision": [
+                "cue"
+              ],
+              "speaker_labels": [
+                "speaker 1"
+              ],
+              "word_confidences": [
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null
+              ]
+            }
+          ],
+          "priority": "high",
+          "status": "unreviewed",
+          "audio_verified": false
+        },
+        {
+          "id": "d-64b40fef403d94e7c478",
+          "episode": "E001",
+          "start_ms": 600240,
+          "end_ms": 600400,
+          "classification": "boundary_anomaly",
+          "diagnostics": [
+            "Timestamp outside declared run coverage"
+          ],
+          "sources": [
+            {
+              "run_id": "E001-chunk30-overlap3",
+              "role": "aligned",
+              "word_ids": [
+                "w1690"
+              ],
+              "lexical_text": "you",
+              "segment_ids": [
+                "s19"
+              ],
+              "timing_precision": [
+                "word"
+              ],
+              "speaker_labels": [
+                null
+              ],
+              "word_confidences": [
+                null
+              ]
+            },
+            {
+              "run_id": "E001-baseline",
+              "role": "not_covered_or_untimed",
+              "word_ids": [],
+              "lexical_text": "",
+              "segment_ids": [],
+              "timing_precision": [],
+              "speaker_labels": [],
+              "word_confidences": []
+            },
+            {
+              "run_id": "E001-vad-default",
+              "role": "not_covered_or_untimed",
+              "word_ids": [],
+              "lexical_text": "",
+              "segment_ids": [],
+              "timing_precision": [],
+              "speaker_labels": [],
+              "word_confidences": []
+            },
+            {
+              "run_id": "E001-vad-pad700",
+              "role": "not_covered_or_untimed",
+              "word_ids": [],
+              "lexical_text": "",
+              "segment_ids": [],
+              "timing_precision": [],
+              "speaker_labels": [],
+              "word_confidences": []
+            },
+            {
+              "run_id": "E001-chunk30-nodedup",
+              "role": "not_covered_or_untimed",
+              "word_ids": [
+                "w1689",
+                "w1690",
+                "w1691"
+              ],
+              "lexical_text": "were you performing",
+              "segment_ids": [
+                "s19"
+              ],
+              "timing_precision": [
+                "word"
+              ],
+              "speaker_labels": [
+                null
+              ],
+              "word_confidences": [
+                null,
+                null,
+                null
+              ]
+            },
+            {
+              "run_id": "E001-qwen-q8",
+              "role": "context_only",
+              "word_ids": [
+                "w1736",
+                "w1737",
+                "w1738",
+                "w1739",
+                "w1740",
+                "w1741",
+                "w1742",
+                "w1743",
+                "w1744",
+                "w1745"
+              ],
+              "lexical_text": "Is were you performing what you were doing or is",
+              "segment_ids": [
+                "s305"
+              ],
+              "timing_precision": [
+                "cue"
+              ],
+              "speaker_labels": [
+                "speaker 1"
+              ],
+              "word_confidences": [
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null
+              ]
+            }
+          ],
+          "priority": "high",
+          "status": "unreviewed",
+          "audio_verified": false
+        },
+        {
+          "id": "d-8cd10e37c0680d496f7c",
+          "episode": "E001",
+          "start_ms": 600240,
+          "end_ms": 600400,
+          "classification": "boundary_anomaly",
+          "diagnostics": [
+            "Timestamp outside declared run coverage"
+          ],
+          "sources": [
+            {
+              "run_id": "E001-chunk30-nodedup",
+              "role": "aligned",
+              "word_ids": [
+                "w1690"
+              ],
+              "lexical_text": "you",
+              "segment_ids": [
+                "s19"
+              ],
+              "timing_precision": [
+                "word"
+              ],
+              "speaker_labels": [
+                null
+              ],
+              "word_confidences": [
+                null
+              ]
+            },
+            {
+              "run_id": "E001-baseline",
+              "role": "not_covered_or_untimed",
+              "word_ids": [],
+              "lexical_text": "",
+              "segment_ids": [],
+              "timing_precision": [],
+              "speaker_labels": [],
+              "word_confidences": []
+            },
+            {
+              "run_id": "E001-vad-default",
+              "role": "not_covered_or_untimed",
+              "word_ids": [],
+              "lexical_text": "",
+              "segment_ids": [],
+              "timing_precision": [],
+              "speaker_labels": [],
+              "word_confidences": []
+            },
+            {
+              "run_id": "E001-vad-pad700",
+              "role": "not_covered_or_untimed",
+              "word_ids": [],
+              "lexical_text": "",
+              "segment_ids": [],
+              "timing_precision": [],
+              "speaker_labels": [],
+              "word_confidences": []
+            },
+            {
+              "run_id": "E001-chunk30-overlap3",
+              "role": "not_covered_or_untimed",
+              "word_ids": [
+                "w1689",
+                "w1690",
+                "w1691"
+              ],
+              "lexical_text": "were you performing",
+              "segment_ids": [
+                "s19"
+              ],
+              "timing_precision": [
+                "word"
+              ],
+              "speaker_labels": [
+                null
+              ],
+              "word_confidences": [
+                null,
+                null,
+                null
+              ]
+            },
+            {
+              "run_id": "E001-qwen-q8",
+              "role": "context_only",
+              "word_ids": [
+                "w1736",
+                "w1737",
+                "w1738",
+                "w1739",
+                "w1740",
+                "w1741",
+                "w1742",
+                "w1743",
+                "w1744",
+                "w1745"
+              ],
+              "lexical_text": "Is were you performing what you were doing or is",
+              "segment_ids": [
+                "s305"
+              ],
+              "timing_precision": [
+                "cue"
+              ],
+              "speaker_labels": [
+                "speaker 1"
+              ],
+              "word_confidences": [
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null
+              ]
+            }
+          ],
+          "priority": "high",
+          "status": "unreviewed",
+          "audio_verified": false
+        },
+        {
+          "id": "d-1fd3d5a7b453b817f608",
+          "episode": "E001",
+          "start_ms": 600400,
+          "end_ms": 600800,
+          "classification": "boundary_anomaly",
+          "diagnostics": [
+            "Timestamp outside declared run coverage"
+          ],
+          "sources": [
+            {
+              "run_id": "E001-chunk30-nodedup",
+              "role": "aligned",
+              "word_ids": [
+                "w1691"
+              ],
+              "lexical_text": "performing",
+              "segment_ids": [
+                "s19"
+              ],
+              "timing_precision": [
+                "word"
+              ],
+              "speaker_labels": [
+                null
+              ],
+              "word_confidences": [
+                null
+              ]
+            },
+            {
+              "run_id": "E001-baseline",
+              "role": "not_covered_or_untimed",
+              "word_ids": [],
+              "lexical_text": "",
+              "segment_ids": [],
+              "timing_precision": [],
+              "speaker_labels": [],
+              "word_confidences": []
+            },
+            {
+              "run_id": "E001-vad-default",
+              "role": "not_covered_or_untimed",
+              "word_ids": [],
+              "lexical_text": "",
+              "segment_ids": [],
+              "timing_precision": [],
+              "speaker_labels": [],
+              "word_confidences": []
+            },
+            {
+              "run_id": "E001-vad-pad700",
+              "role": "not_covered_or_untimed",
+              "word_ids": [],
+              "lexical_text": "",
+              "segment_ids": [],
+              "timing_precision": [],
+              "speaker_labels": [],
+              "word_confidences": []
+            },
+            {
+              "run_id": "E001-chunk30-overlap3",
+              "role": "not_covered_or_untimed",
+              "word_ids": [
+                "w1690",
+                "w1691"
+              ],
+              "lexical_text": "you performing",
+              "segment_ids": [
+                "s19"
+              ],
+              "timing_precision": [
+                "word"
+              ],
+              "speaker_labels": [
+                null
+              ],
+              "word_confidences": [
+                null,
+                null
+              ]
+            },
+            {
+              "run_id": "E001-qwen-q8",
+              "role": "context_only",
+              "word_ids": [
+                "w1736",
+                "w1737",
+                "w1738",
+                "w1739",
+                "w1740",
+                "w1741",
+                "w1742",
+                "w1743",
+                "w1744",
+                "w1745"
+              ],
+              "lexical_text": "Is were you performing what you were doing or is",
+              "segment_ids": [
+                "s305"
+              ],
+              "timing_precision": [
+                "cue"
+              ],
+              "speaker_labels": [
+                "speaker 1"
+              ],
+              "word_confidences": [
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null
+              ]
+            }
+          ],
+          "priority": "high",
+          "status": "unreviewed",
+          "audio_verified": false
+        },
+        {
+          "id": "d-f6b8dc3046fd18599d35",
+          "episode": "E001",
+          "start_ms": 600400,
+          "end_ms": 600800,
+          "classification": "boundary_anomaly",
+          "diagnostics": [
+            "Timestamp outside declared run coverage"
+          ],
+          "sources": [
+            {
+              "run_id": "E001-chunk30-overlap3",
+              "role": "aligned",
+              "word_ids": [
+                "w1691"
+              ],
+              "lexical_text": "performing",
+              "segment_ids": [
+                "s19"
+              ],
+              "timing_precision": [
+                "word"
+              ],
+              "speaker_labels": [
+                null
+              ],
+              "word_confidences": [
+                null
+              ]
+            },
+            {
+              "run_id": "E001-baseline",
+              "role": "not_covered_or_untimed",
+              "word_ids": [],
+              "lexical_text": "",
+              "segment_ids": [],
+              "timing_precision": [],
+              "speaker_labels": [],
+              "word_confidences": []
+            },
+            {
+              "run_id": "E001-vad-default",
+              "role": "not_covered_or_untimed",
+              "word_ids": [],
+              "lexical_text": "",
+              "segment_ids": [],
+              "timing_precision": [],
+              "speaker_labels": [],
+              "word_confidences": []
+            },
+            {
+              "run_id": "E001-vad-pad700",
+              "role": "not_covered_or_untimed",
+              "word_ids": [],
+              "lexical_text": "",
+              "segment_ids": [],
+              "timing_precision": [],
+              "speaker_labels": [],
+              "word_confidences": []
+            },
+            {
+              "run_id": "E001-chunk30-nodedup",
+              "role": "not_covered_or_untimed",
+              "word_ids": [
+                "w1690",
+                "w1691"
+              ],
+              "lexical_text": "you performing",
+              "segment_ids": [
+                "s19"
+              ],
+              "timing_precision": [
+                "word"
+              ],
+              "speaker_labels": [
+                null
+              ],
+              "word_confidences": [
+                null,
+                null
+              ]
+            },
+            {
+              "run_id": "E001-qwen-q8",
+              "role": "context_only",
+              "word_ids": [
+                "w1736",
+                "w1737",
+                "w1738",
+                "w1739",
+                "w1740",
+                "w1741",
+                "w1742",
+                "w1743",
+                "w1744",
+                "w1745"
+              ],
+              "lexical_text": "Is were you performing what you were doing or is",
+              "segment_ids": [
+                "s305"
+              ],
+              "timing_precision": [
+                "cue"
+              ],
+              "speaker_labels": [
+                "speaker 1"
+              ],
+              "word_confidences": [
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null
+              ]
+            }
+          ],
+          "priority": "high",
+          "status": "unreviewed",
+          "audio_verified": false
+        }
+      ]
+    }
+  }
+}

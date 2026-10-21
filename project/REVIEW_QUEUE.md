@@ -2,6 +2,19 @@
 
 These are **outstanding checks**, not completed corrections. References give approximate positions in the original episode audio.
 
+**Generated queue available:** run the [multi-pass comparison](../reports/MULTIPASS_PIPELINE.md)
+to obtain `comparison.md`, detailed `comparison.json`, `jobs.json` and a separate
+decision ledger. The [pilot report](../reports/MULTIPASS_PILOT_2026-10-21.md) records
+counts and representative candidate IDs. Generated records are hypotheses, not
+resolutions of the listening tasks below. Nearby records may overlap and several
+run pairs may flag the same speech; review consolidated audio jobs to reduce
+duplicate work. Untimed records remain in a separate unlocated-job list.
+
+First generated-queue listening targets: opening `no m h` / greeting, the extra
+Qwen `Oops` near 00:22, greetings around 01:40, the padded-VAD `if if` at
+03:08.510–03:08.760, and chunk overruns beyond 10:00. No new audio verification
+or canonical correction was performed by this comparison run.
+
 | Priority | Episode / time | Concern | Suggested action |
 |---|---|---|---|
 | High | E000 00:13:07–00:13:28 | “Now” is the last word; processed Parakeet cue is placed at 13:20–13:28 while raw ends by 13:11 | Retimestamp final word from audio; exclude musical tail |

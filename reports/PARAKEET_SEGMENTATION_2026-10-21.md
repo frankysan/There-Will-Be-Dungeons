@@ -85,3 +85,12 @@ Other machine-output issues: `Dusthill` becomes `dust hill`, `dus hill` or `dusi
 The owner-provided five sets of logs, JSON, and SRT were evaluated within the conversation; these fresh **benchmark outputs were not added to the repository**. Preserve originals under run-specific names in the private experiment archive if future byte-reproducibility is desired, and record audio-file identity/hash when exporting into the project's source manifest. Avoid copying the owner's local computer paths or runtime environment into public documentation.
 
 This report is an analysis of **machine outputs**. The project already has distinct **listener-verified** E001 findings; do not downgrade or contradict those when using this report.
+
+## Later repository inventory — 2026-10-21
+
+The five `experiments/episode01-*.json` / `.srt` pairs are now present in the
+repository. The earlier preservation note above records the state at preparation
+time; it is retained as history. The [multi-pass export pilot](MULTIPASS_PILOT_2026-10-21.md)
+reuses these exact artifacts, records their hashes, and confirms the two chunked
+pairs remain byte-identical. The unrelated `experiments/baseline.*` pair is not
+assigned an episode or time window without additional identity evidence.

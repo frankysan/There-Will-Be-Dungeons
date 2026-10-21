@@ -30,4 +30,10 @@ Decisions marked **provisional** remain open to revision after listening tests.
 
 ## Decision changes
 
+| ID | Status | Decision | Why / evidence |
+|---|---|---|---|
+| D-022 | Experimental implementation, 2026-10-21 | Compare primary Parakeet and independent Qwen Q8 with time-constrained anchors and bounded edit alignment | Preserves possible omissions and scales to multi-hour exported transcripts; [implementation and limits](../reports/MULTIPASS_PIPELINE.md) |
+| D-023 | Implemented safeguard, 2026-10-21 | Keep original runs, source timing precision, alternatives and explicit reviewer decisions; no automatic transcript reconciliation | Agreement/majority and confidence do not establish audible speech; SRT cues do not supply word timing |
+| D-024 | Evaluation pending, 2026-10-21 | Generate bounded targeted jobs and import third passes as additional evidence | A listening reference and independent deletion/insertion/substitution measures are required before claiming improved accuracy; [export pilot](../reports/MULTIPASS_PILOT_2026-10-21.md) |
+
 When changing a decision, append a dated entry with reasons and affected episodes. Do not erase the original rationale; instead mark it superseded.

@@ -2,6 +2,19 @@
 
 This is a prioritized plan, not a list of completed actions.
 
+**Implemented experiment (2026-10-21):** [multi-pass export comparison, review
+ledger, targeted job generation and provisional reconciliation](../reports/MULTIPASS_PIPELINE.md).
+The [E000/E001 export pilot](../reports/MULTIPASS_PILOT_2026-10-21.md) is complete;
+audio-grounded validation and a real targeted recognizer execution remain open.
+The current priority is the listening reference in item 2, followed by a bounded
+third-pass trial and separate deletion/insertion/substitution measures. Include
+agreed passages as controls to detect omissions missed by all recognition runs.
+
+Maintenance follow-up: existing `validate_pilot.py` / legacy rebuild helpers use
+short `E000.*`/`E001.*` source filenames absent after the full-title filename
+migration. Repair source resolution without changing retained transcript text.
+The new comparison manifests already reference the current full filenames.
+
 1. **GitHub canonical home established.** Repository `frankysan/There-Will-Be-Dungeons-Transcripts` is connected. Review [external reference and chronology policy](EXTERNAL_REFERENCES.md) and keep original MP3s outside Git by default. Decide how to manage provenance, licensing and spoiler-sensitive references before scaling.
 2. **Listener-verified reference passages.** Create 20–30 minutes of manually checked transcription for E000/E001; include Q4/Q8 disagreements (00:23, 01:51, 02:13), proper nouns, overlaps and music boundaries.
 3. **Select ASR recognition model.** Benchmark Parakeet TDT 1.1B, Qwen Q4 and Qwen Q8 against the *same* reference; track omissions separately from WER.

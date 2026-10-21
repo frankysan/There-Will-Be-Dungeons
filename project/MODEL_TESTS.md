@@ -37,3 +37,25 @@ Next experimental priority: audio-verified Q4/Q8/Parakeet discrepancies, plus a 
 | Same chunks, LCS off | 14.96 s / 40.1× | 1,692 | **JSON and SRT are byte-identical** to LCS auto |
 
 Stop optimizing segmentation based solely on model-to-model agreement. Listen to the timestamped review samples before revising the model choice. No existing source SRTs or transcript drafts were changed in this test.
+
+## 2026-10-21: reproducible multi-pass export comparison
+
+[Implementation](../reports/MULTIPASS_PIPELINE.md) and
+[measured pilot with machine-readable evidence](../reports/MULTIPASS_PILOT_2026-10-21.md).
+The new standard-library tooling compares full E000/E001 Parakeet/Qwen Q8 SRTs
+and the five 600-second Parakeet JSON runs against each other and the opening of
+the full Qwen export. Explicit common coverage prevents the rest of a full
+episode being labelled missing from a short run. Original wording, source hashes,
+cue/word timing precision, probabilities and configuration uncertainty survive.
+
+The local export pilot produces structured disagreement reports, padded job
+proposals and provisional reconciliation with no automatic text changes. It
+rediscovers the `hi`/`kyle` versus `i guess` discrepancy, the 03:08 near-same-time
+`if if`, and timestamps beyond the requested 600 seconds. These are not new
+listener-verified findings. C1/C2 remain byte-identical historical experiments.
+
+The installed CrispASR help was inspected for the optional single-job adapter;
+the adapter's bounded argument construction and hash rejection are tested.
+E000/E001 original audio was not found in the expected local locations, so no new
+recognizer run or listening verification was performed. No model/configuration
+was promoted on the basis of these comparison counts.
