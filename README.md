@@ -1,6 +1,6 @@
 # The Wastes — transcription and campaign-reference pilot
 
-**Status:** The E000/E001 reader-edition pilot remains incomplete and not manually proofread. Processed Parakeet SRTs for subsequent episodes are included as source material; **E002–E054** (including E013.5, and the **separate holiday one-shot E043**) now have preliminary, unverified **reference dossiers**, not publishable reader editions.
+**Status:** The E000/E001 reader-edition pilot remains incomplete and not manually proofread. Processed Parakeet SRTs for subsequent episodes are included as source material; **E002–E054** (including E013.5 and the **separate holiday one-shot E043**) and the **March 2019 Year One Q&A bonus** now have preliminary, unverified **reference dossiers**, not publishable reader editions.
 
 This package establishes a repeatable, **local-first** path from podcast audio to readable, speaker-labelled text, with a separate campaign reference that cites episode time positions. It covers the *There Will Be Dungeons* campaign described in the supplied files as *The Wastes*.
 

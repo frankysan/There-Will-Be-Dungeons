@@ -527,3 +527,26 @@ Processed-SRT dossiers [E052](../episodes/E052.md), [E053](../episodes/E053.md),
 | High | E054 end/meta | **GM announces months-long next-arc interlude and level-7 plans**; separate episode runtime and retrospective episodes from in-story calendar; no invented already-finished reforms |
 
 **Do not silently update original SRT, inventory, current-era character sheets, or source text on the strength of these provisional notes.** No listening/handout inspection occurred here.
+
+## Bonus 2019-03 — Year One Q&A verification queue
+
+Source: [Bonus dossier](../episodes/BONUS-2019-03.md) and [original processed Q&A SRT](../sources/Bonus%202019-03%20-%20March%202019%20The%20Year%20One%20Q%26A!.parakeet.processed.srt). **No audio verification** was performed. The bonus has its own namespace, **not corrected E055**.
+
+| Priority | Time | Verification needed / why |
+|---|---|---|
+| High | 00:00–00:10 | Speaker-label map (**Scott/Beau/Ben/Kristen/Jon/Kyle**), moderator intro, Kristen's recap-writing workflow and **four-armors** GM comment |
+| High | 00:10–00:16 | **Toyota wedding host intentionally unanswered**; **pixie-rescue option** GM confirms prepared; Stanley-versus-Diontalus P0D counterfactual |
+| High | 00:30–00:43 | **Blood Ball and chrome/Kuro-makishi as *unchosen* content**; Order 26 planned super-soldiers versus spontaneous expanded froghemoth |
+| High | ~00:55 | **Stanley Billings** named after **Monkey Island Stan**, not Stan Lee; Jon's appearance-imitation explanation |
+| High | ~01:00–01:05 | GM: **major artifacts pre-existing Soulbroker deals**; verify distinction between **Eye of Groxl**, guns and dragon heart |
+| Critical | ~01:07–01:23 | GM **uncertain gods/steel heaven**, tiefling savior gods; **Solar Mines conflicting memories**, dragon-metal heart and mana waves |
+| High | ~01:28–01:45 | Hope's limbs, vampire choice, consent discussion, **Fate Four left behind**, **vehicle-upgrade teaser not an obtained item** |
+| Critical | **~02:17–02:20** | **George Miller** spoken by GM, unplayed radio surveillance clue, what precisely George *would* have discovered |
+| High | ~02:20–02:26 | Scott's **unshared former partner** backstory; classify as player concept rather than GM-established character |
+| High | ~02:33–02:36 | Bok Bok invented at Dusthill as spontaneous encounter |
+| Critical | **~02:35–02:40** | Beau reveals **Buttons loved Stanley and aimed to get him to Arcanum to remove Diontalus**. Preserve **retrospective motivation versus observed E049/E050 acts** |
+| High | ~02:40–02:49 | Nash's **missing/forgotten Blink scroll**, sentimentally missing staff/necklace, Weir underground restriction, **downtime magic items not yet purchased** |
+| High | ~02:56–end | **Jon-run two-part one-shot** planned after bonus and before Wastes main storyline; verify distinct campaign/episode filenames rather than creating Wastes E055 |
+| Medium | Whole bonus | Confirm uncommon proper names (e.g. **Toyota host, Kuro-makishi, Arcanum, George Miller, Chance**) and differentiate **joke / guest speculation / GM knowledge / spoiler tease** |
+
+**Carry-forward:** Do not use this bonus to assert unplayed future arcs, or overwrite main episode dossiers' character knowledge at historical cutoffs. Neither `entities.json` nor original SRT was edited.

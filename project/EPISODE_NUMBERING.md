@@ -44,7 +44,7 @@ These correspond **one-to-one through original 54** (and, for E000, the original
 
 | Publisher/original listing | Spreadsheet's corrected classification | Consequence |
 |---|---|---|
-| **TWBD 55: The Year One Q&A!** | **`Bonus for March 2019 The Year One Q&A!`** | Original episode 55 is a **bonus**, not `The Wastes S1E055`. It must not consume a main-story number |
+| **TWBD 55: The Year One Q&A!** | **`Bonus for March 2019 The Year One Q&A!`** | Original episode 55 is a **bonus**, not `The Wastes S1E055`. [BONUS-2019-03 retrospective dossier](../episodes/BONUS-2019-03.md); source [March 2019 Q&A](../sources/Bonus%202019-03%20-%20March%202019%20The%20Year%20One%20Q%26A!.parakeet.processed.srt). It must not consume a main-story number |
 | **TWBD 56: My Standards Are Very Lizard** | **`The Wastes S1E055. My Standards Are Very Lizard`** | Original regular 56 becomes corrected **E055** |
 | **TWBD 57: Welcome back, George** | **`The Wastes S1E056. Welcome back, George`** | Continues the one-step correction |
 | **There Will Be Dungeons 58: The Royal Truckery** | **`The Wastes S1E057. The Royal Truckery`** | Still corrected original minus one |

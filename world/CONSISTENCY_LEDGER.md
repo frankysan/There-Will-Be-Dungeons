@@ -607,3 +607,27 @@ Source basis [E034](../episodes/E034.md) · [E035](../episodes/E035.md) · [E036
 | `george.family.visit.pending` | E048 plan → E054 discussion | Nash/Stanley still planning **family contact and returning keepsake**, **not performed** |
 
 **Cross-reference** [E052](../episodes/E052.md), [E053](../episodes/E053.md), [E054](../episodes/E054.md). Publicly available Discord written spellings **cannot be treated as audio verification**. Keep a historical difference between unconfirmed/false statements at E048 and **observed resolution by E054**.
+
+## Bonus 2019-03 retrospective — first-year Q&A (outside Wastes episode numbering)
+
+**Source:** [March 2019 Year One Q&A](../episodes/BONUS-2019-03.md), **unverified processed SRT**. Statements here are **GM hindsight/player interpretation/unchosen branches**, not in-scene actions inserted after E054.
+
+| Reference key | Q&A context | Evidence result / stop rule |
+|---|---|---|
+| `bonus.2019_03.not_e055` | Original publisher #55 → March 2019 bonus | **Separate bonus ID**; **corrected Wastes E055 starts at original publisher 56**. Does **not** advance the story clock beyond E054 |
+| `buttons.gm_love_rescue_intent` | ~02:35–02:40, Beau | GM says **Buttons romantically loved Stanley** and wanted him **taken to Arcanum to remove Diontalus**. This **explains intent** rather than retroactively supplying PC knowledge, a successful cure, or a justified attack |
+| `p0d.pixie_path_unchosen` | ~00:11–00:15, Beau | GM had an **available route to attempt pixie rescue**, but chose other keep entrance under time pressure. Counterfactual **does not restore P0D** |
+| `monsoon.order26.prepared` | ~00:40–00:43, Beau | **Planned transformed-super-soldier rebellion** behind misleading gang-army story; giant froghemoth battle evolved from unexpected player/monster actions, not pre-scripted |
+| `toyota.host.unresolved` | ~00:10–00:11, Beau | GM **declines to answer** whether anticipated wedding guests arrived or died; do **not** mark either outcome canonical |
+| `george.miller.radio_counterfactual` | ~02:17–02:20, Beau | GM calls guard **George Miller** and explains a **missed radio-surveillance discovery** **if** George had survived a little longer. He **did not survive**, and that imagined discovery is **not a performed event** |
+| `nash.dragon_heart.origin` | ~01:18–01:22, Beau | GM says engine-heart lore arose from Scott's early **“do I have a heart?”** improvisation. In-world dragon-metal hearts create **mana waves**; Nash's visions/memories differ. **Retrospective design information**, not verbatim E001 quotation |
+| `nash.solar_mines.partner_draft` | ~02:20–02:26, Scott | **Player conceives a betraying partner** but says information not fully shared with Beau. **Don't invent identity/episode-era facts** |
+| `steel.heaven.uncertain` | ~01:07–01:12, Beau | GM deliberately keeps divine truth uncertain; **Hope's drug vision of steel heaven not confirmed**. “Savior gods” mentioned as religion/future concept |
+| `stanley.monkey_island_inspiration` | ~00:55, Jon | **Stanley Billings** created after the **Monkey Island salesman Stan**, **not Stan Lee**. **Naming origin**, not an in-world biography |
+| `bok_bok.improvised_npc` | ~02:32–02:36, Beau | **Bok Bok conceived as spontaneous encounter**, became durable companion due to subsequent play. **Creation history**, not supernatural genesis |
+| `blink.scroll.discrepancy` | ~02:40–02:44, Scott | **Nash reports forgotten Blink scroll from Buttons**, may be missing from D&D Beyond inventory. **Check source and inventory** before marking expended or absent |
+| `fate_four.future` | ~01:40–01:46, Beau/cast | Vehicle remains **where left** (GM assertion); teaser for possible **later upgrade**, not acquired in bonus |
+| `scorching.chrome.unchosen` | ~00:33–00:35, Beau | Chrome ritual/Kuro-makishi missions conceived but **declined**; don't write into in-world chronology |
+| `year_two.interlude_planned` | ~01:42–01:47, ~02:45, ~02:57 | **Three-month downtime/level 7**, item purchase, Orp story, and **Jon-run separate two-part adventure** are **prospective at this recording** |
+
+**Item/name boundary:** **Eye of Groxl** remains the **owner-confirmed one artifact**, with `Grojil/Groxel` ASR aliases ([D-028](../project/DECISIONS.md)); this Q&A does not prove a distinct Grojil deity. Its bonus nature must prevent accidental creation of **E055** records or “events” based on GM plans.

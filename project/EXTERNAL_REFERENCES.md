@@ -256,3 +256,11 @@ The [written spelling evidence register](../reports/DISCORD_SPELLING_2026-10-21.
 | **Fan inventory** | Downloaded `TWBD.docx` with poster's misspelling warning | Search aliases and concrete disagreement reports | Authority to override Beau/Jon/Kyle's direct spelling or equate similarly pronounced entities |
 
 Preserve **Catoblepraithe/Catobelpraithe** unresolved, **Angel Ashi/Angelashi** word division uncertain, and **Tietkalla** as a cast-supported candidate pending contextual identity matching to `Tiat Cala`. Keep **Inverse**, **Delvers** and Wastes materials separately indexed: other campaigns' names/organizations do not backfill the Wastes setting. Exact source citations, discord links and download audit details are held in the report without exposing local account data.
+
+## Year One Q&A (March 2019) as a separate retrospective evidence tier
+
+The original **publisher #55** is the [**March 2019 Year One Q&A bonus**](../episodes/BONUS-2019-03.md), not the next Wastes narrative episode. Its [source SRT](../sources/Bonus%202019-03%20-%20March%202019%20The%20Year%20One%20Q%26A!.parakeet.processed.srt) is **unverified ASR**, and the Q&A mixes **GM retrospective intent**, **player backstory**, **audience hypothetical questions**, **future-arc possibilities**, **production logistics** and **concrete explanations of already played scenes**.
+
+Use **Beau's GM explanations** to qualify *why* a story decision or world mechanism was devised—e.g. **Monsoon's intended Order 26**, **Buttons' romantic motive/Arcanum plan**, the **dragon-engine heart** and **pre-existing magical artifacts**. These are better-grounded for GM intent than an unrelated fan theory, but do not substitute for played-scene evidence when establishing **what the characters actually saw or knew**. For example, a missed **George Miller radio revelation** does not mean the party used that radio or heard itself.
+
+**No future-event promotion:** unchosen **Blood Ball, chrome/Kuro-makishi, pixie rescue**, promised **Orp/vehicle upgrade**, and **three-month downtime mechanics** remain plans/options unless independently performed later. **No Wastes E055 dossier** should be generated from this bonus; original publisher #56 maps to corrected E055. See the [crosswalk](EPISODE_NUMBERING.md), [decisions](DECISIONS.md), and [review queue](REVIEW_QUEUE.md).
