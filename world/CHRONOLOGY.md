@@ -185,3 +185,32 @@ E013.5 remains published **between E013–E014** even though its Hope/Vorel scen
 
 **Chronology guardrails:** E017 ends with departure; **E018** reaches and enters mine. The **replacement wagon** is not **Fate 4** and becomes storm-buried. **Freedom (nail)** is first named in Nash's E018 retrospective account *in this reference corpus*, but its alleged Solar Mines use precedes the campaign by character testimony; **Freedom (gun)** is a separate E014 object. The enslaved Dusthill citizens are **not freed** by reaching a different mine. [E017](../episodes/E017.md) · [E018](../episodes/E018.md).
 
+## E019–E021 — the deep Black Mine (source-first; unverified Parakeet)
+
+| Episode/time | Action versus claimed backstory |
+|---|---|
+| **E019** ~00:05–01:30 | Prolonged **undead elevator battle** while lift rises from near **23**; many creatures fall from gallery openings |
+| E019 ~01:30–02:09 | **Scrolly Oilbeard guards reverse elevator** rather than admit undead; **Tickles** (human captive) jumps onto it; combat continues on the descent |
+| E019 ~02:09–02:30 | Support **chain fails**, long free fall passes **78** and beyond worked galleries; **Stanley casts Feather Fall** to save PCs; undead crash into deep blood/remains pool |
+| E019 ~02:30–03:00 | Survivors **including Tickles** regroup in deep passages, examine crushed dwarf skeletons/hidden skull lever |
+| E019 ~03:00–end | **Hope pulls lever; ceiling collapses**, injuring/pinning party and Tickles. **E020** settles their fates |
+| **E020** ~00:00–00:06 | Out-of-game aura/rule correction (animated rapier is **object**, not target creature) and GM recap of E019 |
+| E020 ~00:06–00:18 | Hope leads rescue; **Tickles found unresponsive with dented helmet, declared dead**; **Stanley suffers rib injury** |
+| E020 ~00:18–00:47 | Rest/recovery and investigation reveal **second safety lever**; coordinated controls open previously hidden narrow route |
+| E020 ~00:47–01:08 | Old study with **male skeleton** of unknown identity; recover **Tylander Sullivan's diary** with **day-245** vengeance/voice/family narrative and unreadable magical page |
+| E020 ~01:08–01:31 | Hidden trapdoor and ladder lead deeper to chasm/mushroom/glyph zone |
+| E020 ~01:31–02:35 | Confront **tainted displacer beast**; **Vorel kills it** near/inside chasm |
+| E020 ~02:35–end | A test with the carcass **triggers magical darkness** at a glyph. Party walks into opaque cloud **holding hands**. **Cliffhanger before they exit** |
+| **E021** ~00:04–00:09 | **Hope alone hears demonic whisper “find me”** inside darkness, not shared party experience |
+| E021 ~00:09–00:58 | More dense fungus; battle against **animated purple tentacled mushrooms** |
+| E021 ~00:58–01:20 | Evade/cross additional **glowing glyph/chasm** impediment, including enlarged **Vorel bridge** |
+| E021 ~01:20–01:55 | **Dorothy** talking metal-faced door, riddle and negotiation; rope/immovable-rod crossing |
+| E021 ~01:55–02:20 | **Tylander** apparently seated amid **eight Fingers of Catoblepraithe**, tells **his story** of being Pristine's mayor and his family's slaughter; admits creating undead slaves. **Speaker testimony**, not universally verified chronology |
+| E021 ~02:12–02:17 | **Tylander impersonates Catherine Speckles** as a demonstration of his magic |
+| E021 ~02:17–03:02 | Party attacks a deceptive/non-solid Tylander image; **eight Fingers transform and fight**, party defeats them |
+| E021 ~03:03–03:12 | **Distinct captive woman says she is Catherine Speckles**, asks for message to **Bertrand**, becomes unresponsive/apparently dies |
+| E021 ~03:12–03:18 | Unopened **strongbox** and no confirmed deed recovery; push deeper rather than stop long-term |
+| E021 ~03:18–end | Tylander apparently at **cauldron** beside **speaking ~20-ft winged black figure**. **Possible but unconfirmed link to Catoblepraithe**. **E022 confrontation remains future** |
+
+**Carryover:** E018's elevator cliffhanger resolves during E019; E019 rockfall resolves E020; E020 darkness resumes E021. **Time of diary's described historical events ≠ E020 reading time.** The woman's first identification and presumed death are **E021**, not E020. [E019](../episodes/E019.md) · [E020](../episodes/E020.md) · [E021](../episodes/E021.md).
+
