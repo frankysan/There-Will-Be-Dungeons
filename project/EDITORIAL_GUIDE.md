@@ -68,3 +68,11 @@ Use [the Discord spelling register](../reports/DISCORD_SPELLING_2026-10-21.md) a
 - **Campaign namespace:** Jon's **Inverse** GM outline and Kyle's **Delvers** guild PDF are **not Wastes sources**. An Inverse planning name is not proof a character was actually performed. Archived sheet preview titles are observations, not historical snapshots of character dialogue.
 
 Do not change original SRTs or silently edit a generated transcript from this report. Existing reader-edition name-edit logs and repeatable builds remain authoritative for what was actually altered.
+
+## Bonus Q&A / retrospective testimony policy (March 2019 Year One Q&A)
+
+The [March 2019 Year One Q&A](../episodes/BONUS-2019-03.md) is original publisher **#55**, and must be **indexed as a separate bonus**, never as corrected **Wastes E055** (the next original **#56** maps to that corrected ID). Preserve the full source title and separate **bonus publication order** from **campaign-event chronology**.
+
+For each claim, name its evidence type: **GM retrospective intent/setting clarification**, **player's interpretation or private character concept**, **possible/abandoned prep**, **unresolved in-world mystery**, **future plan/teaser**, **audience hypothetical**, **production process**, or **previously played event referenced**. GM testimony can clarify creation and hidden motives (e.g., **Buttons loved Stanley**, Beau's intended Arcanum rescue, Nash's engine-heart genesis) but **does not create a previously unplayed event or imply all characters knew it**. Character fan theories about P0D, divine afterlife or the Toyota host do not become canon unless affirmed by adequate evidence. Date/location claims in filenames need independent release-date validation for a chronological publication catalog.
+
+Treat rare names in the **processed SRT** as **ASR hypotheses**, and carry forward confirmed **Diontalus** and **Eye of Groxl** while preserving the actual spoken/transcribed variant in source. The machine file is untouched and the Q&A has **not yet been audio-verified**. [Decision D-029](DECISIONS.md) and [review queue](REVIEW_QUEUE.md).
