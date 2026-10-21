@@ -24,3 +24,16 @@
 - Hope believes finding a dragon engine will let her return to the past and restore the world. Her objective is explicit, but **the feasibility of time travel is not yet verified**. **Source:** E000 00:09:44–00:10:17.
 - The exact chronology of the ancient war and human history contains potential recognition errors and dramatic stylization; defer precise dates.
 - The Hillmasters say an old dwarven pump system feeds Dust Hill's well, but in the first episode this is presented partly as transmitted local knowledge; avoid claiming the engineering history has been independently established. **Source:** E001 00:07:30–00:08:09.
+
+## Early campaign discoveries from E002–E005 (machine-transcript evidence)
+
+These events are documented in the [E002–E005 episode dossiers](../episodes/E002.md), [E003](../episodes/E003.md), [E004](../episodes/E004.md), and [E005](../episodes/E005.md). The added sources are **processed Parakeet SRTs, not listener-verified audio**.
+
+- **Distinct water-system components:** E002 ~00:50–01:20 describes a hidden **dragon engine** and pump, plus the much deeper **intake**. E003 ~01:20–01:38 reports repair of the lower intake near an underground river. E005 ~00:03–00:40 addresses restarting the engine. These are not one single interchangeable repair operation. The E005 wrap-up (~02:45) still says the town well has not yet been directly tested.
+- **Dragon-engine fuel and control:** In E005 ~00:10–00:27, the spectral **Peter** says these engines use **blood** and discusses activation. This is attributed testimony of a named supernatural NPC; it does not independently establish all dragon engines' universal requirements or justify inferring any modern use from the ancient prologue.
+- **Rulership:** The E002 ~00:55 Hillmaster calls a guarding skeleton the *first Hillmaster*. In E005 ~00:04–00:08 the apparition identifies himself as **Peter** and claims that later Hillmasters were impostors. Record that claim and its speaker, rather than retroactively rewriting the previous rulers' documented status.
+- **Dwarven history:** E003 ~02:45–03:08 and E004 ~00:45–00:54 expose a sealed dwarven site, **Queen Amelda/Emelda**, and **Quizquaz**, who appears to feed on the queen's dreams. E004 ~00:55–01:57 portrays the end of the entity and the queen's subsequent collapse. The exact name of the ancient site and reliability of the demon's historical narrative remain unsettled.
+- **Technology with uncertain sentience:** E003 ~02:35–02:57 introduces the medical droid `C4N-D13` (working form). E004 ~02:13–02:15 establishes Hope's shape-changing wrench in use; E005 ~01:00–01:03 introduces Nash's *interpretation* that a consciousness may inhabit it. Do not promote this interpretation into a verified artifact origin story.
+- **Governance crisis:** In E005 ~01:07–02:43 a goblin raid damages Dusthill, removes or endangers residents, and makes the dead Hillmaster's succession urgent. The characters propose a meeting; later Episode 6 events and conclusions are outside E005.
+
+Historical or magical claims made by named speakers must keep their epistemic category and episode/time attribution.
