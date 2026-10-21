@@ -214,3 +214,27 @@ E013.5 remains published **between E013–E014** even though its Hope/Vorel scen
 
 **Carryover:** E018's elevator cliffhanger resolves during E019; E019 rockfall resolves E020; E020 darkness resumes E021. **Time of diary's described historical events ≠ E020 reading time.** The woman's first identification and presumed death are **E021**, not E020. [E019](../episodes/E019.md) · [E020](../episodes/E020.md) · [E021](../episodes/E021.md).
 
+## E022–E024: ritual confrontation, compact and Nash revelation (processed SRT; approximate)
+
+| Source time | Session action, private experience or interested testimony |
+|---|---|
+| **E022** ~00:00–00:22 | Beyond E021 chapel: **Quizquaz** taunts party; ornate glyph triggers **rockfall sealing entrance** |
+| E022 ~00:22–01:22 | Tylander protected by ritual barrier; crystals/eyestalks confronted; chamber floor opens to reveal **beholder** |
+| E022 ~01:22–03:00 | **Beholder defeated** after extended eye-beam fight; **Vorel magically charmed**, attacks companions, subdued **unconscious**, not dead |
+| E022 ~03:00–end | **Quizquaz extracts beholder gem**, opens reality rift to **goat-headed Catoblepraithe**; OOC **level 4** milestone announced |
+| **E023** ~00:10–00:24 | Soulbroker arrives, **heals/decharms Vorel**, offers hospitality while Quizquaz prepares the way |
+| E023 ~00:24–01:45 | Journey through apparently airless **Château Weir** realm and city, guest-house food/baths/service; hotel waivers distinct from soul contract |
+| E023 ~01:45–02:07 | **Hope private dream**: mother claims afterlife exchange, father's survival and abductors linked to red bullet-bandolier / **Dead Men**; **Vorel** separately hears child knocking outside but stays indoors |
+| E023 ~02:07–02:35 | Breakfast and in-character discussion of red-bandolier woman; party proceeds to **Soulbroker throne room** |
+| E023 ~02:35–02:47 | **Nash, Hope and Stanley sign** pact to kill **the Principle in 1,000 days/nights** or forfeit souls; **Vorel refuses**. Three gain conditional contract boon/extra feat |
+| E023 ~02:47–end | Soulbroker begins **Nash's private revelation**; E024 details do not belong to E023 recorded play |
+| **E024** ~00:06–00:51 | **Nash's private Soulbroker-induced Solar Mines memory/vision** of Warden, guard and experimental green-liquid body containment |
+| E024 ~00:51–01:09 | **Observable black dragon transformation**, GM explicitly explains dragon-metal heart / broodmother `Kas de Jira`, exhaustion mechanic; Nash flies and speaks |
+| E024 ~01:09–01:18 | Soulbroker asserts **Fox and Scully** at Teet, Elhendar exile/vessel, **Celestium** at western ruins, proposed **Esophageal Pass** closure. **Vorel dismissed first** due to no pact |
+| E024 ~01:18–01:32 | Keys to **Château Weir** reportedly issued to Nash (100-ft underground constraint); Soulbroker says **deed consumed in summoning reagent**, suggests Principle City lead to Hope's father; captives **not freed** |
+| E024 ~01:30–01:50 | Party returned to beholder chamber; **Vorel builds tooth shield**, earlier rockfall route reopened |
+| E024 ~01:50–02:50 | Revisit **Catherine remains**, E021 **locked chest now opened**: 60 gold, 6 gems, 2 identified potions; **Dorothy's wooden door set ablaze** |
+| E024 ~02:50–end | Thick smoke; **Dorothy voice still heard**, bone finger thrown toward smoke; **no verified escape** before cliffhanger |
+
+**Interpretive chronology:** GM-confirmed **dragon-heart mechanic** is different from a character's induced private vision. The **contract signature event E023** differs from the **new artifacts, revealed keys, observed transformation E024**. **Old chest first seen E021** vs opened **E024**. Do not backdate Soulbroker's E023 arrival to **the separate winged Quizquaz** seen in E021/E022. [E022](../episodes/E022.md) · [E023](../episodes/E023.md) · [E024](../episodes/E024.md).
+
