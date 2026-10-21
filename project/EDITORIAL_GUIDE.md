@@ -47,3 +47,7 @@ Do not call a proposed spelling or character belief 'canon' until supported by c
 - A character's claimed origin or background can be an unreliable narrator's account.
 - A statement about a feature of Dust Hill may conflict with incidental player banter (e.g. mention of a tavern; DM later says there is no tavern). Record it as an issue, not a settled fact.
 - D&D rules discussion is meta-play, not automatically an in-world rule.
+
+## External reference and spoiler safeguards
+
+Consult [External references and chronology policy](EXTERNAL_REFERENCES.md) when using the fan wiki or linked D&D Beyond sheets. Wiki-supported spelling is evidence for orthography, not independent proof of audible dialogue. The character sheets are end-of-campaign snapshots, not episode-one builds. Do not introduce later developments into early-episode transcripts, dossiers or lore without a time-qualified, clearly marked spoiler section. Preserve raw ASR spellings and source URLs.
