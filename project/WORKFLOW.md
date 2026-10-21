@@ -67,3 +67,11 @@ Run `python -m unittest discover -s tests -p 'test_reader_editions.py'` after re
 - Retry errors without overwriting good output; limit GPU concurrency based on measured throughput/VRAM.
 - Run targeted second ASR only where human review or automated disagreement detection indicates value.
 - Index reviewed text and lore in a search database after editorial conventions stabilize.
+
+## H. Mandatory ASR experiment documentation
+
+Record **every** ASR/model/precision/segmentation/VAD/diarization/alignment/postprocessing experiment in [model tests](MODEL_TESTS.md) and, for multi-run comparisons, in a dated `reports/` file. Capture the episode/audio identity, time window, model/build/hardware, exact relevant flags and processing stages, runtime, segment and word counts, token-confidence caveats, timestamp anomalies, representative passages, and source-output hashes where useful. Preserve original artifacts with run-specific names; don't overwrite another run or a reader edition.
+
+**Separate evidence classes:** model disagreement, wiki-backed orthography, confidence heuristics and actual audio/listener verification are not interchangeable. Only an audio-grounded reference supports definitive omissions, hallucinations and WER rankings. Record decisions in [DECISIONS.md](DECISIONS.md), outstanding listening tasks in [REVIEW_QUEUE.md](REVIEW_QUEUE.md), and update the backlog. Avoid absolute local paths and private environment details in repository docs.
+
+Example: [five-run Parakeet E001 segmentation evaluation](../reports/PARAKEET_SEGMENTATION_2026-10-21.md).
