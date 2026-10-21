@@ -550,3 +550,30 @@ Source basis [E034](../episodes/E034.md) · [E035](../episodes/E035.md) · [E036
 | `gem_of_tides.still_open` | E048 ~01:52, episode end | Elder suggests crypt/sewers/old throne route, **not actually traversed**, **no Gem recovered** |
 
 **Source and scope:** [E046](../episodes/E046.md), [E047](../episodes/E047.md), [E048](../episodes/E048.md) are **processed-Parakeet-only** notes. Jon's written **Tietkalla** and approved **Diontalus** do not validate speech, while **Nobiery**, **Angelashi/Angel Ashi**, **Catoblepraithe/Catobelpraithe** remain spelling/identity review items. E048 **establishes some rescue successes** without establishing disputed deaths, political legitimacy or supernatural army counts.
+
+## E049–E051 status and provenance register — processed Parakeet only
+
+| Key | Source/cutoff | Outcome and caution |
+|---|---|---|
+| `softhead.return` | E049 ~00:18–00:39 | **Softhead alive and sighted** in keep despite presumed prior river death. Secondary robed red-haired arrest agent **not automatically the same person** |
+| `buttons.bargain` | E049 ~00:50–00:58 | Buttons **claims** he brokered alternate terms with Monsoon/Jolt/Principal about **Gem and rule**; not all promised future actions confirmed |
+| `buttons.dead` | **E049 ~02:50–03:00** | **Vorel kills Buttons**, splitting his body; **E050 Diontalus drains energy** and **Stanley questions corpse with Speak with Dead** (no soul resurrection) |
+| `p0d.transformation` | **E049 ~00:58–01:05** | Monsoon radio command **“order twenty-six”** triggers **P0D's involuntary monstrous size/aggression**; cannot be recast as deliberate betrayal |
+| `p0d.dead` | **E050 ~00:30–00:35** | **Diontalus's attacks kill giant P0D**, who disperses into sparkly **pixie dust**. No intact corpse; **E051 giant pixies are others** |
+| `tedna.dead` | **E050 ~01:16–01:22** | E048 living rescue → E049 serious wound → E050 temporary **Spare the Dying** → **dies speaking to Hope**. **Steel-heaven ascent is her intoxicated vision**, not verified literal death plane |
+| `dashington.dead` | **E050 ~00:36–01:13** | Cowboy/outlaw **shoots Hope and tries escaping with Jolt**; **Diontalus kills him**. Spelling/id unresolved |
+| `jolt.dead` | **E050 ~01:20–01:30** | **Hope kills Jolt** in post-combat violent confrontation. Hallucinatory blood imagery is not literal scene; **guns/belt recovered** afterward |
+| `gem.reacquired` | **E050 ~01:49–01:53** | Party physically has **glowing blue Gem of Tides** in recovered bag; water system **not yet restored by E050 end** |
+| `fox_scully.belt` | **E050 ~02:13–02:23** | Hope acquires **Fox and Scully** revolvers and **Smokey's ammunition belt**. **Soulbroker's previously promised gear**, finite GM-specific daily ammo and named varieties |
+| `pillars.decency` | **E050 ~02:06–02:12** | **Vorel proposes** memorial party conduct rules **“Pillars of Decency” (POD)** after P0D's death, not ratified state law |
+| `surveillance.bug` | **E050 ~02:20–02:31** | Group finds/considers monitoring device **possibly installed during Hope's mechanical surgery**, but **exact duration, listener and captured secrets unresolved** |
+| `crypt.route` | **E050 ~02:34–02:51** | Older scholar's **tile/crypt path** actually traversed to mausoleum and lower pipe/throne area; his full Gem lore still separate NPC claim |
+| `kefeli.petrifies` | **E051 ~00:40–01:45** | Living **Kefeli** fights using metal hair, water and **real gaze petrification**. **Vorel then Hope** turn to stone; **not deaths** |
+| `kefeli.dead` | **E051 ~01:40–01:55** | **Stanley's mirror + Command** causes Kefeli to petrify herself; **Nash/Stanley pulverize her stone body**. Killing her **does not release other statues** |
+| `petrified.statues.destroyed` | E051 ~01:49–01:54 | Party destroys other statues thought to be cursed tieflings **without checking/restoring individuals**. Whether they held living consciousness is **unresolved**, and should not be casually described as harmless rubble |
+| `stone_to_flesh.rescue` | **E051 ~02:03–02:37** | Existing **E045 basilisk body** supplies material; **eyeballs** from old bureau; **two one-off preparations restore Hope/Vorel alive**. Not a harvested E045 potion or general proven rule |
+| `siege.pixies` | **E051 ~02:48–end** | A fleeing guard dies in **Nash's attempted nonlethal trip**; **multiple other transformed giant pixies** assault keep. No finished siege or revived P0D |
+| `weir_army.pending` | E048 claim → E051 end | **Nobiery** previously departed for Weir; no troop arrival or verified force strength |
+| `gem.installation.check` | **E050–E051** | Gem carried into Kefeli encounter; water/pumps later operating, but **exact transfer and emplacement timing should be audio/scene-reviewed**, not assumed universally resolved |
+
+**Editorial note:** Use **creator-approved Diontalus** and cast-supported `Tietkalla` carefully; `Angelashi/Angel Ashi`, `Catoblepraithe/Catobelpraithe`, `Kefeli/Kepheli`, `Nobiery/Nobieri` and `Dashington` remain unresolved. GM-described actual deaths/cures must be separated from **Hope's P0D dust-driven hallucinations** and any other character's political claims.

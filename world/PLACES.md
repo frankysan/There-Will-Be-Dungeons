@@ -353,3 +353,19 @@ Jon's direct written usage corroborates **Teet** and **Slavetown**, without addi
 **Château Weir (E048 ~01:54–01:58):** Nash uses his existing **Château key** to open double doors into the familiar otherworldly lodge; **the ancient elder enters alone and is greeted by Baba**. No returning soldiers or proof of an army by E048.
 
 **Working place spelling:** `Tietkalla` is cast-written by Jon, likely corresponding to `Tiat Cala/Tiat Kala` in these related scenes, but pronunciation/spoken wording cannot confirm orthography. The elder's account of a lost kingdom and current sewers is not proof of their remaining access.
+
+## E049–E051 — Storeroom trap, hidden crypt, old throne and invaded upper keep
+
+**Teet keep prison and storeroom (E049–E050):** After E048 frees **Tedna and Bok Bok**, Stanley investigates **food stores with grain sacks, barrels, casks and side passages** where **Softhead** escapes and an eight-man ambush waits. **Jolt**, **Buttons** and **Dashington** join the confrontation. **Monsoon's order over radio transforms P0D into a huge attacker**; combat breaks barrels and fills the floor with liquid. **Buttons dies E049**, while **P0D, Tedna, Jolt, Dashington die E050**. The later pixie dust causes impaired visibility and perceptions. This is a **played site of the deaths**, not a separate abstract battlefield.
+
+**Old tiefling safe-rest corridors (E050):** Party withdraws down the **ritual-room/prison/beanstalk route**, uses **Mold Earth to obstruct access**, camps, and **Stanley uses Speak with Dead on Buttons**. **Gem of Tides is found in a recovered bag**. A hidden listening device/microphone is investigated; exactly how much was transmitted is unclear.
+
+**Hidden crypt / mausoleum (E050 ~02:30–02:45):** The secret tile/passage route described by the ancient elder E048 is **actually traversed**. Large chamber has **ancient tiefling tombs along the walls** and **honor statues of several houses**. Passages fork toward a **wide formal upward staircase** and lower **pipework, pumps and a water-processing chamber**. Descriptions of funerary purpose are grounded in visible room layout; specific ancient residents' identities are not.
+
+**Old pool/throne/water-Gem site (E050 late–E051):** A large circular old **throne-like room** has a **pool, pedestal/pipe network and many petrified tiefling figures**. **Kefeli** personally confronts the party here in E051, describes a disputed history and **manipulates a high water vortex** during battle. **Vorel and Hope petrified, Kefeli petrified and destroyed**, then **the PCs remain stone until later treatment**. Nash constructs protective **hollow stone columns** around the two friends during the rescue mission; the columns are temporary defensive structures, not actual tombs.
+
+**E045 basilisk's chamber revisited (E051 ~02:05–02:25):** Nash and Stanley go back through the **old ritual chamber/bean-vine/river cave route** to recover part of the **existing basilisk corpse**. They obtain **preserved eyes from the ancient bureau** and return to make a **one-time restorative preparation**. The fungus pits and froghemoth are **not** revisited as new bosses.
+
+**Upper siege staircases and warzone (E051 ~02:38–end):** Party ascends from the **pumped-water/pool/crypt region** into fighting. A fleeing **Guzzle Gang armored guard** falls and suffers apparent fatal neck injury when **Nash trips him**. A huge enemy **pixie-like transformed combatant** fights guards, followed by **multiple additional giant pixies breaching walls and ceiling**. The party has **not yet won the keep or ended the siege**. These are **not P0D, who died E050**.
+
+**Geographical certainty:** The **prison level was reached E048**, secret **crypt and water throne E050**, upper battle stairs **E051**. The route from crypt to all alleged sewers/upper rooms is **not exhaustively mapped**, and the elder's E048 map remains partial source evidence.

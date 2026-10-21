@@ -444,3 +444,26 @@ E013.5 remains published **between E013–E014** even though its Hope/Vorel scen
 | E048 ~03:04–end | Party **unlocks cells and frees Tedna and Bok Bok alive**, with emotional reunions with **Hope/Vorel**. **Tedna reports Angelashi was sent to Pit/“Fragger”**, but **no death witnessed** |
 
 **Status change from older summaries:** By **E048** the group **has entered a level of the Teet keep and rescued Tedna and Bok Bok**; this was *not* true at **E045 cutoff**. The **Gem of Tides, principal wedding/Jolt confrontation and any raised army remain outstanding**. **Angelashi** was **reported** taken to the pit, not conclusively killed.
+
+## E049–E051 — Warehouse betrayal, Pillars of Decency and petrification (processed SRT only)
+
+**Timeline source:** [E049](../episodes/E049.md), [E050](../episodes/E050.md), [E051](../episodes/E051.md). These are provisional archive observations, not listener-audio-confirmed. Preserve the **Diontalus** creator spelling and `Tietkalla` cast-written place-name evidence, while leaving other name disputes open.
+
+| Recording/episode | Played events and time-qualified uncertainty |
+|---|---|
+| **E049 ~00:10–00:36** | Freed **Tedna** describes his infiltrating/wedding information and his capture; **Softhead appears alive** in keep storeroom after previous apparent river disappearance. Stanley scouting alone meets a hidden **eight-gun ambush** |
+| E049 ~00:40–01:00 | **Jolt Elegos** and living **Buttons** reveal their involvement with **Monsoon Cabbage**; **Buttons claims an alternative deal to deliver Gem to the Principal**, expecting rewards/keep control. **Stanley cedes shared body to Diontalus**. Monsoon radio orders **P0D's involuntary transformation** |
+| E049 ~01:00–end | Battle kills armed guards; huge angry **P0D** fights, Hope and Vorel engage Jolt and Buttons. **Vorel kills Buttons**, P0D **still alive at E049 cutoff**, Jolt grievously wounded **still alive** |
+| **E050 ~00:00–00:30** | **Diontalus draws arcane power from Buttons' corpse**. Critically injured **Tedna** receives **Spare the Dying** but still needs healing. Nash begs to protect distressed giant P0D |
+| E050 ~00:30–00:40 | **Diontalus kills P0D** in played combat despite Nash's protest; body becomes **pixie dust**, visibility and perception severely affected. **Dashington** threatens then shoots Hope, leaving her critically hurt |
+| E050 ~00:40–01:35 | **Dashington killed by Diontalus**. **Tedna dies** after his final interaction with Hope (her imagined steel heaven is a **drug hallucination**, not proven setting fact). **Hope kills Jolt** while hallucinating; **Vorel assaults Diontalus**, whose body is shared with Stanley. Monsoon's radio issues further warnings and demands |
+| E050 ~01:37–02:05 | Group withdraws; **Stanley returns**, casts **Speak with Dead on Buttons' corpse**, and the party identifies/retains **Gem of Tides in bag**. They camp/rest and process deaths; **no P0D/Tedna rescue afterward** |
+| E050 ~02:05–02:30 | **“Pillars of Decency” (POD)** proposed by Vorel in memory of P0D. **Hope receives Fox and Scully revolvers plus Smokey's ammunition belt**, Soulbroker-promised equipment previously on Jolt. They investigate evidence of possible remote listening |
+| E050 ~02:30–end | Enter **secret ancient crypt/mausoleum**, then pipe/old throne pool chamber filled with **petrified tieflings**. Serpent-haired **Kefeli** personally appears; fight deferred to next episode |
+| **E051 ~00:10–00:40** | Hope attempts diplomacy, offering to return Gem; **Kefeli claims** royal history, Andreeste's blessing, former vampiric curse, control of waters and rightful rule. Orders party to kneel; **party refuses and combat begins** |
+| E051 ~00:40–01:46 | Kefeli manifests **metal snake-hair and water vortex**, attacks with gaze. **Vorel petrified first**, then **Hope**. **Stanley uses reflected gaze/Command**, and **Kefeli becomes a statue** |
+| E051 ~01:46–02:04 | **Nash and Stanley pulverize other petrified tiefling statues and petrified Kefeli**, but **Hope/Vorel remain petrified**. They **conceal both statues inside hollow columns** for temporary safety |
+| E051 ~02:04–02:38 | Return to **E045 basilisk corpse** via old tunnel, recover organ/gullet and **eyeballs from bureau**; brew **two homebrew restorative preparations**, return and **successfully restore Vorel and Hope alive**, with Bok Bok reunited |
+| E051 ~02:38–end | With earth tremors and active siege, party heads upstairs. **Nash attempts to trip a fleeing armored guard**, causing an **apparently fatal neck injury**, then confronts **multiple other huge transformed pixies invading through walls/roof**. Siege remains unresolved |
+
+**Critical status change:** E048 **Tedna rescued alive** and P0D active; E049 **Buttons killed**; E050 **Tedna, P0D, Jolt and Dashington killed** and **Gem physically reacquired**; E051 **Vorel and Hope petrified and fully restored** while **Kefeli destroyed**. Old “no Gem obtained/no princess rescue” statements are correct **only at their original cutoff**. No final Principal defeat, confirmed old-world army arrival or permanent tiefling succession by E051.

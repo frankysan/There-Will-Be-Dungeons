@@ -479,3 +479,27 @@ Source dossiers: [E046](../episodes/E046.md) · [E047](../episodes/E047.md) · [
 | Medium | E048 names/spelling | Jon's **Tietkalla** written form context for ASR `Tiat Cala`, **Akmenos founder**, elder **Nobiery/Nobieri**, and **Angelashi/Angel Ashi** as cast-shared competing forms. Do not settle by machine transcription alone |
 
 **Source custody:** No audio-reviewed transcript or private DM text was produced by this pass. SRTs untouched. Review unresolved claims and spellings before normalizing reader editions, official entity pages or future-era character sheets.
+
+## E049–E051 targeted audio/prop/rules queue (2026-10-21)
+
+Dossiers: [E049](../episodes/E049.md), [E050](../episodes/E050.md), [E051](../episodes/E051.md). **Processed ASR is not listening-verified**. Highest priority is the distinction between **physical deaths**, **hallucinations**, **promises**, **actual item transfers**, and **temporary petrification**.
+
+| Priority | Episode/time | Listen/check specifically |
+|---|---|---|
+| High | E049 ~00:12–00:35 | **Tedna's letters and captor**, **Softhead** after earlier river disappearance, separate short red-haired figure's identity, wardens/armored guards |
+| Critical | **E049 ~00:34–01:00** | **Jolt/Buttons/Monsoon** arrangement and **Gem-to-Principal promise**; which are **claimed future terms**? Exact **“P0D execute order twenty-six”** and how the control is manifested |
+| High | E049 ~01:00–02:15 | Guard casualties, **Dashington identity**, enlargement, P0D's actions, Jolt's attacks, Vorel being a **chair and fearing chair illusion**, game adjudication |
+| Critical | **E049 ~02:30–end** | **Vorel's finishing blow on Buttons**, Hope's weapon/blindness, Jolt alive/wounded at cutoff and P0D **not yet killed** |
+| Critical | **E050 ~00:08–00:36** | Diontalus's new corpse-energy technique vs Speak with Dead; **Tedna temporarily stabilized**; agency/triggering of P0D's agitation; **Diontalus killing P0D** and no intact body |
+| Critical | **E050 ~00:36–01:31** | **Dashington shoots Hope, killed by Diontalus**; Hope's drug hallucinations vs physical harm; **Tedna's final dialogue and death**; exact **Jolt death** versus hallucinated blood/oceans |
+| High | **E050 ~01:37–02:09** | **Monsoon walkie-talkie**, body's recovery and **Stanley's five Speak with Dead answers** from Buttons, **Gem found in bag** and who carries it |
+| High | E050 ~02:05–02:31 | Exact **Pillars of Decency/POD** proposal, **Fox/Scully and Smokey's belt** effects and daily limits; microphone/broadcast proof vs party speculation |
+| High | E050 ~02:30–end | Secret tile to **crypt** and **old throne room**, actual Gem emplacement location, first appearance/eyewear of **Kefeli** |
+| Critical | **E051 ~00:10–00:39** | Kefeli's claimed rule, Andreeste history and motivations: **NPC testimony**, not GM-confirmed royal fact; **Gem physically placed or merely offered?** |
+| High | E051 ~00:40–01:46 | **Mirror patch count/transfer**, petrification timing **Vorel → Hope → Kefeli**, Command and reflection rules, **young-black-dragon form** |
+| Critical | **E051 ~01:46–02:03** | **Kefeli pulverized as stone**, original statues also destroyed; no automatic cure, **Hope/Vorel not dead** |
+| Critical | **E051 ~02:03–02:38** | E045 basilisk gullet, preserved eyeball sourcing, homebrew **stone-to-flesh potions**, confirm both **Vorel and Hope restored** and no unused doses |
+| High | E051 ~02:38–end | Earth tremors, **fleeing Guzzle guard tripped by Nash to apparent death**, giant pixie count/identities, last-scene order of new breach |
+| Medium | All episodes | **Diontalus accepted**; check `Dashington`, `Aladweir`, `Kefeli/Kepheli`, `Septwyn`, `Tietkalla/Tiat Cala` and `Bok Bok/Bokbach` separately, without silent ASR rewriting |
+
+**Carry-forward correction:** E048 rescue **does not imply Tedna survives beyond E050**. E049 gigantic P0D **dies E050** and the giant pixie attackers E051 are **others**. E051 successful recovery means **Hope/Vorel alive at the cutoff**. No raw SRT, private GM message or future campaign details were edited by this work.
