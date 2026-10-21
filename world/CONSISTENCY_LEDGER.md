@@ -393,3 +393,35 @@ All below is **processed Parakeet SRT, not audio-verified**. [E028](../episodes/
 
 Record show-era written orthography as a **separate source class** rather than quietly updating names. **No new audio checks** performed.
 
+## E034–E036: possession admission, game milestones, competing gang claims (2026-10-21)
+
+Source basis [E034](../episodes/E034.md) · [E035](../episodes/E035.md) · [E036](../episodes/E036.md), **processed Parakeet SRT only**. Archive identifiers corrected by [owner crosswalk](../project/EPISODE_NUMBERING.md); [personal orthography](../project/OWNER_EPISODE_NOTES.md) remains noncanonical.
+
+| Key | Source/time | Evidentiary status / review |
+|---|---|---|
+| `dion.admits_control` | **E034 ~00:59–01:39** | Speaker **self-identifies as Dion Talus**, admits **forced transfer after Stanley refused** and says Stanley remains alive but out of control while Dion speaks. Stronger than E033 hints; **exact mechanics/ancient claims still his testimony** |
+| `dion.memory_access` | E034 ~01:05–01:39 | Claims both occupants share memory only under certain conditions, and wants magical **mana waves**. No independently verified completeness/limits |
+| `dion.changeover` | E034 ~01:26–01:39 | Apparent **return to Stanley** before Blood Ball practice; cue-level check needed for agency/timing |
+| `hope.mirror_bite` | E034 ~00:37–00:59 | Has **reflection** despite E033 bite. Does **not disprove supernatural hit-point reduction or prove cure** |
+| `dashington.hunter` | E034 ~00:28 | Vorel claims armed **Dashington** may be hunting Stanley, still **his interpretation** |
+| `bloodball.training` | E034 ~01:39–02:41 | **Gray Socks practice**, custom mini-game proficiency; **not Friday match** |
+| `bloodball.jerseys` | E034 ~02:33–02:38 | Vorel **#1**, Hope **#3**, Stanley **#5**, Nash **#7**. **200 guzzbolts offered**, not paid up front |
+| `bloodball.future` | E034–E036 | **Friday Gray Socks–Pounders match / Saturday wedding** still future, no royal dinner or completed access |
+| `jedel.body_appears` | E033–E035 ~00:47–01:05 | Charlemagne **grieves after hearing body description**, believes friend dead; **corpse not independently visually identified by him** |
+| `jedel.robbers_twenty_six` | E035 ~00:50–01:00 | Suspicion due to Twenty-Sixers' firearms and prior protection arrangement. **Thief/murderer not observed** |
+| `fango.invite` | E035 ~00:13; E036 club | `Fango Rabbish/Ravish`, invites guests to **Golden Gargoyle**; secret ties remain unresolved |
+| `toe_rippers.street_fire` | E035 ~01:15–02:40 | **Vorel initiates** fight, party kills multiple gang fighters, **Nash acid breath**, fire and partial collapse. Do not invent total or civilian casualty count |
+| `teet_guard.siren` | E035 ~02:33–02:40 | Siren/fortress movement **observed**, direct trigger/identification of party uncertain |
+| `monsoon.kill_leader` | E032 demand ↔ E035/E036 | **Leader assassination not completed**; killing followers does not fulfill conditional access deal |
+| `nightclub.entry` | E035 end vs E036 beginning | Entry **E035**, **Angel Ashi performance and Toe Ripper ambush E036** |
+| `angel_ashi` | E036 ~00:28–00:37 and ~03:00 | Singer explicitly interacts with Nash, later elects to accompany him. Stage lyrics are **performance**, not guaranteed personal history |
+| `blunt_goliver` | E036 ~00:37–00:53 | `Blunt Goliver/Bluncolifer` disabled **lizardfolk Toe Ripper leader**, wheelchair; name and exact title to audio-check, **not verified dead** |
+| `toe_eating` | E036 combat | Toe Rippers **eat toes, claim strength**; no automatic magic/stat bonus verified |
+| `blunt.influence_block` | E036 ~01:28–01:36 | Magical influence seems **blocked/resisted** by unexplained force; no proven immunity source |
+| `vorel.claims_kingship` | E036 ~00:53 | Declares he will replace leader; **not accepted by gang**, no formal takeover |
+| `fango.sewer_escape` | E036 ~02:40–03:13 | **Fango leads backstage/sewer route**, approximate half-hour back near Charlemagne's, party **retreats instead of confirming leader death** |
+| `nash.exhaustion` | E036 ~03:13–03:19 | Full dragon transformation carries **two exhaustion levels** as GM applied. Keep after milestone |
+| `milestone.level5` | E036 outro | **Level 5 awarded OOC**; explicitly **no immediate HP/condition reset** |
+
+**Review posture:** Actor absences, speaker confessions, observed mini-game rulings, NPC political promises, creature taxonomy and rumored historical origins are distinct source classes. Name choices need listening/show-era writing, not owner-notes substitution.
+
