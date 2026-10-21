@@ -191,3 +191,21 @@ The [**Fate 4** two-page design](../sources/images/Fate_4_Character_Sheet.webp) 
 
 **Black Mine elevator / sign 23 (E018 ~02:15–end):** The four PCs descend through the shaft with **Feather Fall**, land by a **23** sign and dark gallery tunnels, encounter one undead, signal for the lift to be raised and then face a group of undead converging on the lift as it rises. **The elevator fight itself continues into E019**. The magistrate's previous statement about **Catherine Speckles owning level 999** is an **unverified document report** and does not establish the elevator reached anywhere near that depth.
 
+## E019–E021: deep Black Mine locations (processed SRT)
+
+**Source:** [E019](../episodes/E019.md), [E020](../episodes/E020.md), [E021](../episodes/E021.md). These are machine-transcript navigation notes, not listener-confirmed place descriptions.
+
+**Elevator shaft and deep terminus (E019):** The elevator climbs from near the **23** marker, is reversed by the upper guards, then loses its support chain. The party passes **78** during its uncontrolled descent; the deep terminus has **no established floor number**. Stanley's **Feather Fall** prevents the party's deaths. The final deep chamber is damp and filled with the remains of falling undead. Do not label it **level 999** merely because the magistrate described a property on that level.
+
+**Rockfall control room (E019–E020):** An apparent dead end contains old dwarven remains and a concealed **skull-headed lever**. Hope's first operation triggers a ceiling rockfall; E020 reveals a **second safety control**, enabling the group to open the intended narrow passage. Tickles is found dead after the collapse.
+
+**Old study and lower trapdoor (E020):** A small preserved room contains fragile books, a bed with an **unidentified male skeleton**, and a **journal explicitly bearing Tylander Sullivan's name**. The journal references Mariosa, other lost family members and a voice at the bottom of the Black Pit. Its words remain an attributed account. A trapdoor beneath the bed opens to a ladder and lower galleries.
+
+**Chasm and fungus passages (E020–E021):** Narrow paths skirt a deep pit with mushrooms, glyphs and an injured **displacer beast** killed during E020. A tested glyph makes an opaque **magical darkness** through which the party travels at the episode break. E021 continues among animate mushrooms, other glyphs and chasm crossing obstacles.
+
+**Dorothy's door (E021):** A low passage contains a talking metal-faced door calling herself **Dorothy**, which controls access by dialogue and riddle. Her reported maker, origins and threatened defenses require verification.
+
+**Underground chapel and cell (E021):** The group encounters a large hall resembling a chapel, with stone pews, damaged colored glass and eight followers of Tylander. After defeating them, the party finds a separate, gravely injured prisoner who identifies herself as **Catherine Speckles** and asks for a message to Bertrand the Jeweler. A locked chest is not successfully opened; the requested deed is not recovered.
+
+**Ritual chamber (E021 closing):** Beyond the hall, a corridor leads to Tylander at a cauldron, alongside a towering **winged, black, white-eyed speaking figure**. Its identity and the result of any confrontation are left unresolved at the E021 boundary.
+
