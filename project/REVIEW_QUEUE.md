@@ -65,3 +65,27 @@ The E002–E005 [dossiers](../episodes/E002.md) ([E003](../episodes/E003.md), [E
 | Medium | All E002–E005 | Build each episode's **independent** participant-to-speaker map; numeric speaker IDs shift and roles/performances vary |
 
 A later [Episode 6 fan-wiki recap](https://twbd.fandom.com/wiki/Episode_6) can support some *later* spellings and outcomes, but not a prior episode's exact audible phrasing or first-disclosure timestamp.
+
+
+## E006–E008 audio and external-artifact review queue
+
+New source-only references: [E006](../episodes/E006.md), [E007](../episodes/E007.md), [E008](../episodes/E008.md). **No audio checked** during this documentation expansion. Keep source SRTs immutable. Listener approval is a separate later action.
+
+| Priority | Episode / approximate time | Needed confirmation |
+|---|---|---|
+| High | E005 ~02:45; E006 ~00:00–00:01, ~00:24–00:26 | Nail down **engine-on**, GM retrospective summary and the first **directly observed surface well flow**; do not backdate E006's test |
+| High | E006 ~01:19–01:52 | Verify **45 dead / 25 kidnapped**, Shun'ti as interim townmaster, Tetsuo's leadership versus Jimster's support, and unresolved Wilma accusation |
+| High | E006 ~00:33–00:45 and ~01:08–01:18; E007 ~00:24–00:35 | Confirm **Bok Bok** and variants, captured/voluntary status, `fresh`, and old man's actual return |
+| High | E006 ~01:56–02:28 | Audio-check **Zorenthelas**, **Elhandar**, claim about dragon engines/return to sky and handling of C4N-D13 data core |
+| Medium | E006 ~02:12–02:17 | Translate Hope's speaking Dwarven wrench carefully; distinguish directly responsive behavior from conjectured soul/person |
+| Medium | E006 ~00:45–01:06 | Check Jenjen/Thomas, Aaron's stabbing/Stanley's self-defense account and identity of second attacker; preserve viewpoints |
+| High | E006 ~02:15–02:35; E007 00:00 | **Find contemporary official Fate 4 drawing/vehicle rules and Wastes map** referenced on original show website; preserve URLs, permissions, observation date |
+| Medium | E006 ~02:49–03:10; E007 ~00:06–00:40 | Check the old man, first sighting vs identification of luminous beetles, and whether insects departed unharmed |
+| Medium | E007 ~00:42–01:53 | Confirm trail divergence, exact intercepted vehicles, fight outcome, Fate 4 damage/repair, and inferential nature of goblin delaying tactics |
+| High | E007 ~01:54–02:16; E008 ~00:10–01:11 | Establish antenna/metal tree action chronology and where **Nash and Stanley** are relative to **Hope/Vorel** at the cut; keep complexes distinct |
+| High | E008 ~00:00–00:02, ~00:15–00:17 | Check **Carter Johnson / Edison Manchester III / Eddy**, **Ben Bumhofer / Chance**, and the explicitly guest-only casting; do not swap regular performers |
+| High | E008 ~00:06–00:10 and ~01:23–01:49 | Separately identify Nash's vision speakers; verify Leopold's name and **claims**, projection/contact illusion, facility's reported security role |
+| High | E008 ~02:00–03:00 | Verify mimic and dog encounter, Nash's failed/successful death saves and stable condition, lab artifacts and who retains them, final locked-door threat |
+| Medium | All E006–E008 | Independently map human speaker to source numeric speaker IDs, handling GM voices, NPC dialogue and guest accents |
+
+The fan wiki's E006 summary is a useful **retrospective spelling and continuity aid**, not audio verification. Preserve original references and never silently amend the recognized SRT on its authority.
