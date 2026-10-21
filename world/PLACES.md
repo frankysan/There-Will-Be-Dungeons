@@ -173,3 +173,21 @@ The [**Fate 4** two-page design](../sources/images/Fate_4_Character_Sheet.webp) 
 
 **Dragon flyover (E016 ~02:03–02:10):** GM depicts a **black dragon** overhead near Slavetown, correlating temporally with Nash's fire/scaling. A visible approach/flyover is better grounded than the identity or source of the **private “Mother” voice** Nash experiences.
 
+## E017–E018: damaged Slavetown, desert carcass and Black Mine shaft
+
+**Apothecary (E017 ~00:32–00:57):** A still-occupied remedy/divination shop within evacuated **Slavetown**, run by pinkish/purple tiefling **Maripol Bania (?)**. Nash accepts a calming preparation later identified as **Pixie Blush**, with severe subsequent hallucinations; **Hope** privately hears a dangerous prophecy from cards. Exact business sign/location and proprietor spelling require listening, not inference from other maps. [E017](../episodes/E017.md).
+
+**Forbisher's Holdings bank (E017 ~01:00–01:16):** In-town bank targeted in the **red-bandolier woman's proposed robbery** and its evening planning meeting in a poor-quarter hut/pen area. The episode contains an **invitation**, not an observed robbery. Name is an **ASR candidate**, not an authorized canonical correction.
+
+**General store, explosives dealer, foundry (E017):** During preparations for the **Black Mine**, Hope/Stanley/Nash enter a deserted general store and later an explosives dealership variously heard as **Boombottom's / Boom Button's**. The party forces a locked **foundry**, where its owner attacks/fires and is killed. Nash uses dynamite at the **explosives premises**, igniting a major blaze. Do not transfer building damage to every adjacent structure without source testimony.
+
+**Burning Slavetown and escape (E017 ending):** Major fire engulfs parts of the commercial core around the **Buxom Confederate/Sapphire** and threatens the hotel. Some survivors flee in vehicles. The four PCs depart toward the Black Mine in a **station wagon** obtained from the garage area, **not the damaged Fate 4**. Resident/captive death totals and the ultimate fire damage are **unconfirmed**. The owner notes the town fire but is **not an independent authority on casualties**.
+
+**Wasteland route / buried car (E018 ~00:09–00:37):** Severe **dry sandstorm with lightning**, near-zero visibility; replacement wagon halts, becomes buried and later is likely damaged/abandoned. Vorel helps the other three dig or pull free. Visibility prevents accurate immediate wayfinding.
+
+**Hollow desert carcass (E018 ~00:37–01:20):** A **giant dead creature** serves as improvised shelter. Eight (?) **small cloaked, javelin-carrying shapes** advance and flee after Hope's magical Infernal whisper intimidation. The carcass's **species** and the raiders' **species/faction** are not established by source alone.
+
+**Black Mine quarry and upper guard station (E018 ~01:29–02:16):** A terraced excavation in/near mountainside, with machinery and a road into the cavern. **Oilbeard** dwarven guards hold the upper entrance, led by **Scrolly / Scrawly Oilbeard (?)** and restrain a human called **Tickles** in a metal helmet on all fours. Guards claim an enslaved-miner revolt and isolation of mine via **wedged elevator**, giving approximately **12 guards above** and **100–200 enslaved miners below** as self-reported figures. **The party directly enters the Black Mine for the first time in E018**. See [E018](../episodes/E018.md).
+
+**Black Mine elevator / sign 23 (E018 ~02:15–end):** The four PCs descend through the shaft with **Feather Fall**, land by a **23** sign and dark gallery tunnels, encounter one undead, signal for the lift to be raised and then face a group of undead converging on the lift as it rises. **The elevator fight itself continues into E019**. The magistrate's previous statement about **Catherine Speckles owning level 999** is an **unverified document report** and does not establish the elevator reached anywhere near that depth.
+
