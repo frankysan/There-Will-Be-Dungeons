@@ -291,3 +291,26 @@ All tasks below are **uncompleted**, based on machine SRT and [episode dossiers]
 
 **Reminder:** Before claiming a term canonical, seek a reliable show-era written source or listen. Separate owned personal notes, ASR, GM explanation, NPC testimony, propaganda, private visions, and confirmed actions.
 
+## E028–E030: pending audio and continuity checks (2026-10-21)
+
+[E028](../episodes/E028.md), [E029](../episodes/E029.md), [E030](../episodes/E030.md): **processed Parakeet-only dossiers**. Owner [numbering corrections](EPISODE_NUMBERING.md) applied; [personal spellings](OWNER_EPISODE_NOTES.md) are noncanonical.
+
+| Priority | Episode/time | Listening or other verification |
+|---|---|---|
+| High | E028 ~01:17–01:35 | Confirm **Diptak yields alive**, oath terms and commitment to Vorel, **Golden Land** and **Razhak Val** spellings, brothers' names, **Typala** relation; ensure raptor killed by **Hope** is distinct |
+| High | E028 ~01:35–01:55 | Roof patch from raptor skin versus new small blast hole; exact Tedna/Nash/Stanley confrontation and young passenger's welfare |
+| High | E028 ~01:55–02:36 | **Buttons's first name and identity**, **Arcanum Universalis**, wizard `Darguth/Jarguth`, prosthetic leg, claimed ordinary-cat parentage, old Dan Dakota Teet map |
+| High | E028 ~02:10–02:49 | Teet/Trashburg spellings **Guzzle Gang, Suckmaster, Andreeste, Milinar's, Pit of Despair**, first written/dated map, whether Buttons actually hands over 10 gold |
+| High | E028 ~02:49–end | Hope's exact compulsion onset, blue lights, who witnesses departure and true episode break |
+| High | E029 00:00–00:04 | Special **Beau/Jon-only session**, absence of main actors versus continuing in-story party |
+| High | E029 ~00:04–01:07 | **Stanley ties Nash to workbench**, follows Tedna/party with Buttons, map/prison geography and retreat code “lemon tree” |
+| High | E029 ~01:07–02:13 | Hag/worm `Blort`, song and “mana waves,” who is enthralled, death of monster and hag, dynamite/Feather Fall/Bok Bok injury |
+| Critical | E029 ~02:18–end | Name `Dion Talus`, claimed archfey/old elven war, **Stanley's explicit refusal** versus **forced Charisma-save energy entry**, unknown continuing effect. Do **not call consensual pact** |
+| High | E030 ~00:04–00:22 | Nash rope escape by **Reduce**, others' shared dream narration and player-vs-character knowledge |
+| High | E030 ~00:22–01:13 | Collapse sequence, Hope/Tedna and Vorel/Stanley rescues, **immovable rod left under oil** and whether salvage attempted |
+| Medium | E030 ~01:13–01:40 | Regroup at shoreline, what Stanley actually discloses about archfey/hag to companions |
+| High | E030 ~01:40–02:09 | Buttons's cat/thumb/wizard story, offered **Blink spell text** versus successfully learnt/cast, Tedna's driving/role |
+| High | E030 ~02:09–end | Teet outer approach, RV concealment, whether anyone **actually enters Trashburg**, status of `Fox and Scully` and Celestium quest clues |
+
+**Carryover:** E027 ends on Diptak's charge. E028 resolves challenge, *not* oil-lake mystery. E029 solo ends on forced energy transfer. E030 escapes collapse and heads toward the Teet; do not infer later city encounter. Only promote corrected spellings after audio or reliable show-era written corroboration.
+
