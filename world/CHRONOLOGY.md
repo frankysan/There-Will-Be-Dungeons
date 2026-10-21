@@ -467,3 +467,30 @@ E013.5 remains published **between E013–E014** even though its Hope/Vorel scen
 | E051 ~02:38–end | With earth tremors and active siege, party heads upstairs. **Nash attempts to trip a fleeing armored guard**, causing an **apparently fatal neck injury**, then confronts **multiple other huge transformed pixies invading through walls/roof**. Siege remains unresolved |
 
 **Critical status change:** E048 **Tedna rescued alive** and P0D active; E049 **Buttons killed**; E050 **Tedna, P0D, Jolt and Dashington killed** and **Gem physically reacquired**; E051 **Vorel and Hope petrified and fully restored** while **Kefeli destroyed**. Old “no Gem obtained/no princess rescue” statements are correct **only at their original cutoff**. No final Principal defeat, confirmed old-world army arrival or permanent tiefling succession by E051.
+
+## E052–E054 — Froghemoth fission, return to Tietkalla and Hope's coronation (2026-10-21 provisional)
+
+Sources: [E052](../episodes/E052.md), [E053](../episodes/E053.md), [E054](../episodes/E054.md). All **processed ASR only**. `Diontalus` accepted creator spelling; cast-written `Tietkalla` supported for this realm, but first-hand dialogue is not audio-verified.
+
+| When | Observed development / attribution |
+|---|---|
+| **E052** ~00:00–00:20 | Fighting and transformed giant pixies in keep interrupted by **an enormously altered froghemoth**, with many extra eyes/tentacles, **devouring pixie hulks**; spells sometimes mutate into bizarre effects |
+| E052 ~00:20–01:20 | Party **swallowed into froghemoth**, explores tongue/throat/stomach with acid, digestive worms, Vorel cutting in from exterior; **Nash grows a small controllable extra arm** amid unstable magic |
+| E052 ~01:20–03:04 | Body-cavern exploration continues via digestive fluid, roper/scorpion-like creature, ropes/poles, living valves, heart and electrically active brain |
+| **E052 end** | **Vorel contacts froghemoth brain telepathically** and claims to be master. Neither landing nor obedient control established at episode end |
+| **E053** ~00:05–00:18 | Creature describes an **astral-flight/pupation ambition**. Vorel requests purging its contents; beast **splits**: **upper cocoon-like part ascends and disappears**, **lower digestive/leg body falls to desert**, leaving party trapped in lower half. **Do not claim total organism death** |
+| E053 ~00:18–01:08 | Party seeks exit through dying lower intestine; Vorel investigates perceived worthy presence instead of assuming **Angelashi** lies there; fight with roper-like internal predator |
+| E053 ~01:08–01:20 | Vorel accepts **large lizardfolk eye** that fuses into his chest. GM calls artifact **Eye of Grojil** (uncertain orthography), granting sentient/combat/shield abilities and potential disapproval/takeover. **Scale-color changing is a distinct effect** of previous pixie/brain contact |
+| E053 ~01:20–02:00 | Further intestinal pursuit; **Nash uses finite rowboat patch** to float through body-waste channel and **entire party exits lower carcass** into desert as it decays. Upper flying mass not recovered |
+| E053 ~02:00–02:25 | Stanley **Identifies sentient artifact**. Party cleans, travels toward Tietkalla and **rests in Tiny Hut**; Vorel meditates to control multicolored scales |
+| E053 ~02:25–end | **Vorel unearths previously hidden hoard** (approx. 100,000 gold in assorted valuables) at rock/cactus, small amounts carried, remainder reburied. **Nash becomes young black dragon** and carries allies, Hope adorned with makeshift crowns |
+| **E054** ~00:07–00:22 | From air party finds **Trashburg and keep in ruins**; transformed pixies rise, but **revert to small pixies** and scatter before decisive attack. Party lands in breached courtyard |
+| E054 ~00:22–00:35 | **Nash smashes open throne-room exterior wall with tail**; **Monsoon Cabbage** occupies throne, **Prince Aladweir** dead beside him, **Suck Master Din** hanging alive; **Angelashi held alive** by stone-bodied **Lazlo** |
+| E054 ~00:35–00:49 | Monsoon **claims** he abandons throne because Kefeli's death will summon **Andreeste** someday; Vorel attacks; **Monsoon dissolves into mist and escapes**, not confirmed slain |
+| E054 ~00:49–01:06 | With Lazlo inert, **Nash dismantles stone grip** and **Angelashi is actually freed alive**. Suck Master Din questioned about failed rule |
+| E054 ~01:06–01:12 | **Nobiery returns through a portal with hundreds of armed tieflings**, recognizes Hope as queen and **crowns her with a black, battered crown**; troops chant/kneel. Alleged exact old count of ~1,000 **not independently verified** |
+| E054 ~01:12–01:24 | **Vorel decapitates captive Suck Master Din at Hope's signal**. Hope delivers an accession/rebuilding message. Tiefling captains **Melgor (security), Fula (food/farms), Relium (repairs)** organize people and start moving on their orders |
+| E054 ~01:24–01:52 | War council debates escaped Septwyn, Principal vs Weirlord restrictions, safety, local gangs, pixies, monster eggs, surviving humans, and **hostile attitudes toward non-tieflings**. Hope's ability to bear an heir queried; ancestral remedy suggested, **not performed** |
+| E054 ~01:52–end | Future scouting of Principal City, George's family, recovery of Stanley's book, clinic/currency reform **proposed, not completed**. **Bok Bok returned and Angelashi reunited with Nash**. GM declares **end of current arc** and **prospective months-long time skip/level 7**; do not backdate later projects as accomplished |
+
+**Continuity changes:** Earlier E048 reports Angelashi “fed to the Fragger” were **unverified hearsay**; **E054 demonstrates she is alive**. **E048's proposed Weir army actually appears E054**, changing Hope from a claimant to a **publicly crowned ruler**, while the strength/nature of the force and kingdom stability require later documentation. **Monsoon alive/escaped**, **Andreeste warning an NPC claim**, **Principal fate unresolved**.

@@ -503,3 +503,27 @@ Dossiers: [E049](../episodes/E049.md), [E050](../episodes/E050.md), [E051](../ep
 | Medium | All episodes | **Diontalus accepted**; check `Dashington`, `Aladweir`, `Kefeli/Kepheli`, `Septwyn`, `Tietkalla/Tiat Cala` and `Bok Bok/Bokbach` separately, without silent ASR rewriting |
 
 **Carry-forward correction:** E048 rescue **does not imply Tedna survives beyond E050**. E049 gigantic P0D **dies E050** and the giant pixie attackers E051 are **others**. E051 successful recovery means **Hope/Vorel alive at the cutoff**. No raw SRT, private GM message or future campaign details were edited by this work.
+
+## E052–E054 audio/source review, 2026-10-21
+
+Processed-SRT dossiers [E052](../episodes/E052.md), [E053](../episodes/E053.md), [E054](../episodes/E054.md). **Not listener-verified**.
+
+| Priority | Episode/time | Follow-up: distinguish source kind and outcome |
+|---|---|---|
+| High | **E052 ~00:00–00:34** | Compare original froghemoth to multi-eyed enlargement; spell-anomaly timing and **P0D's separate E050 death**; exact swallowing sequence |
+| High | **E052 ~00:34–01:16** | Nash **baby arm**, mouth/tongue/rope inventory, who swallowed vs attacking outside; weapon custody |
+| High | E052 ~01:16–02:30 | Acid/swim homebrew ruling, gut parasites, rope/pole patches and **10-foot pole consumption**, air-hole geography |
+| High | E052 ~02:30–end | Biological rooms/brain electricity, player mute/private voice, **Vorel's mental question and froghemoth's answer** |
+| Critical | **E053 ~00:10–00:20** | **Upper cocoon separates and ascends** while **lower body falls/dies**. Do not accidentally kill off entire creature |
+| Critical | **E053 ~01:08–01:20** | **Eye of Grojil** ASR, **Eye of Groxel** E054, **Kyle's cast-written Eye of Groxl**. Match **item vs legendary host vs fan deity**; review GM homebrew sheet for attack redirect/rage/shame exact mechanics |
+| High | E053 ~01:20–02:12 | Internal fights, **rowboat patch consumed**, exit route, Nash tiny arm persists, voluntary **scale colors separate from eye** |
+| High | E053 ~02:30–end | Vorel's desert hoard **~100k estimate**, amounts distributed/reburied, crown/costume, dragon-flight and exhaustion slots |
+| Critical | **E054 ~00:07–00:21** | Pixie hulks' **actual shrinking** vs presumed expiration clock, survivors of destroyed Trashburg (no census), state of keep |
+| Critical | **E054 ~00:23–01:06** | **Prince Aladweir/Hallidor death and kin**, Lazlo rock hand, **Angelashi alive rescue**, **Monsoon's escape as mist** versus death, exact and implied Weirlord bargain |
+| Critical | **E054 ~01:06–01:16** | **Nobiery/Nobieri** returned with armed people: what number actually shown? Black crown, formula for naming queen, status of original **1000/twelve house** claim |
+| Critical | **E054 ~01:12–01:20** | **Din execution by Vorel at Hope's signal**, prior questioning, troop orders vs actual first-day raid results |
+| High | E054 ~01:15–01:43 | House leaders **Melgor of Poxis, Fula Dentipilius, Relium Vanch** exact spelling; hostility to non-tieflings, Hope's role in council, alleged **Andreeste** threat and Principal barrier |
+| High | E054 ~01:38–02:05 | Succession/heir issue as **spoken in-character**, no cure established; **Bok Bok** release, Angelashi reunion, George's family visit/medical clinic/Principal City scouting all **planned only** |
+| High | E054 end/meta | **GM announces months-long next-arc interlude and level-7 plans**; separate episode runtime and retrospective episodes from in-story calendar; no invented already-finished reforms |
+
+**Do not silently update original SRT, inventory, current-era character sheets, or source text on the strength of these provisional notes.** No listening/handout inspection occurred here.

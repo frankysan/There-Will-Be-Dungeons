@@ -577,3 +577,33 @@ Source basis [E034](../episodes/E034.md) · [E035](../episodes/E035.md) · [E036
 | `gem.installation.check` | **E050–E051** | Gem carried into Kefeli encounter; water/pumps later operating, but **exact transfer and emplacement timing should be audio/scene-reviewed**, not assumed universally resolved |
 
 **Editorial note:** Use **creator-approved Diontalus** and cast-supported `Tietkalla` carefully; `Angelashi/Angel Ashi`, `Catoblepraithe/Catobelpraithe`, `Kefeli/Kepheli`, `Nobiery/Nobieri` and `Dashington` remain unresolved. GM-described actual deaths/cures must be separated from **Hope's P0D dust-driven hallucinations** and any other character's political claims.
+
+## E052–E054 — Artifact naming, froghemoth split, Angelashi and accession
+
+| Key | Evidence / source | Curation status |
+|---|---|---|
+| `froghemoth.new_shape` | E052 opening | Enlarged multi-eye/multi-tentacle version devours giant pixies; **do not assume killed at E051** |
+| `froghemoth.p0d_spell_interference` | E052 | **Spells produce random chicken/orchestra/hula hoop/extra hand effects** near pixie-fed body. Encounter-specific source; audio verify exact causes |
+| `nash.extra_arm` | E052 → E053 | **Small hand/arm persists into E053** and Nash chooses to keep/conceal it; not established autonomous sentience |
+| `froghemoth.telepathic` | E052 end → E053 opening | **Vorel contacts mind**, hears mental speech. “Master” language **not proof of successful, durable domination** |
+| `froghemoth.fission` | **E053 ~00:15–00:20** | **Upper cocoon/astral vessel escapes to sky**; lower digestive/leg half **falls to desert and decays**; full creature total-death claim **unsupported** |
+| `froghemoth.inside_escape` | E052→E053 ~02:02 | Party traverses body, including digestive worms, internal ropers, and exits **lower carcass** through bowel outlet |
+| `eye.grojil.groxl` | E053 ~01:11–01:18 / E054 ~00:42; [Discord spelling report](../reports/DISCORD_SPELLING_2026-10-21.md) | GM **“Eye of Grojil”** (ASR), Vorel **“Eye of Groxel”** (ASR), cast Kyle **“The Eye of Groxl”**. **Strong same-artifact referent match**, but **the legendary warrior's exact spelling, deity identity or connection to fan `Grojil` remain unverified**. Preserve all as search aliases |
+| `eye.sentient_mechanics` | E053 ~01:13–01:18, E054 ~00:42 | **Chest graft, fire shield/return, ranged redirection, weakness detection in combat and shame/conflict/zero-HP rage**; GM-written mechanics may differ from generic rules, verify against authoritative character artifact sheet |
+| `vorel.chameleon_scales` | E053 camp ~02:10 | **GM states independent from embedded eye**, arising through **pixie-blush/froghemoth mental contact**; controllable color changes; permanence unknown |
+| `robe.rowboat_patch` | **E053 ~01:56** | **Nash materializes rowboat** to escape dying intestine; **patch consumed**. Existing **E048 ladder** and **E051 mirror** also consumed |
+| `vorel.hidden_gold` | E053 ~02:30–02:38 | Desert chest estimate **~100k gold plus jewelry**, limited shares taken, **bulk reburied**; no audited coin count |
+| `angelashi.resolved_alive` | E048 Tedna hearsay, **E054 ~00:31 and ~00:54** | **Directly alive and freed from Lazlo's stone grip**, physically reunites with Nash; E048 monster-death report false or never verified |
+| `pixie_hulk.duration` | E054 ~00:10–00:21 | Multiple large pixies **physically revert to small form and disappear/invisibly scatter**. “Timer expired” is party's inference |
+| `monsoon.escape` | **E054 ~00:47–00:49** | **Vorel strikes Monsoon; he turns to mist and leaves**. **Not a confirmed death** |
+| `monsoon.andreeste_claim` | E054 ~00:36–00:42 | Monsoon claims **Kefeli promised city to Andreeste**, whose future invasion he predicts. **Attributed threat, not verified prophecy** |
+| `suckmaster.din.dead` | E054 ~01:12 | **Vorel executes captive Din after Hope's signal**, directly played; distinct from dead prince found at throne |
+| `nobiery.host.return` | E048 alleged 1000 troops → **E054 ~01:06–01:12** | **Hundreds visible returning through portal**, black crown and **Hope's public acclamation**. **Exact thousand/twelve house count, sacrificial pact provenance still unresolved** |
+| `hope.crowned.queen` | E054 ~01:06–01:15 | **Direct coronation** recognized by returned tieflings. Beyond claimant status; **political authority and survival still tested after cutoff** |
+| `houses.melgor.fula.relium` | E054 ~01:14–01:38 | Armed/security, farming, reconstruction leaders **receive/plan tasks**. Instructions to kill opposition **not evidence sweep killings already occurred** |
+| `hope.lineage.heir` | E054 ~01:34–01:41 | Hope **states infertility**, Nobiery says spirits may offer remedy. Sensitive character fact; **no cure or pregnancy established** |
+| `squads.civic_policy.pending` | E054 ~01:35–02:05 | Inclusion of humans, rehabilitation/banishment of gangs, taxes/currency, medical services, farm and reconstruction discussions **not settled law** |
+| `time_skip.announced` | E054 ~02:02–end | DM discusses **future months of downtime and level 7**; **not already played within E054** |
+| `george.family.visit.pending` | E048 plan → E054 discussion | Nash/Stanley still planning **family contact and returning keepsake**, **not performed** |
+
+**Cross-reference** [E052](../episodes/E052.md), [E053](../episodes/E053.md), [E054](../episodes/E054.md). Publicly available Discord written spellings **cannot be treated as audio verification**. Keep a historical difference between unconfirmed/false statements at E048 and **observed resolution by E054**.
