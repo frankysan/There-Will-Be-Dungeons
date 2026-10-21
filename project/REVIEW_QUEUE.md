@@ -384,3 +384,25 @@ These provisional [E037](../episodes/E037.md), [E038](../episodes/E038.md), [E03
 
 Preserve the source SRTs; do not silently use wiki or owner notes to fill missing handout words or backdate later character sheets.
 
+## E040–E042 pending audio / private-handout verification (2026-10-21)
+
+New provisional [E040](../episodes/E040.md), [E041](../episodes/E041.md) and [E042](../episodes/E042.md) dossiers use the **processed Parakeet SRTs only**. None of these events or spellings has received a full listening review. Resolve high-impact uncertainty **without modifying source SRTs**.
+
+| Priority | Time | Target for listening or original GM material |
+|---|---|---|
+| High | E040 ~00:06–00:32 | Route out of **Twenty-Six** and **P0D** scout limits; **Dion's Teet and Guzzle disguises** and Hope/Vorel transport mechanics |
+| High | E040 ~00:32–01:32 | Guard/sleeping patrol and house searches, faction identification, exact false aliases/recognition, who first raises alarm |
+| High | E040 ~01:32–02:51 | **Dark-zone spell** name/damage/targeting, **two Phillips** (names, voices, aftermath), Nash spell choices, final count of surviving pursuers and precise cutoff |
+| Critical | **E040 ending → E041 opening** | Pursuit/spotlight continuity; confirm no missing secure rest/escape or offscreen entry into pit between episodes |
+| High | E041 ~00:15–00:31 | Bar/rope drop, **Misty Step and Feather Fall** positions and timing; identity/wounds of **George** versus wounded Guzzle man; any confirmed deaths |
+| High | E041 ~00:50–02:11 | First directly observed **froghemoth**, GM geometry, **Phantasmal Force** illusion constraints, exact placement of **side grate** and who opens rusty lock; old key disposition |
+| High | E041 ~02:00–02:33 ↔ E042 ~00:07–00:31 | Nash's **whole glowing sphere**, whether explicitly named an egg, where he cuts it and what **black central core** he keeps; any GM proof of biological identity |
+| High | E041 ~02:11–02:24 | Exact voice/control conditions and **Stanley's objection to murdering Buttons**; separate actual party decision from Stanley's personal stance |
+| High | E041 ~02:33–end ↔ E042 ending | **Unseen singer** wording and direction, self-styled “king/guardian,” whether any response occurs before either cutoff |
+| High | E042 ~00:31–01:22 | Mucus-associated tentacled worm identity, why encounter avoided, **stone boots** versus earlier Tedna statues; no inferred basilisk confirmation |
+| Critical | E042 ~01:22–01:30 | Find **GM private message/handout for Hope's Infernal inscription**. Exact translation is **absent/incomplete in subtitle**, cannot be reconstructed from guessed phonetics |
+| High | E042 ~01:33–01:45 | Inventory **all cache contents and distribution**, wooden stick and **interrupted Identify**, investigate any continued magic result |
+| Critical | E042 ~01:42–03:10 | **Two black puddings** count, splitting/corrosion effects, damage/armor injury to Hope, tactics and defeat before cutoff; distinguish DM mechanics from rules reference |
+| Critical | E042 ~03:04–end | **George accidentally shoots his own foot**, kit/treatment status, and exact last words of Vorel's challenge to unseen king |
+
+**Current continuity hypotheses (not listener-confirmed):** E040 city chase ends under search; E041 pit/hatch/sphere pickup; E042 sphere cut, possible cryptic Infernal text, two puddings defeated and George wounded. **No keep entry, gem recovery or audience with cave king** by E042 end.

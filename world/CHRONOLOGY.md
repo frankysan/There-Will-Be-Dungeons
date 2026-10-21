@@ -367,3 +367,23 @@ E013.5 remains published **between E013–E014** even though its Hope/Vorel scen
 
 **Boundary corrections:** E036 exits Gargoyle with leader alive; **E038** kills and presents his head. E037's **reported** Slavetown heist is not E035's Teet street fire. **Mechanical Hope begins in E039**, after E038 emergency amputations. All approximate timestamps refer to processed SRTs, not audio verification.
 
+## E040–E042: pursuit through the pit and underground exploration (processed SRT only)
+
+| Corrected episode / approximate time | Played action versus uncertain account |
+|---|---|
+| **E040** ~00:06–00:32 | Party leaves **Twenty-Six Block** toward the **Pit of Despair**. **P0D** scouts Teet patrols; **Dion/Stanley** uses illusory guard uniforms, and **Vorel carries Hope** because her new left leg hampers her pace |
+| E040 ~00:32–01:32 | Suspicious guard patrols, searching civilian houses and sweeping keep spotlights; Dion disguises himself as **Guzzle Gang**. Three companions offer false names when challenged; their identities are suspected |
+| E040 ~01:32–02:51 | Large street engagement: Vorel enlarged/raging with **Ma Storm**, Hope shooting, Nash spellcasting; magical dark zone confuses pursuers. **Two “Phillips”** sent into darkness, exact fate unchecked; **Stanley remains disguised** |
+| E040 close | Immediate nearby enemies defeated; party **runs south toward Pit of Despair with spotlight still following**. Not a secure escape or keep entry |
+| **E041** ~00:08–00:31 | Party reaches **barred Pit of Despair**, is shot at from above and descends on rope/fall with **Misty Step / Feather Fall**; **George**, an unwilling Teet Guard pursuer, joins them |
+| E041 ~00:31–01:12 | Search for Monsoon's rumored concealed hatch while evading spotlights and observing a **large froghemoth**, bones, mucus and the pit's terrain |
+| E041 ~01:12–02:11 | Vorel diverts froghemoth; **Stanley casts Phantasmal Force** showing it illusory Vorels. Party locates **rusted grate** in a crevasse; Hope/Vorel force access while **Nash takes one unidentified, glowing sphere** |
+| E041 ~02:11–02:33 | Group and George descend into deeper oily tunnels. **Stanley defends Buttons against a proposed killing**; Nash's hidden sphere smells distinctive. The nature of that item remains unknown |
+| E041 ~02:33–end | Unseen singer claims to be **cave king/guardian**; party explores and eats insects, with **no contact with singer or keep** |
+| **E042** ~00:07–00:31 | **Nash cuts open E041 sphere** and retains its **black soft core**; tentative “egg” label never confirmed. Party has **short rest**, eats cave insects/sandwich |
+| E042 ~00:31–01:22 | Explore branches; see **mucus-covered tentacled worm**, retreat; find **stone-looking boots/legs**, possible but unverified tie to Tedna's statues |
+| E042 ~01:22–01:42 | **Hope reads Infernal inscription** via GM private message (full words absent from SRT); find old supply rucksack with weapons, tools, jewels and **unidentified wooden stick**. Planned **Identify** interrupted |
+| E042 ~01:42–03:10 | Two **black puddings** attack in narrow greasy caves, corroding equipment/splitting under cuts; party ultimately destroys them with spells, strikes and **Hope's shotgun** |
+| E042 ~03:10–end | **George accidentally shoots his own foot**; urgent treatment not completed at cutoff. Distant singing stops and **Vorel calls out to the unseen king**; no response before ending |
+
+**Chronology checks:** E040 is still a surface chase; **E041** sees the froghemoth, opens the under-Pit hatch and collects an intact *unidentified* sphere; **E042** breaks it, explores side passages, finds cache and fights puddings. None of these episodes completes the keep infiltration, pixie rescue, wedding, Buttons resolution or Gem of Tides recovery. All approximate timestamps are **unverified processed-Parakeet-SRT navigation**, not listening-verified events.
