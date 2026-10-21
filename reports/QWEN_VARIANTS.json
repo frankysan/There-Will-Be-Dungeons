@@ -1,0 +1,155 @@
+{
+  "E000": {
+    "variants": {
+      "q4": {
+        "filename": "E000.qwen-q4.raw.srt",
+        "sha256": "f39064cf7fb5da905067a05dc3aaeadcaa4169d07ad312bda52f55d199f5bf52",
+        "cue_count": 239,
+        "word_count": 1623,
+        "words_sha256": "fe381ef25345e79f1d8dad0d9a889b018363bedba06599e09133060a85d717b2",
+        "nonpositive_cues": 0,
+        "adjacent_cue_overlaps": 0,
+        "first_cue_ms": 0,
+        "last_cue_end_ms": 790960,
+        "speaker_counts_by_cue": {
+          "speaker 0": 107,
+          "speaker 1": 32,
+          "speaker 2": 54,
+          "speaker 3": 23,
+          "speaker 4": 23
+        }
+      },
+      "q4+canary-ctc": {
+        "filename": "E000.qwen-q4+canary-ctc.raw.srt",
+        "sha256": "f5a334134f01533eecbeaf20687e3ded65dc20fad71b1098507b4dfd616a931b",
+        "cue_count": 239,
+        "word_count": 1623,
+        "words_sha256": "fe381ef25345e79f1d8dad0d9a889b018363bedba06599e09133060a85d717b2",
+        "nonpositive_cues": 0,
+        "adjacent_cue_overlaps": 0,
+        "first_cue_ms": 0,
+        "last_cue_end_ms": 790720,
+        "speaker_counts_by_cue": {
+          "speaker 0": 107,
+          "speaker 1": 32,
+          "speaker 2": 54,
+          "speaker 3": 23,
+          "speaker 4": 23
+        }
+      },
+      "q8": {
+        "filename": "E000.qwen-q8.raw.srt",
+        "sha256": "b08354ef479a09dab53d0b252b0401822d4cbb60363e0a23016f2eed76dc0588",
+        "cue_count": 244,
+        "word_count": 1623,
+        "words_sha256": "fcf99fcb23a1ef5de050e150aa34ac283e15c472db0b4c0cd1c977fba22d9669",
+        "nonpositive_cues": 0,
+        "adjacent_cue_overlaps": 1,
+        "first_cue_ms": 0,
+        "last_cue_end_ms": 790960,
+        "speaker_counts_by_cue": {
+          "speaker 0": 110,
+          "speaker 1": 32,
+          "speaker 2": 56,
+          "speaker 3": 23,
+          "speaker 4": 23
+        }
+      }
+    },
+    "q4_versus_canary": {
+      "word_sequence_identical": true,
+      "full_concatenated_text_identical": true,
+      "speaker_id_mismatched_word_positions": 0,
+      "speaker_id_mismatch_fraction": 0.0,
+      "note": "Speaker IDs assigned per subtitle cue; resegmentation changes word-level attribution."
+    },
+    "q4_versus_q8": {
+      "levenshtein_word_edits": 17,
+      "normalized_by_longer_word_count": 0.010474430067775724,
+      "edit_types": {
+        "delete": 3,
+        "replace": 11,
+        "insert": 3
+      },
+      "note": "Disagreement, not WER; neither output is an independently verified reference."
+    }
+  },
+  "E001": {
+    "variants": {
+      "q4": {
+        "filename": "E001.qwen-q4.raw.srt",
+        "sha256": "2921081f05628f62d94202d23f7ccd08dbb30232dac2ceaad76f178d398bc6e7",
+        "cue_count": 5497,
+        "word_count": 32007,
+        "words_sha256": "127de04f3e0c9608d3453e88206a80f2a56bf7658cadb1ceca1af7012fcbbf4e",
+        "nonpositive_cues": 56,
+        "adjacent_cue_overlaps": 19,
+        "first_cue_ms": 11920,
+        "last_cue_end_ms": 11013760,
+        "speaker_counts_by_cue": {
+          "speaker 0": 926,
+          "speaker 1": 3158,
+          "speaker 2": 361,
+          "speaker 3": 268,
+          "speaker 4": 748,
+          "speaker 5": 36
+        }
+      },
+      "q4+canary-ctc": {
+        "filename": "E001.qwen-q4+canary-ctc.raw.srt",
+        "sha256": "29aabc047242e2f7c1eb4fdf83cba8bf02b609e0054365d8dca0077cec831bd7",
+        "cue_count": 5472,
+        "word_count": 32007,
+        "words_sha256": "127de04f3e0c9608d3453e88206a80f2a56bf7658cadb1ceca1af7012fcbbf4e",
+        "nonpositive_cues": 0,
+        "adjacent_cue_overlaps": 1,
+        "first_cue_ms": 11760,
+        "last_cue_end_ms": 11013200,
+        "speaker_counts_by_cue": {
+          "speaker 0": 902,
+          "speaker 1": 3149,
+          "speaker 2": 360,
+          "speaker 3": 266,
+          "speaker 4": 756,
+          "speaker 5": 39
+        }
+      },
+      "q8": {
+        "filename": "E001.qwen-q8.raw.srt",
+        "sha256": "a48adfc0c31318a66b882f5eebe729dbff9d3c691a3e1c69cc7aa65ea2dacd5d",
+        "cue_count": 5851,
+        "word_count": 32244,
+        "words_sha256": "2feef679a89617f88e735212744f2a7b97118234c4742e58586dd90a6ff182b1",
+        "nonpositive_cues": 64,
+        "adjacent_cue_overlaps": 16,
+        "first_cue_ms": 11920,
+        "last_cue_end_ms": 11013760,
+        "speaker_counts_by_cue": {
+          "speaker 0": 995,
+          "speaker 1": 3358,
+          "speaker 2": 384,
+          "speaker 3": 286,
+          "speaker 4": 788,
+          "speaker 5": 40
+        }
+      }
+    },
+    "q4_versus_canary": {
+      "word_sequence_identical": true,
+      "full_concatenated_text_identical": true,
+      "speaker_id_mismatched_word_positions": 924,
+      "speaker_id_mismatch_fraction": 0.028868684975161683,
+      "note": "Speaker IDs assigned per subtitle cue; resegmentation changes word-level attribution."
+    },
+    "q4_versus_q8": {
+      "levenshtein_word_edits": 1070,
+      "normalized_by_longer_word_count": 0.03318446842823471,
+      "edit_types": {
+        "replace": 383,
+        "insert": 462,
+        "delete": 225
+      },
+      "note": "Disagreement, not WER; neither output is an independently verified reference."
+    }
+  }
+}

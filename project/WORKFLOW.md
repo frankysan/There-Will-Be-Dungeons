@@ -13,6 +13,8 @@
 3. Do **not** select Cohere for archival production without fixing its confirmed tendency to skip substantial speech. Retain it as historical test data.
 4. Preserve both pre- and post-Subtitle Edit outputs when possible; the provided examples show text and cue changes between different runs.
 5. Evaluate recognition, diarization, alignment, and punctuation/cleanup **independently**. Same diarizer across ASR engines is not independent evidence of correctness.
+6. For Qwen, Q4 with Canary CTC preserved all words and improved E001 SRT structural validity, but altered speaker attribution on ~2.9% of words. Keep a text-level comparison and separate attribution review before adopting Canary.
+7. Record the **actual aligner** in run metadata, not just a filename implying "raw" or "native". If Q8 is selected, run Q8+Canary as a distinct test.
 
 ## C. Normalize speakers
 

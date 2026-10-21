@@ -1,39 +1,12 @@
-# Roadmap and open work
+# Backlog — next pilot milestones
 
-## Milestone 1 — two-episode pilot
+This is a prioritized plan, not a list of completed actions.
 
-- [x] Preserve all supplied SRT variants under unambiguous names.
-- [x] Produce E000/E001 speaker-labelled, human-readable **drafts** with timestamps.
-- [x] Apply listener-confirmed `speaker 5` → Scott mapping **only in E001's presentation layer**.
-- [x] Create project decisions, workflow, editorial policy, review queue, initial world dossiers and source manifests.
-- [x] Add reproducible renderer and mechanical regression checks for completeness and links.
-- [ ] Listen and correct both drafts to achieve **reviewed** status (not yet done).
-- [ ] Resolve important name spellings and spoken-word timing at the E000 end.
-- [ ] Measure real transcription accuracy (WER and coverage) on verified samples from these two recordings.
-
-## Milestone 2 — quality and maintainability
-
-- [ ] Define a sampled reference set of 20–30 minutes, across both episodes and including known failures.
-- [ ] Compare Parakeet versus Qwen Q8 against manually checked audio; measure WER, omissions and diarization mistakes separately.
-- [ ] Build a correction overlay that is **not overwritten** by automatic transcript regeneration.
-- [ ] Add episode-specific pronunciation/name lexicon; note confirmed spellings and aliases.
-- [ ] Add selective second-pass transcription for suspected dropped speech.
-- [ ] Develop validators for speech/music boundaries, repetition artifacts and overlap.
-
-## Milestone 3 — whole archive
-
-- [ ] Inventorize episodes, durations, audio properties and source provenance.
-- [ ] Build resumable batch processing with per-episode manifest/state and GPU resource limits.
-- [ ] Process all episodes to `readable-draft`; independently track editorial `reviewed` status.
-- [ ] Link transcripts to world-reference entries, including character aliases and evolving plot facts.
-- [ ] Add full-text search for transcripts and lore (SQLite FTS5 is a potential fit).
-- [ ] Establish source and output backup/restore checks.
-
-## Milestone 4 — ongoing consistency
-
-- [ ] Establish 'first mention' and 'latest clarification' for each named entity across episodes.
-- [ ] Annotate retcons, mistaken in-world claims and contradictory scenes rather than silently replacing the historical record.
-- [ ] Maintain episode summaries, plot threads, entities, relationships and timeline, with provenance for each claim.
-- [ ] Add focused editorial search prompts to find inconsistent spellings and suspect character attribution across the archive.
-
-These phases are **plans**, not commitments that accuracy work or the full archive have already been completed.
+1. **Identify/connect GitHub project or repository.** Verify permissions and decide where to store source SRTs, human-readable drafts, review decisions and world records. Do not commit the original MP3s to Git by default.
+2. **Listener-verified reference passages.** Create 20–30 minutes of manually checked transcription for E000/E001; include Q4/Q8 disagreements (00:23, 01:51, 02:13), proper nouns, overlaps and music boundaries.
+3. **Select ASR recognition model.** Benchmark Parakeet TDT 1.1B, Qwen Q4 and Qwen Q8 against the *same* reference; track omissions separately from WER.
+4. **Select aligner separately.** The Q4+Canary test fixed invalid SRT durations, but changed the word-level speaker labels. If Q8 wins, test Q8+Canary.
+5. **Validate diarization.** Resolve speaker-ID disagreement regions against audio. Retain per-episode mapping `speaker 5 → Scott` for E001; do not generalize across episodes.
+6. **Create reviewed E000/E001 reader editions.** Apply verified corrections only, with an auditable correction log; the existing drafts remain unchanged meanwhile.
+7. **Expand world reference with verified spellings and citations.** Preserve conflicting names and speaker/character distinctions until checked.
+8. **Build resumable bulk pipeline.** Process the 1,000+ hour archive only after the two-episode milestone meets review acceptance criteria.

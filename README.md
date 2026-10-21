@@ -11,7 +11,7 @@ This package establishes a repeatable, **local-first** path from podcast audio t
 3. [Project charter](project/PROJECT_CHARTER.md), [workflow](project/WORKFLOW.md), [editorial rules](project/EDITORIAL_GUIDE.md) and [decision log](project/DECISIONS.md), [model test record](project/MODEL_TESTS.md) and [roadmap](project/BACKLOG.md)
 4. [World reference index](world/README.md), [characters](world/CHARACTERS.md), [places](world/PLACES.md), [world history](world/WORLD.md), [chronology](world/CHRONOLOGY.md), and [consistency issues](world/CONSISTENCY_LEDGER.md), and [machine-readable entity index](world/entities.json)
 5. [Episode dossiers](episodes/E000.md) and [E001](episodes/E001.md)
-6. [Review queue](project/REVIEW_QUEUE.md) and [automated file audit](reports/SRT_AUDIT.md)
+6. [Review queue](project/REVIEW_QUEUE.md), [automated file audit](reports/SRT_AUDIT.md), and [Qwen Q4/Q8/Canary variant evaluation](reports/QWEN_VARIANTS_2026-10-21.md)
 
 ## Important distinctions
 
@@ -29,6 +29,8 @@ Python 3.10+ is sufficient; the script uses only the standard library.
 ```bash
 python tools/build_transcripts.py
 python tools/audit_sources.py
+# Optional: pip install rapidfuzz
+python tools/evaluate_qwen_variants.py
 ```
 
 Files produced by the first command: `transcripts/E000.readable-draft.md`, `transcripts/E001.readable-draft.md`, and `*.turns.json` containing original cue indexes for traceability. The second command creates `reports/SRT_AUDIT.md` and `reports/source_manifest.json`.
@@ -38,3 +40,7 @@ The original MP3 files are **not** bundled in the archive, to avoid duplicating 
 ## Production definition of done (per episode)
 
 An episode is *drafted* after automatic transcription and readable rendering, but is *reviewed* only after checking flagged omissions, proper nouns, speaker IDs, beginning/end speech boundaries, broken cue boundaries, and audio-linked uncertain sections. This package is at the **drafted** milestone.
+
+## Additional ASR tests (2026-10-21)
+
+Six further **raw Qwen variants** are preserved under `sources/`. See [comparison](reports/QWEN_VARIANTS_2026-10-21.md) for exact-text results, timing-validity findings and discrepancies worth checking against audio. Neither the existing readable drafts nor the world reference were silently rewritten from these competing model outputs. A GitHub project has been created by the archive owner, but the repository is not yet identified/accessible through the connected GitHub tools; this ZIP contains the local changes only.
