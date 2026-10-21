@@ -195,3 +195,27 @@ Two private source exports were reviewed: `There Will Be Dungeons episodes.xlsx`
 | High, publication metadata | Original spreadsheet has **240 rows**, some calculated cells display `#NAME?` in import | Preserve original titles, normalized filenames, campaign/season and date fields; review bonus month-label discrepancies rather than overwriting them |
 
 This is an **uncompleted listening/import queue**, not a set of confirmed new transcript corrections. Source XLSX/DOCX binaries and all raw/processed SRT files remain unchanged.
+
+## Episodes 17–18: outstanding listening and continuity checks
+
+**Status:** Open review tasks based on [E017](../episodes/E017.md) and [E018](../episodes/E018.md). The user's [personal notes](OWNER_EPISODE_NOTES.md) are **not canonical**, and neither episode was checked against audio during this dossier expansion. Use [corrected IDs](EPISODE_NUMBERING.md).
+
+| Priority | Timestamp | Questions to verify by listening |
+|---|---|---|
+| High | E017 ~00:00–00:04 | Is the proposed Nash/dragon connection clearly introduced as a **listener's theory**? |
+| High | E017 ~00:32–00:57 | Confirm the apothecary **Maripol Bania**, the name **Pixie Blush**, Nash's subsequent symptoms, and Hope's reading. Owner notes distinguish an **E011 mention** from **E017 use** |
+| High | E017 ~01:00–01:16 | Identify red-bandolier **Jolt/Joel Telagos**, the title **Acrimonicar**, the proposed bank heist, **Forbisher's Holdings** and meeting location. **No heist is observed** |
+| Medium | E017 ~01:00–01:10 | Track **Bok Bok**, **Gita/Gitert**, and their whereabouts before and after the Slavetown fire |
+| High | E017 ~01:16–02:25 | Track inventories and the difference between Nash's altered perceptions and the GM-narrated physical consequences |
+| High | E017 ~01:40–02:08 | Verify the sequence involving the foundry's armed owner, Vorel, and Stanley's injuries |
+| High | E017 ~02:25–02:53 | Determine exactly which streets and businesses are observed burning, who leaves town and in which **replacement station wagon**; never assume all civilians die |
+| High | E018 ~00:09–00:37 | Confirm storm arrival, wagon burial, Vorel's help escaping and whether the vehicle is definitively unusable |
+| Medium | E018 ~00:37–01:00 | Describe the giant carcass and approximately eight javelin-carrying strangers. **Species unknown**; listen to Hope's spell and their departure |
+| High | E018 ~01:04–01:14 | Record **Nash's first-person Solar Mines story** about his staff's nail **Freedom**. Keep distinct from the E014 firearm **Freedom** |
+| Medium | E018 ~01:12–01:29 | Does the storm's impact on **Slavetown's previous blaze** become observed fact, or remain speculation? |
+| High | E018 ~01:29–02:16 | Confirm the dwarven overseer's **Scrolly/Scrawly Oilbeard** name, **Tickles**, the upper guard group and the slavers' account of the mine uprising |
+| High | E018 ~02:08–end | Verify shaft descent, **Feather Fall**, the sign **23**, the early undead encounter and precise final elevator cliffhanger. The larger fight is **E019**, not yet described here |
+| Medium | Future research | Seek historical show notes promised in E016 for dated name leads, not as a substitute for the episode audio |
+
+Pending issues are logged in the [consistency ledger](../world/CONSISTENCY_LEDGER.md). No review item should be marked resolved merely because multiple ASR systems or owner's notes agree.
+
