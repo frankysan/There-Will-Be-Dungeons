@@ -283,3 +283,21 @@ The fan-wiki [Teet image](../sources/images/Map_-_The_Teet.webp) is a later/unda
 
 **Wedding and keep (still future):** Friday Blood Ball, Saturday **Jolt/Alidwyr wedding** and possible dining invitation are **scheduled events or offers**, not visited scenes through E036. The party's intention to infiltrate royal functions is not an accomplished admission.
 
+## E037–E039 — secret meeting, cave blast, clinics and Monsoon's underground refuge
+
+**Vorel's skull-marked meeting house / stash area (E037, E039):** A dilapidated building marked with a **skull** in Trashburg, accessible by wandering through alleys/sewer passages. Vorel uses it for a private meeting with Jolt's contact, receives a heavy chest of reported **Slavetown Oilbeard-safe loot**, and seeks a place to hide it. **In E039** the group uses the building as a **temporary refuge** during the wanted-person alert. Where the chest is securely stored needs audio/location corroboration. [E037](../episodes/E037.md) · [E039](../episodes/E039.md).
+
+**Golden Gargoyle underpass / Toe Ripper cavern (E038):** Connected underground workings are filled with **smoke, rubble and rockfall** after Hope fires the rocket launcher, forcing the party into an emergency escape. **Blunt Goliver** and surviving Toe Rippers are confronted deeper inside; he is killed and **beheaded**. This is the location of **Hope's catastrophic injuries**, not the E035 East Trashburg street fire. [E038](../episodes/E038.md).
+
+**Twenty-Six Block headquarters and medical handoff (E038):** Vorel and companions arrive carrying **Blunt Goliver's head** to **Monsoon Cabbage**. He examines it and arranges medical help for critically injured Hope. [E038](../episodes/E038.md).
+
+**Dr Dickles's clinic (E038–E039):** A crowded, improvised **Trashburg health facility** with old X-ray equipment, surgical instruments, clerical assistance and a prosthetics specialist **Metal Mandy**. Hope's shattered **left arm and leg** are amputated in the extensive E038 treatment, followed by prosthetic fitting/testing in E039. Later **Monsoon says he ordered the medical staff killed** and the clinic is abandoned/repainted; attribution of the killing and exact changes to property should remain separate. [E039](../episodes/E039.md).
+
+**Teet search/curfew perimeter (E039):** Armed patrols, spotlight sweeps and a public announcement seek **Stanley Billings/Dion Talus**, with official allegations of attempted murder and claimed detained agents. The party moves secretly from the clinic area to Vorel's skull-marked refuge, then into **Twenty-Six territory** after dark. Not evidence that every claimed captive was seen.
+
+**Monsoon's deeper chambers / stone servant (E039):** Hidden rooms beneath **Twenty-Six Block** accommodate an injured Hope, and later reunite the party for Monsoon's briefing. A stone-bodied attendant **Lazlo/Lazzlo** serves them and provides access to supplies/clothing. He is observed as a speaking stone creature, but a categorical species/creation history is **not demonstrated**.
+
+**Pit of Despair and prospective Teet underpass (E039 report):** **Monsoon** says an older passage beneath the **Pit of Despair** reaches the fortress/keep, past a **froghemoth** that may be sleeping at night. He proposes it as an infiltration route. The party **has not yet traversed that route** and its layout, monster and security are still **interested intelligence**.
+
+**Gem of Tides (E039 report):** Supposedly in the keep and used to transform oil into potable water; **Monsoon's source/claim**, not a device seen operating by the adventurers.
+
