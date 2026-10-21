@@ -21,3 +21,7 @@ This is a **reference for consistency work**, not a complete or independently ve
 - **Spelling pending** — recognized phonetically, but orthography not yet independently corroborated.
 
 See the [editorial guide](../project/EDITORIAL_GUIDE.md). Episode/time references are navigational and approximate.
+
+## External reference warning
+
+The [fan wiki](https://twbd.fandom.com/wiki/There_Will_Be_Dungeons_Wiki) is a useful spelling and continuity index, but contains campaign-wide spoilers and retrospective accounts. The linked D&D Beyond sheets are the characters' **end-of-campaign** states, per archive-owner confirmation. See [external sources and chronology policy](../project/EXTERNAL_REFERENCES.md) before incorporating either source into episode-era facts.
