@@ -195,3 +195,17 @@ Episode dossiers [E025](../episodes/E025.md), [E026](../episodes/E026.md), [E027
 
 **Items:** E030's **immovable rod is lost under flooding oil**, not proven destroyed. Buttons hands **Blink spell text** to Stanley, not necessarily immediately prepared. The **Fate 4** remains outside the Teet at E030 cut; no direct visit with the Guzzle Gang or recovery of **Fox and Scully** is shown.
 
+## E031–E033 Teet source hierarchy and spellings (2026-10-21)
+
+All three [E031](../episodes/E031.md), [E032](../episodes/E032.md), [E033](../episodes/E033.md) reference dossiers use **processed Parakeet SRT without new listening**. The repository follows the owner's **corrected episode numbers** ([crosswalk](EPISODE_NUMBERING.md)). The owner's [spelling notes](OWNER_EPISODE_NOTES.md) are **personal search aliases**, not canonical proof.
+
+**Direct observations:** E031 first party entry into **Trashburg**, Suckmaster's **public wedding announcement**, visible Twenty-Six tattoos and the **Pit of Despair tongue**. E032 directly shows **Monsoon Cabbage** and communal kitchen, and **Stanley's Suggestion** on Buttons. E033 shows an unusual **fanged/regenerating opponent**, **Hope's maximum-HP reduction**, retrieval of the **launcher**, and an **offer to join Blood Ball**. These statements describe source performances only, **not independently audio-confirmed facts or official D&D classifications**.
+
+**Attributed evidence:** **P0D** (aquarium label with zero) reports being imprisoned with pixies crushed for **Pixie Blush**—a **firsthand survivor account** that has not yet been tested by visiting the farm. Charlemagne's civic/welfare information, Monsoon's guarantee of a route to the Teet keep, Tedna's banquet-service opportunity and **Forty-Two Carnage's kill-count name** are **NPC statements or proposals**. No party action in E031–E033 completes the rescue, wedding, assassination or Blood Ball. The title `The Great Bleaching` and isolated banter about bleach **do not demonstrate a historical bleaching event**.
+
+**Name caution:** Terms `Jolt Elegos / Bellicose`, `Alidwyr`, `Din Bottle-Bite`, `Monsoon Cabbage`, `Penepole`, `Jedel McCready`, `Dr Dickles` need audio/show-era primary written confirmation. A website/wiki character profile or undated map is a **reference lead**, not automatic promotion to early-episode knowledge. Existing [Teet map image](../sources/images/Map_-_The_Teet.webp) has an unresolved individual image author/license/date.
+
+**Private knowledge and uncertain ontology:** E032 **Buttons witnessed E029's forced magical transfer**, but cannot independently diagnose possession; Stanley's **Suggestion** compelled him to delay action. E033's vampire-like creature is **not positively identified**, and Stanley's remark about being “Stanley right now” **does not establish another person**. Avoid conflating performer Scott's **E033 absence** with a canonical character departure.
+
+No SRT or image was edited and no audio accuracy is claimed; audio checks remain in [review queue](REVIEW_QUEUE.md).
+
