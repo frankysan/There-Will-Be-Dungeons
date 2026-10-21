@@ -111,3 +111,18 @@ This register supplements the E000–E001 seed; **none of the following have bee
 | `artifact.show_town_map` | E011 Slavetown map | New town map separate from E005 **regional** map; obtain contemporaneous scan to verify layout/orthography | E011 ~00:15–00:44 |
 
 **Not yet verified:** These observations and estimates come from processed Parakeet files; fan-wiki orthography never establishes exact speech. Extend review in [E009](../episodes/E009.md), [E010](../episodes/E010.md), [E011](../episodes/E011.md), [E012](../episodes/E012.md). Keep new entries separated by first disclosure and source role.
+
+
+## Visual-source update (2026-10-21; no audio listening)
+
+| Key | Newly archived reference | Status / remaining conflict |
+|---|---|---|
+| `artifact.fate4_design` | [Fate 4 design sheet](../sources/images/Fate_4_Character_Sheet.webp), [continued](../sources/images/Fate_4_Character_Sheet_Continued.webp) | **Kristen Ashton** visibly credited on the continued page. Creator vehicle design/specification exists; specific in-session mechanics, exact public-release version and redistribution permission still need review. **E006 ~02:15–02:30** |
+| `artifact.fate4_floorplan` | [Labeled floorplan](../sources/images/Fate_4_Floorplan.webp) | Separate annotated schematic has a 2-foot tile scale and labeled rooms; source author and compatibility with creator sheet **not verified** |
+| `artifact.regional_deadfingers_map` | [Beyond the Deadfingers](../sources/images/Map_BeyondTheDeadfingers_resized.webp) | Map-written **Dusthill, Moag Ferhain, Slavetown** support **spelling leads**; map is undated and may be later annotated. **Not verified as E005's in-session map** |
+| `artifact.teet_map` | [The Teet](../sources/images/Map_-_The_Teet.webp) | Separate future/undated **Trashburg/Teet** geography; **not** E011 Slavetown map; hold outside E000–E012 player-knowledge |
+| `artifact.show_town_map` | **Still missing:** E011 Slavetown street map | Neither of the two archived regional/Teet maps supplies the specific E011 street plan |
+| `art.gibbering_mouther` | [Scott Johnson artwork](../sources/images/Scott_Johnson_-_Gibbering_Mouther.webp) | Illustration consistent with encounter E009 ~02:15–03:00, **not GM dialogue or independent monster-rule confirmation** |
+
+Images were reported as originating at the fan wiki, but original individual file URLs, licensing and attribution still need source-level audit. See [asset register](../project/IMAGE_ASSETS.md). Do not alter SRT text to match map wording without audio verification.
+
