@@ -131,3 +131,13 @@ No precise coordinates, distances or map hex locations have been independently v
 **Mines / deed property:** E012 ~02:28–03:10 refers to a disputed mine deed variably called **copper** or **gold**, against a background of mines controlled by the Oilbeards. Do not settle location, title, mineral or ownership from these inconsistent ASR phrases.
 
 See [E011](../episodes/E011.md) and [E012](../episodes/E012.md) for timing and episode-boundary cautions; the show-referenced town map is an important missing primary spelling source.
+
+
+## Newly available maps versus actual episode maps (2026-10-21)
+
+The archive contains [**Beyond the Deadfingers** regional map](../sources/images/Map_BeyondTheDeadfingers_resized.webp), depicting identifiable printed names **Dusthill**, **Moag Ferhain** and **Slavetown**, along with the **Weeping Dunes** and other annotations. This strengthens **map-label and spelling** investigations but its original **date and provenance** have not been established: character/location markers and other annotations could reflect later campaign circumstances. **Do not identify it as the precise map given to the party in E005**, or treat every annotation as known in E005. Exact small-print map labels and cartographer credit need a careful visual/transcription and origin check.
+
+The separate [**Teet Fortress / Trashburg** area map](../sources/images/Map_-_The_Teet.webp) portrays a different region/city and may include significant later-campaign spoilers. It is **not** E011's **Slavetown street map**. The latter remains unlocated in these **85 archived images**. Do not infer that its map seller's individual street labels are visually corroborated.
+
+The [**Fate 4** two-page design](../sources/images/Fate_4_Character_Sheet.webp) ([continued](../sources/images/Fate_4_Character_Sheet_Continued.webp)) and [separate floorplan](../sources/images/Fate_4_Floorplan.webp) are **vehicle visual references**, not a geographic map or evidence that any player character was present at the depicted location in a given episode. See [asset classification and rights caveats](../project/IMAGE_ASSETS.md).
+
