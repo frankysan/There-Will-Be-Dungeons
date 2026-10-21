@@ -332,3 +332,33 @@ All findings are **processed Parakeet SRT only**, not audio-verified. [E025](../
 
 **Evidence standards:** On-air listener criticism is evidence of audience reception, **not** character alignment changes. Played torture/coercion requires explicit recording; official-sounding accusations from armored paladin are **faction testimony**, not omniscient authority. Keep future outcomes outside source episode horizon.
 
+## E028–E030: confirmed-in-session events versus unverified names and claims (2026-10-21)
+
+All below is **processed Parakeet SRT, not audio-verified**. [E028](../episodes/E028.md) · [E029](../episodes/E029.md) · [E030](../episodes/E030.md). [Owner spellings](../project/OWNER_EPISODE_NOTES.md) are research aliases; corrected IDs follow [episode numbering](../project/EPISODE_NUMBERING.md).
+
+| Key | Source/time | Status and follow-up |
+|---|---|---|
+| `diptak.yield` | E027 ends at charge; **E028 ~01:17–01:35** | **Diptak alive, yields**. Pledges his Golden Land clan to Vorel; future actual mobilization unknown |
+| `typala.consort` | E027 allegation; E028 debate | Diptak's claim about **Typala/Tepala** is **not confirmed marriage or the priestess's consent** |
+| `clan.razhak_val` | E028 ~01:27–01:35 | `Razhak Val` / `Ra'jak Val` working place for clan emissary, requires spelling/audio |
+| `diptak.brothers` | E028 ~01:31 | `Loro`, `Thakak` candidates, needs audio and clear speaker mapping |
+| `item.fate4_raptor_patch` | E028 ~01:40–01:47 | **Patch fashioned from raptor skin/scale**, not load-bearing or full bodywork restoration; later blast opens another hole |
+| `npc.buttons` | E028 ~01:57–02:36; E029–E030 | **Buttons** talking **cat** with metal leg and glasses; born to normal cats according to himself; **not necessarily a cat-person ancestry** |
+| `buttons.creator` | E028 ~02:29–02:34, E030 ~01:42–01:46 | `Darguth`/`Jarguth` wizard, **Arcanum Universalis** scholar credentials **Buttons's testimony**, spelling pending |
+| `teet.buttons_knowledge` | E028 ~02:17–02:35 and E030 ~02:10–02:33 | **Guzzle Gang, Suckmaster, Trashburg, Andreeste, Pit of Despair, Milinar's** are **Buttons's secondhand/map claims**, not direct sightseeing |
+| `map.dan_dakota` | E028 ~02:22–02:28 | Map copied from **Handsome Dan Dakota**; age and accuracy uncertain, Teet image later wiki may be from another map |
+| `song.hope_compulsion` | **E028 very end** | Hope leaves on watch under **singing/invisible-touch compulsion**. Do not backdate den discovery from E029 |
+| `recording.e029_solo` | E029 00:00–00:04 | **Beau and Jon** alone; Scott/Kyle/Kristen absent. **GM simulates absent PCs**, whose private knowledge remains limited |
+| `nash.restrained` | E029 ~00:04–00:16; E030 ~00:04–00:52 | **Stanley restrains entranced Nash**, who later uses **Reduce** to get free. Not abandonment or additional Soulbroker rite |
+| `blort.hag` | E029 ~01:07–02:13 | Singing giant `Blort/Bloort` and pointy-eared hag “Mommy” abduct enthralled party. Worm creature killed; hag death later described by Stanley, exact action to check |
+| `mana_waves.prison` | E029 ~01:18–01:34 | Hag **claims captives power old wards** around final prisoner; this is **antagonist testimony** |
+| `dion_talus.archfey` | E029 ~02:18–02:27 | `Dion Talus/Deontalus` self-styled **archfey of carnage** claims old elven anti-other war and imprisonment; **historical truth unresolved** |
+| `stanley.refused_archfey` | E029 ~02:23–end | **Stanley expressly rejects bargain**, figure **forces blue energy into him after Charisma save**. **Do not mark second consent/signed pact**, compare Soulbroker E023 three signers |
+| `stanley.transfer_effect` | E029 end; E030 ~01:13–01:40 | Uncertain possession/magic effect, not demonstrated permanent power or illness; not automatically shared party knowledge |
+| `compelled_dream` | E029 GM control; E030 ~00:10–00:22 | Hope/Vorel dream-like palace experiences versus **physical underground cavern**; separate perception/reality |
+| `immovable_rod.loss` | E030 ~01:09–01:13 | Rod used to free Vorel from flooding stair then **left under oil**. Do not mark destroyed; record **lost/unretrieved** |
+| `buttons.blink` | E030 ~01:48–01:54 | **Blink spell text gifted** to Stanley, **not shown successfully cast/prepared** |
+| `teet.arrival` | E030 ~02:10–end | RV **approaches/parks outside Teet**, plans on-foot scouting. **No completed Guzzle Gang encounter** |
+
+**Sources and restrictions:** In-story dialogue, GM descriptions, special episode performer absences, actor-controlled choices and character testimonies have distinct provenance. Diptak's oath, Stanley's explicit refusal and the rod loss are all important timeline corrections, but none was newly verified by listening.
+
