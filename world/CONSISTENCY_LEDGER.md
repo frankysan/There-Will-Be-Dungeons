@@ -425,3 +425,35 @@ Source basis [E034](../episodes/E034.md) · [E035](../episodes/E035.md) · [E036
 
 **Review posture:** Actor absences, speaker confessions, observed mini-game rulings, NPC political promises, creature taxonomy and rumored historical origins are distinct source classes. Name choices need listening/show-era writing, not owner-notes substitution.
 
+## E037–E039: loot, keep letter, rocket boundary, Hope and Monsoon (2026-10-21)
+
+**Evidence:** [E037](../episodes/E037.md) · [E038](../episodes/E038.md) · [E039](../episodes/E039.md), all **unverified processed Parakeet SRT**. Corrected IDs per [owner crosswalk](../project/EPISODE_NUMBERING.md), not feed numbering; [owner spelling notes](../project/OWNER_EPISODE_NOTES.md) noncanonical.
+
+| Key | Episode/time | Observation and required distinction |
+|---|---|---|
+| `jolt.safe_heist` | E037 ~00:17–00:24 | **Jolt contact says** crew robbed **Slavetown Oilbeard safe** during the earlier fires; Vorel **actually receives trunk**. The robbery itself was offscreen; do not date it to E035 Trashburg fire |
+| `vorel.gold_stash` | E037 ~00:24–00:29 | Vorel and Bok Bok **bury chest one hour outside Trashburg, 1–2 feet under sand**, not merely an abandoned-house cupboard or openly held party treasure |
+| `angel.elf_home` | E037 ~00:29–00:55 | Angel Ashi *claims* family/refinery history, metal-powered way home, demonstrates **flower/temporary plant effects**; speculation versus played magic |
+| `angel.nash_morning` | E037 ~00:55 | Angel Ashi gone next morning, temporary plant alteration gone; rest changes Nash exhaustion |
+| `charlemagne.evacuates` | **E037 ~01:05–01:09** | **Leaves with Cynthia/children**, gives **Vorel inn keys**. Inn not fully staffed afterward. E039 armed raid therefore targets a vacated property |
+| `tedna.keep_letter` | E037 ~01:00–01:16 | **Handwritten letter delivered to Hope**, pages selectively shared; Softhead alleged alive, Dusthill slave handover, incoming noble retinue, **Andreeste** rites, cellar/passages, petrified-looking tiefling statues. **Writer observation versus noble's report**, source prop not transcribed fully |
+| `p0d.overheard` | E037 ~01:28–01:30 | P0D saw **Charlemagne talking to unidentified person resembling Hope** at Twenty-Six building; **not confirmed Buttons/Jolt/Hope** |
+| `monsoon.e037_visit` | E037 ~01:49–02:19 | Monsoon **visits Charlemagne's now-vacant inn**, requests **Blunt Goliver head**, **marks cave entrance**, offers weapons, first mentions Kefeli/Andreeste/tiefling history. **E039 longer briefing not first mention** |
+| `twentysix.armory` | E037 ~02:19–02:46 | Party replaces lost equipment; Vorel takes trigger-operated chain greatsword **`Ma Storm`**. GM calls **homebrew/custom item**, not generic magical sword |
+| `rocket.launch_vs_aftermath` | **E037 ~03:06–end** vs E038 opening | **Hope shoots rocket at monk**, he **catches/throws it back**, hits her, cave-in and injuries **E037 cliffhanger**. **E038 starts after explosion**, not duplicate rocket firing |
+| `blunt_goliver.death` | **E038 ~01:14–01:32** | **Nash Fireball, Stanley wounds, Vorel beheads** Toe Ripper chief. **Monsoon receives head E038 ~01:58**. He survived E035/E036 and E037 rocket cutoff |
+| `hope.amputation` | E038 ~02:13–end | Injured left-side/horn/face, **left arm and leg amputated**; Dr Dickles, sister Sarah, Metal Mandy, Stanley/party care. Not a rapid full restoration |
+| `hope.cybernetics` | **E039 ~01:06–01:24** | **Functional mechanical left arm and leg**, enhanced grip/rocket payload demonstrated; **end-campaign capabilities not backdated**. External launcher reportedly gone; one remaining rocket integrated |
+| `hope.medics_murder` | E039 ~01:24–01:40 | Medicated Hope sees **fragmentary stabbing**, Monsoon **admits ordering Dr Dickles, Sister Sarah and Metal Mandy killed**. Confession ≠ independent full autopsy or chronology |
+| `stanley.warrant` | E039 ~00:40–01:06 | Armed Teet security publicly alleges **Stanley/Dion tried to murder Arcanum mage**. **Accusation, not corroborated event** |
+| `buttons.informer` | E039 search and Monsoon ~02:15 | **Monsoon says Buttons supplied names**; likely tied to E032 magical Suggestion, but chain of reports/current custody unverified |
+| `tedna.captured` | E039 public announcement / Monsoon report | **Tedna/agents allegedly held inside keep**; no direct cell visit or rescue yet |
+| `blunt.lactid` | E039 Monsoon briefing | Monsoon **claims Lactid exile controlled Blunt**. Magic resistance E036 and leader head present E038 support suspicion, **not independently traced mental control** |
+| `monsoon.true_name` | E039 ~02:58 | Name approximate `Sjeptwy/Septwyn Maer`, some spelling spoken. His **claimed Tiat Cala royal identity** remains NPC source, not official book |
+| `andreeste.kefeli` | E037 Tedna/Monsoon lead, E039 expanded account | **Andreeste “Nourisher” and Kefeli** are cited by *multiple interested speakers*, not direct GM-verified past history |
+| `pit.froghemoth` | E039 Monsoon claim | Hidden way **beneath Pit of Despair**, with **froghemoth** allegedly sleeping at night; party not yet travels it |
+| `gem.of.tides` | E039 Monsoon claim | **Gem of Tides** supposedly turns oil to water and is Jolt's intended wedding heist target; **not recovered, observed or verified** |
+| `potion.mind_reading` | E039 closing | Previously recovered Black Mine **mind-reading potion is passed to Hope**; keep ownership current |
+
+**Core boundary:** **E037** contains a full morning, letter, Monsoon visit, weapons pickup and the **explosion at the close**; **E038** resolves blast injuries and kills the leader; **E039** reveals Hope's prosthetics and Monsoon's post-head briefing. Do not merge character claims with GM-visible facts.
+
