@@ -47,3 +47,9 @@ The original DOCX contains retrospective story comments, so “first mention” 
 ### Cross-check from newly processed E017–E018 source navigation
 
 The E017 dossier locates the apothecary/**Pixie Blush** incident and subsequent fire while maintaining **E011 mention vs E017 use** as separate owner-noted events. It also records the red-bandolier woman's **offer** to Vorel, not a completed bank robbery. The E018 dossier places the **storm**, **Nash's first-person backstory about his staff nail “Freedom”**, and the first entry into the **Black Mine**; the **E014 firearm Freedom is a separate object**. Neither review upgrades the owner's DOCX orthography to canonical spelling, and no listening verification was conducted. Episode IDs continue to follow the [corrected spreadsheet policy](EPISODE_NUMBERING.md).
+
+### Newly reviewed Black Mine episodes 19–21 (2026-10-21)
+
+The owner's DOCX records the corrected titles **E019 “Elevator Action,” E020 “Flaky Mushrooms,” E021 “The Mushroom Kingdom”** without additional scene-specific notes in the supplied early-season list. The source-first [E019](../episodes/E019.md), [E020](../episodes/E020.md) and [E021](../episodes/E021.md) dossiers now supply **provisional time-coded** developments from the processed SRTs. The **absence of further owner annotations is not an accuracy judgment**.
+
+The SRT review newly flags **Tickles's death after the elevator rockfall**, **Tylander's diary as opposed to the old male skeleton**, **Hope's private “find me” experience**, **Dorothy**, **Tylander's Catherine impersonation**, **a separate woman identifying herself as Catherine**, and the **unnamed winged-figure cliffhanger**. These are episode-reference observations, **not personal owner spellings, corrected dialogue or audio-verified conclusions**. The source numbering policy remains [corrected archive labels](EPISODE_NUMBERING.md).
