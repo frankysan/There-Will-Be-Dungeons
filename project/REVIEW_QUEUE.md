@@ -515,7 +515,7 @@ Processed-SRT dossiers [E052](../episodes/E052.md), [E053](../episodes/E053.md),
 | High | E052 ~01:16–02:30 | Acid/swim homebrew ruling, gut parasites, rope/pole patches and **10-foot pole consumption**, air-hole geography |
 | High | E052 ~02:30–end | Biological rooms/brain electricity, player mute/private voice, **Vorel's mental question and froghemoth's answer** |
 | Critical | **E053 ~00:10–00:20** | **Upper cocoon separates and ascends** while **lower body falls/dies**. Do not accidentally kill off entire creature |
-| Critical | **E053 ~01:08–01:20** | **Item identity/name RESOLVED by owner:** **Eye of Groxl** is the one artifact behind E053 `Eye of Grojil` and E054 `Eye of Groxel` ASR. **Remaining review only:** GM homebrew sheet for attack redirection/rage/shame mechanics, plus any *separately named* god/legendary warrior (not an item-identity dispute). [D-028](DECISIONS.md) |
+| High | **E053 ~01:08–01:20** | **Item identity/name RESOLVED by owner:** **Eye of Groxl** is the one artifact behind E053 `Eye of Grojil` and E054 `Eye of Groxel` ASR. **Remaining review only:** GM homebrew sheet for attack redirection/rage/shame mechanics, plus any *separately named* god/legendary warrior (not an item-identity dispute). [D-028](DECISIONS.md) |
 | High | E053 ~01:20–02:12 | Internal fights, **rowboat patch consumed**, exit route, Nash tiny arm persists, voluntary **scale colors separate from eye** |
 | High | E053 ~02:30–end | Vorel's desert hoard **~100k estimate**, amounts distributed/reburied, crown/costume, dragon-flight and exhaustion slots |
 | Critical | **E054 ~00:07–00:21** | Pixie hulks' **actual shrinking** vs presumed expiration clock, survivors of destroyed Trashburg (no census), state of keep |
