@@ -177,3 +177,21 @@ Source links: [E015](../episodes/E015.md) and [E016](../episodes/E016.md). This 
 
 **Carryover:** The **Salivating Fields evacuation is not prisoner freedom**, and the Black Mine/999th level is not known to be the mine title sought earlier. Orp's pending actions and Tylander's true post-E015 survival remain **open**. Preserve all raw/processed SRTs and label audio-confirmed findings separately.
 
+## Owner-provided numbering and note verification (2026-10-21)
+
+Two private source exports were reviewed: `There Will Be Dungeons episodes.xlsx` (**explicit corrected labels in Sheet2 Column I**) and `There Will Be Dungeons.docx` (**personal spelling and episode/event notes**, not canonical). Source provenance and examples: [numbering policy](EPISODE_NUMBERING.md) · [owner note index](OWNER_EPISODE_NOTES.md).
+
+| Priority | Source / reference | Needed follow-up |
+|---|---|---|
+| High, before any automated filename importer | Spreadsheet: original **55** Year One Q&A bonus; original **56** → corrected **E055**; original **77** twice for *Inverse*; original **78** → corrected **E076** | Build/test **campaign+season+original full label ↔ corrected filename** mapping. **Use Column I**, not formula-valued `Episode` cells that can show `#NAME?` in snapshot |
+| High, later season handling | Spreadsheet original **130** → Wastes **S1E128**; Wastes **S3E78 Electric Lizard** → **S3E08** | Preserve historical numbering mistakes, separate series and bonus files; don't shift all seasons using S1 offset |
+| High, early events | Personal DOCX E003 “Hillmaster falls” | Recheck **E002 last scene vs E003 intro**, determine first *played* event rather than retrospective recap |
+| High, first spoken names | Personal DOCX E003–E004 `Quizquoz`, `Elhandar`, `The Abyss`, `Dream Drinker`, `Friendship Fortress` | Listen to source episodes, record speaker and time, distinguish testimony and first mentions |
+| Medium, dialogue marker | Owner note E005 first `Nash Maggard of the Solar Mines` | Compare E000–E004 before recording true first use |
+| Medium, cliffhanger boundary | Owner note E007 “old man and lights” | Compare E006 ending vs E007 encounter; first sighting and recognition may be in different episodes |
+| High, orthography | Owner note E010 `Kuromo Kishi`; E013 `Laktid` | **Owner search aliases**, not accepted canonical changes. Cross-check original audio and creator/written materials |
+| High, first mention versus first usage | Owner note E011 **Pixie Blush** mention, E017 acquisition/use | Check both and earlier material; do not backfill future drug episode into early dossier without appropriate spoiler horizon |
+| Medium, optional character detail | Owner E011 Nash's `lost member`, E016 Vorel **fire aura** | Identify exact wording and game action before creating character/ability facts |
+| High, publication metadata | Original spreadsheet has **240 rows**, some calculated cells display `#NAME?` in import | Preserve original titles, normalized filenames, campaign/season and date fields; review bonus month-label discrepancies rather than overwriting them |
+
+This is an **uncompleted listening/import queue**, not a set of confirmed new transcript corrections. Source XLSX/DOCX binaries and all raw/processed SRT files remain unchanged.
