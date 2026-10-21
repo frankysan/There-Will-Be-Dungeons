@@ -1,6 +1,6 @@
 # External references and chronology policy
 
-**Checked:** 2026-10-21. **Scope:** References for *There Will Be Dungeons / The Wastes*, beginning with E000–E001 and supplemented by unverified E002–E008 dossiers. The fan wiki is not itself a transcript, and the linked character sheets are late-campaign snapshots.
+**Checked:** 2026-10-21. **Scope:** References for *There Will Be Dungeons / The Wastes*, beginning with E000–E001 and supplemented by unverified E002–E012 dossiers. The fan wiki is not itself a transcript, and the linked character sheets are late-campaign snapshots.
 
 ## Source classes and appropriate uses
 
@@ -71,3 +71,14 @@ The [E006](../episodes/E006.md), [E007](../episodes/E007.md) and [E008](../episo
 The [wiki home page](https://twbd.fandom.com/wiki/There_Will_Be_Dungeons_Wiki) labels guest characters **Eddy** and **Chance**; E008 directly introduces **Carter Johnson as Edison Manchester III** (`Eddie` in ASR) and **Ben Bumhofer as Chance**. Those are distinct characters, not actor swaps for Hope/Vorel while Kyle/Kristen are absent. The E007 host specifically references then-public **campaign assets** for the world map and Fate 4; if recoverable, save provenance, credits, observation date and reuse permission, without mirroring copyrighted imagery without authorization.
 
 **Versioned-disclosure examples:** E006 ~00:24–00:26 directly checks the surface well, whereas E005's last scene left it untested. E006's unidentified campsite lights are explained as luminous beetles only in E007. Leopold first identifies himself in E008, with his true nature unresolved. E008's cliffhanger must not inherit later explanations. The wiki and end-of-campaign sheet restrictions above remain in force.
+
+
+## E009–E012 expansion (2026-10-21)
+
+The [E009](../episodes/E009.md), [E010](../episodes/E010.md), [E011](../episodes/E011.md), and [E012](../episodes/E012.md) dossiers continue the **machine-transcript-only reference expansion**. They are not reader-edited transcript publications or audio-verified evidence.
+
+Retain important **source-disclosure boundaries**: E009 resolves E008's Leopold confrontation, but the gnomes' apparent loss under sand is not an established death; E009's giant black dragon is *observed* but its history/causal origin is not proven. E010 ends with the heroes' arena victory; E011 confirms *the heroes'* acquittal, but the Dusthill abductees remain enslaved. E011 first explicitly recognizes **Talia**, mother of Bruce Bane (family relation also [wiki-supported](https://twbd.fandom.com/wiki/Bruce_Bane)); E012's temporary accommodation does not resolve her captivity. E011 ends with Nash challenging the **Jeweler**, while E012 documents the confrontation and aftermath.
+
+Most early **Slavetown names, street labels, businesses, titles and mine deeds** are ASR recognition candidates rather than corroborated spellings. Crucially E012 alternates between `copper mine` and `gold mine` for a sought deed; do not force a canonical metal until a contemporary map/deed or verified audio resolves it. **The Jeweler's allegation** that the Hillmaster and Softhead sold Dusthill out is a speaker claim and should not retroactively replace E001–E006 history. Slavetown maps, era-appropriate vehicle graphics, and original show assets—where license permits use—are better spelling/specification authorities than a current end-of-campaign character sheet.
+
+The earlier fan-wiki and end-of-campaign sheet restrictions remain unchanged. Preserve raw-source provenance, decisions, source times and first-revelation episodes.
