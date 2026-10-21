@@ -126,3 +126,32 @@ This register supplements the E000–E001 seed; **none of the following have bee
 
 Images were reported as originating at the fan wiki, but original individual file URLs, licensing and attribution still need source-level audit. See [asset register](../project/IMAGE_ASSETS.md). Do not alter SRT text to match map wording without audio verification.
 
+## E013 / E013.5 / E014 provenance and spelling checks (2026-10-21)
+
+| Key | Where | Status / issue |
+|---|---|---|
+| supplemental chronology | E013.5 ~00:00–00:26 | Not a normal continuation: Jon introduces a **Stanley retrospective recap** plus a **deleted Hope–Vorel scene** set during E008–E009. First release/disclosure is E013.5; in-world placement is earlier |
+| Hope's time-travel objective | E013.5 ~00:12–00:16 | **Character claim/goal**: return to the past and complete an unmade dark pact via dragon engines; no demonstrated temporal mechanism or objective confirmation of her legend |
+| Exantos / Exanthos | E013.5 ~00:12–00:14 | Red celestial dragon/star omen in **Vorel's tradition**; uncertain orthography, not verified astronomy |
+| Dragons and lizardfolk | E013.5 ~00:19–00:22 | Vorel recounts **cultural hearsay** about dragons organizing/raising lizardfolk; not established species history |
+| Hope's jetpack | E013.5 ~00:22–00:23 | Apparently dwarven backpack/jetpack described and apparently tested; verify effect, custody and limitations |
+| Old man's death | E013.5 ~00:24–00:26 | Stanley *retrospectively* says the E010 Rusty Cage old man died; must cross-check **E010 audio** |
+| Eddie/Chance | E013.5 ~00:08–00:10 | Stanley's “didn't make it” ≠ verified death; E009 out-of-game assurance says they **are not dead** |
+| Pristine to Slavetown | E013 ~00:05–00:12 | **GM out-of-character exposition** strengthens E012 Jeweler claim; approximate 10–20 year history, still ASR-only |
+| Principle forces | E013 ~00:07–00:09; E013.5 ~00:23–00:25 | General **Toyota Host** army vs elite **Koromukishi / Kromakishi / Chroma Kishi**, distinct sheriff and magistrate; spelling to verify |
+| Bertrand the Jeweler | E013 ~00:19; E014 intro | The Jeweler addressed **Bertrand**; E014 recap “Bertrand Mulg” (candidate). First/surname to check, not auto-confirmed |
+| Lactid / Lacted / Lactic Cartel | E013 ~00:19–01:50 and ~02:04–02:12 | Armed attack established; Stump says tied to Principle City and Oilbeard rivalry. Exact spelling, allegiance, demanded object unresolved; not automatically Red Scarlet |
+| Donk vs Jeweler | E013 ~01:50–02:00 | **Donk killed** in assault; **Jeweler injured, then healed**. Keep outcomes separate |
+| Sheriff Randy Clementine | E013 ~01:05–02:02; E014 ~00:16–00:42 | Named local sheriff, unlike the Principle's magistrate. Last-name spelling pending |
+| Giant one-eye | E013 ~02:32–end; E014 ~00:05–00:36 | Cyclops wants “shiny” and claims it was stolen; “Old One Eye” is episode title, **not established personal name**; GM estimates 60–70 feet |
+| Robert / Thailander / Tylander | E013 ~02:24–02:32; E014 ~00:20–00:49 | Purple-hatted man, alleged thief/friend of giant, apparently invisible fugitive: **identity/aliases NOT resolved**, avoid merging without evidence |
+| Red Scarlet | E013 remarks; E014 ~01:09–01:16 | Note addressed to **Timber** apparently signed Red Scarlet; person, organization and affiliation uncertain. Not interchangeable with cartel or red-clad outlaw |
+| Timber and unidentified corpse | E014 ~01:09–01:23 | Unidentified eyeless corpse near note addressed to Timber **not necessarily Timber**; don't conflate with separately identified Randall Owen |
+| Randall Owen | E014 ~02:20–02:28 | **GM-narrated positive identification:** Hope's garage employer dead and mutilated in basement |
+| Liberators brochure and Freedom | E014 ~01:23–01:40 | Document, “Freedom” gun, three silver bullets and approximately 500 gold; verify ownership, wording and actual distribution |
+| Ruby necklace | E014 ~02:08–02:16 | Magical necklace with **five** ruby-like dangling beads per GM; cyclops sometimes seems to say **six**, verify |
+| Gnome-like apparition | E014 ~02:32–02:48 | Intangible decoy in a chair, **not** guest gnomes Eddie/Chance |
+| Catoblepraithe / Soulbroker | E014 ~02:56–03:00 | Ritualist claims an entity by that name is his patron and prepares summoning; **no manifestation shown**. [Artist-titled image](../sources/images/Catoblepraithe_-_Audie_Norman.webp) spelling/art only, original license unknown |
+
+**Review rule:** An out-of-character GM explanation, an in-character recap, an inserted-but-earlier scene, a found written note, and a fan illustration are all different source classes. All E013–E014 findings above are processed ASR only. [E013](../episodes/E013.md) · [E013.5](../episodes/E013.5.md) · [E014](../episodes/E014.md).
+
