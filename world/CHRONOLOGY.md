@@ -277,7 +277,7 @@ E013.5 remains published **between E013–E014** even though its Hope/Vorel scen
 | E029 ~00:04–00:16 | Stanley finds entranced **Nash** and **ties him to Fate 4 workbench** |
 | E029 ~00:16–01:07 | Stanley follows song and missing companions, joined by **Buttons**; enter **old cell passages** beneath oil sands |
 | E029 ~01:07–02:13 | Oil lake and bone beach, singing **Blort/worm** and hag “Mommy” enthrall other PCs; **Stanley fights**, creature killed, hag's exact death to check |
-| E029 ~02:18–end | Luminous blue entity **calls himself Dion Talus, archfey of carnage**, asks for mana/violence; **Stanley refuses**, entity **forces glowing energy into Stanley**, others begin stirring. Cliffhanger |
+| E029 ~02:18–end | Luminous blue entity **calls himself Diontalus, archfey of carnage**, asks for mana/violence; **Stanley refuses**, entity **forces glowing energy into Stanley**, others begin stirring. Cliffhanger |
 | **E030** ~00:04–00:11 | **Nash** awakens tied in RV, **uses Reduce** to escape; not privy to Stanley's private scene |
 | E030 ~00:10–00:22 | **Hope and Vorel** wake from enchanted dreams in the underground oil cavern, see exhausted Stanley and Blort's corpse |
 | E030 ~00:22–01:13 | Underground **collapse/oil flooding**; Tedna rescued from snag; **Vorel freed using immovable rod**, which is **lost under oil** |
@@ -319,7 +319,7 @@ E013.5 remains published **between E013–E014** even though its Hope/Vorel scen
 |---|---|
 | **E034** ~00:00–00:37 | Nash back in played session; party privately debates Stanley's altered conduct and a Vorel/Dashington meeting |
 | E034 ~00:37–00:59 | **Hope's E033 bite** and **mirror** examined; no decisive species diagnosis or max-HP cure |
-| E034 ~00:59–01:39 | **Dion Talus identifies himself while controlling Stanley's body**, admits E029 forced joining after refusal, describes divided control and claimed mana-wave motives |
+| E034 ~00:59–01:39 | **Diontalus identifies himself while controlling Stanley's body**, admits E029 forced joining after refusal, describes divided control and claimed mana-wave motives |
 | E034 ~01:39–02:41 | **Gray Socks Blood Ball training** at stadium with coach Marlboro; team jerseys Vorel 1 / Hope 3 / Stanley 5 / Nash 7; **200-guzzbolt pay offered**, not already collected |
 | E034 ~02:41–end | Return to Charlemagne's, discuss proposed pixie help / Toe Ripper deal; **Friday match still ahead** |
 | **E035** ~00:00–00:20 | **Fango Rabbish** invites party to **Golden Gargoyle** for cards / Angel Ashi set |
@@ -413,3 +413,8 @@ E013.5 remains published **between E013–E014** even though its Hope/Vorel scen
 | E045 ~02:29–end | At river islands discover **dark humanoid with face/eye cavities**, headache and necrotic effects. Nash avoids Fireball near P0D. **Dion kills creature with Eldritch Blast/Hex**. It resembles Hungui's “headache man,” but no post-kill return to Hungui or keep entrance occurs |
 
 **Boundary correction:** **George's death E045**, not E042/E044; **sphere collected E041 → core retained E042 → creature destroyed E045**. **E043 is a holiday special**, not an intervening day of adventuring. The king is **finally seen E044**; the dark river entity is faced E045. No confirmed Teet keep entry, Tedna/pixie rescue, wedding or Gem of Tides acquisition through E045. All notes derive from **processed machine SRTs**, not checked listening.
+
+
+### Name-orthography note for E029–E045 (Discord evidence, 2026-10-21)
+
+**Diontalus** is an **accepted creator-authoritative written spelling** (Jon's repeated cast-attributed messages, archive-owner approval); the spaced `Dion Talus` is retained as an **ASR/search alias**, not as an alternate confirmed name. **Stanley Billings** and **Nash Maggard** are also cast-written. **Tietkalla**, spelled by Jon with two l's/no apostrophe, may correspond to the `Tiat Cala` reference in **E039**, but **the identity link and Monsoon's claims need separate scene verification**. In this chronology, no Discord retrospective recap heading, cast-shared document or later sheet preview creates a new in-world event or changes the placement of an existing episode. **E043 remains an out-of-campaign holiday one-shot**. See [report](../reports/DISCORD_SPELLING_2026-10-21.md) and [name ledger](CONSISTENCY_LEDGER.md).
