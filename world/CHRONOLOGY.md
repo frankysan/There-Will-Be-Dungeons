@@ -81,3 +81,29 @@ This is a **navigation outline**, not a fully verified plot retelling. Most list
 | E008 ~02:59–03:00 | Power returns; door closes; **Leopold threatens the group** on monitor; stop before any E009 resolution |
 
 **Evidence boundary:** These are navigational approximate times from processed E006–E008 Parakeet SRTs, **not audio-verified**. GM recap can establish *what was later summarized* without backdating that specific wording into the prior session. Keep the desert antenna's facility distinct from Dusthill's engine shaft; the connection, if any, is not yet shown. [E006](../episodes/E006.md) · [E007](../episodes/E007.md) · [E008](../episodes/E008.md).
+
+
+## E009–E012: the collapse and the Slavetown arc (unverified Parakeet SRT)
+
+| Episode / approximate time | Event or evidence type |
+|---|---|
+| **E009** ~00:05–00:22 | Leopold allows rest after conflict; Nash recovers **following explicitly played long rest**; Chance demonstrates a portable hole |
+| E009 ~00:22–01:14 | Badge access and facility exploration; large intelligent tree discovered, **claims to be former elf imprisoned in ancient dragon research** |
+| E009 ~01:14–02:15 | Cold rooms, control systems, `warden AI protocol` and 24-hour self-destruct setting authorized |
+| E009 ~02:15–03:08 | Gibbering mouther battle, time pressure, tree/gift staff and attempted escape |
+| E009 ~03:08–03:12 | **Nash/Stanley escape**, **Eddy/Chance disappear under collapsing sand** (*not confirmed dead*); **black dragon emerges** and flies skyward; approaching vehicles seen |
+| **E010** ~00:00–00:08 | Kyle/Kristen return as **Vorel/Hope**; GM recaps dragon and caravan |
+| E010 ~00:08–01:49 | Original four reunite in Fate 4; pursued by ~20–24 armed vehicles; battle/failed negotiation with orc enforcers of **the Principle** |
+| E010 ~01:49–02:14 | Heroes surrender under force, lose gear, travel captive **several days** to **Slavetown**, see some Dusthill captives |
+| E010 ~02:14–03:19 | Elven magistrate schedules trial by combat against **Koromukishi** initiates; party wins **Rusty Cage**; **level three** granted out of game |
+| **E011** ~00:06–00:28 | Victory ceremony, release **of the party** and restitution of equipment; invitation from martial figures and street map obtained |
+| E011 ~00:28–01:30 | Slavetown exploration, Fate 4 recovered, errands and debate about freeing the captives |
+| E011 ~01:30–02:24 | Patron **Celibus Stump** offers hospitality; **Talia**, Bruce Bane's mother, recognized enslaved and speaks with Stanley |
+| E011 ~02:24–02:58 | Private pursuits; Nash gambles, becomes drunk, **challenges the Jeweler**; confrontation pauses before resolution |
+| **E012** ~00:07–00:46 | Vorel and Bok Bok arrive at hotel; Stanley arranges **temporary overnight room for Talia** |
+| E012 ~00:46–01:48 | Nash fights Jeweler, loses possessions; Talia and Stanley face ongoing coercion / limited choices |
+| E012 ~01:48–02:47 | Re-equipping and work at general store, foundry and Owen's garage; Stump proposes **mine-deed-for-help** negotiations |
+| E012 ~02:47–03:12 | Jeweler alleges **Hillmaster/Softhead betrayal of Dusthill**, presents disputed history of **Pristine / Oilbeards / Principle**, and describes lost mine deed, intermediaries and a possible rival alliance |
+| E012 ~03:12–end | **No release of all Dusthill captives**, no verified deed recovery or final resolution of Talia's coercive status |
+
+**Separate tracks:** E008's threat resolves within E009; E009's dragon/caravan are E010's premise; **E010** wins a trial but E011 records ceremonial release; **E011** ends at the duel challenge and **E012** shows its consequences. **Tree**, **Leopold**, **Jeweler**, **magistrate** and **Stump** have different knowledge/perspectives. [E009](../episodes/E009.md) · [E010](../episodes/E010.md) · [E011](../episodes/E011.md) · [E012](../episodes/E012.md).
