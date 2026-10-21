@@ -383,7 +383,7 @@ All below is **processed Parakeet SRT, not audio-verified**. [E028](../episodes/
 | `stanley.suggestion_buttons` | E032 private play | **Suggestion** with failed save redirects Buttons to scout; **magically compelled**, not fully voluntary cooperation |
 | `tedna.catering` | E032 Tedna claim | Possible **banquet service infiltration**; no arranged job or fortress entry |
 | `bokbok.toe` | E032 ~02:00 | Toe necklace and claimed friends; **do not infer a murder or formal Toe Ripper induction** |
-| `j edel.death_uncertain` | E032–E033 corpse at arms-dealer building | **Jedel/Jetel McCready** remains **unidentified with body**, parcel completion unknown |
+| `jedel.death_uncertain` | E032–E033 corpse at arms-dealer building | **Jedel/Jetel McCready** remains **unidentified with body**, parcel completion unknown |
 | `teet.vampire_like` | E033 upper-floor attacker | Fangs, regeneration, bite/HP cap decrease and disappearance; **specific monster identity unconfirmed** |
 | `hope.hp_max` | E033 combat | Maximum HP **reduced**; duration/cause beyond played attack uncertain, **not diagnosed infection** |
 | `item.launcher` | E033 search | **Rocket launcher with two projectiles recovered**, stored at inn; **not Fox and Scully** |
