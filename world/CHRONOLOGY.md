@@ -238,3 +238,29 @@ E013.5 remains published **between E013–E014** even though its Hope/Vorel scen
 
 **Interpretive chronology:** GM-confirmed **dragon-heart mechanic** is different from a character's induced private vision. The **contract signature event E023** differs from the **new artifacts, revealed keys, observed transformation E024**. **Old chest first seen E021** vs opened **E024**. Do not backdate Soulbroker's E023 arrival to **the separate winged Quizquaz** seen in E021/E022. [E022](../episodes/E022.md) · [E023](../episodes/E023.md) · [E024](../episodes/E024.md).
 
+## E025–E027: mine escape, Liberators and tribal challenge
+
+| Corrected episode / time | Played actions, claims and status |
+|---|---|
+| **E025** ~00:07–00:24 | Smoke from burning **Dorothy**: Nash falls into pit, rescued; door **still speaks**, party crosses and continues |
+| E025 ~00:24–01:13 | Walk back to mine lift/shaft; plan enlarged-dragon carrying/harness with **Nash**, rope/rod |
+| E025 ~01:13–02:20 | **Dragon flight succeeds to upper mine hall**; armed dwarfs/Gatling **Bessie** engage, many guards killed, one flees. Nash reverts under damage |
+| E025 ~02:20–02:35 | **Scrolly coercively tortured/interrogated**, healed/reinjured and thrown into elevator shaft |
+| E025 ~02:35–end | Side prison found; **Bok Bok recognized** behind lock, occupants to be confirmed next episode |
+| **E026** ~00:07–00:25 | **Bertrand, Trigger, Bok Bok freed**; report repaired **Fate 4** brought by Bertrand and Bok Bok but confiscated by dwarfs |
+| E026 ~00:25–00:37 | Bertrand hears of **Catherine**; claims Tylander previously **stoned ~10 years earlier**, lost deed might identify dragon metal |
+| E026 ~00:37–00:45 | Tall **powered-armored buggy visitor** enters mine. Group avoids him, steals buggy keys and drives away in **Fate 4** |
+| E026 ~00:45–01:20 | Bertrand's **Lactid undercity** / Slavetown threat report; proposal to work with **Liberators** rather than return to town |
+| E026 ~01:20–01:45 | Arrive at hidden **Liberators mountain camp** |
+| E026 ~01:45–02:15 | **Vorel kills bear** on hunt with Bok Bok; Nash's **Fire Bolt in secret camp** prompts disclosure worries |
+| E026 ~02:15–02:42 | **Slippery Brent assaulted/coerced**, final state uncertain; Nash protests and moral division widens |
+| E026 ~02:42–end | Nameless sightless ex-Koromukishi orc discusses **pass, army, captives**; plan undecided |
+| **E027** ~00:00–00:31 | **Stanley withdraws**, sought and reconciled; party discusses contract and responsibility |
+| E027 ~00:31–00:46 | **Private Vorel–orc** conversation about Principle and strategic closing of **Esophageal Pass** |
+| E027 ~00:46–01:19 | Liberators **evacuate reportedly compromised camp**; Fate 4 departs; young **Tedna** found stowed aboard |
+| E027 ~01:19–02:23 | Armored **Sir Ranko** of **Umbilical Order** attacks 3 pact signers and RV; killed after fight, launches possible beacon |
+| E027 ~02:23–02:40 | **Fate 4 overturned**, Tedna **alive/unconscious**; vehicle righted, journey continues |
+| E027 ~02:40–end | Desert hunting party appears; **Diptak challenges Vorel** over alleged **Typalla/Tepala** consort position, **charges as episode ends** |
+
+**No retroactive resolutions:** E024 ends smoking below ground, **E025** escapes; E025 only locates prison, **E026** reveals prisoners and repairs; **E027's duel belongs to a future episode after the charge**. All timestamps approximate machine-SRT times, not audio-verified.
+
