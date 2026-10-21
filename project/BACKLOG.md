@@ -13,3 +13,5 @@ This is a prioritized plan, not a list of completed actions.
 
 9. **Source-supported name normalization.** Compare externally documented spellings (Dusthill, Oriphi Akmenos, Vorel Rasvim Kurik, Nash Maggard, Jimster, Shun'ti Stoutbarrel) with the pilot's audio and entity index. Keep ASR aliases and label wiki-only support separately from listener confirmation.
 10. **Character sheet snapshots.** Record exact linked D&D Beyond URLs and observation dates; treat these as campaign-end states, with no reconstructed opening-level stats.
+
+11. **Ground Parakeet segmentation choices in audio.** Use the [five-run E001 benchmark](../reports/PARAKEET_SEGMENTATION_2026-10-21.md) to verify the opening greeting, 01:23–01:42 banter, 02:17–03:08 interjections, 04:13–04:37 reactions and 04:45–08:45 Dusthill narration. Compare omissions, invented speech and timestamp stitching to a manually checked reference; turning LCS dedup off was a no-op on these outputs.
