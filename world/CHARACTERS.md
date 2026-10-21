@@ -240,3 +240,25 @@ E018 depicts the group encountering **undead** near the Black Mine elevator afte
 
 The show-era **fan-art inventory** can aid research but is not independent audio/chronology proof; see [image register](../project/IMAGE_ASSETS.md).
 
+## E022–E024 character developments and identity cautions
+
+| Person/entity | New source | Status and confidence limits |
+|---|---|---|
+| **Quizquaz / Quizquas** | E022 ~00:10–03:05, E023 opening | **Winged returning oil demon** from E004, distinct from the beholder and **Catoblepraithe**. Extracts a dark beholder stone to open a reality tear; becomes the Soulbroker's subordinate/host liaison. Spelling pending |
+| **Beholder in the ritual stage** | E022 ~01:22–03:00 | Eye-stalk creature hidden beneath platform; **defeated**. Charming influence on Vorel and complex effects are direct session action; **not Catoblepraithe** |
+| **Vorel** | E022 fight; E023 contract; E024 return | **Magically charmed to fight friends** and subdued, then **healed/decharmed by Soulbroker**. **Refuses the soul pact** while the other three sign. Later makes a **normal shield from beholder teeth**, not inherently enchanted |
+| **Catoblepraithe / the Soulbroker** | E022 cliffhanger; E023–E024 | **Goat-headed demon** who invites party into his otherworldly château, offers a contract and manifests immediate boons. Claim to rank, trustworthiness, accuracy of his history and Celestium strategy all remain interested speaker claims |
+| **Hope** | E023 ~01:45–02:07; E024 ~01:23–01:28 | Has **private mother dream**; mother claims father alive and abducted by red-bandolier woman / Dead Men. **Signs pact**. Soulbroker later offers qualified **agent report** of possible Principle City captivity; not independent confirmation |
+| **Hope's mother (dream figure)** | E023 ~01:45–02:02 | Appears in private dream and claims **afterlife exchange** to see daughter, and survival of father. **Identity/authenticity and claim unverified** |
+| **Hope's father (missing)** | E023 dream; E024 report | Reportedly survives Haven raid; exact custody and location **not witnessed**. A red-bandolier woman/Dead Men is a named lead, not verified culprit |
+| **Nash Maggard** | E023 pact and E024 ~00:06–01:09 | **Signs pact** and receives private Solar Mines memory/vision. **GM confirms dragon-metal heart** from broodmother `Kas de Jira`; physically transforms into black **dragon wyrmling**, speaks/flies; drawback **exhaustion** and further stage progression not available as early present power |
+| **Warden / Bulger** | E024 ~00:06–00:50 | Apparent Solar Mines authorities from Nash's **private induced memory**; not an independent present-day meeting or proof of each historical detail |
+| **Stanley** | E023 ~02:35–02:47; E024 | **Signs pact**, gains extra boon/feat distinct from level-4 upgrade; later identifies the chest's **clairvoyance** and **mind-reading** potions |
+| **Red-bandolier `Acrimonicar`** | E017 recruitment; E023 Hope-dream lead; E024 artifact clue | Might be linked across the red-bullet description and two accounts; **dream, demon claim and direct E017 encounter are distinct evidence**, not proof of guilt in Hope's family's fate |
+| **Fox and Scully** (paired revolvers) | E024 ~01:09–01:15 | Two **allegedly** powerful guns given as **quest-location intelligence**, not items recovered or wielded by party |
+| **Bertrand / Jeweler and Catherine** | E021 and E024 chapel return | Catherine's personal message **still undelivered**; corpse revisited and searched, **deed absent**, former chest opened separately. Jeweler's surname still ASR-uncertain |
+| **Dorothy** | E021, E024 ~02:00–end | Talking door apparently burned, but **voice still heard** through smoke; no definitive destroyed/dead status |
+| **Chef Dan / Baba** | E023 hospitality | Staff associated with Château Weir meals/accommodations; exact spelling and ontological status unverified |
+
+**Episode time gate:** The Soulbroker's pact bonuses only apply to **Nash, Hope and Stanley**; Vorel's own level increase and E016 Fuxi-based aura are **not** a pact. Nash's private Solar Mines scene is not automatically known to others, though his **physical transformation is witnessed** by all.
+
