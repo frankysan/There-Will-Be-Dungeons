@@ -89,3 +89,28 @@ New source-only references: [E006](../episodes/E006.md), [E007](../episodes/E007
 | Medium | All E006–E008 | Independently map human speaker to source numeric speaker IDs, handling GM voices, NPC dialogue and guest accents |
 
 The fan wiki's E006 summary is a useful **retrospective spelling and continuity aid**, not audio verification. Preserve original references and never silently amend the recognized SRT on its authority.
+
+
+## E009–E012 research and listening priorities
+
+Reference: [E009](../episodes/E009.md), [E010](../episodes/E010.md), [E011](../episodes/E011.md), [E012](../episodes/E012.md). All time windows derive from **processed Parakeet SRTs; none has been newly checked by listening**.
+
+| Priority | Episode / time | Confirmation before accepting canon or editing transcript |
+|---|---|---|
+| High | E009 ~00:22–03:12 | Reconstruct Leopold's ID badges, warden AI controls, self-destruct **24 hours vs minutes remaining** and exact state of security/doors |
+| High | E009 ~01:03–01:14, ~03:02–03:12 | Verify tree's alleged elven origin and promise, escape sequence, staff custody, **Eddy/Chance disappearance without death**, and black dragon emergence |
+| Medium | E009 ~00:12–00:50, ~01:14–01:40 | Track portable hole, two floating rods, immovable rod, staff — user, owner, loss, appearance and mechanical use |
+| High | E010 ~00:00–00:25 | Verify Kyle/Kristen regular cast return and survivor reunion; distinguish guest gnomes from regular PCs |
+| High | E010 ~00:25–02:06 | Listen to large caravan/intercept, enforcer titles, surrender, manacles, inventory seizure and **length of captive transport** |
+| High | E010 ~02:01–03:19; E011 ~00:06–00:15 | Verify Slavetown, Principle (`principal` variants), Koromukishi and `Toyota` chants, elven magistrate's name, adjudication, party-only release |
+| High | E010 ~02:06–02:22; E011 ~01:45–02:15 | Match prisoner sightings to **25 reported Dusthill captives** and recognition of **Talia Bane**, mother of Bruce; never count all as freed |
+| Medium | E011 ~00:15–00:44 | Recover **contemporaneous Slavetown street map** and compare with E005 regional map; verify `Slippery Brent`, street/place spellings |
+| High | E011 ~01:30–02:24 and E012 ~01:35–01:48 | Audio-verify **Celibus Stump**, `Buxom Confederate`, Talia's coercive circumstances, private conversation, temporary hotel respite versus release |
+| High | E011 ~02:47–02:58; E012 ~00:46–01:10 | Check **Nash/Jeweler fight**, spells, unconsciousness/possible robbery and exact inventory/gold disappearance |
+| High | E012 ~02:28–03:10 | Confirm whether deed is for **copper** or **gold** mine; record who claimed ownership, holders, brokers and explicit conditions for freeing people |
+| High | E012 ~02:55–03:08 | Cross-check **Hillmaster/Softhead betrayal accusation**, `Pristine`, Trentard/Mabruk Oilbeard, Timber McClellan, Catherine Speckles against other in-episode evidence |
+| Medium | E012 ~03:02–03:10 | Avoid conflating notorious woman in red bandolier with alleged deed holder Catherine; exact identification and alleged gang |
+| Medium | E011–E012 all | Check S. J. Lattlebing/hotel, Owen's garage, foundry/weapon work, spell/periapt effects and the real status of Talia and Bok Bok at session end |
+| Medium | E009–E012 | Build **episode-specific speaker maps**, separating multiple NPC voices and E009 guest cast; compare other preserved ASR outputs where available |
+
+Do not alter the original SRT or promote machine-only phrasing into approved dialogue. Record audio verification with timecode, listening outcome and any spelling/source changes in the consistency ledger and correction log.
