@@ -105,3 +105,11 @@ reference with both flagged passages and agreed controls. Measure deletion,
 insertion and substitution rates separately using `asr_reference_metrics.py`.
 Capture source identity, configuration, runtime, differences and uncertainties
 for every future experiment; see the [pilot evidence](../reports/MULTIPASS_PILOT_2026-10-21.md).
+
+The first real job has now been executed and imported; see the
+[29.640-second E001 execution record](../reports/TARGETED_VERIFICATION_2026-10-21.md).
+To reproduce comparison of the retained third-pass evidence without ASR, run
+`python tools/compare_asr.py experiments/multipass/E001-opening-with-third.json --out local/e001-third-recomparison`
+into a fresh directory. The manifest retains the original primary and all six
+historical runs. The new clip uses an explicit 74,760 ms timestamp offset;
+its recognition output is still awaiting listening review.

@@ -129,3 +129,11 @@ as additional evidence. Measure deletion, insertion and substitution rates plus
 review workload; evaluate diarization, timing, punctuation and lore spelling
 separately. Keep the baseline model choice provisional until those measurements
 show an audio-grounded benefit.
+
+## Subsequent real execution — 2026-10-21
+
+The source E000/E001 MP3s subsequently became available and matched the recorded
+hashes. The [first real targeted job](TARGETED_VERIFICATION_2026-10-21.md) completed
+and was imported as additional evidence. The earlier audio-availability statements
+above describe the initial export-only pilot and are preserved as history. The
+new result does not establish audio-verified wording or an accuracy improvement.

@@ -60,6 +60,23 @@ E000/E001 original audio was not found in the expected local locations, so no ne
 recognizer run or listening verification was performed. No model/configuration
 was promoted on the basis of these comparison counts.
 
+## 2026-10-21: first real bounded third pass
+
+After the original E000/E001 MP3s became available, both matched the existing
+manifest hashes. [Real execution and import evidence](../reports/TARGETED_VERIFICATION_2026-10-21.md)
+records one Parakeet TDT 1.1B run on E001 01:14.760–01:44.400: 29.640 s of
+mono 16 kHz PCM, CrispASR 0.8.43 / eb633d90, Vulkan, English, no explicit
+VAD/chunking. Extraction took 0.816 s; the ASR process including startup took
+2.850 s. The 101-word result includes `hi kyle hi hi`, while the historical
+chunked versions contain `i guess`. This remains an unreviewed alternative.
+
+The clipped run is the same recognizer family with a different window, not a
+new independent-model vote. Import retained all six historical runs, all fifteen
+prior alignments and all 971 candidate IDs, adding 56 pairwise review records.
+The portable export removes only an embedded private model path and preserves
+the entire transcription array. No audio-based wording decision, WER claim or
+canonical transcript update follows from this run alone.
+
 ## 2026-10-21: two-process CrispASR throughput observation
 
 [Full observation, limitations and controlled follow-up](../reports/ASR_CONCURRENCY_2026-10-21.md). The owner ran **two CrispASR instances concurrently** and reported near-full 32 GB system RAM, ~8.5 GB/16 GB VRAM, GPU copy/compute peaks around 25%, virtually no drive activity, and approximately **6–7 minutes completion time per episode** without obvious slowdown. This is a provisional throughput observation; episode durations/settings and sequential control timings are not yet recorded. It does **not** measure ASR accuracy.

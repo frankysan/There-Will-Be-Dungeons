@@ -15,6 +15,13 @@ Qwen `Oops` near 00:22, greetings around 01:40, the padded-VAD `if if` at
 03:08.510–03:08.760, and chunk overruns beyond 10:00. No new audio verification
 or canonical correction was performed by this comparison run.
 
+**Targeted evidence added (2026-10-21):** a real 29.640-second Parakeet clip now
+recognizes `hi kyle hi hi` around 01:40–01:42. Review the
+[execution/import report](../reports/TARGETED_VERIFICATION_2026-10-21.md) and
+listen to 01:39–01:43 before resolving the greetings row below. The additional
+`there` around 01:39.640 is also unresolved. All earlier candidates and listening
+tasks remain; successful execution does not count as audio verification.
+
 | Priority | Episode / time | Concern | Suggested action |
 |---|---|---|---|
 | High | E000 00:13:07–00:13:28 | “Now” is the last word; processed Parakeet cue is placed at 13:20–13:28 while raw ends by 13:11 | Retimestamp final word from audio; exclude musical tail |

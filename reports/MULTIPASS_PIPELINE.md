@@ -190,6 +190,11 @@ arguments, not a job suggestion. The executor currently has no VAD/chunk setting
 interface; exported runs with those settings can still be imported normally.
 There is no batch executor, recovery scheduler or publication adapter.
 
+The adapter has now completed a real E001 clip, with source-hash verification and
+import of 101 words. See the [execution/import report](TARGETED_VERIFICATION_2026-10-21.md)
+for exact settings, timings, portable artifacts and reproduction commands. This
+checks the execution path; recognition accuracy remains pending a listening reference.
+
 Copy the original comparison manifest into a local directory, adjust its input
 paths relative to the new manifest location, append `run-spec.json` to `runs`
 and adjust that spec's `path` to the retained export. Keep its coverage, explicit

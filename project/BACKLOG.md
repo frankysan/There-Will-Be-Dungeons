@@ -4,10 +4,11 @@ This is a prioritized plan, not a list of completed actions.
 
 **Implemented experiment (2026-10-21):** [multi-pass export comparison, review
 ledger, targeted job generation and provisional reconciliation](../reports/MULTIPASS_PIPELINE.md).
-The [E000/E001 export pilot](../reports/MULTIPASS_PILOT_2026-10-21.md) is complete;
-audio-grounded validation and a real targeted recognizer execution remain open.
-The current priority is the listening reference in item 2, followed by a bounded
-third-pass trial and separate deletion/insertion/substitution measures. Include
+The [E000/E001 export pilot](../reports/MULTIPASS_PILOT_2026-10-21.md) and the
+[first real bounded third pass](../reports/TARGETED_VERIFICATION_2026-10-21.md)
+are complete. Original E000/E001 audio hashes now match the manifest. The current
+priority is the listening reference in item 2 and independent
+deletion/insertion/substitution measures. Include
 agreed passages as controls to detect omissions missed by all recognition runs.
 
 Maintenance follow-up: existing `validate_pilot.py` / legacy rebuild helpers use

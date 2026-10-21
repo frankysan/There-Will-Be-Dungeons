@@ -34,6 +34,10 @@ This package establishes a repeatable, **local-first** path from podcast audio t
   does not launch recognition or process the archive. Model agreement is not
   audio verification.
 
+  A [real 29.640-second E001 third pass](reports/TARGETED_VERIFICATION_2026-10-21.md)
+  has also been executed and imported with source-hash verification and unchanged
+  historical evidence. Its competing greeting wording remains awaiting listening.
+
 - The **reader-edited drafts** normalize source-supported spelling (e.g. Dusthill, Nash Maggard, Vorel, Jimster and Shun'ti) and the cast speaker name **Jon**, with every edit logged. They are still **not audio-proofread**; ambiguous speech such as “Orifi or Orify?” remains as recognized. The machine-derived drafts and all original SRTs stay unchanged.
 
 - **Readable draft** means subtitle lines have been grouped into paragraphs with named speakers and approximate timestamps. It does **not** mean every word or speaker boundary was checked against audio.
