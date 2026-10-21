@@ -262,3 +262,23 @@ The show-era **fan-art inventory** can aid research but is not independent audio
 
 **Episode time gate:** The Soulbroker's pact bonuses only apply to **Nash, Hope and Stanley**; Vorel's own level increase and E016 Fuxi-based aura are **not** a pact. Nash's private Solar Mines scene is not automatically known to others, though his **physical transformation is witnessed** by all.
 
+## E025–E027 additional cast, actions and claims (processed SRT only)
+
+| Entry | Source | Role/uncertainty |
+|---|---|---|
+| **Nash** | E025 ascent and fight; E027 | Carries party as **enlarged dragon** out of Black Mine; dragon form knocked out during guard battle; exhaustion affects him. Later protected/confronted as **one of three Soulbroker pact signers**, not by personal choice of Umbilical Order |
+| **Scrolly/Scrawly Oilbeard** | E025 ~01:19–02:32 | Dwarf upper-mine leader, **violently interrogated/tortured, healed and reinjured, then thrown into shaft**. No later confirmed body finding. E026 discusses the event as serious, not peaceful resolution |
+| **Bok Bok** | E025 prison voice; E026 onward | **In prison with Bertrand and Trigger** after helping repair/recover **Fate 4**; travels with them after release, assists Vorel on bear hunt and accompanies the party in E027 |
+| **Bertrand, the Jeweler** | E026 ~00:07–01:20 | Freed from Oilbeard cell, provides **claims** about Tylander's earlier stoning, dragon-metal deed, Lactid undercity and threats to Slavetown; distressed about Catherine, later coordinates with **Liberators** |
+| **Trigger** | E026 prison/camp | Imprisoned with Bertrand and Bok Bok; later accompanies the restored RV/camp route. Do not assume killed during E013 |
+| **Unknown powered-armored visitor** | E026 ~00:37–00:45 | Arrives by buggy at mine, unchallenged and left behind; party **steals keys**. Connection to E027 armored paladin **suspected**, not automatically proven from appearance |
+| **Slippery Brent/Brint** | E026 ~02:15–02:42 | Disoriented apparent Pixie Blush user wandering near hidden camp, **coercively hurt by PCs**. His reports of talking animals may be drug experiences. **Survival/outcome pending precise source review** |
+| **Nameless ex-Koromukishi orc** | E026 ~02:42–end; E027 private conversation | Says he **removed eyes** and **renounced his name/order membership**; proposes cooperation to seal pass. **Chosen absence of name**, not a blank to invent |
+| **Stanley** | E027 ~00:00–00:30 | Withdraws distressed by group's violence; reconciled with companions; later learns to drive **Fate 4** and fights paladin. No permanent departure from group |
+| **Sir Ranko/Ranco** | E027 ~01:19–02:24 | **Umbilical Order** paladin in power armor with flight/weapons/mechanical auxiliaries; claims demon-pact detection, threatens 3 signers, attacks. **Killed after combat/interrogation**, although claims about order allegiance and beacon remain unverified |
+| **Ted/Tedna** | E027 ~01:03–02:40 | **Boy stowaway**, wants to be a hero, suffers injury when RV overturned; **alive/unconscious** when recovered. Not yet confirmed trustworthy or prepared for danger |
+| **Typalla/Tepala (?)** | E016 priestess; E027 challenge | Lizardfolk figure's name/title subject to audio. Diptak claims **marriage/consort dispute** with Vorel. **No verified marriage/selection** |
+| **Diptak of the Golden Land** | E027 ~02:40–end | Rival lizardfolk hunter with companions and raptor-like animals; demands **ritual challenge** over Typalla. **Charges at cliffhanger**, not defeated within episode |
+
+**Continuity:** An observed **charm** on Vorel (E022) is distinct from the E027 **challenger's allegation of an accepted consort arrangement**. Hope's family lead and the **red-bandolier woman** are not automatically connected to every new violent faction.
+
