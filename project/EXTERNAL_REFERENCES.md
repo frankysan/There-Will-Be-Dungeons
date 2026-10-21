@@ -171,3 +171,15 @@ The [E022](../episodes/E022.md), [E023](../episodes/E023.md), and [E024](../epis
 
 **Media:** Existing [Catoblepraithe fan art](../sources/images/Catoblepraithe_-_Audie_Norman.webp) and later wiki images remain **spelling/art leads only**, not proof E021's apparent winged actor was the Soulbroker or a redistribution grant. The original show-era map of Chateau Weir and any custom Dragon Metal Heart item descriptions are priority external artifacts to seek by date/permissions.
 
+## E025–E027: owner-corrected numbering, brutality and faction testimony (2026-10-21)
+
+Episode dossiers [E025](../episodes/E025.md), [E026](../episodes/E026.md), [E027](../episodes/E027.md) use the archive's **corrected numbering** ([crosswalk](EPISODE_NUMBERING.md)) and **processed Parakeet SRTs without audio verification**. Personal [owner episode notes](OWNER_EPISODE_NOTES.md) are not canonical spelling/chronology evidence.
+
+**Directly played:** E025's physical escape through **Dorothy** (voice still audible), **enlarged black-dragon Nash** carrying the group up the Black Mine shaft, violent **Oilbeard guard firefight**, and **Scrolly's coercive interrogation, healing, renewed violence and being thrown into shaft**. E026 confirms **Bertrand, Trigger and Bok Bok were in the cell** and returns functioning **Fate 4** after a claimed repair. E027 depicts **Sir Ranko's attack**, a launched light/signal, **Fate 4 explosion/overturning**, and later lizardfolk **Diptak charging at Vorel**. Do not automatically infer a duel's result or that Dorothy is destroyed.
+
+**Claimants:** **Bertrand's report** about Tylander's stoning, dragon-metal deed, **Lactid undercity** and a specialist now threatening Slavetown is not GM-certified historical fact. The **nameless, self-blinded former Koromukishi orc** gives his own version of the order's moral history. **Sir Ranko** identifies himself as **Umbilical Order**, asserts demon-compact detection and disavows serving the Principle. **Diptak** claims a priestess/consort dispute with **Typalla**, which neither verifies marriage nor the priestess's intention. Record all source-specific spoken claims separately from actions.
+
+**On-air criticism:** E026 starts by reading a listener letter objecting to the protagonists' E025 violence. This is useful **contemporary audience reaction**, not a new in-world event and not proof of a rules-based alignment change. Independent SRT scenes do document violent, morally consequential choices. Likewise, Nash's fire in the Liberators camp and purported camp compromise should remain *possibly related but not a proven causal chain*.
+
+**Period materials:** E025 host mentions **D&D Beyond live sheets linked via wiki/site**; original **show-era snapshots** might corroborate Dragon Metal Heart/exhaustion and equipment, but current campaign-end sheets **must not backfill** early levels. Intro fan art is a historical lead, not automatically redistributable ([image policy](IMAGE_ASSETS.md)). No source SRTs, image binaries or structured indices were changed.
+
