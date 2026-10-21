@@ -28,7 +28,7 @@ These are **owner-note leads**. Reference dossiers are separately drawn from unv
 | **E015** | Party confronts and apparently **kills Tylander** | Preserve witnessed death and later E016 report he returned; `Tylander` still an owner's spelling if used here |
 | **E016** | Vorel encounters other lizardfolk and **unlocks fire aura**; the line **“Let's wipe it from the ass of time”** | Review whether fire aura is a **played mechanical feature** versus narratively described ritual in the ASR, and verify the words/timestamp |
 
-## Notes for later-episode research — spoilers, not confirmed future events
+## Owner notes on episodes 17–19 — source-review status
 
 The same document has **additional owner annotations** for:
 
@@ -36,10 +36,14 @@ The same document has **additional owner annotations** for:
 - **E018 — Into the storm**: departure toward the **Black Mine**, sandstorm and Nash's story about the nail in his staff / **“Freedom”**.
 - **E019 — Elevator Action**: initial elevator confrontation with zombies.
 
-These are **planning/search cues** only, not expansions of published dossiers or confirmation of any yet-unreviewed scene. The document later lists dozens of episode titles and bonus entries across seasons/campaigns; for correct **source-to-archive numbering**, consult the spreadsheet rather than treating the owner's heading/list numbers as unique original feed identifiers.
+**E017 and E018 now have preliminary [source-based E017](../episodes/E017.md) and [source-based E018](../episodes/E018.md) dossiers**, in addition to the owner's notes. Those dossiers locate the recorded scenes but **are not audio-verified**. The owner notes retain personal spelling and must not be promoted into canonical dialogue. **E019 remains a future dossier/review lead.** The document later lists dozens of episode titles and bonus entries across seasons/campaigns; for correct **source-to-archive numbering**, consult the spreadsheet rather than treating the owner's heading/list numbers as unique original feed identifiers.
 
 ## Spellings are searchable aliases, not canonical changes
 
 Examples explicitly originating from the owner's document include **`Kuromo Kishi`, `Laktid`, `Quizquoz`, `Fate-4`, `Slave Town`, `Elhandar`**. Some may coincide with a creator/written convention; that requires independent, source-specific corroboration. Keep previous **wiki-supported forms**, **GM-spelled terms**, **ASR variants**, and **owner-note variants** as *different evidence classes* in the [consistency ledger](../world/CONSISTENCY_LEDGER.md). **Do not silently replace source subtitles or published dialogue with any owner-note spelling.**
 
 The original DOCX contains retrospective story comments, so “first mention” statements should be treated as **hypotheses until all earlier episodes have been checked**. This page records their useful research direction without importing them as independently verified canon. See [source policy](EXTERNAL_REFERENCES.md), [review queue](REVIEW_QUEUE.md), and [early chronology](../world/CHRONOLOGY.md).
+
+### Cross-check from newly processed E017–E018 source navigation
+
+The E017 dossier locates the apothecary/**Pixie Blush** incident and subsequent fire while maintaining **E011 mention vs E017 use** as separate owner-noted events. It also records the red-bandolier woman's **offer** to Vorel, not a completed bank robbery. The E018 dossier places the **storm**, **Nash's first-person backstory about his staff nail “Freedom”**, and the first entry into the **Black Mine**; the **E014 firearm Freedom is a separate object**. Neither review upgrades the owner's DOCX orthography to canonical spelling, and no listening verification was conducted. Episode IDs continue to follow the [corrected spreadsheet policy](EPISODE_NUMBERING.md).
