@@ -268,3 +268,26 @@ All tasks below are **uncompleted**, based on machine SRT and [episode dossiers]
 
 **Additional checks:** Publisher show-era artwork, maps, creature stat text and D&D Beyond custom items (if accessible) can corroborate **spellings and original mechanics** but are not licenses for redistribution. Keep model comparisons separate from **listening verification**.
 
+## E025–E027 open listening and provenance audits (2026-10-21)
+
+[E025](../episodes/E025.md), [E026](../episodes/E026.md), [E027](../episodes/E027.md) were reviewed against **processed Parakeet SRT only**, *not listened to*. Corrected numbering from [owner source](EPISODE_NUMBERING.md), individual owner spellings not canon ([notes](OWNER_EPISODE_NOTES.md)).
+
+| Priority | Approximate source | Unresolved verification |
+|---|---|---|
+| High | E025 ~00:07–00:24 | Smoking **Dorothy** exit, **Nash pit fall/rescue**, what door actually says, whether intact or merely voice persists |
+| High | E025 ~00:50–01:19 | Nash dragon **Enlarge**, harness, carrying capacity/flight and exhaustion; original contemporaneous Dragon Metal Heart rule text vs table adjustments |
+| High | E025 ~01:19–02:20 | Dwarf numbers, **Bessie** Gatling, Nash human reversion, individual fatalities and escaped motorcycle dwarf |
+| High | E025 ~02:20–02:35 | **Scrolly interrogation/torture**, healing/reinjury, fall down shaft and whether final death explicitly narrated; avoid moral sanitization |
+| High | E025 ending → E026 ~00:07–00:25 | Prison lock versus release, **Bok Bok, Bertrand, Trigger**, their capture/repair-of-**Fate 4** stories |
+| High | E026 ~00:25–00:35 | Bertrand's account of **Tylander stoning in Pristine** and **deed/dragon metal** suspicion; reconcile **NPC testimony** with E021 Tylander claims and Soulbroker E024 |
+| High | E026 ~00:37–01:00 | Identity of **armored buggy arrival**, stolen keys; **Lactid** correct name, mind-control assertions and reported specialist at Slavetown |
+| High | E026 ~01:20–02:15 | Liberators camp location/timing, **Vorel bear kill/trophy**, Nash's visible Fire Bolt and secret-camp exposure risk |
+| High | E026 ~02:15–02:42 | **Slippery Brent/Brint** assault and final physical condition, coerced statements vs Pixie Blush confusion; party moral conflict |
+| High | E026 ~02:42–end and E027 ~00:31–00:46 | Blind **former Koromukishi orc's** self-blinding and chosen namelessness, plans for a pass closure, camp's actual military readiness |
+| High | E027 ~00:00–01:19 | Stanley's departure/reconciliation, camp **compromise** source, **Tedna/Ted** name, age/intent, Fate 4 first-time driving |
+| High | E027 ~01:19–02:23 | **Sir Ranko / Umbilical Order** spelling/affiliation, powered armor/equipment, demon-taint accusations, **flare**, final death, whether E026 visitor the same |
+| High | E027 ~02:23–02:40 | Blast/recovery of Fate 4 and **Tedna found alive but unconscious**; who else survives |
+| High | E027 ~02:40–end | **Diptak of Golden Land**, **Typalla/Tepala** names, disputed consort status, size of hunting party/raptors, challenge ritual details and **no duel result yet** |
+
+**Reminder:** Before claiming a term canonical, seek a reliable show-era written source or listen. Separate owned personal notes, ASR, GM explanation, NPC testimony, propaganda, private visions, and confirmed actions.
+
