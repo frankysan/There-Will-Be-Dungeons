@@ -201,3 +201,34 @@ New source classes: [episode-numbering crosswalk](../project/EPISODE_NUMBERING.m
 | `Friendship Fortress / Dream Drinker` | Owner logs E004 | Capture exact in-session dialogue and who says it before adding objective world claims |
 
 **Avoid inference:** The spreadsheet's calculated `Episode` field may render `#NAME?` in the provided XLSX; **Column I** is the explicit source of corrected labels. The owner's DOCX notes have no verified timestamps and may use retrospective descriptions. Maintain existing ASR/wiki/cast evidence labels and review all conflicting first appearances before modifying earlier dossiers.
+
+## E017–E018 evidence, naming and first-appearance register (2026-10-21)
+
+**Basis:** [E017](../episodes/E017.md) and [E018](../episodes/E018.md) **unverified processed Parakeet SRT**. Personal [owner notes](../project/OWNER_EPISODE_NOTES.md) are search leads, **not canonical spellings** or proof of original first mentions.
+
+| Key | New evidence and uncertainty | Follow-up |
+|---|---|---|
+| `theory.dragon_ancestry` | E017 intro ~00:00–00:04: **listener email speculates** dragon engines imprison dragons and Nash's ancestry/eye has connection | **Fan theory only**, not GM history or listener-verified accuracy |
+| `drug.pixie_blush` | Owner note **E011 mention** vs **E017 ingestion**, apothecary source | Maintain **mention / acquired / consumed / symptoms** as separate first-use events. Audio-check exact transaction, dose and symptoms |
+| `npc.maripol` | `Maripol Bania` / ASR variations, tiefling apothecary in Slavetown | Name, shop, claimed drug safety and card-reading phrasing **pending listening**; she is **not confirmed dead** in fire |
+| `npc.jolt` | Red-bandolier figure `Jolt`/`Joel Telagos`, `Acrimonicar`/variants | Suspected earlier unnamed E012 outlaw, but name/faction/alias **ASR pending**; **not automatically Red Scarlet/Catherine** |
+| `place.forbisher_bank` | `Forbisher's Holdings` bank, site of planned robbery | Verify bank title. **Recruitment/invitation** observed, **heist not executed** by E017 |
+| `npc.gitert` | Bok Bok's acquaintance `Gita`/`Gitert` from Sapphire, searched for in E017 | Verify name/status; fire alone does not establish death |
+| `shop.boombottom` | `Boombottom's`/`Boom Button's` fireworks/ballistics/explosives shop | Written sign/name unverified. Distinguish explosion at **explosives business** from attempted earlier forced entry into **foundry** |
+| `item.dynamite` | Approx. **40 sticks** attributed to one owner after procurement; several other characters have smaller amounts | Verify inventory allocation, what was placed/blown up, and damage resolution; counts are **SRT/table data**, not listening-confirmed |
+| `npc.foundry_owner` | Unnamed armed owner shoots during break-in E017; **Vorel kills him**, Stanley seriously wounded | Do **not** merge with **Randall Owen**, garage proprietor killed E014. Status of Stanley at departure requires check |
+| `vision.nash_green_elf` | Nash hallucinates a comforting green elf who offers food and demands an explosive act | **Nash's impaired perception**, not GM-independent individual. Distinguish from **real explosion/fire** shown outside |
+| `place.slavetown_afterfire` | **Actual explosion and urban fire** E017; E018 sandstorm may douse it according to characters/GM speculation | No settled fatality list or long-term destruction status. Dusthill captives **not freed**. Shelter/fire damage not a completed town census |
+| `transport.post_fate4` | Hope drives **station wagon** E017 toward mine; E018 wagon buried in sand and likely abandoned | **Not Fate 4**; do not imply mechanical restoration. Check precise location and rest/travel time |
+| `event.desert_carcase` | E018 huge hollow animal carcass used as storm shelter | Species/age/origin not established |
+| `encounter.e018_raiders` | E018 ~00:46–01:00 roughly **8 cloaked small attackers** with javelins; retreat after **Hope's Infernal whispers** | Do not identify as goblins or slavers based only on size. No confirmed slain raiders |
+| `artifact.freedom_nail_vs_gun` | E018 ~01:04–01:08 **Nash calls staff nail “Freedom”**; E014 ~01:23–01:40 **separate gun named “Freedom”** | **Different objects**, different origins/owners; listen for exact names, E018 is retrospective character account |
+| `history.solar_mines_nail` | Nash tells personal escape narrative and possible unintended victims | **Character testimony**, not observed flashback. Do not silently treat as universally corroborated history |
+| `npc.scrolly_oilbeard` | `Scrolly`/`Scrawly Oilbeard`, armed dwarf leading Black Mine upper guard | Candidate name; member of Oilbeard mining operation, not necessarily family patriarch |
+| `npc.tickles` | E018 human slave bound on all fours, helmet and chain, mockingly called **Tickles** | **Observed coercion**; captor's statements about victim's past unreliable |
+| `event.mine_uprising` | Dwarf claims **100–200 enslaved workers below**, **12 guards above**, other routes blocked and elevator wedged to starve miners | **Interested slaver claims**, distinct from **observed undead near level 23**. No proof all miners undead/dead |
+| `mine.floor23_vs_floor999` | E018 group reaches lift by **23 sign** via **Feather Fall**; magistrate E016 previously reports Catherine Speckles holds **999th level** | Distinct **observed local sign** and **reported deep property**; E018 does not reach 999 |
+| `boundary.e018_e019` | E018 ends **as undead converge onto moving elevator**; E019 `Elevator Action` follows | Do not claim E018 contains completed elevator battle or known E019 outcome |
+
+**Preservation:** Do not alter SRTs, assign owner-note spellings canonical status, treat Nash's hallucinations as independent NPCs or extend E018 cliffhanger into E019 without reading its own source.
+
