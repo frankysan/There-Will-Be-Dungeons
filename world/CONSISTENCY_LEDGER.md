@@ -22,3 +22,9 @@ Do **not** convert provisional recognition spellings into finalized canon. Log e
 ## How to close an item
 
 Supply `verified spelling/interpretation`, `supporting source` (episode+time or officially published reference), `editor/date`, and any affected transcript/reference pages. Do not erase variants: index them as historical search aliases.
+
+## Externally corroborated spellings (2026-10-21)
+
+The [fan wiki](https://twbd.fandom.com/wiki/There_Will_Be_Dungeons_Wiki) documents **Dusthill**, **Nash Maggard**, **Oriphi “Hope” Akmenos**, and **Vorel Rasvim Kurik**. Its [Stanley page](https://twbd.fandom.com/wiki/Stanley_Billings) names player **Jon Jagger** (where draft participant labels say `John`). A [later Episode 6 summary](https://twbd.fandom.com/wiki/Episode_6) uses **Jimster** and **Shun'ti Stoutbarrel**.
+
+These findings add **wiki-spelling-supported** evidence to the corresponding unresolved ledger rows. They do **not** by themselves certify a line of E000/E001 audio, or imply that later-disclosed surnames and events belong in early spoken dialogue. The original aliases and audio-review statuses remain. See [external reference and chronology policy](../project/EXTERNAL_REFERENCES.md).
