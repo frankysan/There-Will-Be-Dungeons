@@ -225,3 +225,17 @@ No SRT or image was edited and no audio accuracy is claimed; audio checks remain
 
 No original SRTs, images or structured entity data were edited. See [listening queue](REVIEW_QUEUE.md) for unresolved names and direct checks.
 
+## E037–E039: Tedna's in-world letter, item mechanics and Monsoon's reports (2026-10-21)
+
+[E037](../episodes/E037.md), [E038](../episodes/E038.md), [E039](../episodes/E039.md) are **processed-Parakeet-SRT scene dossiers**, not audio-verified transcripts. [Corrected episode numbering](EPISODE_NUMBERING.md) and [owner spelling notes](OWNER_EPISODE_NOTES.md) have different authority.
+
+**Full E037 continuity:** Its **early Vorel/Jolt contact** and **Angel Ashi/Nash** scenes are followed by **Charlemagne evacuating with his family and giving Vorel inn keys**, **Tedna sending Hope a three-page letter from inside Teet keep**, **Monsoon visiting the inn and marking the Toe Ripper cave entrance**, **Twenty-Six Block armory loot**, and finally **Hope firing a rocket which the monk catches and throws back into her** at the **E037 cliffhanger**. E038 starts with **the resulting explosion/suffocation**, not the initial shot. The letter was a physical **in-world written handout** in the GM's private chat, with **some pages kept back by Hope**. Transcribed portions contain specific allegations about Softhead, Dusthill slavery, approaching Toyota Host dignitaries, Andreeste rites, hidden corridors and tiefling statues; without the handout itself these are **partial SRT readings, not a full transcription or authenticated full quote**.
+
+**Observed versus attributed heist:** A Jolt-associated contact **hands Vorel a very heavy trunk of valuables** and says the gang raided a **Slavetown Oilbeard safe** during previous fire confusion. Vorel and Bok Bok **bury the actual valuables outside town**. The heist account remains the contact's testimony; no independent camera of the raid, and no proof Jolt's wedding plan is identical.
+
+**GM/table mechanics:** E037's `Ma Storm` is described as a **custom activatable chainsaw-like greatsword**, not an official weapon. E038 **Blunt Goliver's death and medical amputations** are played; E039 **Hope's functional prosthetic arm/leg and integrated rocket** are directly demonstrated, but their final/game-later rules must not be backdated. For clinicians, E039 **Monsoon admits he ordered murders**, while Hope's recollection is altered by medication. No outside forensics.
+
+**Public law and political testimony:** In E039, armed authorities publicly claim **Stanley/Dion attacked an Arcanum mage**; **Monsoon blames Buttons**, reports Tedna held, identifies a **Lactid exile behind Blunt** from his examination and offers **froghemoth/Pit passage** and **Gem of Tides** theory about Jolt. His claimed historical identity **`Sjeptwy/Septwyn Maer`**, past **Tiat Cala/Kefeli** and Andreeste lore are **NPC source claims**, not GM-certified history. The group's objectives at the Teet are still incomplete at E039.
+
+**Other source leads:** Tedna's **original letter handout**, contemporary custom **Ma Storm** and **Hope cybernetic implant** feature descriptions, Angel Ashi's story, and show-era **Teet map** (separate from later undated [wiki art](../sources/images/Map_-_The_Teet.webp)) are high-value materials to recover with dates/rights. No media rights are presumed.
+
