@@ -56,3 +56,28 @@ This is a **navigation outline**, not a fully verified plot retelling. Most list
 | E005 ~02:45 | GM remarks that the well has **not yet been directly tested at the surface**; story moves toward less scripted decisions |
 
 **Evidence boundary:** All E002–E005 timestamps and descriptions above derive from unverified, post-processed Parakeet subtitle files. The [episode dossiers](../episodes/E002.md) ([E003](../episodes/E003.md), [E004](../episodes/E004.md), [E005](../episodes/E005.md)) carry source links and open questions. Episode 6's wiki summary may corroborate later outcomes but cannot establish when details were said in E002–E005. Do not confuse in-world time elapsed (long climbs/rests) with recording timestamps or automatic cue boundaries.
+
+
+## E006–E008: Dusthill succession, goblin pursuit and a new underground facility
+
+| Episode / approximate time | Played event or reference milestone |
+|---|---|
+| **E006** ~00:00–00:03 | GM **retrospectively** recaps E005 dragon-engine restart and raid; E006 play starts the same evening as E005's ending |
+| E006 ~00:03–00:26 | Rescue/militia assignments; **Nash directly tests surface well water** (~00:24–00:26) |
+| E006 ~00:32–01:18 | Vorel finds/captures **Bok Bok**; Stanley visits Jenjen and kills Aaron after an ambush; goblin is tended at the garage |
+| E006 ~01:19–01:53 | Public meeting names **45 raid dead / 25 abducted**; interim **townmaster Shun'ti**, defender **Tetsuo**, supporting **Jimster**; Wilma challenges Stanley; Nash suffers solar-mine fiery vision |
+| E006 ~01:54–02:30 | Dragon-engine secrecy, **Zorenthelas / Elhandar** claim, data-core handover, wrench speaking Dwarven; Hope reveals **Fate 4** |
+| E006 ~02:30–03:10 | Party departs Dusthill in Fate 4, encounters confused old man and unexplained **three lights** at campsite |
+| **E007** ~00:06–00:40 | Lights resolved as giant luminous **beetles**; **Bok Bok returns with old man** |
+| E007 ~00:40–01:00 | Raiders tracked away from direct line toward Slavetown; intercepting goblin bus and trucks approach |
+| E007 ~01:00–01:45 | Vehicle chase and battle defeat intercepting detachment; **Fate 4 overheats** and requires repairs |
+| E007 ~01:54–02:16 | Nash and then Stanley investigate **desert antenna / sand aperture** and disappear below surface; Hope/Vorel remain above at cliffhanger |
+| E007 ~02:16–end | Out-of-game announcement that Kyle and Kristen will be away for the next two sessions |
+| **E008** ~00:00–00:02 | **Guest cast introduced:** Carter Johnson as Edison “Eddie/Eddy” Manchester III, Ben Bumhofer as Chance (both gnomes); core player roles remain separate |
+| E008 ~00:06–00:22 | Nash experiences competing fiery and luminous visions; underground party meets guest characters |
+| E008 ~00:23–01:11 | Sealed chamber/wiring, **Leopold** names himself; B7 elevator and underground corridors |
+| E008 ~01:11–01:50 | Claimed secret containment site, skeleton-filled crew quarters, simulated reception room and ambiguous embodiment of Leopold |
+| E008 ~01:50–02:59 | Lab exploration, mimic-like case and doglike threat; **Nash unconscious but stable** after saves; floating metallic artifacts found |
+| E008 ~02:59–03:00 | Power returns; door closes; **Leopold threatens the group** on monitor; stop before any E009 resolution |
+
+**Evidence boundary:** These are navigational approximate times from processed E006–E008 Parakeet SRTs, **not audio-verified**. GM recap can establish *what was later summarized* without backdating that specific wording into the prior session. Keep the desert antenna's facility distinct from Dusthill's engine shaft; the connection, if any, is not yet shown. [E006](../episodes/E006.md) · [E007](../episodes/E007.md) · [E008](../episodes/E008.md).
