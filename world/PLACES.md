@@ -85,3 +85,22 @@ Around **E005 02:30–02:34**, a physical map is read aloud. These are **literal
 | Asophagal Pass | Pass through the mountains | Later fan wiki writes **Esophageal Pass** |
 
 **Source:** [E005 dossier](../episodes/E005.md); [later wiki reference](https://twbd.fandom.com/wiki/Episode_6). Verify the **actual map labels**, not just audio, before promoting these to approved spellings. The original map is not preserved in these text-only sources.
+
+
+## Travel route and new sites in E006–E008
+
+**Dusthill meeting circle and defenses (E006 ~01:19–01:53):** The public meeting occurs in front of the Hillmaster's tent. The town also has **Scoutmasters** who discreetly vet newcomers, ordinary Hill Guard, volunteer wall defenders and a militia whose leadership is disputed and clarified. The gathering mentions **45 raid dead** and **25 taken**, reported counts rather than independently counted names. [E006](../episodes/E006.md).
+
+**The Fate 4 / Fate Four (mobile location and vehicle):** Hope's giant-wheeled modified RV, unveiled in E006 ~02:15–02:30, with room for travel, equipment and living space. Source drawings and its original rules sheet were said to be shown to listeners/players and are potentially recoverable creator resources. The party drives southeast into the wastes following the goblin raiders; there is no guarantee that direct-line travel to **Slavetown** would intersect their actual trail. Its overheating and repair delays matter in E007 ~01:16–01:50. **Do not infer fixed specs from gameplay discussion without the contemporary document.**
+
+**Desert pursuit and beetle habitat (E006 ~02:30–03:10; E007 ~00:06–00:46):** Roadless sand southeast of Dusthill; a disoriented man is encountered and the RV camps near three blinking lights. E007 identifies the lights as **luminous, large beetles**. Afterward the trail bends more northerly relative to the assumed Slavetown route; whether the map's named place is `Slavetown` or another location is a spelling/source-map issue.
+
+**Goblin intercept location (E007 ~00:47–01:53):** A bus equipped with a catapult and two pickup trucks intercept the Fate 4. Crash/combat disables the RV. **This is the site of a delaying-party fight, not a verified arrival at the entire raider camp, a rescue of the abductees, or capture of the goblin ruler.**
+
+**Desert antenna and sand aperture (E007 ~01:54–02:16):** Lone structure Nash approaches away from the disabled RV, described as an antenna, or `metal tree` by later arrivals. Reactive ground swallows Nash and then Stanley. A message/voice is perceived via the vehicle/radio. The exact operating mechanism is not determined.
+
+**Underground containment complex (E008 ~00:10–03:00):** Distinct from the Dusthill tunnels and dwarven ruins; access is via the desert metal structure/sand. Includes wired wall panels, an elevator marked **B7**, illuminated hallways, crew quarters with human remains, laboratories with a chamber containing **two floating metal pieces**, a projection/simulation space, and controlled power/doors. **Leopold** claims to manage this secret containment/security installation, refuses egress and threatens intruders. Neither his nature nor the complex's deeper chronology, geography or relationship to earlier ruins is proven. [E008](../episodes/E008.md).
+
+**Elhandar (claimed celestial place):** E006 ~02:00–02:27 has Zorenthelas describe this as elves' origin/home **in the sky**. The word's relation to elven afterlife/religion and whether it is physically reachable remains the NPC's account. `El Hondar`, `Elhandar` and possibly `El Handar` are aliases needing audio checks; spelling `Elhandar` appears in the [E006 wiki recap](https://twbd.fandom.com/wiki/Episode_6).
+
+No precise coordinates, distances or map hex locations have been independently verified. Refer to the original show map before committing an exact route.
