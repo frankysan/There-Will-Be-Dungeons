@@ -196,3 +196,22 @@ The titular **Dragon Mother** should **not** be represented as a newly identifie
 
 **Inventory continuity:** Orp's **ruby-bead necklace** moves between him and party members during E015; E016 host clarifies part of its retrieval. Tylander's offered *mine deed* disappears as smoke. Record final inventory only after cue-level and audio review.
 
+## E017–E018: new people, testimony, perceptions and deaths
+
+| Working name | Episode / approximate time | Evidence and limitation |
+|---|---|---|
+| **Maripol Bania** (spelling provisional) | E017 ~00:32–00:57; E018 opening recap | Tiefling apothecary in Slavetown, provides topical remedies and an experimental calming substance later named **Pixie Blush**; offers **Hope** a tarot/card warning. Her character statements about safety or divination require verification. **Do not assume she died in the E017 fire** |
+| **Jolt / Joel Telagos** (aka **the Acrimonicar (?)**) | E017 ~01:00–01:16; E018 intro | **Red-bandolier woman** speaks with Vorel and recruits for a **planned robbery** of Forbisher's Holdings bank. Exact proper name, posse title and affiliations uncertain; she is **not proven identical to Red Scarlet or Catherine Speckles**. **The bank robbery is not shown** |
+| **Bok Bok** and **Gita / Gitert** | E017 ~01:00–01:10; E018 OOC discussion | Goblin returns with Vorel then seeks a female acquaintance at the **Sapphire**; location/fate after the Slavetown fire is unresolved. Intro concerns in E018 are partly out-of-game, not confirmation of rescue/death |
+| **Nash Maggard** | E017 ~00:35–end; E018 ~01:04–01:14 | **Takes Pixie Blush**, perceives hallucinated beings, contributes to **real explosives-site fire**; in E018 recounts the nail in his staff, which **he calls “Freedom,”** acquired/used in the Solar Mines according to his firsthand narrative. Separate **Nash testimony** from GM-observed scenes |
+| **Hope** | E017 preparations, apothecary, escape; E018 storm | Receives a **card-reading prophecy** from Maripol, tends to injured party, gets a replacement station wagon and navigates the storm. Prophecy is **NPC claim** |
+| **Stanley** | E017 ~01:40–02:08; E018 ~02:15 onward | Seriously wounded by **foundry owner**, travels while recuperating; later casts **Feather Fall** in mine shaft. Owner's status and the exact effects of wound require audio review |
+| **Vorel Rasvim Kurik** | E017 ~01:00–end; E018 sandstorm / mine | Considers prospective **bank heist**, kills foundry owner after confrontation, guides party through buried-car escape. These are recorded actions, not evidence he completed heist |
+| **Foundry owner (name unverified)** | E017 ~01:40–02:08 | Armed man/owner confronts trespassers and fires; Vorel kills him. Do not conflate him with deceased **Randall Owen** (garage proprietor) |
+| **Scrolly / Scrawly Oilbeard (?)** | E018 ~01:34–02:16 | Dwarven guard/leader at Oilbeard Black Mine; reports **uprising** and describes deliberate **starvation via sealed elevator**. Name, rank, exact miner/guard numbers and presumed dead men **unverified**, and his justification is an interested slaver's account |
+| **Tickles** | E018 ~01:39–01:48 | **Human** confined in helmet/chain and made to crawl like a dog; his captor's claim of his origin is not trustworthy |
+| **Eight cloaked attackers (?)** | E018 ~00:46–01:00 | Small javelin-users driven back by Hope's Infernal magical voice. **Species and affiliations unknown**; no confirmed deaths |
+| **`Freedom`, two different named items** | E014 and E018 | E014's recovered **gun** called `Freedom` versus **Nash's nail** `Freedom` revealed in **E018** testimony. **Do not merge characters/items or give the gun Nash's Solar Mines origin** |
+
+E018 depicts the group encountering **undead** near the Black Mine elevator after hearing about a supposed slave uprising. It does **not** establish that the missing enslaved miners are all zombies, that Catherine Speckles or Tylander is present, or that any Saltbubble/Chickenfinger promises have been fulfilled. See [E017](../episodes/E017.md), [E018](../episodes/E018.md) and [spelling/issues register](CONSISTENCY_LEDGER.md).
+
