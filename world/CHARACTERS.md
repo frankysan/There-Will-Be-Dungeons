@@ -174,3 +174,25 @@ The later fan wiki can supplement orthography without retroactively granting the
 
 **Supplemental disclosure boundary:** E013.5 is heard **after E013** but its Hope/Vorel conversation is set **while Nash and Stanley are underground in E008–E009**. The newly published dialogue can be referenced as earlier story-time character testimony **without** inserting it into E008/E009 audio transcripts or allowing other characters to know it automatically.
 
+## E015–E016 character and power developments (processed SRT only)
+
+| Person / designation | Time and source | Distinction and unresolved questions |
+|---|---|---|
+| **Tylander Sullivan** (aka **Robert** as presented in-town) | E015 ~00:02 GM recap and ~00:19–01:45; E016 ~02:19–02:33 | Name now supplied in GM recap (ASR `Thailander`, `Thailand`). **Killed in E015 combat by Hope/Vorel**; later magistrate says he **came back** and killed soldiers, not independently encountered alive by the party in E016. Ritualist's possible demonic pact remains a **reported explanation** |
+| **Orp**, giant cyclops | E015 ~00:02–02:36, E016 ~00:09–00:38 | Personal name explicitly used (ASR `Gorp`, `Gorb`, `Oop`). **Alive**, briefly knocked out and threatened with execution. Hunts/eats people; **deceived by Nash/Vorel** to head for Esophageal Pass with ordinary dagger presented as magic. No confirmed trader casualties by E016 close |
+| **Sheriff Randy Clementine** (?) | E014, E015 opening GM recap | E015 recap explicitly says **Orp killed sheriff after he fired at giant** during E014. Surname spelling still needs listening; distinguish local sheriff from Principle magistrate |
+| **Lady Saltbubble / Sir Chickenfinger** | E015 ~01:44–01:55 | Koromukishi officers praising apparent killing of Tylander, say his campaign threatened slavery; **speaker/institution claims**, no proof of Tylander's real allies |
+| **Nash Maggard** | E015 Orp discussions; E016 ~02:03–02:10 | Directs Orp toward **trade traffic** with Vorel; later undergoes **observable dark scaling and sudden flames** as **dragon flies overhead**. Hears **private voice calling “Mother”**—not proof of parentage or voice identity |
+| **Vorel Rasvim Kurik** | E015 spell enlargement and killing Tylander; E016 ~00:31–01:52 and ~02:33–02:39 | Earlier curse/ghost-hand inflicted by Tylander, later seeks kin, **ritual with lizardfolk priestess** and **flaming rage** in vision. Scene separate from Slavetown negotiations. Priestess recognizes old **Kurik** lineage; assertion requires corroboration |
+| **Lizardfolk star/fire priestess, title Tepala (?)** | E016 ~01:25–01:52 | Woman at tent, recognizes Vorel's lineage, commands a spiritual/ritual trial and teaches of **Fuxi / Father of Fire**. **Her claims are testimony**, not verified origin of gods, tribes or Vorel's powers |
+| **Fuxi, Father of Fire** | E016 ~01:33–01:49 | Priestess claims trapped ancestral force/deity. Pronunciation appears `Fushi`, but **GM spells F-U-X-I** ~01:47 out of game. Name/spelling is strong SRT-supported lead; divine nature unverified |
+| **Bok Bok** | E016 ~02:33–02:39 | Reappears with Vorel near ritual camp, warns of **walking dead**, then accompanies him **back toward Slavetown**; he does not independently verify the exact count/identity of animated bodies |
+| **Catherine Speckles** | E012 report; E016 magistrate ~02:23–02:33 | Magistrate says her name appears in **land-claims office** for **999th floor of Black Mine**. **Official's report**, not independently inspected deed |
+| **Principle's elven magistrate** (Ethanilia / Ithanelia ?) | E016 ~02:19–02:33 | Reports **Tylander's return and many troop deaths**, urges **Black Mine investigation** and promises **Dusthill captives' freedom and no more raids**; powers/commitments/land record are **official claims**, not completed actions |
+| **Randall Owen and unidentified woman** | E014 ~02:24, E016 ~00:44–00:51 | Garage owner **Randall** positively identified dead E014; **adult woman** found dead at family-associated home E016. Magistrate also recounts an **Owen child** lost to vehicle accident. Need exact identities and chronology |
+| **Eddie and Chance** | E008–E009 only (carried unresolved) | Nothing in E015–E016 resolves their underground disappearance; unrelated **gnomes** seen earlier in Slavetown are not these guests by default |
+
+The titular **Dragon Mother** should **not** be represented as a newly identified female dragon character in the E016 directory. **Nash hears a private voice address “Mother”** while the external party witnesses a dragon and his transformation, but the speaker, addressee and family relation remain uncertain.
+
+**Inventory continuity:** Orp's **ruby-bead necklace** moves between him and party members during E015; E016 host clarifies part of its retrieval. Tylander's offered *mine deed* disappears as smoke. Record final inventory only after cue-level and audio review.
+
