@@ -322,3 +322,25 @@ The show-era **fan-art inventory** can aid research but is not independent audio
 
 **Performer boundary:** Scott absent from **E033** (titled `Nashfree`), but the character Nash remains part of the campaign world. Do not conflate the out-of-game absence with a definitive change to the pact signatories.
 
+## E034–E036 — dual agency, team members and faction figures
+
+| Character or group | Episode/time | Observed action versus claim |
+|---|---|---|
+| **Stanley Billings / Dion Talus** | E034 ~00:59–01:39, E035–E036 | **Dion overtly self-identifies while controlling Stanley's body** and admits forced E029 joining after Stanley rejected pact; **Stanley is alive and not then in control** by Dion's account, later apparently regains control. Their awareness-sharing, histories and possession mechanics remain partly **Dion's testimony**, not independent rules |
+| **Hope** | E034 mirror/old vampire book; E035–E036 | Seen with reflection, but **E033 reduced max HP** is not clearly cured. Participates in Blood Ball practice and two gang confrontations; **no confirmed vampire transformation** |
+| **Nash Maggard** | E034 training; E035 acid breath; E036 fight | **Gray Socks #7**; uses **dragon-heart acid breath** against Toe Rippers E035 and **full black wyrmling form** E036, receiving **two exhaustion levels**. Singer Angel Ashi chooses to accompany him at E036 end |
+| **Vorel Rasvim Kurik** | E034 onward | **Gray Socks #1**, frequently treats violent sport as honor; E035 **starts fight with Toe Ripper sentry**; E036 declares himself a would-be **Toe Ripper leader/Lizard King**, without proof the gang accepts |
+| **Stanley (team role)** | E034 | **Gray Socks #5**; the active speaker changes between **Stanley and Dion**. Do not count extra adventurer or assume every Dion statement is one Stanley would freely endorse |
+| **Hope (team role)** | E034 | **Gray Socks #3**. Future payment/performance conditional on actual Friday match |
+| **Coach Marlboro/Marlborough; Camel/Camille** | E034 ~01:39–02:41 | **Trashburg Gray Socks** coach and assistant/tailoring helper; exact spellings need listening; teach game-specific skill system and issue jerseys |
+| **Dashington (?)** | E033 bar stranger; E034 ~00:28 | Well-armed man Vorel says is interested in Stanley. Vorel fears he is hunting Stanley, **not verified** |
+| **Jedel/Jetel McCready** | E033 body, E035 confirmation by report | Charlemagne learns of a deceased man at his friend's site and **believes this was his friend**. No independent visual ID; parcel apparently not accepted by dealer. Episode title “Genitals McReady” is **not sufficient name proof** |
+| **Charlemagne** | E035 ~00:47–01:05 | Grieves friend, considers complaining to **Twenty-Six Block** about failure to protect him. His conclusion about identity and the party's theory about the theft are not independent forensic findings |
+| **Fango Rabbish/Ravish** | E035 ~00:13 onward; E036 | Card-game promoter/host at **Golden Gargoyle**, promises Angel Ashi show; in E036 leads party through **backstage/sewer route**. Shifts accent/manner; **actual identity/employer unresolved** |
+| **Angel Ashi/Angelashi** | E035 announced, E036 performance/escape | Glamorous singer performing at Golden Gargoyle; singles out **Nash**, later accompanies him to inn. Lyrics and statements about Suckmaster are not automatically independently verified biography |
+| **Blunt Goliver/Bluncolifer** | E036 ~00:37 onward | **Lizardfolk Toe Ripper authority/chief** with malformed legs, uses wheelchair, protected from an attempted influence spell by an unusual force; **not confirmed killed or captured** |
+| **Toe Rippers / shaman** | E035–E036 | Numerous gang members fight party; some **eat toes and claim increased strength**; no universally demonstrated buff or evidence entire organization was destroyed |
+| **Bok Bok** | E036 fight | Joins combat against gang members, remains with party during withdrawal; separate from disputed gang association and earlier toe necklace |
+
+**Milestone:** **Level 5** announced at E036 close; the GM explicitly says it does **not automatically restore HP/clear exhausted conditions**. **No Blood Ball match result** is available in this batch.
+
