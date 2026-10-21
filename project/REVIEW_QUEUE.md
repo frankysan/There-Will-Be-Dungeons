@@ -219,3 +219,27 @@ This is an **uncompleted listening/import queue**, not a set of confirmed new tr
 
 Pending issues are logged in the [consistency ledger](../world/CONSISTENCY_LEDGER.md). No review item should be marked resolved merely because multiple ASR systems or owner's notes agree.
 
+## E019–E021 listening and continuity priorities (open; 2026-10-21)
+
+Sources are [E019](../episodes/E019.md), [E020](../episodes/E020.md), [E021](../episodes/E021.md). **No audio listening is recorded for this batch**. Owner notes are [noncanonical](OWNER_EPISODE_NOTES.md); use [corrected numbers](EPISODE_NUMBERING.md).
+
+| Priority | Time | Review question |
+|---|---|---|
+| High | E019 ~00:05–02:09 | Reconstruct elevator **ascent → guards reverse → descent**, waves of undead and **Tickles's jump**. Distinguish GM recap E020 from E019's direct play |
+| High | E019 ~02:09–02:30 | Verify damage to support chain / **Thunderwave**, passing **78**, eventual **Feather Fall**, Nash's recovered nail-staff and lack of identifiable terminal floor |
+| High | E019 ~02:30–end; E020 ~00:06–00:18 | Track survival of Tickles to rockfall, subsequent **unresponsive/dead** verdict, rescued PCs and **Stanley's painful ribs** |
+| Medium | E020 ~00:00–00:06 | Out-of-game **Vorel fire aura / animated sword** rule correction, not source for a global rules interpretation |
+| High | E020 ~00:39–01:20 | Distinguish first trap lever from **second safety lever**, sealed study, **Tylander journal**, male skeleton and trapdoor |
+| High | E020 ~01:00–01:08 | Listen to **journal day 245** precisely, names **Mariosa, Daisy, Tobyl/Tobel, Lily**, voice behind the deep door, woman in Slavetown, Tylander's **signature/author attribution** and encrypted page |
+| Medium | E020 ~01:20–02:35 | Check chasm/mushroom/glyph geometry, displacer beast species and injured features, its **final defeat**, use of **Feather Fall** |
+| High | E020 ~02:35–end; E021 ~00:04–00:09 | Magical darkness triggered by dead beast; **Hope's private “find me” voice** while other players have headphones removed |
+| Medium | E021 ~00:09–01:20 | Hostile animate fungi vs ordinary mushrooms; glyph trigger conditions, enlarged-Vorel bridge across hazard |
+| High | E021 ~01:20–01:55 | **Dorothy** metal-faced talking door: exact name, riddle, security promises and who opens/accesses the passage |
+| High | E021 ~01:55–02:23 | **Tylander former mayor** confession vs E013 GM and E020 journal, **Fingers** name, confession about undead, illusion/projection of his physical presence |
+| High | E021 ~02:12–02:17 and ~03:03–03:12 | **Tylander impersonating Catherine** versus separate captive woman who says **she is Catherine**; exact message to Bertrand and whether GM confirms death |
+| High | E021 ~02:23–03:03 | Battle number/outcome of **eight Fingers** and distinction between follower defeat versus Tylander remaining free |
+| High | E021 ~03:12–03:21 | Locked chest/deed **not recovered**, apparent **Tylander by cauldron** and ~20-ft **winged figure**. Is it explicitly called **Catoblepraithe** before E021 ends? |
+| Medium | E019–E021 | Recorded podcast official **fan-art montage / Roll20 map** references can help find period visuals; permissions and dates need separate verification |
+
+Keep original ASR intact; mark every eventual audio-confirmed correction with a timestamp and do not replace in-episode claims with fan-wiki or owner's retrospective notes.
+
