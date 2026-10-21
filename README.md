@@ -13,6 +13,10 @@ This package establishes a repeatable, **local-first** path from podcast audio t
 5. [Episode dossiers](episodes/E000.md) and [E001](episodes/E001.md)
 6. [Review queue](project/REVIEW_QUEUE.md), [automated file audit](reports/SRT_AUDIT.md), and [Qwen Q4/Q8/Canary variant evaluation](reports/QWEN_VARIANTS_2026-10-21.md)
 
+## New segmentation benchmark (2026-10-21)
+
+[Five controlled CrispASR/Parakeet runs on E001's first ten minutes](reports/PARAKEET_SEGMENTATION_2026-10-21.md) cover no VAD, default Silero VAD, 700 ms padding, overlapping 30 s chunks and a chunked deduplication-off test. The two chunked JSON and SRT pairs are **byte-identical**, and transcription disagreements are **not yet audio-verified**. The existing episode drafts were not replaced.
+
 ## Important distinctions
 
 - The **reader-edited drafts** normalize source-supported spelling (e.g. Dusthill, Nash Maggard, Vorel, Jimster and Shun'ti) and the cast speaker name **Jon**, with every edit logged. They are still **not audio-proofread**; ambiguous speech such as “Orifi or Orify?” remains as recognized. The machine-derived drafts and all original SRTs stay unchanged.
