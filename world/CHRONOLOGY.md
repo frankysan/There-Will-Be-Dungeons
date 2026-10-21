@@ -160,3 +160,28 @@ This is a **navigation outline**, not a fully verified plot retelling. Most list
 
 E013.5 remains published **between E013–E014** even though its Hope/Vorel scene is set **around E008–E009**; no retcon to this release ordering is implied by E015/E016's dragon history.
 
+## E017–E018: Pixie Blush, Slavetown's fire and the first mine descent
+
+| Episode / approximate timestamp | Event / evidence status |
+|---|---|
+| **E017** ~00:00–00:04 | Listener reads out **speculation** about Nash, dragons and engines; **out of game**, not independently confirmed setting |
+| E017 ~00:04–00:10 | GM recap of E016 and plans to enter Black Mine; four adventurers in evacuated **Slavetown** |
+| E017 ~00:10–00:32 | Hope, Nash and Stanley raid/collect supplies at general store and struggle to access foundry |
+| E017 ~00:32–00:57 | **Maripol Bania** (?) sells/serves remedies; **Nash ingests Pixie Blush**, hallucinates; **Hope receives ominous card reading** |
+| E017 ~01:00–01:16 | **Vorel meets red-bandolier Jolt (?)** and receives **invitation** to raid **Forbisher's bank**; Bok Bok searches for **Gita**; **no heist** |
+| E017 ~01:16–01:40 | Explosives/ammunition supplies, Nash's impaired reactions, Vorel rejoins party; return to hotel |
+| E017 ~01:40–02:08 | Entry into foundry, violent confrontation: **owner killed**, **Stanley badly hurt**, separate from earlier Randall Owen death |
+| E017 ~02:08–02:25 | Nash hallucinates beneficent green elf offering food, then **sets off dynamite** with **Fire Bolt**. **Visible/reported blast and urban blaze real**, interlocutor uncorroborated/hallucinatory |
+| E017 ~02:25–02:53 | Flames through Slavetown commercial center, escape with injured Stanley and impaired Nash; **Hope gets station wagon**; leave toward **Black Mine** |
+| **E018** ~00:00–00:09 | Intro and recap of E017, some out-of-game speculation about people left in town |
+| E018 ~00:09–00:37 | **Sandstorm buries station wagon**; party escapes and seeks shelter |
+| E018 ~00:37–01:00 | Shelter inside **giant carcass**; about **eight cloaked javelin-carrying attackers** retreat after Hope's **Infernal magical voices** |
+| E018 ~01:04–01:14 | **Nash's testimony**: names **his staff nail “Freedom”**, narrates Solar Mines escape and harms; **not E014's separate gun `Freedom`** |
+| E018 ~01:12–01:29 | Party discusses possibility sandstorm stopped Slavetown blaze (**not confirmed**); storms subside, wagon likely stranded; proceed to mine **on foot** |
+| E018 ~01:29–01:46 | Reaches **Black Mine quarry** and meets **Oilbeard dwarf guards**; guards **claim** a slave uprising and intentional starvation via blocked elevator |
+| E018 ~01:39–02:08 | Human **Tickles** kept chained as a dog; party weighs cooperation versus violence, negotiates permission to enter |
+| E018 ~02:08–02:21 | Torches/ropes acquired; four leap into shaft, **Stanley casts Feather Fall**, reach lift near sign **23**, encounter isolated undead |
+| E018 ~02:21–end | Elevator raised; more undead gather and attack. **Cliffhanger; E019 resolves fight**, not E018 |
+
+**Chronology guardrails:** E017 ends with departure; **E018** reaches and enters mine. The **replacement wagon** is not **Fate 4** and becomes storm-buried. **Freedom (nail)** is first named in Nash's E018 retrospective account *in this reference corpus*, but its alleged Solar Mines use precedes the campaign by character testimony; **Freedom (gun)** is a separate E014 object. The enslaved Dusthill citizens are **not freed** by reaching a different mine. [E017](../episodes/E017.md) · [E018](../episodes/E018.md).
+
