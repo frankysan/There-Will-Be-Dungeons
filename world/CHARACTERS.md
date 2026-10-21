@@ -151,3 +151,26 @@ At **E008 ~00:00–00:02**, the host expressly states that **Kyle and Kristen ar
 **Critical prisoner distinction:** The adventurers' trial victory and subsequent acquittal (E010–E011) **do not** release the Dusthill abductees or permanently free Talia. These are separate unresolved objectives at E012's end.
 
 The later fan wiki can supplement orthography without retroactively granting the early cast knowledge of E013+ identities or using campaign-end character builds for E009–E012.
+
+## E013–E014 / E013.5 additions (unverified SRT evidence)
+
+| Person or group | Recording and approximate time | Role, action and limits |
+|---|---|---|
+| **Hope** | E013.5 ~00:12–00:22 (**in-story E008–E009**) | Tells Vorel she seeks to **travel into the past** and complete an ancient **dark pact**, expecting dragon engines to be involved. This is **character motivation/legend**, not a validated time-travel rule or confirmed past event |
+| **Vorel** | E013.5 ~00:12–00:22 | Shares traditions about red celestial `Exantos`, lizardfolk and dragon breeding stories; challenges consequences of erasing others' futures. **In-character worldview**, not objective species/cosmos fact |
+| **Stanley (Jon)** | E013.5 ~00:01–00:10, ~00:23–00:26 | Provides **in-character retrospective recap**, including the claim the E010 old man died in the Rusty Cage. His perspective may be incomplete; the release is not a fresh played session |
+| **Bertrand / the Jeweler** | E013 ~00:19–02:00; E014 00:00 recap | Man called **Bertrand** by attacker, **`Bertrand Mulg`** (ASR candidate) in later GM recap. **Wounded by cartel, healed, alive after E013**; his deals and identity are separate from Stump |
+| **Lactid / Lacted / Lactic Cartel** | E013 ~00:19–01:50; ~02:04–02:12 | Armed criminal network involved in assault on Sapphire; **Stump claims** ties to Principle City and economic rivalry with Oilbeards. Exact organization spelling and purpose pending |
+| **Donk (ogre)** | E013 ~00:21–01:52 | Supports Jeweler against armed assailants, **found dead** in aftermath; distinct from large enforcer of the arriving cartel |
+| **Trigger** | E013 ~00:21–02:00 | Protects the wounded Jeweler and remains at his side. Bodyguard/employee; not established as leader of cartel |
+| **Sheriff Randy Clementine (?)** | E013 ~01:05–02:02; E014 ~00:16–00:42 | **Slavetown's local sheriff**, independently acts during aftermath and cyclops dispute; not the Principle's elven **magistrate** |
+| **Old One Eye / cyclops (no confirmed proper name)** | E013 ~02:32–end; E014 ~00:05–00:36 | Huge one-eyed being demanding stolen magical `shiny`; knows someone called `Thailander`/variant, enchanted by magic tricks; age, identity, intentions and formal name unresolved |
+| **Robert / Thailander / Tylander (?)** | E013 ~02:24–02:31; E014 ~00:20–00:50 | Possible names or mistaken aliases of well-dressed, suspicious man in purple top hat / associated wizard. Link is **hypothesis** pending audio, not a proven merged entity |
+| **Red Scarlet** | E013 ~01:12–02:12; E014 ~01:09–01:16 | A name/signature or network in a note addressed to Timber, mentioned amid regional underworld events. **Cannot safely infer its allegiance, membership or identity** |
+| **Timber McClellan/McClelland** | E012 ~03:00–03:03; E014 ~01:09–01:16 | Jeweler's reportedly missing agent. A note **addressed to Timber** is found with a mutilated corpse, but this does **not identify the corpse** |
+| **Randall Owen** | E011–E012 garage; E014 ~02:20–02:28 | Owner of garage where Hope worked; **his fresh corpse is positively identified in GM-narrated scene**, with severe mutilations. Not identical to first corpse upstairs by default |
+| **Unnamed ritualist** | E014 ~02:32–03:00 | Apparent sorcerer using deceptive gnome-like figure and gas, threatens group over necklace, claims **Catoblepraithe the Soulbroker** as patron and animates corpses. Identity and authenticity of his boasts remain unsettled |
+| **Catoblepraithe / the Soulbroker** | E014 ~02:56–03:00 | **Named alleged demonic patron**, *not physically appearing* by the cliffhanger. An [archived illustration](../sources/images/Catoblepraithe_-_Audie_Norman.webp) supplies a spelling/art lead only, with source-era and media permissions unverified |
+
+**Supplemental disclosure boundary:** E013.5 is heard **after E013** but its Hope/Vorel conversation is set **while Nash and Stanley are underground in E008–E009**. The newly published dialogue can be referenced as earlier story-time character testimony **without** inserting it into E008/E009 audio transcripts or allowing other characters to know it automatically.
+
