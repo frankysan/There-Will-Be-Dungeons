@@ -457,3 +457,26 @@ Source basis [E034](../episodes/E034.md) · [E035](../episodes/E035.md) · [E036
 
 **Core boundary:** **E037** contains a full morning, letter, Monsoon visit, weapons pickup and the **explosion at the close**; **E038** resolves blast injuries and kills the leader; **E039** reveals Hope's prosthetics and Monsoon's post-head briefing. Do not merge character claims with GM-visible facts.
 
+## E040–E042 continuity / unresolved interpretation ledger (processed SRT only)
+
+| Reference key | Source/time | Status, limit or reconciliation |
+|---|---|---|
+| `teet.night_search` | E040 ~00:06–01:32 | **Direct play:** Teet Guard and Guzzle Gang search Trashburg under keep spotlights; Dion/Stanley's uniform changes are **illusory disguises**, not actual faction membership |
+| `hope.pit_mobility` | E040 ~00:16–01:30; E041 opening | Fresh left-leg prosthetic **restricts Hope's walking**; Vorel transports her. No immediate full-speed restoration inferred from E039 fitting |
+| `e040.two_phillips` | E040 ~02:10–02:28 | Two soldiers sent into a dark spell; **sounds of distress and later soldier claims**, not independently confirmed corpses or exact nicknames. Spell name/damage pending audio |
+| `pit.surface_vs_hatch` | E040 ending; E041 ~00:08–02:11 | **Surface pit bars and long drop** are separate from **smaller rusted exit hatch** in a slimy side crevasse. E040 only *approaches* the pit; **E041** actually descends and opens hidden hatch |
+| `pit.froghemoth_direct` | E041 ~00:50–02:11 | Now directly described in encounter (three eyes, huge body/tentacles); **Monsoon's E039 report is no longer the only evidence for a creature**, though his broader keep-route claims remain unverified |
+| `stanley.phantasmal_vorels` | E041 ~01:20–01:55 | Multiple Vorels exist **only as a target's Phantasmal Force perception**; not additional material characters; Vorel continues to fight the real froghemoth |
+| `george.teet_guard` | E041 ~00:15–E042 cutoff | **George** is a surviving Teet Guard pursuer/reluctant companion, **not** the fatally wounded Guzzle Gang man. Claimed wife/family/accordion background is testimony. **E042 ~03:04** he shoots his own foot; treatment unresolved |
+| `froghemoth.sphere` | E041 ~02:00–02:11 | **Nash removes one glowing gel-covered sphere** from cluster; “egg” is a **provisional character label**, no independent hatch or identification |
+| `froghemoth.core` | E042 ~00:20–00:30 | **Nash cuts the whole sphere and retains its black, pliable center**; no intact sphere inventory after this action. **Mending** not verified effective |
+| `stanley.buttons.defense` | E041 ~02:11–02:24 | **Stanley urges not killing Buttons** and takes responsibility for earlier actions; **no proof of Buttons betraying party** or actual change to his status |
+| `cave.singing_king` | E041 ~02:33–E042 close | Unseen singer **claims cave/water guardianship and kingship**. **Vorel calls out E042 close**, no reply/meeting in processed SRT; identity and relation to gem unknown |
+| `cave.pale_worm` | E042 ~00:53–01:08 | Pale web/mucus **worm-like tentacled creature** in side room is avoided; distinct from E041 froghemoth and E042 black puddings |
+| `cave.stone_boots` | E042 ~01:08–01:22 | **Stone-like boots/legs** directly observed, but identification as petrified person or connection to **Tedna's tiefling statues** is party inference |
+| `cave.infernal_inscription` | E042 ~01:24–01:28 | Hope understands **Infernal**. **GM gives her private message**, not recoverable fully from SRT; don't invent text or infer exact supply-cache meaning |
+| `cave.old_cache` | E042 ~01:33–01:42 | Old rucksack with **ruby, necklace, medical kit, radio, gun/ammo, pepper spray candidate, compass and smooth wooden stick** among supplies. **Exact owners/distribution and wood magic unresolved**; `Identify` attempt interrupted |
+| `black_puddings.e042` | E042 ~01:42–03:10 | **Two black oozes** confronted, corrode a cutting weapon, multiply on cutting, dissolve table and injure party. **Defeated by E042 ~03:10**, not still chasing at cutoff. Distinguish tabletop GM mechanics from official rule specification |
+| `goals.not_completed_e042` | E042 cutoff | **No keep entry, rescue of Tedna/pixies, Gem of Tides retrieval, wedding heist or Blood Ball match** despite physically entering under-Pit tunnels |
+
+**Batch guardrail:** E040 is city fight, **E041** pit/froghemoth/hatch/sphere pickup, **E042** opened sphere/side-cave cache/black-pudding fight/George's injury. All derive from processed subtitles only; no audio checks or original-source corrections have been performed.
