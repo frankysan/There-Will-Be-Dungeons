@@ -336,3 +336,29 @@ E013.5 remains published **between E013–E014** even though its Hope/Vorel scen
 
 **Continuity:** E034 confirms a second *acting identity* without validating all its cosmic claims; E035 street battle does **not** fulfill Monsoon's **leader assassination**; E036 nightclub battle does **not** certify leader slain. E035 ends inside Golden Gargoyle, E036 contains its performance and ambush. All timestamps approximate processed SRT, not audio verification.
 
+## E037–E039: Vorel's private raid payment, cave explosion and cybernetic Hope
+
+| Corrected episode/time | Played action versus reported explanation |
+|---|---|
+| **E037** ~00:06–00:17 | **Vorel/Bok Bok** navigate sewer/alleys for secret meeting; glimpse organized personnel fighting Toe Rippers |
+| E037 ~00:17–00:29 | Jolt contact reports **offscreen Slavetown Oilbeard-safe raid**, gives Vorel **trunk of gold/jewels**, offers future heist; Vorel hides loot |
+| E037 ~00:29–00:55 | **Angel Ashi** speaks privately with Nash about past and heart, demonstrates **flower and temporary plant magic**; they become intimate |
+| E037 ~00:55–end | Morning: Angel Ashi gone, temporary alteration reversed; long rest partly recovers Nash's exhaustion |
+| **E038** ~00:00–00:40 | **Hope's rocket launcher** fired inside underground Toe Ripper chamber, massive blast/cave-in/smoke; Hope unconscious and gravely injured |
+| E038 ~00:40–01:14 | Party carries/rescues Hope while navigating toxic dust/smoke and remaining foes |
+| E038 ~01:14–01:32 | **Nash Fireball, Stanley attack, Vorel beheads Blunt Goliver**; head retained |
+| E038 ~01:32–01:58 | Traverse East Trashburg with **Hope near death**, visible left-side injuries |
+| E038 ~01:58–02:13 | **Monsoon receives/examines Blunt Goliver's head**, arranges treatment |
+| E038 ~02:13–end | **Dr Dickles** X-ray/surgery, **left arm and leg amputations**, Sister Sarah/Metal Mandy involved; prosthetic function awaits E039 |
+| **E039** ~00:05–00:40 | **Stanley tries to aid sick patients**; Vorel/Nash guard clinic district |
+| E039 ~00:40–01:06 | **Public Teet security announcement** names Stanley/Dion wanted for alleged attempted murder of **Arcanum mage**, claimed agents detained; men hide at Vorel's earlier meeting house |
+| E039 ~01:06–01:24 | **Hope's mechanical left arm/leg fitted/tested**, custom enhanced grip/rocket wrist; launcher itself no longer in use |
+| E039 ~01:24–01:40 | Hope's medicated glimpses of violence; **Monsoon confesses ordering Dr Dickles/Sister Sarah/Metal Mandy killed** |
+| E039 ~01:40–02:15 | Companions create distraction/evade patrols; move under cover to **Twenty-Six Block** |
+| E039 ~02:15–02:28 | **Hope reunites with party** in Monsoon's secure rooms; Monsoon reports **Buttons supplied intelligence** and **Tedna detained** |
+| E039 ~02:28–03:06 | **Monsoon's Lactid puppet claim**, **Tiat Cala/Kefeli/Andreeste** history, **under-Pit route** and possible alternate name; attributed claims, not verified world history |
+| E039 ~03:02–03:10 | Monsoon suspects Jolt plans to steal **Gem of Tides**, alleged water-cleaning artifact |
+| E039 ~03:10–end | Party debates how to save pixies, handle Buttons and new alliances; **mind-reading potion given to Hope**, Lazlo provides clothing; **no keep raid or wedding yet** |
+
+**Boundary corrections:** E036 exits Gargoyle with leader alive; **E038** kills and presents his head. E037's **reported** Slavetown heist is not E035's Teet street fire. **Mechanical Hope begins in E039**, after E038 emergency amputations. All approximate timestamps refer to processed SRTs, not audio verification.
+
