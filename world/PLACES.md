@@ -225,3 +225,17 @@ The [**Fate 4** two-page design](../sources/images/Fate_4_Character_Sheet.webp) 
 
 **Chapel chest and Dorothy exit (E024):** Party clears the rockfall corridor, returns to the E021 chapel, **opens previously locked chest** (about 60 gold, two bloodstones, two citrines, one jasper, one quartz, and potions of **clairvoyance** and **mind reading**). They revisit Catherine's cell and consider a keepsake for Bertrand. **Dorothy's wooden door is ignited**; **smoke conceals the pit and threshold**, and the voice is still heard. **Exit not achieved on-screen**. [E024](../episodes/E024.md).
 
+## E025–E027 travel and locations
+
+**Deep mine / Dorothy passage (E025):** The party **escapes through the smoked corridor and spiked pit** using rope and an immovable rod; **Dorothy still speaks** and protests threatened “door authority” punishment. Earlier E024 burning therefore **does not prove her destruction**. They retrace the mushroom chasm, bedroom and shaft, then use **Nash's enlarged dragon form** to carry everyone up the broken elevator shaft. [E025](../episodes/E025.md).
+
+**Black Mine upper guard station (E025–E026):** A surface room occupied by armed **Oilbeard dwarves**, an improvised wheeled Gatling gun **Bessie**, and a vehicle/dune-buggy entrance. The party violently defeats/expels guards; **Scrolly** is thrown into the shaft. A side **prison with a locked cell** contains Bok Bok, Bertrand and Trigger (identifications confirmed **in E026**). A **powered-armored visitor** approaches in E026; party steals his dune-buggy keys and leaves via restored **Fate 4**. The visitor's identity is not proved until a later direct encounter. [E026](../episodes/E026.md).
+
+**Slavetown, Salivating Fields, Principle City (E026 reports):** **Bertrand's report** says Slavetown is near-abandoned, a **Lactid** specialist is heading there, and the Principle's remaining forces **may be** at **Salivating Fields**. He describes an undercity crime network below **Principle City's three spires**. All are **NPC intelligence**; this batch does not directly revisit the town or prison fields.
+
+**Liberators' concealed mountain camp (E026–E027):** Tented settlement in a valley near the **Deadfingers** reached via Fate 4 and a final uphill walk, providing refuge to survivors and a meeting place for the sightless ex-Koromukishi orc. Bertrand/Trigger are present. E027 warns **the camp has been compromised** and evacuation/packing starts; the arrival of an enemy army is not narrated. [E027](../episodes/E027.md).
+
+**Desert RV journey and paladin crash site (E027):** Leaving the camp in **Fate 4**, the party meets a flying **Umbilical Order** power-armored paladin. His attack and explosions **overturn/damage the RV**; the travelers recover Tedna alive and eventually right/continue the vehicle. A flare/signal is launched; whether reinforcements receive it is **unknown**.
+
+**Lizardfolk hunting-party challenge location (E027 ending):** At a desert night stop, silhouettes resolve into **four lizardfolk and velociraptor-like animals**. **Diptak** challenges **Vorel** over the alleged **Typalla/Tepala** consort claim. This is a **present-day place of confrontation**, not confirmed territory of the earlier E016 priestess's original tent, nor a completed duel.
+
