@@ -141,3 +141,17 @@ The separate [**Teet Fortress / Trashburg** area map](../sources/images/Map_-_Th
 
 The [**Fate 4** two-page design](../sources/images/Fate_4_Character_Sheet.webp) ([continued](../sources/images/Fate_4_Character_Sheet_Continued.webp)) and [separate floorplan](../sources/images/Fate_4_Floorplan.webp) are **vehicle visual references**, not a geographic map or evidence that any player character was present at the depicted location in a given episode. See [asset classification and rights caveats](../project/IMAGE_ASSETS.md).
 
+## E013–E014 geography and supplementary locations
+
+**Sapphire revisited (E013):** The Jeweler's Slavetown establishment becomes the scene of an **armed Lactid Cartel attack** (~00:19–02:00), destroying interiors and killing **Donk**; **the Jeweler survives wounded**. Sheriff **Randy Clementine** later responds. This extends its E011–E012 commercial/political role; the tavern's destruction and recovery are not established from an image alone. [E013](../episodes/E013.md).
+
+**Pristine / Slavetown (GM exposition E013 ~00:05–00:12):** The GM directly outlines the former settlement's evolution via **Oilbeard–Principle** dealings, a change of town name, broader army (**Toyota Host**) and elite officers (**Koromukishi**). The town's remaining **sheriff** and local businesses coexist with the Principle's magistrate and military power. Record this as **GM briefing** and approximate chronology, not as the Jeweler's sole allegation from E012.
+
+**Lattlebing's Hotel and the cyclops (E013 ending; E014 opening):** A huge **one-eyed giant** reaches upper-floor windows and grabs/holds Vorel, demanding an object. The GM estimates its height at roughly **60–70 feet** out of character. The party negotiates in E014 and pursues a man who may have stolen from it. Do not insert the E014 explanations into the **E013 cliffhanger**.
+
+**Slavetown streets (E013–E014):** Paths and landmarks include **Heaven Street**, **Hell Street**, **Break Road**, and **Thorn Row** (ASR names to be checked against a contemporary street map). The party follows tracks toward a suspect's house. The previously archived [Beyond the Deadfingers regional map](../sources/images/Map_BeyondTheDeadfingers_resized.webp) and [The Teet map](../sources/images/Map_-_The_Teet.webp) **do not** visually verify a Slavetown street plan. [Image provenance](../project/IMAGE_ASSETS.md).
+
+**Thorn Row house and subterranean ritual complex (E014):** Ground floor and upstairs present a penetrating decaying stench; an upper bedroom has an eyeless/fingerless corpse, a note addressed to **Timber**, an `L`-type stitched marking, a glyph trap and chest with **Liberators** recruitment literature, roughly 500 gold and other objects. A hidden route behind cupboards leads to a trapped stair and cauldron/operating spaces with mutilated dead, demonic diagrams and ritual activity. **Randall Owen** is identified among the recent victims. **Do not equate the house's first corpse with Timber** without independent evidence. [E014](../episodes/E014.md).
+
+**Wasteland stars (E013.5 supplemental):** Vorel discusses a red astral figure provisionally `Exantos`; Hope describes a `portal` star pattern. They are **stories told during an in-character conversation**, not a GM atlas or an established astronomical coordinate system. **Story time ~E008–E009; release time E013.5.** [E013.5](../episodes/E013.5.md).
+
