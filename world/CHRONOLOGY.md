@@ -313,3 +313,26 @@ E013.5 remains published **between E013–E014** even though its Hope/Vorel scen
 
 **Boundaries:** E030 ends outside Teet; **E031 enters Trashburg**. E032 arms-dealer cliffhanger precedes **E033 combat**. The **wedding, Blood Ball, pixie farm, and rival-gang assassination** remain future/uncompleted by E033.
 
+## E034–E036 — Dion disclosure, practice, fires and Gargoyle escape
+
+| Source time | Session event / source-role boundary |
+|---|---|
+| **E034** ~00:00–00:37 | Nash back in played session; party privately debates Stanley's altered conduct and a Vorel/Dashington meeting |
+| E034 ~00:37–00:59 | **Hope's E033 bite** and **mirror** examined; no decisive species diagnosis or max-HP cure |
+| E034 ~00:59–01:39 | **Dion Talus identifies himself while controlling Stanley's body**, admits E029 forced joining after refusal, describes divided control and claimed mana-wave motives |
+| E034 ~01:39–02:41 | **Gray Socks Blood Ball training** at stadium with coach Marlboro; team jerseys Vorel 1 / Hope 3 / Stanley 5 / Nash 7; **200-guzzbolt pay offered**, not already collected |
+| E034 ~02:41–end | Return to Charlemagne's, discuss proposed pixie help / Toe Ripper deal; **Friday match still ahead** |
+| **E035** ~00:00–00:20 | **Fango Rabbish** invites party to **Golden Gargoyle** for cards / Angel Ashi set |
+| E035 ~00:20–00:47 | Concern over missing **Buttons**, hidden Dion truth, unfulfilled pixie rescue and arms dealer's status |
+| E035 ~00:47–01:05 | Party tells **Charlemagne** about body at **Jedel McCready's**; he grieves and intends to ask Twenty-Sixers for protection; alleged culprits **not confirmed** |
+| E035 ~01:15–02:33 | **Vorel attacks Toe Ripper sentry** in East Trashburg; prolonged fight, Nash uses **acid breath**, building burns/partly collapses |
+| E035 ~02:33–02:55 | Group withdraws as **Teet Guard siren and apparent keep activity** occur; **Toe Ripper chief not shown killed** |
+| E035 ~02:55–end | Party arrives at **Golden Gargoyle**, hands over weapons, enters jazz venue |
+| **E036** ~00:08–00:37 | **Angel Ashi** performs at Golden Gargoyle, singles out Nash |
+| E036 ~00:37–00:53 | **Large Toe Ripper force and Blunt Goliver** confront party over E035 violence |
+| E036 ~00:53–02:40 | **Vorel proclaims Lizard King, Nash transforms to wyrmling**; extended gang fight with spells, toe consumption and unconventional magic resistance |
+| E036 ~02:40–03:13 | **Fango shows backstage/sewer exit**; party withdraws; **Blunt Goliver's death not established** |
+| E036 ~03:13–end | Return near **Charlemagne's**; **Angel Ashi stays with Nash**, two exhaustion levels applied; **level 5 awarded out of character**, not instant recovery |
+
+**Continuity:** E034 confirms a second *acting identity* without validating all its cosmic claims; E035 street battle does **not** fulfill Monsoon's **leader assassination**; E036 nightclub battle does **not** certify leader slain. E035 ends inside Golden Gargoyle, E036 contains its performance and ambush. All timestamps approximate processed SRT, not audio verification.
+
