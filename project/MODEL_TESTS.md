@@ -23,3 +23,17 @@ Six Qwen SRTs (Q4, Q4 + Canary CTC, and Q8, for E000 and E001) were added unmodi
 **Findings:** Q4 + Canary preserves all Q4 text exactly while eliminating all E001 nonpositive cue durations (56 → 0). It also changes E001 speaker attribution for 924/32,007 tokens because cue boundaries and labels change. Q4 and Q8 recognition differ by 1,070 word edits in E001 and 17 in E000. These are disagreements, not an accuracy ranking.
 
 Next experimental priority: audio-verified Q4/Q8/Parakeet discrepancies, plus a Q8 + Canary alignment run if Q8 is favored.
+
+## 2026-10-21: E001 Parakeet segmentation experiments
+
+[Full five-run benchmark with transcript comparisons and audio-review targets](../reports/PARAKEET_SEGMENTATION_2026-10-21.md). CrispASR 0.8.43, Parakeet TDT 1.1B GGUF, English, Radeon RX 9070 via Vulkan, 600 seconds of the same E001 audio. The following are **machine-output comparisons, not audio-verified WER**.
+
+| Run | Time / speed | Words | Finding |
+|---|---:|---:|---|
+| Full audio, no VAD | 15.75 s / 38.1× | 1,701 | Preserves the opening greeting; provisional baseline |
+| Default Silero VAD | 13.33 s / 45.0× | 1,699 | Misses candidate `hello everybody`, captures other possible brief remarks |
+| VAD with 700 ms padding | 12.96 s / 46.3× | 1,699 | Recovers greeting; nearly merges VAD regions; near-same-time duplicate `if` |
+| 30 s chunks + 3 s overlap, LCS auto | 15.77 s / 38.0× | 1,692 | Some better phrases, but possible lost greetings around 01:40 |
+| Same chunks, LCS off | 14.96 s / 40.1× | 1,692 | **JSON and SRT are byte-identical** to LCS auto |
+
+Stop optimizing segmentation based solely on model-to-model agreement. Listen to the timestamped review samples before revising the model choice. No existing source SRTs or transcript drafts were changed in this test.
