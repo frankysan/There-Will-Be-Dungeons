@@ -341,10 +341,15 @@ E013.5 remains published **between E013–E014** even though its Hope/Vorel scen
 | Corrected episode/time | Played action versus reported explanation |
 |---|---|
 | **E037** ~00:06–00:17 | **Vorel/Bok Bok** navigate sewer/alleys for secret meeting; glimpse organized personnel fighting Toe Rippers |
-| E037 ~00:17–00:29 | Jolt contact reports **offscreen Slavetown Oilbeard-safe raid**, gives Vorel **trunk of gold/jewels**, offers future heist; Vorel hides loot |
+| E037 ~00:17–00:29 | Jolt contact reports **offscreen Slavetown Oilbeard-safe raid**, gives Vorel **trunk of gold/jewels**, offers future heist; **Vorel and Bok Bok bury it under sand about an hour beyond town** |
 | E037 ~00:29–00:55 | **Angel Ashi** speaks privately with Nash about past and heart, demonstrates **flower and temporary plant magic**; they become intimate |
-| E037 ~00:55–end | Morning: Angel Ashi gone, temporary alteration reversed; long rest partly recovers Nash's exhaustion |
-| **E038** ~00:00–00:40 | **Hope's rocket launcher** fired inside underground Toe Ripper chamber, massive blast/cave-in/smoke; Hope unconscious and gravely injured |
+| E037 ~00:55–01:09 | Morning: Angel Ashi gone and temporary alteration reversed; rest reduces Nash's exhaustion. **Tedna sends Hope a keep-interior letter**; **Charlemagne evacuates with family and hands Vorel the inn keys** |
+| E037 ~01:09–01:49 | **Tedna's letter** reports Softhead/Principle delegation, Andreeste rites, hidden-corridor and tiefling statues; Hope keeps some pages private. Party debates plans |
+| E037 ~01:49–02:19 | **Monsoon visits inn**, marks **Toe Ripper underground entrance** on map, requests **Blunt Goliver's head**, offers weapons and relates attributed tiefling/Andreeste history |
+| E037 ~02:19–02:46 | Party enters **Twenty-Six armory**; Vorel obtains custom chain greatsword **Ma Storm**, others replace gear |
+| E037 ~02:46–03:06 | Enter Toe Ripper cave, find bell tripwire and monk |
+| E037 ~03:06–end | **Hope fires rocket; monk catches/returns it into Hope**, causing explosion, severe injuries, ceiling rockfall/smoke **at E037 cliffhanger** |
+| **E038** ~00:00–00:40 | **Immediate aftermath of E037's returned rocket**: blast/cave-in/smoke, Hope unconscious and gravely injured |
 | E038 ~00:40–01:14 | Party carries/rescues Hope while navigating toxic dust/smoke and remaining foes |
 | E038 ~01:14–01:32 | **Nash Fireball, Stanley attack, Vorel beheads Blunt Goliver**; head retained |
 | E038 ~01:32–01:58 | Traverse East Trashburg with **Hope near death**, visible left-side injuries |
