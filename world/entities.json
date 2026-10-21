@@ -15,7 +15,7 @@
         "Nash Maghard",
         "Nashmegard"
       ],
-      "name_status": "needs_audio_spelling_check",
+      "name_status": "wiki_spelling_supported",
       "description": "Scott-associated character; dangerous wanderer with backstory linked to Blood Canyons and solar mines",
       "sources": [
         {
@@ -30,18 +30,27 @@
         }
       ],
       "questions": [
-        "Verify surname spelling and backstory specifics"
+        "Check backstory specifics against audio; wiki supports spelling."
+      ],
+      "external_sources": [
+        {
+          "url": "https://twbd.fandom.com/wiki/There_Will_Be_Dungeons_Wiki",
+          "evidence_type": "wiki_spelling_supported",
+          "chronology": "E000-present",
+          "checked_on": "2026-10-21"
+        }
       ]
     },
     {
       "id": "character.hope",
-      "display_name": "Hope",
+      "display_name": "Oriphi \"Hope\" Akmenos",
       "type": "person_character",
       "aliases": [
         "Orifi",
-        "Orify"
+        "Orify",
+        "Hope"
       ],
-      "name_status": "spoken_name_confirmed",
+      "name_status": "wiki_spelling_supported",
       "description": "Kristen-associated tiefling; seeks a dragon engine and describes a hope of restoring the world",
       "sources": [
         {
@@ -56,8 +65,16 @@
         }
       ],
       "questions": [
-        "Verify longer name spelling",
+        "Audio conversation about pronunciation Orifi/Orify remains unverified.",
         "Separate aspiration from established world mechanics"
+      ],
+      "external_sources": [
+        {
+          "url": "https://twbd.fandom.com/wiki/Oriphi_%22Hope%22_Akmenos",
+          "evidence_type": "wiki_spelling_supported",
+          "chronology": "E000-present",
+          "checked_on": "2026-10-21"
+        }
       ]
     },
     {
@@ -87,15 +104,17 @@
     },
     {
       "id": "character.vorel",
-      "display_name": "Vorel",
+      "display_name": "Vorel Rasvim Kurik",
       "type": "person_character",
       "aliases": [
         "Varel",
         "Vorell",
         "Borel",
-        "Rasvim Kurik"
+        "Rasvim Kurik",
+        "Vorel",
+        "Borel Rasvim Kurik"
       ],
-      "name_status": "needs_audio_spelling_check",
+      "name_status": "wiki_spelling_supported",
       "description": "Kyle-associated desert-wandering lizardfolk character",
       "sources": [
         {
@@ -110,7 +129,15 @@
         }
       ],
       "questions": [
-        "Check full name and all spelling variants"
+        "Wiki supports written full name; exact phonetic dialogue requires listening."
+      ],
+      "external_sources": [
+        {
+          "url": "https://twbd.fandom.com/wiki/There_Will_Be_Dungeons_Wiki",
+          "evidence_type": "wiki_spelling_supported",
+          "chronology": "E000-present",
+          "checked_on": "2026-10-21"
+        }
       ]
     },
     {
@@ -156,13 +183,14 @@
     },
     {
       "id": "npc.gimster",
-      "display_name": "Gimster",
+      "display_name": "Jimster",
       "type": "person_npc",
       "aliases": [
-        "Gymster"
+        "Gymster",
+        "Gimster"
       ],
-      "name_status": "needs_audio_spelling_check",
-      "description": "Human head mechanic at Dust Hill garage",
+      "name_status": "wiki_spelling_supported",
+      "description": "Human head mechanic at Dusthill garage",
       "sources": [
         {
           "episode": "E001",
@@ -171,17 +199,27 @@
         }
       ],
       "questions": [
-        "Verify spelling"
+        "Written spelling supported by a later episode summary; no later plot imported."
+      ],
+      "external_sources": [
+        {
+          "url": "https://twbd.fandom.com/wiki/Episode_6",
+          "evidence_type": "wiki_spelling_supported",
+          "chronology": "later-wiki-report",
+          "checked_on": "2026-10-21"
+        }
       ]
     },
     {
       "id": "npc.shun_t",
-      "display_name": "Shun T",
+      "display_name": "Shun'ti Stoutbarrel",
       "type": "person_npc",
       "aliases": [
-        "Shunti"
+        "Shunti",
+        "Shun T",
+        "Shun'ti"
       ],
-      "name_status": "needs_audio_spelling_check",
+      "name_status": "wiki_spelling_supported",
       "description": "Dwarven attendant of the settlement water system",
       "sources": [
         {
@@ -191,17 +229,25 @@
         }
       ],
       "questions": [
-        "Verify name spelling"
+        "Surname comes from later summary; do not insert surname into E001 dialogue."
+      ],
+      "external_sources": [
+        {
+          "url": "https://twbd.fandom.com/wiki/Episode_6",
+          "evidence_type": "wiki_spelling_supported",
+          "chronology": "later-wiki-report",
+          "checked_on": "2026-10-21"
+        }
       ]
     },
     {
       "id": "place.dust_hill",
-      "display_name": "Dust Hill",
+      "display_name": "Dusthill",
       "type": "place",
       "aliases": [
-        "Dusthill"
+        "Dust Hill"
       ],
-      "name_status": "working",
+      "name_status": "wiki_spelling_supported",
       "description": "Defensible wasteland settlement and opening campaign base",
       "sources": [
         {
@@ -211,7 +257,16 @@
         }
       ],
       "questions": [
+        "Wiki-supported written spelling. Keep Dust Hill as ASR/search alias.",
         "Confirm preferred orthography"
+      ],
+      "external_sources": [
+        {
+          "url": "https://twbd.fandom.com/wiki/There_Will_Be_Dungeons_Wiki",
+          "evidence_type": "wiki_spelling_supported",
+          "chronology": "E000-present",
+          "checked_on": "2026-10-21"
+        }
       ]
     },
     {
