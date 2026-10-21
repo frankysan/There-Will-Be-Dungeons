@@ -301,3 +301,16 @@ The fan-wiki [Teet image](../sources/images/Map_-_The_Teet.webp) is a later/unda
 
 **Gem of Tides (E039 report):** Supposedly in the keep and used to transform oil into potable water; **Monsoon's source/claim**, not a device seen operating by the adventurers.
 
+## E040–E042 — Trashburg search route, Pit of Despair and deeper oily caves
+
+**Nighttime search corridor from Twenty-Six Block (E040):** The team takes the **hidden elevator from Monsoon's rooms**, exits amid barricaded Twenty-Six buildings and travels toward the pit while **Teet Guard** patrols and **Guzzle Gang** members search residences. The keep's movable **spotlights** and patrols force them through alleys, including a house where **Dion/Stanley infiltrates Guzzle Gang searchers in disguise**. A fight gathers many armed reinforcements. At E040 cutoff the team is **running toward**, not already inside, the pit. [E040](../episodes/E040.md).
+
+**Pit of Despair upper bars and descent (E041):** The pit is **covered by broad bars** that allow people through but restrain the large creature below. Spotlights and firing from the keep continue; the party uses a rope, a steep drop and **Misty Step/Feather Fall** to reach the bottom. The pit floor has **chewed bones, wet slime, ledges, stalagmites** and a **huge froghemoth** (directly observed). A Teet Guard named **George** ends up accompanying the party. [E041](../episodes/E041.md).
+
+**Side crevasse and lower escape grate (E041):** While **Vorel distracts the froghemoth**, companions locate a wall passage with **pulsing slimy spheres** and an **ancient rusted metal hatch/grate**. An old key meets resistance; the group ultimately forces it open. A ladder leads into **dark, slick, oily-clay caverns** underneath the pit. **Nash takes one sphere before descending**. This makes Monsoon's suggested underground approach partly real, **not proof of access to the keep**.
+
+**Cavern intersections, false leads and stone boots (E041–E042):** Dark, insect-rich oily tunnels spread into chambers. A distant unseen singer calls himself a cave “king” and guardian. The party encounters a mucus-lined lair and a **pale tentacled worm-like occupant**, then withdraws; another chamber contains **solid stone-like worker boots/legs** without a verified petrification cause. The singing person is **not seen** by E042 cutoff. [E042](../episodes/E042.md).
+
+**Infernal writing and cache (E042):** A cavern with **two old tables** contains writing scratched into clay; **Hope understands Infernal** and receives a **private GM interpretation**, but the exact complete content is absent from the machine SRT. Down one branching passage the party finds a **decayed rucksack of old supplies**, including a well-preserved wooden stick whose identity is unresolved.
+
+**Black pudding corridors / table chamber (E042):** Two encroaching black oozes trap the group between narrow, oily tunnels, corrode gear and divide into smaller pieces. The party fights toward and within a chamber with wooden tables; puddings **eat through improvised table cover**. They are defeated in the same cave network. **George wounds his own foot with his shotgun** before the scene ends; the party remains underground and **Vorel calls out to the unseen king**. No direct Teet entrance, gem chamber, rescues or exit to open country is established.
