@@ -89,3 +89,34 @@ Future additions should include a one-paragraph description, first appearance, r
 | **Jimster** and **Shun'ti** | Reappear as important Dusthill figures dealing with the goblin raid, damaged community and leadership gap | E005 ~02:03–02:35; their known written spellings remain wiki-supported, not new audio verifications |
 
 **Chronology restraint:** E005 establishes goblins attacking the town and causing disappearances. The named goblin **Bok Bok** becomes a party companion *during E006* according to the wiki, and must not be backdated to E005. Late-campaign descriptions, abilities and character sheets still do not describe the protagonists' early character builds.
+
+
+## Added character and cast continuity: E006–E008
+
+**Evidence:** [E006](../episodes/E006.md), [E007](../episodes/E007.md), [E008](../episodes/E008.md) processed Parakeet dossiers, **none newly checked against audio**. A [contemporaneous retrospective E006 fan-wiki summary](https://twbd.fandom.com/wiki/Episode_6) supplies some spellings, not word-for-word audio or an unlimited spoiler license.
+
+| Person or role | First relevant evidence | Status / boundary |
+|---|---|---|
+| **Bok Bok** (goblin) | E006 ~00:32–00:45 captured by Vorel; ~01:08–01:18 name given; E007 ~00:24–00:35 rescues/returns the old man | Associates Vorel with `lizard king/god`; sometimes uses `fresh`. SRT `Buckbuck`, `Bachbok`, `Bokbak`; spelling also appears on [wiki's main page](https://twbd.fandom.com/wiki/There_Will_Be_Dungeons_Wiki). Loyalty/future alliance not assumed |
+| **Rasfer II** (goblin champion) | E006 ~00:01 GM recap identifying E005 goblin battle participant | Retrospective name from E006, **not documented as first spoken E005** |
+| **Jenjen** | E006 ~00:45–00:55 | Widow of former Hill Guard **Thomas**, upset at his death and the inconsistent accounts surrounding it. `Gen Gen` ASR alias |
+| **Aaron** | E006 ~00:58–01:06 | **Wilma's husband**, killed by Stanley in a night-time knife ambush. Stanley claims self-defense; Wilma later contests his actions |
+| **Wilma** | E006 ~01:35–01:52 | Farmer/community figure who confronts Stanley publicly, brandishes a gun; ultimately disarmed. No fair trial or settled legal finding yet |
+| **Tetsuo** | E006 ~01:20–01:35 | Tall half-orc associated with volunteer wall defense/militia. Challenges proposal that Jimster replace him; retains defense role when Jimster offers to help |
+| **Zorenthelas** | E006 ~01:30 and ~01:57–02:29 | Elven Scoutmaster. Speaker of claims about **Elhandar**, dragon hearts/engines and elves' skyward mission; accepts automaton's **data core** from Stanley. SRT `Xoranthulus`, `Zoranthulus`; [wiki E006 form](https://twbd.fandom.com/wiki/Episode_6) `Zorenthelas` |
+| **Shun'ti Stoutbarrel** | E006 ~01:19–01:31 | Takes temporary **townmaster** responsibility after Hillmaster's death; also translates Hope's wrench's Dwarven statements |
+| **Boxto** | E005 ~02:30 first map gift; E006 ~01:20–01:33 trading-policy meeting | Halfling trader, with family; name/surname `Boxto Rintolile` / `Boxto Lintorile` disputed even across wiki E006 text |
+| **Disoriented old man** | E006 ~02:48–03:10 | Fears mysterious lights; E007 ~00:30 Bok Bok drags him back after a beetle encounter. No confirmed personal name, origin or prophetic insight |
+| **Leopold** | E008 ~01:06 name disclosed; ~01:23–01:49 discussion/projection; ~02:59 threat | Claims to run a top-secret underground facility, controls doors and projected environment; denies being a computer. His actual nature and motives **unresolved** |
+| **Luminous/appealing entity and fiery voice(s)** | E006 ~01:43, E008 ~00:06–00:10 | Appear in Nash's private visions of the solar mines and offers/requests for power or release. **Do not merge into an established named character or treat visions as third-party verified history** |
+
+### Guest performers and characters (E008 onward)
+
+At **E008 ~00:00–00:02**, the host expressly states that **Kyle and Kristen are temporarily away** for two sessions, and that the guest participants introduce **different characters** rather than acting as Vorel and Hope. [Fan wiki main page](https://twbd.fandom.com/wiki/There_Will_Be_Dungeons_Wiki) lists them among `Sometimes Heroes`.
+
+| Real participant | Character | Evidence and notes |
+|---|---|---|
+| **Carter Johnson** | **Edison Manchester III** (SRT nickname **Eddie**, wiki **Eddy**) | E008 ~00:01 host introduction and ~00:16 in-character self-identification; **gnome** |
+| **Ben Bumhofer** | **Chance** | E008 ~00:01–00:02 host introduction and ~00:16 in-character self-identification; **gnome** |
+
+**Nash** remains associated with Scott Johnson, **Stanley** with Jon Jagger and the GM with Beau Schwartz. Guest appearances do not justify relabeling Kyle/Kristen's characters or propagating E008 `speaker N` labels to prior episodes.
