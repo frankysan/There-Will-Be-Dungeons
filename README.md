@@ -6,14 +6,16 @@ This package establishes a repeatable, **local-first** path from podcast audio t
 
 ## Start here
 
-1. [E000 — Introductions: readable transcript draft](transcripts/E000.readable-draft.md)
-2. [E001 — The Campaign Begins!: readable transcript draft](transcripts/E001.readable-draft.md)
+1. [E000 — Introductions: reader-edited draft](transcripts/E000.reader-draft.md) ([machine draft](transcripts/E000.readable-draft.md), [edit log](transcripts/E000.reader-edits.json))
+2. [E001 — The Campaign Begins!: reader-edited draft](transcripts/E001.reader-draft.md) ([machine draft](transcripts/E001.readable-draft.md), [edit log](transcripts/E001.reader-edits.json))
 3. [External sources and chronology policy](project/EXTERNAL_REFERENCES.md), [Project charter](project/PROJECT_CHARTER.md), [workflow](project/WORKFLOW.md), [editorial rules](project/EDITORIAL_GUIDE.md) and [decision log](project/DECISIONS.md), [model test record](project/MODEL_TESTS.md) and [roadmap](project/BACKLOG.md)
 4. [World reference index](world/README.md), [characters](world/CHARACTERS.md), [places](world/PLACES.md), [world history](world/WORLD.md), [chronology](world/CHRONOLOGY.md), and [consistency issues](world/CONSISTENCY_LEDGER.md), and [machine-readable entity index](world/entities.json)
 5. [Episode dossiers](episodes/E000.md) and [E001](episodes/E001.md)
 6. [Review queue](project/REVIEW_QUEUE.md), [automated file audit](reports/SRT_AUDIT.md), and [Qwen Q4/Q8/Canary variant evaluation](reports/QWEN_VARIANTS_2026-10-21.md)
 
 ## Important distinctions
+
+- The **reader-edited drafts** normalize source-supported spelling (e.g. Dusthill, Nash Maggard, Vorel, Jimster and Shun'ti) and the cast speaker name **Jon**, with every edit logged. They are still **not audio-proofread**; ambiguous speech such as “Orifi or Orify?” remains as recognized. The machine-derived drafts and all original SRTs stay unchanged.
 
 - **Readable draft** means subtitle lines have been grouped into paragraphs with named speakers and approximate timestamps. It does **not** mean every word or speaker boundary was checked against audio.
 - The text source for these drafts is the supplied **post-processed Parakeet TDT 1.1B SRT**. The original unprocessed Parakeet output and other tested outputs are in [`sources/`](sources/), unchanged in content.
@@ -24,16 +26,18 @@ This package establishes a repeatable, **local-first** path from podcast audio t
 
 ## Rebuild
 
-Python 3.10+ is sufficient; the script uses only the standard library.
+Python 3.10+ is sufficient; the scripts use only the standard library.
 
 ```bash
 python tools/build_transcripts.py
+python tools/build_reader_editions.py
+python -m unittest discover -s tests -p 'test_reader_editions.py'
 python tools/audit_sources.py
 # Optional: pip install rapidfuzz
 python tools/evaluate_qwen_variants.py
 ```
 
-Files produced by the first command: `transcripts/E000.readable-draft.md`, `transcripts/E001.readable-draft.md`, and `*.turns.json` containing original cue indexes for traceability. The second command creates `reports/SRT_AUDIT.md` and `reports/source_manifest.json`.
+The first command recreates the immutable machine-derived drafts; the second command recreates the *separate* wiki-spelling reader drafts and correction logs. Files produced by the first command: `transcripts/E000.readable-draft.md`, `transcripts/E001.readable-draft.md`, and `*.turns.json` containing original cue indexes for traceability. The second command creates `reports/SRT_AUDIT.md` and `reports/source_manifest.json`.
 
 The original MP3 files are **not** bundled in the archive, to avoid duplicating the large uploads. The manifest records their SHA-256 digests and file sizes when they were available to build the pilot. Keep them in a separately backed-up, read-only audio collection.
 

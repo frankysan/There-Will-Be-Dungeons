@@ -1,8 +1,8 @@
 # Places and locations
 
-## Dust Hill / Dusthill
+## Dusthill (ASR alias: Dust Hill)
 
-**Type:** Wasteland settlement. **Spelling status:** `Dust Hill` is a working editorial spelling; ASR variants include `Dusthill`.
+**Type:** Wasteland settlement. **Spelling status:** `Dusthill` is documented in the [wiki](https://twbd.fandom.com/wiki/There_Will_Be_Dungeons_Wiki). `Dust Hill` is retained as a transcription/search alias; speech has not been independently proofread.
 
 **Description:** Nestled in a partly enclosed rocky setting, with giant red rocks forming a natural protective barrier and winding entrance; has gates and defensive positions. Its residents include farmers, workers, mechanics, defenders and people from different ancestries. The community is governed by a lineage of Hillmasters, with established traditions of cooperation and accepting outsiders after vetting. **Source:** E001 00:05:12–00:06:45 (GM exposition).
 
@@ -10,7 +10,7 @@
 
 **Episode 1 significance:** The party assembles here, receives an invitation to the Hillmaster's feast, and becomes involved in a crisis when the water system stops working. **Sources:** E001 00:08:51–00:50:00, 02:08:09–02:12:00.
 
-## Dust Hill's well / water system
+## Dusthill's well / water system
 
 **Type:** Infrastructure, probably connected to ancient subterranean pumps.
 
@@ -20,7 +20,7 @@
 
 **Reference warning:** Whether the installation is literally a 'well' or a pump-fed water outlet is clarified in the session; use `water system` for neutral references.
 
-## Dust Hill garage
+## Dusthill garage
 
 **Type:** Settlement workshop.
 

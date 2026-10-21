@@ -1,0 +1,2982 @@
+{
+  "schema_version": 1,
+  "episode": "E001",
+  "source_machine_draft": "transcripts/E001.readable-draft.md",
+  "source_git_blob_sha": "a091344f011a717e7ef01058aa2bfbba0eb03a0a",
+  "output_reader_draft": "transcripts/E001.reader-draft.md",
+  "verification": "wiki-spelling-supported; audio still unverified",
+  "wiki_main_url": "https://twbd.fandom.com/wiki/There_Will_Be_Dungeons_Wiki",
+  "editing_rules": "Only recognized proper names and speaker label Jon are normalized; ambiguous phonetic dialogue is preserved.",
+  "counts": {
+    "jon-jagger": 1,
+    "cast-speaker-jon": 281,
+    "dusthill": 24,
+    "jimster": 2,
+    "shunti": 2,
+    "vorel-given": 14,
+    "nash-surname": 5
+  },
+  "edits": [
+    {
+      "rule": "jon-jagger",
+      "field": "speech",
+      "from": "John Jagger",
+      "to": "Jon Jagger",
+      "time": "00:01:50",
+      "source_line": 40,
+      "source_url": "https://twbd.fandom.com/wiki/There_Will_Be_Dungeons_Wiki"
+    },
+    {
+      "rule": "cast-speaker-jon",
+      "field": "speaker",
+      "from": "John",
+      "to": "Jon",
+      "time": "00:01:54",
+      "source_line": 42,
+      "source_url": "https://twbd.fandom.com/wiki/There_Will_Be_Dungeons_Wiki"
+    },
+    {
+      "rule": "cast-speaker-jon",
+      "field": "speaker",
+      "from": "John",
+      "to": "Jon",
+      "time": "00:01:56",
+      "source_line": 46,
+      "source_url": "https://twbd.fandom.com/wiki/There_Will_Be_Dungeons_Wiki"
+    },
+    {
+      "rule": "cast-speaker-jon",
+      "field": "speaker",
+      "from": "John",
+      "to": "Jon",
+      "time": "00:04:13",
+      "source_line": 72,
+      "source_url": "https://twbd.fandom.com/wiki/There_Will_Be_Dungeons_Wiki"
+    },
+    {
+      "rule": "dusthill",
+      "field": "speech",
+      "from": "Dust Hill",
+      "to": "Dusthill",
+      "time": "00:04:37",
+      "source_line": 78,
+      "source_url": "https://twbd.fandom.com/wiki/There_Will_Be_Dungeons_Wiki"
+    },
+    {
+      "rule": "dusthill",
+      "field": "speech",
+      "from": "Dust Hill",
+      "to": "Dusthill",
+      "time": "00:04:37",
+      "source_line": 78,
+      "source_url": "https://twbd.fandom.com/wiki/There_Will_Be_Dungeons_Wiki"
+    },
+    {
+      "rule": "dusthill",
+      "field": "speech",
+      "from": "Dust Hill",
+      "to": "Dusthill",
+      "time": "00:06:31",
+      "source_line": 86,
+      "source_url": "https://twbd.fandom.com/wiki/There_Will_Be_Dungeons_Wiki"
+    },
+    {
+      "rule": "dusthill",
+      "field": "speech",
+      "from": "Dust Hill",
+      "to": "Dusthill",
+      "time": "00:06:31",
+      "source_line": 86,
+      "source_url": "https://twbd.fandom.com/wiki/There_Will_Be_Dungeons_Wiki"
+    },
+    {
+      "rule": "dusthill",
+      "field": "speech",
+      "from": "Dust Hill",
+      "to": "Dusthill",
+      "time": "00:07:41",
+      "source_line": 90,
+      "source_url": "https://twbd.fandom.com/wiki/There_Will_Be_Dungeons_Wiki"
+    },
+    {
+      "rule": "dusthill",
+      "field": "speech",
+      "from": "Dust Hill",
+      "to": "Dusthill",
+      "time": "00:07:41",
+      "source_line": 90,
+      "source_url": "https://twbd.fandom.com/wiki/There_Will_Be_Dungeons_Wiki"
+    },
+    {
+      "rule": "dusthill",
+      "field": "speech",
+      "from": "Dust Hill",
+      "to": "Dusthill",
+      "time": "00:08:20",
+      "source_line": 92,
+      "source_url": "https://twbd.fandom.com/wiki/There_Will_Be_Dungeons_Wiki"
+    },
+    {
+      "rule": "dusthill",
+      "field": "speech",
+      "from": "Dust Hill",
+      "to": "Dusthill",
+      "time": "00:09:15",
+      "source_line": 102,
+      "source_url": "https://twbd.fandom.com/wiki/There_Will_Be_Dungeons_Wiki"
+    },
+    {
+      "rule": "cast-speaker-jon",
+      "field": "speaker",
+      "from": "John",
+      "to": "Jon",
+      "time": "00:09:24",
+      "source_line": 104,
+      "source_url": "https://twbd.fandom.com/wiki/There_Will_Be_Dungeons_Wiki"
+    },
+    {
+      "rule": "dusthill",
+      "field": "speech",
+      "from": "Dust Hill",
+      "to": "Dusthill",
+      "time": "00:09:24",
+      "source_line": 104,
+      "source_url": "https://twbd.fandom.com/wiki/There_Will_Be_Dungeons_Wiki"
+    },
+    {
+      "rule": "cast-speaker-jon",
+      "field": "speaker",
+      "from": "John",
+      "to": "Jon",
+      "time": "00:10:03",
+      "source_line": 111,
+      "source_url": "https://twbd.fandom.com/wiki/There_Will_Be_Dungeons_Wiki"
+    },
+    {
+      "rule": "cast-speaker-jon",
+      "field": "speaker",
+      "from": "John",
+      "to": "Jon",
+      "time": "00:10:18",
+      "source_line": 125,
+      "source_url": "https://twbd.fandom.com/wiki/There_Will_Be_Dungeons_Wiki"
+    },
+    {
+      "rule": "cast-speaker-jon",
+      "field": "speaker",
+      "from": "John",
+      "to": "Jon",
+      "time": "00:11:33",
+      "source_line": 143,
+      "source_url": "https://twbd.fandom.com/wiki/There_Will_Be_Dungeons_Wiki"
+    },
+    {
+      "rule": "cast-speaker-jon",
+      "field": "speaker",
+      "from": "John",
+      "to": "Jon",
+      "time": "00:11:39",
+      "source_line": 147,
+      "source_url": "https://twbd.fandom.com/wiki/There_Will_Be_Dungeons_Wiki"
+    },
+    {
+      "rule": "dusthill",
+      "field": "speech",
+      "from": "Dust Hill",
+      "to": "Dusthill",
+      "time": "00:11:39",
+      "source_line": 147,
+      "source_url": "https://twbd.fandom.com/wiki/There_Will_Be_Dungeons_Wiki"
+    },
+    {
+      "rule": "cast-speaker-jon",
+      "field": "speaker",
+      "from": "John",
+      "to": "Jon",
+      "time": "00:12:15",
+      "source_line": 151,
+      "source_url": "https://twbd.fandom.com/wiki/There_Will_Be_Dungeons_Wiki"
+    },
+    {
+      "rule": "cast-speaker-jon",
+      "field": "speaker",
+      "from": "John",
+      "to": "Jon",
+      "time": "00:12:36",
+      "source_line": 155,
+      "source_url": "https://twbd.fandom.com/wiki/There_Will_Be_Dungeons_Wiki"
+    },
+    {
+      "rule": "cast-speaker-jon",
+      "field": "speaker",
+      "from": "John",
+      "to": "Jon",
+      "time": "00:12:49",
+      "source_line": 159,
+      "source_url": "https://twbd.fandom.com/wiki/There_Will_Be_Dungeons_Wiki"
+    },
+    {
+      "rule": "cast-speaker-jon",
+      "field": "speaker",
+      "from": "John",
+      "to": "Jon",
+      "time": "00:13:11",
+      "source_line": 165,
+      "source_url": "https://twbd.fandom.com/wiki/There_Will_Be_Dungeons_Wiki"
+    },
+    {
+      "rule": "cast-speaker-jon",
+      "field": "speaker",
+      "from": "John",
+      "to": "Jon",
+      "time": "00:13:17",
+      "source_line": 169,
+      "source_url": "https://twbd.fandom.com/wiki/There_Will_Be_Dungeons_Wiki"
+    },
+    {
+      "rule": "cast-speaker-jon",
+      "field": "speaker",
+      "from": "John",
+      "to": "Jon",
+      "time": "00:13:35",
+      "source_line": 173,
+      "source_url": "https://twbd.fandom.com/wiki/There_Will_Be_Dungeons_Wiki"
+    },
+    {
+      "rule": "cast-speaker-jon",
+      "field": "speaker",
+      "from": "John",
+      "to": "Jon",
+      "time": "00:13:57",
+      "source_line": 177,
+      "source_url": "https://twbd.fandom.com/wiki/There_Will_Be_Dungeons_Wiki"
+    },
+    {
+      "rule": "cast-speaker-jon",
+      "field": "speaker",
+      "from": "John",
+      "to": "Jon",
+      "time": "00:14:10",
+      "source_line": 183,
+      "source_url": "https://twbd.fandom.com/wiki/There_Will_Be_Dungeons_Wiki"
+    },
+    {
+      "rule": "cast-speaker-jon",
+      "field": "speaker",
+      "from": "John",
+      "to": "Jon",
+      "time": "00:14:17",
+      "source_line": 187,
+      "source_url": "https://twbd.fandom.com/wiki/There_Will_Be_Dungeons_Wiki"
+    },
+    {
+      "rule": "cast-speaker-jon",
+      "field": "speaker",
+      "from": "John",
+      "to": "Jon",
+      "time": "00:14:30",
+      "source_line": 191,
+      "source_url": "https://twbd.fandom.com/wiki/There_Will_Be_Dungeons_Wiki"
+    },
+    {
+      "rule": "cast-speaker-jon",
+      "field": "speaker",
+      "from": "John",
+      "to": "Jon",
+      "time": "00:14:45",
+      "source_line": 195,
+      "source_url": "https://twbd.fandom.com/wiki/There_Will_Be_Dungeons_Wiki"
+    },
+    {
+      "rule": "cast-speaker-jon",
+      "field": "speaker",
+      "from": "John",
+      "to": "Jon",
+      "time": "00:15:06",
+      "source_line": 199,
+      "source_url": "https://twbd.fandom.com/wiki/There_Will_Be_Dungeons_Wiki"
+    },
+    {
+      "rule": "cast-speaker-jon",
+      "field": "speaker",
+      "from": "John",
+      "to": "Jon",
+      "time": "00:15:23",
+      "source_line": 203,
+      "source_url": "https://twbd.fandom.com/wiki/There_Will_Be_Dungeons_Wiki"
+    },
+    {
+      "rule": "cast-speaker-jon",
+      "field": "speaker",
+      "from": "John",
+      "to": "Jon",
+      "time": "00:15:29",
+      "source_line": 207,
+      "source_url": "https://twbd.fandom.com/wiki/There_Will_Be_Dungeons_Wiki"
+    },
+    {
+      "rule": "dusthill",
+      "field": "speech",
+      "from": "Dust Hill",
+      "to": "Dusthill",
+      "time": "00:15:43",
+      "source_line": 217,
+      "source_url": "https://twbd.fandom.com/wiki/There_Will_Be_Dungeons_Wiki"
+    },
+    {
+      "rule": "dusthill",
+      "field": "speech",
+      "from": "Dust Hill",
+      "to": "Dusthill",
+      "time": "00:15:43",
+      "source_line": 217,
+      "source_url": "https://twbd.fandom.com/wiki/There_Will_Be_Dungeons_Wiki"
+    },
+    {
+      "rule": "dusthill",
+      "field": "speech",
+      "from": "Dust Hill",
+      "to": "Dusthill",
+      "time": "00:16:02",
+      "source_line": 219,
+      "source_url": "https://twbd.fandom.com/wiki/There_Will_Be_Dungeons_Wiki"
+    },
+    {
+      "rule": "jimster",
+      "field": "speech",
+      "from": "Gimster",
+      "to": "Jimster",
+      "time": "00:17:58",
+      "source_line": 237,
+      "source_url": "https://twbd.fandom.com/wiki/Episode_6"
+    },
+    {
+      "rule": "jimster",
+      "field": "speech",
+      "from": "gymster",
+      "to": "jimster",
+      "time": "00:17:58",
+      "source_line": 237,
+      "source_url": "https://twbd.fandom.com/wiki/Episode_6"
+    },
+    {
+      "rule": "cast-speaker-jon",
+      "field": "speaker",
+      "from": "John",
+      "to": "Jon",
+      "time": "00:19:11",
+      "source_line": 253,
+      "source_url": "https://twbd.fandom.com/wiki/There_Will_Be_Dungeons_Wiki"
+    },
+    {
+      "rule": "cast-speaker-jon",
+      "field": "speaker",
+      "from": "John",
+      "to": "Jon",
+      "time": "00:19:34",
+      "source_line": 261,
+      "source_url": "https://twbd.fandom.com/wiki/There_Will_Be_Dungeons_Wiki"
+    },
+    {
+      "rule": "cast-speaker-jon",
+      "field": "speaker",
+      "from": "John",
+      "to": "Jon",
+      "time": "00:20:05",
+      "source_line": 268,
+      "source_url": "https://twbd.fandom.com/wiki/There_Will_Be_Dungeons_Wiki"
+    },
+    {
+      "rule": "cast-speaker-jon",
+      "field": "speaker",
+      "from": "John",
+      "to": "Jon",
+      "time": "00:20:19",
+      "source_line": 272,
+      "source_url": "https://twbd.fandom.com/wiki/There_Will_Be_Dungeons_Wiki"
+    },
+    {
+      "rule": "cast-speaker-jon",
+      "field": "speaker",
+      "from": "John",
+      "to": "Jon",
+      "time": "00:20:58",
+      "source_line": 290,
+      "source_url": "https://twbd.fandom.com/wiki/There_Will_Be_Dungeons_Wiki"
+    },
+    {
+      "rule": "cast-speaker-jon",
+      "field": "speaker",
+      "from": "John",
+      "to": "Jon",
+      "time": "00:21:22",
+      "source_line": 298,
+      "source_url": "https://twbd.fandom.com/wiki/There_Will_Be_Dungeons_Wiki"
+    },
+    {
+      "rule": "cast-speaker-jon",
+      "field": "speaker",
+      "from": "John",
+      "to": "Jon",
+      "time": "00:21:31",
+      "source_line": 302,
+      "source_url": "https://twbd.fandom.com/wiki/There_Will_Be_Dungeons_Wiki"
+    },
+    {
+      "rule": "dusthill",
+      "field": "speech",
+      "from": "Dust Hill",
+      "to": "Dusthill",
+      "time": "00:21:46",
+      "source_line": 306,
+      "source_url": "https://twbd.fandom.com/wiki/There_Will_Be_Dungeons_Wiki"
+    },
+    {
+      "rule": "cast-speaker-jon",
+      "field": "speaker",
+      "from": "John",
+      "to": "Jon",
+      "time": "00:22:22",
+      "source_line": 316,
+      "source_url": "https://twbd.fandom.com/wiki/There_Will_Be_Dungeons_Wiki"
+    },
+    {
+      "rule": "cast-speaker-jon",
+      "field": "speaker",
+      "from": "John",
+      "to": "Jon",
+      "time": "00:23:16",
+      "source_line": 328,
+      "source_url": "https://twbd.fandom.com/wiki/There_Will_Be_Dungeons_Wiki"
+    },
+    {
+      "rule": "cast-speaker-jon",
+      "field": "speaker",
+      "from": "John",
+      "to": "Jon",
+      "time": "00:24:46",
+      "source_line": 350,
+      "source_url": "https://twbd.fandom.com/wiki/There_Will_Be_Dungeons_Wiki"
+    },
+    {
+      "rule": "cast-speaker-jon",
+      "field": "speaker",
+      "from": "John",
+      "to": "Jon",
+      "time": "00:25:00",
+      "source_line": 354,
+      "source_url": "https://twbd.fandom.com/wiki/There_Will_Be_Dungeons_Wiki"
+    },
+    {
+      "rule": "cast-speaker-jon",
+      "field": "speaker",
+      "from": "John",
+      "to": "Jon",
+      "time": "00:25:20",
+      "source_line": 358,
+      "source_url": "https://twbd.fandom.com/wiki/There_Will_Be_Dungeons_Wiki"
+    },
+    {
+      "rule": "cast-speaker-jon",
+      "field": "speaker",
+      "from": "John",
+      "to": "Jon",
+      "time": "00:25:44",
+      "source_line": 368,
+      "source_url": "https://twbd.fandom.com/wiki/There_Will_Be_Dungeons_Wiki"
+    },
+    {
+      "rule": "cast-speaker-jon",
+      "field": "speaker",
+      "from": "John",
+      "to": "Jon",
+      "time": "00:26:14",
+      "source_line": 374,
+      "source_url": "https://twbd.fandom.com/wiki/There_Will_Be_Dungeons_Wiki"
+    },
+    {
+      "rule": "cast-speaker-jon",
+      "field": "speaker",
+      "from": "John",
+      "to": "Jon",
+      "time": "00:26:24",
+      "source_line": 378,
+      "source_url": "https://twbd.fandom.com/wiki/There_Will_Be_Dungeons_Wiki"
+    },
+    {
+      "rule": "cast-speaker-jon",
+      "field": "speaker",
+      "from": "John",
+      "to": "Jon",
+      "time": "00:26:30",
+      "source_line": 382,
+      "source_url": "https://twbd.fandom.com/wiki/There_Will_Be_Dungeons_Wiki"
+    },
+    {
+      "rule": "cast-speaker-jon",
+      "field": "speaker",
+      "from": "John",
+      "to": "Jon",
+      "time": "00:26:34",
+      "source_line": 386,
+      "source_url": "https://twbd.fandom.com/wiki/There_Will_Be_Dungeons_Wiki"
+    },
+    {
+      "rule": "cast-speaker-jon",
+      "field": "speaker",
+      "from": "John",
+      "to": "Jon",
+      "time": "00:27:06",
+      "source_line": 390,
+      "source_url": "https://twbd.fandom.com/wiki/There_Will_Be_Dungeons_Wiki"
+    },
+    {
+      "rule": "cast-speaker-jon",
+      "field": "speaker",
+      "from": "John",
+      "to": "Jon",
+      "time": "00:27:26",
+      "source_line": 398,
+      "source_url": "https://twbd.fandom.com/wiki/There_Will_Be_Dungeons_Wiki"
+    },
+    {
+      "rule": "dusthill",
+      "field": "speech",
+      "from": "Dust Hill",
+      "to": "Dusthill",
+      "time": "00:27:26",
+      "source_line": 398,
+      "source_url": "https://twbd.fandom.com/wiki/There_Will_Be_Dungeons_Wiki"
+    },
+    {
+      "rule": "cast-speaker-jon",
+      "field": "speaker",
+      "from": "John",
+      "to": "Jon",
+      "time": "00:28:05",
+      "source_line": 400,
+      "source_url": "https://twbd.fandom.com/wiki/There_Will_Be_Dungeons_Wiki"
+    },
+    {
+      "rule": "cast-speaker-jon",
+      "field": "speaker",
+      "from": "John",
+      "to": "Jon",
+      "time": "00:28:52",
+      "source_line": 412,
+      "source_url": "https://twbd.fandom.com/wiki/There_Will_Be_Dungeons_Wiki"
+    },
+    {
+      "rule": "cast-speaker-jon",
+      "field": "speaker",
+      "from": "John",
+      "to": "Jon",
+      "time": "00:29:33",
+      "source_line": 426,
+      "source_url": "https://twbd.fandom.com/wiki/There_Will_Be_Dungeons_Wiki"
+    },
+    {
+      "rule": "cast-speaker-jon",
+      "field": "speaker",
+      "from": "John",
+      "to": "Jon",
+      "time": "00:30:06",
+      "source_line": 433,
+      "source_url": "https://twbd.fandom.com/wiki/There_Will_Be_Dungeons_Wiki"
+    },
+    {
+      "rule": "cast-speaker-jon",
+      "field": "speaker",
+      "from": "John",
+      "to": "Jon",
+      "time": "00:30:15",
+      "source_line": 437,
+      "source_url": "https://twbd.fandom.com/wiki/There_Will_Be_Dungeons_Wiki"
+    },
+    {
+      "rule": "cast-speaker-jon",
+      "field": "speaker",
+      "from": "John",
+      "to": "Jon",
+      "time": "00:31:08",
+      "source_line": 449,
+      "source_url": "https://twbd.fandom.com/wiki/There_Will_Be_Dungeons_Wiki"
+    },
+    {
+      "rule": "dusthill",
+      "field": "speech",
+      "from": "Dust Hill",
+      "to": "Dusthill",
+      "time": "00:32:28",
+      "source_line": 471,
+      "source_url": "https://twbd.fandom.com/wiki/There_Will_Be_Dungeons_Wiki"
+    },
+    {
+      "rule": "dusthill",
+      "field": "speech",
+      "from": "Dust Hill",
+      "to": "Dusthill",
+      "time": "00:33:03",
+      "source_line": 477,
+      "source_url": "https://twbd.fandom.com/wiki/There_Will_Be_Dungeons_Wiki"
+    },
+    {
+      "rule": "cast-speaker-jon",
+      "field": "speaker",
+      "from": "John",
+      "to": "Jon",
+      "time": "00:34:26",
+      "source_line": 487,
+      "source_url": "https://twbd.fandom.com/wiki/There_Will_Be_Dungeons_Wiki"
+    },
+    {
+      "rule": "cast-speaker-jon",
+      "field": "speaker",
+      "from": "John",
+      "to": "Jon",
+      "time": "00:34:50",
+      "source_line": 491,
+      "source_url": "https://twbd.fandom.com/wiki/There_Will_Be_Dungeons_Wiki"
+    },
+    {
+      "rule": "cast-speaker-jon",
+      "field": "speaker",
+      "from": "John",
+      "to": "Jon",
+      "time": "00:36:23",
+      "source_line": 513,
+      "source_url": "https://twbd.fandom.com/wiki/There_Will_Be_Dungeons_Wiki"
+    },
+    {
+      "rule": "cast-speaker-jon",
+      "field": "speaker",
+      "from": "John",
+      "to": "Jon",
+      "time": "00:36:50",
+      "source_line": 521,
+      "source_url": "https://twbd.fandom.com/wiki/There_Will_Be_Dungeons_Wiki"
+    },
+    {
+      "rule": "cast-speaker-jon",
+      "field": "speaker",
+      "from": "John",
+      "to": "Jon",
+      "time": "00:37:09",
+      "source_line": 525,
+      "source_url": "https://twbd.fandom.com/wiki/There_Will_Be_Dungeons_Wiki"
+    },
+    {
+      "rule": "cast-speaker-jon",
+      "field": "speaker",
+      "from": "John",
+      "to": "Jon",
+      "time": "00:37:43",
+      "source_line": 535,
+      "source_url": "https://twbd.fandom.com/wiki/There_Will_Be_Dungeons_Wiki"
+    },
+    {
+      "rule": "cast-speaker-jon",
+      "field": "speaker",
+      "from": "John",
+      "to": "Jon",
+      "time": "00:37:57",
+      "source_line": 539,
+      "source_url": "https://twbd.fandom.com/wiki/There_Will_Be_Dungeons_Wiki"
+    },
+    {
+      "rule": "cast-speaker-jon",
+      "field": "speaker",
+      "from": "John",
+      "to": "Jon",
+      "time": "00:38:01",
+      "source_line": 543,
+      "source_url": "https://twbd.fandom.com/wiki/There_Will_Be_Dungeons_Wiki"
+    },
+    {
+      "rule": "cast-speaker-jon",
+      "field": "speaker",
+      "from": "John",
+      "to": "Jon",
+      "time": "00:38:19",
+      "source_line": 547,
+      "source_url": "https://twbd.fandom.com/wiki/There_Will_Be_Dungeons_Wiki"
+    },
+    {
+      "rule": "cast-speaker-jon",
+      "field": "speaker",
+      "from": "John",
+      "to": "Jon",
+      "time": "00:38:25",
+      "source_line": 551,
+      "source_url": "https://twbd.fandom.com/wiki/There_Will_Be_Dungeons_Wiki"
+    },
+    {
+      "rule": "cast-speaker-jon",
+      "field": "speaker",
+      "from": "John",
+      "to": "Jon",
+      "time": "00:39:00",
+      "source_line": 557,
+      "source_url": "https://twbd.fandom.com/wiki/There_Will_Be_Dungeons_Wiki"
+    },
+    {
+      "rule": "cast-speaker-jon",
+      "field": "speaker",
+      "from": "John",
+      "to": "Jon",
+      "time": "00:39:21",
+      "source_line": 561,
+      "source_url": "https://twbd.fandom.com/wiki/There_Will_Be_Dungeons_Wiki"
+    },
+    {
+      "rule": "cast-speaker-jon",
+      "field": "speaker",
+      "from": "John",
+      "to": "Jon",
+      "time": "00:39:41",
+      "source_line": 581,
+      "source_url": "https://twbd.fandom.com/wiki/There_Will_Be_Dungeons_Wiki"
+    },
+    {
+      "rule": "cast-speaker-jon",
+      "field": "speaker",
+      "from": "John",
+      "to": "Jon",
+      "time": "00:39:55",
+      "source_line": 587,
+      "source_url": "https://twbd.fandom.com/wiki/There_Will_Be_Dungeons_Wiki"
+    },
+    {
+      "rule": "shunti",
+      "field": "speech",
+      "from": "Shun T",
+      "to": "Shun'ti",
+      "time": "00:41:22",
+      "source_line": 606,
+      "source_url": "https://twbd.fandom.com/wiki/Episode_6"
+    },
+    {
+      "rule": "cast-speaker-jon",
+      "field": "speaker",
+      "from": "John",
+      "to": "Jon",
+      "time": "00:41:51",
+      "source_line": 614,
+      "source_url": "https://twbd.fandom.com/wiki/There_Will_Be_Dungeons_Wiki"
+    },
+    {
+      "rule": "cast-speaker-jon",
+      "field": "speaker",
+      "from": "John",
+      "to": "Jon",
+      "time": "00:42:09",
+      "source_line": 626,
+      "source_url": "https://twbd.fandom.com/wiki/There_Will_Be_Dungeons_Wiki"
+    },
+    {
+      "rule": "cast-speaker-jon",
+      "field": "speaker",
+      "from": "John",
+      "to": "Jon",
+      "time": "00:42:55",
+      "source_line": 640,
+      "source_url": "https://twbd.fandom.com/wiki/There_Will_Be_Dungeons_Wiki"
+    },
+    {
+      "rule": "cast-speaker-jon",
+      "field": "speaker",
+      "from": "John",
+      "to": "Jon",
+      "time": "00:43:31",
+      "source_line": 648,
+      "source_url": "https://twbd.fandom.com/wiki/There_Will_Be_Dungeons_Wiki"
+    },
+    {
+      "rule": "dusthill",
+      "field": "speech",
+      "from": "Dust Hill",
+      "to": "Dusthill",
+      "time": "00:44:29",
+      "source_line": 666,
+      "source_url": "https://twbd.fandom.com/wiki/There_Will_Be_Dungeons_Wiki"
+    },
+    {
+      "rule": "cast-speaker-jon",
+      "field": "speaker",
+      "from": "John",
+      "to": "Jon",
+      "time": "00:46:39",
+      "source_line": 700,
+      "source_url": "https://twbd.fandom.com/wiki/There_Will_Be_Dungeons_Wiki"
+    },
+    {
+      "rule": "cast-speaker-jon",
+      "field": "speaker",
+      "from": "John",
+      "to": "Jon",
+      "time": "00:47:05",
+      "source_line": 714,
+      "source_url": "https://twbd.fandom.com/wiki/There_Will_Be_Dungeons_Wiki"
+    },
+    {
+      "rule": "cast-speaker-jon",
+      "field": "speaker",
+      "from": "John",
+      "to": "Jon",
+      "time": "00:47:49",
+      "source_line": 728,
+      "source_url": "https://twbd.fandom.com/wiki/There_Will_Be_Dungeons_Wiki"
+    },
+    {
+      "rule": "cast-speaker-jon",
+      "field": "speaker",
+      "from": "John",
+      "to": "Jon",
+      "time": "00:48:14",
+      "source_line": 736,
+      "source_url": "https://twbd.fandom.com/wiki/There_Will_Be_Dungeons_Wiki"
+    },
+    {
+      "rule": "cast-speaker-jon",
+      "field": "speaker",
+      "from": "John",
+      "to": "Jon",
+      "time": "00:48:54",
+      "source_line": 746,
+      "source_url": "https://twbd.fandom.com/wiki/There_Will_Be_Dungeons_Wiki"
+    },
+    {
+      "rule": "dusthill",
+      "field": "speech",
+      "from": "Dust Hill",
+      "to": "Dusthill",
+      "time": "00:49:09",
+      "source_line": 760,
+      "source_url": "https://twbd.fandom.com/wiki/There_Will_Be_Dungeons_Wiki"
+    },
+    {
+      "rule": "vorel-given",
+      "field": "speech",
+      "from": "Varel",
+      "to": "Vorel",
+      "time": "00:50:18",
+      "source_line": 765,
+      "source_url": "https://twbd.fandom.com/wiki/There_Will_Be_Dungeons_Wiki"
+    },
+    {
+      "rule": "cast-speaker-jon",
+      "field": "speaker",
+      "from": "John",
+      "to": "Jon",
+      "time": "00:50:24",
+      "source_line": 767,
+      "source_url": "https://twbd.fandom.com/wiki/There_Will_Be_Dungeons_Wiki"
+    },
+    {
+      "rule": "vorel-given",
+      "field": "speech",
+      "from": "Varel",
+      "to": "Vorel",
+      "time": "00:50:24",
+      "source_line": 767,
+      "source_url": "https://twbd.fandom.com/wiki/There_Will_Be_Dungeons_Wiki"
+    },
+    {
+      "rule": "cast-speaker-jon",
+      "field": "speaker",
+      "from": "John",
+      "to": "Jon",
+      "time": "00:50:36",
+      "source_line": 771,
+      "source_url": "https://twbd.fandom.com/wiki/There_Will_Be_Dungeons_Wiki"
+    },
+    {
+      "rule": "cast-speaker-jon",
+      "field": "speaker",
+      "from": "John",
+      "to": "Jon",
+      "time": "00:51:04",
+      "source_line": 783,
+      "source_url": "https://twbd.fandom.com/wiki/There_Will_Be_Dungeons_Wiki"
+    },
+    {
+      "rule": "cast-speaker-jon",
+      "field": "speaker",
+      "from": "John",
+      "to": "Jon",
+      "time": "00:51:19",
+      "source_line": 787,
+      "source_url": "https://twbd.fandom.com/wiki/There_Will_Be_Dungeons_Wiki"
+    },
+    {
+      "rule": "cast-speaker-jon",
+      "field": "speaker",
+      "from": "John",
+      "to": "Jon",
+      "time": "00:51:34",
+      "source_line": 793,
+      "source_url": "https://twbd.fandom.com/wiki/There_Will_Be_Dungeons_Wiki"
+    },
+    {
+      "rule": "vorel-given",
+      "field": "speech",
+      "from": "Varel",
+      "to": "Vorel",
+      "time": "00:51:35",
+      "source_line": 795,
+      "source_url": "https://twbd.fandom.com/wiki/There_Will_Be_Dungeons_Wiki"
+    },
+    {
+      "rule": "cast-speaker-jon",
+      "field": "speaker",
+      "from": "John",
+      "to": "Jon",
+      "time": "00:51:37",
+      "source_line": 797,
+      "source_url": "https://twbd.fandom.com/wiki/There_Will_Be_Dungeons_Wiki"
+    },
+    {
+      "rule": "cast-speaker-jon",
+      "field": "speaker",
+      "from": "John",
+      "to": "Jon",
+      "time": "00:51:51",
+      "source_line": 805,
+      "source_url": "https://twbd.fandom.com/wiki/There_Will_Be_Dungeons_Wiki"
+    },
+    {
+      "rule": "cast-speaker-jon",
+      "field": "speaker",
+      "from": "John",
+      "to": "Jon",
+      "time": "00:52:27",
+      "source_line": 809,
+      "source_url": "https://twbd.fandom.com/wiki/There_Will_Be_Dungeons_Wiki"
+    },
+    {
+      "rule": "cast-speaker-jon",
+      "field": "speaker",
+      "from": "John",
+      "to": "Jon",
+      "time": "00:52:33",
+      "source_line": 815,
+      "source_url": "https://twbd.fandom.com/wiki/There_Will_Be_Dungeons_Wiki"
+    },
+    {
+      "rule": "cast-speaker-jon",
+      "field": "speaker",
+      "from": "John",
+      "to": "Jon",
+      "time": "00:53:50",
+      "source_line": 835,
+      "source_url": "https://twbd.fandom.com/wiki/There_Will_Be_Dungeons_Wiki"
+    },
+    {
+      "rule": "cast-speaker-jon",
+      "field": "speaker",
+      "from": "John",
+      "to": "Jon",
+      "time": "00:54:11",
+      "source_line": 839,
+      "source_url": "https://twbd.fandom.com/wiki/There_Will_Be_Dungeons_Wiki"
+    },
+    {
+      "rule": "cast-speaker-jon",
+      "field": "speaker",
+      "from": "John",
+      "to": "Jon",
+      "time": "00:54:53",
+      "source_line": 843,
+      "source_url": "https://twbd.fandom.com/wiki/There_Will_Be_Dungeons_Wiki"
+    },
+    {
+      "rule": "cast-speaker-jon",
+      "field": "speaker",
+      "from": "John",
+      "to": "Jon",
+      "time": "00:55:21",
+      "source_line": 847,
+      "source_url": "https://twbd.fandom.com/wiki/There_Will_Be_Dungeons_Wiki"
+    },
+    {
+      "rule": "cast-speaker-jon",
+      "field": "speaker",
+      "from": "John",
+      "to": "Jon",
+      "time": "00:55:37",
+      "source_line": 851,
+      "source_url": "https://twbd.fandom.com/wiki/There_Will_Be_Dungeons_Wiki"
+    },
+    {
+      "rule": "cast-speaker-jon",
+      "field": "speaker",
+      "from": "John",
+      "to": "Jon",
+      "time": "00:55:47",
+      "source_line": 855,
+      "source_url": "https://twbd.fandom.com/wiki/There_Will_Be_Dungeons_Wiki"
+    },
+    {
+      "rule": "cast-speaker-jon",
+      "field": "speaker",
+      "from": "John",
+      "to": "Jon",
+      "time": "00:56:11",
+      "source_line": 859,
+      "source_url": "https://twbd.fandom.com/wiki/There_Will_Be_Dungeons_Wiki"
+    },
+    {
+      "rule": "cast-speaker-jon",
+      "field": "speaker",
+      "from": "John",
+      "to": "Jon",
+      "time": "00:56:19",
+      "source_line": 863,
+      "source_url": "https://twbd.fandom.com/wiki/There_Will_Be_Dungeons_Wiki"
+    },
+    {
+      "rule": "cast-speaker-jon",
+      "field": "speaker",
+      "from": "John",
+      "to": "Jon",
+      "time": "00:57:06",
+      "source_line": 887,
+      "source_url": "https://twbd.fandom.com/wiki/There_Will_Be_Dungeons_Wiki"
+    },
+    {
+      "rule": "cast-speaker-jon",
+      "field": "speaker",
+      "from": "John",
+      "to": "Jon",
+      "time": "00:57:16",
+      "source_line": 891,
+      "source_url": "https://twbd.fandom.com/wiki/There_Will_Be_Dungeons_Wiki"
+    },
+    {
+      "rule": "vorel-given",
+      "field": "speech",
+      "from": "Varel",
+      "to": "Vorel",
+      "time": "00:57:25",
+      "source_line": 899,
+      "source_url": "https://twbd.fandom.com/wiki/There_Will_Be_Dungeons_Wiki"
+    },
+    {
+      "rule": "cast-speaker-jon",
+      "field": "speaker",
+      "from": "John",
+      "to": "Jon",
+      "time": "00:57:37",
+      "source_line": 905,
+      "source_url": "https://twbd.fandom.com/wiki/There_Will_Be_Dungeons_Wiki"
+    },
+    {
+      "rule": "vorel-given",
+      "field": "speech",
+      "from": "Varel",
+      "to": "Vorel",
+      "time": "00:57:39",
+      "source_line": 907,
+      "source_url": "https://twbd.fandom.com/wiki/There_Will_Be_Dungeons_Wiki"
+    },
+    {
+      "rule": "cast-speaker-jon",
+      "field": "speaker",
+      "from": "John",
+      "to": "Jon",
+      "time": "01:02:06",
+      "source_line": 964,
+      "source_url": "https://twbd.fandom.com/wiki/There_Will_Be_Dungeons_Wiki"
+    },
+    {
+      "rule": "cast-speaker-jon",
+      "field": "speaker",
+      "from": "John",
+      "to": "Jon",
+      "time": "01:03:01",
+      "source_line": 988,
+      "source_url": "https://twbd.fandom.com/wiki/There_Will_Be_Dungeons_Wiki"
+    },
+    {
+      "rule": "cast-speaker-jon",
+      "field": "speaker",
+      "from": "John",
+      "to": "Jon",
+      "time": "01:03:11",
+      "source_line": 992,
+      "source_url": "https://twbd.fandom.com/wiki/There_Will_Be_Dungeons_Wiki"
+    },
+    {
+      "rule": "cast-speaker-jon",
+      "field": "speaker",
+      "from": "John",
+      "to": "Jon",
+      "time": "01:03:15",
+      "source_line": 996,
+      "source_url": "https://twbd.fandom.com/wiki/There_Will_Be_Dungeons_Wiki"
+    },
+    {
+      "rule": "cast-speaker-jon",
+      "field": "speaker",
+      "from": "John",
+      "to": "Jon",
+      "time": "01:03:20",
+      "source_line": 1000,
+      "source_url": "https://twbd.fandom.com/wiki/There_Will_Be_Dungeons_Wiki"
+    },
+    {
+      "rule": "vorel-given",
+      "field": "speech",
+      "from": "Vorell",
+      "to": "Vorel",
+      "time": "01:03:33",
+      "source_line": 1006,
+      "source_url": "https://twbd.fandom.com/wiki/There_Will_Be_Dungeons_Wiki"
+    },
+    {
+      "rule": "cast-speaker-jon",
+      "field": "speaker",
+      "from": "John",
+      "to": "Jon",
+      "time": "01:05:00",
+      "source_line": 1034,
+      "source_url": "https://twbd.fandom.com/wiki/There_Will_Be_Dungeons_Wiki"
+    },
+    {
+      "rule": "cast-speaker-jon",
+      "field": "speaker",
+      "from": "John",
+      "to": "Jon",
+      "time": "01:05:14",
+      "source_line": 1038,
+      "source_url": "https://twbd.fandom.com/wiki/There_Will_Be_Dungeons_Wiki"
+    },
+    {
+      "rule": "cast-speaker-jon",
+      "field": "speaker",
+      "from": "John",
+      "to": "Jon",
+      "time": "01:05:19",
+      "source_line": 1042,
+      "source_url": "https://twbd.fandom.com/wiki/There_Will_Be_Dungeons_Wiki"
+    },
+    {
+      "rule": "cast-speaker-jon",
+      "field": "speaker",
+      "from": "John",
+      "to": "Jon",
+      "time": "01:05:38",
+      "source_line": 1046,
+      "source_url": "https://twbd.fandom.com/wiki/There_Will_Be_Dungeons_Wiki"
+    },
+    {
+      "rule": "cast-speaker-jon",
+      "field": "speaker",
+      "from": "John",
+      "to": "Jon",
+      "time": "01:05:50",
+      "source_line": 1050,
+      "source_url": "https://twbd.fandom.com/wiki/There_Will_Be_Dungeons_Wiki"
+    },
+    {
+      "rule": "cast-speaker-jon",
+      "field": "speaker",
+      "from": "John",
+      "to": "Jon",
+      "time": "01:06:10",
+      "source_line": 1054,
+      "source_url": "https://twbd.fandom.com/wiki/There_Will_Be_Dungeons_Wiki"
+    },
+    {
+      "rule": "nash-surname",
+      "field": "speech",
+      "from": "Magard",
+      "to": "Maggard",
+      "time": "01:09:01",
+      "source_line": 1098,
+      "source_url": "https://twbd.fandom.com/wiki/There_Will_Be_Dungeons_Wiki"
+    },
+    {
+      "rule": "nash-surname",
+      "field": "speech",
+      "from": "Magard",
+      "to": "Maggard",
+      "time": "01:09:05",
+      "source_line": 1100,
+      "source_url": "https://twbd.fandom.com/wiki/There_Will_Be_Dungeons_Wiki"
+    },
+    {
+      "rule": "cast-speaker-jon",
+      "field": "speaker",
+      "from": "John",
+      "to": "Jon",
+      "time": "01:09:16",
+      "source_line": 1102,
+      "source_url": "https://twbd.fandom.com/wiki/There_Will_Be_Dungeons_Wiki"
+    },
+    {
+      "rule": "nash-surname",
+      "field": "speech",
+      "from": "Magard",
+      "to": "Maggard",
+      "time": "01:09:22",
+      "source_line": 1110,
+      "source_url": "https://twbd.fandom.com/wiki/There_Will_Be_Dungeons_Wiki"
+    },
+    {
+      "rule": "cast-speaker-jon",
+      "field": "speaker",
+      "from": "John",
+      "to": "Jon",
+      "time": "01:10:02",
+      "source_line": 1127,
+      "source_url": "https://twbd.fandom.com/wiki/There_Will_Be_Dungeons_Wiki"
+    },
+    {
+      "rule": "cast-speaker-jon",
+      "field": "speaker",
+      "from": "John",
+      "to": "Jon",
+      "time": "01:10:40",
+      "source_line": 1131,
+      "source_url": "https://twbd.fandom.com/wiki/There_Will_Be_Dungeons_Wiki"
+    },
+    {
+      "rule": "cast-speaker-jon",
+      "field": "speaker",
+      "from": "John",
+      "to": "Jon",
+      "time": "01:11:05",
+      "source_line": 1139,
+      "source_url": "https://twbd.fandom.com/wiki/There_Will_Be_Dungeons_Wiki"
+    },
+    {
+      "rule": "cast-speaker-jon",
+      "field": "speaker",
+      "from": "John",
+      "to": "Jon",
+      "time": "01:11:49",
+      "source_line": 1145,
+      "source_url": "https://twbd.fandom.com/wiki/There_Will_Be_Dungeons_Wiki"
+    },
+    {
+      "rule": "dusthill",
+      "field": "speech",
+      "from": "Dust Hill",
+      "to": "Dusthill",
+      "time": "01:14:08",
+      "source_line": 1171,
+      "source_url": "https://twbd.fandom.com/wiki/There_Will_Be_Dungeons_Wiki"
+    },
+    {
+      "rule": "cast-speaker-jon",
+      "field": "speaker",
+      "from": "John",
+      "to": "Jon",
+      "time": "01:16:14",
+      "source_line": 1193,
+      "source_url": "https://twbd.fandom.com/wiki/There_Will_Be_Dungeons_Wiki"
+    },
+    {
+      "rule": "dusthill",
+      "field": "speech",
+      "from": "Dust Hill",
+      "to": "Dusthill",
+      "time": "01:16:36",
+      "source_line": 1195,
+      "source_url": "https://twbd.fandom.com/wiki/There_Will_Be_Dungeons_Wiki"
+    },
+    {
+      "rule": "cast-speaker-jon",
+      "field": "speaker",
+      "from": "John",
+      "to": "Jon",
+      "time": "01:17:10",
+      "source_line": 1199,
+      "source_url": "https://twbd.fandom.com/wiki/There_Will_Be_Dungeons_Wiki"
+    },
+    {
+      "rule": "cast-speaker-jon",
+      "field": "speaker",
+      "from": "John",
+      "to": "Jon",
+      "time": "01:17:29",
+      "source_line": 1203,
+      "source_url": "https://twbd.fandom.com/wiki/There_Will_Be_Dungeons_Wiki"
+    },
+    {
+      "rule": "nash-surname",
+      "field": "speech",
+      "from": "Magard",
+      "to": "Maggard",
+      "time": "01:17:50",
+      "source_line": 1207,
+      "source_url": "https://twbd.fandom.com/wiki/There_Will_Be_Dungeons_Wiki"
+    },
+    {
+      "rule": "cast-speaker-jon",
+      "field": "speaker",
+      "from": "John",
+      "to": "Jon",
+      "time": "01:18:20",
+      "source_line": 1211,
+      "source_url": "https://twbd.fandom.com/wiki/There_Will_Be_Dungeons_Wiki"
+    },
+    {
+      "rule": "cast-speaker-jon",
+      "field": "speaker",
+      "from": "John",
+      "to": "Jon",
+      "time": "01:18:28",
+      "source_line": 1217,
+      "source_url": "https://twbd.fandom.com/wiki/There_Will_Be_Dungeons_Wiki"
+    },
+    {
+      "rule": "cast-speaker-jon",
+      "field": "speaker",
+      "from": "John",
+      "to": "Jon",
+      "time": "01:19:37",
+      "source_line": 1237,
+      "source_url": "https://twbd.fandom.com/wiki/There_Will_Be_Dungeons_Wiki"
+    },
+    {
+      "rule": "cast-speaker-jon",
+      "field": "speaker",
+      "from": "John",
+      "to": "Jon",
+      "time": "01:20:07",
+      "source_line": 1252,
+      "source_url": "https://twbd.fandom.com/wiki/There_Will_Be_Dungeons_Wiki"
+    },
+    {
+      "rule": "dusthill",
+      "field": "speech",
+      "from": "Dust Hill",
+      "to": "Dusthill",
+      "time": "01:20:27",
+      "source_line": 1256,
+      "source_url": "https://twbd.fandom.com/wiki/There_Will_Be_Dungeons_Wiki"
+    },
+    {
+      "rule": "dusthill",
+      "field": "speech",
+      "from": "Dust Hill",
+      "to": "Dusthill",
+      "time": "01:20:27",
+      "source_line": 1256,
+      "source_url": "https://twbd.fandom.com/wiki/There_Will_Be_Dungeons_Wiki"
+    },
+    {
+      "rule": "cast-speaker-jon",
+      "field": "speaker",
+      "from": "John",
+      "to": "Jon",
+      "time": "01:22:05",
+      "source_line": 1274,
+      "source_url": "https://twbd.fandom.com/wiki/There_Will_Be_Dungeons_Wiki"
+    },
+    {
+      "rule": "cast-speaker-jon",
+      "field": "speaker",
+      "from": "John",
+      "to": "Jon",
+      "time": "01:22:42",
+      "source_line": 1278,
+      "source_url": "https://twbd.fandom.com/wiki/There_Will_Be_Dungeons_Wiki"
+    },
+    {
+      "rule": "cast-speaker-jon",
+      "field": "speaker",
+      "from": "John",
+      "to": "Jon",
+      "time": "01:23:08",
+      "source_line": 1282,
+      "source_url": "https://twbd.fandom.com/wiki/There_Will_Be_Dungeons_Wiki"
+    },
+    {
+      "rule": "cast-speaker-jon",
+      "field": "speaker",
+      "from": "John",
+      "to": "Jon",
+      "time": "01:23:18",
+      "source_line": 1288,
+      "source_url": "https://twbd.fandom.com/wiki/There_Will_Be_Dungeons_Wiki"
+    },
+    {
+      "rule": "cast-speaker-jon",
+      "field": "speaker",
+      "from": "John",
+      "to": "Jon",
+      "time": "01:23:23",
+      "source_line": 1292,
+      "source_url": "https://twbd.fandom.com/wiki/There_Will_Be_Dungeons_Wiki"
+    },
+    {
+      "rule": "cast-speaker-jon",
+      "field": "speaker",
+      "from": "John",
+      "to": "Jon",
+      "time": "01:23:48",
+      "source_line": 1296,
+      "source_url": "https://twbd.fandom.com/wiki/There_Will_Be_Dungeons_Wiki"
+    },
+    {
+      "rule": "cast-speaker-jon",
+      "field": "speaker",
+      "from": "John",
+      "to": "Jon",
+      "time": "01:24:42",
+      "source_line": 1302,
+      "source_url": "https://twbd.fandom.com/wiki/There_Will_Be_Dungeons_Wiki"
+    },
+    {
+      "rule": "cast-speaker-jon",
+      "field": "speaker",
+      "from": "John",
+      "to": "Jon",
+      "time": "01:24:56",
+      "source_line": 1306,
+      "source_url": "https://twbd.fandom.com/wiki/There_Will_Be_Dungeons_Wiki"
+    },
+    {
+      "rule": "cast-speaker-jon",
+      "field": "speaker",
+      "from": "John",
+      "to": "Jon",
+      "time": "01:26:30",
+      "source_line": 1328,
+      "source_url": "https://twbd.fandom.com/wiki/There_Will_Be_Dungeons_Wiki"
+    },
+    {
+      "rule": "cast-speaker-jon",
+      "field": "speaker",
+      "from": "John",
+      "to": "Jon",
+      "time": "01:26:38",
+      "source_line": 1332,
+      "source_url": "https://twbd.fandom.com/wiki/There_Will_Be_Dungeons_Wiki"
+    },
+    {
+      "rule": "cast-speaker-jon",
+      "field": "speaker",
+      "from": "John",
+      "to": "Jon",
+      "time": "01:29:26",
+      "source_line": 1360,
+      "source_url": "https://twbd.fandom.com/wiki/There_Will_Be_Dungeons_Wiki"
+    },
+    {
+      "rule": "cast-speaker-jon",
+      "field": "speaker",
+      "from": "John",
+      "to": "Jon",
+      "time": "01:29:33",
+      "source_line": 1368,
+      "source_url": "https://twbd.fandom.com/wiki/There_Will_Be_Dungeons_Wiki"
+    },
+    {
+      "rule": "cast-speaker-jon",
+      "field": "speaker",
+      "from": "John",
+      "to": "Jon",
+      "time": "01:29:46",
+      "source_line": 1374,
+      "source_url": "https://twbd.fandom.com/wiki/There_Will_Be_Dungeons_Wiki"
+    },
+    {
+      "rule": "cast-speaker-jon",
+      "field": "speaker",
+      "from": "John",
+      "to": "Jon",
+      "time": "01:31:24",
+      "source_line": 1401,
+      "source_url": "https://twbd.fandom.com/wiki/There_Will_Be_Dungeons_Wiki"
+    },
+    {
+      "rule": "cast-speaker-jon",
+      "field": "speaker",
+      "from": "John",
+      "to": "Jon",
+      "time": "01:31:35",
+      "source_line": 1409,
+      "source_url": "https://twbd.fandom.com/wiki/There_Will_Be_Dungeons_Wiki"
+    },
+    {
+      "rule": "cast-speaker-jon",
+      "field": "speaker",
+      "from": "John",
+      "to": "Jon",
+      "time": "01:31:44",
+      "source_line": 1413,
+      "source_url": "https://twbd.fandom.com/wiki/There_Will_Be_Dungeons_Wiki"
+    },
+    {
+      "rule": "cast-speaker-jon",
+      "field": "speaker",
+      "from": "John",
+      "to": "Jon",
+      "time": "01:31:51",
+      "source_line": 1417,
+      "source_url": "https://twbd.fandom.com/wiki/There_Will_Be_Dungeons_Wiki"
+    },
+    {
+      "rule": "cast-speaker-jon",
+      "field": "speaker",
+      "from": "John",
+      "to": "Jon",
+      "time": "01:32:09",
+      "source_line": 1425,
+      "source_url": "https://twbd.fandom.com/wiki/There_Will_Be_Dungeons_Wiki"
+    },
+    {
+      "rule": "cast-speaker-jon",
+      "field": "speaker",
+      "from": "John",
+      "to": "Jon",
+      "time": "01:33:31",
+      "source_line": 1451,
+      "source_url": "https://twbd.fandom.com/wiki/There_Will_Be_Dungeons_Wiki"
+    },
+    {
+      "rule": "cast-speaker-jon",
+      "field": "speaker",
+      "from": "John",
+      "to": "Jon",
+      "time": "01:33:35",
+      "source_line": 1455,
+      "source_url": "https://twbd.fandom.com/wiki/There_Will_Be_Dungeons_Wiki"
+    },
+    {
+      "rule": "cast-speaker-jon",
+      "field": "speaker",
+      "from": "John",
+      "to": "Jon",
+      "time": "01:34:09",
+      "source_line": 1461,
+      "source_url": "https://twbd.fandom.com/wiki/There_Will_Be_Dungeons_Wiki"
+    },
+    {
+      "rule": "cast-speaker-jon",
+      "field": "speaker",
+      "from": "John",
+      "to": "Jon",
+      "time": "01:35:24",
+      "source_line": 1479,
+      "source_url": "https://twbd.fandom.com/wiki/There_Will_Be_Dungeons_Wiki"
+    },
+    {
+      "rule": "cast-speaker-jon",
+      "field": "speaker",
+      "from": "John",
+      "to": "Jon",
+      "time": "01:36:15",
+      "source_line": 1491,
+      "source_url": "https://twbd.fandom.com/wiki/There_Will_Be_Dungeons_Wiki"
+    },
+    {
+      "rule": "cast-speaker-jon",
+      "field": "speaker",
+      "from": "John",
+      "to": "Jon",
+      "time": "01:36:40",
+      "source_line": 1495,
+      "source_url": "https://twbd.fandom.com/wiki/There_Will_Be_Dungeons_Wiki"
+    },
+    {
+      "rule": "cast-speaker-jon",
+      "field": "speaker",
+      "from": "John",
+      "to": "Jon",
+      "time": "01:37:16",
+      "source_line": 1499,
+      "source_url": "https://twbd.fandom.com/wiki/There_Will_Be_Dungeons_Wiki"
+    },
+    {
+      "rule": "cast-speaker-jon",
+      "field": "speaker",
+      "from": "John",
+      "to": "Jon",
+      "time": "01:37:33",
+      "source_line": 1503,
+      "source_url": "https://twbd.fandom.com/wiki/There_Will_Be_Dungeons_Wiki"
+    },
+    {
+      "rule": "cast-speaker-jon",
+      "field": "speaker",
+      "from": "John",
+      "to": "Jon",
+      "time": "01:38:08",
+      "source_line": 1507,
+      "source_url": "https://twbd.fandom.com/wiki/There_Will_Be_Dungeons_Wiki"
+    },
+    {
+      "rule": "cast-speaker-jon",
+      "field": "speaker",
+      "from": "John",
+      "to": "Jon",
+      "time": "01:38:19",
+      "source_line": 1513,
+      "source_url": "https://twbd.fandom.com/wiki/There_Will_Be_Dungeons_Wiki"
+    },
+    {
+      "rule": "cast-speaker-jon",
+      "field": "speaker",
+      "from": "John",
+      "to": "Jon",
+      "time": "01:38:46",
+      "source_line": 1519,
+      "source_url": "https://twbd.fandom.com/wiki/There_Will_Be_Dungeons_Wiki"
+    },
+    {
+      "rule": "cast-speaker-jon",
+      "field": "speaker",
+      "from": "John",
+      "to": "Jon",
+      "time": "01:40:01",
+      "source_line": 1542,
+      "source_url": "https://twbd.fandom.com/wiki/There_Will_Be_Dungeons_Wiki"
+    },
+    {
+      "rule": "cast-speaker-jon",
+      "field": "speaker",
+      "from": "John",
+      "to": "Jon",
+      "time": "01:40:12",
+      "source_line": 1546,
+      "source_url": "https://twbd.fandom.com/wiki/There_Will_Be_Dungeons_Wiki"
+    },
+    {
+      "rule": "cast-speaker-jon",
+      "field": "speaker",
+      "from": "John",
+      "to": "Jon",
+      "time": "01:40:59",
+      "source_line": 1560,
+      "source_url": "https://twbd.fandom.com/wiki/There_Will_Be_Dungeons_Wiki"
+    },
+    {
+      "rule": "cast-speaker-jon",
+      "field": "speaker",
+      "from": "John",
+      "to": "Jon",
+      "time": "01:41:13",
+      "source_line": 1564,
+      "source_url": "https://twbd.fandom.com/wiki/There_Will_Be_Dungeons_Wiki"
+    },
+    {
+      "rule": "cast-speaker-jon",
+      "field": "speaker",
+      "from": "John",
+      "to": "Jon",
+      "time": "01:41:55",
+      "source_line": 1570,
+      "source_url": "https://twbd.fandom.com/wiki/There_Will_Be_Dungeons_Wiki"
+    },
+    {
+      "rule": "cast-speaker-jon",
+      "field": "speaker",
+      "from": "John",
+      "to": "Jon",
+      "time": "01:42:02",
+      "source_line": 1574,
+      "source_url": "https://twbd.fandom.com/wiki/There_Will_Be_Dungeons_Wiki"
+    },
+    {
+      "rule": "cast-speaker-jon",
+      "field": "speaker",
+      "from": "John",
+      "to": "Jon",
+      "time": "01:42:43",
+      "source_line": 1578,
+      "source_url": "https://twbd.fandom.com/wiki/There_Will_Be_Dungeons_Wiki"
+    },
+    {
+      "rule": "cast-speaker-jon",
+      "field": "speaker",
+      "from": "John",
+      "to": "Jon",
+      "time": "01:43:17",
+      "source_line": 1588,
+      "source_url": "https://twbd.fandom.com/wiki/There_Will_Be_Dungeons_Wiki"
+    },
+    {
+      "rule": "cast-speaker-jon",
+      "field": "speaker",
+      "from": "John",
+      "to": "Jon",
+      "time": "01:43:46",
+      "source_line": 1592,
+      "source_url": "https://twbd.fandom.com/wiki/There_Will_Be_Dungeons_Wiki"
+    },
+    {
+      "rule": "cast-speaker-jon",
+      "field": "speaker",
+      "from": "John",
+      "to": "Jon",
+      "time": "01:44:14",
+      "source_line": 1600,
+      "source_url": "https://twbd.fandom.com/wiki/There_Will_Be_Dungeons_Wiki"
+    },
+    {
+      "rule": "cast-speaker-jon",
+      "field": "speaker",
+      "from": "John",
+      "to": "Jon",
+      "time": "01:44:29",
+      "source_line": 1604,
+      "source_url": "https://twbd.fandom.com/wiki/There_Will_Be_Dungeons_Wiki"
+    },
+    {
+      "rule": "cast-speaker-jon",
+      "field": "speaker",
+      "from": "John",
+      "to": "Jon",
+      "time": "01:45:00",
+      "source_line": 1608,
+      "source_url": "https://twbd.fandom.com/wiki/There_Will_Be_Dungeons_Wiki"
+    },
+    {
+      "rule": "cast-speaker-jon",
+      "field": "speaker",
+      "from": "John",
+      "to": "Jon",
+      "time": "01:45:31",
+      "source_line": 1612,
+      "source_url": "https://twbd.fandom.com/wiki/There_Will_Be_Dungeons_Wiki"
+    },
+    {
+      "rule": "cast-speaker-jon",
+      "field": "speaker",
+      "from": "John",
+      "to": "Jon",
+      "time": "01:46:08",
+      "source_line": 1618,
+      "source_url": "https://twbd.fandom.com/wiki/There_Will_Be_Dungeons_Wiki"
+    },
+    {
+      "rule": "cast-speaker-jon",
+      "field": "speaker",
+      "from": "John",
+      "to": "Jon",
+      "time": "01:46:46",
+      "source_line": 1622,
+      "source_url": "https://twbd.fandom.com/wiki/There_Will_Be_Dungeons_Wiki"
+    },
+    {
+      "rule": "cast-speaker-jon",
+      "field": "speaker",
+      "from": "John",
+      "to": "Jon",
+      "time": "01:47:04",
+      "source_line": 1626,
+      "source_url": "https://twbd.fandom.com/wiki/There_Will_Be_Dungeons_Wiki"
+    },
+    {
+      "rule": "cast-speaker-jon",
+      "field": "speaker",
+      "from": "John",
+      "to": "Jon",
+      "time": "01:47:29",
+      "source_line": 1636,
+      "source_url": "https://twbd.fandom.com/wiki/There_Will_Be_Dungeons_Wiki"
+    },
+    {
+      "rule": "cast-speaker-jon",
+      "field": "speaker",
+      "from": "John",
+      "to": "Jon",
+      "time": "01:48:16",
+      "source_line": 1644,
+      "source_url": "https://twbd.fandom.com/wiki/There_Will_Be_Dungeons_Wiki"
+    },
+    {
+      "rule": "cast-speaker-jon",
+      "field": "speaker",
+      "from": "John",
+      "to": "Jon",
+      "time": "01:48:42",
+      "source_line": 1652,
+      "source_url": "https://twbd.fandom.com/wiki/There_Will_Be_Dungeons_Wiki"
+    },
+    {
+      "rule": "cast-speaker-jon",
+      "field": "speaker",
+      "from": "John",
+      "to": "Jon",
+      "time": "01:48:50",
+      "source_line": 1660,
+      "source_url": "https://twbd.fandom.com/wiki/There_Will_Be_Dungeons_Wiki"
+    },
+    {
+      "rule": "cast-speaker-jon",
+      "field": "speaker",
+      "from": "John",
+      "to": "Jon",
+      "time": "01:49:22",
+      "source_line": 1668,
+      "source_url": "https://twbd.fandom.com/wiki/There_Will_Be_Dungeons_Wiki"
+    },
+    {
+      "rule": "cast-speaker-jon",
+      "field": "speaker",
+      "from": "John",
+      "to": "Jon",
+      "time": "01:51:11",
+      "source_line": 1691,
+      "source_url": "https://twbd.fandom.com/wiki/There_Will_Be_Dungeons_Wiki"
+    },
+    {
+      "rule": "cast-speaker-jon",
+      "field": "speaker",
+      "from": "John",
+      "to": "Jon",
+      "time": "01:54:57",
+      "source_line": 1761,
+      "source_url": "https://twbd.fandom.com/wiki/There_Will_Be_Dungeons_Wiki"
+    },
+    {
+      "rule": "cast-speaker-jon",
+      "field": "speaker",
+      "from": "John",
+      "to": "Jon",
+      "time": "01:55:30",
+      "source_line": 1769,
+      "source_url": "https://twbd.fandom.com/wiki/There_Will_Be_Dungeons_Wiki"
+    },
+    {
+      "rule": "cast-speaker-jon",
+      "field": "speaker",
+      "from": "John",
+      "to": "Jon",
+      "time": "01:56:00",
+      "source_line": 1775,
+      "source_url": "https://twbd.fandom.com/wiki/There_Will_Be_Dungeons_Wiki"
+    },
+    {
+      "rule": "cast-speaker-jon",
+      "field": "speaker",
+      "from": "John",
+      "to": "Jon",
+      "time": "01:56:12",
+      "source_line": 1779,
+      "source_url": "https://twbd.fandom.com/wiki/There_Will_Be_Dungeons_Wiki"
+    },
+    {
+      "rule": "cast-speaker-jon",
+      "field": "speaker",
+      "from": "John",
+      "to": "Jon",
+      "time": "01:56:29",
+      "source_line": 1783,
+      "source_url": "https://twbd.fandom.com/wiki/There_Will_Be_Dungeons_Wiki"
+    },
+    {
+      "rule": "cast-speaker-jon",
+      "field": "speaker",
+      "from": "John",
+      "to": "Jon",
+      "time": "01:56:44",
+      "source_line": 1787,
+      "source_url": "https://twbd.fandom.com/wiki/There_Will_Be_Dungeons_Wiki"
+    },
+    {
+      "rule": "cast-speaker-jon",
+      "field": "speaker",
+      "from": "John",
+      "to": "Jon",
+      "time": "01:56:54",
+      "source_line": 1791,
+      "source_url": "https://twbd.fandom.com/wiki/There_Will_Be_Dungeons_Wiki"
+    },
+    {
+      "rule": "cast-speaker-jon",
+      "field": "speaker",
+      "from": "John",
+      "to": "Jon",
+      "time": "01:59:25",
+      "source_line": 1827,
+      "source_url": "https://twbd.fandom.com/wiki/There_Will_Be_Dungeons_Wiki"
+    },
+    {
+      "rule": "cast-speaker-jon",
+      "field": "speaker",
+      "from": "John",
+      "to": "Jon",
+      "time": "01:59:34",
+      "source_line": 1833,
+      "source_url": "https://twbd.fandom.com/wiki/There_Will_Be_Dungeons_Wiki"
+    },
+    {
+      "rule": "cast-speaker-jon",
+      "field": "speaker",
+      "from": "John",
+      "to": "Jon",
+      "time": "01:59:37",
+      "source_line": 1837,
+      "source_url": "https://twbd.fandom.com/wiki/There_Will_Be_Dungeons_Wiki"
+    },
+    {
+      "rule": "cast-speaker-jon",
+      "field": "speaker",
+      "from": "John",
+      "to": "Jon",
+      "time": "01:59:51",
+      "source_line": 1841,
+      "source_url": "https://twbd.fandom.com/wiki/There_Will_Be_Dungeons_Wiki"
+    },
+    {
+      "rule": "cast-speaker-jon",
+      "field": "speaker",
+      "from": "John",
+      "to": "Jon",
+      "time": "02:00:14",
+      "source_line": 1848,
+      "source_url": "https://twbd.fandom.com/wiki/There_Will_Be_Dungeons_Wiki"
+    },
+    {
+      "rule": "cast-speaker-jon",
+      "field": "speaker",
+      "from": "John",
+      "to": "Jon",
+      "time": "02:00:38",
+      "source_line": 1852,
+      "source_url": "https://twbd.fandom.com/wiki/There_Will_Be_Dungeons_Wiki"
+    },
+    {
+      "rule": "vorel-given",
+      "field": "speech",
+      "from": "Varel",
+      "to": "Vorel",
+      "time": "02:00:45",
+      "source_line": 1856,
+      "source_url": "https://twbd.fandom.com/wiki/There_Will_Be_Dungeons_Wiki"
+    },
+    {
+      "rule": "dusthill",
+      "field": "speech",
+      "from": "Dust Hill",
+      "to": "Dusthill",
+      "time": "02:00:45",
+      "source_line": 1856,
+      "source_url": "https://twbd.fandom.com/wiki/There_Will_Be_Dungeons_Wiki"
+    },
+    {
+      "rule": "cast-speaker-jon",
+      "field": "speaker",
+      "from": "John",
+      "to": "Jon",
+      "time": "02:02:51",
+      "source_line": 1894,
+      "source_url": "https://twbd.fandom.com/wiki/There_Will_Be_Dungeons_Wiki"
+    },
+    {
+      "rule": "shunti",
+      "field": "speech",
+      "from": "Shun T",
+      "to": "Shun'ti",
+      "time": "02:03:34",
+      "source_line": 1904,
+      "source_url": "https://twbd.fandom.com/wiki/Episode_6"
+    },
+    {
+      "rule": "cast-speaker-jon",
+      "field": "speaker",
+      "from": "John",
+      "to": "Jon",
+      "time": "02:04:06",
+      "source_line": 1906,
+      "source_url": "https://twbd.fandom.com/wiki/There_Will_Be_Dungeons_Wiki"
+    },
+    {
+      "rule": "cast-speaker-jon",
+      "field": "speaker",
+      "from": "John",
+      "to": "Jon",
+      "time": "02:04:18",
+      "source_line": 1910,
+      "source_url": "https://twbd.fandom.com/wiki/There_Will_Be_Dungeons_Wiki"
+    },
+    {
+      "rule": "cast-speaker-jon",
+      "field": "speaker",
+      "from": "John",
+      "to": "Jon",
+      "time": "02:04:45",
+      "source_line": 1918,
+      "source_url": "https://twbd.fandom.com/wiki/There_Will_Be_Dungeons_Wiki"
+    },
+    {
+      "rule": "cast-speaker-jon",
+      "field": "speaker",
+      "from": "John",
+      "to": "Jon",
+      "time": "02:04:56",
+      "source_line": 1922,
+      "source_url": "https://twbd.fandom.com/wiki/There_Will_Be_Dungeons_Wiki"
+    },
+    {
+      "rule": "cast-speaker-jon",
+      "field": "speaker",
+      "from": "John",
+      "to": "Jon",
+      "time": "02:06:40",
+      "source_line": 1936,
+      "source_url": "https://twbd.fandom.com/wiki/There_Will_Be_Dungeons_Wiki"
+    },
+    {
+      "rule": "cast-speaker-jon",
+      "field": "speaker",
+      "from": "John",
+      "to": "Jon",
+      "time": "02:06:57",
+      "source_line": 1948,
+      "source_url": "https://twbd.fandom.com/wiki/There_Will_Be_Dungeons_Wiki"
+    },
+    {
+      "rule": "cast-speaker-jon",
+      "field": "speaker",
+      "from": "John",
+      "to": "Jon",
+      "time": "02:07:54",
+      "source_line": 1962,
+      "source_url": "https://twbd.fandom.com/wiki/There_Will_Be_Dungeons_Wiki"
+    },
+    {
+      "rule": "cast-speaker-jon",
+      "field": "speaker",
+      "from": "John",
+      "to": "Jon",
+      "time": "02:08:06",
+      "source_line": 1966,
+      "source_url": "https://twbd.fandom.com/wiki/There_Will_Be_Dungeons_Wiki"
+    },
+    {
+      "rule": "vorel-given",
+      "field": "speech",
+      "from": "Varel",
+      "to": "Vorel",
+      "time": "02:08:34",
+      "source_line": 1970,
+      "source_url": "https://twbd.fandom.com/wiki/There_Will_Be_Dungeons_Wiki"
+    },
+    {
+      "rule": "vorel-given",
+      "field": "speech",
+      "from": "Borel",
+      "to": "Vorel",
+      "time": "02:09:02",
+      "source_line": 1976,
+      "source_url": "https://twbd.fandom.com/wiki/There_Will_Be_Dungeons_Wiki"
+    },
+    {
+      "rule": "cast-speaker-jon",
+      "field": "speaker",
+      "from": "John",
+      "to": "Jon",
+      "time": "02:10:06",
+      "source_line": 1993,
+      "source_url": "https://twbd.fandom.com/wiki/There_Will_Be_Dungeons_Wiki"
+    },
+    {
+      "rule": "cast-speaker-jon",
+      "field": "speaker",
+      "from": "John",
+      "to": "Jon",
+      "time": "02:11:14",
+      "source_line": 2007,
+      "source_url": "https://twbd.fandom.com/wiki/There_Will_Be_Dungeons_Wiki"
+    },
+    {
+      "rule": "cast-speaker-jon",
+      "field": "speaker",
+      "from": "John",
+      "to": "Jon",
+      "time": "02:11:50",
+      "source_line": 2021,
+      "source_url": "https://twbd.fandom.com/wiki/There_Will_Be_Dungeons_Wiki"
+    },
+    {
+      "rule": "cast-speaker-jon",
+      "field": "speaker",
+      "from": "John",
+      "to": "Jon",
+      "time": "02:11:55",
+      "source_line": 2025,
+      "source_url": "https://twbd.fandom.com/wiki/There_Will_Be_Dungeons_Wiki"
+    },
+    {
+      "rule": "cast-speaker-jon",
+      "field": "speaker",
+      "from": "John",
+      "to": "Jon",
+      "time": "02:12:15",
+      "source_line": 2031,
+      "source_url": "https://twbd.fandom.com/wiki/There_Will_Be_Dungeons_Wiki"
+    },
+    {
+      "rule": "cast-speaker-jon",
+      "field": "speaker",
+      "from": "John",
+      "to": "Jon",
+      "time": "02:12:46",
+      "source_line": 2041,
+      "source_url": "https://twbd.fandom.com/wiki/There_Will_Be_Dungeons_Wiki"
+    },
+    {
+      "rule": "cast-speaker-jon",
+      "field": "speaker",
+      "from": "John",
+      "to": "Jon",
+      "time": "02:13:02",
+      "source_line": 2045,
+      "source_url": "https://twbd.fandom.com/wiki/There_Will_Be_Dungeons_Wiki"
+    },
+    {
+      "rule": "cast-speaker-jon",
+      "field": "speaker",
+      "from": "John",
+      "to": "Jon",
+      "time": "02:13:14",
+      "source_line": 2049,
+      "source_url": "https://twbd.fandom.com/wiki/There_Will_Be_Dungeons_Wiki"
+    },
+    {
+      "rule": "cast-speaker-jon",
+      "field": "speaker",
+      "from": "John",
+      "to": "Jon",
+      "time": "02:14:53",
+      "source_line": 2071,
+      "source_url": "https://twbd.fandom.com/wiki/There_Will_Be_Dungeons_Wiki"
+    },
+    {
+      "rule": "cast-speaker-jon",
+      "field": "speaker",
+      "from": "John",
+      "to": "Jon",
+      "time": "02:15:08",
+      "source_line": 2075,
+      "source_url": "https://twbd.fandom.com/wiki/There_Will_Be_Dungeons_Wiki"
+    },
+    {
+      "rule": "cast-speaker-jon",
+      "field": "speaker",
+      "from": "John",
+      "to": "Jon",
+      "time": "02:15:16",
+      "source_line": 2079,
+      "source_url": "https://twbd.fandom.com/wiki/There_Will_Be_Dungeons_Wiki"
+    },
+    {
+      "rule": "cast-speaker-jon",
+      "field": "speaker",
+      "from": "John",
+      "to": "Jon",
+      "time": "02:16:18",
+      "source_line": 2085,
+      "source_url": "https://twbd.fandom.com/wiki/There_Will_Be_Dungeons_Wiki"
+    },
+    {
+      "rule": "cast-speaker-jon",
+      "field": "speaker",
+      "from": "John",
+      "to": "Jon",
+      "time": "02:17:15",
+      "source_line": 2095,
+      "source_url": "https://twbd.fandom.com/wiki/There_Will_Be_Dungeons_Wiki"
+    },
+    {
+      "rule": "cast-speaker-jon",
+      "field": "speaker",
+      "from": "John",
+      "to": "Jon",
+      "time": "02:17:54",
+      "source_line": 2109,
+      "source_url": "https://twbd.fandom.com/wiki/There_Will_Be_Dungeons_Wiki"
+    },
+    {
+      "rule": "cast-speaker-jon",
+      "field": "speaker",
+      "from": "John",
+      "to": "Jon",
+      "time": "02:18:35",
+      "source_line": 2119,
+      "source_url": "https://twbd.fandom.com/wiki/There_Will_Be_Dungeons_Wiki"
+    },
+    {
+      "rule": "cast-speaker-jon",
+      "field": "speaker",
+      "from": "John",
+      "to": "Jon",
+      "time": "02:19:15",
+      "source_line": 2145,
+      "source_url": "https://twbd.fandom.com/wiki/There_Will_Be_Dungeons_Wiki"
+    },
+    {
+      "rule": "cast-speaker-jon",
+      "field": "speaker",
+      "from": "John",
+      "to": "Jon",
+      "time": "02:19:19",
+      "source_line": 2149,
+      "source_url": "https://twbd.fandom.com/wiki/There_Will_Be_Dungeons_Wiki"
+    },
+    {
+      "rule": "cast-speaker-jon",
+      "field": "speaker",
+      "from": "John",
+      "to": "Jon",
+      "time": "02:19:52",
+      "source_line": 2159,
+      "source_url": "https://twbd.fandom.com/wiki/There_Will_Be_Dungeons_Wiki"
+    },
+    {
+      "rule": "nash-surname",
+      "field": "speech",
+      "from": "Magard",
+      "to": "Maggard",
+      "time": "02:20:21",
+      "source_line": 2166,
+      "source_url": "https://twbd.fandom.com/wiki/There_Will_Be_Dungeons_Wiki"
+    },
+    {
+      "rule": "cast-speaker-jon",
+      "field": "speaker",
+      "from": "John",
+      "to": "Jon",
+      "time": "02:20:23",
+      "source_line": 2168,
+      "source_url": "https://twbd.fandom.com/wiki/There_Will_Be_Dungeons_Wiki"
+    },
+    {
+      "rule": "cast-speaker-jon",
+      "field": "speaker",
+      "from": "John",
+      "to": "Jon",
+      "time": "02:20:29",
+      "source_line": 2170,
+      "source_url": "https://twbd.fandom.com/wiki/There_Will_Be_Dungeons_Wiki"
+    },
+    {
+      "rule": "cast-speaker-jon",
+      "field": "speaker",
+      "from": "John",
+      "to": "Jon",
+      "time": "02:20:40",
+      "source_line": 2176,
+      "source_url": "https://twbd.fandom.com/wiki/There_Will_Be_Dungeons_Wiki"
+    },
+    {
+      "rule": "cast-speaker-jon",
+      "field": "speaker",
+      "from": "John",
+      "to": "Jon",
+      "time": "02:22:36",
+      "source_line": 2192,
+      "source_url": "https://twbd.fandom.com/wiki/There_Will_Be_Dungeons_Wiki"
+    },
+    {
+      "rule": "cast-speaker-jon",
+      "field": "speaker",
+      "from": "John",
+      "to": "Jon",
+      "time": "02:23:37",
+      "source_line": 2220,
+      "source_url": "https://twbd.fandom.com/wiki/There_Will_Be_Dungeons_Wiki"
+    },
+    {
+      "rule": "cast-speaker-jon",
+      "field": "speaker",
+      "from": "John",
+      "to": "Jon",
+      "time": "02:24:05",
+      "source_line": 2230,
+      "source_url": "https://twbd.fandom.com/wiki/There_Will_Be_Dungeons_Wiki"
+    },
+    {
+      "rule": "cast-speaker-jon",
+      "field": "speaker",
+      "from": "John",
+      "to": "Jon",
+      "time": "02:24:11",
+      "source_line": 2234,
+      "source_url": "https://twbd.fandom.com/wiki/There_Will_Be_Dungeons_Wiki"
+    },
+    {
+      "rule": "vorel-given",
+      "field": "speech",
+      "from": "Varel",
+      "to": "Vorel",
+      "time": "02:24:20",
+      "source_line": 2240,
+      "source_url": "https://twbd.fandom.com/wiki/There_Will_Be_Dungeons_Wiki"
+    },
+    {
+      "rule": "vorel-given",
+      "field": "speech",
+      "from": "Vorell",
+      "to": "Vorel",
+      "time": "02:25:12",
+      "source_line": 2252,
+      "source_url": "https://twbd.fandom.com/wiki/There_Will_Be_Dungeons_Wiki"
+    },
+    {
+      "rule": "cast-speaker-jon",
+      "field": "speaker",
+      "from": "John",
+      "to": "Jon",
+      "time": "02:25:25",
+      "source_line": 2254,
+      "source_url": "https://twbd.fandom.com/wiki/There_Will_Be_Dungeons_Wiki"
+    },
+    {
+      "rule": "cast-speaker-jon",
+      "field": "speaker",
+      "from": "John",
+      "to": "Jon",
+      "time": "02:25:35",
+      "source_line": 2258,
+      "source_url": "https://twbd.fandom.com/wiki/There_Will_Be_Dungeons_Wiki"
+    },
+    {
+      "rule": "cast-speaker-jon",
+      "field": "speaker",
+      "from": "John",
+      "to": "Jon",
+      "time": "02:25:46",
+      "source_line": 2262,
+      "source_url": "https://twbd.fandom.com/wiki/There_Will_Be_Dungeons_Wiki"
+    },
+    {
+      "rule": "cast-speaker-jon",
+      "field": "speaker",
+      "from": "John",
+      "to": "Jon",
+      "time": "02:25:54",
+      "source_line": 2266,
+      "source_url": "https://twbd.fandom.com/wiki/There_Will_Be_Dungeons_Wiki"
+    },
+    {
+      "rule": "cast-speaker-jon",
+      "field": "speaker",
+      "from": "John",
+      "to": "Jon",
+      "time": "02:25:59",
+      "source_line": 2270,
+      "source_url": "https://twbd.fandom.com/wiki/There_Will_Be_Dungeons_Wiki"
+    },
+    {
+      "rule": "cast-speaker-jon",
+      "field": "speaker",
+      "from": "John",
+      "to": "Jon",
+      "time": "02:26:13",
+      "source_line": 2274,
+      "source_url": "https://twbd.fandom.com/wiki/There_Will_Be_Dungeons_Wiki"
+    },
+    {
+      "rule": "cast-speaker-jon",
+      "field": "speaker",
+      "from": "John",
+      "to": "Jon",
+      "time": "02:26:42",
+      "source_line": 2282,
+      "source_url": "https://twbd.fandom.com/wiki/There_Will_Be_Dungeons_Wiki"
+    },
+    {
+      "rule": "cast-speaker-jon",
+      "field": "speaker",
+      "from": "John",
+      "to": "Jon",
+      "time": "02:27:42",
+      "source_line": 2288,
+      "source_url": "https://twbd.fandom.com/wiki/There_Will_Be_Dungeons_Wiki"
+    },
+    {
+      "rule": "cast-speaker-jon",
+      "field": "speaker",
+      "from": "John",
+      "to": "Jon",
+      "time": "02:28:18",
+      "source_line": 2300,
+      "source_url": "https://twbd.fandom.com/wiki/There_Will_Be_Dungeons_Wiki"
+    },
+    {
+      "rule": "cast-speaker-jon",
+      "field": "speaker",
+      "from": "John",
+      "to": "Jon",
+      "time": "02:28:28",
+      "source_line": 2304,
+      "source_url": "https://twbd.fandom.com/wiki/There_Will_Be_Dungeons_Wiki"
+    },
+    {
+      "rule": "cast-speaker-jon",
+      "field": "speaker",
+      "from": "John",
+      "to": "Jon",
+      "time": "02:28:41",
+      "source_line": 2308,
+      "source_url": "https://twbd.fandom.com/wiki/There_Will_Be_Dungeons_Wiki"
+    },
+    {
+      "rule": "cast-speaker-jon",
+      "field": "speaker",
+      "from": "John",
+      "to": "Jon",
+      "time": "02:28:53",
+      "source_line": 2314,
+      "source_url": "https://twbd.fandom.com/wiki/There_Will_Be_Dungeons_Wiki"
+    },
+    {
+      "rule": "cast-speaker-jon",
+      "field": "speaker",
+      "from": "John",
+      "to": "Jon",
+      "time": "02:29:36",
+      "source_line": 2328,
+      "source_url": "https://twbd.fandom.com/wiki/There_Will_Be_Dungeons_Wiki"
+    },
+    {
+      "rule": "cast-speaker-jon",
+      "field": "speaker",
+      "from": "John",
+      "to": "Jon",
+      "time": "02:29:40",
+      "source_line": 2332,
+      "source_url": "https://twbd.fandom.com/wiki/There_Will_Be_Dungeons_Wiki"
+    },
+    {
+      "rule": "cast-speaker-jon",
+      "field": "speaker",
+      "from": "John",
+      "to": "Jon",
+      "time": "02:29:48",
+      "source_line": 2336,
+      "source_url": "https://twbd.fandom.com/wiki/There_Will_Be_Dungeons_Wiki"
+    },
+    {
+      "rule": "cast-speaker-jon",
+      "field": "speaker",
+      "from": "John",
+      "to": "Jon",
+      "time": "02:29:58",
+      "source_line": 2342,
+      "source_url": "https://twbd.fandom.com/wiki/There_Will_Be_Dungeons_Wiki"
+    },
+    {
+      "rule": "cast-speaker-jon",
+      "field": "speaker",
+      "from": "John",
+      "to": "Jon",
+      "time": "02:30:09",
+      "source_line": 2349,
+      "source_url": "https://twbd.fandom.com/wiki/There_Will_Be_Dungeons_Wiki"
+    },
+    {
+      "rule": "cast-speaker-jon",
+      "field": "speaker",
+      "from": "John",
+      "to": "Jon",
+      "time": "02:30:24",
+      "source_line": 2357,
+      "source_url": "https://twbd.fandom.com/wiki/There_Will_Be_Dungeons_Wiki"
+    },
+    {
+      "rule": "cast-speaker-jon",
+      "field": "speaker",
+      "from": "John",
+      "to": "Jon",
+      "time": "02:30:29",
+      "source_line": 2361,
+      "source_url": "https://twbd.fandom.com/wiki/There_Will_Be_Dungeons_Wiki"
+    },
+    {
+      "rule": "cast-speaker-jon",
+      "field": "speaker",
+      "from": "John",
+      "to": "Jon",
+      "time": "02:33:18",
+      "source_line": 2401,
+      "source_url": "https://twbd.fandom.com/wiki/There_Will_Be_Dungeons_Wiki"
+    },
+    {
+      "rule": "cast-speaker-jon",
+      "field": "speaker",
+      "from": "John",
+      "to": "Jon",
+      "time": "02:35:16",
+      "source_line": 2425,
+      "source_url": "https://twbd.fandom.com/wiki/There_Will_Be_Dungeons_Wiki"
+    },
+    {
+      "rule": "cast-speaker-jon",
+      "field": "speaker",
+      "from": "John",
+      "to": "Jon",
+      "time": "02:35:32",
+      "source_line": 2433,
+      "source_url": "https://twbd.fandom.com/wiki/There_Will_Be_Dungeons_Wiki"
+    },
+    {
+      "rule": "cast-speaker-jon",
+      "field": "speaker",
+      "from": "John",
+      "to": "Jon",
+      "time": "02:37:16",
+      "source_line": 2467,
+      "source_url": "https://twbd.fandom.com/wiki/There_Will_Be_Dungeons_Wiki"
+    },
+    {
+      "rule": "cast-speaker-jon",
+      "field": "speaker",
+      "from": "John",
+      "to": "Jon",
+      "time": "02:38:37",
+      "source_line": 2487,
+      "source_url": "https://twbd.fandom.com/wiki/There_Will_Be_Dungeons_Wiki"
+    },
+    {
+      "rule": "cast-speaker-jon",
+      "field": "speaker",
+      "from": "John",
+      "to": "Jon",
+      "time": "02:38:52",
+      "source_line": 2493,
+      "source_url": "https://twbd.fandom.com/wiki/There_Will_Be_Dungeons_Wiki"
+    },
+    {
+      "rule": "cast-speaker-jon",
+      "field": "speaker",
+      "from": "John",
+      "to": "Jon",
+      "time": "02:39:05",
+      "source_line": 2497,
+      "source_url": "https://twbd.fandom.com/wiki/There_Will_Be_Dungeons_Wiki"
+    },
+    {
+      "rule": "cast-speaker-jon",
+      "field": "speaker",
+      "from": "John",
+      "to": "Jon",
+      "time": "02:39:37",
+      "source_line": 2503,
+      "source_url": "https://twbd.fandom.com/wiki/There_Will_Be_Dungeons_Wiki"
+    },
+    {
+      "rule": "cast-speaker-jon",
+      "field": "speaker",
+      "from": "John",
+      "to": "Jon",
+      "time": "02:40:31",
+      "source_line": 2522,
+      "source_url": "https://twbd.fandom.com/wiki/There_Will_Be_Dungeons_Wiki"
+    },
+    {
+      "rule": "cast-speaker-jon",
+      "field": "speaker",
+      "from": "John",
+      "to": "Jon",
+      "time": "02:40:55",
+      "source_line": 2534,
+      "source_url": "https://twbd.fandom.com/wiki/There_Will_Be_Dungeons_Wiki"
+    },
+    {
+      "rule": "cast-speaker-jon",
+      "field": "speaker",
+      "from": "John",
+      "to": "Jon",
+      "time": "02:41:07",
+      "source_line": 2542,
+      "source_url": "https://twbd.fandom.com/wiki/There_Will_Be_Dungeons_Wiki"
+    },
+    {
+      "rule": "cast-speaker-jon",
+      "field": "speaker",
+      "from": "John",
+      "to": "Jon",
+      "time": "02:42:04",
+      "source_line": 2552,
+      "source_url": "https://twbd.fandom.com/wiki/There_Will_Be_Dungeons_Wiki"
+    },
+    {
+      "rule": "cast-speaker-jon",
+      "field": "speaker",
+      "from": "John",
+      "to": "Jon",
+      "time": "02:42:50",
+      "source_line": 2570,
+      "source_url": "https://twbd.fandom.com/wiki/There_Will_Be_Dungeons_Wiki"
+    },
+    {
+      "rule": "cast-speaker-jon",
+      "field": "speaker",
+      "from": "John",
+      "to": "Jon",
+      "time": "02:43:43",
+      "source_line": 2592,
+      "source_url": "https://twbd.fandom.com/wiki/There_Will_Be_Dungeons_Wiki"
+    },
+    {
+      "rule": "cast-speaker-jon",
+      "field": "speaker",
+      "from": "John",
+      "to": "Jon",
+      "time": "02:44:38",
+      "source_line": 2618,
+      "source_url": "https://twbd.fandom.com/wiki/There_Will_Be_Dungeons_Wiki"
+    },
+    {
+      "rule": "cast-speaker-jon",
+      "field": "speaker",
+      "from": "John",
+      "to": "Jon",
+      "time": "02:46:10",
+      "source_line": 2646,
+      "source_url": "https://twbd.fandom.com/wiki/There_Will_Be_Dungeons_Wiki"
+    },
+    {
+      "rule": "cast-speaker-jon",
+      "field": "speaker",
+      "from": "John",
+      "to": "Jon",
+      "time": "02:46:58",
+      "source_line": 2654,
+      "source_url": "https://twbd.fandom.com/wiki/There_Will_Be_Dungeons_Wiki"
+    },
+    {
+      "rule": "cast-speaker-jon",
+      "field": "speaker",
+      "from": "John",
+      "to": "Jon",
+      "time": "02:47:18",
+      "source_line": 2658,
+      "source_url": "https://twbd.fandom.com/wiki/There_Will_Be_Dungeons_Wiki"
+    },
+    {
+      "rule": "cast-speaker-jon",
+      "field": "speaker",
+      "from": "John",
+      "to": "Jon",
+      "time": "02:47:25",
+      "source_line": 2662,
+      "source_url": "https://twbd.fandom.com/wiki/There_Will_Be_Dungeons_Wiki"
+    },
+    {
+      "rule": "cast-speaker-jon",
+      "field": "speaker",
+      "from": "John",
+      "to": "Jon",
+      "time": "02:47:46",
+      "source_line": 2668,
+      "source_url": "https://twbd.fandom.com/wiki/There_Will_Be_Dungeons_Wiki"
+    },
+    {
+      "rule": "cast-speaker-jon",
+      "field": "speaker",
+      "from": "John",
+      "to": "Jon",
+      "time": "02:48:16",
+      "source_line": 2672,
+      "source_url": "https://twbd.fandom.com/wiki/There_Will_Be_Dungeons_Wiki"
+    },
+    {
+      "rule": "cast-speaker-jon",
+      "field": "speaker",
+      "from": "John",
+      "to": "Jon",
+      "time": "02:48:33",
+      "source_line": 2676,
+      "source_url": "https://twbd.fandom.com/wiki/There_Will_Be_Dungeons_Wiki"
+    },
+    {
+      "rule": "cast-speaker-jon",
+      "field": "speaker",
+      "from": "John",
+      "to": "Jon",
+      "time": "02:48:39",
+      "source_line": 2682,
+      "source_url": "https://twbd.fandom.com/wiki/There_Will_Be_Dungeons_Wiki"
+    },
+    {
+      "rule": "vorel-given",
+      "field": "speech",
+      "from": "Vorell",
+      "to": "Vorel",
+      "time": "02:48:41",
+      "source_line": 2684,
+      "source_url": "https://twbd.fandom.com/wiki/There_Will_Be_Dungeons_Wiki"
+    },
+    {
+      "rule": "cast-speaker-jon",
+      "field": "speaker",
+      "from": "John",
+      "to": "Jon",
+      "time": "02:49:57",
+      "source_line": 2694,
+      "source_url": "https://twbd.fandom.com/wiki/There_Will_Be_Dungeons_Wiki"
+    },
+    {
+      "rule": "vorel-given",
+      "field": "speech",
+      "from": "Varel",
+      "to": "Vorel",
+      "time": "02:50:01",
+      "source_line": 2699,
+      "source_url": "https://twbd.fandom.com/wiki/There_Will_Be_Dungeons_Wiki"
+    },
+    {
+      "rule": "cast-speaker-jon",
+      "field": "speaker",
+      "from": "John",
+      "to": "Jon",
+      "time": "02:50:06",
+      "source_line": 2701,
+      "source_url": "https://twbd.fandom.com/wiki/There_Will_Be_Dungeons_Wiki"
+    },
+    {
+      "rule": "vorel-given",
+      "field": "speech",
+      "from": "Varel",
+      "to": "Vorel",
+      "time": "02:50:30",
+      "source_line": 2713,
+      "source_url": "https://twbd.fandom.com/wiki/There_Will_Be_Dungeons_Wiki"
+    },
+    {
+      "rule": "cast-speaker-jon",
+      "field": "speaker",
+      "from": "John",
+      "to": "Jon",
+      "time": "02:50:48",
+      "source_line": 2715,
+      "source_url": "https://twbd.fandom.com/wiki/There_Will_Be_Dungeons_Wiki"
+    },
+    {
+      "rule": "cast-speaker-jon",
+      "field": "speaker",
+      "from": "John",
+      "to": "Jon",
+      "time": "02:51:08",
+      "source_line": 2727,
+      "source_url": "https://twbd.fandom.com/wiki/There_Will_Be_Dungeons_Wiki"
+    },
+    {
+      "rule": "cast-speaker-jon",
+      "field": "speaker",
+      "from": "John",
+      "to": "Jon",
+      "time": "02:51:54",
+      "source_line": 2739,
+      "source_url": "https://twbd.fandom.com/wiki/There_Will_Be_Dungeons_Wiki"
+    },
+    {
+      "rule": "cast-speaker-jon",
+      "field": "speaker",
+      "from": "John",
+      "to": "Jon",
+      "time": "02:52:52",
+      "source_line": 2767,
+      "source_url": "https://twbd.fandom.com/wiki/There_Will_Be_Dungeons_Wiki"
+    },
+    {
+      "rule": "cast-speaker-jon",
+      "field": "speaker",
+      "from": "John",
+      "to": "Jon",
+      "time": "02:53:17",
+      "source_line": 2773,
+      "source_url": "https://twbd.fandom.com/wiki/There_Will_Be_Dungeons_Wiki"
+    },
+    {
+      "rule": "cast-speaker-jon",
+      "field": "speaker",
+      "from": "John",
+      "to": "Jon",
+      "time": "02:54:18",
+      "source_line": 2787,
+      "source_url": "https://twbd.fandom.com/wiki/There_Will_Be_Dungeons_Wiki"
+    },
+    {
+      "rule": "cast-speaker-jon",
+      "field": "speaker",
+      "from": "John",
+      "to": "Jon",
+      "time": "02:54:32",
+      "source_line": 2793,
+      "source_url": "https://twbd.fandom.com/wiki/There_Will_Be_Dungeons_Wiki"
+    },
+    {
+      "rule": "cast-speaker-jon",
+      "field": "speaker",
+      "from": "John",
+      "to": "Jon",
+      "time": "02:54:42",
+      "source_line": 2801,
+      "source_url": "https://twbd.fandom.com/wiki/There_Will_Be_Dungeons_Wiki"
+    },
+    {
+      "rule": "cast-speaker-jon",
+      "field": "speaker",
+      "from": "John",
+      "to": "Jon",
+      "time": "02:55:12",
+      "source_line": 2805,
+      "source_url": "https://twbd.fandom.com/wiki/There_Will_Be_Dungeons_Wiki"
+    },
+    {
+      "rule": "cast-speaker-jon",
+      "field": "speaker",
+      "from": "John",
+      "to": "Jon",
+      "time": "02:55:21",
+      "source_line": 2813,
+      "source_url": "https://twbd.fandom.com/wiki/There_Will_Be_Dungeons_Wiki"
+    },
+    {
+      "rule": "cast-speaker-jon",
+      "field": "speaker",
+      "from": "John",
+      "to": "Jon",
+      "time": "02:55:26",
+      "source_line": 2817,
+      "source_url": "https://twbd.fandom.com/wiki/There_Will_Be_Dungeons_Wiki"
+    },
+    {
+      "rule": "cast-speaker-jon",
+      "field": "speaker",
+      "from": "John",
+      "to": "Jon",
+      "time": "02:55:49",
+      "source_line": 2827,
+      "source_url": "https://twbd.fandom.com/wiki/There_Will_Be_Dungeons_Wiki"
+    },
+    {
+      "rule": "cast-speaker-jon",
+      "field": "speaker",
+      "from": "John",
+      "to": "Jon",
+      "time": "02:55:54",
+      "source_line": 2831,
+      "source_url": "https://twbd.fandom.com/wiki/There_Will_Be_Dungeons_Wiki"
+    },
+    {
+      "rule": "cast-speaker-jon",
+      "field": "speaker",
+      "from": "John",
+      "to": "Jon",
+      "time": "02:56:13",
+      "source_line": 2835,
+      "source_url": "https://twbd.fandom.com/wiki/There_Will_Be_Dungeons_Wiki"
+    },
+    {
+      "rule": "cast-speaker-jon",
+      "field": "speaker",
+      "from": "John",
+      "to": "Jon",
+      "time": "02:56:28",
+      "source_line": 2841,
+      "source_url": "https://twbd.fandom.com/wiki/There_Will_Be_Dungeons_Wiki"
+    },
+    {
+      "rule": "cast-speaker-jon",
+      "field": "speaker",
+      "from": "John",
+      "to": "Jon",
+      "time": "02:56:32",
+      "source_line": 2845,
+      "source_url": "https://twbd.fandom.com/wiki/There_Will_Be_Dungeons_Wiki"
+    },
+    {
+      "rule": "cast-speaker-jon",
+      "field": "speaker",
+      "from": "John",
+      "to": "Jon",
+      "time": "02:56:40",
+      "source_line": 2849,
+      "source_url": "https://twbd.fandom.com/wiki/There_Will_Be_Dungeons_Wiki"
+    },
+    {
+      "rule": "cast-speaker-jon",
+      "field": "speaker",
+      "from": "John",
+      "to": "Jon",
+      "time": "02:56:47",
+      "source_line": 2853,
+      "source_url": "https://twbd.fandom.com/wiki/There_Will_Be_Dungeons_Wiki"
+    },
+    {
+      "rule": "cast-speaker-jon",
+      "field": "speaker",
+      "from": "John",
+      "to": "Jon",
+      "time": "02:57:06",
+      "source_line": 2861,
+      "source_url": "https://twbd.fandom.com/wiki/There_Will_Be_Dungeons_Wiki"
+    },
+    {
+      "rule": "cast-speaker-jon",
+      "field": "speaker",
+      "from": "John",
+      "to": "Jon",
+      "time": "02:58:27",
+      "source_line": 2885,
+      "source_url": "https://twbd.fandom.com/wiki/There_Will_Be_Dungeons_Wiki"
+    },
+    {
+      "rule": "cast-speaker-jon",
+      "field": "speaker",
+      "from": "John",
+      "to": "Jon",
+      "time": "02:59:15",
+      "source_line": 2891,
+      "source_url": "https://twbd.fandom.com/wiki/There_Will_Be_Dungeons_Wiki"
+    },
+    {
+      "rule": "cast-speaker-jon",
+      "field": "speaker",
+      "from": "John",
+      "to": "Jon",
+      "time": "02:59:27",
+      "source_line": 2895,
+      "source_url": "https://twbd.fandom.com/wiki/There_Will_Be_Dungeons_Wiki"
+    },
+    {
+      "rule": "cast-speaker-jon",
+      "field": "speaker",
+      "from": "John",
+      "to": "Jon",
+      "time": "02:59:49",
+      "source_line": 2901,
+      "source_url": "https://twbd.fandom.com/wiki/There_Will_Be_Dungeons_Wiki"
+    },
+    {
+      "rule": "cast-speaker-jon",
+      "field": "speaker",
+      "from": "John",
+      "to": "Jon",
+      "time": "03:00:27",
+      "source_line": 2912,
+      "source_url": "https://twbd.fandom.com/wiki/There_Will_Be_Dungeons_Wiki"
+    },
+    {
+      "rule": "cast-speaker-jon",
+      "field": "speaker",
+      "from": "John",
+      "to": "Jon",
+      "time": "03:02:27",
+      "source_line": 2942,
+      "source_url": "https://twbd.fandom.com/wiki/There_Will_Be_Dungeons_Wiki"
+    },
+    {
+      "rule": "cast-speaker-jon",
+      "field": "speaker",
+      "from": "John",
+      "to": "Jon",
+      "time": "03:02:29",
+      "source_line": 2946,
+      "source_url": "https://twbd.fandom.com/wiki/There_Will_Be_Dungeons_Wiki"
+    }
+  ]
+}

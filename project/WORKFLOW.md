@@ -31,6 +31,14 @@
 4. Keep an accompanying JSON file with cue start/end and cue IDs for automated verification and future correction tools.
 5. Do not use a generic LLM to insert unverified dialogue, adjust history, or invent endings. Any separate editorial rewrite should be labelled and retain the machine draft.
 
+## D2. Reader-edited spelling layer
+
+Run `python tools/build_reader_editions.py` after `python tools/build_transcripts.py`. This writes `E000.reader-draft.md`/`E001.reader-draft.md` and `*.reader-edits.json`, leaving the source SRT and generated `*.readable-draft.md` unchanged. Only wiki-supported proper names and the written cast label Jon are normalized within timed speaker turns. Every substitution records source time, original/replacement text, rule and wiki citation.
+
+**Not an audio review:** Retain dialogue containing explicit naming or pronunciation uncertainty (e.g. “Orifi or Orify?”) as originally recognized. Do not insert a later-disclosed surname into an early-episode spoken utterance. Treat character-sheet data as final-campaign snapshots, not early episode build statistics. See [external reference policy](EXTERNAL_REFERENCES.md).
+
+Run `python -m unittest discover -s tests -p 'test_reader_editions.py'` after regenerating; keep both builds reproducible.
+
 ## E. Quality control
 
 ### Automated checks
