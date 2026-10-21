@@ -120,3 +120,34 @@ At **E008 ~00:00–00:02**, the host expressly states that **Kyle and Kristen ar
 | **Ben Bumhofer** | **Chance** | E008 ~00:01–00:02 host introduction and ~00:16 in-character self-identification; **gnome** |
 
 **Nash** remains associated with Scott Johnson, **Stanley** with Jon Jagger and the GM with Beau Schwartz. Guest appearances do not justify relabeling Kyle/Kristen's characters or propagating E008 `speaker N` labels to prior episodes.
+
+
+## E009–E012: survivors, officials, captives and rival power brokers
+
+**Primary evidence:** [E009](../episodes/E009.md), [E010](../episodes/E010.md), [E011](../episodes/E011.md), [E012](../episodes/E012.md), all sourced to **unverified processed SRTs**. Individual character and cast labels should be time-qualified.
+
+| Character / working name | Episode/time | Role and epistemic caution |
+|---|---|---|
+| **Leopold** | E009 ~00:05–02:15 | Continues from E008; issues badges and access, describes underground containment and threatened survival needs. A **warden AI protocol** is seen among controls. His self-reported identity and benevolent motives remain disputed |
+| **Imprisoned tree / alleged former elf** | E009 ~01:03–01:14 | Claims to have been forcibly transformed during ancient anti-dragon research, seeks release by ending the facility; a gift staff is observed near E009 ~03:02. **Claims, not proven origin** |
+| **Edison Manchester III** (Eddy/Eddie) and **Chance** | E009 ~00:00–03:13 | Returning **guest gnomes** played by Carter Johnson and Ben Bumhofer. **Fall into collapsing facility**; GM explicitly says out of game they are **not dead**. Their in-story whereabouts are unknown at E009 close |
+| **Vorel** (Kyle) and **Hope** (Kristen) | E010 ~00:00 | Their original performers return; characters never became the guest gnomes. Reunite with Nash and Stanley topside |
+| **Principle** | E010 ~01:27 onward | Claimed ruler/ideological authority invoked by Slavetown's orc warriors and magistrate; **name/type unresolved** (`Principle`/`principal` SRT variants) |
+| **Orc enforcers / Koromukishi** | E010 ~01:04–03:18; E011 ~00:06–00:15 | Armed order associated with Principle's law. SRT names include `Koromukishi`/`Kuromukishi`; escorts `Sir Steel Nuts`/`Sir Steelballs` and `Sir Black Trank` require speaker/audio corroboration |
+| **Slavetown magistrate** | E010 ~02:14–03:19; E011 opening | Elf, self-identification approximates `Ethanilia`/`Ethanelia` of Bogbottom. Oversees trial, ceremonially accepts winners; no established impartiality |
+| **Lady Saltbubble / Sir Chickenfinger** | E011 ~00:10–00:15 | Koromukishi-affiliated figures inviting the victorious party to apply to their order; spelling unverified |
+| **Slippery Brent** | E011 ~00:15–00:26 | Hustling seller of Slavetown street map, bearer of a wealthy patron's invitation; name provisional |
+| **Celibus Stump** | E011 ~01:30–02:15; E012 ~02:28–02:45 | Well-connected gambling/hospitality patron at **Buxom Confederate**, financially rewarded by winners' upset; may offer help freeing captives in exchange for disputed **mine deed**. `Syllabus`, `Selylus`, `Sullivan` machine variants; not the Jeweler |
+| **Talia Bane** | E011 ~01:45–02:12; E012 ~00:40–00:46, ~01:35–01:48 | Mother of **Bruce Bane** from Dusthill; now coercively held at an entertainment house in Slavetown. Named `Talia` in E011; surname from [wiki Bruce Bane page](https://twbd.fandom.com/wiki/Bruce_Bane). Stanley briefly shelters her in a hotel; **not freed** |
+| **S. J. Lattlebing** | E012 ~00:08–00:46 | Halfling hotel proprietor, works at reception; exact surname orthography unverified |
+| **The Jeweler** | E011 ~02:47–02:58; E012 ~00:46–01:10 and ~02:47–03:12 | Swaggering opponent of Nash at the **Sapphire**; after a fight, Nash loses possessions. Later opposes Principle/Oilbeards and offers assistance, claiming Dusthill's Hillmaster and Softhead compromised the town. **Claims require independent verification** |
+| **Trigger** | E011 ~02:54; E012 early | Large half-orc acting at/near Jeweler's establishment; involved in Nash's late-night challenge; separate from the Jeweler |
+| **Trentard Oilbeard** | E012 ~03:04–03:09 | Mine owner and antagonist in the Jeweler's history of Slavetown's conversion to slavery; **name and history reported by Jeweler** |
+| **Mabruk Oilbeard** | E012 ~03:01–03:03 | Son of an Oilbeard reported dead amid mine-deed dispute; spelling and circumstances need independent confirmation |
+| **Timber McClellan/McClelland** | E012 ~03:00–03:03 | Missing man allegedly sent by the Jeweler to locate the mine deed; unverified identity/spelling |
+| **Catherine Speckles** | E012 ~03:01–03:04 | Woman alleged to have notarized/taken deed and disappeared, possibly stayed at hotel; **allegation, not independently observed event** |
+| **Unidentified woman with red bandolier** | E012 ~03:02–03:05 | A local famous outlaw and gang figure according to Jeweler; party speculates on identity. **Do not conflate her with Catherine Speckles** |
+
+**Critical prisoner distinction:** The adventurers' trial victory and subsequent acquittal (E010–E011) **do not** release the Dusthill abductees or permanently free Talia. These are separate unresolved objectives at E012's end.
+
+The later fan wiki can supplement orthography without retroactively granting the early cast knowledge of E013+ identities or using campaign-end character builds for E009–E012.
