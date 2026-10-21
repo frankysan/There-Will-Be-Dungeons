@@ -67,3 +67,11 @@ An episode is *drafted* after automatic transcription and readable rendering, bu
 ## Additional ASR tests (2026-10-21)
 
 Six further **raw Qwen variants** are preserved under `sources/`. See [comparison](reports/QWEN_VARIANTS_2026-10-21.md) for exact-text results, timing-validity findings and discrepancies worth checking against audio. Neither the existing readable drafts nor the world reference were silently rewritten from these competing model outputs. This repository is the canonical project home; external fan-wiki and end-of-campaign character-sheet references are governed by the [external sources policy](project/EXTERNAL_REFERENCES.md).
+
+
+## Newly archived visual references (2026-10-21)
+
+The archive owner added **85 WebP images** downloaded from the fan wiki to [`sources/images/`](sources/images/). They are now indexed in the [image provenance and editorial register](project/IMAGE_ASSETS.md). Most are fan art or undated image assets; the two-page **Fate 4 vehicle design** explicitly credits **Kristen Ashton** and can inform E006–E010 vehicle references. The **Beyond the Deadfingers** regional map contains names including Dusthill and Slavetown, but may include **later campaign annotations**. Neither this map nor the **Teet** map is confirmed to be the exact player-facing map discussed in early episodes.
+
+**Important:** Fandom's wiki-text license does **not** automatically license images. Original file-description pages, authors, individual media permissions and upload dates still require verification before public distribution. Visual corroboration never counts as **audio verification** of ASR output. The supplied image binaries and original SRTs have not been changed.
+
