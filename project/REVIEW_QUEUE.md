@@ -337,3 +337,25 @@ All tasks below are **uncompleted**, based on machine SRT and [episode dossiers]
 
 No open item is resolved by agreement between multiple ASR outputs or the owner's retrospective notes alone.
 
+## E034–E036 source audit priorities (2026-10-21)
+
+[Episode 34](../episodes/E034.md), [Episode 35](../episodes/E035.md), [Episode 36](../episodes/E036.md): **provisional processed SRTs, not audio-confirmed**. [Corrected owner numbering](EPISODE_NUMBERING.md); [owner spellings](OWNER_EPISODE_NOTES.md) noncanonical.
+
+| Priority | Time | Review question |
+|---|---|---|
+| Critical | **E034 ~00:59–01:39** | Listen to **Dion Talus's explicit identity/control disclosure**, acknowledgement of **Stanley's earlier refusal and forced union**, difference between observed control and his self-claimed history/mana-wave needs; exact transfer back to Stanley |
+| High | E034 ~00:28–00:37 | `Dashington` gunman, alleged threat to Stanley, Vorel's intended private meeting |
+| High | E034 ~00:37–00:59 | **Hope's reflection** and lingering max-HP effect after E033 bite; no vampire diagnosis from folklore |
+| High | E034 ~01:39–02:41 | Coach **Marlboro/Marlborough**, `Camel/Camille`, team numbers **1,3,5,7**, custom game skill rolls, practice hours and **200 guzzbolts not paid yet** |
+| Medium | E034 ~02:41–end | Blood Ball vs pixie assistance, campaign commitments still pending |
+| High | E035 ~00:13–00:20 | Promoter **Fango Rabbish/Ravish**, Golden Gargoyle evening invitation, card game and singer **Angel Ashi** |
+| High | E035 ~00:20–01:05 | **Buttons remains missing**, parcel status, **Charlemagne's grief**, what is and is not independently known of the deceased at **Jedel McCready's**, suspicions about Twenty-Sixers |
+| High | E035 ~01:15–02:40 | Exact first attack by **Vorel**, gang fighter/civilian casualty count, **Nash acid breath** without shifting, who starts fire, extent of building collapse |
+| High | E035 ~02:33–end | Teet Guard siren, whether the party is seen, Golden Gargoyle **entry not Angel Ashi performance** |
+| Critical | E036 ~00:28–00:53 | **Angel Ashi stage story** vs factual testimony, raiders' entry, **Blunt Goliver** name/title and the shaman's role |
+| High | E036 ~00:53–02:40 | **Vorel claims Toe Ripper leadership**, Nash wyrmling, unique influence resistance, toe eating/buff claim, who is alive as fight ends, total enemy losses if possible |
+| Critical | E036 ~02:40–03:13 | **Fango's backstage/sewer escape route** and explicitly verify **Blunt Goliver is not declared defeated**; Angel Ashi opting to leave with Nash |
+| High | E036 ~03:13–end | **Nash's two exhaustion levels**, no immediate sexual/romantic event presumed, OOC **level-5 award** without recovery |
+
+**Carryover:** E035 violence and E036 bigger battle are **separate engagements**; neither proves Monsoon's assassination condition achieved. Do not backdate E036 performance to E035 or confuse Dion's admitted physical control with claims about ancient fey cosmology.
+
