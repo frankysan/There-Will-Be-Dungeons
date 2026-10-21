@@ -1,0 +1,361 @@
+{
+  "version": 1,
+  "stage": "pilot-seed",
+  "source_scope": [
+    "E000",
+    "E001"
+  ],
+  "entities": [
+    {
+      "id": "character.nash",
+      "display_name": "Nash Maggard",
+      "type": "person_character",
+      "aliases": [
+        "Nash Magard",
+        "Nash Maghard",
+        "Nashmegard"
+      ],
+      "name_status": "needs_audio_spelling_check",
+      "description": "Scott-associated character; dangerous wanderer with backstory linked to Blood Canyons and solar mines",
+      "sources": [
+        {
+          "episode": "E000",
+          "time": "00:03:49",
+          "evidence_type": "character_intro"
+        },
+        {
+          "episode": "E001",
+          "time": "01:09:01",
+          "evidence_type": "session_event"
+        }
+      ],
+      "questions": [
+        "Verify surname spelling and backstory specifics"
+      ]
+    },
+    {
+      "id": "character.hope",
+      "display_name": "Hope",
+      "type": "person_character",
+      "aliases": [
+        "Orifi",
+        "Orify"
+      ],
+      "name_status": "spoken_name_confirmed",
+      "description": "Kristen-associated tiefling; seeks a dragon engine and describes a hope of restoring the world",
+      "sources": [
+        {
+          "episode": "E000",
+          "time": "00:07:27",
+          "evidence_type": "character_intro"
+        },
+        {
+          "episode": "E001",
+          "time": "00:15:31",
+          "evidence_type": "session_event"
+        }
+      ],
+      "questions": [
+        "Verify longer name spelling",
+        "Separate aspiration from established world mechanics"
+      ]
+    },
+    {
+      "id": "character.stanley",
+      "display_name": "Stanley Billings",
+      "type": "person_character",
+      "aliases": [
+        "Stanley"
+      ],
+      "name_status": "known_label",
+      "description": "John-associated character; wants to bring political order to the wasteland",
+      "sources": [
+        {
+          "episode": "E000",
+          "time": "00:10:24",
+          "evidence_type": "character_intro"
+        },
+        {
+          "episode": "E001",
+          "time": "00:08:55",
+          "evidence_type": "session_event"
+        }
+      ],
+      "questions": [
+        "Verify details of his ancient tome"
+      ]
+    },
+    {
+      "id": "character.vorel",
+      "display_name": "Vorel",
+      "type": "person_character",
+      "aliases": [
+        "Varel",
+        "Vorell",
+        "Borel",
+        "Rasvim Kurik"
+      ],
+      "name_status": "needs_audio_spelling_check",
+      "description": "Kyle-associated desert-wandering lizardfolk character",
+      "sources": [
+        {
+          "episode": "E000",
+          "time": "00:11:41",
+          "evidence_type": "character_intro"
+        },
+        {
+          "episode": "E001",
+          "time": "00:31:35",
+          "evidence_type": "session_event"
+        }
+      ],
+      "questions": [
+        "Check full name and all spelling variants"
+      ]
+    },
+    {
+      "id": "npc.softhead",
+      "display_name": "Softhead",
+      "type": "person_npc",
+      "aliases": [],
+      "name_status": "known_label",
+      "description": "Gnome attendant/associate of the Hillmaster",
+      "sources": [
+        {
+          "episode": "E001",
+          "time": "00:10:49",
+          "evidence_type": "session_event"
+        }
+      ],
+      "questions": [
+        "Confirm how nickname originated"
+      ]
+    },
+    {
+      "id": "npc.hillmaster",
+      "display_name": "Hillmaster",
+      "type": "person_npc",
+      "aliases": [],
+      "name_status": "known_label",
+      "description": "Title of the hereditary leader of Dust Hill",
+      "sources": [
+        {
+          "episode": "E001",
+          "time": "00:05:55",
+          "evidence_type": "gm_exposition"
+        },
+        {
+          "episode": "E001",
+          "time": "00:40:21",
+          "evidence_type": "gm_exposition"
+        }
+      ],
+      "questions": [
+        "Find personal name, if disclosed"
+      ]
+    },
+    {
+      "id": "npc.gimster",
+      "display_name": "Gimster",
+      "type": "person_npc",
+      "aliases": [
+        "Gymster"
+      ],
+      "name_status": "needs_audio_spelling_check",
+      "description": "Human head mechanic at Dust Hill garage",
+      "sources": [
+        {
+          "episode": "E001",
+          "time": "00:18:03",
+          "evidence_type": "gm_exposition"
+        }
+      ],
+      "questions": [
+        "Verify spelling"
+      ]
+    },
+    {
+      "id": "npc.shun_t",
+      "display_name": "Shun T",
+      "type": "person_npc",
+      "aliases": [
+        "Shunti"
+      ],
+      "name_status": "needs_audio_spelling_check",
+      "description": "Dwarven attendant of the settlement water system",
+      "sources": [
+        {
+          "episode": "E001",
+          "time": "00:41:21",
+          "evidence_type": "gm_exposition"
+        }
+      ],
+      "questions": [
+        "Verify name spelling"
+      ]
+    },
+    {
+      "id": "place.dust_hill",
+      "display_name": "Dust Hill",
+      "type": "place",
+      "aliases": [
+        "Dusthill"
+      ],
+      "name_status": "working",
+      "description": "Defensible wasteland settlement and opening campaign base",
+      "sources": [
+        {
+          "episode": "E001",
+          "time": "00:05:12",
+          "evidence_type": "gm_exposition"
+        }
+      ],
+      "questions": [
+        "Confirm preferred orthography"
+      ]
+    },
+    {
+      "id": "place.blood_canyons",
+      "display_name": "Blood Canyons",
+      "type": "place",
+      "aliases": [],
+      "name_status": "working",
+      "description": "Region Nash leaves behind in introduction",
+      "sources": [
+        {
+          "episode": "E000",
+          "time": "00:06:39",
+          "evidence_type": "character_intro"
+        }
+      ],
+      "questions": [
+        "Verify exact location details"
+      ]
+    },
+    {
+      "id": "place.solar_mines",
+      "display_name": "Solar mines",
+      "type": "place",
+      "aliases": [],
+      "name_status": "needs_audio_spelling_check",
+      "description": "Location associated with Nash’s troubled past",
+      "sources": [
+        {
+          "episode": "E000",
+          "time": "00:05:22",
+          "evidence_type": "character_intro"
+        }
+      ],
+      "questions": [
+        "Verify location and spelling"
+      ]
+    },
+    {
+      "id": "place.verithica",
+      "display_name": "Verithica",
+      "type": "place",
+      "aliases": [],
+      "name_status": "needs_audio_spelling_check",
+      "description": "Rocky region named in lizardfolk introduction",
+      "sources": [
+        {
+          "episode": "E000",
+          "time": "00:11:41",
+          "evidence_type": "character_intro"
+        }
+      ],
+      "questions": [
+        "Verify spelling"
+      ]
+    },
+    {
+      "id": "place.caegro",
+      "display_name": "Caegro",
+      "type": "place",
+      "aliases": [],
+      "name_status": "needs_audio_spelling_check",
+      "description": "Waste/desert named in lizardfolk introduction",
+      "sources": [
+        {
+          "episode": "E000",
+          "time": "00:11:45",
+          "evidence_type": "character_intro"
+        }
+      ],
+      "questions": [
+        "Verify spelling"
+      ]
+    },
+    {
+      "id": "tech.dragon_engines",
+      "display_name": "Dragon engines",
+      "type": "artifact_or_technology",
+      "aliases": [
+        "dragon engine"
+      ],
+      "name_status": "working",
+      "description": "Engines said to have been made from dragon remains; associated with magic and Hope’s plans",
+      "sources": [
+        {
+          "episode": "E000",
+          "time": "00:02:42",
+          "evidence_type": "gm_exposition"
+        },
+        {
+          "episode": "E000",
+          "time": "00:09:59",
+          "evidence_type": "character_claim"
+        }
+      ],
+      "questions": [
+        "Confirm detailed capabilities and limits"
+      ]
+    },
+    {
+      "id": "world.dark_pact",
+      "display_name": "Dark pact",
+      "type": "world_concept",
+      "aliases": [
+        "demonic pact"
+      ],
+      "name_status": "working",
+      "description": "Ancient history motif connected to demons and tiefling origin as told in narration",
+      "sources": [
+        {
+          "episode": "E000",
+          "time": "00:02:20",
+          "evidence_type": "gm_exposition"
+        },
+        {
+          "episode": "E000",
+          "time": "00:08:46",
+          "evidence_type": "character_intro"
+        }
+      ],
+      "questions": [
+        "Do not equate all claims without verification"
+      ]
+    },
+    {
+      "id": "organization.hill_guard",
+      "display_name": "Hill Guard",
+      "type": "organization",
+      "aliases": [
+        "Hillguard",
+        "Hilguard"
+      ],
+      "name_status": "needs_audio_spelling_check",
+      "description": "Title/role that the Hillmaster refers to in connection with the protagonists",
+      "sources": [
+        {
+          "episode": "E001",
+          "time": "02:08:09",
+          "evidence_type": "session_event"
+        }
+      ],
+      "questions": [
+        "Confirm whether formal organization or ad hoc designation"
+      ]
+    }
+  ]
+}

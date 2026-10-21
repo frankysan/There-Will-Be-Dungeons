@@ -1,0 +1,2183 @@
+1
+00:00:01,040 --> 00:00:05,920
+(John) Hey everybody, John here, typically being
+called Stanley on this particular show.
+
+2
+00:00:06,049 --> 00:00:08,240
+(John) Welcome to There Will Be Dungeons.
+
+3
+00:00:08,420 --> 00:00:12,240
+(John) Except there isn't going to be a
+There Will Be Dungeons this week.
+
+4
+00:00:12,420 --> 00:00:15,600
+(John) Sorry, hopefully that is not news to you.
+
+5
+00:00:15,714 --> 00:00:17,600
+(John) If it is, I apologize.
+
+6
+00:00:17,680 --> 00:00:21,680
+(John) But regardless, what I
+have for you is maybe a
+
+7
+00:00:21,681 --> 00:00:25,280
+(John) little bit of a special
+treat in lieu of an episode.
+
+8
+00:00:25,360 --> 00:00:28,880
+(John) So what we're going to be
+doing is an in character recap.
+
+9
+00:00:28,960 --> 00:00:31,120
+(John) Stanley's gonna handle that for us.
+
+10
+00:00:31,200 --> 00:00:35,680
+(John) We also have a we'll
+call it a deleted scene of
+
+11
+00:00:35,929 --> 00:00:38,720
+(John) Hope and Varel and a
+little bit of what they got
+
+12
+00:00:38,769 --> 00:00:42,000
+(John) up to while Nash and
+Stanley were off on their
+
+13
+00:00:42,001 --> 00:00:46,400
+(John) little side adventure back in
+episodes eight and nine, I think.
+
+14
+00:00:46,579 --> 00:00:49,440
+(John) And in addition to
+that, we're going to start
+
+15
+00:00:49,539 --> 00:00:54,560
+(John) with a different opening song created
+by none other than RDM Bo Schwartz.
+
+16
+00:00:54,665 --> 00:00:57,680
+(John) This was thrown out
+there very early on, and I
+
+17
+00:00:57,681 --> 00:01:01,440
+(John) think it's a rockin' tune, and
+I feel like it should be heard.
+
+18
+00:01:01,570 --> 00:01:04,080
+(John) And so we're putting it
+right at the start of the show.
+
+19
+00:01:04,259 --> 00:01:05,739
+(John) I hope you're all excited to hear it.
+
+20
+00:01:05,785 --> 00:01:07,040
+(John) I hope you'll stick around.
+
+21
+00:01:07,219 --> 00:01:09,200
+(John) We'll see you next week regardless.
+
+22
+00:01:09,205 --> 00:01:10,205
+(John) Enjoy.
+
+23
+00:01:51,879 --> 00:01:55,970
+(John) Hello, my name is Stanley
+Billings, and I've been
+
+24
+00:01:55,971 --> 00:02:00,770
+(John) tasked today to get you
+acquainted with the story so far.
+
+25
+00:02:01,049 --> 00:02:03,970
+(John) Now, before we begin, let me be clear.
+
+26
+00:02:04,049 --> 00:02:08,130
+(John) What follows is a general
+summary of what has
+
+27
+00:02:08,230 --> 00:02:09,221
+(John) transpired.
+
+28
+00:02:09,245 --> 00:02:12,130
+(John) What that means is I
+might not tell you about the
+
+29
+00:02:12,131 --> 00:02:18,370
+(John) time that we went down a ton of stairs and
+got attacked by a bunch of giant spiders.
+
+30
+00:02:18,450 --> 00:02:21,609
+(John) But if you're interested
+in the time we went
+
+31
+00:02:21,610 --> 00:02:25,090
+(John) down a ton of stairs
+and got attacked by giant
+
+32
+00:02:25,091 --> 00:02:31,570
+(John) spiders, I would recommend looking into
+learning the whole story when you have time.
+
+33
+00:02:31,710 --> 00:02:34,170
+(John) In the meantime, we're going to cover what
+
+34
+00:02:34,171 --> 00:02:39,530
+(John) happened in the broadest of strokes,
+so you can get an idea of where we're at.
+
+35
+00:02:39,610 --> 00:02:43,050
+(John) So let's go ahead and introduce our party.
+
+36
+00:02:43,230 --> 00:02:50,410
+(John) First up we have Orifi Achmenos,
+or as she is called by everyone, Hope.
+
+37
+00:02:50,650 --> 00:02:54,705
+(John) Hope is a good natured tiefling
+whose pleasant disposition
+
+38
+00:02:54,760 --> 00:02:58,770
+(John) hides what a fierce and
+capable fighter she can be.
+
+39
+00:02:59,000 --> 00:03:02,290
+(John) Preferring to fight at
+range with guns, Hope's
+
+40
+00:03:02,291 --> 00:03:05,410
+(John) skill in combat is second
+only to her knack at
+
+41
+00:03:05,510 --> 00:03:07,410
+(John) engineering and mechanics.
+
+42
+00:03:07,540 --> 00:03:13,490
+(John) In fact, she built the fate for the
+vehicle we use to travel the waste.
+
+43
+00:03:13,770 --> 00:03:16,770
+(John) Next up we have Nash Magard.
+
+44
+00:03:16,900 --> 00:03:20,610
+(John) This crusty scab of a
+human being is as difficult
+
+45
+00:03:20,810 --> 00:03:23,810
+(John) to talk to as he is powerful, which is
+
+46
+00:03:23,811 --> 00:03:28,450
+(John) considerable, sometimes even
+to the detriment of his own team.
+
+47
+00:03:28,730 --> 00:03:31,970
+(John) Nash worked in a place
+called the Solar Mines,
+
+48
+00:03:31,971 --> 00:03:37,010
+(John) which left his body riddled with
+horrible tumors and only one eye.
+
+49
+00:03:37,240 --> 00:03:41,970
+(John) He's quick to temper, unlikely
+to trust, and dangerous.
+
+50
+00:03:42,150 --> 00:03:46,290
+(John) But he's also it.
+
+51
+00:03:46,470 --> 00:03:49,970
+(John) Oh, also his penis fell off.
+
+52
+00:03:50,250 --> 00:03:54,530
+(John) Our third member is Vorel Rasvim Kurik.
+
+53
+00:03:54,660 --> 00:03:57,890
+(John) Perhaps the most
+unlikely companion of ours,
+
+54
+00:03:57,990 --> 00:04:01,090
+(John) Vorel was making a living
+alone in the wasteland
+
+55
+00:04:01,250 --> 00:04:05,170
+(John) as some sort of nomadic
+lizard man barbarian.
+
+56
+00:04:05,375 --> 00:04:08,450
+(John) Vorrell is actually quite
+well spoken, despite
+
+57
+00:04:08,451 --> 00:04:11,650
+(John) being relatively unfamiliar
+with the workings of
+
+58
+00:04:11,864 --> 00:04:13,890
+(John) typical society.
+
+59
+00:04:14,120 --> 00:04:18,370
+(John) Perhaps most notable is Vorel
+has no interest in possessions.
+
+60
+00:04:18,500 --> 00:04:23,170
+(John) When we met him, he carried
+absolutely nothing on his person.
+
+61
+00:04:23,250 --> 00:04:26,580
+(John) Now Now he only seems to
+carry around a coin purse he
+
+62
+00:04:26,730 --> 00:04:30,020
+(John) was given after we earned
+our first large sum of gold.
+
+63
+00:04:30,200 --> 00:04:33,620
+(John) But any weapons he
+comes across, it's always in
+
+64
+00:04:33,621 --> 00:04:36,980
+(John) battle, and he doesn't
+seem to prize his own
+
+65
+00:04:36,981 --> 00:04:40,820
+(John) personal possessions
+beyond much o' anything.
+
+66
+00:04:41,000 --> 00:04:43,620
+(John) He's very practical like that.
+
+67
+00:04:43,950 --> 00:04:47,540
+(John) I guess that brings us
+to me, Stanley Billings.
+
+68
+00:04:47,770 --> 00:04:51,460
+(John) I'm proud to say I'm
+a half elf, as neither full
+
+69
+00:04:51,540 --> 00:04:54,580
+(John) blooded humans or elves
+have ever impressed me
+
+70
+00:04:54,680 --> 00:04:55,780
+(John) all that much.
+
+71
+00:04:55,910 --> 00:04:59,460
+(John) My gift is certainly
+my ability to speak, and
+
+72
+00:04:59,461 --> 00:05:02,420
+(John) while that frequently gets
+me confused to be some
+
+73
+00:05:02,421 --> 00:05:08,340
+(John) sort of bard or storyteller, I
+assure you I am far more than that.
+
+74
+00:05:08,520 --> 00:05:13,380
+(John) Like anyone I have a past, but
+it's not worth getting into now.
+
+75
+00:05:13,560 --> 00:05:18,980
+(John) What matters is my goal is to bring
+some semblance of order back to this world.
+
+76
+00:05:19,110 --> 00:05:24,340
+(John) Society is gone, and
+without it everything is chaos.
+
+77
+00:05:24,570 --> 00:05:31,780
+(John) I would like to see that chaos restored
+to order, by any means necessary.
+
+78
+00:05:31,960 --> 00:05:36,340
+(John) Our story starts in the
+town of Dusthill, a town
+
+79
+00:05:36,341 --> 00:05:39,540
+(John) that sprung up due to a
+seemingly endless supply
+
+80
+00:05:39,740 --> 00:05:43,220
+(John) of water that comes from
+a well in the town center.
+
+81
+00:05:43,500 --> 00:05:46,260
+(John) We were brought together
+under the seemingly
+
+82
+00:05:46,261 --> 00:05:52,170
+(John) auspicious purpose of a dinner with the
+leader of the town, called the Hillmaster.
+
+83
+00:05:52,450 --> 00:05:58,010
+(John) The Hillmaster recruited us to become
+the new Hill Guard to replace the old.
+
+84
+00:05:58,190 --> 00:06:00,890
+(John) We were forced to work
+immediately, though, when
+
+85
+00:06:00,990 --> 00:06:05,690
+(John) the well stopped working the very day
+we were supposed to take over the job.
+
+86
+00:06:05,970 --> 00:06:10,970
+(John) Heading below the town, we discovered
+the generator had been sabotaged by the old
+
+87
+00:06:11,020 --> 00:06:15,370
+(John) hillguard, attempting to
+lure the hillmaster into a trap.
+
+88
+00:06:15,650 --> 00:06:18,810
+(John) We negotiated peace
+with them and repaired the
+
+89
+00:06:18,811 --> 00:06:22,970
+(John) engine, which was revealed
+to be a fabled dragon engine.
+
+90
+00:06:23,200 --> 00:06:27,850
+(John) However, the water was still not
+flowing, so the group descended further.
+
+91
+00:06:28,030 --> 00:06:30,410
+(John) Upon reaching the river under the town, the
+
+92
+00:06:30,460 --> 00:06:35,530
+(John) hillmaster was killed by a mystery
+assailant, throwing him down the pit.
+
+93
+00:06:35,760 --> 00:06:38,570
+(John) It was very disturbing,
+his head popped off and
+
+94
+00:06:38,720 --> 00:06:39,770
+(John) everything.
+
+95
+00:06:40,150 --> 00:06:43,050
+(John) Hope managed to restore
+the pump mechanism to
+
+96
+00:06:43,051 --> 00:06:46,330
+(John) working order, and not
+eager to climb back out of
+
+97
+00:06:46,331 --> 00:06:50,250
+(John) the well, we decided to do
+a little exploring of our own.
+
+98
+00:06:50,530 --> 00:06:53,850
+(John) We discovered an old
+dwarven ruin called Mog
+
+99
+00:06:54,085 --> 00:06:55,210
+(John) Ferain.
+
+100
+00:06:55,390 --> 00:06:58,410
+(John) Inside we encountered
+skeletal dwarves being
+
+101
+00:06:58,411 --> 00:07:01,850
+(John) reanimated to live in
+a loop over and over.
+
+102
+00:07:02,180 --> 00:07:04,330
+(John) They were being controlled by a demon named
+
+103
+00:07:04,530 --> 00:07:07,530
+(John) Quizquaz, the Dream Drinker.
+
+104
+00:07:07,710 --> 00:07:11,450
+(John) After a brief negotiation and a totally
+
+105
+00:07:11,610 --> 00:07:14,810
+(John) justifiable act of aggression, we battled
+
+106
+00:07:14,960 --> 00:07:19,130
+(John) Quizquaz and ultimately destroyed him.
+
+107
+00:07:19,510 --> 00:07:25,020
+(John) On our return to the surface, we found that
+the old hill guard had also been killed.
+
+108
+00:07:25,200 --> 00:07:28,140
+(John) We were unsure who had done that as well.
+
+109
+00:07:28,470 --> 00:07:31,180
+(John) The news grew even more
+dire when we reached the
+
+110
+00:07:31,181 --> 00:07:35,500
+(John) surface and found that the
+town had been raided by goblins.
+
+111
+00:07:35,830 --> 00:07:40,540
+(John) Vorrell challenged the goblin's
+champion in singles combat and won.
+
+112
+00:07:40,770 --> 00:07:43,660
+(John) This victory caused the
+goblins to retreat, but
+
+113
+00:07:43,760 --> 00:07:48,700
+(John) we discovered they did so with
+roughly24 of the townspeople.
+
+114
+00:07:49,030 --> 00:07:51,740
+(John) While we repaired the
+town to survive while we
+
+115
+00:07:51,741 --> 00:07:54,860
+(John) chased the goblins, Vorrell
+encountered one who
+
+116
+00:07:54,960 --> 00:07:56,540
+(John) had been left behind.
+
+117
+00:07:56,695 --> 00:08:02,700
+(John) After a fight, the goblin pledged
+itself to Varel, declaring him Lizard King.
+
+118
+00:08:02,930 --> 00:08:06,666
+(John) That goblin's name was
+Bachbak, and he ended
+
+119
+00:08:06,667 --> 00:08:10,940
+(John) up becoming an ally
+for the journey ahead.
+
+120
+00:08:11,220 --> 00:08:14,460
+(John) With some semblance
+of leadership and a militia
+
+121
+00:08:14,560 --> 00:08:18,780
+(John) in place, we set off in the Fate
+Four to get our people back.
+
+122
+00:08:19,010 --> 00:08:22,060
+(John) During the chase, we ran into an old naked
+
+123
+00:08:22,061 --> 00:08:25,296
+(John) hermit, weird light
+emitting beetles, and
+
+124
+00:08:25,297 --> 00:08:28,460
+(John) were even attacked by
+the goblins themselves.
+
+125
+00:08:28,640 --> 00:08:31,260
+(John) After a lot of driving
+and fighting, the Fate
+
+126
+00:08:31,395 --> 00:08:35,419
+(John) Four needed repairs before
+we'd be able to continue.
+
+127
+00:08:35,799 --> 00:08:38,460
+(John) We decided to investigate
+an antenna that was
+
+128
+00:08:38,609 --> 00:08:41,580
+(John) sticking up from the sand
+while repairs were being made.
+
+129
+00:08:41,809 --> 00:08:45,420
+(John) However, both Nash and
+myself were pulled under.
+
+130
+00:08:45,500 --> 00:08:49,920
+(John) Beneath the desert we met
+two gnomes, Chance and Eddie.
+
+131
+00:08:50,099 --> 00:08:54,560
+(John) They had also been pulled under
+the sand and were trapped just like us.
+
+132
+00:08:54,839 --> 00:08:57,520
+(John) We found our way into
+an underground facility
+
+133
+00:08:57,521 --> 00:09:00,320
+(John) controlled by a
+computer called Leopold.
+
+134
+00:09:00,549 --> 00:09:02,880
+(John) We learned that this
+structure was an ancient
+
+135
+00:09:02,979 --> 00:09:07,520
+(John) black site prison housing
+great evils of the world.
+
+136
+00:09:07,849 --> 00:09:10,480
+(John) Leopold tried to prevent
+us from leaving, but we
+
+137
+00:09:10,481 --> 00:09:17,040
+(John) made a deal with a sentient tree to destroy
+the facility in exchange for a way out.
+
+138
+00:09:17,319 --> 00:09:20,080
+(John) We did manage to blow the facility up.
+
+139
+00:09:20,135 --> 00:09:24,560
+(John) However, Chance and
+Eddie both fell back into the
+
+140
+00:09:24,561 --> 00:09:29,440
+(John) facility as it exploded,
+and they didn't make it.
+
+141
+00:09:29,819 --> 00:09:32,720
+(John) We found Vorrell and
+Hope though, still waiting
+
+142
+00:09:32,721 --> 00:09:36,000
+(John) for us, but there was
+little opportunity for
+
+143
+00:09:36,199 --> 00:09:37,199
+(John) celebration.
+
+144
+00:09:37,269 --> 00:09:40,400
+(John) No sooner did we see
+them than a massive dragon
+
+145
+00:09:40,401 --> 00:09:43,520
+(John) Rose out of the sands
+and took to the sky.
+
+146
+00:09:43,849 --> 00:09:46,400
+(John) To make matters even
+worse, we were now being
+
+147
+00:09:46,401 --> 00:09:49,600
+(John) chased by unknown
+forces in vehicles while we
+
+148
+00:09:49,601 --> 00:09:53,120
+(John) still pursued the goblins
+who were ahead of us.
+
+149
+00:09:53,349 --> 00:09:56,160
+(John) It didn't leave us much
+time to catch up on what
+
+150
+00:09:56,259 --> 00:09:59,520
+(John) had transpired, but
+when I think about it I still
+
+151
+00:09:59,521 --> 00:10:06,240
+(John) wonder what Vorrell and Hope got
+up to while we were under the sands.
+
+152
+00:10:07,509 --> 00:10:11,200
+(Kyle) Let us engage in the gossip together.
+
+153
+00:10:11,280 --> 00:10:11,566
+(Kyle) The.
+
+154
+00:10:11,590 --> 00:10:13,190
+(Kristen) gossip, you say?
+
+155
+00:10:13,270 --> 00:10:14,270
+(Kyle) Yes.
+
+156
+00:10:14,390 --> 00:10:14,575
+(Kyle) I.
+
+157
+00:10:14,599 --> 00:10:17,670
+(Kristen) guess the choice is Nash or Stanley first.
+
+158
+00:10:17,835 --> 00:10:20,470
+(Kyle) I've actually had quite
+a bit of time to sit down
+
+159
+00:10:20,555 --> 00:10:27,590
+(Kyle) in the mobile here as well as in our
+dank underground to talk with Stanley.
+
+160
+00:10:27,670 --> 00:10:30,470
+(Kyle) And Nash is a curious fellow.
+
+161
+00:10:30,500 --> 00:10:33,190
+(Kyle) I'd actually like to know more about you.
+
+162
+00:10:33,510 --> 00:10:33,866
+(Kyle) Me.
+
+163
+00:10:33,890 --> 00:10:34,686
+(Kristen) me?
+
+164
+00:10:34,710 --> 00:10:37,430
+(Kristen) Well, you know, Varel,
+usually when you gossip
+
+165
+00:10:37,579 --> 00:10:40,950
+(Kristen) about people, it's not with them there.
+
+166
+00:10:41,379 --> 00:10:42,550
+(Kyle) It's rather dishonest.
+
+167
+00:10:42,920 --> 00:10:45,830
+(Kristen) Humans are dishonest folk.
+
+168
+00:10:45,959 --> 00:10:47,350
+(Kyle) I'm learning this.
+
+169
+00:10:47,629 --> 00:10:49,270
+(Kristen) So, but but back to the point.
+
+170
+00:10:49,350 --> 00:10:50,950
+(Kristen) You wanted to talk about me.
+
+171
+00:10:51,339 --> 00:10:53,110
+(Kyle) Oh, you do the one I don't know.
+
+172
+00:10:53,609 --> 00:10:55,830
+(Kyle) Nash seems rather easy to figure out.
+
+173
+00:10:56,109 --> 00:11:02,470
+(Kyle) A panicky man with a mysterious past imbued
+with powers that he may not understand.
+
+174
+00:11:02,550 --> 00:11:03,406
+(Kyle) And what what?
+
+175
+00:11:03,430 --> 00:11:05,830
+(Kyle) A danger to himself
+and everyone around him.
+
+176
+00:11:06,009 --> 00:11:08,230
+(Kyle) But a kind hearted soul.
+
+177
+00:11:08,509 --> 00:11:11,910
+(Kyle) Stanley, a man out for
+himself, and not much more
+
+178
+00:11:12,259 --> 00:11:13,670
+(Kyle) than that, it would seem.
+
+179
+00:11:13,750 --> 00:11:13,967
+(Kyle) You.
+
+180
+00:11:13,991 --> 00:11:15,830
+(Kristen) know, you're very perceptive.
+
+181
+00:11:15,910 --> 00:11:18,150
+(Kristen) I wouldn't have expected
+that from a lizard.
+
+182
+00:11:18,429 --> 00:11:22,630
+(Kyle) You'd be surprised at
+how few questions I get
+
+183
+00:11:23,229 --> 00:11:27,110
+(Kyle) asked, and how much time
+I'm allowed to think for myself.
+
+184
+00:11:27,479 --> 00:11:30,710
+(Kristen) So, what questions do you have?
+
+185
+00:11:30,789 --> 00:11:35,190
+(Kyle) Well, I thought perhaps
+we could uh build a fort.
+
+186
+00:11:35,859 --> 00:11:42,520
+(Kyle) or dig a hole or have some sort of mutual
+activity to let our friendship blossom.
+
+187
+00:11:43,160 --> 00:11:44,200
+(Kristen) Dig a hole.
+
+188
+00:11:44,280 --> 00:11:48,440
+(Kristen) I've never heard that one for building
+friendships, but I'm willing to try it.
+
+189
+00:11:48,615 --> 00:11:53,960
+(Kyle) Any sort of project is is
+suitable for building a friendship.
+
+190
+00:11:53,965 --> 00:11:58,120
+(Kyle) You can uh dig a hole,
+we could go for a walk, we
+
+191
+00:11:58,519 --> 00:12:00,280
+(Kyle) could watch the stars.
+
+192
+00:12:00,729 --> 00:12:02,680
+(Kristen) Let's watch the stars.
+
+193
+00:12:02,959 --> 00:12:07,960
+(Kristen) I'm sure di I'm sure your your
+family told you stories about them?
+
+194
+00:12:08,040 --> 00:12:08,417
+(Kristen) From.
+
+195
+00:12:08,441 --> 00:12:10,120
+(Kyle) what I remember, yes.
+
+196
+00:12:10,200 --> 00:12:10,577
+(Kyle) What.
+
+197
+00:12:10,601 --> 00:12:11,296
+(Kristen) did they tell you?
+
+198
+00:12:11,320 --> 00:12:12,760
+(Kristen) What what's your favorite star?
+
+199
+00:12:12,840 --> 00:12:15,080
+(Kristen) And what kind of legend does it hold?
+
+200
+00:12:15,405 --> 00:12:18,440
+(Kyle) Well, uh, we have the red one there.
+
+201
+00:12:18,619 --> 00:12:19,720
+(Kyle) Yes.
+
+202
+00:12:20,099 --> 00:12:21,560
+(Kyle) Exantos.
+
+203
+00:12:21,639 --> 00:12:23,800
+(Kristen) A Exanthos.
+
+204
+00:12:24,179 --> 00:12:25,480
+(Kyle) Exantos, yeah.
+
+205
+00:12:25,659 --> 00:12:26,680
+(Kristen) Exantos.
+
+206
+00:12:26,920 --> 00:12:33,000
+(Kyle) He moves across the sky, sometimes visiting
+other stars, always overlapping them.
+
+207
+00:12:33,215 --> 00:12:35,320
+(Kyle) That that red one there, yes.
+
+208
+00:12:35,449 --> 00:12:38,760
+(Kyle) Sometimes he goes behind the moon.
+
+209
+00:12:39,039 --> 00:12:41,880
+(Kyle) And depending on which
+part the red dragon is
+
+210
+00:12:41,881 --> 00:12:45,720
+(Kyle) visiting in the sky, you can
+read into the future, perhaps.
+
+211
+00:12:45,999 --> 00:12:49,160
+(Kyle) Or at least catch a
+gleam of events to come.
+
+212
+00:12:49,240 --> 00:12:49,377
+(Kyle) The.
+
+213
+00:12:49,401 --> 00:12:49,936
+(Kristen) future?
+
+214
+00:12:49,960 --> 00:12:54,600
+(Kristen) I wouldn't have expected you for one
+to tell the portents of the future, Varel.
+
+215
+00:12:54,680 --> 00:12:54,897
+(Kristen) Is.
+
+216
+00:12:54,921 --> 00:12:56,040
+(Kyle) that so unexpected?
+
+217
+00:12:56,120 --> 00:12:57,560
+(Kyle) The future is all around us.
+
+218
+00:12:57,720 --> 00:13:00,840
+(Kyle) You can uh see a rock
+and know you'll stub your
+
+219
+00:13:01,389 --> 00:13:04,760
+(Kyle) toe if you do not deviate
+off your present path.
+
+220
+00:13:05,039 --> 00:13:07,160
+(Kyle) The future's an easy thing to tell.
+
+221
+00:13:07,449 --> 00:13:08,530
+(Kristen) But what about the past?
+
+222
+00:13:08,709 --> 00:13:10,210
+(Kristen) So let me show you mine.
+
+223
+00:13:10,339 --> 00:13:14,370
+(Kristen) You see that that
+twinkling one right up there?
+
+224
+00:13:14,699 --> 00:13:17,890
+(Kristen) And how it connects to
+the two other stars next to it?
+
+225
+00:13:18,069 --> 00:13:19,490
+(Kristen) That's the portal.
+
+226
+00:13:19,819 --> 00:13:21,810
+(Kristen) From where the dragons came from.
+
+227
+00:13:21,895 --> 00:13:23,250
+(Kyle) The portal.
+
+228
+00:13:23,430 --> 00:13:24,450
+(Kristen) Well, yes.
+
+229
+00:13:24,530 --> 00:13:25,386
+(Kristen) The legends.
+
+230
+00:13:25,410 --> 00:13:30,370
+(Kristen) They're the portal where the dragons
+came and they infested this world.
+
+231
+00:13:30,649 --> 00:13:33,250
+(Kristen) And so the humans, it
+was just humans at the time.
+
+232
+00:13:33,305 --> 00:13:35,170
+(Kristen) They made a pact.
+
+233
+00:13:35,225 --> 00:13:38,610
+(Kristen) The dark pact with the demons.
+
+234
+00:13:38,889 --> 00:13:41,170
+(Kristen) Half of me, half of my people.
+
+235
+00:13:41,349 --> 00:13:43,723
+(Kristen) But the pact was never
+made, and that's why
+
+236
+00:13:43,724 --> 00:13:46,770
+(Kristen) the dragons were able
+to ravage this world.
+
+237
+00:13:46,850 --> 00:13:47,115
+(Kristen) You.
+
+238
+00:13:47,139 --> 00:13:50,370
+(Kyle) don't see many dragons these days.
+
+239
+00:13:50,550 --> 00:13:54,770
+(Kristen) Well, no, I'm pretty
+sure they're all extinct.
+
+240
+00:13:55,099 --> 00:13:58,690
+(Kristen) But imagine, Burel imagine
+being able to go back
+
+241
+00:13:58,691 --> 00:14:02,130
+(Kristen) to the past and seeing
+them in their full glory
+
+242
+00:14:02,339 --> 00:14:05,570
+(Kristen) and the demons
+unadulterated with the humans
+
+243
+00:14:05,685 --> 00:14:07,250
+(Kristen) fighting.
+
+244
+00:14:07,529 --> 00:14:08,610
+(Kyle) Sounds like chaos.
+
+245
+00:14:08,665 --> 00:14:10,450
+(Kyle) Sounds like war.
+
+246
+00:14:11,939 --> 00:14:14,634
+(Kristen) This may be because
+you know we're we're
+
+247
+00:14:14,635 --> 00:14:17,890
+(Kristen) becoming friends now,
+but what if I told you?
+
+248
+00:14:18,119 --> 00:14:21,570
+(Kristen) What if I told you that that's my purpose?
+
+249
+00:14:21,749 --> 00:14:22,770
+(Kristen) To what?
+
+250
+00:14:22,999 --> 00:14:25,170
+(Kristen) To go back in the past.
+
+251
+00:14:25,399 --> 00:14:26,690
+(Kyle) Into the past.
+
+252
+00:14:26,770 --> 00:14:33,010
+(Kristen) Yeah, yes, to complete the dark pact to
+stop the dragons from ruining this world.
+
+253
+00:14:33,364 --> 00:14:36,050
+(Kyle) That's a that's a lot to do.
+
+254
+00:14:36,644 --> 00:14:38,310
+(Kristen) It's it's a big task.
+
+255
+00:14:38,340 --> 00:14:40,630
+(Kristen) I'm not beyond it though.
+
+256
+00:14:40,710 --> 00:14:43,190
+(Kyle) Well, I'm I'm impressed, believe me.
+
+257
+00:14:43,270 --> 00:14:47,830
+(Kyle) This uh this is a bit more honorable than
+
+258
+00:14:48,349 --> 00:14:52,790
+(Kyle) stealing an extra coin,
+building a place for
+
+259
+00:14:52,791 --> 00:14:57,030
+(Kyle) yourself, or perhaps
+even seeking revenge.
+
+260
+00:14:57,259 --> 00:15:00,950
+(Kyle) I see it as I would see
+it, I should say, as an
+
+261
+00:15:00,951 --> 00:15:04,070
+(Kyle) unachievable feat, but I
+did just watch two men.
+
+262
+00:15:04,699 --> 00:15:08,870
+(Kyle) sucked below the sand,
+converse not days ago with
+
+263
+00:15:08,994 --> 00:15:11,270
+(Kyle) a skeleton, and this.
+
+264
+00:15:11,910 --> 00:15:13,190
+(Kristen) Kill a demon?
+
+265
+00:15:13,270 --> 00:15:14,270
+(Kyle) Yes.
+
+266
+00:15:14,429 --> 00:15:16,950
+(Kyle) There is uh there is much
+this world that my time
+
+267
+00:15:17,099 --> 00:15:18,950
+(Kyle) in the desert did not teach me about.
+
+268
+00:15:19,229 --> 00:15:20,630
+(Kyle) So how will you do it?
+
+269
+00:15:20,959 --> 00:15:23,110
+(Kyle) How does one return to the past?
+
+270
+00:15:23,479 --> 00:15:26,470
+(Kristen) Well, from what I've
+gathered from the stories of
+
+271
+00:15:26,919 --> 00:15:31,510
+(Kristen) my people, and a few other stories
+from other people, the dragon engines.
+
+272
+00:15:31,590 --> 00:15:34,150
+(Kristen) It all revolves around the dragon engines.
+
+273
+00:15:34,310 --> 00:15:40,790
+(Kristen) You you you get one and you do something
+with it, and you go back to the past.
+
+274
+00:15:41,270 --> 00:15:46,790
+(Kyle) The dragon engine being
+that small device and dust hill.
+
+275
+00:15:46,920 --> 00:15:49,350
+(Kristen) Yes, exactly.
+
+276
+00:15:49,529 --> 00:15:57,350
+(Kyle) If the past requires fixing, then
+the present and the future is broken.
+
+277
+00:15:58,379 --> 00:15:59,430
+(Kristen) Yes, it is.
+
+278
+00:15:59,510 --> 00:16:04,280
+(Kristen) I mean, look at all around us this
+this dead world when there was a river.
+
+279
+00:16:04,335 --> 00:16:08,120
+(Kristen) It's proof that this used
+to be teeming with life.
+
+280
+00:16:08,175 --> 00:16:13,480
+(Kristen) And then all of the people, they
+have such such sad backstories.
+
+281
+00:16:13,999 --> 00:16:16,040
+(Kyle) Why not then?
+
+282
+00:16:16,419 --> 00:16:18,840
+(Kyle) Accept this world is broken.
+
+283
+00:16:19,169 --> 00:16:22,920
+(Kyle) Perhaps even unfixable
+outside of your means.
+
+284
+00:16:23,050 --> 00:16:28,120
+(Kyle) And do everything necessary
+to see the future done right.
+
+285
+00:16:28,300 --> 00:16:32,520
+(Kyle) Why waste your time on these
+ultimately pathetic humans?
+
+286
+00:16:32,600 --> 00:16:35,320
+(Kyle) For me, I am honor bound.
+
+287
+00:16:35,499 --> 00:16:38,120
+(Kyle) I became a servant of Dust Hill.
+
+288
+00:16:38,300 --> 00:16:43,320
+(Kyle) And the people are missing, and
+now we seek to rectify the wrongs.
+
+289
+00:16:44,749 --> 00:16:46,280
+(Kyle) But why bother with this quest?
+
+290
+00:16:46,559 --> 00:16:49,480
+(Kyle) Why not just return to
+Dust Hill, set the past in
+
+291
+00:16:49,725 --> 00:16:53,240
+(Kyle) proper motion, and kill
+anybody along the way
+
+292
+00:16:53,320 --> 00:16:55,400
+(Kyle) because they ultimately
+wouldn't be alive in the
+
+293
+00:16:55,799 --> 00:16:56,840
+(Kyle) new future anyway.
+
+294
+00:16:58,139 --> 00:17:02,760
+(Kristen) The killing people, I don't want to
+make them sadder than they already are.
+
+295
+00:17:02,840 --> 00:17:03,615
+(Kristen) Right?
+
+296
+00:17:03,639 --> 00:17:07,960
+(Kristen) Do you I I you have emotions, correct?
+
+297
+00:17:08,014 --> 00:17:09,079
+(Kristen) Yes.
+
+298
+00:17:09,209 --> 00:17:13,720
+(Kristen) So, do you like seeing people hurt?
+
+299
+00:17:13,999 --> 00:17:15,000
+(Kyle) Hmm.
+
+300
+00:17:15,179 --> 00:17:16,200
+(Kyle) No.
+
+301
+00:17:16,579 --> 00:17:18,359
+(Kyle) I'd say not in general, no.
+
+302
+00:17:18,489 --> 00:17:20,280
+(Kristen) So that's why I don't kill them, right?
+
+303
+00:17:20,359 --> 00:17:23,000
+(Kristen) And also because it
+creates bigger problems.
+
+304
+00:17:23,329 --> 00:17:27,079
+(Kristen) Because if you kill one person,
+you gotta kill more people.
+
+305
+00:17:27,319 --> 00:17:29,720
+(Kristen) It never just stops with one, believe me.
+
+306
+00:17:29,820 --> 00:17:30,820
+(Kristen) I know that.
+
+307
+00:17:30,860 --> 00:17:35,260
+(Kyle) No, you humans are pretty good
+at watching after your own genus.
+
+308
+00:17:36,239 --> 00:17:39,820
+(Kyle) Um speaking of which
+apologies, or I I'm awful
+
+309
+00:17:40,030 --> 00:17:40,940
+(Kyle) confused.
+
+310
+00:17:40,944 --> 00:17:44,780
+(Kyle) Uh what appears to be
+our truly human brethren is
+
+311
+00:17:45,074 --> 00:17:49,660
+(Kyle) malformed and unsocial.
+
+312
+00:17:49,839 --> 00:17:54,380
+(Kyle) Our most perhaps human
+companion gets spoke to
+
+313
+00:17:54,381 --> 00:17:59,500
+(Kyle) all the time in various made-up
+languages about the shape of his ears.
+
+314
+00:17:59,580 --> 00:18:05,660
+(Kyle) And you perhaps receive
+the most wary looks for
+
+315
+00:18:05,661 --> 00:18:12,380
+(Kyle) having but it basically the
+horns of a grazer on your head.
+
+316
+00:18:12,539 --> 00:18:13,740
+(Kyle) Yes.
+
+317
+00:18:14,019 --> 00:18:15,260
+(Kyle) Are you human?
+
+318
+00:18:16,140 --> 00:18:19,100
+(Kristen) Oh no, well, half of me is.
+
+319
+00:18:19,329 --> 00:18:20,700
+(Kristen) Half of me is human.
+
+320
+00:18:20,979 --> 00:18:22,940
+(Kristen) The other half is bad demon.
+
+321
+00:18:23,019 --> 00:18:26,460
+(Kristen) You should see the dreams I have sometimes.
+
+322
+00:18:26,769 --> 00:18:32,700
+(Kyle) And demons identify as
+mountain top grass eaters?
+
+323
+00:18:33,359 --> 00:18:37,820
+(Kristen) Well, it's more a s uh
+a way of combat, right?
+
+324
+00:18:38,099 --> 00:18:39,180
+(Kristen) You butt heads.
+
+325
+00:18:39,459 --> 00:18:42,620
+(Kristen) But with tieflings,
+you literally butt heads.
+
+326
+00:18:42,700 --> 00:18:42,920
+(Kristen) So.
+
+327
+00:18:42,944 --> 00:18:44,540
+(Kyle) it's a dominance.
+
+328
+00:18:44,620 --> 00:18:45,545
+(Kristen) Yes.
+
+329
+00:18:45,569 --> 00:18:48,540
+(Kristen) And I was lucky to be blessed
+with some of the bigger horns.
+
+330
+00:18:48,619 --> 00:18:51,900
+(Kristen) Some of 'em, they
+don't have very big horns.
+
+331
+00:18:52,729 --> 00:18:56,340
+(Kyle) I see, so you are
+bountiful, Healthy.
+
+332
+00:18:56,820 --> 00:18:57,860
+(Kristen) Bountiful?
+
+333
+00:18:57,939 --> 00:18:59,140
+(Kyle) Virile.
+
+334
+00:18:59,194 --> 00:19:02,020
+(Kristen) Oh, oh chit children?
+
+335
+00:19:02,134 --> 00:19:05,700
+(Kyle) I guess that is the ultimate
+purpose of being fertile.
+
+336
+00:19:05,829 --> 00:19:07,300
+(Kristen) Ugh, no viril.
+
+337
+00:19:07,380 --> 00:19:11,780
+(Kristen) No uh no children for
+me, my past or my future.
+
+338
+00:19:11,860 --> 00:19:12,900
+(Kristen) What about you?
+
+339
+00:19:13,079 --> 00:19:16,820
+(Kristen) What about you, the big
+lizardman who's grilling the tea fling?
+
+340
+00:19:17,779 --> 00:19:19,940
+(Kristen) Do you have any offspring?
+
+341
+00:19:20,020 --> 00:19:23,540
+(Kyle) No, no, that would
+be that'd be quite silly.
+
+342
+00:19:23,620 --> 00:19:24,476
+(Kristen) Quite silly?
+
+343
+00:19:24,500 --> 00:19:25,500
+(Kristen) Why would that be silly?
+
+344
+00:19:25,540 --> 00:19:27,780
+(Kristen) Don't don't you I do you mature?
+
+345
+00:19:27,860 --> 00:19:30,660
+(Kristen) How fast does it take for
+a little lizard to grow up?
+
+346
+00:19:30,789 --> 00:19:33,380
+(Kyle) Oh about six years or so.
+
+347
+00:19:33,709 --> 00:19:37,060
+(Kyle) Uh eight for fighting age and size.
+
+348
+00:19:37,140 --> 00:19:38,180
+(Kristen) That's pretty fast.
+
+349
+00:19:38,284 --> 00:19:40,740
+(Kristen) Why wouldn't you have little
+ones running around all the time?
+
+350
+00:19:40,844 --> 00:19:43,140
+(Kyle) Well, they're resource
+drain for one, but there is
+
+351
+00:19:43,141 --> 00:19:47,860
+(Kyle) no greater power or
+force suggesting I do so.
+
+352
+00:19:47,939 --> 00:19:52,180
+(Kristen) So so you you don't even
+have an urge to create
+
+353
+00:19:52,379 --> 00:19:53,860
+(Kristen) little Varrells.
+
+354
+00:19:54,089 --> 00:19:58,260
+(Kyle) That urge would go against
+the the base notions of
+
+355
+00:19:58,469 --> 00:20:02,500
+(Kyle) survivability and
+effectiveness in our current
+
+356
+00:20:02,649 --> 00:20:03,700
+(Kyle) predicament.
+
+357
+00:20:03,929 --> 00:20:05,060
+(Kristen) That's fair.
+
+358
+00:20:05,439 --> 00:20:06,900
+(Kristen) I didn't think of it that way.
+
+359
+00:20:07,179 --> 00:20:11,620
+(Kristen) I mean if I I could, I'd have a few,
+but not in this present situation.
+
+360
+00:20:11,974 --> 00:20:14,740
+(Kristen) It's a bit bleak of a world,
+if you know what I mean.
+
+361
+00:20:14,919 --> 00:20:22,660
+(Kyle) Often a booming lizard populace
+means there is a large benefactor at work.
+
+362
+00:20:23,089 --> 00:20:24,100
+(Kyle) We lizards are
+
+363
+00:20:24,489 --> 00:20:25,650
+(Kyle) how should I put this?
+
+364
+00:20:25,829 --> 00:20:27,810
+(Kyle) Fiercely logical.
+
+365
+00:20:27,890 --> 00:20:30,850
+(Kyle) And children are very illogical.
+
+366
+00:20:31,079 --> 00:20:34,770
+(Kyle) And without the purpose
+of war or higher calling,
+
+367
+00:20:34,919 --> 00:20:37,070
+(Kyle) they would be wasted.
+
+368
+00:20:37,094 --> 00:20:41,250
+(Kristen) So so you talk about
+about an Alpha, basically.
+
+369
+00:20:41,379 --> 00:20:43,570
+(Kristen) How does a lizard become an Alpha?
+
+370
+00:20:43,650 --> 00:20:47,730
+(Kristen) How is if it's not logical
+or it's not about war,
+
+371
+00:20:47,730 --> 00:20:53,250
+(Kristen) how do you even find yourself in that kind
+of a position if you don't seek it out?
+
+372
+00:20:53,330 --> 00:20:53,627
+(Kristen) How.
+
+373
+00:20:53,651 --> 00:20:54,770
+(Kyle) do you mean?
+
+374
+00:20:54,849 --> 00:21:00,370
+(Kristen) Well, you you talk about
+lizards not being very
+
+375
+00:21:00,739 --> 00:21:02,850
+(Kristen) driven in terms of society, right?
+
+376
+00:21:02,930 --> 00:21:07,170
+(Kristen) You live alone, and it sounds like a
+lot of other of your kind live alone.
+
+377
+00:21:07,349 --> 00:21:11,010
+(Kristen) So how does one even
+put together a lizard family
+
+378
+00:21:11,254 --> 00:21:13,250
+(Kristen) and work as a group?
+
+379
+00:21:13,330 --> 00:21:15,810
+(Kristen) Is there no desire whatsoever?
+
+380
+00:21:16,119 --> 00:21:20,130
+(Kyle) Probably not too different
+than the human organizations.
+
+381
+00:21:20,210 --> 00:21:24,210
+(Kyle) It's just that it requires
+the initial bump.
+
+382
+00:21:24,439 --> 00:21:27,970
+(Kyle) Humans are brought together
+for all kinds of situations.
+
+383
+00:21:28,050 --> 00:21:33,890
+(Kyle) Imagine Imagine planning
+the next twenty years of
+
+384
+00:21:33,891 --> 00:21:38,450
+(Kyle) meals first, and then being
+willing to have the children.
+
+385
+00:21:38,504 --> 00:21:39,570
+(Kristen) Ah.
+
+386
+00:21:39,699 --> 00:21:42,210
+(Kristen) So so a lizard with foresight.
+
+387
+00:21:42,339 --> 00:21:44,690
+(Kristen) And that's why you think
+about the future so much.
+
+388
+00:21:44,770 --> 00:21:44,987
+(Kristen) It's.
+
+389
+00:21:45,011 --> 00:21:47,010
+(Kyle) a useful thing thinking about the future.
+
+390
+00:21:47,139 --> 00:21:50,610
+(Kyle) Oftentimes lizards are not the
+
+391
+00:21:51,039 --> 00:21:53,820
+(Kyle) proprietors of their own future.
+
+392
+00:21:54,599 --> 00:21:56,461
+(Kyle) And the before times
+of I've heard as I've heard
+
+393
+00:21:56,485 --> 00:21:59,900
+(Kyle) it told, the dragons
+themselves appeared before
+
+394
+00:21:59,901 --> 00:22:02,940
+(Kyle) the lizards and giving
+them such great purpose
+
+395
+00:22:03,459 --> 00:22:06,140
+(Kyle) began a breeding program to raise an army.
+
+396
+00:22:06,220 --> 00:22:06,517
+(Kyle) Where.
+
+397
+00:22:06,541 --> 00:22:08,940
+(Kristen) did you get your stories from?
+
+398
+00:22:09,020 --> 00:22:09,931
+(Kyle) My story.
+
+399
+00:22:09,955 --> 00:22:13,660
+(Kyle) Well, perhaps that is a
+story for another time.
+
+400
+00:22:13,740 --> 00:22:14,037
+(Kyle) Oh,
+
+401
+00:22:14,061 --> 00:22:15,061
+(Kristen) for real!
+
+402
+00:22:15,089 --> 00:22:16,700
+(Kristen) You want to try the backpack?
+
+403
+00:22:16,779 --> 00:22:18,060
+(Kyle) The backpack.
+
+404
+00:22:18,140 --> 00:22:19,140
+(Kyle) Oh!
+
+405
+00:22:19,169 --> 00:22:21,660
+(Kyle) That metal hunk you had me haul out.
+
+406
+00:22:21,740 --> 00:22:22,676
+(Kristen) Yes!
+
+407
+00:22:22,700 --> 00:22:23,685
+(Kyle) Of dust hill.
+
+408
+00:22:23,709 --> 00:22:25,340
+(Kyle) What is this thing?
+
+409
+00:22:25,469 --> 00:22:27,100
+(Kristen) So this.
+
+410
+00:22:27,429 --> 00:22:28,940
+(Kristen) It's a jet pack.
+
+411
+00:22:29,019 --> 00:22:32,940
+(Kristen) It was as far as I can tell,
+created by the dwarves.
+
+412
+00:22:33,069 --> 00:22:35,500
+(Kristen) You you you put it on like this.
+
+413
+00:22:35,580 --> 00:22:36,620
+(Kristen) Let me help you.
+
+414
+00:22:36,700 --> 00:22:37,661
+(Kristen) And yeah, yeah, yeah.
+
+415
+00:22:37,685 --> 00:22:38,596
+(Kristen) You put your arm through there.
+
+416
+00:22:38,620 --> 00:22:39,156
+(Kristen) Alright, great.
+
+417
+00:22:39,180 --> 00:22:40,180
+(Kristen) Now the other arm?
+
+418
+00:22:40,305 --> 00:22:41,305
+(Kristen) Alright.
+
+419
+00:22:41,759 --> 00:22:43,100
+(Kristen) How does it feel?
+
+420
+00:22:43,379 --> 00:22:45,100
+(Kyle) Heavy and hard.
+
+421
+00:22:45,180 --> 00:22:46,180
+(Kristen) Alright.
+
+422
+00:22:46,239 --> 00:22:50,620
+(Kristen) Well, with this, you you see the little
+button you have there in your hand?
+
+423
+00:22:50,749 --> 00:22:54,540
+(Kristen) You hit it, and it launches
+you up into the sky.
+
+424
+00:22:54,620 --> 00:22:54,917
+(Kristen) For.
+
+425
+00:22:54,941 --> 00:22:56,300
+(Kyle) what purpose?
+
+426
+00:22:56,380 --> 00:22:57,380
+(Kristen) To fly.
+
+427
+00:22:57,420 --> 00:22:59,580
+(Kristen) You know how much speed you have?
+
+428
+00:22:59,660 --> 00:23:06,940
+(Kristen) You could be above all the enemies and then
+rain down upon them like a scaled terror.
+
+429
+00:23:07,020 --> 00:23:07,236
+(Kristen) What.
+
+430
+00:23:07,260 --> 00:23:09,900
+(Kyle) would I rain upon them?
+
+431
+00:23:10,029 --> 00:23:12,940
+(Kristen) You could rain yourself upon them.
+
+432
+00:23:13,500 --> 00:23:16,547
+(Kristen) Imagine being able to
+jump so high that when
+
+433
+00:23:16,548 --> 00:23:20,700
+(Kristen) you land on your enemy,
+it incapacitates them.
+
+434
+00:23:20,739 --> 00:23:22,260
+(Kyle) Wouldn't I?
+
+435
+00:23:22,589 --> 00:23:26,180
+(Kyle) Would I be incapacitated
+too of falling and whatnot?
+
+436
+00:23:26,260 --> 00:23:27,116
+(Kyle) Seems right.
+
+437
+00:23:27,140 --> 00:23:30,420
+(Kristen) Maybe I've never tried it, to be honest.
+
+438
+00:23:30,579 --> 00:23:31,700
+(Kristen) Well, let's.
+
+439
+00:23:34,669 --> 00:23:41,620
+(Kyle) give it a shot.
+
+440
+00:23:43,540 --> 00:23:44,580
+(Kyle) Huh.
+
+441
+00:23:44,660 --> 00:23:44,956
+(Kyle) So.
+
+442
+00:23:44,980 --> 00:23:47,620
+(Kristen) that's how it works.
+
+443
+00:23:48,900 --> 00:23:49,500
+(Kristen) So.
+
+444
+00:23:49,524 --> 00:23:56,100
+(John) we found ourselves back to chasing goblins,
+but all while being chased ourselves.
+
+445
+00:23:56,329 --> 00:23:59,220
+(John) Our pursuers finally
+caught up, and we learned
+
+446
+00:23:59,221 --> 00:24:02,420
+(John) they were a group called
+the Toyota host, being
+
+447
+00:24:02,421 --> 00:24:08,820
+(John) led by Kromakishi warriors, serving
+something known as the Principal.
+
+448
+00:24:09,099 --> 00:24:12,100
+(John) This is all stuff we
+would learn later, as we
+
+449
+00:24:12,101 --> 00:24:18,500
+(John) were ultimately overrun, the Fateful was
+damaged once again, and we were arrested.
+
+450
+00:24:18,729 --> 00:24:23,140
+(John) They took us to a place called
+Slave Town to undergo trial.
+
+451
+00:24:23,369 --> 00:24:28,260
+(John) We found out this is also where they
+had taken the captured people of Dust Hill.
+
+452
+00:24:28,389 --> 00:24:31,700
+(John) It seems some time ago
+the Hillmaster sold out
+
+453
+00:24:31,749 --> 00:24:35,860
+(John) Dust Hill's location, and
+now Slave Town saw it
+
+454
+00:24:35,861 --> 00:24:40,500
+(John) as a place that it could
+go and pick resources from.
+
+455
+00:24:40,729 --> 00:24:44,420
+(John) Under the control of
+the principal, guilt is
+
+456
+00:24:44,421 --> 00:24:49,700
+(John) determined in a trial of combat
+in a place called the Rusty Cage.
+
+457
+00:24:49,780 --> 00:24:52,840
+(John) So So we were pitted
+against five Chroma Kishi
+
+458
+00:24:53,069 --> 00:24:55,599
+(John) initiates, and while the
+old man we found in
+
+459
+00:24:55,600 --> 00:24:59,320
+(John) the desert was
+unfortunately killed, we did
+
+460
+00:24:59,321 --> 00:25:03,080
+(John) ultimately win the fight
+and prove our innocence.
+
+461
+00:25:03,309 --> 00:25:05,800
+(John) This was considered unheard of, and it
+
+462
+00:25:05,801 --> 00:25:09,560
+(John) immediately made us a
+party of interest in the town.
+
+463
+00:25:09,789 --> 00:25:12,760
+(John) We now find ourselves
+trapped in a civil war
+
+464
+00:25:12,949 --> 00:25:15,800
+(John) struggle for control and power.
+
+465
+00:25:16,029 --> 00:25:21,320
+(John) On one side is Selevis Stump, the
+owner of the Buxom Confederate.
+
+466
+00:25:21,499 --> 00:25:24,520
+(John) He's a slaver with the
+backing of the principal.
+
+467
+00:25:24,749 --> 00:25:28,360
+(John) He's got his eye on Hope
+in particular, it seems.
+
+468
+00:25:28,499 --> 00:25:31,760
+(John) The other side is the
+jeweler, who runs a brothel
+
+469
+00:25:31,870 --> 00:25:33,600
+(John) called the Sapphire.
+
+470
+00:25:33,779 --> 00:25:36,720
+(John) He wants to see the town
+restored to what it was
+
+471
+00:25:36,745 --> 00:25:41,280
+(John) before it became Slave Town,
+when it was known as Pristine.
+
+472
+00:25:41,419 --> 00:25:44,920
+(John) However, he's also clearly a criminal.
+
+473
+00:25:45,014 --> 00:25:49,200
+(John) That said, he's also the one I'm backing.
+
+474
+00:25:49,529 --> 00:25:52,400
+(John) So we find ourselves pulled in multiple
+
+475
+00:25:52,401 --> 00:25:55,680
+(John) directions, looking for
+the deed to a mind that
+
+476
+00:25:55,681 --> 00:26:02,240
+(John) will ultimately tip the scales in someone's
+favor, and hopefully free our people.
+
+477
+00:26:24,270 --> 00:26:26,590
+(Kyle) This show is part of
+the Frog Pants Network.
+
+478
+00:26:26,750 --> 00:26:27,790
+(Kyle) Frog Pants Network.
+
+479
+00:26:27,870 --> 00:26:32,590
+(Kyle) Get more shows like this at FrogPants.com.
+
+480
+00:26:32,670 --> 00:26:37,950
+(John) G0R, the number four TH.
+
+481
+00:26:38,079 --> 00:26:39,310
+(John) That's right.
+
+482
+00:26:39,365 --> 00:26:40,910
+(John) Goreth.
+

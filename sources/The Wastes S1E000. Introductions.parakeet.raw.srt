@@ -1,0 +1,736 @@
+1
+00:00:00,000 --> 00:00:02,480
+(speaker 0) hey everybody scott johnson here and if you're
+
+2
+00:00:02,480 --> 00:00:04,080
+(speaker 0) listening to this that means you've gotten a hold
+
+3
+00:00:04,234 --> 00:00:07,040
+(speaker 0) of the feed early this is just a quick audio
+
+4
+00:00:07,040 --> 00:00:12,720
+(speaker 0) preview of what you can expect from there will be
+
+5
+00:00:12,720 --> 00:00:15,920
+(speaker 0) dungeons which starts this saturday so what we
+
+6
+00:00:15,920 --> 00:00:18,240
+(speaker 0) have here is character introductions little
+
+7
+00:00:18,240 --> 00:00:20,000
+(speaker 0) dramatic so you're going to hear kind of
+
+8
+00:00:20,000 --> 00:00:24,320
+(speaker 0) backstory in a pretty serious way don't worry the
+
+9
+00:00:24,320 --> 00:00:26,080
+(speaker 0) actual show is not going to be steeped in this
+
+10
+00:00:26,080 --> 00:00:28,480
+(speaker 0) kind of seriousness we hope to be laughing a lot
+
+11
+00:00:28,835 --> 00:00:31,360
+(speaker 0) during our live sessions however we thought to be
+
+12
+00:00:31,360 --> 00:00:33,120
+(speaker 0) fun for you guys to get an early peek at the
+
+13
+00:00:33,120 --> 00:00:34,800
+(speaker 0) characters we're going to be playing for this
+
+14
+00:00:34,800 --> 00:00:37,520
+(speaker 0) campaign it starts off with bo explaining the
+
+15
+00:00:37,520 --> 00:00:39,120
+(speaker 0) world and then each of us get a chance to talk
+
+16
+00:00:39,120 --> 00:00:40,720
+(speaker 0) about the characters we're bringing into that
+
+17
+00:00:41,369 --> 00:00:43,040
+(speaker 0) world so anyway i just want to give you a heads
+
+18
+00:00:43,040 --> 00:00:45,680
+(speaker 0) up on how that works this will also be the feed
+
+19
+00:00:45,680 --> 00:00:47,840
+(speaker 0) the podcast for you will get audio edition of the
+
+20
+00:00:47,989 --> 00:00:51,360
+(speaker 0) show every time it's posted course we encourage
+
+21
+00:00:51,360 --> 00:00:52,560
+(speaker 0) you to come to the live show which will be
+
+22
+00:00:52,560 --> 00:00:55,840
+(speaker 0) saturdays at two pm pacific that's five pm
+
+23
+00:00:55,850 --> 00:00:59,360
+(speaker 0) eastern for about three hours on average two hour
+
+24
+00:00:59,390 --> 00:01:02,720
+(speaker 0) to three hours something like that where we play
+
+25
+00:01:02,720 --> 00:01:05,519
+(speaker 0) through this amazing campaign and bo is our able
+
+26
+00:01:05,680 --> 00:01:08,240
+(speaker 0) d m and he has got some big plans for us so we're
+
+27
+00:01:08,240 --> 00:01:11,120
+(speaker 0) pretty excited about it anyway do that that's at
+
+28
+00:01:11,119 --> 00:01:13,680
+(speaker 0) frog pants dot tv but if you can't and this is
+
+29
+00:01:13,680 --> 00:01:15,360
+(speaker 0) the way you want to get it that's fine too
+
+30
+00:01:15,659 --> 00:01:18,000
+(speaker 0) because this is where i'll be putting it anyway
+
+31
+00:01:18,109 --> 00:01:21,840
+(speaker 0) sit back and enjoy our character introductions
+
+32
+00:01:21,894 --> 00:01:25,120
+(speaker 0) for the first season of there will be dungeons
+
+33
+00:01:26,520 --> 00:01:31,400
+(speaker 1) earth it has been countless millennia since this
+
+34
+00:01:31,480 --> 00:01:37,960
+(speaker 1) world was ruled by they once danced in light and
+
+35
+00:01:39,000 --> 00:01:47,000
+(speaker 1) they once touched opening the door to heaven but
+
+36
+00:01:47,640 --> 00:01:53,800
+(speaker 1) in an instant it and alien invaders from deep in
+
+37
+00:01:53,800 --> 00:01:59,400
+(speaker 1) the cosmos to the gates and an inferno on their
+
+38
+00:01:59,640 --> 00:02:05,800
+(speaker 1) guard they were right and they brought with them
+
+39
+00:02:06,200 --> 00:02:12,840
+(speaker 1) fire and hatred but humankind fought back they
+
+40
+00:02:13,160 --> 00:02:18,760
+(speaker 1) created battle machine those machines created
+
+41
+00:02:19,960 --> 00:02:24,360
+(speaker 1) machines and with those machines failed they made
+
+42
+00:02:25,160 --> 00:02:28,680
+(speaker 1) with demons in the darkest places of the world
+
+43
+00:02:30,920 --> 00:02:36,680
+(speaker 1) speakable monster with their champions astride
+
+44
+00:02:36,680 --> 00:02:40,040
+(speaker 1) them the humans turned the tide of war and slew
+
+45
+00:02:40,040 --> 00:02:44,680
+(speaker 1) the dragons by the thousands from their husks the
+
+46
+00:02:44,680 --> 00:02:49,000
+(speaker 1) humans created engines whose parts never rusted
+
+47
+00:02:49,080 --> 00:02:51,960
+(speaker 1) or broke pistons operated
+
+48
+00:02:52,210 --> 00:02:56,770
+(speaker 1) ceaselessly and whose combustion was interminable
+
+49
+00:02:57,170 --> 00:03:01,250
+(speaker 1) irradiating our world with mana waves that
+
+50
+00:03:01,250 --> 00:03:08,130
+(speaker 1) allowed them to wield terrible magics the war
+
+51
+00:03:08,610 --> 00:03:14,370
+(speaker 1) raged for a century more as humankind and
+
+52
+00:03:14,370 --> 00:03:17,890
+(speaker 1) dragonkind ground their numbers to dust the
+
+53
+00:03:17,890 --> 00:03:21,490
+(speaker 1) dragons summoned the last of their spite and
+
+54
+00:03:21,490 --> 00:03:25,330
+(speaker 1) scorched the lands with it and vanished there
+
+55
+00:03:25,330 --> 00:03:29,810
+(speaker 1) only remains the dragon engines used to power the
+
+56
+00:03:29,810 --> 00:03:33,090
+(speaker 1) last bastions of hope in a dying world
+
+57
+00:03:49,250 --> 00:03:53,970
+(speaker 0) if you could see past the scars if you could look
+
+58
+00:03:53,970 --> 00:03:59,010
+(speaker 0) beyond the tumors and craters if you could peer
+
+59
+00:03:59,010 --> 00:04:02,370
+(speaker 0) through the stinging grit and torn soul of nash
+
+60
+00:04:02,530 --> 00:04:08,850
+(speaker 0) magard you'd find light blinding rending
+
+61
+00:04:09,220 --> 00:04:15,570
+(speaker 0) destructive terrible light look deeper and you
+
+62
+00:04:15,570 --> 00:04:18,450
+(speaker 0) would find a man who could blot out the very sun
+
+63
+00:04:19,085 --> 00:04:22,410
+(speaker 0) and take this land beyond the repair of man or
+
+64
+00:04:22,410 --> 00:04:27,290
+(speaker 0) machine one who could bring pure and permanent
+
+65
+00:04:27,290 --> 00:04:31,370
+(speaker 0) darkness with his curse taking this decaying
+
+66
+00:04:31,370 --> 00:04:38,170
+(speaker 0) festering world to its final rest but if you look
+
+67
+00:04:38,170 --> 00:04:42,090
+(speaker 0) yet deeper at nash maggard there is more than
+
+68
+00:04:42,090 --> 00:04:45,930
+(speaker 0) this you would find a spark of something like
+
+69
+00:04:46,730 --> 00:04:52,090
+(speaker 0) salvation something like redemption something
+
+70
+00:04:52,250 --> 00:04:56,970
+(speaker 0) small but able perhaps willing to face down the
+
+71
+00:04:56,970 --> 00:05:02,810
+(speaker 0) darker temptations that surround that in indeed
+
+72
+00:05:02,810 --> 00:05:06,490
+(speaker 0) there may yet be a time when the name maggard is
+
+73
+00:05:06,490 --> 00:05:10,090
+(speaker 0) spoken in this desolation without revulsion and
+
+74
+00:05:10,090 --> 00:05:12,570
+(speaker 0) the flow of tears from frightened children
+
+75
+00:05:14,430 --> 00:05:16,730
+(speaker 0) perhaps there will come a time when he will be
+
+76
+00:05:16,730 --> 00:05:19,930
+(speaker 0) remembered as something more something better
+
+77
+00:05:22,195 --> 00:05:27,370
+(speaker 0) that day is not now his path is new and his
+
+78
+00:05:27,370 --> 00:05:29,610
+(speaker 0) countless years in the solar mines are well
+
+79
+00:05:29,610 --> 00:05:33,530
+(speaker 0) behind him in his leaving wake there lies
+
+80
+00:05:33,530 --> 00:05:38,010
+(speaker 0) devastation of the wicked and the righteous his
+
+81
+00:05:38,010 --> 00:05:40,570
+(speaker 0) escape left none to tell what they had seen
+
+82
+00:05:41,370 --> 00:05:43,610
+(speaker 0) history would never know what happened there but
+
+83
+00:05:43,610 --> 00:05:46,810
+(speaker 0) nash knew and that would haunt him
+
+84
+00:05:47,860 --> 00:05:51,280
+(speaker 0) but it would also fuel him like the ancient oil
+
+85
+00:05:51,280 --> 00:05:54,000
+(speaker 0) grounds did for the upright men before the fall a
+
+86
+00:05:54,080 --> 00:06:01,360
+(speaker 0) millennia ago it is near dawn now he stamps out
+
+87
+00:06:01,360 --> 00:06:03,440
+(speaker 0) the remains of his cook fire with his tattered
+
+88
+00:06:03,440 --> 00:06:07,760
+(speaker 0) boot and looks to the west with one eye the other
+
+89
+00:06:07,760 --> 00:06:11,520
+(speaker 0) burns sightless and dormant and waits for the
+
+90
+00:06:11,520 --> 00:06:16,160
+(speaker 0) next chance to play its dark and terrible role he
+
+91
+00:06:16,160 --> 00:06:18,560
+(speaker 0) takes a staff from its resting place among the
+
+92
+00:06:18,560 --> 00:06:21,200
+(speaker 0) stones throws his threadbare satchel over his
+
+93
+00:06:21,200 --> 00:06:24,800
+(speaker 0) pure shoulder and puts the rising sun to his back
+
+94
+00:06:27,300 --> 00:06:29,920
+(speaker 0) he knows not who he will meet nor what he will
+
+95
+00:06:29,920 --> 00:06:33,920
+(speaker 0) face and he doesn't care what comes will come and
+
+96
+00:06:33,920 --> 00:06:39,760
+(speaker 0) when it does nash will be ready to face it he
+
+97
+00:06:39,760 --> 00:06:42,080
+(speaker 0) takes a final look over his shoulder back toward
+
+98
+00:06:42,080 --> 00:06:45,200
+(speaker 0) the blood canyons the only home he'd ever known
+
+99
+00:06:46,155 --> 00:06:50,000
+(speaker 0) he can never go back he knows this and yet his
+
+100
+00:06:50,000 --> 00:06:53,840
+(speaker 0) heart still aches for the one long lost perhaps a
+
+101
+00:06:53,840 --> 00:06:59,120
+(speaker 0) story for a different time his boots left dusty
+
+102
+00:06:59,120 --> 00:07:01,840
+(speaker 0) footprints as he walked the only evidence that
+
+103
+00:07:01,840 --> 00:07:05,840
+(speaker 0) nash maggard was here they would soon be blown to
+
+104
+00:07:05,840 --> 00:07:10,160
+(speaker 0) oblivion by the next storm like a chapter in the
+
+105
+00:07:10,160 --> 00:07:12,800
+(speaker 0) old books his page was turning
+
+106
+00:07:13,740 --> 00:07:18,940
+(speaker 0) and he was turning with it for now that was enough
+
+107
+00:07:26,990 --> 00:07:34,380
+(speaker 2) the light the vision dins all that remains
+
+108
+00:07:35,500 --> 00:07:40,220
+(speaker 2) memories we tell of a time of chaos ruined dreams
+
+109
+00:07:40,220 --> 00:07:44,860
+(speaker 2) this wasted land but there are those of us that
+
+110
+00:07:44,910 --> 00:07:49,180
+(speaker 2) speak of hope the way the world could be to
+
+111
+00:07:49,180 --> 00:07:52,220
+(speaker 2) recall what it was like we have to go back to the
+
+112
+00:07:52,220 --> 00:07:55,740
+(speaker 2) other time when this world was blue and green in
+
+113
+00:07:55,740 --> 00:08:03,740
+(speaker 2) the desert sprouted life gone now swept away for
+
+114
+00:08:03,740 --> 00:08:06,780
+(speaker 2) reasons long forgotten mighty dragons came from
+
+115
+00:08:06,780 --> 00:08:09,660
+(speaker 2) beyond and touched off a blaze which engulfed it
+
+116
+00:08:10,810 --> 00:08:13,100
+(speaker 2) all without a means to fight the humans were
+
+117
+00:08:13,225 --> 00:08:17,580
+(speaker 2) nothing they were made of not but straw the
+
+118
+00:08:17,580 --> 00:08:21,020
+(speaker 2) thundering creatures roared and pillaged heroes
+
+119
+00:08:21,020 --> 00:08:25,180
+(speaker 2) fought and fought and fought but nothing could
+
+120
+00:08:25,180 --> 00:08:30,220
+(speaker 2) stem the conflagration the world crumbled life
+
+121
+00:08:30,460 --> 00:08:35,020
+(speaker 2) exploded a whirlwind of death a firestorm of fear
+
+122
+00:08:35,460 --> 00:08:37,980
+(speaker 2) men began to feed on men
+
+123
+00:08:39,029 --> 00:08:44,049
+(speaker 2) for those that survived it was a nightmare with no
+
+124
+00:08:44,370 --> 00:08:48,690
+(speaker 2) end only those brave enough to seek help
+
+125
+00:08:48,885 --> 00:08:52,610
+(speaker 2) desperate enough to live would find the demons
+
+126
+00:08:52,770 --> 00:08:57,810
+(speaker 2) and make the dark pact the demons took over the
+
+127
+00:08:57,810 --> 00:09:00,610
+(speaker 2) land ready to wage war and win back the world
+
+128
+00:09:00,610 --> 00:09:03,970
+(speaker 2) from the dragons and in this maelstrom of decay
+
+129
+00:09:04,599 --> 00:09:08,930
+(speaker 2) the tieflings emerged powerful and strong men and
+
+130
+00:09:08,930 --> 00:09:11,410
+(speaker 2) women the warriors designed to destroy the
+
+131
+00:09:11,410 --> 00:09:16,610
+(speaker 2) dragons in the roar of battle we lost everything
+
+132
+00:09:18,709 --> 00:09:22,690
+(speaker 2) and became a shell of what we were a burnt out
+
+133
+00:09:22,690 --> 00:09:26,930
+(speaker 2) desolate race a race haunted by the demons of the
+
+134
+00:09:28,079 --> 00:09:30,850
+(speaker 2) past a race that wandered out into the wasteland
+
+135
+00:09:32,599 --> 00:09:36,130
+(speaker 2) and it was here in this blighted place that we
+
+136
+00:09:36,130 --> 00:09:40,210
+(speaker 2) learned to live again and so began our journey to
+
+137
+00:09:40,210 --> 00:09:45,890
+(speaker 2) right the wrong toerase the past among us we
+
+138
+00:09:45,890 --> 00:09:49,170
+(speaker 2) found a new promise the tiefling who would travel
+
+139
+00:09:49,170 --> 00:09:53,570
+(speaker 2) back and complete the pact hope and just as my
+
+140
+00:09:53,570 --> 00:09:56,210
+(speaker 2) ancestral stories have foretold i've travelled
+
+141
+00:09:56,210 --> 00:09:59,010
+(speaker 2) far beyond the reach of society's misconceptions
+
+142
+00:09:59,730 --> 00:10:03,010
+(speaker 2) the dragon engines the precious engines are
+
+143
+00:10:03,010 --> 00:10:04,450
+(speaker 2) hidden across the world
+
+144
+00:10:04,530 --> 00:10:08,130
+(speaker 2) and i'm going to find one head back to the past
+
+145
+00:10:08,130 --> 00:10:11,810
+(speaker 2) and restore this world to its former glory the
+
+146
+00:10:11,810 --> 00:10:16,610
+(speaker 2) current wasteland this is the last we'll ever see
+
+147
+00:10:16,610 --> 00:10:20,690
+(speaker 2) of it it will live on only in our memories
+
+148
+00:10:24,690 --> 00:10:28,530
+(speaker 3) my name is stanley billings and i'm going to save
+
+149
+00:10:28,530 --> 00:10:32,290
+(speaker 3) this wasteland take a look around it and you'll
+
+150
+00:10:32,290 --> 00:10:36,210
+(speaker 3) see what i've seen my entire life brutality
+
+151
+00:10:36,290 --> 00:10:40,530
+(speaker 3) hopelessness death i was once right there with
+
+152
+00:10:40,530 --> 00:10:44,370
+(speaker 3) you i've had my fair share of bad choices just to
+
+153
+00:10:44,370 --> 00:10:49,010
+(speaker 3) see another miserable day that all changed when i
+
+154
+00:10:49,010 --> 00:10:52,850
+(speaker 3) found the artifact an ancient tome of forgotten
+
+155
+00:10:52,850 --> 00:10:56,130
+(speaker 3) knowledge that opened my eyes to not only what
+
+156
+00:10:56,130 --> 00:11:00,450
+(speaker 3) was but also what could be i learned the words
+
+157
+00:11:00,450 --> 00:11:04,370
+(speaker 3) that we had long forgotten words like society
+
+158
+00:11:04,690 --> 00:11:08,930
+(speaker 3) liberty and the path to these ideals government
+
+159
+00:11:10,210 --> 00:11:13,810
+(speaker 3) you see it's the lawless nature of this world
+
+160
+00:11:13,890 --> 00:11:18,210
+(speaker 3) that has held it in chaos for so long all it
+
+161
+00:11:18,210 --> 00:11:21,330
+(speaker 3) needs is the right person willing to do whatever
+
+162
+00:11:21,330 --> 00:11:26,130
+(speaker 3) it takes to push that chaos back into order am i
+
+163
+00:11:26,130 --> 00:11:30,530
+(speaker 3) the man to do this you bet your ass i am after
+
+164
+00:11:30,690 --> 00:11:31,730
+(speaker 3) all i'm
+
+165
+00:11:31,750 --> 00:11:35,830
+(speaker 3) stanley billings and i'm gonna save this wasteland
+
+166
+00:11:41,430 --> 00:11:45,510
+(speaker 4) between the rocky crags ofveathica and the endless
+
+167
+00:11:45,510 --> 00:11:49,670
+(speaker 4) wastes of ka e gro there lives a creature of
+
+168
+00:11:49,670 --> 00:11:55,510
+(speaker 4) untold strength and tremendous fortitude a raw
+
+169
+00:11:55,510 --> 00:12:01,270
+(speaker 4) untamed pillar of rocky scales and muscle blasted
+
+170
+00:12:01,270 --> 00:12:06,950
+(speaker 4) by sand and sun born to the barbarous lizard folk
+
+171
+00:12:06,950 --> 00:12:11,430
+(speaker 4) whose deeds go unseen by civilized eyes borel
+
+172
+00:12:11,430 --> 00:12:16,710
+(speaker 4) rasphim kurek the bountiful slaughter remains the
+
+173
+00:12:16,710 --> 00:12:23,430
+(speaker 4) last of his desert kin seven feet tall his gait a
+
+174
+00:12:23,430 --> 00:12:27,430
+(speaker 4) brawny swagger borel now ventures towards the
+
+175
+00:12:27,430 --> 00:12:31,510
+(speaker 4) dilapidated town of dusthill a massive bloody
+
+176
+00:12:31,510 --> 00:12:36,150
+(speaker 4) haunch of meat slung atop his broad shoulder an
+
+177
+00:12:36,150 --> 00:12:38,950
+(speaker 4) adequate trade for the life giving waters that
+
+178
+00:12:38,950 --> 00:12:43,990
+(speaker 4) sustain his desert wanderings but fate seeks to
+
+179
+00:12:43,990 --> 00:12:48,310
+(speaker 4) break his isolation the desert stars tell of
+
+180
+00:12:48,310 --> 00:12:52,790
+(speaker 4) great change ancient machines and beasts rise
+
+181
+00:12:52,790 --> 00:12:56,470
+(speaker 4) from their dormant slumber the world was once
+
+182
+00:12:56,470 --> 00:13:00,140
+(speaker 4) shaped by steel and oil it
+
+183
+00:13:00,140 --> 00:13:07,340
+(speaker 4) will now be forged with bone and sinew behold the
+
+184
+00:13:07,340 --> 00:13:11,020
+(speaker 4) great adventure of our time begins now
+

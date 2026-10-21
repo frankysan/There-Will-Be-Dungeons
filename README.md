@@ -1,0 +1,40 @@
+# The Wastes — transcription and campaign-reference pilot
+
+**Status:** Initial two-episode pilot; **not** a completed or manually proofread transcript collection.
+
+This package establishes a repeatable, **local-first** path from podcast audio to readable, speaker-labelled text, with a separate campaign reference that cites episode time positions. It covers the *There Will Be Dungeons* campaign described in the supplied files as *The Wastes*.
+
+## Start here
+
+1. [E000 — Introductions: readable transcript draft](transcripts/E000.readable-draft.md)
+2. [E001 — The Campaign Begins!: readable transcript draft](transcripts/E001.readable-draft.md)
+3. [Project charter](project/PROJECT_CHARTER.md), [workflow](project/WORKFLOW.md), [editorial rules](project/EDITORIAL_GUIDE.md) and [decision log](project/DECISIONS.md), [model test record](project/MODEL_TESTS.md) and [roadmap](project/BACKLOG.md)
+4. [World reference index](world/README.md), [characters](world/CHARACTERS.md), [places](world/PLACES.md), [world history](world/WORLD.md), [chronology](world/CHRONOLOGY.md), and [consistency issues](world/CONSISTENCY_LEDGER.md), and [machine-readable entity index](world/entities.json)
+5. [Episode dossiers](episodes/E000.md) and [E001](episodes/E001.md)
+6. [Review queue](project/REVIEW_QUEUE.md) and [automated file audit](reports/SRT_AUDIT.md)
+
+## Important distinctions
+
+- **Readable draft** means subtitle lines have been grouped into paragraphs with named speakers and approximate timestamps. It does **not** mean every word or speaker boundary was checked against audio.
+- The text source for these drafts is the supplied **post-processed Parakeet TDT 1.1B SRT**. The original unprocessed Parakeet output and other tested outputs are in [`sources/`](sources/), unchanged in content.
+- Episode 1's numeric `speaker 5` is the same person as `speaker 0` (Scott, performing a voice), **verified by the archive owner**. This is a per-episode correction; don't generalize ID assignments to other episodes.
+- Cohere's substantial omissions were **verified by listening** and its outputs are preserved for comparison only.
+- The final spoken word of E000 is **“Now”**; the remaining audio is music. The processed Parakeet ending has unreliable timing, so the last cue is **not verified** even though the word is.
+- The world's details are provisional reference entries. **A character's belief is not automatically objective world fact**, and uncertain spellings are deliberately flagged.
+
+## Rebuild
+
+Python 3.10+ is sufficient; the script uses only the standard library.
+
+```bash
+python tools/build_transcripts.py
+python tools/audit_sources.py
+```
+
+Files produced by the first command: `transcripts/E000.readable-draft.md`, `transcripts/E001.readable-draft.md`, and `*.turns.json` containing original cue indexes for traceability. The second command creates `reports/SRT_AUDIT.md` and `reports/source_manifest.json`.
+
+The original MP3 files are **not** bundled in the archive, to avoid duplicating the large uploads. The manifest records their SHA-256 digests and file sizes when they were available to build the pilot. Keep them in a separately backed-up, read-only audio collection.
+
+## Production definition of done (per episode)
+
+An episode is *drafted* after automatic transcription and readable rendering, but is *reviewed* only after checking flagged omissions, proper nouns, speaker IDs, beginning/end speech boundaries, broken cue boundaries, and audio-linked uncertain sections. This package is at the **drafted** milestone.

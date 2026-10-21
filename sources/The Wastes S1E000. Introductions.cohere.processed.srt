@@ -1,0 +1,872 @@
+1
+00:00:00,550 --> 00:00:01,990
+(Scott) Hey, everybody, Scott Johnson here.
+
+2
+00:00:01,991 --> 00:00:05,510
+(Scott) And if you're listening to this, that means
+you've gotten a hold of the feed early.
+
+3
+00:00:05,511 --> 00:00:08,950
+(Scott) This is just a quick
+audio preview of what you
+
+4
+00:00:08,951 --> 00:00:15,110
+(Scott) can expect from There Will Be
+Dungeons, which starts this Saturday.
+
+5
+00:00:15,111 --> 00:00:19,030
+(Scott) So, what we have here is character
+introductions, a little dramatic.
+
+6
+00:00:19,031 --> 00:00:22,630
+(Scott) So, you're going to hear kind of
+backstory in a pretty serious way.
+
+7
+00:00:22,631 --> 00:00:26,950
+(Scott) Don't worry, the actual show is not going
+to be steeped in this kind of seriousness.
+
+8
+00:00:26,951 --> 00:00:28,670
+(Scott) We hope to be laughing a lot.
+
+9
+00:00:29,470 --> 00:00:30,470
+(Scott) During our live sessions.
+
+10
+00:00:30,780 --> 00:00:32,110
+(Scott) However, we thought
+it'd be fun for you guys to
+
+11
+00:00:32,111 --> 00:00:35,870
+(Scott) get an early peek at the characters we're
+going to be playing for this campaign.
+
+12
+00:00:35,871 --> 00:00:38,110
+(Scott) It starts off with Bo
+explaining the world, and
+
+13
+00:00:38,111 --> 00:00:39,386
+(Scott) then each of us get
+a chance to talk about
+
+14
+00:00:39,387 --> 00:00:41,790
+(Scott) the characters we're
+bringing into that world.
+
+15
+00:00:41,791 --> 00:00:44,510
+(Scott) So, anyway, I just wanted to give
+you a heads up on how that works.
+
+16
+00:00:44,511 --> 00:00:46,590
+(Scott) This will also be the
+feed, the podcast feed.
+
+17
+00:00:46,714 --> 00:00:50,510
+(Scott) We'll get audio edition of
+the show every time it's posted.
+
+18
+00:00:50,511 --> 00:00:51,882
+(Scott) Of course, we encourage
+you to come to the
+
+19
+00:00:51,883 --> 00:00:54,510
+(Scott) live show, which will
+be Saturdays at 2 P.M.
+
+20
+00:00:54,511 --> 00:00:55,390
+(Scott) Pacific.
+
+21
+00:00:55,391 --> 00:00:56,110
+(Scott) That's 5 P.M.
+
+22
+00:00:56,111 --> 00:00:57,111
+(Scott) Eastern.
+
+23
+00:00:57,640 --> 00:00:59,990
+(Scott) For about three hours,
+on average, two to three
+
+24
+00:00:59,991 --> 00:01:04,550
+(Scott) hours, something like that, where we
+play through this amazing campaign.
+
+25
+00:01:04,551 --> 00:01:07,990
+(Scott) And Bo is our able DM, and
+he has got some big plans for us.
+
+26
+00:01:08,139 --> 00:01:09,750
+(Scott) So we're pretty excited about it.
+
+27
+00:01:09,751 --> 00:01:10,790
+(Scott) Anyway, do that.
+
+28
+00:01:10,791 --> 00:01:12,710
+(Scott) That's at frogpants.tv.
+
+29
+00:01:12,711 --> 00:01:14,355
+(Scott) But if you can't, and this
+is the way you want to
+
+30
+00:01:14,379 --> 00:01:17,590
+(Scott) get it, that's fine too, because
+this is where I'll be putting it.
+
+31
+00:01:18,139 --> 00:01:21,430
+(Scott) Anyway, sit back and enjoy our character
+
+32
+00:01:21,431 --> 00:01:24,930
+(Scott) introductions for the first
+season of There Will Be Dungeons.
+
+33
+00:01:28,230 --> 00:01:28,230
+(Beau) Earth.
+
+34
+00:01:28,231 --> 00:01:34,050
+(Beau) It has been countless millennia
+since this world was ruled by humans.
+
+35
+00:01:35,910 --> 00:01:38,572
+(Beau) They once danced
+in light, and they once
+
+36
+00:01:38,573 --> 00:01:44,370
+(Beau) touched the sky, opening
+the doors to heaven.
+
+37
+00:01:47,890 --> 00:01:51,730
+(Beau) But in an instant, it ended.
+
+38
+00:01:51,731 --> 00:01:55,730
+(Beau) Alien invaders from
+deep in the cosmos arrived
+
+39
+00:01:55,731 --> 00:02:01,170
+(Beau) through the gates and rained
+an inferno upon their garden.
+
+40
+00:02:01,171 --> 00:02:09,729
+(Beau) They were called dragons, and they
+brought with them fire and hatred.
+
+41
+00:02:09,730 --> 00:02:12,850
+(Beau) But humankind fought back.
+
+42
+00:02:12,851 --> 00:02:19,849
+(Beau) They created battle machines
+and Those machines created more
+
+43
+00:02:19,850 --> 00:02:25,650
+(Beau) machines, and when those
+machines failed, they made pacts with
+
+44
+00:02:25,651 --> 00:02:34,370
+(Beau) demons in the darkest places of the
+world and birthed unspeakable monsters.
+
+45
+00:02:34,371 --> 00:02:38,130
+(Beau) With their champions
+astride them, the humans
+
+46
+00:02:38,131 --> 00:02:43,090
+(Beau) turned the tide of war and slew
+the dragons by the thousands.
+
+47
+00:02:43,091 --> 00:02:45,690
+(Beau) From their husks, the humans created.
+
+48
+00:02:45,770 --> 00:02:50,296
+(Beau) Engines whose parts
+never rusted or broke,
+
+49
+00:02:50,297 --> 00:02:54,570
+(Beau) whose pistons operated
+ceaselessly, and whose
+
+50
+00:02:54,571 --> 00:02:59,290
+(Beau) combustion was interminable,
+irradiating our world with.
+
+51
+00:03:01,630 --> 00:03:05,210
+(Beau) that allowed them to wield terrible magics.
+
+52
+00:03:08,000 --> 00:03:13,120
+(Beau) The war raged for a century more.
+
+53
+00:03:13,121 --> 00:03:17,040
+(Beau) As humankind and dragonkind
+ground their numbers
+
+54
+00:03:17,041 --> 00:03:20,640
+(Beau) to dust, the dragons
+summoned the last of their
+
+55
+00:03:20,641 --> 00:03:25,200
+(Beau) spite and scorched the
+lands with it and vanished.
+
+56
+00:03:25,201 --> 00:03:29,280
+(Beau) Their only remains, the
+dragon engines used to
+
+57
+00:03:29,281 --> 00:03:32,930
+(Beau) power the last bastions
+of hope in a dying world.
+
+58
+00:03:49,810 --> 00:03:55,930
+(Scott) If you could see past the scars, if you
+could look beyond the tumors and craters.
+
+59
+00:03:58,555 --> 00:04:03,170
+(Scott) If you could peer through the stinging
+grit and torn soul of Nash Maggard.
+
+60
+00:04:04,880 --> 00:04:10,940
+(Scott) You'd find light, blinding,
+rending, destructive, terrible light.
+
+61
+00:04:15,095 --> 00:04:17,070
+(Scott) Look deeper, and you
+would find a man who could
+
+62
+00:04:17,071 --> 00:04:22,910
+(Scott) blot out the very sun and take this
+land beyond the repair of man or machine.
+
+63
+00:04:25,760 --> 00:04:28,830
+(Scott) One who could bring pure and
+permanent darkness with his curse.
+
+64
+00:04:30,560 --> 00:04:33,410
+(Scott) taking this decaying,
+festering world to its final rest.
+
+65
+00:04:37,530 --> 00:04:42,400
+(Scott) But if you look yet deeper at Nash
+Maggard, there is more than this.
+
+66
+00:04:44,230 --> 00:04:47,570
+(Scott) you would find a spark
+of something like salvation.
+
+67
+00:04:48,725 --> 00:04:51,970
+(Scott) Something like redemption.
+
+68
+00:04:51,971 --> 00:04:53,950
+(Scott) Something small, but able.
+
+69
+00:04:55,185 --> 00:04:58,970
+(Scott) Perhaps willing to face down the
+darker temptations that surround it.
+
+70
+00:05:02,065 --> 00:05:05,790
+(Scott) Indeed, there may yet
+be a time when the name
+
+71
+00:05:05,791 --> 00:05:08,670
+(Scott) Maggard is spoken in
+this desolation without
+
+72
+00:05:08,671 --> 00:05:12,540
+(Scott) revulsion and the flow of
+tears from frightened children.
+
+73
+00:05:14,425 --> 00:05:16,950
+(Scott) Perhaps there will come
+a time when he will be
+
+74
+00:05:16,951 --> 00:05:19,970
+(Scott) remembered as something
+more, something better.
+
+75
+00:05:22,720 --> 00:05:24,720
+(Scott) That day is not now.
+
+76
+00:05:24,721 --> 00:05:25,760
+(Scott) His path is new.
+
+77
+00:05:27,360 --> 00:05:30,140
+(Scott) And his countless years in the
+solar mines are well behind him.
+
+78
+00:05:32,190 --> 00:05:36,220
+(Scott) In his leaving wake there lies devastation
+of the wicked and the righteous.
+
+79
+00:05:38,390 --> 00:05:41,590
+(Scott) His escape left none to
+tell what they had seen.
+
+80
+00:05:41,591 --> 00:05:45,430
+(Scott) History would never know what
+happened there, but Nash knew.
+
+81
+00:05:45,530 --> 00:05:46,610
+(Scott) And that would haunt him.
+
+82
+00:05:48,270 --> 00:05:51,390
+(Scott) But it would also fuel
+him, like the ancient oil
+
+83
+00:05:51,391 --> 00:05:55,040
+(Scott) grounds did for the upright
+men before the fall a millennia ago.
+
+84
+00:05:58,370 --> 00:06:00,610
+(Scott) It is near dawn now.
+
+85
+00:06:00,611 --> 00:06:02,930
+(Scott) He stamps out the
+remains of his cook fire with
+
+86
+00:06:02,931 --> 00:06:05,690
+(Scott) his tattered boot and looks
+to the west with one eye.
+
+87
+00:06:07,630 --> 00:06:11,310
+(Scott) The other burns, sightless
+and dormant, and waits
+
+88
+00:06:11,311 --> 00:06:14,080
+(Scott) for the next chance to
+play its dark and terrible role.
+
+89
+00:06:16,480 --> 00:06:18,480
+(Scott) He takes his staff from
+its resting place among
+
+90
+00:06:18,481 --> 00:06:21,120
+(Scott) the stones, throws his
+threadbare satchel over
+
+91
+00:06:21,121 --> 00:06:24,730
+(Scott) his pure shoulder, and puts
+the rising sun to his back.
+
+92
+00:06:27,730 --> 00:06:31,890
+(Scott) He knows not who he will meet, nor
+what he will face, and he doesn't care.
+
+93
+00:06:31,891 --> 00:06:37,210
+(Scott) What comes will come, and when
+it does, Nash will be ready to face it.
+
+94
+00:06:40,080 --> 00:06:42,000
+(Scott) He takes a final look
+over his shoulder, back
+
+95
+00:06:42,001 --> 00:06:44,990
+(Scott) toward the Blood Canyons,
+the only home he'd ever known.
+
+96
+00:06:46,580 --> 00:06:47,780
+(Scott) He can never go back.
+
+97
+00:06:47,781 --> 00:06:49,540
+(Scott) He knows this.
+
+98
+00:06:49,541 --> 00:06:52,190
+(Scott) And yet his heart still
+aches for the one long lost.
+
+99
+00:06:53,175 --> 00:06:57,700
+(Scott) Perhaps a story for a different time.
+
+100
+00:06:57,701 --> 00:07:00,815
+(Scott) His boots left dusty
+footprints as he walked,
+
+101
+00:07:00,816 --> 00:07:03,330
+(Scott) the only evidence that
+Nash Maggard was here.
+
+102
+00:07:04,910 --> 00:07:07,150
+(Scott) They would soon be blown
+to oblivion by the next.
+
+103
+00:07:08,200 --> 00:07:09,230
+(Scott) storm.
+
+104
+00:07:09,231 --> 00:07:12,670
+(Scott) Like a chapter in the old
+books, his page was turning.
+
+105
+00:07:14,240 --> 00:07:16,560
+(Scott) And he was turning with it.
+
+106
+00:07:16,561 --> 00:07:19,100
+(Scott) And for now, that was enough.
+
+107
+00:07:27,900 --> 00:07:30,210
+(Kristen) The light fades.
+
+108
+00:07:30,211 --> 00:07:31,290
+(Kristen) The vision dims.
+
+109
+00:07:32,515 --> 00:07:36,750
+(Kristen) All that remains are memories.
+
+110
+00:07:36,751 --> 00:07:42,910
+(Kristen) We tell of a time of chaos,
+ruined dreams, this wasted land.
+
+111
+00:07:42,911 --> 00:07:49,070
+(Kristen) But there are those of us that speak
+of hope, the way the world could be.
+
+112
+00:07:49,071 --> 00:07:53,310
+(Kristen) To recall what it was like, we
+have to go back to the other time.
+
+113
+00:07:53,311 --> 00:07:56,030
+(Kristen) When this world was blue and green, and the
+
+114
+00:07:56,230 --> 00:07:57,250
+(Kristen) desert sprouted life.
+
+115
+00:07:58,485 --> 00:08:00,850
+(Kristen) Gone now.
+
+116
+00:08:01,050 --> 00:08:02,080
+(Kristen) Swept away.
+
+117
+00:08:04,070 --> 00:08:06,710
+(Kristen) For reasons long forgotten,
+mighty dragons came
+
+118
+00:08:06,711 --> 00:08:10,950
+(Kristen) from beyond and touched
+off a Blaze which engulfed it all.
+
+119
+00:08:10,951 --> 00:08:14,550
+(Kristen) Without a means to fight,
+the humans were nothing.
+
+120
+00:08:14,551 --> 00:08:17,510
+(Kristen) They were made of naught but straw.
+
+121
+00:08:17,511 --> 00:08:20,630
+(Kristen) The thundering creatures
+roared and pillaged.
+
+122
+00:08:20,631 --> 00:08:24,310
+(Kristen) Heroes fought and fought and fought.
+
+123
+00:08:24,311 --> 00:08:27,750
+(Kristen) But nothing could stem the conflagration.
+
+124
+00:08:27,751 --> 00:08:30,150
+(Kristen) The world crumbled.
+
+125
+00:08:30,151 --> 00:08:31,510
+(Kristen) Life exploded.
+
+126
+00:08:31,511 --> 00:08:32,990
+(Kristen) A whirlwind of death.
+
+127
+00:08:33,829 --> 00:08:35,870
+(Kristen) A firestorm of fear.
+
+128
+00:08:35,871 --> 00:08:39,150
+(Kristen) Men began to feed on men.
+
+129
+00:08:39,151 --> 00:08:40,659
+(Kristen) For those that survived,
+
+130
+00:08:41,635 --> 00:08:44,880
+(Kristen) It was a nightmare with no end.
+
+131
+00:08:47,029 --> 00:08:49,710
+(Kristen) Only those brave enough
+to seek help, desperate
+
+132
+00:08:49,711 --> 00:08:54,640
+(Kristen) enough to live, would find the
+demons and make the dark pit.
+
+133
+00:08:56,105 --> 00:08:59,330
+(Kristen) The demons took over
+the land ready to wage war
+
+134
+00:08:59,331 --> 00:09:02,050
+(Kristen) and win back the world
+from the dragons, and in
+
+135
+00:09:02,051 --> 00:09:06,610
+(Kristen) this maelstrom of decay
+the tieflings emerged
+
+136
+00:09:06,611 --> 00:09:12,530
+(Kristen) powerful and strong men and women, the
+warriors designed to destroy the dragons.
+
+137
+00:09:12,531 --> 00:09:13,820
+(Kristen) In the roar of battle,
+
+138
+00:09:16,060 --> 00:09:20,720
+(Kristen) We lost everything and
+became a shell of what we were.
+
+139
+00:09:22,270 --> 00:09:24,830
+(Kristen) A burnt out, desolate race.
+
+140
+00:09:24,831 --> 00:09:28,190
+(Kristen) A race haunted by the demons of the past.
+
+141
+00:09:28,191 --> 00:09:30,750
+(Kristen) A race that wandered
+out into the waste land.
+
+142
+00:09:32,960 --> 00:09:38,400
+(Kristen) And it was here, in this blighted
+place, that we learned to live again.
+
+143
+00:09:38,401 --> 00:09:43,450
+(Kristen) And so began our journey to
+right the wrong, to erase the past.
+
+144
+00:09:44,825 --> 00:09:47,400
+(Kristen) Among us, we found a new promise.
+
+145
+00:09:47,401 --> 00:09:51,560
+(Kristen) The tiefling who would travel
+back and complete the pact.
+
+146
+00:09:51,561 --> 00:09:52,680
+(Kristen) Hope.
+
+147
+00:09:52,681 --> 00:09:55,480
+(Kristen) And just as my ancestral
+stories have foretold,
+
+148
+00:09:55,481 --> 00:09:59,960
+(Kristen) I've traveled far beyond the
+reach of society's misconceptions.
+
+149
+00:09:59,961 --> 00:10:03,160
+(Kristen) The dragon engines,
+the precious engines, are
+
+150
+00:10:03,161 --> 00:10:06,200
+(Kristen) hidden across the world,
+and I'm going to find
+
+151
+00:10:06,201 --> 00:10:11,560
+(Kristen) one, head back to the past, and
+restore this world to its former glory.
+
+152
+00:10:11,561 --> 00:10:13,010
+(Kristen) The current wasteland!
+
+153
+00:10:14,770 --> 00:10:17,570
+(Kristen) This is the last we'll ever see of it.
+
+154
+00:10:17,571 --> 00:10:20,610
+(Kristen) It will live on only in our memories.
+
+155
+00:10:25,220 --> 00:10:30,500
+(John) My name is Stanley Billings, and
+I'm going to save this wasteland.
+
+156
+00:10:30,501 --> 00:10:33,140
+(John) Take a look around it,
+and you'll see what I've
+
+157
+00:10:33,141 --> 00:10:37,840
+(John) seen my entire life
+brutality, hopelessness, death.
+
+158
+00:10:39,170 --> 00:10:41,330
+(John) I was once right there with you.
+
+159
+00:10:41,331 --> 00:10:46,140
+(John) I've had my fair share of bad choices
+just to see another miserable day.
+
+160
+00:10:47,790 --> 00:10:50,990
+(John) That all changed when I found the artifact.
+
+161
+00:10:50,991 --> 00:10:53,950
+(John) An ancient Tome of forgotten knowledge that
+
+162
+00:10:53,951 --> 00:10:59,230
+(John) opened my eyes to not only
+what was, but also what could be.
+
+163
+00:10:59,231 --> 00:11:02,830
+(John) I learned the words that
+we had long forgotten,
+
+164
+00:11:02,831 --> 00:11:10,430
+(John) words like society, Liberty, and
+the path to these ideals government.
+
+165
+00:11:10,431 --> 00:11:17,290
+(John) You see, it's the lawless nature of this
+world that has held it in chaos for so long.
+
+166
+00:11:18,010 --> 00:11:21,130
+(John) All it needs is the right
+person, willing to do
+
+167
+00:11:21,131 --> 00:11:25,770
+(John) whatever it takes to push
+that chaos back into order.
+
+168
+00:11:25,771 --> 00:11:27,930
+(John) Am I the man to do this?
+
+169
+00:11:27,931 --> 00:11:30,490
+(John) You bet your ass I am.
+
+170
+00:11:30,491 --> 00:11:35,740
+(John) After all, I'm Stanley Billings,
+and I'm gonna save this wasteland.
+
+171
+00:11:41,430 --> 00:11:45,270
+(Kyle) Between the rocky crags
+of Vaerthicha and the
+
+172
+00:11:45,271 --> 00:11:49,590
+(Kyle) endless wastes of Ka
+Egro, there lives a creature
+
+173
+00:11:49,591 --> 00:11:54,870
+(Kyle) of untold strength and
+tremendous fortitude.
+
+174
+00:11:54,871 --> 00:12:03,100
+(Kyle) A raw, untamed pillar of rocky scales
+and muscle, blasted by sand and sun.
+
+175
+00:12:04,910 --> 00:12:08,270
+(Kyle) Born to the barbarous
+lizard folk, whose deeds go
+
+176
+00:12:08,271 --> 00:12:13,790
+(Kyle) unseen by civilized eyes,
+Borel Rasvim Kurek, the
+
+177
+00:12:13,791 --> 00:12:18,910
+(Kyle) bountiful slaughter, remains
+the last of his desert kin.
+
+178
+00:12:20,530 --> 00:12:25,650
+(Kyle) Seven feet tall, his gait a brawny swagger,
+
+179
+00:12:25,651 --> 00:12:30,450
+(Kyle) Vorrell now ventures towards
+the dilapidated town of Dusthill.
+
+180
+00:12:30,451 --> 00:12:35,970
+(Kyle) A massive bloody haunch of
+meat slung atop his broad shoulder.
+
+181
+00:12:35,971 --> 00:12:41,730
+(Kyle) An adequate trade for the life giving
+waters that sustain his desert wanderings.
+
+182
+00:12:41,731 --> 00:12:46,450
+(Kyle) But fate seeks to break his isolation.
+
+183
+00:12:46,451 --> 00:12:49,650
+(Kyle) The desert stars tell of great change.
+
+184
+00:12:49,730 --> 00:12:55,330
+(Kyle) Ancient machines and beasts
+rise from their dormant slumber.
+
+185
+00:12:55,331 --> 00:13:00,130
+(Kyle) The world was once shaped by steel and oil.
+
+186
+00:13:00,131 --> 00:13:04,380
+(Kyle) It will now be forged with bone and sinew.
+
+187
+00:13:06,629 --> 00:13:11,360
+(Kyle) Behold, the great adventure
+of our time begins now.
+
