@@ -215,3 +215,28 @@ The titular **Dragon Mother** should **not** be represented as a newly identifie
 
 E018 depicts the group encountering **undead** near the Black Mine elevator after hearing about a supposed slave uprising. It does **not** establish that the missing enslaved miners are all zombies, that Catherine Speckles or Tylander is present, or that any Saltbubble/Chickenfinger promises have been fulfilled. See [E017](../episodes/E017.md), [E018](../episodes/E018.md) and [spelling/issues register](CONSISTENCY_LEDGER.md).
 
+## E019–E021: Tickles, Tylander's family claims, Dorothy and Catherine
+
+**Evidence:** [E019](../episodes/E019.md) · [E020](../episodes/E020.md) · [E021](../episodes/E021.md), all **unverified processed Parakeet SRT**. Name spellings remain provisional unless explicitly shown in a found source or spoken/spelled by the GM.
+
+| Entry | Recorded first development / time | Role and degree of confidence |
+|---|---|---|
+| **Tickles** (human captive) | E018 first seen; **E019 ~01:30–03:07; E020 ~00:14** | Human degraded by dwarf overseer into “dog” role, **joins party on falling elevator**; survives deep shaft fall but is **crushed by E019 rockfall**, uncovered unresponsive with crushed helmet **E020**, where party concludes **dead** |
+| **Scrolly / Scrawly Oilbeard** | E018 overseer; E019 ~01:30–01:40 | Topside guard leader who **sends elevator back down** upon seeing undead; existence and action supported by E020 GM recap; exact spelling and family relationship unknown |
+| **Tylander Sullivan** | E020 ~01:00–01:08 journal; E021 ~01:55–end | Diary **explicitly bears his name**. His **day-245 account** names a lost family and a voice promising power; in E021 a **visible speaking projection/illusion** of him recounts being **former mayor of Pristine** and offers political justification for his killings. His claims are not GM-certified history |
+| **Mariosa** (spelling candidate) | E020 ~01:00–01:03 | Named **recipient of Tylander's journal**, framed as beloved/lost person. E021 Tylander speech links to wife/family, but don't assign diary's exact kinships without listening |
+| **Daisy, Tobyl/Tobel, Lily** | E020 ~01:01–01:03 | **Lost people named in Tylander's written recollection**; exact spellings, relationships and ages not separately proven |
+| **Unidentified male skeleton in study** | E020 ~00:47–01:20 | Old **male remains** in bed with Tylander's diary elsewhere in the room. **Not identified as Tylander or any named relative** |
+| **Tainted displacer beast** | E020 ~01:31–02:35 | Large tentacled, shifting/blinking **cat-like monster**, visibly injured and brain-exposed, fights party near chasm and is **killed by Vorel**; separate from E009 gibbering mouther |
+| **Hope** (private whisper) | E021 ~00:04–00:09 | Only Hope hears demonic whispers saying **“find me”** in magical darkness, while the other players are asked to remove headphones; source of voice *not identified* |
+| **Dorothy** | E021 ~01:20–01:45 | Apparently **talking door/metal face**, riddles and negotiation; claims maker/mother and agency; magic vs authentic sentience unresolved |
+| **Fingers of Catoblepraithe** | E021 ~01:55–03:02 | **Eight** pale hooded followers in Tylander's chapel, transformed into clawed/eye-spiked assailants, **defeated** by party; distinct from mine elevator undead and Oilbeard guards |
+| **Catherine Speckles** (captive) | E021 ~03:03–03:12 | Female prisoner **self-identifies** as Catherine in chapel-associated cell, gravely mutilated, asks for apology/love message to **Bertrand** and lapses into unresponsiveness; party **believes she dies**. Separate from Tylander's earlier impersonation |
+| **Tylander's `Catherine` disguise** | E021 ~02:12–02:17 | Tylander **visibly changes to Catherine-like female appearance** to illustrate deception; do **not merge** with actual prisoner or use impersonation alone to discredit her identity |
+| **Bertrand Moog/Mulg**, the Jeweler | E011–E013, E021 ~03:07–03:11 | Recipient of alleged **real Catherine's** farewell message; SRT surname sounds `Moog`/`Mulg`; E021 does not show him receiving it |
+| **Winged oily black figure** | E021 ~03:18–03:21 | ~20-ft **dark winged apparition/creature** with pale-glowing eyes and mouth, speaks beside Tylander at a cauldron; **not conclusively identified as Catoblepraithe in E021**, despite patron's earlier mention |
+
+**Important identity separation:** E020's old **male skeleton**, E021's **real captive woman claiming Catherine**, **Tylander's Catherine impersonation**, and E021's **apparent projected Tylander in the chapel** are **four different evidentiary referents**. Don't equate them solely by nearby writing or magical disguise.
+
+The show-era **fan-art inventory** can aid research but is not independent audio/chronology proof; see [image register](../project/IMAGE_ASSETS.md).
+
