@@ -59,3 +59,29 @@ Vorel's introductory narration places his origins between rocky crags of one reg
 - **Hillmaster's residence/tent:** The location of the feast and later confidential discussion. **Source:** E001 00:40:17–00:40:46; 00:49:25–01:29:15; 02:10:01–02:12:20.
 - **Farms/caves:** Include animals and crops sustained by old irrigation. **Source:** E001 00:06:55–00:07:14.
 - **Tavern:** **Do not add as confirmed.** A player mentions a tavern, but later the GM says the settlement has none. **Source:** E001 00:16:13; 00:42:15–00:42:44. See consistency ledger.
+
+## Underground infrastructure and ruins revealed in E002–E005
+
+**Dragon-engine chamber:** Concealed beyond the bridged chasm and locked door beneath the Hillmaster's tent. E002 ~00:50–01:20 ties an **obsidian engine** to Dusthill's water pumps, shows a crowned/guarding skeleton described as the first Hillmaster, and leads to the deeper intake. E005 ~00:03–00:40 adds the spectral **Peter** and attempted engine restart. **Source:** processed E002/E005 Parakeet SRTs; see [E002](../episodes/E002.md), [E005](../episodes/E005.md). Do not assume the first Hillmaster's identity was spoken in E002.
+
+**The shaft and underground river:** The multi-mile, narrow descending stairwell passes traps and spiders (E002 ~01:22–02:36), ending near a lower pump, river and damaged inlet (E003 ~00:20–01:38). Softhead is seen falling into the river after an attack; neither his death nor his destination is thereby established. **Sources:** [E002](../episodes/E002.md), [E003](../episodes/E003.md).
+
+**Moag Ferhain (later-wiki form; provisional):** An ancient dwarven complex accessible via the river-side opening, explored in E003 and E004. Processed SRTs variously produce `Mog for Hain`, `Mog Farain`, `Mog Forain`; the [fan wiki's Episode 6 summary](https://twbd.fandom.com/wiki/Episode_6) writes `Moag Ferhain`. The ruins include animated skeleton inhabitants, medical rooms with an automaton and a throne room with a queen linked to Quizquaz. **Sources:** E003 ~01:40–03:09 and E004 ~00:05–02:30. **Do not treat later wiki spelling as audio verification.**
+
+## Map names mentioned in E005 (all need source-map verification)
+
+Around **E005 02:30–02:34**, a physical map is read aloud. These are **literal SRT candidate renderings** and descriptions, not corrected geographic canon:
+
+| SRT candidate | In-session context | Other documented form / caution |
+|---|---|---|
+| Shardnock Plains | Plains east of Dusthill | Spelling pending |
+| Weeping Dunes | South of Dusthill | Spelling pending |
+| Rizek Val | Southern encampment | Spelling pending |
+| Blot | Settlement to the south | Spelling pending |
+| Damon Vol | Dangerous area to west | Spelling pending |
+| Entiuk | More westerly place labelled with a cannibal warning | Spelling pending |
+| Deadfingers | Mountain range to the east | Later fan wiki writes **Dead Fingers** |
+| Slave Town | Town by the mountains | Later fan wiki writes **Slavetown** |
+| Asophagal Pass | Pass through the mountains | Later fan wiki writes **Esophageal Pass** |
+
+**Source:** [E005 dossier](../episodes/E005.md); [later wiki reference](https://twbd.fandom.com/wiki/Episode_6). Verify the **actual map labels**, not just audio, before promoting these to approved spellings. The original map is not preserved in these text-only sources.
