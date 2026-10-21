@@ -282,3 +282,21 @@ The show-era **fan-art inventory** can aid research but is not independent audio
 
 **Continuity:** An observed **charm** on Vorel (E022) is distinct from the E027 **challenger's allegation of an accepted consort arrangement**. Hope's family lead and the **red-bandolier woman** are not automatically connected to every new violent faction.
 
+## E028–E030: ally oath, Buttons and a forced archfey intrusion
+
+| Character/group | First relevant source | Supported outcome and uncertainty |
+|---|---|---|
+| **Diptak/Diptyk of Golden Land** | E027 challenge; **E028 ~01:17–01:35** | **Yields to Vorel** after prolonged combat and pledges clan aid, emissary at `Razhak Val` (spelling pending). **Survives** encounter; consort story about **Typala/Tepala** is his assertion |
+| **Diptak's brothers Loro/Thakak (?)** | E028 ~01:30–01:35 | Other hunters identified in dialogue; exact pronunciations and who speaks require review. Neither confirmed killed |
+| **Buttons** | **E028 ~01:55–02:10**, E029, E030 | Orange talking **cat**, glasses, metal replacement leg, scholarship. **Says** Arcanum Universalis wizard `Darguth/Jarguth` gave speech and a leg. Travels on Fate 4, accompanies Stanley in E029, later gives **Blink spell text**. Not a new humanoid feline species |
+| **Tedna/Ted** | E027 stowaway; E028/E029/E030 | Still with group, pulled toward oil cavern while entranced, helped out by Hope E030. His claims about absent parents and past fighting are **character testimony**, not independent history |
+| **Blort/Blork** | E029 ~01:07–02:13 | Large **human-torso/worm-like singing creature**, another mouth at rear, with hag called **Mommy**. **Killed/deflates** after fight with Stanley; exact name and biology require listening |
+| **Hag “Mommy”** | E029 ~01:13–02:13 | Elderly pointy-eared woman, says **she and son feed on captives' mana waves** to maintain prison wards. **Stanley later reports killing her**; precise death method/body confirmation requires source audio |
+| **Dion Talus (?)** | E029 ~02:18–02:27 | Blue luminous elf-shaped being self-styled **archfey of carnage**; claims old war, exile/imprisonment, planned mass violence. **Stanley rejects bargain**, after which the entity **forcibly enters him as light**. Not a freely signed pact. Persistence/powers/identity unverified |
+| **Stanley Billings** | E029 solo, E030 | **Solo player Jon's decisions** include tying entranced Nash, tracking friends with Buttons and fighting Blort. **Explicitly refuses Dion Talus**; failed Charisma save/forced energy transfer leaves unknown ongoing effects. Later loses **immovable rod** during escape and receives **Blink spell text** |
+| **Nash Maggard** | E029 tied on Fate 4; E030 ~00:04–00:52 | Entranced but physically **restrained** in RV; in E030 uses **Reduce** to get free and rejoins at oil-field shore. Not physically present at Stanley's archfey scene |
+| **Hope, Vorel and Bok Bok** | E028 end through E030 | Drawn into magical attraction, depicted in **altered dream/perceptual states**, rescued by Stanley/Buttons and escape collapsing prison; **do not automatically know the forced blue-light scene** |
+| **Guzzle Gang/Suckmaster** | E028 Buttons lore; E030 planning | Reported Teet ruler/faction, **not yet personally encountered** by the party at E030 horizon |
+
+**Pact separation:** Soulbroker E023: **Hope/Nash/Stanley voluntarily sign, Vorel refuses**. Dion Talus E029: **Stanley refuses** and a magical intrusion follows. No supported evidence for a second consensual pact with the archfey.
+
