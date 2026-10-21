@@ -1,6 +1,6 @@
 # The Wastes — transcription and campaign-reference pilot
 
-**Status:** Initial two-episode pilot; **not** a completed or manually proofread transcript collection.
+**Status:** The E000/E001 reader-edition pilot remains incomplete and not manually proofread. Processed Parakeet SRTs for subsequent episodes are now included as source material; E002–E005 have preliminary, unverified **reference dossiers**, not new publishable reader editions.
 
 This package establishes a repeatable, **local-first** path from podcast audio to readable, speaker-labelled text, with a separate campaign reference that cites episode time positions. It covers the *There Will Be Dungeons* campaign described in the supplied files as *The Wastes*.
 
@@ -12,6 +12,7 @@ This package establishes a repeatable, **local-first** path from podcast audio t
 4. [World reference index](world/README.md), [characters](world/CHARACTERS.md), [places](world/PLACES.md), [world history](world/WORLD.md), [chronology](world/CHRONOLOGY.md), and [consistency issues](world/CONSISTENCY_LEDGER.md), and [machine-readable entity index](world/entities.json)
 5. [Episode dossiers](episodes/E000.md) and [E001](episodes/E001.md)
 6. [Review queue](project/REVIEW_QUEUE.md), [automated file audit](reports/SRT_AUDIT.md), and [Qwen Q4/Q8/Canary variant evaluation](reports/QWEN_VARIANTS_2026-10-21.md)
+7. **Expanded early-episode context:** [E002 — Spiders](episodes/E002.md), [E003 — Soft Head Returns](episodes/E003.md), [E004 — The Oil Demon](episodes/E004.md), and [E005 — Goblincide](episodes/E005.md). These are narrative/reference notes sourced to processed Parakeet SRTs; their spellings, speaker assignments and plot details still need original-audio review. See the [expanded chronology](world/CHRONOLOGY.md), [characters](world/CHARACTERS.md), [places](world/PLACES.md), and [consistency ledger](world/CONSISTENCY_LEDGER.md).
 
 ## New segmentation benchmark (2026-10-21)
 
