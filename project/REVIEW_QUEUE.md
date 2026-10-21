@@ -305,7 +305,7 @@ All tasks below are **uncompleted**, based on machine SRT and [episode dossiers]
 | High | E029 00:00–00:04 | Special **Beau/Jon-only session**, absence of main actors versus continuing in-story party |
 | High | E029 ~00:04–01:07 | **Stanley ties Nash to workbench**, follows Tedna/party with Buttons, map/prison geography and retreat code “lemon tree” |
 | High | E029 ~01:07–02:13 | Hag/worm `Blort`, song and “mana waves,” who is enthralled, death of monster and hag, dynamite/Feather Fall/Bok Bok injury |
-| Critical | E029 ~02:18–end | Name `Dion Talus`, claimed archfey/old elven war, **Stanley's explicit refusal** versus **forced Charisma-save energy entry**, unknown continuing effect. Do **not call consensual pact** |
+| Critical | E029 ~02:18–end | The **spoken identification as Diontalus** (creator-written spelling now accepted; source ASR: `Dion Talus`), claimed archfey/old elven war, **Stanley's explicit refusal** versus **forced Charisma-save energy entry**, unknown continuing effect. Do **not call consensual pact** |
 | High | E030 ~00:04–00:22 | Nash rope escape by **Reduce**, others' shared dream narration and player-vs-character knowledge |
 | High | E030 ~00:22–01:13 | Collapse sequence, Hope/Tedna and Vorel/Stanley rescues, **immovable rod left under oil** and whether salvage attempted |
 | Medium | E030 ~01:13–01:40 | Regroup at shoreline, what Stanley actually discloses about archfey/hag to companions |
@@ -343,7 +343,7 @@ No open item is resolved by agreement between multiple ASR outputs or the owner'
 
 | Priority | Time | Review question |
 |---|---|---|
-| Critical | **E034 ~00:59–01:39** | Listen to **Dion Talus's explicit identity/control disclosure**, acknowledgement of **Stanley's earlier refusal and forced union**, difference between observed control and his self-claimed history/mana-wave needs; exact transfer back to Stanley |
+| Critical | **E034 ~00:59–01:39** | Listen to **Diontalus's explicit identity/control disclosure**, acknowledgement of **Stanley's earlier refusal and forced union**, difference between observed control and his self-claimed history/mana-wave needs; exact transfer back to Stanley |
 | High | E034 ~00:28–00:37 | `Dashington` gunman, alleged threat to Stanley, Vorel's intended private meeting |
 | High | E034 ~00:37–00:59 | **Hope's reflection** and lingering max-HP effect after E033 bite; no vampire diagnosis from folklore |
 | High | E034 ~01:39–02:41 | Coach **Marlboro/Marlborough**, `Camel/Camille`, team numbers **1,3,5,7**, custom game skill rolls, practice hours and **200 guzzbolts not paid yet** |
@@ -434,3 +434,21 @@ These [E043](../episodes/E043.md), [E044](../episodes/E044.md), [E045](../episod
 | Critical | **E045 ~02:28–end** | River island dark humanoid, eyes/necrotic aura, explicit proof of **identity as “headache man”**, P0D safety and **Dion's final kill**; no return to giant within this source |
 
 No raw SRT was changed; avoid silently applying wiki material, future-episode spoilers, or GM-private messages as if spoken.
+
+
+## Discord spelling evidence follow-ups (2026-10-21)
+
+The [spelling report](../reports/DISCORD_SPELLING_2026-10-21.md) **resolves written orthography of Diontalus**, per Jon and the archive owner, **not** E029/E034 voice identity, audible dialogue or claimed archfey history. **Do not keep “verify how to spell Diontalus” as an open decision**; instead check whether/when the **speaker says that name**. Original source strings `Dion Talus`, `Deontalus`, `Diantalus`, `Diontalis` remain searchable.
+
+| Priority | Affected scene/material | Open check and non-assumption |
+|---|---|---|
+| High | **E039 ~02:45 onward**, elsewhere referring to `Tiat Cala` | Jon writes **Tietkalla**, strong candidate; **match each use to this entity** and check spoken scene/pronunciation before contextual reference normalization. Do not endorse Monsoon's account from spelling alone |
+| High | **E014/E021–E024 Soulbroker** | The same cast-shared recaps alternate **Catoblepraithe/Catobelpraithe**; **no creator-approved solution**. Preserve art/source title and variants, seek direct creator/spell-out evidence |
+| High | **E035–E037** | **Angel Ashi** (ASR split) vs **Angelashi** (cast-shared recap joined) unresolved. Need author/character title/audio contextual evidence |
+| Medium | **E029, E034 and later Diontalus material** | Check **speaker identity and exact spoken words**, not spelling. **Creator-accepted spelling** may be used in edited prose; leave original raw ASR intact |
+| Medium | **Later source-matched material** | Check **Pentael Wise** (Beau) vs fan `Pentelvice`; **The Eye of Groxl** (Kyle's item title) vs fan `Grojil`. **Do not equate entities from similar sound** |
+| Medium | **E000–E045 and future** | Record cast-written support for **Nash Maggard**, **Stanley Billings**, **Teet**, **Slavetown**, **Tedna** and **Talia** without treating cast posts as listening confirmation |
+| Medium | **Later recap / item-title research** | Track **P0d/P0D/Pod**, **Nobiery**, **Andriesta**, **Jeadar/Jaedar**, **Doctor Spy'der/Dr. Spyder**, **Bloodskunk Hendrickson/Henderson** by campaign, speaker and document; do not pick spelling by counts |
+| High | **Out-of-campaign resources** | **Inverse creator outline** and **Delvers cast-posted guild guide / character-sheet previews** must remain in their campaign namespaces. Check whether planned names were ever spoken; do not map their recap labels onto corrected E### identifiers |
+
+These are **spelling and source-matching tasks**, not a request to alter raw transcripts or infer private attachments' contents.
