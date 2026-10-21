@@ -287,3 +287,29 @@ E013.5 remains published **between E013–E014** even though its Hope/Vorel scen
 
 **Boundaries:** E027 challenge ≠ E028 outcome; E028 song ≠ E029 investigation; E029 forced transfer ≠ E030's characters knowing its content. **Immovable rod lost E030**, not E029. Even after Diptak's spoken oath, **no Golden Land aid deployed** within the three episode horizons.
 
+## E031–E033 — Trashburg, P0D, Monsoon and arms dealer
+
+| Corrected episode/time | Event and source-role distinction |
+|---|---|
+| **E031** ~00:08–00:40 | Party **enters Trashburg** from hidden RV, sees poverty, Milinar's queues and **26-tattooed men** |
+| E031 ~00:40–00:54 | Meet **Charlemagne** innkeeper, discuss rooms and seek `Jolt` |
+| E031 ~00:54–01:10 | **Suckmaster announces prince Alidwyr to marry Jolt/Acrimonicar**, Friday Blood Ball, Saturday wedding; public **Pit of Despair** execution |
+| E031 ~01:11–01:55 | Lodging and city map advice, descriptions of **Toe Rippers, Twenty-Sixers**, municipal officials |
+| E031 ~01:55–02:15 | Nash meets living **P0D**, who **claims numbered pixies are milled for Pixie Blush** |
+| E031 ~02:15–end | Group debates pixie rescue and possible wedding tactics; **none implemented** |
+| **E032** ~00:05–00:18 | Encounter with **Twenty-Six gang members**, tense but no major shootout; invited to **Monsoon Cabbage** |
+| E032 ~00:18–01:16 | Visit barricaded headquarters; **Monsoon proposes killing Toe Rippers' leader for Teet fortress entrance information** |
+| E032 ~01:16–01:34 | Party returns to Charlemagne's for night |
+| E032 ~01:37–01:46 | **Buttons privately confronts Stanley** about forced E029 blue-light intrusion; **Stanley casts Suggestion** to redirect him |
+| E032 ~01:46–02:00 | **Tedna reports possible wedding-catering entry route** |
+| E032 ~02:00–02:18 | **Bok Bok** appears with toe necklace; his claims/association need review |
+| E032 ~02:35–02:51 | P0D hidden with help, group considers moving toward arms dealer |
+| E032 ~02:51–end | Charlemagne's parcel, **Jedel McCready** building, body and **fanged attacker cliffhanger** |
+| **E033** ~00:00 | **Scott absent from recording**; not Nash's canonical departure |
+| E033 ~00:05–01:22 | **Vampire-like stranger** battles party; Hope's **maximum HP decreases**, stranger ultimately vanishes; **Hope finds launcher case** |
+| E033 ~01:39–01:58 | Return to lodging, avoid town suspicion; equipment case hidden |
+| E033 ~01:58–02:21 | **Gray Socks Blood Ball invitation** to Vorel versus fortress Pounders; possible route to keep |
+| E033 ~02:21–end | Stanley intoxicated/confrontational, ambiguous **“Stanley right now”** remark; identity question unresolved |
+
+**Boundaries:** E030 ends outside Teet; **E031 enters Trashburg**. E032 arms-dealer cliffhanger precedes **E033 combat**. The **wedding, Blood Ball, pixie farm, and rival-gang assassination** remain future/uncompleted by E033.
+
