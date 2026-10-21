@@ -104,3 +104,30 @@ Around **E005 02:30–02:34**, a physical map is read aloud. These are **literal
 **Elhandar (claimed celestial place):** E006 ~02:00–02:27 has Zorenthelas describe this as elves' origin/home **in the sky**. The word's relation to elven afterlife/religion and whether it is physically reachable remains the NPC's account. `El Hondar`, `Elhandar` and possibly `El Handar` are aliases needing audio checks; spelling `Elhandar` appears in the [E006 wiki recap](https://twbd.fandom.com/wiki/Episode_6).
 
 No precise coordinates, distances or map hex locations have been independently verified. Refer to the original show map before committing an exact route.
+
+
+## E009–E012 new localities and travel context
+
+**Antenna-linked subterranean facility (E009):** Expanded from E008's sealed corridors into the chambers of an immense **living tree**, cold equipment rooms, heavy doors, security-robot routes, power controls and a facility-destruct mechanism. The tree's claimed ancient elven identity is reported history. The complex collapses as Nash/Stanley reach the surface and a black dragon emerges (~E009 03:10–03:12). It has **not** been shown to be connected physically to Dusthill's dragon-engine shaft or Moag Ferhain. [E009](../episodes/E009.md).
+
+**Desert road to Slavetown (E010):** After reunion at **Fate 4**, the party is pursued by an orc-led armed caravan, surrenders and is transported prisoner for several days. Distinguish E007's goblin road ambush and E010's caravan/military encounter. E009's final vehicles are subsequently clarified as a much larger organized force. [E010](../episodes/E010.md).
+
+**Slavetown (aliases `Slave Town`, `Slavertown`):** A commercially active wasteland settlement with an extensive parking area, shops, saloons, hotel, market and official detention/arena facilities. Its connections to the slave trade and the **Principle** are demonstrated in E010–E012. Do not treat E005's map's uncertain orthography as a direct spoken correction. A local figure in E012 says the town was previously named **Pristine**; this is the **Jeweler's historical claim**, pending corroboration.
+
+**Prison/holding barracks:** In E010 ~02:06–02:25, the party is led into confinement among other prisoners, including recognizably kidnapped people from **Dusthill**. Seeing the captives is not freeing them.
+
+**Rusty Cage:** A Slavetown arena serving as a **trial-by-combat court** under the Principle's local magistrate and **Koromukishi** initiates. The party wins in E010; the court ceremony/release follows in E011. The exact spelling of the warrior order and officials' titles require audio and creator-asset review.
+
+**Slavetown map and streets:** E011 ~00:15–00:44 a map-seller offers a **street map**. Candidate labels include **Silver Trail**, **Heaven Street**, **Arena Row**, and a derogatorily named poor quarter rendered `Shit Eaters Row` in the SRT. Confirm written labels from a contemporary in-show **town map**, distinct from the E005 Wastes map.
+
+**Buxom Confederate:** Tavern/gambling and entertainment house where the party meets local entrepreneur **Celibus/Selylus Stump** in E011 ~01:30–02:15, and where an enslaved **Talia** is recognized. A named **Madame Wild Tongue** appears linked to the coercive service/entertainment rooms in E012's recap; confirm layout and ownership before assuming they are identical establishments.
+
+**Lattlebing's Hotel:** A multi-story hotel managed by **S. J. Lattlebing** (spelling unresolved; SRT `Ladlebing`, `Lattle Bing`). In E012 ~00:07–00:46, Vorel receives an upper-floor suite and Stanley arranges a different room for **Talia**. Lodging does not make her legally free.
+
+**The Sapphire:** Establishment associated with a man known as **the Jeweler**. Nash fights/loses possessions following an E011 late challenge (E012 ~00:46–01:10); the party subsequently discusses local alliances here (E012 ~02:47–03:12). Do not mistake the Jeweler for Stump.
+
+**Owen's garage, the foundry and general store:** Separate work/trade sites explored E011–E012. Hope takes repair work at **Owen's garage**, Stanley has weapons repaired at the **foundry**, Nash buys replacement clothes at the general store; each contributes to the town's economic and character context.
+
+**Mines / deed property:** E012 ~02:28–03:10 refers to a disputed mine deed variably called **copper** or **gold**, against a background of mines controlled by the Oilbeards. Do not settle location, title, mineral or ownership from these inconsistent ASR phrases.
+
+See [E011](../episodes/E011.md) and [E012](../episodes/E012.md) for timing and episode-boundary cautions; the show-referenced town map is an important missing primary spelling source.
