@@ -335,3 +335,21 @@ The fan-wiki [Teet image](../sources/images/Map_-_The_Teet.webp) is a later/unda
 ## Cast-written place-name check (Discord archive, 2026-10-21)
 
 Jon's direct written usage corroborates **Teet** and **Slavetown**, without adding any new geographical event or policy. His repeated **Tietkalla** (no apostrophe, double l) is a **strong cast-supported name lead** for the historical realm referred to as `Tiat Cala/Tiat Kala` in the processed E039 account, **subject to matching the same place** and not verifying Monsoon's claims about ancestry or sovereignty. **Solar Mines** capitalization is attested in Beau's cast-attributed writing. **Inverse** names (such as Erivia and Mind’s Monastery) and **Delvers** handout institutions (Department of Dungeons, Adventurer’s Guild) belong **to other campaigns** and must not be indexed as Wastes places. Source: [Discord spelling register](../reports/DISCORD_SPELLING_2026-10-21.md).
+
+## E046–E048 — Old tiefling chambers and first entered keep prison
+
+**Pit of Despair grate revisited (E046 ~02:02–02:17):** Party reopens the **upper pit grate** briefly. **Daylight, nearby Teet voices and the still-present froghemoth and glowing spheres** are observed; guards seemingly believe the party dead. Party **does not destroy spheres** or surface into the streets, and closes the grate.
+
+**Riddle mound, green beanstalk and keyhole shaft (E046 ~01:40–02:25):** An **Infernal riddle** directs attention to a mound, green growth and bean bag. Planting the **seven-bean bag's contents** grows a thick **magical beanstalk** up an otherwise inaccessible shaft. A **metal hatch** opens with the **skeleton-etched key** from E044. This is an alternate, achieved route into **ancient chambers beneath the Teet keep**.
+
+**Skeleton chamber, armor landing and ritual-book chamber (E046–E047):** Upper ancient masonry includes **scattered horned tiefling skeletal remains**, a hallway/stairs guarded or marked by **four magically active suits of armor**, a **pentagram**, a **podium and animated pictorial book**, and a junction with old **prisoner lift**. Absence of recent activity is a GM description; skeletal deaths' agent/cause unknown. The **book** contains a trapped person who is **freed in E047**, not E046.
+
+**Old Tietkalla library and bureaucracy (E047):** Ancient library contains **Infernal books** including irrigation manuals, romance fiction and a **private house-lineages record**. A magical trap sends **flying books, marbles and fire**. **P0D** scouts through overhead openings to a **bureau/office**, where drawers/hidden switches control passages to a **secret tunnel** that returns under the **ritual chamber**. The office has preserved head/eyes, a full-length mirror, medical/torture-like implements, and a **huge lizardfolk-skull helmet** worn afterward by Vorel. History of any specific official is **not confirmed** by architecture alone.
+
+**Old prison lift and hidden crypt route (E047/E048):** The dead-end high **prisoner shaft** has damaged chains and an old elevator-like mechanism. E048 party **uses Nash's summoned ladder plus surviving chain** to climb into a higher keep **prison-guard area**. Separately the freed elder says a **hidden tile** opens a **crypt** leading to sewers, an old throne room and the **Gem of Tides**; the party **does not traverse that route by E048 close**.
+
+**Teet keep prison level (E048 ~02:20–end):** Through a guard-adjacent chamber the party locates **Rory and another card-playing guard**, storage casks and **cells**. **Nash's sleep/drug operation** leads to access to the cells, where **Tedna and Bok Bok are directly found and rescued alive**. The guards' ultimate condition is uncertain. **Angelashi's alleged transfer to the Pit/“Fragger” is Tedna's testimony**, not witnessed travel or a confirmed death.
+
+**Château Weir (E048 ~01:54–01:58):** Nash uses his existing **Château key** to open double doors into the familiar otherworldly lodge; **the ancient elder enters alone and is greeted by Baba**. No returning soldiers or proof of an army by E048.
+
+**Working place spelling:** `Tietkalla` is cast-written by Jon, likely corresponding to `Tiat Cala/Tiat Kala` in these related scenes, but pronunciation/spoken wording cannot confirm orthography. The elder's account of a lost kingdom and current sewers is not proof of their remaining access.

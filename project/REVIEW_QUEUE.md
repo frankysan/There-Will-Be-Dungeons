@@ -452,3 +452,30 @@ The [spelling report](../reports/DISCORD_SPELLING_2026-10-21.md) **resolves writ
 | High | **Out-of-campaign resources** | **Inverse creator outline** and **Delvers cast-posted guild guide / character-sheet previews** must remain in their campaign namespaces. Check whether planned names were ever spoken; do not map their recap labels onto corrected E### identifiers |
 
 These are **spelling and source-matching tasks**, not a request to alter raw transcripts or infer private attachments' contents.
+
+## E046–E048 focused listening/handout queue (unverified SRT, 2026-10-21)
+
+Source dossiers: [E046](../episodes/E046.md) · [E047](../episodes/E047.md) · [E048](../episodes/E048.md). **Direct scenes and NPC statements are separate kinds of evidence.** Discord orthography is not audio listening.
+
+| Priority | Episode/time | Exact verification target |
+|---|---|---|
+| High | **E046 00:00–01:01** | Confirm **additional headache humanoids beyond E045 first kill**, how many, Vorel's fall/stabilization, Nash dragon form and last Acid Splash kill |
+| High | E046 ~01:02–01:32 | **Robe of Useful Items** exact patches/counts and Nash custody; **E045 skeleton earrings' giant-ears effect**, return of Vorel's drained strength |
+| High | E046 ~01:35–01:59 | **Infernal riddle** (privately delivered/then spoken), number of planted beans, who retains **skeleton key**, growth of beanstalk and upper hatch |
+| High | E046 ~02:00–02:20 | **Original pit grate opened**, alive froghemoth + alleged “eggs,” overheard guards' belief that party died, decision not to destroy spheres, route marking |
+| High | E046 ~02:20–end | **Keyed ancient chamber**, skeleton identity/age hypotheses, enchanted suits of armor and precise trap/trigger, book's partial animated scene and resisted Identify |
+| High | E047 ~00:15–00:43 | Book roped shut, old prisoner-lift shaft, library `Detect Magic` and book **abjuration**; identify exact **irrigation** and **romance titles** |
+| High | E047 ~00:45–01:20 | Animated-book trap trigger, fire/acid extinguishing, original magic levels and injury outcomes |
+| Critical | **E047 ~01:35–01:45** | Retrieve **Hope's private house-lineage passage**; not audible/public in machine SRT. Do **not** infer it from elder's later words |
+| High | E047 ~01:45–02:28 | **P0D library vent navigation**, office desk controls, **M/N initialed letter**, items/armor **+1 helmet** description, secret tunnel loop |
+| Critical | **E047 ~02:27–end** | Book's written Infernal messages, meaning of preserved **head**, full incantation, **Nash's Reduce (not Diontalus)** and Vorel extraction; final “queen” address |
+| Critical | **E048 ~00:00–00:43** | Ancient tiefling's **true name (`Nobiery/Nobieri`)**, whether his “Dead Tongue” title is a group/house, how he corrects **royal-queen mistaken identity**, Akmenos founder spelling and exact horn proof |
+| Critical | E048 ~00:33–00:58 | Identify precisely **what the elder asserts versus what GM confirms** about old vampire council, historical exile, **Night Pasture**, Septwyn, Kefeli and **Medusa** |
+| High | **E048 ~01:11–01:22** | Level-up/rest timing and **Stanley's interpretation of why Diontalus killed George**; proposed delivery of rabbit/toy to family |
+| Critical | **E048 ~01:23–01:59** | Elder's **Nash-is-crystal** diagnosis; claimed **1,000 army/twelve houses**, **twenty sacrificed newborns**, Soulbroker relationship; whether he **actually enters Château Weir alone** |
+| High | **E048 ~01:49–02:24** | **Crypt/Gem route** remains elder's map claim vs traversed **prisoner lift**, **one ladder patch consumed** and equipment left below |
+| Critical | **E048 ~02:25–03:05** | **Rory/companion** guard identities, both Sleep state, **all pixie blush applied involuntarily**, symptoms, and **whether alive at cutoff** |
+| Critical | **E048 ~03:04–end** | **Tedna and Bok Bok liberated alive**; confirm Tedna report's exact words about **Angelashi** and **Fragger/pit**, separating allegation from verified death |
+| Medium | E048 names/spelling | Jon's **Tietkalla** written form context for ASR `Tiat Cala`, **Akmenos founder**, elder **Nobiery/Nobieri**, and **Angelashi/Angel Ashi** as cast-shared competing forms. Do not settle by machine transcription alone |
+
+**Source custody:** No audio-reviewed transcript or private DM text was produced by this pass. SRTs untouched. Review unresolved claims and spellings before normalizing reader editions, official entity pages or future-era character sheets.
