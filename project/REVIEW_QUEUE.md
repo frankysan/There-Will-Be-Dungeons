@@ -114,3 +114,16 @@ Reference: [E009](../episodes/E009.md), [E010](../episodes/E010.md), [E011](../e
 | Medium | E009–E012 | Build **episode-specific speaker maps**, separating multiple NPC voices and E009 guest cast; compare other preserved ASR outputs where available |
 
 Do not alter the original SRT or promote machine-only phrasing into approved dialogue. Record audio verification with timecode, listening outcome and any spelling/source changes in the consistency ledger and correction log.
+
+
+## Image-provenance and visual-reference follow-up (new assets 2026-10-21)
+
+- **High — copyright/provenance:** For all **85 archived WebP images** in [image inventory](IMAGE_ASSETS.md), capture the original wiki **File:** page or original artist/creator URL, uploader, original date/version and **media-specific license or permission**. The public Fandom text license is **not a blanket image license**. Decide inclusion in future public releases independently for each file. The current copies are in a private repository, not publication-cleared.
+- **High — vehicle sheet now found:** [Fate 4 main sheet](../sources/images/Fate_4_Character_Sheet.webp) and [continued sheet](../sources/images/Fate_4_Character_Sheet_Continued.webp) explicitly credit **Kristen Ashton** and give period vehicle details. Compare E006 ~02:15–02:30 creator presentation, E007 vehicle chase and E010 caravan combat. Verify exact public version/date; don't conflate sheet rules with play outcomes.
+- **Medium — layout reconciliation:** Compare independent [floorplan](../sources/images/Fate_4_Floorplan.webp) (2-foot tiles) against creator sheet's inner-layout drawings; document differences as separate representations, not silently corrected facts.
+- **High — regional map found, but not dated:** [Beyond the Deadfingers](../sources/images/Map_BeyondTheDeadfingers_resized.webp) includes Dusthill, Moag Ferhain, Slavetown and later annotations. Audit small-print spellings and chronology, then compare with **E005's in-session map** without assuming identical provenance.
+- **High — Slavetown plan still absent:** E011 ~00:15–00:44 **town street map** is **not** the Beyond the Deadfingers regional map or [The Teet](../sources/images/Map_-_The_Teet.webp); seek an actual contemporary town map before declaring its street labels confirmed.
+- **Low — illustration-only cross-index:** Artist-labelled images such as [Bok Bok portrait](../sources/images/Bok_Bok.webp), [Fate 4 action](../sources/images/Audie_Norman_Fate_4_Action_Shot.webp) and [gibbering mouther](../sources/images/Scott_Johnson_-_Gibbering_Mouther.webp) can serve future visual navigation **after** verifying rights and episode-era spoilers. Do not treat fan depictions as listener-checked canon.
+
+No audio review completed during this visual-source pass.
+
