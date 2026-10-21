@@ -154,3 +154,26 @@ No audio review completed during this visual-source pass.
 
 **Carryover:** Mine deed “copper” versus “gold”, Stump's claims, the E011 Slavetown street map and original 25 captives remain unresolved. These episode dossiers are not audio-verified. [E013](../episodes/E013.md) · [E013.5](../episodes/E013.5.md) · [E014](../episodes/E014.md).
 
+## E015–E016 uncompleted audio and reference review (2026-10-21)
+
+Source links: [E015](../episodes/E015.md) and [E016](../episodes/E016.md). This batch is from **processed Parakeet SRT only**, with **no newly listened-to audio**. Confirm name phonetics independently of later fan art and retrospective recaps.
+
+| Priority | Approximate source position | Target |
+|---|---|---|
+| High | E015 ~00:02–00:06 | Verify GM recap's **Tylander Sullivan**, **Orp** and **Sheriff Randy death in E014**. Correct earlier E014 provisional status only as **later source clarification**, not original dialogue |
+| High | E015 ~00:06–00:43 | Portcullis/undead combat, **immovable rod**, glyphs, escape route and whether Tylander physically projects or stands in basement; his offer of **parchment deed** versus no confirmed handover |
+| High | E015 ~00:53–01:11 | Necklace to Orp, **Feather Fall** catch, charm and magical incapacitation of giant; inventory control |
+| High | E015 ~01:11–01:46; E016 opening | Orp's necklace **custody sequence** and **Tylander declared dead**, Vorel's possible persistent curse, alleged mine deed **disappears into smoke** |
+| High | E015 ~01:44–02:06 | Lady Saltbubble/Sir Chickenfinger say Tylander opposed slavers; **their faction perspective**, debate and decision not to kill Orp |
+| Medium | E015 ~02:10–02:36 | Orp fed sand squid; exact **party split**. Suggestions to target goblins do not become observed actions |
+| High | E016 ~00:09–00:38 | Verify route name **Esophageal Pass**, ordinary dagger **presented falsely as magic** and danger to actual travelers; what Orp was told versus what the group intended |
+| High | E016 ~00:31–00:40, ~01:25–01:52, ~02:33–02:39 | Vorel follows scout, **female priestess/Tepala**, **Kurik lineage**, **Fuxi (GM spells F-U-X-I)**, ritual shark/fire vision versus real camp, exact flaming-rage mechanics and Bok Bok reunion |
+| High | E016 ~00:38–00:51, ~02:27–02:33 | **Randall Owen** family home body: identify woman, context; child death according to official. Do not collapse adult/child/Randall deaths |
+| High | E016 ~01:08–01:26, ~01:52 | Ruined **Thorn Row** building, around eight **Toyota Host** dead, active severed arm / burning; identity not positively verified |
+| High | E016 ~02:03–02:10 | **Externally observed dragon flyover and Nash transformation/fire** versus only-Nash **“Mother”** voice. Listen for exact words and any explicitly named parent/source |
+| High | E016 ~02:19–02:33 | Magistrate's exact name, **Tylander-return report**, exact nature of possible pact, **Black Mine** land record for **Catherine Speckles / 999th level**, mine identity versus copper/gold deed |
+| High | E016 ~02:23–02:33 | Conditions of promised **Dusthill prisoner release** and protection from future raids, magistrate's claimed authority, group's **conditional** acceptance pending Vorel/rest |
+| Medium | E016 ~02:39–end | Host says linked **episode blog posts/show notes** to start with this episode; retrieve contemporary publisher record to corroborate credits and spelling, not as audio evidence |
+
+**Carryover:** The **Salivating Fields evacuation is not prisoner freedom**, and the Black Mine/999th level is not known to be the mine title sought earlier. Orp's pending actions and Tylander's true post-E015 survival remain **open**. Preserve all raw/processed SRTs and label audio-confirmed findings separately.
+

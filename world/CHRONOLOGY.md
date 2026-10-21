@@ -133,3 +133,30 @@ This is a **navigation outline**, not a fully verified plot retelling. Most list
 
 **Caution:** E013.5 belongs **between E013 and E014 in listening order**, while its original Hope/Vorel scene is **set during the other pair's E008–E009 absence**. The in-character summary also supplies *opinions about older episodes*, including gnome/old-man deaths, not established primary-event evidence. [E013](../episodes/E013.md) · [E013.5](../episodes/E013.5.md) · [E014](../episodes/E014.md). All timestamps approximate and derived from machine SRT.
 
+## E015–E016: Death, return reports, ritual and black dragon (unverified processed SRT)
+
+| Episode / approximate clock | Narrative event, timing or reported claim |
+|---|---|
+| **E015** ~00:02–00:06 | GM recap **adds** `Tylander Sullivan`, cyclops name `Orp`, and reports **Sheriff Randy killed** by cyclops in E014 (not new E015 murder) |
+| E015 ~00:06–00:33 | Ritual-house **portcullis/animated corpse combat** and negotiation over necklace; Tylander offers purported mine-deed parchment, sets glyph, no legitimate deed transferred |
+| E015 ~00:30–00:43 | Tylander flees upstairs; enlarged **Vorel breaches building** to release the party |
+| E015 ~00:43–01:11 | Nearly empty Slavetown, search for giant, **Orp gets necklace**, Nash dropped/rescued by **Feather Fall**, giant persuaded and then **incapacitated by Tylander** |
+| E015 ~01:11–01:45 | Necklace retrieval/search, **Hope and Vorel kill Tylander**, who seemingly curses Vorel; purported deed **vanishes as smoke** during search |
+| E015 ~01:44–02:10 | **Koromukishi** arrive, claim Tylander opposed slavery, propose killing Orp; party protects/revives giant and talks him away from town |
+| E015 ~02:10–02:36 | Orp fed **sand squid**; party **splits**: Nash/Vorel accompany giant, Hope/Stanley return toward Slavetown; **no trade-pass attack yet** |
+| **E016** ~00:00–00:09 | Intro **session date spoken as 2018-05-19**, GM review of E015 and out-of-game necklace/inventory clarification |
+| E016 ~00:09–00:38 | Nash/Vorel **direct Orp to Esophageal Pass** to prey on travelers, falsely present ordinary dagger as two-way/one-way magic communicator |
+| E016 ~00:31–00:40 | Vorel responds to lizardfolk call **east of town**; Nash leaves him and returns to Slavetown |
+| E016 ~00:38–01:08 | Hope/Stanley discover **Owen-associated woman's body**, seek Talia and encounter Stump amid largely evacuated Slavetown |
+| E016 ~01:08–01:26 | Thorn Row building razed; ~8 **Toyota Host** dead; **severed autonomous arm attacks Stanley**; restrained, then burned |
+| E016 ~01:25–01:52 | **Vorel's parallel ritual** with female lizardfolk priestess; **Fuxi** named Father of Fire; burning-sky **vision** and sand-shark ordeal / flaming rage |
+| E016 ~01:52–02:03 | Nash rejoins Hope/Stanley at arm site; **captives reportedly evacuated to Salivating Fields**, not freed |
+| E016 ~02:03–02:10 | A **black dragon flies over Slavetown** as Nash darkens/scales and erupts in fire; he alone hears **“Mother”** voice, identity uncertain |
+| E016 ~02:10–02:33 | Party regroups at hotel; **magistrate reports Tylander survived/returned**, says Catherine Speckles owns **999th floor of Black Mine** per land ledger, promises release/protection for Dusthill in exchange for exploration. **Conditionally accepted pending Vorel and rest** |
+| E016 ~02:33–02:39 | Vorel awakens from ritual with **Bok Bok**, priestess's guards speak of his future path; Vorel/Bok Bok **head toward town**, do not yet reunite onscreen |
+| E016 ~02:39–end | Out-of-game announcement: **show-linked blog posts** planned beginning with this episode |
+
+**Maintain two versions of death:** E015 *observes* the magician killed; E016 *reports* he returned. **Maintain two parallel spaces:** Nash/Hope/Stanley at Slavetown/dragon/magistrate while Vorel experiences a separate ritual under a fire-sky vision. **Maintain three mine references:** Tylander's evaporated `copper/gold/chopper` deed, Black Mine and its alleged 999th level, and earlier Oilbeard holdings. [E015](../episodes/E015.md) · [E016](../episodes/E016.md).
+
+E013.5 remains published **between E013–E014** even though its Hope/Vorel scene is set **around E008–E009**; no retcon to this release ordering is implied by E015/E016's dragon history.
+
