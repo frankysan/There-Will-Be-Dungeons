@@ -78,3 +78,36 @@ This register supplements the E000–E001 seed; **none of the following have bee
 | `artifacts.lab_floating_metal` | Two suspended metal pieces, unusual tube | Their function and final inventory placement need careful E008 audio/action check | E008 ~01:16–01:20 and ~02:54–02:59 |
 
 **Classification:** Names supported by the fan wiki are *wiki-spelling-supported*, not audio-confirmed; the rest are ASR-only or in-session speaker statements. Review detailed [E006](../episodes/E006.md), [E007](../episodes/E007.md), [E008](../episodes/E008.md) source pointers. The old E002–E005 concerns remain open.
+
+
+## E009–E012 review register (2026-10-21; no new audio verification)
+
+| Key | Working form / issue | Competing claims, recognition or necessary restraint | Primary check |
+|---|---|---|---|
+| `npc.e009_tree` | Claimed former elf transformed into tree | Imprisonment for ancient anti-dragon research is **tree testimony**; release/destruction not independent proof of whole origin | E009 ~01:03–01:14, ~03:02 |
+| `npc.leopold_ai` | Warden AI controls observed | `warden AI protocol` does not identify all of Leopold's real-world nature; character denies being computer | E008 ~01:06; E009 ~01:54–02:15 |
+| `facility.countdown` | 24-hour self-destruct selection | Later DM refers to minutes remaining; track elapsed in-fiction time and control changes before calculating chronology | E009 ~02:13–02:16 and ~03:00–03:10 |
+| `guest.gnomes_fate` | **Eddy and Chance missing under sand, not verified dead** | Explicit **out-of-game assurance** they are not dead is not an in-world rescue nor known destination | E009 ~03:08–03:13 |
+| `creature.black_dragon` | Black dragon escapes/flies upward | Exact ancient identity/relationship to imprisoned tree or specific mechanical cause not established | E009 ~03:10–03:12 |
+| `object.e009_items` | Portable hole, floating rods, immovable rod, tree staff | Acquisition versus custody disputed in dialogue; don't invent permanent inventories; guest items not automatically passed to PCs | E009 ~00:12–00:50; ~03:00–03:13 |
+| `faction.principle` | **Principle (?)** | `principal`, `principles` in SRT; individual ruler, doctrine and state structure unclear | E010 ~01:28–02:22; E012 ~02:53–03:08 |
+| `faction.koromukishi` | **Koromukishi** (candidate) | `Kuromukishi`, `Kromukishi`, `Karoma Kishi`, `Toyota` chant; warrior order and slogans need separate spelling sources | E010 ~02:14–03:18; E011 ~00:08–00:15 |
+| `place.slavetown` | **Slavetown** | SRT `Slave Town` / `Slavertown`; map/source orthography and street labels unresolved | E005 ~02:30; E010 ~02:01; E011 ~00:15–00:44 |
+| `npc.magistrate` | **Ethanelia/Ethanilia (?) of Bogbottom** | Multiple SRT forms; role as Slavetown elf magistrate clear; first name unresolved | E010 ~02:15 |
+| `npc.orc_enforcers` | Sir Steelnuts? Sir Black Trank? | `Steel Nuts`/`Steelballs`, `Black Trank`/`Black Trink`; avoid hard-coding official titles | E010 ~01:50–02:06; E011 ~00:04–00:11 |
+| `npc.order_members` | **Lady Saltbubble, Sir Chickenfinger** | Recognized ceremony names, origin of titles may be joke/rank; verify audio | E011 ~00:11–00:14 |
+| `npc.slippery_brent` | **Slippery Brent** | Map-trader/patron messenger; exact spoken name and town-map spelling | E011 ~00:15–00:26 |
+| `npc.stump` | **Celibus/Selylus Stump (?)** | `Syllabus`, `Sullivan`, `Selibus`; patron and host, not automatically identical to Jeweler | E011 ~01:40; E012 ~02:32 |
+| `npc.talia` | **Talia Bane** (wiki maternal relationship) | E005 presumed missing; E011 directly recognizes her among enslaved; E012 hotel **not a lawful release** | E011 ~01:45–02:12; E012 ~00:40–00:46, ~01:35–01:48 |
+| `npc.lattlebing` | **S. J. Lattlebing** (candidate) | `Ladlebing`, `Lattlebing`, `Lattle Bing`; hotel spelling pending | E012 ~00:08–00:46 |
+| `npc.jeweler` | **The Jeweler** | Nash's adversary E011–E012 and prospective anti-Principle ally; preserve his *interested* narration | E011 ~02:48–02:58; E012 ~02:47–03:10 |
+| `event.nash_gear` | Lost after Jeweler fight; items offered back E012 | Need exact item-by-item custody, gold and what was actually returned versus promised | E012 ~01:10; ~03:07 |
+| `place.pristine` | Slavetown formerly **Pristine** (?) | Claimed by Jeweler, not yet corroborated | E012 ~03:03–03:07 |
+| `history.dusthill_betrayal` | Jeweler accuses Hillmaster/gnome resembling Softhead | Grave uncorroborated allegation; not settled historical cause of raid | E012 ~02:55–02:59 |
+| `mine.deed_metal` | **Mine deed** (neutral) | **Copper** in party/Stump discussion; **gold** in later Jeweler speech; verify artifact before calling it either | E012 ~02:28–02:43 and ~03:00 |
+| `npc.oilbeards` | Trentard Oilbeard, Mabruk Oilbeard | Jeweler's statement on mining and son's death; spellings and reports pending | E012 ~03:00–03:08 |
+| `npc.timber` | Timber McClellan/McClelland | Alleged missing envoy sent after deed; not independently identified | E012 ~03:00–03:03 |
+| `npc.catherine_speckles` | Catherine Speckles (?) | Reported deed notary/taker; unknown whereabouts; distinct from notorious woman in red bandolier | E012 ~03:01–03:05 |
+| `artifact.show_town_map` | E011 Slavetown map | New town map separate from E005 **regional** map; obtain contemporaneous scan to verify layout/orthography | E011 ~00:15–00:44 |
+
+**Not yet verified:** These observations and estimates come from processed Parakeet files; fan-wiki orthography never establishes exact speech. Extend review in [E009](../episodes/E009.md), [E010](../episodes/E010.md), [E011](../episodes/E011.md), [E012](../episodes/E012.md). Keep new entries separated by first disclosure and source role.
