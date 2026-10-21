@@ -266,3 +266,38 @@ New source classes: [episode-numbering crosswalk](../project/EPISODE_NUMBERING.m
 
 **Non-resolution:** E019 fight is not E018 action; E020 diary's identity is not the skeleton's; E021 women's appearances are not identical just because Tylander impersonates one; E021 final figure is not yet proven the named demon. All source SRTs remain unchanged.
 
+## E022–E024: Soulbroker arc claims, identities, custody (2026-10-21)
+
+**Source class:** [E022](../episodes/E022.md), [E023](../episodes/E023.md), [E024](../episodes/E024.md) **processed Parakeet SRT**, no listening. Personal spellings from [owner notes](../project/OWNER_EPISODE_NOTES.md) remain aliases. Corrected IDs per [numbering policy](../project/EPISODE_NUMBERING.md).
+
+| Key | Earliest new source | Open interpretation / needed correction |
+|---|---|---|
+| `demon.quizquaz_vs_soulbroker` | E022 ~00:10–03:05; E023 ~00:10 | The winged demon apparently seen E021 = returning **Quizquaz/Quizquas**, distinct from **beholder** and emerging **goat-headed Catoblepraithe**. Confirm specific name and creature visually through audio narration |
+| `beholder.stage` | E022 ~01:22–03:00 | Large hidden **beholder** defeated; multiple eye stalks connected to same creature, **not multiple distinct enemies** |
+| `spell.threshold_rockfall` | E022 ~00:14–00:22 | Tail/glyph event seals the **entrance**; not E019's previously cleared mechanical rock trap |
+| `vorel.charm` | E022 ~01:35–03:00; E023 ~00:18 | Magically compelled **attacks on companions**, Vorel subdued **unconscious** then Soulbroker **heals/decharms**; not voluntary alliance, not a character death |
+| `stone.beholder_summoning` | E022 ending / E023 recap | Quizquaz retrieves **dark stone** from defeated beholder and opens reality tear; verify provenance/causal sequence |
+| `realm.chateau_weir` | E023 ~00:24–01:45 | `Château Weir/Chateau Weir` black realm and portal city; title/pronunciation to audio-check; source of needlessness of air from narration |
+| `npc.catoblepraithe` | E023 ~00:10–00:35 | Goat-like figure explicitly calls himself **Soulbroker** and describes souls; identify him by in-world name statement vs trust in status/rank |
+| `staff.baba_chef_dan` | E023 ~00:39–01:45 | Hospitality staff/chef name variants; paperwork/food orders separate from **later soul pact** |
+| `vision.hope_mother` | E023 ~01:45–02:02 | Private **dream/vision** of deceased mother, claimed afterlife exchange and **father alive**; no external confirmation |
+| `lead.hope_father_bandolier` | E023 ~01:45–02:20, E024 ~01:23 | Mother's dream describes **red bullet-bandolier woman / Dead Men**; E024 Soulbroker says father *may* be in **Principle City** based on agents. **Neither confirms E017 Jolt kidnapped him** |
+| `voice.vorel_child` | E023 ~02:00–02:07 | Childlike plea from outside demon hotel, Vorel **does not open**. No proved human child or outside harm |
+| `compact.principle` | E023 ~02:35–02:47 | **Only Hope, Nash, Stanley sign**, Vorel refuses; kill Principle within **1,000 days and 1,000 nights** or souls forfeit. Obtain written contract/audio for deadline, survival clauses |
+| `level4_vs_boon` | E022 outro; E023 signing | **All four reach level 4**, but pact's **additional feat** promised/granted **three signers only**; do not combine |
+| `vision.nash_solar_mines` | E024 ~00:06–00:51 | **Private induced experience** of Solar Mines, green tanks, Warden, Bulger and violence. GM later **confirms** core experiment, but not every imagined visual is objective present-day fact |
+| `heart.kas_de_jira` | E024 ~00:51–01:00 | GM confirms **dragon-metal heart** from ancient **black-dragon broodmother** (`Kas/Cas de Jira` variants), unique successful host. Seek **period item text**, not late-campaign sheet |
+| `nash.dragon` | E024 ~00:51–01:09 | **Observable** black **wyrmling transformation and flight**, exhaustion downside. **Not ancient dragon now**, nor distinct NPC |
+| `artifact.fox_scully` | E024 ~01:09–01:15 | Pair of magical revolvers at **the Teet** reportedly held by `Acrimonicar`. **Quest report only**, not acquired |
+| `place.elhendar` | E024 ~01:09–01:15 | Soulbroker suggests elven exile `Elhendar` via spacecraft; **not visited** and spelling unverified |
+| `mineral.celestium` | E024 ~01:14–01:18 | Allegedly powerful mineral **Celestium** at western ruins + dragon breath to close **Esophageal Pass**; a proposed strategy by interested NPC, not tested |
+| `item.chateau_keys` | E024 ~01:18–01:22 | Nash receives apparent **Château Weir keys**, described usable **100 ft beneath surface**; item granted, portal-use restriction **claim/GM table information**, not yet tested |
+| `mine.deed_reagent` | E024 ~01:25–01:29 | Soulbroker **says deed consumed** in ritual; E015 had evaporating parchment, E024 party never obtains deed. Claim of reagent is **not witnessed** |
+| `shield.beholders_teeth` | E024 ~01:34–01:50 | Vorel makes **mundane shield** from beholder remains; GM clarifies **no magical bonus** |
+| `chest.chapel_contents` | E021 locked; **E024 ~02:45–02:53 opened** | **60 gold, 6 gems** (2 bloodstones, 2 citrine, jasper, quartz) at ~50 gp each + **clairvoyance/mind-reading potions**. Confirm who holds each item |
+| `npc.catherine_status` | E021 apparent death; E024 corpse revisited | Catherine's **message to Bertrand not yet delivered**, body searched; no new deed, no verified memorial token |
+| `door.dorothy_burning` | E024 ~01:55–end | **Wood catches fire**, smoke blocks passage, voice still heard. **Door's permanent destruction and party's escape are unproven** |
+| `clock.chateau_vs_mine` | E024 ~02:10–02:18 | Party repeats report from **Dorothy** that about **two weeks** passed; **not a reliable independently timed measurement** |
+
+Avoid upgrading Soulbroker's **offers or motives** into verified setting facts, and avoid inferring from personal owner spellings that `Acrimonicar` or `Kas de Jira` is official orthography. [Review queue](../project/REVIEW_QUEUE.md).
+
