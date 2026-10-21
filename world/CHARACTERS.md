@@ -300,3 +300,25 @@ The show-era **fan-art inventory** can aid research but is not independent audio
 
 **Pact separation:** Soulbroker E023: **Hope/Nash/Stanley voluntarily sign, Vorel refuses**. Dion Talus E029: **Stanley refuses** and a magical intrusion follows. No supported evidence for a second consensual pact with the archfey.
 
+## E031–E033: Trashburg people, P0D, and unresolved identities
+
+| Character / group | Episode and source role | Evidentiary status |
+|---|---|---|
+| **Charlemagne** | E031 introduction, E032–E033 lodging | French-speaking **Trashburg innkeeper**; directly hosts group, adds map annotations and asks delivery to arms dealer. His descriptions of factions and prices are **his testimony/offers** |
+| **Suckmaster Din Bottle-Bite; Prince Alidwyr/Alidweer** | E031 stage | Teet ruler and publicly presented son; **announces upcoming marriage** to **Jolt**. Correct spellings/family details need audio/show-era source |
+| **Jolt Elegos / Bellicose, Acrimonicar** | E017 appearance, E031 public announcement | Publicly announced as **prince's intended bride**. Multiple SRT variants; do not normalize to either working form without direct listening/written source |
+| **P0D (“Pod”)** | E031 ~01:55–02:32 onward | Small living **pixie**, numbered aquarium escapee; says **Farmer Dewey** imprisons/mills pixies for **Pixie Blush**. Alive and sheltered at E033; testimony is **firsthand claim**, **not observed factory** |
+| **Farmer Dewey / Doctor Dickles** | E031 P0D story, E032 planning | Alleged producer and suspected city contact; **not yet visited**; name/affiliation unverified |
+| **Monsoon Cabbage** | E032 ~00:12–01:16 | Older tiefling **Twenty-Six Block** leader, offers conditional route into fortress if the party kills Toe Ripper chief. Deal **not fulfilled**, alleged authority limited to his own claims |
+| **Forty-Two Carnage** | E032 ~00:40–00:50 | Gang affiliate who says number in name records body count; **not an independently verified tally** |
+| **Bok Bok** | E032 ~02:00–02:18 | Returns wearing **toe necklace**, says he made friends; a Toe Ripper connection is likely but **not proof of formal recruitment or victim identity** |
+| **Buttons** | E032 ~01:37–01:46, later | **Witnesses E029 luminous intrusion** into Stanley, privately demands disclosure; **Stanley casts Suggestion to redirect him**. His eventual compliance is magically influenced |
+| **Tedna** | E032 ~01:46–02:00 | Suggests access through **wedding food-service work** after exploratory discussions; **no job obtained yet** |
+| **Jedel / Jetel McCready** | E031 Charlemagne reference, E032–E033 building | Named local arms dealer, **not positively identified with corpse** found on premises |
+| **Unnamed vampire-like attacker** | E032 cliffhanger, E033 fight | Fangs, bite, HP-max effect, regeneration and disappearance **observed**; exact creature kind and cause unknown |
+| **Hope** | E033 battle | Her **maximum HP decreases** from the bite. Finds **rocket launcher/two projectiles**. No verified infection or permanent transformation |
+| **Stanley** | E032 midnight and E033 closing | **Casts Suggestion on Buttons**; E033 increasingly volatile and says **“Stanley right now.”** Neither proves the archfey is him or that he voluntarily agreed |
+| **Gray Socks and Pounders** | E033 ~01:58–02:21 | Trashburg's **underdog Blood Ball team** and the fortress opponents respectively; offer to recruit Vorel, **game not yet played** |
+
+**Performer boundary:** Scott absent from **E033** (titled `Nashfree`), but the character Nash remains part of the campaign world. Do not conflate the out-of-game absence with a definitive change to the pact signatories.
+
