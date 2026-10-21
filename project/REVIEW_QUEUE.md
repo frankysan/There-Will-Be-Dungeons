@@ -45,3 +45,23 @@ or canonical correction was performed by this comparison run.
 When a question is settled, record `resolution`, `evidence/audio checked`, `correction applied`, and `date`, then transfer spelling resolution into `world/CONSISTENCY_LEDGER.md` and the episode-specific correction log.
 
 For full settings, measures, and evidence qualifications, see the [Parakeet segmentation benchmark](../reports/PARAKEET_SEGMENTATION_2026-10-21.md).
+
+## E002–E005 follow-up listening and source checks
+
+The E002–E005 [dossiers](../episodes/E002.md) ([E003](../episodes/E003.md), [E004](../episodes/E004.md), [E005](../episodes/E005.md)) were derived from **processed Parakeet SRT only** on 2026-10-21, without manually reviewed audio or independent ASR comparisons. Their source text is preserved.
+
+| Priority | Episode/time | Check before any accepted spelling/canon update |
+|---|---|---|
+| High | E002 ~00:17–01:07 | Distinguish Dharma, Holga, Thomas, Billy and player Hill Guard; listen to the scene and later explanations for loyalties and deaths |
+| High | E002 ~00:50–01:20; E003 ~01:20–01:38; E005 ~00:03–00:40 and ~02:45 | Separate dragon-engine chamber, lower pump/intake and **surface-well confirmation**; resolve exact sequence |
+| High | E003 ~00:58–01:21 | Softhead's return, pipe attack and fall; no unverified declaration that he died |
+| High | E003 ~02:45–03:09; E004 ~00:07–00:55; E005 ~00:01 | Audio-check `Moag Ferhain`, `Amelda`/`Emelda`, `Quizquaz` and whether title `Dream Drinker` is spoken |
+| High | E003 ~02:35–02:57 | Check alphanumeric medical droid designation `C4N-D13` vs output `C4M-G13`, and whether droid voice is an existing performer |
+| Medium | E004 ~00:55–01:57 | Verify whether Stanley cuts the dream tube/pipe and how Queen Amelda and the skeletons react after Quizquaz's defeat |
+| High | E004 ~02:45–02:53; E005 ~00:04–00:12 | Verify Peter identity and what he *claims* about original Hillmaster line, magic and blood-powered engines |
+| Medium | E004 ~02:13–02:15; E005 ~01:00–01:03 | Distinguish observed wrench shape-changing from Nash's theory of a sentient/transformed person |
+| High | E005 ~01:07–02:43 | Inspect raid/missing-civilian counts, child Bruce Bane, Jimster/Shun'ti and timing of promised town meeting |
+| High | E005 ~02:30–02:34 | Acquire and check original in-show regional map; do not lock in ASR spellings for nine newly heard locations |
+| Medium | All E002–E005 | Build each episode's **independent** participant-to-speaker map; numeric speaker IDs shift and roles/performances vary |
+
+A later [Episode 6 fan-wiki recap](https://twbd.fandom.com/wiki/Episode_6) can support some *later* spellings and outcomes, but not a prior episode's exact audible phrasing or first-disclosure timestamp.
