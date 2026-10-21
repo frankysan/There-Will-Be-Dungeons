@@ -39,5 +39,9 @@ Decisions marked **provisional** remain open to revision after listening tests.
 
 When changing a decision, append a dated entry with reasons and affected episodes. Do not erase the original rationale; instead mark it superseded.
 
+## Written-name evidence decisions (2026-10-21)
+
+| ID | Status | Decision | Why / evidence |
+|---|---|---|---|
 | D-026 | **Accepted canonical spelling, 2026-10-21** | **Diontalus** is the curated project display spelling; keep `Dion Talus`, `Deontalus`, `Diantalus` and `Diontalis` as source/search aliases | Two Jon cast messages spell his own character **Diontalus**; the archive owner explicitly accepted creator authority for this spelling. [Discord report](../reports/DISCORD_SPELLING_2026-10-21.md). **This does not audio-verify any dialogue or certify the character's statements**. |
 | D-027 | **Agreed provenance policy, 2026-10-21** | Keep **cast-written, creator-document, cast-posted handout, cast-shared recap, archived-link preview and fan inventory** distinct, and assign **Inverse** / **Delvers** references to those campaigns rather than **The Wastes** | [Discord report](../reports/DISCORD_SPELLING_2026-10-21.md) records source disagreements. **Tietkalla** is cast-supported, while **Catoblepraithe/Catobelpraithe**, **Angel Ashi/Angelashi** and other variants are still unresolved; orthography does not prove identity or chronology. |
