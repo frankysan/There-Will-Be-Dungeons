@@ -232,3 +232,37 @@ New source classes: [episode-numbering crosswalk](../project/EPISODE_NUMBERING.m
 
 **Preservation:** Do not alter SRTs, assign owner-note spellings canonical status, treat Nash's hallucinations as independent NPCs or extend E018 cliffhanger into E019 without reading its own source.
 
+## E019–E021: deep Black Mine continuity and provenance (2026-10-21)
+
+[Episode 19](../episodes/E019.md), [Episode 20](../episodes/E020.md), [Episode 21](../episodes/E021.md); **processed Parakeet SRT only**, no audio verification. Owner numbering is **corrected repository numbering** ([crosswalk](../project/EPISODE_NUMBERING.md)); owner spellings remain research leads ([notes](../project/OWNER_EPISODE_NOTES.md)).
+
+| Key | Finding / candidate | Required distinction |
+|---|---|---|
+| `elevator.direction` | E019 rise, **Scrolly's order to send it down**, then support failure | Do not merge reversal command with chain break. E020 GM recap attributes break to powerful **Thunderwave** |
+| `shaft.depth` | Observed floor signs **23** near E018 start and **78** in E019 descent | **No confirmed lower floor number** at landing; magistrate's **999th floor** in E016 is separate reported property |
+| `tickles.death` | E019 jumps aboard, survives shaft fall, is pinned in rockfall; E020 ~00:14 uncovered with crushed helmet/unresponsive | E019 unresolved cliffhanger → **E020 party death conclusion**. Not a canine |
+| `stanley.ribs` | E020 rescue with painful chest, later cast healing/rest; still struggles on ladder | Restoration of some hit points does not erase GM-described rib injury automatically |
+| `rockfall.controls` | E019 first hidden skull lever initiates ceiling rockfall; **E020 second safety lever** opens passage | Mechanical sequence, not giant/boulder-creature fact |
+| `rules.fire_aura_rapier` | E020 intro corrects Vorel's aura **affects creatures, not animated sword as object** | **Table rules correction**, distinct from demonstrated plot events |
+| `diary.tylander` | E020 ~01:00–01:07 journal **bears Tylander Sullivan's name** | Identified **journal**, **not identified male skeleton** in same room |
+| `journal.mariosa_names` | Day **245** addresses `Mariosa`, names `Daisy`, `Tobyl/Tobel`, `Lily` | **Written in-world testimony** and orthography candidates; E021 Tylander's spoken family history cross-check required |
+| `journal.voice` | Claimed voice **behind door at bottom of Black Pit**, promise of vengeance and need to woo woman in Slavetown | **Author's claim**; cannot prove the voice was Catoblepraithe nor woman Catherine |
+| `journal.magical_page` | Page visibly shifting/unreadable to multiple PCs, retained by group | Vorel's joking reading as dance **does not decode** actual page |
+| `skeleton.study` | Old **male skeleton**, unknown identity | Never merge with Tylander, Mariosa, family or other named person based only on proximity |
+| `beast.displacer` | E020 damaged/tainted large cat with tentacles/brain exposed, Vorel eventually kills | Distinct from E009 mouther, E021 mushroom creatures and E021 final winged figure |
+| `glyph.darkness` | E020 creature remains trigger **magical darkness**; E021 other glyphs have varying visible markings | Cannot infer every glyph produces same effect, or exactly which organisms trigger each |
+| `voice.hope_find_me` | **E021 ~00:04–00:09**, GM asks other players to remove headphones; Hope alone hears “find me” | **Private experience**, listener has heard it but other PCs have not |
+| `fungi.e021` | E021 ~00:18–00:58 **hostile tentacled animate mushrooms** | Not equivalent to all mundane mushrooms seen E020–E021 |
+| `npc.dorothy_door` | E021 ~01:20–01:45 speaking door called **Dorothy**, riddle/restrictions | Observation of speech ≠ demonstrated independent life or verified “mother” |
+| `tylander.former_mayor` | E021 ~02:05–02:20 former mayor/Pristine, family killed, authority betrayal | **Tylander's interested testimony** compared with E013 **GM briefing** and E020 **journal**; exact family identities and dates unresolved |
+| `undead.tylander_claim` | E021 Tylander **confesses turning enslaved people into undead** | Strong narrative claim consistent with observed undead, **not a complete count or verified motive** |
+| `fingers.catoblepraithe` | E021 eight hooded followers transform and attack, defeated by party | Separate from upper-mine guards and E019 elevator zombies |
+| `tylander.projection` | E021 seated/shot-at figure appears **non-solid / displaced voice** | Do not declare Tylander killed by chapel shot; stage image may be projection |
+| `catherine.impersonation` | E021 Tylander **assumes Catherine Speckles appearance** | **Not proof Catherine is fictitious** |
+| `catherine.captive` | E021 ~03:03–03:12 **another person** calls herself Catherine, asks message to Bertrand and becomes unresponsive | Separate individual and apparent death by party inference; verify GM explicit identification/status |
+| `jeweler.bertrand_surname` | E021 message uses `Bertrand Moog/Mulg` ASR variations | Confirm name audio before canonization; **message not delivered** |
+| `chest.deed` | E021 chapel-associated chest **unopened** | No **deed recovery**, including E015's evaporated document or E016's ledger |
+| `e021.winged_figure` | ~20-ft winged black figure, white glowing eyes/mouth, **speaks at episode ending** | Candidate **Catoblepraithe/Soulbroker**, **not conclusively confirmed** as such by E021 cutoff |
+
+**Non-resolution:** E019 fight is not E018 action; E020 diary's identity is not the skeleton's; E021 women's appearances are not identical just because Tylander impersonates one; E021 final figure is not yet proven the named demon. All source SRTs remain unchanged.
+
