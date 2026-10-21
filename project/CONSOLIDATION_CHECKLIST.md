@@ -1,6 +1,6 @@
 # Year One documentation consolidation — implementation checklist
 
-**Status (2026-10-21): Phase A completed as a **first editorial pass**. Phases B–D remain pending.** Follow [the architecture](DOCUMENTATION_ARCHITECTURE.md) for the full target design and source-evidence rules.
+**Status (2026-10-21):** Phase A completed as a **first editorial pass**. Phases B–D remain pending. Follow [the architecture](DOCUMENTATION_ARCHITECTURE.md) for the full target design and source-evidence rules.
 
 ## Phase A — architecture, narrative and navigation
 
