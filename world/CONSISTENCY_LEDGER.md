@@ -1,5 +1,8 @@
 # Consistency ledger — names, contradictions, uncertainty
 
+> **Documentation transition (2026-10-21):** This file is a source-linked **append-only research compendium**, not yet the consolidated subject reference. For a readable story use [Year One](../narrative/YEAR_ONE.md); for a topical starting point see the [world portal](README.md). The [architecture](../project/DOCUMENTATION_ARCHITECTURE.md) and [migration checklist](../project/CONSOLIDATION_CHECKLIST.md) define how this file will be reorganized while its research evidence is preserved. Historical “unresolved” notes may reflect earlier episode cutoffs and later be resolved elsewhere in this document.
+
+
 Do **not** convert provisional recognition spellings into finalized canon. **Exception:** a documented creator-authoritative written spelling can be accepted for orthography without claiming the spoken dialogue has been audio-verified. Preserve original ASR strings as attributed search aliases.
 
 | Key | Working form | Variants / concern | Where to check | State |

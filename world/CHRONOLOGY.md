@@ -1,5 +1,8 @@
 # Chronology and event markers
 
+> **Documentation transition (2026-10-21):** This file is a source-linked **append-only research compendium**, not yet the consolidated subject reference. For a readable story use [Year One](../narrative/YEAR_ONE.md); for a topical starting point see the [world portal](README.md). The [architecture](../project/DOCUMENTATION_ARCHITECTURE.md) and [migration checklist](../project/CONSOLIDATION_CHECKLIST.md) define how this file will be reorganized while its research evidence is preserved. Historical “unresolved” notes may reflect earlier episode cutoffs and later be resolved elsewhere in this document.
+
+
 **Notation:** `E000` = introduction preview; `E001` = first full session. Times are within each recording. Distinguish **ancient in-world events**, **character backstory**, and **events played in the session**.
 
 ## Ancient setting chronology (prologue, not date-verified)
