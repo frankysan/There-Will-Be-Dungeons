@@ -182,3 +182,22 @@ Images were reported as originating at the fan wiki, but original individual fil
 
 **Evidence boundary:** Source still **unverified processed Parakeet SRT**. E015's **played apparent death**, E016's **magistrate testimony**, and E016's **animated arm** may relate without proving the mechanism; don't prematurely mark `Tylander` permanently defeated or definitively immortal. [E015](../episodes/E015.md) · [E016](../episodes/E016.md).
 
+## Archive-owner note / corrected-number cross-check (2026-10-21)
+
+New source classes: [episode-numbering crosswalk](../project/EPISODE_NUMBERING.md) from `There Will Be Dungeons episodes.xlsx` and [personal owner notes](../project/OWNER_EPISODE_NOTES.md) from `There Will Be Dungeons.docx`. Both were user-supplied. **Corrected archive numbering** is authoritative for *repository identity*, but user prose spellings **are not canonical spellings**.
+
+| Candidate or mismatch | Owner-note / numbering statement | How to record it |
+|---|---|---|
+| `original 55` vs `corrected E055` | Original 55 is **Year One Q&A bonus**; original Wastes 56 is **corrected E055** | Separate **original feed label** and **corrected Wastes main-story ID**. Do not rename source files |
+| `original 77` duplicated | *Inverse Part 3* and *Inverse Part 4* reuse original 77 listing, corrected **Inverse S1E3/E4** | Key by **campaign + original full title**; original 78 Wastes → **S1E076** |
+| `TWBD The Wastes S3E78` | **Electric Lizard** normalized to **Wastes S3E08** | Preserve misnumbered original label separately; use corrected archive ID |
+| `Quizquoz` | Personal spelling for oil-demon entity in owner's E003–E004 notes | **Owner alias** only, not wiki/GM/audio-confirmed spelling |
+| `Kuromo Kishi` | Owner's E010 spelling | Additional **owner alias** next to working `Koromukishi` etc.; listening/canonical check still required |
+| `Laktid` | Owner's E013 cartel spelling | Additional **owner alias** next to `Lactid/Lacted/Lactic`; not authoritative |
+| `Hillmaster's death` | Owner assigns the fall to **E003**, while earlier reference material spans **E002/E003** | **First-event boundary unresolved**: re-listen to E002 ending/E003 opening |
+| `old man and lights` | Owner lists in **E007**, while E006 ends with emerging lights | Separate **appearance/cliffhanger in E006** from **resolution/identity in E007** |
+| `Pixie Blush` | **Mention** attributed to E011, **acquisition/use** to E017 | Two separate candidate first-occurrence dates; no listener confirmation yet |
+| `Fuxi fire aura` | Owner calls E016 **unlocks fire aura** | Verify whether this is mechanical feature gained, narratively used during private ritual, or both |
+| `Friendship Fortress / Dream Drinker` | Owner logs E004 | Capture exact in-session dialogue and who says it before adding objective world claims |
+
+**Avoid inference:** The spreadsheet's calculated `Episode` field may render `#NAME?` in the provided XLSX; **Column I** is the explicit source of corrected labels. The owner's DOCX notes have no verified timestamps and may use retrospective descriptions. Maintain existing ASR/wiki/cast evidence labels and review all conflicting first appearances before modifying earlier dossiers.
