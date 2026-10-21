@@ -480,3 +480,29 @@ Source basis [E034](../episodes/E034.md) · [E035](../episodes/E035.md) · [E036
 | `goals.not_completed_e042` | E042 cutoff | **No keep entry, rescue of Tedna/pixies, Gem of Tides retrieval, wedding heist or Blood Ball match** despite physically entering under-Pit tunnels |
 
 **Batch guardrail:** E040 is city fight, **E041** pit/froghemoth/hatch/sphere pickup, **E042** opened sphere/side-cave cache/black-pudding fight/George's injury. All derive from processed subtitles only; no audio checks or original-source corrections have been performed.
+
+## E043 holiday firewall and E044–E045 source ledger (processed SRT only)
+
+| Key | Source | Outcome / unresolved premise |
+|---|---|---|
+| `e043.holiday_one_shot` | E043 00:00–end | **Separate holiday adventure**: **Jon/John DMs**, **Beau/Kyle/Kristen players**, Scott absent but fictionalized in play. Christmas house, ghosts, magical machine, Vorel figure and reverse stinger are **not Wastes events**. Main timeline resumes **E042 → E044** |
+| `george.foot_treatment` | E042 ~03:04 → E044 ~00:06–00:18 | **Self-inflicted shotgun wound E042**; **Stanley attempts care E044**, including compromised old kit. George **alive at E044 cutoff** |
+| `george.death` | **E045 ~00:18–00:24** | **Dion controlling Stanley's body stabs and kills George**, against Stanley's E044 moral plea; Hope unsuccessfully tries to intervene. Not spontaneous infection, E042 pudding combat or a shared-party vote |
+| `george.afterdeath` | E045 ~00:25–00:40 | Items: **armor (Hope equips), sandwich, stuffed rabbit, love note signed Martha Miller**. Preserve **Martha/wife relationship uncertainty** and exact body/burial handling for audio |
+| `stanley.chosen_identity` | **E044 ~02:44–02:48** | **Stanley states Billings is a chosen name**, aiming for a new moral beginning. **Original name not revealed**; don't equate his aims with Dion's E045 murder |
+| `hungui.first_appearance` | E041 unseen singer → **E044 ~00:58–01:20** | Source calls giant `Hungui/Hungooey` (audio orthography pending); **direct scene** ~14-foot river guardian. Receives **firearm/gems including E042 ruby**; asks for rent and **headache-man removal** |
+| `hungui.bargain` | E044 ~01:15–01:29 | **Rent accepted for party**, river-crossing allowance remains **conditional on headache-man removal**. Not a completed keep entrance |
+| `hungui.limbs` | E044 ~02:09–02:27 | Den contains **enormous detached limbs and pale-cave-creature carcasses**. **Self-amputation, regrowth or cannibalism** are hypotheses, not witnessed events |
+| `wand.scowls` | E042 old rucksack → **E044 ~00:25–00:31** | **Old intact stick identified** as a `Wand of Scowls`, handed to **Nash**. Not E043 holiday wand, not the E044 skeleton key |
+| `beans.key` | E044 ~01:50–02:07 and ~02:34–02:40 | **Separate bag recovered from spider/mushroom pit**, opened near rest: **seven magical beans** and **skeleton-etched key**. GM gives speculative throwing/planting effects; destination of key unresolved |
+| `mushroom.spider.bats` | E044 ~01:34–02:10 | **Bat swarm defeated**, green-spore sneezing and **large spider slain**, spider legs harvested; different from E042 black puddings and E041 froghemoth |
+| `rest.main_campaign` | E044 ~02:42–end → **E045 opening** | E044 party seals chamber with **Mold Earth**, takes rest after waiting; **E045 begins with long-rest effects applied** and Dion present |
+| `basilisk.first_defeat` | E045 ~00:49–01:20 | **Gaze-petrifying basilisk** directly identified in play and **decapitated by Vorel**; one **basilisk-derived javelin** crafted in short rest. Prior stone boots' identity still unresolved |
+| `black_core.destruct` | E041 sphere → E042 core → **E045 ~01:23–01:28** | Living core **bites Nash, hops and is stabbed then burned apart by Fire Bolt**. **No specimen alive/held afterward**; exact froghemoth biology still unknown |
+| `shadow.wall_attack` | E045 ~01:34–01:47 | Dark figure separates from wall, strikes/weakens **Vorel**, and **Hope's shooting disperses it** into small shadows. Complete death or restored stat effects require audio |
+| `tiefling.skeleton.handout` | E045 ~01:46–02:00 | **Horned skeleton, jeweled earrings, fragile papyrus**. **GM privately sends text**, not recoverable fully from machine SRT. No invented translation or attribution |
+| `basilisk.stone_worm` | E045 ~02:00–02:09 | **Petrified-appearing worm** and GM discussion of **basilisk oil antidote**. **No oil collected** and no proof E042 boots belonged to basilisk victim |
+| `river.headache_fear` | E045 ~02:12–02:52 | **Cold/lifeless passage**, Hope dread and P0D reluctance, later **dark hollow-eyed figure on river rock** causes headache/necrotic harm. Attribution to Hungui's headache rival remains likely rather than separately verified |
+| `headache.river_death` | E045 ~02:50–end | **Dion kills dark figure by Hex/Eldritch Blast**. Group **has not returned to Hungui, crossed his river, rescued prisoners/pixies or recovered Gem of Tides** by cutoff |
+
+**Rule:** Preserve **ASR versus audio status**; do not promote GM private messages to transcribed dialogue, equate differently timed items/monsters, or mistake the **holiday one-shot** for a gap of in-world campaign time.
