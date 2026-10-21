@@ -264,3 +264,26 @@ E013.5 remains published **between E013–E014** even though its Hope/Vorel scen
 
 **No retroactive resolutions:** E024 ends smoking below ground, **E025** escapes; E025 only locates prison, **E026** reveals prisoners and repairs; **E027's duel belongs to a future episode after the charge**. All timestamps approximate machine-SRT times, not audio-verified.
 
+## E028–E030 corrected episode continuation: lizardfolk oath to oil-sands escape
+
+| Source episode/time | Event and source-role boundary |
+|---|---|
+| **E028** ~00:07–01:17 | **Diptak's E027 ritual challenge** develops into combat; lizardfolk/raptor casualties distinct |
+| E028 ~01:17–01:35 | **Diptak yields alive**, pledges **Golden Land clan** to Vorel; says emissary in `Razhak Val`; **Hope kills a continuing hostile raptor** |
+| E028 ~01:35–01:55 | Rest, roof of **Fate 4 patched with raptor hide**; rising tensions with young Tedna and a magic-made vehicle hole |
+| E028 ~01:55–02:36 | **Buttons**, speaking cat with prosthetic leg, boards **Fate 4**; tells **Arcanum** past; copies **Dan Dakota Teet map**, supplies Guzzle Gang/Trashburg lore |
+| E028 ~02:36–end | Camp outside **the Teet**; **Hope** is compelled from watch by otherworldly song/blue lights toward oil sands. Mystery unresolved |
+| **E029** ~00:00–00:04 | **Beau and Jon solo-session**; absent other players, **not** permanently absent characters |
+| E029 ~00:04–00:16 | Stanley finds entranced **Nash** and **ties him to Fate 4 workbench** |
+| E029 ~00:16–01:07 | Stanley follows song and missing companions, joined by **Buttons**; enter **old cell passages** beneath oil sands |
+| E029 ~01:07–02:13 | Oil lake and bone beach, singing **Blort/worm** and hag “Mommy” enthrall other PCs; **Stanley fights**, creature killed, hag's exact death to check |
+| E029 ~02:18–end | Luminous blue entity **calls himself Dion Talus, archfey of carnage**, asks for mana/violence; **Stanley refuses**, entity **forces glowing energy into Stanley**, others begin stirring. Cliffhanger |
+| **E030** ~00:04–00:11 | **Nash** awakens tied in RV, **uses Reduce** to escape; not privy to Stanley's private scene |
+| E030 ~00:10–00:22 | **Hope and Vorel** wake from enchanted dreams in the underground oil cavern, see exhausted Stanley and Blort's corpse |
+| E030 ~00:22–01:13 | Underground **collapse/oil flooding**; Tedna rescued from snag; **Vorel freed using immovable rod**, which is **lost under oil** |
+| E030 ~01:13–01:40 | Survivors cross oil sands, **reunite with Nash**, discuss strange spell and events; Stanley's archfey secret **not publicly settled** |
+| E030 ~01:40–02:09 | **Buttons** expands cat/prosthesis/Arcanum account, **shares Blink spell text** with Stanley; Tedna wants to drive |
+| E030 ~02:09–end | Group uses Buttons's **Teet/Trashburg lore** for approach, plans concealed Fate 4 parking and **on-foot reconnaissance**, **not a completed Teet entry** |
+
+**Boundaries:** E027 challenge ≠ E028 outcome; E028 song ≠ E029 investigation; E029 forced transfer ≠ E030's characters knowing its content. **Immovable rod lost E030**, not E029. Even after Diptak's spoken oath, **no Golden Land aid deployed** within the three episode horizons.
+
