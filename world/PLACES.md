@@ -251,3 +251,21 @@ The [**Fate 4** two-page design](../sources/images/Fate_4_Character_Sheet.webp) 
 
 **The Teet, Trashburg and refineries (E028 and E030):** Buttons's **secondhand** map/local lore describes a Guzzle Gang stronghold, refineries, **Trashburg** laborers' quarter, **Suckmaster** rule, **Pit of Despair** arena, **Milinar's Bazaar** and oily moat/quicksand. The group plans to hide **Fate 4 near an outer rock outcrop** and enter town cautiously. At E030 ending they **have not independently toured or entered the central fortress**, and the older [Teet map image](../sources/images/Map_-_The_Teet.webp) cannot silently verify scene-era street labels, author or chronology. See [image register](../project/IMAGE_ASSETS.md).
 
+## E031–E033 — Trashburg and the first Teet locations
+
+**Trashburg (E031 onward):** Crowded labor quarter around **the Teet**, with close gray buildings, alleys and poor sanitation; **Milinar's** food shop has a guarded queue. Residents wear mostly gray, and distinctive `26` tattoos identify **Twenty-Six Block** members. This is **the party's first in-person town visit** following E030's outside approach. [E031](../episodes/E031.md).
+
+**Charlemagne's inn/hotel (E031–E033):** The French-speaking proprietor offers lodging, beer/food, guard protection and optional **air conditioning** in hot upper-floor guest rooms. This serves as the party's home base; **Nash first encounters P0D hidden in his room**. Charlemagne adds annotations to the Teet map (a **show-era map update**, not necessarily the same as later wiki art), provides city information, and requests delivery of a wrapped parcel to arms dealer Jedel McCready.
+
+**Teet stadium / Pit of Despair (E031):** The **Suckmaster's public stage and royal overlook** host a concert, wedding announcement and grisly punishment. A **large tongue** drags someone below the pit; creature identity unresolved. **Friday Blood Ball** and **Saturday wedding** are forthcoming, not completed events. [E031](../episodes/E031.md).
+
+**Twenty-Six Block headquarters (E032 ~00:18–01:16):** Barricaded territory using scrap vehicles, a communal dining floor, elevator access and a private upper area where **Monsoon Cabbage** meets outsiders. The party leaves its weapons at the controlled entrance temporarily. The **Toe Rippers** occupy separate reported territory, and the **Teet Guard** is an official third actor. Monsoon's claim he can guide the group into the fortress is **an untested promise**. [E032](../episodes/E032.md).
+
+**Underground pixie farm, Farmer Dewey, Doctor Dickles (E031–E032):** **P0D's account and the party's planning leads**, not places personally visited during these episodes. She describes numbered aquariums and Pixie Blush production. Distinguish **P0D's firsthand testimony** from the party's conjectures about location, supplies and vulnerable targets.
+
+**Jedel/Jetel McCready arms-dealer building (E032–E033):** Charlemagne directs the party there; the door is damaged, a **body** lies downstairs, and a strange **vampire-like** figure fights Hope/Stanley/Vorel on upper levels. In E033 the party finds a **concealed equipment case with a rocket launcher and two projectiles**. The person downstairs is **not securely identified** as Jedel, and delivery of Charlemagne's parcel is **not confirmed**.
+
+**Gray Socks Blood Ball and Teet keep (E033):** Local team representatives invite Vorel and potentially friends to a **Friday match** against the **Pounders**, with possible keep access. This is **recruitment**, not yet travel into the keep or the next battle. [E033](../episodes/E033.md).
+
+The fan-wiki [Teet image](../sources/images/Map_-_The_Teet.webp) is a later/undated art/reference source and does not by itself prove E031-era map labels, authorship or current borders.
+
