@@ -406,3 +406,31 @@ New provisional [E040](../episodes/E040.md), [E041](../episodes/E041.md) and [E0
 | Critical | E042 ~03:04–end | **George accidentally shoots his own foot**, kit/treatment status, and exact last words of Vorel's challenge to unseen king |
 
 **Current continuity hypotheses (not listener-confirmed):** E040 city chase ends under search; E041 pit/hatch/sphere pickup; E042 sphere cut, possible cryptic Infernal text, two puddings defeated and George wounded. **No keep entry, gem recovery or audience with cave king** by E042 end.
+
+## E043–E045 pending listening and private-prop verification (2026-10-21)
+
+These [E043](../episodes/E043.md), [E044](../episodes/E044.md), [E045](../episodes/E045.md) entries derive from **processed Parakeet SRTs**, **not independent listening**. Most urgent: **holiday canon firewall, George's deliberate killing, Stanley's identity statement, private writing and headman's death**.
+
+| Priority | Time | Specific check |
+|---|---|---|
+| Critical | **E043 00:00 and E044 opening** | Confirm E043 is a **standalone alternate holiday one-shot**, **Jon DMs, Beau/Kyle/Kristen play**, Scott absent as presenter but fictional character. Main Wastes continuity **E042 → E044** |
+| High | E043 ~00:07–00:33 | Title, magical arch and player classes/names, **Santa/nutcrackers murder**, exact `Hillgard / Champions of the Waste` necklace prop wording |
+| High | E043 ~00:33–01:51 | **Jukebox song** effects, time/door/remote/bag/Scott bathroom sequence; avoid guessing machine's exact magic |
+| High | E043 ~01:51–02:54 | Christmas Past/Present puzzle, gifts, dog/familiar names, **one-shot Vorel figure**, hazardous present results |
+| High | E043 ~02:54–end | Jon's cage, ghosts' intent, combat/critical machine shutdown, **Beau/Horatio exit**, reanimated Santa/**Jacob** and **reverse** cliffhanger |
+| Critical | E044 ~00:06–00:18 | Medical treatment of **George's shot foot**, lost toe, old kit condition, remaining function/injury; he **must be alive through E044** |
+| High | E044 ~00:18–00:36 | E042 smooth stick **`Wand of Scowls` mechanics and Nash custody**, cigarettes and confirmed number, rest eligibility |
+| Critical | E044 ~00:55–01:25 | **Hungui/Hungooey spoken spelling**, river location, accepted payment **shotgun/ruby/other gems**, exact rent/crossing conditions and **“headache man”** account |
+| High | E044 ~01:34–02:12 | Bat swarm, mushroom-spore reactions, spider concealment/death and source of **recovered bag** |
+| High | E044 ~02:12–02:41 | Den's giant limbs: **direct observation vs regrowth speculation**, bat/spider meal, exact **seven beans and skeleton key** Identify properties/provenance |
+| Critical | **E044 ~02:44–02:48** | **Stanley Billings explicitly reveals chosen surname/name** and regret. Verify wording; **original name not given** |
+| Critical | **E045 ~00:11–00:31** | **Dion returns after long rest; stabs George fatally**, Hope attempts to block. George's words and **Dion versus Stanley agency** essential |
+| High | E045 ~00:28–00:42 | **Martha Miller** letter and possible relation to George, stuffed rabbit, sandwich, **padded armor transfer** and treatment of body |
+| High | E045 ~00:45–01:20 | Basilisk identity, **gaze rules**, Witch Bolt and **Vorel finishing blow**, no petrified PCs; one basilisk **javelin** |
+| Critical | **E045 ~01:23–01:29** | E041/E042 **black sphere/core becomes living biting creature and is killed**. Nature/species still speculative |
+| High | E045 ~01:34–01:48 | Wall-shadow **damage/effect and dispersal**; establish whether shadow survives or Vorel needs stat-restoration |
+| Critical | **E045 ~01:48–02:00** | Obtain **original private papyrus text/GM handout** from horned **tiefling skeleton**; exact script, language and revelation cannot be inferred from short ASR utterance |
+| High | E045 ~02:00–02:28 | Basilisk/petrified worm/oil knowledge, **unnatural cold**, P0D's scout fear and Hope's anxiety |
+| Critical | **E045 ~02:28–end** | River island dark humanoid, eyes/necrotic aura, explicit proof of **identity as “headache man”**, P0D safety and **Dion's final kill**; no return to giant within this source |
+
+No raw SRT was changed; avoid silently applying wiki material, future-episode spoilers, or GM-private messages as if spoken.
