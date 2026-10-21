@@ -1,6 +1,6 @@
 # External references and chronology policy
 
-**Checked:** 2026-10-21. **Scope:** References for *There Will Be Dungeons / The Wastes*, beginning with E000–E001. The fan wiki is not itself a transcript, and the linked character sheets are late-campaign snapshots.
+**Checked:** 2026-10-21. **Scope:** References for *There Will Be Dungeons / The Wastes*, beginning with E000–E001 and supplemented by unverified E002–E005 dossiers. The fan wiki is not itself a transcript, and the linked character sheets are late-campaign snapshots.
 
 ## Source classes and appropriate uses
 
@@ -57,3 +57,8 @@ Suggested independent labels:
 - Obtain and record exact D&D Beyond sheet URLs, any available revision history, and observation date; treat current sheets as campaign-end even when the characters were introduced earlier.
 - Sample the original audio for ambiguous proper names and resolve the sound independently of the spelling source.
 - Store the wiki page URL and retrieval/revision date with every externally supported decision.
+
+
+## E002–E005 expansion note (2026-10-21)
+
+The [four new episode dossiers](../episodes/E002.md) ([E003](../episodes/E003.md), [E004](../episodes/E004.md), [E005](../episodes/E005.md)) cite the processed Parakeet SRTs and explicitly separate retrospective GM recaps from their prior episodes' spoken content. The [wiki Episode 6 summary](https://twbd.fandom.com/wiki/Episode_6) corroborates some later spellings such as `Moag Ferhain`, `Jimster`, `Shun'ti Stoutbarrel`, `Slavetown` and `Esophageal Pass`; its use is **orthographic/later-chronology context only**. `Bruce Bane` is [wiki-supported](https://twbd.fandom.com/wiki/Bruce_Bane) against E005 SRT `Bain`. Neither reference establishes E005 audio or settles a name heard earlier. End-of-campaign character-sheet restrictions remain unchanged.
