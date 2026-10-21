@@ -359,3 +359,28 @@ No open item is resolved by agreement between multiple ASR outputs or the owner'
 
 **Carryover:** E035 violence and E036 bigger battle are **separate engagements**; neither proves Monsoon's assassination condition achieved. Do not backdate E036 performance to E035 or confuse Dion's admitted physical control with claims about ancient fey cosmology.
 
+## E037–E039 pending listening / primary handout checks (2026-10-21)
+
+These provisional [E037](../episodes/E037.md), [E038](../episodes/E038.md), [E039](../episodes/E039.md) dossiers use **processed Parakeet SRT, no listening**. Owner [corrected numbering](EPISODE_NUMBERING.md); [spelling notes](OWNER_EPISODE_NOTES.md) not canon.
+
+| Priority | Time | Verification target |
+|---|---|---|
+| High | E037 ~00:06–00:29 | Armed Teet patrol seen by Vorel, Jolt-contact `Dashington`, **offscreen Slavetown heist**, content/weight of **Jolt payout trunk**, precise burial site and who knows it |
+| High | E037 ~00:29–00:55 | **Angel Ashi** family origins, purported dragon-metal/route home, *observed* temporary flower/body effects, morning departure and exhaustion |
+| Critical | E037 ~01:00–01:16 | Locate **original Tedna letter handout**, all three pages vs what Hope shares, spelling/claims of **Softhead/Dusthill slaves, Toyota Host, Andreeste, statues, cellar/passage**. Separate letter writer's observation from noble's boasts |
+| High | E037 ~01:05–01:09 | **Charlemagne evacuates**, gives Vorel inn keys, implication of later E039 raid, whether he names destination |
+| High | E037 ~01:28–01:30 | **P0D's sighting** of Charlemagne with an unidentified Hope-like visitor at Twenty-Six site; no guessed identity |
+| High | E037 ~01:49–02:19 | **Monsoon first visit** in inn, cave entrance marked on map, request **Blunt Goliver's head**, initial Kefeli/Andreeste and vampirism claims |
+| High | E037 ~02:19–03:06 | Inventory from **Twenty-Six armory**, **`Ma Storm` chain greatsword**, orb/focus, cave geometry/bell tripwire/monk |
+| Critical | **E037 ~03:06–end ↔ E038 start** | **Monk catches and reverses Hope's rocket** at **E037 cliffhanger**; trace blast/ceiling damage and first death save into E038, avoid duplicate firing |
+| Critical | E038 ~00:06–01:32 | Emergency **smoke/asphyxiation** rescue, **Nash Fireball and Stanley attack**, **Vorel beheading Blunt Goliver**. Identify exact leader name and last words |
+| Critical | E038 ~01:32–end | Transport head/critically wounded Hope, Dr Dickles X-ray and left **arm/leg amputations**, role of Stanley/Sister Sarah/Metal Mandy; precise E038 episode ending |
+| Critical | E039 ~00:40–01:06 | **Official Teet Guard warrant** for Stanley/Dion, accusation of attacking **Arcanum mage**; who actually gave testimony? Verify Buttons's whereabouts and causality |
+| High | E039 ~01:06–01:24 | **Cybernetic left arm and leg** exact custom mechanics, strength/grapple/rocket payload, ammunition, retained external launcher |
+| Critical | E039 ~01:24–01:40 | **Monsoon's confession** about Dr Dickles, Sister Sarah and Metal Mandy, Hope's sedated visual memory vs confirmed casualties |
+| High | E039 ~02:15–02:45 | Alleged **Tedna detention**, Monsoon's Lactid head-derived finding vs his inference; who attacked Charlemagne's |
+| High | E039 ~02:45–03:10 | Monsoon's **spoken true-name spelling**, `Tiat Cala`, `Kefeli`, `Andreeste`, `froghemoth`, **Gem of Tides** water cleansing and Jolt wedding target; distinguish NPC history/strategy from direct artifact |
+| High | E039 closing | Actual weapons, **potion of mind reading given Hope**, companions' decisions, whether any fortress break-in begins (**does not** in dossier) |
+
+Preserve the source SRTs; do not silently use wiki or owner notes to fill missing handout words or backdate later character sheets.
+
