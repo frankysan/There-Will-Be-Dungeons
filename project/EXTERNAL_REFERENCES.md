@@ -157,3 +157,17 @@ The [E017](../episodes/E017.md) and [E018](../episodes/E018.md) dossiers are bas
 
 Corrected IDs follow the owner's [numbering crosswalk](EPISODE_NUMBERING.md); [owner episode notes](OWNER_EPISODE_NOTES.md) remain noncanonical. No original subtitles, images or character data were changed.
 
+## E022–E024: authority classes and source-recovery opportunities (2026-10-21)
+
+The [E022](../episodes/E022.md), [E023](../episodes/E023.md), and [E024](../episodes/E024.md) dossiers are based on **unverified processed Parakeet SRTs**. Source subtitles are unchanged. Corrected episode numbering follows the [owner spreadsheet](EPISODE_NUMBERING.md); the owner's [DOCX spellings](OWNER_EPISODE_NOTES.md) remain **noncanonical**.
+
+**Strongest episode-derived identification upgrades:** E022 dialogue places the **winged oil demon Quizquaz** in the ritual chamber, different from the **beholder under the floor**. E023 brings **goat-headed Catoblepraithe / Soulbroker** into the scene as a separate actor. E024's **GM out-of-character explanation** of **Nash's dragon-metal heart and black-wyrmling form** is more authoritative about the character mechanic than listener speculation, Nash's prior unreconciled memories or later wiki artwork. The original **show-era custom-item rules** should be sought to confirm the heart's `Kas de Jira` spelling and exhaustion thresholds; late-campaign public character sheets may reflect later levels.
+
+**Contract provenance:** **Nash, Hope and Stanley sign** Soulbroker's 1,000-day-and-night compact; **Vorel refuses**. The **extra feat/boon** only goes to three signers, whereas ordinary level-4 advancement was awarded to all in E022. The Soulbroker's statements that the Principle is the world's curse, that **Celestium** can block Esophageal Pass, that **Fox and Scully** await at the Teet, and that he consumed the deed in a ritual are **interested NPC claims**, not independently audited artifacts or fulfilled promises. Nash's **keys** and **observable transformation**, by contrast, are granted/demonstrated in-play.
+
+**Private disclosure and research:** E023 **Hope's mother dream** about a red-bandolier gang/father's survival is private revelation; E024 Soulbroker **qualifies** the possible Principle City location as an agent report. E024's **Nash-only Solar Mines memory/vision** is narrated with players' headphones removed, followed by a GM-defined explanation. In-story PCs do not automatically know private sequences just because the audience heard them.
+
+**Chronology and inventory:** E021 chapel chest **unopened** vs E024 **opened**, with 60 gold / 6 gems / 2 identified potions. E024 **sets Dorothy's wooden door alight** but encounters smoke and her continuing voice, without showing completed escape. The source's spoken “two weeks” rests on Dorothy's time claim, not a tracked world clock.
+
+**Media:** Existing [Catoblepraithe fan art](../sources/images/Catoblepraithe_-_Audie_Norman.webp) and later wiki images remain **spelling/art leads only**, not proof E021's apparent winged actor was the Soulbroker or a redistribution grant. The original show-era map of Chateau Weir and any custom Dragon Metal Heart item descriptions are priority external artifacts to seek by date/permissions.
+
