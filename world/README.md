@@ -25,3 +25,7 @@ See the [editorial guide](../project/EDITORIAL_GUIDE.md). Episode/time reference
 ## External reference warning
 
 The [fan wiki](https://twbd.fandom.com/wiki/There_Will_Be_Dungeons_Wiki) is a useful spelling and continuity index, but contains campaign-wide spoilers and retrospective accounts. The linked D&D Beyond sheets are the characters' **end-of-campaign** states, per archive-owner confirmation. See [external sources and chronology policy](../project/EXTERNAL_REFERENCES.md) before incorporating either source into episode-era facts.
+
+
+**Visual source additions (2026-10-21):** See the [85-file wiki-sourced image inventory](../project/IMAGE_ASSETS.md), which includes a two-page **Kristen Ashton** Fate 4 creator design, a separate RV floorplan and two **undated or later** maps. The regional map provides **candidate written place names** but must **not** be mistaken for the E005 player handout; the E011 Slavetown street map remains unlocated. Image reuse permissions are unverified and artwork can spoil later campaign content. The images did not retroactively verify any transcript.
+
