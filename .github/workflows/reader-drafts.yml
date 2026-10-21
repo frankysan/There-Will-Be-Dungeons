@@ -1,0 +1,31 @@
+name: Reader transcript reproducibility
+
+on:
+  push:
+    branches:
+      - docs/wiki-provenance-2026-10-21
+  pull_request:
+    paths:
+      - 'tools/build_reader_editions.py'
+      - 'tests/test_reader_editions.py'
+      - 'transcripts/**'
+      - '.github/workflows/reader-drafts.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  verify:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Run reader-edition regression tests
+        run: python -m unittest discover -s tests -p 'test_reader_editions.py'
+      - name: Rebuild reader editions
+        run: python tools/build_reader_editions.py
+      - name: Confirm generated reader drafts and ledgers match
+        run: git diff --exit-code -- transcripts/E000.reader-draft.md transcripts/E001.reader-draft.md transcripts/E000.reader-edits.json transcripts/E001.reader-edits.json
