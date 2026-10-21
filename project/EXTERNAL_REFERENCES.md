@@ -209,3 +209,19 @@ All three [E031](../episodes/E031.md), [E032](../episodes/E032.md), [E033](../ep
 
 No SRT or image was edited and no audio accuracy is claimed; audio checks remain in [review queue](REVIEW_QUEUE.md).
 
+## E034–E036: source hierarchy of possession, Blood Ball, gang fires and escape (2026-10-21)
+
+[E034](../episodes/E034.md), [E035](../episodes/E035.md), [E036](../episodes/E036.md) are **processed Parakeet-SRT reference dossiers, not listened-to corrections**. The [owner's episode crosswalk](EPISODE_NUMBERING.md) controls numbering in the archive; the [owner's spellings](OWNER_EPISODE_NOTES.md) are noncanonical.
+
+**Direct development of E029:** In E034 the speaker physically controlling Stanley **names himself Dion Talus** and says he assumed control after Stanley **refused** his proposed arrangement. This is in-world **self-identification** and a confession of involuntary sharing, stronger than E033's hints. Dion's wider claim to be an archfey of carnage, ancient war account and assertion of protective motives remain **testimony**. Character sheet changes, if any, must be researched from show-era sources without substituting the end-of-campaign state.
+
+**Blood Ball versus public event:** E034 contains **training**, jersey numbers **1 Vorel / 3 Hope / 5 Stanley / 7 Nash**, an **offered** 200-guzzbolt participation fee and local mini-game instructions. **Friday match, Saturday royal wedding and possible keep dinner** are not completed through E036.
+
+**McCready and gang responsibility:** Charlemagne learns of the arms dealer's death *through the adventurers' description*, grieves and suggests asking the **Twenty-Sixers** for protection; the body has not been independently identified by a neutral witness, and the looted inventory has not been traced. The episode title **`Genitals McReady`** is not a canonical name for **Jedel/Jetel McCready**. E035's party-initiated **Toe Ripper street fight and fire** do not prove their chief was killed. In E036 the party battles a larger force including **Blunt Goliver** and escapes without evidence the leader died. **Monsoon's bargain remains outstanding**.
+
+**New public venue and witnesses:** **Fango Rabbish** promotes the **Golden Gargoyle** and **Angel Ashi** performs in E036. Her song is **artistic narration**. Fango's backstage/sewer escape and shifts in behavior are observations, not proof he uses an alias or belongs to a covert faction. The gang's consumption of toes is observed, while claims of resulting power remain unattributed proof of mechanics.
+
+**Mechanics:** E035 **Nash acid breath** is permitted via dragon-heart custom mechanics without a full transformation. E036 uses the full black wyrmling with **two exhaustion levels**; **level 5** is granted after the game, **not a recovery or authorization to backfill later features**. Seek show-era custom-item text or session audio before finalizing exact values.
+
+No original SRTs, images or structured entity data were edited. See [listening queue](REVIEW_QUEUE.md) for unresolved names and direct checks.
+
