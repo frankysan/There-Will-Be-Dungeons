@@ -362,3 +362,34 @@ All below is **processed Parakeet SRT, not audio-verified**. [E028](../episodes/
 
 **Sources and restrictions:** In-story dialogue, GM descriptions, special episode performer absences, actor-controlled choices and character testimonies have distinct provenance. Diptak's oath, Stanley's explicit refusal and the rod loss are all important timeline corrections, but none was newly verified by listening.
 
+## E031–E033: Teet faction/evidence and character-condition questions (2026-10-21)
+
+**Basis:** [E031](../episodes/E031.md), [E032](../episodes/E032.md), [E033](../episodes/E033.md), **unverified Parakeet SRTs**. [Owner numbering](../project/EPISODE_NUMBERING.md) corrected; [owner spellings](../project/OWNER_EPISODE_NOTES.md) not canonical.
+
+| Key | Evidence class / episode | Boundary / open issue |
+|---|---|---|
+| `teet.first_arrival` | **E031** party directly enters **Trashburg** | E030 **approach/staging outside** must not be relabeled entry |
+| `wedding.jolt_alidwyr` | **E031 public announcement** by Suckmaster | `Din Bottle-Bite`, son `Alidwyr`, intended bride `Jolt Elegos/Bellicose`, title `Acrimonicar`: spellings require audio. **Wedding future**, not performed |
+| `teet.pit_tongue` | E031 **GM narrated** pit execution and enormous tongue | Pit inhabitant identity/species **unknown** |
+| `charlemagne.french` | E031–E033 direct innkeeper | French-speaking, annotated city map; his advice and rate/prices are **NPC statements** |
+| `faction.twentysix` | E031 visible 26 tattoos, E032 headquarters visit | **Monsoon Cabbage** leader; don't confuse with separate **Toe Rippers** or **Teet Guard** |
+| `faction.toeripper_mission` | E032 Monsoon offer | **Kill rival leader for keep-access information**, **not executed or guaranteed** |
+| `gang.fortytwo_carnage` | E032 speaker's name explanation | Claims his number equals prior kills; not an audited record |
+| `pixie.p0d` | E031 Nash directly meets living pixie | Label is **P–zero–D**, spoken **Pod**. Remains alive/in hiding through E033 |
+| `pixie.blush_farm` | E031 **P0D firsthand captivity claim** | Says Farmer Dewey keeps pixies in aquariums and crushes them to make **Pixie Blush**; facility **unvisited**, other prisoners' status unknown |
+| `wedding.potion_plan` | E031 planning and E032 recap | Use of **already-produced Pixie Blush** proposed/debated; **not administered** in these episodes. `Great Bleaching` title **not a performed bleaching event** |
+| `npc.dickles` | E031–E032 investigation planning | `Dr Dickles` contact exists only as unverified lead, not yet met |
+| `buttons.observed_archfey` | E032 ~01:37–01:46 | Buttons confirms privately he **saw blue energy enter Stanley E029**; concern about possession is **his interpretation**, not diagnosis |
+| `stanley.suggestion_buttons` | E032 private play | **Suggestion** with failed save redirects Buttons to scout; **magically compelled**, not fully voluntary cooperation |
+| `tedna.catering` | E032 Tedna claim | Possible **banquet service infiltration**; no arranged job or fortress entry |
+| `bokbok.toe` | E032 ~02:00 | Toe necklace and claimed friends; **do not infer a murder or formal Toe Ripper induction** |
+| `j edel.death_uncertain` | E032–E033 corpse at arms-dealer building | **Jedel/Jetel McCready** remains **unidentified with body**, parcel completion unknown |
+| `teet.vampire_like` | E033 upper-floor attacker | Fangs, regeneration, bite/HP cap decrease and disappearance; **specific monster identity unconfirmed** |
+| `hope.hp_max` | E033 combat | Maximum HP **reduced**; duration/cause beyond played attack uncertain, **not diagnosed infection** |
+| `item.launcher` | E033 search | **Rocket launcher with two projectiles recovered**, stored at inn; **not Fox and Scully** |
+| `teet.blood_ball` | E033 Gray Socks invitation | **Friday** future match versus **Pounders**, potential keep route; **game not played** |
+| `stanley.right_now` | E033 late conversation | Ambiguous **“Stanley right now”**, behavior concerning; **not definitive identity/possession proof** |
+| `recording.nashfree` | E033 host announces Scott away | **Actor absence**, not in-world Nash death or replacement |
+
+Record show-era written orthography as a **separate source class** rather than quietly updating names. **No new audio checks** performed.
+
