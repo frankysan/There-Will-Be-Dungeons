@@ -387,3 +387,29 @@ E013.5 remains published **between E013–E014** even though its Hope/Vorel scen
 | E042 ~03:10–end | **George accidentally shoots his own foot**; urgent treatment not completed at cutoff. Distant singing stops and **Vorel calls out to the unseen king**; no response before ending |
 
 **Chronology checks:** E040 is still a surface chase; **E041** sees the froghemoth, opens the under-Pit hatch and collects an intact *unidentified* sphere; **E042** breaks it, explores side passages, finds cache and fights puddings. None of these episodes completes the keep infiltration, pixie rescue, wedding, Buttons resolution or Gem of Tides recovery. All approximate timestamps are **unverified processed-Parakeet-SRT navigation**, not listening-verified events.
+
+## E043 holiday interlude; E044–E045 main-campaign continuation (processed SRT only)
+
+**E043 is a separate holiday one-shot, not an event in the main Wastes chronology.** In a fictionalized present-day setting, **Jon DMs** a Christmas-house adventure featuring **Beau, Kyle and Kristen** as players; Scott is absent from the session but portrayed within the fiction. Santa is killed by nutcrackers, Christmas-ghost puzzles and a dangerous magical machine unfold, the machine is briefly turned off, and an **epilogue reactivates its reverse setting**. No ghost, machine, action-figure Vorel or Christmas magic from E043 belongs to the canonical Wastes story. Main-campaign chronological order jumps **E042 → E044**.
+
+| Corrected episode/time | Played action versus attributed statement |
+|---|---|
+| **E044** ~00:06–00:18 | Following E042, **Stanley treats George's accidental foot injury** with limited/decayed kit supplies; George **survives** |
+| E044 ~00:18–00:36 | Old E042 **wooden stick identified as Wand of Scowls**, passed to **Nash**. Long-rest eligibility debated; one is not immediately granted |
+| E044 ~00:36–01:21 | Party follows singing and meets **giant river king “Hungui”** (uncertain spelling). He demands rent/toll; party offers **shotgun and stones including earlier ruby**, receives **conditional passage only if “headache man” dealt with** |
+| E044 ~01:21–01:42 | Explores other tunnels, fights **bat swarm** and encounters **luminescent mushroom sinkhole** |
+| E044 ~01:42–02:09 | **Nash triggers green spores**, causing sneezing; a large **spider** attacks and is slain. Party later recovers a **bag** from the pit and **spider legs** as food |
+| E044 ~02:09–02:33 | Finds likely **river king's den** with discarded huge limbs, worm-like corpses and waste. Prepares **bat/spider meat**; regeneration/cannibalism explanations are player speculation |
+| E044 ~02:33–02:44 | Returns to hatch/ladder chamber; **spider-area bag** yields **seven magical beans and skeleton-marked key**. Beans potentially explosive or grow unpredictably; key's destination unknown. **Mold Earth** seals camp |
+| E044 ~02:44–end | **Stanley** says “Stanley Billings” is a **chosen restart name**, regrets past acts and urges better conduct, anticipating Dion will return. **George is present and moved** |
+| **E045** ~00:00–00:11 | **Long rest has completed**, spell resources refreshed. George survives rest, and **Dion now controls Stanley's body** |
+| E045 ~00:11–00:30 | **Dion fatally stabs George in the throat** despite attempted intervention. This is an **E045 deliberate killing**, not the E042 shot/illness or E044 treatment |
+| E045 ~00:30–00:43 | **George's belongings searched**, including love note signed **Martha Miller**, rabbit doll, sandwich and guard armor; **Hope uses new padded armor**, burial/mourning and dispute |
+| E045 ~00:43–01:19 | Party encounters a **petrifying-gaze basilisk** in alternate tunnel; most avert eyes, **Vorel kills it** with assistance. Does not prove the E042 stone boots' owner |
+| E045 ~01:19–01:28 | Short rest; **Vorel makes basilisk javelin**. The black core Nash kept after E042 sphere rupturing **bites him as a living little creature**, and **Nash burns/destroys it** |
+| E045 ~01:28–01:48 | **Detaching shadow** attacks/weakens Vorel, then **Hope's shots disperse it into smaller shadows**; full lasting effects unresolved |
+| E045 ~01:48–02:12 | Find **horned tiefling skeleton**, jeweled earrings and papyrus **privately shown to Dion/player**; then see a **stone-like/petrified worm** and discuss basilisk alchemy |
+| E045 ~02:12–02:29 | A bug-poor **unnaturally cold branch** frightens Hope and P0D. Continue toward rushing water without explaining its underlying influence |
+| E045 ~02:29–end | At river islands discover **dark humanoid with face/eye cavities**, headache and necrotic effects. Nash avoids Fireball near P0D. **Dion kills creature with Eldritch Blast/Hex**. It resembles Hungui's “headache man,” but no post-kill return to Hungui or keep entrance occurs |
+
+**Boundary correction:** **George's death E045**, not E042/E044; **sphere collected E041 → core retained E042 → creature destroyed E045**. **E043 is a holiday special**, not an intervening day of adventuring. The king is **finally seen E044**; the dark river entity is faced E045. No confirmed Teet keep entry, Tedna/pixie rescue, wedding or Gem of Tides acquisition through E045. All notes derive from **processed machine SRTs**, not checked listening.
