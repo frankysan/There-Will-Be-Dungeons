@@ -183,3 +183,15 @@ Episode dossiers [E025](../episodes/E025.md), [E026](../episodes/E026.md), [E027
 
 **Period materials:** E025 host mentions **D&D Beyond live sheets linked via wiki/site**; original **show-era snapshots** might corroborate Dragon Metal Heart/exhaustion and equipment, but current campaign-end sheets **must not backfill** early levels. Intro fan art is a historical lead, not automatically redistributable ([image policy](IMAGE_ASSETS.md)). No source SRTs, image binaries or structured indices were changed.
 
+## E028–E030: solo episode, evidence boundaries and the Teet map (2026-10-21)
+
+[E028](../episodes/E028.md), [E029](../episodes/E029.md), [E030](../episodes/E030.md) were reviewed using **processed Parakeet SRT only, no listening**. Repository numbering is the archive owner's **corrected** numbering ([crosswalk](EPISODE_NUMBERING.md)); individual user spellings remain [noncanonical](OWNER_EPISODE_NOTES.md).
+
+**Release/story sequencing:** E027 closes as Diptak charges. **E028 resolves the challenge** when he yields and pledges his Golden Land clan; later that same recording **Hope follows mysterious singing**. **E029 is a Beau/Jon-only production session**, but depicts actual consecutive story-time events: Stanley restrains entranced Nash, travels with Buttons and fights to release companions. E029 ends **after Stanley explicitly declines Dion Talus's violent bargain**, which is followed by a **forced magical transfer**. E030 narrates other PCs' enchanted dreams, escape from the collapsing den, **lost immovable rod**, and approach to the Teet. **E029 is not a retrospective supplemental like E013.5.**
+
+**Source classes:** Diptak's clan oath is directly spoken in play, while his marriage/consort accusation remains his testimony. **Buttons** speaks and rides in the RV, but his Arcanum education, prosthesis provenance and Teet knowledge are **his autobiographical/secondhand claims**. A **Dan Dakota map copy** is a source object handed over in story, but its age, creator history and present-day accuracy need verification. The [later/undated Teet artwork](../sources/images/Map_-_The_Teet.webp) can support further investigation but not automatically validate an E028 on-air map.
+
+**Compulsion and consent:** The hag's “mana waves” and ancient ward history, as well as **Dion Talus's self-described archfey rank, war and philosophy**, are antagonists' claims. **Stanley refuses** and a **Charisma-save forced blue light entry** is GM-narrated. **Do not add it to the list of voluntarily signed pacts** (E023 three signers) or diagnose permanent possession based solely on E029's cliffhanger. Other players absent from E029 do not mean the characters learned the private conversation.
+
+**Items:** E030's **immovable rod is lost under flooding oil**, not proven destroyed. Buttons hands **Blink spell text** to Stanley, not necessarily immediately prepared. The **Fate 4** remains outside the Teet at E030 cut; no direct visit with the Guzzle Gang or recovery of **Fox and Scully** is shown.
+
