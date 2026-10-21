@@ -143,3 +143,17 @@ The [E017](../episodes/E017.md) and [E018](../episodes/E018.md) dossiers are bas
 
 **Original archive policy unchanged:** Do not edit source SRTs or original spreadsheets/notes; don't change episode numbers to original podcast label, don't declare personal spellings canon, and distinguish audio verification, in-episode narration, testimony, hallucination, speculation and later fan wiki/image material.
 
+## E019–E021 evidence: journal attribution, impersonation and recorded cliffhangers (2026-10-21)
+
+[E019](../episodes/E019.md), [E020](../episodes/E020.md) and [E021](../episodes/E021.md) extend coverage using **unverified processed Parakeet SRTs**. They do not add corrected reader transcripts or independent audio listening.
+
+**Episode boundary:** E018 ends with the undead elevator attack. E019 contains the prolonged fight, reversing elevator, long fall and **rockfall trap**; E020 supplies the rescue and **Tickles's death conclusion**. E020 ends *inside* opaque magical darkness, while E021 opens with **Hope's private “find me” whisper** and moves on to mushrooms, Dorothy and Tylander's underground chapel. E021 closes with a **speaking winged figure** beside a ritual cauldron; its name and any battle are **not confirmed within this cutoff**.
+
+**Source roles:** The E020 **day-245 written journal** is explicitly attributed by the GM to **Tylander Sullivan**, but its account of Mariosa, lost family members, a deep voice/patron and a woman he must win over remains **in-world author testimony**; the **old male skeleton** in the bed is *not identified* by this attribution. The E021 **GM-narrated impersonation** of Catherine by Tylander is one event, while an independent, injured prisoner later **calls herself Catherine Speckles** and gives **Bertrand the Jeweler** a message. Those must be separate record identities. Her apparent death is recorded as a **party assessment**, not a listener-audio-verified medical finding.
+
+**Historical narrative:** E021 Tylander **claims** he governed Pristine and that his family's murder and mine imprisonment preceded revenge; he **admits** deliberately animating enslaved people as undead. Compare with E013 **GM background briefing**, E020 **self-authored journal** and physical undead evidence. Avoid upgrading every explanation into proven chronology merely because multiple evidence types align.
+
+**Period visual sourcing:** E019 intro promotes a collection/montage of submitted fan artwork; this gives an **original show-era artifact lead**, not a redistributable license or certified depiction of exactly what happened. The [wiki-sourced Catoblepraithe fan illustration](../sources/images/Catoblepraithe_-_Audie_Norman.webp) is a **search and possible spelling lead only**, not identification of the E021 final creature or proof of media permission. Follow [image register](IMAGE_ASSETS.md).
+
+Corrected IDs follow the owner's [numbering crosswalk](EPISODE_NUMBERING.md); [owner episode notes](OWNER_EPISODE_NOTES.md) remain noncanonical. No original subtitles, images or character data were changed.
+
