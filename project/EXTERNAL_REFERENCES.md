@@ -1,6 +1,6 @@
 # External references and chronology policy
 
-**Checked:** 2026-10-21. **Scope:** References for *There Will Be Dungeons / The Wastes*, beginning with E000–E001 and supplemented by unverified E002–E012 dossiers. The fan wiki is not itself a transcript, and the linked character sheets are late-campaign snapshots.
+**Checked:** 2026-10-21. **Scope:** References for *There Will Be Dungeons / The Wastes*, beginning with E000–E001 and supplemented by unverified episode dossiers through E016. The fan wiki is not itself a transcript, and the linked character sheets are late-campaign snapshots.
 
 ## Source classes and appropriate uses
 
@@ -114,3 +114,19 @@ The E016 magistrate says **Catherine Speckles** holds the **999th floor/level of
 
 **Contemporary publisher opportunity:** At the **E016 outro (~02:39)**, the host says the show's **website will begin featuring an accompanying blog post/show notes with each episode starting this one**. These may be valuable dated primary **publisher-era metadata/orthography** if accessible; obtain exact URLs, credited authors, dates and relevant revisions and honor copyright. This statement is not evidence that such posts remain online now. D&D Beyond and wiki/art licensing restrictions continue as previously recorded.
 
+## Owner-supplied spreadsheet and personal notes (2026-10-21)
+
+Two additional **archive-owner-provided** exports are now separately recorded:
+
+| Source | Class | Permitted use | Not sufficient for |
+|---|---|---|---|
+| `There Will Be Dungeons episodes.xlsx` — `Sheet2` | **Owner-maintained episode metadata/renumbering crosswalk**, 240 rows | **Choose corrected repository episode identifier / filename from Column I**, preserve original listing number in Column A, keep campaign/season and bonuses distinct, locate historical feed items | Spoken wording, canonical character/place spelling, independent proof of publication dates or that a summary is an official contemporary description |
+| `There Will Be Dungeons.docx` | **Owner's personal spellings, episode arc headings and event/“first mention” annotations** | Prioritize listening, suggest search aliases, flag possible chronological conflicts and identify special supplemental episodes | Canonical orthography, independent event confirmation, first-ever use without checking preceding audio, replacement of existing source transcript words |
+
+**Never conflate the two axes:** The spreadsheet retains **original podcast numbers** and **corrected archive numbers**, and the latter already appears in the files in `sources/` and `episodes/`. **Column A** is an original listing identifier; **Column I** is the explicit archive name/normalized corrected identifier; calculated **Column H** shows `#NAME?` in some rows of the provided exported XLSX and is not the trusted mapping source. See [full exception explanation and sample crosswalk](EPISODE_NUMBERING.md).
+
+**Specific offsets:** The original `TWBD 55: The Year One Q&A!` is a **bonus**. Thus original **56** maps to archive **Wastes S1E055**. The original `77` is reused by *Inverse Parts 3–4*, not two consecutive main-story Wastes entries; original **78** maps to archive **S1E076**, and original **130** maps to archive **S1E128**. These are **owner-chosen numbering corrections**, not speculative changes to the recorded audio or publisher's historical label.
+
+**Spelling and first-mention rule:** The owner's `Kuromo Kishi`, `Laktid`, `Quizquoz`, etc. **do not override** wiki-supported names, on-image names, a GM's spelled-out term, or direct verified listening. Carry them as *owner spelling / aliases* in an explicit provenance field. The owner's first-mention notes (e.g. `Pixie Blush` mentioned at **E011** versus obtained/used at **E017**) are **review leads** until audio confirms them. See [selective owner-note research index](OWNER_EPISODE_NOTES.md) and [review queue](REVIEW_QUEUE.md).
+
+The **original Google Docs/Sheets sources remain in the owner's private account**, and the supplied **DOCX/XLSX exports are not added to this GitHub repository** by this change. Neither document is an independently verified official transcript or source of copyright clearance. The current review did **not** refresh or edit the linked originals.
