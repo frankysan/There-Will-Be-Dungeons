@@ -239,3 +239,15 @@ The [**Fate 4** two-page design](../sources/images/Fate_4_Character_Sheet.webp) 
 
 **Lizardfolk hunting-party challenge location (E027 ending):** At a desert night stop, silhouettes resolve into **four lizardfolk and velociraptor-like animals**. **Diptak** challenges **Vorel** over the alleged **Typalla/Tepala** consort claim. This is a **present-day place of confrontation**, not confirmed territory of the earlier E016 priestess's original tent, nor a completed duel.
 
+## E028–E030 geography: the Golden Land, oil-sands prison and outer Teet
+
+**Golden Land and `Razhak Val/Ra'jak Val` (E028):** Diptak pledges the Golden Land clan to **Vorel**, saying its emissary may be found in a settlement with an ASR-varied name, provisionally `Razhak Val`. This **reported place of contact** has not been visited, and its exact spelling/coordinates need listening. The confrontation occurs at the RV's overnight **desert camp**, not on an authenticated regional border. [E028](../episodes/E028.md).
+
+**Oil-sands border/campsite (E028–E030):** **Fate 4** stops before entering the Teet. Hope leaves the RV toward flashing blue lights and strange singing at the **oil sands** (E028). E029 follows a trail south through **quicksand-like oil-saturated ground**. This is separate from the **Black Mine** visited earlier in the campaign, though both have old underground structures.
+
+**Abandoned thorn-decorated cells and oil-lake cavern (E029):** Stanley and Buttons pass through a partly concealed **rock/tunnel entrance** and **vine/thorn-ornamented doors**, apparently old prison cells in multiple tiers, before reaching an **underground oil lake, bone piles, beach, hut/cauldron** and a grotesque singing worm-like being with a hag called “Mommy.” A claimed older **archfey prisoner** later emerges. That entity's historic imprisoners, war and purpose are **his own account**. [E029](../episodes/E029.md).
+
+**Collapse and oil-flooded staircase (E030):** Underground earthquakes, rockfalls and oil geysers threaten the prison-like structure. **Hope pulls Tedna free** from a boot snag, **Stanley helps Vorel** with his immovable rod, but the **rod remains submerged** as they flee. The party reunites with Nash beyond the oil field. The old chamber is physically collapsing; its destruction extent and Dion Talus's whereabouts/powers remain unverified. [E030](../episodes/E030.md).
+
+**The Teet, Trashburg and refineries (E028 and E030):** Buttons's **secondhand** map/local lore describes a Guzzle Gang stronghold, refineries, **Trashburg** laborers' quarter, **Suckmaster** rule, **Pit of Despair** arena, **Milinar's Bazaar** and oily moat/quicksand. The group plans to hide **Fate 4 near an outer rock outcrop** and enter town cautiously. At E030 ending they **have not independently toured or entered the central fortress**, and the older [Teet map image](../sources/images/Map_-_The_Teet.webp) cannot silently verify scene-era street labels, author or chronology. See [image register](../project/IMAGE_ASSETS.md).
+
