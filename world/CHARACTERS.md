@@ -71,3 +71,21 @@
 ## Tracking additions
 
 Future additions should include a one-paragraph description, first appearance, recurring locations/relationships, actor/player vs character distinctions, aliases, source links, open questions, and spoiler/chronology notes. Avoid treating jokes and contested character claims as objective character biography.
+
+## Newly observed people and creatures, E002–E005
+
+*Evidence limitation:* The following descriptions are from **unverified processed Parakeet SRTs** with approximate times. The entries are indexed in [episode dossiers E002](../episodes/E002.md), [E003](../episodes/E003.md), [E004](../episodes/E004.md), and [E005](../episodes/E005.md), rather than independently audio-confirmed. Beau's different character voices are not additional podcast participants.
+
+| Name / working spelling | What is established or reported | First relevant episode/time and caution |
+|---|---|---|
+| **Billy** | Former Hill Guard discovered impaled in an underground trap | E002 ~00:04; killed before the session's opening scene |
+| **Thomas**, **Holga**, **Dharma** | Former Hill Guard in the conflict near the dragon-engine chamber; actions and loyalties contested | E002 ~00:20–01:05; `Dharma`/`Darma` may vary. E003 ~00:01 recap names all three; check individual fates |
+| **First Hillmaster / Peter** | E002 current Hillmaster says a guarding skeleton represents the original ruler; E005's specter identifies himself as **Peter** and disputes successors' legitimacy | E002 ~00:55; E005 ~00:04–00:08. Peter's historical account is **speaker claim** |
+| **Queen Amelda/Emelda** | Ancient, emaciated dwarven queen with a head apparatus in the subterranean throne room | E003 ~02:47 and ~03:06; E004 opening and aftermath. Orthography unresolved |
+| **Quizquaz** | Oil-like entity, called the **Dream Drinker** in E005 recap, sustained by dreams drawn from the queen and opposed by the heroes | E003 ~03:07 scene (unnamed then); E004 ~00:07 first self-identification; E005 ~00:01 title. Verify spelling |
+| **C4N-D13** | A female-voiced medical automaton in the dwarven ruin, with damaged records and expired medical supplies | E003 ~02:35–02:57; number/letter variants require audio or other direct evidence |
+| **Bruce Bane** | Child separated from his mother after Dusthill's goblin raid | E005 ~02:25 and ~02:40; SRT `Bruce Bain`, [wiki spells Bane](https://twbd.fandom.com/wiki/Bruce_Bane) |
+| **Local map-trader** | Gives the party a map of the surrounding Wastes | E005 ~02:30; person's name remains unverified in episode SRT; later [wiki Episode 6](https://twbd.fandom.com/wiki/Episode_6) has both `Boxto Rintolile` and `Boxto Lintorile` |
+| **Jimster** and **Shun'ti** | Reappear as important Dusthill figures dealing with the goblin raid, damaged community and leadership gap | E005 ~02:03–02:35; their known written spellings remain wiki-supported, not new audio verifications |
+
+**Chronology restraint:** E005 establishes goblins attacking the town and causing disappearances. The named goblin **Bok Bok** becomes a party companion *during E006* according to the wiki, and must not be backdated to E005. Late-campaign descriptions, abilities and character sheets still do not describe the protagonists' early character builds.
