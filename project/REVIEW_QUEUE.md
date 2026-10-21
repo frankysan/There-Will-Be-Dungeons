@@ -314,3 +314,26 @@ All tasks below are **uncompleted**, based on machine SRT and [episode dossiers]
 
 **Carryover:** E027 ends on Diptak's charge. E028 resolves challenge, *not* oil-lake mystery. E029 solo ends on forced energy transfer. E030 escapes collapse and heads toward the Teet; do not infer later city encounter. Only promote corrected spellings after audio or reliable show-era written corroboration.
 
+## E031–E033 open audio and primary-source review (2026-10-21)
+
+[Episode 31](../episodes/E031.md), [Episode 32](../episodes/E032.md), [Episode 33](../episodes/E033.md): **machine-transcript-derived only**. Owner's [corrected numbering](EPISODE_NUMBERING.md), [noncanonical spellings](OWNER_EPISODE_NOTES.md).
+
+| Priority | Approximate source position | Review goal |
+|---|---|---|
+| High | E031 ~00:20–00:54 | First-person Teet entry, **26 tattoos**, **Charlemagne** and `Jolt Elegos/Bellicose` name/title |
+| High | E031 ~00:54–01:10 | Suckmaster **Din Bottle-Bite**, son **Alidwyr**, bride **Jolt Acrimonicar**, **Friday Blood Ball / Saturday wedding**, announced non-work days, and **Pit tongue** |
+| Medium | E031 ~01:11–01:55 | Hotel map/rates, **guzbucks**, Mayor **Tonkules Herman**, guard chief **Penepole**, gang territories |
+| Critical | E031 ~01:55–02:15 | Confirm label **P0D** (zero), **Farmer Dewey**, pixie aquariums and production of **Pixie Blush**, which facts are P0D testimony |
+| High | E031 ~02:15–end | Precisely record debate on **rescuing pixies** and using *existing* Pixie Blush; do not infer a performed drugging/bleaching |
+| High | E032 ~00:05–01:16 | **Monsoon Cabbage** gang, **Forty-Two Carnage**, Toe Ripper rivalry, conditional **assassination for keep route** and no fulfillment |
+| Critical | E032 ~01:37–01:46 | **Buttons witnessed E029 blue entry**; **Stanley casts Suggestion**. Compare E029 refusal and later E033 ambiguous identity |
+| Medium | E032 ~01:46–02:18 | **Tedna catering** route, **Bok Bok toe necklace**, uncertain formal affiliation and safety |
+| High | E032 ~02:35–end | Shelter for **P0D**, Charlemagne's parcel to **Jedel McCready**, body and fanged figure, cliffhanger |
+| Critical | E033 ~00:05–01:22 | Unnamed **vampire-like attacker**: any explicit GM species identification, regeneration, disappearance and Hope's exact **maximum-HP reduction** |
+| High | E033 ~01:04–01:39 | Actual **launcher case** contents/count, custody, dead body's identification, parcel/delivery outcome |
+| Medium | E033 ~01:39–01:58 | Town legal announcements, **well-armed bar visitor** identity, security restrictions |
+| High | E033 ~01:58–02:21 | **Gray Socks / Pounders** schedule, participants, guarantee (if any) of keep access |
+| Critical | E033 ~02:21–end | Exact **Stanley “right now”** wording and any other self-identity statement, character state versus drink, **Scott's absence vs Nash character** |
+
+No open item is resolved by agreement between multiple ASR outputs or the owner's retrospective notes alone.
+
