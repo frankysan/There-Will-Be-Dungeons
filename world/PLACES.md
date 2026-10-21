@@ -209,3 +209,19 @@ The [**Fate 4** two-page design](../sources/images/Fate_4_Character_Sheet.webp) 
 
 **Ritual chamber (E021 closing):** Beyond the hall, a corridor leads to Tylander at a cauldron, alongside a towering **winged, black, white-eyed speaking figure**. Its identity and the result of any confrontation are left unresolved at the E021 boundary.
 
+## E022–E024: the ritual chamber, Château Weir and blocked return
+
+**Beholder/ritual chamber (E022):** The room beyond the chapel has a glowing **threshold glyph**, rockfall trap and barrier around the ritual platform. **Tylander** manipulates a cauldron; a large winged **Quizquaz** appears separately from a **beholder** hidden beneath the stage and connected eyestalks. After the party defeats the beholder, Quizquaz extracts a dark stone and opens the way for the **goat-headed Soulbroker**. In E024 the chamber still contains the beholder's remains, used for **Vorel's shield**. [E022](../episodes/E022.md).
+
+**Château Weir / chateau hotel (E023):** A **portal** opens into an apparently airless, predominantly black realm with star-like light, bridges, a city and an immense **whirlpool filled with struggling beings/souls** beneath it. **Catoblepraithe** guides the party to hospitality. **Baba** manages a staffed residence with food, baths, music and guest rooms, before formal throne negotiations. Guest-service consent paperwork is **separate** from the **later soul compact**. Title and capitalization remain ASR-provisional. [E023](../episodes/E023.md).
+
+**The Haven (Hope's vision, E023):** A remembered settlement approached by motorcycle, apparently her former home. **Hope privately dreams** of her mother saying that her father survives; this is **dream narration**, not a freshly observed visit to a rebuilt settlement, proof of the father's survival or evidence of its physical present-day state.
+
+**Solar Mines recollection (E024):** Nash undergoes **private induced vision/memory** of the Solar Mines, a powerful **Warden**, heavy guards (`Bulger`) and containment/compressor apparatus with bodies in green liquid. The GM later explains a **dragon-metal heart experiment**; the sequence is **not a physical trip** to the mine during E024. [E024](../episodes/E024.md).
+
+**The Teet / Esophageal Pass / western ruins / Elhendar (E024):** **Catoblepraithe's quest directions** mention paired revolvers **Fox and Scully** at the Teet with a red-bandolier `Acrimonicar`; an elven off-world refuge **Elhendar** reached via spacecraft; and mineral **Celestium** at ruins west near the salt, allegedly enough to seal **Esophageal Pass**. These **locations are reported, not visited in E024**, and later or fan-wiki maps do not verify contemporary coordinates.
+
+**Château Weir keys (E024):** The Soulbroker gives **Nash** a portal item usable, as described, **at least 100 feet under the surface**, to reach the château. Gift reported as granted; portal **not tested on return trip** before E024 cutoff.
+
+**Chapel chest and Dorothy exit (E024):** Party clears the rockfall corridor, returns to the E021 chapel, **opens previously locked chest** (about 60 gold, two bloodstones, two citrines, one jasper, one quartz, and potions of **clairvoyance** and **mind reading**). They revisit Catherine's cell and consider a keepsake for Bertrand. **Dorothy's wooden door is ignited**; **smoke conceals the pit and threshold**, and the voice is still heard. **Exit not achieved on-screen**. [E024](../episodes/E024.md).
+
