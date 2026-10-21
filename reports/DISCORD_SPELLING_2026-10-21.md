@@ -2,7 +2,9 @@
 
 **Checked:** 2026-10-21. **Purpose:** identify written names that can help review the transcripts and reference dossiers. This register records spelling evidence, not audio corrections or approval of the surrounding lore. Names from later Wastes, Inverse and Delvers material may themselves be spoilers.
 
-The strongest additions are direct cast usage of **Diontalus**, **Tietkalla**, **Pentael Wise** and **The Eye of Groxl**; Jon's written Inverse outline; and the name-bearing pages of a guild handout posted by Kyle. The linked episode summaries provide further written forms, but also contain internal spelling conflicts. **Catoblepraithe/Catobelpraithe remains unresolved.**
+For **The Wastes**, the strongest additions are direct cast usage of **Diontalus**, **Tietkalla**, **Pentael Wise** and **The Eye of Groxl**. **Diontalus is accepted as the canonical project spelling on Jon's authority over his own character.** The linked episode summaries provide further written forms, but also contain internal spelling conflicts. **Catoblepraithe/Catobelpraithe remains unresolved.**
+
+Jon's GM outline belongs to **The Inverse campaign**; the guild guide belongs to **Delvers**. They are retained below as evidence for those campaigns, with no direct evidential weight for Wastes names or lore. These campaign assignments and the decision to prioritize Jon's spelling for his own character follow the archive owner's clarification on **2026-10-21**.
 
 The review screened **609 messages** attributed to the five regular cast members in the private archive: Beau 218, Jon 186, Kyle 86, Scott 67 and Kristen 52. Name-bearing messages and relevant source documents were then inspected. Attribution follows the archive's stable sender mappings and consistent first-person show participation; server roles and independent identity authentication were not captured. Here, **cast-written** means written by an account attributed to that cast member, not independently authenticated authorship.
 
@@ -16,7 +18,7 @@ These messages establish that the listed written forms were used by the attribut
 |---|---|---|
 | **Nash Maggard** | Scott, [2019-12-09](https://discord.com/channels/146848379853471744/623342794047619103/653415216331227137); Beau, [2020-01-15](https://discord.com/channels/146848379853471744/623342794047619103/667140655960686602) | Two cast accounts use the full name. Stronger written corroboration for existing `Nash Maggard` than a fan-only spelling lead; retain ASR `Magard`/`Maghard` as search aliases. Beau also writes **Solar Mines**. |
 | **Stanley Billings** | Jon, [2023-09-20](https://discord.com/channels/146848379853471744/623342794047619103/1153856661258252399) | The performer writes the full name while discussing the original character concept. Supports existing spelling; the concept's additional nickname must not be inserted into earlier dialogue. |
-| **Diontalus** | Jon, [2020-04-03](https://discord.com/channels/146848379853471744/623342794047619103/695651633249386544) and [2020-06-10](https://discord.com/channels/146848379853471744/623342794047619103/720339448415649843) | Repeated joined spelling. A strong candidate for the display name currently represented as `Dion Talus/Deontalus` in the [consistency ledger](../world/CONSISTENCY_LEDGER.md). Retain those ASR variants; this does not verify the wording or speaker of the E029/E034 scenes. |
+| **Diontalus** | Jon, [2020-04-03](https://discord.com/channels/146848379853471744/623342794047619103/695651633249386544) and [2020-06-10](https://discord.com/channels/146848379853471744/623342794047619103/720339448415649843) | **Accepted canonical spelling: creator-authoritative.** Jon repeatedly uses this form for his own character, as identified by the archive owner. Existing `Dion Talus/Deontalus` in the [consistency ledger](../world/CONSISTENCY_LEDGER.md) remain ASR/search aliases, not equally authoritative alternatives. This settles orthography, not the wording or speaker of the E029/E034 scenes. |
 | **Tietkalla** | Jon, [2020-04-02](https://discord.com/channels/146848379853471744/623342794047619103/695292822667919372) and [2020-06-10](https://discord.com/channels/146848379853471744/623342794047619103/720334464634585099) | Repeated cast spelling with double `ll` and no apostrophe. Prefer this as a **cast-supported search/display candidate**, while retaining the recap variants below. Do not automatically equate every ASR `Tiat Cala` reference with this entity without contextual review. |
 | **Teet**, **Slavetown** | Jon, [2020-04-02](https://discord.com/channels/146848379853471744/623342794047619103/695292822667919372); Slavetown also [2020-03-15](https://discord.com/channels/146848379853471744/623342794047619103/688614594918613074) | Direct written corroboration for existing place-name forms. Does not establish exact chronology or every claimed event at those places. |
 | **Talia** | Jon, [2020-04-09](https://discord.com/channels/146848379853471744/623342794047619103/697856376122245213) | Direct spelling in the performer's relationship commentary. Corroborates existing `Talia`; no surname is supplied. |
@@ -30,7 +32,7 @@ These messages establish that the listed written forms were used by the attribut
 
 Cast messages also use **Hope** and **Vorel**, including Kristen's [2020-06-11 sheet-link message](https://discord.com/channels/146848379853471744/623342794047619103/720654424875335722) and Kyle's Eye of Groxl message. The inspected cast text does **not** independently verify the complete existing forms **Oriphi “Hope” Akmenos** or **Vorel Rasvim Kurik**. The linked recap supplies `Akmenos`, but neither short-name usage nor a sheet URL proves the remaining components.
 
-**Jon's Inverse outline**
+**The Inverse campaign — Jon's GM outline**
 
 **Source D1:** [Inverse: Chapter 2](https://docs.google.com/document/d/1xr3ymZX7QWLArHgDi8BWQu97_KKeTfTxaHYpc8iq-g0/edit), linked by Jon as his GM notes on [2019-09-30](https://discord.com/channels/146848379853471744/623342794047619103/628264511089934336). Retrieved on 2026-10-21; returned modification time **2019-09-30 15:04:07 UTC**. The document contains planning material and a retrospective recap. Jon explicitly described the outline as incomplete and missing improvisation. Its written names are useful creator-document evidence; NPCs in planning notes are not thereby confirmed to have appeared in the recording.
 
@@ -47,11 +49,11 @@ Cast messages also use **Hope** and **Vorel**, including Kristen's [2020-06-11 s
 | **Befrin Trolle**, **Serifax**, **Wirthum Boding** | “The Stacks - Eastern Wing (Histories).” The first two occur in proposed research findings; the third in that wing's character list. |
 | **Valin’cail**, **Tiffi Espers**, **Scholar Ziltan**, **Drivian Alfonz** | Western wing, southern wing and consolidated character/enemy lists. Written forms only; preserve the apostrophe in `Valin’cail`. |
 
-**Kyle's downloaded guild guide**
+**Delvers campaign — Kyle's downloaded guild guide**
 
 **Source D2:** `Dungeon_Guild_Guide.pdf`, attached by Kyle on [2021-01-09](https://discord.com/channels/146848379853471744/623342794047619103/797536596110606367). The **177,189-byte, nine-page PDF** was extracted from the local download database and matched its indexed SHA-256, `bbbbf6e6900df297e0bedbc6d2e9650efe01f9dc80fbeade1567ed0639831974`. Text extraction and rendered inspection of the name-bearing pages agree. Page numbers below count physical PDF pages, including blank pages.
 
-This is a cast-posted setting handout for the Delvers-era material, not a Wastes episode source. Its printed author and foreword credits are **in-world bylines**; they do not identify the real person who prepared the PDF.
+This is a cast-posted setting handout for the **Delvers campaign**, as clarified by the archive owner. Its names and institutions belong to that campaign; it supplies no direct Wastes spelling evidence. Its printed author and foreword credits are **in-world bylines**; they do not identify the real person who prepared the PDF.
 
 | Written form | PDF locator | Finding |
 |---|---|---|
@@ -104,12 +106,12 @@ These document headings are **source labels**, not automatically the repository'
 | **P0d**, **P0D**, **Pod** | D3, `Episode 47–50`, `Episode 31 Summary` and elsewhere; D4, `S2 E54` | Zero/letter/capitalization variants within this source family. Preserve **P0d** as an observed form; do not silently settle the canonical typography. |
 | **Elhandar**, **Steerious Business** | D4, e.g. `S2 E69` | Additional written location/full-name leads. Jon's message corroborates `Steerious`, not the added `Business` by itself. |
 
-**Conflicts and evidence that does not settle a spelling**
+**Source discrepancies and editorial decisions**
 
 | Name or term | Observed conflict | Result |
 |---|---|---|
 | Soulbroker | D3 has both **Catoblepraithe** and **Catobelpraithe**; D4 uses **Catobelpraithe**. D3 `Episode 23 Summary` and one `Episode 24 Summary` section use the former; the other `Episode 24 Summary` and `Episode 48` use the latter. | **Unresolved.** This supports both aliases, not a definitive correction of the existing `Catoblepraithe`. No direct cast message spelling was found in the targeted cast text. |
-| Diontalus | Jon repeatedly writes **Diontalus**; D3 also has **Diantalus**, and D4 has **Diontalis** alongside **Diontalus**. | The repeated performer usage is the strongest source here for **Diontalus**. Keep the document and ASR variants as attributed aliases; do not describe all written sources as consistent. |
+| Diontalus | Jon repeatedly writes **Diontalus**; D3 also has **Diantalus**, and D4 has **Diontalis** alongside **Diontalus**. | **Resolved editorially: Diontalus is canonical for this project**, following Jon's authority over his own character and the archive owner's clarification. Preserve other forms as attributed source/ASR aliases. The existence of recap variants does not leave this spelling decision open. |
 | Tietkalla | Jon writes **Tietkalla**; D3 has **Tietkala**; D4 includes **Tietkalla**, **Tiet'kalla** and **Tiet’kalla**. | Cast usage favors **Tietkalla** as a working display form. Apostrophe and historical naming remain source-dependent. |
 | Jeadar / Jaedar | D1 writes **Jeadar Nocturo**; Jon's neighboring chat message writes **Jaedar**. | Creator-source disagreement; no exclusive spelling approved. |
 | Doctor Spy'der / Dr. Spyder / Doctor Spider | Jon's message has **Doctor Spy'der**; D4 uses **Dr. Spyder**. Kristen's [2020-12-15 message](https://discord.com/channels/146848379853471744/623342794047619103/788543440245358652) titles a linked adventure **A Doctor Spider Christmas**. | Preserve the variants and distinguish an adventure title from the character's preferred name. The title alone does not remove the apostrophe or establish a universal spelling. |
@@ -131,9 +133,9 @@ The [A Doctor Spider Christmas page](https://kylefergusson.com/inspirations/2020
 
 **Editorial disposition**
 
-1. Use **Nash Maggard**, **Stanley Billings**, **Diontalus**, **Tietkalla** and the other direct forms above as **cast-written spelling evidence**, with the cited dates and limits. This is a new source class alongside existing wiki spelling, owner notes and ASR evidence, not a claim that audio was checked.
+1. Use **Diontalus** as the accepted **creator-authoritative canonical spelling**. Retain its other source forms for provenance and search. Use **Nash Maggard**, **Stanley Billings**, **Tietkalla** and the other direct forms above as **cast-written spelling evidence**, with their respective dates and limits. Creator authority over this character's name does not automatically make every cast-typed word authoritative or establish surrounding lore. No audio verification is implied.
 2. Before changing an existing display name, attach the evidence to its existing entity/ledger issue and check identity, campaign and chronology. Preserve old ASR forms. Do not create duplicate character pages or backfill later names into earlier spoken dialogue.
-3. Keep **creator-document**, **cast-posted-handout**, **cast-shared-recap** and **fan-inventory** evidence separate. The Inverse outline supports its written names even where a planned NPC's appearance is unknown. The guild guide supports its printed Delvers terminology, not Wastes lore.
-4. Leave the listed conflicts open. Seek a direct spelling answer, authenticated creator character sheet, or consistent authored handout before calling one disputed form definitive. Audible pronunciation alone may not distinguish the competing orthographies.
+3. Keep **creator-document**, **cast-posted-handout**, **cast-shared-recap** and **fan-inventory** evidence separate. Assign D1 to **The Inverse** and D2 to **Delvers**. Their names should be indexed within those campaigns; neither document directly corroborates a Wastes name or claim. The Inverse outline supports its written names even where a planned NPC's appearance is unknown.
+4. Keep the remaining unresolved conflicts open; **Diontalus is the accepted exception above**. Seek a direct spelling answer, authenticated creator character sheet, or consistent authored handout before resolving another disputed form. Audible pronunciation alone may not distinguish the competing orthographies.
 
 The archive databases and downloaded originals remain unchanged. Full working extracts and verification evidence are kept under `local/discord/spelling-research/`, outside the tracked report. This change adds only this register; it does not normalize the transcripts or accept every discussion claim as authoritative.
