@@ -155,3 +155,30 @@ Images were reported as originating at the fan wiki, but original individual fil
 
 **Review rule:** An out-of-character GM explanation, an in-character recap, an inserted-but-earlier scene, a found written note, and a fan illustration are all different source classes. All E013–E014 findings above are processed ASR only. [E013](../episodes/E013.md) · [E013.5](../episodes/E013.5.md) · [E014](../episodes/E014.md).
 
+## E015–E016: newly surfaced contradictions and deferred checks (2026-10-21)
+
+| Key | Source/time | Working interpretation / what remains open |
+|---|---|---|
+| `npc.tylander_name` | E015 GM recap ~00:03 | **Tylander Sullivan** named; `Thailander`, `Thailand` and `Robert` in E014/E015. Same apparent wizard under Robert claim per GM recap, but spelling **not listener-confirmed** |
+| `npc.orp_name` | E015 recap ~00:02, E015/E016 dialogue | **Orp** is used as cyclops name; ASR and participant `Gorp`/`Gorb`/`Oop` slips. This resolves earlier “unnamed cyclops” status at *episode 15*, not retroactively at E013 |
+| `npc.sheriff_fate` | E015 recap ~00:03–00:05 refers back to E014 | **GM retrospectively says sheriff was killed by Orp** after shooting him. Compare with E014 directly for event time; surname `Clementine` still needs audio |
+| `event.tylander_death_return` | E015 ~01:27–01:45; E016 ~02:19–02:33 | Tylander declared **killed in E015** by Hope and Vorel; in E016 **magistrate reports he returned** and killed soldiers. **No E016 in-person confirmation** of Tylander alive; actual resurrection mechanism unestablished |
+| `event.tylander_curse` | E015 ~01:27–01:40 | Tylander places lingering **necrotic/phantom hand** on Vorel. Track duration, removal, consequences and whether distinct from lizardfolk fire trial |
+| `object.deed_tylander` | E015 ~00:19–00:24, ~01:44–01:46 | **Presented as a deed**, but becomes **smoke** in party's hands. **Not recovered**, authenticity/ownership unverified |
+| `mine.chopper_copper_gold` | E012, E013, E015, E016 | `copper`/`gold`/`chopper` mine/title/metal vary in SRT. E016 **Black Mine** and its **999th level** are separate by default. Need audio + primary deed/map to disambiguate |
+| `land.catherine_999` | E016 ~02:23–02:33 | Magistrate **says** ledger assigns **Catherine Speckles** ownership of **999th level of Black Mine**, not directly read by party. Verify original title/ledger; does it refer to a level, floor or shaft? |
+| `faction.tylander_motive` | E015 ~01:44–01:55 | Koromukishi portray Tylander as opponent of Slavetown slavery; faction's claim must be kept separate from his observed murder/necromancy and from Liberators/Red Scarlet |
+| `item.orp_shiny` | E015 ~00:53–02:06, E016 intro ~00:05–00:09 | Five-bead necklace custody changes, host offers OOC clarification. Track at each stage; don't claim permanently held/attuned by PCs or Orp without review |
+| `item.fake_dagger_communicator` | E016 ~00:21–00:30 | **Nash/Vorel deliberately lie** to Orp that an ordinary dagger carries messages **one-way**; not actual magical device |
+| `route.esophageal_pass` | E016 ~00:17–00:35 | Orp steered toward trade traffic; plan invites harm to travelers; **no attack on caravan directly observed** by E016 end. Orthography still a wiki/map lead |
+| `place.salivating_fields` | E016 ~01:52–02:33 | Dusthill captives and townspeople reportedly **evacuated** to fields, **not released**; magistrate's bargain not fulfilled |
+| `npc.owen_family` | E014 ~02:24, E016 ~00:38–00:51 and ~02:27–02:33 | Randall identified dead E014; woman's mutilated corpse seen E016 in his family-associated house, precise identity pending; official mentions child killed by Toyota Host vehicle, **reported**, not independently shown |
+| `event.severed_arm` | E016 ~01:08–01:26, ~01:52 | ~8 dead Toyota Host near ruined Thorn Row, autonomous dismembered **human arm** attacks Stanley, burned by party. **Not positively identified as Tylander's** |
+| `sky.black_dragon_nash` | E016 ~02:03–02:10 | Dragon **visibly** flies over; Nash **physically scales/chars and ignites**, friends take damage; private “Mother” address is not source-confirmed parentage or identified speaker |
+| `faith.fuxi` | E016 ~01:33–01:49 | Priestess says **Fuxi** Father of Fire, linked to stars/entrapment; GM **spells F-U-X-I** during out-of-game clarification. Source **transcription-supported**, not listener-confirmed |
+| `npc.tepala` | E016 ~01:25–01:52 | Lizardfolk priestess title `Tepala` (?) and recognition of **Vorel's Kurik ancestry**. Check role/name/claim separately |
+| `vision.vorel_fire` | E016 ~01:35–01:52, ~02:33–02:39 | Flaming sky, giant sand sharks, fiery rage/trial **within ritual vision**; camp and Bok Bok afterwards observed. Not corroborated as normal geography or definitive divine source |
+| `story.guest_gnomes` | E016 absent | E008–E009 Edison and Chance fates still **not resolved** in E015–E016; no silent deaths from lack of appearance |
+
+**Evidence boundary:** Source still **unverified processed Parakeet SRT**. E015's **played apparent death**, E016's **magistrate testimony**, and E016's **animated arm** may relate without proving the mechanism; don't prematurely mark `Tylander` permanently defeated or definitively immortal. [E015](../episodes/E015.md) · [E016](../episodes/E016.md).
+
