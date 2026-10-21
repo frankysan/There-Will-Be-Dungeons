@@ -107,3 +107,29 @@ This is a **navigation outline**, not a fully verified plot retelling. Most list
 | E012 ~03:12–end | **No release of all Dusthill captives**, no verified deed recovery or final resolution of Talia's coercive status |
 
 **Separate tracks:** E008's threat resolves within E009; E009's dragon/caravan are E010's premise; **E010** wins a trial but E011 records ceremonial release; **E011** ends at the duel challenge and **E012** shows its consequences. **Tree**, **Leopold**, **Jeweler**, **magistrate** and **Stump** have different knowledge/perspectives. [E009](../episodes/E009.md) · [E010](../episodes/E010.md) · [E011](../episodes/E011.md) · [E012](../episodes/E012.md).
+
+## E013, E013.5 and E014: separate release and story chronologies
+
+| Published episode and approximate timestamp | Development and knowledge boundary |
+|---|---|
+| **E013** 00:00–00:05 | GM retrospectively recaps E012's competing Slavetown negotiations and prior allegations |
+| E013 ~00:05–00:12 | **GM out-of-character setting briefing** on **Pristine's** transformation, **Oilbeards**, **Principle**, **Toyota Host**, **Koromukishi** and local sheriff (distinguish from E012 Jeweler claim) |
+| E013 ~00:10–00:16 | Opposing requests for missing **mine deed** compared: Stump vs Jeweler; no resolution |
+| E013 ~00:16–01:52 | **Lactid Cartel** invades Sapphire and severely wounds Jeweler; Donk killed, Jeweler healed, battles inside and outside |
+| E013 ~01:52–02:24 | Sheriff response, Stump's cartel account, gnome timepiece/pickpocket encounter |
+| E013 ~02:24–02:32 | Vorel's dispute with purple-hatted man and hotel events |
+| E013 ~02:32–end | **Huge one-eyed cyclops appears at Lattlebing's**, end on immediate danger; its reasons revealed later |
+| **E013.5 (supplemental release)** ~00:00–00:10 | Jon introduces **nonstandard episode**, alternative opening song and **Stanley in-character recap** of past events |
+| E013.5 ~00:10–00:23 | **Inserted Hope–Vorel character scene**, **in-story ~E008–E009**, discloses **Hope's goal to time-travel via dragon engines to complete a dark pact** and Vorel's cultural traditions; not new action chronologically after E013 |
+| E013.5 ~00:23–end | Stanley retrospectively recaps E010–E012, calls old man dead during E010 trial; not an independently listened-to E010 source |
+| **E014** 00:00–00:05 | Host returns after week off; GM recaps E013 and introduces additional possible names |
+| E014 ~00:05–00:49 | **Cyclops negotiation**, stolen necklace and suspected magician `Thailander`/`Robert`; sheriff confrontation and apparent invisibility escape |
+| E014 ~00:49–01:23 | Trail to **Thorn Row house**; mutilated upstairs corpse, **Red Scarlet note addressed to Timber**, triggered glyph trap |
+| E014 ~01:23–01:40 | Search chest: **Liberators** flyer, ~500 gold and **Freedom** firearm; rest/recover |
+| E014 ~01:40–02:20 | Hidden basement access, oil/stair trap, dark ritual rooms, recovered **five-ruby necklace**, mutilated bodies |
+| E014 ~02:20–02:32 | **Randall Owen's dead body identified** in underground operating space |
+| E014 ~02:32–03:00 | Gnome-like illusion, green gas; ritualist demands necklace and invokes **Catoblepraithe / Soulbroker**; animates corpses at cliffhanger |
+| E014 ~03:00–end | Out-of-game conclusion only, **no victory over animated corpses or manifest Soulbroker** |
+
+**Caution:** E013.5 belongs **between E013 and E014 in listening order**, while its original Hope/Vorel scene is **set during the other pair's E008–E009 absence**. The in-character summary also supplies *opinions about older episodes*, including gnome/old-man deaths, not established primary-event evidence. [E013](../episodes/E013.md) · [E013.5](../episodes/E013.5.md) · [E014](../episodes/E014.md). All timestamps approximate and derived from machine SRT.
+
