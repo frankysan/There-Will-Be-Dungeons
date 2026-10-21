@@ -269,3 +269,17 @@ The [**Fate 4** two-page design](../sources/images/Fate_4_Character_Sheet.webp) 
 
 The fan-wiki [Teet image](../sources/images/Map_-_The_Teet.webp) is a later/undated art/reference source and does not by itself prove E031-era map labels, authorship or current borders.
 
+## E034–E036 — Blood Ball ground, east Trashburg and the Golden Gargoyle
+
+**Trashburg stadium / Gray Socks training grounds (E034 ~01:39–02:41):** The party practices **Blood Ball** at a baseball-derived playing field with coach Marlboro, Camel and other Gray Socks. Participants receive jerseys and custom practice skill options. The **Pounders' Friday game** is not yet played, and the **royal keep** is not entered via sport. [E034](../episodes/E034.md).
+
+**Charlemagne's inn (E034–E036):** Continues as party base and sheltered location for **P0D**. The group has private discussions about **Stanley/Dion**, Hope's bite and factions; **Fango's nightclub invitation** is discussed here. Charlemagne learns about the likely death of his friend **Jedel McCready** from the party's account and considers approaching the Twenty-Sixers; do not equate the account with an autopsy.
+
+**East Trashburg / Toe Ripper buildings (E035 ~01:15–02:40):** Dense residential/gang area where **Vorel attacks a Toe Ripper sentry** and multiple enemies come from buildings and stairwells. Fighting, **acid breath, fire, partial collapse and a distant Teet Guard siren** follow. The gang leader's whereabouts are **not established in this E035 action**. The **Teet fortress/keep** appears to open and a warning sounds, but the connection to this disturbance is inferred. [E035](../episodes/E035.md).
+
+**Golden Gargoyle nightclub (E035 end–E036):** A basement-level **jazz and dance venue** with food/drink, a bar, performer stage, backstage rooms and Fango's card-game invitation. The party is inside by **E035 cutoff**; **Angel Ashi's set and major Toe Ripper ambush occur E036**. An **authority in a wheelchair, Blunt Goliver**, accompanies the raiding gang; dark rooms and performer passages feature in the prolonged battle. [E036](../episodes/E036.md).
+
+**Gargoyle's concealed sewer route (E036 ~02:40–03:13):** Fango guides the survivors through backstage toward a **hidden entrance to tunnels/sewer water** leading after a roughly half-hour journey back near **Charlemagne's**. Angel Ashi accompanies **Nash**; Fango leads other staff away. Reaching the inn does not mean the **Toe Ripper headquarters or Blunt Goliver** has been eliminated.
+
+**Wedding and keep (still future):** Friday Blood Ball, Saturday **Jolt/Alidwyr wedding** and possible dining invitation are **scheduled events or offers**, not visited scenes through E036. The party's intention to infiltrate royal functions is not an accomplished admission.
+
