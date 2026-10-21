@@ -94,3 +94,13 @@ The earlier fan-wiki and end-of-campaign sheet restrictions remain unchanged. Pr
 
 **Editorial practice:** Give the exact file link, document its source role (creator sheet, map, art) and separate visually confirmed lettering from ASR audio, attributed claims and fan-wiki interpretation. Refer to the [image register](IMAGE_ASSETS.md) for spoiler safeguards.
 
+## E013–E014 and supplemental E013.5 (2026-10-21)
+
+The [E013](../episodes/E013.md), [E013.5](../episodes/E013.5.md) and [E014](../episodes/E014.md) dossiers continue **processed SRT-only, no audio verification**. **E013.5 is a special release**, not a fresh continuous play session: (a) Jon introduces music and a **Stanley-in-character retrospective**, (b) an *extra Hope–Vorel dialogue* is placed in-story **during E008–E009**, and (c) Stanley resumes the recap. Use *first listener disclosure* **E013.5** while separately marking the extra scene's *in-story position* around E008–E009. Never insert its lines into those earlier original SRTs or treat it as post-E013 action. The recap compresses perspective, names and outcomes: especially Stanley's “Eddy/Chance didn't make it” versus E009 GM's explicit out-of-game “not dead” and the old traveler's E010 death claim.
+
+**Authority distinctions:** E013 ~00:05–00:12 includes an out-of-character **GM briefing** about the transition from **Pristine to Slavetown**, including the **Toyota Host**, **Koromukishi**, local sheriff and **Oilbeards**. Stronger than E012's Jeweler-only claim but still unverified ASR and approximate dating. The E013.5 description of **Hope's intention to travel into the past via dragon engines to complete a dark pact**, and **Vorel's dragon/star folklore**, are **character beliefs**, not demonstrated technology/cosmology.
+
+E013 Sapphire violence kills **Donk** and leaves **the Jeweler wounded but healed**. E013's giant cyclops cliffhanger is picked up **in E014**. In E014 the party finds a note apparently signed **Red Scarlet** and addressed to **Timber** near an *unidentified* corpse; later **Randall Owen** is identified dead. Preserve separate corpse identities and factions. The ritualist invokes **Catoblepraithe / Soulbroker** but has not been shown succeeding at summoning him before the E014 ending. The [archived Catoblepraithe fan illustration](../sources/images/Catoblepraithe_-_Audie_Norman.webp) can be used as a **spelling/art lead only**, not evidence of episode-era physical appearance or an image reuse grant. The [image provenance policy](IMAGE_ASSETS.md) still applies.
+
+See the [chronology](../world/CHRONOLOGY.md), [review queue](REVIEW_QUEUE.md) and [consistency ledger](../world/CONSISTENCY_LEDGER.md). Keep source roles, spoiler horizon and listening verification distinct.
+
