@@ -301,3 +301,34 @@ New source classes: [episode-numbering crosswalk](../project/EPISODE_NUMBERING.m
 
 Avoid upgrading Soulbroker's **offers or motives** into verified setting facts, and avoid inferring from personal owner spellings that `Acrimonicar` or `Kas de Jira` is official orthography. [Review queue](../project/REVIEW_QUEUE.md).
 
+## E025–E027: checked boundaries, conflicts and new name leads (2026-10-21)
+
+All findings are **processed Parakeet SRT only**, not audio-verified. [E025](../episodes/E025.md) · [E026](../episodes/E026.md) · [E027](../episodes/E027.md). Corrected ID from [owner spreadsheet](../project/EPISODE_NUMBERING.md); owner spellings [noncanonical](../project/OWNER_EPISODE_NOTES.md).
+
+| Key | Source / observation | Status or required separation |
+|---|---|---|
+| `dorothy.door` | E024 door burned; **E025 ~00:20–00:24 she still speaks** | Neither fire nor smoke proves entity destroyed. **Mine passage crossed E025** |
+| `nash.dragon_flight_exit` | E025 ~00:50–01:19 | Enlarged black-dragon Nash carries party to surface using rope/rod; **not functioning lift**, debated rules and major exhaustion |
+| `gun.bessie` | E025 ~01:25–02:14 | Upper-mine dwarves wheel out **Bessie** Gatling. Working name requires listening |
+| `scrolly.coercion_fate` | E025 ~02:20–02:35 | **Injured, healed, reinjured/interrogated and thrown into shaft**. Treat brutality directly, body/death confirmation pending |
+| `dwarfs.survivor` | E025 ~02:05–02:20 | **At least one dwarf escapes** via motorcycle, so no complete Oilbeard extermination |
+| `prison.e025_e026` | E025 end Bok Bok voice; **E026 ~00:07–00:25** | E026 identifies **Bertrand, Trigger, Bok Bok** in locked room; no premature E025 rescue |
+| `vehicle.fate4_restored` | E026 ~00:21–00:44 | Bertrand says repaired RV brought back by Bok Bok/Trigger; party **drives Fate 4** again. Distinguish discarded wagon in E018 |
+| `tylander.stoned` | E026 ~00:28–00:32 | **Bertrand claims Tylander was stoned to death ten years earlier**. Compare E021 actor testimony; no independent original death scene |
+| `deed.dragon_metal` | E026 ~00:30–00:35 | **Bertrand suggests deed related to dragon metal**, while Soulbroker E024 claims deed spent as reagent. No recovered written deed |
+| `npc.lactid_spec` | E026 ~00:45–01:00 | Lactid criminal undercity & mind-control operative arriving Slavetown **Bertrand report**, not directly seen by party |
+| `visitor.e026_armor` | E026 ~00:37–00:44; E027 ~01:20 onward | Armored buggy visitor from mine **potentially same as Sir Ranko**, not source-confirmed identical; party steals **buggy keys** |
+| `camp.liberators` | E026 ~01:20–end, E027 ~00:46–01:03 | Concealed valley/refugee camp, **location reportedly compromised**, moves/evacuates E027. Source of breach unresolved, Nash fire may be relevant but not proved cause |
+| `npc.blind_orc` | E026 finale; E027 ~00:31–00:46 | Former **Koromukishi** says he **removed eyes and renounced his name**. Preserve deliberate namelessness |
+| `npc.slippery_brent` | E026 ~02:15–02:42 | `Slippery Brent/Brint`; **injured/coerced by party**, drug-impaired story. Death not confirmed. Don't label proven enemy spy |
+| `moral.stanley` | E027 ~00:00–00:25 | Stanley withdraws over harshness, later reconciles; not permanently exited |
+| `contract.countdown` | E027 ~00:10–00:20 | `998/999 days` estimate spoken by party, **not tracked calendrical start**. Only three pact signers |
+| `npc.tedna` | E027 ~01:03–01:19 and ~02:23–02:40 | Young `Tedna/Ted` stows away, claims heroic intent. **Found breathing and unconscious** after RV blast |
+| `order.umbilical` | E027 ~01:19–02:23 | Armored **Sir Ranko/Ranco** claims **Umbilical Order** and detection of demon-tainted people; **not the Principle's agent according to him**. Verify name and independent organization |
+| `signal.paladin` | E027 ~02:16–02:23 | Small bright **flare/beacon** launched. Delivery/meaning/receiver **not observed** |
+| `paladin.death` | E027 ~02:12–02:23 | **Sir Ranko dies** after violent interrogation/final attack; powered RV damaged. Source count of aux `rats` ambiguous **mechanical creatures** |
+| `priestess.typalla` | E016 priestess vs E027 ~02:44–end | `Tepala/Typalla`, priestess/consort claim from **Diptak**. Relationship, title, truth need audio |
+| `npc.diptak` | E027 ending | `Diptak/Dip Tac` of Golden Land **challenges Vorel**, then **charges at cliffhanger**; no winner yet |
+
+**Evidence standards:** On-air listener criticism is evidence of audience reception, **not** character alignment changes. Played torture/coercion requires explicit recording; official-sounding accusations from armored paladin are **faction testimony**, not omniscient authority. Keep future outcomes outside source episode horizon.
+
