@@ -243,3 +243,28 @@ Sources are [E019](../episodes/E019.md), [E020](../episodes/E020.md), [E021](../
 
 Keep original ASR intact; mark every eventual audio-confirmed correction with a timestamp and do not replace in-episode claims with fan-wiki or owner's retrospective notes.
 
+## E022–E024 listening and source audit (pending)
+
+All tasks below are **uncompleted**, based on machine SRT and [episode dossiers](../episodes/E022.md), [E023](../episodes/E023.md), [E024](../episodes/E024.md). Corrected episode identifiers from the user's [numbering spreadsheet](EPISODE_NUMBERING.md); [owner notes](OWNER_EPISODE_NOTES.md) not canonical.
+
+| Priority | Episode/time | Specific audio/source question |
+|---|---|---|
+| High | E022 ~00:00–00:22 | Confirm **Quizquaz** = E021 winged figure and **not Catoblepraithe**; tail-triggered glyph/rockfall, door closure and group positioning |
+| High | E022 ~00:22–01:35 | Trace force field, crystals, eye-stalk linkage, hidden **beholder** and which attacks/attunements occur; no invented unified glyph rule |
+| High | E022 ~01:35–03:05 | Exact **Vorel charm/sleep/incapacitation** and beholder defeat; **Quizquaz gem removal** and portal/arrival of goat-headed patron |
+| Medium | E022 outro, E023 pact | **Level 4 all characters** versus **extra feat only contract signatories** |
+| High | E023 ~00:10–00:39 | Soulbroker's spoken/name orthography, action **healing Vorel**, realm and **Château Weir** title; separate observed city from moral/metaphysical claims |
+| High | E023 ~00:39–01:45 | Hotel **Baba, Chef Dan**, food/wavier details, bath/guest-room scenes; **hospitality waivers not contract** |
+| High | E023 ~01:45–02:20 | **Hope private mother dream**—exact **Haven**, afterlife exchange, **red bullet woman and Dead Men** name; Vorel's outside-knock scene, dream versus actual evidence |
+| High | E023 ~02:35–02:47 | Obtain exact pact **1,000 days and nights**, three **named signers**, **Vorel non-signer**, soul-forfeit clause, extra ability/feat and unilateral exit/return conditions |
+| High | E023 end ↔ E024 beginning | Locate exact **Nash private reveal** boundary; other PCs remove headphones only in E024 |
+| High | E024 ~00:06–00:51 | Audit **Solar Mines vision** for Warden, Bulger, dragon-sun-mage experiment, captive tanks, roles of persons and whether any material is explicitly hallucination/memory |
+| High | E024 ~00:51–01:09 | Find contemporary **Dragon Metal Heart of Kas/Cas de Jira** item spelling/text; GM-confirmed wyrmling power, exhaustion restriction, broodmother identity vs private dragon memories; **do not use current end-of-campaign build** |
+| High | E024 ~01:09–01:29 | Artifact names `Fox and Scully`, Teet `Acrimonicar`, `Elhendar`, `Celestium` strategy and 100-ft keys; distinguish offered item vs actually acquired |
+| High | E024 ~01:23–01:29 | Soulbroker's **qualified agent report** about Hope's father, statement **mine deed used as reagent**, promised captives' liberation (not yet carried out) |
+| High | E024 ~01:34–02:50 | Vorel **mundane beholder-tooth shield**, time in other realm, original chamber/corridor, Catherine's remains, **E024 chest actually opened** |
+| High | E024 ~02:45–02:53 | Itemize **60 gold, 2 bloodstones, 2 citrine, 1 jasper, 1 quartz, potion of clairvoyance + potion of mind reading**, test ownership, pocketing and spell identification |
+| High | E024 ~02:50–end | **Burning Dorothy** results, smoke, still-speaking voice, bone test and **exit not yet achieved**. E025 may resolve but must not be retroactively assumed |
+
+**Additional checks:** Publisher show-era artwork, maps, creature stat text and D&D Beyond custom items (if accessible) can corroborate **spellings and original mechanics** but are not licenses for redistribution. Keep model comparisons separate from **listening verification**.
+
