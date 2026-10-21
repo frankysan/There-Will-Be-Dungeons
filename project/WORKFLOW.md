@@ -113,3 +113,9 @@ To reproduce comparison of the retained third-pass evidence without ASR, run
 into a fresh directory. The manifest retains the original primary and all six
 historical runs. The new clip uses an explicit 74,760 ms timestamp offset;
 its recognition output is still awaiting listening review.
+
+## F. Written spelling evidence from Discord (2026-10-21)
+
+For Wastes world dossiers and later name-edit candidates, consult [Discord cast and document spelling register](../reports/DISCORD_SPELLING_2026-10-21.md) and [the spelling ledger](../world/CONSISTENCY_LEDGER.md). Accept **Diontalus** as the archive-owner-approved, creator-authoritative spelling, **not** a verified utterance; maintain `Dion Talus` and other source strings as search aliases. Other direct cast forms are useful to prioritize listening, but do not override unresolved conflicts by frequency. In particular **Tietkalla** is cast-backed but historical `Tiat Cala` mentions require referent matching, and `Catoblepraithe/Catobelpraithe` remains unresolved.
+
+Never apply cross-campaign names from the **Inverse GM outline** or **Delvers guild guide** to Wastes episodes. Distinguish `cast-written`, `creator-document`, `cast-posted handout`, `cast-shared recap`, `archived-link preview`, and `fan inventory` in review records. The report did **not** listen to audio; no rewrite of machine SRT or reader drafts is implied. As for other edits, preserve explicit per-turn provenance and tests for any future generated reader-edition change.

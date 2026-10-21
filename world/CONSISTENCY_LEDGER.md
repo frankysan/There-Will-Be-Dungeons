@@ -1,16 +1,21 @@
 # Consistency ledger — names, contradictions, uncertainty
 
-Do **not** convert provisional recognition spellings into finalized canon. Log evidence and decide once audio and, when available, creator-published spellings have been checked.
+Do **not** convert provisional recognition spellings into finalized canon. **Exception:** a documented creator-authoritative written spelling can be accepted for orthography without claiming the spoken dialogue has been audio-verified. Preserve original ASR strings as attributed search aliases.
 
 | Key | Working form | Variants / concern | Where to check | State |
 |---|---|---|---|---|
-| `person.nash` | Nash Maggard | Magard, Maghard, other ASR forms | E000 ~00:04–00:07; E001 ~01:09 | wiki-spelling-supported; listening review pending |
+| `person.diontalus` | **Diontalus** | **ASR aliases:** `Dion Talus`, `Deontalus`; **recap variants:** `Diantalus`, `Diontalis` | [Discord spelling report](../reports/DISCORD_SPELLING_2026-10-21.md), Jon 2020-04-03 and 2020-06-10 | **Accepted creator-authoritative name spelling**; no audio or character claims verified |
+| `person.stanley_billings` | Stanley Billings | A self-chosen name disclosed E044; birth name not established | [Jon's cast-written usage](../reports/DISCORD_SPELLING_2026-10-21.md), 2023-09-20; E044 ~02:44 | **Cast-written spelling**, not independent authentication of in-world history |
+| `person.tietkalla` | **Tietkalla** (cast-supported display candidate) | `Tiat Cala`, `Tiat Kala` ASR; `Tietkala`, `Tiet'kalla`, `Tiet’kalla` recaps; individual referents require contextual review | Jon 2020-04-02 and 2020-06-10; [report](../reports/DISCORD_SPELLING_2026-10-21.md); E039 ~02:45 | **Cast-written candidate**, not yet creator-approved universal correction |
+| `item.eye_of_groxl` | The Eye of Groxl | `Grojil` occurs in fan inventory as a possibly different name | Kyle 2021-10-06; [report](../reports/DISCORD_SPELLING_2026-10-21.md) | **Cast-written item title only**; does not establish a deity's name |
+| `person.pentael_wise` | Pentael Wise | `Pentelvice` from a fan document may or may not refer to same person | Beau 2020-09-11; [report](../reports/DISCORD_SPELLING_2026-10-21.md) | **GM-written name lead**, identity cross-check pending |
+| `person.nash` | Nash Maggard | Magard, Maghard, other ASR forms | E000 ~00:04–00:07; E001 ~01:09; [cast Discord report](../reports/DISCORD_SPELLING_2026-10-21.md) | **cast-written (Scott and Beau), plus wiki**; listening review pending |
 | `person.hope` | Oriphi “Hope” Akmenos | Spoken variants Orifi / Orify | E001 00:15:31–00:15:43 | wiki-spelling-supported; name conversation left unchanged |
 | `person.vorel` | Vorel Rasvim Kurik | Varel, Vorell, Borel | E000 00:11:41–00:13:11; E001 various | wiki-spelling-supported; listening review pending |
 | `place.dust_hill` | Dusthill | Dust Hill (ASR alias) | E001 00:05:12–00:08:13 | wiki-spelling-supported |
 | `place.verithica` | Verithica (?) | Could be ASR approximation | E000 00:11:41 | spelling pending |
 | `place.caegro` | Caegro (?) | Could be ASR approximation | E000 00:11:45 | spelling pending |
-| `place.solar_mines` | Solar mines (?) | Capitalization and meaning unclear | E000 00:05:22–00:05:47 | provisional |
+| `place.solar_mines` | Solar Mines | Lowercase and other ASR capitalization | E000 00:05:22–00:05:47; [Beau cast usage](../reports/DISCORD_SPELLING_2026-10-21.md) | **cast-written capitalization**, audio review pending |
 | `npc.gimster` | Jimster | Gimster, Gymster | E001 00:18:03 | later-wiki spelling; listening review pending |
 | `npc.shun_t` | Shun'ti Stoutbarrel | Shun T, Shunti; surname disclosed later | E001 00:41:21–00:41:29 | later-wiki spelling; surname not inserted into E001 dialogue |
 | `cast.beau` | Beau / Bo | Wiki credits Beau Schwartz | E000 00:01:04, E001 00:00:42 | wiki-supported; ASR aliases remain |
@@ -352,7 +357,7 @@ All below is **processed Parakeet SRT, not audio-verified**. [E028](../episodes/
 | `nash.restrained` | E029 ~00:04–00:16; E030 ~00:04–00:52 | **Stanley restrains entranced Nash**, who later uses **Reduce** to get free. Not abandonment or additional Soulbroker rite |
 | `blort.hag` | E029 ~01:07–02:13 | Singing giant `Blort/Bloort` and pointy-eared hag “Mommy” abduct enthralled party. Worm creature killed; hag death later described by Stanley, exact action to check |
 | `mana_waves.prison` | E029 ~01:18–01:34 | Hag **claims captives power old wards** around final prisoner; this is **antagonist testimony** |
-| `dion_talus.archfey` | E029 ~02:18–02:27 | `Dion Talus/Deontalus` self-styled **archfey of carnage** claims old elven anti-other war and imprisonment; **historical truth unresolved** |
+| `dion_talus.archfey` | E029 ~02:18–02:27 | `Diontalus` (ASR/search forms: `Dion Talus`, `Deontalus`) self-styled **archfey of carnage** claims old elven anti-other war and imprisonment; **historical truth unresolved** |
 | `stanley.refused_archfey` | E029 ~02:23–end | **Stanley expressly rejects bargain**, figure **forces blue energy into him after Charisma save**. **Do not mark second consent/signed pact**, compare Soulbroker E023 three signers |
 | `stanley.transfer_effect` | E029 end; E030 ~01:13–01:40 | Uncertain possession/magic effect, not demonstrated permanent power or illness; not automatically shared party knowledge |
 | `compelled_dream` | E029 GM control; E030 ~00:10–00:22 | Hope/Vorel dream-like palace experiences versus **physical underground cavern**; separate perception/reality |
@@ -399,7 +404,7 @@ Source basis [E034](../episodes/E034.md) · [E035](../episodes/E035.md) · [E036
 
 | Key | Source/time | Evidentiary status / review |
 |---|---|---|
-| `dion.admits_control` | **E034 ~00:59–01:39** | Speaker **self-identifies as Dion Talus**, admits **forced transfer after Stanley refused** and says Stanley remains alive but out of control while Dion speaks. Stronger than E033 hints; **exact mechanics/ancient claims still his testimony** |
+| `dion.admits_control` | **E034 ~00:59–01:39** | Speaker **self-identifies as Diontalus**, admits **forced transfer after Stanley refused** and says Stanley remains alive but out of control while Dion speaks. Stronger than E033 hints; **exact mechanics/ancient claims still his testimony** |
 | `dion.memory_access` | E034 ~01:05–01:39 | Claims both occupants share memory only under certain conditions, and wants magical **mana waves**. No independently verified completeness/limits |
 | `dion.changeover` | E034 ~01:26–01:39 | Apparent **return to Stanley** before Blood Ball practice; cue-level check needed for agency/timing |
 | `hope.mirror_bite` | E034 ~00:37–00:59 | Has **reflection** despite E033 bite. Does **not disprove supernatural hit-point reduction or prove cure** |
@@ -506,3 +511,15 @@ Source basis [E034](../episodes/E034.md) · [E035](../episodes/E035.md) · [E036
 | `headache.river_death` | E045 ~02:50–end | **Dion kills dark figure by Hex/Eldritch Blast**. Group **has not returned to Hungui, crossed his river, rescued prisoners/pixies or recovered Gem of Tides** by cutoff |
 
 **Rule:** Preserve **ASR versus audio status**; do not promote GM private messages to transcribed dialogue, equate differently timed items/monsters, or mistake the **holiday one-shot** for a gap of in-world campaign time.
+
+## Written Discord spelling evidence, accepted decisions and unresolved conflicts (2026-10-21)
+
+[**Source register: Cast spelling evidence from Discord and linked documents**](../reports/DISCORD_SPELLING_2026-10-21.md). **Evidence is about written orthography and discoverability, not verified speech or proof of reported plot events.** Archive sender attribution is based on stable mappings and show participation, without independent authentication.
+
+**Accepted exception:** **Diontalus**, written repeatedly by his creator Jon and accepted by the archive owner. Use this display form throughout curated episode/world prose. Preserve `Dion Talus`, `Deontalus`, `Diantalus`, `Diontalis` as **source-specific aliases**, not rival canonical spellings. Old internal ledger identifier `dion_talus.archfey` remains a **stable historical key**, not an orthographic assertion. Exact spoken dialogue and whether Diontalus's claims are true remain subject to the episodes.
+
+**Cast-backed but not blanket-normalized:** **Nash Maggard** (Scott + Beau), **Stanley Billings** (Jon), **Tietkalla** (Jon, double `ll`, no apostrophe), **Teet**, **Slavetown**, **Talia** (Jon), **Tedna** and **Pentael Wise** (Beau), and item title **The Eye of Groxl** (Kyle). **Vorel** and **Hope** short forms also occur in cast messages, but these **do not validate the full expanded wiki spellings**. **Pentael Wise** is not automatically the fan's `Pentelvice`; **Groxl** in an item title is not a confirmed spelling of the fan's deity `Grojil`. Historical transcript references to **Tiat Cala** must be matched to the same entity before replacing with `Tietkalla`.
+
+**Keep unresolved:** **Catoblepraithe/Catobelpraithe** occur within the same cast-shared recap family; neither form is settled, despite the wiki art filename. **Angel Ashi** vs recap **Angelashi** (word division unresolved); **Nobiery**, **Andriesta**, `P0d`/`P0D`/`Pod`, **Jeadar/Jaedar**, **Doctor Spy'der/Dr. Spyder**, **Bloodskunk Hendrickson/Henderson**, **Wyr/Weir**, **Kepheli/Kelephi** and **Emmanil/Emmanel/Emmanuel** require entity identity and source-context review. Don't overwrite existing uses with the apparent majority spelling.
+
+**Campaign boundary:** Jon's **Inverse** GM outline and Kyle's **Delvers** guild PDF, together with later archived character-sheet titles, are documented **only for their respective campaigns** in the source register. Planned NPCs in the Inverse outline are not automatically confirmed to appear in audio; Delvers handout names are not Wastes lore. A **cast-shared recap** isn't a cast-authored orthography decree, and a fan inventory is a weaker lead. Keep all downloaded originals and DHT database material private under `local/`.
