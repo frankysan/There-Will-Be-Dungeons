@@ -1,5 +1,8 @@
 # Characters and people
 
+> **Documentation transition (2026-10-21):** This file is a source-linked **append-only research compendium**, not yet the consolidated subject reference. For a readable story use [Year One](../narrative/YEAR_ONE.md); for a topical starting point see the [world portal](README.md). The [architecture](../project/DOCUMENTATION_ARCHITECTURE.md) and [migration checklist](../project/CONSOLIDATION_CHECKLIST.md) define how this file will be reorganized while its research evidence is preserved. Historical “unresolved” notes may reflect earlier episode cutoffs and later be resolved elsewhere in this document.
+
+
 **Important:** A transcript speaker is the real performer. A roleplayed character's name is separate; a performer may play a character, narrate and voice others. Name spellings below are provisional where explicitly marked.
 
 ## Out-of-world participants
