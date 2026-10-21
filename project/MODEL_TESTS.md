@@ -59,3 +59,7 @@ the adapter's bounded argument construction and hash rejection are tested.
 E000/E001 original audio was not found in the expected local locations, so no new
 recognizer run or listening verification was performed. No model/configuration
 was promoted on the basis of these comparison counts.
+
+## 2026-10-21: two-process CrispASR throughput observation
+
+[Full observation, limitations and controlled follow-up](../reports/ASR_CONCURRENCY_2026-10-21.md). The owner ran **two CrispASR instances concurrently** and reported near-full 32 GB system RAM, ~8.5 GB/16 GB VRAM, GPU copy/compute peaks around 25%, virtually no drive activity, and approximately **6–7 minutes completion time per episode** without obvious slowdown. This is a provisional throughput observation; episode durations/settings and sequential control timings are not yet recorded. It does **not** measure ASR accuracy.
