@@ -130,3 +130,16 @@ Two additional **archive-owner-provided** exports are now separately recorded:
 **Spelling and first-mention rule:** The owner's `Kuromo Kishi`, `Laktid`, `Quizquoz`, etc. **do not override** wiki-supported names, on-image names, a GM's spelled-out term, or direct verified listening. Carry them as *owner spelling / aliases* in an explicit provenance field. The owner's first-mention notes (e.g. `Pixie Blush` mentioned at **E011** versus obtained/used at **E017**) are **review leads** until audio confirms them. See [selective owner-note research index](OWNER_EPISODE_NOTES.md) and [review queue](REVIEW_QUEUE.md).
 
 The **original Google Docs/Sheets sources remain in the owner's private account**, and the supplied **DOCX/XLSX exports are not added to this GitHub repository** by this change. Neither document is an independently verified official transcript or source of copyright clearance. The current review did **not** refresh or edit the linked originals.
+
+## Episode 17–18 evidence update: narcotic vision, duplicate item names and testimony (2026-10-21)
+
+The [E017](../episodes/E017.md) and [E018](../episodes/E018.md) dossiers are based on **processed Parakeet SRTs**, **without audio listening**. Repository IDs reflect the owner's [corrected spreadsheet numbering](EPISODE_NUMBERING.md). The owner's [noncanonical episode notes](OWNER_EPISODE_NOTES.md) flagged Pixie Blush and Nash's staff-nail story for review; these are **personal search leads**, not canonical spellings or independent confirmation of first mentions.
+
+**E017 inference layers:** A listener email proposes that dragon engines imprison dragons and Nash may have a dragon connection. **Listener hypothesis, not GM-confirmed history.** Nash then takes an apothecary's **Pixie Blush** and hallucinates beings and voices; **these experiences are not independently present characters**, although the GM depicts the consequential dynamite **blast and city fire** as externally real. The town was substantially evacuated before the fire, and E017/E018 do **not** establish full casualty counts, apothecary/Jolt/Talia survival, or completed Dusthill emancipation.
+
+**E018 distinct “Freedom” items:** Nash **calls his staff nail “Freedom”** in a **first-person account** of Solar Mines enslavement and escape. E014 separately introduced a **gun called “Freedom”**, found with silver bullets. Index these as **two entities with the same name**; never merge the weapon inventories or ascribe the gun to his Solar Mines story.
+
+**Interests and rebellion:** E018's dwarf overseeing the Black Mine describes an uprising of **enslaved miners** and admits the elevator was disabled to starve them. His casualty/count/route account is **interested slaver testimony**, separate from the group's **observed** lone undead and elevator ambush around floor 23. The magistrate's earlier reported **Catherine Speckles level-999 ownership** has not been confirmed by seeing the ledger, and E018 does not reach that floor. The **E019 elevator fight** is not a resolved E018 event.
+
+**Original archive policy unchanged:** Do not edit source SRTs or original spreadsheets/notes; don't change episode numbers to original podcast label, don't declare personal spellings canon, and distinguish audio verification, in-episode narration, testimony, hallucination, speculation and later fan wiki/image material.
+
