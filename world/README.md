@@ -1,6 +1,6 @@
 # The Wastes — reference portal
 
-**Scope:** Main-campaign events through **E063**, plus separate [March Year One Q&A](../episodes/BONUS-2019-03.md) and [April cast roundtable](../episodes/BONUS-2019-04.md) and [June Q&A](../episodes/BONUS-2019-06.md) (called May's show in its spoken introduction). **Spoilers through E063** follow. The episode-derived references remain **provisional until audio-verified**.
+**Scope:** Main-campaign events through **E065**, plus separate [March Year One Q&A](../episodes/BONUS-2019-03.md) and [April cast roundtable](../episodes/BONUS-2019-04.md) and [June Q&A](../episodes/BONUS-2019-06.md) (called May's show) and [July-archived Q&A](../episodes/BONUS-2019-07.md) (spoken as June 29's recording). **Spoilers through E065** follow. The episode-derived references remain **provisional until audio-verified**.
 
 **Choose a view:** For a flowing account of the plot rather than reference notes, read [**Year One — From Dusthill to the Crown**](../narrative/YEAR_ONE.md) followed by [**Year Two — Stones, Souls and the Great Fang**](../narrative/YEAR_TWO.md). For a specific timestamp, character's contemporaneous knowledge or ambiguous transcript, use the [episode dossiers](../episodes/E000.md) and the relevant E### number.
 
@@ -8,10 +8,10 @@
 
 | Reference | What it currently contains | Consolidation status |
 |---|---|---|
-| [Characters and participants](CHARACTERS.md) | Subject index with profiles for the four protagonists, allies and adversaries, including **Orp, Diptak and Emenil** | **Subject profiles maintained through E063** |
+| [Characters and participants](CHARACTERS.md) | Subject index with profiles for the four protagonists, allies and adversaries, including **Orp, Diptak and Emenil** | **Subject profiles maintained through E065** |
 | [Places](PLACES.md) | **Consolidated place index** including **Razak Val**, Dusthill, Slavetown, the Black Mine, Château Weir and Tietkalla | **Subject profiles maintained through E063** |
 | [World and history](WORLD.md) | **Consolidated thematic reference**: the ancient catastrophe, settlements, factions, dragon technology, Soulbroker pacts, artifacts, religion and contested lore | **Phase C first-pass rewrite available** |
-| [Unified campaign chronology](CHRONOLOGY.md) | **53 main-story Year One entries, followed by E055–E063**, time jump, publication exceptions and resolved cutoffs | **Maintained unified reference** |
+| [Unified campaign chronology](CHRONOLOGY.md) | **53 main-story Year One entries, followed by E055–E065**, time jump, publication exceptions and resolved cutoffs | **Maintained unified reference** |
 | [Active consistency ledger](CONSISTENCY_LEDGER.md) | **Open questions, owner decisions, later source-cutoff resolutions** and links to detailed evidence | **Phase D first pass available** |
 | [Structured entity seed](entities.json) and [schema](ENTITY_SCHEMA.md) | Machine-readable E000/E001 seed | **Not yet synchronized with all subsequent episode dossiers** |
 
@@ -23,7 +23,7 @@ The **character and place indexes are now subject-centered**, with their earlier
 
 **What the GM later explained:** Beau's post-arc Q&A says **Buttons loved Stanley** and intended to take him to the Arcanum to free him from Diontalus. That is **retrospective motive explanation**, not an E049 dialogue the party heard. [Bonus dossier](../episodes/BONUS-2019-03.md).
 
-**Later Razak Val status:** **Orp dies and Vorel is acclaimed Great Fang E062; Zercil dies E063.** [E063](../episodes/E063.md) begins screening **200–300 prisoners**, not an already completed mass release, and a **worm is captured from Zercil's bed**. [Razak Val](places/razak-val.md) · [chronology](CHRONOLOGY.md).
+**Later Razak Val status, before E064:** **Orp dies and Vorel is acclaimed Great Fang E062; Zercil dies E063.** [E063](../episodes/E063.md) begins screening **200–300 prisoners**, not an already completed mass release, and a **worm is captured from Zercil's bed**. [Razak Val](places/razak-val.md) · [chronology](CHRONOLOGY.md). **E064 outbreak:** widespread mutations threaten the valley; **Omnom remains behind with the Necklace of Fireballs**. **E065:** Rorf **confesses Bramie's killing**, while the party shelters in Fate 4 during an extreme rainstorm and a **T. rex arrives**. [E064](../episodes/E064.md) · [E065](../episodes/E065.md).
 
 **Names:** **Diontalus** follows creator/owner-confirmed spelling; **Eye of Groxl** is owner-confirmed as one artifact under variants `Grojil/Groxel`; **Tietkalla** is supported by cast writing in the matching place context; Vorel's sword is provisionally **Mawstorm** (ASR `Ma Storm` / `maw storm` / `moss storm`; see [Vorel's item and titles](characters/vorel.md)). Unresolved spellings remain discoverable through the [ledger](CONSISTENCY_LEDGER.md), [decisions](../project/DECISIONS.md) and [spelling report](../reports/DISCORD_SPELLING_2026-10-21.md).
 
