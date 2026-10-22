@@ -1,6 +1,6 @@
 # The Wastes — active audio, source and editorial review queue
 
-**Status: OPEN tasks, updated 2026-10-22.** Full *Wastes* spoilers through corrected **E063**, with separate [March 2019 Q&A](../episodes/BONUS-2019-03.md) [April 2019 roundtable](../episodes/BONUS-2019-04.md) and [June 2019 Q&A](../episodes/BONUS-2019-06.md). **No new listening, SRT editing or handout verification occurred during consolidation.** The [consistency ledger](../world/CONSISTENCY_LEDGER.md) identifies **what remains uncertain versus resolved**. This queue tells reviewers **where to listen or which sources to compare**.
+**Status: OPEN tasks, updated 2026-10-22.** Full *Wastes* spoilers through corrected **E065**, with separate [March 2019 Q&A](../episodes/BONUS-2019-03.md), [April 2019 roundtable](../episodes/BONUS-2019-04.md), [June 2019 Q&A](../episodes/BONUS-2019-06.md) and [July-archived 2019 bonus](../episodes/BONUS-2019-07.md). **No new listening, SRT editing or handout verification occurred during consolidation.** The [consistency ledger](../world/CONSISTENCY_LEDGER.md) identifies **what remains uncertain versus resolved**. This queue tells reviewers **where to listen or which sources to compare**.
 
 **Complete historical backlog preserved:** The entire ~73k-character pre-Phase-D [review queue, including its many timed episode-by-episode tasks](../research/legacy/2026-10-22/PROJECT_REVIEW_QUEUE.md), is frozen with functioning relative links. Its outstanding tasks were **not automatically closed** by omission from this shorter index. The original [consistency issue register](../research/legacy/2026-10-22/WORLD_CONSISTENCY_LEDGER.md) also preserves exact issue keys and status history.
 
@@ -145,7 +145,7 @@ This is a **batch routing grid**, not a statement that every cue within a listed
 | Priority | Source / approximate recording time | Specific verification and evidence boundary |
 |---|---|---|
 | **Critical** | E061 ~00:05–00:25, ~01:03–01:14, ~02:50–02:56 | **Apparent future-Nash identity**, time-barf explanation, egg request, **Knock**, Nash's **Sleep** on guards, **Bramie alive after theft** and conditions of Nash's secrecy/confession. Do not upgrade alleged time travel to a physical fact or merge **theft** with **murder**. |
-| **Critical** | E061 ~01:30–02:14, E062 ~00:08–00:35 | **Tyrant's Bane in Bramie's back**, three identical footprints plus separate lizard tracks, guard testimony, and Vorel's **appointed sheriff** role. **Killer unconfirmed** even though E063 Vorel accuses Zercil. Check preserved **Fengar egg** ownership/powers as oral prophecy, not a verified magic item sheet. |
+| **Critical** | E061 ~01:30–02:14, E062 ~00:08–00:35 | **Tyrant's Bane in Bramie's back**, three identical footprints plus separate lizard tracks, guard testimony, and Vorel's **appointed sheriff** role. **Killer unconfirmed as of E063**; **Rorf confesses E065**, superseding Vorel's suspicion of Zercil. See E065 review below. Check preserved **Fengar egg** ownership/powers as oral prophecy, not a verified magic item sheet. |
 | **High** | E061 ~00:25–01:03 | Exact **Vorel Rasvim Kurik**, family god-killer vs **Eye of Groxl**, **Closthi/Telestar** legend, Zark envoy (**Kervalon/Demon Vold/Dollo Poppio**) and Hope's proposed Tietkalla support. Distinguish clan religious/historical claims from actual meetings or deployment. |
 | **Critical** | E062 ~00:35–00:48, ~01:11–01:32 | **Zercil's proposed marriage/subordinate succession** and Vorel's refusal; abrupt transition from **planned sunrise scaling** to actual fight; whether **Mawstorm sword is absent** and **Eye of Groxl flaming shield** used. Distinguish self-bestowed vs externally conferred titles in [Vorel register](../world/characters/vorel.md). |
 | **Critical** | E062 ~01:32–02:13 | **One-use Hope rocket redirects onto Vorel via Eye of Groxl**, 60-foot blast, exact **Mirion, Typalla, Elder, Toxar, Seeman Featherscale, Mola Janda** fatality rolls and **Omnom/Yomi/guard/drummer survivors**. Avoid assuming 30–40 equals audited total or no innocent victims. |
@@ -156,15 +156,36 @@ This is a **batch routing grid**, not a statement that every cue within a listed
 | **High** | E063 ~02:15–02:30 | **Live black worm captured from Zercil's bed**, method/host status unknown; **three surviving Fengar children including Felcha** learn both parents died; exact family relations and guards' exposure must be checked. |
 | **High** | E061–E063 / item and clan sheets | Verify **Bramie/Baymie**, **Zercil**, **Mola Janda/Yomi Zantlar**, **Kervalon**, **Demon Vold**, **Follow**, **Tyrant's Bane**, remaining Lucky Coin use, **Mawstorm** creator spelling and **Eye of Groxl** combat effects against original audio/handouts. No direct edit to source SRTs. |
 
-**Status/cutoffs:** **Orp alive E060 → dead E062; Zercil challenger E061/E062 → dead E063; Vorel's Great Fang title is publicly recognized E062**, while **Bramie's murder remains unsolved and the newly announced mass emancipation is not finished by E063**. New dossier prose is processed-ASR research, not audio-verified.
+**Status/cutoffs as of E063:** **Orp alive E060 → dead E062; Zercil challenger E061/E062 → dead E063; Vorel publicly recognized Great Fang E062**. **Bramie's murder was not solved by E063**, but an admitted culprit appears **E065**; promised emancipation is overwhelmed by **E064's catastrophe**. New dossier prose is processed-ASR research, not audio-verified.
 
-## 8. Work completion checklist
+## 8. E064–E065 and July-archived 2019 bonus — fresh listening queue
+
+| Priority | Source / approximate recording time | Evidence and validation target |
+|---|---|---|
+| **Critical** | E064 ~00:20–01:15 | **Follow's telepathy**, mental identification of the singled-out Sun's Witness, prisoner's **Dollo Poppio-triggered mutation**, worm spray and party saves, Vorel's fire cleansing. Check whether **every** captive is shown changing, what the party knows, and that **Stanley did not detect a worm in regular exam**. |
+| **Critical** | E064 ~01:10–01:29 | **Chicken-lord transformations, Nash's Fireball and Mold Earth**, **six-armed lizardfolk**, departure from Razak Val, and Omnom's **ongoing living status**. Track **Necklace of Fireballs transferred to Omnom** and **survival unknown**, rather than treating him as killed. |
+| **High** | E064 ~00:37–00:43, ~02:34–02:38 | Guard assertion that **Zarks delivered Sun's Witnesses**, party's suspicion of deliberate taint, and GM's out-of-character clarification that **Orp's infected flesh** explains the spread (not that all Demon Vold cuisine is universally infected). Verify actual causation where possible, not guilt by association. |
+| **High** | E064 ~01:26–02:00 | **Mawstorm as new raptor name versus sword**, mounted escape, Scully's Obsidian Nail usage, *Dimension Door* with raptor, collapsed bridge and number of monster fatalities. **Do not invent a new Vorel self-title** from vows to return as existing Great Fang. |
+| **High** | E064 ~02:40–02:57 | **Fate 4 reappearance and post-credit scene are played events**; Follow, apparently invisible young daughter and orc **hotwire/drive party RV**, with no ownership transfer. Confirm earliest names and exact status of car fittings. |
+| **Critical** | E065 ~00:08–00:33 | **Follow/Follo, Sira/Sera, Rorf** exact orthography and abilities (mind-reading/influence, invisibility, shapeshifting); lost settlement **Home**, survivor status, Sira's cropped ears and Elvish comprehension. Attribute difficult historical claims to **Follow**, not neutral narrator. |
+| **Critical** | E065 ~00:22–00:27 | **Rorf explicitly confesses killing Bramie** and Follow says they deliberately removed elder heirs to create scaling opportunities. Reclassify the E061–E063 murder uncertainty at **E065 cutoff**. **Nash stole the egg but did not perform the confessed killing; Zercil's earlier accusation was unsupported**. |
+| **High** | E065 ~00:34–00:43, ~01:43–01:49 | Hope's **Tietkalla asylum offer** and Follow's acceptance **in principle**, no completed arrival; Stanley's **Elvish song for Sira** and private Tietkalla **sending-stone report** (Principle's workers not yet arrived). |
+| **High** | E065 ~00:43–01:38 | Rare **rain over purple sands**, Hope driving Fate 4, Nash's *Mold Earth* freeing rear wheels and building a storm-drainage basin, Stanley's **Augury weal-and-woe**, and distant silhouette. Avoid extrapolating map scale or general spell legality from a session ruling. |
+| **Critical** | E065 ~02:04–02:30 | **Three/four apparent Nash variants and two Fengar egg copies**, contradictory **egg/leg** explanation, alleged **winged employer** and planet explosion. Verify exact egg **handoffs** and item count, keeping **time travel unverified**. |
+| **High** | E065 ~02:30–02:38 | **T. rex approaches RV** in driving rain, Vorel camouflaged underneath. Cliffhanger **ends before combat**, car is not destroyed. |
+| **High** | Bonus 2019-07 ~00:00–00:03 | **Archive July vs spoken June bonus**, Scott's **June 29, 2019 recording-date claim**, 1,000-day **Catoblepraithe** pact with only approximate **80–90% remaining**, no reliable exact calendar. |
+| **High** | Bonus 2019-07 ~00:03–00:21 | Jon/Scott/Kyle's **roleplay reasoning**, Kyle's **Tyrant's Bane rejection**, Omnom's character-design purpose, **Stanley cleric and Vorel paladin multiclass ideas not taken**; no retrospective in-world inventory changes. |
+| **High** | Bonus 2019-07 ~00:21–00:26 | Beau's **Dollo Poppio Lord of Madness** and intended Orp corruption, tentative **nonidentity of Sira and Nash's Solar Mines dream-girl**, and acknowledgement **Hope's rocket changed preparation**. Separate creator intention from witnessed mechanics. |
+
+**Source cutoff correction:** **E064** depicts the Razak Val mass outbreak; **E065** identifies **Rorf as confessed Bramie killer**; **Omnom and the valley's future remain unknown**. The July-archived bonus is **separate retroactive commentary**, not a playable E066. All conclusions are provisional ASR research.
+
+## 9. Work completion checklist
 
 - [ ] Listen to selected critical cues and create **audio-grounded transcript excerpts** with timestamps and performer attribution.
 - [ ] Reconcile original contracts, house records and item handouts with spoken claims; if unavailable, record that explicitly.
 - [ ] Update only the affected **active ledger key**, source dossier and consolidated reference entry, with evidence and date.
 - [ ] Preserve raw SRT outputs and historical archived alternatives, never silently overwrite source recognition.
 - [ ] Run relevant documentary/index validation after edits; where **local files or code** change, run their applicable test suites and pass before claiming completion.
-- [ ] Continue source-backed review **after E063**; E055–E063 and all three currently reviewed 2019 bonuses have provisional dossiers, **not independently listened/verified**.
+- [ ] Continue source-backed review **after E065**; E055–E065 and all four currently reviewed 2019 bonus recordings have provisional dossiers, **not independently listened/verified**.
 
 **Editorial consolidation is not audio verification.** Full [legacy queue](../research/legacy/2026-10-22/PROJECT_REVIEW_QUEUE.md) remains available for every fine-grained pending subtask.
