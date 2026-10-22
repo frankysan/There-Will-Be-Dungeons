@@ -1,6 +1,6 @@
-# Campaign chronology — Year One and the opening of Year Two
+# Campaign chronology — Year One and the second arc
 
-**Horizon:** Corrected **E000–E056** main *The Wastes* campaign, with explicit exceptions for the **E013.5 supplemental**, **E043 holiday one-shot** and the **March 2019 Q&A**. **Spoilers:** E000–E056 and both 2019 bonus discussions. **Research status:** The events below are consolidated from **unverified processed Parakeet episode dossiers**, not independent listening; times within individual episodes remain in their [source-first dossiers](../episodes/E000.md). The full **pre-Phase-C chronology**, including detailed recorded cue windows and historic uncertainties, is [preserved here](../research/legacy/2026-10-22/WORLD_CHRONOLOGY.md).
+**Horizon:** Corrected **E000–E060** main *The Wastes* campaign, with explicit exceptions for the **E013.5 supplemental**, **E043 holiday one-shot** and the **March 2019 Q&A**. **Spoilers:** Main Wastes through E060 and both 2019 bonus discussions. **Research status:** The events below are consolidated from **unverified processed Parakeet episode dossiers**, not independent listening; times within individual episodes remain in their [source-first dossiers](../episodes/E000.md). The full **pre-Phase-C chronology**, including detailed recorded cue windows and historic uncertainties, is [preserved here](../research/legacy/2026-10-22/WORLD_CHRONOLOGY.md).
 
 **Reading key:** Each row covers a **played episode or directly observed outcome** in narrative order. A **reported death, genealogy, prophecy, pact history or offscreen action** remains an attributed report unless independently played. The **episode's own cutoff** matters: E048's rescue is real even though Tedna dies E050; E048's report about Angelashi is not proof she died before her E054 rescue. For a connected story, use [Year One narrative](../narrative/YEAR_ONE.md); for subject facts use [world history](WORLD.md) and [character](CHARACTERS.md) / [place](PLACES.md) profiles.
 
@@ -83,6 +83,17 @@ The following table is ordered by **played narrative events** rather than by fil
 
 **[BONUS-2019-04 — The First and Last](../episodes/BONUS-2019-04.md)** discusses the new phase, character motives and GM design. It **does not advance the fictional timeline**. It speaks of E055's downtime and original Tietkalla planning; exact release position relative to E056 is not inferred from archive month alone.
 
+## After the skyfall — E057–E060
+
+The following continues the same **played campaign sequence**. Outcomes that change earlier episode-cutoff knowledge appear at the **episode where they actually happen**; the earlier report remains a report.
+
+| Episode | Event and source cutoff |
+|---|---|
+| [E057 — The Royal Truckery](../episodes/E057.md) | **47 Carnage actually bites Emenil**, but **Stanley heals her, Hope orders Nobiery to stop the undead**, and she survives. Nobiery **admits concealing a Soulbroker bargain** behind Matamaru's name. Party drives a **repaired royal monster truck**, not Fate 4, to inspect the skyfall site: bright green vegetation, magical anomaly and **bugbear-sized footprints dragging away a large body**. An unlucky leprechaun `Coopen/Coupon` is freed then **killed by Diontalus, who consumes its essence**. **Hope receives a lucky coin**. Wormfather bugbears, an apparent wizard and winged pet attack; **Stanley kills the winged creature**, with bugbears still fighting at E057 cutoff. |
+| [E058 — The Magical Banana Trail](../episodes/E058.md) | Party defeats **bugbears** and examines an actual **leechlike parasite in one bugbear's brain**. They retreat; **Nash becomes separated in young dragon form**, follows a **banana trail** dropped from the returning truck and is **brought home alive by a royal search party**. The **Principle visits court in person**, claims to represent Steel God values, proposes trade and a **rail link**, and **promises** Dusthill prisoners will return. **No return observed yet E058**. **Diptak** requests Vorel's presence in the lizardfolk lands. |
+| [E059 — Paradise of Mans](../episodes/E059.md) | Party negotiates railroad/trade, embassies, voluntary paid labor terms and church provision, **without a railroad yet existing**. The Principle visibly **extracts Diontalus from Stanley into a crystal**, takes custody and **promises confinement/space exile**; permanence not tested. **Actual Dusthill survivors return** to Tietkalla, including **Talia, Bruce Bane, Jimster and Shun'ti**; not every historical missing person is accounted for. Vorel and **Diptak** ride lizard mounts, while Hope/Stanley/Nash use **Fate 4** to cross westward. They evade a **bloodsucking swarm in Tiny Hut**. At **Razak Val**, the reigning Great Fang is **Orp**, with **living human captives on his body**; the duel is pending. |
+| [E060 — What's for dinner](../episodes/E060.md) | Vorel formally issues a **scaling duel challenge** to **Orp**, who resists fighting a friend. **Orp kills Diptak instantly**; not an offscreen report. Adviser **Mirion Fengar** reveals clan politics, the **Great Fang**, **Council of Twelve** religious office and palace ritual at **Razak Val**. Orp **accepts public duel for next morning**, not yet fought. Clan banquet serves live snakes and “chicken lord”. **Nash privately meets a scarless lookalike with a red eye who claims to be Nash from the future**—identity/time travel unverified, and **other PCs do not hear the scene**. |
+
 ## Stories and publications outside that sequence
 
 | Source | Release position vs. story position | Rule for editors |
@@ -119,6 +130,18 @@ The following table is ordered by **played narrative events** rather than by fil
 | **Vorel's condition** | Alive in E054 with **Eye of Groxl** | **E056 ghost rapidly ages him**, but **Emenil restores his original age during the same episode**. |
 | **Emenil** | Priestess mentors Stanley in downtime and casts restoration | **Animated Carnage bites her at E056 cliffhanger**. **No death resolved**, and this should not be filled in from teaser/outro. |
 | **Meteor and soul claims** | E055 stone storm is directly witnessed | E056 **Quizquaz claims** it involved a dragon, bounty hunter and Weir litigation. No direct landing-site survey or independently verified dragon casualty. |
+
+## E057–E060 new time-of-knowledge changes
+
+| Issue | Previously justified statement | Newest source-cutoff statement |
+|---|---|---|
+| **Emenil** | E056 ends as zombie begins biting; death unknown | **E057 bite lands and Stanley heals her**. **Emenil alive E058 reception**. |
+| **Skyfall object** | E055 flash/stone storm; E056 Quizquaz claims a killed dragon | **E057** impact site **found** with magical jungle and drag tracks; **no identified dragon remains**. **E058** physical worm in bugbear, not proof of dragon's identity or death. |
+| **Diontalus and Stanley** | Shared body through E057; Diontalus kills leprechaun there | **E059 observed extraction into crystal by the Principle**. **Diontalus is in Principle custody as claimed**, no destruction or space launch observed; **E060 Nash lookalike is not proof of Diontalus's return**. |
+| **Dusthill prisoners** | Softhead/Principle **offer** release E055–E058 | **Named survivors actually arrive alive E059**, with unknown remaining-person census; some report forced farm work. |
+| **Diptak** | Alive E059, escorts Vorel to Razak Val | **Killed by Orp E060**, body carried away; Vorel's leadership challenge continues without him. |
+| **Orp** | Cyclops alive, eating captives and occupying Great Fang seat E059 | **E060 accepts Vorel's challenge at banquet**; **alive at E060 cutoff** and duel set for next morning. |
+| **Nash future duplicate** | No earlier verified future doppelgänger | **E060 private meeting with lookalike**, who *claims* to be future Nash. **No verification** or public party disclosure. |
 
 ## Limits and provenance
 
