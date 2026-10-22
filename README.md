@@ -2,13 +2,13 @@
 
 **A local-first transcription and campaign-reference project.** The long-term goal is an accurate, searchable, source-linked archive of the show's campaigns. **The Wastes and Inverse are separate fictional realities**, with independent continuity, characters, cosmologies and research indexes. The Wastes remains the main researched corpus.
 
-**Current *Wastes* research coverage:** corrected **E000–E081**, including **E013.5**, a separate **E043 holiday one-shot**, and **March, April, June, July, August, September, October and November-publication 2019 bonus discussions**. E055 begins after a **real three-month fictional jump** following E054. These episode dossiers are **provisional notes from processed Parakeet SRTs, not finished or listener-proofread transcripts**. The ongoing E000/E001 speaker-labelled reader-edition pilot remains separate. **Inverse research:** [S1E01 — Inverse Part 1](inverse/episodes/S1E01.md) is provisionally documented in a [separate campaign reference](inverse/README.md); further Inverse sources remain unreviewed.
+**Current *Wastes* research coverage:** corrected **E000–E081**, including **E013.5**, a separate **E043 holiday one-shot**, and **March, April, June, July, August, September, October and November-publication 2019 bonus discussions**. E055 begins after a **real three-month fictional jump** following E054. These episode dossiers are **provisional notes from processed Parakeet SRTs, not finished or listener-proofread transcripts**. The ongoing E000/E001 speaker-labelled reader-edition pilot remains separate. **Inverse research:** [S1E01 — Part 1](inverse/episodes/S1E01.md) and [S1E02 — Part 2](inverse/episodes/S1E02.md) are provisionally documented as a **completed initial two-part one-shot** in a [separate campaign reference](inverse/README.md); later Inverse sources remain unreviewed.
 
 ## Choose how to explore
 
 | I want to… | Start here |
 | --- | --- |
-| **Explore *Inverse* (separate reality)** | [Inverse campaign portal](inverse/README.md) and [S1E01 premiere dossier](inverse/episodes/S1E01.md). Inverse's world is **not** The Wastes or a shared timeline |
+| **Explore *Inverse* (separate reality)** | [Inverse campaign portal](inverse/README.md), [S1E01 premiere](inverse/episodes/S1E01.md), and [S1E02 conclusion](inverse/episodes/S1E02.md). **A distinct fictional reality, not a Wastes timeline** |
 | **Read the Wastes story** | [**Year One — From Dusthill to the Crown**](narrative/YEAR_ONE.md), then [**Year Two — Stones, Souls and the Great Fang**](narrative/YEAR_TWO.md) (E055–E081) |
 | Understand the story's organization and spoiler limits | [Narrative guide](narrative/README.md) |
 | Look up a character, place, event or contested fact | [World reference portal](world/README.md) |
