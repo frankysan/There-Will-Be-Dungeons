@@ -110,16 +110,70 @@ The famous champion has not been faced. No tournament prize has been paid. The c
 
 [E084](../episodes/E084.md) · [Sigil and tournament status](../world/places/sigil.md)
 
+## VII. Always high kick
+
+As the qualifier wears on, the marionette stations begin to vanish from the floor. Competitors who arrived expecting a day of games become spectators, and **Vorel and Nash survive round after round**. Vorel's opponents have often seemed ill; Nash has found many less threatening than he expected. Neither can tell how much of their progress belongs to skill, luck or Squirts' unseen work. By the lunch break only four remain.
+
+One of them is a quiet gray-skinned elf whose hood obscures her face. Another is **Ventro**, an immense alligatorlike man adored at Royce Gymnasium and accompanied by a gang of swaggering supporters. His victory streak is local to this venue; the greater champion whom the priest wants humiliated is still **Kanja**, waiting somewhere beyond the qualifiers. Ventro seizes the competitors' dining room as if it belongs to him. He insults Nash, boasts about his victories and threatens anyone who refuses to be afraid. Squirts responds in the language of her calling: she secretly puts **two of the priest's sickness needles into Ventro's leg**. He catches her despite her attempt to disappear, and eventually **kicks her and Chunks across the room**. The violence does not end his tournament entry. The others hold themselves back, hoping he will be disqualified instead of dragging them into a street fight.
+
+The announced pairings provide a stranger ordeal: **Vorel must face Nash**. For all the terrible things the two have survived together, Vorel resists the idea of shaming a friend for sport. Nash reassures him that marionettes are only a game; he even offers to lose deliberately. Squirts has no such hesitation about bending the odds and **sticks Nash with a sickness needle**. But Nash withstands the poison. Their match proceeds without a declared surrender.
+
+Nash chooses the monk **Bland**, Vorel the lizardfolk **Kung**. They test one another with punches, ducking kicks and feints. Both miss repeatedly, to the bewilderment of a crowd that has seen sharper matches. Eventually Vorel finds his rhythm. He dazes Bland, strings together the jumping kicks he favors, and prevails after Nash briefly breaks out of the combination. **Vorel wins**. Nash takes the loss without resentment, leaving the stage to watch his friend.
+
+The other match has already gone to Ventro. He adds insult to victory by **kicking the defeated elf from the stage**. No official intervenes. His popularity seems enough to excuse conduct that would ruin an outsider. Now the crowd roars for a match between the local champion and an almost unknown lizardfolk, a newcomer who started playing only the day before.
+
+Ventro knows Vorel likes Kung. When the marionette selection opens, he seizes the fighter first, expecting the novice to collapse without his favored choice. **Vorel chooses Bland** instead. On the screen the monk meets the lizardfolk in a flurry of blows. Vorel learns quickly, using a stunning strike to open a combination, then **jumping into one heavy high kick after another**. Ventro struggles to escape the blows. His fighters' remaining strength disappears. The champion at Royce Gymnasium has lost.
+
+Ventro cannot accept it. He lifts the game station and tries to crush Vorel with it.
+
+[E085 — Always High Kick](../episodes/E085.md) · [Vorel](../world/characters/vorel.md)
+
+## VIII. A warning without a voice
+
+Nothing reacts first, pitching a hammer at Ventro's arm. The shattered rhythm of the threatened blow buys Vorel time. **Nash tries to make him larger**, hoping a spell can protect him, but something prevents the magic from taking shape. Squirts has no comparable trouble: she commands Ventro to kneel, and the furious champion finds himself **groveling and praising Vorel against his will**.
+
+The crowd's favorite has brought his entourage. They pour over the barriers with clubs and axes. Nothing scatters **ball bearings** into their path, sending some sprawling. Squirts' magic takes the fury out of others, though not all; her hastily made crossbow drives a blade into Ventro's foot. Nothing attacks with swords, trying to subdue him. Nash keeps attempting magic, only for the same unknown force to silence each effort. He resorts to punching a thug with one of the awkward hands grown from his heart. Vorel stands amid blows, raging, gripping one attacker and using him as a weapon against the rest.
+
+The tournament has ceased to resemble a game. A mob watches the violence rise from a stage where the rules were supposed to prevent exactly this. Ventro recovers his axes and turns them on Nothing.
+
+Then the entire arena goes quiet.
+
+A **towering green figure shaped like a woman** has appeared where there was none. Every spectator has the unmistakable impression that its gaze falls upon them. Nobody hears a voice, yet the warning is understood. Ventro tries to protest: it was the others, he says; they cheated; he did nothing wrong. His defiance comes too late. His body begins to collapse toward a hole in reality scarcely large enough to see. He twists and cries out while something draws him through it, until **he is gone**. The figure vanishes as suddenly as it arrived.
+
+The companions have heard the name **Lady of Pain** in Sigil, always with an admonition not to attract her notice. What they have just witnessed fits the terror behind those warnings, though the figure has not given her name. **Ventro's disappearance is certain; his death or destination is not**.
+
+His entourage scatters. The spectators recover their voices and cheer for Vorel, the unlikely **champion of the Royce qualifier**. A much larger final event remains, and the overall champion **Kanja** has not been faced. But for this one afternoon, Vorel has conquered a realm that has nothing to do with kingdoms, gods or dragon engines: a world of marionettes, applause, and the embarrassing power of a jumping kick.
+
+[E085](../episodes/E085.md) · [Sigil's witnessed intervention](../world/places/sigil.md)
+
+## IX. The price of being famous
+
+Victory travels faster than the companions do. A reporter from **M Sports Weekly** wants Vorel's portrait, his history and the secret of a game he has barely learned to play. Small winged creatures paint his likeness while admirers crowd forward. He names **Mighty Squirts** as his team, with **Squirts** as its manager. The answer is good enough for a story, though there has been no formal team registration. Vorel recommends reading books and relying on the high kick. The journalists are delighted.
+
+Merchants are delighted too. **Arcane Spice** offers a monthly fee for wearing its branding; a maker of marionette controllers offers even more. But the contracts trouble Vorel, whose friends' earlier promises to a supernatural broker brought them to this desperate place. He listens to the offers and **signs nothing**. He would rather be poor than find his name caught in another agreement he cannot escape.
+
+Some attention is harder to fend off than a contract. Admirers want his time, affection and company, and do not always listen when he refuses. Vorel gives the stolen strategy book to a young lizardfolk admirer and is soon leading a crowd back toward the **Soggy Feather**, where Bill and Pam barely know how to cope with so many customers. **Nash and Nothing help serve** the crowd and **earn actual wages and tips**; Nothing also tricks drinkers into surrendering extra coins. Squirts collects a few strange little treasures whose uses are not yet known. For the first time since the beam, the survivors have at least a little money of their own, though none of it is the promised grand tournament prize.
+
+Vorel himself has gained little but admirers he does not want. When several refuse to leave him alone, he tries desperate distractions and finally **leaps through an upper window** to escape. He returns only after the inn grows quiet. Nothing lets him inside; the companions retreat to the small, strange peace of their room. For one evening, the Soggy Feather has been a place of celebration rather than a refuge for the homeless.
+
+The peace does not last.
+
+Late in the night, Nothing's **warning sword begins to vibrate**. The kenku hears movement above the room and cries out to wake the others. They listen into the dark. Then **two armed, ninja-like figures burst through a window** and rush toward them, swords drawn. Their faces, employer and purpose are still unknown when the episode ends.
+
+The newly famous champion has a larger tournament ahead of him. His friends have neither been restored nor forgotten. And Sigil, which offered the party a safe place to sleep, has just shown that even a locked door may be no protection at all.
+
+[E085](../episodes/E085.md) · [Nothing](../world/characters/nothing.md) · [Nash](../world/characters/nash-maggard.md)
+
 ## An open door, not an ending
 
-The four who stood in the beam at CHIDS are not restored to the traveling company they once were. **Vorel lives**, stripped of much of his old life. **Nash can speak and fight a peculiar game**, though his body is still a floating heart with limbs growing back in the wrong order. **Hope and Stanley remain absent**, their soul-like forms kept in a trickster church's crypts with only a **conditional promise** of attempted resurrection. **Squirts and Nothing** are not substitutes in some solved equation: each arrives with choices, loyalties and dangers of their own.
+The four who stood in the beam at CHIDS are not restored to the traveling company they once were. **Vorel lives** and is now celebrated as a **Royce Gymnasium qualifier champion**, but his victories have been entangled with trickery and a local champion's violence. **Nash can speak and fight a peculiar game**; his heart keeps growing limbs in the wrong order while an unexplained force **suppresses his spells**. **Hope and Stanley remain in crypt custody**, under only a **conditional offer** of restoration. **Squirts and Nothing** are companions with their own gifts, risks, debts and loyalties; Nothing's **private Abyss-bound kidnapping** has not been performed.
 
-Sigil promises doors to everywhere, but none has yet brought the companions home. The fight for two lives has turned into an ethically compromised tournament campaign; the kenku's private life points toward a more dangerous mission through the Abyss. Behind both lies the unfinished question of **Earth, the Traversal Drive, the Principle and the Soulbroker pact**. Their condition has not been witnessed since the beam.
+Sigil promises doors everywhere, but none has yet brought the group home. The next day's **larger finals** may provide the humiliation demanded by the priest; they have **not yet happened**, and the five-thousand-gold reward has not been won. The disappearance of Ventro under a silent green apparition raises the stakes of defying the city's powers. Two intruders with drawn swords have now entered the companions' room, and **the fight is unplayed at this cutoff**. **Earth, the Traversal Drive, the Principle and the Soulbroker pact** remain unresolved outside the companions' immediate experience.
 
-**This narrative currently ends at E084.** It will grow by **connected story movements**, not by adding a new episode recap after each release. The [chronology](../world/CHRONOLOGY.md) and [episode dossiers](../episodes/E084.md) preserve precise cutoff facts and unresolved identities as later material is researched.
+**This narrative currently ends at E085.** It will grow by **connected story movements**, not by simply inserting a recap after each recording. The [chronology](../world/CHRONOLOGY.md) and [episode dossiers](../episodes/E085.md) preserve source-specific cutoffs and ambiguous spellings.
 
 ### Later commentary, separate from the action
 
-In the [December 2019 bonus Q&A](../episodes/BONUS-2019-12.md), **Beau later explains** that Hope and Stanley's apparent bodies are **manifestations of souls interrupted on their way to the Weir**. That adds creator commentary to the trickster priest's explanation, but it does **not** place the knowledge in Vorel's hands at the start of E082, resurrect either companion, or settle the future of the contract. Beau also says he did not plan for **all four** to enter the beam in E081. These are **retrospective explanations**, not extra scenes between E082 and E084. The [bonus ASR comparison](../reports/BONUS_2019_12_ASR_COMPARISON_2026-10-22.md) remains **unverified against audio**.
+In the [December 2019 bonus Q&A](../episodes/BONUS-2019-12.md), **Beau later explains** that Hope and Stanley's apparent bodies are **manifestations of souls interrupted on their way to the Weir**. That adds creator commentary to the trickster priest's explanation, but it does **not** place the knowledge in Vorel's hands at the start of E082, resurrect either companion, or settle the future of the contract. Beau also says he did not plan for **all four** to enter the beam in E081. These are **retrospective explanations**, not extra scenes between E082 and E085. The [bonus ASR comparison](../reports/BONUS_2019_12_ASR_COMPARISON_2026-10-22.md) remains **unverified against audio**.
 
 [Arc One](ARC_ONE.md) · [Arc Two](ARC_TWO.md) · [Arc 3 episode index](../world/CHRONOLOGY.md) · [World references](../world/README.md) · [Review queue](../project/REVIEW_QUEUE.md).
