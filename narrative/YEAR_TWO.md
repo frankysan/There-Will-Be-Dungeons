@@ -118,7 +118,7 @@ Their **raptors** race through a canyon pursued by chicken lords. A narrow rope 
 
 ## X. Old sins, new families and rain
 
-On the road, Follow names the girl **Sira** and the enormous orc **Rorf**. He tells a story about a place his unusual people called **Home**, destroyed by gobbears; a lizardfolk hunt then massacred most of their traveling group as mutants. Follow claims to manipulate minds, Sira can disappear and Rorf can change shape. The little girl's ears show scars where their pointed upper parts have been cut off. Stanley speaks in **Elvish** and she understands.
+On the road, Follow names the girl **Sira** and the enormous orc **Rorf**. He tells a story about a place his unusual people called **Home**, destroyed by gobbears; a lizardfolk hunt then massacred most of their traveling group as mutants. Follow claims to manipulate minds, Sira can disappear and Rorf can change shape. The little girl's ears show scars where their pointed upper parts have been cut off. Stanley speaks in **Elvish** and she understands; **later, despite her usual silence, Sira speaks in Elvish to ask for a song**.
 
 Follow also has a darker secret. His companions tried to rescue him by arranging succession fights against Orp, removing those heirs who stood in challengers' way. **Rorf admits that he killed Bramie Fengar.** The murder blamed on intruders or perhaps Zercil has a new confessed perpetrator, while the strange theft of the Fengar egg by Nash's other faces remains a separate crime. Follow wants only safety for Sira; when Hope offers her realm of **Tietkalla** as a future home, he accepts, though no one has yet arrived there.
 
