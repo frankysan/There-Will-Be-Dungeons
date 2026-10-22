@@ -87,4 +87,6 @@ The March [Year One Q&A](../episodes/BONUS-2019-03.md) is publisher **55**, alre
 | `The Wastes S1E059. Paradise of Mans` | [E059](../episodes/E059.md) | Principle's crystal extraction and returned Dusthill captives; Razak Val introduction |
 | `The Wastes S1E060. What's for dinner` | [E060](../episodes/E060.md) | Diptak killed at lizardfolk court; Orp duel remains future |
 
+The [December public-release bonus](../episodes/BONUS-2019-12.md) retains the independent **BONUS-2019-12** identifier. Its **standard** and **alternate copy** recordings contain the same Q&A; the alternate includes roughly a minute of leading advertising. Both have Parakeet and Qwen exports; **recording date cannot be inferred from the filename or advertising**. See [comparison](../reports/BONUS_2019_12_ASR_COMPARISON_2026-10-22.md).
+
 The four SRT basenames use **owner-normalized corrected Wastes IDs**. Keep both 2019 bonuses in the bonus namespace; the owner's spreadsheet supplies original-to-corrected matching, **not arbitrary subtraction**.
