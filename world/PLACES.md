@@ -92,7 +92,7 @@ In [E073](../episodes/E073.md), ice giants and **animated blue-eyed corpses** fi
 
 **[E077](../episodes/E077.md):** Beyond a security checkpoint and a fan/laser pit, numerous vats hold **dead lizardfolk** and panels offer **direct neurological education/behavioral-control routines**. Two special cylinders bear **Lethanphius** (winged metallic-boned subject) and **G-R-0-X-1**, linking the area to questions about Vorel's **Eye of Groxl**. The living membrane itself opens Lethanphius's containment; the heroes defeat him, despite severe temporary injury to Vorel; the GM **anticipates repair at E077 close, which is actually performed E078**. Flesh manifests a **claimed CHIDS hive council** and a second figure **claiming to be an alternate-future Nash**. The council **reports** illithids at the engineering center housing the **Traversal Drive** and plans transport to an assault site, but **the heroes have not reached that machine**.
 
-**Other site details and limits:** [CHIDS](places/chids.md) · [Kervalon](places/kervalon.md) · [Red/green portal device](technology/portal-device.md). **Gordon Shuttle Bay remains only discussed**, and **Sira remains missing**.
+**Other site details and limits at E075:** [CHIDS](places/chids.md) · [Kervalon](places/kervalon.md) · [Red/green portal device](technology/portal-device.md). **Gordon Shuttle Bay had been discussed but not visited at this cutoff**, and **Sira remained missing then**. Her release is depicted later in [E081](../episodes/E081.md).
 
 ### CHIDS recreation laboratories, crystal barrier and Drive chamber (E078–E079)
 
