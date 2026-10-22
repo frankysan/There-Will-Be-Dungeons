@@ -20,7 +20,6 @@ A red shot against an **incompatible body** causes the previous red aperture to 
 
 The device is **not the Traversal Drive**. It is a smaller **locally retrieved portal-pair tool** recovered in CHIDS's laboratory weapons facility. No proof of its relation to **Charles Dickens's alleged sabotage**, **Cerinthala's reports**, **Sira's abduction** or **Fate vehicle destruction** has appeared.
 
-
 ## Demonstrated escape, custody and newly revealed weapon mode (E076–E077)
 
 **E076:** The heroes **perform the escape** planned in E075. The portal pair is used to pass behind the charging bugbear force, isolate a second illithid, and later traverse **CHIDS Containment's broken catwalk** and a jammed door. **Hope gives the same device to Nash**, whose **flying underwear** allow him to aim endpoints across a dangerous shaft. Moving/replacing an endpoint as another creature emerges appears to sever that particular winged creature's head; this is an **observed table ruling for that scene**, not sufficient evidence for universal portal-edge lethality. **Hope is demonstrably using the device again in E077**, although the specific hand-to-hand return after Nash's E076 use is **not narrated precisely**.
