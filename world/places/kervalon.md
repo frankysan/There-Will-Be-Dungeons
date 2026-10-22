@@ -1,6 +1,6 @@
 # Kervalon / Kaer Valon — contested border keep and Demon Vold approach
 
-> **Working name only:** `Kervalon`, `Kaer Valon`, `Caravalon`, `Caeravalon` and similar ASR variants. **Do not silently declare canon orthography from a processed transcript.** Discussed [E061](../../episodes/E061.md), reached physically [E067](../../episodes/E067.md). **Full spoilers through E067**.
+> **Working name only:** `Kervalon`, `Kaer Valon`, `Caravalon`, `Caeravalon` and similar ASR variants. **Do not silently declare canon orthography from a processed transcript.** Discussed [E061](../../episodes/E061.md), reached physically [E067](../../episodes/E067.md). **Full spoilers through E068**.
 
 ## Earlier warnings and route
 
@@ -18,6 +18,12 @@ On the magical carriage the travelers experience a **starfield encounter with a 
 
 At the keep the party sees **stone ruins, a bright beam dropping from above, approximately 30-foot walls and stationary armed lizardfolk on the ramparts**. Rather than carry out hypothetical frontal **T. rex-polymorph or invisible-dragon assault** schemes, **Nash tunnels with Mold Earth beneath the outer wall**; Hope scouts a disused underground chamber. The party seals the route behind them, defeats a **flesh-and-bone creature that continuously spawns animated skeletons**, and advances cautiously through vacant stone rooms and lowered corridors. **Hope observes an armed lizardfolk lying in wait farther down a passage.** E067 ends before they confront that guard or reach the machine, Sira, the mind flayer or its cabal. [E067](../../episodes/E067.md).
 
+## Sealed rifle ambush and hidden elevator (E068)
+
+The apparently waiting rifleman is part of **a larger force with bulky, energy-pulse firearms**. Vorel's shouted **Great Fang** challenge draws attackers into a broad basement battle. **Nash seals roughly eight lizardfolk melee pursuers into a stone passage**; their hammering later **stops suddenly**, but the party **does not open the sealed corridor or prove the occupants dead**. **Stanley Polymorphs Vorel into a T. rex** (executed now, unlike the previously discussed E067 tactic), and Vorel kills several guards. **Hope's shotgun blasts interrupt the mind flayer's Dominate Monster**, then a psychic Mind Blast leaves Hope and Vorel stunned, and rifle fire ends the polymorph. **Stanley's Diplomacy runs through the illithid-like foe**, whose visible body becomes **empty skin and black oil**. Enemy permanence, possession and relation to the E066 kidnapper **are unresolved**; **Sira is still missing**. All exposed riflemen are eventually killed, **not necessarily the entire garrison**. [E068](../../episodes/E068.md).
+
+A **spiral-stair tower contains a searing, vertical shaft of exceptionally strong magic** extending from sky through floor. Objects and an already-dead lizardfolk placed directly in it **disintegrate**. **Hope's approaching leg spirals briefly but recovers** when withdrawn; **Nash's Mold Earth is actively resisted below the shaft**. The party ascends to the rainy roof, descends again and follows **little black worms to a hidden floor seam**. Removing masonry reveals **two solid steel elevator-like doors, a control panel and a round glass feature**, with dozens of worms retreating from light. **Hope reaches to press the panel; it becomes a biting mouth and narrowly misses her fleshy fingers**, leaving the doors **closed and purpose unknown**. The [August bonus](../../episodes/BONUS-2019-08.md) has **GM testimony that the beam was intended to point toward a deeper, hidden room and the worms were clues**, but does not establish the ancient machine's operation. [E068](../../episodes/E068.md).
+
 ## Open issues
 
 - Verify **Kervalon/Kaer Valon**, **Demon Vold**, **Oubvayx/Ovaxiad**, **Kazdejira/Kazdeshira**, and **Sergeant T'Lupa/Tulupa** against audio/creator-written sources.
@@ -27,4 +33,4 @@ At the keep the party sees **stone ruins, a bright beam dropping from above, app
 - **Ruin's defenders:** the previously motionless rampart lizardfolk **might be enthralled**, but the discovered underground guard's allegiance and consciousness are not yet established.
 - **Travel:** the ghost carriage disappears at Kervalon E067; **Fate 4 is destroyed E066**, and **Fang Fate Five** is not physically carried through the densely packed forest.
 
-**Sources:** [E061](../../episodes/E061.md) · [E064](../../episodes/E064.md) · [E065](../../episodes/E065.md) · [E066](../../episodes/E066.md) · [E067](../../episodes/E067.md). **Related:** [Razak Val](razak-val.md) · [world overview](../WORLD.md) · [chronology](../CHRONOLOGY.md) · [review queue](../../project/REVIEW_QUEUE.md).
+**Sources:** [E061](../../episodes/E061.md) · [E064](../../episodes/E064.md) · [E065](../../episodes/E065.md) · [E066](../../episodes/E066.md) · [E067](../../episodes/E067.md) · [E068](../../episodes/E068.md). **Related:** [Razak Val](razak-val.md) · [world overview](../WORLD.md) · [chronology](../CHRONOLOGY.md) · [review queue](../../project/REVIEW_QUEUE.md).
