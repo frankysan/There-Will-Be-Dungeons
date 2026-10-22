@@ -65,7 +65,7 @@ This is now the **subject-focused reference index**, not the append-only episode
 
 In [E056](../episodes/E056.md), **George Miller appears as an attacking spirit**, **P0D appears as an ethereal companion** and neither is restored to biological life. **Vorel's spectral aging is cured in the same episode**. Newly significant **Tidebearer priestess Emenil/Eminel** heals Vorel but is then **attacked by an undead figure at Nobiery's command**—her death remains unknown. **Softhead** is now a mutilated **but surviving envoy** whose promises to free Dusthill captives remain unfulfilled on-screen. [April cast roundtable](../episodes/BONUS-2019-04.md) contains **player motives/GM process**, not additional character scenes.
 
-## New statuses after E060
+## Interim statuses at E060
 
 - **[Stanley and Diontalus](characters/stanley-diontalus.md):** Diontalus kills **Coopen/Coupon** in E057, then is **apparently extracted into a crystal by the Principle in E059**; Stanley appears free of his control through E060, but permanence is unverified.
 - **[Vorel](characters/vorel.md):** finds parasite evidence at the crater, returns to **Razak Val** with [Diptak](characters/diptak.md) and challenges [Orp](characters/orp.md); **Diptak is killed by Orp E060**, and the public duel has **not happened**.
@@ -73,4 +73,18 @@ In [E056](../episodes/E056.md), **George Miller appears as an attacking spirit**
 - **[Nash](characters/nash-maggard.md):** rescued from the desert after following bananas; later **privately meets an unscarred lookalike** claiming to be future Nash, not verified.
 - **[Emenil/Eminel](characters/emenil.md):** priestess survives E057 bite through Stanley's healing, attends E058 court and remains a witness to hidden Weir bargains. [E057](../episodes/E057.md) · [E058](../episodes/E058.md).
 
-**Sources and horizon:** [E057](../episodes/E057.md)–[E060](../episodes/E060.md). **Do not infer a dead Diptak's resurrection, a completed Orp duel, or guaranteed Diontalus extinction**.
+**Sources and horizon:** [E057](../episodes/E057.md)–[E060](../episodes/E060.md). **At that historical cutoff**, Orp's duel was not yet fought; do not infer Diptak's resurrection or guaranteed Diontalus extinction.
+
+## Status after E063
+
+**[Vorel](characters/vorel.md):** In [E061](../episodes/E061.md) **Orp appoints him sheriff** to investigate Bramie's unsolved murder, then in [E062](../episodes/E062.md) **Vorel kills Orp and is publicly acknowledged as Great Fang**. He remains ruler after **Zercil's E063 death**, although Hope's assistance in her fatal fight creates a question of honor. His titles register distinguishes his **self-proclaimed “Lizard King”**, Orp's **sheriff appointment**, and his **earned Great Fang office**.
+
+**[Orp](characters/orp.md), Mirion, Typalla, Toxar and Zercil:** **Orp dies E062**. The **Cave Fengar rocket blast** kills **Mirion Fengar, priestess Typalla, the Elder of Families, General Toxar, Mola Janda and many others**. **Zercil dies E063** after Hope shoots her with **Scully's Obsidian Nail** while Vorel attempts subdual. **Omnom Cinderborn survives** and becomes an adviser with strong objections to Hope. **Three Fengar children survive**, including Felcha. **Bramie/Baymie dies E061** but his murderer remains **unproven**. [E061](../episodes/E061.md)–[E063](../episodes/E063.md).
+
+**[Nash](characters/nash-maggard.md):** Helps **two apparent future versions of himself steal the preserved Fengar egg** in E061; personally observes Bramie still alive before his departure. **Their future origin is not verified**. In E063 a dragon transformation draws worshipful reactions and leaves Nash with **one level of exhaustion**; it is not proof of actual godhood.
+
+**[Hope](characters/hope-akmenos.md):** Her **E062 rocket** causes mass deaths in the lounge; she **kills Zercil E063** with an Obsidian Nail despite Vorel's nonlethal attempts. She assists in capturing a **live black worm** from Zercil's bed. She remains **Queen of Tietkalla**, separate from Vorel's new title.
+
+**[Stanley](characters/stanley-diontalus.md):** **Secretly heals Vorel E063**, retrieves a **Necklace of Fireballs with five charges** from Orp's corpse, supervises the beginning of medical screening for **200–300 human captives**, and sets apart the puzzling legless prisoner **Follow/Follo**. **Only Stanley sees a young human girl disappear** from the crowd. Neither all captives' freedom nor a magical cause for Follow has been established.
+
+**Source/evidence:** [E061](../episodes/E061.md) · [E062](../episodes/E062.md) · [E063](../episodes/E063.md), **processed ASR only**. The new episode dossiers and subject profiles give the precise time windows and uncertainty; no audio verification has been performed.
