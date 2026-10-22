@@ -1,6 +1,6 @@
 # Dual-color portal device — CHIDS secure laboratory apparatus
 
-> **Working descriptive name only.** No canon product/model label has been verified. This page records the **observed red/green portal apparatus** from [E075](../../episodes/E075.md), not a general rule for every ancient portal or a modern commercial device. **Processed-ASR source, not audio-verified.**
+> **Working descriptive name only.** No canon product/model label has been verified. This page tracks the **observed red/green portal apparatus** from [E075](../../episodes/E075.md) through [E077](../../episodes/E077.md), not a general rule for every ancient portal or a modern commercial device. **Processed-ASR source, not audio-verified.**
 
 ## Acquisition and construction
 
@@ -20,11 +20,23 @@ A red shot against an **incompatible body** causes the previous red aperture to 
 
 The device is **not the Traversal Drive**. It is a smaller **locally retrieved portal-pair tool** recovered in CHIDS's laboratory weapons facility. No proof of its relation to **Charles Dickens's alleged sabotage**, **Cerinthala's reports**, **Sira's abduction** or **Fate vehicle destruction** has appeared.
 
+
+## Demonstrated escape, custody and newly revealed weapon mode (E076–E077)
+
+**E076:** The heroes **perform the escape** planned in E075. The portal pair is used to pass behind the charging bugbear force, isolate a second illithid, and later traverse **CHIDS Containment's broken catwalk** and a jammed door. **Hope gives the same device to Nash**, whose **flying underwear** allow him to aim endpoints across a dangerous shaft. Moving/replacing an endpoint as another creature emerges appears to sever that particular winged creature's head; this is an **observed table ruling for that scene**, not sufficient evidence for universal portal-edge lethality. **Nash returns the device to Hope by E077**.
+
+**E077:** Hope operates the pair across **security grilles and a fan/laser pit**, but also notices **a selectable neutralization mode**. The GM describes **pulling both triggers together as a sustained void/necrotic beam** requiring both hands with **a -5 attack adjustment**. It deals enormous damage and can **pass through multiple creatures**: Hope's critical strike pierces both **Lethanphius and allied Vorel**, dropping Vorel. The party later confirms the opponent has a **black-metal skeleton** and does not immediately die from being bisected. **No limit on beam charge, range, fuel or safe collateral use has been established.** The earlier E075 description as a **harmless portal gun** was true only of its **red/green portal projectiles**, not its newly discovered mode.
+
+**Current custody and use at E077 cutoff:** **Hope holds the single device**; Vorel no longer has it. E077's final assault on engineering is **a council proposal**, not an actual new portal teleport or a test of the Traversal Drive. The newly discovered mode and collateral injury need **player-sheet/item-handout verification** before treating the exact dice or interactions as settled rules.
+
 ## Listening and evidence priorities
 
 - E075 ~01:17–01:40: exact **vault-entry sequence**, physical description, number of access controls and which character operates each.
 - E075 ~01:40–02:15: Vorel's ineffective weapon tests against **ice Toby / remains**.
 - E075 ~02:22–02:44: which trigger corresponds to **red/green**, any demonstrated bidirectional travel or merely visible linkage, and exact **invalidated-endpoint behavior**.
 - E075 ~02:43–end: **Vorel → Hope custody**, distinction between **plan** and executed escape.
+
+- E076 ~00:05–00:45: **actual bugbear escape**, isolated illithid outcome and red/green repositioning; ~00:53–01:47: shaft crossing and endpoint change; ~01:55–02:00: Nash/hope custody transfer.
+- E077 ~00:12–00:20: checkpoint and laser pit portal crossing; ~01:48–02:00 and ~02:14–02:21: **neutralization mode, critical beam and friendly fire**; ~03:21: GM confirms device's new lethality.
 
 **Related:** [CHIDS](../places/chids.md) · [Vorel](../characters/vorel.md) · [Hope](../characters/hope-akmenos.md) · [Chronology](../CHRONOLOGY.md) · [Consistency ledger](../CONSISTENCY_LEDGER.md) · [Review queue](../../project/REVIEW_QUEUE.md).
