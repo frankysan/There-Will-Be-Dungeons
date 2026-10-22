@@ -1,6 +1,6 @@
 # Year Two — Stones, Souls and the Great Fang
 
-**Narrative status:** Opening chapters covering corrected **E055–E060** after the played three-month downtime. **Full spoilers** for these episodes and the first arc. This is an editorial retelling drawn from **processed Parakeet SRTs, not an audio-verified transcript**. The [April 2019 bonus](../episodes/BONUS-2019-04.md) offers out-of-character interpretation, not a third scene or definitive unseen event. The full first arc ends in [Year One](YEAR_ONE.md).
+**Narrative status:** Opening chapters covering corrected **E055–E063** after the played three-month downtime. **Full spoilers** for these episodes and the first arc. This is an editorial retelling drawn from **processed Parakeet SRTs, not an audio-verified transcript**. The [April 2019 bonus](../episodes/BONUS-2019-04.md) offers out-of-character interpretation, not a third scene or definitive unseen event. The full first arc ends in [Year One](YEAR_ONE.md).
 
 ## I. Three months and a throne
 
@@ -66,8 +66,44 @@ At the feast Orp **finally accepts the duel**, to be held **the next morning**. 
 
 **Evidence:** [E060](../episodes/E060.md).
 
-## Where the story stands after E060
+## Interim checkpoint — after E060
 
 **Emenil survives**, **Dusthill survivors have actually returned**, and **Diontalus is apparently contained in a crystal held by the Principle**. The **railroad does not yet exist**. **Orp has killed Diptak but remains Great Fang**, while Vorel's scheduled challenge has **not yet been fought**. The eye-bearing, unscarred man claiming to be future Nash is an **unverified private encounter**, not established time-travel history.
+
+## VI. Two Nashes, one lost heirloom, and a dead Tyrant Slayer
+
+The unscarred stranger Nash meets in the latrine is not alone. Another man with Nash's face emerges, differently dressed and wearing glasses. Both claim they are versions of Nash from different futures, and both demand that their younger self help steal **a preserved Fengar egg**. Their explanation of time is almost deliberately absurd, but their intimate knowledge of Nash and their apparent magic persuade him to proceed. Nash sends two guards to sleep, enters the heirloom room and distracts **Bramie the Tyrant Slayer**, who marvels at the chamber's construction while the other two take the egg and vanish.
+
+Nash leaves Bramie **alive**. That distinction matters when the court learns that Bramie has been found **stabbed in the back with his own dragon-tooth weapon**. Zercil, Bramie's formidable sister, condemns the visitors and challenges both Orp and Vorel for the Great Fang title. Orp, still primarily interested in being fed and entertained, appoints Vorel an impromptu **sheriff**. There are **three identical human sets of footprints** in the chamber and a missing egg, but the signs of theft do not identify the killer. When Nash admits that two supposed future selves brought him there, a sudden chill suggests that his disobedience of their secrecy warning may not be harmless.
+
+Meanwhile the political center shifts around Vorel. A northern **Zark** hunter says the **Demon Vold** is not merely a source of exotic food but a dangerous weakening between worlds, with invaders and a name reminiscent of **Dollo Poppio**. Vorel seeks family records about the **god-killer** and hears the beginning of an ancestral tale from priestess Typalla. Before either investigation can reach its goal, the murder stops the gathering.
+
+**Evidence:** [E061](../episodes/E061.md). The visitors' supposed origin, the identity of the murderer and the ancient prophecy behind the egg remain unresolved.
+
+## VII. A flaming shield and a shattered court
+
+Vorel questions Zercil, who tells him that the settlement's ruler has made everyone an accomplice to **keeping human beings as food**. Her proposed solution is a bargain: kill Orp together, and Vorel will become **her husband and second-in-command** while she claims Great Fang. He will not accept it. Back at the feast he denounces the nobles and priests who have tolerated the captives and demands that Orp's reign end immediately, not at sunrise.
+
+The effort spirals into violence. Orp scarcely understands the scale of what his position has done, while Mirion and the guards demand that Vorel's companions be seized. Vorel leaps onto Orp with the **flaming shield conjured through the Eye of Groxl**. Hope fires the rocket installed in her mechanical arm. Because of the Eye's strange influence over ranged attacks, the projectile strikes Vorel's vicinity; the resulting explosion devastates the crowded hall, **killing Mirion, priestess Typalla, the Elder of Families, General Toxar and numerous other residents, including people not taking part in the attack**. Omnom survives and orders the surviving guards to stand down. This is **not an unqualified rescue or a clean succession**.
+
+Propelled far outside the hall, Vorel and Orp continue their desperate contest. The cyclops mauls and crushes him, but Vorel fights on, using the flaming shield to strike the enormous eye. When Orp finally collapses, **dead**, Vorel barely survives. Standing atop his fallen body with the shield raised, he watches the people of Razak Val answer with their weapons and a growing chorus of approval. **Omnom names him Great Fang.** Vorel's earlier self-declared kingship has become **publicly acknowledged office**, gained at terrible cost.
+
+**Evidence:** [E062](../episodes/E062.md). **Mawstorm** is Vorel's separate sword; the fatal shield is an **Eye of Groxl** effect.
+
+## VIII. The Fang's first test
+
+Zercil will not accept her rival's glory. She glides to Orp's body with the family's **Tyrant's Bane**, ready to receive the crown Vorel had contemplated leaving behind. But Vorel speaks of protecting all lizardfolk, displays brilliant changes of scale colour, and earns the assembled people's applause instead of surrendering it to her. Now Zercil attacks him directly.
+
+Vorel has almost no strength left. **Stanley privately heals him** in the struggle; **Nash becomes a dragon**, drawing bows from the astonished crowd. Vorel sees small dark shapes seeming to writhe behind Zercil's eyes and tries to end the fight **without killing her**. Hope, witnessing the peril and hearing his warnings, fires one of **Scully's Obsidian Nails**. Zercil collapses into dust. The public can see that an outsider interfered, yet Nash's performance as a dragon helps steady the crowd, and Vorel remains their **Great Fang**. Omnom agrees to advise him but angrily remembers the slaughter, especially priestess Typalla's death, and makes clear that Hope has earned a lasting enemy.
+
+There is little opportunity to enjoy sovereignty. Vorel turns first toward the **human pit beneath the throne**, where some **two to three hundred weakened captives** wait under guard. **Stanley announces their freedom**, and Nash shapes rooms of earth so the captives can undergo examinations and receive help. They are **not all released during this episode**. One prisoner, a calm, legless entertainer calling himself **Follow**, seems different to Stanley; he is kept apart. Vorel and Hope find a **live black worm in Zercil's bedding** and seal it in a container. Nearby, the Fengar children discover that both parents are dead. Meanwhile Stanley alone catches the gaze of a young human girl among the crowd—and she vanishes.
+
+These are beginnings rather than resolutions: the worm's purpose is not fully known, the murdered Tyrant Slayer has no proven killer, the egg remains missing, and a whole population of newly promised free people must still be safely cared for. **The reign has begun, but whether Vorel can reform Razak Val remains open.**
+
+**Evidence:** [E063](../episodes/E063.md).
+
+## Where the story stands after E063
+
+**Orp is dead E062, Zercil dead E063, and Vorel is publicly acknowledged as Great Fang alongside Hope's existing queenship in Tietkalla.** The social price of Hope's rocket, dishonorable interference in Zercil's fight and the deaths of Razak Val's leaders will not be erased by a new title. **The captives are being screened but have not all been released**. The captured black worm, the suspicious man **Follow**, the vanishing girl, **Bramie's murderer**, and the **future-Nash egg theft** remain open. The **Principle still possesses Diontalus's crystal as last shown**, and **Emenil was alive at the last Tietkalla cutoff**.
 
 **Editorial boundary:** The [Year One Q&A](../episodes/BONUS-2019-03.md) preceded the played time jump; the [April bonus roundtable](../episodes/BONUS-2019-04.md) is out-of-character commentary after at least E055, not a substitute for E056. The [active consistency ledger](../world/CONSISTENCY_LEDGER.md) and [review queue](../project/REVIEW_QUEUE.md) track name spellings, evidence limits and unresolved mechanics.
