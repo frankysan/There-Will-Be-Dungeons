@@ -1,6 +1,6 @@
 # The Wastes — active audio, source and editorial review queue
 
-**Status: OPEN tasks, updated 2026-10-22.** Full *Wastes* spoilers through corrected **E060**, with separate [March 2019 Q&A](../episodes/BONUS-2019-03.md) and [April 2019 roundtable](../episodes/BONUS-2019-04.md). **No new listening, SRT editing or handout verification occurred during consolidation.** The [consistency ledger](../world/CONSISTENCY_LEDGER.md) identifies **what remains uncertain versus resolved**. This queue tells reviewers **where to listen or which sources to compare**.
+**Status: OPEN tasks, updated 2026-10-22.** Full *Wastes* spoilers through corrected **E063**, with separate [March 2019 Q&A](../episodes/BONUS-2019-03.md) [April 2019 roundtable](../episodes/BONUS-2019-04.md) and [June 2019 Q&A](../episodes/BONUS-2019-06.md). **No new listening, SRT editing or handout verification occurred during consolidation.** The [consistency ledger](../world/CONSISTENCY_LEDGER.md) identifies **what remains uncertain versus resolved**. This queue tells reviewers **where to listen or which sources to compare**.
 
 **Complete historical backlog preserved:** The entire ~73k-character pre-Phase-D [review queue, including its many timed episode-by-episode tasks](../research/legacy/2026-10-22/PROJECT_REVIEW_QUEUE.md), is frozen with functioning relative links. Its outstanding tasks were **not automatically closed** by omission from this shorter index. The original [consistency issue register](../research/legacy/2026-10-22/WORLD_CONSISTENCY_LEDGER.md) also preserves exact issue keys and status history.
 
@@ -140,13 +140,31 @@ This is a **batch routing grid**, not a statement that every cue within a listed
 
 **Status corrections:** E056 Emenil cliffhanger **resolved by E057**, E058 prisoner-release promise **resolved as actual named return E059** (not whole population), and E059 Diptak **alive** changes to **dead E060**. These are **provisional processed-source cutoffs** and still warrant targeted listening.
 
-## 7. Work completion checklist
+## 7. E061–E063 — Great Fang succession, mysteries and humanitarian consequences
+
+| Priority | Source / approximate recording time | Specific verification and evidence boundary |
+|---|---|---|
+| **Critical** | E061 ~00:05–00:25, ~01:03–01:14, ~02:50–02:56 | **Apparent future-Nash identity**, time-barf explanation, egg request, **Knock**, Nash's **Sleep** on guards, **Bramie alive after theft** and conditions of Nash's secrecy/confession. Do not upgrade alleged time travel to a physical fact or merge **theft** with **murder**. |
+| **Critical** | E061 ~01:30–02:14, E062 ~00:08–00:35 | **Tyrant's Bane in Bramie's back**, three identical footprints plus separate lizard tracks, guard testimony, and Vorel's **appointed sheriff** role. **Killer unconfirmed** even though E063 Vorel accuses Zercil. Check preserved **Fengar egg** ownership/powers as oral prophecy, not a verified magic item sheet. |
+| **High** | E061 ~00:25–01:03 | Exact **Vorel Rasvim Kurik**, family god-killer vs **Eye of Groxl**, **Closthi/Telestar** legend, Zark envoy (**Kervalon/Demon Vold/Dollo Poppio**) and Hope's proposed Tietkalla support. Distinguish clan religious/historical claims from actual meetings or deployment. |
+| **Critical** | E062 ~00:35–00:48, ~01:11–01:32 | **Zercil's proposed marriage/subordinate succession** and Vorel's refusal; abrupt transition from **planned sunrise scaling** to actual fight; whether **Mawstorm sword is absent** and **Eye of Groxl flaming shield** used. Distinguish self-bestowed vs externally conferred titles in [Vorel register](../world/characters/vorel.md). |
+| **Critical** | E062 ~01:32–02:13 | **One-use Hope rocket redirects onto Vorel via Eye of Groxl**, 60-foot blast, exact **Mirion, Typalla, Elder, Toxar, Seeman Featherscale, Mola Janda** fatality rolls and **Omnom/Yomi/guard/drummer survivors**. Avoid assuming 30–40 equals audited total or no innocent victims. |
+| **Critical** | E062 ~02:13–02:34, E063 ~00:08–00:31 | **Vorel kills Orp with Eye shield**, publicly acclaimed Great Fang E062. **Zercil alive at E062 cutoff**, tries E063 leadership gift/transfer but crowd chooses Vorel. Confirm exact **formal recognition vs self-awarded titles** and who witnesses it. |
+| **Critical** | E063 ~00:29–01:18 | **Stanley's hidden Healing Word**, Nash dragon/bowing crowd, **Vorel's worm-behind-eyes observation**, **nonlethal intent vs Hope's lethal Obsidian Nail**, lucky coin charge, witnessed dishonorable interference and crowd's renewed acclaim. **Zercil is actually dead E063**. |
+| **High** | E063 ~01:17–01:34 | **Private young disappearing human girl** (Stanley only), **Necklace of Fireballs with five beads physically recovered** from Orp, not merely proposed; corpse harvesting/role of Vorel's meat blessing. |
+| **Critical** | E063 ~01:35–02:15, ~02:30–02:53 | **200–300 starving humans in man's pit**, sun-witness claims/language, **planned freedom vs completed transport**, Nash's improvised exam rooms, and Stanley's **Follow/Follo** examination, distinct temporary confinement, possible supernatural impression. **No verified identity reveal/parasite in Follow**. |
+| **High** | E063 ~02:15–02:30 | **Live black worm captured from Zercil's bed**, method/host status unknown; **three surviving Fengar children including Felcha** learn both parents died; exact family relations and guards' exposure must be checked. |
+| **High** | E061–E063 / item and clan sheets | Verify **Bramie/Baymie**, **Zercil**, **Mola Janda/Yomi Zantlar**, **Kervalon**, **Demon Vold**, **Follow**, **Tyrant's Bane**, remaining Lucky Coin use, **Mawstorm** creator spelling and **Eye of Groxl** combat effects against original audio/handouts. No direct edit to source SRTs. |
+
+**Status/cutoffs:** **Orp alive E060 → dead E062; Zercil challenger E061/E062 → dead E063; Vorel's Great Fang title is publicly recognized E062**, while **Bramie's murder remains unsolved and the newly announced mass emancipation is not finished by E063**. New dossier prose is processed-ASR research, not audio-verified.
+
+## 8. Work completion checklist
 
 - [ ] Listen to selected critical cues and create **audio-grounded transcript excerpts** with timestamps and performer attribution.
 - [ ] Reconcile original contracts, house records and item handouts with spoken claims; if unavailable, record that explicitly.
 - [ ] Update only the affected **active ledger key**, source dossier and consolidated reference entry, with evidence and date.
 - [ ] Preserve raw SRT outputs and historical archived alternatives, never silently overwrite source recognition.
 - [ ] Run relevant documentary/index validation after edits; where **local files or code** change, run their applicable test suites and pass before claiming completion.
-- [ ] Continue source-backed review **after E060**; E055–E060 and all three currently reviewed 2019 bonuses have provisional dossiers, **not independently listened/verified**.
+- [ ] Continue source-backed review **after E063**; E055–E063 and all three currently reviewed 2019 bonuses have provisional dossiers, **not independently listened/verified**.
 
 **Editorial consolidation is not audio verification.** Full [legacy queue](../research/legacy/2026-10-22/PROJECT_REVIEW_QUEUE.md) remains available for every fine-grained pending subtask.
