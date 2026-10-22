@@ -290,7 +290,6 @@ This is a **batch routing grid**, not a statement that every cue within a listed
 
 **E075 cutoff:** **Four protagonists alive**. Vorel faces **charging bugbear force** while Hope has **one red/green portal device**, escape **planned but unplayed**. **Stanley, Nash, Vorel** have **unresolved memory-drain**; **Cerinthala returned from E074 death, betrayed party and escaped**, **Toby's visible body defeated**. **Illithid operator dead and three worms destroyed**, but **disk not recovered**. **Sira still abducted** and **Traversal Drive unexamined**.
 
-
 ## 14. E076–E077 and October 2019 bonus — source verification
 
 | Priority | Source time | Exact review question / effect on published documentation |
