@@ -1,8 +1,8 @@
 # Arc Three — Strangers in the City of Doors
 
-**The Wastes, third researched story arc — opening chapters, corrected E082–E088 (ongoing)**
+**The Wastes, third researched story arc — opening chapters, corrected E082–E089 (ongoing)**
 
-**Full spoilers through E088.** This is an **initial narrative**, not a completed arc or an audio-verified transcript. It retells the **played sessions** from their [source-first dossiers](../episodes/E082.md), [E083](../episodes/E083.md), [E084](../episodes/E084.md), [E085](../episodes/E085.md), [E086](../episodes/E086.md), [E087](../episodes/E087.md) and [E088](../episodes/E088.md), which are based on processed ASR. Dialogue is paraphrased; uncertain names and planar explanations are not certified by this prose. The [December 2019 cast Q&A](../episodes/BONUS-2019-12.md) is retrospective context, **not another chapter of events**. This is **The Wastes**, wholly separate from *Inverse*.
+**Full spoilers through E089.** This is an **initial narrative**, not a completed arc or an audio-verified transcript. It retells the **played sessions** from their [source-first dossiers](../episodes/E082.md), [E083](../episodes/E083.md), [E084](../episodes/E084.md), [E085](../episodes/E085.md), [E086](../episodes/E086.md), [E087](../episodes/E087.md), [E088](../episodes/E088.md) and [E089](../episodes/E089.md), which are based on processed ASR. Dialogue is paraphrased; uncertain names and planar explanations are not certified by this prose. The [December 2019 cast Q&A](../episodes/BONUS-2019-12.md) is retrospective context, **not another chapter of events**. This is **The Wastes**, wholly separate from *Inverse*.
 
 ## Prologue — After the light
 
@@ -356,15 +356,81 @@ The Clerk's Ward still waits. Somewhere among Sigil's countless doors may be the
 
 [E088](../episodes/E088.md) · [Shopping and time-cutoff comparison](../reports/E088_ASR_COMPARISON_2026-10-22.md)
 
+## XVII. The heart has a body again
+
+Eight days after the reunited party began planning to live in Sigil, **Nash wakes with his entire body restored**. His red eye, damaged skin and familiar disfigurements are still his, but so are two arms and two legs. He has barely had time to enjoy the discovery before a white bird flies through the window and tries to peck him in the eye. Nash swats it away. It bites Stanley on the cheek. **Vorel hurls a water pitcher at it**, bringing it down, and carefully covers the limp creature with a pillowcase so it cannot escape unnoticed.
+
+Nash parades his newly returned anatomy before his unimpressed friends. The clothes arranged for him during his recovery make him look, in Stanley's estimation, like a schoolboy. Hope and Stanley have handsome new outfits, Vorel a tuxedo, and the **Soggy Feather** now glows with the marionette machine Vorel had installed. Life almost looks settled. Then the day's paper arrives.
+
+**M Sports Weekly** carries a large image of **Kanja** and the headline that the former champion has been **found dead**. The report describes a hanging and fire at his home, with some of the small people who lived within his false body discovered dead as well. The **Harmonium** is investigating. The day before the party saw **Mind Master threaten Kanja through Kidigree's mirror**, supported by men in the black clothing of the **Order of the Crimson Moon**. The news makes the connection frightening, but **neither Vorel nor the newspaper has identified the murderer**.
+
+Remembering the bird, Vorel races back upstairs. The covering has been disturbed and the bird is gone. Perhaps it was only stunned, and perhaps it has flown away to die. Vorel prefers to wonder whether even Sigil's birds can be spies. No evidence settles the matter.
+
+There is a more pressing question now that Nash is whole again: **how do the five get home?** Bill previously suggested the **Clerk's Ward**, where information about Sigil's countless hidden portals may be held. Dressed in finery meant to convince bureaucrats they are important, the companions hire a rickshaw in the Merchant's Ward.
+
+Its puller is a splendidly muscular man called something like **Fanbo Joe**, whose true passion is **urban poetry**. He dreams of being published and invites them to hear his set at the **Dangly Dozen** on Friday night. He also tells Vorel about a gym where he could train. Vorel is delighted by the man's physique and even steps down to help run the carriage, while his companions watch with a mixture of amusement and disbelief. A tentative future evening of poetry is agreed; no one attends it yet.
+
+The **Clerk's Ward** is quieter than their part of Sigil, packed with tall buildings, well-dressed people and offices whose purpose is seldom obvious from the street. They buy frogs on sticks and speak with a vendor who explains that **knowing the whereabouts of a portal** is often more profitable than claiming to own it. A gate hidden from strangers can be controlled in practice even if the Lady forbids formal ownership.
+
+When the group considers what anyone could import from Earth, Nash reveals more about the **Solar Mines** than he has ever cared to discuss. The energy his masters marketed as **solar** often came from **radioactive material** gathered and piled together to produce heat, poisoning workers and killing many of the people he grew up with. He suspects the Principle might have bought it, though he never saw the buyer's name. His companions listen with new horror to a piece of the past that has left marks all over Nash's body.
+
+They walk into the first official-looking building they can find. It turns out to regulate **horse-drawn carriages**, not portals. A helpful clerk draws them a map. Several blocks away stands the gilded **Portal Regulatory Agency of Sigil**, with a revolving entrance so strange that the party watches other visitors pass through before attempting it themselves.
+
+Inside, an attendant recognizes Vorel's name and the group is offered an appointment. There is one cruel condition. **Hope**, a tiefling, is told that **two armed guards must escort her** because the office believes beings of her ancestry cannot be trusted. Hope quietly makes the guards look like her personal entourage. She is not arrested; the ugly assumption belongs to the people enforcing it.
+
+The portal expert **Duerto** meets them upstairs. His assistant is a familiar face, if a face full of tentacles: **Fax**, the illithid competitor from the Big Time Smackeroo tournament. Hope and Stanley remember other illithids from the Wastes and tense as the two enter, but Fax merely recognizes Vorel and seems interested in his marionette coaching business.
+
+The clerks place an extraordinary headset over their eyes and search an archive known as the **Echo**. The word the party needs is **Earth**, a planet—not the **Elemental Plane of Earth**. At last Duerto finds an entry. There is **one recorded stable portal** to such a world, he tells them. The steward who knows the passage can be found in **the Hive**, under a name that sounds like **Tobacho Fleur**.
+
+The man does not offer to take them there. The Hive is dangerous, impoverished and home to factions he would rather not deal with. The party has **a steward's name and a ward**, not the address of an open door or a key that will safely carry them home.
+
+[E089](../episodes/E089.md) · [Portal evidence and naming checks](../reports/E089_ASR_COMPARISON_2026-10-22.md)
+
+## XVIII. The gifts and ghosts of the Dark Below
+
+Outside the agency, **Stanley** asks a question his companions dislike: **what if Sigil is better than Earth?** In this city he can eat a meal without fighting for it; back home, every promise of a better future seemed to end in loss. Hope reminds him that she has a kingdom to care for. Nash remembers his wife and child. Vorel names friends, unfinished obligations and the possibility that **Chance still drifts in darkness**. They cannot say how much time will have passed on Earth, or whether all those they remember are still alive.
+
+The argument grows quieter over an extravagant meal at a restaurant called something like **the Pig's Foot**. They eat potatoes, gravy, cheese and beef, and taste fizzy cola that to Nash seems almost legendary. Stanley concedes that leaving the Wastes forever would also mean leaving people behind. They agree to **look for a way back**, without pretending it will be easy.
+
+But before entering the Hive, Hope has another hope of her own: the guns she lost when the beam took her body. Vorel remembers the **sewer chambers** where he and Nash arrived and the dead bodies of Hope and Stanley were first found. Perhaps not everything they carried has disappeared. They return to the **Soggy Feather**, exchange their fine clothes for working gear and descend into the **Dark Below** near the Welcome Center.
+
+One chamber contains a rotting small-bodied corpse in shallow filth. Vorel remembers fighting the scavengers who were examining the party's fallen bodies, but the corpse is too decomposed to identify. They search the brackish water and piles of rubbish carefully.
+
+**Stanley touches something metallic with his blade**, stoops to retrieve it, and raises a pistol from the sewer. Hope knows it by the markings on the grip. **It is Scully**, one of the guns she thought gone forever. She takes it back, relieved beyond words. There should be another, if the first survived. The search continues.
+
+It yields an object Nash finds much more amusing than a firearm: a metal implement of suggestive shape that, when Stanley discovers a switch, suddenly opens into **an umbrella**. Nash begins opening and closing it in dramatic quick-draw motions, making an absurd game of it. Later he will name it **Barbara**. For the moment it seems only an embarrassing piece of lost property.
+
+The next thing Stanley hauls from the water is far less ridiculous. It is an **ethereal spectrometer**, smaller than the expensive goggles Vorel tried in the emporium but fitted with the same sort of suspended crystal. Stanley cleans and activates them. His companions become pale blue and white auras, their living forms followed by strange luminous traces. They focus on **Hope and Stanley's necks** and see writing no ordinary eyes can perceive.
+
+Their names glow above marks written in **Infernal or Abyssal**. Hope recognizes enough of the language to understand the dread meaning: **their souls are still destined for the Weir**, with a proprietor named and a **reward if found**. Even their return through Kidigree's mirrors has not visibly broken the claim. There is an additional name on Stanley that the companions have not used before; its precise form remains uncertain. Stanley removes the goggles too suddenly and stumbles with dizziness.
+
+Across the room Nash keeps practicing his umbrella draw. He flourishes **Barbara**, and a **purple door appears in a brick wall**. No one expected a portal to open here. The other companions are still studying the marks on their souls when Nash calls them over.
+
+A thrown stone vanishes through the violet surface. Nash tosses the umbrella after it. Then, with the others holding him, he **puts his head through**. On the far side is a dark, hot space with gritty ground. He brings a light to its mouth and casts **Fire Bolt** into the blackness. For a moment he sees walls alive with **slick, many-legged creatures**. That is enough. Nash pulls back and recommends not going in.
+
+The purple doorway fades. Nash reaches in desperately for his precious umbrella and pulls **Barbara** back just before the brick wall becomes solid again. **None of the five has traveled through bodily**; there is no sign that this is the Earth portal the agency recorded, nor proof they could summon the door again in the same way.
+
+At the chamber where Vorel and Nash first appeared, they find a different scene from the one Vorel remembers. **Six or seven bodies** lie scattered among broken scavenger equipment. Something small stirs under the rubbish. It is **Java the Carver**, a rat-man who recognizes Vorel.
+
+Java says the people to whom Vorel sold rights to the arrival site have been **killed and robbed by the Rat King's people**. The rats searched for the vanished arrival portal, too, but found nothing. Java is quick to explain that rats are everywhere under Sigil and will one day inherit the city. Vorel gives him the indulgence of a listener who needs information.
+
+Hope shows the rat-man **Scully** and asks after its twin. Java remembers another strange gun. He says he sold it to a man named **Fedor**, claiming it was a demonic charm that enhanced virility. After **nine gold pieces in bribes**, he reveals the buyer's connection: Fedor works for a great merchant of the **Hive**, **the very same Tobacho Fleur** named by the portal agency.
+
+A gun and a doorway. The party has found two reasons to visit the same dangerous ward, and neither tells them how safely to get there. Java can move unseen through the rat-sized tunnels of the Dark Below, but the tall travelers cannot. The Hive's surface streets are open to them, while its underside may be worse than the danger above. Someone suggests becoming small enough to follow the rats, but no spell plan is workable for everyone.
+
+The five stand among the wreckage, **Hope holding Scully, Stanley carrying evidence their souls are still claimed, and Nash guarding his ridiculous umbrella**, and consider which way to enter the Hive. For now, the homeward portal remains only a record and a name.
+
+[E089](../episodes/E089.md) · [Sigil and the Hive lead](../world/places/sigil.md)
+
 ## An open door, not an ending
 
-The four who entered the beam at CHIDS have, for the first time since that night, **been reunited as their living selves**. **Hope and Stanley return through Kidigree's mirrors by choices played by their own players**, though the original inert bodies remain in the chapel and the Weir's infernal markings are not erased. **Nash** is still rebuilding his heart-body, but can now cast ordinary magic again: the GM has **explicitly withdrawn the earlier Sigil-wide suppression ruling**. **Vorel** retains a champion's title and the burden of having cheated his way to it.
+**The four survivors of the CHIDS beam are together again**. **Hope and Stanley have returned through mirrors**, though the original corpses remain with Kidigree, and the newly recovered spectrometer confirms their **Weir destiny markings persist**. **Nash has fully regrown his body after eight days**, with his damaged skin and red eye, and can cast normally following the E088 GM correction. **Vorel** still bears the title and fortune won by his unfair BMF championship, but has neither purchased the Soggy Feather nor led everyone back to Earth.
 
-**Squirts** remains at the trickster chapel and **Nothing** has an outstanding Pelvis/Abyss commission. In a mirror the party has also seen **Mind Master accompanied by Crimson Moon enforcers** threatening Kanja's miniature population, but **the client behind the original inn assassination remains unidentified**.
+**Kanja's murder is reported by M Sports Weekly**, and a Harmonium investigation has begun; earlier **Mind Master/Crimson Moon** threats suggest a suspect but **do not settle responsibility**. Nothing's separate **Pelvis/Abyss commission** remains unperformed, and Squirts stays near the trickster chapel. Earth’s **Traversal Drive, the Principle, Chance, Sira and Eddie** have no newly witnessed outcomes.
 
-The Soggy Feather houses the party for a prepaid month. It now contains a purchased professional marionette station, and the party has received three new outfits; **Bill and Pam have not sold the inn**. A **potential eight-day rest is discussed, not demonstrated complete**. Most equipment was not replaced on screen, and **no portal to Earth has been found**.
+The **Portal Regulatory Agency** has furnished a **single recorded stable Earth-portal entry** and a reputed steward, **Tobacho Fleur**, in the **Hive**. **Hope has physically recovered Scully**, while her second pistol has been traced by ratfolk testimony to a member of the same steward's network. A novelty umbrella called **Barbara** appeared to coincide with another temporary portal, but no one knows its destination or whether it can be repeated. The party has **not entered the Hive, found the stable portal's exact address or crossed to Earth**.
 
-**This narrative currently ends at E088** after the first shopping deliveries and plans for further recovery. The [chronology](../world/CHRONOLOGY.md) and [episode dossiers](../episodes/E088.md) preserve the exact source cutoff, uncertain names and which future purchases or expeditions were only proposed.
+**This narrative currently ends at E089**, with the party weighing a street approach against dangerous rat-sized sewer routes. The [chronology](../world/CHRONOLOGY.md), [E089 dossier](../episodes/E089.md) and [ASR comparison](../reports/E089_ASR_COMPARISON_2026-10-22.md) preserve the distinct types of testimony and unresolved names.
 
 ### Later commentary, separate from the action
 
