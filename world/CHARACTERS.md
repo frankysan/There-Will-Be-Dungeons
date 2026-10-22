@@ -175,7 +175,6 @@ In [E056](../episodes/E056.md), **George Miller appears as an attacking spirit**
 
 **At E075 cutoff:** All four alive. **Vorel's bugbear bait has triggered a charge; the group has not used the portals to escape**. Cerinthala has **revived and fled**; **Toby's visible forms are dead**, three characters **have unresolved memory loss**, **Sira remains captive**, and the **Traversal Drive itself has not been inspected**. Sources are **processed SRTs, not audio-verified**.
 
-
 ## Status after E077
 
 **[Vorel](characters/vorel.md):** Leads the E076 flight from charging bugbears. Wears a **CHIDS anti-dragon nanoweave suit, grappling-harpoon harness, rocket boots and anti-telepathy helmet**; the suit's armor interferes with his prior unarmored AC. In E077, **Eye of Groxl reacts fiercely to the Lethanphius tank and the broken G-R-0-X-1 vessel**. Vorel's fingers and one hand are **severed during combat**, but a **Monster Mender and Nash's frozen recovered parts** permit **GM-narrated reattachment at E077 close**. **Great Fang title unchanged**. The council's GR0X1 prototype claim does not settle the Eye's true history.
