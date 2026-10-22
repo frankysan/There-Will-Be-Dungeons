@@ -119,7 +119,7 @@ In [E056](../episodes/E056.md), **George Miller appears as an attacking spirit**
 
 **Source/evidence:** E066–E067 processed SRT dossiers only, **not independently audio-verified**.
 
-## Status after E068
+## Interim status after E068
 
 **[Vorel](characters/vorel.md):** An asserted **Great Fang** still has no proven authority over Kervalon's riflemen; **Stanley actually transforms him into a T. rex**, which kills several guards, is **briefly mind-controlled** and then broken by hostile gunfire. During the fight Vorel jokingly **accepts “Rex/King Rex”** as an informal epithet, separate from the recognized Great Fang office. **Eye of Groxl** remains one integrated artifact, and a wished-for buzzsaw/hammer mode in the [August Q&A](../episodes/BONUS-2019-08.md) **has not been obtained**.
 
@@ -130,3 +130,19 @@ In [E056](../episodes/E056.md), **George Miller appears as an attacking spirit**
 **[Stanley](characters/stanley-diontalus.md):** **Casts Polymorph** on Vorel into a T. rex; **Diplomacy strikes the illithid-looking body**, which deflates into black oil and skin (its permanent identity unresolved). Stanley provides **Bardic Inspiration, Tiny Hut and Song of Rest**. Beau clarifies in the [August bonus](../episodes/BONUS-2019-08.md) that **Stanley's own intended bespoke artifact has not yet appeared** and **Diontalus arose by accident**; a cleric level remains only a possibility.
 
 **Source horizon:** [E068](../episodes/E068.md) is a played session; [August public-release bonus](../episodes/BONUS-2019-08.md) is retrospective cast/GM testimony. **Sira is still missing**, **Follow and Rorf remain dead**, and the **sealed lizardfolk corridor's fate is unknown**. Neither the mind flayer's lasting destruction nor the machine's function is proved. All source passages remain **provisional ASR, not audio verified**.
+
+## Status after E071
+
+**[Vorel](characters/vorel.md):** At CHIDS **helps break Hope free of an armed ID checkpoint**, draws **psychic light-creatures** with singing and repeats **“Lizard King”**; an additional `one step king` lyric awaits listening before acceptance as a title. **Enlarged by Nash**, he swings **fiery hounds as improvised clubs**, kills an active security ape E071, and confronts **Alvert's** claims of hell and gene farms. Recovered **Eye of Groxl** remains single owner-confirmed artifact. He is last wearing **one shared pair of magical flying briefs**, carrying Nash into a frozen overhead duct. [E069](../episodes/E069.md) · [E070](../episodes/E070.md) · [E071](../episodes/E071.md).
+
+**[Nash](characters/nash-maggard.md):** E069 gains **cooling/flight underwear**, then is **poisoned at an oxygen bar** with **no explicit recovery confirmed**. In E070 a disgruntled **[Charles Dickens](characters/charles-dickens.md)** allegedly from the illithid Void Realm recruits Nash/Hope to **upload false project reports**; E071 a console message identifying as Charles confirms receipt, **not measured sabotage effect**. Nash casts **Enlarge, Absorb Elements and Dimension Door**, then at data center uses **Fire Bolt** before **Vorel carries him aloft**. [E069](../episodes/E069.md)–[E071](../episodes/E071.md).
+
+**[Hope](characters/hope-akmenos.md):** **Old funicular sleep/crash** and rescue via Stanley's *Feather Fall*. Finds work cards/whiskey; accidentally poisons Nash; **ID barrier guns target her**. The E069 tentacled cliffhanger resolves E070 as a **squeaking plush**, which she keeps. In the headset she assumes **cockroach, coffee mug and car avatars** while Nash uploads false data; she escapes physically and helps fight **fiery hounds**. Her **shotgun arm jams E070 and is cleared E071**, and she identifies the **data-center overhead ventilation** route. [E069](../episodes/E069.md)–[E071](../episodes/E071.md).
+
+**[Stanley](characters/stanley-diontalus.md):** **Feather Fall saves the funicular riders** E069. In E070 he remains in the physical conference room while Nash and Hope enter the virtual office, then **Polymorphs one gigantic security ape into a snail**. In E071 he helps kill hellhounds, later **recovers the snail** and sends it away **living in a railcar**, with **unobserved future fate**. He heats metal at the frozen data-center entrance/overhead duct, and enters with the party. [E069](../episodes/E069.md)–[E071](../episodes/E071.md).
+
+**[Alvert](characters/alvert.md):** Introduces himself E071 as **an imp from the Underworld Bureau of Investigation**; his allegations about **hell versus Weir soul claims, the Principle's scientist origin and rumored human biomass processing** remain **witness claims**, not verified biography. He stays **outside the data-center vent**.
+
+**[Charles Dickens](characters/charles-dickens.md):** A resentful **illithid corporate worker in a headset-mediated office** claims to possess a report-sabotage plan to delay **Ovaxiad's Traversal Drive**. E071 computer message claims **upload success**, without witnessed physical machine impact.
+
+**At E071 cutoff:** **Sira is still abducted; Follow and Rorf remain dead.** No completed rescue, no long rest at Archives, no machine examined. **These are provisional processed-ASR source findings**, not audio-verified. 
