@@ -1,0 +1,38 @@
+# E086 — Don't be such a Berk: dual-ASR comparison (2026-10-22)
+
+> **Two exports of the same ~2 h 55 m Wastes episode; no audio verified and no existing SRT edited.** [Episode research dossier](../episodes/E086.md). This report preserves **inter-ASR differences** as candidates for actual listening. **Do not treat the majority or either recognizer as ground truth.**
+
+## Inputs and quantitative text-only comparison
+
+| File | Filename-labelled processing | SRT cues | First caption / approximate final cue | Normalized words |
+| --- | --- | ---: | --- | ---: |
+| [Parakeet processed](../sources/The%20Wastes%20S1E086.%20Don%27t%20be%20such%20a%20Berk.parakeet.processed.srt) | Parakeet processed; actual model build/settings **not provided** | **2,807** | **00:00:11.8 / 02:54:44.1** | **24,647** |
+| [Qwen Q8 / Canary CTC / Nemotron](../sources/The%20Wastes%20S1E086.%20Don%27t%20be%20such%20a%20Berk.qwen-q8.canary-ctc.nemotron.srt) | Combination per filename, exact model builds/settings **not provided** | **4,770** | **00:00:04.2 / 02:54:45.2** | **24,984** |
+
+**Method:** parse full SRT, combine cue text, remove `(speaker N)` decorations, Unicode casefold with JavaScript lowercase, remove apostrophes/punctuation, normalize whitespace and compare ordered word tokens using unit-cost Levenshtein edit distance. **1,946 word edits / 24,647 Parakeet tokens = 7.90% first-export-relative machine-transcript disagreement.** This is **not audio-grounded WER, omission/hallucination rate, timing accuracy, or quality ranking**. Caption segmentation differs, but **more cues do not prove more speech covered**. Different start times are **caption onset**, not a demonstrated missing phrase. This assessment contains **no listening, reference-alignment verification, new inference execution, known runtime speed, hardware measurements, model build IDs, source audio checksums or stable speaker attribution**.
+
+## Disputes and high-stakes semantic checks
+
+| Approx. clock | Recognition / adjudication risk | What can safely be documented |
+| --- | --- | --- |
+| **00:03–00:16** | Attackers' red moon/howling wolf insignia, jawless ninja, exact numerical combat damage; GM has no working D&D Beyond sheets and adjusts interpretation. | **Multiple assailants enter**, disappear to dust and leave clothes when defeated, **Nothing and others fight**, **Vorel tries and fails to summon Lady**. Rules and action totals should not be treated as immutable stat blocks. |
+| **00:17–00:29** | Nash's dragon-heart power named **Heart of Kazdin / Kaz Desiray**; **acid-specific item description** versus GM's **fire** language, breath cone and self-cast spell. | **Nash successfully activates a retained item ability and burns enemies** without a purchased Sigil spell key. **Exact damage type, item name and duration** require character sheet/audio corroboration before canonization. |
+| **00:39–01:05** | Woman leader's disabling attack, name-less jawless soldiers, Squirts Command and the mattress hold. | Vorel attempts **nonlethal live capture**, Squirts **locks down the special leader with Command**, Nash **burns her before questioning**, with **dust rather than a recoverable corpse**. No objective ninja respawn mechanic shown. |
+| **~01:05–01:25** | Private GM disclosure to **Jon alone**: **Order of the Crimson Moon**, near-legendary costly assassins. Player later guesses numerous variations via Nothing's mimicry. | The **guild identification has GM authority as Nothing's private knowledge**, but employer/cost/motive unknown; companions only decipher name later. Need listen to exact emblem and private name. |
+| **~01:29–01:39** | More Nash regrowth, Arcane Spice day's **200 gp deal** and billboards; uncertainty about accepted vs paid. | Nash extends one previous foot with **calf+thigh**. Vorel **agrees to one-day blue cape promotion**, but arrangement is **canceled before any paid transfer**. |
+| **~01:40–02:00** | Priest called **Kidagri/Kidigree**; ingredient approximations **Mjini Taki, borderheads**, Squirts' improvised blessing mechanics, squirrel eyes, delayed drug effect. | **Potion is made and swallowed**, **performance enhancement is claimed**, finals' **doping prohibition applies**. Neither safe formula, exact buff nor successful match effect established. |
+| **~02:01–02:17** | Child is called **dead** repeatedly but cast then discusses death saves and Squirts later **casts Spare the Dying**. Its direct magical stabilization versus immediate healing/speech is **GM game-specific adjudication**. | **Squirts severely burns, drags away and conceals an apparently dead young lizardfolk. Later finds him, uses Spare the Dying; the child speaks and runs away.** It is **wrong to call this a completed homicide** and equally wrong to omit its serious consequences. Sponsorship **rescinded on apparent killing**, not reinstated. |
+| **~02:17–02:24** | Official **Pentheon/Pantheon**, commission name, showtimes and penalties. | **1 p.m. pickup for 3 p.m. larger finals**, which **are not played**; magical performance aid can disqualify, previous crime not automatically sporting disqualification. Do not endorse NPC's moral reasoning as Sigil law. |
+| **~02:24–02:42** | Rug seller **Zarfur/Zarfour**, cape maker **Lohar/Lorhar**, proposed **20 gold**. | Vorel obtains **red Soggy Feather cape free** after merchant waives the 20 gold because of celebrity attention. No 20 gold deducted, cape not mechanically magical. |
+| **~02:42–02:54** | **Spell keys**, schools of magic, powerful multi-school keys, **500 gold each vs twelve payments of 50**; ID/credit/faction requirement. | **Nash learns what he needs but buys none**; later **GM explains Lady of Pain's damping field** and rarer power keys. 500 principal / 100 interest is conditional merchant financing, not loan completed. **25,000 gold** is **in Tietkalla vault**, not in Nash's present pocket or simply disintegrated. |
+
+## Specific follow-up checks
+
+1. **Listen** at **~00:20–00:28** for the heart's *written* power, preferred damage type, “fire/acid” contradiction and exact proper name. Check the historical **D&D Beyond sheet or handout** separately: public current character sheets may reflect end-of-campaign changes.
+2. **Listen** at **~01:05–01:10** to the private guild disclosure. Do **not** automatically assume the Order of the Crimson Moon was working for Pelvis, the priest, Ventro or the Soulbroker.
+3. **Listen** at **~02:01–02:16** for the exact child death/stabilization adjudication; **do not replace the observed running child with a corpse**, or pretend the witnessed burning was harmless.
+4. **Verify** the magical enhancer ingredients, **actual poison antidote vs combat enhancement**, possible stealth blessing and two eye contents, then search later episodes for effect or doping detection.
+5. **Listen** at **~02:43–02:53** for the distinction between in-scene merchant statements and **out-of-character GM reveal** about the Lady's magical damping field; verify the 500/50×12 quotation, school/strength coverage, ID and faction rules.
+6. **Check original financial source** for Nash/Stanley's bank-heist cash. The GM says Nash's 25,000 are **still in Tietkalla vault**, while Stanley's *carried* gold was lost. This cannot justify any new in-Sigil spending.
+
+**Next source:** [E087](../sources/The%20Wastes%20S1E087.%20The%20Championship.parakeet.processed.srt) only if that exact filename exists; check tree before referencing it in future documentation. **No E087 evidence was used here.** [Review queue](../project/REVIEW_QUEUE.md) · [ASR experiment log](../project/MODEL_TESTS.md).
