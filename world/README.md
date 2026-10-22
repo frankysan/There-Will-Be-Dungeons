@@ -12,10 +12,10 @@
 | [Places](PLACES.md) | **Consolidated place index** and dedicated location profiles for Dusthill, Slavetown, the Black Mine, Château Weir and Tietkalla | **Phase B first-pass profiles available** |
 | [World and history](WORLD.md) | **Consolidated thematic reference**: the ancient catastrophe, settlements, factions, dragon technology, Soulbroker pacts, artifacts, religion and contested lore | **Phase C first-pass rewrite available** |
 | [Unified Year One chronology](CHRONOLOGY.md) | **Single 53-episode main-story sequence**, story-time versus release exceptions, and a compact ledger of later resolutions | **Phase C first-pass rewrite available** |
-| [Consistency ledger](CONSISTENCY_LEDGER.md) | Stable keys, accepted spellings, source conflicts, historical episode cutoffs and open canon questions | **Research ledger; resolved/open split planned** |
+| [Active consistency ledger](CONSISTENCY_LEDGER.md) | **Open questions, owner decisions, later source-cutoff resolutions** and links to detailed evidence | **Phase D first pass available** |
 | [Structured entity seed](entities.json) and [schema](ENTITY_SCHEMA.md) | Machine-readable E000/E001 seed | **Not yet synchronized with all subsequent episode dossiers** |
 
-The **character and place indexes are now subject-centered**, with their earlier batch research preserved as [character](../research/legacy/2026-10-21/WORLD_CHARACTERS.md) and [place](../research/legacy/2026-10-21/WORLD_PLACES.md) snapshots. The **world-history and chronology rewrites are also available**; their original detailed research was archived on [2026-10-22](../research/legacy/2026-10-22/README.md). The **consistency ledger alone remains an append-only compendium**, pending Phase D.
+The **character and place indexes are now subject-centered**, with their earlier batch research preserved as [character](../research/legacy/2026-10-21/WORLD_CHARACTERS.md) and [place](../research/legacy/2026-10-21/WORLD_PLACES.md) snapshots. The **world-history and chronology rewrites are also available**; their original detailed research was archived on [2026-10-22](../research/legacy/2026-10-22/README.md). The **active consistency ledger and review queue** now distinguish current questions, resolutions and review priorities. Full earlier registers are preserved in the [2026-10-22 research archive](../research/legacy/2026-10-22/README.md).
 
 ## A few major source distinctions
 

@@ -1,6 +1,6 @@
 # Year One documentation consolidation — implementation checklist
 
-**Status (2026-10-22):** **Phases A–C completed as first editorial passes**. Phase D (consistency-ledger cleanup) and independent audio verification remain pending. Follow [the architecture](DOCUMENTATION_ARCHITECTURE.md) for the full target design and source-evidence rules.
+**Status (2026-10-22):** **Phases A–D structurally consolidated as first editorial passes**. Audio/handout verification and comprehensive minor-entity review remain open. Follow [the architecture](DOCUMENTATION_ARCHITECTURE.md) for the full target design and source-evidence rules.
 
 ## Phase A — architecture, narrative and navigation
 
@@ -37,11 +37,13 @@ Start with the **four protagonists**, then **major allies/adversaries**, then ma
 
 ## Phase D — ledger and editorial cleanup
 
-- [ ] Refactor `world/CONSISTENCY_LEDGER.md` into **active uncertainty/index** with **resolved decisions linked to `DECISIONS.md`**, archiving the full original research ledger.
-- [ ] Remove or label outdated duplicate research passages; **never erase their archived evidence**.
-- [ ] Check inbound links to moved headings and keep redirects/anchors or update all references.
-- [ ] Review completeness against all E000–E054 dossiers and [Q&A bonus](../episodes/BONUS-2019-03.md).
-- [ ] Validate no broken Markdown links or falsely completed items, and run available source/documentation checks where appropriate.
+**Structural pass complete (2026-10-22):** Full [former consistency ledger](../research/legacy/2026-10-22/WORLD_CONSISTENCY_LEDGER.md) and [former review queue](../research/legacy/2026-10-22/PROJECT_REVIEW_QUEUE.md) archived before rewriting. Active [open/resolved index](../world/CONSISTENCY_LEDGER.md) and [prioritized review queue](REVIEW_QUEUE.md) now serve different purposes. **No new audio or handout verification**.
+
+- [x] Refactor `world/CONSISTENCY_LEDGER.md` into **active uncertainty/index** with **resolved decisions linked to `DECISIONS.md`**, archiving the full original research ledger.
+- [x] Remove or label outdated duplicate research passages; **never erase their archived evidence**.
+- [x] Check inbound links to moved headings and keep redirects/anchors or update all references.
+- [x] Verify **structural source coverage** across all E000–E054 dossiers, E013.5 and [Q&A bonus](../episodes/BONUS-2019-03.md) using the [review routing grid](REVIEW_QUEUE.md). **Full audio/handout-level completeness is not claimed** and remains open.
+- [x] Validate no broken Markdown links or falsely completed items, and run available source/documentation checks where appropriate.
 
 ## Important migration rule
 
