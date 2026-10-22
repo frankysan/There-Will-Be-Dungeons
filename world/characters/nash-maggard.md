@@ -1,6 +1,6 @@
 # Nash Maggard
 
-**Portrayed by:** Scott. **Identity:** Wasteland traveler and spellcaster, with an implanted dragon-metal heart. **Year One status:** Alive; physically changed, allied with newly crowned Hope. **Spoilers:** Main Wastes through E081; retrospective Q&A comments kept separate from direct play. **Evidence:** Processed SRTs/dossiers, not independently audio-verified.
+**Portrayed by:** Scott. **Identity:** Wasteland traveler and spellcaster, with an implanted dragon-metal heart. **Arc One status:** Alive; physically changed, allied with newly crowned Hope. **Spoilers:** Main Wastes through E081; retrospective Q&A comments kept separate from direct play. **Evidence:** Processed SRTs/dossiers, not independently audio-verified.
 
 ## Character and history
 
@@ -24,7 +24,7 @@ In the [June 2019 bonus](../../episodes/BONUS-2019-06.md) (~00:05:37–00:07:05)
 
 **Primary scene trail:** [E000](../../episodes/E000.md) · [E001](../../episodes/E001.md) · [E017](../../episodes/E017.md) · [E018](../../episodes/E018.md) · [E023](../../episodes/E023.md) · [E024](../../episodes/E024.md) · [E031](../../episodes/E031.md) · [E037](../../episodes/E037.md) · [E049](../../episodes/E049.md) · [E050](../../episodes/E050.md) · [E051](../../episodes/E051.md) · [E052](../../episodes/E052.md) · [E053](../../episodes/E053.md) · [E054](../../episodes/E054.md) · [Q&A](../../episodes/BONUS-2019-03.md) · [open checks](../../project/REVIEW_QUEUE.md).
 
-## After Year One — E055–E056
+## After Arc One — E055–E056
 
 **Three months later**, Nash is **expecting a child with Angelashi**. Their relationship and his weekly **puppet shows** using the small extra hand are played downtime status. Repeated Solar Mines nightmares torment him; his opening E055 truck-crushing, dynamite and **P0D** reunion are **a dream**, not a physical death or return of the pixie. When stones fall he helps civilians evacuate into sewer shelters, later fights **George's hostile ghost**, and speaks to **P0D as a spirit** who asks him to follow her. Nash **stays alive in the material world**. He also helps prepare diamond dust for Vorel's restoration. The ethereal meeting confirms a scene of supernatural communication, **not P0D's bodily resurrection or an independently proved heavenly geography**. [E055](../../episodes/E055.md) · [E056](../../episodes/E056.md) · [April roundtable](../../episodes/BONUS-2019-04.md).
 

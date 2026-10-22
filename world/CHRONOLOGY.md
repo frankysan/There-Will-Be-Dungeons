@@ -1,8 +1,8 @@
-# Campaign chronology — Year One, second arc and Arc 3 in Sigil
+# Campaign chronology — Arc One, second arc and Arc 3 in Sigil
 
 **Horizon:** Corrected **E000–E082** main *The Wastes* campaign, with explicit exceptions for the **E013.5 supplemental**, **E043 holiday one-shot** and the **March 2019 Q&A**. **Spoilers:** Main Wastes through E082 and March/April/June/July/August/September/October/November-publication 2019 bonus discussions. **Research status:** The events below are consolidated from **unverified processed Parakeet episode dossiers**, not independent listening; times within individual episodes remain in their [source-first dossiers](../episodes/E000.md). The full **pre-Phase-C chronology**, including detailed recorded cue windows and historic uncertainties, is [preserved here](../research/legacy/2026-10-22/WORLD_CHRONOLOGY.md).
 
-**Reading key:** Each row covers a **played episode or directly observed outcome** in narrative order. A **reported death, genealogy, prophecy, pact history or offscreen action** remains an attributed report unless independently played. The **episode's own cutoff** matters: E048's rescue is real even though Tedna dies E050; E048's report about Angelashi is not proof she died before her E054 rescue. For a connected story, use [Year One narrative](../narrative/YEAR_ONE.md); for subject facts use [world history](WORLD.md) and [character](CHARACTERS.md) / [place](PLACES.md) profiles.
+**Reading key:** Each row covers a **played episode or directly observed outcome** in narrative order. A **reported death, genealogy, prophecy, pact history or offscreen action** remains an attributed report unless independently played. The **episode's own cutoff** matters: E048's rescue is real even though Tedna dies E050; E048's report about Angelashi is not proof she died before her E054 rescue. For a connected story, use [Arc One narrative](../narrative/ARC_ONE.md); for subject facts use [world history](WORLD.md) and [character](CHARACTERS.md) / [place](PLACES.md) profiles.
 
 ## Before the main campaign — accounts, not dates
 
@@ -12,7 +12,7 @@
 | **Character introductions [E000](../episodes/E000.md)** | **Nash** recounts Solar Mines/Blood Canyons; **Hope** articulates a tiefling past and desire to change history; **Stanley** speaks of government; **Vorel** travels from lizardfolk lands. These are **introductions, subjective backstories and goals**, not all simultaneous events on E001's day. |
 | **Historical settings, uncovered later** | **Pristine's change to Slavetown** is explained in an out-of-character GM briefing [E013](../episodes/E013.md). **Tietkalla's ancient houses, alleged vampiric council, Night Pasture and hidden army** are described by competing ancient actors [E048](../episodes/E048.md) / [E051](../episodes/E051.md). Their internal history is **not fitted to invented dates**; the return of the army happens much later **E054**. |
 
-## Main Year One — one continuous sequence
+## Main Arc One — one continuous sequence
 
 The following table is ordered by **played narrative events** rather than by file creation date or later audience revelations. Its final column links to the **specific episode dossier** where the event is seen, stated or reported.
 
@@ -72,9 +72,9 @@ The following table is ordered by **played narrative events** rather than by fil
 | **Desert return** | [E053](../episodes/E053.md) | The beast **splits**: upper cocoon **escapes skyward**, lower body **falls/dies**. Party escapes lower carcass using a **rowboat robe patch**. Vorel acquires **Eye of Groxl**, independent of his new scale-color change; party retrieves **part** of a hidden hoard and rides **Nash as young dragon** toward the keep. |
 | **Tietkalla throne** | [E054](../episodes/E054.md) | **Angelashi found and freed alive**, disproving earlier death report. **Monsoon escapes as mist** after warning of Andreeste. **Nobiery returns with hundreds of armed tieflings and crowns Hope**; **Vorel executes captive Suck Master Din** at her signal. Leaders discuss rebuilding, **not yet completed**. GM declares **arc end** and proposes future downtime. |
 
-## Year Two — one played sequence after the three-month jump
+## Arc Two — one played sequence after the three-month jump
 
-The following **episode cutoffs** describe what was established *by that recording*. A later row can supersede an earlier “still missing,” “not yet performed” or “alive” statement without making the earlier row historically wrong. For narrative flow, read [consolidated Year Two](../narrative/YEAR_TWO.md); for timestamps, read the linked dossiers.
+The following **episode cutoffs** describe what was established *by that recording*. A later row can supersede an earlier “still missing,” “not yet performed” or “alive” statement without making the earlier row historically wrong. For narrative flow, read [consolidated Arc Two](../narrative/ARC_TWO.md); for timestamps, read the linked dossiers.
 
 | Episode | Played event, time-of-knowledge change and evidence limit |
 | --- | --- |
@@ -166,4 +166,4 @@ This is the **chronological event index**, not an audio-verified corrected trans
 
 **Not an event timeline:** Cast Q&As, the E043 holiday special, the release order of E013.5, GM retrospective intentions, speculative alternate futures and claims by **Quizquaz, the hive, Wall Nash, Cerinthala, Alvert, Charles Dickens and the spectral dragon**. See [editorial guide](../project/EDITORIAL_GUIDE.md), [source review queue](../project/REVIEW_QUEUE.md) and [consistency ledger](CONSISTENCY_LEDGER.md).
 
-**Preservation:** The [previous, much longer chronology](../research/legacy/2026-10-22/CHRONOLOGY_PRE_SECOND_ARC_CONSOLIDATION.md) contains every former full-length episode row and appended cutoff section. Historical Year One chronology and its time-of-knowledge transition table are preserved above.
+**Preservation:** The [previous, much longer chronology](../research/legacy/2026-10-22/CHRONOLOGY_PRE_SECOND_ARC_CONSOLIDATION.md) contains every former full-length episode row and appended cutoff section. Historical Arc One chronology and its time-of-knowledge transition table are preserved above.

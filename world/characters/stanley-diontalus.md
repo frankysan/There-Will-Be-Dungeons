@@ -26,7 +26,7 @@ By the close of E054 **Stanley and Diontalus are still bound to the same body**,
 
 **Episode trail:** [E000](../../episodes/E000.md) · [E001](../../episodes/E001.md) · [E023](../../episodes/E023.md) · [E028](../../episodes/E028.md) · [E029](../../episodes/E029.md) · [E030](../../episodes/E030.md) · [E032](../../episodes/E032.md) · [E034](../../episodes/E034.md) · [E041](../../episodes/E041.md) · [E044](../../episodes/E044.md) · [E045](../../episodes/E045.md) · [E048](../../episodes/E048.md) · [E049](../../episodes/E049.md) · [E050](../../episodes/E050.md) · [E051](../../episodes/E051.md) · [E054](../../episodes/E054.md) · [Buttons](buttons.md) · [Q&A](../../episodes/BONUS-2019-03.md) · [owner spelling decision](../../project/DECISIONS.md).
 
-## After Year One — healer, believer and still a divided body (E055–E056)
+## After Arc One — healer, believer and still a divided body (E055–E056)
 
 **Stanley** takes part in building a **hospital and medical library** and studies with the **Tidebearers** during the three-month interval. **Diontalus remains in his body but unusually dormant**. In the [April roundtable](../../episodes/BONUS-2019-04.md), **Jon explains** that Stanley and Diontalus may take control when the other sleeps and that Stanley **privately intends his medical research also to seek separation**; that private player motive is **not a revealed in-world conspiracy to every party member**. No exorcism or second body occurs.
 

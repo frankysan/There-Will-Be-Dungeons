@@ -1,6 +1,6 @@
 # Angelashi
 
-**Name status:** **Angelashi** is used as a working display spelling based on cast-shared recap forms; **Angel Ashi** appears in episode ASR, and the **word division remains unresolved**, unlike the accepted spelling **Diontalus**. **Identity:** Elven singer and an important companion of Nash. **Year One status:** **Alive and freed in E054**. **Spoilers:** E035–E054.
+**Name status:** **Angelashi** is used as a working display spelling based on cast-shared recap forms; **Angel Ashi** appears in episode ASR, and the **word division remains unresolved**, unlike the accepted spelling **Diontalus**. **Identity:** Elven singer and an important companion of Nash. **Arc One status:** **Alive and freed in E054**. **Spoilers:** E035–E054.
 
 Angelashi is introduced as a performer at the **Golden Gargoyle** in Trashburg, drawing Nash's interest. She travels with him after the club's violence and later speaks privately about her past, including elven/refugee experiences, travel hopes and her magic. Some of those details are **her own account**, not independent confirmation of an ancient itinerary. She uses temporary flower/plant magic around Nash, and the two develop an intimate relationship.
 

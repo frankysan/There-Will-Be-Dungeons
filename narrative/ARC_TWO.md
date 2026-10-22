@@ -1,8 +1,8 @@
-# Year Two — Stones, Souls and the Great Fang
+# Arc Two — Stones, Souls and the Great Fang
 
 **The Wastes, second major researched story arc — corrected E055–E081**
 
-**Full spoilers.** This is an editorial story synthesized from **processed-Parakeet episode dossiers, not independently audio-verified**. Dialogue is paraphrased. **Events the party witnessed** are distinct from private visions, uncertain ASR and explanations given by self-interested speakers. [Year One](YEAR_ONE.md) covers the first arc; the [original longer Year Two draft](../research/legacy/2026-10-22/YEAR_TWO_PRE_ARC_CONSOLIDATION.md) preserves the former episode-by-episode prose.
+**Full spoilers.** This is an editorial story synthesized from **processed-Parakeet episode dossiers, not independently audio-verified**. Dialogue is paraphrased. **Events the party witnessed** are distinct from private visions, uncertain ASR and explanations given by self-interested speakers. [Arc One](ARC_ONE.md) covers the first arc; the [original longer Year Two draft](../research/legacy/2026-10-22/YEAR_TWO_PRE_ARC_CONSOLIDATION.md) preserves the former episode-by-episode prose.
 
 ## Prologue — A crown does not make the world safe
 

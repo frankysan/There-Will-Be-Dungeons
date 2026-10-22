@@ -1,6 +1,6 @@
 # Characters and participants — campaign reference index (through E084)
 
-**Spoilers:** Core table retains its **Year One E054 snapshot**; later status updates cover corrected **E081** and the **E082–E083 Arc 3 opening**, with separate March/April/June/July/August/September/October/November-publication cast Q&As. The [Year One Q&A](../episodes/BONUS-2019-03.md) is not a played episode. **Quality:** These profiles synthesize provisional processed Parakeet SRT research; **they have not been checked against the audio**. For a story rather than an index, see [Year One](../narrative/YEAR_ONE.md).
+**Spoilers:** Core table retains its **Arc One E054 snapshot**; later status updates cover corrected **E081** and the **E082–E083 Arc 3 opening**, with separate March/April/June/July/August/September/October/November-publication cast Q&As. The [Year One Q&A](../episodes/BONUS-2019-03.md) is not a played episode. **Quality:** These profiles synthesize provisional processed Parakeet SRT research; **they have not been checked against the audio**. For a story rather than an index, see [Arc One](../narrative/ARC_ONE.md).
 
 This is now the **subject-focused reference index**, not the append-only episode-batch ledger. The earlier 88,000-character source-first [character compendium is preserved](../research/legacy/2026-10-21/WORLD_CHARACTERS.md); the complete [pre-second-arc consolidation index](../research/legacy/2026-10-22/CHARACTERS_PRE_SECOND_ARC_CONSOLIDATION.md) preserves every additional interim status paragraph. Both archives retain their research history. A character's **earlier beliefs, reported fate and later observed status** must remain distinct. Roles in the podcast are not in-world identities.
 
@@ -17,7 +17,7 @@ This is now the **subject-focused reference index**, not the append-only episode
 
 ## Recurring companions and people close to the party
 
-| Person | Year One situation / why it matters | Profile |
+| Person | Arc One situation / why it matters | Profile |
 | --- | --- | --- |
 | **Buttons** | Intelligent talking cat with Arcanum ties; **killed by Vorel E049**. Only in the **post-arc Q&A** does Beau reveal Buttons' love of Stanley and intended Arcanum intervention | [Buttons](characters/buttons.md) |
 | **P0D / Pod** | Pixie whose testimony introduced the pixie-harvesting trade; involuntarily transformed by **Monsoon's Order 26 E049**, then **killed by Diontalus E050** despite Nash's efforts | [P0D](characters/p0d.md) |
@@ -55,9 +55,9 @@ This is now the **subject-focused reference index**, not the append-only episode
 - **Status is as of E054 unless explicitly dated otherwise**. An earlier “alive,” “missing” or “rumored dead” entry remains correct as history of what was known *then*.
 - **Confirmed display orthography:** **Diontalus** ([D-026](../project/DECISIONS.md)), **Eye of Groxl** one artifact ([D-028](../project/DECISIONS.md)). **Tietkalla** has cast-written support in the matched context. No spelling choice replaces audio review.
 - **GM Q&A disclosures** about Buttons' romantic motives, Nash's engine-heart origin or unused pixie missions are **retrospective information**, not in-story actions ([BONUS-2019-03](../episodes/BONUS-2019-03.md)).
-- **Completeness:** This index highlights the principal Year One cast; the complete earlier list of minor NPCs and source-specific first appearances remains in the [archive](../research/legacy/2026-10-21/WORLD_CHARACTERS.md), not erased or declared nonexistent. Names or actor roles not yet corroborated require a separate review.
+- **Completeness:** This index highlights the principal Arc One cast; the complete earlier list of minor NPCs and source-specific first appearances remains in the [archive](../research/legacy/2026-10-21/WORLD_CHARACTERS.md), not erased or declared nonexistent. Names or actor roles not yet corroborated require a separate review.
 
-[Reference portal](README.md) · [story narrative](../narrative/YEAR_ONE.md) · [evidence ledger](CONSISTENCY_LEDGER.md) · [open review queue](../project/REVIEW_QUEUE.md).
+[Reference portal](README.md) · [story narrative](../narrative/ARC_ONE.md) · [evidence ledger](CONSISTENCY_LEDGER.md) · [open review queue](../project/REVIEW_QUEUE.md).
 
 ## Second arc — the four protagonists from coronation to the Drive
 
@@ -68,7 +68,7 @@ This is now the **subject-focused reference index**, not the append-only episode
 | **[Nash Maggard](characters/nash-maggard.md)** | Angelashi pregnant; **Fate 4 destroyed E066**; learns of purported future Nashes. CHIDS **cooling/flying underwear** used for travel, **ring with stored Chromatic Orbs**; **black-dragon acid breath kills commander E080**. | Joins shared beam **in dragon form**, is forced to human under damage, then **disperses**; GM calls him dead, permanent fate unknown. |
 | **[Stanley / Diontalus](characters/stanley-diontalus.md)** | **Principle extracts Diontalus into crystal E059**. Stanley vows to save **Sira** after Follow's death and refuses Cerinthala's false obligations despite **cursed amulet**. Receives **spell-storage ring**, proposes self-sacrifice, performs **Moha Augury**. | **Sira actually escapes alive** with Eddie; Stanley joins all four in crimson beam, **disperses and is GM-declared dead**. No later Diontalus recovery shown. |
 
-The **previous Year One table above** represents the E054 state at that time; this second-arc table is the **latest researched cutoff**. The detailed character profiles own history, equipment and ambiguous mechanics, not this index.
+The **previous Arc One table above** represents the E054 state at that time; this second-arc table is the **latest researched cutoff**. The detailed character profiles own history, equipment and ambiguous mechanics, not this index.
 
 ## Second arc — people, witnesses and changing fates
 
@@ -103,6 +103,6 @@ Bill, the priest provisionally **Kidigree**, assistant **Susu**, Pelor's **Meree
 
 ## Evidence and navigation
 
-**Historical status rows were not deleted as research:** [the full pre-second-arc character index](../research/legacy/2026-10-22/CHARACTERS_PRE_SECOND_ARC_CONSOLIDATION.md) retains each E055–E081 interim checkpoint. Refer to [Year Two](../narrative/YEAR_TWO.md) for the connected story, [chronology](CHRONOLOGY.md) for date/order and [ledger](CONSISTENCY_LEDGER.md) for **currently open** identity or fate questions.
+**Historical status rows were not deleted as research:** [the full pre-second-arc character index](../research/legacy/2026-10-22/CHARACTERS_PRE_SECOND_ARC_CONSOLIDATION.md) retains each E055–E081 interim checkpoint. Refer to [Arc Two](../narrative/ARC_TWO.md) for the connected story, [chronology](CHRONOLOGY.md) for date/order and [ledger](CONSISTENCY_LEDGER.md) for **currently open** identity or fate questions.
 
 **E081's GM-declared deaths remain established at that cutoff.** E082–E084 subsequently show **Vorel alive**, **Nash in a regenerating floating heart**, **Hope/Stanley in petitioner/crypt custody with no completed resurrection**, and **Nothing with a separate accepted-but-unperformed commission**. **Sira is released, Eddie survives, Chance is missing** at their last E081 appearance; no new observations of them, Earth or the Drive are provided. No new audio-verification or source correction was performed during this structural pass.

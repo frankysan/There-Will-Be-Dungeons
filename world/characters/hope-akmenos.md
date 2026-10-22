@@ -1,6 +1,6 @@
 # Hope Akmenos
 
-**Also documented as:** Oriphi “Hope” Akmenos, according to the [fan wiki](https://twbd.fandom.com/wiki/Oriphi_%22Hope%22_Akmenos); early spoken `Orifi/Orify` is unverified. **Portrayed by:** Kristen. **Year One status:** Alive, mechanically augmented and **publicly crowned Queen of Tietkalla** in E054. **Spoilers:** E000–E081. **Source quality:** Processed ASR and later retrospective comments, not listener-verified dialogue.
+**Also documented as:** Oriphi “Hope” Akmenos, according to the [fan wiki](https://twbd.fandom.com/wiki/Oriphi_%22Hope%22_Akmenos); early spoken `Orifi/Orify` is unverified. **Portrayed by:** Kristen. **Arc One status:** Alive, mechanically augmented and **publicly crowned Queen of Tietkalla** in E054. **Spoilers:** E000–E081. **Source quality:** Processed ASR and later retrospective comments, not listener-verified dialogue.
 
 ## Character and history
 
@@ -24,7 +24,7 @@ In E051 **Kefeli petrifies Hope**, but Nash and Stanley make a one-off remedy fr
 
 In the [June 2019 cast Q&A](../../episodes/BONUS-2019-06.md) (~00:16:28–00:16:45), **Kristen says her long-term concept for Hope is to become powerful enough to attain godhood and then destroy the gods**. She explicitly describes the idea as **not yet fully fleshed out**. This is a **player intention**, not a completed ascension, proof that any named gods have been killed, or an already public in-character declaration.
 
-## After Year One — governing and contested truth (E055–E056)
+## After Arc One — governing and contested truth (E055–E056)
 
 The three-month break **actually occurs before E055**: Hope has **abolished Guzbucks and a serf-like category of houseless subjects**, promoted merit-based employment, issued sanitation measures and rebuilt defenses/vehicles, but **house rivalries, shortages and the ethics of state coercion remain**. At court she orders captured gang members publicly executed, and **orders envoy Softhead's tongue removed while leaving him alive**. A **poisoned assassin** later attacks her in her chambers; she survives through weapons and guards. She is still the **publicly crowned queen**, but authority alone does not secure legitimate methods. [E055](../../episodes/E055.md).
 

@@ -9,7 +9,7 @@
 | I want to… | Start here |
 | --- | --- |
 | **Explore *Inverse* (separate reality)** | [Complete four-episode index](inverse/README.md), [S1E01](inverse/episodes/S1E01.md), [S1E02](inverse/episodes/S1E02.md), [S1E03](inverse/episodes/S1E03.md) and [S1E04 finale](inverse/episodes/S1E04.md). **Not a Wastes timeline** |
-| **Read the Wastes story** | [**Year One — From Dusthill to the Crown**](narrative/YEAR_ONE.md), [**Year Two — Stones, Souls and the Great Fang**](narrative/YEAR_TWO.md) (E055–E081), then **[Arc Three — Strangers in the City of Doors](narrative/ARC_THREE.md)** (initial E082–E084, ongoing) |
+| **Read the Wastes story** | [**Arc One — From Dusthill to the Crown**](narrative/ARC_ONE.md), [**Arc Two — Stones, Souls and the Great Fang**](narrative/ARC_TWO.md) (E055–E081), then **[Arc Three — Strangers in the City of Doors](narrative/ARC_THREE.md)** (initial E082–E084, ongoing) |
 | Understand the story's organization and spoiler limits | [Narrative guide](narrative/README.md) |
 | Look up a character, place, event or contested fact | [World reference portal](world/README.md) |
 | Inspect **episode-by-episode evidence** | [E000 dossier](episodes/E000.md), [E001 dossier](episodes/E001.md) and the numbered `episodes/E###.md` files |
@@ -22,7 +22,7 @@
 
 The [December 2019 bonus](episodes/BONUS-2019-12.md) provides **retrospective GM explanation of the E081–E083 deaths and petitioners**, with [four-export ASR comparison](reports/BONUS_2019_12_ASR_COMPARISON_2026-10-22.md). It is **not a played new event**, and no audio verification or observed resurrection is claimed.
 
-The **Year One and Year Two narratives** are complete first-pass retellings of their researched arcs. **[Arc Three — Strangers in the City of Doors](narrative/ARC_THREE.md)** is now an **initial, ongoing narrative through E084**: Vorel and heart-form Nash enter Sigil, Hope and Stanley remain in the care of a trickster priest, and an attempted rescue becomes entangled with marionette tournament fraud and Nothing's separate dangerous commission. **No resurrection, tournament championship or kidnapping is completed** at this cutoff. The [E082](episodes/E082.md)–[E084](episodes/E084.md) dossiers and [chronology](world/CHRONOLOGY.md) retain the playable evidence; the [two-ASR E084 comparison](reports/E084_ASR_COMPARISON_2026-10-22.md) flags contested names. The narrative **does not establish a literal new in-world year** and cannot replace source cues, handouts or audio verification.
+The **Arc One and Arc Two narratives** are complete first-pass retellings of their researched arcs. **[Arc Three — Strangers in the City of Doors](narrative/ARC_THREE.md)** is now an **initial, ongoing narrative through E084**: Vorel and heart-form Nash enter Sigil, Hope and Stanley remain in the care of a trickster priest, and an attempted rescue becomes entangled with marionette tournament fraud and Nothing's separate dangerous commission. **No resurrection, tournament championship or kidnapping is completed** at this cutoff. The [E082](episodes/E082.md)–[E084](episodes/E084.md) dossiers and [chronology](world/CHRONOLOGY.md) retain the playable evidence; the [two-ASR E084 comparison](reports/E084_ASR_COMPARISON_2026-10-22.md) flags contested names. The narrative **does not establish a literal new in-world year** and cannot replace source cues, handouts or audio verification.
 
 ## Transcriptions and source status
 

@@ -122,4 +122,4 @@ Sigil promises doors to everywhere, but none has yet brought the companions home
 
 In the [December 2019 bonus Q&A](../episodes/BONUS-2019-12.md), **Beau later explains** that Hope and Stanley's apparent bodies are **manifestations of souls interrupted on their way to the Weir**. That adds creator commentary to the trickster priest's explanation, but it does **not** place the knowledge in Vorel's hands at the start of E082, resurrect either companion, or settle the future of the contract. Beau also says he did not plan for **all four** to enter the beam in E081. These are **retrospective explanations**, not extra scenes between E082 and E084. The [bonus ASR comparison](../reports/BONUS_2019_12_ASR_COMPARISON_2026-10-22.md) remains **unverified against audio**.
 
-[Year One](YEAR_ONE.md) · [Year Two](YEAR_TWO.md) · [Arc 3 episode index](../world/CHRONOLOGY.md) · [World references](../world/README.md) · [Review queue](../project/REVIEW_QUEUE.md).
+[Arc One](ARC_ONE.md) · [Arc Two](ARC_TWO.md) · [Arc 3 episode index](../world/CHRONOLOGY.md) · [World references](../world/README.md) · [Review queue](../project/REVIEW_QUEUE.md).

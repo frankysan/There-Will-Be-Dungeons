@@ -6,7 +6,7 @@
 
 The party approaches in **Fate 4**, encountering the music and mysteries of the oil sands, then enters **Trashburg** in E031. The settlement's poverty, local coercion and heavy security stand in sharp contrast with the fortress overlooking it. The **Guzzle Gang/Suck Master Din** exercises power from the keep while the **Twenty-Sixers** under **Monsoon Cabbage** and **Toe Rippers** compete below. **Charlemagne's lodging**, a Blood Ball stadium and training ground, the **Golden Gargoyle** music venue, a clandestine clinic, rival gang territories, and the so-called **Pixie Blush** trade all matter to the party.
 
-**Jolt's intended wedding** to a prince becomes a proposed point of entry. The party **trains for Blood Ball**, but a game is **not actually played** in the first arc. Nash meets the pixie **P0D**, who reports the exploitation of pixies in the drug trade; the group repeatedly discusses rescue but does not carry out the prepared full-scale pixie liberation route in Year One.
+**Jolt's intended wedding** to a prince becomes a proposed point of entry. The party **trains for Blood Ball**, but a game is **not actually played** in the first arc. Nash meets the pixie **P0D**, who reports the exploitation of pixies in the drug trade; the group repeatedly discusses rescue but does not carry out the prepared full-scale pixie liberation route in Arc One.
 
 ## The Pit and the underground kingdom
 

@@ -1,6 +1,6 @@
 # Places and travel — campaign reference index (through E084)
 
-**Spoilers:** Main place table retains its **Year One E054 cutoff**; later additions now cover corrected **E081** and the separately archived cast Q&As. **Status:** Consolidated first-pass geographic index, sourced to [individual location profiles](places/dusthill.md) and [episode dossiers](../episodes/E000.md). The earlier 65,000-character [place research compendium is archived](../research/legacy/2026-10-21/WORLD_PLACES.md); the [full pre-second-arc index](../research/legacy/2026-10-22/PLACES_PRE_SECOND_ARC_CONSOLIDATION.md) preserves later appended route/cutoff descriptions. Proper names and maps are not automatically verified by processed transcripts.
+**Spoilers:** Main place table retains its **Arc One E054 cutoff**; later additions now cover corrected **E081** and the separately archived cast Q&As. **Status:** Consolidated first-pass geographic index, sourced to [individual location profiles](places/dusthill.md) and [episode dossiers](../episodes/E000.md). The earlier 65,000-character [place research compendium is archived](../research/legacy/2026-10-21/WORLD_PLACES.md); the [full pre-second-arc index](../research/legacy/2026-10-22/PLACES_PRE_SECOND_ARC_CONSOLIDATION.md) preserves later appended route/cutoff descriptions. Proper names and maps are not automatically verified by processed transcripts.
 
 ## Main settlements, destinations and otherworldly sites
 
@@ -34,7 +34,7 @@
 
 **Dusthill** → desert pursuit and **Leopold facility** → captive transfer to **Slavetown** → storm and **Black Mine** → supernatural **Château Weir** → return through mine and **Liberators** → Golden Land challenge and **oil sands** → **Trashburg / Tietkalla keep** → underground library, prison, crypt and old throne → split froghemoth's **desert lower carcass** → **devastated Tietkalla** and Hope's accession.
 
-This is **narrative order, not a surveyed map or complete physical road itinerary**. The [Year One narrative](../narrative/YEAR_ONE.md) expands the connections. The [episode chronology](CHRONOLOGY.md) gives time-based detail.
+This is **narrative order, not a surveyed map or complete physical road itinerary**. The [Arc One narrative](../narrative/ARC_ONE.md) expands the connections. The [episode chronology](CHRONOLOGY.md) gives time-based detail.
 
 ## Source and map cautions
 
@@ -48,7 +48,7 @@ This is **narrative order, not a surveyed map or complete physical road itinerar
 
 ## Second arc — geography and route from Tietkalla to CHIDS
 
-The **Year One tables above** preserve that era's locations as of E054. These are the **new/changed sites by E081**. Physical travel and claimed cosmic history are different evidence tiers; the [chronology](CHRONOLOGY.md) supplies the event order and each linked site profile keeps source-level disputes.
+The **Arc One tables above** preserve that era's locations as of E054. These are the **new/changed sites by E081**. Physical travel and claimed cosmic history are different evidence tiers; the [chronology](CHRONOLOGY.md) supplies the event order and each linked site profile keeps source-level disputes.
 
 | Site or route | Second-arc played significance | Current cutoff / reference |
 | --- | --- | --- |
@@ -73,4 +73,4 @@ In [E084](../episodes/E084.md), the strategy-book theft starts in the **M-sports
 
 **Gordon Shuttle Bay** is described by Cerinthala but **not visited** in the reviewed E055–E081 episodes; **Elhandar** is the elf's desired refuge, **not a destination reached by the party**. A **space-like scene change** during Dolo Popio's battle is **visibly depicted**, but this alone does not prove CHIDS moved into literal outer space. The skeletal visitors' **warp coil**, CHIDS **portal-pair apparatus** and central **Traversal Drive** are separate objects. The [portal apparatus reference](technology/portal-device.md) records the red/green surface links and the necrotic beam.
 
-The [older additive place descriptions](../research/legacy/2026-10-22/PLACES_PRE_SECOND_ARC_CONSOLIDATION.md) retain every original research cutoff through E081. The **active place profiles** are the preferred source for current location lore. See the [Year Two narrative](../narrative/YEAR_TWO.md), [consistency ledger](CONSISTENCY_LEDGER.md) and [audio-review queue](../project/REVIEW_QUEUE.md) for unresolved claims and listening priorities.
+The [older additive place descriptions](../research/legacy/2026-10-22/PLACES_PRE_SECOND_ARC_CONSOLIDATION.md) retain every original research cutoff through E081. The **active place profiles** are the preferred source for current location lore. See the [Arc Two narrative](../narrative/ARC_TWO.md), [consistency ledger](CONSISTENCY_LEDGER.md) and [audio-review queue](../project/REVIEW_QUEUE.md) for unresolved claims and listening priorities.

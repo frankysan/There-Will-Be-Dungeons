@@ -87,7 +87,7 @@ These are **settled editorial decisions or identified episode transitions**. Rec
 | `hope.crowned.queen` / `nobiery.host.return` | **Resolved — source-cutoff [E054](../episodes/E054.md)** | **Hundreds of tiefling soldiers actually arrive; Hope is crowned before them**. Does **not** settle exact army census, future loyalty or validity of ancient sacrifices. |
 | `suckmaster.din.dead` | **Resolved — source-cutoff [E054](../episodes/E054.md)** | **Vorel executes captive Din at Hope's signal**, distinct from prince already dead in the hall; prince spelling/relationship still a review target. |
 | `time_skip.announced` | **Resolved — publication/event distinction [E054](../episodes/E054.md)** | GM discusses **prospective downtime and level 7**; not already played months of policy implementation. |
-| `bonus.2019_03.not_e055` | **Resolved — [D-029](../project/DECISIONS.md)** | Q&A is **non-narrative** and its GM plans/counterfactuals do not become Year One plot events. |
+| `bonus.2019_03.not_e055` | **Resolved — [D-029](../project/DECISIONS.md)** | Q&A is **non-narrative** and its GM plans/counterfactuals do not become Arc One plot events. |
 
 ## D. Second arc — unresolved questions at the E081 source cutoff
 

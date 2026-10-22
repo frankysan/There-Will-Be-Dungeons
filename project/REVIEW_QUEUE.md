@@ -35,7 +35,7 @@ by cue ID in the accompanying JSON separately from speech recognition.
 
 **Existing validated facts to preserve:** E000 ends in **“Now”**; E001 diarizer's extra Scott-character voice is **not a sixth cast member**; Cohere speech omission exists. **Unverified:** exact time of “Now,” word-by-word Parakeet accuracy and broad quantitative WER.
 
-## 2. Story-critical Year One listening and primary-handout review
+## 2. Story-critical Arc One listening and primary-handout review
 
 | Priority | Source / approximate recording time | Specific review target | Related open key |
 |---|---|---|---|
@@ -97,7 +97,7 @@ This is a **batch routing grid**, not a statement that every cue within a listed
 | [E049](../episodes/E049.md)–[E051](../episodes/E051.md) | Buttons betrayal, P0D involuntary change, Tedna/P0D deaths, Gem and guns, Kefeli, restored petrification |
 | [E052](../episodes/E052.md)–[E054](../episodes/E054.md) | Froghemoth fission, Eye of Groxl powers, alive Angelashi, Monsoon escape, returned host and coronation |
 | [BONUS-2019-03](../episodes/BONUS-2019-03.md) | Q&A retrospective cast/GM testimony; **not corrected E055** |
-| [BONUS-2019-04](../episodes/BONUS-2019-04.md) | Roundtable on early Year Two, character technique and GM's emergent Tietkalla design |
+| [BONUS-2019-04](../episodes/BONUS-2019-04.md) | Roundtable on early Arc Two, character technique and GM's emergent Tietkalla design |
 | [BONUS-2019-06](../episodes/BONUS-2019-06.md) | May-spoken/June-archived bonus; Stanley/Nash/Vorel/Hope goals, Principle origin, unused encounters and sand-fishing design |
 | [E055](../episodes/E055.md)–[E060](../episodes/E060.md) | Second-arc time jump, Tietkalla and Principle, skyfall, parasites and Orp's initial rule; see focused checks in section 5–6 |
 | [E061](../episodes/E061.md)–[E063](../episodes/E063.md) | Future-Nash egg theft, Bramie death, Orp slain, Vorel Great Fang, Zercil and prisoners; see the archived detailed queue |

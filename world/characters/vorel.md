@@ -1,6 +1,6 @@
 # Vorel
 
-**Longer written name:** **Vorel Rasvim Kurik** in the fan wiki, not independently confirmed as a full name from Year One spoken dialogue. **Portrayed by:** Kyle. **Identity:** Lizardfolk warrior. **Year One status:** Alive; protector of Bok Bok; bearing the sentient **Eye of Groxl**. **Spoilers:** through E081; retrospective bonus remarks kept separate from played events.
+**Longer written name:** **Vorel Rasvim Kurik** in the fan wiki, not independently confirmed as a full name from Arc One spoken dialogue. **Portrayed by:** Kyle. **Identity:** Lizardfolk warrior. **Arc One status:** Alive; protector of Bok Bok; bearing the sentient **Eye of Groxl**. **Spoilers:** through E081; retrospective bonus remarks kept separate from played events.
 
 ## Character and development
 
@@ -69,7 +69,7 @@ Future reviews should append each *new* self-given epithet (including cumulative
 
 **Sword spelling note:** The chainsaw-edged greatsword acquired in [E037](../../episodes/E037.md) appears as `Ma Storm`, `maw storm` and `moss storm` in different processed ASR contexts. The archive owner's **likely intended form is Mawstorm**; use it provisionally in curated reference text, retain those variants as search cues and seek an original item handout or audio check. **Do not alter the ASR files.**
 
-## After Year One — Golden Sands and spectral consequences (E055–E056)
+## After Arc One — Golden Sands and spectral consequences (E055–E056)
 
 By **E055**, Vorel has opened the **Golden Sands inn and adventurers' guild**, with Bok Bok as kitchen apprentice. Its three rules interpret the **Pillars of Decency** as **honest talk, fair deals, kinship**; a “liars' table” allows card-game bluffs. He defends non-tiefling customers in a fistfight against prejudiced patrons. In E056 he helps shelter civilians from falling stones using his **Eye of Groxl's flaming shield** and directs people into sewers. **The ghost of George Miller supernaturally ages him**, but the priestess **Emenil restores his youth with Greater Restoration within E056**. The sentient **Eye of Groxl is displeased but loses a control contest**; it does not possess him in that moment. A comment using `Grojil` in ASR **does not create a different item**. [E055](../../episodes/E055.md) · [E056](../../episodes/E056.md).
 

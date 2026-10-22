@@ -1,4 +1,4 @@
-# Year One — From Dusthill to the Crown
+# Arc One — From Dusthill to the Crown
 
 **The Wastes, first major campaign arc — corrected E000–E054**
 

@@ -1,6 +1,6 @@
 # Slavetown
 
-**Variants:** `Slave Town` appears as a descriptive/source form; `Slavetown` is the established project display with wiki support. **Type:** Slaveholding city, trade hub and a major regional power nexus. **Year One coverage:** Mainly E010–E018, with later aftermath and reports. **Source status:** Processed SRTs and provisional dossiers, not fully audio-reviewed.
+**Variants:** `Slave Town` appears as a descriptive/source form; `Slavetown` is the established project display with wiki support. **Type:** Slaveholding city, trade hub and a major regional power nexus. **Arc One coverage:** Mainly E010–E018, with later aftermath and reports. **Source status:** Processed SRTs and provisional dossiers, not fully audio-reviewed.
 
 ## Entry under coercion
 
