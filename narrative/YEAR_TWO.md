@@ -318,7 +318,7 @@ The adventurers destroy the ice form with flame, exposing the animated human ins
 
 The white weapon seems nearly useless until Vorel fires **red and green charges into two walls**. Two apertures open, each leading straight into the other. **Nash recognizes a paired-portal trick from an ancient entertainment device**, and the group realizes it may have found an escape route far better than another collapsed elevator. **Vorel hands the single portal device to Hope**.
 
-The bugbears arrive first. Metal crashes in the halls, flames sweep the fleshy corridor, and **armed goblinoid troops pour toward the laboratory**. Nash sends a **Fireball** down the passage, wiping out their front ranks. Vorel steps forward to lure the survivors toward the others, who have planned a route through the portals. Ahead are **dozens of bugbears—and an illithid in their ranks**. Vorel bellows a challenge in Goblin. The enemy charges.
+The bugbears arrive first. Metal crashes in the halls, flames sweep the fleshy corridor, and **armed goblinoid troops pour toward the laboratory**. Nash sends a **Fireball** down the passage, wiping out their front ranks. As the others take position in the back room, **an air-blowing vent suggests another possible passage**, but no one explores it. Vorel steps forward to lure the survivors toward the others, who have planned a route through the portals. Ahead are **dozens of bugbears—and an illithid in their ranks**. Vorel bellows a challenge in Goblin. The enemy charges.
 
 **Evidence:** [E075](../episodes/E075.md). A linked red/green portal pair is actually demonstrated, but **the proposed escape through it has not yet happened**. Cerinthala's resurrection and betrayal are observed; her ultimate fate remains unknown.
 
