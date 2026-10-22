@@ -2,7 +2,7 @@
 
 **Inverse is a distinct fictional reality and campaign from *The Wastes*.** It is run by **Jon Jagger**, with familiar podcast performers portraying **different characters**. It is **not** a Wastes flashback, an alternate Nash history, a sequel to the Traversal Drive story, or an event in the Wastes chronology. The **human world** in Inverse's prologue belongs to **Inverse's own setting**; no link to *The Wastes* is demonstrated.
 
-**Research status:** **S1E01–S1E03** now have provisional, source-indexed dossiers. S1E01–S1E02 form the completed initial two-part adventure; **S1E03 starts a separate Inverse investigation two months later** and closes before the monastery cipher is retrieved. **None of these episodes has been independently audio-verified. S1E04 remains unreviewed** despite its processed source.
+**Research status:** **All four Inverse episodes (S1E01–S1E04) now have provisional, source-indexed dossiers.** The series comprises two distinct two-part adventures, the second beginning **two months after the first**. **S1E04 is the final recorded Inverse installment in this corpus**, but its closing rescue assignment and cult investigation remain **unresolved in fiction**. These are analyses of processed Parakeet ASR, **not independently audio-verified transcripts**.
 
 ## Reading Inverse
 
@@ -10,10 +10,12 @@
 | --- | --- |
 | **[S1E01 — Inverse Part 1](episodes/S1E01.md)** | Complete timestamped premiere dossier: world premise, cast, train ambush, Common's Rest, human colony, rival accusations and ship/flux cliffhanger |
 | **[S1E02 — Inverse Part 2](episodes/S1E02.md)** | **Conclusion of the initial two-part one-shot:** shipwreck rescue, uncovering Zia/Cindra's roles, real waystation repair, local human refuge, and a mysterious guest caravan |
-| **[S1E03 — Inverse Part 3](episodes/S1E03.md)** | **Two-month jump**, Bound/Alter cult research, Mondoro Sackt's undeciphered book, Baffo and Garpoon at the **Mines Monastery**; the Dark Archive/cipher remain unresolved |
+| **[S1E03 — Inverse Part 3](episodes/S1E03.md)** | **Two-month jump**, Bound/Alter cult research, Mondoro Sackt's undeciphered book, Baffo and Garpoon at the **Mines Monastery**; Dark Archive not yet reached |
+| **[S1E04 — Inverse Part 4](episodes/S1E04.md)** | **Recorded Inverse finale:** retrieve Mondoro's original cipher journal, fight cult attackers, Murgit rescues the party, **deliver cipher to Grizz**; Lyalta and Spores remain overdue |
 | [S1E01 processed SRT](../sources/Inverse%20S1E1.%20Inverse%20Part%201.parakeet.processed.srt) | Original ASR source, **not a corrected or audio-verified transcript** |
 | [S1E02 processed SRT](../sources/Inverse%20S1E2.%20Inverse%20Part%202.parakeet.processed.srt) | Part 2's **reviewed-as-text but not audio-verified** ASR source |
 | [S1E03 processed SRT](../sources/Inverse%20S1E3.%20Inverse%20Part%203.parakeet.processed.srt) | Part 3's **reviewed-as-text but not audio-verified** ASR source |
+| [S1E04 processed SRT](../sources/Inverse%20S1E4.%20Inverse%20Part%204.parakeet.processed.srt) | Final episode's **reviewed-as-text but not audio-verified** ASR source |
 | [October 2019 Q&A](../episodes/BONUS-2019-10.md) | Later cast/GM commentary on *Inverse*, **not Wastes canon and not another played scene** |
 | [Editorial guide](../project/EDITORIAL_GUIDE.md) | General source-confidence and strict campaign-separation rules |
 
@@ -51,10 +53,31 @@ Working with **Grizz de Wells** after the Common's Rest rescue, the company inve
 
 **What actually plays:** Baffo and Garpoon intimidate doorman **Murgit**, antagonize scholar **Fulna** and receptionist **Previs**, then burn a book to force the attention of elder scholar **Jeadar** (whose first name is actually letter-spelled **J-E-A-D-A-R** in one note). A fight erupts; **Garpoon is knocked unconscious but survives a natural-20 death save**, accepts a healing potion and goes with the scholars to wait by the locked **Dark Archive**. **Baffo discovers Seeker**, an automated catalog assistant, who finds four historical references pointing toward Mondoro's lost belongings. The cipher, the actual box and the other team's auction results **are not recovered or shown by this episode's cutoff**. See the [S1E03 dossier](episodes/S1E03.md) for source timestamps and contested name spellings.
 
+## Recorded finale — the cipher and the unfinished rescue (S1E04)
+
+**What resolves:** Baffo and Garpoon **reunite outside the Dark Archive**. Jeadar reluctantly grants **copy-only access** after they surrender weapons. Garpoon discovers a **thin leather M/S journal containing about ninety pages of decoding instructions**. During a violent **Bound assault on the monastery**, Baffo hides the **original journal in Garpoon's pack**; they escape, and **Grizz directly confirms the delivered journal is the needed cipher**. **No complete copy is produced**, and the book at Lyalta and Spores's auction is **not decoded** during the recorded run.
+
+**The human cost:** Cultists are beaten back, **Previs is visibly murdered**, and **Jeadar is motionless and unresponsive after severe wounds** (permanent death not independently confirmed). **Fulna survives visibly fighting** and **Murgit saves the wounded protagonists**, then chooses to remain the monastery's doorman. Baffo kills the first fully masked leader; another full-mask opponent is **blinded and throat-wounded by Baffo and Murgit, not confirmed killed**.
+
+**Last scene:** Back in **Serifax**, Grizz warns that **Lyalta and Spores have not returned from their auction mission** and sends the two men to find them. **Baffo and Garpoon ride out alive**. The host says this is the end of the current Inverse run before *The Wastes* resumes; the in-world Bound plot **is not conclusively ended**. See [S1E04](episodes/S1E04.md) for exact source windows.
+
+## Last-known campaign status and unanswered questions
+
+| Subject | Established by the four recordings | Not shown before the Inverse ending |
+| --- | --- | --- |
+| **Barrier and waystation** | Local station physically repaired S1E02; Bound seeks more catastrophic interference | Long-term stability, full origin of the Anathema, validity of Alter's revelations |
+| **Common's Rest / refugees** | Separated-Earth ship passengers offered **local refuge**, Zia survives to face justice, Cindra is confirmed dead | Legal acceptance across Erivia; exact fate of all ship passengers |
+| **Mondoro's writings** | **Original cipher recovered and delivered to Grizz S1E04** | Contents or acquisition of auctioned *Creator's Bound*, what decoding would reveal |
+| **Lyalta / Spores** | Sent on the auction assignment after two-month jump | **Their actual auction experience or whereabouts**; Grizz reports they have not returned |
+| **Baffo / Garpoon** | Both **survive** and depart to seek their companions | Rescue outcome, further campaigns or later lives |
+| **Mines Monastery** | Major cult incursion, casualties, many defenders remain active | Jeadar's permanent fate and library's long-term recovery |
+
+**Ending means the end of the *documented run*, not a final victory over the Bound.** The producers discuss potential future stories out of character, but no further Inverse episode is present in this four-part set. The [S1E04 dossier](episodes/S1E04.md) distinguishes the last **played scene** from subsequent advertising about Wastes programming.
+
 ## Boundaries for ongoing work
 
 **File identities:** Use the dedicated Inverse directory with per-episode files such as **S1E01.md and S1E02.md**. Never reuse Wastes **E001–E081** IDs for Inverse, or insert Inverse locations and history into the [Wastes chronology](../world/CHRONOLOGY.md), [narrative](../narrative/README.md) or [world guide](../world/WORLD.md). A later source could explicitly discuss a connection; **no such link should be presumed**.
 
 **Evidence hierarchy:** Maintain **GM-narrated setup**, **directly played occurrences**, **NPC claims**, **cast retrospective explanations**, and **ASR-provisional spellings** as separate categories. No audio was listened to for this pass; no original SRT changed.
 
-**Earlier S1E01 cutoff:** The waystation was still failing, Hemshaw was missing amid the crash, and the humans' legal fate was undetermined. These are **historically correct first-episode statements, superseded by S1E02**. S1E03 adds a later **two-month jump and new unresolved investigation**; S1E04 and subsequent Inverse recordings were not consulted for this update.
+**Episode cutoffs stay historical:** The waystation still failed at S1E01 and was **repaired S1E02**. The cipher remained **unfound at S1E03** and was **delivered S1E04**. The state of Lyalta/Spores remains unplayed during the later two recordings. This is a **complete index of the four processed episode files**, not a claim that all plotlines were resolved or the ASR was audio-verified.
