@@ -20,6 +20,8 @@ At the close of E054 he helps usher the party back into the shattered city in dr
 
 Beau describes conceiving the **dragon-metal engine-heart** after Scott improvised an early uncertainty about Nash having a normal heart. Scott discusses a **betraying Solar Mines partner** as still-partly-unshared player backstory; this is not enough to establish the person's identity or every detail of the mines. The GM also emphasizes intentional contradictions between Nash's memories and later visions.
 
+In the [June 2019 bonus](../../episodes/BONUS-2019-06.md) (~00:05:37–00:07:05), Scott explains that **“Nash Maggard of the Solar Mines” remains Nash's preferred self-identification**, even while living in Tietkalla. The epithet acknowledges his past and its lasting effect on his actions; **“of Tietkalla” does not replace it**. This is a player explanation of an ongoing title, not a newly bestowed in-world honor.
+
 **Primary scene trail:** [E000](../../episodes/E000.md) · [E001](../../episodes/E001.md) · [E017](../../episodes/E017.md) · [E018](../../episodes/E018.md) · [E023](../../episodes/E023.md) · [E024](../../episodes/E024.md) · [E031](../../episodes/E031.md) · [E037](../../episodes/E037.md) · [E049](../../episodes/E049.md) · [E050](../../episodes/E050.md) · [E051](../../episodes/E051.md) · [E052](../../episodes/E052.md) · [E053](../../episodes/E053.md) · [E054](../../episodes/E054.md) · [Q&A](../../episodes/BONUS-2019-03.md) · [open checks](../../project/REVIEW_QUEUE.md).
 
 ## After Year One — E055–E056
