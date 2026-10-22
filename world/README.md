@@ -9,7 +9,7 @@
 | Reference | What it currently contains | Consolidation status |
 |---|---|---|
 | [Characters and participants](CHARACTERS.md) | Subject index with profiles for the four protagonists, allies and adversaries, including **Orp, Diptak and Emenil** | **Subject profiles maintained through E063** |
-| [Places](PLACES.md) | **Consolidated place index** including **Razak Val**, Dusthill, Slavetown, the Black Mine, Château Weir and Tietkalla | **Subject profiles maintained through E060** |
+| [Places](PLACES.md) | **Consolidated place index** including **Razak Val**, Dusthill, Slavetown, the Black Mine, Château Weir and Tietkalla | **Subject profiles maintained through E063** |
 | [World and history](WORLD.md) | **Consolidated thematic reference**: the ancient catastrophe, settlements, factions, dragon technology, Soulbroker pacts, artifacts, religion and contested lore | **Phase C first-pass rewrite available** |
 | [Unified campaign chronology](CHRONOLOGY.md) | **53 main-story Year One entries, followed by E055–E063**, time jump, publication exceptions and resolved cutoffs | **Maintained unified reference** |
 | [Active consistency ledger](CONSISTENCY_LEDGER.md) | **Open questions, owner decisions, later source-cutoff resolutions** and links to detailed evidence | **Phase D first pass available** |
