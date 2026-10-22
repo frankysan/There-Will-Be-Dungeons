@@ -89,7 +89,7 @@ In [E056](../episodes/E056.md), **George Miller appears as an attacking spirit**
 
 **Source/evidence at the E063 cutoff:** [E061](../episodes/E061.md) · [E062](../episodes/E062.md) · [E063](../episodes/E063.md), **processed ASR only**. Later disclosures must not be backdated.
 
-## Status after E065
+## Interim status after E065
 
 **[Vorel](characters/vorel.md):** E064's infestation makes **Razak Val dangerous and embattled**, with Vorel retreating to seek the Zarks at Kervalon even while remaining **recognized Great Fang**. He names **a new raptor Mawstorm** (not his sword or another self-assigned epithet). [July bonus](../episodes/BONUS-2019-07.md) explains Kyle's decision not to take **Tyrant's Bane** and his purely tentative interest in paladin multiclassing.
 
@@ -101,4 +101,20 @@ In [E056](../episodes/E056.md), **George Miller appears as an attacking spirit**
 
 **[Follow, Sira and Rorf](characters/follow-sira-rorf.md):** **Follow's telepathy appears E064**; **Sira can vanish**, and **Rorf shapeshifts**. Rorf **explicitly admits Bramie's E061 murder in E065**, correcting the earlier uncertainty and **Vorel's unsupported E063 accusation against Zercil**. Their reported earlier persecution remains **Follow's interested account**, and Tietkalla asylum is prospective, not completed. **Omnom's survival remains unconfirmed after his E064 decision to stay and fight**, carrying the **Necklace of Fireballs**.
 
-**Source/evidence:** [E064](../episodes/E064.md) · [E065](../episodes/E065.md) · [July-archived Q&A](../episodes/BONUS-2019-07.md). These are **provisional processed-ASR interpretations**, not independently listened to or proof of every NPC story.
+**Source/evidence for that interim cutoff:** [E064](../episodes/E064.md) · [E065](../episodes/E065.md) · [July-archived Q&A](../episodes/BONUS-2019-07.md). Later deaths and discoveries are not backdated.
+
+## Status after E067
+
+**[Vorel](characters/vorel.md):** Kills a **T. rex with the Eye of Groxl's shield after it destroys Fate 4**, crafts a **tooth dagger**, and creates the cart **Fang Fate Five**; he asserts his **existing Great Fang status** before enthralled-looking lizardfolk and a new mind-flayer foe. In E067 a **spectral dragon** refers to a **god-killer named Grojil** in relation to his artifact. He helps clear the skeleton-spawning basement foe at Kervalon; **has not rescued Sira or taken a new office**. [E066](../episodes/E066.md) · [E067](../episodes/E067.md).
+
+**[Hope](characters/hope-akmenos.md):** **Fate 4 is crushed and explodes E066**, ending the usable RV; she refuses a **mind flayer's offered sacrifice of Tietkalla in exchange for claimed relief from Soulbroker obligations**. A **subjective Dusthill memory** E067 shows the old car when Jimster first proposed restoration. This is **not another working vehicle in the present**. She joins Nash's tunnel assault and scouts an armed underground lizardfolk guard. [E066](../episodes/E066.md) · [E067](../episodes/E067.md).
+
+**[Follow, Sira and Rorf](characters/follow-sira-rorf.md):** **Rorf killed E066 while attempting rescue**, **Follow dies E066**, having asked Stanley to save his daughter. **Sira is abducted alive by the mind flayer**, not recovered through E067; the proposed Tietkalla asylum is **not realized**. The family's earlier reported history and **Rorf's Bramie confession** still stand at their proper cutoffs. [E066](../episodes/E066.md).
+
+**[Nash](characters/nash-maggard.md):** Fireball helps defeat the dinosaur; an errant lick of a living tree **may expose him to a bug, but no infection is confirmed**. A spectral dragon says his heart/mark bears a name like **Kazdejira/Kazdeshira**, then warns about a planet-moving machine; this is **spirit testimony**. Nash actually **tunnels under Kervalon with Mold Earth**, not a dragon-mediated T. rex teleport insertion. [E066](../episodes/E066.md) · [E067](../episodes/E067.md).
+
+**[Stanley](characters/stanley-diontalus.md):** **Promises dying Follow to save Sira**, performs his burial and temporarily **polymorphs Nash into a mouse** after party conflict. In the keep his animate weapon **Diplomacy kills the huge flesh monster that spawns skeletons**, and he heals Vorel afterward. **The main antagonist is still alive/unconfronted**, Sira still missing. [E066](../episodes/E066.md) · [E067](../episodes/E067.md).
+
+**New antagonist / lore referents:** A name like **Oubvayx/Ovaxiad** is spoken by a **mind flayer servant of Dollo Poppio**; **spectral dragon Kazdejira association** and the **pre-Scorching Earth-moving machine** are **unverified testimonies**, not completed mechanical proof. [Kervalon](places/kervalon.md) · [world guide](WORLD.md).
+
+**Source/evidence:** E066–E067 processed SRT dossiers only, **not independently audio-verified**.
