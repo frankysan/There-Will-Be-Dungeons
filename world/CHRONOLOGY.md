@@ -1,6 +1,6 @@
-# Campaign chronology — Year One and the second arc
+# Campaign chronology — Year One, second arc and Arc 3 opening
 
-**Horizon:** Corrected **E000–E081** main *The Wastes* campaign, with explicit exceptions for the **E013.5 supplemental**, **E043 holiday one-shot** and the **March 2019 Q&A**. **Spoilers:** Main Wastes through E081 and March/April/June/July/August/September/October/November-publication 2019 bonus discussions. **Research status:** The events below are consolidated from **unverified processed Parakeet episode dossiers**, not independent listening; times within individual episodes remain in their [source-first dossiers](../episodes/E000.md). The full **pre-Phase-C chronology**, including detailed recorded cue windows and historic uncertainties, is [preserved here](../research/legacy/2026-10-22/WORLD_CHRONOLOGY.md).
+**Horizon:** Corrected **E000–E082** main *The Wastes* campaign, with explicit exceptions for the **E013.5 supplemental**, **E043 holiday one-shot** and the **March 2019 Q&A**. **Spoilers:** Main Wastes through E082 and March/April/June/July/August/September/October/November-publication 2019 bonus discussions. **Research status:** The events below are consolidated from **unverified processed Parakeet episode dossiers**, not independent listening; times within individual episodes remain in their [source-first dossiers](../episodes/E000.md). The full **pre-Phase-C chronology**, including detailed recorded cue windows and historic uncertainties, is [preserved here](../research/legacy/2026-10-22/WORLD_CHRONOLOGY.md).
 
 **Reading key:** Each row covers a **played episode or directly observed outcome** in narrative order. A **reported death, genealogy, prophecy, pact history or offscreen action** remains an attributed report unless independently played. The **episode's own cutoff** matters: E048's rescue is real even though Tedna dies E050; E048's report about Angelashi is not proof she died before her E054 rescue. For a connected story, use [Year One narrative](../narrative/YEAR_ONE.md); for subject facts use [world history](WORLD.md) and [character](CHARACTERS.md) / [place](PLACES.md) profiles.
 
@@ -106,6 +106,16 @@ The following **episode cutoffs** describe what was established *by that recordi
 | [E080 — What's with the fire truck](../episodes/E080.md) | **Nash in dragon form kills large illithid commander**. **Chance and Eddie revived after danger**; Stanley animates mundane pipes, not magic swords. **Dolo Popio shifts scene to void-like battlefield**; Vorel demonstrates Eye flame-blade. |
 | [E081 — There's Always A Chance In Space](../episodes/E081.md) | **Chance drifts away unlocated**; **Hope kills Dolo Popio's manifested body**. **Sira escapes beam alive beside Eddie**. Four protagonists **enter crimson beam and disperse; GM explicitly declares dead**, permanence and Earth/Drive aftermath unseen. |
 
+## Arc 3 — after the shared beam (opening E082)
+
+**No proved time jump:** E082 begins with Vorel's subjective cosmic journey after the E081 beam activation. **Time seems to stretch into millennia**, but there is **no established number of days or years of world time elapsed**. Unlike the real three-month fiction jump before E055, this should not be treated as a dated chronological skip.
+
+| Episode | Played events and current knowledge cutoff |
+| --- | --- |
+| **[E082 — Binch Better Have My Money](../episodes/E082.md)** | **Vorel survives in a living body**, returning from disembodied starfield into **Sigil**. The **Eye of Groxl splits, forming a protective membrane**, its inner presence declared dead after saving him. **Nash is conscious as an eye-bearing floating stone/metal heart** and develops a finger; he cannot speak/cast normally. **Hope and Stanley's dead/unmoving bodies are recovered** from sewer collectors and carried on a slab. Binch identifies **Sigil, City of Doors**; Welcome Center grants **three days' lodging/meals**, refers Vorel to an unvisited cleric for possible resurrection. At the **Soggy Feather**, a new **kenku and kobold** appear, identities still unconfirmed. **Sira, Eddie, Chance, Earth, the Principle and the Drive's lasting condition are not observed.** |
+
+**Interpretation:** E081's GM death declaration is an accurate **E081 cutoff**. E082 **demonstrates that Vorel lives and Nash's consciousness persists** while presenting Hope and Stanley as bodies. This is a source-timed development, **not permission to delete the prior ending** or to assume resurrections not yet performed.
+
 ## Stories and publications outside that sequence
 
 | Source | Release position vs. story position | Rule for editors |
@@ -150,7 +160,7 @@ The following **episode cutoffs** describe what was established *by that recordi
 
 ## Limits and provenance
 
-This is the **chronological event index**, not an audio-verified corrected transcript. All main-campaign entries through E081 use existing **processed-Parakeet episode dossiers** and preserve episode-era knowledge. **Sira's E066 abduction and E081 liberation**, for example, are both real events at their respective cutoffs; neither erases the other. **E077's proposed repair** precedes the **E078 operation**. The GM's E081 **death declaration is explicit**, but a permanent afterlife or planetary outcome is not shown.
+This is the **chronological event index**, not an audio-verified corrected transcript. All main-campaign entries through E082 use existing **processed-Parakeet episode dossiers** and preserve episode-era knowledge. **Sira's E066 abduction and E081 liberation**, for example, are both real events at their respective cutoffs; neither erases the other. **E077's proposed repair** precedes the **E078 operation**. The GM's E081 **death declaration is explicit**; **E082 subsequently shows living Vorel, heart-form Nash and the inert bodies of Hope and Stanley in Sigil**. Their ultimate fate and Earth's/Drive's lasting condition remain unshown.
 
 **Not an event timeline:** Cast Q&As, the E043 holiday special, the release order of E013.5, GM retrospective intentions, speculative alternate futures and claims by **Quizquaz, the hive, Wall Nash, Cerinthala, Alvert, Charles Dickens and the spectral dragon**. See [editorial guide](../project/EDITORIAL_GUIDE.md), [source review queue](../project/REVIEW_QUEUE.md) and [consistency ledger](CONSISTENCY_LEDGER.md).
 
