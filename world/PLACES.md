@@ -1,4 +1,4 @@
-# Places and travel — campaign reference index (through E081)
+# Places and travel — campaign reference index (through E083)
 
 **Spoilers:** Main place table retains its **Year One E054 cutoff**; later additions now cover corrected **E081** and the separately archived cast Q&As. **Status:** Consolidated first-pass geographic index, sourced to [individual location profiles](places/dusthill.md) and [episode dossiers](../episodes/E000.md). The earlier 65,000-character [place research compendium is archived](../research/legacy/2026-10-21/WORLD_PLACES.md); the [full pre-second-arc index](../research/legacy/2026-10-22/PLACES_PRE_SECOND_ARC_CONSOLIDATION.md) preserves later appended route/cutoff descriptions. Proper names and maps are not automatically verified by processed transcripts.
 
@@ -62,6 +62,10 @@ The **Year One tables above** preserve that era's locations as of E054. These ar
 | **CHIDS — freezing server hall and bio-containment** | **Cerinthala and frozen human companions**, dangerous membrane, spider lift, **memory-eating mass**, secure portal apparatus, experimental lizardfolk vats, Lethanphius and **hive council**. | Lab evidence directly observed; broad creation myths and **GR0X1** history remain attributed. [E072](../episodes/E072.md)–[E078](../episodes/E078.md) |
 | **CHIDS — recreation/engineering approaches** | Hive **physically transports** the group, and **Chance/Eddie are rescued**. Disguised party bypasses ape checkpoint; crystalline four-finger door **bypassed by Stanley carrying Hope through Dimension Door, then linked portals**. | The biometric lock was **not truly opened**. [E078](../episodes/E078.md)–[E079](../episodes/E079.md) |
 | **CHIDS — Traversal Drive cavern and void-like battlefield** | Machine and altered dragon-worm physically seen E079, **Hope's two rockets**, **Nash kills commander E080**, scene changes to starry platforms; **Hope kills manifested Dolo Popio E081**. | **Chance drifts away unlocated; Sira exits beam and is alive with Eddie; four heroes vanish and are GM-declared dead**. Earth's lasting state/Drive's permanent fate unseen. [E079](../episodes/E079.md)–[E081](../episodes/E081.md) |
+
+## Third arc — Sigil (E082–E083)
+
+**[Sigil / City of Doors](places/sigil.md)** becomes the directly visited setting after the shared E081 beam dissolution. In [E082](../episodes/E082.md), Vorel awakens alive below its **impossibly curving, roof-filled skyline**, Nash persists as a floating heart, and **Hope/Stanley are found as inert bodies**. A **Welcome Center** supplies meal/lodging vouchers, and the **Soggy Feather** becomes their base. In [E083](../episodes/E083.md), **Squirts leads them to a crypt-bearing trickster church that vanishes from view after exit**, the two friends' bodies are entrusted to its priest, a **Pelor-linked delegation** visits, and the group registers for marionette fighting at **76 Mulberry Lane**, then visits **Royce Gymnasium** and an **M-sports library**. **No verified portal home, completed resurrection, tournament match or prize occurs.** The [Sigil location profile](places/sigil.md) distinguishes witnessed features from **Binch/Bill/priest claims** about planes, petitioners, Lady of Pain and the Weir. **This is The Wastes, not Inverse.**
 
 ## Place and event boundaries
 
