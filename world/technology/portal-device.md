@@ -1,0 +1,30 @@
+# Dual-color portal device — CHIDS secure laboratory apparatus
+
+> **Working descriptive name only.** No canon product/model label has been verified. This page records the **observed red/green portal apparatus** from [E075](../../episodes/E075.md), not a general rule for every ancient portal or a modern commercial device. **Processed-ASR source, not audio-verified.**
+
+## Acquisition and construction
+
+After [E074](../../episodes/E074.md) ends with combat against an enormous red **memory-eating mass**, the heroes **defeat the mass and the grappled illithid controller** in E075, then investigate a **separately enclosed secure room** beyond the first control room. It is **sound-dampened, clean** and built as a **chamber within a chamber** with unusual metal cladding and windows. Its protective access circuit demands **the entry door be sealed, two distributed buttons pressed, a rear valve and a control-room console approved**. Those operations are **actually completed** in play. An inner cradle dispenses a **white/gray, heavy-looking sleeve-mounted device**, with two black-tipped protrusions and **two independently operated triggers**. It covers much of the wielder's forearm and must be steadied with the other hand. The GM does **not supply a verified maker's mark, capacity, range or official name**.
+
+**Initial custody:** Vorel takes it from the cradle, tests it against **ice Toby**, and retains it while investigating after the fight. It launches **red and green projectiles** but causes **no apparent injury to Toby, the dead illithid or other corpses**; the physical shots simply wink away. The party initially thinks it is an **ineffective gun**.
+
+## Demonstrated portal behavior (E075)
+
+When **Vorel fires red and green projectiles at usable walls**, they produce **one red mark and one green mark** which, **when both are established**, become **linked, traversable apertures**. Looking through one apparently shows the passage on the other side of the matched opening. **Nash identifies the basic idea from an old entertainment device/game recounted in Solar Mines lore** and explains that the party could use the pair to escape or reposition. **The linked wall apertures are actually observed**; many tactics he describes remain **proposals**, not already executed actions.
+
+A red shot against an **incompatible body** causes the previous red aperture to disappear; **the green mark remains but becomes inert/closed** until a compatible new red counterpart is created. This demonstrates **one endpoint can be independently invalidated while the other stays present**, not unlimited gateways or the ability to fire through any solid surface. The game does **not yet establish** maximum separation, duration, power source, limits on surfaces, whether a projectile can injure living creatures, whether matter in transit can be cut off, or whether the apparatus can transport an entire army. **Do not assert portal travel has actually saved the heroes yet.**
+
+## Custody and planned use at E075 cutoff
+
+**Vorel hands the same single device to [Hope](../characters/hope-akmenos.md)** after the group realizes what the two-color marks do. A **bugbear militia** approaches via the flesh-lined hall. **Nash casts a fourth-level Fireball**, killing the front ranks and sending the rest back. The plan is for **Vorel to draw the force into a pursuit**, then for the team to **open a safe second endpoint** near their secure room and escape through it, closing/repositioning the paired link afterward. In the **last played scene of E075**, **Vorel taunts about fifty bugbears** and identifies **an illithid with them**; the force begins **charging him**. **No completed portal-assisted escape** has yet been depicted.
+
+The device is **not the Traversal Drive**. It is a smaller **locally retrieved portal-pair tool** recovered in CHIDS's laboratory weapons facility. No proof of its relation to **Charles Dickens's alleged sabotage**, **Cerinthala's reports**, **Sira's abduction** or **Fate vehicle destruction** has appeared.
+
+## Listening and evidence priorities
+
+- E075 ~01:17–01:40: exact **vault-entry sequence**, physical description, number of access controls and which character operates each.
+- E075 ~01:40–02:15: Vorel's ineffective weapon tests against **ice Toby / remains**.
+- E075 ~02:22–02:44: which trigger corresponds to **red/green**, any demonstrated bidirectional travel or merely visible linkage, and exact **invalidated-endpoint behavior**.
+- E075 ~02:43–end: **Vorel → Hope custody**, distinction between **plan** and executed escape.
+
+**Related:** [CHIDS](../places/chids.md) · [Vorel](../characters/vorel.md) · [Hope](../characters/hope-akmenos.md) · [Chronology](../CHRONOLOGY.md) · [Consistency ledger](../CONSISTENCY_LEDGER.md) · [Review queue](../../project/REVIEW_QUEUE.md).
