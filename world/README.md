@@ -1,8 +1,8 @@
 # The Wastes — reference portal
 
-**Scope:** Main-campaign events through **E054**, plus the separately documented [March 2019 Year One Q&A](../episodes/BONUS-2019-03.md). **Full Year One spoilers** follow these links. The episode-derived references remain **provisional until audio-verified**.
+**Scope:** Main-campaign events through **E056**, plus separate [March Year One Q&A](../episodes/BONUS-2019-03.md) and [April cast roundtable](../episodes/BONUS-2019-04.md). **Spoilers through E056** follow. The episode-derived references remain **provisional until audio-verified**.
 
-**Choose a view:** For a flowing account of the plot rather than reference notes, read [**Year One — From Dusthill to the Crown**](../narrative/YEAR_ONE.md). For a specific timestamp, character's contemporaneous knowledge or ambiguous transcript, use the [episode dossiers](../episodes/E000.md) and the relevant E### number.
+**Choose a view:** For a flowing account of the plot rather than reference notes, read [**Year One — From Dusthill to the Crown**](../narrative/YEAR_ONE.md) followed by [**Year Two — The Sky Falls**](../narrative/YEAR_TWO.md). For a specific timestamp, character's contemporaneous knowledge or ambiguous transcript, use the [episode dossiers](../episodes/E000.md) and the relevant E### number.
 
 ## Reference subjects
 
@@ -11,7 +11,7 @@
 | [Characters and participants](CHARACTERS.md) | **Consolidated subject index** plus dedicated profiles for the core four, six allies/adversaries, NPC status and relevant producer credits | **Phase B first-pass profiles available** |
 | [Places](PLACES.md) | **Consolidated place index** and dedicated location profiles for Dusthill, Slavetown, the Black Mine, Château Weir and Tietkalla | **Phase B first-pass profiles available** |
 | [World and history](WORLD.md) | **Consolidated thematic reference**: the ancient catastrophe, settlements, factions, dragon technology, Soulbroker pacts, artifacts, religion and contested lore | **Phase C first-pass rewrite available** |
-| [Unified Year One chronology](CHRONOLOGY.md) | **Single 53-episode main-story sequence**, story-time versus release exceptions, and a compact ledger of later resolutions | **Phase C first-pass rewrite available** |
+| [Unified campaign chronology](CHRONOLOGY.md) | **53 main-story Year One entries, followed by E055–E056**, time jump, publication exceptions and resolved cutoffs | **Maintained unified reference** |
 | [Active consistency ledger](CONSISTENCY_LEDGER.md) | **Open questions, owner decisions, later source-cutoff resolutions** and links to detailed evidence | **Phase D first pass available** |
 | [Structured entity seed](entities.json) and [schema](ENTITY_SCHEMA.md) | Machine-readable E000/E001 seed | **Not yet synchronized with all subsequent episode dossiers** |
 

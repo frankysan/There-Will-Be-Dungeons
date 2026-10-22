@@ -67,3 +67,13 @@ These correspond **one-to-one through original 54** (and, for E000, the original
 If adding code to ingest these sources later: **preserve the full original listing, corrected basename, campaign, season, supplemental/bonus class, source row and (where present) date as separate fields**. Do not compute corrected numbers with a blanket subtraction, infer them from `#NAME?` cells, or silently update machine transcripts. Test explicitly around **E013.5, bonus-original 55, original/Inverse 77, original 78 → corrected E076, original 130 → corrected E128, and Wastes S3E78 → S3E08**.
 
 Related: [archive owner's event/spelling notes](OWNER_EPISODE_NOTES.md) (personal, noncanonical), [source hierarchy](EXTERNAL_REFERENCES.md), and [editorial policy](EDITORIAL_GUIDE.md).
+
+## April 2019 bonus and first post-coronation sessions
+
+| Archive basename | Corrected dossier / type | Boundary |
+|---|---|---|
+| `The Wastes S1E055. My Standards Are Very Lizard` | [**E055**](../episodes/E055.md) | Original **TWBD 56**; first session after **three months actual downtime** |
+| `The Wastes S1E056. Welcome back, George` | [**E056**](../episodes/E056.md) | Original **TWBD 57**; direct sequel to E055's meteor-storm cliffhanger |
+| `Bonus 2019-04 - Bonus Show 01 - The First and Last (April 2019 )` | [**BONUS-2019-04**](../episodes/BONUS-2019-04.md) | Separate **~31-minute cast Q&A**, *not* E057. Discusses E055-era character life/GM creative decisions; exact release position relative to E056 not confirmed by filename alone |
+
+The March [Year One Q&A](../episodes/BONUS-2019-03.md) is publisher **55**, already excluded from corrected E### counting. Monthly bonus filenames retain their **independent namespace**.

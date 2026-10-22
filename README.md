@@ -2,22 +2,22 @@
 
 **A local-first transcription and campaign-reference project.** The long-term goal is an accurate, searchable, source-linked archive of *The Wastes*, beginning with the first campaign arc and its cast/GM discussions.
 
-**Current research coverage:** corrected **E000–E054**, including the intentionally intermediate **E013.5**, a separate **E043 holiday one-shot**, and the **March 2019 Year One Q&A** bonus. These episode dossiers are **provisional notes from processed Parakeet SRTs, not finished or listener-proofread transcripts**. The ongoing E000/E001 speaker-labelled reader-edition pilot remains separate.
+**Current research coverage:** corrected **E000–E056**, including **E013.5**, a separate **E043 holiday one-shot**, and both **March and April 2019 bonus discussions**. E055 begins after a **real three-month fictional jump** following E054. These episode dossiers are **provisional notes from processed Parakeet SRTs, not finished or listener-proofread transcripts**. The ongoing E000/E001 speaker-labelled reader-edition pilot remains separate.
 
 ## Choose how to explore
 
 | I want to… | Start here |
 |---|---|
-| **Read the story** | **[Year One — From Dusthill to the Crown](narrative/YEAR_ONE.md)** (full arc spoilers) |
+| **Read the story** | [**Year One — From Dusthill to the Crown**](narrative/YEAR_ONE.md), then [**Year Two — The Sky Falls**](narrative/YEAR_TWO.md) (E055–E056) |
 | Understand the story's organization and spoiler limits | [Narrative guide](narrative/README.md) |
 | Look up a character, place, event or contested fact | [World reference portal](world/README.md) |
 | Inspect **episode-by-episode evidence** | [E000 dossier](episodes/E000.md), [E001 dossier](episodes/E001.md) and the numbered `episodes/E###.md` files |
-| Read the first post-arc GM/cast retrospective | [March 2019 Year One Q&A](episodes/BONUS-2019-03.md) — **bonus, not E055** |
+| Read the cast/GM bonus discussions | [March 2019 Q&A](episodes/BONUS-2019-03.md) and [April 2019 The First and Last](episodes/BONUS-2019-04.md); **not numbered Wastes episodes** |
 | Check actual versus original episode numbering | [Corrected crosswalk](project/EPISODE_NUMBERING.md) |
 | Follow unresolved listening tasks | [Review queue](project/REVIEW_QUEUE.md) |
 | Understand source confidence and editing conventions | [Editorial guide](project/EDITORIAL_GUIDE.md), [documentation architecture](project/DOCUMENTATION_ARCHITECTURE.md) |
 
-The **Year One narrative** is for reading. The **episode dossiers and source SRTs** support the research; a story summary is not a replacement for original cues, transcripts, source handouts or audio verification.
+The **Year One narrative** and **opening Year Two chapters** are for reading. The **episode dossiers and source SRTs** support the research; a story summary is not a replacement for original cues, transcripts, source handouts or audio verification.
 
 ## Transcriptions and source status
 
