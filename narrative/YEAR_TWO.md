@@ -1,6 +1,17 @@
 # Year Two — Stones, Souls and the Great Fang
 
-**Narrative status:** Opening chapters covering corrected **E055–E081** after the played three-month downtime. **Full spoilers** for these episodes and the first arc. This is an editorial retelling drawn from **processed Parakeet SRTs, not an audio-verified transcript**. The [April 2019 bonus](../episodes/BONUS-2019-04.md) offers out-of-character interpretation, not a third scene or definitive unseen event. The full first arc ends in [Year One](YEAR_ONE.md).
+**Narrative status:** Covers corrected **E055–E081** after the played three-month downtime, including the **completed CHIDS / Traversal Drive arc (E066–E081)**. **Full spoilers** for these episodes and the earlier arc. This is an editorial retelling drawn from **processed Parakeet SRTs, not an audio-verified transcript**. The [April 2019 bonus](../episodes/BONUS-2019-04.md) offers out-of-character interpretation, not a new played chapter. The earlier arc ends in [Year One](YEAR_ONE.md); **E081 closes the CHIDS confrontation, not the larger Principle/soul-contract storyline**.
+
+## Reading map — the road to the CHIDS finale
+
+This long-form story is chronological. Each chapter retains the characters' **knowledge at its episode cutoff**, so an earlier paragraph saying "Sira remains missing" or "the Drive has not been seen" is not a present-day contradiction once a later episode changes that status. The [chronology](../world/CHRONOLOGY.md) and [consistency ledger](../world/CONSISTENCY_LEDGER.md) hold the authoritative **latest researched cutoff** for reference use.
+
+- **E055–E065 — Between kingdoms and calamities:** three-month political aftermath, the Great Fang succession, Razak Val's disaster, and the arrival of **Follow, Rorf and Sira** (chapters I–X).
+- **E066–E068 — The Kervalon mission:** **Follow and Rorf die**, **Sira is abducted**, the spectral carriage brings the heroes to Kervalon, and they enter the defended ruins (chapters XI–XIII).
+- **E069–E077 — CHIDS and its hidden history:** institutional and demonic testimony, the living-walled laboratories, Cerinthala and Toby, the paired portal device, the lizardfolk vats, the Eye of Groxl and the **unverified Wall Nash** (chapters XIV–XXII).
+- **E078–E081 — Engineering and the final choice:** hive transport, the rescue of **Chance and Eddie**, first physical sight of the Drive, rockets and the commander battle, **Dolo Popio's manifested defeat**, **Sira's release**, **Chance's disappearance** and the **four protagonists' GM-declared deaths** in the crimson beam (chapters XXIII–XXVI).
+
+**End-of-arc distinction:** the heroes' disappearance and death declaration are **played/narrated E081 outcomes**, while their **irreversibility**, the **lasting condition of Earth and the Drive**, the **Principle's fate**, and the fate of **Chance in the void** remain unshown. The demon and hive council's explanations are **attributed accounts** rather than independent proof. See the [E081 dossier](../episodes/E081.md) and [arc audit](../reports/CHIDS_ARC_CONSOLIDATION_2026-10-22.md).
 
 ## I. Three months and a throne
 
