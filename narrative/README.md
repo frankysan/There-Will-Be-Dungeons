@@ -5,9 +5,10 @@ This directory holds **narrative histories**: readable retellings of the actual 
 ## Available narrative
 
 - **[Year One: From Dusthill to the Crown](YEAR_ONE.md)** — corrected [E000–E054](../project/EPISODE_NUMBERING.md), concluding with Hope's coronation and the first major arc finale. **Full E000–E054 spoilers**.
-- **[Year Two: Stones, Souls and the Great Fang](YEAR_TWO.md)** — next arc opening after the time jump: **E055–E075**, including the Principle's diplomacy, the Great Fang succession, CHIDS and the red/green portal apparatus; not a completed second arc.
+- **[Year Two: Stones, Souls and the Great Fang](YEAR_TWO.md)** — next arc opening after the time jump: **E055–E077**, including the Principle's diplomacy, the Great Fang succession, CHIDS, the red/green portal apparatus, the containment hive and disputed Wall Nash; not a completed second arc.
 - **[March 2019 Year One Q&A](../episodes/BONUS-2019-03.md)** — GM/cast retrospective after first arc, **not corrected E055**.
 - **[April 2019 Bonus Show 01: The First and Last](../episodes/BONUS-2019-04.md)** — cast Q&A; **no new in-world scenes**.
+- **[October 2019 public-release Q&A](../episodes/BONUS-2019-10.md)** — cast/GM creative commentary and separate *Inverse* material, **not a played Wastes session**.
 
 ## Reading rules
 
