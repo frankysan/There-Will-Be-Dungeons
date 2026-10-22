@@ -58,6 +58,7 @@ When a review is completed, record **episode + absolute recording time/cue IDs**
 | Priority | What to obtain or verify | Sources and scope |
 |---|---|---|
 | **High** | **Angelashi/Angel Ashi** exact word division; **Nobiery/Nobieri**, **Catoblepraithe**, **Kefeli**, **Prince Aladweir**, **Lazlo**, **Melgor/Fula/Relium**, **Pentael Wise** vs fan `Pentelvice`. | [Discord report](../reports/DISCORD_SPELLING_2026-10-21.md), [ledger](../world/CONSISTENCY_LEDGER.md), [E048](../episodes/E048.md), [E054](../episodes/E054.md) |
+| **High** | **Mawstorm** sword's exact orthography and homebrew item mechanics (owner-suggested; `Ma Storm`/`maw storm`/`moss storm` in ASR); check E037 ~02:19–02:46 and E038 recap ~00:03:54, preferably against a cast-written item sheet. Also index **Vorel's self-awarded titles**, beginning with **“Lizard King”** in E036 ~00:53–01:10, with speaker, cue, verbatim/uncertain wording and recognition status. | [E037](../episodes/E037.md), [E036](../episodes/E036.md), [Vorel title register](../world/characters/vorel.md), [June Q&A](../episodes/BONUS-2019-06.md) |
 | **High** | **Eye of Groxl mechanics** via GM item sheet; **NOT its identity/spelling** (owner resolved one item). Preserve separate skull helmet, changing scales and other artifacts. | [D-028](DECISIONS.md), [E053](../episodes/E053.md), [Vorel](../world/characters/vorel.md) |
 | **High** | **Soulbroker contract** image/text and precise conditions, Weir guest waivers versus three character soul signatures. | [E023](../episodes/E023.md), [Weir reference](../world/places/chateau-weir.md) |
 | **High** | **Robe of Useful Items** finite patch counts, items truly used E048/E051/E053; **Fox and Scully / Smokey's belt**, Vorel's hoard actual carried/reburied totals, Nash **Blink scroll**. | [E046](../episodes/E046.md)–[E054](../episodes/E054.md), [Q&A](../episodes/BONUS-2019-03.md) |
@@ -87,10 +88,12 @@ This is a **batch routing grid**, not a statement that every cue within a listed
 | [E049](../episodes/E049.md)–[E051](../episodes/E051.md) | Buttons betrayal, P0D involuntary change, Tedna/P0D deaths, Gem and guns, Kefeli, restored petrification |
 | [E052](../episodes/E052.md)–[E054](../episodes/E054.md) | Froghemoth fission, Eye of Groxl powers, alive Angelashi, Monsoon escape, returned host and coronation |
 | [BONUS-2019-03](../episodes/BONUS-2019-03.md) | Q&A retrospective cast/GM testimony; **not corrected E055** |
+| [BONUS-2019-04](../episodes/BONUS-2019-04.md) | Roundtable on early Year Two, character technique and GM's emergent Tietkalla design |
+| [BONUS-2019-06](../episodes/BONUS-2019-06.md) | May-spoken/June-archived bonus; Stanley/Nash/Vorel/Hope goals, Principle origin, unused encounters and sand-fishing design |
 
 **Publication crosswalk:** [Corrected episode numbering](EPISODE_NUMBERING.md). **Historical precision:** Timestamps and named questions for every group are in the frozen [full review queue](../research/legacy/2026-10-22/PROJECT_REVIEW_QUEUE.md). **Lore chronology:** [unified timeline](../world/CHRONOLOGY.md).
 
-## 5. E055–E056 and April 2019 bonus — newly opened checks
+## 5. E055–E056 and April/June 2019 bonuses — focused checks
 
 | Priority | Source time | What to review, and how to represent it |
 |---|---|---|
@@ -109,7 +112,10 @@ This is a **batch routing grid**, not a statement that every cue within a listed
 | **High** | Bonus April ~00:00–00:09 | **Diontalus switching on sleep**, dormant status, **Stanley's covert research through hospital/medical library**, Nash's choice not to interfere. **Player-retrospective explanations**, not a performed separation. |
 | **High** | Bonus April ~00:09–00:14 | GM intended brief **Tietkalla 2 town / 3–4 keep episodes**, emergent royal history, **Mogen Frogan** production inspiration. Never retroactively assert a gnome city as real Tietkalla history. |
 | **Medium** | Bonus April ~00:14–00:30 | Performer-versus-character choices: Jon's moral difficulty with Diontalus, Scott's dirty Nash, Kyle's Vorel vocabulary/Bok Bok, Kristen's emotional roleplay; **Waterworld** alternate-setting question is hypothetical. |
-| **High** | Whole archive | Reconcile corrected **E055/E056** against original publisher **56/57**, and April bonus's **own title/date field**. The spoken `April 29` is not independent distribution-date verification. |
+| **High** | Bonus June ~00:00–00:02:43 | Confirm **spoken May versus archived June** and timing/distribution; identify the **Leopold lab staff** and whether later passage supplies name/powers. Distinguish it from Stanley's **Immovable Rod**. [Dossier](../episodes/BONUS-2019-06.md) |
+| **High** | Bonus June ~00:02:43–00:07:05, ~00:16:28, ~00:19:29–00:21:51 | Validate **Jon's Stanley guilt/atonement and Principle/slavery reservations**, **Scott's Nash “of the Solar Mines”**, **Kristen's god-destruction endgame**; these are **player interpretations and intended arcs**, not new played scenes. |
+| **High** | Bonus June ~00:18:10–00:19:29, ~00:21:51–00:23:36 | Verify GM's **Principle >1,000 years/pre-Scorching/lich insufficiency** and **sand squid/shark/podcasting** context; **unused parodic fisherman and Mold Earth vehicle chase** are not direct encounters. |
+| **High** | Whole archive | Reconcile corrected **E055/E056** against original publisher **56/57**, and the April/June bonus **title/date labels**. Spoken May/April dates are not independent distribution-date verification. |
 
 **Every earlier Year One review subtask remains available** in [historic queue](../research/legacy/2026-10-22/PROJECT_REVIEW_QUEUE.md) and current categories above; the new episode section is an **active extension**, not a new separate append-only encyclopedia.
 
@@ -141,6 +147,6 @@ This is a **batch routing grid**, not a statement that every cue within a listed
 - [ ] Update only the affected **active ledger key**, source dossier and consolidated reference entry, with evidence and date.
 - [ ] Preserve raw SRT outputs and historical archived alternatives, never silently overwrite source recognition.
 - [ ] Run relevant documentary/index validation after edits; where **local files or code** change, run their applicable test suites and pass before claiming completion.
-- [ ] Continue source-backed review **after E060**; E055–E060 and both 2019 bonuses have provisional dossiers, **not independently listened/verified**.
+- [ ] Continue source-backed review **after E060**; E055–E060 and all three currently reviewed 2019 bonuses have provisional dossiers, **not independently listened/verified**.
 
 **Editorial consolidation is not audio verification.** Full [legacy queue](../research/legacy/2026-10-22/PROJECT_REVIEW_QUEUE.md) remains available for every fine-grained pending subtask.
