@@ -1,6 +1,6 @@
-# Characters and participants — campaign reference index (through E081)
+# Characters and participants — campaign reference index (through E083)
 
-**Spoilers:** Core table retains its **Year One E054 snapshot**; later status updates now cover corrected **E081**, with separate March/April/June/July/August/September/October/November-publication cast Q&As. The [Year One Q&A](../episodes/BONUS-2019-03.md) is not a played episode. **Quality:** These profiles synthesize provisional processed Parakeet SRT research; **they have not been checked against the audio**. For a story rather than an index, see [Year One](../narrative/YEAR_ONE.md).
+**Spoilers:** Core table retains its **Year One E054 snapshot**; later status updates cover corrected **E081** and the **E082–E083 Arc 3 opening**, with separate March/April/June/July/August/September/October/November-publication cast Q&As. The [Year One Q&A](../episodes/BONUS-2019-03.md) is not a played episode. **Quality:** These profiles synthesize provisional processed Parakeet SRT research; **they have not been checked against the audio**. For a story rather than an index, see [Year One](../narrative/YEAR_ONE.md).
 
 This is now the **subject-focused reference index**, not the append-only episode-batch ledger. The earlier 88,000-character source-first [character compendium is preserved](../research/legacy/2026-10-21/WORLD_CHARACTERS.md); the complete [pre-second-arc consolidation index](../research/legacy/2026-10-22/CHARACTERS_PRE_SECOND_ARC_CONSOLIDATION.md) preserves every additional interim status paragraph. Both archives retain their research history. A character's **earlier beliefs, reported fate and later observed status** must remain distinct. Roles in the podcast are not in-world identities.
 
@@ -86,8 +86,23 @@ The **previous Year One table above** represents the E054 state at that time; th
 | **Dolo Popio and Quizquaz** | **Hope destroys manifested Dolo body E081**; **Quizquaz appears and bargains** during the Drive decision. [E081](../episodes/E081.md) | Demon's enduring essence, soul contract and cosmic claims |
 | **Softhead, Dusthill returnees and Nobiery** | Softhead negotiates on Principle's behalf; Hope mutilates him. **Named Dusthill captives return E059**. Nobiery confesses concealed Soulbroker theology. [E055](../episodes/E055.md)–[E059](../episodes/E059.md) | Individual missing-person census, exact orthography and larger theology |
 
+## Third arc — Sigil newcomers and changed fates (E082–E083)
+
+**Spoiler horizon:** [E082](../episodes/E082.md)–[E083](../episodes/E083.md), **processed-ASR sources only**. This is a later development of the **E081 GM death declaration**, not a retcon of its cutoff or a claim that everyone was resurrected.
+
+| Person | Demonstrated by E083 | Outstanding boundary |
+| --- | --- | --- |
+| **[Vorel](characters/vorel.md)** | **Alive** in Sigil; Eye of Groxl **split and sacrificed its inner presence** to protect him E082. Carries Hope and Stanley to a trickster priest E083, **accepts a conditional humiliation-for-ritual proposal** and **registers for BMF**. | Still stranded, not paid for work or returned to home; no priest has raised Hope/Stanley. |
+| **[Nash Maggard](characters/nash-maggard.md)** | Conscious as floating dark heart E082; gains a finger, then after E083 long rest **a mouth and grasping hand**, regaining speech. **Registers for BMF**, seeks a strategy book. | **Not restored to humanoid form; no post-regrowth spell actually cast**. |
+| **[Hope Akmenos](characters/hope-akmenos.md)** | E082 body found without mechanical limbs. E083 trickster priest calls her a **Weir-associated petitioner** alongside Stanley; **both bodies transferred into crypt custody**. | **No resurrection**; priest's soul description and prospect of return are distinct. |
+| **[Stanley Billings](characters/stanley-diontalus.md)** | E082 dead/cold body recovered. E083 **examined with crystal**, shows attributed Infernal/Weir petitioner markings, then **body placed in crypts**. | **No resurrection**; Diontalus's previous separation and Soulbroker claims remain distinct. |
+| **[Squirts](characters/squirts.md)** (**Kristen's new PC**) | Kobold trickster with infant **Chunks**; guides party to hidden church, clashes with Pelor visitors. | **Not Hope** and **not a registered BMF competitor**. |
+| **[Nothing](characters/nothing.md)** (**Jon's new PC**) | Masked kenku who communicates mainly by mimicry; paid by Bill to guide, **registers for BMF as Nothing**. | **Not Stanley**; exact class, faction and broader backstory unknown. |
+
+Bill, the priest provisionally **Kidigree**, assistant **Susu**, Pelor's **Mereen/Frail/Belthuzad** delegation and tournament organiser **Terrence** are documented in the [E083 dossier](../episodes/E083.md) and the [Sigil location profile](places/sigil.md) rather than duplicated here.
+
 ## Evidence and navigation
 
 **Historical status rows were not deleted as research:** [the full pre-second-arc character index](../research/legacy/2026-10-22/CHARACTERS_PRE_SECOND_ARC_CONSOLIDATION.md) retains each E055–E081 interim checkpoint. Refer to [Year Two](../narrative/YEAR_TWO.md) for the connected story, [chronology](CHRONOLOGY.md) for date/order and [ledger](CONSISTENCY_LEDGER.md) for **currently open** identity or fate questions.
 
-**GM-declared deaths at E081 are established at that cutoff**, but later returns/afterlife and Earth/Drive state are beyond the processed recordings reviewed here. **Sira is released, Eddie survives, Chance is missing**. No new audio-verification or source correction was performed during this structural pass.
+**E081's GM-declared deaths remain established at that cutoff.** E082–E083 subsequently show **Vorel alive**, **Nash in a regenerating floating heart**, and **Hope/Stanley in petitioner/crypt custody with no completed resurrection**. **Sira is released, Eddie survives, Chance is missing** at their last E081 appearance; no new observations of them, Earth or the Drive are provided. No new audio-verification or source correction was performed during this structural pass.
