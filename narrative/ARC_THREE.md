@@ -2,7 +2,7 @@
 
 **The Wastes, third researched story arc — opening chapters, corrected E082–E084 (ongoing)**
 
-**Full spoilers through E084.** This is an **initial narrative**, not a completed arc or an audio-verified transcript. It retells the **played sessions** from their [source-first dossiers](../episodes/E082.md), [E083](../episodes/E083.md) and [E084](../episodes/E084.md), which are based on processed ASR. Dialogue is paraphrased; uncertain names and planar explanations are not certified by this prose. The [December 2019 cast Q&A](../episodes/BONUS-2019-12.md) is retrospective context, **not another chapter of events**. This is **The Wastes**, wholly separate from *Inverse*.
+**Full spoilers through E085.** This is an **initial narrative**, not a completed arc or an audio-verified transcript. It retells the **played sessions** from their [source-first dossiers](../episodes/E082.md), [E083](../episodes/E083.md), [E084](../episodes/E084.md) and [E085](../episodes/E085.md), which are based on processed ASR. Dialogue is paraphrased; uncertain names and planar explanations are not certified by this prose. The [December 2019 cast Q&A](../episodes/BONUS-2019-12.md) is retrospective context, **not another chapter of events**. This is **The Wastes**, wholly separate from *Inverse*.
 
 ## Prologue — After the light
 
@@ -174,6 +174,8 @@ Sigil promises doors everywhere, but none has yet brought the group home. The ne
 
 ### Later commentary, separate from the action
 
-In the [December 2019 bonus Q&A](../episodes/BONUS-2019-12.md), **Beau later explains** that Hope and Stanley's apparent bodies are **manifestations of souls interrupted on their way to the Weir**. That adds creator commentary to the trickster priest's explanation, but it does **not** place the knowledge in Vorel's hands at the start of E082, resurrect either companion, or settle the future of the contract. Beau also says he did not plan for **all four** to enter the beam in E081. These are **retrospective explanations**, not extra scenes between E082 and E085. The [bonus ASR comparison](../reports/BONUS_2019_12_ASR_COMPARISON_2026-10-22.md) remains **unverified against audio**.
+In the [December 2019 bonus Q&A](../episodes/BONUS-2019-12.md), **Beau later explains** that Hope and Stanley's apparent bodies are **manifestations of souls interrupted on their way to the Weir**. That adds creator commentary to the trickster priest's explanation, but it does **not** place the knowledge in Vorel's hands at the start of E082, resurrect either companion, or settle the future of the contract. Beau also says he did not plan for **all four** to enter the beam in E081. These are **retrospective explanations**, not extra scenes between E082 and E085. The [December 2019 bonus ASR comparison](../reports/BONUS_2019_12_ASR_COMPARISON_2026-10-22.md) remains **unverified against audio**.
+
+In the **[January 2020 public-release Q&A](../episodes/BONUS-2020-01.md)** (introduced aloud as the **December 2019** bonus), **Beau later calls the E085 arena apparition the Lady of Pain**. This is a **retrospective GM identification** rather than a declaration heard by the participants in the scene. He also says **Nash's spellcasting abilities remain intact**, though an **undisclosed external Sigil-specific influence** suppressed his spells. He anticipates Nash's gradual bodily regeneration, while **not explaining the in-world solution or enacting it in E085**. This discussion is not a tenth narrative chapter. [Two-ASR comparison](../reports/BONUS_2020_01_ASR_COMPARISON_2026-10-22.md).
 
 [Arc One](ARC_ONE.md) · [Arc Two](ARC_TWO.md) · [Arc 3 episode index](../world/CHRONOLOGY.md) · [World references](../world/README.md) · [Review queue](../project/REVIEW_QUEUE.md).
