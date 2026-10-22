@@ -16,6 +16,6 @@ This directory holds **narrative histories**: readable retellings of the actual 
 
 **Story chronology:** The unnumbered supplemental E013.5 has an earlier-in-story Hope/Vorel scene; the separate [E043 holiday special](../episodes/E043.md) is not part of the Wastes story. Episode numbering refers to the [archive's corrected IDs](../project/EPISODE_NUMBERING.md). Each narrative chapter links to its primary dossier range.
 
-**Scope:** The Year One narrative reveals how the first arc ends; Year Two records newly researched E055–E075 events even when they clarify earlier story. To experience events without future spoilers, read individual dossiers or source recordings in order instead.
+**Scope:** The Year One narrative reveals how the first arc ends; Year Two records newly researched E055–E077 events even when they clarify earlier story. To experience events without future spoilers, read individual dossiers or source recordings in order instead.
 
 **Migration and governance:** [Documentation architecture](../project/DOCUMENTATION_ARCHITECTURE.md), [editorial guide](../project/EDITORIAL_GUIDE.md) and [review queue](../project/REVIEW_QUEUE.md).
