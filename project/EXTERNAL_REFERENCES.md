@@ -239,8 +239,6 @@ No original SRTs, images or structured entity data were edited. See [listening q
 
 **Other source leads:** Tedna's **original letter handout**, contemporary custom **Ma Storm** and **Hope cybernetic implant** feature descriptions, Angel Ashi's story, and show-era **Teet map** (separate from later undated [wiki art](../sources/images/Map_-_The_Teet.webp)) are high-value materials to recover with dates/rights. No media rights are presumed.
 
-
-
 ## Discord cast-writing and cross-campaign resources (2026-10-21)
 
 The [written spelling evidence register](../reports/DISCORD_SPELLING_2026-10-21.md) describes 609 screened messages attributed to the five main cast members and separate linked materials. **Cast attribution is based on stable archive mappings and participation rather than independent account authentication**. The report **does not listen to audio** and only establishes where written forms appear. Do not copy private Discord database messages or original attachments out of ignored `local/`.
