@@ -1,6 +1,6 @@
 # The Wastes — active audio, source and editorial review queue
 
-**Status: OPEN tasks, updated 2026-10-22.** Full *Wastes* spoilers through corrected **E075**, with separate [March 2019 Q&A](../episodes/BONUS-2019-03.md), [April 2019 roundtable](../episodes/BONUS-2019-04.md), [June 2019 Q&A](../episodes/BONUS-2019-06.md), [July public-release 2019 bonus](../episodes/BONUS-2019-07.md), [August public-release 2019 bonus](../episodes/BONUS-2019-08.md) (spoken July 27), and [September public-release 2019 bonus](../episodes/BONUS-2019-09.md). **No new listening, SRT editing or handout verification occurred during consolidation.** The [consistency ledger](../world/CONSISTENCY_LEDGER.md) identifies **what remains uncertain versus resolved**. This queue tells reviewers **where to listen or which sources to compare**.
+**Status: OPEN tasks, updated 2026-10-22.** Full *Wastes* spoilers through corrected **E077**, with separate [March 2019 Q&A](../episodes/BONUS-2019-03.md), [April 2019 roundtable](../episodes/BONUS-2019-04.md), [June 2019 Q&A](../episodes/BONUS-2019-06.md), [July public-release 2019 bonus](../episodes/BONUS-2019-07.md), [August public-release 2019 bonus](../episodes/BONUS-2019-08.md) (spoken July 27), and [September public-release 2019 bonus](../episodes/BONUS-2019-09.md), plus [October public-release Q&A](../episodes/BONUS-2019-10.md) (recording day not verified). **No new listening, SRT editing or handout verification occurred during consolidation.** The [consistency ledger](../world/CONSISTENCY_LEDGER.md) identifies **what remains uncertain versus resolved**. This queue tells reviewers **where to listen or which sources to compare**.
 
 **Complete historical backlog preserved:** The entire ~73k-character pre-Phase-D [review queue, including its many timed episode-by-episode tasks](../research/legacy/2026-10-22/PROJECT_REVIEW_QUEUE.md), is frozen with functioning relative links. Its outstanding tasks were **not automatically closed** by omission from this shorter index. The original [consistency issue register](../research/legacy/2026-10-22/WORLD_CONSISTENCY_LEDGER.md) also preserves exact issue keys and status history.
 
@@ -101,6 +101,8 @@ This is a **batch routing grid**, not a statement that every cue within a listed
 | [E072](../episodes/E072.md)–[E073](../episodes/E073.md) | Cerinthala and four preserved humans in frozen data center; +1 AC cursed necklace; ice constructs, Slow Peters and Careful Spell; service tunnels, bio-labs, broken focus, elevator spider; see section 12 |
 | [BONUS-2019-09](../episodes/BONUS-2019-09.md) | Public September bonus: Solar Mines official-map existence versus Nash's potentially unreliable memories, Stanley feat revision, future Fate 5; see section 12 |
 | [E074](../episodes/E074.md)–[E075](../episodes/E075.md) | Spider matriarch and brain-backed swarms; Cerinthala crushed and later resurrected/betrays; red memory-drain creature, body worms, secure red/green portal device, unexplored back-room vent and bugbear charge; see section 13 |
+| [E076](../episodes/E076.md)–[E077](../episodes/E077.md) | **Actually executed portal escape**; containment chasm, winged predator, phantasms, rocket/tonic supplies, anti-dragon suit, neural reprogramming, Lethanphius, device necrotic beam, hive council and disputed Wall Nash; see section 14 |
+| [BONUS-2019-10](../episodes/BONUS-2019-10.md) | October public-release cast Q&A: Nash's baby hand as optional dragon claw, family themes and **separate Inverse** library/DM history; see section 14 |
 
 **Publication crosswalk:** [Corrected episode numbering](EPISODE_NUMBERING.md). **Historical precision:** Timestamps and named questions for every group are in the frozen [full review queue](../research/legacy/2026-10-22/PROJECT_REVIEW_QUEUE.md). **Lore chronology:** [unified timeline](../world/CHRONOLOGY.md).
 
@@ -288,13 +290,33 @@ This is a **batch routing grid**, not a statement that every cue within a listed
 
 **E075 cutoff:** **Four protagonists alive**. Vorel faces **charging bugbear force** while Hope has **one red/green portal device**, escape **planned but unplayed**. **Stanley, Nash, Vorel** have **unresolved memory-drain**; **Cerinthala returned from E074 death, betrayed party and escaped**, **Toby's visible body defeated**. **Illithid operator dead and three worms destroyed**, but **disk not recovered**. **Sira still abducted** and **Traversal Drive unexamined**.
 
-## 14. Work completion checklist
+
+## 14. E076–E077 and October 2019 bonus — source verification
+
+| Priority | Source time | Exact review question / effect on published documentation |
+| --- | --- | --- |
+| **Critical** | E076 ~00:05–00:35 | **Paired portal escape actually happens**, and **Hope kills a second illithid**. Verify portal order, enemy telepathic **return** instruction and **headworm visibly ejected but not crushed**; distinguish this from the earlier E075 illithid's three crushed worms. |
+| **Critical** | E076 ~00:35–00:48 | **Nash's failed singing** at selective membrane and **Dimension Door** workaround; ensure E075's singing success is not repeated unchanged. E075 possible back-room vent **not explored**. |
+| **High** | E076 ~00:47–01:49 | **Damaged containment catwalk**, bridge controls reporting extended, Nash's flight-briefs traversal, portal-device **Hope → Nash** custody, winged blue-black monster, temporary **Frightened** versus earlier lasting memory-penalty, **Hope killing creature**, later endpoint/creature-head interaction. |
+| **High** | E076 ~01:48–02:13 | **Blue translucent worker echoes** register voices/touches but type without moving physical keyboard; exact **psy blade/nanoweave** readout and whether they are ghosts, projected recordings or mind-storage data. |
+| **Critical** | E076 ~02:14–02:49 | **Hope picks up two launcher rockets**, one loaded, five **Blue Bull**, five **Monster Mender**; **Vorel takes one extra bottle of each**. Blue tastes briefly stimulating only after Nash's small lick. **C-Disk** label not a recovered disk. Verify **white cases still sealed**. |
+| **Critical** | E076 ~02:30–02:45; E077 ~00:07–00:09 | **Vorel anti-dragon ensemble**: suit counts as armor, **reduces Unarmored Defense AC**; linked shoulder harpoons, rocket boots, helmet mind-control defenses; correct manufacturer/model wording, combat stats and Eye-of-Groxl visibility after suit is donned. |
+| **Critical** | E077 ~00:35–01:04 | **Deceased lizardfolk subjects and neuro-conditioning macros** versus Cerinthala's wider species-origin claims; **G-R-0-X-1** vessel lettering and exact spelled **Lethanphius**. The Eye's shame/rage is observed; origin is not yet independently proven. |
+| **Critical** | E077 ~01:03–02:30 | Flesh wall releases black-winged subject; **Nash ultimately kills it**. Exact damage from Hope's **continuous neutralization-mode necrotic beam** (friend Vorel also hit); Vorel's **pinky, thumb and full hand on different sides**, temporary unconsciousness, Stanley's healing, Monster Mender and later **GM-restored digits**. Avoid persisting a handless Vorel. |
+| **Critical** | E077 ~02:33–02:50 | **Hive council** as observed flesh-made speaking figure. Audit its claims to old CHIDS human-wisdom archive, thousands of minds, deliberation and leadlike anti-illithid shielding, limited cameras and contradictory answer about Cerinthala's death; separate direct events from its account. |
+| **Critical** | E077 ~02:51–03:15 | **Second flesh figure claims future-Nash identity and 800-year entrapment**; precise warnings about **Soulbroker/Quizquaz, Sira, destroying Earth, Hope's family and one-person Drive shutdown**. **Neither testimony nor speculation is a played future death or inevitable history**. Compare with E063–E065 future-Nash/egg claims, identify contradictions. |
+| **High** | E077 ~03:14–end | **Hive council claims Lethanphius abducted from heaven and GR0X1 divinity-derived**; says illithids occupy 'Carl Jim Baker' engineering. **GM grants level 9, full rest and Monster Mender limb reattachment**, but **no demonstrated recovery yet from lasting eaten-memory penalty**. Check remaining supplies and exact code promises. |
+| **High** | October bonus ~00:00–00:34 | **Public-publication month vs recording date**, one-week early access; Nash **dragon-claw image is Scott's optional headcanon**, not retcon; families/offspring thematic only. **Jon's Inverse Zelganeth library, Murgut, Spores and abandoned planning notes** belong to **another campaign** and possibly an independent Discord handout, not Wastes canon. |
+
+**E077 cutoff:** Four heroes alive, **GM awards level nine and full rest**, Vorel's fingers/hand **narratively reattached** after being frozen by Nash, one portal device **back with Hope** and **neutralization beam now observed**. **Hive council proposes but has not executed transport into engineering**. **Sira not rescued, no party use of Traversal Drive**, future Wall Nash's planetary-destruction story is **unverified testimony**, not current chronology. No new audio verification occurred.
+
+## 15. Work completion checklist
 
 - [ ] Listen to selected critical cues and create **audio-grounded transcript excerpts** with timestamps and performer attribution.
 - [ ] Reconcile original contracts, house records and item handouts with spoken claims; if unavailable, record that explicitly.
 - [ ] Update only the affected **active ledger key**, source dossier and consolidated reference entry, with evidence and date.
 - [ ] Preserve raw SRT outputs and historical archived alternatives, never silently overwrite source recognition.
 - [ ] Run relevant documentary/index validation after edits; where **local files or code** change, run their applicable test suites and pass before claiming completion.
-- [ ] Continue source-backed review **after E075**; E055–E075 and all six currently reviewed 2019 bonus recordings have provisional dossiers, **not independently listened/verified**.
+- [ ] Continue source-backed review **after E077**; E055–E077 and all seven currently reviewed 2019 bonus recordings have provisional dossiers, **not independently listened/verified**.
 
 **Editorial consolidation is not audio verification.** Full [legacy queue](../research/legacy/2026-10-22/PROJECT_REVIEW_QUEUE.md) remains available for every fine-grained pending subtask.
