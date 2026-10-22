@@ -1,6 +1,6 @@
 # The Wastes — active audio, source and editorial review queue
 
-**Status: OPEN tasks, updated 2026-10-22.** Full *Wastes* spoilers through corrected **E068**, with separate [March 2019 Q&A](../episodes/BONUS-2019-03.md), [April 2019 roundtable](../episodes/BONUS-2019-04.md), [June 2019 Q&A](../episodes/BONUS-2019-06.md) [July public-release 2019 bonus](../episodes/BONUS-2019-07.md) and [August public-release 2019 bonus](../episodes/BONUS-2019-08.md) (spoken July 27). **No new listening, SRT editing or handout verification occurred during consolidation.** The [consistency ledger](../world/CONSISTENCY_LEDGER.md) identifies **what remains uncertain versus resolved**. This queue tells reviewers **where to listen or which sources to compare**.
+**Status: OPEN tasks, updated 2026-10-22.** Full *Wastes* spoilers through corrected **E071**, with separate [March 2019 Q&A](../episodes/BONUS-2019-03.md), [April 2019 roundtable](../episodes/BONUS-2019-04.md), [June 2019 Q&A](../episodes/BONUS-2019-06.md) [July public-release 2019 bonus](../episodes/BONUS-2019-07.md) and [August public-release 2019 bonus](../episodes/BONUS-2019-08.md) (spoken July 27). **No new listening, SRT editing or handout verification occurred during consolidation.** The [consistency ledger](../world/CONSISTENCY_LEDGER.md) identifies **what remains uncertain versus resolved**. This queue tells reviewers **where to listen or which sources to compare**.
 
 **Complete historical backlog preserved:** The entire ~73k-character pre-Phase-D [review queue, including its many timed episode-by-episode tasks](../research/legacy/2026-10-22/PROJECT_REVIEW_QUEUE.md), is frozen with functioning relative links. Its outstanding tasks were **not automatically closed** by omission from this shorter index. The original [consistency issue register](../research/legacy/2026-10-22/WORLD_CONSISTENCY_LEDGER.md) also preserves exact issue keys and status history.
 
@@ -98,6 +98,8 @@ This is a **batch routing grid**, not a statement that every cue within a listed
 | [E068](../episodes/E068.md) | Actual T. rex Polymorph, illithid skin, sealed guards, magical shaft, hidden biting-panel doors; see section 10 |
 | [BONUS-2019-07](../episodes/BONUS-2019-07.md) | Public July bonus, spoken June 29 recording, character/GM retrospective |
 | [BONUS-2019-08](../episodes/BONUS-2019-08.md) | Public August bonus, spoken July 27 recording, Solar Mines radiation, artifacts and shaft-clue explanation |
+
+| [E069](../episodes/E069.md)–[E071](../episodes/E071.md) | CHIDS entrance/funicular and ID systems, illithid office, Charles upload, Hell's UBI imp, Principle allegations, archive and frozen data center; see section 11 |
 
 **Publication crosswalk:** [Corrected episode numbering](EPISODE_NUMBERING.md). **Historical precision:** Timestamps and named questions for every group are in the frozen [full review queue](../research/legacy/2026-10-22/PROJECT_REVIEW_QUEUE.md). **Lore chronology:** [unified timeline](../world/CHRONOLOGY.md).
 
@@ -224,13 +226,35 @@ This is a **batch routing grid**, not a statement that every cue within a listed
 
 **Cutoff:** E068 **one illithid body visibly defeated, true identity still unresolved; Sira not rescued; trap occupancy not checked; shaft tested but concealed steel doors not opened**. August bonus is **after-session commentary**, not E069.
 
-## 11. Work completion checklist
+## 11. E069–E071 — source checks, retcon and new-world claims
+
+| Priority | Source / recording time | Exact validation target and boundary |
+|---|---|---|
+| **Critical** | E069 ~00:01–00:05; E070 ~00:00–00:03 | Cast **Mold Earth loose-earth-only clarification** and **E068 trap retcon**: preserve what characters did while flagging **earlier stone-wall moves as GM adjudication, not official cantrip rules**. Source wording and the E057 diamond-dust question need review. |
+| **High** | E069 ~00:08–00:22 | **Door Authority** recognizes party, claims crimes against **“doormanity”**, bargains for small **actual Acid Splash**, then opens **CHIDS** steel doors. Distinguish acid actually cast **E069** from threat-only **E071 Archives door**. |
+| **High** | E069 ~00:22–00:52 | **45° funicular**, purple/grape fog and worm direction, **pink sleep flowers**, Nash and Hope asleep; **Stanley elf/magical-sleep exception**, **Feather Fall during crash**, no operable funicular afterward. |
+| **Critical** | E069 ~00:58–01:11 | **Center for Human-Demon Interdisciplinary Studies / CHIDS/C-TEST** name from sign and Julia's voice, **United Federation of Continents**, **infernal-wave / mega cooker** labels, **red/green/blue line map**. Seek image/map/official spelling; separate antique recordings from current operating science. |
+| **High** | E069 ~01:16–01:49 | **Five staff IDs**: Stefan Borghetty, Bobby Bees, demonic **Dr. Yxtlee/Yxtle**, **Ricky Julian**, **Tara Mebat**. Floating skeleton's **magically chilled flight underwear**, **Nash wears first, 10-foot fly**. At oxygen bar **briny brown gas poisons Nash for 6 damage**; no explicit cure/expiry. **Ricky card destroyed**, Hope's gun-detecting checkpoint requires Vorel escape breach. |
+| **High** | E069 ~02:05–02:37 | **CHIDS train route** and caved-in vs accessible stations: Laboratory A crystals **seen but not entered**; Gordon Shuttle Bay **skipped**, security/transfer corpses and **executive offices exploration**. Resolve exact station-name spellings. |
+| **Critical** | E069 ~02:35–end; E070 ~00:05–00:12 | **Hope's apparent tentacle attack** is **a plush mind-flayer doll**, not a live attacker; Hope **keeps it**. Observe squeak/nervous effect and unexplained noise; don't invent a real demon at the E069 cutoff. |
+| **High** | E070 ~00:29–01:07 | Vorel's songs and **“one step king” candidate ASR lyric** versus **explicit Lizard King refrain**, wall-passing **empathic psychic orbs**, their response to Nash/Vorel versus Hope/Stanley and to doll squeaking. **No proof they judge morality or of extra possession**. |
+| **Critical** | E070 ~01:10–01:40 | **Eight wired glasses**, Nash/Hope virtual-avatar office, **Charles Dickens** name/appearance, **Void Realm “ethereal projection”** claim, **Traversal Drive and Ovaxiad name** as reported by Charles, **fake soul-report delay proposal**. Distinguish *observed projection and claims* from unverified mechanism. |
+| **Critical** | E070 ~01:42–02:01; E071 ~01:32–01:41 | Hope **cockroach/coffee cup/car avatars**, Nash **uploads file**, install wizard including unwanted “antivirus” behavior, **security employee realizes intruder**, alarms appear physically as well, headset membranes **fail to trap them**. E071 screen message purporting to be **Charles confirms transfer**, but **planned months of delay is unmeasured**; Nash's **burnt disk casing** custody. |
+| **Critical** | E070 ~02:00–03:04; E071 ~00:05–00:40 | **Hellhound/security-ape combat**: Stanley **Polymorphs first ape into live snail**, second appears invisible; Vorel **Enlarged with hound clubs**, Nash **Absorb Elements / Dimension Door**, Hope **arm shotgun jams then E071 Action Surge clears it**, Scully extra radiant against fiends. **One ape actually dies E071; the other remains snail**. |
+| **Critical** | E071 ~00:39–01:09 | **Alvert/Albert** first spoken name, **Underworld Bureau of Investigation ID**, Hell vs Weir soul-jurisdiction claims, and **Principle as immortal scientist / Steel God avatar / alleged gene-farm liquefaction**. Label **allegation, with the human-soup aspect described as rumor**, pending handout corroboration. Do **not** convert to factual biography. |
+| **High** | E071 ~01:09–01:28 | Alvert's **engineering** likely Traversal Drive, **unpowered face door**, suspected **bugbear silhouettes** near southern station, and party risk/rest decision. **No encounter with alleged bugbears, no verified identity**. |
+| **Critical** | E071 ~01:40–01:54 | **Polymorphed snail retrieved alive and placed on empty train**, which party **sends toward possible hostile forces**; neither crash, ape reversion, death, nor combat is observed. Track actual custody through E071 instead of treating decoy outcome as played. |
+| **Critical** | E071 ~02:00–02:47 | **Door Street Journal** sentient Archives gate opens with executive credential **without actual Acid Splash**; Archives **inner doors/terminals have no power**. **Data center is a different destination from engineering**, has **~20 feet refreezing ice**; **Stanley Heat Metal, Vorel Eye of Groxl and Nash Fire Bolt** open **high vent**, not main gate. One **cooling/flying briefs** transfers **Nash → Stanley → Hope → Vorel**, who **carries Nash**, and **Alvert stays outside**. **No long rest, data room or machine accessed**. |
+
+**E071 source cutoff:** **Sira remains missing**, **Follow/Rorf remain dead**, **Charles says transfer succeeded but no externally measured delay**, **Alvert's Principle claims unverified**, **only one security ape dies; snail decoy result unknown**, **four PCs are inside the icy ventilation duct**. No original ASR source was altered and no audio verification was performed.
+
+## 12. Work completion checklist
 
 - [ ] Listen to selected critical cues and create **audio-grounded transcript excerpts** with timestamps and performer attribution.
 - [ ] Reconcile original contracts, house records and item handouts with spoken claims; if unavailable, record that explicitly.
 - [ ] Update only the affected **active ledger key**, source dossier and consolidated reference entry, with evidence and date.
 - [ ] Preserve raw SRT outputs and historical archived alternatives, never silently overwrite source recognition.
 - [ ] Run relevant documentary/index validation after edits; where **local files or code** change, run their applicable test suites and pass before claiming completion.
-- [ ] Continue source-backed review **after E068**; E055–E068 and all five currently reviewed 2019 bonus recordings have provisional dossiers, **not independently listened/verified**.
+- [ ] Continue source-backed review **after E071**; E055–E071 and all five currently reviewed 2019 bonus recordings have provisional dossiers, **not independently listened/verified**.
 
 **Editorial consolidation is not audio verification.** Full [legacy queue](../research/legacy/2026-10-22/PROJECT_REVIEW_QUEUE.md) remains available for every fine-grained pending subtask.
