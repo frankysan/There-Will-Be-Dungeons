@@ -1,6 +1,6 @@
 # Year Two — Stones, Souls and the Great Fang
 
-**Narrative status:** Opening chapters covering corrected **E055–E073** after the played three-month downtime. **Full spoilers** for these episodes and the first arc. This is an editorial retelling drawn from **processed Parakeet SRTs, not an audio-verified transcript**. The [April 2019 bonus](../episodes/BONUS-2019-04.md) offers out-of-character interpretation, not a third scene or definitive unseen event. The full first arc ends in [Year One](YEAR_ONE.md).
+**Narrative status:** Opening chapters covering corrected **E055–E075** after the played three-month downtime. **Full spoilers** for these episodes and the first arc. This is an editorial retelling drawn from **processed Parakeet SRTs, not an audio-verified transcript**. The [April 2019 bonus](../episodes/BONUS-2019-04.md) offers out-of-character interpretation, not a third scene or definitive unseen event. The full first arc ends in [Year One](YEAR_ONE.md).
 
 ## I. Three months and a throne
 
@@ -280,8 +280,50 @@ At a bank of four elevators, one summoned lift plunges away with a crash. The ne
 
 **Evidence:** [E073](../episodes/E073.md). The lab's **physical vessels and dangerous membrane are witnessed**; the claim that ancient scientists created all lizardfolk and vampires remains **Cerinthala's testimony**, pending further evidence.
 
-## Where the story stands after E073
+## Interim checkpoint — after E073
 
 **All four protagonists and Cerinthala are alive near the roof of a stalled CHIDS elevator**, with a **gigantic spider-like creature descending**. **Stanley's +1 AC totem necklace remains on him, and Cerinthala has admitted it is cursed**, tightening and shocking him when he turns against her. **Nash's staff is broken**, with its nail-bearing portion still usable as a focus. **Vorel refused an offer to engineer a child**. Cerinthala **actually remotely unlocked the engineering access**, but **the group has not physically inspected or activated the Traversal Drive**, nor rescued **Sira**. **Alvert's whereabouts beyond the E071 data-center exterior are not newly observed**. The [September public-release bonus](../episodes/BONUS-2019-09.md) adds important cast explanations and speculations, not new played events.
+
+## XIX. The Big Red One
+
+Something crawls down the elevator shaft toward the companions, eight glittering eyes above a dark, furry body. Worse still, **hundreds of smaller spiders rain from the darkness**, each marked by a strange, exposed piece of **red, brainlike tissue**. The creatures bite and poison; Hope is bitten again and again as she helps haul the ancient elf out of the stalled elevator. Vorel raises the flaming **Eye of Groxl** like an umbrella and burns the falling pests out of the air.
+
+The final elevator cable gives. **Stanley casts Feather Fall** and the group abandons the swaying lift. Above them the huge spider scrabbles down the shaft wall. Stanley changes the beast into **a sheep**; it plummets out of sight, strikes the floor and bursts back into its true arachnid form. The creature survives the fall and tries to dominate Vorel's mind, compelling him to gather prey for its feast. **Nash's Fireball disrupts that hold**, and Vorel returns to the fight. At the bottom of the shaft **Hope fires two devastating shotgun shots**, killing the spider matriarch.
+
+There is enough of the fallen creature left for Vorel to turn its armor into gifts: a **shield for the shrunken Cerinthala** and a tiny matching guard for **Hope's spare mechanical hand**. Their uneasy guide keeps eating handfuls of dead spiders while the companions pry open a door into the lowermost laboratory level.
+
+The passage beyond seems to be breathing. **Pink flesh coats the walls and closes across the corridor** when certain people approach. It allows Hope, Stanley and Vorel through, yet bars Nash and the old elf. Nash remembers that he attacked a similar growth with his staff—and that it broke his staff in return. Perhaps he has made it angry. With astonishing seriousness he sings **songs from the ancient world**—the kind of jingles he learned in the Solar Mines—and the opening loosens enough for him to pass. Cerinthala's attempted tune goes less well. **The passage closes completely around her, and her body falls out lifeless.** The others carry the small corpse on the shield Vorel just made. A black, oily residue comes away on their fingers; Nash decides to taste it, and his tongue soon begins to itch and swell.
+
+A little farther down, **two lizardfolk bearing the same sort of energy rifles as Kervalon's defenders** fire on them. Vorel's flaming shield kills one, and Stanley's flying sword **Diplomacy** finishes the other. They find a control room beyond. Through a window an **illithid at a computer** sees them, hurriedly takes **a disk from the console**, hides it in his robe and attempts to flee.
+
+Hope is ready. Vorel makes a launching step with his hands, sending her high across the room on the power of her artificial leg. **She grabs the illithid from behind and holds him in her mechanical arm**. But the creature has already called something else. In a storm of dark mist **an enormous red mass emerges**, filled with moving faces and thrashing tendrils. It batters Vorel, tearing at more than his body: **something reaches into his memories and steals pieces away**. Nash becomes his **black dragon** self and finds the same force trying to consume his mind. Stanley heals Vorel, only for the captured illithid's **Mind Blast** to strike him down again.
+
+The thing begins to make new fighters from its own flesh. **A Vorel steps out, tethered by red strands to the monster**. Then a huge **dragon-Nash** emerges, equally connected, wearing the face and form of a friend. The living companions cannot know which memories have been lost; only that **their thoughts no longer quite belong to them**.
+
+**Evidence:** [E074](../episodes/E074.md). The spider queen's death, Cerinthala's lifeless body and the red mass's two replicas are played events; the ultimate meaning of the memory-drain penalty remains under review.
+
+## XX. A passage out of the world
+
+The copy of Nash blasts **acid breath** at its original. But the real Nash, a black dragon, is **immune to acid**, and the mimic's strike fails. The vast red thing turns on Stanley, knocking him unconscious and **devouring part of his memories too**. Vorel staggers back into battle, the **Eye of Groxl blazing**, and **destroys the central red horror**. Its two fleshy imitations dissolve at once.
+
+Hope has never released the illithid. Her metal arm tightens as the mind flayer struggles, and Nash's dragon teeth finally bring the fight to an end, **ripping the body away while Hope holds the head**. Stanley lies motionless, but his body fights for life; he **stabilizes after three successful death saves**. The group searches for a way to heal him, eventually letting him rest in the old room until consciousness returns.
+
+Their rummaging yields peculiar clues. Beneath Cerinthala's many coats lie **a transparent blue jewel** and **an old employee ID showing her name and a beautiful red-haired face**. A cryptic **password note** does not open the computer. The illithid's concealed disk is nowhere to be found. But the dead mind flayer has a darker secret: **Hope opens his skull and finds a black worm**. Another emerges from each of the slain lizardfolk guards. **All three worms are crushed**, a warning that infestation has found its way into this buried world.
+
+Through a further security door is a little sealed room inside another room, lined with unfamiliar metal and so quiet the adventurers hear their own bodies. **Hope coordinates the controls** while Vorel, Nash and Stanley turn valves and press buttons. At last, a small cradle opens, presenting **an unusual white sleeve-mounted weapon with two triggers**, one producing a **red** shot and the other **green**. Vorel eagerly collects it. It seems to do no damage when pointed at an enemy.
+
+Just then **Cerinthala wakes**. Her death has not been permanent. For a brief moment she appears confused, searching for Toby and the coats that have been stripped away. Then the false alliance falls apart. She **calls for Toby, paralyzes Hope with magic, and announces that her illithid employer wants the party taken alive**. The **blue jewel** the party recovered becomes the seed or vessel of **another immense icy Toby**, and the old elf runs.
+
+The adventurers destroy the ice form with flame, exposing the animated human inside, then kill **Toby's corpse** as well. Stanley **dispels Cerinthala's wall of ice** and gives chase, but the old woman vanishes near the living, flesh-lined corridor. Only a trail of oily residue and patches of ice hint at how she passed. The team now knows she **can return from the dead**; whether that makes her safe, trustworthy or immortal in every circumstance is quite another matter.
+
+The white weapon seems nearly useless until Vorel fires **red and green charges into two walls**. Two apertures open, each leading straight into the other. **Nash recognizes a paired-portal trick from an ancient entertainment device**, and the group realizes it may have found an escape route far better than another collapsed elevator. **Vorel hands the single portal device to Hope**.
+
+The bugbears arrive first. Metal crashes in the halls, flames sweep the fleshy corridor, and **armed goblinoid troops pour toward the laboratory**. Nash sends a **Fireball** down the passage, wiping out their front ranks. Vorel steps forward to lure the survivors toward the others, who have planned a route through the portals. Ahead are **dozens of bugbears—and an illithid in their ranks**. Vorel bellows a challenge in Goblin. The enemy charges.
+
+**Evidence:** [E075](../episodes/E075.md). A linked red/green portal pair is actually demonstrated, but **the proposed escape through it has not yet happened**. Cerinthala's resurrection and betrayal are observed; her ultimate fate remains unknown.
+
+## Where the story stands after E075
+
+**All four protagonists are alive in the lower CHIDS armament complex.** **Vorel has stepped into the corridor as bait**, with **roughly fifty bugbears charging** and an illithid farther back; **Hope carries the newly recovered red/green [portal device](../world/technology/portal-device.md)** near the others. **Stanley, Nash and Vorel each bear a persistent memory-draining effect** from the killed red creature; Stanley survived unconsciousness and recovered enough to act. **Cerinthala revived and betrayed them, then escaped**; **Toby's visible ice form and walking corpse were destroyed**. **Stanley's cursed +1 AC amulet has not been removed**, and **Sira is still missing**. **No successful portal escape, launch to Elhandar or Traversal Drive activation has been played.**
 
 **Editorial boundary:** The [Year One Q&A](../episodes/BONUS-2019-03.md) preceded the played time jump; the [April bonus roundtable](../episodes/BONUS-2019-04.md) is out-of-character commentary after at least E055, not a substitute for E056. The [active consistency ledger](../world/CONSISTENCY_LEDGER.md) and [review queue](../project/REVIEW_QUEUE.md) track name spellings, evidence limits and unresolved mechanics.
