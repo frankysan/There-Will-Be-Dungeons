@@ -1,0 +1,3744 @@
+1
+00:00:04,880 --> 00:00:07,120
+(speaker 0) Welcome to another episode of the bonus.
+
+2
+00:00:07,600 --> 00:00:08,480
+(speaker 0) There will be dungeons.
+
+3
+00:00:08,640 --> 00:00:09,680
+(speaker 0) Yeah, we do it once a month.
+
+4
+00:00:09,760 --> 00:00:10,080
+(speaker 0) That's right.
+
+5
+00:00:10,320 --> 00:00:12,080
+(speaker 0) We do it because you guys support us, and we
+
+6
+00:00:12,160 --> 00:00:12,800
+(speaker 0) really appreciate it.
+
+7
+00:00:12,960 --> 00:00:14,720
+(speaker 0) And it's a chance for us to answer your hard-
+
+8
+00:00:14,960 --> 00:00:18,000
+(speaker 0) hitting, interesting, and fantastic questions you
+
+9
+00:00:18,080 --> 00:00:18,640
+(speaker 0) send us each month.
+
+10
+00:00:19,000 --> 00:00:20,240
+(speaker 0) So thanks for those, and keep those coming.
+
+11
+00:00:20,480 --> 00:00:20,560
+(speaker 0) I
+
+12
+00:00:20,640 --> 00:00:21,840
+(speaker 1) want to jump in before we get to questions.
+
+13
+00:00:21,920 --> 00:00:24,960
+(speaker 1) Yeah, yeah, because we just finished the the
+
+14
+00:00:25,070 --> 00:00:27,280
+(speaker 1) season finale, and you guys did awesome.
+
+15
+00:00:28,495 --> 00:00:30,540
+(speaker 1) And congratulations on that!
+
+16
+00:00:31,180 --> 00:00:31,260
+(speaker 1) Well,
+
+17
+00:00:31,580 --> 00:00:31,980
+(speaker 0) thanks, man.
+
+18
+00:00:32,195 --> 00:00:33,900
+(speaker 0) No, you deserve the credit.
+
+19
+00:00:34,300 --> 00:00:36,060
+(speaker 0) You got the story master over there.
+
+20
+00:00:36,220 --> 00:00:38,140
+(speaker 0) Look at you with the great ideas and the fun
+
+21
+00:00:38,380 --> 00:00:38,540
+(speaker 0) stuff.
+
+22
+00:00:39,085 --> 00:00:42,220
+(speaker 1) I just, I just, I just hope you guys enjoy the the
+
+23
+00:00:42,300 --> 00:00:44,140
+(speaker 1) hooks and the the bait that's laid out.
+
+24
+00:00:44,380 --> 00:00:45,420
+(speaker 1) Everybody jumped at it.
+
+25
+00:00:45,580 --> 00:00:46,620
+(speaker 1) It was an awesome fall.
+
+26
+00:00:47,135 --> 00:00:48,700
+(speaker 1) I loved how in character.
+
+27
+00:00:48,840 --> 00:00:50,860
+(speaker 1) Like it's a weird thing to say, but I loved how
+
+28
+00:00:51,020 --> 00:00:54,220
+(speaker 1) in character overwhelms you all were in the final
+
+29
+00:00:54,380 --> 00:00:54,860
+(speaker 1) moments.
+
+30
+00:00:54,940 --> 00:00:57,180
+(speaker 0) Oh well, I love when we fall for your bait.
+
+31
+00:00:57,485 --> 00:00:59,960
+(speaker 0) Because that means it was smart bait, so good job
+
+32
+00:01:00,040 --> 00:01:00,520
+(speaker 0) on the bait.
+
+33
+00:01:00,840 --> 00:01:01,720
+(speaker 0) You're a master bater.
+
+34
+00:01:01,949 --> 00:01:02,600
+(speaker 0) That's what I'm saying.
+
+35
+00:01:02,760 --> 00:01:03,640
+(speaker 0) That's what I was getting at.
+
+36
+00:01:05,720 --> 00:01:06,920
+(speaker 0) I don't know why everyone's laughing.
+
+37
+00:01:06,920 --> 00:01:07,240
+(speaker 0) Get a
+
+38
+00:01:07,320 --> 00:01:08,440
+(speaker 2) GM, the MB.
+
+39
+00:01:08,840 --> 00:01:08,920
+(speaker 2) Yeah,
+
+40
+00:01:09,080 --> 00:01:09,480
+(speaker 0) the MB.
+
+41
+00:01:09,720 --> 00:01:09,960
+(speaker 0) Well done.
+
+42
+00:01:10,360 --> 00:01:11,800
+(speaker 0) Well, let's get to these questions.
+
+43
+00:01:12,120 --> 00:01:14,520
+(speaker 0) These are from the previous month, so these won't
+
+44
+00:01:14,520 --> 00:01:15,800
+(speaker 0) address any of our episode tonight.
+
+45
+00:01:15,960 --> 00:01:17,640
+(speaker 0) But I can't wait to hear what some of you have to
+
+46
+00:01:17,640 --> 00:01:18,520
+(speaker 0) say about our finale.
+
+47
+00:01:18,979 --> 00:01:20,760
+(speaker 0) But for now, let's throw it over to Kristen, who
+
+48
+00:01:20,920 --> 00:01:21,480
+(speaker 0) has a whole list here.
+
+49
+00:01:21,560 --> 00:01:22,360
+(speaker 0) Kristen, take it away.
+
+50
+00:01:22,760 --> 00:01:22,840
+(speaker 2) Okay.
+
+51
+00:01:23,219 --> 00:01:25,480
+(speaker 2) First one is a question about special guest
+
+52
+00:01:25,640 --> 00:01:26,040
+(speaker 2) Garrett.
+
+53
+00:01:26,644 --> 00:01:29,280
+(speaker 2) A few episodes ago, the group met Co's former
+
+54
+00:01:29,360 --> 00:01:31,520
+(speaker 2) gang, the Cloven Brotherhood, and they were
+
+55
+00:01:31,760 --> 00:01:34,080
+(speaker 2) described as having wild, interesting hairstyles
+
+56
+00:01:34,240 --> 00:01:34,640
+(speaker 2) and colors.
+
+57
+00:01:35,080 --> 00:01:37,840
+(speaker 2) I assumed that Garrett would play one of those
+
+58
+00:01:37,924 --> 00:01:40,640
+(speaker 2) guys, given his propensity for great hair.
+
+59
+00:01:41,024 --> 00:01:43,680
+(speaker 2) Was this a fake out, or was I just reading too
+
+60
+00:01:43,840 --> 00:01:44,320
+(speaker 2) much into it?
+
+61
+00:01:44,580 --> 00:01:45,200
+(speaker 2) Love the show, though.
+
+62
+00:01:45,360 --> 00:01:45,440
+(speaker 2) P.
+
+63
+00:01:45,600 --> 00:01:45,680
+(speaker 2) S.
+
+64
+00:01:45,840 --> 00:01:47,520
+(speaker 2) The show is great; the guests make it even
+
+65
+00:01:47,680 --> 00:01:48,000
+(speaker 2) greater.
+
+66
+00:01:48,880 --> 00:01:48,960
+(speaker 2) Wow,
+
+67
+00:01:49,360 --> 00:01:50,080
+(speaker 0) that was really nice.
+
+68
+00:01:50,320 --> 00:01:50,880
+(speaker 0) Yeah, I agree.
+
+69
+00:01:51,200 --> 00:01:51,760
+(speaker 0) Garrett is a
+
+70
+00:01:52,579 --> 00:01:54,180
+(speaker 0) Well, he's a funky hair guy, you know.
+
+71
+00:01:54,460 --> 00:01:57,060
+(speaker 0) So you'd think he would come in, you know, with
+
+72
+00:01:57,140 --> 00:01:58,420
+(speaker 0) the funky hair blazing.
+
+73
+00:01:58,669 --> 00:01:59,700
+(speaker 0) But we can't always get.
+
+74
+00:02:00,260 --> 00:02:00,340
+(speaker 0) I
+
+75
+00:02:00,420 --> 00:02:00,660
+(speaker 0) wish.
+
+76
+00:02:02,420 --> 00:02:02,900
+(speaker 0) Yeah, he was.
+
+77
+00:02:03,140 --> 00:02:03,940
+(speaker 0) He was really great, though.
+
+78
+00:02:04,020 --> 00:02:06,340
+(speaker 0) Actually, I think the way guest things happen
+
+79
+00:02:06,500 --> 00:02:08,740
+(speaker 0) this this time around were were were awesome.
+
+80
+00:02:08,979 --> 00:02:11,140
+(speaker 0) I think he and Bo did a killer job, and I really
+
+81
+00:02:11,220 --> 00:02:12,260
+(speaker 0) look forward to future stuff.
+
+82
+00:02:12,580 --> 00:02:13,300
+(speaker 0) Thought it was really good.
+
+83
+00:02:13,464 --> 00:02:14,260
+(speaker 3) Not Brian, though.
+
+84
+00:02:14,420 --> 00:02:15,140
+(speaker 3) Oh, yeah, Brian.
+
+85
+00:02:17,300 --> 00:02:17,620
+(speaker 3) Yeah, I
+
+86
+00:02:17,620 --> 00:02:17,860
+(speaker 0) forgot.
+
+87
+00:02:18,020 --> 00:02:18,500
+(speaker 0) Brian was here.
+
+88
+00:02:18,580 --> 00:02:18,980
+(speaker 0) You're right.
+
+89
+00:02:19,160 --> 00:02:19,960
+(speaker 0) He did a great job too.
+
+90
+00:02:20,120 --> 00:02:22,440
+(speaker 0) So I don't know, Kyle is somebody who has to kind
+
+91
+00:02:22,440 --> 00:02:24,200
+(speaker 0) of juggle that because that does change up how
+
+92
+00:02:24,360 --> 00:02:26,760
+(speaker 0) DMing goes, and it's just a I don't know, it's a
+
+93
+00:02:26,760 --> 00:02:27,480
+(speaker 0) new wrinkle in the thing.
+
+94
+00:02:27,720 --> 00:02:28,440
+(speaker 0) How did it go for you?
+
+95
+00:02:29,160 --> 00:02:29,240
+(speaker 0) It
+
+96
+00:02:29,400 --> 00:02:29,880
+(speaker 1) went great.
+
+97
+00:02:30,019 --> 00:02:33,880
+(speaker 1) Like I I was sad that the time goes by so fast.
+
+98
+00:02:34,090 --> 00:02:36,040
+(speaker 1) With one more voice, of course, it's very easy to
+
+99
+00:02:36,120 --> 00:02:37,640
+(speaker 1) run through that time, particularly when it came
+
+100
+00:02:37,720 --> 00:02:39,960
+(speaker 1) to Garrett's episode in particular, such an
+
+101
+00:02:40,040 --> 00:02:41,880
+(speaker 1) awesome dragon fight that we had to kind of cut
+
+102
+00:02:41,960 --> 00:02:42,760
+(speaker 1) scene speed through.
+
+103
+00:02:43,404 --> 00:02:45,480
+(speaker 1) But you guys did do really well, kind of getting
+
+104
+00:02:45,480 --> 00:02:46,040
+(speaker 1) every advantage.
+
+105
+00:02:46,200 --> 00:02:46,680
+(speaker 1) You got the
+
+106
+00:02:47,500 --> 00:02:51,820
+(speaker 1) The the the arrow slaying the dragon slayer sword
+
+107
+00:02:52,220 --> 00:02:54,220
+(speaker 1) and everyone was really into the buttons so I
+
+108
+00:02:54,220 --> 00:02:55,500
+(speaker 1) think we would have done pretty well in there
+
+109
+00:02:55,660 --> 00:02:57,580
+(speaker 1) though there may have been some you know drama
+
+110
+00:02:57,740 --> 00:02:59,500
+(speaker 1) fall downs which would have been really nice but
+
+111
+00:02:59,705 --> 00:03:03,900
+(speaker 1) honestly every guest was so awesome that I had to
+
+112
+00:03:03,980 --> 00:03:06,140
+(speaker 1) make massive cuts in content because I want to
+
+113
+00:03:06,140 --> 00:03:08,540
+(speaker 1) make sure that you know if they're if they're not
+
+114
+00:03:08,700 --> 00:03:10,620
+(speaker 1) into the role play they want to do more mechanics
+
+115
+00:03:10,800 --> 00:03:12,300
+(speaker 1) maybe they're more into puzzles or something like
+
+116
+00:03:12,300 --> 00:03:14,140
+(speaker 1) that that there's that avenue for them but every
+
+117
+00:03:14,220 --> 00:03:14,860
+(speaker 1) single one of them.
+
+118
+00:03:15,820 --> 00:03:19,260
+(speaker 1) Love that role play of it so much that we ended up
+
+119
+00:03:19,340 --> 00:03:21,740
+(speaker 1) just kind of talking and hanging out in those
+
+120
+00:03:21,825 --> 00:03:24,220
+(speaker 1) characters more than originally intended.
+
+121
+00:03:24,649 --> 00:03:26,540
+(speaker 1) As for like what happened with Garrett with the
+
+122
+00:03:26,620 --> 00:03:28,140
+(speaker 1) the hair thing, not planned.
+
+123
+00:03:28,300 --> 00:03:29,260
+(speaker 1) That would have been awesome.
+
+124
+00:03:29,394 --> 00:03:31,980
+(speaker 1) Each guest I asked kind of what they wanted to do
+
+125
+00:03:32,140 --> 00:03:34,540
+(speaker 1) or what sort of theme they wanted to be a part
+
+126
+00:03:34,620 --> 00:03:34,700
+(speaker 1) of.
+
+127
+00:03:35,640 --> 00:03:36,860
+(speaker 1) Some of them, you know, we had to be like, oh,
+
+128
+00:03:37,020 --> 00:03:38,300
+(speaker 1) let's let's explore that a little bit.
+
+129
+00:03:38,380 --> 00:03:40,060
+(speaker 1) Like you know, Garrett was, I want to be a
+
+130
+00:03:40,060 --> 00:03:40,300
+(speaker 1) badass.
+
+131
+00:03:40,460 --> 00:03:41,020
+(speaker 1) I want to be an elf.
+
+132
+00:03:41,260 --> 00:03:41,980
+(speaker 1) I want to be a hunter.
+
+133
+00:03:42,140 --> 00:03:43,660
+(speaker 1) We're like, okay, I've got this quest in the
+
+134
+00:03:43,660 --> 00:03:44,300
+(speaker 1) mountains we can do.
+
+135
+00:03:44,660 --> 00:03:46,100
+(speaker 1) Brian was just like, I want a heist.
+
+136
+00:03:46,109 --> 00:03:47,060
+(speaker 1) I want to do a heist.
+
+137
+00:03:47,220 --> 00:03:49,140
+(speaker 1) I want a big rogue break down the door.
+
+138
+00:03:49,555 --> 00:03:50,980
+(speaker 1) Let's do some Ocean's Eleven stuff.
+
+139
+00:03:51,060 --> 00:03:51,460
+(speaker 1) I want that.
+
+140
+00:03:53,460 --> 00:03:53,540
+(speaker 1) Yeah,
+
+141
+00:03:53,554 --> 00:03:54,180
+(speaker 0) it was great.
+
+142
+00:03:54,580 --> 00:03:55,460
+(speaker 0) It was really really fun.
+
+143
+00:03:55,700 --> 00:03:57,380
+(speaker 0) I look forward to whatever you know.
+
+144
+00:03:57,599 --> 00:03:59,860
+(speaker 0) Sometimes that dynamic is just hard to reproduce
+
+145
+00:03:59,940 --> 00:04:01,700
+(speaker 0) without them just showing up and they do a new
+
+146
+00:04:01,780 --> 00:04:03,220
+(speaker 0) thing and then you run with it.
+
+147
+00:04:03,380 --> 00:04:03,940
+(speaker 0) We run with it.
+
+148
+00:04:04,100 --> 00:04:06,500
+(speaker 0) It's just it's a fun fun way to expand the show.
+
+149
+00:04:07,920 --> 00:04:10,740
+(speaker 2) Next question: The team recently got graded like
+
+150
+00:04:10,900 --> 00:04:11,540
+(speaker 2) they were in school.
+
+151
+00:04:12,340 --> 00:04:14,900
+(speaker 2) So, going with that idea, if Grinkeeper Co.
+
+152
+00:04:15,365 --> 00:04:17,700
+(speaker 2) and Splunderbelt were in high school, which gang
+
+153
+00:04:18,100 --> 00:04:20,100
+(speaker 2) would they sit with at the lunch cafeteria?
+
+154
+00:04:21,380 --> 00:04:21,860
+(speaker 2) Oh, jeez.
+
+155
+00:04:22,805 --> 00:04:26,420
+(speaker 3) Co would definitely be the nerdy kid that was
+
+156
+00:04:26,580 --> 00:04:28,020
+(speaker 3) doing homework for other kids.
+
+157
+00:04:29,300 --> 00:04:29,700
+(speaker 3) Oh no.
+
+158
+00:04:32,100 --> 00:04:34,740
+(speaker 3) Co is Co is definitely.
+
+159
+00:04:34,740 --> 00:04:36,580
+(speaker 3) I I've tried to show it through.
+
+160
+00:04:37,319 --> 00:04:39,680
+(speaker 3) The confidence when he's around people he doesn't
+
+161
+00:04:39,760 --> 00:04:41,920
+(speaker 3) know, and the lack of confidence when he's around
+
+162
+00:04:42,080 --> 00:04:42,880
+(speaker 3) people that he does.
+
+163
+00:04:44,080 --> 00:04:48,080
+(speaker 3) He is definitely, he wasn't the coolest Sater
+
+164
+00:04:48,320 --> 00:04:49,520
+(speaker 3) growing up in the Sater gang.
+
+165
+00:04:49,920 --> 00:04:54,080
+(speaker 3) Like he was definitely the one that was a little
+
+166
+00:04:54,320 --> 00:04:57,600
+(speaker 3) more artistic, is why he has a background as a as
+
+167
+00:04:57,830 --> 00:05:01,280
+(speaker 3) a forgery guy, and he was definitely taken
+
+168
+00:05:01,500 --> 00:05:02,240
+(speaker 3) advantage of.
+
+169
+00:05:02,560 --> 00:05:05,360
+(speaker 3) So in school, he's definitely the.
+
+170
+00:05:06,285 --> 00:05:09,400
+(speaker 3) He's definitely the nerd, but also like all great
+
+171
+00:05:09,640 --> 00:05:11,880
+(speaker 3) high school movies, he might be the one that
+
+172
+00:05:11,960 --> 00:05:14,360
+(speaker 3) someone was like," I dare you to take code to
+
+173
+00:05:14,440 --> 00:05:15,960
+(speaker 3) prom," and then he, you know, glams up.
+
+174
+00:05:16,360 --> 00:05:16,920
+(speaker 3) Super handsome,
+
+175
+00:05:17,000 --> 00:05:17,160
+(speaker 2) yeah.
+
+176
+00:05:17,480 --> 00:05:17,560
+(speaker 2) Yeah,
+
+177
+00:05:17,800 --> 00:05:19,080
+(speaker 3) turns out he's great.
+
+178
+00:05:19,260 --> 00:05:20,200
+(speaker 3) Yeah, oh my god,
+
+179
+00:05:21,000 --> 00:05:22,040
+(speaker 2) the eyebrows, he got it.
+
+180
+00:05:22,365 --> 00:05:25,000
+(speaker 3) He got rid of the glasses and the pigtails.
+
+181
+00:05:25,000 --> 00:05:27,320
+(speaker 3) I don't know why he had pigtails, but he did, and
+
+182
+00:05:28,010 --> 00:05:30,280
+(speaker 3) then it's just amazing.
+
+183
+00:05:30,440 --> 00:05:31,240
+(speaker 0) Well, I would be.
+
+184
+00:05:31,560 --> 00:05:32,840
+(speaker 0) I can tell you exactly what he would be.
+
+185
+00:05:33,000 --> 00:05:34,760
+(speaker 0) This isn't necessarily who I'd be, but um.
+
+186
+00:05:35,335 --> 00:05:39,780
+(speaker 0) I was more of a, I was a nerd growing up until I
+
+187
+00:05:39,780 --> 00:05:42,100
+(speaker 0) got tall, and then suddenly nobody treated me
+
+188
+00:05:42,180 --> 00:05:43,380
+(speaker 0) like a nerd anymore.
+
+189
+00:05:43,380 --> 00:05:44,420
+(speaker 0) And so height is weird.
+
+190
+00:05:44,580 --> 00:05:47,220
+(speaker 0) Height is a height is a factor that benefited me,
+
+191
+00:05:47,220 --> 00:05:48,820
+(speaker 0) and I and I didn't really know it at the time.
+
+192
+00:05:48,900 --> 00:05:50,660
+(speaker 0) I was like, oh, people are so much nicer to me.
+
+193
+00:05:50,970 --> 00:05:52,580
+(speaker 0) I realized, well, it's because you're six three,
+
+194
+00:05:52,740 --> 00:05:52,900
+(speaker 0) dude.
+
+195
+00:05:53,265 --> 00:05:57,060
+(speaker 0) But anyway, it's just a you know, it was a it was
+
+196
+00:05:57,060 --> 00:05:58,500
+(speaker 0) a realization that came later in life.
+
+197
+00:05:58,660 --> 00:06:00,260
+(speaker 0) But at the time, I just thought, oh, they stopped
+
+198
+00:06:00,340 --> 00:06:00,820
+(speaker 0) picking on me.
+
+199
+00:06:00,980 --> 00:06:01,140
+(speaker 0) Why?
+
+200
+00:06:01,255 --> 00:06:02,660
+(speaker 0) I didn't understand it, but um.
+
+201
+00:06:03,620 --> 00:06:07,540
+(speaker 0) In in Splinterbelts' life, he would be the kind of
+
+202
+00:06:07,620 --> 00:06:09,300
+(speaker 0) kid that would be in the lunchroom sitting by
+
+203
+00:06:09,460 --> 00:06:11,140
+(speaker 0) himself, and not a problem.
+
+204
+00:06:11,465 --> 00:06:12,500
+(speaker 0) He's cool doing that.
+
+205
+00:06:12,695 --> 00:06:14,740
+(speaker 0) He'll sit there, he'll enjoy whatever he's
+
+206
+00:06:14,740 --> 00:06:15,060
+(speaker 0) eating.
+
+207
+00:06:15,160 --> 00:06:16,900
+(speaker 0) He thinks a lot, and he just sort of staring to
+
+208
+00:06:16,980 --> 00:06:19,540
+(speaker 0) nothing, and he'd eat his potato like a good boy.
+
+209
+00:06:20,375 --> 00:06:23,300
+(speaker 0) And the only reaction you would get out of him is
+
+210
+00:06:23,380 --> 00:06:25,060
+(speaker 0) like a hello or a nod or whatever if you were
+
+211
+00:06:25,140 --> 00:06:26,100
+(speaker 0) trying to say hi to him.
+
+212
+00:06:26,315 --> 00:06:28,260
+(speaker 0) But if he saw some kid in trouble or getting
+
+213
+00:06:28,340 --> 00:06:30,980
+(speaker 0) picked on, he would absolutely, without a word,
+
+214
+00:06:31,300 --> 00:06:32,260
+(speaker 0) absolutely leap up.
+
+215
+00:06:33,035 --> 00:06:35,140
+(speaker 0) Tackle that other kid down, teach him a lesson, go
+
+216
+00:06:35,220 --> 00:06:36,740
+(speaker 0) back to eating, and pretend like nothing really
+
+217
+00:06:36,820 --> 00:06:37,060
+(speaker 0) happened.
+
+218
+00:06:37,620 --> 00:06:39,620
+(speaker 0) So he would have been a great protector, but he
+
+219
+00:06:39,620 --> 00:06:43,620
+(speaker 0) wouldn't have been very social and part of a
+
+220
+00:06:43,700 --> 00:06:43,940
+(speaker 0) click.
+
+221
+00:06:44,180 --> 00:06:45,620
+(speaker 0) He kind of would have been his own click.
+
+222
+00:06:46,420 --> 00:06:46,500
+(speaker 0) So
+
+223
+00:06:46,660 --> 00:06:47,620
+(speaker 2) that loner type,
+
+224
+00:06:48,235 --> 00:06:50,260
+(speaker 0) loner type, but with a heart of gold, you'd want
+
+225
+00:06:50,410 --> 00:06:51,060
+(speaker 0) to help, you know.
+
+226
+00:06:51,375 --> 00:06:54,260
+(speaker 0) And he, especially if somebody was punching down,
+
+227
+00:06:54,420 --> 00:06:56,100
+(speaker 0) and you know, if somebody was getting bullied, he
+
+228
+00:06:56,100 --> 00:06:56,900
+(speaker 0) would totally step up.
+
+229
+00:06:57,535 --> 00:06:58,820
+(speaker 0) But, but he didn't need constant.
+
+230
+00:06:59,795 --> 00:07:03,520
+(speaker 0) Interaction and or social, you know, assurance all
+
+231
+00:07:03,600 --> 00:07:03,760
+(speaker 0) the time.
+
+232
+00:07:04,000 --> 00:07:04,880
+(speaker 0) He would he's fine.
+
+233
+00:07:05,250 --> 00:07:07,680
+(speaker 0) It's a man, his potato, and his and his lunch
+
+234
+00:07:07,760 --> 00:07:07,920
+(speaker 0) hour.
+
+235
+00:07:08,080 --> 00:07:09,040
+(speaker 0) That's enough for him.
+
+236
+00:07:10,160 --> 00:07:11,440
+(speaker 0) I guess twenty minutes is all I have when I was
+
+237
+00:07:11,520 --> 00:07:12,000
+(speaker 0) in junior high.
+
+238
+00:07:12,240 --> 00:07:13,360
+(speaker 0) So his lunch, twenty minutes.
+
+239
+00:07:15,440 --> 00:07:18,480
+(speaker 2) Greenkeeper totally would have been a jock, but
+
+240
+00:07:18,620 --> 00:07:20,960
+(speaker 2) like, but one of those jocks where she's part of
+
+241
+00:07:20,960 --> 00:07:23,840
+(speaker 2) the cheerleaders, but then she discovers this
+
+242
+00:07:24,310 --> 00:07:27,360
+(speaker 2) interesting sport called chess or something.
+
+243
+00:07:28,230 --> 00:07:30,660
+(speaker 2) And she's dumb as rocks, but she really enjoys
+
+244
+00:07:31,305 --> 00:07:33,140
+(speaker 2) some off- brand sports.
+
+245
+00:07:36,900 --> 00:07:36,980
+(speaker 2) And
+
+246
+00:07:37,060 --> 00:07:39,140
+(speaker 0) you wouldn't have been, you know, I would have,
+
+247
+00:07:39,700 --> 00:07:41,060
+(speaker 0) you would have been one of the good jocks.
+
+248
+00:07:42,010 --> 00:07:43,780
+(speaker 0) I can't imagine you were picking on some nerd
+
+249
+00:07:43,860 --> 00:07:44,020
+(speaker 0) kid.
+
+250
+00:07:44,270 --> 00:07:46,180
+(speaker 2) Yeah, yeah, she wasn't a mean jock.
+
+251
+00:07:46,420 --> 00:07:46,500
+(speaker 0) Yeah.
+
+252
+00:07:48,740 --> 00:07:48,820
+(speaker 0) All
+
+253
+00:07:48,980 --> 00:07:49,060
+(speaker 2) right.
+
+254
+00:07:49,550 --> 00:07:51,060
+(speaker 2) Next question: Is anyone else ex?
+
+255
+00:07:51,490 --> 00:07:52,180
+(speaker 2) Oh, yeah.
+
+256
+00:07:52,260 --> 00:07:52,580
+(speaker 2) Here it is.
+
+257
+00:07:52,890 --> 00:07:53,860
+(speaker 2) This is for you, Splendor Belt.
+
+258
+00:07:54,020 --> 00:07:55,540
+(speaker 2) Is anyone else extremely confused as to why?
+
+259
+00:07:56,115 --> 00:07:58,560
+(speaker 2) Blunderbelt hasn't bought any of the farm upgrades
+
+260
+00:07:58,570 --> 00:08:01,520
+(speaker 2) yet, according to the price list posted in
+
+261
+00:08:01,600 --> 00:08:02,160
+(speaker 2) Discord.
+
+262
+00:08:02,160 --> 00:08:04,160
+(speaker 2) He could already have a very nice farm, as
+
+263
+00:08:04,240 --> 00:08:06,720
+(speaker 2) opposed to a dragon horde of gold hidden in a
+
+264
+00:08:06,800 --> 00:08:07,920
+(speaker 2) crack in a rock.
+
+265
+00:08:08,160 --> 00:08:08,960
+(speaker 2) What's the whole?
+
+266
+00:08:10,135 --> 00:08:11,920
+(speaker 0) I think part of it is there's
+
+267
+00:08:11,920 --> 00:08:12,320
+(speaker 0) a good question.
+
+268
+00:08:12,640 --> 00:08:13,920
+(speaker 0) Yeah, this is very much me.
+
+269
+00:08:14,160 --> 00:08:17,360
+(speaker 0) By the way, I'm a I'm nervous to spend it until I
+
+270
+00:08:17,520 --> 00:08:19,600
+(speaker 0) know the plans all set.
+
+271
+00:08:20,190 --> 00:08:22,080
+(speaker 0) Right now, things are weird and up in the air, in
+
+272
+00:08:22,160 --> 00:08:23,040
+(speaker 0) that I don't know when.
+
+273
+00:08:24,275 --> 00:08:27,760
+(speaker 0) I can give full time to the to the farm, and as a
+
+274
+00:08:27,840 --> 00:08:29,920
+(speaker 0) result, I know I am in danger a lot because of
+
+275
+00:08:29,920 --> 00:08:30,720
+(speaker 0) the job I am doing.
+
+276
+00:08:31,170 --> 00:08:33,840
+(speaker 0) And if I do all of those upgrades, and then I get
+
+277
+00:08:33,919 --> 00:08:37,039
+(speaker 0) killed, then all there is is a minotaur head to
+
+278
+00:08:37,039 --> 00:08:38,799
+(speaker 0) take care of the damn thing, and I am not really
+
+279
+00:08:39,039 --> 00:08:39,679
+(speaker 0) prepared for that.
+
+280
+00:08:40,060 --> 00:08:41,679
+(speaker 0) So I am taking that part slow.
+
+281
+00:08:41,840 --> 00:08:43,679
+(speaker 0) I also want to make sure the ground yields an
+
+282
+00:08:43,760 --> 00:08:47,840
+(speaker 0) actual potato, a decent potato yield by the end
+
+283
+00:08:47,920 --> 00:08:48,960
+(speaker 0) of that three or four months.
+
+284
+00:08:49,795 --> 00:08:52,620
+(speaker 0) Um, because I need that as kind of you know proof
+
+285
+00:08:52,700 --> 00:08:54,540
+(speaker 0) that yeah, this is the place to do it, and it's
+
+286
+00:08:54,620 --> 00:08:57,340
+(speaker 0) not like you know some weird corrupted earth or
+
+287
+00:08:57,420 --> 00:08:59,260
+(speaker 0) some weird magic shit I don't know about.
+
+288
+00:09:00,115 --> 00:09:02,380
+(speaker 0) And so I'm just I'm just cautious and
+
+289
+00:09:02,460 --> 00:09:03,980
+(speaker 0) conservative about it for whatever reason.
+
+290
+00:09:04,060 --> 00:09:04,300
+(speaker 0) You're
+
+291
+00:09:04,540 --> 00:09:05,500
+(speaker 3) sleeping on the dirt, man.
+
+292
+00:09:05,595 --> 00:09:07,260
+(speaker 3) You got visited by a god.
+
+293
+00:09:08,380 --> 00:09:09,660
+(speaker 3) You could buy a house.
+
+294
+00:09:10,680 --> 00:09:14,460
+(speaker 0) Well, I could, but I don't have again the
+
+295
+00:09:14,540 --> 00:09:15,180
+(speaker 0) confidence in.
+
+296
+00:09:15,580 --> 00:09:16,620
+(speaker 0) I don't mind laying on the ground.
+
+297
+00:09:16,700 --> 00:09:17,420
+(speaker 0) That doesn't bother me.
+
+298
+00:09:17,500 --> 00:09:18,140
+(speaker 0) I'm an orc.
+
+299
+00:09:18,220 --> 00:09:18,540
+(speaker 0) It's fine.
+
+300
+00:09:18,700 --> 00:09:19,100
+(speaker 0) I can do it.
+
+301
+00:09:20,975 --> 00:09:23,640
+(speaker 0) What concerns me is if I go all in, it'll have to
+
+302
+00:09:23,640 --> 00:09:26,600
+(speaker 0) be that'll be when I go all all in, and there's
+
+303
+00:09:26,680 --> 00:09:30,440
+(speaker 0) no real point in going two nuts before I'm sure
+
+304
+00:09:30,520 --> 00:09:31,160
+(speaker 0) the time is right.
+
+305
+00:09:31,280 --> 00:09:34,520
+(speaker 0) Because this is so me though, this is exactly
+
+306
+00:09:34,600 --> 00:09:36,840
+(speaker 0) what I do in every case.
+
+307
+00:09:37,080 --> 00:09:38,840
+(speaker 0) Like talk about lunch, I do this with lunch.
+
+308
+00:09:39,000 --> 00:09:39,560
+(speaker 0) I do this with everything.
+
+309
+00:09:39,849 --> 00:09:41,240
+(speaker 0) It's just I'm I'm the worst.
+
+310
+00:09:41,849 --> 00:09:43,640
+(speaker 0) But Splunderbell is definitely.
+
+311
+00:09:43,979 --> 00:09:45,400
+(speaker 0) People always ask, is there any part of him
+
+312
+00:09:45,480 --> 00:09:46,040
+(speaker 0) that's like you?
+
+313
+00:09:46,200 --> 00:09:46,680
+(speaker 0) This is the part.
+
+314
+00:09:47,365 --> 00:09:50,240
+(speaker 0) His sort of careful approach to this this massive
+
+315
+00:09:50,400 --> 00:09:53,840
+(speaker 0) undertaking maybe too careful not not willing to
+
+316
+00:09:53,920 --> 00:09:56,000
+(speaker 0) take that risk but but he'll take day to day
+
+317
+00:09:56,160 --> 00:09:59,840
+(speaker 0) risks like a dummy it's just like me why I do it
+
+318
+00:10:00,240 --> 00:10:00,320
+(speaker 0) so
+
+319
+00:10:00,480 --> 00:10:03,680
+(speaker 2) basically hang on to the edge of your seat you're
+
+320
+00:10:03,680 --> 00:10:04,960
+(speaker 2) gonna see some farm stuff
+
+321
+00:10:05,200 --> 00:10:08,880
+(speaker 0) yeah maybe yeah maybe and and I I don't I don't
+
+322
+00:10:08,880 --> 00:10:10,640
+(speaker 0) know I just feel like if I spend it all then I'm
+
+323
+00:10:10,640 --> 00:10:12,720
+(speaker 0) gonna be like well damn it I shouldn't have done
+
+324
+00:10:12,800 --> 00:10:14,400
+(speaker 0) that yet because I need this other thing and now
+
+325
+00:10:14,480 --> 00:10:15,520
+(speaker 0) I gotta go work more to.
+
+326
+00:10:17,110 --> 00:10:17,590
+(speaker 0) I don't know.
+
+327
+00:10:17,675 --> 00:10:18,550
+(speaker 0) I don't know what it is.
+
+328
+00:10:18,710 --> 00:10:22,150
+(speaker 0) It's it's it's a it's a weird it's a weird piece
+
+329
+00:10:22,150 --> 00:10:24,230
+(speaker 0) of behavior from a guy who's pretty weird
+
+330
+00:10:24,390 --> 00:10:24,470
+(speaker 0) already.
+
+331
+00:10:25,639 --> 00:10:27,350
+(speaker 0) We'll see what he does once he gets his first
+
+332
+00:10:27,510 --> 00:10:28,470
+(speaker 0) potatoes out of the ground.
+
+333
+00:10:28,550 --> 00:10:29,270
+(speaker 0) That may change everything.
+
+334
+00:10:30,230 --> 00:10:30,310
+(speaker 0) Well,
+
+335
+00:10:30,920 --> 00:10:33,350
+(speaker 1) we're doing a three month jump, so potatoes will
+
+336
+00:10:33,510 --> 00:10:34,310
+(speaker 1) be a harvestin'.
+
+337
+00:10:34,749 --> 00:10:35,590
+(speaker 0) Yep, it'll be time.
+
+338
+00:10:36,070 --> 00:10:36,150
+(speaker 0) You
+
+339
+00:10:36,310 --> 00:10:38,950
+(speaker 3) got three months where you know nothing weird is
+
+340
+00:10:39,030 --> 00:10:39,590
+(speaker 3) going to come up.
+
+341
+00:10:40,390 --> 00:10:41,510
+(speaker 3) It should be totally normal
+
+342
+00:10:42,150 --> 00:10:42,390
+(speaker 1) at all.
+
+343
+00:10:42,710 --> 00:10:42,790
+(speaker 1) Yeah.
+
+344
+00:10:43,550 --> 00:10:45,130
+(speaker 0) And we can retcon some of that and say," Well,
+
+345
+00:10:45,290 --> 00:10:47,050
+(speaker 0) what'd you do for three months?" I went ahead and
+
+346
+00:10:47,050 --> 00:10:47,930
+(speaker 0) bought all the shit I need.
+
+347
+00:10:48,015 --> 00:10:50,170
+(speaker 0) I mean, we could do that, but I don't know.
+
+348
+00:10:50,570 --> 00:10:50,970
+(speaker 0) We'll see.
+
+349
+00:10:52,495 --> 00:10:55,130
+(speaker 2) Next question: I was curious to see who each
+
+350
+00:10:55,290 --> 00:10:57,770
+(speaker 2) member would love to bring in for a special guest
+
+351
+00:10:57,905 --> 00:11:00,570
+(speaker 2) from other D and D shows and even a celebrity.
+
+352
+00:11:02,145 --> 00:11:04,090
+(speaker 2) I'm going to jump in and say Gary Oldman.
+
+353
+00:11:04,410 --> 00:11:04,650
+(speaker 2) I would.
+
+354
+00:11:05,130 --> 00:11:05,850
+(speaker 2) Oh, oh, wow!
+
+355
+00:11:06,090 --> 00:11:06,650
+(speaker 1) Love.
+
+356
+00:11:06,650 --> 00:11:06,970
+(speaker 1) I like that.
+
+357
+00:11:07,210 --> 00:11:07,290
+(speaker 1) You
+
+358
+00:11:07,370 --> 00:11:08,570
+(speaker 2) know, go big or go home.
+
+359
+00:11:08,730 --> 00:11:10,810
+(speaker 2) But I think he would be hilarious because he's so
+
+360
+00:11:10,890 --> 00:11:11,130
+(speaker 2) good at.
+
+361
+00:11:12,100 --> 00:11:12,740
+(speaker 2) Characterization,
+
+362
+00:11:13,070 --> 00:11:15,620
+(speaker 0) yeah, he'd be really good, wouldn't he?
+
+363
+00:11:16,709 --> 00:11:18,660
+(speaker 0) Is is Peter Stormare a weird pick?
+
+364
+00:11:19,780 --> 00:11:20,260
+(speaker 0) No, I would
+
+365
+00:11:20,340 --> 00:11:20,820
+(speaker 0) watch that guy.
+
+366
+00:11:20,900 --> 00:11:21,300
+(speaker 0) Holy
+
+367
+00:11:21,540 --> 00:11:24,420
+(speaker 3) shit, I would play D anD D with Peter Stormare in
+
+368
+00:11:24,500 --> 00:11:25,780
+(speaker 3) a in a heartbeat.
+
+369
+00:11:26,194 --> 00:11:27,780
+(speaker 0) Yeah, I just watched his oh dude,
+
+370
+00:11:27,860 --> 00:11:31,300
+(speaker 0) yeah, this the segment of um of Constantine where
+
+371
+00:11:31,410 --> 00:11:32,500
+(speaker 0) he he plays the devil.
+
+372
+00:11:33,780 --> 00:11:35,780
+(speaker 0) It's one of the most memorable chewy things
+
+373
+00:11:36,020 --> 00:11:36,980
+(speaker 0) you've ever seen on screen.
+
+374
+00:11:37,060 --> 00:11:37,860
+(speaker 0) It's amazing and.
+
+375
+00:11:38,460 --> 00:11:40,620
+(speaker 0) Every time I think of that scene, I think I'd like
+
+376
+00:11:40,620 --> 00:11:42,540
+(speaker 0) to hang around that guy for a hot minute, and so
+
+377
+00:11:42,999 --> 00:11:44,060
+(speaker 0) yeah, I'd like to see him do it.
+
+378
+00:11:44,460 --> 00:11:44,540
+(speaker 0) Oh,
+
+379
+00:11:44,625 --> 00:11:45,420
+(speaker 1) he's all yeah.
+
+380
+00:11:45,740 --> 00:11:49,580
+(speaker 1) He was also in he's haunting of Keanu Reeves.
+
+381
+00:11:50,229 --> 00:11:51,580
+(speaker 1) He did the Baba Yaga guy.
+
+382
+00:11:51,740 --> 00:11:52,860
+(speaker 0) Oh, right, yeah, he was.
+
+383
+00:11:53,020 --> 00:11:55,980
+(speaker 0) Yeah, he was also um, you know, he's the one that
+
+384
+00:11:56,060 --> 00:11:57,420
+(speaker 0) put Steve Buscemi in the Chipper.
+
+385
+00:11:57,500 --> 00:12:00,300
+(speaker 0) Like he's an amazing actor and is in everything,
+
+386
+00:12:00,700 --> 00:12:02,380
+(speaker 0) and he should be, and he always should be around,
+
+387
+00:12:02,540 --> 00:12:02,940
+(speaker 0) and he's great.
+
+388
+00:12:03,100 --> 00:12:04,700
+(speaker 0) He does a lot of video game voice work these
+
+389
+00:12:04,700 --> 00:12:04,780
+(speaker 0) days.
+
+390
+00:12:04,860 --> 00:12:05,100
+(speaker 0) He's.
+
+391
+00:12:05,480 --> 00:12:06,280
+(speaker 0) Guy's incredible.
+
+392
+00:12:06,840 --> 00:12:09,640
+(speaker 3) Those Volkswagen commercials where they unpimped
+
+393
+00:12:09,720 --> 00:12:09,960
+(speaker 3) autos.
+
+394
+00:12:10,280 --> 00:12:14,360
+(speaker 0) Yeah, that was the best car campaign, ad campaign
+
+395
+00:12:14,360 --> 00:12:15,000
+(speaker 0) I'd ever seen.
+
+396
+00:12:16,360 --> 00:12:17,400
+(speaker 0) It's because he's involved.
+
+397
+00:12:17,639 --> 00:12:19,960
+(speaker 0) He was on an episode of Seinfeld where he forgot
+
+398
+00:12:20,040 --> 00:12:24,040
+(speaker 0) to plug in the batteries for the, so they could
+
+399
+00:12:24,120 --> 00:12:25,880
+(speaker 0) move the Frogger machine, and George could keep
+
+400
+00:12:25,960 --> 00:12:26,600
+(speaker 0) his high score.
+
+401
+00:12:26,920 --> 00:12:27,800
+(speaker 0) He's amazing in that.
+
+402
+00:12:27,885 --> 00:12:28,840
+(speaker 0) He's amazing in everything.
+
+403
+00:12:29,530 --> 00:12:31,800
+(speaker 0) He gets eaten by a bunch of tiny dinosaurs in the
+
+404
+00:12:32,129 --> 00:12:33,160
+(speaker 0) second Jurassic Park movie.
+
+405
+00:12:33,580 --> 00:12:34,620
+(speaker 3) That's true.
+
+406
+00:12:35,020 --> 00:12:38,460
+(speaker 0) He's the only Russian up in space in Armageddon.
+
+407
+00:12:38,600 --> 00:12:39,260
+(speaker 2) Armageddon.
+
+408
+00:12:39,619 --> 00:12:40,220
+(speaker 2) Yeah, name
+
+409
+00:12:40,460 --> 00:12:42,780
+(speaker 0) something he's in where he's bad, and I will argue
+
+410
+00:12:42,860 --> 00:12:44,380
+(speaker 0) with you for months about that.
+
+411
+00:12:44,540 --> 00:12:45,100
+(speaker 0) That's not true.
+
+412
+00:12:45,260 --> 00:12:46,620
+(speaker 0) He's amazing.
+
+413
+00:12:46,700 --> 00:12:48,940
+(speaker 3) Well, I thought we were going to go down a route
+
+414
+00:12:49,020 --> 00:12:51,500
+(speaker 3) of like people who clearly play D anD D and are
+
+415
+00:12:51,740 --> 00:12:53,820
+(speaker 3) into it and all of that, but we're just picking
+
+416
+00:12:53,900 --> 00:12:55,660
+(speaker 3) people that we think would be fun at the table.
+
+417
+00:12:55,999 --> 00:12:58,220
+(speaker 3) So I am going to say I don't know if it would
+
+418
+00:12:58,300 --> 00:12:58,780
+(speaker 3) work out great.
+
+419
+00:12:59,235 --> 00:13:01,360
+(speaker 3) I don't know how it would go, and that's part of
+
+420
+00:13:01,360 --> 00:13:02,320
+(speaker 3) why I love the idea.
+
+421
+00:13:02,915 --> 00:13:06,880
+(speaker 3) Werner Herzog—that's who I want to play D and D
+
+422
+00:13:07,569 --> 00:13:10,640
+(speaker 3) with because I guarantee you it would be a damn
+
+423
+00:13:10,800 --> 00:13:11,040
+(speaker 3) trip.
+
+424
+00:13:11,155 --> 00:13:12,240
+(speaker 3) It'd be amazing.
+
+425
+00:13:12,240 --> 00:13:12,560
+(speaker 3) It's a
+
+426
+00:13:12,640 --> 00:13:13,280
+(speaker 0) great pick, dude.
+
+427
+00:13:13,520 --> 00:13:13,920
+(speaker 0) Great pick.
+
+428
+00:13:13,955 --> 00:13:16,160
+(speaker 1) When I roll initiative, is there violence?
+
+429
+00:13:19,440 --> 00:13:19,520
+(speaker 3) Yes.
+
+430
+00:13:20,080 --> 00:13:20,480
+(speaker 3) Let me
+
+431
+00:13:20,640 --> 00:13:20,720
+(speaker 0) see.
+
+432
+00:13:20,960 --> 00:13:23,520
+(speaker 0) The Vata did nothing to the hole in the room.
+
+433
+00:13:23,975 --> 00:13:26,000
+(speaker 0) He'd say he'd be amazing.
+
+434
+00:13:26,520 --> 00:13:26,840
+(speaker 2) Love him.
+
+435
+00:13:27,590 --> 00:13:28,440
+(speaker 2) This next question goes.
+
+436
+00:13:28,680 --> 00:13:29,560
+(speaker 2) Oh wait, wait, wait, wait!
+
+437
+00:13:29,720 --> 00:13:29,960
+(speaker 2) I got mine.
+
+438
+00:13:30,120 --> 00:13:30,440
+(speaker 2) I got mine.
+
+439
+00:13:30,450 --> 00:13:31,320
+(speaker 2) Oh, I'm sorry.
+
+440
+00:13:31,400 --> 00:13:31,800
+(speaker 2) Go for it.
+
+441
+00:13:31,965 --> 00:13:32,920
+(speaker 1) Patrick Warburton.
+
+442
+00:13:33,080 --> 00:13:33,160
+(speaker 2) Yeah.
+
+443
+00:13:33,700 --> 00:13:35,000
+(speaker 2) Oh, that'd be good too.
+
+444
+00:13:35,240 --> 00:13:35,320
+(speaker 3) Yeah.
+
+445
+00:13:35,880 --> 00:13:35,960
+(speaker 3) Yeah.
+
+446
+00:13:36,600 --> 00:13:37,080
+(speaker 3) All right.
+
+447
+00:13:37,560 --> 00:13:37,880
+(speaker 2) Continue.
+
+448
+00:13:38,680 --> 00:13:38,760
+(speaker 2) Okay.
+
+449
+00:13:39,000 --> 00:13:39,320
+(speaker 2) All right.
+
+450
+00:13:40,040 --> 00:13:42,680
+(speaker 2) Uh, mainly from a DM perspective, but also for
+
+451
+00:13:42,840 --> 00:13:45,720
+(speaker 2) everyone, what tools, online or tangible, do you
+
+452
+00:13:45,800 --> 00:13:47,800
+(speaker 2) think have become indispensable for playing?
+
+453
+00:13:48,255 --> 00:13:50,520
+(speaker 2) And what tools would you like to use/ slash try
+
+454
+00:13:50,760 --> 00:13:51,560
+(speaker 2) that you haven't yet?
+
+455
+00:13:51,720 --> 00:13:51,800
+(speaker 2) I.
+
+456
+00:13:51,880 --> 00:13:54,120
+(speaker 2) e., D and D Beyond, Roll Twenty, Player Minis,
+
+457
+00:13:54,200 --> 00:13:55,160
+(speaker 2) Idle Map, Metal Coins.
+
+458
+00:13:55,680 --> 00:13:55,920
+(speaker 2) Etc.
+
+459
+00:13:58,370 --> 00:13:59,840
+(speaker 2) I character sheets.
+
+460
+00:14:00,720 --> 00:14:03,280
+(speaker 3) Yeah, I the digital character sheet.
+
+461
+00:14:03,360 --> 00:14:06,880
+(speaker 3) I've become so addicted to that it is the biggest
+
+462
+00:14:06,960 --> 00:14:10,720
+(speaker 3) hurdle for me getting into other tabletop games
+
+463
+00:14:11,200 --> 00:14:13,440
+(speaker 3) because I I am terrible at math.
+
+464
+00:14:13,500 --> 00:14:16,080
+(speaker 3) I mean, especially on a show like when you have
+
+465
+00:14:16,160 --> 00:14:17,920
+(speaker 3) the pressure of knowing other people are going to
+
+466
+00:14:17,920 --> 00:14:18,880
+(speaker 3) watch you do math.
+
+467
+00:14:19,360 --> 00:14:20,400
+(speaker 3) Ugh, it's the worst.
+
+468
+00:14:20,805 --> 00:14:22,080
+(speaker 3) Something that does it for you and.
+
+469
+00:14:22,715 --> 00:14:25,240
+(speaker 3) Puts it all together, and you don't have to, you
+
+470
+00:14:25,320 --> 00:14:27,560
+(speaker 3) know, keep track of it and do all that.
+
+471
+00:14:27,960 --> 00:14:31,640
+(speaker 3) It takes off the one element of playing the game
+
+472
+00:14:31,730 --> 00:14:33,080
+(speaker 3) that I find stressful.
+
+473
+00:14:33,984 --> 00:14:36,040
+(speaker 3) So that's the thing I can't live without, and the
+
+474
+00:14:36,040 --> 00:14:39,800
+(speaker 3) thing that I wish is minis because I have a
+
+475
+00:14:39,880 --> 00:14:42,200
+(speaker 3) friend who's definitely into the mini side of the
+
+476
+00:14:42,280 --> 00:14:45,080
+(speaker 3) campaign, and our campaign started right around
+
+477
+00:14:45,240 --> 00:14:46,360
+(speaker 3) the time COVID started.
+
+478
+00:14:46,625 --> 00:14:49,880
+(speaker 3) So I've never played a campaign with minis, and I
+
+479
+00:14:49,960 --> 00:14:50,600
+(speaker 3) just think they're cool.
+
+480
+00:14:50,840 --> 00:14:51,400
+(speaker 3) I think people who
+
+481
+00:14:51,885 --> 00:14:55,080
+(speaker 3) You know, I think it's a it's a not necessary
+
+482
+00:14:55,320 --> 00:14:58,200
+(speaker 3) aspect of the game, but when it's there and it's
+
+483
+00:14:58,280 --> 00:15:00,680
+(speaker 3) being done, I I really appreciate it.
+
+484
+00:15:00,800 --> 00:15:03,800
+(speaker 3) So I love that it exists, and I've never really
+
+485
+00:15:03,960 --> 00:15:05,000
+(speaker 3) gotten to experience it.
+
+486
+00:15:05,015 --> 00:15:07,000
+(speaker 3) So that's my those are my answers.
+
+487
+00:15:07,490 --> 00:15:09,800
+(speaker 0) Um, I don't know all that.
+
+488
+00:15:10,040 --> 00:15:10,520
+(speaker 0) I agree with.
+
+489
+00:15:10,905 --> 00:15:14,200
+(speaker 0) Also, I wish I knew a really smart software
+
+490
+00:15:14,440 --> 00:15:16,520
+(speaker 0) developer who could just build a virtual.
+
+491
+00:15:17,825 --> 00:15:20,460
+(speaker 0) Um, some kind of tool that would let us easily
+
+492
+00:15:20,700 --> 00:15:25,020
+(speaker 0) create spaces and environments and minutia and
+
+493
+00:15:25,260 --> 00:15:28,380
+(speaker 0) characters and minis in a virtual way, and have
+
+494
+00:15:28,460 --> 00:15:30,140
+(speaker 0) it be 3D, and we could all be in there at once,
+
+495
+00:15:30,460 --> 00:15:31,340
+(speaker 0) kind of multiplayer- like.
+
+496
+00:15:31,820 --> 00:15:33,820
+(speaker 0) Real simple interface thing doesn't have to be
+
+497
+00:15:33,980 --> 00:15:36,060
+(speaker 0) anything fancy, just decent textures.
+
+498
+00:15:36,220 --> 00:15:38,060
+(speaker 0) You could do it in HTML5, for that matter.
+
+499
+00:15:38,220 --> 00:15:40,700
+(speaker 0) Just do it over a browser, and I want it to be
+
+500
+00:15:40,700 --> 00:15:40,940
+(speaker 0) ours.
+
+501
+00:15:41,329 --> 00:15:42,700
+(speaker 0) So it'd be called" There Will Be Dungeons."
+
+502
+00:15:43,555 --> 00:15:45,340
+(speaker 0) And this and the software would literally let
+
+503
+00:15:45,500 --> 00:15:47,020
+(speaker 0) people create this stuff, and we'd use it.
+
+504
+00:15:47,260 --> 00:15:48,940
+(speaker 3) It's a great name for software.
+
+505
+00:15:49,340 --> 00:15:49,660
+(speaker 3) I agree.
+
+506
+00:15:49,900 --> 00:15:50,220
+(speaker 3) It's perfect.
+
+507
+00:15:50,860 --> 00:15:52,780
+(speaker 3) Aside from our show, if you are going to make
+
+508
+00:15:52,940 --> 00:15:55,820
+(speaker 3) software to help create dungeons and share them
+
+509
+00:15:55,980 --> 00:15:57,900
+(speaker 3) and play digitally, there will be dungeons.
+
+510
+00:15:58,060 --> 00:15:58,700
+(speaker 3) Is a fantastic.
+
+511
+00:15:59,100 --> 00:15:59,180
+(speaker 3) Yeah.
+
+512
+00:15:59,340 --> 00:15:59,740
+(speaker 3) If you're
+
+513
+00:15:59,740 --> 00:16:01,820
+(speaker 0) some kind of genius Unity developer, somebody like
+
+514
+00:16:01,900 --> 00:16:04,060
+(speaker 0) that out there that can do like webhook Unity
+
+515
+00:16:04,220 --> 00:16:06,300
+(speaker 0) development or something, and you you want to
+
+516
+00:16:06,300 --> 00:16:08,140
+(speaker 0) make something rad, you know, just let us know.
+
+517
+00:16:08,860 --> 00:16:09,260
+(speaker 0) We'll talk.
+
+518
+00:16:13,444 --> 00:16:14,600
+(speaker 1) I do miss there.
+
+519
+00:16:14,760 --> 00:16:17,880
+(speaker 1) There's a sort of maybe it's just a DM trip, but
+
+520
+00:16:18,250 --> 00:16:21,160
+(speaker 1) when everyone's got their pencils out and you're
+
+521
+00:16:21,240 --> 00:16:23,400
+(speaker 1) all around the table and you just leveled up and
+
+522
+00:16:23,400 --> 00:16:25,640
+(speaker 1) everyone's going through the books and they're a
+
+523
+00:16:25,640 --> 00:16:27,560
+(speaker 1) little lost, so you're kind of swooping and
+
+524
+00:16:27,560 --> 00:16:29,080
+(speaker 1) helping this person, kind of like you know you're
+
+525
+00:16:29,080 --> 00:16:29,880
+(speaker 1) doing grade school teaching.
+
+526
+00:16:30,309 --> 00:16:31,560
+(speaker 1) You're like, let me, I'll be right with you.
+
+527
+00:16:31,890 --> 00:16:34,760
+(speaker 1) That is just so rewarding, and it's a little bit
+
+528
+00:16:34,920 --> 00:16:36,920
+(speaker 1) maybe like of you're the magician in the room, no
+
+529
+00:16:37,000 --> 00:16:38,600
+(speaker 1) one knows the tricks, and everyone needs you.
+
+530
+00:16:39,310 --> 00:16:41,520
+(speaker 1) That might be rewarding, but I do miss the the
+
+531
+00:16:41,749 --> 00:16:44,480
+(speaker 1) paper in person, character sheets a lot.
+
+532
+00:16:45,605 --> 00:16:48,000
+(speaker 1) It's just it's it's fun and rewarding.
+
+533
+00:16:50,160 --> 00:16:50,560
+(speaker 1) I agree.
+
+534
+00:16:51,440 --> 00:16:51,680
+(speaker 2) Yep.
+
+535
+00:16:52,480 --> 00:16:55,280
+(speaker 2) Any link that Co could have robbed Grinkeeper's
+
+536
+00:16:55,280 --> 00:16:56,160
+(speaker 2) parents at some point.
+
+537
+00:17:00,480 --> 00:17:01,600
+(speaker 3) I mean, not directly.
+
+538
+00:17:01,920 --> 00:17:04,880
+(speaker 3) Co, until recently, Co didn't really get his
+
+539
+00:17:04,960 --> 00:17:05,520
+(speaker 3) hands dirty.
+
+540
+00:17:06,675 --> 00:17:08,960
+(speaker 3) At least, not much in my in my mind.
+
+541
+00:17:09,200 --> 00:17:12,079
+(speaker 3) At least, like he he definitely ran with a bad
+
+542
+00:17:12,240 --> 00:17:12,480
+(speaker 3) crowd.
+
+543
+00:17:13,574 --> 00:17:16,480
+(speaker 3) He might have assisted in Greenkeeper's parents
+
+544
+00:17:16,480 --> 00:17:19,760
+(speaker 3) getting robbed, but mostly he worked as a
+
+545
+00:17:19,920 --> 00:17:20,960
+(speaker 3) documents forger.
+
+546
+00:17:21,280 --> 00:17:24,480
+(speaker 3) And you know, kind of he was the guy with the
+
+547
+00:17:24,959 --> 00:17:27,200
+(speaker 3) better reputation that could help the people with
+
+548
+00:17:27,280 --> 00:17:30,320
+(speaker 3) bad reputations get places that they might
+
+549
+00:17:30,509 --> 00:17:31,920
+(speaker 3) otherwise not have been able to,
+
+550
+00:17:32,719 --> 00:17:34,240
+(speaker 0) like the nerd helping you with your homework.
+
+551
+00:17:35,120 --> 00:17:35,200
+(speaker 3) Yes.
+
+552
+00:17:35,520 --> 00:17:35,600
+(speaker 3) Yeah.
+
+553
+00:17:35,920 --> 00:17:36,000
+(speaker 3) Yes.
+
+554
+00:17:36,219 --> 00:17:37,840
+(speaker 0) That's consistent.
+
+555
+00:17:38,110 --> 00:17:40,800
+(speaker 1) Speaking of consistent bad people, I love that
+
+556
+00:17:41,014 --> 00:17:43,200
+(speaker 1) Splinter Belt got involved with Good Wine
+
+557
+00:17:43,360 --> 00:17:43,600
+(speaker 1) tonight.
+
+558
+00:17:44,240 --> 00:17:45,680
+(speaker 3) Oh, yes.
+
+559
+00:17:45,920 --> 00:17:46,880
+(speaker 3) I'm not kidding.
+
+560
+00:17:46,960 --> 00:17:49,680
+(speaker 3) I would watch an entire campaign of Splinter Belt
+
+561
+00:17:49,840 --> 00:17:50,240
+(speaker 3) and Good Wine.
+
+562
+00:17:50,400 --> 00:17:50,480
+(speaker 3) Yeah.
+
+563
+00:17:50,880 --> 00:17:51,120
+(speaker 3) It's
+
+564
+00:17:51,200 --> 00:17:53,840
+(speaker 0) the it's the it's the Better Call Saul spinoff of
+
+565
+00:17:53,840 --> 00:17:54,720
+(speaker 0) There Will Be Dungeons.
+
+566
+00:17:54,800 --> 00:17:57,280
+(speaker 0) Like it's an amazing concept, and I I didn't
+
+567
+00:17:57,360 --> 00:17:57,680
+(speaker 0) expect it.
+
+568
+00:17:57,760 --> 00:17:59,360
+(speaker 0) I just thought I was going to say hi and move on,
+
+569
+00:17:59,600 --> 00:18:00,400
+(speaker 0) but that was great.
+
+570
+00:18:03,120 --> 00:18:05,840
+(speaker 2) Next question: Do you feel like the episodic
+
+571
+00:18:06,004 --> 00:18:07,920
+(speaker 2) seasonal structure you have been working under
+
+572
+00:18:08,389 --> 00:18:10,560
+(speaker 2) has forced you to cut short many things you'd
+
+573
+00:18:10,560 --> 00:18:11,840
+(speaker 2) rather have spent more time on?
+
+574
+00:18:12,245 --> 00:18:14,960
+(speaker 2) In particular, the Withers Estate and Dragon Hunt
+
+575
+00:18:15,279 --> 00:18:17,280
+(speaker 2) both felt like they could have easily been two to
+
+576
+00:18:17,440 --> 00:18:18,000
+(speaker 2) three episodes.
+
+577
+00:18:18,399 --> 00:18:20,480
+(speaker 2) Or is this caused more by needing to make sure
+
+578
+00:18:20,889 --> 00:18:23,440
+(speaker 2) guest players' stories are self self- contained?
+
+579
+00:18:23,764 --> 00:18:26,080
+(speaker 2) Will we see a dragon rematch where all the
+
+580
+00:18:26,080 --> 00:18:27,760
+(speaker 2) players actually get to finish the fight?
+
+581
+00:18:28,945 --> 00:18:29,630
+(speaker 1) That okay.
+
+582
+00:18:32,190 --> 00:18:34,590
+(speaker 1) In my sane brain, in order to because you know
+
+583
+00:18:35,470 --> 00:18:36,830
+(speaker 1) it's a product, we're going to move on.
+
+584
+00:18:36,990 --> 00:18:37,870
+(speaker 1) We're going to do what we can.
+
+585
+00:18:38,110 --> 00:18:39,710
+(speaker 1) We had a guest for one week, and we have to say
+
+586
+00:18:39,870 --> 00:18:41,230
+(speaker 1) okay, we'll just cutscene this.
+
+587
+00:18:42,110 --> 00:18:46,510
+(speaker 1) But I do hold a hope that someday we will play
+
+588
+00:18:46,830 --> 00:18:50,030
+(speaker 1) live, all of us, and there's an audience there,
+
+589
+00:18:50,409 --> 00:18:52,270
+(speaker 1) and we will do the dragon fight.
+
+590
+00:18:52,479 --> 00:18:54,750
+(speaker 1) Maybe won't be the same character, but it'll be a
+
+591
+00:18:54,750 --> 00:18:55,310
+(speaker 1) dragon fight.
+
+592
+00:18:55,699 --> 00:18:58,790
+(speaker 1) And we will enjoy maybe maybe that slice of time
+
+593
+00:18:59,484 --> 00:19:01,750
+(speaker 1) that was missed on the show at that time.
+
+594
+00:19:04,310 --> 00:19:04,390
+(speaker 1) Yeah,
+
+595
+00:19:04,834 --> 00:19:07,670
+(speaker 0) I mean, and that you know, to to everyone's
+
+596
+00:19:07,750 --> 00:19:10,870
+(speaker 0) credit, that day was it was a time crunch, and
+
+597
+00:19:10,870 --> 00:19:13,590
+(speaker 0) then an inability for us to match up schedules
+
+598
+00:19:14,069 --> 00:19:15,830
+(speaker 0) with the guest afterward that just kind of made
+
+599
+00:19:15,910 --> 00:19:17,510
+(speaker 0) it so it had to be whatever it had to be.
+
+600
+00:19:18,074 --> 00:19:21,190
+(speaker 0) But I don't think the the overall concept and
+
+601
+00:19:21,270 --> 00:19:23,190
+(speaker 0) structure of a seasonal show like this, and the
+
+602
+00:19:23,190 --> 00:19:24,470
+(speaker 0) way we're doing it, I don't think that.
+
+603
+00:19:25,260 --> 00:19:26,370
+(speaker 0) Is normally an issue.
+
+604
+00:19:27,009 --> 00:19:28,050
+(speaker 0) Like, I mean, yeah.
+
+605
+00:19:28,290 --> 00:19:29,650
+(speaker 0) Can you drag anything out longer?
+
+606
+00:19:29,890 --> 00:19:30,050
+(speaker 0) Sure.
+
+607
+00:19:30,609 --> 00:19:33,330
+(speaker 0) Could you take if you had a tech show for that's
+
+608
+00:19:33,410 --> 00:19:34,930
+(speaker 0) set to be twenty five minutes about the morning
+
+609
+00:19:35,010 --> 00:19:35,650
+(speaker 0) tech headlines?
+
+610
+00:19:35,909 --> 00:19:37,330
+(speaker 0) Do you want to drag that out to four and a half
+
+611
+00:19:37,410 --> 00:19:39,970
+(speaker 0) hours just because you want to make sure you talk
+
+612
+00:19:40,130 --> 00:19:42,450
+(speaker 0) about the Google I O conference more than you
+
+613
+00:19:42,530 --> 00:19:42,610
+(speaker 0) did?
+
+614
+00:19:42,860 --> 00:19:44,930
+(speaker 0) Sure, you can do that to any kind of product.
+
+615
+00:19:45,979 --> 00:19:49,090
+(speaker 0) But I feel like the I don't know the the
+
+616
+00:19:49,410 --> 00:19:51,730
+(speaker 0) containment of the show in this format has been
+
+617
+00:19:51,890 --> 00:19:52,850
+(speaker 0) actually really good for it.
+
+618
+00:19:53,779 --> 00:19:55,620
+(speaker 0) And it may mean you know sometimes you got to do a
+
+619
+00:19:55,620 --> 00:19:57,380
+(speaker 0) fast forward over something, but for the most
+
+620
+00:19:57,460 --> 00:19:59,940
+(speaker 0) part, it's it's just been a more cohesive thing
+
+621
+00:20:00,020 --> 00:20:02,500
+(speaker 0) for the listeners mainly because they can get in
+
+622
+00:20:02,580 --> 00:20:04,420
+(speaker 0) and get out and and understand where they're at
+
+623
+00:20:04,580 --> 00:20:06,260
+(speaker 0) and finish the thing up and know that there's a
+
+624
+00:20:06,260 --> 00:20:06,980
+(speaker 0) start and a beginning.
+
+625
+00:20:07,739 --> 00:20:09,140
+(speaker 0) And I think that makes a difference for people.
+
+626
+00:20:09,919 --> 00:20:12,180
+(speaker 3) I think it's a you know I think it's a trade off.
+
+627
+00:20:12,580 --> 00:20:14,500
+(speaker 3) I think one of the cool things about there will
+
+628
+00:20:14,660 --> 00:20:17,300
+(speaker 3) be dungeons is by having you know so many
+
+629
+00:20:17,460 --> 00:20:19,780
+(speaker 3) episodes with Bow as a DM and.
+
+630
+00:20:19,940 --> 00:20:22,580
+(speaker 3) Like his DM style and the way he does things, and
+
+631
+00:20:22,580 --> 00:20:24,660
+(speaker 3) then getting Kyle as a DM and the way he's doing
+
+632
+00:20:24,820 --> 00:20:28,020
+(speaker 3) things for the show, and what we kind of decided
+
+633
+00:20:28,100 --> 00:20:31,380
+(speaker 3) to do to shift it, I think shows the strengths
+
+634
+00:20:31,460 --> 00:20:32,500
+(speaker 3) and the weaknesses of both.
+
+635
+00:20:32,719 --> 00:20:34,900
+(speaker 3) Because I don't think either way is necessarily
+
+636
+00:20:35,064 --> 00:20:37,860
+(speaker 3) perfect for a for a show product.
+
+637
+00:20:38,110 --> 00:20:40,420
+(speaker 3) I think you you get you know the good and the
+
+638
+00:20:40,420 --> 00:20:40,500
+(speaker 3) bad.
+
+639
+00:20:40,725 --> 00:20:44,100
+(speaker 3) You know when I was when we were doing our first
+
+640
+00:20:44,260 --> 00:20:47,060
+(speaker 3) campaign and I was playing Stanley, Stanley felt
+
+641
+00:20:47,220 --> 00:20:48,420
+(speaker 3) like a much more alive character.
+
+642
+00:20:48,980 --> 00:20:52,660
+(speaker 3) Because we saw more of his life, and you know, I
+
+643
+00:20:53,039 --> 00:20:54,740
+(speaker 3) think probably I don't want to speak for
+
+644
+00:20:54,820 --> 00:20:56,740
+(speaker 3) everyone, but I would imagine that was kind of
+
+645
+00:20:56,900 --> 00:21:01,060
+(speaker 3) true for the other players, because we had more
+
+646
+00:21:01,460 --> 00:21:03,540
+(speaker 3) interpersonal moments, and there was time where
+
+647
+00:21:03,764 --> 00:21:05,700
+(speaker 3) nothing was really going on, and they were just
+
+648
+00:21:05,780 --> 00:21:06,740
+(speaker 3) talking to each other.
+
+649
+00:21:07,620 --> 00:21:12,980
+(speaker 3) And this it's a little more you know actiony, but
+
+650
+00:21:13,060 --> 00:21:14,020
+(speaker 3) as a result, it kind of
+
+651
+00:21:14,584 --> 00:21:15,700
+(speaker 3) You know, it's a little less personal.
+
+652
+00:21:16,105 --> 00:21:19,380
+(speaker 3) Co- exists while I'm playing him, and he's not
+
+653
+00:21:19,780 --> 00:21:22,660
+(speaker 3) necessarily in my mind once we're not because
+
+654
+00:21:24,314 --> 00:21:28,180
+(speaker 3) it's almost like it's almost like a half step
+
+655
+00:21:28,500 --> 00:21:31,700
+(speaker 3) between storytelling and almost playing like a
+
+656
+00:21:31,700 --> 00:21:33,620
+(speaker 3) video game, where it's like, yeah, I logged in as
+
+657
+00:21:33,700 --> 00:21:33,780
+(speaker 3) co.
+
+658
+00:21:33,840 --> 00:21:37,780
+(speaker 3) We played his co today, and I don't think there's
+
+659
+00:21:37,860 --> 00:21:38,660
+(speaker 3) anything wrong with that.
+
+660
+00:21:38,980 --> 00:21:41,700
+(speaker 3) I think it makes for a I think it it makes for
+
+661
+00:21:41,940 --> 00:21:43,380
+(speaker 3) maybe a better show to listen to.
+
+662
+00:21:45,060 --> 00:21:47,930
+(speaker 3) It certainly moves things along at a brisk pace,
+
+663
+00:21:48,250 --> 00:21:50,490
+(speaker 3) and it it avoids some of the pitfalls that the
+
+664
+00:21:50,570 --> 00:21:53,690
+(speaker 3) other DMing method might fall into.
+
+665
+00:21:55,294 --> 00:21:57,610
+(speaker 3) But I think it's going to be, you know, I think
+
+666
+00:21:57,690 --> 00:21:59,370
+(speaker 3) there is going to be people that like both ways.
+
+667
+00:22:02,570 --> 00:22:03,210
+(speaker 2) Awesome.
+
+668
+00:22:03,779 --> 00:22:06,810
+(speaker 2) Next question: How much XP was the Shade of the
+
+669
+00:22:06,969 --> 00:22:08,970
+(speaker 2) Kalizar, and what was he?
+
+670
+00:22:09,965 --> 00:22:10,810
+(speaker 1) Okay, all right.
+
+671
+00:22:10,890 --> 00:22:12,650
+(speaker 1) So, so for our call here, I am gonna I am gonna
+
+672
+00:22:12,730 --> 00:22:13,690
+(speaker 1) turn on my camera briefly.
+
+673
+00:22:14,209 --> 00:22:16,480
+(speaker 1) So you all can see me do headphones in a moment.
+
+674
+00:22:17,019 --> 00:22:18,320
+(speaker 1) So everyone on this call is going to take off
+
+675
+00:22:18,400 --> 00:22:18,800
+(speaker 1) their headphones.
+
+676
+00:22:19,040 --> 00:22:19,120
+(speaker 1) Okay.
+
+677
+00:22:19,360 --> 00:22:19,440
+(speaker 1) Okay.
+
+678
+00:22:19,760 --> 00:22:21,600
+(speaker 1) And then I'll tell the audience what it was, so
+
+679
+00:22:21,600 --> 00:22:22,320
+(speaker 1) you guys don't know.
+
+680
+00:22:22,720 --> 00:22:23,280
+(speaker 1) That's a great idea.
+
+681
+00:22:23,440 --> 00:22:24,160
+(speaker 1) And we'll put them back
+
+682
+00:22:24,160 --> 00:22:24,240
+(speaker 0) on.
+
+683
+00:22:24,320 --> 00:22:24,400
+(speaker 0) Okay.
+
+684
+00:22:24,560 --> 00:22:25,040
+(speaker 0) Oh, that's
+
+685
+00:22:25,040 --> 00:22:25,120
+(speaker 3) super.
+
+686
+00:22:25,520 --> 00:22:25,600
+(speaker 3) Yes.
+
+687
+00:22:25,840 --> 00:22:26,560
+(speaker 0) Yeah, I like this.
+
+688
+00:22:27,200 --> 00:22:27,280
+(speaker 1) Okay.
+
+689
+00:22:27,520 --> 00:22:27,760
+(speaker 1) All right.
+
+690
+00:22:27,920 --> 00:22:28,160
+(speaker 1) All right.
+
+691
+00:22:28,220 --> 00:22:28,880
+(speaker 1) So they're gone.
+
+692
+00:22:30,189 --> 00:22:35,280
+(speaker 1) So, in full disclosure, he is a mummy lord, a
+
+693
+00:22:35,440 --> 00:22:38,720
+(speaker 1) challenge rating fifteen monster, and of course,
+
+694
+00:22:38,960 --> 00:22:41,360
+(speaker 1) the players did face him at his full stats.
+
+695
+00:22:41,524 --> 00:22:43,280
+(speaker 1) However, of course, being a lord of things.
+
+696
+00:22:43,779 --> 00:22:45,780
+(speaker 1) He shouldn't be fought alone, and it was a very
+
+697
+00:22:45,940 --> 00:22:46,980
+(speaker 1) advantageous position.
+
+698
+00:22:47,940 --> 00:22:51,460
+(speaker 1) So they will continue to face the Kalizar, a
+
+699
+00:22:51,540 --> 00:22:55,300
+(speaker 1) challenge rating fifteen monster in season three,
+
+700
+00:22:56,259 --> 00:22:58,020
+(speaker 1) in his many different forms and encounters.
+
+701
+00:22:58,264 --> 00:22:59,540
+(speaker 1) Okay, everyone's coming back.
+
+702
+00:23:01,779 --> 00:23:03,860
+(speaker 3) I like the universal headphones.
+
+703
+00:23:04,100 --> 00:23:04,260
+(speaker 3) I was
+
+704
+00:23:04,420 --> 00:23:06,900
+(speaker 0) going to say, I see Kyle waving maniacly, so that
+
+705
+00:23:06,900 --> 00:23:07,700
+(speaker 0) must mean we're good.
+
+706
+00:23:08,264 --> 00:23:09,300
+(speaker 0) I'm so curious now.
+
+707
+00:23:09,860 --> 00:23:10,180
+(speaker 0) I know.
+
+708
+00:23:10,580 --> 00:23:11,860
+(speaker 0) I'm not going to go back and listen though.
+
+709
+00:23:12,020 --> 00:23:12,420
+(speaker 0) I'm going to.
+
+710
+00:23:12,880 --> 00:23:13,600
+(speaker 0) I'm gonna keep it.
+
+711
+00:23:13,969 --> 00:23:15,120
+(speaker 0) I'm gonna keep it real, baby.
+
+712
+00:23:16,800 --> 00:23:19,360
+(speaker 2) A lot of the campaign has centered on Co and his
+
+713
+00:23:19,395 --> 00:23:20,320
+(speaker 2) psychic powers.
+
+714
+00:23:20,849 --> 00:23:22,160
+(speaker 2) Was that planned from the beginning?
+
+715
+00:23:22,485 --> 00:23:24,800
+(speaker 2) I seem to remember from a previous bonus show
+
+716
+00:23:24,960 --> 00:23:27,120
+(speaker 2) that John said he was a little undecided about
+
+717
+00:23:27,324 --> 00:23:28,720
+(speaker 2) his third level path.
+
+718
+00:23:29,200 --> 00:23:29,520
+(speaker 2) Hmm.
+
+719
+00:23:30,240 --> 00:23:31,040
+(speaker 2) What say you, John?
+
+720
+00:23:32,164 --> 00:23:33,680
+(speaker 3) Uh, that's true.
+
+721
+00:23:33,920 --> 00:23:36,640
+(speaker 3) I mean, Kyle will have to talk about campaign
+
+722
+00:23:36,800 --> 00:23:37,520
+(speaker 3) focusing on it.
+
+723
+00:23:37,610 --> 00:23:40,080
+(speaker 3) But I was undecided for a while going into the
+
+724
+00:23:40,160 --> 00:23:40,640
+(speaker 3) third level.
+
+725
+00:23:41,900 --> 00:23:46,780
+(speaker 3) And even before the show started, well, I was
+
+726
+00:23:46,940 --> 00:23:48,540
+(speaker 3) undecided before the show started.
+
+727
+00:23:48,700 --> 00:23:51,420
+(speaker 3) I guess I should say because we did run into an
+
+728
+00:23:51,500 --> 00:23:53,820
+(speaker 3) issue where I was originally going to go a
+
+729
+00:23:53,900 --> 00:23:55,580
+(speaker 3) different direction with the character, and I
+
+730
+00:23:55,660 --> 00:23:57,820
+(speaker 3) forgot to update his stats when we started.
+
+731
+00:23:58,319 --> 00:24:00,300
+(speaker 3) And all of a sudden, I had a character that was
+
+732
+00:24:00,619 --> 00:24:02,380
+(speaker 3) bad at things he should have been good at, and
+
+733
+00:24:02,460 --> 00:24:03,900
+(speaker 3) good at things he should have been bad at.
+
+734
+00:24:05,839 --> 00:24:09,980
+(speaker 3) But yeah, I I found out before we started that.
+
+735
+00:24:10,364 --> 00:24:12,700
+(speaker 3) I was going to go this kind of psychic route and
+
+736
+00:24:12,780 --> 00:24:15,980
+(speaker 3) talk to Kyle, and I don't know.
+
+737
+00:24:16,619 --> 00:24:18,620
+(speaker 3) I don't know how much of that influenced the
+
+738
+00:24:18,700 --> 00:24:21,260
+(speaker 3) campaign, so he can speak to that.
+
+739
+00:24:22,700 --> 00:24:22,940
+(speaker 3) It's
+
+740
+00:24:23,020 --> 00:24:23,900
+(speaker 1) an interesting question.
+
+741
+00:24:24,330 --> 00:24:29,260
+(speaker 1) So the way I run D and D stories, ultimately, and
+
+742
+00:24:29,340 --> 00:24:31,660
+(speaker 1) and this is like a let's not let's not pretend to
+
+743
+00:24:32,389 --> 00:24:33,580
+(speaker 1) be magicians or special here.
+
+744
+00:24:33,740 --> 00:24:35,180
+(speaker 1) I want people to be able to DM at home.
+
+745
+00:24:36,164 --> 00:24:40,720
+(speaker 1) I often start with a very kind of generic—you
+
+746
+00:24:40,800 --> 00:24:42,960
+(speaker 1) could even call it organic—kind of quest at the
+
+747
+00:24:43,040 --> 00:24:44,880
+(speaker 1) beginning, and then let's see what the players
+
+748
+00:24:45,120 --> 00:24:45,840
+(speaker 1) grab onto.
+
+749
+00:24:46,479 --> 00:24:48,480
+(speaker 1) And almost immediately, you know, I did like
+
+750
+00:24:48,640 --> 00:24:50,480
+(speaker 1) there's the kind of the sound of the background
+
+751
+00:24:50,480 --> 00:24:52,480
+(speaker 1) in the underground, and John's like," Uh- huh."
+
+752
+00:24:53,040 --> 00:24:54,080
+(speaker 1) Well, what about that?
+
+753
+00:24:54,779 --> 00:24:56,240
+(speaker 1) I'm like," Okay, here's the quest for next time.
+
+754
+00:24:56,320 --> 00:24:57,840
+(speaker 1) We're going underground again." They're
+
+755
+00:24:58,240 --> 00:25:00,800
+(speaker 1) immediately the group kind of grabbed onto the
+
+756
+00:25:00,880 --> 00:25:02,000
+(speaker 1) very first thread presented.
+
+757
+00:25:02,080 --> 00:25:02,640
+(speaker 1) If they hadn't.
+
+758
+00:25:03,109 --> 00:25:04,820
+(speaker 1) If they weren't interested in that, that thread
+
+759
+00:25:05,090 --> 00:25:06,420
+(speaker 1) would have been something else, and there would
+
+760
+00:25:06,500 --> 00:25:08,580
+(speaker 1) have been more side quests until we start to hit
+
+761
+00:25:08,989 --> 00:25:11,940
+(speaker 1) that something that made them interested and got
+
+762
+00:25:12,100 --> 00:25:12,660
+(speaker 1) them curious.
+
+763
+00:25:13,269 --> 00:25:15,380
+(speaker 1) So I was kind of lucky in that we did that very,
+
+764
+00:25:15,620 --> 00:25:17,940
+(speaker 1) very quickly, and we found through all these side
+
+765
+00:25:18,050 --> 00:25:20,820
+(speaker 1) quests an avenue and started piecing all those
+
+766
+00:25:20,900 --> 00:25:21,460
+(speaker 1) pieces together.
+
+767
+00:25:22,420 --> 00:25:27,780
+(speaker 1) John's kind of progression into main
+
+768
+00:25:28,180 --> 00:25:29,780
+(speaker 1) characterage, if you want to say that.
+
+769
+00:25:30,419 --> 00:25:34,140
+(speaker 1) Is also because the difficulty of rationalizing
+
+770
+00:25:34,140 --> 00:25:36,060
+(speaker 1) such outrageous powers for a rogue.
+
+771
+00:25:37,660 --> 00:25:41,180
+(speaker 1) It's really quite the class, and it's kind of
+
+772
+00:25:41,649 --> 00:25:42,780
+(speaker 1) bizarre mix of things.
+
+773
+00:25:43,904 --> 00:25:46,300
+(speaker 1) And this is already, you know, like I've said
+
+774
+00:25:46,460 --> 00:25:48,860
+(speaker 1) before, it's like a 18th century kind of
+
+775
+00:25:49,100 --> 00:25:49,580
+(speaker 1) technology world.
+
+776
+00:25:49,820 --> 00:25:52,220
+(speaker 1) We're not in electricity; magic still reigns
+
+777
+00:25:52,380 --> 00:25:54,460
+(speaker 1) supreme, but.
+
+778
+00:25:55,694 --> 00:25:58,060
+(speaker 1) To have psychic stuff suddenly show up at three
+
+779
+00:25:58,220 --> 00:25:59,260
+(speaker 1) and be like," Hey, guess what?
+
+780
+00:25:59,340 --> 00:25:59,980
+(speaker 1) I woke up last night.
+
+781
+00:26:00,140 --> 00:26:03,420
+(speaker 1) I'm psychic." It takes some work, and that's and
+
+782
+00:26:03,420 --> 00:26:05,260
+(speaker 1) that's why I had to make kind of some some tough
+
+783
+00:26:05,339 --> 00:26:07,180
+(speaker 1) cuts on his powers there, as we sort of progress
+
+784
+00:26:07,350 --> 00:26:10,620
+(speaker 1) them more naturally and gotten to the story.
+
+785
+00:26:11,214 --> 00:26:13,980
+(speaker 1) But he did give me the part about his wife being
+
+786
+00:26:14,220 --> 00:26:17,260
+(speaker 1) comatose and and being in this sort of coma, and
+
+787
+00:26:17,420 --> 00:26:20,380
+(speaker 1) that I was able to work into the greater story
+
+788
+00:26:20,700 --> 00:26:21,020
+(speaker 1) and start.
+
+789
+00:26:21,794 --> 00:26:24,080
+(speaker 1) Getting his powers also circled back into that,
+
+790
+00:26:24,369 --> 00:26:25,840
+(speaker 1) and we're starting to see like Splendorbell
+
+791
+00:26:26,000 --> 00:26:26,560
+(speaker 1) become more involved.
+
+792
+00:26:26,720 --> 00:26:29,840
+(speaker 1) Like he has the Koto on his as farm now.
+
+793
+00:26:30,559 --> 00:26:32,400
+(speaker 1) Greenkeeper starting to come into her own too.
+
+794
+00:26:32,720 --> 00:26:35,200
+(speaker 1) So it's more about which characters' powers and
+
+795
+00:26:35,259 --> 00:26:36,880
+(speaker 1) stories came up first.
+
+796
+00:26:37,764 --> 00:26:41,120
+(speaker 1) But we can still fart off to Gondor and play
+
+797
+00:26:41,360 --> 00:26:44,640
+(speaker 1) around with other characters while Co, the maybe
+
+798
+00:26:44,800 --> 00:26:46,800
+(speaker 1) Sam Frodo, the story does his main journey.
+
+799
+00:26:48,060 --> 00:26:49,020
+(speaker 3) Yeah, so there you go.
+
+800
+00:26:49,260 --> 00:26:52,540
+(speaker 3) If you want to, if you're an ego maniac like me,
+
+801
+00:26:52,894 --> 00:26:54,940
+(speaker 3) just pick the weirdest thing that you know is
+
+802
+00:26:55,020 --> 00:26:56,620
+(speaker 3) going to make your DM jump through a bunch of
+
+803
+00:26:56,700 --> 00:26:58,540
+(speaker 3) logic hoops, and then you get to be important.
+
+804
+00:27:00,060 --> 00:27:00,140
+(speaker 3) It
+
+805
+00:27:00,220 --> 00:27:01,020
+(speaker 1) was really fun, though.
+
+806
+00:27:02,460 --> 00:27:05,100
+(speaker 3) I honestly, it's so funny because I picked the
+
+807
+00:27:05,180 --> 00:27:08,220
+(speaker 3) class for a reason that I even knew I wasn't
+
+808
+00:27:08,300 --> 00:27:08,940
+(speaker 3) going to get to use.
+
+809
+00:27:09,264 --> 00:27:11,820
+(speaker 3) Like, I knew the structure of the show because
+
+810
+00:27:11,980 --> 00:27:12,780
+(speaker 3) Kyle had told us.
+
+811
+00:27:13,394 --> 00:27:15,540
+(speaker 3) But there was something about the notion that,
+
+812
+00:27:15,700 --> 00:27:17,940
+(speaker 3) like, when you get stabbed by a psychic blade, it
+
+813
+00:27:18,020 --> 00:27:18,660
+(speaker 3) doesn't leave a mark.
+
+814
+00:27:18,900 --> 00:27:21,300
+(speaker 3) I was like, oh, what a cool assassin that would
+
+815
+00:27:21,380 --> 00:27:21,460
+(speaker 3) be!
+
+816
+00:27:21,884 --> 00:27:23,780
+(speaker 3) Like, you know, there's you don't even leave a
+
+817
+00:27:23,780 --> 00:27:23,940
+(speaker 3) wound.
+
+818
+00:27:24,509 --> 00:27:26,100
+(speaker 3) Like, you know, I just pictured going through a
+
+819
+00:27:26,180 --> 00:27:28,500
+(speaker 3) crowd and you just you stab somebody and they
+
+820
+00:27:28,629 --> 00:27:30,740
+(speaker 3) just fall over and everybody's going," There's no
+
+821
+00:27:30,820 --> 00:27:30,900
+(speaker 3) mark.
+
+822
+00:27:31,220 --> 00:27:31,300
+(speaker 3) What?
+
+823
+00:27:32,079 --> 00:27:33,780
+(speaker 3) What caused this?" And you know, you slip away
+
+824
+00:27:33,860 --> 00:27:34,500
+(speaker 3) unnoticed.
+
+825
+00:27:34,500 --> 00:27:36,500
+(speaker 3) I was like, oh, that's such a cool rogue thing.
+
+826
+00:27:37,460 --> 00:27:38,420
+(speaker 3) I want to be this class.
+
+827
+00:27:38,580 --> 00:27:40,660
+(speaker 3) And then I thought about the world Kyle was
+
+828
+00:27:40,740 --> 00:27:42,340
+(speaker 3) presenting and how it was going to work and what
+
+829
+00:27:42,420 --> 00:27:42,500
+(speaker 3) we.
+
+830
+00:27:43,060 --> 00:27:45,700
+(speaker 3) Talked about has like that's never going to be a
+
+831
+00:27:45,700 --> 00:27:45,780
+(speaker 3) thing.
+
+832
+00:27:46,180 --> 00:27:48,260
+(speaker 3) I'm picking it because I'm excited about a thing
+
+833
+00:27:48,340 --> 00:27:49,780
+(speaker 3) that I know isn't going to happen.
+
+834
+00:27:50,180 --> 00:27:52,100
+(speaker 3) But it was enough to get me on the path for that
+
+835
+00:27:52,180 --> 00:27:54,660
+(speaker 3) class, and I think the class is really cool.
+
+836
+00:27:54,980 --> 00:27:57,940
+(speaker 3) And I I really love the way he decided to run
+
+837
+00:27:58,100 --> 00:28:00,580
+(speaker 3) with the story because I mean I would have been
+
+838
+00:28:00,660 --> 00:28:02,900
+(speaker 3) okay with it if he was just like oh you wake up
+
+839
+00:28:03,059 --> 00:28:05,620
+(speaker 3) you're psychic I would have been like sweet
+
+840
+00:28:05,620 --> 00:28:06,660
+(speaker 3) that's awesome.
+
+841
+00:28:06,660 --> 00:28:09,380
+(speaker 3) And if the listeners think that's a weird leap.
+
+842
+00:28:09,784 --> 00:28:12,180
+(speaker 3) Well, you know that's how D and D goes sometimes,
+
+843
+00:28:12,325 --> 00:28:15,220
+(speaker 3) but I think the way he tied it into the story and
+
+844
+00:28:15,300 --> 00:28:17,220
+(speaker 3) made a part of the story was very cool, and it
+
+845
+00:28:17,300 --> 00:28:20,500
+(speaker 3) was a neat way to feel like those powers weren't
+
+846
+00:28:20,580 --> 00:28:22,820
+(speaker 3) just arbitrary because I picked something on a
+
+847
+00:28:22,900 --> 00:28:23,380
+(speaker 3) spreadsheet.
+
+848
+00:28:25,129 --> 00:28:27,380
+(speaker 2) Awesome, and we have one last question before we
+
+849
+00:28:27,460 --> 00:28:29,700
+(speaker 2) end the show: How does Splunderbelt's god feel
+
+850
+00:28:29,860 --> 00:28:32,340
+(speaker 2) about his track record of healing versus farming?
+
+851
+00:28:32,825 --> 00:28:35,140
+(speaker 2) Could we see a deity shift to one of nature?
+
+852
+00:28:35,300 --> 00:28:35,780
+(speaker 2) Okay, so.
+
+853
+00:28:36,699 --> 00:28:39,200
+(speaker 2) Responded that Paylor is a god of agriculture as
+
+854
+00:28:39,200 --> 00:28:40,160
+(speaker 2) well in the Discord.
+
+855
+00:28:40,160 --> 00:28:42,000
+(speaker 0) Yeah, I was going to say we we'd probably be fine.
+
+856
+00:28:42,400 --> 00:28:44,560
+(speaker 0) The problem, the the idea though of that is
+
+857
+00:28:44,720 --> 00:28:46,640
+(speaker 0) actually kind of interesting, and I did I did
+
+858
+00:28:46,720 --> 00:28:48,880
+(speaker 0) have a thought of like, well, if I really shift
+
+859
+00:28:49,120 --> 00:28:52,240
+(speaker 0) my thoughts away from healing everybody and you
+
+860
+00:28:52,240 --> 00:28:54,800
+(speaker 0) know all the things Paylor wants me to do, but
+
+861
+00:28:54,960 --> 00:28:59,040
+(speaker 0) instead focused entirely on this farm, there is
+
+862
+00:28:59,200 --> 00:29:00,880
+(speaker 0) some fun idea about being.
+
+863
+00:29:01,975 --> 00:29:05,320
+(speaker 0) Forsaken by the God of Choice, and and and that
+
+864
+00:29:05,560 --> 00:29:07,400
+(speaker 0) another God would have to swoop in, and I'd
+
+865
+00:29:07,480 --> 00:29:11,080
+(speaker 0) almost have to be like defrocked of of of Palor's
+
+866
+00:29:11,080 --> 00:29:12,840
+(speaker 0) grace, and then picked up by somebody else, so
+
+867
+00:29:12,920 --> 00:29:16,040
+(speaker 0) that I could be rejuvenated again, but under a
+
+868
+00:29:16,120 --> 00:29:18,440
+(speaker 0) new, you know, under a new watchful eye or
+
+869
+00:29:18,520 --> 00:29:18,840
+(speaker 0) whatever.
+
+870
+00:29:19,129 --> 00:29:21,000
+(speaker 0) Like, there's some fun to be had there, but the
+
+871
+00:29:21,000 --> 00:29:24,920
+(speaker 0) problem is, Palor's already into agriculture and
+
+872
+00:29:25,000 --> 00:29:27,960
+(speaker 0) farming, so I don't think I don't think we get to
+
+873
+00:29:27,960 --> 00:29:28,760
+(speaker 0) have that kind of fun, but.
+
+874
+00:29:29,784 --> 00:29:30,500
+(speaker 0) That's a great question.
+
+875
+00:29:30,740 --> 00:29:31,300
+(speaker 0) I love that question.
+
+876
+00:29:31,620 --> 00:29:31,940
+(speaker 0) It's great.
+
+877
+00:29:32,580 --> 00:29:32,660
+(speaker 0) Well,
+
+878
+00:29:33,129 --> 00:29:36,420
+(speaker 1) and it it's a very like works in mysterious ways
+
+879
+00:29:37,220 --> 00:29:37,700
+(speaker 1) kind of thing.
+
+880
+00:29:37,940 --> 00:29:38,420
+(speaker 1) Sure, like
+
+881
+00:29:38,820 --> 00:29:38,900
+(speaker 1) sure.
+
+882
+00:29:39,729 --> 00:29:44,900
+(speaker 1) Pay Paylord chose to empower this potato loving
+
+883
+00:29:44,980 --> 00:29:48,980
+(speaker 1) half orc with all his intricacies and bizarreness
+
+884
+00:29:49,314 --> 00:29:52,340
+(speaker 1) with divine light, and I think that's such a cool
+
+885
+00:29:53,879 --> 00:29:54,900
+(speaker 1) just quest device.
+
+886
+00:29:55,620 --> 00:29:58,180
+(speaker 1) Because you kind of as as the God you would know
+
+887
+00:29:58,420 --> 00:30:00,340
+(speaker 1) where he's off to, and that this particular
+
+888
+00:30:00,719 --> 00:30:03,460
+(speaker 1) person would make the right choice at that moment
+
+889
+00:30:03,620 --> 00:30:04,580
+(speaker 1) someday, and and he does.
+
+890
+00:30:04,744 --> 00:30:07,220
+(speaker 1) He's got he's got a heart of gold, as as much as
+
+891
+00:30:07,220 --> 00:30:08,580
+(speaker 1) he loves the gold in the first place.
+
+892
+00:30:10,500 --> 00:30:10,580
+(speaker 0) Yeah.
+
+893
+00:30:10,984 --> 00:30:13,780
+(speaker 0) So, I mean, there could be something that happens
+
+894
+00:30:13,860 --> 00:30:13,940
+(speaker 0) there.
+
+895
+00:30:14,100 --> 00:30:14,580
+(speaker 0) Who knows?
+
+896
+00:30:15,144 --> 00:30:17,540
+(speaker 0) But it is you know I am trying to portray a
+
+897
+00:30:17,700 --> 00:30:18,740
+(speaker 0) conflicted individual.
+
+898
+00:30:18,900 --> 00:30:19,780
+(speaker 0) I am trying to say.
+
+899
+00:30:20,979 --> 00:30:22,960
+(speaker 0) You know, as fun as it all is, and as goofy as the
+
+900
+00:30:22,960 --> 00:30:25,840
+(speaker 0) potato thing is, the concept here isn't meant to
+
+901
+00:30:25,840 --> 00:30:26,480
+(speaker 0) be that goofy.
+
+902
+00:30:26,640 --> 00:30:29,520
+(speaker 0) It's like he is being he is being challenged in.
+
+903
+00:30:30,089 --> 00:30:31,600
+(speaker 0) It's like somebody going, I don't know, to school
+
+904
+00:30:31,680 --> 00:30:33,520
+(speaker 0) to be a biologist, and then saying," Man, I
+
+905
+00:30:33,600 --> 00:30:34,880
+(speaker 0) really wanted to sing for a living." You know
+
+906
+00:30:34,960 --> 00:30:35,280
+(speaker 0) what I mean?
+
+907
+00:30:35,440 --> 00:30:36,000
+(speaker 0) It's like that.
+
+908
+00:30:36,559 --> 00:30:40,720
+(speaker 0) So he's having a crisis, and he's torn, and he
+
+909
+00:30:40,800 --> 00:30:42,880
+(speaker 0) does his duty, but at the same time, his heart
+
+910
+00:30:43,120 --> 00:30:44,240
+(speaker 0) may lay lie elsewhere.
+
+911
+00:30:45,119 --> 00:30:47,200
+(speaker 0) And we'll see what that ends up happening, or
+
+912
+00:30:47,200 --> 00:30:48,160
+(speaker 0) what what it does to him.
+
+913
+00:30:48,240 --> 00:30:48,960
+(speaker 0) But yes.
+
+914
+00:30:48,965 --> 00:30:50,260
+(speaker 0) You're on to the right track.
+
+915
+00:30:50,340 --> 00:30:52,900
+(speaker 0) That there's a, you know, there's a conflict, and
+
+916
+00:30:52,980 --> 00:30:53,620
+(speaker 0) he's feeling it.
+
+917
+00:30:54,819 --> 00:30:56,500
+(speaker 0) These are great questions, and we love them.
+
+918
+00:30:56,905 --> 00:30:57,780
+(speaker 0) But we need more of them.
+
+919
+00:30:58,099 --> 00:31:00,180
+(speaker 0) So here's how you get them: you go to the or send
+
+920
+00:31:00,180 --> 00:31:00,500
+(speaker 0) them to us.
+
+921
+00:31:00,580 --> 00:31:02,180
+(speaker 0) You go to the website, therewillbedungeons.
+
+922
+00:31:02,869 --> 00:31:05,300
+(speaker 0) com, and on that site you will find a place to
+
+923
+00:31:05,460 --> 00:31:05,780
+(speaker 0) enter them.
+
+924
+00:31:06,069 --> 00:31:07,620
+(speaker 0) If you'd rather do it a different way, you can
+
+925
+00:31:07,620 --> 00:31:08,340
+(speaker 0) use our Discord.
+
+926
+00:31:08,580 --> 00:31:10,020
+(speaker 0) There's all kinds of ways to get it to us.
+
+927
+00:31:10,579 --> 00:31:12,900
+(speaker 0) But send them in and let us know your thoughts,
+
+928
+00:31:13,060 --> 00:31:14,820
+(speaker 0) feelings, and questions for our next bonus show.
+
+929
+00:31:14,980 --> 00:31:16,500
+(speaker 0) And thank you once again for all your great
+
+930
+00:31:16,740 --> 00:31:17,220
+(speaker 0) support out there.
+
+931
+00:31:18,080 --> 00:31:19,100
+(speaker 0) I think that's going to do it.
+
+932
+00:31:19,534 --> 00:31:22,220
+(speaker 0) I want to thank Kyle, Kristin, John, and
+
+933
+00:31:22,300 --> 00:31:24,460
+(speaker 0) everybody out there who helped contribute to
+
+934
+00:31:24,620 --> 00:31:25,580
+(speaker 0) today's bonus show.
+
+935
+00:31:26,429 --> 00:31:27,580
+(speaker 0) We'll be back next time with more.
+
+936
+00:31:27,905 --> 00:31:28,620
+(speaker 0) We'll see you then.
+
