@@ -1,6 +1,6 @@
 # Kervalon / Kaer Valon — contested border keep and Demon Vold approach
 
-> **Working name only:** `Kervalon`, `Kaer Valon`, `Caravalon`, `Caeravalon` and similar ASR variants. **Do not silently declare canon orthography from a processed transcript.** Discussed [E061](../../episodes/E061.md), reached physically [E067](../../episodes/E067.md). **Full spoilers through E075**.
+> **Working name only:** `Kervalon`, `Kaer Valon`, `Caravalon`, `Caeravalon` and similar ASR variants. **Do not silently declare canon orthography from a processed transcript.** Discussed [E061](../../episodes/E061.md), reached physically [E067](../../episodes/E067.md). **Full spoilers through E081**.
 
 ## Earlier warnings and route
 
@@ -54,3 +54,11 @@ Behind the console a sealed room yields one **red/green paired-[portal device](.
 - **Travel:** the ghost carriage disappears at Kervalon E067; **Fate 4 is destroyed E066**, and **Fang Fate Five** is not physically carried through the densely packed forest.
 
 **Sources:** [E061](../../episodes/E061.md) · [E064](../../episodes/E064.md) · [E065](../../episodes/E065.md) · [E066](../../episodes/E066.md) · [E067](../../episodes/E067.md) · [E068](../../episodes/E068.md). **Related:** [Razak Val](razak-val.md) · [world overview](../WORLD.md) · [chronology](../CHRONOLOGY.md) · [review queue](../../project/REVIEW_QUEUE.md).
+
+## Drive chamber and end-of-arc outcome (E076–E081)
+
+After E075's unfinished bugbear charge, the party **actually escapes by the red/green linked portal device in E076**, enters **CHIDS Containment**, and discovers experimental **lizardfolk vats, weapons, the living hive council and alleged future Wall Nash** in E077. The council supplies cache codes and **physically transports the adventurers near engineering in E078**, where they rescue **Chance and Eddie**. **E079's illithid disguise and Stanley/Hope Dimension Door plus portal crossing bypass a crystal lock**. The team physically sees the **Traversal Drive's transformed engineering chamber, central column, dragon-worm Dolo Popio, large commander illithid and a captive Sira**. Hope's opening rockets destroy several illithids and Cerinthala's observed body. In **E080 Nash kills the large commander**.
+
+The **starry-void battlefield in E080–E081** is strange and partly unexplained, but is **directly depicted**. **Chance drifts away and is not recovered**, **Hope kills Dolo Popio's manifested body with radiant darts E081**, and the group returns to engineering. **Sira physically leaves the central beam**, ending the prior abducted status. **Quizquaz** offers the heroes a chance to allow Earth to be destroyed, allegedly defeating the Principle, but they reject that offer. Instead **all four protagonists enter a high-frequency crimson beam together**, disappear, and **are explicitly declared dead by the GM at E081 cutoff**. **Eddie and Sira remain outside alive**; **Chance's ultimate destination, the heroes' permanent fate, and the planet/Drive's later condition are not shown**.
+
+These are **source-cutoff observations and explicitly attributed claims**, not proof of either the spectral dragon's ancient planet-relocation theory or Quizquaz's Void mechanics. [E076](../../episodes/E076.md)–[E081](../../episodes/E081.md) · [CHIDS](chids.md) · [Arc chronology](../CHRONOLOGY.md).
