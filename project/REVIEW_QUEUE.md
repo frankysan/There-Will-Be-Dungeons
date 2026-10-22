@@ -12,6 +12,15 @@ When a review is completed, record **episode + absolute recording time/cue IDs**
 
 ## 1. Pilot ASR transcription and diarization
 
+**2026-10-22 batch follow-up:** Listen to the [first Qwen Q8 + Canary + Nemotron
+intake examples](../reports/QWEN_CANARY_INTAKE_2026-10-22.md), especially March
+2019 bonus **00:40:29–00:40:33 / 02:09:59–02:10:03**, April bonus
+**00:19:06–00:19:07 / 00:27:31–00:27:34**, and E039
+**02:39:17–02:39:21 / 03:31:02–03:31:06**. Compare Qwen-only and Parakeet-only
+wording with context and agreed controls. All are unverified alignment
+candidates, not confirmed omissions. Check the six Qwen cue-overlap pairs listed
+by cue ID in the accompanying JSON separately from speech recognition.
+
 | Priority | Recording / time | What to verify, and what not to misstate | Evidence |
 |---|---|---|---|
 | **Critical** | **E000 ~00:13:07–00:13:28** | Listener confirmed **“Now” is final spoken word**; align it to audio, exclude trailing music. Content resolved, **timestamp not**. | [E000](../episodes/E000.md), [archived pilot queue](../research/legacy/2026-10-22/PROJECT_REVIEW_QUEUE.md) |

@@ -1,5 +1,24 @@
 # Initial model tests (supplied by archive owner)
 
+## 2026-10-22: first Qwen Q8 + Canary CTC + Nemotron batch intake
+
+[Reproducible intake report](../reports/QWEN_CANARY_INTAKE_2026-10-22.md) and
+[complete candidate evidence](../reports/QWEN_CANARY_INTAKE_2026-10-22.json) compare
+the March and April 2019 bonus exports plus the additional E039 export with their
+existing processed Parakeet counterparts. All three Qwen SRTs parse and have
+zero nonpositive cue durations; adjacent overlaps are 3 / 3 / 0 respectively.
+Time-aware alignment produces 2,245 / 357 / 1,623 candidate groups without bounded
+fallback. Counts describe disagreement, not audio-verified errors or omissions.
+
+The owner identifies the new configuration as Qwen Q8 + Canary CTC + Nemotron;
+exact builds, VAD/chunking, decoding, post-processing and runtime remain
+unconfirmed. These recordings have no same-audio Q8-without-Canary control, so
+this intake does not establish alignment-only text preservation. April's
+different basenames were paired using the matching opening introduction; audio
+hash identity has not been verified. Source hashes were unchanged after analysis.
+No recognizer was executed, no listening was performed and no transcript wording
+was accepted. The report supplies timed review examples in both directions.
+
 These results describe **the user's actual local Subtitle Edit tests**, not generic benchmark claims. The real-time factors were approximate relative comparisons rather than standardized throughput measurements.
 
 | Engine | Configuration as reported | Observations |
