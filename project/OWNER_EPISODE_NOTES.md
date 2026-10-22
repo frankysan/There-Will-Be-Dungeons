@@ -92,7 +92,6 @@ Corrected archive episodes [E037 — Dirty Chalice](../episodes/E037.md), [E038 
 
 The original **three-page Tedna letter** and **show-era custom equipment text** would be more useful than treating machine text or the owner's spelling as fully canonical. Names `Dashington`, `Angel Ashi`, `Blunt Goliver`, `Metal Mandy`, `Sjeptwy Maer`, `Kefeli`, `Tiat Cala`, and `Gem of Tides` require source-specific spelling checks. Do not import later character-sheet cybernetic upgrades into E039.
 
-
 ## Editorial spelling disposition attached to owner notes (2026-10-21)
 
 The owner-provided notes above are preserved as **historical wording and research leads**: their `Dion Talus` occurrences are not retroactively changed to pretend the owner originally wrote a different name. Subsequent [Discord cast-spelling research](../reports/DISCORD_SPELLING_2026-10-21.md) and the archive owner's explicit clarification establish **Diontalus** as the **accepted canonical project spelling** on Jon's authority over his own character. The prior `Dion Talus` and `Deontalus` machine spellings, plus recap `Diantalus`/`Diontalis`, remain search aliases, **not equally valid canonical spellings**.
