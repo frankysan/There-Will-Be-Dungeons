@@ -2,18 +2,18 @@
 
 **A local-first transcription and campaign-reference project.** The long-term goal is an accurate, searchable, source-linked archive of *The Wastes*, beginning with the first campaign arc and its cast/GM discussions.
 
-**Current research coverage:** corrected **E000–E071**, including **E013.5**, a separate **E043 holiday one-shot**, and **March, April, June, July and August-publication 2019 bonus discussions**. E055 begins after a **real three-month fictional jump** following E054. These episode dossiers are **provisional notes from processed Parakeet SRTs, not finished or listener-proofread transcripts**. The ongoing E000/E001 speaker-labelled reader-edition pilot remains separate.
+**Current research coverage:** corrected **E000–E073**, including **E013.5**, a separate **E043 holiday one-shot**, and **March, April, June, July, August and September-publication 2019 bonus discussions**. E055 begins after a **real three-month fictional jump** following E054. These episode dossiers are **provisional notes from processed Parakeet SRTs, not finished or listener-proofread transcripts**. The ongoing E000/E001 speaker-labelled reader-edition pilot remains separate.
 
 ## Choose how to explore
 
 | I want to… | Start here |
 | --- | --- |
-| **Read the story** | [**Year One — From Dusthill to the Crown**](narrative/YEAR_ONE.md), then [**Year Two — Stones, Souls and the Great Fang**](narrative/YEAR_TWO.md) (E055–E071) |
+| **Read the story** | [**Year One — From Dusthill to the Crown**](narrative/YEAR_ONE.md), then [**Year Two — Stones, Souls and the Great Fang**](narrative/YEAR_TWO.md) (E055–E073) |
 | Understand the story's organization and spoiler limits | [Narrative guide](narrative/README.md) |
 | Look up a character, place, event or contested fact | [World reference portal](world/README.md) |
 | Inspect **episode-by-episode evidence** | [E000 dossier](episodes/E000.md), [E001 dossier](episodes/E001.md) and the numbered `episodes/E###.md` files |
-| Read the latest researched episodes | [E068](episodes/E068.md), [E069](episodes/E069.md), [E070](episodes/E070.md), [E071](episodes/E071.md) |
-| Read the cast/GM bonus discussions | [March 2019 Q&A](episodes/BONUS-2019-03.md), [April 2019 The First and Last](episodes/BONUS-2019-04.md), [June public-release Q&A](episodes/BONUS-2019-06.md) (called May's bonus when recorded) [July public-release Q&A](episodes/BONUS-2019-07.md) (called June's bonus; **June 29 recording-date claim** in ASR) and [August public-release Q&A](episodes/BONUS-2019-08.md) (**July 27 recording-date claim** in ASR). **For bonuses, filename months represent public publication, not recording or early-member availability**; **not numbered Wastes episodes** |
+| Read the latest researched episodes | [E070](episodes/E070.md), [E071](episodes/E071.md), [E072](episodes/E072.md), [E073](episodes/E073.md) |
+| Read the cast/GM bonus discussions | [March 2019 Q&A](episodes/BONUS-2019-03.md), [April 2019 The First and Last](episodes/BONUS-2019-04.md), [June public-release Q&A](episodes/BONUS-2019-06.md) (called May's bonus when recorded), [July public-release Q&A](episodes/BONUS-2019-07.md) (called June's bonus; **June 29 recording-date claim** in ASR) and [August public-release Q&A](episodes/BONUS-2019-08.md) (**July 27 recording-date claim** in ASR), and [September public-release Q&A](episodes/BONUS-2019-09.md) (early member access; **exact recording date unverified**). **For bonuses, filename months represent public publication, not recording or early-member availability**; **not numbered Wastes episodes** |
 | Check actual versus original episode numbering | [Corrected crosswalk](project/EPISODE_NUMBERING.md) |
 | Follow unresolved listening tasks | [Review queue](project/REVIEW_QUEUE.md) |
 | Run Markdown structure and table checks | [Markdownlint setup and CI](project/MARKDOWN_LINTING.md) — `npm install`, then `npm run lint:markdown` |
