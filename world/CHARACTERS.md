@@ -131,7 +131,7 @@ In [E056](../episodes/E056.md), **George Miller appears as an attacking spirit**
 
 **Source horizon:** [E068](../episodes/E068.md) is a played session; [August public-release bonus](../episodes/BONUS-2019-08.md) is retrospective cast/GM testimony. **Sira is still missing**, **Follow and Rorf remain dead**, and the **sealed lizardfolk corridor's fate is unknown**. Neither the mind flayer's lasting destruction nor the machine's function is proved. All source passages remain **provisional ASR, not audio verified**.
 
-## Status after E071
+## Interim status after E071
 
 **[Vorel](characters/vorel.md):** At CHIDS **helps break Hope free of an armed ID checkpoint**, draws **psychic light-creatures** with singing and repeats **“Lizard King”**; an additional `one step king` lyric awaits listening before acceptance as a title. **Enlarged by Nash**, he swings **fiery hounds as improvised clubs**, kills an active security ape E071, and confronts **Alvert's** claims of hell and gene farms. Recovered **Eye of Groxl** remains single owner-confirmed artifact. He is last wearing **one shared pair of magical flying briefs**, carrying Nash into a frozen overhead duct. [E069](../episodes/E069.md) · [E070](../episodes/E070.md) · [E071](../episodes/E071.md).
 
@@ -146,3 +146,18 @@ In [E056](../episodes/E056.md), **George Miller appears as an attacking spirit**
 **[Charles Dickens](characters/charles-dickens.md):** A resentful **illithid corporate worker in a headset-mediated office** claims to possess a report-sabotage plan to delay **Ovaxiad's Traversal Drive**. E071 computer message claims **upload success**, without witnessed physical machine impact.
 
 **At E071 cutoff:** **Sira is still abducted; Follow and Rorf remain dead.** No completed rescue, no long rest at Archives, no machine examined. **These are provisional processed-ASR source findings**, not audio-verified.
+
+## Status after E073
+
+**[Cerinthala](characters/cerinthala.md)** (provisional spelling; `Saranthala/Ceranthalis` ASR) **appears E072 as an ancient, withered elf inside CHIDS's frozen data center**. She talks to **four preserved men Toby, Carl, Gordon and Benson**, seeks return to **Elhandar**, and remotely **unlocks engineering** after Stanley promises best-effort assistance. E073 reveals **her self-made cursed necklace**, predatory intentions she says she abandoned, and apparently jealous **ice-construct companions**; **Toby still speaks afterward**. She now **travels with the party** into the biological laboratories and stalled elevator. [E072](../episodes/E072.md) · [E073](../episodes/E073.md).
+
+**[Stanley](characters/stanley-diontalus.md):** Casts **Feather Fall** when the ice duct collapses; **wears Cerinthala's totem +1 AC necklace**, then suffers choking and a **25 lightning-damage attempt to cut it**. The neckpiece remains worn and cursed; Stanley maintains that he promised **only to do what he can**, and the **rescue of Sira precedes any Elhandar trip**. The [September bonus](../episodes/BONUS-2019-09.md) reveals his **Warlock/Magic Initiate reward was changed to Spell Sniper** with GM approval; **College of Glamour** is current, College of Swords unrealized.
+
+**[Vorel](characters/vorel.md):** Uses the single **Eye of Groxl** to excavate frozen computer controls, fight giant corpse-bearing ice constructs, and spend hours **cutting a maintenance shaft**. E073 **Enlarged by Nash**, helps free Stanley, rejects Cerinthala's claim that lizardfolk are artificially bred property, and **refuses the offer of an infernal-wave-created child**. His **Great Fang title is reaffirmed, not newly awarded**. The [September bonus](../episodes/BONUS-2019-09.md) mentions unused inn attire and an imagined dinosaur army, **not completed events**.
+
+**[Nash](characters/nash-maggard.md):** Receives the **single flying/cooling underwear** back from Vorel E072. **Enlarges Vorel** during the ice assault, recounts Solar Mines **fire elementals nicknamed “Slow Peters”**, and casts **Careful Spell Fireball** E073. A pink **biological membrane destroys his full staff**, although its **nail-bearing short segment still works as arcane focus**. Bonus: Beau **confirms Solar Mines exists on his official map** while leaving **Nash's stitched-body/possibly mixed-memory origin unresolved**, not identifying him definitively as undead.
+
+**[Hope](characters/hope-akmenos.md):** Survives the duct collapse with **Feather Fall**; receives a **distressed but poorly transcribed Tietkalla sending-stone message** and replies. Alone she tastes Cerinthala's surprising soup. In E073 **an explosive Scully shot breaks the ice captor's arm**, freeing Stanley. She spots the **giant spider descending the stalled elevator shaft**. Bonus: a real **Fate 5** and hypothetical **Kismet** remain future vehicle ideas, **not current inventory**.
+
+**E073 cutoff:** **All four heroes and Cerinthala are in or atop a stalled CHIDS lift with a huge spider approaching**. **Stanley still wears the cursed amulet**, **Nash's staff remains snapped**, **Toby may still speak**, **Sira remains missing**, and the **Traversal Drive has not been physically reached**. All interpretations remain **processed-ASR provisional until audio-verified**.
+
