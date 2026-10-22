@@ -1,6 +1,6 @@
 # The Wastes — reference portal
 
-**Scope:** Main-campaign events through **E075**, plus separate [March Year One Q&A](../episodes/BONUS-2019-03.md) and [April cast roundtable](../episodes/BONUS-2019-04.md) and [June public-release Q&A](../episodes/BONUS-2019-06.md) (called May's bonus) and [July public-release Q&A](../episodes/BONUS-2019-07.md) (spoken June 29 recording date, ASR) and [August public-release Q&A](../episodes/BONUS-2019-08.md) (**July 27 recording-date claim**) and [September public-release Q&A](../episodes/BONUS-2019-09.md) (**recording date unverified**). **For bonuses only, archive filename dates reflect public publication**, not recording or earlier private-member access. **Spoilers through E075** follow. The episode-derived references remain **provisional until audio-verified**.
+**Scope:** Main-campaign events through **E077**, plus separate [March Year One Q&A](../episodes/BONUS-2019-03.md) and [April cast roundtable](../episodes/BONUS-2019-04.md) and [June public-release Q&A](../episodes/BONUS-2019-06.md) (called May's bonus) and [July public-release Q&A](../episodes/BONUS-2019-07.md) (spoken June 29 recording date, ASR) and [August public-release Q&A](../episodes/BONUS-2019-08.md) (**July 27 recording-date claim**) and [September public-release Q&A](../episodes/BONUS-2019-09.md) (**recording date unverified**) and [October public-release Q&A](../episodes/BONUS-2019-10.md) (**recording date unverified; includes separate Inverse discussion**). **For bonuses only, archive filename dates reflect public publication**, not recording or earlier private-member access. **Spoilers through E077** follow. The episode-derived references remain **provisional until audio-verified**.
 
 **Choose a view:** For a flowing account of the plot rather than reference notes, read [**Year One — From Dusthill to the Crown**](../narrative/YEAR_ONE.md) followed by [**Year Two — Stones, Souls and the Great Fang**](../narrative/YEAR_TWO.md). For a specific timestamp, character's contemporaneous knowledge or ambiguous transcript, use the [episode dossiers](../episodes/E000.md) and the relevant E### number.
 
@@ -8,11 +8,11 @@
 
 | Reference | What it currently contains | Consolidation status |
 | --- | --- | --- |
-| [Characters and participants](CHARACTERS.md) | Subject index with profiles for the four protagonists, allies and adversaries, including **Orp, Diptak, Alvert, Charles Dickens and Cerinthala** | **Subject profiles maintained through E075** |
-| [Places](PLACES.md) | **Consolidated place index** including **CHIDS**, **Kervalon**, Razak Val, Dusthill, Slavetown, the Black Mine, Château Weir and Tietkalla | **Place index and CHIDS site reference updated through E075** |
-| [Portal device](technology/portal-device.md) | **Red/green paired gateways**, E075 secure-vault acquisition and Hope custody, tested limits vs unplayed escape plans | **New E075 subject page** |
+| [Characters and participants](CHARACTERS.md) | Subject index with profiles for the four protagonists, allies and adversaries, including **Orp, Diptak, Alvert, Charles Dickens and Cerinthala** | **Subject profiles maintained through E077** |
+| [Places](PLACES.md) | **Consolidated place index** including **CHIDS**, **Kervalon**, Razak Val, Dusthill, Slavetown, the Black Mine, Château Weir and Tietkalla | **Place index and CHIDS site reference updated through E077** |
+| [Portal device](technology/portal-device.md) | **Paired gateways and third necrotic-beam mode**; E075 acquisition, E076 executed escape, E077 friendly-fire risk | **Updated through E077** |
 | [World and history](WORLD.md) | **Consolidated thematic reference**: the ancient catastrophe, settlements, factions, dragon technology, Soulbroker pacts, artifacts, religion and contested lore | **Phase C first-pass rewrite available** |
-| [Unified campaign chronology](CHRONOLOGY.md) | **53 main-story Year One entries, followed by E055–E075**, time jump, publication exceptions and resolved cutoffs | **Maintained unified reference** |
+| [Unified campaign chronology](CHRONOLOGY.md) | **53 main-story Year One entries, followed by E055–E077**, time jump, publication exceptions and resolved cutoffs | **Maintained unified reference** |
 | [Active consistency ledger](CONSISTENCY_LEDGER.md) | **Open questions, owner decisions, later source-cutoff resolutions** and links to detailed evidence | **Phase D first pass available** |
 | [Structured entity seed](entities.json) and [schema](ENTITY_SCHEMA.md) | Machine-readable E000/E001 seed | **Not yet synchronized with all subsequent episode dossiers** |
 
