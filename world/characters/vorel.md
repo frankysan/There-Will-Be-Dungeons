@@ -26,7 +26,7 @@ Vorel increasingly **awards himself titles**. Record the exact phrase and first 
 
 | Episode / approximate time | Title or wording | Who asserts it / standing | Verification |
 |---|---|---|---|
-| [E036](../../episodes/E036.md) ~00:53–02:40 | **Lizard King** | **Vorel proclaims** a lizard-king identity during the Golden Gargoyle/Toe Ripper confrontation. A declaration is not evidence all lizardfolk recognize a crown. | **Dossier-supported paraphrase**; check exact source cue and whether he adds further qualifications before quoting verbatim. |
+| [E036](../../episodes/E036.md) ~00:53–01:10 | **Lizard King** | **Vorel proclaims** a lizard-king identity during the Golden Gargoyle/Toe Ripper confrontation. A declaration is not evidence all lizardfolk recognize a crown. | **Dossier-supported paraphrase**; check exact source cue and whether he adds further qualifications before quoting verbatim. |
 | [E028](../../episodes/E028.md) ~01:24–01:35 | **Clan leader / pledged ally**, not necessarily a self-given title | **Diptak pledges** his Golden Land clan to Vorel after yielding; this is **another character's oath**, not automatically Vorel's chosen epithet or wider sovereign recognition. | **Separate from self-bestowed list**. |
 
 Future reviews should append each *new* self-given epithet (including cumulative formal introductions) here with **episode, time/cue, exact wording if reliable, speaker and recognition status**. Keep previous forms when the list grows; never infer a title solely from a fan-wiki character sheet. Kyle's [June bonus discussion](../../episodes/BONUS-2019-06.md) (~00:07–00:08) explains Vorel's consistent foreigner perspective and roleplaying technique; **it does not contain a new self-awarded title**.
