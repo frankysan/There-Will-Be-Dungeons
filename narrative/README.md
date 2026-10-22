@@ -10,7 +10,9 @@ This directory holds **narrative histories**: readable retellings of the actual 
 - **[March 2019 Year One Q&A](../episodes/BONUS-2019-03.md)** — GM/cast retrospective after first arc, **not corrected E055**.
 - **[April 2019 Bonus Show 01: The First and Last](../episodes/BONUS-2019-04.md)** — cast Q&A; **no new in-world scenes**.
 - **[October 2019 public-release Q&A](../episodes/BONUS-2019-10.md)** — cast/GM creative commentary and separate *Inverse* material, **not a played Wastes session**.
-- **[November 2019 public-release Q&A](../episodes/BONUS-2019-11.md)** — GM intent behind Wall Nash, item-rule clarifications and player reaction to E079; **not another scene**. Publication-month/host-introduction conflict requires review.
+- **[November 2019 public-release Q&A](../episodes/BONUS-2019-11.md)** — GM intent behind Wall Nash, item-rule clarifications and player reaction to E079; **not another scene**.
+- **[December 2019 public-release Q&A](../episodes/BONUS-2019-12.md)** — later explanation of the E081–E083 petitioner aftermath; **not a scene**.
+- **[January 2020 public-release Q&A](../episodes/BONUS-2020-01.md)** — **host calls it “December 2019”**; retrospective on E085's Lady manifestation, Nash's intact magic, kenku voice and Diontalus's crystal; **not a new adventure or confirmed return**. Publication-month/host-introduction conflict requires review.
 
 **Current Arc 3 reading:** [Strangers in the City of Doors](ARC_THREE.md) is the **ongoing continuous narrative through E085**. Supporting dossiers [E082](../episodes/E082.md)–[E085](../episodes/E085.md) preserve scene-by-scene evidence and disputed proper names. **Vorel wins Royce's local marionette qualifier** after defeating Nash and Ventro, but **the larger final and 5,000-gold prize remain future events**. A **green woman-shaped apparition removes Ventro** during a brawl, then **armed intruders enter the party's room** at the cutoff. **Hope/Stanley are not resurrected**; Nothing's secret Abyss commission remains unperformed. The [chronology](../world/CHRONOLOGY.md) and [Sigil](../world/places/sigil.md) retain episode-specific cutoff facts. *Inverse* is another reality.
 
