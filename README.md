@@ -7,7 +7,7 @@
 ## Choose how to explore
 
 | I want to… | Start here |
-|---|---|
+| --- | --- |
 | **Read the story** | [**Year One — From Dusthill to the Crown**](narrative/YEAR_ONE.md), then [**Year Two — Stones, Souls and the Great Fang**](narrative/YEAR_TWO.md) (E055–E071) |
 | Understand the story's organization and spoiler limits | [Narrative guide](narrative/README.md) |
 | Look up a character, place, event or contested fact | [World reference portal](world/README.md) |

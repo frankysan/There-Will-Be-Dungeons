@@ -7,7 +7,7 @@ This is now the **subject-focused reference index**, not the append-only episode
 ## The four protagonists
 
 | Character | Performer | Development and status at E054 | Profile |
-|---|---|---|---|
+| --- | --- | --- | --- |
 | **Nash Maggard** | **Scott** | Survivor of the Solar Mines; bearer of an **implanted dragon-metal heart**, black-dragon form and unusual extra arm. **P0D is dead**; **Angelashi is alive**. Part of Hope's new council | [Nash](characters/nash-maggard.md) |
 | **Hope Akmenos** | **Kristen** | Tiefling mechanic of Fate 4, later with mechanical arm/leg; **publicly crowned Queen of Tietkalla** after a returning tiefling contingent. Proposed reforms not completed | [Hope](characters/hope-akmenos.md) |
 | **Stanley Billings and Diontalus** | **Jon** | **Two distinct agents share one body**. Stanley opposed Diontalus's forced joining, George's killing and P0D's death; no expulsion by E054 | [Stanley and Diontalus](characters/stanley-diontalus.md) |
@@ -18,7 +18,7 @@ This is now the **subject-focused reference index**, not the append-only episode
 ## Recurring companions and people close to the party
 
 | Person | Year One situation / why it matters | Profile |
-|---|---|---|
+| --- | --- | --- |
 | **Buttons** | Intelligent talking cat with Arcanum ties; **killed by Vorel E049**. Only in the **post-arc Q&A** does Beau reveal Buttons' love of Stanley and intended Arcanum intervention | [Buttons](characters/buttons.md) |
 | **P0D / Pod** | Pixie whose testimony introduced the pixie-harvesting trade; involuntarily transformed by **Monsoon's Order 26 E049**, then **killed by Diontalus E050** despite Nash's efforts | [P0D](characters/p0d.md) |
 | **Tedna** | Young stowaway and devoted helper; **rescued alive E048**, dies of injuries **E050**. His report of Angelashi's death was not eyewitness confirmation | [Tedna](characters/tedna.md) |
@@ -28,7 +28,7 @@ This is now the **subject-focused reference index**, not the append-only episode
 ## Major adversaries and power brokers
 
 | Person, creature or power | Played status and interpretive caveat | Evidence |
-|---|---|---|
+| --- | --- | --- |
 | **Monsoon Cabbage / Septwyn (?)** | Manipulative leader of the Twenty-Sixers, involved in P0D's forced transformation. **Escapes as mist E054**, not confirmed dead. His alleged Andreeste bargain is interested testimony | [Monsoon](characters/monsoon-cabbage.md) |
 | **Catoblepraithe / Catobelpraithe, “Soulbroker”** | Otherworldly contractor: **Nash, Hope, Stanley sign; Vorel refuses**. Exact orthography and some soul-contract claims still under review | [E022](../episodes/E022.md) · [E023](../episodes/E023.md) · [Château Weir](places/chateau-weir.md) |
 | **Quizquaz** | Oil-associated entity first encountered beneath Dusthill, later connected to the Soulbroker ritual in the Black Mine. **Not** the beholder or Soulbroker under another proved name | [E004](../episodes/E004.md) · [E022](../episodes/E022.md) |
@@ -145,4 +145,4 @@ In [E056](../episodes/E056.md), **George Miller appears as an attacking spirit**
 
 **[Charles Dickens](characters/charles-dickens.md):** A resentful **illithid corporate worker in a headset-mediated office** claims to possess a report-sabotage plan to delay **Ovaxiad's Traversal Drive**. E071 computer message claims **upload success**, without witnessed physical machine impact.
 
-**At E071 cutoff:** **Sira is still abducted; Follow and Rorf remain dead.** No completed rescue, no long rest at Archives, no machine examined. **These are provisional processed-ASR source findings**, not audio-verified. 
+**At E071 cutoff:** **Sira is still abducted; Follow and Rorf remain dead.** No completed rescue, no long rest at Archives, no machine examined. **These are provisional processed-ASR source findings**, not audio-verified.

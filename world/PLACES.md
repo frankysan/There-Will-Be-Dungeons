@@ -5,7 +5,7 @@
 ## Main settlements, destinations and otherworldly sites
 
 | Place | Identity and relevance | Reference |
-|---|---|---|
+| --- | --- | --- |
 | **Dusthill / Dust Hill** | Red-rock desert settlement where the protagonists meet; its subterranean **dragon-engine-driven water works** fail, are explored and restored; a goblin attack drives the party to seek captives | [Dusthill](places/dusthill.md) |
 | **Slavetown / Slave Town** | City of forced labor, rival patrons and martial orders. The party wins its own release; more captives remain enslaved. Confrontations, ritual investigation, and an industrial fire follow | [Slavetown](places/slavetown.md) |
 | **Black Mine** | Deep Oilbeard-run mine with slave abuses, ruined infrastructure, undead, chasms, strange magic and the ritual that reveals **Château Weir** | [Black Mine](places/black-mine.md) |
@@ -15,7 +15,7 @@
 ## Regions, roads and subsidiary sites
 
 | Region or site | Where it fits, and what remains uncertain |
-|---|---|
+| --- | --- |
 | **Blood Canyons / Solar Mines** | Nash's narrated and later partly contradictory origin, departure and implanted dragon-heart story; **location, captivity details and past betrayer remain unresolved**. [E000](../episodes/E000.md), [E024](../episodes/E024.md), [Q&A](../episodes/BONUS-2019-03.md) |
 | **Moag Ferhain (?)** | Ancient dwarven ruins beneath Dusthill's lower river/intake, named using later wiki evidence; original audio spelling and precise ruins map need review. [E003](../episodes/E003.md), [E004](../episodes/E004.md) |
 | **Experimental desert facility / Leopold** | Hidden installation entered by **Nash and Stanley with guest characters** E008–E009; collapses and releases a dragon. **Not the Black Mine**. [E008](../episodes/E008.md), [E009](../episodes/E009.md) |

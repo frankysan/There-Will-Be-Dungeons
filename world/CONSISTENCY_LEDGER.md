@@ -7,7 +7,7 @@
 ## How to read status
 
 | Status | Meaning and editorial action |
-|---|---|
+| --- | --- |
 | **Resolved — owner/creator** | An explicit authorized **identity/spelling or editorial policy** decision. Use this in display/reference text; **not automatic verification of an audio phrase or story claim**. Link to [decisions](../project/DECISIONS.md). |
 | **Resolved — source-cutoff** | The later **processed-episode source** provides a clear directly depicted outcome, correcting an earlier provisional report. No current narrative contradiction remains; **audio accuracy is still pending**. Preserve what characters knew earlier. |
 | **Open — audio/orthography** | Important name, wording, narrator, timing, identity or mechanics require direct listening or a sufficiently authoritative written source. Do not normalize a source SRT without an explicit edit/review decision. |
@@ -21,7 +21,7 @@
 These are **distinct unresolved problems** whose answers would materially change reference pages. Grouping earlier source keys here **does not erase their archived history**.
 
 | Active key | Status | Exact question and current safe statement | Evidence / next source |
-|---|---|---|---|
+| --- | --- | --- | --- |
 | `names.angelashi` | **Open — orthography** | **Angelashi** is the working project spelling, while `Angel Ashi` appears in ASR and cast-recap evidence. **Word division and exact written canonical form unconfirmed.** Her being alive E054 is *not* disputed by the naming problem. | [E035](../episodes/E035.md), [E037](../episodes/E037.md), [E054](../episodes/E054.md), [Discord source register](../reports/DISCORD_SPELLING_2026-10-21.md) |
 | `names.nobiery` | **Open — orthography/identity** | Ancient tiefling elder's name `Nobiery/Nobieri`, house attribution and title **Dead Tongue** require source review. He **returns with troops E054**; his spelling and ancient claims do not become verified because of that. | [E047](../episodes/E047.md)–[E048](../episodes/E048.md), [E054](../episodes/E054.md) |
 | `names.catoblepraithe` | **Open — orthography** | Soulbroker's name `Catoblepraithe/Catobelpraithe` and related entity labels vary; do **not** merge **Quizquaz, beholder and Soulbroker**, which appear as distinct actors. | [E022](../episodes/E022.md)–[E024](../episodes/E024.md), [name register](../reports/DISCORD_SPELLING_2026-10-21.md) |
@@ -49,7 +49,7 @@ These are **distinct unresolved problems** whose answers would materially change
 ## B. Open custody, game-mechanics and source-text questions
 
 | Active key | Status | Specific bounded problem | Where to verify |
-|---|---|---|---|
+| --- | --- | --- | --- |
 | `rules.soulbroker_pact` | **Open — document/mechanics** | Exact **1,000 days/nights**, contract terms, soul forfeiture conditions and **extra feat versus level-up** details require contract handout/audio. **Three PCs sign, Vorel refuses** as a played fact. | [E023](../episodes/E023.md)–[E024](../episodes/E024.md), [review queue](../project/REVIEW_QUEUE.md) |
 | `rules.eye_groxl_powers` | **Open — item mechanics only** | The **Eye of Groxl item identity is resolved** (D-028). Its ranged-attack redirection, flaming shield, perceived weaknesses, zero-HP rage, disapproval and possible takeover require GM sheet verification; **do not relitigate the item spelling**. | [E053](../episodes/E053.md), [D-028](../project/DECISIONS.md) |
 | `items.robe_patches` | **Open — counts** | **Ladder E048**, **mirror E051**, **rowboat E053** consumed. Initial/remaining patch inventory and any extra pole/rope use need handout/audio; no unlimited restocking. | [E046](../episodes/E046.md), [E048](../episodes/E048.md), [E051](../episodes/E051.md), [E053](../episodes/E053.md) |
@@ -67,7 +67,7 @@ These are **distinct unresolved problems** whose answers would materially change
 These are **settled editorial decisions or identified episode transitions**. Recording them here makes the ongoing uncertainty index readable; it **does not mean their underlying ASR text was listened to**.
 
 | Stable key | Resolution basis | What can be stated; what does **not** follow |
-|---|---|---|
+| --- | --- | --- |
 | `person.diontalus` | **Resolved — owner/creator, [D-026](../project/DECISIONS.md)** | **Diontalus** canonical display, with `Dion Talus/Deontalus/Diantalus/Diontalis` indexed as aliases; no claims about his divine truth certified. |
 | `item.eye_of_groxl` / `eye.groxl.canonical` | **Resolved — owner-confirmed, [D-028](../project/DECISIONS.md)** | **Eye of Groxl** one artifact; `Grojil/Groxel` ASR aliases. **E067's “god killer Grojil” directly means this same Eye** (owner-confirmed [D-034](../project/DECISIONS.md)); its reputed god-killing feats and item powers remain distinct evidence questions. |
 | `place.tietkalla` | **Cast-written spelling lead, [D-027](../project/DECISIONS.md)** | **Tietkalla** matches Jon's written name in context; unlike Groxl this **was not owner-confirmed as a universal ASR correction**. Retain `Tiat Cala/Tiat Kala` as referent-specific source forms. |
@@ -94,7 +94,7 @@ These are **settled editorial decisions or identified episode transitions**. Rec
 The **Year One ledger was complete through E054**; this section indexes newly introduced uncertainties without reopening earlier resolved issues. Everything here still rests on **unverified processed SRTs**.
 
 | Active key | Status | Specific event or bounded question | Evidence |
-|---|---|---|---|
+| --- | --- | --- | --- |
 | `year2.downtime.now_played` | **Resolved — source cutoff E055** | The GM's proposed **three-month break and level-seven progression actually occur before E055**, with some repaired walls/fleet and policy implementation. **Not accomplished at E054**. | [E055](../episodes/E055.md) · [chronology](CHRONOLOGY.md) |
 | `nash.angelashi.pregnancy` | **Resolved — source cutoff E055** | **Angelashi announces pregnancy with Nash**. Biologic mechanism, date of birth, future child and safety remain unknown. **E055's apparent P0D reunion and Nash's destruction occur in a dream**. | [E055](../episodes/E055.md) |
 | `tietkalla.reform.status` | **Open — ongoing social effects** | **Hope abolishes serf-like status and mandates merit, plumbing and reconstruction**, while house patronage, labor and material shortage persist. Distinguish **GM recap of actions, engineer's progress report**, and future promises. | [E055](../episodes/E055.md), [Tietkalla](places/tietkalla.md) |
@@ -120,7 +120,7 @@ The **Year One ledger was complete through E054**; this section indexes newly in
 **Source limit:** These changes are inferred from **processed Parakeet SRTs**; they have **not been independently listened to**. Where something happens in the later episode, the earlier cutoff remains valid in its own dossier. Classification below indicates **scope of outcome**, not audio certainty.
 
 | Stable key | Status | What changed, and what is still unknown | Evidence |
-|---|---|---|---|
+| --- | --- | --- | --- |
 | `emenil.saved` | **Resolved — source cutoff E057** | **Carnage bites**, **Stanley heals** and **Hope stops** undead. Emenil appears alive at E058 court. The idea that she *died in E056* is rejected. Her private motive and future politics are still open. | [E056](../episodes/E056.md) · [E057](../episodes/E057.md) · [E058](../episodes/E058.md) |
 | `nobiery.weir_cover` | **Resolved — admitted act; open — exact mechanism** | Nobiery **himself admits using the Soulbroker** to preserve his people and **lying that Matamaru did it**, a stronger statement than an outside accusation. Number/identity of sacrifices and exact contractual terms remain uncertain. | [E057](../episodes/E057.md), [E048](../episodes/E048.md) |
 | `coopen.lucky_coin` | **Resolved — observed item custody; open — spelling/mechanics** | **Diontalus kills leprechaun** `Coopen/Coupon`; **Hope obtains Lucky Coin** with stated one-charge reroll. Exact spelling, recharge and any consequences of Diontalus consuming its essence need item sheet/audio. | [E057](../episodes/E057.md) |
@@ -149,7 +149,7 @@ The **Year One ledger was complete through E054**; this section indexes newly in
 ## F. E066–E071 — newly resolved and still open questions
 
 | Key | Current editorial status | Narrow conclusion and evidence tier | Main evidence |
-|---|---|---|---|
+| --- | --- | --- | --- |
 | `vehicles.fate4` | **Resolved — destroyed E066** | **T. rex crushes Fate 4 and wreck later explodes in E066**. Vorel creates a **Fang Fate Five**, an **improvised rickshaw** from salvaged axles/wheels and dinosaur bones, not a restored engine-driven vehicle; dense eyeball forest prevents its practical use. A **separate green spectral carriage** is provided by skeleton-looking travelers and vanishes at Kervalon E067. | [E065](../episodes/E065.md) · [E066](../episodes/E066.md) · [E067](../episodes/E067.md) |
 | `follow.rf.sira_fates` | **Resolved — Follow and Rorf die E066; open — Sira abducted** | The mind flayer kidnaps **Sira alive** and **kills Rorf by crushing/folding his bird form**. **Follow is thrown to ground, makes Stanley promise to save Sira, and dies**; party buries him. **Their Tietkalla sanctuary was offered but never realized**. At E067 Sira has **not been rescued**. Keep these **three distinct life-status outcomes**. | [E066](../episodes/E066.md) · [E067](../episodes/E067.md) · [family profile](characters/follow-sira-rorf.md) |
 | `demon.oubvayx_identity_offer` | **Open — orthography, identity, E068 body fate and legal claims** | E066 a floating mind flayer self-names as **Oubvayx/Ovaxiad** and claims authority from Dollo Poppio, offering Hope relief from Catoblepraithe's arrangement at Tietkalla's expense; **Hope refuses**. An illithid-like foe in E068 **dominates the T. rex Vorel briefly** until **Hope breaks concentration**, then psychic-stuns Hope and Vorel. **Stanley's Diplomacy kills the visible form**, which **deflates into black oil and empty skin**. **Do not infer the true E066 kidnapper permanently dead or Sira released from this manifestation.** | [E066](../episodes/E066.md) · [E068](../episodes/E068.md) |
@@ -167,7 +167,7 @@ The **Year One ledger was complete through E054**; this section indexes newly in
 ## G. E069–E071 — corporate underworld, old technology and later source cutoffs
 
 | Key | Status | Evidence-tier conclusion | Sources |
-|---|---|---|---|
+| --- | --- | --- | --- |
 | `rules.mold_earth_loose` | **Resolved — OOC rules correction; scene retcon recorded** | E069 opening explicitly corrects *Mold Earth* to affect **loose earth, not solid stone walls**, and **retroactively assumes suitable loose earth for the E068 corridor trap**. Thus **the trap remains a played event** but is **not precedent allowing unrestricted solid-wall molding**, notwithstanding earlier E067/E068 GM adjudications. Reaffirmed in E070 intro re crushing diamonds. | [E068](../episodes/E068.md) · [E069](../episodes/E069.md) · [E070](../episodes/E070.md) |
 | `places.chids_history` | **Resolved — accessible pre-Scorching complex; open — official orthography and backstory** | E069 **CHIDS** sign and **Julia** holographic guide describe a **Center for Human-Demon Interdisciplinary Studies**, ancient **infernal-wave research** and **United Federation of Continents** credential system. The map, building, old dead staff, routes, computers and checkpoints are **directly seen**, while its founding/history are **automated institutional claims**. Name transcript alternates **CHIDS/C-TEST/CETIS** need a handout or audio. | [E069](../episodes/E069.md) · [CHIDS](places/chids.md) |
 | `doors.authority_and_acid` | **Resolved — two different negotiated passages** | E069 the **Door Authority** panel guarding CHIDS **opens only after Nash actually casts Acid Splash** following a face-saving bargain. E071 a second gate at **Archives** cites the **Door Street Journal** and opens following **persuasion and showing an executive ID**, **without acid being used**. Neither claims about Door Authority's jurisdiction nor current publication status are externally verified. | [E069](../episodes/E069.md) · [E071](../episodes/E071.md) |
@@ -186,7 +186,7 @@ The **Year One ledger was complete through E054**; this section indexes newly in
 The [complete historic ledger](../research/legacy/2026-10-22/WORLD_CONSISTENCY_LEDGER.md) retains **all original tables, issue keys, variants, episode-time ranges, rejected/conditional interpretations, visual-source notes and source links**. Nothing was removed from that archival record. Key families are represented in the current system as follows:
 
 | Archived investigation range | Current home for conclusions | Remaining specialist questions |
-|---|---|---|
+| --- | --- | --- |
 | **E000–E009** (Dusthill, names, first water test, first facility) | [Dusthill](places/dusthill.md), [world](WORLD.md), [chronology](CHRONOLOGY.md) | `names.dusthill_regions`, `history.dragon_war`, `plot.guest_chance_eddie`, [audio queue](../project/REVIEW_QUEUE.md) |
 | **E010–E018** (Pristine/Slavetown, tylander, faction and inventory conflicts) | [Slavetown](places/slavetown.md), [world](WORLD.md), [chronology](CHRONOLOGY.md) | `names.koromukishi`, `plot.tylander_reports`, `plot.mine_deed`, `plot.prisoners` |
 | **E019–E027** (Black Mine, Weir, signed bargain, dragon engine) | [Black Mine](places/black-mine.md), [Château Weir](places/chateau-weir.md), [Nash](characters/nash-maggard.md), [chronology](CHRONOLOGY.md) | `rules.soulbroker_pact`, `history.solar_mines`, `sources.diary_and_maps` |

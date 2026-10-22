@@ -6,7 +6,7 @@ Buttons boards **Fate 4** during E028 as an intelligent, bespectacled orange cat
 
 By E049 Buttons appears alongside **Jolt** at the ambush, and describes a proposed **counter-bargain** involving Monsoon, the Gem of Tides, the Principal and rewards in return for cooperation. Much of this is **his own testimony about proposed future arrangements**, not confirmation every bargain was fulfilled. After violent struggle **Vorel kills Buttons**. In E050 Stanley uses **Speak with Dead** on his recovered body, with the spell's limited scope and no revival. The GM also describes Diontalus drawing arcane power from Buttons' corpse; a later Q&A treats much of that as story expression rather than a proven mechanical bonus.
 
-### The Year One Q&A revelation
+## The Year One Q&A revelation
 
 In [the post-arc Q&A](../../episodes/BONUS-2019-03.md), **Beau reveals Buttons was romantically in love with Stanley**, and was trying to get Stanley to the **Arcanum to remove Diontalus**. This is **retrospective GM intent and undisclosed motive**, not proof Stanley understood Buttons' objectives at the time, not a journey that occurred, and not an absolution from the consequences of the ambush. The relevant spell-book/text handed over earlier and a later **forgotten Blink scroll** mentioned by Nash in the Q&A also need inventory review; they should not be mechanically merged without checking.
 

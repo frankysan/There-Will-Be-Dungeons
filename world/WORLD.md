@@ -61,7 +61,7 @@ The **Key to Château Weir** is later used from under the keep. The freed ancien
 ### Significant artifacts
 
 | Artifact or device | Grounded Year One status | Evidence boundary |
-|---|---|---|
+| --- | --- | --- |
 | **Gem of Tides** | Mechanism-linked blue Gem sought for Tietkalla's **water/oil conversion**; **party recovers it E050**, approaches old throne/pool system E051 | **Exact emplacement and restored operation** need careful audio/scene review. Do not merge with Dusthill's unrelated pump/dragon engine. [E050](../episodes/E050.md)–[E051](../episodes/E051.md) |
 | **Eye of Groxl** | **One sentient eye artifact**, embedded in **Vorel's chest E053**, with GM-described shield, ranged protection and combat influences | **Groxl** is **owner-confirmed canonical**. E053 `Grojil` and E054 `Groxel` are ASR aliases of the **same item**, not proof of any separately named god. [E053](../episodes/E053.md) · [D-028](../project/DECISIONS.md) |
 | **Fox and Scully; Smokey's ammunition belt** | Enchanted paired firearms and limited specialized ammunition **acquired by Hope E050** after Jolt's death | GM-specific ammunition and recharge limits require source check. Their existence predates acceptance of any proposed chrome option according to the Q&A. [E050](../episodes/E050.md) |

@@ -31,7 +31,7 @@ The old elder **returns with hundreds of armed tieflings**; their acclamation an
 ## Location index inside Tietkalla
 
 | Locality | Evidence and relation |
-|---|---|
+| --- | --- |
 | **Trashburg** | Lower inhabited district, inns, clinics, gangs, music venue, black-market trade and civilian suffering; **not synonymous with the keep in every episode** |
 | **Teet keep / citadel** | Royal fortress, prison level, storeroom ambush, throne hall and war council, repeatedly breached during the siege |
 | **Pit of Despair** | Punishment pit containing original froghemoth, guarded grate and access to deep caves |

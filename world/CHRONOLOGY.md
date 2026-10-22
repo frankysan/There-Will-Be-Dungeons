@@ -7,7 +7,7 @@
 ## Before the main campaign — accounts, not dates
 
 | Origin or frame | What can be placed on the timeline |
-|---|---|
+| --- | --- |
 | **GM prologue [E000](../episodes/E000.md)** | A much earlier Earth; **dragons arrive through gates**, warfare/machinery and extraordinary pacts reshape civilization; **dragon engines** survive an apocalyptic conflict. **No exact calendar, duration or independently verified ancient date** is established. |
 | **Character introductions [E000](../episodes/E000.md)** | **Nash** recounts Solar Mines/Blood Canyons; **Hope** articulates a tiefling past and desire to change history; **Stanley** speaks of government; **Vorel** travels from lizardfolk lands. These are **introductions, subjective backstories and goals**, not all simultaneous events on E001's day. |
 | **Historical settings, uncovered later** | **Pristine's change to Slavetown** is explained in an out-of-character GM briefing [E013](../episodes/E013.md). **Tietkalla's ancient houses, alleged vampiric council, Night Pasture and hidden army** are described by competing ancient actors [E048](../episodes/E048.md) / [E051](../episodes/E051.md). Their internal history is **not fitted to invented dates**; the return of the army happens much later **E054**. |
@@ -17,7 +17,7 @@
 The following table is ordered by **played narrative events** rather than by file creation date or later audience revelations. Its final column links to the **specific episode dossier** where the event is seen, stated or reported.
 
 | Main narrative stretch | Episode | Event and episode-era knowledge |
-|---|---|---|
+| --- | --- | --- |
 | **Dusthill** | [E001](../episodes/E001.md) | The four protagonists gather at the Hillmaster's invitation; a **water failure** prompts them to enter guarded passages beneath the settlement. The episode stops at a dangerous door confrontation. |
 | **Dusthill** | [E002](../episodes/E002.md) | Old Hill Guards and **dragon-engine machinery** emerge; expedition descends the shaft toward the intake. The **current Hillmaster falls and dies**. |
 | **Dusthill** | [E003](../episodes/E003.md) | Lower **river intake** investigated/repaired. **Softhead falls into the river**, with no witnessed death. Party enters ancient **dwarven ruins**. |
@@ -77,7 +77,7 @@ The following table is ordered by **played narrative events** rather than by fil
 **The three-month downtime occurs *after* E054 and *before* the active court session in E055**. The GM recaps completed policies and repairs at **E055**; they were merely **prospective** at E054's ending. The party starts the second phase as **level seven**.
 
 | Played episode | Setting and chronological outcome |
-|---|---|
+| --- | --- |
 | [E055 — My Standards Are Very Lizard](../episodes/E055.md) | **Three months elapsed.** **Nash and Angelashi are expecting a child**; Nash has nightmares, not a physical death in the opening dream. **Vorel/Bok Bok** run **Golden Sands**. **Stanley** studies medicine and **Fishbird/Tidebearer** practice. **Hope's reforms** include building and legal changes but house rivalry and resource depletion remain. **Softhead returns as the Principle's agent** and offers peace and release of Dusthill captives; Hope **orders his tongue removed, not his death**, and wishes to meet. Palace guards kill a **demon-invoking assassin**. At the inn a merchant supplies **claimed trade intelligence**, and a comet-like fireball brings **raining stones** to Tietkalla; no cause proven in E055. |
 | [E056 — Welcome back, George](../episodes/E056.md) | **Stone storm causes direct civilian deaths**. Nash/Vorel/Stanley direct residents to underground shelters; Hope reaches the keep. **Nobiery sends Hope's soul on an ancestral rite**; **George Miller ghost attacks** and later **Martha Miller and P0D apparitions** appear. **Nash disperses George's ghost; Vorel ages magically and is completely restored in E056 by Emenil's Greater Restoration**. **Quizquaz claims** an Andreeste–Dollo Poppio–dragon impact conspiracy and offers souls-for-peace bargain; **Hope refuses**. **Emenil learns of royal demonic dealings; Nobiery orders a corpse to attack her**. **Episode ends while she is bitten — no confirmed death**. |
 
@@ -88,7 +88,7 @@ The following table is ordered by **played narrative events** rather than by fil
 The following continues the same **played campaign sequence**. Outcomes that change earlier episode-cutoff knowledge appear at the **episode where they actually happen**; the earlier report remains a report.
 
 | Episode | Event and source cutoff |
-|---|---|
+| --- | --- |
 | [E057 — The Royal Truckery](../episodes/E057.md) | **47 Carnage actually bites Emenil**, but **Stanley heals her, Hope orders Nobiery to stop the undead**, and she survives. Nobiery **admits concealing a Soulbroker bargain** behind Matamaru's name. Party drives a **repaired royal monster truck**, not Fate 4, to inspect the skyfall site: bright green vegetation, magical anomaly and **bugbear-sized footprints dragging away a large body**. An unlucky leprechaun `Coopen/Coupon` is freed then **killed by Diontalus, who consumes its essence**. **Hope receives a lucky coin**. Wormfather bugbears, an apparent wizard and winged pet attack; **Stanley kills the winged creature**, with bugbears still fighting at E057 cutoff. |
 | [E058 — The Magical Banana Trail](../episodes/E058.md) | Party defeats **bugbears** and examines an actual **leechlike parasite in one bugbear's brain**. They retreat; **Nash becomes separated in young dragon form**, follows a **banana trail** dropped from the returning truck and is **brought home alive by a royal search party**. The **Principle visits court in person**, claims to represent Steel God values, proposes trade and a **rail link**, and **promises** Dusthill prisoners will return. **No return observed yet E058**. **Diptak** requests Vorel's presence in the lizardfolk lands. |
 | [E059 — Paradise of Mans](../episodes/E059.md) | Party negotiates railroad/trade, embassies, voluntary paid labor terms and church provision, **without a railroad yet existing**. The Principle visibly **extracts Diontalus from Stanley into a crystal**, takes custody and **promises confinement/space exile**; permanence not tested. **Actual Dusthill survivors return** to Tietkalla, including **Talia, Bruce Bane, Jimster and Shun'ti**; not every historical missing person is accounted for. Vorel and **Diptak** ride lizard mounts, while Hope/Stanley/Nash use **Fate 4** to cross westward. They evade a **bloodsucking swarm in Tiny Hut**. At **Razak Val**, the reigning Great Fang is **Orp**, with **living human captives on his body**; the duel is pending. |
@@ -113,7 +113,7 @@ The following continues the same **played campaign sequence**. Outcomes that cha
 ## Stories and publications outside that sequence
 
 | Source | Release position vs. story position | Rule for editors |
-|---|---|---|
+| --- | --- | --- |
 | **[E013.5](../episodes/E013.5.md)** | Published **between E013 and E014**, but its **Hope/Vorel scene belongs in the earlier E008–E009 separation** while Nash/Stanley were underground. It also contains retrospective Stanley framing and disclosures about Hope's private aims | Use the scene's **earlier story position** and the separate **later disclosure position**; do **not** insert new physical actions between E013 and E014 just because the supplement was released there |
 | **[E043 — Merry Chromeness!](../episodes/E043.md)** | Published between E042 and E044, but is a **standalone holiday one-shot** with fictionalized performers, different DM and Christmas setting | **Exclude from the Wastes event sequence**. The plot continues **E042 → E044**, with no canonical Teet expedition on the holiday special |
 | **[BONUS-2019-03 — Year One Q&A](../episodes/BONUS-2019-03.md)** | Original publisher episode **55**, released after the E054 arc finale; corrected **main Wastes E055 is publisher 56** | A **retrospective production and player discussion**, with **no time elapsed in Wastes story**. GM explanations of Buttons' motive, Order 26, Nash's heart and missed George radio clue do **not become E049 or E045 dialogue**. See [numbering crosswalk](../project/EPISODE_NUMBERING.md) |
@@ -121,7 +121,7 @@ The following continues the same **played campaign sequence**. Outcomes that cha
 ## Major time-of-knowledge transitions
 
 | Question | Earlier valid knowledge | Observed resolution by E054 |
-|---|---|---|
+| --- | --- | --- |
 | **Dusthill water** | Engine/intake investigated and apparently restarted E002–E005; **public outlet not yet tested by E005 cutoff** | **Nash tests water flowing in E006**. [E005](../episodes/E005.md) · [E006](../episodes/E006.md) |
 | **Softhead's fate** | Falls into subterranean river E003, no witnessed death | **Seen alive at Tietkalla in E049**. How he traveled remains unresolved. [E003](../episodes/E003.md) · [E049](../episodes/E049.md) |
 | **Stanley and Diontalus** | Stanley **refuses** archfey pact but is forcibly joined E029; companions only gradually learn control arrangements | Diontalus **admits the joining E034** and later kills **George E045** and **P0D E050**; **no separation by E054**. [E029](../episodes/E029.md) · [E034](../episodes/E034.md) · [E050](../episodes/E050.md) |
@@ -138,7 +138,7 @@ The following continues the same **played campaign sequence**. Outcomes that cha
 ## E055–E056 new cutoffs and still-open results
 
 | Question | Earlier fact or new report | E055–E056 status |
-|---|---|---|
+| --- | --- | --- |
 | **Downtime and reforms** | E054 proposes rebuilding and three-month break | E055 actually resumes **after three months**, with walls/fleet repaired, housing and social reforms ordered, shortages still real; administrative testimony and completed action should remain distinct. [E055](../episodes/E055.md) |
 | **Nash and P0D** | **P0D dies E050**; Nash dreams of her E055 | E055's truck/dynamite encounter is **a dream**. E056 shows **P0D as spirit**, not a living body. [E055](../episodes/E055.md), [E056](../episodes/E056.md) |
 | **Softhead and captives** | **Softhead seen alive E049**, Dusthill captives unresolved | E055 **Softhead claims** diplomatic agency/hostage release, **is mutilated but alive**, and no prisoner transfer or meeting is yet witnessed. |
@@ -150,7 +150,7 @@ The following continues the same **played campaign sequence**. Outcomes that cha
 ## E057–E060 new time-of-knowledge changes
 
 | Issue | Previously justified statement | Newest source-cutoff statement |
-|---|---|---|
+| --- | --- | --- |
 | **Emenil** | E056 ends as zombie begins biting; death unknown | **E057 bite lands and Stanley heals her**. **Emenil alive E058 reception**. |
 | **Skyfall object** | E055 flash/stone storm; E056 Quizquaz claims a killed dragon | **E057** impact site **found** with magical jungle and drag tracks; **no identified dragon remains**. **E058** physical worm in bugbear, not proof of dragon's identity or death. |
 | **Diontalus and Stanley** | Shared body through E057; Diontalus kills leprechaun there | **E059 observed extraction into crystal by the Principle**. **Diontalus is in Principle custody as claimed**, no destruction or space launch observed; **E060 Nash lookalike is not proof of Diontalus's return**. |
@@ -162,7 +162,7 @@ The following continues the same **played campaign sequence**. Outcomes that cha
 ## E061–E063 succession and contested revelations
 
 | Issue | E060 / E061 status | Observed through E063 |
-|---|---|---|
+| --- | --- | --- |
 | **Orp and Great Fang** | Orp **alive**, sunrise scaling promised E060; **Zercil enters the challenge E061** | **Orp killed by Vorel E062**, Vorel **publicly acclaimed Great Fang**. In E063 Zercil's attempted transfer fails; **Hope kills her during the next battle**, but the people recognize Vorel again. No future accession should be backdated into E060. |
 | **Bramie/Baymie and Fengar egg** | Both present E060; E061 thieves seek ancient egg | **Bramie murdered E061** after Nash last sees him alive. Egg stolen by apparent doubles with Nash's help. **Murderer not identified by E063**; Vorel's later accusation against Zercil is not eyewitness proof. |
 | **Nash future doubles** | E060 lone alleged future Nash appears privately | **Two alleged future Nashes observed by Nash E061** and apparently disappear with the egg; Nash later confesses. Time travel, the visitors' “time barf” explanation and their future origin remain **unverified**. |

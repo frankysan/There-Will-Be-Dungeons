@@ -7,7 +7,7 @@
 ## Reference subjects
 
 | Reference | What it currently contains | Consolidation status |
-|---|---|---|
+| --- | --- | --- |
 | [Characters and participants](CHARACTERS.md) | Subject index with profiles for the four protagonists, allies and adversaries, including **Orp, Diptak, Alvert and Charles Dickens** | **Subject profiles maintained through E071** |
 | [Places](PLACES.md) | **Consolidated place index** including **CHIDS**, **Kervalon**, Razak Val, Dusthill, Slavetown, the Black Mine, Château Weir and Tietkalla | **Place index and CHIDS site reference updated through E071** |
 | [World and history](WORLD.md) | **Consolidated thematic reference**: the ancient catastrophe, settlements, factions, dragon technology, Soulbroker pacts, artifacts, religion and contested lore | **Phase C first-pass rewrite available** |
