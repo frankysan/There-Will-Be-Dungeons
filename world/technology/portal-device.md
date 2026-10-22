@@ -1,6 +1,6 @@
 # Dual-color portal device — CHIDS secure laboratory apparatus
 
-> **Working descriptive name only.** No canon product/model label has been verified. This page tracks the **observed red/green portal apparatus** from [E075](../../episodes/E075.md) through [E077](../../episodes/E077.md), not a general rule for every ancient portal or a modern commercial device. **Processed-ASR source, not audio-verified.**
+> **Working descriptive name only.** No canon product/model label has been verified. This page tracks the **observed red/green portal apparatus** from [E075](../../episodes/E075.md) through [E079](../../episodes/E079.md), not a general rule for every ancient portal or a modern commercial device. **Processed-ASR source, not audio-verified.**
 
 ## Acquisition and construction
 
@@ -27,6 +27,12 @@ The device is **not the Traversal Drive**. It is a smaller **locally retrieved p
 **E077:** Hope operates the pair across **security grilles and a fan/laser pit**, but also notices **a selectable neutralization mode**. The GM describes **pulling both triggers together as a sustained void/necrotic beam** requiring both hands with **a -5 attack adjustment**. It deals enormous damage and can **pass through multiple creatures**: Hope's critical strike pierces both **Lethanphius and allied Vorel**, dropping Vorel. The party later confirms the opponent has a **black-metal skeleton** and does not immediately die from being bisected. **No limit on beam charge, range, fuel or safe collateral use has been established.** The earlier E075 description as a **harmless portal gun** was true only of its **red/green portal projectiles**, not its newly discovered mode.
 
 **Current custody and use at E077 cutoff:** **Hope holds the single device**; Vorel no longer has it. E077's final assault on engineering is **a council proposal**, not an actual new portal teleport or a test of the Traversal Drive. The newly discovered mode and collateral injury need **player-sheet/item-handout verification** before treating the exact dice or interactions as settled rules.
+
+## New applications (E078–E079)
+
+**E078:** The CHIDS hive calls the existing device **the 'displacement gun'** and considers it valuable against illithids. **Hope retains it** as the party receives other weapons. It is **not one of the new red Vorpal Laser Swords**, nor the high-power **Traversal Drive**.
+
+**E079:** With the party halted by a **four-finger handprint lock set into crystalline cave**, a **severed illithid hand fails to open the door**. Stanley **teleports through** independently; **Hope places paired portals on compatible surfaces beyond** so the rest of the party can **actually cross**. The door itself has not been unlocked; **the party leaves the portals available for retreat**. Later, Hope **fires both rockets from her separate launcher**, **not the displacement gun's neutralization beam**, into the engineering chamber. Keep these equipment functions separate in the event chronology.
 
 ## Listening and evidence priorities
 
