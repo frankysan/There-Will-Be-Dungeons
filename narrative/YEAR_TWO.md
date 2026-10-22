@@ -1,6 +1,6 @@
 # Year Two — Stones, Souls and the Great Fang
 
-**Narrative status:** Opening chapters covering corrected **E055–E071** after the played three-month downtime. **Full spoilers** for these episodes and the first arc. This is an editorial retelling drawn from **processed Parakeet SRTs, not an audio-verified transcript**. The [April 2019 bonus](../episodes/BONUS-2019-04.md) offers out-of-character interpretation, not a third scene or definitive unseen event. The full first arc ends in [Year One](YEAR_ONE.md).
+**Narrative status:** Opening chapters covering corrected **E055–E073** after the played three-month downtime. **Full spoilers** for these episodes and the first arc. This is an editorial retelling drawn from **processed Parakeet SRTs, not an audio-verified transcript**. The [April 2019 bonus](../episodes/BONUS-2019-04.md) offers out-of-character interpretation, not a third scene or definitive unseen event. The full first arc ends in [Year One](YEAR_ONE.md).
 
 ## I. Three months and a throne
 
@@ -238,8 +238,50 @@ To lift each person through, the party shares Nash's miraculous **floating under
 
 **Evidence:** [E071](../episodes/E071.md). The Principle biography, afterlife politics and machine location remain **Alvert's testimony**; the team has **not yet entered the data center proper**.
 
-## Where the story stands after E071
+## Interim checkpoint — after E071
 
 **All four protagonists are alive and inside the frozen ventilation duct near CHIDS's data center**, with **Alvert remaining outside**. They have **not reached or inspected the Traversal Drive**, restored engineering power or rescued Sira. **The demonic hounds and one ape are killed; a second ape was sent away still transformed into a snail**, with its fate unresolved. A message naming **Charles Dickens** confirms an **uploaded report**, but there is no observed duration of any delay to the realm-merger attempt. **The flying/cooling briefs are one shared item, last worn by Vorel**. Nash's previous poison status has no documented explicit cure. Hope's physical shotgun jam is cleared. The **Principle's alleged human-processing machinery** is an accusation made by Alvert, **not a verified site discovery**.
+
+## XVII. The lady beneath the fans
+
+Ice clings to every surface of the high **data-center ventilation shaft**. Stanley crawls ahead, choosing among branches and listening for the roar of machinery below. When the passage ends at a wall of ice, he heats the metal so it can melt away. It works—but the whole vent **sags beneath the weight and tears open**. Hope finds herself swinging over darkness, Nash slides after her, and Vorel holds fast to his friend. **Stanley calls down Feather Fall**, and the four float safely into a chamber vast enough to swallow a football field.
+
+The floor hides blinking lights beneath the ice. Towering racks of ancient computers stand beside fans as high as buildings, blowing unbearable cold across the room. Vorel melts a hole down to a strange computer panel, but Nash's efforts at its keyboard only reveal more preserved corpses buried in the ice. Then, in the darkness, somebody speaks to **Toby**, as though he were sitting in the next room.
+
+She is a **tiny, impossibly old elf**, buried in a dozen layers of clothing, with a wandering eye and a voice that never stops. She calls herself **Cerinthala**, or something near it; her companions are **Toby, Carl, Gordon and Benson**, four human figures sealed in blocks of ice around a makeshift camp. She talks to them, argues with them, asks them to make tea, and treats their frozen silence as company. The adventurers are less sure what to think.
+
+Cerinthala says she has lived here since the world before the Scorching. Without access to **Elhandar**, the refuge of elves, she cannot truly rest in death: she must **wither** on an Earth that no longer welcomes her kind. She asks Stanley for a promise to get her home. He refuses to guarantee success, but pledges that **he will do everything he can**. The elf produces a little **wooden-totem necklace**. When Stanley puts it on, strength washes through him; the amulet grants him greater protection.
+
+Now she has a bargain of her own to keep. She says the mind flayer told her to **seal the engineering passage**, but she can unlock it with the ancient controls. She produces a tablet, touches it, and declares the route **open**. She tells of **ships at Gordon Shuttle Bay**, of **crystals that explode when they hear noise**, and of terrifying experiments in which human scientists created **lizardfolk soldiers to fight dragons**. Some of her words sound like long-forgotten history; others sound like the prejudices of an age that treated Vorel as a tool instead of a person. The party listens, without knowing which are true.
+
+After the strange negotiations, Stanley casts **Tiny Hut**, providing somewhere warm enough to rest. Hope checks her **sending stone** and gets a worried, imperfectly heard message from home, then sends word that they are still trying to save the world. During her watch she accepts an invitation to share Cerinthala's **Maltaweed soup**. The elf's stew is much more pleasant than the metal scraps dropped into its cauldron suggested, and she talks with Hope about strange old beliefs, the Eye of Groxl, and the ache of loneliness.
+
+When morning arrives, the group has recovered its strength. **Stanley steps out of the magical hut**, and suddenly great hands of ice seize him. **Four towering creatures**, with frozen men suspended inside their bodies, rise from the floor and hammer at his friends. One starts **carrying Stanley away**, while Vorel meets the others with the **Eye of Groxl's flame**, and Nash makes Vorel huge with magic. Hope rushes to save the prisoner. In the giant's hand, **Stanley's new necklace begins to draw tight around his throat**.
+
+**Evidence:** [E072](../episodes/E072.md). Cerinthala's origins and experiments remain **her account**; the amulet's danger is **directly played**.
+
+## XVIII. Promises in the ice
+
+The amulet is no blessing alone. **Stanley tries to force it off**, but it clings too close to his neck; when he brings a dagger against it, **lightning shocks through his body**. Trapped in the giant's fist, he sends **Diplomacy** into its ice wrist, heating the blade until torrents of meltwater spill from its wounds.
+
+**Nash remembers the Solar Mines**, where workers had to hide from living sources of terrible heat they called **Slow Peters**. Against the frozen monsters before him, he now has a different sort of answer: **Fireball**. He spends the sorcerous power to protect Vorel as the blast engulfs the ice creatures. Vorel batters them apart with the Eye's burning shield. But pieces of the shattered bodies contain more than ice. The preserved human figures inside **start to rise on their own**, blue-eyed and hungry, the party calling them **“ice boyfriends.”**
+
+Hope sends explosive ammunition into the great arm holding Stanley. **It breaks apart**, and he crashes down to the floor—alive and able to stagger toward her. The other icy horrors break, burn or sink out of sight. Their escaped corpses lunge at Vorel and Stanley until the group defeats them too. And then, as though she has merely heard loud neighbors, **Cerinthala appears**, protesting the destruction of her companions. **Stanley's necklace loosens**.
+
+The ice itself speaks. **Toby** forms a head and mouth to say that the frozen men feared Cerinthala would leave them. She scolds him and apologizes to the guests, and under pressure admits something much worse: **she had first considered eating or using the travelers**, until Stanley's promise made them more useful to her alive. The necklace was not a customary elven gift at all. **She crafted it as a curse**, binding Stanley to her and reacting when his thoughts turn against her. He has never promised more than his best efforts, but the amulet does not seem interested in that distinction.
+
+Stanley does not forgive the deceit. Vorel suggests that an elf who keeps returning from death could be killed every morning until she is delivered home. Cerinthala briefly changes into a more beautiful, youthful form and begs Stanley to protect her. He refuses to let her hurry them into space: **the girl Sira and the threat to Earth come first**. At last the old elf points them toward **maintenance corridors beneath the frozen room**, where she hopes to help them escape.
+
+It takes hours. Vorel melts and digs **roughly twenty-five feet of ice**, while his companions drag away frozen chunks before they can reform. At last they reach a service passage lit by old red lamps, where Cerinthala takes the lead. Her comments about lizardfolk as laboratory creatures still offend the party, but the tunnels lead them into **rooms lined with enormous biological cylinders** and patches of **pink, living membrane**.
+
+Nash, unable to resist touching the unknown, **pokes one patch with his staff**. A tendril wraps around it, wrenches it free and **snaps the staff into two pieces**. One shortened half, with its nail, still works as a magical focus. Cerinthala claims these rooms once shaped Vorel's ancestors, and offers to make him a child by combining an egg with accelerated **infernal-wave** technology. **Vorel refuses**. He needs neither a laboratory-born son nor the old woman's permission to remain the Fang.
+
+At a bank of four elevators, one summoned lift plunges away with a crash. The next arrives, but **stalls between floors**, darkness filling its interior. Vorel pries the doors apart and finds only concrete. He tears open a roof hatch instead, and Hope climbs up to inspect the fraying cables. Something wet spatters from above. She looks higher, sees **glinting eyes multiplying in the shaft**, and then the legs of a **giant spider-shaped creature** descending straight toward them.
+
+**Evidence:** [E073](../episodes/E073.md). The lab's **physical vessels and dangerous membrane are witnessed**; the claim that ancient scientists created all lizardfolk and vampires remains **Cerinthala's testimony**, pending further evidence.
+
+## Where the story stands after E073
+
+**All four protagonists and Cerinthala are alive near the roof of a stalled CHIDS elevator**, with a **gigantic spider-like creature descending**. **Stanley's +1 AC totem necklace remains on him, and Cerinthala has admitted it is cursed**, tightening and shocking him when he turns against her. **Nash's staff is broken**, with its nail-bearing portion still usable as a focus. **Vorel refused an offer to engineer a child**. Cerinthala **actually remotely unlocked the engineering access**, but **the group has not physically inspected or activated the Traversal Drive**, nor rescued **Sira**. **Alvert's whereabouts beyond the E071 data-center exterior are not newly observed**. The [September public-release bonus](../episodes/BONUS-2019-09.md) adds important cast explanations and speculations, not new played events.
 
 **Editorial boundary:** The [Year One Q&A](../episodes/BONUS-2019-03.md) preceded the played time jump; the [April bonus roundtable](../episodes/BONUS-2019-04.md) is out-of-character commentary after at least E055, not a substitute for E056. The [active consistency ledger](../world/CONSISTENCY_LEDGER.md) and [review queue](../project/REVIEW_QUEUE.md) track name spellings, evidence limits and unresolved mechanics.
