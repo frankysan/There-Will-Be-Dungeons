@@ -9,3 +9,7 @@ She disappears during the worsening conflict with the keep. In E048 **Tedna repo
 Her future travel, health and place in the new Tietkalla government are not decided merely by their reunion. The Q&A mentions Nash's emotional stakes and plans without adding scenes of Angelashi's life after E054.
 
 **Primary sources:** [E035](../../episodes/E035.md) · [E036](../../episodes/E036.md) · [E037](../../episodes/E037.md) · [E048](../../episodes/E048.md) · [E049](../../episodes/E049.md) · [E054](../../episodes/E054.md) · [Nash](nash-maggard.md) · [Tedna](tedna.md) · [spelling evidence](../../reports/DISCORD_SPELLING_2026-10-21.md).
+
+## New-arc status — E055–E056
+
+After three months **Angelashi and Nash are expecting a child**, as revealed in E055. She comforts Nash during recurring Solar Mines nightmares and becomes involved in his changed domestic life. She arrives during E056's stone storm with a young worker **Fibel/Fibble**, then remains with **Fibel and Bok Bok at the Golden Sands** while the four adventurers respond to the crisis. **This is a new pregnancy reveal; neither delivery nor loss is shown by E056.** The name's exact written word division **Angelashi/Angel Ashi** remains unresolved. [E055](../../episodes/E055.md) · [E056](../../episodes/E056.md).

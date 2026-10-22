@@ -11,3 +11,7 @@ He directly participates in the chaotic fighting against giant P0D and later wat
 In the Year One Q&A Beau reveals that Bok Bok's first appearance was an **improvised NPC encounter** when Vorel explored alone. That production fact explains his narrative origin, **not** an in-world supernatural emergence.
 
 **Evidence:** [E006](../../episodes/E006.md) · [E007](../../episodes/E007.md) · [E016](../../episodes/E016.md) · [E025](../../episodes/E025.md) · [E026](../../episodes/E026.md) · [E048](../../episodes/E048.md) · [E049](../../episodes/E049.md) · [E051](../../episodes/E051.md) · [E054](../../episodes/E054.md) · [Vorel](vorel.md) · [Q&A](../../episodes/BONUS-2019-03.md).
+
+## New-arc status — E055–E056
+
+**Bok Bok** is Vorel's **kitchen worker/apprentice at the Golden Sands**, helping maintain the adventurers' guild during three months of settled life, though habits about meat and order still cause comic friction. He remains at the inn alongside **Angelashi and Fibel/Fibble** during E056's dangerous stone storm, rather than accompanying the four protagonists into the ancestral rite. No injury/death to Bok Bok is reported by E056. [E055](../../episodes/E055.md) · [E056](../../episodes/E056.md) · [April cast roundtable](../../episodes/BONUS-2019-04.md).

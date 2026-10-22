@@ -1,6 +1,6 @@
-# Year One — unified campaign chronology
+# Campaign chronology — Year One and the opening of Year Two
 
-**Horizon:** Corrected **E000–E054** main *The Wastes* campaign, with explicit exceptions for the **E013.5 supplemental**, **E043 holiday one-shot** and the **March 2019 Q&A**. **Spoilers:** Full Year One. **Research status:** The events below are consolidated from **unverified processed Parakeet episode dossiers**, not independent listening; times within individual episodes remain in their [source-first dossiers](../episodes/E000.md). The full **pre-Phase-C chronology**, including detailed recorded cue windows and historic uncertainties, is [preserved here](../research/legacy/2026-10-22/WORLD_CHRONOLOGY.md).
+**Horizon:** Corrected **E000–E056** main *The Wastes* campaign, with explicit exceptions for the **E013.5 supplemental**, **E043 holiday one-shot** and the **March 2019 Q&A**. **Spoilers:** E000–E056 and both 2019 bonus discussions. **Research status:** The events below are consolidated from **unverified processed Parakeet episode dossiers**, not independent listening; times within individual episodes remain in their [source-first dossiers](../episodes/E000.md). The full **pre-Phase-C chronology**, including detailed recorded cue windows and historic uncertainties, is [preserved here](../research/legacy/2026-10-22/WORLD_CHRONOLOGY.md).
 
 **Reading key:** Each row covers a **played episode or directly observed outcome** in narrative order. A **reported death, genealogy, prophecy, pact history or offscreen action** remains an attributed report unless independently played. The **episode's own cutoff** matters: E048's rescue is real even though Tedna dies E050; E048's report about Angelashi is not proof she died before her E054 rescue. For a connected story, use [Year One narrative](../narrative/YEAR_ONE.md); for subject facts use [world history](WORLD.md) and [character](CHARACTERS.md) / [place](PLACES.md) profiles.
 
@@ -72,6 +72,17 @@ The following table is ordered by **played narrative events** rather than by fil
 | **Desert return** | [E053](../episodes/E053.md) | The beast **splits**: upper cocoon **escapes skyward**, lower body **falls/dies**. Party escapes lower carcass using a **rowboat robe patch**. Vorel acquires **Eye of Groxl**, independent of his new scale-color change; party retrieves **part** of a hidden hoard and rides **Nash as young dragon** toward the keep. |
 | **Tietkalla throne** | [E054](../episodes/E054.md) | **Angelashi found and freed alive**, disproving earlier death report. **Monsoon escapes as mist** after warning of Andreeste. **Nobiery returns with hundreds of armed tieflings and crowns Hope**; **Vorel executes captive Suck Master Din** at her signal. Leaders discuss rebuilding, **not yet completed**. GM declares **arc end** and proposes future downtime. |
 
+## Year Two opening — actual three-month time jump
+
+**The three-month downtime occurs *after* E054 and *before* the active court session in E055**. The GM recaps completed policies and repairs at **E055**; they were merely **prospective** at E054's ending. The party starts the second phase as **level seven**.
+
+| Played episode | Setting and chronological outcome |
+|---|---|
+| [E055 — My Standards Are Very Lizard](../episodes/E055.md) | **Three months elapsed.** **Nash and Angelashi are expecting a child**; Nash has nightmares, not a physical death in the opening dream. **Vorel/Bok Bok** run **Golden Sands**. **Stanley** studies medicine and **Fishbird/Tidebearer** practice. **Hope's reforms** include building and legal changes but house rivalry and resource depletion remain. **Softhead returns as the Principle's agent** and offers peace and release of Dusthill captives; Hope **orders his tongue removed, not his death**, and wishes to meet. Palace guards kill a **demon-invoking assassin**. At the inn a merchant supplies **claimed trade intelligence**, and a comet-like fireball brings **raining stones** to Tietkalla; no cause proven in E055. |
+| [E056 — Welcome back, George](../episodes/E056.md) | **Stone storm causes direct civilian deaths**. Nash/Vorel/Stanley direct residents to underground shelters; Hope reaches the keep. **Nobiery sends Hope's soul on an ancestral rite**; **George Miller ghost attacks** and later **Martha Miller and P0D apparitions** appear. **Nash disperses George's ghost; Vorel ages magically and is completely restored in E056 by Emenil's Greater Restoration**. **Quizquaz claims** an Andreeste–Dollo Poppio–dragon impact conspiracy and offers souls-for-peace bargain; **Hope refuses**. **Emenil learns of royal demonic dealings; Nobiery orders a corpse to attack her**. **Episode ends while she is bitten — no confirmed death**. |
+
+**[BONUS-2019-04 — The First and Last](../episodes/BONUS-2019-04.md)** discusses the new phase, character motives and GM design. It **does not advance the fictional timeline**. It speaks of E055's downtime and original Tietkalla planning; exact release position relative to E056 is not inferred from archive month alone.
+
 ## Stories and publications outside that sequence
 
 | Source | Release position vs. story position | Rule for editors |
@@ -96,6 +107,18 @@ The following table is ordered by **played narrative events** rather than by fil
 | **Froghemoth** | Creature encountered and enlarged; at E052 close still **a living mental presence** around party | **E053 divides**: **lower half dies**, **upper cocoon flies away**. Do not mark organism **entirely extinct**. [E052](../episodes/E052.md) · [E053](../episodes/E053.md) |
 | **Gem of Tides and city water** | Missing/reported object, with disputed claims about its purpose | **Party physically recovers Gem E050**; exact **reinstallation/flow** and any complete water reform need source review. [E050](../episodes/E050.md) · [E051](../episodes/E051.md) |
 | **Monsoon's overthrow** | The party fights Monsoon's agents and hopes to take the keep | **Monsoon escapes as mist E054**. Hope is crowned, but **city rebuilding and alleged Andreeste invasion are not yet played**. [E054](../episodes/E054.md) |
+
+## E055–E056 new cutoffs and still-open results
+
+| Question | Earlier fact or new report | E055–E056 status |
+|---|---|---|
+| **Downtime and reforms** | E054 proposes rebuilding and three-month break | E055 actually resumes **after three months**, with walls/fleet repaired, housing and social reforms ordered, shortages still real; administrative testimony and completed action should remain distinct. [E055](../episodes/E055.md) |
+| **Nash and P0D** | **P0D dies E050**; Nash dreams of her E055 | E055's truck/dynamite encounter is **a dream**. E056 shows **P0D as spirit**, not a living body. [E055](../episodes/E055.md), [E056](../episodes/E056.md) |
+| **Softhead and captives** | **Softhead seen alive E049**, Dusthill captives unresolved | E055 **Softhead claims** diplomatic agency/hostage release, **is mutilated but alive**, and no prisoner transfer or meeting is yet witnessed. |
+| **George Miller** | **Diontalus murders him E045** | **George's ghost appears and attacks E056**, then disperses. Ghost appearance **does not negate death** or settle permanent soul fate. |
+| **Vorel's condition** | Alive in E054 with **Eye of Groxl** | **E056 ghost rapidly ages him**, but **Emenil restores his original age during the same episode**. |
+| **Emenil** | Priestess mentors Stanley in downtime and casts restoration | **Animated Carnage bites her at E056 cliffhanger**. **No death resolved**, and this should not be filled in from teaser/outro. |
+| **Meteor and soul claims** | E055 stone storm is directly witnessed | E056 **Quizquaz claims** it involved a dragon, bounty hunter and Weir litigation. No direct landing-site survey or independently verified dragon casualty. |
 
 ## Limits and provenance
 
