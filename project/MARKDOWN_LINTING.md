@@ -12,6 +12,14 @@ npm run lint:markdown
 npm audit
 ```
 
+## KaTeX dependency security
+
+**October 2026:** `markdownlint@0.42.0` brings in `micromark-extension-math`, which depends on `katex@^0.16.0`. The KaTeX advisory [GHSA-238p-pmpm-9mq7](https://github.com/advisories/GHSA-238p-pmpm-9mq7) affects KaTeX versions **before 0.18.2**. Because the patched release is outside the transitive semver range, `package.json` includes a **targeted npm override** for `katex: 0.18.2`. This is a deliberate cross-minor override, **not** a downgrade of `markdownlint` as `npm audit fix --force` suggests.
+
+After `npm install`, check `npm ls katex`, `npm run lint:markdown`, and `npm audit`. The override's compatibility with this linter and a clean dependency audit **must be verified using the installed dependency tree**, not inferred from the manifest. If a future maintained `micromark-extension-math` release permits patched KaTeX naturally, remove the override after testing.
+
+The security advisory concerns how inherited JavaScript properties can affect KaTeX's trusted-rendering settings when prototype pollution is already present. This repository **only lints maintainer-controlled Markdown** and does not publish KaTeX-rendered HTML, which limits exposure; nonetheless, prefer a patched dependency when compatible.
+
 If an older installation/lockfile still contains `markdownlint-cli2`, refresh dependencies with `npm install` after pulling this change. Verify the installed tree with `npm ls markdownlint markdownlint-cli2 micromatch braces`. A locally generated `package-lock.json` should be reviewed and committed separately if this project adopts lockfile-based reproducibility. Do **not** use `npm audit fix --force` to select a CLI dependency tree without reviewing its dependencies.
 
 To apply available automatic formatting fixes **only in the local working copy**, run `npm run lint:markdown:fix`, inspect the diff and run normal lint again. The regular lint command is **read-only**. Do not mass-autofix sources or historical research.
