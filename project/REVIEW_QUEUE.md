@@ -1,6 +1,6 @@
 # The Wastes — active audio, source and editorial review queue
 
-**Status: OPEN tasks, updated 2026-10-22.** Full *Wastes* spoilers through corrected **E065**, with separate [March 2019 Q&A](../episodes/BONUS-2019-03.md), [April 2019 roundtable](../episodes/BONUS-2019-04.md), [June 2019 Q&A](../episodes/BONUS-2019-06.md) and [July-archived 2019 bonus](../episodes/BONUS-2019-07.md). **No new listening, SRT editing or handout verification occurred during consolidation.** The [consistency ledger](../world/CONSISTENCY_LEDGER.md) identifies **what remains uncertain versus resolved**. This queue tells reviewers **where to listen or which sources to compare**.
+**Status: OPEN tasks, updated 2026-10-22.** Full *Wastes* spoilers through corrected **E067**, with separate [March 2019 Q&A](../episodes/BONUS-2019-03.md), [April 2019 roundtable](../episodes/BONUS-2019-04.md), [June 2019 Q&A](../episodes/BONUS-2019-06.md) and [July-archived 2019 bonus](../episodes/BONUS-2019-07.md). **No new listening, SRT editing or handout verification occurred during consolidation.** The [consistency ledger](../world/CONSISTENCY_LEDGER.md) identifies **what remains uncertain versus resolved**. This queue tells reviewers **where to listen or which sources to compare**.
 
 **Complete historical backlog preserved:** The entire ~73k-character pre-Phase-D [review queue, including its many timed episode-by-episode tasks](../research/legacy/2026-10-22/PROJECT_REVIEW_QUEUE.md), is frozen with functioning relative links. Its outstanding tasks were **not automatically closed** by omission from this shorter index. The original [consistency issue register](../research/legacy/2026-10-22/WORLD_CONSISTENCY_LEDGER.md) also preserves exact issue keys and status history.
 
@@ -179,13 +179,32 @@ This is a **batch routing grid**, not a statement that every cue within a listed
 
 **Source cutoff correction:** **E064** depicts the Razak Val mass outbreak; **E065** identifies **Rorf as confessed Bramie killer**; **Omnom and the valley's future remain unknown**. The July-archived bonus is **separate retroactive commentary**, not a playable E066. All conclusions are provisional ASR research.
 
-## 9. Work completion checklist
+## 9. E066–E067 — audio, handout and consequence checks
+
+| Priority | Source / approximate time | Precise review target and status boundary |
+|---|---|---|
+| **Critical** | E066 ~00:08–00:33 | **T. rex crushes Fate 4 and wreck explodes later**; Nash's **deep storm-pit** and Fireball, **Vorel's Eye of Groxl shield kill**, exact timing vs any repair proposal. Verify **Fate 4 definitively destroyed** and **Fang Fate Five** is only a bone/cart salvage effort. |
+| **High** | E066 ~00:33–00:46, ~01:40–01:55 | Vorel crafts **T. rex tooth dagger**, assembles wheel/bone **Fang Fate Five** rickshaw, and later leaves it rather than physically passing through dense black trees. **Does not replace Mawstorm sword**. Verify whether his "Fang" phrases use **existing Great Fang office** or an **additional self-bestowed title**; update [register](../world/characters/vorel.md) with literal wording if confirmed. |
+| **Critical** | E066 ~00:50–01:17 | Exact **mind flayer's name** (`Oubvayx/Ovaxiad` ASR), **Dollo Poppio / wizened wyrm titles**, supposed **Andreeste/Catoblepraithe/Principle arrangement**, **Hope's refusal**, **Sira held in the air**, immune/pass-through Scully Puckle round and resisted *Command*. **Enemy speech is a proposed bargain, not a verified contract**. |
+| **Critical** | E066 ~01:13–01:23 | **Rorf shapeshifts into bird and is folded/crushed to death**, **Follow thrown down, dies following Stanley's rescue promise**, and **Sira abducted alive**. Verify all three distinct life statuses before adding later characters. **No completed asylum in Tietkalla**. |
+| **High** | E066 ~01:17–01:42 | **Eyeball forest generation**, apparent living/suffering eyes, Nash's acid attack and test lick (possible bug ingested **but no diagnosed infection**), **Stanley's mouse polymorph on Nash**, subsequent rest and persistent unnatural darkness and storm. |
+| **High** | E066 ~01:55–02:33 | Skeleton-like crew's **Sgt T'Lupa, Commander Piker, Ensign Broccoli**, their **Bosen Seven/Rigel Five** story, scans and Earth disagreement, alleged **warp-drive coil handoff**, green spectral **wheel-less carriage**. Confirm equipment custodian and differentiate *speaker's claims* from objective cosmic travel. |
+| **Critical** | E067 ~00:09–00:37 | **Hope's subjective Dusthill Jimster/Fate 4 memory**, then the **spectral starfield dragon encounter** shared by group; verify **Kazdejira/Kazdeshira**, *god killer Grojil* statement, dragon's alleged death, **planet-moving machine**, **other-realm incursion**, Dollo Poppio embodiment through Sira and limited lifespan of spirit. No second Eye of Groxl item. |
+| **High** | E067 ~00:44–01:21 | Precise difference between **hypothetical T. rex polymorph, Dimension Door dragon entry, Greater Invisibility and stealth** vs **Nash's actual Mold Earth tunneling**. OOC correction of **Nash's spell sheet/feat** and **Tiny Hut rules** must not be backdated as character action or official mechanical clarification. |
+| **Critical** | E067 ~01:22–01:40 | **Nash/Hope 20-foot-deep approach beneath ruin**, wall/foundation excavation adjudication, temporary sighting of unused chamber, later tunnel sealing (air pipe) and **four PCs' entry**. Check actual map scale vs narrative, do not declare a surveyed structure. |
+| **High** | E067 ~01:40–02:27 | **Flesh-and-bone giant spawns successive skeletons**, **Stanley's Diplomacy killing blow**, Scully **radiant ammunition**, Nash's **Minor Illusion**, **Ray of Frost** and **Fireball**, Vorel **Eye-shield attacks**, and total minion elimination within room—not the entire keep. |
+| **Critical** | E067 ~02:27–end | Guarded corridors and **Hope's spotting rifle-carrying lizardfolk concealed at corner**; no battle with that guard, machine reached, Sira freed or Dollo Poppio defeated in episode. |
+| **High** | Name/source handouts | Search for original spellings of **Kervalon/Kaer Valon**, mind flayer **Oubvayx**, dragon **Kazdejira**, **Sergeant T'Lupa**, and name **Fang Fate Five** in cast documents / independent audio. Preserve **Mawstorm** provisional and **Eye of Groxl** owner confirmed. |
+
+**E067 checkpoint:** **Fate 4, Follow and Rorf are lost in E066; Sira is alive when abducted and still missing**. The **spectral dragon's planet-moving machine** remains unverified testimony; the party **is actually below Kervalon**, not at the climax of the machine. Audio/cast-written verification not performed.
+
+## 10. Work completion checklist
 
 - [ ] Listen to selected critical cues and create **audio-grounded transcript excerpts** with timestamps and performer attribution.
 - [ ] Reconcile original contracts, house records and item handouts with spoken claims; if unavailable, record that explicitly.
 - [ ] Update only the affected **active ledger key**, source dossier and consolidated reference entry, with evidence and date.
 - [ ] Preserve raw SRT outputs and historical archived alternatives, never silently overwrite source recognition.
 - [ ] Run relevant documentary/index validation after edits; where **local files or code** change, run their applicable test suites and pass before claiming completion.
-- [ ] Continue source-backed review **after E065**; E055–E065 and all four currently reviewed 2019 bonus recordings have provisional dossiers, **not independently listened/verified**.
+- [ ] Continue source-backed review **after E067**; E055–E067 and all four currently reviewed 2019 bonus recordings have provisional dossiers, **not independently listened/verified**.
 
 **Editorial consolidation is not audio verification.** Full [legacy queue](../research/legacy/2026-10-22/PROJECT_REVIEW_QUEUE.md) remains available for every fine-grained pending subtask.
