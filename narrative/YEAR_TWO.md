@@ -1,6 +1,6 @@
 # Year Two — Stones, Souls and the Great Fang
 
-**Narrative status:** Opening chapters covering corrected **E055–E063** after the played three-month downtime. **Full spoilers** for these episodes and the first arc. This is an editorial retelling drawn from **processed Parakeet SRTs, not an audio-verified transcript**. The [April 2019 bonus](../episodes/BONUS-2019-04.md) offers out-of-character interpretation, not a third scene or definitive unseen event. The full first arc ends in [Year One](YEAR_ONE.md).
+**Narrative status:** Opening chapters covering corrected **E055–E065** after the played three-month downtime. **Full spoilers** for these episodes and the first arc. This is an editorial retelling drawn from **processed Parakeet SRTs, not an audio-verified transcript**. The [April 2019 bonus](../episodes/BONUS-2019-04.md) offers out-of-character interpretation, not a third scene or definitive unseen event. The full first arc ends in [Year One](YEAR_ONE.md).
 
 ## I. Three months and a throne
 
@@ -102,8 +102,34 @@ These are beginnings rather than resolutions: the worm's purpose is not fully kn
 
 **Evidence:** [E063](../episodes/E063.md).
 
-## Where the story stands after E063
+## Interim checkpoint — after E063
 
 **Orp is dead E062, Zercil dead E063, and Vorel is publicly acknowledged as Great Fang alongside Hope's existing queenship in Tietkalla.** The social price of Hope's rocket, dishonorable interference in Zercil's fight and the deaths of Razak Val's leaders will not be erased by a new title. **The captives are being screened but have not all been released**. The captured black worm, the suspicious man **Follow**, the vanishing girl, **Bramie's murderer**, and the **future-Nash egg theft** remain open. The **Principle still possesses Diontalus's crystal as last shown**, and **Emenil was alive at the last Tietkalla cutoff**.
+
+## IX. The feast that ate a city
+
+In Razak Val, Vorel's new authority is put to its first impossible test. The **Sun's Witnesses** huddled beneath the throne are too ill to travel but too strange to trust. An unusually healthy captive named **Follow**, legless and carried on wheels, laughs at the doctors' efforts; he can **speak within their heads**. He points out one prisoner whose thoughts seem wrong. Stanley finds nothing clearly abnormal, even after an invasive search, while Omnom presses for harsher methods. Vorel calls **Dollo Poppio**. A body seizes, eyeballs lengthen on stalks, and **worms spray over the party**. Vorel's flames burn off the visible intruders and kill the transformed man.
+
+Then the whole pit erupts. The blinded and starving humans change into **chicken lords**—grotesque creatures that engulf attackers with their mouthparts. **Nash closes one chamber and blasts the pit with fire**, but dozens are only part of a horde. Aboveground, lizardfolk have acquired **extra arms** and are battling their own people. It is no longer possible to grant freedom to the captives in any simple way. **Omnom remains to fight**, accepting Orp's recovered **Necklace of Fireballs** from the adventurers. Vorel, Great Fang of a city he has just inherited, must leave it for a time or perish with it. He directs his companions toward the Zarks at Kervalon, on the suspicion that they brought the tainted Sun's Witnesses.
+
+Their **raptors** race through a canyon pursued by chicken lords. A narrow rope bridge gives way beneath Hope; the others escape and help hold the pursuers off until she climbs back to safety. Many monsters plunge into the ravine. After camping in the desert, the friends choose the dangerous purple sands over returning to search for **Fate 4**. Then the engine of **Fate 4 itself** is heard across the wasteland. Stanley's megaphone calls it back. A little girl appears in the door, briefly vanishes, and is followed by **Follow**, who asks whether the adventurers would like a ride in their own stolen vehicle. With him is a massive orc, now occupying its damaged driving compartment.
+
+**Evidence:** [E064](../episodes/E064.md). The city's fate, Omnom's survival, and the Zarks' guilt are all unresolved.
+
+## X. Old sins, new families and rain
+
+On the road, Follow names the girl **Sira** and the enormous orc **Rorf**. He tells a story about a place his unusual people called **Home**, destroyed by gobbears; a lizardfolk hunt then massacred most of their traveling group as mutants. Follow claims to manipulate minds, Sira can disappear and Rorf can change shape. The little girl's ears show scars where their pointed upper parts have been cut off. Stanley speaks in **Elvish** and she understands.
+
+Follow also has a darker secret. His companions tried to rescue him by arranging succession fights against Orp, removing those heirs who stood in challengers' way. **Rorf admits that he killed Bramie Fengar.** The murder blamed on intruders or perhaps Zercil has a new confessed perpetrator, while the strange theft of the Fengar egg by Nash's other faces remains a separate crime. Follow wants only safety for Sira; when Hope offers her realm of **Tietkalla** as a future home, he accepts, though no one has yet arrived there.
+
+Ahead, the purple horizon fills with thunder. **Rain**, almost unbelievable to these wasteland travelers, sweeps across the sand. Rorf struggles with the driving and Hope takes over Fate 4, only to bog it in deep mud. **Nash raises the ground with magic** to free the wheels, then carves a wide water-diversion basin near **Stanley's Tiny Hut** as the storm intensifies. Sira settles into a borrowed bedroll; Stanley hums an old, half-remembered melody in a language she understands. Far away, lightning reveals an enormous creature's short arms and head.
+
+Night brings more improbable visitors. Men wearing Nash's face arrive one after another, each insisting he comes from some future. They have **two copies of the Fengar egg**, conflicting stories about whether it should have been **a magical leg**, and a warning that a planet might explode. One egg remains behind as the others depart. But no one knows what to believe. The ground shivers under the hut, the puddles ripple, and a **Tyrannosaurus rex approaches Fate 4**. Vorel hides beneath the vehicle, ready to defend it. The giant sniffs the car. Their next fight—or escape—is still beyond the edge of this recording.
+
+**Evidence:** [E065](../episodes/E065.md). The [July-archived Q&A](../episodes/BONUS-2019-07.md) separately explains creator intentions; it is not another night in the storm.
+
+## Where the story stands after E065
+
+**Vorel is still Great Fang**, but **Razak Val is engulfed in a creature-and-lizardfolk conflict**, Omnom is last seen fighting, and the surviving captives' fate is unknown. **Rorf has admitted Bramie's murder**. Follow, Sira and Rorf have **accepted an offer of eventual Tietkalla refuge** while remaining with the party in **Fate 4**. **One Fengar egg copy is with the party**, while the egg-versus-leg puzzle and the apparent future Nashes' true provenance remain unresolved. **A T. rex has reached the RV in a sudden rainstorm**, not been killed or escaped.
 
 **Editorial boundary:** The [Year One Q&A](../episodes/BONUS-2019-03.md) preceded the played time jump; the [April bonus roundtable](../episodes/BONUS-2019-04.md) is out-of-character commentary after at least E055, not a substitute for E056. The [active consistency ledger](../world/CONSISTENCY_LEDGER.md) and [review queue](../project/REVIEW_QUEUE.md) track name spellings, evidence limits and unresolved mechanics.
