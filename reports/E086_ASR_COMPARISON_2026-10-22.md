@@ -35,4 +35,4 @@
 5. **Listen** at **~02:43–02:53** for the distinction between in-scene merchant statements and **out-of-character GM reveal** about the Lady's magical damping field; verify the 500/50×12 quotation, school/strength coverage, ID and faction rules.
 6. **Check original financial source** for Nash/Stanley's bank-heist cash. The GM says Nash's 25,000 are **still in Tietkalla vault**, while Stanley's *carried* gold was lost. This cannot justify any new in-Sigil spending.
 
-**Next source:** [E087](../sources/The%20Wastes%20S1E087.%20The%20Championship.parakeet.processed.srt) only if that exact filename exists; check tree before referencing it in future documentation. **No E087 evidence was used here.** [Review queue](../project/REVIEW_QUEUE.md) · [ASR experiment log](../project/MODEL_TESTS.md).
+**Next source:** [E087 — We have a winner](../sources/The%20Wastes%20S1E087.%20We%20have%20a%20winner.parakeet.processed.srt) (source filename confirmed in repository tree). **No E087 evidence was used here.** [Review queue](../project/REVIEW_QUEUE.md) · [ASR experiment log](../project/MODEL_TESTS.md).
