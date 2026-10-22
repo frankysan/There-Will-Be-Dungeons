@@ -11,7 +11,7 @@ This directory holds **narrative histories**: readable retellings of the actual 
 - **[October 2019 public-release Q&A](../episodes/BONUS-2019-10.md)** — cast/GM creative commentary and separate *Inverse* material, **not a played Wastes session**.
 - **[November 2019 public-release Q&A](../episodes/BONUS-2019-11.md)** — GM intent behind Wall Nash, item-rule clarifications and player reaction to E079; **not another scene**. Publication-month/host-introduction conflict requires review.
 
-**Arc 3, beginning E082:** [E082 — Binch Better Have My Money](../episodes/E082.md) is the **source-grounded opening in Sigil**, not yet a consolidated Year Three narrative. After E081's GM-declared deaths, **Vorel returns bodily alive, Nash is conscious in an eye-bearing heart, and Hope/Stanley are transported as inert bodies**. The [Sigil reference](../world/places/sigil.md) and [chronology](../world/CHRONOLOGY.md) record the earliest cutoff; later episodes should be researched before crafting a flowing arc-wide narrative. *Inverse* is separate.
+**Arc 3, beginning E082:** [E082 — Binch Better Have My Money](../episodes/E082.md) and [E083 — Trash Monkey and The Bird](../episodes/E083.md) now have **source-first dossiers**, not a consolidated Year Three narrative. After E081's GM-declared deaths, **Vorel returns alive; Nash survives as a floating heart and later regains speech; Hope and Stanley are found and subsequently entrusted to a trickster church as putative petitioners, without resurrection**. [Sigil](../world/places/sigil.md) and the [chronology](../world/CHRONOLOGY.md) retain those episode cutoffs. *Inverse* remains separate.
 
 ## Reading rules
 
@@ -19,6 +19,6 @@ This directory holds **narrative histories**: readable retellings of the actual 
 
 **Story chronology:** The unnumbered supplemental E013.5 has an earlier-in-story Hope/Vorel scene; the separate [E043 holiday special](../episodes/E043.md) is not part of the Wastes story. Episode numbering refers to the [archive's corrected IDs](../project/EPISODE_NUMBERING.md). Each narrative chapter links to its primary dossier range.
 
-**Scope:** Year One covers the first arc, **Year Two the completed CHIDS/Drive second arc through E081**, and **E082 begins a third researched arc in Sigil with only an episode dossier, not a completed narrative**. Their previous draft history is retained in the [research archive](../research/legacy/2026-10-22/README.md) and documented in the [consolidation report](../reports/SECOND_ARC_CONSOLIDATION_2026-10-22.md). To experience events without future spoilers, read individual dossiers or source recordings in order instead.
+**Scope:** Year One covers the first arc, **Year Two the completed CHIDS/Drive second arc through E081**, and **E082–E083 open a third researched arc in Sigil with two episode dossiers, not a completed narrative**. Their previous draft history is retained in the [research archive](../research/legacy/2026-10-22/README.md) and documented in the [consolidation report](../reports/SECOND_ARC_CONSOLIDATION_2026-10-22.md). To experience events without future spoilers, read individual dossiers or source recordings in order instead.
 
 **Migration and governance:** [Documentation architecture](../project/DOCUMENTATION_ARCHITECTURE.md), [editorial guide](../project/EDITORIAL_GUIDE.md) and [review queue](../project/REVIEW_QUEUE.md).
