@@ -1,6 +1,6 @@
 # Characters and participants — Year One reference index
 
-**Spoilers:** *The Wastes* main campaign through E054 and the separate post-arc [Year One Q&A](../episodes/BONUS-2019-03.md). **Quality:** These profiles synthesize provisional processed Parakeet SRT research; **they have not been checked against the audio**. For a story rather than an index, see [Year One](../narrative/YEAR_ONE.md).
+**Spoilers:** Core table retains its **Year One E054 snapshot**; later status updates now cover corrected **E065**, with separate March/April/June/July-archived out-of-character bonus Q&As. The [Year One Q&A](../episodes/BONUS-2019-03.md) is not a played episode. **Quality:** These profiles synthesize provisional processed Parakeet SRT research; **they have not been checked against the audio**. For a story rather than an index, see [Year One](../narrative/YEAR_ONE.md).
 
 This is now the **subject-focused reference index**, not the append-only episode-batch ledger. The entire former 88,000-character source-first [character compendium is preserved](../research/legacy/2026-10-21/WORLD_CHARACTERS.md), with its source links intact. A character's **earlier beliefs, reported fate and later observed status** must remain distinct. Roles in the podcast are not in-world identities.
 
@@ -75,7 +75,7 @@ In [E056](../episodes/E056.md), **George Miller appears as an attacking spirit**
 
 **Sources and horizon:** [E057](../episodes/E057.md)–[E060](../episodes/E060.md). **At that historical cutoff**, Orp's duel was not yet fought; do not infer Diptak's resurrection or guaranteed Diontalus extinction.
 
-## Status after E063
+## Interim status after E063
 
 **[Vorel](characters/vorel.md):** In [E061](../episodes/E061.md) **Orp appoints him sheriff** to investigate Bramie's unsolved murder, then in [E062](../episodes/E062.md) **Vorel kills Orp and is publicly acknowledged as Great Fang**. He remains ruler after **Zercil's E063 death**, although Hope's assistance in her fatal fight creates a question of honor. His titles register distinguishes his **self-proclaimed “Lizard King”**, Orp's **sheriff appointment**, and his **earned Great Fang office**.
 
@@ -87,4 +87,18 @@ In [E056](../episodes/E056.md), **George Miller appears as an attacking spirit**
 
 **[Stanley](characters/stanley-diontalus.md):** **Secretly heals Vorel E063**, retrieves a **Necklace of Fireballs with five charges** from Orp's corpse, supervises the beginning of medical screening for **200–300 human captives**, and sets apart the puzzling legless prisoner **Follow/Follo**. **Only Stanley sees a young human girl disappear** from the crowd. Neither all captives' freedom nor a magical cause for Follow has been established.
 
-**Source/evidence:** [E061](../episodes/E061.md) · [E062](../episodes/E062.md) · [E063](../episodes/E063.md), **processed ASR only**. The new episode dossiers and subject profiles give the precise time windows and uncertainty; no audio verification has been performed.
+**Source/evidence at the E063 cutoff:** [E061](../episodes/E061.md) · [E062](../episodes/E062.md) · [E063](../episodes/E063.md), **processed ASR only**. Later disclosures must not be backdated.
+
+## Status after E065
+
+**[Vorel](characters/vorel.md):** E064's infestation makes **Razak Val dangerous and embattled**, with Vorel retreating to seek the Zarks at Kervalon even while remaining **recognized Great Fang**. He names **a new raptor Mawstorm** (not his sword or another self-assigned epithet). [July bonus](../episodes/BONUS-2019-07.md) explains Kyle's decision not to take **Tyrant's Bane** and his purely tentative interest in paladin multiclassing.
+
+**[Nash](characters/nash-maggard.md):** Uses **Fireball** during the widespread human-to-chicken-lord transformation E064, then *Dimension Door* in the escape. In E065 **several alleged future Nashes** appear and **duplicate Fengar eggs** and contradictory **egg/leg** demands enter the story. **One egg stays with the current party; their origins and claims of an exploded planet remain unverified**.
+
+**[Hope](characters/hope-akmenos.md):** Escapes a collapsed rope bridge, retrieves use of **Fate 4** while displaced people occupy it and offers **future sanctuary in Tietkalla** to a family of unusual abilities. She has **not delivered them there**. She retakes the wheel in unprecedented rain, and the episode ends with a nearby **T. rex**.
+
+**[Stanley](characters/stanley-diontalus.md):** Continues nonlethal screening until E064 transforms the prison into a crisis; gives the **Necklace of Fireballs to Omnom** during evacuation. Speaks **Elvish** with Sira/Sera, sings or hums a half-remembered tune for her, and shelters the group under **Tiny Hut**. **Cleric multiclassing is considered but not taken**, according to Jon's bonus discussion.
+
+**[Follow, Sira and Rorf](characters/follow-sira-rorf.md):** **Follow's telepathy appears E064**; **Sira can vanish**, and **Rorf shapeshifts**. Rorf **explicitly admits Bramie's E061 murder in E065**, correcting the earlier uncertainty and **Vorel's unsupported E063 accusation against Zercil**. Their reported earlier persecution remains **Follow's interested account**, and Tietkalla asylum is prospective, not completed. **Omnom's survival remains unconfirmed after his E064 decision to stay and fight**, carrying the **Necklace of Fireballs**.
+
+**Source/evidence:** [E064](../episodes/E064.md) · [E065](../episodes/E065.md) · [July-archived Q&A](../episodes/BONUS-2019-07.md). These are **provisional processed-ASR interpretations**, not independently listened to or proof of every NPC story.
