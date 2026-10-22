@@ -59,7 +59,6 @@ When changing a decision, append a dated entry with reasons and affected episode
 |---|---|---|---|
 | D-030 | **Agreed; Phase A implemented, 2026-10-21** | Adopt **four layers**: immutable source/research dossiers, **subject-focused world reference**, **arc-oriented narrative**, and editorial controls. **Preserve legacy append-only indexes** in `research/legacy/` and keep source-time uncertainties/retrospective Q&A distinct. Introduce [Year One narrative](../narrative/YEAR_ONE.md), a [short project index](../README.md), [world portal](../world/README.md), [architecture](DOCUMENTATION_ARCHITECTURE.md) and [tracked phased migration](CONSOLIDATION_CHECKLIST.md) | The first 54 played episodes and Year One Q&A have produced valuable but **repetitive, batch-organized appendices**. A narrative account and deduplicated reference pages serve different reading tasks. Prior research remains accessible through archived indexes, original dossiers and Git history. **This decision does not claim Phases B–D or audio verification are complete**. |
 
-
 ## Phase C world-reference consolidation (2026-10-22)
 
 | ID | Status | Decision | Reason and evidence |
