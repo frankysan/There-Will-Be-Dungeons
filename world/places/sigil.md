@@ -39,3 +39,7 @@ At **E083's end**, **Vorel is still alive and pursuing a way home**; **Nash rema
 **Evidence policy:** Treat Sigil's physical architecture and characters' played actions as observations; distinguish **Binch's and Bill's planar theories** from demonstrated outcomes. Do not substitute external D&D/Planescape lore for the show's recorded events. Keep both **E081's contemporary death declaration** and **E082's newly shown different outcomes**. No information from *Inverse* belongs on this page.
 
 [E082](../../episodes/E082.md) · [E083](../../episodes/E083.md) · [Vorel](../characters/vorel.md) · [Nash](../characters/nash-maggard.md) · [Chronology](../CHRONOLOGY.md).
+
+## Later retrospective interpretation — December 2019 cast Q&A
+
+Beau later explains in [the December 2019 bonus](../../episodes/BONUS-2019-12.md) (~00:04–00:06 and ~00:28–00:30, standard-copy times) that **Hope and Stanley's apparent bodies are manifestations of their souls**, interrupted en route to **the Weir**, where their Soulbroker promise directed them. This gives **creator-level retrospective support** to the trickster priest's **petitioner diagnosis in E083**, but is **not new game action**: the bodies remain in crypt custody, no promised ritual succeeds on-screen, and the exact planar mechanism or travel home is not demonstrated. **This knowledge is not backdated to Vorel at E082's first corpse discovery.** The Q&A [ASR comparison](../../reports/BONUS_2019_12_ASR_COMPARISON_2026-10-22.md) is unverified against audio.
