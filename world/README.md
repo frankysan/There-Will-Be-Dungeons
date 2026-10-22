@@ -1,6 +1,6 @@
 # The Wastes — reference portal
 
-**Scope:** Main-campaign events through **E060**, plus separate [March Year One Q&A](../episodes/BONUS-2019-03.md) and [April cast roundtable](../episodes/BONUS-2019-04.md). **Spoilers through E060** follow. The episode-derived references remain **provisional until audio-verified**.
+**Scope:** Main-campaign events through **E060**, plus separate [March Year One Q&A](../episodes/BONUS-2019-03.md) and [April cast roundtable](../episodes/BONUS-2019-04.md) and [June Q&A](../episodes/BONUS-2019-06.md) (called May's show in its spoken introduction). **Spoilers through E060** follow. The episode-derived references remain **provisional until audio-verified**.
 
 **Choose a view:** For a flowing account of the plot rather than reference notes, read [**Year One — From Dusthill to the Crown**](../narrative/YEAR_ONE.md) followed by [**Year Two — Stones, Souls and the Great Fang**](../narrative/YEAR_TWO.md). For a specific timestamp, character's contemporaneous knowledge or ambiguous transcript, use the [episode dossiers](../episodes/E000.md) and the relevant E### number.
 
@@ -23,7 +23,7 @@ The **character and place indexes are now subject-centered**, with their earlier
 
 **What the GM later explained:** Beau's post-arc Q&A says **Buttons loved Stanley** and intended to take him to the Arcanum to free him from Diontalus. That is **retrospective motive explanation**, not an E049 dialogue the party heard. [Bonus dossier](../episodes/BONUS-2019-03.md).
 
-**Names:** **Diontalus** follows creator/owner-confirmed spelling; **Eye of Groxl** is owner-confirmed as one artifact under variants `Grojil/Groxel`; **Tietkalla** is supported by cast writing in the matching place context. Unresolved spellings remain discoverable through the [ledger](CONSISTENCY_LEDGER.md), [decisions](../project/DECISIONS.md) and [spelling report](../reports/DISCORD_SPELLING_2026-10-21.md).
+**Names:** **Diontalus** follows creator/owner-confirmed spelling; **Eye of Groxl** is owner-confirmed as one artifact under variants `Grojil/Groxel`; **Tietkalla** is supported by cast writing in the matching place context; Vorel's sword is provisionally **Mawstorm** (ASR `Ma Storm` / `maw storm` / `moss storm`; see [Vorel's item and titles](characters/vorel.md)). Unresolved spellings remain discoverable through the [ledger](CONSISTENCY_LEDGER.md), [decisions](../project/DECISIONS.md) and [spelling report](../reports/DISCORD_SPELLING_2026-10-21.md).
 
 **Different chronologies:** [E013.5](../episodes/E013.5.md) contains a retrospectively inserted scene. [E043](../episodes/E043.md) is a **holiday one-shot, not part of the Wastes story**. Original publisher 55 is a **Q&A**, so the corrected next main-campaign installment is **E055 from publisher 56**. See [crosswalk](../project/EPISODE_NUMBERING.md).
 
