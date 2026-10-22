@@ -32,7 +32,7 @@ The device is **not the Traversal Drive**. It is a smaller **locally retrieved p
 
 **E078:** The CHIDS hive calls the existing device **the 'displacement gun'** and considers it valuable against illithids. **Hope retains it** as the party receives other weapons. It is **not one of the new red Vorpal Laser Swords**, nor the high-power **Traversal Drive**.
 
-**E079:** With the party halted by a **four-finger handprint lock set into crystalline cave**, a **severed illithid hand fails to open the door**. Stanley **teleports through** independently; **Hope places paired portals on compatible surfaces beyond** so the rest of the party can **actually cross**. The door itself has not been unlocked; **the party leaves the portals available for retreat**. Later, Hope **fires both rockets from her separate launcher**, **not the displacement gun's neutralization beam**, into the engineering chamber. Keep these equipment functions separate in the event chronology.
+**E079:** With the party halted by a **four-finger handprint lock set into crystalline cave**, a **severed illithid hand fails to open the door**. Hope **first creates a green endpoint on the near side**, then Stanley **takes Hope through Dimension Door** to the far side. From there Hope fires **the matching red endpoint** so the others can **actually cross**. The door itself has not been unlocked; **the party leaves the portals available for retreat**. Later, Hope **fires both rockets from her separate launcher**, **not the displacement gun's neutralization beam**, into the engineering chamber. Keep these equipment functions separate in the event chronology.
 
 ## Listening and evidence priorities
 
