@@ -11,3 +11,7 @@ By E049 Buttons appears alongside **Jolt** at the ambush, and describes a propos
 In [the post-arc Q&A](../../episodes/BONUS-2019-03.md), **Beau reveals Buttons was romantically in love with Stanley**, and was trying to get Stanley to the **Arcanum to remove Diontalus**. This is **retrospective GM intent and undisclosed motive**, not proof Stanley understood Buttons' objectives at the time, not a journey that occurred, and not an absolution from the consequences of the ambush. The relevant spell-book/text handed over earlier and a later **forgotten Blink scroll** mentioned by Nash in the Q&A also need inventory review; they should not be mechanically merged without checking.
 
 **Links:** [E028](../../episodes/E028.md) · [E029](../../episodes/E029.md) · [E030](../../episodes/E030.md) · [E032](../../episodes/E032.md) · [E041](../../episodes/E041.md) · [E049](../../episodes/E049.md) · [E050](../../episodes/E050.md) · [Stanley/Diontalus](stanley-diontalus.md) · [Q&A](../../episodes/BONUS-2019-03.md).
+
+## New-arc trace — E055 and April roundtable
+
+Stanley retains **Buttons' dictionary, a Monstrositorum-like reference book and a regional map** after the three-month time jump; the April 2019 cast roundtable has Jon explain that Stanley studies medicine partly to free himself from Diontalus, **without proving Buttons himself achieved that liberation**. Buttons remains **dead since E049**. [E055](../../episodes/E055.md) · [April roundtable](../../episodes/BONUS-2019-04.md).

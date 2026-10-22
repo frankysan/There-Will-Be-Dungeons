@@ -1,6 +1,6 @@
-# Consistency ledger — active Year One uncertainties and resolutions
+# Consistency ledger — active Wastes uncertainties and resolutions
 
-**Scope:** *The Wastes* through corrected **E054**, including [the March 2019 Year One Q&A](../episodes/BONUS-2019-03.md) as **retrospective testimony, not a played episode**. **Full spoilers.** Last structural edit: **2026-10-22**. This is the **active issue index**, not a second event chronology or a transcript-correction log. **All episode findings remain provisional unless expressly audio/listener verified.**
+**Scope:** *The Wastes* through corrected **E056**, including [the March 2019 Year One Q&A](../episodes/BONUS-2019-03.md) and [April 2019 roundtable](../episodes/BONUS-2019-04.md) as **retrospective testimony, not a played episode**. **Full spoilers.** Last structural edit: **2026-10-22**. This is the **active issue index**, not a second event chronology or a transcript-correction log. **All episode findings remain provisional unless expressly audio/listener verified.**
 
 **Historical evidence:** The complete pre-Phase-D, 101k-character episode-batch [consistency research archive](../research/legacy/2026-10-22/WORLD_CONSISTENCY_LEDGER.md) was retained before this rewrite, with source links rebased. Use the [unified chronology](CHRONOLOGY.md), [thematic world guide](WORLD.md), [character](CHARACTERS.md) and [place](PLACES.md) entries for synthesized statements. The [active review queue](../project/REVIEW_QUEUE.md) provides actionable audio/handout tasks, while its [full historical snapshot](../research/legacy/2026-10-22/PROJECT_REVIEW_QUEUE.md) preserves every earlier timestamp and subquestion.
 
@@ -89,7 +89,33 @@ These are **settled editorial decisions or identified episode transitions**. Rec
 | `time_skip.announced` | **Resolved — publication/event distinction [E054](../episodes/E054.md)** | GM discusses **prospective downtime and level 7**; not already played months of policy implementation. |
 | `bonus.2019_03.not_e055` | **Resolved — [D-029](../project/DECISIONS.md)** | Q&A is **non-narrative** and its GM plans/counterfactuals do not become Year One plot events. |
 
-## D. Where the older detailed issue keys went
+## D. E055–E056 active developments and April 2019 roundtable
+
+The **Year One ledger was complete through E054**; this section indexes newly introduced uncertainties without reopening earlier resolved issues. Everything here still rests on **unverified processed SRTs**.
+
+| Active key | Status | Specific event or bounded question | Evidence |
+|---|---|---|---|
+| `year2.downtime.now_played` | **Resolved — source cutoff E055** | The GM's proposed **three-month break and level-seven progression actually occur before E055**, with some repaired walls/fleet and policy implementation. **Not accomplished at E054**. | [E055](../episodes/E055.md) · [chronology](CHRONOLOGY.md) |
+| `nash.angelashi.pregnancy` | **Resolved — source cutoff E055** | **Angelashi announces pregnancy with Nash**. Biologic mechanism, date of birth, future child and safety remain unknown. **E055's apparent P0D reunion and Nash's destruction occur in a dream**. | [E055](../episodes/E055.md) |
+| `tietkalla.reform.status` | **Open — ongoing social effects** | **Hope abolishes serf-like status and mandates merit, plumbing and reconstruction**, while house patronage, labor and material shortage persist. Distinguish **GM recap of actions, engineer's progress report**, and future promises. | [E055](../episodes/E055.md), [Tietkalla](places/tietkalla.md) |
+| `softhead.envoy` | **Resolved — physical fate, open — claims** | **Softhead alive in E055**, claims to represent the Principle, is **tongue-mutilated on Hope's order and left alive/unconscious**. Proposed exchange of **Dusthill slaves** and claimed magistrate sole responsibility are **not yet verified**. No released prisoners witnessed. | [E055](../episodes/E055.md) |
+| `softhead.diplomacy` | **Open — future meeting** | Softhead's promised **peace talks, supply trade and return of captives** are an interested envoy's deal; delivery of response and negotiation remain unconfirmed. | [E055](../episodes/E055.md) |
+| `tietkalla.gang_carnage` | **Open — individual identity/corpse custody** | Captured **Twenty-Sixer “47 Carnage”** in E055 ordered executed; an **animated `47/49 Carnage`** guards Nobiery in E056 and attacks a priestess. Verify number, execution scene and whether **same physical individual** was raised. Do not pretend death followed by reanimation is an unrelated identity or assume exact necromancy without source check. | [E055](../episodes/E055.md), [E056](../episodes/E056.md) |
+| `names.dollo_poppio` | **Open — name and alleged entity** | Bedroom assassin E055 repeats name like `Dollo Poppio`; Quizquaz E056 alleges an Andreeste **contractor/bounty hunter**. **Exact spelling, whether same referent and reality of contract/dragon fight are not independently proven**. | [E055](../episodes/E055.md), [E056](../episodes/E056.md) |
+| `tietkalla.stone_storm` | **Resolved — observed disaster / open — cause** | Cometlike object and **falling rocks kill civilians E055–E056**, not merely dream or illusion. Exact meteor composition, landing position, astronomical trajectory or causal actor **not observed**. | [E055](../episodes/E055.md)–[E056](../episodes/E056.md) |
+| `tietkalla.shelter_casualties` | **Open — full outcome** | The party guides **some civilians toward sewers** while deaths occur; **no total survivors, victims or complete evacuation** known by end E056. | [E056](../episodes/E056.md) |
+| `quizquaz.grim_council` | **Open — interested cosmology** | In the ethereal ritual Quizquaz **claims Soulbroker legal proceedings in Weir**, Andreeste's claim and an offscreen **dragon killed on arrival**. No firsthand survey or neutral legal confirmation. His offer concerning **Melgor/fifty souls is refused by Hope**. | [E056](../episodes/E056.md) |
+| `george.spirit.returns` | **Resolved — ghost appearance E056 / open — afterlife permanence** | **George Miller remains killed by Diontalus E045**; E056 **his ghost appears and is dispersed by Nash**, **not a living resurrection**. Female **Martha** apparition retreats; permanence of spirits unknown. | [E045](../episodes/E045.md), [E056](../episodes/E056.md) |
+| `p0d.ethereal` | **Resolved — ghost appearance E056** | **P0D is killed in E050**, seen/talked to as **spirit in E056**. Her report of a **winged Rory-like figure** is not automatically objective confirmation of a named person/deity or proof of lasting access to the dead. | [E050](../episodes/E050.md), [E056](../episodes/E056.md) |
+| `vorel.ghost_aging` | **Resolved — within E056** | Ghost prematurely ages Vorel; **Emenil's Greater Restoration returns him to normal in the same episode** using crushed diamond dust. **Eye of Groxl** is displeased but does **not** take over after won contest. | [E056](../episodes/E056.md) |
+| `eminal.fate` | **Open — cliffhanger life/death** | Priestess `Emenil/Eminel` **casts restoration then objects to hidden demonic deals**. **Nobiery commands an undead Carnage to bite her** at E056 end. **She is attacked, NOT confirmed killed**. | [E056](../episodes/E056.md) |
+| `names.fishbird_tidebearers` | **Open — orthography/theology** | `Malhya/Malhaia`, `Matamaru`, `Emenil/Eminel`, **Fishbird/Tidebearers**, exact vestments and gods versus Weirlords. **Stanley's conjured water is shown**, but Emenil's theological claims need not be treated as neutral cosmology. | [E055](../episodes/E055.md), [E056](../episodes/E056.md) |
+| `places.mogen_frogan_trade` | **Open — map/merchant names** | `Joderty Strongnee`, **Diamond Stroke** yacht, `Mogen Frogan`, `Mog Kirag/Mog Kirindag` and **Principle City three spires** are **trader's account** E055, not direct party exploration. April roundtable confirms **Mogen Frogan name inspiration**, not every ASR spelling. | [E055](../episodes/E055.md), [April Q&A](../episodes/BONUS-2019-04.md) |
+| `stanley.diontalus.switch` | **Open — player-described current mechanics** | April Q&A **Jon describes alternating control opportunities when the other sleeps**; **Diontalus dormant recently**, not gone. Stanley's secret medical-library research into removal is a **player motivation statement**, not something all party members know. | [April Q&A](../episodes/BONUS-2019-04.md), [Stanley](characters/stanley-diontalus.md) |
+
+**Bonus rule:** April 2019 `BONUS-2019-04` is a **~31-minute cast roundtable**, not main session. Beau's statement that he initially prepared **Tietkalla** as a brief stop and organically built its history is **GM production process**, not a new Tietkalla street visited between E055/E056. The original 2019-03 Q&A remains similarly out-of-character.
+
+## E. Where the older detailed issue keys went
 
 The [complete historic ledger](../research/legacy/2026-10-22/WORLD_CONSISTENCY_LEDGER.md) retains **all original tables, issue keys, variants, episode-time ranges, rejected/conditional interpretations, visual-source notes and source links**. Nothing was removed from that archival record. Key families are represented in the current system as follows:
 
@@ -105,7 +131,7 @@ The [complete historic ledger](../research/legacy/2026-10-22/WORLD_CONSISTENCY_L
 
 **Specialist issues not repeated as rows** (e.g., individual one-off NPC epithets, exact firearm title, regional map label, whether an E020 trigger affected a sword, a particular captured guard's death, or which items crossed between player inventories) remain **open in the preserved historical evidence**, and should be reactivated here when they affect a published reference or become a targeted audio/handout review. Omission from this *short index* is **not a verified resolution**.
 
-## E. Closure and new-entry procedure
+## F. Closure and new-entry procedure
 
 1. Identify a **stable key** and classify evidence: **direct episode action, GM exposition, character testimony, private vision, out-of-character GM retrospective, official/cast-written name, owner decision or fan reference**.
 2. Record **exact source and approx. time/cue**, optionally handout/document revision. If review was by audio, explicitly record **listener/editor and date**. “Compared transcripts” is **not** an audio-verification method.

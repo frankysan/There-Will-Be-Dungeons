@@ -11,3 +11,7 @@ In E054 Monsoon occupies the throne in the smashed keep with **Prince Aladweir d
 **Main connections:** [Tietkalla](../places/tietkalla.md), the **Twenty-Sixers**, **Jolt**, **Buttons**, **P0D**, rival **Toe Rippers**, disputed history of **Kefeli/Andreeste**, and the party. His actions and reported bargains must not be compressed into a single verified master conspiracy with every clause proven.
 
 **Evidence:** [E032](../../episodes/E032.md) · [E037](../../episodes/E037.md) · [E038](../../episodes/E038.md) · [E039](../../episodes/E039.md) · [E049](../../episodes/E049.md) · [E050](../../episodes/E050.md) · [E051](../../episodes/E051.md) · [E054](../../episodes/E054.md) · [Buttons](buttons.md) · [P0D](p0d.md) · [Q&A](../../episodes/BONUS-2019-03.md).
+
+## Later report — E055
+
+A captured Twenty-Sixer **claims Monsoon Cabbage was killed**, but **the E054 played scene showed him escaping as mist**. This E055 prisoner statement is faction testimony and **does not overwrite Monsoon's last directly seen status**. [E055](../../episodes/E055.md).

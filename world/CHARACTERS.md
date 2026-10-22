@@ -58,3 +58,9 @@ This is now the **subject-focused reference index**, not the append-only episode
 - **Completeness:** This index highlights the principal Year One cast; the complete earlier list of minor NPCs and source-specific first appearances remains in the [archive](../research/legacy/2026-10-21/WORLD_CHARACTERS.md), not erased or declared nonexistent. Names or actor roles not yet corroborated require a separate review.
 
 [Reference portal](README.md) · [story narrative](../narrative/YEAR_ONE.md) · [evidence ledger](CONSISTENCY_LEDGER.md) · [open review queue](../project/REVIEW_QUEUE.md).
+
+## New arc — three months later (E055–E056)
+
+**The subject profiles, not a repeated episode-batch chronology, are the live reference.** After E054, an actual **three months elapse**: [Nash](characters/nash-maggard.md) and [Angelashi](characters/angelashi.md) are expecting a baby; [Hope](characters/hope-akmenos.md) governs and implements disputed reforms; [Vorel](characters/vorel.md) and [Bok Bok](characters/bok-bok.md) operate **the Golden Sands**; and [Stanley](characters/stanley-diontalus.md) studies medicine and Tidebearer magic, while Diontalus remains dormant **but still sharing his body**. [E055](../episodes/E055.md).
+
+In [E056](../episodes/E056.md), **George Miller appears as an attacking spirit**, **P0D appears as an ethereal companion** and neither is restored to biological life. **Vorel's spectral aging is cured in the same episode**. Newly significant **Tidebearer priestess Emenil/Eminel** heals Vorel but is then **attacked by an undead figure at Nobiery's command**—her death remains unknown. **Softhead** is now a mutilated **but surviving envoy** whose promises to free Dusthill captives remain unfulfilled on-screen. [April cast roundtable](../episodes/BONUS-2019-04.md) contains **player motives/GM process**, not additional character scenes.

@@ -45,3 +45,9 @@ This is **narrative order, not a surveyed map or complete physical road itinerar
 - Every minor place name and map transcription from the original episode-by-episode review remains accessible in the [archived place compendium](../research/legacy/2026-10-21/WORLD_PLACES.md) and [source dossiers](../episodes/E001.md). The short index does **not** declare them disproved.
 
 [Reference portal](README.md) · [characters](CHARACTERS.md) · [consistency ledger](CONSISTENCY_LEDGER.md) · [review queue](../project/REVIEW_QUEUE.md).
+
+## New-arc places and routes — E055–E056
+
+The city of [Tietkalla](places/tietkalla.md) has experienced **three months of actual partial reconstruction** and now includes **Vorel's Golden Sands inn/adventurers' guild**, a **Tidebearer Fishbird church**, and functioning **government court/medical work**. A cometlike event then causes **lethal falling stones**, and the **sewer network** becomes an emergency shelter route; the original **ancient laboratory** beneath the keep hosts Hope's ancestral ritual. [E055](../episodes/E055.md) · [E056](../episodes/E056.md).
+
+Visiting dwarven trader **Joderty Strongnee (?)** aboard the **Diamond Stroke** describes **Esophageal Pass**, **Mogen Frogan**, claimed dwarven ruins and **Principle City**. These are **his reported travel descriptions**, not locations the party physically visits during E055–E056. [April 2019 bonus](../episodes/BONUS-2019-04.md) supplies GM naming inspiration for Mogen Frogan, not verified geographical coordinates.

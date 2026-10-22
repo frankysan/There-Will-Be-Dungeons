@@ -1,6 +1,6 @@
-# Year One — active audio, source and editorial review queue
+# The Wastes — active audio, source and editorial review queue
 
-**Status: OPEN tasks, as of 2026-10-22.** Full *Wastes* spoilers through corrected E054 and the separate [March 2019 Q&A](../episodes/BONUS-2019-03.md). **No new listening, SRT editing or handout verification occurred during consolidation.** The [consistency ledger](../world/CONSISTENCY_LEDGER.md) identifies **what remains uncertain versus resolved**. This queue tells reviewers **where to listen or which sources to compare**.
+**Status: OPEN tasks, updated 2026-10-22.** Full *Wastes* spoilers through corrected **E056**, with separate [March 2019 Q&A](../episodes/BONUS-2019-03.md) and [April 2019 roundtable](../episodes/BONUS-2019-04.md). **No new listening, SRT editing or handout verification occurred during consolidation.** The [consistency ledger](../world/CONSISTENCY_LEDGER.md) identifies **what remains uncertain versus resolved**. This queue tells reviewers **where to listen or which sources to compare**.
 
 **Complete historical backlog preserved:** The entire ~73k-character pre-Phase-D [review queue, including its many timed episode-by-episode tasks](../research/legacy/2026-10-22/PROJECT_REVIEW_QUEUE.md), is frozen with functioning relative links. Its outstanding tasks were **not automatically closed** by omission from this shorter index. The original [consistency issue register](../research/legacy/2026-10-22/WORLD_CONSISTENCY_LEDGER.md) also preserves exact issue keys and status history.
 
@@ -90,13 +90,36 @@ This is a **batch routing grid**, not a statement that every cue within a listed
 
 **Publication crosswalk:** [Corrected episode numbering](EPISODE_NUMBERING.md). **Historical precision:** Timestamps and named questions for every group are in the frozen [full review queue](../research/legacy/2026-10-22/PROJECT_REVIEW_QUEUE.md). **Lore chronology:** [unified timeline](../world/CHRONOLOGY.md).
 
-## 5. Work completion checklist
+## 5. E055–E056 and April 2019 bonus — newly opened checks
+
+| Priority | Source time | What to review, and how to represent it |
+|---|---|---|
+| **Critical** | E055 ~00:04–00:22 | **Three months actually elapsed**, level-seven confirmation, Hope policy outcomes and Nash's **nightmare**. Confirm **Angelashi's pregnancy announcement is waking/in-fiction**, not part of the nightmare death. |
+| **High** | E055 ~00:22–00:35 | Court **merit/houseless/Guzbucks rules**, disputing houses, engineer **resource shortage**, status of repaired walls/fleet and church. Verify **which reforms completed vs announced**, exact names. |
+| **Critical** | E055 ~00:34–00:49 | **Carnage captured and ordered executed**, gnome **Softhead** returns as Principle envoy, **claimed release of Dusthill captives** and Ethanalia responsibility; **Hope has his tongue cut out while alive**. Check whether order/execution actually shown, envoy departure and exact name/title. |
+| **High** | E055 ~00:54–01:12 | **Bedroom assassin**, repeated `Dollo Poppio` name, poison/radiant ammunition, Hope's wounds and guard killing. **Don't infer demon identity/employer solely from shouted name.** |
+| **High** | E055 ~01:12–02:14 | **Golden Sands / Pillars of Decency**, Bok Bok duties, regional **merchant Joderty Strongnee/Diamond Stroke**, Esophageal Pass, Mogen Frogan, dwarven ruins and Principal City's **three spires**. Compare with contemporary **Roll20 map revision**. |
+| **High** | E055 ~02:14–02:51 | Group's reaction to **demon-intrigue lore**, racially prejudiced tavern fight, **cometlike object** and falling stones. Do not assign confirmed culprit based on E056 NPC claims. |
+| **Critical** | E056 ~00:06–01:03 | **Direct civilian casualties** including an endangered family/child, evacuation to manholes, identities of **Fibel**, **Tombo** and surviving bystanders, separate Hope's keep route. Avoid unsupported all-safe conclusion. |
+| **High** | E056 ~01:03–01:20 | Ancient laboratory and **animated `47/49 Carnage`**. Reconcile E055 captive/execution vs E056 zombie identity; **Nobiery's ritual circle and restrictions**. |
+| **Critical** | E056 ~01:18–02:07 | **George ghost** hostile/aged Vorel and dispersed by Nash, **Martha apparition** repelled, **P0D spirit**, Hope's ancestral tests and **Quizquaz** offer. Distinguish **spirit from revival**, witnessed ethereal scene from **interested claims**. |
+| **Critical** | E056 ~01:57–02:07 | Exact **Andreeste, Dollo Poppio, Grim Council, dragon destroyed on entry** wording. Record all as **Quizquaz's asserted story** pending separate confirmation; Hope rejects **Melgor + fifty souls** offer. |
+| **High** | E056 ~02:09–02:34 | Vorel **ages and is restored before ending**, Eye of Groxl's control contest, priestess `Emenil/Eminel`, diamond reagent/Greater Restoration and Stanley's **Fishbird created water**. |
+| **Critical** | E056 ~02:33–02:42 and outro | **Nobiery exposes demonic bargains**, priestess reacts, **animated Carnage bites her**, **no death yet confirmed**. Check who commands which corpse, her injuries and exact cut-to-outro. |
+| **High** | Bonus April ~00:00–00:09 | **Diontalus switching on sleep**, dormant status, **Stanley's covert research through hospital/medical library**, Nash's choice not to interfere. **Player-retrospective explanations**, not a performed separation. |
+| **High** | Bonus April ~00:09–00:14 | GM intended brief **Tietkalla 2 town / 3–4 keep episodes**, emergent royal history, **Mogen Frogan** production inspiration. Never retroactively assert a gnome city as real Tietkalla history. |
+| **Medium** | Bonus April ~00:14–00:30 | Performer-versus-character choices: Jon's moral difficulty with Diontalus, Scott's dirty Nash, Kyle's Vorel vocabulary/Bok Bok, Kristen's emotional roleplay; **Waterworld** alternate-setting question is hypothetical. |
+| **High** | Whole archive | Reconcile corrected **E055/E056** against original publisher **56/57**, and April bonus's **own title/date field**. The spoken `April 29` is not independent distribution-date verification. |
+
+**Every earlier Year One review subtask remains available** in [historic queue](../research/legacy/2026-10-22/PROJECT_REVIEW_QUEUE.md) and current categories above; the new episode section is an **active extension**, not a new separate append-only encyclopedia.
+
+## 6. Work completion checklist
 
 - [ ] Listen to selected critical cues and create **audio-grounded transcript excerpts** with timestamps and performer attribution.
 - [ ] Reconcile original contracts, house records and item handouts with spoken claims; if unavailable, record that explicitly.
 - [ ] Update only the affected **active ledger key**, source dossier and consolidated reference entry, with evidence and date.
 - [ ] Preserve raw SRT outputs and historical archived alternatives, never silently overwrite source recognition.
 - [ ] Run relevant documentary/index validation after edits; where **local files or code** change, run their applicable test suites and pass before claiming completion.
-- [ ] Continue episodic review after E054; the **Q&A is a bonus** and E055 is a new main-session file, not automatically examined during this Phase D cleanup.
+- [ ] Continue source-backed review **after E056**; E055–E056 and April bonus now have provisional dossiers, **not independently listened/verified**.
 
 **Editorial consolidation is not audio verification.** Full [legacy queue](../research/legacy/2026-10-22/PROJECT_REVIEW_QUEUE.md) remains available for every fine-grained pending subtask.
