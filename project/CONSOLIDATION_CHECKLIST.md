@@ -1,6 +1,6 @@
 # Year One documentation consolidation — implementation checklist
 
-**Status (2026-10-21):** Phase A completed as a **first editorial pass**. Phases B–D remain pending. Follow [the architecture](DOCUMENTATION_ARCHITECTURE.md) for the full target design and source-evidence rules.
+**Status (2026-10-22):** **Phases A–C completed as first editorial passes**. Phase D (consistency-ledger cleanup) and independent audio verification remain pending. Follow [the architecture](DOCUMENTATION_ARCHITECTURE.md) for the full target design and source-evidence rules.
 
 ## Phase A — architecture, narrative and navigation
 
@@ -16,22 +16,24 @@
 
 ## Phase B — characters and places, first reference rewrite
 
-Start with the **four protagonists**, then **major allies/adversaries**, then major sites. Archive the full current original reference file *before replacing it*, and preserve stable backlinks. **Do not create parallel equally authoritative profiles**.
+Start with the **four protagonists**, then **major allies/adversaries**, then major sites. Archive the full current original reference file *before replacing it*, and preserve stable backlinks. **Completed first-pass (2026-10-21):** 10 character profiles and 5 place profiles now feed concise indexes; former 88k/65k research compendia are archived. This is not an audio verification or a claim that every minor entity has a standalone page. **Do not create parallel equally authoritative profiles**.
 
-- [ ] Reformat `world/CHARACTERS.md` as an **alphabetical/role-based index** with one concise paragraph per subject, linked to substantive entries (initially kept in a small number of files).
-- [ ] Produce consistent first profiles for **Nash Maggard**, **Hope Akmenos**, **Stanley Billings & Diontalus** (shared body but **distinct agency**), and **Vorel**, incorporating Year One changes and correct episode source cutoffs.
-- [ ] Consolidate **Buttons** (GM Q&A motive revealed posthumously), **P0D** (involuntary transformation/death), **Tedna** (E048 rescue then E050 death), **Angelashi** (E048 mistaken death report, E054 rescue), **Bok Bok** and **Monsoon**.
-- [ ] Consolidate `world/PLACES.md` and first place entries: **Dusthill**, **Slavetown**, **Black Mine**, **Château Weir**, and **Tietkalla** including **Trashburg, Teet keep, Pit of Despair and ancient under-keep**.
-- [ ] Ensure **Eye of Groxl** one-artifact canonical name, cast-supported **Tietkalla** and unresolved proper-name variants are represented **only once per subject**, with provenance.
-- [ ] Validate links, correct imported relative references and mark **outstanding rather than resolved** source doubts.
+- [x] Reformat `world/CHARACTERS.md` as an **alphabetical/role-based index** with one concise paragraph per subject, linked to substantive entries (initially kept in a small number of files).
+- [x] Produce consistent first profiles for **Nash Maggard**, **Hope Akmenos**, **Stanley Billings & Diontalus** (shared body but **distinct agency**), and **Vorel**, incorporating Year One changes and correct episode source cutoffs.
+- [x] Consolidate **Buttons** (GM Q&A motive revealed posthumously), **P0D** (involuntary transformation/death), **Tedna** (E048 rescue then E050 death), **Angelashi** (E048 mistaken death report, E054 rescue), **Bok Bok** and **Monsoon**.
+- [x] Consolidate `world/PLACES.md` and first place entries: **Dusthill**, **Slavetown**, **Black Mine**, **Château Weir**, and **Tietkalla** including **Trashburg, Teet keep, Pit of Despair and ancient under-keep**.
+- [x] Ensure **Eye of Groxl** one-artifact canonical name, cast-supported **Tietkalla** and unresolved proper-name variants are represented **only once per subject**, with provenance.
+- [x] Validate links, correct imported relative references and mark **outstanding rather than resolved** source doubts.
 
 ## Phase C — world themes and chronology
 
-- [ ] Save dated snapshots of the existing long `world/WORLD.md` and `world/CHRONOLOGY.md`.
-- [ ] Reorganize `world/WORLD.md` into **ancient history (GM prologue), societies/factions, dragon technology, spellcraft/artifacts, religion/Weirlords and political structures**.
-- [ ] Keep **claims about distant history** attributed; distinguish Soulbroker/Monsoon/Kefeli/Nobiery views from directly played demonstrations.
-- [ ] Rewrite `world/CHRONOLOGY.md` as one integrated **timeline**, with scene order, historical backstory and publication exceptions clearly split. Keep timestamps in linked dossiers.
-- [ ] Ensure unique **scene/event links** rather than rewriting all episode scenes at length.
+**First-pass completed 2026-10-22:** Old ~91k / ~69k-character batch-appendices preserved in [dated archive](../research/legacy/2026-10-22/README.md). Active [world guide](../world/WORLD.md) is thematic and [chronology](../world/CHRONOLOGY.md) is one continuous 53-episode event sequence; all source time codes remain in per-episode dossiers. **Not audio-verified**.
+
+- [x] Save dated snapshots of the existing long `world/WORLD.md` and `world/CHRONOLOGY.md`.
+- [x] Reorganize `world/WORLD.md` into **ancient history (GM prologue), societies/factions, dragon technology, spellcraft/artifacts, religion/Weirlords and political structures**.
+- [x] Keep **claims about distant history** attributed; distinguish Soulbroker/Monsoon/Kefeli/Nobiery views from directly played demonstrations.
+- [x] Rewrite `world/CHRONOLOGY.md` as one integrated **timeline**, with scene order, historical backstory and publication exceptions clearly split. Keep timestamps in linked dossiers.
+- [x] Ensure unique **scene/event links** rather than rewriting all episode scenes at length.
 
 ## Phase D — ledger and editorial cleanup
 
@@ -43,4 +45,4 @@ Start with the **four protagonists**, then **major allies/adversaries**, then ma
 
 ## Important migration rule
 
-**“New page exists” is not a reason to declare an entire reference category complete.** Finish an entity only after its prior material has been reviewed for missing facts, provenance retained, contradictions tracked and crosslinks updated. Do not allow new narrative prose, retroactive Q&A revelations or wiki later-campaign spoilers to silently rewrite earlier character knowledge. This first consolidation does **not** certify an audio review or complete `entities.json` publication.
+**“New page exists” is not a reason to declare every individual reference audio-verified or every minor NPC fully indexed.** Finish an entity only after its prior material has been reviewed for missing facts, provenance retained, contradictions tracked and crosslinks updated. Do not allow new narrative prose, retroactive Q&A revelations or wiki later-campaign spoilers to silently rewrite earlier character knowledge. This first consolidation does **not** certify an audio review or complete `entities.json` publication.

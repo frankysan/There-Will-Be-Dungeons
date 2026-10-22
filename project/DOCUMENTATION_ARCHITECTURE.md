@@ -1,6 +1,6 @@
 # Documentation architecture — Year One consolidation
 
-**Status:** Adopted for the first consolidation pass (2026-10-21). **Scope:** *The Wastes* through corrected E054 plus the separately indexed March 2019 Year One Q&A. This reorganizes **documentation**, not the source transcripts or the game world. The plan deliberately distinguishes what already exists from later migration tasks.
+**Status:** Adopted for the first consolidation pass (2026-10-21); **Phases A–C implemented as first editorial passes**; consistency-ledger cleanup (Phase D) and audio verification remain pending. **Scope:** *The Wastes* through corrected E054 plus the separately indexed March 2019 Year One Q&A. This reorganizes **documentation**, not the source transcripts or the game world. The plan deliberately distinguishes what already exists from later migration tasks.
 
 ## Why the structure changes
 
@@ -32,7 +32,7 @@ Our goal is **one clear reader-facing account per purpose**, with linked evidenc
 
 - **Immediate reader entry points**: repository [README](../README.md), [narrative index](../narrative/README.md), [Year One](../narrative/YEAR_ONE.md), [world index](../world/README.md).
 - **Episode-specific research entry point**: `episodes/E###.md`, with `episodes/BONUS-2019-03.md` under its own namespace. Keep time-code tables and doubts here even if a world fact is later resolved.
-- **World works in progress**: `world/CHARACTERS.md`, `PLACES.md`, `WORLD.md`, `CHRONOLOGY.md` and `CONSISTENCY_LEDGER.md` currently still include append-only research. **Do not claim these have all been rewritten**. Until migration is completed, they remain source-linked research compendia, not a single deduplicated truth.
+- **World reference status**: `world/CHARACTERS.md` and `world/PLACES.md` are now **subject indexes** linked to `world/characters/` (10 profiles) and `world/places/` (5 major profiles). Their **former full append-only content is frozen** in `research/legacy/2026-10-21/WORLD_CHARACTERS.md` and `WORLD_PLACES.md`. **Phase C completed as a first pass**: `world/WORLD.md` is now the thematic world reference and `CHRONOLOGY.md` the unified Year One event timeline. Their pre-rewrite details are preserved at `research/legacy/2026-10-22/WORLD_HISTORY.md` and `WORLD_CHRONOLOGY.md`. **Phase D pending**: `CONSISTENCY_LEDGER.md` remains an append-only source register and will be consolidated separately.
 - **Historical long-form README inventories** are copied into `research/legacy/2026-10-21/` before replacing their index pages. They are historical research snapshots; the new indexes and arc narrative are the preferred reading experience. Git history retains every original text revision.
 - `world/entities.json` is **not** a synchronized canon catalog for every researched character yet; do not fill in aliases or biographies automatically from narrative synthesis.
 

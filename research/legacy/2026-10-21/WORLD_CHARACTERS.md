@@ -1,0 +1,511 @@
+> **Archived source-first research snapshot (2026-10-21):** This is the full pre-Phase-B body of [`world/CHARACTERS.md`](../../../world/CHARACTERS.md). Relative links have been rebased for this archive location. For the canonical subject index use [characters](../../../world/CHARACTERS.md) or [places](../../../world/PLACES.md); the episode dossiers retain timestamp evidence. **This archived record is not maintained as the current reference.**
+
+---
+
+# Characters and people
+
+> **Documentation transition (2026-10-21):** This file is a source-linked **append-only research compendium**, not yet the consolidated subject reference. For a readable story use [Year One](../../../narrative/YEAR_ONE.md); for a topical starting point see the [world portal](../../../world/README.md). The [architecture](../../../project/DOCUMENTATION_ARCHITECTURE.md) and [migration checklist](../../../project/CONSOLIDATION_CHECKLIST.md) define how this file will be reorganized while its research evidence is preserved. Historical “unresolved” notes may reflect earlier episode cutoffs and later be resolved elsewhere in this document.
+
+
+**Important:** A transcript speaker is the real performer. A roleplayed character's name is separate; a performer may play a character, narrate and voice others. Name spellings below are provisional where explicitly marked.
+
+## Out-of-world participants
+
+| Participant label | Evidenced role | Source |
+|---|---|---|
+| Scott | Host/participant; introductory narration concerning Nash | E000 00:00:00–00:01:25 and 00:03:49–00:07:18; E001 00:00:11–00:02:15 |
+| Beau (called 'Bo') | Dungeon master; narrator and voices game-world figures | E001 00:00:37–00:00:50; E000 00:01:26–00:03:49 |
+| Kristen | Participant; narration concerning Hope/tiefling | E000 00:07:27–00:10:17; E001 00:15:31–00:16:17 |
+| Jon (ASR draft label: John) | Participant; plays Stanley Billings | E000 00:10:24–00:11:30; E001 00:08:51–00:09:30 |
+| Kyle | Participant; narrates lizardfolk character | E000 00:11:41–00:13:11; E001 00:31:35 onward |
+
+**Verified diarization note:** In E001, detected `speaker 5` is **Scott performing a different voice**, not a sixth participant. The mapping is listener-confirmed for this episode; the raw label remains in original SRTs.
+
+## Player-character reference
+
+### Nash Maggard (wiki-supported spelling)
+
+- **Associated participant:** Scott.
+- **Introduction:** Presented as a dangerous, scarred wanderer with destructive power, a troubled past, and a possible chance at redemption. His introduction mentions one sightless eye, years in the solar mines, and departure from the Blood Canyons. **Source:** E000 00:03:49–00:07:18 (character-focused narration).
+- **Opening session:** Introduced by name at the Hillmaster's gathering; portrayed by Scott, sometimes in a performed/altered voice. **Source:** E001 01:09:01–01:09:22 and 01:17:50; listener verification of altered-voice speaker.
+- **Spelling:** The [wiki](https://twbd.fandom.com/wiki/There_Will_Be_Dungeons_Wiki) supports `Maggard`; audio-derived variants `Magard`/`Maghard` remain searchable. **Questions:** Meaning of his dark power/eye; circumstances of the mines and exile. The dramatic teaser should not be treated as a full factual account without future confirmation.
+
+### Oriphi “Hope” Akmenos (wiki-supported full spelling)
+
+- **Associated participant:** Kristen.
+- **Ancestry:** Tiefling, per introductory narration and Episode 1 dialogue. **Sources:** E000 00:08:46–00:09:08; E001 00:14:12–00:15:43.
+- **Stated aspiration:** Locate a dragon engine and travel into the past to change the wasteland's fate; these are hopes and beliefs rather than guaranteed mechanics. **Source:** E000 00:09:44–00:10:17.
+- **Opening session:** Prefers to be called **Hope**, participates in work at the garage, and is engaged in modifying a vehicle connected to dragon-engine aspirations. **Source:** E001 00:15:31–00:18:30.
+- **Name provenance:** The [wiki character page](https://twbd.fandom.com/wiki/Oriphi_%22Hope%22_Akmenos) documents `Oriphi Akmenos`, while E001 contains the ASR variants `Orifi`/`Orify` in a discussion about pronunciation; no new early dialogue is inferred. **Questions:** Tiefling history, abilities and actual feasibility of her objective.
+
+### Stanley Billings
+
+- **Associated participant:** Jon (original ASR speaker label `John`).
+- **Introduction:** Calls himself Stanley Billings, expresses a mission to save the wasteland through social order/government, and describes finding an ancient text that shaped his thinking. **Source:** E000 00:10:24–00:11:30.
+- **Opening session:** An outspoken local resident; accompanies Softhead to invite others to the Hillmaster's dinner. **Source:** E001 00:08:51–00:15:30.
+- **Questions:** What the artifact/tome contains, and how far his ambitions extend beyond his own assertions.
+
+### Vorel Rasvim Kurik (wiki-supported written name)
+
+- **Associated participant:** Kyle.
+- **Introduction:** A large desert-wandering lizardfolk warrior; narrated as the last of his desert kin. Travels toward Dust Hill carrying meat to trade for water. **Source:** E000 00:11:41–00:13:11.
+- **Opening session:** Pursues trade/food/water; participates in the community gathering and ensuing events. **Sources:** E001 00:30–00:40; 00:49–01:00; 02:15 onward.
+- **Spelling:** The [wiki](https://twbd.fandom.com/wiki/There_Will_Be_Dungeons_Wiki) supports the full written name; audio variants `Vorell`, `Varel`, `Borel` are retained. The introduction's geographic proper nouns also need verification.
+
+## Non-player characters and people of Dust Hill
+
+### Hillmaster (name not verified)
+
+- **Role:** Community leader of Dust Hill, within a long-lived ruling lineage described by the GM. **Source:** E001 00:05:55–00:06:11; 00:40:17–00:40:38.
+- **Episode 1 actions:** Invites the characters to a feast, involves them in the water crisis, and leads them toward an underground route. **Source:** E001 00:49:25–01:30; 02:08:00–03:02:10.
+- **Do not infer:** No definitive personal name is established in these pilot notes.
+
+### Softhead
+
+- **Role:** Gnome working closely with the Hillmaster; presents invitations, assists with introductions and follows the Hillmaster. **Source:** E001 00:10:49–00:15:30; 00:49–01:30.
+- **Status:** NPC voiced/narrated mainly by Beau. His name or nickname is clear in the transcripts, but its in-world origin should be checked before canonizing an explanation.
+
+### Jimster (later-wiki-supported spelling)
+
+- **Role:** Human head mechanic associated with Dust Hill's garage. **Source:** E001 00:18:03–00:18:13 (GM).
+- **Status:** A [later episode summary](https://twbd.fandom.com/wiki/Episode_6) uses Jimster. ASR variants `Gimster`/`Gymster` remain aliases; the spelling is not listener-verified.
+
+### Shun'ti Stoutbarrel (surname documented later)
+
+- **Role:** Dwarf who dispenses water at the settlement's central water system. **Source:** E001 00:41:21–00:41:48 (GM).
+- **Status:** A [later episode summary](https://twbd.fandom.com/wiki/Episode_6) uses the full name. The surname is **not** inserted into E001 dialogue; ASR variants `Shun T`/`Shunti` remain aliases.
+
+## Tracking additions
+
+Future additions should include a one-paragraph description, first appearance, recurring locations/relationships, actor/player vs character distinctions, aliases, source links, open questions, and spoiler/chronology notes. Avoid treating jokes and contested character claims as objective character biography.
+
+## Newly observed people and creatures, E002–E005
+
+*Evidence limitation:* The following descriptions are from **unverified processed Parakeet SRTs** with approximate times. The entries are indexed in [episode dossiers E002](../../../episodes/E002.md), [E003](../../../episodes/E003.md), [E004](../../../episodes/E004.md), and [E005](../../../episodes/E005.md), rather than independently audio-confirmed. Beau's different character voices are not additional podcast participants.
+
+| Name / working spelling | What is established or reported | First relevant episode/time and caution |
+|---|---|---|
+| **Billy** | Former Hill Guard discovered impaled in an underground trap | E002 ~00:04; killed before the session's opening scene |
+| **Thomas**, **Holga**, **Dharma** | Former Hill Guard in the conflict near the dragon-engine chamber; actions and loyalties contested | E002 ~00:20–01:05; `Dharma`/`Darma` may vary. E003 ~00:01 recap names all three; check individual fates |
+| **First Hillmaster / Peter** | E002 current Hillmaster says a guarding skeleton represents the original ruler; E005's specter identifies himself as **Peter** and disputes successors' legitimacy | E002 ~00:55; E005 ~00:04–00:08. Peter's historical account is **speaker claim** |
+| **Queen Amelda/Emelda** | Ancient, emaciated dwarven queen with a head apparatus in the subterranean throne room | E003 ~02:47 and ~03:06; E004 opening and aftermath. Orthography unresolved |
+| **Quizquaz** | Oil-like entity, called the **Dream Drinker** in E005 recap, sustained by dreams drawn from the queen and opposed by the heroes | E003 ~03:07 scene (unnamed then); E004 ~00:07 first self-identification; E005 ~00:01 title. Verify spelling |
+| **C4N-D13** | A female-voiced medical automaton in the dwarven ruin, with damaged records and expired medical supplies | E003 ~02:35–02:57; number/letter variants require audio or other direct evidence |
+| **Bruce Bane** | Child separated from his mother after Dusthill's goblin raid | E005 ~02:25 and ~02:40; SRT `Bruce Bain`, [wiki spells Bane](https://twbd.fandom.com/wiki/Bruce_Bane) |
+| **Local map-trader** | Gives the party a map of the surrounding Wastes | E005 ~02:30; person's name remains unverified in episode SRT; later [wiki Episode 6](https://twbd.fandom.com/wiki/Episode_6) has both `Boxto Rintolile` and `Boxto Lintorile` |
+| **Jimster** and **Shun'ti** | Reappear as important Dusthill figures dealing with the goblin raid, damaged community and leadership gap | E005 ~02:03–02:35; their known written spellings remain wiki-supported, not new audio verifications |
+
+**Chronology restraint:** E005 establishes goblins attacking the town and causing disappearances. The named goblin **Bok Bok** becomes a party companion *during E006* according to the wiki, and must not be backdated to E005. Late-campaign descriptions, abilities and character sheets still do not describe the protagonists' early character builds.
+
+
+## Added character and cast continuity: E006–E008
+
+**Evidence:** [E006](../../../episodes/E006.md), [E007](../../../episodes/E007.md), [E008](../../../episodes/E008.md) processed Parakeet dossiers, **none newly checked against audio**. A [contemporaneous retrospective E006 fan-wiki summary](https://twbd.fandom.com/wiki/Episode_6) supplies some spellings, not word-for-word audio or an unlimited spoiler license.
+
+| Person or role | First relevant evidence | Status / boundary |
+|---|---|---|
+| **Bok Bok** (goblin) | E006 ~00:32–00:45 captured by Vorel; ~01:08–01:18 name given; E007 ~00:24–00:35 rescues/returns the old man | Associates Vorel with `lizard king/god`; sometimes uses `fresh`. SRT `Buckbuck`, `Bachbok`, `Bokbak`; spelling also appears on [wiki's main page](https://twbd.fandom.com/wiki/There_Will_Be_Dungeons_Wiki). Loyalty/future alliance not assumed |
+| **Rasfer II** (goblin champion) | E006 ~00:01 GM recap identifying E005 goblin battle participant | Retrospective name from E006, **not documented as first spoken E005** |
+| **Jenjen** | E006 ~00:45–00:55 | Widow of former Hill Guard **Thomas**, upset at his death and the inconsistent accounts surrounding it. `Gen Gen` ASR alias |
+| **Aaron** | E006 ~00:58–01:06 | **Wilma's husband**, killed by Stanley in a night-time knife ambush. Stanley claims self-defense; Wilma later contests his actions |
+| **Wilma** | E006 ~01:35–01:52 | Farmer/community figure who confronts Stanley publicly, brandishes a gun; ultimately disarmed. No fair trial or settled legal finding yet |
+| **Tetsuo** | E006 ~01:20–01:35 | Tall half-orc associated with volunteer wall defense/militia. Challenges proposal that Jimster replace him; retains defense role when Jimster offers to help |
+| **Zorenthelas** | E006 ~01:30 and ~01:57–02:29 | Elven Scoutmaster. Speaker of claims about **Elhandar**, dragon hearts/engines and elves' skyward mission; accepts automaton's **data core** from Stanley. SRT `Xoranthulus`, `Zoranthulus`; [wiki E006 form](https://twbd.fandom.com/wiki/Episode_6) `Zorenthelas` |
+| **Shun'ti Stoutbarrel** | E006 ~01:19–01:31 | Takes temporary **townmaster** responsibility after Hillmaster's death; also translates Hope's wrench's Dwarven statements |
+| **Boxto** | E005 ~02:30 first map gift; E006 ~01:20–01:33 trading-policy meeting | Halfling trader, with family; name/surname `Boxto Rintolile` / `Boxto Lintorile` disputed even across wiki E006 text |
+| **Disoriented old man** | E006 ~02:48–03:10 | Fears mysterious lights; E007 ~00:30 Bok Bok drags him back after a beetle encounter. No confirmed personal name, origin or prophetic insight |
+| **Leopold** | E008 ~01:06 name disclosed; ~01:23–01:49 discussion/projection; ~02:59 threat | Claims to run a top-secret underground facility, controls doors and projected environment; denies being a computer. His actual nature and motives **unresolved** |
+| **Luminous/appealing entity and fiery voice(s)** | E006 ~01:43, E008 ~00:06–00:10 | Appear in Nash's private visions of the solar mines and offers/requests for power or release. **Do not merge into an established named character or treat visions as third-party verified history** |
+
+### Guest performers and characters (E008 onward)
+
+At **E008 ~00:00–00:02**, the host expressly states that **Kyle and Kristen are temporarily away** for two sessions, and that the guest participants introduce **different characters** rather than acting as Vorel and Hope. [Fan wiki main page](https://twbd.fandom.com/wiki/There_Will_Be_Dungeons_Wiki) lists them among `Sometimes Heroes`.
+
+| Real participant | Character | Evidence and notes |
+|---|---|---|
+| **Carter Johnson** | **Edison Manchester III** (SRT nickname **Eddie**, wiki **Eddy**) | E008 ~00:01 host introduction and ~00:16 in-character self-identification; **gnome** |
+| **Ben Bumhofer** | **Chance** | E008 ~00:01–00:02 host introduction and ~00:16 in-character self-identification; **gnome** |
+
+**Nash** remains associated with Scott Johnson, **Stanley** with Jon Jagger and the GM with Beau Schwartz. Guest appearances do not justify relabeling Kyle/Kristen's characters or propagating E008 `speaker N` labels to prior episodes.
+
+
+## E009–E012: survivors, officials, captives and rival power brokers
+
+**Primary evidence:** [E009](../../../episodes/E009.md), [E010](../../../episodes/E010.md), [E011](../../../episodes/E011.md), [E012](../../../episodes/E012.md), all sourced to **unverified processed SRTs**. Individual character and cast labels should be time-qualified.
+
+| Character / working name | Episode/time | Role and epistemic caution |
+|---|---|---|
+| **Leopold** | E009 ~00:05–02:15 | Continues from E008; issues badges and access, describes underground containment and threatened survival needs. A **warden AI protocol** is seen among controls. His self-reported identity and benevolent motives remain disputed |
+| **Imprisoned tree / alleged former elf** | E009 ~01:03–01:14 | Claims to have been forcibly transformed during ancient anti-dragon research, seeks release by ending the facility; a gift staff is observed near E009 ~03:02. **Claims, not proven origin** |
+| **Edison Manchester III** (Eddy/Eddie) and **Chance** | E009 ~00:00–03:13 | Returning **guest gnomes** played by Carter Johnson and Ben Bumhofer. **Fall into collapsing facility**; GM explicitly says out of game they are **not dead**. Their in-story whereabouts are unknown at E009 close |
+| **Vorel** (Kyle) and **Hope** (Kristen) | E010 ~00:00 | Their original performers return; characters never became the guest gnomes. Reunite with Nash and Stanley topside |
+| **Principle** | E010 ~01:27 onward | Claimed ruler/ideological authority invoked by Slavetown's orc warriors and magistrate; **name/type unresolved** (`Principle`/`principal` SRT variants) |
+| **Orc enforcers / Koromukishi** | E010 ~01:04–03:18; E011 ~00:06–00:15 | Armed order associated with Principle's law. SRT names include `Koromukishi`/`Kuromukishi`; escorts `Sir Steel Nuts`/`Sir Steelballs` and `Sir Black Trank` require speaker/audio corroboration |
+| **Slavetown magistrate** | E010 ~02:14–03:19; E011 opening | Elf, self-identification approximates `Ethanilia`/`Ethanelia` of Bogbottom. Oversees trial, ceremonially accepts winners; no established impartiality |
+| **Lady Saltbubble / Sir Chickenfinger** | E011 ~00:10–00:15 | Koromukishi-affiliated figures inviting the victorious party to apply to their order; spelling unverified |
+| **Slippery Brent** | E011 ~00:15–00:26 | Hustling seller of Slavetown street map, bearer of a wealthy patron's invitation; name provisional |
+| **Celibus Stump** | E011 ~01:30–02:15; E012 ~02:28–02:45 | Well-connected gambling/hospitality patron at **Buxom Confederate**, financially rewarded by winners' upset; may offer help freeing captives in exchange for disputed **mine deed**. `Syllabus`, `Selylus`, `Sullivan` machine variants; not the Jeweler |
+| **Talia Bane** | E011 ~01:45–02:12; E012 ~00:40–00:46, ~01:35–01:48 | Mother of **Bruce Bane** from Dusthill; now coercively held at an entertainment house in Slavetown. Named `Talia` in E011; surname from [wiki Bruce Bane page](https://twbd.fandom.com/wiki/Bruce_Bane). Stanley briefly shelters her in a hotel; **not freed** |
+| **S. J. Lattlebing** | E012 ~00:08–00:46 | Halfling hotel proprietor, works at reception; exact surname orthography unverified |
+| **The Jeweler** | E011 ~02:47–02:58; E012 ~00:46–01:10 and ~02:47–03:12 | Swaggering opponent of Nash at the **Sapphire**; after a fight, Nash loses possessions. Later opposes Principle/Oilbeards and offers assistance, claiming Dusthill's Hillmaster and Softhead compromised the town. **Claims require independent verification** |
+| **Trigger** | E011 ~02:54; E012 early | Large half-orc acting at/near Jeweler's establishment; involved in Nash's late-night challenge; separate from the Jeweler |
+| **Trentard Oilbeard** | E012 ~03:04–03:09 | Mine owner and antagonist in the Jeweler's history of Slavetown's conversion to slavery; **name and history reported by Jeweler** |
+| **Mabruk Oilbeard** | E012 ~03:01–03:03 | Son of an Oilbeard reported dead amid mine-deed dispute; spelling and circumstances need independent confirmation |
+| **Timber McClellan/McClelland** | E012 ~03:00–03:03 | Missing man allegedly sent by the Jeweler to locate the mine deed; unverified identity/spelling |
+| **Catherine Speckles** | E012 ~03:01–03:04 | Woman alleged to have notarized/taken deed and disappeared, possibly stayed at hotel; **allegation, not independently observed event** |
+| **Unidentified woman with red bandolier** | E012 ~03:02–03:05 | A local famous outlaw and gang figure according to Jeweler; party speculates on identity. **Do not conflate her with Catherine Speckles** |
+
+**Critical prisoner distinction:** The adventurers' trial victory and subsequent acquittal (E010–E011) **do not** release the Dusthill abductees or permanently free Talia. These are separate unresolved objectives at E012's end.
+
+The later fan wiki can supplement orthography without retroactively granting the early cast knowledge of E013+ identities or using campaign-end character builds for E009–E012.
+
+## E013–E014 / E013.5 additions (unverified SRT evidence)
+
+| Person or group | Recording and approximate time | Role, action and limits |
+|---|---|---|
+| **Hope** | E013.5 ~00:12–00:22 (**in-story E008–E009**) | Tells Vorel she seeks to **travel into the past** and complete an ancient **dark pact**, expecting dragon engines to be involved. This is **character motivation/legend**, not a validated time-travel rule or confirmed past event |
+| **Vorel** | E013.5 ~00:12–00:22 | Shares traditions about red celestial `Exantos`, lizardfolk and dragon breeding stories; challenges consequences of erasing others' futures. **In-character worldview**, not objective species/cosmos fact |
+| **Stanley (Jon)** | E013.5 ~00:01–00:10, ~00:23–00:26 | Provides **in-character retrospective recap**, including the claim the E010 old man died in the Rusty Cage. His perspective may be incomplete; the release is not a fresh played session |
+| **Bertrand / the Jeweler** | E013 ~00:19–02:00; E014 00:00 recap | Man called **Bertrand** by attacker, **`Bertrand Mulg`** (ASR candidate) in later GM recap. **Wounded by cartel, healed, alive after E013**; his deals and identity are separate from Stump |
+| **Lactid / Lacted / Lactic Cartel** | E013 ~00:19–01:50; ~02:04–02:12 | Armed criminal network involved in assault on Sapphire; **Stump claims** ties to Principle City and economic rivalry with Oilbeards. Exact organization spelling and purpose pending |
+| **Donk (ogre)** | E013 ~00:21–01:52 | Supports Jeweler against armed assailants, **found dead** in aftermath; distinct from large enforcer of the arriving cartel |
+| **Trigger** | E013 ~00:21–02:00 | Protects the wounded Jeweler and remains at his side. Bodyguard/employee; not established as leader of cartel |
+| **Sheriff Randy Clementine (?)** | E013 ~01:05–02:02; E014 ~00:16–00:42 | **Slavetown's local sheriff**, independently acts during aftermath and cyclops dispute; not the Principle's elven **magistrate** |
+| **Old One Eye / cyclops (no confirmed proper name)** | E013 ~02:32–end; E014 ~00:05–00:36 | Huge one-eyed being demanding stolen magical `shiny`; knows someone called `Thailander`/variant, enchanted by magic tricks; age, identity, intentions and formal name unresolved |
+| **Robert / Thailander / Tylander (?)** | E013 ~02:24–02:31; E014 ~00:20–00:50 | Possible names or mistaken aliases of well-dressed, suspicious man in purple top hat / associated wizard. Link is **hypothesis** pending audio, not a proven merged entity |
+| **Red Scarlet** | E013 ~01:12–02:12; E014 ~01:09–01:16 | A name/signature or network in a note addressed to Timber, mentioned amid regional underworld events. **Cannot safely infer its allegiance, membership or identity** |
+| **Timber McClellan/McClelland** | E012 ~03:00–03:03; E014 ~01:09–01:16 | Jeweler's reportedly missing agent. A note **addressed to Timber** is found with a mutilated corpse, but this does **not identify the corpse** |
+| **Randall Owen** | E011–E012 garage; E014 ~02:20–02:28 | Owner of garage where Hope worked; **his fresh corpse is positively identified in GM-narrated scene**, with severe mutilations. Not identical to first corpse upstairs by default |
+| **Unnamed ritualist** | E014 ~02:32–03:00 | Apparent sorcerer using deceptive gnome-like figure and gas, threatens group over necklace, claims **Catoblepraithe the Soulbroker** as patron and animates corpses. Identity and authenticity of his boasts remain unsettled |
+| **Catoblepraithe / the Soulbroker** | E014 ~02:56–03:00 | **Named alleged demonic patron**, *not physically appearing* by the cliffhanger. An [archived illustration](../../../sources/images/Catoblepraithe_-_Audie_Norman.webp) supplies a spelling/art lead only, with source-era and media permissions unverified |
+
+**Supplemental disclosure boundary:** E013.5 is heard **after E013** but its Hope/Vorel conversation is set **while Nash and Stanley are underground in E008–E009**. The newly published dialogue can be referenced as earlier story-time character testimony **without** inserting it into E008/E009 audio transcripts or allowing other characters to know it automatically.
+
+## E015–E016 character and power developments (processed SRT only)
+
+| Person / designation | Time and source | Distinction and unresolved questions |
+|---|---|---|
+| **Tylander Sullivan** (aka **Robert** as presented in-town) | E015 ~00:02 GM recap and ~00:19–01:45; E016 ~02:19–02:33 | Name now supplied in GM recap (ASR `Thailander`, `Thailand`). **Killed in E015 combat by Hope/Vorel**; later magistrate says he **came back** and killed soldiers, not independently encountered alive by the party in E016. Ritualist's possible demonic pact remains a **reported explanation** |
+| **Orp**, giant cyclops | E015 ~00:02–02:36, E016 ~00:09–00:38 | Personal name explicitly used (ASR `Gorp`, `Gorb`, `Oop`). **Alive**, briefly knocked out and threatened with execution. Hunts/eats people; **deceived by Nash/Vorel** to head for Esophageal Pass with ordinary dagger presented as magic. No confirmed trader casualties by E016 close |
+| **Sheriff Randy Clementine** (?) | E014, E015 opening GM recap | E015 recap explicitly says **Orp killed sheriff after he fired at giant** during E014. Surname spelling still needs listening; distinguish local sheriff from Principle magistrate |
+| **Lady Saltbubble / Sir Chickenfinger** | E015 ~01:44–01:55 | Koromukishi officers praising apparent killing of Tylander, say his campaign threatened slavery; **speaker/institution claims**, no proof of Tylander's real allies |
+| **Nash Maggard** | E015 Orp discussions; E016 ~02:03–02:10 | Directs Orp toward **trade traffic** with Vorel; later undergoes **observable dark scaling and sudden flames** as **dragon flies overhead**. Hears **private voice calling “Mother”**—not proof of parentage or voice identity |
+| **Vorel Rasvim Kurik** | E015 spell enlargement and killing Tylander; E016 ~00:31–01:52 and ~02:33–02:39 | Earlier curse/ghost-hand inflicted by Tylander, later seeks kin, **ritual with lizardfolk priestess** and **flaming rage** in vision. Scene separate from Slavetown negotiations. Priestess recognizes old **Kurik** lineage; assertion requires corroboration |
+| **Lizardfolk star/fire priestess, title Tepala (?)** | E016 ~01:25–01:52 | Woman at tent, recognizes Vorel's lineage, commands a spiritual/ritual trial and teaches of **Fuxi / Father of Fire**. **Her claims are testimony**, not verified origin of gods, tribes or Vorel's powers |
+| **Fuxi, Father of Fire** | E016 ~01:33–01:49 | Priestess claims trapped ancestral force/deity. Pronunciation appears `Fushi`, but **GM spells F-U-X-I** ~01:47 out of game. Name/spelling is strong SRT-supported lead; divine nature unverified |
+| **Bok Bok** | E016 ~02:33–02:39 | Reappears with Vorel near ritual camp, warns of **walking dead**, then accompanies him **back toward Slavetown**; he does not independently verify the exact count/identity of animated bodies |
+| **Catherine Speckles** | E012 report; E016 magistrate ~02:23–02:33 | Magistrate says her name appears in **land-claims office** for **999th floor of Black Mine**. **Official's report**, not independently inspected deed |
+| **Principle's elven magistrate** (Ethanilia / Ithanelia ?) | E016 ~02:19–02:33 | Reports **Tylander's return and many troop deaths**, urges **Black Mine investigation** and promises **Dusthill captives' freedom and no more raids**; powers/commitments/land record are **official claims**, not completed actions |
+| **Randall Owen and unidentified woman** | E014 ~02:24, E016 ~00:44–00:51 | Garage owner **Randall** positively identified dead E014; **adult woman** found dead at family-associated home E016. Magistrate also recounts an **Owen child** lost to vehicle accident. Need exact identities and chronology |
+| **Eddie and Chance** | E008–E009 only (carried unresolved) | Nothing in E015–E016 resolves their underground disappearance; unrelated **gnomes** seen earlier in Slavetown are not these guests by default |
+
+The titular **Dragon Mother** should **not** be represented as a newly identified female dragon character in the E016 directory. **Nash hears a private voice address “Mother”** while the external party witnesses a dragon and his transformation, but the speaker, addressee and family relation remain uncertain.
+
+**Inventory continuity:** Orp's **ruby-bead necklace** moves between him and party members during E015; E016 host clarifies part of its retrieval. Tylander's offered *mine deed* disappears as smoke. Record final inventory only after cue-level and audio review.
+
+## E017–E018: new people, testimony, perceptions and deaths
+
+| Working name | Episode / approximate time | Evidence and limitation |
+|---|---|---|
+| **Maripol Bania** (spelling provisional) | E017 ~00:32–00:57; E018 opening recap | Tiefling apothecary in Slavetown, provides topical remedies and an experimental calming substance later named **Pixie Blush**; offers **Hope** a tarot/card warning. Her character statements about safety or divination require verification. **Do not assume she died in the E017 fire** |
+| **Jolt / Joel Telagos** (aka **the Acrimonicar (?)**) | E017 ~01:00–01:16; E018 intro | **Red-bandolier woman** speaks with Vorel and recruits for a **planned robbery** of Forbisher's Holdings bank. Exact proper name, posse title and affiliations uncertain; she is **not proven identical to Red Scarlet or Catherine Speckles**. **The bank robbery is not shown** |
+| **Bok Bok** and **Gita / Gitert** | E017 ~01:00–01:10; E018 OOC discussion | Goblin returns with Vorel then seeks a female acquaintance at the **Sapphire**; location/fate after the Slavetown fire is unresolved. Intro concerns in E018 are partly out-of-game, not confirmation of rescue/death |
+| **Nash Maggard** | E017 ~00:35–end; E018 ~01:04–01:14 | **Takes Pixie Blush**, perceives hallucinated beings, contributes to **real explosives-site fire**; in E018 recounts the nail in his staff, which **he calls “Freedom,”** acquired/used in the Solar Mines according to his firsthand narrative. Separate **Nash testimony** from GM-observed scenes |
+| **Hope** | E017 preparations, apothecary, escape; E018 storm | Receives a **card-reading prophecy** from Maripol, tends to injured party, gets a replacement station wagon and navigates the storm. Prophecy is **NPC claim** |
+| **Stanley** | E017 ~01:40–02:08; E018 ~02:15 onward | Seriously wounded by **foundry owner**, travels while recuperating; later casts **Feather Fall** in mine shaft. Owner's status and the exact effects of wound require audio review |
+| **Vorel Rasvim Kurik** | E017 ~01:00–end; E018 sandstorm / mine | Considers prospective **bank heist**, kills foundry owner after confrontation, guides party through buried-car escape. These are recorded actions, not evidence he completed heist |
+| **Foundry owner (name unverified)** | E017 ~01:40–02:08 | Armed man/owner confronts trespassers and fires; Vorel kills him. Do not conflate him with deceased **Randall Owen** (garage proprietor) |
+| **Scrolly / Scrawly Oilbeard (?)** | E018 ~01:34–02:16 | Dwarven guard/leader at Oilbeard Black Mine; reports **uprising** and describes deliberate **starvation via sealed elevator**. Name, rank, exact miner/guard numbers and presumed dead men **unverified**, and his justification is an interested slaver's account |
+| **Tickles** | E018 ~01:39–01:48 | **Human** confined in helmet/chain and made to crawl like a dog; his captor's claim of his origin is not trustworthy |
+| **Eight cloaked attackers (?)** | E018 ~00:46–01:00 | Small javelin-users driven back by Hope's Infernal magical voice. **Species and affiliations unknown**; no confirmed deaths |
+| **`Freedom`, two different named items** | E014 and E018 | E014's recovered **gun** called `Freedom` versus **Nash's nail** `Freedom` revealed in **E018** testimony. **Do not merge characters/items or give the gun Nash's Solar Mines origin** |
+
+E018 depicts the group encountering **undead** near the Black Mine elevator after hearing about a supposed slave uprising. It does **not** establish that the missing enslaved miners are all zombies, that Catherine Speckles or Tylander is present, or that any Saltbubble/Chickenfinger promises have been fulfilled. See [E017](../../../episodes/E017.md), [E018](../../../episodes/E018.md) and [spelling/issues register](../../../world/CONSISTENCY_LEDGER.md).
+
+## E019–E021: Tickles, Tylander's family claims, Dorothy and Catherine
+
+**Evidence:** [E019](../../../episodes/E019.md) · [E020](../../../episodes/E020.md) · [E021](../../../episodes/E021.md), all **unverified processed Parakeet SRT**. Name spellings remain provisional unless explicitly shown in a found source or spoken/spelled by the GM.
+
+| Entry | Recorded first development / time | Role and degree of confidence |
+|---|---|---|
+| **Tickles** (human captive) | E018 first seen; **E019 ~01:30–03:07; E020 ~00:14** | Human degraded by dwarf overseer into “dog” role, **joins party on falling elevator**; survives deep shaft fall but is **crushed by E019 rockfall**, uncovered unresponsive with crushed helmet **E020**, where party concludes **dead** |
+| **Scrolly / Scrawly Oilbeard** | E018 overseer; E019 ~01:30–01:40 | Topside guard leader who **sends elevator back down** upon seeing undead; existence and action supported by E020 GM recap; exact spelling and family relationship unknown |
+| **Tylander Sullivan** | E020 ~01:00–01:08 journal; E021 ~01:55–end | Diary **explicitly bears his name**. His **day-245 account** names a lost family and a voice promising power; in E021 a **visible speaking projection/illusion** of him recounts being **former mayor of Pristine** and offers political justification for his killings. His claims are not GM-certified history |
+| **Mariosa** (spelling candidate) | E020 ~01:00–01:03 | Named **recipient of Tylander's journal**, framed as beloved/lost person. E021 Tylander speech links to wife/family, but don't assign diary's exact kinships without listening |
+| **Daisy, Tobyl/Tobel, Lily** | E020 ~01:01–01:03 | **Lost people named in Tylander's written recollection**; exact spellings, relationships and ages not separately proven |
+| **Unidentified male skeleton in study** | E020 ~00:47–01:20 | Old **male remains** in bed with Tylander's diary elsewhere in the room. **Not identified as Tylander or any named relative** |
+| **Tainted displacer beast** | E020 ~01:31–02:35 | Large tentacled, shifting/blinking **cat-like monster**, visibly injured and brain-exposed, fights party near chasm and is **killed by Vorel**; separate from E009 gibbering mouther |
+| **Hope** (private whisper) | E021 ~00:04–00:09 | Only Hope hears demonic whispers saying **“find me”** in magical darkness, while the other players are asked to remove headphones; source of voice *not identified* |
+| **Dorothy** | E021 ~01:20–01:45 | Apparently **talking door/metal face**, riddles and negotiation; claims maker/mother and agency; magic vs authentic sentience unresolved |
+| **Fingers of Catoblepraithe** | E021 ~01:55–03:02 | **Eight** pale hooded followers in Tylander's chapel, transformed into clawed/eye-spiked assailants, **defeated** by party; distinct from mine elevator undead and Oilbeard guards |
+| **Catherine Speckles** (captive) | E021 ~03:03–03:12 | Female prisoner **self-identifies** as Catherine in chapel-associated cell, gravely mutilated, asks for apology/love message to **Bertrand** and lapses into unresponsiveness; party **believes she dies**. Separate from Tylander's earlier impersonation |
+| **Tylander's `Catherine` disguise** | E021 ~02:12–02:17 | Tylander **visibly changes to Catherine-like female appearance** to illustrate deception; do **not merge** with actual prisoner or use impersonation alone to discredit her identity |
+| **Bertrand Moog/Mulg**, the Jeweler | E011–E013, E021 ~03:07–03:11 | Recipient of alleged **real Catherine's** farewell message; SRT surname sounds `Moog`/`Mulg`; E021 does not show him receiving it |
+| **Winged oily black figure** | E021 ~03:18–03:21 | ~20-ft **dark winged apparition/creature** with pale-glowing eyes and mouth, speaks beside Tylander at a cauldron; **not conclusively identified as Catoblepraithe in E021**, despite patron's earlier mention |
+
+**Important identity separation:** E020's old **male skeleton**, E021's **real captive woman claiming Catherine**, **Tylander's Catherine impersonation**, and E021's **apparent projected Tylander in the chapel** are **four different evidentiary referents**. Don't equate them solely by nearby writing or magical disguise.
+
+The show-era **fan-art inventory** can aid research but is not independent audio/chronology proof; see [image register](../../../project/IMAGE_ASSETS.md).
+
+## E022–E024 character developments and identity cautions
+
+| Person/entity | New source | Status and confidence limits |
+|---|---|---|
+| **Quizquaz / Quizquas** | E022 ~00:10–03:05, E023 opening | **Winged returning oil demon** from E004, distinct from the beholder and **Catoblepraithe**. Extracts a dark beholder stone to open a reality tear; becomes the Soulbroker's subordinate/host liaison. Spelling pending |
+| **Beholder in the ritual stage** | E022 ~01:22–03:00 | Eye-stalk creature hidden beneath platform; **defeated**. Charming influence on Vorel and complex effects are direct session action; **not Catoblepraithe** |
+| **Vorel** | E022 fight; E023 contract; E024 return | **Magically charmed to fight friends** and subdued, then **healed/decharmed by Soulbroker**. **Refuses the soul pact** while the other three sign. Later makes a **normal shield from beholder teeth**, not inherently enchanted |
+| **Catoblepraithe / the Soulbroker** | E022 cliffhanger; E023–E024 | **Goat-headed demon** who invites party into his otherworldly château, offers a contract and manifests immediate boons. Claim to rank, trustworthiness, accuracy of his history and Celestium strategy all remain interested speaker claims |
+| **Hope** | E023 ~01:45–02:07; E024 ~01:23–01:28 | Has **private mother dream**; mother claims father alive and abducted by red-bandolier woman / Dead Men. **Signs pact**. Soulbroker later offers qualified **agent report** of possible Principle City captivity; not independent confirmation |
+| **Hope's mother (dream figure)** | E023 ~01:45–02:02 | Appears in private dream and claims **afterlife exchange** to see daughter, and survival of father. **Identity/authenticity and claim unverified** |
+| **Hope's father (missing)** | E023 dream; E024 report | Reportedly survives Haven raid; exact custody and location **not witnessed**. A red-bandolier woman/Dead Men is a named lead, not verified culprit |
+| **Nash Maggard** | E023 pact and E024 ~00:06–01:09 | **Signs pact** and receives private Solar Mines memory/vision. **GM confirms dragon-metal heart** from broodmother `Kas de Jira`; physically transforms into black **dragon wyrmling**, speaks/flies; drawback **exhaustion** and further stage progression not available as early present power |
+| **Warden / Bulger** | E024 ~00:06–00:50 | Apparent Solar Mines authorities from Nash's **private induced memory**; not an independent present-day meeting or proof of each historical detail |
+| **Stanley** | E023 ~02:35–02:47; E024 | **Signs pact**, gains extra boon/feat distinct from level-4 upgrade; later identifies the chest's **clairvoyance** and **mind-reading** potions |
+| **Red-bandolier `Acrimonicar`** | E017 recruitment; E023 Hope-dream lead; E024 artifact clue | Might be linked across the red-bullet description and two accounts; **dream, demon claim and direct E017 encounter are distinct evidence**, not proof of guilt in Hope's family's fate |
+| **Fox and Scully** (paired revolvers) | E024 ~01:09–01:15 | Two **allegedly** powerful guns given as **quest-location intelligence**, not items recovered or wielded by party |
+| **Bertrand / Jeweler and Catherine** | E021 and E024 chapel return | Catherine's personal message **still undelivered**; corpse revisited and searched, **deed absent**, former chest opened separately. Jeweler's surname still ASR-uncertain |
+| **Dorothy** | E021, E024 ~02:00–end | Talking door apparently burned, but **voice still heard** through smoke; no definitive destroyed/dead status |
+| **Chef Dan / Baba** | E023 hospitality | Staff associated with Château Weir meals/accommodations; exact spelling and ontological status unverified |
+
+**Episode time gate:** The Soulbroker's pact bonuses only apply to **Nash, Hope and Stanley**; Vorel's own level increase and E016 Fuxi-based aura are **not** a pact. Nash's private Solar Mines scene is not automatically known to others, though his **physical transformation is witnessed** by all.
+
+## E025–E027 additional cast, actions and claims (processed SRT only)
+
+| Entry | Source | Role/uncertainty |
+|---|---|---|
+| **Nash** | E025 ascent and fight; E027 | Carries party as **enlarged dragon** out of Black Mine; dragon form knocked out during guard battle; exhaustion affects him. Later protected/confronted as **one of three Soulbroker pact signers**, not by personal choice of Umbilical Order |
+| **Scrolly/Scrawly Oilbeard** | E025 ~01:19–02:32 | Dwarf upper-mine leader, **violently interrogated/tortured, healed and reinjured, then thrown into shaft**. No later confirmed body finding. E026 discusses the event as serious, not peaceful resolution |
+| **Bok Bok** | E025 prison voice; E026 onward | **In prison with Bertrand and Trigger** after helping repair/recover **Fate 4**; travels with them after release, assists Vorel on bear hunt and accompanies the party in E027 |
+| **Bertrand, the Jeweler** | E026 ~00:07–01:20 | Freed from Oilbeard cell, provides **claims** about Tylander's earlier stoning, dragon-metal deed, Lactid undercity and threats to Slavetown; distressed about Catherine, later coordinates with **Liberators** |
+| **Trigger** | E026 prison/camp | Imprisoned with Bertrand and Bok Bok; later accompanies the restored RV/camp route. Do not assume killed during E013 |
+| **Unknown powered-armored visitor** | E026 ~00:37–00:45 | Arrives by buggy at mine, unchallenged and left behind; party **steals keys**. Connection to E027 armored paladin **suspected**, not automatically proven from appearance |
+| **Slippery Brent/Brint** | E026 ~02:15–02:42 | Disoriented apparent Pixie Blush user wandering near hidden camp, **coercively hurt by PCs**. His reports of talking animals may be drug experiences. **Survival/outcome pending precise source review** |
+| **Nameless ex-Koromukishi orc** | E026 ~02:42–end; E027 private conversation | Says he **removed eyes** and **renounced his name/order membership**; proposes cooperation to seal pass. **Chosen absence of name**, not a blank to invent |
+| **Stanley** | E027 ~00:00–00:30 | Withdraws distressed by group's violence; reconciled with companions; later learns to drive **Fate 4** and fights paladin. No permanent departure from group |
+| **Sir Ranko/Ranco** | E027 ~01:19–02:24 | **Umbilical Order** paladin in power armor with flight/weapons/mechanical auxiliaries; claims demon-pact detection, threatens 3 signers, attacks. **Killed after combat/interrogation**, although claims about order allegiance and beacon remain unverified |
+| **Ted/Tedna** | E027 ~01:03–02:40 | **Boy stowaway**, wants to be a hero, suffers injury when RV overturned; **alive/unconscious** when recovered. Not yet confirmed trustworthy or prepared for danger |
+| **Typalla/Tepala (?)** | E016 priestess; E027 challenge | Lizardfolk figure's name/title subject to audio. Diptak claims **marriage/consort dispute** with Vorel. **No verified marriage/selection** |
+| **Diptak of the Golden Land** | E027 ~02:40–end | Rival lizardfolk hunter with companions and raptor-like animals; demands **ritual challenge** over Typalla. **Charges at cliffhanger**, not defeated within episode |
+
+**Continuity:** An observed **charm** on Vorel (E022) is distinct from the E027 **challenger's allegation of an accepted consort arrangement**. Hope's family lead and the **red-bandolier woman** are not automatically connected to every new violent faction.
+
+## E028–E030: ally oath, Buttons and a forced archfey intrusion
+
+| Character/group | First relevant source | Supported outcome and uncertainty |
+|---|---|---|
+| **Diptak/Diptyk of Golden Land** | E027 challenge; **E028 ~01:17–01:35** | **Yields to Vorel** after prolonged combat and pledges clan aid, emissary at `Razhak Val` (spelling pending). **Survives** encounter; consort story about **Typala/Tepala** is his assertion |
+| **Diptak's brothers Loro/Thakak (?)** | E028 ~01:30–01:35 | Other hunters identified in dialogue; exact pronunciations and who speaks require review. Neither confirmed killed |
+| **Buttons** | **E028 ~01:55–02:10**, E029, E030 | Orange talking **cat**, glasses, metal replacement leg, scholarship. **Says** Arcanum Universalis wizard `Darguth/Jarguth` gave speech and a leg. Travels on Fate 4, accompanies Stanley in E029, later gives **Blink spell text**. Not a new humanoid feline species |
+| **Tedna/Ted** | E027 stowaway; E028/E029/E030 | Still with group, pulled toward oil cavern while entranced, helped out by Hope E030. His claims about absent parents and past fighting are **character testimony**, not independent history |
+| **Blort/Blork** | E029 ~01:07–02:13 | Large **human-torso/worm-like singing creature**, another mouth at rear, with hag called **Mommy**. **Killed/deflates** after fight with Stanley; exact name and biology require listening |
+| **Hag “Mommy”** | E029 ~01:13–02:13 | Elderly pointy-eared woman, says **she and son feed on captives' mana waves** to maintain prison wards. **Stanley later reports killing her**; precise death method/body confirmation requires source audio |
+| **Diontalus** (creator-authoritative written spelling) | E029 ~02:18–02:27 | Blue luminous elf-shaped being self-styled **archfey of carnage**; claims old war, exile/imprisonment, planned mass violence. **Stanley rejects bargain**, after which the entity **forcibly enters him as light**. Not a freely signed pact. Persistence/powers/identity unverified |
+| **Stanley Billings** | E029 solo, E030 | **Solo player Jon's decisions** include tying entranced Nash, tracking friends with Buttons and fighting Blort. **Explicitly refuses Diontalus**; failed Charisma save/forced energy transfer leaves unknown ongoing effects. Later loses **immovable rod** during escape and receives **Blink spell text** |
+| **Nash Maggard** | E029 tied on Fate 4; E030 ~00:04–00:52 | Entranced but physically **restrained** in RV; in E030 uses **Reduce** to get free and rejoins at oil-field shore. Not physically present at Stanley's archfey scene |
+| **Hope, Vorel and Bok Bok** | E028 end through E030 | Drawn into magical attraction, depicted in **altered dream/perceptual states**, rescued by Stanley/Buttons and escape collapsing prison; **do not automatically know the forced blue-light scene** |
+| **Guzzle Gang/Suckmaster** | E028 Buttons lore; E030 planning | Reported Teet ruler/faction, **not yet personally encountered** by the party at E030 horizon |
+
+**Pact separation:** Soulbroker E023: **Hope/Nash/Stanley voluntarily sign, Vorel refuses**. Diontalus E029: **Stanley refuses** and a magical intrusion follows. No supported evidence for a second consensual pact with the archfey.
+
+## E031–E033: Trashburg people, P0D, and unresolved identities
+
+| Character / group | Episode and source role | Evidentiary status |
+|---|---|---|
+| **Charlemagne** | E031 introduction, E032–E033 lodging | French-speaking **Trashburg innkeeper**; directly hosts group, adds map annotations and asks delivery to arms dealer. His descriptions of factions and prices are **his testimony/offers** |
+| **Suckmaster Din Bottle-Bite; Prince Alidwyr/Alidweer** | E031 stage | Teet ruler and publicly presented son; **announces upcoming marriage** to **Jolt**. Correct spellings/family details need audio/show-era source |
+| **Jolt Elegos / Bellicose, Acrimonicar** | E017 appearance, E031 public announcement | Publicly announced as **prince's intended bride**. Multiple SRT variants; do not normalize to either working form without direct listening/written source |
+| **P0D (“Pod”)** | E031 ~01:55–02:32 onward | Small living **pixie**, numbered aquarium escapee; says **Farmer Dewey** imprisons/mills pixies for **Pixie Blush**. Alive and sheltered at E033; testimony is **firsthand claim**, **not observed factory** |
+| **Farmer Dewey / Doctor Dickles** | E031 P0D story, E032 planning | Alleged producer and suspected city contact; **not yet visited**; name/affiliation unverified |
+| **Monsoon Cabbage** | E032 ~00:12–01:16 | Older tiefling **Twenty-Six Block** leader, offers conditional route into fortress if the party kills Toe Ripper chief. Deal **not fulfilled**, alleged authority limited to his own claims |
+| **Forty-Two Carnage** | E032 ~00:40–00:50 | Gang affiliate who says number in name records body count; **not an independently verified tally** |
+| **Bok Bok** | E032 ~02:00–02:18 | Returns wearing **toe necklace**, says he made friends; a Toe Ripper connection is likely but **not proof of formal recruitment or victim identity** |
+| **Buttons** | E032 ~01:37–01:46, later | **Witnesses E029 luminous intrusion** into Stanley, privately demands disclosure; **Stanley casts Suggestion to redirect him**. His eventual compliance is magically influenced |
+| **Tedna** | E032 ~01:46–02:00 | Suggests access through **wedding food-service work** after exploratory discussions; **no job obtained yet** |
+| **Jedel / Jetel McCready** | E031 Charlemagne reference, E032–E033 building | Named local arms dealer, **not positively identified with corpse** found on premises |
+| **Unnamed vampire-like attacker** | E032 cliffhanger, E033 fight | Fangs, bite, HP-max effect, regeneration and disappearance **observed**; exact creature kind and cause unknown |
+| **Hope** | E033 battle | Her **maximum HP decreases** from the bite. Finds **rocket launcher/two projectiles**. No verified infection or permanent transformation |
+| **Stanley** | E032 midnight and E033 closing | **Casts Suggestion on Buttons**; E033 increasingly volatile and says **“Stanley right now.”** Neither proves the archfey is him or that he voluntarily agreed |
+| **Gray Socks and Pounders** | E033 ~01:58–02:21 | Trashburg's **underdog Blood Ball team** and the fortress opponents respectively; offer to recruit Vorel, **game not yet played** |
+
+**Performer boundary:** Scott absent from **E033** (titled `Nashfree`), but the character Nash remains part of the campaign world. Do not conflate the out-of-game absence with a definitive change to the pact signatories.
+
+## E034–E036 — dual agency, team members and faction figures
+
+| Character or group | Episode/time | Observed action versus claim |
+|---|---|---|
+| **Stanley Billings / Diontalus** | E034 ~00:59–01:39, E035–E036 | **Dion overtly self-identifies while controlling Stanley's body** and admits forced E029 joining after Stanley rejected pact; **Stanley is alive and not then in control** by Dion's account, later apparently regains control. Their awareness-sharing, histories and possession mechanics remain partly **Dion's testimony**, not independent rules |
+| **Hope** | E034 mirror/old vampire book; E035–E036 | Seen with reflection, but **E033 reduced max HP** is not clearly cured. Participates in Blood Ball practice and two gang confrontations; **no confirmed vampire transformation** |
+| **Nash Maggard** | E034 training; E035 acid breath; E036 fight | **Gray Socks #7**; uses **dragon-heart acid breath** against Toe Rippers E035 and **full black wyrmling form** E036, receiving **two exhaustion levels**. Singer Angel Ashi chooses to accompany him at E036 end |
+| **Vorel Rasvim Kurik** | E034 onward | **Gray Socks #1**, frequently treats violent sport as honor; E035 **starts fight with Toe Ripper sentry**; E036 declares himself a would-be **Toe Ripper leader/Lizard King**, without proof the gang accepts |
+| **Stanley (team role)** | E034 | **Gray Socks #5**; the active speaker changes between **Stanley and Dion**. Do not count extra adventurer or assume every Dion statement is one Stanley would freely endorse |
+| **Hope (team role)** | E034 | **Gray Socks #3**. Future payment/performance conditional on actual Friday match |
+| **Coach Marlboro/Marlborough; Camel/Camille** | E034 ~01:39–02:41 | **Trashburg Gray Socks** coach and assistant/tailoring helper; exact spellings need listening; teach game-specific skill system and issue jerseys |
+| **Dashington (?)** | E033 bar stranger; E034 ~00:28 | Well-armed man Vorel says is interested in Stanley. Vorel fears he is hunting Stanley, **not verified** |
+| **Jedel/Jetel McCready** | E033 body, E035 confirmation by report | Charlemagne learns of a deceased man at his friend's site and **believes this was his friend**. No independent visual ID; parcel apparently not accepted by dealer. Episode title “Genitals McReady” is **not sufficient name proof** |
+| **Charlemagne** | E035 ~00:47–01:05 | Grieves friend, considers complaining to **Twenty-Six Block** about failure to protect him. His conclusion about identity and the party's theory about the theft are not independent forensic findings |
+| **Fango Rabbish/Ravish** | E035 ~00:13 onward; E036 | Card-game promoter/host at **Golden Gargoyle**, promises Angel Ashi show; in E036 leads party through **backstage/sewer route**. Shifts accent/manner; **actual identity/employer unresolved** |
+| **Angel Ashi/Angelashi** | E035 announced, E036 performance/escape | Glamorous singer performing at Golden Gargoyle; singles out **Nash**, later accompanies him to inn. Lyrics and statements about Suckmaster are not automatically independently verified biography |
+| **Blunt Goliver/Bluncolifer** | E036 ~00:37 onward | **Lizardfolk Toe Ripper authority/chief** with malformed legs, uses wheelchair, protected from an attempted influence spell by an unusual force; **not confirmed killed or captured** |
+| **Toe Rippers / shaman** | E035–E036 | Numerous gang members fight party; some **eat toes and claim increased strength**; no universally demonstrated buff or evidence entire organization was destroyed |
+| **Bok Bok** | E036 fight | Joins combat against gang members, remains with party during withdrawal; separate from disputed gang association and earlier toe necklace |
+
+**Milestone:** **Level 5** announced at E036 close; the GM explicitly says it does **not automatically restore HP/clear exhausted conditions**. **No Blood Ball match result** is available in this batch.
+
+## E037–E039 — personal revelations, fatal injury and faction assertions
+
+| Character / group | New episode evidence | Attribution / present status |
+|---|---|---|
+| **Vorel Rasvim Kurik** | E037 private meeting; E038 cave; E039 refuge | Receives **heavy valuables trunk** from Jolt's contact for his alleged Slavetown fire assistance and hides it; **beheads Blunt Goliver E038**, fulfilling head proof for Monsoon. **Buried with Bok Bok about an hour outside Trashburg**, future party awareness/recovery unresolved |
+| **Dashington (?) / Jolt contact** | E037 ~00:17–00:24 | Gun-carrying cowboy-like man who says **Jolt's crew stole Oilbeard safe contents** and offers another raid. Exact name/identity, offscreen account and Jolt's reasons not independently verified |
+| **Angel Ashi/Angelashi** | E037 ~00:29–00:55 | Performs temporary **flower/plant magic using contact with Nash's dragon-metal heart**, recounts elven/refugee past and hopes for passage home; spends intimate night with Nash, leaves before morning. Her old-world history is her testimony |
+| **Nash Maggard** | E037 private romance; E038 rescue; E039 | Shares heart information, experiences temporary botanical alteration, helps rescue Hope. Rest/exhaustion changes must be kept consistent with GM session rulings |
+| **Hope** | E038 near-fatal rocket blast, E039 fitting | Suffers face/eye/horn injury, **left arm and leg removed** and replaced with **mechanical prosthetics**. **Rocket fired/reversed at E037 close; E038 deals with damage**. E039 tests strong grapple and **concealed rocket payload** in mechanical arm. Her abilities are custom rules, not automatically endgame build |
+| **Blunt Goliver/Bluncolifer** | E036 survives; **E038 ~01:14–02:13** | Toe Ripper chief **fatally injured, beheaded by Vorel**; head **taken to Monsoon E038**. Monsoon later says leader was **Lactid-controlled**, a claimed interpretation |
+| **Dr Dickles** | E038 surgery; E039 confession | Provides medical assessment, amputation, X-ray and prosthetic referral. **Monsoon claims he ordered Dickles killed** after treatment, not a regular paid discharge |
+| **Sister Sarah / Metal Mandy** | E038–E039 | Cleric and prosthetics engineer, aid Hope. Hope's sedated recollection depicts attack; **Monsoon admits ordering their deaths**, but independent exact scene chronology/status require listening |
+| **Stanley Billings / Diontalus** | E039 public announcement | Wanted by authorities as alleged attempted murderer of an **Arcanum Universalis mage**; association with Buttons strongly suspected. **Charges are official accusations**, and the occupants' viewpoints on coercion/authority diverge |
+| **Buttons** | E032 coercion, E039 reports | Earlier saw E029 forced fey intrusion, then **was targeted by Stanley's Suggestion**; Teet search announcement cites a mage and Monsoon asserts **Buttons informed on them**. His current whereabouts, motives and alleged attempted murder **not observed** |
+| **Tedna** | E039 guard/Monsoon statements | Reported among **detained agents at keep**, not directly seen in a cell. Previously worked to establish catering entry |
+| **Monsoon Cabbage** | E038 head delivery, E039 briefing | **Twenty-Six leader** who examines severed head, facilitates care, says he later **ordered caregivers killed**, describes a **Lactid puppeteer**, offers under-Pit passage and tells historical **Tiat Cala** story. Claims alternate name `Sjeptwy/Septwyn Maer` (spelling to check) |
+| **Kefeli and Andreeste** | E039 Monsoon history | Names associated with tiefling past and the **Nourisher**—**Monsoon's account**, not characters met in this batch |
+| **Lazlo / Lazzlo** | E039 hideout | **Stone-bodied speaking attendant** in Monsoon's quarters, serves food, wardrobe/clothing. Identity and creation story beyond observation unresolved |
+| **Jolt** | E037 contact, E039 Monsoon suspicion | Reported leader of a **Slavetown loot raid**, and alleged would-be thief of **Gem of Tides** at wedding. Neither new crime is directly shown; Hope's goal of revenge remains |
+
+**Episode split:** Hope's **injury and amputations E038**; visible, functional **cybernetic limbs E039**. Monsoon's alleged Lactid investigation and claimed royal history are **E039**, not direct evidence of the E036/Gargoyle battle's causes.
+
+## E040–E042 character and entity updates (unverified processed SRT)
+
+| Character / participant | Episode reference | Played state versus claim |
+|---|---|---|
+| **Stanley Billings / Diontalus** | E040 ~00:06–02:51; E041 ~02:11–02:22 | **Dion** directs the body during E040's Teet/Guzzle disguise operation; the costume is an **illusion**, not a faction switch. In E041, **Stanley speaks for himself**, criticizes Dion's advice and **opposes killing Buttons**; there is no actual reconciliation or proof of Buttons's guilt |
+| **Hope** | E040 night chase; E041 descent; E042 puddings | **Prosthetic left leg still restricts walking**, requiring Vorel's assistance on approach; her mechanical arm and shotgun remain useful. Helps force E041's rusty hatch; reads **Infernal** wall script in E042 (private translation). Suffers serious **black-pudding attacks / corrosion** and shoots remaining ooze fragments. Her precise current HP, armor and other mechanics need audio and sheet audit |
+| **Vorel Rasvim Kurik** | E040 street battle; E041 pit; E042 caves | Enlarges/rages with **Ma Storm** and flame-burst power while pursued. Later **deliberately draws froghemoth** and cooperates to open hatch; hunts bugs underground. Against E042 black puddings prefers **fists** to preserve his sword; ends E042 by loudly calling to an **unseen “king”** |
+| **Nash Maggard** | E040 spells; E041 sphere; E042 examination | Uses Firebolt/Fireball/Ray of Sickness during surface fighting; takes **one unidentified, glowing sphere** near froghemoth in E041. In E042 **cuts it open and pockets a soft black core**, so he no longer carries an intact sphere. Uses spells against black puddings and discusses the object's possible sale/biology as **speculation**, not fact |
+| **P0D / Pod** | E040 scout; E041/E042 | Scouts Teet patrols on approach, but **does not have Darkvision** and cannot independently inspect the dark lower cave reliably; complains about this when returning in E042. Do not record all of her reconnaissance as omniscient |
+| **George (Teet Guard)** | E041 ~00:15 onward; E042 close | A Teet Guard who **begs not to be killed** after being swept into pit with pursuers; follows the party in hopes of survival. He describes **ordinary Trashburg citizens serving as Teet Guards** and claims to have a wife, family and accordion-playing skill. His stories are **character testimony**. He **accidentally fires into his own foot at E042 ~03:04**, badly splitting it, with care pending at cutoff |
+| **Two Phillips/Philips** | E040 ~02:10–02:28 | Guzzle-aligned searchers order two soldiers of uncertain nicknames into a dark zone; voices of distress are heard. Their purported death is **a claim/joke, not bodily confirmed**. Do not merge them with **George** or assume precise full names |
+| **Wounded Guzzle Gang pursuer** | E041 ~00:15–01:12 | Falls with party into the pit, **severely wounded**; distinct from George, does **not** become their continuing guide. Exact final moment needs listening |
+| **Unseen “king” / cave singer** | E041 ~02:33 through E042 end | A voice **sings of guarding cave/water and calls itself a king**. It is not yet identified, seen, fought or shown to possess the **Gem of Tides**; Vorel calls to it at E042 cutoff with **no recorded response** |
+| **Froghemoth** | E041 ~01:00–02:11 | **Large three-eyed tentacled beast**, present in Pit of Despair and physically distracted by Vorel/illusions. This is a **direct encounter**, unlike E039 Monsoon's initially interested intelligence |
+| **Other cave creatures** | E042 ~00:53–03:10 | **Pale tentacled worm-like lair occupant** seen and avoided; **two black puddings** fight party and ultimately are destroyed. Separate encounters, distinct from froghemoth and singing king |
+
+**Open identities/handouts:** The luminous sphere is not biologically confirmed as an egg; the stone boots have no identified owner; the Infernal inscription's complete private translation and the old **wooden stick's** properties remain unknown. See [E040](../../../episodes/E040.md), [E041](../../../episodes/E041.md) and [E042](../../../episodes/E042.md).
+
+## E043 special and E044–E045 participant/creature updates (processed SRT only)
+
+| Person / entity | Source | Directly played development versus attributed claim |
+|---|---|---|
+| **Jon/John Jagger, Beau Schwartz, Kyle Ferguson, Kristen Ashton, Scott Johnson** | **E043 holiday one-shot**, 00:00–end | **Jon DMs**, **Beau/Kyle/Kristen play** fictionalized versions of themselves transformed into fantasy archetypes; **Scott is absent as a live participant** but is portrayed in the fiction. None are additional Wastes PCs/NPCs here. **Santa, Christmas ghosts and an animated Vorel doll** belong exclusively to this special |
+| **Stanley Billings** | E044 ~02:44–02:48 | Says **“Stanley Billings” is a self-chosen new name**, admits failure/regret and asks the group to be better. **Does not disclose his previous name**. His E044 moral appeal and E041 defense of Buttons are his own views |
+| **Diontalus** | E045 ~00:11–00:25 | Controls **Stanley's shared body** after the rest and **intentionally kills George** with a dagger, explaining it as removal of a burden; says Stanley will be upset. The assassin is **Dion**, **not a freely chosen act by Stanley**. Later uses spells against basilisk/headache creature |
+| **George, Teet Guard** | E042 injured; E044 treated; **E045 killed** | E044 gets medical care after shooting his foot and hears Stanley's speech. **E045 dies after Dion stabs his throat**. His possessions include a **note from Martha Miller, stuffed rabbit, sandwich and padded armor**. Not killed by the black puddings, basilisk or natural infection |
+| **Martha Miller** | E045 ~00:30 | **Signed name on a written love note in George's possessions**. Likely close family associate, but relationship and whether she is the wife George earlier mentions should remain **inferred until corroborated** |
+| **Hope** | E044–E045 | Helps George with medical/equipment issues; attempts to stop **Dion's knife attack** but fails. Takes **Teet padded armor** following his death. Battles basilisk, disperses shadow fragments with firearms and fights at river. **Infernal-note translation from E042 remains private** |
+| **Vorel Rasvim Kurik** | E044–E045 | Carries wounded George, meets **giant river king** with rhymed performance, obtains food from bats/spider. **Kills a basilisk E045**, fashions one bone **javelin**, is weakened by wall shadow, keeps a **tiefling skull**. Not slain/petrified by basilisk |
+| **Nash Maggard** | E044–E045 | Receives the **identified Wand of Scowls E044**, takes old cigarettes; says they might be weed but this is **speculation**. Picks luminescent mushrooms and suffers spores; **E045 living black sphere core bites him, and he destroys it**. Avoids Fireball near P0D in final river encounter |
+| **P0D** | E045 ~02:12–02:50 | Feels **unnatural cold/dread** while scouting, then carries an illuminated stone toward **dark humanoid** at the river. **Nash consciously considers P0D's proximity before choosing a non-Fireball attack** |
+| **Hungui/Hungooey** | E044 ~00:58–01:22 | **Huge, humanlike self-appointed cave/river king** who requests rent/tolls and demands the party deal with an enemy he calls **“headache man.”** Receives valuables and offers a **conditional crossing**, **not unconditional safe passage**. Name phonetics require listening |
+| **The “headache man” / dark river humanoid** | E044 claim; E045 ~02:29–end | Giant's **claim of a troublesome rival** becomes **a directly encountered dark humanoid with hollow eyes, headache/necrotic effects**, killed by Dion. It is **likely** the same rival but there is no explicit independent identification in this SRT |
+| **Large mushroom-area spider / bats** | E044 | Bats and **spore-room spider** are defeated; party harvests food. The **spider-area bag** contains magical beans and skeleton key |
+| **Basilisk** | E045 ~00:49–01:19 | **Petrifying gaze** prompts everyone to avert eyes; slain by Vorel. GM describes oil useful for reversing petrification but party **does not produce such an antidote** |
+| **Unidentified living black core** | E041–E045 | Taken in whole sphere E041, separated E042, **becomes a biting hopping little creature in E045** and is **destroyed with Nash's Fire Bolt**. Its species is not verified |
+| **Tiefling skeleton and wall shadow** | E045 ~01:30–02:05 | Shadow drains/attacks Vorel then **disperses**, not confirmed eliminated. Skeleton supplies **earrings with three diamonds each**, skull/tailbone and **private writing**; body identity, writer and contents unresolved |
+
+**One-shot firewall:** [E043](../../../episodes/E043.md) uses separate performers-as-characters and does not contribute **Vorel action-figure magic, Christmas spirits, altered modern Earth or fictional Santa/John/Scott events** to the canonical Wastes chronology. See [E044](../../../episodes/E044.md), [E045](../../../episodes/E045.md).
+
+
+## Written Discord name evidence (2026-10-21; orthography, not new plot canon)
+
+The [Discord spelling register](../../../reports/DISCORD_SPELLING_2026-10-21.md) records two of Jon's messages using **Diontalus**, explicitly **accepted by the archive owner as the canonical written form** of his character. Prior `Dion Talus` and `Deontalus` are recognized ASR aliases; recap `Diantalus`/`Diontalis` are secondary variants. **The E029 apparition and E034 control admission still require audio checks**; this spelling decision does not authenticate his narrated ancient history.
+
+**Other cast-written spellings (some from later Wastes material; name spoilers only, no early appearance implied):** **Nash Maggard** (Scott and Beau), **Stanley Billings** (Jon), **Tietkalla** (Jon, with two l's and no apostrophe), **Talia** (Jon), **Tedna** and **Pentael Wise** (Beau), **Vorel** and **Hope** (short forms). **Tietkalla** is a strong display/search candidate for corresponding **Tiat Cala/Tiat Kala** references *after identity is matched*, not proof of every historical claim. **Pentael Wise** may be distinct from the fan spelling `Pentelvice`. Short cast names do not independently certify the complete wiki surnames **Oriphi “Hope” Akmenos** and **Vorel Rasvim Kurik**; the recaps do separately contain **Akmenos**.
+
+**Unresolved names:** The Soulbroker remains **Catoblepraithe/Catobelpraithe** because the cast-shared summaries use both; the image filename is not independent proof. The singer is documented here as **Angel Ashi** but the cast-shared recap repeatedly writes **Angelashi**, with author/word division unresolved. **P0d/P0D/Pod** capitalization likewise varies. **Later-name spoiler warning:** Future cast-written **Dolopopio**, **Orp**, **Nothing**, **Squirts**, **Chunks**, **Steerious**, **Doctor Spy'der** and **Bloodskunk Hendrickson** are **later-campaign spelling leads**, not first appearances or episode-specific facts through E045. **The Eye of Groxl** is now the **archive-owner-confirmed canonical name for the one artifact** later heard as `Eye of Grojil`/`Eye of Groxel`; its identity is resolved, but the identity of any separately named **deity** in fan material remains unverified.
+
+Names in Jon's **Inverse** GM outline and Kyle's **Delvers** guide are in **different campaigns** and must not be added to this Wastes character table without separate in-campaign evidence. Archived D&D Beyond preview titles are neither character-sheet snapshots at the earlier timeline nor audio checks.
+
+## E046–E048 — Newly freed people, claims and shifting party agency
+
+| Entity | Approximate source | Played action, NPC testimony and limits |
+|---|---|---|
+| **Diontalus** | E046–E048 | Creator-accepted spelling retained. Uses spells against continuing headache creatures and studies ancient book/helmet; **Nash**, not Diontalus, casts **Reduce** to aid E047 extraction. **After an E048 long rest Stanley takes over the body** |
+| **Stanley Billings** | E048 ~01:14–01:20 | Personally states he **witnessed Diontalus killing George** and believes it was **retaliation/punishment toward Stanley**, who wanted George alive. Discusses later returning **George's child's keepsake to his family with Nash**; not yet done |
+| **Nash Maggard** | E046–E048 | Defeats final active headache figure with **Acid Splash**, receives **Robe of Useful Items**, uses **Mold Earth**, casts **Reduce on escaping tiefling in E047**, spends **ladder patch** in E048. Elder calls him **“crystal” arcane power**, which is **claim**, not independently proven. E048 **puts guards to Sleep and administers pixie blush**, causing major harm; **their deaths remain unconfirmed** |
+| **Vorel** | E046–E048 | Sustains dangerous river battle, temporarily unconscious/stabilized, then reported restored from shadow weakness. **Helps physically pull elder free of magical book**; takes **+1 AC lizardfolk-skull helmet**, helps with lift/shaft, and reunites with **Bok Bok** E048 |
+| **Hope Akmenos** | E046–E048 | Interprets riddle, plants magical beans, opens keyed hatch, reads Infernal books and note, **places preserved head in pentagram** to aid old tiefling. The elder **first mistakes her for a queen** and then alleges she descends from **House Akmenos's royal founder**. Does **not** affirmatively accept monarchy or abandoned opposition to Principal. **Freed Tedna** in E048 and embraces him |
+| **Old tiefling / “Dead Tongue,” Nobiery/Nobieri (unresolved name)** | E047 ~03:00 → E048 | **Physical prisoner released from moving illustrated book** in E047. Claims tiefling soul-shepherding role, **Night Pasture**, hidden heir, vampiric council, **twenty newborn sacrifices to Soulbroker** and an **army of about 1,000 from twelve houses**; asserts Septwyn is deceitful and **Kefeli may be a Medusa**. **Most lore is self-interested testimony**. Later **enters Château Weir alone**; no return by E048 |
+| **Tedna** | E048 ~03:04–end | **Directly found alive** in Teet keep prison, **freed**; embraces/kisses Hope. Says **Angelashi was imprisoned, called a traitor and taken toward the pit/“Fragger.”** This is **unverified secondhand information**, not a body or death |
+| **Bok Bok** | E048 ~03:04–end | **Directly found alive in a neighboring cell**, freed and joyfully reunited with Vorel |
+| **Angelashi / Angel Ashi (unresolved word division)** | E035–E037 direct scenes; **E048 secondhand report** | Tedna says **she was taken from prison and supposedly fed to the “Fragger”**. Her current survival/death is **unknown**; no corpse, rescue or firsthand death in E048 |
+| **Rory and another Teet prison guard** | E048 ~02:25–03:05 | Seen playing cards, then temporarily **asleep due to Nash**; Nash/P0D apply **large quantities of pixie blush**. Shown **convulsing/levitating**. Do not enter confirmed death |
+| **P0D / Pod** | E047–E048 | Scouts through overhead library openings and reaches office door in E047; scouts **prison corridor**, helps Nash acquire pixie blush and access in E048. Spelling/capitalization unresolved in recaps |
+| **Kefeli / Monsoon / Jolt / Soulbroker** | E048 NPC reports and party discussion | Elder's accusations of **old vampiric council** and **Kefeli's Medusa transformation**, **Septwyn's scheming**, **Soulbroker-harbored army** are **not independent confirmation** of those named entities' real motives/status |
+| **George's family** | E045 killed → E048 discussion | Stanley/Nash **propose** to return a child's memento and pay respects, **not a visit or confirmed delivery** |
+
+**Conflict boundary:** The elder's **Akmenos royalty and thousand soldiers** are not already delivered resources for the party. **Tedna/Bok Bok are rescued E048**, **Angelashi reported missing/dead remains unresolved**, and older statements of “no keep entry” apply only to **cutoffs before E048**. [E046](../../../episodes/E046.md), [E047](../../../episodes/E047.md), [E048](../../../episodes/E048.md); [spelling report](../../../reports/DISCORD_SPELLING_2026-10-21.md).
+
+## E049–E051 — Deaths, agency, gifts and restoration
+
+| Character / participant | Episode evidence | Status and source boundary |
+|---|---|---|
+| **P0D / Pod** | **E049** radio command/transformation; **E050 ~00:30** death | **Monsoon's order** precedes compelled growth and aggression; **Nash pleads to protect and calm P0D**. **Diontalus attacks and kills her in E050**; she **explodes into pixie dust** with no conventional body. **Not a willing traitor**, and giant pixies arriving E051 are different individuals |
+| **Buttons** | **E049 ~00:50–03:00** and E050 | Claims betrayal/bargain involving **Gem/Monsoon/Jolt/Principal**. **Killed by Vorel E049**, halved. **Diontalus absorbs energy from corpse E050**; **Stanley later uses Speak with Dead E050**, which yields limited responses rather than resurrection |
+| **Tedna** | **E048 freed alive**, E049 injured, **E050 ~01:20 death** | Remains seriously wounded after temporary stabilization by **Spare the Dying** and **dies after telling Hope he loves her**. Hope's vision of his ascent to **steel heaven** is **drug-induced**, not literal proof. His planned future wedding/companionship does **not occur** |
+| **Jolt Elegos** | E049 ambush; **E050** | Reveals she's to wed **Prince Aladweir**; attacks Hope with special guns. **Hope grievously wounds and ultimately kills Jolt E050**, while under severe pixie-blush hallucinations. **Fox and Scully / Smokey's belt** are taken by Hope |
+| **Dashington (phonetic name)** | E049 storeroom; E050 | Armed cowboy/outlaw helps Jolt, **shoots Hope** during post-combat confusion, is **killed by Diontalus E050**. Identity/name and earlier “honorable” encounter still to verify |
+| **Softhead** | **E049 ~00:20–00:39** | Previously swept down a river and presumed dead by some PCs; **directly reappears near Teet stores and escapes**, risking alerting the keep. Do not mark his earlier fall as a confirmed death |
+| **Diontalus** | E049–E050 | Replaces Stanley at E049 ambush, fights guards/Buttons, **kills P0D** after deliberately provoking her, kills Dashington, **harvests magical energy from Buttons**. **Vorel grapples him**, and trust fractures; **returns control to Stanley later E050** |
+| **Stanley Billings** | E049 scouting and E050 after crisis | Ambushed at E049 storeroom, cedes body to Diontalus, **regains agency E050**. Performs **Speak with Dead on Buttons**, grieves P0D, discusses risks of shared body and aims to find a safe way to remove Diontalus |
+| **Nash Maggard** | E049–E051 | Defends P0D as manipulated victim; deeply grieves her E050 loss. Helps fight warehouse enemies, finds **Gem of Tides** with party, makes **Pillars of Decency** discussion possible; **reverses Vorel/Hope petrification E051** with Stanley using old basilisk components. **Transforms into young black dragon E051**. **Trip accidentally kills fleeing guard** |
+| **Hope Akmenos** | E049–E051 | Frees Tedna E048, confronts Jolt and fights giant P0D, then **loses Tedna E050** and **kills Jolt under pixie-blush-induced distorted perception**. Receives paired **Fox and Scully** revolvers and **Smokey's ammunition belt** E050. Faces Kefeli E051, **is petrified and then restored in same episode** |
+| **Vorel** | E049–E051 | **Kills Buttons E049**, later opposes Diontalus over P0D and mistaken view of Dashington; proposes memorial **Pillars of Decency/POD E050**, enters Kefeli's chamber E051, **becomes petrified then is successfully restored** with basilisk preparation. **Bok Bok** accompanies/protects him |
+| **Bok Bok** | E049–E051 | Rescued E048, witnesses Buttons' death, attacks giant P0D to hinder her in E049, grieves petrified Vorel E051 and remains at his protective pillar while Nash and Stanley seek help. Reunited with living Vorel |
+| **Kefeli** (spelling disputed) | **E050 end and E051** | Living serpent-haired queen claimant in old Gem/pool room, **demonstrably petrifies Vorel and Hope**; tells her version of Akmenos, vampire council and Andreeste. **Petrified by reflected-gaze/Command maneuver, then destroyed as a statue by Nash/Stanley E051**. **No automatic mass unpetrification** |
+| **Monsoon Cabbage / Septwyn** | **E049–E051** | Issues **P0D order** and further radio threat, demands Gem, says more giant pixies sent. Competing future deals remain claims; **not present as a defeated body** by E051 |
+| **Principal / Prince Aladweir** | E049–E051 NPC statements | Main antagonistic force and intended groom **by Jolt's report**, but their present presence/death/ultimate deal outcome **not established** |
+| **Nobiery/Nobieri (elder)** | E048 last appearance → E051 | **Previously passed into Château Weir to seek alleged tiefling army**, has **not returned** by E051, so the supposed 1,000 troops remain promised rather than deployed |
+
+**Boundary:** Do not transfer E050 death status back to **E048** rescue notes; likewise **Hope/Vorel are not permanently dead or petrified at E051 cutoff**. Use [E049](../../../episodes/E049.md), [E050](../../../episodes/E050.md), [E051](../../../episodes/E051.md). Player-drug hallucinations do not prove the afterlife exists in the form portrayed.
+
+## E052–E054 — New sentient eye, surviving captive, returning army and crowned queen
+
+| Who | Source | Direct change vs uncertain claims |
+|---|---|---|
+| **Vorel** | E052 brain; E053 eye; E054 throne | Speaks privately to **froghemoth brain** but **does not become its verified master**. Acquires the **Eye of Groxl** (owner-confirmed; `Grojil`/`Groxel` ASR aliases), embedded in his chest with flaming shield and pressure to fight. **Scale color-changing** arises independently from pixie/mind-contact; can deliberately shift colors. Brings old buried hoard. **Attacks Monsoon, who escapes as mist**, and **kills captive Suck Master Din at Hope's signal** |
+| **Nash Maggard** | E052–E054 | Has small extra hand from mutated magic; explores froghemoth acid using **Alter Self**, casts **Robe rowboat patch E053**, is **young black dragon** to carry group back, **breaks throne-room wall** and afterward **frees Angelashi from Lazlo's stone grip via Mold Earth**; suffers exhaustion upon reverting |
+| **Stanley Billings** | E052–E054 | Accompanies adventure into froghemoth; cast spells subject to encounter anomalies. Leads/rests group with **Tiny Hut**; investigates eye and learns it's sentient; organizes **Pillars of Decency**/medical/George-family plans after coronation, **not yet complete** |
+| **Hope Akmenos** | E052–E054 | Survives froghemoth and rest, travels on dragon adorned with gold; confronts Monsoon in ruined throne room; **Angelashi's alive status verified**. Is **publicly crowned Queen of Tietkalla by Nobiery with hundreds of armed tieflings witnessing/chanting**; approves execution of Suck Master Din and **includes her non-tiefling companions in war council**. Future rule/civic choices yet tested |
+| **Froghemoth mind** | E052–E053 | Mentally converses with Vorel, refers to **future astral travel**, wants power snacks; **upper body ascends away**, **lower body dies/rots**. **Full organism's fate unknown**, don't infer permanent death or confirmed space travel |
+| **Eye of Groxl (sentient artifact)** | E053 GM exposition, E054 item reference; [owner decision](../../../project/DECISIONS.md) | **One confirmed item**, the sentient magical eye embedded in Vorel's chest, with independent approval/shame responses. `Eye of Grojil` (E053 ASR) and `Eye of Groxel` (E054 ASR) are **aliases**, not distinct objects; cast-written **The Eye of Groxl** agrees with canonical spelling. **Identity of a separately described deity/legendary warrior remains its own evidence question** |
+| **Angelashi / Angel Ashi** | E048 hearsay → E054 ~00:31 and ~00:53 | **Actually alive as hostage** of Monsoon/Lazlo. **Freed from stone grip** and openly **reunites with/kisses Nash**. **Tedna's earlier claim of her death was mistaken/unverified**, not a literal resurrection |
+| **Monsoon Cabbage / Septwyn** | E054 ~00:33–00:49 | In the throne; **claims to relinquish rule due to an alleged Andreeste claim** triggered by Kefeli's death. **Vorel wounds him, then he dissipates to mist and escapes**, not slain |
+| **Nobiery/Nobieri (Dead Tongue)** | E048 promise → E054 ~01:06 onward | **Returns through portal with hundreds of armed tieflings**, crowns Hope and helps convene council. Actual appearance supports **troop arrival**, not his earlier exact headcount, original sacrificial bargain or every house claim |
+| **Suck Master Din** | E054 | Found **alive restrained**, interrogated by party; **Vorel decapitates him with Hope's signal** in front of tiefling group. **Confirmed death** |
+| **Prince Aladweir/Hallidor** | E054 opening | **Body dead at Monsoon's throne**; exact name/relationship and possible reference to Din's son need close listening |
+| **Lazlo (rock-handed captor)** | E054 | **Holds living Angelashi hostage**, becomes **inert when Monsoon escapes**; stone hand still constricts until broken by Nash. Long-term personhood/state unresolved |
+| **Melgor of Poxis** | E054 ~01:14 onward | Armored **security/military house leader**, requests clearance, organizes units to **secure keep and kill resisting enemies**; prejudices against humans apparent; results of his forces' sweeps unknown |
+| **Fula Dentipilius / Relium Vanch** | E054 ~01:18 | **House leaders** volunteer respectively for **food/farms** and **building/keep repairs**. **Plans/responsibilities**, not complete projects |
+| **Bok Bok** | E054 ~01:55 | Returns from separation, initially gagged/escorted by tiefling guards; **Vorel retrieves him** and mentions future squire training; no full training completed |
+| **Diontalus** | E052–E054 | **Stanley**, not Diontalus, is generally in control during this pass; preserve creator-approved spelling and refrain from inventing unplayed takeover. Earlier ethical and shared-body risks continue |
+| **Andreeste / Principal** | E054 NPC claims | Monsoon alleges **Andreeste will take city** because Kefeli died and says Principal holds off demons. **No direct arrival or defeat of either in E054** |
+
+**Episode cutoff and plans:** A **future months-long time skip/level-7 arc** is discussed **out-of-character**, not proof Hope's reforms, clinic, birth/medical issue or George-family visit already happened. [E052](../../../episodes/E052.md), [E053](../../../episodes/E053.md), [E054](../../../episodes/E054.md).
+
+## Year One Q&A bonus — cast and GM commentary after E054 (not new scenes)
+
+**Evidence:** [March 2019 Year One Q&A dossier](../../../episodes/BONUS-2019-03.md), **~3 hours of unverified processed ASR**. It is a **retrospective production discussion**, not Wastes E055, and does not change who knew what at previous episode cutoffs.
+
+| Topic | Q&A timing / speaker | Curated interpretation |
+|---|---|---|
+| **Buttons and Stanley Billings** | **~02:35–02:40, Beau (GM)** | Beau **reveals Buttons was in love with Stanley**, and says Buttons **intended to separate Stanley from the party and take him to the Arcanum to remove Diontalus**, believing this would save Stanley. This is the **GM's retrospectively stated motive/plan**, *not* a performed rescue or proof Stanley/party knew it in E049–E050. Buttons still betrayed and attacked the others and **Vorel killed him E049**. |
+| **Diontalus vs Stanley at P0D's death** | ~00:15, Jon | Jon says **Stanley would probably have waited and tried not to kill P0D**, whereas **Diontalus** killed her in E050. Explicit **counterfactual**, not an alternate occurrence or evidence Stanley was in control. |
+| **Stanley's full name / alter ego** | ~00:55, Jon | Jon says the name **Stanley Billings** came from the fast-talking **Stan of *Monkey Island*** with “Billings” chosen to evoke a politician—not **Stan Lee**. He says **Diontalus can change appearance/impersonate others**. These are **creator explanations**, not independent spell-mechanics checks. |
+| **Nash Maggard's dragon heart** | **~01:12–01:22, Scott and Beau** | Beau originated the **dragon-metal pacemaker/heart** from an offhand early Dusthill remark that Nash might not have a heart. He describes dragon-engine hearts as **mana-emitting metal devices** and connects the implanted heart with Nash's damaged body. Scott did **not** originally seek a dragonborn character. Nash's **Solar Mines story conflicts with portions of GM-described visions**, deliberately leaving factual memory open. |
+| **Nash's former partner** | **~02:20–02:26, Scott** | Scott has **player backstory** that someone betrayed Nash during his Solar Mines escape, but much was **not yet given to Beau or performed as a detailed scene**. Do not create an identified in-world betrayer on this alone. |
+| **Nash's protectiveness** | ~00:17–00:27 / ~02:50, Scott | Player acknowledges genuine character attachment to **Hope and P0D**, fraternal conflict with Stanley, and regret over P0D's death; **possible future aid to pixies** remains a desire, not an achieved rescue. |
+| **Vorel and his sidekick** | ~00:28–00:30 / ~02:32–02:36, Kyle and Beau | Kyle says Vorel informally **checks whether Stanley or Diontalus controls the body** and intentionally refused the Soulbroker's offer. Beau says **Bok Bok's first encounter was improvised** when Vorel went alone; that is an NPC *creation-history* fact, not proof Bok Bok materialized out of nothing in-world. |
+| **Hope's transformation and rule** | ~01:29–01:41, Kristen and Beau | Kristen explains **Hope refused vampirism in character** despite personally enjoying vampire stories and accepted severe prosthetic consequences after missile injury. Her queenship was **emergent in play**, not a pre-scripted inevitable outcome. |
+| **George Miller** | **~02:17–02:20, Beau** | GM explicitly uses **George Miller** for the slain guard and says George's **survival with the radio could have exposed a surveillance clue** to the players. This is an **unplayed what-if**, not a secret conversation George actually had. |
+| **Eye of Groxl / campaign artifacts** | ~01:00–01:05, Beau | GM says **major artifacts existed in the world independently of Soulbroker deal acceptance**. The eye is canonical **Eye of Groxl** by [D-028](../../../project/DECISIONS.md); the Q&A does **not** establish deity identity or exact eye mechanics. |
+
+**Knowledge boundary:** Beau's later revelation of Buttons' motivation should be indexed as **GM hindsight** in reference documentation; **do not rewrite direct E049–E050 action as if the PCs knew it was a rescue attempt**. The Q&A contains **in-world possibilities, jokes, future teasers and explicit GM plan disclosures**; only events already shown in E000–E054 belong in the main chronology.
