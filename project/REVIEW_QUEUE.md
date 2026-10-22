@@ -1,6 +1,6 @@
 # The Wastes — active audio, source and editorial review queue
 
-**Status: OPEN tasks, updated 2026-10-22.** Full *Wastes* spoilers through corrected **E067**, with separate [March 2019 Q&A](../episodes/BONUS-2019-03.md), [April 2019 roundtable](../episodes/BONUS-2019-04.md), [June 2019 Q&A](../episodes/BONUS-2019-06.md) and [July-archived 2019 bonus](../episodes/BONUS-2019-07.md). **No new listening, SRT editing or handout verification occurred during consolidation.** The [consistency ledger](../world/CONSISTENCY_LEDGER.md) identifies **what remains uncertain versus resolved**. This queue tells reviewers **where to listen or which sources to compare**.
+**Status: OPEN tasks, updated 2026-10-22.** Full *Wastes* spoilers through corrected **E068**, with separate [March 2019 Q&A](../episodes/BONUS-2019-03.md), [April 2019 roundtable](../episodes/BONUS-2019-04.md), [June 2019 Q&A](../episodes/BONUS-2019-06.md) [July public-release 2019 bonus](../episodes/BONUS-2019-07.md) and [August public-release 2019 bonus](../episodes/BONUS-2019-08.md) (spoken July 27). **No new listening, SRT editing or handout verification occurred during consolidation.** The [consistency ledger](../world/CONSISTENCY_LEDGER.md) identifies **what remains uncertain versus resolved**. This queue tells reviewers **where to listen or which sources to compare**.
 
 **Complete historical backlog preserved:** The entire ~73k-character pre-Phase-D [review queue, including its many timed episode-by-episode tasks](../research/legacy/2026-10-22/PROJECT_REVIEW_QUEUE.md), is frozen with functioning relative links. Its outstanding tasks were **not automatically closed** by omission from this shorter index. The original [consistency issue register](../research/legacy/2026-10-22/WORLD_CONSISTENCY_LEDGER.md) also preserves exact issue keys and status history.
 
@@ -198,13 +198,31 @@ This is a **batch routing grid**, not a statement that every cue within a listed
 
 **E067 checkpoint:** **Fate 4, Follow and Rorf are lost in E066; Sira is alive when abducted and still missing**. The **spectral dragon's planet-moving machine** remains unverified testimony; the party **is actually below Kervalon**, not at the climax of the machine. Audio/cast-written verification not performed.
 
-## 10. Work completion checklist
+## 10. E068 and August 2019 bonus — targeted checks
+
+| Priority | Recording / approximate time | Listening target and evidence boundary |
+|---|---|---|
+| **Critical** | E068 ~00:08–01:16 | Verify **guard counts and green/Zark inference**, `Minor Illusion` **proposed vs actually placed**, **Mold Earth** geometry and whether the **eight melee lizardfolk are physically sealed in corridor**. GM's permissive illusion-door ruling is **session-specific**, not official cantrip text. |
+| **Critical** | E068 ~01:09–01:36 | **Stanley actually casts Polymorph on Vorel into a T. rex**; which guards the dinosaur kills, exact **“Rex means king / I accept the title”** exchange, and **mind flayer Dominate Monster**. This fixes **E067 only discussed, E068 actually executed**. |
+| **Critical** | E068 ~01:18–01:48 | **Hope breaks enemy concentration with shotgun**, psychic **Mind Blast stunning Hope and Vorel**, extensive energy-rifle damage breaking dinosaur form, **Stanley's Diplomacy kills the visible mind flayer-like body**, which deflates into **skin and black oil**. Check exact terminology and whether GM indicates **projection vs true recurring foe**; **no proof of permanent death**. |
+| **High** | E068 ~01:46–02:37 | **Nash's Ice Storm/Fireball/Fire Bolt**, Stanley's **Booming Blade / Bardic Inspiration / Song of Rest**, final rifleman death, **trapped lizardfolk's hammering stopping abruptly**, worms on floor, **Tiny Hut short rest**. Do not certify trapped group dead or all worms destroyed. |
+| **Critical** | E068 ~02:36–03:00 | **Magical beam passing from sky into floor**: Nash's Arcana reading, **rock and dead body disintegration**, **Hope's briefly spiraling leg returning to normal**, **Mold Earth resisting below**, spiral stairs up to rainy tower. The planet-relocation machine remains **the E067 spirit's report**, not verified by beam tests. |
+| **Critical** | E068 ~02:59–03:09 | **Black worms traced to floor-wall seam**, Nash revealing **twin steel elevator-like doors / panel**, apparent 50–60 worms retreating, **button turns into mouth**, **Hope's flesh hand narrowly avoids bite (Dexterity 23)**. **No opened doors or finger loss**. |
+| **High** | Bonus 2019-08 ~00:00–00:04 | **Public August bonus filename vs spoken July 27 recording/early member timing**, owner-resolved date convention **D-033**; Scott's **Solar Mines forced solar-panel labor / radiation poisoning / class exploitation**, and intentionally withheld escape incident. |
+| **High** | Bonus 2019-08 ~00:03–00:10 | **Stanley cleric 5/10 hypothetical**, **Eye of Groxl future hammer/sword/buzzsaw wish**, **Beau says unique artifact planned for each PC but Stanley's not received**, and **Diontalus accidental side-story effect**. Confirm player/GM attribution; do **not create new equipment mechanics**. |
+| **High** | Bonus 2019-08 ~00:10–00:16 | Beau's **scarce economy and poor loot-table preparation**, **Stanley's refusal to carry firearms**, **milestone advancement**, and no proof E068 energy rifles were looted; player-created characters maintained with **D&D Beyond**. |
+| **High** | Bonus 2019-08 ~00:18–00:22 | Beau's **E068 light-shaft intended cue toward lower hidden area and worm breadcrumb design**, with discussion of mismatch between **GM knowledge and player perception**. **Confirms narrative intent**, not the ancient machine's function. |
+| **High** | Bonus 2019-08 ~00:22–00:30 | Unprepared hypothetical **Angelashi joins journey**, Scott's intentional Nash characterization, Kristen's **“mostly teeth”** joke, RP vs table-talk preferences. No additional played events. |
+
+**Cutoff:** E068 **one illithid body visibly defeated, true identity still unresolved; Sira not rescued; trap occupancy not checked; shaft tested but concealed steel doors not opened**. August bonus is **after-session commentary**, not E069.
+
+## 11. Work completion checklist
 
 - [ ] Listen to selected critical cues and create **audio-grounded transcript excerpts** with timestamps and performer attribution.
 - [ ] Reconcile original contracts, house records and item handouts with spoken claims; if unavailable, record that explicitly.
 - [ ] Update only the affected **active ledger key**, source dossier and consolidated reference entry, with evidence and date.
 - [ ] Preserve raw SRT outputs and historical archived alternatives, never silently overwrite source recognition.
 - [ ] Run relevant documentary/index validation after edits; where **local files or code** change, run their applicable test suites and pass before claiming completion.
-- [ ] Continue source-backed review **after E067**; E055–E067 and all four currently reviewed 2019 bonus recordings have provisional dossiers, **not independently listened/verified**.
+- [ ] Continue source-backed review **after E068**; E055–E068 and all five currently reviewed 2019 bonus recordings have provisional dossiers, **not independently listened/verified**.
 
 **Editorial consolidation is not audio verification.** Full [legacy queue](../research/legacy/2026-10-22/PROJECT_REVIEW_QUEUE.md) remains available for every fine-grained pending subtask.
