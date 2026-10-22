@@ -44,7 +44,7 @@ narrative/
   README.md                       Narrative guide and spoiler horizons
   ARC_ONE.md                     Continuous first-arc history (E000–E054)
   ARC_TWO.md                     Completed second-arc story (E055–E081)
-  ARC_THREE.md                    Initial, ongoing third-arc story (E082–E084)
+  ARC_THREE.md                    Initial, ongoing third-arc story (E082–E085)
   [future arc chapters]           Later arcs by played chronology
 world/
   README.md                       Reference navigation, source tiers
