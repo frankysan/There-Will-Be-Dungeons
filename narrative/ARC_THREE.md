@@ -1,8 +1,8 @@
 # Arc Three — Strangers in the City of Doors
 
-**The Wastes, third researched story arc — opening chapters, corrected E082–E087 (ongoing)**
+**The Wastes, third researched story arc — opening chapters, corrected E082–E088 (ongoing)**
 
-**Full spoilers through E087.** This is an **initial narrative**, not a completed arc or an audio-verified transcript. It retells the **played sessions** from their [source-first dossiers](../episodes/E082.md), [E083](../episodes/E083.md), [E084](../episodes/E084.md), [E085](../episodes/E085.md) [E086](../episodes/E086.md) and [E087](../episodes/E087.md), which are based on processed ASR. Dialogue is paraphrased; uncertain names and planar explanations are not certified by this prose. The [December 2019 cast Q&A](../episodes/BONUS-2019-12.md) is retrospective context, **not another chapter of events**. This is **The Wastes**, wholly separate from *Inverse*.
+**Full spoilers through E088.** This is an **initial narrative**, not a completed arc or an audio-verified transcript. It retells the **played sessions** from their [source-first dossiers](../episodes/E082.md), [E083](../episodes/E083.md), [E084](../episodes/E084.md), [E085](../episodes/E085.md), [E086](../episodes/E086.md), [E087](../episodes/E087.md) and [E088](../episodes/E088.md), which are based on processed ASR. Dialogue is paraphrased; uncertain names and planar explanations are not certified by this prose. The [December 2019 cast Q&A](../episodes/BONUS-2019-12.md) is retrospective context, **not another chapter of events**. This is **The Wastes**, wholly separate from *Inverse*.
 
 ## Prologue — After the light
 
@@ -284,20 +284,92 @@ The four leave the inn together and follow Squirts through Sigil toward the hidd
 
 [E087](../episodes/E087.md) · [Vorel](../world/characters/vorel.md) · [Nash](../world/characters/nash-maggard.md)
 
+## XIV. The mirror and the tears of a civilization
+
+Vorel has achieved the extraordinary and humiliating trick that bought his friends' return. But there is no familiar chapel where he expects it. **Squirts** leads the group for half an hour, through streets that seem to rearrange themselves, until an alley reveals a sunken building with smooth stone doors. A fart noise from the little kobold opens them.
+
+Inside the **Chapel of Laughter**, an eager priest named **Carr** greets them with a joke: pull his finger and a great noise is followed by little fireworks. His serious expression suggests he believes this a fine advance in the art of surprise. When Vorel asks for Kidigree, Carr leads them down many flights of stairs, past rats and dark corridors, into a room full of mirrors.
+
+The **Hall of Reflections** is built like half an amphitheater. Mirrors of every shape line its rising tiers, each showing a different being under the hood of the single figure at the table below: an orc, a cat, an elf, a noble, a reptilian warrior. **Kidigree** sits at the center with hundreds of empty and filled vials. He is watching one mirror that reflects no one in the chamber. It looks instead into an alley elsewhere in Sigil.
+
+**Kanja** runs into the alley, frantic to escape. Masked figures catch him, and behind them comes the **Mind Master**, the halfling whom Vorel defeated in the first round. The halfling identifies himself as an investor and director in the marionette fighting league, furious that Kanja's ten years of fame and prize money were won through deceit. He orders the exposed champion to repay **one hundred thousand gold in one week**. If the money does not come, his men will kill one of the little people inside Kanja's apparent body every week until none remain.
+
+The guards wear the black and red emblems of the **Order of the Crimson Moon**. Vorel's suspicions acquire a sharper edge: the Mind Master truly works with those assassins, at least in this scene. Yet there is still no proof he gave the order to attack Vorel at the Soggy Feather.
+
+Kanja collapses in terror. Through the mirror Kidigree draws the tears from his eyes, filling little vials with the anguish not merely of a fallen champion but of the crowd of tiny inhabitants inside him. He calls it **the tears of a civilization**. Vorel does not celebrate the cruelty. He has come for his friends.
+
+Kidigree invites Vorel to sit. The priest admits he thought the lizardfolk a fool when Squirts first brought him here, and says that the **Council of Clowns** loves nothing better than a joke at the expense of the dead and those who love them. He nearly decided to keep Hope and Stanley, purely because Vorel had trusted him. But a trickster must be inconsistent, Kidigree reasons, and today the more surprising trick is to **keep his word**. He warns Vorel that such trust may one day kill him. Then he asks Carr to bring in the dead.
+
+Two mirrors are wheeled into the chamber. Two more slabs follow, with **Hope and Stanley's unchanged, inert bodies** strapped upright to them. Kidigree brushes strange liquid over the corpses and chants. For a moment, nothing happens.
+
+Far from that room—in a place without clocks, walls or a body—**Stanley** perceives light. He cannot tell whether a moment or eternity has passed. He sees a small opening, and on the other side, his own lifeless body. He chooses to come toward it.
+
+**Hope** is offered the same decision, separately, within the same impossible darkness. She too approaches the light and chooses to leave.
+
+In the great mirrors, dark mist begins to move. **Hope and Stanley walk out of the reflections** and stand before the living as themselves, able to speak, puzzled by the crowd of unfamiliar faces and the grotesque heart with arms and a leg that calls himself Nash. The **original corpses remain strapped to the stone slabs**. Hope has her full natural limbs again, but the metal and gun components she once carried in her body are gone; older scars remain. Both have come without clothes or equipment.
+
+The priest says the old bodies will become husks and be put away, but does not allow the party to take them. He has performed what Vorel asked. **The two lost companions are alive and present**, and he urges everyone to leave, never to return. Vorel thanks him with careful politeness. For all his relief, he still wonders whether a trickster's mirrors could have made convincing substitutes. Hope and Stanley, for their part, have no answer beyond the simple fact that they feel themselves again.
+
+In the temple's black corridors, Nash angrily complains that he cannot produce even a light. Then something changes—**not because of a key, but because the GM explicitly corrects his previous ruling**. The supposed blanket suppression of magic in Sigil was an error. Nash throws up one of his ragged little arms, and an actual **Fire Bolt** lights the corridor. Nothing quietly takes out a lantern and gives it to Vorel.
+
+Outside the chapel, Sigil's looping skyline astonishes the returnees. The reunited party walks back toward the Soggy Feather, with **Squirts remaining in the chapel** and **Nothing leading them home**.
+
+[E088](../episodes/E088.md) · [Chapel and spell-correction evidence](../reports/E088_ASR_COMPARISON_2026-10-22.md)
+
+## XV. New bodies in the Cage
+
+Hope needs clothing. Nothing offers a tunic and pants, while Stanley wraps the red **Soggy Feather** cape around himself like a toga. At the inn, Bill lends Stanley his old lawn-bowling outfit; the half-elf restores some dignity to it with a spell that removes its smell. The restored friends eat soup and drink while Bill marvels at what he had believed were merely corpses on Vorel's floating cart.
+
+Stanley remembers the time away like a dream of nothing. Hope recognizes her own hands and moves them in wonder. The two do not know how long they were lost, or why Vorel emerged from the beam whole while Nash became a heart that regrows itself a little each night. Vorel explains the tournament and his strange new companions; Nash greets Stanley's familiar sarcasm with the relieved irritation of a lifelong friend.
+
+Their reunion changes the traveling party. **Kristen resumes playing Hope**, and **Jon resumes Stanley**. The kobold Squirts remains connected to Kidigree's chapel, where her tricks are appreciated. **Nothing** may come back to the inn, but the kenku has another dangerous matter to address: a commission concerning a kidnapping and the Abyss that she has not completed. The friends have been restored; the people who helped save them have not simply ceased to exist.
+
+The next morning Bill arranges a meal and urges the five to talk seriously. Vorel describes the short span since the beam, the valuable corpses, the priest's bargain and the vast marionette prize. He confesses that he still wants to be certain the two people who emerged from the mirrors are the friends he knew. Stanley questions Nash and Vorel's memories in the old argumentative way, but that familiarity is not an objective test. Vorel has an idea: borrow an **ethereal spectrometer** like the ones once used to inspect the souls of dead petitioners.
+
+There is also the matter of home. Bill explains why some call Sigil **the Cage**. The city is full of **hidden portals** into other worlds and planes; knowing the right door and its key can take someone almost anywhere. The trouble is learning which portal leads where, and who controls it. He suggests the records of the **Clerk's Ward**, where agreements, ownership and official movement are tracked. Perhaps someone there knows a way back to **Earth**, or to the place the companions have come to call the Wastes.
+
+Bill is less sanguine when the companions mention their dealings with the **Weir** and the name of one of its lords. He calls such beings terrifying powers from beyond the outer planes, enough to make even the mighty think twice. The companions have been to dangerous places, he admits, and he may have underestimated them. But neither Bill's fear nor the spectrometer can erase the bargains they carry.
+
+Around the table the old party tells stories it should perhaps have told much earlier. Stanley recalls how the rarity of a half-elf led to the murder of his family and his enslavement. Nash describes the Solar Mines, where a happy childhood under **Master Beltnotch** was eventually revealed to be a cruel preparation for betrayal. Vorel remembers his hatchling days with less sorrow, though he barely knew his parents. Their pasts have shaped the suspicion with which they approach every possible helper in Sigil. Having come back from death, Hope and Stanley have reason to hear them anew.
+
+They decide to build a life here long enough to find a way out. Vorel is rich by their standards, but every gold piece has demands upon it. **Hope needs weapons and ammunition**, Stanley needs his former tools of magic and speech, and Nash still needs time to finish growing his body. The city offers everything, says Bill, but little is free.
+
+[E088](../episodes/E088.md) · [Sigil and its portals](../world/places/sigil.md)
+
+## XVI. Shopping for the living
+
+The bazaar has no readily available firearms for Hope, and the friends cannot replace their old equipment in a single afternoon. Vorel has a narrower goal: he wants to examine the souls of his returned companions. At an old arcane bookshop, the owner offers to order a spectrometer, but directs them to a better-equipped merchant across the market.
+
+**Large S's emporium** first appears to be a place for children's toys. Beyond the counter, however, is a showroom that resembles a night sky, with enchanted treasures resting on floating pedestals. The shopkeeper, an extravagantly dressed merchant, produces a pair of **ethereal spectrometer goggles**, adjusting their frame to fit a lizardfolk face.
+
+Vorel looks through them. The living figures before him take on pale luminous outlines; **Hope, Stanley, Nash and the merchant all have a similar white aura**. Nothing appears plainly monstrous or false. Then he peers toward Stanley's neck and glimpses **glowing Infernal writing and Stanley's name**. The return from the mirrors has not erased every mark of the Weir. The merchant catches Vorel conducting a more intensive test than she meant to allow and takes back the goggles. They cost **fourteen hundred gold**, and he does not buy them.
+
+There are other things they can afford. Nash chooses a **skull-shaped arcane focus**. Vorel purchases a **professional sixteen-fighter marionette station** for the Soggy Feather, hoping his championship title can draw paying players and give the party a steady income. **Vorel pays twelve hundred and fifty gold for the machine and Nash's focus together**. The store promises delivery and installation.
+
+The emporium's owner talks of the city's poor with cruel disdain, even imagining throwing them into the Abyss. The party leaves with its purchases and a clearer sense that commercial polish is not the same as trustworthiness. They have no spectrometer and no route home.
+
+Vorel decides that the next step is to **look wealthy**. He brings Hope and Stanley back to **Lohar**, the orc tailor who made his red cape. In front of an eager crowd the champion commissions three outfits: refined finery for Stanley, bold black-and-gold clothing for Hope, and a tuxedo, monocle and cufflinks for himself. Nash is changing shape too quickly to fit, so the tailor asks him to come back once his body is whole. The three suits cost **thirty gold altogether**, half paid now and half on delivery.
+
+After a short span of days, the **marionette station actually arrives at the Soggy Feather**. Bill agrees to have it installed, encouraged by the prospect of customers. The formal clothes arrive too, and Vorel pays the remainder. He imagines one day buying the inn and transforming it into the **Golden Feather**, but imagination is not yet ownership. Nash hopes that **eight days of rest** will give him back the body he remembers. The group considers taking that much time for recovery and shopping, without the session showing the finished result.
+
+The Clerk's Ward still waits. Somewhere among Sigil's countless doors may be the path to Earth. The living friends have found each other; now they must decide what kind of life they can build long enough to find their way home.
+
+[E088](../episodes/E088.md) · [Shopping and time-cutoff comparison](../reports/E088_ASR_COMPARISON_2026-10-22.md)
+
 ## An open door, not an ending
 
-The four who entered the beam at CHIDS remain divided by what happened there. **Vorel is now Sigil's overall Big Time Smackeroo champion**, with the genuine trophy and a prize of **five thousand gold paid**. But his contest was aided by **a forbidden predictive potion** and a **swapped urine sample**. He also used the priest's glowing device to humiliate **Kanja**, whose apparent body housed a secret miniature work crew, or something the device made the crowd believe was there. **The public humiliation is performed**; **the promised resurrection remains a conditional next step**.
+The four who entered the beam at CHIDS have, for the first time since that night, **been reunited as their living selves**. **Hope and Stanley return through Kidigree's mirrors by choices played by their own players**, though the original inert bodies remain in the chapel and the Weir's infernal markings are not erased. **Nash** is still rebuilding his heart-body, but can now cast ordinary magic again: the GM has **explicitly withdrawn the earlier Sigil-wide suppression ruling**. **Vorel** retains a champion's title and the burden of having cheated his way to it.
 
-**Nash** has gained forearms and an ear and now physically possesses money that could buy his first spell key, but **has not bought one or restored ordinary spellcasting**. **Nothing** knows the assassins as the **Order of the Crimson Moon** but not their employer, and carries a separately accepted **Abyss-bound kidnapping commission that remains unperformed**. **Squirts** has cured Vorel's lingering dart poison, while the young lizardfolk she burned is **alive at his last witnessed appearance** despite persistent rumors of murder.
+**Squirts** remains at the trickster chapel and **Nothing** has an outstanding Pelvis/Abyss commission. In a mirror the party has also seen **Mind Master accompanied by Crimson Moon enforcers** threatening Kanja's miniature population, but **the client behind the original inn assassination remains unidentified**.
 
-The Soggy Feather is a temporary, paid home for thirty days. Bill has suggested ownership, not sold it. Sigil still offers no verified portal back to Earth, and **the Traversal Drive, the Principle and the Soulbroker pact** remain unresolved.
+The Soggy Feather houses the party for a prepaid month. It now contains a purchased professional marionette station, and the party has received three new outfits; **Bill and Pam have not sold the inn**. A **potential eight-day rest is discussed, not demonstrated complete**. Most equipment was not replaced on screen, and **no portal to Earth has been found**.
 
-**This narrative currently ends at E087 as the party sets out toward Kidigree's temple.** No meeting with the priest, actual ritual, reunion with Hope and Stanley, or consequence for Kanja beyond this episode is yet described. The [chronology](../world/CHRONOLOGY.md) and [episode dossiers](../episodes/E087.md) preserve source and scene cutoffs; this narrative will develop in connected story movements rather than append-only episode recaps.
+**This narrative currently ends at E088** after the first shopping deliveries and plans for further recovery. The [chronology](../world/CHRONOLOGY.md) and [episode dossiers](../episodes/E088.md) preserve the exact source cutoff, uncertain names and which future purchases or expeditions were only proposed.
 
 ### Later commentary, separate from the action
 
-In the [December 2019 bonus Q&A](../episodes/BONUS-2019-12.md), **Beau later explains** that Hope and Stanley's apparent bodies are **manifestations of souls interrupted on their way to the Weir**. That adds creator commentary to the trickster priest's explanation, but it does **not** place the knowledge in Vorel's hands at the start of E082, resurrect either companion, or settle the future of the contract. Beau also says he did not plan for **all four** to enter the beam in E081. These are **retrospective explanations**, not extra scenes between E082 and E087. The [December 2019 bonus ASR comparison](../reports/BONUS_2019_12_ASR_COMPARISON_2026-10-22.md) remains **unverified against audio**.
+In the [December 2019 bonus Q&A](../episodes/BONUS-2019-12.md), **Beau later explains** that Hope and Stanley's apparent bodies are **manifestations of souls interrupted on their way to the Weir**. That adds creator commentary to the trickster priest's explanation, but it does **not** place the knowledge in Vorel's hands at the start of E082, resurrect either companion, or settle the future of the contract. Beau also says he did not plan for **all four** to enter the beam in E081. These are **retrospective explanations**, not extra scenes between E082 and E088. The [December 2019 bonus ASR comparison](../reports/BONUS_2019_12_ASR_COMPARISON_2026-10-22.md) remains **unverified against audio**.
 
-In the **[January 2020 public-release Q&A](../episodes/BONUS-2020-01.md)** (introduced aloud as the **December 2019** bonus), **Beau later calls the E085 arena apparition the Lady of Pain**. This is a **retrospective GM identification** rather than a declaration heard by the participants in the scene. He also says **Nash's spellcasting abilities remain intact**, though an **undisclosed external Sigil-specific influence** suppressed his spells. He anticipates Nash's gradual bodily regeneration, while **not explaining the in-world solution or enacting it in E085**. This discussion is not a tenth narrative chapter. [Two-ASR comparison](../reports/BONUS_2020_01_ASR_COMPARISON_2026-10-22.md).
+In the **[January 2020 public-release Q&A](../episodes/BONUS-2020-01.md)** (introduced aloud as the **December 2019** bonus), **Beau later calls the E085 arena apparition the Lady of Pain**. This is a **retrospective GM identification** rather than a declaration heard by the participants in the scene. He then **believed Nash's spellcasting abilities remained intact but were subject to a Sigil-specific external restriction**. **E088 explicitly supersedes that as a DM mistake; Nash casts Fire Bolt normally.** Beau also anticipates Nash's gradual bodily regeneration, which is **not shown complete by E088**. This discussion is not a tenth narrative chapter. [Two-ASR comparison](../reports/BONUS_2020_01_ASR_COMPARISON_2026-10-22.md).
 
 [Arc One](ARC_ONE.md) · [Arc Two](ARC_TWO.md) · [Arc 3 episode index](../world/CHRONOLOGY.md) · [World references](../world/README.md) · [Review queue](../project/REVIEW_QUEUE.md).
