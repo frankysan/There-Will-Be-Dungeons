@@ -147,7 +147,7 @@ In [E056](../episodes/E056.md), **George Miller appears as an attacking spirit**
 
 **At E071 cutoff:** **Sira is still abducted; Follow and Rorf remain dead.** No completed rescue, no long rest at Archives, no machine examined. **These are provisional processed-ASR source findings**, not audio-verified.
 
-## Status after E073
+## Interim status after E073
 
 **[Cerinthala](characters/cerinthala.md)** (provisional spelling; `Saranthala/Ceranthalis` ASR) **appears E072 as an ancient, withered elf inside CHIDS's frozen data center**. She talks to **four preserved men Toby, Carl, Gordon and Benson**, seeks return to **Elhandar**, and remotely **unlocks engineering** after Stanley promises best-effort assistance. E073 reveals **her self-made cursed necklace**, predatory intentions she says she abandoned, and apparently jealous **ice-construct companions**; **Toby still speaks afterward**. She now **travels with the party** into the biological laboratories and stalled elevator. [E072](../episodes/E072.md) · [E073](../episodes/E073.md).
 
@@ -160,4 +160,18 @@ In [E056](../episodes/E056.md), **George Miller appears as an attacking spirit**
 **[Hope](characters/hope-akmenos.md):** Survives the duct collapse with **Feather Fall**; receives a **distressed but poorly transcribed Tietkalla sending-stone message** and replies. Alone she tastes Cerinthala's surprising soup. In E073 **an explosive Scully shot breaks the ice captor's arm**, freeing Stanley. She spots the **giant spider descending the stalled elevator shaft**. Bonus: a real **Fate 5** and hypothetical **Kismet** remain future vehicle ideas, **not current inventory**.
 
 **E073 cutoff:** **All four heroes and Cerinthala are in or atop a stalled CHIDS lift with a huge spider approaching**. **Stanley still wears the cursed amulet**, **Nash's staff remains snapped**, **Toby may still speak**, **Sira remains missing**, and the **Traversal Drive has not been physically reached**. All interpretations remain **processed-ASR provisional until audio-verified**.
+
+## Status after E075
+
+**[Cerinthala](characters/cerinthala.md):** After a **fatal crushing inside CHIDS's responsive membrane E074**, her corpse is carried and yields **a historical employee ID and blue gem**. **She visibly revives E075**, apparently **summons/animates ice Toby** from the gem, **paralyzes Hope using Hold Person**, and escapes after **Stanley dispels her Wall of Ice**. **Toby's ice casing and animated corpse are destroyed**. Cerinthala's exact present location is unknown; **Stanley's +1 AC cursed necklace was not removed**.
+
+**[Vorel](characters/vorel.md):** Uses **Eye of Groxl** to protect against brain-spiders, makes **carapace shields for Cerinthala and Hope's tiny mechanical hand**, and kills a green rifleman. Suffers **ongoing 1d4 memory-drain penalty** from the big red monster E074; E075 **kills the main creature, dissolving tethered Vorel and dragon-Nash copies**. Finds Cerinthala's **blue gem and employee card**. Acquires **one [red/green portal device](technology/portal-device.md)** from secure chamber, transfers it to Hope and **taunts a force of perhaps fifty charging bugbears with an illithid among them**. No new title.
+
+**[Nash](characters/nash-maggard.md):** Temporarily **black-dragon** during red organism fight, **immune to the false dragon's acid breath**. E074 **sings past selectively closing living membrane** after it broke his staff earlier; tastes an irritating **black residue from Cerinthala's dead skin**. Also suffers **ongoing 1d4 memory-drain**. His dragon bite helps **Hope kill the held illithid**; later back to human form. He recognizes **the paired-portal concept from ancient lore**, and E075 **Fireball kills the lead bugbears**. The portal evacuation remains a **plan**.
+
+**[Stanley](characters/stanley-diontalus.md):** **Polymorphs spider queen into sheep, but Hope kills restored spider**. E074 repeatedly heals Vorel; **E075 is dropped by memory-eater, incurs own ongoing 1d4 penalty**, then **stabilizes after three death saves**. Later recovers after hours, takes **short rest/Song of Rest**. Helps defeat **ice Toby** and uses **Dispel Magic** to clear Cerinthala's ice wall. **His cursed necklace remains unresolved**.
+
+**[Hope](characters/hope-akmenos.md):** E074 suffers **spider poison and one exhaustion level** and later kills matriarch. **Vorel makes a tiny additional-hand shield** for her. **Action Surges to grapple and crush the illithid**, and dragon-Nash finishes its body E075. **Hope extracts and destroys three black headworms**, one from that illithid and one from each lizardfolk guard. **Cerinthala briefly paralyzes her**, then Hope recovers. **She now holds the sole red/green paired-portal device**, facing imminent bugbear pressure.
+
+**At E075 cutoff:** All four alive. **Vorel's bugbear bait has triggered a charge; the group has not used the portals to escape**. Cerinthala has **revived and fled**; **Toby's visible forms are dead**, three characters **have unresolved memory loss**, **Sira remains captive**, and the **Traversal Drive itself has not been inspected**. Sources are **processed SRTs, not audio-verified**.
 
