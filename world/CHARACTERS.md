@@ -1,6 +1,6 @@
 # Characters and participants — Year One reference index
 
-**Spoilers:** Core table retains its **Year One E054 snapshot**; later status updates now cover corrected **E065**, with separate March/April/June/July-archived out-of-character bonus Q&As. The [Year One Q&A](../episodes/BONUS-2019-03.md) is not a played episode. **Quality:** These profiles synthesize provisional processed Parakeet SRT research; **they have not been checked against the audio**. For a story rather than an index, see [Year One](../narrative/YEAR_ONE.md).
+**Spoilers:** Core table retains its **Year One E054 snapshot**; later status updates now cover corrected **E068**, with separate March/April/June/July-archived out-of-character bonus Q&As. The [Year One Q&A](../episodes/BONUS-2019-03.md) is not a played episode. **Quality:** These profiles synthesize provisional processed Parakeet SRT research; **they have not been checked against the audio**. For a story rather than an index, see [Year One](../narrative/YEAR_ONE.md).
 
 This is now the **subject-focused reference index**, not the append-only episode-batch ledger. The entire former 88,000-character source-first [character compendium is preserved](../research/legacy/2026-10-21/WORLD_CHARACTERS.md), with its source links intact. A character's **earlier beliefs, reported fate and later observed status** must remain distinct. Roles in the podcast are not in-world identities.
 
@@ -103,7 +103,7 @@ In [E056](../episodes/E056.md), **George Miller appears as an attacking spirit**
 
 **Source/evidence for that interim cutoff:** [E064](../episodes/E064.md) · [E065](../episodes/E065.md) · [July-archived Q&A](../episodes/BONUS-2019-07.md). Later deaths and discoveries are not backdated.
 
-## Status after E067
+## Interim status after E067
 
 **[Vorel](characters/vorel.md):** Kills a **T. rex with the Eye of Groxl's shield after it destroys Fate 4**, crafts a **tooth dagger**, and creates the cart **Fang Fate Five**; he asserts his **existing Great Fang status** before enthralled-looking lizardfolk and a new mind-flayer foe. In E067 a **spectral dragon** refers to the **Eye of Groxl itself as the “god killer”**; `Grojil` is an ASR pronunciation approximation of **Groxl**, as confirmed by the archive owner. He helps clear the skeleton-spawning basement foe at Kervalon; **has not rescued Sira or taken a new office**. [E066](../episodes/E066.md) · [E067](../episodes/E067.md).
 
@@ -118,3 +118,15 @@ In [E056](../episodes/E056.md), **George Miller appears as an attacking spirit**
 **New antagonist / lore referents:** A name like **Oubvayx/Ovaxiad** is spoken by a **mind flayer servant of Dollo Poppio**; **spectral dragon Kazdejira association** and the **pre-Scorching Earth-moving machine** are **unverified testimonies**, not completed mechanical proof. [Kervalon](places/kervalon.md) · [world guide](WORLD.md).
 
 **Source/evidence:** E066–E067 processed SRT dossiers only, **not independently audio-verified**.
+
+## Status after E068
+
+**[Vorel](characters/vorel.md):** An asserted **Great Fang** still has no proven authority over Kervalon's riflemen; **Stanley actually transforms him into a T. rex**, which kills several guards, is **briefly mind-controlled** and then broken by hostile gunfire. During the fight Vorel jokingly **accepts “Rex/King Rex”** as an informal epithet, separate from the recognized Great Fang office. **Eye of Groxl** remains one integrated artifact, and a wished-for buzzsaw/hammer mode in the [August Q&A](../episodes/BONUS-2019-08.md) **has not been obtained**.
+
+**[Hope](characters/hope-akmenos.md):** **Shotgun hits on the illithid break its domination spell**; a later psychic blast **stuns her**. She locates **black worms leading to hidden steel doors**, but the **control panel becomes a mouth** and she **avoids injury to her one flesh hand**. Approaching the intensely magical light **briefly spirals her leg**, which recovers as she withdraws.
+
+**[Nash](characters/nash-maggard.md):** Uses **Mold Earth to entomb some pursuers**, and **Fireball, Ice Storm and Fire Bolt** against the exposed defenders. He cannot excavate **directly beneath the magical shaft**, but discovers **hidden double doors after following worms**. In the [August bonus](../episodes/BONUS-2019-08.md), Scott directly describes **Nash's radiation-exposed, coerced solar-panel work in the Solar Mines**; the exact trigger for his escape remains undisclosed.
+
+**[Stanley](characters/stanley-diontalus.md):** **Casts Polymorph** on Vorel into a T. rex; **Diplomacy strikes the illithid-looking body**, which deflates into black oil and skin (its permanent identity unresolved). Stanley provides **Bardic Inspiration, Tiny Hut and Song of Rest**. Beau clarifies in the [August bonus](../episodes/BONUS-2019-08.md) that **Stanley's own intended bespoke artifact has not yet appeared** and **Diontalus arose by accident**; a cleric level remains only a possibility.
+
+**Source horizon:** [E068](../episodes/E068.md) is a played session; [August public-release bonus](../episodes/BONUS-2019-08.md) is retrospective cast/GM testimony. **Sira is still missing**, **Follow and Rorf remain dead**, and the **sealed lizardfolk corridor's fate is unknown**. Neither the mind flayer's lasting destruction nor the machine's function is proved. All source passages remain **provisional ASR, not audio verified**.
