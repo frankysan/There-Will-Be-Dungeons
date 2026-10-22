@@ -7,7 +7,7 @@
 - **Column A, `Name`**, records a publisher/original listing label, often a podcast number. This is useful for finding a historical title and reconciling RSS archives, but must **not** determine repository paths when it differs from the owner's corrected numbering.
 - **Column I, `Column 1`**, provides the owner's **normalized archive basename** with campaign, season, corrected episode number and title. **Use this value** to reconcile archived `sources/` SRT filenames, episode dossiers and future `transcripts/` filenames. Prefixing/extension as appropriate does not change the corrected ID.
 - **Column H, `Episode`**, contains some spreadsheet calculations that render as **`#NAME?`** when this particular exported XLSX is imported for analysis. It is **not a dependable primary episode-ID source in this review**. Do not replace explicit Column I values with those computed errors.
-- Columns **B/E** supply date-like strings/serials, **C/D** optional title/description text, **F/G** campaign/season categorization. These are *spreadsheet metadata*, not independently verified publication/recording dates or audio quotations; some other formula-driven columns also render as `#NAME?`.
+- Columns **B/E** supply date-like strings/serials, **C/D** optional title/description text, **F/G** campaign/season categorization. These are *spreadsheet metadata*, not independently verified timestamp fields or audio quotations; some other formula-driven columns also render as `#NAME?`. **The owner has separately confirmed that monthly bonus archive filenames are based on PUBLIC publication dates, not recording or private-member release dates** (see [D-033](DECISIONS.md)).
 - Episodes in other campaigns and bonus shows are **not** Wastes Season 1 episodes. Preserve their original names and corrected category separately rather than allocating them ordinary `E###` identifiers.
 - **Supplemental `S1E013.5`** is an intentional intermediate identifier, *not* evidence of an original podcast episode formally numbered 13.5. Its in-world scene chronology is a separate editorial dimension, documented in [E013.5](../episodes/E013.5.md).
 
@@ -74,9 +74,9 @@ Related: [archive owner's event/spelling notes](OWNER_EPISODE_NOTES.md) (persona
 |---|---|---|
 | `The Wastes S1E055. My Standards Are Very Lizard` | [**E055**](../episodes/E055.md) | Original **TWBD 56**; first session after **three months actual downtime** |
 | `The Wastes S1E056. Welcome back, George` | [**E056**](../episodes/E056.md) | Original **TWBD 57**; direct sequel to E055's meteor-storm cliffhanger |
-| `Bonus 2019-04 - Bonus Show 01 - The First and Last (April 2019 )` | [**BONUS-2019-04**](../episodes/BONUS-2019-04.md) | Separate **~31-minute cast Q&A**, *not* E057. Discusses E055-era character life/GM creative decisions; exact release position relative to E056 not confirmed by filename alone |
+| `Bonus 2019-04 - Bonus Show 01 - The First and Last (April 2019 )` | [**BONUS-2019-04**](../episodes/BONUS-2019-04.md) | Separate **~31-minute cast Q&A**, *not* E057. Discusses E055-era character life/GM creative decisions; filename month represents public release; exact day and relationship to E056 not established here |
 
-The March [Year One Q&A](../episodes/BONUS-2019-03.md) is publisher **55**, already excluded from corrected E### counting. Monthly bonus filenames retain their **independent namespace**.
+The March [Year One Q&A](../episodes/BONUS-2019-03.md) is publisher **55**, already excluded from corrected E### counting. Monthly bonus filenames retain their **independent namespace** and reflect the **public publication month/date**, not when the cast recorded the installment or made it available privately to supporters. The spoken `May` description of [BONUS-2019-06](../episodes/BONUS-2019-06.md) and spoken `June 29` recording date of [BONUS-2019-07](../episodes/BONUS-2019-07.md) are consistent with this scheme. **Do not relabel source SRTs or infer precise member/public release timestamps from a month-only name.** [Decision D-033](DECISIONS.md).
 
 ## Corrected E057–E060 continuation
 
