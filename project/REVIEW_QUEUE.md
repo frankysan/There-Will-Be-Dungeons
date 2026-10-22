@@ -1,6 +1,6 @@
 # The Wastes — active audio, source and editorial review queue
 
-**Status: OPEN tasks, updated 2026-10-22.** Full *Wastes* spoilers through corrected **E081**, with separate [March 2019 Q&A](../episodes/BONUS-2019-03.md), [April 2019 roundtable](../episodes/BONUS-2019-04.md), [June 2019 Q&A](../episodes/BONUS-2019-06.md), [July public-release 2019 bonus](../episodes/BONUS-2019-07.md), [August public-release 2019 bonus](../episodes/BONUS-2019-08.md) (spoken July 27), and [September public-release 2019 bonus](../episodes/BONUS-2019-09.md), plus [October public-release Q&A](../episodes/BONUS-2019-10.md) (recording day not verified) and [November public-release Q&A](../episodes/BONUS-2019-11.md) (host actually calls it October; original publication metadata needs checking). **No new listening, SRT editing or handout verification occurred during consolidation.** The [consistency ledger](../world/CONSISTENCY_LEDGER.md) identifies **what remains uncertain versus resolved**. This queue tells reviewers **where to listen or which sources to compare**.
+**Status: OPEN tasks, updated 2026-10-22.** Full *Wastes* spoilers through corrected **E082**, with separate [March 2019 Q&A](../episodes/BONUS-2019-03.md), [April 2019 roundtable](../episodes/BONUS-2019-04.md), [June 2019 Q&A](../episodes/BONUS-2019-06.md), [July public-release 2019 bonus](../episodes/BONUS-2019-07.md), [August public-release 2019 bonus](../episodes/BONUS-2019-08.md) (spoken July 27), and [September public-release 2019 bonus](../episodes/BONUS-2019-09.md), plus [October public-release Q&A](../episodes/BONUS-2019-10.md) (recording day not verified) and [November public-release Q&A](../episodes/BONUS-2019-11.md) (host actually calls it October; original publication metadata needs checking). **No new listening, SRT editing or handout verification occurred during consolidation.** The [consistency ledger](../world/CONSISTENCY_LEDGER.md) identifies **what remains uncertain versus resolved**. This queue tells reviewers **where to listen or which sources to compare**.
 
 **Complete historical backlog preserved:** The entire ~73k-character pre-Phase-D [review queue, including its many timed episode-by-episode tasks](../research/legacy/2026-10-22/PROJECT_REVIEW_QUEUE.md), is frozen with functioning relative links. Its outstanding tasks were **not automatically closed** by omission from this shorter index. The original [consistency issue register](../research/legacy/2026-10-22/WORLD_CONSISTENCY_LEDGER.md) also preserves exact issue keys and status history.
 
@@ -108,6 +108,8 @@ This is a **batch routing grid**, not a statement that every cue within a listed
 | [E080](../episodes/E080.md) | Continued engineering fight: Mirror Image, black-dragon Nash, red memory-eaters/green chain-exploding worms, animated pipes, **Eddie and Chance rescued from death saves**, commander killed, Eye of Groxl flame blade, starry-space transition and **unresolved Dolo Popio breath**; see the archived detailed queue |
 | [E081](../episodes/E081.md) | **Arc conclusion:** Dolo breath spawns worms; Chance floats away unrecovered; Vorel binds dragon-worm mouth with nanoweave; **Hope kills Dolo with radiant dart**; Quizquaz offers to sacrifice Earth; Sira/Eddie released, **four protagonists enter red beam and GM explicitly declares them dead**, ultimate permanence open; see the archived detailed queue |
 
+| **[E082](../episodes/E082.md)** | **Arc 3 in Sigil:** Vorel physically survives; **Eye of Groxl splits to save him**; Nash conscious in a floating heart/eyeball/finger; **Hope/Stanley bodies recovered**, Binch/Dustmen, newcomer vouchers, two unnamed new characters, cleric not visited. **ASR-only, no audio verification** |
+
 **Publication crosswalk:** [Corrected episode numbering](EPISODE_NUMBERING.md). **Historical precision:** Detailed E055–E081 timestamps and every prior batch question are in the [full pre-second-arc queue snapshot](../research/legacy/2026-10-22/REVIEW_QUEUE_PRE_SECOND_ARC_CONSOLIDATION.md) (and older [Phase-D snapshot](../research/legacy/2026-10-22/PROJECT_REVIEW_QUEUE.md)). **Lore chronology:** [unified timeline](../world/CHRONOLOGY.md).
 
 ## 5. Priority listening — second arc E055–E081
@@ -152,6 +154,19 @@ This is a **triage queue**, not a complete record of every ASR timestamp. Dates 
 | **2019 bonus date mismatch** | [November bonus](../episodes/BONUS-2019-11.md), original RSS/producer archive; also other six bonus date notes in full queue | Public-release month **not necessarily recording date**; November-named file has spoken October intro |
 | **Private records and mechanics** | Soulbroker contract, item/stat sheets, E045/E047 handouts, map revision register; see [editorial guide](EDITORIAL_GUIDE.md) | Do not reconstruct secret readings or exact custom stats from wiki or processed ASR alone |
 
+## 5A. Arc 3 opening — E082 priority audio review
+
+| Window | Check against audio/primary source | Editorial boundary |
+| --- | --- | --- |
+| **[E082](../episodes/E082.md) ~00:03–00:17** | Vorel's cosmic passage, **giant still head**, return to sewer and black speck; clarify any cosmological name | **Unidentified face**, no external-world elapsed-time measurement |
+| **E082 ~00:17–00:38** | Nash heart/eye morphology, long rests, floating, and **Eye of Groxl rupture/protective membrane** | Owner-confirmed **Groxl**; distinguish heart-form Nash from destroyed Eye and prevent unsupported total restoration |
+| **E082 ~00:47–01:15** | Hope/Stanley corpse recognition, missing prosthetics, **nonlethal vs lethal collector injuries**, Nash ram | **Both bodies found**, **no resurrection**, deaths/status not all interchangeable |
+| **E082 ~01:15–01:41** | **Binch Lory, Jarver, Dead Book/Dustmen, 100 gp** and origins of Sigil / possible map details | Source character assertions vs observed payments/routes |
+| **E082 ~01:41–02:05** | Curved Sigil landscape, Nash's new finger, clerk giving **Nash's name**, three days assistance and **50 Gums Road** | A **referral**, no demonstrated clerical intervention |
+| **E082 ~02:05–02:32** | **Jon's kenku / Kristen's kobold** descriptions and any genuinely spoken personal names, **Bill, Pam, Soggy Feather**, Lady of Pain lore | New player characters are **not Hope/Stanley resurrections**; do not import Planescape inference |
+
+**Next slice:** Process E083 on its own. **No voice/audio verification performed** by writing E082 dossier, chronology and reference pages.
+
 ## 6. Arc coverage and previous detailed questions
 
 The **research coverage register in section 4** records every source reviewed. The earlier **13 episode-specific E055–E081 review sections (formerly sections 5–17)** were **not silently dropped**: all their timestamps, proposed spellings, named casualties, puzzle rules, inventory arithmetic and character-source caveats are retained in the [frozen full queue](../research/legacy/2026-10-22/REVIEW_QUEUE_PRE_SECOND_ARC_CONSOLIDATION.md). The [CHIDS consolidation audit](../reports/CHIDS_ARC_CONSOLIDATION_2026-10-22.md) and [current consistency ledger](../world/CONSISTENCY_LEDGER.md) explain how open source-era claims become closed at later cutoffs.
@@ -165,6 +180,6 @@ For future research, start at the **highest-priority applicable row**, open the 
 - [ ] Revise a narrow **episode dossier + canonical profile + current ledger topic row** for each corroborated correction.
 - [ ] Preserve **raw source SRT files** and both generations of archived research; never silently overwrite recognition.
 - [ ] Validate Markdown links, headings and tables; run applicable source/document checks after edits.
-- [ ] Research **E082 onward** in separate bounded batches; E055–E081 and the reviewed 2019 bonuses remain **provisional processed-ASR dossiers**, not audio-verified.
+- [ ] Research **E083 onward** in separate bounded batches; **E082 is provisionally documented but still needs listening**. E055–E081 and the reviewed 2019 bonuses likewise remain processed-ASR dossiers, not audio-verified.
 
 **Consolidation is not verification.** The active questions are intentionally shorter than the archives they replace.
