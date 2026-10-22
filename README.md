@@ -13,7 +13,7 @@
 | Look up a character, place, event or contested fact | [World reference portal](world/README.md) |
 | Inspect **episode-by-episode evidence** | [E000 dossier](episodes/E000.md), [E001 dossier](episodes/E001.md) and the numbered `episodes/E###.md` files |
 | Read the latest researched episodes | [E064](episodes/E064.md), [E065](episodes/E065.md), [E066](episodes/E066.md), [E067](episodes/E067.md) |
-| Read the cast/GM bonus discussions | [March 2019 Q&A](episodes/BONUS-2019-03.md), [April 2019 The First and Last](episodes/BONUS-2019-04.md), [June-archived Q&A](episodes/BONUS-2019-06.md) (spoken as May's show) and [July-archived Q&A](episodes/BONUS-2019-07.md) (**spoken as June's show, recorded June 29, per introduction**); **not numbered Wastes episodes** |
+| Read the cast/GM bonus discussions | [March 2019 Q&A](episodes/BONUS-2019-03.md), [April 2019 The First and Last](episodes/BONUS-2019-04.md), [June public-release Q&A](episodes/BONUS-2019-06.md) (called May's bonus when recorded) and [July public-release Q&A](episodes/BONUS-2019-07.md) (called June's bonus; **June 29 recording-date claim** in ASR). **For bonuses, filename months represent public publication, not recording or early-member availability**; **not numbered Wastes episodes** |
 | Check actual versus original episode numbering | [Corrected crosswalk](project/EPISODE_NUMBERING.md) |
 | Follow unresolved listening tasks | [Review queue](project/REVIEW_QUEUE.md) |
 | Understand source confidence and editing conventions | [Editorial guide](project/EDITORIAL_GUIDE.md), [documentation architecture](project/DOCUMENTATION_ARCHITECTURE.md) |
