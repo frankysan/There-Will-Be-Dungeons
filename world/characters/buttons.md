@@ -15,3 +15,7 @@ In [the post-arc Q&A](../../episodes/BONUS-2019-03.md), **Beau reveals Buttons w
 ## New-arc trace — E055 and April roundtable
 
 Stanley retains **Buttons' dictionary, a Monstrositorum-like reference book and a regional map** after the three-month time jump; the April 2019 cast roundtable has Jon explain that Stanley studies medicine partly to free himself from Diontalus, **without proving Buttons himself achieved that liberation**. Buttons remains **dead since E049**. [E055](../../episodes/E055.md) · [April roundtable](../../episodes/BONUS-2019-04.md).
+
+## The Principle's account — E059
+
+At court the Principle explicitly invokes **Buttons' report about Diontalus** as part of his case for seizing the archfey. He performs a **visible extraction into a crystal** and says this **was what Buttons wanted for Stanley**. The latter is **the Principle's explanation of another character's motive**, compatible with but distinct from the [March cast Q&A](../../episodes/BONUS-2019-03.md). **Buttons remains dead since E049**; the E059 discussion is not his return. [E059](../../episodes/E059.md).

@@ -21,3 +21,7 @@ Nash takes **Pixie Blush**, and later causes a **real destructive foundry/explos
 **Source trail:** [E009](../../episodes/E009.md) · [E010](../../episodes/E010.md) · [E011](../../episodes/E011.md) · [E012](../../episodes/E012.md) · [E013](../../episodes/E013.md) · [E014](../../episodes/E014.md) · [E015](../../episodes/E015.md) · [E016](../../episodes/E016.md) · [E017](../../episodes/E017.md) · [E018](../../episodes/E018.md) · [E026](../../episodes/E026.md) · [E037](../../episodes/E037.md) · [Q&A retrospective](../../episodes/BONUS-2019-03.md) · [Black Mine](black-mine.md).
 
 **Outstanding:** whether every relocated Dusthill captive survives, true legal chain of the mine deed, original street-map spelling, complete effects of the fire, and precise naming of Koromukishi/“chrome” rites. The Q&A describes **unchosen** chrome paths, not actions played in Slavetown.
+
+## Contested blame for Dusthill and trade — E058–E059
+
+The visiting **Principle claims** that magistrate `Ethanelia/Ethanalia` caused the **Dusthill raid without his instructions**, while promising peace and trade via a future **rail connection** to Tietkalla. **This is a ruler's interested explanation**, not independent exoneration. He does actually arrange **arrival of named Dusthill survivors in E059**; that fact does not establish humane slavery practices or release of all captives. The party's negotiated paid-labor condition should not be turned into a retroactive description of Slavetown's labor system. [E058](../../episodes/E058.md) · [E059](../../episodes/E059.md).

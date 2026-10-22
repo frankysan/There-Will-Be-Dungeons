@@ -19,3 +19,7 @@ The deceased Hillmaster, earlier specter **Peter**, **Softhead**, **Jimster** (m
 **Source trail:** [E000](../../episodes/E000.md) · [E001](../../episodes/E001.md) · [E002](../../episodes/E002.md) · [E003](../../episodes/E003.md) · [E004](../../episodes/E004.md) · [E005](../../episodes/E005.md) · [E006](../../episodes/E006.md) · [E007](../../episodes/E007.md) · [E010](../../episodes/E010.md) · [E011](../../episodes/E011.md) · [places index](../PLACES.md) · [Year One narrative](../../narrative/YEAR_ONE.md).
 
 **Open questions:** exact old site names, which original water maps the players saw, the complete outcome for the abductees, and whether later character-written histories match the episode-era state.
+
+## Survivors finally return — E059
+
+The **Principle promises** the release of Dusthill captives in [E058](../../episodes/E058.md), and **an actual group arrives in Tietkalla in E059**, including **Talia and child Bruce Bane, Jimster, Shun'ti and other surviving Dusthill citizens**. They are medically received and speak of **forced work at the Salivating Fields**. Their living arrival is directly played, so the entire rescue cannot remain classified as merely diplomatic promise. **The return does not establish that every person taken in the original raid survived or was included**, and reports about the raid's organizer or a ruler's intent remain interested testimony. [E059](../../episodes/E059.md).

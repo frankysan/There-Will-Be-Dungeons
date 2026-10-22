@@ -64,3 +64,13 @@ This is now the **subject-focused reference index**, not the append-only episode
 **The subject profiles, not a repeated episode-batch chronology, are the live reference.** After E054, an actual **three months elapse**: [Nash](characters/nash-maggard.md) and [Angelashi](characters/angelashi.md) are expecting a baby; [Hope](characters/hope-akmenos.md) governs and implements disputed reforms; [Vorel](characters/vorel.md) and [Bok Bok](characters/bok-bok.md) operate **the Golden Sands**; and [Stanley](characters/stanley-diontalus.md) studies medicine and Tidebearer magic, while Diontalus remains dormant **but still sharing his body**. [E055](../episodes/E055.md).
 
 In [E056](../episodes/E056.md), **George Miller appears as an attacking spirit**, **P0D appears as an ethereal companion** and neither is restored to biological life. **Vorel's spectral aging is cured in the same episode**. Newly significant **Tidebearer priestess Emenil/Eminel** heals Vorel but is then **attacked by an undead figure at Nobiery's command**—her death remains unknown. **Softhead** is now a mutilated **but surviving envoy** whose promises to free Dusthill captives remain unfulfilled on-screen. [April cast roundtable](../episodes/BONUS-2019-04.md) contains **player motives/GM process**, not additional character scenes.
+
+## New statuses after E060
+
+- **[Stanley and Diontalus](characters/stanley-diontalus.md):** Diontalus kills **Coopen/Coupon** in E057, then is **apparently extracted into a crystal by the Principle in E059**; Stanley appears free of his control through E060, but permanence is unverified.
+- **[Vorel](characters/vorel.md):** finds parasite evidence at the crater, returns to **Razak Val** with [Diptak](characters/diptak.md) and challenges [Orp](characters/orp.md); **Diptak is killed by Orp E060**, and the public duel has **not happened**.
+- **[Hope](characters/hope-akmenos.md):** stops Nobiery's undead attack on Emenil, acquires a **lucky coin**, receives the Principle's proposed rail alliance and **living Dusthill returnees**.
+- **[Nash](characters/nash-maggard.md):** rescued from the desert after following bananas; later **privately meets an unscarred lookalike** claiming to be future Nash, not verified.
+- **[Emenil/Eminel](characters/emenil.md):** priestess survives E057 bite through Stanley's healing, attends E058 court and remains a witness to hidden Weir bargains. [E057](../episodes/E057.md) · [E058](../episodes/E058.md).
+
+**Sources and horizon:** [E057](../episodes/E057.md)–[E060](../episodes/E060.md). **Do not infer a dead Diptak's resurrection, a completed Orp duel, or guaranteed Diontalus extinction**.

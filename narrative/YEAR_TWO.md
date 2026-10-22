@@ -1,6 +1,6 @@
-# Year Two — The Sky Falls
+# Year Two — Stones, Souls and the Great Fang
 
-**Narrative status:** Opening chapters only, covering corrected **E055–E056** after the played three-month downtime. **Full spoilers** for these episodes and the first arc. This is an editorial retelling drawn from **processed Parakeet SRTs, not an audio-verified transcript**. The [April 2019 bonus](../episodes/BONUS-2019-04.md) offers out-of-character interpretation, not a third scene or definitive unseen event. The full first arc ends in [Year One](YEAR_ONE.md).
+**Narrative status:** Opening chapters covering corrected **E055–E060** after the played three-month downtime. **Full spoilers** for these episodes and the first arc. This is an editorial retelling drawn from **processed Parakeet SRTs, not an audio-verified transcript**. The [April 2019 bonus](../episodes/BONUS-2019-04.md) offers out-of-character interpretation, not a third scene or definitive unseen event. The full first arc ends in [Year One](YEAR_ONE.md).
 
 ## I. Three months and a throne
 
@@ -30,6 +30,44 @@ That apparent moment of relief becomes another crisis. **Nobiery reveals the roy
 
 ## Where the story stands after E056
 
-The city has now endured an actual three months of government **and** a new disaster. The pregnancy is real in the story, the stone storm has killed civilians, Hope has a serious legitimacy problem, and the party's alliances are no longer secured merely by the coronation. George and P0D **appeared as spirits**, not as living resurrected companions. Vorel **was restored before episode end**. Whether Quizquaz's account of cosmic powers is truthful, where the meteor fell, and whether Emenil survives the animated assault remain open to subsequent episodes.
+The city has now endured an actual three months of government **and** a new disaster. The pregnancy is real in the story, the stone storm has killed civilians, Hope has a serious legitimacy problem, and the party's alliances are no longer secured merely by the coronation. George and P0D **appeared as spirits**, not as living resurrected companions. Vorel **was restored before episode end**. E057 confirms **Emenil survives and is healed**, and locates an extraordinary **impact crater**; whether Quizquaz accurately described the dragon or its killers remains open.
+
+## III. A crater of green and a cargo of prisoners
+
+The threat to Emenil is real: **47 Carnage bites her**, Stanley's flying sword cannot stop the first attack, and **Stanley heals her** after Hope orders Nobiery to halt his dead servants. The dispute is not over. Nobiery admits he **told his people the gods sheltered them when he had in fact contracted with the Soulbroker**. Emenil agrees to learn more rather than immediately expose him, still shaken by the deception.
+
+Seeking the source of the rocks, the party takes a rebuilt **royal monster truck** into the desert, leaving **Fate 4** at home. Among shattered stones they find something the Wastes should scarcely contain: **a steaming jungle-like crater**, dotted with green life and glowing plants. A big body or object has been **dragged away by numerous bugbear-sized footprints** and a vehicle; whether it is the dragon from Quizquaz's account is not proven by the tracks alone.
+
+They dig up an unlucky leprechaun with a lost pot of gold. But **Diontalus** abruptly takes Stanley's body and **kills him, devouring the magic**, leaving **a lucky coin for Hope**. The companions are furious. A **Wormfather** war party arrives with bugbears, a robed leader and a venomous winged pet; **Stanley destroys the flying creature**, and the bugbears continue fighting. When the remaining enemies fall, Vorel cuts open a skull and uncovers a **living black parasite** on the brain—real evidence that something has been riding inside the raiders.
+
+The trip home is absurd and tense: **Nash flies off as a dragon**, the truck leaves **bananas** along its path, and he follows them until his transformation ends. Hope dispatches a search party that **retrieves him alive**. Soon the capital sees an altogether different visitor: the **Principle**, a gigantic **metallic figure wearing red rings**, arrives to discuss peace with Hope.
+
+**Evidence:** [E057](../episodes/E057.md) · [E058](../episodes/E058.md).
+
+## IV. A bargain in steel
+
+The Principle speaks courteously and unapologetically. He offers **rail trade, rebuilding resources, an embassy and a local Steel God prayer hall** in return for cooperation. He contends that the Dusthill raid was not authorized by him personally and insists his coercive empire can save mortal souls from Weirlords. The heroes neither embrace that moral vision nor choose a suicidal attack in Hope's throne room. They demand **paid, voluntary labor** and defensive control of railway access, and cautiously proceed.
+
+He makes a far more startling proposal: **Diontalus must be imprisoned**. Before the group can properly understand the danger, the Principle raises a crystal and **pulls the archfey's presence out of Stanley**. Diontalus screams as he is drawn into it; the metallic ruler puts the crystal away. **Stanley is apparently free**, at least for now. No one knows whether the ancient ruler is trustworthy enough to keep this sudden freedom from becoming another bargain's trap.
+
+Then **actual Dusthill survivors arrive**, not just a letter promising their release. **Talia, Bruce Bane, Jimster, Shun'ti and others** are welcomed into Tietkalla. They describe forced life at **Salivating Fields** and their years of separation. Their reunion is real, even if the fate of every missing Dusthill citizen remains to be investigated.
+
+Another obligation intrudes: **Diptak summons Vorel** to reclaim his lizardfolk birthright. The adventurers take **Fate 4**, Diptak and Vorel mount hunting lizards, and the group crosses the sands toward Razak Val. A vast cloud of bloodsuckers drives them into **Stanley's magical hut**, which Nash protects with a mound of earth. At journey's end the reigning Great Fang proves to be **Orp**, the cyclops they once helped steer away from other people. He has built a new home by making the whole settlement deliver **living humans for his meals**.
+
+**Evidence:** [E058](../episodes/E058.md) · [E059](../episodes/E059.md).
+
+## V. Honor has a price
+
+At Razak Val, Vorel thinks he will find the simplicity of the old lizardfolk code. Instead he finds **clans, priesthood, alliances and court politics**, all coiled around the title **Great Fang**. The cyclops calls Vorel his friend and refuses to fight him. Diptak urges a formal contest, and **Orp casually kills Diptak with a single blow**. The loss makes Vorel's duty immediate and personal.
+
+The diminutive, articulate **Mirion Fengar** explains a system in which a new ruler is selected through a **scaling duel**, yet powerful families shape who may rule and keep their own interests alive after a victory. A **Council of Twelve** is worshipped above the valley; **Cave Fengar** hosts a grand dinner before combat. The nobles discuss the **Demon Vold**, dragon traditions and the threatened encroachment of the Principle. The party must decide how much of the system they can tolerate if Vorel wins.
+
+At the feast Orp **finally accepts the duel**, to be held **the next morning**. Guests contend with living snake appetizers and a terrible creature cooked as **“chicken lord.”** Nash slips out toward a latrine, where a cloaked stranger reveals **Nash's own face, unscarred**, and claims to be **Nash from the future**. Only Nash hears this claim in the played scene. The stranger's true origin—and the outcome of the approaching duel—remain out of reach at the end of E060.
+
+**Evidence:** [E060](../episodes/E060.md).
+
+## Where the story stands after E060
+
+**Emenil survives**, **Dusthill survivors have actually returned**, and **Diontalus is apparently contained in a crystal held by the Principle**. The **railroad does not yet exist**. **Orp has killed Diptak but remains Great Fang**, while Vorel's scheduled challenge has **not yet been fought**. The eye-bearing, unscarred man claiming to be future Nash is an **unverified private encounter**, not established time-travel history.
 
 **Editorial boundary:** The [Year One Q&A](../episodes/BONUS-2019-03.md) preceded the played time jump; the [April bonus roundtable](../episodes/BONUS-2019-04.md) is out-of-character commentary after at least E055, not a substitute for E056. The [active consistency ledger](../world/CONSISTENCY_LEDGER.md) and [review queue](../project/REVIEW_QUEUE.md) track name spellings, evidence limits and unresolved mechanics.
