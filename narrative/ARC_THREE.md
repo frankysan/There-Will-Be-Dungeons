@@ -1,8 +1,8 @@
 # Arc Three — Strangers in the City of Doors
 
-**The Wastes, third researched story arc — opening chapters, corrected E082–E086 (ongoing)**
+**The Wastes, third researched story arc — opening chapters, corrected E082–E087 (ongoing)**
 
-**Full spoilers through E086.** This is an **initial narrative**, not a completed arc or an audio-verified transcript. It retells the **played sessions** from their [source-first dossiers](../episodes/E082.md), [E083](../episodes/E083.md), [E084](../episodes/E084.md), [E085](../episodes/E085.md) and [E086](../episodes/E086.md), which are based on processed ASR. Dialogue is paraphrased; uncertain names and planar explanations are not certified by this prose. The [December 2019 cast Q&A](../episodes/BONUS-2019-12.md) is retrospective context, **not another chapter of events**. This is **The Wastes**, wholly separate from *Inverse*.
+**Full spoilers through E087.** This is an **initial narrative**, not a completed arc or an audio-verified transcript. It retells the **played sessions** from their [source-first dossiers](../episodes/E082.md), [E083](../episodes/E083.md), [E084](../episodes/E084.md), [E085](../episodes/E085.md) [E086](../episodes/E086.md) and [E087](../episodes/E087.md), which are based on processed ASR. Dialogue is paraphrased; uncertain names and planar explanations are not certified by this prose. The [December 2019 cast Q&A](../episodes/BONUS-2019-12.md) is retrospective context, **not another chapter of events**. This is **The Wastes**, wholly separate from *Inverse*.
 
 ## Prologue — After the light
 
@@ -216,19 +216,87 @@ So Nash, now an eye, a mouth, two hands, a heart and one strange leg, floats bac
 
 [E086](../episodes/E086.md) · [Sigil](../world/places/sigil.md) · [Nash](../world/characters/nash-maggard.md)
 
+## XII. The champion who knew tomorrow's move
+
+On the way back from Sigil's bazaar, whispers trail Vorel's bright new cape. The city remembers the young lizardfolk dragged out of the Soggy Feather, not the fact that **he survived**. Bill is taking down the Arcane Spice sign when Vorel returns. The inn has lost its sponsorship, but Vorel has little time to worry about that now. The great championship begins this afternoon.
+
+There is something wrong with his shoulder. A swelling has grown where a masked assassin's dart struck him in the night. Nash, with the resourcefulness and questionable judgment of a man currently shaped like a heart, **bites it open**. Yellow fluid runs down Vorel's scales. Suddenly Vorel feels heavy, slow and sick. The dart has carried a **delayed poison**, and it could make winning an impossible task.
+
+The official escort arrives. Vorel accuses the championship's other players of sending the assassins, but has no name, confession or evidence to support him. The official inspects the empty black costumes strewn across the ruined upstairs room, recognizes the symbol of the **Order of the Crimson Moon**, and is disturbed by the expense someone has undertaken to kill this newcomer. But recognition is not proof of who paid. The official will help Vorel seek medical treatment at the Colosseum, not condemn a competitor on a hunch.
+
+The **Great Colosseum** rises like a monument above Sigil's streets, surrounded by banners and people. They arrive in a six-horse carriage and pass through a strict magical search. Nothing leaves her warning sword behind. Squirts leaves her strange forehead stone. Nash's heart is itself a source of enchantment, so an attendant clips an **M-shaped badge** to him: he is allowed in as a magically constituted person, even though enchanted equipment is banned.
+
+Eight players wait in the competitors' lounge. An armored warrior sits alone with a drink. A talking **illithid** shares a table with the jovial ghost of **Tubby Flavorbeard**, who calls himself **Tubbs 9K**. A halfling calling himself **the Mind Master** arrives surrounded by admirers. And near a throng of young fans sits **Kanja**, the celebrated champion who has supposedly never lost, sheltered behind a broad mirrorlike visor. He barely acknowledges the outsider everyone is discussing.
+
+The ghost and the illithid welcome Vorel to their table, only to ask whether his little manager killed a child because she was jealous of Vorel's supposed love for the boy. Sigil has built a scandal from bits of truth and invention. Squirts and Vorel deny the romance; nobody can explain what happened in a way that satisfies the curious.
+
+The Colosseum's physician finds the poison in Vorel's body and offers pills that will let him fight **without its crippling symptoms for eight or ten hours**. The poison will come back, he warns, and will require actual treatment later. Vorel suspects another plot. He holds the medicine rather than swallowing it. Nothing listens at the doctor's door and hears nothing but a solitary song. In the lounge Nash chews one of the pills, feels a little better, and persuades Vorel that the medicine may be what it claims. **Vorel takes the remaining tablets**. His strength returns for the tournament, though the infection is still there beneath the surface.
+
+In the announced first round, **Kanja, the armored Arsenad and Tubbs 9K** win their respective games. When Vorel's turn comes, a woman accompanying the Mind Master kisses the halfling, looks over his shoulder at Vorel and for an instant meets his gaze. Vorel knows those eyes. **They were in his bedroom during the assassination attempt.** Whether this woman hired the killers, wore the black mask, survived the vanishing body or only resembles someone he saw is still a mystery. The Mind Master laughs off the suggestion.
+
+The spectators have other concerns. They greet Vorel with chants of **child killer** and a storm of rotten vegetables. Vorel rages and starts batting the missiles away with fire, but officials warn that spells and magic on stage will bring disqualification. He sits down at the marionette controller instead.
+
+The Mind Master chooses **Rubles**. Vorel takes **Kung**, the fighter he has barely stopped playing since his first day. As the models tower above the arena and the match begins, the wretched potion from Kidigree's cauldron finally takes hold.
+
+Vorel's vision trails and splits. More strangely, a voice inside his head begins to **announce the Mind Master's intended moves before he makes them**. The novice hears what his opponent plans, yet must still choose how to answer it. He misjudges some attacks, blocks others and is nearly caught. Then he finds the rhythm of his favorite maneuver: the **jumping heavy kick**, the blow that has carried him through Royce. Rubles staggers beneath Kung's attacks, and a last ducking kick sends the opponent's marionette down.
+
+Vorel has won. **It is a played victory—and the unfair assistance of a forbidden potion is real.** The Mind Master leaves furious, promising that Vorel's career will not survive what he has done.
+
+[E087](../episodes/E087.md) · [The tournament source comparison](../reports/E087_ASR_COMPARISON_2026-10-22.md)
+
+## XIII. Five thousand gold and the tears of Kanja
+
+The tournament has rules against exactly the sort of advantage Vorel used. **Kanja** can see that something is wrong. He demands that the officials test the outsider, arguing that no one arriving from a portal could dominate experienced players so quickly. Squirts responds by urinating on the champion's leg, and then insists that **all the remaining competitors be tested**, not only Vorel.
+
+The officials send the players to a latrine for a supervised urine sample. A pleasant attendant named **Jimmy** watches Vorel fill his cup. But when the attendant lifts the sample, **his eye changes**, briefly revealing the birdlike priest's true form. **Kidigree** has found another way to help. He pours Vorel's specimen away and replaces it with **his own urine**, then submits the cup under the competitor's name. Nothing about the test can now establish that Vorel was clean.
+
+The resulting spell test lights up one specimen in red. It is not Vorel's and not Kanja's. It belongs to **Tubbs 9K**, the friendly dwarven ghost. Officials say they have found a performance-enhancing substance and **disqualify him**. Tubbs protests that it is difficult enough for a ghost to compete against the living, then floats away. What actually produced his positive result is not investigated further in this scene. His disqualification gives **Vorel an automatic place in the grand final**. Vorel did not beat him in a match.
+
+Kidigree, disguised once more, slips Vorel a **small round device with a button**. First, Vorel must defeat Kanja publicly. Then he must press the button and place the disc at Kanja's feet. The priest wants more than the end of an undefeated streak; he wants Kanja shamed so utterly that the crowd cannot look away. Only after that humiliation, he repeats, can he see about bringing back **Hope and Stanley**.
+
+Kanja defeats the armored challenger in the other semifinal. At last the two most unlikely finalists walk into the arena together: a young celebrity who thinks himself invincible, and a lizardfolk who has scarcely been in Sigil long enough to know the rules.
+
+Kanja takes **Bland**. Vorel selects **Kung**.
+
+Again the potion gives Vorel a strange double vision and the opponent's intended moves reach him before their execution. But **Kanja is far better than the Mind Master**. His strikes arrive quickly, his dazing blows leave Kung vulnerable and his tremendous kicks nearly end the game. Vorel learns to survive by ducking at the right moment and counterattacking with the heavy kicks he loves. Near the end both marionettes are down to their last strength, and the crowd sees Kanja ready one final enormous blow. Vorel knows what is coming.
+
+He ducks, kicks, and **Bland falls**.
+
+Vorel has **beaten Kanja in the played championship final**. The crowd howls in outrage. Kanja cannot accept that a newcomer has ended his perfect career, screaming about cheating as vegetables fly onto the stage. His suspicions are not imaginary—Vorel really has cheated—but Kanja has a secret of his own.
+
+Vorel presses the button on Kidigree's disc and slides it to the champion's feet. A purple light climbs across Kanja's body, exposing what looks like **an entire tiny workforce inside him**: little figures operating wheels, walking along stairs, laboring at desks. The miniature inhabitants look out in panic. Kanja turns to flee. The announcer declares the revered champion to be **a team pretending to be one player**, a violation of the sport's rules. The crowd, suddenly delighted at its former idol's disgrace, turns its vegetables and ridicule toward Kanja instead.
+
+The priest's device may have revealed a literal hidden mechanism, or deceived everyone with trickster magic; the game offers **no independent examination of how Kanja is made**. But the humiliation is unmistakable. Kanja is beaten, exposed to a jeering crowd and gone from the stage in tears. That is exactly what Kidigree demanded.
+
+Then the referee lifts Vorel's hand and names him **overall Big Time Smackeroo champion**. The organizers hand him **two sacks totaling five thousand gold pieces** and a great trophy bearing Kung's likeness. Flying reporters with tiny wings paint his portrait. Overnight the despised outsider has become a hero of the sport, though the sight of a victorious lizardfolk says little about how fairly he fought.
+
+The party returns to the **Soggy Feather** amid another parade. The trophy becomes Vorel's stew bowl while fans celebrate well into the night. **Nash** waits tables, earning a gold piece in wages and eighty-five in tips. **Nothing** mixes honest serving with a lucrative talent for emptying patrons' purses. **Squirts** plays tricks and pockets small change. Through it all Vorel guards his winnings; they are not merely a reward for sport, but the means to repair what happened at CHIDS.
+
+When the revelry ends, Nothing asks for payment for guarding Vorel and fighting off the assassins. They settle on **six hundred gold**. Vorel then gives **five hundred** to Nash for the expensive **spell key** that might let him cast again. The original five-thousand-gold purse stands at **three thousand nine hundred** after those transfers.
+
+They sleep through much of the next day. Nash awakes with **a second forearm and an ear**, two more absurd signs of his body growing back in installments. Bill, meanwhile, has decided that the Soggy Feather cannot continue housing them at the Welcome Center's expense. The free vouchers have run out, the damage is considerable, and the inn needs money. Vorel **pays one hundred gold**: forty for repairs, sixty for thirty days' lodging and ordinary meals. **Three thousand eight hundred gold remains from the championship prize**.
+
+Bill speaks wistfully of retiring with Pam to the **Feywild**. Perhaps, he suggests, Vorel would like to buy the Soggy Feather or become a partner. It is a tempting possibility for a party in need of a home, but **no sale is made**.
+
+Vorel's shoulder is swelling again. The doctor's pills have worn off; the dart poison is still there. This time **Squirts uses her own cleric magic to neutralize it**, and the pain and pustules retreat. Then Vorel asks her to take him to the person who began all this business. He has defeated the champion, pressed the humiliating disc and collected his money. It is time to ask the priest to keep his promise.
+
+The four leave the inn together and follow Squirts through Sigil toward the hidden temple. **Hope and Stanley have not yet been revived**. Nothing's separate commission still waits. But Vorel has done what the trickster demanded, and for the first time since the beam there is a clear path toward trying to bring the old party together.
+
+[E087](../episodes/E087.md) · [Vorel](../world/characters/vorel.md) · [Nash](../world/characters/nash-maggard.md)
+
 ## An open door, not an ending
 
-The four who stood in the beam beneath CHIDS are not restored to their old company. **Vorel** is now Royce Gymnasium qualifier champion and dressed in a cape promoting the Soggy Feather, but **his larger championship bout remains ahead**; he has secretly swallowed a purported performance-enhancing potion forbidden by the rules. **Nash** has gained more of a body and learned that **spell keys** can counter Sigil's local magical restrictions, but he has **no key and no affordable way to acquire one yet**. **Hope and Stanley remain petitioners in the trickster church's crypts** with only a promised future attempt at resurrection.
+The four who entered the beam at CHIDS remain divided by what happened there. **Vorel is now Sigil's overall Big Time Smackeroo champion**, with the genuine trophy and a prize of **five thousand gold paid**. But his contest was aided by **a forbidden predictive potion** and a **swapped urine sample**. He also used the priest's glowing device to humiliate **Kanja**, whose apparent body housed a secret miniature work crew, or something the device made the crowd believe was there. **The public humiliation is performed**; **the promised resurrection remains a conditional next step**.
 
-**Squirts** has both helped Vorel and severely harmed an innocent young admirer who, despite his apparent death, **survives after she stabilizes him**. **Nothing** recognizes the killers as the **Order of the Crimson Moon**, but their employer is still unknown and Nothing's private **Abyss kidnapping assignment remains unperformed**. Even Vorel's sudden fame is a mixed blessing: an endorsement was offered and then withdrawn, leaving only a locally made cape and damaged relationships.
+**Nash** has gained forearms and an ear and now physically possesses money that could buy his first spell key, but **has not bought one or restored ordinary spellcasting**. **Nothing** knows the assassins as the **Order of the Crimson Moon** but not their employer, and carries a separately accepted **Abyss-bound kidnapping commission that remains unperformed**. **Squirts** has cured Vorel's lingering dart poison, while the young lizardfolk she burned is **alive at his last witnessed appearance** despite persistent rumors of murder.
 
-Sigil's doors still offer no verified return to Earth, and the **Traversal Drive, the Principle and the Soulbroker pact** remain unresolved. The next great challenge is the **larger BMF final at three**, but **that contest has not begun here**.
+The Soggy Feather is a temporary, paid home for thirty days. Bill has suggested ownership, not sold it. Sigil still offers no verified portal back to Earth, and **the Traversal Drive, the Principle and the Soulbroker pact** remain unresolved.
 
-**This narrative currently ends at E086.** Continue by **connected story movements**, not by appending a duplicate episode recap each week. The [chronology](../world/CHRONOLOGY.md) and [episode dossiers](../episodes/E086.md) retain timestamped source details, open identities and model disagreements.
+**This narrative currently ends at E087 as the party sets out toward Kidigree's temple.** No meeting with the priest, actual ritual, reunion with Hope and Stanley, or consequence for Kanja beyond this episode is yet described. The [chronology](../world/CHRONOLOGY.md) and [episode dossiers](../episodes/E087.md) preserve source and scene cutoffs; this narrative will develop in connected story movements rather than append-only episode recaps.
 
 ### Later commentary, separate from the action
 
-In the [December 2019 bonus Q&A](../episodes/BONUS-2019-12.md), **Beau later explains** that Hope and Stanley's apparent bodies are **manifestations of souls interrupted on their way to the Weir**. That adds creator commentary to the trickster priest's explanation, but it does **not** place the knowledge in Vorel's hands at the start of E082, resurrect either companion, or settle the future of the contract. Beau also says he did not plan for **all four** to enter the beam in E081. These are **retrospective explanations**, not extra scenes between E082 and E086. The [December 2019 bonus ASR comparison](../reports/BONUS_2019_12_ASR_COMPARISON_2026-10-22.md) remains **unverified against audio**.
+In the [December 2019 bonus Q&A](../episodes/BONUS-2019-12.md), **Beau later explains** that Hope and Stanley's apparent bodies are **manifestations of souls interrupted on their way to the Weir**. That adds creator commentary to the trickster priest's explanation, but it does **not** place the knowledge in Vorel's hands at the start of E082, resurrect either companion, or settle the future of the contract. Beau also says he did not plan for **all four** to enter the beam in E081. These are **retrospective explanations**, not extra scenes between E082 and E087. The [December 2019 bonus ASR comparison](../reports/BONUS_2019_12_ASR_COMPARISON_2026-10-22.md) remains **unverified against audio**.
 
 In the **[January 2020 public-release Q&A](../episodes/BONUS-2020-01.md)** (introduced aloud as the **December 2019** bonus), **Beau later calls the E085 arena apparition the Lady of Pain**. This is a **retrospective GM identification** rather than a declaration heard by the participants in the scene. He also says **Nash's spellcasting abilities remain intact**, though an **undisclosed external Sigil-specific influence** suppressed his spells. He anticipates Nash's gradual bodily regeneration, while **not explaining the in-world solution or enacting it in E085**. This discussion is not a tenth narrative chapter. [Two-ASR comparison](../reports/BONUS_2020_01_ASR_COMPARISON_2026-10-22.md).
 
