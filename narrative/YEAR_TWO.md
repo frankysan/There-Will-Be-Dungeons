@@ -1,6 +1,6 @@
 # Year Two — Stones, Souls and the Great Fang
 
-**Narrative status:** Opening chapters covering corrected **E055–E068** after the played three-month downtime. **Full spoilers** for these episodes and the first arc. This is an editorial retelling drawn from **processed Parakeet SRTs, not an audio-verified transcript**. The [April 2019 bonus](../episodes/BONUS-2019-04.md) offers out-of-character interpretation, not a third scene or definitive unseen event. The full first arc ends in [Year One](YEAR_ONE.md).
+**Narrative status:** Opening chapters covering corrected **E055–E071** after the played three-month downtime. **Full spoilers** for these episodes and the first arc. This is an editorial retelling drawn from **processed Parakeet SRTs, not an audio-verified transcript**. The [April 2019 bonus](../episodes/BONUS-2019-04.md) offers out-of-character interpretation, not a third scene or definitive unseen event. The full first arc ends in [Year One](YEAR_ONE.md).
 
 ## I. Three months and a throne
 
@@ -186,8 +186,60 @@ Hope reaches out with her one **flesh hand** to press a button. **The panel leap
 
 **Evidence:** [E068](../episodes/E068.md). The [August public-release bonus](../episodes/BONUS-2019-08.md), recorded as **July 27** according to Scott, later clarifies that Beau intended the **light and worms to point to a secret lower chamber**. This is **GM puzzle-design testimony**, not proof the ancient machine is already found.
 
-## Where the story stands after E068
+## Interim checkpoint — after E068
 
 **Vorel, Hope, Nash and Stanley are alive beneath Kervalon after the fight.** The mind flayer's **visible body was destroyed**, but its enduring identity and Sira's fate remain unknown; **the trapped lizardfolk's sudden silence does not establish their deaths**. **Vorel's T. rex transformation actually occurred**, but ended under rifle fire. The magical light can **disintegrate matter and distort nearby bodies**; no one has entered it. The party has discovered **concealed steel doors**, yet **the biting control panel prevented their first attempt at using it**, and no machine has been directly inspected. **Omnom/Razak Val remain unobserved**, as in the earlier cutoffs.
+
+## XIV. Doors do not forget
+
+Kervalon's deep **steel doors** wait beneath the strange shaft, guarded by the hungry control panel that nearly cost Hope her only flesh fingers. But it does more than bite: it **speaks**, forbidding their passage on behalf of the **Door Authority**, for all the doors that the travelers have wronged. Nash finds the one threat it cannot bear—**acid**—and persuades it to open only after giving it a small dose, so it may claim coercion before its superiors.
+
+Beyond the doorway, **grape-scented purple fog and black worms** choke an old transport shaft. A small, broken **funicular** offers a path down. The friends break open its doors and coax the old controls into action. They descend past eerie pink flowers, unaware that the spores will **put Nash and Hope to sleep**. Suddenly the car races downhill out of control. Vorel and Stanley tumble against its walls; **Stanley conjures Feather Fall**, and though the machine wrecks itself at the bottom, the four survive.
+
+They stagger into a vast, forgotten place called the **Center for Human-Demon Interdisciplinary Studies**, or **CHIDS** according to an old sign. There are dead receptionists, ancient machines, and an unusually cheerful projected receptionist, **Julia**, still reciting the virtues of human and demon engineering. Her map depicts **laboratories, containment sectors, executive suites, employee living quarters and trains**. Crossing the security barrier requires cards belonging to people who have been dead for generations.
+
+So the friends search the **living pods**. They find a demon scientist's skeleton still floating because of a wondrous pair of **self-cooling, flying underwear**, which Nash eagerly dons. Vorel and Stanley visit a ruined **McDonald's**, emerging with an old staff card and a bottle labeled **Coca-Cola**. At a derelict **oxygen bar**, Hope finds another card and whiskey. Nash tries the mask she activates, only to **inhale poisonous brown fumes** and stagger away coughing.
+
+At the checkpoint some of the stolen identities work. **Hope's do not**. Ceiling-mounted weapons unfold, **Diplomacy** stabs at the machinery, and **Vorel bends the security door aside** so she can escape. The group boards a subway through the enormous complex. Most stations are buried under rock; others still lead to shadowy corridors. They choose the **executive offices** as a possible route to those controlling the machine. There, in the quiet, Hope feels tentacles reaching for her head.
+
+**Evidence:** [E069](../episodes/E069.md). The facility's preserved presentations reveal its self-description, not a proven account of every ancient event.
+
+## XV. A game in the mind
+
+The supposed monster behind Hope is a **tentacled plush doll**, which squeaks when squeezed. Hope keeps it. Another relic, a **green-lettered computer**, asks whether the companions would like to play a game. It directs them to a conference room with eight thick wired glasses.
+
+While they search, **Vorel sings**, calling himself the **Lizard King** once more. Small floating creatures drift through the walls, gather around him and **nibble pleasantly at his mind**. Nash's songs invite them too. But the little things recoil from **Hope and Stanley**, and the doll's squeak scatters them altogether. Whether they are good omens, strange psychic animals or something less benign is difficult to know.
+
+At the conference table **Nash dons the glasses**. The dead offices brighten, people return to their desks, and his own limbs become blue and tentacled. The image is not merely a movie. He finds himself in a bustling illithid workplace where thoughts replace voices. A casually dressed illithid named **Charles Dickens** approaches, furious that after **fifty years** his talents have been wasted in a minor job while his rival **Ovaxiad** seizes the great prize.
+
+Charles claims a machine called the **Traversal Drive** can transport whole worlds, and that his superior intends to use it to bring their realm into Earth's place. But the reporting systems can be sabotaged. With **Hope** joining Nash inside the glasses, Charles gives them a data stick and asks them to **upload false numbers**. Perhaps, he says, it could delay the dreadful project for months. Charles makes no secret that he cares chiefly about humiliating his rival.
+
+Hope slips through an office as a **cockroach**, then watches from a desk disguised as a **coffee mug**. Nash uses a sleeping worker's empty workstation, tentacles pressed against a scanner, and persuades the old machine to accept the strange file. The moment seems successful—until a real employee sees that Nash does not belong there. **Hope changes into a car and crashes through desks** as security alarms begin to wail.
+
+The worst part is that the alarms **also sound in the abandoned physical office**, where Stanley and Vorel are waiting. The two investigators tear away their headsets just as the glasses **turn to grasping membranes**. Then **flaming hounds leap into the room**, followed by giant **orange ape-like security guards**. Stanley turns one guard into **a tiny snail**. Nash makes Vorel huge enough to **catch two hellhounds and swing them into others**. Bullets, magic, claws and flame fill the room, and the friends realize the fight will not end quickly.
+
+**Evidence:** [E070](../episodes/E070.md). Charles's cosmology and the data upload's eventual effect remain **speaker claims and unmeasured consequences**.
+
+## XVI. Bureaucrats above and below
+
+The battle continues with extraordinary violence. **Vorel smashes the fiery dogs together**, **Stanley sends Diplomacy and booming thunder through others**, and **Hope's radiant ammunition** burns away fiends. The second ape tries to strike Vorel, but his huge fists and a hellhound club finish it. At last, as the final burning hound falls, only the alarms remain. The **first ape is still alive**, helpless in its snail form.
+
+In the dark hall another strange figure emerges: **Alvert**, a tiny leathery imp with a baby's body and an old man's face. He begs not to be hit and announces himself an investigator from the **Underworld Bureau of Investigation**. Alvert has been watching the party, says he knows much of this place, and has come to discover why **the Weir's demons are stealing souls** that Hell believes belong to other afterlives. He is not polite about mortals, or elves, or the workings of damnation. Nor is there any reason to trust him automatically.
+
+But he offers a shocking story about the **Principle**. Long ago, he says, a human scientist in these halls altered himself to survive the dragons' attack, becoming a nearly immortal servant of the **Steel God**. To continue living and resisting demons, Alvert alleges, the Principle uses human gene farms and terrible biological processing. **It is Alvert's account, with parts explicitly framed as rumor**, not a scene the heroes witness. The very thought unsettles the group.
+
+The imp suspects **engineering** contains the **Traversal Drive**, yet cannot open its unpowered door. The party returns to the executive offices once more. Nash and Hope contact the old screen, where a message **claiming to be Charles Dickens** says their data upload worked, then shuts the connection to prevent detection. The machine spits out a smoking piece of hardware; Nash cools and pockets it. Vorel and Stanley retrieve the **still-transformed snail**. They put it aboard an empty train and send the train off toward apparent enemy patrols, hoping a collision will restore a furious security ape in their path. **They never witness the collision or the snail's return to its former shape**.
+
+The travelers walk down the rail tracks, through **bitter cold and growing ice**. At an **Archives** station even its door has read the **Door Street Journal**, telling them of their reputation. Persuasion and a stolen card get the friends into the bright reception hall, but its inner doors have no power. Rather than rest, they continue to the **data center**, where a great steel portal is buried beneath **massive blue-white ice**.
+
+**Stanley heats the hidden metal**, and chunks break loose, but the melting water freezes again almost at once. **Vorel throws the Eye of Groxl** into the barrier, gouging its surface. Hope sees a better path: a **ventilation shaft high above the ice**. Nash burns away some frost; Stanley and Vorel work together to heat the metal until the duct opens.
+
+To lift each person through, the party shares Nash's miraculous **floating underwear**. For a moment Stanley wears it, then Hope, then Vorel, who hoists the wounded Nash as though carrying a bride. Soon **all four crawl along the frozen duct**, shivering as new ice creeps over its walls. **Alvert refuses to follow**, too frightened of the cold. Far below them, the rails are quiet.
+
+**Evidence:** [E071](../episodes/E071.md). The Principle biography, afterlife politics and machine location remain **Alvert's testimony**; the team has **not yet entered the data center proper**.
+
+## Where the story stands after E071
+
+**All four protagonists are alive and inside the frozen ventilation duct near CHIDS's data center**, with **Alvert remaining outside**. They have **not reached or inspected the Traversal Drive**, restored engineering power or rescued Sira. **The demonic hounds and one ape are killed; a second ape was sent away still transformed into a snail**, with its fate unresolved. A message naming **Charles Dickens** confirms an **uploaded report**, but there is no observed duration of any delay to the realm-merger attempt. **The flying/cooling briefs are one shared item, last worn by Vorel**. Nash's previous poison status has no documented explicit cure. Hope's physical shotgun jam is cleared. The **Principle's alleged human-processing machinery** is an accusation made by Alvert, **not a verified site discovery**.
 
 **Editorial boundary:** The [Year One Q&A](../episodes/BONUS-2019-03.md) preceded the played time jump; the [April bonus roundtable](../episodes/BONUS-2019-04.md) is out-of-character commentary after at least E055, not a substitute for E056. The [active consistency ledger](../world/CONSISTENCY_LEDGER.md) and [review queue](../project/REVIEW_QUEUE.md) track name spellings, evidence limits and unresolved mechanics.
