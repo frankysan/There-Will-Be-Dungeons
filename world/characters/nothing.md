@@ -4,7 +4,7 @@
 
 ## Identity and traits
 
-**Nothing** is a small, dark-feathered **kenku**, dressed in worn, hooded dark clothes and a modified, long-beaked **plague-doctor-like mask**. The performer describes removing the cloak and mask at night, setting gear aside and planting an **eye-marked sword** in the floor while Nothing sleeps in a chair. The character carries other blades and is vigilant about possible threats. **Nothing communicates largely by mimicking phrases and sounds**; repeated “yes,” “no” or borrowed statements are not consistently plain, independent answers. The narration uses **female pronouns** in E083 even while other characters sometimes guess incorrectly; verify by later material before making broader assumptions.
+**Nothing** is a small, dark-feathered **kenku**, dressed in worn, hooded dark clothes and a modified, long-beaked **plague-doctor-like mask**. The performer describes removing the cloak and mask at night, setting gear aside and planting a **sword with an as-yet-unverified hilt marking** in the floor while Nothing sleeps in a chair. The character carries other blades and is vigilant about possible threats. **Nothing communicates largely by mimicking phrases and sounds**; repeated “yes,” “no” or borrowed statements are not consistently plain, independent answers. The narration uses **female pronouns** in E083 even while other characters sometimes guess incorrectly; verify by later material before making broader assumptions.
 
 ## Played development
 
