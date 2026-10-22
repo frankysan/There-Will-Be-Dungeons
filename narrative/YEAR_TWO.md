@@ -1,6 +1,6 @@
 # Year Two — Stones, Souls and the Great Fang
 
-**Narrative status:** Opening chapters covering corrected **E055–E067** after the played three-month downtime. **Full spoilers** for these episodes and the first arc. This is an editorial retelling drawn from **processed Parakeet SRTs, not an audio-verified transcript**. The [April 2019 bonus](../episodes/BONUS-2019-04.md) offers out-of-character interpretation, not a third scene or definitive unseen event. The full first arc ends in [Year One](YEAR_ONE.md).
+**Narrative status:** Opening chapters covering corrected **E055–E068** after the played three-month downtime. **Full spoilers** for these episodes and the first arc. This is an editorial retelling drawn from **processed Parakeet SRTs, not an audio-verified transcript**. The [April 2019 bonus](../episodes/BONUS-2019-04.md) offers out-of-character interpretation, not a third scene or definitive unseen event. The full first arc ends in [Year One](YEAR_ONE.md).
 
 ## I. Three months and a throne
 
@@ -164,8 +164,30 @@ As they explore the empty stone side rooms, they hear other footsteps. **Hope lo
 
 **Evidence:** [E067](../episodes/E067.md). Hope's Dusthill interlude **does not restore Fate 4**; the dragon's ancient-machine account is **attributed testimony**, and the proposed dinosaur breach **is never cast**.
 
-## Where the story stands after E067
+## Interim checkpoint — after E067
 
 **Fate 4 is destroyed**, and Vorel's **Fang Fate Five** is an unusable salvage cart left behind. **Rorf and Follow die E066**, and **Sira is kidnapped**, her whereabouts inside/near Kervalon unverified. **Hope has rejected a new demonic bargain**. A **spectral dragon claims** that an ancient planet-moving machine threatens Earth, but **the party has not confirmed the device or its function**. The four have **entered the ruined keep through Nash's underground tunnel**, defeated one flesh-and-skeleton monster, and found signs of an armed lizardfolk ambush ahead; **the rescue and world-saving mission are still in progress**. Omnom and Razak Val's survivors remain outside the story's present view.
+
+## XIII. A clever trap, a king of teeth and a shell of ink
+
+The four friends are still beneath **Kervalon**, where Hope has spotted a rifleman waiting in a dark room. The voices of their earlier battle have already betrayed their presence, but Nash cannot resist devising a way to turn the guards' pursuit against them. **He builds walls where there were passages and imagines a false door**, so that pursuers chasing Vorel down a hall will be led into a trap. Stanley and Hope help refine the plan; the many minutes spent explaining exactly how to time the illusion, the dirt and the retreat become a kind of contest of their own.
+
+**Vorel steps forward and invokes his authority as the Great Fang**, denouncing lizardfolk who have fallen under outside influence. The answer is a burst of bright **energy-rifle fire** from every direction. Vorel retreats through Nash's prepared route, drawing **a group of melee lizardfolk into the hall**, while riflemen hold farther back. **Nash seals the pursuers behind a wall**—one part of the trap works. The rest of the companions choose their moment.
+
+As Vorel leaps out again, **Stanley finally performs the dinosaur transformation they once only debated**. The lizardfolk becomes a towering **Tyrannosaurus rex**, crushing one guard on the way down, scattering others with his tail and swallowing another in his jaws. When someone notes that **rex means king**, Vorel cheerfully accepts the new, joking title. But a floating **mind flayer** exerts mental control over the great beast. **Hope shoots it twice**, breaking its spell concentration before it can use the dinosaur against his own friends. Then a psychic wave **stuns both Hope and Vorel**.
+
+The lizardfolk riflemen fire again and again. Their beams batter the enormous animal until **the temporary dinosaur body fails** and Vorel staggers back into his ordinary form, badly wounded but alive. Hope and Vorel can do little while stunned, leaving **Nash and Stanley** to fight the growing danger. **Nash's fire and ice** fill the underground chamber; **Stanley's Diplomacy flies into the mind flayer's head**, after which the creature **collapses into a strange empty skin slick with black oil**. No one can tell whether this was the end of the kidnapper's true being. Eventually the remaining exposed guards fall. The companions can still hear those trapped behind Nash's walls, until **their frantic hammering suddenly ceases**. Rather than open the cell, they reinforce the masonry.
+
+They destroy small black worms found creeping around the corpses, rest inside **Stanley's Tiny Hut**, and receive his healing words and **Song of Rest**. Ahead of them, a brilliant light descends through a circular staircase and apparently into the floor. **Nash has never sensed stronger magic**. When Hope casts a rock into the beam, it disappears. Vorel throws in a dead lizardfolk: its body twists into impossible shapes, divides and vanishes as well. **Even Hope's leg temporarily curls into a spiral when she nears the energy**, but becomes normal once she draws away.
+
+The group climbs the surrounding stairs to the storm-lashed spire, finding neither the source nor a route beneath it. Nash cannot draw the earth from below the beam: it fights his magic. Back in the underground chamber **Hope follows a trail of tiny black worms**, spots them emerging from a crack, and directs Nash to remove the surrounding masonry. Beyond it lie **two heavy steel doors, a strange panel of buttons and a glass lens**, guarded only by the crawling things.
+
+Hope reaches out with her one **flesh hand** to press a button. **The panel leaps at her as a mouth full of teeth**. She pulls back just in time; the fingers are still hers. The doors do not open. Somewhere below, the mystery continues.
+
+**Evidence:** [E068](../episodes/E068.md). The [August public-release bonus](../episodes/BONUS-2019-08.md), recorded as **July 27** according to Scott, later clarifies that Beau intended the **light and worms to point to a secret lower chamber**. This is **GM puzzle-design testimony**, not proof the ancient machine is already found.
+
+## Where the story stands after E068
+
+**Vorel, Hope, Nash and Stanley are alive beneath Kervalon after the fight.** The mind flayer's **visible body was destroyed**, but its enduring identity and Sira's fate remain unknown; **the trapped lizardfolk's sudden silence does not establish their deaths**. **Vorel's T. rex transformation actually occurred**, but ended under rifle fire. The magical light can **disintegrate matter and distort nearby bodies**; no one has entered it. The party has discovered **concealed steel doors**, yet **the biting control panel prevented their first attempt at using it**, and no machine has been directly inspected. **Omnom/Razak Val remain unobserved**, as in the earlier cutoffs.
 
 **Editorial boundary:** The [Year One Q&A](../episodes/BONUS-2019-03.md) preceded the played time jump; the [April bonus roundtable](../episodes/BONUS-2019-04.md) is out-of-character commentary after at least E055, not a substitute for E056. The [active consistency ledger](../world/CONSISTENCY_LEDGER.md) and [review queue](../project/REVIEW_QUEUE.md) track name spellings, evidence limits and unresolved mechanics.
