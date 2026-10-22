@@ -20,6 +20,10 @@ In E051 **Kefeli petrifies Hope**, but Nash and Stanley make a one-off remedy fr
 
 **Primary evidence:** [E000](../../episodes/E000.md) · [E001](../../episodes/E001.md) · [E006](../../episodes/E006.md) · [E023](../../episodes/E023.md) · [E024](../../episodes/E024.md) · [E037](../../episodes/E037.md) · [E038](../../episodes/E038.md) · [E039](../../episodes/E039.md) · [E047](../../episodes/E047.md) · [E048](../../episodes/E048.md) · [E050](../../episodes/E050.md) · [E051](../../episodes/E051.md) · [E054](../../episodes/E054.md) · [post-arc Q&A](../../episodes/BONUS-2019-03.md) · [Tietkalla](../places/tietkalla.md) · [ledger](../CONSISTENCY_LEDGER.md).
 
+## June bonus — a still-developing divine ambition
+
+In the [June 2019 cast Q&A](../../episodes/BONUS-2019-06.md) (~00:16:28–00:16:45), **Kristen says her long-term concept for Hope is to become powerful enough to attain godhood and then destroy the gods**. She explicitly describes the idea as **not yet fully fleshed out**. This is a **player intention**, not a completed ascension, proof that any named gods have been killed, or an already public in-character declaration.
+
 ## After Year One — governing and contested truth (E055–E056)
 
 The three-month break **actually occurs before E055**: Hope has **abolished Guzbucks and a serf-like category of houseless subjects**, promoted merit-based employment, issued sanitation measures and rebuilt defenses/vehicles, but **house rivalries, shortages and the ethics of state coercion remain**. At court she orders captured gang members publicly executed, and **orders envoy Softhead's tongue removed while leaving him alive**. A **poisoned assassin** later attacks her in her chambers; she survives through weapons and guards. She is still the **publicly crowned queen**, but authority alone does not secure legitimate methods. [E055](../../episodes/E055.md).
