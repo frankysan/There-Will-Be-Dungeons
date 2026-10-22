@@ -1,0 +1,37 @@
+# E087 — We have a winner: dual-ASR source comparison (2026-10-22)
+
+> **Two machine-generated subtitle exports of the same played episode.** No direct audio verification, new inference run, human word reference, or original-SRT editing. [E087 dossier](../episodes/E087.md) · [Arc Three narrative](../narrative/ARC_THREE.md).
+
+## Intake and normalized text disagreement
+
+| Source | Pipeline named in filename (not independently reproduced) | Caption cues | Final caption approx. | Normalized word tokens |
+| --- | --- | ---: | --- | ---: |
+| [Parakeet processed](../sources/The%20Wastes%20S1E087.%20We%20have%20a%20winner.parakeet.processed.srt) | Parakeet processed | **2,899** | **02:55:51.88** | **25,296** |
+| [Qwen Q8 / Canary CTC / Nemotron](../sources/The%20Wastes%20S1E087.%20We%20have%20a%20winner.qwen-q8.canary-ctc.nemotron.srt) | Composite model names inferred only from filename | **4,718** | **02:55:51.82** | **25,537** |
+
+**Method:** extract SRT cue text in order, remove `(speaker N)` decorations, lower-case, delete apostrophes and punctuation while keeping Unicode letters/digits, normalize whitespace and count words. Compute **unit-cost whole-episode word Levenshtein distance** (substitutions/insertions/deletions) over transcript tokens, including recap/outro. Result: **1,675 minimum word operations / 25,296 Parakeet words = 6.62% first-export-relative text disagreement**. This is **not WER against listened audio**, an error percentage, evidence of identified omissions/hallucinations, or a model-quality ranking. Differences in caption count and first onset are **segmentation/timing hypotheses, not errors established by playback**. Input audio hash, processing commands, versions, quantization settings beyond filename, speed, hardware use, diarization accuracy and verified reference words are not available here.
+
+## Consequential passage comparisons and listening priorities
+
+| Approx. time | Recognizer or attribution risk | What is safely supported in played events |
+| --- | --- | --- |
+| **00:05–00:12** | Floating journalism eye called **“floaty”** by Bill; delayed **assassin-dart poison** emerges after Nash bursts infected shoulder. | Vorel becomes **Poisoned with disadvantage**, which needs treatment; the hovering eye **not identified as belonging to employer or a specific paper**. |
+| **00:14–00:22** | Vorel accuses a competitor via a **Kanja–ninja rhyme**, but handler **recognizes Order of the Crimson Moon** crest and **rejects unjustified link to a competitor**. | **No assassin contract or client identified**; a complaint isn't automatically accepted as proof. |
+| **00:34–00:49** | Eight finalist entrants: **Daniel Kanja/Conja Carp (?)**, **Brixter Blanca (?)**, **Arsenad/Asenad of the Exiles**, **Fax/Faks** (talking illithid), **Gofolmunch (?)**, ghost **Tubby Flavorbeard / Tubbs 9K**, **Mind Master Gorbkin/Göbkin Schartlinger (?)**, Vorel. | The **non-Vorel first-round wins are GM narrated**; names need audio/scoreboard or creator cross-check. Do not turn lore claims by competitors (e.g. Fax's metal fitting) into proved backstory. |
+| **00:54–01:04** | Physician's remedy **temporarily counteracts poison for 8–10 hours**; Vorel suspects conspiracy, Nothing hears only **singing** at door. | **Nash tries a pill and Vorel takes remaining pills**, both act accordingly; **not permanent antidote or proof doctor was corrupt**. |
+| **~01:09–01:12** | Woman kissing Mind Master has eyes Vorel **recognizes from the previous night's assassin intrusion**. Earlier special masked attacker **vanished into dust**. | **Recognized eyes constitute a clue** suggesting connection to Crimson Moon. **No demonstrated contract, definitive identity or return mechanism**; do not claim Mind Master hired the guild. |
+| **01:17–01:32** | **Vorel Kung vs Mind Master Rubles** marionette match, dice/combo arithmetic; **priest's secret drink creates an opponent-move voice** with disorienting image trails. | **Vorel plays and wins**; access to opponent intent is **actual illicit performance advantage**, though not automatic result. |
+| **01:34–01:46** | Kanja accuses Vorel of cheating. Squirts urinates on Kanja and calls for **testing everyone**; test attendant **Jimmy is Kidigree in disguise**, **discards Vorel's real urine and replaces it with his own**. | **Specimen swap is explicitly played**, so Vorel's clear screen **cannot establish no dopant**. |
+| **~01:45–01:49** | **Tubbs 9K's urine red**, mage infers performance enhancer **“Ubelax 4K” (?)**; ghost is **disqualified for at least one year**. | **No proof priest altered Tubbs's sample** or test was false; **Vorel advances via bye, not a win over Tubbs**. |
+| **~01:50–01:54** | Priest gives Vorel **button disc** to activate at Kanja's feet **after beating him**. | This is an **assigned deception/ritual aid**, **not already performed resurrection**. |
+| **~01:55–02:08** | Kanja's multiple-names and ten-year unbeaten claim, **Kanja as Bland / Vorel as Kung**, late **2 HP vs 4 HP**, finish with **duck-heavy kick**. | **Vorel legitimately wins the played match mechanically but with illicit precognition**. Do not confuse with E085 Royce qualifier against Ventro. |
+| **~02:07–02:14** | Activated disc projects/visually reveals **tiny operators, wheels, stairs and desks inside Kanja's body**; announcer declares **many people masquerading as one competitor**. | **Projected reveal, audience reaction and Kanja's humiliation directly played**; **not independently verified exact biology/authenticity or subsequent governing-body investigation**. |
+| **~02:10–02:18** | **Two sacks of 5,000 gold** and **Kung trophy handed to Vorel**, M Sports Weekly interview by **Ted Mundy/Monday (?)**. | **Prize physically paid** and **Vorel actual overall BMF champion**. Vorel denies killed child (boy alive since E086), but town-wide rumor not proven corrected. |
+| **~02:19–02:41** | Second Soggy Feather party and financial narration: **Nash 1 gp wage + 85 tips = 86**, **Nothing ~100 acquired by theft + 1 wage**, **Squirts ~25 stolen**, Vorel gives **Nothing 600** and **Nash 500**; provisional cash values. | **No spell key purchased**; prize remainder **3,900 after transfers, 3,800 after Bill's additional 100**; Nothing's prior wallet and Squirts's loot separate. |
+| **~02:43–02:55** | Nash chooses **second forearm and one ear** during rest; Bill asks **100 gold (40 repairs, 60 prepaid lodging for 30 days)**; Bill suggests retirement and possible sale/share of tavern; Squirts **casts Protection from Poison**; party **sets out toward church**. | **Vorel pays Bill and is actually cured**, but **does not purchase inn or see priest/revive Hope/Stanley** before episode ends. |
+
+## Unresolved tests and decision
+
+Prioritize audio on the **Mind Master's full name and companion's eyes**, **Kanja's formal name**, **Kidigree/Jimmy transformation**, **Tubbs positive screen**, **small workers inside Kanja**, and the **600/500/100 payouts**. The critical distinction is that **E087 changes the title and prize status from “future” to “won and paid,” but changes Hope and Stanley's status only from “bargain pending” to “humiliation performed, ritual not yet attempted.”** Do not merge them.
+
+**Next step:** independently research [E088 — Shopping Day](../sources/The%20Wastes%20S1E088.%20Shopping%20Day.parakeet.processed.srt) as a single bounded source with its second ASR, without assuming it immediately resolves the resurrection. [Review queue](../project/REVIEW_QUEUE.md) · [Model log](../project/MODEL_TESTS.md).
