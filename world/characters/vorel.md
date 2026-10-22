@@ -1,6 +1,6 @@
 # Vorel
 
-**Longer written name:** **Vorel Rasvim Kurik** in the fan wiki, not independently confirmed as a full name from Year One spoken dialogue. **Portrayed by:** Kyle. **Identity:** Lizardfolk warrior. **Year One status:** Alive; protector of Bok Bok; bearing the sentient **Eye of Groxl**. **Spoilers:** through E065; retrospective bonus remarks kept separate from played events.
+**Longer written name:** **Vorel Rasvim Kurik** in the fan wiki, not independently confirmed as a full name from Year One spoken dialogue. **Portrayed by:** Kyle. **Identity:** Lizardfolk warrior. **Year One status:** Alive; protector of Bok Bok; bearing the sentient **Eye of Groxl**. **Spoilers:** through E067; retrospective bonus remarks kept separate from played events.
 
 ## Character and development
 
@@ -33,6 +33,9 @@ Vorel increasingly **awards himself titles**. Record the exact phrase and first 
 | [E063](../../episodes/E063.md) ~00:24–00:26 | **“I am the force here”** (provisional paraphrase) | **Vorel boasts** while displaying his changing scales; this is **rhetoric**, not yet an established recurring formal title. | **ASR-only potential future epithet**; do not add to a formal name string without follow-up. |
 | [E064](../../episodes/E064.md) ~02:00–02:01 | **“Your Fang shall save you”** (provisional wording) | Vorel vows he **will return to save Razak Val**, asserting his **already recognized Great Fang office**, not creating a new title. | **Self-referential use of existing office**; exact words and timestamp need listening. |
 | [E064](../../episodes/E064.md) ~01:26–01:28 | **“Mawstorm” for a newly acquired raptor** | Vorel gives **a new mount the sword's existing name**, joking about a *line* of Mawstorms. **This is an animal's name**, neither a new epithet for Vorel nor evidence the sword changed identities. | **Provisional ASR `ma storm`**; note cross-entity name collision. |
+| [E066](../../episodes/E066.md) ~00:18; ~01:08 | **“Bow before your Fang”** | **Vorel shouts to the T. rex and later the possibly enthralled lizardfolk**, asserting his **already held Great Fang office**. This is a recurring **self-proclaimed style of address**, but not a distinct granted rank. | **ASR phrasing approximately `bow before your fang`**; review actual audio for capitalization and precise wording. |
+| [E066](../../episodes/E066.md) ~00:54 | **“I am Fang of the lizardfolk”** | Self-declared wording in argument with the **mind flayer**. Vorel **already won Great Fang E062**; distinguish rhetorical assertion of office from invention of a separate **“Fang of the Lizardfolk”** title. | **Provisional dialogue text**, speaker/wording to be checked against audio. |
+| [E066](../../episodes/E066.md) ~00:41 | **“Fang Fate Five”** | Vorel names his **hand-built T. rex-bone / Fate 4-remains rickshaw**; the label names **a different vehicle**, not Vorel, his **Mawstorm sword**, or a new succession office. | **Provisional vehicle name** from ASR `fang/feng fate five`, unverified spelling. |
 
 Future reviews should append each *new* self-given epithet (including cumulative formal introductions) here with **episode, time/cue, exact wording if reliable, speaker and recognition status**. Keep previous forms when the list grows; never infer a title solely from a fan-wiki character sheet. Kyle's [June bonus discussion](../../episodes/BONUS-2019-06.md) (~00:07–00:08) explains Vorel's consistent foreigner perspective and roleplaying technique; **it does not contain a new self-awarded title**.
 
