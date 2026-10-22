@@ -1,6 +1,6 @@
 # The Wastes — reference portal
 
-**Scope:** Main-campaign events through **E067**, plus separate [March Year One Q&A](../episodes/BONUS-2019-03.md) and [April cast roundtable](../episodes/BONUS-2019-04.md) and [June public-release Q&A](../episodes/BONUS-2019-06.md) (called May's bonus) and [July public-release Q&A](../episodes/BONUS-2019-07.md) (spoken June 29 recording date, ASR). **For bonuses only, archive filename dates reflect public publication**, not recording or earlier private-member access. **Spoilers through E067** follow. The episode-derived references remain **provisional until audio-verified**.
+**Scope:** Main-campaign events through **E068**, plus separate [March Year One Q&A](../episodes/BONUS-2019-03.md) and [April cast roundtable](../episodes/BONUS-2019-04.md) and [June public-release Q&A](../episodes/BONUS-2019-06.md) (called May's bonus) and [July public-release Q&A](../episodes/BONUS-2019-07.md) (spoken June 29 recording date, ASR) and [August public-release Q&A](../episodes/BONUS-2019-08.md) (**July 27 recording-date claim**). **For bonuses only, archive filename dates reflect public publication**, not recording or earlier private-member access. **Spoilers through E068** follow. The episode-derived references remain **provisional until audio-verified**.
 
 **Choose a view:** For a flowing account of the plot rather than reference notes, read [**Year One — From Dusthill to the Crown**](../narrative/YEAR_ONE.md) followed by [**Year Two — Stones, Souls and the Great Fang**](../narrative/YEAR_TWO.md). For a specific timestamp, character's contemporaneous knowledge or ambiguous transcript, use the [episode dossiers](../episodes/E000.md) and the relevant E### number.
 
@@ -8,10 +8,10 @@
 
 | Reference | What it currently contains | Consolidation status |
 |---|---|---|
-| [Characters and participants](CHARACTERS.md) | Subject index with profiles for the four protagonists, allies and adversaries, including **Orp, Diptak and Emenil** | **Subject profiles maintained through E067** |
+| [Characters and participants](CHARACTERS.md) | Subject index with profiles for the four protagonists, allies and adversaries, including **Orp, Diptak and Emenil** | **Subject profiles maintained through E068** |
 | [Places](PLACES.md) | **Consolidated place index** including **Razak Val**, Dusthill, Slavetown, the Black Mine, Château Weir and Tietkalla | **Subject profiles maintained through E063** |
 | [World and history](WORLD.md) | **Consolidated thematic reference**: the ancient catastrophe, settlements, factions, dragon technology, Soulbroker pacts, artifacts, religion and contested lore | **Phase C first-pass rewrite available** |
-| [Unified campaign chronology](CHRONOLOGY.md) | **53 main-story Year One entries, followed by E055–E067**, time jump, publication exceptions and resolved cutoffs | **Maintained unified reference** |
+| [Unified campaign chronology](CHRONOLOGY.md) | **53 main-story Year One entries, followed by E055–E068**, time jump, publication exceptions and resolved cutoffs | **Maintained unified reference** |
 | [Active consistency ledger](CONSISTENCY_LEDGER.md) | **Open questions, owner decisions, later source-cutoff resolutions** and links to detailed evidence | **Phase D first pass available** |
 | [Structured entity seed](entities.json) and [schema](ENTITY_SCHEMA.md) | Machine-readable E000/E001 seed | **Not yet synchronized with all subsequent episode dossiers** |
 
