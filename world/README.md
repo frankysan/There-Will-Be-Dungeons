@@ -10,12 +10,12 @@
 |---|---|---|
 | [Characters and participants](CHARACTERS.md) | **Consolidated subject index** plus dedicated profiles for the core four, six allies/adversaries, NPC status and relevant producer credits | **Phase B first-pass profiles available** |
 | [Places](PLACES.md) | **Consolidated place index** and dedicated location profiles for Dusthill, Slavetown, the Black Mine, Château Weir and Tietkalla | **Phase B first-pass profiles available** |
-| [World and history](WORLD.md) | Ancient-war account, magic and dragon engines, politics, societies, gods, Weirlords, factions and technology | **Working research compendium; thematic rewrite planned** |
-| [Chronology and episode markers](CHRONOLOGY.md) | Timed research events and time-of-knowledge clarifications across E000–E054 | **Detailed research timeline; single deduplicated timeline planned** |
+| [World and history](WORLD.md) | **Consolidated thematic reference**: the ancient catastrophe, settlements, factions, dragon technology, Soulbroker pacts, artifacts, religion and contested lore | **Phase C first-pass rewrite available** |
+| [Unified Year One chronology](CHRONOLOGY.md) | **Single 53-episode main-story sequence**, story-time versus release exceptions, and a compact ledger of later resolutions | **Phase C first-pass rewrite available** |
 | [Consistency ledger](CONSISTENCY_LEDGER.md) | Stable keys, accepted spellings, source conflicts, historical episode cutoffs and open canon questions | **Research ledger; resolved/open split planned** |
 | [Structured entity seed](entities.json) and [schema](ENTITY_SCHEMA.md) | Machine-readable E000/E001 seed | **Not yet synchronized with all subsequent episode dossiers** |
 
-The **character and place indexes are now subject-centered**, with their earlier batch research preserved as [character](../research/legacy/2026-10-21/WORLD_CHARACTERS.md) and [place](../research/legacy/2026-10-21/WORLD_PLACES.md) snapshots. The larger **world-history, chronology and consistency-ledger** compendia are still transitional and can include older states valid at an earlier episode cutoff.
+The **character and place indexes are now subject-centered**, with their earlier batch research preserved as [character](../research/legacy/2026-10-21/WORLD_CHARACTERS.md) and [place](../research/legacy/2026-10-21/WORLD_PLACES.md) snapshots. The **world-history and chronology rewrites are also available**; their original detailed research was archived on [2026-10-22](../research/legacy/2026-10-22/README.md). The **consistency ledger alone remains an append-only compendium**, pending Phase D.
 
 ## A few major source distinctions
 
@@ -31,6 +31,6 @@ The **character and place indexes are now subject-centered**, with their earlier
 
 ## Preservation and navigation
 
-This concise portal replaces a 20,000-character, episode-batch-organized world README. That earlier research is preserved as [the frozen world README](../research/legacy/2026-10-21/WORLD_README.md). The long-form [original project README](../research/legacy/2026-10-21/ROOT_README.md) is preserved as well. The former full [character research](../research/legacy/2026-10-21/WORLD_CHARACTERS.md) and [place research](../research/legacy/2026-10-21/WORLD_PLACES.md) are also archived for source provenance.
+This concise portal replaces a 20,000-character, episode-batch-organized world README. That earlier research is preserved as [the frozen world README](../research/legacy/2026-10-21/WORLD_README.md). The long-form [original project README](../research/legacy/2026-10-21/ROOT_README.md) is preserved as well. The former full [character research](../research/legacy/2026-10-21/WORLD_CHARACTERS.md), [place research](../research/legacy/2026-10-21/WORLD_PLACES.md), [world history](../research/legacy/2026-10-22/WORLD_HISTORY.md), and [chronology](../research/legacy/2026-10-22/WORLD_CHRONOLOGY.md) are archived for source provenance.
 
 The organizational contract, subject-page format, migration stages and validation rules are recorded in [documentation architecture](../project/DOCUMENTATION_ARCHITECTURE.md). The canonical **source material** remains in the episode dossiers, original processed SRTs and reports; the first [narrative history](../narrative/YEAR_ONE.md) does not replace those.

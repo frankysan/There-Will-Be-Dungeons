@@ -1,6 +1,6 @@
 # Year One documentation consolidation — implementation checklist
 
-**Status (2026-10-21):** Phases A–B completed as **first editorial passes**. Phases C–D and independent audio verification remain pending. Follow [the architecture](DOCUMENTATION_ARCHITECTURE.md) for the full target design and source-evidence rules.
+**Status (2026-10-22):** **Phases A–C completed as first editorial passes**. Phase D (consistency-ledger cleanup) and independent audio verification remain pending. Follow [the architecture](DOCUMENTATION_ARCHITECTURE.md) for the full target design and source-evidence rules.
 
 ## Phase A — architecture, narrative and navigation
 
@@ -27,11 +27,13 @@ Start with the **four protagonists**, then **major allies/adversaries**, then ma
 
 ## Phase C — world themes and chronology
 
-- [ ] Save dated snapshots of the existing long `world/WORLD.md` and `world/CHRONOLOGY.md`.
-- [ ] Reorganize `world/WORLD.md` into **ancient history (GM prologue), societies/factions, dragon technology, spellcraft/artifacts, religion/Weirlords and political structures**.
-- [ ] Keep **claims about distant history** attributed; distinguish Soulbroker/Monsoon/Kefeli/Nobiery views from directly played demonstrations.
-- [ ] Rewrite `world/CHRONOLOGY.md` as one integrated **timeline**, with scene order, historical backstory and publication exceptions clearly split. Keep timestamps in linked dossiers.
-- [ ] Ensure unique **scene/event links** rather than rewriting all episode scenes at length.
+**First-pass completed 2026-10-22:** Old ~91k / ~69k-character batch-appendices preserved in [dated archive](../research/legacy/2026-10-22/README.md). Active [world guide](../world/WORLD.md) is thematic and [chronology](../world/CHRONOLOGY.md) is one continuous 53-episode event sequence; all source time codes remain in per-episode dossiers. **Not audio-verified**.
+
+- [x] Save dated snapshots of the existing long `world/WORLD.md` and `world/CHRONOLOGY.md`.
+- [x] Reorganize `world/WORLD.md` into **ancient history (GM prologue), societies/factions, dragon technology, spellcraft/artifacts, religion/Weirlords and political structures**.
+- [x] Keep **claims about distant history** attributed; distinguish Soulbroker/Monsoon/Kefeli/Nobiery views from directly played demonstrations.
+- [x] Rewrite `world/CHRONOLOGY.md` as one integrated **timeline**, with scene order, historical backstory and publication exceptions clearly split. Keep timestamps in linked dossiers.
+- [x] Ensure unique **scene/event links** rather than rewriting all episode scenes at length.
 
 ## Phase D — ledger and editorial cleanup
 
