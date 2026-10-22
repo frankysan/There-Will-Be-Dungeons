@@ -1,6 +1,6 @@
 # The Wastes — active audio, source and editorial review queue
 
-**Status: OPEN tasks, updated 2026-10-22.** Full *Wastes* spoilers through corrected **E080**, with separate [March 2019 Q&A](../episodes/BONUS-2019-03.md), [April 2019 roundtable](../episodes/BONUS-2019-04.md), [June 2019 Q&A](../episodes/BONUS-2019-06.md), [July public-release 2019 bonus](../episodes/BONUS-2019-07.md), [August public-release 2019 bonus](../episodes/BONUS-2019-08.md) (spoken July 27), and [September public-release 2019 bonus](../episodes/BONUS-2019-09.md), plus [October public-release Q&A](../episodes/BONUS-2019-10.md) (recording day not verified) and [November public-release Q&A](../episodes/BONUS-2019-11.md) (host actually calls it October; original publication metadata needs checking). **No new listening, SRT editing or handout verification occurred during consolidation.** The [consistency ledger](../world/CONSISTENCY_LEDGER.md) identifies **what remains uncertain versus resolved**. This queue tells reviewers **where to listen or which sources to compare**.
+**Status: OPEN tasks, updated 2026-10-22.** Full *Wastes* spoilers through corrected **E081**, with separate [March 2019 Q&A](../episodes/BONUS-2019-03.md), [April 2019 roundtable](../episodes/BONUS-2019-04.md), [June 2019 Q&A](../episodes/BONUS-2019-06.md), [July public-release 2019 bonus](../episodes/BONUS-2019-07.md), [August public-release 2019 bonus](../episodes/BONUS-2019-08.md) (spoken July 27), and [September public-release 2019 bonus](../episodes/BONUS-2019-09.md), plus [October public-release Q&A](../episodes/BONUS-2019-10.md) (recording day not verified) and [November public-release Q&A](../episodes/BONUS-2019-11.md) (host actually calls it October; original publication metadata needs checking). **No new listening, SRT editing or handout verification occurred during consolidation.** The [consistency ledger](../world/CONSISTENCY_LEDGER.md) identifies **what remains uncertain versus resolved**. This queue tells reviewers **where to listen or which sources to compare**.
 
 **Complete historical backlog preserved:** The entire ~73k-character pre-Phase-D [review queue, including its many timed episode-by-episode tasks](../research/legacy/2026-10-22/PROJECT_REVIEW_QUEUE.md), is frozen with functioning relative links. Its outstanding tasks were **not automatically closed** by omission from this shorter index. The original [consistency issue register](../research/legacy/2026-10-22/WORLD_CONSISTENCY_LEDGER.md) also preserves exact issue keys and status history.
 
@@ -106,6 +106,7 @@ This is a **batch routing grid**, not a statement that every cue within a listed
 | [E078](../episodes/E078.md)–[E079](../episodes/E079.md) | **Actual limb repair and long rest E078**, hive cache and physical transport, Chance/Eddie rescue; **short rest and illithid disguise E079**, first actual Drive-chamber sighting, Hope's two-rocket strike, Cerinthala body disintegrates again and larger alien survives; see section 15 |
 | [BONUS-2019-11](../episodes/BONUS-2019-11.md) | November public-release filename, **October spoken introduction**; spell-ring/diamond flavor, acid-breath and Monster Mender restrictions, Eye intent, GM's limb house ruling, cast's E079 reaction; see section 15 |
 | [E080](../episodes/E080.md) | Continued engineering fight: Mirror Image, black-dragon Nash, red memory-eaters/green chain-exploding worms, animated pipes, **Eddie and Chance rescued from death saves**, commander killed, Eye of Groxl flame blade, starry-space transition and **unresolved Dolo Popio breath**; see section 16 |
+| [E081](../episodes/E081.md) | **Arc conclusion:** Dolo breath spawns worms; Chance floats away unrecovered; Vorel binds dragon-worm mouth with nanoweave; **Hope kills Dolo with radiant dart**; Quizquaz offers to sacrifice Earth; Sira/Eddie released, **four protagonists enter red beam and GM explicitly declares them dead**, ultimate permanence open; see section 17 |
 
 **Publication crosswalk:** [Corrected episode numbering](EPISODE_NUMBERING.md). **Historical precision:** Timestamps and named questions for every group are in the frozen [full review queue](../research/legacy/2026-10-22/PROJECT_REVIEW_QUEUE.md). **Lore chronology:** [unified timeline](../world/CHRONOLOGY.md).
 
@@ -349,13 +350,30 @@ This is a **batch routing grid**, not a statement that every cue within a listed
 
 **E080 cutoff:** **Commander illithid killed; Dolo Popio alive; Sira within the central phenomenon and not rescued; Drive not deactivated**. Six protagonists/guests **alive as the scene closes**, though Eddie and Chance narrowly survived earlier downed/death-save states. **New space-like combat scene observed**, literal cosmic transport **not established**. **An incoming breath attack remains unplayed until E081**. All details provisional processed-ASR, not independently audio-verified.
 
-## 17. Work completion checklist
+## 17. E081 — end-of-arc targeted audio and handout verification
+
+| Priority | Approximate episode offset | Precise unresolved or arc-closing question |
+| --- | --- | --- |
+| **Critical** | ~00:03–00:09 | Dolo's **deferred breath actually exhales large worms**, not an energy blast; **Chance slips off platform and drifts into void** just after E080 Healing Word. **No body or return shown**, distinguish disappearance from confirmed death. |
+| **High** | ~00:30–00:39 | **Vorel removes valuable CHIDS nanoweave suit to bind Dolo Popio's jaws**. Whether suit is recovered later or destroyed by scene reset is not shown. Check repeated grapples, suit properties and mouth-control effect. |
+| **Critical** | ~00:51–01:22 | Hope **kills worm burrowing into her chest using detachable metal horn** and leaves it; **Eddie is downed again and Stanley uses another stored Healing Word** for 8 HP, passing red healer and drinking one himself. Verify ring charges, Blue Bull poison immunity and distinct healing doses. |
+| **Critical** | ~01:33–01:41 | **Fire truck in starry void**; Hope climbs ladder, shoots *Scully* **radiant dart**, GM confirms **Dolo Popio body killed** and void returns to engineering. Distinguish defeat of manifestation from demon's irreversible metaphysical death. |
+| **Critical** | ~01:41–01:51 | **Chance not present after return**; **Sira, Eddie and Stanley remain enclosed in beam**. Hope explores oscilloscope-like panel; frequency changes, crimson switch, dangerous vibration and rapid Eddie nail-growth. No ordinary off switch demonstrated. |
+| **Critical** | ~01:51–02:22 | **Quizquaz oil-black winged reappearance**; inspect *Kitobol Prith*, *Andreeste* spelling and alleged contract; his options **let Earth die to kill Principle or powerful absorber to stop Void beam**. Separate **direct controller effects** from **NPC's interested claims**, including souls and later punishment. |
+| **Critical** | ~02:03–02:10; ~02:35–02:40 | **Eddie actually exits barrier**; **Sira goes invisible, then reappears beside Eddie** and thanks Stanley before departure. Eddie **promises to protect her**, **steals Hope's Bowie knife** at console. Sira is **rescued from beam**, not still captive at end; later location unshown. |
+| **Critical** | ~02:22–02:25 | **Stanley's Moha Augury** on self-sacrifice: **weal / favorable but final result**. Does this imply death only for solo approach? Do not interpret as certain postmortem outcome. |
+| **Critical** | ~02:29–02:44 | **Quizquaz's waveform controls**: flattened for traversal, crimson/high frequency for beam absorption; then departs. **Stanley, Hope, Vorel, dragon Nash voluntarily enter**, Eddie triggers, massive Con saves/damage; Hope unconscious, Nash reverted, Vorel briefly 10 HP, **all four disperse**. GM explicitly **says they are dead**; **permanence/afterlife/planet's long-term state not seen**. |
+| **High** | ~02:44–end | GM/outro **calls this closing scene and death**, promises discussion later, jokes about **Chance lost in space**; do not treat cast banter as a played resurrection, or assume the principle and machine have permanently ended. |
+
+**E081 arc-ending cutoff:** **Dolo Popio's manifested body killed.** **Sira released and alive outside the beam with Eddie.** **Chance lost in space, no confirmed death**. **Four main heroes deliberately absorb the red beam; their bodies disperse, GM states they are dead.** **No later return or permanent shutdown is shown in this E081 source**. These are provisional ASR-derived statements pending audio audit.
+
+## 18. Work completion checklist
 
 - [ ] Listen to selected critical cues and create **audio-grounded transcript excerpts** with timestamps and performer attribution.
 - [ ] Reconcile original contracts, house records and item handouts with spoken claims; if unavailable, record that explicitly.
 - [ ] Update only the affected **active ledger key**, source dossier and consolidated reference entry, with evidence and date.
 - [ ] Preserve raw SRT outputs and historical archived alternatives, never silently overwrite source recognition.
 - [ ] Run relevant documentary/index validation after edits; where **local files or code** change, run their applicable test suites and pass before claiming completion.
-- [ ] Continue source-backed review **after E080**; E055–E080 and all eight currently reviewed 2019 bonus recordings have provisional dossiers, **not independently listened/verified**.
+- [ ] Continue source-backed review **after E081**; E055–E081 and all eight currently reviewed 2019 bonus recordings have provisional dossiers, **not independently listened/verified**.
 
 **Editorial consolidation is not audio verification.** Full [legacy queue](../research/legacy/2026-10-22/PROJECT_REVIEW_QUEUE.md) remains available for every fine-grained pending subtask.
