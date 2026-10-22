@@ -10,7 +10,7 @@
 | --- | --- | --- |
 | [Characters and participants](CHARACTERS.md) | Subject index with profiles for the four protagonists, allies and adversaries, including **Orp, Diptak, Alvert, Charles Dickens and Cerinthala** | **Subject profiles maintained through E081** |
 | [Places](PLACES.md) | **Consolidated place index** including **CHIDS**, **Kervalon**, Razak Val, Dusthill, Slavetown, the Black Mine, Château Weir and Tietkalla | **Place index and CHIDS site reference updated through E081** |
-| [Portal device](technology/portal-device.md) | **Paired gateways and third necrotic-beam mode**; E075 acquisition, E076 executed escape, E077 friendly-fire risk | **Updated through E081** |
+| [Portal device](technology/portal-device.md) | **Paired gateways and third necrotic-beam mode**; E075 acquisition, E076 executed escape, E077 friendly-fire risk; last documented device use E079 | **Updated through E079** |
 | [World and history](WORLD.md) | **Consolidated thematic reference**: the ancient catastrophe, settlements, factions, dragon technology, Soulbroker pacts, artifacts, religion and contested lore | **Phase C first-pass rewrite available** |
 | [Unified campaign chronology](CHRONOLOGY.md) | **53 main-story Year One entries, followed by E055–E081**, time jump, publication exceptions and resolved cutoffs | **Maintained unified reference** |
 | [Active consistency ledger](CONSISTENCY_LEDGER.md) | **Open questions, owner decisions, later source-cutoff resolutions** and links to detailed evidence | **Phase D first pass available** |
