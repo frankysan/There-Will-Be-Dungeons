@@ -197,7 +197,7 @@ This is a **triage queue**, not a complete record of every ASR timestamp. Dates 
 | **E085 ~01:49–02:26** | **Mighty Squirts media claim**, **200/500 gp sponsor offers unsigned**, returned/stolen strategy book to lizardfolk admirer, inn wages/tips vs GM's **20-gp wallet contradiction**, Squirts loot | No signed sponsorship, tournament prize or verified elixir effect |
 | **E085 ~02:28–02:45** | Vorel escapes intrusive fans via burning curtain and broken window; Nothing's warning sword and **two ninja-like room intruders** at cutoff | **No attacker identity, attempted-hit results or connection to Pelvis established** |
 
-**Next slice:** Research corrected [E086](../sources/The%20Wastes%20S1E086.%20Uninvited%20Guests.parakeet.processed.srt) independently once its exact source filename is verified. **No listening verification was performed for E085.**
+**Next slice:** Research corrected [E086](../sources/The%20Wastes%20S1E086.%20Don%27t%20be%20such%20a%20Berk.parakeet.processed.srt) independently once its exact source filename is verified. **No listening verification was performed for E085.**
 
 ## 6. Arc coverage and previous detailed questions
 
