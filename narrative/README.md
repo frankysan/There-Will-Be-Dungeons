@@ -5,7 +5,7 @@ This directory holds **narrative histories**: readable retellings of the actual 
 ## Available narrative
 
 - **[Year One: From Dusthill to the Crown](YEAR_ONE.md)** — corrected [E000–E054](../project/EPISODE_NUMBERING.md), concluding with Hope's coronation and the first major arc finale. **Full E000–E054 spoilers**.
-- **[Year Two: Stones, Souls and the Great Fang](YEAR_TWO.md)** — next arc opening after the time jump: **E055–E060**, with the Principle's diplomacy and the unresolved Razak Val duel; not a completed second arc.
+- **[Year Two: Stones, Souls and the Great Fang](YEAR_TWO.md)** — next arc opening after the time jump: **E055–E075**, including the Principle's diplomacy, the Great Fang succession, CHIDS and the red/green portal apparatus; not a completed second arc.
 - **[March 2019 Year One Q&A](../episodes/BONUS-2019-03.md)** — GM/cast retrospective after first arc, **not corrected E055**.
 - **[April 2019 Bonus Show 01: The First and Last](../episodes/BONUS-2019-04.md)** — cast Q&A; **no new in-world scenes**.
 
@@ -15,6 +15,6 @@ This directory holds **narrative histories**: readable retellings of the actual 
 
 **Story chronology:** The unnumbered supplemental E013.5 has an earlier-in-story Hope/Vorel scene; the separate [E043 holiday special](../episodes/E043.md) is not part of the Wastes story. Episode numbering refers to the [archive's corrected IDs](../project/EPISODE_NUMBERING.md). Each narrative chapter links to its primary dossier range.
 
-**Scope:** The Year One narrative reveals how the first arc ends; Year Two records newly played E055–E060 events even when they clarify earlier story. To experience events without future spoilers, read individual dossiers or source recordings in order instead.
+**Scope:** The Year One narrative reveals how the first arc ends; Year Two records newly researched E055–E075 events even when they clarify earlier story. To experience events without future spoilers, read individual dossiers or source recordings in order instead.
 
 **Migration and governance:** [Documentation architecture](../project/DOCUMENTATION_ARCHITECTURE.md), [editorial guide](../project/EDITORIAL_GUIDE.md) and [review queue](../project/REVIEW_QUEUE.md).
