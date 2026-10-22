@@ -1,6 +1,6 @@
 # The Wastes — active audio, source and editorial review queue
 
-**Status: OPEN tasks, updated 2026-10-22.** Full *Wastes* spoilers through corrected **E079**, with separate [March 2019 Q&A](../episodes/BONUS-2019-03.md), [April 2019 roundtable](../episodes/BONUS-2019-04.md), [June 2019 Q&A](../episodes/BONUS-2019-06.md), [July public-release 2019 bonus](../episodes/BONUS-2019-07.md), [August public-release 2019 bonus](../episodes/BONUS-2019-08.md) (spoken July 27), and [September public-release 2019 bonus](../episodes/BONUS-2019-09.md), plus [October public-release Q&A](../episodes/BONUS-2019-10.md) (recording day not verified) and [November public-release Q&A](../episodes/BONUS-2019-11.md) (host actually calls it October; original publication metadata needs checking). **No new listening, SRT editing or handout verification occurred during consolidation.** The [consistency ledger](../world/CONSISTENCY_LEDGER.md) identifies **what remains uncertain versus resolved**. This queue tells reviewers **where to listen or which sources to compare**.
+**Status: OPEN tasks, updated 2026-10-22.** Full *Wastes* spoilers through corrected **E080**, with separate [March 2019 Q&A](../episodes/BONUS-2019-03.md), [April 2019 roundtable](../episodes/BONUS-2019-04.md), [June 2019 Q&A](../episodes/BONUS-2019-06.md), [July public-release 2019 bonus](../episodes/BONUS-2019-07.md), [August public-release 2019 bonus](../episodes/BONUS-2019-08.md) (spoken July 27), and [September public-release 2019 bonus](../episodes/BONUS-2019-09.md), plus [October public-release Q&A](../episodes/BONUS-2019-10.md) (recording day not verified) and [November public-release Q&A](../episodes/BONUS-2019-11.md) (host actually calls it October; original publication metadata needs checking). **No new listening, SRT editing or handout verification occurred during consolidation.** The [consistency ledger](../world/CONSISTENCY_LEDGER.md) identifies **what remains uncertain versus resolved**. This queue tells reviewers **where to listen or which sources to compare**.
 
 **Complete historical backlog preserved:** The entire ~73k-character pre-Phase-D [review queue, including its many timed episode-by-episode tasks](../research/legacy/2026-10-22/PROJECT_REVIEW_QUEUE.md), is frozen with functioning relative links. Its outstanding tasks were **not automatically closed** by omission from this shorter index. The original [consistency issue register](../research/legacy/2026-10-22/WORLD_CONSISTENCY_LEDGER.md) also preserves exact issue keys and status history.
 
@@ -105,6 +105,7 @@ This is a **batch routing grid**, not a statement that every cue within a listed
 | [BONUS-2019-10](../episodes/BONUS-2019-10.md) | October public-release cast Q&A: Nash's baby hand as optional dragon claw, family themes and **separate Inverse** library/DM history; see section 14 |
 | [E078](../episodes/E078.md)–[E079](../episodes/E079.md) | **Actual limb repair and long rest E078**, hive cache and physical transport, Chance/Eddie rescue; **short rest and illithid disguise E079**, first actual Drive-chamber sighting, Hope's two-rocket strike, Cerinthala body disintegrates again and larger alien survives; see section 15 |
 | [BONUS-2019-11](../episodes/BONUS-2019-11.md) | November public-release filename, **October spoken introduction**; spell-ring/diamond flavor, acid-breath and Monster Mender restrictions, Eye intent, GM's limb house ruling, cast's E079 reaction; see section 15 |
+| [E080](../episodes/E080.md) | Continued engineering fight: Mirror Image, black-dragon Nash, red memory-eaters/green chain-exploding worms, animated pipes, **Eddie and Chance rescued from death saves**, commander killed, Eye of Groxl flame blade, starry-space transition and **unresolved Dolo Popio breath**; see section 16 |
 
 **Publication crosswalk:** [Corrected episode numbering](EPISODE_NUMBERING.md). **Historical precision:** Timestamps and named questions for every group are in the frozen [full review queue](../research/legacy/2026-10-22/PROJECT_REVIEW_QUEUE.md). **Lore chronology:** [unified timeline](../world/CHRONOLOGY.md).
 
@@ -332,13 +333,29 @@ This is a **batch routing grid**, not a statement that every cue within a listed
 
 **E079 cutoff:** The party actually **has reached the engineering cavern**, following completed **E078 hand repair, eight-hour rest and hive transport**, and a separate **E079 short rest/disguise**. **Both Chance and Eddie live**, **Hope's two rockets are used**, **three illithids and Cerinthala's current body disintegrate**, while **the larger alien survives and the dragon-worm/Drive remain operational or at least not confirmed shut down**. **Sira is not rescued; an E079 final victory or permanent Cerinthala death cannot be asserted**. All source findings remain **processed-ASR provisional**.
 
-## 16. Work completion checklist
+## 16. E080 — bounded source/audio verification
+
+| Priority | Approximate E080 recording offset | Specific review target |
+| --- | --- | --- |
+| **Critical** | ~00:03–00:05 | GM **places Sira inside central light with dragon-worm**; confirm exact observable situation, versus E079 ASR's garbled mention. Do not mark her rescued. |
+| **Critical** | ~00:23–00:38 | **Nash becomes black dragon**, attacks **two Mirror Image duplicates**, commander **Mind Blasts Chance/Eddie/Vorel/Nash**, with Hope/Stanley resisting. Confirm **Feather Fall catches Nash/Eddie** and dampening helm is not a blanket stun immunity. |
+| **High** | ~00:50–01:10 | **Dolo spawns green explosive worms**, commander phases in **red memory-eaters**; Hope causes chain explosions. **Stanley cannot Animate Objects on magical Vorpal Laser Swords** and instead animates **ten loose nonmagical pipes**; no sword depletion. |
+| **Critical** | ~01:34–01:54 | Commander **necrotic lightning downs Chance and Eddie**; a red monster eats **Eddie's memories**, imposes 1d4 ability/attack penalty and **two failed death saves**. **Eddie returns on natural-20 death save**. Precise clock and NPC attribution should be listened to; do not permanently kill either gnome. |
+| **Critical** | ~01:53–01:58 | **Stanley's pipes hit commander**, **Nash drops lizardfolk guard to death**, **Nash's acid breath kills Uvexiad/Ovaxiad-like illithid**. This does **not kill Dolo Popio**. |
+| **Critical** | ~01:58–02:04 | **Dragon-worm says alleged contract counterparty name sounding 'Andreas Star'** and transforms scene into floating space-like platforms. Is this teleportation, a pocket dimension or perception alteration? **Unresolved**, despite directly observed new terrain. |
+| **Critical** | ~02:09–02:16 | **Vorel's stun clears**, suit **Sibilica power boots** propel him at Dolo; **Eye of Groxl's flame shield physically transforms into a blazing sword**. Verify spell/item stats, critical damage and grappling in low gravity. Distinguish from unshown ability mentioned in November bonus. |
+| **Critical** | ~02:18–02:24 | **Dolo's fear pulses**: Hope and Nash frightened, Vorel **helmet immune**. **Stanley uses ring-stored Healing Word to revive Chance for 8 HP**, preventing imminent death. Check ring remaining slots. |
+| **Critical** | ~02:24–end (~02:33) | Nash **damages Dolo with dragon acid**, kills one red flesh monster. **Dolo gathers energy and releases a sweeping breath at cutoff**. No on-mic resolution of the breath's saving throws, damage or death; audit next **E081 source** before changing these states. |
+
+**E080 cutoff:** **Commander illithid killed; Dolo Popio alive; Sira within the central phenomenon and not rescued; Drive not deactivated**. Six protagonists/guests **alive as the scene closes**, though Eddie and Chance narrowly survived earlier downed/death-save states. **New space-like combat scene observed**, literal cosmic transport **not established**. **An incoming breath attack remains unplayed until E081**. All details provisional processed-ASR, not independently audio-verified.
+
+## 17. Work completion checklist
 
 - [ ] Listen to selected critical cues and create **audio-grounded transcript excerpts** with timestamps and performer attribution.
 - [ ] Reconcile original contracts, house records and item handouts with spoken claims; if unavailable, record that explicitly.
 - [ ] Update only the affected **active ledger key**, source dossier and consolidated reference entry, with evidence and date.
 - [ ] Preserve raw SRT outputs and historical archived alternatives, never silently overwrite source recognition.
 - [ ] Run relevant documentary/index validation after edits; where **local files or code** change, run their applicable test suites and pass before claiming completion.
-- [ ] Continue source-backed review **after E079**; E055–E079 and all eight currently reviewed 2019 bonus recordings have provisional dossiers, **not independently listened/verified**.
+- [ ] Continue source-backed review **after E080**; E055–E080 and all eight currently reviewed 2019 bonus recordings have provisional dossiers, **not independently listened/verified**.
 
 **Editorial consolidation is not audio verification.** Full [legacy queue](../research/legacy/2026-10-22/PROJECT_REVIEW_QUEUE.md) remains available for every fine-grained pending subtask.
