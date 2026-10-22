@@ -1,6 +1,6 @@
 # Follow/Follo, Sira/Sera and Rorf — a persecuted traveling group
 
-> **Working spellings:** `Follow`/`Follo` (ASR); `Sira`/`Sera`/`Sierra`; `Rorf`/`Worf`/`Rolf` (ASR). No creator-written character sheet or audio verification yet. First presence: [E063](../../episodes/E063.md). **Spoilers through E065.** Three individuals, not interchangeable identities or confirmed biological relatives.
+> **Working spellings:** `Follow`/`Follo` (ASR); `Sira`/`Sera`/`Sierra`; `Rorf`/`Worf`/`Rolf` (ASR). No creator-written character sheet or audio verification yet. First presence: [E063](../../episodes/E063.md). **Spoilers through E081.** Three individuals, not interchangeable identities or confirmed biological relatives.
 
 ## Follow — telepathy, influence, and an escape plot
 
@@ -37,3 +37,9 @@ In [E065](../../episodes/E065.md) (~00:22–00:27), **Rorf himself admits killin
 While the party camps during the storm, **Sira disappears from Stanley's Tiny Hut**. A floating **mind flayer identifying itself approximately as Oubvayx/Ovaxiad** later holds **Sira aloft** as leverage against Hope, threatening Tietkalla. **Rorf shapeshifts into a large bird and attacks; the creature violently compresses him repeatedly and kills him outright**. **Follow levitates to save his daughter**, is hurled down with severe wounds, and **dies while asking Stanley to rescue Sira**. Stanley promises, and the companions **bury Follow**. **Sira is abducted alive as last shown**, carried away by the mind flayer toward **Kervalon**, not successfully resettled in Tietkalla. Their previously accepted sanctuary agreement **never culminates in arrival**. [E066](../../episodes/E066.md).
 
 **Live status through E067:** **Follow dead E066; Rorf dead E066; Sira kidnapped E066 and not yet rescued by E067.** Sira's identity and abilities should not be merged with Nash's earlier dream child; the [July bonus](../../episodes/BONUS-2019-07.md) supplies only a tentative GM judgment that they are different.
+
+## Later arc outcome — Sira freed, Follow and Rorf remain dead (E081)
+
+**Follow and Rorf remain dead after E066**; no revival is observed. **Sira stays abducted during the Kervalon and CHIDS descent**, but at the end of [E081](../../episodes/E081.md), after **Hope physically defeats Dolo Popio's manifested body**, the girl is **seen in the central Traversal Drive beam with Stanley and Eddie**. **Quizquaz enables egress**. Sira **leaves invisibly on Stanley's insistence**, then **reappears alive beside Eddie** outside the beam. She thanks Stanley, says goodbye, and **Eddie promises to protect her**. The girl **does not join the four protagonists' final absorption attempt**.
+
+**Final E081 source cutoff:** **Sira is no longer trapped or abducted by the illithids' Drive machinery**; she is **alive outside with Eddie**. Her arrival in Tietkalla, long-term safety and the fate of her promised guardian after the beam event remain unshown. **Stanley, Hope, Nash and Vorel vanish into white light and the GM declares them dead**, with their permanence/afterlife unknown. Do not transfer the finale's deaths to Sira or revive Follow/Rorf by inference. [E066](../../episodes/E066.md) · [E081](../../episodes/E081.md) · [Consistency ledger](../CONSISTENCY_LEDGER.md).
