@@ -90,7 +90,6 @@ This is a **batch routing grid**, not a statement that every cue within a listed
 | [BONUS-2019-03](../episodes/BONUS-2019-03.md) | Q&A retrospective cast/GM testimony; **not corrected E055** |
 | [BONUS-2019-04](../episodes/BONUS-2019-04.md) | Roundtable on early Year Two, character technique and GM's emergent Tietkalla design |
 | [BONUS-2019-06](../episodes/BONUS-2019-06.md) | May-spoken/June-archived bonus; Stanley/Nash/Vorel/Hope goals, Principle origin, unused encounters and sand-fishing design |
-
 | [E055](../episodes/E055.md)–[E060](../episodes/E060.md) | Second-arc time jump, Tietkalla and Principle, skyfall, parasites and Orp's initial rule; see focused checks in section 5–6 |
 | [E061](../episodes/E061.md)–[E063](../episodes/E063.md) | Future-Nash egg theft, Bramie death, Orp slain, Vorel Great Fang, Zercil and prisoners; see section 7 |
 | [E064](../episodes/E064.md)–[E065](../episodes/E065.md) | Razak Val collapse, Fate 4 recovery, Rorf's murder confession, storm and alleged future egg copies; see section 8 |
@@ -98,13 +97,10 @@ This is a **batch routing grid**, not a statement that every cue within a listed
 | [E068](../episodes/E068.md) | Actual T. rex Polymorph, illithid skin, sealed guards, magical shaft, hidden biting-panel doors; see section 10 |
 | [BONUS-2019-07](../episodes/BONUS-2019-07.md) | Public July bonus, spoken June 29 recording, character/GM retrospective |
 | [BONUS-2019-08](../episodes/BONUS-2019-08.md) | Public August bonus, spoken July 27 recording, Solar Mines radiation, artifacts and shaft-clue explanation |
-
 | [E069](../episodes/E069.md)–[E071](../episodes/E071.md) | CHIDS entrance/funicular and ID systems, illithid office, Charles upload, Hell's UBI imp, Principle allegations, archive and frozen data center; see section 11 |
-
 | [E072](../episodes/E072.md)–[E073](../episodes/E073.md) | Cerinthala and four preserved humans in frozen data center; +1 AC cursed necklace; ice constructs, Slow Peters and Careful Spell; service tunnels, bio-labs, broken focus, elevator spider; see section 12 |
 | [BONUS-2019-09](../episodes/BONUS-2019-09.md) | Public September bonus: Solar Mines official-map existence versus Nash's potentially unreliable memories, Stanley feat revision, future Fate 5; see section 12 |
-
-| [E074](../episodes/E074.md)–[E075](../episodes/E075.md) | Spider matriarch and brain-backed swarms; Cerinthala crushed and later resurrected/betrays; red memory-drain creature, body worms, secure red/green portal device and bugbear charge; see section 13 |
+| [E074](../episodes/E074.md)–[E075](../episodes/E075.md) | Spider matriarch and brain-backed swarms; Cerinthala crushed and later resurrected/betrays; red memory-drain creature, body worms, secure red/green portal device, unexplored back-room vent and bugbear charge; see section 13 |
 
 **Publication crosswalk:** [Corrected episode numbering](EPISODE_NUMBERING.md). **Historical precision:** Timestamps and named questions for every group are in the frozen [full review queue](../research/legacy/2026-10-22/PROJECT_REVIEW_QUEUE.md). **Lore chronology:** [unified timeline](../world/CHRONOLOGY.md).
 
@@ -287,7 +283,7 @@ This is a **batch routing grid**, not a statement that every cue within a listed
 | **Critical** | E075 ~01:17–01:42 | Detailed **secure anechoic room** puzzle: main door closure, two buttons, valves, remote terminal, cradle and **two-trigger white/gray item**. Verify which trigger creates red/green, and **Vorel initial custody**. |
 | **Critical** | E075 ~01:34–02:23 | Cerinthala **revives, calls for Toby**, link of **blue gem in Hope's small arm to ice being**, **Hold Person paralyzes Hope**, old elf's phrase about **“Uvex” / illithid wanting survivors alive**, **Toby giant casing destroyed plus exposed animated corpse killed**. **Stanley's Dispel Magic ends Wall of Ice**, Cerinthala **escapes near old membrane**; no witnessed teleport/capture. |
 | **Critical** | E075 ~02:22–02:48 | **Two-color portal behavior:** shots into corpses fail, two compatible wall portals link; one other-color mark remains **inert when pair removed**, not permanent open. **Vorel → Hope** custody and distinction between **Nash's theorized tactics and actual tested effects**. |
-| **Critical** | E075 ~02:39–end | Approaching **bugbear force** seems to clear flesh with flame; **Nash 4th-level Fireball kills front ranks**; remaining militia withdraws, then **Vorel taunts around fifty bugbears and accompanying illithid**, starting charge. **No portal escape yet**. |
+| **Critical** | E075 ~02:39–end | Approaching **bugbear force** seems to clear flesh with flame; **Nash 4th-level Fireball kills front ranks**; remaining militia withdraws, then **an air-blowing vent / possible exit is spotted in the back room at ~02:48 but not explored**; **Vorel taunts around fifty bugbears and an accompanying illithid**, starting their charge. **No portal escape or new fight yet**. |
 | **High** | E074 intro; E075 intro | **E074 introduction says September 8, 2019**, a main-episode recording date, while bonus public-filename mismatch policy applies **only to bonuses**. E075 introductory **Reckless Attack correction** applies advantage to all qualifying attacks on that turn, not a lore retcon. |
 
 **E075 cutoff:** **Four protagonists alive**. Vorel faces **charging bugbear force** while Hope has **one red/green portal device**, escape **planned but unplayed**. **Stanley, Nash, Vorel** have **unresolved memory-drain**; **Cerinthala returned from E074 death, betrayed party and escaped**, **Toby's visible body defeated**. **Illithid operator dead and three worms destroyed**, but **disk not recovered**. **Sira still abducted** and **Traversal Drive unexamined**.
