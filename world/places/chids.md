@@ -1,0 +1,33 @@
+# CHIDS — Center for Human-Demon Interdisciplinary Studies
+
+> **Working formal name:** “Center for Human Demon Interdisciplinary Studies” (spoken repeatedly by the automated guide). **CHIDS** appears spelled out on the welcome-center sign in [E069](../../episodes/E069.md) (`C H I D S` in processed ASR); later automated dialogue may resemble `CETIS` / `C-TEST`. **Orthography needs audio/visual reference; do not silently standardize later spellings.** **Spoilers through E071; dossier derived from processed ASR, not listened to.**
+
+## Site, age and access
+
+A large **pre-Scorching scientific-industrial complex** reached under [Kervalon](kervalon.md) after the party discovers **twin steel doors** behind a hidden masonry section, revealed by **following black worms**. In **E069** a **sentient Door Authority panel** bars visitors for alleged crimes against “doormanity”; it yields after the group negotiates and **Nash applies a little Acid Splash**. A **purple-fogged, worm-bearing 45-degree funicular** descends into the complex; the vehicle crashes after **magical flower spores** put two riders to sleep, though **Stanley's Feather Fall** protects them.
+
+The **welcome center** contains **skeletons, terminals, Julia the automated holographic receptionist**, and an old **facility route map** with blue, red and green subway lines. Julia describes work with **demons from the Weir**, **infernal-wave technologies**, and a **“mega cooker”**; she mentions a **United Federation of Continents** identity-registration system. These are **institutional messages from a long-dead era**, not evidence its human research program still operates.
+
+Most dormitory staff are dead; cards recovered belong to **Stefan Borghetty**, **Bobby Bees**, **Dr. Yxtlee/Yxtle**, **Ricky Julian**, **Tara Mebat**, plus a later **Dr. Tara Mebatt** card in the executive offices ([E070](../../episodes/E070.md)). Names are provisional ASR and the two Tara cards could refer to the same person. The preserved **magically refrigerated/flight-granting underwear** originally belonged to a nonhuman scientist; **Nash wears it first**, and later it is shared for flight. The **food court (McDonald's, Subway, Manchu Wok)** and an **oxygen bar** are physically present, but Nash is **poisoned by a foul oxygen-mask output** (E069). Not all old equipment is harmless.
+
+**Security checkpoint:** requires scanning cards and bodily features; **Hope's attempted passage triggers ceiling guns** and Vorel bends open an exit. The party **operates a subway** and passes many blocked stations, including **Laboratory C, storage, shipping/receiving, and administration**. **Gordon Shuttle Bay**, **Laboratory A with humming violet crystals**, and **executive offices** are reachable or partially visible in E069. Station names and route topology reflect the **in-session screen/map**, not independently surveyed geographical coordinates.
+
+## Executive offices, virtual Illithid realm and alarms (E070–E071)
+
+In **E070**, an office console offers a “game” when the protagonists type a name like **Oubvayx/Ovaxiad**. A **conference room has eight wired virtuality headsets**. Nash and Hope use them, experiencing illithid avatar bodies in a **restored version of the office**. The virtual illithid [Charles Dickens](../characters/charles-dickens.md) calls it an **ethereal projection to the Void Realm**, with a live corporate reporting system, a rival illithid command staff and the **Traversal Drive** planning to merge the worlds. **This is an inhabitant's explanation**, not physical confirmation of the device.
+
+Nash **uploads Charles's false data into a reporting server**, with Hope providing cover through shapeshifted avatars. An illithid worker exposes the intrusion and **security alarms sound simultaneously in the real physical office**. The headsets turn into aggressive membranes, but **both escape**. **Hellhounds and demonic security apes** attack. In **E071** the party defeats one ape (the other remains **a Polymorphed snail**) and the hounds. Charles later **claims the upload worked**, remotely deactivates the alarm and ejects a **burning disk component**. **The supposed several-month delay to the Traversal Drive has not been measured or independently observed.**
+
+## Other stations and the inaccessible machine (E071)
+
+A small imp named [Alvert](../characters/alvert.md) says **engineering** likely houses the **Traversal Drive**, but the relevant **face-like powered door is offline**. The group sends a **railcar containing a still-living snail-transformed security ape** back toward unseen hostiles, **without witnessing a crash or reversion**. They proceed on foot along the railway and reach a **cold north transfer station** and the **green line**. The **Archives** station opens through **Door Authority negotiation plus an executive keycard**, but its internal reception terminals and doors **lack power**; no archival data is recovered. At the **data center**, the main steel door is **buried under ~20 feet of continuously refreezing ice**. **Stanley's Heat Metal** and **Vorel's Eye of Groxl** damage it without granting entry, so Hope finds a **high overhead vent** with less ice, breached by Nash and Stanley. **Four protagonists enter that vent at E071 end; Alvert remains outside**. Data center has **not been reached** and power **has not been restored**.
+
+## Unsettled and evidence tiers
+
+- **Observed:** building/rails/map, cards, hologram, automated door, virtual headsets, physical security response, frozen data center exterior.
+- **Speaker claims:** ancient partnership/technologies (Julia), VR's astral mechanics / literal Void Realm / data effect (Charles), Traversal Drive location and offlined power (Alvert). The **spectral dragon's E067 planet-moving story** may support the latter, but **the PCs still have not inspected or activated the machine**.
+- **Dates:** exact facility construction, destruction, real age, chronological relation between the **old dragon war** and humanity's demon research still uncertain.
+- **Inventory:** E071 **magical flying briefs move from Nash to Stanley to Hope to Vorel** and are last worn by **Vorel** as an improvised harness carrying Nash into the vent; not four duplicate items.
+- **Names:** CHIDS/C-TEST, Dr. Yxtlee, Uobvayx/Ovaxiad, station spellings; seek audio/visual handout before canonizing.
+
+**Sources:** [E068](../../episodes/E068.md) · [E069](../../episodes/E069.md) · [E070](../../episodes/E070.md) · [E071](../../episodes/E071.md). **Related:** [Kervalon](kervalon.md) · [world themes](../WORLD.md) · [chronology](../CHRONOLOGY.md) · [review queue](../../project/REVIEW_QUEUE.md).
