@@ -1,6 +1,6 @@
 # CHIDS — Center for Human-Demon Interdisciplinary Studies
 
-> **Working formal name:** “Center for Human Demon Interdisciplinary Studies” (spoken repeatedly by the automated guide). **CHIDS** appears spelled out on the welcome-center sign in [E069](../../episodes/E069.md) (`C H I D S` in processed ASR); later automated dialogue may resemble `CETIS` / `C-TEST`. **Orthography needs audio/visual reference; do not silently standardize later spellings.** **Spoilers through E073; dossier derived from processed ASR, not listened to.**
+> **Working formal name:** “Center for Human Demon Interdisciplinary Studies” (spoken repeatedly by the automated guide). **CHIDS** appears spelled out on the welcome-center sign in [E069](../../episodes/E069.md) (`C H I D S` in processed ASR); later automated dialogue may resemble `CETIS` / `C-TEST`. **Orthography needs audio/visual reference; do not silently standardize later spellings.** **Spoilers through E075; dossier derived from processed ASR, not listened to.**
 
 ## Site, age and access
 
@@ -34,6 +34,20 @@ In E073, Cerinthala leads the party through the **garden and a locker room**, wh
 
 **Updated open site questions:** engineered species' real histories; Cerinthala's birth/name; exact **Elhandar** coordinates and shuttle operability; fate/locations of named frozen humans other than Toby; **engineering access after remote unlock**, source of purple growth and elevator spiders, and whether **“Principal Dombrovski”** is today's Principle. None is resolved by an NPC's assertions alone.
 
+## Elevator shaft, lower weapons level and secure portal device (E074–E075)
+
+**Elevator shaft:** In [E074](../../episodes/E074.md), an enormous **brain-backed spider matriarch** and hundreds of smaller spiders attack around the stalled lift. **Stanley casts Feather Fall** so the group can descend; his **sheep Polymorph** causes spider fall damage, **but Hope's later two shotgun shots kill the matriarch**. Vorel salvages carapace **shields for Cerinthala and Hope's tiny extra arm**, then forces open a **damaged laboratory landing**.
+
+**Responsive flesh corridor:** Pink biological **membrane blocks Cerinthala and Nash but initially allows Hope/Stanley/Vorel**, despite all using the same hall. **Nash sings**, obtains passage, while Cerinthala's failed attempt ends with **her death by membrane enclosure**. The **dead elf is carried**, with black chalk/oil skin residue that causes **Nash's tongue reaction when tasted**. E075 later **shows her return to life**, so E074 should not be described as final death. **A later pursued Cerinthala appears to escape near this same corridor**, leaving **ice residue and greasy tracks**, route unobserved.
+
+**Lower control room:** Two **green-scaled, energy-rifle lizardfolk** are killed ahead of a motion-activated door. An illithid behind it **pockets a disk**, summons a **red many-faced memory-devourer** and attempts escape. **Hope grapples the illithid**, **Vorel destroys the red mass** in E075, and **dragon-Nash kills the operator** with Hope still holding its neck. The red mass produces **tethered copies of Vorel and dragon-Nash**, which vanish with it; **Vorel/Nash/Stanley all suffer ongoing 1d4 memory-drain effects**. **Hope crushes headworms from the illithid and both killed guards**; the pocketed disk **is not recovered**. [E074](../../episodes/E074.md) · [E075](../../episodes/E075.md).
+
+**Inner secure vault:** Behind the first control console a second room houses **unusually silent clean metal containment chambers**, protected by **a sealed main door, two control buttons, multiple valves and an outside terminal**. The party performs the access sequence; a cradle yields **a single white/gray dual-trigger red/green portal apparatus**. **Vorel retrieves it**, then gives it to **Hope** after discovering **two wall marks link as traversable gateways**. It is **a small recovered local device, not the larger Traversal Drive**. Shots fired at bodies do not cause apparent damage; endpoint duration, maximum range and broader limitations unknown. [Portal device](../technology/portal-device.md).
+
+**Cerinthala and Toby:** During vault operation the previously dead elf **visibly revives**, proves to have a **historic CHIDS employee ID** recovered in her coats, appears to **summon ice Toby from the blue gem**, and **paralyzes Hope with Hold Person** while announcing that her illithid contact wants the adventurers **alive**. **The group kills the ice construct and reanimated Toby corpse**, **Stanley dispels her Wall of Ice**, but **Cerinthala escapes**. Her past testimony about engineering lizardfolk remains **unconfirmed by laboratory records**.
+
+**Military pressure at E075 end:** **A mass of armed bugbears** enters this area, apparently burning obstructive flesh with flame weapons. **Nash's fourth-level Fireball kills front ranks**, then **Vorel steps into the hall and taunts perhaps fifty bugbears with an illithid behind them**. They **charge**. Other adventurers stand ready to **escape using Hope's portal apparatus**, but **no successful portal flight has been played**. **Sira missing; no world-moving engine observed**.
+
 ## Unsettled and evidence tiers
 
 - **Observed:** building/rails/map, cards, hologram, automated door, virtual headsets, physical security response, frozen data center exterior.
@@ -42,4 +56,4 @@ In E073, Cerinthala leads the party through the **garden and a locker room**, wh
 - **Inventory:** E071 **magical flying briefs move from Nash to Stanley to Hope to Vorel**, last worn by **Vorel** in the approach vent; **E072 Vorel returns them to Nash**, who wears them in the server room. They are **one shared item**, not four pairs.
 - **Names:** CHIDS/C-TEST, Dr. Yxtlee, Uobvayx/Ovaxiad, station spellings; seek audio/visual handout before canonizing.
 
-**Sources:** [E068](../../episodes/E068.md) · [E069](../../episodes/E069.md) · [E070](../../episodes/E070.md) · [E071](../../episodes/E071.md) · [E072](../../episodes/E072.md) · [E073](../../episodes/E073.md). **Related:** [Kervalon](kervalon.md) · [world themes](../WORLD.md) · [chronology](../CHRONOLOGY.md) · [review queue](../../project/REVIEW_QUEUE.md).
+**Sources:** [E074](../../episodes/E074.md) · [E075](../../episodes/E075.md) · [E068](../../episodes/E068.md) · [E069](../../episodes/E069.md) · [E070](../../episodes/E070.md) · [E071](../../episodes/E071.md) · [E072](../../episodes/E072.md) · [E073](../../episodes/E073.md). **Related:** [Kervalon](kervalon.md) · [world themes](../WORLD.md) · [chronology](../CHRONOLOGY.md) · [review queue](../../project/REVIEW_QUEUE.md).
