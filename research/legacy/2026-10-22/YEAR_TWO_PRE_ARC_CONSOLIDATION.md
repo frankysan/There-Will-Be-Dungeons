@@ -1,17 +1,17 @@
 # Year Two — Stones, Souls and the Great Fang
 
-**Narrative status:** Covers corrected **E055–E081** after the played three-month downtime, including the **completed CHIDS / Traversal Drive arc (E066–E081)**. **Full spoilers** for these episodes and the earlier arc. This is an editorial retelling drawn from **processed Parakeet SRTs, not an audio-verified transcript**. The [April 2019 bonus](../episodes/BONUS-2019-04.md) offers out-of-character interpretation, not a new played chapter. The earlier arc ends in [Year One](YEAR_ONE.md); **E081 closes the CHIDS confrontation, not the larger Principle/soul-contract storyline**.
+**Narrative status:** Covers corrected **E055–E081** after the played three-month downtime, including the **completed CHIDS / Traversal Drive arc (E066–E081)**. **Full spoilers** for these episodes and the earlier arc. This is an editorial retelling drawn from **processed Parakeet SRTs, not an audio-verified transcript**. The [April 2019 bonus](../../../episodes/BONUS-2019-04.md) offers out-of-character interpretation, not a new played chapter. The earlier arc ends in [Year One](../../../narrative/YEAR_ONE.md); **E081 closes the CHIDS confrontation, not the larger Principle/soul-contract storyline**.
 
 ## Reading map — the road to the CHIDS finale
 
-This long-form story is chronological. Each chapter retains the characters' **knowledge at its episode cutoff**, so an earlier paragraph saying "Sira remains missing" or "the Drive has not been seen" is not a present-day contradiction once a later episode changes that status. The [chronology](../world/CHRONOLOGY.md) and [consistency ledger](../world/CONSISTENCY_LEDGER.md) hold the authoritative **latest researched cutoff** for reference use.
+This long-form story is chronological. Each chapter retains the characters' **knowledge at its episode cutoff**, so an earlier paragraph saying "Sira remains missing" or "the Drive has not been seen" is not a present-day contradiction once a later episode changes that status. The [chronology](../../../world/CHRONOLOGY.md) and [consistency ledger](../../../world/CONSISTENCY_LEDGER.md) hold the authoritative **latest researched cutoff** for reference use.
 
 - **E055–E065 — Between kingdoms and calamities:** three-month political aftermath, the Great Fang succession, Razak Val's disaster, and the arrival of **Follow, Rorf and Sira** (chapters I–X).
 - **E066–E068 — The Kervalon mission:** **Follow and Rorf die**, **Sira is abducted**, the spectral carriage brings the heroes to Kervalon, and they enter the defended ruins (chapters XI–XIII).
 - **E069–E077 — CHIDS and its hidden history:** institutional and demonic testimony, the living-walled laboratories, Cerinthala and Toby, the paired portal device, the lizardfolk vats, the Eye of Groxl and the **unverified Wall Nash** (chapters XIV–XXII).
 - **E078–E081 — Engineering and the final choice:** hive transport, the rescue of **Chance and Eddie**, first physical sight of the Drive, rockets and the commander battle, **Dolo Popio's manifested defeat**, **Sira's release**, **Chance's disappearance** and the **four protagonists' GM-declared deaths** in the crimson beam (chapters XXIII–XXVI).
 
-**End-of-arc distinction:** the heroes' disappearance and death declaration are **played/narrated E081 outcomes**, while their **irreversibility**, the **lasting condition of Earth and the Drive**, the **Principle's fate**, and the fate of **Chance in the void** remain unshown. The demon and hive council's explanations are **attributed accounts** rather than independent proof. See the [E081 dossier](../episodes/E081.md) and [arc audit](../reports/CHIDS_ARC_CONSOLIDATION_2026-10-22.md).
+**End-of-arc distinction:** the heroes' disappearance and death declaration are **played/narrated E081 outcomes**, while their **irreversibility**, the **lasting condition of Earth and the Drive**, the **Principle's fate**, and the fate of **Chance in the void** remain unshown. The demon and hive council's explanations are **attributed accounts** rather than independent proof. See the [E081 dossier](../../../episodes/E081.md) and [arc audit](../../../reports/CHIDS_ARC_CONSOLIDATION_2026-10-22.md).
 
 ## I. Three months and a throne
 
@@ -23,7 +23,7 @@ The past returns to court in person. The gnome **Softhead**, lost beneath Dusthi
 
 Elsewhere in the keep, an intruder attacks Hope in her bedroom, invokes an obscure demonic name and strikes with a poisoned blade. With a hidden revolver, a sharpened artificial horn and palace guards, she survives; the assailant does not. The party later gathers at the Golden Sands, where a visiting dwarf trader describes distant roads, the dwarven empire, Slavetown and Principle City. The conversation is soon overtaken by a racist tavern brawl. The heroes have scarcely resumed ordinary fellowship when **a burning object tears across the sky** and **stones begin to rain on Tietkalla**.
 
-**Evidence:** [E055](../episodes/E055.md). A later [April cast roundtable](../episodes/BONUS-2019-04.md) explains Stanley's private motivations during downtime, including research into freeing himself from Diontalus, without implying the full party heard that confession.
+**Evidence:** [E055](../../../episodes/E055.md). A later [April cast roundtable](../../../episodes/BONUS-2019-04.md) explains Stanley's private motivations during downtime, including research into freeing himself from Diontalus, without implying the full party heard that confession.
 
 ## II. A storm of stone and angry dead
 
@@ -37,7 +37,7 @@ At the same time, **P0D appears to Nash as a spirit**, recalling a friendship th
 
 That apparent moment of relief becomes another crisis. **Nobiery reveals the royal party's demonic dealings in front of Emenil**. For a devoted Tidebearer, the revelation threatens the legitimacy of Hope's rule and the truth the city has been told about the Weirlords. She demands that the people know. Stanley argues for patience and unity; Nobiery orders an **animated corpse to attack her instead**. The episode ends while the creature bites her. **Her survival or death is not decided at this cutoff.**
 
-**Evidence:** [E056](../episodes/E056.md).
+**Evidence:** [E056](../../../episodes/E056.md).
 
 ## Interim E056 checkpoint
 
@@ -53,7 +53,7 @@ They dig up an unlucky leprechaun with a lost pot of gold. But **Diontalus** abr
 
 The trip home is absurd and tense: **Nash flies off as a dragon**, the truck leaves **bananas** along its path, and he follows them until his transformation ends. Hope dispatches a search party that **retrieves him alive**. Soon the capital sees an altogether different visitor: the **Principle**, a gigantic **metallic figure wearing red rings**, arrives to discuss peace with Hope.
 
-**Evidence:** [E057](../episodes/E057.md) · [E058](../episodes/E058.md).
+**Evidence:** [E057](../../../episodes/E057.md) · [E058](../../../episodes/E058.md).
 
 ## IV. A bargain in steel
 
@@ -65,7 +65,7 @@ Then **actual Dusthill survivors arrive**, not just a letter promising their rel
 
 Another obligation intrudes: **Diptak summons Vorel** to reclaim his lizardfolk birthright. The adventurers take **Fate 4**, Diptak and Vorel mount hunting lizards, and the group crosses the sands toward Razak Val. A vast cloud of bloodsuckers drives them into **Stanley's magical hut**, which Nash protects with a mound of earth. At journey's end the reigning Great Fang proves to be **Orp**, the cyclops they once helped steer away from other people. He has built a new home by making the whole settlement deliver **living humans for his meals**.
 
-**Evidence:** [E058](../episodes/E058.md) · [E059](../episodes/E059.md).
+**Evidence:** [E058](../../../episodes/E058.md) · [E059](../../../episodes/E059.md).
 
 ## V. Honor has a price
 
@@ -75,7 +75,7 @@ The diminutive, articulate **Mirion Fengar** explains a system in which a new ru
 
 At the feast Orp **finally accepts the duel**, to be held **the next morning**. Guests contend with living snake appetizers and a terrible creature cooked as **“chicken lord.”** Nash slips out toward a latrine, where a cloaked stranger reveals **Nash's own face, unscarred**, and claims to be **Nash from the future**. Only Nash hears this claim in the played scene. The stranger's true origin—and the outcome of the approaching duel—remain out of reach at the end of E060.
 
-**Evidence:** [E060](../episodes/E060.md).
+**Evidence:** [E060](../../../episodes/E060.md).
 
 ## Interim checkpoint — after E060
 
@@ -89,7 +89,7 @@ Nash leaves Bramie **alive**. That distinction matters when the court learns tha
 
 Meanwhile the political center shifts around Vorel. A northern **Zark** hunter says the **Demon Vold** is not merely a source of exotic food but a dangerous weakening between worlds, with invaders and a name reminiscent of **Dollo Poppio**. Vorel seeks family records about the **god-killer** and hears the beginning of an ancestral tale from priestess Typalla. Before either investigation can reach its goal, the murder stops the gathering.
 
-**Evidence:** [E061](../episodes/E061.md). The visitors' supposed origin, the identity of the murderer and the ancient prophecy behind the egg remain unresolved.
+**Evidence:** [E061](../../../episodes/E061.md). The visitors' supposed origin, the identity of the murderer and the ancient prophecy behind the egg remain unresolved.
 
 ## VII. A flaming shield and a shattered court
 
@@ -99,7 +99,7 @@ The effort spirals into violence. Orp scarcely understands the scale of what his
 
 Propelled far outside the hall, Vorel and Orp continue their desperate contest. The cyclops mauls and crushes him, but Vorel fights on, using the flaming shield to strike the enormous eye. When Orp finally collapses, **dead**, Vorel barely survives. Standing atop his fallen body with the shield raised, he watches the people of Razak Val answer with their weapons and a growing chorus of approval. **Omnom names him Great Fang.** Vorel's earlier self-declared kingship has become **publicly acknowledged office**, gained at terrible cost.
 
-**Evidence:** [E062](../episodes/E062.md). **Mawstorm** is Vorel's separate sword; the fatal shield is an **Eye of Groxl** effect.
+**Evidence:** [E062](../../../episodes/E062.md). **Mawstorm** is Vorel's separate sword; the fatal shield is an **Eye of Groxl** effect.
 
 ## VIII. The Fang's first test
 
@@ -111,7 +111,7 @@ There is little opportunity to enjoy sovereignty. Vorel turns first toward the *
 
 These are beginnings rather than resolutions: the worm's purpose is not fully known, the murdered Tyrant Slayer has no proven killer, the egg remains missing, and a whole population of newly promised free people must still be safely cared for. **The reign has begun, but whether Vorel can reform Razak Val remains open.**
 
-**Evidence:** [E063](../episodes/E063.md).
+**Evidence:** [E063](../../../episodes/E063.md).
 
 ## Interim checkpoint — after E063
 
@@ -125,7 +125,7 @@ Then the whole pit erupts. The blinded and starving humans change into **chicken
 
 Their **raptors** race through a canyon pursued by chicken lords. A narrow rope bridge gives way beneath Hope; the others escape and help hold the pursuers off until she climbs back to safety. Many monsters plunge into the ravine. After camping in the desert, the friends choose the dangerous purple sands over returning to search for **Fate 4**. Then the engine of **Fate 4 itself** is heard across the wasteland. Stanley's megaphone calls it back. A little girl appears in the door, briefly vanishes, and is followed by **Follow**, who asks whether the adventurers would like a ride in their own stolen vehicle. With him is a massive orc, now occupying its damaged driving compartment.
 
-**Evidence:** [E064](../episodes/E064.md). The city's fate, Omnom's survival, and the Zarks' guilt are all unresolved.
+**Evidence:** [E064](../../../episodes/E064.md). The city's fate, Omnom's survival, and the Zarks' guilt are all unresolved.
 
 ## X. Old sins, new families and rain
 
@@ -137,7 +137,7 @@ Ahead, the purple horizon fills with thunder. **Rain**, almost unbelievable to t
 
 Night brings more improbable visitors. Men wearing Nash's face arrive one after another, each insisting he comes from some future. They have **two copies of the Fengar egg**, conflicting stories about whether it should have been **a magical leg**, and a warning that a planet might explode. One egg remains behind as the others depart. But no one knows what to believe. The ground shivers under the hut, the puddles ripple, and a **Tyrannosaurus rex approaches Fate 4**. Vorel hides beneath the vehicle, ready to defend it. The giant sniffs the car. Their next fight—or escape—is still beyond the edge of this recording.
 
-**Evidence:** [E065](../episodes/E065.md). The [July-archived Q&A](../episodes/BONUS-2019-07.md) separately explains creator intentions; it is not another night in the storm.
+**Evidence:** [E065](../../../episodes/E065.md). The [July-archived Q&A](../../../episodes/BONUS-2019-07.md) separately explains creator intentions; it is not another night in the storm.
 
 ## Interim checkpoint — after E065
 
@@ -157,7 +157,7 @@ Stanley finds Follow dying. The man has barely enough life to demand that his da
 
 Eventually, walking through the watching woods, they reach a small settlement whose residents look like **uniformed skeletons**. These strangers insist they are travelers from elsewhere among the stars, stranded with a crashed ship. One offers a mysterious **powering coil** and an extraordinary **green, spectral horse and carriage**. Unlike Vorel's salvage cart, the carriage bends the crowded tree trunks aside as it carries the four adventurers toward Kervalon.
 
-**Evidence:** [E066](../episodes/E066.md). The mind flayer's bargain is **hostile testimony**, not an accepted contract; **Rorf and Follow are dead**, and **Sira is abducted**, not safely resettled.
+**Evidence:** [E066](../../../episodes/E066.md). The mind flayer's bargain is **hostile testimony**, not an accepted contract; **Rorf and Follow are dead**, and **Sira is abducted**, not safely resettled.
 
 ## XII. The spirit in the sky and the beast in the basement
 
@@ -173,7 +173,7 @@ The group reunites behind the sealed entrance and breaks through together. A tow
 
 As they explore the empty stone side rooms, they hear other footsteps. **Hope looks ahead and sees a lizardfolk holding a rifle, waiting in ambush**. Far above, the column of light still shines into the fortress. Neither the captives nor the machine are found. The next room may be more dangerous than the last.
 
-**Evidence:** [E067](../episodes/E067.md). Hope's Dusthill interlude **does not restore Fate 4**; the dragon's ancient-machine account is **attributed testimony**, and the proposed dinosaur breach **is never cast**.
+**Evidence:** [E067](../../../episodes/E067.md). Hope's Dusthill interlude **does not restore Fate 4**; the dragon's ancient-machine account is **attributed testimony**, and the proposed dinosaur breach **is never cast**.
 
 ## Interim checkpoint — after E067
 
@@ -195,7 +195,7 @@ The group climbs the surrounding stairs to the storm-lashed spire, finding neith
 
 Hope reaches out with her one **flesh hand** to press a button. **The panel leaps at her as a mouth full of teeth**. She pulls back just in time; the fingers are still hers. The doors do not open. Somewhere below, the mystery continues.
 
-**Evidence:** [E068](../episodes/E068.md). The [August public-release bonus](../episodes/BONUS-2019-08.md), recorded as **July 27** according to Scott, later clarifies that Beau intended the **light and worms to point to a secret lower chamber**. This is **GM puzzle-design testimony**, not proof the ancient machine is already found.
+**Evidence:** [E068](../../../episodes/E068.md). The [August public-release bonus](../../../episodes/BONUS-2019-08.md), recorded as **July 27** according to Scott, later clarifies that Beau intended the **light and worms to point to a secret lower chamber**. This is **GM puzzle-design testimony**, not proof the ancient machine is already found.
 
 ## Interim checkpoint — after E068
 
@@ -213,7 +213,7 @@ So the friends search the **living pods**. They find a demon scientist's skeleto
 
 At the checkpoint some of the stolen identities work. **Hope's do not**. Ceiling-mounted weapons unfold, **Diplomacy** stabs at the machinery, and **Vorel bends the security door aside** so she can escape. The group boards a subway through the enormous complex. Most stations are buried under rock; others still lead to shadowy corridors. They choose the **executive offices** as a possible route to those controlling the machine. There, in the quiet, Hope feels tentacles reaching for her head.
 
-**Evidence:** [E069](../episodes/E069.md). The facility's preserved presentations reveal its self-description, not a proven account of every ancient event.
+**Evidence:** [E069](../../../episodes/E069.md). The facility's preserved presentations reveal its self-description, not a proven account of every ancient event.
 
 ## XV. A game in the mind
 
@@ -229,7 +229,7 @@ Hope slips through an office as a **cockroach**, then watches from a desk disgui
 
 The worst part is that the alarms **also sound in the abandoned physical office**, where Stanley and Vorel are waiting. The two investigators tear away their headsets just as the glasses **turn to grasping membranes**. Then **flaming hounds leap into the room**, followed by giant **orange ape-like security guards**. Stanley turns one guard into **a tiny snail**. Nash makes Vorel huge enough to **catch two hellhounds and swing them into others**. Bullets, magic, claws and flame fill the room, and the friends realize the fight will not end quickly.
 
-**Evidence:** [E070](../episodes/E070.md). Charles's cosmology and the data upload's eventual effect remain **speaker claims and unmeasured consequences**.
+**Evidence:** [E070](../../../episodes/E070.md). Charles's cosmology and the data upload's eventual effect remain **speaker claims and unmeasured consequences**.
 
 ## XVI. Bureaucrats above and below
 
@@ -247,7 +247,7 @@ The travelers walk down the rail tracks, through **bitter cold and growing ice**
 
 To lift each person through, the party shares Nash's miraculous **floating underwear**. For a moment Stanley wears it, then Hope, then Vorel, who hoists the wounded Nash as though carrying a bride. Soon **all four crawl along the frozen duct**, shivering as new ice creeps over its walls. **Alvert refuses to follow**, too frightened of the cold. Far below them, the rails are quiet.
 
-**Evidence:** [E071](../episodes/E071.md). The Principle biography, afterlife politics and machine location remain **Alvert's testimony**; the team has **not yet entered the data center proper**.
+**Evidence:** [E071](../../../episodes/E071.md). The Principle biography, afterlife politics and machine location remain **Alvert's testimony**; the team has **not yet entered the data center proper**.
 
 ## Interim checkpoint — after E071
 
@@ -269,7 +269,7 @@ After the strange negotiations, Stanley casts **Tiny Hut**, providing somewhere 
 
 When morning arrives, the group has recovered its strength. **Stanley steps out of the magical hut**, and suddenly great hands of ice seize him. **Four towering creatures**, with frozen men suspended inside their bodies, rise from the floor and hammer at his friends. One starts **carrying Stanley away**, while Vorel meets the others with the **Eye of Groxl's flame**, and Nash makes Vorel huge with magic. Hope rushes to save the prisoner. In the giant's hand, **Stanley's new necklace begins to draw tight around his throat**.
 
-**Evidence:** [E072](../episodes/E072.md). Cerinthala's origins and experiments remain **her account**; the amulet's danger is **directly played**.
+**Evidence:** [E072](../../../episodes/E072.md). Cerinthala's origins and experiments remain **her account**; the amulet's danger is **directly played**.
 
 ## XVIII. Promises in the ice
 
@@ -289,11 +289,11 @@ Nash, unable to resist touching the unknown, **pokes one patch with his staff**.
 
 At a bank of four elevators, one summoned lift plunges away with a crash. The next arrives, but **stalls between floors**, darkness filling its interior. Vorel pries the doors apart and finds only concrete. He tears open a roof hatch instead, and Hope climbs up to inspect the fraying cables. Something wet spatters from above. She looks higher, sees **glinting eyes multiplying in the shaft**, and then the legs of a **giant spider-shaped creature** descending straight toward them.
 
-**Evidence:** [E073](../episodes/E073.md). The lab's **physical vessels and dangerous membrane are witnessed**; the claim that ancient scientists created all lizardfolk and vampires remains **Cerinthala's testimony**, pending further evidence.
+**Evidence:** [E073](../../../episodes/E073.md). The lab's **physical vessels and dangerous membrane are witnessed**; the claim that ancient scientists created all lizardfolk and vampires remains **Cerinthala's testimony**, pending further evidence.
 
 ## Interim checkpoint — after E073
 
-**All four protagonists and Cerinthala are alive near the roof of a stalled CHIDS elevator**, with a **gigantic spider-like creature descending**. **Stanley's +1 AC totem necklace remains on him, and Cerinthala has admitted it is cursed**, tightening and shocking him when he turns against her. **Nash's staff is broken**, with its nail-bearing portion still usable as a focus. **Vorel refused an offer to engineer a child**. Cerinthala **actually remotely unlocked the engineering access**, but **the group has not physically inspected or activated the Traversal Drive**, nor rescued **Sira**. **Alvert's whereabouts beyond the E071 data-center exterior are not newly observed**. The [September public-release bonus](../episodes/BONUS-2019-09.md) adds important cast explanations and speculations, not new played events.
+**All four protagonists and Cerinthala are alive near the roof of a stalled CHIDS elevator**, with a **gigantic spider-like creature descending**. **Stanley's +1 AC totem necklace remains on him, and Cerinthala has admitted it is cursed**, tightening and shocking him when he turns against her. **Nash's staff is broken**, with its nail-bearing portion still usable as a focus. **Vorel refused an offer to engineer a child**. Cerinthala **actually remotely unlocked the engineering access**, but **the group has not physically inspected or activated the Traversal Drive**, nor rescued **Sira**. **Alvert's whereabouts beyond the E071 data-center exterior are not newly observed**. The [September public-release bonus](../../../episodes/BONUS-2019-09.md) adds important cast explanations and speculations, not new played events.
 
 ## XIX. The Big Red One
 
@@ -311,7 +311,7 @@ Hope is ready. Vorel makes a launching step with his hands, sending her high acr
 
 The thing begins to make new fighters from its own flesh. **A Vorel steps out, tethered by red strands to the monster**. Then a huge **dragon-Nash** emerges, equally connected, wearing the face and form of a friend. The living companions cannot know which memories have been lost; only that **their thoughts no longer quite belong to them**.
 
-**Evidence:** [E074](../episodes/E074.md). The spider queen's death, Cerinthala's lifeless body and the red mass's two replicas are played events; the ultimate meaning of the memory-drain penalty remains under review.
+**Evidence:** [E074](../../../episodes/E074.md). The spider queen's death, Cerinthala's lifeless body and the red mass's two replicas are played events; the ultimate meaning of the memory-drain penalty remains under review.
 
 ## XX. A passage out of the world
 
@@ -331,13 +331,13 @@ The white weapon seems nearly useless until Vorel fires **red and green charges 
 
 The bugbears arrive first. Metal crashes in the halls, flames sweep the fleshy corridor, and **armed goblinoid troops pour toward the laboratory**. Nash sends a **Fireball** down the passage, wiping out their front ranks. As the others take position in the back room, **an air-blowing vent suggests another possible passage**, but no one explores it. Vorel steps forward to lure the survivors toward the others, who have planned a route through the portals. Ahead are **dozens of bugbears—and an illithid in their ranks**. Vorel bellows a challenge in Goblin. The enemy charges.
 
-**Evidence:** [E075](../episodes/E075.md). A linked red/green portal pair is actually demonstrated, but **the proposed escape through it has not yet happened**. Cerinthala's resurrection and betrayal are observed; her ultimate fate remains unknown.
+**Evidence:** [E075](../../../episodes/E075.md). A linked red/green portal pair is actually demonstrated, but **the proposed escape through it has not yet happened**. Cerinthala's resurrection and betrayal are observed; her ultimate fate remains unknown.
 
 ## Where the story stands after E075
 
-**All four protagonists are alive in the lower CHIDS armament complex.** **Vorel has stepped into the corridor as bait**, with **roughly fifty bugbears charging** and an illithid farther back; **Hope carries the newly recovered red/green [portal device](../world/technology/portal-device.md)** near the others. **Stanley, Nash and Vorel each bear a persistent memory-draining effect** from the killed red creature; Stanley survived unconsciousness and recovered enough to act. **Cerinthala revived and betrayed them, then escaped**; **Toby's visible ice form and walking corpse were destroyed**. **Stanley's cursed +1 AC amulet has not been removed**, and **Sira is still missing**. **No successful portal escape, launch to Elhandar or Traversal Drive activation has been played.**
+**All four protagonists are alive in the lower CHIDS armament complex.** **Vorel has stepped into the corridor as bait**, with **roughly fifty bugbears charging** and an illithid farther back; **Hope carries the newly recovered red/green [portal device](../../../world/technology/portal-device.md)** near the others. **Stanley, Nash and Vorel each bear a persistent memory-draining effect** from the killed red creature; Stanley survived unconsciousness and recovered enough to act. **Cerinthala revived and betrayed them, then escaped**; **Toby's visible ice form and walking corpse were destroyed**. **Stanley's cursed +1 AC amulet has not been removed**, and **Sira is still missing**. **No successful portal escape, launch to Elhandar or Traversal Drive activation has been played.**
 
-**Editorial boundary:** The [Year One Q&A](../episodes/BONUS-2019-03.md) preceded the played time jump; the [April bonus roundtable](../episodes/BONUS-2019-04.md) is out-of-character commentary after at least E055, not a substitute for E056. The [active consistency ledger](../world/CONSISTENCY_LEDGER.md) and [review queue](../project/REVIEW_QUEUE.md) track name spellings, evidence limits and unresolved mechanics.
+**Editorial boundary:** The [Year One Q&A](../../../episodes/BONUS-2019-03.md) preceded the played time jump; the [April bonus roundtable](../../../episodes/BONUS-2019-04.md) is out-of-character commentary after at least E055, not a substitute for E056. The [active consistency ledger](../../../world/CONSISTENCY_LEDGER.md) and [review queue](../../../project/REVIEW_QUEUE.md) track name spellings, evidence limits and unresolved mechanics.
 
 ## XXI. Through the portal and into containment
 
@@ -351,7 +351,7 @@ The next room is an armory. **Hope discovers two rockets that fit her existing l
 
 They press onward between **pulsing flesh walls**. Nash sings again to stop the passage from closing around him. This time the corridor holds—at least until the episode ends.
 
-**Evidence:** [E076](../episodes/E076.md). Portal evacuation is **actually performed** here, unlike E075's proposal. Blue apparitions, equipment readouts and the Eye's feelings are observed; the identity of the living flesh and the exact nature of the experiments are still unknown to the heroes.
+**Evidence:** [E076](../../../episodes/E076.md). Portal evacuation is **actually performed** here, unlike E075's proposal. Blue apparitions, equipment readouts and the Eye's feelings are observed; the identity of the living flesh and the exact nature of the experiments are still unknown to the heroes.
 
 ## XXII. The man in the cylinder and the Nash in the wall
 
@@ -367,11 +367,11 @@ Then another figure rises from the wall, wearing an image of **Nash Maggard**. I
 
 The council claims an **illithid force has reached the engineering center** where the Traversal Drive is kept. It offers an opportunity to rest, access to locked supplies and a plan to deliver the party near the invaders. The GM closes the session by **awarding level nine and proposing a full rest and hand reattachment with Monster Mender**; the actual procedure and overnight rest are **played in E078**, rather than fully carried out in this episode. The proposed strike remains ahead; Sira is still missing.
 
-**Evidence:** [E077](../episodes/E077.md). The living wall and second Nash-shaped figure **manifest in the scene**. The speaker's account of time travel, future betrayals and planetary destruction is **unverified testimony**; it does not supersede the played timeline.
+**Evidence:** [E077](../../../episodes/E077.md). The living wall and second Nash-shaped figure **manifest in the scene**. The speaker's account of time travel, future betrayals and planetary destruction is **unverified testimony**; it does not supersede the played timeline.
 
 ## Where the story stands after E077
 
-**All four protagonists survived the containment battle** and the GM granted **level-nine advancement and a full-rest transition** for the next session. Vorel wears an anti-dragon suit; **the GM announces a plan for repairing his severed digits and hand**, and that repair is **explicitly carried out during E078**. **Hope controls the one portal device**, whose portal and **necrotic-beam** functions have both been used; friendly fire was dangerous. The **hive council proposes an assault landing near engineering**, but it has not yet delivered the heroes there. **Sira remains captive, the party has not activated the Traversal Drive**, and the alleged future Wall Nash's dire account remains contested. The [October Q&A](../episodes/BONUS-2019-10.md) offers out-of-character context, not another played chapter.
+**All four protagonists survived the containment battle** and the GM granted **level-nine advancement and a full-rest transition** for the next session. Vorel wears an anti-dragon suit; **the GM announces a plan for repairing his severed digits and hand**, and that repair is **explicitly carried out during E078**. **Hope controls the one portal device**, whose portal and **necrotic-beam** functions have both been used; friendly fire was dangerous. The **hive council proposes an assault landing near engineering**, but it has not yet delivered the heroes there. **Sira remains captive, the party has not activated the Traversal Drive**, and the alleged future Wall Nash's dire account remains contested. The [October Q&A](../../../episodes/BONUS-2019-10.md) offers out-of-character context, not another played chapter.
 
 ## XXIII. The council's gifts and the gnomes in the vat
 
@@ -387,7 +387,7 @@ The walls open four soft beds. The heroes lie down, and **living conduits carry 
 
 **Chance and Eddie Manchester III**, the gnomes last seen vanishing into a sand pit long ago, hang bound and gagged over a tank of small alien creatures. Two additional illithids, a robed human mage, and a security ape threaten them. The rescue is a brutal melee of mind blasts and spell failures. Vorel becomes **stunned and caught within an illithid's tentacled mouth**, seconds from losing his brain. Nash empowers comrades with **Twinned Haste**, Stanley transforms into a monstrous **giant ape**, and **Eddie** fights free and lands the critical knife strike that **kills the illithid holding Vorel**. Nash dispatches the surviving illithid with his new **Chromatic Orb**, and Stanley's ape tears apart the security creature. The gnomes survive and the allies gather in exhausted disbelief.
 
-**Evidence:** [E078](../episodes/E078.md). The ancestors-of-lizardfolk explanation and apocalyptic Drive hazard are **the council's claims**, while the hand repair, long rest, material acquisitions, flesh-tunnel transport and gnome rescue are **played outcomes**.
+**Evidence:** [E078](../../../episodes/E078.md). The ancestors-of-lizardfolk explanation and apocalyptic Drive hazard are **the council's claims**, while the hand repair, long rest, material acquisitions, flesh-tunnel transport and gnome rescue are **played outcomes**.
 
 ## XXIV. Two rockets into the heart of engineering
 
@@ -403,11 +403,11 @@ Hope has **two rockets** from the preparation bay. Their plan is simple and care
 
 The great illithid leader, however, is **not gone**. He takes damage, recoils and **floats upward**. The warped dragon-worm and enormous beam remain. In an instant, the party has upset the battlefield and cleared many enemies, but the struggle for the planet and **Sira's life** is just beginning.
 
-**Evidence:** [E079](../episodes/E079.md). The precise whereabouts of Sira in the machine room need audio/visual verification. The scene ends **after the two rocket blasts**, not after boss defeat, Drive shutdown or rescue.
+**Evidence:** [E079](../../../episodes/E079.md). The precise whereabouts of Sira in the machine room need audio/visual verification. The scene ends **after the two rocket blasts**, not after boss defeat, Drive shutdown or rescue.
 
 ## Where the story stands after E079
 
-**Hope has spent both rockets.** Several lizardfolk guards, **three illithids and Cerinthala's currently observed body** have been destroyed in the first strike. **The much larger illithid leader survives and ascends; the dragon-worm and beam remain, with Sira not rescued.** The group now includes **Chance and Eddie**, both alive. Vorel's severed limbs were **actually repaired in E078**, and an **eight-hour rest in E078 plus a separate short rest in E079** are distinct events. The **portal gun has already bypassed the crystal lock**, but **the Drive is neither deactivated nor destroyed**. The [November bonus](../episodes/BONUS-2019-11.md) provides cast/GM context, not another scene.
+**Hope has spent both rockets.** Several lizardfolk guards, **three illithids and Cerinthala's currently observed body** have been destroyed in the first strike. **The much larger illithid leader survives and ascends; the dragon-worm and beam remain, with Sira not rescued.** The group now includes **Chance and Eddie**, both alive. Vorel's severed limbs were **actually repaired in E078**, and an **eight-hour rest in E078 plus a separate short rest in E079** are distinct events. The **portal gun has already bypassed the crystal lock**, but **the Drive is neither deactivated nor destroyed**. The [November bonus](../../../episodes/BONUS-2019-11.md) provides cast/GM context, not another scene.
 
 ## XXV. The illithid commander falls, and the room becomes stars
 
@@ -425,7 +425,7 @@ On the new battlefield, the dragon-worm's presence fills the party with terror. 
 
 Then Dolo Popio spreads its wings, gathers the glowing motes of the starry void, and **unleashes an enormous breath attack**. The episode ends **before the saving throws, damage, or aftermath of that attack are played**. The leader illithid has died and both gnomes have survived terrible injuries, but **the central enemy remains alive, Sira is still captive, and the Traversal Drive has not been shut down**.
 
-**Evidence:** [E080](../episodes/E080.md). The commander kill, Chance's rescue and Vorel's flame-blade are performed; the contract's name, literal nature of the starry battlefield and incoming breath's consequences **remain open**.
+**Evidence:** [E080](../../../episodes/E080.md). The commander kill, Chance's rescue and Vorel's flame-blade are performed; the contract's name, literal nature of the starry battlefield and incoming breath's consequences **remain open**.
 
 ## Where the story stands after E080
 
@@ -457,7 +457,7 @@ The four companions **enter the light together**. Nash remains in his dragon bod
 
 The GM says plainly that **all four are dead at this episode's close**. This is the ending shown and declared. **Whether they are irretrievably dead, displaced, or subject to further consequences in the Void is not shown**. Their deliberate action is performed, but the lasting condition of the Drive and the whole planet is not surveyed in a subsequent scene. **Sira has escaped the beam and remains with Eddie, alive. Chance is still unlocated.** The story arc ends on that sharp boundary between the friends' sacrifice and whatever lies beyond.
 
-**Evidence:** [E081](../episodes/E081.md). Distinguish **directly played rescue and disappearance**, **the GM's explicit death declaration**, and **Quizquaz's self-interested explanation of how the machine works**. None should be replaced by a later-campaign spoiler without an evidence-tagged follow-up.
+**Evidence:** [E081](../../../episodes/E081.md). Distinguish **directly played rescue and disappearance**, **the GM's explicit death declaration**, and **Quizquaz's self-interested explanation of how the machine works**. None should be replaced by a later-campaign spoiler without an evidence-tagged follow-up.
 
 ## CHIDS / Traversal Drive arc closing state — E081
 
