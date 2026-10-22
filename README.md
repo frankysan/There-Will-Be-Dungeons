@@ -16,6 +16,7 @@
 | Read the cast/GM bonus discussions | [March 2019 Q&A](episodes/BONUS-2019-03.md), [April 2019 The First and Last](episodes/BONUS-2019-04.md), [June public-release Q&A](episodes/BONUS-2019-06.md) (called May's bonus when recorded) [July public-release Q&A](episodes/BONUS-2019-07.md) (called June's bonus; **June 29 recording-date claim** in ASR) and [August public-release Q&A](episodes/BONUS-2019-08.md) (**July 27 recording-date claim** in ASR). **For bonuses, filename months represent public publication, not recording or early-member availability**; **not numbered Wastes episodes** |
 | Check actual versus original episode numbering | [Corrected crosswalk](project/EPISODE_NUMBERING.md) |
 | Follow unresolved listening tasks | [Review queue](project/REVIEW_QUEUE.md) |
+| Run Markdown structure and table checks | [Markdownlint setup and CI](project/MARKDOWN_LINTING.md) — `npm install`, then `npm run lint:markdown` |
 | Understand source confidence and editing conventions | [Editorial guide](project/EDITORIAL_GUIDE.md), [documentation architecture](project/DOCUMENTATION_ARCHITECTURE.md) |
 
 The **Year One narrative** and **opening Year Two chapters** are for reading. The **episode dossiers and source SRTs** support the research; a story summary is not a replacement for original cues, transcripts, source handouts or audio verification.
