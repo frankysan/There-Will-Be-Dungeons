@@ -1,6 +1,6 @@
 # The Wastes — active audio, source and editorial review queue
 
-**Status: OPEN tasks, updated 2026-10-22.** Full *Wastes* spoilers through corrected **E056**, with separate [March 2019 Q&A](../episodes/BONUS-2019-03.md) and [April 2019 roundtable](../episodes/BONUS-2019-04.md). **No new listening, SRT editing or handout verification occurred during consolidation.** The [consistency ledger](../world/CONSISTENCY_LEDGER.md) identifies **what remains uncertain versus resolved**. This queue tells reviewers **where to listen or which sources to compare**.
+**Status: OPEN tasks, updated 2026-10-22.** Full *Wastes* spoilers through corrected **E060**, with separate [March 2019 Q&A](../episodes/BONUS-2019-03.md) and [April 2019 roundtable](../episodes/BONUS-2019-04.md). **No new listening, SRT editing or handout verification occurred during consolidation.** The [consistency ledger](../world/CONSISTENCY_LEDGER.md) identifies **what remains uncertain versus resolved**. This queue tells reviewers **where to listen or which sources to compare**.
 
 **Complete historical backlog preserved:** The entire ~73k-character pre-Phase-D [review queue, including its many timed episode-by-episode tasks](../research/legacy/2026-10-22/PROJECT_REVIEW_QUEUE.md), is frozen with functioning relative links. Its outstanding tasks were **not automatically closed** by omission from this shorter index. The original [consistency issue register](../research/legacy/2026-10-22/WORLD_CONSISTENCY_LEDGER.md) also preserves exact issue keys and status history.
 
@@ -105,7 +105,7 @@ This is a **batch routing grid**, not a statement that every cue within a listed
 | **Critical** | E056 ~01:18–02:07 | **George ghost** hostile/aged Vorel and dispersed by Nash, **Martha apparition** repelled, **P0D spirit**, Hope's ancestral tests and **Quizquaz** offer. Distinguish **spirit from revival**, witnessed ethereal scene from **interested claims**. |
 | **Critical** | E056 ~01:57–02:07 | Exact **Andreeste, Dollo Poppio, Grim Council, dragon destroyed on entry** wording. Record all as **Quizquaz's asserted story** pending separate confirmation; Hope rejects **Melgor + fifty souls** offer. |
 | **High** | E056 ~02:09–02:34 | Vorel **ages and is restored before ending**, Eye of Groxl's control contest, priestess `Emenil/Eminel`, diamond reagent/Greater Restoration and Stanley's **Fishbird created water**. |
-| **Critical** | E056 ~02:33–02:42 and outro | **Nobiery exposes demonic bargains**, priestess reacts, **animated Carnage bites her**, **no death yet confirmed**. Check who commands which corpse, her injuries and exact cut-to-outro. |
+| **Critical** | E056 ~02:33–02:42 and E057 ~00:08–00:19 | **Nobiery exposes demonic bargains**, threatens priestess, and a **Carnage bite lands in E057**. **Stanley heals her, Hope halts the zombies; Emenil alive at E058**. Verify precise cues, not the stale E056 cliffhanger death question. |
 | **High** | Bonus April ~00:00–00:09 | **Diontalus switching on sleep**, dormant status, **Stanley's covert research through hospital/medical library**, Nash's choice not to interfere. **Player-retrospective explanations**, not a performed separation. |
 | **High** | Bonus April ~00:09–00:14 | GM intended brief **Tietkalla 2 town / 3–4 keep episodes**, emergent royal history, **Mogen Frogan** production inspiration. Never retroactively assert a gnome city as real Tietkalla history. |
 | **Medium** | Bonus April ~00:14–00:30 | Performer-versus-character choices: Jon's moral difficulty with Diontalus, Scott's dirty Nash, Kyle's Vorel vocabulary/Bok Bok, Kristen's emotional roleplay; **Waterworld** alternate-setting question is hypothetical. |
@@ -113,13 +113,34 @@ This is a **batch routing grid**, not a statement that every cue within a listed
 
 **Every earlier Year One review subtask remains available** in [historic queue](../research/legacy/2026-10-22/PROJECT_REVIEW_QUEUE.md) and current categories above; the new episode section is an **active extension**, not a new separate append-only encyclopedia.
 
-## 6. Work completion checklist
+## 6. E057–E060 — newly opened focused checks
+
+| Priority | Approximate episode time | Specific validation task and evidence tier |
+|---|---|---|
+| **Critical** | E057 ~00:08–00:30 | **Emenil bite, Stanley's healing, Hope stopping the zombies**; Nobiery's **admission of Soulbroker preservation and Matamaru cover story**. Distinguish admissions, his older sacrifice account and verified mechanics. |
+| **High** | E057 ~00:40–01:25 | **Royal monster truck vs Fate 4**, crater stones/plant growth, **bugbear-size tracks dragging object onto vehicle**, any evidence independently identifying a dragon. The crater may follow E055/E056 storm without proving Quizquaz's account. |
+| **High** | E057 ~01:23–02:08 | `Coopen/Coupon` lucky leprechaun, **Diontalus killing and magical feeding**, **Lucky Coin in Hope's possession**. Verify exact item effects from character sheet rather than only GM-recited one-charge mechanic. |
+| **High** | E057 ~02:05–end / E058 ~00:08–01:12 | Winged pet **killed E057** (Stanley), **remaining bugbears E058**, worm in bugbear brain and **Dollo Poppio/Wormfather connection**. Audit which mage escapes and which fighters/worms actually die. |
+| **High** | E058 ~01:30–01:50 | Actual **banana trail**, Nash's dragon expiry and **royal search pickup**. Do not claim unplayed two-day walk or an indefinitely missing Nash. |
+| **High** | E058 ~02:10–end | **Principle appearance**/ten rings and blue-etched body, names/titles for **Steel God, Jesus Chrome, Ethanelia, Buttons and Relium Vanch**; what was only **offered** rather than completed. |
+| **Critical** | E059 ~00:00–01:02 | **Paid voluntary railway labor**, treaty/embassy/prayer building terms, **Augury woe**, **Diontalus physically extracted into crystal** and taken by Principle. No space launch observed; check alleged **New York** destruction is ruler claim. |
+| **Critical** | E059 ~01:23–01:53 | **Dusthill survivors physically return**: Talia, child Bruce Bane, Jimster, Shun'ti and other people; alleged death/raid names, **Salivating Fields forced labor**, all surviving vs absent. Hospital checks not all proved complete. |
+| **High** | E059 ~01:50–end | **Fate 4** plus lizard mounts to **Razak Val**, bloodsucker storm and Tiny Hut, **Orp** Great Fang and shackled captives, observed killing. |
+| **Critical** | E060 ~00:20–00:37 | **Formal scaling challenge**, **Orp directly kills Diptak by critical blow**, and remove Diptak from active-living indexes. |
+| **High** | E060 ~00:37–02:14 | Razak Val settlement/map names, **Mirion**, **Fengar**, **Council of Twelve**, **Typalla/Fuxi**, **Bramie/Zercil**, **Toxar/Skrot**, **Demon Vold** and number of clans; distinguish dynastic testimony from concrete politics. |
+| **Critical** | E060 ~02:08–end | **Orp agrees sunrise duel without having fought it**, banquet snake/chicken lord details. **Scarless red-eyed Nash-like figure claims future identity in isolated private scene**; don't retroactively give that knowledge to the other PCs. |
+| **High** | Episode and sheet reconciliation | Confirm **Coopen Lucky Coin** custody/recharge, **Diontalus crystal** custody, **Eye of Groxl** owner-confirmed single identity, **Diptak corpse** and court-level **Fate 4 vs monster truck** equipment. |
+| **High** | All 4 source files | Validate **E057–E060** corrected names and story-time offsets; check SRT cues vs original audio for disputed unusual words and narrator-voice clustering. Comparisons of ASR runs alone are not audio verification. |
+
+**Status corrections:** E056 Emenil cliffhanger **resolved by E057**, E058 prisoner-release promise **resolved as actual named return E059** (not whole population), and E059 Diptak **alive** changes to **dead E060**. These are **provisional processed-source cutoffs** and still warrant targeted listening.
+
+## 7. Work completion checklist
 
 - [ ] Listen to selected critical cues and create **audio-grounded transcript excerpts** with timestamps and performer attribution.
 - [ ] Reconcile original contracts, house records and item handouts with spoken claims; if unavailable, record that explicitly.
 - [ ] Update only the affected **active ledger key**, source dossier and consolidated reference entry, with evidence and date.
 - [ ] Preserve raw SRT outputs and historical archived alternatives, never silently overwrite source recognition.
 - [ ] Run relevant documentary/index validation after edits; where **local files or code** change, run their applicable test suites and pass before claiming completion.
-- [ ] Continue source-backed review **after E056**; E055–E056 and April bonus now have provisional dossiers, **not independently listened/verified**.
+- [ ] Continue source-backed review **after E060**; E055–E060 and both 2019 bonuses have provisional dossiers, **not independently listened/verified**.
 
 **Editorial consolidation is not audio verification.** Full [legacy queue](../research/legacy/2026-10-22/PROJECT_REVIEW_QUEUE.md) remains available for every fine-grained pending subtask.
