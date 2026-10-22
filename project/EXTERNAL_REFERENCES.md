@@ -58,11 +58,9 @@ Suggested independent labels:
 - Sample the original audio for ambiguous proper names and resolve the sound independently of the spelling source.
 - Store the wiki page URL and retrieval/revision date with every externally supported decision.
 
-
 ## E002–E005 expansion note (2026-10-21)
 
 The [four new episode dossiers](../episodes/E002.md) ([E003](../episodes/E003.md), [E004](../episodes/E004.md), [E005](../episodes/E005.md)) cite the processed Parakeet SRTs and explicitly separate retrospective GM recaps from their prior episodes' spoken content. The [wiki Episode 6 summary](https://twbd.fandom.com/wiki/Episode_6) corroborates some later spellings such as `Moag Ferhain`, `Jimster`, `Shun'ti Stoutbarrel`, `Slavetown` and `Esophageal Pass`; its use is **orthographic/later-chronology context only**. `Bruce Bane` is [wiki-supported](https://twbd.fandom.com/wiki/Bruce_Bane) against E005 SRT `Bain`. Neither reference establishes E005 audio or settles a name heard earlier. End-of-campaign character-sheet restrictions remain unchanged.
-
 
 ## E006–E008 extension (2026-10-21)
 
@@ -71,7 +69,6 @@ The [E006](../episodes/E006.md), [E007](../episodes/E007.md) and [E008](../episo
 The [wiki home page](https://twbd.fandom.com/wiki/There_Will_Be_Dungeons_Wiki) labels guest characters **Eddy** and **Chance**; E008 directly introduces **Carter Johnson as Edison Manchester III** (`Eddie` in ASR) and **Ben Bumhofer as Chance**. Those are distinct characters, not actor swaps for Hope/Vorel while Kyle/Kristen are absent. The E007 host specifically references then-public **campaign assets** for the world map and Fate 4; if recoverable, save provenance, credits, observation date and reuse permission, without mirroring copyrighted imagery without authorization.
 
 **Versioned-disclosure examples:** E006 ~00:24–00:26 directly checks the surface well, whereas E005's last scene left it untested. E006's unidentified campsite lights are explained as luminous beetles only in E007. Leopold first identifies himself in E008, with his true nature unresolved. E008's cliffhanger must not inherit later explanations. The wiki and end-of-campaign sheet restrictions above remain in force.
-
 
 ## E009–E012 expansion (2026-10-21)
 
@@ -82,7 +79,6 @@ Retain important **source-disclosure boundaries**: E009 resolves E008's Leopold 
 Most early **Slavetown names, street labels, businesses, titles and mine deeds** are ASR recognition candidates rather than corroborated spellings. Crucially E012 alternates between `copper mine` and `gold mine` for a sought deed; do not force a canonical metal until a contemporary map/deed or verified audio resolves it. **The Jeweler's allegation** that the Hillmaster and Softhead sold Dusthill out is a speaker claim and should not retroactively replace E001–E006 history. Slavetown maps, era-appropriate vehicle graphics, and original show assets—where license permits use—are better spelling/specification authorities than a current end-of-campaign character sheet.
 
 The earlier fan-wiki and end-of-campaign sheet restrictions remain unchanged. Preserve raw-source provenance, decisions, source times and first-revelation episodes.
-
 
 ## Newly archived wiki-sourced images (2026-10-21)
 
