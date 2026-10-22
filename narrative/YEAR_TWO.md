@@ -1,6 +1,6 @@
 # Year Two — Stones, Souls and the Great Fang
 
-**Narrative status:** Opening chapters covering corrected **E055–E079** after the played three-month downtime. **Full spoilers** for these episodes and the first arc. This is an editorial retelling drawn from **processed Parakeet SRTs, not an audio-verified transcript**. The [April 2019 bonus](../episodes/BONUS-2019-04.md) offers out-of-character interpretation, not a third scene or definitive unseen event. The full first arc ends in [Year One](YEAR_ONE.md).
+**Narrative status:** Opening chapters covering corrected **E055–E080** after the played three-month downtime. **Full spoilers** for these episodes and the first arc. This is an editorial retelling drawn from **processed Parakeet SRTs, not an audio-verified transcript**. The [April 2019 bonus](../episodes/BONUS-2019-04.md) offers out-of-character interpretation, not a third scene or definitive unseen event. The full first arc ends in [Year One](YEAR_ONE.md).
 
 ## I. Three months and a throne
 
@@ -397,3 +397,25 @@ The great illithid leader, however, is **not gone**. He takes damage, recoils an
 ## Where the story stands after E079
 
 **Hope has spent both rockets.** Several lizardfolk guards, **three illithids and Cerinthala's currently observed body** have been destroyed in the first strike. **The much larger illithid leader survives and ascends; the dragon-worm and beam remain, with Sira not rescued.** The group now includes **Chance and Eddie**, both alive. Vorel's severed limbs were **actually repaired in E078**, and an **eight-hour rest in E078 plus a separate short rest in E079** are distinct events. The **portal gun has already bypassed the crystal lock**, but **the Drive is neither deactivated nor destroyed**. The [November bonus](../episodes/BONUS-2019-11.md) provides cast/GM context, not another scene.
+
+## XXV. The illithid commander falls, and the room becomes stars
+
+The explosive opening has left CHIDS engineering choked with smoke and wreckage, but the largest mind flayer still hangs near the central light. The GM's return to the scene places **Sira inside the illuminated region**, with the mangled body of a dragon merging into a monstrous many-mouthed worm. The girl is present—but the heroes have not freed her.
+
+The party has scarcely begun to press the advantage when the commander turns upon them. **Stanley** scouts closer and casts out an improbable arsenal of spare laser swords, meaning to animate them. The weapons themselves resist that spell because they are magical, so **ten metal pipes from the damaged scaffolding** become his flying army instead. **Vorel** tries his grappling harpoons; **Hope** shoots and draws fire. **Nash becomes a young black dragon** and breathes through two seeming commanders, only to discover they were Mirror Image doubles. The real one fires a **Mind Blast** across the room, stunning **Vorel, Nash, Chance and Eddie**. Stanley's *Feather Fall* catches two of the falling allies.
+
+The creature in the central pool begins disgorging **green-glowing, explosive baby worms**. At the illithid's direction, the **large red memory-eaters** from the lower laboratories phase into the room too. Hope shoots the small worms and learns to detonate them in lethal chains, while Stanley's animated pipes batter the commander. Then **black necrotic lightning** strikes. Both guest gnomes fall unconscious. A red creature attacks **Eddie** on the floor and steals more memory. Another small worm folds itself over **Chance** as if wrapping him in a cocoon. The party's need to rescue them is suddenly as urgent as its need to reach the Drive.
+
+Somehow, Eddie returns to consciousness on **a natural twenty death save**. Stanley's moving pipes continue their relentless assault, and his **stored Healing Word** later brings Chance back from the brink. Meanwhile Nash, still a dragon, melts surviving lizardfolk with acid, catches a last guard in his claws, carries him aloft and drops him to his death. High above the ruins, Nash **kills the great illithid commander with a final acid breath**. The alien's body crumbles away. It is a victory, but not the one for which they came.
+
+The **dragon-worm calls itself Dolo Popio** in its changing speech and declares it will finish the fight itself. It mentions an old **contract with a name the transcript renders uncertainly** and changes the world around the combatants. The lab vanishes into a **magical, black, star-strewn expanse**, with platforms of rock and crystal hanging in space. The same writhing monster, luminous pool and **Sira** remain at the center. Whether the machine moved the room, opened another realm, or imposed some stranger reality remains unanswered.
+
+On the new battlefield, the dragon-worm's presence fills the party with terror. Hope trembles, later Nash is also frightened, but **Vorel's CHIDS helm protects him** from that condition. Freed from the earlier stun, he fires his **power-jump boots** and leaps across the void at the monster. He draws a power from the **Eye of Groxl** only hinted at in the previous bonus: a **flame shield that he reshapes into a huge flaming sword**. The warrior slams it repeatedly into the dragon-worm and holds on as the creature tries to throw him free. Stanley uses *Dissonant Whispers* and his animated/loyal **Diplomacy**, while **Nash's acid scorches the dragon's ruined scales** and he tears apart one of the red monsters.
+
+Then Dolo Popio spreads its wings, gathers the glowing motes of the starry void, and **unleashes an enormous breath attack**. The episode ends **before the saving throws, damage, or aftermath of that attack are played**. The leader illithid has died and both gnomes have survived terrible injuries, but **the central enemy remains alive, Sira is still captive, and the Traversal Drive has not been shut down**.
+
+**Evidence:** [E080](../episodes/E080.md). The commander kill, Chance's rescue and Vorel's flame-blade are performed; the contract's name, literal nature of the starry battlefield and incoming breath's consequences **remain open**.
+
+## Where the story stands after E080
+
+**Alive at episode cutoff:** Hope, Stanley, Vorel, dragon-form Nash, Chance and Eddie. **Commander Ovaxiad/Uvexiad is killed by Nash**; **Dolo Popio remains active**. **Stanley animates ordinary metal pipes, not the spare magical laser swords**, and uses one stored *Healing Word* to restore Chance. **Vorel demonstrates the Eye of Groxl's flame-shield-as-blade** and attaches himself to the dragon-worm in the space-like arena. The alien's **incoming breath is unresolved**, as is the Drive and Sira's fate. The previous E079 rocket use remains the only two-rocket salvo.
