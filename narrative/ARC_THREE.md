@@ -1,8 +1,8 @@
 # Arc Three — Strangers in the City of Doors
 
-**The Wastes, third researched story arc — opening chapters, corrected E082–E084 (ongoing)**
+**The Wastes, third researched story arc — opening chapters, corrected E082–E086 (ongoing)**
 
-**Full spoilers through E085.** This is an **initial narrative**, not a completed arc or an audio-verified transcript. It retells the **played sessions** from their [source-first dossiers](../episodes/E082.md), [E083](../episodes/E083.md), [E084](../episodes/E084.md) and [E085](../episodes/E085.md), which are based on processed ASR. Dialogue is paraphrased; uncertain names and planar explanations are not certified by this prose. The [December 2019 cast Q&A](../episodes/BONUS-2019-12.md) is retrospective context, **not another chapter of events**. This is **The Wastes**, wholly separate from *Inverse*.
+**Full spoilers through E086.** This is an **initial narrative**, not a completed arc or an audio-verified transcript. It retells the **played sessions** from their [source-first dossiers](../episodes/E082.md), [E083](../episodes/E083.md), [E084](../episodes/E084.md), [E085](../episodes/E085.md) and [E086](../episodes/E086.md), which are based on processed ASR. Dialogue is paraphrased; uncertain names and planar explanations are not certified by this prose. The [December 2019 cast Q&A](../episodes/BONUS-2019-12.md) is retrospective context, **not another chapter of events**. This is **The Wastes**, wholly separate from *Inverse*.
 
 ## Prologue — After the light
 
@@ -164,17 +164,71 @@ The newly famous champion has a larger tournament ahead of him. His friends have
 
 [E085](../episodes/E085.md) · [Nothing](../world/characters/nothing.md) · [Nash](../world/characters/nash-maggard.md)
 
+## X. The moon on the headbands
+
+The swords that crash through the **Soggy Feather** windows are not there to challenge Vorel in a game. Two masked strangers roll into the bedroom wearing black and white, with a red moon and howling wolf on their clothes. When they find the lizardfolk's bed empty, they descend on **Nothing**, who has already been warned by the sword she keeps close to her chair. Her twin blades cut down the first intruder. For an instant there is a look of terror behind the mask, and then the assassin becomes **dust**, leaving only the empty costume.
+
+More figures arrive through the windows and door. Some have swords, others nunchucks or fans of thrown knives. **Vorel leaps from beneath his bed, pointing toward the ceiling and calling on the Lady of Pain** to punish the attackers. No green statue appears. Squirts tries to turn the dead men's clothes into restraints, then abandons the attempt amid the rush of weapons. Nash, tucked into his bed, calls out the question he has been carrying for days: why can he not make his magic work?
+
+Squirts answers between blows. He needs **a key**.
+
+That is no help in a room full of assassins. It is the strange **dragon-metal heart** itself that gives Nash something he can do. Remembering its old enchantment, he gathers breath in a mouth that should never have grown from a heart, then spits a cone of burning energy across the room. The assailants catch fire. Their weapons still find the party, but the stone-and-flesh survivor can at least fight back.
+
+Vorel pulls a mask from one attacker and finds a mouthless, distorted face beneath. He decides he needs a live captive. He grapples a ninja and tries to keep him alive as the others try to hack off his head. Nothing comes flying across the melee and kills two assailants at his back. A more elaborately dressed woman in the same black uniform finally steps through the window and holds Vorel with a dark power he manages to shrug off. Her hands know how to stop a weapon in motion: when Nothing attacks, the woman twists the kenku's wrist and kicks her into a painful stupor.
+
+Squirts commands the woman to freeze. It works. **Vorel charges at her with a mattress**, knocks her to the floor, then pins her beneath it without intending to kill her. Nash, who has been burning every masked attacker he can reach, lifts a corner of the bedding and breathes again. There is a scream. The mattress falls flat. The captive has vanished like the others, leaving Vorel with nothing to question—and with an expensive mattress he tears to pieces in frustration. Bill, who has run upstairs with a club to help fight off a knife thrower, is not amused.
+
+The inn survives. The attackers do not. But the insignia means something to Nothing. In a private moment, the kenku recognizes the symbol from old underworld warnings: **the Order of the Crimson Moon**, an almost legendary guild of assassins, expensive enough that only powerful clients usually employ them. Nothing cannot simply say all she knows. She arranges clothing, paints a red crescent with blood, imitates coin sounds and watches Vorel and Bill stumble through ridiculous guesses until they finally understand the name.
+
+They know **who the masked killers were**. They still do not know **who paid them**.
+
+Bill objects when Vorel complains that the Lady should have appeared to save him. Sigil's mysterious power is not the group's personal bodyguard, he says; her actions are not predictable, and the city is far from free of violence. Vorel imagines making himself her champion by taking down assassins. Bill advises him to win his tournament, find his friends and get home. For now, at least, that sounds like an achievable ambition.
+
+[E086](../episodes/E086.md) · [Order and identity evidence](../reports/E086_ASR_COMPARISON_2026-10-22.md)
+
+## XI. The cape, the child and the key
+
+By morning the Soggy Feather has mostly been put back in order. Nash's long sleep has made **a thigh and calf grow behind one of his feet**. He can almost stand on a leg, though the rest of him remains a floating heart with an eye and an assortment of hands. The broken windows and scorched room have not frightened away Vorel's admirers. The dining room is once again full of people who want a piece of the local champion.
+
+Vorel had refused sponsorship contracts the day before, afraid of binding himself to more promises. But **Arcane Spice** offers another possibility: wear its colors for a single day, and receive **two hundred gold**. That is money he can understand, and there is no lifetime oath attached. He tries on a splendid blue cape with animated lettering and begins to feel like a man whose fortunes are turning.
+
+His priestly patron arrives disguised as an old man with a peculiar eye. **Kidigree** has been thinking about the day's larger championship. Sickening opponents will draw too much attention now, and the competitors will be watched for magic. The solution, in his view, is to make **Vorel** better at the marionette game. In Bill's kitchen the priest opens a coat lined with living soil and harvests a hideous pink mushroom, biting plants, and other things no cook should recognize. Nothing puts on a chef hat. Squirts plunges into the hot mixture long enough to lend it some trickster magic. The priest sacrifices a squirrel for its eyes, and the resulting concoction looks almost as dreadful as it smells.
+
+Vorel drinks it.
+
+The priest promises that in the **three o'clock finals**, Vorel will see opponents' moves and patterns with unnatural clarity. He also warns that the officials forbid **performance-enhancing substances** and that no one must talk about what they have done. There is no evidence yet that the potion works. But the possibility of cheating his way to the great champion seems, to this odd new company, better than abandoning Hope and Stanley.
+
+Then the morning takes a turn no one expected. A small lizardfolk boy is still waiting in the common room, begging Vorel to become his father. Vorel tells him to find his own greatness. **Squirts** bites the boy's tail and orders him to leave. The child flails at her, attempting to defend himself. She answers with **Sacred Flame**. Fire runs across his scales, and he collapses. Squirts drags his motionless body through the room, past horrified onlookers, and hides him in the rubbish behind the inn.
+
+An Arcane Spice representative has seen enough. He accuses the party of allowing a child to be killed, **tears up the agreement** and retrieves Vorel's beautiful blue cape. Other sponsors and admirers leave. The money that seemed so close is gone. Even Bill's separate arrangement to promote the same brand at the Soggy Feather may be ruined.
+
+But the boy's story does not end beneath the rubbish. Squirts returns to him, and, remembering a cleric's power that can stabilize the dying, **casts Spare the Dying**. The child opens his eyes, speaks and runs away, badly burned but alive. Squirts tells him his own father saved him and sends him home. The crowd does not see this. The incident is not harmless merely because he lives, and the party's reputation does not recover as quickly as his breath.
+
+An official from the **M Sports commission** arrives to explain the day's schedule. Vorel is expected at the larger finals at **three o'clock**, with an escort around **one**. The official emphasizes strict bans on doping, cheating and magical equipment. Vorel, who has just drunk an illicit performance-enhancing potion, has reason to listen.
+
+Without a sponsor, he decides to make his own. Bill would appreciate a cape bearing **the Soggy Feather**. At the enormous bazaar, a rug merchant introduces him to a tailor who promises the garment for twenty gold. Vorel's celebrity draws business to the stall, and when he returns for the red cape with its brilliant white letters, the tailor **waives the price**. For once, fame has bought him something without a contract.
+
+Nothing leads Nash elsewhere in the same market. The kenku has been trying to tell him what he needs, and here the explanation finally has a shape. An old woman sells curious little charms: **spell keys**. Sigil's magic does not behave as Nash expects because ordinary spellcasting is constrained here. Keys associated with **schools of magic** can unlock those abilities. Nash would need different keys for different spells. **Each costs five hundred gold**, or fifty a month over twelve months if he can pass a credit check and provide identification issued by a faction.
+
+Nash stares at the prices. He has neither the necessary money nor the paperwork. A fortune he once had still waits in a vault back in **Tietkalla**, beyond every door he knows how to open. The vendor cannot help him leave with a key on credit. Nothing has brought him to an answer but not a solution.
+
+So Nash, now an eye, a mouth, two hands, a heart and one strange leg, floats back into the bazaar with the others. **Vorel has a cape and a hidden advantage he has not yet used. The assassins' employer is unknown. Hope and Stanley remain in the crypts. The championship has not begun.** Sigil has given the group new information—and many new reasons to fear what comes next.
+
+[E086](../episodes/E086.md) · [Sigil](../world/places/sigil.md) · [Nash](../world/characters/nash-maggard.md)
+
 ## An open door, not an ending
 
-The four who stood in the beam at CHIDS are not restored to the traveling company they once were. **Vorel lives** and is now celebrated as a **Royce Gymnasium qualifier champion**, but his victories have been entangled with trickery and a local champion's violence. **Nash can speak and fight a peculiar game**; his heart keeps growing limbs in the wrong order while an unexplained force **suppresses his spells**. **Hope and Stanley remain in crypt custody**, under only a **conditional offer** of restoration. **Squirts and Nothing** are companions with their own gifts, risks, debts and loyalties; Nothing's **private Abyss-bound kidnapping** has not been performed.
+The four who stood in the beam beneath CHIDS are not restored to their old company. **Vorel** is now Royce Gymnasium qualifier champion and dressed in a cape promoting the Soggy Feather, but **his larger championship bout remains ahead**; he has secretly swallowed a purported performance-enhancing potion forbidden by the rules. **Nash** has gained more of a body and learned that **spell keys** can counter Sigil's local magical restrictions, but he has **no key and no affordable way to acquire one yet**. **Hope and Stanley remain petitioners in the trickster church's crypts** with only a promised future attempt at resurrection.
 
-Sigil promises doors everywhere, but none has yet brought the group home. The next day's **larger finals** may provide the humiliation demanded by the priest; they have **not yet happened**, and the five-thousand-gold reward has not been won. The disappearance of Ventro under a silent green apparition raises the stakes of defying the city's powers. Two intruders with drawn swords have now entered the companions' room, and **the fight is unplayed at this cutoff**. **Earth, the Traversal Drive, the Principle and the Soulbroker pact** remain unresolved outside the companions' immediate experience.
+**Squirts** has both helped Vorel and severely harmed an innocent young admirer who, despite his apparent death, **survives after she stabilizes him**. **Nothing** recognizes the killers as the **Order of the Crimson Moon**, but their employer is still unknown and Nothing's private **Abyss kidnapping assignment remains unperformed**. Even Vorel's sudden fame is a mixed blessing: an endorsement was offered and then withdrawn, leaving only a locally made cape and damaged relationships.
 
-**This narrative currently ends at E085.** It will grow by **connected story movements**, not by simply inserting a recap after each recording. The [chronology](../world/CHRONOLOGY.md) and [episode dossiers](../episodes/E085.md) preserve source-specific cutoffs and ambiguous spellings.
+Sigil's doors still offer no verified return to Earth, and the **Traversal Drive, the Principle and the Soulbroker pact** remain unresolved. The next great challenge is the **larger BMF final at three**, but **that contest has not begun here**.
+
+**This narrative currently ends at E086.** Continue by **connected story movements**, not by appending a duplicate episode recap each week. The [chronology](../world/CHRONOLOGY.md) and [episode dossiers](../episodes/E086.md) retain timestamped source details, open identities and model disagreements.
 
 ### Later commentary, separate from the action
 
-In the [December 2019 bonus Q&A](../episodes/BONUS-2019-12.md), **Beau later explains** that Hope and Stanley's apparent bodies are **manifestations of souls interrupted on their way to the Weir**. That adds creator commentary to the trickster priest's explanation, but it does **not** place the knowledge in Vorel's hands at the start of E082, resurrect either companion, or settle the future of the contract. Beau also says he did not plan for **all four** to enter the beam in E081. These are **retrospective explanations**, not extra scenes between E082 and E085. The [December 2019 bonus ASR comparison](../reports/BONUS_2019_12_ASR_COMPARISON_2026-10-22.md) remains **unverified against audio**.
+In the [December 2019 bonus Q&A](../episodes/BONUS-2019-12.md), **Beau later explains** that Hope and Stanley's apparent bodies are **manifestations of souls interrupted on their way to the Weir**. That adds creator commentary to the trickster priest's explanation, but it does **not** place the knowledge in Vorel's hands at the start of E082, resurrect either companion, or settle the future of the contract. Beau also says he did not plan for **all four** to enter the beam in E081. These are **retrospective explanations**, not extra scenes between E082 and E086. The [December 2019 bonus ASR comparison](../reports/BONUS_2019_12_ASR_COMPARISON_2026-10-22.md) remains **unverified against audio**.
 
 In the **[January 2020 public-release Q&A](../episodes/BONUS-2020-01.md)** (introduced aloud as the **December 2019** bonus), **Beau later calls the E085 arena apparition the Lady of Pain**. This is a **retrospective GM identification** rather than a declaration heard by the participants in the scene. He also says **Nash's spellcasting abilities remain intact**, though an **undisclosed external Sigil-specific influence** suppressed his spells. He anticipates Nash's gradual bodily regeneration, while **not explaining the in-world solution or enacting it in E085**. This discussion is not a tenth narrative chapter. [Two-ASR comparison](../reports/BONUS_2020_01_ASR_COMPARISON_2026-10-22.md).
 
