@@ -1,6 +1,6 @@
 # The Wastes — active audio, source and editorial review queue
 
-**Status: OPEN tasks, updated 2026-10-22.** Full *Wastes* spoilers through corrected **E073**, with separate [March 2019 Q&A](../episodes/BONUS-2019-03.md), [April 2019 roundtable](../episodes/BONUS-2019-04.md), [June 2019 Q&A](../episodes/BONUS-2019-06.md) [July public-release 2019 bonus](../episodes/BONUS-2019-07.md) and [August public-release 2019 bonus](../episodes/BONUS-2019-08.md) (spoken July 27). **No new listening, SRT editing or handout verification occurred during consolidation.** The [consistency ledger](../world/CONSISTENCY_LEDGER.md) identifies **what remains uncertain versus resolved**. This queue tells reviewers **where to listen or which sources to compare**.
+**Status: OPEN tasks, updated 2026-10-22.** Full *Wastes* spoilers through corrected **E075**, with separate [March 2019 Q&A](../episodes/BONUS-2019-03.md), [April 2019 roundtable](../episodes/BONUS-2019-04.md), [June 2019 Q&A](../episodes/BONUS-2019-06.md) [July public-release 2019 bonus](../episodes/BONUS-2019-07.md) and [August public-release 2019 bonus](../episodes/BONUS-2019-08.md) (spoken July 27). **No new listening, SRT editing or handout verification occurred during consolidation.** The [consistency ledger](../world/CONSISTENCY_LEDGER.md) identifies **what remains uncertain versus resolved**. This queue tells reviewers **where to listen or which sources to compare**.
 
 **Complete historical backlog preserved:** The entire ~73k-character pre-Phase-D [review queue, including its many timed episode-by-episode tasks](../research/legacy/2026-10-22/PROJECT_REVIEW_QUEUE.md), is frozen with functioning relative links. Its outstanding tasks were **not automatically closed** by omission from this shorter index. The original [consistency issue register](../research/legacy/2026-10-22/WORLD_CONSISTENCY_LEDGER.md) also preserves exact issue keys and status history.
 
@@ -103,6 +103,8 @@ This is a **batch routing grid**, not a statement that every cue within a listed
 
 | [E072](../episodes/E072.md)–[E073](../episodes/E073.md) | Cerinthala and four preserved humans in frozen data center; +1 AC cursed necklace; ice constructs, Slow Peters and Careful Spell; service tunnels, bio-labs, broken focus, elevator spider; see section 12 |
 | [BONUS-2019-09](../episodes/BONUS-2019-09.md) | Public September bonus: Solar Mines official-map existence versus Nash's potentially unreliable memories, Stanley feat revision, future Fate 5; see section 12 |
+
+| [E074](../episodes/E074.md)–[E075](../episodes/E075.md) | Spider matriarch and brain-backed swarms; Cerinthala crushed and later resurrected/betrays; red memory-drain creature, body worms, secure red/green portal device and bugbear charge; see section 13 |
 
 **Publication crosswalk:** [Corrected episode numbering](EPISODE_NUMBERING.md). **Historical precision:** Timestamps and named questions for every group are in the frozen [full review queue](../research/legacy/2026-10-22/PROJECT_REVIEW_QUEUE.md). **Lore chronology:** [unified timeline](../world/CHRONOLOGY.md).
 
@@ -272,13 +274,31 @@ This is a **batch routing grid**, not a statement that every cue within a listed
 
 **E073 cutoff:** All four PCs and **Cerinthala** at **stalled CHIDS elevator**, **huge spider descending**. **Stanley's cursed +1 AC amulet still worn**, **Nash's staff broken**, **Toby's awareness demonstrated**, engineering remote unlock reported/played but **machine not reached**, **Sira still abducted**. **All transcripts machine-produced, not audio-verified**.
 
-## 13. Work completion checklist
+## 13. E074–E075 — focused source verification
+
+| Priority | Source time | What to verify and editorial effect |
+| --- | --- | --- |
+| **Critical** | E074 ~00:08–01:05 | Elevator occupancy and **single Light cantrip limit**, one **Feather Fall**, spider queen and exposed brains, **tiny-spider Poisoned effects vs Hope's added exhaustion**. Verify **Stanley's sheep Polymorph is temporary** and **Hope's two shots ultimately kill restored matriarch**. |
+| **High** | E074 ~01:05–01:20 | **Vorel's spider-carapace crafting** and actual acceptance of a medium shield for **Cerinthala** plus **tiny mechanical-hand shield for Hope**; no extra magic modifiers. |
+| **Critical** | E074 ~01:20–01:47; E075 ~01:30–01:45 | **Responsive pink membrane**: passes Hope, Stanley, Vorel; rejects Nash/Cerinthala; singing lets **Nash through**. **Cerinthala crushed, confirmed lifeless**, later **revives visibly**. Body's **black oily residue** produces skin/rash and **Nash tongue irritation** on tasting. Distinguish surface Prestidigitation from curing illness. |
+| **Critical** | E074 ~01:47–02:20; E075 ~00:06–00:31 | **Two green rifle-bearing lizardfolk killed**, console illithid **pockets disk**, **Hope Action Surges to grapple**. **Red mass attacks memory**; **Nash and Vorel suffer loss E074, Stanley E075**. Determine exact **1d4 ongoing attack/check penalty**, any duration/reversal. **Vorel kills blob, attached Vorel and dragon-Nash replicas dissolve**. |
+| **Critical** | E075 ~00:06–00:32 | **Black-dragon Nash immune to copy's acid breath**, later dragon bite plus Hope's grapple kills the illithid. **Stanley three death-save successes, stabilizes at zero HP** (not healed or dead). |
+| **Critical** | E075 ~00:32–01:17 | **Cerinthala's historic employee ID and youthful red-haired photo**, transparent **blue gem**, **paper code ~`A1275Z!2`** and failed terminal entries. **Disk still missing**. **Hope crushes one worm from illithid and one in each guard**, check exact appearance and whether all destroyed. Rest **several hours + short rest**, not overnight long rest. |
+| **Critical** | E075 ~01:17–01:42 | Detailed **secure anechoic room** puzzle: main door closure, two buttons, valves, remote terminal, cradle and **two-trigger white/gray item**. Verify which trigger creates red/green, and **Vorel initial custody**. |
+| **Critical** | E075 ~01:34–02:23 | Cerinthala **revives, calls for Toby**, link of **blue gem in Hope's small arm to ice being**, **Hold Person paralyzes Hope**, old elf's phrase about **“Uvex” / illithid wanting survivors alive**, **Toby giant casing destroyed plus exposed animated corpse killed**. **Stanley's Dispel Magic ends Wall of Ice**, Cerinthala **escapes near old membrane**; no witnessed teleport/capture. |
+| **Critical** | E075 ~02:22–02:48 | **Two-color portal behavior:** shots into corpses fail, two compatible wall portals link; one other-color mark remains **inert when pair removed**, not permanent open. **Vorel → Hope** custody and distinction between **Nash's theorized tactics and actual tested effects**. |
+| **Critical** | E075 ~02:39–end | Approaching **bugbear force** seems to clear flesh with flame; **Nash 4th-level Fireball kills front ranks**; remaining militia withdraws, then **Vorel taunts around fifty bugbears and accompanying illithid**, starting charge. **No portal escape yet**. |
+| **High** | E074 intro; E075 intro | **E074 introduction says September 8, 2019**, a main-episode recording date, while bonus public-filename mismatch policy applies **only to bonuses**. E075 introductory **Reckless Attack correction** applies advantage to all qualifying attacks on that turn, not a lore retcon. |
+
+**E075 cutoff:** **Four protagonists alive**. Vorel faces **charging bugbear force** while Hope has **one red/green portal device**, escape **planned but unplayed**. **Stanley, Nash, Vorel** have **unresolved memory-drain**; **Cerinthala returned from E074 death, betrayed party and escaped**, **Toby's visible body defeated**. **Illithid operator dead and three worms destroyed**, but **disk not recovered**. **Sira still abducted** and **Traversal Drive unexamined**.
+
+## 14. Work completion checklist
 
 - [ ] Listen to selected critical cues and create **audio-grounded transcript excerpts** with timestamps and performer attribution.
 - [ ] Reconcile original contracts, house records and item handouts with spoken claims; if unavailable, record that explicitly.
 - [ ] Update only the affected **active ledger key**, source dossier and consolidated reference entry, with evidence and date.
 - [ ] Preserve raw SRT outputs and historical archived alternatives, never silently overwrite source recognition.
 - [ ] Run relevant documentary/index validation after edits; where **local files or code** change, run their applicable test suites and pass before claiming completion.
-- [ ] Continue source-backed review **after E073**; E055–E073 and all six currently reviewed 2019 bonus recordings have provisional dossiers, **not independently listened/verified**.
+- [ ] Continue source-backed review **after E075**; E055–E075 and all six currently reviewed 2019 bonus recordings have provisional dossiers, **not independently listened/verified**.
 
 **Editorial consolidation is not audio verification.** Full [legacy queue](../research/legacy/2026-10-22/PROJECT_REVIEW_QUEUE.md) remains available for every fine-grained pending subtask.
