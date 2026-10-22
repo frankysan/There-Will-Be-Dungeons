@@ -24,7 +24,7 @@ If an older installation/lockfile still contains `markdownlint-cli2`, refresh de
 
 To apply available automatic formatting fixes **only in the local working copy**, run `npm run lint:markdown:fix`, inspect the diff and run normal lint again. The regular lint command is **read-only**. Do not mass-autofix sources or historical research.
 
-The [GitHub Actions workflow](../.github/workflows/markdownlint.yml) runs the same check on Markdown changes, linter configuration, the Node script and package metadata in pull requests or on pushes to `main`. It can also be manually dispatched.
+The [GitHub Actions workflow](../.github/workflows/markdownlint.yml) runs **both** the Markdown lint command and `npm audit --audit-level=low` on Markdown and dependency changes in pull requests or pushes to `main`. It can also be manually dispatched. New dependency advisories will fail the audit step for review.
 
 ## Scope and rule policy
 
