@@ -4,10 +4,10 @@
   "version": "0.0.0",
   "description": "Repository-local documentation validation tools",
   "scripts": {
-    "lint:markdown": "markdownlint-cli2",
-    "lint:markdown:fix": "markdownlint-cli2 --fix"
+    "lint:markdown": "node scripts/lint-markdown.mjs",
+    "lint:markdown:fix": "node scripts/lint-markdown.mjs --fix"
   },
   "devDependencies": {
-    "markdownlint-cli2": "0.23.3"
+    "markdownlint": "0.42.0"
   }
 }
