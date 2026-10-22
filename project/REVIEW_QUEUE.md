@@ -352,6 +352,8 @@ This is a **batch routing grid**, not a statement that every cue within a listed
 
 ## 17. E081 — end-of-arc targeted audio and handout verification
 
+**Cross-episode consolidation:** [E066–E081 arc audit and cutoff register](../reports/CHIDS_ARC_CONSOLIDATION_2026-10-22.md) records reconciled Sira/gnome/Drive states and separates **played outcomes** from **speaker claims**. Use the timestamped table below for **future audio verification**, not as proof of listening.
+
 | Priority | Approximate episode offset | Precise unresolved or arc-closing question |
 | --- | --- | --- |
 | **Critical** | ~00:03–00:09 | Dolo's **deferred breath actually exhales large worms**, not an energy blast; **Chance slips off platform and drifts into void** just after E080 Healing Word. **No body or return shown**, distinguish disappearance from confirmed death. |
