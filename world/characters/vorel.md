@@ -41,8 +41,11 @@ Vorel increasingly **awards himself titles**. Record the exact phrase and first 
 | [E069](../../episodes/E069.md) ~00:10–00:14 | **Door Authority outlaw** (not a Vorel title) | Accusation against the whole party |
 | [E070](../../episodes/E070.md) ~00:30 | **“One step king from above”** (uncertain lyric) | Unverified song lyric |
 | [E070](../../episodes/E070.md) ~00:36 | **“I am the Lizard King from the Wastes”** | Self-proclaimed; not a general coronation |
+| [E073](../../episodes/E073.md) ~02:22–02:24 | **“Fang of Razak Val”** | Reassertion of E062 Great Fang office; not a new title |
 
 ### Source-specific context and verification
+
+**E073 ~02:22–02:24 — “Fang of Razak Val”:** When Cerinthala proposes artificially producing a child, Vorel refuses and identifies himself by his **existing Great Fang office**. This is a later statement of rank, **not a new ceremony**, and the exact audio wording needs listening.
 
 The register above separates names, offices, quotations, hostile labels, and unrelated items. The evidence behind each entry is retained here so the table can remain readable on narrow screens.
 
