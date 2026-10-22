@@ -1,6 +1,6 @@
 # Year Two — Stones, Souls and the Great Fang
 
-**Narrative status:** Opening chapters covering corrected **E055–E065** after the played three-month downtime. **Full spoilers** for these episodes and the first arc. This is an editorial retelling drawn from **processed Parakeet SRTs, not an audio-verified transcript**. The [April 2019 bonus](../episodes/BONUS-2019-04.md) offers out-of-character interpretation, not a third scene or definitive unseen event. The full first arc ends in [Year One](YEAR_ONE.md).
+**Narrative status:** Opening chapters covering corrected **E055–E067** after the played three-month downtime. **Full spoilers** for these episodes and the first arc. This is an editorial retelling drawn from **processed Parakeet SRTs, not an audio-verified transcript**. The [April 2019 bonus](../episodes/BONUS-2019-04.md) offers out-of-character interpretation, not a third scene or definitive unseen event. The full first arc ends in [Year One](YEAR_ONE.md).
 
 ## I. Three months and a throne
 
@@ -128,8 +128,44 @@ Night brings more improbable visitors. Men wearing Nash's face arrive one after 
 
 **Evidence:** [E065](../episodes/E065.md). The [July-archived Q&A](../episodes/BONUS-2019-07.md) separately explains creator intentions; it is not another night in the storm.
 
-## Where the story stands after E065
+## Interim checkpoint — after E065
 
 **Vorel is still Great Fang**, but **Razak Val is engulfed in a creature-and-lizardfolk conflict**, Omnom is last seen fighting, and the surviving captives' fate is unknown. **Rorf has admitted Bramie's murder**. Follow, Sira and Rorf have **accepted an offer of eventual Tietkalla refuge** while remaining with the party in **Fate 4**. **One Fengar egg copy is with the party**, while the egg-versus-leg puzzle and the apparent future Nashes' true provenance remain unresolved. **A T. rex has reached the RV in a sudden rainstorm**, not been killed or escaped.
+
+## XI. What is an engine without a vehicle?
+
+The rain does not relent. Beneath **Fate 4**, Vorel watches a giant Tyrannosaurus rex sniffing at the machine that has carried the friends so far. He rushes to draw the creature away, raising his **Eye of Groxl's flaming shield** so that it will follow him toward Nash's drainage pit. His plan is valiant but too late. With almost no regard for its human-made obstacle the dinosaur **tramples and destroys the RV**, then plummets into the deep hole. **Nash scorches it with Fireball**, and Vorel kills it with repeated blows from the returning shield. The wreck subsequently erupts in flames.
+
+Hope says little, devastated. Trying to atone, Vorel cuts a **dagger from a dinosaur tooth** and assembles bones, surviving wheels and other wreckage into a wheeled **Fang Fate Five**. It cannot replace the original Fate 4, and even this makeshift cart will be unusable in the trees soon to come.
+
+Those trees begin with a voice inside everyone's mind. Strange lizardfolk gather in the dark rain, and above them appears a floating, tentacled **mind flayer**. He names himself in words that resemble **Oubvayx** and claims to speak for **Dollo Poppio**, a greater master. He tells Hope a story in which **Andreeste has a claim upon the souls of Tietkalla**, while the Soulbroker's bargain blocks her: help him defeat the **Principle**, he promises, and the party might be free of their bargain at the price of the kingdom. Hope refuses another deal with demons.
+
+The creature holds **Sira** helpless in the air. The others attack, but its projected or magically shielded presence seems beyond their reach. **Follow rises from his chair in a desperate effort to rescue his daughter**, and is slammed to the ground. **Rorf turns into a huge bird** and flies toward the enemy, only to be crushed into a tiny fragment. A whole **forest of dark, leafless trees bearing living eyes** springs up as the mind flayer vanishes with Sira, telling the friends to find him at **Kervalon**.
+
+Stanley finds Follow dying. The man has barely enough life to demand that his daughter be rescued and to hear Stanley promise he will do everything he can. Then Follow dies. **Stanley and Hope bury him**, while Nash and Vorel lash out at the strange trees. In the following hours Stanley even turns Nash into a mouse to rebuke him, though the spell wears off. The sky stays dark, and the rain continues long after another night's sleep.
+
+Eventually, walking through the watching woods, they reach a small settlement whose residents look like **uniformed skeletons**. These strangers insist they are travelers from elsewhere among the stars, stranded with a crashed ship. One offers a mysterious **powering coil** and an extraordinary **green, spectral horse and carriage**. Unlike Vorel's salvage cart, the carriage bends the crowded tree trunks aside as it carries the four adventurers toward Kervalon.
+
+**Evidence:** [E066](../episodes/E066.md). The mind flayer's bargain is **hostile testimony**, not an accepted contract; **Rorf and Follow are dead**, and **Sira is abducted**, not safely resettled.
+
+## XII. The spirit in the sky and the beast in the basement
+
+As the spectral carriage races through the forest, Hope finds herself briefly in **Dusthill**, with her old flesh hand, meeting **Jimster** and seeing the derelict **Fate 4** before the very repairs that would make it hers. A song plays as she touches the wheel. This remembered past vanishes when the present carriage bucks and leaves the forest for a star-filled expanse.
+
+A translucent **dragon spirit** appears before the companions. It smells a great dragon's mark within **Nash**, calling a name like **Kazdejira**. It has even grimmer news. It claims that humans, before the Scorching, constructed a **device to move the Earth itself** away from attacking dragons; now **Oubvayx**, acting for **Dollo Poppio**, has found it beneath Kervalon. The terrible rain and eye-bearing trees are the first incursions of another realm. The enemy will bring more of that world here, and the kidnapped girl **Sira** is to become the vessel for something far worse.
+
+Vorel asks for the dragon's blessing and is told that its strength is spent. The spirit says it has already died and names the **god-killer associated with the power Vorel carries**. Its final warning is both urgent and strange: against such a **Lord of Madness**, the companions should rely on reason rather than accepting every vision as real. They cannot permanently kill every demon lord; they must prevent the passage. **These are the spirit's explanations and instructions**; none of the four has yet opened the ancient machine to see how it works.
+
+Then the carriage descends and deposits them outside the **ruined keep of Kervalon**, where a column of light strikes the interior. Armed lizardfolk stand motionless on the battlements. The heroes imagine dazzling entrances: a transformed T. rex, invisibility, a dragon, or magical teleportation. But they settle upon a quieter plan. **Nash digs a tunnel beneath the outer walls**, pushing the earth aside with magic while Hope checks the darkness ahead. They reach an old basement, and from within comes the tread of something very large.
+
+The group reunites behind the sealed entrance and breaks through together. A towering heap of **flesh and misplaced bones** lashes out at Vorel. Each new wound seems to let more **animated skeletons** spill from its body. Vorel fights with the Eye's burning shield, Hope blasts the skeletons, Nash experiments with a shrieking illusion and icy magic before unleashing fire, and **Stanley's flying sword Diplomacy delivers the final blow against the flesh creature**. More skeletons fall around them, but the keep is not yet theirs.
+
+As they explore the empty stone side rooms, they hear other footsteps. **Hope looks ahead and sees a lizardfolk holding a rifle, waiting in ambush**. Far above, the column of light still shines into the fortress. Neither the captives nor the machine are found. The next room may be more dangerous than the last.
+
+**Evidence:** [E067](../episodes/E067.md). Hope's Dusthill interlude **does not restore Fate 4**; the dragon's ancient-machine account is **attributed testimony**, and the proposed dinosaur breach **is never cast**.
+
+## Where the story stands after E067
+
+**Fate 4 is destroyed**, and Vorel's **Fang Fate Five** is an unusable salvage cart left behind. **Rorf and Follow die E066**, and **Sira is kidnapped**, her whereabouts inside/near Kervalon unverified. **Hope has rejected a new demonic bargain**. A **spectral dragon claims** that an ancient planet-moving machine threatens Earth, but **the party has not confirmed the device or its function**. The four have **entered the ruined keep through Nash's underground tunnel**, defeated one flesh-and-skeleton monster, and found signs of an armed lizardfolk ambush ahead; **the rescue and world-saving mission are still in progress**. Omnom and Razak Val's survivors remain outside the story's present view.
 
 **Editorial boundary:** The [Year One Q&A](../episodes/BONUS-2019-03.md) preceded the played time jump; the [April bonus roundtable](../episodes/BONUS-2019-04.md) is out-of-character commentary after at least E055, not a substitute for E056. The [active consistency ledger](../world/CONSISTENCY_LEDGER.md) and [review queue](../project/REVIEW_QUEUE.md) track name spellings, evidence limits and unresolved mechanics.
