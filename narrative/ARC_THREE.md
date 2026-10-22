@@ -1,8 +1,8 @@
 # Arc Three — Strangers in the City of Doors
 
-**The Wastes, third researched story arc — opening chapters, corrected E082–E089 (ongoing)**
+**The Wastes, third researched story arc — opening chapters, corrected E082–E090 (ongoing)**
 
-**Full spoilers through E089.** This is an **initial narrative**, not a completed arc or an audio-verified transcript. It retells the **played sessions** from their [source-first dossiers](../episodes/E082.md), [E083](../episodes/E083.md), [E084](../episodes/E084.md), [E085](../episodes/E085.md), [E086](../episodes/E086.md), [E087](../episodes/E087.md), [E088](../episodes/E088.md) and [E089](../episodes/E089.md), which are based on processed ASR. Dialogue is paraphrased; uncertain names and planar explanations are not certified by this prose. The [December 2019 cast Q&A](../episodes/BONUS-2019-12.md) is retrospective context, **not another chapter of events**. This is **The Wastes**, wholly separate from *Inverse*.
+**Full spoilers through E090.** This is an **initial narrative**, not a completed arc or an audio-verified transcript. It retells the **played sessions** from their [source-first dossiers](../episodes/E082.md), [E083](../episodes/E083.md), [E084](../episodes/E084.md), [E085](../episodes/E085.md), [E086](../episodes/E086.md), [E087](../episodes/E087.md), [E088](../episodes/E088.md) and [E089](../episodes/E089.md), which are based on processed ASR. Dialogue is paraphrased; uncertain names and planar explanations are not certified by this prose. The [December 2019 cast Q&A](../episodes/BONUS-2019-12.md) is retrospective context, **not another chapter of events**. This is **The Wastes**, wholly separate from *Inverse*.
 
 ## Prologue — After the light
 
@@ -422,15 +422,91 @@ The five stand among the wreckage, **Hope holding Scully, Stanley carrying evide
 
 [E089](../episodes/E089.md) · [Sigil and the Hive lead](../world/places/sigil.md)
 
+## XIX. Dressed to enter trouble
+
+The dark water of the sewer still laps against old stone when Vorel returns to the idea of becoming rats. **Java the Carver** lives in the underworld, after all, and can reach the Hive by tunnels no tall creature could navigate. But Vorel can change only one of them into an animal for a short time. Even Java says the passages are uncertain and dangerous. They cannot reasonably turn four companions into a rat-sized expedition. **The streets will have to do.**
+
+That requires an appearance. Vorel proposes a gang of outlaws tough enough not to be robbed the moment they step into the Hive. Java offers a tailor he could burgle while the owner sleeps. Vorel prefers to pay **Lohar**, the old orc whose skills have already served him. They climb back up from the Dark Below, pass their crowded inn and return to the great market.
+
+Lohar listens to his champion's latest fashion ambition with professional delight. **Spikes? Of course. Belts and clasps? Many. Rope instead of precious chain? The right kind of poverty. A horned, grimacing demon face on the chest? Marvelous.** And in their boots he can conceal a little surprise—steel toes whose sharp metal spikes can flick out at a tap of the heel. In matching clothes they will pretend to be **Lady Despair and the Rambunctious Bunch**. Hope, a real tiefling, is cast as Lady Despair herself. Vorel chooses to be **Toyota Stump**, an enforcer whose vocabulary seems to consist mostly of fists and shouting.
+
+Lohar quotes **fifty gold each** for the four outfits. The metalwork needs two days.
+
+The companions spend the interval in their accustomed ways. **Hope listens for Tobacho Fleur's name in taverns**, but the people she questions turn away. Whatever power Tobacho holds in the Hive is not popular dinner conversation outside it. **Stanley studies old census records**, finding estimates that the Hive houses more people than the rest of Sigil many times over, and that the **Harmonium** attempts to confine disorder behind its boundaries. **Nash drinks coffee and does remarkably little**. Vorel continues coaching at the newly installed marionette machine, surrounded by customers. One promised pupil does not appear: **Fax**, the illithid they met at the portal agency, fails to attend his lesson. Even Tubbs 9K cannot find him.
+
+The GM has one unusual clarification for Nash. **His old thermal underwear has become part of him**. During the terrible journey between realities its cooling mechanism fused to his body, leaving a tiny vent and switch beneath an armpit. He can still **float or fly up to ten feet** despite having grown back his complete human form. There is no outer garment to remove now. Some of the absurd magic that kept a heart flying has been written into his flesh.
+
+When the two days pass, Vorel carries four elaborately wrapped parcels to the Soggy Feather table. They emerge from their rooms clad in black and brown leather, ropes, skulls, demonic red eyes and enough spikes to resemble a family of hostile hedgehogs. Vorel adds an eyepatch made from the pillowcase he used to trap the unfortunate bird and rubs stove coal into his face. **Stanley dirties the brand-new leather by magic**, so no one will mistake them for rich customers wearing expensive costumes. They are, as far as anyone is meant to know, a gang of ordinary hard men and one very dangerous lady.
+
+They hire a rickshaw. As Sigil's better-kept buildings fade behind them, the sky becomes smog and the air fills with sulfur and dung. Their driver takes **one gold** and will go no farther. Ahead, armored men are building **a gallows**.
+
+[E090](../episodes/E090.md) · [Nash](../world/characters/nash-maggard.md)
+
+## XX. A gate for those who must never leave
+
+At the entrance to the Hive, about a dozen guards are putting up a platform beside **three cages**. Some hold prisoners. Their commander is a mounted Harmonium officer, **Sir Unindra**, who makes it clear that the new arrivals cannot pass without his say-so.
+
+Stanley introduces himself. Nash gives his own name and manages to provoke rather than impress the man. The gang's carefully assembled intimidation almost collapses into farce—until Nash shows real anger. His voice grows hard, and the guards glance nervously at each other. Stanley takes advantage. If the visitors are trouble, he reasons aloud, surely the Harmonium would prefer that trouble **inside the Hive rather than among the city's comfortable citizens**.
+
+The captain agrees with a cruel condition: **they may enter, but his men will not permit them to come back out**. One captive, a furry little creature in a cage, cries for help as they pass. The officer strikes the cage and announces that the creature will hang for the crime of **attempting to escape the Hive**. The law, he explains, prevents future crime most completely when it kills the offender.
+
+Nash wants to fight. The others see a dozen armed men, cages and buildings whose unseen inhabitants might be watching. A rescue now may end the expedition before it begins. **They pass without freeing anyone**, painfully aware that their own exit may one day bring them back before the same officer.
+
+The Hive does not welcome visitors. Its paving stones buckle, black thorns climb the walls, and a ball of burning rubbish sails across the street. Shouts and explosions arrive from directions no one can identify. The companions cannot intervene in every cruelty and keep searching for the person who knows their way back to Earth.
+
+A man with a shiny jacket, slick hair and endless enthusiasm offers Nash the greatest experience of his life at **Daddy Long Legs**. Nash asks what kind of experience. The man promises women, drink and pleasure, and keeps placing familiar hands on a stranger who wants none of it. Even a slap from one of Nash's odd little hands fails to dampen his salesmanship.
+
+The companions try to leave. Then Hope realizes they still need a person who knows the Hive. **She turns back and enters the club**. The tout tries to demand admission money, but they refuse and he waves them up the sticky staircase. Orc bouncers gather their blades. They do not recognize **Scully**, the pistol Hope recovered from the sewers, and allow her to keep it.
+
+Inside, smoke sparkles over crowded tables, dancers and customers. A weary tiefling woman sits beside Nash, hoping he will buy her a drink. He thinks she smells of **strawberries and sadness**. She tells him that the life she has made is not the one she wants. Nash speaks about his own damaged childhood, the world called the Wastes and the possibility that she might one day be free to choose a different life. He promises little more than an attempt to return if he can. She does not come away with him.
+
+Hope is after something else. At the bar sits a solitary hooded figure who neither joins the dancers nor boasts with the other patrons. She buys him a drink. Beneath the hood is a deeply scarred **red tiefling**, his gold teeth engraved with tiny skulls. He knows **Tobacho Fleur**. Near the **center of the Hive**, he says, they must find **a vendor selling frogs on sticks**. Behind that stall lies an alley, and the alley leads to Tobacho's cantina. If the meeting goes well, perhaps she should say **Spatulo** sent her. If not, she should say nothing at all.
+
+It is more information than anyone else has provided. Hope returns to the group. Vorel's version of Toyota Stump has nearly talked his way into a fight with an orc, but slips out before blows are exchanged. Nash is the last to leave his unhappy new acquaintance. He makes his way back through the crowd and across the street, where the others watch him with amused impatience.
+
+A hurried stranger brushes past and insults the companions. Nash, already frustrated, chases him deep into an alley, knocks him to the ground and threatens him with heat from a glowing hand. **He lets the man live and goes back to his friends**. Whatever the Hive has done to them in one afternoon, it has not made them the gang they are pretending to be.
+
+[E090](../episodes/E090.md) · [Sigil's Hive](../world/places/sigil.md)
+
+## XXI. The dragon who charges for the way home
+
+They follow Spatulo's directions through streets that grow darker and more crooked. Hours pass. Music and drunken singing finally reach them from an inn across from a well-lit stall. An old green vendor is cooking **fried frogs on sticks**. Hope asks quietly for a cantina. He points toward the alley.
+
+At the far end sits a **burgundy metal door** beneath a small lamp. It has a sliding slot. A strange cloudlike guard opens it at Hope's words: **Lady Despair and the Rambunctious Rascals**. Within are stairs, a crowded room, armed patrons and trumpets.
+
+At the center lies an enormous **blue dragon**, lounging upon a couch designed for his tremendous belly. He wears **a monocle and beret** and smokes a pipe with a leisure not shared by anyone around him. Beautiful companions rest beside him, servants hover, and a **stone golem** stands near enough to speak for its master. The dragon's words are an archaic form of Draconic that the visitors cannot fully understand; the golem makes him intelligible.
+
+This is **Tobacho Fleur**, the very merchant the Portal Regulatory Agency named as steward of the recorded Earth portal. He is no back-alley information broker.
+
+A broad, muscular man with an eyepatch approaches the party. He introduces himself as **Jelver** and offers them the privilege of an audience—for a fee. Stanley pretends to be **Brildaro**, Vorel clings to **Toyota Stump**, Nash adopts the impossible **Nuts Phenom**, and Hope remains **Lady Despair**. Jelver immediately warns them that invented names are unwise around Tobacho. It may be the first time their two-day criminal wardrobe has cost them respect rather than won it.
+
+**Vorel pays fifty gold**, and Jelver disappears to speak with the dragon. A moment later the golem calls the visitors forward. Their steel-toed boots cross a grated floor beneath the gaze of dozens of armed strangers.
+
+Stanley bows and speaks for the party. He says they have brought a gift. Hope, who only recently regained one of her treasured weapons, **hands him Scully**. Stanley checks that she intends it, then offers the pistol to the dragon as a marvel brought from their own world. Tobacho accepts. A little goblin slips out from beneath the couch, takes **Scully** in his hands and disappears with it into the dragon's private possessions.
+
+The price of this greeting is not abstract. **Hope has lost Scully again—this time willingly.** Her second pistol, **Mulder**, is still somewhere in Tobacho's wider network, if the rat-man Java was telling the truth.
+
+They tell the dragon what they want: **the portal to Earth**. The dragon's expression changes. He calls Earth a **cursed place**, an unusual destination even for travelers hardened by Sigil. But he possesses information about it. There is a task his people cannot readily perform. **An item must be obtained**, and the four may be capable fighters enough to retrieve it. In exchange Tobacho will provide **the portal's location and the means by which to access it**.
+
+Stanley accepts the principle of an exchange. They want a real way home, not an address they cannot enter. Tobacho assures them of his honor as a businessman and directs Jelver to explain the sensitive particulars **somewhere private**.
+
+The audience should end there. But Hope has a parting courtesy she thinks will please him. **Spatulo sends his regards**, she says.
+
+The trumpets seem farther away. The dragon brings his great head close enough for Hope to feel his hot breath. His golem demands to know why she would speak **an infidel's** name in this hall. **Spatulo is Tobacho's enemy**, it seems, a man who disrupts his business. Tobacho offers handsome reward if the companions will bring Spatulo into his hands. Hope offers no agreement and withdraws carefully.
+
+Jelver waits by a shadowed doorway. He beckons them into the **dark passage where the true terms of Tobacho's recovery job will be discussed**. The group follows. They have found the steward of a recorded Earth portal, given him a beloved pistol and made contact with one of his enemies. **They have not yet heard which item he wants or where his portal actually is.**
+
+[E090](../episodes/E090.md) · [Tobacho source comparison](../reports/E090_ASR_COMPARISON_2026-10-22.md)
+
 ## An open door, not an ending
 
-**The four survivors of the CHIDS beam are together again**. **Hope and Stanley have returned through mirrors**, though the original corpses remain with Kidigree, and the newly recovered spectrometer confirms their **Weir destiny markings persist**. **Nash has fully regrown his body after eight days**, with his damaged skin and red eye, and can cast normally following the E088 GM correction. **Vorel** still bears the title and fortune won by his unfair BMF championship, but has neither purchased the Soggy Feather nor led everyone back to Earth.
+The four who entered CHIDS's red beam are together again: **Hope and Stanley restored through Kidigree's mirrors**, and **Nash fully regrown after eight days**, with his thermal underwear unexpectedly fused to his body, providing **cooling and ten-foot flight** by GM ruling. **Vorel** owns a champion's title and a professional BMF cabinet at the Soggy Feather, but has not bought the inn.
 
-**Kanja's murder is reported by M Sports Weekly**, and a Harmonium investigation has begun; earlier **Mind Master/Crimson Moon** threats suggest a suspect but **do not settle responsibility**. Nothing's separate **Pelvis/Abyss commission** remains unperformed, and Squirts stays near the trickster chapel. Earth’s **Traversal Drive, the Principle, Chance, Sira and Eddie** have no newly witnessed outcomes.
+The way home is now tantalizingly close in knowledge, though not in practice. **Tobacho Fleur**, whom Sigil's portal register named, is **a powerful blue dragon in the Hive**. **He has accepted Scully as a diplomatic gift**, leaving Hope without either old pistol, and will disclose Earth-portal **location and means of access only if the companions recover an unspecified item**. They have **no actual door location, key, retrieval instructions or completed job**. The **Harmonium threatened to prevent their exit from the Hive**, a distinct obstacle the party has not tested by trying to leave.
 
-The **Portal Regulatory Agency** has furnished a **single recorded stable Earth-portal entry** and a reputed steward, **Tobacho Fleur**, in the **Hive**. **Hope has physically recovered Scully**, while her second pistol has been traced by ratfolk testimony to a member of the same steward's network. A novelty umbrella called **Barbara** appeared to coincide with another temporary portal, but no one knows its destination or whether it can be repeated. The party has **not entered the Hive, found the stable portal's exact address or crossed to Earth**.
+Hope has also learned that the red tiefling **Spatulo**, who guided them to the dragon, is **Tobacho's enemy**, and the dragon has offered a separate reward for capturing him. Neither bounty nor a promise to help the unhappy dancer at Daddy Long Legs has been fulfilled.
 
-**This narrative currently ends at E089**, with the party weighing a street approach against dangerous rat-sized sewer routes. The [chronology](../world/CHRONOLOGY.md), [E089 dossier](../episodes/E089.md) and [ASR comparison](../reports/E089_ASR_COMPARISON_2026-10-22.md) preserve the distinct types of testimony and unresolved names.
+The **Weir inscriptions on Hope and Stanley**, **Kanja's reported murder**, Nothing's Pelvis/Abyss kidnapping, and the **Traversal Drive, Principle, Chance, Sira and Eddie** have no new conclusion here. **This narrative ends at E090 with the party following Jelver into a dark passage for a private mission briefing**, *before* learning the item's identity. The [chronology](../world/CHRONOLOGY.md), [E090 episode dossier](../episodes/E090.md) and [ASR comparison](../reports/E090_ASR_COMPARISON_2026-10-22.md) retain this source cutoff.
 
 ### Later commentary, separate from the action
 
