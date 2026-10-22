@@ -28,7 +28,7 @@ That apparent moment of relief becomes another crisis. **Nobiery reveals the roy
 
 **Evidence:** [E056](../episodes/E056.md).
 
-## Where the story stands after E056
+## Interim E056 checkpoint
 
 The city has now endured an actual three months of government **and** a new disaster. The pregnancy is real in the story, the stone storm has killed civilians, Hope has a serious legitimacy problem, and the party's alliances are no longer secured merely by the coronation. George and P0D **appeared as spirits**, not as living resurrected companions. Vorel **was restored before episode end**. E057 confirms **Emenil survives and is healed**, and locates an extraordinary **impact crater**; whether Quizquaz accurately described the dragon or its killers remains open.
 

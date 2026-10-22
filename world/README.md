@@ -1,17 +1,17 @@
 # The Wastes — reference portal
 
-**Scope:** Main-campaign events through **E056**, plus separate [March Year One Q&A](../episodes/BONUS-2019-03.md) and [April cast roundtable](../episodes/BONUS-2019-04.md). **Spoilers through E056** follow. The episode-derived references remain **provisional until audio-verified**.
+**Scope:** Main-campaign events through **E060**, plus separate [March Year One Q&A](../episodes/BONUS-2019-03.md) and [April cast roundtable](../episodes/BONUS-2019-04.md). **Spoilers through E060** follow. The episode-derived references remain **provisional until audio-verified**.
 
-**Choose a view:** For a flowing account of the plot rather than reference notes, read [**Year One — From Dusthill to the Crown**](../narrative/YEAR_ONE.md) followed by [**Year Two — The Sky Falls**](../narrative/YEAR_TWO.md). For a specific timestamp, character's contemporaneous knowledge or ambiguous transcript, use the [episode dossiers](../episodes/E000.md) and the relevant E### number.
+**Choose a view:** For a flowing account of the plot rather than reference notes, read [**Year One — From Dusthill to the Crown**](../narrative/YEAR_ONE.md) followed by [**Year Two — Stones, Souls and the Great Fang**](../narrative/YEAR_TWO.md). For a specific timestamp, character's contemporaneous knowledge or ambiguous transcript, use the [episode dossiers](../episodes/E000.md) and the relevant E### number.
 
 ## Reference subjects
 
 | Reference | What it currently contains | Consolidation status |
 |---|---|---|
-| [Characters and participants](CHARACTERS.md) | **Consolidated subject index** plus dedicated profiles for the core four, six allies/adversaries, NPC status and relevant producer credits | **Phase B first-pass profiles available** |
-| [Places](PLACES.md) | **Consolidated place index** and dedicated location profiles for Dusthill, Slavetown, the Black Mine, Château Weir and Tietkalla | **Phase B first-pass profiles available** |
+| [Characters and participants](CHARACTERS.md) | Subject index with profiles for the four protagonists, allies and adversaries, including **Orp, Diptak and Emenil** | **Subject profiles maintained through E060** |
+| [Places](PLACES.md) | **Consolidated place index** including **Razak Val**, Dusthill, Slavetown, the Black Mine, Château Weir and Tietkalla | **Subject profiles maintained through E060** |
 | [World and history](WORLD.md) | **Consolidated thematic reference**: the ancient catastrophe, settlements, factions, dragon technology, Soulbroker pacts, artifacts, religion and contested lore | **Phase C first-pass rewrite available** |
-| [Unified campaign chronology](CHRONOLOGY.md) | **53 main-story Year One entries, followed by E055–E056**, time jump, publication exceptions and resolved cutoffs | **Maintained unified reference** |
+| [Unified campaign chronology](CHRONOLOGY.md) | **53 main-story Year One entries, followed by E055–E060**, time jump, publication exceptions and resolved cutoffs | **Maintained unified reference** |
 | [Active consistency ledger](CONSISTENCY_LEDGER.md) | **Open questions, owner decisions, later source-cutoff resolutions** and links to detailed evidence | **Phase D first pass available** |
 | [Structured entity seed](entities.json) and [schema](ENTITY_SCHEMA.md) | Machine-readable E000/E001 seed | **Not yet synchronized with all subsequent episode dossiers** |
 
@@ -33,4 +33,4 @@ The **character and place indexes are now subject-centered**, with their earlier
 
 This concise portal replaces a 20,000-character, episode-batch-organized world README. That earlier research is preserved as [the frozen world README](../research/legacy/2026-10-21/WORLD_README.md). The long-form [original project README](../research/legacy/2026-10-21/ROOT_README.md) is preserved as well. The former full [character research](../research/legacy/2026-10-21/WORLD_CHARACTERS.md), [place research](../research/legacy/2026-10-21/WORLD_PLACES.md), [world history](../research/legacy/2026-10-22/WORLD_HISTORY.md), and [chronology](../research/legacy/2026-10-22/WORLD_CHRONOLOGY.md) are archived for source provenance.
 
-The organizational contract, subject-page format, migration stages and validation rules are recorded in [documentation architecture](../project/DOCUMENTATION_ARCHITECTURE.md). The canonical **source material** remains in the episode dossiers, original processed SRTs and reports; the first [narrative history](../narrative/YEAR_ONE.md) does not replace those.
+The organizational contract, subject-page format, migration stages and validation rules are recorded in [documentation architecture](../project/DOCUMENTATION_ARCHITECTURE.md). The canonical **source material** remains in episode dossiers, original processed SRTs and reports; [Year One](../narrative/YEAR_ONE.md) and ongoing [Year Two](../narrative/YEAR_TWO.md) syntheses do not replace them.

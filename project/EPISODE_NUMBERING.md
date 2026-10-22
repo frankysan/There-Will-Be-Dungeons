@@ -77,3 +77,14 @@ Related: [archive owner's event/spelling notes](OWNER_EPISODE_NOTES.md) (persona
 | `Bonus 2019-04 - Bonus Show 01 - The First and Last (April 2019 )` | [**BONUS-2019-04**](../episodes/BONUS-2019-04.md) | Separate **~31-minute cast Q&A**, *not* E057. Discusses E055-era character life/GM creative decisions; exact release position relative to E056 not confirmed by filename alone |
 
 The March [Year One Q&A](../episodes/BONUS-2019-03.md) is publisher **55**, already excluded from corrected E### counting. Monthly bonus filenames retain their **independent namespace**.
+
+## Corrected E057–E060 continuation
+
+| Normalized source file | Corrected dossier | Numbering note |
+|---|---|---|
+| `The Wastes S1E057. The Royal Truckery` | [E057](../episodes/E057.md) | Follows E056 priestess cliffhanger and first skyfall-site expedition |
+| `The Wastes S1E058. The Magical Banana Trail` | [E058](../episodes/E058.md) | Bugbear battle, Nash's banana-guided rescue and Principle's court arrival |
+| `The Wastes S1E059. Paradise of Mans` | [E059](../episodes/E059.md) | Principle's crystal extraction and returned Dusthill captives; Razak Val introduction |
+| `The Wastes S1E060. What's for dinner` | [E060](../episodes/E060.md) | Diptak killed at lizardfolk court; Orp duel remains future |
+
+The four SRT basenames use **owner-normalized corrected Wastes IDs**. Keep both 2019 bonuses in the bonus namespace; the owner's spreadsheet supplies original-to-corrected matching, **not arbitrary subtraction**.
