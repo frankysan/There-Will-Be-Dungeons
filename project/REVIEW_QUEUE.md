@@ -1,6 +1,6 @@
 # The Wastes — active audio, source and editorial review queue
 
-**Status: OPEN tasks, updated 2026-10-22.** Full *Wastes* spoilers through corrected **E071**, with separate [March 2019 Q&A](../episodes/BONUS-2019-03.md), [April 2019 roundtable](../episodes/BONUS-2019-04.md), [June 2019 Q&A](../episodes/BONUS-2019-06.md) [July public-release 2019 bonus](../episodes/BONUS-2019-07.md) and [August public-release 2019 bonus](../episodes/BONUS-2019-08.md) (spoken July 27). **No new listening, SRT editing or handout verification occurred during consolidation.** The [consistency ledger](../world/CONSISTENCY_LEDGER.md) identifies **what remains uncertain versus resolved**. This queue tells reviewers **where to listen or which sources to compare**.
+**Status: OPEN tasks, updated 2026-10-22.** Full *Wastes* spoilers through corrected **E073**, with separate [March 2019 Q&A](../episodes/BONUS-2019-03.md), [April 2019 roundtable](../episodes/BONUS-2019-04.md), [June 2019 Q&A](../episodes/BONUS-2019-06.md) [July public-release 2019 bonus](../episodes/BONUS-2019-07.md) and [August public-release 2019 bonus](../episodes/BONUS-2019-08.md) (spoken July 27). **No new listening, SRT editing or handout verification occurred during consolidation.** The [consistency ledger](../world/CONSISTENCY_LEDGER.md) identifies **what remains uncertain versus resolved**. This queue tells reviewers **where to listen or which sources to compare**.
 
 **Complete historical backlog preserved:** The entire ~73k-character pre-Phase-D [review queue, including its many timed episode-by-episode tasks](../research/legacy/2026-10-22/PROJECT_REVIEW_QUEUE.md), is frozen with functioning relative links. Its outstanding tasks were **not automatically closed** by omission from this shorter index. The original [consistency issue register](../research/legacy/2026-10-22/WORLD_CONSISTENCY_LEDGER.md) also preserves exact issue keys and status history.
 
@@ -100,6 +100,9 @@ This is a **batch routing grid**, not a statement that every cue within a listed
 | [BONUS-2019-08](../episodes/BONUS-2019-08.md) | Public August bonus, spoken July 27 recording, Solar Mines radiation, artifacts and shaft-clue explanation |
 
 | [E069](../episodes/E069.md)–[E071](../episodes/E071.md) | CHIDS entrance/funicular and ID systems, illithid office, Charles upload, Hell's UBI imp, Principle allegations, archive and frozen data center; see section 11 |
+
+| [E072](../episodes/E072.md)–[E073](../episodes/E073.md) | Cerinthala and four preserved humans in frozen data center; +1 AC cursed necklace; ice constructs, Slow Peters and Careful Spell; service tunnels, bio-labs, broken focus, elevator spider; see section 12 |
+| [BONUS-2019-09](../episodes/BONUS-2019-09.md) | Public September bonus: Solar Mines official-map existence versus Nash's potentially unreliable memories, Stanley feat revision, future Fate 5; see section 12 |
 
 **Publication crosswalk:** [Corrected episode numbering](EPISODE_NUMBERING.md). **Historical precision:** Timestamps and named questions for every group are in the frozen [full review queue](../research/legacy/2026-10-22/PROJECT_REVIEW_QUEUE.md). **Lore chronology:** [unified timeline](../world/CHRONOLOGY.md).
 
@@ -248,13 +251,34 @@ This is a **batch routing grid**, not a statement that every cue within a listed
 
 **E071 source cutoff:** **Sira remains missing**, **Follow/Rorf remain dead**, **Charles says transfer succeeded but no externally measured delay**, **Alvert's Principle claims unverified**, **only one security ape dies; snail decoy result unknown**, **four PCs are inside the icy ventilation duct**. No original ASR source was altered and no audio verification was performed.
 
-## 12. Work completion checklist
+## 12. E072–E073 and September 2019 bonus — focused verification
+
+| Priority | Approximate recording location | Review task and evidence tier |
+| --- | --- | --- |
+| **Critical** | E072 ~00:06–00:42 | **Vent labyrinth**, actual **Heat Metal**, unstable grated shaft, **Feather Fall** protecting all four, large **server farm and wall fans**. Separate the party's route from OOC Roll20 diagrams; **not a return to engineering**. |
+| **High** | E072 ~00:43–00:59 | Computer panel below frozen glass is **not a fan controller**, frozen workers, **single flying brief item returned Vorel → Nash**; record exact handoff. |
+| **Critical** | E072 ~01:00–01:29; E073 ~01:18–01:35 | **Cerinthala/Saranthala** name, **Toby/Carl/Gordon/Benson** designations, **Elhandar/Elandar**, the **best-effort exact promise wording**, **Stanley's accepting +1 AC neckpiece**, E072 choking and E073 **25 lightning damage on cutting**. E073 Cerinthala **explicitly admits her own curse**, not an official elven rite; confirm whether any **removal attempt actually succeeds** (dossier says no). |
+| **Critical** | E072 ~01:25–01:40 | Cerinthala **uses data pad to remotely unlock engineering** and reports a mind flayer previously had her seal it. Also claims **anti-dragon lizardfolk program, organically growing crystals detonating near sound, old “Principal Dombrovski”**. The performed unlock **does not verify actual machine accessibility**. |
+| **Critical** | E072 ~02:05–02:11 | Hope's **sending-stone message from Tietkalla**, whose ASR is garbled and interrupted by accent/table jokes. Audio-check actual sender, urgency, what happened (including possible transformations), and **Hope's return message** before adding any concrete disaster to chronology. |
+| **High** | E072 ~01:36–02:26 | **Cerinthala's prejudice and tiefling origin claims**, observed **metal items thrown into Maltaweed stew** versus Hope's pleasant taste, long-rest timing, four frozen bodies and **old weapons/gene soup testimony**. Do not assume all old genetic history true. |
+| **Critical** | E072 ~02:27–02:43; E073 ~00:07–01:20 | **Four ice monsters/corpses** and identities: one kidnaps Stanley, others surround hut, E073 several shattered by **Vorel's fire and Nash's Careful Spell Fireball**. Animated **“ice boyfriends”**, Hope **severs captor arm**, **Toby remains capable of speaking**, some giants retreat. Distinguish ice giant destruction from each frozen human death. |
+| **High** | E073 ~00:17–00:24; Sep bonus ~00:01–00:05 | Nash's recollection of **“Slow Peters” Solar Mines fire elementals**, worker hazards and terminology. Beau confirms **Solar Mines exists on his official map**, **not** necessarily that Nash's **surgical vision literally means stitched bodies or undeath**. Scott's old distribution warehouse is **visual inspiration**, not a map point. |
+| **Critical** | E073 ~01:20–01:42 | Cerinthala's **original intention to eat/use the PCs**, Tolkien-like **withered elf** claims, **curse reaction to Stanley's mistrust**, her apparent **youthful glamour**, and claims about **engineered lizardfolk/vampires**. Are any of these stated as direct physical GM narration rather than her words? |
+| **High** | E073 ~01:42–02:13 | **Maintenance tunnel under hydroponic garden and locker room**, hours spent melting/excavating **ice (~25 ft)**; *Mold Earth* does **not** apply to ice; confirm break/rest accounting and **Cerinthala travels along**, **Alvert stays behind from E071**. |
+| **Critical** | E073 ~02:11–02:28 | **Tara Mebat/Mebatt ID**, experimental **large cylinders and pink tentacle membrane**. **Nash's staff breaks in two, nail-bearing short part still an arcane focus**, and **Mending absent**. Cerinthala offers **infernal-wave fertilization/child for Vorel**, who refuses. No child created or gestation spell cast. |
+| **Critical** | E073 ~02:28–end | **Elevator count/floor plan, initial empty lift crash, second lift stuck on fraying cable, Vorel opening ceiling**, precise **spider appearance/number of eyes**, position of Cerinthala and party at cliffhanger. No completed spider combat or safe return. |
+| **High** | September bonus ~00:08–00:11; ~00:29–00:36 | **Stanley's original Warlock/Magic Initiate feat replaced by Spell Sniper**, with GM approval, and **College of Glamour** status. **Future Fate 5 and Kismet only plans/jokes**; Vorel's unused costume and hypothetical dinosaur-led fight not played. All are **out-of-character**, no completed changes to Hope's vehicle inventory. |
+| **High** | September bonus whole recording | **Month-only September filename means public publication**, owner-confirmed bonus convention; audio says supporters have **one-week early access**. **No precise recording date** spoken reliably here. Keep bonus production discussion separate from E072–E073 character actions. |
+
+**E073 cutoff:** All four PCs and **Cerinthala** at **stalled CHIDS elevator**, **huge spider descending**. **Stanley's cursed +1 AC amulet still worn**, **Nash's staff broken**, **Toby's awareness demonstrated**, engineering remote unlock reported/played but **machine not reached**, **Sira still abducted**. **All transcripts machine-produced, not audio-verified**.
+
+## 13. Work completion checklist
 
 - [ ] Listen to selected critical cues and create **audio-grounded transcript excerpts** with timestamps and performer attribution.
 - [ ] Reconcile original contracts, house records and item handouts with spoken claims; if unavailable, record that explicitly.
 - [ ] Update only the affected **active ledger key**, source dossier and consolidated reference entry, with evidence and date.
 - [ ] Preserve raw SRT outputs and historical archived alternatives, never silently overwrite source recognition.
 - [ ] Run relevant documentary/index validation after edits; where **local files or code** change, run their applicable test suites and pass before claiming completion.
-- [ ] Continue source-backed review **after E071**; E055–E071 and all five currently reviewed 2019 bonus recordings have provisional dossiers, **not independently listened/verified**.
+- [ ] Continue source-backed review **after E073**; E055–E073 and all six currently reviewed 2019 bonus recordings have provisional dossiers, **not independently listened/verified**.
 
 **Editorial consolidation is not audio verification.** Full [legacy queue](../research/legacy/2026-10-22/PROJECT_REVIEW_QUEUE.md) remains available for every fine-grained pending subtask.
