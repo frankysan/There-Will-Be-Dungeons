@@ -2,18 +2,18 @@
 
 **A local-first transcription and campaign-reference project.** The long-term goal is an accurate, searchable, source-linked archive of *The Wastes*, beginning with the first campaign arc and its cast/GM discussions.
 
-**Current research coverage:** corrected **E000–E063**, including **E013.5**, a separate **E043 holiday one-shot**, and **March, April and June 2019 bonus discussions**. E055 begins after a **real three-month fictional jump** following E054. These episode dossiers are **provisional notes from processed Parakeet SRTs, not finished or listener-proofread transcripts**. The ongoing E000/E001 speaker-labelled reader-edition pilot remains separate.
+**Current research coverage:** corrected **E000–E065**, including **E013.5**, a separate **E043 holiday one-shot**, and **March, April, June and July-archived 2019 bonus discussions**. E055 begins after a **real three-month fictional jump** following E054. These episode dossiers are **provisional notes from processed Parakeet SRTs, not finished or listener-proofread transcripts**. The ongoing E000/E001 speaker-labelled reader-edition pilot remains separate.
 
 ## Choose how to explore
 
 | I want to… | Start here |
 |---|---|
-| **Read the story** | [**Year One — From Dusthill to the Crown**](narrative/YEAR_ONE.md), then [**Year Two — Stones, Souls and the Great Fang**](narrative/YEAR_TWO.md) (E055–E063) |
+| **Read the story** | [**Year One — From Dusthill to the Crown**](narrative/YEAR_ONE.md), then [**Year Two — Stones, Souls and the Great Fang**](narrative/YEAR_TWO.md) (E055–E065) |
 | Understand the story's organization and spoiler limits | [Narrative guide](narrative/README.md) |
 | Look up a character, place, event or contested fact | [World reference portal](world/README.md) |
 | Inspect **episode-by-episode evidence** | [E000 dossier](episodes/E000.md), [E001 dossier](episodes/E001.md) and the numbered `episodes/E###.md` files |
-| Read the latest researched episodes | [E060](episodes/E060.md), [E061](episodes/E061.md), [E062](episodes/E062.md), [E063](episodes/E063.md) |
-| Read the cast/GM bonus discussions | [March 2019 Q&A](episodes/BONUS-2019-03.md), [April 2019 The First and Last](episodes/BONUS-2019-04.md) and [June 2019 Q&A](episodes/BONUS-2019-06.md) (spoken as May's show); **not numbered Wastes episodes** |
+| Read the latest researched episodes | [E062](episodes/E062.md), [E063](episodes/E063.md), [E064](episodes/E064.md), [E065](episodes/E065.md) |
+| Read the cast/GM bonus discussions | [March 2019 Q&A](episodes/BONUS-2019-03.md), [April 2019 The First and Last](episodes/BONUS-2019-04.md), [June-archived Q&A](episodes/BONUS-2019-06.md) (spoken as May's show) and [July-archived Q&A](episodes/BONUS-2019-07.md) (**spoken as June's show, recorded June 29, per introduction**); **not numbered Wastes episodes** |
 | Check actual versus original episode numbering | [Corrected crosswalk](project/EPISODE_NUMBERING.md) |
 | Follow unresolved listening tasks | [Review queue](project/REVIEW_QUEUE.md) |
 | Understand source confidence and editing conventions | [Editorial guide](project/EDITORIAL_GUIDE.md), [documentation architecture](project/DOCUMENTATION_ARCHITECTURE.md) |
