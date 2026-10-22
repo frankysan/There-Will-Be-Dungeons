@@ -81,7 +81,7 @@ The heroes **reject Quizquaz's offered planetary destruction**. **Stanley asks M
 ## Unsettled and evidence tiers
 
 - **Observed:** building/rails/map, cards, hologram, automated door, virtual headsets, physical security response, frozen data center exterior.
-- **Speaker claims:** ancient partnership/technologies (Julia), VR's astral mechanics / literal Void Realm / data effect (Charles), Traversal Drive location and offlined power (Alvert). The **spectral dragon's E067 planet-moving story** may support the latter, but **the PCs still have not inspected or activated the machine**.
+- **Earlier speaker claims (E067–E071):** ancient partnership/technologies (Julia), VR's astral mechanics / literal Void Realm / data effect (Charles), Traversal Drive location and offlined power (Alvert). **At that earlier cutoff** the party had not inspected the machine. **E079 directly reveals the engineering chamber**, and **E081 the party operates the controls**. The spectral dragon's planet-moving account and Quizquaz's Void-energy explanation remain **attributed claims**, not independently verified technical history.
 - **Dates:** exact facility construction, destruction, real age, chronological relation between the **old dragon war** and humanity's demon research still uncertain.
 - **Inventory:** E071 **magical flying briefs move from Nash to Stanley to Hope to Vorel**, last worn by **Vorel** in the approach vent; **E072 Vorel returns them to Nash**, who wears them in the server room. They are **one shared item**, not four pairs.
 - **Names:** CHIDS/C-TEST, Dr. Yxtlee, Uobvayx/Ovaxiad, station spellings; seek audio/visual handout before canonizing.
