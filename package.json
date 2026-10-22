@@ -9,5 +9,8 @@
   },
   "devDependencies": {
     "markdownlint": "0.42.0"
+  },
+  "overrides": {
+    "katex": "0.18.2"
   }
 }
