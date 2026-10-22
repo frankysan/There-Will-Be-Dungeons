@@ -31,3 +31,9 @@ In [E065](../../episodes/E065.md) (~00:22–00:27), **Rorf himself admits killin
 - **Review:** listen to E063 ~02:30–02:53; E064 ~00:20–00:47 and ~02:49–02:57; E065 ~00:08–00:43, ~01:40–01:50 and end. Seek official/cast spelling.
 
 **Related:** [Bramie murder dossier E061](../../episodes/E061.md) · [outbreak E064](../../episodes/E064.md) · [revelations E065](../../episodes/E065.md) · [Razak Val](../places/razak-val.md) · [chronology](../CHRONOLOGY.md) · [review queue](../../project/REVIEW_QUEUE.md).
+
+## E066 — abducted daughter, two deaths
+
+While the party camps during the storm, **Sira disappears from Stanley's Tiny Hut**. A floating **mind flayer identifying itself approximately as Oubvayx/Ovaxiad** later holds **Sira aloft** as leverage against Hope, threatening Tietkalla. **Rorf shapeshifts into a large bird and attacks; the creature violently compresses him repeatedly and kills him outright**. **Follow levitates to save his daughter**, is hurled down with severe wounds, and **dies while asking Stanley to rescue Sira**. Stanley promises, and the companions **bury Follow**. **Sira is abducted alive as last shown**, carried away by the mind flayer toward **Kervalon**, not successfully resettled in Tietkalla. Their previously accepted sanctuary agreement **never culminates in arrival**. [E066](../../episodes/E066.md).
+
+**Live status through E067:** **Follow dead E066; Rorf dead E066; Sira kidnapped E066 and not yet rescued by E067.** Sira's identity and abilities should not be merged with Nash's earlier dream child; the [July bonus](../../episodes/BONUS-2019-07.md) supplies only a tentative GM judgment that they are different.
