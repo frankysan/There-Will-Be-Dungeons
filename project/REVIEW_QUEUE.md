@@ -91,6 +91,14 @@ This is a **batch routing grid**, not a statement that every cue within a listed
 | [BONUS-2019-04](../episodes/BONUS-2019-04.md) | Roundtable on early Year Two, character technique and GM's emergent Tietkalla design |
 | [BONUS-2019-06](../episodes/BONUS-2019-06.md) | May-spoken/June-archived bonus; Stanley/Nash/Vorel/Hope goals, Principle origin, unused encounters and sand-fishing design |
 
+| [E055](../episodes/E055.md)–[E060](../episodes/E060.md) | Second-arc time jump, Tietkalla and Principle, skyfall, parasites and Orp's initial rule; see focused checks in section 5–6 |
+| [E061](../episodes/E061.md)–[E063](../episodes/E063.md) | Future-Nash egg theft, Bramie death, Orp slain, Vorel Great Fang, Zercil and prisoners; see section 7 |
+| [E064](../episodes/E064.md)–[E065](../episodes/E065.md) | Razak Val collapse, Fate 4 recovery, Rorf's murder confession, storm and alleged future egg copies; see section 8 |
+| [E066](../episodes/E066.md)–[E067](../episodes/E067.md) | Fate 4 destruction, Follow/Rorf deaths, Sira abducted, Kervalon infiltration and planet-engine report; see section 9 |
+| [E068](../episodes/E068.md) | Actual T. rex Polymorph, illithid skin, sealed guards, magical shaft, hidden biting-panel doors; see section 10 |
+| [BONUS-2019-07](../episodes/BONUS-2019-07.md) | Public July bonus, spoken June 29 recording, character/GM retrospective |
+| [BONUS-2019-08](../episodes/BONUS-2019-08.md) | Public August bonus, spoken July 27 recording, Solar Mines radiation, artifacts and shaft-clue explanation |
+
 **Publication crosswalk:** [Corrected episode numbering](EPISODE_NUMBERING.md). **Historical precision:** Timestamps and named questions for every group are in the frozen [full review queue](../research/legacy/2026-10-22/PROJECT_REVIEW_QUEUE.md). **Lore chronology:** [unified timeline](../world/CHRONOLOGY.md).
 
 ## 5. E055–E056 and April/June 2019 bonuses — focused checks
