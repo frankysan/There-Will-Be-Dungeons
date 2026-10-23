@@ -1,6 +1,6 @@
-# Characters and participants — campaign reference index (E054 snapshot plus E115 update)
+# Characters and participants — campaign reference index (E054 snapshot plus E116 update)
 
-**Spoilers:** Core table retains its **Arc Two E054 snapshot**; later status updates cover corrected **E081** and the **E082–E115 Arc Four/Five developments in linked profiles**, with separate March/April/June/July/August/September/October/November-publication cast Q&As. The [Year One Q&A](../episodes/BONUS-2019-03.md) is not a played episode. **Quality:** These profiles synthesize provisional processed Parakeet SRT research; **they have not been checked against the audio**. For a story rather than an index, see [Arc One](../narrative/ARC_ONE.md) and [Arc Two](../narrative/ARC_TWO.md).
+**Spoilers:** Core table retains its **Arc Two E054 snapshot**; later status updates cover corrected **E081** and the **E082–E116 Arc Four/Five developments in linked profiles**, with separate March/April/June/July/August/September/October/November-publication cast Q&As. The [Year One Q&A](../episodes/BONUS-2019-03.md) is not a played episode. **Quality:** These profiles synthesize provisional processed Parakeet SRT research; **they have not been checked against the audio**. For a story rather than an index, see [Arc One](../narrative/ARC_ONE.md) and [Arc Two](../narrative/ARC_TWO.md).
 
 This is now the **subject-focused reference index**, not the append-only episode-batch ledger. The earlier 88,000-character source-first [character compendium is preserved](../research/legacy/2026-10-21/WORLD_CHARACTERS.md); the complete [pre-third-arc consolidation index](../research/legacy/2026-10-22/CHARACTERS_PRE_SECOND_ARC_CONSOLIDATION.md) preserves every additional interim status paragraph. Both archives retain their research history. A character's **earlier beliefs, reported fate and later observed status** must remain distinct. Roles in the podcast are not in-world identities.
 
@@ -24,6 +24,10 @@ This is now the **subject-focused reference index**, not the append-only episode
 | **Tedna** | Young stowaway and devoted helper; **rescued alive E048**, dies of injuries **E050**. His report of Angelashi's death was not eyewitness confirmation | [Tedna](characters/tedna.md) |
 | **Angelashi / Angel Ashi** | Elven singer, close to Nash; presumed dead in an E048 report but **directly freed alive E054**. Exact word division of name remains unresolved | [Angelashi](characters/angelashi.md) |
 | **Bok Bok** | Goblin companion of Vorel since **E006**; survives imprisonment, the war for Tietkalla and Vorel's temporary petrification | [Bok Bok](characters/bok-bok.md) |
+
+## E116 — the first Hope/Nash reunion
+
+At [E116](../episodes/E116.md) **Hope's party remains separate from the original adventurers until the closing scene**: she, **Steerious, Blood Skunk and Dr. Spider** attack a Sigil cargo ship, fail to take it, and **retreat alive to Spider's Hell lab**. **Blood Skunk volunteers first and second outer ears** to recharge Hope's ring; although downed in the ship fight, **he is healed and alive**. **Brett returns Steerious's sword**, given away in E113. Hope summons the **Principle** and receives only a suggestion to ask Nash about the Council's prison lead. Finally **Hope literally names Nash in *Gate***, pulling him from **Elhandar into Hell**, then **takes him back to Elhandar with her**. **Hope and Nash are actually reunited at the Elhandar biodome**; **no E116 Stanley/Vorel/Angelashi reception scene** and no Eye recovery. [Full-export comparison](../reports/E116_ASR_COMPARISON_2026-10-23.md). The later E116 state does not backdate a reunion into E115.
 
 ## E115 current status — later than the historical tables and updates
 

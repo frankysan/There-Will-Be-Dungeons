@@ -1,6 +1,10 @@
 # Nash Maggard
 
-**Portrayed by:** Scott. **Identity:** Wasteland traveler and spellcaster, with an implanted dragon-metal heart. **Arc Two status:** Alive; physically changed, allied with newly crowned Hope. **Spoilers:** Main Wastes through E115; retrospective Q&A comments kept separate from direct play. **Evidence:** Processed SRTs/dossiers, not independently audio-verified.
+**Portrayed by:** Scott. **Identity:** Wasteland traveler and spellcaster, with an implanted dragon-metal heart. **Arc Two status:** Alive; physically changed, allied with newly crowned Hope. **Spoilers:** Main Wastes through E116; retrospective Q&A comments kept separate from direct play. **Evidence:** Processed SRTs/dossiers, not independently audio-verified.
+
+## E116 — Hope forcibly Gate-summons Nash, then accompanies him home
+
+At the **very end of [E116](../../episodes/E116.md)**, Nash is **on Elhandar's forest biodome near the family's cottage**, handling bandages, when a portal suddenly draws **“Nash Maggard of the Solar Mines”** into **Dr. Spider's laboratory in Hell**. **Hope is the active summoner and targeter**; the three companions around her are **Steerious Business, Blood Skunk and Dr. Spider**. Nash **actually recognizes Hope**, is surprised and initially disoriented. Hope immediately urges him back through the opening. **She takes his arm and both physically return to the Elhandar forest**, leaving **the three Hell companions behind**. This is **a played Hope–Nash reunion**, not merely a foreshadowed call or a meeting with all three original companions. **Nash does not cast a new spell, improvise a casting rhyme, acquire confirmed prison knowledge, accept a mission, or leave Angelashi and the children permanently**; what he will say to them or to Stanley/Vorel about Hope remains future play. [E116 comparison](../../reports/E116_ASR_COMPARISON_2026-10-23.md).
 
 ## E115 — reconciliation, named children and an unfulfilled summons
 

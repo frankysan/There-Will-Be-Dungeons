@@ -1,6 +1,10 @@
 # Elhandar — elven space station and forest biodome
 
-**Spelling:** Elhandar is the established archive working form; E115 ASR also gives **Elhendar / Elendar / Elhanda**. **Continuity:** The Wastes, main-party Arc Five. **First researched physical arrival:** [E115](../../episodes/E115.md), ~00:30–00:39, following E111's rescue and E114's interrupted voyage. Earlier references do not constitute earlier visits. **Spoilers:** Through E115; **ASR-provisional, not audio-verified**.
+**Spelling:** Elhandar is the established archive working form; E115 ASR also gives **Elhendar / Elendar / Elhanda**. **Continuity:** The Wastes, main-party Arc Five. **First researched physical arrival:** [E115](../../episodes/E115.md), ~00:30–00:39, following E111's rescue and E114's interrupted voyage. Earlier references do not constitute earlier visits. **Spoilers:** Through E116; **ASR-provisional, not audio-verified**.
+
+## E116 — Hope actually joins Nash in the biodome
+
+[E116](../../episodes/E116.md) plays **Hope's first physical reunion with Nash since E101**. The copper-ring Gate first **draws Nash by his true name** from a **glade in Elhandar's living forest beside the cottage into Dr. Spider's Hell laboratory**. **Hope physically takes his arm and escorts him back to Elhandar through the same portal**, where the GM leaves **both Hope and Nash standing together in the biodome**. **Steerious Business, Blood Skunk and Dr. Spider remain in Hell**; **Vorel, Stanley, Angelashi and the four babies are not shown meeting Hope at this E116 cutoff**. E115's day-five breakfast status remains the previous original-party cutoff; E116 does not advance several more days or show a full family reception. **No new teleport circle construction or sigil knowledge is required/observed for Hope's ring Gate.** [Full ASR comparison](../../reports/E116_ASR_COMPARISON_2026-10-23.md).
 
 ## Observed station and transport
 

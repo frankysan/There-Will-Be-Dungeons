@@ -1,0 +1,35 @@
+# E116 — full Parakeet/Qwen comparison (2026-10-23)
+
+> **The Wastes corrected S1E116 — Large Spectral Pile Of Babies · played Arc Five Hope-party episode, first Nash reunion.** [Dossier](../episodes/E116.md) · [Arc Five](../narrative/ARC_FIVE.md). All findings are based on **two complete existing ASR SRT exports**, not independently heard audio. No models, input media or source transcript files were rerun or modified.
+
+## Provenance and complete-export measurement
+
+The connected **There Will Be Dungeons Transcripts** workspace began **clean on `main`, HEAD `19c7509adde4fea1394a443e1c1ab74cf8be3d59`**. Both whole-file SRT texts fetched read-only from connected GitHub **at the same pinned commit**; processed Parakeet local workspace binary inventory independently reports **261,715 bytes / SHA-256 `a590b040917bd2e6f0b1f7d39511014aa6f963b97ff42df389a3985de4646946`**; Qwen **370,872 bytes / SHA-256 `3d89e94207d0f97b47a9697dda1909923b9b434eeb860eb1a496c83eadadceea`**. Source labels identify the pipeline **only by filename**, not verified runtime, hardware, audio version or transcription settings. Git blob SHA is **not SHA-256**; “characters” counts are source-string length, not file bytes.
+
+| Exact source / filename-labelled pipeline | Retrieved characters | Cues | First start | Last end | Normalized words | Git blob SHA |
+| --- | ---: | ---: | --- | --- | ---: | --- |
+| [The Wastes S1E116. Large Spectral Pile Of Babies.parakeet.processed.srt](../sources/The%20Wastes%20S1E116.%20Large%20Spectral%20Pile%20Of%20Babies.parakeet.processed.srt) · processed Parakeet | **248,932** | **2,719** | **00:00:09.600** | **02:48:09.210** | **23,555** | `c432bd2c106af54538944945704988c63c851913` |
+| [The Wastes S1E116. Large Spectral Pile Of Babies.qwen-q8.canary-ctc.nemotron.srt](../sources/The%20Wastes%20S1E116.%20Large%20Spectral%20Pile%20Of%20Babies.qwen-q8.canary-ctc.nemotron.srt) · Qwen Q8/Canary CTC/Nemotron-labelled | **351,924** | **4,728** | **00:00:02.240** | **02:48:08.880** | **23,945** | `d0f8e4bc1d89fe915f086ba5248dd5c8bc5e2e40` |
+
+**Metric:** Extract all chronological SRT cue bodies, omit timecode/cue lines and optional `(speaker N)` text, join, lowercase, remove straight/curly apostrophes (merging contractions), replace other characters except Unicode letters/digits with spaces, split on whitespace. Exact **unit-cost ordered word Levenshtein** via arbitrary-width bitvector method, over entire exports including intro and credits; Parakeet denominator.
+
+**Parakeet → Qwen = 2,601 ordered word edits / 23,555 Parakeet words = 11.04224156%, reported 11.04% text disagreement.** Qwen contains **390 more normalized words** but these are **not confirmed omissions**, and percentage is **not WER or audio-verified accuracy**. Qwen has an earlier opening cue by 7.36s, both end credits within 0.33s of each other; timing is not a guarantee of aligned source. No ASR processing benchmark or comparison to listened speech conducted.
+
+## High-stakes variants / targeted listening
+
+| Recording clock | Text evidence or disagreement-risk | Conservative editorial status |
+| --- | --- | --- |
+| ~00:03–00:10 | **E113 ended with a Gate to Tobacho**, yet E116 reopens in **empty Council cavern** and says Hope **did not enter**. Outro confirms GM prepared Tobacho encounter but Hope chose otherwise | **Explicit scene-boundary/continuity revision**, not fabricated offscreen return; E113 original cutoff kept historically, E116 active continuation wins |
+| ~00:04–00:18 | Dr. Spider stabbing after slapped fails recharge (11 damage absorbed by temp HP); **Blood Skunk lets Hope cut FIRST ear** and ring warms; Spider webs group, Steerious echoes out | Count **separate E116 first-ear removal**, without claiming stabbed doctor died or had no damage at all |
+| ~00:22–00:40 | Dockmaster killed by ***Mental Prison*** and asked brief questions under ***Speak with Dead***; Hope opens **failed Earth/Kervalon Gate onto purple earth**, closes without crossing | Dockmaster **killed**, Eye/prison location **not learned**, Earth transit **not completed** |
+| ~00:44–01:20 | **Dwarven (not gnome) freight ship** besieged, many dwarves killed; Steerious **falls from gangway into abyss** and eventually climbs ladder; **Dr. Spider's *Guardian of Faith* is re-flavored as floating spectral babies** | No ship seized; babies **spell imagery**, not Nash's actual four newborns |
+| ~01:40–02:07 | Massive crossbow volley, GM describes up to **60 shots** and adjudicates **137 piercing to Blood Skunk**; he hits **0 HP**, not permanently dead. Spider heals via ***Healing Light* (~25 HP)** after escape | Distinguish **incapacitation, later revival** from resurrection; exact rolls and timing need listening; no backdated Barkskin |
+| ~02:04–02:11 | Hope opens **Gate beneath downed Blood Skunk** into Spider's hellish lab, all four **actually cross**, Hope closes it | Not mere retreat intention; no captured ship or accidental player left at dock |
+| ~02:12–02:33 | Spider Ward/hell rail actually lead to **Brett's Kaiser Casino**; Brett **returns Steerious's E113-paid sword** and **heals Blood Skunk**, does not know location **Pentelvice (?)**; speculates about wizard/lich | Sword **physically recovered**, ear/toe regeneration **not proved**, Brett's cosmological answers are NPC testimony |
+| ~02:31–02:41 | Hope names **the Principle**, he **appears through Gate, grabs her, resents forced summoning**; **he does NOT know prison's location**, speculates **Nash may know because of time traversal** | No prison coordinates, no new confirmed Nash time-travel power |
+| ~02:40–02:46 | Blood Skunk **voluntarily gives up SECOND outer ear** to charge ring, named target **“Nash Maggard of the Solar Mines”**. Nash **actually drawn from Elhandar biodome into Hell lab** then **escorted back with Hope to Elhandar** | E116 **actual Hope–Nash reunion**; other three companions **stay behind in Hell**; no reunion with Stanley/Vorel yet |
+| ~02:46–02:48 | Host/GM says Tobacho battle map was unused, next week off | Out-of-game remarks, **not added in-fiction events** |
+
+**Listening priorities:** verify the **retconned E113 cutoff**, two separate Blood Skunk ear sacrifices/medical outcome, specific dock/ship and killed dockmaster, dwarf combat and Guardian of Faith babies, **downed vs dead** Blood Skunk, Brett's actual greatsword transfer and healing, the **Principle summoning**, the Gate targeting Nash's true name and who **physically passes through to Elhandar**. Proper nouns/printed mechanics remain provisional. **No independent audio verification**.
+
+**Next:** [E117 — The Fireside Stories (Parakeet)](../sources/The%20Wastes%20S1E117.%20The%20Fireside%20Stories.parakeet.processed.srt) · [Qwen](../sources/The%20Wastes%20S1E117.%20The%20Fireside%20Stories.qwen-q8.canary-ctc.nemotron.srt), owner archive **TWBD 119, September 7, 2020**, exact files verified present; **not analyzed**. E114 and E115 have [prior dossiers](../episodes/E114.md) and [E115](../episodes/E115.md), not gaps.
