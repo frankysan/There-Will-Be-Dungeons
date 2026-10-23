@@ -8,6 +8,10 @@ On the **Elhandar-bound rescue ship**, [E114](../../episodes/E114.md) puts Nash 
 
 **Nash catches a gray-skinned baby boy**, then joins Angelashi holding all four newborn forms. **Fork, pipe and boot visibly become babies: four living changeling children, two girls and two boys**. **Angelashi drops her elven form**, but her assertion about **Nash's own changeling ancestry remains a claim he disputes**, explaining his known dragon form through his implanted heart. No extra shapeshifting is demonstrated, no children's names assigned, and no complete individual sex/form mapping given. **Family alive aboard ship at cutoff; Elhandar not yet reached.** [Full-ASR comparison](../../reports/E114_ASR_COMPARISON_2026-10-23.md), not audio-verified.
 
+## BONUS-2020-08 — an imagined ending, conditional on survival
+
+In the [August 2020 public-release Q&A](../../episodes/BONUS-2020-08.md) (~10:38–13:35), **Scott says he has an idea for Nash's final scene, then expressly conditions it on Nash surviving until the campaign's ending**. He does not disclose the scene and may discuss staging with Beau. **This is player intent, not guaranteed survival, a played retirement/death, or a family destination**. Separately Beau says Nash's **time-related material was already in development**, while the whole party's unexpected E081 sacrifice forced him to rethink the planar aftermath. That authorship statement does not establish the truth of every future-Nash claim. No Nash casting phrase is introduced. [ASR report](../../reports/BONUS_2020_08_ASR_COMPARISON_2026-10-23.md), not audio-verified.
+
 ## Spellcasting phrases and rhymes
 
 Nash improvises strange phrases and rhymes around his magic. His separate **[spellcasting phrase register](nash-spellcasting-phrases.md)** records the wording, spell or ability, episode/time, performer attribution and source confidence, including unfinished attempts and magical-item theatrics. The collection is being backfilled; ASR-only wording remains provisional.

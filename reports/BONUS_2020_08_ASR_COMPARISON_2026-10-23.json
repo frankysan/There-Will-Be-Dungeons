@@ -1,0 +1,80 @@
+{
+  "sources": [
+    {
+      "path": "sources/Bonus 2020-08 - August 2020.parakeet.processed.srt",
+      "cues": 594,
+      "first": "00:00:05,360",
+      "words": 5621,
+      "bytes": 58977,
+      "sha256": "a3c44a0510d58c045c213bc6ea620746cf8e445795122a0900fe43db49bbbbee",
+      "filename_label": "Parakeet processed",
+      "run_metadata_verified": false,
+      "last_end_seconds": 1776.06
+    },
+    {
+      "path": "sources/Bonus 2020-08 - August 2020.qwen-q8.canary-ctc.nemotron.srt",
+      "cues": 902,
+      "first": "00:00:05,440",
+      "words": 5747,
+      "bytes": 75537,
+      "sha256": "2e7c86872ec0e9b6d9cb3fbd62711785987f4ea075ea464864cdf36a91ee788b",
+      "filename_label": "Qwen Q8 / Canary CTC / Nemotron",
+      "run_metadata_verified": false,
+      "last_end_seconds": 1775.8
+    }
+  ],
+  "distance": 467,
+  "validation": "1000 deterministic random comparisons against full scalar DP, both directions",
+  "episode": "BONUS-2020-08",
+  "archive_basename": "Bonus 2020-08 - August 2020",
+  "type": "Out-of-game cast Q&A / retrospective / production discussion",
+  "campaign_scope": "The Wastes through E113, plus E107-E109 historical prequel; other games as discussion only",
+  "date": "2026-10-23",
+  "repository": "frankysan/There-Will-Be-Dungeons-Transcripts",
+  "head": "f401cd889ca56f7156dc2c35b229d70b24f276a0",
+  "branch": "main",
+  "initial_worktree": "clean",
+  "audio_verified": false,
+  "asr_rerun": false,
+  "comparison_direction": "Parakeet -> Qwen",
+  "denominator": 5621,
+  "percentage": 8.308130226,
+  "qwen_minus_parakeet_tokens": 126,
+  "reverse_distance": 467,
+  "normalization": "Chronological cue text; remove indices/timings and (speaker N); lowercase; delete straight/curly apostrophes; replace characters other than Unicode letters/digits with whitespace; split.",
+  "metric": "Exact unrestricted ordered unit-cost word Levenshtein, arbitrary-precision Myers bit-vector recurrence.",
+  "reading_coverage": "Both complete lexical texts, 0-10, 10-20, 20-30 minutes with shared text and P/Q alternatives; selected raw cue rereads.",
+  "access": {
+    "direct": "Both SRTs, ignored MP3, historical rename manifest, Git and edits",
+    "workspace_mcp": "Same repository/branch/HEAD, zero visible changes",
+    "github": "Read capability available; not needed for these complete local inputs; remote tip not refreshed"
+  },
+  "recording_date": "Unverified; no calendar date stated; today minecart/Styx references associate content with E113 without proving a date",
+  "audio_copy": {
+    "path": "local/Bonus 2020-08 - August 2020.mp3",
+    "bytes": 29013577,
+    "sha256": "a4b7a21207b358736da1e6ff8d6e831d4e95ab608f1a60c6ffd2eb9cca1fbaf8",
+    "duration_seconds": 1785.0,
+    "duration_method": "ffprobe format.duration",
+    "historical_asr_input_verified": false
+  },
+  "retained_provenance": {
+    "manifest": "local/bonus-identification-2026-10-22/rename-manifest.json",
+    "old_basename": "011.bonus_twbd_august.mp3",
+    "owner_sheet_row": 138,
+    "feed_title": "TWBD Bonus 8-11-2020",
+    "source_url": "https://shows.acast.com/there-will-be-dungeons/episodes/6501086309d52c00124340eb",
+    "historical_correlations": [
+      0.9689,
+      0.98987
+    ],
+    "correlation_rerun": false,
+    "current_audio_hash_matches_manifest": true,
+    "live_publisher_metadata_refreshed": false
+  },
+  "next_bonus_paths": [
+    "sources/Bonus 2020-09 - September 2020.parakeet.processed.srt",
+    "sources/Bonus 2020-09 - September 2020.qwen-q8.canary-ctc.nemotron.srt"
+  ],
+  "main_story_next": "The Wastes S1E115 - The Forest for The Trees, unchanged"
+}

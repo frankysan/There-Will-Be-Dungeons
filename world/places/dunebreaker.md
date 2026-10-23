@@ -38,6 +38,12 @@ The guards debate **cutting off a limb as false death evidence** or jumping off 
 
 **Later research:** The final prequel chapter is [E109 — Sand Jell-O](../../episodes/E109.md), now analyzed ([whole-export comparison](../../reports/E109_ASR_COMPARISON_2026-10-23.md)). For actual individual episode cutoffs, see [E107](../../episodes/E107.md) and [E108](../../episodes/E108.md), with their separate comparisons. **The murder was unresolved at E107's cutoff but its concealed culprit is established in E108**; no earlier scene or present-day Arc Five story should be overwritten by that revelation. Compare with [Wastes chronology](../CHRONOLOGY.md).
 
+## BONUS-2020-08 — Hack's mechanics and appearance, described later
+
+In the [August public-release 2020 Q&A](../../episodes/BONUS-2020-08.md) (~24:29–25:44), **Scott says he chose Hack Loman's Underdark favored terrain for its appealing mechanics and has no developed history of Hack actually visiting it**. **Jon recalls interpreting it as skill in dark, confined spaces**. This leaves the travel/backstory question open; neither an Underdark expedition nor the absence of such a place in the Wastes is established. Keep this with **the historical prequel's Hack**, not Nash or present-day Arc Five.
+
+At ~25:44–26:18, **Scott describes a tattoo in the center of Hack's back: an eagle diving with wings folded close, toward prey, perhaps a rat**. This is **creator-described appearance**, not an E107–E109 scene in which another PC sees it, and does not explain Hack's separate facial scar. The following **“no regerts” joke is not a verified inscription**. [Full-export comparison](../../reports/BONUS_2020_08_ASR_COMPARISON_2026-10-23.md); **ASR-provisional, not audio-verified**.
+
 ## E109 — the secret exchange and defeat of the giant dessert
 
 At [E109](../../episodes/E109.md), guard **Fawkes/Fox (?)** issues insignia sashes bearing **three welded platinum coins** to **Hack, Ramilda and Al**. **Captain Lotho reopens suspicion over E108's falsified murder account**: four knife wounds in the engineer's **back** contradict the reported self-defense. Hack's **Deception 12** does not satisfy him; he **orders a later reinvestigation**, not performed before this mini-arc ends. **Lamulkin and his two daughters remain unresolved**, even though the story reaches its three-part closing scene.
