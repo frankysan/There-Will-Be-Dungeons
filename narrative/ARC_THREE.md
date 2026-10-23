@@ -1,8 +1,8 @@
 # Arc Three — Strangers in the City of Doors
 
-**The Wastes, third researched story arc — opening chapters, corrected E082–E091 (ongoing)**
+**The Wastes, third researched story arc — opening chapters, corrected E082–E092 (ongoing)**
 
-**Full spoilers through E091.** This is an **initial narrative**, not a completed arc or an audio-verified transcript. It retells the **played sessions** from their [source-first dossiers](../episodes/E082.md), [E083](../episodes/E083.md), [E084](../episodes/E084.md), [E085](../episodes/E085.md), [E086](../episodes/E086.md), [E087](../episodes/E087.md), [E088](../episodes/E088.md), [E089](../episodes/E089.md), [E090](../episodes/E090.md) and [E091](../episodes/E091.md), which are based on processed ASR. Dialogue is paraphrased; uncertain names and planar explanations are not certified by this prose. The [December 2019 cast Q&A](../episodes/BONUS-2019-12.md) is retrospective context, **not another chapter of events**. This is **The Wastes**, wholly separate from *Inverse*.
+**Full spoilers through E092.** This is an **initial narrative**, not a completed arc or an audio-verified transcript. It retells the **played sessions** from their [source-first dossiers](../episodes/E082.md), [E083](../episodes/E083.md), [E084](../episodes/E084.md), [E085](../episodes/E085.md), [E086](../episodes/E086.md), [E087](../episodes/E087.md), [E088](../episodes/E088.md), [E089](../episodes/E089.md), [E090](../episodes/E090.md), [E091](../episodes/E091.md) and [E092](../episodes/E092.md), which are based on processed ASR. Dialogue is paraphrased; uncertain names and planar explanations are not certified by this prose. The [December 2019 cast Q&A](../episodes/BONUS-2019-12.md) is retrospective context, **not another chapter of events**. This is **The Wastes**, wholly separate from *Inverse*.
 
 ## Prologue — After the light
 
@@ -538,15 +538,63 @@ Vorel, however, gets a weapon in his hands. Jelver opens a wardrobe and produces
 
 [E091](../episodes/E091.md) · [Heist source comparisons](../reports/E091_ASR_COMPARISON_2026-10-23.md)
 
+## XXIV. The paladins who cannot read the exit pass
+
+Jelver's orcs escort **Lady Despair and the Rambunctious Bunch** out of Tobacho's underground hall. In the alley waits a coach pulled by four horses and driven by a curious creature with **six arms and eight eyes**. He has been sent to bring them to their appointments: first the tailor, then the safehouse near Euphemius's temple. But there is the small matter of leaving the Hive. A Harmonium officer from E090 had declared that entry meant no return.
+
+At the checkpoint the company displays **Tobacho's sealed writ**. One armored guard cannot read it, another struggles with its vocabulary, and a third leans into the coach to help. Yet the writ **is accepted**, and the guard tells them they may go. Then all three try to leave through the narrow coach door at once, their heavy plates locking together. They threaten to smash the carriage to free themselves. **Nash offers to reduce one of them**, carefully promising that it is not evil magic. The largest guard reluctantly accepts. He shrinks; the others tumble out. Nash ends the spell, and the furious officer gives a name sounding like **Sir Lipso Tuxis** and swears retaliation if his vows have been violated.
+
+For all that, the wheels carry them **out of the Hive**. The threat of permanent confinement was real as a threat, but **they have successfully passed it**.
+
+At **Lohar's stall in the Great Bazaar**, Vorel presents the dragon's sealed letter. His orc friend marvels at how a newcomer has acquired such dangerous connections, then promises **four priestly costumes** without asking for payment. They are delivered to the waiting coach. The group passes the interval at a nearby tavern called **the Amber Cutlet**, a place whose peculiar habit of declining tips and insulting patrons bewilders them.
+
+Vorel discovers mead. He drinks enough to worry his friends, even as he asks why their journey to steal a holy relic does not frighten them more. **Stanley reminds everyone that he once suggested remaining in Sigil**, but the others argued they had people and responsibilities at home. **Hope's answer has not changed: she intends to return.** They toast going home. Vorel pays the bill and hides a gold coin on the table as a tip that nobody can politely decline.
+
+Before the coach reaches the safehouse, he makes another stop and buys **three enormous casks of ale**. The driver's return purse is intact; the party has not taken its money. The coach continues through streets lined with temples to a little doorway where a robed man waits.
+
+[E092](../episodes/E092.md) · [Two-transcript comparison](../reports/E092_ASR_COMPARISON_2026-10-23.md)
+
+## XXV. A handsome man at the Unwavering House
+
+The priest ushers them inside. Here is the **changeling whom Jelver installed in place of the kidnapped Bishop Stevius Rintley**, wearing the captive's face. For a moment he shows them his own colorless, unremarkable form. He has arranged an unusual appointment: the ancient **High Cleric Thrun** will be asked to bless four new servants of **Euphemius**, although the ceremony is not due for months.
+
+They sleep in the safehouse after changing into their fresh clerical robes, and rise before sunrise to eat an unfamiliar porridge. The changeling plans one last improvement. **Nash** is remade in outward appearance as an impossibly handsome young man, proudly calling himself **Horace Saddlesworth**. **Vorel**, far too recognizable as the recent BMF champion, is transformed into a **Goliath**. **Hope** loses the visible signs of her tiefling nature for the disguise and becomes a **human called Candice**. Only **Stanley is left untouched**: the changeling can hardly imagine making him more beautiful. His flattery gives this chapter its unlikely title. These are **temporary magical appearances**, not a new set of bodies.
+
+In a mansion-like temple called **the Unwavering House**, their false Bishop Stevius requests the extraordinary blessing. **Sister Anulak** refuses. The high cleric is resting after weeks of war council. Vorel suggests money, but is hurriedly silenced. Instead, Stanley tells an urgent story of a distant world called **Gaetor**, where Euphemius's few faithful are besieged by demons and cannot wait months to receive the blessing. It is a convincing lie, and Sister Anulak brings them upstairs.
+
+The cleric arrives at last, frail and very old beneath a complicated white hat and elaborate robes. His **pendant hangs at his neck**. He seems delighted by the charming **Horace** and even more by Stanley's face; he finds Hope's practiced smile much less convincing. Vorel keeps largely silent, as befits a supposed humble recruit. The blessing begins.
+
+While the old man chants, **Stanley hides the words of Telekinesis inside his own prayer**. When the cleric reaches forward to touch the supposed acolytes, the medallion's clasp comes apart. It falls to the floor. Stanley stoops to retrieve it, apparently helping the man whose sacred property has slipped away. In his hands lies **the real pendant**, and concealed in his sleeve is **a perfect-looking imitation**. He offers the imitation back.
+
+The danger is not over. **A corner of the stolen piece is still sticking out from Stanley's other sleeve**. Hope sees it and cries out in a grand display of religious joy. Vorel squeezes tears from his eyes, and soon the moment becomes a spectacle of fervor. The old man accepts and puts on **the false pendant**. The theft has worked.
+
+But Hope's theatrical devotion convinces the cleric that **Candice has been touched by Euphemius** and must stay for spiritual examination. The others walk out, leaving their friend behind in the hands of the temple. She cannot easily endure hours of questioning without exposing herself. The changeling is alarmed. Vorel wants a violent or miraculous rescue. Stanley instead quietly returns to Sister Anulak and casts **Modify Memory**, implanting the belief that Candice was meant to leave with the company after all. The sister looks briefly confused, then **orders Hope brought down**. Hope walks out through the temple gate, and all four are reunited in the street.
+
+Back at the safehouse they make certain the **stolen pendant remains with Stanley**. The changeling resumes his own form and departs for unknown business; the party's temporary faces fade, leaving Horace, the Goliath and Candice behind as identities of a single morning. **The first stage of the heist has actually been completed**, though the pendant has not been tried on the White Tower's sacred box.
+
+[E092](../episodes/E092.md) · [Theft and spell-source review](../reports/E092_ASR_COMPARISON_2026-10-23.md)
+
+## XXVI. An airship waiting below Sigil
+
+The many-armed driver has been waiting outside. He has more than horses and a carriage to offer: the supplies Jelver promised are **now inside**. Stanley finds **eight Dimension Door scrolls and four Reverse Gravity scrolls**. Nash receives a **Ring of Spell Storing**, and begins filling it with **Chromatic Orbs**. Hope is assigned a **magical +2 dagger**. They also find **two familiar pistols, named Fox and Scully, and fresh bullets**—a surprising return after Hope gave Scully to Tobacho. **Smokey's old ammunition belt has not returned**. The second pistol's E092 name **Fox** requires comparison with earlier references to **Mulder**; the two names cannot be made into a third firearm by inference. The requested sleeping gear, provisions, rope and adventuring equipment also arrive. Vorel still carries the borrowed **Shatter**.
+
+The coach rattles through Sigil for hours, then descends underground into darkness broken by the sounds of hammers and sawing. A huge chamber opens before them. **Gnomes work upon a mighty airship**, its sails, wings and propellers arranged above a broad vessel. Beyond it waits **a portal as large as a field**, positioned where the ship might depart. The four step out of the carriage into the hidden hangar.
+
+An **upright elephant-like captain**, wearing a feathered hat and sailor's finery, approaches. Her name is not firmly established: the GM has misplaced his prepared notes and improvises a series of possibilities ending in something like **Captain Meart**. She gives them a tour of the decks, cargo space and crew's machinery. She promises the ship will depart soon.
+
+It is **not yet a flight**. The party has stolen its first key, obtained the promised gear and reached an actual ship, but **the White Tower remains under siege far away**, and **Zorander's Fist remains in its box according to the bishop's untested account**. As the episode ends they have not sailed, passed through the enormous portal, opened the chest or returned home. Their next adventure can begin at last.
+
+[E092](../episodes/E092.md) · [Two-ASR comparison](../reports/E092_ASR_COMPARISON_2026-10-23.md)
+
 ## An open door, not an ending
 
 The four who entered CHIDS's red beam are together again: **Hope and Stanley restored through Kidigree's mirrors**, and **Nash fully regrown after eight days**, with his thermal underwear unexpectedly fused to his body, providing **cooling and ten-foot flight** by GM ruling. **Vorel** owns a champion's title and a professional BMF cabinet at the Soggy Feather, but has not bought the inn.
 
-The way home is now a question of what they are willing to steal. **Tobacho Fleur, a blue dragon in the Hive, still holds Scully**, but Jelver has finally **named the demanded prize: Zorander's Fist**. Stanley's spell-aided interrogation of **kidnapped Bishop Stevius Ritley** yields two reported targets: a **besieged White Tower in the Outlands** holding the gauntlet in a holy locked box, and **High Cleric Butar Thrun in Sigil**, wearing its key. The bishop is still captive, impersonated by a changeling. **None of his claims has been confirmed by a visit to the tower or cleric**.
+The way home has advanced from promise to a partly completed robbery. **Tobacho Fleur's commission** still seeks **Zorander's Fist**, reportedly hidden in the **White Tower in the Outlands**. But the companions have now **stolen the real-looking pendant from High Cleric Thrun at the Unwavering House**, leaving a convincing fake around his neck. **Stanley secures the object**, after Hope is temporarily detained and rescued through a magically altered memory. The pendant's power to open the Fist's box remains **unverified in play**.
 
-The four **defeat Jelver's magical troll test**, and their worst injuries are treated. **Vorel receives the borrowed greatsword Shatter**; the party has a tailor authorization and an untested Harmonium travel writ. The proposed **airship and teleportation scrolls have not arrived**, and their key-first heist has not begun. Jelver reiterates that **actual use of an Earth portal** is their payment *after* successful retrieval. **Neither the portal nor its safe passage is demonstrated**. The dragon also still holds a separate bounty against **Spatulo**, and Nash has not rescued the unhappy dancer from Daddy Long Legs.
+Their **Harmonium exit writ was accepted**, **Lohar supplied another set of disguises**, and **the promised equipment actually arrived**: spell scrolls, Nash's ring, Hope's +2 dagger, travel gear, and **Fox and Scully with bullets but not Smokey's belt**. That restores the firearms to the group's reach, even though **Scully really left Hope in E090**; the older “Mulder” naming requires review. **Vorel has the borrowed Shatter**. They have traveled to the **Dark Below airship hangar**, where gnomes tend a ship and an elephant-like captain shows them aboard. **The captain's exact name and the ship's name remain uncertain**, and **there has been no takeoff or portal passage**.
 
-Hope and Stanley's **Weir-marked souls**, **Kanja's reported murder**, Nothing's Pelvis/Abyss kidnapping, and the **Traversal Drive, Principle, Chance, Sira and Eddie** remain unresolved. **This narrative currently ends at E091**, with the group still in the Hive negotiating a dangerous robbery, not standing aboard an airship or entering the White Tower. The [E091 dossier](../episodes/E091.md), [source comparison](../reports/E091_ASR_COMPARISON_2026-10-23.md) and [chronology](../world/CHRONOLOGY.md) preserve the exact limits of this research.
+The captured **real Bishop Stevius**, Hope and Stanley's **Weir inscriptions**, **Kanja's reported murder**, Nothing's Pelvis/Abyss kidnapping, and the **Traversal Drive, Principle, Chance, Sira and Eddie** have no new resolution. **This narrative currently ends at E092 in the hangar**, not on the other side of its great portal. [E092 dossier](../episodes/E092.md) · [comparison](../reports/E092_ASR_COMPARISON_2026-10-23.md) · [chronology](../world/CHRONOLOGY.md).
 
 ### Later commentary, separate from the action
 
