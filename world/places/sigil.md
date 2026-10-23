@@ -1,6 +1,6 @@
 # Sigil — City of Doors (The Wastes, E082 onward)
 
-> **First Wastes appearance:** [E082 — Binch Better Have My Money](../../episodes/E082.md). Evidence comes from the [processed ASR](../../sources/The%20Wastes%20S1E082.%20Binch%20Better%20Have%20My%20Money.parakeet.processed.srt), **not independently audio-verified**. **Sigil is part of The Wastes' third arc, not the separate Inverse reality.**
+> **First Wastes appearance:** [E082 — Binch Better Have My Money](../../episodes/E082.md). Evidence comes from the [processed ASR](../../sources/The%20Wastes%20S1E082.%20Binch%20Better%20Have%20My%20Money.parakeet.processed.srt), **not independently audio-verified**. **Sigil is part of The Wastes' fourth arc, not the separate Inverse reality.**
 
 ## Directly witnessed
 

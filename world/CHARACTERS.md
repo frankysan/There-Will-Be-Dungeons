@@ -1,8 +1,8 @@
 # Characters and participants — campaign reference index (through E097)
 
-**Spoilers:** Core table retains its **Arc One E054 snapshot**; later status updates cover corrected **E081** and the **E082–E097 Arc Three developments**, with separate March/April/June/July/August/September/October/November-publication cast Q&As. The [Year One Q&A](../episodes/BONUS-2019-03.md) is not a played episode. **Quality:** These profiles synthesize provisional processed Parakeet SRT research; **they have not been checked against the audio**. For a story rather than an index, see [Arc One](../narrative/ARC_ONE.md).
+**Spoilers:** Core table retains its **Arc Two E054 snapshot**; later status updates cover corrected **E081** and the **E082–E097 Arc Four developments**, with separate March/April/June/July/August/September/October/November-publication cast Q&As. The [Year One Q&A](../episodes/BONUS-2019-03.md) is not a played episode. **Quality:** These profiles synthesize provisional processed Parakeet SRT research; **they have not been checked against the audio**. For a story rather than an index, see [Arc One](../narrative/ARC_ONE.md) and [Arc Two](../narrative/ARC_TWO.md).
 
-This is now the **subject-focused reference index**, not the append-only episode-batch ledger. The earlier 88,000-character source-first [character compendium is preserved](../research/legacy/2026-10-21/WORLD_CHARACTERS.md); the complete [pre-second-arc consolidation index](../research/legacy/2026-10-22/CHARACTERS_PRE_SECOND_ARC_CONSOLIDATION.md) preserves every additional interim status paragraph. Both archives retain their research history. A character's **earlier beliefs, reported fate and later observed status** must remain distinct. Roles in the podcast are not in-world identities.
+This is now the **subject-focused reference index**, not the append-only episode-batch ledger. The earlier 88,000-character source-first [character compendium is preserved](../research/legacy/2026-10-21/WORLD_CHARACTERS.md); the complete [pre-third-arc consolidation index](../research/legacy/2026-10-22/CHARACTERS_PRE_SECOND_ARC_CONSOLIDATION.md) preserves every additional interim status paragraph. Both archives retain their research history. A character's **earlier beliefs, reported fate and later observed status** must remain distinct. Roles in the podcast are not in-world identities.
 
 ## The four protagonists
 
@@ -17,7 +17,7 @@ This is now the **subject-focused reference index**, not the append-only episode
 
 ## Recurring companions and people close to the party
 
-| Person | Arc One situation / why it matters | Profile |
+| Person | Arcs One–Two situation / why it matters | Profile |
 | --- | --- | --- |
 | **Buttons** | Intelligent talking cat with Arcanum ties; **killed by Vorel E049**. Only in the **post-arc Q&A** does Beau reveal Buttons' love of Stanley and intended Arcanum intervention | [Buttons](characters/buttons.md) |
 | **P0D / Pod** | Pixie whose testimony introduced the pixie-harvesting trade; involuntarily transformed by **Monsoon's Order 26 E049**, then **killed by Diontalus E050** despite Nash's efforts | [P0D](characters/p0d.md) |
@@ -55,11 +55,11 @@ This is now the **subject-focused reference index**, not the append-only episode
 - **Status is as of E054 unless explicitly dated otherwise**. An earlier “alive,” “missing” or “rumored dead” entry remains correct as history of what was known *then*.
 - **Confirmed display orthography:** **Diontalus** ([D-026](../project/DECISIONS.md)), **Eye of Groxl** one artifact ([D-028](../project/DECISIONS.md)). **Tietkalla** has cast-written support in the matched context. No spelling choice replaces audio review.
 - **GM Q&A disclosures** about Buttons' romantic motives, Nash's engine-heart origin or unused pixie missions are **retrospective information**, not in-story actions ([BONUS-2019-03](../episodes/BONUS-2019-03.md)).
-- **Completeness:** This index highlights the principal Arc One cast; the complete earlier list of minor NPCs and source-specific first appearances remains in the [archive](../research/legacy/2026-10-21/WORLD_CHARACTERS.md), not erased or declared nonexistent. Names or actor roles not yet corroborated require a separate review.
+- **Completeness:** This index highlights the principal Arcs One–Two cast; the complete earlier list of minor NPCs and source-specific first appearances remains in the [archive](../research/legacy/2026-10-21/WORLD_CHARACTERS.md), not erased or declared nonexistent. Names or actor roles not yet corroborated require a separate review.
 
-[Reference portal](README.md) · [story narrative](../narrative/ARC_ONE.md) · [evidence ledger](CONSISTENCY_LEDGER.md) · [open review queue](../project/REVIEW_QUEUE.md).
+[Reference portal](README.md) · [Arc One](../narrative/ARC_ONE.md) · [Arc Two](../narrative/ARC_TWO.md) · [evidence ledger](CONSISTENCY_LEDGER.md) · [open review queue](../project/REVIEW_QUEUE.md).
 
-## Second arc — the four protagonists from coronation to the Drive
+## Third arc — the four protagonists from coronation to the Drive
 
 | Character | Last demonstrated arc developments | E081 source cutoff |
 | --- | --- | --- |
@@ -68,9 +68,9 @@ This is now the **subject-focused reference index**, not the append-only episode
 | **[Nash Maggard](characters/nash-maggard.md)** | E096 **Walnut chants and Vorel pours broth**, black cloud escapes **Nash, cured**. **Encourages Walnut, learns phonetic blessing and helps cure more knights**, even while Stanley stays with Alentris. **Hope later discloses voice**; **Nash/Vorel/Hope/Walnut approach restricted demon compendium**. | **No Nash/demon collision**, no gate opened; replacement ship only scheduled. |
 | **[Stanley / Diontalus](characters/stanley-diontalus.md)** | **Principle extracts Diontalus into crystal E059**. Stanley vows to save **Sira** after Follow's death and refuses Cerinthala's false obligations despite **cursed amulet**. Receives **spell-storage ring**, proposes self-sacrifice, performs **Moha Augury**. | **Sira actually escapes alive** with Eddie; Stanley joins all four in crimson beam, **disperses and is GM-declared dead**. No later Diontalus recovery shown. |
 
-The **previous Arc One table above** represents the E054 state at that time; this second-arc table is the **latest researched cutoff**. The detailed character profiles own history, equipment and ambiguous mechanics, not this index.
+The **previous Arcs One–Two table above** represents the E054 state at that time; this third-arc table is the **latest researched cutoff**. The detailed character profiles own history, equipment and ambiguous mechanics, not this index.
 
-## Second arc — people, witnesses and changing fates
+## Third arc — people, witnesses and changing fates
 
 | Person or group | What is actually learned or played | Still uncertain |
 | --- | --- | --- |
@@ -86,7 +86,7 @@ The **previous Arc One table above** represents the E054 state at that time; thi
 | **Dolo Popio and Quizquaz** | **Hope destroys manifested Dolo body E081**; **Quizquaz appears and bargains** during the Drive decision. [E081](../episodes/E081.md) | Demon's enduring essence, soul contract and cosmic claims |
 | **Softhead, Dusthill returnees and Nobiery** | Softhead negotiates on Principle's behalf; Hope mutilates him. **Named Dusthill captives return E059**. Nobiery confesses concealed Soulbroker theology. [E055](../episodes/E055.md)–[E059](../episodes/E059.md) | Individual missing-person census, exact orthography and larger theology |
 
-## Third arc — Sigil newcomers and changed fates (E082–E097)
+## Fourth arc — Sigil newcomers and changed fates (E082–E097)
 
 **Spoiler horizon:** [E082](../episodes/E082.md)–[E097](../episodes/E097.md), **processed-ASR only**. E081's declaration of deaths remains true *at its cutoff*. E082–E087 show survivors and inert petitioners; **E088 actually plays Hope/Stanley's resurrection and corrects the supposed Sigil-wide magic suppression**.
 
@@ -100,12 +100,12 @@ The **previous Arc One table above** represents the E054 state at that time; thi
 | **[Squirts](characters/squirts.md)** (**Kristen's temporary PC**) | With infant **Chunks**, helps fulfill temple bargain and **stays with Kidigree in Chapel of Laughter** after original PCs return. | **Not dead or erased**; previously burned child survives; potential later return unknown. |
 | **[Nothing](characters/nothing.md)** (**Jon's temporary PC**) | Escorts restored Hope/Stanley, **supplies clothing and light**, then potentially remains Soggy Feather contact. Mirror shows **Mind Master accompanied by Crimson Moon enforcers**. | **Pelvis/Abyss kidnapping remains unperformed**; E086 assassination employer unproven; future role not fixed. |
 
-**Latest E097 status:** [Vorel](characters/vorel.md), [Nash](characters/nash-maggard.md) and [Hope](characters/hope-akmenos.md) **break open the restricted library portcullis**; Hope reads the *Monstrous Compendium*, but finds **no named demon**. **Vorel fetches Walnut only afterward**. Stanley rejoins the group later and proposes **a roof/teleport rendezvous** at a council where **Alentris rescinds the earlier death sentence**, reporting a **celestial pegasi escort expected by nightfall**. **No Fist movement, new ship arrival or key handoff** at E097 cutoff. The detailed character profiles incorporate these E097 changes; the four table rows above retain the earlier E096 checkpoint for comparison. 
+**Latest E097 status:** [Vorel](characters/vorel.md), [Nash](characters/nash-maggard.md) and [Hope](characters/hope-akmenos.md) **break open the restricted library portcullis**; Hope reads the *Monstrous Compendium*, but finds **no named demon**. **Vorel fetches Walnut only afterward**. Stanley rejoins the group later and proposes **a roof/teleport rendezvous** at a council where **Alentris rescinds the earlier death sentence**, reporting a **celestial pegasi escort expected by nightfall**. **No Fist movement, new ship arrival or key handoff** at E097 cutoff. The detailed character profiles incorporate these E097 changes; the four table rows above retain the earlier E096 checkpoint for comparison.
 
 **E097 sources:** [Episode dossier](../episodes/E097.md) · [ASR comparison](../reports/E097_ASR_COMPARISON_2026-10-23.md). **E096 sources:** [Episode dossier](../episodes/E096.md) · [ASR comparison](../reports/E096_ASR_COMPARISON_2026-10-23.md). **E095 sources:** [Episode dossier](../episodes/E095.md) · [ASR comparison](../reports/E095_ASR_COMPARISON_2026-10-23.md). **E094 sources:** [Episode dossier](../episodes/E094.md) · [ASR comparison](../reports/E094_ASR_COMPARISON_2026-10-23.md). **E093 sources:** [Episode dossier](../episodes/E093.md) · [two-ASR comparison](../reports/E093_ASR_COMPARISON_2026-10-23.md). **E092 sources:** [Episode dossier](../episodes/E092.md) · [ASR comparison](../reports/E092_ASR_COMPARISON_2026-10-23.md). **E091 sources:** [Episode dossier](../episodes/E091.md) · [two-ASR comparison](../reports/E091_ASR_COMPARISON_2026-10-23.md). **E090 sources:** [Episode dossier](../episodes/E090.md) · [two-ASR comparison](../reports/E090_ASR_COMPARISON_2026-10-22.md). **E089 sources:** [Episode dossier](../episodes/E089.md) · [two-ASR comparison](../reports/E089_ASR_COMPARISON_2026-10-22.md). **Recurring Sigil figures:** [Kidigree and Carr in the Chapel of Laughter](places/sigil.md), [Bill and Pam at Soggy Feather](places/sigil.md), [Mind Master and Kanja](../episodes/E088.md), organiser Terrence, and Squirts's Pelor-clergy contacts remain provisional names and roles with their own evidence boundaries.
 
 ## Evidence and navigation
 
-**Historical status rows were not deleted as research:** [the full pre-second-arc character index](../research/legacy/2026-10-22/CHARACTERS_PRE_SECOND_ARC_CONSOLIDATION.md) retains each E055–E081 interim checkpoint. Refer to [Arc Two](../narrative/ARC_TWO.md) for the connected story, [chronology](CHRONOLOGY.md) for date/order and [ledger](CONSISTENCY_LEDGER.md) for **currently open** identity or fate questions.
+**Historical status rows were not deleted as research:** [the full pre-third-arc character index](../research/legacy/2026-10-22/CHARACTERS_PRE_SECOND_ARC_CONSOLIDATION.md) retains each E055–E081 interim checkpoint. Refer to [Arc Three](../narrative/ARC_THREE.md) for the connected story, [chronology](CHRONOLOGY.md) for date/order and [ledger](CONSISTENCY_LEDGER.md) for **currently open** identity or fate questions.
 
 **E081's GM-declared deaths remain established at that cutoff.** E082–E087 subsequently show **Vorel alive**, **Nash in a regenerating floating heart**, **Hope/Stanley in petitioner/crypt custody**, and **a Lady-like woman-shaped green manifestation removing Ventro**. **E088 supersedes Hope/Stanley's custody status with a played restoration and corrects Nash's supposed Sigil spell limitation**. Nothing's commission remains open. **Sira is released, Eddie survives, Chance is missing** at their last E081 appearance; no new observations of them, Earth or the Drive are provided. No new audio-verification or source correction was performed during this structural pass.

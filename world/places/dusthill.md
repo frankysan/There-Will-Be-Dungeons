@@ -1,6 +1,6 @@
 # Dusthill
 
-**Known source variant:** `Dust Hill` in ASR. **Type:** Protected wasteland settlement and first meeting place of the protagonists. **Spoilers:** Arc One through E054. **Evidence:** Early GM scene exposition and later episode dossiers, presently processed-SRT-derived.
+**Known source variant:** `Dust Hill` in ASR. **Type:** Protected wasteland settlement and first meeting place of the protagonists. **Spoilers:** Arcs One–Two through E054. **Evidence:** Early GM scene exposition and later episode dossiers, presently processed-SRT-derived.
 
 ## Setting
 

@@ -1,4 +1,4 @@
-# Nothing — kenku guide (Arc 3)
+# Nothing — kenku guide (Arc 4)
 
 > **First appearance:** [E082](../../episodes/E082.md), unnamed kenku in the Soggy Feather. **Name explicitly used:** [E083](../../episodes/E083.md), [processed Parakeet SRT](../../sources/The%20Wastes%20S1E083.%20Trash%20Monkey%20and%20The%20Bird.parakeet.processed.srt). **Jon's new character**, **not** resurrected Stanley. This is **provisional processed-ASR research**, not audio verification. Spoilers through E083.
 

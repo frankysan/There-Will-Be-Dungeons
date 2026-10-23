@@ -30,4 +30,4 @@
 
 Use the recording, not majority vote, to settle **Ventro/Kanja/Kidagri/Minno** and the place title; independently listen to the **~01:45–01:49 disappearance** and **~02:39–02:45 ninja cliffhanger** before moving either event to an audio-confirmed tier. Cross-check official character sheets/notes before canonizing a specific *magic-vs-divine suppression* rule. Keep original SRTs intact, append verified corrections and timestamps to the [review queue](../project/REVIEW_QUEUE.md), and reference this report from the project's [model log](../project/MODEL_TESTS.md).
 
-[E085](../episodes/E085.md) · [E084 comparison](E084_ASR_COMPARISON_2026-10-22.md) · [Arc Three narrative](../narrative/ARC_THREE.md).
+[E085](../episodes/E085.md) · [E084 comparison](E084_ASR_COMPARISON_2026-10-22.md) · [Arc Four narrative](../narrative/ARC_FOUR.md).

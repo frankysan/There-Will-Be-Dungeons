@@ -1,6 +1,6 @@
 # Bok Bok
 
-**Alternative ASR spellings:** `Bokbak`, `Buckbuck`, `Bachbok`; **Bok Bok** appears in the fan wiki and is the established project display. **Identity:** Goblin companion of Vorel. **Arc One status:** Alive and back with Vorel by E054.
+**Alternative ASR spellings:** `Bokbak`, `Buckbuck`, `Bachbok`; **Bok Bok** appears in the fan wiki and is the established project display. **Identity:** Goblin companion of Vorel. **Arc Two status:** Alive and back with Vorel by E054.
 
 Vorel captures or brings along Bok Bok during Dusthill's post-raid events in E006, and the goblin gradually becomes an enduring companion, admirer and source of unexpected loyalty. He is not a member of the original four PCs and should not be inserted into E001–E005 merely because he later appears in every party summary.
 

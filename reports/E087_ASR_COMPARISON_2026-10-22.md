@@ -1,6 +1,6 @@
 # E087 — We have a winner: dual-ASR source comparison (2026-10-22)
 
-> **Two machine-generated subtitle exports of the same played episode.** No direct audio verification, new inference run, human word reference, or original-SRT editing. [E087 dossier](../episodes/E087.md) · [Arc Three narrative](../narrative/ARC_THREE.md).
+> **Two machine-generated subtitle exports of the same played episode.** No direct audio verification, new inference run, human word reference, or original-SRT editing. [E087 dossier](../episodes/E087.md) · [Arc Four narrative](../narrative/ARC_FOUR.md).
 
 ## Intake and normalized text disagreement
 

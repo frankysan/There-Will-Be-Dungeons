@@ -1,6 +1,6 @@
 # Places and travel — campaign reference index (through E096)
 
-**Spoilers:** Main place table retains its **Arc One E054 cutoff**; later additions now cover corrected **E081** and the separately archived cast Q&As. **Status:** Consolidated first-pass geographic index, sourced to [individual location profiles](places/dusthill.md) and [episode dossiers](../episodes/E000.md). The earlier 65,000-character [place research compendium is archived](../research/legacy/2026-10-21/WORLD_PLACES.md); the [full pre-second-arc index](../research/legacy/2026-10-22/PLACES_PRE_SECOND_ARC_CONSOLIDATION.md) preserves later appended route/cutoff descriptions. Proper names and maps are not automatically verified by processed transcripts.
+**Spoilers:** Main place table retains its **Arc Two E054 cutoff**; later additions now cover corrected **E081** and the separately archived cast Q&As. **Status:** Consolidated first-pass geographic index, sourced to [individual location profiles](places/dusthill.md) and [episode dossiers](../episodes/E000.md). The earlier 65,000-character [place research compendium is archived](../research/legacy/2026-10-21/WORLD_PLACES.md); the [full pre-third-arc index](../research/legacy/2026-10-22/PLACES_PRE_SECOND_ARC_CONSOLIDATION.md) preserves later appended route/cutoff descriptions. Proper names and maps are not automatically verified by processed transcripts.
 
 ## Main settlements, destinations and otherworldly sites
 
@@ -34,7 +34,7 @@
 
 **Dusthill** → desert pursuit and **Leopold facility** → captive transfer to **Slavetown** → storm and **Black Mine** → supernatural **Château Weir** → return through mine and **Liberators** → Golden Land challenge and **oil sands** → **Trashburg / Tietkalla keep** → underground library, prison, crypt and old throne → split froghemoth's **desert lower carcass** → **devastated Tietkalla** and Hope's accession.
 
-This is **narrative order, not a surveyed map or complete physical road itinerary**. The [Arc One narrative](../narrative/ARC_ONE.md) expands the connections. The [episode chronology](CHRONOLOGY.md) gives time-based detail.
+This is **narrative order, not a surveyed map or complete physical road itinerary**. The [Arc One](../narrative/ARC_ONE.md) and [Arc Two](../narrative/ARC_TWO.md) narratives expand the connections. The [episode chronology](CHRONOLOGY.md) gives time-based detail.
 
 ## Source and map cautions
 
@@ -46,11 +46,11 @@ This is **narrative order, not a surveyed map or complete physical road itinerar
 
 [Reference portal](README.md) · [characters](CHARACTERS.md) · [consistency ledger](CONSISTENCY_LEDGER.md) · [review queue](../project/REVIEW_QUEUE.md).
 
-## Second arc — geography and route from Tietkalla to CHIDS
+## Third arc — geography and route from Tietkalla to CHIDS
 
-The **Arc One tables above** preserve that era's locations as of E054. These are the **new/changed sites by E081**. Physical travel and claimed cosmic history are different evidence tiers; the [chronology](CHRONOLOGY.md) supplies the event order and each linked site profile keeps source-level disputes.
+The **Arcs One–Two tables above** preserve that era's locations as of E054. These are the **new/changed sites by E081**. Physical travel and claimed cosmic history are different evidence tiers; the [chronology](CHRONOLOGY.md) supplies the event order and each linked site profile keeps source-level disputes.
 
-| Site or route | Second-arc played significance | Current cutoff / reference |
+| Site or route | Third-arc played significance | Current cutoff / reference |
 | --- | --- | --- |
 | **[Tietkalla](places/tietkalla.md) / Golden Sands** | Three months of rebuilding, **Hope's labor reforms**, Softhead's return, an assassin, **deadly stonefall**, Principle's court negotiation and **actual Dusthill captives' return**. | **Rail trade promised but no functioning railroad shown**; Hope later disappears in E081. [E055](../episodes/E055.md)–[E059](../episodes/E059.md) |
 | **Green skyfall crater and Wormfather route** | An anomalously vegetated crater and drag marks discovered after stonefall; battle with parasite-bearing bugbears. | **Crater seen, but Quizquaz's dragon-cause theory unverified**. [E057](../episodes/E057.md)–[E058](../episodes/E058.md) |
@@ -63,7 +63,7 @@ The **Arc One tables above** preserve that era's locations as of E054. These are
 | **CHIDS — recreation/engineering approaches** | Hive **physically transports** the group, and **Chance/Eddie are rescued**. Disguised party bypasses ape checkpoint; crystalline four-finger door **bypassed by Stanley carrying Hope through Dimension Door, then linked portals**. | The biometric lock was **not truly opened**. [E078](../episodes/E078.md)–[E079](../episodes/E079.md) |
 | **CHIDS — Traversal Drive cavern and void-like battlefield** | Machine and altered dragon-worm physically seen E079, **Hope's two rockets**, **Nash kills commander E080**, scene changes to starry platforms; **Hope kills manifested Dolo Popio E081**. | **Chance drifts away unlocated; Sira exits beam and is alive with Eddie; four heroes vanish and are GM-declared dead**. Earth's lasting state/Drive's permanent fate unseen. [E079](../episodes/E079.md)–[E081](../episodes/E081.md) |
 
-## Third arc — Sigil and Outlands (E082–E096)
+## Fourth arc — Sigil and Outlands (E082–E096)
 
 **[Sigil / City of Doors](places/sigil.md)** becomes the directly visited setting after the shared E081 beam dissolution. In [E082](../episodes/E082.md), Vorel awakens alive below its **impossibly curving, roof-filled skyline**, Nash persists as a floating heart, and **Hope/Stanley are found as inert bodies**. A **Welcome Center** supplies meal/lodging vouchers, and the **Soggy Feather** becomes their base. In [E083](../episodes/E083.md), **Squirts leads them to a crypt-bearing trickster church that vanishes from view after exit**, the two friends' bodies are entrusted to its priest, a **Pelor-linked delegation** visits, and the group registers for marionette fighting at **76 Mulberry Lane**, then visits **Royce Gymnasium** and an **M-sports library**. **No verified portal home, completed resurrection, tournament match or prize occurs.** The [Sigil location profile](places/sigil.md) distinguishes witnessed features from **Binch/Bill/priest claims** about planes, petitioners, Lady of Pain and the Weir. **This is The Wastes, not Inverse.**
 
@@ -99,4 +99,4 @@ In [E085](../episodes/E085.md), the action remains at **Royce Gymnasium/Colosseu
 
 **Gordon Shuttle Bay** is described by Cerinthala but **not visited** in the reviewed E055–E081 episodes; **Elhandar** is the elf's desired refuge, **not a destination reached by the party**. A **space-like scene change** during Dolo Popio's battle is **visibly depicted**, but this alone does not prove CHIDS moved into literal outer space. The skeletal visitors' **warp coil**, CHIDS **portal-pair apparatus** and central **Traversal Drive** are separate objects. The [portal apparatus reference](technology/portal-device.md) records the red/green surface links and the necrotic beam.
 
-The [older additive place descriptions](../research/legacy/2026-10-22/PLACES_PRE_SECOND_ARC_CONSOLIDATION.md) retain every original research cutoff through E081. The **active place profiles** are the preferred source for current location lore. See the [Arc Two narrative](../narrative/ARC_TWO.md), [consistency ledger](CONSISTENCY_LEDGER.md) and [audio-review queue](../project/REVIEW_QUEUE.md) for unresolved claims and listening priorities.
+The [older additive place descriptions](../research/legacy/2026-10-22/PLACES_PRE_SECOND_ARC_CONSOLIDATION.md) retain every original research cutoff through E081. The **active place profiles** are the preferred source for current location lore. See the [Arc Three narrative](../narrative/ARC_THREE.md), [consistency ledger](CONSISTENCY_LEDGER.md) and [audio-review queue](../project/REVIEW_QUEUE.md) for unresolved claims and listening priorities.

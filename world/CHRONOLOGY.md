@@ -1,8 +1,8 @@
-# Campaign chronology — four Wastes arcs (Arc Three/Arc Four transition inside E101)
+# Campaign chronology — five Wastes arcs (Arc Four/Arc Five transition inside E101)
 
 **Horizon:** Corrected **E000–E101** main *The Wastes* campaign, with explicit exceptions for the **E013.5 supplemental**, **E043 holiday one-shot** and the **March 2019 Q&A**. **Spoilers:** Main Wastes through E082 and March/April/June/July/August/September/October/November-publication 2019 bonus discussions. **Research status:** The events below are consolidated from **unverified processed Parakeet episode dossiers**, not independent listening; times within individual episodes remain in their [source-first dossiers](../episodes/E000.md). The full **pre-Phase-C chronology**, including detailed recorded cue windows and historic uncertainties, is [preserved here](../research/legacy/2026-10-22/WORLD_CHRONOLOGY.md).
 
-**Reading key:** Each row covers a **played episode or directly observed outcome** in narrative order. A **reported death, genealogy, prophecy, pact history or offscreen action** remains an attributed report unless independently played. The **episode's own cutoff** matters: E048's rescue is real even though Tedna dies E050; E048's report about Angelashi is not proof she died before her E054 rescue. For a connected story, use [Arc One narrative](../narrative/ARC_ONE.md); for subject facts use [world history](WORLD.md) and [character](CHARACTERS.md) / [place](PLACES.md) profiles.
+**Reading key:** Each row covers a **played episode or directly observed outcome** in narrative order. A **reported death, genealogy, prophecy, pact history or offscreen action** remains an attributed report unless independently played. The **episode's own cutoff** matters: E048's rescue is real even though Tedna dies E050; E048's report about Angelashi is not proof she died before her E054 rescue. For a connected story, use [Arc One](../narrative/ARC_ONE.md) and [Arc Two](../narrative/ARC_TWO.md) narratives; for subject facts use [world history](WORLD.md) and [character](CHARACTERS.md) / [place](PLACES.md) profiles.
 
 ## Before the main campaign — accounts, not dates
 
@@ -12,7 +12,7 @@
 | **Character introductions [E000](../episodes/E000.md)** | **Nash** recounts Solar Mines/Blood Canyons; **Hope** articulates a tiefling past and desire to change history; **Stanley** speaks of government; **Vorel** travels from lizardfolk lands. These are **introductions, subjective backstories and goals**, not all simultaneous events on E001's day. |
 | **Historical settings, uncovered later** | **Pristine's change to Slavetown** is explained in an out-of-character GM briefing [E013](../episodes/E013.md). **Tietkalla's ancient houses, alleged vampiric council, Night Pasture and hidden army** are described by competing ancient actors [E048](../episodes/E048.md) / [E051](../episodes/E051.md). Their internal history is **not fitted to invented dates**; the return of the army happens much later **E054**. |
 
-## Main Arc One — one continuous sequence
+## Arc One — Becoming the Heroes of the Wastes (E000–E026)
 
 The following table is ordered by **played narrative events** rather than by file creation date or later audience revelations. Its final column links to the **specific episode dossier** where the event is seen, stated or reported.
 
@@ -43,7 +43,12 @@ The following table is ordered by **played narrative events** rather than by fil
 | **Château Weir** | [E023](../episodes/E023.md) | At the **Soulbroker's château**, **Hope, Nash and Stanley sign the soul compact** concerning defeat of the Principle; **Vorel refuses**. Private visions/claimed penalties should retain speaker and experience labels. |
 | **Château Weir / Mine** | [E024](../episodes/E024.md) | Nash's **dragon-metal heart** and initial **black-dragon form** are revealed. Artifacts, route restrictions and gifts are discussed; **Soulbroker claims** are not all proven mechanics. |
 | **Black Mine** | [E025](../episodes/E025.md) | They escape the lower mine on **Nash's dragon-assisted ascent**, fight Oilbeard guards, and violently interrogate **Scrolly**. **Dorothy can still be heard**, rather than simply disappearing. |
-| **Road / Liberators** | [E026](../episodes/E026.md) | The party frees/rescues **Bok Bok, Bertrand and Trigger**, recovers **Fate 4** and engages with the **Liberators**. Reported affiliations are not always independent proof. |
+| **Road / Liberators** | [E026](../episodes/E026.md) | The party frees/rescues **Bok Bok, Bertrand and Trigger**, recovers **Fate 4** and engages with the **Liberators**. The group adopts the name **Heroes of the Wastes** at the close. Reported affiliations are not always independent proof. |
+
+## Arc Two — The Road to the Crown (E027–E054, excluding E043)
+
+| Main narrative stretch | Episode | Event and episode-era knowledge |
+| --- | --- | --- |
 | **Road / Golden Land** | [E027](../episodes/E027.md) | Young **Tedna** appears as stowaway and is hurt in an RV accident; **Diptak's lizardfolk challenge** begins, with outcome held for E028. |
 | **Golden Land / oil sands** | [E028](../episodes/E028.md) | **Diptak yields alive** and pledges Golden Land support; **Buttons** the talking cat first joins the travelers. Enchanting song/oil sands separate the party. |
 | **Oil sands** | [E029](../episodes/E029.md) | Stanley, seeking the companions, encounters **Diontalus** and **refuses a pact**; the being **forces entry into Stanley's body**. This is not voluntary Soulbroker agreement. |
@@ -72,9 +77,9 @@ The following table is ordered by **played narrative events** rather than by fil
 | **Desert return** | [E053](../episodes/E053.md) | The beast **splits**: upper cocoon **escapes skyward**, lower body **falls/dies**. Party escapes lower carcass using a **rowboat robe patch**. Vorel acquires **Eye of Groxl**, independent of his new scale-color change; party retrieves **part** of a hidden hoard and rides **Nash as young dragon** toward the keep. |
 | **Tietkalla throne** | [E054](../episodes/E054.md) | **Angelashi found and freed alive**, disproving earlier death report. **Monsoon escapes as mist** after warning of Andreeste. **Nobiery returns with hundreds of armed tieflings and crowns Hope**; **Vorel executes captive Suck Master Din** at her signal. Leaders discuss rebuilding, **not yet completed**. GM declares **arc end** and proposes future downtime. |
 
-## Arc Two — one played sequence after the three-month jump
+## Arc Three — one played sequence after the three-month jump
 
-The following **episode cutoffs** describe what was established *by that recording*. A later row can supersede an earlier “still missing,” “not yet performed” or “alive” statement without making the earlier row historically wrong. For narrative flow, read [consolidated Arc Two](../narrative/ARC_TWO.md); for timestamps, read the linked dossiers.
+The following **episode cutoffs** describe what was established *by that recording*. A later row can supersede an earlier “still missing,” “not yet performed” or “alive” statement without making the earlier row historically wrong. For narrative flow, read [consolidated Arc Three](../narrative/ARC_THREE.md); for timestamps, read the linked dossiers.
 
 | Episode | Played event, time-of-knowledge change and evidence limit |
 | --- | --- |
@@ -106,7 +111,7 @@ The following **episode cutoffs** describe what was established *by that recordi
 | [E080 — What's with the fire truck](../episodes/E080.md) | **Nash in dragon form kills large illithid commander**. **Chance and Eddie revived after danger**; Stanley animates mundane pipes, not magic swords. **Dolo Popio shifts scene to void-like battlefield**; Vorel demonstrates Eye flame-blade. |
 | [E081 — There's Always A Chance In Space](../episodes/E081.md) | **Chance drifts away unlocated**; **Hope kills Dolo Popio's manifested body**. **Sira escapes beam alive beside Eddie**. Four protagonists **enter crimson beam and disperse; GM explicitly declares dead**, permanence and Earth/Drive aftermath unseen. |
 
-## Arc Three — Sigil and the White Tower (E082–E101 until Hope's departure)
+## Arc Four — Sigil and the White Tower (E082–E101 until Hope's departure)
 
 **No proved time jump:** E082 begins with Vorel's subjective cosmic journey after the E081 beam activation. **Time seems to stretch into millennia**, but there is **no established number of days or years of world time elapsed**. Unlike the real three-month fiction jump before E055, this should not be treated as a dated chronological skip.
 
@@ -142,9 +147,9 @@ The following **episode cutoffs** describe what was established *by that recordi
 
 | **[E100 — Misty Brain Mist](../episodes/E100.md)** | **Alentris and Fist chest actually survive the E099 fall** when Stanley **Dimension Doors beside Alentris and Feather Falls her** before impact; chest hovers unopened near ground. **Nash's black-dragon form ends under fire, separating his body from the dead conjoined demon husk**; giant city-bearing moon remains. **Three airships send a new four-armed minotaur, two orcs and a hooded mage** demanding chest; **Hope later recognizes hooded Spatulo (?) from E090**, motives unverified. **Stanley and Alentris bring chest back to roof** but the minotaur **knocks her unconscious and jumps off with closed chest**. After Mass Suggestion/Fear, Feather Fall and Reverse Gravity, **Nash Thunder Steps with Hope to ground**, while second Fire Storm **knocks Stanley and Alentris unconscious** as they descend. **Vorel, still Hasted, retrieves pendant key from Stanley, fits it into chest lock and ACTUALLY OPENS Fist**, observing a **severed hand inside the gauntlet** and **picking up the whole Fist without wearing it**. **Hope alone hears a private summons to meet from an unidentified voice**, while Vorel is separately described receiving dark whispers; no proven corruption/voice identity or successful retreat/Earth return. [Two-ASR report](../reports/E100_ASR_COMPARISON_2026-10-23.md). |
 
-| **[E101 — A New Hope, before departure](../episodes/E101.md)** | **Stanley returns from unconsciousness on a natural-20 death save and Healing Words Alentris**; Hope's broom lowers them. Green commander stuns Vorel, he **drops the opened Fist**, and Hope captures it after the broom cannot cross the ward holding exposed relic. Privately instructed, **Hope cuts away her own right hand and bonds the severed Hand of the Voice**, regaining full health and receiving major cursed power/appearance changes. **The hooded patron restores the Eye of Groxl to Vorel**, separate **gauntlet drops**; Hope **casts Finger of Death** and raises the demon as a controlled zombie. **Hope chooses to leave the original party alone**, follows hidden figure through dretch army. **Demon General Carthax says Orcus orders withdrawal**, demon–devil armistice/compact dissolves, demons actually retreat. **Stone portal closes after patron, Hope and Spatulo cross** at **~01:57–01:59**. **This is the confirmed end of Arc Three and the start of Arc Four within the SAME E101**, not E102. [E101 full-ASR report](../reports/E101_ASR_COMPARISON_2026-10-23.md). |
+| **[E101 — A New Hope, before departure](../episodes/E101.md)** | **Stanley returns from unconsciousness on a natural-20 death save and Healing Words Alentris**; Hope's broom lowers them. Green commander stuns Vorel, he **drops the opened Fist**, and Hope captures it after the broom cannot cross the ward holding exposed relic. Privately instructed, **Hope cuts away her own right hand and bonds the severed Hand of the Voice**, regaining full health and receiving major cursed power/appearance changes. **The hooded patron restores the Eye of Groxl to Vorel**, separate **gauntlet drops**; Hope **casts Finger of Death** and raises the demon as a controlled zombie. **Hope chooses to leave the original party alone**, follows hidden figure through dretch army. **Demon General Carthax says Orcus orders withdrawal**, demon–devil armistice/compact dissolves, demons actually retreat. **Stone portal closes after patron, Hope and Spatulo cross** at **~01:57–01:59**. **This is the confirmed end of Arc Four and the start of Arc Five within the SAME E101**, not E102. [E101 full-ASR report](../reports/E101_ASR_COMPARISON_2026-10-23.md). |
 
-## Arc Four — Separate Paths (begins within E101, after Hope's portal departure)
+## Arc Five — Separate Paths (begins within E101, after Hope's portal departure)
 
 | Episode / phase | Continuity-critical played developments |
 | --- | --- |
@@ -177,7 +182,7 @@ The following **episode cutoffs** describe what was established *by that recordi
 | **Gem of Tides and city water** | Missing/reported object, with disputed claims about its purpose | **Party physically recovers Gem E050**; exact **reinstallation/flow** and any complete water reform need source review. [E050](../episodes/E050.md) · [E051](../episodes/E051.md) |
 | **Monsoon's overthrow** | The party fights Monsoon's agents and hopes to take the keep | **Monsoon escapes as mist E054**. Hope is crowned, but **city rebuilding and alleged Andreeste invasion are not yet played**. [E054](../episodes/E054.md) |
 
-## Second-arc continuity transitions — use E081 as the latest researched cutoff
+## Third-arc continuity transitions — use E081 as the latest researched cutoff
 
 | Question | Earlier source status | Resolution or boundary by E081 |
 | --- | --- | --- |
@@ -200,4 +205,4 @@ This is the **chronological event index**, not an audio-verified corrected trans
 
 **Not an event timeline:** Cast Q&As, the E043 holiday special, the release order of E013.5, GM retrospective intentions, speculative alternate futures and claims by **Quizquaz, the hive, Wall Nash, Cerinthala, Alvert, Charles Dickens and the spectral dragon**. See [editorial guide](../project/EDITORIAL_GUIDE.md), [source review queue](../project/REVIEW_QUEUE.md) and [consistency ledger](CONSISTENCY_LEDGER.md).
 
-**Preservation:** The [previous, much longer chronology](../research/legacy/2026-10-22/CHRONOLOGY_PRE_SECOND_ARC_CONSOLIDATION.md) contains every former full-length episode row and appended cutoff section. Historical Arc One chronology and its time-of-knowledge transition table are preserved above.
+**Preservation:** The [previous, much longer chronology](../research/legacy/2026-10-22/CHRONOLOGY_PRE_SECOND_ARC_CONSOLIDATION.md) contains every former full-length episode row and appended cutoff section. Historical Arcs One–Two chronology and its time-of-knowledge transition table are preserved above.

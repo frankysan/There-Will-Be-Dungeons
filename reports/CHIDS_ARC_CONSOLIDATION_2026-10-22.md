@@ -4,7 +4,7 @@
 
 ## Why this review was necessary
 
-After the E081 arc finale, several active reference rows still contained *earlier episode* current-state language. In particular, [the active ledger](../world/CONSISTENCY_LEDGER.md) left **Sira's kidnapping, the gnomes' disappearance and the unvisited Traversal Drive** open even though E078–E081 showed later outcomes. Some [place profiles](../world/PLACES.md) and [CHIDS notes](../world/places/chids.md) repeated the early unvisited/missing state without a cutoff qualifier. The [narrative guide](../narrative/README.md) was ambiguous about whether the CHIDS story arc ended. The [Arc Two narrative](../narrative/ARC_TWO.md) retained correct chronological events but lacked a navigable overview for the long E066–E081 sequence.
+After the E081 arc finale, several active reference rows still contained *earlier episode* current-state language. In particular, [the active ledger](../world/CONSISTENCY_LEDGER.md) left **Sira's kidnapping, the gnomes' disappearance and the unvisited Traversal Drive** open even though E078–E081 showed later outcomes. Some [place profiles](../world/PLACES.md) and [CHIDS notes](../world/places/chids.md) repeated the early unvisited/missing state without a cutoff qualifier. The [narrative guide](../narrative/README.md) was ambiguous about whether the CHIDS story arc ended. The [Arc Three narrative](../narrative/ARC_THREE.md) retained correct chronological events but lacked a navigable overview for the long E066–E081 sequence.
 
 This review **does not remove old checkpoints**. They remain correct *for the time they describe*, and the present cutoff is defined below.
 
@@ -25,7 +25,7 @@ This review **does not remove old checkpoints**. They remain correct *for the ti
 - **Ledger `follow.rf.sira_fates` and `chids.e079_sira_machine_state`:** historical abduction/unlocated status remains dated to E066–E080, superseded by **Sira's observed release in E081**. Follow/Rorf deaths stay unchanged; no homecoming invented.
 - **Ledger `cosmology.planet_machine` and `kervalon.breach`:** distinguish **engine physically seen E079 and controls operated E081** from the old E067/E071 **unvisited-machine cutoff**. Preserve skepticism about its alleged ancient engineering and the unrelated skeletal visitors' warp coil.
 - **World/place references:** corrected unqualified "Sira remains missing" and "party has not inspected the machine" phrasing. **Dedicated Sira-family and Kervalon profiles** now carry the E081 outcome alongside their earlier cutoffs.
-- **Arc Two reading structure:** added a short **four-phase CHIDS arc map**, emphasizing time-of-knowledge and direct observation versus NPC explanations, without rewriting or deleting the numbered narrative chapters.
+- **Arc Three reading structure:** added a short **four-phase CHIDS arc map**, emphasizing time-of-knowledge and direct observation versus NPC explanations, without rewriting or deleting the numbered narrative chapters.
 - **Narrative index:** clarified that **the CHIDS confrontation closes E081** even though the broader **Principle/infernal pact** does not have an observed final resolution.
 
 ## Last-source-cutoff register

@@ -1,25 +1,25 @@
-# Arc One documentation consolidation — implementation checklist
+# Arcs One–Two documentation consolidation — implementation checklist
 
 **Status (2026-10-22):** **Phases A–D structurally consolidated as first editorial passes**. Audio/handout verification and comprehensive minor-entity review remain open. Follow [the architecture](DOCUMENTATION_ARCHITECTURE.md) for the full target design and source-evidence rules.
 
 ## Phase A — architecture, narrative and navigation
 
 - [x] Define **research / reference / narrative / editorial** responsibilities in [architecture](DOCUMENTATION_ARCHITECTURE.md).
-- [x] Draft the first cohesive [Arc One narrative](../narrative/ARC_ONE.md) from researched E000–E054 dossiers.
+- [x] Draft the first cohesive narrative from researched E000–E054 dossiers, now split into [Arc One](../narrative/ARC_ONE.md) and [Arc Two](../narrative/ARC_TWO.md).
 - [x] Publish a short [narrative index](../narrative/README.md) and route readers from [project README](../README.md) and [world portal](../world/README.md).
 - [x] Archive pre-consolidation [root README](../research/legacy/2026-10-21/ROOT_README.md) and [world README](../research/legacy/2026-10-21/WORLD_README.md); maintain usable relative links in the snapshots.
 - [x] Preserve E013.5 earlier-in-story scene, E043 one-shot, March Q&A bonus and owner-confirmed name decisions.
 - [x] Preserve episode dossiers, SRTs, archived research and `world/entities.json` without content replacement.
 - [x] Check **all internal file links** in the new portals/narrative/policy and both archives.
 - [ ] **Audio-verify** all narrative milestones. This is an **ongoing editorial requirement**, not something claimed by the structural pass.
-- [ ] **Review the Arc One synthesis with targeted source listening** for open chronology, claimed history and disputed name issues. See [review queue](REVIEW_QUEUE.md).
+- [ ] **Review the Arcs One–Two synthesis with targeted source listening** for open chronology, claimed history and disputed name issues. See [review queue](REVIEW_QUEUE.md).
 
 ## Phase B — characters and places, first reference rewrite
 
 Start with the **four protagonists**, then **major allies/adversaries**, then major sites. Archive the full current original reference file *before replacing it*, and preserve stable backlinks. **Completed first-pass (2026-10-21):** 10 character profiles and 5 place profiles now feed concise indexes; former 88k/65k research compendia are archived. This is not an audio verification or a claim that every minor entity has a standalone page. **Do not create parallel equally authoritative profiles**.
 
 - [x] Reformat `world/CHARACTERS.md` as an **alphabetical/role-based index** with one concise paragraph per subject, linked to substantive entries (initially kept in a small number of files).
-- [x] Produce consistent first profiles for **Nash Maggard**, **Hope Akmenos**, **Stanley Billings & Diontalus** (shared body but **distinct agency**), and **Vorel**, incorporating Arc One changes and correct episode source cutoffs.
+- [x] Produce consistent first profiles for **Nash Maggard**, **Hope Akmenos**, **Stanley Billings & Diontalus** (shared body but **distinct agency**), and **Vorel**, incorporating Arcs One–Two changes and correct episode source cutoffs.
 - [x] Consolidate **Buttons** (GM Q&A motive revealed posthumously), **P0D** (involuntary transformation/death), **Tedna** (E048 rescue then E050 death), **Angelashi** (E048 mistaken death report, E054 rescue), **Bok Bok** and **Monsoon**.
 - [x] Consolidate `world/PLACES.md` and first place entries: **Dusthill**, **Slavetown**, **Black Mine**, **Château Weir**, and **Tietkalla** including **Trashburg, Teet keep, Pit of Despair and ancient under-keep**.
 - [x] Ensure **Eye of Groxl** one-artifact canonical name, cast-supported **Tietkalla** and unresolved proper-name variants are represented **only once per subject**, with provenance.

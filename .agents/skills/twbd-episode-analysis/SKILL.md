@@ -80,7 +80,7 @@ Create/update these layers **in priority order**, using existing adjacent episod
 
 **Wastes main-campaign follow-through (only material changes)**
 4. `world/CHRONOLOGY.md` and `world/CONSISTENCY_LEDGER.md`: compact major-event/cutoff changes and previously unresolved statuses, avoiding repeated full retellings.
-5. The ongoing `narrative/ARC_ONE.md`, `ARC_TWO.md` or `ARC_THREE.md`: readable connected scenes for main episodes if warranted; prefer consolidation over adding a full duplicate dossier per chapter.
+5. The appropriate narrative, `narrative/ARC_ONE.md` through `ARC_FIVE.md` (see `narrative/README.md` for boundaries): readable connected scenes for main episodes if warranted; prefer consolidation over adding a full duplicate dossier per chapter.
 6. Affected `world/characters/*.md`, `world/places/*.md` and relevant artifact/thematic pages; edit only those whose evidence or current status changes.
 7. `world/CHARACTERS.md`, `world/PLACES.md`, `world/README.md`, `narrative/README.md`, root `README.md`, or architecture document: update **only outdated navigation, spoiler horizon or summaries**, not every file automatically.
 
