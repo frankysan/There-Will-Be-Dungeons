@@ -1,6 +1,6 @@
-# Characters and participants — campaign reference index (E054 snapshot plus E117 update)
+# Characters and participants — campaign reference index (E054 snapshot plus E118 update)
 
-**Spoilers:** Core table retains its **Arc Two E054 snapshot**; later status updates cover corrected **E081** and the **E082–E117 Arc Four/Five developments in linked profiles**, with separate March/April/June/July/August/September/October/November-publication cast Q&As. The [Year One Q&A](../episodes/BONUS-2019-03.md) is not a played episode. **Quality:** These profiles synthesize provisional processed Parakeet SRT research; **they have not been checked against the audio**. For a story rather than an index, see [Arc One](../narrative/ARC_ONE.md) and [Arc Two](../narrative/ARC_TWO.md).
+**Spoilers:** Core table retains its **Arc Two E054 snapshot**; later status updates cover corrected **E081** and the **E082–E118 Arc Four/Five developments in linked profiles**, with separate March/April/June/July/August/September/October/November-publication cast Q&As. The [Year One Q&A](../episodes/BONUS-2019-03.md) is not a played episode. **Quality:** These profiles synthesize provisional processed Parakeet SRT research; **they have not been checked against the audio**. For a story rather than an index, see [Arc One](../narrative/ARC_ONE.md) and [Arc Two](../narrative/ARC_TWO.md).
 
 This is now the **subject-focused reference index**, not the append-only episode-batch ledger. The earlier 88,000-character source-first [character compendium is preserved](../research/legacy/2026-10-21/WORLD_CHARACTERS.md); the complete [pre-third-arc consolidation index](../research/legacy/2026-10-22/CHARACTERS_PRE_SECOND_ARC_CONSOLIDATION.md) preserves every additional interim status paragraph. Both archives retain their research history. A character's **earlier beliefs, reported fate and later observed status** must remain distinct. Roles in the podcast are not in-world identities.
 
@@ -24,6 +24,10 @@ This is now the **subject-focused reference index**, not the append-only episode
 | **Tedna** | Young stowaway and devoted helper; **rescued alive E048**, dies of injuries **E050**. His report of Angelashi's death was not eyewitness confirmation | [Tedna](characters/tedna.md) |
 | **Angelashi / Angel Ashi** | Elven singer, close to Nash; presumed dead in an E048 report but **directly freed alive E054**. Exact word division of name remains unresolved | [Angelashi](characters/angelashi.md) |
 | **Bok Bok** | Goblin companion of Vorel since **E006**; survives imprisonment, the war for Tietkalla and Vorel's temporary petrification | [Bok Bok](characters/bok-bok.md) |
+
+## E118 — Omnom Cinderborn alive and Stanley's father's artifacts
+
+In [E118](../episodes/E118.md) **Vorel actually finds [Omnom Cinderborn](characters/omnom-cinderborn.md)** badly injured near the Elhandar cottage, resolving E115's report and E117's unexplained lizardfolk scent. **Omnom charges Hope** but **Stanley stops him with *Hold Person***. Omnom accuses Hope of responsibility for rocket deaths and intentional demon invasion; **Hope acknowledges the shot and station fire but disputes the intention**, saying the Hand attracted demons and she expected them to chase her. **Vorel prevents a killing and all agree to consider a hunt tomorrow**, not yet performed. An elven doctor **hands Stanley a real key left by his father**; **Stanley and Hope actually unlock a hidden third-floor study** by reciting a parental poem. **Stanley is given the *Book of Adjacencies* and *Mask of Elton IV (?)***, with the book containing **Dalit's speculative N4SH/time/Principle theory** and **the mask not yet attuned**. Young **Dilenoria/Dilo (?)** offers apprenticeship but has **not joined**. The **Voice privately warns Hope about Pentelvice**, no Eye retrieved. [Comparison](../reports/E118_ASR_COMPARISON_2026-10-23.md), text-ASR provisional.
 
 ## E117 — main reunion, public stories and new community
 
