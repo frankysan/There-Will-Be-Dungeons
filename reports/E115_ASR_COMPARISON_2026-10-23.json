@@ -1,0 +1,65 @@
+{
+  "sources": [
+    {
+      "path": "sources/The Wastes S1E115. The Forest for The Trees.parakeet.processed.srt",
+      "cues": 2691,
+      "first": "00:00:03,920",
+      "words": 24120,
+      "bytes": 264128,
+      "sha256": "f5980bda07a39a368c13b2ec1c92fed45910829af29d6fd1595e3b27e7a4939c",
+      "filename_label": "Parakeet processed",
+      "run_metadata_verified": false,
+      "last_end_seconds": 11061.68
+    },
+    {
+      "path": "sources/The Wastes S1E115. The Forest for The Trees.qwen-q8.canary-ctc.nemotron.srt",
+      "cues": 4386,
+      "first": "00:00:09,600",
+      "words": 24428,
+      "bytes": 355516,
+      "sha256": "c67ae857aa85aa4a4d69a53a8de5237a710896052eb9a751d7be25d546f561a4",
+      "filename_label": "Qwen Q8 / Canary CTC / Nemotron",
+      "run_metadata_verified": false,
+      "last_end_seconds": 11060.66
+    }
+  ],
+  "distance": 1848,
+  "validation": "1000 deterministic random comparisons against full scalar DP, both directions",
+  "episode": "The Wastes S1E115",
+  "title": "The Forest for The Trees",
+  "type": "Played main-campaign session, ongoing Arc Five",
+  "date": "2026-10-23",
+  "repository": "frankysan/There-Will-Be-Dungeons-Transcripts",
+  "head": "9de6cdd2d687ea5a1db481a746843ba0dfeea2a7",
+  "branch": "main",
+  "initial_worktree": "clean",
+  "audio_verified": false,
+  "asr_rerun": false,
+  "comparison_direction": "Parakeet -> Qwen",
+  "denominator": 24120,
+  "percentage": 7.661691542,
+  "qwen_minus_parakeet_tokens": 308,
+  "reverse_distance": 1848,
+  "normalization": "Chronological SRT cue content; remove indices/timings and (speaker N); lowercase; delete straight/curly apostrophes; replace non-Unicode-letter/non-digit characters with whitespace; split.",
+  "metric": "Exact unrestricted ordered unit-cost word Levenshtein, arbitrary-precision Myers bit-vector recurrence.",
+  "reading_coverage": "Both complete lexical texts through network outro, ten-minute recording-clock chunks then 180-185 minutes, common text plus P/Q alternatives; selected raw-cue rereads.",
+  "access": {
+    "direct": "Both SRTs, ignored MP3, Git and documentation edits",
+    "workspace_mcp": "Same repository, branch, HEAD and zero visible changes",
+    "github": "Read capability available; complete local sources sufficient, no remote tip refreshed"
+  },
+  "publisher_metadata": "Original publisher episode number/title and release date not independently verified; no extrapolation",
+  "audio_copy": {
+    "path": "local/The Wastes S1E115. The Forest for The Trees.mp3",
+    "bytes": 177542473,
+    "sha256": "2692ddad057ec7d846cd70235195509948ad5ab7411a406fcec3a56e846448fd",
+    "duration_seconds": 11068.056,
+    "duration_method": "ffprobe format.duration",
+    "association": "Exact archive basename, historical ASR input bytes unverified"
+  },
+  "next_main_paths": [
+    "sources/The Wastes S1E116. Large Spectral Pile Of Babies.parakeet.processed.srt",
+    "sources/The Wastes S1E116. Large Spectral Pile Of Babies.qwen-q8.canary-ctc.nemotron.srt"
+  ],
+  "bonus_next": "BONUS-2020-09, unchanged"
+}

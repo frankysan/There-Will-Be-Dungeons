@@ -1,6 +1,14 @@
 # Stanley Billings and Diontalus
 
-**Portrayed by:** Jon. **Identity model:** Two distinctly acting personalities/agents who **share Stanley's body**, with shifting control; not interchangeable aliases for one intention. **Spelling:** **Diontalus** is the creator- and owner-accepted canonical display ([D-026](../../project/DECISIONS.md)). `Dion Talus`, `Deontalus`, `Diantalus`, `Diontalis` are searchable source spellings, not equal official names. **Spoilers:** main campaign through E114 and separate Q&A.
+**Portrayed by:** Jon. **Identity model:** Two distinctly acting personalities/agents who **share Stanley's body**, with shifting control; not interchangeable aliases for one intention. **Spelling:** **Diontalus** is the creator- and owner-accepted canonical display ([D-026](../../project/DECISIONS.md)). `Dion Talus`, `Deontalus`, `Diantalus`, `Diontalis` are searchable source spellings, not equal official names. **Spoilers:** main campaign through E115 and separate Q&A.
+
+## E115 — birth name acknowledged, memory sharing declined
+
+**Working birth-name form: Valier Ornath (?)**, with **Valeer / Valere Ornoth / Onath / “or Nath”** in the two ASR exports. [E115](../../episodes/E115.md) makes the identity explicit: **Admiral Chrysorius/Chrysoerius (?)** addresses him by that name, reports a genetic match to family records, and **Stanley acknowledges it as the name his parents gave him**. He **asks to remain Stanley**. This strengthens the earlier E089 spectrometer hint without certifying spelling, changing his display identity, or conflating him with Diontalus.
+
+On arrival at **Elhandar**, the **High Elf begins a memory-sharing trance**, but **Stanley resists and the elf withdraws**; no answers are downloaded. The **Principle visits in person**, claims the city explosion/demigodhood, and after Stanley rebukes him **privately warns him an unnamed old friend survived the blast and will visit**. **No friend is identified or appears**, and the warning is not automatically the party’s knowledge. Stanley’s father **Daliot/Dalit (?)** is discussed by the admiral as an elf who left amid scientific disagreement. **Stanley says he died on Earth** and does not know his burial site. The admiral’s account of trapped elven souls and **conditional offer to search** are testimony/promises, **not recovered remains or a proved living father**.
+
+**Four recovery days clear Stanley’s pill exhaustion**, but no attended therapy is shown. **Nobieri’s day-five visit reports Omnom recovering aboard and Emenil asking after Stanley**; no reunion with either occurs yet. The group debates allies, the Soulbroker and Hope without leaving. [Comparison](../../reports/E115_ASR_COMPARISON_2026-10-23.md), **ASR-provisional; names need listening/written corroboration**.
 
 ## E114 — boarding defense and a rescue with limits
 

@@ -1,6 +1,12 @@
 # Vorel
 
-**Longer written name:** **Vorel Rasvim Kurik** in the fan wiki, not independently confirmed as a full name from Arc One spoken dialogue. **Portrayed by:** Kyle. **Identity:** Lizardfolk warrior. **Arc Two status:** Alive; protector of Bok Bok; bearing the sentient **Eye of Groxl**. **Spoilers:** narrative coverage through E114; the title register separately includes later seasons and the final Wastes roundup. Retrospective bonus remarks remain separate from played events.
+**Longer written name:** **Vorel Rasvim Kurik** in the fan wiki, not independently confirmed as a full name from Arc One spoken dialogue. **Portrayed by:** Kyle. **Identity:** Lizardfolk warrior. **Arc Two status:** Alive; protector of Bok Bok; bearing the sentient **Eye of Groxl**. **Spoilers:** narrative coverage through E115; the title register separately includes later seasons and the final Wastes roundup. Retrospective bonus remarks remain separate from played events.
+
+## E115 — lost remains, a memorial and “Fang of nothing”
+
+Vorel **reaches Elhandar** after assenting to station fire that **destroys the withdrawing pirate vessel**. He sees the Principle’s display of power but declines to accept the elves’ passivity uncritically. In the biodome cottage, **Vorel confesses Squirts’s ashes are gone**, suggesting loss to space or his fiery sword during the ship battle. **E111 put the ashes in a vial**; E115’s hand/loss account leaves an **unresolved custody discrepancy and unwitnessed mechanism**, not an observed spill. He **performs a memorial**, supported by Nash and grieving Bok Bok; no resurrection occurs. **Bok Bok declares he will care for Chunks as a father**, and Vorel accepts that independence.
+
+Over **four actual recovery days**, Vorel explores and hunts, choosing the firepit ash to sleep in. He wants an oversized mother raccoon preserved; **a finished trophy is not shown**. At breakfast he questions the party’s purpose after losing its communities and calls himself **no longer Fang / Fang of nothing**, a self-assessment rather than a new awarded office. **Nobieri urges him to lead**, without a coronation. Omnom’s recovery aboard is **Nobieri’s report**, not an actual reunion. **No quest departure, confirmed total extinction of Razak Val’s people or completed assault on the Principle.** [E115](../../episodes/E115.md) · [comparison](../../reports/E115_ASR_COMPARISON_2026-10-23.md).
 
 ## E114 — holding the boarding tube
 
@@ -87,6 +93,7 @@ The [2026-10-23 transcript search](../../reports/VOREL_TITLE_AUDIT_2026-10-23.md
 | [E077](../../episodes/E077.md) ~03:18 | **Keeper of Groxl** | Vorel identifies himself as `keeper of grojil` / `Grogil`; the existing Eye of Groxl, not another entity |
 | [E086](../../episodes/E086.md) ~02:40:30; [E087](../../episodes/E087.md) ~02:09:50–02:10:45 | **M-sports Fighting Champion / Sigil M-sports Champion / Big Time Smackaroo** (last wording provisional) | Lohar advertises the champion label in E086; E087 referee announcement and trophy wording supply the award context and additional styles |
 | [E110](../../episodes/E110.md) ~00:17–00:20 | **“I am the strongest Vorel”** (ASR-provisional wording) | Vorel's joking comparative claim on hearing that another timeline's Vorel died in battle; **not a conferred title or demonstrated supremacy**; earlier distinct from S2E02's later “Greatest of the Time Vorels” style |
+| [E115](../../episodes/E115.md) ~02:22:50–02:23:05; P 2118–2121 / Q 3435–3440 | **“I am no longer Fang” / “Fang of nothing”** | **Vorel/Kyle’s self-assessment after losing his constituency**, not a new grant, formal abdication ceremony or proof every subject died. [Parakeet](../../sources/The%20Wastes%20S1E115.%20The%20Forest%20for%20The%20Trees.parakeet.processed.srt) / [Qwen](../../sources/The%20Wastes%20S1E115.%20The%20Forest%20for%20The%20Trees.qwen-q8.canary-ctc.nemotron.srt), ASR-provisional. Nobieri’s ~03:01 exhortation to lead awards no further title. |
 
 ### Later-season title naming — spoilers beyond the narrative coverage
 

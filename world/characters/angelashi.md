@@ -1,6 +1,6 @@
 # Angelashi
 
-**Name status:** **Angelashi** is used as a working display spelling based on cast-shared recap forms; **Angel Ashi** appears in episode ASR, and the **word division remains unresolved**, unlike the accepted spelling **Diontalus**. **Identity:** Changeling who presents as an elven singer (revealed E114), and an important companion of Nash. **Arc Two status:** **Alive and freed in E054**. **Spoilers:** E035–E114.
+**Name status:** **Angelashi** is used as a working display spelling based on cast-shared recap forms; **Angel Ashi** appears in episode ASR, and the **word division remains unresolved**, unlike the accepted spelling **Diontalus**. **Identity:** Changeling who presents as an elven singer (revealed E114), and an important companion of Nash. **Arc Two status:** **Alive and freed in E054**. **Spoilers:** E035–E115.
 
 Angelashi is introduced as a performer at the **Golden Gargoyle** in Trashburg, drawing Nash's interest. She travels with him after the club's violence and later speaks privately about her past, including elven/refugee experiences, travel hopes and her magic. Some of those details are **her own account**, not independent confirmation of an ancient itinerary. She uses temporary flower/plant magic around Nash, and the two develop an intimate relationship.
 
@@ -9,6 +9,12 @@ She disappears during the worsening conflict with the keep. In E048 **Tedna repo
 Her future travel, health and place in the new Tietkalla government are not decided merely by their reunion. The Q&A mentions Nash's emotional stakes and plans without adding scenes of Angelashi's life after E054.
 
 **Primary sources:** [E035](../../episodes/E035.md) · [E036](../../episodes/E036.md) · [E037](../../episodes/E037.md) · [E048](../../episodes/E048.md) · [E049](../../episodes/E049.md) · [E054](../../episodes/E054.md) · [Nash](nash-maggard.md) · [Tedna](tedna.md) · [spelling evidence](../../reports/DISCORD_SPELLING_2026-10-21.md).
+
+## E115 — a home, reconciliation and agreed names
+
+**Angelashi and all four children arrive at Elhandar** and are moved to a **lakeside cottage**, with Lyrielle’s assistance. She explains hiding her changeling identity against exploitation/mistrust in Trashburg, and says Nash is **partly shifter but also human**, with an origin she cannot explain. These are **her interpretations and recollections**, not proof of a newly acquired power; his attempted frog change fails. After hurtful remarks and time apart, **both apologize and agree to forgive**. **Fork, Boot, Pipe and Nash Junior Maggard** become the **parents’ accepted names**, following a successful Persuasion roll, not merely Nash’s private nicknames. She says she has no known surname; this does not independently establish all of her ancestry.
+
+**Four days of recovery actually pass**. At day-five breakfast Angelashi would prefer Nash to retire but **supports him fulfilling his obligations and returning to the family when possible**. She considers helping construct a circle, but **no spell lesson or construction is performed**, and an existing station circle makes that proposal unnecessary for now. **She and the children remain alive at the cottage**, without family relocation to an alternate Nash’s home or an actual teleport journey. [E115](../../episodes/E115.md) · [ASR comparison](../../reports/E115_ASR_COMPARISON_2026-10-23.md).
 
 ## E114 — four living children and her revealed form
 

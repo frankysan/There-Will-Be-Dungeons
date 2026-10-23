@@ -1,8 +1,14 @@
 # Lyrielle — elven doctor (provisional name)
 
-**Portrayed by:** Kristen. **Continuity:** The Wastes, Season 1, Arc Five. **First played appearance:** [E114](../../episodes/E114.md), ~00:24–00:27. **Name status:** ASR variants **Lyrielle / Liriel / Lirael**; the paged surname is garbled as **Korlani/Quarlani/Koralni (?)**. No creator-written spelling or spoken wording was verified. **Spoilers:** E114 only; **ASR-provisional, no audio listening**.
+**Portrayed by:** Kristen. **Continuity:** The Wastes, Season 1, Arc Five. **First played appearance:** [E114](../../episodes/E114.md), ~00:24–00:27. **Name status:** ASR variants **Lyrielle / Liriel / Lirael**; the paged surname is garbled as **Korlani/Quarlani/Koralni (?)**. No creator-written spelling or spoken wording was verified. **Spoilers:** E114–E115; **ASR-provisional, no audio listening**.
 
 Lyrielle is an **elf doctor aboard the Elhandari rescue spacecraft** carrying the survivors from Tietkalla. Kristen describes golden hair, pale skin, green eyes, an off-white peasant-style dress, a small waist satchel, a white mink companion with red eyes, and a crystal rose necklace. **She is a newly introduced character**, not Squirts resurrected or Hope returning to this party.
+
+## E115 — cottage guide, Acorn and remembered seafoam
+
+At [E115](../../episodes/E115.md), Lyrielle accompanies the family to **Elhandar**, then serves as **the assigned guide/host at a lakeside biodome cottage**. She helps the parents reconcile, cooks, uses **Mage Hand / Mending / Prestidigitation**, lights Squirts’s memorial fire with **Fire Bolt**, and cares for the household through **four recovery days**. The station offers therapist assignment but **attendance is voluntary**; Lyrielle is not shown conducting a formal therapy session. Her longer name is recognized approximately as **“Lirael Quirlia Har onihillu” / “Lyriel Quirlya Harhani Kenu” (~01:04)**; exact orthography remains open.
+
+**The white mink familiar is named Acorn (~01:18)**. Beau acknowledges that he mistook some attempted familiar noises for Chunks during E114. This is a **bounded attribution correction**, not authority to relabel every earlier child sound. At day-five breakfast **Lyrielle recounts being a mermaid, bargaining with a sea witch, becoming seafoam, and returning through children’s prayers**. These are **her autobiographical claims**, not played scenes, independently verified history or a general resurrection rule. She confirms an **existing permanent Teleportation Circle in the science/magic district**, with no sigils or transit supplied. [ASR report](../../reports/E115_ASR_COMPARISON_2026-10-23.md).
 
 ## The four deliveries and the breached ship
 
@@ -12,7 +18,7 @@ When a pirate attack opens the hull, she **casts Wall of Force over a breach (~0
 
 She assists the deliveries of **fork (~01:47), pipe (~02:00), boot (~02:23), and baby-shaped boy (~02:35)**, preventing Nash from pulling the boot prematurely. Nash's improvised poems are **Performance attempts to comfort Angelashi**, not Lyrielle casting through him. At **~02:37–02:39**, the apparent objects change into babies, revealing **four living changeling children, two girls and two boys**, and Angelashi drops her elven form. The complete individual sex/form mapping and children's names are not supplied.
 
-## Cutoff and open checks
+## E114 cutoff and open checks (historical)
 
 Lyrielle remains aboard the **ship still headed for Elhandar**, with Angelashi and all four babies alive; no docking or council meeting is shown. She is **distinct from Doctor Evany/Vani/Avigne (?)**, another crew member who appears in combat and is swept into space during the breakaway. Exact names, spell wording and participant boundaries require listening. Do not infer Lyrielle's class, level, long-term membership of the adventuring party or prior knowledge from this introduction.
 

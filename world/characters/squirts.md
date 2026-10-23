@@ -1,6 +1,12 @@
 # Squirts — kobold trickster (Arcs Four–Five)
 
-> **First appearance:** [E082](../../episodes/E082.md), unnamed kobold at the Soggy Feather. **Identified and developed:** [E083](../../episodes/E083.md), [processed Parakeet SRT](../../sources/The%20Wastes%20S1E083.%20Trash%20Monkey%20and%20The%20Bird.parakeet.processed.srt). **Kristen's new character**, **not** a reincarnated Hope. This profile is **ASR-based, not audio-verified**; contains spoilers through E114; earlier sections retain their episode-era cutoffs.
+> **First appearance:** [E082](../../episodes/E082.md), unnamed kobold at the Soggy Feather. **Identified and developed:** [E083](../../episodes/E083.md), [processed Parakeet SRT](../../sources/The%20Wastes%20S1E083.%20Trash%20Monkey%20and%20The%20Bird.parakeet.processed.srt). **Kristen's new character**, **not** a reincarnated Hope. This profile is **ASR-based, not audio-verified**; contains spoilers through E115; earlier sections retain their episode-era cutoffs.
+
+## E115 — remains reported lost, memorial performed
+
+At **Elhandar**, **Vorel confesses he no longer has Squirts’s ashes**, suggesting they were lost to vacuum or his fiery sword in the boarding battle. **E111 explicitly used a Stanley-supplied vial**, whereas the E115 recollection describes ashes in his hand; **the custody discrepancy and precise loss mechanism remain unresolved**. Do not invent an observed spill, destroyed vial or magical absorption. **A memorial really takes place** with Vorel’s remembrance and Bok Bok’s grief/dynamite salute; no revival occurs. Saying she lives on in Chunks is **her child/legacy**, not literal ashes inside him.
+
+**Bok Bok commits to caring for Chunks as a father**, takes him inside and maintains that role during the **four completed recovery days**. Chunks is alive at the day-five cutoff. **Lyrielle is a separate character**, not Squirts reincarnated. [E115](../../episodes/E115.md) · [full-export comparison](../../reports/E115_ASR_COMPARISON_2026-10-23.md), **ASR-provisional**.
 
 ## E114 — resurrection hoped for, not performed
 

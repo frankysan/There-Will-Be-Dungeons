@@ -1,6 +1,12 @@
 # Nash Maggard
 
-**Portrayed by:** Scott. **Identity:** Wasteland traveler and spellcaster, with an implanted dragon-metal heart. **Arc Two status:** Alive; physically changed, allied with newly crowned Hope. **Spoilers:** Main Wastes through E114; retrospective Q&A comments kept separate from direct play. **Evidence:** Processed SRTs/dossiers, not independently audio-verified.
+**Portrayed by:** Scott. **Identity:** Wasteland traveler and spellcaster, with an implanted dragon-metal heart. **Arc Two status:** Alive; physically changed, allied with newly crowned Hope. **Spoilers:** Main Wastes through E115; retrospective Q&A comments kept separate from direct play. **Evidence:** Processed SRTs/dossiers, not independently audio-verified.
+
+## E115 — reconciliation, named children and an unfulfilled summons
+
+At [E115](../../episodes/E115.md), Nash **actually arrives at Elhandar**, where **Angelashi’s changeling form and four children become known to Stanley and Vorel**. She says Nash is partly shifter/human and attributes an earlier intimate transformation to him; **she does not know his origin**. **Nash’s attempt to become a frog by concentration fails**, with no new spell/ability granted. His joke name **Flingus Fartfeather** is not a discovered birth identity. After conflict and Stanley’s encouragement, **Nash and Angelashi apologize and forgive each other**. They expressly agree on **Fork, Boot, Pipe and Nash Junior Maggard**; Junior is the baby-form boy, while the other three individual sex/form mappings remain unstated. These are accepted names, not merely proposed nicknames.
+
+Nash hears a **dying, unidentified telepathic voice amid a fiery dream and after waking**. Angelashi hears none; Arcana suggests it is nearby, probably in the forest. **He returns to sleep rather than searches**, and the voice’s identity remains unresolved. **Four recovery days pass and pill exhaustion clears**. At day-five breakfast he chooses to plan adventuring with family visits after learning a **permanent station circle exists**, but **no sigils are learned, teleport trip taken, new circle built or spell taught to Angelashi**. A year or months-long stay remains discussion. **Family alive in the cottage at cutoff; no departure or new voice encounter.** [Comparison](../../reports/E115_ASR_COMPARISON_2026-10-23.md), **ASR-provisional**.
 
 ## E114 — four children and an unresolved identity
 
