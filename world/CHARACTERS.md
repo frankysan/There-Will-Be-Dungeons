@@ -1,4 +1,4 @@
-# Characters and participants — campaign reference index (E054 snapshot plus E111 update)
+# Characters and participants — campaign reference index (E054 snapshot plus E112 update)
 
 **Spoilers:** Core table retains its **Arc Two E054 snapshot**; later status updates cover corrected **E081** and the **E082–E111 Arc Four/Five developments in linked profiles**, with separate March/April/June/July/August/September/October/November-publication cast Q&As. The [Year One Q&A](../episodes/BONUS-2019-03.md) is not a played episode. **Quality:** These profiles synthesize provisional processed Parakeet SRT research; **they have not been checked against the audio**. For a story rather than an index, see [Arc One](../narrative/ARC_ONE.md) and [Arc Two](../narrative/ARC_TWO.md).
 
@@ -28,6 +28,10 @@ This is now the **subject-focused reference index**, not the append-only episode
 ## E111 current-status update — later than the E054 table above
 
 At the [E111](../episodes/E111.md) source cutoff, **Squirts (Kristen's kobold PC) is dead**, disintegrated by **General Carthax**, as is **Melgor of Poxis/Paxus (?)**, not merely missing; **infant Chunks survives and is carried away by Stanley**. **Bok Bok** survives a blast inside the demon but **loses a hand** and leaves with **Vorel**, who also has **Squirts's ashes in a vial**. **Nash is physically reunited with pregnant Angelashi**, who boards the elven spaceship. **Stanley, Vorel and Nash** leave ruined Tietkalla together; **Carthax is pacified and captured alive** by the **Elhandari**. **Omnom is healed alive by Squirts just before her death**, with later transport untracked; **Nobieri remains seeking Hope**, whose Sigil storyline is not played in E111. The older table's E054 statuses remain **historically correct for E054**, not declarations of current fate. [Whole-ASR comparison](../reports/E111_ASR_COMPARISON_2026-10-23.md).
+
+## E112 separate-party status — later than E111
+
+[E112](../episodes/E112.md) returns to **Hope, Steerious Business, Blood Skunk Hendrickson and Dr. Spider**, without revisiting the three travelers aboard the Elhandari ship. **Hope has the living Hand of the Voice and signs a real compact with Tobacho Fleur**, receiving a copy and promising future help **removing the Lady of Pain and granting him rule of Sigil** in return for **an Eye of the Voice lead and withdrawal of his bounty**. **No godhood, actual Eye, global bounty removal or completed regime change**. **Steerious injures two ordinary Sigil residents who survive, then kills a bounty hunter**. **Blood Skunk summons four temporary animals** (later releases them); **Dr. Spider uses *Speak with Dead* on a preexisting corpse and later burns a mansion**. All four actually arrive in the **Gray Waste**; **Blood Skunk and Dr. Spider become gray and depressed**, but are alive at episode end. Earlier **Squirts and Melgor** remain dead at the E111 cutoff; no reunion. [ASR comparison](../reports/E112_ASR_COMPARISON_2026-10-23.md).
 
 ## Major adversaries and power brokers
 
