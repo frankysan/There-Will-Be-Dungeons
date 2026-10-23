@@ -1,5 +1,42 @@
 # Initial model tests (supplied by archive owner)
 
+## 2026-10-23: E103 Granite Plus Q4 pipeline evaluation
+
+[Evaluation](../reports/E103_GRANITE_EVALUATION_2026-10-23.md) ·
+[evidence](../reports/GRANITE_E103_METRICS_2026-10-23.json) ·
+[reproduction script](../experiments/granite_e103_2026_10_23.py).
+Compared all delivered Granite Plus Q4 / Canary CTC / Nemotron-labelled E103
+cues with processed Parakeet and Qwen Q8 / Canary CTC / Nemotron. Labels are
+filename-derived; builds, settings, runtime and hardware are unknown.
+
+Granite has **3,621 cues / 22,408 normalized words / last end 02:43:57.800**,
+versus Parakeet **2,639 / 23,243 / 02:44:12.950** and Qwen
+**4,551 / 23,672 / 02:44:12.760**. Exact ordered word Levenshtein using the
+established report normalization: P→Q **2,198 / 23,243 = 9.46%**;
+P→Granite **4,747 / 23,243 = 20.42%**;
+Q→Granite **4,385 / 23,672 = 18.52%**. These are text disagreement rates,
+**not audio WER or verified error/omission counts**.
+
+Granite retains eight numeric speaker labels, plus **73 malformed inline
+`Speaker N` cues** parsed as unknown, **58 `T:` markers across 29 cues**, 15
+adjacent overlaps and two zero-duration cues (580, 2172). At **02:23:10–02:23:39**,
+84 successive cues contain only `I` after annotation removal, where both
+baselines retain a witness exchange. Analysis-only marker stripping yields
+22,183 words and disagreement of **19.74% / 17.87%** against Parakeet/Qwen;
+no cleaned transcript is substituted for the original.
+
+Selected text review finds Granite preserves guardian expiry, nonlethal intent,
+weather and the final spaceship reveal that ARK skipped, with a matching
+**01:40:34** timing anchor. It still loses substantial two-weapon, spell and
+grapple dialogue; no audio-verified incremental recovery beyond the existing
+pair was established. **More promising than the supplied ARK export, but do not
+scale Granite Q4 across the archive yet.** Diagnose artifacts and perform a
+bounded audio-reviewed pilot, then another episode, before a production
+decision. All-export metrics and selected qualitative review are complete;
+no complete manual episode reading, audio listening or ASR rerun was performed.
+Source SRTs and the matching hashed MP3 are unchanged. Existing E103
+story/reference work is separate and preserved.
+
 ## 2026-10-23: E103 ARK Q8 / FireRed VAD pipeline evaluation
 
 [Evaluation and recommendation](../reports/E103_ARK_EVALUATION_2026-10-23.md) ·
@@ -271,6 +308,12 @@ Story-critical listening: **conjured but damaging trial (Stanley down/stabilized
 [E095 dossier](../episodes/E095.md) · [comparative report](../reports/E095_ASR_COMPARISON_2026-10-23.md). **Parakeet: 2,242 cues, 19,182 normalized words, end 02:42:51.790**; **Qwen Q8/Canary CTC/Nemotron-labelled: 3,632 cues, 19,276 words, end 02:42:51.460**. Strip cue/timecode, `(speaker N)`, lowercase, remove apostrophes, tokenize as Unicode letters/digits; **ordered unit-cost full word-token Levenshtein = 1,339 edits / 19,182 = 6.98% inter-ASR disagreement**. **Not audio-ground-truth word-error rate, validated hallucinations/omissions, diarization or model accuracy**. No audio listened to or models rerun; exact source audio, hashes, runtime/build options and hardware not available; originals unchanged.
 
 **Evidence decisions:** E095 **Hope symptom-free, Stanley/Nash/Vorel feverish and unrested**; **Commander Alentris reports four defenders dead**, accuses Hope of introducing disease after E094 dust, but **no independently verified transmission mechanism**. **Hordweld remembers Incubatrix undead curse virus** vs journal **“cure to shale disease”**, a material **possible wrong-ritual mismatch**. **One dying library man visibly becomes black cloud**; **Hope walks into cloud and hears unidentified coercive voice**, not confirmed source of pathogen. **Lesser Restoration reduces stages, doesn't cure**; **Walnut not yet reciting incantation, broth still being prepared**. **Hope separated in library**, others upstairs. **Nash 6 fire damage in distinct toilet chest** never confuse with hexagonal relic chest. Review title/spell/stages by listening.
+
+## 2026-10-23: E103 — played throne-room return, railway fire, approaching UFO battle
+
+[E103 dossier](../episodes/E103.md) · [full two-ASR report](../reports/E103_ASR_COMPARISON_2026-10-23.md). **Parakeet 2,639 cues / 23,243 normalized word tokens / end 02:44:12.950**; **Qwen Q8/Canary CTC/Nemotron-labelled 4,551 cues / 23,672 tokens / end 02:44:12.760**. Full SRT body concatenation, drop index/timing/speaker labels, lowercase, remove apostrophes, tokenize Unicode letters/digits; exact ordered **word-token Levenshtein = 2,198 edits / 23,243 = 9.46% inter-ASR text disagreement**. **NOT measured audio WER, proof of omissions/hallucinations, relative model quality or speaker accuracy**. GitHub source blob SHAs in report; local-byte/audio fingerprint equivalence and exact commands/builds/decoding/VAD/hardware/runtime unverified. No new recognition, listening or SRT editing.
+
+**Source-boundary decisions:** **Spatulo actually enters Tietkalla after Hope**, alive; **Steerious Business** is user-confirmed pun spelling, ASR alternatives are not canonical. Celibus Stump (working E011 name) **dies of Finger of Death** in contested throne room. New PCs' guardian, beast-tail/echo, snake and healing abilities appear in played battle; **Hope's orc prisoner dies by Steerious's action**, and ***Speak with Dead* on Celibus** yields a claimed **three-month absence** and political allegations, not a verified history. **Emenil and Jimster describe disrupted supply trains and disputed regency**, while living Tietkalla/G​olden Sands is observed. The **Voice orders a new evil deed**; Hope refuses direct murder and the team **burns an empty train station**—**no verified post-act power unlock**. The original trio remain airborne with **closed gauntlet**, while **Tunga moon saucers attack**; combat result is E104, not E103. The [separate ARK experiment](../reports/E103_ARK_EVALUATION_2026-10-23.md) is **not** a new audio-validated reference or replacement for these two baseline exports.
 
 ## 2026-10-23: E102 — Moon visitors, Alentris memory change and two-way Arc Five
 

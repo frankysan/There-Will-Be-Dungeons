@@ -230,6 +230,10 @@ In [E101](../../episodes/E101.md), after Hope's broom gently pushes the feather-
 
 In the **Arc Five opening of E101**, Stanley supports Alentris as she struggles with the perceived failure: **the Hand**, not the loose gauntlet, was what the holy tower had been protecting. Nash solves the magical chest lock and **returns the medallion/key to Stanley**, who **puts it back in the bag from which Vorel took it in E100**. The now-closed box floats into the warded tower, and **Stanley closes the gates** once Vorel joins them. No rescue plan for Hope or promised earth journey is executed; Stanley, Nash and Vorel **rest** with her fate unknown to them. [E101 ASR report](../../reports/E101_ASR_COMPARISON_2026-10-23.md).
 
+## E103 — Airship mistrust
+
+[E103](../../episodes/E103.md) revisits Stanley's use of Modify Memory on Alentris. Vorel questions whether the others can trust Stanley's recollections; Stanley denies tampering with them. Their airship comes under a saucer attack before the argument is resolved.
+
 ## E102 — Alentris's offer and the altered memory
 
 In [E102](../../episodes/E102.md), Alentris says she has been **summoned for a high-temple hearing** over loss of the Hand, but has not yet been tried. She asks Stanley to retire with her in the Outlands. **Stanley refuses**, determined to take Nash and Vorel home. When Alentris demands the Fist's return, **Stanley successfully casts Modify Memory** and makes her believe they left the gauntlet in the tower and are carrying an empty case. In fact, **the gauntlet remains locked in Vorel's chest**. This is a performed betrayal of her trust, not an actual transfer or her informed agreement. Stanley then **Dimension Doors Vorel and the case out**, regroups with Nash, and **boards a Tobacho-linked orc airship that actually takes off**. No hearing, Earth crossing or relic delivery occurs here. [Two-ASR report](../../reports/E102_ASR_COMPARISON_2026-10-23.md).

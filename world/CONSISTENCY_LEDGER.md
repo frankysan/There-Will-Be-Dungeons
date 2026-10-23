@@ -281,6 +281,19 @@ These [E102](../episodes/E102.md) transitions are **supported only by two machin
 | `e102.hope_companions` | **First played joining and gate crossing** | **Steerious Business** (user-confirmed *steer/serious* pun), **Blood Skunk Hendrickson** and **Dr. Spider** enter as **Brett's paid henchmen** and cross to **Tietkalla royal chambers** with Hope; their trustworthiness, the state of the wider kingdom and later claimed casualties are **not shown** at E102 cutoff. |
 | `e102.pumpo` | **Coercion and weakening played; bargain open** | **Pumpo alive** after physical coercion, magical restoration/weakening. No successor warrior delivered, confirmed annual food distribution or independent validation of Brett's claimed soul/contract rights. |
 
+## F3. E103 — distinct in-play resolutions
+
+The [E103 dossier](../episodes/E103.md) and [dual-ASR comparison](../reports/E103_ASR_COMPARISON_2026-10-23.md) establish the following provisional event boundaries. No listening was performed.
+
+| Issue | Supported state at E103 | Still unresolved |
+| --- | --- | --- |
+| `e103.spatulo` | **Spatulo arrives alive in Tietkalla** with Hope after E102 portal, despite the others' false report. | Further alliance, custody and eventual fate |
+| `e103.regency` | **Celibus Stump** governs from Hope's throne and dies during her return; **three months** reported through Speak with Dead. | Exact name spelling, truth of political testimony and succession |
+| `e103.guard_battle` | Hope and **Steerious Business, Blood Skunk Hendrickson, Dr. Spider** fight the court guards; a captured orc does not survive interrogation. | Full homebrew features, unobserved civilian casualties |
+| `e103.tietkalla` | **Golden Sands, Fishbird church and tiefling community active**; Emenil reports railway raids and three disappearances. | Identity of raiders, house guilt, disappeared persons and source of sky crack |
+| `e103.hand_price` | Hooded patron **demands evil act and threatens restriction of Hand powers**; the group **sets an empty railway station on fire**. | Whether power is restored, final damage and later repercussions |
+| `e103.moon_airship` | Three originals retain **closed gauntlet** on charter airship; huge **Tunga moon** apparently falling; UFO squadron and larger armed ship **open attack**. | Moon collision, fight outcome, Sigil arrival and Tobacho delivery |
+
 ## G. Source tracking and preservation
 
 The original E055–E081 research was **131 issue-key rows across episodic batches**. They remain **verbatim and source-linked** in the [frozen pre-consolidation ledger](../research/legacy/2026-10-22/CONSISTENCY_LEDGER_PRE_SECOND_ARC_CONSOLIDATION.md). Its older ancestor is also retained in the [Arcs One–Two/Phase-D archive](../research/legacy/2026-10-22/WORLD_CONSISTENCY_LEDGER.md). These archives are **not parallel active truth registries**; the current open issues are summarized above and the latest event chronology in [CHRONOLOGY.md](CHRONOLOGY.md).

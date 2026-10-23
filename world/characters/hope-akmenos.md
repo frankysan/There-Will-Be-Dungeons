@@ -1,6 +1,6 @@
 # Hope Akmenos
 
-**Also documented as:** Oriphi “Hope” Akmenos, according to the [fan wiki](https://twbd.fandom.com/wiki/Oriphi_%22Hope%22_Akmenos); early spoken `Orifi/Orify` is unverified. **Portrayed by:** Kristen. **Arc Two status:** Alive, mechanically augmented and **publicly crowned Queen of Tietkalla** in E054. **Spoilers:** played campaign through E102 (Arc Four finale / Arc Five continuation); later bonus remarks kept separate. **Source quality:** Processed ASR and later retrospective comments, not listener-verified dialogue.
+**Also documented as:** Oriphi “Hope” Akmenos, according to the [fan wiki](https://twbd.fandom.com/wiki/Oriphi_%22Hope%22_Akmenos); early spoken `Orifi/Orify` is unverified. **Portrayed by:** Kristen. **Arc Two status:** Alive, mechanically augmented and **publicly crowned Queen of Tietkalla** in E054. **Spoilers:** played campaign through E103 (Arc Four finale / Arc Five continuation); later bonus remarks kept separate. **Source quality:** Processed ASR and later retrospective comments, not listener-verified dialogue.
 
 ## Character and history
 
@@ -203,6 +203,10 @@ A hooded figure in apparently stopped time calls her his champion; **Hope says h
 In [E102](../../episodes/E102.md), Hope continues drinking with **Brett**, who calls himself Asmodeus and says he knows her hooded patron without revealing its identity. She describes her ambition to become a god and hears his account of an earlier cruelty. In a walk-in freezer, **Brett pressures goblin Pumpo** over a claimed yearly food-for-strongest-warrior agreement. He restores Pumpo's injured arm then **magically weakens him**, allowing a different champion to be selected; **Pumpo survives**, with no demonstrated replacement delivery. Hope's uncompromising suggestions during the ordeal are **her played statements**, not proof of a future infernal contract.
 
 Brett gives her a **Necklace of Infinite Appearances**, which she actually wears and uses to change **visible appearance** (even to a kenku-like guise); **the Hand of the Voice stays physically attached**. She **rejects a preset-destination travel ring** after the hooded patron intervenes, then **accepts a stronger rough copper ring** and demonstrates real teleportation to the casino staff lounge. Brett introduces **Steerious Business (Jon), Blood Skunk Hendrickson (Scott) and Dr. Spider (Kyle)** as paid helpers who **also report to him**. Hope then **creates a skull-framed gate showing her royal chambers at Tietkalla**, and **she and all three companions actually walk through before it closes**. **No condition of Tietkalla's broader city, reunion with previous party, finalized pact or ruler's reception is observed yet**. The later [June-publication bonus](../../episodes/BONUS-2020-06.md) cannot backdate its spoilers to this played cutoff. [ASR report](../../reports/E102_ASR_COMPARISON_2026-10-23.md).
+
+## E103 — Return to Tietkalla
+
+[E103](../../episodes/E103.md) documents Hope's return, her contested chancellorship, the first battle alongside Steerious Business and the other two helpers, conversations with Jimster and Emenil, and the railway station fire. The hooded Voice's demand and its unresolved power conditions are covered in the episode dossier and [ASR report](../../reports/E103_ASR_COMPARISON_2026-10-23.md).
 
 ## E097 — compendium, warning, and thanks at the council
 

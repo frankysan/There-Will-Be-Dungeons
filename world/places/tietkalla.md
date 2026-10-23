@@ -1,6 +1,6 @@
 # Tietkalla — Teet keep and Trashburg
 
-**Spellings:** **Tietkalla** is cast-written by Jon and a strong context-supported historical city/kingdom spelling ([name report](../../reports/DISCORD_SPELLING_2026-10-21.md)); `Tiat Cala`, `Tiat Kala`, `Teet Kala` appear in processed ASR. **Teet** commonly refers to the keep/fortress and **Trashburg** to the poorer settlement around/below it. The exact administrative equivalence across ancient and present-day uses is **not always established**. **Spoilers:** E028–E054.
+**Spellings:** **Tietkalla** is cast-written by Jon and a strong context-supported historical city/kingdom spelling ([name report](../../reports/DISCORD_SPELLING_2026-10-21.md)); `Tiat Cala`, `Tiat Kala`, `Teet Kala` appear in processed ASR. **Teet** commonly refers to the keep/fortress and **Trashburg** to the poorer settlement around/below it. The exact administrative equivalence across ancient and present-day uses is **not always established**. **Spoilers:** E028–E103 (with separately sourced intermediate developments).
 
 ## The city of gangs and a wedding
 
@@ -57,3 +57,9 @@ A comet-like flash and **stone storm** strike the region. **E056 directly portra
 ## Rail diplomacy and returned Dusthill survivors — E057–E059
 
 **Emenil is bitten by a raised corpse but healed in E057**, and survives to attend the Principle's formal court visit in E058. The Principle **promises** construction materials and **released Dusthill slaves** while proposing **rail access, a small embassy and Steel God place of worship**, all of which raise security and sovereignty questions. **In E059 several identifiable Dusthill survivors actually arrive**—among them Talia, Bruce Bane, Shun'ti and Jimster—and are directed toward **Sand Sanctuary** screening. The government provisionally agrees to rail **in principle**, not to a railway already operating. **The Principle extracts Diontalus into a crystal and departs with it**; permanent imprisonment remains untested. [E057](../../episodes/E057.md) · [E058](../../episodes/E058.md) · [E059](../../episodes/E059.md).
+
+## Hope's later return and the damaged rail network — E103
+
+[E103](../../episodes/E103.md) **does not portray an abandoned or destroyed city**. Hope returns to a **populated keep**, with functioning **Golden Sands** (Bok Bok working), a **Fishbird church** and living tieflings. **Celibus Stump**, the former Slavetown businessman, has been appointed acting chancellor during Hope's absence and **dies upon her return**. A ***Speak with Dead*** answer claims **three months** have elapsed, rather than a new time jump invented by the editor. **Jimster and Emenil** report major house disagreements, Nobiery's departure from governance and **rail supply attacks**; **rumors of three vanished political opponents** remain unverified, not a known final casualty list.
+
+Hope and the new henchmen **actually ignite the temporarily closed, empty railway station**, using a magical arrow and ***Wall of Fire***; city residents rush to extinguish the blaze. The building is aflame and rail operations apparently disrupted at cutoff, but **repair, casualties, duration of service outage and citywide political fallout are not shown**. A **blue-white sky fissure** and new rains are visible/mentioned; exact cause unverified. [Dual-ASR](../../reports/E103_ASR_COMPARISON_2026-10-23.md).
