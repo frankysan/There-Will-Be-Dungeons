@@ -218,6 +218,10 @@ At **Knight Commander Alentris's sickbed** Nash hears the report of **four defen
 
 When black clouds later block the stairwell, **Nash actually uses a Dimension Door scroll carrying Vorel back up**, while **Stanley teleports separately and Hope stays in the library**. By cutoff **Stanley and Nash are seeking young acolyte Walnut** to read the unreadable Celestial instruction, while **Vorel/Gregor prepare broth**. The proposed treatment is **not administered successfully**, and Nash is **still at risk, not definitely cured**. No new dragon transformation or demon-merger occurred in this episode; a later April-bonus cliffhanger must remain outside E095. [Dual-ASR report](../../reports/E095_ASR_COMPARISON_2026-10-23.md).
 
+## E097 — restricted library, diplomacy and safer rooftop plan
+
+In [E097](../../episodes/E097.md), **Nash helps Vorel and Hope lift the restricted library portcullis without using Enlarge/Reduce**. He reads an unhelpful commander's diary and takes a short rest, then participates in a **late debate about opening Zorander's Fist chest**; no opening occurs. Nash **helps cook breakfast**, discusses Walnut's doubtful religious and planar reports and supports the team's search for an alternative to risking their home. The **Alentris-led council later formally withdraws their execution sentence** and accepts **Stanley's suggested rooftop rendezvous/teleport plan for an expected celestial messenger**, none yet arrived. **No Nash–demon collision or new bodily change happens in E097**. [Comparison](../../reports/E097_ASR_COMPARISON_2026-10-23.md).
+
 ## E096 — actually cured, helps Walnut save the tower, pursues demon compendium
 
 In [E096](../../episodes/E096.md), the ritual from the journal finally **works in play**. **Walnut holds Nash and speaks the phonetic Celestial blessing; Vorel pours chicken broth over him**, after which **Nash expels a black cloud that flashes blue-white and dissipates**. The GM **declares Nash cured of the White Tower outbreak**. Cure is **not** automatic from the chant alone—broth must actually be applied. **Stanley and Alentris** are curing each other privately; **Vorel also has been cured**.

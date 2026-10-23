@@ -184,6 +184,10 @@ The party follows aged high cleric **Crudmund Hordweld (?)** to the **undergroun
 
 The clouds later block the stairwell. **Stanley and Nash/Vorel actually Dimension Door upstairs while Hope stays searching below**. At E095's cutoff **Hope is alive and apparently unaffected in the library**, not in Gregor's kitchen or already returned to the tower commander's room, and **has neither stolen nor delivered the Fist**. [ASR report](../../reports/E095_ASR_COMPARISON_2026-10-23.md).
 
+## E097 — compendium, warning, and thanks at the council
+
+In [E097](../../episodes/E097.md), **Hope and Nash help Vorel physically lift and break the restricted library portcullis**. **Hope removes and reads the Monstrous Compendium**, whose general entries mention Asmodeus/Orcus but **not the specific enemy commanders or inner voice**. She searches late without identifying it. **After sleep she privately hears the voice say they will meet “today,”** and **warns the others not to let her touch the Fist/glove**; no actual touch or demon encounter. She **cooks breakfast with Stanley and Nash**, helping feed tower residents. **At the morning council Alentris thanks her, publicly rescinds the death sentence against all four and announces incoming celestial aid**. **Hope has not obtained Fist or returned to Earth**. [ASR report](../../reports/E097_ASR_COMPARISON_2026-10-23.md).
+
 ## E096 — returning from the library, being thanked, sharing the warning
 
 In [E096](../../episodes/E096.md), Hope **remains in the lower library during the early successful plague treatments**, despite an initial table-position assumption corrected by the GM. The **unidentified private voice** rebukes her for not allowing the White Tower defenders and her friends to die, promises she could have met its master and warns that **the lawful-good alignment magic permitting passage into White Tower will not last indefinitely**. **Hope refuses to let her friends die**. This is adversarial testimony, not identification of the speaker or confirmed disease vector.

@@ -1,8 +1,8 @@
 # Arc Three — Strangers in the City of Doors
 
-**The Wastes, third researched story arc — opening chapters, corrected E082–E096 (ongoing)**
+**The Wastes, third researched story arc — opening chapters, corrected E082–E097 (ongoing)**
 
-**Full spoilers through E096.** This is an **initial narrative**, not a completed arc or an audio-verified transcript. It retells the **played sessions** from their [source-first dossiers](../episodes/E082.md), [E083](../episodes/E083.md), [E084](../episodes/E084.md), [E085](../episodes/E085.md), [E086](../episodes/E086.md), [E087](../episodes/E087.md), [E088](../episodes/E088.md), [E089](../episodes/E089.md), [E090](../episodes/E090.md), [E091](../episodes/E091.md) [E092](../episodes/E092.md) [E093](../episodes/E093.md), [E094](../episodes/E094.md) and [E095](../episodes/E095.md) and [E096](../episodes/E096.md), which are based on processed ASR. Dialogue is paraphrased; uncertain names and planar explanations are not certified by this prose. The [December 2019 cast Q&A](../episodes/BONUS-2019-12.md) is retrospective context, **not another chapter of events**. This is **The Wastes**, wholly separate from *Inverse*.
+**Full spoilers through E097.** This is an **initial narrative**, not a completed arc or an audio-verified transcript. It retells the **played sessions** from their [source-first dossiers](../episodes/E082.md), [E083](../episodes/E083.md), [E084](../episodes/E084.md), [E085](../episodes/E085.md), [E086](../episodes/E086.md), [E087](../episodes/E087.md), [E088](../episodes/E088.md), [E089](../episodes/E089.md), [E090](../episodes/E090.md), [E091](../episodes/E091.md) [E092](../episodes/E092.md) [E093](../episodes/E093.md), [E094](../episodes/E094.md) and [E095](../episodes/E095.md) [E096](../episodes/E096.md) and [E097](../episodes/E097.md), which are based on processed ASR. Dialogue is paraphrased; uncertain names and planar explanations are not certified by this prose. The [December 2019 cast Q&A](../episodes/BONUS-2019-12.md) is retrospective context, **not another chapter of events**. This is **The Wastes**, wholly separate from *Inverse*.
 
 ## Prologue — After the light
 
@@ -782,6 +782,32 @@ When the tower is safe for the night, he **apologizes to Vorel for changing thei
 
 [E096](../episodes/E096.md) · [Review priorities](../reports/E096_ASR_COMPARISON_2026-10-23.md)
 
+## XL. The book behind the bars
+
+The tower's black-cloud obstruction has dissipated by the time **Hope, Nash and Vorel** return to its lower library. The metal portcullis still bars the restricted books. Vorel strains twice to lift it, without success; then **all three heave together**, snap the holding mechanism and force the gate up. **No shrinking or enlargement spell is needed**. Hope retrieves the weighty handwritten **Monstrous Compendium**. Its pages describe classes of demons and devils, even names such as Asmodeus and Orcus, but not the particular General Carthax, Ulvert or the private voice tormenting her.
+
+Vorel consults a manuscript of sacred relics, moving between headings and hearing whimsical stories of holy objects. **He finds no reliable account of Zorander's Fist**. Nash reads the uneventful daily journal of a long-ago Knight Commander. As Hope continues searching at the expense of sleep, Vorel grows impatient and **goes upstairs to fetch Walnut**, who had not been present when they lifted the gate. In his modest room, Walnut reluctantly agrees to come down.
+
+Walnut says **the Fist reached White Tower only about a week ago**, after its guards fought their way across the Outlands. He has heard it offers mountainlike strength, deadly touch and perhaps a haunting. He repeatedly admits that he **does not know these things firsthand**. He speaks uncertainly of the Great Road to Mount Celestia and, during an increasingly frustrating exchange, calls **Kidigree** the head of a council of clowns in Limbo. His religious lessons are **not direct demonstrations of any of those claims**.
+
+The companions eventually wake Stanley, who has been sleeping separately, and argue over whether opening the Fist's chest in a controlled confrontation could reveal the enemy. **No one opens it**. Stanley fears handing the relic to Tobacho or bringing a hidden enemy into heaven, while Vorel fears losing the only possible bargain for passage home. Their discussion ends without a settled method.
+
+[E097 dossier](../episodes/E097.md) · [ASR comparison](../reports/E097_ASR_COMPARISON_2026-10-23.md)
+
+## XLI. A morning with too many plans
+
+As morning approaches, Hope privately hears the familiar voice promising **they will meet today**. It still does not identify itself. **Stanley and Hope begin cooking breakfast together**; Nash helps, Vorel tastes and the tower's hungry defenders follow their noses into the mess hall. Walnut interrupts almost every conversation.
+
+A paladin mentions that **Alentris became the tower's commander around the time the Fist arrived**. The companions quietly wonder whether the coincidence means anything, but do not discover evidence of impersonation. **Stanley does not report any obvious anomaly** from his time with her. Hope warns them **not to let her touch the glove**. The stolen key has not changed hands.
+
+At the **morning council**, Alentris publicly **withdraws the four companions' death sentence** and orders the defenders to protect them. She credits Hope for discovering the cure and admits that the source of the plague remains unknown. New word has come from **Knight Commander Thayle**, near the road to Mount Celestia: **celestial paladins riding pegasi are expected by nightfall** to collect the Fist. Alentris initially calls for one last fight at the tower's gates to clear an exit.
+
+**Stanley offers a less costly route.** Meet the flying messenger on the roof, use teleportation to escort them inside, then carry them back up after collecting the sealed relic. Alentris **agrees to change the planned rendezvous to the roof**. The riders are still only expected, and Captain Waltz's replacement airship remains unconfirmed elsewhere. No one has actually delivered the Fist.
+
+As the council breaks, Alentris speaks gently with Stanley about rebuilding the surrounding farmland after the siege and remarks that it would be **a beautiful place to raise children**. It is a possibility, not the future already written. **The tower is still besieged, the chest unopened, the key with Stanley, and Hope's unseen adversary has not appeared.**
+
+[E097 dossier](../episodes/E097.md) · [review report](../reports/E097_ASR_COMPARISON_2026-10-23.md)
+
 ## An open door, not an ending
 
 The four who entered CHIDS's red beam are together again: **Hope and Stanley restored through Kidigree's mirrors**, and **Nash fully regrown after eight days**, with his thermal underwear unexpectedly fused to his body, providing **cooling and ten-foot flight** by GM ruling. **Vorel** owns a champion's title and a professional BMF cabinet at the Soggy Feather, but has not bought the inn.
@@ -790,7 +816,9 @@ The four who entered CHIDS's red beam are together again: **Hope and Stanley res
 
 **Stanley and Alentris become romantically involved**, and she agrees they must move **Zorander's Fist**. **Captain Waltz reports a replacement ship due around noon tomorrow**. They plan to **board and redirect it to Mount Celestia, rather than hand the relic to Tobacho**. **This is not an executed hijack**, and Alentris's idea of **giving the pendant key to Walnut and sending him away separately** has not happened. She can seek a favorable judgment for the four at a **celestial bridge**, but **does not guarantee a return to Earth**. Stanley apologizes to Vorel for his earlier unilateral choice and asks the group to decide what to do.
 
-**Hope returns from the library during E096**, after privately hearing the unknown voice urge her to let the others die and warn that her magical good alignment may not last. She **refuses the voice's demand**. **The defenders kneel in thanks**, and she **now tells Stanley, Nash and Vorel about the voice**. At cutoff **Hope, Nash, Vorel and Walnut descend to investigate a restricted demon compendium behind a lever-operated library gate**. **Stanley is elsewhere**, the key is last known with him, **the chest is unopened**, and **no demon has been identified or expelled, ship has arrived, Fist retrieved, celestial journey begun or Earth passage fulfilled**. [E096 dossier](../episodes/E096.md) · [ASR report](../reports/E096_ASR_COMPARISON_2026-10-23.md) · [chronology](../world/CHRONOLOGY.md).
+**Hope returns from the library during E096**, after privately hearing the unknown voice urge her to let the others die and warn that her magical good alignment may not last. She **refuses the voice's demand**. **The defenders kneel in thanks**, and she **now tells Stanley, Nash and Vorel about the voice**. At the E096 cutoff **Hope, Nash, Vorel and Walnut descend to investigate a restricted demon compendium behind a lever-operated library gate**. **Stanley is elsewhere**, the key is last known with him, **the chest is unopened**, and **no demon has been identified or expelled, ship has arrived, Fist retrieved, celestial journey begun or Earth passage fulfilled**. [E096 dossier](../episodes/E096.md) · [ASR report](../reports/E096_ASR_COMPARISON_2026-10-23.md) · [chronology](../world/CHRONOLOGY.md).
+
+**By the E097 cutoff**, the lower-library portcullis has **actually been forced open**, and Hope has read the *Monstrous Compendium* without discovering the identity of her private adversary. **Walnut was fetched afterward**, and his descriptions of the Fist's abilities and Kidigree's planar status remain hearsay. Hope has privately heard that **“today” will be the day of a meeting**, without a demon appearing. At the morning council **Alentris formally rescinds the earlier death sentence** and reports **pegasi-mounted celestial assistance expected by nightfall**, replacing the publicly proposed gate fight with **Stanley's accepted rooftop rendezvous and teleport plan**. **No messenger, airship, demon or Fist transfer appears before cutoff.** Key-to-Walnut remains only a plan, and no passage home is assured. [E097](../episodes/E097.md) · [ASR comparison](../reports/E097_ASR_COMPARISON_2026-10-23.md).
 
 ### Later commentary, separate from the action
 
