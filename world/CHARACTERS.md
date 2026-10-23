@@ -1,4 +1,4 @@
-# Characters and participants — campaign reference index (E054 snapshot plus E112 update)
+# Characters and participants — campaign reference index (E054 snapshot plus E113 update)
 
 **Spoilers:** Core table retains its **Arc Two E054 snapshot**; later status updates cover corrected **E081** and the **E082–E111 Arc Four/Five developments in linked profiles**, with separate March/April/June/July/August/September/October/November-publication cast Q&As. The [Year One Q&A](../episodes/BONUS-2019-03.md) is not a played episode. **Quality:** These profiles synthesize provisional processed Parakeet SRT research; **they have not been checked against the audio**. For a story rather than an index, see [Arc One](../narrative/ARC_ONE.md) and [Arc Two](../narrative/ARC_TWO.md).
 
@@ -32,6 +32,10 @@ At the [E111](../episodes/E111.md) source cutoff, **Squirts (Kristen's kobold PC
 ## E112 separate-party status — later than E111
 
 [E112](../episodes/E112.md) returns to **Hope, Steerious Business, Blood Skunk Hendrickson and Dr. Spider**, without revisiting the three travelers aboard the Elhandari ship. **Hope has the living Hand of the Voice and signs a real compact with Tobacho Fleur**, receiving a copy and promising future help **removing the Lady of Pain and granting him rule of Sigil** in return for **an Eye of the Voice lead and withdrawal of his bounty**. **No godhood, actual Eye, global bounty removal or completed regime change**. **Steerious injures two ordinary Sigil residents who survive, then kills a bounty hunter**. **Blood Skunk summons four temporary animals** (later releases them); **Dr. Spider uses *Speak with Dead* on a preexisting corpse and later burns a mansion**. All four actually arrive in the **Gray Waste**; **Blood Skunk and Dr. Spider become gray and depressed**, but are alive at episode end. Earlier **Squirts and Melgor** remain dead at the E111 cutoff; no reunion. [ASR comparison](../reports/E112_ASR_COMPARISON_2026-10-23.md).
+
+## E113 Hope-path follow-through
+
+The [E113](../episodes/E113.md) quartet **crosses Gray Waste, Styx and Pandemonium**, then **returns to Tobacho's Sigil bar** without the Eye. **Hope** relinquishes **Fox pistol, not Scully**, and receives a **magical wind-up compass** keyed to an Eye-location lead (Council's report, still unverified). **Steerious gives up his large greatsword**, and leaves the still-responsive Gray Waste orc **Headsy (?)** at the dock. **Blood Skunk sacrifices his left little toe**, with the wound immediately healed but no regrowth shown; **Dr. Spider gives away his lab coat**. Hope also temporarily turns gray before the whole group is restored to normal coloration on entering Pandemonium. **The Council of Clowns knows of Hope's Hand**, by its own account, and points to **Pentel Weiss/Pentelvice (?)** near **Corinthian Nebula**; this does not supply the Eye itself or fulfill Hope's pact to Tobacho. [Full-export ASR report](../reports/E113_ASR_COMPARISON_2026-10-23.md).
 
 ## Major adversaries and power brokers
 
