@@ -1,6 +1,6 @@
 # Nash Maggard
 
-**Portrayed by:** Scott. **Identity:** Wasteland traveler and spellcaster, with an implanted dragon-metal heart. **Arc Two status:** Alive; physically changed, allied with newly crowned Hope. **Spoilers:** Main Wastes through E104; retrospective Q&A comments kept separate from direct play. **Evidence:** Processed SRTs/dossiers, not independently audio-verified.
+**Portrayed by:** Scott. **Identity:** Wasteland traveler and spellcaster, with an implanted dragon-metal heart. **Arc Two status:** Alive; physically changed, allied with newly crowned Hope. **Spoilers:** Main Wastes through E105; retrospective Q&A comments kept separate from direct play. **Evidence:** Processed SRTs/dossiers, not independently audio-verified.
 
 ## Character and history
 
@@ -255,6 +255,10 @@ In [E096](../../episodes/E096.md), the ritual from the journal finally **works i
 **Nash builds Walnut's self-confidence** and helps administer cures through the tower. When he tries to recruit Stanley to speed the treatment, **Stanley remains with Alentris**, so Nash **takes on reciting the phonetic Celestial words** and successfully cures additional guards. By E096's later montage, **the remaining residents are cured**, not those already dead. Walnut thanks Nash and discusses aspiring to join full priesthood at the House of Answers; **no promotion is yet performed**.
 
 Afterward, Stanley **apologizes for choosing a Celestia-oriented Fist mission without the team's consent** and reports **Captain Waltz's future replacement-airship message**; the ship **hasn't arrived** and the Earth-return option remains **unpromised celestial judgment**. **Hope now discloses the hostile mind-voice to Nash and the others**, and Nash discusses finding a demon compendium behind the library gate. They **consider shrinking Vorel or Walnut to fit through**, but **do not cast Reduce**. **Hope, Vorel, Nash and Walnut begin descending to the restricted library** after learning the gate has a lever; Nash does **not** merge with a demon or see the restricted book by E096 cutoff. [E096 ASR](../../reports/E096_ASR_COMPARISON_2026-10-23.md).
+
+## E105 — captain's liability and dangerous claustrophobia
+
+In [E105](../../episodes/E105.md) the corrected portal **actually reaches Sigil**. Harbor staff claim Nash owes **100,000 gold** because captaincy entails the previous uninsured admiral's ship liabilities; Nash gives **Soggy Feather** as a temporary address but **pays nothing**. Nash fears the packed elevator's enclosure and stench. He **only discusses Banishment and shrinking the ogres** (neither happens), tests its hatch, discovers concrete beyond, and in the knife ambush **floats upside down to evade grappling**. He casts **Fireball**, killing attackers **and an elderly gnome attendant**; the elevator ultimately breaks. He escapes and enters **Tobacho's Hive bar**, without confirmed gauntlet exchange, paid debt or Earth return. [Full text comparison](../../reports/E105_ASR_COMPARISON_2026-10-23.md).
 
 ## E104 — Captain Dragon Lord and the lost Great Angelashi
 

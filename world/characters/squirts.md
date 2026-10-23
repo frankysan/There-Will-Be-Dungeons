@@ -1,6 +1,10 @@
 # Squirts — kobold trickster (Arcs Four–Five)
 
-> **First appearance:** [E082](../../episodes/E082.md), unnamed kobold at the Soggy Feather. **Identified and developed:** [E083](../../episodes/E083.md), [processed Parakeet SRT](../../sources/The%20Wastes%20S1E083.%20Trash%20Monkey%20and%20The%20Bird.parakeet.processed.srt). **Kristen's new character**, **not** a reincarnated Hope. This profile is **ASR-based, not audio-verified**; contains spoilers through E104; earlier sections retain their episode-era cutoffs.
+> **First appearance:** [E082](../../episodes/E082.md), unnamed kobold at the Soggy Feather. **Identified and developed:** [E083](../../episodes/E083.md), [processed Parakeet SRT](../../sources/The%20Wastes%20S1E083.%20Trash%20Monkey%20and%20The%20Bird.parakeet.processed.srt). **Kristen's new character**, **not** a reincarnated Hope. This profile is **ASR-based, not audio-verified**; contains spoilers through E105; earlier sections retain their episode-era cutoffs.
+
+## E105 — guide charm, emergency healing and return to Tobacho
+
+In [E105](../../episodes/E105.md), Squirts charms **Bungor/Bungo (?)**, a friendly lizardfolk rickshaw driver, who carries her and helps the party reach the **Hive**. She survives the freight-elevator ambush with **Chunks**, casts **Heal** on badly wounded Stanley for **70 hit points** (as a crumpled-trash-looking spell, **not** a scroll), and later **Spare the Dying** and **Mass Healing Word** to save injured allies including **Fambo Joe**, who is alive again afterward. She reaches **Tobacho's bar** with the others; no Fist delivery or Earth crossing occurs. [Comparison](../../reports/E105_ASR_COMPARISON_2026-10-23.md).
 
 ## Identity and appearance
 

@@ -1,5 +1,9 @@
 # Initial model tests (supplied by archive owner)
 
+## 2026-10-23: E105 full-export Parakeet/Qwen text comparison
+
+[Complete report](../reports/E105_ASR_COMPARISON_2026-10-23.md) · [episode dossier](../episodes/E105.md). Two existing **Wastes S1E105** SRTs were decoded completely via workspace binary reads; no ASR was rerun or audio heard. Processed Parakeet: **2,900 cues, 25,467 normalized words, 02:52:14.240**. Qwen Q8/Canary CTC/Nemotron-labelled: **4,976 cues, 26,042 words, 02:52:14.300**. Exact full-sequence, unit-cost ordered Levenshtein: **2,536 / 25,467 = 9.96% text disagreement**; an independently implemented arbitrary-width bit-vector method passed **500 seeded short-sequence reference checks**. The Qwen export has **575 additional normalized words**, not verified missing speech. Model/processing tags are **filename-derived**; run settings and audio-copy association unknown. High-impact listening: Fambo/Bungor spelling, harbor debt, unsigned threat, attacker intent, gnome casualty, rescue magic, Tobacho encounter and anomalous final Qwen `Walnut` cue. **No WER or accuracy conclusion.**
+
 ## 2026-10-23: E103 Granite Plus Q4 pipeline evaluation
 
 [Evaluation](../reports/E103_GRANITE_EVALUATION_2026-10-23.md) ·

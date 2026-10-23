@@ -1,6 +1,6 @@
 # Vorel
 
-**Longer written name:** **Vorel Rasvim Kurik** in the fan wiki, not independently confirmed as a full name from Arc One spoken dialogue. **Portrayed by:** Kyle. **Identity:** Lizardfolk warrior. **Arc Two status:** Alive; protector of Bok Bok; bearing the sentient **Eye of Groxl**. **Spoilers:** played events through E104; retrospective bonus remarks kept separate from played events.
+**Longer written name:** **Vorel Rasvim Kurik** in the fan wiki, not independently confirmed as a full name from Arc One spoken dialogue. **Portrayed by:** Kyle. **Identity:** Lizardfolk warrior. **Arc Two status:** Alive; protector of Bok Bok; bearing the sentient **Eye of Groxl**. **Spoilers:** played events through E105; retrospective bonus remarks kept separate from played events.
 
 ## Character and development
 
@@ -306,6 +306,10 @@ In [E096](../../episodes/E096.md), **Vorel and Gregor finish making chicken brot
 **Stanley apologizes to Vorel** for changing the Fist mission in E094 without asking the other companions. The two discuss a **replacement airship** expected near White Tower the next day and a **proposed diversion to Mount Celestia**, with possible—but **not guaranteed**—help returning to Earth. The Fist remains in its guarded chest; transferring the separate key to Walnut is **only a plan**. **Vorel continues to carry borrowed Shatter**, which he has not returned.
 
 After **Hope tells the party about the unidentified hostile voice**, Vorel, Hope and Nash persuade **Walnut** to lead them toward the restricted library's demon compendium. They learn that **the gate is lever-operated and ordinarily requires commander/cleric permission**. **At E096 cutoff they are descending, not yet through the gate**, and have not found or defeated the suspected demon. [Comparison](../../reports/E096_ASR_COMPARISON_2026-10-23.md).
+
+## E105 — Fambo Joe, the ambush and the Hive
+
+In [E105](../../episodes/E105.md), Vorel returns to Sigil with **the unopened Fist case**. A rickshaw driver **Fambo Joe (?)** accuses him of missing a Friday appointment and slaps him after an ineffective apology. Later Vorel knocks a different, elderly would-be guide **unconscious**, not dead. Vorel protects companions through a freight-elevator ambush, using **Eye of Groxl flame shield** and fire-protective aura. **Nash's Fireball also kills a gnome lift attendant**, while orc escorts and hostile passengers suffer losses. Squirts helps stabilize wounded Fambo. When the floor collapses, **Stanley casts Feather Fall** and **Vorel helps force open the lower door** (Athletics 20), winning Fambo's grudging respect. They arrive at **Tobacho's Hive bar with the closed gauntlet case still in Vorel's custody**. Nothing has been surrendered or taken to Earth. [ASR report](../../reports/E105_ASR_COMPARISON_2026-10-23.md).
 
 ## E104 — enemy boarding, the mech and the still-sealed case
 

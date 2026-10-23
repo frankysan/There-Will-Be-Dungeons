@@ -366,7 +366,7 @@ This is a **triage queue**, not a complete record of every ASR timestamp. Dates 
 | **E103 ~02:10–02:24** | Patron demands evil act; Hope rejects direct killing instructions; **Blood Skunk's flaming arrow and Dr. Spider's Wall of Fire ignite empty station** | Long-term damage, injuries, and Hand-power restoration not independently verified |
 | **E103 ~02:24–02:41** | Airship with **closed gauntlet** still en route; city moon apparently falling; **saucer squadron and larger armed UFO open attack** | No impact, victory, crash, Sigil arrival or Tobacho fulfillment by E103 cutoff |
 
-**E104 now researched, ASR-provisional:** [The Wastes S1E104 dossier](../episodes/E104.md) · [full-export comparison](../reports/E104_ASR_COMPARISON_2026-10-23.md). Both exports read through final outro; **2,686 / 26,633 = 10.09% text disagreement**, not accuracy. No audio listened to. E103 rows above retain their historical cutoffs; **E104 explicitly accepts the fire, animates Celibus, shows Carthax's invasion and resolves the moon battle**.
+**E104 researched, ASR-provisional:** [The Wastes S1E104 dossier](../episodes/E104.md) · [full-export comparison](../reports/E104_ASR_COMPARISON_2026-10-23.md). Both exports read through final outro; **2,686 / 26,633 = 10.09% text disagreement**, not accuracy. No audio listened to. E103 rows above retain their historical cutoffs; **E104 explicitly accepts the fire, animates Celibus, shows Carthax's invasion and resolves the moon battle**.
 
 | Priority | E104 recording clock | Bounded review / unresolved consequence |
 | --- | --- | --- |
@@ -382,6 +382,16 @@ This is a **triage queue**, not a complete record of every ASR timestamp. Dates 
 **Next bounded monthly bonus research:** [BONUS-2020-07 — July 2020](../sources/Bonus%202020-07%20-%20July%202020.parakeet.processed.srt). [June 2020 bonus dossier](../episodes/BONUS-2020-06.md) and [two-ASR report](../reports/BONUS_2020_06_ASR_COMPARISON_2026-10-23.md) are now provisional: **new characters, GM's unplayed moon/mecha alternate, Spatulo's motivation, potential Banishment of Nash too, Stanley's hypothetical Earth return, Vorel's dropped Fang's Inferno, Hope/Tietkalla and Nash reaction**. **Map the later-arc assertions to actual E102+ played sources**, then audio-check the two recognizers' closing ~37:35 Qwen-only “Okay”, sword names and “Dr. Spider” name. The previous [May bonus](../episodes/BONUS-2020-05.md) and its [ASR report](../reports/BONUS_2020_05_ASR_COMPARISON_2026-10-23.md) still require recorded-day, pandemic-plot and ~33:30 Walnut stinger verification. **E101** is a **single dual-arc episode**: [dossier](../episodes/E101.md) · [full-export ASR comparison](../reports/E101_ASR_COMPARISON_2026-10-23.md). **Arc Four complete (E082 through E101 departure)**; [Arc Five](../narrative/ARC_FIVE.md) begins **in E101**. No audio verification.
 
 **Arc Four closeout follow-up (editorial, not an E101 research blocker):** The source-first [E101 dossier](../episodes/E101.md) and new [Arc Five opening](../narrative/ARC_FIVE.md) already record the user-confirmed in-episode split; the [Arc Four narrative](../narrative/ARC_FOUR.md) now has a concluding chapter but still retains earlier cutoff summaries. Do a **separate bounded whole-arc consolidation** to shorten/reshape those summaries with all E082–E101 developments in view; **first preserve a fully re-linked frozen copy** under `research/legacy/` according to [documentation architecture](DOCUMENTATION_ARCHITECTURE.md). Do not quietly rewrite or discard historical notes, pretend consolidation establishes audio accuracy or duplicate E101 as two events.
+
+**E105 researched, ASR-provisional:** [The Fright Elevator dossier](../episodes/E105.md) · [full-export comparison](../reports/E105_ASR_COMPARISON_2026-10-23.md), **2,536 / 25,467 = 9.96% ordered-word disagreement** (not WER). **Next main source: Wastes S1E106 — I Took An Arrow Thru The Brain**, both Parakeet and Qwen exports verified present but not read.
+
+| Priority | E105 recording clock | Listening / source task |
+| --- | --- | --- |
+| High | 00:12–00:35 | Verify **Hidden Stinker, admiral Walls, Fambo Joe and official 100,000-gold captaincy liability**; no paid debt or body recovery asserted. |
+| High | 00:40–00:54; 02:41–02:49 | Verify **Bungor/Bungo** guide and charm duration; separate real help from temporary spell influence. |
+| Critical | 01:15–01:33; 01:34–01:52 | Confirm threat wording/sender, deliberate trap, intended target and **which passengers turn into attackers**. Never attribute ambush to known assassin faction without evidence. |
+| Critical | 01:55–02:20; 02:20–02:43 | Confirm **Squirts's actual Heal, Nash's Fireball killing gnome attendant, Fambo's survival, Mass Healing Word, Feather Fall**, Vorel's shaft-door opening and orc losses. Count only audio/played supported casualties. |
+| High | 02:49–02:52:14 | Verify **Tobacho bar arrival and final dragon words**, anomalous final Qwen **“Walnut”** cue; do not backdate any Fist handover or Earth ticket. |
 
 ## 6. Arc coverage and previous detailed questions
 
@@ -431,6 +441,6 @@ bounded VAD-on/off repeat. No ARK rerun or listening task is audio-closed.
 - [ ] Revise a narrow **episode dossier + canonical profile + current ledger topic row** for each corroborated correction.
 - [ ] Preserve **raw source SRT files** and both generations of archived research; never silently overwrite recognition.
 - [ ] Validate Markdown links, headings and tables; run applicable source/document checks after edits.
-- [ ] Research **The Wastes S1E105 onward** in separate bounded batches; **E082–E104 are provisionally documented but still need listening**. E084 has **Parakeet and Qwen inter-ASR disagreement documented**, not audio-verified. All indexed 2019 bonuses and the **January 2020 bonus dual-export comparison** likewise remain ASR-based. Verify high-impact disagreement candidates before claiming canonical utterances.
+- [ ] Research **The Wastes S1E106 onward** in separate bounded batches; **E082–E105 are provisionally documented but still need listening**. E084 has **Parakeet and Qwen inter-ASR disagreement documented**, not audio-verified. All indexed 2019 bonuses and the **January 2020 bonus dual-export comparison** likewise remain ASR-based. Verify high-impact disagreement candidates before claiming canonical utterances.
 
 **Consolidation is not verification.** The active questions are intentionally shorter than the archives they replace.

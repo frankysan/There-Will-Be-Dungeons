@@ -1,6 +1,10 @@
 # Stanley Billings and Diontalus
 
-**Portrayed by:** Jon. **Identity model:** Two distinctly acting personalities/agents who **share Stanley's body**, with shifting control; not interchangeable aliases for one intention. **Spelling:** **Diontalus** is the creator- and owner-accepted canonical display ([D-026](../../project/DECISIONS.md)). `Dion Talus`, `Deontalus`, `Diantalus`, `Diontalis` are searchable source spellings, not equal official names. **Spoilers:** main campaign through E104 and separate Q&A.
+**Portrayed by:** Jon. **Identity model:** Two distinctly acting personalities/agents who **share Stanley's body**, with shifting control; not interchangeable aliases for one intention. **Spelling:** **Diontalus** is the creator- and owner-accepted canonical display ([D-026](../../project/DECISIONS.md)). `Dion Talus`, `Deontalus`, `Diantalus`, `Diontalis` are searchable source spellings, not equal official names. **Spoilers:** main campaign through E105 and separate Q&A.
+
+## E105 — ambush survival and Feather Fall
+
+In [E105](../../episodes/E105.md), Stanley returns to **Sigil** with Nash and Vorel, who still holds the **closed Fist case**. **Knife-wielding lift ambushers injure Stanley heavily** (an early round totals ~56 piercing), but he maintains **Heat Metal** concentration through saving throws and is restored with **Squirts's actual 70-point Heal**, not a used scroll. His **Mantle of Inspiration** supports party and rickshaw allies. When the elevator collapses, he casts **Feather Fall** for the falling companions while Nash flies. They escape and reach **Tobacho's bar**, without performing the relic delivery or returning to Earth. [Two-ASR comparison](../../reports/E105_ASR_COMPARISON_2026-10-23.md).
 
 ## Stanley before the intrusion
 
