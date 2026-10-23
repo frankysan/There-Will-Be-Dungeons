@@ -1,8 +1,8 @@
 # Arc Three — Strangers in the City of Doors
 
-**The Wastes, third researched story arc — opening chapters, corrected E082–E092 (ongoing)**
+**The Wastes, third researched story arc — opening chapters, corrected E082–E093 (ongoing)**
 
-**Full spoilers through E092.** This is an **initial narrative**, not a completed arc or an audio-verified transcript. It retells the **played sessions** from their [source-first dossiers](../episodes/E082.md), [E083](../episodes/E083.md), [E084](../episodes/E084.md), [E085](../episodes/E085.md), [E086](../episodes/E086.md), [E087](../episodes/E087.md), [E088](../episodes/E088.md), [E089](../episodes/E089.md), [E090](../episodes/E090.md), [E091](../episodes/E091.md) and [E092](../episodes/E092.md), which are based on processed ASR. Dialogue is paraphrased; uncertain names and planar explanations are not certified by this prose. The [December 2019 cast Q&A](../episodes/BONUS-2019-12.md) is retrospective context, **not another chapter of events**. This is **The Wastes**, wholly separate from *Inverse*.
+**Full spoilers through E093.** This is an **initial narrative**, not a completed arc or an audio-verified transcript. It retells the **played sessions** from their [source-first dossiers](../episodes/E082.md), [E083](../episodes/E083.md), [E084](../episodes/E084.md), [E085](../episodes/E085.md), [E086](../episodes/E086.md), [E087](../episodes/E087.md), [E088](../episodes/E088.md), [E089](../episodes/E089.md), [E090](../episodes/E090.md), [E091](../episodes/E091.md) [E092](../episodes/E092.md) and [E093](../episodes/E093.md), which are based on processed ASR. Dialogue is paraphrased; uncertain names and planar explanations are not certified by this prose. The [December 2019 cast Q&A](../episodes/BONUS-2019-12.md) is retrospective context, **not another chapter of events**. This is **The Wastes**, wholly separate from *Inverse*.
 
 ## Prologue — After the light
 
@@ -586,15 +586,65 @@ It is **not yet a flight**. The party has stolen its first key, obtained the pro
 
 [E092](../episodes/E092.md) · [Two-ASR comparison](../reports/E092_ASR_COMPARISON_2026-10-23.md)
 
+## XXVII. An invitation from the Mind Master
+
+**Traveler's Twin**. The name is a promise, or perhaps a boast, that the captain makes as the companions admire the vessel waiting on its enormous launch rails. She is a **loxodon**, a towering elephant-person dressed in ornaments and a swaggering pirate coat, with a curved sword that looks small only until she draws it. Her name is difficult to catch through the telling; something like **Meart**. But her confidence is easy to understand: this is a ship built to fly.
+
+Before they can depart, a richly dressed halfling steps out onto the dock. **Gerbken Shartlinger, the Mind Master**, has arrived with **four escorts dressed like the Crimson Moon assassins** who attacked the party before the BMF finals. Vorel immediately distrusts him. He remembers the taunts, the rivalry and the attempt to ruin his competition. The little man is quite pleased by the distrust. It was **he**, he says, who arranged for the ship at Tobacho's request.
+
+He has brought a gift. A black-clad attendant comes forward and opens a box containing a **dragon-head amulet with emerald eyes**, on a handsome chain. Its inscription wishes Vorel a future friendship with Mind Master. Vorel fears the necklace may be a trap. **Nash examines it with magic**, and the GM identifies the thing as an **Amulet of Health**, which will make its wearer's Constitution score **nineteen**. The fighters compare what such a gift might do for them. Vorel has no need to wear it, despite being its intended recipient. **Stanley takes it and puts it on**, feeling at once healthier and more vigorous. The expected strangulation does not come.
+
+Vorel asks how the Crimson Moon can vanish without leaving bodies. Mind Master will not tell him. He claims that to learn their methods one must join their order. He and the escorts depart after a look that makes Vorel more suspicious than before. **The man has been revealed as a participant in Tobacho's present business**, not proved to have ordered the earlier killings.
+
+[E093](../episodes/E093.md) · [E093 ASR comparison](../reports/E093_ASR_COMPARISON_2026-10-23.md)
+
+## XXVIII. A sky that Sigil cannot show them
+
+The captain calls the crew to work. Locks are pulled, ropes tightened and great sails raised. **Traveler's Twin begins sliding along its rails** toward a tremendous ring in the cavern wall. At the last possible moment the empty circle blossoms into **purple and pink light**. The hull glides through—and there is nothing beneath it.
+
+The airship tumbles in **a real blue sky**. Its engines catch, roar and lift it into stable flight. Down below the **Outlands** spread farther than anything familiar from the Wastes: lands of impossible colors, intermingled forests and deserts, waterways and far-away places of war. At their center an immense spire stretches almost beyond sight, with a small circular shape at its summit. The captain identifies this extraordinary landscape and tells the companions about worlds that meet to trade or fight there.
+
+She invites them into her quarters for tea and biscuits called, with little justification, **sky biscuits**. They discuss dying, returning, belonging and what the four mean to one another. Vorel has spent the last few days as a lizardfolk champion, a criminal bruiser and a disguised acolyte. His confusion about the life of a spy is real. The captain reminds him that espionage is built on appearances and deceit; he is reluctant to think of himself as that sort of person.
+
+The original heist still looks suicidal. The party intends to **leap from the airship above White Tower**, cast **Dimension Door** into it, recover the Fist and then somehow return to the sky. The captain doubts the ship can safely wait directly over a battlefield while they search. She **offers them a sending stone** so they can contact her for extraction when ready, and tells them not to call before there is somewhere safe to land.
+
+Through the captain's powerful telescope, **Stanley now sees the White Tower with his own eyes**. It is a stark white shape standing amid black masses that resolve into **a vast besieging army**. **Trebuchets fling stones into its walls**. Something like small creatures crawls over its surface. What the captured bishop told them about the siege is no longer merely a captive's account. But **no one can see Zorander's Fist through the telescope**. Neither the locked box nor the stolen key has been put to its intended use.
+
+An enormous **bang** rocks the vessel. A gnome bursts into the cabin, shouting that they are under attack.
+
+[E093](../episodes/E093.md) · [Telescope and transit review](../reports/E093_ASR_COMPARISON_2026-10-23.md)
+
+## XXIX. Falling is not the same as flying
+
+A cloud of **winged beastmen** fills the air around **Traveler's Twin**, accompanied by **two enormous wyverns**. The creatures dive onto the decks and slash at the gnome crew. Cannons fire, swords flash and the hull groans under blows from the larger beasts. Many of the little sailors fight bravely; **several are killed, and some tumble from the ship to the distant ground**.
+
+**Nash changes himself into a young black dragon** and flies above the battle, his great wings briefly making the airship look small. It is his own transformation, not another ape form bestowed by Stanley. **Vorel**, first distracted by his cask of ale, spins a ship's winding mechanism with such force that it catches a flying attacker and sends it around in circles. Then he bites the helpless creature. **Stanley uses Mantle of Inspiration** to shield his friends in temporary vigor and urges them into position with bardic magic, before hurling a truly insulting **Vicious Mockery** at the trapped enemy. **Hope draws Scully and fires** into the oncoming crowd.
+
+A wyvern hammers the hull. **Hope is thrown over the stern and catches the railing with one hand**. She hangs in the wind while the entire flying ship streaks away from her. Another enormous blow sends sailors sprawling. **Nash's acid breath** tears through a flying enemy and badly injures a wyvern, which crashes into the vessel, adding another shudder to its wooden frame.
+
+**Vorel's borrowed greatsword Shatter** takes apart a boarder. **Stanley sees a sliver of another wyvern beneath the ship, casts Polymorph, and transforms it into a tiny rat**. The creature drops from sight toward the distant ground. No one watches it land, and its ultimate fate remains a question.
+
+Hope's grip is weakening. A winged attacker creeps along the stern and **slashes the hand holding the rail**. The pain is too great; **Hope falls into the open sky**. Nash sees her go. He dives after her in his **black dragon form**, catches her, and returns her to the fight. Now **Hope rides Nash through the air and shoots from his back**, an improvised aerial partnership that actually works.
+
+Another wyvern has smashed through the vessel into the decks below. **Vorel bursts through the planking after it**. In a corridor choked with dust and smoke he meets the monster's teeth and stinger. It **poisons and wounds him badly**. But Vorel, raging and clutching Shatter, drives the great blade through the creature and finally **kills it**. The gnomes who survive rush to his aid. He has won, but he is **not shown suddenly healed**.
+
+Above, **Stanley continues fighting the boarders**. **Nash's dragon breath recharges**, and he turns acid against more of the winged creatures on the deck, killing two. The party debates whether the acid could also harm the ship; no one has isolated the cause of the vessel's accumulating damage. Hope, firing from the back of a moving dragon, has a much more immediate mistake. **A shot from Scully hits Nash squarely in the back of his head**, hurting him but not killing him. Her very next shot is a **critical hit** that tears an enemy's wings apart and sends it plummeting. The table remembers Scully's special benefit when it strikes critically.
+
+The defenders slowly clear the remaining attackers. It seems they may yet reach their goal. But **Traveler's Twin does not stop shaking**. There is **thick smoke billowing behind the captain**, and the great vessel begins **to tip forward and descend**. The gnomes have driven off the immediate boarders, yet the ship itself may now be their enemy.
+
+The story leaves all four in the air, **not on the ground beside White Tower**. They have a pendant, a sending stone and a dangerous mission. **There is no confirmed crash, landing, chest opening, Fist retrieval or safe road to Earth before the episode ends.**
+
+[E093](../episodes/E093.md) · [Source comparison](../reports/E093_ASR_COMPARISON_2026-10-23.md)
+
 ## An open door, not an ending
 
 The four who entered CHIDS's red beam are together again: **Hope and Stanley restored through Kidigree's mirrors**, and **Nash fully regrown after eight days**, with his thermal underwear unexpectedly fused to his body, providing **cooling and ten-foot flight** by GM ruling. **Vorel** owns a champion's title and a professional BMF cabinet at the Soggy Feather, but has not bought the inn.
 
-The way home has advanced from promise to a partly completed robbery. **Tobacho Fleur's commission** still seeks **Zorander's Fist**, reportedly hidden in the **White Tower in the Outlands**. But the companions have now **stolen the real-looking pendant from High Cleric Thrun at the Unwavering House**, leaving a convincing fake around his neck. **Stanley secures the object**, after Hope is temporarily detained and rescued through a magically altered memory. The pendant's power to open the Fist's box remains **unverified in play**.
+The way home is no longer merely a bargain made in Sigil. **Tobacho Fleur's demand for Zorander's Fist** has brought the company out of the city, aboard the **Traveler's Twin**, into the genuine **Outlands sky**. **Stanley still holds the real-looking pendant stolen from High Cleric Thrun**, and now also **wears a health amulet sent for Vorel by Mind Master**. Through the captain's telescope he has **seen the White Tower under real siege**; the Fist's exact custody and key still remain **untested**.
 
-Their **Harmonium exit writ was accepted**, **Lohar supplied another set of disguises**, and **the promised equipment actually arrived**: spell scrolls, Nash's ring, Hope's +2 dagger, travel gear, and **Fox and Scully with bullets but not Smokey's belt**. That restores the firearms to the group's reach, even though **Scully really left Hope in E090**; the older “Mulder” naming requires review. **Vorel has the borrowed Shatter**. They have traveled to the **Dark Below airship hangar**, where gnomes tend a ship and an elephant-like captain shows them aboard. **The captain's exact name and the ship's name remain uncertain**, and **there has been no takeoff or portal passage**.
+The airship, its gnome crew and the captain are real, and the party has a **sending stone to coordinate extraction**. But before they can approach the tower the ship is **attacked by beastmen and wyverns**. **Nash becomes a young black dragon and rescues Hope from a deadly fall**, then carries her while she shoots Scully; **Vorel kills a wyvern belowdecks with borrowed Shatter but is wounded and poisoned**, and Stanley **transforms another wyvern into an unobserved falling rat**. Crew are killed. Hope even **accidentally shoots Nash**, who survives.
 
-The captured **real Bishop Stevius**, Hope and Stanley's **Weir inscriptions**, **Kanja's reported murder**, Nothing's Pelvis/Abyss kidnapping, and the **Traversal Drive, Principle, Chance, Sira and Eddie** have no new resolution. **This narrative currently ends at E092 in the hangar**, not on the other side of its great portal. [E092 dossier](../episodes/E092.md) · [comparison](../reports/E092_ASR_COMPARISON_2026-10-23.md) · [chronology](../world/CHRONOLOGY.md).
+The immediate attackers appear defeated, but **the Traveler's Twin is smoking and dropping nose-first** at the E093 cutoff. **A crash has not yet been shown**, nor has a landing, the opening of the relic's box, the Fist's retrieval or the longed-for portal passage to Earth. **Mind Master's cooperation with Tobacho and proximity to Crimson Moon escorts are now witnessed, but their responsibility for Kanja's reported death and the E086 hired killers remains unresolved**. The captive real **Bishop Stevius**, the Weir-marked souls, Nothing's Abyss commission, and the **Principle, Drive, Chance, Sira and Eddie** have no new resolution. [E093 dossier](../episodes/E093.md) · [comparison](../reports/E093_ASR_COMPARISON_2026-10-23.md) · [chronology](../world/CHRONOLOGY.md).
 
 ### Later commentary, separate from the action
 
