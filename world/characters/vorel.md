@@ -1,6 +1,6 @@
 # Vorel
 
-**Longer written name:** **Vorel Rasvim Kurik** in the fan wiki, not independently confirmed as a full name from Arc One spoken dialogue. **Portrayed by:** Kyle. **Identity:** Lizardfolk warrior. **Arc One status:** Alive; protector of Bok Bok; bearing the sentient **Eye of Groxl**. **Spoilers:** played events through E095; retrospective bonus remarks kept separate from played events.
+**Longer written name:** **Vorel Rasvim Kurik** in the fan wiki, not independently confirmed as a full name from Arc One spoken dialogue. **Portrayed by:** Kyle. **Identity:** Lizardfolk warrior. **Arc One status:** Alive; protector of Bok Bok; bearing the sentient **Eye of Groxl**. **Spoilers:** played events through E099; retrospective bonus remarks kept separate from played events.
 
 ## Character and development
 
@@ -272,6 +272,12 @@ Within the dark library, **Vorel lights a brazier and throws a burning wooden ch
 In [E097](../../episodes/E097.md), **Vorel first fails to lift White Tower's restricted library gate by himself (11, then 15)**, then with **Hope and Nash obtains a combined 25**, snapping its retaining lock; **no enlargement spell is cast**. He reads a church-relic catalogue but **finds no verified entry for Zorander's Fist**, only stories of other Euphemian items. He **fetches Walnut from bed after the gate is opened**, eliciting a report that Fist reached White Tower only ~one week earlier and rumors of mountainlike strength, instant killing touch and haunting. **These are NPC claims, not demonstrated powers**.
 
 Vorel **suggests opening the Fist chest to lure out an enemy**, yet **no one actually opens it**. He continues to argue that returning home through the Tobacho bargain must matter, while Stanley resists empowering hostile forces. At the **morning council** Alentris **formally withdraws the party's death sentence**, reports incoming celestial pegasi and **accepts Stanley's roof/teleport handoff as safer than an open-gate battle**. The escort has **not yet appeared**. Shatter remains his borrowed sword and the key/Fist remain apart. [E097 ASR](../../reports/E097_ASR_COMPARISON_2026-10-23.md).
+
+## E098–E099 — Flame Tongue, compelled leap and disrupted Fist transfer
+
+In [E098](../../episodes/E098.md), the White Tower dwarf gives **Vorel a Flame Tongue greatsword** and he speaks **“Fangs Inferno”** to ignite it, rather than merely planning to request a weapon. Vorel reaches the rooftop aboard Nash's **Dimension Door scroll**, then **ropes a giant flying demon by its foot** and hangs from it. In [E099](../../episodes/E099.md), the GM rules Nash's attempted enlargement **is no longer active** after Banishment concentration breaks. Vorel **holds the rope in his teeth** while striking with the two-handed flaming sword; the assailant generates several apparent duplicates.
+
+A smaller enemy commander **casts Mass Suggestion, instructing targets to move south**, and Vorel fails his save. Still enraged, he **leaps off his rope and kicks celestial Knight Commander Thayle (?) from her Pegasus**, thereby **disrupting the first physical transfer of Zorander's Fist chest**; Stanley's Feather Fall protects the rider's descent, while the chest initially falls **onto the roof**. Vorel is **later released from the compulsion** under the table's damage interpretation. He attempts to ride the reluctant Pegasus, then **enters a Wall of Fire to stand by Stanley**, extending fire resistance to his ally. Stanley **Dimension Doors both onto a Nightmare**, but after the demonic mount is destroyed, **Stanley Feather Falls both safely down**. At cutoff Vorel **is not dead, is no longer charmed, has not delivered or opened Fist**, and his earlier loaned **Shatter** has no demonstrated return transfer. [E099 ASR report](../../reports/E099_ASR_COMPARISON_2026-10-23.md).
 
 ## E096 — the soup cure and next investigation
 

@@ -1,6 +1,6 @@
 # Stanley Billings and Diontalus
 
-**Portrayed by:** Jon. **Identity model:** Two distinctly acting personalities/agents who **share Stanley's body**, with shifting control; not interchangeable aliases for one intention. **Spelling:** **Diontalus** is the creator- and owner-accepted canonical display ([D-026](../../project/DECISIONS.md)). `Dion Talus`, `Deontalus`, `Diantalus`, `Diontalis` are searchable source spellings, not equal official names. **Spoilers:** E000–E081 and Q&A.
+**Portrayed by:** Jon. **Identity model:** Two distinctly acting personalities/agents who **share Stanley's body**, with shifting control; not interchangeable aliases for one intention. **Spelling:** **Diontalus** is the creator- and owner-accepted canonical display ([D-026](../../project/DECISIONS.md)). `Dion Talus`, `Deontalus`, `Diantalus`, `Diontalis` are searchable source spellings, not equal official names. **Spoilers:** main campaign through E099 and separate Q&A.
 
 ## Stanley before the intrusion
 
@@ -211,6 +211,12 @@ In the **underground library** Stanley **tries Dispel Magic on opaque black clou
 In [E097](../../episodes/E097.md), **Stanley sleeps with Alentris while Hope/Nash/Vorel search the restricted library**, then is awakened for a debate about whether to open the Fist chest or follow the promised transport. **He refuses to expose the group to a demon or surrender the artifact unexamined to Tobacho**, wanting a plan everyone can accept. He **helps Hope make breakfast**; a guard says **Alentris assumed command around when Fist arrived**, but Stanley has **no observed proof of any imposture**. **Hope warns nobody should let her touch the glove**.
 
 During **the formal chapel council Alentris actually rescinds all four earlier death sentences** and reports **pegasi-mounted Mount Celestia reinforcements expected tonight**. She initially wants to open the gates for an armed escort. **Stanley instead proposes a safer rooftop meeting and Dimension Door passage for the messenger**, accepted publicly. The **messenger never arrives within E097** and the **Fist remains in its unopened chest, stolen key still not delivered to Walnut**. At close **Alentris talks of rebuilding local farms and a beautiful place to raise children**, not confirmation of children/marriage. [ASR report](../../reports/E097_ASR_COMPARISON_2026-10-23.md).
+
+## E098–E099 — the battle over White Tower
+
+[E098](../../episodes/E098.md) brings Stanley and Alentris to the tower roof with the unopened Fist chest. He uses **Telekinesis** to force enemy fliers into the rooftop, defeating them. In [E099](../../episodes/E099.md), **Stanley uses Feather Fall to protect the visiting celestial commander Thayle (?)** when Vorel, influenced by Mass Suggestion, knocks her from her mount. The closed chest lands on the rooftop. Stanley later **Dimension Doors with Vorel onto an enemy flying horse**; when that mount is destroyed, he **casts another Feather Fall so that both return safely to the ground**.
+
+**Alentris retrieves the chest and attempts to fly away, but an archer kills her Pegasus.** Alentris and the chest fall from the tower, and Stanley is **out of range to intervene**. **Her fate and the chest's final location remain unknown at E099's cutoff.** The separate Fist key was last documented with Stanley, not handed to Walnut. [E099 comparison](../../reports/E099_ASR_COMPARISON_2026-10-23.md).
 
 ## E096 — cured by Alentris, new relationship and conditional celestial plan
 

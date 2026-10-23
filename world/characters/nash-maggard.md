@@ -1,6 +1,6 @@
 # Nash Maggard
 
-**Portrayed by:** Scott. **Identity:** Wasteland traveler and spellcaster, with an implanted dragon-metal heart. **Arc One status:** Alive; physically changed, allied with newly crowned Hope. **Spoilers:** Main Wastes through E081; retrospective Q&A comments kept separate from direct play. **Evidence:** Processed SRTs/dossiers, not independently audio-verified.
+**Portrayed by:** Scott. **Identity:** Wasteland traveler and spellcaster, with an implanted dragon-metal heart. **Arc One status:** Alive; physically changed, allied with newly crowned Hope. **Spoilers:** Main Wastes through E099; retrospective Q&A comments kept separate from direct play. **Evidence:** Processed SRTs/dossiers, not independently audio-verified.
 
 ## Character and history
 
@@ -221,6 +221,12 @@ When black clouds later block the stairwell, **Nash actually uses a Dimension Do
 ## E097 — restricted library, diplomacy and safer rooftop plan
 
 In [E097](../../episodes/E097.md), **Nash helps Vorel and Hope lift the restricted library portcullis without using Enlarge/Reduce**. He reads an unhelpful commander's diary and takes a short rest, then participates in a **late debate about opening Zorander's Fist chest**; no opening occurs. Nash **helps cook breakfast**, discusses Walnut's doubtful religious and planar reports and supports the team's search for an alternative to risking their home. The **Alentris-led council later formally withdraws their execution sentence** and accepts **Stanley's suggested rooftop rendezvous/teleport plan for an expected celestial messenger**, none yet arrived. **No Nash–demon collision or new bodily change happens in E097**. [Comparison](../../reports/E097_ASR_COMPARISON_2026-10-23.md).
+
+## E098–E099 — dragon-body conjunction and world-altering random magic
+
+[E098](../../episodes/E098.md) leaves Nash **alive in black-dragon form after Banishment ends** and its returned green winged demon materializes in his occupied position. The E099 GM ruling makes their torsos **physically attached**, so that Nash can still fly, move, cast and attack but initially **carries the hostile being with him**. At [E099](../../episodes/E099.md) ~01:30 he slams the demon's head against a White Tower rampart and **decapitates it**; the torso **remains attached** and Nash experiences burning at the join and an influx of hostile demonic blood. **Neither permanent hybridization nor successful detachment is demonstrated**, although the enemy's immediate ability to attack has ended.
+
+Unpredictable magic-table effects now occur around him. Nash is **made utterly certain he will someday drown in a picture/portrait of a lake**; this is a magical conviction, **not an actual death or verified prophecy fulfilled**. Nearby **a Pegasus, rider and two foes become twice their size**; he also receives **knowledge of an addictive euphoric substance**, without seeking or consuming it. In a later result the GM **actually changes daylight to night and an enormous city-bearing moon appears** over the Outlands. Beau calls these results **unplanned wild-magic-table outcomes**, not a hidden prepared cosmic plot. Nash casts a **second Banishment** during E099, but concentration fails and the opponent returns. At the **E099 cutoff Nash lives**, joined to the headless demonic body while the battlefield, new moon and effects remain unresolved. [E099 two-ASR comparison](../../reports/E099_ASR_COMPARISON_2026-10-23.md).
 
 ## E096 — actually cured, helps Walnut save the tower, pursues demon compendium
 
