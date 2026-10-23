@@ -8,7 +8,7 @@ This is now the **subject-focused reference index**, not the append-only episode
 
 | Character | Performer | Development and status at E054 | Profile |
 | --- | --- | --- | --- |
-| **Nash Maggard** | **Scott** | Survivor of the Solar Mines; bearer of an **implanted dragon-metal heart**, black-dragon form and unusual extra arm. **P0D is dead**; **Angelashi is alive**. Part of Hope's new council | [Nash](characters/nash-maggard.md) |
+| **Nash Maggard** | **Scott** | Survivor of the Solar Mines; bearer of an **implanted dragon-metal heart**, black-dragon form and unusual extra arm. **P0D is dead**; **Angelashi is alive**. Part of Hope's new council | [Nash](characters/nash-maggard.md) · [Spellcasting phrases and rhymes](characters/nash-spellcasting-phrases.md) |
 | **Hope Akmenos** | **Kristen** | Tiefling mechanic of Fate 4, later with mechanical arm/leg; **publicly crowned Queen of Tietkalla** after a returning tiefling contingent. Proposed reforms not completed | [Hope](characters/hope-akmenos.md) |
 | **Stanley Billings and Diontalus** | **Jon** | **Two distinct agents share one body**. Stanley opposed Diontalus's forced joining, George's killing and P0D's death; no expulsion by E054 | [Stanley and Diontalus](characters/stanley-diontalus.md) |
 | **Vorel** | **Kyle** | Lizardfolk warrior, Bok Bok's protector; refuses Soulbroker pact, proposes **Pillars of Decency**, acquires **Eye of Groxl**, remains alive | [Vorel](characters/vorel.md) |

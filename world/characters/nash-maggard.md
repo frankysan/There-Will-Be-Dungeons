@@ -2,6 +2,10 @@
 
 **Portrayed by:** Scott. **Identity:** Wasteland traveler and spellcaster, with an implanted dragon-metal heart. **Arc Two status:** Alive; physically changed, allied with newly crowned Hope. **Spoilers:** Main Wastes through E110; retrospective Q&A comments kept separate from direct play. **Evidence:** Processed SRTs/dossiers, not independently audio-verified.
 
+## Spellcasting phrases and rhymes
+
+Nash improvises strange phrases and rhymes around his magic. His separate **[spellcasting phrase register](nash-spellcasting-phrases.md)** records the wording, spell or ability, episode/time, performer attribution and source confidence, including unfinished attempts and magical-item theatrics. The collection is being backfilled; ASR-only wording remains provisional.
+
 ## Character and history
 
 Nash arrives in Dusthill bearing the scars and memories of the **Solar Mines** and the **Blood Canyons**, with a destructive power that both frightens and sustains him. His early account of captivity and escape is important to who he believes he is, but parts of that history later conflict with experiences induced by other powerful beings; the precise history of the mines is **not completely settled**. He is a central actor in the repair of Dusthill's underground water system, becomes dangerously involved in Slavetown's rivalries, and contributes to the fire there while affected by Pixie Blush.

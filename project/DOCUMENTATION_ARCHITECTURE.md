@@ -70,7 +70,10 @@ This is a **target**, not a claim that every suggested subject subdirectory exis
 
 ## Reference-entry contract (next pass)
 
+Large recurring collections may have a **separate linked subject register** rather than expanding the biography: [Nash's spellcasting phrases and rhymes](../world/characters/nash-spellcasting-phrases.md) owns that collection, with a short link from his profile and the character index. Keep source/cue provenance, confidence and distinct spoiler horizons on the register; do not duplicate its entries across reference and narrative pages.
+
 For a character/place/organization/artifact, use this consistent order:
+
 1. **Name and aliases** (orthography/source and stable identity; no invented official title).
 2. **Overview** in two or three concise paragraphs reflecting the specified spoiler horizon.
 3. **Chronological development** as short linked milestones, **not** every transcript table row.

@@ -10,6 +10,12 @@
 
 When a review is completed, record **episode + absolute recording time/cue IDs**, exact source file/recording, **who listened or inspected the handout**, date, old/new wording or interpretation, whether audio truly verified it, changed documents and relevant test results. A different ASR model, wiki, cast-written spelling, old owner notes and a fan image are **not all the same evidence tier**. Only close the bounded task actually tested.
 
+### Nash's spellcasting phrase register
+
+**Medium · ongoing capture and bounded backfill.** The separate [register](../world/characters/nash-spellcasting-phrases.md) has **14 selected-passage entries**, plus a rejected/proposed E105 line and retrospective roundup discussion. All remain **ASR-provisional**; the initial keyword searches do not constitute full-episode coverage. Capture new phrases during each Wastes review alongside Vorel's titles, under the [editorial policy](EDITORIAL_GUIDE.md#nashs-spellcasting-phrases-and-rhymes-2026-10-23).
+
+**Next backfill: Wastes S1E001**, using its existing Parakeet/Qwen exports, then advance in corrected archive order. This is independent of the next unanalyzed-episode and ASR-comparison pointers. Record reviewed coverage, including no located phrases, without treating search misses as proof of absence. For the existing rows, prioritize **E075 ~02:37:36–02:37:56** (abandoned ending), **E092 ~01:09:34–01:09:49** (`make it shrink` versus `make a drink`), and **S2E06 ~00:12:33–00:12:52** (target name missing from Parakeet), then verify exact wording and attribution. Keep item activations, unperformed proposals, other casters and non-casting poems distinct.
+
 ## 1. Pilot ASR transcription and diarization
 
 **2026-10-23 comparison backfill:** The

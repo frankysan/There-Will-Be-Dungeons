@@ -9,6 +9,7 @@
 | Reference | What it currently contains | Consolidation status |
 | --- | --- | --- |
 | [Characters and participants](CHARACTERS.md) | Main character and supporting-cast index with detailed sourced profiles | **Through E097:** Restricted library gate opened and researched; Alentris rescinds execution sentence; celestial pegasi expected, rooftop extraction accepted, Fist not taken |
+| [Nash's spellcasting phrases and rhymes](characters/nash-spellcasting-phrases.md) | Separate source-indexed collection of casting phrases, unfinished rhymes and magic-item theatrics | **Initial selected-passage register**, with later-season spoilers separated; backfill and listening remain open |
 | **[Sigil / City of Doors](places/sigil.md)** | City of Doors and subsequent Outlands / White Tower events | **Through E097:** Tower survivors cured; celestial riders expected and roof rendezvous planned; neither Fist nor key moved. |
 | [Places](PLACES.md) | Consolidated place index for Wastes settlements, CHIDS, Sigil and Outlands | **Main location chronology through E097**, including opened restricted library and planned roof rendezvous. |
 | [Portal device](technology/portal-device.md) | **Paired gateways and third necrotic-beam mode**; E075 acquisition, E076 executed escape, E077 friendly-fire risk; last documented device use E079 | **Updated through E079** |
