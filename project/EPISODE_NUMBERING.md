@@ -53,7 +53,7 @@ These correspond **one-to-one through original 54** (and, for E000, the original
 | **TWBD 79: The Wall Nash** | **`The Wastes S1E077. The Wall Nash`** | The two-step offset continues |
 | **TWBD 130: Burrow** | **`The Wastes S1E128. Burrow`** | Late Wastes S1 retains the **two-step** corrected offset |
 | **TWBD 109: The Handshaking Algorithm** (catalogue: 21 June 2020) | **`The Wastes S1E107. The Handshaking Algorithm`** | Jon-GMed **same-Wastes historical prequel**, long before E001's Dusthill departure, **not** an Arc Five continuation. [E107 dossier](../episodes/E107.md) |
-| **TWBD 110: Save The Two** (catalogue: 29 June 2020) | **`The Wastes S1E108. Save The Two`** | Second chapter of the **same Dunebreaker story**; next unread source after E107 |
+| **TWBD 110: Save The Two** (catalogue: 29 June 2020) | **`The Wastes S1E108. Save The Two`** | Second chapter of the **same Dunebreaker story**, [E108 analyzed](../episodes/E108.md) (Lamulkin/hidden daughters); next source E109 |
 | **TWBD 111: Sand Jell-O** (catalogue: 6 July 2020) | **`The Wastes S1E109. Sand Jell-O`** | Third/concluding chapter in owner catalogue; **not yet analyzed** |
 
 **Other separated series:** The source contains four **Inverse** parts, **Delvers** seasons 1–3, Wastes seasons 2–3, a **Star Trek one-off**, numerous monthly **Bonus** entries, and a **Wastes campaign roundup**. The source's normalized names for these entries—not the Wastes S1 shift arithmetic—determine their archive identifiers.
