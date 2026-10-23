@@ -132,6 +132,12 @@ In the [March 2020 public-release cast Q&A](../episodes/BONUS-2020-03.md) (~04:3
 
 **Editorial identity control:** A homebrew realm can take inspiration from published cosmology without being identical; **“Kitobol Prith”, “Kitobalpraith” and ASR-like forms should be audited against original audio/handouts before silently imposing new canonical spelling**. [Two-ASR report](../reports/BONUS_2020_03_ASR_COMPARISON_2026-10-23.md).
 
+## Later April 2020 GM commentary — inert Eye and rare good-aligned orders
+
+In [BONUS-2020-04](../episodes/BONUS-2020-04.md) (~24:45–26:20), **Beau says that the one Eye of Groxl is artifact-like rather than an ordinary decaying organic part**. The group confirms **inert remnants still occupy Vorel's chest**, and Kyle describes the result as a **sunken scar/crater**. This complements **E081's broken Eye and E082's protecting membrane**: **the inner presence died but physical remnants have not been removed**, and **no restored magic, living sentience or second Eye has been demonstrated**.
+
+Beau later explains (~28:55–32:15) that the more varied/friendly Sigil NPCs are a **deliberate contrast with the Wastes' harsh, suspicious social climate**. He depicts the **White Tower's followers of Euphemius as intended good-aligned**, while acknowledging dishonest figures in Sigil. **Tietkalla** remains one of the few hopeful communities on Earth, alongside rare **good-aligned/paladinlike orders** such as **Paxus, associated with Melgor** (ASR spellings provisional). This is **retrospective creator characterization**, not a new event within the E081 world-reference cutoff or a guarantee that any future negotiation succeeds. The source also **speculates that one hive-linked future Nash could survive if the Kervalon hive persisted**, a conditional claim that requires live episode corroboration. [ASR comparison](../reports/BONUS_2020_04_ASR_COMPARISON_2026-10-23.md).
+
 ## Reference boundaries and preservation
 
 **Player-observed action is different from speaker claims**. The [Arc One narrative](../narrative/ARC_ONE.md) and [chronology](CHRONOLOGY.md) retain first-arc event order. **E055–E081** knowledge is consolidated here by **society, science, competing explanations and source cutoff**, rather than repeated chronologically. Specific player inventories, changing gear custody, spell adjudications, cutoffs and unresolved names belong in [character profiles](CHARACTERS.md), [entity pages](README.md), [active consistency issues](CONSISTENCY_LEDGER.md) and [review queue](../project/REVIEW_QUEUE.md).
