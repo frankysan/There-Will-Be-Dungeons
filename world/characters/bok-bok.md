@@ -12,6 +12,10 @@ In the Year One Q&A Beau reveals that Bok Bok's first appearance was an **improv
 
 **Evidence:** [E006](../../episodes/E006.md) · [E007](../../episodes/E007.md) · [E016](../../episodes/E016.md) · [E025](../../episodes/E025.md) · [E026](../../episodes/E026.md) · [E048](../../episodes/E048.md) · [E049](../../episodes/E049.md) · [E051](../../episodes/E051.md) · [E054](../../episodes/E054.md) · [Vorel](vorel.md) · [Q&A](../../episodes/BONUS-2019-03.md).
 
+## E111 — reunion, dynamite and missing hand
+
+After the Tietkalla invasion, [E111](../../episodes/E111.md) **actually finds Bok Bok alive** in the hidden passage beneath the **Golden Sands**, where he has been protecting pregnant **Angelashi**. He joyously embraces **Vorel**, speaks learned Common and behaves bashfully towards kobold **Squirts**. He joins the original party and the Elhandari rescue operation against **General Carthax**. The elf-provided **pink pill** he accepts has a fast-rest effect/cost not fully tracked for him. **Bok Bok runs into Carthax's mouth with dynamite**, setting off an internal explosion; **Stanley uses *Mantle of Majesty* and *Command* (“vomit”)** on the pacified general, who **expels Bok Bok alive**, suffering multiple burns and **the loss of one hand**. This **is not Bok Bok's death**. **Vorel carries him aboard the departing Elhandari spaceship** along with **Squirts's ashes**. No healing of the missing hand or prosthetic is shown. [Comparison](../../reports/E111_ASR_COMPARISON_2026-10-23.md).
+
 ## New-arc status — E055–E056
 
 **Bok Bok** is Vorel's **kitchen worker/apprentice at the Golden Sands**, helping maintain the adventurers' guild during three months of settled life, though habits about meat and order still cause comic friction. He remains at the inn alongside **Angelashi and Fibel/Fibble** during E056's dangerous stone storm, rather than accompanying the four protagonists into the ancestral rite. No injury/death to Bok Bok is reported by E056. [E055](../../episodes/E055.md) · [E056](../../episodes/E056.md) · [April cast roundtable](../../episodes/BONUS-2019-04.md).

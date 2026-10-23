@@ -1,6 +1,10 @@
 # Vorel
 
-**Longer written name:** **Vorel Rasvim Kurik** in the fan wiki, not independently confirmed as a full name from Arc One spoken dialogue. **Portrayed by:** Kyle. **Identity:** Lizardfolk warrior. **Arc Two status:** Alive; protector of Bok Bok; bearing the sentient **Eye of Groxl**. **Spoilers:** narrative coverage through E110; the title register separately includes later seasons and the final Wastes roundup. Retrospective bonus remarks remain separate from played events.
+**Longer written name:** **Vorel Rasvim Kurik** in the fan wiki, not independently confirmed as a full name from Arc One spoken dialogue. **Portrayed by:** Kyle. **Identity:** Lizardfolk warrior. **Arc Two status:** Alive; protector of Bok Bok; bearing the sentient **Eye of Groxl**. **Spoilers:** narrative coverage through E111; the title register separately includes later seasons and the final Wastes roundup. Retrospective bonus remarks remain separate from played events.
+
+## E111 — Bok Bok saved, Squirts lost, the general subdued
+
+At [E111](../../episodes/E111.md), **Vorel** steers the group stealthily from devastated keep to **Golden Sands** and **reunites with Bok Bok alive**, who had helped shelter pregnant Angelashi. When the **Elhandari elf army** arrives, he distrusts Captain Tenmuth's no-prison, therapy-oriented rhetoric. **Vorel states his established “Fang of Razak Val” title**, not a fresh coronation (see the title register). He reluctantly joins an attack on **General Carthax**; **Squirts heals Omnom, but Carthax's beams kill Squirts and Melgor**, leaving **Chunks alive**. Vorel deals heavy fiery melee damage, then **wins an Athletics contest to punch an elven empathy-grenade bandolier into Carthax's eye**. **Carthax is pacified and captured alive**, not slain. **Bok Bok dives into Carthax's mouth with dynamite**; after **Stanley's *Command* causes Carthax to vomit**, Vorel receives **Bok Bok alive but badly hurt and with one hand missing**. With Nash shielding the site and **Stanley supplying a component vial**, **Vorel physically gathers and keeps Squirts's ashes**. He **boards an elven ship with injured Bok Bok and the vial**, leaving Tietkalla for proposed refuge at Elhandar; **no arrival or resurrection shown**. [E111 comparison](../../reports/E111_ASR_COMPARISON_2026-10-23.md).
 
 ## Character and development
 
@@ -58,7 +62,7 @@ The [2026-10-23 transcript search](../../reports/VOREL_TITLE_AUDIT_2026-10-23.md
 | E060 ~02:12:32–02:12:43 | **Slayer of the Metal Man** | Self-recital |
 | E060 ~02:12:36–02:12:43 | **Boon of Fuxi** | Self-recital; ASR `boon of fushi` / `Boone of Fushi`; Fuxi is the established reference spelling |
 | [E061](../../episodes/E061.md) ~01:41–01:45 | **Sheriff** (`sherf` ASR) | Appointed by Orp |
-| [E062](../../episodes/E062.md) ~02:29–02:34; [E063](../../episodes/E063.md) ~01:14–01:18 | **Great Fang of Razak Val** | Earned and publicly recognized |
+| [E062](../../episodes/E062.md) ~02:29–02:34; [E063](../../episodes/E063.md) ~01:14–01:18; [E111](../../episodes/E111.md) ~01:34–01:39 | **Great Fang of Razak Val / Fang of Razak Val** | Earned and publicly recognized in E062–E063; **Vorel self-introduces to elven Captain Tenmuth in E111 with shorter “Fang of Razak Val”**, not a newly granted rank; E111 wording ASR-provisional |
 | [E063](../../episodes/E063.md) ~00:24–00:26 | **“I am the force here”** (provisional paraphrase) | Rhetoric; unverified wording |
 | [E064](../../episodes/E064.md) ~01:26–01:28 | **“Mawstorm” for a newly acquired raptor** | Name of raptor, not Vorel's title |
 | [E064](../../episodes/E064.md) ~02:00–02:01 | **“Your Fang shall save you”** (provisional wording) | Invocation of existing office |

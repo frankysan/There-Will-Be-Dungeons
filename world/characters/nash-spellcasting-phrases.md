@@ -1,6 +1,6 @@
 # Nash Maggard — spellcasting phrases and rhymes
 
-**Character:** [Nash Maggard](nash-maggard.md), portrayed by **Scott**. **Continuity:** The Wastes. **Spoilers:** Selected Season 1 scenes through **E110**, followed by a separately marked later-season section. **Status:** Initial register, added 2026-10-23; **ASR-provisional, not audio-verified or an exhaustive collection**.
+**Character:** [Nash Maggard](nash-maggard.md), portrayed by **Scott**. **Continuity:** The Wastes. **Spoilers:** Selected Season 1 scenes through **E111**, followed by a separately marked later-season section. **Status:** Initial register, added 2026-10-23; **ASR-provisional, not audio-verified or an exhaustive collection**.
 
 Nash improvises strange phrases, rhymes and sometimes unfinished verses around his magic. This page collects the wording separately from his character history, following the provenance practice of [Vorel's title register](vorel.md#titles-and-epithets--source-indexed-register). In **E046 ~02:52:57–02:53:10**, Beau awards Nash inspiration for the effort he puts into his magical words ([Parakeet][046-p], cues 2797–2801; [Qwen][046-q], cues 4622–4629). That recognizes an existing habit; it does **not** establish E046 as its beginning.
 
@@ -12,7 +12,7 @@ Nash improvises strange phrases, rhymes and sometimes unfinished verses around h
 - Record each distinct phrase or meaningful variant with a stable **NSP** identifier, corrected season/episode, clock/cues, spell or ability **when identifiable**, context, source links and confidence. IDs are stable entry keys, not a claim about discovery or performance order. Earlier findings can be inserted chronologically without renumbering existing entries.
 - Distinguish **cast/attempted spell**, **character ability**, **magic-item activation**, **proposed wording** and **out-of-game recollection**. A rhyme is not proof of a successful spell or a fixed mechanical requirement. Repeated spells can have different phrases; link unchanged repeats to the existing entry and retain material wording or outcome changes.
 
-## Season 1 — selected phrases through E110
+## Season 1 — selected phrases through E111
 
 All entries below are **machine-transcript evidence only**. Both exports were inspected at the listed passages. Episode links lead to the existing scene dossiers, which are not necessarily phrase inventories.
 
@@ -29,8 +29,9 @@ All entries below are **machine-transcript evidence only**. Both exports were in
 | **NSP-009** · [S1E092](../../episodes/E092.md) ~01:09:34–01:09:49 | P: `here we see a lot of drink` / `it is upon me now to make it shrink` | **Enlarge/Reduce: Reduce** on the ale casks in Vorel's hands, allowing him through the doorway. | [P][092-p] 1091–1092; [Q][092-q] 1881–1883. Q instead has `It is upon me now to make a drink`, followed by `all shrink it`; **the second line is disputed**. Spell outcome does not settle the words. |
 | **NSP-010** · [S1E093](../../episodes/E093.md) ~01:05:28–01:05:41 | `hey you guys it's dragon time don't forget to bring a lime` | **Black-dragon transformation.** A character-ability performance, not an independently identified conventional spell. | [P][093-p] 989–990; [Q][093-q] 1576–1577. Q has `Don't forget, bring a lime`, without `to`. Context attributes the performance to Scott/Nash despite a different numeric speaker label. |
 | **NSP-011** · [S1E110](../../episodes/E110.md) ~01:23:38–01:23:48 | `i may be but a simple mortal but as you can see i done made a portal` | **Teleportation Circle.** Nash supplies the verbal component after drawing the circle with smiley faces; a portal opens. | [P][110-p] 1399; [Q][110-q] 2375–2377. Q splits the opening `I may be, but. A simple mortal`; do not turn the humorous grammar into polished dialogue. |
+| **NSP-015** · [S1E111](../../episodes/E111.md) ~02:24:58–02:25:05 | P: `frog hair of a cow look out world i'm a dragon now`; Q: `eye of frog, hair of a cow. Look out, world! I'm a dragon now` | **Black-dragon transformation** during General Carthax battle. Nash **actually transforms**, but the DM **allows an immediate inspiration-spending reversal** later, rather than treating extended dragon form as lasting. | [P][111-p] 2225; [Q][111-q] 3591–3593. Opening ingredient **“frog hair” / “eye of frog”** differs and needs audio; no wording repair or assumption of material components. |
 
-## Later-season phrases — spoilers beyond E110
+## Later-season phrases — spoilers beyond E111
 
 These selected passages extend the phrase register only. They do **not** extend the main character page's researched narrative horizon or establish earlier use of the wording. No new full-episode dossiers were made for this register.
 
@@ -51,7 +52,7 @@ These are related evidence, separate from phrases accompanying performed magic.
 
 ## Coverage and next backfill
 
-This initial collection contains **14 phrase entries**, plus the separately classified E105 proposal and roundup discussion. Local source searches looked for rhyme/magic-word language in **162 Wastes-labelled Parakeet processed exports**, followed by selected Parakeet/Qwen passage comparisons. Additional casting searches in selected early Season 1 files were discovery aids. **Search coverage is not full-recording review**; no episode is marked exhaustively inventoried, and no claim of earliest use is made. Sources were read from the local checkout, starting HEAD `97e78452c0af71a1e5dc540a434618f085107d41`; source SRTs were not edited.
+This collection now contains **15 phrase entries**, plus the separately classified E105 proposal and roundup discussion. Local source searches looked for rhyme/magic-word language in **162 Wastes-labelled Parakeet processed exports**, followed by selected Parakeet/Qwen passage comparisons. Additional casting searches in selected early Season 1 files were discovery aids. **Search coverage is not full-recording review**; no episode is marked exhaustively inventoried, and no claim of earliest use is made. Sources were read from the local checkout, starting HEAD `97e78452c0af71a1e5dc540a434618f085107d41`; source SRTs were not edited.
 
 **Next bounded backfill: Wastes S1E001**, using its existing Parakeet/Qwen pair, then proceed in corrected archive order. Read surrounding turns to distinguish Nash's lines from other casters, recaps, jokes and listener mail. Record a reviewed episode with no located phrases as a coverage result, not proof that no phrase was spoken. Existing seed rows do not remove their episodes from that later full pass. Full episode analysis continues on its existing independent research pointer.
 
@@ -77,6 +78,8 @@ For ongoing episode research, add new phrases here during the same review as Vor
 [105-q]: ../../sources/The%20Wastes%20S1E105.%20The%20Fright%20Elevator.qwen-q8.canary-ctc.nemotron.srt
 [110-p]: ../../sources/The%20Wastes%20S1E110.%20Do%20what%20the%20big%20head%20tells%20you.parakeet.processed.srt
 [110-q]: ../../sources/The%20Wastes%20S1E110.%20Do%20what%20the%20big%20head%20tells%20you.qwen-q8.canary-ctc.nemotron.srt
+[111-p]: ../../sources/The%20Wastes%20S1E111.%20Squirts%20Into%20The%20Night.parakeet.processed.srt
+[111-q]: ../../sources/The%20Wastes%20S1E111.%20Squirts%20Into%20The%20Night.qwen-q8.canary-ctc.nemotron.srt
 [126-p]: ../../sources/The%20Wastes%20S1E126.%20Musical%20Shredding%20Damage.parakeet.processed.srt
 [126-q]: ../../sources/The%20Wastes%20S1E126.%20Musical%20Shredding%20Damage.qwen-q8.canary-ctc.nemotron.srt
 [s2e06-p]: ../../sources/The%20Wastes%20S2E06.%20Schr%C3%B6dinger's%20Nash.parakeet.processed.srt

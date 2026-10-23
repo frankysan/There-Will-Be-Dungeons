@@ -1,10 +1,14 @@
 # Stanley Billings and Diontalus
 
-**Portrayed by:** Jon. **Identity model:** Two distinctly acting personalities/agents who **share Stanley's body**, with shifting control; not interchangeable aliases for one intention. **Spelling:** **Diontalus** is the creator- and owner-accepted canonical display ([D-026](../../project/DECISIONS.md)). `Dion Talus`, `Deontalus`, `Diantalus`, `Diontalis` are searchable source spellings, not equal official names. **Spoilers:** main campaign through E110 and separate Q&A.
+**Portrayed by:** Jon. **Identity model:** Two distinctly acting personalities/agents who **share Stanley's body**, with shifting control; not interchangeable aliases for one intention. **Spelling:** **Diontalus** is the creator- and owner-accepted canonical display ([D-026](../../project/DECISIONS.md)). `Dion Talus`, `Deontalus`, `Diantalus`, `Diontalis` are searchable source spellings, not equal official names. **Spoilers:** main campaign through E111 and separate Q&A.
 
 ## BONUS-2020-07 — retrospective skill and unrealized artifact
 
 In the [July-publication 2020 Q&A](../../episodes/BONUS-2020-07.md), **Jon says Stanley knew the damaging potential of *Vicious Mockery* before the campaign began**, rather than discovering that verbal insults could injure in a later goblin encounter. When asked about Stanley's long-promised **artifact and “elf side”**, Jon would welcome their return and Beau says reunification had **long been planned**, while declining to guarantee the result. This is **future creative intent, not artifact possession, a finished ritual or an extra played scene**. Fast jokes about alternate names (“Toyota Stump,” “Nuts Phenom,” etc.) need audio and episode-era corroboration before being assigned as canonical aliases. [Bonus ASR report](../../reports/BONUS_2020_07_ASR_COMPARISON_2026-10-23.md).
+
+## E111 — Squirts lost; Stanley saves Bok Bok with a command
+
+[E111](../../episodes/E111.md) takes Stanley, with Squirts and infant Chunks, across destroyed Tietkalla to the **Golden Sands**, where they **find pregnant Angelashi and Bok Bok alive**. A **Message** from **Nobieri** interrupts Nash's proposed teleport. **Stanley witnesses Elhandari troops pacify and capture nycaloths**, and argues for staying to aid survivors rather than retreating immediately. At the Carthax confrontation **Stanley swallows a rapid-rest pink pill**, gaining immediate benefits but facing **four exhaustion levels in two hours**, then casts ***Heat Metal* on Carthax's armor**, uses ***Mantle of Inspiration*** and later ***Dissonant Whispers***; **Carthax disintegrates Squirts and Melgor**. **Stanley later invokes *Mantle of Majesty* to cast *Command* (“vomit”)**, causing the pacified general **to expel Bok Bok alive, with burns and a severed hand**. **Stanley supplies a small container from his component pouch** to let Vorel collect **Squirts's ashes**, and boards the departing **Elhandari spacecraft while carrying Chunks**. No Squirts resurrection is performed; the general is **captured alive**. [Comparison](../../reports/E111_ASR_COMPARISON_2026-10-23.md).
 
 ## E110 — alternate belongings and the heated Diplomacy strike
 

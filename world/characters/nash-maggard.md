@@ -1,6 +1,6 @@
 # Nash Maggard
 
-**Portrayed by:** Scott. **Identity:** Wasteland traveler and spellcaster, with an implanted dragon-metal heart. **Arc Two status:** Alive; physically changed, allied with newly crowned Hope. **Spoilers:** Main Wastes through E110; retrospective Q&A comments kept separate from direct play. **Evidence:** Processed SRTs/dossiers, not independently audio-verified.
+**Portrayed by:** Scott. **Identity:** Wasteland traveler and spellcaster, with an implanted dragon-metal heart. **Arc Two status:** Alive; physically changed, allied with newly crowned Hope. **Spoilers:** Main Wastes through E111; retrospective Q&A comments kept separate from direct play. **Evidence:** Processed SRTs/dossiers, not independently audio-verified.
 
 ## Spellcasting phrases and rhymes
 
@@ -265,6 +265,10 @@ In [E096](../../episodes/E096.md), the ritual from the journal finally **works i
 **Nash builds Walnut's self-confidence** and helps administer cures through the tower. When he tries to recruit Stanley to speed the treatment, **Stanley remains with Alentris**, so Nash **takes on reciting the phonetic Celestial words** and successfully cures additional guards. By E096's later montage, **the remaining residents are cured**, not those already dead. Walnut thanks Nash and discusses aspiring to join full priesthood at the House of Answers; **no promotion is yet performed**.
 
 Afterward, Stanley **apologizes for choosing a Celestia-oriented Fist mission without the team's consent** and reports **Captain Waltz's future replacement-airship message**; the ship **hasn't arrived** and the Earth-return option remains **unpromised celestial judgment**. **Hope now discloses the hostile mind-voice to Nash and the others**, and Nash discusses finding a demon compendium behind the library gate. They **consider shrinking Vorel or Walnut to fit through**, but **do not cast Reduce**. **Hope, Vorel, Nash and Walnut begin descending to the restricted library** after learning the gate has a lever; Nash does **not** merge with a demon or see the restricted book by E096 cutoff. [E096 ASR](../../reports/E096_ASR_COMPARISON_2026-10-23.md).
+
+## E111 — physically reunited with Angelashi; hazardous elven medicine
+
+In [E111](../../episodes/E111.md), Nash uses Squirts's stealth support to reach **the Golden Sands** and **actually kisses heavily pregnant Angelashi**, after E110's vision-only encounter. He **begins sketching a Teleportation Circle to the asteroid tower** but **does not cast or travel via it**, choosing instead to investigate **Nobieri's arriving Elhandari rescuers**. Angelashi wants their child to grow somewhere safer; **Nash floats her to an elven spacecraft** before joining the fight against **General Carthax**. Nash **swallows an elven pink pill** giving immediate long-rest benefits but with **four exhaustion levels due in two hours**, casts ***Haste* on Vorel** and **briefly assumes black dragon form**. The DM exceptionally allows Nash to **spend inspiration to immediately reverse that transformation** on realizing the pill's exhaustion combination might kill him; not a new general dragon-form rule. **Squirts dies** to Carthax's beams; **Nash shields her ashes** against ship wind while Vorel gathers them. Carthax survives pacified/captured; **Nash boards with the party and his pregnant wife as the ship departs Tietkalla**, destination Elhandar, not yet arrived. [ASR report](../../reports/E111_ASR_COMPARISON_2026-10-23.md).
 
 ## E110 — another Nash and the rescue vision
 

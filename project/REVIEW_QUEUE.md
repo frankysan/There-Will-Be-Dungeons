@@ -465,7 +465,21 @@ This is a **triage queue**, not a complete record of every ASR timestamp. Dates 
 | High | ~27:40–31:50 | **“the Feeler”** design source and conditional per-scale Vorel training |
 | High | ~31:50–37:20 | Joking romance tally includes immediately retracted invention; Scott's Nash/Angelashi backstory, not acted dialogue |
 
-**Next main-series episode remains [E111 — Squirts Into The Night](../sources/The%20Wastes%20S1E111.%20Squirts%20Into%20The%20Night.parakeet.processed.srt)** ([Qwen](../sources/The%20Wastes%20S1E111.%20Squirts%20Into%20The%20Night.qwen-q8.canary-ctc.nemotron.srt)), **both previously verified, still unresearched**.
+**E111 — Squirts Into The Night has since been researched** in its [dossier](../episodes/E111.md) and [ASR comparison](../reports/E111_ASR_COMPARISON_2026-10-23.md); the next unresearched corrected episode is **E112**, continuing Hope's separate course.
+
+**E111 — Squirts Into The Night researched, ASR-provisional:** [dossier](../episodes/E111.md) · [two-export report](../reports/E111_ASR_COMPARISON_2026-10-23.md). Exact full-export normalized Parakeet→Qwen **2,248 / 23,857 = 9.42% text disagreement**, **not WER or audio accuracy**; Qwen has 378 more words. Both source files read at matching clean pinned commit. **Bok Bok and pregnant Angelashi physically reunite with Vorel/Nash at Golden Sands**, where Squirts's *Pass without Trace* brought party from E110. Elhandari **Doctor Yvaine and Captain Tenmuth (?)** arrive; **Nobieri and Melgor** appear searching for Hope. **Squirts heals Omnom**, then **Carthax kills Squirts, Melgor and several elves by 66-force disintegration beams**; **Chunks survives**. **Vorel uses empathy grenades in Carthax's eye; general is pacified, captured alive**. **Stanley's *Command* expels Bok Bok alive but missing a hand** from general's stomach. **Vorel secures Squirts's ashes in Stanley-supplied vial**, **Stanley boards with Chunks**, **Vorel carries injured Bok Bok**, **Nash reunites with Angelashi aboard elven ship**. Ship departs Tietkalla **without arrival at Elhandar yet**. Fast-rest pills **Stanley and Nash actually swallow** carry four levels of exhaustion due in two hours; GM allows unusual inspiration-spending dragon reversal. **Hope not played**. A new Nash rhyme **NSP-015** was added to the [phrase register](../world/characters/nash-spellcasting-phrases.md).
+
+| Priority | E111 clock | Verification target |
+| --- | --- | --- |
+| Critical | ~00:45–01:07 | **Real reunion of Angelashi, Bok Bok; cancelled/paused Teleportation Circle**; Nobieri messages and Elhandari identity |
+| High | ~01:12–01:45 | **Dr Yvaine / Captain Tenmuth / Melgor / Elhandar** spellings; elven therapy/traps, asylum claims versus witnessed technology |
+| Critical | ~01:45–02:12 | **Angelashi safe aboard before fight, Omnom alive**, fast-rest pill count and four-level delayed exhaustion |
+| Critical | ~02:10–02:22 | **Squirts 66 force damage/disintegrated; Melgor also dies, Chunks alive; Squirts heals Omnom** |
+| Critical | ~02:22–02:49 | **Vorel's grenades in general's eye pacify him, not kill him**, GM special inspiration dragon reversal, **Stanley Command returns Bok Bok alive without one hand** |
+| Critical | ~02:49–02:57 | **Vorel has Squirts's ashes in vial, Stanley carries Chunks, ship departs**, Carthax captured; no resurrection, no Elhandar arrival |
+| High | ~02:24:58–02:25:05 | Nash spell phrase **“frog hair” vs “eye of frog”**, [NSP-015](../world/characters/nash-spellcasting-phrases.md), performed transformation then exceptional reversal |
+
+**Next corrected source confirmed by owner catalogue and both exact SRT inventories:** [E112 — Flee, my fae wildlings!](../sources/The%20Wastes%20S1E112.%20Flee%2C%20my%20fae%20wildlings%21.parakeet.processed.srt) ([Qwen](../sources/The%20Wastes%20S1E112.%20Flee%2C%20my%20fae%20wildlings%21.qwen-q8.canary-ctc.nemotron.srt)), **Hope's separate Arc Five route**, not yet analyzed.
 
 ## 6. Arc coverage and previous detailed questions
 

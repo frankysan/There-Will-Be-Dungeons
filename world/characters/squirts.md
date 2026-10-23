@@ -1,6 +1,10 @@
 # Squirts — kobold trickster (Arcs Four–Five)
 
-> **First appearance:** [E082](../../episodes/E082.md), unnamed kobold at the Soggy Feather. **Identified and developed:** [E083](../../episodes/E083.md), [processed Parakeet SRT](../../sources/The%20Wastes%20S1E083.%20Trash%20Monkey%20and%20The%20Bird.parakeet.processed.srt). **Kristen's new character**, **not** a reincarnated Hope. This profile is **ASR-based, not audio-verified**; contains spoilers through E110; earlier sections retain their episode-era cutoffs.
+> **First appearance:** [E082](../../episodes/E082.md), unnamed kobold at the Soggy Feather. **Identified and developed:** [E083](../../episodes/E083.md), [processed Parakeet SRT](../../sources/The%20Wastes%20S1E083.%20Trash%20Monkey%20and%20The%20Bird.parakeet.processed.srt). **Kristen's new character**, **not** a reincarnated Hope. This profile is **ASR-based, not audio-verified**; contains spoilers through E111; earlier sections retain their episode-era cutoffs.
+
+## E111 — final battle, disintegration and ashes preserved
+
+In [E111](../../episodes/E111.md), **Squirts guides Nash, Stanley and Vorel safely from Tietkalla Keep to the Golden Sands** with *Pass without Trace*, **carrying infant Chunks alive**. She meets **Bok Bok**, who has a bashful crush on her; no relationship is formed. She accompanies the others to investigate newly arrived **Elhandari** rescuers. In the battle against **General Carthax**, **Squirts actually casts *Mass Healing Word* on the still-living but exhausted Omnom Cinderborn**, ending her stealth concentration. Carthax's red destructive finger-beams hit **Squirts for 66 force damage** and the GM **explicitly disintegrates her into ash**, alongside **Melgor and several elves**. **Chunks falls to the ground but survives**. **Vorel ultimately gathers her ashes into a vial supplied by Stanley** and takes them aboard a departing elven spaceship; **Stanley carries Chunks**. **No revival, replacement or restoration is shown at E111 cutoff**; avoid claiming she is merely unconscious or that the collected ashes already support a proven resurrection method. [Full-ASR report](../../reports/E111_ASR_COMPARISON_2026-10-23.md).
 
 ## E110 — silence, stealth and the return to Tietkalla
 

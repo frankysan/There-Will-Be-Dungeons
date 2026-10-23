@@ -1,6 +1,6 @@
-# Characters and participants — campaign reference index (through E104)
+# Characters and participants — campaign reference index (E054 snapshot plus E111 update)
 
-**Spoilers:** Core table retains its **Arc Two E054 snapshot**; later status updates cover corrected **E081** and the **E082–E104 Arc Four/Five developments in linked profiles**, with separate March/April/June/July/August/September/October/November-publication cast Q&As. The [Year One Q&A](../episodes/BONUS-2019-03.md) is not a played episode. **Quality:** These profiles synthesize provisional processed Parakeet SRT research; **they have not been checked against the audio**. For a story rather than an index, see [Arc One](../narrative/ARC_ONE.md) and [Arc Two](../narrative/ARC_TWO.md).
+**Spoilers:** Core table retains its **Arc Two E054 snapshot**; later status updates cover corrected **E081** and the **E082–E111 Arc Four/Five developments in linked profiles**, with separate March/April/June/July/August/September/October/November-publication cast Q&As. The [Year One Q&A](../episodes/BONUS-2019-03.md) is not a played episode. **Quality:** These profiles synthesize provisional processed Parakeet SRT research; **they have not been checked against the audio**. For a story rather than an index, see [Arc One](../narrative/ARC_ONE.md) and [Arc Two](../narrative/ARC_TWO.md).
 
 This is now the **subject-focused reference index**, not the append-only episode-batch ledger. The earlier 88,000-character source-first [character compendium is preserved](../research/legacy/2026-10-21/WORLD_CHARACTERS.md); the complete [pre-third-arc consolidation index](../research/legacy/2026-10-22/CHARACTERS_PRE_SECOND_ARC_CONSOLIDATION.md) preserves every additional interim status paragraph. Both archives retain their research history. A character's **earlier beliefs, reported fate and later observed status** must remain distinct. Roles in the podcast are not in-world identities.
 
@@ -24,6 +24,10 @@ This is now the **subject-focused reference index**, not the append-only episode
 | **Tedna** | Young stowaway and devoted helper; **rescued alive E048**, dies of injuries **E050**. His report of Angelashi's death was not eyewitness confirmation | [Tedna](characters/tedna.md) |
 | **Angelashi / Angel Ashi** | Elven singer, close to Nash; presumed dead in an E048 report but **directly freed alive E054**. Exact word division of name remains unresolved | [Angelashi](characters/angelashi.md) |
 | **Bok Bok** | Goblin companion of Vorel since **E006**; survives imprisonment, the war for Tietkalla and Vorel's temporary petrification | [Bok Bok](characters/bok-bok.md) |
+
+## E111 current-status update — later than the E054 table above
+
+At the [E111](../episodes/E111.md) source cutoff, **Squirts (Kristen's kobold PC) is dead**, disintegrated by **General Carthax**, as is **Melgor of Poxis/Paxus (?)**, not merely missing; **infant Chunks survives and is carried away by Stanley**. **Bok Bok** survives a blast inside the demon but **loses a hand** and leaves with **Vorel**, who also has **Squirts's ashes in a vial**. **Nash is physically reunited with pregnant Angelashi**, who boards the elven spaceship. **Stanley, Vorel and Nash** leave ruined Tietkalla together; **Carthax is pacified and captured alive** by the **Elhandari**. **Omnom is healed alive by Squirts just before her death**, with later transport untracked; **Nobieri remains seeking Hope**, whose Sigil storyline is not played in E111. The older table's E054 statuses remain **historically correct for E054**, not declarations of current fate. [Whole-ASR comparison](../reports/E111_ASR_COMPARISON_2026-10-23.md).
 
 ## Major adversaries and power brokers
 

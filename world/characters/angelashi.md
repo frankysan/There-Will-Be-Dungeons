@@ -1,6 +1,6 @@
 # Angelashi
 
-**Name status:** **Angelashi** is used as a working display spelling based on cast-shared recap forms; **Angel Ashi** appears in episode ASR, and the **word division remains unresolved**, unlike the accepted spelling **Diontalus**. **Identity:** Elven singer and an important companion of Nash. **Arc Two status:** **Alive and freed in E054**. **Spoilers:** E035–E054.
+**Name status:** **Angelashi** is used as a working display spelling based on cast-shared recap forms; **Angel Ashi** appears in episode ASR, and the **word division remains unresolved**, unlike the accepted spelling **Diontalus**. **Identity:** Elven singer and an important companion of Nash. **Arc Two status:** **Alive and freed in E054**. **Spoilers:** E035–E111.
 
 Angelashi is introduced as a performer at the **Golden Gargoyle** in Trashburg, drawing Nash's interest. She travels with him after the club's violence and later speaks privately about her past, including elven/refugee experiences, travel hopes and her magic. Some of those details are **her own account**, not independent confirmation of an ancient itinerary. She uses temporary flower/plant magic around Nash, and the two develop an intimate relationship.
 
@@ -9,6 +9,10 @@ She disappears during the worsening conflict with the keep. In E048 **Tedna repo
 Her future travel, health and place in the new Tietkalla government are not decided merely by their reunion. The Q&A mentions Nash's emotional stakes and plans without adding scenes of Angelashi's life after E054.
 
 **Primary sources:** [E035](../../episodes/E035.md) · [E036](../../episodes/E036.md) · [E037](../../episodes/E037.md) · [E048](../../episodes/E048.md) · [E049](../../episodes/E049.md) · [E054](../../episodes/E054.md) · [Nash](nash-maggard.md) · [Tedna](tedna.md) · [spelling evidence](../../reports/DISCORD_SPELLING_2026-10-21.md).
+
+## E110 vision / E111 physical rescue — pregnancy and the ship
+
+[E110](../../episodes/E110.md) depicts **Angelashi heavily pregnant** in **Nash's unusual right-eye vision**, battling nycaloths alongside Bok Bok in Tietkalla, and fleeing toward the **Golden Sands**; this was **not a played meeting with Nash**. [E111](../../episodes/E111.md) completes the **actual reunion**: Angelashi has sheltered with **Bok Bok in a concealed Golden Sands basement**, and **physically embraces/kisses Nash** when he arrives. She explicitly fears for **their unborn child** and urges accepting refuge offered by the newly arrived **Elhandari elves**. **Nash carries her by flight to an elven spacecraft before confronting General Carthax**; she is **safely aboard at the episode cutoff**, and the ship later **departs Tietkalla** carrying the surviving party. **No birth, injury to the child, actual arrival at Elhandar or later destiny is played**. [E111 full-ASR comparison](../../reports/E111_ASR_COMPARISON_2026-10-23.md).
 
 ## New-arc status — E055–E056
 
