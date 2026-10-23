@@ -40,7 +40,7 @@ A separate bounded **Markdown structure preflight on 32 changed, maintained Mark
 ## Next maintenance
 
 1. Future episode analyses should update the appropriate **subject page and dossier**, not append a full episode synopsis to every top-level index.
-2. Existing long biographies (particularly the four protagonists) can undergo separate subject-level consolidation with dated research snapshots and backlink checks.
+2. **Follow-up completed, 2026-10-23:** The four long protagonist profiles were frozen and rewritten as subject-focused biographies, Diontalus received a separate page, and Vorel's titles moved to a source-indexed register. See [profile consolidation report](PROTAGONIST_PROFILE_CONSOLIDATION_2026-10-23.md). Future maintenance should prevent renewed episode-by-episode accretion.
 3. When check execution is available, run repository Markdown lint and any documentation tests; fix issues before treating this as fully validated.
 4. Keep `world/entities.json` explicitly a **seed**, not an automatically authoritative catalog synchronized with all E118 lore.
 

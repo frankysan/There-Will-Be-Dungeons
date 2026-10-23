@@ -69,7 +69,7 @@ research/legacy/                  Preserved, rebased historic working research
 sources/                          Original/processed transcription material
 ```
 
-Prefer **stable descriptive slugs**. A subject has one authoritative page and can be linked from several category indexes; index entries should not duplicate the biography. New categories should be introduced only when they solve an actual navigation problem.
+Prefer **stable descriptive slugs**. A subject has one authoritative page and can be linked from several category indexes. **Stanley and Diontalus are distinct pages**: `world/characters/stanley-diontalus.md` remains Stanley's stable legacy URL, with `world/characters/diontalus.md` owning the archfey's agency, crimes and unresolved E059 crystal fate; index entries should not duplicate the biography. New categories should be introduced only when they solve an actual navigation problem.
 
 ## Reference-entry contract
 

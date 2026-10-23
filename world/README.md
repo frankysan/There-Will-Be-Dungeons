@@ -16,7 +16,7 @@ A **subject-centered encyclopedia** for *The Wastes*: characters, antagonists, s
 
 ## Featured reference pages
 
-**People:** [Nash](characters/nash-maggard.md) · [Hope](characters/hope-akmenos.md) · [Stanley and Diontalus](characters/stanley-diontalus.md) · [Vorel](characters/vorel.md) · [the Principle](characters/the-principle.md) · [Soulbroker](characters/soulbroker.md) · [Nobieri](characters/nobieri.md) · [Steerious](characters/steerious-business.md) · [General Carthax](characters/general-carthax.md).
+**People:** [Nash](characters/nash-maggard.md) · [Hope](characters/hope-akmenos.md) · [Stanley](characters/stanley-diontalus.md) · [Diontalus](characters/diontalus.md) · [Vorel](characters/vorel.md) · [Vorel's titles](characters/vorel-titles.md) · [the Principle](characters/the-principle.md) · [Soulbroker](characters/soulbroker.md) · [Nobieri](characters/nobieri.md) · [Steerious](characters/steerious-business.md) · [General Carthax](characters/general-carthax.md).
 
 **Places:** [Dusthill](places/dusthill.md) · [Slavetown](places/slavetown.md) · [Tietkalla](places/tietkalla.md) · [CHIDS](places/chids.md) · [Sigil](places/sigil.md) · [White Tower](places/white-tower.md) · [Elhandar](places/elhandar.md) · [Dunebreaker prequel](places/dunebreaker.md).
 

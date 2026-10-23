@@ -35,4 +35,15 @@ Before the E118-era world navigation pass, the three longer working documents we
 | [Place index before E118 subject consolidation](PLACES_BEFORE_WORLD_REORGANIZATION_2026-10-23.md) | [Current places](../../../world/PLACES.md) |
 | [Thematic world overview before E118 consolidation](WORLD_BEFORE_WORLD_REORGANIZATION_2026-10-23.md) | [Current world systems](../../../world/WORLD.md) |
 
+## 2026-10-23 protagonist-profile consolidation
+
+Before replacing four increasingly episode-appendix-heavy protagonist biographies, complete copies were frozen with Markdown links rebased. They preserve the original cue-level status, source distinctions and the Vorel title discussion. Active profiles are thematic and concise. **Diontalus now has a separate profile**, and Vorel's full source-indexed title register is separately maintained.
+
+| Frozen profile | Current primary page |
+| --- | --- |
+| [Nash before consolidation](PROFILE_NASH_MAGGARD_BEFORE_2026-10-23.md) | [Nash](../../../world/characters/nash-maggard.md) |
+| [Hope before consolidation](PROFILE_HOPE_AKMENOS_BEFORE_2026-10-23.md) | [Hope](../../../world/characters/hope-akmenos.md) |
+| [Stanley and Diontalus together](PROFILE_STANLEY_DIONTALUS_BEFORE_2026-10-23.md) | [Stanley](../../../world/characters/stanley-diontalus.md) · [Diontalus](../../../world/characters/diontalus.md) |
+| [Vorel before consolidation](PROFILE_VOREL_BEFORE_2026-10-23.md) | [Vorel](../../../world/characters/vorel.md) · [Full title register](../../../world/characters/vorel-titles.md) |
+
 The [second-arc consolidation report](../../../reports/SECOND_ARC_CONSOLIDATION_2026-10-22.md) records the reductions, preservation rules and recommended follow-up checks. **None of the source audio or Parakeet SRT files was changed in this editorial operation.**
