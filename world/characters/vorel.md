@@ -1,6 +1,6 @@
 # Vorel
 
-**Longer written name:** **Vorel Rasvim Kurik** in the fan wiki, not independently confirmed as a full name from Arc One spoken dialogue. **Portrayed by:** Kyle. **Identity:** Lizardfolk warrior. **Arc Two status:** Alive; protector of Bok Bok; bearing the sentient **Eye of Groxl**. **Spoilers:** played events through E106; retrospective bonus remarks kept separate from played events.
+**Longer written name:** **Vorel Rasvim Kurik** in the fan wiki, not independently confirmed as a full name from Arc One spoken dialogue. **Portrayed by:** Kyle. **Identity:** Lizardfolk warrior. **Arc Two status:** Alive; protector of Bok Bok; bearing the sentient **Eye of Groxl**. **Spoilers:** narrative coverage through E106; the title register separately includes later seasons and the final Wastes roundup. Retrospective bonus remarks remain separate from played events.
 
 ## Character and development
 
@@ -24,10 +24,35 @@ At E054 he attacks the fleeing **Monsoon** but cannot kill him, then **executes 
 
 Vorel increasingly **awards himself titles**. Record the exact phrase and first attributable spoken use when reviewing each episode. **Self-proclaimed** is not synonymous with **formally awarded, recognized by a clan, or used by Bok Bok or another narrator**. The processed SRT is not audio-verified; **the following is a starting register, not an exhaustive or exact-wording transcript**.
 
+The [2026-10-23 transcript search](../../reports/VOREL_TITLE_AUDIT_2026-10-23.md) adds missing titles and wording variants, with linked source exports, cue ranges and uncertainties. Source entries below give **earliest located naming**, not the date an exploit occurred or proof no earlier naming exists. All additions remain **ASR-provisional**; established reference spellings identify people/items without certifying the spoken spelling.
+
 | Source | Wording or label | Standing |
 | --- | --- | --- |
+| [E001](../../episodes/E001.md) ~01:14–01:16; E060 ~02:12:17–02:12:25 | **Hill Guard / Hill Guard of Dusthill** | Hillmaster offers the group role; longer personal style in Vorel's E060 recital |
+| [E006](../../episodes/E006.md) ~00:45–00:46; [E026](../../episodes/E026.md) ~00:54; [E036](../../episodes/E036.md) ~00:53–01:10 | **Lizard King** | Bok Bok's address precedes Vorel's E026 declaration of intent and later self-proclamations; not a general coronation |
+| [E007](../../episodes/E007.md) ~00:56 | **Lord of Lizards** | Nash's description during an illusion/crown plan, not an awarded office |
+| [E026](../../episodes/E026.md) ~03:02–03:04; E040 ~01:34:46–01:34:56 | **Heroes of the Wastes / Hero of the Waste(s)** | Collective name proposed by Vorel; singular personal style explicit in E040 |
+| [E026](../../episodes/E026.md) ~02:42:30–02:42:45 | **King of the Deserts** | Bertrand's greeting; Vorel accepts it as a fine title |
 | [E028](../../episodes/E028.md) ~01:24–01:35 | **Clan leader / pledged ally**, not necessarily a self-given title | Externally pledged; not a self-given title |
-| [E036](../../episodes/E036.md) ~00:53–01:10 | **Lizard King** | Self-proclaimed; not a general coronation |
+| [E040](../../episodes/E040.md) ~01:34:46–01:34:56 | **Terror of the Sands** | Vorel's self-recital |
+| [E040](../../episodes/E040.md) ~01:34:51–01:35:01 | **Destroyer of Bean Juice** | Self-recital; distinct wording from later Drinker of Beans |
+| [E040](../../episodes/E040.md) ~01:34:56–01:35:07 | **Victor of the Bloody Cage** | Vorel queries the arena name and Hope repeats it; retain alongside later Rusty Cage wording |
+| [E040](../../episodes/E040.md) ~01:35:02–01:35:07 | **Owner of Charlemagne's** | Self-recital, not independent proof of legal ownership |
+| [E040](../../episodes/E040.md) ~01:35:08–01:35:15 | **Leader of a Goblin Army** | Hope supplies the wording and Vorel repeats it; not proof an army is available |
+| [E040](../../episodes/E040.md) ~01:35:12–01:35:20 | **Soon to Be King of the Lizards** | Explicitly prospective self-description |
+| [E040](../../episodes/E040.md) ~01:36:58–01:37:06 | **Slayer of Tylander** | Self-recital; ASR `Thailand` / `Tylander`, distinct from later Destroyer wording |
+| [E040](../../episodes/E040.md) ~01:36:59–01:37:06 | **Victor of Slavetown** (candidate) | Parakeet `Victor or slave town`; Qwen `Victor of Flame. Down`; wording needs listening |
+| [E040](../../episodes/E040.md) ~01:36:59–01:37:06 | **Destroyer of the Mines** (candidate) | Parakeet `mines` / Qwen `minds`; self-recital, exact noun unresolved |
+| [E040](../../episodes/E040.md) ~01:43:18–01:43:25 | **Flame of the North** | Self-recital while entering rage |
+| E040 ~02:03; E060 ~02:12:29–02:12:37 | **Arsonist of the Sapphire** | Clearer E060 self-recital; E040 has garbled `awesomeist` / `acidist of sapphire` |
+| [E040](../../episodes/E040.md) ~02:05:11–02:05:16 | **Decapitator of Blunk Oliver** (name provisional) | Self-recital; `blunt Oliver`, `Blunk Oliver`, later `blancoliver` / `Blank Oliver` |
+| [E040](../../episodes/E040.md) ~02:25:16–02:25:23; E060 ~02:12:36–02:12:43 | **Promised Mate of Typalla** | Vorel's style, echoed by GM; `Typala` / `Taipala` in ASR, not proof of a completed union |
+| [E060](../../episodes/E060.md) ~02:12:21–02:12:26 | **The Lone Lizard** | Vorel's self-introduction to the clans |
+| E060 ~02:12:25–02:12:29 | **Victor of the Rusty Cage** | Self-recital; preserve earlier Bloody Cage variant rather than silently replacing it |
+| E060 ~02:12:28–02:12:33 | **Drinker of Beans** | Self-recital, acknowledged by a companion |
+| E060 ~02:12:29–02:12:37 | **Destroyer of Thylander** (name provisional) | Self-recital; `tailander` / `Thylander`, referring to the Tylander name family |
+| E060 ~02:12:32–02:12:43 | **Slayer of the Metal Man** | Self-recital |
+| E060 ~02:12:36–02:12:43 | **Boon of Fuxi** | Self-recital; ASR `boon of fushi` / `Boone of Fushi`; Fuxi is the established reference spelling |
 | [E061](../../episodes/E061.md) ~01:41–01:45 | **Sheriff** (`sherf` ASR) | Appointed by Orp |
 | [E062](../../episodes/E062.md) ~02:29–02:34; [E063](../../episodes/E063.md) ~01:14–01:18 | **Great Fang of Razak Val** | Earned and publicly recognized |
 | [E063](../../episodes/E063.md) ~00:24–00:26 | **“I am the force here”** (provisional paraphrase) | Rhetoric; unverified wording |
@@ -42,8 +67,51 @@ Vorel increasingly **awards himself titles**. Record the exact phrase and first 
 | [E070](../../episodes/E070.md) ~00:30 | **“One step king from above”** (uncertain lyric) | Unverified song lyric |
 | [E070](../../episodes/E070.md) ~00:36 | **“I am the Lizard King from the Wastes”** | Self-proclaimed; not a general coronation |
 | [E073](../../episodes/E073.md) ~02:22–02:24 | **“Fang of Razak Val”** | Reassertion of E062 Great Fang office; not a new title |
+| [E077](../../episodes/E077.md) ~03:18 | **Keeper of Groxl** | Vorel identifies himself as `keeper of grojil` / `Grogil`; the existing Eye of Groxl, not another entity |
+| [E086](../../episodes/E086.md) ~02:40:30; [E087](../../episodes/E087.md) ~02:09:50–02:10:45 | **M-sports Fighting Champion / Sigil M-sports Champion / Big Time Smackaroo** (last wording provisional) | Lohar advertises the champion label in E086; E087 referee announcement and trophy wording supply the award context and additional styles |
+
+### Later-season title naming — spoilers beyond the narrative coverage
+
+These entries document **titles being named**, without extending the page's episode-by-episode narrative review. In particular, E117 and the roundup recite earlier exploits retrospectively; they do not establish when each title was originally adopted. Exact exports and cue ranges for each source key are linked in the [audit's source inventory](../../reports/VOREL_TITLE_AUDIT_2026-10-23.md#source-windows-and-export-inventory).
+
+| Source | Wording or label | Standing |
+| --- | --- | --- |
+| S1E117 ~02:07:33–02:07:42 | **Destroyer of Thylander and His Beast(s)** | Expanded self-recital variant; singular/plural differs between exports |
+| S1E117 ~02:07:51–02:07:56 | **Defeater of the Tyrant Beast in the Purple Sands** | Self-recital; roundup changes `in` to `of` |
+| S1E117 ~02:07:55–02:08:01 | **Creator of the Fate Five** | Title of Vorel as creator; the vehicle itself remains a separate subject |
+| S1E117 ~02:07:55–02:08:06 | **Savior of the Wastes** | Self-recital, not an independent ruling on all outcomes |
+| S1E117 ~02:08:01–02:08:07 | **Survivor of the Beam** | Self-recital; do not backdate the naming to the beam encounter |
+| S1E117 ~02:08:01–02:08:08 | **Lobotomizer of Dolo Popio** | Self-recital; `dolopio` / `Dolapopio` ASR variants |
+| S1E117 ~02:08:06–02:08:12 | **Pro Player of the Mighty Squirts** | Self-recital; retain the wording rather than treating Squirts as another title |
+| S1E117 ~02:08:06–02:08:16 | **Gold Medalist of Smackems** (spelling provisional) | Self-recital; `smack ems` / `Smackems`, distinct from E087's trophy wording |
+| S1E117 ~02:08:11–02:08:16 | **Drinker of Ale** | Self-recital |
+| S1E117 ~02:08:11–02:08:23 | **Defender of the White Tower** | Self-recital |
+| S1E117 ~02:08:16–02:08:23 | **Victorious Rider of Elevators** | Self-recital |
+| S1E117 ~02:08:22–02:08:28 | **Knower of Badass T** | Self-recital; ASR `badass tea`, established character reference |
+| S1E117 ~02:08:22–02:08:28 | **Vanquisher of the Demon Throne** | Self-recital; not proof Vorel defeated every demon or ruled a throne |
+| S1E117 ~02:08:29–02:08:35 | **Conqueror of the Locked Air Vacuum Pirates** (ASR wording) | Self-recital; roundup `Airlock Vacuum Pirates` / `airlok vacuum pirates`; exact construction unresolved |
+| S1E117 ~02:08:35–02:08:40; S2E01 ~00:42:39 | **Hunter of the Elven Woods / Hunter of the Great Elven Woods** | Self-recital and later expanded variant |
+| S1E117 ~02:08:39–02:08:46 | **Keeper of Stories** | Vorel adds a commitment to carry the listeners' stories with him |
+| S1E124 ~00:28:25–00:28:40 | **Butcher of the Barosaurus** (spelling provisional) | Self-recital; `barrow saurus` / `Barosaurus`, not a verified creature spelling |
+| S1E124 ~00:28:25–00:28:40 | **Deceiver of the Cheater Diontalus** | Self-recital; `cheater dian tallus` / `Cheetah, Dian Talos`; exact epithet wording needs listening |
+| S2E02 ~01:53:30–01:53:40; S2E03 ~00:19:55–00:20:06 | **Greatest of All the Time Vorels That You May Have Met / Greatest of the Time Vorels** | Self-proclaimed comparative boast, not objective superiority over every counterpart |
+| S2E12 ~01:31:10–01:31:45; S3E03 ~02:11:36–02:11:47 | **Entomber of the Maggot Lord** | Kyle constructs the title with cast help in S2E12; complete self-recital in S3E03, with garbled Qwen `Intumere` |
+| S3E03 ~02:11:29–02:11:40 | **Most Wanted of the Dread Pirates** | Vorel explicitly lists it among recently gained titles |
+| S3E03 ~02:11:36–02:11:40 | **The Victorious Dreamer** | Same self-recital |
+| S3E03 ~02:11:40–02:11:47 | **Cannoneer of the Principal's Face** | Same self-recital; retain this unusual wording |
+| S3E08 ~02:24:30–02:24:50; S3E09 ~00:06:20–00:06:30 | **Savior of the Universe** | Self-proclaimed during battle, then recited; roundup Parakeet `survivor or savior` is not a separately verified title |
+| S3E09 ~00:06:07–00:06:20 | **Sailor of Space** | Vorel's shortened self-introduction to Groxl |
+| S3E09 ~00:06:20–00:06:30 | **Parter of Lasers** | Same self-introduction |
+| S3E09 ~00:06:40–00:06:57 | **Slayer of the God Killer** | Groxl addresses Vorel this way; **God Killer alone belongs to Groxl** in this exchange |
+| S3E11 ~02:23:50–02:24:05 | **The Contractless / Defender of Earth** | Vorel's self-introduction; E106's Defender of Earth referred to the Principal, not Vorel |
+| S3E13 ~01:38:25–01:38:40; ~01:51:56–01:52:02 | **The Patient** | Self-added after waiting; early ASR `patients` / `patience`, clearer recital in the roundup |
+| S3E18 ~02:09:25–02:09:40 | **Friend / Friend Till the End of His Days** | Stanley offers Friend on behalf of the companions; Vorel accepts and extends it |
+| S3E019 roundup ~01:17:04–01:17:11 | **The Shieldless Dasher** (segmentation provisional) | Kyle's retrospective list; exports do not securely separate Shieldless and Dasher into two titles |
+| S3E019 roundup ~01:17:09–01:17:13 | **Witness of the Last Days of Magic** | Kyle's retrospective list; no earlier explicit naming located in this search |
 
 ### Source-specific context and verification
+
+**Earlier Lizard King evidence:** Bok Bok addresses Vorel as Lizard King in **E006 ~00:45–00:46**. In **E026 ~00:54** Vorel says he will declare himself Lizard King; by **E028 ~02:11** he directly answers a title inquiry with that name. E036 remains a later self-proclamation, not the earliest located naming. These uses do not establish general political recognition.
 
 **E073 ~02:22–02:24 — “Fang of Razak Val”:** When Cerinthala proposes artificially producing a child, Vorel refuses and identifies himself by his **existing Great Fang office**. This is a later statement of rank, **not a new ceremony**, and the exact audio wording needs listening.
 
@@ -63,7 +131,7 @@ The register above separates names, offices, quotations, hostile labels, and unr
 - **[E068](../../episodes/E068.md) ~01:31–01:33 — “Rex” / “King Rex”**: During **Stanley's actual T. rex Polymorph**, companions joke **rex means king** and Vorel says **“I accept the title.”** A **new joking, self-accepted epithet**, **not a separate coronation or enduring legal office**. **Verification:** **ASR first occurrence, audio pending**; record as a joke rather than upgrade character's official titles.
 - **[E069](../../episodes/E069.md) ~00:10–00:14 — Door Authority outlaw (not a Vorel title)**: A **sentient door** alleges the entire party are wanted for crimes against **“doormanity”**. Vorel **does not award himself this name or office**; it is a hostile bureaucracy's accusation. **Verification:** **Tracked separately** to prevent title-list pollution.
 - **[E070](../../episodes/E070.md) ~00:30 — “One step king from above” (uncertain lyric)**: While singing as bait, **Vorel appears to call himself a kind of king**; the precise ASR phrase may reflect a rhymed song, not a stable epithet. **Candidate self-description only**. **Verification:** **Requires direct audio listening before normalizing or quoting.**
-- **[E070](../../episodes/E070.md) ~00:36 — “I am the Lizard King from the Wastes”**: **Vorel explicitly repeats the older self-bestowed Lizard King style**, singing to draw psychic sprites. This is **not a new first grant of a rank**. **Verification:** **ASR-first repeat**, compare with earliest E036 declaration and verify precise lyric.
+- **[E070](../../episodes/E070.md) ~00:36 — “I am the Lizard King from the Wastes”**: **Vorel explicitly repeats the older self-bestowed Lizard King style**, singing to draw psychic sprites. This is **not a new first grant of a rank**. **Verification:** **ASR-first repeat**, compare with earlier E006 address, E026 intent and E028 self-identification, and verify the precise lyric.
 
 Future reviews should append each *new* self-given epithet (including cumulative formal introductions) here with **episode, time/cue, exact wording if reliable, speaker and recognition status**. Keep previous forms when the list grows; never infer a title solely from a fan-wiki character sheet. Kyle's [June bonus discussion](../../episodes/BONUS-2019-06.md) (~00:07–00:08) explains Vorel's consistent foreigner perspective and roleplaying technique; **it does not contain a new self-awarded title**.
 
