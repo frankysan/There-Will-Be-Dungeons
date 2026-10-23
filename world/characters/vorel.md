@@ -14,6 +14,10 @@ As the company reaches Tietkalla, Vorel acquires the distinctive chain greatswor
 
 At E054 he attacks the fleeing **Monsoon** but cannot kill him, then **executes captive Suck Master Din at Hope's signal** after Hope's public coronation. Vorel's future ideas about raising Bok Bok as a squire are plans rather than completed training.
 
+## BONUS-2020-07 — a scale-mastery possibility, not a learned power
+
+In the [July-publication 2020 cast Q&A](../../episodes/BONUS-2020-07.md) (~30–31:45), a listener wonders whether Vorel could use his **prismatic scale color-changing** to display words, signs or even animations. **Beau considers individual-scale control possible only after training with a teacher / new mastery**, and says Vorel **does not intuitively possess such precision yet**. The scaled patterns and bodily mutation **are established earlier**, but projected lettering, individually animated “pixels” and a walking advertisement **are conditional GM speculation, not a performed E### action or awarded feature**. [ASR report](../../reports/BONUS_2020_07_ASR_COMPARISON_2026-10-23.md). No new formal Vorel title is conferred in the bonus.
+
 ## Relationships and items
 
 **Bok Bok** accompanies and protects him, including watching over his petrified form. **Hope** becomes a queen he has helped enthrone, not simply another opponent. **Stanley/Diontalus** remains a fraught relationship because of P0D and George; later cast discussion describes Vorel informally checking who has bodily control. Key equipment includes **Mawstorm** (spelling pending creator-written or audio confirmation), the **+1 AC lizardfolk-skull helmet** obtained in E047, and the later **Eye of Groxl**; **the helmet and eye are separate items**. The hidden desert cache Vorel retrieves in E053 is not equivalent to all its gold being distributed to the town.
