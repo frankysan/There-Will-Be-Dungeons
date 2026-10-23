@@ -1,0 +1,2344 @@
+1
+00:00:00,000 --> 00:00:01,360
+(speaker 0) Hey everybody, John here.
+
+2
+00:00:01,680 --> 00:00:03,920
+(speaker 0) Typically being called Stanley on this particular
+
+3
+00:00:04,320 --> 00:00:04,400
+(speaker 0) show.
+
+4
+00:00:04,994 --> 00:00:06,880
+(speaker 0) Welcome to There Will Be Dungeons.
+
+5
+00:00:07,364 --> 00:00:09,840
+(speaker 0) Except there isn't going to be a There Will Be
+
+6
+00:00:09,920 --> 00:00:10,640
+(speaker 0) Dungeons this week.
+
+7
+00:00:11,440 --> 00:00:11,760
+(speaker 0) Sorry.
+
+8
+00:00:12,165 --> 00:00:14,160
+(speaker 0) Hopefully that is not news to you.
+
+9
+00:00:14,654 --> 00:00:16,079
+(speaker 0) If it is, I apologize.
+
+10
+00:00:17,120 --> 00:00:20,560
+(speaker 0) But regardless, what I have for you is maybe a
+
+11
+00:00:20,640 --> 00:00:23,200
+(speaker 0) little bit of a special treat in lieu of an
+
+12
+00:00:23,280 --> 00:00:23,680
+(speaker 0) episode.
+
+13
+00:00:24,275 --> 00:00:26,560
+(speaker 0) So what we're going to be doing is a in-
+
+14
+00:00:26,720 --> 00:00:27,440
+(speaker 0) character recap.
+
+15
+00:00:27,915 --> 00:00:29,560
+(speaker 0) Stanley's going to handle that for us.
+
+16
+00:00:30,185 --> 00:00:34,440
+(speaker 0) We also have a, we'll call it a deleted scene of
+
+17
+00:00:34,895 --> 00:00:37,320
+(speaker 0) Hope and Varell, and a little bit of what they
+
+18
+00:00:37,480 --> 00:00:40,600
+(speaker 0) got up to while Nash and Stanley were off on
+
+19
+00:00:40,680 --> 00:00:43,320
+(speaker 0) their little side adventure back in episodes
+
+20
+00:00:43,405 --> 00:00:44,520
+(speaker 0) eight and nine, I think.
+
+21
+00:00:45,540 --> 00:00:47,960
+(speaker 0) And in addition to that, we're going to start
+
+22
+00:00:48,520 --> 00:00:50,920
+(speaker 0) with a different opening song created by none
+
+23
+00:00:51,000 --> 00:00:53,240
+(speaker 0) other than RDM Bo Schwartz.
+
+24
+00:00:53,620 --> 00:00:55,400
+(speaker 0) This was thrown out there very early on.
+
+25
+00:00:56,125 --> 00:00:59,180
+(speaker 0) And I think it's a rockin' tune, and I feel like
+
+26
+00:00:59,315 --> 00:00:59,980
+(speaker 0) it should be heard.
+
+27
+00:01:00,520 --> 00:01:02,620
+(speaker 0) And so we're putting it right at the start of the
+
+28
+00:01:02,620 --> 00:01:02,700
+(speaker 0) show.
+
+29
+00:01:03,205 --> 00:01:04,620
+(speaker 0) I hope you're all excited to hear it.
+
+30
+00:01:04,730 --> 00:01:05,740
+(speaker 0) I hope you'll stick around.
+
+31
+00:01:06,189 --> 00:01:07,740
+(speaker 0) We'll see you next week, regardless.
+
+32
+00:01:08,300 --> 00:01:08,620
+(speaker 0) Enjoy.
+
+33
+00:01:50,860 --> 00:01:51,100
+(speaker 0) Hello.
+
+34
+00:01:51,844 --> 00:01:55,300
+(speaker 0) My name is Stanley Billings, and I've been tasked
+
+35
+00:01:55,365 --> 00:01:58,660
+(speaker 0) today to get you acquainted with the story so
+
+36
+00:01:58,820 --> 00:01:58,900
+(speaker 0) far.
+
+37
+00:02:00,019 --> 00:02:03,220
+(speaker 0) Now, before we begin, let me be clear: what
+
+38
+00:02:03,359 --> 00:02:06,820
+(speaker 0) follows is a general summary of what has
+
+39
+00:02:07,140 --> 00:02:07,620
+(speaker 0) transpired.
+
+40
+00:02:08,209 --> 00:02:10,820
+(speaker 0) What that means is, I might not tell you about
+
+41
+00:02:10,875 --> 00:02:14,100
+(speaker 0) the time that we went down a ton of stairs and
+
+42
+00:02:14,180 --> 00:02:17,140
+(speaker 0) got attacked by a bunch of giant spiders.
+
+43
+00:02:18,140 --> 00:02:20,710
+(speaker 0) But if you're interested in the time we went down
+
+44
+00:02:20,924 --> 00:02:23,910
+(speaker 0) a ton of stairs and got attacked by giant
+
+45
+00:02:24,070 --> 00:02:27,510
+(speaker 0) spiders, I would recommend looking into learning
+
+46
+00:02:27,755 --> 00:02:29,830
+(speaker 0) the whole story when you have time.
+
+47
+00:02:30,660 --> 00:02:32,870
+(speaker 0) In the meantime, we're going to cover what
+
+48
+00:02:32,989 --> 00:02:36,310
+(speaker 0) happened in the broadest of strokes, so you can
+
+49
+00:02:36,344 --> 00:02:38,310
+(speaker 0) get an idea of where we're at.
+
+50
+00:02:38,605 --> 00:02:41,270
+(speaker 0) So let's go ahead and introduce our party.
+
+51
+00:02:42,204 --> 00:02:45,110
+(speaker 0) First up, we have Orpheo Achmeno.
+
+52
+00:02:45,860 --> 00:02:48,740
+(speaker 0) Or as she is called by everyone, Hope.
+
+53
+00:02:49,570 --> 00:02:52,820
+(speaker 0) Hope is a good- natured Tiefling whose pleasant
+
+54
+00:02:53,240 --> 00:02:55,780
+(speaker 0) disposition hides what a fierce and capable
+
+55
+00:02:55,970 --> 00:02:57,140
+(speaker 0) fighter she can be.
+
+56
+00:02:57,945 --> 00:03:01,220
+(speaker 0) Preferring to fight at range with guns, Hope's
+
+57
+00:03:01,300 --> 00:03:04,260
+(speaker 0) skill in combat is second only to her knack at
+
+58
+00:03:04,420 --> 00:03:05,860
+(speaker 0) engineering and mechanics.
+
+59
+00:03:06,480 --> 00:03:09,860
+(speaker 0) In fact, she built the Fate Four, the vehicle we
+
+60
+00:03:10,250 --> 00:03:11,540
+(speaker 0) use to travel the wastes.
+
+61
+00:03:12,734 --> 00:03:15,080
+(speaker 0) Next up, we have Nash Maggard.
+
+62
+00:03:15,885 --> 00:03:19,480
+(speaker 0) This crusty scab of a human being is as difficult
+
+63
+00:03:19,740 --> 00:03:22,600
+(speaker 0) to talk to as he is powerful, which is
+
+64
+00:03:22,760 --> 00:03:23,320
+(speaker 0) considerable.
+
+65
+00:03:23,914 --> 00:03:26,680
+(speaker 0) Sometimes, even to the detriment of his own team.
+
+66
+00:03:27,695 --> 00:03:30,440
+(speaker 0) Nash worked in a place called the Solar Mines,
+
+67
+00:03:30,815 --> 00:03:33,880
+(speaker 0) which left his body riddled with horrible tumors
+
+68
+00:03:34,095 --> 00:03:35,400
+(speaker 0) and only one eye.
+
+69
+00:03:36,200 --> 00:03:39,640
+(speaker 0) He's quick to temper, unlikely to trust, and
+
+70
+00:03:39,880 --> 00:03:40,280
+(speaker 0) dangerous.
+
+71
+00:03:41,084 --> 00:03:41,720
+(speaker 0) But he's also.
+
+72
+00:03:43,370 --> 00:03:44,680
+(speaker 0) No, that's pretty much it.
+
+73
+00:03:45,450 --> 00:03:47,480
+(speaker 0) Oh, also his penis fell off.
+
+74
+00:03:49,210 --> 00:03:54,120
+(speaker 0) Our third member is Vorel Rasveem Kurik, perhaps
+
+75
+00:03:54,360 --> 00:03:56,760
+(speaker 0) the most unlikely companion of ours.
+
+76
+00:03:56,924 --> 00:03:59,880
+(speaker 0) Vorel was making a living alone in the wasteland
+
+77
+00:04:00,250 --> 00:04:03,640
+(speaker 0) as some sort of nomadic lizard man barbarian.
+
+78
+00:04:04,330 --> 00:04:07,320
+(speaker 0) Vorel is actually quite well spoken, despite
+
+79
+00:04:07,710 --> 00:04:10,120
+(speaker 0) being relatively unfamiliar with the workings of.
+
+80
+00:04:10,844 --> 00:04:15,480
+(speaker 0) Typical society, perhaps most notable is Varel has
+
+81
+00:04:15,640 --> 00:04:17,000
+(speaker 0) no interest in possessions.
+
+82
+00:04:17,485 --> 00:04:20,920
+(speaker 0) When we met him, he carried absolutely nothing on
+
+83
+00:04:21,079 --> 00:04:21,480
+(speaker 0) his person.
+
+84
+00:04:22,315 --> 00:04:25,480
+(speaker 0) Now he only seems to carry around a coin purse he
+
+85
+00:04:25,660 --> 00:04:28,200
+(speaker 0) was given after we earned our first large sum of
+
+86
+00:04:28,280 --> 00:04:28,520
+(speaker 0) gold.
+
+87
+00:04:29,165 --> 00:04:32,440
+(speaker 0) But any weapons he comes across, it's always in
+
+88
+00:04:32,520 --> 00:04:35,720
+(speaker 0) battle, and he doesn't seem to prize his own
+
+89
+00:04:35,780 --> 00:04:37,800
+(speaker 0) personal possessions beyond.
+
+90
+00:04:38,505 --> 00:04:39,430
+(speaker 0) Much anything.
+
+91
+00:04:39,965 --> 00:04:41,670
+(speaker 0) He's very practical like that.
+
+92
+00:04:42,870 --> 00:04:45,990
+(speaker 0) I guess that brings us to me, Stanley Billings.
+
+93
+00:04:46,710 --> 00:04:50,310
+(speaker 0) I'm proud to say I'm a half elf, as neither full-
+
+94
+00:04:50,550 --> 00:04:53,350
+(speaker 0) blooded humans or elves have ever impressed me
+
+95
+00:04:53,430 --> 00:04:53,990
+(speaker 0) all that much.
+
+96
+00:04:54,855 --> 00:04:58,310
+(speaker 0) My gift is certainly my ability to speak, and
+
+97
+00:04:58,420 --> 00:05:01,270
+(speaker 0) while that frequently gets me confused to be some
+
+98
+00:05:01,430 --> 00:05:05,350
+(speaker 0) sort of bard or storyteller, I assure you I am
+
+99
+00:05:05,460 --> 00:05:06,390
+(speaker 0) far more than that.
+
+100
+00:05:07,485 --> 00:05:11,070
+(speaker 0) Like anyone, I have a past, but it's not worth
+
+101
+00:05:11,150 --> 00:05:11,950
+(speaker 0) getting into now.
+
+102
+00:05:12,515 --> 00:05:14,990
+(speaker 0) What matters is my goal is to bring some
+
+103
+00:05:15,230 --> 00:05:17,230
+(speaker 0) semblance of order back to this world.
+
+104
+00:05:18,065 --> 00:05:22,030
+(speaker 0) Society is gone, and without it, everything is
+
+105
+00:05:22,190 --> 00:05:22,590
+(speaker 0) chaos.
+
+106
+00:05:23,525 --> 00:05:26,910
+(speaker 0) I would like to see that chaos restored to order,
+
+107
+00:05:27,665 --> 00:05:29,230
+(speaker 0) by any means necessary.
+
+108
+00:05:30,915 --> 00:05:34,030
+(speaker 0) Our story starts in the town of Dust Hill.
+
+109
+00:05:34,705 --> 00:05:37,920
+(speaker 0) A town that sprung up due to a seemingly endless
+
+110
+00:05:38,130 --> 00:05:40,800
+(speaker 0) supply of water that comes from a well in the
+
+111
+00:05:40,880 --> 00:05:41,680
+(speaker 0) town center.
+
+112
+00:05:42,455 --> 00:05:44,960
+(speaker 0) We were brought together under the seemingly
+
+113
+00:05:45,480 --> 00:05:48,320
+(speaker 0) auspicious purpose of a dinner with the leader of
+
+114
+00:05:48,500 --> 00:05:50,480
+(speaker 0) the town, called the Hillmaster.
+
+115
+00:05:51,410 --> 00:05:54,160
+(speaker 0) The Hillmaster recruited us to become the new
+
+116
+00:05:54,400 --> 00:05:56,320
+(speaker 0) Hillguard to replace the old.
+
+117
+00:05:57,125 --> 00:05:59,760
+(speaker 0) We were forced to work immediately, though, when
+
+118
+00:06:00,070 --> 00:06:02,320
+(speaker 0) the well stopped working the very day we were
+
+119
+00:06:02,505 --> 00:06:03,920
+(speaker 0) supposed to take over the job.
+
+120
+00:06:04,940 --> 00:06:07,020
+(speaker 0) Heading below the town, we discovered the
+
+121
+00:06:07,025 --> 00:06:10,220
+(speaker 0) generator had been sabotaged by the old hill
+
+122
+00:06:10,305 --> 00:06:13,340
+(speaker 0) guard, attempting to lure the hillmaster into a
+
+123
+00:06:13,420 --> 00:06:13,660
+(speaker 0) trap.
+
+124
+00:06:14,595 --> 00:06:17,660
+(speaker 0) We negotiated peace with them and repaired the
+
+125
+00:06:17,669 --> 00:06:20,940
+(speaker 0) engine, which was revealed to be a fabled dragon
+
+126
+00:06:21,260 --> 00:06:21,500
+(speaker 0) engine.
+
+127
+00:06:22,140 --> 00:06:25,020
+(speaker 0) However, the water was still not flowing, so the
+
+128
+00:06:25,025 --> 00:06:26,140
+(speaker 0) group descended further.
+
+129
+00:06:26,969 --> 00:06:29,340
+(speaker 0) Upon reaching the river under the town, the
+
+130
+00:06:29,420 --> 00:06:32,140
+(speaker 0) hillmaster was killed by a mystery assailant.
+
+131
+00:06:32,695 --> 00:06:36,100
+(speaker 0) Throwing him down the pit, it was very disturbing.
+
+132
+00:06:36,180 --> 00:06:37,620
+(speaker 0) His head popped off and everything.
+
+133
+00:06:39,110 --> 00:06:41,940
+(speaker 0) Hope managed to restore the pump mechanism to
+
+134
+00:06:42,020 --> 00:06:42,580
+(speaker 0) working order.
+
+135
+00:06:43,015 --> 00:06:46,340
+(speaker 0) And not eager to climb back out of the well, we
+
+136
+00:06:46,500 --> 00:06:48,660
+(speaker 0) decided to do a little exploring of our own.
+
+137
+00:06:49,465 --> 00:06:52,900
+(speaker 0) We discovered an old dwarven ruin called Mogue
+
+138
+00:06:53,140 --> 00:06:53,540
+(speaker 0) Faraine.
+
+139
+00:06:54,375 --> 00:06:57,220
+(speaker 0) Inside, we encountered skeletal dwarves being
+
+140
+00:06:57,255 --> 00:07:00,180
+(speaker 0) reanimated to live in a loop over and over.
+
+141
+00:07:01,100 --> 00:07:03,340
+(speaker 0) They were being controlled by a demon named
+
+142
+00:07:03,500 --> 00:07:05,820
+(speaker 0) Quizquaz, the Dream Drinker.
+
+143
+00:07:06,960 --> 00:07:10,300
+(speaker 0) After a brief negotiation and a totally
+
+144
+00:07:10,825 --> 00:07:13,820
+(speaker 0) justifiable act of aggression, we battled
+
+145
+00:07:13,905 --> 00:07:17,020
+(speaker 0) Quizquaz and ultimately destroyed him.
+
+146
+00:07:18,510 --> 00:07:21,020
+(speaker 0) On our return to the surface, we found that the
+
+147
+00:07:21,100 --> 00:07:23,580
+(speaker 0) old hill god had also been killed.
+
+148
+00:07:24,145 --> 00:07:26,540
+(speaker 0) We were unsure who had done that as well.
+
+149
+00:07:27,430 --> 00:07:30,040
+(speaker 0) The news grew even more dire when we reached the
+
+150
+00:07:30,120 --> 00:07:32,920
+(speaker 0) surface and found that the town had been raided
+
+151
+00:07:32,929 --> 00:07:33,800
+(speaker 0) by goblins.
+
+152
+00:07:34,810 --> 00:07:37,720
+(speaker 0) Vorel challenged the goblins' champion in singles
+
+153
+00:07:37,755 --> 00:07:38,920
+(speaker 0) combat and won.
+
+154
+00:07:39,725 --> 00:07:42,600
+(speaker 0) This victory caused the goblins to retreat, but
+
+155
+00:07:42,680 --> 00:07:45,320
+(speaker 0) we discovered they did so with roughly twenty-
+
+156
+00:07:45,560 --> 00:07:46,760
+(speaker 0) four of the town's people.
+
+157
+00:07:47,960 --> 00:07:50,680
+(speaker 0) While we repaired the town to survive, while we
+
+158
+00:07:50,735 --> 00:07:53,880
+(speaker 0) chased the goblins, Vorel encountered one who had
+
+159
+00:07:53,890 --> 00:07:54,760
+(speaker 0) been left behind.
+
+160
+00:07:55,920 --> 00:07:58,940
+(speaker 0) After a fight, the goblin pledged itself to Varel,
+
+161
+00:07:59,310 --> 00:08:00,940
+(speaker 0) declaring him Lizard King.
+
+162
+00:08:01,900 --> 00:08:05,820
+(speaker 0) That goblin's name was Bakbak, and he ended up
+
+163
+00:08:06,010 --> 00:08:09,980
+(speaker 0) becoming an ally for the journey ahead.
+
+164
+00:08:10,170 --> 00:08:13,260
+(speaker 0) With some semblance of leadership and a militia
+
+165
+00:08:13,520 --> 00:08:16,620
+(speaker 0) in place, we set off in the Fate Four to get our
+
+166
+00:08:16,700 --> 00:08:17,180
+(speaker 0) people back.
+
+167
+00:08:17,980 --> 00:08:20,860
+(speaker 0) During the chase, we ran into an old naked
+
+168
+00:08:20,940 --> 00:08:21,260
+(speaker 0) hermit.
+
+169
+00:08:22,015 --> 00:08:24,860
+(speaker 0) Weird light- emitting beetles, and were even
+
+170
+00:08:25,020 --> 00:08:26,860
+(speaker 0) attacked by the goblins themselves.
+
+171
+00:08:27,840 --> 00:08:30,300
+(speaker 0) After a lot of driving and fighting, the fate
+
+172
+00:08:30,380 --> 00:08:32,940
+(speaker 0) four needed repairs before we'd be able to
+
+173
+00:08:33,020 --> 00:08:33,100
+(speaker 0) continue.
+
+174
+00:08:34,780 --> 00:08:37,340
+(speaker 0) We decided to investigate an antenna that was
+
+175
+00:08:37,569 --> 00:08:39,659
+(speaker 0) sticking up from the sand while repairs were
+
+176
+00:08:39,740 --> 00:08:40,140
+(speaker 0) being made.
+
+177
+00:08:40,780 --> 00:08:43,580
+(speaker 0) However, both Nash and myself were pulled under
+
+178
+00:08:44,655 --> 00:08:45,660
+(speaker 0) beneath the desert.
+
+179
+00:08:45,855 --> 00:08:48,380
+(speaker 0) We met two gnomes, Chance and Eddie.
+
+180
+00:08:49,065 --> 00:08:51,430
+(speaker 0) They had also been pulled under the sand and were
+
+181
+00:08:51,540 --> 00:08:52,710
+(speaker 0) trapped, just like us.
+
+182
+00:08:53,805 --> 00:08:56,230
+(speaker 0) We found our way into an underground facility
+
+183
+00:08:56,370 --> 00:08:58,790
+(speaker 0) controlled by a computer called Leopold.
+
+184
+00:08:59,510 --> 00:09:01,830
+(speaker 0) We learned that this structure was an ancient
+
+185
+00:09:01,940 --> 00:09:05,270
+(speaker 0) black site prison housing great evils of the
+
+186
+00:09:05,350 --> 00:09:05,430
+(speaker 0) world.
+
+187
+00:09:06,810 --> 00:09:09,430
+(speaker 0) Leopold tried to prevent us from leaving, but we
+
+188
+00:09:09,510 --> 00:09:12,390
+(speaker 0) made a deal with the sentient tree to destroy the
+
+189
+00:09:12,395 --> 00:09:14,950
+(speaker 0) facility in exchange for a way out.
+
+190
+00:09:16,275 --> 00:09:18,560
+(speaker 0) We did manage to blow the facility up.
+
+191
+00:09:19,075 --> 00:09:23,440
+(speaker 0) However, Chance and Eddie both fell back into the
+
+192
+00:09:23,520 --> 00:09:27,680
+(speaker 0) facility as it exploded, and they didn't make it.
+
+193
+00:09:28,800 --> 00:09:31,440
+(speaker 0) We found Vorrell and Hope though still waiting
+
+194
+00:09:31,470 --> 00:09:34,800
+(speaker 0) for us, but there was little opportunity for
+
+195
+00:09:34,960 --> 00:09:35,520
+(speaker 0) celebration.
+
+196
+00:09:36,225 --> 00:09:39,120
+(speaker 0) No sooner did we see them than a massive dragon
+
+197
+00:09:39,365 --> 00:09:41,760
+(speaker 0) rose out of the sands and took to the sky.
+
+198
+00:09:42,785 --> 00:09:45,180
+(speaker 0) To make matters even worse, we were now being
+
+199
+00:09:45,420 --> 00:09:48,540
+(speaker 0) chased by unknown forces in vehicles while we
+
+200
+00:09:48,700 --> 00:09:51,260
+(speaker 0) still pursued the goblins who were ahead of us.
+
+201
+00:09:52,305 --> 00:09:54,940
+(speaker 0) It didn't leave us much time to catch up on what
+
+202
+00:09:55,199 --> 00:09:58,140
+(speaker 0) had transpired, but when I think about it, I
+
+203
+00:09:58,280 --> 00:10:01,180
+(speaker 0) still wonder what Vorel and Hope got up to while
+
+204
+00:10:01,340 --> 00:10:02,460
+(speaker 0) we were under the sands.
+
+205
+00:10:05,420 --> 00:10:09,020
+(speaker 1) Hope, let us engage in the gossip together.
+
+206
+00:10:10,445 --> 00:10:11,640
+(speaker 2) The gossip, you say?
+
+207
+00:10:12,440 --> 00:10:12,520
+(speaker 2) Yes.
+
+208
+00:10:13,560 --> 00:10:16,360
+(speaker 2) I guess the choice is Nash or Stanley first.
+
+209
+00:10:16,815 --> 00:10:19,160
+(speaker 1) I've actually had quite a bit of time to sit down
+
+210
+00:10:19,515 --> 00:10:23,320
+(speaker 1) in the mobile here, as well as in our dank
+
+211
+00:10:23,560 --> 00:10:26,040
+(speaker 1) underground, to talk with Stanley.
+
+212
+00:10:26,635 --> 00:10:29,320
+(speaker 1) And Nash is a curious fellow.
+
+213
+00:10:29,430 --> 00:10:31,160
+(speaker 1) I'd actually like to know more about you.
+
+214
+00:10:33,080 --> 00:10:33,160
+(speaker 2) Me?
+
+215
+00:10:33,545 --> 00:10:35,000
+(speaker 2) Well, you know, Varel.
+
+216
+00:10:35,160 --> 00:10:37,560
+(speaker 2) Usually, when you gossip about people, it's not
+
+217
+00:10:38,120 --> 00:10:38,200
+(speaker 2) with
+
+218
+00:10:38,765 --> 00:10:41,260
+(speaker 1) Then there, it's rather dishonest.
+
+219
+00:10:41,855 --> 00:10:44,220
+(speaker 2) Humans are dishonest folk.
+
+220
+00:10:44,860 --> 00:10:45,740
+(speaker 1) I'm learning this.
+
+221
+00:10:46,589 --> 00:10:48,220
+(speaker 2) So, but but back to the point.
+
+222
+00:10:48,380 --> 00:10:49,820
+(speaker 2) You wanted to talk about me.
+
+223
+00:10:50,510 --> 00:10:51,820
+(speaker 1) You're the one I don't know.
+
+224
+00:10:52,595 --> 00:10:54,700
+(speaker 1) Nash seems rather easy to figure out.
+
+225
+00:10:55,039 --> 00:10:59,100
+(speaker 1) A panicky man with a mysterious past, imbued with
+
+226
+00:10:59,180 --> 00:11:02,220
+(speaker 1) powers that he may not understand, and what what
+
+227
+00:11:02,255 --> 00:11:04,300
+(speaker 1) a danger to himself and everyone around him.
+
+228
+00:11:05,000 --> 00:11:06,220
+(speaker 1) But a kind- hearted soul.
+
+229
+00:11:07,499 --> 00:11:10,680
+(speaker 1) Stanley, a man out for himself, and not much more
+
+230
+00:11:10,920 --> 00:11:11,960
+(speaker 1) than that, it would seem.
+
+231
+00:11:12,840 --> 00:11:12,920
+(speaker 1) You
+
+232
+00:11:13,080 --> 00:11:14,600
+(speaker 2) know, you're very perceptive.
+
+233
+00:11:14,840 --> 00:11:16,760
+(speaker 2) I wouldn't have expected that from a lizard.
+
+234
+00:11:17,350 --> 00:11:21,560
+(speaker 1) You'd be surprised at how few questions I get
+
+235
+00:11:22,219 --> 00:11:25,000
+(speaker 1) asked, and how much time I'm allowed to think for
+
+236
+00:11:25,240 --> 00:11:25,400
+(speaker 1) myself.
+
+237
+00:11:26,445 --> 00:11:28,920
+(speaker 2) So, what questions do you have?
+
+238
+00:11:29,720 --> 00:11:29,800
+(speaker 2) Well,
+
+239
+00:11:30,525 --> 00:11:35,240
+(speaker 1) I thought perhaps we could build a fort or dig a
+
+240
+00:11:35,320 --> 00:11:35,560
+(speaker 1) hole.
+
+241
+00:11:36,415 --> 00:11:39,260
+(speaker 1) Have some sort of mutual activity to let our
+
+242
+00:11:39,320 --> 00:11:40,300
+(speaker 1) friendship blossom.
+
+243
+00:11:42,250 --> 00:11:43,020
+(speaker 2) Dig a hole.
+
+244
+00:11:43,260 --> 00:11:45,580
+(speaker 2) I've never heard that one for building
+
+245
+00:11:45,740 --> 00:11:47,420
+(speaker 2) friendships, but I'm willing to try it.
+
+246
+00:11:48,249 --> 00:11:52,380
+(speaker 1) Any sort of project is is suitable for building a
+
+247
+00:11:52,460 --> 00:11:52,780
+(speaker 1) friendship.
+
+248
+00:11:53,100 --> 00:11:54,700
+(speaker 1) You can dig a hole.
+
+249
+00:11:55,539 --> 00:11:56,540
+(speaker 1) We could go for a walk.
+
+250
+00:11:56,655 --> 00:11:58,460
+(speaker 1) We could watch the stars.
+
+251
+00:11:59,725 --> 00:12:01,100
+(speaker 2) Let's watch the stars.
+
+252
+00:12:01,860 --> 00:12:02,260
+(speaker 2) I'm sure.
+
+253
+00:12:02,755 --> 00:12:05,940
+(speaker 2) I'm sure your your family told you stories about
+
+254
+00:12:06,100 --> 00:12:06,180
+(speaker 2) them.
+
+255
+00:12:07,270 --> 00:12:09,220
+(speaker 1) From what I remember, yes.
+
+256
+00:12:09,380 --> 00:12:09,460
+(speaker 1) What
+
+257
+00:12:09,620 --> 00:12:10,180
+(speaker 2) did they tell you?
+
+258
+00:12:10,340 --> 00:12:11,540
+(speaker 2) What What's your favorite stand?
+
+259
+00:12:12,294 --> 00:12:13,700
+(speaker 2) What kind of legend does it hold?
+
+260
+00:12:14,375 --> 00:12:16,900
+(speaker 1) Well, we have the red one there.
+
+261
+00:12:17,700 --> 00:12:17,780
+(speaker 1) Yes.
+
+262
+00:12:19,109 --> 00:12:20,420
+(speaker 1) Exantos.
+
+263
+00:12:21,245 --> 00:12:22,740
+(speaker 2) Exantos.
+
+264
+00:12:23,060 --> 00:12:23,940
+(speaker 1) Exantos.
+
+265
+00:12:24,020 --> 00:12:24,100
+(speaker 1) Yeah.
+
+266
+00:12:24,745 --> 00:12:25,700
+(speaker 2) Exantos.
+
+267
+00:12:25,780 --> 00:12:26,260
+(speaker 2) He moves.
+
+268
+00:12:27,200 --> 00:12:30,240
+(speaker 1) Across the sky, sometimes visiting other stars,
+
+269
+00:12:30,415 --> 00:12:31,680
+(speaker 1) always overlapping them.
+
+270
+00:12:32,165 --> 00:12:33,600
+(speaker 1) That that red one there, yes.
+
+271
+00:12:34,435 --> 00:12:38,560
+(speaker 1) Sometimes, he goes behind the moon, and depending
+
+272
+00:12:39,539 --> 00:12:41,600
+(speaker 1) on which part the red dragon is visiting in the
+
+273
+00:12:41,600 --> 00:12:45,120
+(speaker 1) sky, you can read into the future, perhaps, or at
+
+274
+00:12:45,120 --> 00:12:47,600
+(speaker 1) least catch a gleam of events to come.
+
+275
+00:12:48,320 --> 00:12:48,560
+(speaker 2) The future?
+
+276
+00:12:48,960 --> 00:12:51,280
+(speaker 2) I wouldn't have expected you for one to tell the
+
+277
+00:12:51,310 --> 00:12:52,960
+(speaker 2) portents of the future, Marel.
+
+278
+00:12:53,820 --> 00:12:54,940
+(speaker 1) Is that so unexpected?
+
+279
+00:12:55,100 --> 00:12:56,300
+(speaker 1) The future is all around us.
+
+280
+00:12:56,750 --> 00:12:59,820
+(speaker 1) You can see a rock, and know you'll stub your toe
+
+281
+00:13:00,355 --> 00:13:03,420
+(speaker 1) if you do not deviate off your present path.
+
+282
+00:13:03,980 --> 00:13:05,500
+(speaker 1) The future is an easy thing to tell.
+
+283
+00:13:06,300 --> 00:13:06,380
+(speaker 1) But
+
+284
+00:13:06,390 --> 00:13:07,180
+(speaker 2) what about the past?
+
+285
+00:13:07,660 --> 00:13:08,940
+(speaker 2) So, so let me show you mine.
+
+286
+00:13:09,315 --> 00:13:12,460
+(speaker 2) You see that that twinkling one right up there,
+
+287
+00:13:13,680 --> 00:13:15,900
+(speaker 2) and how it connects to the two other stars next
+
+288
+00:13:16,060 --> 00:13:16,220
+(speaker 2) to it?
+
+289
+00:13:17,329 --> 00:13:19,900
+(speaker 2) That's the portal from where the dragons came
+
+290
+00:13:20,060 --> 00:13:20,140
+(speaker 2) from.
+
+291
+00:13:20,865 --> 00:13:21,500
+(speaker 1) The portal.
+
+292
+00:13:22,389 --> 00:13:26,180
+(speaker 2) Well, yes, the legends there—the portal where the
+
+293
+00:13:26,260 --> 00:13:28,820
+(speaker 2) dragons came, and they infested this world.
+
+294
+00:13:29,589 --> 00:13:31,860
+(speaker 2) And so the humans—it was just humans at the time—
+
+295
+00:13:32,240 --> 00:13:36,820
+(speaker 2) they made a pact, the Dark Pact, with the demons.
+
+296
+00:13:37,860 --> 00:13:39,140
+(speaker 2) Half of me, half of my people.
+
+297
+00:13:40,325 --> 00:13:42,980
+(speaker 2) But the pact was never made, and that's why the
+
+298
+00:13:43,060 --> 00:13:44,820
+(speaker 2) dragons were able to ravage this world.
+
+299
+00:13:46,020 --> 00:13:46,100
+(speaker 2) You
+
+300
+00:13:46,260 --> 00:13:47,940
+(speaker 1) don't see many dragons these days.
+
+301
+00:13:49,485 --> 00:13:52,600
+(speaker 2) Well, no, I'm pretty sure they're all extinct.
+
+302
+00:13:54,045 --> 00:13:57,320
+(speaker 2) But imagine, Farell, imagine being able to go
+
+303
+00:13:57,599 --> 00:14:00,440
+(speaker 2) back to the past and seeing them in their full
+
+304
+00:14:00,680 --> 00:14:03,960
+(speaker 2) glory, and the demons unadulterated with the
+
+305
+00:14:04,040 --> 00:14:05,080
+(speaker 2) humans fighting.
+
+306
+00:14:06,520 --> 00:14:07,320
+(speaker 1) Sounds like chaos.
+
+307
+00:14:07,595 --> 00:14:08,360
+(speaker 1) Sounds like war.
+
+308
+00:14:09,745 --> 00:14:13,800
+(speaker 2) Farell, ah, this may be because you know we're
+
+309
+00:14:13,830 --> 00:14:14,760
+(speaker 2) becoming friends now.
+
+310
+00:14:15,329 --> 00:14:16,360
+(speaker 2) But what if I told you?
+
+311
+00:14:17,080 --> 00:14:17,960
+(speaker 2) What if I told you that?
+
+312
+00:14:18,770 --> 00:14:19,680
+(speaker 2) That's my purpose.
+
+313
+00:14:20,800 --> 00:14:21,120
+(speaker 2) To what?
+
+314
+00:14:21,955 --> 00:14:22,960
+(speaker 2) To go back in the past.
+
+315
+00:14:24,305 --> 00:14:25,040
+(speaker 1) Into the past.
+
+316
+00:14:25,720 --> 00:14:26,640
+(speaker 2) Yeah, yes.
+
+317
+00:14:26,720 --> 00:14:28,480
+(speaker 2) To complete the dark pact.
+
+318
+00:14:28,805 --> 00:14:31,040
+(speaker 2) To stop the dragons from ruining this world.
+
+319
+00:14:32,334 --> 00:14:34,160
+(speaker 1) That's a that's a lot to do.
+
+320
+00:14:35,600 --> 00:14:36,960
+(speaker 2) It's it's a big task.
+
+321
+00:14:37,315 --> 00:14:39,440
+(speaker 2) I'm not beyond it, though.
+
+322
+00:14:39,680 --> 00:14:41,040
+(speaker 1) Oh, I'm I'm impressed.
+
+323
+00:14:41,200 --> 00:14:41,600
+(speaker 1) Believe me.
+
+324
+00:14:42,494 --> 00:14:46,240
+(speaker 1) This uh, this is a bit more honorable than.
+
+325
+00:14:47,355 --> 00:14:51,640
+(speaker 1) Stealing an extra coin, building a place for
+
+326
+00:14:51,800 --> 00:14:55,000
+(speaker 1) yourself, or perhaps even seeking revenge.
+
+327
+00:14:56,205 --> 00:14:59,960
+(speaker 1) I see it as—I would see it—I should say—as an
+
+328
+00:15:00,189 --> 00:15:00,920
+(speaker 1) unachievable feat.
+
+329
+00:15:01,155 --> 00:15:04,520
+(speaker 1) But I did just watch two men sucked below the
+
+330
+00:15:04,600 --> 00:15:09,560
+(speaker 1) sand, converse not days ago with a skeleton, and
+
+331
+00:15:10,379 --> 00:15:11,400
+(speaker 1) kill a demon.
+
+332
+00:15:12,360 --> 00:15:12,440
+(speaker 1) Yes.
+
+333
+00:15:13,400 --> 00:15:15,800
+(speaker 1) There is a there is much this world that my time
+
+334
+00:15:16,060 --> 00:15:17,480
+(speaker 1) in the desert did not teach me about.
+
+335
+00:15:18,175 --> 00:15:19,240
+(speaker 1) So, how will you do it?
+
+336
+00:15:19,935 --> 00:15:21,400
+(speaker 1) How does one return to the past?
+
+337
+00:15:22,445 --> 00:15:25,320
+(speaker 2) Well, from what I've gathered from the stories of
+
+338
+00:15:25,899 --> 00:15:28,040
+(speaker 2) my people and a few other stories from other
+
+339
+00:15:28,300 --> 00:15:30,120
+(speaker 2) people, the dragon engines.
+
+340
+00:15:30,555 --> 00:15:33,000
+(speaker 2) It all revolves around the dragon engines.
+
+341
+00:15:33,829 --> 00:15:37,800
+(speaker 2) You you get one and you do something with it, and
+
+342
+00:15:37,960 --> 00:15:39,000
+(speaker 2) you go back to the past.
+
+343
+00:15:40,285 --> 00:15:44,940
+(speaker 1) The dragon engine being that small device in Dust
+
+344
+00:15:44,940 --> 00:15:45,020
+(speaker 1) Hill.
+
+345
+00:15:46,309 --> 00:15:47,340
+(speaker 2) Yes, exactly.
+
+346
+00:15:48,849 --> 00:15:53,020
+(speaker 1) If the past requires fixing, then the present and
+
+347
+00:15:53,229 --> 00:15:55,500
+(speaker 1) the future is broken.
+
+348
+00:15:57,295 --> 00:15:58,220
+(speaker 2) Yes, it is.
+
+349
+00:15:58,465 --> 00:16:00,140
+(speaker 2) I mean, look at all around us.
+
+350
+00:16:00,779 --> 00:16:03,020
+(speaker 2) This this dead world when there was a river.
+
+351
+00:16:03,669 --> 00:16:05,100
+(speaker 2) It's proof that this used to be.
+
+352
+00:16:05,955 --> 00:16:08,560
+(speaker 2) Teeming with life, and then all of the people—they
+
+353
+00:16:08,640 --> 00:16:11,520
+(speaker 2) have such, such sad backstories.
+
+354
+00:16:12,965 --> 00:16:16,720
+(speaker 1) Why not then, accept this world is broken.
+
+355
+00:16:18,130 --> 00:16:20,480
+(speaker 1) Perhaps even unfixable outside of your means.
+
+356
+00:16:21,985 --> 00:16:25,360
+(speaker 1) And do everything necessary to see the future
+
+357
+00:16:25,760 --> 00:16:26,080
+(speaker 1) done right.
+
+358
+00:16:27,235 --> 00:16:31,040
+(speaker 1) Why waste your time on these, ultimately pathetic
+
+359
+00:16:31,120 --> 00:16:31,440
+(speaker 1) humans?
+
+360
+00:16:31,600 --> 00:16:31,760
+(speaker 1) For me.
+
+361
+00:16:32,740 --> 00:16:33,700
+(speaker 1) I am on a bound.
+
+362
+00:16:34,455 --> 00:16:37,780
+(speaker 1) I became a servant of Dusthill, and the people
+
+363
+00:16:38,020 --> 00:16:38,420
+(speaker 1) are missing.
+
+364
+00:16:38,580 --> 00:16:41,860
+(speaker 1) And now we seek to rectify the wrongs.
+
+365
+00:16:43,709 --> 00:16:44,740
+(speaker 1) But why bother with this quest?
+
+366
+00:16:45,510 --> 00:16:48,500
+(speaker 1) Why not just return to Dusthill, set the past in
+
+367
+00:16:48,665 --> 00:16:52,100
+(speaker 1) proper motion, and kill anybody along the way
+
+368
+00:16:52,320 --> 00:16:54,420
+(speaker 1) because they ultimately wouldn't be alive in the
+
+369
+00:16:54,519 --> 00:16:55,220
+(speaker 1) new future anyway.
+
+370
+00:16:57,065 --> 00:16:57,940
+(speaker 2) The killing people.
+
+371
+00:16:58,990 --> 00:17:01,200
+(speaker 2) I don't want to make them sadder than they already
+
+372
+00:17:01,360 --> 00:17:01,920
+(speaker 2) are, right?
+
+373
+00:17:02,145 --> 00:17:02,880
+(speaker 2) Do do you?
+
+374
+00:17:03,100 --> 00:17:06,319
+(speaker 2) I I you have emotions, correct?
+
+375
+00:17:07,119 --> 00:17:07,200
+(speaker 2) Yes.
+
+376
+00:17:08,194 --> 00:17:12,000
+(speaker 2) So do you like seeing people hurt?
+
+377
+00:17:14,240 --> 00:17:14,319
+(speaker 1) No.
+
+378
+00:17:15,569 --> 00:17:16,880
+(speaker 1) I'd say not in general, no.
+
+379
+00:17:17,444 --> 00:17:19,119
+(speaker 2) So that's why I don't kill them, right?
+
+380
+00:17:19,440 --> 00:17:21,599
+(speaker 2) And also because it creates bigger problems.
+
+381
+00:17:22,079 --> 00:17:23,119
+(speaker 2) Because if you kill one person.
+
+382
+00:17:24,119 --> 00:17:25,640
+(speaker 2) You gotta kill more people.
+
+383
+00:17:26,259 --> 00:17:27,560
+(speaker 2) It never just stops with one.
+
+384
+00:17:27,960 --> 00:17:29,240
+(speaker 2) Believe me, I know that.
+
+385
+00:17:29,880 --> 00:17:32,920
+(speaker 1) No, you humans are pretty good at watching after
+
+386
+00:17:32,960 --> 00:17:33,880
+(speaker 1) your own genus.
+
+387
+00:17:35,209 --> 00:17:38,760
+(speaker 1) Speaking of which, apologies, or I'm awful
+
+388
+00:17:38,920 --> 00:17:39,320
+(speaker 1) confused.
+
+389
+00:17:39,914 --> 00:17:42,840
+(speaker 1) Our what appears to be our truly human brethren
+
+390
+00:17:43,989 --> 00:17:47,560
+(speaker 1) is malformed and unsocial.
+
+391
+00:17:48,794 --> 00:17:51,560
+(speaker 1) Our most perhaps human companion.
+
+392
+00:17:52,624 --> 00:17:55,450
+(speaker 1) Gets spoke to all the time, in various made- up
+
+393
+00:17:55,610 --> 00:17:59,370
+(speaker 1) languages about the shape of his ears, and you
+
+394
+00:17:59,934 --> 00:18:04,890
+(speaker 1) perhaps receive the most wary looks for having,
+
+395
+00:18:06,109 --> 00:18:10,410
+(speaker 1) but basically, the horns of a grazer on your
+
+396
+00:18:10,570 --> 00:18:10,650
+(speaker 1) head.
+
+397
+00:18:11,610 --> 00:18:11,690
+(speaker 1) Yes.
+
+398
+00:18:13,050 --> 00:18:13,530
+(speaker 1) Are you human?
+
+399
+00:18:14,730 --> 00:18:14,810
+(speaker 2) Um.
+
+400
+00:18:15,050 --> 00:18:15,450
+(speaker 2) Oh no.
+
+401
+00:18:16,489 --> 00:18:17,530
+(speaker 2) Well, half of me is.
+
+402
+00:18:18,285 --> 00:18:19,210
+(speaker 2) Half of me is human.
+
+403
+00:18:19,935 --> 00:18:21,270
+(speaker 2) The other half is part demon.
+
+404
+00:18:21,975 --> 00:18:24,230
+(speaker 2) You should see the dreams I have sometimes.
+
+405
+00:18:25,749 --> 00:18:30,950
+(speaker 1) And demons identify as mountain top grass eaters.
+
+406
+00:18:32,314 --> 00:18:35,990
+(speaker 2) Well, it's more a way of combat, right?
+
+407
+00:18:37,079 --> 00:18:39,990
+(speaker 2) You butt heads, but with tieflings, you literally
+
+408
+00:18:40,100 --> 00:18:40,790
+(speaker 2) butt heads.
+
+409
+00:18:41,910 --> 00:18:42,790
+(speaker 1) So it's a dominance.
+
+410
+00:18:43,624 --> 00:18:46,470
+(speaker 2) Yes, and I was lucky to be blessed with some of
+
+411
+00:18:46,550 --> 00:18:47,270
+(speaker 2) the bigger horns.
+
+412
+00:18:47,590 --> 00:18:47,990
+(speaker 2) Some of them.
+
+413
+00:18:48,674 --> 00:18:50,190
+(speaker 2) They don't have very big homes.
+
+414
+00:18:51,470 --> 00:18:51,790
+(speaker 1) I see.
+
+415
+00:18:51,979 --> 00:18:55,070
+(speaker 1) So you are bountiful, healthy,
+
+416
+00:18:55,509 --> 00:18:56,430
+(speaker 2) bant bountiful,
+
+417
+00:18:57,070 --> 00:18:57,470
+(speaker 2) virile.
+
+418
+00:18:58,144 --> 00:19:00,270
+(speaker 2) Oh, oh, chit children.
+
+419
+00:19:01,284 --> 00:19:03,550
+(speaker 1) I guess that is the ultimate purpose of being
+
+420
+00:19:03,790 --> 00:19:04,190
+(speaker 1) fertile.
+
+421
+00:19:04,784 --> 00:19:08,830
+(speaker 2) Ugh, no virile, no uh, no children for me and my
+
+422
+00:19:09,139 --> 00:19:09,870
+(speaker 2) pest or my future.
+
+423
+00:19:11,070 --> 00:19:11,630
+(speaker 2) What about you?
+
+424
+00:19:12,029 --> 00:19:14,430
+(speaker 2) What about you, the big lizardman who's grilling
+
+425
+00:19:14,430 --> 00:19:14,910
+(speaker 2) the tefling?
+
+426
+00:19:16,745 --> 00:19:18,440
+(speaker 2) Do you have any offspring?
+
+427
+00:19:18,854 --> 00:19:22,120
+(speaker 1) No, no, that would be, that'd be quite silly.
+
+428
+00:19:22,690 --> 00:19:23,320
+(speaker 2) Quite silly.
+
+429
+00:19:23,480 --> 00:19:24,360
+(speaker 2) Why would that be silly?
+
+430
+00:19:24,520 --> 00:19:25,240
+(speaker 2) Don't, don't you?
+
+431
+00:19:25,640 --> 00:19:26,680
+(speaker 2) I do you mature?
+
+432
+00:19:26,920 --> 00:19:29,080
+(speaker 2) How fast does it take for a little lizard to grow
+
+433
+00:19:29,240 --> 00:19:29,320
+(speaker 2) up?
+
+434
+00:19:29,724 --> 00:19:32,120
+(speaker 1) Oh, about six years or so.
+
+435
+00:19:32,684 --> 00:19:35,240
+(speaker 1) Eight for fighting age, and size.
+
+436
+00:19:36,284 --> 00:19:37,000
+(speaker 2) That's pretty fast.
+
+437
+00:19:37,239 --> 00:19:39,080
+(speaker 2) Why wouldn't you have little ones running around
+
+438
+00:19:39,240 --> 00:19:39,480
+(speaker 2) all the time?
+
+439
+00:19:39,720 --> 00:19:39,800
+(speaker 2) Well,
+
+440
+00:19:40,109 --> 00:19:42,200
+(speaker 1) they're a resource drain for one, but there is no
+
+441
+00:19:42,280 --> 00:19:44,120
+(speaker 1) greater power, or force.
+
+442
+00:19:45,104 --> 00:19:46,220
+(speaker 1) Suggesting I do so.
+
+443
+00:19:46,924 --> 00:19:50,860
+(speaker 2) So, so you you don't even have an urge to create
+
+444
+00:19:51,260 --> 00:19:52,220
+(speaker 2) little varels.
+
+445
+00:19:53,024 --> 00:19:56,860
+(speaker 1) That urge would go against the the base notions of
+
+446
+00:19:57,474 --> 00:20:01,100
+(speaker 1) survivability and effectiveness in our current
+
+447
+00:20:01,580 --> 00:20:02,060
+(speaker 1) predicament.
+
+448
+00:20:02,940 --> 00:20:03,420
+(speaker 2) That's fair.
+
+449
+00:20:04,349 --> 00:20:05,500
+(speaker 2) I didn't think of it that way.
+
+450
+00:20:06,109 --> 00:20:09,420
+(speaker 2) I mean, if I I could, I'd have a few, but not in
+
+451
+00:20:09,500 --> 00:20:10,460
+(speaker 2) this present situation.
+
+452
+00:20:10,924 --> 00:20:12,940
+(speaker 2) It's a bit bleak of a world, if you know what I
+
+453
+00:20:12,940 --> 00:20:13,020
+(speaker 2) mean.
+
+454
+00:20:13,884 --> 00:20:18,840
+(speaker 1) Often a booming lizard populace means there is a
+
+455
+00:20:19,094 --> 00:20:21,320
+(speaker 1) large benefactor at work.
+
+456
+00:20:22,049 --> 00:20:25,320
+(speaker 1) We lizards are, how should I put this, fiercely
+
+457
+00:20:25,939 --> 00:20:29,560
+(speaker 1) logical, and children are very illogical.
+
+458
+00:20:30,059 --> 00:20:32,760
+(speaker 1) And without the purpose of war or a higher
+
+459
+00:20:32,840 --> 00:20:35,160
+(speaker 1) calling, they would be wasted.
+
+460
+00:20:36,050 --> 00:20:39,800
+(speaker 2) So, so you talk about about an alpha, basically?
+
+461
+00:20:39,960 --> 00:20:40,040
+(speaker 2) How
+
+462
+00:20:40,685 --> 00:20:42,430
+(speaker 2) Does a lizard become an alpha?
+
+463
+00:20:42,670 --> 00:20:45,950
+(speaker 2) How is if it's not logical or it's not about war?
+
+464
+00:20:46,699 --> 00:20:49,870
+(speaker 2) How do you even find yourself in that kind of a
+
+465
+00:20:50,459 --> 00:20:51,710
+(speaker 2) position if you don't seek it out?
+
+466
+00:20:52,430 --> 00:20:52,990
+(speaker 2) How do you mean?
+
+467
+00:20:53,870 --> 00:20:59,230
+(speaker 2) Well, you you talk about lizards not being very
+
+468
+00:20:59,714 --> 00:21:01,710
+(speaker 2) driven in terms of society, right?
+
+469
+00:21:02,254 --> 00:21:04,030
+(speaker 2) You live alone, and it sounds like a lot of other
+
+470
+00:21:04,350 --> 00:21:05,470
+(speaker 2) of your kind live alone.
+
+471
+00:21:06,294 --> 00:21:08,960
+(speaker 2) So, how does one even put together a lizard
+
+472
+00:21:09,100 --> 00:21:11,760
+(speaker 2) family, and work as a group?
+
+473
+00:21:12,169 --> 00:21:14,240
+(speaker 2) Is there no desire whatsoever?
+
+474
+00:21:15,109 --> 00:21:17,680
+(speaker 1) Probably not too different than the human
+
+475
+00:21:18,160 --> 00:21:18,560
+(speaker 1) organizations.
+
+476
+00:21:19,504 --> 00:21:22,720
+(speaker 1) It's just that it requires the initial bump.
+
+477
+00:21:23,409 --> 00:21:25,600
+(speaker 1) Humans are brought together for all kinds of
+
+478
+00:21:25,920 --> 00:21:26,240
+(speaker 1) situations.
+
+479
+00:21:27,120 --> 00:21:32,400
+(speaker 1) Imagine, imagine planning the next twenty years
+
+480
+00:21:32,640 --> 00:21:33,440
+(speaker 1) of meals first.
+
+481
+00:21:34,604 --> 00:21:36,440
+(speaker 1) And then being willing to have the children,
+
+482
+00:21:37,479 --> 00:21:41,800
+(speaker 2) ah, so so a lizard with foresight, and that's why
+
+483
+00:21:41,960 --> 00:21:43,320
+(speaker 2) you think about the future so much.
+
+484
+00:21:43,849 --> 00:21:45,400
+(speaker 1) It's a useful thing thinking about the future.
+
+485
+00:21:46,080 --> 00:21:51,080
+(speaker 1) Oftentimes lizards are not the proprietors of
+
+486
+00:21:51,160 --> 00:21:55,240
+(speaker 1) their own future, and the before times, as I've
+
+487
+00:21:55,240 --> 00:21:58,520
+(speaker 1) heard it told, the dragons themselves appeared
+
+488
+00:21:58,680 --> 00:22:01,000
+(speaker 1) before the lizards and giving them such great
+
+489
+00:22:01,160 --> 00:22:01,480
+(speaker 1) purpose.
+
+490
+00:22:02,384 --> 00:22:04,780
+(speaker 1) Began a breeding program to raise an army.
+
+491
+00:22:05,339 --> 00:22:06,940
+(speaker 2) Where did you get your stories from?
+
+492
+00:22:08,140 --> 00:22:08,700
+(speaker 1) My story.
+
+493
+00:22:08,940 --> 00:22:12,140
+(speaker 1) Well, perhaps that is a story for another time.
+
+494
+00:22:12,860 --> 00:22:13,340
+(speaker 2) Over it.
+
+495
+00:22:14,059 --> 00:22:15,260
+(speaker 2) You want to try the backpack?
+
+496
+00:22:15,745 --> 00:22:16,540
+(speaker 1) The backpack.
+
+497
+00:22:16,974 --> 00:22:20,140
+(speaker 1) Oh, that metal hunk you had me haul out.
+
+498
+00:22:20,940 --> 00:22:21,020
+(speaker 1) Yes.
+
+499
+00:22:21,850 --> 00:22:23,420
+(speaker 1) Dusty, what is this thing?
+
+500
+00:22:24,464 --> 00:22:27,500
+(speaker 2) So this, it's a jetpack.
+
+501
+00:22:27,959 --> 00:22:30,540
+(speaker 2) It was, as far as I can tell, created by the
+
+502
+00:22:30,620 --> 00:22:30,940
+(speaker 2) dwarves.
+
+503
+00:22:32,029 --> 00:22:33,740
+(speaker 2) You you you put it on like this.
+
+504
+00:22:34,620 --> 00:22:35,420
+(speaker 2) Let me help you.
+
+505
+00:22:35,660 --> 00:22:36,540
+(speaker 2) Yeah yeah yeah.
+
+506
+00:22:36,650 --> 00:22:37,500
+(speaker 2) You put your arm through there.
+
+507
+00:22:37,580 --> 00:22:38,060
+(speaker 2) All right, great.
+
+508
+00:22:38,300 --> 00:22:38,860
+(speaker 2) Now the other arm.
+
+509
+00:22:39,264 --> 00:22:40,460
+(speaker 2) All right, all right.
+
+510
+00:22:40,705 --> 00:22:41,420
+(speaker 2) How does it feel?
+
+511
+00:22:42,335 --> 00:22:43,100
+(speaker 1) Heavy and hard.
+
+512
+00:22:44,380 --> 00:22:44,700
+(speaker 2) All right.
+
+513
+00:22:45,179 --> 00:22:47,420
+(speaker 2) Well, with this, you you see the little button
+
+514
+00:22:47,500 --> 00:22:47,980
+(speaker 2) you have there
+
+515
+00:22:48,460 --> 00:22:48,860
+(speaker 2) in your hand.
+
+516
+00:22:49,745 --> 00:22:52,620
+(speaker 2) You hit it, and it launches you up into the sky.
+
+517
+00:22:53,660 --> 00:22:54,380
+(speaker 2) For what purpose?
+
+518
+00:22:55,829 --> 00:22:58,140
+(speaker 2) To fly, you know how much speed you have.
+
+519
+00:22:58,799 --> 00:23:02,700
+(speaker 2) You could be above all the enemies and then rain
+
+520
+00:23:02,860 --> 00:23:05,100
+(speaker 2) down upon them like a scaled terror.
+
+521
+00:23:06,060 --> 00:23:06,140
+(speaker 2) But
+
+522
+00:23:06,299 --> 00:23:08,060
+(speaker 1) would I rain upon them?
+
+523
+00:23:08,955 --> 00:23:10,780
+(speaker 2) You could rain yourself upon them.
+
+524
+00:23:12,034 --> 00:23:15,260
+(speaker 2) I mean, imagine being able to jump so high that
+
+525
+00:23:15,340 --> 00:23:18,700
+(speaker 2) when you land on your enemy, it incapacitates
+
+526
+00:23:18,940 --> 00:23:19,020
+(speaker 2) them.
+
+527
+00:23:19,695 --> 00:23:20,380
+(speaker 1) Wouldn't I?
+
+528
+00:23:21,519 --> 00:23:24,460
+(speaker 1) Would I be incapacitated too of falling and
+
+529
+00:23:24,540 --> 00:23:24,860
+(speaker 1) whatnot?
+
+530
+00:23:25,260 --> 00:23:25,660
+(speaker 1) Seems right.
+
+531
+00:23:26,140 --> 00:23:28,540
+(speaker 2) Maybe I've never tried it to be honest.
+
+532
+00:23:29,500 --> 00:23:29,580
+(speaker 2) Well,
+
+533
+00:23:30,540 --> 00:23:31,420
+(speaker 1) let's give it a shot.
+
+534
+00:23:43,820 --> 00:23:43,900
+(speaker 1) So
+
+535
+00:23:43,965 --> 00:23:45,020
+(speaker 2) that's how it works.
+
+536
+00:23:48,009 --> 00:23:52,360
+(speaker 0) So we found ourselves back to chasing goblins, but
+
+537
+00:23:52,449 --> 00:23:54,520
+(speaker 0) all while being chased ourselves.
+
+538
+00:23:55,269 --> 00:23:58,120
+(speaker 0) Our pursuers finally caught up, and we learned
+
+539
+00:23:58,280 --> 00:24:01,240
+(speaker 0) they were a group called the Toyota Host, being
+
+540
+00:24:01,480 --> 00:24:05,080
+(speaker 0) led by Chromaquishi warriors, serving something
+
+541
+00:24:05,480 --> 00:24:06,920
+(speaker 0) known as the Principal.
+
+542
+00:24:08,039 --> 00:24:11,000
+(speaker 0) This is all stuff we would learn later, as we
+
+543
+00:24:11,179 --> 00:24:12,440
+(speaker 0) were ultimately overrun.
+
+544
+00:24:13,109 --> 00:24:16,260
+(speaker 0) The fateful was damaged once again, and we were
+
+545
+00:24:16,420 --> 00:24:16,820
+(speaker 0) arrested.
+
+546
+00:24:17,704 --> 00:24:20,660
+(speaker 0) They took us to a place called Slavetown to
+
+547
+00:24:20,820 --> 00:24:21,620
+(speaker 0) undergo trial.
+
+548
+00:24:22,339 --> 00:24:24,820
+(speaker 0) We found out this is also where they had taken
+
+549
+00:24:24,850 --> 00:24:26,740
+(speaker 0) the captured people of Dust Hill.
+
+550
+00:24:27,384 --> 00:24:30,580
+(speaker 0) It seems some time ago the Hillmaster sold out
+
+551
+00:24:30,739 --> 00:24:34,980
+(speaker 0) Dust Hill's location, and now Slavetown saw it as
+
+552
+00:24:35,109 --> 00:24:38,580
+(speaker 0) a place that it could go and pick resources from.
+
+553
+00:24:39,664 --> 00:24:43,360
+(speaker 0) Under the control of the principal, guilt is
+
+554
+00:24:43,499 --> 00:24:46,720
+(speaker 0) determined in a trial of combat in a place called
+
+555
+00:24:46,879 --> 00:24:48,000
+(speaker 0) the Rusty Cage.
+
+556
+00:24:48,804 --> 00:24:51,680
+(speaker 0) So we were pitted against five Chromaquisi
+
+557
+00:24:52,014 --> 00:24:54,800
+(speaker 0) initiates, and while the old man we found in the
+
+558
+00:24:54,880 --> 00:24:58,160
+(speaker 0) desert was unfortunately killed, we did
+
+559
+00:24:58,549 --> 00:25:01,360
+(speaker 0) ultimately win the fight and prove our innocence.
+
+560
+00:25:02,294 --> 00:25:04,640
+(speaker 0) This was considered unheard of, and it
+
+561
+00:25:04,880 --> 00:25:07,440
+(speaker 0) immediately made us a party of interest in the
+
+562
+00:25:07,520 --> 00:25:07,680
+(speaker 0) town.
+
+563
+00:25:08,744 --> 00:25:11,620
+(speaker 0) We now find ourselves trapped in a civil war
+
+564
+00:25:11,919 --> 00:25:13,700
+(speaker 0) struggle for control and power.
+
+565
+00:25:14,984 --> 00:25:18,740
+(speaker 0) On one side is Selvus Stump, the owner of the
+
+566
+00:25:18,819 --> 00:25:20,020
+(speaker 0) buxom Confederate.
+
+567
+00:25:20,474 --> 00:25:22,900
+(speaker 0) He's a slaver with the backing of the principal.
+
+568
+00:25:23,749 --> 00:25:25,700
+(speaker 0) He's got his eye on Hope in particular.
+
+569
+00:25:26,260 --> 00:25:26,740
+(speaker 0) It seems.
+
+570
+00:25:27,439 --> 00:25:30,660
+(speaker 0) The other side is the jeweler who runs a brothel
+
+571
+00:25:30,830 --> 00:25:31,940
+(speaker 0) called the Sapphire.
+
+572
+00:25:32,739 --> 00:25:35,380
+(speaker 0) He wants to see the town restored to what it was
+
+573
+00:25:35,915 --> 00:25:37,460
+(speaker 0) before it became slave town.
+
+574
+00:25:38,014 --> 00:25:41,580
+(speaker 0) When it was known as pristine, however, he's also
+
+575
+00:25:41,905 --> 00:25:42,940
+(speaker 0) clearly a criminal.
+
+576
+00:25:43,984 --> 00:25:47,260
+(speaker 0) That said, he's also the one I'm backing.
+
+577
+00:25:48,459 --> 00:25:51,180
+(speaker 0) So we find ourselves pulled in multiple
+
+578
+00:25:51,240 --> 00:25:54,540
+(speaker 0) directions, looking for the deed to a mind that
+
+579
+00:25:54,620 --> 00:25:57,180
+(speaker 0) will ultimately tip the scales in someone's
+
+580
+00:25:57,189 --> 00:26:00,140
+(speaker 0) favor, and hopefully free our people.
+
+581
+00:26:23,460 --> 00:26:25,460
+(speaker 1) This show is part of the Frog Pants Network.
+
+582
+00:26:25,700 --> 00:26:26,580
+(speaker 1) Frog Pants Network.
+
+583
+00:26:26,645 --> 00:26:29,700
+(speaker 1) Get more shows like this at FrogPants.
+
+584
+00:26:30,260 --> 00:26:30,340
+(speaker 1) com.
+
+585
+00:26:31,554 --> 00:26:36,020
+(speaker 0) G zero R the number four T H.
+
+586
+00:26:37,014 --> 00:26:39,140
+(speaker 0) That's right, Gorath.
+
