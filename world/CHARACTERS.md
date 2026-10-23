@@ -1,6 +1,6 @@
-# Characters and participants — campaign reference index (E054 snapshot plus E113 update)
+# Characters and participants — campaign reference index (E054 snapshot plus E114 update)
 
-**Spoilers:** Core table retains its **Arc Two E054 snapshot**; later status updates cover corrected **E081** and the **E082–E111 Arc Four/Five developments in linked profiles**, with separate March/April/June/July/August/September/October/November-publication cast Q&As. The [Year One Q&A](../episodes/BONUS-2019-03.md) is not a played episode. **Quality:** These profiles synthesize provisional processed Parakeet SRT research; **they have not been checked against the audio**. For a story rather than an index, see [Arc One](../narrative/ARC_ONE.md) and [Arc Two](../narrative/ARC_TWO.md).
+**Spoilers:** Core table retains its **Arc Two E054 snapshot**; later status updates cover corrected **E081** and the **E082–E114 Arc Four/Five developments in linked profiles**, with separate March/April/June/July/August/September/October/November-publication cast Q&As. The [Year One Q&A](../episodes/BONUS-2019-03.md) is not a played episode. **Quality:** These profiles synthesize provisional processed Parakeet SRT research; **they have not been checked against the audio**. For a story rather than an index, see [Arc One](../narrative/ARC_ONE.md) and [Arc Two](../narrative/ARC_TWO.md).
 
 This is now the **subject-focused reference index**, not the append-only episode-batch ledger. The earlier 88,000-character source-first [character compendium is preserved](../research/legacy/2026-10-21/WORLD_CHARACTERS.md); the complete [pre-third-arc consolidation index](../research/legacy/2026-10-22/CHARACTERS_PRE_SECOND_ARC_CONSOLIDATION.md) preserves every additional interim status paragraph. Both archives retain their research history. A character's **earlier beliefs, reported fate and later observed status** must remain distinct. Roles in the podcast are not in-world identities.
 
@@ -24,6 +24,10 @@ This is now the **subject-focused reference index**, not the append-only episode
 | **Tedna** | Young stowaway and devoted helper; **rescued alive E048**, dies of injuries **E050**. His report of Angelashi's death was not eyewitness confirmation | [Tedna](characters/tedna.md) |
 | **Angelashi / Angel Ashi** | Elven singer, close to Nash; presumed dead in an E048 report but **directly freed alive E054**. Exact word division of name remains unresolved | [Angelashi](characters/angelashi.md) |
 | **Bok Bok** | Goblin companion of Vorel since **E006**; survives imprisonment, the war for Tietkalla and Vorel's temporary petrification | [Bok Bok](characters/bok-bok.md) |
+
+## E114 current status — later than the historical tables and updates
+
+**[Angelashi](characters/angelashi.md)** is revealed as a changeling and has **four living children (two girls, two boys)** with Nash aboard the Elhandar-bound ship. Her statement about **[Nash’s](characters/nash-maggard.md) own changeling identity** remains disputed. **[Lyrielle/Liriel (?)](characters/lyrielle.md)** is Kristen’s newly introduced elf doctor; Squirts remains dead. **Bok Bok is healed conscious without hand regrowth; Chunks survives**. Stanley kills Fluffy, Vorel helps repel the boarders, and the ship escapes with elven losses, **not yet arrived Elhandar**. [E114 evidence](../episodes/E114.md) · [comparison](../reports/E114_ASR_COMPARISON_2026-10-23.md). These findings remain **ASR-provisional**.
 
 ## E111 current-status update — later than the E054 table above
 

@@ -1,6 +1,12 @@
 # Nash Maggard
 
-**Portrayed by:** Scott. **Identity:** Wasteland traveler and spellcaster, with an implanted dragon-metal heart. **Arc Two status:** Alive; physically changed, allied with newly crowned Hope. **Spoilers:** Main Wastes through E111; retrospective Q&A comments kept separate from direct play. **Evidence:** Processed SRTs/dossiers, not independently audio-verified.
+**Portrayed by:** Scott. **Identity:** Wasteland traveler and spellcaster, with an implanted dragon-metal heart. **Arc Two status:** Alive; physically changed, allied with newly crowned Hope. **Spoilers:** Main Wastes through E114; retrospective Q&A comments kept separate from direct play. **Evidence:** Processed SRTs/dossiers, not independently audio-verified.
+
+## E114 — four children and an unresolved identity
+
+On the **Elhandar-bound rescue ship**, [E114](../../episodes/E114.md) puts Nash beside **Angelashi in labor** while Stanley and Vorel face undead boarders elsewhere aboard. She **privately says she is a changeling, like him**; Nash has not yet accepted this account. He **casts Shield** during decompression and stays with her after **Lyrielle/Liriel (?)** and attendants secure the medical bay. His awkward **poems and Performance checks** are emotional support, not spellcasting (see the separate [non-casting entries](nash-spellcasting-phrases.md#non-casting-poems--e114-labor-scene)). He also privately admits to Angelashi that **he respects Stanley**, despite his outward hostility; Stanley is not shown hearing this. Nash's attempt to pull a partly delivered boot is stopped, and he is redirected to catching the baby.
+
+**Nash catches a gray-skinned baby boy**, then joins Angelashi holding all four newborn forms. **Fork, pipe and boot visibly become babies: four living changeling children, two girls and two boys**. **Angelashi drops her elven form**, but her assertion about **Nash's own changeling ancestry remains a claim he disputes**, explaining his known dragon form through his implanted heart. No extra shapeshifting is demonstrated, no children's names assigned, and no complete individual sex/form mapping given. **Family alive aboard ship at cutoff; Elhandar not yet reached.** [Full-ASR comparison](../../reports/E114_ASR_COMPARISON_2026-10-23.md), not audio-verified.
 
 ## Spellcasting phrases and rhymes
 

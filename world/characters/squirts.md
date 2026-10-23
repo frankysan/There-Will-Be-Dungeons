@@ -1,6 +1,10 @@
 # Squirts — kobold trickster (Arcs Four–Five)
 
-> **First appearance:** [E082](../../episodes/E082.md), unnamed kobold at the Soggy Feather. **Identified and developed:** [E083](../../episodes/E083.md), [processed Parakeet SRT](../../sources/The%20Wastes%20S1E083.%20Trash%20Monkey%20and%20The%20Bird.parakeet.processed.srt). **Kristen's new character**, **not** a reincarnated Hope. This profile is **ASR-based, not audio-verified**; contains spoilers through E111; earlier sections retain their episode-era cutoffs.
+> **First appearance:** [E082](../../episodes/E082.md), unnamed kobold at the Soggy Feather. **Identified and developed:** [E083](../../episodes/E083.md), [processed Parakeet SRT](../../sources/The%20Wastes%20S1E083.%20Trash%20Monkey%20and%20The%20Bird.parakeet.processed.srt). **Kristen's new character**, **not** a reincarnated Hope. This profile is **ASR-based, not audio-verified**; contains spoilers through E114; earlier sections retain their episode-era cutoffs.
+
+## E114 — resurrection hoped for, not performed
+
+**Vorel displays the preserved ashes and hopes the elves can revive Squirts**, but [E114](../../episodes/E114.md) depicts **no resurrection, ashes transfer or use**. **Chunks survives the ship's decompression and boarding crisis**, sheltering in the medical area; no permanent new guardian is appointed. Kristen introduces **[Lyrielle/Liriel (?)](lyrielle.md), a separate elf doctor**, not Squirts restored or reincarnated. These are **ASR-provisional** follow-through findings. [Comparison](../../reports/E114_ASR_COMPARISON_2026-10-23.md).
 
 ## E111 — final battle, disintegration and ashes preserved
 

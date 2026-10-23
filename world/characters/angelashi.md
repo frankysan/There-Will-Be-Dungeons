@@ -1,6 +1,6 @@
 # Angelashi
 
-**Name status:** **Angelashi** is used as a working display spelling based on cast-shared recap forms; **Angel Ashi** appears in episode ASR, and the **word division remains unresolved**, unlike the accepted spelling **Diontalus**. **Identity:** Elven singer and an important companion of Nash. **Arc Two status:** **Alive and freed in E054**. **Spoilers:** E035–E111.
+**Name status:** **Angelashi** is used as a working display spelling based on cast-shared recap forms; **Angel Ashi** appears in episode ASR, and the **word division remains unresolved**, unlike the accepted spelling **Diontalus**. **Identity:** Changeling who presents as an elven singer (revealed E114), and an important companion of Nash. **Arc Two status:** **Alive and freed in E054**. **Spoilers:** E035–E114.
 
 Angelashi is introduced as a performer at the **Golden Gargoyle** in Trashburg, drawing Nash's interest. She travels with him after the club's violence and later speaks privately about her past, including elven/refugee experiences, travel hopes and her magic. Some of those details are **her own account**, not independent confirmation of an ancient itinerary. She uses temporary flower/plant magic around Nash, and the two develop an intimate relationship.
 
@@ -9,6 +9,12 @@ She disappears during the worsening conflict with the keep. In E048 **Tedna repo
 Her future travel, health and place in the new Tietkalla government are not decided merely by their reunion. The Q&A mentions Nash's emotional stakes and plans without adding scenes of Angelashi's life after E054.
 
 **Primary sources:** [E035](../../episodes/E035.md) · [E036](../../episodes/E036.md) · [E037](../../episodes/E037.md) · [E048](../../episodes/E048.md) · [E049](../../episodes/E049.md) · [E054](../../episodes/E054.md) · [Nash](nash-maggard.md) · [Tedna](tedna.md) · [spelling evidence](../../reports/DISCORD_SPELLING_2026-10-21.md).
+
+## E114 — four living children and her revealed form
+
+During the rescue ship's voyage toward **Elhandar**, Angelashi goes into labor and **privately tells Nash she is not an elf but a changeling, like him (~00:41–00:42)**. **Lyrielle/Liriel (?)**, Kristen's newly introduced elf doctor, assists while an undead attack threatens the ship. Ultrasound shows a baby and forms resembling **a fork, a smoking pipe and a boot**; **Animate Objects fails because they are not objects**. All four are delivered, with Nash catching the baby-shaped boy. During the family embrace **the three apparent objects change into babies**, establishing **four living changeling children, two girls and two boys (~02:35–02:39)**. **Angelashi's elven appearance visibly falls away**, revealing gray skin, white hair, small pointed ears and an altered face.
+
+**Her changeling form is shown; her assertion that Nash is also a changeling is not independently demonstrated**, and he protests that his dragon heart explains his known transformation. This disclosure does not automatically become Stanley's or Vorel's knowledge. Earlier descriptions of Angelashi as an elf are **her public appearance and episode-era understanding**; earlier elven-history testimony needs reassessment rather than an invented replacement biography. **Mother and four children are alive together aboard ship at cutoff**, not yet in Elhandar. No children's names or complete individual sex/form mapping. [E114 dossier](../../episodes/E114.md) · [comparison](../../reports/E114_ASR_COMPARISON_2026-10-23.md), **ASR-provisional**.
 
 ## E110 vision / E111 physical rescue — pregnancy and the ship
 

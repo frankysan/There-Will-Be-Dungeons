@@ -1,0 +1,63 @@
+{
+  "sources": [
+    {
+      "path": "sources/The Wastes S1E114. I hope that's a baby.parakeet.processed.srt",
+      "cues": 2542,
+      "first": "00:00:10,080",
+      "words": 22701,
+      "bytes": 248975,
+      "sha256": "ea4c0fa8ae7070c57c4dd06dc9872f0a7fc2cc3428a19f2dd74366c011c839b8",
+      "filename_label": "Parakeet processed",
+      "run_metadata_verified": false,
+      "last_end_seconds": 9722.72
+    },
+    {
+      "path": "sources/The Wastes S1E114. I hope that's a baby.qwen-q8.canary-ctc.nemotron.srt",
+      "cues": 4288,
+      "first": "00:00:02,720",
+      "words": 23119,
+      "bytes": 343964,
+      "sha256": "b0a605282686f2829464ce87f585da97ccbde143182e233c6af21c11af89c7e0",
+      "filename_label": "Qwen Q8 / Canary CTC / Nemotron",
+      "run_metadata_verified": false,
+      "last_end_seconds": 9722.34
+    }
+  ],
+  "distance": 1981,
+  "validation": "1000 deterministic random comparisons against full scalar DP, both directions",
+  "episode": "The Wastes S1E114",
+  "title": "I hope that's a baby",
+  "date": "2026-10-23",
+  "repository": "frankysan/There-Will-Be-Dungeons-Transcripts",
+  "branch": "main",
+  "head": "162bd714fe77b9632de913bc716f50eb0ac53d49",
+  "initial_worktree": "clean",
+  "audio_verified": false,
+  "asr_rerun": false,
+  "primary": "Parakeet",
+  "comparison_direction": "Parakeet -> Qwen",
+  "denominator": 22701,
+  "percentage": 8.726488,
+  "qwen_minus_parakeet_tokens": 418,
+  "method": "Chronological SRT cue text; remove (speaker N); lowercase; delete straight/curly apostrophes; replace non-Unicode-letter/non-digit characters with whitespace; split; exact unrestricted unit-cost ordered word Levenshtein via arbitrary-precision Myers bit vectors.",
+  "full_reverse_distance": 1981,
+  "additional_validation": "Identity and shifted-sequence checks at lengths 63, 64, 65, 127, 128, 129, 255, 256; expected distances zero and two.",
+  "full_text_reading": "Both exports represented in recording-clock chunks with shared lexical text and explicit P/Q alternatives; punctuation/case differences folded only in reading display. Selected raw-cue rereads.",
+  "audio_copy": {
+    "path": "local/The Wastes S1E114. I hope that's a baby.mp3",
+    "bytes": 156135241,
+    "sha256": "52e1121cfad197a3624c7c870f1bdf9db826871e9f42328f2f031be45e9019ac",
+    "duration_seconds": 9730.104,
+    "duration_method": "ffprobe format.duration",
+    "association": "Exact archive basename; actual historical ASR-run input not independently established"
+  },
+  "access": {
+    "direct": "Sources, local MP3, Git and edits",
+    "workspace_mcp": "Same repository, branch, HEAD and zero visible changes at start",
+    "github": "project/EPISODE_NUMBERING.md lines 1-18 at explicit HEAD; no remote SRT substitution"
+  },
+  "next_source_paths": [
+    "sources/The Wastes S1E115. The Forest for The Trees.parakeet.processed.srt",
+    "sources/The Wastes S1E115. The Forest for The Trees.qwen-q8.canary-ctc.nemotron.srt"
+  ]
+}

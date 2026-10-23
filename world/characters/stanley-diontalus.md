@@ -1,6 +1,12 @@
 # Stanley Billings and Diontalus
 
-**Portrayed by:** Jon. **Identity model:** Two distinctly acting personalities/agents who **share Stanley's body**, with shifting control; not interchangeable aliases for one intention. **Spelling:** **Diontalus** is the creator- and owner-accepted canonical display ([D-026](../../project/DECISIONS.md)). `Dion Talus`, `Deontalus`, `Diantalus`, `Diontalis` are searchable source spellings, not equal official names. **Spoilers:** main campaign through E111 and separate Q&A.
+**Portrayed by:** Jon. **Identity model:** Two distinctly acting personalities/agents who **share Stanley's body**, with shifting control; not interchangeable aliases for one intention. **Spelling:** **Diontalus** is the creator- and owner-accepted canonical display ([D-026](../../project/DECISIONS.md)). `Dion Talus`, `Deontalus`, `Diantalus`, `Diontalis` are searchable source spellings, not equal official names. **Spoilers:** main campaign through E114 and separate Q&A.
+
+## E114 — boarding defense and a rescue with limits
+
+In [E114](../../episodes/E114.md), **Stanley** wins bridge access with **Enthralling Performance** after Vorel's failed persuasion. The crew observes an explosion near the Principle's city, but **its cause and casualty estimates remain unverified**. During undead boarding Stanley **heals Bok Bok for eight hit points**, restoring responsiveness without replacing his missing hand, and fights with **Diplomacy, Corpse Slayer and Booming Blade**. He sends Vorel a fast-rest pill by Mage Hand, **which Vorel refuses**. **Polymorph on Fluffy fails**, but **heated Diplomacy kills the monster before commanded Vorel enters its mouth**.
+
+Stanley **secures his arm and Telekinetically pulls Vorel clear** before the ship tears away. An elf collides with him during decompression, **breaking concentration and defeating his attempt to rescue her**; further elves are swept out. He then **uses a thrown fire-retardant canister to seal a hull breach with foam**, helping restore pressure. **The ship escapes but remains en route to Elhandar.** Nash's private confession of respect and Angelashi's medical disclosures are not automatically Stanley's knowledge. No new Diontalus takeover is established here. [Comparison](../../reports/E114_ASR_COMPARISON_2026-10-23.md), **ASR-provisional**.
 
 ## BONUS-2020-07 — retrospective skill and unrealized artifact
 

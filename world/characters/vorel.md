@@ -1,6 +1,12 @@
 # Vorel
 
-**Longer written name:** **Vorel Rasvim Kurik** in the fan wiki, not independently confirmed as a full name from Arc One spoken dialogue. **Portrayed by:** Kyle. **Identity:** Lizardfolk warrior. **Arc Two status:** Alive; protector of Bok Bok; bearing the sentient **Eye of Groxl**. **Spoilers:** narrative coverage through E111; the title register separately includes later seasons and the final Wastes roundup. Retrospective bonus remarks remain separate from played events.
+**Longer written name:** **Vorel Rasvim Kurik** in the fan wiki, not independently confirmed as a full name from Arc One spoken dialogue. **Portrayed by:** Kyle. **Identity:** Lizardfolk warrior. **Arc Two status:** Alive; protector of Bok Bok; bearing the sentient **Eye of Groxl**. **Spoilers:** narrative coverage through E114; the title register separately includes later seasons and the final Wastes roundup. Retrospective bonus remarks remain separate from played events.
+
+## E114 — holding the boarding tube
+
+In [E114](../../episodes/E114.md), Vorel **still holds Squirts's ashes** and hopes the elves might revive her; **no resurrection occurs**. He repeats the established **Heroes of the Wastes** group style without a new office or distinct epithet. **Stanley heals Bok Bok conscious**, and Vorel gives the goblin a fire-retardant canister and orders him to protect the medical bay. Vorel **refuses Stanley's offered fast-rest pill**. He rages and fights **Fluffy** and undead pirates with a fiery sword/flame bursts; a proposed move is **rewound because he is grappled**, not completed alongside later attacks. Fluffy eventually **Commands him toward its mouth**, but **Stanley's heated Diplomacy kills it before entry**.
+
+Vorel **grapples the giant skeleton and pushes it back into the boarding tube**. After **Cloudkill** comes down the passage, Stanley **Telekinetically pulls him to safety**. Vorel holds a handhold as the ship breaks away, sending the giant into space. **He survives aboard the ship still bound for Elhandar**, Squirts unrevived and injured Bok Bok alive; no ashes transfer or use is depicted. [ASR report](../../reports/E114_ASR_COMPARISON_2026-10-23.md).
 
 ## E111 — Bok Bok saved, Squirts lost, the general subdued
 
@@ -29,6 +35,8 @@ In the [July-publication 2020 cast Q&A](../../episodes/BONUS-2020-07.md) (~30–
 **Evidence:** [E000](../../episodes/E000.md) · [E006](../../episodes/E006.md) · [E015](../../episodes/E015.md) · [E016](../../episodes/E016.md) · [E023](../../episodes/E023.md) · [E028](../../episodes/E028.md) · [E034](../../episodes/E034.md) · [E037](../../episodes/E037.md) · [E047](../../episodes/E047.md) · [E049](../../episodes/E049.md) · [E050](../../episodes/E050.md) · [E051](../../episodes/E051.md) · [E052](../../episodes/E052.md) · [E053](../../episodes/E053.md) · [E054](../../episodes/E054.md) · [Bok Bok](bok-bok.md) · [Q&A](../../episodes/BONUS-2019-03.md) · [June bonus](../../episodes/BONUS-2019-06.md).
 
 ## Titles and epithets — source-indexed register
+
+**E114 register check:** Full parallel-export reading found repeat **Heroes of the Wastes** group claims (~00:10 and ~00:35), with **no distinct added title or changed formal standing located**. Existing earliest-use rows remain unchanged. [E114](../../episodes/E114.md), **ASR-provisional**.
 
 Vorel increasingly **awards himself titles**. Record the exact phrase and first attributable spoken use when reviewing each episode. **Self-proclaimed** is not synonymous with **formally awarded, recognized by a clan, or used by Bok Bok or another narrator**. The processed SRT is not audio-verified; **the following is a starting register, not an exhaustive or exact-wording transcript**.
 

@@ -1,6 +1,6 @@
 # Nash Maggard — spellcasting phrases and rhymes
 
-**Character:** [Nash Maggard](nash-maggard.md), portrayed by **Scott**. **Continuity:** The Wastes. **Spoilers:** Selected Season 1 scenes through **E111**, followed by a separately marked section of prior later-season seeds. **Status:** Expanded 2026-10-23; **ASR-provisional, not audio-verified or an exhaustive collection**. **Current backfill ceiling: S1E111.**
+**Character:** [Nash Maggard](nash-maggard.md), portrayed by **Scott**. **Continuity:** The Wastes. **Spoilers:** Selected Season 1 magic through **E111**, plus separately classified **E114 non-casting poems**, followed by a marked section of prior later-season seeds. **Status:** Expanded 2026-10-23; **ASR-provisional, not audio-verified or an exhaustive collection**. **Current backfill ceiling: S1E111.**
 
 Nash improvises strange phrases, rhymes and sometimes unfinished verses around his magic. This page collects the wording separately from his character history, following the provenance practice of [Vorel's title register](vorel.md#titles-and-epithets--source-indexed-register). In **E046 ~02:52:57–02:53:10**, Beau awards Nash inspiration for the effort he puts into his magical words ([Parakeet][046-p], cues 2797–2801; [Qwen][046-q], cues 4622–4629). That recognizes an existing habit; it does **not** establish E046 as its beginning.
 
@@ -56,6 +56,15 @@ All entries below are **machine-transcript evidence only**. Both exports were in
 | **NSP-040** · [S1E110](../../episodes/E110.md) ~02:34:06–02:34:32 | `i could use a lot of magic but in this case i'm throwing a chromatic orb in your fing face` | **Chromatic Orb: acid**, against the partially covered foe. The table comments on the interrupted magic/chromatic rhyme and the case/face ending. | [P][110-p] 2605–2608; [Q][110-q] 4431–4437. Q reads `effing face` for P `fing face`. Preserve the interruption by the full spell name rather than shorten it to improve the verse. |
 | **NSP-015** · [S1E111](../../episodes/E111.md) ~02:24:58–02:25:05 | P: `frog hair of a cow look out world i'm a dragon now`; Q: `eye of frog, hair of a cow. Look out, world! I'm a dragon now` | **Black-dragon transformation** during General Carthax battle. Nash **actually transforms**, but the DM **allows an immediate inspiration-spending reversal** later, rather than treating extended dragon form as lasting. | [P][111-p] 2225; [Q][111-q] 3591–3593. Opening ingredient **“frog hair” / “eye of frog”** differs and needs audio; no wording repair or assumption of material components. |
 
+## Non-casting poems — E114 labor scene
+
+These two **Scott/Nash performances** in [S1E114](../../episodes/E114.md) are captured for provenance but **excluded from the 40 magic/seed entries**. Both accompany **Performance checks to comfort Angelashi in labor**, not a spell, item activation or baby naming. Their inclusion does not move the separate **E000–E111 backfill ceiling**. All wording is **ASR-provisional**; [comparison](../../reports/E114_ASR_COMPARISON_2026-10-23.md).
+
+| Recording / clock | Source-supported wording | Attribution / evidence |
+| --- | --- | --- |
+| **S1E114 ~01:55:15–01:55:38** | `there once was a vagina named Larry who was kind of shriveled up and hairy but when the time came it wasn't super lame and the baby came out and we named it Carrie` | **Scott/Nash**, non-casting labor limerick. [P][114-p] 1785–1789; [Q][114-q] 2990–2997. P preamble `there once was a hell / lettuce` versus Q `There once was a vagina. Whatever the` then speaker 3 `hell that is.` Preserve interrupted opening and unresolved speaker boundary; **Larry/Carrie are poem names, not children's assigned names**. Performance 14 makes Angelashi laugh. |
+| **S1E114 ~02:08:15–02:08:32** | `just because you think it's a toot it will actually be a boot` | **Scott/Nash**, announces another poem, then Performance 17 helps Angelashi. [P][114-p] 1992–1995; [Q][114-q] 3337–3343. Main line agrees, pending audio; nearby `Nash just yells ... I want to inspire` is a separate participant's joke, not a spell or a supplied rhyme ending. |
+
 ## Later-season phrases — earlier seeds beyond the E111 backfill ceiling
 
 These three entries were added in the initial seed collection **before the E111 ceiling was requested**. They are retained as prior work; this backfill did not revisit or extend their source research. They do **not** extend the main character page's researched narrative horizon or establish earlier use of the wording.
@@ -77,7 +86,7 @@ These are related evidence, separate from phrases accompanying performed magic.
 
 ## Coverage and next backfill
 
-The register now contains **40 entries**: **37 at or before S1E111**, including a named song performance and a coached NPC line, and **three unchanged later-season seeds** from the initial collection. The E105 proposal and retrospective roundup discussion remain separately classified. **25 entries were added by the [E000–E111 backfill search](../../reports/NASH_PHRASE_BACKFILL_E000_E111_2026-10-23.md)**, with exact source inventory and hashes in its [JSON evidence](../../reports/NASH_PHRASE_BACKFILL_E000_E111_2026-10-23.json). The concurrently added **NSP-015 / E111** entry and all earlier IDs were preserved.
+The register now contains **40 entries**: **37 at or before S1E111**, including a named song performance and a coached NPC line, and **three unchanged later-season seeds** from the initial collection. The E105 proposal, **two E114 non-casting labor poems**, and retrospective roundup discussion remain separately classified. **25 entries were added by the [E000–E111 backfill search](../../reports/NASH_PHRASE_BACKFILL_E000_E111_2026-10-23.md)**, with exact source inventory and hashes in its [JSON evidence](../../reports/NASH_PHRASE_BACKFILL_E000_E111_2026-10-23.json). The concurrently added **NSP-015 / E111** entry and all earlier IDs were preserved.
 
 The pass began at **E000**, searched forward through **E111**, and included **E013.5's standard and alternate copies**: **228 Parakeet/Qwen exports representing 113 corrected archive IDs**, with duplicate copies counted as exports, not independent recordings. **E000's introduction, E013.5's recap/absent-Nash scene, the E043 holiday one-shot, and the E107–E109 Dunebreaker prequel** were classified separately. Other characters' rhymes do not become Nash's entries. Candidate discovery used both exports, followed by contextual passage comparisons; it was **not full-recording reading of every episode**. No absence or guaranteed earliest-use claims are made. The original seed search used a wider archive scope; the new pass used only sources at or before **S1E111**.
 
@@ -153,3 +162,5 @@ Listening priorities include **NSP-020/021** (rocks/wall wording), **NSP-023/033
 [101-q]: ../../sources/The%20Wastes%20S1E101.%20A%20New%20Hope.qwen-q8.canary-ctc.nemotron.srt
 [104-p]: ../../sources/The%20Wastes%20S1E104.%20I%20Blew%20A%20Dragon%20For%20THIS.parakeet.processed.srt
 [104-q]: ../../sources/The%20Wastes%20S1E104.%20I%20Blew%20A%20Dragon%20For%20THIS.qwen-q8.canary-ctc.nemotron.srt
+[114-p]: ../../sources/The%20Wastes%20S1E114.%20I%20hope%20that%27s%20a%20baby.parakeet.processed.srt
+[114-q]: ../../sources/The%20Wastes%20S1E114.%20I%20hope%20that%27s%20a%20baby.qwen-q8.canary-ctc.nemotron.srt
