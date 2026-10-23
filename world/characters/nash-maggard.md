@@ -1,6 +1,6 @@
 # Nash Maggard
 
-**Portrayed by:** Scott. **Identity:** Wasteland traveler and spellcaster, with an implanted dragon-metal heart. **Arc One status:** Alive; physically changed, allied with newly crowned Hope. **Spoilers:** Main Wastes through E099; retrospective Q&A comments kept separate from direct play. **Evidence:** Processed SRTs/dossiers, not independently audio-verified.
+**Portrayed by:** Scott. **Identity:** Wasteland traveler and spellcaster, with an implanted dragon-metal heart. **Arc One status:** Alive; physically changed, allied with newly crowned Hope. **Spoilers:** Main Wastes through E101; retrospective Q&A comments kept separate from direct play. **Evidence:** Processed SRTs/dossiers, not independently audio-verified.
 
 ## Character and history
 
@@ -233,6 +233,12 @@ Unpredictable magic-table effects now occur around him. Nash is **made utterly c
 In [E100](../../episodes/E100.md), **arrows and other damage bring Nash below his dragon-form HP threshold**; his black-dragon transformation **ends, physically separating the headless demon torso from his own body**. **The husk later collapses/disintegrates**, so he is **not still conjoined at this cutoff**. Beau temporarily grants poison immunity **while their blood is shared**, but does not state it continues after separation. Nash avoids a fall with his integrated **flying/cooling underwear**, **casts Greater Invisibility**, and uses **Chromatic Orb (cold)** and two damaging **Fireballs** against surviving fliers. He later **replaces invisibility's concentration with Haste on Vorel**, allowing the latter extra speed/actions during the escape. Under a later **Mass Suggestion** Nash is required to embrace allies and initially clings to Vorel; the compulsion ends once the action is fulfilled.
 
 Nash **rejects casting Teleportation Circle** as impossible to use in a few seconds while airborne and lacking an immediate setup. Instead he casts **Thunder Step, carrying Hope to ground level near White Tower**, injuring some nearby allies/enemies through the burst despite a Careful Spell adjustment. He remains **alive and in humanoid form** at E100 cutoff; E099's lake-picture death conviction and sudden enormous moon have **not been erased or explained**. Vorel, not Nash, opens the Fist and receives its dark whispers. [E100 comparison](../../reports/E100_ASR_COMPARISON_2026-10-23.md).
+
+## E101 — Hope gone, closed chest and the remaining three
+
+After Hope's broom lowers **Stanley and Alentris**, Stanley makes a natural-20 death save, revives Alentris and takes her inside. In [E101](../../episodes/E101.md) Nash helps defend White Tower, keeps Vorel's **Haste** going, and **runs out to pour an ordinary blacksmith Potion of Healing into bleeding Vorel**, consuming that potion. He sees Hope's violent **Hand of the Voice** transformation and demon reanimation, but **does not hear her private conversations with her hooded patron**. Hope decides **not to take him, Stanley or Vorel** with her and leaves through a closing portal with Spatulo. Nash describes the departure as **abandonment**, not a celebratory win, and fears that his family and child on Earth will be beyond reach by the time he gets home; these are **fears, not verified events on Earth**.
+
+In the opening of [Arc Four](../../narrative/ARC_FOUR.md), Nash helps **re-seal the ornate Zorander's Fist gauntlet inside its levitating chest**, making **Arcana 18** to work out the magical latch. He **removes the Thrun medallion/key from its socket, returns it to Stanley** and directs the case inside White Tower, where the surviving three regroup for a long rest. The **Hand of the Voice** is **no longer inside the glove**, being attached to Hope, so neither the chest's sealing nor remaining power implies the mission to retrieve the Hand succeeded. Nash's magically introduced **large moon and lit city remain** in the sky; three airships also remain overhead. **No Earth journey, child reunion, celestial delivery or Tobacho exchange** occurs. [E101 ASR report](../../reports/E101_ASR_COMPARISON_2026-10-23.md).
 
 ## E096 — actually cured, helps Walnut save the tower, pursues demon compendium
 
