@@ -1,6 +1,6 @@
 # Vorel
 
-**Longer written name:** **Vorel Rasvim Kurik** in the fan wiki, not independently confirmed as a full name from Arc One spoken dialogue. **Portrayed by:** Kyle. **Identity:** Lizardfolk warrior. **Arc One status:** Alive; protector of Bok Bok; bearing the sentient **Eye of Groxl**. **Spoilers:** through E081; retrospective bonus remarks kept separate from played events.
+**Longer written name:** **Vorel Rasvim Kurik** in the fan wiki, not independently confirmed as a full name from Arc One spoken dialogue. **Portrayed by:** Kyle. **Identity:** Lizardfolk warrior. **Arc One status:** Alive; protector of Bok Bok; bearing the sentient **Eye of Groxl**. **Spoilers:** played events through E095; retrospective bonus remarks kept separate from played events.
 
 ## Character and development
 
