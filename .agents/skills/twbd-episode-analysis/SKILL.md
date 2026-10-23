@@ -84,6 +84,8 @@ Create/update these layers **in priority order**, using existing adjacent episod
 6. Affected `world/characters/*.md`, `world/places/*.md` and relevant artifact/thematic pages; edit only those whose evidence or current status changes.
 7. `world/CHARACTERS.md`, `world/PLACES.md`, `world/README.md`, `narrative/README.md`, root `README.md`, or architecture document: update **only outdated navigation, spoiler horizon or summaries**, not every file automatically.
 
+During each Wastes episode review, **record Vorel's titles and epithets as they are named** in [his existing source-indexed register](../../../world/characters/vorel.md). Add each distinct title or wording variant with its earliest known episode, approximate timestamp/cue, speaker and source confidence. Preserve the wording supported by the source; mark ASR-only or uncertain wording as provisional. Distinguish self-proclaimed titles, companion usage, granted titles and formal recognition. Record repeat uses when wording or status changes, and do not backdate titles from later introductions. Follow the [editorial guide's title policy](../../../project/EDITORIAL_GUIDE.md#named-equipment-and-self-bestowed-titles-2026-10-22).
+
 ### Route by continuity and episode type
 
 Use existing namespace conventions first. The locations below for new campaign/one-shot coverage are **fallback conventions, not claims that directories already exist**. If none exists, create only the needed dossier directory and a small discoverable index using an available write method; do not build empty world/narrative scaffolds. Retain exact season/episode identity and prevent filename collisions. Existing paths and owner IDs take precedence; do not migrate prior dossiers just to match a fallback.
