@@ -12,6 +12,29 @@ When a review is completed, record **episode + absolute recording time/cue IDs**
 
 ## 1. Pilot ASR transcription and diarization
 
+**2026-10-23 comparison backfill:** The
+[coverage register](../reports/ASR_COMPARISON_COVERAGE_2026-10-23.md) distinguishes
+26 dedicated reports, five prior pilot/intake comparisons, 80 ready pairs and
+eight analyzed recordings missing Qwen exports (E076–E083). E002–E005 now have
+full-export measurements and selected parallel-text review; all remain
+**ASR-provisional, not audio-verified**. Continue report backfill with **Wastes
+S1E006** using its existing processed Parakeet/Qwen pair. This is a separate
+comparison backlog, not a change to the next unanalyzed-episode research pointer.
+
+Bounded listening tasks from the new reports:
+
+| Recording / clock | What to verify | Evidence |
+| --- | --- | --- |
+| Wastes S1E002 00:56:30–00:57:10; 02:35:20–02:36:50 | Qwen-only pump-negotiation interjection; overlapping reactions during the Hillmaster fall. Keep the death scene separate from E003 recap. | [E002 comparison](../reports/E002_ASR_COMPARISON_2026-10-23.md) |
+| Wastes S1E003 02:24:05–02:25:00; 02:44:15–02:45:40; 03:06:35–03:07:25 | Rocket-pack handoff sentence; alphanumeric robot designation versus spelled number words; repeated tube description. | [E003 comparison](../reports/E003_ASR_COMPARISON_2026-10-23.md) |
+| Wastes S1E004 00:44:15–00:45:50; 01:51:45–01:52:30; 02:53:20–end | Ruin name and historical attribution; table advice before Cure Wounds; trailing dialogue after network credits. | [E004 comparison](../reports/E004_ASR_COMPARISON_2026-10-23.md) |
+| Wastes S1E005 00:23:15–00:23:45; 02:29:00–02:29:50; 02:47:00–end | Qwen-only perseverance argument; trader name Boxtow/Boksto; sign-off present at different times in both exports. | [E005 comparison](../reports/E005_ASR_COMPARISON_2026-10-23.md) |
+
+Also check the repeated sound-like sequences at E002 01:27:47, E003 01:18:20
+and E005 00:52:10, plus agreed controls. Candidate text and cue IDs are retained
+in the [complete evidence](../reports/ASR_BACKFILL_2026-10-23.json); an empty
+aligned side does not prove absent speech. No task above has been audio-closed.
+
 **2026-10-22 batch follow-up:** Listen to the [first Qwen Q8 + Canary + Nemotron
 intake examples](../reports/QWEN_CANARY_INTAKE_2026-10-22.md), especially March
 2019 bonus **00:40:29–00:40:33 / 02:09:59–02:10:03**, April bonus

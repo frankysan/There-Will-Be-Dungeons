@@ -1,5 +1,40 @@
 # Initial model tests (supplied by archive owner)
 
+## 2026-10-23: comparison backfill for analyzed Wastes S1E002–E005
+
+The [coverage register](../reports/ASR_COMPARISON_COVERAGE_2026-10-23.md) inventories
+119 analyzed dossiers: 26 have dedicated reports after this pass, five have
+earlier pilot/intake comparisons, 80 are ready with existing export pairs, and
+eight (E076–E083) lack an independent Qwen export in `sources/`.
+
+This bounded pass compares complete processed Parakeet and Qwen Q8 / Canary CTC /
+Nemotron-labelled exports for four played sessions. The labels come from filenames;
+exact builds, settings, inference runtime, hardware and original audio hashes are
+unconfirmed. No recognizer was run and no audio was listened to.
+
+| Recording | Exact word edits | Parakeet denominator | Disagreement | Report |
+| --- | ---: | ---: | ---: | --- |
+| Wastes S1E002 | 2,897 | 27,096 | 10.69% | [Spiders](../reports/E002_ASR_COMPARISON_2026-10-23.md) |
+| Wastes S1E003 | 3,266 | 32,144 | 10.16% | [Soft Head Returns](../reports/E003_ASR_COMPARISON_2026-10-23.md) |
+| Wastes S1E004 | 2,604 | 26,934 | 9.67% | [The Oil Demon](../reports/E004_ASR_COMPARISON_2026-10-23.md) |
+| Wastes S1E005 | 2,855 | 27,354 | 10.44% | [Goblincide](../reports/E005_ASR_COMPARISON_2026-10-23.md) |
+
+These are exact ordered word-level Levenshtein distances relative to processed
+Parakeet, not audio-grounded WER or model rankings. Normalization removes speaker
+decorations, lowercases, deletes straight/curly apostrophes, replaces everything
+except Unicode letters/digits with whitespace, then splits. Every cue through
+each outro is included. Separate time-aware candidate counts are 2,244 / 2,627 /
+2,063 / 2,119 with zero fallback blocks; they use a different lexical normalization
+and are not the global metric. The E005 sign-off is present in both exports but
+shifted in time, demonstrating why unilateral alignment is not proven omission.
+
+The [reproduction script](../experiments/asr_backfill_2026_10_23.py) writes
+[complete candidate evidence and SHA-256](../reports/ASR_BACKFILL_2026-10-23.json).
+Its exact bit-vector metric is checked against independent dynamic programming
+on exhaustive small and seeded longer/repeated sequences. All eight input hashes
+were unchanged after computation. Reports contain selected contextual text checks;
+they do not claim full manual cue review or verified wording. Next backfill: E006.
+
 ## 2026-10-22: first Qwen Q8 + Canary CTC + Nemotron batch intake
 
 [Reproducible intake report](../reports/QWEN_CANARY_INTAKE_2026-10-22.md) and
