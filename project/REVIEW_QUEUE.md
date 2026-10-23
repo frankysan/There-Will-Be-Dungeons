@@ -266,6 +266,6 @@ For future research, start at the **highest-priority applicable row**, open the 
 - [ ] Revise a narrow **episode dossier + canonical profile + current ledger topic row** for each corroborated correction.
 - [ ] Preserve **raw source SRT files** and both generations of archived research; never silently overwrite recognition.
 - [ ] Validate Markdown links, headings and tables; run applicable source/document checks after edits.
-- [ ] Research **E093 onward** in separate bounded batches; **E082–E091 are provisionally documented but still need listening**. E084 has **Parakeet and Qwen inter-ASR disagreement documented**, not audio-verified. All indexed 2019 bonuses and the **January 2020 bonus dual-export comparison** likewise remain ASR-based. Verify high-impact disagreement candidates before claiming canonical utterances.
+- [ ] Research **E093 onward** in separate bounded batches; **E082–E092 are provisionally documented but still need listening**. E084 has **Parakeet and Qwen inter-ASR disagreement documented**, not audio-verified. All indexed 2019 bonuses and the **January 2020 bonus dual-export comparison** likewise remain ASR-based. Verify high-impact disagreement candidates before claiming canonical utterances.
 
 **Consolidation is not verification.** The active questions are intentionally shorter than the archives they replace.
