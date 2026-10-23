@@ -1,0 +1,3835 @@
+{
+  "date": "2026-10-23",
+  "episode": "The Wastes S1E103",
+  "audio_verified": false,
+  "new_asr_execution": false,
+  "model_metadata": "Filename labels only; builds, settings, runtime and hardware unknown.",
+  "method": "Chronological cue text; strip speaker labels; lowercase; delete apostrophes; split on non-Unicode-alphanumeric characters; exact ordered unit-cost word Levenshtein. Not audio WER.",
+  "distance_validation": "200 seeded random sequence pairs checked against scalar dynamic programming.",
+  "sources": {
+    "parakeet": {
+      "file": "The Wastes S1E103. When in doubt, burn it.parakeet.processed.srt",
+      "bytes": 255445,
+      "sha256": "40897b43240bd46820a3a20f82101e07d710a620ae85d3cbf592c541b9a91dcf",
+      "cues": 2639,
+      "words": 23243,
+      "first_cue": "00:00:04",
+      "last_cue_end": "02:44:12",
+      "nonpositive_duration_cues": 0,
+      "nonpositive_cue_ids": [],
+      "overlap_pairs": 0,
+      "overlap_second_cue_ids": [],
+      "speakers": [
+        "speaker 0",
+        "speaker 1",
+        "speaker 2",
+        "speaker 3",
+        "speaker 4",
+        "speaker 5",
+        "speaker 6",
+        "speaker 7"
+      ],
+      "path": "sources/The Wastes S1E103. When in doubt, burn it.parakeet.processed.srt",
+      "normalized_tokens": 23243,
+      "first_start_ms": 4560,
+      "last_end_ms": 9852950,
+      "opening_text": "no m h m hello everybody welcome to there will be dungeons at therewillbedungeons com it is Sunday may tenth twenty twenty and we're playing our campaign we're about to enter some really weird territory here folks so sit down and sip on",
+      "closing_text": "for John for Beau Kristen for Kyle and for baby. chunks today we'll see you next time this show is part of the frog pants network here. get more at frog pants dot go. awesome show today you guys."
+    },
+    "qwen": {
+      "file": "The Wastes S1E103. When in doubt, burn it.qwen-q8.canary-ctc.nemotron.srt",
+      "bytes": 359001,
+      "sha256": "28fc7f2666c35fe16cf281bbbad2a98bfbbdf20efb7dc7ea483a80780b1a3e84",
+      "cues": 4551,
+      "words": 23650,
+      "first_cue": "00:00:03",
+      "last_cue_end": "02:44:12",
+      "nonpositive_duration_cues": 0,
+      "nonpositive_cue_ids": [],
+      "overlap_pairs": 0,
+      "overlap_second_cue_ids": [],
+      "speakers": [
+        "speaker 0",
+        "speaker 1",
+        "speaker 2",
+        "speaker 3",
+        "speaker 4",
+        "speaker 5",
+        "speaker 6",
+        "speaker 7"
+      ],
+      "path": "sources/The Wastes S1E103. When in doubt, burn it.qwen-q8.canary-ctc.nemotron.srt",
+      "normalized_tokens": 23672,
+      "first_start_ms": 3360,
+      "last_end_ms": 9852760,
+      "opening_text": "Hello, everybody! Welcome to There Will Be Dungeons at ThereWillBeDungeons. com. It is Sunday, May tenth, twenty twenty, and we're",
+      "closing_text": "We'll see you next time. This show is part of the Frog Pants Network. Yes, get more at frogpants. com. Awesome show today, you guys!"
+    },
+    "ark": {
+      "file": "The Wastes S1E103. When in doubt, burn it.ark-q8.canary-ctc.nemotron.vad-firered.srt",
+      "bytes": 151654,
+      "sha256": "021feeeda81f907e710593252a22651b924ac2cffbde8f8de52d43e93da871f5",
+      "cues": 1526,
+      "words": 13682,
+      "first_cue": "00:00:00",
+      "last_cue_end": "02:44:14",
+      "nonpositive_duration_cues": 0,
+      "nonpositive_cue_ids": [],
+      "overlap_pairs": 11,
+      "overlap_second_cue_ids": [
+        12,
+        15,
+        187,
+        189,
+        190,
+        221,
+        232,
+        256,
+        259,
+        284,
+        1401
+      ],
+      "speakers": [
+        "speaker 2"
+      ],
+      "path": "sources/The Wastes S1E103. When in doubt, burn it.ark-q8.canary-ctc.nemotron.vad-firered.srt",
+      "normalized_tokens": 14738,
+      "first_start_ms": 750,
+      "last_end_ms": 9854730,
+      "opening_text": "Hello everybody welcome to there will be dungeons at there will be dungeons dot com ah it is sunday may tenth twenty twenty and we're playing our campaign, we're about to enter some really weird territory here folks so sit down and sip on a",
+      "closing_text": "there will be dungeons dot com and check out all the details it's all right there and it's super easy to get into and thank you to everyone who does ah already support us.This show is part of the frog band network.Awesome show today you guys."
+    }
+  },
+  "pairs": {
+    "parakeet_qwen": {
+      "edits": 2198,
+      "denominator": 23243,
+      "rate": 0.09456610592436432,
+      "denominator_model": "parakeet",
+      "alignment_statistics": {
+        "dp_cells": 12575,
+        "max_dp_cells": 306,
+        "anchors": 6732,
+        "fallback_blocks": 0
+      },
+      "candidate_groups": 1805
+    },
+    "parakeet_ark": {
+      "edits": 10279,
+      "denominator": 23243,
+      "rate": 0.44224067461171107,
+      "denominator_model": "parakeet",
+      "alignment_statistics": {
+        "dp_cells": 995177,
+        "max_dp_cells": 22836,
+        "anchors": 300,
+        "fallback_blocks": 18
+      },
+      "candidate_groups": 4831
+    },
+    "qwen_ark": {
+      "edits": 10253,
+      "denominator": 23672,
+      "rate": 0.43312774586008784,
+      "denominator_model": "qwen",
+      "alignment_statistics": {
+        "dp_cells": 1006838,
+        "max_dp_cells": 23232,
+        "anchors": 288,
+        "fallback_blocks": 21
+      },
+      "candidate_groups": 4888
+    }
+  },
+  "windows": [
+    {
+      "start_ms": 0,
+      "end_ms": 600000,
+      "token_counts": {
+        "parakeet": 1261,
+        "qwen": 1244,
+        "ark": 873
+      }
+    },
+    {
+      "start_ms": 600000,
+      "end_ms": 1200000,
+      "token_counts": {
+        "parakeet": 1473,
+        "qwen": 1498,
+        "ark": 895
+      }
+    },
+    {
+      "start_ms": 1200000,
+      "end_ms": 1800000,
+      "token_counts": {
+        "parakeet": 1446,
+        "qwen": 1480,
+        "ark": 918
+      }
+    },
+    {
+      "start_ms": 1800000,
+      "end_ms": 2400000,
+      "token_counts": {
+        "parakeet": 1392,
+        "qwen": 1406,
+        "ark": 883
+      }
+    },
+    {
+      "start_ms": 2400000,
+      "end_ms": 3000000,
+      "token_counts": {
+        "parakeet": 1453,
+        "qwen": 1482,
+        "ark": 896
+      }
+    },
+    {
+      "start_ms": 3000000,
+      "end_ms": 3600000,
+      "token_counts": {
+        "parakeet": 1539,
+        "qwen": 1624,
+        "ark": 912
+      }
+    },
+    {
+      "start_ms": 3600000,
+      "end_ms": 4200000,
+      "token_counts": {
+        "parakeet": 1493,
+        "qwen": 1521,
+        "ark": 877
+      }
+    },
+    {
+      "start_ms": 4200000,
+      "end_ms": 4800000,
+      "token_counts": {
+        "parakeet": 1606,
+        "qwen": 1646,
+        "ark": 906
+      }
+    },
+    {
+      "start_ms": 4800000,
+      "end_ms": 5400000,
+      "token_counts": {
+        "parakeet": 1563,
+        "qwen": 1622,
+        "ark": 892
+      }
+    },
+    {
+      "start_ms": 5400000,
+      "end_ms": 6000000,
+      "token_counts": {
+        "parakeet": 1381,
+        "qwen": 1406,
+        "ark": 910
+      }
+    },
+    {
+      "start_ms": 6000000,
+      "end_ms": 6600000,
+      "token_counts": {
+        "parakeet": 1132,
+        "qwen": 1170,
+        "ark": 920
+      }
+    },
+    {
+      "start_ms": 6600000,
+      "end_ms": 7200000,
+      "token_counts": {
+        "parakeet": 1506,
+        "qwen": 1523,
+        "ark": 887
+      }
+    },
+    {
+      "start_ms": 7200000,
+      "end_ms": 7800000,
+      "token_counts": {
+        "parakeet": 1154,
+        "qwen": 1152,
+        "ark": 879
+      }
+    },
+    {
+      "start_ms": 7800000,
+      "end_ms": 8400000,
+      "token_counts": {
+        "parakeet": 1250,
+        "qwen": 1264,
+        "ark": 897
+      }
+    },
+    {
+      "start_ms": 8400000,
+      "end_ms": 9000000,
+      "token_counts": {
+        "parakeet": 1385,
+        "qwen": 1391,
+        "ark": 899
+      }
+    },
+    {
+      "start_ms": 9000000,
+      "end_ms": 9600000,
+      "token_counts": {
+        "parakeet": 1579,
+        "qwen": 1592,
+        "ark": 919
+      }
+    },
+    {
+      "start_ms": 9600000,
+      "end_ms": 10200000,
+      "token_counts": {
+        "parakeet": 630,
+        "qwen": 651,
+        "ark": 375
+      }
+    }
+  ],
+  "available_audio": {
+    "path": "local/The Wastes S1E103. When in doubt, burn it.mp3",
+    "bytes": 158129353,
+    "sha256": "2ed3f72afcf6e3df3e3e850d8a97dd6706a6db49928488941f4b1022aefe4b0d",
+    "association": "Matching archive ID/title only; export input hashes unavailable; not listened to."
+  },
+  "selected_passages": {
+    "opening": {
+      "parakeet": [
+        {
+          "cue_id": 1,
+          "start_ms": 4560,
+          "end_ms": 12560,
+          "speaker": "speaker 0",
+          "text": "no m h m hello everybody welcome to there will be"
+        },
+        {
+          "cue_id": 2,
+          "start_ms": 12640,
+          "end_ms": 16400,
+          "speaker": "speaker 0",
+          "text": "dungeons at therewillbedungeons com it is Sunday"
+        },
+        {
+          "cue_id": 3,
+          "start_ms": 16401,
+          "end_ms": 18960,
+          "speaker": "speaker 0",
+          "text": "may tenth twenty twenty and we're playing our"
+        },
+        {
+          "cue_id": 4,
+          "start_ms": 18961,
+          "end_ms": 20960,
+          "speaker": "speaker 0",
+          "text": "campaign we're about to enter some really weird"
+        },
+        {
+          "cue_id": 5,
+          "start_ms": 20961,
+          "end_ms": 23863,
+          "speaker": "speaker 0",
+          "text": "territory here folks so sit down and sip on"
+        },
+        {
+          "cue_id": 6,
+          "start_ms": 23864,
+          "end_ms": 26960,
+          "speaker": "speaker 0",
+          "text": "a wonderful blended tea from our friends at"
+        },
+        {
+          "cue_id": 7,
+          "start_ms": 27110,
+          "end_ms": 29440,
+          "speaker": "speaker 0",
+          "text": "phoenixpearltea com where if right now you use"
+        },
+        {
+          "cue_id": 8,
+          "start_ms": 29540,
+          "end_ms": 33040,
+          "speaker": "speaker 0",
+          "text": "the code twbd one hundred you will save twenty"
+        },
+        {
+          "cue_id": 9,
+          "start_ms": 33041,
+          "end_ms": 36400,
+          "speaker": "speaker 0",
+          "text": "percent on your entire order of rad teas at"
+        },
+        {
+          "cue_id": 10,
+          "start_ms": 36474,
+          "end_ms": 38880,
+          "speaker": "speaker 0",
+          "text": "phoenixpearltea com there's also details at our"
+        },
+        {
+          "cue_id": 11,
+          "start_ms": 38881,
+          "end_ms": 42320,
+          "speaker": "speaker 0",
+          "text": "website which is therewillbedungeons com so go"
+        },
+        {
+          "cue_id": 12,
+          "start_ms": 42321,
+          "end_ms": 43760,
+          "speaker": "speaker 0",
+          "text": "check that out because you're gonna want that and"
+        },
+        {
+          "cue_id": 13,
+          "start_ms": 43761,
+          "end_ms": 45920,
+          "speaker": "speaker 0",
+          "text": "you're gonna want to be sitting down i'm Scott"
+        },
+        {
+          "cue_id": 14,
+          "start_ms": 45921,
+          "end_ms": 48000,
+          "speaker": "speaker 0",
+          "text": "Johnson with Beau Schwartz John Jagger Kristin"
+        },
+        {
+          "cue_id": 15,
+          "start_ms": 48080,
+          "end_ms": 51360,
+          "speaker": "speaker 0",
+          "text": "Ashton and of course Kyle Ferguson and we're"
+        },
+        {
+          "cue_id": 16,
+          "start_ms": 51361,
+          "end_ms": 54560,
+          "speaker": "speaker 0",
+          "text": "ready to jump right in before we do a look back"
+        },
+        {
+          "cue_id": 17,
+          "start_ms": 54660,
+          "end_ms": 57520,
+          "speaker": "speaker 0",
+          "text": "at last week on there will be dungeons with Kristin."
+        },
+        {
+          "cue_id": 18,
+          "start_ms": 59045,
+          "end_ms": 62080,
+          "speaker": "speaker 1",
+          "text": "last time on there will be dungeons paladins"
+        },
+        {
+          "cue_id": 19,
+          "start_ms": 62081,
+          "end_ms": 65920,
+          "speaker": "speaker 1",
+          "text": "pestered as the posse pondered a decade of duty"
+        },
+        {
+          "cue_id": 20,
+          "start_ms": 66069,
+          "end_ms": 68320,
+          "speaker": "speaker 1",
+          "text": "destroyed but the paladin purported to have"
+        },
+        {
+          "cue_id": 21,
+          "start_ms": 68321,
+          "end_ms": 71040,
+          "speaker": "speaker 1",
+          "text": "planned the play arrived only after the attack"
+        },
+        {
+          "cue_id": 22,
+          "start_ms": 71089,
+          "end_ms": 74240,
+          "speaker": "speaker 1",
+          "text": "and berated the bunch convinced of a case to"
+        },
+        {
+          "cue_id": 23,
+          "start_ms": 74241,
+          "end_ms": 76400,
+          "speaker": "speaker 1",
+          "text": "again conceive their countenance it was time to"
+        },
+        {
+          "cue_id": 24,
+          "start_ms": 76401,
+          "end_ms": 79040,
+          "speaker": "speaker 1",
+          "text": "take the empty trinket to tabacho and adared to"
+        },
+        {
+          "cue_id": 25,
+          "start_ms": 79041,
+          "end_ms": 81440,
+          "speaker": "speaker 1",
+          "text": "deceive the dragon by cleaning clouded clarity"
+        },
+        {
+          "cue_id": 26,
+          "start_ms": 81569,
+          "end_ms": 85680,
+          "speaker": "speaker 1",
+          "text": "before plotting their plan Stanley and elantris concluded their connection she"
+        },
+        {
+          "cue_id": 27,
+          "start_ms": 85720,
+          "end_ms": 88840,
+          "speaker": "speaker 1",
+          "text": "submitted seclusion and safety but he was ready"
+        },
+        {
+          "cue_id": 28,
+          "start_ms": 88841,
+          "end_ms": 91720,
+          "speaker": "speaker 1",
+          "text": "for many more mayhemic mishaps and settling was a"
+        }
+      ],
+      "qwen": [
+        {
+          "cue_id": 1,
+          "start_ms": 3360,
+          "end_ms": 11360,
+          "speaker": "speaker 0",
+          "text": "Hello, everybody!"
+        },
+        {
+          "cue_id": 2,
+          "start_ms": 11520,
+          "end_ms": 13200,
+          "speaker": "speaker 0",
+          "text": "Welcome to There Will Be Dungeons at"
+        },
+        {
+          "cue_id": 3,
+          "start_ms": 13280,
+          "end_ms": 14160,
+          "speaker": "speaker 0",
+          "text": "ThereWillBeDungeons."
+        },
+        {
+          "cue_id": 4,
+          "start_ms": 14480,
+          "end_ms": 14560,
+          "speaker": "speaker 0",
+          "text": "com."
+        },
+        {
+          "cue_id": 5,
+          "start_ms": 15680,
+          "end_ms": 18000,
+          "speaker": "speaker 0",
+          "text": "It is Sunday, May tenth, twenty twenty, and we're"
+        },
+        {
+          "cue_id": 6,
+          "start_ms": 18430,
+          "end_ms": 19440,
+          "speaker": "speaker 0",
+          "text": "playing our campaign."
+        },
+        {
+          "cue_id": 7,
+          "start_ms": 19520,
+          "end_ms": 21360,
+          "speaker": "speaker 0",
+          "text": "We're about to enter some really weird territory"
+        },
+        {
+          "cue_id": 8,
+          "start_ms": 21440,
+          "end_ms": 21840,
+          "speaker": "speaker 0",
+          "text": "here, folks."
+        },
+        {
+          "cue_id": 9,
+          "start_ms": 22000,
+          "end_ms": 24320,
+          "speaker": "speaker 0",
+          "text": "So sit down and sip on a wonderful."
+        },
+        {
+          "cue_id": 10,
+          "start_ms": 25210,
+          "end_ms": 27980,
+          "speaker": "speaker 0",
+          "text": "Blended tea from our friends at PhoenixPearlTea."
+        },
+        {
+          "cue_id": 11,
+          "start_ms": 28140,
+          "end_ms": 28220,
+          "speaker": "speaker 0",
+          "text": "com."
+        },
+        {
+          "cue_id": 12,
+          "start_ms": 28380,
+          "end_ms": 32220,
+          "speaker": "speaker 0",
+          "text": "Where if right now you use the code TWBD100, you"
+        },
+        {
+          "cue_id": 13,
+          "start_ms": 32299,
+          "end_ms": 35260,
+          "speaker": "speaker 0",
+          "text": "will save twenty percent on your entire order of"
+        },
+        {
+          "cue_id": 14,
+          "start_ms": 35405,
+          "end_ms": 37260,
+          "speaker": "speaker 0",
+          "text": "rad teas at PhoenixPearlTea."
+        },
+        {
+          "cue_id": 15,
+          "start_ms": 37420,
+          "end_ms": 37500,
+          "speaker": "speaker 0",
+          "text": "com."
+        },
+        {
+          "cue_id": 16,
+          "start_ms": 37709,
+          "end_ms": 39980,
+          "speaker": "speaker 0",
+          "text": "There's also details at our website, which is"
+        },
+        {
+          "cue_id": 17,
+          "start_ms": 40060,
+          "end_ms": 41100,
+          "speaker": "speaker 0",
+          "text": "thereWillBeDungeons."
+        },
+        {
+          "cue_id": 18,
+          "start_ms": 41420,
+          "end_ms": 41500,
+          "speaker": "speaker 0",
+          "text": "com."
+        },
+        {
+          "cue_id": 19,
+          "start_ms": 42049,
+          "end_ms": 43420,
+          "speaker": "speaker 0",
+          "text": "So go check that out because you're going to want"
+        },
+        {
+          "cue_id": 20,
+          "start_ms": 43500,
+          "end_ms": 43580,
+          "speaker": "speaker 0",
+          "text": "that."
+        },
+        {
+          "cue_id": 21,
+          "start_ms": 43740,
+          "end_ms": 44940,
+          "speaker": "speaker 0",
+          "text": "You're going to want to be sitting down."
+        },
+        {
+          "cue_id": 22,
+          "start_ms": 45639,
+          "end_ms": 47180,
+          "speaker": "speaker 0",
+          "text": "I'm Scott Johnson with Beau Schwartz, John"
+        },
+        {
+          "cue_id": 23,
+          "start_ms": 47260,
+          "end_ms": 49740,
+          "speaker": "speaker 0",
+          "text": "Jagger, Kristen Ashton, and of course Kyle"
+        },
+        {
+          "cue_id": 24,
+          "start_ms": 49740,
+          "end_ms": 52300,
+          "speaker": "speaker 0",
+          "text": "Ferguson, and we're ready to jump right in."
+        },
+        {
+          "cue_id": 25,
+          "start_ms": 52540,
+          "end_ms": 53020,
+          "speaker": "speaker 0",
+          "text": "Before we do."
+        },
+        {
+          "cue_id": 26,
+          "start_ms": 53860,
+          "end_ms": 56440,
+          "speaker": "speaker 0",
+          "text": "A look back at last week on\" There Will Be"
+        },
+        {
+          "cue_id": 27,
+          "start_ms": 56440,
+          "end_ms": 57400,
+          "speaker": "speaker 0",
+          "text": "Dungeons\" with Kristen."
+        },
+        {
+          "cue_id": 28,
+          "start_ms": 59035,
+          "end_ms": 61960,
+          "speaker": "speaker 1",
+          "text": "Last time on\" There Will Be Dungeons,\" paladins"
+        },
+        {
+          "cue_id": 29,
+          "start_ms": 61990,
+          "end_ms": 65720,
+          "speaker": "speaker 1",
+          "text": "pestered as the posse pondered a decade of duty"
+        },
+        {
+          "cue_id": 30,
+          "start_ms": 65960,
+          "end_ms": 66360,
+          "speaker": "speaker 1",
+          "text": "destroyed."
+        },
+        {
+          "cue_id": 31,
+          "start_ms": 66684,
+          "end_ms": 68680,
+          "speaker": "speaker 1",
+          "text": "But the paladin purported to have planned the"
+        },
+        {
+          "cue_id": 32,
+          "start_ms": 68760,
+          "end_ms": 71880,
+          "speaker": "speaker 1",
+          "text": "play arrived only after the attack and berated"
+        },
+        {
+          "cue_id": 33,
+          "start_ms": 72040,
+          "end_ms": 74840,
+          "speaker": "speaker 1",
+          "text": "the bunch, convinced of a case to again concede"
+        },
+        {
+          "cue_id": 34,
+          "start_ms": 75000,
+          "end_ms": 75560,
+          "speaker": "speaker 1",
+          "text": "their countenance."
+        },
+        {
+          "cue_id": 35,
+          "start_ms": 75974,
+          "end_ms": 78040,
+          "speaker": "speaker 1",
+          "text": "It was time to take the empty trinket to Tabasco"
+        },
+        {
+          "cue_id": 36,
+          "start_ms": 78329,
+          "end_ms": 80280,
+          "speaker": "speaker 1",
+          "text": "in a dare to deceive the dragon by claiming"
+        },
+        {
+          "cue_id": 37,
+          "start_ms": 80285,
+          "end_ms": 81080,
+          "speaker": "speaker 1",
+          "text": "clouded clarity."
+        },
+        {
+          "cue_id": 38,
+          "start_ms": 81579,
+          "end_ms": 83740,
+          "speaker": "speaker 1",
+          "text": "Before plotting their plans, Stanley and Alantis"
+        },
+        {
+          "cue_id": 39,
+          "start_ms": 83930,
+          "end_ms": 84940,
+          "speaker": "speaker 1",
+          "text": "concluded their connection."
+        },
+        {
+          "cue_id": 40,
+          "start_ms": 85424,
+          "end_ms": 88460,
+          "speaker": "speaker 1",
+          "text": "She submitted seclusion and safety, but he was"
+        },
+        {
+          "cue_id": 41,
+          "start_ms": 88540,
+          "end_ms": 90700,
+          "speaker": "speaker 1",
+          "text": "ready for many more mayhemic mishaps."
+        }
+      ],
+      "ark": [
+        {
+          "cue_id": 1,
+          "start_ms": 750,
+          "end_ms": 6710,
+          "speaker": "speaker 2",
+          "text": "Hello everybody welcome to there will be dungeons"
+        },
+        {
+          "cue_id": 2,
+          "start_ms": 6710,
+          "end_ms": 13430,
+          "speaker": "speaker 2",
+          "text": "at there will be dungeons dot com ah it is sunday"
+        },
+        {
+          "cue_id": 3,
+          "start_ms": 13430,
+          "end_ms": 19600,
+          "speaker": "speaker 2",
+          "text": "may tenth twenty twenty and we're playing our"
+        },
+        {
+          "cue_id": 4,
+          "start_ms": 19600,
+          "end_ms": 26180,
+          "speaker": "speaker 2",
+          "text": "campaign, we're about to enter some really weird"
+        },
+        {
+          "cue_id": 5,
+          "start_ms": 26380,
+          "end_ms": 32350,
+          "speaker": "speaker 2",
+          "text": "territory here folks so sit down and sip on a"
+        },
+        {
+          "cue_id": 6,
+          "start_ms": 32350,
+          "end_ms": 39070,
+          "speaker": "speaker 2",
+          "text": "wonderful blended tea from our friends at phoenix"
+        },
+        {
+          "cue_id": 7,
+          "start_ms": 39819,
+          "end_ms": 45780,
+          "speaker": "speaker 2",
+          "text": "pearl tea dot com, where if right now you use the"
+        },
+        {
+          "cue_id": 8,
+          "start_ms": 45780,
+          "end_ms": 52640,
+          "speaker": "speaker 2",
+          "text": "code t.You will save twenty percent on your entire"
+        },
+        {
+          "cue_id": 9,
+          "start_ms": 52640,
+          "end_ms": 59080,
+          "speaker": "speaker 2",
+          "text": "order of rad teas at phoenix pearl tea dot com,"
+        },
+        {
+          "cue_id": 10,
+          "start_ms": 59080,
+          "end_ms": 65940,
+          "speaker": "speaker 2",
+          "text": "there's also details at our website which is there"
+        },
+        {
+          "cue_id": 11,
+          "start_ms": 66064,
+          "end_ms": 72110,
+          "speaker": "speaker 2",
+          "text": "will be dungeons dot com so go check that out"
+        },
+        {
+          "cue_id": 12,
+          "start_ms": 72109,
+          "end_ms": 78690,
+          "speaker": "speaker 2",
+          "text": "because you're gonna want that you're gonna want"
+        },
+        {
+          "cue_id": 13,
+          "start_ms": 78690,
+          "end_ms": 85130,
+          "speaker": "speaker 2",
+          "text": "to be sitting down, i'm scott johnson with beau"
+        },
+        {
+          "cue_id": 14,
+          "start_ms": 85429,
+          "end_ms": 91850,
+          "speaker": "speaker 2",
+          "text": "schwartz john jagger kristin ashton and of course"
+        }
+      ]
+    },
+    "room_entry": {
+      "parakeet": [
+        {
+          "cue_id": 65,
+          "start_ms": 216970,
+          "end_ms": 217746,
+          "speaker": "speaker 3",
+          "text": "and the rest."
+        },
+        {
+          "cue_id": 66,
+          "start_ms": 217770,
+          "end_ms": 218867,
+          "speaker": "speaker 2",
+          "text": "and the rest i."
+        },
+        {
+          "cue_id": 67,
+          "start_ms": 218891,
+          "end_ms": 221850,
+          "speaker": "speaker 1",
+          "text": "don't think hope didn't bring any shit with her man."
+        },
+        {
+          "cue_id": 68,
+          "start_ms": 222015,
+          "end_ms": 223015,
+          "speaker": "speaker 0",
+          "text": "yeah we see."
+        },
+        {
+          "cue_id": 69,
+          "start_ms": 223050,
+          "end_ms": 227610,
+          "speaker": "speaker 2",
+          "text": "hope blood skunk Hendricks and dr strand spider"
+        },
+        {
+          "cue_id": 70,
+          "start_ms": 228590,
+          "end_ms": 232490,
+          "speaker": "speaker 2",
+          "text": "and steerious business walk through the smoke out"
+        },
+        {
+          "cue_id": 71,
+          "start_ms": 232740,
+          "end_ms": 235930,
+          "speaker": "speaker 2",
+          "text": "the other side into hope's bedroom in tiat cala"
+        },
+        {
+          "cue_id": 72,
+          "start_ms": 236260,
+          "end_ms": 239210,
+          "speaker": "speaker 2",
+          "text": "in the keep of tiat cala hope everything is as"
+        },
+        {
+          "cue_id": 73,
+          "start_ms": 239211,
+          "end_ms": 242970,
+          "speaker": "speaker 2",
+          "text": "you left it your bed the dresser drawers the"
+        },
+        {
+          "cue_id": 74,
+          "start_ms": 242971,
+          "end_ms": 248010,
+          "speaker": "speaker 2",
+          "text": "mirror the walk in closet and as the purple smoke"
+        },
+        {
+          "cue_id": 75,
+          "start_ms": 248124,
+          "end_ms": 250890,
+          "speaker": "speaker 2",
+          "text": "begins to dissipate another figure walks through."
+        },
+        {
+          "cue_id": 76,
+          "start_ms": 251590,
+          "end_ms": 255130,
+          "speaker": "speaker 2",
+          "text": "it's the hooded cloaked figure of spitullo he"
+        },
+        {
+          "cue_id": 77,
+          "start_ms": 255131,
+          "end_ms": 258970,
+          "speaker": "speaker 2",
+          "text": "coughs a bit as he makes his way through the smoke."
+        },
+        {
+          "cue_id": 78,
+          "start_ms": 270820,
+          "end_ms": 276187,
+          "speaker": "speaker 2",
+          "text": "silence descends upon the party as they stand in this room hope."
+        },
+        {
+          "cue_id": 79,
+          "start_ms": 276211,
+          "end_ms": 278051,
+          "speaker": "speaker 1",
+          "text": "wouldn't say anything she would look around and"
+        },
+        {
+          "cue_id": 80,
+          "start_ms": 278090,
+          "end_ms": 281250,
+          "speaker": "speaker 1",
+          "text": "she'd kind of take in her vadrum a little tear comes to the eye."
+        },
+        {
+          "cue_id": 81,
+          "start_ms": 281730,
+          "end_ms": 284690,
+          "speaker": "speaker 2",
+          "text": "nobody says anything but finally spitullo breaks"
+        },
+        {
+          "cue_id": 82,
+          "start_ms": 284691,
+          "end_ms": 288690,
+          "speaker": "speaker 2",
+          "text": "the silence also okay spitullo breaks the silence."
+        },
+        {
+          "cue_id": 83,
+          "start_ms": 291300,
+          "end_ms": 296290,
+          "speaker": "speaker 2",
+          "text": "what manner of place is this hope he runs up to"
+        },
+        {
+          "cue_id": 84,
+          "start_ms": 296291,
+          "end_ms": 301490,
+          "speaker": "speaker 2",
+          "text": "you and he grabs your arm hope you cannot leave"
+        },
+        {
+          "cue_id": 85,
+          "start_ms": 301491,
+          "end_ms": 304850,
+          "speaker": "speaker 2",
+          "text": "without me you almost left me behind back there."
+        }
+      ],
+      "qwen": [
+        {
+          "cue_id": 91,
+          "start_ms": 216540,
+          "end_ms": 217500,
+          "speaker": "speaker 2",
+          "text": "Hope and the rest."
+        },
+        {
+          "cue_id": 92,
+          "start_ms": 217900,
+          "end_ms": 218380,
+          "speaker": "speaker 2",
+          "text": "And the rest."
+        },
+        {
+          "cue_id": 93,
+          "start_ms": 218700,
+          "end_ms": 218780,
+          "speaker": "speaker 2",
+          "text": "I"
+        },
+        {
+          "cue_id": 94,
+          "start_ms": 218810,
+          "end_ms": 221260,
+          "speaker": "speaker 1",
+          "text": "don't think that hope didn't bring any shit with"
+        },
+        {
+          "cue_id": 95,
+          "start_ms": 221340,
+          "end_ms": 221580,
+          "speaker": "speaker 1",
+          "text": "her, man."
+        },
+        {
+          "cue_id": 96,
+          "start_ms": 222035,
+          "end_ms": 222940,
+          "speaker": "speaker 0",
+          "text": "Yeah, we see"
+        },
+        {
+          "cue_id": 97,
+          "start_ms": 223020,
+          "end_ms": 223100,
+          "speaker": "speaker 2",
+          "text": "hope."
+        },
+        {
+          "cue_id": 98,
+          "start_ms": 223825,
+          "end_ms": 227100,
+          "speaker": "speaker 2",
+          "text": "Blood skunk Hendricks and Doctor Strand, spider,"
+        },
+        {
+          "cue_id": 99,
+          "start_ms": 228604,
+          "end_ms": 232220,
+          "speaker": "speaker 2",
+          "text": "and mysterious business walk through the smoke"
+        },
+        {
+          "cue_id": 100,
+          "start_ms": 232300,
+          "end_ms": 234940,
+          "speaker": "speaker 2",
+          "text": "out the other side into Hope's bedroom in"
+        },
+        {
+          "cue_id": 101,
+          "start_ms": 235100,
+          "end_ms": 237260,
+          "speaker": "speaker 2",
+          "text": "Tietkala, in the keep of Tietkala."
+        },
+        {
+          "cue_id": 102,
+          "start_ms": 238320,
+          "end_ms": 240700,
+          "speaker": "speaker 2",
+          "text": "Hope, everything is as you left it: your bed, the"
+        },
+        {
+          "cue_id": 103,
+          "start_ms": 240704,
+          "end_ms": 244940,
+          "speaker": "speaker 2",
+          "text": "dresser drawers, the mirror, the walk- in closet."
+        },
+        {
+          "cue_id": 104,
+          "start_ms": 246720,
+          "end_ms": 249180,
+          "speaker": "speaker 2",
+          "text": "And as the purple smoke begins to dissipate,"
+        },
+        {
+          "cue_id": 105,
+          "start_ms": 249650,
+          "end_ms": 250540,
+          "speaker": "speaker 2",
+          "text": "another figure walks through."
+        },
+        {
+          "cue_id": 106,
+          "start_ms": 251735,
+          "end_ms": 253620,
+          "speaker": "speaker 2",
+          "text": "It's the hooded, cloaked figure of Spatulo."
+        },
+        {
+          "cue_id": 107,
+          "start_ms": 255080,
+          "end_ms": 258339,
+          "speaker": "speaker 2",
+          "text": "He coughs a bit as he makes his way through the"
+        },
+        {
+          "cue_id": 108,
+          "start_ms": 258420,
+          "end_ms": 258660,
+          "speaker": "speaker 2",
+          "text": "smoke."
+        },
+        {
+          "cue_id": 109,
+          "start_ms": 270820,
+          "end_ms": 273380,
+          "speaker": "speaker 2",
+          "text": "Silence descends upon the party as they stand in"
+        },
+        {
+          "cue_id": 110,
+          "start_ms": 273460,
+          "end_ms": 273700,
+          "speaker": "speaker 2",
+          "text": "this room."
+        },
+        {
+          "cue_id": 111,
+          "start_ms": 275860,
+          "end_ms": 275940,
+          "speaker": "speaker 2",
+          "text": "I"
+        },
+        {
+          "cue_id": 112,
+          "start_ms": 276020,
+          "end_ms": 276820,
+          "speaker": "speaker 1",
+          "text": "wouldn't say anything."
+        },
+        {
+          "cue_id": 113,
+          "start_ms": 276980,
+          "end_ms": 279060,
+          "speaker": "speaker 1",
+          "text": "She'd look around and she'd kind of take in her"
+        },
+        {
+          "cue_id": 114,
+          "start_ms": 279140,
+          "end_ms": 280100,
+          "speaker": "speaker 1",
+          "text": "bedroom, little tear."
+        },
+        {
+          "cue_id": 115,
+          "start_ms": 281740,
+          "end_ms": 284700,
+          "speaker": "speaker 2",
+          "text": "Nobody says anything, but finally Spatulow breaks"
+        },
+        {
+          "cue_id": 116,
+          "start_ms": 284780,
+          "end_ms": 285180,
+          "speaker": "speaker 2",
+          "text": "the silence."
+        },
+        {
+          "cue_id": 117,
+          "start_ms": 285870,
+          "end_ms": 288460,
+          "speaker": "speaker 2",
+          "text": "Also, like okay, Spatulow breaks the silence."
+        },
+        {
+          "cue_id": 118,
+          "start_ms": 291310,
+          "end_ms": 293260,
+          "speaker": "speaker 2",
+          "text": "What manner of place is this?"
+        },
+        {
+          "cue_id": 119,
+          "start_ms": 294300,
+          "end_ms": 294540,
+          "speaker": "speaker 2",
+          "text": "Hope."
+        },
+        {
+          "cue_id": 120,
+          "start_ms": 295680,
+          "end_ms": 297340,
+          "speaker": "speaker 2",
+          "text": "He runs up to you and he grabs your arm."
+        },
+        {
+          "cue_id": 121,
+          "start_ms": 298780,
+          "end_ms": 299020,
+          "speaker": "speaker 2",
+          "text": "Hope."
+        },
+        {
+          "cue_id": 122,
+          "start_ms": 300650,
+          "end_ms": 301980,
+          "speaker": "speaker 2",
+          "text": "You cannot leave without me."
+        },
+        {
+          "cue_id": 123,
+          "start_ms": 302860,
+          "end_ms": 304540,
+          "speaker": "speaker 2",
+          "text": "You almost left me behind back there."
+        }
+      ],
+      "ark": [
+        {
+          "cue_id": 46,
+          "start_ms": 289540,
+          "end_ms": 295300,
+          "speaker": "speaker 2",
+          "text": "purple smoke clears we see.Hope ah blood skunk"
+        },
+        {
+          "cue_id": 47,
+          "start_ms": 295700,
+          "end_ms": 301460,
+          "speaker": "speaker 2",
+          "text": "hendrickson doctor strand spider and sterious"
+        },
+        {
+          "cue_id": 48,
+          "start_ms": 301460,
+          "end_ms": 308320,
+          "speaker": "speaker 2",
+          "text": "business walk through the smoke out the other side"
+        },
+        {
+          "cue_id": 49,
+          "start_ms": 308870,
+          "end_ms": 314630,
+          "speaker": "speaker 2",
+          "text": "into hope's bedroom in tietkala in the keep of"
+        },
+        {
+          "cue_id": 50,
+          "start_ms": 314780,
+          "end_ms": 321340,
+          "speaker": "speaker 2",
+          "text": "tietkala hope everything is as you left it.In the"
+        },
+        {
+          "cue_id": 51,
+          "start_ms": 322665,
+          "end_ms": 327790,
+          "speaker": "speaker 2",
+          "text": "smoke out the other side into hope's bedroom in"
+        },
+        {
+          "cue_id": 52,
+          "start_ms": 327790,
+          "end_ms": 334370,
+          "speaker": "speaker 2",
+          "text": "tietkala in the keep of tietkala hope everything"
+        },
+        {
+          "cue_id": 53,
+          "start_ms": 337220,
+          "end_ms": 340810,
+          "speaker": "speaker 2",
+          "text": "is as you left it.Hope.You cannot leave without"
+        },
+        {
+          "cue_id": 54,
+          "start_ms": 340810,
+          "end_ms": 347390,
+          "speaker": "speaker 2",
+          "text": "me.You almost left me behind back there.Don't do"
+        }
+      ]
+    },
+    "guardian_expiry": {
+      "parakeet": [
+        {
+          "cue_id": 806,
+          "start_ms": 3034174,
+          "end_ms": 3037120,
+          "speaker": "speaker 4",
+          "text": "bad people enter the area they go and fly into"
+        },
+        {
+          "cue_id": 807,
+          "start_ms": 3037280,
+          "end_ms": 3038480,
+          "speaker": "speaker 4",
+          "text": "them and exploding."
+        },
+        {
+          "cue_id": 808,
+          "start_ms": 3038784,
+          "end_ms": 3041760,
+          "speaker": "speaker 2",
+          "text": "okay so the cloud of babies flies at the three"
+        },
+        {
+          "cue_id": 809,
+          "start_ms": 3041920,
+          "end_ms": 3044080,
+          "speaker": "speaker 2",
+          "text": "Toyota hosts who run into the area and murder"
+        },
+        {
+          "cue_id": 810,
+          "start_ms": 3044460,
+          "end_ms": 3046640,
+          "speaker": "speaker 2",
+          "text": "them all three of them die and you watch these"
+        },
+        {
+          "cue_id": 811,
+          "start_ms": 3046641,
+          "end_ms": 3053360,
+          "speaker": "speaker 2",
+          "text": "babies assault these golden magical babies assault the three Toyota host guys to death"
+        },
+        {
+          "cue_id": 812,
+          "start_ms": 3053880,
+          "end_ms": 3056800,
+          "speaker": "speaker 2",
+          "text": "you know so like these swollen like parts mount up"
+        },
+        {
+          "cue_id": 813,
+          "start_ms": 3056801,
+          "end_ms": 3058880,
+          "speaker": "speaker 2",
+          "text": "on them their eyeballs get knocked out there they"
+        },
+        {
+          "cue_id": 814,
+          "start_ms": 3059080,
+          "end_ms": 3062080,
+          "speaker": "speaker 2",
+          "text": "get savagely beaten by these babies that means"
+        },
+        {
+          "cue_id": 815,
+          "start_ms": 3062081,
+          "end_ms": 3064560,
+          "speaker": "speaker 2",
+          "text": "the baby is gone though right after three charges."
+        },
+        {
+          "cue_id": 816,
+          "start_ms": 3065280,
+          "end_ms": 3066056,
+          "speaker": "speaker 2",
+          "text": "three kills."
+        },
+        {
+          "cue_id": 817,
+          "start_ms": 3066080,
+          "end_ms": 3067817,
+          "speaker": "speaker 4",
+          "text": "baby the baby dissipates."
+        },
+        {
+          "cue_id": 818,
+          "start_ms": 3067841,
+          "end_ms": 3070546,
+          "speaker": "speaker 2",
+          "text": "all right after beating it the babies cheer"
+        },
+        {
+          "cue_id": 819,
+          "start_ms": 3070551,
+          "end_ms": 3075520,
+          "speaker": "speaker 2",
+          "text": "and like ascend into nothingness all right case"
+        },
+        {
+          "cue_id": 820,
+          "start_ms": 3075634,
+          "end_ms": 3078400,
+          "speaker": "speaker 2",
+          "text": "that's them running in so they're dead some more"
+        }
+      ],
+      "qwen": [
+        {
+          "cue_id": 1358,
+          "start_ms": 3031060,
+          "end_ms": 3032180,
+          "speaker": "speaker 2",
+          "text": "people that enter into the area?"
+        },
+        {
+          "cue_id": 1359,
+          "start_ms": 3032420,
+          "end_ms": 3033060,
+          "speaker": "speaker 2",
+          "text": "How does yeah"
+        },
+        {
+          "cue_id": 1360,
+          "start_ms": 3034160,
+          "end_ms": 3035300,
+          "speaker": "speaker 4",
+          "text": "bad yeah bad people enter the area?"
+        },
+        {
+          "cue_id": 1361,
+          "start_ms": 3035740,
+          "end_ms": 3038100,
+          "speaker": "speaker 4",
+          "text": "They go and fly into them and explode."
+        },
+        {
+          "cue_id": 1362,
+          "start_ms": 3038774,
+          "end_ms": 3041700,
+          "speaker": "speaker 2",
+          "text": "Okay, so the cloud of babies flies at the three"
+        },
+        {
+          "cue_id": 1363,
+          "start_ms": 3041940,
+          "end_ms": 3044180,
+          "speaker": "speaker 2",
+          "text": "Toyota hosts who run to the area and murder them."
+        },
+        {
+          "cue_id": 1364,
+          "start_ms": 3044475,
+          "end_ms": 3047060,
+          "speaker": "speaker 2",
+          "text": "All three of them die, and you watch these babies"
+        },
+        {
+          "cue_id": 1365,
+          "start_ms": 3047060,
+          "end_ms": 3047380,
+          "speaker": "speaker 2",
+          "text": "assault."
+        },
+        {
+          "cue_id": 1366,
+          "start_ms": 3048875,
+          "end_ms": 3051180,
+          "speaker": "speaker 2",
+          "text": "These these golden magical babies assault the"
+        },
+        {
+          "cue_id": 1367,
+          "start_ms": 3051180,
+          "end_ms": 3053100,
+          "speaker": "speaker 2",
+          "text": "three Toyota host guys to death."
+        },
+        {
+          "cue_id": 1368,
+          "start_ms": 3053870,
+          "end_ms": 3056460,
+          "speaker": "speaker 2",
+          "text": "You know, so like these swollen like parts mount"
+        },
+        {
+          "cue_id": 1369,
+          "start_ms": 3056540,
+          "end_ms": 3056860,
+          "speaker": "speaker 2",
+          "text": "up on them."
+        },
+        {
+          "cue_id": 1370,
+          "start_ms": 3057020,
+          "end_ms": 3058220,
+          "speaker": "speaker 2",
+          "text": "Their eyeballs get knocked out."
+        },
+        {
+          "cue_id": 1371,
+          "start_ms": 3058555,
+          "end_ms": 3060700,
+          "speaker": "speaker 2",
+          "text": "They just they get savagely beaten by these"
+        },
+        {
+          "cue_id": 1372,
+          "start_ms": 3060780,
+          "end_ms": 3061100,
+          "speaker": "speaker 2",
+          "text": "babies."
+        },
+        {
+          "cue_id": 1373,
+          "start_ms": 3061815,
+          "end_ms": 3063260,
+          "speaker": "speaker 2",
+          "text": "That means the baby's gone though, right?"
+        },
+        {
+          "cue_id": 1374,
+          "start_ms": 3063520,
+          "end_ms": 3065740,
+          "speaker": "speaker 2",
+          "text": "After three charges, three kills,"
+        },
+        {
+          "cue_id": 1375,
+          "start_ms": 3066140,
+          "end_ms": 3066380,
+          "speaker": "speaker 4",
+          "text": "baby."
+        },
+        {
+          "cue_id": 1376,
+          "start_ms": 3066670,
+          "end_ms": 3067500,
+          "speaker": "speaker 4",
+          "text": "The baby dissipates."
+        },
+        {
+          "cue_id": 1377,
+          "start_ms": 3067820,
+          "end_ms": 3068140,
+          "speaker": "speaker 2",
+          "text": "All right."
+        },
+        {
+          "cue_id": 1378,
+          "start_ms": 3068339,
+          "end_ms": 3071020,
+          "speaker": "speaker 2",
+          "text": "After beating it, the babies cheer and like"
+        },
+        {
+          "cue_id": 1379,
+          "start_ms": 3071429,
+          "end_ms": 3073100,
+          "speaker": "speaker 2",
+          "text": "ascend into nothingness."
+        },
+        {
+          "cue_id": 1380,
+          "start_ms": 3073740,
+          "end_ms": 3073980,
+          "speaker": "speaker 2",
+          "text": "All right."
+        },
+        {
+          "cue_id": 1381,
+          "start_ms": 3075180,
+          "end_ms": 3075260,
+          "speaker": "speaker 2",
+          "text": "Okay."
+        },
+        {
+          "cue_id": 1382,
+          "start_ms": 3075374,
+          "end_ms": 3076700,
+          "speaker": "speaker 2",
+          "text": "So that's them running in."
+        }
+      ],
+      "ark": [
+        {
+          "cue_id": 466,
+          "start_ms": 3014000,
+          "end_ms": 3020310,
+          "speaker": "speaker 2",
+          "text": "whacking.Okay so the cloud of babies flies at the"
+        },
+        {
+          "cue_id": 467,
+          "start_ms": 3020310,
+          "end_ms": 3027170,
+          "speaker": "speaker 2",
+          "text": "three toyota host who run into the area and murder"
+        },
+        {
+          "cue_id": 468,
+          "start_ms": 3027170,
+          "end_ms": 3033470,
+          "speaker": "speaker 2",
+          "text": "them all three of them die and you watch these"
+        },
+        {
+          "cue_id": 469,
+          "start_ms": 3033670,
+          "end_ms": 3039510,
+          "speaker": "speaker 2",
+          "text": "babies assault ah these these golden magical"
+        },
+        {
+          "cue_id": 470,
+          "start_ms": 3039510,
+          "end_ms": 3046360,
+          "speaker": "speaker 2",
+          "text": "babies assault the three toyota host guys to death"
+        },
+        {
+          "cue_id": 471,
+          "start_ms": 3046560,
+          "end_ms": 3053220,
+          "speaker": "speaker 2",
+          "text": "you know so like these swollen like parts mount up"
+        },
+        {
+          "cue_id": 472,
+          "start_ms": 3053870,
+          "end_ms": 3059800,
+          "speaker": "speaker 2",
+          "text": "on them their eyeballs get knocked out they just"
+        },
+        {
+          "cue_id": 473,
+          "start_ms": 3059800,
+          "end_ms": 3066650,
+          "speaker": "speaker 2",
+          "text": "they get savagely.All right um okay so that's them"
+        },
+        {
+          "cue_id": 474,
+          "start_ms": 3066650,
+          "end_ms": 3073370,
+          "speaker": "speaker 2",
+          "text": "running in so they're dead some more jump in into"
+        },
+        {
+          "cue_id": 475,
+          "start_ms": 3073720,
+          "end_ms": 3080220,
+          "speaker": "speaker 2",
+          "text": "your area hope um all right and that means that we"
+        }
+      ]
+    },
+    "nonlethal_intent": {
+      "parakeet": [
+        {
+          "cue_id": 1622,
+          "start_ms": 5791140,
+          "end_ms": 5792170,
+          "speaker": "speaker 2",
+          "text": "right hope you're up."
+        },
+        {
+          "cue_id": 1623,
+          "start_ms": 5794545,
+          "end_ms": 5798490,
+          "speaker": "speaker 1",
+          "text": "awesome okay so hope is going to stand which is"
+        },
+        {
+          "cue_id": 1624,
+          "start_ms": 5798570,
+          "end_ms": 5802570,
+          "speaker": "speaker 1",
+          "text": "his half movement speed and she's going to slowly"
+        },
+        {
+          "cue_id": 1625,
+          "start_ms": 5802705,
+          "end_ms": 5806707,
+          "speaker": "speaker 1",
+          "text": "walk toward the orc who's on the ground is he prone he's."
+        },
+        {
+          "cue_id": 1626,
+          "start_ms": 5806731,
+          "end_ms": 5809290,
+          "speaker": "speaker 2",
+          "text": "on his hands and knees we try to get up to run but"
+        },
+        {
+          "cue_id": 1627,
+          "start_ms": 5809345,
+          "end_ms": 5813450,
+          "speaker": "speaker 2",
+          "text": "he's still on his hands and knees dashing trying to get away scramble away from you."
+        },
+        {
+          "cue_id": 1628,
+          "start_ms": 5814070,
+          "end_ms": 5816993,
+          "speaker": "speaker 1",
+          "text": "okay so hope's going to take out her dagger"
+        },
+        {
+          "cue_id": 1629,
+          "start_ms": 5816994,
+          "end_ms": 5820810,
+          "speaker": "speaker 1",
+          "text": "and she's going to start stabbing his legs oh."
+        },
+        {
+          "cue_id": 1630,
+          "start_ms": 5821030,
+          "end_ms": 5822810,
+          "speaker": "speaker 2",
+          "text": "all right three times."
+        },
+        {
+          "cue_id": 1631,
+          "start_ms": 5823295,
+          "end_ms": 5827850,
+          "speaker": "speaker 1",
+          "text": "yes but but if one she doesn't want to do fatal damage she only wants to non."
+        },
+        {
+          "cue_id": 1632,
+          "start_ms": 5827930,
+          "end_ms": 5829770,
+          "speaker": "speaker 2",
+          "text": "lethal attacks yeah."
+        },
+        {
+          "cue_id": 1633,
+          "start_ms": 5831020,
+          "end_ms": 5834090,
+          "speaker": "speaker 1",
+          "text": "all right the first one it looks like is going to be a fourteen."
+        },
+        {
+          "cue_id": 1634,
+          "start_ms": 5834330,
+          "end_ms": 5835330,
+          "speaker": "speaker 2",
+          "text": "that's a miss."
+        },
+        {
+          "cue_id": 1635,
+          "start_ms": 5835770,
+          "end_ms": 5839850,
+          "speaker": "speaker 1",
+          "text": "all right next one is a twenty one it's."
+        },
+        {
+          "cue_id": 1636,
+          "start_ms": 5839930,
+          "end_ms": 5841210,
+          "speaker": "speaker 2",
+          "text": "a hit all."
+        }
+      ],
+      "qwen": [
+        {
+          "cue_id": 2857,
+          "start_ms": 5790120,
+          "end_ms": 5790280,
+          "speaker": "speaker 3",
+          "text": "I think."
+        },
+        {
+          "cue_id": 2858,
+          "start_ms": 5790840,
+          "end_ms": 5790920,
+          "speaker": "speaker 3",
+          "text": "All"
+        },
+        {
+          "cue_id": 2859,
+          "start_ms": 5791050,
+          "end_ms": 5791960,
+          "speaker": "speaker 2",
+          "text": "right, Hope, you're up."
+        },
+        {
+          "cue_id": 2860,
+          "start_ms": 5794525,
+          "end_ms": 5795160,
+          "speaker": "speaker 1",
+          "text": "Awesome."
+        },
+        {
+          "cue_id": 2861,
+          "start_ms": 5795240,
+          "end_ms": 5798680,
+          "speaker": "speaker 1",
+          "text": "Okay, so Hope is going to stand, but she's at"
+        },
+        {
+          "cue_id": 2862,
+          "start_ms": 5798760,
+          "end_ms": 5802200,
+          "speaker": "speaker 1",
+          "text": "half movement speed, and she's going to slowly"
+        },
+        {
+          "cue_id": 2863,
+          "start_ms": 5802710,
+          "end_ms": 5804920,
+          "speaker": "speaker 1",
+          "text": "walk toward the orc who's on the ground."
+        },
+        {
+          "cue_id": 2864,
+          "start_ms": 5805059,
+          "end_ms": 5805800,
+          "speaker": "speaker 1",
+          "text": "Is he prone?"
+        },
+        {
+          "cue_id": 2865,
+          "start_ms": 5806590,
+          "end_ms": 5808760,
+          "speaker": "speaker 2",
+          "text": "He's on his hands and knees, like trying to get up"
+        },
+        {
+          "cue_id": 2866,
+          "start_ms": 5808940,
+          "end_ms": 5810520,
+          "speaker": "speaker 2",
+          "text": "to run, but he's still on his hands and knees,"
+        },
+        {
+          "cue_id": 2867,
+          "start_ms": 5810600,
+          "end_ms": 5813000,
+          "speaker": "speaker 2",
+          "text": "dashing, trying to get away, scramble away from"
+        },
+        {
+          "cue_id": 2868,
+          "start_ms": 5813080,
+          "end_ms": 5813160,
+          "speaker": "speaker 2",
+          "text": "you."
+        },
+        {
+          "cue_id": 2869,
+          "start_ms": 5814075,
+          "end_ms": 5817160,
+          "speaker": "speaker 1",
+          "text": "Okay, so Hope's gonna take out her dagger, and"
+        },
+        {
+          "cue_id": 2870,
+          "start_ms": 5817545,
+          "end_ms": 5819480,
+          "speaker": "speaker 1",
+          "text": "she's gonna start stabbing his legs."
+        },
+        {
+          "cue_id": 2871,
+          "start_ms": 5820600,
+          "end_ms": 5820680,
+          "speaker": "speaker 1",
+          "text": "Oh,"
+        },
+        {
+          "cue_id": 2872,
+          "start_ms": 5821030,
+          "end_ms": 5822280,
+          "speaker": "speaker 2",
+          "text": "all right, three times."
+        },
+        {
+          "cue_id": 2873,
+          "start_ms": 5823255,
+          "end_ms": 5826200,
+          "speaker": "speaker 1",
+          "text": "Yes, but but if one, she doesn't want to do fatal"
+        },
+        {
+          "cue_id": 2874,
+          "start_ms": 5826280,
+          "end_ms": 5826520,
+          "speaker": "speaker 1",
+          "text": "damage."
+        },
+        {
+          "cue_id": 2875,
+          "start_ms": 5826655,
+          "end_ms": 5827320,
+          "speaker": "speaker 1",
+          "text": "She only wants to"
+        },
+        {
+          "cue_id": 2876,
+          "start_ms": 5827800,
+          "end_ms": 5828680,
+          "speaker": "speaker 2",
+          "text": "non- lethal attacks."
+        },
+        {
+          "cue_id": 2877,
+          "start_ms": 5829000,
+          "end_ms": 5829400,
+          "speaker": "speaker 2",
+          "text": "Done."
+        },
+        {
+          "cue_id": 2878,
+          "start_ms": 5829480,
+          "end_ms": 5829560,
+          "speaker": "speaker 2",
+          "text": "Yeah."
+        },
+        {
+          "cue_id": 2879,
+          "start_ms": 5830920,
+          "end_ms": 5831000,
+          "speaker": "speaker 2",
+          "text": "All"
+        },
+        {
+          "cue_id": 2880,
+          "start_ms": 5831160,
+          "end_ms": 5833080,
+          "speaker": "speaker 1",
+          "text": "right, the first one it looks like is going to be"
+        },
+        {
+          "cue_id": 2881,
+          "start_ms": 5833160,
+          "end_ms": 5833640,
+          "speaker": "speaker 1",
+          "text": "a fourteen."
+        },
+        {
+          "cue_id": 2882,
+          "start_ms": 5834440,
+          "end_ms": 5835000,
+          "speaker": "speaker 2",
+          "text": "That's a miss."
+        },
+        {
+          "cue_id": 2883,
+          "start_ms": 5835720,
+          "end_ms": 5836120,
+          "speaker": "speaker 1",
+          "text": "All right."
+        },
+        {
+          "cue_id": 2884,
+          "start_ms": 5837205,
+          "end_ms": 5839320,
+          "speaker": "speaker 1",
+          "text": "Next one is a twenty- one."
+        },
+        {
+          "cue_id": 2885,
+          "start_ms": 5839640,
+          "end_ms": 5839960,
+          "speaker": "speaker 1",
+          "text": "It's"
+        },
+        {
+          "cue_id": 2886,
+          "start_ms": 5839960,
+          "end_ms": 5840280,
+          "speaker": "speaker 2",
+          "text": "a hit."
+        }
+      ],
+      "ark": [
+        {
+          "cue_id": 932,
+          "start_ms": 6020950,
+          "end_ms": 6027060,
+          "speaker": "speaker 2",
+          "text": "can do as a bonus action.Wait actually I think"
+        },
+        {
+          "cue_id": 933,
+          "start_ms": 6030210,
+          "end_ms": 6033780,
+          "speaker": "speaker 2",
+          "text": "there is I think I can do something with my horns"
+        },
+        {
+          "cue_id": 934,
+          "start_ms": 6033780,
+          "end_ms": 6040220,
+          "speaker": "speaker 2",
+          "text": "maybe nah I don't think there is.Yeah.All right"
+        },
+        {
+          "cue_id": 935,
+          "start_ms": 6041520,
+          "end_ms": 6046250,
+          "speaker": "speaker 2",
+          "text": "the first one it looks like is going to be a"
+        },
+        {
+          "cue_id": 936,
+          "start_ms": 6046800,
+          "end_ms": 6052970,
+          "speaker": "speaker 2",
+          "text": "fourteen.That's a miss.All right ah next one is a"
+        },
+        {
+          "cue_id": 937,
+          "start_ms": 6052970,
+          "end_ms": 6059690,
+          "speaker": "speaker 2",
+          "text": "twenty one.It's a hit.All right perfect.Do I need"
+        },
+        {
+          "cue_id": 938,
+          "start_ms": 6059840,
+          "end_ms": 6066270,
+          "speaker": "speaker 2",
+          "text": "to give you damage for this yes.Ah yes please.If"
+        },
+        {
+          "cue_id": 939,
+          "start_ms": 6066570,
+          "end_ms": 6073120,
+          "speaker": "speaker 2",
+          "text": "it helps you can roll them all together.So cold.Ah"
+        }
+      ]
+    },
+    "timing_anchor": {
+      "parakeet": [
+        {
+          "cue_id": 1688,
+          "start_ms": 6030230,
+          "end_ms": 6033810,
+          "speaker": "speaker 0",
+          "text": "three okay here we go nine points of piercing"
+        },
+        {
+          "cue_id": 1689,
+          "start_ms": 6034050,
+          "end_ms": 6034666,
+          "speaker": "speaker 0",
+          "text": "damage."
+        },
+        {
+          "cue_id": 1690,
+          "start_ms": 6034690,
+          "end_ms": 6038107,
+          "speaker": "speaker 2",
+          "text": "describe how you kill the last living enemy in the room."
+        },
+        {
+          "cue_id": 1691,
+          "start_ms": 6038131,
+          "end_ms": 6045090,
+          "speaker": "speaker 0",
+          "text": "i go it is about time and i fire the arrow off"
+        },
+        {
+          "cue_id": 1692,
+          "start_ms": 6045620,
+          "end_ms": 6049010,
+          "speaker": "speaker 0",
+          "text": "hard and fast i even have a sound for it here we"
+        },
+        {
+          "cue_id": 1693,
+          "start_ms": 6049485,
+          "end_ms": 6052850,
+          "speaker": "speaker 0",
+          "text": "go it takes him in the back of the head and he"
+        }
+      ],
+      "qwen": [
+        {
+          "cue_id": 2985,
+          "start_ms": 6030240,
+          "end_ms": 6030960,
+          "speaker": "speaker 0",
+          "text": "Okay, here we go."
+        },
+        {
+          "cue_id": 2986,
+          "start_ms": 6032240,
+          "end_ms": 6034320,
+          "speaker": "speaker 0",
+          "text": "Nine points of piercing damage."
+        },
+        {
+          "cue_id": 2987,
+          "start_ms": 6034720,
+          "end_ms": 6037760,
+          "speaker": "speaker 2",
+          "text": "Describe how you kill the last living enemy in the"
+        },
+        {
+          "cue_id": 2988,
+          "start_ms": 6037760,
+          "end_ms": 6037840,
+          "speaker": "speaker 2",
+          "text": "room."
+        },
+        {
+          "cue_id": 2989,
+          "start_ms": 6038160,
+          "end_ms": 6038480,
+          "speaker": "speaker 0",
+          "text": "I go."
+        },
+        {
+          "cue_id": 2990,
+          "start_ms": 6038880,
+          "end_ms": 6041920,
+          "speaker": "speaker 0",
+          "text": "It is about time."
+        },
+        {
+          "cue_id": 2991,
+          "start_ms": 6043520,
+          "end_ms": 6046160,
+          "speaker": "speaker 0",
+          "text": "And I fire the arrow off hard and fast."
+        },
+        {
+          "cue_id": 2992,
+          "start_ms": 6046580,
+          "end_ms": 6047600,
+          "speaker": "speaker 0",
+          "text": "I even have a sound for it."
+        },
+        {
+          "cue_id": 2993,
+          "start_ms": 6047760,
+          "end_ms": 6048080,
+          "speaker": "speaker 0",
+          "text": "Hold on."
+        },
+        {
+          "cue_id": 2994,
+          "start_ms": 6048560,
+          "end_ms": 6049120,
+          "speaker": "speaker 0",
+          "text": "Here we go."
+        }
+      ],
+      "ark": [
+        {
+          "cue_id": 968,
+          "start_ms": 6252560,
+          "end_ms": 6257240,
+          "speaker": "speaker 2",
+          "text": "attack.Oh no.Nine points of piercing"
+        },
+        {
+          "cue_id": 969,
+          "start_ms": 6257240,
+          "end_ms": 6264100,
+          "speaker": "speaker 2",
+          "text": "damage.Describe how you kill the last living enemy"
+        },
+        {
+          "cue_id": 970,
+          "start_ms": 6264125,
+          "end_ms": 6270680,
+          "speaker": "speaker 2",
+          "text": "in the room.I go it is about time and I fire the"
+        },
+        {
+          "cue_id": 971,
+          "start_ms": 6270730,
+          "end_ms": 6277120,
+          "speaker": "speaker 2",
+          "text": "arrow off hard and fast.I even have a sound for"
+        },
+        {
+          "cue_id": 972,
+          "start_ms": 6277170,
+          "end_ms": 6283970,
+          "speaker": "speaker 2",
+          "text": "it.Here we go.It takes him in the back of the head"
+        }
+      ]
+    },
+    "weather": {
+      "parakeet": [
+        {
+          "cue_id": 1840,
+          "start_ms": 6692380,
+          "end_ms": 6696020,
+          "speaker": "speaker 2",
+          "text": "hand upon your body in addition to all of that"
+        },
+        {
+          "cue_id": 1841,
+          "start_ms": 6696520,
+          "end_ms": 6701380,
+          "speaker": "speaker 2",
+          "text": "you see in the sky a large crack of blue and"
+        },
+        {
+          "cue_id": 1842,
+          "start_ms": 6701381,
+          "end_ms": 6704980,
+          "speaker": "speaker 2",
+          "text": "white in the distance from the northwest there's"
+        },
+        {
+          "cue_id": 1843,
+          "start_ms": 6704981,
+          "end_ms": 6707940,
+          "speaker": "speaker 2",
+          "text": "a large blue and white crack in the sky from a"
+        },
+        {
+          "cue_id": 1844,
+          "start_ms": 6707941,
+          "end_ms": 6711140,
+          "speaker": "speaker 2",
+          "text": "point where if you had to guess is originating."
+        },
+        {
+          "cue_id": 1845,
+          "start_ms": 6711990,
+          "end_ms": 6714900,
+          "speaker": "speaker 2",
+          "text": "from somewhere past razak val and the daemon vold."
+        },
+        {
+          "cue_id": 1846,
+          "start_ms": 6716870,
+          "end_ms": 6720740,
+          "speaker": "speaker 2",
+          "text": "and then as you step outside one of the things"
+        },
+        {
+          "cue_id": 1847,
+          "start_ms": 6720741,
+          "end_ms": 6723700,
+          "speaker": "speaker 2",
+          "text": "you notice is that like at first you were taken"
+        },
+        {
+          "cue_id": 1848,
+          "start_ms": 6723701,
+          "end_ms": 6726820,
+          "speaker": "speaker 2",
+          "text": "aback by the fact that you could see sun and feel its warmth"
+        },
+        {
+          "cue_id": 1849,
+          "start_ms": 6727060,
+          "end_ms": 6729840,
+          "speaker": "speaker 2",
+          "text": "but no sooner do you see that and see that the"
+        },
+        {
+          "cue_id": 1850,
+          "start_ms": 6729890,
+          "end_ms": 6733440,
+          "speaker": "speaker 2",
+          "text": "clear sky in the distance that also to the west a"
+        },
+        {
+          "cue_id": 1851,
+          "start_ms": 6733441,
+          "end_ms": 6739680,
+          "speaker": "speaker 2",
+          "text": "large front of storm clouds are rolling in and"
+        },
+        {
+          "cue_id": 1852,
+          "start_ms": 6739681,
+          "end_ms": 6742000,
+          "speaker": "speaker 2",
+          "text": "nothing you've seen in the desert before just"
+        },
+        {
+          "cue_id": 1853,
+          "start_ms": 6742240,
+          "end_ms": 6745760,
+          "speaker": "speaker 2",
+          "text": "large large nimbus clouds purple on the bottom"
+        },
+        {
+          "cue_id": 1854,
+          "start_ms": 6745761,
+          "end_ms": 6749520,
+          "speaker": "speaker 2",
+          "text": "light white on top and they're rolling in from."
+        },
+        {
+          "cue_id": 1855,
+          "start_ms": 6754240,
+          "end_ms": 6759840,
+          "speaker": "speaker 2",
+          "text": "the west well yeah it sure is a sight to see says"
+        }
+      ],
+      "qwen": [
+        {
+          "cue_id": 3249,
+          "start_ms": 6691085,
+          "end_ms": 6693000,
+          "speaker": "speaker 2",
+          "text": "since placing the hand upon your body."
+        },
+        {
+          "cue_id": 3250,
+          "start_ms": 6694315,
+          "end_ms": 6698120,
+          "speaker": "speaker 2",
+          "text": "In addition to all of that, you see in the sky a"
+        },
+        {
+          "cue_id": 3251,
+          "start_ms": 6698280,
+          "end_ms": 6702440,
+          "speaker": "speaker 2",
+          "text": "large crack of blue and white in the distance"
+        },
+        {
+          "cue_id": 3252,
+          "start_ms": 6702605,
+          "end_ms": 6703800,
+          "speaker": "speaker 2",
+          "text": "from the northwest."
+        },
+        {
+          "cue_id": 3253,
+          "start_ms": 6704910,
+          "end_ms": 6707160,
+          "speaker": "speaker 2",
+          "text": "There's a large blue and white crack in the sky"
+        },
+        {
+          "cue_id": 3254,
+          "start_ms": 6707435,
+          "end_ms": 6710280,
+          "speaker": "speaker 2",
+          "text": "from a point where, if you had to guess, is"
+        },
+        {
+          "cue_id": 3255,
+          "start_ms": 6710440,
+          "end_ms": 6713720,
+          "speaker": "speaker 2",
+          "text": "originating from somewhere past Razak Vale and"
+        },
+        {
+          "cue_id": 3256,
+          "start_ms": 6713720,
+          "end_ms": 6714600,
+          "speaker": "speaker 2",
+          "text": "the Daemonfold."
+        },
+        {
+          "cue_id": 3257,
+          "start_ms": 6716870,
+          "end_ms": 6720580,
+          "speaker": "speaker 2",
+          "text": "And then, as you step outside, one of the things"
+        },
+        {
+          "cue_id": 3258,
+          "start_ms": 6720660,
+          "end_ms": 6723700,
+          "speaker": "speaker 2",
+          "text": "you notice is that, like at first, you were taken"
+        },
+        {
+          "cue_id": 3259,
+          "start_ms": 6723780,
+          "end_ms": 6725700,
+          "speaker": "speaker 2",
+          "text": "aback by the fact that you could see sun and feel"
+        },
+        {
+          "cue_id": 3260,
+          "start_ms": 6725860,
+          "end_ms": 6726420,
+          "speaker": "speaker 2",
+          "text": "its warmth."
+        },
+        {
+          "cue_id": 3261,
+          "start_ms": 6727065,
+          "end_ms": 6729780,
+          "speaker": "speaker 2",
+          "text": "But no sooner do you see that and see that the"
+        },
+        {
+          "cue_id": 3262,
+          "start_ms": 6729910,
+          "end_ms": 6732820,
+          "speaker": "speaker 2",
+          "text": "clear sky in the distance, that also to the west,"
+        },
+        {
+          "cue_id": 3263,
+          "start_ms": 6733220,
+          "end_ms": 6739460,
+          "speaker": "speaker 2",
+          "text": "a large front of storm clouds are rolling in, and"
+        },
+        {
+          "cue_id": 3264,
+          "start_ms": 6739540,
+          "end_ms": 6740660,
+          "speaker": "speaker 2",
+          "text": "nothing you've seen in the desert."
+        },
+        {
+          "cue_id": 3265,
+          "start_ms": 6741120,
+          "end_ms": 6745060,
+          "speaker": "speaker 2",
+          "text": "Before, just large, large nimbus clouds, purple on"
+        },
+        {
+          "cue_id": 3266,
+          "start_ms": 6745140,
+          "end_ms": 6747940,
+          "speaker": "speaker 2",
+          "text": "the bottom, light white on top, and they're"
+        },
+        {
+          "cue_id": 3267,
+          "start_ms": 6748020,
+          "end_ms": 6749940,
+          "speaker": "speaker 2",
+          "text": "rolling in from the west."
+        },
+        {
+          "cue_id": 3268,
+          "start_ms": 6754260,
+          "end_ms": 6759940,
+          "speaker": "speaker 2",
+          "text": "Well, yep, it sure is a sight to see,\" says"
+        }
+      ],
+      "ark": [
+        {
+          "cue_id": 1053,
+          "start_ms": 6795570,
+          "end_ms": 6802050,
+          "speaker": "speaker 2",
+          "text": "see that you're in tiat kalab the tiat kalab sun"
+        },
+        {
+          "cue_id": 1054,
+          "start_ms": 6802100,
+          "end_ms": 6808910,
+          "speaker": "speaker 2",
+          "text": "bears down upon you and you see the familiar smell"
+        },
+        {
+          "cue_id": 1055,
+          "start_ms": 6811060,
+          "end_ms": 6815490,
+          "speaker": "speaker 2",
+          "text": "and humid sight of sand everywhere and mountains"
+        },
+        {
+          "cue_id": 1056,
+          "start_ms": 6815490,
+          "end_ms": 6822070,
+          "speaker": "speaker 2",
+          "text": "in the background and the heat pouring down upon"
+        },
+        {
+          "cue_id": 1057,
+          "start_ms": 6822070,
+          "end_ms": 6828920,
+          "speaker": "speaker 2",
+          "text": "you and it's the first time that you felt any heat"
+        },
+        {
+          "cue_id": 1058,
+          "start_ms": 6828920,
+          "end_ms": 6835640,
+          "speaker": "speaker 2",
+          "text": "at all since adorning the hand the sun warms your"
+        },
+        {
+          "cue_id": 1059,
+          "start_ms": 6836040,
+          "end_ms": 6842360,
+          "speaker": "speaker 2",
+          "text": "skin.Um in addition to all of that you see in the"
+        },
+        {
+          "cue_id": 1060,
+          "start_ms": 6842460,
+          "end_ms": 6848120,
+          "speaker": "speaker 2",
+          "text": "sky a large crack of blue and white in the"
+        },
+        {
+          "cue_id": 1061,
+          "start_ms": 6848345,
+          "end_ms": 6854700,
+          "speaker": "speaker 2",
+          "text": "distance from the northwest.There's a large blue"
+        },
+        {
+          "cue_id": 1062,
+          "start_ms": 6854700,
+          "end_ms": 6861280,
+          "speaker": "speaker 2",
+          "text": "and white crack in the sky from a point where if"
+        },
+        {
+          "cue_id": 1063,
+          "start_ms": 6861280,
+          "end_ms": 6867580,
+          "speaker": "speaker 2",
+          "text": "you had to guess is originating from somewhere"
+        },
+        {
+          "cue_id": 1064,
+          "start_ms": 6867580,
+          "end_ms": 6874440,
+          "speaker": "speaker 2",
+          "text": "past razek val and the day and vol and then as you"
+        },
+        {
+          "cue_id": 1065,
+          "start_ms": 6874440,
+          "end_ms": 6880880,
+          "speaker": "speaker 2",
+          "text": "step outside.Well yep it sure is a sight to see"
+        },
+        {
+          "cue_id": 1066,
+          "start_ms": 6880880,
+          "end_ms": 6887460,
+          "speaker": "speaker 2",
+          "text": "says jimster from the garage to the left.Jimster"
+        },
+        {
+          "cue_id": 1067,
+          "start_ms": 6887510,
+          "end_ms": 6894180,
+          "speaker": "speaker 2",
+          "text": "you didn't tell me you were coming back or i'd uh"
+        },
+        {
+          "cue_id": 1068,
+          "start_ms": 6894180,
+          "end_ms": 6900900,
+          "speaker": "speaker 2",
+          "text": "made you some dinner.It's it's good what happened"
+        }
+      ]
+    },
+    "ending": {
+      "parakeet": [
+        {
+          "cue_id": 2585,
+          "start_ms": 9662029,
+          "end_ms": 9664390,
+          "speaker": "speaker 2",
+          "text": "orders at the orcs as ships fly all around"
+        },
+        {
+          "cue_id": 2586,
+          "start_ms": 9664550,
+          "end_ms": 9669910,
+          "speaker": "speaker 2",
+          "text": "replease refer to the battle map for the battle"
+        },
+        {
+          "cue_id": 2587,
+          "start_ms": 9669911,
+          "end_ms": 9673430,
+          "speaker": "speaker 2",
+          "text": "that's going to happen next week but before we"
+        },
+        {
+          "cue_id": 2588,
+          "start_ms": 9673431,
+          "end_ms": 9676710,
+          "speaker": "speaker 2",
+          "text": "leave for this week the ships come flying all"
+        },
+        {
+          "cue_id": 2589,
+          "start_ms": 9676711,
+          "end_ms": 9682150,
+          "speaker": "speaker 2",
+          "text": "around your airship and then someone at the back"
+        },
+        {
+          "cue_id": 2590,
+          "start_ms": 9682151,
+          "end_ms": 9686390,
+          "speaker": "speaker 2",
+          "text": "of the ship says admiral there's something on our"
+        },
+        {
+          "cue_id": 2591,
+          "start_ms": 9686391,
+          "end_ms": 9689270,
+          "speaker": "speaker 2",
+          "text": "tail and then you guys run to the back of the"
+        },
+        {
+          "cue_id": 2592,
+          "start_ms": 9689271,
+          "end_ms": 9691590,
+          "speaker": "speaker 2",
+          "text": "ship to look at what's in the back of the tail"
+        },
+        {
+          "cue_id": 2593,
+          "start_ms": 9691980,
+          "end_ms": 9698250,
+          "speaker": "speaker 2",
+          "text": "and let me just show it to you to the token there"
+        },
+        {
+          "cue_id": 2594,
+          "start_ms": 9698395,
+          "end_ms": 9704650,
+          "speaker": "speaker 2",
+          "text": "giant spaceship with two three saucers all attached together in two giant guns appears"
+        },
+        {
+          "cue_id": 2595,
+          "start_ms": 9704651,
+          "end_ms": 9708890,
+          "speaker": "speaker 2",
+          "text": "behind the airship from cloak and begins lighting"
+        },
+        {
+          "cue_id": 2596,
+          "start_ms": 9709064,
+          "end_ms": 9714410,
+          "speaker": "speaker 2",
+          "text": "up the airship there's laser light fires all"
+        },
+        {
+          "cue_id": 2597,
+          "start_ms": 9714411,
+          "end_ms": 9718010,
+          "speaker": "speaker 2",
+          "text": "around the airship and everyone jumps for cover."
+        },
+        {
+          "cue_id": 2598,
+          "start_ms": 9719739,
+          "end_ms": 9724010,
+          "speaker": "speaker 2",
+          "text": "and tons of tons of ufos come careening towards your airship."
+        },
+        {
+          "cue_id": 2599,
+          "start_ms": 9725269,
+          "end_ms": 9726547,
+          "speaker": "speaker 0",
+          "text": "my lord will."
+        },
+        {
+          "cue_id": 2600,
+          "start_ms": 9726571,
+          "end_ms": 9729210,
+          "speaker": "speaker 2",
+          "text": "you survive let's find out next week oh no will be"
+        },
+        {
+          "cue_id": 2601,
+          "start_ms": 9729370,
+          "end_ms": 9729986,
+          "speaker": "speaker 2",
+          "text": "done."
+        },
+        {
+          "cue_id": 2602,
+          "start_ms": 9730010,
+          "end_ms": 9733370,
+          "speaker": "speaker 6",
+          "text": "oh man that's a hell of a hanger hang on there"
+        },
+        {
+          "cue_id": 2603,
+          "start_ms": 9733371,
+          "end_ms": 9735930,
+          "speaker": "speaker 6",
+          "text": "what's it called stuff hanger as a hell of a"
+        },
+        {
+          "cue_id": 2604,
+          "start_ms": 9735931,
+          "end_ms": 9739130,
+          "speaker": "speaker 6",
+          "text": "cliff on hanging on hangnale a hangnail it's a hell of the hell."
+        },
+        {
+          "cue_id": 2605,
+          "start_ms": 9739210,
+          "end_ms": 9740210,
+          "speaker": "speaker 2",
+          "text": "hangna good job."
+        },
+        {
+          "cue_id": 2606,
+          "start_ms": 9740525,
+          "end_ms": 9743690,
+          "speaker": "speaker 6",
+          "text": "wow all right well there you there you have it"
+        },
+        {
+          "cue_id": 2607,
+          "start_ms": 9743691,
+          "end_ms": 9745826,
+          "speaker": "speaker 6",
+          "text": "holy crap okay i don't even know what to make the rest."
+        },
+        {
+          "cue_id": 2608,
+          "start_ms": 9745850,
+          "end_ms": 9746850,
+          "speaker": "speaker 2",
+          "text": "of the flying saucers."
+        },
+        {
+          "cue_id": 2609,
+          "start_ms": 9747610,
+          "end_ms": 9750970,
+          "speaker": "speaker 6",
+          "text": "do there we still can't have stuff to say about."
+        },
+        {
+          "cue_id": 2610,
+          "start_ms": 9751819,
+          "end_ms": 9753130,
+          "speaker": "speaker 6",
+          "text": "this because even if we get attacked what do we"
+        },
+        {
+          "cue_id": 2611,
+          "start_ms": 9753131,
+          "end_ms": 9755450,
+          "speaker": "speaker 6",
+          "text": "do it's still coming at us doesn't matter this."
+        },
+        {
+          "cue_id": 2612,
+          "start_ms": 9755610,
+          "end_ms": 9758250,
+          "speaker": "speaker 3",
+          "text": "is your fault did this to us."
+        },
+        {
+          "cue_id": 2613,
+          "start_ms": 9758490,
+          "end_ms": 9761530,
+          "speaker": "speaker 2",
+          "text": "i will say this there's a way to solve this fight"
+        },
+        {
+          "cue_id": 2614,
+          "start_ms": 9761531,
+          "end_ms": 9764730,
+          "speaker": "speaker 2",
+          "text": "and save the entire thing with this battle is a way."
+        },
+        {
+          "cue_id": 2615,
+          "start_ms": 9765290,
+          "end_ms": 9768010,
+          "speaker": "speaker 3",
+          "text": "we'd be back into college wouldn't for you your"
+        },
+        {
+          "cue_id": 2616,
+          "start_ms": 9768244,
+          "end_ms": 9769290,
+          "speaker": "speaker 3",
+          "text": "friggin magic."
+        },
+        {
+          "cue_id": 2617,
+          "start_ms": 9769340,
+          "end_ms": 9772330,
+          "speaker": "speaker 6",
+          "text": "i mean it's a fair point okay i can't blame you"
+        },
+        {
+          "cue_id": 2618,
+          "start_ms": 9772331,
+          "end_ms": 9774570,
+          "speaker": "speaker 6",
+          "text": "for saying it all right well you'll have to find"
+        },
+        {
+          "cue_id": 2619,
+          "start_ms": 9774571,
+          "end_ms": 9776970,
+          "speaker": "speaker 6",
+          "text": "out next week on there will be dungeons when we"
+        },
+        {
+          "cue_id": 2620,
+          "start_ms": 9777130,
+          "end_ms": 9777776,
+          "speaker": "speaker 6",
+          "text": "will"
+        },
+        {
+          "cue_id": 2621,
+          "start_ms": 9777800,
+          "end_ms": 9781030,
+          "speaker": "speaker 6",
+          "text": "see how this resolves and we'll see how it goes"
+        },
+        {
+          "cue_id": 2622,
+          "start_ms": 9781279,
+          "end_ms": 9784070,
+          "speaker": "speaker 6",
+          "text": "with not only us but our weird demon demonic"
+        },
+        {
+          "cue_id": 2623,
+          "start_ms": 9784071,
+          "end_ms": 9785865,
+          "speaker": "speaker 6",
+          "text": "friends that are hanging with hope all this and"
+        },
+        {
+          "cue_id": 2624,
+          "start_ms": 9785889,
+          "end_ms": 9787510,
+          "speaker": "speaker 6",
+          "text": "more next week on there will be dungeons in the"
+        },
+        {
+          "cue_id": 2625,
+          "start_ms": 9787511,
+          "end_ms": 9789990,
+          "speaker": "speaker 6",
+          "text": "meantime please join our dungeons plus program"
+        },
+        {
+          "cue_id": 2626,
+          "start_ms": 9790139,
+          "end_ms": 9791990,
+          "speaker": "speaker 6",
+          "text": "which gives you all kinds of rad stuff for the"
+        },
+        {
+          "cue_id": 2627,
+          "start_ms": 9792489,
+          "end_ms": 9794289,
+          "speaker": "speaker 6",
+          "text": "month including a monthly bonus show which you"
+        },
+        {
+          "cue_id": 2628,
+          "start_ms": 9794539,
+          "end_ms": 9797750,
+          "speaker": "speaker 6",
+          "text": "get at the end of this month or early next and we"
+        },
+        {
+          "cue_id": 2629,
+          "start_ms": 9797751,
+          "end_ms": 9799505,
+          "speaker": "speaker 6",
+          "text": "love doing that and that's the only way you can"
+        },
+        {
+          "cue_id": 2630,
+          "start_ms": 9799529,
+          "end_ms": 9802230,
+          "speaker": "speaker 6",
+          "text": "get it so head on over to there will be dungeons"
+        },
+        {
+          "cue_id": 2631,
+          "start_ms": 9802279,
+          "end_ms": 9804470,
+          "speaker": "speaker 6",
+          "text": "dot com and check out all the details it's all"
+        },
+        {
+          "cue_id": 2632,
+          "start_ms": 9804471,
+          "end_ms": 9806710,
+          "speaker": "speaker 6",
+          "text": "right there and it's super easy to get into and"
+        },
+        {
+          "cue_id": 2633,
+          "start_ms": 9806711,
+          "end_ms": 9810150,
+          "speaker": "speaker 6",
+          "text": "thank you to everyone who does already support us"
+        },
+        {
+          "cue_id": 2634,
+          "start_ms": 9810599,
+          "end_ms": 9813510,
+          "speaker": "speaker 6",
+          "text": "there that is going to do it for us today for me"
+        },
+        {
+          "cue_id": 2635,
+          "start_ms": 9814070,
+          "end_ms": 9818070,
+          "speaker": "speaker 6",
+          "text": "for John for Beau Kristen for Kyle and for baby."
+        },
+        {
+          "cue_id": 2636,
+          "start_ms": 9830470,
+          "end_ms": 9837521,
+          "speaker": "speaker 6",
+          "text": "chunks today we'll see you next time this"
+        },
+        {
+          "cue_id": 2637,
+          "start_ms": 9837522,
+          "end_ms": 9840790,
+          "speaker": "speaker 6",
+          "text": "show is part of the frog pants network here."
+        },
+        {
+          "cue_id": 2638,
+          "start_ms": 9841670,
+          "end_ms": 9843750,
+          "speaker": "speaker 4",
+          "text": "get more at frog pants dot go."
+        },
+        {
+          "cue_id": 2639,
+          "start_ms": 9851510,
+          "end_ms": 9852950,
+          "speaker": "speaker 2",
+          "text": "awesome show today you guys."
+        }
+      ],
+      "qwen": [
+        {
+          "cue_id": 4463,
+          "start_ms": 9660315,
+          "end_ms": 9662900,
+          "speaker": "speaker 2",
+          "text": "Top and he begins echoing orders at the orcs as"
+        },
+        {
+          "cue_id": 4464,
+          "start_ms": 9663159,
+          "end_ms": 9664180,
+          "speaker": "speaker 2",
+          "text": "ships fly all around."
+        },
+        {
+          "cue_id": 4465,
+          "start_ms": 9664745,
+          "end_ms": 9669620,
+          "speaker": "speaker 2",
+          "text": "Please refer to the battle map for the battle"
+        },
+        {
+          "cue_id": 4466,
+          "start_ms": 9669860,
+          "end_ms": 9671460,
+          "speaker": "speaker 2",
+          "text": "that's going to happen next week."
+        },
+        {
+          "cue_id": 4467,
+          "start_ms": 9672510,
+          "end_ms": 9675780,
+          "speaker": "speaker 2",
+          "text": "But before we leave for this week, the ships come"
+        },
+        {
+          "cue_id": 4468,
+          "start_ms": 9675940,
+          "end_ms": 9681300,
+          "speaker": "speaker 2",
+          "text": "flying all around your airship, and then someone"
+        },
+        {
+          "cue_id": 4469,
+          "start_ms": 9681750,
+          "end_ms": 9685060,
+          "speaker": "speaker 2",
+          "text": "at the back of the ship says,\" Admiral, there's"
+        },
+        {
+          "cue_id": 4470,
+          "start_ms": 9685220,
+          "end_ms": 9688580,
+          "speaker": "speaker 2",
+          "text": "something on our tail.\" And then you guys run to"
+        },
+        {
+          "cue_id": 4471,
+          "start_ms": 9688660,
+          "end_ms": 9689300,
+          "speaker": "speaker 2",
+          "text": "the back of the ship."
+        },
+        {
+          "cue_id": 4472,
+          "start_ms": 9689639,
+          "end_ms": 9692600,
+          "speaker": "speaker 2",
+          "text": "To look at what's in the back of the tail, and let"
+        },
+        {
+          "cue_id": 4473,
+          "start_ms": 9693079,
+          "end_ms": 9694120,
+          "speaker": "speaker 2",
+          "text": "me just show it to you."
+        },
+        {
+          "cue_id": 4474,
+          "start_ms": 9696730,
+          "end_ms": 9700040,
+          "speaker": "speaker 2",
+          "text": "To the token there, a giant spaceship with two,"
+        },
+        {
+          "cue_id": 4475,
+          "start_ms": 9700539,
+          "end_ms": 9702840,
+          "speaker": "speaker 2",
+          "text": "like three saucers, all attached together, and"
+        },
+        {
+          "cue_id": 4476,
+          "start_ms": 9702920,
+          "end_ms": 9706920,
+          "speaker": "speaker 2",
+          "text": "two giant guns appears behind the airship from"
+        },
+        {
+          "cue_id": 4477,
+          "start_ms": 9707080,
+          "end_ms": 9709560,
+          "speaker": "speaker 2",
+          "text": "cloak, and begins lighting up the airship."
+        },
+        {
+          "cue_id": 4478,
+          "start_ms": 9713000,
+          "end_ms": 9716520,
+          "speaker": "speaker 2",
+          "text": "His laser light fires all around the airship, and"
+        },
+        {
+          "cue_id": 4479,
+          "start_ms": 9716600,
+          "end_ms": 9717640,
+          "speaker": "speaker 2",
+          "text": "everyone jumps for cover."
+        },
+        {
+          "cue_id": 4480,
+          "start_ms": 9719760,
+          "end_ms": 9723360,
+          "speaker": "speaker 2",
+          "text": "And tons of tons of UFOs come careening towards"
+        },
+        {
+          "cue_id": 4481,
+          "start_ms": 9723440,
+          "end_ms": 9723920,
+          "speaker": "speaker 2",
+          "text": "your airship."
+        },
+        {
+          "cue_id": 4482,
+          "start_ms": 9725239,
+          "end_ms": 9726480,
+          "speaker": "speaker 0",
+          "text": "My lord, will"
+        },
+        {
+          "cue_id": 4483,
+          "start_ms": 9726640,
+          "end_ms": 9727040,
+          "speaker": "speaker 2",
+          "text": "you survive?"
+        },
+        {
+          "cue_id": 4484,
+          "start_ms": 9727360,
+          "end_ms": 9728320,
+          "speaker": "speaker 2",
+          "text": "Let's find out next week."
+        },
+        {
+          "cue_id": 4485,
+          "start_ms": 9728529,
+          "end_ms": 9729760,
+          "speaker": "speaker 2",
+          "text": "Our narrow be dungeon."
+        },
+        {
+          "cue_id": 4486,
+          "start_ms": 9730080,
+          "end_ms": 9732080,
+          "speaker": "speaker 6",
+          "text": "Oh man, that's a hell of a hanger."
+        },
+        {
+          "cue_id": 4487,
+          "start_ms": 9732720,
+          "end_ms": 9733200,
+          "speaker": "speaker 6",
+          "text": "Hang on there."
+        },
+        {
+          "cue_id": 4488,
+          "start_ms": 9733360,
+          "end_ms": 9733840,
+          "speaker": "speaker 6",
+          "text": "What's it called?"
+        },
+        {
+          "cue_id": 4489,
+          "start_ms": 9733955,
+          "end_ms": 9734720,
+          "speaker": "speaker 6",
+          "text": "Cliff hanger."
+        },
+        {
+          "cue_id": 4490,
+          "start_ms": 9735079,
+          "end_ms": 9736880,
+          "speaker": "speaker 6",
+          "text": "That's a hell of a cliff on hanging on."
+        },
+        {
+          "cue_id": 4491,
+          "start_ms": 9737040,
+          "end_ms": 9737440,
+          "speaker": "speaker 6",
+          "text": "Hang nail."
+        },
+        {
+          "cue_id": 4492,
+          "start_ms": 9737600,
+          "end_ms": 9738000,
+          "speaker": "speaker 6",
+          "text": "Hang nail."
+        },
+        {
+          "cue_id": 4493,
+          "start_ms": 9738000,
+          "end_ms": 9738880,
+          "speaker": "speaker 6",
+          "text": "It's a hell of a hang nail."
+        },
+        {
+          "cue_id": 4494,
+          "start_ms": 9738880,
+          "end_ms": 9739120,
+          "speaker": "speaker 6",
+          "text": "Hell"
+        },
+        {
+          "cue_id": 4495,
+          "start_ms": 9739280,
+          "end_ms": 9739840,
+          "speaker": "speaker 2",
+          "text": "of a hang nail."
+        },
+        {
+          "cue_id": 4496,
+          "start_ms": 9739920,
+          "end_ms": 9740560,
+          "speaker": "speaker 2",
+          "text": "Good job, guys."
+        },
+        {
+          "cue_id": 4497,
+          "start_ms": 9740720,
+          "end_ms": 9740800,
+          "speaker": "speaker 6",
+          "text": "Wow."
+        },
+        {
+          "cue_id": 4498,
+          "start_ms": 9741200,
+          "end_ms": 9741440,
+          "speaker": "speaker 6",
+          "text": "All right."
+        },
+        {
+          "cue_id": 4499,
+          "start_ms": 9742160,
+          "end_ms": 9743440,
+          "speaker": "speaker 6",
+          "text": "Well, there you there you have it."
+        },
+        {
+          "cue_id": 4500,
+          "start_ms": 9743520,
+          "end_ms": 9744080,
+          "speaker": "speaker 6",
+          "text": "Holy crap."
+        },
+        {
+          "cue_id": 4501,
+          "start_ms": 9744160,
+          "end_ms": 9744240,
+          "speaker": "speaker 6",
+          "text": "Okay."
+        },
+        {
+          "cue_id": 4502,
+          "start_ms": 9744320,
+          "end_ms": 9745760,
+          "speaker": "speaker 6",
+          "text": "I don't even know what to make of"
+        },
+        {
+          "cue_id": 4503,
+          "start_ms": 9745760,
+          "end_ms": 9746720,
+          "speaker": "speaker 2",
+          "text": "the rest of the flying saucers."
+        },
+        {
+          "cue_id": 4504,
+          "start_ms": 9746720,
+          "end_ms": 9746800,
+          "speaker": "speaker 2",
+          "text": "I"
+        },
+        {
+          "cue_id": 4505,
+          "start_ms": 9746800,
+          "end_ms": 9747840,
+          "speaker": "speaker 6",
+          "text": "don't know what we're gonna do there."
+        },
+        {
+          "cue_id": 4506,
+          "start_ms": 9748460,
+          "end_ms": 9749020,
+          "speaker": "speaker 6",
+          "text": "We still can't."
+        },
+        {
+          "cue_id": 4507,
+          "start_ms": 9749140,
+          "end_ms": 9750940,
+          "speaker": "speaker 6",
+          "text": "Oh, I have stuff to say about this."
+        },
+        {
+          "cue_id": 4508,
+          "start_ms": 9751829,
+          "end_ms": 9753180,
+          "speaker": "speaker 6",
+          "text": "Because even if we get attacked, what do we do?"
+        },
+        {
+          "cue_id": 4509,
+          "start_ms": 9753260,
+          "end_ms": 9754060,
+          "speaker": "speaker 6",
+          "text": "It's still coming at us."
+        },
+        {
+          "cue_id": 4510,
+          "start_ms": 9754140,
+          "end_ms": 9754780,
+          "speaker": "speaker 6",
+          "text": "It doesn't matter."
+        },
+        {
+          "cue_id": 4511,
+          "start_ms": 9755340,
+          "end_ms": 9755420,
+          "speaker": "speaker 6",
+          "text": "This"
+        },
+        {
+          "cue_id": 4512,
+          "start_ms": 9755500,
+          "end_ms": 9756220,
+          "speaker": "speaker 3",
+          "text": "is your fault."
+        },
+        {
+          "cue_id": 4513,
+          "start_ms": 9757340,
+          "end_ms": 9758060,
+          "speaker": "speaker 3",
+          "text": "You did this to us."
+        },
+        {
+          "cue_id": 4514,
+          "start_ms": 9758620,
+          "end_ms": 9761260,
+          "speaker": "speaker 2",
+          "text": "I will say this: there's a way to solve this fight"
+        },
+        {
+          "cue_id": 4515,
+          "start_ms": 9761455,
+          "end_ms": 9764140,
+          "speaker": "speaker 2",
+          "text": "and save the entire thing with this battle."
+        },
+        {
+          "cue_id": 4516,
+          "start_ms": 9764140,
+          "end_ms": 9764540,
+          "speaker": "speaker 2",
+          "text": "There is a way."
+        },
+        {
+          "cue_id": 4517,
+          "start_ms": 9765315,
+          "end_ms": 9768700,
+          "speaker": "speaker 3",
+          "text": "We'd be back in Tiat Caliph when you your friggin'"
+        },
+        {
+          "cue_id": 4518,
+          "start_ms": 9768780,
+          "end_ms": 9769020,
+          "speaker": "speaker 3",
+          "text": "magic."
+        },
+        {
+          "cue_id": 4519,
+          "start_ms": 9769340,
+          "end_ms": 9770380,
+          "speaker": "speaker 6",
+          "text": "I mean, it's a fair point."
+        },
+        {
+          "cue_id": 4520,
+          "start_ms": 9770620,
+          "end_ms": 9771100,
+          "speaker": "speaker 6",
+          "text": "I can't."
+        },
+        {
+          "cue_id": 4521,
+          "start_ms": 9771619,
+          "end_ms": 9772620,
+          "speaker": "speaker 6",
+          "text": "I can't blame you for saying it."
+        },
+        {
+          "cue_id": 4522,
+          "start_ms": 9773160,
+          "end_ms": 9773480,
+          "speaker": "speaker 6",
+          "text": "All right."
+        },
+        {
+          "cue_id": 4523,
+          "start_ms": 9773640,
+          "end_ms": 9775400,
+          "speaker": "speaker 6",
+          "text": "Well, you'll have to find out next week on there"
+        },
+        {
+          "cue_id": 4524,
+          "start_ms": 9775560,
+          "end_ms": 9778280,
+          "speaker": "speaker 6",
+          "text": "will be dungeons when we will see how this"
+        },
+        {
+          "cue_id": 4525,
+          "start_ms": 9778440,
+          "end_ms": 9781640,
+          "speaker": "speaker 6",
+          "text": "resolves, and we'll see how it goes with not only"
+        },
+        {
+          "cue_id": 4526,
+          "start_ms": 9781999,
+          "end_ms": 9784360,
+          "speaker": "speaker 6",
+          "text": "us but our weird demon demonic friends that are"
+        },
+        {
+          "cue_id": 4527,
+          "start_ms": 9784440,
+          "end_ms": 9784840,
+          "speaker": "speaker 6",
+          "text": "hanging with hope."
+        },
+        {
+          "cue_id": 4528,
+          "start_ms": 9785160,
+          "end_ms": 9786920,
+          "speaker": "speaker 6",
+          "text": "All this and more next week on there will be"
+        },
+        {
+          "cue_id": 4529,
+          "start_ms": 9786920,
+          "end_ms": 9787240,
+          "speaker": "speaker 6",
+          "text": "dungeons."
+        },
+        {
+          "cue_id": 4530,
+          "start_ms": 9787320,
+          "end_ms": 9789240,
+          "speaker": "speaker 6",
+          "text": "In the meantime, please join our Dungeons Plus"
+        },
+        {
+          "cue_id": 4531,
+          "start_ms": 9789280,
+          "end_ms": 9791720,
+          "speaker": "speaker 6",
+          "text": "program, which gives you all kinds of rad stuff"
+        },
+        {
+          "cue_id": 4532,
+          "start_ms": 9791800,
+          "end_ms": 9793960,
+          "speaker": "speaker 6",
+          "text": "for the month, including a monthly bonus show,"
+        },
+        {
+          "cue_id": 4533,
+          "start_ms": 9794040,
+          "end_ms": 9796040,
+          "speaker": "speaker 6",
+          "text": "which you'll get at the end of this month or"
+        },
+        {
+          "cue_id": 4534,
+          "start_ms": 9796280,
+          "end_ms": 9796680,
+          "speaker": "speaker 6",
+          "text": "early next."
+        },
+        {
+          "cue_id": 4535,
+          "start_ms": 9796930,
+          "end_ms": 9799080,
+          "speaker": "speaker 6",
+          "text": "And we love doing that, and that's the only way"
+        },
+        {
+          "cue_id": 4536,
+          "start_ms": 9799160,
+          "end_ms": 9799560,
+          "speaker": "speaker 6",
+          "text": "you can get it."
+        },
+        {
+          "cue_id": 4537,
+          "start_ms": 9799640,
+          "end_ms": 9800280,
+          "speaker": "speaker 6",
+          "text": "So head on over."
+        },
+        {
+          "cue_id": 4538,
+          "start_ms": 9800760,
+          "end_ms": 9802040,
+          "speaker": "speaker 6",
+          "text": "To therewillbedungeons."
+        },
+        {
+          "cue_id": 4539,
+          "start_ms": 9802939,
+          "end_ms": 9803960,
+          "speaker": "speaker 6",
+          "text": "com, and check out all the details."
+        },
+        {
+          "cue_id": 4540,
+          "start_ms": 9804120,
+          "end_ms": 9805800,
+          "speaker": "speaker 6",
+          "text": "It's all right there, and it's super easy to get"
+        },
+        {
+          "cue_id": 4541,
+          "start_ms": 9805960,
+          "end_ms": 9806040,
+          "speaker": "speaker 6",
+          "text": "into."
+        },
+        {
+          "cue_id": 4542,
+          "start_ms": 9806669,
+          "end_ms": 9809320,
+          "speaker": "speaker 6",
+          "text": "And thank you to everyone who does already"
+        },
+        {
+          "cue_id": 4543,
+          "start_ms": 9809560,
+          "end_ms": 9810200,
+          "speaker": "speaker 6",
+          "text": "support us there."
+        },
+        {
+          "cue_id": 4544,
+          "start_ms": 9810585,
+          "end_ms": 9814280,
+          "speaker": "speaker 6",
+          "text": "That is going to do it for us today, for me, for"
+        },
+        {
+          "cue_id": 4545,
+          "start_ms": 9814550,
+          "end_ms": 9817720,
+          "speaker": "speaker 6",
+          "text": "John, for Bo, for Kristen, for Kyle, and for"
+        },
+        {
+          "cue_id": 4546,
+          "start_ms": 9817800,
+          "end_ms": 9818760,
+          "speaker": "speaker 6",
+          "text": "BabyChunks today."
+        },
+        {
+          "cue_id": 4547,
+          "start_ms": 9820040,
+          "end_ms": 9821000,
+          "speaker": "speaker 6",
+          "text": "We'll see you next time."
+        },
+        {
+          "cue_id": 4548,
+          "start_ms": 9837720,
+          "end_ms": 9840040,
+          "speaker": "speaker 4",
+          "text": "This show is part of the Frog Pants Network."
+        },
+        {
+          "cue_id": 4549,
+          "start_ms": 9840600,
+          "end_ms": 9843080,
+          "speaker": "speaker 4",
+          "text": "Yes, get more at frogpants."
+        },
+        {
+          "cue_id": 4550,
+          "start_ms": 9843480,
+          "end_ms": 9843560,
+          "speaker": "speaker 4",
+          "text": "com."
+        },
+        {
+          "cue_id": 4551,
+          "start_ms": 9851510,
+          "end_ms": 9852760,
+          "speaker": "speaker 2",
+          "text": "Awesome show today, you guys!"
+        }
+      ],
+      "ark": [
+        {
+          "cue_id": 1497,
+          "start_ms": 9661420,
+          "end_ms": 9667180,
+          "speaker": "speaker 2",
+          "text": "it there had I made it there oh it's tunga"
+        },
+        {
+          "cue_id": 1498,
+          "start_ms": 9667829,
+          "end_ms": 9673900,
+          "speaker": "speaker 2",
+          "text": "sorry.Perhaps I would have gleaned some knowledge"
+        },
+        {
+          "cue_id": 1499,
+          "start_ms": 9673900,
+          "end_ms": 9680070,
+          "speaker": "speaker 2",
+          "text": "that would help but I that didn't happen so I"
+        },
+        {
+          "cue_id": 1500,
+          "start_ms": 9680319,
+          "end_ms": 9686920,
+          "speaker": "speaker 2",
+          "text": "tried that was the attempt we can try flying there"
+        },
+        {
+          "cue_id": 1501,
+          "start_ms": 9687219,
+          "end_ms": 9693090,
+          "speaker": "speaker 2",
+          "text": "again yell a yell blares out interrupting you"
+        },
+        {
+          "cue_id": 1502,
+          "start_ms": 9693439,
+          "end_ms": 9699260,
+          "speaker": "speaker 2",
+          "text": "across the bow captain we're under attack and"
+        },
+        {
+          "cue_id": 1503,
+          "start_ms": 9699260,
+          "end_ms": 9706120,
+          "speaker": "speaker 2",
+          "text": "though the orcs on the top of the deck spring into"
+        },
+        {
+          "cue_id": 1504,
+          "start_ms": 9706120,
+          "end_ms": 9712970,
+          "speaker": "speaker 2",
+          "text": "action as you look around to see what he's talking"
+        },
+        {
+          "cue_id": 1505,
+          "start_ms": 9712970,
+          "end_ms": 9719410,
+          "speaker": "speaker 2",
+          "text": "about up on the masts above there orcs pointing"
+        },
+        {
+          "cue_id": 1506,
+          "start_ms": 9719759,
+          "end_ms": 9725450,
+          "speaker": "speaker 2",
+          "text": "and waving and you can see these disk shaped"
+        },
+        {
+          "cue_id": 1507,
+          "start_ms": 9726449,
+          "end_ms": 9731340,
+          "speaker": "speaker 2",
+          "text": "saucers.Great now they're attacking us says"
+        },
+        {
+          "cue_id": 1508,
+          "start_ms": 9731340,
+          "end_ms": 9738200,
+          "speaker": "speaker 2",
+          "text": "admiral bubbin walls man your stations and he runs"
+        },
+        {
+          "cue_id": 1509,
+          "start_ms": 9738250,
+          "end_ms": 9745050,
+          "speaker": "speaker 2",
+          "text": "up to the.And then someone at the back of the ship"
+        },
+        {
+          "cue_id": 1510,
+          "start_ms": 9745050,
+          "end_ms": 9751360,
+          "speaker": "speaker 2",
+          "text": "says admiral there's something on our tail and"
+        },
+        {
+          "cue_id": 1511,
+          "start_ms": 9751809,
+          "end_ms": 9757390,
+          "speaker": "speaker 2",
+          "text": "then you guys run to the back of the ship to"
+        },
+        {
+          "cue_id": 1512,
+          "start_ms": 9757390,
+          "end_ms": 9763560,
+          "speaker": "speaker 2",
+          "text": "look.And then you guys run to the back of the"
+        },
+        {
+          "cue_id": 1513,
+          "start_ms": 9763560,
+          "end_ms": 9769730,
+          "speaker": "speaker 2",
+          "text": "ship.See how it goes with not only us but our"
+        },
+        {
+          "cue_id": 1514,
+          "start_ms": 9769879,
+          "end_ms": 9776440,
+          "speaker": "speaker 2",
+          "text": "weird demon demonic friends that are hanging with"
+        },
+        {
+          "cue_id": 1515,
+          "start_ms": 9776440,
+          "end_ms": 9783160,
+          "speaker": "speaker 2",
+          "text": "hope all this and more next week on there will be"
+        },
+        {
+          "cue_id": 1516,
+          "start_ms": 9783160,
+          "end_ms": 9789880,
+          "speaker": "speaker 2",
+          "text": "dungeons in the meantime please join our dungeons"
+        },
+        {
+          "cue_id": 1517,
+          "start_ms": 9790129,
+          "end_ms": 9796050,
+          "speaker": "speaker 2",
+          "text": "plus program which gives you all kinds of rad"
+        },
+        {
+          "cue_id": 1518,
+          "start_ms": 9796050,
+          "end_ms": 9802900,
+          "speaker": "speaker 2",
+          "text": "stuff for the month including a monthly bonus show"
+        },
+        {
+          "cue_id": 1519,
+          "start_ms": 9803049,
+          "end_ms": 9809350,
+          "speaker": "speaker 2",
+          "text": "which you'll get at the end of this month ah or"
+        },
+        {
+          "cue_id": 1520,
+          "start_ms": 9809350,
+          "end_ms": 9815790,
+          "speaker": "speaker 2",
+          "text": "early next and ah we love doing that and that's"
+        },
+        {
+          "cue_id": 1521,
+          "start_ms": 9815989,
+          "end_ms": 9822100,
+          "speaker": "speaker 2",
+          "text": "the only way you can get it so head on over to"
+        },
+        {
+          "cue_id": 1522,
+          "start_ms": 9822100,
+          "end_ms": 9828680,
+          "speaker": "speaker 2",
+          "text": "there will be dungeons dot com and check out all"
+        },
+        {
+          "cue_id": 1523,
+          "start_ms": 9828680,
+          "end_ms": 9835120,
+          "speaker": "speaker 2",
+          "text": "the details it's all right there and it's super"
+        },
+        {
+          "cue_id": 1524,
+          "start_ms": 9835120,
+          "end_ms": 9841430,
+          "speaker": "speaker 2",
+          "text": "easy to get into and thank you to everyone who"
+        },
+        {
+          "cue_id": 1525,
+          "start_ms": 9841430,
+          "end_ms": 9847870,
+          "speaker": "speaker 2",
+          "text": "does ah already support us.This show is part of"
+        },
+        {
+          "cue_id": 1526,
+          "start_ms": 9847870,
+          "end_ms": 9854730,
+          "speaker": "speaker 2",
+          "text": "the frog band network.Awesome show today you guys."
+        }
+      ]
+    }
+  }
+}

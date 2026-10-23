@@ -1,5 +1,36 @@
 # Initial model tests (supplied by archive owner)
 
+## 2026-10-23: E103 ARK Q8 / FireRed VAD pipeline evaluation
+
+[Evaluation and recommendation](../reports/E103_ARK_EVALUATION_2026-10-23.md) ·
+[reproducible evidence](../reports/ARK_E103_METRICS_2026-10-23.json) ·
+[script](../experiments/ark_e103_2026_10_23.py).
+Whole-export measurements for the supplied Wastes S1E103 ARK Q8 / Canary CTC /
+Nemotron / FireRed VAD-labelled SRT against processed Parakeet and Qwen Q8 /
+Canary CTC / Nemotron. Labels are filename-derived; model builds, exact settings,
+hardware and runtime are unavailable. ARK and VAD changes are confounded.
+
+Parakeet: **2,639 cues / 23,243 normalized words / end 02:44:12.950**;
+Qwen: **4,551 / 23,672 / 02:44:12.760**;
+ARK: **1,526 / 14,738 / 02:44:14.730**. ARK contains **36.59% fewer words than
+Parakeet**, only one speaker label (`speaker 2`, versus eight each), and 11
+adjacent overlaps; all three have zero nonpositive cue durations. Exact ordered
+word Levenshtein after the established report normalization: P→Q **2,198 / 23,243
+= 9.46%**; P→ARK **10,279 / 23,243 = 44.22%**; Q→ARK **10,253 / 23,672 = 43.31%**.
+These are inter-export disagreements, **not audio WER or verified error counts**.
+
+Selected parallel text shows ARK skipping guardian expiry, Hope's nonlethal
+instruction, approaching storm clouds and the specific final spaceship reveal,
+while repeating some room-entry wording. Identical last-enemy dialogue appears
+about 3:43 later on ARK's clock. No audio-verified incremental recovery was
+established. **Do not scale this configuration to the remaining archive**;
+retain it as experimental evidence and diagnose intermediate/VAD/export stages
+before any short controlled repeat. All exports were measured through their
+outros; qualitative inspection was selected, not a full manual episode read.
+The matching local MP3 was hashed but not listened to; export-input audio hashes
+are unknown. No new ASR, canonical edits or source modifications were performed.
+E103 story research remains pending separately.
+
 ## 2026-10-23: comparison backfill for analyzed Wastes S1E002–E005
 
 The [coverage register](../reports/ASR_COMPARISON_COVERAGE_2026-10-23.md) inventories

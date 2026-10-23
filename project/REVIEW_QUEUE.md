@@ -374,6 +374,24 @@ For future research, start at the **highest-priority applicable row**, open the 
 
 ## 7. Work completion checklist
 
+### E103 ARK pipeline evaluation — separate from story research
+
+The [2026-10-23 evaluation](../reports/E103_ARK_EVALUATION_2026-10-23.md)
+recommends **against bulk generation with the supplied ARK / FireRed VAD
+configuration**. Full-export text measurements and selected text review are
+complete; audio verification and causal diagnosis remain open. This does not
+complete an E103 dossier or advance the next story-research pointer.
+
+If investigating the pipeline, audio-check **00:03:30–00:05:30** (room-entry
+repetition/context), **00:50:30–00:51:20** (guardian expiry),
+**01:36:20–01:37:20** (nonlethal instruction), and **02:41:10–02:42:15**
+(large-ship reveal), plus agreed controls. These are Parakeet/Qwen-based clocks
+to check against the original audio; ARK times drift by minutes. Inspect run
+logs/intermediate recognition, VAD, alignment and speaker outputs before a
+bounded VAD-on/off repeat. No ARK rerun or listening task is audio-closed.
+
+### General checklist
+
 - [ ] Listen to and independently validate story-critical ASR windows; record timestamps and speaker attribution.
 - [ ] Reconcile original campaign contracts, special item handouts, episode-era maps and character sheets; preserve uncertainty when absent.
 - [ ] Revise a narrow **episode dossier + canonical profile + current ledger topic row** for each corroborated correction.
