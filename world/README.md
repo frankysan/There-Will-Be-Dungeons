@@ -9,7 +9,7 @@
 | Reference | What it currently contains | Consolidation status |
 | --- | --- | --- |
 | [Characters and participants](CHARACTERS.md) | Main character and supporting-cast index with detailed sourced profiles | **Through E096:** White Tower plague cured; Stanley and Alentris propose a Mount Celestia diversion, and Hope, Nash, Vorel and Walnut approach restricted library books; Fist not taken |
-| **[Sigil / City of Doors](places/sigil.md)** | City of Doors, Soggy Feather, Chapel of Laughter, Clerk's Ward and the Hive | **E090:** Harmonium allows entry but threatens no exit; Tobacho is a blue dragon who only conditionally promises Earth portal location/access after an **unknown retrieval task**; **Scully transferred to dragon**, no key or Earth crossing |
+| **[Sigil / City of Doors](places/sigil.md)** | City of Doors and subsequent Outlands / White Tower events | **Through E096:** The tower's surviving infected residents are cured; Captain Waltz promises a replacement ship, but neither Fist nor pendant key has moved. |
 | [Places](PLACES.md) | **Consolidated place index** including **CHIDS**, **Kervalon**, Razak Val, Dusthill, Slavetown, the Black Mine, Château Weir and Tietkalla | **Place index and CHIDS site reference updated through E081** |
 | [Portal device](technology/portal-device.md) | **Paired gateways and third necrotic-beam mode**; E075 acquisition, E076 executed escape, E077 friendly-fire risk; last documented device use E079 | **Updated through E079** |
 | [World and history](WORLD.md) | **Consolidated thematic reference**: the ancient catastrophe, settlements, factions, dragon technology, Soulbroker pacts, artifacts, religion and contested lore | **Thematic second-arc consolidation through E081** |
