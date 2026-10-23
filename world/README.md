@@ -13,7 +13,7 @@
 | [Places](PLACES.md) | **Consolidated place index** including **CHIDS**, **Kervalon**, Razak Val, Dusthill, Slavetown, the Black Mine, Château Weir and Tietkalla | **Place index and CHIDS site reference updated through E081** |
 | [Portal device](technology/portal-device.md) | **Paired gateways and third necrotic-beam mode**; E075 acquisition, E076 executed escape, E077 friendly-fire risk; last documented device use E079 | **Updated through E079** |
 | [World and history](WORLD.md) | **Consolidated thematic reference**: the ancient catastrophe, settlements, factions, dragon technology, Soulbroker pacts, artifacts, religion and contested lore | **Thematic second-arc consolidation through E081** |
-| [Unified campaign chronology](CHRONOLOGY.md) | **53 main-story Arc One entries, followed by E055–E081**, time jump, publication exceptions and resolved cutoffs | **Chronology extended through E095** |
+| [Unified campaign chronology](CHRONOLOGY.md) | **53 main-story Arc One entries, followed by E055–E081**, time jump, publication exceptions and resolved cutoffs | **Chronology extended through E096** |
 | [Active consistency ledger](CONSISTENCY_LEDGER.md) | **Open questions, owner decisions, later source-cutoff resolutions** and links to detailed evidence | **Current topical questions; full earlier research archived** |
 | [Structured entity seed](entities.json) and [schema](ENTITY_SCHEMA.md) | Machine-readable E000/E001 seed | **Not yet synchronized with all subsequent episode dossiers** |
 
