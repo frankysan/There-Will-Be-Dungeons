@@ -1,8 +1,12 @@
 # Nash Maggard — spellcasting phrases and rhymes
 
-**Character:** [Nash Maggard](nash-maggard.md), portrayed by **Scott**. **Continuity:** The Wastes. **Spoilers:** Selected Season 1 magic through **E111**, plus separately classified **E114 non-casting poems and an E115 failed-attempt commentary**, followed by a marked section of prior later-season seeds. **Status:** Expanded 2026-10-23; **ASR-provisional, not audio-verified or an exhaustive collection**. **Current backfill ceiling: S1E111.**
+**Character:** [Nash Maggard](nash-maggard.md), portrayed by **Scott**. **Continuity:** The Wastes. **Spoilers:** Selected Season 1 magic through **E111**, plus separately classified **E114 non-casting poems, E115 failed-attempt commentary and E117 Solar Mines autobiographical fire (not new casting)**, followed by a marked section of prior later-season seeds. **Status:** Expanded 2026-10-23; **ASR-provisional, not audio-verified or an exhaustive collection**. **Current backfill ceiling: S1E111.**
 
 Nash improvises strange phrases, rhymes and sometimes unfinished verses around his magic. This page collects the wording separately from his character history, following the provenance practice of [Vorel's title register](vorel.md#titles-and-epithets--source-indexed-register). In **E046 ~02:52:57–02:53:10**, Beau awards Nash inspiration for the effort he puts into his magical words ([Parakeet][046-p], cues 2797–2801; [Qwen][046-q], cues 4622–4629). That recognizes an existing habit; it does **not** establish E046 as its beginning.
+
+## E117 — retrospective fire, no new casting words
+
+At [E117](../../episodes/E117.md) ~02:00–02:07, **Nash describes discovering early unexplained ability to conjure fire during a slave revolt in the Solar Mines**. This is **his spoken autobiographical recollection** to the new Harbor's assembled survivors, **not an actually performed E117 spell, magic-item activation or newly uttered casting rhyme**. No new NSP row is warranted; do not reconstruct old casting words from his description. [Whole-source comparison](../../reports/E117_ASR_COMPARISON_2026-10-23.md), both exports inspected, **no listening**.
 
 ## Reading and maintaining the register
 

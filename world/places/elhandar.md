@@ -1,6 +1,14 @@
 # Elhandar — elven space station and forest biodome
 
-**Spelling:** Elhandar is the established archive working form; E115 ASR also gives **Elhendar / Elendar / Elhanda**. **Continuity:** The Wastes, main-party Arc Five. **First researched physical arrival:** [E115](../../episodes/E115.md), ~00:30–00:39, following E111's rescue and E114's interrupted voyage. Earlier references do not constitute earlier visits. **Spoilers:** Through E116; **ASR-provisional, not audio-verified**.
+**Spelling:** Elhandar is the established archive working form; E115 ASR also gives **Elhendar / Elendar / Elhanda**. **Continuity:** The Wastes, main-party Arc Five. **First researched physical arrival:** [E115](../../episodes/E115.md), ~00:30–00:39, following E111's rescue and E114's interrupted voyage. Earlier references do not constitute earlier visits. **Spoilers:** Through E117; **ASR-provisional, not audio-verified**.
+
+## E117 — the Harbor in Elhandar's forest
+
+At [E117](../../episodes/E117.md), the Elhandar forest **really contains Tietkalla tiefling refugees, not just the reported survivors of E115**. After Hope and Nash return, Nash recalls Stanley and Vorel from hunting; **Stanley asks Lyrielle to prepare station shielding as a precaution**, but **no defensive barrier is activated and no demon attack occurs**. Lyrielle says the station's **magical-scientific shield and biodiversity could permit long resistance**, but these are **capability estimates**, not a proven battle or unlimited impenetrability. **Bok Bok declares he will stay at the main cottage guarding the family, while Vorel takes Chunks** on trips, and **Vorel actually carries Chunks toward the refugees**.
+
+About **ten minutes through the trees**, the old adventurers find a **clearing of eight or so cabins surrounding a well**, with **Nobieri, Emenil and a small community of surviving Tietkalla tieflings**. Hope speaks publicly to her people, and a **flaming female tiefling apparition calling herself Abegir (?)** appears during Nobieri's ash ritual. Following shared survivor stories, **Hope physically proclaims their new community “the Harbor” and its members “Harborers,” with a mission to help people who have lost their way; Nobieri confirms the name**. **One dissenting family of three leaves**, others stay. [The Harbor profile](the-harbor.md) details the new local polity; **it is not a second planet or restored Tietkalla city**.
+
+**Emenil and Stanley meet privately**; his inability to return her declared love leads to the **shrines/altar smashing event inferred by his Perception 29**, not a public miracle or battle. Back by the main cottage **Vorel senses lizardfolk in the woods but cannot find them**. He proposes an **evening search after supper**; **no expedition is carried out before E117 ends**. [Comparison](../../reports/E117_ASR_COMPARISON_2026-10-23.md), not audio verified.
 
 ## E116 — Hope actually joins Nash in the biodome
 

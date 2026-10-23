@@ -1,6 +1,12 @@
 # Nash Maggard
 
-**Portrayed by:** Scott. **Identity:** Wasteland traveler and spellcaster, with an implanted dragon-metal heart. **Arc Two status:** Alive; physically changed, allied with newly crowned Hope. **Spoilers:** Main Wastes through E116; retrospective Q&A comments kept separate from direct play. **Evidence:** Processed SRTs/dossiers, not independently audio-verified.
+**Portrayed by:** Scott. **Identity:** Wasteland traveler and spellcaster, with an implanted dragon-metal heart. **Arc Two status:** Alive; physically changed, allied with newly crowned Hope. **Spoilers:** Main Wastes through E117; retrospective Q&A comments kept separate from direct play. **Evidence:** Processed SRTs/dossiers, not independently audio-verified.
+
+## E117 — Hope comes home and Nash names the old mines
+
+At [E117](../../episodes/E117.md), **Nash brings Hope into the family's Elhandar life**, explaining Angelashi and **their four living changeling children**. He physically seeks **Vorel and Stanley** in the biodome forest and tells them Hope is back. When **Stanley challenges Hope**, Nash tries to keep the exchange from becoming violent. **He does not declare all her choices justified or magically cleanse her Hand**. After a strained cottage meal, Nash joins the four old companions and Chunks as they visit Tietkalla's refugees and observe **Nobieri's ash rite**. **Stanley refuses, but Nash participates**, floating and blowing ash into the fire, briefly comically missing the rite's fire before succeeding.
+
+When asked to speak around the fireside, Nash **provides a much fuller personal account of the Solar Mines**: he never knew his parents, mistook slave overseers for surrogate caregivers, learned after disease and overwork that miners would be exploited until death, and says **he led a revolt that killed the overseers and set barracks afire**, using early inexplicable fire abilities. **This is an autobiographical character statement, not an independently replayed memory**, and his biological origin remains unresolved. **Scott says aloud out-of-character that the foreman's name “Pedro” was invented on the spot**: do **not** settle it as a canonical character name. **No new spell is actually cast or rhymed here**, so the [magic phrase register](nash-spellcasting-phrases.md) gains a non-casting observation, not an NSP identifier. **Vorel declares “Keeper of Stories,” and Hope names the Harbor**. At cutoff Nash accompanies his friends planning a future search for lizardfolk, not yet undertaken. [Full-export comparison](../../reports/E117_ASR_COMPARISON_2026-10-23.md).
 
 ## E116 — Hope forcibly Gate-summons Nash, then accompanies him home
 

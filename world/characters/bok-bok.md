@@ -10,6 +10,8 @@ He directly participates in the chaotic fighting against giant P0D and later wat
 
 In the Year One Q&A Beau reveals that Bok Bok's first appearance was an **improvised NPC encounter** when Vorel explored alone. That production fact explains his narrative origin, **not** an in-world supernatural emergence.
 
+**E117 update:** While everyone is at Elhandar, [E117](../../episodes/E117.md) shows **Bok Bok actually joins Stanley, Vorel and Chunks on a hunt**, welcomes Hope back, and explains he wants to **remain at the family's cottage defending Angelashi and Nash's four children** while **Vorel takes Chunks on their next expedition to train him**. **Vorel subsequently carries Chunks to the tiefling refuge**, while Bok Bok **stays at the cottage**. This **supersedes E115's intended travel arrangement**, but is not legal adoption, biological paternity, a death or irrevocable renunciation of Bok Bok's parental commitment. [Report](../../reports/E117_ASR_COMPARISON_2026-10-23.md), ASR provisional.
+
 **Evidence:** [E006](../../episodes/E006.md) · [E007](../../episodes/E007.md) · [E016](../../episodes/E016.md) · [E025](../../episodes/E025.md) · [E026](../../episodes/E026.md) · [E048](../../episodes/E048.md) · [E049](../../episodes/E049.md) · [E051](../../episodes/E051.md) · [E054](../../episodes/E054.md) · [Vorel](vorel.md) · [Q&A](../../episodes/BONUS-2019-03.md).
 
 ## E115 — Chunks’s caretaker and a hand-status correction

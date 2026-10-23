@@ -1,6 +1,6 @@
-# Characters and participants — campaign reference index (E054 snapshot plus E116 update)
+# Characters and participants — campaign reference index (E054 snapshot plus E117 update)
 
-**Spoilers:** Core table retains its **Arc Two E054 snapshot**; later status updates cover corrected **E081** and the **E082–E116 Arc Four/Five developments in linked profiles**, with separate March/April/June/July/August/September/October/November-publication cast Q&As. The [Year One Q&A](../episodes/BONUS-2019-03.md) is not a played episode. **Quality:** These profiles synthesize provisional processed Parakeet SRT research; **they have not been checked against the audio**. For a story rather than an index, see [Arc One](../narrative/ARC_ONE.md) and [Arc Two](../narrative/ARC_TWO.md).
+**Spoilers:** Core table retains its **Arc Two E054 snapshot**; later status updates cover corrected **E081** and the **E082–E117 Arc Four/Five developments in linked profiles**, with separate March/April/June/July/August/September/October/November-publication cast Q&As. The [Year One Q&A](../episodes/BONUS-2019-03.md) is not a played episode. **Quality:** These profiles synthesize provisional processed Parakeet SRT research; **they have not been checked against the audio**. For a story rather than an index, see [Arc One](../narrative/ARC_ONE.md) and [Arc Two](../narrative/ARC_TWO.md).
 
 This is now the **subject-focused reference index**, not the append-only episode-batch ledger. The earlier 88,000-character source-first [character compendium is preserved](../research/legacy/2026-10-21/WORLD_CHARACTERS.md); the complete [pre-third-arc consolidation index](../research/legacy/2026-10-22/CHARACTERS_PRE_SECOND_ARC_CONSOLIDATION.md) preserves every additional interim status paragraph. Both archives retain their research history. A character's **earlier beliefs, reported fate and later observed status** must remain distinct. Roles in the podcast are not in-world identities.
 
@@ -24,6 +24,10 @@ This is now the **subject-focused reference index**, not the append-only episode
 | **Tedna** | Young stowaway and devoted helper; **rescued alive E048**, dies of injuries **E050**. His report of Angelashi's death was not eyewitness confirmation | [Tedna](characters/tedna.md) |
 | **Angelashi / Angel Ashi** | Elven singer, close to Nash; presumed dead in an E048 report but **directly freed alive E054**. Exact word division of name remains unresolved | [Angelashi](characters/angelashi.md) |
 | **Bok Bok** | Goblin companion of Vorel since **E006**; survives imprisonment, the war for Tietkalla and Vorel's temporary petrification | [Bok Bok](characters/bok-bok.md) |
+
+## E117 — main reunion, public stories and new community
+
+At [E117](../episodes/E117.md), **Hope actually meets Stanley and Vorel at Elhandar**, after her E116 reunion with Nash. **Stanley distrusts her continuing demonic Hand**, even though he and Vorel hear her explanations. **Nobieri and Emenil are both directly seen alive** among a small refugee community and **one dissenter leaves with wife and son**; Hope **actually names their Elhandar settlement “the Harbor,” the survivors “Harborers”**. A fire-figure calling itself **Abegir** materializes during Nobieri's ceremony; its literal deity/afterlife claims remain testimony. **Nash publicly recounts the Solar Mines uprising** (not a newly played past scene); **Vorel recites self-titles ending “Keeper of Stories.”** **Emenil tells Stanley she loves him; he declines a relationship, and she breaks her Malhaya shrine** after his departure, according to GM Perception. **Bok Bok elects to stay with the cottage family while Vorel carries Chunks and proposes taking him traveling**. **Vorel smells lizardfolk but the search is postponed**, so Omnom is not yet visited. [Two-ASR report](../reports/E117_ASR_COMPARISON_2026-10-23.md).
 
 ## E116 — the first Hope/Nash reunion
 

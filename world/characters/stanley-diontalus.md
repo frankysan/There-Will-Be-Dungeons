@@ -1,6 +1,14 @@
 # Stanley Billings and Diontalus
 
-**Portrayed by:** Jon. **Identity model:** Two distinctly acting personalities/agents who **share Stanley's body**, with shifting control; not interchangeable aliases for one intention. **Spelling:** **Diontalus** is the creator- and owner-accepted canonical display ([D-026](../../project/DECISIONS.md)). `Dion Talus`, `Deontalus`, `Diantalus`, `Diontalis` are searchable source spellings, not equal official names. **Spoilers:** main campaign through E115 and separate Q&A.
+**Portrayed by:** Jon. **Identity model:** Two distinctly acting personalities/agents who **share Stanley's body**, with shifting control; not interchangeable aliases for one intention. **Spelling:** **Diontalus** is the creator- and owner-accepted canonical display ([D-026](../../project/DECISIONS.md)). `Dion Talus`, `Deontalus`, `Diantalus`, `Diontalis` are searchable source spellings, not equal official names. **Spoilers:** main campaign through E117 and separate Q&A.
+
+## E117 — distrust of Hope, a public faith crisis and Emenil's confession
+
+[E117](../../episodes/E117.md) physically reunites **Stanley with Hope at Elhandar** after E116's Nash Gate scene. Stanley is **armed and cautious**, asks Lyrielle to prepare defenses against a possible assault but **no siege shield is actually shown activating**. At the cottage he confronts Hope about the **Hand of the Voice, her ambitions, Tietkalla's deaths and Squirts's loss** and **slides her appearance-changing ring back** using his rapier. **He does not forgive her**, and even at the final cottage clearing he objects to calling the old company whole: **Hope still has the demonic Hand**.
+
+At the Tietkalla survivors' bonfire **Stanley refuses Nobieri's ash rite** because he is not a tiefling and **Hope is not his queen**. He nonetheless hears the **fire-born figure called Abegir (?)** speak and the survivors tell their stories. **He publicly recounts his life as Valier/Vale Ornath (?)**, child of **Daliot/Dalit (?)** and a human mother with an unresolved ASR name, explains why Emenil's **Malhaya** worship once comforted him, and how his **E081 self-sacrifice and death led to spiritual disillusionment**, not a new ritual in this episode. Proper names remain listening targets.
+
+**Emenil invites him privately to her home** after the ceremony. She **expressly tells Stanley that she loves him** and believed he might never return. Stanley says he is relieved she survived, values her and never blamed her personally for his death, but **cannot offer a romantic commitment while unsure who he is**. He leaves. The GM, following Stanley's **Perception 29**, explains that a crash from within reflects **Emenil smashing her shrine to Malhaya and its bowls**. **Stanley does not return inside**; no repair or reconciliation is played. Later he rejoins the others outside the cottage, still questioning Hope, as **Vorel smells but fails to find lizardfolk**. [Complete two-ASR report](../../reports/E117_ASR_COMPARISON_2026-10-23.md).
 
 ## E115 — birth name acknowledged, memory sharing declined
 

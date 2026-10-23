@@ -1,6 +1,12 @@
 # Vorel
 
-**Longer written name:** **Vorel Rasvim Kurik** in the fan wiki, not independently confirmed as a full name from Arc One spoken dialogue. **Portrayed by:** Kyle. **Identity:** Lizardfolk warrior. **Arc Two status:** Alive; protector of Bok Bok; bearing the sentient **Eye of Groxl**. **Spoilers:** narrative coverage through E115; the title register separately includes later seasons and the final Wastes roundup. Retrospective bonus remarks remain separate from played events.
+**Longer written name:** **Vorel Rasvim Kurik** in the fan wiki, not independently confirmed as a full name from Arc One spoken dialogue. **Portrayed by:** Kyle. **Identity:** Lizardfolk warrior. **Arc Two status:** Alive; protector of Bok Bok; bearing the sentient **Eye of Groxl**. **Spoilers:** narrative coverage through E117; the title register separately includes later seasons and the final Wastes roundup. Retrospective bonus remarks remain separate from played events.
+
+## E117 — Keeper of Stories, Chunks and a lizardfolk scent
+
+In [E117](../../episodes/E117.md), Vorel returns from hunting with Stanley and **Bok Bok/Chunks** after Nash reports **Hope has physically arrived** in Elhandar. He offers Hope comfort but also rejects Stanley's claim that the group was helpless without her. After discussing the upbringing of children, **Bok Bok announces he wants to stay in the cottage to protect Angelashi, the babies and the family while Vorel takes Chunks on future expeditions**. **Vorel actually carries Chunks to the Tietkalla refugee ceremony**. This revises the intended E115 caretaker arrangement for travel, not a legal or biological parentage change.
+
+At the refugees' bonfire Vorel **performs Nobieri's ash rite** but first checks whether it might bind or curse him, inconclusively. He **publicly recites a long string of self-styled titles**, most already used historically. The phrase/source register below already lists the **E117 precise sequence and wording variants**, culminating in **“Keeper of Stories” (~02:08:39–02:08:46)**. He declares he will remember the survivors' stories and help restore the kingdom. **This is a new self-proclaimed role and sincere promise, not an official coronation or proof a recovered lizardfolk army exists**. Back near the cottage, **he smells lizardfolk in the forest**; an initial northward bearing is suggested but **his attempted track fails**, and he proposes a **search after supper**, not yet performed. **Omnom has not been physically found in E117**, despite E115's Nobieri report of survival. [Full ASR report](../../reports/E117_ASR_COMPARISON_2026-10-23.md).
 
 ## E115 — lost remains, a memorial and “Fang of nothing”
 
@@ -95,9 +101,9 @@ The [2026-10-23 transcript search](../../reports/VOREL_TITLE_AUDIT_2026-10-23.md
 | [E110](../../episodes/E110.md) ~00:17–00:20 | **“I am the strongest Vorel”** (ASR-provisional wording) | Vorel's joking comparative claim on hearing that another timeline's Vorel died in battle; **not a conferred title or demonstrated supremacy**; earlier distinct from S2E02's later “Greatest of the Time Vorels” style |
 | [E115](../../episodes/E115.md) ~02:22:50–02:23:05; P 2118–2121 / Q 3435–3440 | **“I am no longer Fang” / “Fang of nothing”** | **Vorel/Kyle’s self-assessment after losing his constituency**, not a new grant, formal abdication ceremony or proof every subject died. [Parakeet](../../sources/The%20Wastes%20S1E115.%20The%20Forest%20for%20The%20Trees.parakeet.processed.srt) / [Qwen](../../sources/The%20Wastes%20S1E115.%20The%20Forest%20for%20The%20Trees.qwen-q8.canary-ctc.nemotron.srt), ASR-provisional. Nobieri’s ~03:01 exhortation to lead awards no further title. |
 
-### Later-season title naming — spoilers beyond the narrative coverage
+### E117 title recital and later-season naming — separate source-indexed evidence
 
-These entries document **titles being named**, without extending the page's episode-by-episode narrative review. In particular, E117 and the roundup recite earlier exploits retrospectively; they do not establish when each title was originally adopted. Exact exports and cue ranges for each source key are linked in the [audit's source inventory](../../reports/VOREL_TITLE_AUDIT_2026-10-23.md#source-windows-and-export-inventory).
+These entries document **titles being named**, independent of whether their claimed feats happened exactly as phrased. **E117 is now directly researched** in its [episode dossier](../../episodes/E117.md), [ASR report](../../reports/E117_ASR_COMPARISON_2026-10-23.md) and the E117 development section above. The later roundup recites earlier exploits retrospectively; neither E117 nor the roundup establishes when each title was originally adopted. Exact exports and cue ranges for each source key are linked in the [audit's source inventory](../../reports/VOREL_TITLE_AUDIT_2026-10-23.md#source-windows-and-export-inventory).
 
 | Source | Wording or label | Standing |
 | --- | --- | --- |
