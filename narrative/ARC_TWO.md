@@ -4,25 +4,37 @@
 
 **Full spoilers through E054.** **Status:** An editorial retelling synthesized from existing **processed-SRT episode dossiers**, **not an audio-verified transcript**. Historical claims, private memories and retrospective GM statements remain attributed. The separate [March 2019 Year One Q&A](../episodes/BONUS-2019-03.md) supplies retrospective context, not another played chapter.
 
-## I. Toward Tietkalla — Old claims, a new voice, and a city in need
+## I. The road from the Liberators — A challenge and a pledge
 
 Leaving the **Liberators**, the group reconciles with a troubled Stanley and discovers **Tedna** stowed away in Fate 4. An armored pursuer attacks the three Soulbroker signatories; the party survives the fight and repairs its overturned vehicle. At their next desert camp, **Diptak** confronts Vorel and charges as E027 ends.
 
 The confrontation ends with a pledge from the **Golden Land** rather than a final feud. **Tedna**, a young companion, travels with the party, and the talking cat **Buttons** joins them in Fate 4, carrying knowledge of the Arcanum and the fortress ahead. Soon the companions approach **Tietkalla**, the historically attested name associated with the fortress and its surrounding **Teet / Trashburg** settlements.
 
+[E027](../episodes/E027.md) · [E028](../episodes/E028.md)
+
+## II. Two voices — Stanley and Diontalus
+
 Before they reach the town, something calls the group out into the oil sands. A strange song and a hidden encounter separate Stanley from the others and lead to the forced joining of his body with **Diontalus**, an archfey figure whose ambitions and methods differ profoundly from Stanley's. At first the experience is hidden from some companions. Later, Diontalus openly speaks while controlling Stanley's body. The question of which will awaken, and what one might do while the other watches, becomes one of the campaign's defining dangers.
+
+[E029](../episodes/E029.md) · [E030](../episodes/E030.md) · [E034](../episodes/E034.md)
+
+## III. Trashburg — The promises beneath the keep
 
 Tietkalla presents the party with apparently plentiful routes to power, but none can be trusted without cost. Its poor district, **Trashburg**, lies beneath an oppressive keep, gangs, a proposed Blood Ball match and the political wedding of **Jolt**. **Monsoon Cabbage** offers entry through gang assassination and presents himself as a useful ally. Nash befriends a little pixie named **P0D**, learning of the brutal trade in **Pixie Blush** and the captivity of other pixies. Hope becomes caught up in the city's old tiefling mysteries, and Nash draws close to **Angelashi**, whose music and brief intimacy offer relief from the surrounding violence.
 
 Different routes open and close. The group accepts a Blood Ball invitation but never plays the long-planned game. Vorel attacks Toe Rippers, precipitating street fighting and a showdown in the **Golden Gargoyle**, and Hope acquires a weapon whose use will soon alter her life. Meanwhile the cat Buttons' attention to Stanley and Diontalus grows more urgent than it first appears.
 
-[E027](../episodes/E027.md)–[E030](../episodes/E030.md) · [E031](../episodes/E031.md)–[E033](../episodes/E033.md) · [E034](../episodes/E034.md)–[E036](../episodes/E036.md)
+[E031](../episodes/E031.md) · [E032](../episodes/E032.md) · [E033](../episodes/E033.md) · [E034](../episodes/E034.md) · [E035](../episodes/E035.md) · [E036](../episodes/E036.md)
 
-## II. The deal collapses — Hope rebuilt, the pit below, and an older kingdom
+## IV. The deal collapses — Hope rebuilt and the pit below
 
 The hunt for Toe Ripper leader **Blunt Goliver** ends catastrophically when a missile Hope fires is returned against her in a cave. The party survives the explosion, kills Goliver and seeks Monsoon's promised help. Hope does not emerge unscathed: the injuries require major amputations, and a series of procedures leaves her with a **mechanical arm and leg**. What Monsoon calls assistance brings fresh deception, violence and fear of being turned into someone else's instrument.
 
 The party becomes hunted by Teet authorities. Tedna's letters, competing versions of the city's hidden history, Monsoon's claims about **Kefeli** and **Andreeste**, and the **Gem of Tides** point toward a kingdom older than the keep's current rulers. Forced into the **Pit of Despair**, they encounter a great froghemoth and escape through forgotten passages. **George**, a guard who follows them down, becomes a moral test: Stanley wants him spared; after their rest **Diontalus deliberately kills him**. This is not a death caused by George's earlier accident, and the disagreement cannot be smoothed away by telling the story from the party's collective point of view.
+
+[E037](../episodes/E037.md) · [E038](../episodes/E038.md) · [E039](../episodes/E039.md) · [E040](../episodes/E040.md) · [E041](../episodes/E041.md) · [E042](../episodes/E042.md) · [E044](../episodes/E044.md) · [E045](../episodes/E045.md)
+
+## V. An older kingdom — The books beneath the city
 
 In the caves, a mysterious singing river ruler demands a service before allowing passage. The party fights creatures and retrieves **enchanted beans and an engraved key**. These become an unexpected way upwards: the planted beans raise a giant green beanstalk, and the key opens an ancient hatch. The companions make their way among the skeletons and magics of an old tiefling complex, with its animated books, hidden archives, abandoned offices and strange ritual chambers.
 
@@ -30,9 +42,11 @@ One book contains a person. Through Hope's ingenuity, Nash's **Reduce**, and Vor
 
 At last the party reaches the keep's **prison level**, where **Tedna and Bok Bok are found alive and freed**. A report that Angelashi has been taken to the pit and killed is deeply troubling, but **it is secondhand information**, not a witnessed death. Later events will resolve it differently.
 
-[E037](../episodes/E037.md)–[E039](../episodes/E039.md) · [E040](../episodes/E040.md)–[E042](../episodes/E042.md) · [E044](../episodes/E044.md)–[E048](../episodes/E048.md). [E043](../episodes/E043.md) is a **separate holiday one-shot**, not a Wastes chapter between E042 and E044.
+[E044](../episodes/E044.md) · [E045](../episodes/E045.md) · [E046](../episodes/E046.md) · [E047](../episodes/E047.md) · [E048](../episodes/E048.md)
 
-## III. The price of betrayal — P0D, the Gem and the petrified throne
+The separate [E043 holiday one-shot](../episodes/E043.md) is outside the Wastes story; the main campaign continues from E042 to E044.
+
+## VI. The price of betrayal — P0D, the Gem and the petrified throne
 
 The prison rescue is followed by another trap. **Jolt, Buttons and guards** await the party in the keep's food stores, and Buttons discloses a competing deal around the Gem, Monsoon and the Principal. **Monsoon issues Order 26 by radio**: P0D is violently transformed into an enormous hostile creature. Her distress and Nash's attempts to protect her make clear that she is **not choosing freely to betray her friends**. In the fight **Vorel kills Buttons**.
 
@@ -44,7 +58,7 @@ Negotiation fails. **Vorel and Hope are petrified** during the confrontation, an
 
 [E049](../episodes/E049.md)–[E051](../episodes/E051.md)
 
-## IV. Through the beast — The Eye of Groxl and the last road to the keep
+## VII. Through the beast — The Eye of Groxl and the last road to the keep
 
 Back among the burning upper ruins, the party confronts transformed giant pixies and an enormous, changed **froghemoth**. Its massive body swallows them, and the adventure moves literally through its anatomy: mouth, throat, acid, parasites, heart, and finally its electrically active brain. Nash acquires a strange **small extra arm** amid unstable magical effects. Vorel touches the brain and tries to communicate with the intelligence inside.
 
@@ -54,7 +68,7 @@ Nash produces a rowboat from the finite patches of his Robe of Useful Items, and
 
 [E052](../episodes/E052.md)–[E053](../episodes/E053.md)
 
-## V. The crown — A queen and a city still in ruins
+## VIII. The crown — A queen and a city still in ruins
 
 They arrive over **devastated Trashburg**. Giant pixies begin reverting to smaller forms. The keep stands breached, its authority broken, but no one can yet say what becomes of every inhabitant. Nash lands the party and smashes open a throne-room wall, bringing them face to face with **Monsoon Cabbage**. A prince lies dead; **Suck Master Din** is held captive; and, against the dreadful news brought by Tedna, **Angelashi is alive**, restrained by Monsoon's servant **Lazlo**.
 
@@ -82,6 +96,7 @@ The first year has ended, then, with a crown, a haunted group of friends, and a 
 - **Names:** [Consistency ledger](../world/CONSISTENCY_LEDGER.md) and [owner/cast spelling decisions](../project/DECISIONS.md). **Diontalus** and **Eye of Groxl** have confirmed canonical spelling. **Tietkalla** is contextually backed by cast writing. Other disputed names remain open.
 - **Unreliable testimony:** Historical assertions from Monsoon, Nobiery, Kefeli, the Soulbroker, and private visions are not all established facts. **Actions** such as Angelashi's rescue, the deaths of P0D/Tedna/Buttons and Hope's coronation are documented separately from those assertions.
 - **Publication exceptions:** [E043](../episodes/E043.md) is a holiday one-shot, and [BONUS-2019-03](../episodes/BONUS-2019-03.md) is a discussion, **not corrected Wastes E055**. See the [numbering crosswalk](../project/EPISODE_NUMBERING.md).
+- **Earlier layout:** The [pre-consolidation chapter layout](../research/legacy/2026-10-23/ARC_TWO_PRE_CHAPTER_BALANCE.md) preserves the five-chapter edition.
 - **Corrections welcome:** [Review queue](../project/REVIEW_QUEUE.md) tracks specific audio/handout checks. This is a **first cohesive narrative edition**, not a declaration that every contested passage is resolved.
 
 [Previous: Arc One](ARC_ONE.md) · [Next: Arc Three — A World Worth Saving](ARC_THREE.md) · [Story guide](README.md).
