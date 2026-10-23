@@ -1,5 +1,7 @@
 # Hand of the Voice
 
+**Browse:** [Items and artifacts](../ITEMS_AND_ARTIFACTS.md) · [World portal](../README.md)
+
 **Identity:** Living, severed supernatural hand attached to **Hope** in **E101**; **not** the Eye of the Voice or the detachable **Zorander's Fist gauntlet**. **Evidence:** Processed ASR, not independently heard.
 
 In the White Tower crisis E101, Hope **cuts away her own hand** and fuses the separate **Hand of the Voice** to herself, changing her body and abilities. This action accompanies **Hope leaving the original party**, the end of Arc Four and beginning of Arc Five **within the same episode**. The gauntlet remains a physically distinct item: Nash reseals it in its case, and **Tobacho actually receives the gauntlet without the Hand in E106**. [E101](../../episodes/E101.md) · [E106](../../episodes/E106.md) · [Hope](../characters/hope-akmenos.md).

@@ -1,5 +1,7 @@
 # Eye of Groxl
 
+**Browse:** [Items and artifacts](../ITEMS_AND_ARTIFACTS.md) · [World portal](../README.md)
+
 **Canonical object identity:** **One artifact**, with owner-confirmed spelling **Eye of Groxl**. Processed ASR names `Grojil` and `Groxel` refer to **this same object**, including the E067 “god killer Grojil” phrase; they are not a second god/item. [D-028/D-034](../../project/DECISIONS.md). **Spoilers:** Through E118. **Research:** ASR-provisional mechanics and lore.
 
 ## Physical history and demonstrated powers

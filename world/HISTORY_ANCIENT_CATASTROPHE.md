@@ -1,5 +1,7 @@
 # Ancient catastrophe — dragons, gates and the Scorching
 
+**Browse:** [Historical events](HISTORICAL_EVENTS.md) · [World portal](README.md)
+
 **In-world period:** Long before the central Wastes campaign; **no verified precise calendar**. **Sources:** GM prologue and later contested testimony. **Research:** ASR-provisional.
 
 ## Opening account

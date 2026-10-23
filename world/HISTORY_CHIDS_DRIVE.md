@@ -1,5 +1,7 @@
 # CHIDS and the Traversal Drive crisis (E067–E082)
 
+**Browse:** [Historical events](HISTORICAL_EVENTS.md) · [World portal](README.md)
+
 **Historical layer:** The ancient [CHIDS](places/chids.md) installation beneath [Kervalon](places/kervalon.md). **Played crisis:** E067–E082. **Evidence:** ASR-provisional.
 
 ## Discovery of the ancient complex

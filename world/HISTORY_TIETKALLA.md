@@ -1,5 +1,7 @@
 # Tietkalla — ancient kingdom, reform and catastrophe
 
+**Browse:** [Historical events](HISTORICAL_EVENTS.md) · [World portal](README.md)
+
 **Place:** [Tietkalla / Teet keep / Trashburg](places/tietkalla.md). **Spoilers:** Through E118. **Research:** Provisional ASR with contextual cast-written support for the *Tietkalla* spelling.
 
 ## Before the party

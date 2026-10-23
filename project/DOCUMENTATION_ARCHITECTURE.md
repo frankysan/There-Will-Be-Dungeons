@@ -1,6 +1,6 @@
 # Documentation architecture — layered arc consolidation
 
-**Status:** Adopted for the first consolidation pass (2026-10-21); **Phases A–D implemented as first structural editorial passes**; audio verification and expanded secondary-entity review remain pending. **Scope:** *The Wastes* through corrected **E081**, including the three completed documented arcs through E081 and separately indexed cast Q&As. A second consolidation after E081 applied the original four-layer model to the entire E055–E081 arc. This reorganizes **documentation**, not the source transcripts or the game world. The plan deliberately distinguishes what already exists from later migration tasks.
+**Status:** The four-layer editorial architecture was adopted 2026-10-21, consolidated through E081 and expanded again **2026-10-23** into a subject-centered encyclopedia with dedicated characters, places, artifacts, factions, antagonists and historical-event studies. **Current researched Wastes horizon: E118**, with E107–E109 independently placed as an earlier historical prequel and bonuses as commentary. Audio verification and secondary-entity review remain pending. This reorganizes **documentation**, not the source transcripts or the in-world canon.
 
 ## Why the structure changes
 
@@ -32,47 +32,50 @@ Our goal is **one clear reader-facing account per purpose**, with linked evidenc
 
 - **Immediate reader entry points**: repository [README](../README.md), [narrative index](../narrative/README.md), [Arc One](../narrative/ARC_ONE.md) and [Arc Two](../narrative/ARC_TWO.md), [world index](../world/README.md).
 - **Episode-specific research entry point**: `episodes/E###.md`, with `episodes/BONUS-2019-03.md` under its own namespace. Keep time-code tables and doubts here even if a world fact is later resolved.
-- **World reference status**: `world/CHARACTERS.md` and `world/PLACES.md` are now **subject indexes** linked to `world/characters/` (10 profiles) and `world/places/` (5 major profiles). Their **former full append-only content is frozen** in `research/legacy/2026-10-21/WORLD_CHARACTERS.md` and `WORLD_PLACES.md`. **Phase C completed as a first pass**: `world/WORLD.md` is now the thematic world reference and `CHRONOLOGY.md` the unified E000–E081 event timeline. Their pre-rewrite details are preserved at `research/legacy/2026-10-22/WORLD_HISTORY.md` and `WORLD_CHRONOLOGY.md`. **Phase D implemented**: the active `CONSISTENCY_LEDGER.md` distinguishes open source questions from accepted decisions and later-episode resolutions; `project/REVIEW_QUEUE.md` is prioritized. Both full original records are preserved as `research/legacy/2026-10-22/WORLD_CONSISTENCY_LEDGER.md` and `PROJECT_REVIEW_QUEUE.md`, without audio verification.
+- **World reference status**: `world/README.md` now exposes seven reader-oriented categories; `CHARACTERS.md`, `PLACES.md` and `WORLD.md` are concise indexes/thematic overviews, linking to detailed profiles in `world/characters/`, `world/places/` and `world/technology/`. Antagonists, artifacts, factions and historical events have their own topical indexes; `CHRONOLOGY.md` retains the **single episode-ordered E000–E118 timeline**. The longer E118-era working versions of the three rewritten files are frozen in [the 2026-10-22 research archive](../research/legacy/2026-10-22/README.md), with links rebased. Earlier compendia remain in `research/legacy/2026-10-21/`; the E081-era history, chronology, ledger and review-queue archival snapshots are also retained. Nothing here implies audio verification.
 - **Historical long-form README inventories** are copied into `research/legacy/2026-10-21/` before replacing their index pages. They are historical research snapshots; the new indexes and arc narrative are the preferred reading experience. Git history retains every original text revision.
 - `world/entities.json` is **not** a synchronized canon catalog for every researched character yet; do not fill in aliases or biographies automatically from narrative synthesis.
 
-## Target structure after further migration
+## Current structure and expansion pattern
 
 ```text
-README.md                         Short project landing / navigation
+README.md                         Project navigation and research horizon
 narrative/
-  README.md                       Narrative guide and spoiler horizons
-  ARC_ONE.md                      First arc (E000–E026, plus E013.5)
-  ARC_TWO.md                      Second arc (E027–E054, excluding E043)
-  ARC_THREE.md                    Completed third arc (E055–E081)
-  ARC_FOUR.md                     Completed fourth arc (E082–E101 departure)
-  ARC_FIVE.md                     Ongoing fifth arc (begins within E101)
-  [future arc chapters]           Later arcs by played chronology
+  README.md                       Story-first entry point
+  ARC_ONE.md ... ARC_FIVE.md      Completed arcs and ongoing Arc Five
 world/
-  README.md                       Reference navigation, source tiers
-  CHARACTERS.md                   Compact character index / overview
-  characters/                     Focused linked character profiles (phased)
-  PLACES.md                       Compact geography index
-  places/                         Focused linked locations (phased)
-  WORLD.md                        Thematic history, society, technology, magic
-  CHRONOLOGY.md                   One unified timeline, separate historic claims
-  CONSISTENCY_LEDGER.md           Active disagreements + resolution links
+  README.md                       Seven top-level subject categories
+  CHARACTERS.md                   People and allies index
+  ANTAGONISTS.md                  Role-based rivals/antagonists index
+  PLACES.md                       Location directory
+  ITEMS_AND_ARTIFACTS.md          Relics and extraordinary devices
+  HISTORICAL_EVENTS.md            Major events and historical studies
+  FACTIONS_AND_POWERS.md          Organizations and contested powers
+  WORLD.md                        Thematic world systems; no episode recaps
+  CHRONOLOGY.md                   Detailed E000–E118 time-of-knowledge timeline
+  CONSISTENCY_LEDGER.md           Open disputes and source-cutoff resolutions
+  characters/                     One primary biography per substantial person
+  places/                         One primary page per substantial location
+  technology/                     Artifact and device studies
+  HISTORY_*.md                    Focused event and ancient-history studies
 episodes/
-  E000.md ... E054.md             Per-episode source-first research dossiers
-  BONUS-2019-03.md                Q&A evidence; never E055
-project/                          Decisions, guide, workflow, review queue, numbering
-reports/                          Research and source comparison
-research/legacy/                  Preserved original append-only research snapshots
-sources/                          Immutable audio/ASR/reference material
+  E000.md ... E118.md             Source-first dossiers (with exceptions)
+  BONUS-*.md                      Cast commentary, never played episodes
+project/
+  WORLD_REFERENCE_PAGE_TEMPLATE.md Editorial contract for all world pages
+  DECISIONS.md, REVIEW_QUEUE.md   Accepted names and unresolved checks
+reports/                          ASR and research comparison
+research/legacy/                  Preserved, rebased historic working research
+sources/                          Original/processed transcription material
 ```
 
-This is a **target**, not a claim that every suggested subject subdirectory exists now. Prefer **stable, descriptive slugs** for added profiles. A single reference index must point to each profile, not duplicate a full biography.
+Prefer **stable descriptive slugs**. A subject has one authoritative page and can be linked from several category indexes; index entries should not duplicate the biography. New categories should be introduced only when they solve an actual navigation problem.
 
-## Reference-entry contract (next pass)
+## Reference-entry contract
 
 Large recurring collections may have a **separate linked subject register** rather than expanding the biography: [Nash's spellcasting phrases and rhymes](../world/characters/nash-spellcasting-phrases.md) owns that collection, with a short link from his profile and the character index. Keep source/cue provenance, confidence and distinct spoiler horizons on the register; do not duplicate its entries across reference and narrative pages.
 
-For a character/place/organization/artifact, use this consistent order:
+Use [WORLD_REFERENCE_PAGE_TEMPLATE.md](WORLD_REFERENCE_PAGE_TEMPLATE.md) as the maintained page contract for people, places, organizations, artifacts and historical events. For a character/place/organization/artifact, use this consistent order:
 
 1. **Name and aliases** (orthography/source and stable identity; no invented official title).
 2. **Overview** in two or three concise paragraphs reflecting the specified spoiler horizon.

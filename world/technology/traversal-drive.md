@@ -1,5 +1,7 @@
 # Traversal Drive — CHIDS
 
+**Browse:** [Items and artifacts](../ITEMS_AND_ARTIFACTS.md) · [World portal](../README.md)
+
 **Scope:** Large ancient installation reached deep in **CHIDS**, distinct from the **portable paired portal device**. **First physical encounter:** E079; controls used E081. **Evidence:** ASR-provisional, no audio review.
 
 ## Reaching the machine

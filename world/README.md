@@ -16,9 +16,9 @@ A **subject-centered encyclopedia** for *The Wastes*: characters, antagonists, s
 
 ## Featured reference pages
 
-**People:** [Nash](characters/nash-maggard.md) · [Hope](characters/hope-akmenos.md) · [Stanley and Diontalus](characters/stanley-diontalus.md) · [Vorel](characters/vorel.md) · [the Principle](characters/the-principle.md) · [Soulbroker](characters/soulbroker.md) · [General Carthax](characters/general-carthax.md).
+**People:** [Nash](characters/nash-maggard.md) · [Hope](characters/hope-akmenos.md) · [Stanley and Diontalus](characters/stanley-diontalus.md) · [Vorel](characters/vorel.md) · [the Principle](characters/the-principle.md) · [Soulbroker](characters/soulbroker.md) · [Nobieri](characters/nobieri.md) · [Steerious](characters/steerious-business.md) · [General Carthax](characters/general-carthax.md).
 
-**Places:** [Dusthill](places/dusthill.md) · [Slavetown](places/slavetown.md) · [Tietkalla](places/tietkalla.md) · [CHIDS](places/chids.md) · [Sigil](places/sigil.md) · [Elhandar](places/elhandar.md) · [Dunebreaker prequel](places/dunebreaker.md).
+**Places:** [Dusthill](places/dusthill.md) · [Slavetown](places/slavetown.md) · [Tietkalla](places/tietkalla.md) · [CHIDS](places/chids.md) · [Sigil](places/sigil.md) · [White Tower](places/white-tower.md) · [Elhandar](places/elhandar.md) · [Dunebreaker prequel](places/dunebreaker.md).
 
 **Relics:** [Eye of Groxl](technology/eye-of-groxl.md) · [Hand of the Voice](technology/hand-of-the-voice.md) · [Gem of Tides](technology/gem-of-tides.md) · [portal device](technology/portal-device.md) · [Traversal Drive](technology/traversal-drive.md) · [Book of Adjacencies](technology/book-of-adjacencies.md).
 
@@ -30,6 +30,6 @@ A **subject-centered encyclopedia** for *The Wastes*: characters, antagonists, s
 - **Episode evidence:** [Source-first episode dossiers](../episodes/E000.md), including [E118](../episodes/E118.md), contain temporal cutoffs and links to processed transcripts/ASR comparisons.
 - **Research uncertainty:** [Consistency ledger](CONSISTENCY_LEDGER.md), [review queue](../project/REVIEW_QUEUE.md) and [editorial decisions](../project/DECISIONS.md).
 - **Machine-readable seed:** [entities.json](entities.json) and [schema](ENTITY_SCHEMA.md) are **not complete, synchronized encyclopedic data**.
-- **Historical preservation:** Earlier append-only compendia remain in [research/legacy](../research/legacy/2026-10-22/README.md); current pages should not copy and accumulate those archived episode-by-episode registers.
+- **Historical preservation:** Earlier append-only compendia and [pre-reorganization snapshots](../research/legacy/2026-10-22/README.md) preserve the former long indexes; current pages should not copy and accumulate those archived episode-by-episode registers. [2026-10-23 reorganization report](../reports/WORLD_REORGANIZATION_2026-10-23.md).
 
-**Reference policy:** Each subject has one main page and can appear in more than one category index. Distinguish *played observation*, *GM/cast hindsight*, *character testimony*, *unverified ASR* and *owner-confirmed spellings*. An earlier belief is not overwritten by a later revelation, and predictions are not played events. Keep source links close to the claim, prefer cross-links to long duplicate retellings and record open uncertainty rather than inventing canon. [Documentation architecture](../project/DOCUMENTATION_ARCHITECTURE.md).
+**Reference policy:** Each subject has one main page and can appear in more than one category index. Authors should follow the [world-reference page template](../project/WORLD_REFERENCE_PAGE_TEMPLATE.md). Distinguish *played observation*, *GM/cast hindsight*, *character testimony*, *unverified ASR* and *owner-confirmed spellings*. An earlier belief is not overwritten by a later revelation, and predictions are not played events. Keep source links close to the claim, prefer cross-links to long duplicate retellings and record open uncertainty rather than inventing canon. [Documentation architecture](../project/DOCUMENTATION_ARCHITECTURE.md).

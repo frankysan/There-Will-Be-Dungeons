@@ -17,6 +17,8 @@
 
 ## Dangerous or ambiguous intermediaries
 
+**[Tobacho Fleur](characters/tobacho-fleur.md)** is a Sigil/Hive dragon who receives the separated Fist gauntlet E106 and signs a consequential bargain with Hope E112. **[The hooded Voice](characters/the-voice.md)** presses Hope to recover another Eye, but its claimed agenda and identity remain unsettled. Neither should be reduced to a proven all-powerful villain on testimony alone. [E106](../episodes/E106.md) · [E112](../episodes/E112.md).
+
 **Quizquaz** supplies information, bargains and contradictory explanations across Dusthill, the Black Mine and the CHIDS finale. Treat him as a [contested power broker](characters/quizquaz.md), *not* as a verified alias of the Soulbroker or a proven omniscient witness.
 
 **Jolt Elegos** dies in E050 after involvement in the Tietkalla ambush; **Suck Master Din** is executed E054; **Blunt Goliver** dies E038. These and other Arc Two adversaries are indexed in [Characters](CHARACTERS.md) and [Tietkalla](places/tietkalla.md). The **Council of Clowns, Tobacho Fleur, the Lady of Pain, the hooded Voice, the Weir and the CHIDS hive** have competing or uncertain roles; see [Factions and powers](FACTIONS_AND_POWERS.md), [Sigil](places/sigil.md), [World](WORLD.md) and [Hope](characters/hope-akmenos.md).
