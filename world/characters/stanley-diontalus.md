@@ -1,6 +1,6 @@
 # Stanley Billings and Diontalus
 
-**Portrayed by:** Jon. **Identity model:** Two distinctly acting personalities/agents who **share Stanley's body**, with shifting control; not interchangeable aliases for one intention. **Spelling:** **Diontalus** is the creator- and owner-accepted canonical display ([D-026](../../project/DECISIONS.md)). `Dion Talus`, `Deontalus`, `Diantalus`, `Diontalis` are searchable source spellings, not equal official names. **Spoilers:** main campaign through E099 and separate Q&A.
+**Portrayed by:** Jon. **Identity model:** Two distinctly acting personalities/agents who **share Stanley's body**, with shifting control; not interchangeable aliases for one intention. **Spelling:** **Diontalus** is the creator- and owner-accepted canonical display ([D-026](../../project/DECISIONS.md)). `Dion Talus`, `Deontalus`, `Diantalus`, `Diontalis` are searchable source spellings, not equal official names. **Spoilers:** main campaign through E100 and separate Q&A.
 
 ## Stanley before the intrusion
 
@@ -217,6 +217,12 @@ During **the formal chapel council Alentris actually rescinds all four earlier d
 [E098](../../episodes/E098.md) brings Stanley and Alentris to the tower roof with the unopened Fist chest. He uses **Telekinesis** to force enemy fliers into the rooftop, defeating them. In [E099](../../episodes/E099.md), **Stanley uses Feather Fall to protect the visiting celestial commander Thayle (?)** when Vorel, influenced by Mass Suggestion, knocks her from her mount. The closed chest lands on the rooftop. Stanley later **Dimension Doors with Vorel onto an enemy flying horse**; when that mount is destroyed, he **casts another Feather Fall so that both return safely to the ground**.
 
 **Alentris retrieves the chest and attempts to fly away, but an archer kills her Pegasus.** Alentris and the chest fall from the tower, and Stanley is **out of range to intervene**. **Her fate and the chest's final location remain unknown at E099's cutoff.** The separate Fist key was last documented with Stanley, not handed to Walnut. [E099 comparison](../../reports/E099_ASR_COMPARISON_2026-10-23.md).
+
+## E100 — Alentris rescued twice, key taken while unconscious
+
+At [E100's](../../episodes/E100.md) start Stanley **Dimension Doors to the base of White Tower and uses Feather Fall** to rescue **Alentris Vayne** from her E099 fall; the closed Fist chest **also survives and Alentris reclaims it**. Stanley **drinks one ordinary Potion of Healing** for nine HP, consuming his E098 blacksmith supply. The two try retreating inside but encounter a **four-armed minotaur, orcs and hooded mage** from newly arrived airships. Stanley **Dimension Doors Alentris and the chest back to the roof**, briefly safeguarding it. He kills a demonic archer with **Telekinesis** and heals **Hope** with Healing Word. After the minotaur **strikes Alentris unconscious and leaps off with the chest**, Stanley **Telekinesis-pulls the commander into his arms and Feather Falls the two off the tower**. He later **Heals Alentris back to consciousness**.
+
+A later hostile **Fire Storm knocks both Stanley and Alentris unconscious** as they descend; **neither is confirmed dead**. Vorel, still accelerated by Nash's **Haste**, **searches unconscious Stanley's equipment, takes the stolen Thrun medallion/key and inserts it in the Fist chest's lock**, opening the relic container. **The medallion was NOT previously handed to Walnut or Alentris; after activation it is last seen socketed**, not recovered by Stanley. Vorel physically takes the **gauntlet enclosing a severed hand**, while **Hope alone receives a private invitation**. Stanley has no shared knowledge of that voice at cutoff. [E100 ASR report](../../reports/E100_ASR_COMPARISON_2026-10-23.md).
 
 ## E096 — cured by Alentris, new relationship and conditional celestial plan
 
