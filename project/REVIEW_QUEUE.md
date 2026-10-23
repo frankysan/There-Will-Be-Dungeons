@@ -393,7 +393,7 @@ This is a **triage queue**, not a complete record of every ASR timestamp. Dates 
 | Critical | 01:55–02:20; 02:20–02:43 | Confirm **Squirts's actual Heal, Nash's Fireball killing gnome attendant, Fambo's survival, Mass Healing Word, Feather Fall**, Vorel's shaft-door opening and orc losses. Count only audio/played supported casualties. |
 | High | 02:49–02:52:14 | Verify **Tobacho bar arrival and final dragon words**, anomalous final Qwen **“Walnut”** cue; do not backdate any Fist handover or Earth ticket. |
 
-**E106 researched, ASR-provisional:** [I Took An Arrow Thru The Brain](../episodes/E106.md) · [full two-export comparison](../reports/E106_ASR_COMPARISON_2026-10-23.md): **1,885 / 21,909 = 8.60% ordered-word disagreement**, not word accuracy. **Next corrected-numbered source: Wastes S1E107 — The Handshaking Algorithm**, both ASR files confirmed, catalogued as a **Jon-GMed side story with new characters**; check actual continuity/type before adding to the same event timeline.
+**E106 researched, ASR-provisional:** [I Took An Arrow Thru The Brain](../episodes/E106.md) · [full two-export comparison](../reports/E106_ASR_COMPARISON_2026-10-23.md): **1,885 / 21,909 = 8.60% ordered-word disagreement**, not word accuracy. **Release-order step after E106: [Bonus 2020-06](../episodes/BONUS-2020-06.md), already analyzed ahead of sequence. Next unresearched corrected-numbered source: Wastes S1E107 — The Handshaking Algorithm**, both ASR files confirmed, catalogued as a **Jon-GMed side story with new characters**; check actual continuity/type before adding to the same event timeline.
 
 | Priority | E106 clock | Precise source/audio verification task |
 | --- | --- | --- |
