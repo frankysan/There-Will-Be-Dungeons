@@ -32,7 +32,7 @@ One arriving elevator **crashes**. The party takes another, which **halts betwee
 - **Ancient origin stories:** Human/demon experiments, elven afterlife, tiefling/lizardfolk genealogy, sound-reactive crystals and the **“Principal Dombrovski”** name should **not be presented as indisputable narration**. The **pink membrane and laboratory vessels** are direct observations, strengthening evidence of biological experimentation in general but not proving each specific claim.
 - **Purpose:** She is **a coerced/unreliable guide with her own urgent agenda**, not straightforwardly a friend, creator, combat villain or benevolent spirit.
 
-**Evidence:** [E072](../../episodes/E072.md) (~01:00–02:43) · [E073](../../episodes/E073.md) (~01:18–02:41). **Related:** [CHIDS](../places/chids.md) · [Stanley](stanley-diontalus.md) · [Vorel](vorel.md) · [chronology](../CHRONOLOGY.md) · [consistency ledger](../CONSISTENCY_LEDGER.md) · [review queue](../../project/REVIEW_QUEUE.md).
+**Evidence:** [E072](../../episodes/E072.md) (~01:00–02:43) · [E073](../../episodes/E073.md) (~01:18–02:41). **Related:** [CHIDS](../places/chids.md) · [Stanley](stanley-billings.md) · [Vorel](vorel.md) · [chronology](../CHRONOLOGY.md) · [consistency ledger](../CONSISTENCY_LEDGER.md) · [review queue](../../project/REVIEW_QUEUE.md).
 
 ## Death, return, betrayal and disappearance (E074–E075)
 
@@ -44,4 +44,4 @@ One arriving elevator **crashes**. The party takes another, which **halts betwee
 
 **Name caution:** During E075's Toby encounter the GM/cast briefly discuss which version of her name they had written down, but the processed SRT contains **inconsistent pronunciations**. **Cerinthala remains an editorial display name pending audio/creator-written confirmation**. It would be misleading to interpret her return as proving that **all elves always resurrect** as she claimed; only **this one return** is observed.
 
-**Evidence:** [E074](../../episodes/E074.md) (~01:38–01:47) · [E075](../../episodes/E075.md) (~00:40–01:05, ~01:30–02:22). **Related:** [CHIDS](../places/chids.md) · [Portal device](../technology/portal-device.md) · [Stanley](stanley-diontalus.md).
+**Evidence:** [E074](../../episodes/E074.md) (~01:38–01:47) · [E075](../../episodes/E075.md) (~00:40–01:05, ~01:30–02:22). **Related:** [CHIDS](../places/chids.md) · [Portal device](../technology/portal-device.md) · [Stanley](stanley-billings.md).

@@ -12,4 +12,4 @@ Omnom **accuses Hope of killing his family with her rocket**, of burning Tietkal
 
 **Titles and relationship:** Omnom uses **“Great Fang”** for **Vorel**, affirming the previously earned title; this is **repeat recognition**, not a new rank awarded in E118. He respects Vorel's judgment despite his anger, and their connection now links Razak Val's losses to Hope's unresolved responsibility. **Further destiny, recruitment, and whether Omnom can trust her remain open**.
 
-**Related:** [Vorel](vorel.md) · [Hope](hope-akmenos.md) · [Stanley](stanley-diontalus.md) · [E118 dossier](../../episodes/E118.md) · [active review queue](../../project/REVIEW_QUEUE.md).
+**Related:** [Vorel](vorel.md) · [Hope](hope-akmenos.md) · [Stanley](stanley-billings.md) · [E118 dossier](../../episodes/E118.md) · [active review queue](../../project/REVIEW_QUEUE.md).

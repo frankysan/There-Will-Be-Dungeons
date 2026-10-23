@@ -6,7 +6,7 @@
 
 | Subject | Role in the story | Detailed reference |
 | --- | --- | --- |
-| **Diontalus** | Self-described archfey of carnage, **forcibly joined Stanley E029**, murderer of George and P0D; **extracted into a crystal E059**, later fate unknown | [Diontalus](characters/diontalus.md) · [Stanley](characters/stanley-diontalus.md) |
+| **Diontalus** | Self-described archfey of carnage, **forcibly joined Stanley E029**, murderer of George and P0D; **extracted into a crystal E059**, later fate unknown | [Diontalus](characters/diontalus.md) · [Stanley](characters/stanley-billings.md) |
 | **Monsoon Cabbage** | Twenty-Sixers leader manipulating the Tietkalla struggle and issuing Order 26; escapes as mist E054, despite later rumors | [Monsoon](characters/monsoon-cabbage.md) |
 | **The Principle / Vladimir** | Ancient ruler, Slavetown-linked political power, contractual target of the party; later direct contact and disputed claims of ascension | [The Principle](characters/the-principle.md) |
 | **The Soulbroker** | Catoblepraithe/Catobelpraithe (?) of Château Weir, who binds three adventurers in a soul-related pact | [Soulbroker](characters/soulbroker.md) |

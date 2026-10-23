@@ -8,7 +8,7 @@ P0D follows the adventurers into the underground route and helps investigate for
 
 Her death worsens the relationship between Nash, Stanley, Diontalus and Vorel. Vorel later proposes the **Pillars of Decency (POD)** partly as a memorial. The Year One Q&A adds that the GM **had prepared an unchosen route to try rescuing pixies**, and that Order 26 was part of Monsoon's planned assault; **this does not create a successful rescue or undo her death**.
 
-**Evidence:** [E031](../../episodes/E031.md) · [E032](../../episodes/E032.md) · [E040](../../episodes/E040.md) · [E041](../../episodes/E041.md) · [E045](../../episodes/E045.md) · [E049](../../episodes/E049.md) · [E050](../../episodes/E050.md) · [E051](../../episodes/E051.md) · [Nash](nash-maggard.md) · [Stanley/Diontalus](stanley-diontalus.md) · [Q&A](../../episodes/BONUS-2019-03.md).
+**Evidence:** [E031](../../episodes/E031.md) · [E032](../../episodes/E032.md) · [E040](../../episodes/E040.md) · [E041](../../episodes/E041.md) · [E045](../../episodes/E045.md) · [E049](../../episodes/E049.md) · [E050](../../episodes/E050.md) · [E051](../../episodes/E051.md) · [Nash](nash-maggard.md) · [Stanley/Diontalus](stanley-billings.md) · [Q&A](../../episodes/BONUS-2019-03.md).
 
 ## Spirit encounter after death — E056
 

@@ -13,7 +13,7 @@
 
 These lengths describe the **four original page bodies**, not any deletion of details: the full snapshots were preserved before replacement, with relative links rebased for their archive paths. **Nash's source-indexed casting register** already exists. The **23,186-character [Vorel titles register](../world/characters/vorel-titles.md)** is now separated with its historical source/cue table intact.
 
-The original `world/characters/stanley-diontalus.md` **remains Stanley's main page for URL compatibility**, and is titled *Stanley Billings*. The new [Diontalus profile](../world/characters/diontalus.md) independently owns the archfey's forcible E029 possession, E045/E050 killings, E057 leprechaun death, E059 crystal extraction, claimed origins and unverified future. This avoids merging **Stanley's voluntary E023 Soulbroker compact** with **Diontalus's separate nonconsensual intrusion**. Both pages link to each other, and the character/antagonist indexes point to the appropriate owner.
+**Subsequent 2026-10-23 refinement:** Stanley's canonical profile has moved to [stanley-billings.md](../world/characters/stanley-billings.md). The original `world/characters/stanley-diontalus.md` now holds a brief compatibility page pointing to both independent characters. The new [Diontalus profile](../world/characters/diontalus.md) independently owns the archfey's forcible E029 possession, E045/E050 killings, E057 leprechaun death, E059 crystal extraction, claimed origins and unverified future. This avoids merging **Stanley's voluntary E023 Soulbroker compact** with **Diontalus's separate nonconsensual intrusion**. Both pages link to each other, and the character/antagonist indexes point to the appropriate owner.
 
 ## Continuity and editorial decisions retained
 

@@ -2,13 +2,13 @@
 
 **Identity:** A supernatural agent who **forcibly joins Stanley Billings in E029**, exercises independent control of the shared body, and is **physically extracted into a crystal by the Principle in E059**. **Spelling:** *Diontalus* is the owner-accepted canonical display ([D-026](../../project/DECISIONS.md)); `Dion Talus`, `Deontalus`, `Diantalus` and `Diontalis` are ASR variants, not separate entities. **Spoilers:** Through E118 and retrospective bonuses. **Evidence:** Episode dossiers based on processed ASR, not audio verification.
 
-**Browse:** [Characters](../CHARACTERS.md) · [Antagonists](../ANTAGONISTS.md) · [Stanley Billings](stanley-diontalus.md) · [World portal](../README.md).
+**Browse:** [Characters](../CHARACTERS.md) · [Antagonists](../ANTAGONISTS.md) · [Stanley Billings](stanley-billings.md) · [World portal](../README.md).
 
 ## Origin and intrusion — E029–E034
 
 In the **oil sands** between the Golden Land and Tietkalla, Stanley explores while other party members are entranced. He encounters a luminous being identifying himself as **Diontalus**; **Stanley refuses the proposed arrangement**, yet the entity **enters his body by force in E029**. Later scenes, including **E034**, establish a distinct speaking/acting personality capable of taking control. This is **not** Stanley willingly signing a new pact, an alternate name for Stanley, or evidence that the Soulbroker personally caused the intrusion. [E028](../../episodes/E028.md) · [E029](../../episodes/E029.md) · [E034](../../episodes/E034.md).
 
-Diontalus calls himself an **archfey of carnage**. His powers and control are witnessed, but his rank, remote history and implied cosmic authority are **self-description**, not independently established facts. During possession, whether Stanley can perceive or prevent a given action is scene-dependent, and the host's guilt or reaction must be recorded separately from **Diontalus's agency**. [Stanley](stanley-diontalus.md) · [World](../WORLD.md).
+Diontalus calls himself an **archfey of carnage**. His powers and control are witnessed, but his rank, remote history and implied cosmic authority are **self-description**, not independently established facts. During possession, whether Stanley can perceive or prevent a given action is scene-dependent, and the host's guilt or reaction must be recorded separately from **Diontalus's agency**. [Stanley](stanley-billings.md) · [World](../WORLD.md).
 
 ## Conduct and casualties — E045–E057
 
@@ -26,7 +26,7 @@ An idea of **sending Diontalus into space** circulates, but later cast discussio
 
 The intelligent cat **Buttons** shows particular concern for Stanley during their time together. In the later **March 2019 cast Q&A**, Beau reveals his intended, previously undisclosed motive: **Buttons loved Stanley** and wanted to take him to the **Arcanum** to remove Diontalus. This is retrospective creator information—not something Stanley necessarily understood during the E049 ambush, nor evidence that such a rescue actually occurred. **Vorel kills Buttons E049**. The Principle later invokes Buttons' report in support of the E059 extraction; the Principle's testimony and Beau's retrospective comment remain distinct evidence. [Buttons](buttons.md) · [E049](../../episodes/E049.md) · [E059](../../episodes/E059.md) · [March 2019 Q&A](../../episodes/BONUS-2019-03.md).
 
-**Stanley** wants to remove Diontalus, experiences guilt for the harm done through his body and studies medicine partly toward eventual separation. **Nash** mourns P0D and opposes the entity's cruelty. **Vorel** treats the shared body with suspicion yet his opposition to Diontalus does not prove Stanley approved every murder. The **Soulbroker compact** was signed by **Stanley** (plus Hope and Nash) in E023, **not** by Diontalus as a second consenting signer. [Stanley](stanley-diontalus.md) · [Soulbroker](soulbroker.md) · [Vorel](vorel.md) · [Nash](nash-maggard.md).
+**Stanley** wants to remove Diontalus, experiences guilt for the harm done through his body and studies medicine partly toward eventual separation. **Nash** mourns P0D and opposes the entity's cruelty. **Vorel** treats the shared body with suspicion yet his opposition to Diontalus does not prove Stanley approved every murder. The **Soulbroker compact** was signed by **Stanley** (plus Hope and Nash) in E023, **not** by Diontalus as a second consenting signer. [Stanley](stanley-billings.md) · [Soulbroker](soulbroker.md) · [Vorel](vorel.md) · [Nash](nash-maggard.md).
 
 ## Creator commentary and disputed fate
 

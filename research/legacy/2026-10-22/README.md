@@ -43,7 +43,7 @@ Before replacing four increasingly episode-appendix-heavy protagonist biographie
 | --- | --- |
 | [Nash before consolidation](PROFILE_NASH_MAGGARD_BEFORE_2026-10-23.md) | [Nash](../../../world/characters/nash-maggard.md) |
 | [Hope before consolidation](PROFILE_HOPE_AKMENOS_BEFORE_2026-10-23.md) | [Hope](../../../world/characters/hope-akmenos.md) |
-| [Stanley and Diontalus together](PROFILE_STANLEY_DIONTALUS_BEFORE_2026-10-23.md) | [Stanley](../../../world/characters/stanley-diontalus.md) · [Diontalus](../../../world/characters/diontalus.md) |
+| [Stanley and Diontalus together](PROFILE_STANLEY_DIONTALUS_BEFORE_2026-10-23.md) | [Stanley](../../../world/characters/stanley-billings.md) · [Diontalus](../../../world/characters/diontalus.md) |
 | [Vorel before consolidation](PROFILE_VOREL_BEFORE_2026-10-23.md) | [Vorel](../../../world/characters/vorel.md) · [Full title register](../../../world/characters/vorel-titles.md) |
 
 The [second-arc consolidation report](../../../reports/SECOND_ARC_CONSOLIDATION_2026-10-22.md) records the reductions, preservation rules and recommended follow-up checks. **None of the source audio or Parakeet SRT files was changed in this editorial operation.**
