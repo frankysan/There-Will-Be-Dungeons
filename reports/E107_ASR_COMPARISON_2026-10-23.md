@@ -1,0 +1,39 @@
+# E107 — complete Parakeet/Qwen ASR comparison (2026-10-23)
+
+> **The Wastes S1E107 — The Handshaking Algorithm · Jon-GMed Dunebreaker prequel, part 1, in the SAME Wastes world.** [Dossier](../episodes/E107.md) · [Dunebreaker place reference](../world/places/dunebreaker.md). **Full-export text-only comparison**, not independent audio listening, WER, semantic correctness proof or a new transcription experiment. Both existing SRTs were read to their network sign-offs, not stopped at the murder cliffhanger.
+
+## Sources and method
+
+On commencement of the investigation the connected workspace reported clean branch **main** at **`b92b414017662e3172ae4d06736ab76154e74398`** in **There Will Be Dungeons Transcripts**. All SRT bytes were obtained from the read-only **workspace binary reader** in sequential 65,536-byte blocks and decoded; original ASR files were not changed. No MP3 was listened to, audio-copy hash association, word-timing precision, diarization validation, or model run/build/performance metadata was available. “Parakeet processed” and “Qwen Q8/Canary CTC/Nemotron” are **filename-derived pipeline labels only**.
+
+| Full existing ASR filename | Size (bytes) | SRT cues | First start | Last end | Normalized words | SHA-256 (workspace binary reader) |
+| --- | ---: | ---: | --- | --- | ---: | --- |
+| [The Wastes S1E107. The Handshaking Algorithm.parakeet.processed.srt](../sources/The%20Wastes%20S1E107.%20The%20Handshaking%20Algorithm.parakeet.processed.srt) | 255,293 | **2,577** | **00:00:04.320** | **02:52:03.510** | **23,742** | `818ca57102eaa727947f5884996eb0234c01697b93820a602d34581895254e89` |
+| [The Wastes S1E107. The Handshaking Algorithm.qwen-q8.canary-ctc.nemotron.srt](../sources/The%20Wastes%20S1E107.%20The%20Handshaking%20Algorithm.qwen-q8.canary-ctc.nemotron.srt) | 327,626 | **3,930** | **00:00:03.120** | **02:52:03.230** | **23,852** | `9f2e23ccade66959fd5973d9533d139bf921632ab55aa915aa4a5295e0219e57` |
+
+**Normalization** (consistent with previous Wastes reports): parse chronological SRT cue bodies (not indices/timestamps), strip optional `(speaker N)` decorations, join text, lowercase, **delete straight/curly apostrophes without separating contractions**, replace everything except Unicode letters/digits with spaces, then split into word tokens. Compute **exact, whole-sequence, unit-cost ordered Levenshtein distance** with an arbitrary-width bit-vector implementation (same method as E105/E106). Insertions, substitutions and deletions cost 1; alignment and speaker/timestamp information are not scored.
+
+**Measured Parakeet → Qwen disagreement:** **1,281 ordered word edits / 23,742 Parakeet tokens = 5.40%** (unrounded **5.3955%**). **Qwen has 110 more normalized tokens**. Neither the extra words nor the low disagreement rate establishes that those words were actually spoken, that omissions occurred, or that either export is the more accurate transcript.
+
+## Episode-specific high-impact uncertainties (clock from the SRTs)
+
+| Clock | Competing/fragile ASR content | Editorial guardrail / audio task |
+| --- | --- | --- |
+| ~00:00–00:04 | Intro labels the episode a **one-off**, Jon excludes his *Inverse* sessions, then explicitly identifies the **same Wastes long before Nash's group leaves Dusthill**. | “One-off” means **cast/GM switch**, not separate universe; owner publication catalogue identifies a **three-part Dunebreaker prequel**, with E108 second and E109 third. Do not append E107 to E106 Arc Five character chronology. |
+| ~00:04–00:16 | **Ember Shalisper/Shalaspur (?)**, **Ramilda Gloryfaded/Glory Fated**, **Killdeath/Killeath the Darkheart**, **Strum** and Al's unusual introduction are phonetic. Two recognizers vary in word boundaries/casing. | Confirm official spelling from production/handouts or audio; no invented surnames for Al and no proof Ember is an elemental. |
+| ~00:16–01:06 | **Chicken Lord** grotesque monster and acid breath, **Al's Spare the Dying** on Killdeath and **after the fight Bart**, the GM's escalating-death-saves house rule, and **Hack's actual final killing blow**. | Both non-selected contenders remain **alive but unconscious** when removed; **GM house rule is local** to this side story. Do not confuse creature with the distinct earlier political *Chicken Lords* automatically. |
+| ~01:06–01:11 | Goliath engineer **Gens/Genz** extends hand; Al announces **“handshaking algorithm”** and performs comic mechanical handshake. | Literal source of the title; not a new networking system, authentication spell or a pact. Confirm Gens's name. |
+| ~01:11–01:23 | **Fleece/Fleese** approaches on behalf of unnamed patron; writes on **Al-printed contract, 100 gold base + 50 gold per pertinent fact**. | **Written contract actually signed**, but paid amount zero and information withheld; provenance and binding power unproven. |
+| ~01:22–02:07 | Al's paper production, Hack's money-making idea, “Victorious Quartet,” stew/vomit, merchant's **Ember-found-old-machine story**. | **Paper business discussed, not launched;** trade lore NPC report, not independently verified engine origin. |
+| ~02:07–02:27 | First actual **Dunebreaker boarding**: ~400-foot vessel, five structural sections, four levels, sand-melting glass trail; side market, engineering/vault. | Ship's structure and visible heat depicted; exact technical performance and supply source not explained; do not mistake “three cars” for total of three instead of three **plus head and tail**. |
+| ~02:24–02:35 | **Lotho/Lotho**, **Argul and Gasper**, **Horace**; security rules and **no salary**. | Food, shelter, protection are compensation, not ordinary gold wages; map restriction explicitly conflicts with Fleece's requested intelligence, but breach has **not** happened. |
+| ~02:37–02:48 | **Al's structural assessment (4–6 weeks)**, idle-looking workers, four back wounds, **small notebook** with no clue found under Investigation 5. | Al **acquires/glances at notebook** but has not decoded it. Suspicious worker behavior is not culprit identification or deliberate sabotage proof. |
+| ~02:48–02:52 | Engineer witness hears screams, flight/steps, points down **segment 2**; four investigators follow. | **Killer unidentified**; the episode ends **before confrontation**, and the final several minutes are postgame/outro rather than played investigative resolution. |
+
+The primary and secondary exports were each parsed in full, and key opening, fight, NPC introduction, contract, mechanical-vessel layout and ending windows were compared in text. **No audio was played.** Actual speaker changes, especially around the confused names, live technical rules corrections and background joking, require original-audio listening. The owner-provided catalogue identifies **TWBD 109, Sunday 21 June 2020** as this corrected E107, which is metadata, not a verified recording time.
+
+## Review priorities, artifacts and next source
+
+Review exact **Jon prequel declaration**, correct character/ship names and Ember's origin language, all rescue/death outcomes, Al's **Gens handshake** and **Fleece signature**, Dunebreaker map/vault hierarchy, unnamed victim and knife/puncture description, and the last witness's words. Avoid presenting cross-recognizer agreement as audio verified. Keep source SRTs untouched.
+
+**Next corrected source**: [E108 — Save The Two (Parakeet)](../sources/The%20Wastes%20S1E108.%20Save%20The%20Two.parakeet.processed.srt) · [Qwen](../sources/The%20Wastes%20S1E108.%20Save%20The%20Two.qwen-q8.canary-ctc.nemotron.srt). Both **exist and were identified by name/size/hash**, **neither was analyzed here**. Owner catalogue: publisher **TWBD 110, 29 June 2020**, **second chapter of the same Dunebreaker mini-arc**. [Episode dossier](../episodes/E107.md) · [review queue](../project/REVIEW_QUEUE.md).
