@@ -1,6 +1,6 @@
 # E091 — Going on a heist: two-ASR comparison (2026-10-23)
 
-> **Text-only comparison** of two original subtitle exports for the same ~02:46:27 recording; **no audio listening or human reference transcript**. Neither original source SRT has been modified. [Episode dossier](../episodes/E091.md).
+> **Text-only comparison** of two original subtitle exports for the same ~02:46:29 recording; **no audio listening or human reference transcript**. Neither original source SRT has been modified. [Episode dossier](../episodes/E091.md).
 
 ## Source inventory and method
 
