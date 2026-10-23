@@ -13,7 +13,7 @@
 | [Places](PLACES.md) | Consolidated place index for Wastes settlements, CHIDS, Sigil and Outlands | **Main location chronology through E096**, including White Tower's completed cure and pending restricted-library visit. |
 | [Portal device](technology/portal-device.md) | **Paired gateways and third necrotic-beam mode**; E075 acquisition, E076 executed escape, E077 friendly-fire risk; last documented device use E079 | **Updated through E079** |
 | [World and history](WORLD.md) | **Consolidated thematic reference**: the ancient catastrophe, settlements, factions, dragon technology, Soulbroker pacts, artifacts, religion and contested lore | **Thematic second-arc consolidation through E081** |
-| [Unified campaign chronology](CHRONOLOGY.md) | **53 main-story Arc One entries, followed by E055–E081**, time jump, publication exceptions and resolved cutoffs | **Chronology extended through E096** |
+| [Unified campaign chronology](CHRONOLOGY.md) | Main-campaign events from E000 through the current Arc Three; time jumps and publication exceptions preserved | **Chronology extended through E096** |
 | [Active consistency ledger](CONSISTENCY_LEDGER.md) | **Open questions, owner decisions, later source-cutoff resolutions** and links to detailed evidence | **Current topical questions; full earlier research archived** |
 | [Structured entity seed](entities.json) and [schema](ENTITY_SCHEMA.md) | Machine-readable E000/E001 seed | **Not yet synchronized with all subsequent episode dossiers** |
 
