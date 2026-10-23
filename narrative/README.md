@@ -16,6 +16,8 @@ This directory holds **narrative histories**: readable retellings of the actual 
 
 - **[March 2020 public-release cast Q&A](../episodes/BONUS-2020-03.md)** — Beau clarifies **Weir versus published Planescape lore**, the initially joking origin of M-sports and Sigil-specific resurrection possibilities; Jon discusses **Stanley's psychological change**. **No new main-campaign scene or confirmed future ending**.
 
+- **[April 2020 public-release cast Q&A](../episodes/BONUS-2020-04.md)** — GM confirms **Walnut human/male**, an **inactive Eye of Groxl remnant**, and the intentional social contrast between Earth and Sigil; later Nash/demon cliffhanger discussed without a researched outcome. **Not an additional scene in Arc Three**.
+
 **Current Arc 3 reading:** [Strangers in the City of Doors](ARC_THREE.md) now reaches **E094**. The party survives the airship emergency and reaches White Tower, although Hope takes a different route from her companions. The defenders have granted them more time to plan a safe removal of Zorander's Fist; its chest remains unopened and the pendant key stays with Stanley. [E094 dossier](../episodes/E094.md) · [ASR comparison](../reports/E094_ASR_COMPARISON_2026-10-23.md) · [chronology](../world/CHRONOLOGY.md). *Inverse* is a separate reality.
 
 ## Reading rules
