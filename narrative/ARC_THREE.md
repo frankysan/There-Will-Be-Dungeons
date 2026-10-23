@@ -1,8 +1,8 @@
 # Arc Three — Strangers in the City of Doors
 
-**The Wastes, third researched story arc — opening chapters, corrected E082–E090 (ongoing)**
+**The Wastes, third researched story arc — opening chapters, corrected E082–E091 (ongoing)**
 
-**Full spoilers through E090.** This is an **initial narrative**, not a completed arc or an audio-verified transcript. It retells the **played sessions** from their [source-first dossiers](../episodes/E082.md), [E083](../episodes/E083.md), [E084](../episodes/E084.md), [E085](../episodes/E085.md), [E086](../episodes/E086.md), [E087](../episodes/E087.md), [E088](../episodes/E088.md), [E089](../episodes/E089.md) and [E090](../episodes/E090.md), which are based on processed ASR. Dialogue is paraphrased; uncertain names and planar explanations are not certified by this prose. The [December 2019 cast Q&A](../episodes/BONUS-2019-12.md) is retrospective context, **not another chapter of events**. This is **The Wastes**, wholly separate from *Inverse*.
+**Full spoilers through E091.** This is an **initial narrative**, not a completed arc or an audio-verified transcript. It retells the **played sessions** from their [source-first dossiers](../episodes/E082.md), [E083](../episodes/E083.md), [E084](../episodes/E084.md), [E085](../episodes/E085.md), [E086](../episodes/E086.md), [E087](../episodes/E087.md), [E088](../episodes/E088.md), [E089](../episodes/E089.md), [E090](../episodes/E090.md) and [E091](../episodes/E091.md), which are based on processed ASR. Dialogue is paraphrased; uncertain names and planar explanations are not certified by this prose. The [December 2019 cast Q&A](../episodes/BONUS-2019-12.md) is retrospective context, **not another chapter of events**. This is **The Wastes**, wholly separate from *Inverse*.
 
 ## Prologue — After the light
 
@@ -498,15 +498,55 @@ Jelver waits by a shadowed doorway. He beckons them into the **dark passage wher
 
 [E090](../episodes/E090.md) · [Tobacho source comparison](../reports/E090_ASR_COMPARISON_2026-10-22.md)
 
+## XXII. The canyon that was not a canyon
+
+Jelver leads them deep into Tobacho's underground halls. At one open doorway, **Gerbken Shartlinger—the Mind Master**—sits across a desk from an unknown figure. An orc shuts the door before anybody can speak to him. It is a disquieting glimpse after Vorel's tournament and Kanja's reported murder, but not an explanation of either crime.
+
+Further on, the passage ends in a bare chamber with a ring of inscribed stones. Jelver steps into it and beckons. Vorel, still insisting upon the ludicrous name **Toyota Stump**, hesitates; then they all enter. Light consumes them. Instead of a stone room there is a **baking desert canyon**, wind lifting sand along the steep walls. Jelver announces that he needs to know whether they can do what Tobacho asks. Then he blows away like dust.
+
+The ground opens in four places. Enormous green trolls emerge. One has two heads that argue with each other; another is sickly and full of poisonous blood; a third throws boulders as casually as pebbles. **Three of the heroes pretend to die on the spot**, while Vorel stands against them alone. For a few moments the trolls do not know quite what to make of this encounter.
+
+Then the real fight begins. **Nash makes Stanley faster with Haste**, but cannot extend that spell to everyone. **Stanley brings a boulder to life**, crashing it into a troll until the creature hammers it into dust. **Hope's crossbow** finds the brutes across the canyon. **Vorel leaps onto the two-headed one's back**, jams a spiked boot between folds of giant flesh and finds that a burning blade of metal can terrify a monster that fears fire. Nash, pinned beneath a thrown rock, answers with a great **Fireball**. He tries to protect his friends from the blast, but even their successful saves cannot prevent all harm.
+
+Stanley kills one troll with a **thunderous sword stroke**. Vorel eventually drives his flaming boot clear through the two-headed creature. Another troll slashes its own body open to spray poisonous blood, then repeats the trick until the injury kills it. The survivors are not safe. **Nash is near collapse**, and Stanley changes him into a **house-sized ape** so he can fight with a fresh pool of strength. The ape beats and throws rocks at the final troll, **Gloria**, but Stanley himself is struck by another boulder. **He goes unconscious**, and the spell keeping Nash enormous ends.
+
+The last enemy hurls stones over the battlefield. **Hope finally shoots Gloria through the head**. Its body falls across the rock that has buried Stanley. Vorel strains to lift the weight while Nash moves earth out from underneath it; Hope pulls their friend free. He is not breathing easily. Nash rifles through **Stanley's own belongings for a healer's kit** and stabilizes him. Stanley remains unconscious.
+
+The canyon shivers and **melts away**. They are back in a room of brick and runes, surrounded by exhausted, injured robed figures. Jelver congratulates them. This, he says, was a **test**, and they passed. He restores Stanley with magic, then escorts the party to be cared for. The injuries were real enough; the desert was not shown to be any real stretch of Earth or the Outlands.
+
+[E091](../episodes/E091.md) · [Two-ASR combat and source comparison](../reports/E091_ASR_COMPARISON_2026-10-23.md)
+
+## XXIII. The key that is nowhere near the treasure
+
+In a comfortable private office, attendants pour large, sharp-tasting restorative drinks for the wounded. **Stanley, Nash and Vorel recover their strength**. Jelver warns that Tobacho's goodwill will turn quickly if they undertake the mission and fail. The promised unnamed object is at last given a name: **Zorander's Fist**, a gauntlet once carried by a champion from a distant Prime world. Followers of the radiant god **Euphemius** and the **Obsidian White paladins** have fought demons for it across the **Outlands**. Jelver does not know what its power is; Tobacho sees an extraordinary commercial prize.
+
+He lifts a screen behind his desk. A **hooded bishop has been bound to a chair** in the next room, unaware that he is being watched through a one-way pane. Jelver calls him **Stevius Ritley**, a Sigil servant of Euphemius. His people have kidnapped the cleric and put a **changeling in his place** so that the city's faithful will not suspect anything.
+
+Stanley enters alone, lights the dark cell and takes the hood from the captive's face. He begins with gentleness. The bishop pleads for freedom and denies knowledge of the Fist, fearing his captors. Stanley then lets his **Enthralling Performance** weave a different kind of threat: a sermon about righteousness and the obligation to protect sacred things. The bishop's face relaxes. He believes Stanley is a fellow servant of justice. Through extraordinary deception, Stanley convinces him that even his restraints are part of a secret protective stratagem.
+
+Now the bishop talks. The **Obsidian White**, he says, have recovered **Zorander's Fist** and taken it to the **White Tower in the Outlands**, where demonic armies are besieging them. The tower has **no ordinary door**; only souls of unalloyed good can pass through its walls. If the paladins can reach **Mount Celestia**, they can save the relic from the demons forever. Until then their attackers hurl stones and winged horrors against the walls.
+
+But **the Fist is locked inside a separate holy box**. Its **key is not at the tower**. The High Cleric of Euphemius in Sigil, a man called **Butar Thrun**, wears it around his neck. Stanley has found not one target, but **two places that must be infiltrated in the right order**. Before he leaves, the bishop asks after an aunt who runs a small shop in the market. Stanley promises what help he can, covers his head again and leaves him imprisoned. **Neither the relic nor the key has yet been seen by the party**. Jelver has watched the whole interview. Stanley's ability to make a prisoner trust him leaves the broker visibly wary.
+
+There is now a discussion of how to rob a tower whose walls judge souls. They consider masquerading as its defenders, luring paladins out, burrowing through the besieging army and flying a dragon into battle. Jelver offers a more audacious design: **an airship far above the tower**, a jump through open air, and **Dimension Door** cast at the moment before impact. He calls it **tele-shooting**. To get out again, more teleportation and reversed gravity might send them up to the waiting ship. **Nothing has yet proved this plan can bypass the tower's warding**.
+
+The others want the job done quickly and with as little fighting as possible. Jelver agrees that the **pendant-key must be stolen first**, ideally with a false replacement to conceal the theft. He records requests for **eight Dimension Door scrolls, four Reverse Gravity scrolls, a crewed airship** and other equipment. He gives them **a sealed authorization for Lohar to fashion more disguises**, and discusses **loaned firearms and ammunition** that may be produced for Hope. **They do not receive the ship, scrolls or guns yet**. Scully is still Tobacho's.
+
+Vorel, however, gets a weapon in his hands. Jelver opens a wardrobe and produces **Shatter**, an immense **+2 greatsword** that he says he once used to kill an angel. It is to be **returned** when the mission is done. Vorel takes it, reserving judgment on the story of its former owner. At the last moment the party remembers the Harmonium's threat at the Hive gate. Jelver produces **another sealed writ** and advises them to find a different checkpoint if a guard refuses it. The writ is **not tested**.
+
+**The heist begins only in intention**. First they will try to steal the cleric's pendant; then they may fly above a war and descend into the White Tower. If they succeed, Tobacho's bargain now promises them **actual use of a portal to Earth**. They have not gone to the temple, met the cleric, touched the Fist or crossed the gate home. Their next business lies beyond this recording. At the table, the GM awards **level ten**.
+
+[E091](../episodes/E091.md) · [Heist source comparisons](../reports/E091_ASR_COMPARISON_2026-10-23.md)
+
 ## An open door, not an ending
 
 The four who entered CHIDS's red beam are together again: **Hope and Stanley restored through Kidigree's mirrors**, and **Nash fully regrown after eight days**, with his thermal underwear unexpectedly fused to his body, providing **cooling and ten-foot flight** by GM ruling. **Vorel** owns a champion's title and a professional BMF cabinet at the Soggy Feather, but has not bought the inn.
 
-The way home is now tantalizingly close in knowledge, though not in practice. **Tobacho Fleur**, whom Sigil's portal register named, is **a powerful blue dragon in the Hive**. **He has accepted Scully as a diplomatic gift**, leaving Hope without either old pistol, and will disclose Earth-portal **location and means of access only if the companions recover an unspecified item**. They have **no actual door location, key, retrieval instructions or completed job**. The **Harmonium threatened to prevent their exit from the Hive**, a distinct obstacle the party has not tested by trying to leave.
+The way home is now a question of what they are willing to steal. **Tobacho Fleur, a blue dragon in the Hive, still holds Scully**, but Jelver has finally **named the demanded prize: Zorander's Fist**. Stanley's spell-aided interrogation of **kidnapped Bishop Stevius Ritley** yields two reported targets: a **besieged White Tower in the Outlands** holding the gauntlet in a holy locked box, and **High Cleric Butar Thrun in Sigil**, wearing its key. The bishop is still captive, impersonated by a changeling. **None of his claims has been confirmed by a visit to the tower or cleric**.
 
-Hope has also learned that the red tiefling **Spatulo**, who guided them to the dragon, is **Tobacho's enemy**, and the dragon has offered a separate reward for capturing him. Neither bounty nor a promise to help the unhappy dancer at Daddy Long Legs has been fulfilled.
+The four **defeat Jelver's magical troll test**, and their worst injuries are treated. **Vorel receives the borrowed greatsword Shatter**; the party has a tailor authorization and an untested Harmonium travel writ. The proposed **airship and teleportation scrolls have not arrived**, and their key-first heist has not begun. Jelver reiterates that **actual use of an Earth portal** is their payment *after* successful retrieval. **Neither the portal nor its safe passage is demonstrated**. The dragon also still holds a separate bounty against **Spatulo**, and Nash has not rescued the unhappy dancer from Daddy Long Legs.
 
-The **Weir inscriptions on Hope and Stanley**, **Kanja's reported murder**, Nothing's Pelvis/Abyss kidnapping, and the **Traversal Drive, Principle, Chance, Sira and Eddie** have no new conclusion here. **This narrative ends at E090 with the party following Jelver into a dark passage for a private mission briefing**, *before* learning the item's identity. The [chronology](../world/CHRONOLOGY.md), [E090 episode dossier](../episodes/E090.md) and [ASR comparison](../reports/E090_ASR_COMPARISON_2026-10-22.md) retain this source cutoff.
+Hope and Stanley's **Weir-marked souls**, **Kanja's reported murder**, Nothing's Pelvis/Abyss kidnapping, and the **Traversal Drive, Principle, Chance, Sira and Eddie** remain unresolved. **This narrative currently ends at E091**, with the group still in the Hive negotiating a dangerous robbery, not standing aboard an airship or entering the White Tower. The [E091 dossier](../episodes/E091.md), [source comparison](../reports/E091_ASR_COMPARISON_2026-10-23.md) and [chronology](../world/CHRONOLOGY.md) preserve the exact limits of this research.
 
 ### Later commentary, separate from the action
 
