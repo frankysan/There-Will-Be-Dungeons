@@ -1,6 +1,6 @@
-# Places and travel — campaign reference index (including E107–E108 prequel)
+# Places and travel — campaign reference index (including E107–E109 prequel)
 
-**Spoilers:** Main place table retains its **Arc Two E054 cutoff**; later additions include corrected **E081**, a distinct **E107–E108 same-world pre-Dusthill Dunebreaker prequel reference**, and separately archived cast Q&As. **Status:** Consolidated first-pass geographic index, sourced to [individual location profiles](places/dusthill.md) and [episode dossiers](../episodes/E000.md). The earlier 65,000-character [place research compendium is archived](../research/legacy/2026-10-21/WORLD_PLACES.md); the [full pre-third-arc index](../research/legacy/2026-10-22/PLACES_PRE_SECOND_ARC_CONSOLIDATION.md) preserves later appended route/cutoff descriptions. Proper names and maps are not automatically verified by processed transcripts.
+**Spoilers:** Main place table retains its **Arc Two E054 cutoff**; later additions include corrected **E081**, a distinct **E107–E109 same-world pre-Dusthill Dunebreaker prequel reference**, and separately archived cast Q&As. **Status:** Consolidated first-pass geographic index, sourced to [individual location profiles](places/dusthill.md) and [episode dossiers](../episodes/E000.md). The earlier 65,000-character [place research compendium is archived](../research/legacy/2026-10-21/WORLD_PLACES.md); the [full pre-third-arc index](../research/legacy/2026-10-22/PLACES_PRE_SECOND_ARC_CONSOLIDATION.md) preserves later appended route/cutoff descriptions. Proper names and maps are not automatically verified by processed transcripts.
 
 ## Main settlements, destinations and otherworldly sites
 
@@ -11,7 +11,7 @@
 | **Black Mine** | Deep Oilbeard-run mine with slave abuses, ruined infrastructure, undead, chasms, strange magic and the ritual that reveals **Château Weir** | [Black Mine](places/black-mine.md) |
 | **Château Weir** | Uncanny extra-worldly court/guest-house of the **Soulbroker**, where the three-character pact is signed; an elderly tiefling travels there and later returns with troops | [Château Weir](places/chateau-weir.md) |
 | **Tietkalla / Teet / Trashburg** | Old tiefling kingdom/city complex, surviving lower settlement and fortified keep. **Hope is crowned queen E054**, while the damaged city, its factions and monarchy remain unsettled | [Tietkalla, keep and Trashburg](places/tietkalla.md) |
-| **Dunebreaker (historical prequel E107–E108)** | Huge sand-glassing **landship** in the **same Wastes, long before Dusthill's original party**; recruits investigate a murder. **E108 identifies a stowaway's older daughter as the killer, while her father falsely confesses, is spared and sent to dangerous vent-cleaning work; both girls remain hidden and receive food**. **Not an Arc Five ship** | [Dunebreaker](places/dunebreaker.md) |
+| **Dunebreaker (historical prequel E107–E109)** | Huge glass-making **landship** in the **same Wastes long before Dusthill**. Murder investigation E107–108 ends with father **Lamulkin falsely blamed** while both daughters hide; **Lotho questions the deception E109**. The ship survives a giant **sewage-grown fruit-gelatin monster** during a confidential marauder trade, defeated by **Al's steam vent and Ramilda's final stomp**; **at least two guards die**. **Prequel ends, not an Arc Five ship** | [Dunebreaker](places/dunebreaker.md) |
 
 ## Regions, roads and subsidiary sites
 
