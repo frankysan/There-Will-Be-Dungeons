@@ -1,8 +1,8 @@
 # Arc Three — Strangers in the City of Doors
 
-**The Wastes, third researched story arc — opening chapters, corrected E082–E095 (ongoing)**
+**The Wastes, third researched story arc — opening chapters, corrected E082–E096 (ongoing)**
 
-**Full spoilers through E095.** This is an **initial narrative**, not a completed arc or an audio-verified transcript. It retells the **played sessions** from their [source-first dossiers](../episodes/E082.md), [E083](../episodes/E083.md), [E084](../episodes/E084.md), [E085](../episodes/E085.md), [E086](../episodes/E086.md), [E087](../episodes/E087.md), [E088](../episodes/E088.md), [E089](../episodes/E089.md), [E090](../episodes/E090.md), [E091](../episodes/E091.md) [E092](../episodes/E092.md) [E093](../episodes/E093.md), [E094](../episodes/E094.md) and [E095](../episodes/E095.md), which are based on processed ASR. Dialogue is paraphrased; uncertain names and planar explanations are not certified by this prose. The [December 2019 cast Q&A](../episodes/BONUS-2019-12.md) is retrospective context, **not another chapter of events**. This is **The Wastes**, wholly separate from *Inverse*.
+**Full spoilers through E096.** This is an **initial narrative**, not a completed arc or an audio-verified transcript. It retells the **played sessions** from their [source-first dossiers](../episodes/E082.md), [E083](../episodes/E083.md), [E084](../episodes/E084.md), [E085](../episodes/E085.md), [E086](../episodes/E086.md), [E087](../episodes/E087.md), [E088](../episodes/E088.md), [E089](../episodes/E089.md), [E090](../episodes/E090.md), [E091](../episodes/E091.md) [E092](../episodes/E092.md) [E093](../episodes/E093.md), [E094](../episodes/E094.md) and [E095](../episodes/E095.md) and [E096](../episodes/E096.md), which are based on processed ASR. Dialogue is paraphrased; uncertain names and planar explanations are not certified by this prose. The [December 2019 cast Q&A](../episodes/BONUS-2019-12.md) is retrospective context, **not another chapter of events**. This is **The Wastes**, wholly separate from *Inverse*.
 
 ## Prologue — After the light
 
@@ -751,6 +751,36 @@ And the broth? **Lamb would be best**, the cleric says. Any suitable animal brot
 That is where the story ends. There is **no finished broth administered with the incantation, no confirmed cure and no reconciliation of “shale disease” with Incubatrix**. The Fist is still in the unopened chest held by the commander, and **Stanley checked the stolen pendant in his bag before embarking on the search**. Hope remains in the black-cloud library as her companions prepare the next step. Even the siege, for a time, has been pushed aside by the struggle simply to live through the next day.
 
 [E095](../episodes/E095.md) · [Dual-ASR report](../reports/E095_ASR_COMPARISON_2026-10-23.md)
+
+## XXXVII. A blessing in a bowl
+
+An hour passes in White Tower's kitchen. **Vorel and Gregor finish the chicken broth**, while **Stanley and Nash find Walnut**. The acolyte cannot confidently perform a blessing himself, but writes **the Celestial words phonetically** for Stanley to pronounce. They decide to test the recipe from Hordweld's journal on **Knight Commander Alentris**, who is still barely conscious.
+
+**Stanley cradles the commander and recites the words**. **Vorel pours the broth across her face** as the diagram instructs. A **black cloud escapes her lungs**, flares with pale blue light and vanishes. Alentris breathes with relief: **the treatment works**. She then holds Stanley in the same way, recites the words and pours the broth; **his own illness visibly leaves him**. Their gratitude and growing affection become an **intimate relationship**. It is a real new attachment, not merely a proposed future.
+
+Walnut, meanwhile, gathers his courage. **He treats Vorel**, who expels the same strange cloud and is cured, then **Nash**, who is only cured when the chant is accompanied by the actual broth. Nash urges the nervous apprentice to trust himself. They move into the rest of the tower with **Vorel carrying the pot**, while Stanley remains briefly with Alentris.
+
+The healing takes hours. **Walnut, Nash and Vorel cure the infected defenders**; Stanley and Alentris later join them. Their commander had reported **four deaths the previous morning** and now speaks of **roughly a dozen knights lost**. Nothing brings those people back. Yet **the GM confirms all remaining infected residents are cured**. The rite marked **“shale disease”** has worked despite Hordweld calling the old curse **Incubatrix**. The identity of the person who sent the sickness, however, is still unknown.
+
+[E096](../episodes/E096.md) · [ASR comparison](../reports/E096_ASR_COMPARISON_2026-10-23.md)
+
+## XXXVIII. A ship that does not belong to them
+
+While the others work, **Hope continues to search the underground library**. The voice within her mind tells her she **could have allowed everyone to die**, met its master and taken Zorander's Fist. **She refuses to sacrifice her friends**. The voice warns that the enchantment making her appear good enough to enter White Tower **will not last forever**. Its owner remains unseen.
+
+Hope discovers **a gated section of restricted books**, with a **compendium** that may contain information about demons. She cannot find the mechanism. She also reads an old law book, **Executus**, whose answer to a death sentence is wholehearted repentance before Euphemius. She does not carry out its demand. Instead, she **returns upstairs during this episode**.
+
+There she finds an astonishing sight: **Alentris and the order kneel to thank her**. The defenders recognize that her discovery of the journal saved them. Hope accepts the gesture cautiously; the previous suspicion has not disappeared from her memory.
+
+Alentris has a new fear. The tower's defenses did not stop the plague, and perhaps cannot protect the Fist much longer. **Stanley plays a message from Captain Waltz** on the sending stone. Tobacho has apparently sent **a replacement airship**, due near the tower **around noon tomorrow**. They decide they could **take the relic aboard and redirect the ship to Mount Celestia**, even if seizing control requires force. But **this is a plan**: no new ship has appeared, the sealed Fist has not moved, and Alentris's proposed **handoff of the separate pendant key to Walnut** has not occurred.
+
+Stanley asks how the mission could still bring them home. Alentris describes **a possible judgment at the bridge to Mount Celestia**. She will advocate for them, but **cannot promise passage to Earth**. Stanley agrees to help and says he must first discuss it with his friends.
+
+When the tower is safe for the night, he **apologizes to Vorel for changing their mission without consent** and asks the group to consider the celestial route. **Hope finally tells the others about the private voice**, its demand for the Fist, and her fear that the protection allowing her inside is temporary. **Vorel and Nash want to identify the hidden threat**. Hope remembers the gated compendium, and together they approach Walnut. The young acolyte admits that **the gate uses a lever, not a key**, and normally requires the commander's or high cleric's permission. They convince him to guide them anyway.
+
+**Hope, Vorel, Nash and Walnut descend toward the restricted library as E096 ends**. **Stanley is separate**. They have not opened the book, found the demon, transferred the pendant, boarded a ship or recovered the Fist.
+
+[E096](../episodes/E096.md) · [Review priorities](../reports/E096_ASR_COMPARISON_2026-10-23.md)
 
 ## An open door, not an ending
 
