@@ -1,8 +1,8 @@
 # Arc Three — Strangers in the City of Doors
 
-**The Wastes, third researched story arc — opening chapters, corrected E082–E093 (ongoing)**
+**The Wastes, third researched story arc — opening chapters, corrected E082–E094 (ongoing)**
 
-**Full spoilers through E093.** This is an **initial narrative**, not a completed arc or an audio-verified transcript. It retells the **played sessions** from their [source-first dossiers](../episodes/E082.md), [E083](../episodes/E083.md), [E084](../episodes/E084.md), [E085](../episodes/E085.md), [E086](../episodes/E086.md), [E087](../episodes/E087.md), [E088](../episodes/E088.md), [E089](../episodes/E089.md), [E090](../episodes/E090.md), [E091](../episodes/E091.md) [E092](../episodes/E092.md) and [E093](../episodes/E093.md), which are based on processed ASR. Dialogue is paraphrased; uncertain names and planar explanations are not certified by this prose. The [December 2019 cast Q&A](../episodes/BONUS-2019-12.md) is retrospective context, **not another chapter of events**. This is **The Wastes**, wholly separate from *Inverse*.
+**Full spoilers through E094.** This is an **initial narrative**, not a completed arc or an audio-verified transcript. It retells the **played sessions** from their [source-first dossiers](../episodes/E082.md), [E083](../episodes/E083.md), [E084](../episodes/E084.md), [E085](../episodes/E085.md), [E086](../episodes/E086.md), [E087](../episodes/E087.md), [E088](../episodes/E088.md), [E089](../episodes/E089.md), [E090](../episodes/E090.md), [E091](../episodes/E091.md) [E092](../episodes/E092.md) [E093](../episodes/E093.md) and [E094](../episodes/E094.md), which are based on processed ASR. Dialogue is paraphrased; uncertain names and planar explanations are not certified by this prose. The [December 2019 cast Q&A](../episodes/BONUS-2019-12.md) is retrospective context, **not another chapter of events**. This is **The Wastes**, wholly separate from *Inverse*.
 
 ## Prologue — After the light
 
@@ -636,15 +636,85 @@ The story leaves all four in the air, **not on the ground beside White Tower**. 
 
 [E093](../episodes/E093.md) · [Source comparison](../reports/E093_ASR_COMPARISON_2026-10-23.md)
 
+## XXX. Four leap, but only three arrive
+
+**Traveler's Twin is dying in the sky**. Thick black smoke pours out of the engine as it falls toward the immense army around White Tower. The captain, a weary loxodon who has had quite enough of wyverns, shouts commands to the surviving gnomes and admits the ship cannot be righted before the companions need to leave. **She already gave them the sending stone**. If the ship is repaired, she will contact them. If it is not, she may never call.
+
+**Nash returns from his young-black-dragon form to his own body**. Their escape plan demands that they become four small shapes in the sky, not a visible black dragon. **Stanley takes Hope's hand** and **Nash takes Vorel**, who has managed to recover two remaining barrels of drink. On the lip of the railing the pairs prepare their **Dimension Door scrolls**. Then all four **actually jump**.
+
+They fall past the ship and toward the besieged tower. Getting a scroll open against the rush of air is a struggle, but both readers hold on. As they descend, the **Traveler's Twin sinks behind a distant mountain**, trailing smoke and a dark rising cloud. The four have no time to turn and investigate. The white tower is rushing to meet them.
+
+At last **Stanley casts**, with Hope still beside him. **Nash casts**, drawing Vorel with him. The four disappear into the teleportation magic. **Only three arrive in White Tower's cleaning closet**.
+
+Hope appears instead **outside**, thrown violently against the tower's unseen ward. It burns her as it hurls her away. She draws **the +2 dagger supplied by Tobacho** and tries to use it, with her spiked boots, to anchor herself to the building. The barrier throws her off once more. **She plummets some eighty feet and hits the ground**, hard enough to knock out her breath and chip a tooth, but **she lives**.
+
+Winged doglike soldiers with tridents pick through the stones toward her. Hope cannot fight an army in that condition. She lets them disarm her, rises slowly, and is marched into the camp of the tower's besiegers.
+
+[E094](../episodes/E094.md) · [ASR comparison](../reports/E094_ASR_COMPARISON_2026-10-23.md)
+
+## XXXI. A voice she knows among the damned
+
+The soldiers bring Hope before an enormous armored commander with smoldering eyes, **General Carthax**. He demands to know who she is and why she has come for the White Tower. Hope says she is a queen of Earth and **has come for Zorander's Fist at Tobacho's behest**. The giant wants to kill her.
+
+A strange little flying figure interrupts him. **Ulvert**, a being with a baby's body and an old man's face, **recognizes Hope from their time around the UBI scientific facility**. He remembers enough of her history to believe she may be more useful alive. The **devils of the Nine Hells and demons of the Abyss**, he says, have made a temporary common cause to seize the Fist. Carthax resents having his authority shared.
+
+The ward at the tower **rejected Hope**. To them this suggests that she has an evil heart. Ulvert offers a terrible bargain: **they will make her good enough to enter**, then send her inside to steal the relic on their behalf. Afterward she can abandon her good behavior so the tower throws her back to the besiegers. Hope insists on a price. **They must send her and her three companions to Earth, at the right time, without tricks**. Carthax is reluctant and threatens unspeakable torture if she fails. Ulvert assents, though he admits they have no ready means to bring the other three back out of the tower. Hope asks about **Kitobalpraith**; his name silences the general, but no Weirlord appears.
+
+They summon a woman-shaped creature with **no ordinary face and a mouth where her neck should be**. She whispers words that seem to take physical shape, then sends them into Hope's face. The **GM declares Hope's alignment is now lawful good**. It does **not** simply erase her choices or turn her into an unthinking servant, but she must **behave according to this new alignment or lose its effect**.
+
+The besiegers send her back inside the White Tower. She is **a reluctant, coerced agent carrying an unfulfilled promise to go home**, not someone who has actually delivered the Fist.
+
+[E094](../episodes/E094.md) · [The alignment and bargain questions](../reports/E094_ASR_COMPARISON_2026-10-23.md)
+
+## XXXII. Walnut and the wizard's ball
+
+In a vast supply closet, **Stanley, Nash and Vorel** listen to sounds of a game and a prayer service through the door. Hope is absent. Stanley decides there is little benefit in whispering forever. He walks out and announces that **the reinforcements have arrived**.
+
+Two armed knights of **Euphemius**, **Sir Samson** and **Sir Clotchup**, have been playing a game in the beleaguered tower. Nearby, a little robed acolyte called **Walnut** tends to their needs. The newcomers claim to have teleported through the army to save the defenders. The knights are delighted by the tale of such bravery, until they discover the **fourth companion has vanished**. They warn that the tower **rejects evil souls**, and that a lost friend may have been destroyed.
+
+Just then **Hope appears in the chamber**.
+
+The paladins see a tiefling and draw their swords. They assume that she must be evil by nature. **Vorel, gloriously drunk, claims she carries the divine child of a paladin**. His performance is bizarre and unconvincing; **Hope's pregnancy is not a fact of the story**. **Stanley saves the situation by appealing to the defenders' better judgment**, citing Vorel's acts of courage and their shared desire to fight evil.
+
+Then Hope tells the truth: **the enemy commanders found her outside, magically changed her alignment, and sent her in to steal the Fist**. The story terrifies the knights. They demand that all four surrender their weapons until their commander can judge them. Stanley hands over several blades. **Nash's single weapon is a magical ball**, which Walnut takes with a gravity completely at odds with its appearance. The title of the episode is his increasingly incredulous question: **where is his ball?**
+
+**Vorel refuses to give up Shatter**. He headbutts Samson. A second paladin lunges, misses, and **accidentally plunges his greatsword into Samson** instead. The wounded knight collapses. Before anyone can continue the foolish battle, **Stanley casts Healing Word and closes Samson's wound**. Nash tries to seize Walnut and recover his ball, but the little fellow wriggles away. Vorel demands that they finish the fight and take what they came for. Stanley refuses.
+
+More paladins come up the stairs. **The party finally relinquishes its weapons and follows the defenders peacefully**, with Samson now praising Stanley for helping an enemy when there was no tactical reason to do so.
+
+[E094](../episodes/E094.md) · [Continuity and evidence report](../reports/E094_ASR_COMPARISON_2026-10-23.md)
+
+## XXXIII. A box beside the throne, a key in a bag
+
+Deep in White Tower a woman with strawberry-colored hair sits as **Knight Commander**, surrounded by white-armored defenders. Beside her throne is **a strange hexagonal chest**. She hears that four strangers entered without invitation, admitted a scheme with the demons and tried to steal something sacred.
+
+**Stanley explains what home means to his companions**. Hope rules people who need her; Vorel's people are in danger; Nash has a wife who was expecting a child when he left. They came to Sigil, were promised a way back, and became ensnared in a dragon's bargain. Their means are compromised even if their purposes are understandable. **The Knight Commander sentences all four to death**. The guards order them to kneel.
+
+Stanley asks for one more word. Why should the Fist remain here, a prize for the besieging legions, if the defenders hope eventually to move it to **Mount Celestia**? The strangers had an airship and scrolls. **What if they used those resources to take the Fist to the destination the paladins already wanted?** The commander thinks. She **grants a stay of execution**, requiring that any move be accompanied by her people. **Walnut returns everyone's weapons, including Nash's ball**. Vorel gets Shatter back. The party is no longer awaiting immediate beheading, but it is no freer to take the relic to Tobacho.
+
+The commander says **the Fist lies inside the hexagonal chest**, which she guards. She **does not open it**; the travelers do not actually see the hand. She tells a tale of **Zorander**, a desperate paladin who sought the approval of Euphemius, fell for a power contained inside the glove and destroyed his world before being denied divine love. She claims the **hand within the glove can rend whole planes apart**. This is the commander's religious history and description of danger—not a display of the relic's power.
+
+Stanley admits that they have stolen **High Cleric Thrun's pendant key**. The commander takes and inspects it, insisting that **the key must remain apart from the chest**. She also describes a very different gift: **a golden totem shaped like Euphemius's sun-holding fist**, with which they might summon a blessing upon Earth. **The offered totem is not Zorander's Fist**, and the question of who physically accepts it remains unsettled in the transcripts.
+
+At that moment **the sending stone vibrates**. The loxodon captain speaks from elsewhere in the Outlands: she **survived the ship's bad landing**, but **Traveler's Twin needs about a week to repair**. The plan to extract the Fist by immediately returning to the airship is impossible for now. The Knight Commander hands **the key pendant back to Stanley**, again keeping it separate from the relic's chest, and has the party sent to rooms with beds and food while a new plan is made.
+
+The cook, **Gregor**, offers food and potential work. The four eat, but not happily. **Vorel believes Stanley has taken their one chance of going home and pledged them to a siege they cannot win**. Stanley refuses to butcher paladins simply to fulfill the terms of a bargain with Tobacho. Nash, exhausted, **says he will follow Hope**, whatever decision she makes, because he trusts his queen and wants to return to his wife. Hope, newly compelled to conduct herself as **lawful good**, cannot easily voice the choice her secret patrons want.
+
+**Stanley leaves the pendant in his bag in his quarters and goes to sleep**. Nash withdraws as well, and Vorel finds a place helping in the kitchen. Alone with a cup of drink and her anger, Hope hears a small voice **inside her mind**. It demands **the Fist**. She tries to answer, but receives only pressure and a repeated demand. **The speaker is not identified.**
+
+The episode ends with the **key in Stanley's bag, the chest still under the Knight Commander's protection, and the friends inside the besieged tower**. They have not stolen the Fist. The way home is more contested than ever.
+
+[E094](../episodes/E094.md) · [Comparison](../reports/E094_ASR_COMPARISON_2026-10-23.md)
+
 ## An open door, not an ending
 
 The four who entered CHIDS's red beam are together again: **Hope and Stanley restored through Kidigree's mirrors**, and **Nash fully regrown after eight days**, with his thermal underwear unexpectedly fused to his body, providing **cooling and ten-foot flight** by GM ruling. **Vorel** owns a champion's title and a professional BMF cabinet at the Soggy Feather, but has not bought the inn.
 
-The way home is no longer merely a bargain made in Sigil. **Tobacho Fleur's demand for Zorander's Fist** has brought the company out of the city, aboard the **Traveler's Twin**, into the genuine **Outlands sky**. **Stanley still holds the real-looking pendant stolen from High Cleric Thrun**, and now also **wears a health amulet sent for Vorel by Mind Master**. Through the captain's telescope he has **seen the White Tower under real siege**; the Fist's exact custody and key still remain **untested**.
+The search for **Zorander's Fist** has finally brought all four friends **inside White Tower**, but not by a single successful infiltration. **Traveler's Twin crashes beyond a ridge** after they jump from it; its captain **survives and later reports a week of repairs**. **Stanley, Nash and Vorel Dimension Door into the tower**, while its ward rejects **Hope**, who survives a heavy fall and is captured by the besieging demons and devils. **General Carthax and Ulvert bargain with her for the Fist**, promising Earth passage for all four and magically **changing her alignment to lawful good** so the tower will let her inside. She rejoins her companions and tells the defenders what happened.
 
-The airship, its gnome crew and the captain are real, and the party has a **sending stone to coordinate extraction**. But before they can approach the tower the ship is **attacked by beastmen and wyverns**. **Nash becomes a young black dragon and rescues Hope from a deadly fall**, then carries her while she shoots Scully; **Vorel kills a wyvern belowdecks with borrowed Shatter but is wounded and poisoned**, and Stanley **transforms another wyvern into an unobserved falling rat**. Crew are killed. Hope even **accidentally shoots Nash**, who survives.
+The encounter with **Sir Samson, Sir Clotchup and Walnut** almost becomes a massacre, but **Stanley saves an accidentally wounded paladin**. **Nash's spellcasting ball is confiscated and later returned**. The **Knight Commander sentences all four to death, then stays that sentence** when Stanley proposes helping her **move Fist to Mount Celestia** instead of stealing it for Tobacho. She guards **an actual hexagonal chest said to contain the Fist**, but **the chest is not opened**; the relic's described world-rending power remains her testimony. **High Cleric Thrun's pendant was handed to her briefly, then returned to Stanley**, who later **leaves it in his bag in their assigned quarters**. A different **Euphemius golden totem** is shown/offered for possible use on Earth; its final inventory state requires verification.
 
-The immediate attackers appear defeated, but **the Traveler's Twin is smoking and dropping nose-first** at the E093 cutoff. **A crash has not yet been shown**, nor has a landing, the opening of the relic's box, the Fist's retrieval or the longed-for portal passage to Earth. **Mind Master's cooperation with Tobacho and proximity to Crimson Moon escorts are now witnessed, but their responsibility for Kanja's reported death and the E086 hired killers remains unresolved**. The captive real **Bishop Stevius**, the Weir-marked souls, Nothing's Abyss commission, and the **Principle, Drive, Chance, Sira and Eddie** have no new resolution. [E093 dossier](../episodes/E093.md) · [comparison](../reports/E093_ASR_COMPARISON_2026-10-23.md) · [chronology](../world/CHRONOLOGY.md).
+The four have been fed and sheltered for now, and the swords have been returned, including **Vorel's borrowed Shatter**. **Vorel resents Stanley's refusal to take the quickest violent path home**, and **Nash says he will follow Hope**. But Hope has an **unwanted lawful-good obligation and a private, unidentified mental voice demanding the Fist**. **No relic has been taken from its chest, no execution carried out, no trip to Mount Celestia made and no Earth portal reached**. That is **E094's true cutoff**, in the tower, as the siege continues. [E094 dossier](../episodes/E094.md) · [comparison](../reports/E094_ASR_COMPARISON_2026-10-23.md) · [chronology](../world/CHRONOLOGY.md).
 
 ### Later commentary, separate from the action
 
