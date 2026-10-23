@@ -1,6 +1,10 @@
 # Squirts — kobold trickster (Arcs Four–Five)
 
-> **First appearance:** [E082](../../episodes/E082.md), unnamed kobold at the Soggy Feather. **Identified and developed:** [E083](../../episodes/E083.md), [processed Parakeet SRT](../../sources/The%20Wastes%20S1E083.%20Trash%20Monkey%20and%20The%20Bird.parakeet.processed.srt). **Kristen's new character**, **not** a reincarnated Hope. This profile is **ASR-based, not audio-verified**; contains spoilers through E105; earlier sections retain their episode-era cutoffs.
+> **First appearance:** [E082](../../episodes/E082.md), unnamed kobold at the Soggy Feather. **Identified and developed:** [E083](../../episodes/E083.md), [processed Parakeet SRT](../../sources/The%20Wastes%20S1E083.%20Trash%20Monkey%20and%20The%20Bird.parakeet.processed.srt). **Kristen's new character**, **not** a reincarnated Hope. This profile is **ASR-based, not audio-verified**; contains spoilers through E106; earlier sections retain their episode-era cutoffs.
+
+## E106 — onward with the original travelers
+
+In [E106](../../episodes/E106.md), **Squirts and Chunks** are present with **Nash, Stanley and Vorel** for Tobacho's audience, in which **Zorander's Fist gauntlet is actually handed over without Hope's Hand**. They accompany guide **Badass T** through the **frog seller's basement portal** to a strange port, then onto a **gnome-crewed airship** and to a **paired-asteroid tower**. **No Earth arrival or meeting with Hope is shown**. The identity of the speaking Nash likeness at cutoff remains open; Squirts does **not** independently obtain an Earth portal from Tobacho. [Comparison](../../reports/E106_ASR_COMPARISON_2026-10-23.md).
 
 ## E105 — guide charm, emergency healing and return to Tobacho
 

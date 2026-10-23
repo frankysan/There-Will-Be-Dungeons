@@ -377,13 +377,13 @@ This is a **triage queue**, not a complete record of every ASR timestamp. Dates 
 | High | 01:57–02:04; 02:16–02:28 | Admiral's reported fall, Nash's locally acclaimed title, Farco/Sam identity, Snatch/fruit action order and baby's hand/head ASR conflict |
 | Critical | 02:34–02:43; 02:45; 02:52–02:55 | Party/case escape versus lost Great Angelashi; **no depicted Snatch rescue**; Sam restored, framed window and corrected ritual; second portal's destination withheld |
 
-**Next bounded main episode:** **The Wastes S1E105 — The Fright Elevator**, with [Parakeet](../sources/The%20Wastes%20S1E105.%20The%20Fright%20Elevator.parakeet.processed.srt) and [Qwen](../sources/The%20Wastes%20S1E105.%20The%20Fright%20Elevator.qwen-q8.canary-ctc.nemotron.srt) filenames verified present, not read here. Establish where the small boat arrives and Hope's separate destination from actual E105 evidence; do not infer either from E104's intention to reach Sigil.
+**E104's following main episodes are now analyzed through E106:** [E105](../episodes/E105.md) shows **actual Sigil arrival**; [E106](../episodes/E106.md) establishes **Hope's E104 escape gate destination as Kaiser Casino** and **later Sigil crossing**. These later observations resolve earlier scene cutoffs without backdating them. Both remain **ASR-provisional**; listen to the source before claiming verified dialogue.
 
 **Next bounded monthly bonus research:** [BONUS-2020-07 — July 2020](../sources/Bonus%202020-07%20-%20July%202020.parakeet.processed.srt). [June 2020 bonus dossier](../episodes/BONUS-2020-06.md) and [two-ASR report](../reports/BONUS_2020_06_ASR_COMPARISON_2026-10-23.md) are now provisional: **new characters, GM's unplayed moon/mecha alternate, Spatulo's motivation, potential Banishment of Nash too, Stanley's hypothetical Earth return, Vorel's dropped Fang's Inferno, Hope/Tietkalla and Nash reaction**. **Map the later-arc assertions to actual E102+ played sources**, then audio-check the two recognizers' closing ~37:35 Qwen-only “Okay”, sword names and “Dr. Spider” name. The previous [May bonus](../episodes/BONUS-2020-05.md) and its [ASR report](../reports/BONUS_2020_05_ASR_COMPARISON_2026-10-23.md) still require recorded-day, pandemic-plot and ~33:30 Walnut stinger verification. **E101** is a **single dual-arc episode**: [dossier](../episodes/E101.md) · [full-export ASR comparison](../reports/E101_ASR_COMPARISON_2026-10-23.md). **Arc Four complete (E082 through E101 departure)**; [Arc Five](../narrative/ARC_FIVE.md) begins **in E101**. No audio verification.
 
 **Arc Four closeout follow-up (editorial, not an E101 research blocker):** The source-first [E101 dossier](../episodes/E101.md) and new [Arc Five opening](../narrative/ARC_FIVE.md) already record the user-confirmed in-episode split; the [Arc Four narrative](../narrative/ARC_FOUR.md) now has a concluding chapter but still retains earlier cutoff summaries. Do a **separate bounded whole-arc consolidation** to shorten/reshape those summaries with all E082–E101 developments in view; **first preserve a fully re-linked frozen copy** under `research/legacy/` according to [documentation architecture](DOCUMENTATION_ARCHITECTURE.md). Do not quietly rewrite or discard historical notes, pretend consolidation establishes audio accuracy or duplicate E101 as two events.
 
-**E105 researched, ASR-provisional:** [The Fright Elevator dossier](../episodes/E105.md) · [full-export comparison](../reports/E105_ASR_COMPARISON_2026-10-23.md), **2,536 / 25,467 = 9.96% ordered-word disagreement** (not WER). **Next main source: Wastes S1E106 — I Took An Arrow Thru The Brain**, both Parakeet and Qwen exports verified present but not read.
+**E105 researched, ASR-provisional:** [The Fright Elevator dossier](../episodes/E105.md) · [full-export comparison](../reports/E105_ASR_COMPARISON_2026-10-23.md), **2,536 / 25,467 = 9.96% ordered-word disagreement** (not WER). E106 follows, with its own [dossier](../episodes/E106.md) and [comparison](../reports/E106_ASR_COMPARISON_2026-10-23.md).
 
 | Priority | E105 recording clock | Listening / source task |
 | --- | --- | --- |
@@ -392,6 +392,17 @@ This is a **triage queue**, not a complete record of every ASR timestamp. Dates 
 | Critical | 01:15–01:33; 01:34–01:52 | Confirm threat wording/sender, deliberate trap, intended target and **which passengers turn into attackers**. Never attribute ambush to known assassin faction without evidence. |
 | Critical | 01:55–02:20; 02:20–02:43 | Confirm **Squirts's actual Heal, Nash's Fireball killing gnome attendant, Fambo's survival, Mass Healing Word, Feather Fall**, Vorel's shaft-door opening and orc losses. Count only audio/played supported casualties. |
 | High | 02:49–02:52:14 | Verify **Tobacho bar arrival and final dragon words**, anomalous final Qwen **“Walnut”** cue; do not backdate any Fist handover or Earth ticket. |
+
+**E106 researched, ASR-provisional:** [I Took An Arrow Thru The Brain](../episodes/E106.md) · [full two-export comparison](../reports/E106_ASR_COMPARISON_2026-10-23.md): **1,885 / 21,909 = 8.60% ordered-word disagreement**, not word accuracy. **Next corrected-numbered source: Wastes S1E107 — The Handshaking Algorithm**, both ASR files confirmed, catalogued as a **Jon-GMed side story with new characters**; check actual continuity/type before adding to the same event timeline.
+
+| Priority | E106 clock | Precise source/audio verification task |
+| --- | --- | --- |
+| Critical | ~00:18–00:35 | **Stanley finds key in boot; golem delivers Fist gauntlet to Tobacho; missing Hand and deception, direct-Earth-portal denial**. Check who has key/box at end. |
+| Critical | ~00:35–00:41 | **10m / additional 10m / 50m** Hope bounty wording; condition of body/arm, origin; whether waiver of “item debts” can be linked to Nash's separate harbor liability. |
+| High | ~00:44–01:20 | Mangler killed; **frog-on-stick seller gives permission alive, guide exits with bloody knife but refuses killing confession**; shelling of portal, ritual plant and exact Dwarvish poem. Do not upgrade implied vendor death into eyewitness fact. |
+| Critical | ~01:20–01:59 | Hope's **two refugees** at casino, Principle **Vladimir**, alleged Principal City attack and **historical illusion** versus objective chronology, **Lich Project's claimed soul-harvest** and **Eye of the Voice** distinct from Groxl. Verify **Carvutican** spelling. |
+| Critical | ~01:59–02:24 | Spatulo **wounded**, then **Dr. Spider's Mental Prison kills him**; necromantic brain jar, **Blood Skunk's postmortem arrow**. Check alleged Tobacho secret and actual question answers. |
+| High | ~02:24–02:40:30 | Refugees **lost**, Hope's Gate to Sigil with three henchmen; asteroid tower **Stanley statue/Nash face and “Junior”**; orphaned final **“I've aged pretty well”** after credits. |
 
 ## 6. Arc coverage and previous detailed questions
 
@@ -424,7 +435,7 @@ evaluation. Existing E103 story research and its listening tasks are separate.
 The [2026-10-23 evaluation](../reports/E103_ARK_EVALUATION_2026-10-23.md)
 recommends **against bulk generation with the supplied ARK / FireRed VAD
 configuration**. Full-export text measurements and selected text review are
-complete; audio verification and causal diagnosis remain open. The [E103 story dossier](../episodes/E103.md) and subsequent [E104 research](../episodes/E104.md) advance the main-story queue to **E105**, but do not validate the ARK model, its timing, or the audio.
+complete; audio verification and causal diagnosis remain open. The [E103 story dossier](../episodes/E103.md) and subsequent [E104 research](../episodes/E104.md) have since been followed by E105 and E106 provisional dossiers; the next **corrected-numbered** source is E107, but do not validate the ARK model, its timing, or the audio.
 
 If investigating the pipeline, audio-check **00:03:30–00:05:30** (room-entry
 repetition/context), **00:50:30–00:51:20** (guardian expiry),
@@ -441,6 +452,6 @@ bounded VAD-on/off repeat. No ARK rerun or listening task is audio-closed.
 - [ ] Revise a narrow **episode dossier + canonical profile + current ledger topic row** for each corroborated correction.
 - [ ] Preserve **raw source SRT files** and both generations of archived research; never silently overwrite recognition.
 - [ ] Validate Markdown links, headings and tables; run applicable source/document checks after edits.
-- [ ] Research **The Wastes S1E106 onward** in separate bounded batches; **E082–E105 are provisionally documented but still need listening**. E084 has **Parakeet and Qwen inter-ASR disagreement documented**, not audio-verified. All indexed 2019 bonuses and the **January 2020 bonus dual-export comparison** likewise remain ASR-based. Verify high-impact disagreement candidates before claiming canonical utterances.
+- [ ] Research **The Wastes S1E107 onward** in separate bounded batches; **E082–E106 are provisionally documented but still need listening**. E084 has **Parakeet and Qwen inter-ASR disagreement documented**, not audio-verified. All indexed 2019 bonuses and the **January 2020 bonus dual-export comparison** likewise remain ASR-based. Verify high-impact disagreement candidates before claiming canonical utterances.
 
 **Consolidation is not verification.** The active questions are intentionally shorter than the archives they replace.

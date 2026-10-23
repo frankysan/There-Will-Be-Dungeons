@@ -1,6 +1,6 @@
 # Vorel
 
-**Longer written name:** **Vorel Rasvim Kurik** in the fan wiki, not independently confirmed as a full name from Arc One spoken dialogue. **Portrayed by:** Kyle. **Identity:** Lizardfolk warrior. **Arc Two status:** Alive; protector of Bok Bok; bearing the sentient **Eye of Groxl**. **Spoilers:** played events through E105; retrospective bonus remarks kept separate from played events.
+**Longer written name:** **Vorel Rasvim Kurik** in the fan wiki, not independently confirmed as a full name from Arc One spoken dialogue. **Portrayed by:** Kyle. **Identity:** Lizardfolk warrior. **Arc Two status:** Alive; protector of Bok Bok; bearing the sentient **Eye of Groxl**. **Spoilers:** played events through E106; retrospective bonus remarks kept separate from played events.
 
 ## Character and development
 
@@ -306,6 +306,10 @@ In [E096](../../episodes/E096.md), **Vorel and Gregor finish making chicken brot
 **Stanley apologizes to Vorel** for changing the Fist mission in E094 without asking the other companions. The two discuss a **replacement airship** expected near White Tower the next day and a **proposed diversion to Mount Celestia**, with possible—but **not guaranteed**—help returning to Earth. The Fist remains in its guarded chest; transferring the separate key to Walnut is **only a plan**. **Vorel continues to carry borrowed Shatter**, which he has not returned.
 
 After **Hope tells the party about the unidentified hostile voice**, Vorel, Hope and Nash persuade **Walnut** to lead them toward the restricted library's demon compendium. They learn that **the gate is lever-operated and ordinarily requires commander/cleric permission**. **At E096 cutoff they are descending, not yet through the gate**, and have not found or defeated the suspected demon. [Comparison](../../reports/E096_ASR_COMPARISON_2026-10-23.md).
+
+## E106 — the gauntlet delivered and the borrowed sword returned
+
+In [E106](../../episodes/E106.md), Vorel brings the **sealed Zorander's Fist chest** to Tobacho's audience. **Stanley recovers the key from his own boot, unlocks the box, and presents the separate purple-marked gauntlet**; Tobacho takes and examines it in his claws. **The Hand of the Voice is with Hope elsewhere**, and its absence displeases him. **Vorel sets the case down with Tobacho's people**, rather than retaining it after this meeting. He also **actually returns borrowed Shatter/Angel Slayer to Jalver**, who thanks him and warns about honor in Sigil. Do not keep either as an available carried item thereafter. Vorel witnesses **Badass T murder the Mangler**, then under **Stanley's Haste** runs to retrieve a rickshaw. He enters the frog seller's basement portal, boards the guide's ship and reaches an **asteroid tower bearing a huge Stanley statue**; the tower's internal wall-face of Nash says **“Junior”**, not yet explained. **No Earth arrival or party reunion with Hope**. [Comparison](../../reports/E106_ASR_COMPARISON_2026-10-23.md).
 
 ## E105 — Fambo Joe, the ambush and the Hive
 
