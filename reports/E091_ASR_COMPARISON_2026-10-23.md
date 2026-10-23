@@ -6,8 +6,8 @@
 
 | Export label from filename | SRT cues | Last cue end | Normalized word tokens |
 | --- | ---: | --- | ---: |
-| [Parakeet processed](../sources/The%20Wastes%20S1E091.%20Going%20on%20a%20heist.parakeet.processed.srt) | **2,506** | **02:46:29 approx.** | **21,829** |
-| [Qwen Q8 / Canary CTC / Nemotron-labelled](../sources/The%20Wastes%20S1E091.%20Going%20on%20a%20heist.qwen-q8.canary-ctc.nemotron.srt) | *See source; cue count to confirm* | ~02:46:27 | *See source; token count to confirm* |
+| [Parakeet processed](../sources/The%20Wastes%20S1E091.%20Going%20on%20a%20heist.parakeet.processed.srt) | **2,506** | **02:46:29.49** | **21,829** |
+| [Qwen Q8 / Canary CTC / Nemotron-labelled](../sources/The%20Wastes%20S1E091.%20Going%20on%20a%20heist.qwen-q8.canary-ctc.nemotron.srt) | **4,188** | **02:46:29.18** | **22,021** |
 
 Method: remove SRT cue numbers/timecodes, concatenate cue dialogue in order, remove '(speaker N)' labels, lowercase, remove apostrophes (joining contractions), replace remaining punctuation with spaces while retaining Unicode letters/digits, tokenize on whitespace, and perform **unit-cost ordered word-token Levenshtein**. In the current calculation: **1,736 edit operations / 21,829 first-export tokens = 7.95% inter-ASR text disagreement**. This **is not audio-reference WER, a measured accuracy score, omission/hallucination counts, a diarization assessment, or a model ranking**. Exact ASR versions, parameters, hardware, source audio fingerprint and word-by-word human references were unavailable; the names in filenames are not proof of all internal pipeline settings.
 
