@@ -14,6 +14,8 @@ This directory holds **narrative histories**: readable retellings of the actual 
 - **[December 2019 public-release Q&A](../episodes/BONUS-2019-12.md)** — later explanation of the E081–E083 petitioner aftermath; **not a scene**.
 - **[January 2020 public-release Q&A](../episodes/BONUS-2020-01.md)** — **host calls it “December 2019”**; retrospective on E085's Lady manifestation, Nash's intact magic, kenku voice and Diontalus's crystal; **not a new adventure or confirmed return**. Publication-month/host-introduction conflict requires review.
 
+- **[March 2020 public-release cast Q&A](../episodes/BONUS-2020-03.md)** — Beau clarifies **Weir versus published Planescape lore**, the initially joking origin of M-sports and Sigil-specific resurrection possibilities; Jon discusses **Stanley's psychological change**. **No new main-campaign scene or confirmed future ending**.
+
 **Current Arc 3 reading:** [Strangers in the City of Doors](ARC_THREE.md) now reaches **E094**. The party survives the airship emergency and reaches White Tower, although Hope takes a different route from her companions. The defenders have granted them more time to plan a safe removal of Zorander's Fist; its chest remains unopened and the pendant key stays with Stanley. [E094 dossier](../episodes/E094.md) · [ASR comparison](../reports/E094_ASR_COMPARISON_2026-10-23.md) · [chronology](../world/CHRONOLOGY.md). *Inverse* is a separate reality.
 
 ## Reading rules
