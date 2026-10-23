@@ -126,6 +126,12 @@ Back in engineering, **Sira and Eddie actually leave the central beam**; **Sira 
 
 The second arc is **complete as a played CHIDS/Drive confrontation**, not as the final resolution of every political, cosmic or soul-contract mystery. See [consolidated Arc Two](../narrative/ARC_TWO.md) for continuous prose and [arc review](../reports/CHIDS_ARC_CONSOLIDATION_2026-10-22.md) for time-of-knowledge distinctions.
 
+## Later March 2020 GM authorship clarification — original Weir versus borrowed Planescape
+
+In the [March 2020 public-release cast Q&A](../episodes/BONUS-2020-03.md) (~04:30–07:00), **Beau explicitly says the Weir, its people and Kitobol Prith/Kitobalpraith (ASR spelling variants) were created for *The Wastes***. The GM contrasts this with **published D&D/TSR planes, Sigil, Planescape, Manual of the Planes and the Far Realm**, from which he borrows planar infrastructure. He remarks that **the Weir has been *alluded to* as connected to the Far Realm**, but **does not declare that the campaign's Weir is definitively identical to or governed in full by the published Far Realm**. This **is GM retrospective provenance**: it does not add a new E081 event or make any Wastes character suddenly aware of out-of-fiction sourcebooks. Also, **Sigil's availability of resurrection options after the beam sacrifice** is Beau's setting-specific justification, not evidence that revival is automatic anywhere.
+
+**Editorial identity control:** A homebrew realm can take inspiration from published cosmology without being identical; **“Kitobol Prith”, “Kitobalpraith” and ASR-like forms should be audited against original audio/handouts before silently imposing new canonical spelling**. [Two-ASR report](../reports/BONUS_2020_03_ASR_COMPARISON_2026-10-23.md).
+
 ## Reference boundaries and preservation
 
 **Player-observed action is different from speaker claims**. The [Arc One narrative](../narrative/ARC_ONE.md) and [chronology](CHRONOLOGY.md) retain first-arc event order. **E055–E081** knowledge is consolidated here by **society, science, competing explanations and source cutoff**, rather than repeated chronologically. Specific player inventories, changing gear custody, spell adjudications, cutoffs and unresolved names belong in [character profiles](CHARACTERS.md), [entity pages](README.md), [active consistency issues](CONSISTENCY_LEDGER.md) and [review queue](../project/REVIEW_QUEUE.md).
