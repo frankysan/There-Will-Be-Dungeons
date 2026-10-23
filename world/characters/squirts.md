@@ -1,6 +1,10 @@
 # Squirts — kobold trickster (Arcs Four–Five)
 
-> **First appearance:** [E082](../../episodes/E082.md), unnamed kobold at the Soggy Feather. **Identified and developed:** [E083](../../episodes/E083.md), [processed Parakeet SRT](../../sources/The%20Wastes%20S1E083.%20Trash%20Monkey%20and%20The%20Bird.parakeet.processed.srt). **Kristen's new character**, **not** a reincarnated Hope. This profile is **ASR-based, not audio-verified**; contains spoilers through E106; earlier sections retain their episode-era cutoffs.
+> **First appearance:** [E082](../../episodes/E082.md), unnamed kobold at the Soggy Feather. **Identified and developed:** [E083](../../episodes/E083.md), [processed Parakeet SRT](../../sources/The%20Wastes%20S1E083.%20Trash%20Monkey%20and%20The%20Bird.parakeet.processed.srt). **Kristen's new character**, **not** a reincarnated Hope. This profile is **ASR-based, not audio-verified**; contains spoilers through E110; earlier sections retain their episode-era cutoffs.
+
+## E110 — silence, stealth and the return to Tietkalla
+
+In [E110](../../episodes/E110.md), Squirts and Chunks travel with **Nash, Stanley and Vorel** from the alternate Nash's asteroid tower **through Nash's actually cast Teleportation Circle into Tietkalla**, while alternate **Pod and Badass T remain at tower**. **Squirts carries Chunks during the keep infiltration**, casts **Silence** to stop noise during the nycaloth ambush, tries a **Guiding Bolt** that backfires under the GM's natural-one ruling, then casts **Pass without Trace** to help the company bypass further fiends. **Vorel kills the nycaloth** using Stanley's heated sword; Squirts's spell aids concealment rather than being the killing blow. They end looking toward the **Golden Sands survivor signal**, without entering the inn. [Comparison](../../reports/E110_ASR_COMPARISON_2026-10-23.md).
 
 ## E106 — onward with the original travelers
 

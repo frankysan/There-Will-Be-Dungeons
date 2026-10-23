@@ -1,6 +1,10 @@
 # Stanley Billings and Diontalus
 
-**Portrayed by:** Jon. **Identity model:** Two distinctly acting personalities/agents who **share Stanley's body**, with shifting control; not interchangeable aliases for one intention. **Spelling:** **Diontalus** is the creator- and owner-accepted canonical display ([D-026](../../project/DECISIONS.md)). `Dion Talus`, `Deontalus`, `Diantalus`, `Diontalis` are searchable source spellings, not equal official names. **Spoilers:** main campaign through E106 and separate Q&A.
+**Portrayed by:** Jon. **Identity model:** Two distinctly acting personalities/agents who **share Stanley's body**, with shifting control; not interchangeable aliases for one intention. **Spelling:** **Diontalus** is the creator- and owner-accepted canonical display ([D-026](../../project/DECISIONS.md)). `Dion Talus`, `Deontalus`, `Diantalus`, `Diontalis` are searchable source spellings, not equal official names. **Spoilers:** main campaign through E110 and separate Q&A.
+
+## E110 — alternate belongings and the heated Diplomacy strike
+
+In [E110](../../episodes/E110.md) Stanley meets **First/Tower Nash**, who claims a **different Stanley died**; the present Stanley survives. **Badass T supplies near-identical counterparts of Stanley's lost Diplomacy, megaphone and English dictionary**, which Stanley accepts. The restored **Diplomacy really flies under his command**; he later uses **Message through the megaphone** to contact a frightened tiefling survivor in Tietkalla's keep. The survivor is **killed by a nycaloth** before rescue. In the ambush, **Stanley drops Diplomacy into the fiend and casts Heat Metal on the sword**, sustaining further burning. **Vorel finishes the monster with the heated sword, then returns Diplomacy to Stanley**. Stanley and the others use Squirts's stealth magic and glimpse a **Golden Sands survivor flag**, but have not reached the inn. These possessions are alternate-history versions; **identity as the exact old originals is unverified**. [Comparison](../../reports/E110_ASR_COMPARISON_2026-10-23.md).
 
 ## E105 — ambush survival and Feather Fall
 

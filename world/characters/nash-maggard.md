@@ -1,6 +1,6 @@
 # Nash Maggard
 
-**Portrayed by:** Scott. **Identity:** Wasteland traveler and spellcaster, with an implanted dragon-metal heart. **Arc Two status:** Alive; physically changed, allied with newly crowned Hope. **Spoilers:** Main Wastes through E106; retrospective Q&A comments kept separate from direct play. **Evidence:** Processed SRTs/dossiers, not independently audio-verified.
+**Portrayed by:** Scott. **Identity:** Wasteland traveler and spellcaster, with an implanted dragon-metal heart. **Arc Two status:** Alive; physically changed, allied with newly crowned Hope. **Spoilers:** Main Wastes through E110; retrospective Q&A comments kept separate from direct play. **Evidence:** Processed SRTs/dossiers, not independently audio-verified.
 
 ## Character and history
 
@@ -255,6 +255,10 @@ In [E096](../../episodes/E096.md), the ritual from the journal finally **works i
 **Nash builds Walnut's self-confidence** and helps administer cures through the tower. When he tries to recruit Stanley to speed the treatment, **Stanley remains with Alentris**, so Nash **takes on reciting the phonetic Celestial words** and successfully cures additional guards. By E096's later montage, **the remaining residents are cured**, not those already dead. Walnut thanks Nash and discusses aspiring to join full priesthood at the House of Answers; **no promotion is yet performed**.
 
 Afterward, Stanley **apologizes for choosing a Celestia-oriented Fist mission without the team's consent** and reports **Captain Waltz's future replacement-airship message**; the ship **hasn't arrived** and the Earth-return option remains **unpromised celestial judgment**. **Hope now discloses the hostile mind-voice to Nash and the others**, and Nash discusses finding a demon compendium behind the library gate. They **consider shrinking Vorel or Walnut to fit through**, but **do not cast Reduce**. **Hope, Vorel, Nash and Walnut begin descending to the restricted library** after learning the gate has a lever; Nash does **not** merge with a demon or see the restricted book by E096 cutoff. [E096 ASR](../../reports/E096_ASR_COMPARISON_2026-10-23.md).
+
+## E110 — another Nash and the rescue vision
+
+[E110](../../episodes/E110.md) reveals the asteroid-tower speaker as **First Nash**, an alternate Nash—not the current Nash's verified father. His stories of dead friends concern **his timeline**. The present Nash uses his unusual **right eye** to see **pregnant Angelashi with Bokbok in Tietkalla**, fleeing nycaloths toward the **Golden Sands**. This is a vision, **not a reunion**. Nash regains a counterpart of his old nonmagical staff, meets an **alternate Pod** living with a pixie family, and learns **Badass T is an alternate Tedna**. Both stay at the tower. Nash **successfully casts Teleportation Circle to Tietkalla**, accompanied by Stanley, Vorel, Squirts and Chunks, then the party defeats one nycaloth and sees a **Golden Sands survivor signal**. Angelashi has **not yet been rescued**. [Comparison](../../reports/E110_ASR_COMPARISON_2026-10-23.md).
 
 ## E106 — unfinished Earth route and the voice calling him “Junior”
 

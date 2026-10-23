@@ -1,6 +1,6 @@
 # Vorel
 
-**Longer written name:** **Vorel Rasvim Kurik** in the fan wiki, not independently confirmed as a full name from Arc One spoken dialogue. **Portrayed by:** Kyle. **Identity:** Lizardfolk warrior. **Arc Two status:** Alive; protector of Bok Bok; bearing the sentient **Eye of Groxl**. **Spoilers:** narrative coverage through E106; the title register separately includes later seasons and the final Wastes roundup. Retrospective bonus remarks remain separate from played events.
+**Longer written name:** **Vorel Rasvim Kurik** in the fan wiki, not independently confirmed as a full name from Arc One spoken dialogue. **Portrayed by:** Kyle. **Identity:** Lizardfolk warrior. **Arc Two status:** Alive; protector of Bok Bok; bearing the sentient **Eye of Groxl**. **Spoilers:** narrative coverage through E110; the title register separately includes later seasons and the final Wastes roundup. Retrospective bonus remarks remain separate from played events.
 
 ## Character and development
 
@@ -69,6 +69,7 @@ The [2026-10-23 transcript search](../../reports/VOREL_TITLE_AUDIT_2026-10-23.md
 | [E073](../../episodes/E073.md) ~02:22–02:24 | **“Fang of Razak Val”** | Reassertion of E062 Great Fang office; not a new title |
 | [E077](../../episodes/E077.md) ~03:18 | **Keeper of Groxl** | Vorel identifies himself as `keeper of grojil` / `Grogil`; the existing Eye of Groxl, not another entity |
 | [E086](../../episodes/E086.md) ~02:40:30; [E087](../../episodes/E087.md) ~02:09:50–02:10:45 | **M-sports Fighting Champion / Sigil M-sports Champion / Big Time Smackaroo** (last wording provisional) | Lohar advertises the champion label in E086; E087 referee announcement and trophy wording supply the award context and additional styles |
+| [E110](../../episodes/E110.md) ~00:17–00:20 | **“I am the strongest Vorel”** (ASR-provisional wording) | Vorel's joking comparative claim on hearing that another timeline's Vorel died in battle; **not a conferred title or demonstrated supremacy**; earlier distinct from S2E02's later “Greatest of the Time Vorels” style |
 
 ### Later-season title naming — spoilers beyond the narrative coverage
 
@@ -374,6 +375,10 @@ In [E096](../../episodes/E096.md), **Vorel and Gregor finish making chicken brot
 **Stanley apologizes to Vorel** for changing the Fist mission in E094 without asking the other companions. The two discuss a **replacement airship** expected near White Tower the next day and a **proposed diversion to Mount Celestia**, with possible—but **not guaranteed**—help returning to Earth. The Fist remains in its guarded chest; transferring the separate key to Walnut is **only a plan**. **Vorel continues to carry borrowed Shatter**, which he has not returned.
 
 After **Hope tells the party about the unidentified hostile voice**, Vorel, Hope and Nash persuade **Walnut** to lead them toward the restricted library's demon compendium. They learn that **the gate is lever-operated and ordinarily requires commander/cleric permission**. **At E096 cutoff they are descending, not yet through the gate**, and have not found or defeated the suspected demon. [Comparison](../../reports/E096_ASR_COMPARISON_2026-10-23.md).
+
+## E110 — alternate Tedna, Bokbok and the silent nycaloth duel
+
+At [E110](../../episodes/E110.md)'s asteroid tower, Vorel encounters **First Nash**, whose memorials concern the deaths of **an alternate Vorel**, not this one. He defends Hope against Stanley's judgment of her departure. **Vorel temporarily takes Hope's guns and belt** from Badass T's collection but **gives them back to Badass T before the rescue party teleports**, so neither Vorel nor Hope carries them at E110's end. The guide unmasks as **an alternate Tedna**, while his own past's Tedna remains dead. Nash's eye-vision shows **Bokbok and pregnant Angelashi fleeing nycaloths** toward the Golden Sands. Vorel climbs the keep's corpse shaft with **Squirts aboard**, then in the surprise fight **rolls a heavy barrel at a nycaloth** (Athletics 23), and finally **grabs Stanley's Heat Metal-enhanced Diplomacy and drives it through the fiend**, killing it. Vorel **returns Diplomacy to Stanley immediately** and takes reduced fire damage while handling it. Under **Pass without Trace**, the group sees a Golden Sands survivor flag but performs **no reunion or evacuation**. [Comparison](../../reports/E110_ASR_COMPARISON_2026-10-23.md).
 
 ## E106 — the gauntlet delivered and the borrowed sword returned
 
