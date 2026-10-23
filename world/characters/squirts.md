@@ -1,10 +1,10 @@
-# Squirts — kobold trickster (Arc 4)
+# Squirts — kobold trickster (Arcs Four–Five)
 
-> **First appearance:** [E082](../../episodes/E082.md), unnamed kobold at the Soggy Feather. **Identified and developed:** [E083](../../episodes/E083.md), [processed Parakeet SRT](../../sources/The%20Wastes%20S1E083.%20Trash%20Monkey%20and%20The%20Bird.parakeet.processed.srt). **Kristen's new character**, **not** a reincarnated Hope. This profile is **ASR-based, not audio-verified**; contains spoilers through E083.
+> **First appearance:** [E082](../../episodes/E082.md), unnamed kobold at the Soggy Feather. **Identified and developed:** [E083](../../episodes/E083.md), [processed Parakeet SRT](../../sources/The%20Wastes%20S1E083.%20Trash%20Monkey%20and%20The%20Bird.parakeet.processed.srt). **Kristen's new character**, **not** a reincarnated Hope. This profile is **ASR-based, not audio-verified**; contains spoilers through E104; earlier sections retain their episode-era cutoffs.
 
 ## Identity and appearance
 
-**Squirts** is a very short female **kobold** (E082 suggests about two and a half feet tall) in a patchwork outfit made of **safety pins**, a **colander helmet**, and an improvised **silverware-and-rubber-band crossbow**. She carries a small floating stone and her infant kobold **Chunks** in a shoe tied to her outfit. The baby is **not** an independent adult party member. Squirts has an excitable, rapid speaking style, relishes jokes and trickery, and prefers sleeping in a wastebasket. She refers to a **trickster god** (ASR **Uldemara/Old Mara**), whose exact name remains uncertain.
+**Squirts** is a very short female **kobold** (E082 suggests about two and a half feet tall) in a patchwork outfit made of **safety pins**, a **colander helmet**, and an improvised **silverware-and-rubber-band crossbow**. She carries a small floating stone and her infant kobold **Chunks** in a shoe tied to her outfit. The baby is **not** an independent adult party member. Squirts has an excitable, rapid speaking style, relishes jokes and trickery, and prefers sleeping in a wastebasket. She refers to a **trickster god**, early ASR **Uldemara/Old Mara**; in E104 Kristen spells **O-L-I-D-A-M-M-A-R-A**, supporting **Olidammara** in reference prose, still not audio-verified.
 
 ## Played development
 
@@ -14,7 +14,7 @@ Squirts vigorously opposes the **Pelor** delegation at the inn on the following 
 
 ## Open questions
 
-**Not yet verified:** deity name, personal name orthography (although “Squirts” is repeatedly spoken), floating stone's nature, character class, precise prior visits and whether she has any resurrection capacity of her own. **The priest only offers a future possible ritual**; Hope and Stanley remain petitioners in church crypt custody at E083 cutoff.
+**Still open:** audio confirmation of deity/personal-name wording, floating stone's nature, precise prior visits and her own resurrection capacity. **E104 directly establishes a cleric Divine Intervention feature**, without verifying a complete episode-era character sheet. **The priest only offers a future possible ritual**; Hope and Stanley remain petitioners in church crypt custody at E083 cutoff.
 
 [Episode E083](../../episodes/E083.md) · [Nothing](nothing.md) · [Sigil](../places/sigil.md) · [Review queue](../../project/REVIEW_QUEUE.md).
 
@@ -49,3 +49,9 @@ In [E088](../../episodes/E088.md), Squirts guides Vorel, Nash and Nothing throug
 ## February 2020 bonus — temporary-PC design after Hope's apparent death
 
 In the [February 2020 cast Q&A](../../episodes/BONUS-2020-02.md) (~21–23 min), Kristen says she **expected Hope to return** and therefore made **Squirts intentionally unlike Hope** as a playful temporary character. That expectation is **player confidence**, not a retroactive guarantee of the rescue before Kidigree's **actual E088 mirror ritual**. Squirts's future role, Chunks's fate and whether she ever returns to play remain unestablished by this bonus. [ASR comparison](../../reports/BONUS_2020_02_ASR_COMPARISON_2026-10-22.md).
+
+## E104 — stowaway and successful Divine Intervention
+
+**Squirts and Chunks return aboard the Outlands airship**, hidden among oranges; how and when they boarded is unrevealed. She teases Nash with an orange-juice attack, survives his dragon transformation overturning the crate and learns through **Arcana 17** that the moon is a real transported object, not a simple dispellable illusion. Gripping her **Toyota-symbol necklace**, she invokes **Divine Intervention**, rolls **9**, and requests the moon's removal. Kristen spells the god **O-L-I-D-A-M-M-A-R-A** and distinguishes him from Kidigree. Beau **confirms after a rules-check break that the moon, mechs and surviving Tungan forces disappear**, while wreckage and existing damage remain. **No mecha piloting or verified return of the moon to its home is shown.** The orcs wrongly credit Nash.
+
+During the later wrong-portal disaster, **Squirts uses her own Dimension Door to bring herself and Chunks onto the smaller support craft**. Both remain with the party at its **second portal crossing**, destination unknown. This return supersedes the E088/bonus uncertainty about future play without changing those earlier cutoffs. [E104 dossier](../../episodes/E104.md) · [full-ASR comparison](../../reports/E104_ASR_COMPARISON_2026-10-23.md).

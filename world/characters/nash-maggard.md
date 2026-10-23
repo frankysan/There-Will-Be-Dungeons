@@ -1,6 +1,6 @@
 # Nash Maggard
 
-**Portrayed by:** Scott. **Identity:** Wasteland traveler and spellcaster, with an implanted dragon-metal heart. **Arc Two status:** Alive; physically changed, allied with newly crowned Hope. **Spoilers:** Main Wastes through E102; retrospective Q&A comments kept separate from direct play. **Evidence:** Processed SRTs/dossiers, not independently audio-verified.
+**Portrayed by:** Scott. **Identity:** Wasteland traveler and spellcaster, with an implanted dragon-metal heart. **Arc Two status:** Alive; physically changed, allied with newly crowned Hope. **Spoilers:** Main Wastes through E104; retrospective Q&A comments kept separate from direct play. **Evidence:** Processed SRTs/dossiers, not independently audio-verified.
 
 ## Character and history
 
@@ -255,3 +255,13 @@ In [E096](../../episodes/E096.md), the ritual from the journal finally **works i
 **Nash builds Walnut's self-confidence** and helps administer cures through the tower. When he tries to recruit Stanley to speed the treatment, **Stanley remains with Alentris**, so Nash **takes on reciting the phonetic Celestial words** and successfully cures additional guards. By E096's later montage, **the remaining residents are cured**, not those already dead. Walnut thanks Nash and discusses aspiring to join full priesthood at the House of Answers; **no promotion is yet performed**.
 
 Afterward, Stanley **apologizes for choosing a Celestia-oriented Fist mission without the team's consent** and reports **Captain Waltz's future replacement-airship message**; the ship **hasn't arrived** and the Earth-return option remains **unpromised celestial judgment**. **Hope now discloses the hostile mind-voice to Nash and the others**, and Nash discusses finding a demon compendium behind the library gate. They **consider shrinking Vorel or Walnut to fit through**, but **do not cast Reduce**. **Hope, Vorel, Nash and Walnut begin descending to the restricted library** after learning the gate has a lever; Nash does **not** merge with a demon or see the restricted book by E096 cutoff. [E096 ASR](../../reports/E096_ASR_COMPARISON_2026-10-23.md).
+
+## E104 — Captain Dragon Lord and the lost Great Angelashi
+
+Nash fights Tungan mechs in **young-black-dragon form**, uses acid breath and **reduces the sword mech**, but **Squirts's Divine Intervention** removes the moon/enemies. The orcs mistakenly credit Nash, whose denials they treat as humility. **Farco** leads their pledge after the admiral is reported overboard. Nash accepts captaincy, names the vessel **The Great Angelashi** after his wife and later **renames Farco Samuel/Sam** after a loyal Solar Mines dog.
+
+| First documented use | Title / source status | Limits |
+| --- | --- | --- |
+| [E104](../../episodes/E104.md) ~01:58–02:01 | **Dragon Lord**, selected by Nash; **Captain Dragon Lord**, acclaimed by the crew with its required captain prefix; processed-ASR wording | Local captaincy of these orcs, no universal office; crew's claim Nash removed moon is false |
+
+Nash learns a fruit portal ritual from **Snatch**, but reverses two actions. When the crew sails into the wrong portal, **he flies Sam to the remaining small craft**, while companions save themselves and Vorel's sealed relic case. **Tentacles destroy the main ship**; Snatch is not shown rescued. On the small boat, Stanley restores Sam from catatonia; Sam builds a window and Nash **performs the corrected ritual**. The ship **enters a second portal**, its destination withheld. **Nash has not reached Sigil, delivered the gauntlet or returned to Earth by cutoff.** [E104 dossier](../../episodes/E104.md) · [ASR report](../../reports/E104_ASR_COMPARISON_2026-10-23.md).

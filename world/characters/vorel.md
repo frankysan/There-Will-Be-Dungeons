@@ -1,6 +1,6 @@
 # Vorel
 
-**Longer written name:** **Vorel Rasvim Kurik** in the fan wiki, not independently confirmed as a full name from Arc One spoken dialogue. **Portrayed by:** Kyle. **Identity:** Lizardfolk warrior. **Arc Two status:** Alive; protector of Bok Bok; bearing the sentient **Eye of Groxl**. **Spoilers:** played events through E102; retrospective bonus remarks kept separate from played events.
+**Longer written name:** **Vorel Rasvim Kurik** in the fan wiki, not independently confirmed as a full name from Arc One spoken dialogue. **Portrayed by:** Kyle. **Identity:** Lizardfolk warrior. **Arc Two status:** Alive; protector of Bok Bok; bearing the sentient **Eye of Groxl**. **Spoilers:** played events through E104; retrospective bonus remarks kept separate from played events.
 
 ## Character and development
 
@@ -306,3 +306,7 @@ In [E096](../../episodes/E096.md), **Vorel and Gregor finish making chicken brot
 **Stanley apologizes to Vorel** for changing the Fist mission in E094 without asking the other companions. The two discuss a **replacement airship** expected near White Tower the next day and a **proposed diversion to Mount Celestia**, with possible—but **not guaranteed**—help returning to Earth. The Fist remains in its guarded chest; transferring the separate key to Walnut is **only a plan**. **Vorel continues to carry borrowed Shatter**, which he has not returned.
 
 After **Hope tells the party about the unidentified hostile voice**, Vorel, Hope and Nash persuade **Walnut** to lead them toward the restricted library's demon compendium. They learn that **the gate is lever-operated and ordinarily requires commander/cleric permission**. **At E096 cutoff they are descending, not yet through the gate**, and have not found or defeated the suspected demon. [Comparison](../../reports/E096_ASR_COMPARISON_2026-10-23.md).
+
+## E104 — enemy boarding, the mech and the still-sealed case
+
+Stanley **Dimension Doors Vorel and the closed Fist case into the enemy ship**, where Vorel kills operators with the floating box, Eye of Groxl shield and physical attacks. He smashes a warning console and bites its keypad, but **no self-destruct is shown**. They teleport onto a mech; Vorel gets stuck in reinforced cockpit glass and **Flame Bursts its pilot**. Squirts's intervention removes the mechs; **Stanley's Feather Fall saves their descent**. Orcs recognize Vorel's M-sports championship, without awarding a new title. During the fruit-portal emergency **Stanley takes him and the sealed case to the small boat**. He is aboard when it enters the corrected second portal; **case never opened or delivered**, and no new key transfer is depicted. [E104 dossier](../../episodes/E104.md) · [comparison](../../reports/E104_ASR_COMPARISON_2026-10-23.md).
