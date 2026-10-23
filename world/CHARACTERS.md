@@ -53,6 +53,8 @@ At the [E111](../episodes/E111.md) source cutoff, **Squirts (Kristen's kobold PC
 
 The [E113](../episodes/E113.md) quartet **crosses Gray Waste, Styx and Pandemonium**, then **returns to Tobacho's Sigil bar** without the Eye. **Hope** relinquishes **Fox pistol, not Scully**, and receives a **magical wind-up compass** keyed to an Eye-location lead (Council's report, still unverified). **Steerious gives up his large greatsword**, and leaves the still-responsive Gray Waste orc **Headsy (?)** at the dock. **Blood Skunk sacrifices his left little toe**, with the wound immediately healed but no regrowth shown; **Dr. Spider gives away his lab coat**. Hope also temporarily turns gray before the whole group is restored to normal coloration on entering Pandemonium. **The Council of Clowns knows of Hope's Hand**, by its own account, and points to **Pentel Weiss/Pentelvice (?)** near **Corinthian Nebula**; this does not supply the Eye itself or fulfill Hope's pact to Tobacho. [Full-export ASR report](../reports/E113_ASR_COMPARISON_2026-10-23.md).
 
+For subject-focused accounts of major villains and ambiguous rulers, see the [antagonists index](ANTAGONISTS.md); for organizations, see [factions and powers](FACTIONS_AND_POWERS.md). These sections preserve earlier cutoff information and are not a replacement for the subject pages.
+
 ## Major adversaries and power brokers
 
 | Person, creature or power | Played status and interpretive caveat | Evidence |

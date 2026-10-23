@@ -4,6 +4,8 @@
 
 **Reading key:** Each row covers a **played episode or directly observed outcome** in narrative order. A **reported death, genealogy, prophecy, pact history or offscreen action** remains an attributed report unless independently played. The **episode's own cutoff** matters: E048's rescue is real even though Tedna dies E050; E048's report about Angelashi is not proof she died before her E054 rescue. For a connected story, use [Arc One](../narrative/ARC_ONE.md) and [Arc Two](../narrative/ARC_TWO.md) narratives; for subject facts use [world history](WORLD.md) and [character](CHARACTERS.md) / [place](PLACES.md) profiles.
 
+For subject-centered studies rather than individual episode rows, see [Historical events](HISTORICAL_EVENTS.md) and the [ancient catastrophe](HISTORY_ANCIENT_CATASTROPHE.md), [Tietkalla history](HISTORY_TIETKALLA.md), and [CHIDS crisis](HISTORY_CHIDS_DRIVE.md) pages.
+
 ## Before the main campaign — accounts, not dates
 
 | Origin or frame | What can be placed on the timeline |

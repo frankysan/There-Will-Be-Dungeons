@@ -2,6 +2,8 @@
 
 **Spoilers:** Main place table retains its **Arc Two E054 cutoff**; later additions include corrected **E081**, a distinct **E107–E109 same-world pre-Dusthill Dunebreaker prequel reference**, and separately archived cast Q&As. **Status:** Consolidated first-pass geographic index, sourced to [individual location profiles](places/dusthill.md) and [episode dossiers](../episodes/E000.md). The earlier 65,000-character [place research compendium is archived](../research/legacy/2026-10-21/WORLD_PLACES.md); the [full pre-third-arc index](../research/legacy/2026-10-22/PLACES_PRE_SECOND_ARC_CONSOLIDATION.md) preserves later appended route/cutoff descriptions. Proper names and maps are not automatically verified by processed transcripts.
 
+For a concise list of categories, use the [world portal](README.md). Ancient and campaign history is indexed separately in [Historical events](HISTORICAL_EVENTS.md); this geographic index retains its earlier source-cutoff details.
+
 ## Main settlements, destinations and otherworldly sites
 
 | Place | Identity and relevance | Reference |

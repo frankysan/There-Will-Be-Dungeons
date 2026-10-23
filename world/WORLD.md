@@ -50,6 +50,8 @@ The **Golden Land** and **Diptak** connect Vorel to lizardfolk politics. After D
 
 **Body alteration and medical technology** range from Vorel's lizardfolk ritual experience and Nash's engineered heart to **Hope's amputations and mechanical prostheses** after the rebounded rocket in E038–E039. These are actual character-altering consequences, not simply costume changes. Hope later refuses a proposed **vampire transformation**. A separate homebrew procedure using a previously killed **basilisk** and old preserved eyes **restores the petrified Hope and Vorel in E051**; the scene does **not validate a universal alchemical recipe** or create remaining stock. [E038](../episodes/E038.md)–[E039](../episodes/E039.md) · [E051](../episodes/E051.md).
 
+Dedicated browsing: [Antagonists](ANTAGONISTS.md) · [Factions and powers](FACTIONS_AND_POWERS.md) · [Items and artifacts](ITEMS_AND_ARTIFACTS.md) · [Historical events](HISTORICAL_EVENTS.md). The thematic material below remains an overview, not a replacement for these subject profiles.
+
 ## Otherworldly powers, bargains and artifact provenance
 
 ### Soulbroker and Château Weir

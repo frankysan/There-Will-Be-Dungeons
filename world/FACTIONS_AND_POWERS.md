@@ -1,0 +1,17 @@
+# Factions, institutions and supernatural powers
+
+**The Wastes · spoilers through E118.** Organizations and supernatural claimants are indexed here separately from people, places and possessions. Descriptions indicate *observed actions* or *attributed claims* rather than automatically certifying lore. Research is based on provisional processed transcripts. [Portal](README.md) · [Antagonists](ANTAGONISTS.md) · [World themes](WORLD.md).
+
+| Faction or power | What is established or alleged | Sources |
+| --- | --- | --- |
+| **The Principle's regime** | Power connected to Slavetown, former captives and political/rail negotiations with Tietkalla; later firsthand encounters with its ruler | [Principle](characters/the-principle.md) · [Slavetown](places/slavetown.md) |
+| **Oilbeards, Koromukishi, Lactid Cartel and Liberators** | Distinct economic, military and resistance interests in Slavetown/Black Mine; interests should not be merged into one administration | [Slavetown](places/slavetown.md) · [Black Mine](places/black-mine.md) · [E010](../episodes/E010.md)–[E027](../episodes/E027.md) |
+| **Twenty-Sixers and Toe Rippers** | Rival Trashburg groups; Monsoon commands the first, Goliver leads the latter before E038 death | [Monsoon](characters/monsoon-cabbage.md) · [Tietkalla](places/tietkalla.md) |
+| **Tietkalla court and returned tiefling soldiers** | Hope crowned E054; Nobiery/Nobieri returns with an actual armed contingent; genealogy and ancient pact remain disputed | [Tietkalla history](HISTORY_TIETKALLA.md) · [Hope](characters/hope-akmenos.md) |
+| **Soulbroker / Weir** | Otherworldly contract venue and claims concerning souls and the Principle; full metaphysics unverified | [Soulbroker](characters/soulbroker.md) · [Château Weir](places/chateau-weir.md) |
+| **CHIDS research staff, illithids and living hive council** | Ancient science, exploitation, hostile invaders and a hive claiming preserved human minds; competing accounts require attribution | [CHIDS](places/chids.md) · [Drive crisis](HISTORY_CHIDS_DRIVE.md) |
+| **Elhandari** | Advanced elven forces physically evacuate survivors and capture Carthax; wider historical/restoration claims are their testimony | [Elhandar](places/elhandar.md) · [E111](../episodes/E111.md) |
+| **Tobacho Fleur and the Council of Clowns** | Negotiated favors and reported Eye of the Voice lead in Sigil/Pandemonium; not evidence the Eye is acquired or Sigil's rule changes | [Sigil](places/sigil.md) · [E112](../episodes/E112.md)–[E113](../episodes/E113.md) |
+| **Hooded Voice, Andreeste, Lady of Pain, alleged gods** | Potentially consequential actors or objects of worship; do not collapse contradictory in-character theology into objective setting rules | [Hope](characters/hope-akmenos.md) · [World](WORLD.md) · [Ledger](CONSISTENCY_LEDGER.md) |
+
+Related topic indexes: [Characters](CHARACTERS.md) · [Places](PLACES.md) · [Items and artifacts](ITEMS_AND_ARTIFACTS.md) · [Historical events](HISTORICAL_EVENTS.md).
