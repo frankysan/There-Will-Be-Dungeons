@@ -267,6 +267,20 @@ The [January-publication Q&A](../episodes/BONUS-2020-01.md) is introduced by the
 | `bonus2020-01.revival_and_plans` | Players cannot predict **Hope/Stanley's return, travel/time or future allegiance**; Beau speculates an unpleasant void for Weir petitioners and about Nothing *possibly asking help* with Pelvis mission. Kyle discusses **potential** sponsor-contract study, celebrity and farming. | **No revival, soul suffering observed, signed sponsorship, actual Pelvis job recruitment of other PCs, completed abduction, new farming career or time jump**. |
 | `bonus2020-01.m_fighting_product` | Beau entertains packaging his **M-fighting custom mini-game** as cards, dice and character sheets for home play. | **Proposed creative project only**, not a published product or in-world event. |
 
+## F2. Arc Five E102 — actual outcomes versus open branches
+
+These [E102](../episodes/E102.md) transitions are **supported only by two machine-transcribed exports** ([comparison](../reports/E102_ASR_COMPARISON_2026-10-23.md)), not new audio listening. They do not turn the later [June-publication bonus](../episodes/BONUS-2020-06.md) into earlier played evidence.
+
+| Active issue | Source-cutoff status | What is settled and what remains open |
+| --- | --- | --- |
+| `e102.fist_custody` | **Resolved at E102; later delivery open** | **Vorel carries the locked chest containing the separate Fist gauntlet**. **Hope wears the Hand** elsewhere; Alentris only **believes** glove left in tower because of Stanley's successful *Modify Memory*. No physical gauntlet transfer to paladins or Tobacho. |
+| `e102.alentris_memory` | **Alteration played; consequences open** | Her trial/high-temple summons and retirement hopes are **future**, but Stanley **actually falsifies** her recent memory at failed Wisdom save. Whether she later learns truth, leaves command or is punished unknown. |
+| `e102.tunga_moon` | **Moon persists; travel aborted** | Two Tunga visitors arrive, **Nash saves Walnut**, saucer crashes without damaging White Tower, alien pilots' fate unseen. **Moon remains in sky, apparently approaching**; no destruction or complete moon journey. Illusory Euphemius was Nash's spell. |
+| `e102.airship` | **Departure played; arrival open** | Stanley, Nash, Vorel and **locked case** board **Tobacho-associated orc airship**, which physically takes off. Spatulo was **falsely reported dead**, though he followed Hope E101. No confirmed delivered object, Earth return or Tobacho satisfaction. |
+| `e102.hope_gifts` | **Equipped and demonstrated; full limits open** | **Necklace of Infinite Appearances** changes visible form only. Hope **rejects first programmed ring, accepts copper replacement** and uses teleportation/gate. The patron's “anywhere” claim is not wholly verified and **the Hand remains attached**. |
+| `e102.hope_companions` | **First played joining and gate crossing** | **Steerious Business** (user-confirmed *steer/serious* pun), **Blood Skunk Hendrickson** and **Dr. Spider** enter as **Brett's paid henchmen** and cross to **Tietkalla royal chambers** with Hope; their trustworthiness, the state of the wider kingdom and later claimed casualties are **not shown** at E102 cutoff. |
+| `e102.pumpo` | **Coercion and weakening played; bargain open** | **Pumpo alive** after physical coercion, magical restoration/weakening. No successor warrior delivered, confirmed annual food distribution or independent validation of Brett's claimed soul/contract rights. |
+
 ## G. Source tracking and preservation
 
 The original E055–E081 research was **131 issue-key rows across episodic batches**. They remain **verbatim and source-linked** in the [frozen pre-consolidation ledger](../research/legacy/2026-10-22/CONSISTENCY_LEDGER_PRE_SECOND_ARC_CONSOLIDATION.md). Its older ancestor is also retained in the [Arcs One–Two/Phase-D archive](../research/legacy/2026-10-22/WORLD_CONSISTENCY_LEDGER.md). These archives are **not parallel active truth registries**; the current open issues are summarized above and the latest event chronology in [CHRONOLOGY.md](CHRONOLOGY.md).

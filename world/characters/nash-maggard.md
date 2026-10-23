@@ -1,6 +1,6 @@
 # Nash Maggard
 
-**Portrayed by:** Scott. **Identity:** Wasteland traveler and spellcaster, with an implanted dragon-metal heart. **Arc Two status:** Alive; physically changed, allied with newly crowned Hope. **Spoilers:** Main Wastes through E101; retrospective Q&A comments kept separate from direct play. **Evidence:** Processed SRTs/dossiers, not independently audio-verified.
+**Portrayed by:** Scott. **Identity:** Wasteland traveler and spellcaster, with an implanted dragon-metal heart. **Arc Two status:** Alive; physically changed, allied with newly crowned Hope. **Spoilers:** Main Wastes through E102; retrospective Q&A comments kept separate from direct play. **Evidence:** Processed SRTs/dossiers, not independently audio-verified.
 
 ## Character and history
 
@@ -239,6 +239,10 @@ Nash **rejects casting Teleportation Circle** as impossible to use in a few seco
 After Hope's broom lowers **Stanley and Alentris**, Stanley makes a natural-20 death save, revives Alentris and takes her inside. In [E101](../../episodes/E101.md) Nash helps defend White Tower, keeps Vorel's **Haste** going, and **runs out to pour an ordinary blacksmith Potion of Healing into bleeding Vorel**, consuming that potion. He sees Hope's violent **Hand of the Voice** transformation and demon reanimation, but **does not hear her private conversations with her hooded patron**. Hope decides **not to take him, Stanley or Vorel** with her and leaves through a closing portal with Spatulo. Nash describes the departure as **abandonment**, not a celebratory win, and fears that his family and child on Earth will be beyond reach by the time he gets home; these are **fears, not verified events on Earth**.
 
 In the opening of [Arc Five](../../narrative/ARC_FIVE.md), Nash helps **re-seal the ornate Zorander's Fist gauntlet inside its levitating chest**, making **Arcana 18** to work out the magical latch. He **removes the Thrun medallion/key from its socket, returns it to Stanley** and directs the case inside White Tower, where the surviving three regroup for a long rest. The **Hand of the Voice** is **no longer inside the glove**, being attached to Hope, so neither the chest's sealing nor remaining power implies the mission to retrieve the Hand succeeded. Nash's magically introduced **large moon and lit city remain** in the sky; three airships also remain overhead. **No Earth journey, child reunion, celestial delivery or Tobacho exchange** occurs. [E101 ASR report](../../reports/E101_ASR_COMPARISON_2026-10-23.md).
+
+## E102 — abortive moon flight and reunion aboard Tobacho's airship
+
+In [E102](../../episodes/E102.md) Nash meets **two furry six-legged Tungans** who appear to have come from his still-visible city-bearing moon. He **boards their saucer with Walnut** and chooses to let it fly upward, but it malfunctions and crashes toward White Tower. Nash **actually carries Walnut out** and uses his integrated flying underwear to save them, successfully resuming flight after a risky free fall. The **saucer explodes against the tower without damaging it**; the pilots' fates are unknown. Nash then **conjures a false apparition of Euphemius** to reassure/confuse Walnut; it is an **illusion**, not divine intervention. Paladins say the huge moon appears **closer**, with no impact yet. Nash rejoins **Stanley and Vorel**, who still have the locked Fist gauntlet after Stanley's use of Modify Memory against Alentris. The three **actually board and take off on the orc airship to meet Tobacho**, without yet reaching him or Earth. [E102 ASR report](../../reports/E102_ASR_COMPARISON_2026-10-23.md).
 
 ## E096 — actually cured, helps Walnut save the tower, pursues demon compendium
 

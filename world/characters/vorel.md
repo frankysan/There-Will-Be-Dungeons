@@ -1,6 +1,6 @@
 # Vorel
 
-**Longer written name:** **Vorel Rasvim Kurik** in the fan wiki, not independently confirmed as a full name from Arc One spoken dialogue. **Portrayed by:** Kyle. **Identity:** Lizardfolk warrior. **Arc Two status:** Alive; protector of Bok Bok; bearing the sentient **Eye of Groxl**. **Spoilers:** played events through E101; retrospective bonus remarks kept separate from played events.
+**Longer written name:** **Vorel Rasvim Kurik** in the fan wiki, not independently confirmed as a full name from Arc One spoken dialogue. **Portrayed by:** Kyle. **Identity:** Lizardfolk warrior. **Arc Two status:** Alive; protector of Bok Bok; bearing the sentient **Eye of Groxl**. **Spoilers:** played events through E102; retrospective bonus remarks kept separate from played events.
 
 ## Character and development
 
@@ -290,6 +290,10 @@ After another enemy Fire Storm **renders Stanley and Alentris unconscious**, Vor
 In the Arc Four finale [E101](../../episodes/E101.md), **Vorel is stunned by a demon commander's gaze and drops the Fist gauntlet**; Hope retrieves it. She attaches the **Hand of the Voice** to her own right arm, distinct from the separate gauntlet. In a scene partly visible to Vorel, Hope's hooded patron **actually regenerates the Eye of Groxl within the empty cavity in Vorel's chest**. Vorel then re-summons the familiar **Eye of Groxl sword** in place of his recent Flame Tongue; this is **restored power**, not an unchanged inert remnant. Hope returns the loose gauntlet to him, and he **puts it back in the open chest** but cannot simply kick the magical box shut. Vorel insists Hope's transformative gain is a victory and that she can return, while Nash sees abandonment. **Both are character interpretations**. Hope tells Vorel **to go back to White Tower and leaves alone**, with Spatulo eventually accompanying her through a portal. The withdrawal of Orcus's forces ends the siege.
 
 In the **Arc Five portion of the same E101**, Stanley **treats Vorel's bleeding**; the last free gauntlet is still repelled by White Tower's ward, but **Nash re-seals it in the ornate chest**, returns the medallion to Stanley, and Vorel finally **goes inside** before Stanley closes the gates. **The Hand has left with Hope; the gauntlet remains protected in the closed chest at White Tower.** No actual exchange with Tobacho, permanent reunion or Earth transit. [E101 report](../../reports/E101_ASR_COMPARISON_2026-10-23.md) · [Arc Four conclusion](../../narrative/ARC_FOUR.md).
+
+## E102 — custody of the gauntlet and airship departure
+
+After [E101](../../episodes/E101.md) restores his **Eye of Groxl**, [E102](../../episodes/E102.md) opens with a new Euphemian captain confronting Vorel, Nash and Stanley at White Tower. Vorel **retains the enchanted closed chest**, with the *separate Fist gauntlet* still inside while **Hope keeps the Hand of the Voice elsewhere**. The trio consider taking the loose gauntlet and hiding it but **never open the chest again here**; they instead plan to offer the whole case to Tobacho. **Stanley falsifies Alentris's memory** so she thinks they left the glove in the tower, but Vorel **still has the real case**. Stanley **Dimension Doors Vorel and the chest outside**, Nash catches up, and all three **depart aboard an orc-crewed airship** bound for Tobacho. **No gauntlet delivery, Earth crossing or moon resolution occurs in E102**. [Two-ASR report](../../reports/E102_ASR_COMPARISON_2026-10-23.md).
 
 ## E096 — the soup cure and next investigation
 
