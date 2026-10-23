@@ -10,7 +10,7 @@
 | --- | --- | --- |
 | [Characters and participants](CHARACTERS.md) | Main character and supporting-cast index with detailed sourced profiles | **Through E096:** White Tower plague cured; Stanley and Alentris propose a Mount Celestia diversion, and Hope, Nash, Vorel and Walnut approach restricted library books; Fist not taken |
 | **[Sigil / City of Doors](places/sigil.md)** | City of Doors and subsequent Outlands / White Tower events | **Through E096:** The tower's surviving infected residents are cured; Captain Waltz promises a replacement ship, but neither Fist nor pendant key has moved. |
-| [Places](PLACES.md) | **Consolidated place index** including **CHIDS**, **Kervalon**, Razak Val, Dusthill, Slavetown, the Black Mine, Château Weir and Tietkalla | **Place index and CHIDS site reference updated through E081** |
+| [Places](PLACES.md) | Consolidated place index for Wastes settlements, CHIDS, Sigil and Outlands | **Main location chronology through E096**, including White Tower's completed cure and pending restricted-library visit. |
 | [Portal device](technology/portal-device.md) | **Paired gateways and third necrotic-beam mode**; E075 acquisition, E076 executed escape, E077 friendly-fire risk; last documented device use E079 | **Updated through E079** |
 | [World and history](WORLD.md) | **Consolidated thematic reference**: the ancient catastrophe, settlements, factions, dragon technology, Soulbroker pacts, artifacts, religion and contested lore | **Thematic second-arc consolidation through E081** |
 | [Unified campaign chronology](CHRONOLOGY.md) | **53 main-story Arc One entries, followed by E055–E081**, time jump, publication exceptions and resolved cutoffs | **Chronology extended through E096** |
