@@ -9,6 +9,7 @@
 | Resource | Purpose |
 | --- | --- |
 | [January 2021 retrospective cast Q&A](../episodes/BONUS-2021-01.md) and [ASR comparison](../reports/BONUS_2021_01_ASR_COMPARISON_2026-10-24.md) | **Out-of-game** comments on Krandal's evolving backstory, three-person party design, encounter choices and the earlier grick; not a third played session |
+| [February-labelled bonus / second January Q&A](../episodes/BONUS-2021-02.md) and [ASR comparison](../reports/BONUS_2021_02_ASR_COMPARISON_2026-10-25.md) | **Out-of-game** alternate RPG/guest-player discussion, planning Krandal's turns and Koh's future subclass; Wastes character retrospectives stay separate; **6.62% ASR text disagreement** |
 | [S1E03 genuine dossier](episodes/S1E03.md) and [three-export comparison](../reports/DELVERS_S1E03_ASR_COMPARISON_2026-10-24.md) | Guild interlude, Koh's family, Yuri the thrush, Veggie Sticks, first grick killed by Evelyn, unresolved sinkhole cliffhanger. P–Q8 **7.39%**, P–Q4 **7.53%** disagreement |
 | [S1E04 dossier](episodes/S1E04.md) and [corrected ASR report](../reports/DELVERS_S1E04_ASR_COMPARISON_2026-10-24.md) | Grick scout, Veggie Sticks, dungeon, hilt; **7.65% disagreement of mislabeled ad-free S1E04 export pair** |
 | [S1E05 dossier](episodes/S1E05.md) and [ASR comparison](../reports/DELVERS_S1E05_ASR_COMPARISON_2026-10-24.md) | Level three, Soul Knife/scions, multiweek city-service montage, bronze approval, Skull Keep selection, **The Darkest Delvers**; **5.90% text disagreement** |

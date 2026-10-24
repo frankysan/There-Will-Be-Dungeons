@@ -1,6 +1,6 @@
 # Wastes Season One — creature candidate search
 
-**Date:** 2026-10-24. **Status:** Initial discovery pass complete; candidate verification and bestiary expansion remain open. **Scope:** The Wastes Season One, using existing episode dossiers. [Category](../world/CREATURES_AND_MONSTERS.md) · [Scope policy](../project/WORLD_CREATURES_PLAN.md) · [Machine-readable inventory and shortlist](WASTES_S1_CREATURE_SEARCH_2026-10-24.json).
+**Initial search date:** 2026-10-24. **Publication progress updated:** 2026-10-25. **Status:** Initial discovery pass complete; candidate verification and bestiary expansion remain open. **Scope:** The Wastes Season One, using existing episode dossiers. [Category](../world/CREATURES_AND_MONSTERS.md) · [Scope policy](../project/WORLD_CREATURES_PLAN.md) · [Machine-readable inventory and shortlist](WASTES_S1_CREATURE_SEARCH_2026-10-24.json).
 
 ## What was searched
 
@@ -20,9 +20,9 @@ This is **not** a claim to have manually interpreted every dossier or researched
 
 **31 additional candidate subjects or research clusters:** **12 suitable for bounded drafting from existing dossiers**, **17 requiring focused identity, behavior or continuity review**, and **2 separate Wastes-setting one-off leads**. These are editorial triage judgments, not verified species counts or intelligence classifications. Chicken Lords and Pixie Hulks already have pages and are not counted again.
 
-The first ranked batch—**Chester the bearsaurus**, the **Dunebreaker fruit ooze** and the **tainted displacer beast**—is now published from the existing dossiers. Each has distinctive observed traits and a bounded individual outcome. The **brain-backed spiders** and **skeleton-spawning flesh giant** are now published as the second ranked batch. The **black puddings** and **basilisk of the under-Pit caves** are now published as the third ranked batch. Next are **luminous desert beetles** and the **stormland Tyrannosaurus**, preserving their observed traits and source limits. Some later draftable subjects warrant only short articles; do not pad an entry to match a major creature's history.
+All twelve initially draftable subjects and owner-added sand squid are now published. Next is focused source review of the **green-case mimic** and the separate **doglike facility predator**, before deciding what further entries their evidence supports. Some subjects warrant only short articles; do not pad an entry to match a major creature's history.
 
-No canonical creature entry was added during the initial dossier search. After the sand-squid follow-up and three ranked publication batches, the cumulative list is **32 subjects/clusters: eight published, five draftable, 17 requiring focused review and two separately placed one-off leads**. Candidate IDs WSC-001–WSC-031 remain stable.
+No canonical creature entry was added during the initial dossier search. After the sand-squid follow-up and six ranked publication batches, the cumulative list is **32 subjects/clusters: thirteen published, none awaiting initial drafting, 17 requiring focused review and two separately placed one-off leads**. Candidate IDs WSC-001–WSC-031 remain stable.
 
 ## Owner-supplied follow-up — sand squid
 
@@ -58,17 +58,35 @@ The follow-up scanned 279 available Season One subtitle exports for squid-relate
 | **WSC-006 — [Black puddings](../world/creatures/black-puddings.md)** | [E042](../episodes/E042.md) 01:42–03:10 | Two corrosive cave masses split under slashing attacks and damage Hope's equipment. | Nash supplies the identification. Keep demonstrated corrosion and splitting separate from the full rules list discussed at the table. |
 | **WSC-007 — [Basilisk of the under-Pit caves](../world/creatures/basilisk-of-the-under-pit-caves.md)** | [E045](../episodes/E045.md) 00:43–01:28; 02:02–02:12<br>[E051](../episodes/E051.md) 02:01–02:29 | Eight-legged reptile with a petrifying gaze; its remains later contribute to restoring petrified companions. | The beast dies in E045. Later preparation is not a second kill; do not backdate extraction of a finished cure to the earlier digestive-oil discussion. |
 
+## Fourth ranked publication batch
+
+**2026-10-25:** Published WSC-008 and WSC-009 from the existing E006, E007, E065 and E066 dossiers, without new transcript or audio review. The beetle entry remains short because diet, exact anatomy and later fate are unresolved. WSC-009 is titled **Tyrannosaurus of the purple sands**; its earlier “Stormland” search label does not establish a named region. The dinosaur's approach, vehicle destruction, death and salvage remain distinct events, and its appearance during the storm does not prove the storm caused or summoned it. Both articles use in-universe prose, evidence footnotes and Current status last.
+
+| ID / published article | Dossier and approximate window | Supported lead | Boundary retained |
+| --- | --- | --- | --- |
+| **WSC-008 — [Luminous desert beetles](../world/creatures/luminous-desert-beetles.md)** | [E007](../episodes/E007.md) 00:06–00:40 | Large beetles with luminous fleshy appendages surround Fate 4 at night; travelers use noise and movement to avoid them. | Exact dimensions, diet and eventual departure remain listening questions. Suitable for a short entry; no need to invent a species name. |
+| **WSC-009 — [Tyrannosaurus of the purple sands](../world/creatures/purple-sands-tyrannosaurus.md)** | [E065](../episodes/E065.md) 02:29–02:38<br>[E066](../episodes/E066.md) 00:06–00:45 | Huge predator crushes Fate 4, falls into a storm-drain pit and is killed; teeth and bones become tools and salvage. | Keep this animal distinct from Polymorph forms of Vorel or Stanley. No cause for its enormous size or connection to the storm is established. |
+
+## Fifth ranked publication batch
+
+**2026-10-25:** Published WSC-010 and WSC-011 from the existing E093 and E021 dossiers, without new transcript or audio review. The wyvern article separates the flying beasts from the winged beastmen, preserves the unseen fate of the rat-transformed individual and avoids a reconstructed total death tally. The fungi remain descriptively named physical attackers; neither a standard species, spore power nor relationship to later mushrooms is established. Both entries use in-universe prose, evidence footnotes and Current status last.
+
+| ID / published article | Dossier and approximate window | Supported lead | Boundary retained |
+| --- | --- | --- | --- |
+| **WSC-010 — [Outlands wyverns](../world/creatures/outlands-wyverns.md)** | [E093](../episodes/E093.md) aerial battle, approximately 00:57–02:51 | Flying predators ram the Traveler's Twin and attack with bites and venomous stings. | Separate wyverns from the accompanying winged beastmen. One is turned into a falling rat with no witnessed final landing or reversion; do not resolve every individual's fate. |
+| **WSC-011 — [Tentacled purple fungi](../world/creatures/tentacled-purple-fungi.md)** | [E021](../episodes/E021.md) 00:09–00:58 | Large animate purple mushrooms grapple and strike in the Black Mine. | Unidentified hostile fungi, not a confirmed named fungal species; harmless mushroom beds and later Elhandar fungi are separate. |
+
+## Sixth ranked publication batch
+
+**2026-10-25:** Published WSC-012 as **Riding raptors**, completing the original twelve-subject draftable set. The article uses existing E027/E028 and E064 dossiers, with E065's generic mount reference noted as a limitation; no new transcript or audio review was performed. It distinguishes hunters' animals from Omnom's later mounts, a killed raptor from the living Diptak, roof-hide salvage from complete vehicle repair, and Mawstorm the mount from the sword. E064's played post-credit release provides the latest explicit disposition; Stanley's seized mount and the released animals' later fates remain unresolved. The page uses in-universe prose, footnotes and Current status last.
+
+| ID / published article | Dossier and approximate window | Supported lead | Boundary retained |
+| --- | --- | --- | --- |
+| **WSC-012 — [Riding raptors](../world/creatures/riding-raptors.md)** | [E027](../episodes/E027.md) 02:40–02:50<br>[E028](../episodes/E028.md) 00:07–01:42<br>[E064](../episodes/E064.md) 01:23–02:40 | Raptor-like animals serve hunters and carry the party during the escape from Razak Val; their hides are also used for repairs. | Separate wild behavior, mounts, individual deaths and the raptor named Mawstorm from Vorel's similarly named sword. Exact species remains descriptive. |
+
 ## Suitable for bounded drafting
 
-A candidate here has enough dossier support for a concise, qualified article. The label does not assert that it is campaign-original, non-intelligent by a rules score, or audio-confirmed.
-
-| ID / candidate | Dossier and approximate window | Supported lead | Boundary / next check |
-| --- | --- | --- | --- |
-| **WSC-008 — Luminous desert beetles** | [E007](../episodes/E007.md) 00:06–00:40 | Large beetles with luminous fleshy appendages surround Fate 4 at night; travelers use noise and movement to avoid them. | Exact dimensions, diet and eventual departure remain listening questions. Suitable for a short entry; no need to invent a species name. |
-| **WSC-009 — Stormland Tyrannosaurus** | [E065](../episodes/E065.md) 02:29–02:38<br>[E066](../episodes/E066.md) 00:06–00:45 | Huge predator crushes Fate 4, falls into a storm-drain pit and is killed; teeth and bones become tools and salvage. | Keep this animal distinct from Polymorph forms of Vorel or Stanley. No cause for its enormous size or connection to the storm is established. |
-| **WSC-010 — Outlands wyverns** | [E093](../episodes/E093.md) aerial battle, approximately 00:57–02:51 | Flying predators ram the Traveler's Twin and attack with bites and venomous stings. | Separate wyverns from the accompanying winged beastmen. One is turned into a falling rat with no witnessed final landing or reversion; do not resolve every individual's fate. |
-| **WSC-011 — Tentacled purple fungi** | [E021](../episodes/E021.md) 00:09–00:58 | Large animate purple mushrooms grapple and strike in the Black Mine. | Unidentified hostile fungi, not a confirmed named fungal species; harmless mushroom beds and later Elhandar fungi are separate. |
-| **WSC-012 — Lizardfolk riding raptors** | [E027](../episodes/E027.md) 02:40–02:50<br>[E028](../episodes/E028.md) 00:07–01:42<br>[E064](../episodes/E064.md) 01:23–02:40 | Raptor-like animals serve hunters and carry the party during the escape from Razak Val; their hides are also used for repairs. | Separate wild behavior, mounts, individual deaths and the raptor named Mawstorm from Vorel's similarly named sword. Exact species remains descriptive. |
+**None remain in the initial draftable set.** The twelve original entries and owner-added sand squid are published with source limitations retained. The remaining leads require the focused checks below; publication has not established campaign originality, intelligence scores or audio verification.
 
 ## Focused review before drafting
 
@@ -116,7 +134,7 @@ Resolve these particular questions rather than promoting a vague encounter label
 
 ## Next bounded work and publication checks
 
-1. Continue with WSC-008 luminous desert beetles and WSC-009 stormland Tyrannosaurus; the first seven ranked subjects are published. Use targeted source windows only where a material claim remains unresolved; do not mark a complete episode reanalysis from excerpts.
+1. Begin focused source review of WSC-013 green-case mimic and WSC-014 doglike facility predator. The initial twelve-subject draftable set is complete; resolve the stated anatomy, identity and defeat questions before promoting further candidates. Use targeted source windows only where a material claim remains unresolved; do not mark a complete episode reanalysis from excerpts.
 2. For each subject, check first appearance, distinguishing traits and last known state across the cited dossiers. Preserve testimonial origins, alternative spellings and uncertain individual outcomes in notes.
 3. Publish subject-focused in-universe prose under `world/creatures/`, with source/ASR details in footnotes and **Current status** last. Add only brief descriptions to the category index. Keep people and transformed forms distinct.
 4. Resolve the froghemoth's bargaining mind, red-organism agency, worm-type relationships and E127's separate chronology before expanding those clusters. Do not convert source uncertainty into a fictional universal rule.

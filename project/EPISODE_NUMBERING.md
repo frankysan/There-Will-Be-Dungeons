@@ -63,6 +63,7 @@ These correspond **one-to-one through original 54** (and, for E000, the original
 
 - The original `TWBD The Wastes S3E78: Electric Lizard` maps to corrected **`The Wastes S3E08. Electric Lizard`**. This looks like a typo in original listing but is preserved verbatim as an *original label*; the spreadsheet's corrected name is the archive identifier.
 - Some original bonus titles mention one month while Column I labels another (e.g. an original **May 2019** bonus normalized as **June 2019**). Retain both source strings and their dates; **do not reverse the user's existing normalization** without discussion.
+- **Bonus 2021-02 — February 2021** is expressly called **“the second of two January 2021” bonus Q&As** in both ASR exports' opening. Preserve the owner-normalized February public-release basename; neither the actual recording date nor the original publication day is established by that spoken phrase. [Source-first dossier](../episodes/BONUS-2021-02.md) and [ASR report](../reports/BONUS_2021_02_ASR_COMPARISON_2026-10-25.md) document the discrepancy.
 - Original listing number **77** is reused for two distinct `Inverse` rows. An original number alone is **not a unique database key**.
 - Corrected episode identifiers may differ between main campaigns. Never join `E015` without **campaign + season** context.
 

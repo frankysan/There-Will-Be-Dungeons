@@ -80,6 +80,11 @@ species lore. Campaign originality is a research question, not an entry gate.
 | The Wastes | [Skeleton-spawning flesh giant](../world/creatures/skeleton-spawning-flesh-giant.md) | E067's individual skeleton-producing creature beneath Kervalon; death ends spawning, without clearing the keep |
 | The Wastes | [Black puddings](../world/creatures/black-puddings.md) | E042's two corrosive, splitting cave masses and final destruction; rules discussion remains separate from demonstrated traits |
 | The Wastes | [Basilisk of the under-Pit caves](../world/creatures/basilisk-of-the-under-pit-caves.md) | E045's gaze, death and bone javelin; E051's later collection of remains and two consumed restoration preparations |
+| The Wastes | [Luminous desert beetles](../world/creatures/luminous-desert-beetles.md) | E006's unidentified lights and E007's beetle reveal/avoidance; anatomy and later fate remain limited |
+| The Wastes | [Tyrannosaurus of the purple sands](../world/creatures/purple-sands-tyrannosaurus.md) | E065's approach and E066's destruction of Fate 4, death and salvage; no inferred origin or storm connection |
+| The Wastes | [Outlands wyverns](../world/creatures/outlands-wyverns.md) | E093's aerial attack, ramming and venom; the rat-transformed individual's fate and exact death tally remain unresolved |
+| The Wastes | [Tentacled purple fungi](../world/creatures/tentacled-purple-fungi.md) | E021's animate mushroom attackers and defeat; no inferred species, spore power or link to later fungal growth |
+| The Wastes | [Riding raptors](../world/creatures/riding-raptors.md) | E027–E028's hunters, combat and hide repair; E064's escape mounts and release, with later individual fates unresolved |
 | Delvers | [Gricks](../delvers/world/creatures/gricks.md) | S1E01 identification and S1E03 sinkhole predators; no invented S1E02–S1E03 transition or cleared dungeon |
 
 Squirts, Henatar/Henitar Grape and the imprisoned black dragon remain character
@@ -98,8 +103,8 @@ from supported material, preserving unknown fates and source limitations.
 
 The [initial season-wide dossier search](../reports/WASTES_S1_CREATURE_SEARCH_2026-10-24.md)
 and [machine-readable inventory](../reports/WASTES_S1_CREATURE_SEARCH_2026-10-24.json)
-record 32 additional candidate subjects or research clusters: eight now published
-(sand squid and the first seven ranked candidates), five suitable for bounded drafting, 17 requiring focused review and
+record 32 additional candidate subjects or research clusters: thirteen now published
+(sand squid and all twelve initially draftable candidates), none awaiting initial drafting, 17 requiring focused review and
 two from the separately placed Wastes-setting Christmas one-off. The initial
 scan covers 130 available
 E-numbered dossiers; it is not a full transcript or audio review and excludes
@@ -109,7 +114,10 @@ The first ranked drafting batch—**Chester the bearsaurus**, the **Dunebreaker
 fruit ooze** and the **tainted displacer beast**—is published from existing
 dossiers, following the sand-squid transcript follow-up. The **brain-backed
 spiders**, **skeleton-spawning flesh giant**, **black puddings** and **basilisk
-of the under-Pit caves** are also published. Next are **luminous desert
-beetles** and the **stormland Tyrannosaurus**. These creature
+of the under-Pit caves**, **luminous desert beetles** and **Tyrannosaurus of the
+purple sands**, **Outlands wyverns** and **tentacled purple fungi** are also
+published, along with the **riding raptors**, completing the initial draftable
+set. Next is focused source review of the **green-case mimic** and **doglike
+facility predator**, before deciding what further entries their evidence supports. These creature
 publications do not advance an episode-research pointer. Follow the report's
 specific identity, agency and source checks when continuing.

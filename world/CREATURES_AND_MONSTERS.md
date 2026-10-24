@@ -14,6 +14,11 @@ The Wastes harbor desert wildlife, dangerous beasts and monstrous transformation
 | [Skeleton-spawning flesh giant](creatures/skeleton-spawning-flesh-giant.md) | Malformed flesh-and-bone creature beneath Kervalon, producing animated skeletons from shoulder cavities and wounds. |
 | [Black puddings](creatures/black-puddings.md) | Corrosive black cave oozes that divide under cutting attacks and dissolve weapons and wooden barriers. |
 | [Basilisk of the under-Pit caves](creatures/basilisk-of-the-under-pit-caves.md) | Eight-legged reptile with a petrifying gaze, whose remains later helped restore Hope and Vorel to living flesh. |
+| [Luminous desert beetles](creatures/luminous-desert-beetles.md) | Large insects with glowing fleshy appendages, encountered around Fate 4's desert camp at night. |
+| [Tyrannosaurus of the purple sands](creatures/purple-sands-tyrannosaurus.md) | Huge predator that crushed Fate 4 during the rainstorm near Kervalon; its teeth and bones became tools and salvage. |
+| [Outlands wyverns](creatures/outlands-wyverns.md) | Flying attackers of the Traveler's Twin, capable of ramming its hull and injuring defenders with bites and venomous stings. |
+| [Tentacled purple fungi](creatures/tentacled-purple-fungi.md) | Large animate mushrooms of the Black Mine, using tentacles to grapple and strike travelers among dense fungal beds. |
+| [Riding raptors](creatures/riding-raptors.md) | Velociraptor-like mounts used by lizardfolk hunters and the fugitives from Razak Val; their hides also served for repairs. |
 
 [World reference](README.md) · [Characters and companions](CHARACTERS.md) · [Antagonists and rivals](ANTAGONISTS.md)
 

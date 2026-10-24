@@ -10,7 +10,7 @@
     "full_srt_review": false,
     "audio_review": false,
     "not_exhaustive": true,
-    "new_canonical_entries_published": 8,
+    "new_canonical_entries_published": 13,
     "selected_srt_followup": true
   },
   "search_patterns": [
@@ -18,8 +18,8 @@
     "\\b(?:devour\\w*|grubs?|aboleths?|otyughs?|chokers?|gazers?|specters?|spectres?|wraiths?|wights?|ghouls?|ghasts?|mephits?|bulettes?|carrion|darkmantles?|gricks?|gorgons?|salamanders?|cockatrices?|ankhegs?|stirges?|umber hulks?|maggots?|parasites?|slaads?|stalkers?|grells?|piercers?|tadpoles?)\\b"
   ],
   "counts": {
-    "published": 8,
-    "draft-next": 5,
+    "published": 13,
+    "draft-next": 0,
     "focused-review": 17,
     "separate-oneoff": 2
   },
@@ -1077,7 +1077,7 @@
     },
     {
       "id": "WSC-008",
-      "status": "draft-next",
+      "status": "published",
       "name": "Luminous desert beetles",
       "evidence": [
         {
@@ -1087,11 +1087,15 @@
         }
       ],
       "observed_lead": "Large beetles with luminous fleshy appendages surround Fate 4 at night; travelers use noise and movement to avoid them.",
-      "boundary_or_next_check": "Exact dimensions, diet and eventual departure remain listening questions. Suitable for a short entry; no need to invent a species name."
+      "boundary_or_next_check": "Exact dimensions, diet and eventual departure remain listening questions. Suitable for a short entry; no need to invent a species name.",
+      "article": "world/creatures/luminous-desert-beetles.md",
+      "article_title": "Luminous desert beetles",
+      "publication_date": "2026-10-25",
+      "publication_basis": "Synthesis of existing episode dossiers; no new transcript or audio review"
     },
     {
       "id": "WSC-009",
-      "status": "draft-next",
+      "status": "published",
       "name": "Stormland Tyrannosaurus",
       "evidence": [
         {
@@ -1106,11 +1110,15 @@
         }
       ],
       "observed_lead": "Huge predator crushes Fate 4, falls into a storm-drain pit and is killed; teeth and bones become tools and salvage.",
-      "boundary_or_next_check": "Keep this animal distinct from Polymorph forms of Vorel or Stanley. No cause for its enormous size or connection to the storm is established."
+      "boundary_or_next_check": "Keep this animal distinct from Polymorph forms of Vorel or Stanley. No cause for its enormous size or connection to the storm is established.",
+      "article": "world/creatures/purple-sands-tyrannosaurus.md",
+      "article_title": "Tyrannosaurus of the purple sands",
+      "publication_date": "2026-10-25",
+      "publication_basis": "Synthesis of existing episode dossiers; no new transcript or audio review"
     },
     {
       "id": "WSC-010",
-      "status": "draft-next",
+      "status": "published",
       "name": "Outlands wyverns",
       "evidence": [
         {
@@ -1120,11 +1128,14 @@
         }
       ],
       "observed_lead": "Flying predators ram the Traveler's Twin and attack with bites and venomous stings.",
-      "boundary_or_next_check": "Separate wyverns from the accompanying winged beastmen. One is turned into a falling rat with no witnessed final landing or reversion; do not resolve every individual's fate."
+      "boundary_or_next_check": "Separate wyverns from the accompanying winged beastmen. One is turned into a falling rat with no witnessed final landing or reversion; do not resolve every individual's fate.",
+      "article": "world/creatures/outlands-wyverns.md",
+      "publication_date": "2026-10-25",
+      "publication_basis": "Synthesis of existing episode dossiers; no new transcript or audio review"
     },
     {
       "id": "WSC-011",
-      "status": "draft-next",
+      "status": "published",
       "name": "Tentacled purple fungi",
       "evidence": [
         {
@@ -1134,11 +1145,14 @@
         }
       ],
       "observed_lead": "Large animate purple mushrooms grapple and strike in the Black Mine.",
-      "boundary_or_next_check": "Unidentified hostile fungi, not a confirmed named fungal species; harmless mushroom beds and later Elhandar fungi are separate."
+      "boundary_or_next_check": "Unidentified hostile fungi, not a confirmed named fungal species; harmless mushroom beds and later Elhandar fungi are separate.",
+      "article": "world/creatures/tentacled-purple-fungi.md",
+      "publication_date": "2026-10-25",
+      "publication_basis": "Synthesis of existing episode dossiers; no new transcript or audio review"
     },
     {
       "id": "WSC-012",
-      "status": "draft-next",
+      "status": "published",
       "name": "Lizardfolk riding raptors",
       "evidence": [
         {
@@ -1158,7 +1172,11 @@
         }
       ],
       "observed_lead": "Raptor-like animals serve hunters and carry the party during the escape from Razak Val; their hides are also used for repairs.",
-      "boundary_or_next_check": "Separate wild behavior, mounts, individual deaths and the raptor named Mawstorm from Vorel's similarly named sword. Exact species remains descriptive."
+      "boundary_or_next_check": "Separate wild behavior, mounts, individual deaths and the raptor named Mawstorm from Vorel's similarly named sword. Exact species remains descriptive.",
+      "article": "world/creatures/riding-raptors.md",
+      "article_title": "Riding raptors",
+      "publication_date": "2026-10-25",
+      "publication_basis": "Synthesis of existing episode dossiers; no new transcript or audio review"
     },
     {
       "id": "WSC-013",
@@ -1627,6 +1645,61 @@
         "WSC-008",
         "WSC-009"
       ]
+    },
+    {
+      "date": "2026-10-25",
+      "candidate_ids": [
+        "WSC-008",
+        "WSC-009"
+      ],
+      "articles": [
+        "world/creatures/luminous-desert-beetles.md",
+        "world/creatures/purple-sands-tyrannosaurus.md"
+      ],
+      "basis": "Existing E006, E007, E065 and E066 dossiers; no new SRT or audio review",
+      "next_candidate_ids": [
+        "WSC-010",
+        "WSC-011"
+      ]
+    },
+    {
+      "date": "2026-10-25",
+      "candidate_ids": [
+        "WSC-010",
+        "WSC-011"
+      ],
+      "articles": [
+        "world/creatures/outlands-wyverns.md",
+        "world/creatures/tentacled-purple-fungi.md"
+      ],
+      "basis": "Existing E021 and E093 dossiers; no new SRT or audio review",
+      "next_candidate_ids": [
+        "WSC-012"
+      ]
+    },
+    {
+      "date": "2026-10-25",
+      "candidate_ids": [
+        "WSC-012"
+      ],
+      "articles": [
+        "world/creatures/riding-raptors.md"
+      ],
+      "basis": "Existing E027, E028 and E064 dossiers, with the generic E065 mount reference retained as a limitation; no new SRT or audio review",
+      "next_candidate_ids": [],
+      "next_review_candidate_ids": [
+        "WSC-013",
+        "WSC-014"
+      ]
     }
-  ]
+  ],
+  "last_updated": "2026-10-25",
+  "next_work": {
+    "type": "focused-source-review",
+    "candidate_ids": [
+      "WSC-013",
+      "WSC-014"
+    ],
+    "purpose": "Resolve the green-case mimic and separate doglike facility predator before further publication."
+  }
 }
