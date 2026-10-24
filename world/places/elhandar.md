@@ -1,6 +1,14 @@
 # Elhandar — elven space station and forest biodome
 
-**Spelling:** Elhandar is the established archive working form; E115 ASR also gives **Elhendar / Elendar / Elhanda**. **Continuity:** The Wastes, main-party Arc Five. **First researched physical arrival:** [E115](../../episodes/E115.md), ~00:30–00:39, following E111's rescue and E114's interrupted voyage. Earlier references do not constitute earlier visits. **Spoilers:** Through E124; **ASR-provisional, not audio-verified**.
+**Spelling:** Elhandar is the established archive working form; E115 ASR also gives **Elhendar / Elendar / Elhanda**. **Continuity:** The Wastes, main-party Arc Five. **First researched physical arrival:** [E115](../../episodes/E115.md), ~00:30–00:39, following E111's rescue and E114's interrupted voyage. Earlier references do not constitute earlier visits. **Spoilers:** Through E125; **ASR-provisional, not audio-verified**.
+
+## E125 — assault, evacuation, and unresolved impact
+
+The High Elf **Amanthalodar/Amenthalodar (?)** reports that absent engineer **[Tungsten Wheel](../characters/tungsten-wheel.md)** may build the proposed Rubistic sphere, with a lover at a **Mars terraforming platform**. He **gives Nash actual teleportation-circle coordinates** for both Mars and the **Cadulet/Cadulate (?) spire**. This is **information delivered, not a party departure to Mars**. Ghost-form **Diontalus gives Stanley a physical summoning ocarina** and later admits involvement with the earlier deer-mages and phantom pirates.
+
+At **~00:29–00:40** an attacking **castle and large airship fleet bombard the station**. The High Elf's shield systems are reported down; he **personally intercepts shots** and later **reflects a volley**, summons **living defensive trees** and employs a wind canopy. Numerous Sigil Hive mercenaries teleport into his chamber, commanded by **[Henitar/Henatar Grape (?)](../characters/henitar-grape.md)**. Diontalus fights them and **later visibly moves among attacking ships and causes explosions**. During continuing reinforcements the station **begins falling toward Earth**, and the High Elf **orders evacuation**, telling Stanley the secret room in his father's villa is safer. The High Elf **intends to use an evacuation pod**, but successful evacuation is **not depicted**.
+
+The household escapes the **falling spire elevator** with Stanley's *Feather Fall* and Vorel's successful cut through the car roof; after crossing **Rainbow Road**, the group finds multiple parked **noble speeders**. Hope, Stanley and Lyrielle each pilot one. Lyrielle **casts *Wall of Force*** to stop overhead structural debris, enabling them to reach **Villa Ornath**. Stanley leads all of them into his father's hidden study; **seats and belts appear**, followed by a loud **impact** and a scene fade. **The protagonists are known alive when entering the room, not independently certified alive after the impact.** The Harbor refugees, fate of station/survivors and Ruby construction are **not resolved by E125**. [E125](../../episodes/E125.md) · [comparison](../../reports/E125_ASR_COMPARISON_2026-10-24.md).
 
 ## E124 — core audience and an accord still to be fulfilled
 

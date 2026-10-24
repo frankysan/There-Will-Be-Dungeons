@@ -1,8 +1,14 @@
 # Lyrielle — elven doctor (provisional name)
 
-**Portrayed by:** Kristen. **Continuity:** The Wastes, Season 1, Arc Five. **First played appearance:** [E114](../../episodes/E114.md), ~00:24–00:27. **Name status:** ASR variants **Lyrielle / Liriel / Lirael**; the paged surname is garbled as **Korlani/Quarlani/Koralni (?)**. No creator-written spelling or spoken wording was verified. **Spoilers:** E114–E115; **ASR-provisional, no audio listening**.
+**Portrayed by:** Kristen. **Continuity:** The Wastes, Season 1, Arc Five. **First played appearance:** [E114](../../episodes/E114.md), ~00:24–00:27. **Name status:** ASR variants **Lyrielle / Liriel / Lirael**; the paged surname is garbled as **Korlani/Quarlani/Koralni (?)**. No creator-written spelling or spoken wording was verified. **Spoilers:** Through E125; **ASR-provisional, no audio listening**.
 
 Lyrielle is an **elf doctor aboard the Elhandari rescue spacecraft** carrying the survivors from Tietkalla. Kristen describes golden hair, pale skin, green eyes, an off-white peasant-style dress, a small waist satchel, a white mink companion with red eyes, and a crystal rose necklace. **She is a newly introduced character**, not Squirts resurrected or Hope returning to this party.
+
+## E125 — family evacuation and protective spell
+
+When the mercenary fleet **attacks Elhandar**, Lyrielle remains with **Angelashi and the four children** outside the High Elf's audience. She escapes with the family and the four main companions through the **freefalling spire elevator**, contributes a ***Mage Hand*** to steady **Vorel** as he cuts through the falling car roof, and survives the descent to the Rainbow Road. This is a **successful escape from the elevator**, not the end of the danger to the entire station.
+
+She then **actually pilots one of three noble speeders**, carrying **Nash, Angelashi and the four children**, while Stanley and Hope pilot the other two with Bok Bok, Chunks and Vorel. When enormous biodome wreckage falls, **Lyrielle casts *Wall of Force*** as a protective canopy, allowing all three vehicles to reach **Villa Ornath**. This is an **actually performed spell**, not Stanley's considered but **unused** *Resilient Sphere* contingency. The household enters Stanley's father's hidden room and **buckles up before an impact**; their **post-impact state is not shown**. [E125](../../episodes/E125.md) · [ASR comparison](../../reports/E125_ASR_COMPARISON_2026-10-24.md).
 
 ## E124 — guide to the core and reception caretaker
 

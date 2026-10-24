@@ -1,15 +1,15 @@
 # Characters and participants — The Wastes
 
-**Spoilers:** Main campaign through **E124** and separately identified Q&As. Profiles are **ASR-provisional** unless an individual claim is explicitly owner-confirmed or audio-verified. This is the *character directory*, not an episode-by-episode recap. For villains also see [Antagonists](ANTAGONISTS.md), for organizations [Factions and powers](FACTIONS_AND_POWERS.md), and for chronological changes [Campaign chronology](CHRONOLOGY.md).
+**Spoilers:** Main campaign through **E125** and separately identified Q&As. Profiles are **ASR-provisional** unless an individual claim is explicitly owner-confirmed or audio-verified. This is the *character directory*, not an episode-by-episode recap. For villains also see [Antagonists](ANTAGONISTS.md), for organizations [Factions and powers](FACTIONS_AND_POWERS.md), and for chronological changes [Campaign chronology](CHRONOLOGY.md).
 
 ## The original four protagonists
 
 | Character | Performer | Identity and latest context | Detailed profile |
 | --- | --- | --- | --- |
-| **Nash Maggard** | Scott | Dragon-engine-heart bearer; **family reaches Elhandar core E124, Junior confirmed daughter** | [Nash](characters/nash-maggard.md) · [His casting phrases](characters/nash-spellcasting-phrases.md) |
-| **Hope Akmenos** | Kristen | Mechanic, queen and Hand bearer; **freed E122, privately refuses Voice's Diontalus-killing order E124** | [Hope](characters/hope-akmenos.md) |
-| **Stanley Billings** | Jon | Half-elf and former unwilling host; **cured E124, wins conditional accord with Diontalus, departure/aid still unshown** | [Stanley](characters/stanley-billings.md) · [Diontalus](characters/diontalus.md) |
-| **Vorel** | Kyle | Lizardfolk warrior and Eye of Groxl bearer; **Malhya cures debuffs E124**, self-recited titles kept separate from granted status | [Vorel](characters/vorel.md) · [Title register](characters/vorel-titles.md) |
+| **Nash Maggard** | Scott | Dragon-engine-heart bearer; **receives Mars sigils and helps family reach Villa Ornath during E125 fall, fate after impact unseen** | [Nash](characters/nash-maggard.md) · [His casting phrases](characters/nash-spellcasting-phrases.md) |
+| **Hope Akmenos** | Kristen | Mechanic, queen and Hand bearer; **refuses Voice's E124 order, fights bounty hunters E125 and escapes to Villa Ornath, post-impact fate unseen** | [Hope](characters/hope-akmenos.md) |
+| **Stanley Billings** | Jon | Half-elf and former unwilling host; **cured/negotiates E124, receives ocarina E125 and shelters family during station fall; post-impact fate open** | [Stanley](characters/stanley-billings.md) · [Diontalus](characters/diontalus.md) |
+| **Vorel** | Kyle | Lizardfolk warrior and Eye of Groxl bearer; **cured E124, fights siege and cuts elevator roof E125**, no new formal castle/kingdom or proven post-impact survival | [Vorel](characters/vorel.md) · [Title register](characters/vorel-titles.md) |
 
 **Identity boundaries:** [Diontalus](characters/diontalus.md) has his own profile; **his intentions and acts are not Stanley's**. The former combined-page path `stanley-diontalus.md` now contains a short compatibility page linking to the distinct [Stanley](characters/stanley-billings.md) and [Diontalus](characters/diontalus.md) profiles. The Eye of Groxl is one owner-confirmed artifact, not a separate god called “Grojil.” At the **E081** cutoff the GM declares the four dead after the CHIDS sacrifice; **E082 and following episodes subsequently show them alive**. Hope's E101 departure ends Arc Four and begins Arc Five **within the same recording**. [E081](../episodes/E081.md) · [E082](../episodes/E082.md) · [E101](../episodes/E101.md).
 
@@ -33,7 +33,7 @@
 
 | Character | Role | Profile |
 | --- | --- | --- |
-| **Squirts** | Kristen's kobold companion; **killed E111**, Chunks survives; E124 roster name conflicts, **no revival shown** | [Squirts](characters/squirts.md) |
+| **Squirts** | **Killed/disintegrated E111**, Chunks survives; E124 roster name lapse **corrected to Chunks E125**; **modified Squirts reappears in separate Hell epilogue E125** as Brent's named captain | [Squirts](characters/squirts.md) |
 | **Nothing** | Sigil-linked adventurer whose independent engagements matter to the White Tower approach | [Nothing](characters/nothing.md) |
 | **Lyrielle / Liriel (?)** | Elhandari physician and caretaker around Angelashi and the Elhandar cottage | [Lyrielle](characters/lyrielle.md) |
 | **Steerious Business** | Minotaur member of Hope's separate group; owner-confirmed name, originally a pun | [Steerious](characters/steerious-business.md) |
@@ -48,7 +48,7 @@
 
 ## Major opponents, rulers and contested witnesses
 
-**[Malhya / Fishbird](characters/malhya.md)** — witnessed lake-rite visitor E124, cures Stanley/Vorel; divine history remains attributed. **High Elf Amanthalodar (?)** — [Elhandar](places/elhandar.md) leader, historical witness and summoner of the E124 negotiation; exact name unverified.
+**[Malhya / Fishbird](characters/malhya.md)** — witnessed lake-rite visitor E124, cures Stanley/Vorel; divine history remains attributed. **High Elf Amanthalodar (?)** — [Elhandar](places/elhandar.md) leader, historical witness, E124 summoner and **E125 station defender**; exact name unverified. **[Tungsten Wheel](characters/tungsten-wheel.md)** — absent Elhandari engineer sought for Ruby, with **lover at Mars platform** (reported, not yet met). **[Henitar/Henatar Grape (?)](characters/henitar-grape.md)** — three-headed E125 fleet commander alleging a Mind Master bounty on Hope and Vorel.
 
 [The Principle / Vladimir](characters/the-principle.md) · [The Soulbroker](characters/soulbroker.md) · [Quizquaz](characters/quizquaz.md) · [Monsoon Cabbage](characters/monsoon-cabbage.md) · [Kefeli](characters/kefeli.md) · [Tylander Sullivan](characters/tylander-sullivan.md) · [General Carthax](characters/general-carthax.md) · [Cerinthala](characters/cerinthala.md) · [Tobacho Fleur](characters/tobacho-fleur.md) · [the hooded Voice](characters/the-voice.md) · [Alvert](characters/alvert.md) · [Charles Dickens](characters/charles-dickens.md). Their moral status, true identities and supernatural claims are not all equally established; see the [antagonist directory](ANTAGONISTS.md).
 

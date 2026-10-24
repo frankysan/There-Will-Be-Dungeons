@@ -1,0 +1,11 @@
+# Henitar / Henatar Grape (?) — mercenary fleet commander
+
+> **The Wastes · first observed E125 ~00:33–01:03.** Personal name and army title are **ASR-provisional**, not audio-verified. [E125 dossier](../../episodes/E125.md) · [comparison](../../reports/E125_ASR_COMPARISON_2026-10-24.md).
+
+A purple-robed **human with three heads speaking together** arrives on a levitating disk during an armed assault on **Elhandar**. He introduces himself in the exports as **Henitar/Henatar Grape (?)**, leader of a mercenary force called roughly the **Asphyxiant Army (?)**, whose formation includes a huge mobile castle and many airships. Approximately **one hundred Hive/Sigil mercenaries teleport into the High Elf's chamber** while the fleet bombards the station. He calls the assault a contract to take **Hope and Vorel**, alleging his employer wants one dead and will accept the other alive or dead; the exact assignment **is not stated unambiguously**.
+
+He **claims** the employer is **Mind Master Gerbken Shartlinger** of Sigil, and alleges Gerbken informed the Lady of Pain about **Tobacho Fleur's** designs and caused the dragon's imprisonment in a labyrinth. He also alleges that Vorel cheated in M Sports. **These claims are not separately witnessed or verified**; no independent evidence here settles Tobacho's fate or the employer's actual command structure. The army's attack on Elhandar is itself **played**, however.
+
+**During battle (~01:02)** the commander **teleports away**, leaving his hovering disk behind as an inert metal object; **Vorel does not take it**. The fleet continues attacking. The High Elf reflects some projectiles; **Diontalus visibly damages hostile ships**, and the station begins falling toward Earth. The commander is **not shown killed, captured, converted or deprived of the mobile castle**, and Vorel's threat to take that castle is **only a boast**. [Diontalus](diontalus.md) · [Elhandar](../places/elhandar.md).
+
+**Listening priorities:** exact person/army names, whether the contract specifies which of Hope or Vorel must die, and precise Tobacho/Gerbken wording at **~00:33–00:39**.

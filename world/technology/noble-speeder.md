@@ -1,6 +1,10 @@
 # Noble speeder — the Gatherers' Lodge vehicle
 
-**Continuity:** The Wastes, corrected **S1E123–E124**, Arc Five. **Evidence:** Full primary ASR and selected secondary review, **not audio-verified**. [E123 dossier](../../episodes/E123.md) · [comparison](../../reports/E123_ASR_COMPARISON_2026-10-24.md) · [Elhandar](../places/elhandar.md) · [Items](../ITEMS_AND_ARTIFACTS.md).
+**Continuity:** The Wastes, corrected **S1E123–E125**, Arc Five. **Evidence:** Full primary ASR and selected secondary review, **not audio-verified**. [E123 dossier](../../episodes/E123.md) · [comparison](../../reports/E123_ASR_COMPARISON_2026-10-24.md) · [Elhandar](../places/elhandar.md) · [Items](../ITEMS_AND_ARTIFACTS.md).
+
+## E125 — three additional speeders on the escape route
+
+After the station's assault begins, the household exits the central spire via **Rainbow Road**. The group finds **six noble speeders parked near the biodome terminal**, with **no explanation of who placed them there**. Three are driven—one each by **Stanley, Hope and Lyrielle**—to **Villa Ornath**, where Lyrielle's actual ***Wall of Force*** catches falling biodome wreckage. **This does not mean the earlier borrowed Lodge speeder was somehow recovered from the villa or that the new parked machines are legally owned by the party**. All occupants reach the villa but the later impact scene does not establish survival thereafter. [E125](../../episodes/E125.md) · [comparison](../../reports/E125_ASR_COMPARISON_2026-10-24.md).
 
 ## E124 — villa return and vehicle left behind
 

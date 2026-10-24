@@ -1,6 +1,10 @@
 # Vorel — titles and epithets register
 
-**Type:** Source-indexed supporting register for [Vorel](vorel.md), deliberately separated from the main character biography. **Evidence:** ASR-provisional, with source windows, name variants and social standing preserved. **Spoilers:** Through E124; Q&As are retrospective, not played conferrals. [Characters](../CHARACTERS.md) · [World portal](../README.md).
+**Type:** Source-indexed supporting register for [Vorel](vorel.md), deliberately separated from the main character biography. **Evidence:** ASR-provisional, with source windows, name variants and social standing preserved. **Spoilers:** Through E125; Q&As are retrospective, not played conferrals. [Characters](../CHARACTERS.md) · [World portal](../README.md).
+
+## E125 — repeating king-of-space boast, no new title conferred
+
+At **~00:39:34–00:39:49**, confronting the hovering mercenary commander **Henitar/Henatar Grape (?)**, Vorel invokes his **recently proclaimed 'king of space'** status and claims he will take the fleet commander's **castle**. This echoes the **E123 aspirational king-of-space wording**; **no castle capture, court recognition, appointment, new conferral or new distinct title phrase** results from E125. The commandeer's abandoned flying disk is **not obtained**. **No new Vorel title register ID** is justified. [E125](../../episodes/E125.md) · [comparison](../../reports/E125_ASR_COMPARISON_2026-10-24.md). ASR-provisional, no listening.
 
 ## E124 — source audit of the Barosaurus and Diontalus epithets
 
