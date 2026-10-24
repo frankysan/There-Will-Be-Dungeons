@@ -1,6 +1,6 @@
 # Arc Three — A World Worth Saving
 
-**The Wastes · third story arc · Full spoilers.**[^three-archive][^three-1]
+**The Wastes · third story arc · Full spoilers.**[^three-balance][^three-archive][^three-1]
 
 ## Prologue — A crown does not make the world safe
 
@@ -16,7 +16,7 @@ Then **stones rain from the sky**, killing civilians and crushing Tietkalla's bu
 
 The heroes investigate a strange **green crater** surrounded by stones and discover tracks where something large was hauled away. Whatever struck here has already been taken elsewhere. **Diontalus takes Stanley's body and kills a leprechaun** the party has unearthed. A fight with **Wormfather bugbears** yields a more unsettling piece of evidence: **a living black parasite attached to a raider's brain**. Nash briefly flies off in dragon form and is retrieved after Hope organizes a search.
 
-At last the **Principle** appears at court, a huge metallic figure wearing red rings. He offers resources, rail trade, a shrine and an embassy in return for cooperation, and the party insists that new labor must be **paid and voluntary**. The Principle does something even more consequential: **he extracts Diontalus from Stanley into a crystal**. Stanley is finally free of the presence within him, though his rescuer remains a dangerous power. And **Dusthill captives really return**—including **Talia, Bruce Bane, Jimster and Shun'ti**—carrying memories of forced farm labor. Not every missing person is accounted for.
+At last the **Principle** appears at court, a huge metallic figure wearing red rings. He offers resources, rail trade, a shrine and an embassy in return for cooperation, and the party insists that new labor must be **paid and voluntary**. The Principle does something even more consequential: **he extracts Diontalus from Stanley into a crystal**. Stanley is finally free of the presence within him, though his rescuer remains a dangerous power. And **Dusthill captives really return**—including **Talia, Bruce Bane, Jimster and Shun'ti**—carrying memories of forced farm labor. Not every missing person is accounted for. The reunion brings the consequences of Dusthill's fall into Hope's new court.
 
 A new summons soon pulls the company toward **Razak Val**, where **Diptak** wants Vorel to reclaim a lizardfolk birthright.[^three-3]
 
@@ -32,7 +32,7 @@ What Vorel inherits proves impossible to fix in a day. **Sun's Witnesses** in th
 
 ## III. The family who never reaches sanctuary
 
-The fleeing adventurers hear a familiar engine: **Fate 4**, somehow being driven by a massive orc named **Rorf**. With him are **Follow** and his young daughter **Sira**, who can disappear and whose damaged elf-like ears bear marks of past persecution. Follow describes the loss of their refuge **Home**, lizardfolk hunters and his own capture. Rorf admits that he **murdered Bramie Fengar** to help provoke succession fights and rescue Follow. The egg theft and the murder have drawn different strangers into the same deadly succession struggle. Hope invites this unlikely family to seek refuge in Tietkalla. They accept; **they do not reach it**.
+The fleeing adventurers hear a familiar engine: **Fate 4**, somehow being driven by a massive orc named **Rorf**. With him are **Follow** and his young daughter **Sira**, who can disappear and whose damaged elf-like ears bear marks of past persecution. Follow describes the loss of their refuge **Home**, lizardfolk hunters and his own capture. Rorf admits that he **murdered Bramie Fengar** to help provoke succession fights and rescue Follow. The egg theft and the murder have drawn different strangers into the same deadly succession struggle. Hope invites this unlikely family to seek refuge in Tietkalla. They accept; **they do not reach it**. The shelter she promises lies beyond dangers already gathering around them.
 
 Rain, an astonishing event in the Wastes, sweeps the purple desert. Nash uses earth magic to free the stranded RV and divert floods around **Stanley's Tiny Hut**. Sira responds to Stanley's Elvish songs. The alleged future Nashes return with incompatible accounts of the stolen egg and a supposed future disaster. Then an actual **Tyrannosaurus rex** emerges from the storm. Vorel tries to lure it into Nash's pit, but it **tramples and destroys Fate 4**. Nash and Vorel kill it; Vorel's pitiful wheeled **Fang Fate Five** cannot replace Hope's traveling home.
 
@@ -96,7 +96,7 @@ The lights dim. **Quizquaz**, now an enormous oil-black winged visitor speaking 
 
 **Stanley volunteers to remain alone** in the beam. Quizquaz permits **Eddie to leave** and **Sira to slip out invisibly**; she later appears alive beside Eddie. **Stanley's Augury to Moha** returns a favorable omen and a warning that it is his final result. Vorel challenges Quizquaz to volunteer instead, then proposes a different choice: **the four companions will share the energy together**. Quizquaz, unwilling to take that burden himself, explains that a flattened wave allows movement and **a high-frequency crimson setting** concentrates the absorption. He leaves.
 
-**Eddie agrees to operate the console** and promises to protect Sira. While learning the controls he secretly **steals Hope's Bowie knife**. Sira thanks Stanley and says goodbye. **Hope, Vorel, Nash and Stanley enter the beam together**, clasping hands and claws. Eddie engages it. Hope is knocked unconscious; Nash's dragon form collapses; Then **all four dissolve into white light** and disappear.
+**Eddie agrees to operate the console** and promises to protect Sira. While learning the controls he secretly **steals Hope's Bowie knife**. Sira thanks Stanley and says goodbye. **Hope, Vorel, Nash and Stanley enter the beam together**, clasping hands and claws. Eddie engages it. Hope is knocked unconscious; Nash's dragon form collapses; then **all four dissolve into white light** and disappear.
 
 The four friends die together in the light, leaving Earth and the Drive beyond their reach. **Sira is free and alive beside Eddie. Chance remains unlocated in the void.** The friends chose not to trade the world away.[^three-16][^three-17]
 
@@ -151,3 +151,5 @@ Behind them, Vorel was publicly named **Great Fang**, but **Razak Val and Omnom 
 [^three-19]: Do not mistake the claims of the **spectral dragon, Charles Dickens, Alvert, Cerinthala, the hive council, the alleged future Wall Nash or Quizquaz** for neutral narration. The [unified chronology](../world/CHRONOLOGY.md), [active consistency ledger](../world/CONSISTENCY_LEDGER.md) and [source-review queue](../project/REVIEW_QUEUE.md) preserve uncertain naming, mechanics, provenance and episode-level cutoffs without repeating them inside this story. [The previous expanded narrative](../research/legacy/2026-10-22/YEAR_TWO_PRE_ARC_CONSOLIDATION.md) remains available as a research snapshot.
 
 [^three-archive]: [Prior narrative edition](../research/legacy/2026-10-24/ARC_THREE_PRE_IN_UNIVERSE_EDIT.md), preserved before the in-universe edit.
+
+[^three-balance]: [Prior prose edition](../research/legacy/2026-10-24/ARC_THREE_PRE_PROSE_BALANCE.md), preserved before chapter-length balancing. Chapter prose targets 350–450 words; footnotes and unnumbered framing are excluded. This is an editorial pass over existing dossiers, not new audio verification.

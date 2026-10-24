@@ -1,6 +1,6 @@
 # Arc Four — The Price of a Way Home
 
-**The Wastes · fourth story arc · Full spoilers.**[^four-archive][^four-1]
+**The Wastes · fourth story arc · Full spoilers.**[^four-balance][^four-archive][^four-1]
 
 ## Prologue — After the light
 
@@ -15,6 +15,8 @@ The speck is **Nash**, reduced to a dragon-metal heart that can see and think bu
 The sewers hold two more familiar figures: **Hope and Stanley**, apparently dead, being collected for a trade in valuable corpses. Hope's mechanical limbs are gone. Vorel fights to keep the bodies, with Nash ramming their opponents in his strange new form. An agreement with a surviving collector wins them a hovering slab and directions to the surface. The collector names their new home **Sigil, the City of Doors**.
 
 Sigil curves overhead, its streets and roofs filling the sky. At the Welcome Center, Vorel obtains three days of food and shelter; at the **Soggy Feather**, **Bill and Pam** offer warmth and advice. Nash begins growing human pieces from his heart. A new finger is an absurd but tangible reason to hope.
+
+Regrowth gives the strange heart a mouth and a hand.[^four-regrowth] Nash can speak again, grasp a pen and help search books, though he remains far from the body his friends knew. Vorel must navigate the city while defending two motionless companions and traveling beside a third who can scarcely resemble himself. Sigil offers immediate food and beds, but finding shelter is easier than deciding whom to trust with the dead. Every useful introduction now matters: the innkeepers, the city's clerks and strangers who recognize possibilities Vorel has no reason to understand. With Hope and Stanley still motionless, restoring them becomes Vorel's immediate purpose.
 
 Two strangers join their search for help: **Nothing**, a kenku who communicates through borrowed voices, and **Squirts**, a kobold carrying her infant, Chunks. Squirts leads them to a hidden trickster church. Its priest calls Hope and Stanley **petitioners**, soul-associated manifestations connected to the **Weir**, and proposes a bargain. If Vorel publicly humiliates a sufficiently proud champion, he will try to restore them. The bodies stay in the crypts while Vorel pursues an unlikely rescue through magically controlled fighting marionettes.[^four-4]
 
@@ -36,7 +38,7 @@ Nothing also carries a private obligation: a paid commission to abduct a promine
 
 Kidigree admits that he considered keeping Hope and Stanley merely to make a joke of Vorel's trust. Instead he keeps his word. In the **Hall of Reflections**, Hope and Stanley each perceive an opening from bodiless darkness and choose to approach it. They walk out of mirrors alive, while their original corpses remain strapped to slabs. Hope has natural limbs again, but neither returnee has recovered the equipment lost with the beam.
 
-Vorel is relieved without being certain that a trickster has returned the same friends. Later, spectrometer examinations show living auras and hidden writing: the claim of the **Weir** remains. Resurrection has not visibly annulled their contract. Squirts stays with the chapel; Nothing's separate business remains unresolved as the old party reunites.
+Vorel is relieved without being certain that a trickster has returned the same friends. Later, spectrometer examinations show living auras and hidden writing: the claim of the **Weir** remains. Resurrection has not visibly annulled their contract. Squirts stays with the chapel; Nothing's separate business remains unresolved as the old party reunites. Hope can walk on a natural leg and reach with a natural arm, yet her original body lies nearby without those mechanical replacements. The mirrors have given the friends a reunion they desperately wanted, while leaving them to live beside an unsettling reminder of how little they understand it.
 
 Nash discovers that he can cast Fire Bolt again. After eight days his body finishes regrowing, with his old injuries still present. His former thermal underwear has fused into him, retaining its cooling and limited flight. Vorel installs a professional marionette station at the Soggy Feather, but his dream of buying the inn remains a dream.[^four-6]
 
@@ -52,7 +54,7 @@ In a club, the scarred tiefling **Spatulo** gives Hope directions to Tobacho's c
 
 Tobacho's broker **Jelver** tests the four against trolls in a magically staged canyon. Their injuries are real, even though the landscape dissolves afterward. Having passed, they learn the target: **Zorander's Fist**, held by paladins in the besieged **White Tower** of the Outlands.
 
-A kidnapped bishop provides the crucial complication. The relic is inside a sacred box, while its pendant-key hangs around **High Cleric Thrun's** neck in Sigil. Stanley deceives the prisoner into trusting him, extracts the information and leaves him captive. The bishop's account describes a tower whose walls admit only good souls. Jelver proposes an airship approach and a teleporting leap through the siege. Whether the wards will admit them all is another question.
+A kidnapped bishop provides the crucial complication. The relic is inside a sacred box, while its pendant-key hangs around **High Cleric Thrun's** neck in Sigil. Stanley deceives the prisoner into trusting him, extracts the information and leaves him captive. The bishop's account describes a tower whose walls admit only good souls. Jelver proposes an airship approach and a teleporting leap through the siege. Whether the wards will admit them all is another question. The stolen key will only open the case; reaching the case itself means passing an army and winning access to people they intend to deceive.
 
 With Tobacho's writ, the party gets back through the Hive checkpoint. New priestly disguises and temporary magical appearances carry them into the **Unwavering House**. During a blessing Stanley steals the pendant and substitutes an imitation. Hope's religious performance almost traps her at the temple for examination; Stanley changes an attendant's memory to secure her release.
 
@@ -66,9 +68,11 @@ The airship passes from Sigil into the open sky of the **Outlands**. Through a t
 
 With a sending stone as their only promise of later extraction, the four jump. Stanley casts Dimension Door with Hope; Nash casts with Vorel. **Only three arrive inside the tower**. Its ward rejects Hope, throwing her outside into the besiegers' hands.
 
-**General Carthax** threatens to kill her, but **Ulvert**, who recognizes her from the UBI facility, sees an opportunity. The demons and devils have temporarily allied to seize the Fist. They offer to make Hope good enough to enter, then demand the relic. She negotiates for passage to Earth with her friends, at the right time and without tricks. A mouth-faced creature performs the magic; turning her toward **lawful goodness**, a change she must sustain through her conduct.[^four-10]
+**General Carthax** threatens to kill her, but **Ulvert**, who recognizes her from the UBI facility, sees an opportunity. The demons and devils have temporarily allied to seize the Fist. They offer to make Hope good enough to enter, then demand the relic. She negotiates for passage to Earth with her friends, at the right time and without tricks. A mouth-faced creature performs the magic, turning her toward **lawful goodness**, a change she must sustain through her conduct.[^four-10]
 
-Inside, Stanley's claim that reinforcements have arrived wins a brief welcome from the paladins and their acolyte **Walnut**. Hope rejoins the others and admits what happened. Suspicion becomes violence when Vorel refuses to surrender Shatter; Stanley heals a wounded knight and stops the confrontation. All four finally submit to the defenders' judgment.[^four-11]
+Inside, Stanley's claim that reinforcements have arrived wins a brief welcome from the paladins and their acolyte **Walnut**. Hope rejoins the others and admits what happened. Suspicion becomes violence when Vorel refuses to surrender Shatter; Stanley heals a wounded knight and stops the confrontation. All four finally submit to the defenders' judgment.
+
+They entered the expedition with one bargain and arrive carrying another. Tobacho expects the relic as payment for a road home. The forces outside now expect Hope to take it for them, while the paladins inside believe their visitors have come to help. Her changed nature gets her through the wall, but cannot make these promises compatible. White Tower offers shelter from the siege only after exposing the purpose that brought them there.[^four-11]
 
 ## VI. A different bargain in White Tower
 
@@ -94,7 +98,7 @@ Celestial riders arrive and briefly take custody of the chest, but an enemy's Ma
 
 Stanley reaches Alentris and saves her, returning her and the chest to the roof. Nash loses his dragon form, freeing him from the headless demon's remains. Three more airships appear, bringing attackers who demand the relic. A **four-armed minotaur** strikes Alentris unconscious and takes the chest over the parapet.
 
-What follows is a struggle through falling bodies, reversed gravity, teleportation and pursuit. Vorel unmasks a hostile caster, whom **Hope recognizes as Spatulo**; she alone knows who has been pursuing them. Nash and Hope reach ground level, while a Fire Storm drops Stanley and Alentris unconscious. Vorel seizes the key from Stanley's belongings, opens the drifting chest and takes the gauntlet. **A severed hand lies inside it. He does not put it on.** Hope privately hears a summons, and Vorel hears dark whispers. The relic calls to them both, but neither has yielded to it.[^four-15]
+What follows is a struggle through falling bodies, reversed gravity, teleportation and pursuit. Vorel unmasks a hostile caster, whom **Hope recognizes as Spatulo**; she alone knows who has been pursuing them. Nash and Hope reach ground level, while a Fire Storm drops Stanley and Alentris unconscious. Vorel seizes the key from Stanley's belongings, opens the drifting chest and takes the gauntlet. **A severed hand lies inside it. He does not put it on.** Hope privately hears a summons, and Vorel hears dark whispers. The relic calls to them both, but neither has yielded to it. Around the opened case, the struggle for possession has become something more intimate: a voice reaching particular listeners while their wounded friends remain scattered across the battlefield.[^four-15]
 
 ## VIII. The hand and the road apart
 
@@ -102,7 +106,7 @@ Stanley miraculously revives, heals Alentris and gets her inside. Outside, Vorel
 
 She cuts off her right hand and joins the **severed Hand of the Voice** to her arm. A shockwave scatters the combatants and her wounds disappear. In still time, a hooded presence names her his champion. Asked what she desires most, Hope answers **godhood**. The figure also restores the **Eye of Groxl** in Vorel's chest.
 
-The new Hand changes Hope's strength, appearance and powers. The separate **Fist gauntlet** falls away, and Vorel returns it to the opened chest. Hope kills a demon with **Finger of Death** and raises it as an undead mount. The army recoils. Her companions have survived, but the power that saved them has made their reunion something darker.
+The new Hand changes Hope's strength, appearance and powers. The separate **Fist gauntlet** falls away, and Vorel returns it to the opened chest. The object Tobacho sent them to recover is still there, but its meaning has changed. The living power within it now belongs to a companion, and the company can no longer deliver the prize as it was promised. Hope kills a demon with **Finger of Death** and raises it as an undead mount. The army recoils. Her companions have survived, but the power that saved them has made their reunion something darker.
 
 The Voice calls Hope away, warning that companions she leaves behind may be absent for a long time. **She chooses to go alone** and tells Vorel to return to the tower. On the commanders' hill, Carthax and Ulvert acknowledge their failure to capture the Hand. **Orcus orders the demons to withdraw**, ending White Tower's siege and dissolving this temporary coalition, while the wider Blood War continues.
 
@@ -157,3 +161,7 @@ Ulvert offers an invitation from **Asmodeus to the Kaiser Casino**. Spatulo warn
     [Arc Three](ARC_THREE.md) · [Arc Five](ARC_FIVE.md) · [Story guide](README.md) · [Chronology](../world/CHRONOLOGY.md) · [World references](../world/README.md).
 
 [^four-archive]: [Prior narrative edition](../research/legacy/2026-10-24/ARC_FOUR_PRE_IN_UNIVERSE_EDIT.md), preserved before the in-universe edit.
+
+[^four-regrowth]: [E083](../episodes/E083.md): Nash's heart-form gains a mouth and hand, allowing speech, writing and book searches; full bodily recovery comes later.
+
+[^four-balance]: [Prior prose edition](../research/legacy/2026-10-24/ARC_FOUR_PRE_PROSE_BALANCE.md), preserved before chapter-length balancing. Chapter prose targets 350–450 words; footnotes and unnumbered framing are excluded. This is an editorial pass over existing dossiers, not new audio verification.

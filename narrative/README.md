@@ -51,7 +51,7 @@ Five stories follow Nash, Hope, Stanley and Vorel from their first meeting in Du
     | [Four](ARC_FOUR.md) | 8 | E082 through Hope's E101 departure |
     | [Five](ARC_FIVE.md) | **8** | Remainder of E101–E128; historical E107–E109 and separate E127 one-off excluded |
 
-    The [2026-10-23 chapter-balance report](../reports/NARRATIVE_CHAPTER_BALANCE_2026-10-23.md) describes the first four arcs' historical layouts; the [2026-10-24 Arc Five report](../reports/ARC_FIVE_CONSOLIDATION_2026-10-24.md) covers its later eight-chapter rewrite. Chapter balance does not imply equal story duration or equal word counts.
+    The [2026-10-23 chapter-balance report](../reports/NARRATIVE_CHAPTER_BALANCE_2026-10-23.md) describes the first four arcs' historical layouts; the [2026-10-24 Arc Five report](../reports/ARC_FIVE_CONSOLIDATION_2026-10-24.md) covers its later eight-chapter rewrite. Chapter balance does not imply equal story duration or equal word counts. Main chapters now target about 400 words of story prose, normally 350–450 words, excluding notes and framing. The [prose balance report](../reports/NARRATIVE_PROSE_BALANCE_2026-10-24.md) records all forty chapter lengths.
 
     ## Reading rules
 
