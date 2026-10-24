@@ -1,65 +1,63 @@
 # World reference page template
 
-**Purpose:** A compact, source-linked *subject* page in `world/characters/`, `world/places/`, `world/technology/` or a major event study in `world/`. Use this as an editorial checklist, not a requirement to paste empty headings into every page. [Documentation architecture](DOCUMENTATION_ARCHITECTURE.md) · [World portal](../world/README.md).
+**Purpose:** A compact, **in-universe and narrative-focused** subject page in `world/characters/`, `world/places/`, `world/technology/` or a major event study in `world/`. **The governing presentation rule is [World narrative style](WORLD_NARRATIVE_STYLE.md): put episode IDs, ASR uncertainty, source links and editor notes in footnotes, not the main prose.** Use this template as a checklist, not a demand for empty headings. [Documentation architecture](DOCUMENTATION_ARCHITECTURE.md) · [World portal](../world/README.md).
 
 ## Recommended structure
 
 ```markdown
-# Preferred display name — short distinguishing description
+# Preferred display name — short in-world description
 
-**Identity/type:** ... **Aliases:** ... (status and source).
-**Spoilers:** ... **Evidence quality:** Processed ASR, not audio-verified
-unless specific evidence has been independently checked.
+## Introduction
 
-## Introduction — at first appearance
-
-Two or three concise paragraphs: the subject's broad nature, role and
-condition as presented when first encountered (cite the episode). Describe
-**then-current** location, relationships, known powers or ownership without
-giving away later revelations, deaths, betrayals or changes of custody.
-The page-level spoiler-horizon label above may identify the last researched
-episode; it is NOT a summary of that ending.
+Describe the subject's nature, role and condition at its first
+appearance, without revealing later discoveries or final outcomes.
+Let the relevant sources appear in footnotes, not in the prose.[^intro]
 
 ## Development by arc
 
-### Arc One — ... (E###–E###)
-Meaningful changes in played order, with supporting episode links.
+### Arc One — the early journey
 
-### Arc Two — ... (E###–E###)
-Include only arcs where this subject actually develops. Add later arcs as
-relevant, placing disclosures where learned, not at the earlier event date.
-Historical prequels and bonus commentary are separately identified.
+Tell the material developments in a connected, in-universe account.
+Include only arcs in which the subject meaningfully appears.[^early]
 
-## Relationships, locations, powers or ownership (optional)
+### Arc Five — the later struggle
 
-Enduring relationships, ownership/ability distinctions and cross-links
-that aren't already conveyed by the arc summaries. Keep this section
-before the final status, or omit it for simple/short entries.
+Preserve what the characters believed and learned at each point.
+Attribute uncertain in-world claims naturally; move source/ASR
+disagreement, episode numbers and research commentary to notes.[^late]
 
-## Current status — end of Season One (E128)
+## Relationships and abilities (optional)
 
-The **final substantive section** states the latest directly demonstrated
-condition as known at the researched cutoff; if the subject last appears
-earlier, name that episode and distinguish "last seen" from confirmed
-later survival/death. Include current location, relationships, custody,
-known abilities and remaining disputes only where relevant. Summarize
-open questions here, linking the consistency ledger and review queue;
-provide source dossier and related-page links here and inline above.
-**Do not put another story section after current status.**
+Add only lasting information not already clear from the story.
+
+## Current status
+
+Describe the last known condition, location, relationships and
+unresolved in-world fate. This is the last narrative section.[^status]
+
+[^intro]: [Introduction dossier](../../episodes/E001.md).
+    Page research horizon and source quality may be recorded here.
+[^early]: [Supporting episode](../../episodes/E027.md).
+[^late]: [Later episode](../../episodes/E126.md).
+    Record exact ASR alternatives and provenance where necessary.
+[^status]: [Final researched appearance](../../episodes/E128.md).
+    Link unresolved research to the consistency ledger/review queue.
 ```
+
+**These episode links illustrate footnote placement, not a required episode range for every subject.** The `## Current status` heading must remain the **last substantive heading**; footnote definitions may follow it without another heading. Keep in-text arc labels as navigation, but no `E###` references or review terminology in the main text. For the full rules and register exceptions, see [World narrative style](WORLD_NARRATIVE_STYLE.md).
 
 ## Canon and sourcing rules
 
 1. **Reference scope:** This is *The Wastes*. *Inverse* and the E043 one-shot are independent unless a source explicitly establishes a shared continuity. E107–E109 are a **same-world historical prequel**, not the current Arc Five.
 2. **One main subject page:** Category indexes link to the page and offer a brief description; don't append E### recaps to `CHARACTERS.md`, `PLACES.md`, `WORLD.md`, or the root world portal.
-3. **Introduction → arcs → current status:** The first section describes the subject and condition **at initial introduction**, even when the metadata spoiler horizon is later. Arc sections reveal changes **when learned**. The **last substantive section reports the latest observed state**, including unresolved questions. When the party first **believed** Angelashi dead E048 but **freed her alive** E054, preserve both observations in chronological order. E081's declaration of the party's death and their E082 return likewise coexist.
-4. **Source tier:** Directly played event; GM statement to players; GM/cast retrospective; in-character testimony; private handout/vision; processed ASR only; owner- or cast-confirmed orthography; external wiki reference. Never elevate testimony or an unplayed GM plan into an observed event.
-5. **Identity:** Distinguish actor/performance from fictional person, individuals from claimed aliases, singular artifacts from ASR misspellings. **Diontalus** and **Eye of Groxl** follow recorded owner spelling decisions. Unconfirmed names retain '(?)' and alternative forms.
+3. **Introduction → arcs → current status:** The first section describes the subject as originally encountered, with **no future spoilers or research apparatus**. Narrate chronological arc changes as in-world events; keep the **latest status as the last substantive section**, with supporting episode cutoffs in footnotes. Earlier false beliefs and later revelations both remain visible in proper narrative order.
+4. **Source tier:** Directly played event; GM statement to players; GM/cast retrospective; in-character testimony; private handout/vision; processed ASR only; owner- or cast-confirmed orthography; external wiki reference. Preserve this classification **in footnotes**; in the narrative, distinguish witnessed actions from what characters *say, believe or promise*. Never elevate testimony or an unplayed plan into an observed event.
+5. **Identity:** Distinguish actor/performance from fictional person, individuals from claimed aliases, singular artifacts from ASR misspellings. Use curated forms such as **Diontalus**, **Eye of Groxl** and **Eltanfawr** in the main narrative where established by owner decisions. Put uncertain alternate spellings and `(?)` markers **in notes**, or describe an unnamed subject naturally until evidence supports naming it.
 6. **Distinct agents:** When separate supernatural characters occupy the same body, give each a primary profile and distinguish whose acts, memories and motives are observed. Stanley and Diontalus have separate canonical pages; the former combined-page URL remains a short compatibility page linking to both.
 7. **Items:** Acquisition, transfers, loss, charges, attunement, power *read-out* and **actually demonstrated power** have different evidence thresholds. Distinguish the Hand, Eye of Voice, Eye of Groxl, Fist gauntlet, CHIDS portal device and Traversal Drive.
-8. **Cross-links:** Link first occurrences of related major subjects and episode dossiers using paths relative to the **new file's own directory**. Update inbound links when changing a slug. Don't copy source transcript text into the encyclopedia.
+8. **Cross-links:** Link major **in-world subjects naturally** in the prose. Put episode dossiers, source reports, editorial decisions and review queues **in footnotes** linked relative to the page's directory. Maintain stable links and inbound anchors when changing slugs. Don't copy source transcript text into the encyclopedia.
 9. **Archival:** Before shortening an established, long-lived index, preserve its pre-edit working research in `research/legacy/` with source links **rebased**. Historical snapshots are not parallel authorities; source transcriptions remain untouched.
-10. **Check before completion:** Validate that **the opening description is introduction-time accurate and does not reveal future outcomes**, all materially relevant arcs appear in proper order, **current status is the final substantive section**, and its claims match latest played evidence. Also check local Markdown links, duplicate slugs, preserved anchors, stale horizon/status language, affected Markdown lint and repository canonical checks when available. Never claim external audio verification without listening.
+10. **Check before completion:** Validate the introduction-time viewpoint, ordered relevant arcs and final current status. Search **the main text and headings** for E-numbers, ASR/GM/player terminology, editorial qualifiers, uncertain `(?)` spellings and episode/source links; move research metadata to relevant footnotes. Verify that **every note reference has a definition**, no orphan definitions exist, source links and inbound anchors survive, and real chronology/knowledge boundaries remain accurate. Run available Markdownlint/link/repository checks where possible; never claim audio verification without listening.
 
 ## Category ownership
 
