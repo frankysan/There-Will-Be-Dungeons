@@ -1,6 +1,6 @@
 # Nash Maggard's engineered dragon heart
 
-**Object:** Implanted **dragon-metal/mechanical heart engine** in Nash Maggard's body, connected to his earlier floating-heart survival, unusual black-dragon transformations and episodic magical reactions. **Latest direct inspection:** **E121**. [Items and artifacts](../ITEMS_AND_ARTIFACTS.md) · [Nash](../characters/nash-maggard.md) · [Chronology](../CHRONOLOGY.md).
+**Object:** Implanted **dragon-metal/mechanical heart engine** in Nash Maggard's body, connected to his earlier floating-heart survival, unusual black-dragon transformations and episodic magical reactions. **Latest direct inspection:** **E122**. [Items and artifacts](../ITEMS_AND_ARTIFACTS.md) · [Nash](../characters/nash-maggard.md) · [Chronology](../CHRONOLOGY.md).
 
 ## Prior evidence and boundaries
 
@@ -12,4 +12,12 @@ During a duel with the returned **Diontalus**, Nash ***Polymorphs* into an adult
 
 Nash calls a name provisionally heard as **Kaz Desiree / Cas de Jurey (?)**; **his black-dragon torso opens and the enlarged mechanical heart physically emerges, covered with gauges**, projecting an **orange-gold spectral dragon** who actually caresses the dying-looking black dragon and sings to him. This is a **performed, witnessed apparition**, and a major upgrade from earlier in-world theories, but does **not** prove whether the heart contains the mother's complete consciousness, merely an echo/signature, a technology-mediated summoning, or some other relationship. The son's name sounds **Yoshalar / Shallar (?)**. [E121](../../episodes/E121.md) · [comparison](../../reports/E121_ASR_COMPARISON_2026-10-24.md) · [Black dragon](../characters/imprisoned-black-dragon.md).
 
-**Current custody:** Still **inside Nash**, with the opened chest/apparition active as E121 cuts off. **Unresolved:** origin and responsible experimenters, whether the mother has physical existence elsewhere, exact names, consequences for Nash's body, and what the promised explanation would mean for Earth. No removal, completed transfer, death or cure is shown.
+**E121 custody at that cutoff:** Still **inside Nash**, with opened chest/apparition active. This historical cutoff is followed by the E122 withdrawal below.
+
+## E122 — implanted engine versus harvested natural heart
+
+The mother communicates with Nash through **purring and emotional impressions**, including a negative response to being his biological mother. The dying black dragon's **Dragon Sons/Clench/Principle manufacture story and 72/83 donor estimate are attributed testimony**, not direct inspection of Nash's creation. The clause **“that she's you”** is unclear ASR and cannot settle their identity. **When the black dragon dies (~00:40–00:42), the mother returns into Nash's pacemaker, his body closes and heals, and he later resumes human form**. His engineered heart remains implanted.
+
+**A second, distinct heart:** Vorel extracts the dead dragon's **natural black, glassy dragon-metal heart**, roughly **five feet tall**; mass is estimated first as **a couple of tons**, later **five tons**, not measured. The dragon asks for elven construction of a **rubistic/robustic triangulosphere (?)** and melting at Earth's hottest point to finish sealing it against the Weir. **Instructions, expected effects and engineering feasibility remain untested**.
+
+Stanley uses the **rejoined one-minute movable sphere wand** to place that natural heart into Nash's *Mold Earth* cavity **beneath/near a seven-foot black metal spike in the rear cave (~01:35–01:38)**. The spike causes worsening head pressure but is **not identified as a named item**; “staff of disruption” is party shorthand. Nash seals/disguises the earth; **the natural heart and spike remain there as the four leave**. The rest of the dead dragon dissipates. **No mother transfer into the harvested heart, heart delivery, device construction or successful planetary seal occurs**. [E122](../../episodes/E122.md) · [Dragon](../characters/imprisoned-black-dragon.md) · [Comparison](../../reports/E122_ASR_COMPARISON_2026-10-24.md).

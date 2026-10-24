@@ -1,6 +1,6 @@
 # Characters and participants — The Wastes
 
-**Spoilers:** Main campaign through **E121** and separately identified Q&As. Profiles are **ASR-provisional** unless an individual claim is explicitly owner-confirmed or audio-verified. This is the *character directory*, not an episode-by-episode recap. For villains also see [Antagonists](ANTAGONISTS.md), for organizations [Factions and powers](FACTIONS_AND_POWERS.md), and for chronological changes [Campaign chronology](CHRONOLOGY.md).
+**Spoilers:** Main campaign through **E122** and separately identified Q&As. Profiles are **ASR-provisional** unless an individual claim is explicitly owner-confirmed or audio-verified. This is the *character directory*, not an episode-by-episode recap. For villains also see [Antagonists](ANTAGONISTS.md), for organizations [Factions and powers](FACTIONS_AND_POWERS.md), and for chronological changes [Campaign chronology](CHRONOLOGY.md).
 
 ## The original four protagonists
 
@@ -38,7 +38,7 @@
 | **Lyrielle / Liriel (?)** | Elhandari physician and caretaker around Angelashi and the Elhandar cottage | [Lyrielle](characters/lyrielle.md) |
 | **Steerious Business** | Minotaur member of Hope's separate group; owner-confirmed name, originally a pun | [Steerious](characters/steerious-business.md) |
 | **Dilenoria / Dilo (?)** | Apparently eager apprentice E119, abductor E120; **Diontalus visibly separates from his body E121, left motionless and not breathing**; own consent unproved | [Dilo](characters/dilenoria.md) |
-| **Imprisoned black dragon / Yoshalar (?)** | Formerly held captive in Earth's desert; intervenes E121, helps save the party and **recognizes maternal mark in Nash's artificial heart** | [Dragon](characters/imprisoned-black-dragon.md) |
+| **Imprisoned black dragon / Yoshalar (?)** | Earth-desert survivor intervenes E121; **dies E122 after attributed history/origin testimony**. Body dissipates; **natural heart concealed in cave** | [Dragon](characters/imprisoned-black-dragon.md) |
 | **Blood Skunk Hendrickson** | Member of Hope's group; gives body parts for bargains and survives the failed E116 raid | [Blood Skunk](characters/blood-skunk-hendrickson.md) |
 | **Dr. Spider** | Hope-path companion who later shelters the quartet in a Hell laboratory | [Dr. Spider](characters/dr-spider.md) |
 | **Chance and Edison “Eddie” Manchester III** | Guests in E008–E009, encountered again at CHIDS; **Chance drifts away missing E081**, not proven dead | [E078](../episodes/E078.md) · [E081](../episodes/E081.md) |

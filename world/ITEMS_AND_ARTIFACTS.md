@@ -1,6 +1,6 @@
 # Items, artifacts and extraordinary technology
 
-**The Wastes · spoilers through E121.** Object-specific reference index; distinguishes physical possession, demonstrated effects, item descriptions, possible origins and proposed use. The dossiers are **ASR-provisional**, and a late-game inventory is not automatically valid for an earlier episode. [Portal](README.md) · [World technology](WORLD.md) · [Review ledger](CONSISTENCY_LEDGER.md).
+**The Wastes · spoilers through E122.** Object-specific reference index; distinguishes physical possession, demonstrated effects, item descriptions, possible origins and proposed use. The dossiers are **ASR-provisional**, and a late-game inventory is not automatically valid for an earlier episode. [Portal](README.md) · [World technology](WORLD.md) · [Review ledger](CONSISTENCY_LEDGER.md).
 
 ## Story-defining objects
 
@@ -11,7 +11,7 @@
 | **Gem of Tides** | Physically retrieved in E050; restoration of Tietkalla's entire water system not independently demonstrated | [Gem of Tides](technology/gem-of-tides.md) |
 | **CHIDS portal device** | Actual forearm-mounted red/green paired-gateway instrument recovered E075; separate necrotic beam mode | [Portal device](technology/portal-device.md) |
 | **Traversal Drive** | Larger CHIDS installation reached E079 and operated E081; planet-moving claims and lasting effects disputed | [Traversal Drive](technology/traversal-drive.md) |
-| **Nash's engineered dragon heart** | E121 **physically opens and projects a spectral golden maternal dragon**; her full identity and construction method unverified | [Dragon heart](technology/nash-dragon-heart.md) |
+| **Nash's engineered dragon heart; separate natural heart** | E121 projection **withdraws into Nash E122**; engineered pacemaker stays implanted. **Dead black dragon's natural heart extracted and hidden under/near cave spike**; sealing device only proposed | [Dragon hearts](technology/nash-dragon-heart.md) · [E122](../episodes/E122.md) |
 | **Book of Adjacencies** | Dalit/Daliot Ornath's responsive journal received by Stanley E118; its theories are not verified time-travel laws | [Book of Adjacencies](technology/book-of-adjacencies.md) |
 | **Mask of Elton IV (?)** | Obtained by Stanley E118 with untested *Peer into Plurality* description and costly four-rest attunement | [Mask](technology/mask-of-elton-iv.md) |
 

@@ -12,4 +12,6 @@ In E081 **Quizquaz offers interpretations** of the pact and proposes a catastrop
 
 ## Source boundaries
 
+**E122 — the black dragon's ancient-history account:** The dying dragon says human colonists entered a portal disguised as a black hole, bargained with the **Soulbroker** for lordship and promised access to Earth. He describes elven/dragon opposition and calls the Principle the Weir's surviving agent. **These are NPC assertions about unplayed history**, with no named colonist or independent bargain record. Stanley's question about why the Weir then seek the Principle's destruction is **not answered**, and the party's original compact is **not discharged or replaced** by this conversation. [E122](../../episodes/E122.md) · [Dragon](imprisoned-black-dragon.md) · [The Principle](the-principle.md).
+
 The Soulbroker is **not automatically identical with Quizquaz**, the Principle, or the hooded Voice. The original signed terms, eventual deadline and whether undelivered promised souls must still be collected are open. [Quizquaz](quizquaz.md) · [World](../WORLD.md) · [Consistency ledger](../CONSISTENCY_LEDGER.md).

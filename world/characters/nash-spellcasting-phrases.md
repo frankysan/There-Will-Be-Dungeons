@@ -1,12 +1,18 @@
 # Nash Maggard — spellcasting phrases and rhymes
 
-**Character:** [Nash Maggard](nash-maggard.md), portrayed by **Scott**. **Continuity:** The Wastes. **Spoilers:** Selected Season 1 magic through **E111**, later evidence reviews **E114–E121** (including **E120's performed *Haste* rhyme**, and non-casting poems/retrospective memories), plus a marked section of later-season seeds. **Status:** Updated 2026-10-24; **ASR-provisional, not audio-verified or an exhaustive collection**. **Current backfill ceiling: S1E111.**
+**Character:** [Nash Maggard](nash-maggard.md), portrayed by **Scott**. **Continuity:** The Wastes. **Spoilers:** Selected Season 1 magic through **E111**, later evidence reviews **E114–E122** (including **E120's performed *Haste* rhyme**, and non-casting poems/retrospective memories), plus a marked section of later-season seeds. **Status:** Updated 2026-10-24; **ASR-provisional, not audio-verified or an exhaustive collection**. **Current backfill ceiling: S1E111.**
 
 Nash improvises strange phrases, rhymes and sometimes unfinished verses around his magic. This page collects the wording separately from his character history, following the provenance practice of [Vorel's title register](vorel-titles.md). In **E046 ~02:52:57–02:53:10**, Beau awards Nash inspiration for the effort he puts into his magical words ([Parakeet][046-p], cues 2797–2801; [Qwen][046-q], cues 4622–4629). That recognizes an existing habit; it does **not** establish E046 as its beginning.
 
 ## October 2020 bonus — no performed Nash incantation
 
 The [October 2020 bonus](../../episodes/BONUS-2020-10.md) describes Nash's **E120 mushroom decision**, child/family concerns and performance habits; **it does not contain a new in-character performed spell or a new source-supported Nash rhyme**. E120's performed ***Haste* wording** remains in **NSP-041** below. The bonus itself contributes **no new NSP number**; performer recollection and cast jokes are not spellcasting. [Dual-ASR report](../../reports/BONUS_2020_10_ASR_COMPARISON_2026-10-24.md).
+
+## E122 — GM-supplied wording for an unsuccessful *Mage Hand*
+
+**NSP-042 · corrected S1E122 ~02:30:58–02:31:24 · failed *Mage Hand* attempt, wording supplied by Beau/the GM:** Parakeet has `you think i only know said / but i actually know mage hand`; Qwen has `You think I only know sand? / But I actually know mage hand`. **Do not repair `said` to `sand` without listening.** Nash tries to block the sweets, and the GM first describes a hand but **withdraws the success when he rules Nash cannot gesture while held**. The GM supplies this imagined rhyme in the failure narration; **Scott remarks that he normally objects to Beau making up his rhymes but that this is about what he would have used**. Record **GM-supplied attempted-cast wording, not a successfully performed incantation or an independent Scott utterance**. [Parakeet](../../sources/The%20Wastes%20S1E122.%20That's%20Ghost%20Water.parakeet.processed.srt), cues **2363–2369**; [Qwen-labelled](../../sources/The%20Wastes%20S1E122.%20That's%20Ghost%20Water.qwen-q8.canary-ctc.nemotron.srt), cues **3813–3822**. [Dossier](../../episodes/E122.md) · [Comparison](../../reports/E122_ASR_COMPARISON_2026-10-24.md). **ASR-only, not listened to**; performer attribution is contextual, diarization unverified.
+
+The actual E122 ***Mold Earth*** burial carries **no distinct new improvised rhyme located in the complete primary reading**. Hope's later Nash impression uses her **necklace** and is **neither Nash's casting nor a genuine future Nash**. No additional NSP entry is justified for it.
 
 ## E121 — *Polymorph* and dragon-heart event, no new rhyme
 

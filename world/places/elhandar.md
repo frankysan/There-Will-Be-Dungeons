@@ -1,6 +1,12 @@
 # Elhandar — elven space station and forest biodome
 
-**Spelling:** Elhandar is the established archive working form; E115 ASR also gives **Elhendar / Elendar / Elhanda**. **Continuity:** The Wastes, main-party Arc Five. **First researched physical arrival:** [E115](../../episodes/E115.md), ~00:30–00:39, following E111's rescue and E114's interrupted voyage. Earlier references do not constitute earlier visits. **Spoilers:** Through E121; **ASR-provisional, not audio-verified**.
+**Spelling:** Elhandar is the established archive working form; E115 ASR also gives **Elhendar / Elendar / Elhanda**. **Continuity:** The Wastes, main-party Arc Five. **First researched physical arrival:** [E115](../../episodes/E115.md), ~00:30–00:39, following E111's rescue and E114's interrupted voyage. Earlier references do not constitute earlier visits. **Spoilers:** Through E122; **ASR-provisional, not audio-verified**.
+
+## E122 — freed Hope, hidden heart and Gatherers' Lodge
+
+The black dragon gives **attributed testimony** about Elhandar's ancient role against the Weir and instructions to have local elves build a **rubistic/robustic triangulosphere (?)** from its heart. **It dies**, and its mother withdraws into Nash. **Stanley frees Hope with the detonator**. Vorel extracts the separate natural metal heart; Stanley's sphere wand and Nash's *Mold Earth* **hide it under/near an unidentified painful metal spike in the rear cavern**. The rest of the body dissipates. **No heart delivery, knowledgeable smith or finished sealing device is shown**, and widespread elven possession by Diontalus remains the party's fear, not established station-wide fact.
+
+All four travel to the **Gatherers' Lodge** after checking Chester's kill site; mages' fine robes are a clue without proven faction. The ornate lodge has **four connected buildings around a courtyard**, a wharf/boat and two welcoming elven ghost custodians, names **Tomsilar Bear / Tom Cilabert (?)** and **Aluneva / Eluneva (?)**. Water and sweets are physically supplied. The male goes to verify Chester's death, **not yet returning with confirmation**; rooms are prepared but **no overnight rest or boat trip is performed**. The episode ends in the companions' ghost-candy play fight, **not an identified attack by the ghosts**. [E122](../../episodes/E122.md) · [ASR comparison](../../reports/E122_ASR_COMPARISON_2026-10-24.md).
 
 ## E121 — Diontalus, Omnom's death and a dragon-mother apparition
 

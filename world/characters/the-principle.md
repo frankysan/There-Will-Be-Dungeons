@@ -1,6 +1,6 @@
 # The Principle — Vladimir
 
-**Identity:** Usually called **the Principle**, sometimes transcribed “Principal”; identified by an Elhandari high elf as **Vladimir** in E115. **Role:** Ancient political/technological power connected to Slavetown, Tietkalla diplomacy and the Soulbroker pact. **Spoilers:** E001–E118. **Evidence:** Provisional ASR; no independent listening.
+**Identity:** Usually called **the Principle**, sometimes transcribed “Principal”; identified by an Elhandari high elf as **Vladimir** in E115. **Role:** Ancient political/technological power connected to Slavetown, Tietkalla diplomacy and the Soulbroker pact. **Spoilers:** E001–E122. **Evidence:** Provisional ASR; no independent listening.
 
 ## Activity and influence
 
@@ -11,6 +11,8 @@ At Tietkalla the Principle or his envoy negotiates prisoner returns, labor and p
 His political reach and claims become important again in Arc Five. In E106 he speaks with Hope at Kaiser Casino and gives a version of ancient pre-Scorching history and **Lich Project** experiments via Brett's illusions; these are claims, not independently inspected archives. He **actually appears at Elhandar in E115**, visibly exercising supernatural abilities, and **claims** responsibility for a great city explosion and newly acquired demigodhood. The High Elf calls him Vladimir and speaks of earlier scientific disagreement. Neither an explosion's cause nor divine status is proven merely by the Principle's self-account. [E106](../../episodes/E106.md) · [E115](../../episodes/E115.md).
 
 ## Opponents, motives and outstanding questions
+
+**E121–E122 bring claims from other interested witnesses, not a new appearance by the Principle.** Diontalus says the Principle helped him recover; E121 shows Diontalus physically manifested and escaped, **not how the earlier crystal was opened**. In E122 the dying black dragon calls the Principle **the Weir's remaining agent/pawn**, and says he commissioned the **Dragon Sons** to create **an invulnerable body**, with Nash among the experiments. Neither claim is independently verified by a laboratory record or the Principle himself. Stanley asks why the Weir would then want their own agent destroyed; **the dragon leaves that contradiction unresolved**. [E121](../../episodes/E121.md) · [E122](../../episodes/E122.md) · [Black dragon](imprisoned-black-dragon.md).
 
 Hope, Nash and Stanley signed a **Soulbroker compact aimed at the Principle**; Vorel refused. **Alvert** later alleges the Principle was a CHIDS scientist associated with human-processing facilities; physical CHIDS experiments exist, but that does not independently validate the entirety of Alvert's account. The father of Stanley records speculative future-Principle/Weir experiments in E118—**a found theory, not a confirmed discovery**. [Soulbroker](soulbroker.md) · [Alvert](alvert.md) · [CHIDS](../places/chids.md) · [Book of Adjacencies](../technology/book-of-adjacencies.md).
 
