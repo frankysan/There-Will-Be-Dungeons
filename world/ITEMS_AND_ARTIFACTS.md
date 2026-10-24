@@ -1,6 +1,6 @@
 # Items, artifacts and extraordinary technology
 
-**The Wastes · spoilers through E118.** Object-specific reference index; distinguishes physical possession, demonstrated effects, item descriptions, possible origins and proposed use. The dossiers are **ASR-provisional**, and a late-game inventory is not automatically valid for an earlier episode. [Portal](README.md) · [World technology](WORLD.md) · [Review ledger](CONSISTENCY_LEDGER.md).
+**The Wastes · spoilers through E119.** Object-specific reference index; distinguishes physical possession, demonstrated effects, item descriptions, possible origins and proposed use. The dossiers are **ASR-provisional**, and a late-game inventory is not automatically valid for an earlier episode. [Portal](README.md) · [World technology](WORLD.md) · [Review ledger](CONSISTENCY_LEDGER.md).
 
 ## Story-defining objects
 
@@ -21,7 +21,7 @@
 | **Mawstorm** and Vorel's skull helmet | [Vorel](characters/vorel.md); sword name still requires audio/written confirmation |
 | **Fate 4** and Hope's mechanical arm, **Fox and Scully** | [Hope](characters/hope-akmenos.md); the vehicle is destroyed E066, not later retrieved |
 | **Nash's implanted dragon-metal heart**, Robe of Useful Items and staff | [Nash](characters/nash-maggard.md); consumed robe patches and weapon states require cutoff-specific inventory |
-| **Necklace of Fireballs**, recovered from Orp | [Vorel](characters/vorel.md), [Razak Val](places/razak-val.md), [E063](../episodes/E063.md); bead count after later transfers/use unverified |
+| **Necklace of Fireballs**, once recovered from Orp | **[Omnom](characters/omnom-cinderborn.md) physically produces and retains it E119** when Vorel declines a transfer; **remaining bead count unverified**. [Razak Val](places/razak-val.md) · [E119](../episodes/E119.md) |
 | **Zorander's Fist gauntlet and case** | [Hope](characters/hope-akmenos.md), [E101](../episodes/E101.md), [E106](../episodes/E106.md); gauntlet delivered to Tobacho **without** the Hand |
 | **Eye of the Voice**, not obtained by E118 | [Hope](characters/hope-akmenos.md), [E113](../episodes/E113.md), [E118](../episodes/E118.md); **not** the Eye of Groxl |
 

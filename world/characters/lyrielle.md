@@ -4,6 +4,10 @@
 
 Lyrielle is an **elf doctor aboard the Elhandari rescue spacecraft** carrying the survivors from Tietkalla. Kristen describes golden hair, pale skin, green eyes, an off-white peasant-style dress, a small waist satchel, a white mink companion with red eyes, and a crystal rose necklace. **She is a newly introduced character**, not Squirts resurrected or Hope returning to this party.
 
+## September 2020 bonus — princess, wizard and name inspiration
+
+**Kristen's retrospective creator account** in [BONUS-2020-09](../../episodes/BONUS-2020-09.md), **~00:07:19–00:09:08**, describes developing a **Disney-princess-style wizard who reads many books**, leaving open whether she actually lived the classic princess stories. At **~00:34:09–00:34:40**, Kristen attributes the name to a book series, recognized as **`Sabriel / liriel`** or **`Sabriel, Lyriel, and Horison`**, and to **Ariel / The Little Mermaid**. This supports **authorship and concept**, not a verified full character sheet, literary-title spelling or the truth of Lyrielle's mermaid memories. The existing display name stays provisional. Scott's later **`red` / `rad`** recognition difference is praise context, not new appearance evidence. [Comparison](../../reports/BONUS_2020_09_ASR_COMPARISON_2026-10-23.md); **no audio listening**.
+
 ## E115 — cottage guide, Acorn and remembered seafoam
 
 At [E115](../../episodes/E115.md), Lyrielle accompanies the family to **Elhandar**, then serves as **the assigned guide/host at a lakeside biodome cottage**. She helps the parents reconcile, cooks, uses **Mage Hand / Mending / Prestidigitation**, lights Squirts’s memorial fire with **Fire Bolt**, and cares for the household through **four recovery days**. The station offers therapist assignment but **attendance is voluntary**; Lyrielle is not shown conducting a formal therapy session. Her longer name is recognized approximately as **“Lirael Quirlia Har onihillu” / “Lyriel Quirlya Harhani Kenu” (~01:04)**; exact orthography remains open.

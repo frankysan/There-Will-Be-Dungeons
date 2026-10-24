@@ -1,6 +1,12 @@
 # Elhandar — elven space station and forest biodome
 
-**Spelling:** Elhandar is the established archive working form; E115 ASR also gives **Elhendar / Elendar / Elhanda**. **Continuity:** The Wastes, main-party Arc Five. **First researched physical arrival:** [E115](../../episodes/E115.md), ~00:30–00:39, following E111's rescue and E114's interrupted voyage. Earlier references do not constitute earlier visits. **Spoilers:** Through E118; **ASR-provisional, not audio-verified**.
+**Spelling:** Elhandar is the established archive working form; E115 ASR also gives **Elhendar / Elendar / Elhanda**. **Continuity:** The Wastes, main-party Arc Five. **First researched physical arrival:** [E115](../../episodes/E115.md), ~00:30–00:39, following E111's rescue and E114's interrupted voyage. Earlier references do not constitute earlier visits. **Spoilers:** Through E119; **ASR-provisional, not audio-verified**.
+
+## E119 — a real hunt, old biogenetics claims and unburnt forest
+
+In [E119](../../episodes/E119.md), **Omnom and Dilenoria/Dilo** actually join the four original heroes on a **two-day hunt within the Elhandar forest**. **Lyrielle supplies a map** covering the route from **Villa Ornath (?)** past **the Harbor**, **Gatherers' Lodge**, lake/bridge crossings and **Grushen/Grousen (?) hunting grounds**; proper names on the spoken Roll20 map require source-map confirmation. **Fitz** gathers berries for the Harbor, recognizes Hope as queen and asks the party to seek unusual mushrooms for Nobieri (none are picked). Four squirrels actually speak and receive rations; an elf fisherman named **Tranquilar (?)** greets the travelers and gives Nash chewing grass. These are observed local encounters, not representative surveys of every animal or elf.
+
+Dilo **reports** that Elhandari engineers combined a bear and dinosaur in an old genetic-diversity lab, producing a large **bearsaurus/barosaurus called Chester** that escaped centuries ago, threatens other wildlife and allegedly killed hunters. A fisherman echoes missing-hunter stories. **No laboratory evidence, living specimen or confirmed kills are shown**. The adventurers **actually camp by a lake**, catch **ten fish**, sleep in Stanley's *Tiny Hut*, and the following morning hear heavy steps in the northern forest. Vorel **throws a burning fish-head lure** into brush; **Stanley actually extinguishes the small resulting fire**. The episode cuts off **before a Chester sighting or attack**, and the station's biodome is **not destroyed by fire**. [E119 ASR report](../../reports/E119_ASR_COMPARISON_2026-10-23.md).
 
 ## E118 — Omnom found and a hidden father's study
 

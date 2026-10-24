@@ -1,6 +1,14 @@
 # Vorel — titles and epithets register
 
-**Type:** Source-indexed supporting register for [Vorel](vorel.md), deliberately separated from the main character biography. **Evidence:** ASR-provisional, with source windows, name variants and social standing preserved. **Spoilers:** Through E118; Q&As are retrospective, not played conferrals. [Characters](../CHARACTERS.md) · [World portal](../README.md).
+**Type:** Source-indexed supporting register for [Vorel](vorel.md), deliberately separated from the main character biography. **Evidence:** ASR-provisional, with source windows, name variants and social standing preserved. **Spoilers:** Through E119; Q&As are retrospective, not played conferrals. [Characters](../CHARACTERS.md) · [World portal](../README.md).
+
+## E119 — continuing use of earlier titles
+
+**E119** refers to the **Heroes of the Wastes** collectively and has **Omnom address Vorel as Great Fang**, both repeats of established language. **No newly awarded office or confidently distinct self-bestowed title** was found in the two complete ASR exports. The speech about killing Chester is **a proposed quest**, not a new title or completed feat. [E119](../../episodes/E119.md) · [ASR comparison](../../reports/E119_ASR_COMPARISON_2026-10-23.md).
+
+## September 2020 bonus — retrospective title check
+
+At **~00:10:52–00:11:22**, **Kyle recalls “Lizard King” on Fate Four** while explaining the consequences of finding Bok Bok: **Parakeet cues 207–214 / Qwen 336–346**. This is **retrospective player attribution**, not a new title, coronation or proof the first use occurred that same night. Preserve the earlier E006/E026/E036 title evidence below. Both exports support the title; proper-name variants remain ASR-provisional. [September dossier](../../episodes/BONUS-2020-09.md) · [Parakeet](../../sources/Bonus%202020-09%20-%20September%202020.parakeet.processed.srt) · [Qwen](../../sources/Bonus%202020-09%20-%20September%202020.qwen-q8.canary-ctc.nemotron.srt) · [Comparison](../../reports/BONUS_2020_09_ASR_COMPARISON_2026-10-23.md). No distinct new title or changed formal standing was located in the full bonus reading.
 
 ## Source-indexed titles, epithets and disputed labels
 
@@ -124,7 +132,6 @@ The register above separates names, offices, quotations, hostile labels, and unr
 Future reviews should append each *new* self-given epithet (including cumulative formal introductions) here with **episode, time/cue, exact wording if reliable, speaker and recognition status**. Keep previous forms when the list grows; never infer a title solely from a fan-wiki character sheet. Kyle's [June bonus discussion](../../episodes/BONUS-2019-06.md) (~00:07–00:08) explains Vorel's consistent foreigner perspective and roleplaying technique; **it does not contain a new self-awarded title**.
 
 **Sword spelling note:** The chainsaw-edged greatsword acquired in [E037](../../episodes/E037.md) appears as `Ma Storm`, `maw storm` and `moss storm` in different processed ASR contexts. The archive owner's **likely intended form is Mawstorm**; use it provisionally in curated reference text, retain those variants as search cues and seek an original item handout or audio check. **Do not alter the ASR files.**
-
 
 ## Editorial use
 

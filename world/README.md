@@ -1,6 +1,6 @@
 # The Wastes — world reference
 
-A **subject-centered encyclopedia** for *The Wastes*: characters, antagonists, societies, places, objects and historical events. **Main-campaign spoilers through researched E118**; the separately published E107–E109 *Dunebreaker* story takes place **long before E001**. The written research is based on processed ASR, **not independently verified by listening**. *Inverse* is [a separate reality](../inverse/README.md).
+A **subject-centered encyclopedia** for *The Wastes*: characters, antagonists, societies, places, objects and historical events. **Main-campaign spoilers through researched E119**; the separately published E107–E109 *Dunebreaker* story takes place **long before E001**. The written research is based on processed ASR, **not independently verified by listening**. *Inverse* is [a separate reality](../inverse/README.md).
 
 ## Browse the setting
 
@@ -16,7 +16,7 @@ A **subject-centered encyclopedia** for *The Wastes*: characters, antagonists, s
 
 ## Featured reference pages
 
-**People:** [Nash](characters/nash-maggard.md) · [Hope](characters/hope-akmenos.md) · [Stanley](characters/stanley-billings.md) · [Diontalus](characters/diontalus.md) · [Vorel](characters/vorel.md) · [Vorel's titles](characters/vorel-titles.md) · [the Principle](characters/the-principle.md) · [Soulbroker](characters/soulbroker.md) · [Nobieri](characters/nobieri.md) · [Steerious](characters/steerious-business.md) · [General Carthax](characters/general-carthax.md).
+**People:** [Nash](characters/nash-maggard.md) · [Hope](characters/hope-akmenos.md) · [Stanley](characters/stanley-billings.md) · [Diontalus](characters/diontalus.md) · [Dilo](characters/dilenoria.md) · [Vorel](characters/vorel.md) · [Vorel's titles](characters/vorel-titles.md) · [the Principle](characters/the-principle.md) · [Soulbroker](characters/soulbroker.md) · [Nobieri](characters/nobieri.md) · [Steerious](characters/steerious-business.md) · [General Carthax](characters/general-carthax.md).
 
 **Places:** [Dusthill](places/dusthill.md) · [Slavetown](places/slavetown.md) · [Tietkalla](places/tietkalla.md) · [CHIDS](places/chids.md) · [Sigil](places/sigil.md) · [White Tower](places/white-tower.md) · [Elhandar](places/elhandar.md) · [Dunebreaker prequel](places/dunebreaker.md).
 

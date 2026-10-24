@@ -2,6 +2,10 @@
 
 > **First appearance:** [E082](../../episodes/E082.md), unnamed kobold at the Soggy Feather. **Identified and developed:** [E083](../../episodes/E083.md), [processed Parakeet SRT](../../sources/The%20Wastes%20S1E083.%20Trash%20Monkey%20and%20The%20Bird.parakeet.processed.srt). **Kristen's new character**, **not** a reincarnated Hope. This profile is **ASR-based, not audio-verified**; contains spoilers through E115; earlier sections retain their episode-era cutoffs.
 
+## September 2020 bonus — unused inspiration, no revised death
+
+In the [September public-release Q&A](../../episodes/BONUS-2020-09.md) **~00:06:35–00:07:19**, **Kristen says Squirts had unused inspiration and could have rerolled**, but she realized after the story had moved on and did not request a retroactive change. This is **retrospective player recollection**, not an actual reroll, guaranteed successful save or resurrection. **E111's disintegration remains the played outcome**; the alternate result and precise mechanical eligibility were not tested in this bonus. [Two-ASR comparison](../../reports/BONUS_2020_09_ASR_COMPARISON_2026-10-23.md), **ASR-provisional; no listening**.
+
 ## E115 — remains reported lost, memorial performed
 
 At **Elhandar**, **Vorel confesses he no longer has Squirts’s ashes**, suggesting they were lost to vacuum or his fiery sword in the boarding battle. **E111 explicitly used a Stanley-supplied vial**, whereas the E115 recollection describes ashes in his hand; **the custody discrepancy and precise loss mechanism remain unresolved**. Do not invent an observed spill, destroyed vial or magical absorption. **A memorial really takes place** with Vorel’s remembrance and Bok Bok’s grief/dynamite salute; no revival occurs. Saying she lives on in Chunks is **her child/legacy**, not literal ashes inside him.

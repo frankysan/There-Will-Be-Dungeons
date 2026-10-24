@@ -1,0 +1,85 @@
+{
+  "episode": "BONUS-2020-09",
+  "date": "2026-10-23",
+  "initial_head": "f0b4db7a5bf0a80652e4c0d55fab1bdb8adac2ae",
+  "audio_verified": false,
+  "new_asr_run": false,
+  "method": "Chronological SRT text without speaker decorations; lowercase; remove straight/curly apostrophes; non-Unicode-letter/non-digit characters to spaces; split. Exact unrestricted unit-cost ordered word Levenshtein, Parakeet to Qwen.",
+  "implementation": "experiments/asr_backfill_2026_10_23.py distance/tokens; checked against scalar DP on 1000 deterministic random pairs in both directions",
+  "inputs": {
+    "P": {
+      "path": "sources/Bonus 2020-09 - September 2020.parakeet.processed.srt",
+      "cues": 697,
+      "first_start_ms": 4240,
+      "last_end_ms": 2202690,
+      "normalized_tokens": 6481,
+      "bytes": 68696,
+      "sha256": "c305a2dd650e43a4f45a0d9d5fa9017fdd8797182b8a8918022279b00f304af8"
+    },
+    "Q": {
+      "path": "sources/Bonus 2020-09 - September 2020.qwen-q8.canary-ctc.nemotron.srt",
+      "cues": 1102,
+      "first_start_ms": 4240,
+      "last_end_ms": 2207920,
+      "normalized_tokens": 6721,
+      "bytes": 90968,
+      "sha256": "8767a265d407715e1a8bb708747f717d237ee552e3de1b72788985e40ee1f283"
+    }
+  },
+  "edits": 638,
+  "denominator": 6481,
+  "comparison_direction": "Parakeet to Qwen",
+  "disagreement_percent": 9.84415985187471,
+  "audio": {
+    "path": "local/Bonus 2020-09 - September 2020.mp3",
+    "bytes": 35738032,
+    "sha256": "865dad334e99c4facf0d5499ea2a818ed97c042259373c7809f84116790fc355",
+    "duration_seconds": 2205.278438,
+    "probe": "ffprobe format duration,size",
+    "retained_manifest_hash_and_size_match": true
+  },
+  "retained_manifest": {
+    "path": "local/bonus-identification-2026-10-22/rename-manifest.json",
+    "entry": {
+      "old": "010.bonus_twbd_Sept_2020.mp3",
+      "new": "Bonus 2020-09 - September 2020.mp3",
+      "sheet_row": 143,
+      "feed_title": "TWBD Bonus 9-15-2020",
+      "source_url": "https://shows.acast.com/there-will-be-dungeons/episodes/6501086309d52c00124340e6",
+      "correlations": [
+        0.97515,
+        0.98064
+      ],
+      "sha256": "865dad334e99c4facf0d5499ea2a818ed97c042259373c7809f84116790fc355",
+      "bytes": 35738032,
+      "sidecar": "010.bonus_twbd_Sept_2020.srt"
+    }
+  },
+  "trailing_qwen_cue": {
+    "cue": 1102,
+    "speaker": "Unknown",
+    "start_ms": 2204800,
+    "end_ms": 2207920,
+    "text": "Holy God.",
+    "audio_verified": false,
+    "end_beyond_local_audio_seconds": 2.641562
+  },
+  "next_sources": [
+    {
+      "path": "sources/The Wastes S1E119. Put Out The Fish Fire.parakeet.processed.srt",
+      "bytes": 262404
+    },
+    {
+      "path": "sources/The Wastes S1E119. Put Out The Fish Fire.qwen-q8.canary-ctc.nemotron.srt",
+      "bytes": 361373
+    },
+    {
+      "path": "sources/Bonus 2020-10 - October 2020.parakeet.processed.srt",
+      "bytes": 83833
+    },
+    {
+      "path": "sources/Bonus 2020-10 - October 2020.qwen-q8.canary-ctc.nemotron.srt",
+      "bytes": 106139
+    }
+  ]
+}

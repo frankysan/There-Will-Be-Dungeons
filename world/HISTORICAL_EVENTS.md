@@ -1,6 +1,6 @@
 # Historical events and turning points
 
-**The Wastes · spoilers through E118.** Start here for *what happened and when*; use [the full chronology](CHRONOLOGY.md) for every researched episode, [arc narratives](../narrative/README.md) for story-first reading and [episode dossiers](../episodes/E000.md) for evidence. Dates in the ancient setting are rarely established; do not substitute publication order for in-world order. All entries are currently ASR-provisional.
+**The Wastes · spoilers through E119.** Start here for *what happened and when*; use [the full chronology](CHRONOLOGY.md) for every researched episode, [arc narratives](../narrative/README.md) for story-first reading and [episode dossiers](../episodes/E000.md) for evidence. Dates in the ancient setting are rarely established; do not substitute publication order for in-world order. All entries are currently ASR-provisional.
 
 ## Ancient and retrospective history
 
