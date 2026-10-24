@@ -1,12 +1,16 @@
 # Nash Maggard — spellcasting phrases and rhymes
 
-**Character:** [Nash Maggard](nash-maggard.md), portrayed by **Scott**. **Continuity:** The Wastes. **Spoilers:** Selected Season 1 magic through **E111**, later evidence reviews **E114–E122** (including **E120's performed *Haste* rhyme**, and non-casting poems/retrospective memories), plus a marked section of later-season seeds. **Status:** Updated 2026-10-24; **ASR-provisional, not audio-verified or an exhaustive collection**. **Current backfill ceiling: S1E111.**
+**Character:** [Nash Maggard](nash-maggard.md), portrayed by **Scott**. **Continuity:** The Wastes. **Spoilers:** Selected Season 1 magic through **E111**, later evidence reviews **E114–E123** (including **E120's performed *Haste* rhyme**, and non-casting poems/retrospective memories), plus a marked section of later-season seeds. **Status:** Updated 2026-10-24; **ASR-provisional, not audio-verified or an exhaustive collection**. **Current backfill ceiling: S1E111.**
 
 Nash improvises strange phrases, rhymes and sometimes unfinished verses around his magic. This page collects the wording separately from his character history, following the provenance practice of [Vorel's title register](vorel-titles.md). In **E046 ~02:52:57–02:53:10**, Beau awards Nash inspiration for the effort he puts into his magical words ([Parakeet][046-p], cues 2797–2801; [Qwen][046-q], cues 4622–4629). That recognizes an existing habit; it does **not** establish E046 as its beginning.
 
 ## October 2020 bonus — no performed Nash incantation
 
 The [October 2020 bonus](../../episodes/BONUS-2020-10.md) describes Nash's **E120 mushroom decision**, child/family concerns and performance habits; **it does not contain a new in-character performed spell or a new source-supported Nash rhyme**. E120's performed ***Haste* wording** remains in **NSP-041** below. The bonus itself contributes **no new NSP number**; performer recollection and cast jokes are not spellcasting. [Dual-ASR report](../../reports/BONUS_2020_10_ASR_COMPARISON_2026-10-24.md).
+
+## E123 — trained baby arm and travel, no new Nash incantation located
+
+The opening **trained baby-arm feature** is a GM sheet/rules update, **not a spell performance or new limb**. Nash uses his extra hand to tap a wineglass and his existing floating garment while towed behind the **noble speeder**; the complete primary reading locates **no distinct new improvised Nash spellcasting words**. **No NSP identifier added.** Vorel's chocolate-melting **Flame Soul**, Stanley's waking ***Message*** prank and Nobieri's **Infernal finger-mending prayer** belong to other performers/characters. The separate final Omnom song is neither a Nash incantation nor played resurrection. [E123](../../episodes/E123.md) · [Comparison](../../reports/E123_ASR_COMPARISON_2026-10-24.md), full primary and selected secondary review, **no listening**. E122's GM-supplied failed-*Mage Hand* rhyme remains **NSP-042**.
 
 ## E122 — GM-supplied wording for an unsuccessful *Mage Hand*
 

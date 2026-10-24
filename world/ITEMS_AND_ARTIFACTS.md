@@ -1,6 +1,6 @@
 # Items, artifacts and extraordinary technology
 
-**The Wastes · spoilers through E122.** Object-specific reference index; distinguishes physical possession, demonstrated effects, item descriptions, possible origins and proposed use. The dossiers are **ASR-provisional**, and a late-game inventory is not automatically valid for an earlier episode. [Portal](README.md) · [World technology](WORLD.md) · [Review ledger](CONSISTENCY_LEDGER.md).
+**The Wastes · spoilers through E123.** Object-specific reference index; distinguishes physical possession, demonstrated effects, item descriptions, possible origins and proposed use. The dossiers are **ASR-provisional**, and a late-game inventory is not automatically valid for an earlier episode. [Portal](README.md) · [World technology](WORLD.md) · [Review ledger](CONSISTENCY_LEDGER.md).
 
 ## Story-defining objects
 
@@ -16,6 +16,8 @@
 | **Mask of Elton IV (?)** | Obtained by Stanley E118 with untested *Peer into Plurality* description and costly four-rest attunement | [Mask](technology/mask-of-elton-iv.md) |
 
 ## Other significant possessions
+
+**[Noble speeder](technology/noble-speeder.md)** — wooden repulsor vehicle borrowed from the Gatherers' Lodge E123; Hope pilots the four to the Harbor, **Nash towed**. Fuel/range/ownership unverified. Proposed sealing device **Ruby** remains unbuilt; [two hearts](technology/nash-dragon-heart.md).
 
 | Item | Follow-up location |
 | --- | --- |

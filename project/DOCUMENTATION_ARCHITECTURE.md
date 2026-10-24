@@ -32,7 +32,7 @@ Our goal is **one clear reader-facing account per purpose**, with linked evidenc
 
 - **Immediate reader entry points**: repository [README](../README.md), [narrative index](../narrative/README.md), [Arc One](../narrative/ARC_ONE.md) and [Arc Two](../narrative/ARC_TWO.md), [world index](../world/README.md).
 - **Episode-specific research entry point**: `episodes/E###.md`, with `episodes/BONUS-2019-03.md` under its own namespace. Keep time-code tables and doubts here even if a world fact is later resolved.
-- **World reference status**: `world/README.md` now exposes seven reader-oriented categories; `CHARACTERS.md`, `PLACES.md` and `WORLD.md` are concise indexes/thematic overviews, linking to detailed profiles in `world/characters/`, `world/places/` and `world/technology/`. Antagonists, artifacts, factions and historical events have their own topical indexes; `CHRONOLOGY.md` retains the **single episode-ordered E000–E122 timeline**. The longer E118-era working versions of the three rewritten files are frozen in [the 2026-10-22 research archive](../research/legacy/2026-10-22/README.md), with links rebased. Earlier compendia remain in `research/legacy/2026-10-21/`; the E081-era history, chronology, ledger and review-queue archival snapshots are also retained. Nothing here implies audio verification.
+- **World reference status**: `world/README.md` now exposes seven reader-oriented categories; `CHARACTERS.md`, `PLACES.md` and `WORLD.md` are concise indexes/thematic overviews, linking to detailed profiles in `world/characters/`, `world/places/` and `world/technology/`. Antagonists, artifacts, factions and historical events have their own topical indexes; `CHRONOLOGY.md` retains the **single episode-ordered E000–E123 timeline**. The longer E118-era working versions of the three rewritten files are frozen in [the 2026-10-22 research archive](../research/legacy/2026-10-22/README.md), with links rebased. Earlier compendia remain in `research/legacy/2026-10-21/`; the E081-era history, chronology, ledger and review-queue archival snapshots are also retained. Nothing here implies audio verification.
 - **Historical long-form README inventories** are copied into `research/legacy/2026-10-21/` before replacing their index pages. They are historical research snapshots; the new indexes and arc narrative are the preferred reading experience. Git history retains every original text revision.
 - `world/entities.json` is **not** a synchronized canon catalog for every researched character yet; do not fill in aliases or biographies automatically from narrative synthesis.
 
@@ -60,14 +60,14 @@ world/
   HISTORICAL_EVENTS.md            Major events and historical studies
   FACTIONS_AND_POWERS.md          Organizations and contested powers
   WORLD.md                        Thematic world systems; no episode recaps
-  CHRONOLOGY.md                   Detailed E000–E122 time-of-knowledge timeline
+  CHRONOLOGY.md                   Detailed E000–E123 time-of-knowledge timeline
   CONSISTENCY_LEDGER.md           Open disputes and source-cutoff resolutions
   characters/                     One primary biography per substantial person
   places/                         One primary page per substantial location
   technology/                     Artifact and device studies
   HISTORY_*.md                    Focused event and ancient-history studies
 episodes/
-  E000.md ... E122.md             Source-first dossiers (with exceptions)
+  E000.md ... E123.md             Source-first dossiers (with exceptions)
   BONUS-*.md                      Cast commentary, never played episodes
 project/
   WORLD_REFERENCE_PAGE_TEMPLATE.md Editorial contract for all world pages

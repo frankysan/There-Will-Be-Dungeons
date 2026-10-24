@@ -11,3 +11,7 @@ The father writes of an apparent anomalous **N4SH (?)** and speculates about the
 **October 2020 bonus — origin outside the fiction:** Beau explains that he originally wrote a speculative note **about branching time for his own curiosity, apart from the campaign**, and later adapted it into an entry in **Stanley's father's Book of Adjacencies**. The model that proliferating alternatives resemble **“time barf”** is an intentional **authorial theme**, not verified cosmology, correct physics, or proof that every claim in Dalit's journal is true. [Bonus dossier](../../episodes/BONUS-2020-10.md) · [comparison](../../reports/BONUS_2020_10_ASR_COMPARISON_2026-10-24.md).
 
 **Open:** the father's correct personal spelling, dating and provenance of entries, identity of N4SH, and whether any theory survives later direct observation. [Ledger](../CONSISTENCY_LEDGER.md).
+
+## E123 — shared journal concerns, not new verified pages
+
+Stanley tells the group about his father's **future-Nash visitor and possible Nash/Principle links**, but **Nash=Principle remains Vorel's speculation**. The GM's dashboard includes an unclear father-related **Prime** phrase. In a later private conversation Stanley questions his father's foresight and physically examines **his dictionary's wear**; he does **not read a new journal page or prove the dictionary's temporal owner**. Hope's offered blood-cost search for his father is unperformed. [E123](../../episodes/E123.md).

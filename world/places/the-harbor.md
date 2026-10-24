@@ -18,4 +18,10 @@ With the meeting finished, **Nobieri asks Hope to give a name to the community a
 
 Hope and the original protagonists are **physically reunited at Elhandar**, but **Stanley still mistrusts her and the demon Hand has not been surrendered**. **Nobieri and Emenil** remain alive at the Harbor. After the meeting, **Emenil privately confesses love to Stanley**, receives no romantic commitment, and destroys the Malhaya altar in her own cottage according to the GM's Perception adjudication. **No significant construction, new military alliance, planet-wide water project or departure from Elhandar is completed**. **Vorel later smells lizardfolk near the main cottage but the intended search is deferred**.
 
-**Related:** [Elhandar](elhandar.md) · [Tietkalla](tietkalla.md) · [Hope](../characters/hope-akmenos.md) · Nobieri (profile filename not verified) · [Emenil](../characters/emenil.md) · [E117 dossier](../../episodes/E117.md).
+**Related:** [Elhandar](elhandar.md) · [Tietkalla](tietkalla.md) · [Hope](../characters/hope-akmenos.md) · [Nobieri](../characters/nobieri.md) · [Emenil](../characters/emenil.md) · [E117 dossier](../../episodes/E117.md).
+
+## E123 — actual return and decision to retain the refuge
+
+All four **arrive by noble speeder**, Hope piloting and Nash towed in a harness. **Hope delivers the mushroom samples to Nobieri**, who later releases Nash's knots and mends Hope's broken finger without HP. Hope supplies cave directions and permission for a **limited inquiry**, whose departure/outcome is not played.
+
+In Emenil's house Stanley warns about **Diontalus** and possible threats to the community. Emenil objects to abandoning Elhandar's hosts; **Stanley/Hope agree the tieflings should keep their home**, superseding earlier broad evacuation plans. **No evacuation, new attack, possession reveal or family relocation occurs**. They intend to warn the elven leader and draw danger away; a direct briefing has not happened. **Emenil enters the nearby lake for Fishbird communion and Stanley follows/disrobes**, but the episode ends before divine guidance or a cure. [E123](../../episodes/E123.md) · [Speeder](../technology/noble-speeder.md).

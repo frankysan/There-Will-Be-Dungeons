@@ -1,6 +1,12 @@
 # Elhandar — elven space station and forest biodome
 
-**Spelling:** Elhandar is the established archive working form; E115 ASR also gives **Elhendar / Elendar / Elhanda**. **Continuity:** The Wastes, main-party Arc Five. **First researched physical arrival:** [E115](../../episodes/E115.md), ~00:30–00:39, following E111's rescue and E114's interrupted voyage. Earlier references do not constitute earlier visits. **Spoilers:** Through E122; **ASR-provisional, not audio-verified**.
+**Spelling:** Elhandar is the established archive working form; E115 ASR also gives **Elhendar / Elendar / Elhanda**. **Continuity:** The Wastes, main-party Arc Five. **First researched physical arrival:** [E115](../../episodes/E115.md), ~00:30–00:39, following E111's rescue and E114's interrupted voyage. Earlier references do not constitute earlier visits. **Spoilers:** Through E123; **ASR-provisional, not audio-verified**.
+
+## E123 — lodge rest and the Harbor lake
+
+The lodge custodian **reports verifying Chester's kill** and tentatively identifies the dead elves as **Cadulet/Cadgulet Council of Mages (?)**. He says he sends an ethereal pigeon to the High Elf; **delivery/reply unobserved**. His account of wildlife, shapeshifting and return to Feywild soil is **testimony**, not proof Vorel killed elves in animal form or that all council mages are compromised. Names **Tomsilar Bear / Tom Silar Bear / Tom Salarbear** and **Elenueva / Ellen Nueva / Aluneva** remain ASR-provisional.
+
+The four dine, inspect the lodge's surveillance and **complete a long rest without attack**, but Stanley/Vorel's ability losses remain. Hope tests a **noble speeder**, then pilots all four to **the Harbor**, where mushrooms are delivered and **refugees are to stay**. The personal warning to Elhandar's leader, teleportation sigil, family move and heart recovery remain **unperformed**. Emenil begins a lake communion with Stanley following; **no divine response, cure or romantic commitment** by the E123 cutoff. [E123](../../episodes/E123.md) · [Speeder](../technology/noble-speeder.md) · [Harbor](the-harbor.md).
 
 ## E122 — freed Hope, hidden heart and Gatherers' Lodge
 

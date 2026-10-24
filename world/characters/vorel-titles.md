@@ -1,10 +1,17 @@
 # Vorel — titles and epithets register
 
-**Type:** Source-indexed supporting register for [Vorel](vorel.md), deliberately separated from the main character biography. **Evidence:** ASR-provisional, with source windows, name variants and social standing preserved. **Spoilers:** Through E122; Q&As are retrospective, not played conferrals. [Characters](../CHARACTERS.md) · [World portal](../README.md).
+**Type:** Source-indexed supporting register for [Vorel](vorel.md), deliberately separated from the main character biography. **Evidence:** ASR-provisional, with source windows, name variants and social standing preserved. **Spoilers:** Through E123; Q&As are retrospective, not played conferrals. [Characters](../CHARACTERS.md) · [World portal](../README.md).
 
 ## October 2020 bonus — Vorel's title-list method, no new conferral
 
 In the [October 2020 cast Q&A](../../episodes/BONUS-2020-10.md) (~07:15–08:10; ~10:20–11:30), Kyle says he **deliberately stopped noting details Vorel would ignore**, but retains a **personal tally of deeds and epithets as character-minded memory**. **This is evidence of the performer's record-keeping**, not a new title, in-world written manuscript, retroactively awarded office or earlier first-use timestamp. Kyle's later **paladin counterfactual** does not add an epithet. [Comparison](../../reports/BONUS_2020_10_ASR_COMPARISON_2026-10-24.md). No original audio listened to.
+
+## E123 — king of space / king of the sun, aspirations and companion jokes
+
+- **~01:09:46–01:10:19 — “I could be king of space.”** Kyle/Vorel imagines a spaceship army while planning protection of the refugees. **Aspiration**, not a completed conquest or formal introduction. [Parakeet](../../sources/The%20Wastes%20S1E123.%20No%20Floating%20Forks.parakeet.processed.srt), cues **1073–1079**; [Qwen](../../sources/The%20Wastes%20S1E123.%20No%20Floating%20Forks.qwen-q8.canary-ctc.nemotron.srt), cues **1718–1727**.
+- **~01:16:39–01:17:30 — “king of the sun.”** Vorel narrows the joking ambition; Scott/Nash replies **“you are the king of yours”** and **“the sun's king.”** Preserve these **self-proposed and companion-used variants**, not a granted office. His wish to turn flames into solar/radiant strikes is **unperformed**. [Parakeet](../../sources/The%20Wastes%20S1E123.%20No%20Floating%20Forks.parakeet.processed.srt), cues **1169–1180**; [Qwen](../../sources/The%20Wastes%20S1E123.%20No%20Floating%20Forks.qwen-q8.canary-ctc.nemotron.srt), cues **1861–1875**.
+
+**Earliest located here: corrected S1E123**, no backdating. Contextual performer/character attribution is **ASR-provisional, not listened to**. The GM dashboard's **Great Fang** is a repeat; the custodian's hunter praise and final listener Omnom song are **not new formal conferrals**. [Dossier](../../episodes/E123.md) · [Comparison](../../reports/E123_ASR_COMPARISON_2026-10-24.md).
 
 ## E122 — no new title located in the primary review
 

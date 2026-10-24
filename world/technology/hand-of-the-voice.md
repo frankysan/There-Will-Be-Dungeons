@@ -9,3 +9,9 @@ In the White Tower crisis E101, Hope **cuts away her own hand** and fuses the se
 The hooded Voice continues privately pressing Hope toward an **Eye of the Voice** lead. In E118 the Hand hurts and the Voice demands a trip to **Pentelvice (?)**, but the Eye is **not obtained**, nor is the Hand removed. The Voice's alleged motives and nature are not independently certified; the hand's influence should be distinguished from deliberate acts that Hope herself performs. [E113](../../episodes/E113.md) · [E118](../../episodes/E118.md).
 
 **Open:** final origin, full powers/costs, whether the patron's interpretations are truthful, future Eye possession, and final disposition. [Ledger](../CONSISTENCY_LEDGER.md).
+
+## E123 — private dependency statement and an unperformed ring proposal
+
+In a conversation **with Stanley, away from Nash/Vorel**, Hope says the Hand brings a **dead/forgotten god** who speaks and may withhold its powers, and **she believes removing it would kill her**. Neither removal, fatal consequence nor patron eavesdropping is tested. Stanley **apologizes and welcomes her back** while warning against corrupt promises of good intentions; he does not certify the artifact safe.
+
+Hope separately describes a **travel ring** as a possible blood-cost cross-plane route to Stanley's father. **No ring use, blood expenditure or father summoning happens**. Her retrospective account does not replace E116's observed Gate/calling sequence. The Hand **stays attached**, the Eye remains unrecovered and no new patron deed is completed. [E123](../../episodes/E123.md) · [Hope](../characters/hope-akmenos.md).
