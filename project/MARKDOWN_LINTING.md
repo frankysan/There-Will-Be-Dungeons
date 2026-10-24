@@ -28,7 +28,7 @@ The [GitHub Actions workflow](../.github/workflows/markdownlint.yml) runs **both
 
 ## Scope and rule policy
 
-The runner uses **Node's native file-system APIs**, not glob libraries, to find `README.md` and maintained documentation recursively within `episodes/`, `narrative/`, `world/`, `project/`, and `reports/`. **Frozen `research/legacy/` snapshots and generated `transcripts/` files are excluded**, as are source SRTs.
+The runner uses **Node's native file-system APIs**, not glob libraries, to find `README.md` and maintained documentation recursively within `delvers/`, `episodes/`, `narrative/`, `world/`, `project/`, and `reports/`. Delvers coverage includes its preparation documents and future nested episode, world and narrative pages. **Frozen `research/legacy/` snapshots and generated `transcripts/` files are excluded**, as are source SRTs.
 
 The [`.markdownlint.json`](../.markdownlint.json) configuration enables a structural baseline:
 

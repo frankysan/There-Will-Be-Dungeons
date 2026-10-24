@@ -38,6 +38,14 @@ Our goal is **one clear reader-facing account per purpose**, with linked evidenc
 
 ## Current structure and expansion pattern
 
+### Independent campaigns
+
+The top-level `episodes/E###.md`, `world/` and `narrative/` conventions describe **The Wastes**. [Inverse](../inverse/README.md) and [Delvers](../delvers/README.md) are independent campaigns in their own realities; shared standards do not imply shared continuity.
+
+**Delvers preparation, 2026-10-24:** its [documentation plan](../delvers/DOCUMENTATION_PLAN.md) applies the same four layers within `delvers/`: season-qualified episode dossiers, a subject-centered world reference with chronology and consistency ledger, story-first narrative arcs, and campaign-specific review controls. Its [source inventory](../delvers/SOURCE_INVENTORY.md) covers 37 available entries across seasons 1–3, including S2E00; **none is marked researched by preparation**. Create world/narrative pages as played evidence supports them, rather than populating them from titles or handouts. Campaign-qualified comparison reports remain in shared `reports/`; the [Delvers queue](../delvers/REVIEW_QUEUE.md) owns its next episode without changing the Wastes pointer. Retain separate spoiler horizons, identities and source provenance throughout.
+
+### Existing Wastes layout
+
 ```text
 README.md                         Project navigation and research horizon
 narrative/
