@@ -2,6 +2,10 @@
 
 **Type:** Source-indexed supporting register for [Vorel](vorel.md), deliberately separated from the main character biography. **Evidence:** ASR-provisional, with source windows, name variants and social standing preserved. **Spoilers:** Through E120; Q&As are retrospective, not played conferrals. [Characters](../CHARACTERS.md) · [World portal](../README.md).
 
+## October 2020 bonus — Vorel's title-list method, no new conferral
+
+In the [October 2020 cast Q&A](../../episodes/BONUS-2020-10.md) (~07:15–08:10; ~10:20–11:30), Kyle says he **deliberately stopped noting details Vorel would ignore**, but retains a **personal tally of deeds and epithets as character-minded memory**. **This is evidence of the performer's record-keeping**, not a new title, in-world written manuscript, retroactively awarded office or earlier first-use timestamp. Kyle's later **paladin counterfactual** does not add an epithet. [Comparison](../../reports/BONUS_2020_10_ASR_COMPARISON_2026-10-24.md). No original audio listened to.
+
 ## E120 — Omnom's renewed recognition of Great Fang
 
 At **~01:00–01:03**, **Omnom**, seeing Vorel's role in **Chester's actual death** and his companions' powerful teamwork, **explicitly reaffirms Vorel as “the Great Fang”** and says any question that Omnom himself might deserve the title has been settled in Vorel's favor. **This is a substantive change in Omnom's stated recognition/loyalty, not a newly coined title, second coronation, or a rank bestowed by Elhandar.** The earlier title remains in the existing register; there is **no new distinct self-awarded title wording** in E120. [E120](../../episodes/E120.md) · [full two-ASR report](../../reports/E120_ASR_COMPARISON_2026-10-24.md), **text-only, not listened**.
