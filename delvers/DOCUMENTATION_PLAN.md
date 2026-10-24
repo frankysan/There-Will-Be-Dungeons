@@ -2,6 +2,8 @@
 
 **Prepared 2026-10-24.** Delvers seasons 1–3 will use the same four editorial layers as Wastes, with independent continuity and a declared spoiler horizon on every reference or narrative page. This plan allocates future paths; it does not claim the uncreated pages below already exist.
 
+**First implementation, 2026-10-24:** [S1E01](episodes/S1E01.md) now has complete dual-ASR research and a [comparison report](../reports/DELVERS_S1E01_ASR_COMPARISON_2026-10-24.md). The [world portal](world/README.md), three PC profiles, guild/cave/globe references, chronology/ledger and [first-job narrative](narrative/FIRST_JOBS.md) contain premiere-supported material. This completes the first text-research slice, not audio verification; MP3/SRT clock alignment and name questions remain open. Other proposed categories remain deferred. Next verified episode: **S1E02 — Agreeable Meatball**.
+
 ## Campaign layers and locations
 
 | Layer | Location | Purpose and creation point |
@@ -17,7 +19,7 @@
 | Editorial controls | `delvers/REVIEW_QUEUE.md`; future `delvers/DECISIONS.md` | Open source/listening tasks now; add a decision register when Delvers-specific spelling or identity resolutions exist |
 | Shared standards and experiment history | `project/` | Reuse workflow, numbering, editorial guide, page contract and model log; qualify every Delvers entry by campaign and season |
 
-All Delvers world paths in this table are relative to `delvers/world/` where abbreviated. **World and narrative directories are deferred until there is researched content to put in them.** They are not empty templates to be filled from episode titles or another campaign.
+All Delvers world paths in this table are relative to `delvers/world/` where abbreviated. **World and narrative pages are created only when there is researched content to put in them.** They are not empty templates to be filled from episode titles or another campaign; the S1E01 additions above meet that condition.
 
 ## First episode and subsequent passes
 
