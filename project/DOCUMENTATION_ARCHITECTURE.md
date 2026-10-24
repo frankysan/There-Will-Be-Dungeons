@@ -124,3 +124,7 @@ The [third-arc consolidation report](../reports/THIRD_ARC_CONSOLIDATION_2026-10-
 Before replacing any major source-linked working document: **save a frozen copy under `research/legacy/`**, verify new counterpart contains appropriate cross-references, check all relative links (and inbound anchors where practical), and report which portions remain unverified or unmigrated. Do not delete episode dossiers, overwrite raw SRTs, retroactively change the cast's words, or make narrative pages responsible for live continuity bookkeeping.
 
 **Validation:** For document-only changes, validate Markdown structure, relative links and index consistency; run any applicable documentation tests available. If later work modifies **local code or generated files**, run the required relevant test suites before claiming completion.
+
+## Delvers style alignment (2026-10-24)
+
+The owner extends the revised `/world` and `/narrative` direction to the corresponding Delvers layers. Follow [the binding style extension](WORLD_NARRATIVE_STYLE.md#delvers-world-and-narrative): subject-focused reference articles, plot-led narratives, in-universe main prose, complete source footnotes, introduction-time viewpoint and latest subject status last. Keep functional indexes, chronology and ledgers source-keyed. The [bounded migration report](../reports/DELVERS_STYLE_EXTENSION_2026-10-24.md) covers existing articles through Delvers S1E02; it adds no campaign linkage or new source verification.

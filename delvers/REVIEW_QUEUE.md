@@ -1,21 +1,22 @@
 # Delvers — source, listening and editorial review queue
 
-**Status: researched through S1E01, ASR-provisional, 2026-10-24.** This queue belongs to Delvers, a separate reality from Wastes and Inverse. The [Wastes queue](../project/REVIEW_QUEUE.md) retains its own research pointer. Delvers progress does not advance Wastes continuity. **No Delvers audio has been listened to.**
+**Status: researched through S1E02, ASR-provisional, 2026-10-24.** This queue belongs to Delvers, a separate reality from Wastes and Inverse. The [Wastes queue](../project/REVIEW_QUEUE.md) retains its own research pointer. Delvers progress does not advance Wastes continuity. **No Delvers audio has been listened to.**
 
 ## Next bounded Delvers research
 
-**Next: Delvers S1E02 — Agreeable Meatball.** Exact nonempty sources and matching local MP3 were verified 2026-10-24; their contents have not been researched in this pass.
+**Next: Delvers S1E03 — Raw End Of Joke Stick.** Both SRT exports and matching local MP3 are inventoried. S1E02 was researched through the final outro from Parakeet, with complete Qwen metric and targeted cross-checks; no audio was heard.
 
-- [Parakeet processed source](../sources/Delvers%20S1E02.%20Agreeable%20Meatball.parakeet.processed.srt)
-- [Qwen pipeline source](../sources/Delvers%20S1E02.%20Agreeable%20Meatball.qwen-q8.canary-ctc.nemotron.srt)
-- Matching nonempty local recording: `local/Delvers S1E02. Agreeable Meatball.mp3`.
+- [Parakeet processed source](../sources/Delvers%20S1E03.%20Raw%20End%20Of%20Joke%20Stick.parakeet.processed.srt)
+- [Qwen pipeline source](../sources/Delvers%20S1E03.%20Raw%20End%20Of%20Joke%20Stick.qwen-q8.canary-ctc.nemotron.srt)
+- Matching nonempty local recording: `local/Delvers S1E03. Raw End Of Joke Stick.mp3`.
 
-Read both S1E02 exports through the outro before advancing again. S1E01 ends with the completed farm seal and reward, Koh retaining the checked drift globe, and a crypt mission assigned for tomorrow. Evelyn and Krandal accept guild rooms; Koh intends home. Do not assume completed overnight rest, reunion or crypt entry. Follow the [documentation plan](DOCUMENTATION_PLAN.md) and [episode-analysis skill](../.agents/skills/twbd-episode-analysis/SKILL.md).
+Review S1E03 as the next bounded Delvers source. **S1E02 cutoff:** the crypt's three basins and central fountain are cleansed, Studwell is defeated, Meatball and Sultan survive, both borrowed giant-strength potions are consumed, Koh retrieved Sultan's enchanted sash, and **300 gold total** was paid. No next job is selected or new rest shown. See [S1E02 dossier](episodes/S1E02.md) and [comparison](../reports/DELVERS_S1E02_ASR_COMPARISON_2026-10-24.md). Follow the [documentation plan](DOCUMENTATION_PLAN.md) and [episode-analysis skill](../.agents/skills/twbd-episode-analysis/SKILL.md).
 
 ## Completed bounded text research
 
 | Episode | Coverage and products | Limits |
 | --- | --- | --- |
+| **Delvers S1E02 — Agreeable Meatball** | [Dossier](episodes/S1E02.md), [comparison](../reports/DELVERS_S1E02_ASR_COMPARISON_2026-10-24.md); full P through outro and Q full-token comparison plus targeted cross-reading. **1,803 / 22,273 = 8.10% disagreement** | ASR-provisional; no audio verification, MP3 alignment unverified; sash ownership, names and spellings queued |
 | **Delvers S1E01 — How Much Is Potato** | [Dossier](episodes/S1E01.md), [comparison](../reports/DELVERS_S1E01_ASR_COMPARISON_2026-10-24.md), [world](world/README.md), [narrative](narrative/FIRST_JOBS.md); both full SRTs through ~02:30:31. **1,692 / 21,024 = 8.05% ordered word-token disagreement** | ASR-provisional; no audio verification. Local MP3 ~19.94 seconds shorter than P final cue; no seek offset assumed |
 
 ## Open preparation and intake checks

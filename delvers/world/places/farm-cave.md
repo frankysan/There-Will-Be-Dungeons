@@ -1,17 +1,25 @@
 # Farm cave — first sealed passage
 
-**Type:** Natural cave beside the sheep field at `Mickles/Mikkels` farm, east of the starting city. **Spoilers:** Delvers S1E01. **Evidence:** ASR-provisional; farmer spelling open.
-
 ## Overview
 
-The party reaches the farm around **12:30 story time**, after passing Squelcher's Swamp. Four drained sheep lie beside a roughly ten-foot-square entrance beneath an uplifted slab. The descending cave contains puddles, stalactites and stalagmites, followed by a dead-end chamber with a **three-by-five-foot fissure** into a lower passage about fifteen feet below.
+East of the guild's city, beyond Squelcher's Swamp, a sheep field lies beside a natural cave beneath an uplifted slab. Four drained sheep mark the danger at its roughly ten-foot-square entrance. Puddles and hanging stone formations lead down to a final chamber, where a narrow fissure opens into a lower tunnel.[^introduction]
 
-The stirge infestation is real in play, while the initial Underdark-origin explanation comes from Cassius's briefing. The party defeats six stirges outside, a piercer and a darkmantle inside. The darkmantle's discharged magical darkness persists after its death; the text does not establish when it finally disperses.
+Stirges infest the entrance, while a piercer and darkmantle hide among the apparent rocks within. Cassius believes the trouble comes from an opening into the Underdark. Exploration reveals the lower passage, but little of the wider world beneath it.[^inhabitants]
 
 ## Seal and recovered evidence
 
-In [S1E01 ~02:06–02:22](../../episodes/S1E01.md), Koh descends on a rope held by Krandal and recovers a glass orb and wooden badge from a mostly skeletal dragonborn. He alone sees a serpentine creature advancing as he climbs out. Evelyn wedges a dislodged rock into the fissure on her second attempt; Krandal adds concrete and its emptied sack, keeping the water container. The plug jolts under impacts but holds; a hiss recedes and a stirge part is trapped as the concrete dries.
+The fissure contains traces of an earlier delver. [Koh](../characters/koh-spiros.md) descends on a rope held by [Krandal](../characters/krandal-splenderbelt.md), retrieving a badge and [glass globe](../items/drift-globe.md) beside a mostly skeletal dragonborn. During his climb back, he alone sees a serpentine creature approaching below.
 
-The GM declares the hole sealed, and the [guild](delvers-guild.md) later accepts completion. **This closes one route**, not the entire Underdark. The pursuer remains alive/unfought; Cassius later calls Koh's description a grick. The skeleton remains below, with no cause/date of death established. Cassius identifies badge 542 with a different prior mission; linking these remains to Edgar is unsupported.
+[Evelyn](../characters/evelyn-grinkeeper.md) wedges a fallen rock into the opening, and Krandal reinforces it with concrete and its emptied sack. Impacts shift the plug slightly, but it holds; a hiss recedes, and part of a stirge becomes caught in the setting surface. The [guild](delvers-guild.md) accepts the passage's sealing as completion of the job.[^seal]
 
-[S1E01 dossier](../../episodes/S1E01.md) · [Recovered globe](../items/drift-globe.md) · [Consistency ledger](../CONSISTENCY_LEDGER.md) · [Review queue](../../REVIEW_QUEUE.md)
+## Current status
+
+The fissure is sealed at the party's departure. The creature below has not been fought, and the skeleton remains in the lower passage. Its badge is returned to the guild; Cassius identifies a missing owner with a different Underdark mission, leaving the circumstances of the death unknown.[^status]
+
+[^introduction]: [S1E01 dossier](../../episodes/S1E01.md), ~01:01–01:05 and ~02:06 onward. Farmer rendered `Mickles/Mikkels`, spelling unresolved. Arrival around 12:30 in-world; fissure about three by five feet, lower passage about fifteen feet below. This page's last direct observation remains S1E01 within campaign research through S1E02; not audio-verified. [Consistency ledger](../CONSISTENCY_LEDGER.md) · [Review queue](../../REVIEW_QUEUE.md).
+
+[^inhabitants]: [S1E01](../../episodes/S1E01.md), ~01:05–02:05. Six stirges outside; darkmantle darkness persists after its death, with no final dispersal time established. Cassius's origin explanation is attributed testimony.
+
+[^seal]: [S1E01](../../episodes/S1E01.md), ~02:06–02:22. Second rock-placement attempt succeeds; Krandal retains the water container. GM declares the hole sealed. This closes one route, not the entire Underdark.
+
+[^status]: [S1E01](../../episodes/S1E01.md), ~02:22–02:28. Badge 542; Cassius calls Koh's described pursuer a grick. Neither cause/date of death nor identity with the missing Edgar is established. [Preserved draft](../../../research/legacy/2026-10-24/delvers-pre-style/delvers/world/places/farm-cave.md).
