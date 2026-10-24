@@ -213,6 +213,28 @@
 
 **Pending follow-up choices:** Nash needs its D-038 character-focused arc balance review. [Elhandar](../world/places/elhandar.md) has completed D-037 presentation but may need a **D-039 place-centered balance review**, emphasizing lived qualities of the station and its transformation rather than the party's full mountain expedition. [Mask of Eltanfawr](../world/technology/mask-of-eltanfawr.md) has a structural pilot and still needs its D-037 in-universe presentation pass; apply D-039 artifact focus in that same bounded task, emphasizing the mask's nature, custody, abilities and incomplete attunement rather than Stanley's surrounding travels. Other domains should follow the [Phase 3–4 cleanup plan](WORLD_ARC_CLEANUP_PLAN.md) with one large subject page per pass, verified working-copy snapshots and actual checks when available. No source transcripts or world canonical articles were modified for this policy checkpoint.
 
+## D-038 Nash character-focused rebalancing — 2026-10-24
+
+**Status: completed for [Nash Maggard](../world/characters/nash-maggard.md) only.** This is the implementation of D-038 after the prior D-037 in-universe presentation pass, not a new transcript review. At the beginning, `main` was clean at `e908edb7b1b05207e6de2c281af72fb0f0415f8e`. No other `/world` subject entries or source documents were edited.
+
+- **Exact pre-edit working-copy preservation:** [Nash before character-focused rebalance](../research/legacy/NASH_MAGGARD_PRE_CHARACTER_FOCUS_2026-10-24.md). The 23,998-byte current biography was saved **before** the edit with all **111 relative Markdown link occurrences** correctly rebased; the archive was read back through the binary workspace interface, **byte-identical** to the expected rebased content (SHA-256 `6abaa0c03bd0076bdcac20acf54a3d3778f28627d6d5260aba488d1faca34902`). The earlier second-pass archive remains untouched.
+- **Editorial changes:** Nash's biography now emphasizes a **solitary survivor developing loyalties**, P0D's loss and his attachment to Angelashi, anticipation of fatherhood, willingness to share the CHIDS beam, changing body and continuity of identity, the responsibilities and tenderness of family life, uncertain dragon-heart origins, and his conflicting **protective and lethal choices** (including the killing of surrendered Henatar). Retold travel, incidental battles and magic-by-magic sequences were substantially reduced; no additional psychological facts were invented.
+- **Arc-length checkpoint (approximate main-prose words, excluding headings, link syntax and footnote references):**
+  
+  | Arc | Before | After |
+  | --- | ---: | ---: |
+  | One | 80 | **143** |
+  | Two | 133 | **171** |
+  | Three | 248 | **203** |
+  | Four | 180 | **172** |
+  | Five | 1,052 | **328** |
+
+  Substantive-arc median after the revision: **172 words**; longest arc is **1.91×** the median (was ~5.8×). Arc Five remains longest for good reason: reunion with Angelashi, four children, Hope's return, revelation concerning Nash's manufactured nature, lethal choice at the station wreck and the painful Mars separation. No equal-length padding was used.
+- **Source integrity:** All **77 original distinct Markdown link destinations** from the working copy were retained. The **26 named Markdown footnotes and their definitions were left unchanged**; there are **26 corresponding main-prose markers, no missing or orphan definitions**. The introduction still represents the first encounter, all five arcs remain sequential, and **Current status** is the last substantive heading. Main prose has **no E### identifiers, ASR/GM/player terminology or uncertain-spelling markers**. Final binary readback verified the revised document (SHA-256 `e2ea2f33640dddb990aea6df4bccfed317caa5781450211f05fe58e8454cb880`, 19,857 bytes).
+- **Checks not performed:** No full repository-wide link/fragment crawl, Markdownlint, source tests or original-audio listening was available through the connected workspace. These are **not claimed as passing**. No commit or push was performed. Other profiles, including Elhandar and Eltanfawr, remain for their own subject-focused review.
+
+**Next:** Resume the existing one-page-at-a-time world plan. Eltanfawr's in-universe artifact-focused second pass is still pending; Elhandar may later receive a separate place-focused proportionality review. Major-character passes (Hope, Stanley, Vorel, Diontalus) should follow this character study approach and each require their own preservation and citation checks.
+
 
 
 
