@@ -235,6 +235,29 @@
 
 **Next:** Resume the existing one-page-at-a-time world plan. Eltanfawr's in-universe artifact-focused second pass is still pending; Elhandar may later receive a separate place-focused proportionality review. Major-character passes (Hope, Stanley, Vorel, Diontalus) should follow this character study approach and each require their own preservation and citation checks.
 
+## D-039 Elhandar place-focused rebalance — 2026-10-24
+
+**Status: completed for [Elhandar](../world/places/elhandar.md) only.** This is a focused editorial revision following its D-037 in-universe presentation pass, not a new analysis of the underlying recordings. `main` was **clean at HEAD `f38da3cc4004306f33cb06cfa38063a9efe0585b`** before the pass. Existing canonical subject identities were unchanged.
+
+- **Pre-edit preservation:** [Elhandar before place-focused rebalance](../research/legacy/ELHANDAR_PRE_PLACE_FOCUS_2026-10-24.md) is an exact copy of the current working page, apart from necessary rebasing of all **60 relative Markdown link occurrences** (source SHA-256 `bb95756ae7380ac203ac291541b0e93b5757e29a1547bc9f8ff1250ee277be3a`, 22,803 bytes; archive SHA-256 `aa7349536bcd766eb093baa3c2c702441e0bd693c81329a8f8493f17a8792bcf`). A binary readback **verified every rebased archive byte before editing**.
+- **Domain-specific change:** The page now focuses on the station's **physical and social identity**—a real forest in an orbital structure, elven science and magic, sanctuary and care, the Harbor as a refugee community, hidden forest dangers without claiming station-wide corruption, the High Elf's authority and limits, the fall and the attempts to rescue its people. Party travel, individual combat turns, spells and incidental wildlife are summarized only when they illuminate **Elhandar's character or transformation**. The proposed planetary device remains unbuilt, its black-dragon natural heart remains separate from Nash's engineered heart, and claims about history, parents or conspiracies remain attributed.
+- **Before/after phase balance** (approximate words of main prose, excluding headings, Markdown link syntax and footnote markers):
+
+  | Elhandar phase | Before | After |
+  | --- | ---: | ---: |
+  | First days / sanctuary | 158 | **133** |
+  | Harbor and hidden study | 284 | **157** |
+  | Forest expedition / hidden dangers | 487 | **224** |
+  | Court and siege | 341 | **162** |
+  | Wreck and departure | 328 | **212** |
+
+  These are **comparable narrative phases inside one Arc Five**, not separate numbered campaign arcs. No uniform word quota was imposed. The longest section is ~1.7 times the shortest, previously ~3.1 times; the revised section on the forest is longer because the contradictory nature of Elhandar's supposed safety is a major part of its identity. Main text contracted from **13,683 to ~9,140 characters**, with critical changes retained.
+- **Integrity and readback:** The **23 named footnote definitions remained text-identical** after accounting for the archive's rebased links; all **23 markers** still have matching definitions, with **no missing/unused footnotes**. All **38 distinct original normalized link destinations** remain and no new destinations were introduced. The **last substantive heading remains `## Current status`**. There are no episode identifiers, ASR labels, uncertain-spelling tags or out-of-world research qualifiers in the main narrative. Final binary readback: SHA-256 `fb05c404d3c1503c430cdcb2212d841ebc1191f0fb7d552631603192a2882d20`, 18,260 bytes.
+- **Test and worktree scope:** Only the Elhandar article, this report/plan follow-up and its new archival Markdown are intended edits. During validation, a **separate concurrent `delvers/episodes/S1E02.md` addition** appeared in Git status and was **not touched**. No Markdownlint, repository-wide link/fragment crawler, complete source test suite or independent audio listening was run through the connected workspace; do not report these as passing. No commit or push was made.
+
+**Next:** Eltanfawr is still the outstanding artifact **in-universe presentation and D-039 focus** pilot. Complete it in a separate one-file pass with a fresh working-copy archive before scaling the process across more places, artifacts and characters.
+
+
 
 
 
