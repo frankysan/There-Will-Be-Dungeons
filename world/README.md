@@ -8,6 +8,7 @@ A **subject-centered encyclopedia** for *The Wastes*: characters, antagonists, s
 | --- | --- | --- |
 | **Characters and companions** | [Characters](CHARACTERS.md) | Protagonists, allies, recurring NPCs, life histories and relationships |
 | **Antagonists and rivals** | [Antagonists](ANTAGONISTS.md) | Hostile actors, threatening powers and contested motives |
+| **Creatures and monsters** | [Creatures and monsters](CREATURES_AND_MONSTERS.md) | Beasts, predators and monstrous forms, including Chicken Lords and Pixie Hulks |
 | **Places and regions** | [Places](PLACES.md) | Settlements, ruins, planes, stations, vehicles used as settings |
 | **Items and artifacts** | [Items and artifacts](ITEMS_AND_ARTIFACTS.md) | Significant objects, relics and extraordinary technology |
 | **History and major events** | [Historical events](HISTORICAL_EVENTS.md) | Ancient history, decisive events and source-aware timelines |

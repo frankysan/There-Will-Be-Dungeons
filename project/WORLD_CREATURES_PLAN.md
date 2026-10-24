@@ -1,90 +1,83 @@
-# Planning a creatures and monsters category
+# Creatures and monsters — scope and publication policy
 
-**Status:** Initial scope and candidate inventory; no creature canon or new
-subject pages are established by this plan.
+**Status:** Owner-directed scope and style correction, 2026-10-24. Applies to
+both [The Wastes](../world/CREATURES_AND_MONSTERS.md) and
+[Delvers](../delvers/world/CREATURES_AND_MONSTERS.md).
 
 ## Purpose and scope
 
-Add a reader-facing **Creatures and monsters** category to The Wastes world
-reference. Prioritize:
+This category primarily covers **non-intelligent creatures, beasts, predators
+and monstrous forms**. Talking, reasoning NPCs belong in Characters, including
+people whose bodies are unusual, supernatural or conventionally called monsters.
+Hostility alone does not make someone a creature entry; Antagonists remains a
+role-based index. Do not infer an intelligence score or lack of personhood from
+appearance, combat behavior or a missing line of dialogue.
 
-1. Creatures or kinds of beings that appear to be original to this campaign.
-2. Familiar D&D creatures with clearly evidenced, consequential campaign
-   differences.
-3. Individual creatures whose unusual abilities, origin, transformation, or
-   role in the setting warrants a cross-reference even when their identity
-   already has a character page.
+**Chicken Lords and Pixie Hulks are owner-supplied Wastes candidates**, now
+represented by source-backed subject pages. A transformation may be described
+here without moving its victim's biography: the Pixie Hulk form belongs in the
+bestiary while P0D remains a character. Preserve the distinction between a
+creature kind, a transformed state and a particular individual.
 
-Do not turn this into a catalog of every ordinary D&D encounter. A creature
-does not qualify as a variant just because an episode uses it, gives it a
-different name, or leaves its abilities unexplained.
+Prioritize distinctive campaign creatures and consequential encounters with
+enough evidence to explain the subject. Familiar creatures may qualify without
+a demonstrated D&D rules deviation; Delvers's gricks are a supported example.
+Do not catalog every passing animal mention or pad the category with unsupported
+species lore. Campaign originality is a research question, not an entry gate.
 
-## Proposed structure
+## Structure and presentation
 
-- `world/CREATURES_AND_MONSTERS.md`: concise category index, grouped by
-  campaign-original beings, materially adapted creatures, and notable
-  individual cases.
-- `world/creatures/`: detailed pages only for creature kinds or subjects that
-  need more than an index entry.
-- Existing character pages remain the canonical biographies for named,
-  person-like NPCs. The new index should link to them rather than duplicate
-  their histories. An individual can appear in more than one index when the
-  category is useful to readers.
-- Keep setting-wide systems and uncertain cosmology in `world/WORLD.md`;
-  keep hostile-role navigation in `world/ANTAGONISTS.md`.
+- `world/CREATURES_AND_MONSTERS.md` and
+  `delvers/world/CREATURES_AND_MONSTERS.md` are compact navigation indexes,
+  with short in-world descriptions and links to canonical subjects.
+- Substantial creature subjects live under the corresponding campaign's
+  `world/creatures/`. Keep the two continuities and source horizons separate.
+- Follow the [world narrative style](WORLD_NARRATIVE_STYLE.md) and
+  [reference template](WORLD_REFERENCE_PAGE_TEMPLATE.md): introduce appearance,
+  behavior and supported habitat/origin; follow meaningful changes through
+  relevant Wastes arcs or Delvers phases; finish with **Current status**.
+- Focus on traits, capabilities, vulnerabilities, habitat relationships and
+  lasting significance. Encounters illustrate the creature rather than forming
+  a combat log. Do not invent empty arcs or apply biography word quotas.
+- Put episode IDs, clocks, ASR uncertainty, source comparisons, classification
+  labels and editorial boundaries in **Markdown footnotes**. Keep natural
+  in-world uncertainty and attributed testimony in the prose. Footnotes follow
+  Current status without a new sources heading.
 
-The category should be added to the [world portal](../world/README.md) only
-when its index has a useful, source-supported starter set.
+## Evidence rules
 
-## Editorial and comparison rules
+1. Cite the existing episode dossiers in footnotes at material claims; retain
+   exact clock ranges and verification limitations there. A second ASR is not
+   audio verification.
+2. Distinguish observed behavior, NPC testimony, private knowledge, retrospective
+   commentary and speculation. Do not infer a species-wide rule from one
+   specimen or a temporary transformation.
+3. Do not add unsupported stat blocks, alignments, intelligence scores, ecology,
+   origins or abilities. Record what the campaign establishes.
+4. Claim a D&D departure only against a sourced official edition and creature
+   entry. Keep baseline mechanics, table rulings and campaign observations
+   distinct. Otherwise omit the comparison rather than displaying a research
+   classification in the reader-facing index.
+5. Keep one canonical biography for reasoning NPCs. Unusual biology,
+   resurrection, magical equipment or demon/dragon identity is insufficient
+   reason to list an NPC here.
 
-- Label a case as **campaign-original**, **campaign-modified**, **individual
-  variation**, or **baseline status unknown**. Do not infer a species-wide
-  trait from a single creature.
-- For a D&D comparison, identify the specific official edition and creature
-  entry being used as the baseline. Keep published baseline mechanics,
-  table-specific rulings, observed campaign behavior, and character testimony
-  distinct. If the comparison cannot be sourced, describe the campaign
-  evidence without claiming a deviation.
-- For campaign-original beings, explain what makes the concept distinctive
-  from the recorded evidence; do not invent a D&D counterpart.
-- Cite the episode dossier at each material claim. Mark ASR-only names and
-  mechanics provisional; a second ASR is not audio verification.
-- Do not add stat blocks, inferred alignments, ecological claims, or
-  game-mechanical abilities that are not supported by sources.
-- Preserve character/creature distinctions: a named sentient being is not
-  reduced to a monster entry, and a creature category is not a claim that the
-  subject is hostile.
+## Published starter subjects and routing
 
-## Initial candidates to assess
+| Campaign | Creature subject | Evidence and scope |
+| --- | --- | --- |
+| The Wastes | [Chicken Lords](../world/creatures/chicken-lords.md) | E060 feast, E064 transformations and E107 same-world historical arena specimen; no universal infection route inferred |
+| The Wastes | [Pixie Hulks](../world/creatures/pixie-hulks.md) | E049–E054 forced transformation, destructive abilities and observed reversion; P0D's biography remains separate |
+| Delvers | [Gricks](../delvers/world/creatures/gricks.md) | S1E01 identification and S1E03 sinkhole predators; no invented S1E02–S1E03 transition or cleared dungeon |
 
-| Candidate | Existing canonical page or evidence | Why it merits review | Boundary or open question |
-|---|---|---|---|
-| The Earth-desert black dragon | [Profile](../world/characters/imprisoned-black-dragon.md) · [E121](../episodes/E121.md) · [E122](../episodes/E122.md) | Its demonstrated interaction with Diontalus's spectral form, restorative blue mist, natural heart, and spectral mother give it unusually specific campaign lore. | The dragon's history and genealogy are partly testimony; its exact name remains provisional. Compare against a cited baseline before calling any ability a D&D deviation. |
-| Squirts's return | [Profile](../world/characters/squirts.md) · [E111](../episodes/E111.md) · [E125](../episodes/E125.md) | An observed death followed by a later bodily return through an infernal medical process is a notable campaign-specific creature lifecycle. | Keep Squirts's character page canonical. Brent's account of the soul and alterations is not independently verified; do not generalize this process to kobolds. |
-| Henatar/Henitar Grape (?) | [Profile](../world/characters/henitar-grape.md) · [E125](../episodes/E125.md) · [E126](../episodes/E126.md) | His three-headed presentation and unusual magical equipment make him a useful test of whether a named NPC's creature traits belong in this category. | The current evidence establishes an individual description, not a species or stat-block variant. Name spellings and any final disposition remain unresolved. |
-| Nash in black-dragon form | [Nash](../world/characters/nash-maggard.md) · [E126](../episodes/E126.md) | His played transformation provides a current example for distinguishing a familiar creature form from campaign-specific traits. | Do not create a dragon-form page or claim modified dragon mechanics without evidence beyond the transformation itself. |
-| General Carthax | [Profile](../world/characters/general-carthax.md) · [E111](../episodes/E111.md) | His demonic identity and capture through Elhandari empathy/anti-aggression devices may help distinguish creature traits from campaign-specific treatment. | The device's effect is not proof that Carthax's underlying demon nature differs from a D&D baseline. |
+Squirts, Henatar/Henitar Grape and the imprisoned black dragon remain character
+subjects. Veggie Sticks and the walking plants remain with Delvers character
+material; Studwell's apparition remains in the crypt dossier. Their former
+category summaries and source links are preserved in the
+[pre-correction working-copy archive](../research/legacy/2026-10-24/creatures-before-scope-correction/README.md),
+not maintained as parallel creature entries.
 
-These are research leads, not a commitment to publish five entries. Begin with
-the cases that have the clearest evidence of campaign-specific biology, powers,
-or lifecycle; keep ordinary encounters and unsupported extrapolations out.
-
-## Implementation sequence
-
-1. Review the cited dossiers and existing profiles, and add exact timestamps
-   and evidence tiers for candidate claims.
-2. Choose a small starter set. Resolve whether each item belongs as a link to
-   an existing character, a new creature-kind page, or no entry.
-3. For each claimed D&D difference, identify and check the official baseline;
-   otherwise retain **baseline status unknown**.
-4. Create the concise category index and only the necessary pages under
-   `world/creatures/`; follow the [world reference template](WORLD_REFERENCE_PAGE_TEMPLATE.md).
-5. Add the category to the [world portal](../world/README.md), reconcile its
-   spoiler horizon with the maintained reference pages, and validate new
-   relative links.
-
-**Coordination note:** The portal currently states a researched horizon of
-E125, while an E126 dossier and related working-tree edits are present.
-Reconcile and update the horizon as part of a future category publication;
-this initial planning pass does not modify those in-progress files.
+This starter set is not an exhaustive bestiary or a new episode-research pass.
+The Wastes portal's E128 and Delvers portal's S1E03 horizons remain unchanged;
+each subject's notes state its narrower direct evidence cutoff. Expand only
+from supported material, preserving unknown fates and source limitations.

@@ -1,6 +1,6 @@
 # World reference page template
 
-**Purpose:** A compact, **in-universe and narrative-focused** subject page in `world/characters/`, `world/places/`, `world/technology/` or a major event study in `world/`. **The governing presentation rule is [World narrative style](WORLD_NARRATIVE_STYLE.md): put episode IDs, ASR uncertainty, source links and editor notes in footnotes, not the main prose.** Use this template as a checklist, not a demand for empty headings. [Documentation architecture](DOCUMENTATION_ARCHITECTURE.md) · [World portal](../world/README.md).
+**Purpose:** A compact, **in-universe and narrative-focused** subject page in `world/characters/`, `world/places/`, `world/technology/`, `world/creatures/` or a major event study in `world/`, with the same presentation used in Delvers's corresponding directories. **The governing presentation rule is [World narrative style](WORLD_NARRATIVE_STYLE.md): put episode IDs, ASR uncertainty, source links and editor notes in footnotes, not the main prose.** Use this template as a checklist, not a demand for empty headings. [Documentation architecture](DOCUMENTATION_ARCHITECTURE.md) · [World portal](../world/README.md).
 
 ## Recommended structure
 
@@ -69,7 +69,7 @@ An optional Relationships/abilities section **synthesizes cross-arc patterns** w
 | **Factions, institutions, powers** | Ideology, aims, members, leadership, methods, alliances, rivals, reach and changes in influence | **Present allegiances, leadership, power and standing** |
 | **Historical events and eras** | Causes, circumstances, participants, decisive transformations, consequences, competing accounts and wider legacy | **Lasting legacy or aftermath**; `## Lasting legacy` may replace `## Current status` in focused event studies |
 | **Thematic world context** | How societies, religions, magic, technology and cosmology operate, and how competing accounts affect understanding | **Latest supported picture**, with genuine in-world disagreements kept visible |
-| **Creatures, if formally added later** | Distinguishing physical/ecological traits, behavior, habitat, powers, relationships and story significance | **Last known condition or role**, without inventing species-wide laws |
+| **Creatures and monsters** | Distinguishing physical/ecological traits, behavior, habitat, powers, vulnerabilities and story significance; primarily non-intelligent creatures and monstrous forms, with reasoning NPCs kept in Characters | **Last known condition or role**, without inventing species-wide laws or erasing a transformed individual's identity |
 
 **Section-balance review:** Compare prose lengths only between **similarly important developments within the same subject**. An introductory paragraph, a quiet arc, an artifact's single acquisition, or a historical event's brief aftermath can be short. Where a section is disproportionately long, first remove retold battles, incidental travel and duplicate episode chronology. Keep significant changes to the subject, even when they need more space. **No universal target length or equal-arc quota applies outside major biographies.**
 
@@ -91,6 +91,7 @@ An optional Relationships/abilities section **synthesizes cross-arc patterns** w
 ## Category ownership
 
 - `world/CHARACTERS.md`: people; `world/ANTAGONISTS.md`: a *role-based index* linking the same people, not duplicated pages.
+- `world/CREATURES_AND_MONSTERS.md`: beasts, predators and monstrous forms, with substantial subjects under `world/creatures/`; the corresponding Delvers paths follow the [same scope and style](WORLD_CREATURES_PLAN.md). Talking, reasoning NPCs retain their character biographies.
 - `world/PLACES.md`: places (including mobile locations), with major sites under `world/places/`.
 - `world/ITEMS_AND_ARTIFACTS.md`: relics, weapons, devices and identified technologies, with substantial subjects under `world/technology/`.
 - `world/HISTORICAL_EVENTS.md`: major event index and focused historical studies. `CHRONOLOGY.md` retains the unique, episode-ordered reference timeline.

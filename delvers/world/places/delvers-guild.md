@@ -16,11 +16,17 @@ When the party returns, the guild accepts its report and trophies and pays the p
 
 The party's two divine casters make it suitable for an assignment at Kord's mountain sanctuary. Successful cleansing of its fountains and rescue of the missing devotees earn a larger payment, including a rescue bonus. With that task complete, the guild opens its full job board to the three adventurers.[^crypt]
 
+## Scouting, claims and a path to advancement
+
+The guild's payment system becomes clearer when the three Delvers return from the wooded ruins. Their task was to verify the presence of gricks, not to exterminate them. Cassius accepts their trophy and discovery of a dangerous buried dungeon with admiration, but the extra gricks they slew earn no additional bounty. He explains that the guild sends cheaper wood-ranked adventurers to gather information before committing expensive, more experienced members. Exploration is sometimes valued more than immediate battle.[^scout]
+
+As the discoverers, the three ask to claim the dungeon for future exploration. Cassius agrees to enter their request, while warning that another serious attack may require sending silver-ranked adventurers first. He also promises to put their names before a superior who can consider promoting them to bronze. The reward comes with a reminder of their present limits: wood-ranked members may undertake only three jobs in a week, so the party must spend the remaining days away from quests. Cassius still has the runic sword hilt Evelyn recovered, awaiting inspection.[^scout]
+
 ## Current status
 
-Both initial assignments are accepted as complete. The adventurers have returned from the sanctuary and been paid, but have yet to select their next job.[^crypt]
+The three adventurers have completed three paid assignments and returned from the grick-infested woods. Cassius has paid the third fee and retains the [unidentified hilt](../items/runic-sword-hilt.md) for checking. Their dungeon claim and bronze promotion remain requests, not granted privileges, and a four-day work restriction awaits them.[^scout]
 
-[^introduction]: [S1E01 dossier](../../episodes/S1E01.md), ~00:13–00:15 and 00:27–00:38. City rendered `Atamer/Atmer`, spelling open; Clearstone's given name varies. Guild hierarchy is introduced by Kyle. Researched through Delvers S1E02; not audio-verified. [Consistency ledger](../CONSISTENCY_LEDGER.md) · [Review queue](../../REVIEW_QUEUE.md).
+[^introduction]: [S1E01 dossier](../../episodes/S1E01.md), ~00:13–00:15 and 00:27–00:38. City rendered `Atamer/Atmer`, spelling open; Clearstone's given name varies. Guild hierarchy is introduced by Kyle. Researched through Delvers S1E04; not audio-verified. [Consistency ledger](../CONSISTENCY_LEDGER.md) · [Review queue](../../REVIEW_QUEUE.md).
 
 [^badges]: [S1E01](../../episodes/S1E01.md), ~00:31–00:34: 404 Krandal, 325 Evelyn, 180 Koh. These identify members, not ranks or levels.
 
@@ -29,3 +35,5 @@ Both initial assignments are accepted as complete. The adventurers have returned
 [^return]: [S1E01](../../episodes/S1E01.md), ~02:22–02:28: forty gold each, badge 542 returned, sentience-check policy stated. [Characters and patrons](../CHARACTERS.md). [Preserved draft](../../../research/legacy/2026-10-24/delvers-pre-style/delvers/world/places/delvers-guild.md).
 
 [^crypt]: [S1E02 dossier](../../episodes/S1E02.md), opening assignment and ~02:44–02:50. 300 gold total, 100 each; no next quest selected. The former S1E01-only cutoff is superseded by this researched return, not by an assumed off-screen outcome.
+
+[^scout]: [S1E04 dossier](../../episodes/S1E04.md), ~02:34–02:44, ASR-provisional. Guild accepts four party grick kills, retains the rune-covered bladeless hilt for **later** sentience testing, pays **180 gold total/60 each**, announces three-job weekly wood-rank limit and reports a request to promotion authority `Selinar/Selenar`, **not approval**. Four days off and level-three build not yet played.

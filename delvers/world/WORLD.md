@@ -18,11 +18,17 @@ Kord's mountain sanctuary combines a graveyard with athletic devotion. Running, 
 
 The party's divine gifts and Koh's recovered light help it survive the haunting. Sacred radiance harms the Shadows, while daylight weakens them. Restoring the basins brings clear water back through the sanctuary, and the two missing devotees leave alive.[^sanctuary]
 
+## The forest ruins and the limits of rank
+
+Another route below the earth opens in forest ruins guarded by dangerous gricks. The company reaches a worked-stone dungeon behind an old sinkhole and finds creatures already impaled by its spear and needle traps. The ancient passages are marked with symbols no one has yet translated. A woodland recluse, Veggie Sticks, fears that the guild's response will disturb the hippogriffs he protects, but cannot pretend to understand the dangers himself.[^grickwoods]
+
+This third scouting job brings a new lesson in guild rules. The party is rewarded for finding and reporting gricks; killing extra creatures brings no bounty. The dungeon's discovery gives them grounds to request first opportunity to explore it, subject to more experienced adventurers intervening if necessary. Their three weekly wood-rank assignments are exhausted, and Cassius is seeking approval for bronze promotion. Whatever glory they have earned, the guild still regards them as novices who must rest before taking more work.[^ranks]
+
 ## Current status
 
-The farm passage is sealed and the sanctuary's fountains run clear. The three adventurers have returned to their employer with a wider choice of work. The deeper Underdark and its reported door remain largely unknown.[^status]
+The farm passage remains sealed, Kord's sanctuary runs clean and the forest scouts have reported a deeper dungeon. The Delvers have completed three assignments and must observe the guild's weekly limit while their request for promotion and their claim to the ruins are considered. The ancient passages and the wider Underdark still lie mostly beyond their knowledge.[^ranks]
 
-[^society]: [S1E01 dossier](../episodes/S1E01.md), opening setting exposition, ~00:27–00:34 and ~00:56. Researched through Delvers S1E02; ASR-provisional, not audio-verified. Delvers has independent continuity: these gods and institutions establish no connection to Wastes or Inverse. [Consistency ledger](CONSISTENCY_LEDGER.md).
+[^society]: [S1E01 dossier](../episodes/S1E01.md), opening setting exposition, ~00:27–00:34 and ~00:56. Researched through Delvers S1E04; ASR-provisional, not audio-verified. Delvers has independent continuity: these gods and institutions establish no connection to Wastes or Inverse. [Consistency ledger](CONSISTENCY_LEDGER.md).
 
 [^work]: [S1E01](../episodes/S1E01.md), orientation and ~02:22–02:28; [S1E02](../episodes/S1E02.md), opening assignment. Krandal's deity is rendered `Palor/Paylor`, spelling unresolved. The [guild-guide register](../../reports/DISCORD_SPELLING_2026-10-21.md) supports **Thun’Darious Storm**, whose attributed foreword is read; other handout heroes, departments and dates are not performed appearances or established scene dates. Trophy labels likewise do not prove party visits.
 
@@ -32,4 +38,8 @@ The farm passage is sealed and the sanctuary's fountains run clear. The three ad
 
 [^sanctuary]: [S1E02 dossier](../episodes/S1E02.md), ~00:19–00:25, 00:41–00:52 and 01:00–02:44. **Kord/Cord**, **House/How**, **Crush/Krash**, **Armada** and **Studwell** remain source-level name checks in the [review queue](../REVIEW_QUEUE.md). House's origin account is testimony; no wider haunting is established.
 
-[^status]: [S1E02 cutoff](../episodes/S1E02.md#cutoff-and-onward-research). No third job chosen. [Chronology](CHRONOLOGY.md) owns the full played order.
+[^status]: [S1E02 cutoff](../episodes/S1E02.md#cutoff-and-onward-research). No third job chosen at that earlier scene. [Chronology](CHRONOLOGY.md) owns the full played order.
+
+[^grickwoods]: [S1E04 dossier](../episodes/S1E04.md), ~00:01–00:07 opening recap and ~01:15–02:30 exploration. Veggie Sticks's dungeon origin theory is **not a proven fact**; two corpses in the dungeon's traps are separate from the four gricks slain by the party. New setting remains within **Delvers** alone.
+
+[^ranks]: [S1E04](../episodes/S1E04.md), ~02:34–02:44. Cassius pays 180 gold total (60 each), and promises to request bronze promotion and a dungeon claim. **No approval, completed break or newly played job**. S1E02-to-S1E04 recap-to-play transition is not an invented S1E02 mission. Research horizon S1E04, ASR-only.

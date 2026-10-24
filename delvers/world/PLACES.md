@@ -1,6 +1,6 @@
 # Delvers — places
 
-**Spoilers through S1E02. Evidence:** ASR-provisional; names awaiting listening are explicitly provisional.
+**Spoilers through S1E04. Evidence:** ASR-provisional; names awaiting listening are explicitly provisional.
 
 | Place | Scope and reference |
 | --- | --- |
@@ -12,5 +12,7 @@
 | Snake Island | Rejected posting; not visited, reward described by Cassius as snakes |
 | Murray Keep, Hearthwood lodging/logging camp, Buckner Brewhouse | Names on displayed guild trophies, ~00:13–00:15; not destinations reached by this party |
 | Kord's mountain sanctuary / cryptnasium | Athletic graveyard; fountains cleansed, Studwell defeated and Meatball and Sultan rescued. [S1E02 evidence](../episodes/S1E02.md) |
+| Forest limestone sinkhole and dungeon | Grick-scout site, trapped passages and chest; unexplored deeper structure. [Profile](places/grick-sinkhole.md) |
+| Veggie Sticks's hollow stump | Woodland hermit's home with animated plants, near hippogriff habitat. [Profile](characters/veggie-sticks.md) |
 
 [World portal](README.md) · [S1E01 evidence](../episodes/S1E01.md) · [Open checks](CONSISTENCY_LEDGER.md)

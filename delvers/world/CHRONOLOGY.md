@@ -1,6 +1,6 @@
 # Delvers — played chronology
 
-**Researched horizon: S1E02, ASR-provisional.** Archive order and recording clock are distinct from story time. Entries derive from the [S1E01](../episodes/S1E01.md) and [S1E02](../episodes/S1E02.md) dossiers; later campaign scenes are not imported.
+**Researched horizon: S1E04, ASR-provisional.** Archive order and recording clock are distinct from story time. Entries derive from the [S1E01](../episodes/S1E01.md), [S1E02](../episodes/S1E02.md) and [S1E04](../episodes/S1E04.md) dossiers; earlier events described only in the S1E04 recap are kept separate from actions actually played in S1E04.
 
 | Story order | Recording clock | Supported event |
 | --- | --- | --- |
@@ -18,7 +18,12 @@
 | Cardio and muscles | 00:53:05–02:04:30 | Koh runs ten laps; first basin cleansed. In the weight room Koh accidentally knocks Krandal unconscious, Evelyn restores him, then Evelyn falls and Krandal heals her; globe's Daylight first used; Krandal/Evelyn open chains and cleanse second basin |
 | Sanctuary and last fountain | 02:04:30–02:43:59 | Studwell defeated by Koh; Krandal's Relentless Endurance averts a separate downing. Sultan rescued with second potion; Koh rings bell; Evelyn cleanses third basin and main fountain |
 | Second return, S1E02 cutoff | 02:44:00–02:50:39 | Koh retrieves Sultan's Sash of Strongman (Rope of Climbing equivalent); both rescued men reunite below. Party returns to guild, receives **300 gold total / 100 each**; no next job chosen |
+| S1E04 **recap of missing S1E03**, source transition unresolved | 00:01:40–00:06:59 | GM establishes intervening **Grick Sighted** scouting job in forest ruins, an already slain grick, others summoned, tablet at altar and a rope escape in progress. This is **not played in S1E02** |
+| Sinkhole escape and rescue (S1E04) | 00:07:00–01:09:31 | Koh kills **two gricks total** during the escape, the second after it knocks Krandal unconscious and starts dragging him; one failed death save, Evelyn heals five. Sash retrieved, ordinary rope abandoned; tablet remains below |
+| Woodland rest and return | 01:09:32–01:45:00 | Veggie Sticks admits false omniscience, shelters the party, receives animated bush Brad/Brador. Short rest; party chooses a limited return to the dangerous ruins |
+| Dungeon entrance and traps | 01:45:00–02:30:25 | Krandal kills final known living grick (four total including recap); trapped corpses observed, Koh poisoned by floor pins and cured by Evelyn; Evelyn retrieves bladeless runic sword hilt, tablet untranslated |
+| Third guild return and cutoff | 02:30:25–02:44:25 | Cart driver Aegis brings party back. Cassius accepts tentacle, traced symbols and hilt for later inspection; pays **180 gold total/60 each**. Dungeon claim and bronze promotion **requested**. Three-job weekly wood-rank quota reached; four-day break planned, enough XP for level three announced but build/downtime unplayed |
 
-Opening campaign-transition talk and closing XP/murder-hobo banter belong to production/table commentary, not additional fictional events. S1E01 itself does not establish a level-up; the subsequent rest and advancement to level two are explicitly confirmed near the opening of S1E02. Off-air XP after S1E02 has no numerical amount.
+Opening campaign-transition talk and closing XP/murder-hobo banter belong to production/table commentary, not additional fictional events. S1E01 itself does not establish a level-up; the subsequent rest and advancement to level two are explicitly confirmed near the opening of S1E02. Off-air XP after S1E02 has no numerical amount. S1E04 later announces enough experience for level three, without playing through the specialization or the ensuing four-day break.
 
 [World portal](README.md) · [Continuity questions](CONSISTENCY_LEDGER.md) · [Review queue](../REVIEW_QUEUE.md)

@@ -1,6 +1,6 @@
 # Delvers — characters
 
-**Spoilers through S1E01. Evidence:** ASR-provisional. Working player-character spellings use the [written-source register](../../reports/DISCORD_SPELLING_2026-10-21.md); voice, exact utterances and historical sheet state remain unchecked. No later nicknames or surnames are backdated.
+**Spoilers through S1E04. Evidence:** ASR-provisional. Working player-character spellings use the [written-source register](../../reports/DISCORD_SPELLING_2026-10-21.md); voice, exact utterances and historical sheet state remain unchecked. No later nicknames or surnames are backdated.
 
 | Character | Performer / introduction | Reference |
 | --- | --- | --- |
@@ -24,5 +24,14 @@ These short entries derive from [S1E01](../episodes/S1E01.md); NPC spellings rem
 | Farmer Mickles / Mikkels | Named client, not met; Cassius says he deposited the quest reward, ~00:38–00:43 |
 | Bran Broscale / Brosgail | Cassius's identification of badge 542's missing dragonborn owner, ~02:23–02:24; remains observed below the cave, cause/date of death unknown |
 | Thun’Darious Storm | Written handout spelling; Cassius reads an attributed foreword, ~00:32–00:34. No physical appearance or proof of personal involvement |
+
+## Forest and recent guild contacts
+
+| Name | Current significance |
+| --- | --- |
+| [Veggie Sticks](characters/veggie-sticks.md) | Reclusive woodland protector of hippogriffs, keeper of animated plants; admits he exaggerated his awareness of the ruins |
+| Brad / Brador | Small animated shrub, carried briefly by Evelyn and returned to Veggie Sticks; name requires listening |
+| Aegis | Centaur driver who retrieves the party at dusk after the grick-scout excursion; no connection to Wastes or Inverse |
+| Selinar / Selenar | Cassius says he will seek this authority's consideration of bronze promotion; no approval yet |
 
 [World portal](README.md) · [Open identity checks](CONSISTENCY_LEDGER.md)

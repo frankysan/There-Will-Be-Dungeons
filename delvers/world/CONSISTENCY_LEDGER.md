@@ -1,6 +1,6 @@
 # Delvers — consistency ledger
 
-**Spoiler horizon: S1E02. Status: ASR-provisional, 2026-10-24.** Source-cutoff conclusions are not listening resolutions. The [dossier](../episodes/S1E01.md) owns timestamps and evidence; the [review queue](../REVIEW_QUEUE.md) owns bounded checks.
+**Spoiler horizon: S1E04. Status: ASR-provisional, 2026-10-24.** Source-cutoff conclusions are not listening resolutions. The [S1E04 dossier](../episodes/S1E04.md), with earlier [S1E01](../episodes/S1E01.md) and [S1E02](../episodes/S1E02.md), owns timestamps and evidence; the [review queue](../REVIEW_QUEUE.md) owns bounded checks.
 
 ## Open questions
 
@@ -15,6 +15,13 @@
 
 | DEL-S1E02-001–005 | Crypt wording, contested mechanics and custody | See [S1E02 dossier](../episodes/S1E02.md) for recap address, House/Crush/Studwell/Kord, friendly fire versus two independent unconsciousness events, globe Daylight/Relentless Endurance, Sultan's sash and inclusive 300-gold compensation. All remain ASR-provisional pending targeted audio checks |
 
+| DEL-S1E04-001 | Episode-bridge gap | S1E02 finishes at guild with no next job selected. S1E04 **recaps missing S1E03's** already begun Grick Sighted job and combat. Do not backdate recap scenes as S1E02 played material or infer a missing episode's recording |
+| DEL-S1E04-002 | Four gricks versus trapped corpses | One killed in GM recap; Koh kills two in played escape; Krandal kills final wax/jerky grick. Two further grick carcasses are **trap-killed**, not additional party kills. Guild hears four |
+| DEL-S1E04-003 | Veggie Sticks and plant's name | `Veggie Sticks` supported textually; plant called `Bush` by Evelyn but Veggie Sticks says `Brad/Brador`. Plant returned to his stump home, not kept by the party |
+| DEL-S1E04-004 | Hilt and rope custody | Koh keeps enchanted sash, unfastens **ordinary rope** left in sinkhole. Rune-marked **bladeless hilt** found by Evelyn is surrendered to Cassius for **later** sentience check. Sun Blade conjecture unconfirmed |
+| DEL-S1E04-005 | Trap poison and resources | Koh takes 11 damage (5 piercing + 6 poison); Evelyn expends 5 Lay on Hands to cure **Poisoned**, **not HP**. Krandal's lost vestments/2 candles/4 rations/tinderbox and damaged-but-repaired bag; Koh says 2 daggers lost, exact final inventory open |
+| DEL-S1E04-006 | Rewards and guild rank | 180 gold **paid** (60 each), no extra grick-kill bounty. **Claim to dungeon and bronze-promotion request submitted**, not approved; next rank authority name `Selinar/Selenar` unresolved. Four days off and level-three specialization **not played** |
+
 ## Resolved provisionally by each episode's cutoff
 
 | Subject | Bounded conclusion |
@@ -28,5 +35,7 @@
 | Guides and compensation | Evelyn discards the returned book. One gold left under cart seat, not confirmed received. Horse/owner not attacked despite later banter |
 | Next day and advancement (S1E01 cutoff) | Crypt assigned and lodging accepted, without a played long rest in S1E01. The rest and level-two advancement are established at S1E02 opening, and that day's crypt mission is completed; no subsequent rest or new XP amount established |
 | Campaign boundary | Opening Wastes tavern remark is production framing; covered Eye of Grumsh-like trophy is not evidence for the Wastes Eye of Groxl |
+| Third-job cutoff | Party returns alive from Grick Sighted; four kills reported, trapped remains separate; hilt deposited with Cassius. Wood-rank weekly quota reached; enough XP to advance announced but no level-three specialization performed. No actual fourth-day return or promoted rank shown |
+| Family revelation | Koh intends to spend four days with his **family and daughter**, maintaining a high-society identity; relatives remain unshown. This is **not** a revealed criminal profession |
 
 [World portal](README.md) · [Chronology](CHRONOLOGY.md) · [ASR report](../../reports/DELVERS_S1E01_ASR_COMPARISON_2026-10-24.md)
