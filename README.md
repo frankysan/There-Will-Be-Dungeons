@@ -10,7 +10,7 @@
 | --- | --- |
 | **Explore Delvers (separate reality)** | [Campaign index](delvers/README.md), [world reference](delvers/world/README.md), [narrative](delvers/narrative/README.md) and [Delvers queue](delvers/REVIEW_QUEUE.md). **ASR-provisional through S1E01; next S1E02**. [37-entry source inventory](delvers/SOURCE_INVENTORY.md) |
 | **Explore *Inverse* (separate reality)** | [Complete four-episode index](inverse/README.md), [S1E01](inverse/episodes/S1E01.md), [S1E02](inverse/episodes/S1E02.md), [S1E03](inverse/episodes/S1E03.md) and [S1E04 finale](inverse/episodes/S1E04.md). **Not a Wastes timeline** |
-| **Read the Wastes story** | [Arc One](narrative/ARC_ONE.md) (**E000–E026**), [Arc Two](narrative/ARC_TWO.md) (**E027–E054**), [Arc Three](narrative/ARC_THREE.md), [Arc Four — The Price of a Way Home](narrative/ARC_FOUR.md) (**completed at Hope's E101 departure**), then [Arc Five — Separate Paths](narrative/ARC_FIVE.md) (**begins inside E101**) |
+| **Read the Wastes story** | [Arc One](narrative/ARC_ONE.md) (**E000–E026**), [Arc Two](narrative/ARC_TWO.md) (**E027–E054**), [Arc Three](narrative/ARC_THREE.md), [Arc Four — The Price of a Way Home](narrative/ARC_FOUR.md) (**completed at Hope's E101 departure**), then [Arc Five — No Place Like Home](narrative/ARC_FIVE.md) (**begins inside E101**) |
 | Understand the story's organization and spoiler limits | [Narrative guide](narrative/README.md) |
 | Look up a character, place, event or contested fact | [World reference portal](world/README.md) |
 | Inspect **episode-by-episode evidence** | [E000 dossier](episodes/E000.md), [E001 dossier](episodes/E001.md) and the numbered `episodes/E###.md` files |

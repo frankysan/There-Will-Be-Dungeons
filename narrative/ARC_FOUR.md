@@ -126,7 +126,7 @@ The Voice calls Hope away, warning that companions she leaves behind may be abse
 
 Ulvert offers an invitation from **Asmodeus to the Kaiser Casino**. Spatulo warns that Tobacho's claim still matters, and Hope permits him to accompany her. The Voice passes through a stone arch opening onto a path through fire. Hope follows; Spatulo crosses behind her. The portal closes.
 
-**Nash, Stanley and Vorel remain at White Tower. Hope has left them.** The promised return to Earth has not occurred. This departure, completed at approximately **01:57–01:59 in E101**, closes Arc Four. The casino journey later in that same recording opens [Arc Five — Separate Paths](ARC_FIVE.md).
+**Nash, Stanley and Vorel remain at White Tower. Hope has left them.** The promised return to Earth has not occurred. This departure, completed at approximately **01:57–01:59 in E101**, closes Arc Four. The casino journey later in that same recording opens [Arc Five — No Place Like Home](ARC_FIVE.md).
 
 [E101 dossier](../episodes/E101.md) · [E101 two-ASR report](../reports/E101_ASR_COMPARISON_2026-10-23.md)
 

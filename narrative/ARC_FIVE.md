@@ -1,4 +1,4 @@
-# Arc Five — Separate Paths
+# Arc Five — No Place Like Home
 
 **The Wastes · fifth researched story arc · begins within corrected E101 (*A New Hope*), after Hope's departure from the party · completed at E128, Season One finale.**
 

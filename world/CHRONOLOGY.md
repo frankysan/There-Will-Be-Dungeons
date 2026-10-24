@@ -155,7 +155,7 @@ The following **episode cutoffs** describe what was established *by that recordi
 
 | **[E101 — A New Hope, before departure](../episodes/E101.md)** | **Stanley returns from unconsciousness on a natural-20 death save and Healing Words Alentris**; Hope's broom lowers them. Green commander stuns Vorel, he **drops the opened Fist**, and Hope captures it after the broom cannot cross the ward holding exposed relic. Privately instructed, **Hope cuts away her own right hand and bonds the severed Hand of the Voice**, regaining full health and receiving major cursed power/appearance changes. **The hooded patron restores the Eye of Groxl to Vorel**, separate **gauntlet drops**; Hope **casts Finger of Death** and raises the demon as a controlled zombie. **Hope chooses to leave the original party alone**, follows hidden figure through dretch army. **Demon General Carthax says Orcus orders withdrawal**, demon–devil armistice/compact dissolves, demons actually retreat. **Stone portal closes after patron, Hope and Spatulo cross** at **~01:57–01:59**. **This is the confirmed end of Arc Four and the start of Arc Five within the SAME E101**, not E102. [E101 full-ASR report](../reports/E101_ASR_COMPARISON_2026-10-23.md). |
 
-## Arc Five — Separate Paths (begins within E101, after Hope's portal departure)
+## Arc Five — No Place Like Home (begins within E101, after Hope's portal departure)
 
 | Episode / phase | Continuity-critical played developments |
 | --- | --- |
