@@ -1,6 +1,6 @@
 # The Wastes — world systems and setting overview
 
-**Spoilers:** Main campaign through researched **E120**, plus separately labeled cast Q&As and historical Dunebreaker E107–E109 prequel. **Evidence:** Reference synthesis from processed ASR, **not independent audio verification**. This page describes *how the world works and what its inhabitants claim*, rather than duplicating every plot beat. Browse [places](PLACES.md), [characters](CHARACTERS.md), [artifacts](ITEMS_AND_ARTIFACTS.md), [factions](FACTIONS_AND_POWERS.md) and [historical events](HISTORICAL_EVENTS.md) for focused treatments.
+**Spoilers:** Main campaign through researched **E121**, plus separately labeled cast Q&As and historical Dunebreaker E107–E109 prequel. **Evidence:** Reference synthesis from processed ASR, **not independent audio verification**. This page describes *how the world works and what its inhabitants claim*, rather than duplicating every plot beat. Browse [places](PLACES.md), [characters](CHARACTERS.md), [artifacts](ITEMS_AND_ARTIFACTS.md), [factions](FACTIONS_AND_POWERS.md) and [historical events](HISTORICAL_EVENTS.md) for focused treatments.
 
 ## A surviving far-future Earth
 

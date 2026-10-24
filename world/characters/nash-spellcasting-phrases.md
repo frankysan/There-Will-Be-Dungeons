@@ -1,12 +1,16 @@
 # Nash Maggard — spellcasting phrases and rhymes
 
-**Character:** [Nash Maggard](nash-maggard.md), portrayed by **Scott**. **Continuity:** The Wastes. **Spoilers:** Selected Season 1 magic through **E111**, later evidence reviews **E114–E120** (including **E120's performed *Haste* rhyme**, and non-casting poems/retrospective memories), plus a marked section of later-season seeds. **Status:** Updated 2026-10-24; **ASR-provisional, not audio-verified or an exhaustive collection**. **Current backfill ceiling: S1E111.**
+**Character:** [Nash Maggard](nash-maggard.md), portrayed by **Scott**. **Continuity:** The Wastes. **Spoilers:** Selected Season 1 magic through **E111**, later evidence reviews **E114–E121** (including **E120's performed *Haste* rhyme**, and non-casting poems/retrospective memories), plus a marked section of later-season seeds. **Status:** Updated 2026-10-24; **ASR-provisional, not audio-verified or an exhaustive collection**. **Current backfill ceiling: S1E111.**
 
 Nash improvises strange phrases, rhymes and sometimes unfinished verses around his magic. This page collects the wording separately from his character history, following the provenance practice of [Vorel's title register](vorel-titles.md). In **E046 ~02:52:57–02:53:10**, Beau awards Nash inspiration for the effort he puts into his magical words ([Parakeet][046-p], cues 2797–2801; [Qwen][046-q], cues 4622–4629). That recognizes an existing habit; it does **not** establish E046 as its beginning.
 
 ## October 2020 bonus — no performed Nash incantation
 
 The [October 2020 bonus](../../episodes/BONUS-2020-10.md) describes Nash's **E120 mushroom decision**, child/family concerns and performance habits; **it does not contain a new in-character performed spell or a new source-supported Nash rhyme**. E120's performed ***Haste* wording** remains in **NSP-041** below. The bonus itself contributes **no new NSP number**; performer recollection and cast jokes are not spellcasting. [Dual-ASR report](../../reports/BONUS_2020_10_ASR_COMPARISON_2026-10-24.md).
+
+## E121 — *Polymorph* and dragon-heart event, no new rhyme
+
+Nash **actually casts *Polymorph* into an adult black dragon** during E121. A previously proposed ***Enlarge* on Vorel is rejected before casting**. His later uncontrolled fire and acid discharge and the **golden maternal-dragon apparition from his mechanical heart** are **not deliberately uttered improvised casting rhymes**, and his address to the dragon by an uncertain name is **not a new spell incantation**. **No new NSP entry** is justified. [E121](../../episodes/E121.md) · [ASR comparison](../../reports/E121_ASR_COMPARISON_2026-10-24.md).
 
 ## E120 — performed rhymed *Haste* and later spells
 

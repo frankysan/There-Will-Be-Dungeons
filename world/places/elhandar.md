@@ -1,6 +1,12 @@
 # Elhandar — elven space station and forest biodome
 
-**Spelling:** Elhandar is the established archive working form; E115 ASR also gives **Elhendar / Elendar / Elhanda**. **Continuity:** The Wastes, main-party Arc Five. **First researched physical arrival:** [E115](../../episodes/E115.md), ~00:30–00:39, following E111's rescue and E114's interrupted voyage. Earlier references do not constitute earlier visits. **Spoilers:** Through E120; **ASR-provisional, not audio-verified**.
+**Spelling:** Elhandar is the established archive working form; E115 ASR also gives **Elhendar / Elendar / Elhanda**. **Continuity:** The Wastes, main-party Arc Five. **First researched physical arrival:** [E115](../../episodes/E115.md), ~00:30–00:39, following E111's rescue and E114's interrupted voyage. Earlier references do not constitute earlier visits. **Spoilers:** Through E121; **ASR-provisional, not audio-verified**.
+
+## E121 — Diontalus, Omnom's death and a dragon-mother apparition
+
+At [E121](../../episodes/E121.md), the party reaches **Dilo and captive Hope** inside a larger glowing-mushroom cavern. **Diontalus physically manifests independently from Dilo's body**, confirming the identity feared in E119–E120; Dilo's physical form becomes unresponsive. Hope remains inside a magical sphere **full of empathy grenades**, despite her disarming attempts and Stanley's failed release methods. Diontalus **kills Omnom Cinderborn**, after Vorel expends the **entire Necklace of Fireballs**, and escapes alive into rock after a **scarred black dragon from the Earth desert** attacks him.
+
+The severely injured dragon identifies itself as the **previously imprisoned Earth-desert dragon**, restores life and strength to Stanley/Nash/Vorel, and says Nash's **engineered dragon heart** bears the signature of the dragon's **mother**. Nash's chest **actually opens** and a **gold-orange spectral maternal dragon** appears and sings to her son. The cave remains a live scene; **Hope is not freed, the dragon's survival is not yet decided, and no source establishes how all of Elhandar is affected**. [Full ASR report](../../reports/E121_ASR_COMPARISON_2026-10-24.md).
 
 ## E120 — Chester slain, illusion-deer ambush, mountain fungus
 

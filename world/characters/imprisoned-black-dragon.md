@@ -1,0 +1,13 @@
+# Imprisoned black dragon — the Earth-desert survivor (name provisional)
+
+**Identity:** A scarred, aged black dragon previously encountered captive in a **desert prison on Earth**; returns in **E121** inside the Elhandar mountain cavern. **Spoken name near E121 cutoff:** **Yoshalar / Shallar (?)**, not audio confirmed. **Mother:** A spectral dragon invoked as **Kaz Desiree / Cas de Jurey (?)**, similarly uncertain. [Character index](../CHARACTERS.md) · [Nash](nash-maggard.md) · [Elhandar](../places/elhandar.md).
+
+## What is actually witnessed in E121
+
+The dragon **emerges from the cavern behind the mushroom chamber** while **Diontalus** is battling Stanley, Vorel, Nash and Omnom. It **can grip Diontalus's otherwise intangible spectral form**, attacks him viciously and is in turn severely wounded by Diontalus. **Diontalus escapes alive into stone**. The dragon is left bleeding heavily, with **scars, missing scales and inscriptions** from its prior imprisonment. It explicitly identifies itself as **the earlier captive black dragon the party saw in the Earth desert**, not another of Nash's alternate selves.
+
+Vorel helps lift its head, and the dragon **actually conjures restorative blue mist** healing **Vorel, Nash and Stanley for 73 HP each**. The dragon **does not heal itself, Omnom or the dead Dilo body**. It says Nash's mechanical dragon heart bears **its mother's identifying magical signature** and that it tried to reach him through the violent involuntary fire events. These are the dragon's **testimony and interpretation**, not an independently inspected account of the heart's manufacture.
+
+The dragon says it came to Elhandar's Feywild-like forest **to die and fertilize the land**, and offers knowledge of **a failed dragonflight effort to save Earth thousands of years earlier**, conditional on a final meeting with its mother. **No such historical explanation or planetary rescue is actually delivered in E121**. When Nash addresses the mother, a **golden-orange spectral dragon visibly emerges from his exposed mechanical heart**, strokes the wounded dragon and **sings a lullaby**. The voice appears to address the son as **Yoshalar (?)**; the precise spellings need original-audio comparison. [E121](../../episodes/E121.md) · [two-ASR report](../../reports/E121_ASR_COMPARISON_2026-10-24.md) · [Heart](../technology/nash-dragon-heart.md).
+
+**E121 cutoff:** **Alive but gravely injured**, receiving apparent maternal comfort. Neither its imminent death, post-song outcome, earlier captors' identities, full name nor knowledge about Earth's future is confirmed. **This page owns the dragon as a subject; do not present its claims of genealogy or cosmic rescue as proven science.**
