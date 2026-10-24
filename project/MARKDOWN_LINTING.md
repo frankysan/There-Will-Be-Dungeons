@@ -22,7 +22,19 @@ The security advisory concerns how inherited JavaScript properties can affect Ka
 
 If an older installation/lockfile still contains `markdownlint-cli2`, refresh dependencies with `npm install` after pulling this change. Verify the installed tree with `npm ls markdownlint markdownlint-cli2 micromatch braces`. A locally generated `package-lock.json` should be reviewed and committed separately if this project adopts lockfile-based reproducibility. Do **not** use `npm audit fix --force` to select a CLI dependency tree without reviewing its dependencies.
 
-To apply available automatic formatting fixes **only in the local working copy**, run `npm run lint:markdown:fix`, inspect the diff and run normal lint again. The regular lint command is **read-only**. Do not mass-autofix sources or historical research.
+## Fast per-episode validation (changed files only)
+
+Use the existing runner with **explicit maintained Markdown paths** when validating the current episode's edits, rather than linting the entire archive after every documentation pass:
+
+```sh
+npm run lint:markdown -- --files episodes/E125.md reports/E125_ASR_COMPARISON_2026-10-24.md world/CHRONOLOGY.md
+```
+
+Substitute **actual changed paths** from Git status; include each modified dossier/report/reference page as needed. The `--files` mode is **read-only**, rejects paths outside the maintained Markdown set, refuses absent/empty arguments, and does not recurse across the repository. `README.md` and Markdown inside `delvers/`, `episodes/`, `narrative/`, `world/`, `project/` and `reports/` are eligible. The `.agents/skills/` tree is **outside this maintained-documentation lint scope**. Quoting is required for individual paths containing spaces.
+
+**Full repository lint remains** `npm run lint:markdown` (also the CI/release command); targeted success **does not** mean all repository Markdown passed. An episode whose only available access is a read/write MCP connector with no general-purpose runner must report **lint not run**, not compensate by repeatedly fetching the same content. Editorial source/cutoff checks and automatic Markdownlint are separate kinds of validation; neither is an audio quality check. [Episode-analysis skill](../.agents/skills/twbd-episode-analysis/SKILL.md).
+
+To apply available automatic formatting fixes **only in the local working copy**, run `npm run lint:markdown:fix`, inspect the diff and run normal lint again. The regular lint command is **read-only**. Do not mass-autofix sources or historical research. `--fix` intentionally cannot be combined with `--files`.
 
 The [GitHub Actions workflow](../.github/workflows/markdownlint.yml) runs **both** the Markdown lint command and `npm audit --audit-level=low` on Markdown and dependency changes in pull requests or pushes to `main`. It can also be manually dispatched. New dependency advisories will fail the audit step for review.
 

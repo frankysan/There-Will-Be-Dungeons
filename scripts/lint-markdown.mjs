@@ -1,6 +1,6 @@
 #!/usr/bin/env node
 // Lint maintained Markdown without third-party glob parsers. Node.js >=22.
-import { readdir, readFile, writeFile } from "node:fs/promises";
+import { readdir, readFile, realpath, stat, writeFile } from "node:fs/promises";
 import path from "node:path";
 import { fileURLToPath } from "node:url";
 import { lint } from "markdownlint/promise";
@@ -10,11 +10,42 @@ const root = fileURLToPath(new URL("../", import.meta.url));
 process.chdir(root);
 
 const directories = ["delvers", "episodes", "narrative", "world", "project", "reports"];
-const fix = process.argv.slice(2).includes("--fix");
-const unexpected = process.argv.slice(2).filter((arg) => arg !== "--fix");
-if (unexpected.length) {
-  console.error("Unknown arguments: " + unexpected.join(", "));
+const args = process.argv.slice(2);
+const fix = args.includes("--fix");
+const filesFlag = args.indexOf("--files");
+const selected = filesFlag >= 0 ? args.slice(filesFlag + 1) : null;
+const unexpected = filesFlag >= 0
+  ? args.slice(0, filesFlag).filter((arg) => arg !== "--fix")
+  : args.filter((arg) => arg !== "--fix");
+if (unexpected.length || (selected && (!selected.length || selected.some((arg) => arg.startsWith("--")))) ||
+    (selected && fix)) {
+  console.error("Usage: lint-markdown.mjs [--fix] OR lint-markdown.mjs --files <path.md> [...]");
   process.exit(2);
+}
+
+async function selectedMarkdown(paths) {
+  const resolvedRoot = await realpath(root);
+  const valid = [];
+  for (const input of paths) {
+    const absolute = path.resolve(root, input);
+    const relative = path.relative(root, absolute);
+    const inside = relative && relative !== ".." &&
+      !relative.startsWith(".." + path.sep) && !path.isAbsolute(relative);
+    const maintained = relative === "README.md" ||
+      (relative.endsWith(".md") &&
+       directories.some((directory) => relative.startsWith(directory + path.sep)));
+    if (!inside || !maintained) {
+      throw new Error("Not a maintained Markdown path: " + input);
+    }
+    const physical = await realpath(absolute);
+    const relativePhysical = path.relative(resolvedRoot, physical);
+    if (relativePhysical === ".." || relativePhysical.startsWith(".." + path.sep) ||
+        path.isAbsolute(relativePhysical) || !(await stat(absolute)).isFile()) {
+      throw new Error("Path is not a regular file inside the repository: " + input);
+    }
+    valid.push(relative);
+  }
+  return [...new Set(valid)].sort();
 }
 
 async function collectMarkdown(dir) {
@@ -32,10 +63,12 @@ async function collectMarkdown(dir) {
   return paths;
 }
 
-const files = [
-  "README.md",
-  ...(await Promise.all(directories.map(collectMarkdown))).flat()
-].sort();
+const files = selected
+  ? await selectedMarkdown(selected)
+  : [
+    "README.md",
+    ...(await Promise.all(directories.map(collectMarkdown))).flat()
+  ].sort();
 const config = JSON.parse(await readFile(".markdownlint.json", "utf8"));
 
 if (fix) {

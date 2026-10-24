@@ -60,6 +60,7 @@ Run `python -m unittest discover -s tests -p 'test_reader_editions.py'` after re
 - Record each meaningful correction in a review log: episode, time/cues, old/new form, evidence, reviewer, date.
 - Write lore facts only after checking the matching passage; note whether a speaker is the DM, a character, or a player discussing rules.
 - Expose status distinctly: `asr`, `readable-draft`, `review-in-progress`, `reviewed`, `published`.
+- For **episode documentation validation**, follow [the bounded phase-E procedure](../.agents/skills/twbd-episode-analysis/SKILL.md): reuse per-file edit readbacks and source hashes; perform one final status plus targeted checks instead of repeated whole-source/repository fetching. When a Node runner exists, lint **only changed maintained Markdown** with `npm run lint:markdown -- --files <changed-files...>`; reserve `npm run lint:markdown` and broad link scans for CI/release or separately requested audits. Report editorial checks and automated results independently; an unavailable runner means **not run**, never a silent pass.
 
 ## G. Later batch processing
 
