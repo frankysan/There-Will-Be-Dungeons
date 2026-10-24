@@ -2,7 +2,11 @@
 
 **Browse:** [Items and artifacts](../ITEMS_AND_ARTIFACTS.md) · [World portal](../README.md)
 
-**Canonical object identity:** **One artifact**, with owner-confirmed spelling **Eye of Groxl**. Processed ASR names `Grojil` and `Groxel` refer to **this same object**, including the E067 “god killer Grojil” phrase; they are not a second god/item. [D-028/D-034](../../project/DECISIONS.md). **Spoilers:** Through E118. **Research:** ASR-provisional mechanics and lore.
+**Canonical object identity:** **One artifact**, with owner-confirmed spelling **Eye of Groxl**. Processed ASR names `Grojil` and `Groxel` refer to **this same object**, including the E067 “god killer Grojil” phrase; they are not a second god/item. [D-028/D-034](../../project/DECISIONS.md). **Spoilers:** Through E124. **Research:** ASR-provisional mechanics and lore.
+
+## E124 — recognition by Malhya and ambiguous lore
+
+**The Eye remains in Vorel's chest**. When Malhya takes fish-scaled Vorel form, it cannot reproduce the Eye. Vorel senses its anger/desire to kill the visitor but an infinitesimal chance of success, then **permits Malhya to touch it**. The visitor recognizes **Groxl**, calls the being dangerous/feared by gods and asks if Vorel came to kill it. **`Grojil/Gergil/Grosjean` are variants of the same identity**, not new objects. **“The one he slew ... he is the very unmaker” (~01:01:47)** has an unresolved antecedent: do not invent a victim or independently certify that cosmology. **Malhya's debuff cure is a separate act**, not Eye removal, transfer or a new Eye attack. [E124](../../episodes/E124.md) · [Comparison](../../reports/E124_ASR_COMPARISON_2026-10-24.md), **ASR-provisional, no listening**.
 
 ## Physical history and demonstrated powers
 

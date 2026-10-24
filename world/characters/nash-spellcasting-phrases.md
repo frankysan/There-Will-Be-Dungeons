@@ -1,8 +1,12 @@
 # Nash Maggard — spellcasting phrases and rhymes
 
-**Character:** [Nash Maggard](nash-maggard.md), portrayed by **Scott**. **Continuity:** The Wastes. **Spoilers:** Selected Season 1 magic through **E111**, later evidence reviews **E114–E123** (including **E120's performed *Haste* rhyme**, and non-casting poems/retrospective memories), plus a marked section of later-season seeds. **Status:** Updated 2026-10-24; **ASR-provisional, not audio-verified or an exhaustive collection**. **Current backfill ceiling: S1E111.**
+**Character:** [Nash Maggard](nash-maggard.md), portrayed by **Scott**. **Continuity:** The Wastes. **Spoilers:** Selected Season 1 magic through **E111**, later evidence reviews **E114–E124** (including **E120's performed *Haste* rhyme**, and non-casting poems/retrospective memories), plus a marked section of later-season seeds. **Status:** Updated 2026-10-24; **ASR-provisional, not audio-verified or an exhaustive collection**. **Current backfill ceiling: S1E111.**
 
 Nash improvises strange phrases, rhymes and sometimes unfinished verses around his magic. This page collects the wording separately from his character history, following the provenance practice of [Vorel's title register](vorel-titles.md). In **E046 ~02:52:57–02:53:10**, Beau awards Nash inspiration for the effort he puts into his magical words ([Parakeet][046-p], cues 2797–2801; [Qwen][046-q], cues 4622–4629). That recognizes an existing habit; it does **not** establish E046 as its beginning.
+
+## E124 — no new Nash incantation located
+
+The **complete primary review** locates no new improvised Nash spellcasting words; **no NSP identifier added**. Fish-flake water breathing is a **shared ritual**, not Nash's spell. Stanley's Message/Prestidigitation, Lyrielle's musical/cleaning Prestidigitation, High Elf's summons and **the Voice's private claimed undoing phrase to Hope** belong to other actors. The phrase is **not performed by Hope or Nash**. Portal/sigil plans are not a new completed Nash teleport cast. Existing NSP entries remain unchanged. [E124](../../episodes/E124.md) · [Comparison](../../reports/E124_ASR_COMPARISON_2026-10-24.md), **ASR-provisional, no listening**.
 
 ## October 2020 bonus — no performed Nash incantation
 

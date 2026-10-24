@@ -1,6 +1,10 @@
 # Vorel — titles and epithets register
 
-**Type:** Source-indexed supporting register for [Vorel](vorel.md), deliberately separated from the main character biography. **Evidence:** ASR-provisional, with source windows, name variants and social standing preserved. **Spoilers:** Through E123; Q&As are retrospective, not played conferrals. [Characters](../CHARACTERS.md) · [World portal](../README.md).
+**Type:** Source-indexed supporting register for [Vorel](vorel.md), deliberately separated from the main character biography. **Evidence:** ASR-provisional, with source windows, name variants and social standing preserved. **Spoilers:** Through E124; Q&As are retrospective, not played conferrals. [Characters](../CHARACTERS.md) · [World portal](../README.md).
+
+## E124 — source audit of the Barosaurus and Diontalus epithets
+
+**~00:28:04–00:28:38, Kyle/Vorel formal self-recital:** **Keeper of Stories** repeats the E117 title. The existing E124 rows below are supported here as **Butcher of the Barosaurus** (`barrow saurus` / `Barosaurus`) and **Deceiver of the Cheater Diontalus** (`cheater dian tallus` / `Cheetah, Dian Talos`). **Self-claimed, not conferred**; earliest located episode for these latter two remains **S1E124**, without backdating. Vorel expressly **skips his earlier list**; do not reconstruct unheard titles. **Malhya's “great warrior”** is praise, not a new formal rank; kraken leaves without battle. [Parakeet](../../sources/The%20Wastes%20S1E124.%20Bow%20To%20The%20Fish%20Bird.parakeet.processed.srt), cues **428–435**; [Qwen](../../sources/The%20Wastes%20S1E124.%20Bow%20To%20The%20Fish%20Bird.qwen-q8.canary-ctc.nemotron.srt), cues **663–676**. Exact wording and contextual attribution remain provisional. [E124](../../episodes/E124.md) · [Comparison](../../reports/E124_ASR_COMPARISON_2026-10-24.md), **ASR-provisional, no listening**.
 
 ## October 2020 bonus — Vorel's title-list method, no new conferral
 

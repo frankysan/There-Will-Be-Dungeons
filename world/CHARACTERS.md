@@ -1,15 +1,15 @@
 # Characters and participants — The Wastes
 
-**Spoilers:** Main campaign through **E123** and separately identified Q&As. Profiles are **ASR-provisional** unless an individual claim is explicitly owner-confirmed or audio-verified. This is the *character directory*, not an episode-by-episode recap. For villains also see [Antagonists](ANTAGONISTS.md), for organizations [Factions and powers](FACTIONS_AND_POWERS.md), and for chronological changes [Campaign chronology](CHRONOLOGY.md).
+**Spoilers:** Main campaign through **E124** and separately identified Q&As. Profiles are **ASR-provisional** unless an individual claim is explicitly owner-confirmed or audio-verified. This is the *character directory*, not an episode-by-episode recap. For villains also see [Antagonists](ANTAGONISTS.md), for organizations [Factions and powers](FACTIONS_AND_POWERS.md), and for chronological changes [Campaign chronology](CHRONOLOGY.md).
 
 ## The original four protagonists
 
 | Character | Performer | Identity and latest context | Detailed profile |
 | --- | --- | --- | --- |
-| **Nash Maggard** | Scott | Survivor of the **Solar Mines**, bearer of dragon-engine heart; **E121 spectral mother apparition from his chest** | [Nash](characters/nash-maggard.md) · [His casting phrases](characters/nash-spellcasting-phrases.md) |
-| **Hope Akmenos** | Kristen | Mechanic, queen of Tietkalla, bearer of the **Hand of the Voice**; **alive but still trapped inside magic sphere E121** | [Hope](characters/hope-akmenos.md) |
-| **Stanley Billings** | Jon | Half-elf formerly unwilling host to **Diontalus**; acquires father's book E118 and **fights returned Diontalus E121, survives after dragon's healing** | [Stanley](characters/stanley-billings.md) · [Diontalus](characters/diontalus.md) |
-| **Vorel** | Kyle | Lizardfolk warrior, protector of Bok Bok and bearer of the **Eye of Groxl**; **E121 loses Omnom to Diontalus and witnesses dragon-heart apparition** | [Vorel](characters/vorel.md) · [Title register](characters/vorel-titles.md) |
+| **Nash Maggard** | Scott | Dragon-engine-heart bearer; **family reaches Elhandar core E124, Junior confirmed daughter** | [Nash](characters/nash-maggard.md) · [His casting phrases](characters/nash-spellcasting-phrases.md) |
+| **Hope Akmenos** | Kristen | Mechanic, queen and Hand bearer; **freed E122, privately refuses Voice's Diontalus-killing order E124** | [Hope](characters/hope-akmenos.md) |
+| **Stanley Billings** | Jon | Half-elf and former unwilling host; **cured E124, wins conditional accord with Diontalus, departure/aid still unshown** | [Stanley](characters/stanley-billings.md) · [Diontalus](characters/diontalus.md) |
+| **Vorel** | Kyle | Lizardfolk warrior and Eye of Groxl bearer; **Malhya cures debuffs E124**, self-recited titles kept separate from granted status | [Vorel](characters/vorel.md) · [Title register](characters/vorel-titles.md) |
 
 **Identity boundaries:** [Diontalus](characters/diontalus.md) has his own profile; **his intentions and acts are not Stanley's**. The former combined-page path `stanley-diontalus.md` now contains a short compatibility page linking to the distinct [Stanley](characters/stanley-billings.md) and [Diontalus](characters/diontalus.md) profiles. The Eye of Groxl is one owner-confirmed artifact, not a separate god called “Grojil.” At the **E081** cutoff the GM declares the four dead after the CHIDS sacrifice; **E082 and following episodes subsequently show them alive**. Hope's E101 departure ends Arc Four and begins Arc Five **within the same recording**. [E081](../episodes/E081.md) · [E082](../episodes/E082.md) · [E101](../episodes/E101.md).
 
@@ -33,7 +33,7 @@
 
 | Character | Role | Profile |
 | --- | --- | --- |
-| **Squirts** | Kristen's kobold companion; **killed by Carthax E111**, leaving Chunks alive | [Squirts](characters/squirts.md) |
+| **Squirts** | Kristen's kobold companion; **killed E111**, Chunks survives; E124 roster name conflicts, **no revival shown** | [Squirts](characters/squirts.md) |
 | **Nothing** | Sigil-linked adventurer whose independent engagements matter to the White Tower approach | [Nothing](characters/nothing.md) |
 | **Lyrielle / Liriel (?)** | Elhandari physician and caretaker around Angelashi and the Elhandar cottage | [Lyrielle](characters/lyrielle.md) |
 | **Steerious Business** | Minotaur member of Hope's separate group; owner-confirmed name, originally a pun | [Steerious](characters/steerious-business.md) |
@@ -47,6 +47,8 @@
 **Dunebreaker prequel:** **Hack Loman, Ramilda Gloryfaded (?) and Al** are the played guards in **E107–E109**, with **Strum** as NPC. Their adventure takes place **long before E001**, not as a continuation of the E106 present-day cliffhanger. [Dunebreaker](places/dunebreaker.md) · [E107](../episodes/E107.md)–[E109](../episodes/E109.md).
 
 ## Major opponents, rulers and contested witnesses
+
+**[Malhya / Fishbird](characters/malhya.md)** — witnessed lake-rite visitor E124, cures Stanley/Vorel; divine history remains attributed. **High Elf Amanthalodar (?)** — [Elhandar](places/elhandar.md) leader, historical witness and summoner of the E124 negotiation; exact name unverified.
 
 [The Principle / Vladimir](characters/the-principle.md) · [The Soulbroker](characters/soulbroker.md) · [Quizquaz](characters/quizquaz.md) · [Monsoon Cabbage](characters/monsoon-cabbage.md) · [Kefeli](characters/kefeli.md) · [Tylander Sullivan](characters/tylander-sullivan.md) · [General Carthax](characters/general-carthax.md) · [Cerinthala](characters/cerinthala.md) · [Tobacho Fleur](characters/tobacho-fleur.md) · [the hooded Voice](characters/the-voice.md) · [Alvert](characters/alvert.md) · [Charles Dickens](characters/charles-dickens.md). Their moral status, true identities and supernatural claims are not all equally established; see the [antagonist directory](ANTAGONISTS.md).
 

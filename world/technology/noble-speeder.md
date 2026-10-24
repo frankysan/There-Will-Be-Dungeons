@@ -1,6 +1,10 @@
 # Noble speeder — the Gatherers' Lodge vehicle
 
-**Continuity:** The Wastes, corrected **S1E123**, Arc Five. **Evidence:** Full primary ASR and selected secondary review, **not audio-verified**. [E123 dossier](../../episodes/E123.md) · [comparison](../../reports/E123_ASR_COMPARISON_2026-10-24.md) · [Elhandar](../places/elhandar.md) · [Items](../ITEMS_AND_ARTIFACTS.md).
+**Continuity:** The Wastes, corrected **S1E123–E124**, Arc Five. **Evidence:** Full primary ASR and selected secondary review, **not audio-verified**. [E123 dossier](../../episodes/E123.md) · [comparison](../../reports/E123_ASR_COMPARISON_2026-10-24.md) · [Elhandar](../places/elhandar.md) · [Items](../ITEMS_AND_ARTIFACTS.md).
+
+## E124 — villa return and vehicle left behind
+
+**Hope pilots the four from Harbor to Villa Ornath**, with Stanley behind, Vorel forward and Nash towed as before. Once the household packs, the group **deliberately leaves the speeder at the villa (~01:30:12)** and walks to Rainbow Road. **Latest custody/location: left at Villa Ornath**, not central reception or off station. No refueling, measured range, ownership transfer or return to lodge occurs. [E124](../../episodes/E124.md) · [Comparison](../../reports/E124_ASR_COMPARISON_2026-10-24.md), **ASR-provisional, no listening**.
 
 ## Identity and permission
 

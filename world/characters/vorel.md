@@ -1,6 +1,6 @@
 # Vorel
 
-**Portrayed by:** Kyle. **Identity:** Lizardfolk warrior and leader, protector of **Bok Bok**, bearer of the **Eye of Groxl** and claimant to many personal titles. **Spoilers:** Main Wastes through **E123** and cast Q&As. **Evidence:** ASR-provisional except owner-confirmed item/name orthography.
+**Portrayed by:** Kyle. **Identity:** Lizardfolk warrior and leader, protector of **Bok Bok**, bearer of the **Eye of Groxl** and claimant to many personal titles. **Spoilers:** Main Wastes through **E124** and cast Q&As. **Evidence:** ASR-provisional except owner-confirmed item/name orthography.
 
 **Browse:** [Characters](../CHARACTERS.md) · [His source-indexed titles](vorel-titles.md) · [Eye of Groxl](../technology/eye-of-groxl.md) · [World portal](../README.md).
 
@@ -74,7 +74,9 @@ Equipment at different cutoffs includes **Mawstorm**, skull helmet, **Eye of Gro
 
 **E123 — aspirational titles and persistent weakness:** Vorel melts chocolate with **Flame Soul** after making Nash swallow a bonbon. He imagines **“king of space”**, then **“king of the sun,”** with Nash's joking endorsement; these are **aspirations, not actual offices or solar powers**. He names the proposed sealing device **Ruby**, theorizes Nash=Principle and questions trust in elves, **without confirming either theory**. He studies the lodge's surveillance and helps watch overnight, sleeping under sofa cushions. **A completed long rest does not restore his reduced strength**. He rides **the speeder's forward poles**, reaches the Harbor and watches Stanley follow Emenil toward the lake while asking about a cure. [E123](../../episodes/E123.md) · [Title register](vorel-titles.md).
 
-**Latest played state:** **Alive at the Harbor E123, still weakened after long rest**, watching from Emenil's doorway at the lake cutoff. **No divine answer/restoration, radiant upgrade, new kingship, refugee evacuation or Ruby construction**; the natural heart remains buried. Omnom is not restored by the post-show tribute. [Consistency ledger](../CONSISTENCY_LEDGER.md) · [full frozen profile](../../research/legacy/2026-10-22/PROFILE_VOREL_BEFORE_2026-10-23.md).
+**E124 — self-recital, intercession and restoration:** Vorel repeats Keeper of Stories and the **Barosaurus/Cheater Diontalus epithets** in a formal self-introduction, skipping the earlier list. **No new royal grant or victory over the kraken** occurs. He intercedes for Stanley/Nash after Malhya banishes them. The visitor takes his fish-scaled shape, touches the **Eye of Groxl with permission**, warns of its dangerous bearer and **cures Vorel's Diontalus debuffs**, then Stanley's. The Eye's angry response is played; the unmaker antecedent remains uncertain. Ice/lightning aura and cooling plans remain unperformed. [E124](../../episodes/E124.md).
+
+**Latest played state:** **Alive and cured of prior debuffs in the High Elf's E124 chamber**, consenting reluctantly to the social encounter. Eye remains in chest; no radiant upgrade, kraken conquest, boot crafting or Ruby construction. Bok Bok travels with household; the repeated “Squirts” roster is unresolved against her death, not revival. Hope's private patron exchange is not his knowledge. [Consistency ledger](../CONSISTENCY_LEDGER.md) · [full frozen profile](../../research/legacy/2026-10-22/PROFILE_VOREL_BEFORE_2026-10-23.md).
 
 ## November 2020 bonus — shaken worldview and a proposed memorial
 

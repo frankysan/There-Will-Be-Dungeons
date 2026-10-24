@@ -2,6 +2,10 @@
 
 **Object:** Implanted **dragon-metal/mechanical heart engine** in Nash Maggard's body, connected to his earlier floating-heart survival, unusual black-dragon transformations and episodic magical reactions. **Latest direct inspection:** **E122**. [Items and artifacts](../ITEMS_AND_ARTIFACTS.md) · [Nash](../characters/nash-maggard.md) · [Chronology](../CHRONOLOGY.md).
 
+## E124 — an engineer lead, no construction
+
+**Malhya says the dragon's device of impossible geometry is needed** to address Earth's dragon blight/heat. It identifies no engineer by name: an alleged engineer is **currently hidden from gods in the Prime Material**, last near **`faerun/Favron` (?)**. Stanley is directed to the Elhandari leader/court; the subsequent audience instead resolves a Diontalus negotiation. **No blueprint, engineer located, natural-heart retrieval, Ruby construction or planetary cooling is performed**. The natural heart stays buried; Nash's implanted mechanical heart remains a separate object. [E124](../../episodes/E124.md) · [Comparison](../../reports/E124_ASR_COMPARISON_2026-10-24.md), **ASR-provisional, no listening**.
+
 ## Prior evidence and boundaries
 
 Nash's implanted heart and regeneration have long been observed and debated, but early experiences of **floating in fire** and claims involving **N4SH**, his origins and **Solar Mines** were not verified explanations of its manufacture. The father-of-Stanley **Book of Adjacencies** makes time-adjacency speculations, and neither it nor prior creator Q&A establishes the heart's complete provenance. [E082](../../episodes/E082.md) · [E118](../../episodes/E118.md) · [Book of Adjacencies](book-of-adjacencies.md).

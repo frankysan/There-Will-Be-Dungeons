@@ -14,6 +14,10 @@ In the Year One Q&A Beau reveals that Bok Bok's first appearance was an **improv
 
 **Evidence:** [E006](../../episodes/E006.md) · [E007](../../episodes/E007.md) · [E016](../../episodes/E016.md) · [E025](../../episodes/E025.md) · [E026](../../episodes/E026.md) · [E048](../../episodes/E048.md) · [E049](../../episodes/E049.md) · [E051](../../episodes/E051.md) · [E054](../../episodes/E054.md) · [Vorel](vorel.md) · [Q&A](../../episodes/BONUS-2019-03.md).
 
+## E124 — household travel and companion-name conflict
+
+**Bok Bok accompanies the gathered household from Villa Ornath to the central core** and remains with Lyrielle outside the four companions' audience. The repeated pairing **“Bok Bok and Squirts”** conflicts with her E111 death/E115 memorial; **no resurrection is performed** and the other small companion cannot safely be silently normalized to Chunks. Bok Bok's earlier care commitment is retained, without inventing a new transfer or restored Squirts. [E124](../../episodes/E124.md) · [Comparison](../../reports/E124_ASR_COMPARISON_2026-10-24.md), **ASR-provisional, no listening**.
+
 ## September 2020 bonus — influence and loose ranger mechanics
 
 In [BONUS-2020-09](../../episodes/BONUS-2020-09.md), **~00:10:52–00:11:26**, **Kyle retrospectively credits finding Bok Bok near Dusthill with far-reaching consequences**, including Vorel's Lizard King identity and possible downstream changes to Slavetown. This is player interpretation, not a precise first-title chronology. **~00:21:05–00:21:17:** **Beau calls Bok Bok's ranger class a loose experiment**, distinct from Vorel's earlier proposed squire training. The surrounding **Bok Boks-versus-Vorel fight is hypothetical**, with changing conditions and no settled outcome; it does not create clones, spend dynamite or confer new abilities. [Two-ASR comparison](../../reports/BONUS_2020_09_ASR_COMPARISON_2026-10-23.md), ASR-provisional, no audio listening.

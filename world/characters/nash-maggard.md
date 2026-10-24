@@ -1,6 +1,6 @@
 # Nash Maggard
 
-**Portrayed by:** Scott. **Identity:** Wasteland adventurer, spellcaster and bearer of an implanted **dragon-metal engine heart**, capable of black-dragon transformation. **Spoilers:** Played *Wastes* through E123 and retrospective cast Q&As. **Evidence:** Processed ASR and episode dossiers, not independent audio verification.
+**Portrayed by:** Scott. **Identity:** Wasteland adventurer, spellcaster and bearer of an implanted **dragon-metal engine heart**, capable of black-dragon transformation. **Spoilers:** Played *Wastes* through E124 and retrospective cast Q&As. **Evidence:** Processed ASR and episode dossiers, not independent audio verification.
 
 **Browse:** [Characters](../CHARACTERS.md) · [Solar Mines](../places/solar-mines.md) · [Spellcasting phrases](nash-spellcasting-phrases.md) · [World portal](../README.md).
 
@@ -68,7 +68,9 @@ The June/July 2020 Q&As distinguish Scott's creative origins for Nash's personal
 
 **E123 — candy expelled, memory questions and a return to the Harbor:** Nash spits one bonbon, **swallows a second and deliberately vomits it**; no curse is demonstrated. Opening maintenance adds his **trained baby-arm bonus-action feature**, not a newly grown limb or extra unrestricted spell. He tells companions his childhood memories are **fragmentary, unlike his continuous adventuring memories**; he rejects Vorel's **Nash=Principle theory**, which remains speculation. After a completed long rest he is **towed behind the noble speeder in an upper-body harness**, reaches the Harbor and is **magically untied by Nobieri**. Plans to relocate Angelashi/children and visit Planet Nash remain unperformed. **No new improvised Nash casting phrase located**. [E123](../../episodes/E123.md).
 
-**Latest played status:** **Alive at the Harbor E123, untied and rested**, with his implanted heart inside him. Emenil is entering the lake with Stanley following; Nash is not shown receiving divine guidance. **Family not moved, natural heart still buried, Ruby unbuilt**. The private Hope/Stanley conversation is not automatically his knowledge. [Review ledger](../CONSISTENCY_LEDGER.md) · [full historical profile](../../research/legacy/2026-10-22/PROFILE_NASH_MAGGARD_BEFORE_2026-10-23.md).
+**E124 — Fishbird, family and the core:** Nash joins the water-breathing rite, demands the vanished Stanley back and is **temporarily banished himself**, then restored. He did not hear the intervening dialogue. Back at the villa he reunites with Angelashi, then **carries Nash Junior and Boot as babies** during the household move; Angelashi takes Fork/Pipe as objects. **Junior is explicitly confirmed female/daughter (~01:32)**, following the bonus proposal, without rewriting E114's two-girls/two-boys count. **This differs from E115 ~01:51:19–01:51:35, which explicitly names the baby-form boy Nash Junior** (primary cues 1635–1639; secondary 2610–2624). Preserve the earlier assignment and later cast decision; **no in-story sex transformation is played**. [E115](../../episodes/E115.md). Nash consents to the summoned-Diontalus audience; Hope's private Voice exchange is not his knowledge. [E124](../../episodes/E124.md).
+
+**Latest played status:** **Alive in the High Elf's central chamber at E124 scene cut**; family with Lyrielle in reception, **still on Elhandar**. Implanted heart remains in him, natural heart buried, Ruby unbuilt. Diontalus's promised own-court return/aid **not shown fulfilled**. No new Nash incantation located. [Review ledger](../CONSISTENCY_LEDGER.md) · [full historical profile](../../research/legacy/2026-10-22/PROFILE_NASH_MAGGARD_BEFORE_2026-10-23.md).
 
 ## November 2020 bonus — responsibility, relationships and children
 

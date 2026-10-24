@@ -1,6 +1,6 @@
 # Items, artifacts and extraordinary technology
 
-**The Wastes · spoilers through E123.** Object-specific reference index; distinguishes physical possession, demonstrated effects, item descriptions, possible origins and proposed use. The dossiers are **ASR-provisional**, and a late-game inventory is not automatically valid for an earlier episode. [Portal](README.md) · [World technology](WORLD.md) · [Review ledger](CONSISTENCY_LEDGER.md).
+**The Wastes · spoilers through E124.** Object-specific reference index; distinguishes physical possession, demonstrated effects, item descriptions, possible origins and proposed use. The dossiers are **ASR-provisional**, and a late-game inventory is not automatically valid for an earlier episode. [Portal](README.md) · [World technology](WORLD.md) · [Review ledger](CONSISTENCY_LEDGER.md).
 
 ## Story-defining objects
 
@@ -17,7 +17,7 @@
 
 ## Other significant possessions
 
-**[Noble speeder](technology/noble-speeder.md)** — wooden repulsor vehicle borrowed from the Gatherers' Lodge E123; Hope pilots the four to the Harbor, **Nash towed**. Fuel/range/ownership unverified. Proposed sealing device **Ruby** remains unbuilt; [two hearts](technology/nash-dragon-heart.md).
+**[Noble speeder](technology/noble-speeder.md)** — borrowed wooden repulsor vehicle; Hope pilots the four to Harbor E123 and villa E124, **Nash towed**, then **vehicle left at Villa Ornath**. Fuel/range/ownership unverified. **Ruby unbuilt**, with unnamed engineer lead; [two hearts](technology/nash-dragon-heart.md). **[Eye of Groxl](technology/eye-of-groxl.md)** remains in Vorel's chest after Malhya's E124 touch; unmaker antecedent unresolved.
 
 | Item | Follow-up location |
 | --- | --- |

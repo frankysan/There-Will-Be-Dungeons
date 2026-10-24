@@ -2,6 +2,10 @@
 
 > **The Wastes · Arc Five · actually named in [E117 — The Fireside Stories](../../episodes/E117.md) (~02:11–02:15).** [Complete Parakeet/Qwen comparison](../../reports/E117_ASR_COMPARISON_2026-10-23.md). Source transcripts inspected fully; **no audio heard**, proper names/participant count provisional. **Do not conflate this place with Sigil's harbor or Tietkalla's original capital.**
 
+## E124 — shared lake encounter, refugees retain their home
+
+All four join **Emenil's fish-flake rite**, breathe water and share a transition/encounter with **Malhya**, who explicitly cures Stanley/Vorel's debuffs. They return to the lake; **Emenil remains below but answers Stanley alive**. **Nobieri gives Hope a cellstone** and affirms the refugees' ability to fight beside their queen. **Residents stay**; only the four ride onward to Villa Ornath and later gather that household for the core. No refugee evacuation, restored Earth waters, performed mushroom expedition or new romance. [E124](../../episodes/E124.md) · [Comparison](../../reports/E124_ASR_COMPARISON_2026-10-24.md), **ASR-provisional, no listening**.
+
 ## Location and founding
 
 A **small cluster of approximately eight wooden cottages around a central well/clearing**, reached by about **ten minutes of forest walking** from the main party's lakeside cottage, **inside Elhandar's orbital forest biodome**. [E115](../../episodes/E115.md)'s **Nobieri report** identified tiefling refugees across the clearing; **E117 actually brings Hope, Nash, Stanley, Vorel and Chunks** to the residents and **physically confirms Nobieri and Emenil among them**. The GM estimates **roughly a dozen to two dozen inhabitants** and later narrates about **seventeen** participating survivors. These are **rough encounter counts**, not an official census, nor proof that all Tietkalla's missing people died.

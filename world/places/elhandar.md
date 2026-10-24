@@ -1,6 +1,10 @@
 # Elhandar — elven space station and forest biodome
 
-**Spelling:** Elhandar is the established archive working form; E115 ASR also gives **Elhendar / Elendar / Elhanda**. **Continuity:** The Wastes, main-party Arc Five. **First researched physical arrival:** [E115](../../episodes/E115.md), ~00:30–00:39, following E111's rescue and E114's interrupted voyage. Earlier references do not constitute earlier visits. **Spoilers:** Through E123; **ASR-provisional, not audio-verified**.
+**Spelling:** Elhandar is the established archive working form; E115 ASR also gives **Elhendar / Elendar / Elhanda**. **Continuity:** The Wastes, main-party Arc Five. **First researched physical arrival:** [E115](../../episodes/E115.md), ~00:30–00:39, following E111's rescue and E114's interrupted voyage. Earlier references do not constitute earlier visits. **Spoilers:** Through E124; **ASR-provisional, not audio-verified**.
+
+## E124 — core audience and an accord still to be fulfilled
+
+**The Harbor rite produces a shared Malhya encounter and explicit cure of Stanley/Vorel's debuffs**. The four return to Villa Ornath, pack the household and **leave the speeder there**; a **four-hour walk and Rainbow Road** bring them to the central core (**Cadulet/Cadulate/Cadgilet**, uncertain). **Lyrielle and family stay in reception**, four enter audience. High Elf **Amanthalodar/Amantha Lodar/Amenthalodar (?)** recounts Elhandari/human imprisonment of Diontalus and archfey/royal-court beliefs: **testimony, not newly played history**. He actually **summons ghost-form Diontalus**. Stanley negotiates **own-court Feywild return, a future audience and promised aid**, with a threat against the station if he fails to come/dies. **No physical departure or delivered aid is shown**. High Elf's delay warning is Stanley-only; Voice's kill/undoing-phrase exchange is Hope-only. **Household remains on station**, refugees at Harbor; no sigil acquisition or Ruby completion. [E124](../../episodes/E124.md) · [Comparison](../../reports/E124_ASR_COMPARISON_2026-10-24.md), **ASR-provisional, no listening**.
 
 ## E123 — lodge rest and the Harbor lake
 

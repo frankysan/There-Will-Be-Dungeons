@@ -2,7 +2,11 @@
 
 **Browse:** [Characters](../CHARACTERS.md) · [World portal](../README.md)
 
-**Identity:** Elder tiefling scholar and political intermediary. His name is transcribed as `Nobiery`, `Nobieri`, and sometimes `Riddle Nobieri`; the exact spelling and some titles await listening/written-source review. **Spoilers:** Through E123. **Evidence:** Processed ASR, not independent audio verification.
+**Identity:** Elder tiefling scholar and political intermediary. His name is transcribed as `Nobiery`, `Nobieri`, and sometimes `Riddle Nobieri`; the exact spelling and some titles await listening/written-source review. **Spoilers:** Through E124. **Evidence:** Processed ASR, not independent audio verification.
+
+## E124 — cellstone and refugees staying
+
+After the party's lake encounter, **Nobieri gives Hope a cellstone** and hears a group account. He affirms the refugees can fight and stand beside their queen; **they remain at the Harbor**, and he returns to his study. His E123 limited mushroom investigation **is not shown departing or returning**. No extra mushrooms or heart custody acquired; he does not accompany the household to the core. [E124](../../episodes/E124.md) · [Comparison](../../reports/E124_ASR_COMPARISON_2026-10-24.md), **ASR-provisional, no listening**.
 
 ## Ancient claims and first appearance
 

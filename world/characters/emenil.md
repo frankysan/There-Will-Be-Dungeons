@@ -1,6 +1,6 @@
 # Emenil / Eminel — Tidebearer priestess
 
-**Name:** `Emenil/Eminel` is provisional ASR; final spelling not listened or author-confirmed. **Status:** **Directly seen alive through E123 at the Elhandar tiefling refuge**, after a survival report in E115. **Scope:** played E055–E059, E103, E117 and E123, with E115 report kept distinct.
+**Name:** `Emenil/Eminel` is provisional ASR; final spelling not listened or author-confirmed. **Status:** **Directly seen alive through E124 at the Elhandar tiefling refuge**, after a survival report in E115. **Scope:** played E055–E059, E103, E117, E123 and E124, with E115 report kept distinct.
 
 This priestess of the **Tidebearers** at the rebuilt Tietkalla **Fishbird/Malhya church** mentors **Stanley** in magical practice and beliefs concerning the **savior gods** opposed to the Weirlords. In [E056](../../episodes/E056.md) she responds to his plea and uses **Greater Restoration** and diamond dust to reverse **Vorel's ghost-inflicted aging**, then learns of **Hope and Nobiery's concealed demonic bargains**. She is horrified and says the citizens deserve to know. **Nobiery commands undead “47 Carnage” and “Theresa” to attack her** at the cliffhanger.
 
@@ -15,6 +15,10 @@ She is **alive at the E058 royal audience**, and in [E059](../../episodes/E059.m
 **E117 — direct survivor, love declaration and shrine destroyed:** In [E117](../../episodes/E117.md) **Emenil actually attends the new Harbor community's council and fire/ash ceremony at Elhandar**, confirming Nobieri's E115 survival report. She sits near Stanley, watches **a flaming figure calling itself Abegir (?)** emerge from Nobieri's rite and tells the circle of her **Malhaya/Tidebearer faith** and prayer during Tietkalla's disaster. She advocates **water for all** as the foundation of peace; **no water miracle is performed**. After Hope formally names the community **the Harbor**, Emenil **invites Stanley to her cottage and expressly confesses that she loves him**. He says his survival is important to her and vice versa but **cannot return the love or begin a romance while disoriented about his identity**. After he leaves, he hears a crash; on a **Perception 29**, the GM confirms that **she smashed her Malhaya altar/statue and offering bowls**. **He does not witness the act directly or reenter**. The destruction establishes an emotional reaction, **not that Malhaya lost divinity or that Emenil has publicly converted faiths**. [ASR comparison](../../reports/E117_ASR_COMPARISON_2026-10-23.md). Name spelling still provisional.
 
 **Review:** exact spelling, order of healing/scene prompts, whether she speaks for all Tidebearers, future reaction to diplomatic Steel God worship. [Stanley](stanley-billings.md) · [Tietkalla](../places/tietkalla.md) · [review queue](../../project/REVIEW_QUEUE.md).
+
+## E124 — first rite, petition and time beneath the lake
+
+**Emenil actually leads all four through fish-flake ingestion, water breathing and a shared endless-water encounter**. She admits this is her **first performance**, recounting her late husband **Lelu/Leilu/Lelou/Lilu (?)**, reverend killed under vampire persecution, as the source of flakes/instructions. **History is her testimony**. She is frightened by the kraken, then delighted by winged **Malhya**, petitions for Stanley/Vorel and witnesses their **explicit cure**. All return to Harbor lake. **She stays underwater but answers Stanley's Message alive**, asking for time and saying she will be fine. No resurrection, romance or renounced faith is established. [E124](../../episodes/E124.md) · [Comparison](../../reports/E124_ASR_COMPARISON_2026-10-24.md), **ASR-provisional, no listening**.
 
 ## E123 — warning heard, refuge defended and lake communion begun
 

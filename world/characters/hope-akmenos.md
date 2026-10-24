@@ -1,6 +1,6 @@
 # Hope Akmenos
 
-**Also reported as:** Oriphi “Hope” Akmenos (fan-wiki form; spoken orthography unverified). **Portrayed by:** Kristen. **Identity:** Tiefling engineer, adventurer, **Queen of Tietkalla** and later bearer of the living **Hand of the Voice**. **Spoilers:** Through E123 and retrospective cast Q&As. **Evidence:** Source-linked processed ASR; individual claims not audio-verified unless specified.
+**Also reported as:** Oriphi “Hope” Akmenos (fan-wiki form; spoken orthography unverified). **Portrayed by:** Kristen. **Identity:** Tiefling engineer, adventurer, **Queen of Tietkalla** and later bearer of the living **Hand of the Voice**. **Spoilers:** Through E124 and retrospective cast Q&As. **Evidence:** Source-linked processed ASR; individual claims not audio-verified unless specified.
 
 **Browse:** [Characters](../CHARACTERS.md) · [Tietkalla](../places/tietkalla.md) · [Hand of the Voice](../technology/hand-of-the-voice.md) · [World portal](../README.md).
 
@@ -72,7 +72,9 @@ Hope's major items include her changing **mechanical/organic limbs**, vanished *
 
 **E123 — reconciliation, piloting and the Harbor decision:** Hope privately tells Stanley that the Hand's forgotten/dead god speaks to her and **she believes removal would kill her**, then offers an **unperformed blood-cost use of a travel ring** to find his father. Stanley apologizes; she recounts bereavement and survival, with a connection-lagged passage **repeated rather than a second event**. She **crashes the noble speeder on first activation**, then successfully tests it with Stanley and **pilots all four back to the Harbor**, towing Nash. She **hands mushrooms to Nobieri**, breaks a finger while trying to untie Nash and has it **mended without HP restoration**. She gives cave directions/permission for a small inquiry; no outcome yet. After Emenil objects to evacuation, **Hope agrees the refugees should keep their home** and supports Stanley seeking Fishbird guidance. [E123](../../episodes/E123.md).
 
-**Latest played status:** **Alive at the Harbor E123, Hand attached, finger repaired but no HP restored by that prayer**. A completed long rest preceded the finger injury. **Mushrooms delivered; refugee evacuation rejected; Eye unrecovered; no ring activation or family relocation**. Stanley/Emenil approach communion; its outcome is unplayed. [Consistency ledger](../CONSISTENCY_LEDGER.md) · [full historical profile](../../research/legacy/2026-10-22/PROFILE_HOPE_AKMENOS_BEFORE_2026-10-23.md).
+**E124 — a private refusal during a public negotiation:** Hope joins the lake rite and sees Malhya cure Stanley/Vorel. Nobieri **gives her a cellstone**. She pilots the speeder to the villa, then the household leaves it there and reaches the core by foot/Rainbow Road. **Alone in a headphone-separated scene (~02:15–02:18)** she twice refuses the Voice's command to kill Diontalus and take his essence. It gives her an uncertain supposed **undoing phrase**, **not spoken to the target or tested**. Stanley's later accord is a separate shared negotiation; its aid/departure remain promises. [E124](../../episodes/E124.md).
+
+**Latest played status:** **Alive in the High Elf's E124 chamber**, Hand attached; **private phrase received but unused**, no divine essence absorbed. Cellstone newly received; refugees stay Harbor, household in reception, no station departure, Eye recovery or blood-cost ring activation. [Consistency ledger](../CONSISTENCY_LEDGER.md) · [full historical profile](../../research/legacy/2026-10-22/PROFILE_HOPE_AKMENOS_BEFORE_2026-10-23.md).
 
 ## November 2020 bonus — family and anticipated death, retrospective
 

@@ -2,7 +2,11 @@
 
 **Browse:** [Characters](../CHARACTERS.md) · [Antagonists](../ANTAGONISTS.md) · [World portal](../README.md)
 
-**Name/identity:** “The Voice” or hooded interlocutor are descriptive labels. **Do not assert a verified personal name or cosmological identity** from the speaker's claims alone. **Spoilers:** Through E118. **Evidence:** Episode dossiers based on processed ASR.
+## E124 — refused killing order and untested key
+
+**~02:15:13–02:17:52, Hope-only:** while the others remove headphones, the hooded Voice orders **kill Diontalus/take his power**. **Hope refuses twice**. It nevertheless gives a supposed undoing key, **`care laundry me he jaju my heistita` / `Care, laundry, meji, jajul, my histita` (?)**, claiming every archfey has such a phrase. **Exact words/meaning require listening; Hope neither speaks them to Diontalus nor kills him/absorbs essence**. The mechanism is a patron claim, not a universal demonstrated rule. Stanley, Nash and Vorel are not automatically informed. [E124](../../episodes/E124.md) · [Comparison](../../reports/E124_ASR_COMPARISON_2026-10-24.md), **ASR-provisional, no listening**.
+
+**Name/identity:** “The Voice” or hooded interlocutor are descriptive labels. **Do not assert a verified personal name or cosmological identity** from the speaker's claims alone. **Spoilers:** Through E124. **Evidence:** Episode dossiers based on processed ASR.
 
 The hooded figure becomes central to Hope's predicament around the **White Tower**, the separated **Zorander's Fist gauntlet** and the **living Hand of the Voice**. In **E101 Hope deliberately replaces her own severed hand with the Hand**, leading to a physical alteration and the final separation of her path from Nash, Stanley and Vorel within that same episode. The patron offers instructions and shows apparent power, but its plans are often learned through **Hope's private conversations**; they are not automatically public party knowledge. [E101](../../episodes/E101.md) · [Hope](hope-akmenos.md).
 

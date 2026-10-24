@@ -1,6 +1,6 @@
 # Angelashi
 
-**Name status:** **Angelashi** is used as a working display spelling based on cast-shared recap forms; **Angel Ashi** appears in episode ASR, and the **word division remains unresolved**, unlike the accepted spelling **Diontalus**. **Identity:** Changeling who presents as an elven singer (revealed E114), and an important companion of Nash. **Arc Two status:** **Alive and freed in E054**. **Spoilers:** Played E035–E115, plus separately framed November 2020 creator discussion below.
+**Name status:** **Angelashi** is used as a working display spelling based on cast-shared recap forms; **Angel Ashi** appears in episode ASR, and the **word division remains unresolved**, unlike the accepted spelling **Diontalus**. **Identity:** Changeling who presents as an elven singer (revealed E114), and an important companion of Nash. **Arc Two status:** **Alive and freed in E054**. **Spoilers:** Played E035–E124, plus separately framed November 2020 creator discussion below.
 
 Angelashi is introduced as a performer at the **Golden Gargoyle** in Trashburg, drawing Nash's interest. She travels with him after the club's violence and later speaks privately about her past, including elven/refugee experiences, travel hopes and her magic. Some of those details are **her own account**, not independent confirmation of an ancient itinerary. She uses temporary flower/plant magic around Nash, and the two develop an intimate relationship.
 
@@ -9,6 +9,10 @@ She disappears during the worsening conflict with the keep. In E048 **Tedna repo
 Her future travel, health and place in the new Tietkalla government are not decided merely by their reunion. The Q&A mentions Nash's emotional stakes and plans without adding scenes of Angelashi's life after E054.
 
 **Primary sources:** [E035](../../episodes/E035.md) · [E036](../../episodes/E036.md) · [E037](../../episodes/E037.md) · [E048](../../episodes/E048.md) · [E049](../../episodes/E049.md) · [E054](../../episodes/E054.md) · [Nash](nash-maggard.md) · [Tedna](tedna.md) · [spelling evidence](../../reports/DISCORD_SPELLING_2026-10-21.md).
+
+## E124 — household moves and Junior confirmed
+
+**Angelashi and all four children leave Villa Ornath and reach the station core reception with Lyrielle**, after packing and a four-hour walk/Rainbow Road journey. **Speeder stays at villa**. She makes paired carriers adaptable to baby/object forms; **Nash carries Junior and Boot as babies, Angelashi Fork and Pipe as objects**. **~01:32:06–01:32:25 explicitly confirms Nash Junior female and daughter**, strengthening the November bonus's provisional assignment. Preserve **E114's two-girls/two-boys statement** and leave remaining individual birth-form/name mapping open. **This differs from E115 ~01:51:19–01:51:35, which explicitly names the baby-form boy Nash Junior** (primary cues 1635–1639; secondary 2610–2624). Preserve the earlier assignment and later cast decision; **no in-story sex transformation is played**. [E115](../../episodes/E115.md). She stays outside the private four-person audience; no off-station move or automatic audience knowledge. [E124](../../episodes/E124.md) · [Comparison](../../reports/E124_ASR_COMPARISON_2026-10-24.md), **ASR-provisional, no listening**.
 
 ## E115 — a home, reconciliation and agreed names
 

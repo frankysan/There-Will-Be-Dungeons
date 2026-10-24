@@ -1,8 +1,12 @@
 # Diontalus — self-described archfey of carnage
 
-**Identity:** A supernatural agent who **forcibly joins Stanley Billings in E029**, exercises independent control of the shared body, and is **physically extracted into a crystal by the Principle in E059**. **Spelling:** *Diontalus* is the owner-accepted canonical display ([D-026](../../project/DECISIONS.md)); `Dion Talus`, `Deontalus`, `Diantalus` and `Diontalis` are ASR variants, not separate entities. **Spoilers:** Through E121 and retrospective bonuses. **Evidence:** Episode dossiers based on processed ASR, not audio verification.
+**Identity:** A supernatural agent who **forcibly joins Stanley Billings in E029**, exercises independent control of the shared body, and is **physically extracted into a crystal by the Principle in E059**. **Spelling:** *Diontalus* is the owner-accepted canonical display ([D-026](../../project/DECISIONS.md)); `Dion Talus`, `Deontalus`, `Diantalus` and `Diontalis` are ASR variants, not separate entities. **Spoilers:** Through E124 and retrospective bonuses. **Evidence:** Episode dossiers based on processed ASR, not audio verification.
 
 **Browse:** [Characters](../CHARACTERS.md) · [Antagonists](../ANTAGONISTS.md) · [Stanley Billings](stanley-billings.md) · [World portal](../README.md).
+
+## E124 — summoned interlocutor and conditional accord
+
+**Malhya cures Stanley/Vorel's earlier debuffs**. Later the High Elf **summons Diontalus in ghost form**. His account of Elhandari/human imprisonment, archfey theology and decay-induced madness remains **the High Elf's testimony**. Stanley wins successive persuasion contests; Diontalus asks him to return as his chosen and speak to his father, warning he would not come back. **Final Persuasion 29 instead secures agreement to return now to his own Feywild court, not the royal court, and await Stanley**. He threatens Elhandar's elves if Stanley fails to come/dies. Stanley accepts and asks aid against the Principle; **Diontalus answers yes**. **No physical departure, delivered aid, royal judgment, soul-claim discharge or proved absence of other hosts is depicted at cut**. Hope privately refuses a Voice demand to kill him; she does not test its claimed undoing phrase. [E124](../../episodes/E124.md) · [Comparison](../../reports/E124_ASR_COMPARISON_2026-10-24.md), **ASR-provisional, no listening**.
 
 ## Origin and intrusion — E029–E034
 

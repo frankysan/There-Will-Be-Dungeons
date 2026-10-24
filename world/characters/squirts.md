@@ -1,6 +1,10 @@
 # Squirts — kobold trickster (Arcs Four–Five)
 
-> **First appearance:** [E082](../../episodes/E082.md), unnamed kobold at the Soggy Feather. **Identified and developed:** [E083](../../episodes/E083.md), [processed Parakeet SRT](../../sources/The%20Wastes%20S1E083.%20Trash%20Monkey%20and%20The%20Bird.parakeet.processed.srt). **Kristen's new character**, **not** a reincarnated Hope. This profile is **ASR-based, not audio-verified**; contains spoilers through E115; earlier sections retain their episode-era cutoffs.
+> **First appearance:** [E082](../../episodes/E082.md), unnamed kobold at the Soggy Feather. **Identified and developed:** [E083](../../episodes/E083.md), [processed Parakeet SRT](../../sources/The%20Wastes%20S1E083.%20Trash%20Monkey%20and%20The%20Bird.parakeet.processed.srt). **Kristen's new character**, **not** a reincarnated Hope. This profile is **ASR-based, not audio-verified**; contains spoilers through E124; earlier sections retain their episode-era cutoffs.
+
+## E124 — unresolved roster conflict, no resurrection
+
+**Both exports repeatedly say “Bok Bok and Squirts”** while assembling the household at Villa Ornath, in the rapid lift and at central reception (~01:26–01:28; ~01:42–01:45). **E111's explicit disintegration and E115 memorial remain played outcomes**; Chunks was the living child. **No revival, reversed death or explicit naming correction occurs in E124**. Preserve a possible GM/ASR/name lapse as unresolved; do not silently replace Squirts with Chunks or claim she survived. Outro “baby Chunks” is a credit, not an in-scene clarification. [E124](../../episodes/E124.md) · [Comparison](../../reports/E124_ASR_COMPARISON_2026-10-24.md), **ASR-provisional, no listening**.
 
 ## September 2020 bonus — unused inspiration, no revised death
 

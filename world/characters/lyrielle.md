@@ -4,6 +4,10 @@
 
 Lyrielle is an **elf doctor aboard the Elhandari rescue spacecraft** carrying the survivors from Tietkalla. Kristen describes golden hair, pale skin, green eyes, an off-white peasant-style dress, a small waist satchel, a white mink companion with red eyes, and a crystal rose necklace. **She is a newly introduced character**, not Squirts resurrected or Hope returning to this party.
 
+## E124 — guide to the core and reception caretaker
+
+**Lyrielle agrees to accompany the packed household**, hearing a limited confidential warning about danger, **not every Diontalus detail**. She guides the four, Angelashi, children and accompanying small companions through **Rainbow Road to the central core**, plays **Prestidigitation harp music** to soothe Vorel in the lift and cleans the resulting vomit with Stanley. **She remains in reception with the household while only the four enter the High Elf's chamber**. The roster repeatedly calls one small companion “Squirts”; this does not make Lyrielle a resurrected Squirts or resolve the Chunks/name conflict. [E124](../../episodes/E124.md) · [Comparison](../../reports/E124_ASR_COMPARISON_2026-10-24.md), **ASR-provisional, no listening**.
+
 ## September 2020 bonus — princess, wizard and name inspiration
 
 **Kristen's retrospective creator account** in [BONUS-2020-09](../../episodes/BONUS-2020-09.md), **~00:07:19–00:09:08**, describes developing a **Disney-princess-style wizard who reads many books**, leaving open whether she actually lived the classic princess stories. At **~00:34:09–00:34:40**, Kristen attributes the name to a book series, recognized as **`Sabriel / liriel`** or **`Sabriel, Lyriel, and Horison`**, and to **Ariel / The Little Mermaid**. This supports **authorship and concept**, not a verified full character sheet, literary-title spelling or the truth of Lyrielle's mermaid memories. The existing display name stays provisional. Scott's later **`red` / `rad`** recognition difference is praise context, not new appearance evidence. [Comparison](../../reports/BONUS_2020_09_ASR_COMPARISON_2026-10-23.md); **no audio listening**.
