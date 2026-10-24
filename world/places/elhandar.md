@@ -1,6 +1,12 @@
 # Elhandar — elven space station and forest biodome
 
-**Spelling:** Elhandar is the established archive working form; E115 ASR also gives **Elhendar / Elendar / Elhanda**. **Continuity:** The Wastes, main-party Arc Five. **First researched physical arrival:** [E115](../../episodes/E115.md), ~00:30–00:39, following E111's rescue and E114's interrupted voyage. Earlier references do not constitute earlier visits. **Spoilers:** Through E119; **ASR-provisional, not audio-verified**.
+**Spelling:** Elhandar is the established archive working form; E115 ASR also gives **Elhendar / Elendar / Elhanda**. **Continuity:** The Wastes, main-party Arc Five. **First researched physical arrival:** [E115](../../episodes/E115.md), ~00:30–00:39, following E111's rescue and E114's interrupted voyage. Earlier references do not constitute earlier visits. **Spoilers:** Through E120; **ASR-provisional, not audio-verified**.
+
+## E120 — Chester slain, illusion-deer ambush, mountain fungus
+
+At [E120](../../episodes/E120.md) the **reported bearsaurus Chester is actually seen**, standing upright as a giant antlered, partly reptilian bear. **Stanley turns into a T. rex**, the party mauls Chester and **Hope pulls it from a tree by its entrails**; the fall **kills Chester** but traps Hope alive until **Vorel lifts the carcass**. **Chester's existence and death are witnessed**, although Dilo's tale of his laboratory origins is still uncorroborated.
+
+Afterward **six allegedly grateful talking deer prove to be six disguised hostile elves**, revealed by Stanley's ***Dispel Magic***; they attack and are **killed**, but **Dilo collaborates with them**, seizes a wand controlling **a floating sphere imprisoning Hope** and runs her to a **northern mountain cave**. The attack **does not establish that Elhandar's ordinary talking squirrels were also disguised**. The pursuers locate the cave, find glowing mushrooms, and **Nash eats a luminous sample, developing a mouth-beam of light**. Hope remains **alive captive elsewhere in the cave** at cutoff; no identified captor faction, station-wide attack, lab proof or settled fate of Diontalus. [Full comparison](../../reports/E120_ASR_COMPARISON_2026-10-24.md).
 
 ## E119 — a real hunt, old biogenetics claims and unburnt forest
 

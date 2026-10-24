@@ -1,6 +1,6 @@
 # Items, artifacts and extraordinary technology
 
-**The Wastes · spoilers through E119.** Object-specific reference index; distinguishes physical possession, demonstrated effects, item descriptions, possible origins and proposed use. The dossiers are **ASR-provisional**, and a late-game inventory is not automatically valid for an earlier episode. [Portal](README.md) · [World technology](WORLD.md) · [Review ledger](CONSISTENCY_LEDGER.md).
+**The Wastes · spoilers through E120.** Object-specific reference index; distinguishes physical possession, demonstrated effects, item descriptions, possible origins and proposed use. The dossiers are **ASR-provisional**, and a late-game inventory is not automatically valid for an earlier episode. [Portal](README.md) · [World technology](WORLD.md) · [Review ledger](CONSISTENCY_LEDGER.md).
 
 ## Story-defining objects
 

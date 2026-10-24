@@ -1,6 +1,10 @@
 # Vorel — titles and epithets register
 
-**Type:** Source-indexed supporting register for [Vorel](vorel.md), deliberately separated from the main character biography. **Evidence:** ASR-provisional, with source windows, name variants and social standing preserved. **Spoilers:** Through E119; Q&As are retrospective, not played conferrals. [Characters](../CHARACTERS.md) · [World portal](../README.md).
+**Type:** Source-indexed supporting register for [Vorel](vorel.md), deliberately separated from the main character biography. **Evidence:** ASR-provisional, with source windows, name variants and social standing preserved. **Spoilers:** Through E120; Q&As are retrospective, not played conferrals. [Characters](../CHARACTERS.md) · [World portal](../README.md).
+
+## E120 — Omnom's renewed recognition of Great Fang
+
+At **~01:00–01:03**, **Omnom**, seeing Vorel's role in **Chester's actual death** and his companions' powerful teamwork, **explicitly reaffirms Vorel as “the Great Fang”** and says any question that Omnom himself might deserve the title has been settled in Vorel's favor. **This is a substantive change in Omnom's stated recognition/loyalty, not a newly coined title, second coronation, or a rank bestowed by Elhandar.** The earlier title remains in the existing register; there is **no new distinct self-awarded title wording** in E120. [E120](../../episodes/E120.md) · [full two-ASR report](../../reports/E120_ASR_COMPARISON_2026-10-24.md), **text-only, not listened**.
 
 ## E119 — continuing use of earlier titles
 

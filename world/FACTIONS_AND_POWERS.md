@@ -1,6 +1,6 @@
 # Factions, institutions and supernatural powers
 
-**The Wastes · spoilers through E119.** Organizations and supernatural claimants are indexed here separately from people, places and possessions. Descriptions indicate *observed actions* or *attributed claims* rather than automatically certifying lore. Research is based on provisional processed transcripts. [Portal](README.md) · [Antagonists](ANTAGONISTS.md) · [World themes](WORLD.md).
+**The Wastes · spoilers through E120.** Organizations and supernatural claimants are indexed here separately from people, places and possessions. Descriptions indicate *observed actions* or *attributed claims* rather than automatically certifying lore. Research is based on provisional processed transcripts. [Portal](README.md) · [Antagonists](ANTAGONISTS.md) · [World themes](WORLD.md).
 
 | Faction or power | What is established or alleged | Sources |
 | --- | --- | --- |

@@ -1,6 +1,6 @@
 # Characters and participants — The Wastes
 
-**Spoilers:** Main campaign through **E119** and separately identified Q&As. Profiles are **ASR-provisional** unless an individual claim is explicitly owner-confirmed or audio-verified. This is the *character directory*, not an episode-by-episode recap. For villains also see [Antagonists](ANTAGONISTS.md), for organizations [Factions and powers](FACTIONS_AND_POWERS.md), and for chronological changes [Campaign chronology](CHRONOLOGY.md).
+**Spoilers:** Main campaign through **E120** and separately identified Q&As. Profiles are **ASR-provisional** unless an individual claim is explicitly owner-confirmed or audio-verified. This is the *character directory*, not an episode-by-episode recap. For villains also see [Antagonists](ANTAGONISTS.md), for organizations [Factions and powers](FACTIONS_AND_POWERS.md), and for chronological changes [Campaign chronology](CHRONOLOGY.md).
 
 ## The original four protagonists
 
@@ -8,8 +8,8 @@
 | --- | --- | --- | --- |
 | **Nash Maggard** | Scott | Survivor of the **Solar Mines**, bearer of a dragon-metal heart, later reunited with Angelashi and Hope at **Elhandar** | [Nash](characters/nash-maggard.md) · [His casting phrases](characters/nash-spellcasting-phrases.md) |
 | **Hope Akmenos** | Kristen | Mechanic, queen of Tietkalla, bearer of the **Hand of the Voice**; leaves the party inside E101 and physically reunites with the others by E117 | [Hope](characters/hope-akmenos.md) |
-| **Stanley Billings** | Jon | Half-elf formerly unwilling host to **Diontalus**; acquires father's book E118 and **extinguishes the fish fire E119** | [Stanley](characters/stanley-billings.md) · [Diontalus](characters/diontalus.md) |
-| **Vorel** | Kyle | Lizardfolk warrior, protector of Bok Bok and bearer of the **Eye of Groxl**; leads a northern Elhandar hunt with Omnom E119 | [Vorel](characters/vorel.md) · [Title register](characters/vorel-titles.md) |
+| **Stanley Billings** | Jon | Half-elf formerly unwilling host to **Diontalus**; acquires father's book E118 and **defeats Chester in T. rex form and tracks Dilo as eagle E120** | [Stanley](characters/stanley-billings.md) · [Diontalus](characters/diontalus.md) |
+| **Vorel** | Kyle | Lizardfolk warrior, protector of Bok Bok and bearer of the **Eye of Groxl**; lifts slain Chester to save Hope E120, then pursues her abductors | [Vorel](characters/vorel.md) · [Title register](characters/vorel-titles.md) |
 
 **Identity boundaries:** [Diontalus](characters/diontalus.md) has his own profile; **his intentions and acts are not Stanley's**. The former combined-page path `stanley-diontalus.md` now contains a short compatibility page linking to the distinct [Stanley](characters/stanley-billings.md) and [Diontalus](characters/diontalus.md) profiles. The Eye of Groxl is one owner-confirmed artifact, not a separate god called “Grojil.” At the **E081** cutoff the GM declares the four dead after the CHIDS sacrifice; **E082 and following episodes subsequently show them alive**. Hope's E101 departure ends Arc Four and begins Arc Five **within the same recording**. [E081](../episodes/E081.md) · [E082](../episodes/E082.md) · [E101](../episodes/E101.md).
 
@@ -37,7 +37,7 @@
 | **Nothing** | Sigil-linked adventurer whose independent engagements matter to the White Tower approach | [Nothing](characters/nothing.md) |
 | **Lyrielle / Liriel (?)** | Elhandari physician and caretaker around Angelashi and the Elhandar cottage | [Lyrielle](characters/lyrielle.md) |
 | **Steerious Business** | Minotaur member of Hope's separate group; owner-confirmed name, originally a pun | [Steerious](characters/steerious-business.md) |
-| **Dilenoria / Dilo (?)** | Elhandari aspiring hero, asks Stanley to take him on; **actually joins E119 hunt**, not necessarily a permanent pupil | [Dilo](characters/dilenoria.md) |
+| **Dilenoria / Dilo (?)** | Initially prospective apprentice joining E119 hunt; **actually betrays group and abducts Hope in magical sphere E120**, supernatural identity unproved | [Dilo](characters/dilenoria.md) |
 | **Blood Skunk Hendrickson** | Member of Hope's group; gives body parts for bargains and survives the failed E116 raid | [Blood Skunk](characters/blood-skunk-hendrickson.md) |
 | **Dr. Spider** | Hope-path companion who later shelters the quartet in a Hell laboratory | [Dr. Spider](characters/dr-spider.md) |
 | **Chance and Edison “Eddie” Manchester III** | Guests in E008–E009, encountered again at CHIDS; **Chance drifts away missing E081**, not proven dead | [E078](../episodes/E078.md) · [E081](../episodes/E081.md) |

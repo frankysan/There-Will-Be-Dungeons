@@ -1,6 +1,6 @@
 # Places and regions — The Wastes
 
-**Spoilers:** Main campaign through E119 and the separately placed **E107–E109 Dunebreaker prequel**. This is a geographic **directory of primary location pages**, not a new episode-by-episode travel log. Descriptions derive from processed ASR and are not independently listened to. [World portal](README.md) · [Historical events](HISTORICAL_EVENTS.md) · [Chronology](CHRONOLOGY.md).
+**Spoilers:** Main campaign through E120 and the separately placed **E107–E109 Dunebreaker prequel**. This is a geographic **directory of primary location pages**, not a new episode-by-episode travel log. Descriptions derive from processed ASR and are not independently listened to. [World portal](README.md) · [Historical events](HISTORICAL_EVENTS.md) · [Chronology](CHRONOLOGY.md).
 
 ## Principal settlements and destinations
 
