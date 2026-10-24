@@ -44,7 +44,36 @@ unresolved in-world fate. This is the last narrative section.[^status]
     Link unresolved research to the consistency ledger/review queue.
 ```
 
-**These episode links illustrate footnote placement, not a required episode range for every subject.** The `## Current status` heading must remain the **last substantive heading**; footnote definitions may follow it without another heading. Keep in-text arc labels as navigation, but no `E###` references or review terminology in the main text. For the full rules and register exceptions, see [World narrative style](WORLD_NARRATIVE_STYLE.md).
+**These episode links illustrate footnote placement, not a required episode range for every subject.** The `## Current status` heading must remain the **last substantive heading** for standard subject pages; focused historical-event studies may instead close with `## Lasting legacy`. Footnote definitions follow without another heading. Keep in-text arc labels as navigation, but no `E###` references or review terminology in the main text. For the full rules and register exceptions, see [World narrative style](WORLD_NARRATIVE_STYLE.md).
+
+## Character-specific writing contract
+
+For **ordinary biographies** (`world/characters/`), the prose must be **a character study rather than an episode-by-episode plot summary**. The introduction presents the person's initial personality, circumstances and perceived identity. Each relevant arc traces **motivations, loyalties, temperament, important relationships, revelations, agency, abilities or limitations, and the changes that endure afterward**. Events are examples only when they illuminate those developments.
+
+**Arc-section prompt:** What does this person want or believe at the beginning? Which relationships, choices or revelations challenge them? What is different about them by the end? A paragraph that mainly lists travel, opponents, spell casting or combat outcomes usually belongs in the narrative/chronology, not the biography. Do not invent internal feelings or psychological certainty absent supporting behavior/testimony.
+
+**Prose-length check:** Use **roughly 150–300 story words** as a *soft starting range* for each **substantive arc** of a major recurring character. Compare similar-impact arc sections and review any that run **more than about twice their substantive-arc median**, especially for duplicated event recaps. An arc with little meaningful participation can be much shorter, and a genuinely pivotal arc can be longer. **Never pad, flatten character complexity or force identical lengths**. Count only in-universe prose, excluding headings, links' Markdown syntax and footnotes. [Detailed guidance](WORLD_NARRATIVE_STYLE.md).
+
+An optional Relationships/abilities section **synthesizes cross-arc patterns** without repeating all the earlier sections. The final Current status **captures current identity, loyalties, relationships, state and unresolved personal questions**, not a recap of the finale's fights.
+
+**Not applicable to purpose-built registers:** [Nash's spellcasting phrases](../world/characters/nash-spellcasting-phrases.md), [Vorel's titles](../world/characters/vorel-titles.md), chronological evidence tables and compatibility pages retain their established indexing functions.
+
+## Other domains — subject-specific writing contract
+
+**The same prose balance and subject-first principle applies beyond characters, but the question changes with the subject.** Do not copy character word budgets to places, artifacts or event studies. Use [the domain guidance](WORLD_NARRATIVE_STYLE.md) when deciding what to summarize and what to leave to the arc narratives and chronology.
+
+| Subject | What its in-universe prose should explain | Last section emphasizes |
+| --- | --- | --- |
+| **Places and settlements** | Identity, geography and atmosphere; inhabitants, everyday life and institutions; changes in ownership, safety, culture or physical condition | **Current condition**, inhabitants, control and whether the place remains usable or habitable |
+| **Items, artifacts, technology** | Appearance, role, origin if known; **demonstrated versus alleged** powers; limitations, attunement, custody and changing significance | **Current holder, location, functionality and limits** |
+| **Factions, institutions, powers** | Ideology, aims, members, leadership, methods, alliances, rivals, reach and changes in influence | **Present allegiances, leadership, power and standing** |
+| **Historical events and eras** | Causes, circumstances, participants, decisive transformations, consequences, competing accounts and wider legacy | **Lasting legacy or aftermath**; `## Lasting legacy` may replace `## Current status` in focused event studies |
+| **Thematic world context** | How societies, religions, magic, technology and cosmology operate, and how competing accounts affect understanding | **Latest supported picture**, with genuine in-world disagreements kept visible |
+| **Creatures, if formally added later** | Distinguishing physical/ecological traits, behavior, habitat, powers, relationships and story significance | **Last known condition or role**, without inventing species-wide laws |
+
+**Section-balance review:** Compare prose lengths only between **similarly important developments within the same subject**. An introductory paragraph, a quiet arc, an artifact's single acquisition, or a historical event's brief aftermath can be short. Where a section is disproportionately long, first remove retold battles, incidental travel and duplicate episode chronology. Keep significant changes to the subject, even when they need more space. **No universal target length or equal-arc quota applies outside major biographies.**
+
+**Domain-specific prompt:** What makes this subject distinctive? What did it look like or do at introduction? What important aspect changed—**ownership, condition, function, leadership, significance or understanding**—and what remains true now? Refer to source details in footnotes, keeping the main prose in-universe and the last heading focused on present state or legacy. Technical/chronology/index/register exceptions remain purpose-based, not automatic exceptions for all other pages.
 
 ## Canon and sourcing rules
 
