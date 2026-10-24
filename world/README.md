@@ -20,7 +20,7 @@ A **subject-centered encyclopedia** for *The Wastes*: characters, antagonists, s
 
 **Places:** [Dusthill](places/dusthill.md) · [Slavetown](places/slavetown.md) · [Tietkalla](places/tietkalla.md) · [CHIDS](places/chids.md) · [Sigil](places/sigil.md) · [White Tower](places/white-tower.md) · [Elhandar](places/elhandar.md) · [Villa Ornath](places/villa-ornath.md) · [Dunebreaker prequel](places/dunebreaker.md).
 
-**Relics:** [Eye of Groxl](technology/eye-of-groxl.md) · [Hand of the Voice](technology/hand-of-the-voice.md) · [Gem of Tides](technology/gem-of-tides.md) · [portal device](technology/portal-device.md) · [Traversal Drive](technology/traversal-drive.md) · [Book of Adjacencies](technology/book-of-adjacencies.md) · [Nash's dragon heart](technology/nash-dragon-heart.md) · [Diontalus's ocarina](technology/diontalus-ocarina.md) · [Mask of Elton IV (?)](technology/mask-of-elton-iv.md) · [Henatar's guitar](technology/henatar-guitar.md).
+**Relics:** [Eye of Groxl](technology/eye-of-groxl.md) · [Hand of the Voice](technology/hand-of-the-voice.md) · [Gem of Tides](technology/gem-of-tides.md) · [portal device](technology/portal-device.md) · [Traversal Drive](technology/traversal-drive.md) · [Book of Adjacencies](technology/book-of-adjacencies.md) · [Nash's dragon heart](technology/nash-dragon-heart.md) · [Diontalus's ocarina](technology/diontalus-ocarina.md) · [Mask of Eltanfawr](technology/mask-of-eltanfawr.md) · [Henatar's guitar](technology/henatar-guitar.md).
 
 **Historical studies:** [Ancient catastrophe](HISTORY_ANCIENT_CATASTROPHE.md) · [Tietkalla's history](HISTORY_TIETKALLA.md) · [CHIDS/Drive crisis](HISTORY_CHIDS_DRIVE.md) · [full chronology](CHRONOLOGY.md).
 

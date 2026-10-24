@@ -13,7 +13,7 @@
 | **Traversal Drive** | Larger CHIDS installation reached E079 and operated E081; planet-moving claims and lasting effects disputed | [Traversal Drive](technology/traversal-drive.md) |
 | **Nash's engineered dragon heart; separate natural heart** | E121 projection **withdraws into Nash E122**; engineered pacemaker stays implanted. **Dead black dragon's separate natural heart recovered by Elhandari E128 and transported toward Mars**; **Ruby not constructed**, Nash's engineered engine still implanted | [Dragon hearts](technology/nash-dragon-heart.md) · [E122](../episodes/E122.md) |
 | **Book of Adjacencies** | Dalit/Daliot Ornath's responsive journal received by Stanley E118; its theories are not verified time-travel laws | [Book of Adjacencies](technology/book-of-adjacencies.md) |
-| **Mask of Elton IV (?)** | Obtained E118; **actually donned E126** as command interface for Villa Ornath spelljammer, yet **not attuned or successfully used to fly/shrink** | [Mask](technology/mask-of-elton-iv.md) |
+| **Mask of Eltanfawr** (formerly “Elton IV”) | Obtained E118; **actually donned E126** as command interface for Villa Ornath spelljammer, yet **not attuned or successfully used to fly/shrink by E128** | [Mask of Eltanfawr](technology/mask-of-eltanfawr.md) |
 | **Diontalus's wooden ocarina** | **Physically handed to Stanley E125**, allegedly summons Diontalus when played; **not activated/tested** | [Summoning ocarina](technology/diontalus-ocarina.md) |
 | **Henatar's magical guitar** | **Taken by Stanley via Telekinesis E126, still in his possession E128**; calmly strummed notes are magically amplified, no combat effects reproduced; **Henatar killed** | [Guitar](technology/henatar-guitar.md) |
 
