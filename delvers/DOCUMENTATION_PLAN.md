@@ -1,6 +1,6 @@
 # Delvers — documentation plan
 
-**Prepared 2026-10-24.** Delvers seasons 1–3 will use the same four editorial layers as Wastes, with independent continuity and a declared spoiler horizon on every reference or narrative page. This plan allocates future paths; it does not claim the uncreated pages below already exist.
+**Prepared 2026-10-24.** Delvers seasons 1–3 will use the same four editorial layers as Wastes, with independent continuity and a declared spoiler horizon in a footnote on every reference article or narrative page. This plan allocates future paths; it does not claim the uncreated pages below already exist.
 
 **First implementation, 2026-10-24:** [S1E01](episodes/S1E01.md) now has complete dual-ASR research and a [comparison report](../reports/DELVERS_S1E01_ASR_COMPARISON_2026-10-24.md). The [world portal](world/README.md), three PC profiles, guild/cave/globe references, chronology/ledger and [first-job narrative](narrative/FIRST_JOBS.md) contain premiere-supported material. This completes the first text-research slice, not audio verification; MP3/SRT clock alignment and name questions remain open. Other proposed categories remain deferred. Next verified episode: **S1E02 — Agreeable Meatball**.
 
@@ -39,7 +39,7 @@ Do not assign one story arc per season in advance, reuse Wastes arc numbers or i
 ## Continuity and provenance contract
 
 - Campaign + season + episode form the source identity. `Delvers S1E01` is not `Wastes E001`, `Inverse S1E01` or `Delvers S2E01`.
-- Every world and narrative page states its researched spoiler horizon. Later handouts, previews, Q&As and episodes cannot silently supply earlier character knowledge.
+- Every world and narrative article states its researched spoiler horizon in a footnote; navigation and research indexes may retain it in visible metadata. Later handouts, previews, Q&As and episodes cannot silently supply earlier character knowledge.
 - Separate observed/GM-adjudicated action, NPC/character claims, jokes, unchosen plans and later creator commentary. Track item custody, deaths/survival, locations, private knowledge, promises and completed actions.
 - Keep written spelling authority distinct from spoken-word verification and identity matching. The guild guide's in-world bylines do not establish real-world authorship.
 - Keep original SRTs and MP3s unchanged. Private handouts and Discord archives remain local; link to the existing provenance register rather than copying private source material into Git.
@@ -50,3 +50,9 @@ Do not assign one story arc per season in advance, reuse Wastes arc numbers or i
 A complete first slice has a full-recording S1E01 dossier, a documented two-export comparison or explicit source limitation, only evidence-supported reference additions, the actual episode cutoff, unresolved listening questions and a verified S1E02 pointer. Narrative coverage is stated honestly if not yet useful. Source availability, text research and audio verification remain separate statuses.
 
 [Campaign index](README.md) · [Source inventory](SOURCE_INVENTORY.md) · [Review queue](REVIEW_QUEUE.md)
+
+## Revised world and narrative style (2026-10-24)
+
+The [shared style direction](../project/WORLD_NARRATIVE_STYLE.md#delvers-world-and-narrative) now governs both Delvers layers. World articles introduce subjects as first encountered, trace meaningful changes through local story phases, and end with current status. Biographies emphasize personality, motives, relationships and growth; places, items, institutions and setting studies use their own subject focus. Narratives remain connected, plot-led accounts. Keep episode numbers, timestamps, ASR alternatives and editorial caveats in Markdown footnotes; preserve in-world uncertainty and attributed claims in the prose. Navigation indexes, chronology and the ledger retain their research functions. Do not impose Wastes arc labels, an eight-chapter ending or filler on the ongoing opening narrative.
+
+The [presentation migration record](../reports/DELVERS_STYLE_EXTENSION_2026-10-24.md) covers the existing articles and narrative through S1E02, including verified pre-edit working-copy archives. The first-implementation section above remains a dated S1E01 milestone; [the campaign queue](REVIEW_QUEUE.md) owns current onward research.

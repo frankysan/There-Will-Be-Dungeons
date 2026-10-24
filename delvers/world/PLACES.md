@@ -1,6 +1,6 @@
 # Delvers — places
 
-**Spoilers through S1E01. Evidence:** ASR-provisional; names awaiting listening are explicitly provisional.
+**Spoilers through S1E02. Evidence:** ASR-provisional; names awaiting listening are explicitly provisional.
 
 | Place | Scope and reference |
 | --- | --- |
@@ -11,6 +11,6 @@
 | Underdark | Lower passage reached by Koh; broader geography unknown. Cassius reports another delver's different mission here |
 | Snake Island | Rejected posting; not visited, reward described by Cassius as snakes |
 | Murray Keep, Hearthwood lodging/logging camp, Buckner Brewhouse | Names on displayed guild trophies, ~00:13–00:15; not destinations reached by this party |
-| Unnamed crypt | Assigned for tomorrow at cutoff; location, occupants and outcome unresearched |
+| Kord's mountain sanctuary / cryptnasium | Athletic graveyard; fountains cleansed, Studwell defeated and Meatball and Sultan rescued. [S1E02 evidence](../episodes/S1E02.md) |
 
 [World portal](README.md) · [S1E01 evidence](../episodes/S1E01.md) · [Open checks](CONSISTENCY_LEDGER.md)

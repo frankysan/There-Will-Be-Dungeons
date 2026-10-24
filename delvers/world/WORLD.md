@@ -1,21 +1,35 @@
 # Delvers — guild society and the world below
 
-**Spoilers through S1E01. Evidence:** ASR-provisional. Delvers has its own continuity; these institutions and deities do not establish any connection to Wastes or Inverse.
-
 ## Adventuring as organized work
 
-Kyle introduces a society where adventuring guilds protect towns, villages and cities. **Delvers are the lowest league**. Their guides, numbered wooden badges and assigned jobs place the first party within an employment hierarchy rather than an already famous company. Cassius describes promotion, platinum heroes and reused low-cost badges; a patron points out a silver-rank adventurer. The full rank ladder and administrative reach remain unestablished.
+Adventuring guilds protect settlements and turn dangerous expeditions into organized employment. Delvers occupy the lowest league, carrying numbered wooden badges and guides while working toward greater standing. Cassius speaks of promotion and platinum heroes; another patron points out a silver-ranked adventurer. The full reach and hierarchy of this profession remain unclear.[^society]
 
-The [guild](places/delvers-guild.md) combines hospitality, supply and quest administration. Cassius says two divine casters are unusual and assigns a crypt next because this party has them. The table explicitly establishes Evelyn's paladin features and Krandal's healing cleric role. His deity is rendered `Palor/Paylor`; the spelling is not independently resolved.
+The [guild hall](places/delvers-guild.md) brings hospitality, equipment and quest administration together. Its welcome can be generous in tone and economical in practice: badges are reused, and newcomers choose among the jobs left by earlier arrivals. Particular talents affect assignments. Cassius considers two divine casters unusual and sends the party to a crypt where their gifts may be useful.[^work]
 
 ## Caverns and the Underdark
 
-The first job concerns stirges near a farm and a suspected connection to the Underdark. Actual exploration finds drained sheep, stirges, a piercer, a darkmantle and a fissure into a darker lower tunnel. Koh's guide identifies the piercer and darkmantle as **B-tier caution**. Cassius later calls the lower creature a grick. These observations do not establish a universal ecology or the entire map below.
+The land beneath the settlements is dangerous even at its edges. A [farm cave](places/farm-cave.md) shelters stirges and creatures disguised as stone, while a fissure leads to a darker tunnel below. The guild guide classifies the piercer and darkmantle as hazards warranting caution. Koh's encounter beneath the fissure suggests a further danger, which Cassius identifies from his description as a grick.[^below]
 
-The party successfully closes the [farm fissure](places/farm-cave.md) with stone and concrete. Cassius reports that badge 542's owner had sought a door with a face in a different part of the Underdark. That door is **reported mission information**, never seen in this episode. His comments about the owner's soul remain speculation.
+Sealing that opening secures one route. It does not reveal the extent of the Underdark. Cassius says another delver sought a door with a face in a different part of it; the party's recovered badge links its work to that earlier disappearance, but it has seen no such door.[^door]
 
-## Handouts, trophies and narrative boundaries
+## Devotion and the strength of the living
 
-The [guild-guide register](../../reports/DISCORD_SPELLING_2026-10-21.md) supplies written **Thun’Darious Storm** and other handout terminology. Only the attributed foreword is performed here; listed heroes, departments and handout dates cannot be treated as new played appearances or dates. Likewise, trophy labels suggest earlier guild work but do not show the party visiting those places.
+Kord's mountain sanctuary combines a graveyard with athletic devotion. Running, chains and a rope leading to a bell form trials within its crypts, connected by fountains that have become fouled. Its devotees face enemies that drain the strength of the living. House blames the disaster on Studwell's fatal attempt to squat in sandals, an explanation the rescues and cleansing do not independently prove.
 
-[S1E01 evidence](../episodes/S1E01.md) · [Chronology](CHRONOLOGY.md) · [Consistency ledger](CONSISTENCY_LEDGER.md) · [World portal](README.md)
+The party's divine gifts and Koh's recovered light help it survive the haunting. Sacred radiance harms the Shadows, while daylight weakens them. Restoring the basins brings clear water back through the sanctuary, and the two missing devotees leave alive.[^sanctuary]
+
+## Current status
+
+The farm passage is sealed and the sanctuary's fountains run clear. The three adventurers have returned to their employer with a wider choice of work. The deeper Underdark and its reported door remain largely unknown.[^status]
+
+[^society]: [S1E01 dossier](../episodes/S1E01.md), opening setting exposition, ~00:27–00:34 and ~00:56. Researched through Delvers S1E02; ASR-provisional, not audio-verified. Delvers has independent continuity: these gods and institutions establish no connection to Wastes or Inverse. [Consistency ledger](CONSISTENCY_LEDGER.md).
+
+[^work]: [S1E01](../episodes/S1E01.md), orientation and ~02:22–02:28; [S1E02](../episodes/S1E02.md), opening assignment. Krandal's deity is rendered `Palor/Paylor`, spelling unresolved. The [guild-guide register](../../reports/DISCORD_SPELLING_2026-10-21.md) supports **Thun’Darious Storm**, whose attributed foreword is read; other handout heroes, departments and dates are not performed appearances or established scene dates. Trophy labels likewise do not prove party visits.
+
+[^below]: [S1E01](../episodes/S1E01.md), cave exploration and guide consultation. Piercer and darkmantle receive a B-tier caution classification. Local observations do not establish universal ecology.
+
+[^door]: [S1E01](../episodes/S1E01.md), ~02:22–02:27: badge 542 and a different prior mission. Cassius's comments about the owner's soul remain speculation. [Preserved draft](../../research/legacy/2026-10-24/delvers-pre-style/delvers/world/WORLD.md).
+
+[^sanctuary]: [S1E02 dossier](../episodes/S1E02.md), ~00:19–00:25, 00:41–00:52 and 01:00–02:44. **Kord/Cord**, **House/How**, **Crush/Krash**, **Armada** and **Studwell** remain source-level name checks in the [review queue](../REVIEW_QUEUE.md). House's origin account is testimony; no wider haunting is established.
+
+[^status]: [S1E02 cutoff](../episodes/S1E02.md#cutoff-and-onward-research). No third job chosen. [Chronology](CHRONOLOGY.md) owns the full played order.
