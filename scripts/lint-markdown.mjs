@@ -9,7 +9,7 @@ import { applyFixes } from "markdownlint";
 const root = fileURLToPath(new URL("../", import.meta.url));
 process.chdir(root);
 
-const directories = ["delvers", "episodes", "narrative", "world", "project", "reports"];
+const directories = ["delvers", "episodes", "narrative", "world", "project", "reports", "transcripts"];
 const args = process.argv.slice(2);
 const fix = args.includes("--fix");
 const filesFlag = args.indexOf("--files");

@@ -26,7 +26,7 @@ RULES = (
     ("jon-jagger", re.compile(r"\bJohn Jagger\b"), "Jon Jagger", WIKI),
 )
 TURN = re.compile(r"^\*\*([^*]+)\*\* \*\[([^\]]+)\]\*: (.*)$")
-SECTION = "\n\n## 00:00:00–00:10:00"
+SECTION = "## 00:00:00–00:10:00"
 
 
 def git_blob_sha(content: bytes) -> str:
@@ -36,6 +36,9 @@ def git_blob_sha(content: bytes) -> str:
 def render_reader(episode: str, source: str) -> tuple[str, dict]:
     if episode not in EPISODES:
         raise ValueError(f"Unknown episode {episode}")
+    source = source.replace("\r\n", "\n").replace("\r", "\n")
+    source = re.sub(r"(?m)^[ \t]+$", "", source)
+    source = re.sub(r"\n{3,}", "\n\n", source)
     lines = source.split("\n")
     if len(lines) < 3 or not lines[2].startswith("> **Status: machine-generated readable draft"):
         raise ValueError("Unexpected source draft header")
@@ -81,16 +84,15 @@ def render_reader(episode: str, source: str) -> tuple[str, dict]:
     if SECTION not in output:
         raise ValueError(f"Missing first section in {episode}")
     note = (
-        f"\n\n**Name reference:** [TWBD fan wiki]({WIKI}) "
+        f"**Name reference:** [TWBD fan wiki]({WIKI}) "
         "(and [Episode 6](https://twbd.fandom.com/wiki/Episode_6) for Jimster and Shun'ti). "
         "These spellings are externally supported, but are not independent verification "
         "of dialogue. "
         + ("The ASR's “Orifi or Orify?” exchange is intentionally left unchanged pending listening review."
            if episode == "E001" else
            "The wiki's full names are available in the world reference; no new dialogue has been inserted.")
-        + "\n"
     )
-    output = output.replace(SECTION, note + SECTION, 1)
+    output = output.replace(SECTION, note + "\n\n" + SECTION, 1)
     counts: dict[str, int] = {}
     for edit in changes:
         counts[edit["rule"]] = counts.get(edit["rule"], 0) + 1

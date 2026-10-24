@@ -100,11 +100,9 @@ def group_turns(episode: str, cues: list[Cue], target_words=90, hard_words=240, 
     return turns
 
 
-def render(episode: str):
+def render_markdown(episode: str, cues: list[Cue], turns: list[dict] | None = None) -> str:
     meta = FILES[episode]
-    src = ROOT / "sources" / meta["input"]
-    cues = parse_srt(src)
-    turns = group_turns(episode, cues)
+    turns = group_turns(episode, cues) if turns is None else turns
     sections = []
     cur_section = None
     for t in turns:
@@ -112,13 +110,13 @@ def render(episode: str):
         if n != cur_section:
             cur_section = n
             a, b = n * 10 * 60 * 1000, (n + 1) * 10 * 60 * 1000
-            sections.append(f"\n## {clock(a)}–{clock(b)}\n")
+            sections.append(f"## {clock(a)}–{clock(b)}")
         # Preserve speech text exactly apart from rewrapping existing SRT line breaks.
         if episode == "E000" and t["last_cue"] == cues[-1].idx and t["first_cue"] == cues[-1].idx:
             stamp = "timestamp unreliable; source SRT says 00:13:20"
         else:
             stamp = clock(t["start_ms"])
-        sections.append(f"**{t['speaker']}** *[{stamp}]*: {t['text']}\n")
+        sections.append(f"**{t['speaker']}** *[{stamp}]*: {t['text']}")
     header = (
         f"# {episode} — {meta['title']}\n\n"
         f"> **Status: machine-generated readable draft — not a verified transcript.** "
@@ -136,8 +134,17 @@ def render(episode: str):
         f"**Listener-verified ending:** “Now” is the final spoken word; the remainder is music. "
         f"Do not extend spoken-word timings into the outro.\n\n"
     )
+    return header + "\n\n".join(sections).rstrip() + "\n"
+
+
+def render(episode: str):
+    meta = FILES[episode]
+    src = ROOT / "sources" / meta["input"]
+    cues = parse_srt(src)
+    turns = group_turns(episode, cues)
+    markdown = render_markdown(episode, cues, turns)
     out = ROOT / "transcripts" / f"{episode}.readable-draft.md"
-    out.write_text(header + "\n".join(sections).rstrip() + "\n", encoding="utf-8", newline="\n")
+    out.write_text(markdown, encoding="utf-8", newline="\n")
     jpath = ROOT / "transcripts" / f"{episode}.turns.json"
     jpath.write_text(json.dumps({"episode": episode, "source_srt":meta["input"], "status":"unverified-machine-draft",
                                 "note":"Adjacent cues grouped, speaker labels normalized; no lexical corrections.","turns": turns},
