@@ -1,4 +1,6 @@
-# Delvers S1E03 — source-identity mislabel audit (2026-10-24)
+# Delvers S1E03 — source-identity mislabel and subsequent recovery (2026-10-24)
+
+**RECOVERED:** The true S1E03 is now available in three additional SRT files with **`(corrected)`** filenames: Parakeet blob `f7a2823f5b2ad8e048a324c2a05d9789cbcf5506`, Qwen Q4 `bd0e0373989511d9045eec74ecc06f3325a896da`, and Qwen Q8 `da85b4f44a0d397c64670dc3fac2397e343bf34c`. They start after the crypt with the guild's Grick Sighted assignment and end amid the initial grick fight, immediately preceding S1E04. The separately named corrected MP3 is inventoried but **not accessible for listening** through the workspace. [Genuine S1E03 dossier](../delvers/episodes/S1E03.md) · [new comparison](DELVERS_S1E03_ASR_COMPARISON_2026-10-24.md). The following is **historical explanation of the still-mislabeled *uncorrected* files**, not a claim that S1E03 remains absent.
 
 **Verified SRT mislabel:** Both existing S1E03-labelled SRT exports contain the **S1E04 session**, not the real S1E03 — *Raw End Of Joke Stick*. S1E03 published **2021-01-29**; S1E04 — *Where did this dungeon come from?* published **2021-02-01**, according to the [episode spreadsheet](https://docs.google.com/spreadsheets/d/11qsWzHHKI0i9yWBze6yoTtFKF9VltrfOFNTQ-g_gLlw/edit). The mislabelled session itself announces **Sunday 2021-01-31** and depicts the end of the grick battle, trapped dungeon and sword-hilt discovery.
 
@@ -15,15 +17,15 @@ Session overlap: Parakeet pairs share **82.9%**, Qwen pairs **93.1%**, of the sm
 
 ## Audio identity still to verify
 
-The inventoried local MP3s `local/Delvers S1E03. Raw End Of Joke Stick.mp3` and `local/Delvers S1E04. Where did this dungeon come from.mp3` could not be opened with the permitted workspace binary reader. They must be flagged **IDENTITY SUSPECT / NOT VERIFIED**, not confirmed duplicates. Compare duration, tags and fingerprint against the original published S1E03 recording before replacing, deleting or renaming anything.
+The inventoried *older* local MP3s `local/Delvers S1E03. Raw End Of Joke Stick.mp3` and `local/Delvers S1E04. Where did this dungeon come from.mp3` could not be opened with the permitted workspace binary reader. They must be flagged **IDENTITY SUSPECT / NOT VERIFIED**, not confirmed duplicates. Compare duration, tags and fingerprint against the original published S1E03 recording before replacing, deleting or renaming anything.
 
 ## Documentation crosswalk
 
-- [S1E03 dossier](../delvers/episodes/S1E03.md) and [S1E03 comparison](DELVERS_S1E03_ASR_COMPARISON_2026-10-24.md): **warning/redirects, not completed S1E03 research**.
+- [S1E03 dossier](../delvers/episodes/S1E03.md) and [S1E03 comparison](DELVERS_S1E03_ASR_COMPARISON_2026-10-24.md): **now genuine recovered-session research** using the three `(corrected)` exports; **7.39% P–Q8 and 7.53% P–Q4**, both text-only.
 - [S1E04 dossier](../delvers/episodes/S1E04.md): preserves the previously misattributed grick/dungeon analysis with the corrected identity.
 - [S1E04 comparison](DELVERS_S1E04_ASR_COMPARISON_2026-10-24.md): preserves **1,615 / 21,105 = 7.65%** disagreement for the two **mislabeled S1E03-named exports**. No exact whole-export metric is claimed for the two correctly named S1E04 sources.
-- Source inventory and Delvers review queue must flag original S1E03 as **missing/unresearched**, and set the next verification priority to recovering its genuine January 29 recording. Kyle's S1E04 recap may describe events of S1E03 but is not direct S1E03 transcript evidence.
+- Source inventory and Delvers review queue **now mark S1E03 as recovered and researched**; the original `S1E03` paths remain flagged as mislabeled **S1E04**. Kyle's S1E04 recap is corroborated by the newly obtained S1E03 scene, without converting S1E04-only outcomes into S1E03 scenes.
 
-**Pending link correction:** Two concurrently created **untracked** pages, `delvers/world/CREATURES_AND_MONSTERS.md` and `delvers/world/creatures/gricks.md`, still reference the mislabeled S1E03 dossier in their footnotes. Guarded workspace replacement denied editing them, so their attribution needs correction to **S1E04** by an editor who can modify those untracked files. Their main subject matter is unchanged; do not mistake this outstanding issue for verified S1E03 research.
+**Historical link-warning status:** The earlier audit noted that two then-untracked creature pages linked to a blocked S1E03 dossier. Both S1E03 and S1E04 now have their own source-first dossiers. The creature page citations should be audited **per specific scene**, not mechanically reassigned: Evelyn's first grick kill is **S1E03**; the later escape, trap corpses and return are **S1E04**.
 
 **Preservation:** No original audio or SRT file is to be edited by this documentation correction. A source-directory sidecar was attempted but denied by workspace write permissions; this audit and source inventory are the durable mislabel notices.

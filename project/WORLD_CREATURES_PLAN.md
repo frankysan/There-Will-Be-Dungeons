@@ -22,6 +22,10 @@ creature kind, a transformed state and a particular individual.
 Prioritize distinctive campaign creatures and consequential encounters with
 enough evidence to explain the subject. Familiar creatures may qualify without
 a demonstrated D&D rules deviation; Delvers's gricks are a supported example.
+Recurring use as **food, drink ingredients, preserved provisions or everyday
+resources** can also establish a creature's importance, even with few direct
+encounters. Sand squid are the owner-supplied example: describe their supported
+ecology and cultural role without requiring a combat history.
 Do not catalog every passing animal mention or pad the category with unsupported
 species lore. Campaign originality is a research question, not an entry gate.
 
@@ -66,6 +70,7 @@ species lore. Campaign originality is a research question, not an entry gate.
 
 | Campaign | Creature subject | Evidence and scope |
 | --- | --- | --- |
+| The Wastes | [Sand squid](../world/creatures/sand-squid.md) | Recurring food and ingredient use; selected E010–E123 references and E015 hunting/ecology checked in a [targeted transcript follow-up](../reports/SAND_SQUID_SOURCE_REVIEW_2026-10-24.md), without audio verification |
 | The Wastes | [Chicken Lords](../world/creatures/chicken-lords.md) | E060 feast, E064 transformations and E107 same-world historical arena specimen; no universal infection route inferred |
 | The Wastes | [Pixie Hulks](../world/creatures/pixie-hulks.md) | E049–E054 forced transformation, destructive abilities and observed reversion; P0D's biography remains separate |
 | Delvers | [Gricks](../delvers/world/creatures/gricks.md) | S1E01 identification and S1E03 sinkhole predators; no invented S1E02–S1E03 transition or cleared dungeon |
@@ -81,3 +86,20 @@ This starter set is not an exhaustive bestiary or a new episode-research pass.
 The Wastes portal's E128 and Delvers portal's S1E03 horizons remain unchanged;
 each subject's notes state its narrower direct evidence cutoff. Expand only
 from supported material, preserving unknown fates and source limitations.
+
+## Wastes Season One discovery backlog
+
+The [initial season-wide dossier search](../reports/WASTES_S1_CREATURE_SEARCH_2026-10-24.md)
+and [machine-readable inventory](../reports/WASTES_S1_CREATURE_SEARCH_2026-10-24.json)
+record 32 additional candidate subjects or research clusters: one now published
+(sand squid), 12 suitable for bounded drafting, 17 requiring focused review and
+two from the separately placed Wastes-setting Christmas one-off. The initial
+scan covers 130 available
+E-numbered dossiers; it is not a full transcript or audio review and excludes
+the alternate-setting E043 from Wastes evidence.
+
+The first drafting batch is **Chester the bearsaurus**, the **Dunebreaker fruit
+ooze** and the **tainted displacer beast**. The initial discovery pass added no
+canonical entries; sand squid were published in the subsequent owner-supplied
+follow-up. Neither pass advances an episode-research pointer. Follow the
+report's specific identity, agency and source checks when continuing.

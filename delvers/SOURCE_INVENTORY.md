@@ -1,28 +1,28 @@
 # Delvers — source inventory
 
-**Checked 2026-10-24 against the local working tree.** This is an inventory of **37 archive entries**, not episode analysis or a declaration that the fictional campaign concludes at S3E12. All archive basenames have two nonempty, cue-bearing ASR exports and a nonempty local MP3 by filename; **this is not proof of correct episode identity**. **S1E03-labelled SRTs contain S1E04** (duplicated session) and the genuine S1E03 remains missing. The local MP3 identity remains unverified. No recording has been listened to for this preparation.
+**Rechecked 2026-10-24.** The Delvers archive has **37 episode IDs** across three seasons, but now **77 SRT exports** and **38 inventoried local MP3 files** because the genuine S1E03 replacement was added alongside rather than overwriting the mislabelled older copies. File availability does not guarantee recording identity, MP3/SRT clock equality, model configuration or audio-verified accuracy.
 
 | Season | Available archive IDs | Entries | SRT exports | Local MP3s |
 | --- | --- | --- | --- | --- |
-| 1 | S1E01–S1E12 | 12 | 24 | 12 |
+| 1 | S1E01–S1E12 | 12 | **27** | **13** |
 | 2 | S2E00–S2E12 | 13 | 26 | 13 |
 | 3 | S3E01–S3E12 | 12 | 24 | 12 |
-| **Total** | **Three seasons** | **37** | **74** | **37** |
+| **Total** | **Three seasons** | **37** | **77** | **38** |
 
 ## Identity and evidence limits
 
-- **2026-10-24 IDENTITY CORRECTION:** The two S1E03 SRTs are **MISLABELED as S1E03 but actually S1E04**; the correctly named S1E04 pair contains the same session with introductory advertisements. [Identity audit](../reports/DELVERS_S1E03_SOURCE_IDENTITY_2026-10-24.md). Genuine S1E03 source not present in these four exports. **Do not prepare S1E03 from those paths.** MP3 titles are **suspect, not media-verified**.
+- **2026-10-24 IDENTITY RECOVERY:** The two **uncorrected** S1E03 SRTs remain **MISLABELED S1E04**; the correctly named S1E04 pair is another copy with ads. The genuine S1E03 is now represented by **three distinct `(corrected)` exports, P/Q4/Q8**, with a separately named local MP3. [Updated audit](../reports/DELVERS_S1E03_SOURCE_IDENTITY_2026-10-24.md). Use **only corrected exports for S1E03**; older SRTs remain evidence for S1E04. All MP3 identities and seek offsets remain unlistened.
 - IDs and title spelling below preserve the existing normalized source filenames. See the [archive numbering policy](../project/EPISODE_NUMBERING.md). Original publisher labels/dates were not reconciled in the initial preparation; **S1E03 (2021-01-29) and S1E04 (2021-02-01) have now been matched to the publication spreadsheet** as part of the identity audit. Keep spoken recording dates separate from publication dates.
 - **S2E00 — Cassius at the Guild** is an existing archive entry. Preserve E00 and review its content/type before describing it as a played session, prologue, recap or character introduction.
 - **P** means the filename label `parakeet.processed`; **Q** means `qwen-q8.canary-ctc.nemotron`. These are filename-derived pipeline labels, not independently verified run metadata or proof that the two exports came from identical audio bytes.
 - Each audio match is `local/<archive basename>.mp3`. Audio is ignored/local-only and is not supplied by the repository links. Matching basenames and nonzero sizes establish availability, not encoding integrity, listening verification or exact ASR-input provenance.
-- **S1E01, S1E02 and S1E04 have ASR-provisional research; S1E03 is unresearched due to missing authentic content.** [Corrected S1E04 dossier](episodes/S1E04.md) · [comparison](../reports/DELVERS_S1E04_ASR_COMPARISON_2026-10-24.md). The 7.65% disagreement compares the two **S1E03-filename exports that contain S1E04**, not actual S1E03. S1E01's [comparison](../reports/DELVERS_S1E01_ASR_COMPARISON_2026-10-24.md) notes 8.05% inter-ASR disagreement and an unresolved local-audio length offset. No Delvers MP3 was listened to.
+- **S1E01–S1E04 are ASR-provisionally researched.** The [genuine S1E03 dossier](episodes/S1E03.md) and [P/Q4/Q8 comparison](../reports/DELVERS_S1E03_ASR_COMPARISON_2026-10-24.md) use **corrected sources only** (P–Q8 **7.39%**, P–Q4 **7.53%** disagreement). The older S1E04 analysis retains the 7.65% score for mislabelled S1E03-named *copies of S1E04*. No MP3 heard.
 
 The premiere's original publisher title **TWBD Delvers S1E1: How Much Is Potato** and **January 11, 2021 publication date** were checked against the [publisher page](https://shows.acast.com/there-will-be-dungeons/episodes/6501086309d52c00124340d9) on 2026-10-24. The premiere publisher check is separate from the subsequent **S1E03/S1E04 spreadsheet identity correction** above; other original publisher metadata has not been comprehensively verified. Recording date and the ASR-rendered opening year remain separate, unresolved fields.
 
 ## Episode sources
 
-All rows have **P + Q + local audio available by basename**, but the S1E03 P/Q are **wrong-episode duplicates**, and the MP3 has not been verified; availability does not establish authenticity. Titles themselves may reveal later-season names; no story outcomes are inferred from them.
+Each row denotes a historical episode ID, **not unique file copies**. For S1E03, the two original SRTs remain wrong-episode duplicates; a **separate three-export corrected input set and MP3 filename** is now present. None of the MP3 content has been listened to or synchronized. Titles themselves may reveal later-season names; no story outcomes are inferred from them.
 
 ### Season 1
 
@@ -30,8 +30,8 @@ All rows have **P + Q + local audio available by basename**, but the S1E03 P/Q a
 | --- | --- | --- | --- |
 | S1E01 | How Much Is Potato | [P](../sources/Delvers%20S1E01.%20How%20Much%20Is%20Potato.parakeet.processed.srt) | [Q](../sources/Delvers%20S1E01.%20How%20Much%20Is%20Potato.qwen-q8.canary-ctc.nemotron.srt) |
 | S1E02 | Agreeable Meatball | [P](../sources/Delvers%20S1E02.%20Agreeable%20Meatball.parakeet.processed.srt) | [Q](../sources/Delvers%20S1E02.%20Agreeable%20Meatball.qwen-q8.canary-ctc.nemotron.srt) |
-| **S1E03 — MISSING / MISLABELED** | Raw End Of Joke Stick | [P — MISLABELED: S1E04](../sources/Delvers%20S1E03.%20Raw%20End%20Of%20Joke%20Stick.parakeet.processed.srt) | [Q — MISLABELED: S1E04](../sources/Delvers%20S1E03.%20Raw%20End%20Of%20Joke%20Stick.qwen-q8.canary-ctc.nemotron.srt) |
-| S1E04 | Where did this dungeon come from? | [P — actual S1E04 with ads](../sources/Delvers%20S1E04.%20Where%20did%20this%20dungeon%20come%20from.parakeet.processed.srt) | [Q — actual S1E04 with ads](../sources/Delvers%20S1E04.%20Where%20did%20this%20dungeon%20come%20from.qwen-q8.canary-ctc.nemotron.srt) |
+| **S1E03 — RECOVERED** | Raw End Of Joke Stick | [P — genuine corrected](../sources/Delvers%20S1E03.%20Raw%20End%20Of%20Joke%20Stick%20%28corrected%29.parakeet.processed.srt) | [Q4](../sources/Delvers%20S1E03.%20Raw%20End%20Of%20Joke%20Stick%20%28corrected%29.qwen-q4.canary-ctc.nemotron.srt) · [Q8](../sources/Delvers%20S1E03.%20Raw%20End%20Of%20Joke%20Stick%20%28corrected%29.qwen-q8.canary-ctc.nemotron.srt) |
+| S1E04 | Where did this dungeon come from? (plus **two mislabeled older S1E03-named sources**, see audit) | [P — actual S1E04 with ads](../sources/Delvers%20S1E04.%20Where%20did%20this%20dungeon%20come%20from.parakeet.processed.srt) | [Q — actual S1E04 with ads](../sources/Delvers%20S1E04.%20Where%20did%20this%20dungeon%20come%20from.qwen-q8.canary-ctc.nemotron.srt) |
 | S1E05 | Maximum Montage | [P](../sources/Delvers%20S1E05.%20Maximum%20Montage.parakeet.processed.srt) | [Q](../sources/Delvers%20S1E05.%20Maximum%20Montage.qwen-q8.canary-ctc.nemotron.srt) |
 | S1E06 | The Tower | [P](../sources/Delvers%20S1E06.%20The%20Tower.parakeet.processed.srt) | [Q](../sources/Delvers%20S1E06.%20The%20Tower.qwen-q8.canary-ctc.nemotron.srt) |
 | S1E07 | The Well Might Be Bugged | [P](../sources/Delvers%20S1E07.%20The%20Well%20Might%20Be%20Bugged.parakeet.processed.srt) | [Q](../sources/Delvers%20S1E07.%20The%20Well%20Might%20Be%20Bugged.qwen-q8.canary-ctc.nemotron.srt) |
@@ -78,7 +78,7 @@ All rows have **P + Q + local audio available by basename**, but the S1E03 P/Q a
 
 ## How this inventory was checked
 
-Direct filesystem discovery matched `sources/Delvers *.parakeet.processed.srt` and each exact-basename Qwen companion, then checked for the corresponding direct-root `local/Delvers *.mp3`. The two-model set accounts for all **74** Delvers SRTs currently under `sources/`; the matched audio set accounts for all **37** direct-root Delvers MP3s. Each export was checked for nonzero size and SRT timing lines. Nested alternate recordings and private assets are outside those audio counts.
+Direct filesystem discovery matched `sources/Delvers *.parakeet.processed.srt` and each exact-basename Qwen companion, then checked for the corresponding direct-root `local/Delvers *.mp3`. This original intake counted **74** Delvers SRTs and **37** matching MP3 basenames at that checkpoint. A further **three corrected S1E03 SRTs and one separately named corrected S1E03 MP3** were subsequently discovered (now **77** and **38**). The corrected exports were content-verified through GitHub, but their MP3 was not opened; this later source recovery supersedes the initial completeness claim.
 
 The local checkout was on `main` at `76cb96b` with existing uncommitted E120 documentation work. This inventory describes that local state; it does not assert synchronization with GitHub or an MCP workspace. Original SRTs and audio were not edited. Recheck availability and source identity when each entry is analyzed.
 

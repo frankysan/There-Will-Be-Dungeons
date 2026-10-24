@@ -1,0 +1,2390 @@
+{
+  "date": "2026-10-24",
+  "subject": "Sand squid",
+  "campaign": "The Wastes",
+  "season": 1,
+  "basis": "Owner-supplied candidate; targeted transcript follow-up to existing dossier discovery",
+  "scan": {
+    "export_count": 279,
+    "cue_hit_count": 226,
+    "query": "squid|squids|squiddy|squidy",
+    "glob": "sources/The Wastes S1E*.srt",
+    "complete_keyword_scan": true,
+    "complete_interpretive_review": false,
+    "audio_review": false,
+    "full_export_asr_disagreement_computed": false,
+    "local_results": "local/creature-search/sand-squid-2026-10-24/search.json"
+  },
+  "reviewed_windows": [
+    {
+      "episode": "E010",
+      "model_label": "parakeet",
+      "source": "sources/The Wastes S1E010. Shackles.parakeet.processed.srt",
+      "sha256": "8dcd8647d34f087bc270e88d60ed79146154d81b386896c22d30f36fe3f9dde5",
+      "start": "02:00:00",
+      "end": "02:02:15"
+    },
+    {
+      "episode": "E012",
+      "model_label": "parakeet",
+      "source": "sources/The Wastes S1E012. Work Hours.parakeet.processed.srt",
+      "sha256": "0bac9ecc3a71ff118fd134b3eaa41ebd755331875042b222e4f96aa4ddf304c8",
+      "start": "00:24:15",
+      "end": "00:28:30"
+    },
+    {
+      "episode": "E012",
+      "model_label": "parakeet",
+      "source": "sources/The Wastes S1E012. Work Hours.parakeet.processed.srt",
+      "sha256": "0bac9ecc3a71ff118fd134b3eaa41ebd755331875042b222e4f96aa4ddf304c8",
+      "start": "01:12:15",
+      "end": "01:13:40"
+    },
+    {
+      "episode": "E012",
+      "model_label": "parakeet",
+      "source": "sources/The Wastes S1E012. Work Hours.parakeet.processed.srt",
+      "sha256": "0bac9ecc3a71ff118fd134b3eaa41ebd755331875042b222e4f96aa4ddf304c8",
+      "start": "02:01:55",
+      "end": "02:04:20"
+    },
+    {
+      "episode": "E015",
+      "model_label": "parakeet",
+      "source": "sources/The Wastes S1E015. The Darkness.parakeet.processed.srt",
+      "sha256": "fbb0c6d8382f9a162dc39f2084da042adca5e35f973512d81775c587796e72cf",
+      "start": "02:20:05",
+      "end": "02:23:45"
+    },
+    {
+      "episode": "E015",
+      "model_label": "parakeet",
+      "source": "sources/The Wastes S1E015. The Darkness.parakeet.processed.srt",
+      "sha256": "fbb0c6d8382f9a162dc39f2084da042adca5e35f973512d81775c587796e72cf",
+      "start": "02:28:50",
+      "end": "02:31:20"
+    },
+    {
+      "episode": "E016",
+      "model_label": "parakeet",
+      "source": "sources/The Wastes S1E016. Dragon Mother.parakeet.processed.srt",
+      "sha256": "de68ce8181f924b2012e6f6df1edb1147f99c6d17add13ae1877b0b2a4d780e0",
+      "start": "02:13:00",
+      "end": "02:15:05"
+    },
+    {
+      "episode": "E017",
+      "model_label": "parakeet",
+      "source": "sources/The Wastes S1E017. Fire in the hole!.parakeet.processed.srt",
+      "sha256": "661727626bc118110ac4ad1fecb8770b51a724384c32297abb3b62c80c3deb4f",
+      "start": "00:24:40",
+      "end": "00:26:00"
+    },
+    {
+      "episode": "E017",
+      "model_label": "parakeet",
+      "source": "sources/The Wastes S1E017. Fire in the hole!.parakeet.processed.srt",
+      "sha256": "661727626bc118110ac4ad1fecb8770b51a724384c32297abb3b62c80c3deb4f",
+      "start": "00:55:20",
+      "end": "00:56:25"
+    },
+    {
+      "episode": "E026",
+      "model_label": "parakeet",
+      "source": "sources/The Wastes S1E026. The Hunt.parakeet.processed.srt",
+      "sha256": "b01d0fbc3d7d73423030eb474bbb1acbcb321e14f0017dc6a66ab3aa4fc483db",
+      "start": "01:44:15",
+      "end": "01:45:55"
+    },
+    {
+      "episode": "E055",
+      "model_label": "parakeet",
+      "source": "sources/The Wastes S1E055. My Standards Are Very Lizard.parakeet.processed.srt",
+      "sha256": "7932684976057d17c967931d3369c65870ab345e40bcec728ca97ae3328d56cf",
+      "start": "01:31:10",
+      "end": "01:32:15"
+    },
+    {
+      "episode": "E082",
+      "model_label": "parakeet",
+      "source": "sources/The Wastes S1E082. Binch Better Have My Money.parakeet.processed.srt",
+      "sha256": "308fe839e8b0f3f0c6287615a7e80c544939db839cb54f92c1b5796f9e588406",
+      "start": "02:11:50",
+      "end": "02:14:50"
+    },
+    {
+      "episode": "E123",
+      "model_label": "parakeet",
+      "source": "sources/The Wastes S1E123. No Floating Forks.parakeet.processed.srt",
+      "sha256": "fb5a8c36e63da24722c0d776ccdc35cae142bdf2d615d6a1977b1fdeb23abf94",
+      "start": "02:09:55",
+      "end": "02:10:50"
+    },
+    {
+      "episode": "E012",
+      "model_label": "qwen",
+      "source": "sources/The Wastes S1E012. Work Hours.qwen-q8.canary-ctc.nemotron.srt",
+      "sha256": "cebf79f02f8515c253841c00d71079f7b727b50676a076f734fd859ad42642ae",
+      "start": "00:27:50",
+      "end": "00:28:25"
+    },
+    {
+      "episode": "E012",
+      "model_label": "qwen",
+      "source": "sources/The Wastes S1E012. Work Hours.qwen-q8.canary-ctc.nemotron.srt",
+      "sha256": "cebf79f02f8515c253841c00d71079f7b727b50676a076f734fd859ad42642ae",
+      "start": "02:02:15",
+      "end": "02:04:00"
+    },
+    {
+      "episode": "E015",
+      "model_label": "qwen",
+      "source": "sources/The Wastes S1E015. The Darkness.qwen-q8.canary-ctc.nemotron.srt",
+      "sha256": "01959666f44c51bde45f2e337c4b403f6a7bc1d4ed28addc4931904e450147b3",
+      "start": "02:20:18",
+      "end": "02:21:05"
+    },
+    {
+      "episode": "E015",
+      "model_label": "qwen",
+      "source": "sources/The Wastes S1E015. The Darkness.qwen-q8.canary-ctc.nemotron.srt",
+      "sha256": "01959666f44c51bde45f2e337c4b403f6a7bc1d4ed28addc4931904e450147b3",
+      "start": "02:23:00",
+      "end": "02:23:48"
+    },
+    {
+      "episode": "E015",
+      "model_label": "qwen",
+      "source": "sources/The Wastes S1E015. The Darkness.qwen-q8.canary-ctc.nemotron.srt",
+      "sha256": "01959666f44c51bde45f2e337c4b403f6a7bc1d4ed28addc4931904e450147b3",
+      "start": "02:29:10",
+      "end": "02:30:10"
+    }
+  ],
+  "source_inventory": [
+    {
+      "path": "sources/The Wastes S1E000. Introductions.cohere.processed.srt",
+      "sha256": "8e3af8eb649a321c805edb051173aeb7d2924bb71655345943a548df8787f531",
+      "cue_count": 187,
+      "last_end_ms": 791360,
+      "matches": []
+    },
+    {
+      "path": "sources/The Wastes S1E000. Introductions.parakeet.processed.srt",
+      "sha256": "ffb45c5dfe3a0dfe92881f26616cd928836845949f264c908afcbb2ce1f7ce17",
+      "cue_count": 193,
+      "last_end_ms": 808060,
+      "matches": []
+    },
+    {
+      "path": "sources/The Wastes S1E000. Introductions.parakeet.raw.srt",
+      "sha256": "2600766552250e83cfa8a08966dfb2c78bf5c854921969c504771752516a277c",
+      "cue_count": 184,
+      "last_end_ms": 791020,
+      "matches": []
+    },
+    {
+      "path": "sources/The Wastes S1E000. Introductions.qwen-f16.processed.srt",
+      "sha256": "888218c14db7520b78eb85fa473f01bab3b1136fb7715afc286796c2ddab8c6f",
+      "cue_count": 189,
+      "last_end_ms": 790960,
+      "matches": []
+    },
+    {
+      "path": "sources/The Wastes S1E000. Introductions.qwen-q4+canary-ctc.raw.srt",
+      "sha256": "f5a334134f01533eecbeaf20687e3ded65dc20fad71b1098507b4dfd616a931b",
+      "cue_count": 239,
+      "last_end_ms": 790720,
+      "matches": []
+    },
+    {
+      "path": "sources/The Wastes S1E000. Introductions.qwen-q4.raw.srt",
+      "sha256": "f39064cf7fb5da905067a05dc3aaeadcaa4169d07ad312bda52f55d199f5bf52",
+      "cue_count": 239,
+      "last_end_ms": 790960,
+      "matches": []
+    },
+    {
+      "path": "sources/The Wastes S1E000. Introductions.qwen-q8+canary-ctc.raw.srt",
+      "sha256": "becc34d18fc1c3027de4dc57d2b353b99b81d8a723c29cc4ef0694e87f2555e4",
+      "cue_count": 244,
+      "last_end_ms": 790720,
+      "matches": []
+    },
+    {
+      "path": "sources/The Wastes S1E000. Introductions.qwen-q8.canary-ctc.nemotron.srt",
+      "sha256": "becc34d18fc1c3027de4dc57d2b353b99b81d8a723c29cc4ef0694e87f2555e4",
+      "cue_count": 244,
+      "last_end_ms": 790720,
+      "matches": []
+    },
+    {
+      "path": "sources/The Wastes S1E000. Introductions.qwen-q8.processed.srt",
+      "sha256": "953adf45a41e28caaacae73abaf5c6f241dcd83a3f272f409f755ae1d84a2a2e",
+      "cue_count": 189,
+      "last_end_ms": 790960,
+      "matches": []
+    },
+    {
+      "path": "sources/The Wastes S1E000. Introductions.qwen-q8.raw.srt",
+      "sha256": "b08354ef479a09dab53d0b252b0401822d4cbb60363e0a23016f2eed76dc0588",
+      "cue_count": 244,
+      "last_end_ms": 790960,
+      "matches": []
+    },
+    {
+      "path": "sources/The Wastes S1E001. The Campaign Begins!.cohere.processed.srt",
+      "sha256": "70e2dc4922768d4bdedbba35eb4e6f8a5bc0d4bc0b627ff99c047677072a791a",
+      "cue_count": 4918,
+      "last_end_ms": 11013500,
+      "matches": []
+    },
+    {
+      "path": "sources/The Wastes S1E001. The Campaign Begins!.parakeet.processed.srt",
+      "sha256": "1088de44feb33187ce88f0ed923e8a347535a2520a9ad272a5ca8f0d0612dbbf",
+      "cue_count": 4819,
+      "last_end_ms": 11013690,
+      "matches": []
+    },
+    {
+      "path": "sources/The Wastes S1E001. The Campaign Begins!.parakeet.raw.srt",
+      "sha256": "d809896cdd3718a57d84ffa4cc91180e3edce06c3cc2e0c1f9165cd1cab25e73",
+      "cue_count": 3911,
+      "last_end_ms": 11013530,
+      "matches": []
+    },
+    {
+      "path": "sources/The Wastes S1E001. The Campaign Begins!.qwen-q4+canary-ctc.raw.srt",
+      "sha256": "29aabc047242e2f7c1eb4fdf83cba8bf02b609e0054365d8dca0077cec831bd7",
+      "cue_count": 5472,
+      "last_end_ms": 11013200,
+      "matches": []
+    },
+    {
+      "path": "sources/The Wastes S1E001. The Campaign Begins!.qwen-q4.raw.srt",
+      "sha256": "2921081f05628f62d94202d23f7ccd08dbb30232dac2ceaad76f178d398bc6e7",
+      "cue_count": 5497,
+      "last_end_ms": 11013760,
+      "matches": []
+    },
+    {
+      "path": "sources/The Wastes S1E001. The Campaign Begins!.qwen-q8+canary-ctc.raw.srt",
+      "sha256": "1b5faa316938f48459bd628e9757a4db7fdf5e384c8aa87d359ef46d72cce219",
+      "cue_count": 5869,
+      "last_end_ms": 11013200,
+      "matches": []
+    },
+    {
+      "path": "sources/The Wastes S1E001. The Campaign Begins!.qwen-q8.canary-ctc.nemotron.srt",
+      "sha256": "1b5faa316938f48459bd628e9757a4db7fdf5e384c8aa87d359ef46d72cce219",
+      "cue_count": 5869,
+      "last_end_ms": 11013200,
+      "matches": []
+    },
+    {
+      "path": "sources/The Wastes S1E001. The Campaign Begins!.qwen-q8.processed.srt",
+      "sha256": "d0ae8e1a94d356159e012f561c82ef3cf75a51dd65a5fd773f7fb5b9025662e7",
+      "cue_count": 5040,
+      "last_end_ms": 11013990,
+      "matches": []
+    },
+    {
+      "path": "sources/The Wastes S1E001. The Campaign Begins!.qwen-q8.raw.srt",
+      "sha256": "a48adfc0c31318a66b882f5eebe729dbff9d3c691a3e1c69cc7aa65ea2dacd5d",
+      "cue_count": 5851,
+      "last_end_ms": 11013760,
+      "matches": []
+    },
+    {
+      "path": "sources/The Wastes S1E002. Spiders.parakeet.processed.srt",
+      "sha256": "bc0b182d77a818dcfcda8cd86ad950730f169e5c4318414547782c98ba39a5a4",
+      "cue_count": 4257,
+      "last_end_ms": 9556030,
+      "matches": []
+    },
+    {
+      "path": "sources/The Wastes S1E002. Spiders.qwen-q8.canary-ctc.nemotron.srt",
+      "sha256": "710c5ebf94bedb3df45371caf68995c2535c81f862a7c5c61a08b9b8b7164646",
+      "cue_count": 5020,
+      "last_end_ms": 9555340,
+      "matches": []
+    },
+    {
+      "path": "sources/The Wastes S1E003. Soft Head Returns.parakeet.processed.srt",
+      "sha256": "b558c5827d54bf91fa91572993cc5508d455522a9ff87fb25ce06d46e5b4ceaa",
+      "cue_count": 4808,
+      "last_end_ms": 11452410,
+      "matches": []
+    },
+    {
+      "path": "sources/The Wastes S1E003. Soft Head Returns.qwen-q8.canary-ctc.nemotron.srt",
+      "sha256": "f26ad7a82e5e60cf9792a6cb0091265114f18fec3fe08b086fe4a91c7cb36c0c",
+      "cue_count": 5635,
+      "last_end_ms": 11452080,
+      "matches": []
+    },
+    {
+      "path": "sources/The Wastes S1E004. The Oil Demon.parakeet.processed.srt",
+      "sha256": "f3febda290f2c996df7562246d92e6cf4361f2104776d00b5fd40aace684906a",
+      "cue_count": 4180,
+      "last_end_ms": 10448830,
+      "matches": []
+    },
+    {
+      "path": "sources/The Wastes S1E004. The Oil Demon.qwen-q8.canary-ctc.nemotron.srt",
+      "sha256": "ba0e94ba307bd602b3ee52277931ca17aa9189ce440046b0da7dc833cf0fd47c",
+      "cue_count": 4951,
+      "last_end_ms": 10448320,
+      "matches": []
+    },
+    {
+      "path": "sources/The Wastes S1E005. Goblincide.parakeet.processed.srt",
+      "sha256": "d882b06420fced484b946945f4029d9de7e8e79ffcb970cfa008c45df379df31",
+      "cue_count": 4191,
+      "last_end_ms": 10051770,
+      "matches": []
+    },
+    {
+      "path": "sources/The Wastes S1E005. Goblincide.qwen-q8.canary-ctc.nemotron.srt",
+      "sha256": "63ab8ef9f711cd1feb14d1a84f8edfdff35e98e55b74ce809c7d5f13b227676e",
+      "cue_count": 4976,
+      "last_end_ms": 10051100,
+      "matches": []
+    },
+    {
+      "path": "sources/The Wastes S1E006. Start your engines!.parakeet.processed.srt",
+      "sha256": "6fcf0f0ba49ab391cc9e5f5061d6c64df3881711c6637ced382f04b89b010923",
+      "cue_count": 4413,
+      "last_end_ms": 11509120,
+      "matches": []
+    },
+    {
+      "path": "sources/The Wastes S1E006. Start your engines!.qwen-q8.canary-ctc.nemotron.srt",
+      "sha256": "b0458c1d3136ccfeb4a15483529a78f39241ef033ffe7f727dd476440709a9f3",
+      "cue_count": 5279,
+      "last_end_ms": 11508420,
+      "matches": []
+    },
+    {
+      "path": "sources/The Wastes S1E007. Bok Bok Keeping It Fresh.parakeet.processed.srt",
+      "sha256": "e88c9f586248415597982b236da53ea45f57bf949173c2b2b653ca60542f609b",
+      "cue_count": 3555,
+      "last_end_ms": 8476440,
+      "matches": []
+    },
+    {
+      "path": "sources/The Wastes S1E007. Bok Bok Keeping It Fresh.qwen-q8.canary-ctc.nemotron.srt",
+      "sha256": "7528f2ae8f4c57914607f3a54446388dff50bf056a690826064cba7a709410c3",
+      "cue_count": 4251,
+      "last_end_ms": 8475740,
+      "matches": []
+    },
+    {
+      "path": "sources/The Wastes S1E008. Stupid Gnomes!.parakeet.processed.srt",
+      "sha256": "5fe30a230d81d38b56a032ef518f95b60fa0f207b04c0afa6ac11e68fa25e1bf",
+      "cue_count": 4815,
+      "last_end_ms": 10943590,
+      "matches": []
+    },
+    {
+      "path": "sources/The Wastes S1E008. Stupid Gnomes!.qwen-q8.canary-ctc.nemotron.srt",
+      "sha256": "f226bd00c5b008d2662c1e07c3587574be6054d7464f131f5eeceb546c2764c4",
+      "cue_count": 5743,
+      "last_end_ms": 10943460,
+      "matches": []
+    },
+    {
+      "path": "sources/The Wastes S1E009. Surfacing.parakeet.processed.srt",
+      "sha256": "2b218b1132c7c2d4e0e36f88b8e98628c119775e73107d00ad75bfd580552c73",
+      "cue_count": 5239,
+      "last_end_ms": 11772750,
+      "matches": []
+    },
+    {
+      "path": "sources/The Wastes S1E009. Surfacing.qwen-q8.canary-ctc.nemotron.srt",
+      "sha256": "e01ece14ea78f68750243b6eab0bddbbf6f59d487af30090a1eaeb51df257a2f",
+      "cue_count": 6194,
+      "last_end_ms": 11772000,
+      "matches": []
+    },
+    {
+      "path": "sources/The Wastes S1E010. Shackles.parakeet.processed.srt",
+      "sha256": "8dcd8647d34f087bc270e88d60ed79146154d81b386896c22d30f36fe3f9dde5",
+      "cue_count": 5223,
+      "last_end_ms": 12127840,
+      "matches": [
+        2247,
+        3069,
+        3072,
+        3436
+      ]
+    },
+    {
+      "path": "sources/The Wastes S1E010. Shackles.qwen-q8.canary-ctc.nemotron.srt",
+      "sha256": "94cb2cd58c62a2960808dd78b5532c5636a7c7689becbe15b3c3a37ba87bb7e3",
+      "cue_count": 6152,
+      "last_end_ms": 12127020,
+      "matches": [
+        3519,
+        3614,
+        3616,
+        4018
+      ]
+    },
+    {
+      "path": "sources/The Wastes S1E011. Kick me as hard as you can.parakeet.processed.srt",
+      "sha256": "098c0a8abb8d19dc452547a721f805257e571d1dfcff7da95d29661a457cb902",
+      "cue_count": 4473,
+      "last_end_ms": 10745260,
+      "matches": []
+    },
+    {
+      "path": "sources/The Wastes S1E011. Kick me as hard as you can.qwen-q8.canary-ctc.nemotron.srt",
+      "sha256": "41cd79dfcd9fe8f440f816eed53718ea3f4f1e2bda18851e23d698f56eca08d6",
+      "cue_count": 5257,
+      "last_end_ms": 10744540,
+      "matches": []
+    },
+    {
+      "path": "sources/The Wastes S1E012. Work Hours.parakeet.processed.srt",
+      "sha256": "0bac9ecc3a71ff118fd134b3eaa41ebd755331875042b222e4f96aa4ddf304c8",
+      "cue_count": 4869,
+      "last_end_ms": 11710740,
+      "matches": [
+        526,
+        529,
+        530,
+        537,
+        615,
+        1791,
+        1800,
+        2237,
+        2243,
+        2319,
+        3014,
+        3015,
+        3022,
+        3025,
+        3031,
+        3041,
+        3046,
+        3048,
+        3055,
+        3064,
+        3499,
+        4756
+      ]
+    },
+    {
+      "path": "sources/The Wastes S1E012. Work Hours.qwen-q8.canary-ctc.nemotron.srt",
+      "sha256": "cebf79f02f8515c253841c00d71079f7b727b50676a076f734fd859ad42642ae",
+      "cue_count": 5764,
+      "last_end_ms": 11709260,
+      "matches": [
+        656,
+        658,
+        659,
+        665,
+        759,
+        760,
+        2173,
+        2184,
+        2717,
+        2724,
+        2813,
+        3622,
+        3624,
+        3634,
+        3637,
+        3645,
+        3657,
+        3661,
+        3673,
+        3684,
+        4182,
+        5630
+      ]
+    },
+    {
+      "path": "sources/The Wastes S1E013. Old One Eye.parakeet.processed.srt",
+      "sha256": "0ec841dad9293168852f24f056aa786c0d88381e3531dfab218b4bf5d118bb56",
+      "cue_count": 4027,
+      "last_end_ms": 9565440,
+      "matches": []
+    },
+    {
+      "path": "sources/The Wastes S1E013. Old One Eye.qwen-q8.canary-ctc.nemotron.srt",
+      "sha256": "7c2e094f50e110f6598b7ab458ef0f279fb8ad81d5ffe0b54d1f14081f590907",
+      "cue_count": 4771,
+      "last_end_ms": 9564420,
+      "matches": []
+    },
+    {
+      "path": "sources/The Wastes S1E013.5 Supplemental (alternate copy).parakeet.processed.srt",
+      "sha256": "b6e5d878847938860c814f97cb41c0343aee2afea45725560c6789ba163679e8",
+      "cue_count": 402,
+      "last_end_ms": 1599270,
+      "matches": []
+    },
+    {
+      "path": "sources/The Wastes S1E013.5 Supplemental (alternate copy).qwen-q8.canary-ctc.nemotron.srt",
+      "sha256": "4f454dd4739edcc92f996f0a95861ce085bd1dcc990f6a0d64ebce7b68f1ac6e",
+      "cue_count": 586,
+      "last_end_ms": 1599140,
+      "matches": []
+    },
+    {
+      "path": "sources/The Wastes S1E013.5 Supplemental.parakeet.processed.srt",
+      "sha256": "b515c0c1108949cf703581b41df98e4cb79e09d20aca46d1f6cdded5906f94cd",
+      "cue_count": 482,
+      "last_end_ms": 1600910,
+      "matches": []
+    },
+    {
+      "path": "sources/The Wastes S1E013.5 Supplemental.qwen-q8.canary-ctc.nemotron.srt",
+      "sha256": "15c0fb16530acb5f7df408bc6ce2f3010613ea4f9095366007cff23b694362a1",
+      "cue_count": 579,
+      "last_end_ms": 1600180,
+      "matches": []
+    },
+    {
+      "path": "sources/The Wastes S1E014. That's Magic.parakeet.processed.srt",
+      "sha256": "d0a4eecba7c378db2950286f8dbf297be857b75b55a077c89d45092d35ee5e42",
+      "cue_count": 4729,
+      "last_end_ms": 10946480,
+      "matches": [
+        1862,
+        1863,
+        2452
+      ]
+    },
+    {
+      "path": "sources/The Wastes S1E014. That's Magic.qwen-q8.canary-ctc.nemotron.srt",
+      "sha256": "c797acb2814bda8e302fdfa439d1fbe69e35308f9be9a6b7cf3d59e04111f701",
+      "cue_count": 5552,
+      "last_end_ms": 10945500,
+      "matches": [
+        2213,
+        2214,
+        2888
+      ]
+    },
+    {
+      "path": "sources/The Wastes S1E015. The Darkness.parakeet.processed.srt",
+      "sha256": "fbb0c6d8382f9a162dc39f2084da042adca5e35f973512d81775c587796e72cf",
+      "cue_count": 3832,
+      "last_end_ms": 9385810,
+      "matches": [
+        3403,
+        3433,
+        3437,
+        3438,
+        3444,
+        3450,
+        3458,
+        3460,
+        3470,
+        3471,
+        3477,
+        3494,
+        3499,
+        3502,
+        3539,
+        3542,
+        3644,
+        3649,
+        3659
+      ]
+    },
+    {
+      "path": "sources/The Wastes S1E015. The Darkness.qwen-q8.canary-ctc.nemotron.srt",
+      "sha256": "01959666f44c51bde45f2e337c4b403f6a7bc1d4ed28addc4931904e450147b3",
+      "cue_count": 4643,
+      "last_end_ms": 9384730,
+      "matches": [
+        4152,
+        4182,
+        4184,
+        4185,
+        4187,
+        4195,
+        4203,
+        4209,
+        4211,
+        4225,
+        4226,
+        4234,
+        4253,
+        4259,
+        4263,
+        4307,
+        4308,
+        4311,
+        4427,
+        4431,
+        4445
+      ]
+    },
+    {
+      "path": "sources/The Wastes S1E016. Dragon Mother.parakeet.processed.srt",
+      "sha256": "de68ce8181f924b2012e6f6df1edb1147f99c6d17add13ae1877b0b2a4d780e0",
+      "cue_count": 3684,
+      "last_end_ms": 9649849,
+      "matches": [
+        3033,
+        3039,
+        3040,
+        3041,
+        3046,
+        3056,
+        3063,
+        3064,
+        3068,
+        3070,
+        3111,
+        3119,
+        3120,
+        3173,
+        3506
+      ]
+    },
+    {
+      "path": "sources/The Wastes S1E016. Dragon Mother.qwen-q8.canary-ctc.nemotron.srt",
+      "sha256": "aaf02796a4f8671d8a52ccaca802bd617ff2849bf43756fcc9c829233a5687ba",
+      "cue_count": 4106,
+      "last_end_ms": 9649740,
+      "matches": [
+        3416,
+        3422,
+        3423,
+        3424,
+        3429,
+        3439,
+        3445,
+        3446,
+        3450,
+        3491,
+        3499,
+        3502,
+        3557,
+        3926
+      ]
+    },
+    {
+      "path": "sources/The Wastes S1E017. Fire in the hole!.parakeet.processed.srt",
+      "sha256": "661727626bc118110ac4ad1fecb8770b51a724384c32297abb3b62c80c3deb4f",
+      "cue_count": 4623,
+      "last_end_ms": 10581030,
+      "matches": [
+        648,
+        657,
+        1423,
+        1658,
+        2880
+      ]
+    },
+    {
+      "path": "sources/The Wastes S1E017. Fire in the hole!.qwen-q8.canary-ctc.nemotron.srt",
+      "sha256": "a5462080fba02c8bfeee0e01929067ba4236e266a2ef5ddba311abed5b953ea2",
+      "cue_count": 5322,
+      "last_end_ms": 10580560,
+      "matches": [
+        768,
+        779,
+        1664,
+        1924,
+        3296
+      ]
+    },
+    {
+      "path": "sources/The Wastes S1E018. Into the storm.parakeet.processed.srt",
+      "sha256": "518ea501b3ad1a78c8f8fceb0fe68611070e57e59f138488a7e4c094d4473d4f",
+      "cue_count": 3447,
+      "last_end_ms": 9320210,
+      "matches": []
+    },
+    {
+      "path": "sources/The Wastes S1E018. Into the storm.qwen-q8.canary-ctc.nemotron.srt",
+      "sha256": "80d704dc6ec6186296c939302405da8b7ec7cd5d8bcc1c4b6e99c8437fccb01c",
+      "cue_count": 4021,
+      "last_end_ms": 9319420,
+      "matches": []
+    },
+    {
+      "path": "sources/The Wastes S1E019. Elevator Action.parakeet.processed.srt",
+      "sha256": "be95a6f1efc6008813100a514fdc9bc3e42dcbc8245bf9cbb374a460e489fd2b",
+      "cue_count": 4905,
+      "last_end_ms": 11368010,
+      "matches": []
+    },
+    {
+      "path": "sources/The Wastes S1E019. Elevator Action.qwen-q8.canary-ctc.nemotron.srt",
+      "sha256": "63faff7a91a3610f9487c439c81b80188ec20da38b6ce53f9a0f3a7474ca650a",
+      "cue_count": 5639,
+      "last_end_ms": 11367240,
+      "matches": []
+    },
+    {
+      "path": "sources/The Wastes S1E020. Flaky Mushrooms.parakeet.processed.srt",
+      "sha256": "6bdaa04e6d633fb80c4c391176ceec7a1dbe5f5560e332fde0ea002c3bd0723f",
+      "cue_count": 4187,
+      "last_end_ms": 10007960,
+      "matches": []
+    },
+    {
+      "path": "sources/The Wastes S1E020. Flaky Mushrooms.qwen-q8.canary-ctc.nemotron.srt",
+      "sha256": "d2ae4ec303a94423d511745320930271387a6ea88062c393b0f406a15b2a31ea",
+      "cue_count": 4763,
+      "last_end_ms": 10007360,
+      "matches": []
+    },
+    {
+      "path": "sources/The Wastes S1E021. The Mushroom Kingdom.parakeet.processed.srt",
+      "sha256": "25b972c58a411eb101890dd7dc5253a41a8f1cfbee25c44b8dc2c50987f38f55",
+      "cue_count": 3438,
+      "last_end_ms": 12108600,
+      "matches": []
+    },
+    {
+      "path": "sources/The Wastes S1E021. The Mushroom Kingdom.qwen-q8.canary-ctc.nemotron.srt",
+      "sha256": "4751bb160bc54faed951211efbf6231423b4a0cb5d4e902d54df42042a307e2a",
+      "cue_count": 5823,
+      "last_end_ms": 12108320,
+      "matches": []
+    },
+    {
+      "path": "sources/The Wastes S1E022. The Charmed Lizard.parakeet.processed.srt",
+      "sha256": "a601f5bd7be984b54eabd6ba40a296b4c80cd0c352fe185c548fcfbcd52c3dac",
+      "cue_count": 3174,
+      "last_end_ms": 11224900,
+      "matches": []
+    },
+    {
+      "path": "sources/The Wastes S1E022. The Charmed Lizard.qwen-q8.canary-ctc.nemotron.srt",
+      "sha256": "660e398cd57e20f5e60a15136c1ae0e617a3feb7a46190124bf8589b5d611b00",
+      "cue_count": 5503,
+      "last_end_ms": 11224540,
+      "matches": []
+    },
+    {
+      "path": "sources/The Wastes S1E023. Demon Hotel.parakeet.processed.srt",
+      "sha256": "ad285d89bba2fe794538398eaf50fac99439eaf9661dc39fc3c5d06d06e8e671",
+      "cue_count": 2704,
+      "last_end_ms": 10362300,
+      "matches": [
+        1099,
+        1744
+      ]
+    },
+    {
+      "path": "sources/The Wastes S1E023. Demon Hotel.qwen-q8.canary-ctc.nemotron.srt",
+      "sha256": "506c70aa7c59d95daa69a88275ba1e2eea6f4df862428605e3f039459c0ba7fc",
+      "cue_count": 4260,
+      "last_end_ms": 10359600,
+      "matches": [
+        1698,
+        2763
+      ]
+    },
+    {
+      "path": "sources/The Wastes S1E024. Monogamy Respected.parakeet.processed.srt",
+      "sha256": "87d65659d7ff7da755850e089a7b5263a746649d3207ad71b8765a68650ad493",
+      "cue_count": 2933,
+      "last_end_ms": 10883870,
+      "matches": []
+    },
+    {
+      "path": "sources/The Wastes S1E024. Monogamy Respected.qwen-q8.canary-ctc.nemotron.srt",
+      "sha256": "1b215e090ca25abcec326935432126f6a9dc496efb4bb5b34214e0f1ed29fcd6",
+      "cue_count": 4820,
+      "last_end_ms": 10883580,
+      "matches": []
+    },
+    {
+      "path": "sources/The Wastes S1E025. Door Authority.parakeet.processed.srt",
+      "sha256": "9c7b8cdc2dfd9048b5196e4b5074a412a39cfc814c9241675aa88869b6dc535a",
+      "cue_count": 3120,
+      "last_end_ms": 10175540,
+      "matches": []
+    },
+    {
+      "path": "sources/The Wastes S1E025. Door Authority.qwen-q8.canary-ctc.nemotron.srt",
+      "sha256": "8d0adbf3ca11e20549ba70ef8d65829a955b1cc7eccc2ccba54a7aa8056c356e",
+      "cue_count": 5287,
+      "last_end_ms": 10175300,
+      "matches": []
+    },
+    {
+      "path": "sources/The Wastes S1E026. The Hunt.parakeet.processed.srt",
+      "sha256": "b01d0fbc3d7d73423030eb474bbb1acbcb321e14f0017dc6a66ab3aa4fc483db",
+      "cue_count": 3040,
+      "last_end_ms": 11221990,
+      "matches": [
+        1697,
+        1698,
+        1702,
+        1705,
+        1712,
+        1717,
+        1822,
+        1952
+      ]
+    },
+    {
+      "path": "sources/The Wastes S1E026. The Hunt.qwen-q8.canary-ctc.nemotron.srt",
+      "sha256": "ed8792144113b0a4623fc1850373c3341eab5c9aa0de8a9bb4209af1da6585aa",
+      "cue_count": 4921,
+      "last_end_ms": 11221740,
+      "matches": [
+        2689,
+        2691,
+        2696,
+        2699,
+        2709,
+        2715,
+        2877,
+        3087
+      ]
+    },
+    {
+      "path": "sources/The Wastes S1E027. Lizard Party.parakeet.processed.srt",
+      "sha256": "b8aa2a4f626e67c4beacabc164b052b0b717e37e1b7ce960cb0accf1aa656e4b",
+      "cue_count": 2828,
+      "last_end_ms": 10228820,
+      "matches": [
+        986,
+        988,
+        1308,
+        1309,
+        2540
+      ]
+    },
+    {
+      "path": "sources/The Wastes S1E027. Lizard Party.qwen-q8.canary-ctc.nemotron.srt",
+      "sha256": "8b876d241ab9816014dff340f1d60ce5b870cd19260506a1bac30cf39ef6c452",
+      "cue_count": 4903,
+      "last_end_ms": 10228420,
+      "matches": [
+        1611,
+        1612,
+        1614,
+        2230,
+        2232,
+        2233,
+        4408
+      ]
+    },
+    {
+      "path": "sources/The Wastes S1E028. It's A Cat Person!.parakeet.processed.srt",
+      "sha256": "2996807447daf349e086dee107b1624fea0e73dc18cfb22c3b7c9b4b7707c876",
+      "cue_count": 2975,
+      "last_end_ms": 10596100,
+      "matches": [
+        1800
+      ]
+    },
+    {
+      "path": "sources/The Wastes S1E028. It's A Cat Person!.qwen-q8.canary-ctc.nemotron.srt",
+      "sha256": "d16822a77c2160028e97faf27445a5bbaba9989f5becc9140a0938ecfc46fc5d",
+      "cue_count": 4999,
+      "last_end_ms": 10595800,
+      "matches": [
+        3008
+      ]
+    },
+    {
+      "path": "sources/The Wastes S1E029. Stanley's Choice.parakeet.processed.srt",
+      "sha256": "911dbeb9f8c6c41e90d273120842c675a5ce8b6c3361e468f00c9facb4b59426",
+      "cue_count": 2274,
+      "last_end_ms": 8937870,
+      "matches": []
+    },
+    {
+      "path": "sources/The Wastes S1E029. Stanley's Choice.qwen-q8.canary-ctc.nemotron.srt",
+      "sha256": "ff05505d089ec4802c6d52a3cb8259a2b5a27ab8d5bd8f267c2c0356d4c2e3a2",
+      "cue_count": 3641,
+      "last_end_ms": 8940000,
+      "matches": []
+    },
+    {
+      "path": "sources/The Wastes S1E030. The Worm Turns.parakeet.processed.srt",
+      "sha256": "6dc3d8036855adb83ab8b18c36025bb7ce504831cddd740a601cbbdcb7139861",
+      "cue_count": 3235,
+      "last_end_ms": 11247000,
+      "matches": []
+    },
+    {
+      "path": "sources/The Wastes S1E030. The Worm Turns.qwen-q8.canary-ctc.nemotron.srt",
+      "sha256": "56de0842c7214ec390fe8d5b94bdeab22aca3135c1e891dd3af5b20d9d6c3c44",
+      "cue_count": 5325,
+      "last_end_ms": 11246700,
+      "matches": []
+    },
+    {
+      "path": "sources/The Wastes S1E031. Three Men and a P0d.parakeet.processed.srt",
+      "sha256": "51d65dd0fa764e7a705ce6f349bb4473702481dd963a72641eaecd591e499646",
+      "cue_count": 2974,
+      "last_end_ms": 10541130,
+      "matches": []
+    },
+    {
+      "path": "sources/The Wastes S1E031. Three Men and a P0d.qwen-q8.canary-ctc.nemotron.srt",
+      "sha256": "de64a215bc5d0388237f34f5c43c918672a37c111312d2610ff2b962ec19f512",
+      "cue_count": 5031,
+      "last_end_ms": 10540880,
+      "matches": []
+    },
+    {
+      "path": "sources/The Wastes S1E032. The Great Bleaching.parakeet.processed.srt",
+      "sha256": "b6d569eadf9d07ebfd63eb718250be5d389eba0c6733df55a0fffbb2ffde1a3c",
+      "cue_count": 2724,
+      "last_end_ms": 10305150,
+      "matches": [
+        1923
+      ]
+    },
+    {
+      "path": "sources/The Wastes S1E032. The Great Bleaching.qwen-q8.canary-ctc.nemotron.srt",
+      "sha256": "68eeb4dfad95336f22ced5014bfbe79cc04c4b00f5e19311412455059c051daa",
+      "cue_count": 4571,
+      "last_end_ms": 10304840,
+      "matches": [
+        3155
+      ]
+    },
+    {
+      "path": "sources/The Wastes S1E033. Nashfree.parakeet.processed.srt",
+      "sha256": "8417201b09cd15c6de79e37045e95b9522fc822050276314308c7824b117aa68",
+      "cue_count": 2634,
+      "last_end_ms": 9821770,
+      "matches": []
+    },
+    {
+      "path": "sources/The Wastes S1E033. Nashfree.qwen-q8.canary-ctc.nemotron.srt",
+      "sha256": "ceb37cd019cc14d952b699766684430f0505940b0f2cae1819ba9f9d268a10ac",
+      "cue_count": 4352,
+      "last_end_ms": 9821440,
+      "matches": []
+    },
+    {
+      "path": "sources/The Wastes S1E034. Blood Ball.parakeet.processed.srt",
+      "sha256": "152717b8c37cbe8ae7840900edd237c96f621c8718f75c0aca6aa3bbca8dbc8f",
+      "cue_count": 3082,
+      "last_end_ms": 10927400,
+      "matches": []
+    },
+    {
+      "path": "sources/The Wastes S1E034. Blood Ball.qwen-q8.canary-ctc.nemotron.srt",
+      "sha256": "f11763c316ad1bdb4c5b672b8a2bab1993b458d0bbdbe56b19afb6af8747b341",
+      "cue_count": 5200,
+      "last_end_ms": 10927100,
+      "matches": []
+    },
+    {
+      "path": "sources/The Wastes S1E035. Genitals McReady.parakeet.processed.srt",
+      "sha256": "3f3ead8a22564572759c759eabb3e714c59d63df04eab557d67498b4e6ca6fac",
+      "cue_count": 3051,
+      "last_end_ms": 10639650,
+      "matches": []
+    },
+    {
+      "path": "sources/The Wastes S1E035. Genitals McReady.qwen-q8.canary-ctc.nemotron.srt",
+      "sha256": "6b3257dbe1e81269ee77b99967e1b423305efd89503f453c9c36018d86a4c093",
+      "cue_count": 5275,
+      "last_end_ms": 10639280,
+      "matches": []
+    },
+    {
+      "path": "sources/The Wastes S1E036. High on Toes.parakeet.processed.srt",
+      "sha256": "e1d18636b3490531f417b7778ebaf8df880ccb50623705931495c98e20ee04f7",
+      "cue_count": 3503,
+      "last_end_ms": 12113970,
+      "matches": []
+    },
+    {
+      "path": "sources/The Wastes S1E036. High on Toes.qwen-q8.canary-ctc.nemotron.srt",
+      "sha256": "644ac2350794b3eaddcb46a40987681f881527876fbec553ac1d5fc312443643",
+      "cue_count": 6091,
+      "last_end_ms": 12113640,
+      "matches": []
+    },
+    {
+      "path": "sources/The Wastes S1E037. Dirty Chalice.parakeet.processed.srt",
+      "sha256": "133e9dcd276ea2478312005a4236616adf8458b52ce90627f811413730c8695c",
+      "cue_count": 3157,
+      "last_end_ms": 11933160,
+      "matches": []
+    },
+    {
+      "path": "sources/The Wastes S1E037. Dirty Chalice.qwen-q8.canary-ctc.nemotron.srt",
+      "sha256": "18bfb5ad549a84208d9de8718d71adbdaf99a6e5c1d9b957fe3b1e9313170b0a",
+      "cue_count": 5307,
+      "last_end_ms": 11932940,
+      "matches": []
+    },
+    {
+      "path": "sources/The Wastes S1E038. Don't lose Hope.parakeet.processed.srt",
+      "sha256": "6062169e92b253202135a5ac2c5303df6c34744a1569db435a300fcca240967c",
+      "cue_count": 3396,
+      "last_end_ms": 11349030,
+      "matches": []
+    },
+    {
+      "path": "sources/The Wastes S1E038. Don't lose Hope.qwen-q8.canary-ctc.nemotron.srt",
+      "sha256": "011b9e627fa257f239cafb36c85d0f199e1bf98fa37322f7019b79fcc344e492",
+      "cue_count": 5911,
+      "last_end_ms": 11348680,
+      "matches": []
+    },
+    {
+      "path": "sources/The Wastes S1E039. Taking up arms.parakeet.processed.srt",
+      "sha256": "effe48d322a4fab9aaa748bca50db8e8af806f7bdb271af3421591adbebc5dd1",
+      "cue_count": 3186,
+      "last_end_ms": 12847940,
+      "matches": []
+    },
+    {
+      "path": "sources/The Wastes S1E039. Taking up arms.qwen-q8.canary-ctc.nemotron.srt",
+      "sha256": "40578477c9357aadd7d0286f4ba675fffd0068644f9a71de079d41514568e76f",
+      "cue_count": 5087,
+      "last_end_ms": 12847660,
+      "matches": []
+    },
+    {
+      "path": "sources/The Wastes S1E040. The Tale of The Two Phillips.parakeet.processed.srt",
+      "sha256": "fafd56227e245397edc3de960bfd35072351d1f54964f7e5b9cb8538557b85c1",
+      "cue_count": 2892,
+      "last_end_ms": 10295320,
+      "matches": []
+    },
+    {
+      "path": "sources/The Wastes S1E040. The Tale of The Two Phillips.qwen-q8.canary-ctc.nemotron.srt",
+      "sha256": "4e24a4f5775f60e17b61f8813f93b727eea4ae5e7484ce57c1a3440111b31cc0",
+      "cue_count": 4906,
+      "last_end_ms": 10295110,
+      "matches": []
+    },
+    {
+      "path": "sources/The Wastes S1E041. Only take one egg.parakeet.processed.srt",
+      "sha256": "0f8ad05e968dd2bb741eff0e7f75d17b36daba2da45a9783578671c5f6314322",
+      "cue_count": 2820,
+      "last_end_ms": 10098250,
+      "matches": []
+    },
+    {
+      "path": "sources/The Wastes S1E041. Only take one egg.qwen-q8.canary-ctc.nemotron.srt",
+      "sha256": "42129110d539f441bbabbab88cf67c1726f5b554d490fb34a11aafb9a97c03a4",
+      "cue_count": 4734,
+      "last_end_ms": 10097940,
+      "matches": []
+    },
+    {
+      "path": "sources/The Wastes S1E042. Anyone for some black pudding.parakeet.processed.srt",
+      "sha256": "2f7b66b41cde76ef2d18b16276526ea85a90d6c5381811b909622a21874b0e78",
+      "cue_count": 3211,
+      "last_end_ms": 11751990,
+      "matches": []
+    },
+    {
+      "path": "sources/The Wastes S1E042. Anyone for some black pudding.qwen-q8.canary-ctc.nemotron.srt",
+      "sha256": "f7d95f64a6e70319480c28687698390c7e05c5612c4c37a9bbc4089ba454710b",
+      "cue_count": 5575,
+      "last_end_ms": 11751760,
+      "matches": []
+    },
+    {
+      "path": "sources/The Wastes S1E043. Merry Chromeness!.parakeet.processed.srt",
+      "sha256": "4ae28fdf68336ecbbf5d59858e351fd1d223be6988ca2bc458be26346f860a71",
+      "cue_count": 4303,
+      "last_end_ms": 15272310,
+      "matches": []
+    },
+    {
+      "path": "sources/The Wastes S1E043. Merry Chromeness!.qwen-q8.canary-ctc.nemotron.srt",
+      "sha256": "c5dae8fd5df4c02d08643aaaa50f3af98bba71757eb0215ece8c52b61f7a7e15",
+      "cue_count": 7441,
+      "last_end_ms": 15272040,
+      "matches": []
+    },
+    {
+      "path": "sources/The Wastes S1E044. Poke it with your Mage Hand.parakeet.processed.srt",
+      "sha256": "0e95ae8d8432256fea649532c9d91ba9240ec02edf5cafe7326d06a9ad5d1054",
+      "cue_count": 2772,
+      "last_end_ms": 10268690,
+      "matches": []
+    },
+    {
+      "path": "sources/The Wastes S1E044. Poke it with your Mage Hand.qwen-q8.canary-ctc.nemotron.srt",
+      "sha256": "a14bc5f6f6ec707036b9170069ed62c2bd95e4884157c684cb663e140cfc1137",
+      "cue_count": 4631,
+      "last_end_ms": 10268360,
+      "matches": []
+    },
+    {
+      "path": "sources/The Wastes S1E045. Those Eyes.parakeet.processed.srt",
+      "sha256": "fb3a6c7a34ee77075b0c27cb488fc55118fdc80f7a1c0eb642b35a2cfc4469f3",
+      "cue_count": 2820,
+      "last_end_ms": 10751570,
+      "matches": []
+    },
+    {
+      "path": "sources/The Wastes S1E045. Those Eyes.qwen-q8.canary-ctc.nemotron.srt",
+      "sha256": "2a840a6b29ef522781124a3c711ce21f51befb473d3980d798752c5970186351",
+      "cue_count": 4876,
+      "last_end_ms": 10751320,
+      "matches": []
+    },
+    {
+      "path": "sources/The Wastes S1E046. There's a Patch For That.parakeet.processed.srt",
+      "sha256": "913d5f3e51db9e50f5dcf86e1266e19a9af1b28be64d735ea25efbdf1317aeea",
+      "cue_count": 2887,
+      "last_end_ms": 10713370,
+      "matches": []
+    },
+    {
+      "path": "sources/The Wastes S1E046. There's a Patch For That.qwen-q8.canary-ctc.nemotron.srt",
+      "sha256": "14e5269babba450934e1d120aeedcd9cbb2f63ffe186d77d9f1d6795975c1c74",
+      "cue_count": 4771,
+      "last_end_ms": 10713200,
+      "matches": []
+    },
+    {
+      "path": "sources/The Wastes S1E047. 50 Shades of Grain.parakeet.processed.srt",
+      "sha256": "484ea091a212bc769ad3f244f3f4e5d346eaa1831131cf9052936ca2cdcff938",
+      "cue_count": 3003,
+      "last_end_ms": 11205900,
+      "matches": []
+    },
+    {
+      "path": "sources/The Wastes S1E047. 50 Shades of Grain.qwen-q8.canary-ctc.nemotron.srt",
+      "sha256": "7a763958386d19a77ce3f63127bdf9930b7e687b9028bfd90bb3a0f933d26103",
+      "cue_count": 4970,
+      "last_end_ms": 11205640,
+      "matches": []
+    },
+    {
+      "path": "sources/The Wastes S1E048. George Style.parakeet.processed.srt",
+      "sha256": "d12e7dca6ff37d50437ceae0768447708d36a0c5f64f16582e79a9a4ebe84edc",
+      "cue_count": 2909,
+      "last_end_ms": 11680980,
+      "matches": []
+    },
+    {
+      "path": "sources/The Wastes S1E048. George Style.qwen-q8.canary-ctc.nemotron.srt",
+      "sha256": "8a22264c22a8ef7fa8888a0540b6ccd03706548e3d43e173dabd66ee49bedf17",
+      "cue_count": 4766,
+      "last_end_ms": 11680660,
+      "matches": []
+    },
+    {
+      "path": "sources/The Wastes S1E049. Podzilla.parakeet.processed.srt",
+      "sha256": "b78a0e6fa41e7d3a8ec7c4bc4164259adb44212c02ef0464a0dc2b3cef50a197",
+      "cue_count": 3127,
+      "last_end_ms": 11724770,
+      "matches": []
+    },
+    {
+      "path": "sources/The Wastes S1E049. Podzilla.qwen-q8.canary-ctc.nemotron.srt",
+      "sha256": "f75ce774b2eb39e11aed9bf8ce18d4a8b27d6ea85adf7567acfd05d9c368a44e",
+      "cue_count": 5391,
+      "last_end_ms": 11724540,
+      "matches": []
+    },
+    {
+      "path": "sources/The Wastes S1E050. The Pillars of Decency.parakeet.processed.srt",
+      "sha256": "a3bc1fc6084577e8b7cbb8a90310c35c4419e228e10e822b8928066fcf1d9247",
+      "cue_count": 2696,
+      "last_end_ms": 10556950,
+      "matches": []
+    },
+    {
+      "path": "sources/The Wastes S1E050. The Pillars of Decency.qwen-q8.canary-ctc.nemotron.srt",
+      "sha256": "0250e94ad88528aaeecafebe6dc305e2cccd5d0b5e2d9d2b791c6adaba98109b",
+      "cue_count": 4420,
+      "last_end_ms": 10556680,
+      "matches": []
+    },
+    {
+      "path": "sources/The Wastes S1E051. Tripping Is Not A Standard Action.parakeet.processed.srt",
+      "sha256": "d536c5deeb8bc91420e0a9e2d4044794dbbe64b0984260b73266800a093e319f",
+      "cue_count": 2947,
+      "last_end_ms": 10631800,
+      "matches": []
+    },
+    {
+      "path": "sources/The Wastes S1E051. Tripping Is Not A Standard Action.qwen-q8.canary-ctc.nemotron.srt",
+      "sha256": "e2eb1217f16a8cf3711177cea3e399ee48e15a253002739d3e28a770089cd557",
+      "cue_count": 5011,
+      "last_end_ms": 10631360,
+      "matches": []
+    },
+    {
+      "path": "sources/The Wastes S1E052. Hear me, Froghemuth!.parakeet.processed.srt",
+      "sha256": "f857b9580fe89b080b36bf4e94aa677b69343c1d0681d5009ec40fa53c439de1",
+      "cue_count": 3403,
+      "last_end_ms": 11412640,
+      "matches": []
+    },
+    {
+      "path": "sources/The Wastes S1E052. Hear me, Froghemuth!.qwen-q8.canary-ctc.nemotron.srt",
+      "sha256": "2b02cd174f4f0d1892152c5ab309f4e0bbe0d864f99d6a854cbf5e42378d67dd",
+      "cue_count": 5965,
+      "last_end_ms": 11412280,
+      "matches": []
+    },
+    {
+      "path": "sources/The Wastes S1E053. Snacks of Power.parakeet.processed.srt",
+      "sha256": "dc956a392acf339374398081fbc6813f4c7b9d4d4c2860c100bc3c765c663e26",
+      "cue_count": 2690,
+      "last_end_ms": 9685890,
+      "matches": []
+    },
+    {
+      "path": "sources/The Wastes S1E053. Snacks of Power.qwen-q8.canary-ctc.nemotron.srt",
+      "sha256": "6dbdf0888bdc05fc745a12003b4cb9df97f57f04a5c427cce6923c5609cbe94a",
+      "cue_count": 4511,
+      "last_end_ms": 9684490,
+      "matches": []
+    },
+    {
+      "path": "sources/The Wastes S1E054. Blow the walls down.parakeet.processed.srt",
+      "sha256": "c64bdf48d733d166434c51f2ff8bc75b81ad23fc337e6a2dde8223ec5f8f14ee",
+      "cue_count": 2132,
+      "last_end_ms": 8563960,
+      "matches": []
+    },
+    {
+      "path": "sources/The Wastes S1E054. Blow the walls down.qwen-q8.canary-ctc.nemotron.srt",
+      "sha256": "e217e1f299cac12e0fc0caf2cc1348ac643edccc2400a2453cb69859c3fdb661",
+      "cue_count": 3359,
+      "last_end_ms": 8563660,
+      "matches": []
+    },
+    {
+      "path": "sources/The Wastes S1E055. My Standards Are Very Lizard.parakeet.processed.srt",
+      "sha256": "7932684976057d17c967931d3369c65870ab345e40bcec728ca97ae3328d56cf",
+      "cue_count": 2742,
+      "last_end_ms": 10412510,
+      "matches": [
+        1433,
+        1434
+      ]
+    },
+    {
+      "path": "sources/The Wastes S1E055. My Standards Are Very Lizard.qwen-q8.canary-ctc.nemotron.srt",
+      "sha256": "1b677563c3007799110c744b3f63ca74419093be3fa6c13b1b29bdcee5c100e8",
+      "cue_count": 4517,
+      "last_end_ms": 10412100,
+      "matches": [
+        2308,
+        2310,
+        2311
+      ]
+    },
+    {
+      "path": "sources/The Wastes S1E056. Welcome back, George.parakeet.processed.srt",
+      "sha256": "18666aaa820f2ec2bb5fea55c4eecc77474237d2459180f6d5e46857e84d571c",
+      "cue_count": 2607,
+      "last_end_ms": 9903620,
+      "matches": []
+    },
+    {
+      "path": "sources/The Wastes S1E056. Welcome back, George.qwen-q8.canary-ctc.nemotron.srt",
+      "sha256": "1417740ba884f7fd7eaef64f1aa9f89983cbc64babd2524d133da230e38d8c4d",
+      "cue_count": 4305,
+      "last_end_ms": 9903260,
+      "matches": []
+    },
+    {
+      "path": "sources/The Wastes S1E057. The Royal Truckery.parakeet.processed.srt",
+      "sha256": "3c75c0cfe290c2e234a0ebc917e9e431c535b23c20f9a87599cb010400d9c08a",
+      "cue_count": 2729,
+      "last_end_ms": 10053271,
+      "matches": []
+    },
+    {
+      "path": "sources/The Wastes S1E057. The Royal Truckery.qwen-q8.canary-ctc.nemotron.srt",
+      "sha256": "36817a9e37a607fec41ed89b1b3c9d79e900beec40aa3853c96ee88ee8eabf7d",
+      "cue_count": 4614,
+      "last_end_ms": 10052800,
+      "matches": []
+    },
+    {
+      "path": "sources/The Wastes S1E058. The Magical Banana Trail.parakeet.processed.srt",
+      "sha256": "cfcc996776c02110c0721b9663baea3bae8eb7a76e5c42e4c04fdef5bbee8263",
+      "cue_count": 2762,
+      "last_end_ms": 10621060,
+      "matches": []
+    },
+    {
+      "path": "sources/The Wastes S1E058. The Magical Banana Trail.qwen-q8.canary-ctc.nemotron.srt",
+      "sha256": "8166a16233d865e0813e1415c3096314f22d44cd88617dc15f39a8d912b3430a",
+      "cue_count": 4756,
+      "last_end_ms": 10620760,
+      "matches": []
+    },
+    {
+      "path": "sources/The Wastes S1E059. Paradise of Mans.parakeet.processed.srt",
+      "sha256": "a4203e978168d3fd66cef0087cba1049cb3db92768d10225dd139590772b4ff5",
+      "cue_count": 2503,
+      "last_end_ms": 10156840,
+      "matches": []
+    },
+    {
+      "path": "sources/The Wastes S1E059. Paradise of Mans.qwen-q8.canary-ctc.nemotron.srt",
+      "sha256": "a64a2e019b5f2daab99e03a3ca96d8252581ee7c693a106a5dd5252ff41b376b",
+      "cue_count": 4030,
+      "last_end_ms": 10156560,
+      "matches": []
+    },
+    {
+      "path": "sources/The Wastes S1E060. What's for dinner.parakeet.processed.srt",
+      "sha256": "26bbd172c6f05fc3603919253da9ca00db2b28adbfcf982cebd347a7b53a6b68",
+      "cue_count": 2516,
+      "last_end_ms": 9916720,
+      "matches": []
+    },
+    {
+      "path": "sources/The Wastes S1E060. What's for dinner.qwen-q8.canary-ctc.nemotron.srt",
+      "sha256": "42398dd926f1b13cac5b964b896e5f472ce3268e9fcc6c34760b8582af61cd8f",
+      "cue_count": 3888,
+      "last_end_ms": 9916500,
+      "matches": []
+    },
+    {
+      "path": "sources/The Wastes S1E061. The Many Maggards.parakeet.processed.srt",
+      "sha256": "da10441483d04cd32089b242cc2ed124ba2b4b5b8ee32c43c5a3e74ce537e83e",
+      "cue_count": 2883,
+      "last_end_ms": 10667050,
+      "matches": []
+    },
+    {
+      "path": "sources/The Wastes S1E061. The Many Maggards.qwen-q8.canary-ctc.nemotron.srt",
+      "sha256": "de29c061e56fa433fb107fa74c36fb7b2b1586361ecc020edcfdc3fe73127ef6",
+      "cue_count": 4762,
+      "last_end_ms": 10666200,
+      "matches": []
+    },
+    {
+      "path": "sources/The Wastes S1E062. Orp Fight!.parakeet.processed.srt",
+      "sha256": "a25adc0d82f5ced6c3453394ab36676c758bd084fdf362046485f584d976e506",
+      "cue_count": 2583,
+      "last_end_ms": 9569280,
+      "matches": []
+    },
+    {
+      "path": "sources/The Wastes S1E062. Orp Fight!.qwen-q8.canary-ctc.nemotron.srt",
+      "sha256": "e7101f303097e7c02c9a07fa424be8665c351d89ee3545869fe1f814feca76fa",
+      "cue_count": 4323,
+      "last_end_ms": 9569060,
+      "matches": []
+    },
+    {
+      "path": "sources/The Wastes S1E063. Two Royals.parakeet.processed.srt",
+      "sha256": "082d964343f8f032f4f994926695cdd65cc82f1b5c8449b9a574a6f53a376a2f",
+      "cue_count": 2740,
+      "last_end_ms": 10536280,
+      "matches": []
+    },
+    {
+      "path": "sources/The Wastes S1E063. Two Royals.qwen-q8.canary-ctc.nemotron.srt",
+      "sha256": "0057b81264d7e6e486f42234fc3401d105a1509193734e5d8e78f90a08f4f5e7",
+      "cue_count": 4583,
+      "last_end_ms": 10535920,
+      "matches": []
+    },
+    {
+      "path": "sources/The Wastes S1E064. Mount Up and Ride.parakeet.processed.srt",
+      "sha256": "ca693977abbcae39218ba22a85c471348643bc2e0290622c6bf90c6d8b23e6e3",
+      "cue_count": 2843,
+      "last_end_ms": 10785560,
+      "matches": []
+    },
+    {
+      "path": "sources/The Wastes S1E064. Mount Up and Ride.qwen-q8.canary-ctc.nemotron.srt",
+      "sha256": "1745b312033fcb57916c49bbaf08809e0a532551142573faccf401dcf62ad3ac",
+      "cue_count": 4688,
+      "last_end_ms": 10785240,
+      "matches": []
+    },
+    {
+      "path": "sources/The Wastes S1E065. Under the Dome.parakeet.processed.srt",
+      "sha256": "9e14cdfe674217c905bdd36f669b6890c50d1fd6b19b5d0e48056e8965dd61d0",
+      "cue_count": 2475,
+      "last_end_ms": 9601780,
+      "matches": []
+    },
+    {
+      "path": "sources/The Wastes S1E065. Under the Dome.qwen-q8.canary-ctc.nemotron.srt",
+      "sha256": "8a86cfbd98a7000a390b7f45fedd8dbf2659289d292ef3ca24616deacd77c861",
+      "cue_count": 4264,
+      "last_end_ms": 9601460,
+      "matches": []
+    },
+    {
+      "path": "sources/The Wastes S1E066. The Eyes Have It.parakeet.processed.srt",
+      "sha256": "b79e4f68e235b6b567d6b99a46a5756931e0560e4b081804a0bdf9877d40793b",
+      "cue_count": 2360,
+      "last_end_ms": 9217720,
+      "matches": []
+    },
+    {
+      "path": "sources/The Wastes S1E066. The Eyes Have It.qwen-q8.canary-ctc.nemotron.srt",
+      "sha256": "2d0649809af13ae9dfad1a19d5b9873e7753ab83042f5757271570d8f508f1cd",
+      "cue_count": 4004,
+      "last_end_ms": 9217520,
+      "matches": []
+    },
+    {
+      "path": "sources/The Wastes S1E067. Frigid Fingers of Failure.parakeet.processed.srt",
+      "sha256": "ed5b5b4496c3bd922e9876adf9f168244412789b1aaa0aa94adaf74c47c666ee",
+      "cue_count": 2782,
+      "last_end_ms": 9905060,
+      "matches": []
+    },
+    {
+      "path": "sources/The Wastes S1E067. Frigid Fingers of Failure.qwen-q8.canary-ctc.nemotron.srt",
+      "sha256": "d581e352b1bcb49b64cf8dd3a1581306dddaa99a483d636bda7ec9f8e6ff9fde",
+      "cue_count": 4796,
+      "last_end_ms": 9904760,
+      "matches": []
+    },
+    {
+      "path": "sources/The Wastes S1E068. Stay Out The Shaft.parakeet.processed.srt",
+      "sha256": "f2ca70251feb52e69420a9a17ba6261203618c96a04a6051a7dcde0485d05623",
+      "cue_count": 3306,
+      "last_end_ms": 11378750,
+      "matches": []
+    },
+    {
+      "path": "sources/The Wastes S1E068. Stay Out The Shaft.qwen-q8.canary-ctc.nemotron.srt",
+      "sha256": "9bfc8b95a386212f19509a81f0380379f8191686d8c8660124e7a95105e1edaf",
+      "cue_count": 5905,
+      "last_end_ms": 11378560,
+      "matches": []
+    },
+    {
+      "path": "sources/The Wastes S1E069. Crimes Against Doormanity.parakeet.processed.srt",
+      "sha256": "672b288c1d812a8bf057484ff57d9cf22dbb153f1f55e505c8a4e21503994633",
+      "cue_count": 2535,
+      "last_end_ms": 9423340,
+      "matches": []
+    },
+    {
+      "path": "sources/The Wastes S1E069. Crimes Against Doormanity.qwen-q8.canary-ctc.nemotron.srt",
+      "sha256": "1971583db02e05a4b7f6dcad15ed6de4c7745fac44a798ba4ba3fb307c66c734",
+      "cue_count": 4088,
+      "last_end_ms": 9423160,
+      "matches": []
+    },
+    {
+      "path": "sources/The Wastes S1E070. Polymorph The Security Monkey.parakeet.processed.srt",
+      "sha256": "1d45da43fb1a38801fa9e05f569ae5ec6609bbbf022fd33f215a53bf75540a0d",
+      "cue_count": 2942,
+      "last_end_ms": 11039480,
+      "matches": []
+    },
+    {
+      "path": "sources/The Wastes S1E070. Polymorph The Security Monkey.qwen-q8.canary-ctc.nemotron.srt",
+      "sha256": "da661f76f3f650a588c204b40ca8b033572fdf8b76230f3a2c5a4cd4e9f3acef",
+      "cue_count": 5097,
+      "last_end_ms": 11039280,
+      "matches": []
+    },
+    {
+      "path": "sources/The Wastes S1E071. The Door Street Journal.parakeet.processed.srt",
+      "sha256": "8ddb7f40148ebf3e609700d5a7f82ec8b2933612517b9b11f8f87dd5657df0f3",
+      "cue_count": 2771,
+      "last_end_ms": 10121240,
+      "matches": []
+    },
+    {
+      "path": "sources/The Wastes S1E071. The Door Street Journal.qwen-q8.canary-ctc.nemotron.srt",
+      "sha256": "d40738a620f2f819b6d8e56eb7267c5c262fd6de64efd39d6c9d27c1b74a7ef2",
+      "cue_count": 4784,
+      "last_end_ms": 10124300,
+      "matches": []
+    },
+    {
+      "path": "sources/The Wastes S1E072. Weekend at Toby's.parakeet.processed.srt",
+      "sha256": "81eed492f27d6ea7af0564bae3e2ea1d0f674100ae91169b103beb0d92182870",
+      "cue_count": 2535,
+      "last_end_ms": 9977470,
+      "matches": []
+    },
+    {
+      "path": "sources/The Wastes S1E072. Weekend at Toby's.qwen-q8.canary-ctc.nemotron.srt",
+      "sha256": "78847e4ad3fd85f49fecd420093d8c07b8c06814ddec529f1ccec62cfa279eb4",
+      "cue_count": 4303,
+      "last_end_ms": 9977230,
+      "matches": []
+    },
+    {
+      "path": "sources/The Wastes S1E073. Slow Peter and Ice Boyfriends.parakeet.processed.srt",
+      "sha256": "70c6d60de531fa540e8bb36ab3f6d59c8c4132b5a365868eec32047e026dba70",
+      "cue_count": 2629,
+      "last_end_ms": 9600130,
+      "matches": []
+    },
+    {
+      "path": "sources/The Wastes S1E073. Slow Peter and Ice Boyfriends.qwen-q8.canary-ctc.nemotron.srt",
+      "sha256": "63cdcb0c7734cbe2129a8c9c77b51634be31408e036f2f36112c8e20cc9d7e16",
+      "cue_count": 4380,
+      "last_end_ms": 9599700,
+      "matches": []
+    },
+    {
+      "path": "sources/The Wastes S1E074. The Big Red One.parakeet.processed.srt",
+      "sha256": "350dd209cb515e5d8005e2660449515ed008594f905105a9cbba83e99c32a6fa",
+      "cue_count": 3302,
+      "last_end_ms": 11541220,
+      "matches": []
+    },
+    {
+      "path": "sources/The Wastes S1E074. The Big Red One.qwen-q8.canary-ctc.nemotron.srt",
+      "sha256": "9847ab6cfe1f71617154bf51b6f9e920482623684e8e0fc5a312a5c85b418c87",
+      "cue_count": 5876,
+      "last_end_ms": 11540920,
+      "matches": []
+    },
+    {
+      "path": "sources/The Wastes S1E075. Fly me to the moon.parakeet.processed.srt",
+      "sha256": "0d9b82d9f7a0001682e6af2c6f88887120392b5bb6cc76194061d30bb2f4494c",
+      "cue_count": 2817,
+      "last_end_ms": 10331450,
+      "matches": []
+    },
+    {
+      "path": "sources/The Wastes S1E075. Fly me to the moon.qwen-q8.canary-ctc.nemotron.srt",
+      "sha256": "626e27003388b189ad96a4c5026b1e4704a6979307176df2ff6b0160bc8e1955",
+      "cue_count": 4982,
+      "last_end_ms": 10331260,
+      "matches": []
+    },
+    {
+      "path": "sources/The Wastes S1E076. Potable Portable Portal.parakeet.processed.srt",
+      "sha256": "24331548a2f786f9c3894beedfdb343a84834b71837444049b6ac2cdc83f5d9e",
+      "cue_count": 2788,
+      "last_end_ms": 10417820,
+      "matches": []
+    },
+    {
+      "path": "sources/The Wastes S1E076. Potable Portable Portal.qwen-q8.canary-ctc.nemotron.srt",
+      "sha256": "8473a90aa6e2174e19cf382e1315dca58ad76d7ce9dea1f387502bfcd71c6d37",
+      "cue_count": 4794,
+      "last_end_ms": 10416980,
+      "matches": []
+    },
+    {
+      "path": "sources/The Wastes S1E077. The Wall Nash.parakeet.processed.srt",
+      "sha256": "b1f756d4ead106c617cf77136caeaccacc4ed9e945aeb0d4e563fee95d8c9564",
+      "cue_count": 2985,
+      "last_end_ms": 12213540,
+      "matches": []
+    },
+    {
+      "path": "sources/The Wastes S1E077. The Wall Nash.qwen-q8.canary-ctc.nemotron.srt",
+      "sha256": "f601fd14fb3e8195baa232a20842aaa2bd04c7b252b7409db77d5623dd6c0e43",
+      "cue_count": 4989,
+      "last_end_ms": 12213180,
+      "matches": []
+    },
+    {
+      "path": "sources/The Wastes S1E078. Who will flay the Mind Flayers.parakeet.processed.srt",
+      "sha256": "452e4fa0e22adf9d50770c9d61f66ffbc9716da45e87445675115fec9d418f5f",
+      "cue_count": 3360,
+      "last_end_ms": 12068410,
+      "matches": [
+        1566,
+        1677,
+        1795,
+        2325,
+        2797
+      ]
+    },
+    {
+      "path": "sources/The Wastes S1E078. Who will flay the Mind Flayers.qwen-q8.canary-ctc.nemotron.srt",
+      "sha256": "4e3eef890a74afc368a2b147fa0d8714d968757ceccd1cc60d90caeb0856e4ed",
+      "cue_count": 5913,
+      "last_end_ms": 12068240,
+      "matches": [
+        2638,
+        2639,
+        2830,
+        3057,
+        4003,
+        4883
+      ]
+    },
+    {
+      "path": "sources/The Wastes S1E079. We go boom boom.parakeet.processed.srt",
+      "sha256": "5be71e8c75731d80cf48246d7ab7ec6c317050c78fcc235b6f27d744af2ed2d2",
+      "cue_count": 2781,
+      "last_end_ms": 9524400,
+      "matches": [
+        127,
+        296,
+        297,
+        298,
+        313,
+        635,
+        641,
+        1387
+      ]
+    },
+    {
+      "path": "sources/The Wastes S1E079. We go boom boom.qwen-q8.canary-ctc.nemotron.srt",
+      "sha256": "b0f85af58ddefff1efdf031e65fd5ddb7065fb3b00a9e1339f0fa9d27c1ece57",
+      "cue_count": 4796,
+      "last_end_ms": 9524030,
+      "matches": [
+        172,
+        470,
+        472,
+        474,
+        502,
+        1090,
+        1105,
+        2365
+      ]
+    },
+    {
+      "path": "sources/The Wastes S1E080. What's with the fire truck.parakeet.processed.srt",
+      "sha256": "9992384970918bccd679bb3123c4ecf3eb19257f33724a7ed7efdb26a3850af8",
+      "cue_count": 2441,
+      "last_end_ms": 9181160,
+      "matches": []
+    },
+    {
+      "path": "sources/The Wastes S1E080. What's with the fire truck.qwen-q8.canary-ctc.nemotron.srt",
+      "sha256": "d69c76438ac1ffb2ab7a92ed05290f58b1e5d0debfbe35addcbc89996cc00567",
+      "cue_count": 4543,
+      "last_end_ms": 9180960,
+      "matches": []
+    },
+    {
+      "path": "sources/The Wastes S1E081. There's Always A Chance In Space.parakeet.processed.srt",
+      "sha256": "006668629e09cccf25332b70ef944cc40629aa2285a30037740ce170d54b3fa2",
+      "cue_count": 2714,
+      "last_end_ms": 10032110,
+      "matches": []
+    },
+    {
+      "path": "sources/The Wastes S1E081. There's Always A Chance In Space.qwen-q8.canary-ctc.nemotron.srt",
+      "sha256": "db490fdfffd76ffce6d737f58ba6bd563b2810e82f87f598b1d3a61657a79695",
+      "cue_count": 4725,
+      "last_end_ms": 10031460,
+      "matches": []
+    },
+    {
+      "path": "sources/The Wastes S1E082. Binch Better Have My Money.parakeet.processed.srt",
+      "sha256": "308fe839e8b0f3f0c6287615a7e80c544939db839cb54f92c1b5796f9e588406",
+      "cue_count": 2247,
+      "last_end_ms": 9237820,
+      "matches": [
+        1949,
+        1972,
+        1973
+      ]
+    },
+    {
+      "path": "sources/The Wastes S1E082. Binch Better Have My Money.qwen-q8.canary-ctc.nemotron.srt",
+      "sha256": "bf05ebe09da5a167a1d4991bacca1147c20bafd6a9a192b94099978fadced6ae",
+      "cue_count": 3554,
+      "last_end_ms": 9240240,
+      "matches": [
+        3057,
+        3103,
+        3108
+      ]
+    },
+    {
+      "path": "sources/The Wastes S1E083. Trash Monkey and The Bird.parakeet.processed.srt",
+      "sha256": "3e37d731bbf9b2d0f35f208f990b06f858ddaafd1b1fec804c6bbb084062bf2d",
+      "cue_count": 2630,
+      "last_end_ms": 10775660,
+      "matches": []
+    },
+    {
+      "path": "sources/The Wastes S1E083. Trash Monkey and The Bird.qwen-q8.canary-ctc.nemotron.srt",
+      "sha256": "7bc0a8bf93ba364ac14d1f0857ba4c987ae01f524c6da49b99f15d73a3c51741",
+      "cue_count": 4396,
+      "last_end_ms": 10775320,
+      "matches": [
+        467,
+        2488
+      ]
+    },
+    {
+      "path": "sources/The Wastes S1E084. Select Your Champion.parakeet.processed.srt",
+      "sha256": "4d13fa10f5a0de4b1d7846c8cd5cf449ea3f665dac32dddea900bc9dfe8c4e53",
+      "cue_count": 2765,
+      "last_end_ms": 10342330,
+      "matches": []
+    },
+    {
+      "path": "sources/The Wastes S1E084. Select Your Champion.qwen-q8.canary-ctc.nemotron.srt",
+      "sha256": "33cb163d8dcf86cc2b9a05b4beaf6962e0ad34f7f281ff644cb8d31541eebbcd",
+      "cue_count": 4709,
+      "last_end_ms": 10341820,
+      "matches": [
+        179,
+        994
+      ]
+    },
+    {
+      "path": "sources/The Wastes S1E085. Always High Kick.parakeet.processed.srt",
+      "sha256": "59bb6a83e9e554b87209cb460f8b1af6d675248e91935dacfa9400d5fec7686b",
+      "cue_count": 2855,
+      "last_end_ms": 9954890,
+      "matches": []
+    },
+    {
+      "path": "sources/The Wastes S1E085. Always High Kick.qwen-q8.canary-ctc.nemotron.srt",
+      "sha256": "95f9213d1e74d925321cc987096ab784ba3fdeac6e5e988c0438aeb6c24fd709",
+      "cue_count": 4883,
+      "last_end_ms": 9954500,
+      "matches": []
+    },
+    {
+      "path": "sources/The Wastes S1E086. Don't be such a Berk.parakeet.processed.srt",
+      "sha256": "24b47d9339ec2100aba99095718d4d31e3a639d08eecd7852e57b2b4099ce529",
+      "cue_count": 2807,
+      "last_end_ms": 10486050,
+      "matches": []
+    },
+    {
+      "path": "sources/The Wastes S1E086. Don't be such a Berk.qwen-q8.canary-ctc.nemotron.srt",
+      "sha256": "0732d61fcd601364f33947410c8671a3193d46892b438cdafdd73e1cee0d01d1",
+      "cue_count": 4770,
+      "last_end_ms": 10486030,
+      "matches": [
+        3412
+      ]
+    },
+    {
+      "path": "sources/The Wastes S1E087. We have a winner.parakeet.processed.srt",
+      "sha256": "de1a59c15fc9d1952632832bd5266e05b881bd47fefe47e969d904e1c77579b8",
+      "cue_count": 2899,
+      "last_end_ms": 10551880,
+      "matches": []
+    },
+    {
+      "path": "sources/The Wastes S1E087. We have a winner.qwen-q8.canary-ctc.nemotron.srt",
+      "sha256": "a6c25973a1e8220dead3d76218940cd134644138ed60abadf1931b108251d4b9",
+      "cue_count": 4718,
+      "last_end_ms": 10551820,
+      "matches": []
+    },
+    {
+      "path": "sources/The Wastes S1E088. Shopping Day.parakeet.processed.srt",
+      "sha256": "45097ad5d0bff823cb5770f713494f833822d619b538a23ee094deaefee141fc",
+      "cue_count": 2618,
+      "last_end_ms": 10231450,
+      "matches": [
+        300
+      ]
+    },
+    {
+      "path": "sources/The Wastes S1E088. Shopping Day.qwen-q8.canary-ctc.nemotron.srt",
+      "sha256": "d29a3e84ff7724f1be681b20a4442b6608a358997ca37940e57aa830f823bcd5",
+      "cue_count": 4105,
+      "last_end_ms": 10231220,
+      "matches": [
+        429
+      ]
+    },
+    {
+      "path": "sources/The Wastes S1E089. It has an umbrella in it.parakeet.processed.srt",
+      "sha256": "66fd88d49f4c46f062cfa8790880cbba6fdf83ce97a3b59d5ad3662395d31f26",
+      "cue_count": 2728,
+      "last_end_ms": 10301480,
+      "matches": []
+    },
+    {
+      "path": "sources/The Wastes S1E089. It has an umbrella in it.qwen-q8.canary-ctc.nemotron.srt",
+      "sha256": "ab81eb57757a25a4f0e397dad2059ce25ac3122f443cbe4e5e00ef176029b9da",
+      "cue_count": 4485,
+      "last_end_ms": 10301230,
+      "matches": []
+    },
+    {
+      "path": "sources/The Wastes S1E090. The smell of strawberries and sadness.parakeet.processed.srt",
+      "sha256": "f37a0ccf91cccae686fe6e372328d6f9930933b583bc6db50de6643afd622346",
+      "cue_count": 2650,
+      "last_end_ms": 10190140,
+      "matches": []
+    },
+    {
+      "path": "sources/The Wastes S1E090. The smell of strawberries and sadness.qwen-q8.canary-ctc.nemotron.srt",
+      "sha256": "75621b46fce3c5762fe2e1090b933ab04e9bcac98bde4c70abdd653faa16d936",
+      "cue_count": 4294,
+      "last_end_ms": 10190000,
+      "matches": []
+    },
+    {
+      "path": "sources/The Wastes S1E091. Going on a heist.parakeet.processed.srt",
+      "sha256": "8f24fdae726edae977e84db18e78fdc61fd8816d9b008f21988a57d8b2f39bc7",
+      "cue_count": 2506,
+      "last_end_ms": 9989490,
+      "matches": []
+    },
+    {
+      "path": "sources/The Wastes S1E091. Going on a heist.qwen-q8.canary-ctc.nemotron.srt",
+      "sha256": "8b2b31a89050dec3b4caad851822bd431beaec3eab1862c09f1f6206cdd73536",
+      "cue_count": 4188,
+      "last_end_ms": 9989180,
+      "matches": []
+    },
+    {
+      "path": "sources/The Wastes S1E092. He's So Handsome.parakeet.processed.srt",
+      "sha256": "14ea59f0cb0c64f6e18d26fe1076e290ef6ec5b3cb2aa533a5cbf2aed2860386",
+      "cue_count": 2546,
+      "last_end_ms": 9843320,
+      "matches": []
+    },
+    {
+      "path": "sources/The Wastes S1E092. He's So Handsome.qwen-q8.canary-ctc.nemotron.srt",
+      "sha256": "49fbde27e69bd772d627707ace43da17630595067c33cc826689a17da7cf009a",
+      "cue_count": 4306,
+      "last_end_ms": 9843260,
+      "matches": []
+    },
+    {
+      "path": "sources/The Wastes S1E093. We're on a boat.parakeet.processed.srt",
+      "sha256": "060bd8cc1bc7f7642604955f351cd31c0a778435a01842475760f01bf018ac22",
+      "cue_count": 2833,
+      "last_end_ms": 10445840,
+      "matches": []
+    },
+    {
+      "path": "sources/The Wastes S1E093. We're on a boat.qwen-q8.canary-ctc.nemotron.srt",
+      "sha256": "9a1b9721a1148ad81d4434eb74bec3c190dcaa633a8321de7c1478f7fccd590a",
+      "cue_count": 4839,
+      "last_end_ms": 10445740,
+      "matches": []
+    },
+    {
+      "path": "sources/The Wastes S1E094. Where did my ball go.parakeet.processed.srt",
+      "sha256": "c3f6a32b51b99c19941018bbcd22b53a1badf94672d8d4a35de9df976a20f76d",
+      "cue_count": 2386,
+      "last_end_ms": 9762330,
+      "matches": []
+    },
+    {
+      "path": "sources/The Wastes S1E094. Where did my ball go.qwen-q8.canary-ctc.nemotron.srt",
+      "sha256": "c2ccce959c110001a6700b7b890b7a6718f49229be9d76f1c9b91fcd539b93ae",
+      "cue_count": 3729,
+      "last_end_ms": 9762280,
+      "matches": []
+    },
+    {
+      "path": "sources/The Wastes S1E095. A Cloudy Day.parakeet.processed.srt",
+      "sha256": "e9694f81921e5cdbb46949f3cd369d1b3b7c58a54709e3f15bf6670e7fd3bdf6",
+      "cue_count": 2242,
+      "last_end_ms": 9771790,
+      "matches": []
+    },
+    {
+      "path": "sources/The Wastes S1E095. A Cloudy Day.qwen-q8.canary-ctc.nemotron.srt",
+      "sha256": "84b5b6552aa17e6fcfc8fa6ec9396762041455c251ee226e3527bc7869bbab6f",
+      "cue_count": 3632,
+      "last_end_ms": 9771460,
+      "matches": []
+    },
+    {
+      "path": "sources/The Wastes S1E096. You hold the soup.parakeet.processed.srt",
+      "sha256": "40c971eb8e8eb3eb73c14a3dc9a739fa2e063e86b10691b51a77b3e8757e4472",
+      "cue_count": 2437,
+      "last_end_ms": 9845070,
+      "matches": []
+    },
+    {
+      "path": "sources/The Wastes S1E096. You hold the soup.qwen-q8.canary-ctc.nemotron.srt",
+      "sha256": "591362d3540ee2d3c4ee7199f1c0a22783ab6580887dd86f8f6024ec898597ba",
+      "cue_count": 4160,
+      "last_end_ms": 9844920,
+      "matches": []
+    },
+    {
+      "path": "sources/The Wastes S1E097. Walnut, go away..parakeet.processed.srt",
+      "sha256": "a4cc8e0aab5fd99513a7386c06f4f0998e6d5d6e004e5ab48ab90fb94a14fee9",
+      "cue_count": 2494,
+      "last_end_ms": 9471730,
+      "matches": []
+    },
+    {
+      "path": "sources/The Wastes S1E097. Walnut, go away..qwen-q8.canary-ctc.nemotron.srt",
+      "sha256": "d8dc5312a2663e6c94d99cdbbdaf69f64774c4d9b9bb8fa91142631e0f2160c6",
+      "cue_count": 4068,
+      "last_end_ms": 9471520,
+      "matches": []
+    },
+    {
+      "path": "sources/The Wastes S1E098. Roll for Arousal.parakeet.processed.srt",
+      "sha256": "644a785d31bf810712643211065d89d74ff8244fb27a10c7445fa912e6fa7d2c",
+      "cue_count": 2782,
+      "last_end_ms": 10268359,
+      "matches": []
+    },
+    {
+      "path": "sources/The Wastes S1E098. Roll for Arousal.qwen-q8.canary-ctc.nemotron.srt",
+      "sha256": "8610394297a3f398c147d252e6b81fdab4884306d50f6034577749c7a0df23a6",
+      "cue_count": 4752,
+      "last_end_ms": 10267720,
+      "matches": []
+    },
+    {
+      "path": "sources/The Wastes S1E099. Now We Have a Moon.parakeet.processed.srt",
+      "sha256": "4d576cc612cb9a6d2d5a6443d10dd0cd0e737dcbc7781ebab97383f4bb3b5ba3",
+      "cue_count": 2846,
+      "last_end_ms": 10310210,
+      "matches": []
+    },
+    {
+      "path": "sources/The Wastes S1E099. Now We Have a Moon.qwen-q8.canary-ctc.nemotron.srt",
+      "sha256": "939ece7c1977969276e84ac5f90c184dd22eb2274ad89eb52519af003259d566",
+      "cue_count": 4903,
+      "last_end_ms": 10260370,
+      "matches": []
+    },
+    {
+      "path": "sources/The Wastes S1E100. Misty Brain Mist.parakeet.processed.srt",
+      "sha256": "391668896a00e64c8320de82bf18b1cd388d3d1c25527336d2017e078beed2d5",
+      "cue_count": 3584,
+      "last_end_ms": 12583460,
+      "matches": []
+    },
+    {
+      "path": "sources/The Wastes S1E100. Misty Brain Mist.qwen-q8.canary-ctc.nemotron.srt",
+      "sha256": "d58398521e6b5e1f7a92cdcb0b856758bcfbc1f7d5cf93f83d9dcaf4fd5af59f",
+      "cue_count": 6247,
+      "last_end_ms": 12583480,
+      "matches": []
+    },
+    {
+      "path": "sources/The Wastes S1E101. A New Hope.parakeet.processed.srt",
+      "sha256": "55999fe6ad927a46c886224791ba2353144886b0ec708b262932b1a87f310249",
+      "cue_count": 2736,
+      "last_end_ms": 10198210,
+      "matches": []
+    },
+    {
+      "path": "sources/The Wastes S1E101. A New Hope.qwen-q8.canary-ctc.nemotron.srt",
+      "sha256": "5edd84c61ae42793b4679a6e1932e8363ed9369b05e28bb5cc5acacc3b3d74af",
+      "cue_count": 4521,
+      "last_end_ms": 10198760,
+      "matches": []
+    },
+    {
+      "path": "sources/The Wastes S1E102. Who are these people.parakeet.processed.srt",
+      "sha256": "343209eb783228dca2f4eb1448f4e168d322ad1e59cfad35de876f5713600876",
+      "cue_count": 2697,
+      "last_end_ms": 10085510,
+      "matches": []
+    },
+    {
+      "path": "sources/The Wastes S1E102. Who are these people.qwen-q8.canary-ctc.nemotron.srt",
+      "sha256": "b73ab0d0c5b9725a14ef62171435735a6d8735309523c126f5ae257866b882c4",
+      "cue_count": 4395,
+      "last_end_ms": 10085240,
+      "matches": []
+    },
+    {
+      "path": "sources/The Wastes S1E103. When in doubt, burn it.ark-q8.canary-ctc.nemotron.vad-firered.srt",
+      "sha256": "021feeeda81f907e710593252a22651b924ac2cffbde8f8de52d43e93da871f5",
+      "cue_count": 1526,
+      "last_end_ms": 9854730,
+      "matches": []
+    },
+    {
+      "path": "sources/The Wastes S1E103. When in doubt, burn it.granite-plus-q4.canary-ctc.nemotron.srt",
+      "sha256": "8d20a9609977674063c1aeb555144ce23613379f46711aa3bfc7fe912d639ee1",
+      "cue_count": 3621,
+      "last_end_ms": 9837800,
+      "matches": []
+    },
+    {
+      "path": "sources/The Wastes S1E103. When in doubt, burn it.parakeet.processed.srt",
+      "sha256": "40897b43240bd46820a3a20f82101e07d710a620ae85d3cbf592c541b9a91dcf",
+      "cue_count": 2639,
+      "last_end_ms": 9852950,
+      "matches": []
+    },
+    {
+      "path": "sources/The Wastes S1E103. When in doubt, burn it.qwen-q8.canary-ctc.nemotron.srt",
+      "sha256": "28fc7f2666c35fe16cf281bbbad2a98bfbbdf20efb7dc7ea483a80780b1a3e84",
+      "cue_count": 4551,
+      "last_end_ms": 9852760,
+      "matches": []
+    },
+    {
+      "path": "sources/The Wastes S1E104. I Blew A Dragon For THIS.parakeet.processed.srt",
+      "sha256": "49c82590fca8f47b9166da3b4fcbe56af1912b38121595dda461209286031b1c",
+      "cue_count": 3063,
+      "last_end_ms": 10622960,
+      "matches": []
+    },
+    {
+      "path": "sources/The Wastes S1E104. I Blew A Dragon For THIS.qwen-q8.canary-ctc.nemotron.srt",
+      "sha256": "ead1b6ceea17f16bbc6670faba7256335220c8c624e220bafb8b8b100ff08086",
+      "cue_count": 5426,
+      "last_end_ms": 10622780,
+      "matches": []
+    },
+    {
+      "path": "sources/The Wastes S1E105. The Fright Elevator.parakeet.processed.srt",
+      "sha256": "8c898ff479073ec29d23bc766a25b9bffe04968d9610697b35f2342639dcc11b",
+      "cue_count": 2900,
+      "last_end_ms": 10334240,
+      "matches": []
+    },
+    {
+      "path": "sources/The Wastes S1E105. The Fright Elevator.qwen-q8.canary-ctc.nemotron.srt",
+      "sha256": "8e8e470b365789a832e64fc6e3af59f3dc61b6877c121e153f80680e0ad203d8",
+      "cue_count": 4976,
+      "last_end_ms": 10334300,
+      "matches": []
+    },
+    {
+      "path": "sources/The Wastes S1E106. I Took An Arrow Thru The Brain.parakeet.processed.srt",
+      "sha256": "a5390487bae6b978996a00b0c0973392d48f98f0452fa68bc6ab232d3024cceb",
+      "cue_count": 2490,
+      "last_end_ms": 9630030,
+      "matches": []
+    },
+    {
+      "path": "sources/The Wastes S1E106. I Took An Arrow Thru The Brain.qwen-q8.canary-ctc.nemotron.srt",
+      "sha256": "65a8bf89b0c55a4159fc36ad33d02c789001208c160f24f85f257d1cb8de13dc",
+      "cue_count": 3921,
+      "last_end_ms": 9629280,
+      "matches": []
+    },
+    {
+      "path": "sources/The Wastes S1E107. The Handshaking Algorithm.parakeet.processed.srt",
+      "sha256": "818ca57102eaa727947f5884996eb0234c01697b93820a602d34581895254e89",
+      "cue_count": 2577,
+      "last_end_ms": 10323510,
+      "matches": []
+    },
+    {
+      "path": "sources/The Wastes S1E107. The Handshaking Algorithm.qwen-q8.canary-ctc.nemotron.srt",
+      "sha256": "9f2e23ccade66959fd5973d9533d139bf921632ab55aa915aa4a5295e0219e57",
+      "cue_count": 3930,
+      "last_end_ms": 10323230,
+      "matches": []
+    },
+    {
+      "path": "sources/The Wastes S1E108. Save The Two.parakeet.processed.srt",
+      "sha256": "dc9989918e807568fc53e6028cabc86c75e3899a4c45f0b7e2ce8c19a6d96e36",
+      "cue_count": 2398,
+      "last_end_ms": 9468310,
+      "matches": []
+    },
+    {
+      "path": "sources/The Wastes S1E108. Save The Two.qwen-q8.canary-ctc.nemotron.srt",
+      "sha256": "c0570e8cd3ab714a41a759ce3126d59b36373aaf6033f8ab98203893c6d78722",
+      "cue_count": 3849,
+      "last_end_ms": 9468090,
+      "matches": []
+    },
+    {
+      "path": "sources/The Wastes S1E109. Sand Jell-O.parakeet.processed.srt",
+      "sha256": "f9eeca5b04d0680507ff8aebc1ef77f945f347efc81075daba34429e7b9c8306",
+      "cue_count": 2335,
+      "last_end_ms": 9780650,
+      "matches": []
+    },
+    {
+      "path": "sources/The Wastes S1E109. Sand Jell-O.qwen-q8.canary-ctc.nemotron.srt",
+      "sha256": "9cb3207bd8f9e9fbc404a7c5a043fa091b3a2a7c3b0f6413e0691134dd16b430",
+      "cue_count": 3784,
+      "last_end_ms": 9780510,
+      "matches": []
+    },
+    {
+      "path": "sources/The Wastes S1E110. Do what the big head tells you.parakeet.processed.srt",
+      "sha256": "64a34a9cfa22f60f08e95bfa8c34eddc160b5d4eab092bb4b419ec67e2c9954e",
+      "cue_count": 2832,
+      "last_end_ms": 10121820,
+      "matches": []
+    },
+    {
+      "path": "sources/The Wastes S1E110. Do what the big head tells you.qwen-q8.canary-ctc.nemotron.srt",
+      "sha256": "54ed9e551b3c19d68fe808136579e0bc68defbe9c206c30415d51a9dd2d18be8",
+      "cue_count": 4836,
+      "last_end_ms": 10121440,
+      "matches": []
+    },
+    {
+      "path": "sources/The Wastes S1E111. Squirts Into The Night.parakeet.processed.srt",
+      "sha256": "1779802531ed71b981a680755cf7406a2dcdf12d2690eca8a1167d068d8a52cc",
+      "cue_count": 2729,
+      "last_end_ms": 10627860,
+      "matches": []
+    },
+    {
+      "path": "sources/The Wastes S1E111. Squirts Into The Night.qwen-q8.canary-ctc.nemotron.srt",
+      "sha256": "70f0722be378d595655cd5ef2ffda80904876c0b6601cb4d0732c76cb4fc239d",
+      "cue_count": 4446,
+      "last_end_ms": 10627660,
+      "matches": []
+    },
+    {
+      "path": "sources/The Wastes S1E112. Flee, my fae wildlings!.parakeet.processed.srt",
+      "sha256": "f65448c5972739657ccbb77534625e7cbe2b22bbfb35d8601b41a0116e9fbfe2",
+      "cue_count": 2687,
+      "last_end_ms": 10561140,
+      "matches": []
+    },
+    {
+      "path": "sources/The Wastes S1E112. Flee, my fae wildlings!.qwen-q8.canary-ctc.nemotron.srt",
+      "sha256": "15d524e14b04686a01ebc9098320f477b3c438c7e1fbbaf96d5d5a6309440c77",
+      "cue_count": 4426,
+      "last_end_ms": 10560900,
+      "matches": []
+    },
+    {
+      "path": "sources/The Wastes S1E113. I Need To Smell Your Hand.parakeet.processed.srt",
+      "sha256": "90e6aa00080cb3f8d0807f4fc6f6f30bed052d792be0a522546ebfb0d0f065ba",
+      "cue_count": 2271,
+      "last_end_ms": 9625300,
+      "matches": []
+    },
+    {
+      "path": "sources/The Wastes S1E113. I Need To Smell Your Hand.qwen-q8.canary-ctc.nemotron.srt",
+      "sha256": "9eebe1a2ccbf46b8eabcc62c29abac6c0666e06711f3885afa679b2cae09fdbf",
+      "cue_count": 3677,
+      "last_end_ms": 9624950,
+      "matches": []
+    },
+    {
+      "path": "sources/The Wastes S1E114. I hope that's a baby.parakeet.processed.srt",
+      "sha256": "ea4c0fa8ae7070c57c4dd06dc9872f0a7fc2cc3428a19f2dd74366c011c839b8",
+      "cue_count": 2542,
+      "last_end_ms": 9722720,
+      "matches": []
+    },
+    {
+      "path": "sources/The Wastes S1E114. I hope that's a baby.qwen-q8.canary-ctc.nemotron.srt",
+      "sha256": "b0a605282686f2829464ce87f585da97ccbde143182e233c6af21c11af89c7e0",
+      "cue_count": 4288,
+      "last_end_ms": 9722340,
+      "matches": []
+    },
+    {
+      "path": "sources/The Wastes S1E115. The Forest for The Trees.parakeet.processed.srt",
+      "sha256": "f5980bda07a39a368c13b2ec1c92fed45910829af29d6fd1595e3b27e7a4939c",
+      "cue_count": 2691,
+      "last_end_ms": 11061680,
+      "matches": []
+    },
+    {
+      "path": "sources/The Wastes S1E115. The Forest for The Trees.qwen-q8.canary-ctc.nemotron.srt",
+      "sha256": "c67ae857aa85aa4a4d69a53a8de5237a710896052eb9a751d7be25d546f561a4",
+      "cue_count": 4386,
+      "last_end_ms": 11060660,
+      "matches": []
+    },
+    {
+      "path": "sources/The Wastes S1E116. Large Spectral Pile Of Babies.parakeet.processed.srt",
+      "sha256": "a590b040917bd2e6f0b1f7d39511014aa6f963b97ff42df389a3985de4646946",
+      "cue_count": 2719,
+      "last_end_ms": 10089210,
+      "matches": []
+    },
+    {
+      "path": "sources/The Wastes S1E116. Large Spectral Pile Of Babies.qwen-q8.canary-ctc.nemotron.srt",
+      "sha256": "3d89e94207d0f97b47a9697dda1909923b9b434eeb860eb1a496c83eadadceea",
+      "cue_count": 4728,
+      "last_end_ms": 10088880,
+      "matches": []
+    },
+    {
+      "path": "sources/The Wastes S1E117. The Fireside Stories.parakeet.processed.srt",
+      "sha256": "45560643510e01f7a9ab46a5d2be00f985c4d494ccc110ba78dc8be04446cf63",
+      "cue_count": 2288,
+      "last_end_ms": 10100020,
+      "matches": []
+    },
+    {
+      "path": "sources/The Wastes S1E117. The Fireside Stories.qwen-q8.canary-ctc.nemotron.srt",
+      "sha256": "e3a29e547812006393bd4a55c77e7f0e470c80dbf141737c41dccbf99c969579",
+      "cue_count": 3702,
+      "last_end_ms": 10099810,
+      "matches": []
+    },
+    {
+      "path": "sources/The Wastes S1E118. The Key.parakeet.processed.srt",
+      "sha256": "ca402c7070dccc4be399430ce04f91c902014d40eefd2524c1cc31732e723781",
+      "cue_count": 2104,
+      "last_end_ms": 8389760,
+      "matches": []
+    },
+    {
+      "path": "sources/The Wastes S1E118. The Key.qwen-q8.canary-ctc.nemotron.srt",
+      "sha256": "25a6ee5a663577d5234057496aacc8363c5657f695ef715dbcd32313d426f58a",
+      "cue_count": 3275,
+      "last_end_ms": 8389520,
+      "matches": []
+    },
+    {
+      "path": "sources/The Wastes S1E119. Put Out The Fish Fire.parakeet.processed.srt",
+      "sha256": "3294bca802624f97fa378bb0691e857eab502b0059687882f4284ee74ed2ad3d",
+      "cue_count": 2690,
+      "last_end_ms": 10068900,
+      "matches": []
+    },
+    {
+      "path": "sources/The Wastes S1E119. Put Out The Fish Fire.qwen-q8.canary-ctc.nemotron.srt",
+      "sha256": "86d57644a4370ad08bf468ec44c40dd462b6e2c8a6e74c680ef099763142e27c",
+      "cue_count": 4525,
+      "last_end_ms": 10068640,
+      "matches": []
+    },
+    {
+      "path": "sources/The Wastes S1E120. Fly Like An Eagle.parakeet.processed.srt",
+      "sha256": "b8fddbea23961df4284d024d444e741ca84accafc2107fedc2a56e89318d9144",
+      "cue_count": 2817,
+      "last_end_ms": 9912020,
+      "matches": []
+    },
+    {
+      "path": "sources/The Wastes S1E120. Fly Like An Eagle.qwen-q8.canary-ctc.nemotron.srt",
+      "sha256": "293b63cdc3ca53f82635618c8427bb4271b3bee887d66c6fed717b420f65803a",
+      "cue_count": 4758,
+      "last_end_ms": 9911720,
+      "matches": []
+    },
+    {
+      "path": "sources/The Wastes S1E121. The Heart of The Matter.parakeet.processed.srt",
+      "sha256": "4740fc72f76e2f5f51a123db3f209c990afeae98727a9a9f425fe37c103a3456",
+      "cue_count": 2645,
+      "last_end_ms": 10339630,
+      "matches": []
+    },
+    {
+      "path": "sources/The Wastes S1E121. The Heart of The Matter.qwen-q8.canary-ctc.nemotron.srt",
+      "sha256": "8a59b36d47a918c4f619883c55dfc924aad98d7095f3ebf2d7312a9d0bd58bf5",
+      "cue_count": 4533,
+      "last_end_ms": 10339280,
+      "matches": []
+    },
+    {
+      "path": "sources/The Wastes S1E122. That's Ghost Water.parakeet.processed.srt",
+      "sha256": "fce5a4c952131637a9657a4272786ad43761137cbf2398ca04e4f26ccfaf7f52",
+      "cue_count": 2527,
+      "last_end_ms": 9610050,
+      "matches": []
+    },
+    {
+      "path": "sources/The Wastes S1E122. That's Ghost Water.qwen-q8.canary-ctc.nemotron.srt",
+      "sha256": "304e6854cb0b997b8dd7bafb2ee5693075bd02d1a52027c9290f626f08d43ebb",
+      "cue_count": 4114,
+      "last_end_ms": 9609790,
+      "matches": []
+    },
+    {
+      "path": "sources/The Wastes S1E123. No Floating Forks.parakeet.processed.srt",
+      "sha256": "fb5a8c36e63da24722c0d776ccdc35cae142bdf2d615d6a1977b1fdeb23abf94",
+      "cue_count": 2621,
+      "last_end_ms": 10160370,
+      "matches": [
+        2015,
+        2016,
+        2017,
+        2018
+      ]
+    },
+    {
+      "path": "sources/The Wastes S1E123. No Floating Forks.qwen-q8.canary-ctc.nemotron.srt",
+      "sha256": "26a9e129c7464b4c7c7ff31b52d75e03f2230d648e2a2383a351be948fcf22a6",
+      "cue_count": 4264,
+      "last_end_ms": 10160040,
+      "matches": [
+        3247,
+        3248,
+        3250,
+        3251
+      ]
+    },
+    {
+      "path": "sources/The Wastes S1E124. Bow To The Fish Bird.parakeet.processed.srt",
+      "sha256": "3f2379333effa2f8e778c3bb6ada22bc4c55d12692a31794b6dfab8ebaab209a",
+      "cue_count": 2033,
+      "last_end_ms": 8932120,
+      "matches": []
+    },
+    {
+      "path": "sources/The Wastes S1E124. Bow To The Fish Bird.qwen-q8.canary-ctc.nemotron.srt",
+      "sha256": "d5b27a54782daa8f1e5e0707efcb4473a26cdd2e0a79cb4ca4d4bdb53f1d1161",
+      "cue_count": 3326,
+      "last_end_ms": 8931780,
+      "matches": []
+    },
+    {
+      "path": "sources/The Wastes S1E125. A Case of Malpractice.parakeet.processed.srt",
+      "sha256": "12d09ca21cc7ee3b1081b81415ee1e1d928e363aa1acb4441c5ab6b9365b0eaf",
+      "cue_count": 2527,
+      "last_end_ms": 9248740,
+      "matches": []
+    },
+    {
+      "path": "sources/The Wastes S1E125. A Case of Malpractice.qwen-q8.canary-ctc.nemotron.srt",
+      "sha256": "04a9e8c1e486101f956f8a9db5e5c39f6d01f0fba0bad71307c03e981982f731",
+      "cue_count": 4292,
+      "last_end_ms": 9248440,
+      "matches": []
+    },
+    {
+      "path": "sources/The Wastes S1E126. Musical Shredding Damage.parakeet.processed.srt",
+      "sha256": "cbbdaa04622a20bd804e032158b7b862af642abb68fec3c7c1218925d0ba4c8e",
+      "cue_count": 2704,
+      "last_end_ms": 9850080,
+      "matches": []
+    },
+    {
+      "path": "sources/The Wastes S1E126. Musical Shredding Damage.qwen-q8.canary-ctc.nemotron.srt",
+      "sha256": "234d8b5299d4cf1e79262f5089db4884dbaba01d4325f100c5d9ce806f6bd9cd",
+      "cue_count": 4486,
+      "last_end_ms": 9849810,
+      "matches": []
+    },
+    {
+      "path": "sources/The Wastes S1E127. Spider Claws.parakeet.processed.srt",
+      "sha256": "7f1f0f9235cc278c73a9c0cc30cbe60d9ae77da827c6c0e0da9cb91c8bf00c0f",
+      "cue_count": 2454,
+      "last_end_ms": 10446700,
+      "matches": []
+    },
+    {
+      "path": "sources/The Wastes S1E127. Spider Claws.qwen-q8.canary-ctc.nemotron.srt",
+      "sha256": "3988a1daecb6e7055f8dd08bd924dc9a0572d21d6d87da4c0438191ddb551940",
+      "cue_count": 4136,
+      "last_end_ms": 10446420,
+      "matches": []
+    },
+    {
+      "path": "sources/The Wastes S1E128. Burrow.parakeet.processed.srt",
+      "sha256": "ec87a958f5baafd077085a6fe7901bd42d082fd66fac9db29dc40223519b92f9",
+      "cue_count": 1958,
+      "last_end_ms": 8087760,
+      "matches": []
+    },
+    {
+      "path": "sources/The Wastes S1E128. Burrow.qwen-q8.canary-ctc.nemotron.srt",
+      "sha256": "7e8a67d0f51247d66365a844823c1c1da2d44fa30708415aad0c2d45d3ac9dee",
+      "cue_count": 3132,
+      "last_end_ms": 8087360,
+      "matches": []
+    }
+  ],
+  "limits": [
+    "Cue hits are not independent mentions or a completeness measure.",
+    "Model labels are filename-derived; ASR agreement is not audio verification.",
+    "Cross-read windows are limited to core E012 and E015 descriptions.",
+    "Unknown squidlike CHIDS organisms and Squirts name errors are excluded.",
+    "Bonus discussion is out-of-game commentary and does not establish ooze ancestry."
+  ],
+  "published_article": "world/creatures/sand-squid.md"
+}

@@ -1,0 +1,1559 @@
+{
+  "date": "2026-10-24",
+  "campaign": "The Wastes",
+  "season": 1,
+  "research_type": "existing-dossier keyword discovery and targeted textual triage",
+  "scope": {
+    "dossiers_scanned": 130,
+    "paths": "episodes/E000.md through E128.md plus E013.5.md",
+    "full_dossiers_interpreted": false,
+    "full_srt_review": false,
+    "audio_review": false,
+    "not_exhaustive": true,
+    "new_canonical_entries_published": 1,
+    "selected_srt_followup": true
+  },
+  "search_patterns": [
+    "creatur|monster|beast|predator|mutant|tentacle|froghemoth|basilisk|worm|insect|spider|scorpion|ooze|slime|swarm|raptor|lactid|leviathan|gibber|mouther|catob|mimic|hound|dog\\b|wolves|wolf\\b|dinosaur|tyranno|rex\\b|beetle|snake|serpent|hydra|golem|construct|elemental|undead|zombie|skeleton|dragon|flytrap|fung|mushroom|shark|bird|fish|toad|crab|centipede|millipede|larva|locust|stirge|slither|eye.?stalk|gargoyle|carrion|roper|aberrat|blob|jell|bulette|troll|manticore|wyvern|griff|rat\\b|rats\\b|bat\\b|bats\\b|boar|bear\\b|hyena|lizard|squid|octop|plant|vine",
+    "\\b(?:devour\\w*|grubs?|aboleths?|otyughs?|chokers?|gazers?|specters?|spectres?|wraiths?|wights?|ghouls?|ghasts?|mephits?|bulettes?|carrion|darkmantles?|gricks?|gorgons?|salamanders?|cockatrices?|ankhegs?|stirges?|umber hulks?|maggots?|parasites?|slaads?|stalkers?|grells?|piercers?|tadpoles?)\\b"
+  ],
+  "counts": {
+    "draft-next": 12,
+    "focused-review": 17,
+    "separate-oneoff": 2,
+    "published": 1
+  },
+  "inventory": [
+    {
+      "path": "episodes/E000.md",
+      "sha256": "7e97042e30d7c4d09a438bc92451032f1de47658aa70bc80b522cf5f1d97cd2e",
+      "classification": "setup-not-encounter-corpus",
+      "keyword_hit_count": 4,
+      "supplemental_hit_count": 0
+    },
+    {
+      "path": "episodes/E001.md",
+      "sha256": "6fcdfdbee963a8b50c44b804fbef3c87a1a613462ee24c53065f1c122d668413",
+      "classification": "wastes-main-campaign",
+      "keyword_hit_count": 1,
+      "supplemental_hit_count": 0
+    },
+    {
+      "path": "episodes/E002.md",
+      "sha256": "00328a578e5b347a2b64e3fca6cf7025f9d904d7dee8ff5d4f3a5a28592a4009",
+      "classification": "wastes-main-campaign",
+      "keyword_hit_count": 6,
+      "supplemental_hit_count": 0
+    },
+    {
+      "path": "episodes/E003.md",
+      "sha256": "e71df3516204f05f1e3d56e72fc022c9a755e831fca490d974b5100fec50680f",
+      "classification": "wastes-main-campaign",
+      "keyword_hit_count": 3,
+      "supplemental_hit_count": 0
+    },
+    {
+      "path": "episodes/E004.md",
+      "sha256": "2b5009923f1c577524cdd51703fcec093f6ec3a91f3e9794ff3304d0130090c4",
+      "classification": "wastes-main-campaign",
+      "keyword_hit_count": 5,
+      "supplemental_hit_count": 0
+    },
+    {
+      "path": "episodes/E005.md",
+      "sha256": "4a5575d74aff9e63fe008dc8db0dc5ab159148a0790ed8067681a98fa8602b06",
+      "classification": "wastes-main-campaign",
+      "keyword_hit_count": 5,
+      "supplemental_hit_count": 0
+    },
+    {
+      "path": "episodes/E006.md",
+      "sha256": "57064efede9aa967e52c3cae3553773e560555c5f969c07ce6ab2a6ac8188efd",
+      "classification": "wastes-main-campaign",
+      "keyword_hit_count": 9,
+      "supplemental_hit_count": 0
+    },
+    {
+      "path": "episodes/E007.md",
+      "sha256": "ca1479045e314ad7f2892d578b3ed5e253da683b1f3fed38ab4d2f8ed9ae74ae",
+      "classification": "wastes-main-campaign",
+      "keyword_hit_count": 6,
+      "supplemental_hit_count": 0
+    },
+    {
+      "path": "episodes/E008.md",
+      "sha256": "7d4cd0c4c70496c9e211e4144c873fc9eb912eb88ee641d25134d65a01c20c5e",
+      "classification": "wastes-main-campaign",
+      "keyword_hit_count": 8,
+      "supplemental_hit_count": 0
+    },
+    {
+      "path": "episodes/E009.md",
+      "sha256": "1948064dc4dcb258b8ca2a91b64f8dd26a4b4dc921485917b708fb2a36578a9e",
+      "classification": "wastes-main-campaign",
+      "keyword_hit_count": 9,
+      "supplemental_hit_count": 0
+    },
+    {
+      "path": "episodes/E010.md",
+      "sha256": "14d0bba2237eadd1b13301be07dc9beb62de89a6f894488bb22a74acc7ca292b",
+      "classification": "wastes-main-campaign",
+      "keyword_hit_count": 9,
+      "supplemental_hit_count": 0
+    },
+    {
+      "path": "episodes/E011.md",
+      "sha256": "acf40cc644b1ef467ade4fa0f3f9323abf8110371b1edf755c2fe96f4ad61e9d",
+      "classification": "wastes-main-campaign",
+      "keyword_hit_count": 1,
+      "supplemental_hit_count": 0
+    },
+    {
+      "path": "episodes/E012.md",
+      "sha256": "c356d75a2863f0ca23f3e254f96d8871cffac7822f46eb9f897dd58fb108e289",
+      "classification": "wastes-main-campaign",
+      "keyword_hit_count": 2,
+      "supplemental_hit_count": 0
+    },
+    {
+      "path": "episodes/E013.5.md",
+      "sha256": "3eed8aa8c0a46590f963d722654450b928da6048e4de532e0f5d0aff73018c4c",
+      "classification": "same-campaign-supplemental",
+      "keyword_hit_count": 9,
+      "supplemental_hit_count": 0
+    },
+    {
+      "path": "episodes/E013.md",
+      "sha256": "90e70f7eccc6945ffe62457aae654f55c177148b289a02b784cf7f30294ed853",
+      "classification": "wastes-main-campaign",
+      "keyword_hit_count": 4,
+      "supplemental_hit_count": 0
+    },
+    {
+      "path": "episodes/E014.md",
+      "sha256": "b37be581c35bf8ae7cd33579a637af48d28c23cbe5d0cfea9066fecd823b54e3",
+      "classification": "wastes-main-campaign",
+      "keyword_hit_count": 5,
+      "supplemental_hit_count": 0
+    },
+    {
+      "path": "episodes/E015.md",
+      "sha256": "124ec32f53732c9f47b0dc82c75843fa79638ffb6e2cc61e1260af2fb35e12b9",
+      "classification": "wastes-main-campaign",
+      "keyword_hit_count": 5,
+      "supplemental_hit_count": 0
+    },
+    {
+      "path": "episodes/E016.md",
+      "sha256": "69249711129e10959a829c1ee5e870f863053213595033bb342ffb4c5ada55e9",
+      "classification": "wastes-main-campaign",
+      "keyword_hit_count": 12,
+      "supplemental_hit_count": 1
+    },
+    {
+      "path": "episodes/E017.md",
+      "sha256": "c5bd1872f0fa44f3cc75072de56093aeb3968516116dd4cc14a10a5395b9bc19",
+      "classification": "wastes-main-campaign",
+      "keyword_hit_count": 4,
+      "supplemental_hit_count": 0
+    },
+    {
+      "path": "episodes/E018.md",
+      "sha256": "3a0deaf0be6d85a2a8033e6ef0c99686a7a01ff74f2f79381a7762dcac18cba1",
+      "classification": "wastes-main-campaign",
+      "keyword_hit_count": 10,
+      "supplemental_hit_count": 0
+    },
+    {
+      "path": "episodes/E019.md",
+      "sha256": "eb7011ace086c05ba70dfb9ee001bcb2d1171033e4d064f23f136e82fe132f7d",
+      "classification": "wastes-main-campaign",
+      "keyword_hit_count": 10,
+      "supplemental_hit_count": 0
+    },
+    {
+      "path": "episodes/E020.md",
+      "sha256": "3a98fbe36f6913cc8d0f8753978e636ec71ae61f71a4a219185b56670f41cb51",
+      "classification": "wastes-main-campaign",
+      "keyword_hit_count": 11,
+      "supplemental_hit_count": 0
+    },
+    {
+      "path": "episodes/E021.md",
+      "sha256": "5e0e7613d42e9330321b81a687be73bea4573fab585eecf6a810c8f89de5f56b",
+      "classification": "wastes-main-campaign",
+      "keyword_hit_count": 14,
+      "supplemental_hit_count": 0
+    },
+    {
+      "path": "episodes/E022.md",
+      "sha256": "f435e66e429e58e7da63e67a1e1b5164cb2c028b6bf9731c03ba861bfff3e85b",
+      "classification": "wastes-main-campaign",
+      "keyword_hit_count": 8,
+      "supplemental_hit_count": 0
+    },
+    {
+      "path": "episodes/E023.md",
+      "sha256": "f3422479c0977aff548a9ae1771872c316688bead0daef995dade38d2e973c8a",
+      "classification": "wastes-main-campaign",
+      "keyword_hit_count": 7,
+      "supplemental_hit_count": 0
+    },
+    {
+      "path": "episodes/E024.md",
+      "sha256": "c37a5b02151d578e2746208d33ee23768dc28a6dfc68fcd791e29e66810b105f",
+      "classification": "wastes-main-campaign",
+      "keyword_hit_count": 7,
+      "supplemental_hit_count": 0
+    },
+    {
+      "path": "episodes/E025.md",
+      "sha256": "4ac8ee5331c2871533948133baf51aa07beb0f682a71715ef3d100981fd4d061",
+      "classification": "wastes-main-campaign",
+      "keyword_hit_count": 10,
+      "supplemental_hit_count": 0
+    },
+    {
+      "path": "episodes/E026.md",
+      "sha256": "8b4df4033257a3293189d787298294e896499c18ed6f077f5f35b95812ae668d",
+      "classification": "wastes-main-campaign",
+      "keyword_hit_count": 8,
+      "supplemental_hit_count": 0
+    },
+    {
+      "path": "episodes/E027.md",
+      "sha256": "7e96ef75db07f7306487235290b4c0eebfb27e2407d6485f1707bbd120c6177b",
+      "classification": "wastes-main-campaign",
+      "keyword_hit_count": 9,
+      "supplemental_hit_count": 0
+    },
+    {
+      "path": "episodes/E028.md",
+      "sha256": "401d2b6bd2111abd7d590178bb521231adc0b548b2e65776481ee246cc6b05e8",
+      "classification": "wastes-main-campaign",
+      "keyword_hit_count": 7,
+      "supplemental_hit_count": 0
+    },
+    {
+      "path": "episodes/E029.md",
+      "sha256": "c325bb8151dc248eeb9f67a55a4b54f04f869765f6a3801856ca290b114fbc0f",
+      "classification": "wastes-main-campaign",
+      "keyword_hit_count": 7,
+      "supplemental_hit_count": 0
+    },
+    {
+      "path": "episodes/E030.md",
+      "sha256": "d9de66be8219a6d8a5fbbe111d9d793827103f7c2d3d4e751178b2330feb8e2e",
+      "classification": "wastes-main-campaign",
+      "keyword_hit_count": 6,
+      "supplemental_hit_count": 0
+    },
+    {
+      "path": "episodes/E031.md",
+      "sha256": "90f26dbf5f986962cba87915df74828af805044e470b7efac38e73a915727deb",
+      "classification": "wastes-main-campaign",
+      "keyword_hit_count": 2,
+      "supplemental_hit_count": 0
+    },
+    {
+      "path": "episodes/E032.md",
+      "sha256": "2886fe5e15f00c38eae8853eab2819b1d2dddce1768f02223e7a743e5c30bf77",
+      "classification": "wastes-main-campaign",
+      "keyword_hit_count": 1,
+      "supplemental_hit_count": 0
+    },
+    {
+      "path": "episodes/E033.md",
+      "sha256": "20653194b70e565f4f80ed523c1e498982d92e423add21390d606fe3ab30fb39",
+      "classification": "wastes-main-campaign",
+      "keyword_hit_count": 3,
+      "supplemental_hit_count": 0
+    },
+    {
+      "path": "episodes/E034.md",
+      "sha256": "4706f4e421dd20c429dc80a980c63b2a8ad576332062a5a0b90b4c68121f61ad",
+      "classification": "wastes-main-campaign",
+      "keyword_hit_count": 2,
+      "supplemental_hit_count": 0
+    },
+    {
+      "path": "episodes/E035.md",
+      "sha256": "66093c3bd97c3e0647110fff07bedfc25320733b00acc21c2f4a6a35fbeb50c7",
+      "classification": "wastes-main-campaign",
+      "keyword_hit_count": 8,
+      "supplemental_hit_count": 0
+    },
+    {
+      "path": "episodes/E036.md",
+      "sha256": "2cf36ce31e148109e71decbf5ba172d06b73c0f5dc484e08e90ba62953c525e8",
+      "classification": "wastes-main-campaign",
+      "keyword_hit_count": 7,
+      "supplemental_hit_count": 0
+    },
+    {
+      "path": "episodes/E037.md",
+      "sha256": "0dddb9539c1e0ca388ed11a955962924b6d4bd282edef87d386b443ed1734c69",
+      "classification": "wastes-main-campaign",
+      "keyword_hit_count": 5,
+      "supplemental_hit_count": 0
+    },
+    {
+      "path": "episodes/E038.md",
+      "sha256": "19e5a57029710684e4f267a625c470a5aa771553527c84b11940724ddee090fb",
+      "classification": "wastes-main-campaign",
+      "keyword_hit_count": 3,
+      "supplemental_hit_count": 0
+    },
+    {
+      "path": "episodes/E039.md",
+      "sha256": "f6743067c061e7f691e0cbb7a744f33211c2061a94fd16a1005367ad517b9586",
+      "classification": "wastes-main-campaign",
+      "keyword_hit_count": 5,
+      "supplemental_hit_count": 0
+    },
+    {
+      "path": "episodes/E040.md",
+      "sha256": "b6d3498fde7192983fbaa5f10372f511ab48ba10a7a1cb67afc229a62b617799",
+      "classification": "wastes-main-campaign",
+      "keyword_hit_count": 2,
+      "supplemental_hit_count": 0
+    },
+    {
+      "path": "episodes/E041.md",
+      "sha256": "7b17f93498cf4124e09f5fffa50056030b402cb6e0a7b37783bb44477d4ca420",
+      "classification": "wastes-main-campaign",
+      "keyword_hit_count": 10,
+      "supplemental_hit_count": 0
+    },
+    {
+      "path": "episodes/E042.md",
+      "sha256": "b0b13383d9e5d27ef8482819fd7528ff52cac74b4be3de3354e83fe3f9d2376a",
+      "classification": "wastes-main-campaign",
+      "keyword_hit_count": 13,
+      "supplemental_hit_count": 0
+    },
+    {
+      "path": "episodes/E043.md",
+      "sha256": "99cfd4ef324803c88761fdb167b3246695438a6a5d89ebb76c90efeb26b38a21",
+      "classification": "excluded-alternate-setting-one-shot",
+      "keyword_hit_count": 6,
+      "supplemental_hit_count": 1
+    },
+    {
+      "path": "episodes/E044.md",
+      "sha256": "2cbcf162fb1f939c9eaafc1569432c5829a91a38b85467a2b67024df2bb543e0",
+      "classification": "wastes-main-campaign",
+      "keyword_hit_count": 6,
+      "supplemental_hit_count": 1
+    },
+    {
+      "path": "episodes/E045.md",
+      "sha256": "eb11dd724719f2d4878eac41cfddc447403e423cb45dbb71916c761f597b9540",
+      "classification": "wastes-main-campaign",
+      "keyword_hit_count": 13,
+      "supplemental_hit_count": 0
+    },
+    {
+      "path": "episodes/E046.md",
+      "sha256": "ffcb2439bbfff6a1a5e8fbc57f5d681ce2bb8a56741c019228696ca55c35c657",
+      "classification": "wastes-main-campaign",
+      "keyword_hit_count": 9,
+      "supplemental_hit_count": 0
+    },
+    {
+      "path": "episodes/E047.md",
+      "sha256": "dd413e6717c743e2373a35e175ea7d330c45c50af28cffb616c70923debb9313",
+      "classification": "wastes-main-campaign",
+      "keyword_hit_count": 4,
+      "supplemental_hit_count": 0
+    },
+    {
+      "path": "episodes/E048.md",
+      "sha256": "ca952fddc033889c90954e30b714646a9e0bf38f01af54de19999f5a3d0f03f8",
+      "classification": "wastes-main-campaign",
+      "keyword_hit_count": 5,
+      "supplemental_hit_count": 0
+    },
+    {
+      "path": "episodes/E049.md",
+      "sha256": "a94e15a3dc08f96c7051551593b76466b911636d5eb5719cba31f9db247ff7df",
+      "classification": "wastes-main-campaign",
+      "keyword_hit_count": 4,
+      "supplemental_hit_count": 0
+    },
+    {
+      "path": "episodes/E050.md",
+      "sha256": "8ea6c6e196ffe02ba2be7763621f3a8ba09ae683aa08af95ffec6b93153512e2",
+      "classification": "wastes-main-campaign",
+      "keyword_hit_count": 2,
+      "supplemental_hit_count": 0
+    },
+    {
+      "path": "episodes/E051.md",
+      "sha256": "44ec53c7cdf8d1d5e5e49f4a4a05fe5d71507ed5e84c62e050a51a38d9a32975",
+      "classification": "wastes-main-campaign",
+      "keyword_hit_count": 11,
+      "supplemental_hit_count": 0
+    },
+    {
+      "path": "episodes/E052.md",
+      "sha256": "0084e9faae14abff32581065626ab5a3821f771bdbbc18707680ab3d9d74d1a8",
+      "classification": "wastes-main-campaign",
+      "keyword_hit_count": 13,
+      "supplemental_hit_count": 2
+    },
+    {
+      "path": "episodes/E053.md",
+      "sha256": "7e94a0b767cb4baec949ef1c39a49e727c0eb056a43fdf0c3ba7105a96872b6b",
+      "classification": "wastes-main-campaign",
+      "keyword_hit_count": 13,
+      "supplemental_hit_count": 0
+    },
+    {
+      "path": "episodes/E054.md",
+      "sha256": "d4c45ffea255188cb1bb65197f70436a3b2aecf5973f31bd767a55824f2eccf6",
+      "classification": "wastes-main-campaign",
+      "keyword_hit_count": 8,
+      "supplemental_hit_count": 0
+    },
+    {
+      "path": "episodes/E055.md",
+      "sha256": "04fdc06a8adc69208710f03ce0a68948cc3267536bbe05f0376aa73793f0d942",
+      "classification": "wastes-main-campaign",
+      "keyword_hit_count": 8,
+      "supplemental_hit_count": 0
+    },
+    {
+      "path": "episodes/E056.md",
+      "sha256": "2b8c3998d109abb06ce678bc7fb17d957297cd868db8625648c729a7acacd1a1",
+      "classification": "wastes-main-campaign",
+      "keyword_hit_count": 8,
+      "supplemental_hit_count": 0
+    },
+    {
+      "path": "episodes/E057.md",
+      "sha256": "fda5c786cba0bb6c3be17adb8dfca6154bec31ba02a306a670e94c6a3af4f9c8",
+      "classification": "wastes-main-campaign",
+      "keyword_hit_count": 13,
+      "supplemental_hit_count": 0
+    },
+    {
+      "path": "episodes/E058.md",
+      "sha256": "3cc6c48a1ee04aeff60e1815ac3b77cdc5bca14d8098f018425384e53cd93cee",
+      "classification": "wastes-main-campaign",
+      "keyword_hit_count": 13,
+      "supplemental_hit_count": 4
+    },
+    {
+      "path": "episodes/E059.md",
+      "sha256": "53d6c225f556c88a62c7e72e98de8bd2e170c6fe66968da91f397aededc79bb8",
+      "classification": "wastes-main-campaign",
+      "keyword_hit_count": 10,
+      "supplemental_hit_count": 0
+    },
+    {
+      "path": "episodes/E060.md",
+      "sha256": "3b5296ead65f6b89c3df66599c3b0b2dc8c2a97c80cb9b8e8908671968fea71d",
+      "classification": "wastes-main-campaign",
+      "keyword_hit_count": 10,
+      "supplemental_hit_count": 0
+    },
+    {
+      "path": "episodes/E061.md",
+      "sha256": "887ed7e240963972028e4e695261f9e4988bcbda2ba9255c5838a0aedb7417f0",
+      "classification": "wastes-main-campaign",
+      "keyword_hit_count": 10,
+      "supplemental_hit_count": 0
+    },
+    {
+      "path": "episodes/E062.md",
+      "sha256": "35fb36a128f2479ba062b7d267f2770a9bfb2d84b68d375186090372569d3743",
+      "classification": "wastes-main-campaign",
+      "keyword_hit_count": 10,
+      "supplemental_hit_count": 1
+    },
+    {
+      "path": "episodes/E063.md",
+      "sha256": "109aac90cc987356f1d03d8bbccd6371215ee155127fe5a64e1063cd09fa9d43",
+      "classification": "wastes-main-campaign",
+      "keyword_hit_count": 18,
+      "supplemental_hit_count": 2
+    },
+    {
+      "path": "episodes/E064.md",
+      "sha256": "b2c5be6de489397d434d5cbfb8db81d50893e9796332f35b82adc54489d5ebf1",
+      "classification": "wastes-main-campaign",
+      "keyword_hit_count": 13,
+      "supplemental_hit_count": 1
+    },
+    {
+      "path": "episodes/E065.md",
+      "sha256": "9d34d82c0f2be41a65aea770114fc65a8ec49712e393968868ac0c15a9ca47a8",
+      "classification": "wastes-main-campaign",
+      "keyword_hit_count": 9,
+      "supplemental_hit_count": 0
+    },
+    {
+      "path": "episodes/E066.md",
+      "sha256": "186ba7e4220261fad4a20c482dbe31548746a10a1560e06cb0fe47083e3207d6",
+      "classification": "wastes-main-campaign",
+      "keyword_hit_count": 16,
+      "supplemental_hit_count": 0
+    },
+    {
+      "path": "episodes/E067.md",
+      "sha256": "0714871eef280a0f489fa7ec902cacef7ad808602b8ec393c989dc66a17c5131",
+      "classification": "wastes-main-campaign",
+      "keyword_hit_count": 19,
+      "supplemental_hit_count": 0
+    },
+    {
+      "path": "episodes/E068.md",
+      "sha256": "760ce416cca785eb46e4b6fc0fc6c4d6f9918bf3eecc604f432c9bf91a964c87",
+      "classification": "wastes-main-campaign",
+      "keyword_hit_count": 15,
+      "supplemental_hit_count": 0
+    },
+    {
+      "path": "episodes/E069.md",
+      "sha256": "f64d7717ac8f5b4f98d2c0009a5f91a5b27095478331059bef0ca5abed483917",
+      "classification": "wastes-main-campaign",
+      "keyword_hit_count": 10,
+      "supplemental_hit_count": 0
+    },
+    {
+      "path": "episodes/E070.md",
+      "sha256": "34c6fd32a1eda96169779593a82e44ae3a16a664c952d88550e458c002da5627",
+      "classification": "wastes-main-campaign",
+      "keyword_hit_count": 15,
+      "supplemental_hit_count": 0
+    },
+    {
+      "path": "episodes/E071.md",
+      "sha256": "d3f4da3212a98d50106c6b9195d57b210a5fe0e975ba0b4a8d9672bc0be7f4ed",
+      "classification": "wastes-main-campaign",
+      "keyword_hit_count": 9,
+      "supplemental_hit_count": 0
+    },
+    {
+      "path": "episodes/E072.md",
+      "sha256": "43ab5c8e541c607d012d266df4104c2512fdb581a4e65e897de52ffd27af2578",
+      "classification": "wastes-main-campaign",
+      "keyword_hit_count": 7,
+      "supplemental_hit_count": 0
+    },
+    {
+      "path": "episodes/E073.md",
+      "sha256": "d63417323ea43e0f376899ceb8bca6f0b5194fd5d0244c3aa9ee935e1bb6ffd5",
+      "classification": "wastes-main-campaign",
+      "keyword_hit_count": 19,
+      "supplemental_hit_count": 0
+    },
+    {
+      "path": "episodes/E074.md",
+      "sha256": "e996bc20d0a9a431036db5ab9ffee3065340e59239bcd02c8ca69c0ddcb14f08",
+      "classification": "wastes-main-campaign",
+      "keyword_hit_count": 16,
+      "supplemental_hit_count": 0
+    },
+    {
+      "path": "episodes/E075.md",
+      "sha256": "98d8e1b0fcba0a1707a0c50a4276881c78f6a4e75901051ad2b70960e6d7d212",
+      "classification": "wastes-main-campaign",
+      "keyword_hit_count": 15,
+      "supplemental_hit_count": 2
+    },
+    {
+      "path": "episodes/E076.md",
+      "sha256": "e171554b1ff06519234503a218a48840bb157c8e32c2accd971afdeaa3c8db39",
+      "classification": "wastes-main-campaign",
+      "keyword_hit_count": 15,
+      "supplemental_hit_count": 0
+    },
+    {
+      "path": "episodes/E077.md",
+      "sha256": "c25acc1d63a43661e497ed584db576b7919d42ad86ff68c01d46456074a685b6",
+      "classification": "wastes-main-campaign",
+      "keyword_hit_count": 13,
+      "supplemental_hit_count": 0
+    },
+    {
+      "path": "episodes/E078.md",
+      "sha256": "74f9b5a908b3f6e76ee79e19ba6ac3b3cd1fb97d8a7c341e8ecd53df5c86024e",
+      "classification": "wastes-main-campaign",
+      "keyword_hit_count": 13,
+      "supplemental_hit_count": 0
+    },
+    {
+      "path": "episodes/E079.md",
+      "sha256": "b0cd03788e33b86ab29742c6d6ca21c3fc321dcbe2aaa6eccc03753a768f6338",
+      "classification": "wastes-main-campaign",
+      "keyword_hit_count": 13,
+      "supplemental_hit_count": 0
+    },
+    {
+      "path": "episodes/E080.md",
+      "sha256": "ecd622341b068f8270100396a6522b42d2b4f5b320b914775efcb52663731317",
+      "classification": "wastes-main-campaign",
+      "keyword_hit_count": 22,
+      "supplemental_hit_count": 0
+    },
+    {
+      "path": "episodes/E081.md",
+      "sha256": "15b1ff4fe90ab07cd702b7f0718e695240e3fede3940180689be48c2bba0ccdb",
+      "classification": "wastes-main-campaign",
+      "keyword_hit_count": 16,
+      "supplemental_hit_count": 0
+    },
+    {
+      "path": "episodes/E082.md",
+      "sha256": "74f17428498a257553fbda0ad8f53c6251fcf5caad42d441addd69382d446d60",
+      "classification": "wastes-main-campaign",
+      "keyword_hit_count": 7,
+      "supplemental_hit_count": 0
+    },
+    {
+      "path": "episodes/E083.md",
+      "sha256": "0d382e6faab8c568a9f2ad55f6632160002340fed4b95cc08c0eb11812b7485a",
+      "classification": "wastes-main-campaign",
+      "keyword_hit_count": 12,
+      "supplemental_hit_count": 0
+    },
+    {
+      "path": "episodes/E084.md",
+      "sha256": "df7e5b617fc132b7f864b6412d6d5a490f6dd5ad55769ecfa05a5bc8dcfff9c8",
+      "classification": "wastes-main-campaign",
+      "keyword_hit_count": 9,
+      "supplemental_hit_count": 0
+    },
+    {
+      "path": "episodes/E085.md",
+      "sha256": "40b7188ceb35c17c3e753fafddd4a13e04f534dab15e4e5c1d451211369d64ed",
+      "classification": "wastes-main-campaign",
+      "keyword_hit_count": 10,
+      "supplemental_hit_count": 0
+    },
+    {
+      "path": "episodes/E086.md",
+      "sha256": "37c70e615713b87dbd2a3ab4f2bf47d1ea2df9b5683f939dc385426d65cfe712",
+      "classification": "wastes-main-campaign",
+      "keyword_hit_count": 14,
+      "supplemental_hit_count": 0
+    },
+    {
+      "path": "episodes/E087.md",
+      "sha256": "4586eeb85d540d20707baafdf8aec044eb67ba7197b4712dd9d3f41890354333",
+      "classification": "wastes-main-campaign",
+      "keyword_hit_count": 7,
+      "supplemental_hit_count": 0
+    },
+    {
+      "path": "episodes/E088.md",
+      "sha256": "7dbb0581c66fee4e5320976f897964eb7d8e1fb27002dc68462cb3633030c437",
+      "classification": "wastes-main-campaign",
+      "keyword_hit_count": 4,
+      "supplemental_hit_count": 0
+    },
+    {
+      "path": "episodes/E089.md",
+      "sha256": "46cece2e499adb854f13865b7459c591512d1377539a5afc5edf1a4e798a280e",
+      "classification": "wastes-main-campaign",
+      "keyword_hit_count": 18,
+      "supplemental_hit_count": 0
+    },
+    {
+      "path": "episodes/E090.md",
+      "sha256": "09489776e4b8ea02d2bd6f912969a7c7517ba3b01b53876dd0ad4f3d20207a96",
+      "classification": "wastes-main-campaign",
+      "keyword_hit_count": 23,
+      "supplemental_hit_count": 0
+    },
+    {
+      "path": "episodes/E091.md",
+      "sha256": "7e81b2a259a6a388ce38c0c8b1564d9564566fdf08f89bd585ad2aac35722e66",
+      "classification": "wastes-main-campaign",
+      "keyword_hit_count": 19,
+      "supplemental_hit_count": 0
+    },
+    {
+      "path": "episodes/E092.md",
+      "sha256": "904ec3569b53c788405fbf73f1d4b0353aab66bd9b3a52de546d399ee8e62d78",
+      "classification": "wastes-main-campaign",
+      "keyword_hit_count": 6,
+      "supplemental_hit_count": 0
+    },
+    {
+      "path": "episodes/E093.md",
+      "sha256": "fd1308a364ac47b5ee3ec6bb726b4baed9845cb3f122a7db76ba3974aeee91e9",
+      "classification": "wastes-main-campaign",
+      "keyword_hit_count": 28,
+      "supplemental_hit_count": 0
+    },
+    {
+      "path": "episodes/E094.md",
+      "sha256": "10c776d98e9b39a3898823950cbc0dbf84cd80653c05ccb0c1ab51ea8cda69cd",
+      "classification": "wastes-main-campaign",
+      "keyword_hit_count": 13,
+      "supplemental_hit_count": 0
+    },
+    {
+      "path": "episodes/E095.md",
+      "sha256": "ea0267b1207e695619a8f82d421634a05b7d2d47d1878588c1b68e497871c032",
+      "classification": "wastes-main-campaign",
+      "keyword_hit_count": 4,
+      "supplemental_hit_count": 0
+    },
+    {
+      "path": "episodes/E096.md",
+      "sha256": "051c11fafdb8cfd6e2f391b867e208fdaa318d7a6101a523cf4ee5bbc249a3be",
+      "classification": "wastes-main-campaign",
+      "keyword_hit_count": 5,
+      "supplemental_hit_count": 0
+    },
+    {
+      "path": "episodes/E097.md",
+      "sha256": "418729d16aaffb685ea312d7c7d4096fabf4ccd6be80ca5594f1d20bf638fdbb",
+      "classification": "wastes-main-campaign",
+      "keyword_hit_count": 3,
+      "supplemental_hit_count": 0
+    },
+    {
+      "path": "episodes/E098.md",
+      "sha256": "e0787b994461212fe558bf7b7c0c56fa165a0b4de639bf829ba9c7b8f84d5b2b",
+      "classification": "wastes-main-campaign",
+      "keyword_hit_count": 11,
+      "supplemental_hit_count": 0
+    },
+    {
+      "path": "episodes/E099.md",
+      "sha256": "d54b3882858d13139687ae831c17dbd652075e2660ba987920271ee2bd772af6",
+      "classification": "wastes-main-campaign",
+      "keyword_hit_count": 12,
+      "supplemental_hit_count": 0
+    },
+    {
+      "path": "episodes/E100.md",
+      "sha256": "72e06278e468c9f59f258cd471bb7a2497d882c6e70b97ce3c3c7844738a36d6",
+      "classification": "wastes-main-campaign",
+      "keyword_hit_count": 6,
+      "supplemental_hit_count": 0
+    },
+    {
+      "path": "episodes/E101.md",
+      "sha256": "cbfc8f166c9c7b920490dd1df18695ac14b821fd9abd9de110b2c2d9c06ad093",
+      "classification": "wastes-main-campaign",
+      "keyword_hit_count": 5,
+      "supplemental_hit_count": 0
+    },
+    {
+      "path": "episodes/E102.md",
+      "sha256": "4fa0501f555defe9c034b01ed56abe646beb6ed9448f8c75506e5fef69098ef0",
+      "classification": "wastes-main-campaign",
+      "keyword_hit_count": 12,
+      "supplemental_hit_count": 2
+    },
+    {
+      "path": "episodes/E103.md",
+      "sha256": "b497fdae21a1277a74f651e158ddfa8a92f1e33dcd25a2f98e32dbbc3b69e0ea",
+      "classification": "wastes-main-campaign",
+      "keyword_hit_count": 15,
+      "supplemental_hit_count": 1
+    },
+    {
+      "path": "episodes/E104.md",
+      "sha256": "debb48fdf36cdcee7bec4c343392750d51086fa86e568c453df0ac208967e286",
+      "classification": "wastes-main-campaign",
+      "keyword_hit_count": 21,
+      "supplemental_hit_count": 0
+    },
+    {
+      "path": "episodes/E105.md",
+      "sha256": "d181e996cbbf88274ea15cfa685e1732e3c16838c51050c7ab65965903e704b5",
+      "classification": "wastes-main-campaign",
+      "keyword_hit_count": 7,
+      "supplemental_hit_count": 0
+    },
+    {
+      "path": "episodes/E106.md",
+      "sha256": "654b1f2683190be2b21fa677622e077503d67e642cefd97337533471733e38d7",
+      "classification": "wastes-main-campaign",
+      "keyword_hit_count": 15,
+      "supplemental_hit_count": 0
+    },
+    {
+      "path": "episodes/E107.md",
+      "sha256": "180a60e8dedf7452d6e92b92edb8a3474f580e32e6354f1000c13fca44da31e1",
+      "classification": "same-world-prequel",
+      "keyword_hit_count": 11,
+      "supplemental_hit_count": 0
+    },
+    {
+      "path": "episodes/E108.md",
+      "sha256": "659bf50fceee3a8b8f7beeb1afef33dfd124f7016697a223f539b108eac8a655",
+      "classification": "same-world-prequel",
+      "keyword_hit_count": 12,
+      "supplemental_hit_count": 0
+    },
+    {
+      "path": "episodes/E109.md",
+      "sha256": "bce7641ca3345b0ca65fc94e2c488554a47d70109bd6dee1f3c586d25415ad9d",
+      "classification": "same-world-prequel",
+      "keyword_hit_count": 16,
+      "supplemental_hit_count": 0
+    },
+    {
+      "path": "episodes/E110.md",
+      "sha256": "d63f1f928c04a91b9721da6c4ae8e2b935630f6934dae5c02c575da2529f13e5",
+      "classification": "wastes-main-campaign",
+      "keyword_hit_count": 5,
+      "supplemental_hit_count": 0
+    },
+    {
+      "path": "episodes/E111.md",
+      "sha256": "7b84e657490cc6cb85e15666911725b9c78379a121028970956871e6804d4725",
+      "classification": "wastes-main-campaign",
+      "keyword_hit_count": 11,
+      "supplemental_hit_count": 0
+    },
+    {
+      "path": "episodes/E112.md",
+      "sha256": "e3b6e479defe675b60f9a1ff41c7bcd952f6baad23088e73b80592a184d645d1",
+      "classification": "wastes-main-campaign",
+      "keyword_hit_count": 12,
+      "supplemental_hit_count": 0
+    },
+    {
+      "path": "episodes/E113.md",
+      "sha256": "aa9301195f79a5440b509619245e957075a37095b57c48cfbfde67128780d90f",
+      "classification": "wastes-main-campaign",
+      "keyword_hit_count": 16,
+      "supplemental_hit_count": 0
+    },
+    {
+      "path": "episodes/E114.md",
+      "sha256": "1f8f6f068bd1a9db1c00372192ff857ba8905d41a65ae974e8562f48d09a0ced",
+      "classification": "wastes-main-campaign",
+      "keyword_hit_count": 17,
+      "supplemental_hit_count": 0
+    },
+    {
+      "path": "episodes/E115.md",
+      "sha256": "3b722ced0fc92f78bc619e5ee42491be42ee3d3342ecfafa192806a26c6a1d0d",
+      "classification": "wastes-main-campaign",
+      "keyword_hit_count": 10,
+      "supplemental_hit_count": 0
+    },
+    {
+      "path": "episodes/E116.md",
+      "sha256": "5d0d7a1864ae904b4896fa37d60a5a92d298668497b66fef580eeac64b0e1012",
+      "classification": "wastes-main-campaign",
+      "keyword_hit_count": 14,
+      "supplemental_hit_count": 0
+    },
+    {
+      "path": "episodes/E117.md",
+      "sha256": "fdb619ee680ba6f8721fb3473d27f50978d07c21718f3614876c6ee0597bb428",
+      "classification": "wastes-main-campaign",
+      "keyword_hit_count": 9,
+      "supplemental_hit_count": 0
+    },
+    {
+      "path": "episodes/E118.md",
+      "sha256": "75c6923d602ff321715e3191ad994c56beec57e85f29a103600fc9f03a32a528",
+      "classification": "wastes-main-campaign",
+      "keyword_hit_count": 11,
+      "supplemental_hit_count": 0
+    },
+    {
+      "path": "episodes/E119.md",
+      "sha256": "2842b57d111f74a0f918ec8dde6a5fda2a93f1523362a2d6805c1c634ea5c3ce",
+      "classification": "wastes-main-campaign",
+      "keyword_hit_count": 14,
+      "supplemental_hit_count": 0
+    },
+    {
+      "path": "episodes/E120.md",
+      "sha256": "7963c988ff1bef3ea2752ba1a3618e7efa117514dfefa2baf32c3d76ee6cc351",
+      "classification": "wastes-main-campaign",
+      "keyword_hit_count": 15,
+      "supplemental_hit_count": 0
+    },
+    {
+      "path": "episodes/E121.md",
+      "sha256": "f23c2709d1285090246096e23021280f56ce4ad959974f40f6c93f19f8e2379b",
+      "classification": "wastes-main-campaign",
+      "keyword_hit_count": 19,
+      "supplemental_hit_count": 0
+    },
+    {
+      "path": "episodes/E122.md",
+      "sha256": "dc2efe68da13ff8108ed66df1d092d82e776a655c6d7dcc8aeeddd5fdd88f78f",
+      "classification": "wastes-main-campaign",
+      "keyword_hit_count": 24,
+      "supplemental_hit_count": 0
+    },
+    {
+      "path": "episodes/E123.md",
+      "sha256": "e0cc1eb93e7072124d9e7a21a4ebc36d8de7fab63486933e32eac3689ea60178",
+      "classification": "wastes-main-campaign",
+      "keyword_hit_count": 15,
+      "supplemental_hit_count": 0
+    },
+    {
+      "path": "episodes/E124.md",
+      "sha256": "463da42d098bb0a96f5fdd400fb9d9a47efd7f446e7d34a39f33f4b71c0662f9",
+      "classification": "wastes-main-campaign",
+      "keyword_hit_count": 17,
+      "supplemental_hit_count": 0
+    },
+    {
+      "path": "episodes/E125.md",
+      "sha256": "fe2e780b83041b14122f70f68f2390dbeb323317e493e548c5e02b478beb002d",
+      "classification": "wastes-main-campaign",
+      "keyword_hit_count": 11,
+      "supplemental_hit_count": 0
+    },
+    {
+      "path": "episodes/E126.md",
+      "sha256": "fdbcc8cc426b2320408d9019ced955e84e352a508c0013e1dc370891a72b811a",
+      "classification": "wastes-main-campaign",
+      "keyword_hit_count": 12,
+      "supplemental_hit_count": 0
+    },
+    {
+      "path": "episodes/E127.md",
+      "sha256": "e10d7c9cc0f9fe5cf878b224a76cfe83b01f1fccddd6ba965b52e7a04c183367",
+      "classification": "separate-wastes-setting-one-off",
+      "keyword_hit_count": 20,
+      "supplemental_hit_count": 0
+    },
+    {
+      "path": "episodes/E128.md",
+      "sha256": "bec4e83a5a1d1607660866ef6588afeddc6a0dcf2fb909109cd07384b4c83d1e",
+      "classification": "wastes-main-campaign",
+      "keyword_hit_count": 19,
+      "supplemental_hit_count": 0
+    }
+  ],
+  "candidates": [
+    {
+      "id": "WSC-001",
+      "status": "draft-next",
+      "name": "Chester the bearsaurus",
+      "evidence": [
+        {
+          "episode": "E119",
+          "dossier": "episodes/E119.md",
+          "approximate_recording_window": "00:36–00:48"
+        },
+        {
+          "episode": "E120",
+          "dossier": "episodes/E120.md",
+          "approximate_recording_window": "00:20–01:12"
+        }
+      ],
+      "observed_lead": "Bear-like, antlered predator with massive hindquarters, small forelimbs and a partly reptilian head; climbs by leaping and dies during the hunt.",
+      "boundary_or_next_check": "Laboratory creation, age and ecological damage are Dilo's account. Use bearsaurus as the existing display form; preserve barosaurus as an ASR variant in notes. A name alone does not make this observed animal a reasoning NPC."
+    },
+    {
+      "id": "WSC-002",
+      "status": "draft-next",
+      "name": "Dunebreaker fruit ooze",
+      "evidence": [
+        {
+          "episode": "E109",
+          "dossier": "episodes/E109.md",
+          "approximate_recording_window": "00:39–01:08; 01:51–02:43"
+        }
+      ],
+      "observed_lead": "Fruit-speckled gelatin escapes through drains and grows by absorbing waste, debris and bodies; steam breaks it apart and the final cherry-bearing globule is destroyed.",
+      "boundary_or_next_check": "Treat as one individual. Its growth explanation is retrospective GM confirmation; faint fiend-like detection does not identify it as a demon."
+    },
+    {
+      "id": "WSC-003",
+      "status": "draft-next",
+      "name": "Tainted displacer beast",
+      "evidence": [
+        {
+          "episode": "E020",
+          "dossier": "episodes/E020.md",
+          "approximate_recording_window": "01:31–02:43"
+        }
+      ],
+      "observed_lead": "Wounded, tentacled cat-like predator with deceptive shifting position and exposed brain tissue; killed in the Black Mine chasm.",
+      "boundary_or_next_check": "Describe the observed specimen and apparent displacer-beast identity; do not invent why it was altered or claim a sourced D&D deviation."
+    },
+    {
+      "id": "WSC-004",
+      "status": "draft-next",
+      "name": "Brain-backed spiders",
+      "evidence": [
+        {
+          "episode": "E073",
+          "dossier": "episodes/E073.md",
+          "approximate_recording_window": "closing shaft encounter"
+        },
+        {
+          "episode": "E074",
+          "dossier": "episodes/E074.md",
+          "approximate_recording_window": "00:08–01:20"
+        },
+        {
+          "episode": "E075",
+          "dossier": "episodes/E075.md",
+          "approximate_recording_window": "00:32–00:47"
+        }
+      ],
+      "observed_lead": "Giant spider with exposed pulsing brain and smaller brain-marked swarms; poison and domination make the shaft encounter distinctive.",
+      "boundary_or_next_check": "The giant dies in E074. Separate large and small forms; Cerinthala's pouch does not by itself prove their origin, breeding or control mechanism."
+    },
+    {
+      "id": "WSC-005",
+      "status": "draft-next",
+      "name": "Skeleton-spawning flesh giant",
+      "evidence": [
+        {
+          "episode": "E067",
+          "dossier": "episodes/E067.md",
+          "approximate_recording_window": "01:39–02:27"
+        }
+      ],
+      "observed_lead": "Malformed flesh-and-bone body produces skeletons through shoulder cavities and fresh wounds; its death ends further spawning.",
+      "boundary_or_next_check": "Use a descriptive name. No official species, creator or claim that every skeleton at Kervalon came from it is established."
+    },
+    {
+      "id": "WSC-006",
+      "status": "draft-next",
+      "name": "Black puddings",
+      "evidence": [
+        {
+          "episode": "E042",
+          "dossier": "episodes/E042.md",
+          "approximate_recording_window": "01:42–03:10"
+        }
+      ],
+      "observed_lead": "Two corrosive cave masses split under slashing attacks and damage Hope's equipment.",
+      "boundary_or_next_check": "Nash supplies the identification. Keep demonstrated corrosion and splitting separate from the full rules list discussed at the table."
+    },
+    {
+      "id": "WSC-007",
+      "status": "draft-next",
+      "name": "Basilisk of the under-Pit caves",
+      "evidence": [
+        {
+          "episode": "E045",
+          "dossier": "episodes/E045.md",
+          "approximate_recording_window": "00:43–01:28; 02:02–02:12"
+        },
+        {
+          "episode": "E051",
+          "dossier": "episodes/E051.md",
+          "approximate_recording_window": "02:01–02:29"
+        }
+      ],
+      "observed_lead": "Eight-legged reptile with a petrifying gaze; its remains later contribute to restoring petrified companions.",
+      "boundary_or_next_check": "The beast dies in E045. Later preparation is not a second kill; do not backdate extraction of a finished cure to the earlier digestive-oil discussion."
+    },
+    {
+      "id": "WSC-008",
+      "status": "draft-next",
+      "name": "Luminous desert beetles",
+      "evidence": [
+        {
+          "episode": "E007",
+          "dossier": "episodes/E007.md",
+          "approximate_recording_window": "00:06–00:40"
+        }
+      ],
+      "observed_lead": "Large beetles with luminous fleshy appendages surround Fate 4 at night; travelers use noise and movement to avoid them.",
+      "boundary_or_next_check": "Exact dimensions, diet and eventual departure remain listening questions. Suitable for a short entry; no need to invent a species name."
+    },
+    {
+      "id": "WSC-009",
+      "status": "draft-next",
+      "name": "Stormland Tyrannosaurus",
+      "evidence": [
+        {
+          "episode": "E065",
+          "dossier": "episodes/E065.md",
+          "approximate_recording_window": "02:29–02:38"
+        },
+        {
+          "episode": "E066",
+          "dossier": "episodes/E066.md",
+          "approximate_recording_window": "00:06–00:45"
+        }
+      ],
+      "observed_lead": "Huge predator crushes Fate 4, falls into a storm-drain pit and is killed; teeth and bones become tools and salvage.",
+      "boundary_or_next_check": "Keep this animal distinct from Polymorph forms of Vorel or Stanley. No cause for its enormous size or connection to the storm is established."
+    },
+    {
+      "id": "WSC-010",
+      "status": "draft-next",
+      "name": "Outlands wyverns",
+      "evidence": [
+        {
+          "episode": "E093",
+          "dossier": "episodes/E093.md",
+          "approximate_recording_window": "aerial battle, approximately 00:57–02:51"
+        }
+      ],
+      "observed_lead": "Flying predators ram the Traveler's Twin and attack with bites and venomous stings.",
+      "boundary_or_next_check": "Separate wyverns from the accompanying winged beastmen. One is turned into a falling rat with no witnessed final landing or reversion; do not resolve every individual's fate."
+    },
+    {
+      "id": "WSC-011",
+      "status": "draft-next",
+      "name": "Tentacled purple fungi",
+      "evidence": [
+        {
+          "episode": "E021",
+          "dossier": "episodes/E021.md",
+          "approximate_recording_window": "00:09–00:58"
+        }
+      ],
+      "observed_lead": "Large animate purple mushrooms grapple and strike in the Black Mine.",
+      "boundary_or_next_check": "Unidentified hostile fungi, not a confirmed named fungal species; harmless mushroom beds and later Elhandar fungi are separate."
+    },
+    {
+      "id": "WSC-012",
+      "status": "draft-next",
+      "name": "Lizardfolk riding raptors",
+      "evidence": [
+        {
+          "episode": "E027",
+          "dossier": "episodes/E027.md",
+          "approximate_recording_window": "02:40–02:50"
+        },
+        {
+          "episode": "E028",
+          "dossier": "episodes/E028.md",
+          "approximate_recording_window": "00:07–01:42"
+        },
+        {
+          "episode": "E064",
+          "dossier": "episodes/E064.md",
+          "approximate_recording_window": "01:23–02:40"
+        }
+      ],
+      "observed_lead": "Raptor-like animals serve hunters and carry the party during the escape from Razak Val; their hides are also used for repairs.",
+      "boundary_or_next_check": "Separate wild behavior, mounts, individual deaths and the raptor named Mawstorm from Vorel's similarly named sword. Exact species remains descriptive."
+    },
+    {
+      "id": "WSC-013",
+      "status": "focused-review",
+      "name": "Green-case mimic",
+      "evidence": [
+        {
+          "episode": "E008",
+          "dossier": "episodes/E008.md",
+          "approximate_recording_window": "02:00–02:41"
+        }
+      ],
+      "observed_lead": "A sealed green case becomes a tongue-bearing attacker in Leopold's facility.",
+      "boundary_or_next_check": "Recheck its defeat and anatomy in targeted SRT windows before drafting; the accompanying doglike threat is a separate creature."
+    },
+    {
+      "id": "WSC-014",
+      "status": "focused-review",
+      "name": "Doglike facility predator",
+      "evidence": [
+        {
+          "episode": "E008",
+          "dossier": "episodes/E008.md",
+          "approximate_recording_window": "02:00–02:41"
+        }
+      ],
+      "observed_lead": "Animal-like creature menaces the party during the mimic encounter and may teleport.",
+      "boundary_or_next_check": "Do not name it a blink dog or phase creature on the current dossier alone, or import the unrelated E043 blink dog."
+    },
+    {
+      "id": "WSC-015",
+      "status": "focused-review",
+      "name": "Gibbering mouther",
+      "evidence": [
+        {
+          "episode": "E009",
+          "dossier": "episodes/E009.md",
+          "approximate_recording_window": "02:15–03:00"
+        }
+      ],
+      "observed_lead": "Named attacker during the attempted escape from Leopold's collapsing facility.",
+      "boundary_or_next_check": "The dossier offers limited anatomy and final-fate detail. Keep separate from the E020 displacer beast; check targeted transcript passages."
+    },
+    {
+      "id": "WSC-016",
+      "status": "focused-review",
+      "name": "Concealing mushroom-pit spider",
+      "evidence": [
+        {
+          "episode": "E044",
+          "dossier": "episodes/E044.md",
+          "approximate_recording_window": "01:42–02:09"
+        }
+      ],
+      "observed_lead": "Large partly hidden or invisible spider attacks amid luminous mushrooms; legs are harvested after its defeat.",
+      "boundary_or_next_check": "Do not silently call it a phase spider, merge it with CHIDS brain-spiders or attribute the mushroom spores to the spider itself."
+    },
+    {
+      "id": "WSC-017",
+      "status": "focused-review",
+      "name": "Pale tentacled cavern organism",
+      "evidence": [
+        {
+          "episode": "E042",
+          "dossier": "episodes/E042.md",
+          "approximate_recording_window": "00:53–01:08"
+        },
+        {
+          "episode": "E045",
+          "dossier": "episodes/E045.md",
+          "approximate_recording_window": "02:02–02:12"
+        }
+      ],
+      "observed_lead": "Long worm-like creature blends with pale wall strands; a later body of the apparent same kind is petrified.",
+      "boundary_or_next_check": "A warning sound and retreat are observed, not a kill. Name, ecology and exact relation between the two specimens remain unknown."
+    },
+    {
+      "id": "WSC-018",
+      "status": "focused-review",
+      "name": "River headache creatures",
+      "evidence": [
+        {
+          "episode": "E045",
+          "dossier": "episodes/E045.md",
+          "approximate_recording_window": "02:28–02:55"
+        },
+        {
+          "episode": "E046",
+          "dossier": "episodes/E046.md",
+          "approximate_recording_window": "00:00–01:01"
+        }
+      ],
+      "observed_lead": "Dark humanoid river figures cause dread, headache and necrotic or psychic harm.",
+      "boundary_or_next_check": "Utterances are untranslated and personhood is unresolved. Check reasoning/NPC fit before creating a bestiary article; do not assign a standard undead identity."
+    },
+    {
+      "id": "WSC-019",
+      "status": "focused-review",
+      "name": "Froghemoth gut inhabitants",
+      "evidence": [
+        {
+          "episode": "E052",
+          "dossier": "episodes/E052.md",
+          "approximate_recording_window": "01:16–02:23"
+        },
+        {
+          "episode": "E053",
+          "dossier": "episodes/E053.md",
+          "approximate_recording_window": "00:20–01:58"
+        }
+      ],
+      "observed_lead": "Light-avoiding digestive organisms and larger thread-bearing or tentacled roper-like inhabitants occupy the interior.",
+      "boundary_or_next_check": "Several descriptions may indicate different organisms. Reconcile the sequence and distinguish incidental digestive fauna from distinct subjects before naming pages."
+    },
+    {
+      "id": "WSC-020",
+      "status": "focused-review",
+      "name": "Bloodsucking desert swarm",
+      "evidence": [
+        {
+          "episode": "E059",
+          "dossier": "episodes/E059.md",
+          "approximate_recording_window": "02:04–02:20"
+        }
+      ],
+      "observed_lead": "Vast dark swarm forces the travelers to shelter in Tiny Hut.",
+      "boundary_or_next_check": "No confirmed species or individual morphology in the dossier; do not identify it as stirges, mosquitoes or another standard monster."
+    },
+    {
+      "id": "WSC-021",
+      "status": "focused-review",
+      "name": "Parasitic headworms and related worm forms",
+      "evidence": [
+        {
+          "episode": "E058",
+          "dossier": "episodes/E058.md",
+          "approximate_recording_window": "00:30–00:55"
+        },
+        {
+          "episode": "E063",
+          "dossier": "episodes/E063.md",
+          "approximate_recording_window": "02:15–02:30"
+        },
+        {
+          "episode": "E064",
+          "dossier": "episodes/E064.md",
+          "approximate_recording_window": "01:03–01:23"
+        },
+        {
+          "episode": "E075",
+          "dossier": "episodes/E075.md",
+          "approximate_recording_window": "00:47–01:06"
+        },
+        {
+          "episode": "E080",
+          "dossier": "episodes/E080.md",
+          "approximate_recording_window": "00:51–01:00"
+        },
+        {
+          "episode": "E081",
+          "dossier": "episodes/E081.md",
+          "approximate_recording_window": "00:03–00:19"
+        }
+      ],
+      "observed_lead": "Observed head parasites, a captured bedchamber worm, an outbreak of host transformation and later explosive or exhaled worms.",
+      "boundary_or_next_check": "This is a research cluster, not one established species. Separate host testimony, observed parasites, spawned forms and transmission hypotheses; Dolo Popio remains a reasoning antagonist."
+    },
+    {
+      "id": "WSC-022",
+      "status": "focused-review",
+      "name": "Translucent psychic wall-passers",
+      "evidence": [
+        {
+          "episode": "E070",
+          "dossier": "episodes/E070.md",
+          "approximate_recording_window": "00:29–00:56"
+        }
+      ],
+      "observed_lead": "Glowing tentacled creatures pass through walls, respond to strong emotion and recoil from the squeaking plush toy.",
+      "boundary_or_next_check": "Keep the toy separate from living creatures. Recheck agency and identification rather than inventing a standard species."
+    },
+    {
+      "id": "WSC-023",
+      "status": "focused-review",
+      "name": "CHIDS hellhounds",
+      "evidence": [
+        {
+          "episode": "E070",
+          "dossier": "episodes/E070.md",
+          "approximate_recording_window": "02:00–02:16"
+        },
+        {
+          "episode": "E071",
+          "dossier": "episodes/E071.md",
+          "approximate_recording_window": "continuing conference-room fight"
+        }
+      ],
+      "observed_lead": "Flaming hounds with fire breath attack inside the facility.",
+      "boundary_or_next_check": "Review the continuing fight for last observed survivors and distinguish observed behavior from baseline rule assumptions."
+    },
+    {
+      "id": "WSC-024",
+      "status": "focused-review",
+      "name": "Corpse-bearing ice constructs",
+      "evidence": [
+        {
+          "episode": "E072",
+          "dossier": "episodes/E072.md",
+          "approximate_recording_window": "02:25–02:29"
+        },
+        {
+          "episode": "E073",
+          "dossier": "episodes/E073.md",
+          "approximate_recording_window": "opening continuation"
+        }
+      ],
+      "observed_lead": "Four enormous animated ice bodies enclose preserved corpses and attack around the resting party.",
+      "boundary_or_next_check": "No universal ice-golem identity or explanation for every enclosed person is established; not all four are confirmed destroyed in the continuation."
+    },
+    {
+      "id": "WSC-025",
+      "status": "focused-review",
+      "name": "Blue-black hooked-tail flyer",
+      "evidence": [
+        {
+          "episode": "E076",
+          "dossier": "episodes/E076.md",
+          "approximate_recording_window": "01:09–01:37"
+        }
+      ],
+      "observed_lead": "Leathery winged attacker with a hooked tail causes fear and is killed by Hope.",
+      "boundary_or_next_check": "Species and origins remain unidentified. Do not merge with the speaking winged vessel occupant encountered in E077."
+    },
+    {
+      "id": "WSC-026",
+      "status": "focused-review",
+      "name": "Wormfather party's winged stinging pet",
+      "evidence": [
+        {
+          "episode": "E057",
+          "dossier": "episodes/E057.md",
+          "approximate_recording_window": "02:04–02:45"
+        }
+      ],
+      "observed_lead": "Dragon-like winged pet fights alongside the crater attackers and is killed by Stanley.",
+      "boundary_or_next_check": "Not the retrieved skyfall creature; no automatic wyvern classification or identity with E076's flyer."
+    },
+    {
+      "id": "WSC-027",
+      "status": "focused-review",
+      "name": "Six-limbed desert burrower",
+      "evidence": [
+        {
+          "episode": "E128",
+          "dossier": "episodes/E128.md",
+          "approximate_recording_window": "01:25–01:37"
+        }
+      ],
+      "observed_lead": "Immense gear-scaled creature falls through a rift and burrows into Earth as a violent sand front forms.",
+      "boundary_or_next_check": "Morphology and entry are witnessed; planetary conversion purpose is the Soulbroker's claim. Name, intelligence, origin and full mechanism remain unknown; no invented species or lethal outcome."
+    },
+    {
+      "id": "WSC-028",
+      "status": "focused-review",
+      "name": "Pit froghemoth and altered upper form",
+      "evidence": [
+        {
+          "episode": "E039",
+          "dossier": "episodes/E039.md",
+          "approximate_recording_window": "02:45–03:00, testimony"
+        },
+        {
+          "episode": "E041",
+          "dossier": "episodes/E041.md",
+          "approximate_recording_window": "00:50–02:11"
+        },
+        {
+          "episode": "E046",
+          "dossier": "episodes/E046.md",
+          "approximate_recording_window": "01:59–02:18"
+        },
+        {
+          "episode": "E052",
+          "dossier": "episodes/E052.md",
+          "approximate_recording_window": "00:00–03:04"
+        },
+        {
+          "episode": "E053",
+          "dossier": "episodes/E053.md",
+          "approximate_recording_window": "00:00–00:20"
+        }
+      ],
+      "observed_lead": "Three-eyed pit predator and later enormous many-eyed form with an inhabitable digestive tract and separating upper cocoon.",
+      "boundary_or_next_check": "E053 contains private mental bargaining and the creature's claim of intended ascent. Resolve form/NPC routing, continuity of specimens and attribution first. The upper portion escapes; the entire organism is not confirmed dead."
+    },
+    {
+      "id": "WSC-029",
+      "status": "focused-review",
+      "name": "Red memory-devouring organisms",
+      "evidence": [
+        {
+          "episode": "E074",
+          "dossier": "episodes/E074.md",
+          "approximate_recording_window": "02:35–02:49"
+        },
+        {
+          "episode": "E075",
+          "dossier": "episodes/E075.md",
+          "approximate_recording_window": "00:07–00:20"
+        },
+        {
+          "episode": "E080",
+          "dossier": "episodes/E080.md",
+          "approximate_recording_window": "00:51–01:00"
+        },
+        {
+          "episode": "E081",
+          "dossier": "episodes/E081.md",
+          "approximate_recording_window": "00:40–01:13"
+        }
+      ],
+      "observed_lead": "Many-faced red mass makes tethered lookalikes and inflicts a persistent penalty; later red growths attack and burrow.",
+      "boundary_or_next_check": "Copies can appear to speak. Check agency and whether later red organisms are the same kind before treating this as one non-reasoning species."
+    },
+    {
+      "id": "WSC-030",
+      "status": "separate-oneoff",
+      "name": "Figgy-pudding ooze",
+      "evidence": [
+        {
+          "episode": "E127",
+          "dossier": "episodes/E127.md",
+          "approximate_recording_window": "00:27–00:41"
+        }
+      ],
+      "observed_lead": "Sugar-decorated hostile pudding appears in the laboratory Christmas test and is cut apart by Riley.",
+      "boundary_or_next_check": "Wastes-setting one-off with no supplied main-campaign calendar placement. Do not merge it with the E109 fruit ooze."
+    },
+    {
+      "id": "WSC-031",
+      "status": "separate-oneoff",
+      "name": "Undead reindeer and powered Rudolph",
+      "evidence": [
+        {
+          "episode": "E127",
+          "dossier": "episodes/E127.md",
+          "approximate_recording_window": "01:00–01:32"
+        }
+      ],
+      "observed_lead": "Mutilated undead flying deer and a separate battery-equipped red-nosed attacker threaten the test subjects.",
+      "boundary_or_next_check": "Keep the undead herd and powered individual distinct; Rudolph is destroyed. This is a constructed test environment, not evidence of a literal North Pole or a universal reindeer type."
+    },
+    {
+      "id": "WSC-032",
+      "status": "published",
+      "name": "Sand squid",
+      "evidence": [
+        {
+          "episode": "E010",
+          "dossier": "episodes/E010.md",
+          "approximate_recording_window": "02:01–02:02"
+        },
+        {
+          "episode": "E012",
+          "dossier": "episodes/E012.md",
+          "approximate_recording_window": "00:24–00:28; 01:12–01:13; 02:02–02:04"
+        },
+        {
+          "episode": "E015",
+          "dossier": "episodes/E015.md",
+          "approximate_recording_window": "02:20–02:23; 02:29–02:31"
+        },
+        {
+          "episode": "E016",
+          "dossier": "episodes/E016.md",
+          "approximate_recording_window": "02:13–02:15"
+        },
+        {
+          "episode": "E017",
+          "dossier": "episodes/E017.md",
+          "approximate_recording_window": "00:25; 00:55"
+        },
+        {
+          "episode": "E026",
+          "dossier": "episodes/E026.md",
+          "approximate_recording_window": "01:44–01:46"
+        },
+        {
+          "episode": "E055",
+          "dossier": "episodes/E055.md",
+          "approximate_recording_window": "01:31–01:32"
+        },
+        {
+          "episode": "E082",
+          "dossier": "episodes/E082.md",
+          "approximate_recording_window": "02:12–02:15"
+        },
+        {
+          "episode": "E123",
+          "dossier": "episodes/E123.md",
+          "approximate_recording_window": "02:10–02:11"
+        }
+      ],
+      "observed_lead": "Schooling desert animals that eat insects; tentacles, two eyes and bulbous head. Recurring food includes meat, dried rations and creamy juice added to coffee.",
+      "boundary_or_next_check": "Owner-supplied follow-up with targeted transcript review; not full-episode or audio verification. Keep CHIDS pool organisms, Sigil lack of supply, unrelated shelter carcass and unconfirmed ooze ancestry separate.",
+      "article": "world/creatures/sand-squid.md",
+      "source_review": "reports/SAND_SQUID_SOURCE_REVIEW_2026-10-24.md"
+    }
+  ],
+  "followups": [
+    {
+      "subject": "Sand squid",
+      "date": "2026-10-24",
+      "source_review": "reports/SAND_SQUID_SOURCE_REVIEW_2026-10-24.md",
+      "source_inventory": "reports/SAND_SQUID_SOURCE_REVIEW_2026-10-24.json",
+      "reason": "Owner identified recurring food/ingredient significance; original low-information ranking corrected."
+    }
+  ]
+}
