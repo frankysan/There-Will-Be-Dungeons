@@ -73,6 +73,11 @@ species lore. Campaign originality is a research question, not an entry gate.
 | The Wastes | [Sand squid](../world/creatures/sand-squid.md) | Recurring food and ingredient use; selected E010–E123 references and E015 hunting/ecology checked in a [targeted transcript follow-up](../reports/SAND_SQUID_SOURCE_REVIEW_2026-10-24.md), without audio verification |
 | The Wastes | [Chicken Lords](../world/creatures/chicken-lords.md) | E060 feast, E064 transformations and E107 same-world historical arena specimen; no universal infection route inferred |
 | The Wastes | [Pixie Hulks](../world/creatures/pixie-hulks.md) | E049–E054 forced transformation, destructive abilities and observed reversion; P0D's biography remains separate |
+| The Wastes | [Chester the bearsaurus](../world/creatures/chester-the-bearsaurus.md) | E119's attributed origin report and E120's played anatomy, hunt and death; no inferred breeding population |
+| The Wastes | [Dunebreaker fruit ooze](../world/creatures/dunebreaker-fruit-ooze.md) | E109's individual gelatin creature, growth and destruction in the historical prequel; no inferred demon identity or sand-squid ancestry |
+| The Wastes | [Tainted displacer beast](../world/creatures/tainted-displacer-beast.md) | E020's wounded chasm predator and death; its altered condition has no established cause |
+| The Wastes | [Brain-backed spiders](../world/creatures/brain-backed-spiders.md) | E073–E075's giant spider, smaller swarms and Cerinthala's pouch; no established origin, breeding relationship or control mechanism |
+| The Wastes | [Skeleton-spawning flesh giant](../world/creatures/skeleton-spawning-flesh-giant.md) | E067's individual skeleton-producing creature beneath Kervalon; death ends spawning, without clearing the keep |
 | Delvers | [Gricks](../delvers/world/creatures/gricks.md) | S1E01 identification and S1E03 sinkhole predators; no invented S1E02–S1E03 transition or cleared dungeon |
 
 Squirts, Henatar/Henitar Grape and the imprisoned black dragon remain character
@@ -91,15 +96,17 @@ from supported material, preserving unknown fates and source limitations.
 
 The [initial season-wide dossier search](../reports/WASTES_S1_CREATURE_SEARCH_2026-10-24.md)
 and [machine-readable inventory](../reports/WASTES_S1_CREATURE_SEARCH_2026-10-24.json)
-record 32 additional candidate subjects or research clusters: one now published
-(sand squid), 12 suitable for bounded drafting, 17 requiring focused review and
+record 32 additional candidate subjects or research clusters: six now published
+(sand squid and the first five ranked candidates), seven suitable for bounded drafting, 17 requiring focused review and
 two from the separately placed Wastes-setting Christmas one-off. The initial
 scan covers 130 available
 E-numbered dossiers; it is not a full transcript or audio review and excludes
 the alternate-setting E043 from Wastes evidence.
 
-The first drafting batch is **Chester the bearsaurus**, the **Dunebreaker fruit
-ooze** and the **tainted displacer beast**. The initial discovery pass added no
-canonical entries; sand squid were published in the subsequent owner-supplied
-follow-up. Neither pass advances an episode-research pointer. Follow the
-report's specific identity, agency and source checks when continuing.
+The first ranked drafting batch—**Chester the bearsaurus**, the **Dunebreaker
+fruit ooze** and the **tainted displacer beast**—is published from existing
+dossiers, following the sand-squid transcript follow-up. The **brain-backed
+spiders** and **skeleton-spawning flesh giant** are also published. Next are
+**black puddings** and the **basilisk of the under-Pit caves**. These creature
+publications do not advance an episode-research pointer. Follow the report's
+specific identity, agency and source checks when continuing.

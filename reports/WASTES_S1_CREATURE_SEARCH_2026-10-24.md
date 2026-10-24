@@ -20,9 +20,9 @@ This is **not** a claim to have manually interpreted every dossier or researched
 
 **31 additional candidate subjects or research clusters:** **12 suitable for bounded drafting from existing dossiers**, **17 requiring focused identity, behavior or continuity review**, and **2 separate Wastes-setting one-off leads**. These are editorial triage judgments, not verified species counts or intelligence classifications. Chicken Lords and Pixie Hulks already have pages and are not counted again.
 
-Start the next drafting batch with **Chester the bearsaurus**, the **Dunebreaker fruit ooze** and the **tainted displacer beast**. Each has distinctive observed traits and a bounded individual outcome. Follow with the **brain-backed spiders** and **skeleton-spawning flesh giant**, preserving their descriptive names and uncertain origins. Some later draftable subjects warrant only short articles; do not pad an entry to match a major creature's history.
+The first ranked batch—**Chester the bearsaurus**, the **Dunebreaker fruit ooze** and the **tainted displacer beast**—is now published from the existing dossiers. Each has distinctive observed traits and a bounded individual outcome. The **brain-backed spiders** and **skeleton-spawning flesh giant** are now published as the second ranked batch. Next are **black puddings** and the **basilisk of the under-Pit caves**, preserving their observed traits and source limits. Some later draftable subjects warrant only short articles; do not pad an entry to match a major creature's history.
 
-No canonical creature entry was added during the initial dossier search. The subsequent sand-squid follow-up brings the cumulative list to **32 subjects/clusters: one published, 12 draftable, 17 requiring focused review and two separately placed one-off leads**. Candidate IDs WSC-001–WSC-031 remain stable.
+No canonical creature entry was added during the initial dossier search. After the sand-squid follow-up and two ranked publication batches, the cumulative list is **32 subjects/clusters: six published, seven draftable, 17 requiring focused review and two separately placed one-off leads**. Candidate IDs WSC-001–WSC-031 remain stable.
 
 ## Owner-supplied follow-up — sand squid
 
@@ -30,17 +30,31 @@ No canonical creature entry was added during the initial dossier search. The sub
 
 The follow-up scanned 279 available Season One subtitle exports for squid-related cues, then interpreted selected windows in nine primary-export episodes and cross-read core E012/E015 descriptions in Qwen. It is not full-episode or audio verification. The unrelated E018 shelter carcass remains unidentified; CHIDS's squidlike pool organisms are not identified as sand squid, and no ancestry from the Dunebreaker ooze is established. The companion shortlist JSON now records WSC-032 and links its separate source inventory.
 
+## First ranked publication batch
+
+**2026-10-24:** Created these three subject pages, added category navigation and marked their stable candidate IDs published in the companion JSON. This is synthesis of the existing E020, E109, E119 and E120 dossiers, not a new episode-analysis or transcript/audio review. Each page introduces its subject, explains meaningful traits and changes, and closes with Current status; episode IDs, inherited clocks and source limits remain in footnotes. Chester's reported laboratory origin, the ooze's historical chronology and individual identity, and the beast's unexplained condition retain their boundaries.
+
+| ID / published article | Dossier and approximate window | Supported lead | Boundary retained |
+| --- | --- | --- | --- |
+| **WSC-001 — [Chester the bearsaurus](../world/creatures/chester-the-bearsaurus.md)** | [E119](../episodes/E119.md) 00:36–00:48<br>[E120](../episodes/E120.md) 00:20–01:12 | Bear-like, antlered predator with massive hindquarters, small forelimbs and a partly reptilian head; climbs by leaping and dies during the hunt. | Laboratory creation, age and ecological damage are Dilo's account. Use bearsaurus as the existing display form; preserve barosaurus as an ASR variant in notes. A name alone does not make this observed animal a reasoning NPC. |
+| **WSC-002 — [Dunebreaker fruit ooze](../world/creatures/dunebreaker-fruit-ooze.md)** | [E109](../episodes/E109.md) 00:39–01:08; 01:51–02:43 | Fruit-speckled gelatin escapes through drains and grows by absorbing waste, debris and bodies; steam breaks it apart and the final cherry-bearing globule is destroyed. | Treat as one individual. Its growth explanation is retrospective GM confirmation; faint fiend-like detection does not identify it as a demon. |
+| **WSC-003 — [Tainted displacer beast](../world/creatures/tainted-displacer-beast.md)** | [E020](../episodes/E020.md) 01:31–02:43 | Wounded, tentacled cat-like predator with deceptive shifting position and exposed brain tissue; killed in the Black Mine chasm. | Describe the observed specimen and apparent displacer-beast identity; do not invent why it was altered or claim a sourced D&D deviation. |
+
+## Second ranked publication batch
+
+**2026-10-24:** Published WSC-004 and WSC-005 from the existing E067, E073, E074 and E075 dossiers, without new transcript or audio review. The spider article distinguishes the giant's mental control from the smaller swarms' venom and preserves the uncertainty around Cerinthala's pouch. The flesh giant remains an unnamed individual whose death ends its spawning; no creator, standard species or cleared keep is inferred. Both articles use in-universe prose, evidence footnotes and Current status last.
+
+| ID / published article | Dossier and approximate window | Supported lead | Boundary retained |
+| --- | --- | --- | --- |
+| **WSC-004 — [Brain-backed spiders](../world/creatures/brain-backed-spiders.md)** | [E073](../episodes/E073.md) closing shaft encounter<br>[E074](../episodes/E074.md) 00:08–01:20<br>[E075](../episodes/E075.md) 00:32–00:47 | Giant spider with exposed pulsing brain and smaller brain-marked swarms; poison and domination make the shaft encounter distinctive. | The giant dies in E074. Separate large and small forms; Cerinthala's pouch does not by itself prove their origin, breeding or control mechanism. |
+| **WSC-005 — [Skeleton-spawning flesh giant](../world/creatures/skeleton-spawning-flesh-giant.md)** | [E067](../episodes/E067.md) 01:39–02:27 | Malformed flesh-and-bone body produces skeletons through shoulder cavities and fresh wounds; its death ends further spawning. | Use a descriptive name. No official species, creator or claim that every skeleton at Kervalon came from it is established. |
+
 ## Suitable for bounded drafting
 
 A candidate here has enough dossier support for a concise, qualified article. The label does not assert that it is campaign-original, non-intelligent by a rules score, or audio-confirmed.
 
 | ID / candidate | Dossier and approximate window | Supported lead | Boundary / next check |
 | --- | --- | --- | --- |
-| **WSC-001 — Chester the bearsaurus** | [E119](../episodes/E119.md) 00:36–00:48<br>[E120](../episodes/E120.md) 00:20–01:12 | Bear-like, antlered predator with massive hindquarters, small forelimbs and a partly reptilian head; climbs by leaping and dies during the hunt. | Laboratory creation, age and ecological damage are Dilo's account. Use bearsaurus as the existing display form; preserve barosaurus as an ASR variant in notes. A name alone does not make this observed animal a reasoning NPC. |
-| **WSC-002 — Dunebreaker fruit ooze** | [E109](../episodes/E109.md) 00:39–01:08; 01:51–02:43 | Fruit-speckled gelatin escapes through drains and grows by absorbing waste, debris and bodies; steam breaks it apart and the final cherry-bearing globule is destroyed. | Treat as one individual. Its growth explanation is retrospective GM confirmation; faint fiend-like detection does not identify it as a demon. |
-| **WSC-003 — Tainted displacer beast** | [E020](../episodes/E020.md) 01:31–02:43 | Wounded, tentacled cat-like predator with deceptive shifting position and exposed brain tissue; killed in the Black Mine chasm. | Describe the observed specimen and apparent displacer-beast identity; do not invent why it was altered or claim a sourced D&D deviation. |
-| **WSC-004 — Brain-backed spiders** | [E073](../episodes/E073.md) closing shaft encounter<br>[E074](../episodes/E074.md) 00:08–01:20<br>[E075](../episodes/E075.md) 00:32–00:47 | Giant spider with exposed pulsing brain and smaller brain-marked swarms; poison and domination make the shaft encounter distinctive. | The giant dies in E074. Separate large and small forms; Cerinthala's pouch does not by itself prove their origin, breeding or control mechanism. |
-| **WSC-005 — Skeleton-spawning flesh giant** | [E067](../episodes/E067.md) 01:39–02:27 | Malformed flesh-and-bone body produces skeletons through shoulder cavities and fresh wounds; its death ends further spawning. | Use a descriptive name. No official species, creator or claim that every skeleton at Kervalon came from it is established. |
 | **WSC-006 — Black puddings** | [E042](../episodes/E042.md) 01:42–03:10 | Two corrosive cave masses split under slashing attacks and damage Hope's equipment. | Nash supplies the identification. Keep demonstrated corrosion and splitting separate from the full rules list discussed at the table. |
 | **WSC-007 — Basilisk of the under-Pit caves** | [E045](../episodes/E045.md) 00:43–01:28; 02:02–02:12<br>[E051](../episodes/E051.md) 02:01–02:29 | Eight-legged reptile with a petrifying gaze; its remains later contribute to restoring petrified companions. | The beast dies in E045. Later preparation is not a second kill; do not backdate extraction of a finished cure to the earlier digestive-oil discussion. |
 | **WSC-008 — Luminous desert beetles** | [E007](../episodes/E007.md) 00:06–00:40 | Large beetles with luminous fleshy appendages surround Fate 4 at night; travelers use noise and movement to avoid them. | Exact dimensions, diet and eventual departure remain listening questions. Suitable for a short entry; no need to invent a species name. |
@@ -95,7 +109,7 @@ Resolve these particular questions rather than promoting a vague encounter label
 
 ## Next bounded work and publication checks
 
-1. Draft the first three subjects from the cited dossiers. Use targeted source windows only where a material claim remains unresolved; do not mark a complete episode reanalysis from excerpts.
+1. Continue with WSC-006 black puddings and WSC-007 basilisk of the under-Pit caves; the first five ranked subjects are published. Use targeted source windows only where a material claim remains unresolved; do not mark a complete episode reanalysis from excerpts.
 2. For each subject, check first appearance, distinguishing traits and last known state across the cited dossiers. Preserve testimonial origins, alternative spellings and uncertain individual outcomes in notes.
 3. Publish subject-focused in-universe prose under `world/creatures/`, with source/ASR details in footnotes and **Current status** last. Add only brief descriptions to the category index. Keep people and transformed forms distinct.
 4. Resolve the froghemoth's bargaining mind, red-organism agency, worm-type relationships and E127's separate chronology before expanding those clusters. Do not convert source uncertainty into a fictional universal rule.

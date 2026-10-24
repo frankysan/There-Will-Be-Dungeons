@@ -7,6 +7,11 @@ The Wastes harbor desert wildlife, dangerous beasts and monstrous transformation
 | [Sand squid](creatures/sand-squid.md) | Schooling animals that travel through desert sand and feed on insects; their meat, dried bodies and creamy juice supply meals, rations and coffee ingredients. |
 | [Chicken Lords](creatures/chicken-lords.md) | Huge chicken-like monsters used in arena trials and served at Razak Val's feasts; the same name is given to the creatures into which the city's captives transform. |
 | [Pixie Hulks](creatures/pixie-hulks.md) | Enormous, muscular forms forced upon pixies under Monsoon Cabbage's command, combining destructive strength with pixie magic. |
+| [Chester the bearsaurus](creatures/chester-the-bearsaurus.md) | Enormous antlered animal of Elhandar's hunting forest, with bear-like bulk, powerful hind legs and a partly reptilian head. |
+| [Dunebreaker fruit ooze](creatures/dunebreaker-fruit-ooze.md) | Fruit-speckled jelly that escaped into the landship's drains and grew into a vast acidic mass by absorbing waste and debris. |
+| [Tainted displacer beast](creatures/tainted-displacer-beast.md) | Wounded tentacled predator of the Black Mine, whose shifting appearance made it difficult to strike. |
+| [Brain-backed spiders](creatures/brain-backed-spiders.md) | Giant spider with an exposed pulsing brain and accompanying smaller swarms; venom and mental control made the CHIDS lift shaft perilous. |
+| [Skeleton-spawning flesh giant](creatures/skeleton-spawning-flesh-giant.md) | Malformed flesh-and-bone creature beneath Kervalon, producing animated skeletons from shoulder cavities and wounds. |
 
 [World reference](README.md) · [Characters and companions](CHARACTERS.md) · [Antagonists and rivals](ANTAGONISTS.md)
 

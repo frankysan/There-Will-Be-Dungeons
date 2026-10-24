@@ -10,7 +10,7 @@
     "full_srt_review": false,
     "audio_review": false,
     "not_exhaustive": true,
-    "new_canonical_entries_published": 1,
+    "new_canonical_entries_published": 6,
     "selected_srt_followup": true
   },
   "search_patterns": [
@@ -18,10 +18,10 @@
     "\\b(?:devour\\w*|grubs?|aboleths?|otyughs?|chokers?|gazers?|specters?|spectres?|wraiths?|wights?|ghouls?|ghasts?|mephits?|bulettes?|carrion|darkmantles?|gricks?|gorgons?|salamanders?|cockatrices?|ankhegs?|stirges?|umber hulks?|maggots?|parasites?|slaads?|stalkers?|grells?|piercers?|tadpoles?)\\b"
   ],
   "counts": {
-    "draft-next": 12,
+    "published": 6,
+    "draft-next": 7,
     "focused-review": 17,
-    "separate-oneoff": 2,
-    "published": 1
+    "separate-oneoff": 2
   },
   "inventory": [
     {
@@ -938,7 +938,7 @@
   "candidates": [
     {
       "id": "WSC-001",
-      "status": "draft-next",
+      "status": "published",
       "name": "Chester the bearsaurus",
       "evidence": [
         {
@@ -953,11 +953,14 @@
         }
       ],
       "observed_lead": "Bear-like, antlered predator with massive hindquarters, small forelimbs and a partly reptilian head; climbs by leaping and dies during the hunt.",
-      "boundary_or_next_check": "Laboratory creation, age and ecological damage are Dilo's account. Use bearsaurus as the existing display form; preserve barosaurus as an ASR variant in notes. A name alone does not make this observed animal a reasoning NPC."
+      "boundary_or_next_check": "Laboratory creation, age and ecological damage are Dilo's account. Use bearsaurus as the existing display form; preserve barosaurus as an ASR variant in notes. A name alone does not make this observed animal a reasoning NPC.",
+      "article": "world/creatures/chester-the-bearsaurus.md",
+      "publication_date": "2026-10-24",
+      "publication_basis": "Synthesis of existing episode dossiers; no new transcript or audio review"
     },
     {
       "id": "WSC-002",
-      "status": "draft-next",
+      "status": "published",
       "name": "Dunebreaker fruit ooze",
       "evidence": [
         {
@@ -967,11 +970,14 @@
         }
       ],
       "observed_lead": "Fruit-speckled gelatin escapes through drains and grows by absorbing waste, debris and bodies; steam breaks it apart and the final cherry-bearing globule is destroyed.",
-      "boundary_or_next_check": "Treat as one individual. Its growth explanation is retrospective GM confirmation; faint fiend-like detection does not identify it as a demon."
+      "boundary_or_next_check": "Treat as one individual. Its growth explanation is retrospective GM confirmation; faint fiend-like detection does not identify it as a demon.",
+      "article": "world/creatures/dunebreaker-fruit-ooze.md",
+      "publication_date": "2026-10-24",
+      "publication_basis": "Synthesis of existing episode dossiers; no new transcript or audio review"
     },
     {
       "id": "WSC-003",
-      "status": "draft-next",
+      "status": "published",
       "name": "Tainted displacer beast",
       "evidence": [
         {
@@ -981,11 +987,14 @@
         }
       ],
       "observed_lead": "Wounded, tentacled cat-like predator with deceptive shifting position and exposed brain tissue; killed in the Black Mine chasm.",
-      "boundary_or_next_check": "Describe the observed specimen and apparent displacer-beast identity; do not invent why it was altered or claim a sourced D&D deviation."
+      "boundary_or_next_check": "Describe the observed specimen and apparent displacer-beast identity; do not invent why it was altered or claim a sourced D&D deviation.",
+      "article": "world/creatures/tainted-displacer-beast.md",
+      "publication_date": "2026-10-24",
+      "publication_basis": "Synthesis of existing episode dossiers; no new transcript or audio review"
     },
     {
       "id": "WSC-004",
-      "status": "draft-next",
+      "status": "published",
       "name": "Brain-backed spiders",
       "evidence": [
         {
@@ -1005,11 +1014,14 @@
         }
       ],
       "observed_lead": "Giant spider with exposed pulsing brain and smaller brain-marked swarms; poison and domination make the shaft encounter distinctive.",
-      "boundary_or_next_check": "The giant dies in E074. Separate large and small forms; Cerinthala's pouch does not by itself prove their origin, breeding or control mechanism."
+      "boundary_or_next_check": "The giant dies in E074. Separate large and small forms; Cerinthala's pouch does not by itself prove their origin, breeding or control mechanism.",
+      "article": "world/creatures/brain-backed-spiders.md",
+      "publication_date": "2026-10-24",
+      "publication_basis": "Synthesis of existing episode dossiers; no new transcript or audio review"
     },
     {
       "id": "WSC-005",
-      "status": "draft-next",
+      "status": "published",
       "name": "Skeleton-spawning flesh giant",
       "evidence": [
         {
@@ -1019,7 +1031,10 @@
         }
       ],
       "observed_lead": "Malformed flesh-and-bone body produces skeletons through shoulder cavities and fresh wounds; its death ends further spawning.",
-      "boundary_or_next_check": "Use a descriptive name. No official species, creator or claim that every skeleton at Kervalon came from it is established."
+      "boundary_or_next_check": "Use a descriptive name. No official species, creator or claim that every skeleton at Kervalon came from it is established.",
+      "article": "world/creatures/skeleton-spawning-flesh-giant.md",
+      "publication_date": "2026-10-24",
+      "publication_basis": "Synthesis of existing episode dossiers; no new transcript or audio review"
     },
     {
       "id": "WSC-006",
@@ -1554,6 +1569,42 @@
       "source_review": "reports/SAND_SQUID_SOURCE_REVIEW_2026-10-24.md",
       "source_inventory": "reports/SAND_SQUID_SOURCE_REVIEW_2026-10-24.json",
       "reason": "Owner identified recurring food/ingredient significance; original low-information ranking corrected."
+    }
+  ],
+  "publication_batches": [
+    {
+      "date": "2026-10-24",
+      "candidate_ids": [
+        "WSC-001",
+        "WSC-002",
+        "WSC-003"
+      ],
+      "articles": [
+        "world/creatures/chester-the-bearsaurus.md",
+        "world/creatures/dunebreaker-fruit-ooze.md",
+        "world/creatures/tainted-displacer-beast.md"
+      ],
+      "basis": "Existing E020, E109, E119 and E120 dossiers; no new SRT or audio review",
+      "next_candidate_ids": [
+        "WSC-004",
+        "WSC-005"
+      ]
+    },
+    {
+      "date": "2026-10-24",
+      "candidate_ids": [
+        "WSC-004",
+        "WSC-005"
+      ],
+      "articles": [
+        "world/creatures/brain-backed-spiders.md",
+        "world/creatures/skeleton-spawning-flesh-giant.md"
+      ],
+      "basis": "Existing E067, E073, E074 and E075 dossiers; no new SRT or audio review",
+      "next_candidate_ids": [
+        "WSC-006",
+        "WSC-007"
+      ]
     }
   ]
 }

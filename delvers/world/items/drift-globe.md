@@ -16,7 +16,7 @@ Koh first uses its ordinary light in the sanctuary's running chamber. Later, in 
 
 ## Light in the woodland dungeon
 
-On the third assignment Koh once again directs the globe to produce daylight, exposing a grick concealed in the rocky dungeon entrance. The light enables the party to find and fight the creature among the worked stone. The intervening dawn or exact reset of its daily charge is not shown in the preceding recorded scene, but the ability is **performed and allowed** on this later expedition.[^grick]
+On the third assignment, after another dawn has passed since the crypt, Koh once again directs the globe to produce daylight, exposing a grick concealed in the rocky dungeon entrance. The light enables the party to find and fight the creature among the worked stone.[^grick]
 
 ## Current status
 
@@ -28,6 +28,6 @@ Koh retains the globe following the grick-scout assignment. Its ordinary illumin
 
 [^powers]: [S1E01](../../episodes/S1E01.md), ~02:19–02:27. Cassius/GM describes once-daily **Daylight**, floating no more than five feet above the ground, and following beyond sixty feet. These explanations do not independently demonstrate every capability. Former owner rendered `Bran Broscale/Brosgail`, later `ram's/Rams` and `rosescale/rose scales`; exact name unresolved. Cassius's speculation about the dead delver's soul does not establish an afterlife outcome. [ASR comparison](../../../reports/DELVERS_S1E01_ASR_COMPARISON_2026-10-24.md).
 
-[^use]: [S1E02 dossier](../../episodes/S1E02.md), ~00:55, 01:48 and Studwell fight through ~02:30. Ordinary light and the once-daily Daylight charge are demonstrated; daylight weakens Shadows and disadvantages Studwell's attacks rather than automatically dealing damage. S1E04 later shows another Daylight activation; the intervening dawn or recharge is not shown in the supplied S1E02 ending. [Preserved draft](../../../research/legacy/2026-10-24/delvers-pre-style/delvers/world/items/drift-globe.md).
+[^use]: [S1E02 dossier](../../episodes/S1E02.md), ~00:55, 01:48 and Studwell fight through ~02:30. Ordinary light and the once-daily Daylight charge are demonstrated; daylight weakens Shadows and disadvantages Studwell's attacks rather than automatically dealing damage. Genuine [S1E03](../../episodes/S1E03.md), ~00:09–00:18, fills the chronology: the party wakes the next morning and sets out on the grick expedition. S1E04 shows a subsequent Daylight activation on that later day; no explicit recharge action is narrated. [Preserved draft](../../../research/legacy/2026-10-24/delvers-pre-style/delvers/world/items/drift-globe.md).
 
-[^grick]: [S1E04 dossier](../../episodes/S1E04.md), ~01:46–01:50 and ~02:00. Koh explicitly activates Daylight at the entrance, revealing a grick. The episodes do not show the recharge/next dawn between usages; **no rules exploit or carry-over charge** is inferred.
+[^grick]: [S1E04 dossier](../../episodes/S1E04.md), ~01:46–01:50 and ~02:00. Koh explicitly activates Daylight at the entrance, revealing a grick. [S1E03](../../episodes/S1E03.md), ~00:09–00:18, **does establish a following morning and dawn** between the crypt and this grick expedition. The globe's recharge mechanic is not spoken as a separate action; **no rules exploit or carry-over charge** is inferred.

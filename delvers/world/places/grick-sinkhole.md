@@ -8,7 +8,7 @@ The party reached the ruins while investigating reported gricks. The creatures a
 
 ## A difficult escape
 
-Koh, Evelyn and Krandal discovered that direct combat against the gricks was costly. Their scales resisted ordinary strikes, and their limbs and beaks inflicted severe wounds. An initial skirmish left the company trapped beside the altar, an inscribed stone tablet and a way up too sheer to climb unaided. Koh's enchanted purple climbing sash offered a route out. Evelyn defended the retreat while Krandal distracted one hungry creature inadvertently: after tearing open his backpack, the grick mistook falling vestments, candles and rations for the cleric's entrails.[^escape]
+Koh, Evelyn and Krandal discovered that direct combat against the gricks was costly. Their scales resisted ordinary strikes, and their limbs and beaks inflicted severe wounds. The first skirmish ended with **Evelyn killing a grick** and the company trapped beside the altar, an inscribed stone tablet and a way up too sheer to climb unaided. Koh's enchanted purple climbing sash offered a route out. Evelyn defended the retreat while Krandal distracted one hungry creature inadvertently: after tearing open his backpack, the grick mistook falling vestments, candles and rations for the cleric's entrails.[^escape]
 
 They reached the rim only through a succession of hurried climbs and arrow shots. One grick died while pursuing them upward. Another emerged from the brush and knocked Krandal unconscious, dragging him away until Koh's arrow brought it down. Evelyn returned to revive him, and the three made their way back toward the path. The heavy tablet remained behind in the ruins.
 
