@@ -43,3 +43,9 @@ In the **February 2020 Q&A**, Jon says he deliberately left Diontalus silent whi
 ## E123 — persistent harm and fears without a new encounter
 
 After a **completed long rest**, Stanley reports **Strength 7/Dexterity 17**, and Vorel's strength loss also remains. **No restoration is performed** before the lake cutoff. The party discusses radiant weapons, possible sunlight effects, multiple hosts and risks to family/refugees; those are **theories and precautions**, not new demonstrated powers or a new attack. The GM dashboard recaps **Diontalus's own claim of trading Sylvan secrets for the Principle's assistance**, not a witnessed crystal release. He does not reappear; **Emenil is not revealed as a host**, and a corrected GM name slip is not evidence of possession. [E123](../../episodes/E123.md).
+
+## November 2020 bonus — limited player form and independent archfey
+
+In **~00:13:26–00:16:19**, Jon recalls the former Stanley/Diontalus class-switch arrangement as **same level and stats, once per day, with imperfect agency over who was in charge**. Beau identifies Diontalus as the relevant **archfey patron**; Jon explains that he played the mortal host as able to contain only part of that essence/power/knowledge. **This is creator/player explanation of past mechanics**, not a new physical reunion, restored class feature or proof Stanley previously held the independent entity's full abilities.
+
+Jon's comparison with the scythe's stat destruction is **not an independent ruling that E123 reductions are permanently incurable**. **~00:28–00:29:** He acknowledges Stanley's temptation but says it is actively resisted. The question's “lowly” description is challenged, not a canonical power ranking. [Bonus](../../episodes/BONUS-2020-11.md) · [Comparison](../../reports/BONUS_2020_11_ASR_COMPARISON_2026-10-24.md).

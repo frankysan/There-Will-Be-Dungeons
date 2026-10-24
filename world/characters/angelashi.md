@@ -1,6 +1,6 @@
 # Angelashi
 
-**Name status:** **Angelashi** is used as a working display spelling based on cast-shared recap forms; **Angel Ashi** appears in episode ASR, and the **word division remains unresolved**, unlike the accepted spelling **Diontalus**. **Identity:** Changeling who presents as an elven singer (revealed E114), and an important companion of Nash. **Arc Two status:** **Alive and freed in E054**. **Spoilers:** E035–E115.
+**Name status:** **Angelashi** is used as a working display spelling based on cast-shared recap forms; **Angel Ashi** appears in episode ASR, and the **word division remains unresolved**, unlike the accepted spelling **Diontalus**. **Identity:** Changeling who presents as an elven singer (revealed E114), and an important companion of Nash. **Arc Two status:** **Alive and freed in E054**. **Spoilers:** Played E035–E115, plus separately framed November 2020 creator discussion below.
 
 Angelashi is introduced as a performer at the **Golden Gargoyle** in Trashburg, drawing Nash's interest. She travels with him after the club's violence and later speaks privately about her past, including elven/refugee experiences, travel hopes and her magic. Some of those details are **her own account**, not independent confirmation of an ancient itinerary. She uses temporary flower/plant magic around Nash, and the two develop an intimate relationship.
 
@@ -29,3 +29,9 @@ During the rescue ship's voyage toward **Elhandar**, Angelashi goes into labor a
 ## New-arc status — E055–E056
 
 After three months **Angelashi and Nash are expecting a child**, as revealed in E055. She comforts Nash during recurring Solar Mines nightmares and becomes involved in his changed domestic life. She arrives during E056's stone storm with a young worker **Fibel/Fibble**, then remains with **Fibel and Bok Bok at the Golden Sands** while the four adventurers respond to the crisis. **This is a new pregnancy reveal; neither delivery nor loss is shown by E056.** The name's exact written word division **Angelashi/Angel Ashi** remains unresolved. [E055](../../episodes/E055.md) · [E056](../../episodes/E056.md).
+
+## November 2020 bonus — child-gender recall versus the birth source
+
+At **~00:25:57–00:27:04**, the [November publication bonus](../../episodes/BONUS-2020-11.md) cast cannot recall the children's genders. Scott initially assumes all boys, then withdraws certainty; Beau wonders whether he specified them. **Jon proposes Nash Junior as a girl; Beau appears to accept**, with Kristen also saying they have decided. This is **later creator discussion/provisional individual assignment**, not an on-screen change or a verified replacement handout.
+
+Targeted E114 source checks retain **two girls and two boys (~02:38:07–02:38:12)** and the initially baby-shaped newborn's **boy** identification (~02:36:27). **No earlier source is silently rewritten**; individual birth-form/name mapping and creator intent remain a listening/note question. The proposed children campaign and Scott's preference to play Boot are **unperformed planning**, not new developments for Angelashi or her children. [Comparison](../../reports/BONUS_2020_11_ASR_COMPARISON_2026-10-24.md).

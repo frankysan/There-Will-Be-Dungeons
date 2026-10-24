@@ -19,3 +19,7 @@ Omnom **accuses Hope of killing his family with her rocket**, of burning Tietkal
 **Titles and relationship:** Omnom uses **“Great Fang”** for **Vorel**, affirming the previously earned title; this is **repeat recognition**, not a new rank awarded in E118. He respects Vorel's judgment despite his anger, and their connection now links Razak Val's losses to Hope's unresolved responsibility. **His life ends E121 before a settled reconciliation with Hope; any future revival, afterlife or return remains unplayed**.
 
 **Related:** [Vorel](vorel.md) · [Hope](hope-akmenos.md) · [Stanley](stanley-billings.md) · [E118 dossier](../../episodes/E118.md) · [active review queue](../../project/REVIEW_QUEUE.md).
+
+## November 2020 bonus — proposed boots, no recovery or revival
+
+At **~00:27:11–00:28:27**, Kyle discusses a memorial he **would have liked**: boots made from Omnom's remaining feet, leaving his footprints. Beau/Scott say the feet are still there and the cast suggests sending tieflings to collect them. This is **retrospective/counterfactual crafting discussion**, not a new trip, inventory transfer, created magic item or funeral. **Omnom remains dead; last played placement of the feet stays beside Dilo in the E121 cave**. Do not turn Nobieri's separate unperformed E123 inquiry into completed recovery. [Bonus](../../episodes/BONUS-2020-11.md) · [Comparison](../../reports/BONUS_2020_11_ASR_COMPARISON_2026-10-24.md), no listening.

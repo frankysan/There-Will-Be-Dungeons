@@ -524,6 +524,18 @@ Jon Jagger explicitly places [E107](../episodes/E107.md) in **the same Wastes lo
 | `e118.mask` | GM describes **Mask of Elton IV/Elton Four (?)**: requires **four long rests wearing to attune**, grants risky d20-changing ***Peer into Plurality*** action, psychic damage rising from 30. | **No four-rest attunement, use, d20 change, injury, resurrection limit tested**. Exact mask spelling and herb reset need audio. |
 | `e118.voice` | **Hooded Voice appears privately to Hope**, Hand heavy/burning, presses for **Pentelvice/Pentalvise (?)** while Hope asks time. | **No Eye retrieval, Gate to prison, fulfilled Tobacho agreement or demonstrated public apparition**. |
 
+## November 2020 bonus — retrospective interpretation and open creator intent
+
+[Dossier](../episodes/BONUS-2020-11.md) · [comparison](../reports/BONUS_2020_11_ASR_COMPARISON_2026-10-24.md), both full texts, **no listening**. These are **cast statements after E123-associated discussion**, not additional played outcomes or universal rules. Main cutoff **E123** and next played research **E124** remain unchanged.
+
+| Question | Current safe statement | Verification / boundaries |
+| --- | --- | --- |
+| **Nash's children** | Bonus cast cannot recall genders; Jon proposes **Nash Junior as a girl**, with apparent acceptance. Targeted E114 cues in **both** exports explicitly say **two girls and two boys**, with the baby-shaped newborn identified as a boy. | Retain birth count; **individual naming mapping and intended creator revision need checking**. No new transformation, four-boy rewrite or updated handout asserted. [Angelashi](characters/angelashi.md) · [Nash](characters/nash-maggard.md) |
+| **Former Stanley/Diontalus mechanics** | Jon recalls same-level/same-stat class switching with imperfect agency and a limited archfey essence/knowledge model. | Historical player explanation, not a new sheet/level adjustment or proof E123 drain is uncurable. [Diontalus](characters/diontalus.md) |
+| **Hope's expected death / relationships** | Kristen describes emotional maturity, family feeling and anticipated death; Jon describes Stanley's resisted temptation to rejoin Diontalus. | **Character interpretation**, no new death, pact, godhood, reunion or changed private knowledge. [Hope](characters/hope-akmenos.md) · [Stanley](characters/stanley-billings.md) |
+| **Omnom memorial** | Kyle would like boots from his remaining feet; retrieval by tieflings is suggested and cast says feet remain. | **No recovery, craft, buffs, burial or revival performed**. Last played custody stays E121 cave beside Dilo. [Omnom](characters/omnom-cinderborn.md) |
+| **Sound and dates** | Scott names a tentative music source; **19:38 negation differs**. Closing supporter date is spoken **November 1**, public catalogue **November 9**. | No audio/asset/licence or upload log verified; do not turn production mix or metadata into played time. |
+
 ## G. Source tracking and preservation
 
 The original E055–E081 research was **131 issue-key rows across episodic batches**. They remain **verbatim and source-linked** in the [frozen pre-consolidation ledger](../research/legacy/2026-10-22/CONSISTENCY_LEDGER_PRE_SECOND_ARC_CONSOLIDATION.md). Its older ancestor is also retained in the [Arcs One–Two/Phase-D archive](../research/legacy/2026-10-22/WORLD_CONSISTENCY_LEDGER.md). These archives are **not parallel active truth registries**; the current open issues are summarized above and the latest event chronology in [CHRONOLOGY.md](CHRONOLOGY.md).

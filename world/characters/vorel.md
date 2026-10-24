@@ -76,3 +76,8 @@ Equipment at different cutoffs includes **Mawstorm**, skull helmet, **Eye of Gro
 
 **Latest played state:** **Alive at the Harbor E123, still weakened after long rest**, watching from Emenil's doorway at the lake cutoff. **No divine answer/restoration, radiant upgrade, new kingship, refugee evacuation or Ruby construction**; the natural heart remains buried. Omnom is not restored by the post-show tribute. [Consistency ledger](../CONSISTENCY_LEDGER.md) · [full frozen profile](../../research/legacy/2026-10-22/PROFILE_VOREL_BEFORE_2026-10-23.md).
 
+## November 2020 bonus — shaken worldview and a proposed memorial
+
+**~00:05:08–00:06:37:** Kyle says the black dragon's death continues the shock of **Squirts's loss**, reinforcing Vorel's feeling that outsiders cannot be trusted or survive beside the group. He notes this did **not arise in that day's played dialogue**. The **Lady of Pain** remains awe-inspiring to Vorel; this is a belief interpretation, **not a new conversion or verified godhood claim**. Scott/Kyle describe Nash/Vorel as effective direct collaborators, while Jon says Stanley/Vorel remain friends despite strained viewpoints.
+
+**~00:27:11–00:28:27:** Kyle **would like to make boots from Omnom's feet**, reflecting Vorel's view that the body ceases to be the person at death; he discusses Cunning Artisan's limitations. The cast says the feet remain and suggests collecting them. **No retrieval, crafting, buffs or completed memorial occurs**. No new Vorel epithet is conferred; preserve E123's aspiration entries separately. [Bonus](../../episodes/BONUS-2020-11.md) · [Comparison](../../reports/BONUS_2020_11_ASR_COMPARISON_2026-10-24.md).
