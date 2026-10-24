@@ -20,15 +20,24 @@ The party's divine gifts and Koh's recovered light help it survive the haunting.
 
 ## The forest ruins and the limits of rank
 
-Another route below the earth opens in forest ruins guarded by dangerous gricks. The company reaches a worked-stone dungeon behind an old sinkhole and finds creatures already impaled by its spear and needle traps. The ancient passages are marked with symbols no one has yet translated. A woodland recluse, Veggie Sticks, fears that the guild's response will disturb the hippogriffs he protects, but cannot pretend to understand the dangers himself.[^grickwoods]
+Another route below the earth opens in forest ruins guarded by dangerous gricks. The company reaches a worked-stone dungeon behind an old sinkhole and finds creatures already impaled by its spear and needle traps. The ancient passages contain symbols Evelyn can only partly interpret as **'sky people'**, their larger meaning still unknown. A woodland recluse, Veggie Sticks, fears that the guild's response will disturb the hippogriffs he protects, but cannot pretend to understand the dangers himself.[^grickwoods]
 
 This third scouting job brings a new lesson in guild rules. The party is rewarded for finding and reporting gricks; killing extra creatures brings no bounty. The dungeon's discovery gives them grounds to request first opportunity to explore it, subject to more experienced adventurers intervening if necessary. Their three weekly wood-rank assignments are exhausted, and Cassius is seeking approval for bronze promotion. Whatever glory they have earned, the guild still regards them as novices who must rest before taking more work.[^ranks]
 
+## Service and a wider city
+
+The guild's demand for visible public service takes the Delvers into inns, alleys, market squares, sewers and workshops. Their enemies are as likely to be escaped pests or a charmed garment as the creatures of the Underdark. More experienced guild members remain responsible for the worst threats, while newcomers learn how to guide people out of danger and restore ordinary life after a monstrous intrusion.[^service]
+
+The recovered rune-marked hilt becomes known as a **Soul Knife** when the guild's artificer examines it. Koh's ability to manifest its blue psychic blade attracts the notice of a mysterious high-ranking adventurer who calls him a scion. That stranger's account of awakened powers and hunted relics remains incomplete. Meanwhile, the guild's first refusal to promote the party gives way to approval after weeks of diligent service.[^revelation]
+
 ## Current status
 
-The farm passage remains sealed, Kord's sanctuary runs clean and the forest scouts have reported a deeper dungeon. The Delvers have completed three assignments and must observe the guild's weekly limit while their request for promotion and their claim to the ruins are considered. The ancient passages and the wider Underdark still lie mostly beyond their knowledge.[^ranks]
+The farm passage remains sealed and Kord's sanctuary runs clean; the forest ruins remain only partly understood. The three adventurers have spent weeks serving the city and now call themselves **the Darkest Delvers**. They have **earned approval for bronze rank** but await badges and orientation in the morning. Their next undertaking is **Skull Keep**, an old castle at Witherskeep thought to shelter a flameskull; they have not yet set out. The wider Underdark and the purpose of its inscriptions remain unresolved.[^revelation]
 
-[^society]: [S1E01 dossier](../episodes/S1E01.md), opening setting exposition, ~00:27–00:34 and ~00:56. Researched through Delvers S1E04; ASR-provisional, not audio-verified. Delvers has independent continuity: these gods and institutions establish no connection to Wastes or Inverse. [Consistency ledger](CONSISTENCY_LEDGER.md).
+[^service]: [S1E05 dossier](../episodes/S1E05.md), ~00:46–01:29. The assignments span several weeks in an **explicit montage**, with battles compressed. Hag is slain by a silver-rank guild member, not the party.
+[^revelation]: [S1E05](../episodes/S1E05.md), ~00:22–00:34 and ~01:36–02:34. Soul Knife's identity from Carrie; Masked Mage's scion claims attributed. Selenar's first refusal is superseded by approval, but badges are not yet received. Skull Keep contract accepted, no fight played.
+
+[^society]: [S1E01 dossier](../episodes/S1E01.md), opening setting exposition, ~00:27–00:34 and ~00:56. Researched through Delvers S1E05; ASR-provisional, not audio-verified. Delvers has independent continuity: these gods and institutions establish no connection to Wastes or Inverse. [Consistency ledger](CONSISTENCY_LEDGER.md).
 
 [^work]: [S1E01](../episodes/S1E01.md), orientation and ~02:22–02:28; [S1E02](../episodes/S1E02.md), opening assignment. Krandal's deity is rendered `Palor/Paylor`, spelling unresolved. The [guild-guide register](../../reports/DISCORD_SPELLING_2026-10-21.md) supports **Thun’Darious Storm**, whose attributed foreword is read; other handout heroes, departments and dates are not performed appearances or established scene dates. Trophy labels likewise do not prove party visits.
 

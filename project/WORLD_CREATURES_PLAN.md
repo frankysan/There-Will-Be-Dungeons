@@ -78,6 +78,8 @@ species lore. Campaign originality is a research question, not an entry gate.
 | The Wastes | [Tainted displacer beast](../world/creatures/tainted-displacer-beast.md) | E020's wounded chasm predator and death; its altered condition has no established cause |
 | The Wastes | [Brain-backed spiders](../world/creatures/brain-backed-spiders.md) | E073–E075's giant spider, smaller swarms and Cerinthala's pouch; no established origin, breeding relationship or control mechanism |
 | The Wastes | [Skeleton-spawning flesh giant](../world/creatures/skeleton-spawning-flesh-giant.md) | E067's individual skeleton-producing creature beneath Kervalon; death ends spawning, without clearing the keep |
+| The Wastes | [Black puddings](../world/creatures/black-puddings.md) | E042's two corrosive, splitting cave masses and final destruction; rules discussion remains separate from demonstrated traits |
+| The Wastes | [Basilisk of the under-Pit caves](../world/creatures/basilisk-of-the-under-pit-caves.md) | E045's gaze, death and bone javelin; E051's later collection of remains and two consumed restoration preparations |
 | Delvers | [Gricks](../delvers/world/creatures/gricks.md) | S1E01 identification and S1E03 sinkhole predators; no invented S1E02–S1E03 transition or cleared dungeon |
 
 Squirts, Henatar/Henitar Grape and the imprisoned black dragon remain character
@@ -96,8 +98,8 @@ from supported material, preserving unknown fates and source limitations.
 
 The [initial season-wide dossier search](../reports/WASTES_S1_CREATURE_SEARCH_2026-10-24.md)
 and [machine-readable inventory](../reports/WASTES_S1_CREATURE_SEARCH_2026-10-24.json)
-record 32 additional candidate subjects or research clusters: six now published
-(sand squid and the first five ranked candidates), seven suitable for bounded drafting, 17 requiring focused review and
+record 32 additional candidate subjects or research clusters: eight now published
+(sand squid and the first seven ranked candidates), five suitable for bounded drafting, 17 requiring focused review and
 two from the separately placed Wastes-setting Christmas one-off. The initial
 scan covers 130 available
 E-numbered dossiers; it is not a full transcript or audio review and excludes
@@ -106,7 +108,8 @@ the alternate-setting E043 from Wastes evidence.
 The first ranked drafting batch—**Chester the bearsaurus**, the **Dunebreaker
 fruit ooze** and the **tainted displacer beast**—is published from existing
 dossiers, following the sand-squid transcript follow-up. The **brain-backed
-spiders** and **skeleton-spawning flesh giant** are also published. Next are
-**black puddings** and the **basilisk of the under-Pit caves**. These creature
+spiders**, **skeleton-spawning flesh giant**, **black puddings** and **basilisk
+of the under-Pit caves** are also published. Next are **luminous desert
+beetles** and the **stormland Tyrannosaurus**. These creature
 publications do not advance an episode-research pointer. Follow the report's
 specific identity, agency and source checks when continuing.

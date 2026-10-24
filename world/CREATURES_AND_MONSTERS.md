@@ -12,6 +12,8 @@ The Wastes harbor desert wildlife, dangerous beasts and monstrous transformation
 | [Tainted displacer beast](creatures/tainted-displacer-beast.md) | Wounded tentacled predator of the Black Mine, whose shifting appearance made it difficult to strike. |
 | [Brain-backed spiders](creatures/brain-backed-spiders.md) | Giant spider with an exposed pulsing brain and accompanying smaller swarms; venom and mental control made the CHIDS lift shaft perilous. |
 | [Skeleton-spawning flesh giant](creatures/skeleton-spawning-flesh-giant.md) | Malformed flesh-and-bone creature beneath Kervalon, producing animated skeletons from shoulder cavities and wounds. |
+| [Black puddings](creatures/black-puddings.md) | Corrosive black cave oozes that divide under cutting attacks and dissolve weapons and wooden barriers. |
+| [Basilisk of the under-Pit caves](creatures/basilisk-of-the-under-pit-caves.md) | Eight-legged reptile with a petrifying gaze, whose remains later helped restore Hope and Vorel to living flesh. |
 
 [World reference](README.md) · [Characters and companions](CHARACTERS.md) · [Antagonists and rivals](ANTAGONISTS.md)
 

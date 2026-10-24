@@ -20,9 +20,9 @@ This is **not** a claim to have manually interpreted every dossier or researched
 
 **31 additional candidate subjects or research clusters:** **12 suitable for bounded drafting from existing dossiers**, **17 requiring focused identity, behavior or continuity review**, and **2 separate Wastes-setting one-off leads**. These are editorial triage judgments, not verified species counts or intelligence classifications. Chicken Lords and Pixie Hulks already have pages and are not counted again.
 
-The first ranked batch—**Chester the bearsaurus**, the **Dunebreaker fruit ooze** and the **tainted displacer beast**—is now published from the existing dossiers. Each has distinctive observed traits and a bounded individual outcome. The **brain-backed spiders** and **skeleton-spawning flesh giant** are now published as the second ranked batch. Next are **black puddings** and the **basilisk of the under-Pit caves**, preserving their observed traits and source limits. Some later draftable subjects warrant only short articles; do not pad an entry to match a major creature's history.
+The first ranked batch—**Chester the bearsaurus**, the **Dunebreaker fruit ooze** and the **tainted displacer beast**—is now published from the existing dossiers. Each has distinctive observed traits and a bounded individual outcome. The **brain-backed spiders** and **skeleton-spawning flesh giant** are now published as the second ranked batch. The **black puddings** and **basilisk of the under-Pit caves** are now published as the third ranked batch. Next are **luminous desert beetles** and the **stormland Tyrannosaurus**, preserving their observed traits and source limits. Some later draftable subjects warrant only short articles; do not pad an entry to match a major creature's history.
 
-No canonical creature entry was added during the initial dossier search. After the sand-squid follow-up and two ranked publication batches, the cumulative list is **32 subjects/clusters: six published, seven draftable, 17 requiring focused review and two separately placed one-off leads**. Candidate IDs WSC-001–WSC-031 remain stable.
+No canonical creature entry was added during the initial dossier search. After the sand-squid follow-up and three ranked publication batches, the cumulative list is **32 subjects/clusters: eight published, five draftable, 17 requiring focused review and two separately placed one-off leads**. Candidate IDs WSC-001–WSC-031 remain stable.
 
 ## Owner-supplied follow-up — sand squid
 
@@ -49,14 +49,21 @@ The follow-up scanned 279 available Season One subtitle exports for squid-relate
 | **WSC-004 — [Brain-backed spiders](../world/creatures/brain-backed-spiders.md)** | [E073](../episodes/E073.md) closing shaft encounter<br>[E074](../episodes/E074.md) 00:08–01:20<br>[E075](../episodes/E075.md) 00:32–00:47 | Giant spider with exposed pulsing brain and smaller brain-marked swarms; poison and domination make the shaft encounter distinctive. | The giant dies in E074. Separate large and small forms; Cerinthala's pouch does not by itself prove their origin, breeding or control mechanism. |
 | **WSC-005 — [Skeleton-spawning flesh giant](../world/creatures/skeleton-spawning-flesh-giant.md)** | [E067](../episodes/E067.md) 01:39–02:27 | Malformed flesh-and-bone body produces skeletons through shoulder cavities and fresh wounds; its death ends further spawning. | Use a descriptive name. No official species, creator or claim that every skeleton at Kervalon came from it is established. |
 
+## Third ranked publication batch
+
+**2026-10-24:** Published WSC-006 and WSC-007 from the existing E042, E045 and E051 dossiers, without new transcript or audio review. The pudding article uses demonstrated splitting, corrosion and the cave encounter's final outcome rather than importing the full rules list. The basilisk article preserves the sequence of death, bone-javelin crafting, later ingredient retrieval and two consumed preparations that restore Hope and Vorel. It does not backdate an extracted antidote to E045 or establish a universal formula. Both entries use in-universe prose, footnotes and Current status last.
+
+| ID / published article | Dossier and approximate window | Supported lead | Boundary retained |
+| --- | --- | --- | --- |
+| **WSC-006 — [Black puddings](../world/creatures/black-puddings.md)** | [E042](../episodes/E042.md) 01:42–03:10 | Two corrosive cave masses split under slashing attacks and damage Hope's equipment. | Nash supplies the identification. Keep demonstrated corrosion and splitting separate from the full rules list discussed at the table. |
+| **WSC-007 — [Basilisk of the under-Pit caves](../world/creatures/basilisk-of-the-under-pit-caves.md)** | [E045](../episodes/E045.md) 00:43–01:28; 02:02–02:12<br>[E051](../episodes/E051.md) 02:01–02:29 | Eight-legged reptile with a petrifying gaze; its remains later contribute to restoring petrified companions. | The beast dies in E045. Later preparation is not a second kill; do not backdate extraction of a finished cure to the earlier digestive-oil discussion. |
+
 ## Suitable for bounded drafting
 
 A candidate here has enough dossier support for a concise, qualified article. The label does not assert that it is campaign-original, non-intelligent by a rules score, or audio-confirmed.
 
 | ID / candidate | Dossier and approximate window | Supported lead | Boundary / next check |
 | --- | --- | --- | --- |
-| **WSC-006 — Black puddings** | [E042](../episodes/E042.md) 01:42–03:10 | Two corrosive cave masses split under slashing attacks and damage Hope's equipment. | Nash supplies the identification. Keep demonstrated corrosion and splitting separate from the full rules list discussed at the table. |
-| **WSC-007 — Basilisk of the under-Pit caves** | [E045](../episodes/E045.md) 00:43–01:28; 02:02–02:12<br>[E051](../episodes/E051.md) 02:01–02:29 | Eight-legged reptile with a petrifying gaze; its remains later contribute to restoring petrified companions. | The beast dies in E045. Later preparation is not a second kill; do not backdate extraction of a finished cure to the earlier digestive-oil discussion. |
 | **WSC-008 — Luminous desert beetles** | [E007](../episodes/E007.md) 00:06–00:40 | Large beetles with luminous fleshy appendages surround Fate 4 at night; travelers use noise and movement to avoid them. | Exact dimensions, diet and eventual departure remain listening questions. Suitable for a short entry; no need to invent a species name. |
 | **WSC-009 — Stormland Tyrannosaurus** | [E065](../episodes/E065.md) 02:29–02:38<br>[E066](../episodes/E066.md) 00:06–00:45 | Huge predator crushes Fate 4, falls into a storm-drain pit and is killed; teeth and bones become tools and salvage. | Keep this animal distinct from Polymorph forms of Vorel or Stanley. No cause for its enormous size or connection to the storm is established. |
 | **WSC-010 — Outlands wyverns** | [E093](../episodes/E093.md) aerial battle, approximately 00:57–02:51 | Flying predators ram the Traveler's Twin and attack with bites and venomous stings. | Separate wyverns from the accompanying winged beastmen. One is turned into a falling rat with no witnessed final landing or reversion; do not resolve every individual's fate. |
@@ -109,7 +116,7 @@ Resolve these particular questions rather than promoting a vague encounter label
 
 ## Next bounded work and publication checks
 
-1. Continue with WSC-006 black puddings and WSC-007 basilisk of the under-Pit caves; the first five ranked subjects are published. Use targeted source windows only where a material claim remains unresolved; do not mark a complete episode reanalysis from excerpts.
+1. Continue with WSC-008 luminous desert beetles and WSC-009 stormland Tyrannosaurus; the first seven ranked subjects are published. Use targeted source windows only where a material claim remains unresolved; do not mark a complete episode reanalysis from excerpts.
 2. For each subject, check first appearance, distinguishing traits and last known state across the cited dossiers. Preserve testimonial origins, alternative spellings and uncertain individual outcomes in notes.
 3. Publish subject-focused in-universe prose under `world/creatures/`, with source/ASR details in footnotes and **Current status** last. Add only brief descriptions to the category index. Keep people and transformed forms distinct.
 4. Resolve the froghemoth's bargaining mind, red-organism agency, worm-type relationships and E127's separate chronology before expanding those clusters. Do not convert source uncertainty into a fictional universal rule.

@@ -22,11 +22,20 @@ The guild's payment system becomes clearer when the three Delvers return from th
 
 As the discoverers, the three ask to claim the dungeon for future exploration. Cassius agrees to enter their request, while warning that another serious attack may require sending silver-ranked adventurers first. He also promises to put their names before a superior who can consider promoting them to bronze. The reward comes with a reminder of their present limits: wood-ranked members may undertake only three jobs in a week, so the party must spend the remaining days away from quests. Cassius still has the runic sword hilt Evelyn recovered, awaiting inspection.[^scout]
 
+## Service, apprenticeship and the next rank
+
+With the initial bronze promotion request rejected, the guild turns the three adventurers toward work that its neighbors can actually see. They clear pests, assist a senior member in protecting market-goers, combat a supernatural fire and even restore order at a laundry where garments have turned hostile. The ordinary residents whose paths cross theirs begin to recognize the group; its work is no longer hidden in distant dungeons. Rewards accumulate, though the guild's wood-rank limits still enforce rest days between strings of quests.[^service]
+
+Cassius eventually announces that Selenar Everbloom has approved the move to **bronze rank**, to be formalized by new badges and orientation the next morning. The three choose a first bronze posting at **Skull Keep**, an old property called Witherskeep said to be haunted by a flameskull. As they prepare, Koh receives the inspected [Soul Knife](../items/runic-sword-hilt.md) from the acquisitions staff and the party visits the city's merchants. They also claim a new identity: **the Darkest Delvers**.[^promotion]
+
 ## Current status
 
-The three adventurers have completed three paid assignments and returned from the grick-infested woods. Cassius has paid the third fee and retains the [unidentified hilt](../items/runic-sword-hilt.md) for checking. Their dungeon claim and bronze promotion remain requests, not granted privileges, and a four-day work restriction awaits them.[^scout]
+The group has **bronze promotion approved, not yet ceremonially awarded**. Its **Skull Keep** assignment is selected but the adventurers have not departed, and some purchased enchanted equipment remains at the shops awaiting collection. The guild no longer holds the Soul Knife. Its earlier conditional claim to the grick dungeon has been affected by **silver-rank investigators sent there**, but no final exclusive ownership ruling is established.[^promotion]
 
-[^introduction]: [S1E01 dossier](../../episodes/S1E01.md), ~00:13–00:15 and 00:27–00:38. City rendered `Atamer/Atmer`, spelling open; Clearstone's given name varies. Guild hierarchy is introduced by Kyle. Researched through Delvers S1E04; not audio-verified. [Consistency ledger](../CONSISTENCY_LEDGER.md) · [Review queue](../../REVIEW_QUEUE.md).
+[^service]: [Delvers S1E05 dossier](../../episodes/S1E05.md), ~00:46–01:29. Selenar's denial reflects later guild reports that dungeon traps had weakened gricks, not a retraction of their actual deaths. Most small missions are compressed in an explicit montage.
+[^promotion]: [S1E05](../../episodes/S1E05.md), ~01:36–01:46 and ~02:20–02:33. Bronze badges promised **tomorrow**; Skull Keep selected, no first bronze deployment; Soul Knife returned and company name chosen. Guild supplies are distinct from player purchases.
+
+[^introduction]: [S1E01 dossier](../../episodes/S1E01.md), ~00:13–00:15 and 00:27–00:38. City rendered `Atamer/Atmer`, spelling open; Clearstone's given name varies. Guild hierarchy is introduced by Kyle. Researched through Delvers S1E05; not audio-verified. [Consistency ledger](../CONSISTENCY_LEDGER.md) · [Review queue](../../REVIEW_QUEUE.md).
 
 [^badges]: [S1E01](../../episodes/S1E01.md), ~00:31–00:34: 404 Krandal, 325 Evelyn, 180 Koh. These identify members, not ranks or levels.
 

@@ -23,6 +23,13 @@
 | DEL-S1E04-004 | Hilt and rope custody | Koh keeps enchanted sash, unfastens **ordinary rope** left in sinkhole. Rune-marked **bladeless hilt** found by Evelyn is surrendered to Cassius for **later** sentience check. Sun Blade conjecture unconfirmed |
 | DEL-S1E04-005 | Trap poison and resources | Koh takes 11 damage (5 piercing + 6 poison); Evelyn expends 5 Lay on Hands to cure **Poisoned**, **not HP**. Krandal's lost vestments/2 candles/4 rations/tinderbox and damaged-but-repaired bag; Koh says 2 daggers lost, exact final inventory open |
 | DEL-S1E04-006 | Rewards and guild rank | 180 gold **paid** (60 each), no extra grick-kill bounty. **Claim to dungeon and bronze-promotion request submitted**, not approved; next rank authority name `Selinar/Selenar` unresolved. Four days off and level-three specialization **not played** |
+| DEL-S1E05-001 | Yuri's fate after S1E04 | In S1E05 ~00:03–00:06 Krandal discovers Yuri dehydrated but **alive**, briefly revives him, and **hands the thrush to Jimmy** for care; longer-term recovery remains unknown |
+| DEL-S1E05-002 | Runic hilt identity/custody | Carrie calls it **Soul Knife** (mind sword / psi blade are alternate translations). Koh conjures a cyan psychic blade, tests one point of damage without cut; the guild declares nonsentience and **hands hilt to Koh**. Masked Mage's scion claims remain unverified |
+| DEL-S1E05-003 | First denial vs later promotion | Selenar initially **denies** promotion because gricks had been weakened by traps. After weeks of visible service, bronze rank is **approved**, but **new badges/orientation only tomorrow**. Selected Skull Keep job not yet played |
+| DEL-S1E05-004 | Equipment ordered vs delivered | Evelyn buys pigments/javelin/potion; her vicious hammer is pending at Arcane To Go. Krandal buys fire potion; +1 armor and face maces pending. Koh gets healing potions/daggers/arrows; last-minute **Life Stealing-to-Corpse Slayer sword request unresolved** |
+| DEL-S1E05-005 | Montage earnings/living costs | GM declares **1,800 gp earned per member** over multiple assignments; declared expenses Krandal 10, Koh 105, Evelyn 100, before later shopping. Do not derive certain end purses or pretend this is a one-time gift |
+| DEL-S1E05-006 | Hag and fire credit | Silver **Molly** personally defeats market hag, party handles detection/crowd. A hellhound started city fire; fire cloaks are **temporary issue**. Other montage encounters need not imply fully narrated combat |
+| DEL-S1E05-007 | Group identity and next job | Name **The Darkest Delvers** accepted in final scene. **Skull Keep / Witherskeep** posted flameskull job selected for next day; neither orientation nor combat shown |
 
 ## Resolved provisionally by each episode's cutoff
 

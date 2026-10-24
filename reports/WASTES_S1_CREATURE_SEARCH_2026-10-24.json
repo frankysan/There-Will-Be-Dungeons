@@ -10,7 +10,7 @@
     "full_srt_review": false,
     "audio_review": false,
     "not_exhaustive": true,
-    "new_canonical_entries_published": 6,
+    "new_canonical_entries_published": 8,
     "selected_srt_followup": true
   },
   "search_patterns": [
@@ -18,8 +18,8 @@
     "\\b(?:devour\\w*|grubs?|aboleths?|otyughs?|chokers?|gazers?|specters?|spectres?|wraiths?|wights?|ghouls?|ghasts?|mephits?|bulettes?|carrion|darkmantles?|gricks?|gorgons?|salamanders?|cockatrices?|ankhegs?|stirges?|umber hulks?|maggots?|parasites?|slaads?|stalkers?|grells?|piercers?|tadpoles?)\\b"
   ],
   "counts": {
-    "published": 6,
-    "draft-next": 7,
+    "published": 8,
+    "draft-next": 5,
     "focused-review": 17,
     "separate-oneoff": 2
   },
@@ -1038,7 +1038,7 @@
     },
     {
       "id": "WSC-006",
-      "status": "draft-next",
+      "status": "published",
       "name": "Black puddings",
       "evidence": [
         {
@@ -1048,11 +1048,14 @@
         }
       ],
       "observed_lead": "Two corrosive cave masses split under slashing attacks and damage Hope's equipment.",
-      "boundary_or_next_check": "Nash supplies the identification. Keep demonstrated corrosion and splitting separate from the full rules list discussed at the table."
+      "boundary_or_next_check": "Nash supplies the identification. Keep demonstrated corrosion and splitting separate from the full rules list discussed at the table.",
+      "article": "world/creatures/black-puddings.md",
+      "publication_date": "2026-10-24",
+      "publication_basis": "Synthesis of existing episode dossiers; no new transcript or audio review"
     },
     {
       "id": "WSC-007",
-      "status": "draft-next",
+      "status": "published",
       "name": "Basilisk of the under-Pit caves",
       "evidence": [
         {
@@ -1067,7 +1070,10 @@
         }
       ],
       "observed_lead": "Eight-legged reptile with a petrifying gaze; its remains later contribute to restoring petrified companions.",
-      "boundary_or_next_check": "The beast dies in E045. Later preparation is not a second kill; do not backdate extraction of a finished cure to the earlier digestive-oil discussion."
+      "boundary_or_next_check": "The beast dies in E045. Later preparation is not a second kill; do not backdate extraction of a finished cure to the earlier digestive-oil discussion.",
+      "article": "world/creatures/basilisk-of-the-under-pit-caves.md",
+      "publication_date": "2026-10-24",
+      "publication_basis": "Synthesis of existing episode dossiers; no new transcript or audio review"
     },
     {
       "id": "WSC-008",
@@ -1604,6 +1610,22 @@
       "next_candidate_ids": [
         "WSC-006",
         "WSC-007"
+      ]
+    },
+    {
+      "date": "2026-10-24",
+      "candidate_ids": [
+        "WSC-006",
+        "WSC-007"
+      ],
+      "articles": [
+        "world/creatures/black-puddings.md",
+        "world/creatures/basilisk-of-the-under-pit-caves.md"
+      ],
+      "basis": "Existing E042, E045 and E051 dossiers; no new SRT or audio review",
+      "next_candidate_ids": [
+        "WSC-008",
+        "WSC-009"
       ]
     }
   ]

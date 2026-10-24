@@ -1,6 +1,6 @@
 # Delvers — characters
 
-**Spoilers through S1E04. Evidence:** ASR-provisional. Working player-character spellings use the [written-source register](../../reports/DISCORD_SPELLING_2026-10-21.md); voice, exact utterances and historical sheet state remain unchecked. No later nicknames or surnames are backdated.
+**Spoilers through S1E05. Evidence:** ASR-provisional. Working player-character spellings use the [written-source register](../../reports/DISCORD_SPELLING_2026-10-21.md); voice, exact utterances and historical sheet state remain unchecked. No later nicknames or surnames are backdated.
 
 | Character | Performer / introduction | Reference |
 | --- | --- | --- |
@@ -32,6 +32,12 @@ These short entries derive from [S1E01](../episodes/S1E01.md); NPC spellings rem
 | [Veggie Sticks](characters/veggie-sticks.md) | Reclusive woodland protector of hippogriffs, keeper of animated plants; admits he exaggerated his awareness of the ruins |
 | Brad / Brador | Small animated shrub, carried briefly by Evelyn and returned to Veggie Sticks; name requires listening |
 | Aegis | Centaur driver who retrieves the party at dusk after the grick-scout excursion; no connection to Wastes or Inverse |
-| Selinar / Selenar | Cassius says he will seek this authority's consideration of bronze promotion; no approval yet |
+| Selenar / Celenar Everbloom | Guild promotion authority: initially denies bronze status based on weakened gricks, later **approves badges for next morning**; name remains audio-unverified |
+| [Carrie Underworld](characters/carrie-underworld.md) | Enthusiastic acquisitions artificer who names the Soul Knife and returns it to Koh |
+| [Masked Mage](characters/masked-mage.md) | White-clad Ruby/master-rank observer who calls Koh a scion; motives unknown, **not a confirmed foe** |
+| Brother Maynard | Strict elder of Pelor's temple who supervises Krandal's healing and disapproves of his conduct |
+| Buck Broscale | **Living** silver-badged red dragonborn whose fiend poison is cured by Krandal; not automatically the dead badge 542 owner |
+| Lady Vestal | Instructor at Evelyn's secret finishing school, distrustful of her absence |
+| Willamet / Wilibet Molly | Silver-rank adventurer who kills the market hag while the party evacuates the crowd; spelling unresolved |
 
 [World portal](README.md) · [Open identity checks](CONSISTENCY_LEDGER.md)
