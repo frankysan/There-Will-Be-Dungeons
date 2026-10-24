@@ -1,6 +1,6 @@
 # Historical events and turning points
 
-**The Wastes · spoilers through E121.** Start here for *what happened and when*; use [the full chronology](CHRONOLOGY.md) for every researched episode, [arc narratives](../narrative/README.md) for story-first reading and [episode dossiers](../episodes/E000.md) for evidence. Dates in the ancient setting are rarely established; do not substitute publication order for in-world order. All entries are currently ASR-provisional.
+**The Wastes · spoilers through E128 (end of Season One).** Start here for *what happened and when*; use [the full chronology](CHRONOLOGY.md) for every researched episode, [arc narratives](../narrative/README.md) for story-first reading and [episode dossiers](../episodes/E000.md) for evidence. Dates in the ancient setting are rarely established; do not substitute publication order for in-world order. All entries are currently ASR-provisional.
 
 ## Ancient and retrospective history
 
@@ -25,6 +25,8 @@
 | **Tietkalla's demonic siege and Elhandari intervention** | City devastated, Squirts and Melgor killed, Carthax **captured alive** E111 | [Fall and rescue](HISTORY_TIETKALLA.md) |
 | **Elhandar reunions and the Harbor** | Hope and Nash E116, all four E117; new Harbor named within Elhandar | [The Harbor](places/the-harbor.md) · [E116](../episodes/E116.md)–[E117](../episodes/E117.md) |
 | **Stanley's father's study opens** | Key and journal actually recovered E118; speculative adjacency history remains unverified | [Book of Adjacencies](technology/book-of-adjacencies.md) · [E118](../episodes/E118.md) |
+| **Elhandar's fall and exodus** | **Station is devastated in E125–E126; main household survives**, some Harbor tieflings die. **E128 survivors/Elhandari and recovered natural black-dragon heart actually board and depart toward Mars**; full death/arrival tally unknown | [Elhandar](places/elhandar.md) · [E125](../episodes/E125.md)–[E128](../episodes/E128.md) |
+| **The Weir burrower enters Earth / Season One closes** | E128 Soulbroker **privately makes interested claims** about Principle/Weir cosmology, then **visibly opens a sky-rift**: enormous burrower enters Earth and triggers huge storm. All four heroes survive and **complete long rest/level 13**; no completed planetary conversion or Ruby installation | [E128](../episodes/E128.md) · [Soulbroker](characters/soulbroker.md) · [Arc Five](../narrative/ARC_FIVE.md) |
 | **Elhandar hunt becomes abduction** | Chester **physically killed E120**, then six disguised hostile elves attack; **Dilo kidnaps Hope in sealed sphere** and party pursues to cave. No confirmed Diontalus return | [E120](../episodes/E120.md) · [Dilo](characters/dilenoria.md) |
 
 **Continuity exceptions:** [E013.5](../episodes/E013.5.md) is a retrospectively placed scene; [E043](../episodes/E043.md) is an unrelated holiday one-shot; bonus Q&As are cast discussions, *not new played episodes*. The separate [Inverse](../inverse/README.md) continuity is **not** ancient Wastes history.

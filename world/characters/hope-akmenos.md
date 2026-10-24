@@ -1,8 +1,18 @@
 # Hope Akmenos
 
-**Also reported as:** Oriphi “Hope” Akmenos (fan-wiki form; spoken orthography unverified). **Portrayed by:** Kristen. **Identity:** Tiefling engineer, adventurer, **Queen of Tietkalla** and later bearer of the living **Hand of the Voice**. **Spoilers:** Through E125 and retrospective cast Q&As. **Evidence:** Source-linked processed ASR; individual claims not audio-verified unless specified.
+**Also reported as:** Oriphi “Hope” Akmenos (fan-wiki form; spoken orthography unverified). **Portrayed by:** Kristen. **Identity:** Tiefling engineer, adventurer, **Queen of Tietkalla** and later bearer of the living **Hand of the Voice**. **Spoilers:** Through E128 (Season One finale) and retrospective cast Q&As. **Evidence:** Source-linked processed ASR; individual claims not audio-verified unless specified.
 
 **Browse:** [Characters](../CHARACTERS.md) · [Tietkalla](../places/tietkalla.md) · [Hand of the Voice](../technology/hand-of-the-voice.md) · [World portal](../README.md).
+
+## E128 — evacuation, conscience and shared revelations
+
+In [E128](../../episodes/E128.md), Hope searches the dead three-headed bounty hunter and **touches an orbiting orb**, which **shocks and flings her into the sand and self-destructs**; the full set is **not collected**. She **orders the surviving Harbor tieflings** to leave the exposed crash site with the Elhandari ships bound for Mars. **Nash's household and Lyrielle also actually depart**, while Hope and the other original adventurers remain on Earth.
+
+Hope explores charging her powerful **evil-act-triggered Gate ring** by carving symbols in already-dead **Henatar's body** and later a deceased tiefling refugee. The GM **rules neither desecration recharges the ring**; **no Gate, live victim or successful sacrificial energy is played**. She **buries and mourns** the refugee. The party then witnesses a massive Weir-linked burrower from a **purple sky rift** and flees the sand tsunami **on dragon-form Nash**. After Stanley reveals his private Soulbroker conversation, Hope **actually tells the rest of the party** about the previously separate **Hand of the Voice, Eye, Sigil, Pandemonium, devils and Council of Clowns** quests, including offers of support from **Brent/Asmodeus-associated forces**. A table correction says there was **not necessarily a separate binding contract with Brent**; the disclosed **offers** do not automatically become accepted pacts. Hope suggests confronting the Mind Master and weighs the risks of assembling the Eye, **but these remain debate, not completed quests**. All four **complete rest and reach level 13**. [E128 comparison](../../reports/E128_ASR_COMPARISON_2026-10-24.md).
+
+## E126 — refugees, blocked teleport and involuntary battle
+
+**Hope survives the first Elhandar impact** and actively helps injured **Harbor tieflings** sheltered in Villa Ornath. During another impact, **several tieflings die**, but the immediate household survives. After **Diontalus is visibly beaten into the desert**, Hope tries to **Teleport herself and Vorel** close to Henatar/Henitar Grape: **the attempted spell is obstructed and no teleport occurs**. She charges, resists an initial stunning orb, then suffers the guitar's **compulsion to attack the nearest creature**, leading to involuntary fighting with Vorel. The enchantment ceases after Stanley seizes the guitar. **This is magical coercion, not a voluntary change of loyalty or an attack on her subjects**. The bounty hunter falls limp after Nash's later breath, not yet confirmed dead. [E126](../../episodes/E126.md) · [Villa](../places/villa-ornath.md). **ASR-only**.
 
 ## Character, ambitions and loyalties
 

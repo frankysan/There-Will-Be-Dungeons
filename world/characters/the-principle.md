@@ -1,6 +1,6 @@
 # The Principle — Vladimir
 
-**Identity:** Usually called **the Principle**, sometimes transcribed “Principal”; identified by an Elhandari high elf as **Vladimir** in E115. **Role:** Ancient political/technological power connected to Slavetown, Tietkalla diplomacy and the Soulbroker pact. **Spoilers:** E001–E122. **Evidence:** Provisional ASR; no independent listening.
+**Identity:** Usually called **the Principle**, sometimes transcribed “Principal”; identified by an Elhandari high elf as **Vladimir** in E115. **Role:** Ancient political/technological power connected to Slavetown, Tietkalla diplomacy and the Soulbroker pact. **Spoilers:** E001–E128. **Evidence:** Provisional ASR; no independent listening.
 
 ## Activity and influence
 
@@ -9,6 +9,10 @@ The E013 GM briefing connects the evolution of Pristine into slaveholding **Slav
 At Tietkalla the Principle or his envoy negotiates prisoner returns, labor and possible rail trade. **Actual Dusthill survivors return in E059**, but a complete railway at that point is not shown. The Principle **physically extracts [Diontalus](diontalus.md) from Stanley into a crystal**, leaving the entity's subsequent fate open. [E055](../../episodes/E055.md) · [E058](../../episodes/E058.md) · [E059](../../episodes/E059.md) · [Tietkalla](../places/tietkalla.md).
 
 His political reach and claims become important again in Arc Five. In E106 he speaks with Hope at Kaiser Casino and gives a version of ancient pre-Scorching history and **Lich Project** experiments via Brett's illusions; these are claims, not independently inspected archives. He **actually appears at Elhandar in E115**, visibly exercising supernatural abilities, and **claims** responsibility for a great city explosion and newly acquired demigodhood. The High Elf calls him Vladimir and speaks of earlier scientific disagreement. Neither an explosion's cause nor divine status is proven merely by the Principle's self-account. [E106](../../episodes/E106.md) · [E115](../../episodes/E115.md).
+
+## E128 — the Soulbroker accuses, a new threat visibly enters Earth
+
+At ~01:13–01:28, **the Soulbroker privately tells Stanley** a revised account of the Principle's ancient relationship to the Weir: he allegedly was once an **Earth human who enlisted Weir help during the dragon catastrophe**, broke the bargain and later **shielded the world against Weir entrance**, before turning to a **new aspiration to become a god**. These historical, intentional and metaphysical claims are **the Soulbroker's interested testimony** and must not override the E122 black dragon's different framing as independently verified canon. The GM then **actually shows a purple rift, a colossal gear-scaled creature burrowing into Earth and a massive sandstorm**; the incursion is played, **its alleged cause in the Principle's spiritual protections is not independently demonstrated**. Stanley tells the party about his private conversation afterward. **No direct E128 appearance, achieved ascension, death or final confrontation with the Principle occurs**. [E128](../../episodes/E128.md) · [Soulbroker](soulbroker.md) · [comparison](../../reports/E128_ASR_COMPARISON_2026-10-24.md).
 
 ## Opponents, motives and outstanding questions
 

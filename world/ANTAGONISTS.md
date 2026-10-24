@@ -1,20 +1,20 @@
 # Antagonists and contested power brokers
 
-**The Wastes · spoilers through E125.** This is a *role-based index*, not a declaration that every rival is wholly evil or that anyone's claims about divinity are true. Entries are based on processed transcripts and episode dossiers, not independent audio verification. [World portal](README.md) · [Character index](CHARACTERS.md) · [Unresolved claims](CONSISTENCY_LEDGER.md).
+**The Wastes · spoilers through E128 (end of Season One).** This is a *role-based index*, not a declaration that every rival is wholly evil or that anyone's claims about divinity are true. Entries are based on processed transcripts and episode dossiers, not independent audio verification. [World portal](README.md) · [Character index](CHARACTERS.md) · [Unresolved claims](CONSISTENCY_LEDGER.md).
 
 ## Recurring threats and political adversaries
 
 | Subject | Role in the story | Detailed reference |
 | --- | --- | --- |
-| **Diontalus** | Self-described archfey of carnage, **forcibly joined Stanley E029**, murderer of George and P0D; **extracted into a crystal E059**; **independently emerges from Dilo E121 and kills Omnom**; **negotiates an accord E124**, then **gives Stanley an ocarina and damages invading ships E125**; prior alleged Principle help unverified | [Diontalus](characters/diontalus.md) · [Stanley](characters/stanley-billings.md) |
+| **Diontalus** | Self-described archfey of carnage, **forcibly joined Stanley E029**, murderer of George and P0D; **extracted into a crystal E059**; **independently emerges from Dilo E121 and kills Omnom**; **negotiates an accord E124**, **gives Stanley an ocarina and damages invading ships E125**, **is knocked motionless by Henatar's guitar E126**, then **is healed back to activity by Stanley E128 and draws soul-like energy from Henatar's corpse**; prior alleged Principle help unverified | [Diontalus](characters/diontalus.md) · [Stanley](characters/stanley-billings.md) |
 | **Dilenoria / Dilo (?)** | Apparent apprentice to Stanley, **collaborates with six illusion-disguised elf mages and kidnaps Hope E120**. **Diontalus visibly uses Dilo's body E121**; elf's own consent unknown, physical body left lifeless | [Dilo](characters/dilenoria.md) · [E120](../episodes/E120.md) |
 | **Monsoon Cabbage** | Twenty-Sixers leader manipulating the Tietkalla struggle and issuing Order 26; escapes as mist E054, despite later rumors | [Monsoon](characters/monsoon-cabbage.md) |
-| **The Principle / Vladimir** | Ancient ruler, Slavetown-linked political power, contractual target of the party; later direct contact and disputed claims of ascension | [The Principle](characters/the-principle.md) |
-| **The Soulbroker** | Catoblepraithe/Catobelpraithe (?) of Château Weir, who binds three adventurers in a soul-related pact | [Soulbroker](characters/soulbroker.md) |
+| **The Principle / Vladimir** | Ancient ruler, Slavetown-linked political power, contractual target of party; **Soulbroker alleges E128 that his weakening protections accompany a pursuit of godhood**, unverified interested testimony | [The Principle](characters/the-principle.md) |
+| **The Soulbroker** | Catoblepraithe/Catobelpraithe (?) of Château Weir; E128 **privately tells Stanley** of Weir's soul-powered ambitions and **visibly summons a giant burrower through purple sky-rift**, leaving planetary fate unresolved | [Soulbroker](characters/soulbroker.md) |
 | **Tylander Sullivan** | Slavetown/Black Mine intrigue, shifting explanations of property, labor and occult rites | [Tylander](characters/tylander-sullivan.md) |
 | **Kefeli / Kepheli (?)** | Petrifying claimant to Tietkalla's old throne, destroyed E051; her historical justification is disputed | [Kefeli](characters/kefeli.md) |
 | **General Carthax** | Invading demonic general in Tietkalla; **kills Squirts E111**; a **modified Squirts visibly returns in separate Hell scene E125** | [Carthax](characters/general-carthax.md) |
-| **Henitar / Henatar Grape (?)** | E125 three-headed mercenary fleet leader; **actually attacks Elhandar**, claims **Gerbken Shartlinger** hired him to kill/capture Hope and Vorel; **later teleports away, final fate unseen** | [Henitar](characters/henitar-grape.md) |
+| **Henitar / Henatar Grape (?)** | E125 three-headed mercenary fleet leader; **actually attacks Elhandar**, claims **Gerbken Shartlinger** hired him to kill/capture Hope and Vorel; **uses recharging blue orbs and guitar compulsion E126; his disk fails but he remains alive at that cutoff; Nash explicitly kills him AFTER surrender E128**, and Diontalus draws soul-like essence from corpse | [Henitar](characters/henitar-grape.md) |
 | **Cerinthala** | CHIDS-era elf, curse-bearer and betrayer; her last visible body disintegrates E079, with permanent fate unknown | [Cerinthala](characters/cerinthala.md) |
 
 ## Dangerous or ambiguous intermediaries

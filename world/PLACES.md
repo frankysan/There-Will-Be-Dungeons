@@ -1,6 +1,6 @@
 # Places and regions — The Wastes
 
-**Spoilers:** Main campaign through E124 and the separately placed **E107–E109 Dunebreaker prequel**. This is a geographic **directory of primary location pages**, not a new episode-by-episode travel log. Descriptions derive from processed ASR and are not independently listened to. [World portal](README.md) · [Historical events](HISTORICAL_EVENTS.md) · [Chronology](CHRONOLOGY.md).
+**Spoilers:** Main campaign through E128, completing Season One and the separately placed **E107–E109 Dunebreaker prequel**. This is a geographic **directory of primary location pages**, not a new episode-by-episode travel log. Descriptions derive from processed ASR and are not independently listened to. [World portal](README.md) · [Historical events](HISTORICAL_EVENTS.md) · [Chronology](CHRONOLOGY.md).
 
 ## Principal settlements and destinations
 
@@ -17,8 +17,9 @@
 | **Sigil / City of Doors** | Planar metropolis, base for E082 onward, with Hive commerce and disputed portals to Earth | [Sigil](places/sigil.md) |
 | **White Tower** | Besieged Outlands fortress, plague cure and E101 divergence of Hope's path | [White Tower](places/white-tower.md) |
 | **Gray Waste, Styx and Pandemonium** | Hope's E112–E113 planar route and Council of Clowns' Eye-location lead | [Planar route](places/gray-waste-and-pandemonium.md) |
-| **Elhandar** | Elhandari living biodome/station; E115 arrival, E116–E117 reunions, E118 secret family study | [Elhandar](places/elhandar.md) |
-| **The Harbor** | Tiefling refugee community **named at Elhandar E117**; not the original Tietkalla city | [Harbor](places/the-harbor.md) |
+| **Elhandar** | Elhandari orbital biodome crashes onto Earth E125–E126; **survivor vessels, natural dragon heart and refugees depart toward Mars E128** | [Elhandar](places/elhandar.md) |
+| **The Harbor** | Tiefling refuge named E117; E126 several die in second crash; **survivors board Elhandari ships bound for Mars E128** | [Harbor](places/the-harbor.md) |
+| **Villa Ornath** | Father's cottage revealed **spelljammer**; survives crash and Burrow sand tsunami **on Earth's desert surface E128**; mask **not fully attuned** | [Villa Ornath](places/villa-ornath.md) |
 
 ## Historic, secondary and mobile sites
 
@@ -45,7 +46,7 @@
 | **Arc Two** | Golden Land/oil sands → Trashburg and Tietkalla keep → underground throne and war → Hope's coronation |
 | **Arc Three** | Tietkalla → Razak Val → loss of Fate 4 → Kervalon → CHIDS → Traversal Drive |
 | **Arc Four** | Sigil → Hive investigations → Traveler's Twin/Outlands → White Tower → Hope departs inside E101 |
-| **Arc Five to E118** | Parallel journeys through Sigil, Hell, Gray Waste/Pandemonium, devastated Tietkalla, an alternate Nash's asteroid and **Elhandar** |
+| **Arc Five through E126** | Parallel journeys through Sigil, Hell, Gray Waste/Pandemonium, devastated Tietkalla, an alternate Nash's asteroid and **Elhandar** |
 | **Historical prequel** | **Dunebreaker E107–E109**, played **long before Dusthill**, though published between E106 and E110 |
 
 The route arrows are **narrative transitions**, not claims that every transfer was direct, land-based or measured. Source dossiers distinguish *visited*, *seen remotely*, *proposed*, *reported* and *actually reached*. A Gray Waste portal proposed in E112 is not an E112 visit to Pandemonium; the party physically reaches Pandemonium in E113.

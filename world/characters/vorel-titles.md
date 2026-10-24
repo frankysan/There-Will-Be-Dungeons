@@ -1,6 +1,14 @@
 # Vorel — titles and epithets register
 
-**Type:** Source-indexed supporting register for [Vorel](vorel.md), deliberately separated from the main character biography. **Evidence:** ASR-provisional, with source windows, name variants and social standing preserved. **Spoilers:** Through E125; Q&As are retrospective, not played conferrals. [Characters](../CHARACTERS.md) · [World portal](../README.md).
+**Type:** Source-indexed supporting register for [Vorel](vorel.md), deliberately separated from the main character biography. **Evidence:** ASR-provisional, with source windows, name variants and social standing preserved. **Spoilers:** Through E128; Q&As are retrospective, not played conferrals. [Characters](../CHARACTERS.md) · [World portal](../README.md).
+
+## E128 — king-of-space idea repeated, no change of status
+
+At ~01:58–02:02, the party mentions Vorel's existing self-proclaimed **“king of space”** ambition and jokes about making him ruler in the Mind Master's **Hive/Tobacho** position; **no vote, crown, conquest, appointment or formal recognition occurs**. The GM mentions **M-sports supporters** who might reject the Mind Master's anti-Vorel smear campaign, **not a new title granted by them**. No distinct new Vorel epithet is supported in the complete E128 Parakeet reading; **do not create another register identifier**. [E128](../../episodes/E128.md) · [ASR comparison](../../reports/E128_ASR_COMPARISON_2026-10-24.md). **Text-only**.
+
+## E126 — no new formal title, no captured castle
+
+The primary [E126](../../episodes/E126.md) reading finds **no distinct newly voiced epithet or recognized office for Vorel**. His vow to tackle the three-headed bounty hunter and the earlier E125 **king-of-space/castle ambition** do not become a captured fortress or formal title. His **scouting of Elhandar's crash wreckage**, **beauty-bomb performance** and **guitar-induced compelled attack on Hope** are real played events but **not naming ceremonies**. The archive's **Vorel-title register needs no additional identifier**. [Comparison](../../reports/E126_ASR_COMPARISON_2026-10-24.md). **ASR-only, no listening**.
 
 ## E125 — repeating king-of-space boast, no new title conferred
 

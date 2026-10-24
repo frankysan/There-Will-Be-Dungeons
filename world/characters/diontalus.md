@@ -1,8 +1,16 @@
 # Diontalus — self-described archfey of carnage
 
-**Identity:** A supernatural agent who **forcibly joins Stanley Billings in E029**, exercises independent control of the shared body, and is **physically extracted into a crystal by the Principle in E059**. **Spelling:** *Diontalus* is the owner-accepted canonical display ([D-026](../../project/DECISIONS.md)); `Dion Talus`, `Deontalus`, `Diantalus` and `Diontalis` are ASR variants, not separate entities. **Spoilers:** Through E125 and retrospective bonuses. **Evidence:** Episode dossiers based on processed ASR, not audio verification.
+**Identity:** A supernatural agent who **forcibly joins Stanley Billings in E029**, exercises independent control of the shared body, and is **physically extracted into a crystal by the Principle in E059**. **Spelling:** *Diontalus* is the owner-accepted canonical display ([D-026](../../project/DECISIONS.md)); `Dion Talus`, `Deontalus`, `Diantalus` and `Diontalis` are ASR variants, not separate entities. **Spoilers:** Through E128, the Season One finale, and retrospective bonuses. **Evidence:** Episode dossiers based on processed ASR, not audio verification.
 
 **Browse:** [Characters](../CHARACTERS.md) · [Antagonists](../ANTAGONISTS.md) · [Stanley Billings](stanley-billings.md) · [World portal](../README.md).
+
+## E128 — conscious again, drains the mercenary's corpse
+
+At **~00:21–00:25** of [E128](../../episodes/E128.md), **Stanley finds Diontalus inert in the crater and actually casts third-level *Healing Word***. The GM narrates **12 HP recovered**: Diontalus opens his eyes, rises and starts talking. This **resolves the E126 loss-of-consciousness cutoff**, without making his earlier defeat or the possibility of injury false. The archfey later approaches **dead Henatar/Henitar Grape** (whom Nash actually kills after surrender), uses his spectral scythe to **pull visible blue soul-like essence out of the body**, consumes it, and moves away. He is **alive, still separate from Stanley** and still morally dangerous. The physiological/metaphysical extent of his soul consumption, his own Feywild-court travel, and fulfilment of his E124 agreement are **not established**. [Report](../../reports/E128_ASR_COMPARISON_2026-10-24.md). **ASR-only**.
+
+## E126 — defeated by the guitar, fate unresolved
+
+In the **Earth-desert wreckage outside Villa Ornath**, Diontalus **continues fighting the attacking fleet commander**, Henatar/Henitar Grape. The enemy's **[magical guitar](../technology/henatar-guitar.md)** sends sound waves that batter Diontalus into the sand while the burning castle crashes into Elhandar. **He becomes limp and motionless in a crater** as the commander approaches the villa. The party later defeats Henatar without returning to confirm Diontalus's condition. **E126 does not establish that Diontalus has died permanently, been banished, returned to his court, or discharged the promise to face the Principle**. His destruction of enemy ships in E125 and his E126 defeat are witnessed events, while future allegiance and survival remain open. [E126 dossier](../../episodes/E126.md) · [comparison](../../reports/E126_ASR_COMPARISON_2026-10-24.md). **ASR-provisional; no audio listening.**
 
 ## E125 — summoning instrument, admissions and actual fleet intervention
 

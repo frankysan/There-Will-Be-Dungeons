@@ -1,8 +1,12 @@
 # Lyrielle — elven doctor (provisional name)
 
-**Portrayed by:** Kristen. **Continuity:** The Wastes, Season 1, Arc Five. **First played appearance:** [E114](../../episodes/E114.md), ~00:24–00:27. **Name status:** ASR variants **Lyrielle / Liriel / Lirael**; the paged surname is garbled as **Korlani/Quarlani/Koralni (?)**. No creator-written spelling or spoken wording was verified. **Spoilers:** Through E125; **ASR-provisional, no audio listening**.
+**Portrayed by:** Kristen. **Continuity:** The Wastes, Season 1, Arc Five. **First played appearance:** [E114](../../episodes/E114.md), ~00:24–00:27. **Name status:** ASR variants **Lyrielle / Liriel / Lirael**; the paged surname is garbled as **Korlani/Quarlani/Koralni (?)**. No creator-written spelling or spoken wording was verified. **Spoilers:** Through E128; **ASR-provisional, no audio listening**.
 
 Lyrielle is an **elf doctor aboard the Elhandari rescue spacecraft** carrying the survivors from Tietkalla. Kristen describes golden hair, pale skin, green eyes, an off-white peasant-style dress, a small waist satchel, a white mink companion with red eyes, and a crystal rose necklace. **She is a newly introduced character**, not Squirts resurrected or Hope returning to this party.
+
+## E128 — survives station and departs with household
+
+**Lyrielle survives the Elhandar impacts with Angelashi and the children inside Villa Ornath**. In [E128](../../episodes/E128.md), after the mercenary defeat, she helps **Angelashi and Nash's four infants board Elhandari transports**, alongside other surviving Harbor tieflings and Bok Bok. **The ships actually take off bound for the Mars terraforming station**; Lyrielle does **not remain with the four PCs on Earth**. No medical treatment, use of additional spells or arrival at Mars is directly demonstrated in this session. The confusing spoken “Squirts” alongside Bok Bok remains an unresolved roster/name issue and **does not identify Lyrielle as Squirts**. [E128 report](../../reports/E128_ASR_COMPARISON_2026-10-24.md). **ASR-provisional**.
 
 ## E125 — family evacuation and protective spell
 

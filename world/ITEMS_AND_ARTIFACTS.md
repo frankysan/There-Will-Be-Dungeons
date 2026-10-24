@@ -1,6 +1,6 @@
 # Items, artifacts and extraordinary technology
 
-**The Wastes · spoilers through E125.** Object-specific reference index; distinguishes physical possession, demonstrated effects, item descriptions, possible origins and proposed use. The dossiers are **ASR-provisional**, and a late-game inventory is not automatically valid for an earlier episode. [Portal](README.md) · [World technology](WORLD.md) · [Review ledger](CONSISTENCY_LEDGER.md).
+**The Wastes · spoilers through E128, end of Season One.** Object-specific reference index; distinguishes physical possession, demonstrated effects, item descriptions, possible origins and proposed use. The dossiers are **ASR-provisional**, and a late-game inventory is not automatically valid for an earlier episode. [Portal](README.md) · [World technology](WORLD.md) · [Review ledger](CONSISTENCY_LEDGER.md).
 
 ## Story-defining objects
 
@@ -11,14 +11,15 @@
 | **Gem of Tides** | Physically retrieved in E050; restoration of Tietkalla's entire water system not independently demonstrated | [Gem of Tides](technology/gem-of-tides.md) |
 | **CHIDS portal device** | Actual forearm-mounted red/green paired-gateway instrument recovered E075; separate necrotic beam mode | [Portal device](technology/portal-device.md) |
 | **Traversal Drive** | Larger CHIDS installation reached E079 and operated E081; planet-moving claims and lasting effects disputed | [Traversal Drive](technology/traversal-drive.md) |
-| **Nash's engineered dragon heart; separate natural heart** | E121 projection **withdraws into Nash E122**; engineered pacemaker stays implanted. **Dead black dragon's natural heart extracted and hidden under/near cave spike**; sealing device only proposed | [Dragon hearts](technology/nash-dragon-heart.md) · [E122](../episodes/E122.md) |
+| **Nash's engineered dragon heart; separate natural heart** | E121 projection **withdraws into Nash E122**; engineered pacemaker stays implanted. **Dead black dragon's separate natural heart recovered by Elhandari E128 and transported toward Mars**; **Ruby not constructed**, Nash's engineered engine still implanted | [Dragon hearts](technology/nash-dragon-heart.md) · [E122](../episodes/E122.md) |
 | **Book of Adjacencies** | Dalit/Daliot Ornath's responsive journal received by Stanley E118; its theories are not verified time-travel laws | [Book of Adjacencies](technology/book-of-adjacencies.md) |
-| **Mask of Elton IV (?)** | Obtained by Stanley E118 with untested *Peer into Plurality* description and costly four-rest attunement | [Mask](technology/mask-of-elton-iv.md) |
+| **Mask of Elton IV (?)** | Obtained E118; **actually donned E126** as command interface for Villa Ornath spelljammer, yet **not attuned or successfully used to fly/shrink** | [Mask](technology/mask-of-elton-iv.md) |
 | **Diontalus's wooden ocarina** | **Physically handed to Stanley E125**, allegedly summons Diontalus when played; **not activated/tested** | [Summoning ocarina](technology/diontalus-ocarina.md) |
+| **Henatar's magical guitar** | **Taken by Stanley via Telekinesis E126, still in his possession E128**; calmly strummed notes are magically amplified, no combat effects reproduced; **Henatar killed** | [Guitar](technology/henatar-guitar.md) |
 
 ## Other significant possessions
 
-**[Noble speeder](technology/noble-speeder.md)** — borrowed wooden repulsor vehicle; Hope pilots the four to Harbor E123 and villa E124, **Nash towed**, then **vehicle left at Villa Ornath**. Fuel/range/ownership unverified. **Ruby unbuilt**, now with absent **[Tungsten Wheel](characters/tungsten-wheel.md)** named as possible builder and **Mars portal glyphs obtained E125**, but no visit or construction; [two hearts](technology/nash-dragon-heart.md). **[Eye of Groxl](technology/eye-of-groxl.md)** remains in Vorel's chest after Malhya's E124 touch; unmaker antecedent unresolved.
+**[Noble speeder](technology/noble-speeder.md)** — borrowed wooden repulsor vehicle; Hope pilots the four to Harbor E123 and villa E124, **Nash towed**, then **vehicle left at Villa Ornath; four additional Elhandari speeders actually clamped to its exterior in E128**. Fuel/range/ownership unverified. **Ruby unbuilt**, now with absent **[Tungsten Wheel](characters/tungsten-wheel.md)** named as possible builder and **Mars portal glyphs obtained E125**, but no visit or construction; [two hearts](technology/nash-dragon-heart.md). **[Eye of Groxl](technology/eye-of-groxl.md)** remains in Vorel's chest after Malhya's E124 touch; unmaker antecedent unresolved.
 
 | Item | Follow-up location |
 | --- | --- |

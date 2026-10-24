@@ -1,0 +1,29 @@
+# Villa Ornath — Dalit's spelljammer disguised as a cottage
+
+> **The Wastes · Arc Five · first visited E115, hidden study discovered E118, escape mechanism disclosed E126, Season One refuge through E128.** This is the **family cottage originally inside Elhandar's orbital forest biodome**, not a new house built on Earth. [Elhandar](elhandar.md) · [Stanley](../characters/stanley-billings.md) · [Mask of Elton IV (?)](../technology/mask-of-elton-iv.md) · [E126 dossier](../../episodes/E126.md). **ASR-provisional, no original audio verified.**
+
+## Earlier uses — ordinary home and impossible upper floor
+
+At [E115](../../episodes/E115.md), Stanley, Nash, Vorel and their companions live in **the villa/cottage associated with Stanley's father, Dalit/Daliot Ornath (?)**, among the forest and Rainbow Road. By [E118](../../episodes/E118.md), a physical **key** is given to Stanley, who invokes his parents' poem and reveals a **hidden third floor** exceeding the geometry of the visible two-story house. There he and Hope find the **Book of Adjacencies**, an **obsidian jeweled mask**, globe and star charts. The father's claims about time/cosmology remain writings, not proven objective history.
+
+## E125 — impact shelter and episode-bound uncertainty
+
+With Elhandar falling toward Earth, the High Elf tells Stanley to protect his household at the villa. **Hope, Nash, Vorel, Stanley, Angelashi, Lyrielle, Nash's four children, Bok Bok and Chunks reach the villa** after the interrupted elevator and biodome escape. Its sealed upper study manifests seats and restraints; they buckle in. **E125 ends at the impact, without proof of post-impact survival**. [E125](../../episodes/E125.md).
+
+## E126 — occupants survive, the house is a spelljammer
+
+The hidden third floor **absorbs the first crash**, keeping the family alive. The party finds dozens of **injured tieflings from the Harbor downstairs**. One says elves assembled them before the disaster and they unexpectedly appeared in the villa; **the mechanism and who brought them are only reported**, not witnessed. A blocked entry and rubble pressing against sound windows establish the house has been **buried within fallen station debris**.
+
+Stanley opens the responsive father's journal by asking about the villa. A magically presented explanation says the entire dwelling is an **especially damage-resistant shell of a spelljammer**, an interstellar vessel. Wearing its associated **Mask of Elton IV/Eltanfawr (?)** grants mental/telepathic controls for **flight, shrinking the villa and its occupants to dime size, and a vessel form which reportedly supplies air**. Stanley **puts on and reshapes the eight-gem mask** but his first attempted lift only makes the house creak: **four consecutive nights of attunement/trust are said to be required**. **No successful lift, shrink, full transformation or actual spaceflight in E126**. The alternative **Teleportation Circle** is discussed and never cast; another attempted short-range **Teleport by Hope is blocked** by the bounty hunter.
+
+**Bok Bok's reusable beauty bomb** produces magical formal clothing and music in the lower rooms. Rubble then shifts and exposes a sunlit path; **Vorel scouts out to Earth's desert and returns**. The cause of the house movement is not independently established. A second burning impact spins the villa, killing **several Harbor tieflings** and wounding other occupants; Angelashi, Lyrielle and Nash **protect the children**, who survive. The house ends **upright and free of rubble on Earth's desert sand**, with debris from Elhandar behind it. Later **Henatar's musical attacks shake its structure and loosen nails**. Its durability is extraordinary, but **not proven literally invincible to every magical attack**.
+
+## E128 — the season-finale refuge on Earth's surface
+
+In [E128](../../episodes/E128.md), **Villa Ornath remains intact** after the second impact and the mercenary's death. After the surviving Elhandari land, **four more noble speeders are actually attached to exterior fixtures on the villa**, which belongs to Stanley. **The rescued tieflings and Angelashi's group leave aboard Mars-bound elf ships**, while **Stanley, Nash, Hope and Vorel remain on Earth by the cottage**. Stanley still requires additional **consecutive nights with the obsidian mask** to command the house as a spelljammer; **its vessel flight and shrinking have not been successfully activated**. The Soulbroker later visibly opens a sky-rift and a titanic burrower triggers a **sand tsunami**. The quartet **flies above the storm on dragon-form Nash**; the cottage **survives exactly where it stood**, with one side banked by blown sand and its interior still messy. **A peaceful long rest is completed here** at finale; all four reach **level 13**. The proposed **three additional days** to finish attunement have **not yet elapsed**. The party does not board the Mars ship. [E128](../../episodes/E128.md) · [comparison](../../reports/E128_ASR_COMPARISON_2026-10-24.md).
+
+## E126 cutoff and open questions
+
+The final scene outside the cottage leaves **Henatar/Henitar Grape limp after a fall**, **Diontalus motionless following an earlier defeat**, and Stanley in **temporary physical control of Henatar's magical guitar**. No post-battle custody, permanent house transformation or exact refugee-survivor tally is witnessed. **The villa is on Earth's surface now, not merely proposed to travel there**; the occupants have **not separately crossed to Mars**. [E126](../../episodes/E126.md) · [comparison](../../reports/E126_ASR_COMPARISON_2026-10-24.md).
+
+**Audio/research priorities:** mask/title pronunciation and attunement condition (~00:28–00:38); cause of rubble shifting (~00:51–01:05); number of tiefling deaths (~01:15–01:22); whether station/house integrity statements are contingent rather than absolute.

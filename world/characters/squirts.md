@@ -1,6 +1,10 @@
 # Squirts — kobold trickster (Arcs Four–Five)
 
-> **First appearance:** [E082](../../episodes/E082.md), unnamed kobold at the Soggy Feather. **Identified and developed:** [E083](../../episodes/E083.md), [processed Parakeet SRT](../../sources/The%20Wastes%20S1E083.%20Trash%20Monkey%20and%20The%20Bird.parakeet.processed.srt). **Kristen's new character**, **not** a reincarnated Hope. This profile is **ASR-based, not audio-verified**; contains spoilers through E125; earlier sections retain their episode-era cutoffs.
+> **First appearance:** [E082](../../episodes/E082.md), unnamed kobold at the Soggy Feather. **Identified and developed:** [E083](../../episodes/E083.md), [processed Parakeet SRT](../../sources/The%20Wastes%20S1E083.%20Trash%20Monkey%20and%20The%20Bird.parakeet.processed.srt). **Kristen's new character**, **not** a reincarnated Hope. This profile is **ASR-based, not audio-verified**; contains spoilers through E128; earlier sections retain their episode-era cutoffs.
+
+## E128 — spoken Mars-departure roster contradiction
+
+At **~01:04 of [E128](../../episodes/E128.md)**, the GM says **“Bok Bok also has Squirts in tow”** among the people physically boarding Elhandari ships for Mars. Both processed exports represent that same name. This is a direct **spoken roster inconsistency**, because **E111 actually kills/disintegrates Squirts**, E115 memorializes her, E125 explicitly corrects an earlier evacuation slip to living child **Chunks**, and **E125 separately shows a living-looking, altered Squirts awakened as Brent's new captain in Hell**. **No scene in E128 returns Hell Squirts to Bok Bok**, and the Mars sentence contains **no played correction**. Preserve **speaker's exact apparent name as an open contradiction**; do not invent resurrection, secret teleports, two Squirts, a second child, or silently rewrite it to Chunks. The **four newborn children with Angelashi** remain present and depart; **Bok Bok's bond with Chunks** is separately sourced. [E128 comparison](../../reports/E128_ASR_COMPARISON_2026-10-24.md). **Audio verification needed**.
 
 ## E125 — visibly returned in Hell, not aboard Elhandar
 

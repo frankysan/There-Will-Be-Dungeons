@@ -1,8 +1,18 @@
 # Nash Maggard
 
-**Portrayed by:** Scott. **Identity:** Wasteland adventurer, spellcaster and bearer of an implanted **dragon-metal engine heart**, capable of black-dragon transformation. **Spoilers:** Played *Wastes* through E125 and retrospective cast Q&As. **Evidence:** Processed ASR and episode dossiers, not independent audio verification.
+**Portrayed by:** Scott. **Identity:** Wasteland adventurer, spellcaster and bearer of an implanted **dragon-metal engine heart**, capable of black-dragon transformation. **Spoilers:** Played *Wastes* through E128 (Season One finale) and retrospective cast Q&As. **Evidence:** Processed ASR and episode dossiers, not independent audio verification.
 
 **Browse:** [Characters](../CHARACTERS.md) · [Solar Mines](../places/solar-mines.md) · [Spellcasting phrases](nash-spellcasting-phrases.md) · [World portal](../README.md).
+
+## E128 — Henatar's execution, family farewells and dragon rescue
+
+**After Henatar/Henitar Grape yields**, Nash remains a black dragon and **tears off one side head**. Despite an effort/check to do so without killing him, the GM describes **Henatar's last breath**. Nash later **removes a second side head from the already-dead corpse** and leaves the middle head for Diontalus, who drains its visible soul-like energy. This is **an execution after surrender**, not merely killing an unresisting opponent with the E126 acid blast. Nash still wears his **manufactured dragon-metal heart**; a **distinct harvested natural dragon heart** is later **recovered by Elhandari** and transported toward Mars.
+
+Nash **says goodbye to Angelashi and all four infants**, explaining that staying near him would put them in danger and promising to return. Angelashi, the children, Lyrielle, Bok Bok and surviving Harbor tieflings **actually board the Mars-bound Elhandari ships**, while Nash stays with the original party on Earth. When the Soulbroker opens a purple sky breach and releases a colossal burrowing creature, **Nash actually takes Hope, Stanley and Vorel onto his dragon back, flies above the desert sand tsunami and brings all three safely down**. The villa survives; no dragon fight against the creature occurs. Nash **returns to human form before an uneventful long rest**, and the whole group is officially **level 13**. No distinct new **improvised spellcasting verse** is identified in E128; the dragon rescue and head biting are not spell-rhymes. [E128](../../episodes/E128.md) · [phrase register](nash-spellcasting-phrases.md). **ASR-provisional**.
+
+## E126 — protected family and dragon fight
+
+**Nash and Angelashi and their four children survive Elhandar's crash inside Villa Ornath**. During a second violent impact, Nash **successfully catches Angelashi** using his floating gear after an initially failed grab; the children survive shielded by adults. He **casts Haste on Stanley**, later takes **black dragon form**, and **casts Shield to deflect Henatar's Magic Missiles** while reciting the already-recorded provisional phrase **NSP-012** (no duplicate). His two **acid-breath attacks bypass Henatar's spell-absorbing orbiting spheres** and burn the enemy; the second wrecks the floating disk, leaving the commander **limp but not confirmed dead**. Nash's dragon transformation is **played**; remaining charges and exact Shield wording need original audio/item records. [E126](../../episodes/E126.md) · [phrase register](nash-spellcasting-phrases.md). **ASR-provisional**.
 
 ## Life, memories and magical body
 

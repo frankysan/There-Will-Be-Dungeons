@@ -1,0 +1,27 @@
+# E128 — Parakeet/Qwen full-export ASR comparison (2026-10-24)
+
+> **The Wastes · corrected S1E128 “Burrow” · original publisher TWBD 130 · owner-confirmed Arc Five/Season One finale.** [Dossier](../episodes/E128.md). Both complete UTF-8 SRTs fetched from pinned Git commit `d9ff8e10a2092b81b8b985f9d7f110fcc868e2e4` matching the observed dirty connected checkout HEAD, which already contained **30 changes** before E128 edits. No audio replay, ASR processing, source mutation or local episode-preparation script; **Qwen editorial readings were selected-window rather than complete**, although full export text was tokenized.
+
+| Full source / filename-inferred model | Git blob SHA (not SHA-256 of local source) | Cues | Last SRT end | Normalized words |
+| --- | --- | ---: | --- | ---: |
+| [Parakeet processed](../sources/The%20Wastes%20S1E128.%20Burrow.parakeet.processed.srt) | `47ef0915b6afc5d4258ff08eae59917c564b3f8a` | **1,958** | **02:14:47.760** | **17,908** |
+| [Qwen Q8/Canary CTC/Nemotron-labelled](../sources/The%20Wastes%20S1E128.%20Burrow.qwen-q8.canary-ctc.nemotron.srt) | `edbe0de244ad51a7e84ffcd923d7827243157117` | **3,132** | **02:14:47.360** | **18,087** |
+
+**Exact unit-cost ordered word Levenshtein = 1,518 edits / 17,908 primary tokens = 8.48% textual disagreement**; Qwen **+179 tokens**. Normalization: parse each complete SRT in cue order; exclude cue indices/timing lines, strip `(speaker N)` decorations, lowercase, remove straight/curly apostrophes to join contractions, replace non-Unicode-letter/digit characters by spaces and tokenize whitespace. Exact diagonal frontier dynamic programming with substitutions/insertions/deletions each cost 1, **checked against exact full-matrix edit distance in 70 small deterministic sequences**. This is **not measured WER**, model accuracy, independently verified omissions or hallucinations. File contents received as Unicode strings (Parakeet **183,641** and Qwen **243,657 characters**); those are **not claimed byte sizes**. Blob identifiers are Git object SHAs, not locally calculated SHA-256s; exact acoustic file match/model settings unknown.
+
+## Material cross-source listening questions and clarified cutoff
+
+| Clock | Textual point / risk | Conservative editorial status |
+| --- | --- | --- |
+| ~00:00–00:20 | Henatar/Henitar/Penatar Grape spelling, surrendered plea, Stanley's nonlethal leg jab, **Nash rips off head and GM says final breath** | **Death belongs to E128, not E126**. Later second head removal is **postmortem**; no pardon or peace agreement made |
+| ~00:20–00:39 | Hope touches blue orb; English rendering “fifty six” could be **5d6**, 56, or a voice-to-text collision. Stanley **casts third-level Healing Word** on Diontalus; he **rises**. Archfey **slurps visible soul-like energy** from corpse | Confident episode outcomes; **no reliable exact orb damage** without dice/audio and no claim of certain final soul disposal |
+| ~00:29–01:07 | High Elf **orders heart search** initially, Chrysorius **later explicitly confirms recovery and Mars transport**; family/Harbor evacuate aboard ships | Two separate times; **heart recovered and carried**, not yet made into Ruby. All four player characters stay behind |
+| ~01:00–01:07 | Both exports transcribe GM saying **Bok Bok “has Squirts in tow”** despite [E111 death](../episodes/E111.md) and separate [E125 Hell reveal](../episodes/E125.md) | **Open direct roster contradiction**. Do not reassign to **Chunks** silently or claim Hell Squirts aboard Mars transport |
+| ~00:53–01:05 | Hope attempts grave/body desecration for evil-charged ring; GM explicitly says neither corpse-cutting constitutes required evil; she buries victim with apology | **No ring charged, Gate not cast**. Do not invent live harm |
+| ~01:10–01:28 | Soulbroker's appearance/title variants **Kitobol/Kitobel Praeth/Kitobel Prith (?)**, *Weir/Wyr/Weer* ASR alternatives and Principle history; **Stanley only hears until later recount** | Keep spellings provisional, **claims attributed** and private/public-knowledge boundaries separate |
+| ~01:25–01:40 | A vast purple rift/huge partly mechanical burrower, violent sand tsunami, dragon flight and villa remaining intact | Visible **Weir-associated planetary incursion**, not merely a promise; no proof of full conversion or portal sealing |
+| ~01:42–02:08 | Dunglestar Ravensbread name, Tungsten Wheel location, Ruby availability. GM **explicitly says Ruby not yet being made**; Sending reply tells Stanley to speak to Dunglestar in person | No engineer found, no Mars trip by party, no station-built device |
+| ~01:50–02:01 | Hope **actually tells companions** about her solo White Tower/Hell/Pandemonium/Eye leads. Table corrects phrasing that Brent **offered assistance rather than signed pact** | Information-sharing occurs late; avoid earlier omniscience or completed Hand/Eye union |
+| ~02:07–02:14 | GM grants **level 13 and a peaceful long rest**, notes dragon's sealing plan and pressure without running a new quest | True played rest/level milestone; **late GM strategy hint is out-of-game**, not a spell or installation |
+
+**Archive/arc boundary:** E127 “Spider Claws” is a separate Christmas one-off, not a beat between E126 and E128. By owner instruction **E128 closes Arc Five and Season One**. The next regular source lies in **Wastes Season Two** but its corrected ID/title/SRT presence have **not been independently checked**; do not assert a date or lead event. Later-game implications must not be imposed on the E128 cutoff. No listening performed. 

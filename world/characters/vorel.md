@@ -1,8 +1,18 @@
 # Vorel
 
-**Portrayed by:** Kyle. **Identity:** Lizardfolk warrior and leader, protector of **Bok Bok**, bearer of the **Eye of Groxl** and claimant to many personal titles. **Spoilers:** Main Wastes through **E125** and cast Q&As. **Evidence:** ASR-provisional except owner-confirmed item/name orthography.
+**Portrayed by:** Kyle. **Identity:** Lizardfolk warrior and leader, protector of **Bok Bok**, bearer of the **Eye of Groxl** and claimant to many personal titles. **Spoilers:** Main Wastes through **E128** and cast Q&As. **Evidence:** ASR-provisional except owner-confirmed item/name orthography.
 
 **Browse:** [Characters](../CHARACTERS.md) · [His source-indexed titles](vorel-titles.md) · [Eye of Groxl](../technology/eye-of-groxl.md) · [World portal](../README.md).
+
+## E128 — exhausted fury, refugee separation, the new Burrow
+
+**Vorel stays with the original four** after Elhandar's fall, while the **Harbor tieflings, Angelashi, four children, Lyrielle and Bok Bok board Elhandari ships for Mars**. The defeated Henatar **is killed by Nash after yielding**, not by Vorel. Vorel speaks bitterly of every settlement the party has tried to improve being destroyed by another power; **he threatens indiscriminate violence in a rant but actually harms no bystander** and intends to sleep in the Earth desert. He does **not** accept a new formal title or make an actual political seizure. The party later proposes installing him as **“king of space”** to counter **Mind Master propaganda** among Hive/M-sports supporters—**repeated aspiration**, not coronation.
+
+When the Soulbroker visibly summons the giant burrowing being and sand tsunami, Vorel is initially **standing in the desert furious at it**, but eventually **climbs on dragon-form Nash with Stanley and Hope**. His **Eye of Groxl responds with a desire for combat**, though **no fight against the creature** is undertaken. The party survives and rests; **level 13 is officially granted**. The debates about Hope's Eye, possible Gate to Sigil and Ruby are not yet acted on. [E128](../../episodes/E128.md) · [Vorel's source-indexed titles](vorel-titles.md). **ASR-only, not listened**.
+
+## E126 — desert scouting and musical compulsion
+
+**Vorel survives Elhandar's first fall**, searches the villa's exterior, and later **climbs through an opened upper-window passage to survey the Earth desert** before returning to the family. A second impact throws the villa free and **kills several Harbor tieflings**, without any stated death of the main household. Vorel carries the **reusable beauty bomb** supplied by Bok Bok and used to entertain survivors; **the bomb's costumes are illusory rather than a real new permanent wardrobe**. Henatar's orbiting spheres **stun Vorel** and guitar chords compel him and **Hope to attack the closest creatures**, including each other. This is **not freely chosen aggression or settled marital hostility**; the enchantment ceases when Stanley takes the guitar. **No new Vorel title, castle seizure or formal kingship occurs**; see the separate [title register](vorel-titles.md). [E126](../../episodes/E126.md). **ASR-provisional, no listening**.
 
 ## Origin, aspirations and moral commitments
 

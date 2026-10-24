@@ -1,6 +1,6 @@
 # Angelashi
 
-**Name status:** **Angelashi** is used as a working display spelling based on cast-shared recap forms; **Angel Ashi** appears in episode ASR, and the **word division remains unresolved**, unlike the accepted spelling **Diontalus**. **Identity:** Changeling who presents as an elven singer (revealed E114), and an important companion of Nash. **Arc Two status:** **Alive and freed in E054**. **Spoilers:** Played E035–E125, plus separately framed November 2020 creator discussion below.
+**Name status:** **Angelashi** is used as a working display spelling based on cast-shared recap forms; **Angel Ashi** appears in episode ASR, and the **word division remains unresolved**, unlike the accepted spelling **Diontalus**. **Identity:** Changeling who presents as an elven singer (revealed E114), and an important companion of Nash. **Arc Two status:** **Alive and freed in E054**. **Spoilers:** Played E035–E128, plus separately framed November 2020 creator discussion below.
 
 Angelashi is introduced as a performer at the **Golden Gargoyle** in Trashburg, drawing Nash's interest. She travels with him after the club's violence and later speaks privately about her past, including elven/refugee experiences, travel hopes and her magic. Some of those details are **her own account**, not independent confirmation of an ancient itinerary. She uses temporary flower/plant magic around Nash, and the two develop an intimate relationship.
 
@@ -9,6 +9,10 @@ She disappears during the worsening conflict with the keep. In E048 **Tedna repo
 Her future travel, health and place in the new Tietkalla government are not decided merely by their reunion. The Q&A mentions Nash's emotional stakes and plans without adding scenes of Angelashi's life after E054.
 
 **Primary sources:** [E035](../../episodes/E035.md) · [E036](../../episodes/E036.md) · [E037](../../episodes/E037.md) · [E048](../../episodes/E048.md) · [E049](../../episodes/E049.md) · [E054](../../episodes/E054.md) · [Nash](nash-maggard.md) · [Tedna](tedna.md) · [spelling evidence](../../reports/DISCORD_SPELLING_2026-10-21.md).
+
+## E128 — farewell on Earth and actual Mars-bound departure
+
+**Angelashi and all four infants survive both impacts** of Elhandar inside **Villa Ornath**. When Elhandari rescue ships land, the survivors are offered a safer place on the **Mars terraforming platform**. At **~01:00–01:06**, Angelashi **approaches Nash while he is still in black-dragon form** and asks whether she and the children must really leave without him. He says the bounty on the party makes traveling with him too dangerous, **promises to return**, and tells their daughter **Nash Junior and Boot** to take care of their mother. Angelashi **kisses his scaled cheek and actually boards a Mars-bound elf ship with all four young children**, giving him a long look back. **Lyrielle joins them**. Nash **does not board**, and **arrival on Mars or Nash's later reunion is not played by the Season One end**. GM's **“Bok Bok has Squirts in tow”** while boarding is inconsistent with E111/E125; no established arrival of Hell Squirts or new child follows from that line. [E128](../../episodes/E128.md) · [comparison](../../reports/E128_ASR_COMPARISON_2026-10-24.md). **ASR-only.**
 
 ## E125 — evacuation with the four children
 

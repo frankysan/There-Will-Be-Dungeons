@@ -1,8 +1,16 @@
 # Nash Maggard — spellcasting phrases and rhymes
 
-**Character:** [Nash Maggard](nash-maggard.md), portrayed by **Scott**. **Continuity:** The Wastes. **Spoilers:** Selected Season 1 magic through **E111**, later evidence reviews **E114–E125** (including **E120's performed *Haste* rhyme**, and non-casting poems/retrospective memories), plus a marked section of later-season seeds. **Status:** Updated 2026-10-24; **ASR-provisional, not audio-verified or an exhaustive collection**. **Current backfill ceiling: S1E111.**
+**Character:** [Nash Maggard](nash-maggard.md), portrayed by **Scott**. **Continuity:** The Wastes. **Spoilers:** Selected Season 1 magic through **E111**, later evidence reviews **E114–E128** (including **E120's performed *Haste* rhyme**, and non-casting poems/retrospective memories), plus a marked section of later-season seeds. **Status:** Updated 2026-10-24; **ASR-provisional, not audio-verified or an exhaustive collection**. **Current backfill ceiling: S1E111.**
 
 Nash improvises strange phrases, rhymes and sometimes unfinished verses around his magic. This page collects the wording separately from his character history, following the provenance practice of [Vorel's title register](vorel-titles.md). In **E046 ~02:52:57–02:53:10**, Beau awards Nash inspiration for the effort he puts into his magical words ([Parakeet][046-p], cues 2797–2801; [Qwen][046-q], cues 4622–4629). That recognizes an existing habit; it does **not** establish E046 as its beginning.
+
+## E128 — no new Nash incantation identified
+
+**Corrected E128 “Burrow”** plays Nash's **dragon-form acts**, including killing Henatar after the surrender, protecting/transporting all four through the sand tsunami, and reverting to human form before the season-finale long rest. In the complete primary ASR review **no new separately performed, source-supportable improvised spell-rhyme is identified**; no new NSP number is assigned. **Do not confuse the DM's or other characters' lines with Nash's ritual phrasing**, or treat a dragon bite, flight or general conversation as a spoken casting. This is a **full text-reading negative**, not exhaustive confirmation from original audio. [E128](../../episodes/E128.md) · [full-export comparison](../../reports/E128_ASR_COMPARISON_2026-10-24.md).
+
+## E126 — Shield phrase already registered as NSP-012
+
+At **~02:22:45–02:22:52**, during his **black-dragon confrontation with Henatar/Henitar Grape**, Nash is asked for ***Shield*** words and actually casts it to defend against the commander's **Magic Missiles**, voicing an improvised rhyme approximating **“hey buddy turn and cough / these things you're shooting are going to bounce right off”**. **Parakeet and Qwen agree on the sense but differ in `going to` / `gonna`; no original audio listened to.** This exact performed event is **already indexed in the separate later-season/source-first row NSP-012**, so it must **not** be assigned NSP-045 or duplicated. Nash's E126 ***Haste* on Stanley** and **dragon transformation/acid breaths** contain **no additionally confirmed distinct improvised rhyme** in the complete primary reading. [E126](../../episodes/E126.md) · [ASR comparison](../../reports/E126_ASR_COMPARISON_2026-10-24.md).
 
 ## E125 — two performed rhymes amid the siege of Elhandar
 
