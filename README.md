@@ -20,6 +20,7 @@
 | **Analyze the next episode with the MCP/ASR workflow** | [TWBD episode-analysis Codex skill](.agents/skills/twbd-episode-analysis/SKILL.md) — invoke `$twbd-episode-analysis E098`, `$twbd-episode-analysis next`, or a bonus label |
 | Follow unresolved listening tasks | [Review queue](project/REVIEW_QUEUE.md) |
 | Run Markdown structure and table checks | [Markdownlint setup and CI](project/MARKDOWN_LINTING.md) — `npm install`, then `npm run lint:markdown` |
+| Check Python scripts and tests | [Pylance, Pyright and Ruff setup](project/PYTHON_CHECKS.md) — `npm run check:python` with the Python environment active |
 | Understand source confidence and editing conventions | [Editorial guide](project/EDITORIAL_GUIDE.md), [documentation architecture](project/DOCUMENTATION_ARCHITECTURE.md) |
 
 The [December-publication 2019 bonus](episodes/BONUS-2019-12.md) gives **retrospective explanations of E081–E083 petitioners**, with [four-export ASR comparison](reports/BONUS_2019_12_ASR_COMPARISON_2026-10-22.md). The [January-publication 2020 bonus](episodes/BONUS-2020-01.md) (**spoken “December 2019”**) adds later GM identification of E085's Lady-like manifestation, **external rather than innate suppression of Nash's magic**, and his expected regeneration, with a [two-ASR report](reports/BONUS_2020_01_ASR_COMPARISON_2026-10-22.md). **Neither bonus is a played scene or audio-verified transcript**, and neither performs Hope/Stanley's resurrection.

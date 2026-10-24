@@ -5,6 +5,7 @@ import hashlib
 import json
 import random
 import sys
+from typing import Any
 
 ROOT = Path(__file__).resolve().parents[1]
 sys.path.insert(0, str(ROOT / 'tools'))
@@ -34,7 +35,7 @@ def main():
                                   ('qwen', 'qwen-q8.canary-ctc.nemotron.srt'),
                                   ('ark', 'ark-q8.canary-ctc.nemotron.vad-firered.srt')]}
     loaded = {k: read(p) for k, p in paths.items()}
-    result = dict(date='2026-10-23', episode='The Wastes S1E103', audio_verified=False,
+    result: dict[str, Any] = dict(date='2026-10-23', episode='The Wastes S1E103', audio_verified=False,
                   new_asr_execution=False, model_metadata='Filename labels only; builds, settings, runtime and hardware unknown.',
                   method='Chronological cue text; strip speaker labels; lowercase; delete apostrophes; split on non-Unicode-alphanumeric characters; exact ordered unit-cost word Levenshtein. Not audio WER.',
                   distance_validation='200 seeded random sequence pairs checked against scalar dynamic programming.',

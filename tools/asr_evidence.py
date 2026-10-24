@@ -5,8 +5,9 @@ from dataclasses import asdict, dataclass, field
 import hashlib
 import json
 import math
-from pathlib import Path, PureWindowsPath
+from pathlib import PureWindowsPath
 import re
+from typing import Literal, overload
 import unicodedata
 
 from build_transcripts import parse_srt
@@ -23,7 +24,15 @@ def digest(value):
                                      allow_nan=False).encode()).hexdigest()
 
 
-def number(value, name, nullable=False):
+@overload
+def number(value, name, nullable: Literal[False] = False) -> int | float: ...
+
+
+@overload
+def number(value, name, nullable: Literal[True]) -> int | float | None: ...
+
+
+def number(value, name, nullable=False) -> int | float | None:
     if nullable and value is None:
         return None
     if isinstance(value, bool) or not isinstance(value, (int, float)) or not math.isfinite(value):

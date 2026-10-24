@@ -3,7 +3,6 @@
 from __future__ import annotations
 import hashlib
 import json
-import re
 import subprocess
 from pathlib import Path
 from build_transcripts import ROOT, parse_srt, clock

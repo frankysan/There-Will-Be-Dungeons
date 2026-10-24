@@ -9,6 +9,7 @@ import unittest
 from unittest.mock import patch
 
 SPEC=importlib.util.spec_from_file_location("discord_archive",Path(__file__).resolve().parents[1]/"tools/discord_archive.py")
+assert SPEC is not None and SPEC.loader is not None
 archive=importlib.util.module_from_spec(SPEC)
 SPEC.loader.exec_module(archive)
 

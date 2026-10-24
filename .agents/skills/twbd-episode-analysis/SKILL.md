@@ -69,6 +69,14 @@ For the project's established reproducible full-episode comparison:
 
 **Never call inter-model disagreement WER, accuracy, confirmed omissions or hallucinations.** Neither agreement nor token-count advantage proves correctness. If computational tools or a complete source are unavailable, **say comparison not computed** instead of fabricating a figure. If manually listening, identify exactly which windows and evidence were checked and distinguish them from untouched windows.
 
+### Reusable episode preparation (when local Python execution is available)
+
+Use `tools/prepare_episode.py` to parse complete SRTs and prepare small, timestamped windows **before remote/manual editorial reading**. It reuses `build_transcripts.parse_srt`, the exact shared `asr_metrics` normalization/distance (also used by the older ASR backfill), and the established separate time-aware alignment. Example for a verified matching pair:
+
+`python tools/prepare_episode.py --id E121 --primary "sources/<verified-primary-name>.srt" --secondary "sources/<verified-secondary-name>.srt" --out local/episode-analysis/E121`
+
+Replace placeholders with **actual** discovered filenames; never guess the source basename. Use `--window-minutes 10` (default), `--max-review 30`, or `--no-alignment` when the exact global metric is needed without expensive candidate alignment. For single-source coverage, omit `--secondary`. `local/` is ignored by Git. Inspect `summary.md` and `summary.json`, read **every primary window** to form narrative claims, and use `candidates.json` to target second-export disagreements; if claiming complete interpretive coverage of both exports, examine both throughout instead. All candidate classifications are **unverified hypotheses**. The command reads source files without modifying them; a matching existing output is reused, while changed inputs/options or partial outputs require a **different fresh output directory**, not silent replacement. Store paths/hashes and reviewed-window progress in the phase checkpoint. If Python execution is unavailable, follow the existing bounded-reader approach rather than claiming this script ran.
+
 ## 4. Write only the documentation justified by the episode
 
 Create/update these layers **in priority order**, using existing adjacent episode conventions as examples:
@@ -106,16 +114,36 @@ For cross-campaign bonuses, tag each claim by campaign (or **unassigned**), evid
 
 Canonical spelling follows the project's tiered written/owner decisions (e.g., the **one Eye of Groxl**), but original raw ASR readings remain traceable. Cite the original episode source, appropriate dossier and comparison report with working **relative** links.
 
-## 5. Edits, access limitations and checkpoints
+## 5. Bounded execution, resumability and guarded edits
+
+**One episode is a research unit, not a required single-turn transaction.** For a high-latency workspace, complete at most the next feasible phase, persist a checkpoint, and stop cleanly when the remaining budget cannot cover another phase. A later `proceed` resumes the **same episode and first incomplete phase**; it must not restart all source reading or advance to a new episode. A fast local execution may complete several phases in one invocation. No background continuation is implied.
+
+### Phases and completion gates
+
+| Phase | Work | Completion gate |
+| --- | --- | --- |
+| **0. Resume and identify** | Inspect campaign queue, existing dossier/report, prior progress, Git status and exact sources; select the first incomplete phase. | Existing work and revisions understood; no unnecessary reread or overwrite. |
+| **A. Source evidence** | Read the primary export across the entire recording, process independent exports as required for claimed scope, inventory provenance, calculate supported ASR measurements, and build timestamped evidence/cutoff notes. | Every claimed full-export source has verified beginning/end coverage; any unexamined windows or incomplete metrics explicitly recorded. |
+| **B. Core publication** | Write or finish the source-first dossier and comparison report (where supported), compact model-test entry and appropriate campaign queue/pointer. | Core files read back; cutoff, evidence limitations and next-source pointer agree. Do not move the researched-episode pointer before this gate. |
+| **C. Continuity and narrative** | Update only material chronology, consistency-ledger and arc narrative changes. | No contradictory prior cutoff/major status or duplicated episode retelling in the edited sections. |
+| **D. Entity integration** | Update only changed subject pages, Vorel/Nash registers when a qualifying finding exists, and genuinely stale navigation. | Material entities and links reconciled; unrelated encyclopedia pages untouched. |
+| **E. Validation** | Read back changed sections, inspect status/diff and run available relevant checks. | Results and limitations reported; stage marked completed only after actual verification. |
+
+**Durable checkpoint, not just chat state:** At each phase boundary, record campaign/season/episode/type; phase completed and next phase; source paths, hashes or equivalent revision IDs; which recording windows and exports were actually reviewed; computed-versus-pending comparisons; files created/edited; unresolved evidence and immediate next action. Prefer `local/episode-analysis/<campaign-and-id>.json` when a local filesystem can write private untracked files. If that route is unavailable, use a clearly marked, short `Research progress (provisional)` section in the existing/new episode dossier; create it inside an existing permitted directory when necessary. Do not claim that an in-chat summary or a failed/unavailable checkpoint was saved. Minimize checkpoint writes to phase boundaries or an imminent stop; do not repeatedly rewrite a large dossier per transcript chunk. Once complete, mark the checkpoint complete or remove a temporary in-dossier progress section without erasing research evidence.
+
+**Restart rules:** Inspect current status/checkpoint before reading any full SRT. Verify stored source hashes/revisions and the relevant existing outputs; reuse an already-computed comparison and evidence map if still valid. If sources changed, invalidate only dependent phases. If concurrent edits changed an output, reconcile that narrow area rather than clobbering it. For earlier incomplete work (including an existing dossier and report), continue the missing phase instead of starting over. A provisional partial source review must not be described as full-episode coverage.
+
+### Remote-call and context budgets
+
+- Plan for **roughly 25 remote connector calls per invocation**, counting actual calls even when batched; this is an operational soft budget, not a reason to omit evidence. Stop at a safe checkpoint rather than starting a stage that cannot reasonably finish. For large source reads, checkpoint after a bounded set of recording-clock windows and resume the next window in a later invocation.
+- Prefer **1–2 concurrent remote calls** (never more than 3 by default); keep sequential read/modify/readback operations on the same file. Limit transient error retries to one before checking the cause or switching to another valid route. Record call latency/size when measurable; do not invent timing data.
+- Read one exact directory/prefix or file range instead of a repository-wide text scan. Prefer locally parsed SRTs, reusable source inventories, existing comparison artifacts and targeted timed excerpts over repeatedly moving entire exports through a high-latency connector. If the only route is chunked MCP binary reads, use the largest safe supported chunk with bounded recording-clock coverage and verify complete extraction.
+- For large indexes, ledgers, narrative chapters and character files, inspect only the relevant headings and narrow change context; make one well-scoped replacement per changed section, not many micro-edits. Re-read changed passages for verification rather than fetching whole documents repeatedly. Do not fetch the same bytes through GitHub and MCP merely to exercise both routes.
+- Keep an impact list before editing: **required core outputs**, **materially affected reference files**, **optional later consolidation**. An episode should not touch every character, place, index, and summary just because they exist. Explicitly defer nonessential editorial cleanup rather than silently skipping required canon corrections.
 
 **Prefer local working-tree edits** when that checkout is current; direct patches and supported MCP edits are both valid. Do not silently commit, push, rebase or overwrite unrelated work. GitHub read access does not authorize remote writes. Keep each `replace_workspace_text` small, with a **unique old_text anchor**, and do reads/edits **sequentially for the same file**. A denied, ambiguous, missing or stale replacement is **not** a success: re-read the narrow affected range, retry only with an actually corrected unique anchor, or switch to an available authorized write route. Report a blocker only if no viable route remains.
 
-The MCP repository collection may have high end-to-end latency. Avoid dozens of micro-requests when one safe well-scoped replacement is sufficient:
-- Work in **bounded slices**: (A) sources + evidence map, (B) dossier + ASR report, (C) chronology/ledger/narrative, (D) affected profiles + navigation, (E) verification.
-- Keep parallel remote calls **small (typically 2–3 maximum)**, and don't launch a dozen concurrent reads for final verification.
-- Usually obtain Git status at start and end; repeat when needed to resolve concurrent changes. Re-read changed passages rather than every long file. If remote performance degrades, switch to viable direct/other access and finish the required updates. If no route can finish, preserve the core dossier/report and clearly list remaining work as incomplete.
-- For new nested folders, the local MCP `create_workspace_file` requires an existing Git-tracked parent directory. Use direct filesystem creation when available, or another supported authorized mechanism. If all available writes are restricted, supply a reviewable patch or draft and explain which files/directories still need applying; do not claim they exist.
-- If local MCP checks only support **InfinityDB-specific** commands, **do not run them as The Wastes test suite**.
+For new nested folders, the local MCP `create_workspace_file` requires an existing Git-tracked parent directory. Use direct filesystem creation when available, or another supported authorized mechanism. If all available writes are restricted, supply a reviewable patch or draft and explain which files/directories still need applying; do not claim they exist. If local MCP checks only support **InfinityDB-specific** commands, **do not run them as The Wastes test suite**.
 
 ## 6. Validation and final response
 

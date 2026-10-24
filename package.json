@@ -5,7 +5,10 @@
   "description": "Repository-local documentation validation tools",
   "scripts": {
     "lint:markdown": "node scripts/lint-markdown.mjs",
-    "lint:markdown:fix": "node scripts/lint-markdown.mjs --fix"
+    "lint:markdown:fix": "node scripts/lint-markdown.mjs --fix",
+    "lint:python": "python -m ruff check .",
+    "typecheck:python": "python -m pyright",
+    "check:python": "npm run lint:python && npm run typecheck:python"
   },
   "devDependencies": {
     "markdownlint": "0.42.0"

@@ -39,7 +39,7 @@ def source_entry(run, words, role='aligned'):
 def candidate(episode, participants, kind, evidence, scope=None):
     words = [w for _, ws in participants for w in ws]
     start, end = bounds(words)
-    if scope is not None and start is not None:
+    if scope is not None and start is not None and end is not None:
         start, end = max(start, scope[0]), min(end, scope[1])
         if end < start:
             start, end = scope
@@ -106,7 +106,7 @@ def compare(runs, primary, drift_ms=2000, max_tokens=192, window_ms=30000, compa
         for rec in anomalies(run):
             scope = comparison_coverage_ms
             in_scope = scope is None or rec['start_ms'] is None
-            if not in_scope:
+            if not in_scope and scope is not None:
                 in_scope = (rec['end_ms'] >= scope[0] and rec['start_ms'] <= scope[1]
                             or scope[0] <= run.coverage_ms[1] <= scope[1] and rec['end_ms'] > run.coverage_ms[1]
                             or scope[0] <= run.coverage_ms[0] <= scope[1] and rec['start_ms'] < run.coverage_ms[0])

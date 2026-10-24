@@ -10,7 +10,6 @@ import hashlib
 import json
 import re
 from collections import Counter
-from pathlib import Path
 from rapidfuzz.distance import Levenshtein
 from build_transcripts import ROOT,parse_srt
 
@@ -74,4 +73,5 @@ def main():
               'speaker-id word mismatches Q4-Canary',v['q4_versus_canary']['speaker_id_mismatched_word_positions'])
     return comparison
 
-if __name__=='__main__':main()
+if __name__=='__main__':
+    main()

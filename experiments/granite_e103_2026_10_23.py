@@ -6,6 +6,7 @@ import json
 import random
 import re
 import sys
+from typing import Any
 
 ROOT = Path(__file__).resolve().parents[1]
 sys.path.insert(0, str(ROOT / 'tools'))
@@ -35,7 +36,7 @@ def main():
                                   ('qwen', 'qwen-q8.canary-ctc.nemotron.srt'),
                                   ('granite', 'granite-plus-q4.canary-ctc.nemotron.srt')]}
     loaded = {k: read(p) for k, p in paths.items()}
-    result = dict(date='2026-10-23', episode='The Wastes S1E103', audio_verified=False,
+    result: dict[str, Any] = dict(date='2026-10-23', episode='The Wastes S1E103', audio_verified=False,
                   new_asr_execution=False, model_metadata='Filename labels only; builds, settings, runtime and hardware unknown.',
                   method='Chronological cue text; strip speaker labels; lowercase; delete apostrophes; split on non-Unicode-alphanumeric characters; exact ordered unit-cost word Levenshtein. Not audio WER.',
                   distance_validation='200 seeded random sequence pairs checked against scalar dynamic programming.',
@@ -82,7 +83,7 @@ def main():
         return t_artifact.sub('', speaker_artifact.sub('', text))
     gc = cues['granite']
     cleaned = tokens(' '.join(clean(c.text) for c in gc))
-    result['annotation_sensitivity'] = dict(
+    annotation_sensitivity: dict[str, Any] = dict(
         method='Analysis-only removal of case-sensitive Speaker N and optional-bracket T: number markers, including incomplete T: fragments. No number/URL spelling conversion or repetition removal; original sources unchanged.',
         speaker_marker_occurrences=sum(len(speaker_artifact.findall(c.text)) for c in gc),
         t_marker_occurrences=sum(len(t_artifact.findall(c.text)) for c in gc),
@@ -94,7 +95,8 @@ def main():
                        rate=distance(loaded[k][2], cleaned)/len(loaded[k][2]))
                for k in ('parakeet', 'qwen')},
         repeated_i_cues=[c.idx for c in gc if 8590000 <= c.start < 8622000
-                         and clean(c.text).strip() == 'I'])
+                          and clean(c.text).strip() == 'I'])
+    result['annotation_sensitivity'] = annotation_sensitivity
     for start in range(0, max(v[0]['last_end_ms'] for v in loaded.values()), 600000):
         text = {k: ' '.join(c.text for c in cc if start <= c.start < start+600000)
                 for k, cc in cues.items()}

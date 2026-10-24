@@ -3,8 +3,7 @@
 from __future__ import annotations
 import json
 import re
-from pathlib import Path
-from build_transcripts import FILES, ROOT, display_name, parse_srt
+from build_transcripts import FILES, ROOT, parse_srt
 
 
 def main():
@@ -31,10 +30,13 @@ def main():
     bad=[]
     for md in markdown:
         for url in re.findall(r'\[[^]]+\]\(([^)]+)\)',md.read_text(encoding='utf-8')):
-            if url.startswith(('http:','https:','#','mailto:')): continue
+            if url.startswith(('http:','https:','#','mailto:')):
+                continue
             target=(md.parent/url.split('#',1)[0]).resolve()
-            if not target.exists(): bad.append((md.relative_to(ROOT).as_posix(),url))
+            if not target.exists():
+                bad.append((md.relative_to(ROOT).as_posix(),url))
     assert not bad, f'Broken relative links: {bad}'
     print(f'PASS links: {len(markdown)} Markdown documents')
 
-if __name__=='__main__': main()
+if __name__=='__main__':
+    main()

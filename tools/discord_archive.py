@@ -16,6 +16,7 @@ import shutil
 import sqlite3
 import sys
 import tempfile
+from typing import Any
 
 ROOT = Path(__file__).resolve().parents[1]
 DEFAULT_INDEX = ROOT / "local/discord/research.sqlite"
@@ -235,7 +236,7 @@ def ingest(source, index=DEFAULT_INDEX, downloads=None, fallback=False):
         channels = {str(r["id"]): dict(r) for r in src.execute("SELECT * FROM channels")}
         users = {str(r["id"]): dict(r) for r in src.execute("SELECT * FROM users")}
         # IDs are strings in all JSON, including nested source metadata.
-        def strings(obj):
+        def strings(obj) -> dict[str, Any]:
             return {k: str(v) if v is not None and (k == "id" or k == "server" or k.endswith("_id")) else v
                     for k, v in obj.items()}
         relations = {t: grouped(src, t) for t in ("message_replied_to", "message_edit_timestamps",

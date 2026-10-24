@@ -9,12 +9,14 @@ import hashlib
 import json
 import re
 import sys
+from typing import Any
 from urllib.parse import quote
 
 ROOT = Path(__file__).resolve().parents[1]
 sys.path.insert(0, str(ROOT / 'tools'))
 from asr_alignment import align
 from asr_evidence import TOKEN, Word, normalized
+from asr_metrics import distance, tokens
 from audit_sources import audit_srt
 from build_transcripts import parse_srt
 
@@ -36,7 +38,10 @@ def coverage_register():
         key = dossier.stem
         inverse = dossier.parent.parent.name == 'inverse'
         if inverse:
-            season, episode = re.fullmatch(r'S(\d+)E(\d+)', key).groups()
+            match = re.fullmatch(r'S(\d+)E(\d+)', key)
+            if match is None:
+                raise ValueError(f'Invalid Inverse episode ID: {key}')
+            season, episode = match.groups()
             prefix = f'Inverse S{int(season)}E{int(episode)}. '
             report_key = 'INVERSE_' + key
             identity = 'Inverse ' + key
@@ -90,41 +95,6 @@ def coverage_register():
     (ROOT / 'reports/ASR_COMPARISON_COVERAGE_2026-10-23.md').write_text(
         text + '\n'.join(rows) + '\n', encoding='utf-8')
     print('Coverage:', dict(counts), flush=True)
-
-
-def tokens(text):
-    """Established report normalization; deliberately distinct from alignment."""
-    text = text.lower().replace("'", '').replace('’', '')
-    return ''.join(c if c.isalpha() or c.isdigit() else ' ' for c in text).split()
-
-
-def distance(a, b):
-    """Exact unit-cost ordered Levenshtein using arbitrary-width bit vectors.
-
-    No anchors, time buckets, band limits or approximate cutoffs affect this
-    metric. The separate time-aware alignment only locates review candidates.
-    """
-    if len(a) > len(b):
-        a, b = b, a
-    if not a:
-        return len(b)
-    masks = {}
-    for i, word in enumerate(a):
-        masks[word] = masks.get(word, 0) | (1 << i)
-    positive, negative, score = ~0, 0, len(a)
-    high = 1 << (len(a) - 1)
-    for word in b:
-        equal = masks.get(word, 0)
-        vertical = equal | negative
-        horizontal = (((equal & positive) + positive) ^ positive) | equal
-        plus = negative | ~(horizontal | positive)
-        minus = positive & horizontal
-        score += bool(plus & high) - bool(minus & high)
-        plus = (plus << 1) | 1
-        minus <<= 1
-        positive = minus | ~(vertical | plus)
-        negative = plus & vertical
-    return score
 
 
 def read(path):
@@ -185,7 +155,7 @@ def compare_episode(episode):
 
 
 def main():
-    result = dict(date='2026-10-23', audio_verified=False, new_asr_execution=False,
+    result: dict[str, Any] = dict(date='2026-10-23', audio_verified=False, new_asr_execution=False,
                   scope=list(EPISODES), access='Direct local checkout; portable paths and SHA-256 below.',
                   pairing='Corrected archive ID, title and corresponding introductory text; original '
                           'audio identity and recording-clock equivalence remain unverified.',

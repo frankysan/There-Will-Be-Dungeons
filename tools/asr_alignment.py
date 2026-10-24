@@ -75,7 +75,7 @@ def edit(a, b, drift, stats):
     stats['dp_cells'] += n * m
     stats['max_dp_cells'] = max(stats['max_dp_cells'], n * m)
     cost = [[0.0] * (m+1) for _ in range(n+1)]
-    back = [[None] * (m+1) for _ in range(n+1)]
+    back: list[list[tuple[int, int, str] | None]] = [[None] * (m+1) for _ in range(n+1)]
     for i in range(1, n+1):
         cost[i][0], back[i][0] = i, (1, 0, 'possible_omission')
     for j in range(1, m+1):
@@ -102,7 +102,9 @@ def edit(a, b, drift, stats):
     result = []
     i, j = n, m
     while i or j:
-        di, dj, kind = back[i][j]
+        step = back[i][j]
+        assert step is not None  # Every non-origin cell has a predecessor.
+        di, dj, kind = step
         result.append((kind, a[i-di:i], b[j-dj:j], []))
         i, j = i-di, j-dj
     return list(reversed(result))

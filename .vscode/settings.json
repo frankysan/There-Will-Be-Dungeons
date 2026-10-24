@@ -1,0 +1,5 @@
+{
+  "python.languageServer": "Pylance",
+  "python.analysis.diagnosticMode": "workspace",
+  "ruff.configuration": "${workspaceFolder}/pyproject.toml"
+}
