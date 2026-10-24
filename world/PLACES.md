@@ -56,4 +56,3 @@ The route arrows are **narrative transitions**, not claims that every transfer w
 **Tietkalla** has cast-written spelling support but related ASR forms **Teet/Trashburg** do not always denote precisely the same administrative area. **Dunebreaker** is not a contemporaneous Arc Five ship. The separate *Inverse* campaign and E043 holiday special are **not** physical regions in the Wastes timeline. Handout/map orthography may require checking against original imagery. [Image provenance](../project/IMAGE_ASSETS.md) · [Review queue](../project/REVIEW_QUEUE.md).
 
 The earlier, episode-appendix-rich [place index snapshot](../research/legacy/2026-10-22/PLACES_BEFORE_WORLD_REORGANIZATION_2026-10-23.md) and [original compendium](../research/legacy/2026-10-21/WORLD_PLACES.md) remain available for historical source tracing. [Portal](README.md).
-

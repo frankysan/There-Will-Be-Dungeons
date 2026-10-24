@@ -30,5 +30,3 @@ Git blob identifiers: Parakeet `6dc7b4298c240c6dd88bafdd98a6fa9bbd20840d`; Qwen 
 | 02:37–02:40 | Hope's ring Gate returns all four to Tobacho's tavern | Actual departure from Pandemonium and arrival in Sigil |
 
 **High-value audio checks:** names, meaningful fare and item custody, whether Hope's altered appearance reveals her patron to the serpent, the exact prison spelling/coordinates, possession of the wind-up compass and the completed return Gate. No audio checked. The host's preview of the next main-party session is **out-of-game**, not proof of its actual contents. Next corrected archive file has now been **verified** using the owner's numbering snapshot and both binary source inventories: [E114 — I hope that's a baby (Parakeet)](../sources/The%20Wastes%20S1E114.%20I%20hope%20that%27s%20a%20baby.parakeet.processed.srt) · [Qwen](../sources/The%20Wastes%20S1E114.%20I%20hope%20that%27s%20a%20baby.qwen-q8.canary-ctc.nemotron.srt). Owner publication identifier **TWBD 116**, date **August 10, 2020**; episode **not yet analyzed**.
-
-

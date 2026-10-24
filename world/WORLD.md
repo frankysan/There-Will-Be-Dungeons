@@ -49,4 +49,3 @@ The **E081** ending really declares the four dead after the beam sacrifice; **E0
 Use a single subject page for biography, ownership, local politics, mechanisms and open questions. Record **direct observations**, **GM exposition**, **retrospective authorial notes**, **NPC testimony**, **private visions**, **unverified ASR**, **owner-confirmed spellings** and **unplayed alternatives** as distinct kinds of evidence. A later revelation should not erase the earlier cutoff; the [consistency ledger](CONSISTENCY_LEDGER.md) and [review queue](../project/REVIEW_QUEUE.md) track unresolved details.
 
 The complete former thematic text is [preserved as a dated snapshot](../research/legacy/2026-10-22/WORLD_BEFORE_WORLD_REORGANIZATION_2026-10-23.md), alongside [older world-history research](../research/legacy/2026-10-22/WORLD_HISTORY.md). The archived texts retain source granularity; the current reference is intentionally shorter.
-

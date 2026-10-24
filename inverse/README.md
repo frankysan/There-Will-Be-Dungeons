@@ -17,6 +17,7 @@
 | [S1E03 processed SRT](../sources/Inverse%20S1E3.%20Inverse%20Part%203.parakeet.processed.srt) | Part 3's **reviewed-as-text but not audio-verified** ASR source |
 | [S1E04 processed SRT](../sources/Inverse%20S1E4.%20Inverse%20Part%204.parakeet.processed.srt) | Final episode's **reviewed-as-text but not audio-verified** ASR source |
 | [October 2019 Q&A](../episodes/BONUS-2019-10.md) | Later cast/GM commentary on *Inverse*, **not Wastes canon and not another played scene** |
+| [January-publication 2021 cast Q&A](../episodes/BONUS-2021-01.md) | Jon describes a **possible, unperformed future conclusion** requiring Beau's Baffo and the full cast. Affectionate Garpoon portal banter is hypothetical. Inverse S1E04 remains its latest actually played cutoff, with unresolved fictional threads |
 | [July-publication 2020 Q&A](../episodes/BONUS-2020-07.md) | Jon reflects that **Nothing**, an action-oriented assassin, felt mismatched to the M-sports-heavy portions of *Inverse*; this is **retrospective character-selection regret**, not new Inverse play or a link to Wastes canon |
 | [Editorial guide](../project/EDITORIAL_GUIDE.md) | General source-confidence and strict campaign-separation rules |
 

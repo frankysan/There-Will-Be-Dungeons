@@ -57,4 +57,3 @@
 ## How to read these pages
 
 A subject profile owns changing status, relationships and significant events; do **not** append an E### digest to this directory for every newly processed recording. Always distinguish an earlier **reported death** from a later observed survivor, an **on-screen action** from a **plan or accusation**, and **GM/cast retrospective explanations** from what protagonists knew at the time. Performer labels are out-of-world credits: guest Carter Johnson played Eddie, Ben Bumhofer played Chance, and Beau GMed; a diarization label for Scott's character voice in E001 does not establish a sixth performer. [Workflow](../project/WORKFLOW.md) · [Decisions](../project/DECISIONS.md) · [Review queue](../project/REVIEW_QUEUE.md) · [World portal](README.md).
-

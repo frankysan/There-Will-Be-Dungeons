@@ -107,4 +107,3 @@ His manufactured heart remains within him; the natural heart recovered from the 
 [^nash-status]: [E128](../../episodes/E128.md) closes Arc Five/Season One after the peaceful overnight rest, with the four PCs formally advanced to level 13. Main status: Nash on Earth by [Villa Ornath](../places/villa-ornath.md); family and natural heart aboard Mars-bound transports. The E125 crash suspense, E126 mercenary fall, and E128 execution are separate cutoffs. [E128 dossier](../../episodes/E128.md).
 
 [^nash-open]: Current provenance is **processed ASR, not independently listened-to audio**, through corrected E128. Nash's body history, engineered heart, N4SH/alternate selves, family's Mars arrival and infant Nash Junior sex/name assignment remain open. [Review queue](../../project/REVIEW_QUEUE.md) · [consistency ledger](../CONSISTENCY_LEDGER.md) · [original biography before the in-universe pass](../../research/legacy/NASH_MAGGARD_PRE_IN_UNIVERSE_PASS_2026-10-24.md).
-
