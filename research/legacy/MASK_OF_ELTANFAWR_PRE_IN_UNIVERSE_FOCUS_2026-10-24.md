@@ -1,0 +1,29 @@
+# Mask of Eltanfawr — jeweled mask and spelljammer interface
+
+**Preferred name:** **Mask of Eltanfawr**, selected by the archive owner on 2026-10-24. **Earlier transcriptions/search aliases:** Mask of Elton IV, Elton Four, Eltenvor, Elton IV/Eltanfawr. This is an **editorial spelling decision**, not independently verified pronunciation or written GM item text. **First appearance:** [E118](../../episodes/E118.md) · **Latest researched status:** E128, end of *The Wastes* Season One · **Continuity:** Arc Five · **Evidence:** processed ASR, not audio-verified.
+
+**Browse:** [Items and artifacts](../../world/ITEMS_AND_ARTIFACTS.md) · [Stanley Billings](../../world/characters/stanley-billings.md) · [Villa Ornath](../../world/places/villa-ornath.md) · [Book of Adjacencies](../../world/technology/book-of-adjacencies.md).
+
+## Introduction — at discovery (E118)
+
+In his father's newly opened **third-floor study inside Villa Ornath**, Stanley discovers an **obsidian-black mask decorated with jewels**, alongside the **Book of Adjacencies**, an Earth globe and star charts. The hidden study is accessed through a physical key left by **Dalit/Daliot Ornath (?)**, triggered by a poem Stanley remembers from childhood. The GM expressly instructs Stanley to **add the mask to his inventory**. At this stage, its full purpose is not explained to the characters and it is **not worn or activated**.
+
+The GM's initial item description presents a dangerous **“Peer into Plurality”** capability: apparently it can influence selected **d20 results** at an escalating psychic cost, with the first selection described as **30 psychic damage** and later selections doubling. The readout also mentions attunement over **four successful long rests while wearing it**, an unusual possible reset ingredient, and potentially severe restrictions on revival after death caused by the mask. These are **reported item mechanics, not demonstrated effects or independently recovered official item text**; their precise wording and conditions need checking. [E118 dossier](../../episodes/E118.md) · [E118 ASR comparison](../../reports/E118_ASR_COMPARISON_2026-10-23.md).
+
+## Development by arc
+
+### Arc Five — discovery, control revelation and interrupted attunement (E118–E128)
+
+**E118 — acquisition, no activation.** Stanley takes custody while exploring his father's study with Hope. The mask is described as magically fitting a wearer despite having no ordinary straps; no ability, psychic damage, attunement completion or resurrection consequence is played. The father's writing about time and the Weir remains his **speculation**, not a proven explanation for the mask. [E118](../../episodes/E118.md).
+
+**E126 — the hidden purpose becomes apparent.** After **Elhandar crashes onto Earth**, the protected study of [Villa Ornath](../../world/places/villa-ornath.md) preserves the household. Stanley asks his father's responsive journal about the cottage. The journal identifies the dwelling as a **disguised spelljammer**, with the mask as its **telepathic command interface**. Stanley **actually puts it on** and reshapes it as a narrow pointed face covering with **eight repositionable chromatic gems**.
+
+The journal/GM describes capabilities including **flight, travel through space, shrinking the entire villa and its occupants to dime size**, and a vessel configuration said to supply air. Stanley attempts to make the cottage lift by mental command, but it **only creaks and resists**: the interface reportedly requires **four consecutive nights of attunement or trust**. **No successful flight, shrinking, vessel conversion or space travel occurs.** The exact relationship between that condition and E118's **four successful long rests** remains uncertain. The earlier *Peer into Plurality* ability is **not the same as a demonstrated successful flight control**. [E126](../../episodes/E126.md) · [comparison](../../reports/E126_ASR_COMPARISON_2026-10-24.md).
+
+**E128 — more time is discussed, not completed.** After the fall of Elhandar and the departure of surviving Elhandari ships toward Mars, the original four companions remain on Earth near the still-intact villa. **Stanley has not completed the mask's required attunement**. Spending roughly three more days on site is suggested, but only **one peaceful overnight rest is actually adjudicated by the finale**. They do not fly Villa Ornath, shrink it or travel with it to Mars. [E128](../../episodes/E128.md).
+
+## Current status — end of Season One (E128)
+
+**Known holder:** Stanley Billings, who acquired the mask in E118 and physically donned it in E126. **Known location:** with Stanley and the party near **Villa Ornath on Earth's desert surface**; there is no depicted transfer to another owner. **Attunement:** still incomplete at the E128 cutoff; the villa is **not proven flyable or controllably shrinkable yet**. ***Peer into Plurality*** has not been used in play.
+
+**Outstanding research:** the precise written item name/pronunciation, details of the two differently phrased four-rest/four-night requirements, the psychic-damage/reset/death clauses, any relationship between the apparent spelljammer mode and the separate d20-manipulation power, and what future successful operation would actually accomplish. **Eltanfawr remains the owner's preferred spelling even while those mechanics await audio/item-card verification**. [Consistency ledger](../../world/CONSISTENCY_LEDGER.md) · [review queue](../../project/REVIEW_QUEUE.md) · [E118 dossier](../../episodes/E118.md) · [E126 dossier](../../episodes/E126.md) · [E128 dossier](../../episodes/E128.md).
