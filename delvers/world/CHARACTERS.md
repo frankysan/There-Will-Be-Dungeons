@@ -1,12 +1,12 @@
 # Delvers — characters
 
-**Spoilers through S2E10 — Carrie's ancient lore lecture, Anthela physically wakes from Khalazar psychic prison and silver remains pending, first Delvers arc already complete**. Evidence: ASR-provisional. Working player-character spellings use the [written-source register](../../reports/DISCORD_SPELLING_2026-10-21.md); voice, exact utterances and historical sheet state remain unchecked. No later nicknames or surnames are backdated.
+**Spoilers through S2E11 — Silver league knight names and scores, Anthela physically reunited at home, five temple patients reportedly awake, Khalazar only projection defeated, first Delvers arc already complete**. Evidence: ASR-provisional. Working player-character spellings use the [written-source register](../../reports/DISCORD_SPELLING_2026-10-21.md); voice, exact utterances and historical sheet state remain unchecked. No later nicknames or surnames are backdated.
 
 | Character | Performer / introduction | Reference |
 | --- | --- | --- |
-| Krandal Splenderbelt | Scott; half-orc cleric, insists on Splenderbelt or Sir Splenderbelt until familiar | [Profile](characters/krandal-splenderbelt.md) |
-| Koh Spiros | Jon; satyr rogue, observes quietly and collects proof of kills | [Profile](characters/koh-spiros.md) |
-| Evelyn Grinkeeper | Kristen; human paladin with a dwarven warhammer, impatient to close the dungeon | [Profile](characters/evelyn-grinkeeper.md) |
+| Krandal Splenderbelt | Scott; half-orc cleric, official Silver knight **Splenderbelt the Efficient**, exam **B/S/C** | [Profile](characters/krandal-splenderbelt.md) |
+| Koh Spiros | Jon; satyr rogue, official Silver knight **One Shot**, exam **S/A/A** | [Profile](characters/koh-spiros.md) |
+| Evelyn Grinkeeper | Kristen; human paladin, official Silver knight **Grinkeeper the Defender**, exam **S/S/A** | [Profile](characters/evelyn-grinkeeper.md) |
 
 ## Guild people and reported absences
 
@@ -51,8 +51,9 @@ These short entries derive from [S1E01](../episodes/S1E01.md); NPC spellings rem
 | Captain Autumn Dew, Limwick Hooper and Fresna Goodwine | Wedding captain, groom and bride; **marriage celebration proceeds**; names ASR-phonetic. [Estate](places/hooper-estate.md) |
 | [Margaret Dupayton](characters/margaret-dupayton.md) | Loyal roommate: maintains **Nolzur's painted sick-bed decoy for two weeks**, causing **Lord/Lady *Blackwood* (explicit S2E03 correction of S2E01 Blackwater ASR)** to send physician; Evelyn begins telling her private story, **not narrated**. Bag of Hammer Holding creator |
 | [Chuck Abnaz / Nasty](characters/chuck-abnaz.md) | Satyr **Cloven Brotherhood** ex-associate of Koh; **paid wife's doctors** then demanded fee/forgery return, with three associates. **Koh later consents to plan Withers Estate raid as psychic coordinator under pressure**; Cassius secretly funds, no break-in yet |
-| [Anthela Spiros](characters/anthela-spiros.md) | **Koh's wife**, was unconscious and leaking black slime in S2E09, but **actually PHYSICALLY AWAKENS in S2E10** after Krandal's in-dream Remove Curse and embraces Koh in Carrie's lab; no proven permanent Khalazar defeat |
-| [Khalazar](characters/khalazar.md) | **Undying Majesty, antagonist inside Anthela's dream**; white-haired porcelain elf carried by enormous bat, then **sand-wrapped luminous-maw figure**; shatters into black sand but **actual real-world death unconfirmed**. RED crystal fragment goes physically to Carrie. [S2E10](../episodes/S2E10.md) |
+| [Glepo Ma](characters/gleepo-ma.md) | Pink-purple kuo-toa with blue fins and feathered hat; **actually hired to tend Krandal's farm S2E11**, eats crop vermin, banishment claim NPC testimony |
+| [Anthela Spiros](characters/anthela-spiros.md) | **Koh's wife physically awakes S2E10**, then **returns home and reunites with Penelope S2E11**, walks/cooks and learns Koh's adventurer/Chuck past; still fatigued, Khalazar's fate unresolved |
+| [Khalazar](characters/khalazar.md) | **Undying Majesty**; GM calls the S2E10 defeated forms a **SHADE/PROJECTION**, not real-world death. Shard **Carrie handoff S2E10 / Evelyn holding S2E11, unresolved**. [S2E11](../episodes/S2E11.md) |
 | [Marsh](characters/marsh.md) | **Guest Garrett's silver-ranked wood-elf dragon hunter**, scarred left face and partly missing ear, dragon-bone bow, **Wheatley weasel**, **Arrow of Dragon Slaying from Skoogie**; **Chath Peak red dragon alive** at S2E08 cutoff |
 | [Skoogie](characters/skoogie.md) | **Kobold shaman** with bell, feathered headdress and caged lizard; leads secret lava-tube route, grants temporary HP, burnt but **healed by Evelyn**, seeks rule restored; no dragon kill yet |
 | [Ambermoor](characters/ambermoor.md) | **Elf, Gemholm operations manager** implicated by diaries in deliberate chaos-gem phage experiments; **actually captured alive by Koh**, bound/gagged and taken to Krandal's farm; **no guild handoff or trial yet**. [S2E07](../episodes/S2E07.md) |

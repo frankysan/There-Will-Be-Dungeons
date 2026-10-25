@@ -18,7 +18,11 @@ The disturbance does not end with the hall of penance. Carrie joins Evelyn and h
 
 The temple's trouble becomes personal when Brother Maynard reveals that two elves cannot be awakened. One had been meant to officiate the wedding Krandal performed in his stead; the other fell ill in the sanctuary. Neither yields to the ordinary restorative aid tried by the priests. Krandal notices a recurring finger-tap in the first man's still hand and copies it down without discovering its meaning. The next morning he searches Elven military and lantern codes in the guild's library, bringing a possible old word back to Evelyn, who recognizes a **funeral dirge**; the sleepers' intended warning or request nevertheless remains unknown. Maynard, softened by the cleric's concern, gives him an old amulet of devotion said to have come from the temple's ancient founder. Krandal accepts it and puts it on.[^brothers]
 
-## Current status through S2E09
+## S2E11 — all five elves reportedly awake
+
+**Brother Maynard actually runs to intercept Krandal as the Delvers travel to their Silver League examinations** and reports **ALL FIVE unconscious elf patients (including Rianu Keeves) are now PHYSICALLY AWAKE AND HAVE DEPARTED TEMPLE**. He says **Keeves was first to wake the PREVIOUS MORNING**, and GM confirms this corresponds with **Anthela's rescue from Khalazar in S2E10**. **This is Maynard's NPC testimony; the Delvers do NOT personally visit/medically check the five in this episode**. It does **NOT prove destruction of the real Khalazar**; the GM calls the defeated form a shade/projection in S2E11 opening. [S2E11](../../episodes/S2E11.md), ~01:13–01:15. Preserve **S2E09 still comatose at that earlier cutoff**.
+
+## Earlier status through S2E09
 
 **A ward now holds five unconscious elves (including Rianu Keeves), with capacity for roughly fourteen patients**, and clerics rotate/tend them while each holds Pelor symbol. Koh **actually establishes Psychic Whispers link among himself, Krandal and Keeves**. In Keeves's **mental projection** he trains as a royal guard for Khalazar's wedding. Krandal **casts Command and then Lesser Restoration WITHIN projection**, briefly clears guard hallucinations and restores Keeves's real-world memory, **but his physical body remains comatose** and false training resumes after relief. **No lasting cure, temple-wide recovery or original altar answer established**; Carrie subsequently **suggests Remove Curse**, which has **not been cast**. [S2E09](../../episodes/S2E09.md), ~01:42–02:08.
 

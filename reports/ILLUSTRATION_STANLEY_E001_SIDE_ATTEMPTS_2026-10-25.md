@@ -1,0 +1,44 @@
+# Stanley Billings — E001 side-view attempt and continuity review (2026-10-25)
+
+**Campaign:** The Wastes · **Subject:** `WASTES-STANLEY-BILLINGS` · **Appearance state:** `WASTES-STANLEY-BILLINGS-A01` (E001) · **Sheet:** `WASTES-STANLEY-BILLINGS-DS-001`.
+
+**Status:** `FACE_APPROVED` and `FRONT_APPROVED` remain unchanged; `SIDE_DRAFTING / REVISION_NEEDED`. **No side image was owner-approved, normalized, registered, or approved as an anchor.** No back/final sheet approval.
+
+## Prerequisites verified before generation
+
+The repository contains both approved anchor files:
+- `illustrations/references/Stanley_Billings_E001_Face_v1_1024_sRGB.png`: **1,305,953 bytes**, SHA-256 `3c315ea76096eb4253ba8504a0209e48fe00fc3dfab3d691d8d22e97630d1e4d`.
+- `illustrations/references/Stanley_Billings_E001_Front_v1_1024_sRGB.png`: **1,067,778 bytes**, SHA-256 `95b535fe5ccdc19ebde882d3725f24dd228da661288abfddf8a6fce75c1a8b0f`, 1024×1024 RGB PNG with embedded ICC, byte-identical to the accepted and separately color-verified sRGB session normalization. On this invocation the front was promoted to `FRONT_APPROVED` after repo readback. Source/artistic outfit decisions documented in [accepted front report](ILLUSTRATION_STANLEY_E001_FRONT_ANCHOR_2026-10-25.md).
+
+**Intended view:** Exactly one neutral, head-to-boot **subject-left full-body side profile**, preferably looking toward viewer-right so the rapier carried at his *own* left hip is visible. It must preserve the front anchor's worn undecorated brown long coat, olive/dark-umber plain buttoned vest, open off-white collar, dark trousers, strapped tall boots, modest brass buckle, visible pocket geometry, short-to-medium swept wavy brown hair, curled moustache, goatee, skin/eye palette. A **single fully sheathed rapier**, appropriately attached at his own left hip. Plain warm-grey background. No front/back views or explanatory typography. The house graphic-novel style v2 and production 1024-square sRGB requirement remain absolute.
+
+## Actual attempt S01 — unapproved and noncompliant
+
+- **Image generation ID:** `9f187365-ebef-484e-89f4-ac5df4dabeb9`.
+- **Generated session PNG:** `/mnt/data/a_clean_studio_style_illustration_character_concep.png` (not a repository asset).
+- **Technical inspection:** **1254×1254 RGB PNG**, **1,815,716 bytes**, SHA-256 `585cd881bb5a3776797ba9cc19ba4963787c3487b81a6d6bdbbe44d2867398e1`; **no embedded ICC profile**. This cannot be entered into the project's 1024×1024 sRGB anchor register unchanged.
+- **Composition:** One entire standing profile, no surrounding panels/labels; character faces **viewer-left**, not the planned viewer-right orientation. The visible subject-side anatomically requires independent confirmation rather than assuming this is the **subject-left** profile.
+- **Visual continuity failures compared with the approved front:** plain olive/dark-umber vest becomes **red patterned/brocade**; coat acquires **gold piping, brass decorative buttons and shoulder ornamentation**; newly present **chest strap, large black vambrace/glove and additional belts/pouches**; hair grows longer at the nape; boots have additional large upper straps. The rapier appears **partly exposed/unsheathed**, with a prominent drawn-looking silver tip and no clearly continuous, convincing plain scabbard/sheath. None of these additions are approved E001 source descriptions or accepted front-view costume details.
+- **Reference conditioning:** Approved face/front images were inspected and their exact repository hashes checked by the assistant, but the renderer's actual visual reference conditioning is **not verifiable** in this invocation. Do not claim their pixels were actually passed to the image model. The returned generation metadata provided an empty `prompt`; do not assert the immutable style block reached the renderer verbatim.
+- **Decision:** **REJECT / REVISION_NEEDED**, despite a technically clear single standing silhouette. Do not owner-approve, normalize for production, register under `illustrations/references/`, or derive a side anchor from this image. Preserve it only as a dated failed attempt.
+
+## Correction attempt S02 — tool error
+
+A focused follow-up image correction was attempted after identifying the garment, hair, and sword continuity faults. The image generator returned **an error and no new usable image**. The generator explicitly forbade another retry until a new request. Therefore **no correction was generated**, and no unapproved or extra image was presented as a completed side view.
+
+## Next valid action
+
+On a **new user invocation**, generate/edit only **one single subject-left profile** matching the **actual approved** face/front design, with no red vest, gold trim, shoulder harness, gloves/arm guards, new pouches, extra boot straps or exposed rapier. Keep the original front's plain coat, vest, button counts/materials, left-hip sheathed rapier and proportions, and inspect left/right orientation carefully. Before promoting to `SIDE_APPROVED`: get explicit owner visual acceptance; export and inspect **1024×1024 sRGB PNG**; place exact approved derivative in repo; re-read SHA-256 and ICC; record approval for exact version. **Do not** advance to back, sheet assembly or later-scene illustration before the side gate passes.
+
+## New invocation — repeat profile attempts S03 and S04 (2026-10-25)
+
+On a new explicit user request, `$twbd-illustration-generate Wastes "Stanley Billings" E001 design-sheet side`, the two approved reference PNGs were **again found and independently hash-verified** via the workspace binary reader. Face and front exact hashes stayed `3c315ea76096eb4253ba8504a0209e48fe00fc3dfab3d691d8d22e97630d1e4d` and `95b535fe5ccdc19ebde882d3725f24dd228da661288abfddf8a6fce75c1a8b0f`. The user-visible design direction specified **only a single strict full-body side figure**, plain brown coat, plain olive vest, off-white shirt, left-hip sheathed rapier and no later equipment. The renderer output **two new candidate images** but again did not preserve the chosen costume.
+
+- **S03**, image generation `d1d70c6e-470a-4ed5-9bb2-dbeef2efb498`, generated session file `/mnt/data/a_clean_studio_style_character_illustration_on_a.png`. Independently decoded as **1254 × 1254 RGB PNG**, **2,061,393 bytes**, SHA-256 `5c1101bfbba9ea86ea00b6416e1034cec01a97da3770951f1604e8d415a0daec`, **no ICC**. One left-facing full-body figure but **wrong outfit**: red patterned vest, extensive gold piping/decorative coat trim, black arm guard, gloves, extra belts and pouches; sword has a conspicuously exposed-looking bright blade/tip rather than clearly sheathed continuous scabbard. Hair is lengthened. **REJECT**.
+- **S04**, attempted focused correction, image generation `34ac72c6-b14c-4c90-a117-0583e2d32dce`, generated session file `/mnt/data/a_clean_high_quality_illustration_on_a_neutral_li.png`. Independently decoded as **1254 × 1254 RGB PNG**, **1,852,330 bytes**, SHA-256 `c59a7468b714cf824dd830ba4ecd263b3cb223f62a9c9d479e502c8e15f03ce8`, **no ICC**. Again one left-facing full-body figure, but **red patterned vest, gold-piped coat, large black vambrace/glove, additional pouch, and extra thick boot straps** remain; the tip is bright/unconvincingly sheathed. The model ignored the essential continuity correction; **REJECT**.
+
+Neither new draft fulfills the **1024-square, sRGB**, actual-approved-costume or physically consistent rapier requirement. The renderer returned no verifiable actual visual conditioning against the approved repository face and front; reported prompt metadata is empty. Do not normalize, add either draft to repo, mark `SIDE_VISUAL_ACCEPTED`, or advance to `BACK`. Repeat technical/stylistic failure across S01/S03/S04 now points to a **renderer-conditioning limitation** rather than a researched-character gap; the correct specifications and approved face/front are available. Before another attempt, the image generation method must demonstrably use the **actual approved front PNG** as conditioning (prefer targeted edit/reference preservation over fresh generic character synthesis) with a strict prohibition on changing its plain vest, coat details, ungloved hands, and sheathed sword. A visually different but coherent side design is **not** interchangeable with an owner-approved front design.
+
+**Current durable state:** `FACE_APPROVED`, `FRONT_APPROVED`, `SIDE_DRAFTING / REVISION_NEEDED`, no side/back/final owner approval. No new image registered and no existing approved art modified. **New validation:** both S03/S04 PNG technical checks and direct visible comparison **PASS as diagnostic**, but asset conformity **FAIL**. TWBD suite **NOT RUN**.
+
+**Earlier validation (S01/S02):** Generated candidate's PNG dimensions/ICC and SHA/byte count independently checked; image visually reviewed for continuity. Repo changes are text documentation only; no TWBD lint suite available through connected MCP; no claims of passing tests.

@@ -1,6 +1,6 @@
 # Delvers — places
 
-**Spoilers through S2E09 — completed dragon kill retrospective, Broscale Manor dinner and Khalazar mental investigation after first-arc finale S1E12.** Evidence: ASR-provisional; names awaiting listening are explicitly provisional.
+**Spoilers through S2E11 — all five temple patients reportedly awake, Silver League confirmed, Gleepo working at farm, Bronze Ball preparations after first-arc finale S1E12.** Evidence: ASR-provisional; names awaiting listening are explicitly provisional.
 
 | Place | Scope and reference |
 | --- | --- |
@@ -20,11 +20,11 @@
 | [Chath Peak](places/chath-peak.md) | **Volcanic red-dragon mountain** with narrow waterfall passage, kobold sacrifices, Skoogie's hidden path, **Radiant Lance clockwork forge/three controls**; **only Lava Off pressed**, dragon alive at S2E08 cutoff |
 | [Gemholm](places/gemholm.md) | Lake Absul sandbar gem-dredging settlement. **S2E06 actually reached via Gil/Gilkeel ferry**, burned escape boat/other damage, **Caleb dead, larva killed by Church, Hank Tom-like transformed foe killed by Evelyn**, S2E07 diaries implicate **Ambermoor's distilled chaos-gem phage**, **Church cured**, **Balmer/black Neko killed, Ambermoor captured alive**, **two adult offshore slaadi still missing**, Delvers shelter at Krandal farm |
 | [Hooper Estate](places/hooper-estate.md) | Wealthy **halfling mansion** with wedding lawns, small lake, tree line and Hooper family graveyard; **Wight Wedding completed, grandfather's wight defeated/buried**, body kept **Deck of Many Things**; black sludge at tree roots unexplained |
-| [Potato Grove](places/potato-grove.md) | **Krandal receives real deed**, visits weeded fields and ruined watchtower beside Noble Hollow; **sea hag dead, talking minotaur skull unearthed and mounted on scarecrow; Krandal actually plants potatoes/cleans irrigation; “Spud Buds” tentative name**; no complete building or harvest |
+| [Potato Grove](places/potato-grove.md) | **Krandal's unrebuilt riverside farm**; minotaur skull **Chad** watches, tools now delivered; **Glepo Ma (S2E11 ASR Gleepo) actually hired as gardener** in S2E11 for room/board and daily river baths. No completed building/harvest |
 | [Noble Hollow](places/noble-hollow.md) | Petrified tree and collapsed ritual clearing north of city; **Marek's midnight rite interrupted, roper killed, Faelan/Norman rescued alive** |
 | [Kuo-toa lakeshore village](places/kuo-toa-lakeshore-village.md) | Freshwater neighbors offered fish/pearls for peaceful guild inquiry; **Koh mistaken for god**, trader Glepo Ma gives conch staff to threatening collector, later swims west to warn bullywugs; **Delvers return and depart on horses with three living prisoners** |
 | [Submerged lake ruins](places/submerged-lake-ruins.md) | Familiar ancient traps underwater; **Krandal wears Ring of Protection**, **Delvers escape and leave village**; Wand of Secrets and broken geared disc found; tooth-framed gate remains unopened, divinity/Dunes claims unresolved |
-| [Temple of Pelor](places/temple-of-pelor.md) | Old sanctuary over **Hall of Penance dungeon stair** and **distinct humming main-altar shaft**; two elves unresponsive, cause not established; guild guards below |
+| [Temple of Pelor](places/temple-of-pelor.md) | Hall of Penance stair and separate humming shaft; **Brother Maynard reports all FIVE elf coma patients AWAKENED after Anthela's S2E10 dream rescue**, Keeves first; not independently visited/medically checked in S2E11 |
 | Evelyn's north-side finishing school | Dormitories, formal gardens and classes; Evelyn keeps adventuring secret from Lady Vestal |
 | City workshops and markets | *Arcane To Go* (Gruber Lifton), *Pocket Punch Alchemy* (Goggles Granny), *Grapple and Tackle*, *Astral Hammers*, *Cleaned and Prestidigitation*; see [S1E05](../episodes/S1E05.md) |
 | [Southwestern town well](places/southwestern-town-well.md) | Public water source **descended in S1E08**. Subterranean side breach found; **rock/concrete passage seal completed**, water still untested; wider caves and temple access remain open |

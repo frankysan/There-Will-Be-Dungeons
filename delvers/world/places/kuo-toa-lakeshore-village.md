@@ -10,6 +10,10 @@ The Darkest Delvers approach by borrowed horses carrying a basket of fish and fr
 
 Koh then tries to speak directly into the elder's thoughts. The voice seems to come from a divine presence rather than another mortal, and the old fisherman falls to the sand calling out that someone from above has come. His neighbors join him in reverence. Koh protests that he is only using a strange means of communication, but the belief persists. Even the horses draw prayers as the visitors enter the village.[^meeting]
 
+## Later S2E11 disposition: former trader now works on Potato Grove
+
+Former trader **Glepo Ma** (S2E11 ASR sometimes “Gleepo”) reappears by [Krandal's riverside farm](potato-grove.md), identifiable by fishlike pink-purple body, blue dorsal fins and feathered hat. He **reports banishment for helping abduct the high priest** during earlier village events (NPC testimony, not an independent tribal/legal record) and begs employment. **Krandal actually takes him as a farmhand for room/board and river access**, and Glepo begins crop care/bug/rat pest control with newly delivered farm tools. Do NOT interpret the trader's earlier lake departure as death or equate him with Gil. [Glepo character profile](../characters/gleepo-ma.md) · [S2E11](../../episodes/S2E11.md).
+
 ## The trader by the forest
 
 One inhabitant seems less frightened by such wonders. **Glepo Ma**, who wears human-made trousers and shoes modified for his finned feet, speaks enough Common to bargain. He trades unusual goods and objects gathered from the world outside his village, and tells of an upbringing close to a circus. He knows of old ruins beneath the lake, accessible more readily when the water recedes, and wants an old staff found there. Koh exchanges a shovel for directions and later gains a little fishing rod in return for letting the trader care for the company's horses. The villagers continue their ordinary tasks while the three strangers prepare to swim.[^trader]

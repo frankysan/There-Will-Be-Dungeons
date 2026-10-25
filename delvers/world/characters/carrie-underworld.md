@@ -20,7 +20,11 @@ There Carrie watches Evelyn reveal an old stone carving, and Krandal expose a de
 
 Carrie's most daunting task takes her away from the familiar safety of the acquisitions counter. She travels through the night with Cassius to the Dungeon Guild Academy, carrying rolls of evidence and the curious objects recovered by the bronze companies. The grandeur of its Radiant Lance Theatre and the crowd of accomplished guildmasters offer little welcome to a young artificer who can scarcely make her scrolls lie flat. She weighs them down with the horn and the rune-marked shafts the Delvers have entrusted to her. When a board member calls her merely a low-level artificer and orders her to be silent, the rebuke reveals the distance between the people discovering dangers and those deciding how much protection they deserve. She bears the dismissal and later asks Cassius what they will do. Together they set out for home without the gold-ranked help he sought.[^s2e00]
 
-## Current status through S2E10: completed research and real-world crystal
+## S2E11 — report and red crystal discrepancy
+
+**Carrie questions Evelyn, Krandal and Koh for details on the prior mindscape**, especially spells (insect swarm, moving black sand). The GM explicitly calls their opponent **a shade/projection of Khalazar**, not proof of final defeat. **S2E10 recorded Evelyn actually handing the physical red shard TO CARRIE**. Nonetheless in **S2E11's immediate continuation Evelyn brings out the crushed red gem herself** during Carrie's debrief, **without any depicted return transfer**. Actual exclusive custody after that scene is therefore **UNRESOLVED**; Carrie does not identify it, and no clone/second gem is verified. [S2E11](../../episodes/S2E11.md), ~00:00–00:07; [crystal ledger](../items/khalazar-red-crystal.md).
+
+## Earlier status through S2E10: completed research and real-world crystal
 
 Carrie **actually delivers her finished old-Elvish and artifact presentation** to Cassius, Delvers, Helenar and Jimmy in guild lecture hall after Broscale Manor dinner. She translates **Khalazar's variant titles** and Dolbluth split, explains **dungeon border-defense origins**, identifies the music box as **[Hereditary Drone](../items/hereditary-drone.md)** that targets auditory/motor cortex particularly in elves, and shows Withers's map (Black Basilica, roper/hook-horror lairs), leaving **Fulnomic device** only a hypothesis. **Evelyn takes black mirror**, most items **remain under guild care**, notably drone, reconstituted bell trousers and smashed staff.
 

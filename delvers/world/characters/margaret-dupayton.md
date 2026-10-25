@@ -4,6 +4,10 @@
 
 Margaret is Evelyn Grinkeeper's roommate at a distinguished finishing school. Where teachers expect polished manners, Margaret is happiest with a needle and thread, studying the concealed workings of enchanted garments. She has become Evelyn's ally in a secret life the school's authorities might not approve. She covers Evelyn's unexplained absences and helps her make adventuring equipment fit into a respectable wardrobe.[^intro]
 
+## S2E11: dual Bronze Ball appearance planned
+
+After poor performance in final dance rehearsal, Evelyn and Margaret **PLAN to let Evelyn arrive at the forthcoming Bronze Ball in Grinkeeper's armor**, then **remove it and reveal the formal Lady Blackwood dress** magically folded beneath. They work on **enchanting the dress and writing waltz steps onto Evelyn's Wind Fan**. **This costume change, meeting the Gallant Traveler, dancing and any consequences at school are only future plans, NOT played**. Evelyn **ACTUALLY GIVES Margaret a cut piece of [magical neon-pink ribbon](../items/friendship-ribbon.md)** before heading to the exam; its pieces point toward loved ones when mentally recalled, confirmed for Koh/Krandal. Margaret remains aware of double identity but **has not seen the Ball events**. [S2E11](../../episodes/S2E11.md), ~00:11–00:19 and ~01:00.
+
 ## Gifts of quiet invention
 
 Her first substantial favor is to weave the magic from easy-fastening dresses into Evelyn's chain mail, letting the paladin put on the armor at a moment's notice. Margaret follows that experiment with a pink, jewel-studded **Bag of Hammer Holding**, sewn from dismantled enchanted bags. The little tote can swallow one heavy item, allowing Evelyn to hide her warhammer before returning through the school's windows.

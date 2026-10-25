@@ -6,6 +6,10 @@ The Delvers Dungeon Guild offers adventurers a workplace and a place to return t
 
 Wooden badges and small guides identify the lowest league's members. The guild spends little on these badges: Koh's is already scorched, and Cassius speaks of previous holders. The trophy case and references to higher-ranked adventurers place the newcomers at the bottom of an established profession.[^badges]
 
+## Latest S2E11: SILVER promoted and public Bronze Ball portrait
+
+**Cassius EXPLICITLY announces Silver League membership has ALREADY BEEN APPROVED**; the academy's **Numalari exam board** meets party near governor's mansion and independently scores **Krandal B/S/C; Evelyn S/S/A; Koh S/A/A for Power/Presence/Purpose**. The three are addressed as silver **knights** with chosen official names **Splenderbelt the Efficient, Grinkeeper the Defender and One Shot**, but **precise numeric comparative positions await later Academy determination**; no invented league number/badge delivery. The guild converts monster trophies to a **Bronze Ball silent/live auction**, with expensive **Fredoroth dragon skull** proudly moved to backyard for actual **Bellows Box magical-plate photographic portraits** of several groups. **Darkest Delvers portrait is ACTUALLY made**, skull **not sold** by cutoff. **Ball is later that same evening and has NOT begun before S2E11 episode closes**. See [S2E11](../../episodes/S2E11.md), ~00:05–00:10, ~01:00–02:32.
+
 ## Practices and first job
 
 Cassius says jobs are posted early, leaving the late-arriving recruits with limited choice. They reject Snake Island and accept paid work at the [farm cave](farm-cave.md). Their orientation combines encouragement with uncomfortable economics: Cassius reads a foreword attributed to the celebrated Thun’Darious Storm, yet estimates that only half of those attempting this cave job succeed. His estimate is part of the welcome he gives them, rather than an independently measured record.[^orientation]
