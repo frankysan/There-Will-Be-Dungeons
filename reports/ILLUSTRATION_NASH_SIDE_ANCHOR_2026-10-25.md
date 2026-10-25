@@ -86,6 +86,18 @@ match, then set `SIDE_APPROVED`. The old hood-down v1 remains
 superseded for the intended baseline; do not overwrite other files.
 The final multi-view character model sheet remains unapproved.
 
-**Next image stage:** rear full-figure view matching the hood-up reference,
-correct satchel strap placement, and Freedom pierced through the staff.
+## Subsequent repository registration check — 2026-10-25
+
+The previously missing corrected image is **now present** at
+`illustrations/references/Nash_Maggard_Side_v2_HoodUp_1024_sRGB.png`.
+A fresh MCP binary read confirmed **1,412,227 bytes**, SHA-256
+`4a7bb1f07755a047f2ce430deb6d01e935db0b771b71d9a9fa1bb61a336337d5`,
+**1024 × 1024**, 8-bit RGB PNG and an embedded `iCCP` chunk.
+That is identical to the owner-accepted hood-up v2 export. **Record
+`SIDE_APPROVED` for E000/A01**. The earlier unsuccessful upload attempt
+above remains historical and was not retroactively successful.
+
+The rear view was subsequently rendered and accepted by the owner; see
+[back-anchor inspection and export](ILLUSTRATION_NASH_BACK_ANCHOR_2026-10-25.md).
+Its registration is a separate step from this side-view approval.
 

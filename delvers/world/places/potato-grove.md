@@ -24,7 +24,11 @@ The skull he buried after the sea hag's defeat calls for help. He digs it out an
 
 In the [May 2021 cast Q&A](../../../episodes/BONUS-2021-05.md), a listener proposes **Splender Farms**, together with **Splender Tots, Fries and Chips**. Scott reacts enthusiastically and says he likes the plural *Splender Farms*. **This conversation takes place out of game**; it is not Krandal registering a farm name, putting products on sale, replacing the **tentative in-game *Spud Buds*** from S2E03 or declaring a harvest.[^may21]
 
-## Current status (through S2E06)
+## Current status (through S2E07)
+
+**S2E07 changes the farm's present inhabitants rather than its construction status:** Gil's returning ferry **deposits Koh, Evelyn and Krandal with the bound, living prisoner Ambermoor at the farm**, because Cassius ordered the Delvers to stay out of Atomer temporarily during the Withers theft investigation. **Koh still holds Ambermoor's colored reagent briefcase**; Mack and Church continue by boat to the guild. **No guild handoff, prisoner transport to city, overnight rest, paid renovation, mature potato crop or farm attack is played before this cutoff.** [S2E07](../../episodes/S2E07.md).
+
+### Established by S2E06
 
 Krandal **has the deed**, has **actually planted potato pieces and cleared a ditch**, but the cottage and tower are **still ruins**, not funded construction projects. His **animated minotaur skull remains installed as a scarecrow** and **reports a wet-eyed fishman watching from waterside shrubbery** in S2E06; the fishman's identity and motives are unknown. Following S2E05's payoff, Krandal **actually hides eight kinds of gemstones in the empty wall space behind a loose tower brick**, discovered beside the sea hag's old possessions, and **much of his large gold haul under a boulder east of the fields, in the skull's view**. He later asks the skull to watch while he goes to Gemholm. **No theft, harvest, paid rebuilding, complete restoration of minotaur body or defensive encounter at farm observed**. [S2E05](../../episodes/S2E05.md) · [S2E06](../../episodes/S2E06.md).
 
