@@ -1,6 +1,6 @@
 # Vorel
 
-**Portrayed by:** Kyle. **Identity:** Lizardfolk warrior and leader, protector of **Bok Bok**, bearer of the **Eye of Groxl** and claimant to many personal titles. **Spoilers:** Main Wastes through **E128** and cast Q&As. **Evidence:** ASR-provisional except owner-confirmed item/name orthography.
+**Portrayed by:** Kyle. **Identity:** Lizardfolk warrior and leader, protector of **Bok Bok**, bearer of the **Eye of Groxl** and claimant to many personal titles. **Spoilers:** Main Wastes through **E128** and cast Q&As. **Evidence:** ASR-provisional except owner-confirmed item/name orthography.[^march21]
 
 **Browse:** [Characters](../CHARACTERS.md) · [His source-indexed titles](vorel-titles.md) · [Eye of Groxl](../technology/eye-of-groxl.md) · [World portal](../README.md).
 
@@ -93,3 +93,5 @@ Equipment at different cutoffs includes **Mawstorm**, skull helmet, **Eye of Gro
 **~00:05:08–00:06:37:** Kyle says the black dragon's death continues the shock of **Squirts's loss**, reinforcing Vorel's feeling that outsiders cannot be trusted or survive beside the group. He notes this did **not arise in that day's played dialogue**. The **Lady of Pain** remains awe-inspiring to Vorel; this is a belief interpretation, **not a new conversion or verified godhood claim**. Scott/Kyle describe Nash/Vorel as effective direct collaborators, while Jon says Stanley/Vorel remain friends despite strained viewpoints.
 
 **~00:27:11–00:28:27:** Kyle **would like to make boots from Omnom's feet**, reflecting Vorel's view that the body ceases to be the person at death; he discusses Cunning Artisan's limitations. The cast says the feet remain and suggests collecting them. **No retrieval, crafting, buffs or completed memorial occurs**. No new Vorel epithet is conferred; preserve E123's aspiration entries separately. [Bonus](../../episodes/BONUS-2020-11.md) · [Comparison](../../reports/BONUS_2020_11_ASR_COMPARISON_2026-10-24.md).
+
+[^march21]: **Separate out-of-game March 2021 Q&A:** A listener guesses that Kyle's Wastes barbarian chose **Berserker**, but Kyle corrects this to **“Path of Storms”**, citing the character's fire effects and explaining why exhaustion made Berserker undesirable across long adventures. Exact subclass terminology requires cross-check with the historical sheet; this is a **creator clarification, not a new Vorel action or level-up**. [BONUS-2021-03](../../episodes/BONUS-2021-03.md), ~00:17–00:19; [ASR comparison](../../reports/BONUS_2021_03_ASR_COMPARISON_2026-10-25.md).
