@@ -21,4 +21,71 @@ The original untagged source RGB was **assumed** to represent sRGB when exportin
 
 **Next asset placement:** copy or upload the derived PNG **without overwriting any existing file** to `illustrations/references/Nash_Maggard_Side_v1_1024_sRGB.png`, check its full-file SHA-256 against `86fe9b11dbd4c07c6164e2a47a23b4525b7c93df2afaeda597790d67ea3e73d6`, and explicitly bind owner visual acceptance to that content-verified file. At that point record `SIDE_APPROVED` in the sheet ledger. Until then, stage status is **SIDE VISUAL ACCEPTED / FILE REGISTRATION PENDING**, not `SIDE_APPROVED`.
 
-**Next image stage:** rear full-figure view with reliable subject-left/red-eye, bandage/hood configuration and satchel strap placement, and `Freedom` pierced through the staff (not a decorative cap). **Do not claim the complete character model sheet is approved** before rear and final-page reviews.
+## Corrections and final owner selection — hood-up v2
+
+After viewing the first side profile pair, the owner observed that in the
+right-hand profile **Freedom appeared beside the staff rather than physically
+passing through its wood**. That discrepancy invalidates the earlier
+`SIDE VISUAL ACCEPTED` status for the first generated render; it is retained
+only as a historical draft. A first correction was generated on 2026-10-25
+(`gen_id=8f73c57f-7969-4d0e-a48a-d5b8b25f2b05`;
+`/mnt/data/scarred_wanderer_profile_turnaround.png`).
+The owner then requested **hood up on both profiles**, matching the
+previously approved front anchor.
+
+The revised two-profile **hood-up** render (`gen_id=6b8dfa98-c6f0-411e-8911-3eb201d8929d`;
+original session file `/mnt/data/wounded_hooded_wanderer_turnaround.png`)
+was displayed and **explicitly accepted** by the owner: “Yes, I accept this
+one. See if you can use the MCP server to write the PNG now.”
+
+For future artwork, this is the **preferred side/profile visual reference**.
+Both figures wear the rust-red hood up; their staff nails appear driven
+transversely through the *upper wooden shaft*, with nail head and point
+protruding on opposite sides. Keep the original owner-approved front design
+and correct left/red eye orientation; do not treat opposite-facing profiles
+as freely interchangeable mirrors for anatomical or gear sidedness.
+
+### Verified technical export for selected v2
+
+| Artifact | SHA-256 | Inspection |
+| --- | --- | --- |
+| Selected original `/mnt/data/wounded_hooded_wanderer_turnaround.png` | `3129ab7695221fce5306012daa53ea50455d1031d324c91ceb4327c3ecef17f5` | Actual **1254 × 1254 RGB PNG**, **2,164,445 bytes**, unprofiled |
+| Session derivative `/mnt/data/Nash_Maggard_Side_v2_HoodUp_1024_sRGB.png` | `4a7bb1f07755a047f2ce430deb6d01e935db0b771b71d9a9fa1bb61a336337d5` | Actual **1024 × 1024 RGB PNG**, **1,412,227 bytes**, embedded **588-byte sRGB ICC**, resized with Lanczos without cropping or altering composition |
+
+The source was untagged, so the conversion **assumes original RGB
+represents sRGB**; this is not retrospective proof of generator colorimetry.
+The normalized PNG was visually opened and inspected for both full-body
+figures, intact hoods and nails. Original and output checksums were
+computed directly from local image bytes.
+
+### MCP upload attempt and blocked handoff
+
+The connected local workspace exposes `create_workspace_png` and a
+chunked `begin_workspace_png_upload` /
+`append_workspace_png_upload` /
+`finish_workspace_png_upload` workflow. **All require image bytes supplied
+as an explicit base64 string**, not a session container pathname,
+generated-image file ID or `source_file_ref`.
+
+- Target: `illustrations/references/Nash_Maggard_Side_v2_HoodUp_1024_sRGB.png`.
+- Upload beginning accepted by MCP with `total_bytes=1412227`,
+  `upload_id=9c4942994eee41efb0b3b55930d91f29`.
+- The generated file's binary is available in the local container, but
+  the current connected tool interface offers **no direct container-file /
+  generated-file-ID to MCP base64 bridging operation**. Do not pretend
+  the file was delivered merely because the upload was initialized.
+- The empty upload session was **explicitly aborted**, and the MCP server
+  confirmed `PNG upload aborted`. **No PNG was written to the repository.**
+
+**Current stage: owner-approved visual design, technically validated
+session export, awaiting file registration. Not yet formally
+`SIDE_APPROVED` in the repository.** Copy the verified derivative using a
+supported file bridge or user-side upload to the exact workspace path,
+read its full-file SHA-256 back via MCP and ensure the ICC/dimensions
+match, then set `SIDE_APPROVED`. The old hood-down v1 remains
+superseded for the intended baseline; do not overwrite other files.
+The final multi-view character model sheet remains unapproved.
+
+**Next image stage:** rear full-figure view matching the hood-up reference,
+correct satchel strap placement, and Freedom pierced through the staff.
+

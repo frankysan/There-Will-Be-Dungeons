@@ -83,10 +83,12 @@ reference or complete subject-appearance audit is implied.
   is preserved as an untagged 1254-square original; the [normalized
   face anchor](../illustrations/references/Nash_Maggard_Face_v1_1024_sRGB.png)
   has since been uploaded, hash-verified and explicitly **FACE_APPROVED**.
-  The [paired side/profile visual](../reports/ILLUSTRATION_NASH_SIDE_ANCHOR_2026-10-25.md)
-  is **owner-accepted**, with a checked 1024-square sRGB derivative ready,
-  but still needs repository registration/hash confirmation before
-  **SIDE_APPROVED**. Next: register side, then draw/review the rear view. No complete model sheet yet.
+  The [corrected hood-up side/profile visual](../reports/ILLUSTRATION_NASH_SIDE_ANCHOR_2026-10-25.md)
+  is **owner-accepted** (the hood-down pair was superseded after a nail
+  continuity error). A 1024-square sRGB derivative is verified and ready,
+  but **MCP upload was blocked by the base64-only file transfer interface**;
+  the empty upload was aborted. Register/hash-check the corrected side image
+  before `SIDE_APPROVED`, then draw/review the rear view. No complete model sheet yet.
 
 ## Documentation consolidation — Arcs One–Two (2026-10-21)
 
