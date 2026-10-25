@@ -331,7 +331,7 @@ Build a short explicit brief with:
 3. Source-provenance references *outside* the actual generation prompt and
    a list of **provisional artistic gap-filling decisions** with subject,
    scene and revision. Evidence always outranks the artistic choice.
-4. The **verbatim invariant style recipe below**, project-square frame,
+4. The **verbatim invariant style recipe v2 below**, project-square frame,
    composition, lighting, one primary bright accent and optional second
    accent **across the whole image** (unless established colors require an
    explicit exception), and simple negative space where needed.
@@ -394,8 +394,9 @@ previews**. Passing the source-research `READY` gate alone is insufficient.
    fixed style prompt block into the **actual image generation/edit request**.
    Describing it merely as "same style as before", "graphic novel" or a
    summary is **not compliance**. Preserve the fixed ink, line weight,
-   stylization, flat/cel shadows, muted pastel treatment, limited accents,
-   restrained detail and no lettering/borders. A visual reference may help
+   modern adult-animation-inspired stylization, bold graphic forms,
+   flat/cel shadows, matte muted pastels, limited accents, restrained
+   microdetail and no lettering/borders. A visual reference may help
    retain **subject identity** but must not silently replace the house style.
 2. **Set the canvas in both prompt and tool settings:** request square
    aspect ratio **1:1** and **1024 × 1024** wherever the tool permits, and

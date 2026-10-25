@@ -20,10 +20,15 @@ The neglected farm has become Krandal's refuge whenever guild work permits. Afte
 
 The skull he buried after the sea hag's defeat calls for help. He digs it out and, with great care, builds a crossbar from discarded planks and drapes an old jacket over it. Set above the fields, the talking minotaur skull can watch for birds and call out. It asks Krandal for a small rock to spit at trespassers; he grants the strange request, but no such attack has yet been witnessed. Krandal experiments with the name **Spud Buds**, noting that he has not decided on a final title for the estate. His willingness to improvise a living scarecrow is greater than his willingness to spend thousands on masonry, and for now the potatoes come first.[^s2e03]
 
+## A possible future brand — creator commentary only
+
+In the [May 2021 cast Q&A](../../../episodes/BONUS-2021-05.md), a listener proposes **Splender Farms**, together with **Splender Tots, Fries and Chips**. Scott reacts enthusiastically and says he likes the plural *Splender Farms*. **This conversation takes place out of game**; it is not Krandal registering a farm name, putting products on sale, replacing the **tentative in-game *Spud Buds*** from S2E03 or declaring a harvest.[^may21]
+
 ## Current status
 
 **Krandal still holds the deed** to the riverside farm once called **Potato Grove**; he now provisionally calls it **Spud Buds**, **not a confirmed permanent rename**. He has **actually planted cut potato pieces**, **cleared/partly restored the old irrigation channel** and **begun self-directed debris clearance**. The **talking minotaur skull has been dug up and placed on a newly made scarecrow pole**, dressed in jacket, with **a rock placed in its mouth**; its effectiveness as a bird deterrent has not been tested. The earlier **sea hag remains defeated**, original minotaur body destroyed. **Neither wooden cottage nor stone tower has undergone an actual full contracted restoration**—GM quotes **3,000 gp** and **10,000 gp** respectively, both **unpaid**. **No mature crops or harvest** exists yet. The hag's old cauldron was observed earlier but is not confirmed taken.[^s2e03]
 
+[^may21]: [BONUS-2021-05](../../../episodes/BONUS-2021-05.md), ~00:24–00:25. Scott's **player/creator brainstorming**, not a played declaration.
 [^s2e03]: [Delvers S2E03](../../episodes/S2E03.md), ~01:24–01:34; **spade work, seed planting, ditch cleaning and scarecrow placement happen on screen**. GM explicitly probes working name; **Spud Buds is “tentative”**. One rock placed into skull's mouth; no actual bird-scaring or magical body creation. Renovation figures quoted only, not spent.
 [^place]: [Delvers S2E01](../../episodes/S2E01.md), ~01:46–01:55. Description comes from GM's spoken map; original Discord map not opened. Plot dimensions approximate and names/ownership previous to guild grant unknown.
 [^deed]: [S1E12](../../episodes/S1E12.md), ~02:55–03:02 (promised), [S2E01](../../episodes/S2E01.md), ~00:26–00:29, ~01:17–01:20 and ~01:47–01:56 (deed delivered and site visited); no purchase or construction payment performed.

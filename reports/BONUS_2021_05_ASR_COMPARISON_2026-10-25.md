@@ -1,0 +1,26 @@
+# BONUS-2021-05 — May 2021: exact dual-ASR comparison (2026-10-25)
+
+**Episode type:** Global, cross-campaign **out-of-game supporter Q&A**, not played Delvers S2E05 nor a Wastes E-number. Host explicitly calls it **May 2021**; **the public-release month is owner normalized but actual recording/publication day not verified**. [Dossier](../episodes/BONUS-2021-05.md) · [shared bonus queue](../project/REVIEW_QUEUE.md).
+
+**Revision/provenance:** Connected workspace `main` HEAD at start `e119336f1d82d0ae7d09388a94d902a61f726455`, only pre-existing dirty file `project/ILLUSTRATION_NASH_MAGGARD_REFERENCE.md` (left untouched). GitHub default-branch mirror provides the two blob IDs below; **mirror commit ID not established; attempts to use local HEAD as GitHub commit failed (not found)**. Workspace SRT beginning and final cue independently read and **match** mirror corresponding sections; the files are not modified according to workspace Git status, but **whole-file byte equality was not checked**. Findings should be revisited only if local versions differ.
+
+| File label inferred, settings not verified | Path/source | GitHub mirror blob | Cues | Normalized tokens | Last cue end |
+| --- | --- | --- | ---: | ---: | --- |
+| Parakeet processed | [P](../sources/Bonus%202021-05%20-%20May%202021.parakeet.processed.srt) | `dcb9d02d48b03cb5a692545eedbfd86fe841a7d2` | **700** | **6,693** | **00:35:04.020** |
+| Qwen Q8/Canary CTC/Nemotron | [Q](../sources/Bonus%202021-05%20-%20May%202021.qwen-q8.canary-ctc.nemotron.srt) | `f31825553c8e711099fe3130f4178b9705189b0f` | **1,016** | **6,736** | **00:35:03.760** |
+
+**Whole-export ordered word Levenshtein:** **424 edits / 6,693 P tokens = 6.33%**, Q **+43 tokens**, Q ends **0.260 seconds before P**. **This is inter-transcript textual disagreement, NOT word error rate, ASR accuracy, proven omissions, or hallucinations**. Method: parse all numbered SRT cue bodies, omit timestamps/indices and `(speaker N)`, lowercase Unicode, drop apostrophes while joining contracted words, replace all other non-letter/non-digit runs with spaces, split tokens; unit insertion/deletion/substitution DP using rolling arrays with **±1,800-token diagonal band**. Optimal distance **424 < 1,800**, therefore an optimal path cannot have left this band (leaving it would require ≥1,800 insertions/deletions); **globally exact** within these two mirrored exports.
+
+**Interpretive coverage:** Parakeet complete by successive **5-minute windows through 00:35:04**; Qwen parsed completely for metric and **selected thematic windows reviewed** (~00:04–00:09, 00:10–00:16, 00:17–00:22, 00:22–00:28 and 00:27–outro). **No original audio was heard**. All speakers' names/gender/attributions from hosted intro, context and text, **not speaker-diarization confirmed against audio**.
+
+| Recording window | High-risk wording and editorial boundary |
+| --- | --- |
+| **~00:00–00:05** | Host says **May of 2021**; cast preference discussion includes **S2E04 Gale air-battle “today”** retrospective, supporting order but not precise day. Initial sources have matching opening and ending text in local workspace and mirror. |
+| **~00:04–00:10** | Strong P/Q agreement on **D&D Beyond level 1 with starter/default gear** and **Kyle giving doubled early XP “until three”**. No new numerical character gold or proof of unshown earlier level-up. Named starter adventure phonetic **“Lost Mines of Fendelver”** should normalize as **Lost Mine of Phandelver** only for real-world reference, not as fictional Delvers site. |
+| **~00:12–00:18** | Koh's in-world **Chuck/Nasty Brotherhood** developments derive from Jon deliberately leaving GM space in brief character notes; don't treat hypothetical process as new performed events or a complete original backstory. Stanley comparisons are **cross-campaign player's reflection**, not a crossover. |
+| **~00:18–00:23** | **Technology “1880” and magic instead of electricity/steam** said directly by Kyle in both; not a fixed in-world AD year or universal absence of steam. **Rianu Keeves**, **Carrie Underworld/Carrie Underwood** are out-of-world naming jokes, not interdimensional character IDs. |
+| **~00:23–00:25** | Planet Nash/Time Barf relative time is listener question; cast **says Bo would need to answer**, floats hypotheticals and denies relevant crossings—**no authoritative answer**. **Splender Farms with an S** proposed by Scott with enthusiastic wording, **not an on-screen farm rename or actual sales**. |
+| **~00:25–00:28** | Kyle **intentionally chose lost-memory flashbacks for Snake Island** instead of potentially **six full played episodes**, a design explanation rather than evidence of missing episodes; confirms possible **other larger cities/guild rivalries** without performed travel or new season relocation. |
+| **~00:28–00:35** | Sci-fi, Star Wars, Starfinder, kaiju/mech, BattleTech discussed as **hopes and brainstorming**, no implemented game or show; host signs off in both with ~0.26-second offset. |
+
+**Review tasks:** exact transcription of technical statement at ~00:18; who speculates about time rates at ~00:23; plural farm-name proposal at ~00:24; potential ambiguous cast attribution and actual date at ~00:00. No altered SRT/audio or loaded handouts. [Next bonus source, existence only](../sources/Bonus%202021-06%20-%20June%202021.parakeet.processed.srt).

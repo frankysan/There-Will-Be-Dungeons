@@ -50,7 +50,11 @@ reference or complete subject-appearance audit is implied.
   treatment, palette, accent use, exact prompts and provisional choices.
   Two previews completed, with assistant review in the linked report.
   This tests rendering only; owner style feedback and source-image review
-  remain outstanding.
+  remain outstanding for those *vehicle studies*. Owner has since confirmed
+  the [general adult-animation-inspired graphic direction](ILLUSTRATION_GUIDE.md)
+  from [Nash's face explorations](../reports/ILLUSTRATION_NASH_FACE_DIRECTION_2026-10-25.md);
+  **style v2** is now the common prompt lock, not approval of any individual
+  picture or model sheet.
 - [ ] Refine the rendering from feedback, then test a sourced character
   appearance for expression, proportion and consistency. A vehicle study
   alone does not validate those parts of the style.
@@ -71,6 +75,11 @@ reference or complete subject-appearance audit is implied.
   acceptance, saved prompts/reference images, 1024-square sRGB PNG checks,
   and explicit owner approval before reusing a complete model sheet. Pilot
   on Nash E000; two earlier full-sheet render attempts were rejected.
+  Four subsequent [Nash face studies](../reports/ILLUSTRATION_NASH_FACE_DIRECTION_2026-10-25.md)
+  yielded an owner-preferred style, **but no compliant or explicitly approved
+  face anchor**: the favorite PNG is 1254 × 1254 without embedded ICC.
+  Next: verify a distinct 1024-square sRGB face asset and request anchor
+  approval before proceeding to the front/side/back stages.
 
 ## Documentation consolidation — Arcs One–Two (2026-10-21)
 
