@@ -1,0 +1,465 @@
+{
+  "date": "2026-10-25",
+  "campaign": "The Wastes",
+  "season": 1,
+  "episodes": [
+    "E058",
+    "E063",
+    "E064",
+    "E070",
+    "E075",
+    "E080",
+    "E081"
+  ],
+  "type": "Targeted creature source review, not full episode reanalysis",
+  "candidate_ids": [
+    "WSC-021",
+    "WSC-022"
+  ],
+  "audio_review": false,
+  "full_export_interpretive_review": false,
+  "full_export_asr_disagreement_computed": false,
+  "inventory": [
+    {
+      "episode": "E058",
+      "path": "sources/The Wastes S1E058. The Magical Banana Trail.parakeet.processed.srt",
+      "sha256": "cfcc996776c02110c0721b9663baea3bae8eb7a76e5c42e4c04fdef5bbee8263",
+      "cue_count": 2762,
+      "last_end_ms": 10621060,
+      "model_label": "Parakeet"
+    },
+    {
+      "episode": "E058",
+      "path": "sources/The Wastes S1E058. The Magical Banana Trail.qwen-q8.canary-ctc.nemotron.srt",
+      "sha256": "8166a16233d865e0813e1415c3096314f22d44cd88617dc15f39a8d912b3430a",
+      "cue_count": 4756,
+      "last_end_ms": 10620760,
+      "model_label": "Qwen"
+    },
+    {
+      "episode": "E063",
+      "path": "sources/The Wastes S1E063. Two Royals.parakeet.processed.srt",
+      "sha256": "082d964343f8f032f4f994926695cdd65cc82f1b5c8449b9a574a6f53a376a2f",
+      "cue_count": 2740,
+      "last_end_ms": 10536280,
+      "model_label": "Parakeet"
+    },
+    {
+      "episode": "E063",
+      "path": "sources/The Wastes S1E063. Two Royals.qwen-q8.canary-ctc.nemotron.srt",
+      "sha256": "0057b81264d7e6e486f42234fc3401d105a1509193734e5d8e78f90a08f4f5e7",
+      "cue_count": 4583,
+      "last_end_ms": 10535920,
+      "model_label": "Qwen"
+    },
+    {
+      "episode": "E064",
+      "path": "sources/The Wastes S1E064. Mount Up and Ride.parakeet.processed.srt",
+      "sha256": "ca693977abbcae39218ba22a85c471348643bc2e0290622c6bf90c6d8b23e6e3",
+      "cue_count": 2843,
+      "last_end_ms": 10785560,
+      "model_label": "Parakeet"
+    },
+    {
+      "episode": "E064",
+      "path": "sources/The Wastes S1E064. Mount Up and Ride.qwen-q8.canary-ctc.nemotron.srt",
+      "sha256": "1745b312033fcb57916c49bbaf08809e0a532551142573faccf401dcf62ad3ac",
+      "cue_count": 4688,
+      "last_end_ms": 10785240,
+      "model_label": "Qwen"
+    },
+    {
+      "episode": "E070",
+      "path": "sources/The Wastes S1E070. Polymorph The Security Monkey.parakeet.processed.srt",
+      "sha256": "1d45da43fb1a38801fa9e05f569ae5ec6609bbbf022fd33f215a53bf75540a0d",
+      "cue_count": 2942,
+      "last_end_ms": 11039480,
+      "model_label": "Parakeet"
+    },
+    {
+      "episode": "E070",
+      "path": "sources/The Wastes S1E070. Polymorph The Security Monkey.qwen-q8.canary-ctc.nemotron.srt",
+      "sha256": "da661f76f3f650a588c204b40ca8b033572fdf8b76230f3a2c5a4cd4e9f3acef",
+      "cue_count": 5097,
+      "last_end_ms": 11039280,
+      "model_label": "Qwen"
+    },
+    {
+      "episode": "E075",
+      "path": "sources/The Wastes S1E075. Fly me to the moon.parakeet.processed.srt",
+      "sha256": "0d9b82d9f7a0001682e6af2c6f88887120392b5bb6cc76194061d30bb2f4494c",
+      "cue_count": 2817,
+      "last_end_ms": 10331450,
+      "model_label": "Parakeet"
+    },
+    {
+      "episode": "E075",
+      "path": "sources/The Wastes S1E075. Fly me to the moon.qwen-q8.canary-ctc.nemotron.srt",
+      "sha256": "626e27003388b189ad96a4c5026b1e4704a6979307176df2ff6b0160bc8e1955",
+      "cue_count": 4982,
+      "last_end_ms": 10331260,
+      "model_label": "Qwen"
+    },
+    {
+      "episode": "E080",
+      "path": "sources/The Wastes S1E080. What's with the fire truck.parakeet.processed.srt",
+      "sha256": "9992384970918bccd679bb3123c4ecf3eb19257f33724a7ed7efdb26a3850af8",
+      "cue_count": 2441,
+      "last_end_ms": 9181160,
+      "model_label": "Parakeet"
+    },
+    {
+      "episode": "E080",
+      "path": "sources/The Wastes S1E080. What's with the fire truck.qwen-q8.canary-ctc.nemotron.srt",
+      "sha256": "d69c76438ac1ffb2ab7a92ed05290f58b1e5d0debfbe35addcbc89996cc00567",
+      "cue_count": 4543,
+      "last_end_ms": 9180960,
+      "model_label": "Qwen"
+    },
+    {
+      "episode": "E081",
+      "path": "sources/The Wastes S1E081. There's Always A Chance In Space.parakeet.processed.srt",
+      "sha256": "006668629e09cccf25332b70ef944cc40629aa2285a30037740ce170d54b3fa2",
+      "cue_count": 2714,
+      "last_end_ms": 10032110,
+      "model_label": "Parakeet"
+    },
+    {
+      "episode": "E081",
+      "path": "sources/The Wastes S1E081. There's Always A Chance In Space.qwen-q8.canary-ctc.nemotron.srt",
+      "sha256": "db490fdfffd76ffce6d737f58ba6bd563b2810e82f87f598b1d3a61657a79695",
+      "cue_count": 4725,
+      "last_end_ms": 10031460,
+      "model_label": "Qwen"
+    }
+  ],
+  "reviewed_windows": [
+    {
+      "episode": "E058",
+      "source": "sources/The Wastes S1E058. The Magical Banana Trail.parakeet.processed.srt",
+      "model_label": "Parakeet",
+      "start": "00:59:40",
+      "end": "01:05:20",
+      "first_cue": 970,
+      "last_cue": 1056
+    },
+    {
+      "episode": "E063",
+      "source": "sources/The Wastes S1E063. Two Royals.parakeet.processed.srt",
+      "model_label": "Parakeet",
+      "start": "02:20:50",
+      "end": "02:23:00",
+      "first_cue": 2206,
+      "last_cue": 2244
+    },
+    {
+      "episode": "E064",
+      "source": "sources/The Wastes S1E064. Mount Up and Ride.parakeet.processed.srt",
+      "model_label": "Parakeet",
+      "start": "01:04:40",
+      "end": "01:08:10",
+      "first_cue": 920,
+      "last_cue": 985
+    },
+    {
+      "episode": "E075",
+      "source": "sources/The Wastes S1E075. Fly me to the moon.parakeet.processed.srt",
+      "model_label": "Parakeet",
+      "start": "00:55:00",
+      "end": "00:56:40",
+      "first_cue": 951,
+      "last_cue": 977
+    },
+    {
+      "episode": "E075",
+      "source": "sources/The Wastes S1E075. Fly me to the moon.parakeet.processed.srt",
+      "model_label": "Parakeet",
+      "start": "01:02:40",
+      "end": "01:05:15",
+      "first_cue": 1086,
+      "last_cue": 1126
+    },
+    {
+      "episode": "E080",
+      "source": "sources/The Wastes S1E080. What's with the fire truck.parakeet.processed.srt",
+      "model_label": "Parakeet",
+      "start": "00:51:30",
+      "end": "00:55:10",
+      "first_cue": 835,
+      "last_cue": 885
+    },
+    {
+      "episode": "E080",
+      "source": "sources/The Wastes S1E080. What's with the fire truck.parakeet.processed.srt",
+      "model_label": "Parakeet",
+      "start": "00:56:10",
+      "end": "00:58:35",
+      "first_cue": 897,
+      "last_cue": 939
+    },
+    {
+      "episode": "E081",
+      "source": "sources/The Wastes S1E081. There's Always A Chance In Space.parakeet.processed.srt",
+      "model_label": "Parakeet",
+      "start": "00:04:10",
+      "end": "00:07:10",
+      "first_cue": 76,
+      "last_cue": 127
+    },
+    {
+      "episode": "E081",
+      "source": "sources/The Wastes S1E081. There's Always A Chance In Space.parakeet.processed.srt",
+      "model_label": "Parakeet",
+      "start": "00:14:40",
+      "end": "00:15:20",
+      "first_cue": 254,
+      "last_cue": 264
+    },
+    {
+      "episode": "E070",
+      "source": "sources/The Wastes S1E070. Polymorph The Security Monkey.parakeet.processed.srt",
+      "model_label": "Parakeet",
+      "start": "00:31:10",
+      "end": "00:33:55",
+      "first_cue": 502,
+      "last_cue": 547
+    },
+    {
+      "episode": "E070",
+      "source": "sources/The Wastes S1E070. Polymorph The Security Monkey.parakeet.processed.srt",
+      "model_label": "Parakeet",
+      "start": "00:34:40",
+      "end": "00:38:05",
+      "first_cue": 555,
+      "last_cue": 605
+    },
+    {
+      "episode": "E070",
+      "source": "sources/The Wastes S1E070. Polymorph The Security Monkey.parakeet.processed.srt",
+      "model_label": "Parakeet",
+      "start": "00:39:00",
+      "end": "00:45:30",
+      "first_cue": 612,
+      "last_cue": 708
+    },
+    {
+      "episode": "E070",
+      "source": "sources/The Wastes S1E070. Polymorph The Security Monkey.parakeet.processed.srt",
+      "model_label": "Parakeet",
+      "start": "00:53:30",
+      "end": "00:56:50",
+      "first_cue": 834,
+      "last_cue": 877
+    },
+    {
+      "episode": "E063",
+      "source": "sources/The Wastes S1E063. Two Royals.parakeet.processed.srt",
+      "model_label": "Parakeet",
+      "start": "00:52:30",
+      "end": "00:56:10",
+      "first_cue": 850,
+      "last_cue": 909
+    },
+    {
+      "episode": "E063",
+      "source": "sources/The Wastes S1E063. Two Royals.parakeet.processed.srt",
+      "model_label": "Parakeet",
+      "start": "02:18:10",
+      "end": "02:20:50",
+      "first_cue": 2164,
+      "last_cue": 2206
+    },
+    {
+      "episode": "E063",
+      "source": "sources/The Wastes S1E063. Two Royals.parakeet.processed.srt",
+      "model_label": "Parakeet",
+      "start": "00:50:50",
+      "end": "00:52:30",
+      "first_cue": 818,
+      "last_cue": 849
+    },
+    {
+      "episode": "E063",
+      "source": "sources/The Wastes S1E063. Two Royals.parakeet.processed.srt",
+      "model_label": "Parakeet",
+      "start": "00:56:00",
+      "end": "00:56:50",
+      "first_cue": 907,
+      "last_cue": 919
+    },
+    {
+      "episode": "E058",
+      "source": "sources/The Wastes S1E058. The Magical Banana Trail.qwen-q8.canary-ctc.nemotron.srt",
+      "model_label": "Qwen",
+      "start": "01:00:50",
+      "end": "01:01:50",
+      "first_cue": 1781,
+      "last_cue": 1808
+    },
+    {
+      "episode": "E058",
+      "source": "sources/The Wastes S1E058. The Magical Banana Trail.qwen-q8.canary-ctc.nemotron.srt",
+      "model_label": "Qwen",
+      "start": "01:04:00",
+      "end": "01:05:10",
+      "first_cue": 1868,
+      "last_cue": 1906
+    },
+    {
+      "episode": "E063",
+      "source": "sources/The Wastes S1E063. Two Royals.qwen-q8.canary-ctc.nemotron.srt",
+      "model_label": "Qwen",
+      "start": "02:22:20",
+      "end": "02:22:58",
+      "first_cue": 3722,
+      "last_cue": 3740
+    },
+    {
+      "episode": "E064",
+      "source": "sources/The Wastes S1E064. Mount Up and Ride.qwen-q8.canary-ctc.nemotron.srt",
+      "model_label": "Qwen",
+      "start": "01:05:20",
+      "end": "01:08:02",
+      "first_cue": 1423,
+      "last_cue": 1513
+    },
+    {
+      "episode": "E063",
+      "source": "sources/The Wastes S1E063. Two Royals.qwen-q8.canary-ctc.nemotron.srt",
+      "model_label": "Qwen",
+      "start": "00:56:08",
+      "end": "00:56:25",
+      "first_cue": 1506,
+      "last_cue": 1514
+    },
+    {
+      "episode": "E075",
+      "source": "sources/The Wastes S1E075. Fly me to the moon.qwen-q8.canary-ctc.nemotron.srt",
+      "model_label": "Qwen",
+      "start": "00:55:10",
+      "end": "00:56:05",
+      "first_cue": 1684,
+      "last_cue": 1713
+    },
+    {
+      "episode": "E075",
+      "source": "sources/The Wastes S1E075. Fly me to the moon.qwen-q8.canary-ctc.nemotron.srt",
+      "model_label": "Qwen",
+      "start": "01:03:05",
+      "end": "01:04:50",
+      "first_cue": 1925,
+      "last_cue": 1974
+    },
+    {
+      "episode": "E080",
+      "source": "sources/The Wastes S1E080. What's with the fire truck.qwen-q8.canary-ctc.nemotron.srt",
+      "model_label": "Qwen",
+      "start": "00:51:50",
+      "end": "00:53:00",
+      "first_cue": 1572,
+      "last_cue": 1603
+    },
+    {
+      "episode": "E080",
+      "source": "sources/The Wastes S1E080. What's with the fire truck.qwen-q8.canary-ctc.nemotron.srt",
+      "model_label": "Qwen",
+      "start": "00:56:24",
+      "end": "00:56:55",
+      "first_cue": 1684,
+      "last_cue": 1694
+    },
+    {
+      "episode": "E081",
+      "source": "sources/The Wastes S1E081. There's Always A Chance In Space.qwen-q8.canary-ctc.nemotron.srt",
+      "model_label": "Qwen",
+      "start": "00:04:25",
+      "end": "00:04:58",
+      "first_cue": 116,
+      "last_cue": 125
+    },
+    {
+      "episode": "E070",
+      "source": "sources/The Wastes S1E070. Polymorph The Security Monkey.qwen-q8.canary-ctc.nemotron.srt",
+      "model_label": "Qwen",
+      "start": "00:31:20",
+      "end": "00:33:30",
+      "first_cue": 843,
+      "last_cue": 896
+    },
+    {
+      "episode": "E070",
+      "source": "sources/The Wastes S1E070. Polymorph The Security Monkey.qwen-q8.canary-ctc.nemotron.srt",
+      "model_label": "Qwen",
+      "start": "00:37:30",
+      "end": "00:38:00",
+      "first_cue": 979,
+      "last_cue": 991
+    },
+    {
+      "episode": "E070",
+      "source": "sources/The Wastes S1E070. Polymorph The Security Monkey.qwen-q8.canary-ctc.nemotron.srt",
+      "model_label": "Qwen",
+      "start": "00:41:30",
+      "end": "00:42:45",
+      "first_cue": 1055,
+      "last_cue": 1085
+    },
+    {
+      "episode": "E070",
+      "source": "sources/The Wastes S1E070. Polymorph The Security Monkey.qwen-q8.canary-ctc.nemotron.srt",
+      "model_label": "Qwen",
+      "start": "00:44:30",
+      "end": "00:45:10",
+      "first_cue": 1135,
+      "last_cue": 1153
+    },
+    {
+      "episode": "E070",
+      "source": "sources/The Wastes S1E070. Polymorph The Security Monkey.qwen-q8.canary-ctc.nemotron.srt",
+      "model_label": "Qwen",
+      "start": "00:55:00",
+      "end": "00:56:30",
+      "first_cue": 1397,
+      "last_cue": 1422
+    },
+    {
+      "episode": "E080",
+      "source": "sources/The Wastes S1E080. What's with the fire truck.qwen-q8.canary-ctc.nemotron.srt",
+      "model_label": "Qwen",
+      "start": "00:54:30",
+      "end": "00:55:10",
+      "first_cue": 1631,
+      "last_cue": 1650
+    }
+  ],
+  "local_cue_cache": "local/creature-search/parasites-wallpassers-2026-10-25/sources.json",
+  "findings": [
+    {
+      "candidate_id": "WSC-021",
+      "articles": [
+        "world/creatures/black-headworms.md",
+        "world/creatures/razak-val-invasive-worms.md",
+        "world/creatures/dolo-popio-spawned-worms.md"
+      ],
+      "outcome": "Head-dwelling black worms, Razak Val skin-invading spray and Dolo Popio spawned/exhaled forms retain separate accounts; observed pursuit, attempted entry, removals and explosions are bounded by individual encounters.",
+      "limits": "No single species, lifecycle, universal control, complete cure or extinction inferred. Whisper suggestion, private observations, captured bedding specimen, host speech and later offspring terminology remain qualified."
+    },
+    {
+      "candidate_id": "WSC-022",
+      "articles": [
+        "world/creatures/translucent-wall-passers.md"
+      ],
+      "outcome": "Small glowing tentacled creatures pass through walls, gather to songs, convey painless mental sensations, avoid Hope/Stanley and retreat at the toy squeak.",
+      "limits": "No intelligible answers, moral test, confirmed mind control, brain consumption, standard species or lasting familiar established. Intelligence remains unresolved."
+    }
+  ],
+  "edited_dossiers": [
+    "episodes/E058.md",
+    "episodes/E063.md",
+    "episodes/E064.md",
+    "episodes/E070.md",
+    "episodes/E075.md",
+    "episodes/E080.md",
+    "episodes/E081.md"
+  ]
+}

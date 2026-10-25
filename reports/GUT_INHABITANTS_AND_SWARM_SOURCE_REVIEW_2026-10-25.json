@@ -1,0 +1,375 @@
+{
+  "date": "2026-10-25",
+  "campaign": "The Wastes",
+  "season": 1,
+  "episodes": [
+    "E052",
+    "E053",
+    "E059"
+  ],
+  "type": "Targeted creature source review, not full episode reanalysis",
+  "candidate_ids": [
+    "WSC-019",
+    "WSC-020"
+  ],
+  "audio_review": false,
+  "full_export_interpretive_review": false,
+  "full_export_asr_disagreement_computed": false,
+  "inventory": [
+    {
+      "episode": "E052",
+      "path": "sources/The Wastes S1E052. Hear me, Froghemuth!.parakeet.processed.srt",
+      "sha256": "f857b9580fe89b080b36bf4e94aa677b69343c1d0681d5009ec40fa53c439de1",
+      "cue_count": 3403,
+      "last_end_ms": 11412640,
+      "model_label": "Parakeet"
+    },
+    {
+      "episode": "E052",
+      "path": "sources/The Wastes S1E052. Hear me, Froghemuth!.qwen-q8.canary-ctc.nemotron.srt",
+      "sha256": "2b02cd174f4f0d1892152c5ab309f4e0bbe0d864f99d6a854cbf5e42378d67dd",
+      "cue_count": 5965,
+      "last_end_ms": 11412280,
+      "model_label": "Qwen"
+    },
+    {
+      "episode": "E053",
+      "path": "sources/The Wastes S1E053. Snacks of Power.parakeet.processed.srt",
+      "sha256": "dc956a392acf339374398081fbc6813f4c7b9d4d4c2860c100bc3c765c663e26",
+      "cue_count": 2690,
+      "last_end_ms": 9685890,
+      "model_label": "Parakeet"
+    },
+    {
+      "episode": "E053",
+      "path": "sources/The Wastes S1E053. Snacks of Power.qwen-q8.canary-ctc.nemotron.srt",
+      "sha256": "6dbdf0888bdc05fc745a12003b4cb9df97f57f04a5c427cce6923c5609cbe94a",
+      "cue_count": 4511,
+      "last_end_ms": 9684490,
+      "model_label": "Qwen"
+    },
+    {
+      "episode": "E059",
+      "path": "sources/The Wastes S1E059. Paradise of Mans.parakeet.processed.srt",
+      "sha256": "a4203e978168d3fd66cef0087cba1049cb3db92768d10225dd139590772b4ff5",
+      "cue_count": 2503,
+      "last_end_ms": 10156840,
+      "model_label": "Parakeet"
+    },
+    {
+      "episode": "E059",
+      "path": "sources/The Wastes S1E059. Paradise of Mans.qwen-q8.canary-ctc.nemotron.srt",
+      "sha256": "a64a2e019b5f2daab99e03a3ca96d8252581ee7c693a106a5dd5252ff41b376b",
+      "cue_count": 4030,
+      "last_end_ms": 10156560,
+      "model_label": "Qwen"
+    }
+  ],
+  "reviewed_windows": [
+    {
+      "episode": "E052",
+      "source": "sources/The Wastes S1E052. Hear me, Froghemuth!.parakeet.processed.srt",
+      "model_label": "Parakeet",
+      "start": "01:44:40",
+      "end": "01:48:20",
+      "first_cue": 1876,
+      "last_cue": 1948
+    },
+    {
+      "episode": "E052",
+      "source": "sources/The Wastes S1E052. Hear me, Froghemuth!.parakeet.processed.srt",
+      "model_label": "Parakeet",
+      "start": "02:02:10",
+      "end": "02:05:10",
+      "first_cue": 2210,
+      "last_cue": 2259
+    },
+    {
+      "episode": "E052",
+      "source": "sources/The Wastes S1E052. Hear me, Froghemuth!.parakeet.processed.srt",
+      "model_label": "Parakeet",
+      "start": "02:14:20",
+      "end": "02:15:40",
+      "first_cue": 2421,
+      "last_cue": 2443
+    },
+    {
+      "episode": "E052",
+      "source": "sources/The Wastes S1E052. Hear me, Froghemuth!.parakeet.processed.srt",
+      "model_label": "Parakeet",
+      "start": "02:20:00",
+      "end": "02:23:00",
+      "first_cue": 2522,
+      "last_cue": 2577
+    },
+    {
+      "episode": "E052",
+      "source": "sources/The Wastes S1E052. Hear me, Froghemuth!.parakeet.processed.srt",
+      "model_label": "Parakeet",
+      "start": "02:06:50",
+      "end": "02:08:20",
+      "first_cue": 2284,
+      "last_cue": 2310
+    },
+    {
+      "episode": "E053",
+      "source": "sources/The Wastes S1E053. Snacks of Power.parakeet.processed.srt",
+      "model_label": "Parakeet",
+      "start": "00:25:50",
+      "end": "00:30:00",
+      "first_cue": 423,
+      "last_cue": 498
+    },
+    {
+      "episode": "E053",
+      "source": "sources/The Wastes S1E053. Snacks of Power.parakeet.processed.srt",
+      "model_label": "Parakeet",
+      "start": "00:30:00",
+      "end": "00:30:40",
+      "first_cue": 498,
+      "last_cue": 512
+    },
+    {
+      "episode": "E053",
+      "source": "sources/The Wastes S1E053. Snacks of Power.parakeet.processed.srt",
+      "model_label": "Parakeet",
+      "start": "00:41:40",
+      "end": "00:44:30",
+      "first_cue": 678,
+      "last_cue": 728
+    },
+    {
+      "episode": "E053",
+      "source": "sources/The Wastes S1E053. Snacks of Power.parakeet.processed.srt",
+      "model_label": "Parakeet",
+      "start": "01:08:20",
+      "end": "01:09:40",
+      "first_cue": 1149,
+      "last_cue": 1168
+    },
+    {
+      "episode": "E053",
+      "source": "sources/The Wastes S1E053. Snacks of Power.parakeet.processed.srt",
+      "model_label": "Parakeet",
+      "start": "01:28:40",
+      "end": "01:30:10",
+      "first_cue": 1500,
+      "last_cue": 1523
+    },
+    {
+      "episode": "E053",
+      "source": "sources/The Wastes S1E053. Snacks of Power.parakeet.processed.srt",
+      "model_label": "Parakeet",
+      "start": "01:51:20",
+      "end": "01:53:10",
+      "first_cue": 1876,
+      "last_cue": 1911
+    },
+    {
+      "episode": "E059",
+      "source": "sources/The Wastes S1E059. Paradise of Mans.parakeet.processed.srt",
+      "model_label": "Parakeet",
+      "start": "02:04:40",
+      "end": "02:10:00",
+      "first_cue": 1823,
+      "last_cue": 1913
+    },
+    {
+      "episode": "E059",
+      "source": "sources/The Wastes S1E059. Paradise of Mans.parakeet.processed.srt",
+      "model_label": "Parakeet",
+      "start": "02:10:00",
+      "end": "02:12:00",
+      "first_cue": 1913,
+      "last_cue": 1944
+    },
+    {
+      "episode": "E059",
+      "source": "sources/The Wastes S1E059. Paradise of Mans.parakeet.processed.srt",
+      "model_label": "Parakeet",
+      "start": "02:15:40",
+      "end": "02:19:40",
+      "first_cue": 1998,
+      "last_cue": 2051
+    },
+    {
+      "episode": "E059",
+      "source": "sources/The Wastes S1E059. Paradise of Mans.parakeet.processed.srt",
+      "model_label": "Parakeet",
+      "start": "02:14:25",
+      "end": "02:15:15",
+      "first_cue": 1982,
+      "last_cue": 1994
+    },
+    {
+      "episode": "E053",
+      "source": "sources/The Wastes S1E053. Snacks of Power.parakeet.processed.srt",
+      "model_label": "Parakeet",
+      "start": "01:36:45",
+      "end": "01:37:30",
+      "first_cue": 1626,
+      "last_cue": 1639
+    },
+    {
+      "episode": "E052",
+      "source": "sources/The Wastes S1E052. Hear me, Froghemuth!.qwen-q8.canary-ctc.nemotron.srt",
+      "model_label": "Qwen",
+      "start": "01:45:35",
+      "end": "01:46:15",
+      "first_cue": 3252,
+      "last_cue": 3269
+    },
+    {
+      "episode": "E052",
+      "source": "sources/The Wastes S1E052. Hear me, Froghemuth!.qwen-q8.canary-ctc.nemotron.srt",
+      "model_label": "Qwen",
+      "start": "01:47:20",
+      "end": "01:48:18",
+      "first_cue": 3303,
+      "last_cue": 3342
+    },
+    {
+      "episode": "E053",
+      "source": "sources/The Wastes S1E053. Snacks of Power.qwen-q8.canary-ctc.nemotron.srt",
+      "model_label": "Qwen",
+      "start": "00:26:03",
+      "end": "00:27:05",
+      "first_cue": 722,
+      "last_cue": 751
+    },
+    {
+      "episode": "E053",
+      "source": "sources/The Wastes S1E053. Snacks of Power.qwen-q8.canary-ctc.nemotron.srt",
+      "model_label": "Qwen",
+      "start": "00:28:40",
+      "end": "00:28:55",
+      "first_cue": 800,
+      "last_cue": 807
+    },
+    {
+      "episode": "E052",
+      "source": "sources/The Wastes S1E052. Hear me, Froghemuth!.qwen-q8.canary-ctc.nemotron.srt",
+      "model_label": "Qwen",
+      "start": "02:03:10",
+      "end": "02:04:25",
+      "first_cue": 3873,
+      "last_cue": 3901
+    },
+    {
+      "episode": "E052",
+      "source": "sources/The Wastes S1E052. Hear me, Froghemuth!.qwen-q8.canary-ctc.nemotron.srt",
+      "model_label": "Qwen",
+      "start": "02:07:40",
+      "end": "02:08:10",
+      "first_cue": 4017,
+      "last_cue": 4035
+    },
+    {
+      "episode": "E052",
+      "source": "sources/The Wastes S1E052. Hear me, Froghemuth!.qwen-q8.canary-ctc.nemotron.srt",
+      "model_label": "Qwen",
+      "start": "02:14:55",
+      "end": "02:15:18",
+      "first_cue": 4245,
+      "last_cue": 4254
+    },
+    {
+      "episode": "E053",
+      "source": "sources/The Wastes S1E053. Snacks of Power.qwen-q8.canary-ctc.nemotron.srt",
+      "model_label": "Qwen",
+      "start": "00:42:04",
+      "end": "00:43:22",
+      "first_cue": 1111,
+      "last_cue": 1155
+    },
+    {
+      "episode": "E053",
+      "source": "sources/The Wastes S1E053. Snacks of Power.qwen-q8.canary-ctc.nemotron.srt",
+      "model_label": "Qwen",
+      "start": "01:08:45",
+      "end": "01:09:25",
+      "first_cue": 1907,
+      "last_cue": 1926
+    },
+    {
+      "episode": "E053",
+      "source": "sources/The Wastes S1E053. Snacks of Power.qwen-q8.canary-ctc.nemotron.srt",
+      "model_label": "Qwen",
+      "start": "01:29:05",
+      "end": "01:29:20",
+      "first_cue": 2497,
+      "last_cue": 2505
+    },
+    {
+      "episode": "E053",
+      "source": "sources/The Wastes S1E053. Snacks of Power.qwen-q8.canary-ctc.nemotron.srt",
+      "model_label": "Qwen",
+      "start": "01:51:35",
+      "end": "01:53:06",
+      "first_cue": 3160,
+      "last_cue": 3206
+    },
+    {
+      "episode": "E059",
+      "source": "sources/The Wastes S1E059. Paradise of Mans.qwen-q8.canary-ctc.nemotron.srt",
+      "model_label": "Qwen",
+      "start": "02:05:40",
+      "end": "02:06:05",
+      "first_cue": 2921,
+      "last_cue": 2931
+    },
+    {
+      "episode": "E059",
+      "source": "sources/The Wastes S1E059. Paradise of Mans.qwen-q8.canary-ctc.nemotron.srt",
+      "model_label": "Qwen",
+      "start": "02:09:45",
+      "end": "02:10:06",
+      "first_cue": 3039,
+      "last_cue": 3047
+    },
+    {
+      "episode": "E059",
+      "source": "sources/The Wastes S1E059. Paradise of Mans.qwen-q8.canary-ctc.nemotron.srt",
+      "model_label": "Qwen",
+      "start": "02:11:00",
+      "end": "02:11:52",
+      "first_cue": 3075,
+      "last_cue": 3096
+    },
+    {
+      "episode": "E053",
+      "source": "sources/The Wastes S1E053. Snacks of Power.qwen-q8.canary-ctc.nemotron.srt",
+      "model_label": "Qwen",
+      "start": "01:36:45",
+      "end": "01:37:30",
+      "first_cue": 2712,
+      "last_cue": 2733
+    }
+  ],
+  "local_cue_cache": "local/creature-search/gut-swarm-2026-10-25/sources.json",
+  "findings": [
+    {
+      "candidate_id": "WSC-019",
+      "articles": [
+        "world/creatures/froghemoth-gut-worms.md",
+        "world/creatures/white-filament-hunter.md",
+        "world/creatures/froghemoth-intestinal-ropers.md"
+      ],
+      "outcome": "Gut worms retain distinct stomach and intestinal observations. The filament hunter survives its line being severed; the first later roper dies and the second is left alive.",
+      "limits": "No single species, light response, shared origin, confirmed toxin rule or universal death in host decay. The host mind and Eye of Groxl remain separate reasoning subjects."
+    },
+    {
+      "candidate_id": "WSC-020",
+      "articles": [
+        "world/creatures/bloodsucking-desert-swarm.md"
+      ],
+      "outcome": "Approaching black bloodsucker cloud and mosquito-like sound; company and raptors shelter in Tiny Hut under a formed sand canopy.",
+      "limits": "Diptak supplies feeding and infiltration warnings, not witnessed casualties. No precise population, species, hut breach, lethal sand effect or swarm destruction."
+    }
+  ],
+  "edited_dossiers": [
+    "episodes/E052.md",
+    "episodes/E053.md",
+    "episodes/E059.md"
+  ]
+}

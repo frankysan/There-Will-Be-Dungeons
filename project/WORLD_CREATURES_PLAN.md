@@ -91,6 +91,14 @@ species lore. Campaign originality is a research question, not an entry gate.
 | The Wastes | [Mushroom-pit spider](../world/creatures/mushroom-pit-spider.md) | Selected E044 transcripts establish concealment/color change, death and use as food; no fixed species, intrinsic spore power or mushroom diet |
 | The Wastes | [Pale tentacled burrower](../world/creatures/pale-tentacled-burrower.md) | Selected E042/E045 transcripts establish warning, retreat, burrowing and a later stone likeness; species and individual relationship unresolved |
 | The Wastes | [River undead](../world/creatures/river-undead.md) | Selected E045/E046 transcripts establish undead forms, untranslated chanting and defeat; intelligence and former identities remain unknown |
+| The Wastes | [Froghemoth gut worms](../world/creatures/froghemoth-gut-worms.md) | Selected E052/E053 passages retain distinct light responses and uncertain relationship between the worm forms |
+| The Wastes | [White filament hunter](../world/creatures/white-filament-hunter.md) | Selected E052 passages establish a toothed scorpionlike appearance, line-cut rescue and surviving hunter |
+| The Wastes | [Froghemoth intestinal ropers](../world/creatures/froghemoth-intestinal-ropers.md) | Selected E053 passages distinguish the first roper's death from the second's unresolved fate |
+| The Wastes | [Bloodsucking desert swarm](../world/creatures/bloodsucking-desert-swarm.md) | Selected E059 passages distinguish the cloud and shelter from Diptak's feeding warnings; mosquito-like sound does not establish species |
+| The Wastes | [Black headworms](../world/creatures/black-headworms.md) | Selected E058/E063/E075 passages establish brain-dwelling forms, private eye observations and recovered specimens; no single species or universal control rule |
+| The Wastes | [Razak Val invasive worms](../world/creatures/razak-val-invasive-worms.md) | Selected E064 passages distinguish observed invasion and visible clearance from guaranteed cure or a settled transmission chain |
+| The Wastes | [Dolo Popio's spawned worms](../world/creatures/dolo-popio-spawned-worms.md) | Selected E080/E081 passages retain separate traits and uncertain surviving counts; the reasoning antagonist remains separate |
+| The Wastes | [Translucent wall-passers](../world/creatures/translucent-wall-passers.md) | Selected E070 passages establish empathic reactions, unanswered questions and toy-squeak retreat; no moral test, standard species or permanent familiar |
 | Delvers | [Gricks](../delvers/world/creatures/gricks.md) | S1E01 identification and S1E03 sinkhole predators; no invented S1E02–S1E03 transition or cleared dungeon |
 
 Squirts, Henatar/Henitar Grape and the imprisoned black dragon remain character
@@ -109,8 +117,8 @@ from supported material, preserving unknown fates and source limitations.
 
 The [initial season-wide dossier search](../reports/WASTES_S1_CREATURE_SEARCH_2026-10-24.md)
 and [machine-readable inventory](../reports/WASTES_S1_CREATURE_SEARCH_2026-10-24.json)
-record 32 additional candidate subjects or research clusters: nineteen now published
-(sand squid, all twelve initially draftable candidates and six source-reviewed leads), none awaiting initial drafting, 11 requiring focused review and
+record 32 additional candidate subjects or research clusters: twenty-three now published
+(sand squid, all twelve initially draftable candidates and ten source-reviewed clusters), none awaiting initial drafting, seven requiring focused review and
 two from the separately placed Wastes-setting Christmas one-off. The initial
 scan covers 130 available
 E-numbered dossiers; it is not a full transcript or audio review and excludes
@@ -129,7 +137,12 @@ The **gibbering mouther** and **mushroom-pit spider** are published after their
 [targeted transcript review](../reports/MOUTHER_AND_SPIDER_SOURCE_REVIEW_2026-10-25.md).
 The **pale tentacled burrower** and **river undead** are published after their
 [targeted transcript review](../reports/CAVERN_AND_RIVER_CREATURE_SOURCE_REVIEW_2026-10-25.md). The undead entry retains untranslated speech and unresolved personhood.
-Next are the **froghemoth gut inhabitants** and **bloodsucking desert swarm**,
-with distinct organisms and uncertain species still to resolve. These creature
+The **froghemoth gut inhabitants** now have three subject pages, alongside the
+**bloodsucking desert swarm**, after [targeted transcript review](../reports/GUT_INHABITANTS_AND_SWARM_SOURCE_REVIEW_2026-10-25.md).
+The **parasitic headworms and related forms** now have three separate accounts,
+alongside **translucent wall-passers**, after [targeted transcript review](../reports/HEADWORMS_AND_WALL_PASSERS_SOURCE_REVIEW_2026-10-25.md).
+The 23 published search subjects/clusters map to 27 articles, excluding the original
+Chicken Lords and Pixie Hulks. Next are **CHIDS hellhounds** and **corpse-bearing ice
+constructs**, with continuing-encounter outcomes still to resolve. These creature
 publications do not advance an episode-research pointer. Follow the report's
 specific identity, agency and source checks when continuing.

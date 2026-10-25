@@ -10,7 +10,7 @@
     "full_srt_review": false,
     "audio_review": false,
     "not_exhaustive": true,
-    "new_canonical_entries_published": 19,
+    "new_canonical_entries_published": 27,
     "selected_srt_followup": true
   },
   "search_patterns": [
@@ -18,9 +18,9 @@
     "\\b(?:devour\\w*|grubs?|aboleths?|otyughs?|chokers?|gazers?|specters?|spectres?|wraiths?|wights?|ghouls?|ghasts?|mephits?|bulettes?|carrion|darkmantles?|gricks?|gorgons?|salamanders?|cockatrices?|ankhegs?|stirges?|umber hulks?|maggots?|parasites?|slaads?|stalkers?|grells?|piercers?|tadpoles?)\\b"
   ],
   "counts": {
-    "published": 19,
+    "published": 23,
     "draft-next": 0,
-    "focused-review": 11,
+    "focused-review": 7,
     "separate-oneoff": 2
   },
   "inventory": [
@@ -1368,9 +1368,23 @@
     },
     {
       "id": "WSC-019",
-      "status": "focused-review",
+      "status": "published",
       "name": "Froghemoth gut inhabitants",
       "evidence": [
+        {
+          "episode": "E052",
+          "dossier": "episodes/E052.md",
+          "approximate_recording_window": "selected windows between 01:44:40 and 02:23:00"
+        },
+        {
+          "episode": "E053",
+          "dossier": "episodes/E053.md",
+          "approximate_recording_window": "selected windows between 00:25:50 and 01:53:10"
+        }
+      ],
+      "observed_lead": "Gut worms retain distinct stomach and intestinal observations. The filament hunter survives its line being severed; the first later roper dies and the second is left alive.",
+      "boundary_or_next_check": "No single species, light response, shared origin, confirmed toxin rule or universal death in host decay. The host mind and Eye of Groxl remain separate reasoning subjects.",
+      "discovery_evidence": [
         {
           "episode": "E052",
           "dossier": "episodes/E052.md",
@@ -1382,28 +1396,90 @@
           "approximate_recording_window": "00:20–01:58"
         }
       ],
-      "observed_lead": "Light-avoiding digestive organisms and larger thread-bearing or tentacled roper-like inhabitants occupy the interior.",
-      "boundary_or_next_check": "Several descriptions may indicate different organisms. Reconcile the sequence and distinguish incidental digestive fauna from distinct subjects before naming pages."
+      "discovery_observed_lead": "Light-avoiding digestive organisms and larger thread-bearing or tentacled roper-like inhabitants occupy the interior.",
+      "discovery_boundary_or_next_check": "Several descriptions may indicate different organisms. Reconcile the sequence and distinguish incidental digestive fauna from distinct subjects before naming pages.",
+      "article": "world/creatures/froghemoth-intestinal-ropers.md",
+      "article_title": "Froghemoth intestinal ropers",
+      "articles": [
+        "world/creatures/froghemoth-gut-worms.md",
+        "world/creatures/white-filament-hunter.md",
+        "world/creatures/froghemoth-intestinal-ropers.md"
+      ],
+      "publication_date": "2026-10-25",
+      "publication_basis": "Selected Parakeet windows with narrower Qwen cross-readings; no full-episode or audio review",
+      "source_review": "reports/GUT_INHABITANTS_AND_SWARM_SOURCE_REVIEW_2026-10-25.md",
+      "publication_scope": "Three subject pages; gut worms retain two distinct observed forms without a single-species identification."
     },
     {
       "id": "WSC-020",
-      "status": "focused-review",
+      "status": "published",
       "name": "Bloodsucking desert swarm",
       "evidence": [
+        {
+          "episode": "E059",
+          "dossier": "episodes/E059.md",
+          "approximate_recording_window": "selected windows between 02:04:40 and 02:19:40"
+        }
+      ],
+      "observed_lead": "Approaching black bloodsucker cloud and mosquito-like sound; company and raptors shelter in Tiny Hut under a formed sand canopy.",
+      "boundary_or_next_check": "Diptak supplies feeding and infiltration warnings, not witnessed casualties. No precise population, species, hut breach, lethal sand effect or swarm destruction.",
+      "discovery_evidence": [
         {
           "episode": "E059",
           "dossier": "episodes/E059.md",
           "approximate_recording_window": "02:04–02:20"
         }
       ],
-      "observed_lead": "Vast dark swarm forces the travelers to shelter in Tiny Hut.",
-      "boundary_or_next_check": "No confirmed species or individual morphology in the dossier; do not identify it as stirges, mosquitoes or another standard monster."
+      "discovery_observed_lead": "Vast dark swarm forces the travelers to shelter in Tiny Hut.",
+      "discovery_boundary_or_next_check": "No confirmed species or individual morphology in the dossier; do not identify it as stirges, mosquitoes or another standard monster.",
+      "article": "world/creatures/bloodsucking-desert-swarm.md",
+      "article_title": "Bloodsucking desert swarm",
+      "articles": [
+        "world/creatures/bloodsucking-desert-swarm.md"
+      ],
+      "publication_date": "2026-10-25",
+      "publication_basis": "Selected Parakeet windows with narrower Qwen cross-readings; no full-episode or audio review",
+      "source_review": "reports/GUT_INHABITANTS_AND_SWARM_SOURCE_REVIEW_2026-10-25.md"
     },
     {
       "id": "WSC-021",
-      "status": "focused-review",
+      "status": "published",
       "name": "Parasitic headworms and related worm forms",
       "evidence": [
+        {
+          "episode": "E058",
+          "dossier": "episodes/E058.md",
+          "approximate_recording_window": "00:59:40–01:05:20"
+        },
+        {
+          "episode": "E063",
+          "dossier": "episodes/E063.md",
+          "approximate_recording_window": "selected windows between 00:50:50 and 02:23:00"
+        },
+        {
+          "episode": "E064",
+          "dossier": "episodes/E064.md",
+          "approximate_recording_window": "01:04:40–01:08:10"
+        },
+        {
+          "episode": "E075",
+          "dossier": "episodes/E075.md",
+          "approximate_recording_window": "00:55:00–00:56:40; 01:02:40–01:05:15"
+        },
+        {
+          "episode": "E080",
+          "dossier": "episodes/E080.md",
+          "approximate_recording_window": "00:51:30–00:55:10; 00:56:10–00:58:35"
+        },
+        {
+          "episode": "E081",
+          "dossier": "episodes/E081.md",
+          "approximate_recording_window": "00:04:10–00:07:10; 00:14:40–00:15:20"
+        }
+      ],
+      "observed_lead": "Head-dwelling black worms, Razak Val skin-invading spray and Dolo Popio spawned/exhaled forms retain separate accounts; observed pursuit, attempted entry, removals and explosions are bounded by individual encounters.",
+      "boundary_or_next_check": "No single species, lifecycle, universal control, complete cure or extinction inferred. Whisper suggestion, private observations, captured bedding specimen, host speech and later offspring terminology remain qualified.",
+      "discovery_evidence": [
         {
           "episode": "E058",
           "dossier": "episodes/E058.md",
@@ -1435,22 +1511,50 @@
           "approximate_recording_window": "00:03–00:19"
         }
       ],
-      "observed_lead": "Observed head parasites, a captured bedchamber worm, an outbreak of host transformation and later explosive or exhaled worms.",
-      "boundary_or_next_check": "This is a research cluster, not one established species. Separate host testimony, observed parasites, spawned forms and transmission hypotheses; Dolo Popio remains a reasoning antagonist."
+      "discovery_observed_lead": "Observed head parasites, a captured bedchamber worm, an outbreak of host transformation and later explosive or exhaled worms.",
+      "discovery_boundary_or_next_check": "This is a research cluster, not one established species. Separate host testimony, observed parasites, spawned forms and transmission hypotheses; Dolo Popio remains a reasoning antagonist.",
+      "article": "world/creatures/black-headworms.md",
+      "article_title": "Black headworms",
+      "articles": [
+        "world/creatures/black-headworms.md",
+        "world/creatures/razak-val-invasive-worms.md",
+        "world/creatures/dolo-popio-spawned-worms.md"
+      ],
+      "publication_date": "2026-10-25",
+      "publication_basis": "Selected Parakeet windows with narrower Qwen cross-readings; no full-episode or audio review",
+      "source_review": "reports/HEADWORMS_AND_WALL_PASSERS_SOURCE_REVIEW_2026-10-25.md",
+      "publication_scope": "Three subject pages without a proven common species or lifecycle; host identities and the reasoning antagonist remain separate."
     },
     {
       "id": "WSC-022",
-      "status": "focused-review",
+      "status": "published",
       "name": "Translucent psychic wall-passers",
       "evidence": [
+        {
+          "episode": "E070",
+          "dossier": "episodes/E070.md",
+          "approximate_recording_window": "selected windows between 00:31:10 and 00:56:50"
+        }
+      ],
+      "observed_lead": "Small glowing tentacled creatures pass through walls, gather to songs, convey painless mental sensations, avoid Hope/Stanley and retreat at the toy squeak.",
+      "boundary_or_next_check": "No intelligible answers, moral test, confirmed mind control, brain consumption, standard species or lasting familiar established. Intelligence remains unresolved.",
+      "discovery_evidence": [
         {
           "episode": "E070",
           "dossier": "episodes/E070.md",
           "approximate_recording_window": "00:29–00:56"
         }
       ],
-      "observed_lead": "Glowing tentacled creatures pass through walls, respond to strong emotion and recoil from the squeaking plush toy.",
-      "boundary_or_next_check": "Keep the toy separate from living creatures. Recheck agency and identification rather than inventing a standard species."
+      "discovery_observed_lead": "Glowing tentacled creatures pass through walls, respond to strong emotion and recoil from the squeaking plush toy.",
+      "discovery_boundary_or_next_check": "Keep the toy separate from living creatures. Recheck agency and identification rather than inventing a standard species.",
+      "article": "world/creatures/translucent-wall-passers.md",
+      "article_title": "Translucent wall-passers",
+      "articles": [
+        "world/creatures/translucent-wall-passers.md"
+      ],
+      "publication_date": "2026-10-25",
+      "publication_basis": "Selected Parakeet windows with narrower Qwen cross-readings; no full-episode or audio review",
+      "source_review": "reports/HEADWORMS_AND_WALL_PASSERS_SOURCE_REVIEW_2026-10-25.md"
     },
     {
       "id": "WSC-023",
@@ -1720,6 +1824,28 @@
       "source_review": "reports/CAVERN_AND_RIVER_CREATURE_SOURCE_REVIEW_2026-10-25.md",
       "source_inventory": "reports/CAVERN_AND_RIVER_CREATURE_SOURCE_REVIEW_2026-10-25.json",
       "reason": "Resolve animal behavior, stone-form relationship, explicit undead type, speech and outcomes while preserving personhood uncertainty."
+    },
+    {
+      "subject": "Froghemoth gut inhabitants and bloodsucking desert swarm",
+      "candidate_ids": [
+        "WSC-019",
+        "WSC-020"
+      ],
+      "date": "2026-10-25",
+      "source_review": "reports/GUT_INHABITANTS_AND_SWARM_SOURCE_REVIEW_2026-10-25.md",
+      "source_inventory": "reports/GUT_INHABITANTS_AND_SWARM_SOURCE_REVIEW_2026-10-25.json",
+      "reason": "Separate digestive forms and predator outcomes, and distinguish swarm observations from Diptak warnings."
+    },
+    {
+      "subject": "Headworms, invasive/spawned forms and translucent wall-passers",
+      "candidate_ids": [
+        "WSC-021",
+        "WSC-022"
+      ],
+      "date": "2026-10-25",
+      "source_review": "reports/HEADWORMS_AND_WALL_PASSERS_SOURCE_REVIEW_2026-10-25.md",
+      "source_inventory": "reports/HEADWORMS_AND_WALL_PASSERS_SOURCE_REVIEW_2026-10-25.json",
+      "reason": "Separate observed worm forms, host identities, causal hypotheses and empathic contact from speech or moral judgment."
     }
   ],
   "publication_batches": [
@@ -1875,16 +2001,59 @@
         "WSC-019",
         "WSC-020"
       ]
+    },
+    {
+      "date": "2026-10-25",
+      "kind": "focused-source-review",
+      "candidate_ids": [
+        "WSC-019",
+        "WSC-020"
+      ],
+      "articles": [
+        "world/creatures/froghemoth-gut-worms.md",
+        "world/creatures/white-filament-hunter.md",
+        "world/creatures/froghemoth-intestinal-ropers.md",
+        "world/creatures/bloodsucking-desert-swarm.md"
+      ],
+      "source_review": "reports/GUT_INHABITANTS_AND_SWARM_SOURCE_REVIEW_2026-10-25.md",
+      "basis": "Selected E052/E053/E059 Parakeet/Qwen windows. WSC-019 split into three subject pages. No full-episode or audio review.",
+      "next_candidate_ids": [],
+      "next_review_candidate_ids": [
+        "WSC-021",
+        "WSC-022"
+      ]
+    },
+    {
+      "date": "2026-10-25",
+      "kind": "focused-source-review",
+      "candidate_ids": [
+        "WSC-021",
+        "WSC-022"
+      ],
+      "articles": [
+        "world/creatures/black-headworms.md",
+        "world/creatures/razak-val-invasive-worms.md",
+        "world/creatures/dolo-popio-spawned-worms.md",
+        "world/creatures/translucent-wall-passers.md"
+      ],
+      "source_review": "reports/HEADWORMS_AND_WALL_PASSERS_SOURCE_REVIEW_2026-10-25.md",
+      "basis": "Selected seven-episode Parakeet/Qwen windows. WSC-021 split into three subject pages; agency and source boundaries retained. No full-episode or audio review.",
+      "next_candidate_ids": [],
+      "next_review_candidate_ids": [
+        "WSC-023",
+        "WSC-024"
+      ]
     }
   ],
   "last_updated": "2026-10-25",
   "next_work": {
     "type": "focused-source-review",
     "candidate_ids": [
-      "WSC-019",
-      "WSC-020"
+      "WSC-023",
+      "WSC-024"
     ],
-    "purpose": "Separate the froghemoth gut inhabitants and review the bloodsucking desert swarm before publication; do not infer species identities."
+    "purpose": "Review the continuing CHIDS hellhound and corpse-bearing ice-construct encounters, preserving individual outcomes and uncertain identities."
   },
-  "inventory_snapshot_description": "Dossier fingerprints preserve the initial 2026-10-24 discovery scan; later targeted dossier amendments are recorded in follow-up reports."
+  "inventory_snapshot_description": "Dossier fingerprints preserve the initial 2026-10-24 discovery scan; later targeted dossier amendments are recorded in follow-up reports.",
+  "published_article_count": 27
 }

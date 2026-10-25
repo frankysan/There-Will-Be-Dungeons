@@ -1,6 +1,6 @@
 # Delvers — consistency ledger
 
-**Spoiler horizon: S1E06. Status: ASR-provisional, 2026-10-25.** Source-cutoff conclusions are not listening resolutions. The [S1E06 dossier](../episodes/S1E06.md), earlier [S1E01–S1E05](../REVIEW_QUEUE.md) research and [S1E06 comparison](../../reports/DELVERS_S1E06_ASR_COMPARISON_2026-10-25.md) own timestamps and evidence; the [review queue](../REVIEW_QUEUE.md) owns bounded checks.
+**Spoiler horizon: S1E08. Status: ASR-provisional, 2026-10-25.** Source-cutoff conclusions are not listening resolutions. The [S1E06 dossier](../episodes/S1E06.md), earlier [S1E01–S1E05](../REVIEW_QUEUE.md) research and [S1E06 comparison](../../reports/DELVERS_S1E06_ASR_COMPARISON_2026-10-25.md) own timestamps and evidence; the [review queue](../REVIEW_QUEUE.md) owns bounded checks.
 
 ## Open questions
 
@@ -48,6 +48,13 @@
 | DEL-S1E07-006 | Claimed predator ecology and black ichor | Cassius and Carrie raise darkmantle/stirge/grick/piercer food-chain and black goo link; **piercer larvae / larger predator is hypothesis**, guild does not prove metamorphosis, a common source or the awakening of Enzo's alleged heart |
 | DEL-S1E07-007 | Southwest monsters, civilians and items | **One rust monster, one mimic, one stirge** defeated; **Bruno dog survives** after Evelyn's 3 Lay on Hands, warehouse worker treated by Krandal. Koh takes **one rust monster antenna, three plain buckles**; no retained mimic tissue verified. Blacksmith a human, not a bugman. No proof monster actually emerged from well during scene |
 | DEL-S1E07-008 | Well safety and cutoff | Krandal **abandons proposal to put corpse in well** and throws only a rock. Party **does not descend or test water**, yet reassures residents. Cassius deploys **Brigand Patrol guard** and party races **back toward well with unused concrete**. **No completed well inspection, sealing, water safety finding or later party reports at episode cutoff** |
+
+| DEL-S1E08-001 | Well breach and completed seal | Koh **actually descends southwest well** and finds outwardly displaced bricks from a natural side passage. Party uses **one sack of concrete plus rock** to seal a narrow passage; First Sons seals the other assigned approach. This supersedes S1E07's uninspected-well cutoff, **but the water has not been sampled and other subterranean passages are still open** |
+| DEL-S1E08-002 | First Sons roster and cooperation | **Edgar Boonefellow**, **Norman Green**, **Faelan/Faelen Ianya** are the three present First Sons Brotherhood members (spellings provisional). Initial claim conflict resolves without combat. Their assistance is essential for **six-person floor/platform puzzle** and sealing, but the teams remain distinct |
+| DEL-S1E08-003 | Temple entrance and structural damage | Dungeon's **six** pressure plates, each requiring shaft plus sufficient weight, **open slabs in Pelor temple floor**. **Brother Maynard** sees disruption. No demonstrated instant repair, teleportation, compensation or disciplinary outcome. Location of further tunnels not fully charted |
+| DEL-S1E08-004 | Horn and psychic shafts | Armory has **eight** stone-metal shafts; Koh makes psychic tip appear. **Evelyn keeps Horn of Blasting**, with small crack from use; she and Krandal suffer **19 thunder damage** and temporary deafness, then short rest. Six shafts enable puzzle; two remaining/spare ownership and transfer offered to First Sons unresolved. **Do not conflate horn with Soul Knife** |
+| DEL-S1E08-005 | Sash vs ropes, other equipment | Koh **left Sultan's Sash attached at well** and speaks of surface retrieval only as future intent. First Sons secures a separate **ordinary rope** across pit trap. Evelyn **temporarily removes chain mail and hammer/pack** before crossing; separate pickup/final custody not narrated. Character-sheet duplicate items discarded during table chatter are **not verified in-world transfers** |
+| DEL-S1E08-006 | Rock-eater, guild threat and cliffhanger | Friendly **Primordial-speaking rock creature** remains in cavern network, assists with rocks; its ambiguous warning doesn't verify a specific monster. Deeper natural cave includes overhead piercers and **gelatinous cube** revealed by floating stones and a javelin probe. **No cube combat by cutoff**; no new reward or level granted |
 
 ## Resolved provisionally by each episode's cutoff
 
