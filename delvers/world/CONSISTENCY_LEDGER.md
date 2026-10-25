@@ -1,8 +1,14 @@
 # Delvers — consistency ledger
 
-**Spoiler horizon: S2E03 — Season Two financial-quarter bulette and covert Withers planning (first arc previously concluded at S1E12). Status: ASR-provisional, 2026-10-25.** Source-cutoff conclusions are not listening resolutions. [S2E03 dossier](../episodes/S2E03.md), [ASR report](../../reports/DELVERS_S2E03_ASR_COMPARISON_2026-10-25.md) and earlier [campaign research queue](../REVIEW_QUEUE.md) own timestamps, competing readings and audio questions; earlier episode cutoffs retain their historical state.
+**Spoiler horizon: S2E05 — Withers heist proceeds, Brotherhood settlement and pending Cassius debrief (first arc ended at S1E12). Status: ASR-provisional, 2026-10-25.** Source-cutoff conclusions are not listening resolutions. [S2E03 dossier](../episodes/S2E03.md), [ASR report](../../reports/DELVERS_S2E03_ASR_COMPARISON_2026-10-25.md) and earlier [campaign research queue](../REVIEW_QUEUE.md) own timestamps, competing readings and audio questions; earlier episode cutoffs retain their historical state.
 
 ## Open questions
+
+| DEL-S2E05-001 | Withers fire after escape | **S2E05 actually depicts Withers Estate ablaze during escape cart ride** (~00:02–00:05); in S2E04 setting it alight was only a proposal. Source does **not identify who or what ignited it** |
+| DEL-S2E05-002 | Jade count / Brothers' share | S2E04 **23 pieces lifted**; S2E05 **21 jade works unbagged**; Brotherhood explicitly takes jade as its share. Difference could be partial unloading or narrator/count inconsistency; do not silently choose a count |
+| DEL-S2E05-003 | Investigative artifacts / ancient document | Portrait of **Enzo** conceals **unfinished map**; book records brain/voice anatomy and Withers-funded jobs, including Broscale family cave; parchment heading **Kalzar/Calzar?** not identified; music box with carved disc causes targeted **Swiftclef headache**, not a proven general power |
+| DEL-S2E05-004 | Loot, custody and settlement | 15,000 gp equivalent each; Krandal **7,800 gp + 7,200 gem value**; Evelyn buys 5,000-gp bag and declines remaining 10k, Koh/Krandal split 5k each; separate **6k offer** not verified as paid. Koh conceals other bag (portrait/book/mirror), keeps music box, hat, signal pan flute; Krandal receives cloak, dice, underwater candle; untracked leftovers need review |
+| DEL-S2E05-005 | Cassius meeting cutoff | Planned same-morning report abandoned in favor of rest/day off; **no reporting, handing over documents, full painting reveal, or confirmation of Withers crimes by episode cutoff** |
 
 | Key | Issue | Current evidence and limit |
 | --- | --- | --- |

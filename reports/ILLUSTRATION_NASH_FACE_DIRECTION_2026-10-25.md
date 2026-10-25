@@ -107,6 +107,32 @@ burned flesh where none exists. Keep the project's limited bright
 accents and format rules. Preserve source fidelity and chronology
 as constraints independent from style.
 
+## Normalized candidate prepared — 2026-10-25
+
+The original owner-preferred face artwork is preserved unchanged in the repository as
+`illustrations/references/Nash_Maggard_Face_v1.png` (SHA-256
+`8fbb2e8ce113826c89b85cc461af8f3ba3eaa41cbfc435462e4395b0efdc025b`).
+A **separate session export**, `/mnt/data/Nash_Maggard_Face_v1_1024_sRGB.png`,
+was generated directly from matching original bytes with aspect-preserving
+Lanczos downsampling, **no cropping, mirroring, content retouching or added art**.
+Verified output: **1024 × 1024, RGB PNG**, embedded **588-byte sRGB ICC
+profile** (`sRGB built-in`), **1,866,988 bytes**, SHA-256
+`93e82eff061afd08611d0e6cf4fe8dfd11058ed94985c8c10a9d42140947cb71`.
+The resulting image was **visually inspected**, retaining all of the face,
+red left eye, bandages, rust hood and small angle/eye reference views.
+The original was untagged, so the sRGB export **assumes its RGB channel
+values were intended as sRGB**; a tag cannot retroactively verify the
+original source color space.
+
+**Status: technically conforming export, not yet a repository asset or
+`FACE_APPROVED`.** The exported session PNG must be placed in a new,
+non-overwriting workspace path such as
+`illustrations/references/Nash_Maggard_Face_v1_1024_sRGB.png`, and its
+full-file SHA-256 reverified there; the original v1 PNG stays unmodified.
+Owner's previous favorable response approved the artistic *direction*,
+not necessarily this exact normalized file/version as the formal face
+identity anchor. Request explicit acceptance once the copy is accessible.
+
 **Do not mistake 'good direction' for 'owner-approved model sheet'.**
 Keep `WASTES-NASH-MAGGARD-DS-001` in `drafting` until an actual
 technically conforming anchor and final sheet have separately cleared
