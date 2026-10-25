@@ -1,6 +1,6 @@
 # Delvers — world reference
 
-**Spoilers through Delvers S2E12 — END SECOND ARC: Bronze Ball catastrophe, active underground Drone, Withers+Wildfire missing below, GCT/Princess Hissia live appearances, after first arc ending S1E12; S2E00 is earlier in-story narrated fiction despite archive label.** Evidence: full dual-ASR text research, not audio-verified. This reference describes Delvers's separate reality. Handout statements and NPC claims retain their attribution.
+**Spoilers through Delvers S3E02:** Bronze Ball catastrophe and second-arc cliffhanger S2E12; **played three-month transition finishes with new Silver City guild raid/questing licence regime**, Evelyn returns to Atomer, Koh's red-crystal detector upgraded, Krandal's barn built; **Khalazar's ultimate fate and Cassius inquiry not resolved**. S2E00 is earlier narrated fiction despite archive label. [Episode dossier](../episodes/S3E02.md). Evidence: full dual-ASR text research, not audio-verified. This reference describes Delvers's separate reality. Handout statements and NPC claims retain their attribution.
 
 | Read about | Reference |
 | --- | --- |
@@ -8,11 +8,12 @@
 | Koh's wife RESCUED and physically awake in S2E10 | [Anthela Spiros](characters/anthela-spiros.md) |
 | Khalazar's two described psychic forms, unresolved real-world fate | [Khalazar](characters/khalazar.md) |
 | Hereditary Drone, actively sounding from erupted ballroom pit at S2E12 cutoff | [Hereditary Drone](items/hereditary-drone.md) |
-| Dream-recovered red shard, S2E10 Carrie handoff vs S2E11 Evelyn recurrence | [Khalazar red crystal](items/khalazar-red-crystal.md) |
+| Dream-recovered red shard, Carrie now uses one to make Koh's detector; S2E11 custody discrepancy persists | [Khalazar red crystal](items/khalazar-red-crystal.md) |
+| Koh's new red-crystal compulsion detector, upgraded to show approximate direction | [Sensory amulet](items/khalazar-sensory-amulet.md) |
 | Divisible glowing pink friendship locator, now worn as rose by Traveler | [Evelyn's friendship ribbon](items/friendship-ribbon.md) |
 | Evelyn's actual romantic visitor and paired battlefield teleporter | [Gentleman Cavalier Traveler](characters/gentleman-cavalier-traveler.md) |
 | Snake Island royal woman, claims Krandal beloved | [Princess Hissia](characters/princess-hissia.md) |
-| Unknown diamond-heart handled item Lady Vestal gave Evelyn | [Vestal's mystery gift](items/vestal-diamond-heart-handle.md) |
+| Lady Vestal's heart-shaped hilt, now identified as Loran's self-belief-powered +2 sword | [Loran Ilfelkyr's blade](items/vestal-diamond-heart-handle.md) |
 | Kuo-toa hired as Krandal's riverbank gardener | [Glepo Ma](characters/gleepo-ma.md) |
 | Wildfire's family manor and promotion dinner | [Broscale Manor](places/broscale-manor.md) |
 | Guest wood-elf silver-ranked dragon hunter | [Marsh](characters/marsh.md) |

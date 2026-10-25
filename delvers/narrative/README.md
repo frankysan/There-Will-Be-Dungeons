@@ -1,6 +1,6 @@
 # Delvers — narrative histories
 
-[Season Three — After the Broken Ball](SEASON_THREE.md) begins **on the same Bronze Ball night**, follows the next two mornings, and closes with seven afflicted elves actually treated while Evelyn travels home. The GM's proposed three-month interval is **not yet completed**. [S3E01 evidence](../episodes/S3E01.md).
+[Season Three — After the Broken Ball](SEASON_THREE.md) starts the same Bronze Ball night in [S3E01](../episodes/S3E01.md), then **actually carries its three-month in-world transition to the new Silver City raid announcement by [S3E02](../episodes/S3E02.md)**. Evelyn rejects arranged marriage and returns on a celestial elk, Koh's amulet gains a directional finder and he buys a new home, and Krandal's farm expands while a mummified assassin attacks. No first Silver raid yet.
 
 [Season Two — The Forgotten Fortnight](SEASON_TWO.md) now covers the **COMPLETE SECOND STORY ARC, S2E01–S2E12 (owner-confirmed boundary)**: Snake Island amnesia and Potatopia, Withers heist, Gemholm slaad outbreak, Fredoroth dragon hunt, Koh's rescue of Anthela, silver-knight exam, and **actual Bronze Ball destroyed by an ACTIVE underground Hereditary Drone**. It **ENDS ON CLIFFHANGER**: Wildfire and Withers fall underground, elves still drawn compulsively to table-blocked pit. Future Season Three expedition and three-month time passage were **GM previews only**, not played here.
 

@@ -75,7 +75,7 @@ preflight. Queue write failures are also hard stops.
    request. **Branch into `DESIGN_SHEET`** (initial/updated character model
    sheet) **or `SCENE`** (portrait, group, event, setting and other narrative
    depictions). For `DESIGN_SHEET` **dispatch to the named phase**
-   (`plan`, `face`, `front`, `side`, `back`, `assemble`,
+   (`plan`, `face`, `front`, `side`/`paired-sides`, `back`, `assemble`,
    `review`, `register`, or `continue`) defined in
    [CHARACTER_SHEET.md](CHARACTER_SHEET.md). Do not interpret a
    `DESIGN_SHEET` request as one giant multi-view image-generation call.

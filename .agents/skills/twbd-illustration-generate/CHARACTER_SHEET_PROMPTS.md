@@ -38,7 +38,7 @@ If metadata reports `edit_op:null` / `parent_gen_id:null`, that **does not prove
 
 ## Prompt template conventions
 
-- Replace all `{{PLACEHOLDERS}}` with subject-specific details from the **approved actual image** and integrated reference. Never replace them by inventing canon.
+- Replace every bracketed field or template placeholder (such as `[CHARACTER]`, `[STORY_STATE]` and `[ASYMMETRIC FEATURE]`) with subject-specific details from the **approved actual image** and integrated reference. Never replace them by inventing canon.
 - Attach the required PNG(s) **to the same request**. Do not include rejected candidates as source inputs. Start a fresh image edit request when the client cannot bind previous tool/image outputs reliably.
 - Prompt **positively**: describe the approved garment, face and equipment, and what to change in viewpoint. Keep prior failure terms and negative inventories in a **separate QA checklist**, not the model-facing request where they may be mistaken for desired attributes.
 - Preserve the attached image as the visual authority. The current mandatory house style is the **exact immutable block in [SKILL.md §3B](SKILL.md#fixed-style-prompt-block--include-unchanged-in-every-generationedit-prompt)**. Before issuing each actual generate/edit call, **append that full block unchanged**; the compact templates below are the *subject/view-specific prefix*. If copying into a client outside this project, paste the full block from SKILL.md after the template. The source file, not this page, owns style-version updates.

@@ -1,5 +1,12 @@
 # Potato Grove — Krandal's riverside tower
 
+## S3E02: Working fields and the newly built barn
+
+During the **actual three-month montage** after the Bronze Ball, Krandal **purchases an eight-gold donkey/mule called Sean**, puts his **Goodwine-donated Kingdom Light metal plow** to use, and **accepts Bullywug Muck Muck on a two-week trial** under Gleepo Ma, with Noparopa handling large field tasks. Chad/Brad the minotaur skull remains the lookout; no full rescinding of its existing care arrangement is described. He reads the **mortal-authored Pelor's Tome of Agriculture** and learns to pre-sprout potatoes away from direct light: **initial yield is disappointing (GM 8/20 nature result)**. He **spends ~3,500 gp on materials for a seed barn/tool loft**, puts Noparopa in charge and **the barn is actually completed after a week**, with distinctive serpent-head roof decorations. Later plants take root and the farm grows, but **no precise final crop count, money from harvest, or signed 80,000-gp Goodwine investment** exists at S3E02 cutoff. Farm map was sent via cast Slack during recording; original image not independently inspected.
+
+During farm work a thin mummified apparently elven attacker **with Khalazar's bat sigil** strikes Krandal, damages planted ground with dark magic and reports a bounty for his death. **Krandal kills it and physically delivers corpse to guild researcher Carrie**; she notes intentional organ removal but does **not** identify the handler. This is a real threat to Potato Grove, not proof of a failed harvest, or of the guard Princess Hissia's rescue. [Played dossier](../../episodes/S3E02.md).
+
+
 ## Introduction
 
 Beside the river north of Atomer, not far from the ruined Noble Hollow, lies a neglected watchtower with a small holding of arable land. The stone walls rise only about twenty feet, with the top torn open to the weather; broken masonry lies in the grass at their foot. A wooden cottage has lost its roof and much of its floor, and its stove has rusted almost beyond recognition. Two small plots of soil wait beneath weeds, watered once by a narrow irrigation ditch running from the river. The place was given to Krandal Splenderbelt as a reward for saving guild members and the city, a beginning for his much-discussed potato farm rather than an established estate.[^place]

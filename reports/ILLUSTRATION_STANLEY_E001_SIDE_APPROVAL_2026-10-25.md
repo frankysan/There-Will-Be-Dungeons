@@ -2,7 +2,7 @@
 
 **Campaign:** The Wastes. **Character:** `WASTES-STANLEY-BILLINGS`. **State:** `WASTES-STANLEY-BILLINGS-A01` (E001). **Design-sheet ID:** `WASTES-STANLEY-BILLINGS-DS-001`.
 
-**Status:** `SIDE_VISUAL_ACCEPTED / SIDE_REGISTRATION_PENDING` for **both** anatomical side profiles, as a **single explicitly owner-approved paired image**. Existing `FACE_APPROVED` and `FRONT_APPROVED` remain valid. `SIDE_APPROVED` is **not yet reached**: source and derivatives must still be placed in `illustrations/references/` and byte/hash/profile checked through the repository. `BACK_DRAFTING` and final-sheet `OWNER_APPROVED` have **not** started.
+**Status (updated 2026-10-25): `SIDE_APPROVED`** for the owner's paired left/right profile image and its individually normalized anatomical-left and anatomical-right derivatives. All three exact 1024-square sRGB production files were found in `illustrations/references/` and read back with SHA-256 and byte counts matching the previously validated derivatives (see verification addendum below). Existing `FACE_APPROVED` and `FRONT_APPROVED` remain unchanged. **BACK_DRAFTING / direct-image-input preflight** is the next stage; no back candidate or final `OWNER_APPROVED` sheet exists.
 
 ## Context and explicit owner decision
 
@@ -31,11 +31,11 @@ The approved image was proportionally LANCZOS-resized from 1254² to 1024² with
 
 **Caution:** The accepted pair is the primary visual approval; the two individual square extractions retain its artwork, and their registration as individual side anchors is conditional on readback and normal review. Do not say that the side assets are already in the repository merely because download links exist in this chat.
 
-## Next stage / exact registration gate
+## Historical registration plan (completed 2026-10-25) / next stage: BACK
 
 1. Owner places all three exports in `illustrations/references/`, preserving the filenames above and the previously approved E001 front/face.
 2. Verify each repo file's byte count, SHA-256, PNG IHDR and actual sRGB ICC profile through the connected workspace reader. If all match, record the **paired** side approval as `SIDE_APPROVED`, and register both individual side pixel-derivatives as accompanying left/right anchors, provided no new layout artifacts are found.
 3. Proceed on a **separate explicit stage invocation** to a **single complete orthographic rear view** using the exact approved front/side references, unchanged brown coat/vest/collar/cuff/boots and actual physical left-hip rapier placement. Do **not** simply mirror a profile or accidentally change the sword's hip, and do not mark `BACK_APPROVED` without separate owner approval and repository verification.
 4. The final assembled sheet remains pending independent review and registration.
 
-**Checks:** Supplied original file metadata and checksum PASS. All three converted session exports PNG/1024-square/sRGB ICC/byte-count/checksum PASS. Paired and individual views opened/visually reviewed PASS. Repository readback NOT RUN (images not uploaded yet). TWBD lint/tests NOT RUN (repository-only text documentation change; no relevant test runner available). No source facts changed; no other subject images modified.
+**Checks:** Supplied original file metadata and checksum PASS. All three converted session exports PNG/1024-square/sRGB ICC/byte-count/checksum PASS. Paired and individual views opened/visually reviewed PASS. Repository readback PASS on 2026-10-25: paired 1,130,779 bytes / SHA-256 `1163cc16f5ed34f1b2d7a8016330a5253cd03f2fbef7bd2037d490effc626b9a`; anatomical left 574,210 / `c685ace99abf4e51fbae4b77d887dab8de8a9835d51e4f64de95c679f57c14eb`; anatomical right 548,196 / `09f65c7e94b15c4e671093ebc00f3f5325341399a94760fb0a84f58552c2b4fe`. Every file matched the earlier verified 1024-square sRGB export byte-for-byte and first-chunk PNG/iCCP header. Front and face hashes also matched. Thus `SIDE_APPROVED`; BACK requires a distinct source-image-conditioned render and approval. TWBD lint/tests NOT RUN (repository-only text documentation change; no relevant test runner available). No source facts changed; no other subject images modified.

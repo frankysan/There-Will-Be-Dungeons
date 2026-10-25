@@ -1,4 +1,11 @@
-# Anthela Spiros — Koh's rescued wife
+# Anathala / Anthela Spiros — Koh's rescued wife
+
+**Name review:** In S3E01's introductory recap Kyle **explicitly settles the previously variable pronunciation/name as “Anathala,”** and it is used throughout S3E02 by speaker and ASR, while **Anthela** remains the older working written file slug and historic source reading. **Do not silently rename every historic citation or claim an independently verified official character-sheet spelling; original sound/written provenance is still pending**. [S3E01](../../episodes/S3E01.md) · [S3E02](../../episodes/S3E02.md).
+
+## S3E02: Voluntary research and recovered family life
+
+Recovered Anathala **actually agrees to Carrie Underworld's repeated blood tests** to understand Khalazar's original interest in her. Koh protects her by maintaining telepathic contact; after ~three weeks, Carrie fashions a [red-crystal detector](../items/khalazar-sensory-amulet.md) using the shard Evelyn handed her and **Anathala's blood**. Carrie suggests **possible Dolbluth ancestry** and a role in Khalazar's planned rite, but **this is tentative research, not confirmed genealogical fact**. Anathala remains physically awake and accompanies Koh in the lab. Koh declines proposed renewed hypnosis/exposure to the Drone because of danger. Over the episode's completed three-month montage, the family relocates when Koh purchases a smaller home by the guild; **not a return to coma**.
+
 
 ## S2E12: awake, dancing, then resisting new compulsion
 

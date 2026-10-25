@@ -61,7 +61,7 @@ When a face/front/side anchor is already owner-approved, a subsequent orthograph
 
 **Back:** “One full rear view head-to-boot of precisely the same outfit and equipment, same hood-up/down configuration.” Reconcile cape folds, straps, bags, gloves, boots and prop attachment geometry with front and sides. No new inscriptions or backpacks.
 
-**Assemble:** Default two text-free 1024-square pages when a single sheet would shrink features: first page front, side(s) and back at **comparable actual figure heights**; second page high-resolution approved face/expression reference and essential tiny objects. **Prefer deterministic layout using exact approved pixels**, not a generative redraw. Matte/scale images only without cropping/warping defining body, staff or boots; inspect actual mask edges and the output image after compositing. No panel labels, statblocks, written descriptions or decorative borders. Put all explanation in Markdown/manifest, not in the image.
+**Assemble:** Default two text-free 1024-square pages when a single sheet would shrink features, but add further pages as necessary for **both** side views: first page front, side(s) and back at **comparable actual figure heights**; second page high-resolution approved face/expression reference and essential tiny objects. **Prefer deterministic layout using exact approved pixels**, not a generative redraw. Matte/scale images only without cropping/warping defining body, staff or boots; inspect actual mask edges and the output image after compositing. No panel labels, statblocks, written descriptions or decorative borders. Put all explanation in Markdown/manifest, not in the image.
 
 **Phase-specific prompt recipe:** Start with the [copy-ready per-stage templates and attached-image workflow](CHARACTER_SHEET_PROMPTS.md), fill only researched/approved traits, and then append the unchanged section 3B style block. (1) subject/campaign/state/episode cutoff; (2) sourced mandatory visible facts; (3) provisional design decisions and exclusions; (4) exactly **one stage-specific composition**, not “make an elaborate character sheet”; (5) filenames/hashes of approved **actual image references** and what was truly passed to renderer; (6) append **verbatim current full style lock** in generation `SKILL.md` section 3B, **no modifications/shortening**. Request a **single 1024 × 1024 square PNG in sRGB**. Keep the actual tool prompt/settings and source conditioning metadata if available. If not, label `actual_prompt=unavailable` or `refs_sent=not verified`, not as a factual claim.
 
@@ -99,7 +99,10 @@ outfit_lock: { version: ..., garments: ..., accessories: ... }
 anchors:
   face: { status: ..., path: ..., sha256: ..., owner_decision: ..., color_profile: ... }
   front: { status: ..., path: ..., sha256: ..., owner_decision: ..., color_profile: ... }
-  side: { status: ..., path: ..., sha256: ..., owner_decision: ..., color_profile: ... }
+  side: { status: ..., layout: <single|paired>, primary_path: ..., sha256: ..., owner_decision: ..., color_profile: ... }
+  # For a paired image optionally include these derived anchor records; each must be verified if published.
+  side_left: { status: ..., path: ..., sha256: ..., derived_from: ... }
+  side_right: { status: ..., path: ..., sha256: ..., derived_from: ... }
   back: { status: ..., path: ..., sha256: ..., owner_decision: ..., color_profile: ... }
 final_pages: [{ path: ..., sha256: ..., owner_approved: false }]
 attempt_log: [{ phase: ..., intended_prompt: ..., actual_prompt: ..., references_inspected: [], references_sent_to_renderer: [], settings: ..., outcome: ..., error: ... }]
