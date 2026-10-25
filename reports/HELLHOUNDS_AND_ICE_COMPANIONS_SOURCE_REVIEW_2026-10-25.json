@@ -1,0 +1,329 @@
+{
+  "date": "2026-10-25",
+  "campaign": "The Wastes",
+  "season": 1,
+  "episodes": [
+    "E070",
+    "E071",
+    "E072",
+    "E073"
+  ],
+  "type": "Targeted creature source review and character-context routing, not full episode reanalysis",
+  "candidate_ids": [
+    "WSC-023",
+    "WSC-024"
+  ],
+  "audio_review": false,
+  "full_export_interpretive_review": false,
+  "full_export_asr_disagreement_computed": false,
+  "inventory": [
+    {
+      "episode": "E070",
+      "path": "sources/The Wastes S1E070. Polymorph The Security Monkey.parakeet.processed.srt",
+      "sha256": "1d45da43fb1a38801fa9e05f569ae5ec6609bbbf022fd33f215a53bf75540a0d",
+      "cue_count": 2942,
+      "last_end_ms": 11039480,
+      "model_label": "Parakeet"
+    },
+    {
+      "episode": "E070",
+      "path": "sources/The Wastes S1E070. Polymorph The Security Monkey.qwen-q8.canary-ctc.nemotron.srt",
+      "sha256": "da661f76f3f650a588c204b40ca8b033572fdf8b76230f3a2c5a4cd4e9f3acef",
+      "cue_count": 5097,
+      "last_end_ms": 11039280,
+      "model_label": "Qwen"
+    },
+    {
+      "episode": "E071",
+      "path": "sources/The Wastes S1E071. The Door Street Journal.parakeet.processed.srt",
+      "sha256": "8ddb7f40148ebf3e609700d5a7f82ec8b2933612517b9b11f8f87dd5657df0f3",
+      "cue_count": 2771,
+      "last_end_ms": 10121240,
+      "model_label": "Parakeet"
+    },
+    {
+      "episode": "E071",
+      "path": "sources/The Wastes S1E071. The Door Street Journal.qwen-q8.canary-ctc.nemotron.srt",
+      "sha256": "d40738a620f2f819b6d8e56eb7267c5c262fd6de64efd39d6c9d27c1b74a7ef2",
+      "cue_count": 4784,
+      "last_end_ms": 10124300,
+      "model_label": "Qwen"
+    },
+    {
+      "episode": "E072",
+      "path": "sources/The Wastes S1E072. Weekend at Toby's.parakeet.processed.srt",
+      "sha256": "81eed492f27d6ea7af0564bae3e2ea1d0f674100ae91169b103beb0d92182870",
+      "cue_count": 2535,
+      "last_end_ms": 9977470,
+      "model_label": "Parakeet"
+    },
+    {
+      "episode": "E072",
+      "path": "sources/The Wastes S1E072. Weekend at Toby's.qwen-q8.canary-ctc.nemotron.srt",
+      "sha256": "78847e4ad3fd85f49fecd420093d8c07b8c06814ddec529f1ccec62cfa279eb4",
+      "cue_count": 4303,
+      "last_end_ms": 9977230,
+      "model_label": "Qwen"
+    },
+    {
+      "episode": "E073",
+      "path": "sources/The Wastes S1E073. Slow Peter and Ice Boyfriends.parakeet.processed.srt",
+      "sha256": "70c6d60de531fa540e8bb36ab3f6d59c8c4132b5a365868eec32047e026dba70",
+      "cue_count": 2629,
+      "last_end_ms": 9600130,
+      "model_label": "Parakeet"
+    },
+    {
+      "episode": "E073",
+      "path": "sources/The Wastes S1E073. Slow Peter and Ice Boyfriends.qwen-q8.canary-ctc.nemotron.srt",
+      "sha256": "63cdcb0c7734cbe2129a8c9c77b51634be31408e036f2f36112c8e20cc9d7e16",
+      "cue_count": 4380,
+      "last_end_ms": 9599700,
+      "model_label": "Qwen"
+    }
+  ],
+  "reviewed_windows": [
+    {
+      "episode": "E073",
+      "source": "sources/The Wastes S1E073. Slow Peter and Ice Boyfriends.parakeet.processed.srt",
+      "model_label": "Parakeet",
+      "start": "01:19:00",
+      "end": "01:26:50",
+      "first_cue": 1423,
+      "last_cue": 1523
+    },
+    {
+      "episode": "E072",
+      "source": "sources/The Wastes S1E072. Weekend at Toby's.parakeet.processed.srt",
+      "model_label": "Parakeet",
+      "start": "02:27:20",
+      "end": "02:31:50",
+      "first_cue": 2220,
+      "last_cue": 2294
+    },
+    {
+      "episode": "E070",
+      "source": "sources/The Wastes S1E070. Polymorph The Security Monkey.parakeet.processed.srt",
+      "model_label": "Parakeet",
+      "start": "02:01:10",
+      "end": "02:02:50",
+      "first_cue": 1855,
+      "last_cue": 1876
+    },
+    {
+      "episode": "E070",
+      "source": "sources/The Wastes S1E070. Polymorph The Security Monkey.parakeet.processed.srt",
+      "model_label": "Parakeet",
+      "start": "02:07:40",
+      "end": "02:09:30",
+      "first_cue": 1958,
+      "last_cue": 1986
+    },
+    {
+      "episode": "E070",
+      "source": "sources/The Wastes S1E070. Polymorph The Security Monkey.parakeet.processed.srt",
+      "model_label": "Parakeet",
+      "start": "02:11:10",
+      "end": "02:11:40",
+      "first_cue": 2016,
+      "last_cue": 2022
+    },
+    {
+      "episode": "E070",
+      "source": "sources/The Wastes S1E070. Polymorph The Security Monkey.parakeet.processed.srt",
+      "model_label": "Parakeet",
+      "start": "02:36:25",
+      "end": "02:37:30",
+      "first_cue": 2459,
+      "last_cue": 2478
+    },
+    {
+      "episode": "E070",
+      "source": "sources/The Wastes S1E070. Polymorph The Security Monkey.parakeet.processed.srt",
+      "model_label": "Parakeet",
+      "start": "02:50:20",
+      "end": "02:51:40",
+      "first_cue": 2697,
+      "last_cue": 2723
+    },
+    {
+      "episode": "E070",
+      "source": "sources/The Wastes S1E070. Polymorph The Security Monkey.parakeet.processed.srt",
+      "model_label": "Parakeet",
+      "start": "02:46:10",
+      "end": "02:47:30",
+      "first_cue": 2610,
+      "last_cue": 2634
+    },
+    {
+      "episode": "E071",
+      "source": "sources/The Wastes S1E071. The Door Street Journal.parakeet.processed.srt",
+      "model_label": "Parakeet",
+      "start": "00:26:20",
+      "end": "00:28:40",
+      "first_cue": 471,
+      "last_cue": 513
+    },
+    {
+      "episode": "E071",
+      "source": "sources/The Wastes S1E071. The Door Street Journal.parakeet.processed.srt",
+      "model_label": "Parakeet",
+      "start": "00:32:15",
+      "end": "00:32:55",
+      "first_cue": 564,
+      "last_cue": 574
+    },
+    {
+      "episode": "E071",
+      "source": "sources/The Wastes S1E071. The Door Street Journal.parakeet.processed.srt",
+      "model_label": "Parakeet",
+      "start": "00:38:10",
+      "end": "00:39:40",
+      "first_cue": 660,
+      "last_cue": 677
+    },
+    {
+      "episode": "E073",
+      "source": "sources/The Wastes S1E073. Slow Peter and Ice Boyfriends.parakeet.processed.srt",
+      "model_label": "Parakeet",
+      "start": "00:34:10",
+      "end": "00:35:40",
+      "first_cue": 652,
+      "last_cue": 671
+    },
+    {
+      "episode": "E073",
+      "source": "sources/The Wastes S1E073. Slow Peter and Ice Boyfriends.parakeet.processed.srt",
+      "model_label": "Parakeet",
+      "start": "01:08:30",
+      "end": "01:11:35",
+      "first_cue": 1255,
+      "last_cue": 1302
+    },
+    {
+      "episode": "E073",
+      "source": "sources/The Wastes S1E073. Slow Peter and Ice Boyfriends.parakeet.processed.srt",
+      "model_label": "Parakeet",
+      "start": "01:16:30",
+      "end": "01:19:10",
+      "first_cue": 1386,
+      "last_cue": 1426
+    },
+    {
+      "episode": "E070",
+      "source": "sources/The Wastes S1E070. Polymorph The Security Monkey.qwen-q8.canary-ctc.nemotron.srt",
+      "model_label": "Qwen",
+      "start": "02:01:16",
+      "end": "02:01:46",
+      "first_cue": 3085,
+      "last_cue": 3097
+    },
+    {
+      "episode": "E070",
+      "source": "sources/The Wastes S1E070. Polymorph The Security Monkey.qwen-q8.canary-ctc.nemotron.srt",
+      "model_label": "Qwen",
+      "start": "02:07:55",
+      "end": "02:08:50",
+      "first_cue": 3277,
+      "last_cue": 3299
+    },
+    {
+      "episode": "E070",
+      "source": "sources/The Wastes S1E070. Polymorph The Security Monkey.qwen-q8.canary-ctc.nemotron.srt",
+      "model_label": "Qwen",
+      "start": "02:11:15",
+      "end": "02:11:30",
+      "first_cue": 3375,
+      "last_cue": 3382
+    },
+    {
+      "episode": "E070",
+      "source": "sources/The Wastes S1E070. Polymorph The Security Monkey.qwen-q8.canary-ctc.nemotron.srt",
+      "model_label": "Qwen",
+      "start": "02:36:50",
+      "end": "02:37:27",
+      "first_cue": 4181,
+      "last_cue": 4198
+    },
+    {
+      "episode": "E070",
+      "source": "sources/The Wastes S1E070. Polymorph The Security Monkey.qwen-q8.canary-ctc.nemotron.srt",
+      "model_label": "Qwen",
+      "start": "02:46:12",
+      "end": "02:46:42",
+      "first_cue": 4451,
+      "last_cue": 4467
+    },
+    {
+      "episode": "E071",
+      "source": "sources/The Wastes S1E071. The Door Street Journal.qwen-q8.canary-ctc.nemotron.srt",
+      "model_label": "Qwen",
+      "start": "00:27:04",
+      "end": "00:28:34",
+      "first_cue": 848,
+      "last_cue": 899
+    },
+    {
+      "episode": "E071",
+      "source": "sources/The Wastes S1E071. The Door Street Journal.qwen-q8.canary-ctc.nemotron.srt",
+      "model_label": "Qwen",
+      "start": "00:38:38",
+      "end": "00:39:05",
+      "first_cue": 1204,
+      "last_cue": 1212
+    },
+    {
+      "episode": "E072",
+      "source": "sources/The Wastes S1E072. Weekend at Toby's.qwen-q8.canary-ctc.nemotron.srt",
+      "model_label": "Qwen",
+      "start": "02:30:50",
+      "end": "02:31:35",
+      "first_cue": 3815,
+      "last_cue": 3844
+    },
+    {
+      "episode": "E073",
+      "source": "sources/The Wastes S1E073. Slow Peter and Ice Boyfriends.qwen-q8.canary-ctc.nemotron.srt",
+      "model_label": "Qwen",
+      "start": "01:08:45",
+      "end": "01:09:18",
+      "first_cue": 2123,
+      "last_cue": 2135
+    },
+    {
+      "episode": "E073",
+      "source": "sources/The Wastes S1E073. Slow Peter and Ice Boyfriends.qwen-q8.canary-ctc.nemotron.srt",
+      "model_label": "Qwen",
+      "start": "01:24:30",
+      "end": "01:26:38",
+      "first_cue": 2535,
+      "last_cue": 2573
+    }
+  ],
+  "local_cue_cache": "local/creature-search/hounds-ice-2026-10-25/sources.json",
+  "findings": [
+    {
+      "candidate_id": "WSC-023",
+      "article": "world/creatures/chids-hellhounds.md",
+      "outcome": "Flaming black hounds breathe fire, resist Vorel fire, take frost and special radiant attacks, and all hounds in the encountered pack are killed by the E071 continuation.",
+      "limits": "No exact initial pack size, general cold/radiant vulnerability, universal death explosion or imported stat block. Vorel fire-resistance adjudication is corrected; security apes remain separate."
+    },
+    {
+      "candidate_id": "WSC-024",
+      "routing": "routed-character-context",
+      "context_paths": [
+        "world/characters/cerinthala.md",
+        "episodes/E072.md",
+        "episodes/E073.md"
+      ],
+      "outcome": "Four corpse-bearing ice forms attack; one retreats, three released corpse attackers die, and Toby later speaks intelligibly about fearing Cerinthala would leave them.",
+      "limits": "Named companions and a reasoning survivor do not establish a non-intelligent species. Multiple corpses, shells and named individuals lack a complete one-to-one mapping; no all-four destruction or later Toby survival claimed."
+    }
+  ],
+  "edited_dossiers": [
+    "episodes/E070.md",
+    "episodes/E071.md",
+    "episodes/E072.md",
+    "episodes/E073.md"
+  ]
+}

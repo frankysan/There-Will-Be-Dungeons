@@ -1,0 +1,310 @@
+{
+  "date": "2026-10-25",
+  "campaign": "The Wastes",
+  "season": 1,
+  "episodes": [
+    "E057",
+    "E058",
+    "E076"
+  ],
+  "source_roles": {
+    "E057": "Selected played encounter",
+    "E058": "Selected retrospective recap identification",
+    "E076": "Selected played encounter"
+  },
+  "context_dossiers": [
+    "episodes/E077.md"
+  ],
+  "type": "Targeted creature source review, not full episode reanalysis",
+  "candidate_ids": [
+    "WSC-025",
+    "WSC-026"
+  ],
+  "audio_review": false,
+  "full_export_interpretive_review": false,
+  "full_export_asr_disagreement_computed": false,
+  "inventory": [
+    {
+      "episode": "E057",
+      "path": "sources/The Wastes S1E057. The Royal Truckery.parakeet.processed.srt",
+      "sha256": "3c75c0cfe290c2e234a0ebc917e9e431c535b23c20f9a87599cb010400d9c08a",
+      "cue_count": 2729,
+      "last_end_ms": 10053271,
+      "model_label": "Parakeet"
+    },
+    {
+      "episode": "E057",
+      "path": "sources/The Wastes S1E057. The Royal Truckery.qwen-q8.canary-ctc.nemotron.srt",
+      "sha256": "36817a9e37a607fec41ed89b1b3c9d79e900beec40aa3853c96ee88ee8eabf7d",
+      "cue_count": 4614,
+      "last_end_ms": 10052800,
+      "model_label": "Qwen"
+    },
+    {
+      "episode": "E076",
+      "path": "sources/The Wastes S1E076. Potable Portable Portal.parakeet.processed.srt",
+      "sha256": "24331548a2f786f9c3894beedfdb343a84834b71837444049b6ac2cdc83f5d9e",
+      "cue_count": 2788,
+      "last_end_ms": 10417820,
+      "model_label": "Parakeet"
+    },
+    {
+      "episode": "E076",
+      "path": "sources/The Wastes S1E076. Potable Portable Portal.qwen-q8.canary-ctc.nemotron.srt",
+      "sha256": "8473a90aa6e2174e19cf382e1315dca58ad76d7ce9dea1f387502bfcd71c6d37",
+      "cue_count": 4794,
+      "last_end_ms": 10416980,
+      "model_label": "Qwen"
+    },
+    {
+      "episode": "E058",
+      "path": "sources/The Wastes S1E058. The Magical Banana Trail.parakeet.processed.srt",
+      "sha256": "cfcc996776c02110c0721b9663baea3bae8eb7a76e5c42e4c04fdef5bbee8263",
+      "cue_count": 2762,
+      "last_end_ms": 10621060,
+      "model_label": "Parakeet"
+    },
+    {
+      "episode": "E058",
+      "path": "sources/The Wastes S1E058. The Magical Banana Trail.qwen-q8.canary-ctc.nemotron.srt",
+      "sha256": "8166a16233d865e0813e1415c3096314f22d44cd88617dc15f39a8d912b3430a",
+      "cue_count": 4756,
+      "last_end_ms": 10620760,
+      "model_label": "Qwen"
+    }
+  ],
+  "reviewed_windows": [
+    {
+      "episode": "E057",
+      "source": "sources/The Wastes S1E057. The Royal Truckery.parakeet.processed.srt",
+      "model_label": "Parakeet",
+      "start": "02:09:50",
+      "end": "02:12:00",
+      "first_cue": 2058,
+      "last_cue": 2085
+    },
+    {
+      "episode": "E057",
+      "source": "sources/The Wastes S1E057. The Royal Truckery.parakeet.processed.srt",
+      "model_label": "Parakeet",
+      "start": "02:16:00",
+      "end": "02:18:45",
+      "first_cue": 2147,
+      "last_cue": 2189
+    },
+    {
+      "episode": "E057",
+      "source": "sources/The Wastes S1E057. The Royal Truckery.parakeet.processed.srt",
+      "model_label": "Parakeet",
+      "start": "02:33:20",
+      "end": "02:34:00",
+      "first_cue": 2458,
+      "last_cue": 2472
+    },
+    {
+      "episode": "E057",
+      "source": "sources/The Wastes S1E057. The Royal Truckery.parakeet.processed.srt",
+      "model_label": "Parakeet",
+      "start": "02:36:55",
+      "end": "02:37:30",
+      "first_cue": 2529,
+      "last_cue": 2538
+    },
+    {
+      "episode": "E057",
+      "source": "sources/The Wastes S1E057. The Royal Truckery.parakeet.processed.srt",
+      "model_label": "Parakeet",
+      "start": "02:41:25",
+      "end": "02:45:00",
+      "first_cue": 2616,
+      "last_cue": 2682
+    },
+    {
+      "episode": "E076",
+      "source": "sources/The Wastes S1E076. Potable Portable Portal.parakeet.processed.srt",
+      "model_label": "Parakeet",
+      "start": "01:09:15",
+      "end": "01:11:45",
+      "first_cue": 1150,
+      "last_cue": 1185
+    },
+    {
+      "episode": "E076",
+      "source": "sources/The Wastes S1E076. Potable Portable Portal.parakeet.processed.srt",
+      "model_label": "Parakeet",
+      "start": "01:18:35",
+      "end": "01:20:35",
+      "first_cue": 1287,
+      "last_cue": 1322
+    },
+    {
+      "episode": "E076",
+      "source": "sources/The Wastes S1E076. Potable Portable Portal.parakeet.processed.srt",
+      "model_label": "Parakeet",
+      "start": "01:31:40",
+      "end": "01:34:55",
+      "first_cue": 1524,
+      "last_cue": 1577
+    },
+    {
+      "episode": "E076",
+      "source": "sources/The Wastes S1E076. Potable Portable Portal.parakeet.processed.srt",
+      "model_label": "Parakeet",
+      "start": "01:36:15",
+      "end": "01:37:50",
+      "first_cue": 1601,
+      "last_cue": 1626
+    },
+    {
+      "episode": "E076",
+      "source": "sources/The Wastes S1E076. Potable Portable Portal.parakeet.processed.srt",
+      "model_label": "Parakeet",
+      "start": "01:46:30",
+      "end": "01:47:45",
+      "first_cue": 1759,
+      "last_cue": 1785
+    },
+    {
+      "episode": "E057",
+      "source": "sources/The Wastes S1E057. The Royal Truckery.qwen-q8.canary-ctc.nemotron.srt",
+      "model_label": "Qwen",
+      "start": "02:10:30",
+      "end": "02:11:55",
+      "first_cue": 3399,
+      "last_cue": 3432
+    },
+    {
+      "episode": "E057",
+      "source": "sources/The Wastes S1E057. The Royal Truckery.qwen-q8.canary-ctc.nemotron.srt",
+      "model_label": "Qwen",
+      "start": "02:16:35",
+      "end": "02:18:30",
+      "first_cue": 3573,
+      "last_cue": 3618
+    },
+    {
+      "episode": "E057",
+      "source": "sources/The Wastes S1E057. The Royal Truckery.qwen-q8.canary-ctc.nemotron.srt",
+      "model_label": "Qwen",
+      "start": "02:37:00",
+      "end": "02:37:30",
+      "first_cue": 4231,
+      "last_cue": 4244
+    },
+    {
+      "episode": "E057",
+      "source": "sources/The Wastes S1E057. The Royal Truckery.qwen-q8.canary-ctc.nemotron.srt",
+      "model_label": "Qwen",
+      "start": "02:44:00",
+      "end": "02:45:00",
+      "first_cue": 4502,
+      "last_cue": 4525
+    },
+    {
+      "episode": "E076",
+      "source": "sources/The Wastes S1E076. Potable Portable Portal.qwen-q8.canary-ctc.nemotron.srt",
+      "model_label": "Qwen",
+      "start": "01:11:15",
+      "end": "01:11:45",
+      "first_cue": 2062,
+      "last_cue": 2071
+    },
+    {
+      "episode": "E076",
+      "source": "sources/The Wastes S1E076. Potable Portable Portal.qwen-q8.canary-ctc.nemotron.srt",
+      "model_label": "Qwen",
+      "start": "01:18:44",
+      "end": "01:20:12",
+      "first_cue": 2276,
+      "last_cue": 2325
+    },
+    {
+      "episode": "E076",
+      "source": "sources/The Wastes S1E076. Potable Portable Portal.qwen-q8.canary-ctc.nemotron.srt",
+      "model_label": "Qwen",
+      "start": "01:31:50",
+      "end": "01:32:20",
+      "first_cue": 2746,
+      "last_cue": 2759
+    },
+    {
+      "episode": "E076",
+      "source": "sources/The Wastes S1E076. Potable Portable Portal.qwen-q8.canary-ctc.nemotron.srt",
+      "model_label": "Qwen",
+      "start": "01:34:16",
+      "end": "01:34:43",
+      "first_cue": 2829,
+      "last_cue": 2837
+    },
+    {
+      "episode": "E076",
+      "source": "sources/The Wastes S1E076. Potable Portable Portal.qwen-q8.canary-ctc.nemotron.srt",
+      "model_label": "Qwen",
+      "start": "01:36:40",
+      "end": "01:37:25",
+      "first_cue": 2895,
+      "last_cue": 2913
+    },
+    {
+      "episode": "E076",
+      "source": "sources/The Wastes S1E076. Potable Portable Portal.qwen-q8.canary-ctc.nemotron.srt",
+      "model_label": "Qwen",
+      "start": "01:47:00",
+      "end": "01:47:24",
+      "first_cue": 3170,
+      "last_cue": 3183
+    },
+    {
+      "episode": "E058",
+      "source": "sources/The Wastes S1E058. The Magical Banana Trail.parakeet.processed.srt",
+      "model_label": "Parakeet",
+      "start": "00:07:30",
+      "end": "00:08:40",
+      "first_cue": 143,
+      "last_cue": 161
+    },
+    {
+      "episode": "E058",
+      "source": "sources/The Wastes S1E058. The Magical Banana Trail.qwen-q8.canary-ctc.nemotron.srt",
+      "model_label": "Qwen",
+      "start": "00:07:30",
+      "end": "00:08:40",
+      "first_cue": 248,
+      "last_cue": 271
+    }
+  ],
+  "local_cue_cache": "local/creature-search/winged-attackers-2026-10-25/sources.json",
+  "findings": [
+    {
+      "candidate_id": "WSC-025",
+      "article": "world/creatures/blue-black-chasm-flyers.md",
+      "outcome": "Blue-black leathery flyer has a thorned arrowhead tail and frightens Nash/Vorel; Eye supplies bright-light guidance. Hope kills the first; another loses its head at the portal while more remain above.",
+      "limits": "No named species, tail venom, sleep immunity, fixed radiant vulnerability, general portal kill rule or identity with Lethanphius. Residual biting of the severed head is not established lasting life."
+    },
+    {
+      "candidate_id": "WSC-026",
+      "article": "world/creatures/crater-wyvern.md",
+      "outcome": "Winged reptilian pet uses a poison sting, bites and claws; Stanley kills it with Booming Blade/Diplomacy. E058 recap explicitly calls it a wyvern.",
+      "limits": "Wyvern label is recap evidence, not anatomical inference. No identity with the removed skyfall body, chasm flyer, Outlands individuals or Dolo Popio; no universal poison defense or innate death explosion."
+    }
+  ],
+  "edited_dossiers": [
+    "episodes/E057.md",
+    "episodes/E058.md",
+    "episodes/E076.md"
+  ],
+  "validation": {
+    "markdownlint_files": 9,
+    "markdownlint_violations": 0,
+    "relative_file_links_checked": 284,
+    "article_footnotes_and_structure": "passed",
+    "candidate_and_article_mappings": "passed",
+    "reviewed_window_metadata": "passed against local cue cache",
+    "scoped_diff_check": "passed",
+    "unscoped_diff_check": {
+      "exit_code": 2,
+      "unrelated_concurrent_finding": "delvers/world/CONSISTENCY_LEDGER.md:67 trailing whitespace",
+      "line_ending_conversion_warnings": true
+    }
+  }
+}

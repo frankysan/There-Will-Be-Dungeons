@@ -10,7 +10,7 @@
     "full_srt_review": false,
     "audio_review": false,
     "not_exhaustive": true,
-    "new_canonical_entries_published": 27,
+    "new_canonical_entries_published": 30,
     "selected_srt_followup": true
   },
   "search_patterns": [
@@ -18,10 +18,11 @@
     "\\b(?:devour\\w*|grubs?|aboleths?|otyughs?|chokers?|gazers?|specters?|spectres?|wraiths?|wights?|ghouls?|ghasts?|mephits?|bulettes?|carrion|darkmantles?|gricks?|gorgons?|salamanders?|cockatrices?|ankhegs?|stirges?|umber hulks?|maggots?|parasites?|slaads?|stalkers?|grells?|piercers?|tadpoles?)\\b"
   ],
   "counts": {
-    "published": 23,
+    "published": 26,
     "draft-next": 0,
-    "focused-review": 7,
-    "separate-oneoff": 2
+    "focused-review": 3,
+    "separate-oneoff": 2,
+    "routed-character-context": 1
   },
   "inventory": [
     {
@@ -1558,9 +1559,23 @@
     },
     {
       "id": "WSC-023",
-      "status": "focused-review",
+      "status": "published",
       "name": "CHIDS hellhounds",
       "evidence": [
+        {
+          "episode": "E070",
+          "dossier": "episodes/E070.md",
+          "approximate_recording_window": "selected windows between 02:01:10 and 02:51:40"
+        },
+        {
+          "episode": "E071",
+          "dossier": "episodes/E071.md",
+          "approximate_recording_window": "selected windows between 00:26:20 and 00:39:40"
+        }
+      ],
+      "observed_lead": "Flaming black hounds breathe fire, resist Vorel fire, take frost and special radiant attacks, and all hounds in the encountered pack are killed by the E071 continuation.",
+      "boundary_or_next_check": "No exact initial pack size, general cold/radiant vulnerability, universal death explosion or imported stat block. Vorel fire-resistance adjudication is corrected; security apes remain separate.",
+      "discovery_evidence": [
         {
           "episode": "E070",
           "dossier": "episodes/E070.md",
@@ -1572,14 +1587,33 @@
           "approximate_recording_window": "continuing conference-room fight"
         }
       ],
-      "observed_lead": "Flaming hounds with fire breath attack inside the facility.",
-      "boundary_or_next_check": "Review the continuing fight for last observed survivors and distinguish observed behavior from baseline rule assumptions."
+      "discovery_observed_lead": "Flaming hounds with fire breath attack inside the facility.",
+      "discovery_boundary_or_next_check": "Review the continuing fight for last observed survivors and distinguish observed behavior from baseline rule assumptions.",
+      "source_review": "reports/HELLHOUNDS_AND_ICE_COMPANIONS_SOURCE_REVIEW_2026-10-25.md",
+      "article": "world/creatures/chids-hellhounds.md",
+      "article_title": "CHIDS hellhounds",
+      "publication_date": "2026-10-25",
+      "publication_basis": "Selected E070/E071 Parakeet windows with narrower Qwen cross-readings; no full-episode or audio review"
     },
     {
       "id": "WSC-024",
-      "status": "focused-review",
+      "status": "routed-character-context",
       "name": "Corpse-bearing ice constructs",
       "evidence": [
+        {
+          "episode": "E072",
+          "dossier": "episodes/E072.md",
+          "approximate_recording_window": "02:27:20–02:31:50"
+        },
+        {
+          "episode": "E073",
+          "dossier": "episodes/E073.md",
+          "approximate_recording_window": "selected windows between 00:34:10 and 01:26:50"
+        }
+      ],
+      "observed_lead": "Four corpse-bearing ice forms attack; one retreats, three released corpse attackers die, and Toby later speaks intelligibly about fearing Cerinthala would leave them.",
+      "boundary_or_next_check": "Named companions and a reasoning survivor do not establish a non-intelligent species. Multiple corpses, shells and named individuals lack a complete one-to-one mapping; no all-four destruction or later Toby survival claimed.",
+      "discovery_evidence": [
         {
           "episode": "E072",
           "dossier": "episodes/E072.md",
@@ -1591,36 +1625,77 @@
           "approximate_recording_window": "opening continuation"
         }
       ],
-      "observed_lead": "Four enormous animated ice bodies enclose preserved corpses and attack around the resting party.",
-      "boundary_or_next_check": "No universal ice-golem identity or explanation for every enclosed person is established; not all four are confirmed destroyed in the continuation."
+      "discovery_observed_lead": "Four enormous animated ice bodies enclose preserved corpses and attack around the resting party.",
+      "discovery_boundary_or_next_check": "No universal ice-golem identity or explanation for every enclosed person is established; not all four are confirmed destroyed in the continuation.",
+      "source_review": "reports/HELLHOUNDS_AND_ICE_COMPANIONS_SOURCE_REVIEW_2026-10-25.md",
+      "review_date": "2026-10-25",
+      "context_paths": [
+        "world/characters/cerinthala.md",
+        "episodes/E072.md",
+        "episodes/E073.md"
+      ],
+      "routing_basis": "E073 Toby answers in intelligible speech with a personal motive and relationship; preserve named companions in character context rather than inventing a non-reasoning species."
     },
     {
       "id": "WSC-025",
-      "status": "focused-review",
+      "status": "published",
       "name": "Blue-black hooked-tail flyer",
       "evidence": [
+        {
+          "episode": "E076",
+          "dossier": "episodes/E076.md",
+          "approximate_recording_window": "selected windows between 01:09:15 and 01:47:45"
+        }
+      ],
+      "observed_lead": "Blue-black leathery flyer has a thorned arrowhead tail and frightens Nash/Vorel; Eye supplies bright-light guidance. Hope kills the first; another loses its head at the portal while more remain above.",
+      "boundary_or_next_check": "No named species, tail venom, sleep immunity, fixed radiant vulnerability, general portal kill rule or identity with Lethanphius. Residual biting of the severed head is not established lasting life.",
+      "discovery_evidence": [
         {
           "episode": "E076",
           "dossier": "episodes/E076.md",
           "approximate_recording_window": "01:09–01:37"
         }
       ],
-      "observed_lead": "Leathery winged attacker with a hooked tail causes fear and is killed by Hope.",
-      "boundary_or_next_check": "Species and origins remain unidentified. Do not merge with the speaking winged vessel occupant encountered in E077."
+      "discovery_observed_lead": "Leathery winged attacker with a hooked tail causes fear and is killed by Hope.",
+      "discovery_boundary_or_next_check": "Species and origins remain unidentified. Do not merge with the speaking winged vessel occupant encountered in E077.",
+      "article": "world/creatures/blue-black-chasm-flyers.md",
+      "article_title": "Blue-black chasm flyers",
+      "publication_date": "2026-10-25",
+      "publication_basis": "Selected E076 Parakeet windows with narrower Qwen cross-readings and existing E077 dossier identity context; no full-episode or audio review.",
+      "source_review": "reports/WINGED_ATTACKERS_SOURCE_REVIEW_2026-10-25.md"
     },
     {
       "id": "WSC-026",
-      "status": "focused-review",
+      "status": "published",
       "name": "Wormfather party's winged stinging pet",
       "evidence": [
+        {
+          "episode": "E057",
+          "dossier": "episodes/E057.md",
+          "approximate_recording_window": "selected windows between 02:09:50 and 02:45:00"
+        },
+        {
+          "episode": "E058",
+          "dossier": "episodes/E058.md",
+          "approximate_recording_window": "00:07:30–00:08:40 recap identification"
+        }
+      ],
+      "observed_lead": "Winged reptilian pet uses a poison sting, bites and claws; Stanley kills it with Booming Blade/Diplomacy. E058 recap explicitly calls it a wyvern.",
+      "boundary_or_next_check": "Wyvern label is recap evidence, not anatomical inference. No identity with the removed skyfall body, chasm flyer, Outlands individuals or Dolo Popio; no universal poison defense or innate death explosion.",
+      "discovery_evidence": [
         {
           "episode": "E057",
           "dossier": "episodes/E057.md",
           "approximate_recording_window": "02:04–02:45"
         }
       ],
-      "observed_lead": "Dragon-like winged pet fights alongside the crater attackers and is killed by Stanley.",
-      "boundary_or_next_check": "Not the retrieved skyfall creature; no automatic wyvern classification or identity with E076's flyer."
+      "discovery_observed_lead": "Dragon-like winged pet fights alongside the crater attackers and is killed by Stanley.",
+      "discovery_boundary_or_next_check": "Not the retrieved skyfall creature; no automatic wyvern classification or identity with E076's flyer.",
+      "article": "world/creatures/crater-wyvern.md",
+      "article_title": "Crater wyvern",
+      "publication_date": "2026-10-25",
+      "publication_basis": "Selected E057 played encounter and E058 retrospective recap in Parakeet/Qwen; no full-episode or audio review.",
+      "source_review": "reports/WINGED_ATTACKERS_SOURCE_REVIEW_2026-10-25.md"
     },
     {
       "id": "WSC-027",
@@ -1846,6 +1921,28 @@
       "source_review": "reports/HEADWORMS_AND_WALL_PASSERS_SOURCE_REVIEW_2026-10-25.md",
       "source_inventory": "reports/HEADWORMS_AND_WALL_PASSERS_SOURCE_REVIEW_2026-10-25.json",
       "reason": "Separate observed worm forms, host identities, causal hypotheses and empathic contact from speech or moral judgment."
+    },
+    {
+      "subject": "CHIDS hellhounds and ice companions",
+      "candidate_ids": [
+        "WSC-023",
+        "WSC-024"
+      ],
+      "date": "2026-10-25",
+      "source_review": "reports/HELLHOUNDS_AND_ICE_COMPANIONS_SOURCE_REVIEW_2026-10-25.md",
+      "source_inventory": "reports/HELLHOUNDS_AND_ICE_COMPANIONS_SOURCE_REVIEW_2026-10-25.json",
+      "reason": "Resolve last hound and ice-form outcomes, and route Toby and named companions by intelligible personal dialogue."
+    },
+    {
+      "subject": "Blue-black chasm flyers and crater wyvern",
+      "candidate_ids": [
+        "WSC-025",
+        "WSC-026"
+      ],
+      "date": "2026-10-25",
+      "source_review": "reports/WINGED_ATTACKERS_SOURCE_REVIEW_2026-10-25.md",
+      "source_inventory": "reports/WINGED_ATTACKERS_SOURCE_REVIEW_2026-10-25.json",
+      "reason": "Resolve tail/poison differences, individual kills, artifact-supplied light guidance, portal limits and explicit recap naming without merging actors."
     }
   ],
   "publication_batches": [
@@ -2043,17 +2140,60 @@
         "WSC-023",
         "WSC-024"
       ]
+    },
+    {
+      "date": "2026-10-25",
+      "kind": "focused-source-review-and-routing",
+      "candidate_ids": [
+        "WSC-023"
+      ],
+      "reviewed_candidate_ids": [
+        "WSC-023",
+        "WSC-024"
+      ],
+      "routed_candidate_ids": [
+        "WSC-024"
+      ],
+      "articles": [
+        "world/creatures/chids-hellhounds.md"
+      ],
+      "source_review": "reports/HELLHOUNDS_AND_ICE_COMPANIONS_SOURCE_REVIEW_2026-10-25.md",
+      "basis": "Selected E070–E073 Parakeet/Qwen windows. Hellhounds published; reasoning ice companions routed to existing character context. No full-episode or audio review.",
+      "next_candidate_ids": [],
+      "next_review_candidate_ids": [
+        "WSC-025",
+        "WSC-026"
+      ]
+    },
+    {
+      "date": "2026-10-25",
+      "kind": "focused-source-review",
+      "candidate_ids": [
+        "WSC-025",
+        "WSC-026"
+      ],
+      "articles": [
+        "world/creatures/blue-black-chasm-flyers.md",
+        "world/creatures/crater-wyvern.md"
+      ],
+      "source_review": "reports/WINGED_ATTACKERS_SOURCE_REVIEW_2026-10-25.md",
+      "basis": "Selected E057/E076 played passages and E058 recap in Parakeet/Qwen; no full-episode or audio review.",
+      "next_candidate_ids": [],
+      "next_review_candidate_ids": [
+        "WSC-027",
+        "WSC-028"
+      ]
     }
   ],
   "last_updated": "2026-10-25",
   "next_work": {
     "type": "focused-source-review",
     "candidate_ids": [
-      "WSC-023",
-      "WSC-024"
+      "WSC-027",
+      "WSC-028"
     ],
-    "purpose": "Review the continuing CHIDS hellhound and corpse-bearing ice-construct encounters, preserving individual outcomes and uncertain identities."
+    "purpose": "Separate witnessed six-limbed burrower incursion from Soulbroker claims, and review Pit froghemoth identity, mental bargaining and upper-cocoon routing."
   },
   "inventory_snapshot_description": "Dossier fingerprints preserve the initial 2026-10-24 discovery scan; later targeted dossier amendments are recorded in follow-up reports.",
-  "published_article_count": 27
+  "published_article_count": 30
 }

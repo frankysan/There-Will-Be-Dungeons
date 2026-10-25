@@ -32,6 +32,34 @@ The new comparison manifests already reference the current full filenames.
 
 12. **Validate two-job CrispASR concurrency.** [Initial observation](../reports/ASR_CONCURRENCY_2026-10-21.md): two instances complete episodes in roughly 6–7 minutes each with very low disk traffic and GPU activity, despite near-max system RAM. Measure sequential versus concurrent total wall-clock throughput on the **same inputs**; collect available/committed RAM and hard page-read metrics before settling on a default queue concurrency. Later test a mixed Parakeet/Qwen pair separately.
 
+## Illustration style and continuity (2026-10-25)
+
+**Written foundation established:** [working style guide](ILLUSTRATION_GUIDE.md),
+[subject template](ILLUSTRATION_SUBJECT_TEMPLATE.md) and a bounded
+[Fate 4 introduction-state pilot](ILLUSTRATION_REFERENCES.md#wastes-fate-4).
+The owner's comic-book / graphic-novel direction is recorded. A first
+[two-pass vehicle trial](../reports/ILLUSTRATION_STYLE_STUDY_2026-10-25.md)
+has been generated and visually reviewed by the assistant; its simplified
+second pass is the closer candidate. No owner approval, selected production
+reference or complete subject-appearance audit is implied.
+
+- [ ] Inspect the two Fate 4 design images directly, extract drawable
+  features, and compare the separate floorplan without merging unresolved
+  layouts or assuming all sheets depict the introduction-era vehicle.
+- [x] Produce and visually review a small style study; record line/shadow
+  treatment, palette, accent use, exact prompts and provisional choices.
+  Two previews completed, with assistant review in the linked report.
+  This tests rendering only; owner style feedback and source-image review
+  remain outstanding.
+- [ ] Refine the rendering from feedback, then test a sourced character
+  appearance for expression, proportion and consistency. A vehicle study
+  alone does not validate those parts of the style.
+- [ ] Build recurring subject references one at a time from source
+  descriptions, starting with a bounded pilot. Preserve introduction
+  appearances, later states, temporary forms, source confidence, artistic
+  decisions and campaign separation. Track visually material discoveries
+  during subsequent episode research.
+
 ## Documentation consolidation — Arcs One–Two (2026-10-21)
 
 **Phases A–D implemented as structural first editorial passes:** Four-layer [architecture](DOCUMENTATION_ARCHITECTURE.md), [Arc One](../narrative/ARC_ONE.md) and [Arc Two](../narrative/ARC_TWO.md) narratives, [short root README](../README.md), [world portal](../world/README.md) and [archived research indexes](../research/legacy/2026-10-21/README.md). **Character/place consolidation completed for first reference set:** [10 character profiles](../world/CHARACTERS.md), [5 principal location profiles](../world/PLACES.md) and [archived original compendia](../research/legacy/2026-10-21/README.md). **Phase C now implemented:** [Thematic world history](../world/WORLD.md), [unified chronology](../world/CHRONOLOGY.md), and [frozen source research](../research/legacy/2026-10-22/README.md). **Phase D now implemented:** [active open/resolved ledger](../world/CONSISTENCY_LEDGER.md) and [prioritized review queue](REVIEW_QUEUE.md); complete original records preserved in [dated archive](../research/legacy/2026-10-22/README.md). **Next:** actual audio/handout review, expansion of secondary entities and continuing later episodes. Minor-character expansion and source listening remain open editorial work. Track concrete acceptance criteria in [CONSOLIDATION_CHECKLIST.md](CONSOLIDATION_CHECKLIST.md); **this does not imply an audio review**.

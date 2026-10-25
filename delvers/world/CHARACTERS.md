@@ -1,6 +1,6 @@
 # Delvers — characters
 
-**Spoilers through S1E07. Evidence:** ASR-provisional. Working player-character spellings use the [written-source register](../../reports/DISCORD_SPELLING_2026-10-21.md); voice, exact utterances and historical sheet state remain unchecked. No later nicknames or surnames are backdated.
+**Spoilers through S1E09. Evidence:** ASR-provisional. Working player-character spellings use the [written-source register](../../reports/DISCORD_SPELLING_2026-10-21.md); voice, exact utterances and historical sheet state remain unchecked. No later nicknames or surnames are backdated.
 
 | Character | Performer / introduction | Reference |
 | --- | --- | --- |
@@ -33,9 +33,11 @@ These short entries derive from [S1E01](../episodes/S1E01.md); NPC spellings rem
 | Brad / Brador | Small animated shrub, carried briefly by Evelyn and returned to Veggie Sticks; name requires listening |
 | Aegis | Centaur driver who retrieves the party at dusk after the grick-scout excursion; no connection to Wastes or Inverse |
 | Selenar / Celenar Everbloom | Guild promotion authority: initially denies bronze status based on weakened gricks, later **approves badges for next morning**; name remains audio-unverified |
-| [Carrie Underworld](characters/carrie-underworld.md) | Enthusiastic acquisitions artificer who names the Soul Knife and returns it to Koh |
+| [Carrie Underworld](characters/carrie-underworld.md) | Enthusiastic guild artificer who names/returns Soul Knife to Koh, then receives **Horn of Blasting, hook-horror limb, cube sample and psychic shaft** for examination and investigates temple's droning main-altar shaft |
 | [Masked Mage](characters/masked-mage.md) | White-clad Ruby/master-rank observer who calls Koh a scion; motives unknown, **not a confirmed foe** |
-| Brother Maynard | Strict elder of Pelor's temple who supervises Krandal's healing and disapproves of his conduct |
+| Brother Maynard | Elder of [Pelor's temple](places/temple-of-pelor.md); initially displeased by ruin entrance, later entrusts Krandal with **Amulet of the Devout +1** when two elf monks fail to awaken |
+| Rianu Keeves (phonetic) | Elf monk/cleric originally assigned to perform Battersby wedding, now **unresponsive**, tapping a repeated pattern; [S1E09 evidence](../episodes/S1E09.md), ~02:31–02:39; spelling and cause uncertain |
+| Edgar Boonefellow, Norman Green, Faelan Ianya | **Living First Sons Brotherhood** trio assisting in S1E08 and S1E09; Faelan engulfed by cube but rescued alive. Do not assume S1E01's missing “Edgar” is this same character without identity evidence; [S1E09](../episodes/S1E09.md) |
 | [Buck Broscale / Wildfire](characters/buck-broscale-wildfire.md) | **Living** red dragonborn silver warrior, healed by Krandal in S1E05; explicitly **brother of dead Brom** and now private psionic mentor to Koh, with his own stone circlet retained |
 | [Margaret Dupayton](characters/margaret-dupayton.md) | Evelyn's secret-keeping roommate, makes **Bag of Hammer Holding** and magical alterations; surname provisional |
 | Lady Vestal | Instructor at Evelyn's secret finishing school, distrustful of her absence |

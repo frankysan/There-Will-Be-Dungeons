@@ -1,6 +1,6 @@
 # Delvers — places
 
-**Spoilers through S1E08. Evidence:** ASR-provisional; names awaiting listening are explicitly provisional.
+**Spoilers through S1E09. Evidence:** ASR-provisional; names awaiting listening are explicitly provisional.
 
 | Place | Scope and reference |
 | --- | --- |
@@ -14,7 +14,7 @@
 | Kord's mountain sanctuary / cryptnasium | Athletic graveyard; fountains cleansed, Studwell defeated and Meatball and Sultan rescued. [S1E02 evidence](../episodes/S1E02.md) |
 | Forest limestone sinkhole and dungeon | Grick-scout site, trapped passages and chest; unexplored deeper structure. [Profile](places/grick-sinkhole.md) |
 | Veggie Sticks's hollow stump | Woodland hermit's home with animated plants, near hippogriff habitat. [Profile](characters/veggie-sticks.md) |
-| Temple of Pelor | Sunlit sanctuary near guild with beds and healing; Krandal volunteers under Brother Maynard |
+| [Temple of Pelor](places/temple-of-pelor.md) | Old sanctuary over **Hall of Penance dungeon stair** and **distinct humming main-altar shaft**; two elves unresponsive, cause not established; guild guards below |
 | Evelyn's north-side finishing school | Dormitories, formal gardens and classes; Evelyn keeps adventuring secret from Lady Vestal |
 | City workshops and markets | *Arcane To Go* (Gruber Lifton), *Pocket Punch Alchemy* (Goggles Granny), *Grapple and Tackle*, *Astral Hammers*, *Cleaned and Prestidigitation*; see [S1E05](../episodes/S1E05.md) |
 | [Southwestern town well](places/southwestern-town-well.md) | Public water source **descended in S1E08**. Subterranean side breach found; **rock/concrete passage seal completed**, water still untested; wider caves and temple access remain open |

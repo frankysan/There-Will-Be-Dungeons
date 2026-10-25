@@ -20,9 +20,9 @@ This is **not** a claim to have manually interpreted every dossier or researched
 
 **31 additional candidate subjects or research clusters:** **12 suitable for bounded drafting from existing dossiers**, **17 requiring focused identity, behavior or continuity review**, and **2 separate Wastes-setting one-off leads**. These are editorial triage judgments, not verified species counts or intelligence classifications. Chicken Lords and Pixie Hulks already have pages and are not counted again.
 
-All twelve initially draftable subjects, owner-added sand squid and ten source-reviewed clusters are now published. Next is focused source review of the **CHIDS hellhounds** and **corpse-bearing ice constructs**, resolving continuing-encounter outcomes before further publication. Some subjects warrant only short articles; do not pad an entry to match a major creature's history.
+All twelve initially draftable subjects, owner-added sand squid and thirteen source-reviewed clusters are now published. Next is focused source review of the **six-limbed desert burrower** and **Pit froghemoth/altered upper form**, resolving attributed claims, identity and personhood before further publication. Some subjects warrant only short articles; do not pad an entry to match a major creature's history.
 
-No canonical creature entry was added during the initial dossier search. After the sand-squid follow-up, six ranked publication batches and five focused-review publication batches, the cumulative list is **32 subjects/clusters: twenty-three published, none awaiting initial drafting, seven requiring focused review and two separately placed one-off leads**. Candidate IDs WSC-001–WSC-031 remain stable.
+No canonical creature entry was added during the initial dossier search. After the sand-squid follow-up, six ranked publication batches and seven focused-review publication/routing batches, the cumulative list is **32 subjects/clusters: twenty-six published, none awaiting initial drafting, three requiring focused review, one routed to character context and two separately placed one-off leads**. Candidate IDs WSC-001–WSC-031 remain stable.
 
 ## Owner-supplied follow-up — sand squid
 
@@ -133,6 +133,28 @@ The 21 published search subjects/clusters now map to **23 articles**, excluding 
 
 The 23 published search subjects/clusters now map to **27 articles**, excluding the original Chicken Lords and Pixie Hulks. WSC-019 and WSC-021 each map to three pages; the JSON keeps their original discovery wording and stable IDs.
 
+## Sixth focused-review batch — publication and character routing
+
+**2026-10-25:** Published WSC-023 CHIDS hellhounds and routed WSC-024's named ice companions to character context. [The source report](HELLHOUNDS_AND_ICE_COMPANIONS_SOURCE_REVIEW_2026-10-25.md) and [JSON inventory](HELLHOUNDS_AND_ICE_COMPANIONS_SOURCE_REVIEW_2026-10-25.json) record fourteen primary windows, ten narrower Qwen windows and eight source fingerprints. The last conference-room hound dies in the E071 continuation. Toby's later intelligible explanation and personal relationship support the ice cluster's routing; frozen anatomy and hostility do not turn the named group into non-reasoning beasts. No full-episode or audio verification is claimed.
+
+| ID / disposition | Dossier and approximate window | Supported lead | Boundary retained |
+| --- | --- | --- | --- |
+| **WSC-023 — [CHIDS hellhounds](../world/creatures/chids-hellhounds.md), published** | [E070](../episodes/E070.md), selected ~02:01–02:51<br>[E071](../episodes/E071.md), selected ~00:26–00:39 | Flaming bodies, fire breath, frost injury, special radiant-round destruction and explicit death of the final hound. | No exact starting pack size, universal cold/radiant vulnerability, resistance-bypassing death burst or complete stat block. Security apes remain separate. |
+| **WSC-024 — [Cerinthala's ice-companion context](../world/characters/cerinthala.md), routed** | [E072](../episodes/E072.md), ~02:27–02:31<br>[E073](../episodes/E073.md), selected ~00:34–01:26 | Four ice forms enclose bodies; one retreats, released corpses are defeated, and Toby speaks about fear of abandonment before withdrawing. | Multiple bodies and named companions do not map neatly to one shell/individual each. No non-intelligent species article, all-four kill or later Toby survival claim. |
+
+The 24 published search subjects/clusters map to **28 articles**, excluding the original Chicken Lords and Pixie Hulks. WSC-024's new `routed-character-context` status counts separately from the five remaining focused-review clusters and the two one-off leads. Its discovery wording and evidence remain in the stable-ID JSON. This routing uses existing character/dossier context; it does not claim a new complete Toby biography.
+
+## Seventh focused-review publication batch
+
+**2026-10-25:** Published WSC-025 blue-black chasm flyers and WSC-026 crater wyvern. [The source report](WINGED_ATTACKERS_SOURCE_REVIEW_2026-10-25.md) and [JSON inventory](WINGED_ATTACKERS_SOURCE_REVIEW_2026-10-25.json) record eleven primary windows, eleven Qwen cross-readings and six source fingerprints. E057/E076 supply played encounters; E058's short recap explicitly names the crater pet a wyvern. The chasm flyer's thorned arrowhead tail is not assigned the other animal's poison. Artifact-supplied light guidance, failed Sleep, the partial portal outcome and nearby separate kills retain their limits. No full-episode or audio review is claimed.
+
+| ID / published article | Dossier and approximate window | Supported lead | Boundary retained |
+| --- | --- | --- | --- |
+| **WSC-025 — [Blue-black chasm flyers](../world/creatures/blue-black-chasm-flyers.md)** | [E076](../episodes/E076.md), selected ~01:09–01:47 | Leathery blue-black flyers with thorned arrowhead tails and frightening cries. Hope kills the first; a second loses its head at the portal while more remain above. | No named species, tail venom, Sleep immunity, fixed radiant vulnerability, general portal-kill rule or identity with Lethanphius. Brief head movement is not proof of lasting separate life. |
+| **WSC-026 — [Crater wyvern](../world/creatures/crater-wyvern.md)** | [E057](../episodes/E057.md), selected ~02:09–02:45<br>[E058](../episodes/E058.md), ~00:07:49–00:08:14 recap | Winged pet delivers a poison sting and bites; Stanley kills it with Booming Blade/Diplomacy. The later recap explicitly calls it a wyvern. | Recap naming is separate from played morphology and death. No identity with the removed skyfall creature, chasm flyers, Dolo Popio or Outlands individuals; no universal poison defense or innate death explosion. |
+
+The 26 published search subjects/clusters map to **30 articles**, excluding the original Chicken Lords and Pixie Hulks. WSC-024 remains routed to character context, with three focused-review clusters and two separately placed one-off leads remaining. Original discovery names and the former warning against inferring a wyvern label remain in JSON; the current label is supported by the separately reviewed recap.
+
 ## Suitable for bounded drafting
 
 **None remain in the initial draftable set.** The twelve original entries and owner-added sand squid are published with source limitations retained. The remaining leads require the focused checks below; publication has not established campaign originality, intelligence scores or audio verification.
@@ -143,10 +165,6 @@ Resolve these particular questions rather than promoting a vague encounter label
 
 | ID / candidate | Dossier and approximate window | Supported lead | Boundary / next check |
 | --- | --- | --- | --- |
-| **WSC-023 — CHIDS hellhounds** | [E070](../episodes/E070.md) 02:00–02:16<br>[E071](../episodes/E071.md) continuing conference-room fight | Flaming hounds with fire breath attack inside the facility. | Review the continuing fight for last observed survivors and distinguish observed behavior from baseline rule assumptions. |
-| **WSC-024 — Corpse-bearing ice constructs** | [E072](../episodes/E072.md) 02:25–02:29<br>[E073](../episodes/E073.md) opening continuation | Four enormous animated ice bodies enclose preserved corpses and attack around the resting party. | No universal ice-golem identity or explanation for every enclosed person is established; not all four are confirmed destroyed in the continuation. |
-| **WSC-025 — Blue-black hooked-tail flyer** | [E076](../episodes/E076.md) 01:09–01:37 | Leathery winged attacker with a hooked tail causes fear and is killed by Hope. | Species and origins remain unidentified. Do not merge with the speaking winged vessel occupant encountered in E077. |
-| **WSC-026 — Wormfather party's winged stinging pet** | [E057](../episodes/E057.md) 02:04–02:45 | Dragon-like winged pet fights alongside the crater attackers and is killed by Stanley. | Not the retrieved skyfall creature; no automatic wyvern classification or identity with E076's flyer. |
 | **WSC-027 — Six-limbed desert burrower** | [E128](../episodes/E128.md) 01:25–01:37 | Immense gear-scaled creature falls through a rift and burrows into Earth as a violent sand front forms. | Morphology and entry are witnessed; planetary conversion purpose is the Soulbroker's claim. Name, intelligence, origin and full mechanism remain unknown; no invented species or lethal outcome. |
 | **WSC-028 — Pit froghemoth and altered upper form** | [E039](../episodes/E039.md) 02:45–03:00, testimony<br>[E041](../episodes/E041.md) 00:50–02:11<br>[E046](../episodes/E046.md) 01:59–02:18<br>[E052](../episodes/E052.md) 00:00–03:04<br>[E053](../episodes/E053.md) 00:00–00:20 | Three-eyed pit predator and later enormous many-eyed form with an inhabitable digestive tract and separating upper cocoon. | E053 contains private mental bargaining and the creature's claim of intended ascent. Resolve form/NPC routing, continuity of specimens and attribution first. The upper portion escapes; the entire organism is not confirmed dead. |
 | **WSC-029 — Red memory-devouring organisms** | [E074](../episodes/E074.md) 02:35–02:49<br>[E075](../episodes/E075.md) 00:07–00:20<br>[E080](../episodes/E080.md) 00:51–01:00<br>[E081](../episodes/E081.md) 00:40–01:13 | Many-faced red mass makes tethered lookalikes and inflicts a persistent penalty; later red growths attack and burrow. | Copies can appear to speak. Check agency and whether later red organisms are the same kind before treating this as one non-reasoning species. |
@@ -173,7 +191,7 @@ Resolve these particular questions rather than promoting a vague encounter label
 
 ## Next bounded work and publication checks
 
-1. Continue focused source review with WSC-023 CHIDS hellhounds and WSC-024 corpse-bearing ice constructs. WSC-013–WSC-022 and the initial twelve-subject draftable set are complete; review continuing fights and distinguish individual outcomes from global clearance. Use targeted source windows only where a material claim remains unresolved; do not mark a complete episode reanalysis from excerpts.
+1. Continue focused source review with WSC-027 six-limbed desert burrower and WSC-028 Pit froghemoth/altered upper form. Review decisions for WSC-013–WSC-026 and publication of the initial twelve-subject draftable set are complete; distinguish observed incursion from the Soulbroker's claims, and resolve the froghemoth's private bargaining, form identity and upper-cocoon fate. Use targeted source windows only where a material claim remains unresolved; do not mark a complete episode reanalysis from excerpts.
 2. For each subject, check first appearance, distinguishing traits and last known state across the cited dossiers. Preserve testimonial origins, alternative spellings and uncertain individual outcomes in notes.
 3. Publish subject-focused in-universe prose under `world/creatures/`, with source/ASR details in footnotes and **Current status** last. Add only brief descriptions to the category index. Keep people and transformed forms distinct.
 4. Resolve the froghemoth's bargaining mind, red-organism agency, worm-type relationships and E127's separate chronology before expanding those clusters. Do not convert source uncertainty into a fictional universal rule.

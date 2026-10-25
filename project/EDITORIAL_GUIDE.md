@@ -32,6 +32,27 @@ Every entry ideally includes:
 
 Do not call a proposed spelling or character belief 'canon' until supported by clearer source. Where different editions disagree, preserve both source references and record how resolution was chosen.
 
+## Illustration production and visual continuity (2026-10-25)
+
+Use the [illustration guide](ILLUSTRATION_GUIDE.md),
+[subject template](ILLUSTRATION_SUBJECT_TEMPLATE.md) and
+[appearance register](ILLUSTRATION_REFERENCES.md) for the shared comic-book /
+graphic-novel art direction and written, time-specific visual instructions.
+Keep production records separate from ordinary in-universe world prose.
+
+During episode and subject research, record material visual descriptions,
+equipment changes, damage, transformations and changes to places or objects
+in the relevant appearance record, with exact source links and approximate
+clocks/cues when available. Distinguish when a feature applies in the story
+from when it is first revealed. New evidence may require revision of an
+earlier artistic choice; preserve that decision's history.
+
+Keep source role, transcription/audio verification and artistic selection
+separate. Existing fan art and end-era sheets do not establish early
+appearances. The show takes priority over stylistic defaults, and generated
+images never become evidence of show descriptions. Backfill older subjects
+in bounded passes rather than implying a complete appearance audit.
+
 ## Name rules
 
 - `Dusthill` is the wiki-supported written form; `Dust Hill` is an ASR/search alias.

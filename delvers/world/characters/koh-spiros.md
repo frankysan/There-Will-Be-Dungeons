@@ -44,10 +44,19 @@ Koh's search for answers takes him to a stern dragonborn who calls himself Wildf
 
 In the southwestern quarter, Koh's training receives a sudden test. When a rusting creature threatens him in a blacksmith's shop, he springs past it with the blue blade in his hand. The old grip crumbles as he strikes, but the psychic edge continues to obey him without it. He then responds to a child's warning, finds a stirge afflicting a family's old dog and helps bring the animal safely back to its feet. His instinct is still to observe before rushing into danger, though new powers have made him bolder in the moments that demand action.[^well]
 
+### The courage to retreat
+
+Koh learns to lead without confusing courage with an obligation to fight everything. Beneath the city he helps a second guild party against a cube, makes use of the silent speech taught by Wildfire and proves himself a patient archer when the cave's great hook-bearing predator charges. He can take pride in the killing stroke, yet the sight of another such creature bending over its fallen companion reminds him that exploration always leaves questions behind. He offers the guild tangible evidence rather than claiming that his company has emptied the caverns of danger.[^s9]
+
+### A different kind of hope
+
+On the way home Koh returns to the well for the climbing sash he left hanging there. At home, Penelope has drawn him with daggers, as though the part of his life he keeps secret has crept into her imagination. He turns his actual adventures into bedtime stories, then sits beside his unresponsive wife as he has done so often. The new power to speak silently into other minds presents a possibility that feels more important than any blade: perhaps one day he may reach her despite her stillness. The thought comforts him, but he has not yet tried it.[^s9]
+
 ## Current status
 
-Koh can now use **Psionic Whispers**, has gained the **Psi Blast** ability without using it in combat, and can manifest his psychic blade **without its destroyed physical hilt**. He also possesses a **Life Stealing shortsword** as shown in the smithy fight, and a rust-monster antenna and three ordinary replacement buckles. His climbing sash, recovered garnets and shared guild-library key remain associated with him; Wildfire keeps his own circlet. Koh and the Darkest Delvers are **running back toward an uninspected well**, with no new confirmed level-up or solution to his wife's illness.[^well]
+Koh has **retrieved Sultan's enchanted climbing sash** from the southwestern well, carries a new set of **studded leather armor** in place of his former leather, and continues to manifest his hilt-free Soul Knife. He has submitted a hook-horror limb, cube sample and one psychic spear to Carrie for examination. His **Psionic Whispers** offers a possible future means to reach his unconscious wife, but he has **not yet tried it**; her illness remains a private burden. The party is paid for the well mission and has **chosen a kuo-toa expedition for the next morning, not yet undertaken**. The GM has announced **level four for the next session**, without a played rest or completed upgrade.[^s9]
 
+[^s9]: [Delvers S1E09 dossier](../../episodes/S1E09.md), ~00:02–01:09, 01:48–01:57 and 02:22–02:30. Hook trophy and cube sample submitted to Carrie; climbing sash physically recovered. Penelope's drawing and Koh's thoughts are played; future psychic contact is only an untested intention. Level-four advancement announced out of game at ~02:49.
 [^wildfire]: [S1E07 dossier](../../episodes/S1E07.md), ~00:07–00:20 and ~00:45–00:48. Wildfire identifies his dead brother Brom/Bram as the globe's earlier owner, trains Koh privately; the alleged psychic hunters are unverified.
 [^well]: [S1E07](../../episodes/S1E07.md), ~01:32–02:02 and ~02:17–02:33. Soul Knife hilt breaks, blade persists, Life Stealing shortsword used, rust monster antenna/buckles acquired. No actual well descent or psi blast attack.
 

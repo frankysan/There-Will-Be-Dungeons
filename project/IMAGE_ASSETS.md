@@ -17,6 +17,20 @@
 | [Gibbering mouther artwork](../sources/images/Scott_Johnson_-_Gibbering_Mouther.webp) | Illustrative many-eyed/many-mouthed creature; **Scott Johnson** in the file name and visible artist mark. | Supporting **illustration**, relevant to E009 creature imagery, not independent encounter proof or a canonical anatomical specification. Confirm credit/license against original wiki file page. |
 | [Fate 4 action illustration](../sources/images/Audie_Norman_Fate_4_Action_Shot.webp) | Fan interpretation of raised-wheeled RV with characters participating in action. Filename suggests **Audie Norman**; attribution not independently verified. | Decorative **fan art**, not a primary vehicle-plan or proof of an episode's participants and positioning. |
 
+## New project illustration workflow
+
+Use [the illustration guide](ILLUSTRATION_GUIDE.md),
+[written subject template](ILLUSTRATION_SUBJECT_TEMPLATE.md) and
+[appearance register](ILLUSTRATION_REFERENCES.md) for newly developed
+illustrations. The initial Fate 4 pilot reuses this register's documented
+observations without claiming a new direct image or audio review.
+
+A source image, a selected production reference and a generated illustration
+have different roles. Link each to its applicable story state; preserve
+creator attribution and provenance. New art does not certify an uncertain
+description, establish an undated design's era, or change the reuse
+conditions of the existing source images.
+
 ## How to use this material
 
 1. **Distinguish source roles:** (a) on-image **show/creator-authored design sheet**, (b) annotated **map**, (c) **fan artwork**, and (d) unknown/undated graphic. Image presence or filename may support search, but does not independently establish **canon**, pronunciation, episode timing, or character knowledge.

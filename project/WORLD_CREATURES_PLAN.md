@@ -99,6 +99,9 @@ species lore. Campaign originality is a research question, not an entry gate.
 | The Wastes | [Razak Val invasive worms](../world/creatures/razak-val-invasive-worms.md) | Selected E064 passages distinguish observed invasion and visible clearance from guaranteed cure or a settled transmission chain |
 | The Wastes | [Dolo Popio's spawned worms](../world/creatures/dolo-popio-spawned-worms.md) | Selected E080/E081 passages retain separate traits and uncertain surviving counts; the reasoning antagonist remains separate |
 | The Wastes | [Translucent wall-passers](../world/creatures/translucent-wall-passers.md) | Selected E070 passages establish empathic reactions, unanswered questions and toy-squeak retreat; no moral test, standard species or permanent familiar |
+| The Wastes | [CHIDS hellhounds](../world/creatures/chids-hellhounds.md) | Selected E070/E071 passages establish flaming anatomy, breath and last-hound death; no universal cold/radiant vulnerability or complete stat block |
+| The Wastes | [Blue-black chasm flyers](../world/creatures/blue-black-chasm-flyers.md) | Selected E076 passages establish anatomy, fear, artifact-supplied light guidance and partial portal outcome; no identity with Lethanphius |
+| The Wastes | [Crater wyvern](../world/creatures/crater-wyvern.md) | Selected E057 encounter and E058 recap establish the sting, death and explicit wyvern label; no identity with the removed skyfall body |
 | Delvers | [Gricks](../delvers/world/creatures/gricks.md) | S1E01 identification and S1E03 sinkhole predators; no invented S1E02–S1E03 transition or cleared dungeon |
 
 Squirts, Henatar/Henitar Grape and the imprisoned black dragon remain character
@@ -107,6 +110,13 @@ material; Studwell's apparition remains in the crypt dossier. Their former
 category summaries and source links are preserved in the
 [pre-correction working-copy archive](../research/legacy/2026-10-24/creatures-before-scope-correction/README.md),
 not maintained as parallel creature entries.
+
+Toby and the named corpse-bearing ice companions remain with
+[Cerinthala's character context](../world/characters/cerinthala.md) and the E072/E073
+dossiers after [targeted review](../reports/HELLHOUNDS_AND_ICE_COMPANIONS_SOURCE_REVIEW_2026-10-25.md).
+Toby answers intelligibly and gives a personal motive for the attack. Multiple
+bodies, ice shells and named individuals have no complete one-to-one mapping;
+the cluster is routed to character context rather than published as a beast kind.
 
 This starter set is not an exhaustive bestiary or a new episode-research pass.
 The Wastes portal's E128 and Delvers portal's S1E03 horizons remain unchanged;
@@ -117,9 +127,9 @@ from supported material, preserving unknown fates and source limitations.
 
 The [initial season-wide dossier search](../reports/WASTES_S1_CREATURE_SEARCH_2026-10-24.md)
 and [machine-readable inventory](../reports/WASTES_S1_CREATURE_SEARCH_2026-10-24.json)
-record 32 additional candidate subjects or research clusters: twenty-three now published
-(sand squid, all twelve initially draftable candidates and ten source-reviewed clusters), none awaiting initial drafting, seven requiring focused review and
-two from the separately placed Wastes-setting Christmas one-off. The initial
+record 32 additional candidate subjects or research clusters: twenty-six now published
+(sand squid, all twelve initially draftable candidates and thirteen source-reviewed clusters), none awaiting initial drafting, three requiring focused review, one routed
+to character context and two from the separately placed Wastes-setting Christmas one-off. The initial
 scan covers 130 available
 E-numbered dossiers; it is not a full transcript or audio review and excludes
 the alternate-setting E043 from Wastes evidence.
@@ -141,8 +151,12 @@ The **froghemoth gut inhabitants** now have three subject pages, alongside the
 **bloodsucking desert swarm**, after [targeted transcript review](../reports/GUT_INHABITANTS_AND_SWARM_SOURCE_REVIEW_2026-10-25.md).
 The **parasitic headworms and related forms** now have three separate accounts,
 alongside **translucent wall-passers**, after [targeted transcript review](../reports/HEADWORMS_AND_WALL_PASSERS_SOURCE_REVIEW_2026-10-25.md).
-The 23 published search subjects/clusters map to 27 articles, excluding the original
-Chicken Lords and Pixie Hulks. Next are **CHIDS hellhounds** and **corpse-bearing ice
-constructs**, with continuing-encounter outcomes still to resolve. These creature
+The **CHIDS hellhounds** are published after their
+[targeted review](../reports/HELLHOUNDS_AND_ICE_COMPANIONS_SOURCE_REVIEW_2026-10-25.md), which also routes the ice-companion cluster to character context.
+The **blue-black chasm flyers** and **crater wyvern** are published after their
+[targeted review](../reports/WINGED_ATTACKERS_SOURCE_REVIEW_2026-10-25.md), keeping played observations distinct from recap identification and artifact guidance.
+The 26 published search subjects/clusters map to 30 articles, excluding the original
+Chicken Lords and Pixie Hulks. Next are the **six-limbed desert burrower** and
+**Pit froghemoth/altered upper form**, with attributed claims, identity and personhood still to resolve. These creature
 publications do not advance an episode-research pointer. Follow the report's
 specific identity, agency and source checks when continuing.
