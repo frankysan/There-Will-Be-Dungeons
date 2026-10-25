@@ -24,7 +24,8 @@
 | Item | Follow-up location |
 | --- | --- |
 | **Mawstorm** and Vorel's skull helmet | [Vorel](characters/vorel.md); sword name still requires audio/written confirmation |
-| **Fate 4** and Hope's mechanical arm, **Fox and Scully** | [Hope](characters/hope-akmenos.md); the vehicle is destroyed E066, not later retrieved |
+| **Fate 4** | [Fate 4](technology/fate-4.md) — Hope and Jimster's monster-wheeled RV; destroyed E066, with salvage used for a separate successor |
+| **Hope's mechanical arm, Fox and Scully** | [Hope](characters/hope-akmenos.md); equipment details belong to Hope's own reference |
 | **Robe of Useful Items** and Nash's staff | [Nash](characters/nash-maggard.md); robe patch consumption and staff custody remain episode-specific; [heart has separate page](technology/nash-dragon-heart.md) |
 | **Necklace of Fireballs**, once recovered from Orp | **Omnom retains E119–E120; Vorel retrieves and discharges the *entire necklace* as a Fireball E121**. ~Five beads was a GM approximation, not a verified previous inventory. **No unused necklace remains**. [Omnom](characters/omnom-cinderborn.md) · [E121](../episodes/E121.md) |
 | **Zorander's Fist gauntlet and case** | [Hope](characters/hope-akmenos.md), [E101](../episodes/E101.md), [E106](../episodes/E106.md); gauntlet delivered to Tobacho **without** the Hand |

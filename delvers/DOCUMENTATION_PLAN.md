@@ -32,7 +32,7 @@ All Delvers world paths in this table are relative to `delvers/world/` where abb
 
 ## Season and story boundaries
 
-Research season 1 before season 2, retaining **S2E00 — Cassius at the Guild** before S2E01 in archive order. Its classification remains open until the recording is reviewed. Continue to season 3 using its actual IDs. Neither an E00 label nor the final available filename proves episode type, story chronology or fictional closure.
+**Season One / Arc One research completed 2026-10-25** through [S1E12 finale](episodes/S1E12.md) (dual-ASR provisional), with a new [eight-chapter first-arc narrative](narrative/SEASON_ONE_ARC.md) and the four earlier narrative chapters retained as linked historical drafts. A more ambitious rewrite of those preserved chapters is **optional later editorial consolidation** and must snapshot originals before replacing them. Next is **S2E00 — Cassius at the Guild** before S2E01 in archive order, to classify its recording type before adding canon. Its classification remains open until the recording is reviewed. Continue to season 3 using its actual IDs. Neither an E00 label nor the final available filename proves episode type, story chronology or fictional closure.
 
 Do not assign one story arc per season in advance, reuse Wastes arc numbers or impose eight chapters on an ongoing story. Once a Delvers arc has ended, follow the shared policy for a coherent consolidation and roughly eight main chapters where meaningful, preserving a linked historical snapshot before a major rewrite.
 

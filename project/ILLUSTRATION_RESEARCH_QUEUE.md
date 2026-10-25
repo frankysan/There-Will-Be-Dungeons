@@ -50,19 +50,7 @@ unrelated later-era appearance **does not by itself clear the gate**.
 
 ## Open requests
 
-### IRQ-0001 — The Wastes / Jimster's garage, Dusthill
-
-- **Status:** queued
-- **Opened / updated:** 2026-10-25
-- **Campaign / subject:** The Wastes; Jimster's garage/workshop in Dusthill (place; provisional ID `WASTES-JIMSTERS-GARAGE`; confirm name and whether garage/workshop are the same location during research).
-- **Blocked request(s):** 2026-10-25 — `$twbd-illustration-generate Wastes Fate 4 inside Jimster's garage in Dusthill, no people`; intended 1024 × 1024 illustration, no visible people; requested story-time cutoff not specified.
-- **Needed scene/state:** The garage interior with Fate 4 physically present. Distinguish E067's retrospective pre-modification RV (`WASTES-FATE4-A00`), E001's last-monster-wheel construction (`A00A`), and the still-unfinished E005 build (`A00B`) from the completed E006 vehicle (`A01`); establish which is actually depicted inside the garage rather than presuming the unveiling occurred indoors.
-- **Missing or insufficient:** No indexed, integrated **appearance reference for Jimster's garage**. Research the garage's supported spatial layout, workshop/entrance geometry and scale sufficient to contain the relevant RV, doors and surroundings, furnishings, tools, lighting and any unique visual features. Record which features are genuinely described and which must remain artistic choices. Resolve or explicitly separate the garage/workshop terminology and the requested vehicle's time/state before illustration.
-- **Evidence checked:** [Dusthill world entry](../world/places/dusthill.md) notes a garage but does not describe its appearance. [E001 dossier](../episodes/E001.md) mentions a mechanical workshop; [E006 dossier](../episodes/E006.md) places the Bok Bok scene in Jimster's garage; [E067 dossier](../episodes/E067.md) locates a pre-modification Fate 4 in Jimster's garage during Hope's subjective interlude. [Fate 4 appearance reference](ILLUSTRATION_FATE4_REFERENCE.md#appearance-state-timeline) already covers vehicle states `A00`, `A00A`, `A00B`, and `A01`, but cannot substitute for a researched setting. These are existing dossier/reference findings, not a new primary transcript or audio audit.
-- **Research action:** Run `$twbd-illustration-research Wastes "Jimster's garage in Dusthill" (focus E001, E005, E006, E067 and relevant visual descriptions)`; integrate a time-specific garage appearance record, document spatial evidence and verify vehicle-state applicability. Preserve `no people` as a composition constraint.
-- **Resolution:** pending. A new generation invocation must recheck both the garage reference and the appropriate Fate 4 state before producing art.
-- **History:** 2026-10-25 — generation preflight blocked before any image call; garage reference absent, requested moment underspecified; associated Fate 4 states already researched provisionally.
-
+*No open requests.*
 
 Each new active entry uses the structure below and the next unused,
 monotonically increasing `IRQ-####` ID. Deduplicate by **campaign + stable
@@ -105,4 +93,16 @@ separately after generation.
 
 ## Resolved requests
 
-*None yet.*
+### IRQ-0001 — The Wastes / Jimster's garage, Dusthill
+
+- **Status:** resolved
+- **Opened / updated:** 2026-10-25
+- **Campaign / subject:** The Wastes; Jimster's garage/workshop in Dusthill (place; stable ID `WASTES-JIMSTERS-GARAGE`; names refer to the same documented working facility).
+- **Blocked request(s):** 2026-10-25 — `$twbd-illustration-generate Wastes Fate 4 inside Jimster's garage in Dusthill, no people`; intended 1024 × 1024 illustration, no visible people; requested story-time cutoff not specified.
+- **Needed scene/state:** The garage interior with Fate 4 physically present. Distinguish E067's retrospective pre-modification RV (`WASTES-FATE4-A00`), E001's last-monster-wheel construction (`A00A`), and the still-unfinished E005 build (`A00B`) from the completed E006 vehicle (`A01`); establish which is actually depicted inside the garage rather than presuming the unveiling occurred indoors.
+- **Original research gap (now addressed):** No indexed, integrated **appearance reference for Jimster's garage** existed when the illustration was requested. Research the garage's supported spatial layout, workshop/entrance geometry and scale sufficient to contain the relevant RV, doors and surroundings, furnishings, tools, lighting and any unique visual features. Record which features are genuinely described and which must remain artistic choices. Resolve or explicitly separate the garage/workshop terminology and the requested vehicle's time/state before illustration.
+- **Evidence checked:** [Dusthill world entry](../world/places/dusthill.md) notes a garage but does not describe its appearance. [E001 dossier](../episodes/E001.md) mentions a mechanical workshop; [E006 dossier](../episodes/E006.md) places the Bok Bok scene in Jimster's garage; [E067 dossier](../episodes/E067.md) locates a pre-modification Fate 4 in Jimster's garage during Hope's subjective interlude. [Fate 4 appearance reference](ILLUSTRATION_FATE4_REFERENCE.md#appearance-state-timeline) already covers vehicle states `A00`, `A00A`, `A00B`, and `A01`, but cannot substitute for a researched setting. These are existing dossier/reference findings, not a new primary transcript or audio audit.
+- **Research performed:** Bounded E001/E005/E006/E067 direct transcript review, with targeted second-ASR comparisons in E001/E006/E067; four garage states integrated. No audio verification or selected model sheet.
+- **Resolution:** 2026-10-25 — [garage reference v0.1](ILLUSTRATION_JIMSTERS_GARAGE_REFERENCE.md) integrated into the [appearance index](ILLUSTRATION_REFERENCES.md#wastes-jimsters-garage-in-dusthill). The recommended no-people composition is E001 garage `WASTES-JIMSTERS-GARAGE-A01` with Fate 4 `WASTES-FATE4-A00A`. Exact floorplan/connection of entrances is still a provisional artistic choice; the historical scene includes people, but the requested image excludes them. Any new generation request must recheck the references and select a depicted moment.
+- **History:** 2026-10-25 — original illustration preflight blocked because the garage lacked research; Fate 4 already had a provisional state reference. The garage research was subsequently integrated and this queue item resolved. No image generated as part of research.
+

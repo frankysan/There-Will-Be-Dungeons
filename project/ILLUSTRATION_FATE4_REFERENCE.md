@@ -1,10 +1,11 @@
 # Fate 4 — illustrated appearance and continuity reference
 
 **Subject ID:** WASTES-FATE4. **Campaign:** The Wastes only. **Kind:** vehicle.
-**Record:** v0.3, 2026-10-25. **Art direction:** [guide v0.2](ILLUSTRATION_GUIDE.md).
+**Record:** v0.4, 2026-10-25. **Art direction:** [guide v0.3](ILLUSTRATION_GUIDE.md).
 **Status:** ASR-supported written reference through selected E066 scenes, with
-incomplete later-era screening; **no audio-confirmed measurements, owner-approved
-model sheet or selected production illustration**.
+incomplete later-era screening and **no audio-confirmed measurements or
+owner-approved technical model sheet**. One owner-selected **world-page illustration**
+now represents the E006 unveiling appearance; its detailed geometry is artistic interpretation.
 
 [Appearance register](ILLUSTRATION_REFERENCES.md#wastes-fate-4) ·
 [Full transcript audit](../reports/FATE_4_TRANSCRIPT_AUDIT_2026-10-25.md) ·
@@ -214,6 +215,14 @@ source-faithful new illustration **must not reuse the old exclusion of
 skulls**, and must include functional exterior handholds. Neither assistant
 review nor repetition of a prompt constitutes owner approval.
 
+### Selected world-page illustration — WASTES-FATE4-ILL-001
+
+**Project-owner selection (2026-10-25):** The new [Fate 4 world page](../world/technology/fate-4.md) uses a generated scene depiction of the **E006 unveiling vehicle state** (`WASTES-FATE4-A01`) inside **Jimster's garage** (`WASTES-JIMSTERS-GARAGE-A03`), with no people. This is an owner-selected **page illustration**, not an approved technical model sheet or evidence of exact canon paint, architecture or mechanical dimensions.
+
+**Image provenance:** ChatGPT image generation, generation ID `6104e869-a25a-46c6-9fee-33605003f2e2`; original output 1254 × 1254. Prepared production PNG: 1024 × 1024, resampled without cropping, SHA-256 `0a502a8813a125ff9d3083dde643ddd7a2347a8f7684d8ab704e3fbf4de09b43`. The original user brief specified Fate 4 as first unveiled, inside Jimster's garage, without people. No source photographs were supplied to generation.
+
+**Repository asset location:** `illustrations/wastes/fate-4-e006-unveiling-jimsters-garage.png`. The connected editor cannot upload the binary; **binary import remains pending**, and the page's image link will not display until installation from the provided package. Visual styling follows guide v0.3; the front dragon-skull metalwork, monster wheels, roof solar panels and functional exterior rails are grounded, while exact paint, proportions, detailed skull shape, garage layout and outside view remain artistic interpretations.
+
 ## Open checks and next bounded work
 
 1. **Directly inspect** both source sheets and the floorplan; record exact
@@ -239,3 +248,4 @@ review nor repetition of a prompt constitutes owner approval.
 | 2026-10-25 / 0.1 | Introduction pilot created. | Broad E006 dossier/design leads, S01–S03. |
 | 2026-10-25 / 0.2 | Two provisional studies plus D01–D05 recorded. | Historic choices retained [in archive](ILLUSTRATION_FATE4_PILOT_0_2.md); no approved sheet. |
 | 2026-10-25 / 0.3 | Integrate saved targeted transcript audit; preserve A01 and add precursor/damage/repair/destruction states A00–A10 and S04–S15; reject false features. | Both early style previews require major **source-fidelity revision** before reuse; no audio/image inspection newly performed. |
+| 2026-10-25 / 0.4 | Owner selected a new E006 unveiling illustration for Fate 4's dedicated world page; source canvas standardized to 1024 square. | Page and metadata written; binary image must still be installed into the repository. Not technical-sheet approval. |

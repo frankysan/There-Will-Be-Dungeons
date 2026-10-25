@@ -7,7 +7,8 @@ the campaigns. Use [the guide](ILLUSTRATION_GUIDE.md) and
 
 | Campaign | Subject | Coverage and status |
 | --- | --- | --- |
-| The Wastes | [Fate 4](#wastes-fate-4) | Source-audited, time-specific appearance states through E066; ASR-provisional, source imagery not yet reinspected, no approved model sheet. |
+| The Wastes | [Fate 4](#wastes-fate-4) | Source-audited, time-specific appearance states through E066; ASR-provisional, no approved model sheet. |
+| The Wastes | [Jimster's garage, Dusthill](#wastes-jimsters-garage-in-dusthill) | Early original/construction/secured/unveiling states; four-episode targeted transcript research with partial independent Qwen corroboration; no approved illustration. |
 | Inverse | No subject record yet | Shared art direction only; no imported Wastes appearances. |
 | Delvers | No subject record yet | Shared art direction only; no imported Wastes appearances. |
 
@@ -31,8 +32,9 @@ are retained for provenance; neither early image is a selected appearance sheet.
 | Essential E006 interior | Driver's seat, **weapons rather than a normal front passenger seat**, skull gearshift, radios, wall magnet, portable provisions, sleeping arrangement, hot plate and bathroom |
 | Known measurements | Ten-foot width supported by E010 dialogue; thirty-foot length only from the existing creator-design sheet |
 | Unresolved appearance | Paint, exact body/axle/door/window/solar layout, image-era compatibility and repairs not explicitly inventoried |
-| Verification / selection | Selected transcript passages compared, **not listened to**; archived design images **not newly inspected**; no owner-approved model sheet |
-| Record version | 0.3 / 2026-10-25 |
+| Verification / selection | Selected transcript passages compared, **not listened to**; archived design images **not newly inspected**; a **world-page illustration is owner-selected**, but no approved technical model sheet |
+| Selected illustration | [Fate 4 world page](../world/technology/fate-4.md), `WASTES-FATE4-ILL-001` (E006, Dusthill garage); PNG asset import pending |
+| Record version | 0.4 / 2026-10-25 |
 
 For a source-faithful illustration, use **a specific appearance state** from
 [the detailed subject file](ILLUSTRATION_FATE4_REFERENCE.md#appearance-state-timeline).
@@ -41,3 +43,31 @@ confuse the E057 interceptor with Fate 4, depict an E028 hide patch as
 load-bearing metal, or interpret E066 salvage as a repaired powered RV.
 Preserve the [guide's](ILLUSTRATION_GUIDE.md) heavy ink and muted pastel
 styling while keeping actual show-described features authoritative.
+
+## Wastes: Jimster's garage in Dusthill
+
+**Active subject reference:** [Jimster's garage — physical layout and scene states](ILLUSTRATION_JIMSTERS_GARAGE_REFERENCE.md), record v0.1 (2026-10-25).
+**ID:** `WASTES-JIMSTERS-GARAGE` (place). This is Dusthill's cliff-excavated
+mechanical shop, with an open shelf-divided town-facing workshop area and
+a concealed mountain-face vehicle exit. The E067 retrospective scene
+describes **two large rock-integrated garage doors**; the full physical
+connection of these features is unmeasured and must not be represented as
+a verified floorplan.
+
+**Recognizable fixtures:** red-rock excavation, metal shelving, salvaged
+mechanical and irrigation materials, secured weapons, workbench,
+compressed-air tools, dust/oil, and makeshift crate seating at relevant
+stages. The E001 workshop contains a tiny Smart-car-like vehicle and the
+shabby, gigantic-tired RV in construction. Earlier E067 memory shows an
+ordinary-tired RV at the back under canvas, with oversized tires in a
+corner; E006 describes a secured, tarp-covered RV before the unveiling.
+These are **different source-supported states**, not one simultaneous
+canonical arrangement.
+
+**States:** `WASTES-JIMSTERS-GARAGE-A00` (earlier Hope memory), `-A01`
+(E001 construction), `-A02` (E005/E006 secured shop) and `-A03`
+(E006 final preparation). See the [detailed timeline and evidence](ILLUSTRATION_JIMSTERS_GARAGE_REFERENCE.md#appearance-state-timeline)
+for scene-specific Fate 4 state pairings. **ASR-text-based and
+integrated**, no audio verification, no selected model sheet, and no
+invented absolute measurements. Source-supported visual uncertainty is
+retained as explicitly provisional creative decisions.

@@ -1,6 +1,6 @@
 # Delvers — places
 
-**Spoilers through S1E11. Evidence:** ASR-provisional; names awaiting listening are explicitly provisional.
+**Spoilers through S1E12 — Season One / first arc**. Evidence:** ASR-provisional; names awaiting listening are explicitly provisional.
 
 | Place | Scope and reference |
 | --- | --- |
@@ -9,11 +9,12 @@
 | Squelcher's Swamp | Passed on the eastward route to the farm, ~01:01:53–01:02:38; not explored |
 | Mickles / Mikkels farm and cave | Sheep field, natural cavern and sealed fissure. [Profile](places/farm-cave.md) |
 | Underdark | Lower passage reached by Koh; broader geography unknown. Cassius reports another delver's different mission here |
-| Snake Island | Rejected posting; not visited, reward described by Cassius as snakes |
+| Snake Island | Initially rejected posting; **new patron arrives with buckets of coins and snakes**, revives paid quest offer at season-one cutoff; **not yet accepted or visited** |
 | Murray Keep, Hearthwood lodging/logging camp, Buckner Brewhouse | Names on displayed guild trophies, ~00:13–00:15; not destinations reached by this party |
 | Kord's mountain sanctuary / cryptnasium | Athletic graveyard; fountains cleansed, Studwell defeated and Meatball and Sultan rescued. [S1E02 evidence](../episodes/S1E02.md) |
 | Forest limestone sinkhole and dungeon | Grick-scout site, trapped passages and chest; unexplored deeper structure. [Profile](places/grick-sinkhole.md) |
 | Veggie Sticks's hollow stump | Woodland hermit's home with animated plants, near hippogriff habitat. [Profile](characters/veggie-sticks.md) |
+| [Noble Hollow](places/noble-hollow.md) | Petrified tree and collapsed ritual clearing north of city; **Marek's midnight rite interrupted, roper killed, Faelan/Norman rescued alive** |
 | [Kuo-toa lakeshore village](places/kuo-toa-lakeshore-village.md) | Freshwater neighbors offered fish/pearls for peaceful guild inquiry; **Koh mistaken for god**, trader Glepo Ma gives conch staff to threatening collector, later swims west to warn bullywugs; **Delvers return and depart on horses with three living prisoners** |
 | [Submerged lake ruins](places/submerged-lake-ruins.md) | Familiar ancient traps underwater; **Krandal wears Ring of Protection**, **Delvers escape and leave village**; Wand of Secrets and broken geared disc found; tooth-framed gate remains unopened, divinity/Dunes claims unresolved |
 | [Temple of Pelor](places/temple-of-pelor.md) | Old sanctuary over **Hall of Penance dungeon stair** and **distinct humming main-altar shaft**; two elves unresponsive, cause not established; guild guards below |

@@ -29,7 +29,7 @@
 | **Leopold desert laboratory** | Site of E008–E009 guest-character adventure, distinct from Black Mine and CHIDS | [Leopold](places/leopold-facility.md) |
 | **Dunebreaker landship** | The **same Wastes**, but **long before E001**; three-episode historical adventure published E107–E109 | [Dunebreaker](places/dunebreaker.md) |
 | **Kaiser Casino** | Hope's separate Hell-path meeting place for Brett and the Principle | [Kaiser Casino](places/kaiser-casino.md) |
-| **Fate 4** | Hope's modified ground vehicle and mobile party home; **destroyed E066** | [Hope](characters/hope-akmenos.md) · [E066](../episodes/E066.md) |
+| **Fate 4** | Hope's modified ground vehicle and mobile party home; **destroyed E066** | [Fate 4](technology/fate-4.md) · [Hope](characters/hope-akmenos.md) |
 | **Moag Ferhain (?)** | Dwarven remains beneath Dusthill; wiki-assisted spelling, actual audio/map still needs review | [Dusthill](places/dusthill.md) · [E003](../episodes/E003.md) |
 | **Liberators' camp / Golden Land** | Mountain resistance hideout and Vorel's lizardfolk oath | [E026](../episodes/E026.md)–[E028](../episodes/E028.md) |
 | **Green skyfall crater / purple sands** | Post-stonefall crater, parasite trail and disastrous road toward Kervalon | [E057](../episodes/E057.md) · [E065](../episodes/E065.md)–[E067](../episodes/E067.md) |
