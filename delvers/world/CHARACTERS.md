@@ -1,6 +1,6 @@
 # Delvers — characters
 
-**Spoilers through S3E03 — new guest halfling bard/correspondent Dumbledwark enters; reporter gets C4 licence and steals warlock's tome while Cassius remains unavailable, before any C4 dungeon expedition.** Earlier S2E12 second-arc events remain historical. Evidence: ASR-provisional. Working player-character spellings use the [written-source register](../../reports/DISCORD_SPELLING_2026-10-21.md); voice, exact utterances and historical sheet state remain unchecked. No later nicknames or surnames are backdated.
+**Spoilers through S3E04 — C4 entered under licence, behir defeated and Iron Monkey alive but missing an arm; earlier S3E03 historical context: new guest halfling bard/correspondent Dumbledwark enters, receives licence and takes warlock tome while Cassius remains unavailable.** Earlier S2E12 second-arc events remain historical. Evidence: ASR-provisional. Working player-character spellings use the [written-source register](../../reports/DISCORD_SPELLING_2026-10-21.md); voice, exact utterances and historical sheet state remain unchecked. No later nicknames or surnames are backdated.
 
 | Character | Performer / introduction | Reference |
 | --- | --- | --- |

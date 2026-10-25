@@ -4,6 +4,7 @@ The woodland, buried ruins and distant mountain keeps around the guild's city sh
 
 | Creature | Nature and place in the world |
 | --- | --- |
+| Behi(r) of Dungeon C4 | Long many-legged lightning-breathing cavern predator **killed by Krandal's Spiritual Weapon in [S3E04](../episodes/S3E04.md)**. Its attack kills no observed Delver; earlier victim testimony says it squeezes prey and is lightning-immune. Unrelated unidentified sticky ceiling ropes/pale crab-like beings are **not proven part of behir**. |
 | [Hook horrors](creatures/hook-horrors.md) | Huge hook-armed, beaked hunters in deeper natural tunnels; one killed by Koh, **another seen alive**. Their ecology and exact senses remain uncertain. |
 | [Gricks](creatures/gricks.md) | Scaled predators with grasping limbs and beaks, encountered around a forest sinkhole and within a trapped dungeon. |
 | [Noble Hollow roper](creatures/noble-hollow-roper.md) | Great stone-skinned creature beneath petrified hollow; **produces piercers**, killed by Evelyn. **Not proven summoned lake beast**. |
