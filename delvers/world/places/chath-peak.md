@@ -1,0 +1,22 @@
+# Chath Peak — red-dragon mountain
+
+**Working spelling:** **Chath Peak** (also `Chaff Peak` in S2E08 ASR; audio/GM map needed). **Delvers-only volcanic mountain destination**, first directly played in [S2E08 — Golden Potato Sword](../../episodes/S2E08.md). **The dragon is alive and the hunt ongoing at source cutoff.**
+
+## Approach and first encounter
+
+The Atomer guild lists **Dragon Mountain** on this peak as a **1,000-gp job for the four-person team**. Clerk believes quarry a ~100-year-old red dragon, and recalls a **green dragon** killed here **~150 years prior by Radiant Lance**. Silver-ranked expert **Marsh** arrives with Aegis's three bronze Delvers; **guild lends fire suppression armor**. The trail winds among sparse plants and **kobold prints**, up steep red-rock paths. After ~2 hours the travelers reach a **~30-ft wide waterfall** falling into a basin ~120 feet beneath a precarious **~3-ft rock ledge** behind the falling water. Several **red kobolds** fetch water and play below. An **immense red dragon** drinks there; Marsh estimates **~450 years old**, dramatically above guild estimate, and its frightening presence overwhelms the original three adventurers. The party traverses the ledge using **pitons and Koh's Sultan's Sash** until Krandal's metal face maces draw attention, leading to a **first dragon-fire breath**. The dragon flies off alive.[^approach]
+
+High on the mountain is a **kobold village** whose shaman, **Skoogie**, claims a recent dragon has displaced the shaman's authority. **Three kobolds are physically tied to a long log and delivered as offerings**, carried away by dragon; the dragon is subsequently seen **eating the final victim**. The party does not battle or save villagers here. Skoogie leads them to a **hidden volcanic tube**. A **river of lava** crosses the route; Marsh uses **Jump**, Krandal uses **Create/Destroy Water to cool and solidify a temporary crossing**.[^village]
+
+## The Radiant Lance machinery
+
+In a hidden **obsidian chamber** ancient Elvish writing and additional signed handwriting identify an older dragon slayer called **Radiant Lance**. There is a **clockwork forge** under glass, a **handprint**, a **gold acceptance basin** and a **3D model** of the mountaintop lair. A warning requires a dragon slayer to prove lack of greed. Evelyn places **about 250 gp** in the basin, Krandal a half-eaten **potato**, presses the hand and **actually receives a Dragon Slayer's Longsword forged of the gold**; the potato burns away. Koh's attempt with **1,000 ball bearings** gives only fused lump, Krandal's candles produce wax and may clog contraption. **The forge is not documented making any second useful enchanted item.** The miniature identifies three distinct controls: **Lava Off (red/north), Sealed Gate (blue/east), Forced Landing (green/south)**, whose activation status must remain separate.[^forge]
+
+## Mountaintop lair and S2E08 cutoff
+
+A lift from the workshop raises party and shaman into a cavernous summit lair. **Great lava moat**, bridges, outer ring, ramp at **20 ft** and a **40-ft dragon perch**, precious hoard and **an abandoned wagon with horse skeletons**. Red dragon **actually present and active**; talks and breathes fire, flies as high as ~80 ft within battle. **Koh presses Lava Off**, causing jets of water to cool the molten moat and fill room with **thick, obscuring steam**. **Marsh goes toward Sealed Gate, Evelyn toward Forced Landing, but neither actually activates their mechanism before cutoff**. Krandal dispels a local portion of the steam and takes refuge in treasure wagon without looting. Evelyn **strikes dragon with magical sword in an opportunity attack**; dragon **survives**. Battle is **paused mid-round** for guest scheduling; no kill, hoard division, return journey or settled guild bounty. Source map was **described on air and posted to Discord, but the actual GM image was not inspected**.[^cutoff]
+
+[^approach]: [S2E08](../../episodes/S2E08.md), ~00:05–01:09. Clerk's expected age and Marsh's observed estimate distinguished.
+[^village]: [S2E08](../../episodes/S2E08.md), ~01:10–01:56. Kobold sacrifices and Skoogie's claims; waterfall/lava geographic dimensions from narrated GM map.
+[^forge]: [S2E08](../../episodes/S2E08.md), ~01:57–02:25. Ancient mechanism, inscriptions and item result actually played.
+[^cutoff]: [S2E08](../../episodes/S2E08.md), ~02:25–02:56:46. Mechanism activations, active dragon combat and exact unresolved cutoff.

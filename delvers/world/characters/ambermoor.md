@@ -18,7 +18,11 @@ An underwater map hidden in his desk leads the Delvers to a worked cave where **
 
 Evelyn opens the main door and triggers the alarm. Koh attacks from concealment, misses with the first psychic strike and lands a critical second blow to the head. **Ambermoor falls unconscious but is explicitly declared NONLETHALLY defeated**. The Delvers strip his **spell-component pouch and crab #1 key**, bind and gag him in Koh's **Sultan's Sash** and secure the four-color reagent samples in the briefcase, which Koh places inside a **Bag of Holding**. His unfinished villainous speech is table humor, not an unplayed action or admission of further results.[^capture]
 
-## Current status (through S2E07)
+## Later S2E08 continuity bridge (not an in-scene handoff)
+
+S2E07 ends with **Ambermoor alive, bound/gagged, at Krandal's farm**. At the **opening of S2E08**, the GM retrospectively says the Delvers **delivered him to the guild holding cells** and that a **Zone of Truth** inquiry is arranged there, before the party was dispatched for the red dragon mission. **Delivery is established offscreen**, not a newly played interrogation, trial, confession, reward or vials/evidence handoff. The reagent briefcase's precise recipient remains unspecified. [S2E08](../../episodes/S2E08.md), ~00:00–00:10.
+
+## Earlier S2E07 cutoff (retained historically)
 
 **Ambermoor is alive, unconscious or incapacitated, bound and gagged, in the Delvers' custody**. After leaving the laboratory and Gemholm, the group **actually disembarks from Gil's ferry at Krandal's farm with the captive** to hide from Atomer authorities investigating the Withers heist. **He has not yet been delivered to Cassius, examined, interrogated, tried, released, killed or paid for at the source cutoff.** His reagent briefcase stays with **Koh**; **two large slaadi from the shore remain unaccounted for**, leaving the safety of Gemholm uncertain. The original chaos gems were **pulverized and dissolved into experimental substances**, per the GM at the close, so no intact original stones are found. **Hank Tom, Caleb, Destin, Neko**, his corporate authority, and his proposed customers require written/source review.[^end]
 

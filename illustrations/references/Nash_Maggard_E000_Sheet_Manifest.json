@@ -1,0 +1,55 @@
+{
+  "subject": "Nash Maggard",
+  "appearance_state": "WASTES-NASH-MAGGARD-A01 / E000",
+  "sheet_id": "WASTES-NASH-MAGGARD-DS-001",
+  "status": "AWAITING_OWNER_REVIEW",
+  "method": "deterministic composition from four separately owner-approved reference files",
+  "page_1": "front/back and two opposing hood-up side figures; approved pixels matted from their neutral backgrounds, cropped and downsampled proportionally",
+  "page_2": "byte-identical original approved face anchor, unchanged",
+  "no_added_text_in_images": true,
+  "no_character_redraw": true,
+  "matting": "OpenCV GrabCut segmentation to a single shared studio background; original foreground pixels remain from approved reference images",
+  "input_sources": {
+    "face": {
+      "sha256": "93e82eff061afd08611d0e6cf4fe8dfd11058ed94985c8c10a9d42140947cb71",
+      "filename": "Nash_Maggard_Face_v1_1024_sRGB.png"
+    },
+    "front": {
+      "sha256": "cc60727f08492be9bf54c43da5c6de9694fbd1c89f95840521396f033ecf58d0",
+      "filename": "Nash_Maggard_Front_1024.png"
+    },
+    "sides": {
+      "sha256": "4a7bb1f07755a047f2ce430deb6d01e935db0b771b71d9a9fa1bb61a336337d5",
+      "filename": "Nash_Maggard_Side_v2_HoodUp_1024_sRGB.png"
+    },
+    "back": {
+      "sha256": "9f348f34ac86dd79f33cd9c59342b04c6d2267a99d908c8eea528b11c99f95d1",
+      "filename": "Nash_Maggard_Back_v1_1024_sRGB.png"
+    }
+  },
+  "outputs": {
+    "Nash_Maggard_E000_Sheet_01_Turnaround_1024_sRGB.png": {
+      "sha256": "3e7c0383d5222d54327927bcac967a9d9d54d6582003354d4312e33de325209b",
+      "bytes": 814363,
+      "pixels": [
+        1024,
+        1024
+      ],
+      "icc_bytes": 588
+    },
+    "Nash_Maggard_E000_Sheet_02_Face_1024_sRGB.png": {
+      "sha256": "93e82eff061afd08611d0e6cf4fe8dfd11058ed94985c8c10a9d42140947cb71",
+      "bytes": 1866988,
+      "pixels": [
+        1024,
+        1024
+      ],
+      "icc_bytes": 588
+    }
+  },
+  "notes": [
+    "No additional details invented: unchanged source figure design.",
+    "Preview and final sheet approval are distinct from owner approval of component anchors.",
+    "Bandage, hood, satchel and staff carried forward as shown in original references; the nail is not re-illustrated."
+  ]
+}

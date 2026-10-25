@@ -90,10 +90,13 @@ reference or complete subject-appearance audit is implied.
   **owner-accepted**, and the normalized [back image](../illustrations/references/Nash_Maggard_Back_v1_1024_sRGB.png)
   was subsequently verified in the repository by exact SHA-256 and
   embedded-sRGB/dimension checks: **BACK_APPROVED**. All four approved
-  character anchors are registered. **Next: compose and review the final
-  text-free sheet** from the existing face/front/side/back assets, verify
-  each final page and request explicit owner approval. No complete sheet
-  has yet been approved.
+  character anchors are registered. **Two text-free 1024-square sRGB
+  candidate pages have been assembled** from the accepted artwork
+  ([assembly report](../reports/ILLUSTRATION_NASH_E000_SHEET_ASSEMBLY_2026-10-25.md)):
+  front/back/two profiles on page 1, unchanged approved face art on page 2.
+  **Next:** obtain explicit owner review of the combined layout, then
+  place the exact PNGs in `illustrations/references/` and verify file hashes
+  before final model-sheet publication. No complete sheet has yet been approved.
 
 ## Documentation consolidation — Arcs One–Two (2026-10-21)
 
