@@ -1,11 +1,12 @@
 # Delvers — places
 
-**Spoilers through S3E05 — after S2E12's ruined Ball, a new Silver City dungeon economy extends below Atomer; Delvers visit Deep Winds Spa and clear its immediate black-sand filter threat, but no completed Guild overnight camp or confirmed broader ungrounding is observed.** Evidence: ASR-provisional; names awaiting listening are explicitly provisional.
+**Spoilers through S3E06:** The Delvers sleep at flumph-operated Deep Winds Spa (paid hospitality offered), discover triangle-gate catacombs and battle old elf mummies, but acquire no key. S3E05's earlier cutoff involved cleansing spa filters after the Silver City programme transformed Atomer's underground economy. **No built Guild base or lifting of grounding**. Evidence: ASR-provisional; names awaiting listening are explicitly provisional.
 
 | Place | Scope and reference |
 | --- | --- |
 | City `Atamer / Atmer / a Tom or` | Opening city and guild location, ~00:02:50, 01:02:20; spelling unresolved. See [guild](places/delvers-guild.md) |
-| [Deep Winds Spa](places/deep-winds-spa.md) | Flumph bathhouse reached near dungeon level E; neutral guests include beholder and other monsters. **S3E05 mission clears filter threat** but **overnight Guild base not yet contracted/built**; private mind-reader's lore claims remain unverified |
+| [Deep Winds Spa](places/deep-winds-spa.md) | Flumph bathhouse reached near dungeon level E; neutral guests include beholder and other monsters. **S3E05 mission clears filter threat; S3E06 party ACTUALLY lodges overnight and Madame Poo offers paid adventurer visits**, but permanent built Guild base not contracted; GM now explicitly identifies S3E05 mind-reader as **aboleth**, whose grand claims remain unverified |
+| [Triangle-gate catacombs](places/triangle-gate-catacombs.md) | S3E06 hidden staircase near level-E-to-D return route: dead Silver team, hundreds of rune-disc tombs, surgically hollowed elf mummies, **black-sand altar and sealed triangle metal gate with three unidentified slots**; party retreats and reports to Carrie, **zero keys found** |
 | [Governor's hall / Bronze Ball](places/governors-hall.md) | **Actual S2E12 fundraiser/dancing at wood-floored mayoral complex**, galleries of fallen, auction room, smoking lounge, garden; **ballroom floor erupts with active Drone + roper pit**, heroes table-block entry, no device shutdown, SECOND ARC cliffhanger |
 | Delvers Dungeon Guild | Job board, tavern, supply desk, trophy case and offered upstairs rooms. [Profile](places/delvers-guild.md) |
 | [Dungeon Guild Academy](places/dungeon-guild-academy.md) | Central campus and **Radiant Lance Theatre**, where ruling board **denies Cassius gold-rank funding** and orders Selenar inspection; **S2E00 interlude story-time before S1E12** |
