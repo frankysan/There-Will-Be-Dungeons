@@ -1,6 +1,6 @@
 # Delvers — characters
 
-**Spoilers through S1E05. Evidence:** ASR-provisional. Working player-character spellings use the [written-source register](../../reports/DISCORD_SPELLING_2026-10-21.md); voice, exact utterances and historical sheet state remain unchecked. No later nicknames or surnames are backdated.
+**Spoilers through S1E06. Evidence:** ASR-provisional. Working player-character spellings use the [written-source register](../../reports/DISCORD_SPELLING_2026-10-21.md); voice, exact utterances and historical sheet state remain unchecked. No later nicknames or surnames are backdated.
 
 | Character | Performer / introduction | Reference |
 | --- | --- | --- |
@@ -38,6 +38,8 @@ These short entries derive from [S1E01](../episodes/S1E01.md); NPC spellings rem
 | Brother Maynard | Strict elder of Pelor's temple who supervises Krandal's healing and disapproves of his conduct |
 | Buck Broscale | **Living** silver-badged red dragonborn whose fiend poison is cured by Krandal; not automatically the dead badge 542 owner |
 | Lady Vestal | Instructor at Evelyn's secret finishing school, distrustful of her absence |
+| [Enzo Vanderbuck Withers](characters/enzo-vanderbuck-withers.md) | Mirror-bound ancestor/necromancer at Skull Keep; claims a failed immortality rite divided him from the flameskull. His **Dawnless Dunes** prophecy is attributed testimony; reflected head dims after skull banishment |
+| [Alexandre Vanderbuck Withers](characters/alexandre-vanderbuck-withers.md) | Wealthy claimant/client seeking to reclaim family's keep, offers a preservation bonus and warns of mirrors. Precise genealogy and prior knowledge uncertain |
 | Willamet / Wilibet Molly | Silver-rank adventurer who kills the market hag while the party evacuates the crowd; spelling unresolved |
 
 [World portal](README.md) · [Open identity checks](CONSISTENCY_LEDGER.md)

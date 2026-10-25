@@ -28,14 +28,23 @@ With the initial bronze promotion request rejected, the guild turns the three ad
 
 Cassius eventually announces that Selenar Everbloom has approved the move to **bronze rank**, to be formalized by new badges and orientation the next morning. The three choose a first bronze posting at **Skull Keep**, an old property called Witherskeep said to be haunted by a flameskull. As they prepare, Koh receives the inspected [Soul Knife](../items/runic-sword-hilt.md) from the acquisitions staff and the party visits the city's merchants. They also claim a new identity: **the Darkest Delvers**.[^promotion]
 
+## The first bronze assignment
+
+The guild's next ceremony is modest but memorable. Cassius summons the three friends, presents an adventuring guide with the words of Impossible Diamonds and entrusts them with a key to the guild's library. Later the numbered wooden badges that identified them as apprentices are surrendered. In their place they receive unnumbered bronze shields bearing the guild chimera: lion, goat and serpent-headed dragon. The little celebration has only a few witnesses, but the new rank marks an important threshold.[^bronze]
+
+Cassius sends them north with Aegis and a client from the old Withers family. The keep they visit has been haunted by a flameskull and its animated servants. The Darkest Delvers return after sundown with the skull destroyed, news of an earlier party's fate and a new account of an old darkness beneath the lake. They receive payment for their work, reduced somewhat by the damage done to the furnishings their client wished to preserve.[^report]
+
 ## Current status
 
-The group has **bronze promotion approved, not yet ceremonially awarded**. Its **Skull Keep** assignment is selected but the adventurers have not departed, and some purchased enchanted equipment remains at the shops awaiting collection. The guild no longer holds the Soul Knife. Its earlier conditional claim to the grick dungeon has been affected by **silver-rank investigators sent there**, but no final exclusive ownership ruling is established.[^promotion]
+**Koh, Evelyn and Krandal now hold bronze guild badges**, and Koh retains the shared **brass guild-library key**. The Darkest Delvers have **completed Skull Keep**, their first mission in that rank, and reported their findings to Cassius. Their client Alexandre Vanderbuck Withers promises a post-inspection preservation bonus; the precise individual accounting remains unsettled. The guild no longer holds Koh's Soul Knife, and the earlier grick-dungeon claim still has no demonstrated exclusive ownership resolution.[^report]
+
+[^bronze]: [S1E06](../../episodes/S1E06.md), ~00:02–00:10 and ~00:20–00:25. Library key physically taken by Koh; bronze badges exchanged now, unlike S1E05's approval. Adventuring-guide original handout/PDF not independently read.
+[^report]: [S1E06](../../episodes/S1E06.md), ~00:25–00:33 and ~02:59–03:03. Flameskull finally destroyed with holy water, servants inert, Cassius told of Enzo's claims. Base 350 and bonus about 400 quoted, per-member final sum needs verification.
 
 [^service]: [Delvers S1E05 dossier](../../episodes/S1E05.md), ~00:46–01:29. Selenar's denial reflects later guild reports that dungeon traps had weakened gricks, not a retraction of their actual deaths. Most small missions are compressed in an explicit montage.
 [^promotion]: [S1E05](../../episodes/S1E05.md), ~01:36–01:46 and ~02:20–02:33. Bronze badges promised **tomorrow**; Skull Keep selected, no first bronze deployment; Soul Knife returned and company name chosen. Guild supplies are distinct from player purchases.
 
-[^introduction]: [S1E01 dossier](../../episodes/S1E01.md), ~00:13–00:15 and 00:27–00:38. City rendered `Atamer/Atmer`, spelling open; Clearstone's given name varies. Guild hierarchy is introduced by Kyle. Researched through Delvers S1E05; not audio-verified. [Consistency ledger](../CONSISTENCY_LEDGER.md) · [Review queue](../../REVIEW_QUEUE.md).
+[^introduction]: [S1E01 dossier](../../episodes/S1E01.md), ~00:13–00:15 and 00:27–00:38. City rendered `Atamer/Atmer`, spelling open; Clearstone's given name varies. Guild hierarchy is introduced by Kyle. Researched through Delvers S1E06; not audio-verified. [Consistency ledger](../CONSISTENCY_LEDGER.md) · [Review queue](../../REVIEW_QUEUE.md).
 
 [^badges]: [S1E01](../../episodes/S1E01.md), ~00:31–00:34: 404 Krandal, 325 Evelyn, 180 Koh. These identify members, not ranks or levels.
 

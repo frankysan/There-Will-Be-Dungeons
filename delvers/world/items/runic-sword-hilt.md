@@ -16,9 +16,15 @@ The hilt passed through the guild's examinations and into the hands of an excita
 
 When Koh took the hilt, a long cyan-blue blade appeared at his thought, bright and nearly solid-looking as crystalline light. He could dismiss it and summon it again with little effort. Tested discreetly, it passed through a wooden table without marking it, yet a gentle touch against Koh's finger caused real pain without a cut. The force struck his mind rather than his flesh. A white-robed masked adventurer recognized Koh as a scion and warned him that other wielders sought relics capable of strengthening their gifts, leaving Koh with questions he could not yet answer.[^scion]
 
+## Victory at the keep
+
+The blade proves itself not merely a curiosity when Koh faces the flameskull above Enzo Keep. Arrows glance against the flying bone, but the psychic edge pierces without leaving ordinary cuts. Koh strikes through the skull's defenses, destroying it with the last blow. The strange weapon does not leave the head marked as a steel blade would; after the creature loses its force, Evelyn's holy water reduces it to ash. Koh keeps both the weapon and the two fiery-colored garnets recovered from the remains.[^tower]
+
 ## Current status
 
-The **Soul Knife is now in Koh Spiros's custody**, returned after guild inspection. It has been activated and can inflict psychic harm without a physical wound; other abilities remain unknown. It is **not a Sun Blade** merely because the party once speculated about that name. The Masked Mage's statements about scions are **his claims**, not a demonstrated account of the artifact's full origin.[^status]
+The **Soul Knife belongs to Koh**, and its psychic damage has now been used to **kill the Skull Keep flameskull**. The blade still seems nonsentient and does not make ordinary physical marks in its target, but its full abilities and origin are unknown. Koh also carries the recovered garnets. The Masked Mage's statements about scions remain attributed claims, not settled artifact history.[^tower]
+
+[^tower]: [S1E06 dossier](../../episodes/S1E06.md), ~02:48–02:59. Koh's Soul Knife strikes deal psychic damage despite flameskull's physical resistance; killing blow and two-garnet pickup are played. Dousing uses Evelyn's holy water; do not claim a generic immunity bypass beyond this scene.
 
 [^awakened]: [Delvers S1E05 dossier](../../episodes/S1E05.md), ~00:22–00:27: Carrie Underworld identifies old Elvish hilt as Soul Knife, offers alternative names, reports nonsentience and inability to work alloy. All ASR-provisional.
 [^scion]: [S1E05](../../episodes/S1E05.md), ~00:27–00:34: cyan manifestation, one psychic damage to Koh's finger with no mark, masked mage's scion designation and warning. Neither masked mage's identity nor artifact's entire mechanism established.

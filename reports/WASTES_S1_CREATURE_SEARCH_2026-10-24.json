@@ -10,7 +10,7 @@
     "full_srt_review": false,
     "audio_review": false,
     "not_exhaustive": true,
-    "new_canonical_entries_published": 13,
+    "new_canonical_entries_published": 15,
     "selected_srt_followup": true
   },
   "search_patterns": [
@@ -18,9 +18,9 @@
     "\\b(?:devour\\w*|grubs?|aboleths?|otyughs?|chokers?|gazers?|specters?|spectres?|wraiths?|wights?|ghouls?|ghasts?|mephits?|bulettes?|carrion|darkmantles?|gricks?|gorgons?|salamanders?|cockatrices?|ankhegs?|stirges?|umber hulks?|maggots?|parasites?|slaads?|stalkers?|grells?|piercers?|tadpoles?)\\b"
   ],
   "counts": {
-    "published": 13,
+    "published": 15,
     "draft-next": 0,
-    "focused-review": 17,
+    "focused-review": 15,
     "separate-oneoff": 2
   },
   "inventory": [
@@ -1180,31 +1180,59 @@
     },
     {
       "id": "WSC-013",
-      "status": "focused-review",
+      "status": "published",
       "name": "Green-case mimic",
       "evidence": [
         {
           "episode": "E008",
           "dossier": "episodes/E008.md",
-          "approximate_recording_window": "02:00–02:41"
+          "approximate_recording_window": "selected windows between 01:59:20 and 02:57:30"
         }
       ],
-      "observed_lead": "A sealed green case becomes a tongue-bearing attacker in Leopold's facility.",
-      "boundary_or_next_check": "Recheck its defeat and anatomy in targeted SRT windows before drafting; the accompanying doglike threat is a separate creature."
-    },
-    {
-      "id": "WSC-014",
-      "status": "focused-review",
-      "name": "Doglike facility predator",
-      "evidence": [
+      "observed_lead": "Green military-case form with teeth and a grappling tongue; Stanley breaks the remaining hinge and kills it. The severed tongue is fed to the separate doglike animal.",
+      "boundary_or_next_check": "Death and anatomy are supported by selected dual-export passages. No complete stat block, acid power or universal internal-storage ability inferred.",
+      "discovery_evidence": [
         {
           "episode": "E008",
           "dossier": "episodes/E008.md",
           "approximate_recording_window": "02:00–02:41"
         }
       ],
-      "observed_lead": "Animal-like creature menaces the party during the mimic encounter and may teleport.",
-      "boundary_or_next_check": "Do not name it a blink dog or phase creature on the current dossier alone, or import the unrelated E043 blink dog."
+      "discovery_observed_lead": "A sealed green case becomes a tongue-bearing attacker in Leopold's facility.",
+      "discovery_boundary_or_next_check": "Recheck its defeat and anatomy in targeted SRT windows before drafting; the accompanying doglike threat is a separate creature.",
+      "article": "world/creatures/green-case-mimic.md",
+      "article_title": "Green-case mimic",
+      "publication_date": "2026-10-25",
+      "publication_basis": "Selected E008 Parakeet windows with Qwen cross-reading of core findings, plus existing E009 dossier context; no full-episode or audio review",
+      "source_review": "reports/FACILITY_CREATURE_SOURCE_REVIEW_2026-10-25.md"
+    },
+    {
+      "id": "WSC-014",
+      "status": "published",
+      "name": "Doglike facility predator",
+      "evidence": [
+        {
+          "episode": "E008",
+          "dossier": "episodes/E008.md",
+          "approximate_recording_window": "selected windows between 01:59:20 and 02:57:30"
+        }
+      ],
+      "observed_lead": "Large doglike animal with eight legs; directly vanishes at the doorway and reappears on a table. It later eats the mimic tongue and remains alive in the lab.",
+      "boundary_or_next_check": "Teleportation is narrated, but species, origin and movement limits remain unknown. Feeding is not permanent taming; collapse does not establish death or escape.",
+      "discovery_evidence": [
+        {
+          "episode": "E008",
+          "dossier": "episodes/E008.md",
+          "approximate_recording_window": "02:00–02:41"
+        }
+      ],
+      "discovery_observed_lead": "Animal-like creature menaces the party during the mimic encounter and may teleport.",
+      "discovery_boundary_or_next_check": "Do not name it a blink dog or phase creature on the current dossier alone, or import the unrelated E043 blink dog.",
+      "article": "world/creatures/eight-legged-facility-predator.md",
+      "article_title": "Eight-legged facility predator",
+      "publication_date": "2026-10-25",
+      "publication_basis": "Selected E008 Parakeet windows with Qwen cross-reading of core findings, plus existing E009 dossier context; no full-episode or audio review",
+      "source_review": "reports/FACILITY_CREATURE_SOURCE_REVIEW_2026-10-25.md"
     },
     {
       "id": "WSC-015",
@@ -1593,6 +1621,17 @@
       "source_review": "reports/SAND_SQUID_SOURCE_REVIEW_2026-10-24.md",
       "source_inventory": "reports/SAND_SQUID_SOURCE_REVIEW_2026-10-24.json",
       "reason": "Owner identified recurring food/ingredient significance; original low-information ranking corrected."
+    },
+    {
+      "subject": "E008 facility creatures",
+      "candidate_ids": [
+        "WSC-013",
+        "WSC-014"
+      ],
+      "date": "2026-10-25",
+      "source_review": "reports/FACILITY_CREATURE_SOURCE_REVIEW_2026-10-25.md",
+      "source_inventory": "reports/FACILITY_CREATURE_SOURCE_REVIEW_2026-10-25.json",
+      "reason": "Resolve mimic defeat, separate animal anatomy/teleportation and last known condition before publication."
     }
   ],
   "publication_batches": [
@@ -1691,15 +1730,35 @@
         "WSC-013",
         "WSC-014"
       ]
+    },
+    {
+      "date": "2026-10-25",
+      "kind": "focused-source-review",
+      "candidate_ids": [
+        "WSC-013",
+        "WSC-014"
+      ],
+      "articles": [
+        "world/creatures/green-case-mimic.md",
+        "world/creatures/eight-legged-facility-predator.md"
+      ],
+      "source_review": "reports/FACILITY_CREATURE_SOURCE_REVIEW_2026-10-25.md",
+      "basis": "Selected E008 Parakeet/Qwen windows; E009 dossier for later collapse. No full-episode or audio review.",
+      "next_candidate_ids": [],
+      "next_review_candidate_ids": [
+        "WSC-015",
+        "WSC-016"
+      ]
     }
   ],
   "last_updated": "2026-10-25",
   "next_work": {
     "type": "focused-source-review",
     "candidate_ids": [
-      "WSC-013",
-      "WSC-014"
+      "WSC-015",
+      "WSC-016"
     ],
-    "purpose": "Resolve the green-case mimic and separate doglike facility predator before further publication."
-  }
+    "purpose": "Resolve the gibbering mouther and concealing mushroom-pit spider before further publication."
+  },
+  "inventory_snapshot_description": "Dossier fingerprints preserve the initial 2026-10-24 discovery scan; later targeted dossier amendments are recorded in follow-up reports."
 }

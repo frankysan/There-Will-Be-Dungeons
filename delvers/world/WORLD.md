@@ -30,14 +30,23 @@ The guild's demand for visible public service takes the Delvers into inns, alley
 
 The recovered rune-marked hilt becomes known as a **Soul Knife** when the guild's artificer examines it. Koh's ability to manifest its blue psychic blade attracts the notice of a mysterious high-ranking adventurer who calls him a scion. That stranger's account of awakened powers and hunted relics remains incomplete. Meanwhile, the guild's first refusal to promote the party gives way to approval after weeks of diligent service.[^revelation]
 
+## A shadow beneath the lake
+
+The northward mountain country shelters a keep whose inhabitants have worked long past their deaths. Its estate is sustained by ancient magic, while in an upper chamber a mirror speaks with the face of a lord whose skull circles the battlements in a shroud of green flame. The creature's defeat leaves the servants still and the reflection dimmed, as though the failure of his search for immortality might at last give way to rest.[^keep]
+
+The old lord called himself Enzo Vanderbuck Withers. He remembered signs of people who escaped the darkness of the world below, and named a far deeper abyss the **Dawnless Dunes**. In his account, something at its heart was awakening and forcing underground predators into lands nearer the light. These words echo the Delvers' earlier encounters with gricks and strange carvings, but remain the testimony of a solitary necromancer, not an observed account of what now lies in the depths.[^dunes]
+
 ## Current status
 
-The farm passage remains sealed and Kord's sanctuary runs clean; the forest ruins remain only partly understood. The three adventurers have spent weeks serving the city and now call themselves **the Darkest Delvers**. They have **earned approval for bronze rank** but await badges and orientation in the morning. Their next undertaking is **Skull Keep**, an old castle at Witherskeep thought to shelter a flameskull; they have not yet set out. The wider Underdark and the purpose of its inscriptions remain unresolved.[^revelation]
+The farm passage remains sealed and Kord's sanctuary runs clean; the forest ruins remain only partly understood. The Darkest Delvers have **received bronze rank** and completed the first bronze assignment at [Skull Keep](places/skull-keep.md), banishing its flameskull and ending the servants' animation. Koh has returned with two garnets and new leads to an older hidden history. **The Dawnless Dunes, the truth of the awakening heart and the condition of Enzo's remaining reflection are unresolved**, as are the ancient inscriptions' full origins.[^dunes]
+
+[^keep]: [S1E06](../episodes/S1E06.md), ~00:25–00:50, 02:14–02:23 and 02:55–03:03. Necromantic ritual described by Enzo; collapse of animated workers independently played.
+[^dunes]: [S1E06](../episodes/S1E06.md), ~02:26–02:35 and ~02:55–03:03. “Sky people,” “Dawnless Dunes” and future awakening are **Enzo's testimony/interpretation**; do not assert completed prophecy.
 
 [^service]: [S1E05 dossier](../episodes/S1E05.md), ~00:46–01:29. The assignments span several weeks in an **explicit montage**, with battles compressed. Hag is slain by a silver-rank guild member, not the party.
 [^revelation]: [S1E05](../episodes/S1E05.md), ~00:22–00:34 and ~01:36–02:34. Soul Knife's identity from Carrie; Masked Mage's scion claims attributed. Selenar's first refusal is superseded by approval, but badges are not yet received. Skull Keep contract accepted, no fight played.
 
-[^society]: [S1E01 dossier](../episodes/S1E01.md), opening setting exposition, ~00:27–00:34 and ~00:56. Researched through Delvers S1E05; ASR-provisional, not audio-verified. Delvers has independent continuity: these gods and institutions establish no connection to Wastes or Inverse. [Consistency ledger](CONSISTENCY_LEDGER.md).
+[^society]: [S1E01 dossier](../episodes/S1E01.md), opening setting exposition, ~00:27–00:34 and ~00:56. Researched through Delvers S1E06; ASR-provisional, not audio-verified. Delvers has independent continuity: these gods and institutions establish no connection to Wastes or Inverse. [Consistency ledger](CONSISTENCY_LEDGER.md).
 
 [^work]: [S1E01](../episodes/S1E01.md), orientation and ~02:22–02:28; [S1E02](../episodes/S1E02.md), opening assignment. Krandal's deity is rendered `Palor/Paylor`, spelling unresolved. The [guild-guide register](../../reports/DISCORD_SPELLING_2026-10-21.md) supports **Thun’Darious Storm**, whose attributed foreword is read; other handout heroes, departments and dates are not performed appearances or established scene dates. Trophy labels likewise do not prove party visits.
 

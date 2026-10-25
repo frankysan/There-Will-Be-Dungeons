@@ -1,0 +1,172 @@
+{
+  "date": "2026-10-25",
+  "campaign": "The Wastes",
+  "season": 1,
+  "episode": "E008",
+  "type": "Targeted creature source review, not full episode reanalysis",
+  "candidate_ids": [
+    "WSC-013",
+    "WSC-014"
+  ],
+  "audio_review": false,
+  "full_export_interpretive_review": false,
+  "full_export_asr_disagreement_computed": false,
+  "inventory": [
+    {
+      "path": "sources/The Wastes S1E008. Stupid Gnomes!.parakeet.processed.srt",
+      "sha256": "5fe30a230d81d38b56a032ef518f95b60fa0f207b04c0afa6ac11e68fa25e1bf",
+      "cue_count": 4815,
+      "last_end_ms": 10943590,
+      "model_label": "Parakeet"
+    },
+    {
+      "path": "sources/The Wastes S1E008. Stupid Gnomes!.qwen-q8.canary-ctc.nemotron.srt",
+      "sha256": "f226bd00c5b008d2662c1e07c3587574be6054d7464f131f5eeceb546c2764c4",
+      "cue_count": 5743,
+      "last_end_ms": 10943460,
+      "model_label": "Qwen"
+    }
+  ],
+  "reviewed_windows": [
+    {
+      "source": "sources/The Wastes S1E008. Stupid Gnomes!.parakeet.processed.srt",
+      "model_label": "Parakeet",
+      "start": "01:59:20",
+      "end": "02:03:20",
+      "first_cue": 3133,
+      "last_cue": 3226
+    },
+    {
+      "source": "sources/The Wastes S1E008. Stupid Gnomes!.parakeet.processed.srt",
+      "model_label": "Parakeet",
+      "start": "02:15:45",
+      "end": "02:16:50",
+      "first_cue": 3570,
+      "last_cue": 3595
+    },
+    {
+      "source": "sources/The Wastes S1E008. Stupid Gnomes!.parakeet.processed.srt",
+      "model_label": "Parakeet",
+      "start": "02:20:55",
+      "end": "02:22:40",
+      "first_cue": 3693,
+      "last_cue": 3740
+    },
+    {
+      "source": "sources/The Wastes S1E008. Stupid Gnomes!.parakeet.processed.srt",
+      "model_label": "Parakeet",
+      "start": "02:49:00",
+      "end": "02:50:40",
+      "first_cue": 4463,
+      "last_cue": 4501
+    },
+    {
+      "source": "sources/The Wastes S1E008. Stupid Gnomes!.parakeet.processed.srt",
+      "model_label": "Parakeet",
+      "start": "02:27:10",
+      "end": "02:31:15",
+      "first_cue": 3865,
+      "last_cue": 3970
+    },
+    {
+      "source": "sources/The Wastes S1E008. Stupid Gnomes!.parakeet.processed.srt",
+      "model_label": "Parakeet",
+      "start": "02:32:00",
+      "end": "02:35:10",
+      "first_cue": 3990,
+      "last_cue": 4085
+    },
+    {
+      "source": "sources/The Wastes S1E008. Stupid Gnomes!.parakeet.processed.srt",
+      "model_label": "Parakeet",
+      "start": "02:40:50",
+      "end": "02:49:15",
+      "first_cue": 4236,
+      "last_cue": 4465
+    },
+    {
+      "source": "sources/The Wastes S1E008. Stupid Gnomes!.parakeet.processed.srt",
+      "model_label": "Parakeet",
+      "start": "02:51:00",
+      "end": "02:53:00",
+      "first_cue": 4512,
+      "last_cue": 4566
+    },
+    {
+      "source": "sources/The Wastes S1E008. Stupid Gnomes!.parakeet.processed.srt",
+      "model_label": "Parakeet",
+      "start": "02:52:45",
+      "end": "02:57:30",
+      "first_cue": 4561,
+      "last_cue": 4677
+    },
+    {
+      "source": "sources/The Wastes S1E008. Stupid Gnomes!.qwen-q8.canary-ctc.nemotron.srt",
+      "model_label": "Qwen",
+      "start": "02:00:55",
+      "end": "02:02:30",
+      "first_cue": 3768,
+      "last_cue": 3818
+    },
+    {
+      "source": "sources/The Wastes S1E008. Stupid Gnomes!.qwen-q8.canary-ctc.nemotron.srt",
+      "model_label": "Qwen",
+      "start": "02:15:55",
+      "end": "02:16:50",
+      "first_cue": 4275,
+      "last_cue": 4304
+    },
+    {
+      "source": "sources/The Wastes S1E008. Stupid Gnomes!.qwen-q8.canary-ctc.nemotron.srt",
+      "model_label": "Qwen",
+      "start": "02:21:20",
+      "end": "02:22:20",
+      "first_cue": 4449,
+      "last_cue": 4486
+    },
+    {
+      "source": "sources/The Wastes S1E008. Stupid Gnomes!.qwen-q8.canary-ctc.nemotron.srt",
+      "model_label": "Qwen",
+      "start": "02:41:20",
+      "end": "02:42:40",
+      "first_cue": 5113,
+      "last_cue": 5152
+    },
+    {
+      "source": "sources/The Wastes S1E008. Stupid Gnomes!.qwen-q8.canary-ctc.nemotron.srt",
+      "model_label": "Qwen",
+      "start": "02:43:25",
+      "end": "02:44:30",
+      "first_cue": 5175,
+      "last_cue": 5207
+    },
+    {
+      "source": "sources/The Wastes S1E008. Stupid Gnomes!.qwen-q8.canary-ctc.nemotron.srt",
+      "model_label": "Qwen",
+      "start": "02:47:10",
+      "end": "02:49:15",
+      "first_cue": 5290,
+      "last_cue": 5340
+    }
+  ],
+  "local_cue_cache": "local/creature-search/facility-e008-2026-10-25/sources.json",
+  "findings": [
+    {
+      "candidate_id": "WSC-013",
+      "article": "world/creatures/green-case-mimic.md",
+      "outcome": "Stanley breaks the remaining hinge; case halves and tongue separate and stop moving. Corpse explicitly identified afterward.",
+      "limits": "No official stat block, acid power or species-wide storage ability inferred."
+    },
+    {
+      "candidate_id": "WSC-014",
+      "article": "world/creatures/eight-legged-facility-predator.md",
+      "outcome": "Eight legs and repeated disappearance/reappearance are narrated. Sleeps briefly, awakens, then eats the severed mimic tongue; remains alive in lab.",
+      "limits": "Species and origin unknown; no permanent taming, death, escape or identification with E043 blink dog established."
+    }
+  ],
+  "dossier_context": [
+    "episodes/E008.md",
+    "episodes/E009.md"
+  ],
+  "edited_dossier": "episodes/E008.md"
+}

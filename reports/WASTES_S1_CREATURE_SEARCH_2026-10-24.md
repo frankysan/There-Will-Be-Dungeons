@@ -6,7 +6,7 @@
 
 The keyword scan read all **130 available E-numbered dossiers**: E000–E128 plus E013.5. Broad creature, animal, anatomy, transformation and monster-name terms were followed by a supplemental name/parasite search. The companion JSON preserves exact patterns, per-file SHA-256 fingerprints, hit counts, continuity classifications and the curated candidates. Complete raw hit text is retained locally at `local/creature-search/wastes-s1-2026-10-24/dossier-keyword-hits.json`; it is a routing aid, not a canonical source.
 
-This is **not** a claim to have manually interpreted every dossier or researched every original recording again. Targeted dossier passages were read to triage the leads below. No SRT export was reviewed in the **initial dossier pass**, no new ASR measurement was computed, and no audio was heard. The later sand-squid follow-up is separately documented below. The original shortlist's clocks are inherited approximate recording windows from the existing dossiers, not newly verified word timings. Keyword misses, compressed dossier descriptions and unresolved identities limit completeness. The scan uses corrected archive IDs, not publisher numbering.
+This is **not** a claim to have manually interpreted every dossier or researched every original recording again. Targeted dossier passages were read to triage the leads below. No SRT export was reviewed in the **initial dossier pass**, no new ASR measurement was computed, and no audio was heard. The later sand-squid and E008 facility-creature follow-ups are separately documented below; initial dossier hashes preserve the discovery snapshot, including E008 before its targeted amendment. The original shortlist's clocks are inherited approximate recording windows from the existing dossiers, not newly verified word timings. Keyword misses, compressed dossier descriptions and unresolved identities limit completeness. The scan uses corrected archive IDs, not publisher numbering.
 
 ### Continuity boundaries
 
@@ -20,9 +20,9 @@ This is **not** a claim to have manually interpreted every dossier or researched
 
 **31 additional candidate subjects or research clusters:** **12 suitable for bounded drafting from existing dossiers**, **17 requiring focused identity, behavior or continuity review**, and **2 separate Wastes-setting one-off leads**. These are editorial triage judgments, not verified species counts or intelligence classifications. Chicken Lords and Pixie Hulks already have pages and are not counted again.
 
-All twelve initially draftable subjects and owner-added sand squid are now published. Next is focused source review of the **green-case mimic** and the separate **doglike facility predator**, before deciding what further entries their evidence supports. Some subjects warrant only short articles; do not pad an entry to match a major creature's history.
+All twelve initially draftable subjects, owner-added sand squid and the first two source-reviewed leads are now published. Next is focused source review of the **gibbering mouther** and **concealing mushroom-pit spider**, before deciding what further entries their evidence supports. Some subjects warrant only short articles; do not pad an entry to match a major creature's history.
 
-No canonical creature entry was added during the initial dossier search. After the sand-squid follow-up and six ranked publication batches, the cumulative list is **32 subjects/clusters: thirteen published, none awaiting initial drafting, 17 requiring focused review and two separately placed one-off leads**. Candidate IDs WSC-001–WSC-031 remain stable.
+No canonical creature entry was added during the initial dossier search. After the sand-squid follow-up, six ranked publication batches and the first focused-review publication batch, the cumulative list is **32 subjects/clusters: fifteen published, none awaiting initial drafting, 15 requiring focused review and two separately placed one-off leads**. Candidate IDs WSC-001–WSC-031 remain stable.
 
 ## Owner-supplied follow-up — sand squid
 
@@ -84,6 +84,15 @@ The follow-up scanned 279 available Season One subtitle exports for squid-relate
 | --- | --- | --- | --- |
 | **WSC-012 — [Riding raptors](../world/creatures/riding-raptors.md)** | [E027](../episodes/E027.md) 02:40–02:50<br>[E028](../episodes/E028.md) 00:07–01:42<br>[E064](../episodes/E064.md) 01:23–02:40 | Raptor-like animals serve hunters and carry the party during the escape from Razak Val; their hides are also used for repairs. | Separate wild behavior, mounts, individual deaths and the raptor named Mawstorm from Vorel's similarly named sword. Exact species remains descriptive. |
 
+## First focused-review publication batch
+
+**2026-10-25:** Targeted E008 transcript review resolves WSC-013's defeat and WSC-014's eight legs, directly narrated teleportation and survival. Published [Green-case mimic](../world/creatures/green-case-mimic.md) and [Eight-legged facility predator](../world/creatures/eight-legged-facility-predator.md), and narrowly amended the E008 dossier's scene summary. [The source report](FACILITY_CREATURE_SOURCE_REVIEW_2026-10-25.md) and [JSON inventory](FACILITY_CREATURE_SOURCE_REVIEW_2026-10-25.json) record nine selected primary windows, six selected Qwen windows and source fingerprints. Neither complete episode interpretation nor audio review is claimed. The original discovery wording is retained in the shortlist JSON alongside the revised findings.
+
+| ID / published article | Dossier and approximate window | Supported lead | Boundary retained |
+| --- | --- | --- | --- |
+| **WSC-013 — [Green-case mimic](../world/creatures/green-case-mimic.md)** | [E008](../episodes/E008.md), selected windows ~01:59–02:57; [source review](FACILITY_CREATURE_SOURCE_REVIEW_2026-10-25.md) | Green military-case form with teeth and a grappling tongue; Stanley breaks the remaining hinge and kills it. The severed tongue is fed to the separate doglike animal. | Death and anatomy are supported by selected dual-export passages. No complete stat block, acid power or universal internal-storage ability inferred. |
+| **WSC-014 — [Eight-legged facility predator](../world/creatures/eight-legged-facility-predator.md)** | [E008](../episodes/E008.md), selected windows ~01:59–02:57; [source review](FACILITY_CREATURE_SOURCE_REVIEW_2026-10-25.md) | Large doglike animal with eight legs; directly vanishes at the doorway and reappears on a table. It later eats the mimic tongue and remains alive in the lab. | Teleportation is narrated, but species, origin and movement limits remain unknown. Feeding is not permanent taming; collapse does not establish death or escape. |
+
 ## Suitable for bounded drafting
 
 **None remain in the initial draftable set.** The twelve original entries and owner-added sand squid are published with source limitations retained. The remaining leads require the focused checks below; publication has not established campaign originality, intelligence scores or audio verification.
@@ -94,8 +103,6 @@ Resolve these particular questions rather than promoting a vague encounter label
 
 | ID / candidate | Dossier and approximate window | Supported lead | Boundary / next check |
 | --- | --- | --- | --- |
-| **WSC-013 — Green-case mimic** | [E008](../episodes/E008.md) 02:00–02:41 | A sealed green case becomes a tongue-bearing attacker in Leopold's facility. | Recheck its defeat and anatomy in targeted SRT windows before drafting; the accompanying doglike threat is a separate creature. |
-| **WSC-014 — Doglike facility predator** | [E008](../episodes/E008.md) 02:00–02:41 | Animal-like creature menaces the party during the mimic encounter and may teleport. | Do not name it a blink dog or phase creature on the current dossier alone, or import the unrelated E043 blink dog. |
 | **WSC-015 — Gibbering mouther** | [E009](../episodes/E009.md) 02:15–03:00 | Named attacker during the attempted escape from Leopold's collapsing facility. | The dossier offers limited anatomy and final-fate detail. Keep separate from the E020 displacer beast; check targeted transcript passages. |
 | **WSC-016 — Concealing mushroom-pit spider** | [E044](../episodes/E044.md) 01:42–02:09 | Large partly hidden or invisible spider attacks amid luminous mushrooms; legs are harvested after its defeat. | Do not silently call it a phase spider, merge it with CHIDS brain-spiders or attribute the mushroom spores to the spider itself. |
 | **WSC-017 — Pale tentacled cavern organism** | [E042](../episodes/E042.md) 00:53–01:08<br>[E045](../episodes/E045.md) 02:02–02:12 | Long worm-like creature blends with pale wall strands; a later body of the apparent same kind is petrified. | A warning sound and retreat are observed, not a kill. Name, ecology and exact relation between the two specimens remain unknown. |
@@ -134,7 +141,7 @@ Resolve these particular questions rather than promoting a vague encounter label
 
 ## Next bounded work and publication checks
 
-1. Begin focused source review of WSC-013 green-case mimic and WSC-014 doglike facility predator. The initial twelve-subject draftable set is complete; resolve the stated anatomy, identity and defeat questions before promoting further candidates. Use targeted source windows only where a material claim remains unresolved; do not mark a complete episode reanalysis from excerpts.
+1. Continue focused source review with WSC-015 gibbering mouther and WSC-016 concealing mushroom-pit spider. WSC-013/WSC-014 and the initial twelve-subject draftable set are complete; resolve the remaining leads' specific identity and outcome questions before promoting them. Use targeted source windows only where a material claim remains unresolved; do not mark a complete episode reanalysis from excerpts.
 2. For each subject, check first appearance, distinguishing traits and last known state across the cited dossiers. Preserve testimonial origins, alternative spellings and uncertain individual outcomes in notes.
 3. Publish subject-focused in-universe prose under `world/creatures/`, with source/ASR details in footnotes and **Current status** last. Add only brief descriptions to the category index. Keep people and transformed forms distinct.
 4. Resolve the froghemoth's bargaining mind, red-organism agency, worm-type relationships and E127's separate chronology before expanding those clusters. Do not convert source uncertainty into a fictional universal rule.
