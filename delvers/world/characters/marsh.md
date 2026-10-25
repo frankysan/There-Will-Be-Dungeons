@@ -14,7 +14,11 @@ Aegis supplies Marsh **guild fire-resistant studded leather** as a replacement f
 
 He speaks **Draconic** and interprets for the kobold shaman **Skoogie**, who claims worshippers deserted him for the dragon. The shaman hands Marsh an **Arrow of Dragon Slaying**, removed from his feathered headdress, in return for help defeating the dragon. Marsh has **NOT fired the arrow** through the episode cutoff; no unconditional future foot-massage obligation established by party jokes. Marsh casts **Jump** to cross mountain lava, scouts the dragon eating the kobold sacrifice, notices a claw-scratched entrance, and helps uncover the chamber signed by old dragon slayer **Radiant Lance**. He **does not put a valuable item into the forge** or receive Evelyn's sword.[^mountain]
 
-## Current status (S2E08 cutoff)
+## Later resolution established by S2E09 GM recap
+
+**The red dragon's later death is established only in S2E09's opening GM retrospective**, following this page's S2E08 active-combat cutoff. Dragon named **Fredoroth** (ASR-provisional) is forced to land by Evelyn and cornered with **Sealed Gate**, which **Marsh subsequently actually activates according to retrospective**. **Marsh shoots Skoogie's Arrow of Dragon Slaying into dragon's neck and is credited with killing blow**; its S2E08 unused status is historically correct **at that earlier episode cutoff**. **Marsh leaves Dragon Mountain with a large treasure cart apparently loaded with much of the discovered magic equipment**, though he agrees to an even nominal split after Krandal/Koh persuasion and each receives 3,000 gp from hoard. **No itemized magical-item allotment or clear accounting performed**. Marsh's further story not played during S2E09. [S2E09](../../episodes/S2E09.md), ~00:00–00:10.
+
+## Prior status (S2E08 cutoff)
 
 Marsh fights in the **Chath Peak dragon lair**, wearing loaned **fire-resistant studded leather**, **Potion of Fire Resistance actually consumed**, and carrying the **unused Arrow of Dragon Slaying**, bone bow and Wheatley. He takes **a dragon bite (~17)**, hits with dragon-tooth dagger opportunity attack, and **casts Pass Without Trace in the steam** while moving toward the **Sealed Gate** button. **The gate has not been pressed**, the dragon remains alive and airborne, and the fight ends **mid-battle** for guest scheduling; host says Garrett will return next episode, an **out-of-game intention, not a completed return**. His full eventual fate is outside this page's spoiler horizon. [Source clock and uncertainty register](../../episodes/S2E08.md).
 

@@ -14,7 +14,11 @@ He discovers something else in Koh: a mind capable of working with relics that w
 
 Wildfire offers to instruct Koh, at first demanding that he return on a Monday at noon. Over the ensuing days their lessons proceed almost entirely through silent communication. His manner remains demanding, but he gradually shows satisfaction with Koh's progress. The pupil develops new forms of psychic expression, including an immense mental strike that he has not yet attempted in combat. Wildfire's interest begins as a favor to Carrie Underworld, but his discipline suggests he recognizes something of himself in another newly awakened warrior.[^training]
 
-## Current status
+## Current status through S2E09
+
+**Wildfire (Buck) Broscale remains a living silver-rank red dragonborn and Koh's former psionic instructor**, but now acts as final **promotion assessor** for the Darkest Delvers. The GM **actually plays an evening dinner in his black-stone [Broscale Manor](../places/broscale-manor.md)**, with wife **Valentine**, children **Climber, Basher, Dreamer, Wall Nibbler**, servant/chef **Godwin Milner** and red pet drake **Bella**. Wildfire thanks Koh for recovering **dead brother Bram/Brom's badge**, reviews mission grades (Crypt of Cord **S**, all-bronze city episode **C**) and presents moral hypotheticals; he **actually grants recommendation for silver promotion**, **no badge issued or formal promotion completed**. Mentions future silver access to guild report files and **Oracle Room**, not yet unlocked. **Privately stops Evelyn** and reveals **he knows she entered Withers's basement**, and defends financier's patronage/that upcoming Bronze Ball celebrates Withers; **does not confront whole party or arrest her on-screen**, nor prove he was the axe-bearing red dragonborn seen in dorm earlier. His axe **remains with him but cloth-wrapped** in manor, not transferred. [S2E09](../../episodes/S2E09.md), ~02:12–03:04.
+
+## Earlier status (S1E07 cutoff)
 
 Wildfire remains a **living silver-ranked dragonborn** and Koh's **psionic instructor**. He has not surrendered his own stone circlet or taken Koh's globe. His warning about psionic hunters is a credible lead from a fellow practitioner, **not confirmation that an identified hunter is pursuing Koh**. Brom is described as his **deceased brother**, not an alternate identity of Wildfire.[^training]
 

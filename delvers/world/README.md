@@ -1,10 +1,12 @@
 # Delvers — world reference
 
-**Spoilers through Delvers S2E08 — guest dragon slayer Marsh, Chath Peak, Skoogie's arrow and the unfinished mountaintop battle, after first arc ending S1E12; S2E00 is earlier in-story narrated fiction despite archive label.** Evidence: full dual-ASR text research, not audio-verified. This reference describes Delvers's separate reality. Handout statements and NPC claims retain their attribution.
+**Spoilers through Delvers S2E09 — Fredoroth killed in retrospective, Khalazar mental wedding and Broscale Manor silver recommendation, after first arc ending S1E12; S2E00 is earlier in-story narrated fiction despite archive label.** Evidence: full dual-ASR text research, not audio-verified. This reference describes Delvers's separate reality. Handout statements and NPC claims retain their attribution.
 
 | Read about | Reference |
 | --- | --- |
 | The guest wood-elf burglar and demolitionist | [Shrugs Manaspoon](characters/shrugs-manaspoon.md) |
+| Koh's unconscious wife and Khalazar wedding | [Anthela Spiros](characters/anthela-spiros.md) |
+| Wildfire's family manor and promotion dinner | [Broscale Manor](places/broscale-manor.md) |
 | Guest wood-elf silver-ranked dragon hunter | [Marsh](characters/marsh.md) |
 | Kobold shaman seeking restored authority | [Skoogie](characters/skoogie.md) |
 | Ancient volcanic dragon lair and machinery | [Chath Peak](places/chath-peak.md) |
@@ -50,7 +52,7 @@
 | Played order and actual cutoff | [Chronology](CHRONOLOGY.md) |
 | Uncertain names, knowledge and custody | [Consistency ledger](CONSISTENCY_LEDGER.md) |
 
-[S1E01 dossier](../episodes/S1E01.md) through [S1E12 finale dossier](../episodes/S1E12.md) own first-arc timestamped investigations; [S2E01 premiere](../episodes/S2E01.md) and [S2E02 wedding dossier](../episodes/S2E02.md) and [S2E03 Withers dossier](../episodes/S2E03.md) and [S2E04 completed heist](../episodes/S2E04.md), [S2E05 Brotherhood settlement](../episodes/S2E05.md) and [S2E06 Gemholm investigation](../episodes/S2E06.md) and [S2E07 laboratory and capture](../episodes/S2E07.md) and [S2E08 Chath Peak dragon encounter](../episodes/S2E08.md) continue the separately documented [Season Two chronicle](../narrative/SEASON_TWO.md). [The Darkest Delvers — The First Arc](../narrative/SEASON_ONE_ARC.md) offers a complete eight-chapter in-universe synthesis while the earlier detailed narratives remain preserved. [First jobs](../narrative/FIRST_JOBS.md) and [The Rise to Bronze](../narrative/THE_RISE_TO_BRONZE.md), and [Skull Keep and the Dawnless Dunes](../narrative/SKULL_KEEP.md), and [The Wells of Atomer](../narrative/THE_WELLS_OF_ATOMER.md) offer connected narrative; the [review queue](../REVIEW_QUEUE.md) owns listening tasks.
+[S1E01 dossier](../episodes/S1E01.md) through [S1E12 finale dossier](../episodes/S1E12.md) own first-arc timestamped investigations; [S2E01 premiere](../episodes/S2E01.md) and [S2E02 wedding dossier](../episodes/S2E02.md) and [S2E03 Withers dossier](../episodes/S2E03.md) and [S2E04 completed heist](../episodes/S2E04.md), [S2E05 Brotherhood settlement](../episodes/S2E05.md) and [S2E06 Gemholm investigation](../episodes/S2E06.md) and [S2E07 laboratory and capture](../episodes/S2E07.md) and [S2E08 Chath Peak dragon encounter](../episodes/S2E08.md) and [S2E09 Potatopia / Broscale silver assessment](../episodes/S2E09.md) continue the separately documented [Season Two chronicle](../narrative/SEASON_TWO.md). [The Darkest Delvers — The First Arc](../narrative/SEASON_ONE_ARC.md) offers a complete eight-chapter in-universe synthesis while the earlier detailed narratives remain preserved. [First jobs](../narrative/FIRST_JOBS.md) and [The Rise to Bronze](../narrative/THE_RISE_TO_BRONZE.md), and [Skull Keep and the Dawnless Dunes](../narrative/SKULL_KEEP.md), and [The Wells of Atomer](../narrative/THE_WELLS_OF_ATOMER.md) offer connected narrative; the [review queue](../REVIEW_QUEUE.md) owns listening tasks.
 
 [Delvers campaign index](../README.md)
 

@@ -20,6 +20,7 @@ without copying Nash's anatomy, disfigurement or personal palette.
 
 [Subject template](ILLUSTRATION_SUBJECT_TEMPLATE.md) ·
 [Recurring-character design sheets](ILLUSTRATION_CHARACTER_DESIGN_SHEETS.md) ·
+[Canonical phased design-sheet workflow](../.agents/skills/twbd-illustration-generate/CHARACTER_SHEET.md) ·
 [Appearance references](ILLUSTRATION_REFERENCES.md) ·
 [Illustration research queue](ILLUSTRATION_RESEARCH_QUEUE.md) ·
 [Illustration revision queue](ILLUSTRATION_REVISION_QUEUE.md) ·
@@ -315,16 +316,21 @@ When a character later becomes recurring, halt *future* scene illustrations
 until the sheet exists; do not retroactively invalidate older selected art.
 
 Follow the [design-sheet specification and approval ledger](ILLUSTRATION_CHARACTER_DESIGN_SHEETS.md).
-The [progressive character-sheet plan](ILLUSTRATION_PROGRESSIVE_CHARACTER_SHEET_PLAN.md)
-documents the planned face → front → side → back → final-sheet anchor workflow;
-it is not yet an installed skill or permission to bypass existing gates.
-Research creates the integrated, introduction-era written design brief;
-the image-generation skill then produces a neutral **1024 × 1024 sRGB PNG**
-model sheet with consistent front/profile/back full-body views, face/expression
-and equipment details, and a palette as space permits. Use multiple separate
-square pages when necessary, retaining text labels, provenance, palette notes
-and uncertain choices in the **written companion**, not incidental lettering
-on the image. A trial drawing, player artwork, a selected scene illustration,
+The **active operational workflow** is [the progressive character-sheet
+procedure](../.agents/skills/twbd-illustration-generate/CHARACTER_SHEET.md),
+installed as a companion inside `twbd-illustration-generate`. The [original
+pilot plan](ILLUSTRATION_PROGRESSIVE_CHARACTER_SHEET_PLAN.md) is historical
+rationale and detailed Nash test data, **not competing live instructions**.
+Research creates the source-integrated, story-era written brief. Then,
+subject to distinct owner and technical approval gates, generation proceeds
+**one anchor at a time**: face close-up → front full figure → side/profile →
+back full figure. Finally **assemble** approved *actual image pixels* into
+one or two readable text-free **1024 × 1024 sRGB PNG** pages; do not make a
+single new generation call to redraw all views. Retain text labels,
+provenance, palette notes and uncertain choices in the **written companion**,
+not on the image. Final sheet approval **must be separate** from each
+individual anchor approval, and the exact PNGs must be hash-verified in the
+project repository. A trial drawing, player artwork, a selected scene illustration,
 or a generated unreviewed sheet is **not** an approved character model sheet.
 
 An approved baseline records long-lived identity traits, not an immutable

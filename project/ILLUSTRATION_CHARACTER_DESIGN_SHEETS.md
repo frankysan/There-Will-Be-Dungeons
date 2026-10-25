@@ -4,7 +4,8 @@
 appear in multiple project illustrations, across The Wastes, Inverse and Delvers.
 This is a visual-production protocol, **not** a new source of story canon.
 Follow the [style and continuity guide](ILLUSTRATION_GUIDE.md), the
-[progressive-anchor character-sheet implementation plan](ILLUSTRATION_PROGRESSIVE_CHARACTER_SHEET_PLAN.md),
+[active canonical character-sheet workflow](../.agents/skills/twbd-illustration-generate/CHARACTER_SHEET.md),
+[historical progressive pilot plan](ILLUSTRATION_PROGRESSIVE_CHARACTER_SHEET_PLAN.md),
 [appearance register](ILLUSTRATION_REFERENCES.md), the
 [subject template](ILLUSTRATION_SUBJECT_TEMPLATE.md), and
 [image rights policy](IMAGE_ASSETS.md). Keep the campaigns separate.
@@ -64,7 +65,7 @@ Every sheet has **two linked artifacts**:
    permits, an enlarged three-quarter face, expression details, key equipment
    close-up and compact color swatches. Use consistent facial anatomy and
    clothing details from view to view; do not mirror asymmetric features.
-   The full sheet must be one **1024 × 1024, sRGB PNG** using the project-wide
+   Each completed page must be **1024 × 1024, sRGB PNG** following the project-wide
    immutable graphic-novel style prompt. Keep labels, citations and annotations
    in the **companion written specification**, not on the image; the
    no-incidental-text/no-decorative-frames style rule remains in force.
@@ -115,7 +116,7 @@ is **not** an assertion that the asset exists. A sheet entry records:
 | Research inputs | Evidence IDs, transcript and image sources, exact guide/reference versions, known conflicts |
 | Design and continuity | Source-mandated traits vs artistic choices, viewpoint/asymmetry, known state changes, excluded late traits |
 | Generation provenance | Exact prompt, reference images actually inspected vs supplied to renderer, output identity, inspection results |
-| Decision | `sheet-needed`, `research-blocked`, `drafting`, `awaiting-owner-review`, `owner-approved`, `revision-needed`, or `superseded` |
+| Decision | **Per-anchor:** `*_DRAFTING`, `*_VISUAL_ACCEPTED`, `*_REGISTRATION_PENDING`, `*_APPROVED`; **combined sheet:** `sheet-needed`, `research-blocked`, `drafting`, `AWAITING_OWNER_REVIEW`, `OWNER_APPROVED`, `REVISION_NEEDED`, or `SUPERSEDED` — see [canonical workflow](../.agents/skills/twbd-illustration-generate/CHARACTER_SHEET.md) |
 | Approval | **Explicit owner approval**, date, sheet version/file ID(s), accepted state scope and conditions; never infer approval from generation, a world-page image selection or a player's drawing |
 | Impacts | Affected previously created illustrations and `IRV-####` issue links as necessary; preserve old art and prior sheet versions |
 
@@ -143,10 +144,14 @@ documents the initial state, identifies outstanding unknowns and prepares a
 existing illustrations for conflicts and records `IRV-` findings, but
 **does not generate or approve** any sheet.
 
-`$twbd-illustration-generate` first distinguishes **design sheet** from
-**scene illustration**. For an eligible sheet request it uses the integrated
-research, creates and validates a multi-view sheet, records a draft and obtains
-**explicit owner review** before changing status to `owner-approved`.
+`$twbd-illustration-generate` distinguishes **design sheet** from **scene**.
+For a design-sheet request it follows the [canonical phased workflow](../.agents/skills/twbd-illustration-generate/CHARACTER_SHEET.md): research brief →
+face → front → side → back → **deterministic assembled sheet**. Each image
+gets separate owner visual acceptance, technical export and repository
+readback/hash checks before stage approval. An accepted source portrait,
+full-body figure, or assembled layout **does not automatically approve the
+entire multi-view sheet**; the actual final page(s) need separate explicit
+owner approval and verified repository registration.
 For a scene request, it requires the applicable approved sheet(s), checks
 versions and states, uses their **actual pixels as visual inputs when possible**,
 and compares the output to the written references and existing art. If a

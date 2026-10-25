@@ -18,7 +18,11 @@ The disturbance does not end with the hall of penance. Carrie joins Evelyn and h
 
 The temple's trouble becomes personal when Brother Maynard reveals that two elves cannot be awakened. One had been meant to officiate the wedding Krandal performed in his stead; the other fell ill in the sanctuary. Neither yields to the ordinary restorative aid tried by the priests. Krandal notices a recurring finger-tap in the first man's still hand and copies it down without discovering its meaning. The next morning he searches Elven military and lantern codes in the guild's library, bringing a possible old word back to Evelyn, who recognizes a **funeral dirge**; the sleepers' intended warning or request nevertheless remains unknown. Maynard, softened by the cleric's concern, gives him an old amulet of devotion said to have come from the temple's ancient founder. Krandal accepts it and puts it on.[^brothers]
 
-## Current status
+## Current status through S2E09
+
+**A ward now holds five unconscious elves (including Rianu Keeves), with capacity for roughly fourteen patients**, and clerics rotate/tend them while each holds Pelor symbol. Koh **actually establishes Psychic Whispers link among himself, Krandal and Keeves**. In Keeves's **mental projection** he trains as a royal guard for Khalazar's wedding. Krandal **casts Command and then Lesser Restoration WITHIN projection**, briefly clears guard hallucinations and restores Keeves's real-world memory, **but his physical body remains comatose** and false training resumes after relief. **No lasting cure, temple-wide recovery or original altar answer established**; Carrie subsequently **suggests Remove Curse**, which has **not been cast**. [S2E09](../../episodes/S2E09.md), ~01:42–02:08.
+
+## Earlier state (S2E01 cutoff)
 
 The **Hall of Penance dungeon entrance is now actually boarded and protected by guild guards** following two weeks of work; clergy have departed in fear and **Brother Maynard urgently needs curse breakers**. The **distinct main-altar droning shaft** remains shut, its cause unknown. **Rianu Keeves remains breathing but unresponsive**, his earlier tapping now stopped. Krandal **Cure Wounds restores six HP/bedsores**; an experimental **Revivify cast upon still-living sleeper** produces the faint word **“Kalizar/Calazar”** but **does not wake or revive him**. Krandal **withholds the word** from Maynard. The other elf is not shown awake or cured. Krandal has retained the Proudface/Devout amulet; no true removal of the affliction occurs.[^s2e01]
 

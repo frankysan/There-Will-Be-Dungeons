@@ -1,8 +1,14 @@
 # Progressive character-design-sheet workflow — implementation plan
 
-**Date:** 2026-10-25. **Status:** Recorded workflow proposal, **not yet an implemented skill or a successful illustration**. **First pilot:** Nash Maggard (`WASTES-NASH-MAGGARD-DS-001`, E000/`WASTES-NASH-MAGGARD-A01`). **Purpose:** Establish a reproducible, source-faithful character appearance through small, reviewable visual anchors rather than asking an image model to invent an entire populated design sheet in one request.
+**Date:** 2026-10-25. **Status:** Historical planning and Nash pilot record.
+**Current active implementation:** [canonical recurring-character sheet
+workflow](../.agents/skills/twbd-illustration-generate/CHARACTER_SHEET.md)
+inside the `twbd-illustration-generate` skill (not a separate installed
+`twbd-character-sheet` directory, which the current workspace MCP cannot
+create). Historical stage and source findings below remain useful, but the
+active workflow and ledger supersede its old `not yet implemented` wording. **First pilot:** Nash Maggard (`WASTES-NASH-MAGGARD-DS-001`, E000/`WASTES-NASH-MAGGARD-A01`). **Purpose:** Establish a reproducible, source-faithful character appearance through small, reviewable visual anchors rather than asking an image model to invent an entire populated design sheet in one request.
 
-This is a planned **reusable character-sheet skill** which will complement, not replace, the existing [subject research skill](../.agents/skills/twbd-illustration-research/SKILL.md), [illustration generation skill](../.agents/skills/twbd-illustration-generate/SKILL.md), [style guide v0.6 / style lock v2](ILLUSTRATION_GUIDE.md), [sheet-first approval policy and ledger](ILLUSTRATION_CHARACTER_DESIGN_SHEETS.md), [written subject template](ILLUSTRATION_SUBJECT_TEMPLATE.md), [appearance register](ILLUSTRATION_REFERENCES.md) and [existing-art revision queue](ILLUSTRATION_REVISION_QUEUE.md). Those established source, chronology, rights, style and **1024 × 1024 PNG/sRGB** gates remain authoritative. This plan proposes finer-grained steps and additional records; **do not treat it as an authorization to render without passing existing gates**.
+This was the original plan for a **reusable character-sheet workflow**; the active procedure is now the companion `CHARACTER_SHEET.md` inside the installed generation skill. It complements, rather than replaces, the existing [subject research skill](../.agents/skills/twbd-illustration-research/SKILL.md), [illustration generation skill](../.agents/skills/twbd-illustration-generate/SKILL.md), [style guide v0.6 / style lock v2](ILLUSTRATION_GUIDE.md), [sheet-first approval policy and ledger](ILLUSTRATION_CHARACTER_DESIGN_SHEETS.md), [written subject template](ILLUSTRATION_SUBJECT_TEMPLATE.md), [appearance register](ILLUSTRATION_REFERENCES.md) and [existing-art revision queue](ILLUSTRATION_REVISION_QUEUE.md). Those established source, chronology, rights, style and **1024 × 1024 PNG/sRGB** gates remain authoritative. This plan proposes finer-grained steps and additional records; **do not treat it as an authorization to render without passing existing gates**.
 
 ## Rationale and decision
 
@@ -84,7 +90,7 @@ A single page may be used if all views remain readable. Use approved **actual an
 
 ## Record schema and suggested skill interface
 
-**Proposed skill name, not installed yet:** `twbd-character-sheet` (e.g. `$twbd-character-sheet Wastes "Nash Maggard" E000`). Subcommands/variants may include `plan`, `face`, `front`, `side`, `back`, `finalize`, `status` or `continue <sheet-id>`; names are provisional until implementation. **Resume from persisted state rather than redoing approved work.**
+**Active stage selectors (via installed `twbd-illustration-generate`):** `design-sheet plan`, `face`, `front`, `side`, `back`, `assemble`, `review`, `status`, `continue`. The old proposed `$twbd-character-sheet` standalone invocation is **not installed**; see [operational workflow](../.agents/skills/twbd-illustration-generate/CHARACTER_SHEET.md). **Resume persisted state instead of redoing approved work.**
 
 Suggested record fields:
 

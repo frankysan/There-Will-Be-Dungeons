@@ -11,7 +11,7 @@ Given **one named entity**, determine its campaign and identity, locate visual e
 
 Examples: `$twbd-illustration-research Wastes "Fate 4"`; `$twbd-illustration-research Delvers "Koh Spiros" through S1E10`; `$twbd-illustration-research Wastes Tietkalla at first appearance`.
 
-Consult [illustration guide](../../../project/ILLUSTRATION_GUIDE.md), [recurring-character design-sheet specification](../../../project/ILLUSTRATION_CHARACTER_DESIGN_SHEETS.md), [subject-reference template](../../../project/ILLUSTRATION_SUBJECT_TEMPLATE.md), [appearance register](../../../project/ILLUSTRATION_REFERENCES.md), [illustration revision queue](../../../project/ILLUSTRATION_REVISION_QUEUE.md), [editorial guide](../../../project/EDITORIAL_GUIDE.md), [image provenance](../../../project/IMAGE_ASSETS.md), [external references](../../../project/EXTERNAL_REFERENCES.md), and campaign-specific indexes, chronology, world pages, source inventories and review queues as applicable.
+Consult [illustration guide](../../../project/ILLUSTRATION_GUIDE.md), [recurring-character design-sheet specification](../../../project/ILLUSTRATION_CHARACTER_DESIGN_SHEETS.md), [canonical stage workflow for generation](../twbd-illustration-generate/CHARACTER_SHEET.md), [subject-reference template](../../../project/ILLUSTRATION_SUBJECT_TEMPLATE.md), [appearance register](../../../project/ILLUSTRATION_REFERENCES.md), [illustration revision queue](../../../project/ILLUSTRATION_REVISION_QUEUE.md), [editorial guide](../../../project/EDITORIAL_GUIDE.md), [image provenance](../../../project/IMAGE_ASSETS.md), [external references](../../../project/EXTERNAL_REFERENCES.md), and campaign-specific indexes, chronology, world pages, source inventories and review queues as applicable.
 
 **Worked example:** [Fate 4 transcript audit](../../../reports/FATE_4_TRANSCRIPT_AUDIT_2026-10-25.md) and [search manifest](../../../reports/FATE_4_TRANSCRIPT_AUDIT_2026-10-25.json). This is an exemplar of research method, not a universal feature list. Its saved findings awaited appearance-register integration at the time of the audit.
 
@@ -166,7 +166,10 @@ not an illustrated design sheet. Consult and update the subject's entry in
 baseline sheet. Link any pre-existing sheet candidate and state IDs; do not
 claim it is owner-approved merely because it exists or a player drew it.
 Research clearance permits a **design-sheet draft** under the generation
-skill, not a scene illustration of a recurring character. Scene work must
+skill; the next production action must be the research-brief/face stage in
+[its canonical phase-by-phase procedure](../twbd-illustration-generate/CHARACTER_SHEET.md),
+not an automatic full-sheet render or scene illustration of a recurring
+character. Scene work must
 await explicit sheet approval, with separate state-variant coverage.
 
 When new material contradicts a sheet or existing scene, add the actual

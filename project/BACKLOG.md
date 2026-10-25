@@ -70,10 +70,16 @@ reference or complete subject-appearance audit is implied.
   time-accurate roof patch. Obtain explicit selection feedback.
 - [ ] Apply the same entity-first method to a recurring character, with
   provenance, time-specific features and anatomy/expression style tests.
-- [ ] Implement the [progressive recurring-character sheet skill plan](ILLUSTRATION_PROGRESSIVE_CHARACTER_SHEET_PLAN.md):
-  source brief → face → front → side → back → final layout, with per-anchor
-  acceptance, saved prompts/reference images, 1024-square sRGB PNG checks,
-  and explicit owner approval before reusing a complete model sheet. Pilot
+- [x] **Canonicalize the progressive recurring-character design-sheet workflow** as an
+  [operational companion to the installed illustration-generation skill](../.agents/skills/twbd-illustration-generate/CHARACTER_SHEET.md):
+  source brief → face → front → side → back → deterministic final layout,
+  with staged owner decisions, style-v2 prompt lock, exact reference reuse,
+  SHA-256 and sRGB/1024 checks, non-destructive repository registration,
+  revision dependency handling and separate final-sheet owner approval.
+  The existing MCP cannot create a **new** skill directory, so this is an
+  active companion workflow rather than a standalone `$twbd-character-sheet`
+  plugin. [Nash's original progressive pilot plan](ILLUSTRATION_PROGRESSIVE_CHARACTER_SHEET_PLAN.md)
+  is retained as dated learning/provenance. Pilot
   on Nash E000; two earlier full-sheet render attempts were rejected.
   Four subsequent [Nash face studies](../reports/ILLUSTRATION_NASH_FACE_DIRECTION_2026-10-25.md)
   yielded an owner-preferred style. **Assets now present:**
@@ -97,6 +103,12 @@ reference or complete subject-appearance audit is implied.
   **Next:** obtain explicit owner review of the combined layout, then
   place the exact PNGs in `illustrations/references/` and verify file hashes
   before final model-sheet publication. No complete sheet has yet been approved.
+- [ ] **Optional skill packaging:** When repository tooling permits new skill
+  directories, expose the [canonical character-sheet procedure](../.agents/skills/twbd-illustration-generate/CHARACTER_SHEET.md)
+  as its own discoverable `.agents/skills/twbd-character-sheet/SKILL.md`.
+  Keep a single authoritative procedure, preserve existing generation-skill
+  dispatch and verify the new skill's discovery before advertising the
+  `$twbd-character-sheet` invocation.
 
 ## Documentation consolidation — Arcs One–Two (2026-10-21)
 

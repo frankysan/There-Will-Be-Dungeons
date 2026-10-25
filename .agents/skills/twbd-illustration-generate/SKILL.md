@@ -1,6 +1,6 @@
 ---
 name: twbd-illustration-generate
-description: Generate researched TWBD character design sheets first and then source-faithful, visually congruent scene illustrations for the applicable story states across separate campaigns. Before drawing, find and inspect existing illustrations of each subject, reuse stable visual identity while applying scene-time/state changes, and maintain the same 1024x1024 graphic-novel style. When a subject or required state is unresearched, do NOT generate—record the missing work in the dedicated illustration research queue and inform the requester.
+description: Generate researched TWBD character design sheets through the canonical progressive face → front → side → back → composed sheet workflow, with separate owner-approval and repository-validation gates, then produce source-faithful, visually congruent scenes for the applicable story states across separate campaigns. Before drawing, find and inspect existing illustrations of each subject, reuse stable visual identity while applying scene-time/state changes, and maintain the same 1024x1024 graphic-novel style. When a subject or required state is unresearched, do NOT generate—record the missing work in the dedicated illustration research queue and inform the requester.
 ---
 
 # TWBD illustration generation — research-gated, style-locked
@@ -9,7 +9,11 @@ description: Generate researched TWBD character design sheets first and then sou
 
 Invoke for requests such as `$twbd-illustration-generate Wastes Fate 4 at E006`,
 `$twbd-illustration-generate Delvers Koh Spiros at S1E10`, or
-`$twbd-illustration-generate Wastes E066 scene: the tyrannosaur crushes Fate 4`.
+`$twbd-illustration-generate Wastes E066 scene: the tyrannosaur crushes Fate 4`,
+or `$twbd-illustration-generate Wastes "Stanley Billings" E001 design-sheet face`.
+For **all** recurring-character `DESIGN_SHEET` requests, first load
+[the canonical progressive sheet procedure](CHARACTER_SHEET.md). It is
+part of this installed skill, not a separate registered executable.
 This skill **produces visual art only for entities whose required appearances
 have already been researched and integrated**. It does not research subjects
 from scratch and must not fabricate their canonical look.
@@ -21,7 +25,7 @@ from scratch and must not fabricate their canonical look.
    revisions, variants, multi-view sheets, location panoramas and proposed
    world-page images, must be directed to the same **1024 × 1024-pixel square
    (1:1), PNG, sRGB** output and must use the **verbatim fixed style block**
-   from section 3B and the [current illustration guide](../../../project/ILLUSTRATION_GUIDE.md#fixed-production-canvas-and-style-lock-v03).
+   from section 3B and the [current illustration guide](../../../project/ILLUSTRATION_GUIDE.md).
    Do not change aspect ratio by subject type, user wording such as 'aerial',
    'wide' or 'panoramic', tool defaults, or an existing image's proportions.
    If a renderer disregards the request, its result is **noncompliant**, not an
@@ -50,7 +54,8 @@ from scratch and must not fabricate their canonical look.
    research, but does not itself constitute approval. An approved baseline
    covers only its stated story interval; significant changed forms must have
    an approved variant or explicit owner-approved written delta. See the
-   [design-sheet ledger](../../../project/ILLUSTRATION_CHARACTER_DESIGN_SHEETS.md).
+   [design-sheet ledger](../../../project/ILLUSTRATION_CHARACTER_DESIGN_SHEETS.md)
+   and follow the [canonical phased production gates](CHARACTER_SHEET.md).
    A selected portrait, player/fan drawing or unreviewed draft is insufficient;
    preserve pre-policy selected scenes rather than retroactively removing them.
 
@@ -68,7 +73,12 @@ preflight. Queue write failures are also hard stops.
    sheet), required visible entities, and any explicit details from the
    request. **Branch into `DESIGN_SHEET`** (initial/updated character model
    sheet) **or `SCENE`** (portrait, group, event, setting and other narrative
-   depictions). A new sheet draft need not have a preexisting approved sheet,
+   depictions). For `DESIGN_SHEET` **dispatch to the named phase**
+   (`plan`, `face`, `front`, `side`, `back`, `assemble`,
+   `review`, `register`, or `continue`) defined in
+   [CHARACTER_SHEET.md](CHARACTER_SHEET.md). Do not interpret a
+   `DESIGN_SHEET` request as one giant multi-view image-generation call.
+   A new sheet draft need not have a preexisting approved sheet,
    but does need integrated source research. If exact season/episode is absent,
    use a supported bounded appearance only where unambiguous; never silently
    choose a later form.
@@ -199,18 +209,22 @@ create example art.
 
 ## 3. READY path — preserve visual lineage, then build the brief
 
-**DESIGN_SHEET:** Generate only a character's researched baseline or
-story-specific appearance variant. Compose neutral, proportion-matched
-front/profile/back full-body views, a large face/expression reference and
-key equipment/palette detail as space allows. Keep each page **1024 × 1024**,
-and if legibility requires multiple pages validate each separately. The
-verbatim no-lettering style block still applies: put annotations, source IDs,
-color labels and swatch explanations in the linked written specification.
-Use show-era evidence, source-art provenance and existing selected images;
-do not substitute the campaign-end JSON appearance for the first state.
-Record artwork as `awaiting-owner-review` (not `owner-approved`) and
-request a specific decision on the exact version and state coverage. A sheet
-with an unresolved material contradiction is not READY for generation.
+**DESIGN_SHEET:** This branch is **governed by the canonical [progressive
+character-sheet procedure](CHARACTER_SHEET.md)**. Use the integrated,
+story-time-correct subject brief; produce **one phase at a time** in this
+order: written brief → single face anchor → full-body front → full-body
+side/profile → full-body back → **deterministically assembled** text-free
+sheet pages. Do **not** generate the whole populated sheet from scratch.
+For each stage, obtain owner visual acceptance, produce/inspect a 1024-square
+sRGB PNG derivative where needed, register the exact asset in the project
+repo, check its SHA-256 and then record that individual `*_APPROVED` status.
+A missing image/upload is **registration pending**, not completed. Final
+assembly uses the actual approved anchor pixels, not a newly invented face
+or outfit; keep panel descriptions, colors, source and rights notes in the
+written companion, never incidental text on the image. Do not backdate
+end-of-campaign JSON or silently resolve material contradictions. **The
+assembled sheet remains `AWAITING_OWNER_REVIEW` until explicit final
+approval of its exact, repository-verified pages and story-time scope.**
 
 **SCENE:** Only enter this path with the requisite approved recurring-character
 sheet(s) and target-state coverage. Use those sheets as the primary
@@ -491,7 +505,7 @@ Do not invoke generation or editing with any of these fields missing.
    inspection, style and lore review outcomes, image IDs and approval
    status, using [the subject template](../../../project/ILLUSTRATION_SUBJECT_TEMPLATE.md).
    No missing-file Markdown embeds, invented metadata, false test passes,
-   or automatic owner approval. A `DESIGN_SHEET` is recorded as
+   or automatic owner approval. A `DESIGN_SHEET` follows the per-anchor states in [CHARACTER_SHEET.md](CHARACTER_SHEET.md); its final composite is recorded as
    `awaiting-owner-review` in the design-sheet ledger and subject record
    until explicit approval of the exact sheet version, page(s) and story-time
    scope. For a `SCENE`, record approved sheet version(s), variant/deltas

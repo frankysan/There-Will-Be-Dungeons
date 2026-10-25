@@ -1,0 +1,28 @@
+# Delvers S2E09 — Potatopia: exact complete-export ASR comparison (2026-10-25)
+
+**Episode:** Played Delvers Season Two Episode Nine. Host verbally says **weekend of June 26, 2021**, not confirmed publisher date. GM opening **retrospectively resolves S2E08's unfinished dragon fight**, then newly played story proceeds through **Broscale Manor silver promotion assessment and private Evelyn/Withers disclosure**. [Dossier](../delvers/episodes/S2E09.md) · [queue](../delvers/REVIEW_QUEUE.md).
+
+**Source provenance:** Local MCP `main` was clean at `bd23743219702ca258bd181a2e1999f4b3c9af48`; GitHub successfully fetched **both exact files at that pinned commit**, not floating HEAD. MCP opening SRT passage matched pinned sources; audio not heard. Unlike S2E08, source commit **was** resolvable.
+
+| Filename-derived label; options unverified | Source | Git blob SHA at pinned commit | Cues | Normalized words | Last end |
+| --- | --- | --- | ---: | ---: | --- |
+| Parakeet processed | [P](../sources/Delvers%20S2E09.%20Potatopia.parakeet.processed.srt) | `cc5ffe74604a724e9553658c1c29b3063391820f` | **2,532** | **23,248** | **03:04:11.150** |
+| Qwen Q8 / Canary CTC / Nemotron-labelled | [Q](../sources/Delvers%20S2E09.%20Potatopia.qwen-q8.canary-ctc.nemotron.srt) | `79c4082052244debf45bac6e7ed27cafdb6afc3a` | **4,144** | **23,256** | **03:04:10.820** |
+
+**Exact unit-cost ordered whole-export word Levenshtein distance: 1,608 / 23,248 = 6.92% textual disagreement.** Q contains **8 more** normalized words, its final cue ends **0.330 seconds earlier**. **This is NOT WER, accuracy, or confirmed omissions/hallucinations.**
+
+**Method:** extract full SRT cue body strings chronologically, discard cue numbers/time stamps and `(speaker N)` labels, lowercase, remove ASCII/curly apostrophes joining contractions, replace other non-Unicode-letter/digit characters with whitespace; tokenize. Two-row rolling dynamic programming with ±**2,200-token diagonal band**, matching common leading **29** and trailing **2** words removed without changing optimum. Final edit cost **1,608 < 2,200**, so any path outside band would be more expensive; global metric exact. Parakeet read in every 10-minute recording-clock window through **03:04:11.150**; Qwen whole export parsed for metric but independent interpretation only selected windows **0–10, 20–27, 30–42, 43–51, 60–69, 75–80, 88–99, 103–119, 119–129, 145–153, 160–168, 171–181**. **Not** a complete Q semantic editorial review. No sound, matching MP3 duration/seek checks, original GM visuals, audio-source identity check, model settings, runtime or hardware verified.
+
+| Source clock | Verification targets and high-risk distinctions |
+| --- | --- |
+| **~00:00–00:10** | **Opening is GM recap / narrated completion**, not continuous played S2E08 battle. **Fredoroth/Fredoroth** name; **Marsh Arrow of Dragon Slaying finishing blow**, **Evelyn's Forced Landing and Marsh's Sealed Gate actually triggered retrospectively**, **Skoogie saved**, chest marked guild funds uncounted. **Koh/Krandal 3k each**, Marsh **takes cart with magic items**, uneven custody; **250 gp per Delver paid separately** at guild, Krandal **64 pocketed**. |
+| **~00:11–00:25** | Skull's accepted **Chad** name, more cash hidden under boulder; reported swamp/fishman still present; school roommate sees **red dragonborn with axe in mirror** (report only), formal Broscale invitation to Evelyn. |
+| **~00:27–00:42** | **Anthela/Anthila Spiros** physically leaks black goo, dresses for forced **Khalazar wedding** in mental landscape. Proposal/marriage ring briefly restores recognition, then memory resets. **`Khalazar, emperor of Lower Kingdoms`** is patient's pressured story, **not confirmed historical/real ruler**. |
+| **~00:42–01:03** | Destitute old man at farm, **sloshing hump, bald crown, ragged beard, dangling tooth**, soup/potatoes, actual **8 gp** vs **2 gp/farm job future promise**, **candle given**, apocalyptic warning is **NPC statement**, not a performed attack. |
+| **~01:05–01:26** | Invitation timing **two nights ahead**, Bronze Ball ~five days at school scene, Penelope **red-dragon tooth + one-scale necklace** actually received, fairy dragons' rhyming compulsion and Krandal damage, Cassius hypothesizes **cult/inside informant** planning at ball. |
+| **~01:32–02:05** | **Five visible unresponsive elves** in Temple of Pelor ward, **Rianu Keeves** in phantom royal-guard training at Khalazar wedding. **Krandal Command + Lesser Restoration performed inside psychic link** and briefly restores Keeves's memory, **body remains comatose**. |
+| **~02:03–02:14** | Tortle **Grapple & Tackle**, **50 gp farming toolkit purchased**, delivery not witnessed. Carrie merely **suggests Remove Curse**, doesn't cast; presentation promised day before ball. |
+| **~02:16–02:46** | Broscale Manor family identity/relative labels, dress and trophy head, **Godwin Milner** chef, **Valentine** wife, **Climber/Basher/Dreamer/Wall Nibbler**, red drake Bella; many names require audio/GM evidence. |
+| **~02:46–03:04** | Wildfire has multiple guild report approvals including **S**, **C** ratings, presents philosophical cases and **signs/recommends silver**; **rank not yet granted**, no badge. **Privately knows Evelyn was in Withers basement**, not publicly disclosed. Bronze Ball next, **no ball yet**. |
+
+**Next step:** review precise spoken names, song titles, family NPC identity, actual dragon killing strike, quantum ring memory scene and silver signatories against matched audio/GM handouts. **Do not rewrite input SRTs** based on ASR consensus. Next Delvers source [S2E10 — Carrie On](../delvers/SOURCE_INVENTORY.md).

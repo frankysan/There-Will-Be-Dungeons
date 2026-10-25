@@ -24,7 +24,11 @@ The skull he buried after the sea hag's defeat calls for help. He digs it out an
 
 In the [May 2021 cast Q&A](../../../episodes/BONUS-2021-05.md), a listener proposes **Splender Farms**, together with **Splender Tots, Fries and Chips**. Scott reacts enthusiastically and says he likes the plural *Splender Farms*. **This conversation takes place out of game**; it is not Krandal registering a farm name, putting products on sale, replacing the **tentative in-game *Spud Buds*** from S2E03 or declaring a harvest.[^may21]
 
-## Current status (through S2E07)
+## Latest status (through S2E09)
+
+**Potatopia is Krandal's hoped-for nickname/retirement plan**, not an incorporated settlement or rebuilt farm. After GM-recapped dragon kill, Krandal returns, **names skull guardian “Chad”** (skull doesn't remember cursed original name), and **actually adds dragon gold to existing boulder concealment** leaving **2,000 gp on his person**. Skull reports **fishman watches/visits potatoes**, identity unknown. A **ragged barefoot old man with fluid-like hump** uproots an immature potato; Krandal gives **prepared potato soup, 8 gp and Pelor candle**, offers **2 gp and employment only on future return ~2–4 months**; man **warns the farm will not withstand coming darkness**, unverified prophecy/threat, **no attack performed**. Krandal **pays 50 gp for tool kit from Grapple & Tackle**, **delivery/farming installation pending**. Roofs and tower **remain ruined, no construction contract paid**. [S2E09](../../episodes/S2E09.md).
+
+## Previous cutoff (through S2E07)
 
 **S2E07 changes the farm's present inhabitants rather than its construction status:** Gil's returning ferry **deposits Koh, Evelyn and Krandal with the bound, living prisoner Ambermoor at the farm**, because Cassius ordered the Delvers to stay out of Atomer temporarily during the Withers theft investigation. **Koh still holds Ambermoor's colored reagent briefcase**; Mack and Church continue by boat to the guild. **No guild handoff, prisoner transport to city, overnight rest, paid renovation, mature potato crop or farm attack is played before this cutoff.** [S2E07](../../episodes/S2E07.md).
 

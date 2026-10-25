@@ -1,6 +1,6 @@
 # Chath Peak — red-dragon mountain
 
-**Working spelling:** **Chath Peak** (also `Chaff Peak` in S2E08 ASR; audio/GM map needed). **Delvers-only volcanic mountain destination**, first directly played in [S2E08 — Golden Potato Sword](../../episodes/S2E08.md). **The dragon is alive and the hunt ongoing at source cutoff.**
+**Working spelling:** **Chath Peak** (also `Chaff Peak` in S2E08 ASR; audio/GM map needed). **Delvers-only volcanic mountain destination**, first directly played in [S2E08 — Golden Potato Sword](../../episodes/S2E08.md). **At S2E08 cutoff dragon is alive and hunt ongoing; S2E09's opening GM retrospective subsequently establishes its defeat.**
 
 ## Approach and first encounter
 
@@ -15,6 +15,10 @@ In a hidden **obsidian chamber** ancient Elvish writing and additional signed ha
 ## Mountaintop lair and S2E08 cutoff
 
 A lift from the workshop raises party and shaman into a cavernous summit lair. **Great lava moat**, bridges, outer ring, ramp at **20 ft** and a **40-ft dragon perch**, precious hoard and **an abandoned wagon with horse skeletons**. Red dragon **actually present and active**; talks and breathes fire, flies as high as ~80 ft within battle. **Koh presses Lava Off**, causing jets of water to cool the molten moat and fill room with **thick, obscuring steam**. **Marsh goes toward Sealed Gate, Evelyn toward Forced Landing, but neither actually activates their mechanism before cutoff**. Krandal dispels a local portion of the steam and takes refuge in treasure wagon without looting. Evelyn **strikes dragon with magical sword in an opportunity attack**; dragon **survives**. Battle is **paused mid-round** for guest scheduling; no kill, hoard division, return journey or settled guild bounty. Source map was **described on air and posted to Discord, but the actual GM image was not inspected**.[^cutoff]
+
+## Later outcome established by S2E09 opening
+
+**S2E09's opening GM RETROSPECTIVE, not played continuous S2E08 combat, establishes that the red dragon is named “Fredoroth” (phonetic) and has been killed.** After Koh's Lava Off, **Marsh presses Sealed Gate and Evelyn presses Forced Landing**, striking the dragon's wings with electrical machinery and making it crash upon Skoogie. **Evelyn heals Skoogie**, who later leaves alive. Koh uses **Cape of the Mountebank** to land on dragon briefly and stab it before falling. The trapped dragon tries to flee via sealed gate and cooled lava passage, fails, and **Marsh's Arrow of Dragon Slaying strikes its neck as the dragon dies**. Party carts treasure down slope; **Koh and Krandal each receive 3,000 gp**, Marsh takes cart **containing magic items**, and three Delvers collect 250-gp guild reward each, with **Krandal pocketing extra 64 gp**. **No reliable complete itemized hoard allocation**. **Earlier heading above correctly describes S2E08's own unfinished cutoff**. [S2E09](../../episodes/S2E09.md), ~00:00–00:11.
 
 [^approach]: [S2E08](../../episodes/S2E08.md), ~00:05–01:09. Clerk's expected age and Marsh's observed estimate distinguished.
 [^village]: [S2E08](../../episodes/S2E08.md), ~01:10–01:56. Kobold sacrifices and Skoogie's claims; waterfall/lava geographic dimensions from narrated GM map.
