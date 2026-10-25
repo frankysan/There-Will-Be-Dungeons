@@ -133,6 +133,10 @@ Owner's previous favorable response approved the artistic *direction*,
 not necessarily this exact normalized file/version as the formal face
 identity anchor. Request explicit acceptance once the copy is accessible.
 
+## Face anchor approved and repository identity checked (2026-10-25)
+
+After the normalization handoff, the user explicitly answered **“Yes, it's approved.”** for the proposed 1024-square E000 face anchor. A subsequent workspace read confirmed `illustrations/references/Nash_Maggard_Face_v1_1024_sRGB.png`, full-file SHA-256 `93e82eff061afd08611d0e6cf4fe8dfd11058ed94985c8c10a9d42140947cb71`, 1024 × 1024 PNG with embedded ICC. The hash matches the originally inspected derivative. **Record `FACE_APPROVED` for this exact E000/A01 reference.** The original untagged 1254-square `Nash_Maggard_Face_v1.png` remains a preserved source study. Neither the face approval nor the separate front approval approves the eventual complete sheet.
+
 **Do not mistake 'good direction' for 'owner-approved model sheet'.**
 Keep `WASTES-NASH-MAGGARD-DS-001` in `drafting` until an actual
 technically conforming anchor and final sheet have separately cleared

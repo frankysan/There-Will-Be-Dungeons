@@ -80,10 +80,13 @@ reference or complete subject-appearance audit is implied.
   [front v1](../illustrations/references/Nash_Maggard_Front_v1.png) is
   **FRONT_APPROVED** for E000/A01 (owner-accepted, 1024-square and sRGB-tagged,
   repository SHA-256 verified); [face study v1](../illustrations/references/Nash_Maggard_Face_v1.png)
-  is **not FACE_APPROVED** (1254-square, untagged). A separate
-  **1024-square sRGB-tagged face export is now prepared and visually checked**
-  ([normalization record](../reports/ILLUSTRATION_NASH_FACE_DIRECTION_2026-10-25.md#normalized-candidate-prepared--2026-10-25)), but must still be
-  added to the repository and explicitly approved before side/back views. No complete model sheet yet.
+  is preserved as an untagged 1254-square original; the [normalized
+  face anchor](../illustrations/references/Nash_Maggard_Face_v1_1024_sRGB.png)
+  has since been uploaded, hash-verified and explicitly **FACE_APPROVED**.
+  The [paired side/profile visual](../reports/ILLUSTRATION_NASH_SIDE_ANCHOR_2026-10-25.md)
+  is **owner-accepted**, with a checked 1024-square sRGB derivative ready,
+  but still needs repository registration/hash confirmation before
+  **SIDE_APPROVED**. Next: register side, then draw/review the rear view. No complete model sheet yet.
 
 ## Documentation consolidation — Arcs One–Two (2026-10-21)
 

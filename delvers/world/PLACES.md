@@ -1,6 +1,6 @@
 # Delvers — places
 
-**Spoilers through S2E04 — completed Withers burglary after first-arc finale S1E12**. Evidence:** ASR-provisional; names awaiting listening are explicitly provisional.
+**Spoilers through S2E06 — completed Withers debrief and first Gemholm encounter after first-arc finale S1E12.** Evidence: ASR-provisional; names awaiting listening are explicitly provisional.
 
 | Place | Scope and reference |
 | --- | --- |
@@ -15,7 +15,8 @@
 | Kord's mountain sanctuary / cryptnasium | Athletic graveyard; fountains cleansed, Studwell defeated and Meatball and Sultan rescued. [S1E02 evidence](../episodes/S1E02.md) |
 | Forest limestone sinkhole and dungeon | Grick-scout site, trapped passages and chest; unexplored deeper structure. [Profile](places/grick-sinkhole.md) |
 | Veggie Sticks's hollow stump | Woodland hermit's home with animated plants, near hippogriff habitat. [Profile](characters/veggie-sticks.md) |
-| [Withers Estate](places/withers-estate.md) | Financial-district limestone mansion; **bulette opens 3-ft entrance to clean, recently used restraint chamber**; **S2E03 Koh inspected locked room; S2E04 Shrugs blows door under Krandal Silence, Delvers explore former prison, elemental-maintenance chambers, Jade museum/vault, **steal treasures and escape in cart**; no proven crime by owner |
+| [Withers Estate](places/withers-estate.md) | Financial-district limestone mansion; **bulette opens 3-ft entrance to clean, recently used restraint chamber**; **S2E03 Koh inspected locked room; S2E04 Shrugs blows door under Krandal Silence, Delvers explore former prison, elemental-maintenance chambers, Jade museum/vault, **steal treasures and escape in cart**; **S2E05–S2E06** fire, settlement and Cassius debrief; no proven crime by owner |
+| [Gemholm](places/gemholm.md) | Lake Absul sandbar gem-dredging settlement. **S2E06 actually reached via Gil/Gilkeel ferry**, burned escape boat/other damage, **Caleb dead, larva killed by Church, Hank Tom-like transformed foe killed by Evelyn**, unknown infection origin, **incoming tide and offshore slaadi unresolved** |
 | [Hooper Estate](places/hooper-estate.md) | Wealthy **halfling mansion** with wedding lawns, small lake, tree line and Hooper family graveyard; **Wight Wedding completed, grandfather's wight defeated/buried**, body kept **Deck of Many Things**; black sludge at tree roots unexplained |
 | [Potato Grove](places/potato-grove.md) | **Krandal receives real deed**, visits weeded fields and ruined watchtower beside Noble Hollow; **sea hag dead, talking minotaur skull unearthed and mounted on scarecrow; Krandal actually plants potatoes/cleans irrigation; “Spud Buds” tentative name**; no complete building or harvest |
 | [Noble Hollow](places/noble-hollow.md) | Petrified tree and collapsed ritual clearing north of city; **Marek's midnight rite interrupted, roper killed, Faelan/Norman rescued alive** |
