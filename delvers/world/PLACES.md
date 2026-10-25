@@ -6,6 +6,7 @@
 | --- | --- |
 | City `Atamer / Atmer / a Tom or` | Opening city and guild location, ~00:02:50, 01:02:20; spelling unresolved. See [guild](places/delvers-guild.md) |
 | Delvers Dungeon Guild | Job board, tavern, supply desk, trophy case and offered upstairs rooms. [Profile](places/delvers-guild.md) |
+| [Dungeon Guild Academy](places/dungeon-guild-academy.md) | Central campus and **Radiant Lance Theatre**, where ruling board **denies Cassius gold-rank funding** and orders Selenar inspection; **S2E00 interlude story-time before S1E12** |
 | Squelcher's Swamp | Passed on the eastward route to the farm, ~01:01:53–01:02:38; not explored |
 | Mickles / Mikkels farm and cave | Sheep field, natural cavern and sealed fissure. [Profile](places/farm-cave.md) |
 | Underdark | Lower passage reached by Koh; broader geography unknown. Cassius reports another delver's different mission here |

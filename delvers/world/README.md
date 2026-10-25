@@ -1,10 +1,12 @@
 # Delvers — world reference
 
-**Spoilers through Delvers S1E12 — the Season One and first-arc finale**. Evidence:** full dual-ASR text research, not audio-verified. This reference describes Delvers's separate reality. Handout statements and NPC claims retain their attribution.
+**Spoilers through Delvers S1E12 — Season One/first-arc finale — plus the separately archived S2E00 interlude, whose story time is earlier**. Evidence:** full dual-ASR text research, not audio-verified. This reference describes Delvers's separate reality. Handout statements and NPC claims retain their attribution.
 
 | Read about | Reference |
 | --- | --- |
 | The first party and named people | [Characters](CHARACTERS.md) |
+| The city's embattled guildmaster | [Cassius](characters/cassius.md) |
+| Central funding hall and Academy board | [Dungeon Guild Academy](places/dungeon-guild-academy.md) |
 | Monsters, including gricks and Skull Keep's flameskull | [Creatures and monsters](CREATURES_AND_MONSTERS.md) |
 | Guild, town and job sites | [Places](PLACES.md) |
 | Adventuring institutions and setting limits | [World](WORLD.md) |

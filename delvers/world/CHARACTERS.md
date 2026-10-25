@@ -14,7 +14,7 @@ These short entries derive from [S1E01](../episodes/S1E01.md); NPC spellings rem
 
 | Name / ASR variants | S1E01 evidence and limits |
 | --- | --- |
-| Cassius | Host, orientation and quest desk; issues badges, receives completion evidence, pays reward and assigns next job, ~00:27–00:34, 02:22–02:28 |
+| [Cassius](characters/cassius.md) | Guildmaster, organizer and advocate for Atomer; **appears before Academy board with Carrie** seeking gold-league aid, **denied**, board orders Selenar inspection; privately criticizes his chosen Delvers while relying on them |
 | Helenar / Eleanor / Helenor Clearstone | Dwarven supplier of concrete and ordinary equipment, ~00:29–00:30, 00:44–00:50 |
 | Joe Groinhammer | Bartender; supplies bread and potatoes; family history comes from Cassius, ~00:30–00:38, 00:56 |
 | Bell Soonish / bellsonish | Lute-carrying patron who reports Edgar's loss, ~00:52–00:54 |
@@ -32,8 +32,8 @@ These short entries derive from [S1E01](../episodes/S1E01.md); NPC spellings rem
 | [Veggie Sticks](characters/veggie-sticks.md) | Reclusive woodland protector of hippogriffs, keeper of animated plants; admits he exaggerated his awareness of the ruins |
 | Brad / Brador | Small animated shrub, carried briefly by Evelyn and returned to Veggie Sticks; name requires listening |
 | Aegis | Centaur driver who retrieves the party at dusk after the grick-scout excursion; no connection to Wastes or Inverse |
-| Selenar / Celenar Everbloom | Senior high-elf guild officer who approves bronze promotion, then **leads final Zone of Truth debrief and clears Darkest Delvers**; title/name orthography audio-unverified |
-| [Carrie Underworld](characters/carrie-underworld.md) | Enthusiastic guild artificer who names/returns Soul Knife to Koh, then receives **Horn of Blasting, hook-horror limb, cube sample and psychic shaft** for examination and investigates temple's droning main-altar shaft |
+| Selenar / Celenar Everbloom | Senior high-elf guild officer who approves bronze promotion, **is assigned by the Academy board to inspect Atomer during the kuo-toa operation** and later **leads the final Zone of Truth debrief clearing the Delvers**; title/name orthography audio-unverified |
+| [Carrie Underworld](characters/carrie-underworld.md) | Guild artificer who identifies Soul Knife; **actually carries Horn of Blasting and ancient psychic shaft(s) to Academy board with Cassius**, where she is dismissed as low-ranked; other specimens remain guild-submitted |
 | [Masked Mage](characters/masked-mage.md) | White-clad Ruby/master-rank observer who calls Koh a scion; motives unknown, **not a confirmed foe** |
 | [Broadside](characters/broadside.md) | Silver-rank fighter briefly influenced during ruins investigation; **helps rescue Faelan/Norman**, guild **clears** him and Solburn in finale |
 | [Marek Gideon](characters/marek-gideon.md) | Guild researcher conducting **interrupted midnight Noble Hollow ritual**, alive; **future academy trial promised**, no verdict yet |
