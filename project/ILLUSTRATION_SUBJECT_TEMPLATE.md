@@ -63,6 +63,9 @@ story time may differ.
 - **Supporting evidence:** <source IDs and role/confidence limitations>.
 - **Selected reference images:** <links/IDs, exact applicable state,
   reference scope, selection status and approval attribution if any>.
+- **Visual continuity with earlier illustrations:** <which actual images
+  have been inspected, persistent traits to retain, relevant source-supported
+  differences for this state, and details to exclude/revert>.
 
 Repeat this state section only for genuinely distinct appearances. Track
 small scene-specific variations without manufacturing new permanent states.
@@ -76,6 +79,25 @@ small scene-specific variations without manufacturing new permanent states.
 Link the original source where available and identify any reliance on a
 prior dossier or report. Do not fabricate cue numbers, source versions or
 exact timestamps. A handout's observed date is not its fictional-era date.
+If citing **D&D Beyond character-sheet JSON**, label it
+`final-sheet-snapshot` / `campaign_end`, with source filename,
+JSON path and optional hash. Record its actual character-specific
+text versus generic rules-library definitions. It may support a
+**terminal appearance or candidate spelling**, not when an item was
+acquired, a location visited, an NPC first met or an early outfit worn.
+
+### Character-sheet cross-entity leads (when applicable)
+
+| Sheet / JSON field | Referenced character, NPC, item or place | Sheet-time evidence | Needed story-time corroboration | Disposition |
+| --- | --- | --- | --- | --- |
+| <sources/json/file.json, JSON path, optional hash> | <name, candidate alias and entity type> | <final-campaign reference only; custom entry/inventory/other> | <episode scene or creator source to locate; no retroactive assumption> | <candidate, supported in specific era, rejected, unresolved> |
+
+Include only relevant **campaign-specific** leads from the subject's
+campaign. Do not replicate complete JSON payloads, boilerplate, account
+identifiers or late-campaign spoilers in early reader-facing content.
+A terminal sheet can suggest where to look, but is not a visual
+timeline; preserve source-specific spelling and status rather than
+silently converting all references to accepted canon.
 
 ### Artistic decisions
 
@@ -93,6 +115,25 @@ the active design and identify affected illustrations.
 | --- | --- | --- | --- |
 | <question> | <source IDs and exact difference or gap> | <omit, leave open, provisional rendering, label subjective> | <specific passage/image or research task> |
 
+### Existing-art continuity inventory
+
+Before each new image, locate **all previous project illustrations of the
+subject** across story states and inspect the actual images when accessible.
+This is separate from deciding whether the subject is researched.
+
+| Image ID / path | Depicted story state and location | Status and source role | Stable features to retain | State-specific details not transferable | Access / review |
+| --- | --- | --- | --- | --- | --- |
+| <existing asset ID and verified path> | <subject IDs, era, location state> | <owner-selected, approved model sheet, draft, fan/art reference, superseded> | <persistent recognized design> | <early/late equipment, damage, attire, environment> | <actually viewed? any restrictions or errors?> |
+
+For each new illustration, document a **carry forward / change / exclude**
+matrix based on the selected image lineage and the target appearance
+state. Record the image references **actually supplied** to the generator,
+not just the ones inspected or cited. Preserve prior files and IDs rather
+than overwriting them. If critical selected art is inaccessible or
+contradicts newly discovered evidence, resolve the blocker or record it
+as an explicit open continuity issue; an old generated image is not
+proof of canon.
+
 ### Illustration records
 
 | ID / output | Scene and state IDs | Guide / subject versions | Prompt and reference record | Status / review |
@@ -101,6 +142,26 @@ the active design and identify affected illustrations.
 
 Keep a source-evidence review distinct from a visual style review. No image
 is implied to exist merely because a prompt or planned filename is listed.
+
+### Existing-illustration revision flags
+
+Whenever new evidence, contextual understanding, or an image comparison
+reveals a potentially inaccurate **existing illustration**, make or
+update the corresponding entry in
+[ILLUSTRATION_REVISION_QUEUE.md](ILLUSTRATION_REVISION_QUEUE.md). Keep the
+actual asset unchanged pending the appropriate review. Refer to the
+depicted **story-time state**, not merely the latest known character or
+item appearance. An artistic design choice contradicted by newer research
+is reviewable even when the old illustration was selected.
+
+| IRV issue | Affected image/version and depicted state | Finding, confidence and evidence | Proposed action / owner decision | Resolution or replacement |
+| --- | --- | --- | --- | --- |
+| <IRV-#### link> | <image ID/path; subject and location states> | <what changes in understanding, actual pixels inspected or not> | <review/edit/regenerate/annotate/no-reuse and decision status> | <open, approved exception or new asset ID> |
+
+If source research needed to decide the issue is still missing, link
+a separate `IRQ-` entry. These two queues are distinct, and resolution
+of the research question does not silently approve a new illustration.
+Preserve the original image ID, owner selection and provenance history.
 
 ### Change log
 

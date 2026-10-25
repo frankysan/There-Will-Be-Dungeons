@@ -1,6 +1,6 @@
 # Illustration style and continuity guide
 
-**Version:** 0.3, 2026-10-25. **Scope:** Characters, creatures, places, vehicles,
+**Version:** 0.4, 2026-10-25. **Scope:** Characters, creatures, places, vehicles,
 items, events and other illustrated subjects across The Wastes, Inverse and
 Delvers. Shared art direction does not imply shared fictional continuity.
 
@@ -17,6 +17,7 @@ approved by this document.
 [Subject template](ILLUSTRATION_SUBJECT_TEMPLATE.md) ·
 [Appearance references](ILLUSTRATION_REFERENCES.md) ·
 [Illustration research queue](ILLUSTRATION_RESEARCH_QUEUE.md) ·
+[Illustration revision queue](ILLUSTRATION_REVISION_QUEUE.md) ·
 [Editorial standards](EDITORIAL_GUIDE.md) · [Image provenance](IMAGE_ASSETS.md)
 
 ## Visual language
@@ -133,6 +134,15 @@ not two independent accounts of the fictional event.
 - Use dated creator designs within their supported scope. Fan art is an
   interpretation; campaign-end sheets and undated portraits do not establish
   introduction-time appearances.
+- For entity research, check available **campaign-matched D&D Beyond sheet JSON**
+  for character-specific names and leads to NPCs, places, items and other
+  characters. The files are **final-campaign snapshots**: hair, eyes, age,
+  equipment, spells, titles, custom notes and inventory do not establish
+  when those details were first true, worn or known. Cross-reference actual
+  played scenes before adding earlier appearance requirements; ignore
+  generic embedded D&D rules text as in-world evidence. Preserve compact
+  JSON-field provenance outside reader-facing world prose and respect
+  the requested spoiler cutoff.
 - Leave unspecified features open. When rendering requires a choice, record
   it as an artistic decision with its own status and revision history.
 - Preserve conflicting descriptions. Seek the relevant passage or use a
@@ -176,6 +186,73 @@ carried in a particular scene.
 | Events | Exact narrative moment, participants, their valid appearance states, location state, positions and visible effects. Do not combine incompatible moments or reveal later knowledge in an earlier scene. |
 | Factions and other subjects | Record visible symbols, insignia and material culture only where supported. A member's design does not automatically establish a universal uniform. |
 
+## Visual congruity with existing illustrations across story states
+
+**Existing illustrations must be consulted for every recurring depicted
+subject**, even when the written appearance record already passes the
+research gate. Find the subject's complete production-image lineage in
+the appearance register, dedicated reference pages, `illustrations/` assets
+and linked `world/` illustrations. Inspect the **actual images** and their
+recorded story-state IDs, scope, approval status and known fidelity errors.
+Do not infer visual content from a filename, assume inaccessible images
+have been examined or borrow a similarly named subject from another
+campaign. Selected project depictions carry continuity weight as
+**artistic references**, never as independent evidence of the show.
+
+**Resolve the exact story moment first.** Choose a same-state selected
+or owner-approved depiction when available; otherwise use nearby states
+to preserve **permanent identity features only**, and apply the documented
+state changes. An earlier outfit, intact roof, installed machine part or
+healthy limb must not persist into a later scene after its alteration;
+later scars, equipment, decorations, rebuilds and transformations must
+not be backdated into an earlier one. Source-supported changes supersede
+the design shown in older selected art. Preserve the earlier image and
+flag the conflict for review rather than silently rewriting visual history.
+
+Each new illustration brief must explicitly separate:
+
+- **Carry forward:** stable face, body structure, subject scale, markings,
+  construction, orientation and selected long-lived artistic choices
+  (including unspecified base colors) supported for the targeted period.
+- **Change:** source-supported damage, repair, age, clothing, carried
+  objects, transformation and location changes, plus scene-specific
+  weather, lighting, dust, mud or pose. Intrinsic colors should not drift
+  simply because the illumination changes.
+- **Exclude or revert:** details present only in a different era, costume,
+  location, dream, flashback, temporary effect or superseded design.
+- **Open:** conflicts and gaps; distinguish safe provisional choices from
+  true missing research or inaccessible indispensable imagery. For a
+  blocking gap, follow the dedicated research queue and **do not render**.
+
+Treat locations as subjects with their own appearance states: a recurring
+room can acquire damage, furniture, changed occupants and new lighting;
+its established walls and openings cannot freely change position. In a
+scene with multiple recognizable subjects, choose a **mutually compatible
+set of temporal states** for characters, their gear, vehicles, objects and
+the setting.
+
+Pass relevant selected images as **actual image inputs** when the renderer
+allows. Supply explicit instructions on which features to retain and which
+target-state differences to apply. Otherwise describe and record the visual
+comparison, state that the images were not passed to the renderer, and
+do not pretend the output was directly image-conditioned. If a necessary
+selected reference cannot be inspected and its distinguishing features
+are not already documented, treat it as a continuity/access blocker,
+rather than inventing a new design. Compare the output against all
+relevant selected images **after** generation as a separate visual-lineage
+review from show-source accuracy and shared style compliance.
+
+**Working example — Fate 4:** The owner-selected E006 garage portrait
+`WASTES-FATE4-ILL-001` represents completed Fate 4 `A01` and garage
+`A03`. It may establish a recognizable *working artistic treatment*
+for later views, but its exact paint and proportions are not canon.
+The earlier E001 construction state `WASTES-FATE4-A00A` must not
+automatically inherit completed skull-front and roof fittings. The
+later E028 `A06` needs the raptor-hide roof patch. A change in exterior
+sunlight alone does not justify repainting the same vehicle. Track
+garage changes using its own state record rather than copying the
+E006 background into every other scene.
+
 ## Illustration brief and record
 
 Build each brief from the same components:
@@ -205,6 +282,39 @@ For major recurring subjects, develop a neutral reference sheet when useful:
 front, three-quarter and profile views, key details, relative scale and a
 simple color reference. Produce state variants as needed. A style study is
 a trial, not an automatic appearance approval.
+
+## Flagging existing illustrations when research or context changes
+
+Both [illustration research](../.agents/skills/twbd-illustration-research/SKILL.md)
+and [illustration generation](../.agents/skills/twbd-illustration-generate/SKILL.md)
+must review **existing art affected by new visual evidence**, newly
+clarified story-time/location context, or a discovered conflict with
+earlier art. Inspect the actual image whenever possible and compare its
+**depicted state** against the new finding. Include selected images,
+drafts, archived trials and other scenes featuring the affected subject.
+A discovery about an earlier appearance may require revisiting an older
+image even when it was found in a later transcript. Changes due to time,
+location, damage, repair, costume, lighting and camera angle are not
+automatically errors.
+
+Create or update a durable `IRV-####` entry in the separate
+[illustration revision and consistency queue](ILLUSTRATION_REVISION_QUEUE.md).
+Record image IDs/paths, selection/approval status, the relevant story
+states, expected versus depicted feature, evidence and verification,
+severity, suggested review/edit/regeneration and any owner decision.
+Link the flag from the subject's production record. A report that only
+mentions a possible problem without a persisted issue is **incomplete**.
+A source-backed contradiction can supersede an artistic choice but
+never licenses automatic replacement of owner-selected artwork.
+
+Use [ILLUSTRATION_RESEARCH_QUEUE.md](ILLUSTRATION_RESEARCH_QUEUE.md)
+for **missing source research blocking a new image** and the `IRV-`
+queue for **existing art needing review/correction**. A single problem
+may require both entries, but their closure is independent. Do not
+regenerate every flagged image: use `review-only`, `annotate`, `edit`,
+`regenerate` or `archive/no-reuse` based on actual visual impact.
+Keep old versions and attribution; resolving a flag requires a
+documented review or verified replacement and an appropriate decision.
 
 ## Review and maintenance
 

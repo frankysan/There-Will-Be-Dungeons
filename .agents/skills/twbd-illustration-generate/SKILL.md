@@ -1,6 +1,6 @@
 ---
 name: twbd-illustration-generate
-description: Generate consistent, source-faithful illustrations for researched entities and specific story moments in There Will Be Dungeons (The Wastes, Inverse, Delvers and other separately identified adventures). Require integrated subject appearance research first; when a subject or required state is unresearched, do NOT generate any image—record a blocker in the dedicated illustration research queue and inform the requester. All project illustrations share one fixed 1024x1024-pixel square canvas and graphic-novel style.
+description: Generate source-faithful, visually congruent illustrations for researched TWBD entities and specific story moments across separate campaigns. Before drawing, find and inspect existing illustrations of each subject, reuse stable visual identity while applying scene-time/state changes, and maintain the same 1024x1024 graphic-novel style. When a subject or required state is unresearched, do NOT generate—record the missing work in the dedicated illustration research queue and inform the requester.
 ---
 
 # TWBD illustration generation — research-gated, style-locked
@@ -14,13 +14,13 @@ This skill **produces visual art only for entities whose required appearances
 have already been researched and integrated**. It does not research subjects
 from scratch and must not fabricate their canonical look.
 
-**Two non-negotiable contracts:**
+**Three non-negotiable contracts:**
 
 1. **Identical output dimensions and style:** Each canonical image—portrait,
    creature study, vehicle, location, event scene, multi-view sheet, variant,
    edited version or draft submitted as project art—must be **1024 × 1024
    pixels**, square (1:1), **PNG, sRGB**, with the shared style lock from
-   [illustration guide v0.3](../../../project/ILLUSTRATION_GUIDE.md#fixed-production-canvas-and-style-lock-v03).
+   [illustration guide v0.4](../../../project/ILLUSTRATION_GUIDE.md#fixed-production-canvas-and-style-lock-v03).
    NEVER silently switch to landscape, portrait or a different pixel size.
 2. **No research, no image:** Before calling **any** image generator or
    creating/editing a draft, determine the complete set of important depicted
@@ -32,6 +32,13 @@ from scratch and must not fabricate their canonical look.
    [subject-research skill](../twbd-illustration-research/SKILL.md).
    **No fallback to generic fantasy stereotypes, arbitrary character designs,
    a random fan portrait, or an unsupported generated mock-up.**
+
+3. **Existing-image continuity is mandatory:** Find and inspect existing
+   project illustrations of each subject before generation. Preserve stable
+   identifying designs, and apply the researched time- and location-specific
+   changes rather than copying another era's appearance. If an essential
+   selected visual reference is inaccessible, stop and report the problem.
+   An older image never overrules documented story evidence.
 
 A requested image containing both a researched character and an
 unresearched item, location, creature or companion **blocks the entire
@@ -52,8 +59,9 @@ preflight. Queue write failures are also hard stops.
    [style guide](../../../project/ILLUSTRATION_GUIDE.md),
    [appearance register](../../../project/ILLUSTRATION_REFERENCES.md),
    [subject template](../../../project/ILLUSTRATION_SUBJECT_TEMPLATE.md),
-   [research queue](../../../project/ILLUSTRATION_RESEARCH_QUEUE.md), and
-   applicable named subject records, source/image provenance and relevant
+   [research queue](../../../project/ILLUSTRATION_RESEARCH_QUEUE.md),
+   [existing-art revision queue](../../../project/ILLUSTRATION_REVISION_QUEUE.md),
+   and applicable named subject records, source/image provenance and relevant
    story chronology. Prefer active references over older pilot/style-study
    versions. If repository access is unavailable, do not treat memory alone
    as proof that a specific appearance state is cleared.
@@ -141,7 +149,105 @@ cannot inherit the look of a similarly named Wastes creature. These are
 preflight examples, **not** new queued requests and not authorization to
 create example art.
 
-## 3. READY path — construct a source-faithful visual brief
+## 3. READY path — preserve visual lineage, then build the brief
+
+### 3A. Mandatory existing-illustration continuity pass
+
+Complete this **before composing a prompt**, for **every recognizable
+depicted subject**. Being researched is not the same as being visually
+unrepresented: check both.
+
+1. **Find existing artwork:** From the appearance register and subject
+   records, locate production-image IDs and actual images in the repository's
+   `illustrations/` tree, referenced `world/` pages and linked production
+   reports. Include the same subject across **all documented appearance
+   states**, not only images named for the requested episode. Keep separate
+   any archive/fan illustrations and superseded experiments. Search by
+   campaign-qualified ID, names and relevant aliases; do not equate
+   another campaign's similarly named entity with the subject.
+2. **Inspect the image, not just its filename or caption:** Open the actual
+   viewable pixels wherever available, alongside its record, provenance,
+   selection status, applied state(s), date/story placement, revision and
+   known errors. Distinguish **owner-selected** project depictions,
+   owner-approved model sheets, provisional drafts, superseded images,
+   fan interpretations and creator source handouts. Record which files were
+   truly viewed and which could not be inspected.
+3. **Choose visual anchors by applicability and authority:** First prefer a
+   compatible **approved or selected same-state** depiction/model sheet.
+   Next use selected depictions of adjacent states for *persistent*
+   identity features only. Older or later images may help recognize the
+   subject but must be filtered through the full state timeline. A
+   production depiction can establish a **working artistic convention**
+   (such as otherwise unspecified paint) when explicitly selected for
+   reuse; it is never new evidence of show canon. Drafts, fan art and
+   unrelated-epoch pictures have no automatic authority. New source
+   evidence supersedes a conflicting artistic choice **even in approved
+   older art**; flag existing affected assets for review.
+4. **Build a state-aware continuity matrix** in the visual brief:
+   - **Carry forward:** stable silhouette, proportions, facial structure,
+     distinctive markings, persistent palette/material choices and
+     orientation/asymmetry that apply through this story interval.
+   - **Change for this depiction:** explicitly sourced or chosen alterations
+     between the anchor's state and target (growth/aging, new clothes,
+     equipment, injury/scars, transformation, vehicle damage/repair,
+     place architecture, occupancy, weathering or location-specific dirt).
+   - **Exclude/revert:** later features not yet obtained, lost/removed gear,
+     unrepaired damage at an earlier point, temporary effects that have
+     ended, and details unique to another location/illumination/viewpoint.
+   - **Unresolved:** significant disagreements, image provenance gaps,
+     physical differences the source does not explain or speculative
+     fixes. Decide whether it is safe to leave those off-frame, use an
+     explicit provisional artistic treatment, or **BLOCK** for additional
+     source research/access.
+5. **Location, viewpoint and temporal reasoning:** Environmental lighting,
+   color casts, pose, framing, dampness, dust, mud and shadows may change
+   without changing the subject's intrinsic colors or design. A location
+   itself may acquire physical changes, damage or repairs; use its matching
+   location-state reference. Characters can change costume/gear or carry
+   temporary grime without becoming different people. Reuse consistent
+   anatomy/geometry even when new composition or camera angle differs.
+   Flashbacks and prequels use **story-time** appearance, not the later
+   published image's outfit or present-day condition. When multiple
+   entities appear, pin every entity and the setting to compatible
+   simultaneous states.
+6. **Use real anchors in generation when supported:** Provide the relevant
+   previously selected image(s) as actual visual references to the image
+   generation/editing workflow, with **precise instructions to retain only
+   their persistent features and apply target-state changes**. When an
+   image cannot be passed to the renderer, do not claim that it was;
+   preserve a precise written cross-image comparison and note the
+   limitation. If the continuity-critical selected image cannot even be
+   inspected and its features are not adequately documented, treat it as
+   a `blocked-access` continuity gap (section 2), not a green light to
+   guess. Do not modify existing selected assets to obtain a new scene.
+
+**Review existing-art flags before reuse.** Read
+[ILLUSTRATION_REVISION_QUEUE.md](../../../project/ILLUSTRATION_REVISION_QUEUE.md)
+for each visual anchor's open issues. Check issue evidence and **target
+story-state applicability**; omit flagged features rather than copying
+them into a new render. If this pass reveals an additional mismatch,
+new contextual limitation or source conflict, create/update an `IRV-`
+entry with affected image ID/path, severity, verification, state and
+proposed review/edit/regeneration action. Cross-link affected subject
+records; preserve selected assets and owner decisions. Deduplicate.
+Differences expected from era, location, weather, camera, costume or
+repair **are not automatically errors**. If the mismatch leaves the
+**requested** subject insufficiently researched, also create an `IRQ-`
+blocker and stop. Unrelated outdated drafts need not block new work.
+
+**Example — Fate 4:** The owner-selected E006 garage illustration
+`WASTES-FATE4-ILL-001` anchors the *completed unveiling* vehicle
+`WASTES-FATE4-A01` and garage `WASTES-JIMSTERS-GARAGE-A03`.
+Use its recognizable vehicle styling as a **working illustration reference**,
+not as a technical plan or confirmation of canonical paint. The earlier
+E001 build `WASTES-FATE4-A00A` cannot silently inherit the completed
+metal dragon-skull front and roof equipment; later `A06` needs the
+raptor-hide roof patch and relevant damage despite the intact E006 image.
+The garage's E001 construction setting is a different state from the
+E006 unveiling setting. Preserve the persistent vehicle identity without
+freezing every scene to the same appearance.
+
+### 3B. Construct the state-correct visual brief
 
 For each pictured subject, pin its state ID and reference **version**; if
 any of these prove unavailable during briefing, **return to BLOCKED**.
@@ -161,10 +267,11 @@ Build a short explicit brief with:
    composition, lighting, one primary bright accent and optional second
    accent **across the whole image** (unless established colors require an
    explicit exception), and simple negative space where needed.
-5. Selected previously reviewed/appropriate project reference images when
-   actually available. Do not use a fan image whose provenance, depiction
-   era or reuse restrictions make it inappropriate, and never assume an
-   archived image is owner-approved simply because it exists.
+5. **Visual-lineage anchors:** Include the selected prior illustrations actually
+   viewed, their story-state IDs and review status, and the explicit list of
+   details to **carry forward, change or exclude**. Distinguish images examined
+   from reference pixels actually supplied to the renderer. Do not present
+   unrelated-era, fan, draft or superseded art as an approved model sheet.
 
 ### Fixed style prompt block — include unchanged in every generation/edit prompt
 
@@ -184,8 +291,8 @@ Build a short explicit brief with:
 > lettering, decorative borders, logos, signatures or watermarks unless the
 > requested scene explicitly requires an in-world marking.
 
-Treat this prompt block as an **immutable style lock** (v1) tied to guide
-v0.3. Changes require a deliberate *project-wide style revision* with a
+Treat this prompt block as an **immutable style lock** (v1) introduced
+in guide v0.3 and retained unchanged in v0.4. Changes require a deliberate *project-wide style revision* with a
 new version, not improvisation for a particular character, medium or
 image. The style guide's detailed rules take precedence if a conflict is
 found; report and version any correction. An individual scene's mood,
@@ -210,12 +317,13 @@ style experiments are **not** an owner-approved universal anchor.
    relevant features**. If exact sizing/export cannot be verified or
    corrected, report the image as incomplete/invalid rather than claiming
    an accepted asset. Do not fabricate output file paths or image metadata.
-3. Visually inspect every candidate against **the same style lock** and
-   appropriate selected project-owned references, if any: weight of ink,
-   pastel balance, limited accent hues, restrained texture and shadows,
-   anatomy, scale and recognizable features. Check the selected historical
-   states and exclusions **separately** from visual style. No 'close enough'
-   acceptance for a source-critical missing feature.
+3. Visually inspect each candidate against **the same style lock** and prior
+   subject images actually inspected in section 3A. Verify persistent design
+   details against applicable selected art and deliberate changes/exclusions
+   against the target story state. Compare anatomy, proportions, orientation,
+   persistent palette/material choices and location geometry independently
+   of lighting, weather or camera angle. A source-critical missing feature
+   cannot be accepted as 'close enough'.
 4. If corrections are required, create a **new versioned edit** on the same
    1024x1024 square, retaining the subject/state references and style lock.
    Recheck dimensions and lore fidelity after each edit. A candidate may be
@@ -225,17 +333,38 @@ style experiments are **not** an owner-approved universal anchor.
    register, using [the subject template](../../../project/ILLUSTRATION_SUBJECT_TEMPLATE.md):
    image/version ID, true output path or identifier, 1024x1024 PNG check,
    guide/style-lock version, entity IDs/appearance-state IDs and versions,
-   exact prompt/edit instructions, images actually provided as references,
-   artistic decisions, source-fidelity review, style review, author/reviewer
+   exact prompt/edit instructions, existing illustrations actually inspected,
+   their applicable states and selection statuses, images actually passed to
+   the renderer, carry/change/exclude matrix, source-fidelity review,
+   visual-continuity/style review, author/reviewer
    and selection/approval status. Record unknown metadata as unknown; no
    invented random seed, model version, license or approval.
-6. Preserve image source/copyright provenance per
+6. **Post-generation consistency audit:** Compare the candidate and prior
+   illustrated states to the latest evidence, including every visible
+   recurring subject, significant prop and scene location. For a new
+   source conflict, a newly understood historical context, missing
+   defining feature, unexpected persistent-design drift, or deliberate
+   continuity deviation, create/update and cross-link an `IRV-` review
+   flag for **each affected existing or newly generated image**. Distinguish
+   an actual discrepancy from story-appropriate change and avoid asserting
+   image inspection when pixels were unavailable. Indicate whether only
+   an annotated review, local edit, or complete regeneration is warranted.
+   The discovery of a bad prior selected image does **not** authorize
+   overwriting or replacing it; flag for owner review and preserve its ID.
+7. Preserve image source/copyright provenance per
    [image asset policy](../../../project/IMAGE_ASSETS.md). The owner may
    later mark a model sheet or illustration **owner-approved**; generation
    itself grants no such status. Publish/share outside the repository only
    when media rights are clear.
 
 ## 5. Bounded validation and response
+
+**Revision-flag check:** In both READY and BLOCKED paths, report whether
+the existing-art impact scan found any affected illustrations, give
+`IRV-` IDs and statuses for flags actually persisted, and distinguish
+newly identified issues from pre-existing ones. Verify the ledger's
+entries and subject cross-links by reading them back. Flagging alone
+does **not** authorize a replacement render or alter a selected image.
 
 - **BLOCKED:** Confirm queue entries were written/read back; no image
   generator was invoked; report subjects, scene-specific blockers, IDs,

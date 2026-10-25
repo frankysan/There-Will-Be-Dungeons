@@ -4,6 +4,9 @@
 separate from reader-facing world articles. A shared style does not merge
 the campaigns. Use [the guide](ILLUSTRATION_GUIDE.md) and
 [subject template](ILLUSTRATION_SUBJECT_TEMPLATE.md) when extending this register.
+For source-driven or visually detected problems with **existing art**, use
+[the illustration revision queue](ILLUSTRATION_REVISION_QUEUE.md); it is
+separate from the [research blocker queue](ILLUSTRATION_RESEARCH_QUEUE.md).
 
 | Campaign | Subject | Coverage and status |
 | --- | --- | --- |
@@ -33,7 +36,7 @@ are retained for provenance; neither early image is a selected appearance sheet.
 | Known measurements | Ten-foot width supported by E010 dialogue; thirty-foot length only from the existing creator-design sheet |
 | Unresolved appearance | Paint, exact body/axle/door/window/solar layout, image-era compatibility and repairs not explicitly inventoried |
 | Verification / selection | Selected transcript passages compared, **not listened to**; archived design images **not newly inspected**; a **world-page illustration is owner-selected**, but no approved technical model sheet |
-| Selected illustration | [Fate 4 world page](../world/technology/fate-4.md), `WASTES-FATE4-ILL-001` (E006, Dusthill garage); PNG asset import pending |
+| Selected illustration | [Fate 4 world page](../world/technology/fate-4.md), `WASTES-FATE4-ILL-001` (E006, Dusthill garage); [1024 × 1024 PNG](../illustrations/wastes/fate-4-e006-unveiling-jimsters-garage.png) present and SHA-256 verified on 2026-10-25 |
 | Record version | 0.4 / 2026-10-25 |
 
 For a source-faithful illustration, use **a specific appearance state** from
