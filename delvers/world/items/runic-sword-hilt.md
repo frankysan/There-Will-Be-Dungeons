@@ -24,10 +24,15 @@ The blade proves itself not merely a curiosity when Koh faces the flameskull abo
 
 Koh's blade changes again in the blacksmith's shop. His decisive strike against the rust monster causes the ancient stone-metal grip to crumble, while the blue psychic projection remains. After his lessons with Wildfire, Koh can now shape the blade without the artifact that first awakened it.[^freed]
 
+## A second blade remembered
+
+Another part of Koh's growing psychic gift surfaces when a Snake Island memory returns at the Hooper wedding. He recalls clinging to the rock beside a volcano, keeping hold with a psychic knife while a little bearded man falls away beneath him. The scene is incomplete, but the recovered knowledge is not: Koh can now manifest **two psychic daggers at once**. Later, facing Grandfather Hooper's wight, he calls forth both blades while standing protectively before an endangered guest, though he chooses defense rather than landing a dual strike. His power no longer needs the old hilt to give it shape.[^s2e02]
+
 ## Current status
 
-The **physical Soul Knife hilt is gone**, but **Koh can manifest the psychic blade without it**. This development is played in S1E07, not simply predicted by Wildfire. Its psychic nature and the two garnets from Skull Keep remain separate from the artifact's now-lost material components.[^freed]
+The **original stone-metal Soul Knife hilt is destroyed**, but Koh can summon psychic blades entirely through his own abilities. **S1E07 first demonstrates a hiltless blade**, while **S2E02 explicitly confirms he can manifest two psychic daggers simultaneously**, a gift remembered from his mostly forgotten Snake Island journey. He activates **both at Hooper wedding in protective stance**, but **does not hit a foe with two psychic daggers in that encounter**. His two garnets from Skull Keep, the old hilt's rune origin and the masked mage's “scion” claims remain separate, unresolved matters.[^s2e02][^freed]
 
+[^s2e02]: [Delvers S2E02](../../episodes/S2E02.md), ~00:29–00:32 (GM says **two psychic blades** capability from Snake Island), ~02:23–02:27 (manifests both during Dodge, not a performed dual attack). The remembered bearded patron falling toward volcano is a **partial memory**; fate unknown.
 [^freed]: [S1E07 dossier](../../episodes/S1E07.md), ~01:48–01:51. Physical hilt crumbles on Koh's critical hit against the rust monster, but the psychic weapon persists as an ability without it. No replacement hilt is found.
 
 [^tower]: [S1E06 dossier](../../episodes/S1E06.md), ~02:48–02:59. Koh's Soul Knife strikes deal psychic damage despite flameskull's physical resistance; killing blow and two-garnet pickup are played. Dousing uses Evelyn's holy water; do not claim a generic immunity bypass beyond this scene.
