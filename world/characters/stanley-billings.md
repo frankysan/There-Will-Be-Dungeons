@@ -42,6 +42,10 @@ Stanley's closest bonds are also sources of friction. He loves Nash, Hope and Vo
 
 Diontalus is neither Stanley's other name nor an extension of his agency. Their forced bodily connection, separation, later spectral encounters and negotiated accord belong to distinct stages of a difficult relationship. Stanley's identity remains his own, even as he considers what he owes the archfey and the compact that still claims his soul.[^relationships]
 
+## Out-of-game class-development note
+
+In the [September 2021 cast Q&A](../../episodes/BONUS-2021-09.md), Jon says he **once considered a cleric multiclass for Stanley**, but Stanley's experiences with his deity and disillusionment with religious authority made that idea unattractive. **This was a proposed build that did NOT become an acquired level, performed religious conversion or in-world vow.** Jon's present interest in playing a cleric on some other occasion should not be read as a retroactive change to Stanley's **bard** class, motivation or faith chronology. Deity spelling in the bonus ASR is uncertain; use episode-specific written source rather than normalizing an unsupported name.
+
 ## Current status
 
 Stanley survives the Season One finale on Earth with Nash, Hope and Vorel near Villa Ornath. He has not completed the Mask of Eltanfawr's attunement or made the villa fly. Diontalus is alive and separate from him; the archfey's promised return and aid remain in the future. Stanley's father is still unfound, the Soulbroker compact unresolved, and his next choices shaped by obligations he has accepted but not yet fulfilled.[^current-status]
