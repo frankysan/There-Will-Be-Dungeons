@@ -1,6 +1,6 @@
 # Delvers — characters
 
-**Spoilers through S2E09 — Fredoroth defeated in retrospective, Koh's wife and Wildfire's silver recommendation, first Delvers arc already complete**. Evidence: ASR-provisional. Working player-character spellings use the [written-source register](../../reports/DISCORD_SPELLING_2026-10-21.md); voice, exact utterances and historical sheet state remain unchecked. No later nicknames or surnames are backdated.
+**Spoilers through S2E10 — Carrie's ancient lore lecture, Anthela physically wakes from Khalazar psychic prison and silver remains pending, first Delvers arc already complete**. Evidence: ASR-provisional. Working player-character spellings use the [written-source register](../../reports/DISCORD_SPELLING_2026-10-21.md); voice, exact utterances and historical sheet state remain unchecked. No later nicknames or surnames are backdated.
 
 | Character | Performer / introduction | Reference |
 | --- | --- | --- |
@@ -51,7 +51,8 @@ These short entries derive from [S1E01](../episodes/S1E01.md); NPC spellings rem
 | Captain Autumn Dew, Limwick Hooper and Fresna Goodwine | Wedding captain, groom and bride; **marriage celebration proceeds**; names ASR-phonetic. [Estate](places/hooper-estate.md) |
 | [Margaret Dupayton](characters/margaret-dupayton.md) | Loyal roommate: maintains **Nolzur's painted sick-bed decoy for two weeks**, causing **Lord/Lady *Blackwood* (explicit S2E03 correction of S2E01 Blackwater ASR)** to send physician; Evelyn begins telling her private story, **not narrated**. Bag of Hammer Holding creator |
 | [Chuck Abnaz / Nasty](characters/chuck-abnaz.md) | Satyr **Cloven Brotherhood** ex-associate of Koh; **paid wife's doctors** then demanded fee/forgery return, with three associates. **Koh later consents to plan Withers Estate raid as psychic coordinator under pressure**; Cassius secretly funds, no break-in yet |
-| [Anthela Spiros](characters/anthela-spiros.md) | **Koh's sleeping wife**, physically **oozing black slime**; wedding mental landscape with **Khalazar** and brief ring-induced memory; **not awakened/cured** in S2E09 |
+| [Anthela Spiros](characters/anthela-spiros.md) | **Koh's wife**, was unconscious and leaking black slime in S2E09, but **actually PHYSICALLY AWAKENS in S2E10** after Krandal's in-dream Remove Curse and embraces Koh in Carrie's lab; no proven permanent Khalazar defeat |
+| [Khalazar](characters/khalazar.md) | **Undying Majesty, antagonist inside Anthela's dream**; white-haired porcelain elf carried by enormous bat, then **sand-wrapped luminous-maw figure**; shatters into black sand but **actual real-world death unconfirmed**. RED crystal fragment goes physically to Carrie. [S2E10](../episodes/S2E10.md) |
 | [Marsh](characters/marsh.md) | **Guest Garrett's silver-ranked wood-elf dragon hunter**, scarred left face and partly missing ear, dragon-bone bow, **Wheatley weasel**, **Arrow of Dragon Slaying from Skoogie**; **Chath Peak red dragon alive** at S2E08 cutoff |
 | [Skoogie](characters/skoogie.md) | **Kobold shaman** with bell, feathered headdress and caged lizard; leads secret lava-tube route, grants temporary HP, burnt but **healed by Evelyn**, seeks rule restored; no dragon kill yet |
 | [Ambermoor](characters/ambermoor.md) | **Elf, Gemholm operations manager** implicated by diaries in deliberate chaos-gem phage experiments; **actually captured alive by Koh**, bound/gagged and taken to Krandal's farm; **no guild handoff or trial yet**. [S2E07](../episodes/S2E07.md) |

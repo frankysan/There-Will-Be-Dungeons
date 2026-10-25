@@ -1,0 +1,9 @@
+# Khalazar red crystal fragment — dream-recovered shard
+
+**Origin/status:** From a **crystal within Khalazar's second, shrouded sand-form in the mental realm**, **Delvers S2E10 — Carrie On**, ~02:09–02:19. **Last actual holder: Carrie Underworld in her PHYSICAL guild laboratory.** Red color is directly stated; **not a proven red gemstone from the Gemholm chaos-phage case** and **not confirmed a phylactery, soul gem, power core, blood ruby, alchemical compound or any established device**.
+
+During a psychic battle in Anthela's bridal mindscape, **Evelyn Grinkeeper lands a natural-20 warhammer hit with Branding Smite**; something hard and glasslike **cracks in Khalazar's sand-filled chest**, and **red crystal pieces fall out**. He dissolves into an immense wave of black sand. **Evelyn explicitly stoops to PICK UP one RED SHARD before running to the escape light**, while Koh restrains the sand wave via psychic force. At exit, everyone returns to the guild lab; **Evelyn physically holds the fragment**, then **ACTUALLY hands it to Carrie**, who had **not traveled through Koh's link**. Carrie receives it but **does not analyze, name or explain it** before episode ends with **Anthela physically waking and embracing Koh**.[^source]
+
+No verified size, shape beyond small fragment, material, magical aura, number of shards recovered, mechanism for transporting dream objects or permanent effect on Khalazar. **Avoid visually inventing engravings, glowing runes or metal setting in illustrations before more evidence**. Do not conflate with the **three chaos gems from Gemholm** previously pulverized by Ambermoor; source context and carrier are different.
+
+[^source]: [S2E10](../../episodes/S2E10.md), ~02:07–02:19:40; fragment drops in dream, Evelyn picks it up, physical handoff to Carrie.

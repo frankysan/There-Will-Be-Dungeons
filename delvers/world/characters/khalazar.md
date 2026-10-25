@@ -1,0 +1,31 @@
+# Khalazar — the Undying Majesty
+
+**Working name:** **Khalazar** (ASR variants `Kalazar/Calazar`), a title/entity revealed in the Delvers arc. **First directly depicted in played action in [S2E10 — Carrie On](../../episodes/S2E10.md)**, **inside a psychic dreamscape, NOT verified physical reality**. Do not conflate this Delvers antagonist with Wastes or Inverse entities. **Actual identity, biological form, physical whereabouts and final mortality are NOT established.**
+
+## Texts and unverified old history
+
+An old-Elvish document recovered from Withers's estate and earlier carved symbols concern the Khalazar; [Carrie Underworld](carrie-underworld.md) translates them **on-screen in S2E10**. Titles include **King of the Under Kingdom / Ruler of the Dark Empire**, **Necromantis Rex** (Carrie offers **King of the Bats** or **Necromancer Supreme**), **Lord of the Black Basilica**, and **Undying Majesty**. Carrie recounts an ancient split from **Dolbluth** (phonetic), who became surface exiles and built dungeon defenses against threats below. Her historical explanation is **translation/interpretation from old sources**, not independently observed ancient history. **Black Basilica** appears on concealed map under Enzo Withers's portrait, who apparently dug directly into the Underdark. Possible **Fulnomic** device linked to the music box **Hereditary Drone** remains unverified. Exact names and phrases require listening/written GM confirmation.[^lecture]
+
+## Anthela's captive wedding
+
+In [S2E09](../../episodes/S2E09.md), Koh **actually enters wife Anthela's psychic prison**, where she believes she is preparing to marry **Khalazar, emperor of the Lower Kingdoms** to spare Atomer and Penelope. A projected wedding ring briefly restores her self-awareness, then she forgets. **Her account is coerced in-dream testimony**, not proof the real city is actually under a literal contractual bargain. **Rianu Keeves** also believes he is a palace wedding guard while unconscious. **No Khalazar body is directly encountered in S2E09.**[^prelude]
+
+## S2E10 dream projection — first form
+
+After **Krandal touches Anthela and casts Remove Curse** within wedding hall, its furnishings collapse into black sand. A **huge bat (roughly fifteen-foot body described) with GOLDEN SADDLE** descends outside bridal balcony and lowers its rider: a **porcelain-pale, well-built elven-looking male**, **bare-chested**, **long snow-white hair tightly gathered in intricate braid/binding to a ring at lower back, with a small skull dangling from that ring**, dark almost black elongated nails, and **deep purple cowl trimmed in gold with a skull emblem like the skull within a hook horror head**. He wears a **gold-accented violet sash around waist** resembling guards' garments. His articulated fingers curl into a fist, and he speaks words seemingly in a different language while meaning appears **telepathically** in visitors' minds. He notices Koh's manifested psychic blades, names a **Dolbluth warrior**, insists Anthela return as **his bride**, describes himself as Undying Majesty/possible **Umbral Sovereign** (ASR uncertainties) and threatens party. These are **source-first visual references for a dream apparition**, **NOT authoritative confirmed physical design of actual Khalazar**.[^first]
+
+## Battle and second form
+
+**Koh throws two psi daggers; Evelyn's lightning javelin/Branding Smite cracks the porcelain shell**, exposing a seemingly hollow **SKULL and massive streams of BLACK SAND**; mount, distant dream city and interior begin disintegrating. Khalazar reconstitutes as a **much larger towering, shroud-wrapped entity emerging from black sand**, with **aged/tattered purple cowl**, face **hidden in bindings**, and enormous **luminous unhinging maw** (light within mouth) that spews insects. Magical **blasphemous word** stuns Koh, Krandal and Anthela; **Evelyn resists**, while a necrotic **Word of Power Harm** fails on her by **GM-specific disease immunity ruling**. He can dissolve into sand and rematerialize, calls out from the desert, and his psychic space becomes a black dune field.[^second]
+
+**Evelyn's natural-20 warhammer strike shatters something red and glasslike within the chest of second form**, leaving **small RED CRYSTAL FRAGMENTS** and black-sand tsunami. **Evelyn physically picks up one and later hands it to Carrie in guild lab after escaping dream**. The last voice says **it knows/has seen them and they will meet again**. There is **no confirmation Khalazar's real body died**, nor that the surrounding mental city, spiderlike flaming mechanism and green ceiling crystal are physical Under Kingdom architecture, as opposed to nightmare imagery.[^end]
+
+## Illustration/provenance cautions
+
+First-form **white-haired purple/gold porcelain elf**, second-form **bound dark sand-wraith**, and **psychic palace/green crystal city** are **time- and perspective-specific appearances**; do not merge them into one default figure or apply them to scenes before S2E10 without evidence. **Do not render the entire mental city as a verified geographic establishing shot**. [S2E10 episode dossier](../../episodes/S2E10.md) owns timed details, and [red crystal fragment](../items/khalazar-red-crystal.md) owns the transferred artifact.
+
+[^lecture]: [S2E10](../../episodes/S2E10.md), ~00:12–00:30, Carrie's research lecture and map; multiple interpretations explicit.
+[^prelude]: [S2E09](../../episodes/S2E09.md), ~00:27–00:43 and ~01:42–02:02. Earlier mind scenes are distinct from S2E10 direct appearance.
+[^first]: [S2E10](../../episodes/S2E10.md), ~01:28–01:36. Visual description on GM dream map; original diagram/art not inspected.
+[^second]: [S2E10](../../episodes/S2E10.md), ~01:35–02:10. Porcelain collapse, sand-form appearance and combat, no physical body observed.
+[^end]: [S2E10](../../episodes/S2E10.md), ~02:09–02:19. Crystals, sand wave, escape and voice; later fate unresolved.

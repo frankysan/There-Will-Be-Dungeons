@@ -1,0 +1,27 @@
+# Delvers S2E10 — Carrie On: complete-export ASR comparison (2026-10-25)
+
+**Episode:** Played Delvers S2E10, `Carrie On`. [Source dossier](../delvers/episodes/S2E10.md) · [Delvers queue](../delvers/REVIEW_QUEUE.md). Host says **Saturday, July 10, 2021**; original publication/recording metadata unverified. Main episode includes **Carrie's guild translation lecture and psychic rescue of Anthela**; **Anthela PHYSICALLY awakens at cutoff, Khalazar's ultimate fate remains unresolved**.
+
+**Version/source match:** Workspace `main` started **clean at `f79b869d9a41a13e96ceeb5907a0c09bdd5fc92f`**, GitHub file reader successfully returned both tracked files at **the same pinned commit**. Local first-cue excerpts match remote P/Q beginnings; source media audio not listened. GitHub Git blob SHAs below identify respective contents at that commit; MP3 lineage, timings and transcription settings not independently checked.
+
+| Filename-derived model/pipeline name only | Source | Pinned blob SHA | Cues | Normalized words | Last end |
+| --- | --- | --- | ---: | ---: | --- |
+| Parakeet processed | [P](../sources/Delvers%20S2E10.%20Carrie%20On.parakeet.processed.srt) | `691e5e2ddd35ad7639a646a7067d343125a76e89` | **2,042** | **17,985** | **02:19:40.070** |
+| Qwen Q8/Canary CTC/Nemotron-labelled | [Q](../sources/Delvers%20S2E10.%20Carrie%20On.qwen-q8.canary-ctc.nemotron.srt) | `f35c0149912e2998b5e0d2059ae0a9cfc44d4aa4` | **3,284** | **18,025** | **02:19:39.360** |
+
+**Complete-export ordered unit-cost Levenshtein distance: 1,269 / 17,985 = 7.06% textual disagreement.** Q has **40 more normalized words** and final subtitle ends **0.710 seconds earlier**. This is **NOT WER, measured transcription accuracy, verified omissions/hallucinations or ground-truth model ranking**.
+
+**Exact method:** full cue blocks parsed from both SRTs, discard subtitle numbers/timestamps and optional `(speaker N)` markers, chronological concatenation, lowercase Unicode-letter-and-digit tokenization, straight/curly apostrophes removed to join contractions, other punctuation to whitespace. Optimization strips **78 identical initial** and **2 identical final** tokens without changing edit distance, uses two-row unit-cost Levenshtein DP within **±1,700 token diagonal**; optimum **1,269 < 1,700** ensures no strictly cheaper path can exceed band and therefore result exact. Entire Parakeet narrative read sequentially as ~10-minute recording-clock windows 0–139:40, whole Qwen export parsed and selected high-risk Q excerpts independently inspected (0–8, 11–33, 38–48, 54–62, 73–80, 83–94, 96–109, 111–125, 125–139 minutes). **Not full second interpretive read**. No audio or original GM dream diagram listened/inspected, no runtime commands, hardware, model settings or publisher timing verified.
+
+| Clock | High-risk source comparison / listening question |
+| --- | --- |
+| **~00:00–00:12** | Host says **July 10**, party **leveled between sessions**, guest **rescheduled**. Cassius says promotion analyst tomorrow and **Bronze Ball two days away**; no silver yet. |
+| **~00:12–00:28** | Carrie **translates Khalazar and Dolbluth, Necromantis Rex vs bats/necromancy**, identifies **Hereditary Drone** motor control. Map connects **Black Basilica** with uncertain **Fulnomic** device, but no proof its exact mechanism. |
+| **~00:28–00:45** | Krandal **plans/then prepares Remove Curse** after rest, not cast at guild lecture. **Evelyn physically takes the mirror**, bell trousers remain with guild (Cassius's private aside). Deep expedition only contingent on finances. |
+| **~00:48–01:01** | Anthela **actually transported on stretcher into Carrie's lab**. Despite plan/offer, **Carrie is not in group psychic dream** because Koh has **only three other targets** (Anthela, Evelyn, Krandal). Pink wrist ribbon does not increase cap. |
+| **~01:04–01:30** | Dream attire vs real armor, guard **Keeves**, “Queen of Birds” performance, **Remove Curse TOUCHES Anthela** and begins black-sand collapse; physical awakening **not yet until 02:17–02:19**. |
+| **~01:30–01:43** | Khalazar appears as **white-haired cowl/porcelain elf riding large bat**, then monstrous swirled-sand shape, two psychic dagger hits, **Branding Smite/Lightning Javelin 43**. Mental city/green crystal is represented **in mind**, not proof expedition to real Under Kingdom. |
+| **~01:43–02:09** | **Blasphemous Word stun**, Evelyn **Sanctuary**, insects and Wind Fan, Koh **Dimension Door with wife**, but **Koh doesn't exit himself**. GM grants Evelyn immunity to **Word of Power Harm** under disease mechanic; avoid generalizing as published rules. |
+| **~02:09–02:19** | **Evelyn natural-20 warhammer breaks red crystal in Khalazar body**, grabs shard during collapse. **Koh doesn't cut connection**, manifests energy barrier with Wisdom 19. Survivors rise in light; **Anthela wakes physically and embraces Koh**, **Evelyn gives red shard to Carrie**, **Khalazar warns he'll meet them again**, no confirmed killing blow over real entity. |
+
+**Next required checks:** listen to exact translations/Umbral and Dolbluth name variants, GM spell rulings/HP, red shard provenance and music box mechanism; inspect corresponding GM map if available. Avoid modifying original SRT. Next source in inventory **S2E11 — New High Score**.
