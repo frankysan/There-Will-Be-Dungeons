@@ -12,6 +12,7 @@ separate from the [research blocker queue](ILLUSTRATION_RESEARCH_QUEUE.md).
 | --- | --- | --- |
 | The Wastes | [Fate 4](#wastes-fate-4) | Source-audited, time-specific appearance states through E066; ASR-provisional, no approved model sheet. |
 | The Wastes | [Jimster's garage, Dusthill](#wastes-jimsters-garage-in-dusthill) | Early original/construction/secured/unveiling states; four-episode targeted transcript research with partial independent Qwen corroboration; no approved illustration. |
+| The Wastes | [Nash Maggard](ILLUSTRATION_NASH_MAGGARD_REFERENCE.md) | Provisional, time-specific character and transformation states E000–E128; eight archived fan artworks inspected; no owner-approved model sheet. |
 | Inverse | No subject record yet | Shared art direction only; no imported Wastes appearances. |
 | Delvers | No subject record yet | Shared art direction only; no imported Wastes appearances. |
 
