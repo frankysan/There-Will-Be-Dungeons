@@ -1,6 +1,6 @@
 # Delvers — world reference
 
-**Spoilers through Delvers S1E10. Evidence:** full dual-ASR text research, not audio-verified. This reference describes Delvers's separate reality. Handout statements and NPC claims retain their attribution.
+**Spoilers through Delvers S1E11. Evidence:** full dual-ASR text research, not audio-verified. This reference describes Delvers's separate reality. Handout statements and NPC claims retain their attribution.
 
 | Read about | Reference |
 | --- | --- |
@@ -18,6 +18,8 @@
 | Underground hooked hunters | [Hook horrors](creatures/hook-horrors.md) |
 | Living mentor and dead brother | [Buck Broscale / Wildfire](characters/buck-broscale-wildfire.md) |
 | Evelyn's friend | [Margaret Dupayton](characters/margaret-dupayton.md) |
+| Suspicious fighter seen near the guild | [Broadside](characters/broadside.md) |
+| Ancient mechanism and searching implement | [Wand of Secrets and geared disc](items/wand-of-secrets-and-geared-disc.md) |
 | Recovered light source | [Drift globe](items/drift-globe.md) |
 | Evelyn's enchanted tote | [Bag of Hammer Holding](items/bag-of-hammer-holding.md) |
 | Awakened psychic blade | [Soul Knife / recovered runic hilt](items/runic-sword-hilt.md) |
@@ -28,7 +30,7 @@
 | Played order and actual cutoff | [Chronology](CHRONOLOGY.md) |
 | Uncertain names, knowledge and custody | [Consistency ledger](CONSISTENCY_LEDGER.md) |
 
-[S1E01 dossier](../episodes/S1E01.md) through [S1E10 dossier](../episodes/S1E10.md) own detailed timestamped investigations. [First jobs](../narrative/FIRST_JOBS.md) and [The Rise to Bronze](../narrative/THE_RISE_TO_BRONZE.md), and [Skull Keep and the Dawnless Dunes](../narrative/SKULL_KEEP.md), and [The Wells of Atomer](../narrative/THE_WELLS_OF_ATOMER.md) offer connected narrative; the [review queue](../REVIEW_QUEUE.md) owns listening tasks.
+[S1E01 dossier](../episodes/S1E01.md) through [S1E11 dossier](../episodes/S1E11.md) own detailed timestamped investigations. [First jobs](../narrative/FIRST_JOBS.md) and [The Rise to Bronze](../narrative/THE_RISE_TO_BRONZE.md), and [Skull Keep and the Dawnless Dunes](../narrative/SKULL_KEEP.md), and [The Wells of Atomer](../narrative/THE_WELLS_OF_ATOMER.md) offer connected narrative; the [review queue](../REVIEW_QUEUE.md) owns listening tasks.
 
 [Delvers campaign index](../README.md)
 

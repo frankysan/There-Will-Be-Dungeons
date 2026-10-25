@@ -1,8 +1,10 @@
 # Fate 4 — transcript appearance, features and capabilities audit
 
-**Recorded:** 2026-10-25. **Status:** Findings saved at the owner's request
-before the usage limit. Source research is substantial but final appearance
-register integration and validation remain pending.
+**Recorded:** 2026-10-25. **Status updated:** Transcript findings were integrated
+into the [active subject reference](../project/ILLUSTRATION_FATE4_REFERENCE.md)
+on 2026-10-25; the original [v0.2 pilot](../project/ILLUSTRATION_FATE4_PILOT_0_2.md)
+is preserved. The saved source search remains ASR-provisional; direct image
+inspection, audio listening and later candidate triage remain open.
 
 **Source revision:** `frankysan/There-Will-Be-Dungeons-Transcripts`,
 commit `aabee4ffbdba2ff981522294c9dc0e62bfb0553d`.
@@ -215,24 +217,36 @@ read; several high-value descriptions checked in Qwen; findings recorded
 here with chronology and rejected-lead boundaries. No source SRT/media
 was edited. No new image was generated for this audit.
 
-**Immediate next actions:**
+**Integration checkpoint (2026-10-25):**
 
-1. Integrate these findings into the appearance register, preserving the
-   old 0.2 record before any major rewrite and retaining its trial
-   decisions as historical artistic choices. Keep existing A01 stable.
-2. Add distinct damage/repair states and the retrospective origin state;
-   distinguish a salvage rickshaw from the destroyed powered RV.
-3. Correct E057's monster-truck/interceptor summary, using the compared
-   00:47:38–00:50:20 passages. Do not re-research the entire episode.
-4. Triage retained later-season/bonus candidates and unreviewed Qwen
-   passages only where they can add a visual feature or resolve a conflict.
-5. Directly inspect the source design images when access is available.
-   Resolve dimensions/layout/paint without promoting the trial to canon.
-6. Validate only the new report/manifest and changed reference sections.
-   Canonical Markdownlint is still unavailable in this environment;
-   no automated lint pass is claimed.
+1. **Completed:** The full original v0.2 pilot was preserved in
+   [an archive](../project/ILLUSTRATION_FATE4_PILOT_0_2.md). The
+   [active register](../project/ILLUSTRATION_REFERENCES.md#wastes-fate-4)
+   now links a [detailed subject record](../project/ILLUSTRATION_FATE4_REFERENCE.md).
+2. **Completed:** The A01 unveiling identity was retained, with a separate
+   pre-Hope/pre-unveiling chronology and damaged, patched, repaired,
+   crushed and burning states. The powered vehicle and completed E066
+   salvage-built rickshaw remain distinct; prior artistic choices are
+   preserved as provisional rather than promoted to source facts.
+3. **Completed:** [E057](../episodes/E057.md) now correctly identifies
+   the driven vehicle as an **interceptor**, not a royal monster truck.
+   A follow-up direct reading of Parakeet ~00:46–00:50 confirms the choice,
+   rust-brown color, tire chains, prominent front engine/exhaust and
+   passage past the parked Fate 4. The original audit also compared Qwen.
+4. **Still open:** Directly inspect the two design sheets and separate
+   floorplan. The connected workspace rejected reads of all three source
+   images in this integration attempt; a direct GitHub fetch of the
+   first source sheet also returned 404. No image or audio inspection is claimed.
+5. **Still open:** Triage retained later-season/bonus candidates and
+   unreviewed Qwen passages **only where visually material**, and listen
+   to the key contested features. Do not re-fetch all 200 primary exports.
+6. **Validation performed:** Read back the new reference, archived pilot,
+   active register, audit, updated guide/backlog and E057 passage. Checked
+   expected headings, state and evidence IDs, register links and table shapes;
+   the corrected E057 statements agree with the directly reread primary
+   source. **Automated Markdownlint/tests not run** because no suitable
+   project-specific runner was available via this connector. A full
+   source-image/audio review remains open.
 
-The current appearance register and earlier style-trial report still
-describe the pre-audit state until item 1 is performed. Resume from this
-checkpoint rather than refetching all 200 primary exports or claiming
-that documentation integration has already happened.
+The source search report remains a dated evidence artifact, not an active
+appearance-state reference. Resume from the linked record and manifest.

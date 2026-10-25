@@ -1,6 +1,6 @@
 # Illustration style and continuity guide
 
-**Version:** 0.2, 2026-10-25. **Scope:** Characters, creatures, places, vehicles,
+**Version:** 0.3, 2026-10-25. **Scope:** Characters, creatures, places, vehicles,
 items, events and other illustrated subjects across The Wastes, Inverse and
 Delvers. Shared art direction does not imply shared fictional continuity.
 
@@ -16,6 +16,7 @@ approved by this document.
 
 [Subject template](ILLUSTRATION_SUBJECT_TEMPLATE.md) ·
 [Appearance references](ILLUSTRATION_REFERENCES.md) ·
+[Illustration research queue](ILLUSTRATION_RESEARCH_QUEUE.md) ·
 [Editorial standards](EDITORIAL_GUIDE.md) · [Image provenance](IMAGE_ASSETS.md)
 
 ## Visual language
@@ -34,6 +35,55 @@ approved by this document.
 Default to a standalone illustration. Panels, captions, speech balloons and
 lettering are composition choices for a specific brief, not requirements of
 the style. Avoid incidental lettering and watermarks in generation prompts.
+
+## Fixed production canvas and style lock (v0.3)
+
+**All canonical newly generated illustrations, variants and multi-view model
+sheets use exactly 1024 × 1024 pixels (1:1 square), exported as PNG in sRGB.**
+This is a project production convention, not a historical property of the
+existing two early Fate 4 previews or archived fan artwork. It applies to
+characters, creatures, vehicles, places, artifacts and events alike. Adapt
+composition **inside** the square, using purposeful negative space for tall
+figures and broad vistas; never change aspect ratio for a subject type.
+Previews, selected variants and edits must obey the same canvas before
+entering the project illustration catalog.
+
+The **shared style lock** combines the visual-language table above into the
+same mandatory recipe for *every* generated image: confident thick dark-ink
+outer contours; visibly lighter interior construction/expressive linework;
+slightly cartooned graphic-novel shapes without distorted distinctive
+anatomy; broad, uncluttered muted-pastel color areas; restrained flat/cel
+shadows; selective hatching or print texture; clear silhouettes; and no
+incidental text, frames, logos or watermarks. Use **one main and at most one
+supporting saturated accent across the entire image**, except where show-
+established colors necessarily require more. Color and identity evidence
+always outrank this discretionary palette limit.
+
+Keep this fixed style recipe and master dimensions **identical for every
+production prompt**. Subject-specific features, era, composition, setting,
+lighting and chosen pastel/accent hues may vary, but not the underlying ink,
+shape, shading or texture treatment. Use selected, versioned project-owned
+references when available; earlier style trials are not owner-approved
+anchors. An image that visibly drifts from the style lock is a draft needing
+revision, not a selected reference. Image-model output may vary despite
+identical instructions, so inspect and compare with the existing catalog.
+
+**Research is a hard prerequisite, not a generation stage.** Before producing
+*any* draft, check a campaign-qualified, time-specific, integrated appearance
+record for **every** named or visually distinctive depicted subject. A missing
+record, missing required state or material unresolved feature means **no image
+is generated**. Log each blocker in the separate
+[illustration research queue](ILLUSTRATION_RESEARCH_QUEUE.md), report it to
+the requester and use the subject-research workflow first. Incidental
+anonymous set dressing is not an entity unless it carries a specific lore
+identity. If the queue cannot be saved, stop rather than silently proceeding.
+
+For a completed image, verify its **actual pixel dimensions**, not only the
+requested size. If a generator returns another ratio/size, safely adapt
+within the same square canvas without cropping or stretching evidence-bearing
+features, or withhold it as an invalid output. Preserve exact prompt,
+style-guide version, subject IDs/state versions, references, output identity,
+review status and any corrections in a production record.
 
 ## Palette and lighting
 
@@ -184,10 +234,12 @@ files when warranted.
 
 ## Initial implementation and next work
 
-The [reusable template](ILLUSTRATION_SUBJECT_TEMPLATE.md) and a bounded
-[Fate 4 pilot](ILLUSTRATION_REFERENCES.md#wastes-fate-4) establish the written
-method. The pilot extracts existing documented evidence; it is not a fresh
-audio or image inspection and does not cover the vehicle's full history.
+The [reusable template](ILLUSTRATION_SUBJECT_TEMPLATE.md) and the
+[active Fate 4 subject reference](ILLUSTRATION_FATE4_REFERENCE.md) establish
+the written method. The original [v0.2 introduction pilot](ILLUSTRATION_FATE4_PILOT_0_2.md)
+is preserved, and the [transcript audit](../reports/FATE_4_TRANSCRIPT_AUDIT_2026-10-25.md)
+now supplies time-specific appearance changes through selected E066 scenes.
+These are ASR-based findings, **not** audio or direct source-image verification.
 
 The first [two-pass vehicle style study](../reports/ILLUSTRATION_STYLE_STUDY_2026-10-25.md)
 has been generated and visually reviewed by the assistant. Its second pass
@@ -196,9 +248,12 @@ areas, bringing it closer to the requested direction. Neither pass is an
 owner-approved style or a definitive Fate 4 design. The report preserves
 both exact prompts, output identifiers and provisional appearance choices.
 
-Next: verify the pilot's source images and their applicable era, refine
-the rendering from feedback, and develop recurring subjects one at a time
-from source-supported descriptions. A character study should test faces,
-expressions and proportions; the vehicle trial does not establish those.
+The original Fate 4 style previews lacked transcript-described solar
+panels and the dragon-skull front, so they are **rendering studies only**,
+not accurate selected continuity sheets. Next: directly inspect the source
+images and their applicable era, resolve remaining scene-specific details,
+and develop a revised multi-view Fate 4 study. Then extend the same
+entity-research workflow to a character, whose facial expressiveness and
+anatomical proportions still require their own style test.
 Update [the backlog](BACKLOG.md#illustration-style-and-continuity-2026-10-25)
 as those tasks are completed.

@@ -1,6 +1,6 @@
 # Delvers — places
 
-**Spoilers through S1E10. Evidence:** ASR-provisional; names awaiting listening are explicitly provisional.
+**Spoilers through S1E11. Evidence:** ASR-provisional; names awaiting listening are explicitly provisional.
 
 | Place | Scope and reference |
 | --- | --- |
@@ -14,8 +14,8 @@
 | Kord's mountain sanctuary / cryptnasium | Athletic graveyard; fountains cleansed, Studwell defeated and Meatball and Sultan rescued. [S1E02 evidence](../episodes/S1E02.md) |
 | Forest limestone sinkhole and dungeon | Grick-scout site, trapped passages and chest; unexplored deeper structure. [Profile](places/grick-sinkhole.md) |
 | Veggie Sticks's hollow stump | Woodland hermit's home with animated plants, near hippogriff habitat. [Profile](characters/veggie-sticks.md) |
-| [Kuo-toa lakeshore village](places/kuo-toa-lakeshore-village.md) | Freshwater neighbors offered fish/pearls for peaceful guild inquiry; **Koh mistaken for god**, trader Glepo Ma accepts horses and requests staff; no return yet |
-| [Submerged lake ruins](places/submerged-lake-ruins.md) | Familiar ancient traps underwater; **Krandal wears Ring of Protection**, ritualist alive and bound below at cutoff; divinity/Dunes claims unresolved |
+| [Kuo-toa lakeshore village](places/kuo-toa-lakeshore-village.md) | Freshwater neighbors offered fish/pearls for peaceful guild inquiry; **Koh mistaken for god**, trader Glepo Ma gives conch staff to threatening collector, later swims west to warn bullywugs; **Delvers return and depart on horses with three living prisoners** |
+| [Submerged lake ruins](places/submerged-lake-ruins.md) | Familiar ancient traps underwater; **Krandal wears Ring of Protection**, **Delvers escape and leave village**; Wand of Secrets and broken geared disc found; tooth-framed gate remains unopened, divinity/Dunes claims unresolved |
 | [Temple of Pelor](places/temple-of-pelor.md) | Old sanctuary over **Hall of Penance dungeon stair** and **distinct humming main-altar shaft**; two elves unresponsive, cause not established; guild guards below |
 | Evelyn's north-side finishing school | Dormitories, formal gardens and classes; Evelyn keeps adventuring secret from Lady Vestal |
 | City workshops and markets | *Arcane To Go* (Gruber Lifton), *Pocket Punch Alchemy* (Goggles Granny), *Grapple and Tackle*, *Astral Hammers*, *Cleaned and Prestidigitation*; see [S1E05](../episodes/S1E05.md) |

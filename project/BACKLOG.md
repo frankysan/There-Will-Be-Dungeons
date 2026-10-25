@@ -54,11 +54,18 @@ reference or complete subject-appearance audit is implied.
 - [ ] Refine the rendering from feedback, then test a sourced character
   appearance for expression, proportion and consistency. A vehicle study
   alone does not validate those parts of the style.
-- [ ] Build recurring subject references one at a time from source
-  descriptions, starting with a bounded pilot. Preserve introduction
-  appearances, later states, temporary forms, source confidence, artistic
-  decisions and campaign separation. Track visually material discoveries
-  during subsequent episode research.
+- [x] Establish a first recurring subject record: the
+  [Fate 4 reference](ILLUSTRATION_FATE4_REFERENCE.md) now integrates the
+  [source audit](../reports/FATE_4_TRANSCRIPT_AUDIT_2026-10-25.md),
+  preserving its [original pilot](ILLUSTRATION_FATE4_PILOT_0_2.md),
+  introduction state A01, later changes, and provisional artistic choices.
+  This is **not** audio-verified or a completed full-history reference.
+- [ ] Complete Fate 4 source-image/era verification; triage remaining
+  later-season candidates, then revise the exterior/interior study with
+  the dragon-skull front, solar roof, purposeful combat handholds and
+  time-accurate roof patch. Obtain explicit selection feedback.
+- [ ] Apply the same entity-first method to a recurring character, with
+  provenance, time-specific features and anatomy/expression style tests.
 
 ## Documentation consolidation — Arcs One–Two (2026-10-21)
 

@@ -60,6 +60,17 @@ For a substantial search, publish a dated `reports/ILLUSTRATION_<CAMPAIGN>_<ENTI
 
 **Mandatory integration gate:** update `project/ILLUSTRATION_REFERENCES.md` or an indexed dedicated subject file with the evidence IDs, recognition baseline, complete supported states, conflicts, artistic decisions, existing illustration impact list and change log. The search report alone is **not** an integrated/finished reference. Preserve pre-existing state IDs and records; fix relevant source mistakes in separately bounded edits or log a precise correction task if unsafe to do now.
 
+**Research-queue handoff:** Before completing an entity requested through
+[the illustration research queue](../../../project/ILLUSTRATION_RESEARCH_QUEUE.md),
+inspect its matching `IRQ-####` entry and required scene/state. Update that
+entry to `resolved` **only after** the needed time-specific appearance
+evidence and drawable description are integrated in the register; record the
+active reference path, state/version and outstanding nonblocking limits.
+If research is still incomplete, leave the entry `queued`, `researching`
+or `blocked-access` with its exact next check. Completing research **never
+automatically generates** a previously blocked illustration; a new
+generation invocation must recheck *all* depicted subjects.
+
 Keep production evidence outside reader-facing, in-universe `world/` prose. Cross-link through indexes/footnotes without adding ASR uncertainties, timestamps or research boilerplate to narrative text.
 
 At the end of each phase persist a resumable checkpoint: campaign/entity ID, source revision, searched inventory, reviewed windows, files written, completed phase, pending integration/validation and **one next step**. Prefer `local/illustration-research/<campaign>-<entity>/` for local-only progress, otherwise a short clearly provisional report section. Do not claim a checkpoint was saved if a write failed. On continuation, resume the first incomplete phase instead of restarting the corpus sweep.
