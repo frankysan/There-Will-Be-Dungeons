@@ -1,5 +1,7 @@
 # Delvers — narrative histories
 
+[Season Two — The Forgotten Fortnight](SEASON_TWO.md) opens with Snake Island amnesia, Koh's former Brotherhood, Evelyn's family physician, Krandal's deeded farm and a sea hag, through S2E01 only.
+
 [The Darkest Delvers — The First Arc](SEASON_ONE_ARC.md) is the **complete eight-chapter narrative through the end of season one**. The four earlier chronological studies below remain available as detailed, source-linked narratives and are deliberately preserved rather than overwritten by the new arc synthesis.[^arc]
 
 [First jobs](FIRST_JOBS.md) follows Krandal, Koh and Evelyn from their first guild meeting through a sealed cave passage, Kord's restored sanctuary and a perilous grick-scout mission that uncovers a trapped dungeon. Three assignments bring mutual dependence, new discoveries and a four-day pause.[^guide]

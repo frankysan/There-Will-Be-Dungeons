@@ -1,6 +1,6 @@
 # Delvers — characters
 
-**Spoilers through S1E12 — Season One / first arc**. Evidence:** ASR-provisional. Working player-character spellings use the [written-source register](../../reports/DISCORD_SPELLING_2026-10-21.md); voice, exact utterances and historical sheet state remain unchecked. No later nicknames or surnames are backdated.
+**Spoilers through S2E01 — Season Two premiere, first arc already complete**. Evidence:** ASR-provisional. Working player-character spellings use the [written-source register](../../reports/DISCORD_SPELLING_2026-10-21.md); voice, exact utterances and historical sheet state remain unchecked. No later nicknames or surnames are backdated.
 
 | Character | Performer / introduction | Reference |
 | --- | --- | --- |
@@ -40,11 +40,12 @@ These short entries derive from [S1E01](../episodes/S1E01.md); NPC spellings rem
 | [Cheet](characters/cheet.md) | Cleric of Wee Jas, briefly captured with Broadside; **guild plans rehabilitation** after first arc, exact personal name **Merry/Mary** pending audio |
 | Solburn / Soulburn | Silver-rank warlock initially part of threatened rite, later **rescued and helps fight the roper**, guild clears him as influenced |
 | Big Bleeper Bloops (phonetic) | Kuo-toa ritualist subdued at lake; **arrives alive in guild cells** with Broadside and Cheet via Boonefellow's cart; subsequent disposition **not depicted**, sleeping god claim unverified |
-| Brother Maynard | Elder of [Pelor's temple](places/temple-of-pelor.md); entrusts Krandal with **Amulet of the Devout +1**. Two elves still unresponsive; Krandal/Evelyn tentatively understand Rianu's tapping as **funeral dirge**, not decoded cause |
-| Rianu Keeves (phonetic) | Elf monk/cleric originally assigned to perform Battersby wedding, now **unresponsive**, tapping a repeated pattern; [S1E09 evidence](../episodes/S1E09.md), ~02:31–02:39; spelling and cause uncertain |
+| Brother Maynard | Elder of [Pelor's temple](places/temple-of-pelor.md), entrusts Krandal **Amulet of the Devout +1**. Hall stair now boarded/guarded, many clergy departed, needs curse breakers; elf **Rianu still sleeping**, whispers “Kalizar” privately to Krandal |
+| Rianu Keeves (phonetic) | Elf still **alive/unconscious**; taps have ceased. **Krandal Cure Wounds heals sores then Revivify experimentally cast on living elf produces faint “Kalizar”**, still no awakening; Krandal keeps word private. [S2E01](../episodes/S2E01.md) |
 | Edgar Boonefellow, Norman Green, Faelan Ianya | **Living First Sons Brotherhood** trio assisting in S1E08 and S1E09; Faelan rescued from **Noble Hollow sacrifice** and Norman from collapse by Evelyn's healing; **both alive at first-arc end**. Do not equate S1E01 missing “Edgar” to Boonefellow; [S1E12](../episodes/S1E12.md) |
 | [Buck Broscale / Wildfire](characters/buck-broscale-wildfire.md) | **Living** red dragonborn silver warrior, healed by Krandal in S1E05; explicitly **brother of dead Brom** and now private psionic mentor to Koh, with his own stone circlet retained |
-| [Margaret Dupayton](characters/margaret-dupayton.md) | Evelyn's loyal roommate, makes **Bag of Hammer Holding** and magical alterations; in S1E10 actually **paints sleeping Evelyn decoy** with her friend's enchanted pigments, effectiveness untested; surname provisional |
+| [Margaret Dupayton](characters/margaret-dupayton.md) | Loyal roommate: maintains **Nolzur's painted sick-bed decoy for two weeks**, causing **Lord/Lady Blackwater** to send physician; Evelyn begins telling her private story, **not narrated**. Bag of Hammer Holding creator |
+| [Chuck Abnaz / Nasty](characters/chuck-abnaz.md) | Satyr **Cloven Brotherhood** ex-associate of Koh; **paid wife's doctors** then demanded fee/forgery return, with three associates. Koh refuses; threat unresolved |
 | Lady Vestal | Instructor at Evelyn's secret finishing school, distrustful of her absence |
 | [Enzo Vanderbuck Withers](characters/enzo-vanderbuck-withers.md) | Mirror-bound ancestor/necromancer at Skull Keep; claims a failed immortality rite divided him from the flameskull. His **Dawnless Dunes** prophecy is attributed testimony; reflected head dims after skull banishment |
 | [Alexandre Vanderbuck Withers](characters/alexandre-vanderbuck-withers.md) | Wealthy claimant/client seeking to reclaim family's keep, offers a preservation bonus and warns of mirrors. Precise genealogy and prior knowledge uncertain |

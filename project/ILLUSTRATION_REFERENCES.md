@@ -12,9 +12,20 @@ separate from the [research blocker queue](ILLUSTRATION_RESEARCH_QUEUE.md).
 | --- | --- | --- |
 | The Wastes | [Fate 4](#wastes-fate-4) | Source-audited, time-specific appearance states through E066; ASR-provisional, no approved model sheet. |
 | The Wastes | [Jimster's garage, Dusthill](#wastes-jimsters-garage-in-dusthill) | Early original/construction/secured/unveiling states; four-episode targeted transcript research with partial independent Qwen corroboration; no approved illustration. |
+| The Wastes | [Dusthill](#wastes-dusthill) | Red-rock hidden settlement, E001 opening / E005–E006 raid and aftermath; **owner-selected E001 aerial establishing illustration**, repository image transfer pending. |
 | The Wastes | [Nash Maggard](ILLUSTRATION_NASH_MAGGARD_REFERENCE.md) | Provisional, time-specific character and transformation states E000–E128; eight archived fan artworks inspected; no owner-approved model sheet. |
 | Inverse | No subject record yet | Shared art direction only; no imported Wastes appearances. |
 | Delvers | No subject record yet | Shared art direction only; no imported Wastes appearances. |
+
+## Wastes: Dusthill
+
+**Active subject reference:** [Dusthill — settlement appearance and continuity by story state](ILLUSTRATION_DUSTHILL_REFERENCE.md), v0.1 (2026-10-25). **ID:** `WASTES-DUSTHILL` (place); aliases `Dust Hill` (ASR/written variants). [Source audit](../reports/ILLUSTRATION_WASTES_DUSTHILL_AUDIT_2026-10-25.md).
+
+**Recognition:** A **small, concealed village in a red-rock mountain alcove**; giant boulders form a natural defensive rampart around a **winding, easily missed entrance**. There is a defended gate and rock-top positions, **mud huts**, a few long-used **wood/metal communal barns**, a **central valve-operated water outlet**, pictograms on village rock, rear **cave farms** with irrigation, and a rock-excavated salvage garage. A tent-side clearing/fire pit is identified in the E005 scene. This is not a documented street/floor plan.
+
+**Time states:** `WASTES-DUSTHILL-A01` (opening E001 village, before raid) and `WASTES-DUSTHILL-A02` (E005 attack and its immediate aftermath, through E006 assembly/departure). E005 refuge behind a barricade in the dark-farm caves, casualties and damage are established; exact ruined buildings or fires are **not**. The working surface outlet and Fate 4 departure are specifically **E006**. The town's later physical condition is unresearched. Use [the full state instructions](ILLUSTRATION_DUSTHILL_REFERENCE.md#appearance-state-timeline), not an undated generic-desert-town design.
+
+**Verification / impact:** GM opening narration directly compared across two ASR exports; selected E005 primary windows read; other material inherited with explicit limits. **No original audio listened to.** Campaign-end JSON notes treated only as reference leads. Selected E006 Fate 4 garage image was checked by file identity/metadata, **not pixels**, and has no currently evidenced town-specific revision flag. No approved standalone Dusthill model sheet.
 
 ## Wastes: Fate 4
 

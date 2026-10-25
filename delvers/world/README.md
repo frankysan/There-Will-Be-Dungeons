@@ -1,10 +1,13 @@
 # Delvers — world reference
 
-**Spoilers through Delvers S1E12 — Season One/first-arc finale — plus the separately archived S2E00 interlude, whose story time is earlier**. Evidence:** full dual-ASR text research, not audio-verified. This reference describes Delvers's separate reality. Handout statements and NPC claims retain their attribution.
+**Spoilers through Delvers S2E01 — Season Two premiere, after Season One / first arc ending S1E12; S2E00 is an earlier in-universe interlude despite archive label**. Evidence:** full dual-ASR text research, not audio-verified. This reference describes Delvers's separate reality. Handout statements and NPC claims retain their attribution.
 
 | Read about | Reference |
 | --- | --- |
 | The first party and named people | [Characters](CHARACTERS.md) |
+| Forgotten island expedition | [Snake Island](places/snake-island.md) |
+| Krandal's ruined riverside property | [Potato Grove](places/potato-grove.md) |
+| Koh's former criminal associate | [Chuck Abnaz](characters/chuck-abnaz.md) |
 | The city's embattled guildmaster | [Cassius](characters/cassius.md) |
 | Central funding hall and Academy board | [Dungeon Guild Academy](places/dungeon-guild-academy.md) |
 | Monsters, including gricks and Skull Keep's flameskull | [Creatures and monsters](CREATURES_AND_MONSTERS.md) |
@@ -36,7 +39,7 @@
 | Played order and actual cutoff | [Chronology](CHRONOLOGY.md) |
 | Uncertain names, knowledge and custody | [Consistency ledger](CONSISTENCY_LEDGER.md) |
 
-[S1E01 dossier](../episodes/S1E01.md) through [S1E12 finale dossier](../episodes/S1E12.md) own detailed timestamped investigations. [The Darkest Delvers — The First Arc](../narrative/SEASON_ONE_ARC.md) offers a complete eight-chapter in-universe synthesis while the earlier detailed narratives remain preserved. [First jobs](../narrative/FIRST_JOBS.md) and [The Rise to Bronze](../narrative/THE_RISE_TO_BRONZE.md), and [Skull Keep and the Dawnless Dunes](../narrative/SKULL_KEEP.md), and [The Wells of Atomer](../narrative/THE_WELLS_OF_ATOMER.md) offer connected narrative; the [review queue](../REVIEW_QUEUE.md) owns listening tasks.
+[S1E01 dossier](../episodes/S1E01.md) through [S1E12 finale dossier](../episodes/S1E12.md) own first-arc timestamped investigations; [S2E01 premiere](../episodes/S2E01.md) begins the separately documented [Season Two chronicle](../narrative/SEASON_TWO.md). [The Darkest Delvers — The First Arc](../narrative/SEASON_ONE_ARC.md) offers a complete eight-chapter in-universe synthesis while the earlier detailed narratives remain preserved. [First jobs](../narrative/FIRST_JOBS.md) and [The Rise to Bronze](../narrative/THE_RISE_TO_BRONZE.md), and [Skull Keep and the Dawnless Dunes](../narrative/SKULL_KEEP.md), and [The Wells of Atomer](../narrative/THE_WELLS_OF_ATOMER.md) offer connected narrative; the [review queue](../REVIEW_QUEUE.md) owns listening tasks.
 
 [Delvers campaign index](../README.md)
 
