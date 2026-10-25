@@ -1,12 +1,13 @@
 # Delvers — characters
 
-**Spoilers through S2E12 — END SECOND STORY ARC; actual Bronze Ball, Gentleman Traveler/Princess Hissia, Withers/Wildfire fall below, active Drone/compelled elves, first Delvers arc already complete**. Evidence: ASR-provisional. Working player-character spellings use the [written-source register](../../reports/DISCORD_SPELLING_2026-10-21.md); voice, exact utterances and historical sheet state remain unchecked. No later nicknames or surnames are backdated.
+**Spoilers through S3E03 — new guest halfling bard/correspondent Dumbledwark enters; reporter gets C4 licence and steals warlock's tome while Cassius remains unavailable, before any C4 dungeon expedition.** Earlier S2E12 second-arc events remain historical. Evidence: ASR-provisional. Working player-character spellings use the [written-source register](../../reports/DISCORD_SPELLING_2026-10-21.md); voice, exact utterances and historical sheet state remain unchecked. No later nicknames or surnames are backdated.
 
 | Character | Performer / introduction | Reference |
 | --- | --- | --- |
 | Krandal Splenderbelt | Scott; half-orc cleric, official Silver knight **Splenderbelt the Efficient**, exam **B/S/C** | [Profile](characters/krandal-splenderbelt.md) |
 | Koh Spiros | Jon; satyr rogue, official Silver knight **One Shot**, exam **S/A/A** | [Profile](characters/koh-spiros.md) |
 | Evelyn Grinkeeper | Kristen; human paladin, official Silver knight **Grinkeeper the Defender**, exam **S/S/A** | [Profile](characters/evelyn-grinkeeper.md) |
+| Dumbledwark of Raisinbunch | **Bo Schwartz, guest in S3E03**; elderly halfling bard and dungeon correspondent for *The Daily Quest*; **not established as permanent party member** | [Profile](characters/dumbledwark-of-raisinbunch.md) |
 
 ## Guild people and reported absences
 

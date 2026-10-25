@@ -1,0 +1,71 @@
+{
+  "schema_version": 1,
+  "campaign": "Wastes",
+  "character": "Stanley Billings",
+  "subject_id": "WASTES-STANLEY-BILLINGS",
+  "sheet_id": "WASTES-STANLEY-BILLINGS-DS-001",
+  "state_id": "WASTES-STANLEY-BILLINGS-A01",
+  "episode": "E001",
+  "style_guide": "v0.6",
+  "status": "VISUAL_APPROVED_REGISTRATION_PENDING",
+  "owner_decision": {
+    "date": "2026-10-25",
+    "exact_combined_two_page_sheet_visual_approval": true,
+    "utterance": "Yes, approved.",
+    "repo_complete": false
+  },
+  "pages": [
+    {
+      "number": 1,
+      "role": "four-view turnaround",
+      "proposed_path": "illustrations/references/Stanley_Billings_E001_Sheet_01_Turnaround_1024_sRGB.png",
+      "sha256": "c476e8d2f7063f7e2588166d91464d245e329aab03baee40ca52436f3834d04b",
+      "bytes": 345442,
+      "pixels": [
+        1024,
+        1024
+      ],
+      "mode": "RGB",
+      "icc": "sRGB built-in",
+      "icc_bytes": 588,
+      "repo_registered": false
+    },
+    {
+      "number": 2,
+      "role": "full face reference",
+      "proposed_path": "illustrations/references/Stanley_Billings_E001_Sheet_02_Face_1024_sRGB.png",
+      "sha256": "8360a6e3720e8df495819a1e7338b1557feccbe162a436082cdf70323354b128",
+      "bytes": 1305953,
+      "pixels": [
+        1024,
+        1024
+      ],
+      "mode": "RGB",
+      "icc": "sRGB built-in",
+      "icc_bytes": 588,
+      "repo_registered": false
+    }
+  ],
+  "back_anchor_production_derivative": {
+    "description": "Compliance conversion of owner-approved back image, 1254-square untagged RGBA (all alpha opaque), treated as assumed sRGB, proportionally resized Lanczos to 1024-square RGB with embedded 588-byte sRGB ICC; no redesign.",
+    "proposed_path": "illustrations/references/Stanley_Billings_E001_Back_v2_1024_sRGB.png",
+    "sha256": "d3d3d1d658c01a089f5fd2b6485ac01d85ccdcfcd1bb4ee3a39e98b988d112c7",
+    "bytes": 1009023,
+    "repo_registered": false
+  },
+  "checks": {
+    "local_png_decode": "PASS",
+    "page_dimensions": "PASS",
+    "page_srgb_icc": "PASS",
+    "owner_final_visual_approval": "PASS",
+    "repo_binary_upload": "PENDING",
+    "repo_readback_sha256": "PENDING",
+    "twbd_tests": "NOT RUN"
+  },
+  "report": "reports/ILLUSTRATION_STANLEY_E001_SHEET_FINAL_VISUAL_APPROVAL_2026-10-25.md",
+  "notes": [
+    "Paths above are intended repository destinations and are not assertions of image file existence.",
+    "Owner's visual approval is preserved. Promote to OWNER_APPROVED only after matching repo registered binaries.",
+    "Page 2 is pixel-identical to the supplied face image but PNG encoding differs from older approved repository face anchor."
+  ]
+}

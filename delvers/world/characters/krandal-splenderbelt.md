@@ -1,5 +1,10 @@
 # Krandal Splenderbelt — cleric
 
+## S3E03: Gilded potato, public sales and a truth-telling slip
+
+The farm's produce is now **ACTUALLY FOR SALE**, with employee **Glepo Ma at a potato stall in Atomer's market**; fields appear **harvested and replanted**, but **revenue, harvested quantity and business profitability remain unstated**. Guest journalist [Dumbledwark of Raisinbunch](dumbledwark-of-raisinbunch.md) visits and **physically gives Krandal a commissioned GILDED POTATO trophy**, which Krandal likes. Krandal explains his sincere wish is to **serve Pelor and nourish people while earning enough to support his farm and workers**, rather than maximize wealth. **Krandal signs consent to and ACTUALLY undergoes reporter's Zone of Truth**, and inadvertently **tells reporter that Koh took bank money while the party was “helping” clear the damaged bank**. He still defends Koh's family loyalty and refuses to pressure him into magical interrogation. Dumbledwark **photographs Krandal**. In source of episode title, Krandal **ACTUALLY accepts Dumbledwark's bodily-waste “deposit” into his compost box**; Krandal's claim it will feed a handful of future potatoes is only a prediction. At cutoff **no return to formal guild quests or C4 entry**; Zoltar has only promised a change for next day. [S3E03](../../episodes/S3E03.md).
+
+
 ## S3E02: Growing the farm under threat
 
 Across the three-month interval Krandal **purchases for 8 gp the reddish-brown beast of burden Sean** (called **donkey** by the GM and **mule** by the player), **hires Bullywug Muck Muck on probation**, and divides farming work between Muck Muck, **Gleepo Ma** and **Noparopa**, keeping Chad/Brad the skull-scarecrow as lookout. The **Goodwines' plow and Pelor's Tome** help, but **their 80,000-gp investment is STILL NOT accepted**. After poor early potato yield (8/20), Krandal **actually spends 3,500 gp on barn materials** and places Noparopa in charge; the barn **is built in a week**, its roof gables bearing snake-head carvings. Later crops show improved growth, **not a verified cash harvest**. **Samuel, his hook-horror egg**, has not been shown to hatch or change custody.

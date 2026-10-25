@@ -1,9 +1,11 @@
 # Delvers — world reference
 
-**Spoilers through Delvers S3E02:** Bronze Ball catastrophe and second-arc cliffhanger S2E12; **played three-month transition finishes with new Silver City guild raid/questing licence regime**, Evelyn returns to Atomer, Koh's red-crystal detector upgraded, Krandal's barn built; **Khalazar's ultimate fate and Cassius inquiry not resolved**. S2E00 is earlier narrated fiction despite archive label. [Episode dossier](../episodes/S3E02.md). Evidence: full dual-ASR text research, not audio-verified. This reference describes Delvers's separate reality. Handout statements and NPC claims retain their attribution.
+**Spoilers through Delvers S3E03:** Bronze Ball catastrophe and second-arc cliffhanger S2E12; **played three-month transition finishes with new Silver City guild raid/questing licence regime**, Evelyn returns to Atomer, Koh's red-crystal detector upgraded, Krandal's barn built; **Khalazar's ultimate fate and Cassius inquiry not resolved**. **S3E03 adds Dumbledwark's new C4 licence and stolen warlock's tome, but Zoltar's promised release of grounded Delvers is not yet performed and no C4 raid occurs.** S2E00 is earlier narrated fiction despite archive label. [Episode dossier](../episodes/S3E03.md). Evidence: full dual-ASR text research, not audio-verified. This reference describes Delvers's separate reality. Handout statements and NPC claims retain their attribution.
 
 | Read about | Reference |
 | --- | --- |
+| Guest Bo Schwartz's halfling bard and newspaper correspondent, holder of C4 licence | [Dumbledwark of Raisinbunch](characters/dumbledwark-of-raisinbunch.md) |
+| Warlock's tome actually stolen from former Cassius office by Dumbledwark | [Stolen tome](items/stolen-warlocks-tome.md) |
 | The guest wood-elf burglar and demolitionist | [Shrugs Manaspoon](characters/shrugs-manaspoon.md) |
 | Koh's wife RESCUED and physically awake in S2E10 | [Anthela Spiros](characters/anthela-spiros.md) |
 | Khalazar's two described psychic forms, unresolved real-world fate | [Khalazar](characters/khalazar.md) |

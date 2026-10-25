@@ -1,5 +1,8 @@
 # Glepo Ma — kuo-toa riverside farmhand
 
+**S3E03 update:** Glepo Ma **actually operates a Potato Grove/Splenderbelt Farms potato stall in Atomer's marketplace**, actively offering/selling potatoes to the public; visiting journalist Dumbledwark speaks with him and **purchases a potato** to have it gilded as a gift for Krandal. This **supersedes S3E02's “no verified sales yet” as a later event**, but exact quantity, price, accumulated revenue and profitability remain unestablished. He wears the **Robin Hood-style feathered hat and satchel**, and his physical color remains grounded in earlier description. [S3E03](../../episodes/S3E03.md).
+
+
 **Working canonical spelling:** **Glepo Ma**, already used in the earlier [kuo-toa village](../places/kuo-toa-lakeshore-village.md) reference; **S2E11 ASR often renders “Gleepo Ma.”** Spoken pronunciation and GM-written notes not checked. **Delvers-only character**, a fish-person from earlier **kuo-toa lake village**, now directly encountered near [Krandal's Potato Grove](../places/potato-grove.md) in **[S2E11 — New High Score](../../episodes/S2E11.md)**. Previously only an **unidentified fishman watching the farm** was reported by minotaur skull Chad in S2E06/S2E09; **direct visual identification now occurs**, distinct from **Gil**. Do not assume every earlier unidentified lakeside figure was Gleepo without further source alignment.
 
 ## Appearance and presentation

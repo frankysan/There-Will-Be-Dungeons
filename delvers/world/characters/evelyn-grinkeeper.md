@@ -1,5 +1,10 @@
 # Evelyn Grinkeeper — paladin
 
+## S3E03: Interview below the school's fountain
+
+Evelyn is **actually present in the hidden Loran Ilfelkyr base below the school fountain** when Lady Vestal fetches her for an interview with new guest journalist **[Dumbledwark of Raisinbunch](dumbledwark-of-raisinbunch.md)**. **GM says she has gained access to the base, but S3E03 does not depict how she overcame S3E01's locked inner door**, nor what she saw inside. She wears **Lady Blackwood dress for the meeting**, openly identifies herself to the journalist as **Evelyn Blackwood, only heir of her wealthy family**, known publicly as **Grinkeeper the Defender**, a paladin. She believes **Cassius innocent** and hints she thinks he may be **in love with Selenar Everbloom**—**her impression, not established relationship**. She expresses interest in Dumbledwark documenting a **future adventure**, **not full party consent or a raid entered today**. **He photographs the other students, but FORGETS to take her portrait.** After the interview she returns to the hidden school area. [S3E03 dossier](../../episodes/S3E03.md).
+
+
 ## S3E02: The Blackwoods acknowledge their daughter
 
 Evelyn **actually makes the five-day journey to Vermicity/Western Towers** with Dr Ripart, returning to parents who continue to describe her as frail despite no observed debilitating illness. Her mother and father announce an **arranged marriage plan to Julian Thomas**, heir to a trading family. Evelyn **refuses Julian directly**, tells her parents she is a god-blessed paladin, and is met with disbelief and **house restrictions**. Julian's later awkward renewed proposal is **also declined**, not an engagement. She sends letters to guild friends and has Margaret distribute **anonymous heroic pamphlets praising Cassius and the Delvers**; these eventually appear across Atomer, but **do not secure Cassius's release**.

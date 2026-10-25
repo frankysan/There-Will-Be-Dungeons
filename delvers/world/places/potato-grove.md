@@ -1,5 +1,12 @@
 # Potato Grove — Krandal's riverside tower
 
+## S3E03: Harvested plots, a gilded potato and the unusual deposit
+
+In [S3E03](../../episodes/S3E03.md), guest reporter [Dumbledwark](../characters/dumbledwark-of-raisinbunch.md) visits by centaur Allspice. Farm now **visibly has a completed barn, irrigation, two fields and harvested/replanted plots**, bordering corrupted Noble Hollow. **Glepo Ma actually sells potatoes at a market cart in town**, so this is a **later verified sales activity**, unlike S3E02's no-established-harvest cutoff, although no money totals or profit are quantified. Dumbledwark gifts Krandal a **physically gilded potato on removable plaque**, commissioned from a blacksmith after buying one of Glepo Ma's own potatoes. **Muck Muck** hunts pests, **Noparopa** works the soil, and Chad/Brad's cow/minotaur-skull scarecrow still watches.
+
+Krandal **actually signs/enters guest reporter's Zone of Truth**, unwittingly disclosing that Koh stole from the bank, but refuses to force Koh into another truth interview. Later he receives a **literal bodily-waste deposit** in his compost box from Dumbledwark. **No actual crop from this fertilizer is yet grown, and no extra sale or Goodwine investment follows from it**. The events explain the episode's title without turning jokes about manure into completed agricultural results.
+
+
 ## S3E02: Working fields and the newly built barn
 
 During the **actual three-month montage** after the Bronze Ball, Krandal **purchases an eight-gold donkey/mule called Sean**, puts his **Goodwine-donated Kingdom Light metal plow** to use, and **accepts Bullywug Muck Muck on a two-week trial** under Gleepo Ma, with Noparopa handling large field tasks. Chad/Brad the minotaur skull remains the lookout; no full rescinding of its existing care arrangement is described. He reads the **mortal-authored Pelor's Tome of Agriculture** and learns to pre-sprout potatoes away from direct light: **initial yield is disappointing (GM 8/20 nature result)**. He **spends ~3,500 gp on materials for a seed barn/tool loft**, puts Noparopa in charge and **the barn is actually completed after a week**, with distinctive serpent-head roof decorations. Later plants take root and the farm grows, but **no precise final crop count, money from harvest, or signed 80,000-gp Goodwine investment** exists at S3E02 cutoff. Farm map was sent via cast Slack during recording; original image not independently inspected.
