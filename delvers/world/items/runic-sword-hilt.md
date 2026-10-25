@@ -20,9 +20,15 @@ When Koh took the hilt, a long cyan-blue blade appeared at his thought, bright a
 
 The blade proves itself not merely a curiosity when Koh faces the flameskull above Enzo Keep. Arrows glance against the flying bone, but the psychic edge pierces without leaving ordinary cuts. Koh strikes through the skull's defenses, destroying it with the last blow. The strange weapon does not leave the head marked as a steel blade would; after the creature loses its force, Evelyn's holy water reduces it to ash. Koh keeps both the weapon and the two fiery-colored garnets recovered from the remains.[^tower]
 
+## The blade without a hilt
+
+Koh's blade changes again in the blacksmith's shop. His decisive strike against the rust monster causes the ancient stone-metal grip to crumble, while the blue psychic projection remains. After his lessons with Wildfire, Koh can now shape the blade without the artifact that first awakened it.[^freed]
+
 ## Current status
 
-The **Soul Knife belongs to Koh**, and its psychic damage has now been used to **kill the Skull Keep flameskull**. The blade still seems nonsentient and does not make ordinary physical marks in its target, but its full abilities and origin are unknown. Koh also carries the recovered garnets. The Masked Mage's statements about scions remain attributed claims, not settled artifact history.[^tower]
+The **physical Soul Knife hilt is gone**, but **Koh can manifest the psychic blade without it**. This development is played in S1E07, not simply predicted by Wildfire. Its psychic nature and the two garnets from Skull Keep remain separate from the artifact's now-lost material components.[^freed]
+
+[^freed]: [S1E07 dossier](../../episodes/S1E07.md), ~01:48–01:51. Physical hilt crumbles on Koh's critical hit against the rust monster, but the psychic weapon persists as an ability without it. No replacement hilt is found.
 
 [^tower]: [S1E06 dossier](../../episodes/S1E06.md), ~02:48–02:59. Koh's Soul Knife strikes deal psychic damage despite flameskull's physical resistance; killing blow and two-garnet pickup are played. Dousing uses Evelyn's holy water; do not claim a generic immunity bypass beyond this scene.
 

@@ -34,9 +34,17 @@ The guild's next ceremony is modest but memorable. Cassius summons the three fri
 
 Cassius sends them north with Aegis and a client from the old Withers family. The keep they visit has been haunted by a flameskull and its animated servants. The Darkest Delvers return after sundown with the skull destroyed, news of an earlier party's fate and a new account of an old darkness beneath the lake. They receive payment for their work, reduced somewhat by the damage done to the furnishings their client wished to preserve.[^report]
 
+## A citywide warning
+
+The silver ranks become occupied investigating the forest dungeon while lesser horrors appear throughout the city's neighborhoods. Carrie Underworld studies sightings of darkmantles, stirges, piercers and gricks, proposing that prey and predators are following one another toward the surface. She and Cassius gather leaders from four bronze companies, allowing the entire Darkest Delvers group to attend because their past discoveries have become central to the problem. The guild sends teams to investigate public wells, keeping Brigand Patrol ready to respond.[^wells]
+
+The first report comes from the southwestern quarter. It speaks of a rust monster, a mimic and a stirge, but the adventurers have not looked into the well itself. Cassius immediately dispatches a guard and insists that the matter remain open until the water source can be inspected. A victory over monsters in the street is no longer sufficient proof that the danger has passed.[^wells]
+
 ## Current status
 
-**Koh, Evelyn and Krandal now hold bronze guild badges**, and Koh retains the shared **brass guild-library key**. The Darkest Delvers have **completed Skull Keep**, their first mission in that rank, and reported their findings to Cassius. Their client Alexandre Vanderbuck Withers promises a post-inspection preservation bonus; the precise individual accounting remains unsettled. The guild no longer holds Koh's Soul Knife, and the earlier grick-dungeon claim still has no demonstrated exclusive ownership resolution.[^report]
+The guild has **begun a coordinated investigation of city wells** while silver-ranked members continue work at the forest ruins. **Brigand Patrol is guarding the southwestern well**, where the Darkest Delvers have defeated several creatures but **not yet descended to check the water**. The three bronze adventurers are returning with concrete for a possible repair. The guild's predator-chain theory and unusual black ichor observations are **leads, not confirmed explanations**. The old conditional grick-dungeon claim and Skull Keep's mirror remain unresolved.[^wells]
+
+[^wells]: [S1E07 dossier](../../episodes/S1E07.md), ~00:45–01:10 and ~02:20–02:33. Carrie and Cassius present ecological hypotheses, not proved mechanisms; first return proves surface threats only, Cassius orders guard plus actual inspection. Exact other-party well assignments await original map.
 
 [^bronze]: [S1E06](../../episodes/S1E06.md), ~00:02–00:10 and ~00:20–00:25. Library key physically taken by Koh; bronze badges exchanged now, unlike S1E05's approval. Adventuring-guide original handout/PDF not independently read.
 [^report]: [S1E06](../../episodes/S1E06.md), ~00:25–00:33 and ~02:59–03:03. Flameskull finally destroyed with holy water, servants inert, Cassius told of Enzo's claims. Base 350 and bonus about 400 quoted, per-member final sum needs verification.

@@ -1,6 +1,6 @@
 # Delvers — places
 
-**Spoilers through S1E06. Evidence:** ASR-provisional; names awaiting listening are explicitly provisional.
+**Spoilers through S1E07. Evidence:** ASR-provisional; names awaiting listening are explicitly provisional.
 
 | Place | Scope and reference |
 | --- | --- |
@@ -17,6 +17,7 @@
 | Temple of Pelor | Sunlit sanctuary near guild with beds and healing; Krandal volunteers under Brother Maynard |
 | Evelyn's north-side finishing school | Dormitories, formal gardens and classes; Evelyn keeps adventuring secret from Lady Vestal |
 | City workshops and markets | *Arcane To Go* (Gruber Lifton), *Pocket Punch Alchemy* (Goggles Granny), *Grapple and Tackle*, *Astral Hammers*, *Cleaned and Prestidigitation*; see [S1E05](../episodes/S1E05.md) |
+| [Southwestern town well](places/southwestern-town-well.md) | **Uninspected** public drinking-water well; rust monster, mimic and stirge slain nearby; Brigand Patrol guards it while Delvers return with **unused concrete** |
 | [Skull Keep / Enzo Keep](places/skull-keep.md) | **First completed bronze assignment.** 130-year-old Withers family estate over mountain lake with animated skeletal servants and a mirror-bound necromancer. Flameskull banished; mirror still present |
 
 [World portal](README.md) · [S1E01 evidence](../episodes/S1E01.md) · [Open checks](CONSISTENCY_LEDGER.md)

@@ -87,6 +87,10 @@ species lore. Campaign originality is a research question, not an entry gate.
 | The Wastes | [Riding raptors](../world/creatures/riding-raptors.md) | E027–E028's hunters, combat and hide repair; E064's escape mounts and release, with later individual fates unresolved |
 | The Wastes | [Green-case mimic](../world/creatures/green-case-mimic.md) | Selected E008 transcripts establish its disguise, grappling tongue, death and corpse find; no full stat block inferred |
 | The Wastes | [Eight-legged facility predator](../world/creatures/eight-legged-facility-predator.md) | Selected E008 transcripts establish eight legs, teleportation and survival; species, taming and final fate remain unresolved |
+| The Wastes | [Gibbering mouther](../world/creatures/gibbering-mouther.md) | Selected E009 transcripts establish anatomy, attempted absorption, Chance's rescue and the mouther's death; ASR disagreement about ending sounds retained |
+| The Wastes | [Mushroom-pit spider](../world/creatures/mushroom-pit-spider.md) | Selected E044 transcripts establish concealment/color change, death and use as food; no fixed species, intrinsic spore power or mushroom diet |
+| The Wastes | [Pale tentacled burrower](../world/creatures/pale-tentacled-burrower.md) | Selected E042/E045 transcripts establish warning, retreat, burrowing and a later stone likeness; species and individual relationship unresolved |
+| The Wastes | [River undead](../world/creatures/river-undead.md) | Selected E045/E046 transcripts establish undead forms, untranslated chanting and defeat; intelligence and former identities remain unknown |
 | Delvers | [Gricks](../delvers/world/creatures/gricks.md) | S1E01 identification and S1E03 sinkhole predators; no invented S1E02–S1E03 transition or cleared dungeon |
 
 Squirts, Henatar/Henitar Grape and the imprisoned black dragon remain character
@@ -105,8 +109,8 @@ from supported material, preserving unknown fates and source limitations.
 
 The [initial season-wide dossier search](../reports/WASTES_S1_CREATURE_SEARCH_2026-10-24.md)
 and [machine-readable inventory](../reports/WASTES_S1_CREATURE_SEARCH_2026-10-24.json)
-record 32 additional candidate subjects or research clusters: fifteen now published
-(sand squid, all twelve initially draftable candidates and two source-reviewed leads), none awaiting initial drafting, 15 requiring focused review and
+record 32 additional candidate subjects or research clusters: nineteen now published
+(sand squid, all twelve initially draftable candidates and six source-reviewed leads), none awaiting initial drafting, 11 requiring focused review and
 two from the separately placed Wastes-setting Christmas one-off. The initial
 scan covers 130 available
 E-numbered dossiers; it is not a full transcript or audio review and excludes
@@ -121,7 +125,11 @@ purple sands**, **Outlands wyverns** and **tentacled purple fungi** are also
 published, along with the **riding raptors**, completing the initial draftable
 set. The **green-case mimic** and **eight-legged facility predator** are also
 published after [targeted transcript review](../reports/FACILITY_CREATURE_SOURCE_REVIEW_2026-10-25.md).
-Next are the **gibbering mouther** and **concealing mushroom-pit spider** for
-focused review before further publication. These creature
+The **gibbering mouther** and **mushroom-pit spider** are published after their
+[targeted transcript review](../reports/MOUTHER_AND_SPIDER_SOURCE_REVIEW_2026-10-25.md).
+The **pale tentacled burrower** and **river undead** are published after their
+[targeted transcript review](../reports/CAVERN_AND_RIVER_CREATURE_SOURCE_REVIEW_2026-10-25.md). The undead entry retains untranslated speech and unresolved personhood.
+Next are the **froghemoth gut inhabitants** and **bloodsucking desert swarm**,
+with distinct organisms and uncertain species still to resolve. These creature
 publications do not advance an episode-research pointer. Follow the report's
 specific identity, agency and source checks when continuing.

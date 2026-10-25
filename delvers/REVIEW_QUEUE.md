@@ -1,10 +1,10 @@
 # Delvers — source, listening and editorial review queue
 
-**Status 2026-10-25:** **S1E01–S1E06 have ASR-provisional text research**. Genuine S1E03 was recovered as three `(corrected)` SRT exports; the older uncorrected S1E03-named SRTs remain **mislabeled copies of S1E04**. No original audio has been listened to. This queue remains independent of Wastes and Inverse.
+**Status 2026-10-25:** **S1E01–S1E07 have ASR-provisional text research**. Genuine S1E03 was recovered as three `(corrected)` SRT exports; the older uncorrected S1E03-named SRTs remain **mislabeled copies of S1E04**. No original audio has been listened to. This queue remains independent of Wastes and Inverse.
 
 ## Next bounded Delvers research
 
-**Next: Delvers S1E07 — The Well Might Be Bugged.** Both [Parakeet](../sources/Delvers%20S1E07.%20The%20Well%20Might%20Be%20Bugged.parakeet.processed.srt) and [Qwen Q8](../sources/Delvers%20S1E07.%20The%20Well%20Might%20Be%20Bugged.qwen-q8.canary-ctc.nemotron.srt) source paths have been confirmed at the S1E06 input revision. The completed [S1E06 dossier](episodes/S1E06.md) and [ASR comparison](../reports/DELVERS_S1E06_ASR_COMPARISON_2026-10-25.md) report **1,475 / 23,887 = 6.17%** ordered inter-ASR word disagreement, **not accuracy**. No audio listened.
+**Next: Delvers S1E08 — Need any help down there.** The next title and source paths are in [the inventory](SOURCE_INVENTORY.md). [S1E07 dossier](episodes/S1E07.md) and [ASR comparison](../reports/DELVERS_S1E07_ASR_COMPARISON_2026-10-25.md) document **7.05% P/Q disagreement**. S1E07 ends with an **uninspected southwestern well**, Brigand Patrol on watch, and the Delvers heading back with **unused concrete**. Koh's hilt-free psychic blade, Wildfire/Brom Broscale, Margaret's bag, the guild's unverified ecological hypotheses and corrected item custody are all documented in that dossier. The completed [S1E06 dossier](episodes/S1E06.md) and [ASR comparison](../reports/DELVERS_S1E06_ASR_COMPARISON_2026-10-25.md) report **1,475 / 23,887 = 6.17%** ordered inter-ASR word disagreement, **not accuracy**. No audio listened.
 
 **S1E06 cutoff:** All three have **unnumbered bronze badges** (S1E05 only promised the ceremony), **Koh holds one shared guild library key**. The Darkest Delvers complete **Skull Keep**, Koh kills its flameskull with Soul Knife and bags **two orange garnets** after **Evelyn applies one of two holy-water jars**. Servants stop moving; **Enzo's mirror dims without verified destruction**. Paid guild contract stated as 350 gold, later **about 400 bonus gold** after antique damage (final per-person accounting open). **XP off-air; no level-up demonstrated**. Enzo's **Dawnless Dunes** warning is NPC testimony, not verified cosmology. **Evelyn reveals she seeks someone**, identity undisclosed; Koh questions Enzo about a paralytic condition but does not name his wife. See [Skull Keep profile](world/places/skull-keep.md), [Enzo](world/characters/enzo-vanderbuck-withers.md) and [consistency ledger](world/CONSISTENCY_LEDGER.md).
 
@@ -14,6 +14,7 @@
 
 | Episode | Coverage and products | Limits |
 | --- | --- | --- |
+| **Delvers S1E07 — The Well Might Be Bugged** | [Dossier](episodes/S1E07.md), [P/Q8 comparison](../reports/DELVERS_S1E07_ASR_COMPARISON_2026-10-25.md); full P and targeted Q, **7.05% disagreement** | Text only; no original audio; well remains uncleared at cutoff |
 | **Delvers S1E06 — The Tower** | [Dossier](episodes/S1E06.md), [P/Q8 comparison](../reports/DELVERS_S1E06_ASR_COMPARISON_2026-10-25.md); complete P and targeted Q read, **6.17% text disagreement** | ASR-provisional, no audio or original handout reviewed; Enzo, mirror, ancient symbols, client bonus, key/badges, holy-water custody, private motives and future level open |
 | **Delvers S1E05 — Maximum Montage** | [Dossier](episodes/S1E05.md), [ASR report](../reports/DELVERS_S1E05_ASR_COMPARISON_2026-10-24.md); full P and targeted Q read; **5.90% P/Q textual disagreement** | ASR-provisional, no audio; research questions: Soul Knife/scions, Yuri handoff, Selenar, prestige/badges, item order versus delivery, short sword change |
 | **Delvers S1E04 — Where did this dungeon come from?** | [Corrected dossier](episodes/S1E04.md), [comparison](../reports/DELVERS_S1E04_ASR_COMPARISON_2026-10-24.md); 7.65% between the *misnamed* ad-free pair | ASR-provisional; not listened; captions in original mislabeled source use different timing from advertised S1E04 source |
@@ -33,7 +34,7 @@
 | DEL-PREP-006 | High, at season-two intake | Classify S2E00 — Cassius at the Guild from its full recording | Preserve the existing E00 ID; establish whether it is played material, commentary, introduction or a mixture before adding it to story time |
 | DEL-PREP-007 | Medium, when encountered | Match the Delvers-attributed Khalezaar written spelling lead to its actual referent | The existing register does not establish whether the name denotes a person, place or faction. Do not create an identity from that spelling alone |
 
-The [source inventory](SOURCE_INVENTORY.md) distinguishes all 37 archive episode IDs from **77 SRT exports and 38 inventoried local MP3 copies** after S1E03 recovery; separate duplicate/mislabeled older S1E03 files remain. S1E01–S1E06 have bounded text research; S1E07 is next. Audio listening/clock validation is still open.
+The [source inventory](SOURCE_INVENTORY.md) distinguishes all 37 archive episode IDs from **77 SRT exports and 38 inventoried local MP3 copies** after S1E03 recovery; separate duplicate/mislabeled older S1E03 files remain. S1E01–S1E07 have bounded text research; S1E08 is next. Audio listening/clock validation is still open.
 
 ## Premiere listening and continuity tasks
 

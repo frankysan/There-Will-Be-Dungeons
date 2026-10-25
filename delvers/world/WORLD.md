@@ -36,9 +36,17 @@ The northward mountain country shelters a keep whose inhabitants have worked lon
 
 The old lord called himself Enzo Vanderbuck Withers. He remembered signs of people who escaped the darkness of the world below, and named a far deeper abyss the **Dawnless Dunes**. In his account, something at its heart was awakening and forcing underground predators into lands nearer the light. These words echo the Delvers' earlier encounters with gricks and strange carvings, but remain the testimony of a solitary necromancer, not an observed account of what now lies in the depths.[^dunes]
 
+## A city listening to its wells
+
+The guild's fears become more immediate when creatures accustomed to the dark appear beneath the streets and in workshops. Carrie Underworld sketches an order of hunters and prey, from small pests to gricks, and wonders whether the deepest predators have yet to arrive. The same strange black ichor reported from haunted places may be another sign of some wider disturbance. None of these explanations has been proved, but the guild takes the threat seriously enough to call its bronze companies together and distribute an urgent task: inspecting the public wells.[^city]
+
+In the southwestern quarter, an unusual rust trail leads to a forge and a creature able to spoil ordinary metal. A second monster hides as a barrel, while another feeds unseen near a family's home. The Darkest Delvers free the square from immediate danger, yet the water itself remains unexamined. The well stands as a reminder that the city's apparent safety depends on what lies beneath its familiar streets.[^city]
+
 ## Current status
 
-The farm passage remains sealed and Kord's sanctuary runs clean; the forest ruins remain only partly understood. The Darkest Delvers have **received bronze rank** and completed the first bronze assignment at [Skull Keep](places/skull-keep.md), banishing its flameskull and ending the servants' animation. Koh has returned with two garnets and new leads to an older hidden history. **The Dawnless Dunes, the truth of the awakening heart and the condition of Enzo's remaining reflection are unresolved**, as are the ancient inscriptions' full origins.[^dunes]
+The Darkest Delvers have completed Skull Keep and advanced to bronze rank. The guild is now **investigating several city wells** and has sent guards to the [southwestern well](places/southwestern-town-well.md) while the party hurries back to inspect it. **Its water has not been verified safe**, and no underground passage has yet been established or ruled out. Koh's psychic blade continues **without its destroyed physical hilt**. The **Dawnless Dunes, Enzo's awakening-heart claim, and Carrie's suspected predator chain remain unresolved interpretations**, not established explanations of the city's creature sightings.[^city]
+
+[^city]: [S1E07 dossier](../episodes/S1E07.md), ~00:49–01:09 and ~01:10–02:33. Guild predation model and piercer metamorphosis are unverified theories. Monsters defeated outside well; interior/water untested at cutoff.
 
 [^keep]: [S1E06](../episodes/S1E06.md), ~00:25–00:50, 02:14–02:23 and 02:55–03:03. Necromantic ritual described by Enzo; collapse of animated workers independently played.
 [^dunes]: [S1E06](../episodes/S1E06.md), ~02:26–02:35 and ~02:55–03:03. “Sky people,” “Dawnless Dunes” and future awakening are **Enzo's testimony/interpretation**; do not assert completed prophecy.

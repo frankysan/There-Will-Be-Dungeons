@@ -1,6 +1,6 @@
 # Delvers — characters
 
-**Spoilers through S1E06. Evidence:** ASR-provisional. Working player-character spellings use the [written-source register](../../reports/DISCORD_SPELLING_2026-10-21.md); voice, exact utterances and historical sheet state remain unchecked. No later nicknames or surnames are backdated.
+**Spoilers through S1E07. Evidence:** ASR-provisional. Working player-character spellings use the [written-source register](../../reports/DISCORD_SPELLING_2026-10-21.md); voice, exact utterances and historical sheet state remain unchecked. No later nicknames or surnames are backdated.
 
 | Character | Performer / introduction | Reference |
 | --- | --- | --- |
@@ -22,7 +22,7 @@ These short entries derive from [S1E01](../episodes/S1E01.md); NPC spellings rem
 | Solburn / soul burn | Hooded half-orc with wands/rods, pointed out as silver rank by another patron; not a party recruit, ~00:56 |
 | Dharma, Dominic, Edgar | First two sit distressed at the guild; Bell says Edgar did not return from a cavern job. His fate and their exact destination are unverified, ~00:54 |
 | Farmer Mickles / Mikkels | Named client, not met; Cassius says he deposited the quest reward, ~00:38–00:43 |
-| Bran Broscale / Brosgail | Cassius's identification of badge 542's missing dragonborn owner, ~02:23–02:24; remains observed below the cave, cause/date of death unknown |
+| Brom / Bran Broscale | Deceased dragonborn associated with recovered badge 542 and Dawn Globe; in S1E07 **living brother Buck/Wildfire** says his name was `Brom/Bram`; historical `Bran` variant needs audio confirmation. Death remains historical, no resurrection |
 | Thun’Darious Storm | Written handout spelling; Cassius reads an attributed foreword, ~00:32–00:34. No physical appearance or proof of personal involvement |
 
 ## Forest and recent guild contacts
@@ -36,7 +36,8 @@ These short entries derive from [S1E01](../episodes/S1E01.md); NPC spellings rem
 | [Carrie Underworld](characters/carrie-underworld.md) | Enthusiastic acquisitions artificer who names the Soul Knife and returns it to Koh |
 | [Masked Mage](characters/masked-mage.md) | White-clad Ruby/master-rank observer who calls Koh a scion; motives unknown, **not a confirmed foe** |
 | Brother Maynard | Strict elder of Pelor's temple who supervises Krandal's healing and disapproves of his conduct |
-| Buck Broscale | **Living** silver-badged red dragonborn whose fiend poison is cured by Krandal; not automatically the dead badge 542 owner |
+| [Buck Broscale / Wildfire](characters/buck-broscale-wildfire.md) | **Living** red dragonborn silver warrior, healed by Krandal in S1E05; explicitly **brother of dead Brom** and now private psionic mentor to Koh, with his own stone circlet retained |
+| [Margaret Dupayton](characters/margaret-dupayton.md) | Evelyn's secret-keeping roommate, makes **Bag of Hammer Holding** and magical alterations; surname provisional |
 | Lady Vestal | Instructor at Evelyn's secret finishing school, distrustful of her absence |
 | [Enzo Vanderbuck Withers](characters/enzo-vanderbuck-withers.md) | Mirror-bound ancestor/necromancer at Skull Keep; claims a failed immortality rite divided him from the flameskull. His **Dawnless Dunes** prophecy is attributed testimony; reflected head dims after skull banishment |
 | [Alexandre Vanderbuck Withers](characters/alexandre-vanderbuck-withers.md) | Wealthy claimant/client seeking to reclaim family's keep, offers a preservation bonus and warns of mirrors. Precise genealogy and prior knowledge uncertain |

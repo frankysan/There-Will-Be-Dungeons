@@ -1,0 +1,261 @@
+{
+  "date": "2026-10-25",
+  "campaign": "The Wastes",
+  "season": 1,
+  "episodes": [
+    "E042",
+    "E045",
+    "E046"
+  ],
+  "type": "Targeted creature source review, not full episode reanalysis",
+  "candidate_ids": [
+    "WSC-017",
+    "WSC-018"
+  ],
+  "audio_review": false,
+  "full_export_interpretive_review": false,
+  "full_export_asr_disagreement_computed": false,
+  "inventory": [
+    {
+      "episode": "E042",
+      "path": "sources/The Wastes S1E042. Anyone for some black pudding.parakeet.processed.srt",
+      "sha256": "2f7b66b41cde76ef2d18b16276526ea85a90d6c5381811b909622a21874b0e78",
+      "cue_count": 3211,
+      "last_end_ms": 11751990,
+      "model_label": "Parakeet"
+    },
+    {
+      "episode": "E042",
+      "path": "sources/The Wastes S1E042. Anyone for some black pudding.qwen-q8.canary-ctc.nemotron.srt",
+      "sha256": "f7d95f64a6e70319480c28687698390c7e05c5612c4c37a9bbc4089ba454710b",
+      "cue_count": 5575,
+      "last_end_ms": 11751760,
+      "model_label": "Qwen"
+    },
+    {
+      "episode": "E045",
+      "path": "sources/The Wastes S1E045. Those Eyes.parakeet.processed.srt",
+      "sha256": "fb3a6c7a34ee77075b0c27cb488fc55118fdc80f7a1c0eb642b35a2cfc4469f3",
+      "cue_count": 2820,
+      "last_end_ms": 10751570,
+      "model_label": "Parakeet"
+    },
+    {
+      "episode": "E045",
+      "path": "sources/The Wastes S1E045. Those Eyes.qwen-q8.canary-ctc.nemotron.srt",
+      "sha256": "2a840a6b29ef522781124a3c711ce21f51befb473d3980d798752c5970186351",
+      "cue_count": 4876,
+      "last_end_ms": 10751320,
+      "model_label": "Qwen"
+    },
+    {
+      "episode": "E046",
+      "path": "sources/The Wastes S1E046. There's a Patch For That.parakeet.processed.srt",
+      "sha256": "913d5f3e51db9e50f5dcf86e1266e19a9af1b28be64d735ea25efbdf1317aeea",
+      "cue_count": 2887,
+      "last_end_ms": 10713370,
+      "model_label": "Parakeet"
+    },
+    {
+      "episode": "E046",
+      "path": "sources/The Wastes S1E046. There's a Patch For That.qwen-q8.canary-ctc.nemotron.srt",
+      "sha256": "14e5269babba450934e1d120aeedcd9cbb2f63ffe186d77d9f1d6795975c1c74",
+      "cue_count": 4771,
+      "last_end_ms": 10713200,
+      "model_label": "Qwen"
+    }
+  ],
+  "reviewed_windows": [
+    {
+      "episode": "E042",
+      "source": "sources/The Wastes S1E042. Anyone for some black pudding.parakeet.processed.srt",
+      "model_label": "Parakeet",
+      "start": "00:59:15",
+      "end": "01:04:50",
+      "first_cue": 979,
+      "last_cue": 1054
+    },
+    {
+      "episode": "E045",
+      "source": "sources/The Wastes S1E045. Those Eyes.parakeet.processed.srt",
+      "model_label": "Parakeet",
+      "start": "01:59:45",
+      "end": "02:02:30",
+      "first_cue": 1913,
+      "last_cue": 1947
+    },
+    {
+      "episode": "E045",
+      "source": "sources/The Wastes S1E045. Those Eyes.parakeet.processed.srt",
+      "model_label": "Parakeet",
+      "start": "02:33:40",
+      "end": "02:36:50",
+      "first_cue": 2417,
+      "last_cue": 2467
+    },
+    {
+      "episode": "E045",
+      "source": "sources/The Wastes S1E045. Those Eyes.parakeet.processed.srt",
+      "model_label": "Parakeet",
+      "start": "02:48:25",
+      "end": "02:55:00",
+      "first_cue": 2667,
+      "last_cue": 2758
+    },
+    {
+      "episode": "E045",
+      "source": "sources/The Wastes S1E045. Those Eyes.parakeet.processed.srt",
+      "model_label": "Parakeet",
+      "start": "02:54:55",
+      "end": "02:57:00",
+      "first_cue": 2757,
+      "last_cue": 2784
+    },
+    {
+      "episode": "E046",
+      "source": "sources/The Wastes S1E046. There's a Patch For That.parakeet.processed.srt",
+      "model_label": "Parakeet",
+      "start": "00:03:45",
+      "end": "00:05:35",
+      "first_cue": 76,
+      "last_cue": 105
+    },
+    {
+      "episode": "E046",
+      "source": "sources/The Wastes S1E046. There's a Patch For That.parakeet.processed.srt",
+      "model_label": "Parakeet",
+      "start": "00:23:10",
+      "end": "00:25:20",
+      "first_cue": 376,
+      "last_cue": 416
+    },
+    {
+      "episode": "E046",
+      "source": "sources/The Wastes S1E046. There's a Patch For That.parakeet.processed.srt",
+      "model_label": "Parakeet",
+      "start": "00:52:00",
+      "end": "00:53:50",
+      "first_cue": 872,
+      "last_cue": 900
+    },
+    {
+      "episode": "E046",
+      "source": "sources/The Wastes S1E046. There's a Patch For That.parakeet.processed.srt",
+      "model_label": "Parakeet",
+      "start": "00:55:20",
+      "end": "00:56:40",
+      "first_cue": 925,
+      "last_cue": 946
+    },
+    {
+      "episode": "E046",
+      "source": "sources/The Wastes S1E046. There's a Patch For That.parakeet.processed.srt",
+      "model_label": "Parakeet",
+      "start": "01:00:00",
+      "end": "01:01:45",
+      "first_cue": 1005,
+      "last_cue": 1037
+    },
+    {
+      "episode": "E042",
+      "source": "sources/The Wastes S1E042. Anyone for some black pudding.qwen-q8.canary-ctc.nemotron.srt",
+      "model_label": "Qwen",
+      "start": "01:00:00",
+      "end": "01:03:00",
+      "first_cue": 1671,
+      "last_cue": 1723
+    },
+    {
+      "episode": "E045",
+      "source": "sources/The Wastes S1E045. Those Eyes.qwen-q8.canary-ctc.nemotron.srt",
+      "model_label": "Qwen",
+      "start": "02:00:20",
+      "end": "02:01:10",
+      "first_cue": 3306,
+      "last_cue": 3321
+    },
+    {
+      "episode": "E045",
+      "source": "sources/The Wastes S1E045. Those Eyes.qwen-q8.canary-ctc.nemotron.srt",
+      "model_label": "Qwen",
+      "start": "02:35:15",
+      "end": "02:36:15",
+      "first_cue": 4178,
+      "last_cue": 4198
+    },
+    {
+      "episode": "E045",
+      "source": "sources/The Wastes S1E045. Those Eyes.qwen-q8.canary-ctc.nemotron.srt",
+      "model_label": "Qwen",
+      "start": "02:50:30",
+      "end": "02:51:45",
+      "first_cue": 4650,
+      "last_cue": 4673
+    },
+    {
+      "episode": "E045",
+      "source": "sources/The Wastes S1E045. Those Eyes.qwen-q8.canary-ctc.nemotron.srt",
+      "model_label": "Qwen",
+      "start": "02:55:30",
+      "end": "02:57:00",
+      "first_cue": 4767,
+      "last_cue": 4797
+    },
+    {
+      "episode": "E046",
+      "source": "sources/The Wastes S1E046. There's a Patch For That.qwen-q8.canary-ctc.nemotron.srt",
+      "model_label": "Qwen",
+      "start": "00:23:15",
+      "end": "00:24:15",
+      "first_cue": 649,
+      "last_cue": 683
+    },
+    {
+      "episode": "E046",
+      "source": "sources/The Wastes S1E046. There's a Patch For That.qwen-q8.canary-ctc.nemotron.srt",
+      "model_label": "Qwen",
+      "start": "00:52:40",
+      "end": "00:53:20",
+      "first_cue": 1545,
+      "last_cue": 1566
+    },
+    {
+      "episode": "E046",
+      "source": "sources/The Wastes S1E046. There's a Patch For That.qwen-q8.canary-ctc.nemotron.srt",
+      "model_label": "Qwen",
+      "start": "00:55:40",
+      "end": "00:56:20",
+      "first_cue": 1631,
+      "last_cue": 1651
+    },
+    {
+      "episode": "E046",
+      "source": "sources/The Wastes S1E046. There's a Patch For That.qwen-q8.canary-ctc.nemotron.srt",
+      "model_label": "Qwen",
+      "start": "01:00:30",
+      "end": "01:01:45",
+      "first_cue": 1778,
+      "last_cue": 1814
+    }
+  ],
+  "local_cue_cache": "local/creature-search/cavern-river-2026-10-25/sources.json",
+  "findings": [
+    {
+      "candidate_id": "WSC-017",
+      "article": "world/creatures/pale-tentacled-burrower.md",
+      "outcome": "Pale wormlike animal gives territorial warning, lets the party retreat and burrows away. A later partly eaten-looking stone form resembles its kind.",
+      "limits": "No fixed tentacle count, species, secretion source, diet, petrification cause or same-individual identity."
+    },
+    {
+      "candidate_id": "WSC-018",
+      "article": "world/creatures/river-undead.md",
+      "outcome": "Explicitly identified humanoid undead cause painful buzzing and gaze harm; speech is untranslated. The first kill is followed by more arrivals; the fought attackers are defeated and Vorel stabilized.",
+      "limits": "Personhood remains unresolved. No mindlessness, named standard species, original identity, psychic-damage rule or global elimination inferred."
+    }
+  ],
+  "edited_dossiers": [
+    "episodes/E042.md",
+    "episodes/E045.md",
+    "episodes/E046.md"
+  ]
+}

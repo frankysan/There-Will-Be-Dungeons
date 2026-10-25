@@ -38,9 +38,18 @@ Evelyn approaches the haunted estate as she approaches most danger: with a ready
 
 In the room of mirrors, Evelyn offers a smaller and more revealing answer than her companions expect. She tells Enzo that she is **looking for someone**, then refuses to say who. No name or relationship escapes her. Her usual open enthusiasm suddenly yields to deliberate privacy. When she leads the party to the roof, that private need remains beside her public courage: she lights her hammer, confronts the skull and uses consecrated water to ensure the victory will last.[^tower]
 
+### A friend at school and a square in peril
+
+Evelyn finds the most dependable help at her finishing school not in its strict lessons but in Margaret, the roommate who understands the life she conceals. Margaret gives her a small, bright bag made from repurposed enchantments, deep enough to swallow her formidable hammer. Later, when Evelyn's chosen flowers fall short of Lady Vestal's standards, a touch of Margaret's magic rescues the arrangement. The school is preparing a bronze ball with the guild, and Evelyn can already sense the difficulty of navigating both worlds at once.[^margaret]
+
+On the streets, her enthusiasm becomes a form of guardianship. She faces a creature disguised as a barrel and keeps its attention away from a wounded workman, even when it holds her hammer fast. She finishes the fight with a common javelin, then joins Koh to help the exhausted dog Bruno, sharing her healing light rather than merely celebrating another victory. She remains eager for adventure, but she has begun to make the safety of those living around the guild part of her own purpose.[^well]
+
 ## Current status
 
-Evelyn now possesses an **unnumbered bronze badge** and has completed the Skull Keep contract with the Darkest Delvers. She used **one of two supplied holy-water jars** to banish the defeated flameskull; **one remains unspent**, with final personal custody to be reconfirmed. Her quick-donning chain mail and magic purchases remain associated with her, although collection and expenditure of individual commissioned enchantments warrant item-level verification. The identity of the person she seeks is **unknown**, even after she acknowledges the search to Enzo.[^tower]
+Evelyn carries a **Vicious-enchanted warhammer**, now confirmed in use and retained after the mimic releases it. Her roommate Margaret has given her a **Bag of Hammer Holding**, which stores one object weighing up to 60 pounds. The **bronze ball remains upcoming**, not attended. Evelyn used **three Lay on Hands points on Bruno** and defeated the mimic with ordinary javelins. She and her companions have been sent back to inspect the southwestern well; **nothing beneath it has yet been examined**. The identity of the person Evelyn seeks remains private.[^well]
+
+[^margaret]: [S1E07 dossier](../../episodes/S1E07.md), ~00:33–00:45. Margaret Dupaton/Dupayton surname and Laren Ilfelkier school name ASR-provisional; bag holds precisely one item, hat decoration magically repaired.
+[^well]: [S1E07](../../episodes/S1E07.md), ~01:33–02:03 and ~02:25–02:33. Compelled Duel, mimic adhesive, ordinary javelins, recovered Vicious hammer, three Lay on Hands points and incomplete well inspection.
 
 [^tower]: [S1E06 dossier](../../episodes/S1E06.md), ~00:20–00:25, 00:35–01:20, 02:01–02:12, 02:24–02:26 and 02:40–03:00. Her declared quest is for an unnamed person, without proof of a romantic/family connection. Holy-water jar use is witnessed; second jar remains unspent.
 [^school]: [S1E05 dossier](../../episodes/S1E05.md), ~00:12–00:18 and ~00:43–00:46. Lady Vestal's distrust and the armor enchantment are performed, but Evelyn's school's exact occupational specialty is undisclosed.

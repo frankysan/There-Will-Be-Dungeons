@@ -6,10 +6,14 @@
 
 [Skull Keep and the Dawnless Dunes](SKULL_KEEP.md) follows the company's first completed bronze assignment: an unnaturally maintained estate, a restless lord in a mirror, signs of a darkness far below the lake, and a flameskull vanquished with Koh's Soul Knife. Enzo's revelations are treated as what he told the party, not established truth.[^tower]
 
+[The Wells of Atomer](THE_WELLS_OF_ATOMER.md) follows the company through psionic training, a temple wedding, Evelyn's hidden school life and the guild's response to growing creature activity. The party returns toward the southwest well after learning that monsters in nearby shops do **not** establish safe drinking water.[^wells]
+
 [Campaign index](../README.md) · [World reference](../world/README.md)
 
 [^bronze]: [S1E05 dossier](../episodes/S1E05.md), ~00:03–02:34; narrated montage compresses multiple weeks, not a scene-by-scene encounter log. Initial promotion denial is superseded by subsequent approval; badges and shop enchantments due **tomorrow**, not already delivered.
 
 [^tower]: [S1E06](../episodes/S1E06.md), ~00:02–03:03. Bronze badge ceremony, castle exploration and skull defeat are actually played; the Dawnless Dunes are Enzo's testimony, Evelyn seeks an unnamed person, and Koh does not reveal his wife to Enzo.
+
+[^wells]: [S1E07](../episodes/S1E07.md), ~00:05–02:33. The guild's predator-chain theory is a hypothesis; the rust monster, mimic and stirge are slain, but well inspection remains incomplete.
 
 [^guide]: First jobs researched through **Delvers S1E04**, based on the [S1E01](../episodes/S1E01.md), [S1E02](../episodes/S1E02.md), [S1E03](../episodes/S1E03.md) and [S1E04](../episodes/S1E04.md) dossiers; ASR-provisional, not audio-verified. This independent campaign narrative remains ongoing, with no fixed arc ending or chapter count. The [shared style direction](../../project/WORLD_NARRATIVE_STYLE.md#delvers-world-and-narrative) applies: plot-led in-universe prose, sources and editorial qualifications in footnotes, preserved character testimony and knowledge boundaries. Completed-arc chapter guidance is not a minimum for this opening fragment.

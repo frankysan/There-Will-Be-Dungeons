@@ -10,7 +10,7 @@
     "full_srt_review": false,
     "audio_review": false,
     "not_exhaustive": true,
-    "new_canonical_entries_published": 15,
+    "new_canonical_entries_published": 19,
     "selected_srt_followup": true
   },
   "search_patterns": [
@@ -18,9 +18,9 @@
     "\\b(?:devour\\w*|grubs?|aboleths?|otyughs?|chokers?|gazers?|specters?|spectres?|wraiths?|wights?|ghouls?|ghasts?|mephits?|bulettes?|carrion|darkmantles?|gricks?|gorgons?|salamanders?|cockatrices?|ankhegs?|stirges?|umber hulks?|maggots?|parasites?|slaads?|stalkers?|grells?|piercers?|tadpoles?)\\b"
   ],
   "counts": {
-    "published": 15,
+    "published": 19,
     "draft-next": 0,
-    "focused-review": 15,
+    "focused-review": 11,
     "separate-oneoff": 2
   },
   "inventory": [
@@ -1236,37 +1236,79 @@
     },
     {
       "id": "WSC-015",
-      "status": "focused-review",
+      "status": "published",
       "name": "Gibbering mouther",
       "evidence": [
+        {
+          "episode": "E009",
+          "dossier": "episodes/E009.md",
+          "approximate_recording_window": "selected windows between 02:16:20 and 03:01:00"
+        }
+      ],
+      "observed_lead": "Pink fleshy body with eyes and mouths, tooth-driven movement, sticky ground, distracting gibbering and blinding spit. Chance escapes attempted absorption; the creature dies after Eddie's arrow.",
+      "boundary_or_next_check": "No scientist origin, completed assimilation or permanent Chance death inferred. The post-hardening voice disagreement and Fire Bolt/Fireball wording are retained in the source report.",
+      "discovery_evidence": [
         {
           "episode": "E009",
           "dossier": "episodes/E009.md",
           "approximate_recording_window": "02:15–03:00"
         }
       ],
-      "observed_lead": "Named attacker during the attempted escape from Leopold's collapsing facility.",
-      "boundary_or_next_check": "The dossier offers limited anatomy and final-fate detail. Keep separate from the E020 displacer beast; check targeted transcript passages."
+      "discovery_observed_lead": "Named attacker during the attempted escape from Leopold's collapsing facility.",
+      "discovery_boundary_or_next_check": "The dossier offers limited anatomy and final-fate detail. Keep separate from the E020 displacer beast; check targeted transcript passages.",
+      "article": "world/creatures/gibbering-mouther.md",
+      "article_title": "Gibbering mouther",
+      "publication_date": "2026-10-25",
+      "publication_basis": "Selected Parakeet windows with Qwen cross-reading of core findings; no full-episode or audio review",
+      "source_review": "reports/MOUTHER_AND_SPIDER_SOURCE_REVIEW_2026-10-25.md"
     },
     {
       "id": "WSC-016",
-      "status": "focused-review",
+      "status": "published",
       "name": "Concealing mushroom-pit spider",
       "evidence": [
+        {
+          "episode": "E044",
+          "dossier": "episodes/E044.md",
+          "approximate_recording_window": "selected windows between 01:53:10 and 02:09:30"
+        }
+      ],
+      "observed_lead": "Gigantic ceiling-concealed spider becomes blue-green, blocks escape and is killed by Vorel's cutting attacks and fall; severed legs provide food.",
+      "boundary_or_next_check": "No fixed phase-spider species, interplanar mechanism, intrinsic spore power or witnessed mushroom diet established. Position wording and nearby bag ownership remain qualified.",
+      "discovery_evidence": [
         {
           "episode": "E044",
           "dossier": "episodes/E044.md",
           "approximate_recording_window": "01:42–02:09"
         }
       ],
-      "observed_lead": "Large partly hidden or invisible spider attacks amid luminous mushrooms; legs are harvested after its defeat.",
-      "boundary_or_next_check": "Do not silently call it a phase spider, merge it with CHIDS brain-spiders or attribute the mushroom spores to the spider itself."
+      "discovery_observed_lead": "Large partly hidden or invisible spider attacks amid luminous mushrooms; legs are harvested after its defeat.",
+      "discovery_boundary_or_next_check": "Do not silently call it a phase spider, merge it with CHIDS brain-spiders or attribute the mushroom spores to the spider itself.",
+      "article": "world/creatures/mushroom-pit-spider.md",
+      "article_title": "Mushroom-pit spider",
+      "publication_date": "2026-10-25",
+      "publication_basis": "Selected Parakeet windows with Qwen cross-reading of core findings; no full-episode or audio review",
+      "source_review": "reports/MOUTHER_AND_SPIDER_SOURCE_REVIEW_2026-10-25.md"
     },
     {
       "id": "WSC-017",
-      "status": "focused-review",
+      "status": "published",
       "name": "Pale tentacled cavern organism",
       "evidence": [
+        {
+          "episode": "E042",
+          "dossier": "episodes/E042.md",
+          "approximate_recording_window": "00:59:15–01:04:50"
+        },
+        {
+          "episode": "E045",
+          "dossier": "episodes/E045.md",
+          "approximate_recording_window": "01:59:45–02:02:30"
+        }
+      ],
+      "observed_lead": "Pale wormlike animal gives territorial warning, lets the party retreat and burrows away. A later partly eaten-looking stone form resembles its kind.",
+      "boundary_or_next_check": "No fixed tentacle count, species, secretion source, diet, petrification cause or same-individual identity.",
+      "discovery_evidence": [
         {
           "episode": "E042",
           "dossier": "episodes/E042.md",
@@ -1278,14 +1320,33 @@
           "approximate_recording_window": "02:02–02:12"
         }
       ],
-      "observed_lead": "Long worm-like creature blends with pale wall strands; a later body of the apparent same kind is petrified.",
-      "boundary_or_next_check": "A warning sound and retreat are observed, not a kill. Name, ecology and exact relation between the two specimens remain unknown."
+      "discovery_observed_lead": "Long worm-like creature blends with pale wall strands; a later body of the apparent same kind is petrified.",
+      "discovery_boundary_or_next_check": "A warning sound and retreat are observed, not a kill. Name, ecology and exact relation between the two specimens remain unknown.",
+      "article": "world/creatures/pale-tentacled-burrower.md",
+      "article_title": "Pale tentacled burrower",
+      "publication_date": "2026-10-25",
+      "publication_basis": "Selected Parakeet windows with Qwen cross-reading of core findings; no full-episode or audio review",
+      "source_review": "reports/CAVERN_AND_RIVER_CREATURE_SOURCE_REVIEW_2026-10-25.md"
     },
     {
       "id": "WSC-018",
-      "status": "focused-review",
+      "status": "published",
       "name": "River headache creatures",
       "evidence": [
+        {
+          "episode": "E045",
+          "dossier": "episodes/E045.md",
+          "approximate_recording_window": "selected windows between 02:33:40 and 02:57:00"
+        },
+        {
+          "episode": "E046",
+          "dossier": "episodes/E046.md",
+          "approximate_recording_window": "selected windows between 00:03:45 and 01:01:45"
+        }
+      ],
+      "observed_lead": "Explicitly identified humanoid undead cause painful buzzing and gaze harm; speech is untranslated. The first kill is followed by more arrivals; the fought attackers are defeated and Vorel stabilized.",
+      "boundary_or_next_check": "Personhood remains unresolved. No mindlessness, named standard species, original identity, psychic-damage rule or global elimination inferred.",
+      "discovery_evidence": [
         {
           "episode": "E045",
           "dossier": "episodes/E045.md",
@@ -1297,8 +1358,13 @@
           "approximate_recording_window": "00:00–01:01"
         }
       ],
-      "observed_lead": "Dark humanoid river figures cause dread, headache and necrotic or psychic harm.",
-      "boundary_or_next_check": "Utterances are untranslated and personhood is unresolved. Check reasoning/NPC fit before creating a bestiary article; do not assign a standard undead identity."
+      "discovery_observed_lead": "Dark humanoid river figures cause dread, headache and necrotic or psychic harm.",
+      "discovery_boundary_or_next_check": "Utterances are untranslated and personhood is unresolved. Check reasoning/NPC fit before creating a bestiary article; do not assign a standard undead identity.",
+      "article": "world/creatures/river-undead.md",
+      "article_title": "River undead",
+      "publication_date": "2026-10-25",
+      "publication_basis": "Selected Parakeet windows with Qwen cross-reading of core findings; no full-episode or audio review",
+      "source_review": "reports/CAVERN_AND_RIVER_CREATURE_SOURCE_REVIEW_2026-10-25.md"
     },
     {
       "id": "WSC-019",
@@ -1632,6 +1698,28 @@
       "source_review": "reports/FACILITY_CREATURE_SOURCE_REVIEW_2026-10-25.md",
       "source_inventory": "reports/FACILITY_CREATURE_SOURCE_REVIEW_2026-10-25.json",
       "reason": "Resolve mimic defeat, separate animal anatomy/teleportation and last known condition before publication."
+    },
+    {
+      "subject": "Gibbering mouther and mushroom-pit spider",
+      "candidate_ids": [
+        "WSC-015",
+        "WSC-016"
+      ],
+      "date": "2026-10-25",
+      "source_review": "reports/MOUTHER_AND_SPIDER_SOURCE_REVIEW_2026-10-25.md",
+      "source_inventory": "reports/MOUTHER_AND_SPIDER_SOURCE_REVIEW_2026-10-25.json",
+      "reason": "Resolve anatomy, identity, outcomes and food use while retaining source disagreements and uncertain mechanisms."
+    },
+    {
+      "subject": "Pale tentacled burrower and river undead",
+      "candidate_ids": [
+        "WSC-017",
+        "WSC-018"
+      ],
+      "date": "2026-10-25",
+      "source_review": "reports/CAVERN_AND_RIVER_CREATURE_SOURCE_REVIEW_2026-10-25.md",
+      "source_inventory": "reports/CAVERN_AND_RIVER_CREATURE_SOURCE_REVIEW_2026-10-25.json",
+      "reason": "Resolve animal behavior, stone-form relationship, explicit undead type, speech and outcomes while preserving personhood uncertainty."
     }
   ],
   "publication_batches": [
@@ -1749,16 +1837,54 @@
         "WSC-015",
         "WSC-016"
       ]
+    },
+    {
+      "date": "2026-10-25",
+      "kind": "focused-source-review",
+      "candidate_ids": [
+        "WSC-015",
+        "WSC-016"
+      ],
+      "articles": [
+        "world/creatures/gibbering-mouther.md",
+        "world/creatures/mushroom-pit-spider.md"
+      ],
+      "source_review": "reports/MOUTHER_AND_SPIDER_SOURCE_REVIEW_2026-10-25.md",
+      "basis": "Selected E009/E044 Parakeet/Qwen windows. No full-episode or audio review.",
+      "next_candidate_ids": [],
+      "next_review_candidate_ids": [
+        "WSC-017",
+        "WSC-018"
+      ]
+    },
+    {
+      "date": "2026-10-25",
+      "kind": "focused-source-review",
+      "candidate_ids": [
+        "WSC-017",
+        "WSC-018"
+      ],
+      "articles": [
+        "world/creatures/pale-tentacled-burrower.md",
+        "world/creatures/river-undead.md"
+      ],
+      "source_review": "reports/CAVERN_AND_RIVER_CREATURE_SOURCE_REVIEW_2026-10-25.md",
+      "basis": "Selected E042/E045/E046 Parakeet/Qwen windows. No full-episode or audio review.",
+      "next_candidate_ids": [],
+      "next_review_candidate_ids": [
+        "WSC-019",
+        "WSC-020"
+      ]
     }
   ],
   "last_updated": "2026-10-25",
   "next_work": {
     "type": "focused-source-review",
     "candidate_ids": [
-      "WSC-015",
-      "WSC-016"
+      "WSC-019",
+      "WSC-020"
     ],
-    "purpose": "Resolve the gibbering mouther and concealing mushroom-pit spider before further publication."
+    "purpose": "Separate the froghemoth gut inhabitants and review the bloodsucking desert swarm before publication; do not infer species identities."
   },
   "inventory_snapshot_description": "Dossier fingerprints preserve the initial 2026-10-24 discovery scan; later targeted dossier amendments are recorded in follow-up reports."
 }
