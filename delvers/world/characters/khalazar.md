@@ -1,5 +1,9 @@
 # Khalazar — the Undying Majesty
 
+## 2021-08 bonus: audience-only GM mechanical disclosure (NOT character knowledge)
+
+During the **[August 2021 retrospective supporter Q&A](../../../episodes/BONUS-2021-08.md)**, ~**00:22:30–00:23:50**, GM **Kyle explicitly instructs the players to REMOVE HEADPHONES** so only the **audience** hears a mechanics reveal: **the SHADE fought inside Anthela's mental realm in S2E10 used the full D&D “Mummy Lord” monster statistics, Challenge Rating 15 (CR 15)**. He says they were positioned advantageously and that Khalazar may reappear in future Season Three encounters and forms. This is **out-of-game GM commentary** from [two-ASR text report](../../../reports/BONUS_2021_08_ASR_COMPARISON_2026-10-25.md), **not audio-verified**. **NOT a revelation made to Koh, Krandal or Evelyn; NOT identification of real Khalazar corporeal biology/identity or permanent defeat; NOT proof promised later encounters already took place.** Retain distinction from [S2E11 GM “shade/projection” recap](../../episodes/S2E11.md).
+
 ## S2E12: present voice and citywide active Drone — NOT a confirmed physical body
 
 At Bronze Ball, **Khalazar-like smoky voice inhabits maestro Ghalan, server, Selenar Everbloom, Giga Shark and cook**, speaks directly to **Anthela to “come with me,”** threatens Withers, whose response admits hiring Broscales/opening doors. The inhabitation appears to **jump between victims** and can be interrupted temporarily, but **NOT proven Khalazar's own real corporeal body present, killed or even located**. The **Hereditary Drone SOUND and a large mechanism SURGE UP THROUGH BALLROOM FLOOR**, **roper takes black-eyed compelled elves/half-elves into pit**, hook horrors/darkmantles/gricks attack civilians. Guild blocks pit with tables **but DRONE ACTIVE, elves STILL SCRAMBLE toward it at cutoff**. **Second story arc ENDS as an active cliffhanger**. [S2E12](../../episodes/S2E12.md); [Drone](../items/hereditary-drone.md).

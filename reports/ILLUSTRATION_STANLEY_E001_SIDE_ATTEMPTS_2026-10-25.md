@@ -69,3 +69,18 @@ Neither new draft fulfills the **1024-square, sRGB**, actual-approved-costume or
 
 **Current state:** `FACE_APPROVED` and `FRONT_APPROVED`; `SIDE_DRAFTING / TURNAROUND_METHOD_BLOCKED`; no side/back/final sheet approval. **Validation:** approved source repo hash PASS; S05 local PNG metadata/PIL decode PASS; correspondence to approved outfit FAIL; image-conditioning provenance UNVERIFIED; project test suite NOT RUN.
 
+## Follow-up after “Agreed, proceed” — S06/S07 image-attachment capability check (2026-10-25)
+
+The owner agreed to try attaching the **exact approved E001 front PNG** to an image-editing request. The session-local copy was verified: **1024×1024 RGB, 588-byte sRGB ICC, 1,067,778 bytes**, SHA-256 `95b535fe5ccdc19ebde882d3725f24dd228da661288abfddf8a6fce75c1a8b0f` — matching the registered approved front.
+
+Two attempted follow-up render calls did **not establish direct editing of this file**:
+
+- **S06:** Generation `561433c3-d1b1-4888-a6c9-d81a3976e081`, session path `/mnt/data/a_clean_illustration_character_concept_art_on_a_pl.png`. **1254×1254 RGB**, 1,899,648 bytes, SHA-256 `5d41645ff5654b0305249596af5ddbf8c9f466a75878cf3f1d4695441ab24c06`; **no ICC**. Generator metadata `edit_op:null`, `parent_gen_id:null`, `prompt:""`. The model request contained an added “belts and leather pouches” phrase absent from the approved costume, and output did not preserve the front's garment construction. **REJECT**, `REF_INPUT_UNVERIFIED`.
+- **S07:** Follow-up intended as an explicit input-reference check, generation `0ed8a681-08aa-43c5-84e4-06ec18eb3c5a`, session path `/mnt/data/a_clean_studio_character_illustration_style_scene.png`. **1254×1254 RGB**, 1,793,681 bytes, SHA-256 `b2180b6964f2a30864c7cd423de9e4a6327c2d102541e6f0f491030a42ffc857`; **no ICC**. Generator metadata once again `edit_op:null`, `parent_gen_id:null`, `prompt:""`. A requested/available file ID **was not verifiably transmitted as an edit input through the exposed image-tool contract**; metadata does not confirm reference-image lineage. **REJECT**, `REF_INPUT_UNVERIFIED`.
+
+**Finding:** The images' resemblance to Stanley is not evidence of the approved front's actual pixels being used as input. Neither output meets the edited-turnaround provenance gate, nor the project PNG/sRGB hard gate as generated. The attempted workflow therefore remains **unsupported/unverified in this session**, regardless of stylistic resemblance. **Do not approve or register S06/S07**, do not treat them as approved design variations, and do not repeat the same generation call. The owner-approved face and front remain unchanged and repository-verified.
+
+**Next feasible workflow:** The user must supply the approved PNG as a directly attached image to an explicitly *image-editing* request in a client which passes source-image bytes to its renderer, or the character must be redrawn using a controlled manual/3D orthographic workflow. If the image tool cannot expose any verifiable actual input/image editing lineage, the project must stay `SIDE_DRAFTING / TURNAROUND_METHOD_BLOCKED`. A later owner review and exact-asset repo verification are still mandatory. No source facts revised, no scene artwork or final sheet approved.
+
+**Checks:** Session image metadata and hashes PASS as diagnostics; visual identity/provenance and output production-compliance FAIL/UNVERIFIED; TWBD tests NOT RUN.
+
