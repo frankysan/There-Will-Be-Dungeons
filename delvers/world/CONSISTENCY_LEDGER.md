@@ -1,6 +1,6 @@
 # Delvers — consistency ledger
 
-**Spoiler horizon: S2E12 — END SEASON TWO AND SECOND STORY ARC (owner-confirmed)**. Played Bronze Ball ends in **ACTIVELY SOUNDING DRONE, elf mass compulsion, Wildfire/Withers fallen underground, no proven deaths**, with Season Three only promised. ASR-provisional 2026-10-25. [Finale dossier](../episodes/S2E12.md) · [P/Q8 report](../../reports/DELVERS_S2E12_ASR_COMPARISON_2026-10-25.md) · [queue](../REVIEW_QUEUE.md). Previous cutoffs remain historically accurate; no original sound/maps inspected.
+**Spoiler horizon: S3E01 — Season Three begins immediately after S2E12's confirmed second-arc finale.** [S3E01 dossier](../episodes/S3E01.md) · [ASR comparison](../../reports/DELVERS_S3E01_ASR_COMPARISON_2026-10-25.md). **Koh/Krandal cure seven elves, many remain; Evelyn leaves for family, hidden Loran door unopened; Cassius investigation remains; Hissia whereabouts unverified guard claim; no completed three-month jump.** Previously documented S2E12 cutoff remains historical. **Earlier ledger details below retain their individual episode horizon.** Played Bronze Ball ends in **ACTIVELY SOUNDING DRONE, elf mass compulsion, Wildfire/Withers fallen underground, no proven deaths**, with Season Three only promised. ASR-provisional 2026-10-25. [Finale dossier](../episodes/S2E12.md) · [P/Q8 report](../../reports/DELVERS_S2E12_ASR_COMPARISON_2026-10-25.md) · [queue](../REVIEW_QUEUE.md). Previous cutoffs remain historically accurate; no original sound/maps inspected.
 
 ## Open questions
 

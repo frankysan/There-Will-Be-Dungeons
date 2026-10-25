@@ -12,8 +12,9 @@ Invoke for requests such as `$twbd-illustration-generate Wastes Fate 4 at E006`,
 `$twbd-illustration-generate Wastes E066 scene: the tyrannosaur crushes Fate 4`,
 or `$twbd-illustration-generate Wastes "Stanley Billings" E001 design-sheet face`.
 For **all** recurring-character `DESIGN_SHEET` requests, first load
-[the canonical progressive sheet procedure](CHARACTER_SHEET.md). It is
-part of this installed skill, not a separate registered executable.
+[the canonical progressive sheet procedure](CHARACTER_SHEET.md) and its
+[reusable stage prompt / direct-attachment playbook](CHARACTER_SHEET_PROMPTS.md). They are
+part of this installed skill, not separate registered executables.
 This skill **produces visual art only for entities whose required appearances
 have already been researched and integrated**. It does not research subjects
 from scratch and must not fabricate their canonical look.
@@ -213,7 +214,7 @@ create example art.
 character-sheet procedure](CHARACTER_SHEET.md)**. Use the integrated,
 story-time-correct subject brief; produce **one phase at a time** in this
 order: written brief → single face anchor → full-body front → full-body
-side/profile → full-body back → **deterministically assembled** text-free
+paired **anatomical left/right side profiles by default** (or one explicit side) → full-body back → **deterministically assembled** text-free
 sheet pages. Do **not** generate the whole populated sheet from scratch.
 For each stage, obtain owner visual acceptance, produce/inspect a 1024-square
 sRGB PNG derivative where needed, register the exact asset in the project

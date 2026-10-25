@@ -1,0 +1,29 @@
+# Delvers S3E01 — Maximize The Yield: exact full-export ASR comparison (2026-10-25)
+
+**Identity:** [Delvers Season Three premiere](../delvers/episodes/S3E01.md) · [Delvers queue](../delvers/REVIEW_QUEUE.md). This starts ~02:00 on the **same night as S2E12's Bronze Ball**, before the proposed three-month interlude has elapsed; played cutoff is seven cursed elves cured at Pelor's temple and Evelyn physically traveling to her family. **ASR-provisional, no original audio heard**.
+
+**Provenance:** Repository `frankysan/There-Will-Be-Dungeons-Transcripts` at pinned GitHub `main` commit `1701b3789a536e9197540e497f2ed92cea24a58a`, both independent exports fetched from **that exact commit**. The workspace copy's Parakeet opening matches; no full workspace-vs-GitHub byte equivalence established. At outset local checkout already had several other unrelated/ongoing edits, preserved. Original recording date, exact MP3/SRT clock match, model configuration, runtime settings and hardware not independently verified. Pipeline names below are **filename-derived labels only**.
+
+| Export | Source | Git blob SHA | SRT cues | Unicode normalized words | Last cue end |
+| --- | --- | --- | ---: | ---: | --- |
+| Parakeet processed (reference) | [P](../sources/Delvers%20S3E01.%20Maximize%20The%20Yield.parakeet.processed.srt) | `1aac136e9cc845b89d4008a94963ac2772bfb2d4` | 2,365 | 21,753 | 02:45:10.950 |
+| Qwen Q8 / Canary CTC / Nemotron | [Q](../sources/Delvers%20S3E01.%20Maximize%20The%20Yield.qwen-q8.canary-ctc.nemotron.srt) | `7acbb0d9e353e445fd6a1219ac3b2c7ab7ad7299` | 3,828 | 21,842 | 02:45:10.640 |
+
+**Exact ordered unit-cost word-level Levenshtein distance = 1,766 / 21,753 = 8.12% textual disagreement.** Q has 89 more normalized words, with final cue 0.310 seconds earlier. **This is NOT WER, audio-validated accuracy, proof of omissions/hallucinations, or an automated determination of the superior model.**
+
+**Algorithm:** Parse complete chronological SRT cues; discard indices and timestamp lines; remove optional `(speaker N)` decorations; concatenate cue text, lowercase, delete straight/curly apostrophes (join contractions), replace all characters except Unicode letters/digits with spaces and split. Identical **10-token prefix and 1-token suffix** excluded from DP. Unit-cost two-row dynamic programming in **±2,500 token-index diagonal band** yielded **1,766**, strictly below band, so an optimal path outside it cannot improve the result and the calculated global edit distance is exact. P interpreted throughout sequential original recording-clock 0–40, 40–80, 80–120 and 120–165.2 min; complete Q was normalized for metric, and Q interpretation sampled independently ~0–4, 5–9, 14–21, 25–30, 48–57, 75–79, 85–95, 96–104, 107–115, 134–145, 148–156, 161–165 min; some excerpts clipped by tool output. **No complete second narrative Q read, no listening.**
+
+| Approximate recording clock | High-risk text interpretation / audio listening target |
+| --- | --- |
+| **~00:01–00:09** | GM **explicitly settles Anathala** as Koh's wife's name, while outputs vary; two missing schoolgirls; GCT describes *soul rot*, evil heart beneath **Minotaur Mesa**, Astral Plane and exponential age. Character testimony vs established magic; he **physically leaves**, Evelyn **declines kiss**. |
+| **~00:14–00:35** | Time jump **announced**, but only morning after Ball played; Cassius inquiry/grounding. **Koh truly steals Withers gems and other wealth**; Krandal's ethical refusal, Evelyn's bank barricade. |
+| **~00:40–01:03** | Adult hook horror **actually slain**; Krandal **takes living egg “Samuel”**, refuses Yalora's surrender request. Koh's attempted bank staging vs deception and Brigand Patrol awareness. |
+| **~01:04–01:18** | Drone's true ongoing status and ballroom damage; **Broadside** hiding from sound, assists cleanup; actual guild order to apprehend/ground; Warden's ability to smell egg. |
+| **~01:19–01:35** | Vestal reveals **Loran Ilfelkyr heroic founder and hidden shrine**, the S2E12 diamond-heart object is **a transforming sword**, active but **NOT sufficient to open keyed door**; Evelyn departs next morning. |
+| **~01:38–01:45** | Royal guard **Noparopa/Noparopar (?)** says **Princess Hissia abducted beneath earth**, but no independent location proof. His **blood oath, actual irrigation labor**, absent Snake Island memories. |
+| **~01:47–01:56** | Koh **actually brings bank gemstones to Cloven Brotherhood**; **40% cut negotiation** and **~10,000 gp contents**, no validated net payment number; group **promises** to travel to Kingdom, not shown leaving. |
+| **~02:00–02:21** | Koh actually tells Penelope hero identity; Evelyn **leaves Atomer for family**, farm guard remains; Goodwines **offer 80,000 gp expansion** but Krandal **does not accept**, while *Pelor's Tome* and plow **are accepted**. |
+| **~02:23–02:35** | Obscured questioner's name unknown despite announced **Rex Craven**, Koh's allowed Zone of Truth save, release bargain and ongoing Cassius investigation. |
+| **~02:35–02:43:23** | Temple's **16+24 listed victims**, unconscious vs feral, **Boonefellow retrieves subjects**; GM confirms **seven actually freed** via Koh psychic access + Krandal *Remove Curse*, not a complete city-wide cure. Remaining catacomb victims unresolved. |
+
+**Research status:** Text-only evidence; no source audio heard and no GM artefacts/maps. The P and Q complete-source metrics are exactly computed on a single pinned GitHub revision, with source hashes above. **Separate name spelling and disputed mechanics from observed GM-played outcomes.** Next inventoried source is **Delvers S3E02 — Call your Mummy**.

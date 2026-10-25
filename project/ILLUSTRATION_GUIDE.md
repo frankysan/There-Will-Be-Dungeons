@@ -21,6 +21,7 @@ without copying Nash's anatomy, disfigurement or personal palette.
 [Subject template](ILLUSTRATION_SUBJECT_TEMPLATE.md) ·
 [Recurring-character design sheets](ILLUSTRATION_CHARACTER_DESIGN_SHEETS.md) ·
 [Canonical phased design-sheet workflow](../.agents/skills/twbd-illustration-generate/CHARACTER_SHEET.md) ·
+[Reusable character-sheet prompts](../.agents/skills/twbd-illustration-generate/CHARACTER_SHEET_PROMPTS.md) ·
 [Appearance references](ILLUSTRATION_REFERENCES.md) ·
 [Illustration research queue](ILLUSTRATION_RESEARCH_QUEUE.md) ·
 [Illustration revision queue](ILLUSTRATION_REVISION_QUEUE.md) ·

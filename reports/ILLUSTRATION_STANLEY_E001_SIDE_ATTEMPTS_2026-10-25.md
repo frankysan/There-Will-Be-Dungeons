@@ -84,3 +84,5 @@ Two attempted follow-up render calls did **not establish direct editing of this 
 
 **Checks:** Session image metadata and hashes PASS as diagnostics; visual identity/provenance and output production-compliance FAIL/UNVERIFIED; TWBD tests NOT RUN.
 
+**Later outcome (same date):** The owner supplied a distinct **paired anatomical left/right turnaround** made using a directly attached approved front in a separate conversation and explicitly **approved both views**. This is **not** approval of any S01–S07 render. The new accepted image and converted exports are documented in [the separate SIDE_VISUAL_ACCEPTED report](ILLUSTRATION_STANLEY_E001_SIDE_APPROVAL_2026-10-25.md). Its repo-registration gate remains pending, but the former method block no longer describes the current visual-art status.
+

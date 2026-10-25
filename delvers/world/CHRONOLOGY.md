@@ -1,6 +1,6 @@
 # Delvers — played chronology
 
-**Researched horizon: S1E09, ASR-provisional.** Archive order and recording clock are distinct from story time. The [S1E01–S1E09 source-first dossiers](../REVIEW_QUEUE.md) own precise time-coded evidence, with recovered genuine S1E03 linking S1E02 and S1E04. Later outcomes are never backdated into earlier episode cutoffs.
+**Detailed early table covers S1E01–S1E09; current researched horizon S3E01, ASR-provisional.** S2E12 concludes Season Two and the second story arc; the [S3E01 dossier](../episodes/S3E01.md) documents immediate continuation, not the completion of the announced three-month jump. Archive order and recording clock are distinct from story time. The [S1E01–S1E09 source-first dossiers](../REVIEW_QUEUE.md) own precise time-coded evidence, with recovered genuine S1E03 linking S1E02 and S1E04. Later outcomes are never backdated into earlier episode cutoffs.
 
 | Story order | Recording clock | Supported event |
 | --- | --- | --- |
