@@ -1,6 +1,6 @@
 # Delvers — characters
 
-**Spoilers through S2E02 — Hooper–Goodwine wedding, first arc already complete**. Evidence:** ASR-provisional. Working player-character spellings use the [written-source register](../../reports/DISCORD_SPELLING_2026-10-21.md); voice, exact utterances and historical sheet state remain unchecked. No later nicknames or surnames are backdated.
+**Spoilers through S2E03 — Withers estate investigation planned, first arc already complete**. Evidence:** ASR-provisional. Working player-character spellings use the [written-source register](../../reports/DISCORD_SPELLING_2026-10-21.md); voice, exact utterances and historical sheet state remain unchecked. No later nicknames or surnames are backdated.
 
 | Character | Performer / introduction | Reference |
 | --- | --- | --- |
@@ -48,11 +48,11 @@ These short entries derive from [S1E01](../episodes/S1E01.md); NPC spellings rem
 | Grandfather Aurelli/Orilli Hooper | **Wight** hanged in woods 15 years ago according to murderer Goodwine's confession, raises animated tree; **defeated and buried S2E02**, name phonetic. [Estate](places/hooper-estate.md) |
 | Mr. Goodwine | Elder member of wedding family; **confesses under Charm Person** to beating and hanging Hooper; **physically buries body with Connor**, remains alive; murder not disclosed publicly. [Estate](places/hooper-estate.md) |
 | Captain Autumn Dew, Limwick Hooper and Fresna Goodwine | Wedding captain, groom and bride; **marriage celebration proceeds**; names ASR-phonetic. [Estate](places/hooper-estate.md) |
-| [Margaret Dupayton](characters/margaret-dupayton.md) | Loyal roommate: maintains **Nolzur's painted sick-bed decoy for two weeks**, causing **Lord/Lady Blackwater** to send physician; Evelyn begins telling her private story, **not narrated**. Bag of Hammer Holding creator |
-| [Chuck Abnaz / Nasty](characters/chuck-abnaz.md) | Satyr **Cloven Brotherhood** ex-associate of Koh; **paid wife's doctors** then demanded fee/forgery return, with three associates. Koh refuses; threat unresolved |
+| [Margaret Dupayton](characters/margaret-dupayton.md) | Loyal roommate: maintains **Nolzur's painted sick-bed decoy for two weeks**, causing **Lord/Lady *Blackwood* (explicit S2E03 correction of S2E01 Blackwater ASR)** to send physician; Evelyn begins telling her private story, **not narrated**. Bag of Hammer Holding creator |
+| [Chuck Abnaz / Nasty](characters/chuck-abnaz.md) | Satyr **Cloven Brotherhood** ex-associate of Koh; **paid wife's doctors** then demanded fee/forgery return, with three associates. **Koh later consents to plan Withers Estate raid as psychic coordinator under pressure**; Cassius secretly funds, no break-in yet |
 | Lady Vestal | Instructor at Evelyn's secret finishing school, distrustful of her absence |
 | [Enzo Vanderbuck Withers](characters/enzo-vanderbuck-withers.md) | Mirror-bound ancestor/necromancer at Skull Keep; claims a failed immortality rite divided him from the flameskull. His **Dawnless Dunes** prophecy is attributed testimony; reflected head dims after skull banishment |
-| [Alexandre Vanderbuck Withers](characters/alexandre-vanderbuck-withers.md) | Wealthy claimant/client seeking to reclaim family's keep, offers a preservation bonus and warns of mirrors. Precise genealogy and prior knowledge uncertain |
+| [Alexandre Vanderbuck Withers](characters/alexandre-vanderbuck-withers.md) | Wealthy Skull Keep claimant and **Withers Estate owner**, **Bronze Ball financier**; bulette-damaged grounds expose **recently used restraint chamber**; he denies knowledge, while **Cassius suspects artifact dealings without proof** |
 | Willamet / Wilibet Molly | Silver-rank adventurer who kills the market hag while the party evacuates the crowd; spelling unresolved |
 
 [World portal](README.md) · [Open identity checks](CONSISTENCY_LEDGER.md)

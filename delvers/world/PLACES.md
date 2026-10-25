@@ -1,6 +1,6 @@
 # Delvers — places
 
-**Spoilers through S2E02 — wedding adventure after first-arc finale S1E12**. Evidence:** ASR-provisional; names awaiting listening are explicitly provisional.
+**Spoilers through S2E03 — bulette and Withers investigation after first-arc finale S1E12**. Evidence:** ASR-provisional; names awaiting listening are explicitly provisional.
 
 | Place | Scope and reference |
 | --- | --- |
@@ -15,8 +15,9 @@
 | Kord's mountain sanctuary / cryptnasium | Athletic graveyard; fountains cleansed, Studwell defeated and Meatball and Sultan rescued. [S1E02 evidence](../episodes/S1E02.md) |
 | Forest limestone sinkhole and dungeon | Grick-scout site, trapped passages and chest; unexplored deeper structure. [Profile](places/grick-sinkhole.md) |
 | Veggie Sticks's hollow stump | Woodland hermit's home with animated plants, near hippogriff habitat. [Profile](characters/veggie-sticks.md) |
+| [Withers Estate](places/withers-estate.md) | Financial-district limestone mansion; **bulette opens 3-ft entrance to clean, recently used restraint chamber**; **Koh inspected locked room, not estate**; Cassius **secret financier of planned 9:30 p.m. infiltration**, unperformed |
 | [Hooper Estate](places/hooper-estate.md) | Wealthy **halfling mansion** with wedding lawns, small lake, tree line and Hooper family graveyard; **Wight Wedding completed, grandfather's wight defeated/buried**, body kept **Deck of Many Things**; black sludge at tree roots unexplained |
-| [Potato Grove](places/potato-grove.md) | **Krandal receives real deed**, visits weeded fields and ruined watchtower beside Noble Hollow; **sea hag killed, skeletal minotaur body destroyed but living talking skull buried**; no farm yet |
+| [Potato Grove](places/potato-grove.md) | **Krandal receives real deed**, visits weeded fields and ruined watchtower beside Noble Hollow; **sea hag dead, talking minotaur skull unearthed and mounted on scarecrow; Krandal actually plants potatoes/cleans irrigation; “Spud Buds” tentative name**; no complete building or harvest |
 | [Noble Hollow](places/noble-hollow.md) | Petrified tree and collapsed ritual clearing north of city; **Marek's midnight rite interrupted, roper killed, Faelan/Norman rescued alive** |
 | [Kuo-toa lakeshore village](places/kuo-toa-lakeshore-village.md) | Freshwater neighbors offered fish/pearls for peaceful guild inquiry; **Koh mistaken for god**, trader Glepo Ma gives conch staff to threatening collector, later swims west to warn bullywugs; **Delvers return and depart on horses with three living prisoners** |
 | [Submerged lake ruins](places/submerged-lake-ruins.md) | Familiar ancient traps underwater; **Krandal wears Ring of Protection**, **Delvers escape and leave village**; Wand of Secrets and broken geared disc found; tooth-framed gate remains unopened, divinity/Dunes claims unresolved |

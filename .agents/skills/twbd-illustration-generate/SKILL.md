@@ -1,6 +1,6 @@
 ---
 name: twbd-illustration-generate
-description: Generate source-faithful, visually congruent illustrations for researched TWBD entities and specific story moments across separate campaigns. Before drawing, find and inspect existing illustrations of each subject, reuse stable visual identity while applying scene-time/state changes, and maintain the same 1024x1024 graphic-novel style. When a subject or required state is unresearched, do NOT generate—record the missing work in the dedicated illustration research queue and inform the requester.
+description: Generate researched TWBD character design sheets first and then source-faithful, visually congruent scene illustrations for the applicable story states across separate campaigns. Before drawing, find and inspect existing illustrations of each subject, reuse stable visual identity while applying scene-time/state changes, and maintain the same 1024x1024 graphic-novel style. When a subject or required state is unresearched, do NOT generate—record the missing work in the dedicated illustration research queue and inform the requester.
 ---
 
 # TWBD illustration generation — research-gated, style-locked
@@ -14,7 +14,7 @@ This skill **produces visual art only for entities whose required appearances
 have already been researched and integrated**. It does not research subjects
 from scratch and must not fabricate their canonical look.
 
-**Three non-negotiable contracts:**
+**Four non-negotiable contracts:**
 
 1. **Identical output dimensions and style — an enforceable gate, not a
    preference:** **Every new render or edit attempt**, including previews,
@@ -43,6 +43,16 @@ from scratch and must not fabricate their canonical look.
    changes rather than copying another era's appearance. If an essential
    selected visual reference is inaccessible, stop and report the problem.
    An older image never overrules documented story evidence.
+4. **Sheet-first approval for recurring characters:** In a `SCENE` containing
+   a named/identifiable character likely to appear in two or more project
+   illustrations, require an applicable **owner-approved design-sheet version**
+   before generating. An initial `DESIGN_SHEET` draft can be generated after
+   research, but does not itself constitute approval. An approved baseline
+   covers only its stated story interval; significant changed forms must have
+   an approved variant or explicit owner-approved written delta. See the
+   [design-sheet ledger](../../../project/ILLUSTRATION_CHARACTER_DESIGN_SHEETS.md).
+   A selected portrait, player/fan drawing or unreviewed draft is insufficient;
+   preserve pre-policy selected scenes rather than retroactively removing them.
 
 A requested image containing both a researched character and an
 unresearched item, location, creature or companion **blocks the entire
@@ -56,11 +66,16 @@ preflight. Queue write failures are also hard stops.
    intended viewpoint (objective, subjective vision, retrospective account),
    desired type (portrait, exterior, interior, scene, map-like place, reference
    sheet), required visible entities, and any explicit details from the
-   request. If exact season/episode is absent, use a supported bounded
-   appearance only where unambiguous; never silently choose a later form.
+   request. **Branch into `DESIGN_SHEET`** (initial/updated character model
+   sheet) **or `SCENE`** (portrait, group, event, setting and other narrative
+   depictions). A new sheet draft need not have a preexisting approved sheet,
+   but does need integrated source research. If exact season/episode is absent,
+   use a supported bounded appearance only where unambiguous; never silently
+   choose a later form.
 2. Inspect current Git status and the relevant project file revision where
    available; preserve unrelated modifications. Read
    [style guide](../../../project/ILLUSTRATION_GUIDE.md),
+   [recurring-character design-sheet specification](../../../project/ILLUSTRATION_CHARACTER_DESIGN_SHEETS.md),
    [appearance register](../../../project/ILLUSTRATION_REFERENCES.md),
    [subject template](../../../project/ILLUSTRATION_SUBJECT_TEMPLATE.md),
    [research queue](../../../project/ILLUSTRATION_RESEARCH_QUEUE.md),
@@ -72,6 +87,8 @@ preflight. Queue write failures are also hard stops.
 3. Build a *preflight inventory* of **every specific subject needed in the
    frame**, each with a campaign-qualified ID, the scene-relevant state ID,
    reference file/version, and required/excluded identifying features.
+   For each named character note recurrence, sheet ID/approval status, and
+   whether the sheet's story-state scope fits the requested scene.
    Include: named characters, creatures, vehicles, signature equipment,
    recognizably depicted artifacts and locations, relevant factions/insignia,
    and the event itself if the request is a specific named/historical event.
@@ -104,15 +121,28 @@ For **every** inventory item, verify **all**:
   requiring further research are blockers. **An ordinary undecided detail**
   may be filled by an *explicitly provisional artistic choice* if doing so
   cannot override source evidence or resolve a material contradiction.
+- **Recurring-character design approval (SCENE only):** For every recurring
+  depicted character, resolve the **owner-approved** design-sheet version and
+  its baseline plus target-state variant/delta scope. Confirm the actual
+  referenced image pages can be inspected, and carry forward only features
+  valid for this scene. A provisional draft, player art, selected portrait or
+  approval for a different form/time is insufficient. For a `DESIGN_SHEET`
+  request, verify the *written* design brief and source evidence instead;
+  no existing sheet approval is needed to produce its draft.
 - **Reference integrity:** Resolve stable IDs, working links and relevant
   versions. A stylistic trial is not a selected canonical appearance sheet.
-  Audio verification and owner art approval are **not required** when the
-  documented ASR-based record is sufficiently drawable for a *provisional*
-  image; preserve that status and do not promote it to verified canon.
+  Audio verification and owner art approval are **not required** to produce
+  a *provisional design-sheet draft* (or a nonrecurring-character depiction)
+  when the documented ASR-based record is sufficiently drawable; preserve
+  source uncertainty and do not promote a draft to verified canon. A
+  **SCENE with a recurring character** still requires a separately approved
+  sheet of the correct story-state scope.
 
 **Decision:**
 
-- `READY` only if **all** required subjects pass for **this** scene.
+- `READY` only if **all** required subjects pass for **this** `SCENE` or
+  `DESIGN_SHEET` request, including sheet approval for recurring-character
+  scenes but not for initial design-sheet drafts.
 - `BLOCKED` on one or more failures or unavailable essential references.
   **STOP before any image-generation/editing/preview tool call.** Execute
   section 2 and end the invocation. Do not continue into prompt creation,
@@ -121,12 +151,24 @@ For **every** inventory item, verify **all**:
 
 ## 2. BLOCKED path — durable queue first, user notification second
 
+**Classify blockers before writing:** Missing or insufficient *research* for
+any subject belongs in the `IRQ-` research queue below. A character with
+**adequate research but no applicable approved model sheet** belongs in the
+[design-sheet ledger](../../../project/ILLUSTRATION_CHARACTER_DESIGN_SHEETS.md),
+not a fabricated research issue. Record its exact sheet state (`sheet-needed`,
+`drafting` or `awaiting-owner-review`), ID and requested story state;
+request an initial `DESIGN_SHEET` generation or an explicit owner review.
+If both blockers exist, persist both separately. If the required sheet exists
+but cannot be inspected, report the access gap and stop. No partial scene,
+preview or generic stand-in is permitted. Failed ledger writes are disclosed
+and never interpreted as approval.
+
 1. Collect **all** missing/insufficient entities in the requested image,
    not merely the first. For each, record: campaign, stable ID or provisional
    name, type, requested scene/state/spoiler cutoff, specific missing visual
    evidence or unresolved conflict, existing references actually checked,
    next bounded subject-research action, and the **blocked image request**.
-2. Open [the dedicated queue](../../../project/ILLUSTRATION_RESEARCH_QUEUE.md)
+2. For **research-related gaps only**, open [the dedicated queue](../../../project/ILLUSTRATION_RESEARCH_QUEUE.md)
    and check for an existing item with the same **campaign + subject +
    scene/state + research gap**. Append this request/date to the existing
    entry, or assign the next unused `IRQ-####` ID and add a `queued` entry
@@ -139,8 +181,10 @@ For **every** inventory item, verify **all**:
    If the write fails, **remain BLOCKED**, report the failure and present
    the intended entries for manual recording; never claim they were saved.
 4. Tell the invoker **no image was generated**, list each pending subject,
-   missing state/detail and queue ID if actually saved, link the queue, and
-   propose the precise `$twbd-illustration-research ...` follow-up(s).
+   its research gap and actual `IRQ-` ID if any, plus each missing/unapproved
+   sheet and its recorded status; link the respective registries and propose
+   the precise `$twbd-illustration-research ...` or
+   `$twbd-illustration-generate ... design sheet ...` follow-up(s).
    Do not start that research automatically inside this generation run;
    future research is an independent step. Once integrated, a **new**
    generation invocation rechecks the whole composition. Clearing a queue
@@ -154,6 +198,26 @@ preflight examples, **not** new queued requests and not authorization to
 create example art.
 
 ## 3. READY path — preserve visual lineage, then build the brief
+
+**DESIGN_SHEET:** Generate only a character's researched baseline or
+story-specific appearance variant. Compose neutral, proportion-matched
+front/profile/back full-body views, a large face/expression reference and
+key equipment/palette detail as space allows. Keep each page **1024 × 1024**,
+and if legibility requires multiple pages validate each separately. The
+verbatim no-lettering style block still applies: put annotations, source IDs,
+color labels and swatch explanations in the linked written specification.
+Use show-era evidence, source-art provenance and existing selected images;
+do not substitute the campaign-end JSON appearance for the first state.
+Record artwork as `awaiting-owner-review` (not `owner-approved`) and
+request a specific decision on the exact version and state coverage. A sheet
+with an unresolved material contradiction is not READY for generation.
+
+**SCENE:** Only enter this path with the requisite approved recurring-character
+sheet(s) and target-state coverage. Use those sheets as the primary
+*visual identity* anchors while episode narration remains the primary
+source of story facts. Do not silently use a draft/fan/creator picture instead
+of a missing sheet or treat approval of an early form as approval of a late
+transformation.
 
 ### 3A. Mandatory existing-illustration continuity pass
 
@@ -271,8 +335,12 @@ Build a short explicit brief with:
    composition, lighting, one primary bright accent and optional second
    accent **across the whole image** (unless established colors require an
    explicit exception), and simple negative space where needed.
-5. **Visual-lineage anchors:** Include the selected prior illustrations actually
-   viewed, their story-state IDs and review status, and the explicit list of
+5. **Visual-lineage anchors:** For `SCENE` work cite each recurring
+   character's approved sheet ID/version and applicable state/delta, plus
+   image pixels actually inspected or provided to the renderer. For
+   `DESIGN_SHEET`, distinguish source-art inspiration from prior approved
+   project references and note provisional artistic decisions. Include the
+   selected prior illustrations actually viewed, their story-state IDs and review status, and the explicit list of
    details to **carry forward, change or exclude**. Distinguish images examined
    from reference pixels actually supplied to the renderer. Do not present
    unrelated-era, fan, draft or superseded art as an approved model sheet.
@@ -296,7 +364,7 @@ Build a short explicit brief with:
 > requested scene explicitly requires an in-world marking.
 
 Treat this prompt block as an **immutable style lock** (v1) introduced
-in guide v0.3 and retained unchanged in v0.4. Changes require a deliberate *project-wide style revision* with a
+in guide v0.3 and retained unchanged in v0.5. Changes require a deliberate *project-wide style revision* with a
 new version, not improvisation for a particular character, medium or
 image. The style guide's detailed rules take precedence if a conflict is
 found; report and version any correction. An individual scene's mood,
@@ -410,7 +478,11 @@ Do not invoke generation or editing with any of these fields missing.
    inspection, style and lore review outcomes, image IDs and approval
    status, using [the subject template](../../../project/ILLUSTRATION_SUBJECT_TEMPLATE.md).
    No missing-file Markdown embeds, invented metadata, false test passes,
-   or automatic owner approval.
+   or automatic owner approval. A `DESIGN_SHEET` is recorded as
+   `awaiting-owner-review` in the design-sheet ledger and subject record
+   until explicit approval of the exact sheet version, page(s) and story-time
+   scope. For a `SCENE`, record approved sheet version(s), variant/deltas
+   and which visual inputs were actually passed to the renderer.
 6. **Post-generation consistency audit:** Compare the candidate and prior
    illustrated states to the latest evidence, including every visible
    recurring subject, significant prop and scene location. For a new
@@ -438,11 +510,16 @@ newly identified issues from pre-existing ones. Verify the ledger's
 entries and subject cross-links by reading them back. Flagging alone
 does **not** authorize a replacement render or alter a selected image.
 
-- **BLOCKED:** Confirm queue entries were written/read back; no image
-  generator was invoked; report subjects, scene-specific blockers, IDs,
-  queue path and exact research actions. If the queue could not be
+- **BLOCKED:** Confirm research and/or design-sheet ledger entries were
+  written/read back; no image generator was invoked; report subjects,
+  specific blockers, persisted IDs, registry paths and the next research,
+  draft or owner-review action. If the queue could not be
   persisted, disclose that blocker and do not generate.
-- **READY and generated:** Record a distinct outcome for each mandatory
+- **READY and generated:** For `DESIGN_SHEET`, distinguish *validated draft*
+  from *owner-approved* and report its status/next approval step. For `SCENE`,
+  include `character_sheet_approval=PASS` for each applicable recurring
+  character (sheet ID/version/state), or `NOT_APPLICABLE` for none. Record a
+  distinct outcome for each mandatory
   gate: `research_time_state=PASS`, `style_prompt_included=PASS`,
   `requested_square_1024=PASS`, `actual_final_png_1024x1024=PASS`,
   `final_srgb=PASS`, `visual_style=PASS`, and
@@ -469,6 +546,7 @@ does **not** authorize a replacement render or alter a selected image.
   source images.
 
 **Keep the research and illustration functions separate:** the research
-skill builds source-linked appearance knowledge; this skill either uses
-already integrated knowledge to generate consistent art or records why
-it must not generate yet.
+skill builds source-linked appearance knowledge and a written design-sheet
+brief. This skill first generates a *draft* recurring-character sheet for
+explicit owner review, then uses approved sheets for compatible narrative
+scenes; otherwise it records precisely why generation is blocked.

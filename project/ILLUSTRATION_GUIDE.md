@@ -1,6 +1,6 @@
 # Illustration style and continuity guide
 
-**Version:** 0.4, 2026-10-25. **Scope:** Characters, creatures, places, vehicles,
+**Version:** 0.5, 2026-10-25. **Scope:** Characters, creatures, places, vehicles,
 items, events and other illustrated subjects across The Wastes, Inverse and
 Delvers. Shared art direction does not imply shared fictional continuity.
 
@@ -15,6 +15,7 @@ visually approved house style. No illustration or reference sheet has been
 approved by this document.
 
 [Subject template](ILLUSTRATION_SUBJECT_TEMPLATE.md) ·
+[Recurring-character design sheets](ILLUSTRATION_CHARACTER_DESIGN_SHEETS.md) ·
 [Appearance references](ILLUSTRATION_REFERENCES.md) ·
 [Illustration research queue](ILLUSTRATION_RESEARCH_QUEUE.md) ·
 [Illustration revision queue](ILLUSTRATION_REVISION_QUEUE.md) ·
@@ -278,10 +279,36 @@ supply the appropriate selected reference alongside explicit instructions to
 retain stable features. Do not rely on an earlier prompt or image remaining
 in conversation memory.
 
-For major recurring subjects, develop a neutral reference sheet when useful:
-front, three-quarter and profile views, key details, relative scale and a
-simple color reference. Produce state variants as needed. A style study is
-a trial, not an automatic appearance approval.
+### Mandatory recurring-character design sheet
+
+**Before making any new scene, portrait or group illustration depicting a
+recurring character (or one reasonably expected to recur across two or more
+illustrations), first create and obtain explicit owner approval of a character
+design sheet.** This includes identifiable recurring NPCs and companions;
+anonymous set dressing and truly isolated one-off characters are exempt.
+When a character later becomes recurring, halt *future* scene illustrations
+until the sheet exists; do not retroactively invalidate older selected art.
+
+Follow the [design-sheet specification and approval ledger](ILLUSTRATION_CHARACTER_DESIGN_SHEETS.md).
+Research creates the integrated, introduction-era written design brief;
+the image-generation skill then produces a neutral **1024 × 1024 sRGB PNG**
+model sheet with consistent front/profile/back full-body views, face/expression
+and equipment details, and a palette as space permits. Use multiple separate
+square pages when necessary, retaining text labels, provenance, palette notes
+and uncertain choices in the **written companion**, not incidental lettering
+on the image. A trial drawing, player artwork, a selected scene illustration,
+or a generated unreviewed sheet is **not** an approved character model sheet.
+
+An approved baseline records long-lived identity traits, not an immutable
+outfit or final-campaign build. Significant story-time changes use documented
+variants or an explicitly approved written delta tied to a stable state ID;
+never backdate late gear, scars, transformations or terminal JSON details.
+Source-supported corrections supersede artistic assumptions and require
+review flags on affected older images. The sheet itself is a production
+reference, not independent evidence of what happened in the show. **Missing
+source research** goes in the `IRQ-` queue; **a missing/unapproved sheet after
+research** is tracked in the sheet ledger and blocks scene generation until
+approval. Creating a sheet draft remains permitted when its research is ready.
 
 ## Flagging existing illustrations when research or context changes
 
@@ -327,7 +354,9 @@ separate art-direction review.
 Record the outcome honestly as draft, selected working reference, revised
 or superseded. Use "owner-approved" only following actual owner approval;
 routine drafting and reversible refinement can proceed without a new
-permission step.
+permission step. **Exception:** recurring-character scene illustrations
+require a separately owner-approved, applicable design sheet first;
+creating the sheet draft does not itself require prior approval.
 
 When subsequent episode research locates a visual description, add or
 revise the subject's evidence and state record. Check earlier artistic

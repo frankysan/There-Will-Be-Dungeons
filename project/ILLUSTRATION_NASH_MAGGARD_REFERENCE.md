@@ -2,6 +2,66 @@
 
 **Version:** provisional 0.2, 2026-10-25. **ID:** WASTES-NASH-MAGGARD. **Source level:** processed-ASR and episode dossiers, not audio-verified; **Scott Johnson's Nash drawings are player-created visual interpretation** per archive-owner attribution, valuable for intended appearance but not authoritative over conflicting episode narration. Other historic fan art is secondary visual inspiration. [World article](../world/characters/nash-maggard.md).
 
+**Recurring-character design-sheet gate:** [Sheet registry](ILLUSTRATION_CHARACTER_DESIGN_SHEETS.md) reserves `WASTES-NASH-MAGGARD-DS-001` for a first **E000/A01 baseline model sheet**. Status: `drafting`; two nonconforming image-generation studies were rejected and **no usable project model sheet or owner approval exists** (see [attempt report](../reports/ILLUSTRATION_NASH_MAGGARD_DESIGN_SHEET_ATTEMPTS_2026-10-25.md)). Research must distinguish initial scars, damaged eye, boots, staff and satchel from undated creator costume choices. The illustrated sheet should preserve bodily asymmetry when evidenced, avoid assigning an unverified eye side/color, and keep E089+ regrowth, later red-eye treatment and E098 Skyblinder equipment out of the baseline. Scott Johnson's drawings inform a proposed hood/staff silhouette, not an episode-proven costume. New Nash scene illustrations require sheet approval and the correct state variant first.
+
+## E000/A01 character design-sheet brief — draft v0.1 (2026-10-25)
+
+**Identity:** `WASTES-NASH-MAGGARD-DS-001`; planned visual reference for
+`WASTES-NASH-MAGGARD-A01` only (E000 introduction). **Status: drafting,
+not owner-approved.** Relevant show text: S01, E000 00:03:49–00:06:25
+(processed ASR read directly; audio not listened to). Scott Johnson's
+undated blue sketch and colored Nash drawing were directly inspected,
+and are **owner-attributed player-created intent**, not objective
+episode-era evidence. Their character design can guide style and
+recognition without silently canonizing its details. Apply the project
+[design-sheet protocol](ILLUSTRATION_CHARACTER_DESIGN_SHEETS.md),
+[style v0.5](ILLUSTRATION_GUIDE.md), and its mandatory 1024-square PNG
+and fixed ink/pastel style recipe.
+
+### Source-grounded baseline (mandatory)
+
+- **Recognition:** An adult male-presenting human traveler, visibly
+  scarred, pitted and tumor-marked, with damaged/irregular facial skin;
+  **two eyes**, one functional/seeing and the other sightless, dormant
+  yet described as burning. Keep the eyes visibly differentiated without
+  presuming the later E089 glowing-red-eye design or inventing a verified
+  eye side. Scars, boils/craters and facial identity must remain visible
+  in the enlarged facial reference even if a hood shades part of the face.
+- **Outfit/gear:** Worn/tattered boot visible; carries a staff and a
+  **threadbare satchel** slung over his shoulder. The exact boot design,
+  clothing silhouette, staff head, eye color and shoulder side are
+  **unspecified in the E000 transcript**.
+- **Explicit exclusions for this baseline:** No E053 small third
+  arm, later regrowth, E089 outfit/new glowing-eye treatment, E098
+  Skyblinder white bird finial, late mechanical-heart manifestations,
+  full dragon form, or terminal-sheet jacket/gear.
+- **Story-time note:** This is the preadventure E000 introduction
+  at dawn; later D&D Beyond details represent the campaign end.
+  No exact introduction height or hair description is established.
+  The studio-like design-sheet backdrop is neutral, not a new setting.
+
+### Provisional artistic decisions (await owner review)
+
+| ID | Proposed feature | Status and limit |
+| --- | --- | --- |
+| D01 | Scott-inspired deep rust/umber hood and cape, broad worn brown boots, olive/sand waist drapery, layered muted grey travel garments with sparse warm terracotta accents | Player-created visual-intent-inspired **provisional choice**, not show-proven outfit/colors/armor |
+| D02 | Hood partially shades forehead/face while close-up reveals distinctive pitted facial skin and both distinct eyes | Creative reconciliation of player art's face-shadow with played E000 disfigurement; do not depict a featureless black void |
+| D03 | Eyes: one ordinary dark seeing eye and one subdued ember-amber sightless eye; location on a particular side is **undecided** and any placement in draft is merely a layout choice | Do not equate player portrait's single red glint with post-E089 red eye or assert an unverified eye side |
+| D04 | Plain worn walking staff with an understated curved/uneven top (echoing Scott's hooked staff) and visible threadbare shoulder satchel | Staff/satchel are sourced, specific hook and materials are **artistic**; absolutely no later white-winged bird finial |
+| D05 | Lean, hardy adult proportions, gloved/wrapped forearms and dusty/worn fabric; no numerical height, weight or age | Design convenience, **not** a demonstrated E000 build or exact anatomy; only two normal arms/hands |
+
+**Required visual-sheet views:** neutral full-body front, side/profile
+and rear views with matched proportions and consistent hood/cape, boots,
+satchel and staff; enlarged three-quarter face inset with both eyes
+and identifiable skin damage; expressions (neutral/guarded and determined)
+when space permits. Keep relative left/right consistent through views,
+but record which eye side was chosen only as *D03 artistic placement*.
+No lettering/annotations in pixels; swatch names and provenance stay in
+this text reference. If the multi-view layout cannot fit legibly, use
+multiple **individually 1024 × 1024 sRGB PNG** sheets. For the eventual
+image, store actual generation provenance, image path/hash and verification,
+and await explicit owner acceptance before use as a scene anchor.
+
 ## Recognition and appearance states
 
 | State | Story placement | Complete visual guidance |
@@ -64,4 +124,4 @@ Archived directory: `local/merge-safety-20261021-184938/checkout/sources/images/
 
 **Next bounded research step:** search and read full relevant SRT windows in E030–E053 for the third hand's origin and scales, and E082–E089 for precise regeneration anatomy; then trace the extra hand's status after regrowth and the final E128 outfit. No episode audio was checked. This reference is integrated but intentionally **provisional**, not a claim of exhaustive corpus coverage.
 
-**Change log:** 2026-10-25 v0.1 initial reference after corrected MCP binary access and archived-art inspection. 2026-10-25 v0.2 directly inspected all three current Scott Nash drawings, recorded owner-confirmed player-artist context, elevated them above unrelated fan art as intent references, and explicitly separated blue dragon concept art from the narrated black-dragon form.
+**Change log:** 2026-10-25 v0.1 initial reference after corrected MCP binary access and archived-art inspection. 2026-10-25 v0.2 directly inspected all three current Scott Nash drawings, recorded owner-confirmed player-artist context, elevated them above unrelated fan art as intent references, and explicitly separated blue dragon concept art from the narrated black-dragon form. 2026-10-25 draft v0.1 added sourced E000 baseline design-sheet brief and provisional D01–D05 visual choices; [two generated studies](../reports/ILLUSTRATION_NASH_MAGGARD_DESIGN_SHEET_ATTEMPTS_2026-10-25.md) failed size/style/identity checks, so no approved or publishable sheet exists.

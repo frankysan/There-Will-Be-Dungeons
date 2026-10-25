@@ -115,6 +115,31 @@ the active design and identify affected illustrations.
 | --- | --- | --- | --- |
 | <question> | <source IDs and exact difference or gap> | <omit, leave open, provisional rendering, label subjective> | <specific passage/image or research task> |
 
+### Recurring-character design sheet (when applicable)
+
+For named characters recurring or expected to appear in at least two
+illustrations, link the [design-sheet approval ledger](ILLUSTRATION_CHARACTER_DESIGN_SHEETS.md).
+Research documents the **introduction-era written design brief**, while
+sheet imagery and owner approval are separate generation/review steps. No
+new scene/portrait/group illustration of a recurring character may bypass
+this gate, even when the evidence record is drawable.
+
+| Field | Record |
+| --- | --- |
+| Recurrence | <recurring, expected across multiple pictures, or genuinely one-off; basis> |
+| Baseline design brief | <supported era/state ID, silhouette, front/profile/back, anatomy, face and expressions, posture, orientation> |
+| Clothes, props and palette | <visible outfit and equipment for baseline state; intrinsic colors and materials; explicit artistic decisions> |
+| Source vs interpretation | <evidence IDs and verification; creator/player intent, fan art and campaign-end JSON separately identified; unknowns/conflicts> |
+| Sheet ID and version | <stable campaign-qualified DS identifier, version, story-state coverage> |
+| Image / technical checks | <real verified PNG page paths, each 1024x1024 sRGB, style/source checks, actual visual inspection> |
+| Approval / scope | <sheet-needed, research-blocked, drafting, awaiting-owner-review, owner-approved, revision-needed, superseded; explicit owner/date or none> |
+| Variants and approved deltas | <linked state-specific pages/approved written changes, what to carry forward/change/exclude> |
+| Previous art impact | <image IDs checked, IRV review flags and superseded designs if relevant> |
+
+A player-created illustration is a *design-intent source*, not itself an
+approved new project sheet. Approval is version- and state-specific and
+must not be inferred from a separately selected world-page illustration.
+
 ### Existing-art continuity inventory
 
 Before each new image, locate **all previous project illustrations of the

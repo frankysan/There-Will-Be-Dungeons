@@ -1,5 +1,9 @@
 # Dusthill
 
+![Aerial view of Dusthill in its red-rock alcove, with winding defended entrance, huts, a central well, a separate gathering circle, cave farms and a cliff-cut garage](../../illustrations/wastes/dusthill-e001-aerial-establishing.png)
+
+*Dusthill as it appeared when the companions first arrived, before the goblin raid. Artistic reconstruction of the opening settlement.*[^illustration]
+
 **Known source variant:** `Dust Hill` in ASR. **Type:** Protected wasteland settlement and first meeting place of the protagonists. **Spoilers:** Arcs One–Two through E054. **Evidence:** Early GM scene exposition and later episode dossiers, presently processed-SRT-derived.
 
 ## Setting
@@ -23,3 +27,5 @@ The deceased Hillmaster, earlier specter **Peter**, **Softhead**, **Jimster** (m
 ## Survivors finally return — E059
 
 The **Principle promises** the release of Dusthill captives in [E058](../../episodes/E058.md), and **an actual group arrives in Tietkalla in E059**, including **Talia and child Bruce Bane, Jimster, Shun'ti and other surviving Dusthill citizens**. They are medically received and speak of **forced work at the Salivating Fields**. Their living arrival is directly played, so the entire rescue cannot remain classified as merely diplomatic promise. **The return does not establish that every person taken in the original raid survived or was included**, and reports about the raid's organizer or a ruler's intent remain interested testimony. [E059](../../episodes/E059.md).
+
+[^illustration]: **Owner-selected project illustration**, 2026-10-25. Generated with ChatGPT image generation for Dusthill's opening state `WASTES-DUSTHILL-A01` (E001) and selected by the archive owner. This is a graphic-novel **artistic reconstruction**, not an exact survey or a separate source of narrative canon. Its geography and structures are informed by [E001](../../episodes/E001.md), the [Dusthill appearance research](../../project/ILLUSTRATION_DUSTHILL_REFERENCE.md), and an undated hand-drawn settlement map preserved privately as `local/images-wiki/maps/Dusthill.webp` (probable GM origin according to owner recollection; author and period not independently verified). Building arrangements and architectural details remain interpretive. Production file: `illustrations/wastes/dusthill-e001-aerial-establishing.png`, verified 1024 × 1024 PNG with an embedded sRGB ICC profile. Image generation ID: `e373f801-a918-41cc-aa32-e42323be4900`.

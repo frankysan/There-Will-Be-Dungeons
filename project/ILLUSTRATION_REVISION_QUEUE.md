@@ -125,21 +125,7 @@ queue write does not authorize modifying or silently using flawed art.
 
 ## Open illustration findings
 
-### IRV-0002 — E001 Dusthill aerial versus newly found map
-
-- **Status / severity / type:** `closed-superseded` / `major` / `new-context` (older first aerial only); its original map comparison remains provisional, but its incorrect 1672 × 941 canvas is confirmed.
-- **Date:** 2026-10-25.
-- **Subject/state:** The Wastes, `WASTES-DUSTHILL-A01` opening settlement.
-- **Affected image:** Owner-selected generated aerial view, `gen_id=5549267f-4eb6-4d62-aa21-d5897f33e272`; not yet stored in the repository or embedded in its world page. **Technical production issue (2026-10-25):** The generation output metadata reports **1672 × 941**, a landscape aspect ratio that **fails** the mandatory `1024 × 1024`, square PNG production gate regardless of map fidelity. Preserve the owner's selection history, but do **not** publish or classify this source render as a conforming project asset unless it is safely recomposed/normalized to square and the final PNG/sRGB bytes are verified.
-- **Observed issue:** Illustration represents hidden red-rock village, huts, water outlet and cave farms, but omits a clearly distinct gathering circle and other mapped locations (school, Hillmaster hut, barracks, trading post), while positions of farms and garage are interpretive.
-- **Evidence:** Direct pixel inspection of `local/images-wiki/maps/Dusthill.webp` (formerly `DVJ4V1JVwAErBl-.webp`), SHA-256 `141731587b065a5271a6814c2d1cfd264f8b8a0a86b3fdbe41219266ef7bc5ce`; [revised subject reference](ILLUSTRATION_DUSTHILL_REFERENCE.md#newly-inspected-dusthill-plan-2026-10-25). Map provenance/era and scale unverified. On 2026-10-25 the project owner recalled that it probably originated with the GM but could not confirm authorship (`owner-recollection`, not a verified credit); E001 geography ASR-based, audio not listened.
-- **Applicability:** Map may show another era or schematic approximation; aerial view cannot depict every detail. This is **not a confirmed contradiction**.
-- **Action:** The owner requested and selected a new map-informed E001 aerial. Preserve the older source image and IRV history; do not reuse the old non-square render. Map date/provenance research remains outstanding and applies independently to the *new* selected interpretation.
-- **Owner action:** After pausing the first image for map research, the owner requested a replacement E001 aerial and expressly selected it for Dusthill's `/world` page on 2026-10-25. New image working ID: `WASTES-DUSTHILL-ILL-001`, generation `e373f801-a918-41cc-aa32-e42323be4900`.
-- **Resolution:** **Superseded as the selected design**, not corrected in place. A compliant 1024 × 1024 sRGB PNG has been prepared (SHA-256 `9b978f2c3fb02598279656baef39e7bb3d7bdfc5efa7163de536480aa60e71bf`), but its transfer to the repository and `/world` embedding are **pending**. Do not claim deployment or close out the binary transfer until the repo image actually exists.
-- **History:** 2026-10-25 — added on direct map inspection; later that day the user selected a map-informed replacement. Old image retained as superseded; no automatic file overwrite.
-
-
+*No open illustration issues remain in this ledger as of this review.*
 
 <!-- Real entry structure; use next unused IRV-####.
 ### IRV-XXXX — <short problem / subject and state>
@@ -161,6 +147,20 @@ queue write does not authorize modifying or silently using flawed art.
 -->
 
 ## Closed and superseded findings
+
+### IRV-0002 — E001 Dusthill aerial versus newly found map
+
+- **Status / severity / type:** `closed-superseded` / `major` / `new-context` (older first aerial only); its original map comparison remains provisional, but its incorrect 1672 × 941 canvas is confirmed.
+- **Date:** 2026-10-25.
+- **Subject/state:** The Wastes, `WASTES-DUSTHILL-A01` opening settlement.
+- **Affected image:** Owner-selected generated aerial view, `gen_id=5549267f-4eb6-4d62-aa21-d5897f33e272`; not yet stored in the repository or embedded in its world page. **Technical production issue (2026-10-25):** The generation output metadata reports **1672 × 941**, a landscape aspect ratio that **fails** the mandatory `1024 × 1024`, square PNG production gate regardless of map fidelity. Preserve the owner's selection history, but do **not** publish or classify this source render as a conforming project asset unless it is safely recomposed/normalized to square and the final PNG/sRGB bytes are verified.
+- **Observed issue:** Illustration represents hidden red-rock village, huts, water outlet and cave farms, but omits a clearly distinct gathering circle and other mapped locations (school, Hillmaster hut, barracks, trading post), while positions of farms and garage are interpretive.
+- **Evidence:** Direct pixel inspection of `local/images-wiki/maps/Dusthill.webp` (formerly `DVJ4V1JVwAErBl-.webp`), SHA-256 `141731587b065a5271a6814c2d1cfd264f8b8a0a86b3fdbe41219266ef7bc5ce`; [revised subject reference](ILLUSTRATION_DUSTHILL_REFERENCE.md#newly-inspected-dusthill-plan-2026-10-25). Map provenance/era and scale unverified. On 2026-10-25 the project owner recalled that it probably originated with the GM but could not confirm authorship (`owner-recollection`, not a verified credit); E001 geography ASR-based, audio not listened.
+- **Applicability:** Map may show another era or schematic approximation; aerial view cannot depict every detail. This is **not a confirmed contradiction**.
+- **Action:** The owner requested and selected a new map-informed E001 aerial. Preserve the older source image and IRV history; do not reuse the old non-square render. Map date/provenance research remains outstanding and applies independently to the *new* selected interpretation.
+- **Owner action:** After pausing the first image for map research, the owner requested a replacement E001 aerial and expressly selected it for Dusthill's `/world` page on 2026-10-25. New image working ID: `WASTES-DUSTHILL-ILL-001`, generation `e373f801-a918-41cc-aa32-e42323be4900`.
+- **Resolution:** **Closed as superseded**, not corrected in place. Replacement `WASTES-DUSTHILL-ILL-001` (`illustrations/wastes/dusthill-e001-aerial-establishing.png`) was verified in the connected repository with exact SHA-256 `9b978f2c3fb02598279656baef39e7bb3d7bdfc5efa7163de536480aa60e71bf`, PNG dimensions 1024 × 1024, and an embedded ICC profile, then linked on `world/places/dusthill.md` with a provenance note. The first landscape image remains superseded; neither map-authorship verification nor hosted deployment is implied.
+- **History:** 2026-10-25 — added on direct map inspection; later that day the user selected a map-informed replacement. Old image retained as superseded; no automatic file overwrite.
 
 ### IRV-0001 — Fate 4 early style previews lack defining unveiling features
 

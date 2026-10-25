@@ -1,6 +1,6 @@
 ---
 name: twbd-illustration-research
-description: Research source-grounded visual references for a TWBD character, creature, place, item, vehicle, event or faction across its changing story appearances. Cross-reference campaign-end D&D Beyond character-sheet JSON for canonical spelling and leads to characters, items, locations and NPCs, but never backdate final-sheet appearance or inventory. Keep evidence and state chronology distinct, and flag existing art that needs review. No image generation.
+description: Research source-grounded visual references and prepare written character design-sheet briefs for recurring TWBD characters, alongside other creatures, places, items, vehicles, events and factions across changing story appearances. Cross-reference campaign-end D&D Beyond character-sheet JSON for canonical spelling and leads to characters, items, locations and NPCs, but never backdate final-sheet appearance or inventory. Keep evidence and state chronology distinct, and flag existing art that needs review. No image generation.
 ---
 
 # TWBD illustration research — entity-first appearance history
@@ -11,7 +11,7 @@ Given **one named entity**, determine its campaign and identity, locate visual e
 
 Examples: `$twbd-illustration-research Wastes "Fate 4"`; `$twbd-illustration-research Delvers "Koh Spiros" through S1E10`; `$twbd-illustration-research Wastes Tietkalla at first appearance`.
 
-Consult [illustration guide](../../../project/ILLUSTRATION_GUIDE.md), [subject-reference template](../../../project/ILLUSTRATION_SUBJECT_TEMPLATE.md), [appearance register](../../../project/ILLUSTRATION_REFERENCES.md), [illustration revision queue](../../../project/ILLUSTRATION_REVISION_QUEUE.md), [editorial guide](../../../project/EDITORIAL_GUIDE.md), [image provenance](../../../project/IMAGE_ASSETS.md), [external references](../../../project/EXTERNAL_REFERENCES.md), and campaign-specific indexes, chronology, world pages, source inventories and review queues as applicable.
+Consult [illustration guide](../../../project/ILLUSTRATION_GUIDE.md), [recurring-character design-sheet specification](../../../project/ILLUSTRATION_CHARACTER_DESIGN_SHEETS.md), [subject-reference template](../../../project/ILLUSTRATION_SUBJECT_TEMPLATE.md), [appearance register](../../../project/ILLUSTRATION_REFERENCES.md), [illustration revision queue](../../../project/ILLUSTRATION_REVISION_QUEUE.md), [editorial guide](../../../project/EDITORIAL_GUIDE.md), [image provenance](../../../project/IMAGE_ASSETS.md), [external references](../../../project/EXTERNAL_REFERENCES.md), and campaign-specific indexes, chronology, world pages, source inventories and review queues as applicable.
 
 **Worked example:** [Fate 4 transcript audit](../../../reports/FATE_4_TRANSCRIPT_AUDIT_2026-10-25.md) and [search manifest](../../../reports/FATE_4_TRANSCRIPT_AUDIT_2026-10-25.json). This is an exemplar of research method, not a universal feature list. Its saved findings awaited appearance-register integration at the time of the audit.
 
@@ -154,6 +154,26 @@ Follow the subject template; retain existing IDs, evidence and historical decisi
 3. For each state write a **complete drawable description**, baseline and deltas, colors/materials versus lighting, scale/orientation (left/right from subject perspective), visible accessories versus custody, required exclusions at that point, unknown choices and evidence IDs. Minor ephemeral changes may remain scene notes rather than new permanent states.
 4. Separate supported facts (`S`) from creative gap-filling choices (`D`) and existing images/production references. A generated image never establishes source canon. Preserve prior choices, note when new evidence contradicts them, and list which earlier images/prompts need revision. **Owner-approved** requires actual approval. For each meaningful visual discovery, perform the mandatory existing-image impact scan in section D; a note buried in prose is not a persisted revision flag.
 5. Subject checks: characters—face, age/build, expression, clothing, wounds and worn gear; creatures—individual versus species anatomy, scale and movement; places—geography, landmarks, architecture, spatial relationships and temporal condition; items/vehicles—construction, openings, scale, mechanisms and repairs; events—exact moment, participants and each one's applicable state, location and spoiler cutoff; factions—insignia versus non-universal clothing.
+6. **Recurring characters:** Decide whether this identifiable character already appears, or is reasonably expected to appear, in at least two project illustrations. Record the basis; do not presume a one-off is recurring without reason. For recurring characters, include a *draw-ready written design-sheet brief* linked to the approved-sheet registry: earliest supported baseline state; full-body front/profile/back, characteristic silhouette, facial structure and expressions, build, visible dress/gear, intrinsic palette, markings and subject-side asymmetry; explicit source-vs-artistic decisions; and source-backed chronology of later variants. Refer to player/creator artwork as intent with its provenance and time limits. Use final-campaign JSON only for late-state evidence or research leads. This brief is not an image or owner approval.
+
+### C1. Sheet-first handoff for recurring characters
+
+Research creates **the written specification** for a recurring character,
+not an illustrated design sheet. Consult and update the subject's entry in
+[ILLUSTRATION_CHARACTER_DESIGN_SHEETS.md](../../../project/ILLUSTRATION_CHARACTER_DESIGN_SHEETS.md):
+`research-blocked` when key features/states are unsupported, or
+`sheet-needed` when enough research is integrated to start a provisional
+baseline sheet. Link any pre-existing sheet candidate and state IDs; do not
+claim it is owner-approved merely because it exists or a player drew it.
+Research clearance permits a **design-sheet draft** under the generation
+skill, not a scene illustration of a recurring character. Scene work must
+await explicit sheet approval, with separate state-variant coverage.
+
+When new material contradicts a sheet or existing scene, add the actual
+**impacted image IDs** to the existing-art review process in section D.
+Do not label a legitimate evolution (scar, gear, disguise, etc.) an error.
+Never automatically redraw or replace the sheet. Preserve both underlying
+show evidence and the original artistic decision/version.
 
 ## D. Check existing illustrations and flag revision impacts
 
@@ -204,7 +224,7 @@ them.
 
 For a substantial search, publish a dated `reports/ILLUSTRATION_<CAMPAIGN>_<ENTITY>_AUDIT_<date>.md` with scope and pinned source identities, search methodology, **files screened versus passages read/listened**, grouped evidence, state chronology, rejected leads, unresolved contradictions, image provenance and explicit next checks. Link any machine-readable search manifest.
 
-**Mandatory integration gate:** update `project/ILLUSTRATION_REFERENCES.md` or an indexed dedicated subject file with the evidence IDs, recognition baseline, complete supported states, conflicts, artistic decisions, existing illustration impact list and change log. The search report alone is **not** an integrated/finished reference. Preserve pre-existing state IDs and records; fix relevant source mistakes in separately bounded edits or log a precise correction task if unsafe to do now.
+**Mandatory integration gate:** update `project/ILLUSTRATION_REFERENCES.md` or an indexed dedicated subject file with the evidence IDs, recognition baseline, complete supported states, conflicts, artistic decisions, existing illustration impact list and change log. For recurring characters, also integrate the **design-sheet brief**, sheet registry link/status and relevant state variants; research completion is **not** sheet approval. The search report alone is **not** an integrated/finished reference. Preserve pre-existing state IDs and records; fix relevant source mistakes in separately bounded edits or log a precise correction task if unsafe to do now.
 
 **Research-queue handoff:** Before completing an entity requested through
 [the illustration research queue](../../../project/ILLUSTRATION_RESEARCH_QUEUE.md),
@@ -225,4 +245,4 @@ At the end of each phase persist a resumable checkpoint: campaign/entity ID, sou
 
 Read back edited sections, inspect final Git status and ensure no original source media/SRT was changed. Check stable IDs, story-state boundaries, evidence role versus verification wording, real relative links, register index and Markdown tables. Where a suitable project runner exists, lint **only changed maintained Markdown**, for example `npm run lint:markdown -- --files <changed-paths>`. Run only relevant tests; report editorial verification and automated checks independently as **passed / failed / not run**, without invented success claims. Do not run InfinityDB-only check tools against this repository. Do not silently commit, push or overwrite unrelated edits.
 
-Report: entity/campaign; source ref; available character-sheet JSON files actually examined (or access gap), candidate cross-entity spellings/references with terminal-state labels, screened versus context-read versus listened coverage; strongest drawable requirements and changes; files written; active register integrated or pending; existing illustrations checked and any persisted `IRV-####` flags (or explicitly none); remaining contradictions and exact next check. An incomplete session ends with a durable phase checkpoint if writing is supported, not a claim of full research.
+Report: entity/campaign; source ref; recurring-character status and written design-sheet readiness/approval gap where applicable; available character-sheet JSON files actually examined (or access gap), candidate cross-entity spellings/references with terminal-state labels, screened versus context-read versus listened coverage; strongest drawable requirements and changes; files written; active register integrated or pending; existing illustrations checked and any persisted `IRV-####` flags (or explicitly none); remaining contradictions and exact next check. An incomplete session ends with a durable phase checkpoint if writing is supported, not a claim of full research.

@@ -7,6 +7,7 @@ is a dedicated **illustration preflight blocker ledger**, not the general
 future art suggestions.
 
 [Illustration guide](ILLUSTRATION_GUIDE.md) ·
+[Design-sheet approval ledger](ILLUSTRATION_CHARACTER_DESIGN_SHEETS.md) ·
 [Subject appearance register](ILLUSTRATION_REFERENCES.md) ·
 [Subject research skill](../.agents/skills/twbd-illustration-research/SKILL.md).
 The separate generation skill installs at
@@ -31,9 +32,12 @@ evidence, the required appearance state or justified state applicability,
 and a drawable description with explicit must-preserve and must-not-appear
 constraints for the requested story moment. ASR-provisional evidence can
 qualify **if honestly labeled** and not so uncertain that the intended
-defining features must be invented. Owner approval of an art design is
-**not** a prerequisite for a first provisional draft; nor can an older
-generated image substitute for missing research.
+defining features must be invented. Owner approval of an art design is **not** a prerequisite for a first
+provisional **design-sheet draft** (or a genuinely nonrecurring subject);
+recurring-character **scene** illustrations also require an applicable
+owner-approved design sheet, separately tracked in the
+[design-sheet ledger](ILLUSTRATION_CHARACTER_DESIGN_SHEETS.md).
+Nor can an older generated image substitute for missing research.
 
 Count named/identifiable characters, creatures, places, vehicles, artifacts,
 significant props and any specifically illustrated historical event as
