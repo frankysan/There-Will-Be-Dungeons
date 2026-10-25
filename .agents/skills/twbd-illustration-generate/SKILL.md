@@ -347,30 +347,42 @@ Build a short explicit brief with:
 
 ### Fixed style prompt block — include unchanged in every generation/edit prompt
 
-> A single 1024 x 1024 pixel square illustration, rendered in the same
-> cohesive graphic-novel / comic-book style used across the There Will Be
-> Dungeons illustration collection: bold, confident dark-ink outer contours
-> with deliberate variation in line weight; finer expressive interior
-> linework; slightly cartoon-stylized but physically recognizable forms;
-> readable silhouettes and purposeful negative space; broad matte muted
-> pastel color areas, restrained neutrals, clear simple cel-shaded shadow
-> shapes and only sparse intentional ink hatching or print-like texture.
-> Detail is focused on identity-defining anatomy, objects and story features,
-> not incidental visual noise. Use at most one main and one supporting vivid
-> accent color across the **entire image**, except where source-established
-> colors require otherwise. Preserve source-specified colors exactly rather
-> than recoloring them to fit the palette. No added captions, speech bubbles,
-> lettering, decorative borders, logos, signatures or watermarks unless the
-> requested scene explicitly requires an in-world marking.
+> A single 1024 x 1024 pixel square illustration, rendered in the cohesive
+> modern adult-animation-inspired graphic-novel / comic-book style used
+> across the There Will Be Dungeons illustration collection. Draw bold,
+> confident dark-ink outer contours with deliberate line-weight variation
+> and only economical, expressive interior lines. Use striking readable
+> silhouettes, expressive but recognizable, slightly cartoon-stylized forms,
+> simplified graphic planes and purposeful negative space. Color with broad
+> matte muted-pastel or earthy-neutral areas and clean, limited cel-shaded
+> light and shadow shapes, not glossy painterly blending or photorealistic
+> modeling. Reserve sparse hatching and print-like texture for a few
+> important identity/material details; avoid dense microtexture, fussy
+> decoration and hyper-detailed skin. Preserve source-required anatomy,
+> injuries, age, features, equipment and severity: show scarred/disfigured
+> subjects through clear stylized shapes rather than graphic gore or
+> beautification. Keep an adult, dramatic tone rather than childish comedy.
+> Use at most one main and one supporting vivid accent color across the
+> **entire image**, except where source-established colors require otherwise.
+> Preserve source-specified colors exactly rather than recoloring them to
+> fit the palette. No added captions, speech bubbles, lettering, decorative
+> borders, logos, signatures or watermarks unless the requested scene
+> explicitly requires an in-world marking.
 
-Treat this prompt block as an **immutable style lock** (v1) introduced
-in guide v0.3 and retained unchanged in v0.5. Changes require a deliberate *project-wide style revision* with a
-new version, not improvisation for a particular character, medium or
-image. The style guide's detailed rules take precedence if a conflict is
-found; report and version any correction. An individual scene's mood,
-weather, lighting and palette must not turn the style into photorealism,
-anime, watercolor, 3-D render or a different comic style. Prior vehicle
-style experiments are **not** an owner-approved universal anchor.
+Treat this prompt block as the **immutable style lock v2**, deliberately
+revised in [illustration guide v0.6](../../../project/ILLUSTRATION_GUIDE.md)
+on 2026-10-25 following owner feedback on the
+[Nash face study](../../../reports/ILLUSTRATION_NASH_FACE_DIRECTION_2026-10-25.md).
+The earlier v1 block is **retired for new work**, not an alternative to
+be mixed in ad hoc. Changes require a deliberate project-wide style
+revision, not improvisation for a particular character, medium or image.
+The style guide's detailed rules take precedence if a conflict is found;
+report and version any correction. Individual scenes may vary in mood,
+lighting and palette without becoming photographic realism, 3-D render,
+watercolor or an incompatible cartoon style. 'Adult animation' here
+means general simplified graphic craft, **not imitation of any one named
+series or studio**. Earlier Nash output is a **preferred style study**, not
+an approved or technically conforming production anchor.
 
 ### 3C. Hard pre-call style-and-canvas gate — run for every invocation
 

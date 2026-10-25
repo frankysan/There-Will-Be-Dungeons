@@ -4,6 +4,7 @@
 appear in multiple project illustrations, across The Wastes, Inverse and Delvers.
 This is a visual-production protocol, **not** a new source of story canon.
 Follow the [style and continuity guide](ILLUSTRATION_GUIDE.md), the
+[progressive-anchor character-sheet implementation plan](ILLUSTRATION_PROGRESSIVE_CHARACTER_SHEET_PLAN.md),
 [appearance register](ILLUSTRATION_REFERENCES.md), the
 [subject template](ILLUSTRATION_SUBJECT_TEMPLATE.md), and
 [image rights policy](IMAGE_ASSETS.md). Keep the campaigns separate.
@@ -122,7 +123,7 @@ is **not** an assertion that the asset exists. A sheet entry records:
 
 | Campaign / character | Sheet ID | Current state | Next action |
 | --- | --- | --- | --- |
-| The Wastes / [Nash Maggard](ILLUSTRATION_NASH_MAGGARD_REFERENCE.md) | `WASTES-NASH-MAGGARD-DS-001` (reserved for E000/A01 baseline, v0.1) | **drafting**; [written E000/A01 design-sheet brief](ILLUSTRATION_NASH_MAGGARD_REFERENCE.md#e000a01-character-design-sheet-brief--draft-v01-2026-10-25) integrated; [two nonconforming render attempts rejected](../reports/ILLUSTRATION_NASH_MAGGARD_DESIGN_SHEET_ATTEMPTS_2026-10-25.md); **no valid project PNG and no owner approval** | Retry only with controllable prompt and actual Scott reference imagery; verify 1024-square PNG/sRGB plus exact scars/eye/staff/satchel and style; obtain owner decision afterward |
+| The Wastes / [Nash Maggard](ILLUSTRATION_NASH_MAGGARD_REFERENCE.md) | `WASTES-NASH-MAGGARD-DS-001` (reserved for E000/A01 baseline, written draft v0.3) | **drafting**; [written E000/A01 design-sheet brief](ILLUSTRATION_NASH_MAGGARD_REFERENCE.md#e000a01-character-design-sheet-brief--draft-v03-2026-10-25) integrated; [two nonconforming render attempts rejected](../reports/ILLUSTRATION_NASH_MAGGARD_DESIGN_SHEET_ATTEMPTS_2026-10-25.md); **no valid project PNG and no owner approval** | Next anchor is **face only** under the progressive plan: red/sightless eye on Nash's **left**, exposed blistered/pustular skin (orange marks) and concealment wraps as owner design direction; later full-body/prop anchors must show the **old nail “Freedom”** at the staff tip (not a fantasy hook), disclosed in E018 and provisionally applicable to E000; verify 1024-square PNG/sRGB and continuity before front/side/back or owner approval |
 
 Do not confuse this example candidate with a complete register of recurring
 characters. Add others when their recurrence and scene-illustration need are

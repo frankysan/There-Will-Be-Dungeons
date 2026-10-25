@@ -1,6 +1,6 @@
 # Delvers — characters
 
-**Spoilers through S2E03 — Withers estate investigation planned, first arc already complete**. Evidence:** ASR-provisional. Working player-character spellings use the [written-source register](../../reports/DISCORD_SPELLING_2026-10-21.md); voice, exact utterances and historical sheet state remain unchecked. No later nicknames or surnames are backdated.
+**Spoilers through S2E04 — completed Withers burglary, first arc already complete**. Evidence:** ASR-provisional. Working player-character spellings use the [written-source register](../../reports/DISCORD_SPELLING_2026-10-21.md); voice, exact utterances and historical sheet state remain unchecked. No later nicknames or surnames are backdated.
 
 | Character | Performer / introduction | Reference |
 | --- | --- | --- |
@@ -44,6 +44,7 @@ These short entries derive from [S1E01](../episodes/S1E01.md); NPC spellings rem
 | Rianu Keeves (phonetic) | Elf still **alive/unconscious**; taps have ceased. **Krandal Cure Wounds heals sores then Revivify experimentally cast on living elf produces faint “Kalizar”**, still no awakening; Krandal keeps word private. [S2E01](../episodes/S2E01.md) |
 | Edgar Boonefellow, Norman Green, Faelan Ianya | **Living First Sons Brotherhood** trio assisting in S1E08 and S1E09; Faelan rescued from **Noble Hollow sacrifice** and Norman from collapse by Evelyn's healing; **both alive at first-arc end**. Do not equate S1E01 missing “Edgar” to Boonefellow; [S1E12](../episodes/S1E12.md) |
 | [Buck Broscale / Wildfire](characters/buck-broscale-wildfire.md) | **Living** red dragonborn silver warrior, healed by Krandal in S1E05; explicitly **brother of dead Brom** and now private psionic mentor to Koh, with his own stone circlet retained |
+| [Shrugs Manaspoon](characters/shrugs-manaspoon.md) | **Brian Dunaway guest wood-elf rogue/demolition expert**; picks traps, throws dynamite, Flame Tongue; **briefly unconscious but healed**, steals with two Bags of Holding, seen by servant disguised in coats; **escapes with Delvers**, surname ASR-phonetic |
 | [The Great Daufante](characters/the-great-daufante.md) | **Guest played by Bo Schwartz**; masked illusionist/wizard with **Connor zombie**, **Hamlet spider**, **Robe of Stars**; retrieves **Deck of Many Things** from wight and leaves with deck after forfeiting reward share; exact title phonetic |
 | Grandfather Aurelli/Orilli Hooper | **Wight** hanged in woods 15 years ago according to murderer Goodwine's confession, raises animated tree; **defeated and buried S2E02**, name phonetic. [Estate](places/hooper-estate.md) |
 | Mr. Goodwine | Elder member of wedding family; **confesses under Charm Person** to beating and hanging Hooper; **physically buries body with Connor**, remains alive; murder not disclosed publicly. [Estate](places/hooper-estate.md) |

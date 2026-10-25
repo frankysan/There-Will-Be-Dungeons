@@ -1,21 +1,25 @@
 # Nash Maggard — illustration reference (The Wastes)
 
-**Version:** provisional 0.2, 2026-10-25. **ID:** WASTES-NASH-MAGGARD. **Source level:** processed-ASR and episode dossiers, not audio-verified; **Scott Johnson's Nash drawings are player-created visual interpretation** per archive-owner attribution, valuable for intended appearance but not authoritative over conflicting episode narration. Other historic fan art is secondary visual inspiration. [World article](../world/characters/nash-maggard.md).
+**Version:** provisional 0.5, 2026-10-25. **ID:** WASTES-NASH-MAGGARD. **Source level:** processed-ASR and episode dossiers, not audio-verified; **Scott Johnson's Nash drawings are player-created visual interpretation** per archive-owner attribution, valuable for intended appearance but not authoritative over conflicting episode narration. Other historic fan art is secondary visual inspiration. [World article](../world/characters/nash-maggard.md).
 
-**Recurring-character design-sheet gate:** [Sheet registry](ILLUSTRATION_CHARACTER_DESIGN_SHEETS.md) reserves `WASTES-NASH-MAGGARD-DS-001` for a first **E000/A01 baseline model sheet**. Status: `drafting`; two nonconforming image-generation studies were rejected and **no usable project model sheet or owner approval exists** (see [attempt report](../reports/ILLUSTRATION_NASH_MAGGARD_DESIGN_SHEET_ATTEMPTS_2026-10-25.md)). Research must distinguish initial scars, damaged eye, boots, staff and satchel from undated creator costume choices. The illustrated sheet should preserve bodily asymmetry when evidenced, avoid assigning an unverified eye side/color, and keep E089+ regrowth, later red-eye treatment and E098 Skyblinder equipment out of the baseline. Scott Johnson's drawings inform a proposed hood/staff silhouette, not an episode-proven costume. New Nash scene illustrations require sheet approval and the correct state variant first.
+**Recurring-character design-sheet gate:** [Sheet registry](ILLUSTRATION_CHARACTER_DESIGN_SHEETS.md) reserves `WASTES-NASH-MAGGARD-DS-001` for a first **E000/A01 baseline model sheet**. Status: `drafting`; the early nonconforming full-sheet studies were rejected, and later E000 **face studies led to an owner-preferred adult-animation style direction**, but **no technically conforming owner-approved face anchor or complete project sheet exists** (see [earlier attempt report](../reports/ILLUSTRATION_NASH_MAGGARD_DESIGN_SHEET_ATTEMPTS_2026-10-25.md) and [face-direction review](../reports/ILLUSTRATION_NASH_FACE_DIRECTION_2026-10-25.md)). Research must distinguish initial scars, damaged eye, boots, staff and satchel from undated creator costume choices. The illustrated sheet should **place the red, sightless eye on Nash's own left** (viewer-right in a straight-on portrait), as a fixed **owner-directed visual-continuity decision**, not a verified E000 side assignment. In E000 it can be red but dormant/subdued, without importing the **stronger E089+ glow**, later regrowth or E098 Skyblinder equipment. Scott Johnson's drawings inform a proposed hood/staff silhouette, not an episode-proven costume. New Nash scene illustrations require sheet approval and the correct state variant first.
 
-## E000/A01 character design-sheet brief — draft v0.1 (2026-10-25)
+## E000/A01 character design-sheet brief — draft v0.4 (2026-10-25)
 
 **Identity:** `WASTES-NASH-MAGGARD-DS-001`; planned visual reference for
 `WASTES-NASH-MAGGARD-A01` only (E000 introduction). **Status: drafting,
-not owner-approved.** Relevant show text: S01, E000 00:03:49–00:06:25
+not owner-approved.** The owner's 2026-10-25 design-direction changes
+fix red/sightless eye laterality and interpret orange skin marks and wraps;
+subsequent owner feedback favors a **bald, heavily burn-scarred and bandaged
+face in simplified modern adult-animation style**. These directions do
+**not** constitute approval of any generated image. Relevant show text: S01, E000 00:03:49–00:06:25
 (processed ASR read directly; audio not listened to). Scott Johnson's
 undated blue sketch and colored Nash drawing were directly inspected,
 and are **owner-attributed player-created intent**, not objective
 episode-era evidence. Their character design can guide style and
 recognition without silently canonizing its details. Apply the project
 [design-sheet protocol](ILLUSTRATION_CHARACTER_DESIGN_SHEETS.md),
-[style v0.5](ILLUSTRATION_GUIDE.md), and its mandatory 1024-square PNG
+[style v0.6 / renderer lock v2](ILLUSTRATION_GUIDE.md), and its mandatory 1024-square PNG
 and fixed ink/pastel style recipe.
 
 ### Source-grounded baseline (mandatory)
@@ -23,40 +27,73 @@ and fixed ink/pastel style recipe.
 - **Recognition:** An adult male-presenting human traveler, visibly
   scarred, pitted and tumor-marked, with damaged/irregular facial skin;
   **two eyes**, one functional/seeing and the other sightless, dormant
-  yet described as burning. Keep the eyes visibly differentiated without
-  presuming the later E089 glowing-red-eye design or inventing a verified
-  eye side. Scars, boils/craters and facial identity must remain visible
-  in the enlarged facial reference even if a hood shades part of the face.
+  yet described as burning. **Owner's visual choice: the sightless/red eye
+  is Nash's LEFT eye** (viewer-right when facing him); the seeing eye is
+  his right. E000 red may be subdued/dormant, not the later strong E089+
+  luminous-red-eye treatment. This is a consistent artistic placement,
+  **not a transcript-verified anatomical side**. Scars, blisters, pustules,
+  boils/craters and facial identity must remain visible in the enlarged
+  facial reference even if a hood shades part of the face. **Approved
+  *direction*, not source canon:** for E000 draw Nash **bald or nearly
+  hairless**, with **extensive old severe-burn-like contracted, uneven
+  scar tissue** obscuring much of the face. Sparse stubble is possible,
+  but do not give him a full healthy mane, long hair or a heavy beard.
+  Use graphic simplified skin planes, not fresh or photorealistic gore.
 - **Outfit/gear:** Worn/tattered boot visible; carries a staff and a
-  **threadbare satchel** slung over his shoulder. The exact boot design,
-  clothing silhouette, staff head, eye color and shoulder side are
-  **unspecified in the E000 transcript**.
+  **threadbare satchel** slung over his shoulder. **The staff's hook/point
+  is an old metal nail, which Nash calls “Freedom” in E018.** Its nature
+  comes from his later first-person account of the Solar Mines, not the
+  E000 opening description, which mentions only a staff. For the E000
+  *provisional* illustration, use the nail-tipped staff as a plausible
+  long-standing possession; the exact date it was affixed, nail shape,
+  mounting method and whether the name was already spoken before E018
+  are not independently dated. The exact boot design, clothing silhouette,
+  **eye side/color as spoken evidence** and satchel shoulder side are
+  unspecified in the E000 transcript.
+  For visual continuity we deliberately assign red to Nash's left eye.
+  Skin-covering wraps/bandages are an **owner-proposed artistic reading**
+  of Scott's drawing: they mainly **conceal disfigurement and pustules**,
+  not armor, radiation shielding or primarily protective medical dressings.
 - **Explicit exclusions for this baseline:** No E053 small third
   arm, later regrowth, E089 outfit/new glowing-eye treatment, E098
   Skyblinder white bird finial, late mechanical-heart manifestations,
   full dragon form, or terminal-sheet jacket/gear.
 - **Story-time note:** This is the preadventure E000 introduction
   at dawn; later D&D Beyond details represent the campaign end.
-  No exact introduction height or hair description is established.
-  The studio-like design-sheet backdrop is neutral, not a new setting.
+  No exact introduction height, **hair/facial-hair color** or hair-loss
+  date is established. The **end-of-campaign JSON says `hair: "Gone"`,
+  `eyes: "One sighted, one magic."`, `skin: "Burned and disfigured."`**,
+  but its late snapshot does not prove the early hairstyle. Baldness and
+  the severe healed-burn visual treatment for E000 are owner-selected
+  art-continuity interpretations reconciled with the introduced scarring,
+  not audio-verified E000 descriptions. The studio-like design-sheet
+  backdrop is neutral, not a new setting.
 
 ### Provisional artistic decisions (await owner review)
 
 | ID | Proposed feature | Status and limit |
 | --- | --- | --- |
-| D01 | Scott-inspired deep rust/umber hood and cape, broad worn brown boots, olive/sand waist drapery, layered muted grey travel garments with sparse warm terracotta accents | Player-created visual-intent-inspired **provisional choice**, not show-proven outfit/colors/armor |
-| D02 | Hood partially shades forehead/face while close-up reveals distinctive pitted facial skin and both distinct eyes | Creative reconciliation of player art's face-shadow with played E000 disfigurement; do not depict a featureless black void |
-| D03 | Eyes: one ordinary dark seeing eye and one subdued ember-amber sightless eye; location on a particular side is **undecided** and any placement in draft is merely a layout choice | Do not equate player portrait's single red glint with post-E089 red eye or assert an unverified eye side |
-| D04 | Plain worn walking staff with an understated curved/uneven top (echoing Scott's hooked staff) and visible threadbare shoulder satchel | Staff/satchel are sourced, specific hook and materials are **artistic**; absolutely no later white-winged bird finial |
-| D05 | Lean, hardy adult proportions, gloved/wrapped forearms and dusty/worn fabric; no numerical height, weight or age | Design convenience, **not** a demonstrated E000 build or exact anatomy; only two normal arms/hands |
+| D01 | Scott-inspired deep rust/umber hood and cape, broad worn brown boots, olive/sand waist drapery and muted grey wrapped/layered travel garments; warm orange is primarily *damaged, exposed skin*, not a repeating decorative color pattern | Player-created visual-intent-inspired **provisional costume/palette choice**; orange areas in Scott's image are interpreted as blister/pustule lesions rather than ornament or armor motifs |
+| D02 | Hood partially shades forehead/face while close-up reveals distinctive pitted facial skin and both distinct eyes; cloth/bandages wrap or hide much of the worst damaged skin on the body, with purposeful glimpses of lesions | Owner's reading: wraps function **primarily to conceal Nash's disfigurement**, not as protective armor; creative reconciliation of Scott's covered silhouette with E000 damage, not source-verified motivation |
+| D03 | **Nash's left eye is red and sightless/dormant; his right eye sees.** Left/right are always **his** left/right (front portrait: red appears on viewer-right). Use a subdued red ember/iris in E000, without implying constant pronounced illumination. | **Fixed owner-directed art/continuity decision on 2026-10-25**, not a verified source claim about E000 eye side. E089+ enhanced glowing-red treatment is a later state, not an early default; never mirror in side views |
+| D04 | **Old nail “Freedom” forms the staff's hooked/pointed tip**: a recognizably ordinary aged iron nail, secured to the end of a plain, worn walking staff, not a fantasy forged hook or stylized pick-blade; also show Nash's threadbare shoulder satchel. Keep the nail silhouette readable in the later full-body and staff detail anchors. | **Nail identity and name** supported by Nash's E018 first-person account (S07) and owner clarification; E000 staff sourced independently (S01), but the exact attachment date/installation/scale are unverified. The subdued aged-metal treatment and how it is attached are *provisional design choices*. **No E098 Skyblinder bird finial.** |
+| D05 | Lean, hardy adult proportions, heavily wrapped forearms/skin and dusty, worn cloth, with glimpses of scarred skin and irregular reddish-orange pustules beneath/between wrappings; no numerical height, weight or age | **Owner interpretation of Scott's orange circular spots as lesions from heavy Solar Mines radiation exposure**, not ornamental polka dots; a plausible interpretation of the backstory, not audio-verified causation or exact E000 distribution. Bandages chiefly hide appearance. Only two normal arms/hands |
+| D06 | **Bald or almost entirely hairless** scalp under the hood, with only possible sparse face/scalp stubble; avoid long dark hair, a full healthy beard, or attractive rugged-ranger grooming | **Owner-preferred E000 design decision**, supported as a research lead by the **campaign-end** JSON `hair: "Gone"` but **not established as E000 time-specific truth**. Beard growth/color are unspecified; the initial hairy render is a rejected identity direction |
+| D07 | Face reads as **severely healed/burn-contracted and disfigured**, with broad asymmetrical scar-tissue plates, distorted skin around his red left eye, uneven cratered texture and some irregular older blister/pustule remnants | Owner's preferred look and late JSON `skin: "Burned and disfigured."`; E000 already describes scars/pitting/tumors but exact burn stage/severity and whether these features were then identical remain **unverified**. Portray with **stylized graphic shapes, not close-up photoreal gore**, and do not make him only mildly acne-marked |
+| D08 | **Bandages extend across the bald scalp and forehead, over selected parts of his nose/cheeks and around the neck**, beneath a deep torn rust/umber hood. Keep both eyes identifiable and enough scars visible to recognize him. | Owner-preferred concealment-first arrangement demonstrated by the last multi-view face study. Modern adult-animation / comic-book render treatment with strong black ink, broad matte colored shapes, cel shadows and restrained microtexture. **Preferred style and identity direction, not an approved anchor or source-established exact wrap routing** |
+
+**Planned production order:** Follow the [progressive anchor plan](ILLUSTRATION_PROGRESSIVE_CHARACTER_SHEET_PLAN.md): first approve a face close-up, then a front full-body view, side/profile, back, and finally text-free layout pages. No anchor or final sheet is approved yet.
 
 **Required visual-sheet views:** neutral full-body front, side/profile
 and rear views with matched proportions and consistent hood/cape, boots,
-satchel and staff; enlarged three-quarter face inset with both eyes
+satchel and **nail-tipped staff** (the old nail “Freedom”); enlarged three-quarter face inset with both eyes
 and identifiable skin damage; expressions (neutral/guarded and determined)
 when space permits. Keep relative left/right consistent through views,
-but record which eye side was chosen only as *D03 artistic placement*.
-No lettering/annotations in pixels; swatch names and provenance stay in
+and **do not mirror Nash's left/red eye or scar/lesion placement** across
+views. D03 eye laterality is owner-fixed for art, not dialogue-verified.
+Orange marks should read as **organic blistered/pustuled skin**, never
+stitched geometric outfit decoration; skin wrappings look intended to
+conceal this scarring, not military/medical protection. No lettering/annotations in pixels; swatch names and provenance stay in
 this text reference. If the multi-view layout cannot fit legibly, use
 multiple **individually 1024 × 1024 sRGB PNG** sheets. For the eventual
 image, store actual generation provenance, image path/hash and verification,
@@ -66,7 +103,7 @@ and await explicit owner acceptance before use as a scene anchor.
 
 | State | Story placement | Complete visual guidance |
 | --- | --- | --- |
-| WASTES-NASH-MAGGARD-A01 | E000 introduction | Scarred, pitted, tumor-marked human traveler; one seeing eye and one sightless, burning/dormant eye; worn boot, staff and threadbare shoulder satchel. Hair, exact eye side/color, hood, costume colors and staff finial are not source-established. |
+| WASTES-NASH-MAGGARD-A01 | E000 introduction | Scarred, pitted, tumor-marked human traveler; one seeing eye and one sightless, burning/dormant eye; worn boot, staff and threadbare shoulder satchel. The staff may show the old nail **Freedom** based on Nash's E018 retrospective (S07), but E000 itself does **not** establish the nail's presence/name/mounting. Hair, eye laterality/color, hood and costume colors are not E000 dialogue-established; design D03 fixes Nash's left as the subdued red, sightless eye. |
 | WASTES-NASH-MAGGARD-A02 | E053 and nearby later humanoid scenes; exact beginning unknown | Same damaged human form plus a **small third arm/hand**, retained by choice; not a full normal-sized limb. A July 2020 retrospective confirms sparse scales appearing among boils/tumors but does not identify the first episode. |
 | WASTES-NASH-MAGGARD-A03 | Temporary dragon transformations, E025 onward | Black dragon with wings, claws and tail. Match age and relative size to episode: E025 transformation enlarged by spell, E036 **wyrmling**, E053 **young black dragon**. Not the permanent base body. |
 | WASTES-NASH-MAGGARD-A04 | E082 | Floating **dark stone/metal heart** with pipes, yellow/green gauge and red/pink tissue generating one eyeball. No normal humanoid head, legs, mouth or arms initially. |
@@ -78,7 +115,7 @@ and await explicit owner acceptance before use as a scene anchor.
 | WASTES-NASH-MAGGARD-A10 | E121 and later adult-dragon scenes | **Adult black dragon**; a mechanical heart and gauges become externally visible in the dragon's chest in a specific extraordinary E121 scene, not as a permanent chest window. |
 | WASTES-NASH-MAGGARD-A11 | End-of-campaign sheet snapshot only | Male, age 34, 6 ft 3 in, 198 lb, hair described as **Gone**, eyes **One sighted, one magic**, skin **Burned and disfigured**. Late gear listed includes Skyblinder staff, Cloak of Protection, Ring of Spell Storing and concealed-spike boots. These details cannot be backdated to E000 or assumed visible in E128. |
 
-**Special props:** Nash acquires a **Skyblinder staff** with a white-winged bird ornament in E098. The E000 staff has no established matching ornament. A Robe of Useful Items is used in E048–E053, with patches consumed; its presence and remaining props depend on the scene. The terminal-sheet **Rambunctious Bunch Gang Threads** jacket (dark leather, spiked shoulders, skulls with red gem eyes) is marked *not equipped* and should not be treated as standard outfit.
+**Special props and chronology:** In E018 Nash tells the party that the nail fastened to his staff is **“Freedom”**, associated with his escape from enslavement in the Solar Mines. This is the **old physical nail used as the staff's hook/point**, not a separate magic gem, forged spearhead or fantasy blade. His **first-person history** is a later disclosure about earlier events, rather than independently witnessed GM narration; it supports an E000 nail-tipped design as a **provisional retrospective continuity interpretation**, not an E000 dialogue-confirmed staff-head or confirmation of the exact attachment date. **Never confuse this Freedom with the distinct firearm of the same name introduced in E014.** Later, E073 documents the **staff broken with its nail-bearing half still usable as an arcane focus**; the E073 damaged staff must not be shown as intact merely because the E000 model shows it whole. The 2019-03 bonus records the nail/staff as sentimental and sought after when left in Slavetown, not a recovery. Nash acquires a **Skyblinder staff** with a white-winged bird ornament in E098. The E000 staff has no established matching ornament. A Robe of Useful Items is used in E048–E053, with patches consumed; its presence and remaining props depend on the scene. The terminal-sheet **Rambunctious Bunch Gang Threads** jacket (dark leather, spiked shoulders, skulls with red gem eyes) is marked *not equipped* and should not be treated as standard outfit.
 
 ## Source evidence and verification
 
@@ -87,6 +124,8 @@ and await explicit owner acceptance before use as a scene anchor.
 - **S03 — reviewed dossiers:** [E025](../episodes/E025.md), [E036](../episodes/E036.md), [E053](../episodes/E053.md): black-dragon stage/size and small extra arm.
 - **S04 — reviewed dossiers:** [E082](../episodes/E082.md)–[E089](../episodes/E089.md): floating-heart regeneration sequence and complete recovery only in E089.
 - **S05 — reviewed dossiers:** [E090](../episodes/E090.md), [E092](../episodes/E092.md), [E098](../episodes/E098.md)–[E100](../episodes/E100.md), [E121](../episodes/E121.md): armpit feature, temporary disguise, conjoined fiend, adult dragon and extraordinary exposed heart.
+- **S07 — E018 later disclosure, first-person narrative:** [E018 transcript-based dossier](../episodes/E018.md) around **01:00–01:14**, based on processed Parakeet SRT, **not audio-verified**. Nash identifies the **old nail affixed to his staff as “Freedom”** and recounts finding/using it while escaping the Solar Mines; its appearance/naming is disclosed in E018, but an exact original installation date or E000 staff-head design is not directly narrated there. [External references](EXTERNAL_REFERENCES.md) also distinguish it from E014's **unrelated gun named Freedom**. User explicitly clarified on 2026-10-25 that Scott's staff hook/point depicts this old nail.
+- **S08 — later staff continuity:** [E073 dossier](../episodes/E073.md) confirms the staff was **broken**, with the **nail-bearing part** retained for arcane-focus use. [BONUS 2019-03 dossier](../episodes/BONUS-2019-03.md) records the sentimental nail/staff **left in Slavetown** as a hoped-for recovery. These sources define later states and custody, not what E000 necessarily showed. Dossiers derived from ASR; no new audio listening performed.
 - **S06 — campaign-end sheet:** `sources/json/nash-maggard.json`, character identity/appearance and inventory attributes, structured JSON previously parsed; **not** an introduction-era character sheet. Same-campaign Hope/Stanley/Vorel sheets were cross-checked for mentions, not treated as independent evidence for Nash's appearance.
 
 ## Scott Johnson's Nash artwork — player-associated visual design
@@ -96,10 +135,10 @@ On 2026-10-25 the archive owner identified the artwork under `local/images-wiki/
 | Current private image | Observed features | SHA-256 (current file) |
 | --- | --- | --- |
 | `local/images-wiki/scott-johnson-art/Nash_-_Scott_Johnson.webp` | Blue line sketch: upright, fully hooded figure with deep featureless face shadow, cape, layered/sleeved outfit, broad boots and long two-handed staff with hooked pick-like top. A preparatory design relative to the colored work is plausible, **not independently dated/proven**. | `107993f8f6eb5fefceb2a7fabe91530b00c4cb24b72c2fe4d8a7a74a926fd3dc` |
-| `local/images-wiki/scott-johnson-art/Scott_Johnson-Nash_Maggard.webp` | Closely matching color treatment: dark reddish-brown hood/cape, shadow-concealed face with a single red eye highlight, pale grey segmented armor-like garment, orange spots/bands on limbs, olive/brown waistcloth, large brown boots and distinctive two-handed hooked staff. Armor, markings and staff design are **art interpretation**, not yet independently verified as equipment or enduring anatomy. | `a5adb03a7a935eb18664e8d6c9d4a8d074c6388e19189b715b6db4eafee22cad` |
+| `local/images-wiki/scott-johnson-art/Scott_Johnson-Nash_Maggard.webp` | Closely matching color treatment: dark reddish-brown hood/cape, shadow-concealed face with a single red eye highlight, pale grey segmented/wrapped garment, orange spots/bands on limbs, olive/brown waistcloth, large brown boots and distinctive two-handed hooked staff. **Owner's subsequent reading (2026-10-25): orange spots likely represent radiation-related blisters/pustules visible between wraps; bandages mainly conceal damaged skin.** This is interpretive rather than proof that these are decorative motifs or protection. | `a5adb03a7a935eb18664e8d6c9d4a8d074c6388e19189b715b6db4eafee22cad` |
 | `local/images-wiki/scott-johnson-art/Scott_Johnson_-_Nash_Dragon_Form.webp` | Profile of long-snouted dragon with angular backward-swept horns/ridges, sharp teeth, red eye and **blue/cyan scales** with darker blue underside. Its blue coloring **conflicts with the repeatedly narrated black-dragon form** (E025, E036, E053, E121 and later); retain the player's expressive palette as a separate image observation, **do not recolor canonical episode art blue by default**. Exact age, transformation scene and date of drawing unknown. | `16fed7ed9e5fb5ba8017e01168d466828032d36653eaa7e5f8bf11d1a026a84f` |
 
-**Design weight:** Use the human silhouette, deep hood, broad boots, cape and long staff as strong *creator-intent leads* for a potential common Nash model; keep actual eye condition, exposed scarring/tumors, gear changes and timing governed by episodes. The red eye in the undated portrait is not evidence that the **post-E089** red eye was already identical at E000; the first introduction describes two eyes, one sightless. Repeated-looking staff design across sketch and colored painting is **one artist's design lineage**, not two independent confirmations of its historical use. The blue dragon's silhouette is valuable as a player conception, but color is a documented narrative conflict rather than a new canonical dragon species/color. A source-era reconciliation and owner-approved model sheet are still pending.
+**Design weight:** Use the human silhouette, deep hood, broad boots, cape and long staff as strong *creator-intent leads* for a potential common Nash model; interpret the orange circles as **exposed blistered/pustular skin from Solar Mines exposure** and the wraps as primarily **concealment** per owner commentary, not as decorative dots or protective armor. These are **visual design hypotheses**, not independently confirmed dialogue. Keep actual eye condition, exposed scarring/tumors, gear changes and timing governed by episodes. The red eye in the undated portrait is not evidence that the **post-E089** red eye was already identical at E000; the first introduction describes two eyes, one sightless. Repeated-looking staff design across sketch and colored painting is **one artist's design lineage**, not two independent confirmations of its historical use. The blue dragon's silhouette is valuable as a player conception, but color is a documented narrative conflict rather than a new canonical dragon species/color. A source-era reconciliation and owner-approved model sheet are still pending.
 
 ## Historical fan-art continuity scan
 
@@ -120,8 +159,8 @@ Archived directory: `local/merge-safety-20261021-184938/checkout/sources/images/
 
 ## Working design decisions and follow-up
 
-**Not approved:** Scott's player-created hooded, reddish-brown traveler is now the strongest *illustrated intent lead* for a possible recurring Nash silhouette, but the opening narration does not mandate the hood and does describe scars, lesions and two distinct eyes. Do not turn the blacked-out face into an established faceless anatomy, or hide both eyes when a scene needs the introduction-era eye distinction. Match post-E089 glowing-red-eye details only to their supported state. The hook/pick staff head is supported by the drawings as design intent, not by E000 narration; prefer a neutral early staff when source-grounded strictness matters. Never introduce the later Skyblinder ornament or final-sheet jacket retroactively. Dragon transformations remain **black** under existing episode evidence, despite Scott's blue dragon drawing.
+**Not approved:** Scott's player-created hooded, reddish-brown traveler is now the strongest *illustrated intent lead* for a possible recurring Nash silhouette, but the opening narration does not mandate the hood and does describe scars, lesions and two distinct eyes. **For all new visual studies Nash's red, sightless eye goes on his own left** (a consistent owner choice, not a claim that E000 narration specified a side). Do not turn the blacked-out face into an established faceless anatomy, or hide both eyes when a scene needs the introduction-era eye distinction. Match post-E089 glowing-red-eye details only to their supported state. The staff's hooked point is now **identified as the old nail “Freedom”** by E018 narrative evidence and owner clarification; the E000 nail-bearing depiction is a flagged **retrospective continuity choice**, while exact fastener construction remains unverified. Use a recognizably old nail, not a conventional decorative hook, spearhead or oversized pick. Never introduce the later Skyblinder ornament or final-sheet jacket retroactively. Dragon transformations remain **black** under existing episode evidence, despite Scott's blue dragon drawing.
 
 **Next bounded research step:** search and read full relevant SRT windows in E030–E053 for the third hand's origin and scales, and E082–E089 for precise regeneration anatomy; then trace the extra hand's status after regrowth and the final E128 outfit. No episode audio was checked. This reference is integrated but intentionally **provisional**, not a claim of exhaustive corpus coverage.
 
-**Change log:** 2026-10-25 v0.1 initial reference after corrected MCP binary access and archived-art inspection. 2026-10-25 v0.2 directly inspected all three current Scott Nash drawings, recorded owner-confirmed player-artist context, elevated them above unrelated fan art as intent references, and explicitly separated blue dragon concept art from the narrated black-dragon form. 2026-10-25 draft v0.1 added sourced E000 baseline design-sheet brief and provisional D01–D05 visual choices; [two generated studies](../reports/ILLUSTRATION_NASH_MAGGARD_DESIGN_SHEET_ATTEMPTS_2026-10-25.md) failed size/style/identity checks, so no approved or publishable sheet exists.
+**Change log:** 2026-10-25 v0.1 initial reference after corrected MCP binary access and archived-art inspection. 2026-10-25 v0.2 directly inspected all three current Scott Nash drawings, recorded owner-confirmed player-artist context, elevated them above unrelated fan art as intent references, and explicitly separated blue dragon concept art from the narrated black-dragon form. 2026-10-25 draft v0.1 added sourced E000 baseline design-sheet brief and provisional D01–D05 visual choices; [two generated studies](../reports/ILLUSTRATION_NASH_MAGGARD_DESIGN_SHEET_ATTEMPTS_2026-10-25.md) failed size/style/identity checks. 2026-10-25 v0.3 / design brief v0.2 recorded the owner's **fixed left/red sightless eye**, interpretation of Scott's orange spots as likely Solar Mines radiation blisters/pustules, and bandages as primarily concealment rather than protection; preserved uncertainty of those interpretations as separate from verified show narration. 2026-10-25 v0.4 / design brief v0.3 identified the old nail **Freedom** as the source for Scott's hooked staff tip, drawing on E018's in-character retrospective, separate E014 firearm identity, E073 nail-bearing broken staff and the later 2019-03 bonus custody discussion; E000 attachment remains a provisional retrospective reconstruction and exact fastening geometry is unknown. **No approved or publishable sheet exists.**

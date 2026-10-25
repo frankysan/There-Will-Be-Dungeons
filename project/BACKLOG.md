@@ -66,6 +66,11 @@ reference or complete subject-appearance audit is implied.
   time-accurate roof patch. Obtain explicit selection feedback.
 - [ ] Apply the same entity-first method to a recurring character, with
   provenance, time-specific features and anatomy/expression style tests.
+- [ ] Implement the [progressive recurring-character sheet skill plan](ILLUSTRATION_PROGRESSIVE_CHARACTER_SHEET_PLAN.md):
+  source brief → face → front → side → back → final layout, with per-anchor
+  acceptance, saved prompts/reference images, 1024-square sRGB PNG checks,
+  and explicit owner approval before reusing a complete model sheet. Pilot
+  on Nash E000; two earlier full-sheet render attempts were rejected.
 
 ## Documentation consolidation — Arcs One–Two (2026-10-21)
 

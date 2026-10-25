@@ -1,6 +1,6 @@
 # Illustration style and continuity guide
 
-**Version:** 0.5, 2026-10-25. **Scope:** Characters, creatures, places, vehicles,
+**Version:** 0.6, 2026-10-25. **Scope:** Characters, creatures, places, vehicles,
 items, events and other illustrated subjects across The Wastes, Inverse and
 Delvers. Shared art direction does not imply shared fictional continuity.
 
@@ -9,10 +9,14 @@ line art, slight cartoon stylization, muted pastel colors, and one or two bright
 accent colors per illustration. Respect the show's descriptions and maintain
 written, time-specific instructions for recurring subjects.
 
-The core direction above is owner-supplied. The rendering defaults below are a
-working interpretation, now tested in a preliminary vehicle study, not a
-visually approved house style. No illustration or reference sheet has been
-approved by this document.
+The core direction above is owner-supplied. **On 2026-10-25 the owner selected
+a stronger modern adult-animation / stylized graphic-novel direction** after
+viewing the [latest Nash face study](../reports/ILLUSTRATION_NASH_FACE_DIRECTION_2026-10-25.md).
+This confirms a **project-wide rendering direction**, not approval of a
+specific production PNG, Nash's final face anchor or a complete model sheet.
+Earlier vehicle studies remain unapproved trials. The same recognizable
+ink, matte color and simplification principles must work for all subjects
+without copying Nash's anatomy, disfigurement or personal palette.
 
 [Subject template](ILLUSTRATION_SUBJECT_TEMPLATE.md) ·
 [Recurring-character design sheets](ILLUSTRATION_CHARACTER_DESIGN_SHEETS.md) ·
@@ -25,20 +29,33 @@ approved by this document.
 
 | Element | Working instruction |
 | --- | --- |
-| Ink | Heavy, confident dark contours, with thinner interior lines. Vary line weight to describe form, depth and emphasis; keep the silhouette readable at small sizes. |
-| Stylization | Slightly exaggerate expression, gesture and shape for clarity. Preserve described anatomy, age, build and distinctive proportions; use expressive cartooning rather than automatic caricature. |
+| Ink | **Bold, smooth, confident dark-ink contours** with pronounced line-weight hierarchy, selective finer facial/structural marks and readable strong silhouettes; avoid uniformly scratchy micro-detail. |
+| Stylization | **Modern adult-animation-inspired graphic-novel stylization:** expressive, slightly exaggerated yet recognizable features; deliberately simplified graphic planes and shapes instead of painterly realism. Adult dramatic seriousness, not childish caricature or rubbery anatomy. Respect sourced age, size, anatomy, disfigurement and uniqueness. |
 | Color | Use muted pastel base colors and restrained neutrals, with one or two saturated accent hues across the whole illustration. Bright accents remain selective. |
-| Shadows | Prefer a few clear shadow shapes and limited cel shading. Use deep shadows where the scene needs them without burying identifying features. |
-| Texture | Add restrained ink hatching or print-like texture where useful. Avoid uniformly noisy surfaces; material differences should remain legible. |
-| Detail | Concentrate detail on identity, story-relevant props and important environmental features. Simplify incidental background detail. |
+| Shadows | Favor a few broad, clean **cel-shaded graphic shadow masses** with simple highlights; dramatic shadow remains possible but may not obscure essential identification or sourced abnormalities. Avoid photographic skin shading or muddy render effects. |
+| Texture | **Sparse, controlled texture** and limited ink hatching only where identity or materials benefit; render burn scarring, worn cloth, wood, metal and weather with *designed shapes* first, not photographic pores, procedural grit or intricate random noise. |
+| Detail | Prioritize **shape readability and characterful defining features** over realism. Use intentional silhouette and a few distinctive detail clusters; simplify the rest. Severe wounds or disfigurement can be visibly substantial without photographic gore, fresh tissue detail or gratuitous realism. Do not beautify or erase source-required damage. |
 | Composition | Use a clear focal point, readable action and purposeful negative space. Portraits, object studies, environments and event scenes share the same ink and color treatment. |
-| Tone | Match the scene's humor, tenderness, threat or loss. Slight cartoon stylization does not automatically turn serious scenes into jokes. |
+| Tone | Maintain a distinctly **adult narrative tone**. Stylization permits dramatic, eerie, melancholy and funny scenes without turning tragic events or severe injury into slapstick, cuteness or sensationalized gore. |
+
+**Reference calibration:** The last [Nash E000 face-direction study](../reports/ILLUSTRATION_NASH_FACE_DIRECTION_2026-10-25.md)
+was positively received for *stylistic treatment*: broad clean
+animation-like shapes, ink-heavy edges, controlled cel shading, dull
+rust/grey fabric, expressive asymmetry and readable but non-photographic
+old damage. Its burnt face, bandage placement, baldness and left red
+sightless eye are **character-specific**, not a universal character
+preset. Its actual session PNG was **1254 × 1254 with no embedded ICC**:
+use it as **directional art feedback only**, not a technically compliant
+or automatically approved reference asset. Avoid direct copying of
+an identifiable television show's copyrighted character design;
+"modern adult animation" describes broad craft, not a request to
+imitate any specific studio.
 
 Default to a standalone illustration. Panels, captions, speech balloons and
 lettering are composition choices for a specific brief, not requirements of
 the style. Avoid incidental lettering and watermarks in generation prompts.
 
-## Fixed production canvas and style lock (v0.3)
+## Fixed production canvas and style lock (v0.6 — art style recipe v2)
 
 **All canonical newly generated illustrations, variants and multi-view model
 sheets use exactly 1024 × 1024 pixels (1:1 square), exported as PNG in sRGB.**
@@ -50,19 +67,27 @@ figures and broad vistas; never change aspect ratio for a subject type.
 Previews, selected variants and edits must obey the same canvas before
 entering the project illustration catalog.
 
-The **shared style lock** combines the visual-language table above into the
-same mandatory recipe for *every* generated image: confident thick dark-ink
-outer contours; visibly lighter interior construction/expressive linework;
-slightly cartooned graphic-novel shapes without distorted distinctive
-anatomy; broad, uncluttered muted-pastel color areas; restrained flat/cel
-shadows; selective hatching or print texture; clear silhouettes; and no
-incidental text, frames, logos or watermarks. Use **one main and at most one
-supporting saturated accent across the entire image**, except where show-
-established colors necessarily require more. Color and identity evidence
-always outrank this discretionary palette limit.
+The **shared style lock v2** combines the visual-language table above into
+the same mandatory recipe for *every* generated image: modern
+**adult-animation-influenced graphic-novel** shapes, bold variable dark-ink
+outer contours, economical expressive interior marks, simplified yet
+physically recognizable anatomy and solid silhouettes, broad matte muted
+pastel/earth/neutral colors, purposeful negative space and deliberate
+flat cel-shaded shadows. Use texture/hatching *sparingly* and only where
+defining materials or identity; avoid photoreal modeling, hyper-detailed
+skin, glossy digital painting or crowded visual micro-noise. For severe
+injury or disfigurement, show source-required severity through clear
+*stylized* scars and altered shape rather than gratuitous anatomical gore.
+No incidental text, frames, logos or watermarks. Use **one main and at most
+one supporting saturated accent across the entire image**, except where
+show-established colors necessarily require more. Color, anatomy and
+identity evidence always outrank this discretionary palette limit.
 
-Keep this fixed style recipe and master dimensions **identical for every
-production prompt**. Subject-specific features, era, composition, setting,
+Keep this **v2** fixed style recipe and master dimensions **identical for every
+production prompt**. The authoritative verbatim renderer block now lives in
+[the generation skill, section 3B](../.agents/skills/twbd-illustration-generate/SKILL.md),
+updated with this owner-selected direction. Do not reuse the retired v1
+block from an older saved report. Subject-specific features, era, composition, setting,
 lighting and chosen pastel/accent hues may vary, but not the underlying ink,
 shape, shading or texture treatment. Use selected, versioned project-owned
 references when available; earlier style trials are not owner-approved
@@ -290,6 +315,9 @@ When a character later becomes recurring, halt *future* scene illustrations
 until the sheet exists; do not retroactively invalidate older selected art.
 
 Follow the [design-sheet specification and approval ledger](ILLUSTRATION_CHARACTER_DESIGN_SHEETS.md).
+The [progressive character-sheet plan](ILLUSTRATION_PROGRESSIVE_CHARACTER_SHEET_PLAN.md)
+documents the planned face → front → side → back → final-sheet anchor workflow;
+it is not yet an installed skill or permission to bypass existing gates.
 Research creates the integrated, introduction-era written design brief;
 the image-generation skill then produces a neutral **1024 × 1024 sRGB PNG**
 model sheet with consistent front/profile/back full-body views, face/expression
@@ -348,8 +376,10 @@ documented review or verified replacement and an appropriate decision.
 Before selecting an illustration, check fidelity to the evidence, correct
 story state, recognizable identity, proportions/anatomy, left/right
 consistency, required colors, scale, scene participants and spoiler limits.
-Check the ink treatment, restrained palette and intentional accent use as a
-separate art-direction review.
+Check the **style v2** ink hierarchy, simplified adult-animation-inspired
+shapes, restrained matte palette, broad cel shading and limited accents as
+a separate art-direction review. A scene may be dramatic, weathered or dark
+without returning to photoreal textures or grotesque procedural detail.
 
 Record the outcome honestly as draft, selected working reference, revised
 or superseded. Use "owner-approved" only following actual owner approval;
@@ -391,8 +421,12 @@ The original Fate 4 style previews lacked transcript-described solar
 panels and the dragon-skull front, so they are **rendering studies only**,
 not accurate selected continuity sheets. Next: directly inspect the source
 images and their applicable era, resolve remaining scene-specific details,
-and develop a revised multi-view Fate 4 study. Then extend the same
-entity-research workflow to a character, whose facial expressiveness and
-anatomical proportions still require their own style test.
+and develop a revised multi-view Fate 4 study. **The Nash E000 face studies
+have now provided the owner-preferred project-wide graphic direction**, as
+recorded in [the bounded visual report](../reports/ILLUSTRATION_NASH_FACE_DIRECTION_2026-10-25.md).
+Their head/face decisions and technical production compliance are still
+unapproved. Extend the cleaner, slightly cartoony style equally to other
+characters, creatures, vehicles, locations and items, respecting each
+subject's material properties and episode-supported details.
 Update [the backlog](BACKLOG.md#illustration-style-and-continuity-2026-10-25)
 as those tasks are completed.
