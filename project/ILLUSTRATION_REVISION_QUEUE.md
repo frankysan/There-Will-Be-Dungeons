@@ -125,8 +125,21 @@ queue write does not authorize modifying or silently using flawed art.
 
 ## Open illustration findings
 
-*No open entries yet; add a real item only when supported by evidence or
-a concrete visual-continuity review.*
+### IRV-0002 — E001 Dusthill aerial versus newly found map
+
+- **Status / severity / type:** `needs-review` / `major` / `new-context`, provisional.
+- **Date:** 2026-10-25.
+- **Subject/state:** The Wastes, `WASTES-DUSTHILL-A01` opening settlement.
+- **Affected image:** Owner-selected generated aerial view, `gen_id=5549267f-4eb6-4d62-aa21-d5897f33e272`; not yet stored in the repository or embedded in its world page. **Technical production issue (2026-10-25):** The generation output metadata reports **1672 × 941**, a landscape aspect ratio that **fails** the mandatory `1024 × 1024`, square PNG production gate regardless of map fidelity. Preserve the owner's selection history, but do **not** publish or classify this source render as a conforming project asset unless it is safely recomposed/normalized to square and the final PNG/sRGB bytes are verified.
+- **Observed issue:** Illustration represents hidden red-rock village, huts, water outlet and cave farms, but omits a clearly distinct gathering circle and other mapped locations (school, Hillmaster hut, barracks, trading post), while positions of farms and garage are interpretive.
+- **Evidence:** Direct pixel inspection of `local/images-wiki/maps/Dusthill.webp` (formerly `DVJ4V1JVwAErBl-.webp`), SHA-256 `141731587b065a5271a6814c2d1cfd264f8b8a0a86b3fdbe41219266ef7bc5ce`; [revised subject reference](ILLUSTRATION_DUSTHILL_REFERENCE.md#newly-inspected-dusthill-plan-2026-10-25). Map provenance/era and scale unverified. On 2026-10-25 the project owner recalled that it probably originated with the GM but could not confirm authorship (`owner-recollection`, not a verified credit); E001 geography ASR-based, audio not listened.
+- **Applicability:** Map may show another era or schematic approximation; aerial view cannot depict every detail. This is **not a confirmed contradiction**.
+- **Action:** Research map date, provenance and episode-era consistency; compare well/gathering area, garage/rock door and two dark farms. Review/possibly regenerate only with subsequent explicit request. Preserve owner selection and original artwork.
+- **Owner action:** User explicitly paused prior page-placement step for map research. No publication or automatic revocation.
+- **Resolution:** Pending. No replacement.
+- **History:** 2026-10-25 — added on direct map inspection.
+
+
 
 <!-- Real entry structure; use next unused IRV-####.
 ### IRV-XXXX — <short problem / subject and state>

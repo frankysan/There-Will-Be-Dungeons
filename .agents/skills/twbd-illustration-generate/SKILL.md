@@ -16,12 +16,16 @@ from scratch and must not fabricate their canonical look.
 
 **Three non-negotiable contracts:**
 
-1. **Identical output dimensions and style:** Each canonical image—portrait,
-   creature study, vehicle, location, event scene, multi-view sheet, variant,
-   edited version or draft submitted as project art—must be **1024 × 1024
-   pixels**, square (1:1), **PNG, sRGB**, with the shared style lock from
-   [illustration guide v0.4](../../../project/ILLUSTRATION_GUIDE.md#fixed-production-canvas-and-style-lock-v03).
-   NEVER silently switch to landscape, portrait or a different pixel size.
+1. **Identical output dimensions and style — an enforceable gate, not a
+   preference:** **Every new render or edit attempt**, including previews,
+   revisions, variants, multi-view sheets, location panoramas and proposed
+   world-page images, must be directed to the same **1024 × 1024-pixel square
+   (1:1), PNG, sRGB** output and must use the **verbatim fixed style block**
+   from section 3B and the [current illustration guide](../../../project/ILLUSTRATION_GUIDE.md#fixed-production-canvas-and-style-lock-v03).
+   Do not change aspect ratio by subject type, user wording such as 'aerial',
+   'wide' or 'panoramic', tool defaults, or an existing image's proportions.
+   If a renderer disregards the request, its result is **noncompliant**, not an
+   approved exception. Follow the required pre-call and post-call gates below.
 2. **No research, no image:** Before calling **any** image generator or
    creating/editing a draft, determine the complete set of important depicted
    subjects and verify usable **campaign-qualified, time-correct, integrated
@@ -300,45 +304,113 @@ weather, lighting and palette must not turn the style into photorealism,
 anime, watercolor, 3-D render or a different comic style. Prior vehicle
 style experiments are **not** an owner-approved universal anchor.
 
+### 3C. Hard pre-call style-and-canvas gate — run for every invocation
+
+This gate is **mandatory even for drafts, retries, image edits, revisions,
+panoramas, establishing shots, reference sheets and supposedly temporary
+previews**. Passing the source-research `READY` gate alone is insufficient.
+
+1. **Load the current guide** and paste the full **unchanged** section 3B
+   fixed style prompt block into the **actual image generation/edit request**.
+   Describing it merely as "same style as before", "graphic novel" or a
+   summary is **not compliance**. Preserve the fixed ink, line weight,
+   stylization, flat/cel shadows, muted pastel treatment, limited accents,
+   restrained detail and no lettering/borders. A visual reference may help
+   retain **subject identity** but must not silently replace the house style.
+2. **Set the canvas in both prompt and tool settings:** request square
+   aspect ratio **1:1** and **1024 × 1024** wherever the tool permits, and
+   explicitly state both in the prompt. Never use tool options suggesting
+   16:9, 4:3, portrait or free aspect ratio for this project. If a tool
+   supports only square aspect ratio rather than explicit pixels, request
+   square and follow with **real output validation/normalization**.
+3. **Compose *inside* the square:** Aerial establishing shots, large
+   landscapes, groups and long vehicles must retain the entire pertinent
+   scene through camera distance, depth, smaller subjects and/or deliberate
+   negative space, **not** by widening the file. Multi-view sheets tile all
+   views within the square. No cropping of canonical details or stretching
+   geometry to force a fit.
+4. **Resolve conflicts explicitly:** An incompatible requested output ratio
+   or radically different art style is **not permission** to waive a
+   collection-wide rule. If faithful square/style treatment would defeat an
+   explicit essential user constraint, stop and report the conflict; a
+   deliberate updated guide/version or distinct non-project illustration
+   request is needed to depart from it.
+5. **Check completion capability before generating:** Ensure a practical
+   way exists to read **actual output image bytes/dimensions**, correct
+   unexpected dimensions without distortion (prefer a square re-render;
+   alternatively fit in a square sRGB PNG without losing features), and
+   validate the final asset. If that path is unavailable, disclose the
+   constraint and **do not create or present a noncompliant deliverable as
+   project illustration**. No speculative file path or claim that a tool
+   option guarantees size.
+
+**Pass/fail checkpoint**: `source-ready AND style-block-in-prompt AND
+square-request AND preservation-of-scene-in-square AND validation-path`.
+Do not invoke generation or editing with any of these fields missing.
+
 ## 4. Generate, normalize and compare — only after READY
 
-1. Use the image-generation/editing capability available for the request.
-   Explicitly request **square 1024x1024**. For a tall figure, use vertical
-   composition **within the square**; for a broad location, retain the square
-   and widen the depicted field instead of changing the canvas.
-   Multi-view model sheets tile views **inside one 1024x1024 canvas**;
-   producing several distinct variants yields several **individually
-   square** images.
-2. Check the **actual output dimensions** and exported format. An output
-   does not enter the project illustration catalog or count as complete if
-   its final canonical PNG is not exactly 1024x1024. If tooling permits,
-   conform an off-size output using a non-distorting fit inside a square
-   canvas with matched neutral background—**never stretch or crop away
-   relevant features**. If exact sizing/export cannot be verified or
-   corrected, report the image as incomplete/invalid rather than claiming
-   an accepted asset. Do not fabricate output file paths or image metadata.
-3. Visually inspect each candidate against **the same style lock** and prior
-   subject images actually inspected in section 3A. Verify persistent design
-   details against applicable selected art and deliberate changes/exclusions
-   against the target story state. Compare anatomy, proportions, orientation,
-   persistent palette/material choices and location geometry independently
-   of lighting, weather or camera angle. A source-critical missing feature
-   cannot be accepted as 'close enough'.
-4. If corrections are required, create a **new versioned edit** on the same
-   1024x1024 square, retaining the subject/state references and style lock.
-   Recheck dimensions and lore fidelity after each edit. A candidate may be
-   retained as a labeled draft with known issues but not marked selected;
-   do not overwrite the old image or silently redesign recurring features.
-5. Add a production record in the subject appearance file(s) or linked
-   register, using [the subject template](../../../project/ILLUSTRATION_SUBJECT_TEMPLATE.md):
-   image/version ID, true output path or identifier, 1024x1024 PNG check,
-   guide/style-lock version, entity IDs/appearance-state IDs and versions,
-   exact prompt/edit instructions, existing illustrations actually inspected,
-   their applicable states and selection statuses, images actually passed to
-   the renderer, carry/change/exclude matrix, source-fidelity review,
-   visual-continuity/style review, author/reviewer
-   and selection/approval status. Record unknown metadata as unknown; no
-   invented random seed, model version, license or approval.
+1. **Generate with the actual mandatory configuration.** Use the fixed
+   style prompt block unchanged and explicitly select square 1:1, requesting
+   1024x1024 when supported by the tool. The picture's viewpoint (including
+   an aerial panorama) changes how much of the subject is drawn **within**
+   that square, not the canvas dimensions. For each new variant, retry or
+   edit, **repeat the pre-call gate**; do not inherit unspecified tool settings
+   from the prior render.
+2. **Inspect real image bytes after every render, before acceptance.** Decode
+   the returned image/file and verify both pixel dimensions are **1024**
+   (not merely that the prompt said 1024), its encoded format is **PNG**,
+   and the final color is **sRGB**. Use image metadata plus a reliable decoder
+   or image library; if a color profile is missing/unknown, perform and verify
+   a controlled sRGB conversion when possible, otherwise mark sRGB **not
+   verified**. A matching filename, claimed tool size or thumbnail alone
+   cannot pass this gate. Record raw width/height/format/profile result.
+3. **Normalize or reject nonconforming output without distorting evidence.**
+   Preferred: rerender or edit with square framing and the unchanged style
+   block. If correction tools are available, proportionally fit the entire
+   image **inside** an exact 1024x1024 sRGB PNG using intentional
+   background/negative space; preserve all scene-defining elements and
+   recognizable anatomy. **Never crop canonical features, nonuniformly
+   stretch, or silently letterbox a final image with awkward padding.**
+   Inspect corrected composition and decode/verify the **final saved bytes**
+   again. If required correction, export or actual-dimension verification
+   cannot be performed, the image is **INVALID FOR PROJECT USE**—no catalog
+   entry as accepted artwork, no world-page embed, no claim of completion.
+4. **Perform a separate visual style gate**, not just a prose assertion.
+   Inspect the actual pixels against the current guide's fixed recipe:
+   bold dark varying contours, finer interior inks, recognizably slightly
+   cartoon-stylized forms, matte muted-pastel broad areas, controlled
+   cel-shaded shapes, restrained hatching/detail, one primary and at most
+   one supporting vivid accent (unless source-established colors demand
+   more), and no incidental text/frames/watermarks. Compare with selected
+   style-compatible references when available; do **not** let fan art,
+   reference photographs, or an older off-style generated image override
+   the house style. A style-mismatched render fails regardless of its size.
+5. **Perform the distinct lore/time/continuity gate** using section 3A's
+   actual subject references and each depicted story state. Check stable
+   anatomy, geometry, colors and props, appearance changes, setting and
+   exact scene/cutoff independently of the style check. A source-critical
+   feature cannot be excused as an artistic simplification.
+6. **Correct or quarantine, never silently accept.** New edits must use
+   the same square canvas + verbatim style block and pass **all three**
+   post-render gates (technical format/size/color, visual style, source and
+   story-time). Keep original outputs identifiable but label nonconforming
+   renders as `invalid-output` or `noncompliant-study`, not as usable
+   draft/selected project assets. For pre-existing owner-selected but
+   technically nonconforming images, **retain the selection history** and
+   record the technical defect for review rather than silently overwriting
+   the image or retroactively claiming valid production dimensions.
+7. **Save only a verified deliverable and update the production record.**
+   Before embedding in `world/` or claiming a repo asset exists, verify the
+   exact saved file's path, dimensions, PNG/sRGB encoding and repository
+   presence/readback. For every version record the **original render**
+   dimensions and format, any transformation and correction method, **final
+   verified** pixel size/format/color profile, art-direction version,
+   subject/state IDs, verbatim prompt and reference use, actual visual
+   inspection, style and lore review outcomes, image IDs and approval
+   status, using [the subject template](../../../project/ILLUSTRATION_SUBJECT_TEMPLATE.md).
+   No missing-file Markdown embeds, invented metadata, false test passes,
+   or automatic owner approval.
 6. **Post-generation consistency audit:** Compare the candidate and prior
    illustrated states to the latest evidence, including every visible
    recurring subject, significant prop and scene location. For a new
@@ -370,15 +442,31 @@ does **not** authorize a replacement render or alter a selected image.
   generator was invoked; report subjects, scene-specific blockers, IDs,
   queue path and exact research actions. If the queue could not be
   persisted, disclose that blocker and do not generate.
-- **READY and generated:** Confirm every subject's appearance state,
-  invariant prompt style block, actual 1024x1024 output size, no accidental
-  exclusions/spoilers, stable image ID/path and linked production record.
-  Report what was visually inspected, whether dimensions were technically
-  checked, review outcome and what remains provisional.
-- If source or tooling access is limited, be explicit; do not pretend
-  the illustration passed its size/style review or that a record was
-  persisted. Run only relevant local checks, avoid full corpus rescans,
-  and never alter original transcript SRTs, audio or archived source images.
+- **READY and generated:** Record a distinct outcome for each mandatory
+  gate: `research_time_state=PASS`, `style_prompt_included=PASS`,
+  `requested_square_1024=PASS`, `actual_final_png_1024x1024=PASS`,
+  `final_srgb=PASS`, `visual_style=PASS`, and
+  `source_continuity=PASS`. Mark any unknown verification `UNVERIFIED`,
+  never `PASS`; if any are `FAIL` or `UNVERIFIED`, the deliverable is
+  **not accepted for project use**. Cite the exact inspected/re-read image
+  and its location rather than a hypothesized output path.
+- **Regression examples (enforced outcomes):** A 1672x941 Dusthill aerial
+  that otherwise looks right is `FAIL: actual_final_png_1024x1024` until
+  **correctly recomposed or converted and reverified**; choosing it for a
+  world page is not a waiver. A perfectly sized 1024x1024 image rendered
+  photorealistically or with heavily saturated, painterly gradients is
+  `FAIL: visual_style`. A technically correct graphic-novel image with
+  a missing era-defining feature is `FAIL: source_continuity`. Only an
+  image satisfying **all** gates may be cataloged as a conforming candidate
+  or used in a `/world` page.
+- **Fail-closed reporting:** If generation itself cannot deliver a square,
+  validated, style-matched artifact, report the attempted source image
+  and why it failed, any safe correction actually completed, and the
+  remaining limitation. Do not claim the project illustration is finished,
+  generate unrelated substitutes, fabricate successful validation, or leave
+  broken image links. Run only relevant local checks, avoid full corpus
+  rescans, and never alter original transcript SRTs, audio or archived
+  source images.
 
 **Keep the research and illustration functions separate:** the research
 skill builds source-linked appearance knowledge; this skill either uses

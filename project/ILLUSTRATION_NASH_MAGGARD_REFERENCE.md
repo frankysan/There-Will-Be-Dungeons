@@ -1,6 +1,6 @@
 # Nash Maggard — illustration reference (The Wastes)
 
-**Version:** provisional 0.1, 2026-10-25. **ID:** WASTES-NASH-MAGGARD. **Source level:** processed-ASR and episode dossiers, not audio-verified; historic fan art is visual inspiration, not canon. [World article](../world/characters/nash-maggard.md).
+**Version:** provisional 0.2, 2026-10-25. **ID:** WASTES-NASH-MAGGARD. **Source level:** processed-ASR and episode dossiers, not audio-verified; **Scott Johnson's Nash drawings are player-created visual interpretation** per archive-owner attribution, valuable for intended appearance but not authoritative over conflicting episode narration. Other historic fan art is secondary visual inspiration. [World article](../world/characters/nash-maggard.md).
 
 ## Recognition and appearance states
 
@@ -29,27 +29,39 @@
 - **S05 — reviewed dossiers:** [E090](../episodes/E090.md), [E092](../episodes/E092.md), [E098](../episodes/E098.md)–[E100](../episodes/E100.md), [E121](../episodes/E121.md): armpit feature, temporary disguise, conjoined fiend, adult dragon and extraordinary exposed heart.
 - **S06 — campaign-end sheet:** `sources/json/nash-maggard.json`, character identity/appearance and inventory attributes, structured JSON previously parsed; **not** an introduction-era character sheet. Same-campaign Hope/Stanley/Vorel sheets were cross-checked for mentions, not treated as independent evidence for Nash's appearance.
 
+## Scott Johnson's Nash artwork — player-associated visual design
+
+On 2026-10-25 the archive owner identified the artwork under `local/images-wiki/scott-johnson-art/` as drawn by **Scott Johnson, who plays Nash**. Record as **owner-attributed player-created interpretation** (a stronger intent reference than unrelated fan art), not as a dated production model sheet or as proof of an episode's appearance. The following **three current WebP files were fully read and their actual pixels inspected**. Paths below are private research assets; attribution was supplied by the owner and the images' original upload dates, exact depicted story eras and reuse rights remain unknown.
+
+| Current private image | Observed features | SHA-256 (current file) |
+| --- | --- | --- |
+| `local/images-wiki/scott-johnson-art/Nash_-_Scott_Johnson.webp` | Blue line sketch: upright, fully hooded figure with deep featureless face shadow, cape, layered/sleeved outfit, broad boots and long two-handed staff with hooked pick-like top. A preparatory design relative to the colored work is plausible, **not independently dated/proven**. | `107993f8f6eb5fefceb2a7fabe91530b00c4cb24b72c2fe4d8a7a74a926fd3dc` |
+| `local/images-wiki/scott-johnson-art/Scott_Johnson-Nash_Maggard.webp` | Closely matching color treatment: dark reddish-brown hood/cape, shadow-concealed face with a single red eye highlight, pale grey segmented armor-like garment, orange spots/bands on limbs, olive/brown waistcloth, large brown boots and distinctive two-handed hooked staff. Armor, markings and staff design are **art interpretation**, not yet independently verified as equipment or enduring anatomy. | `a5adb03a7a935eb18664e8d6c9d4a8d074c6388e19189b715b6db4eafee22cad` |
+| `local/images-wiki/scott-johnson-art/Scott_Johnson_-_Nash_Dragon_Form.webp` | Profile of long-snouted dragon with angular backward-swept horns/ridges, sharp teeth, red eye and **blue/cyan scales** with darker blue underside. Its blue coloring **conflicts with the repeatedly narrated black-dragon form** (E025, E036, E053, E121 and later); retain the player's expressive palette as a separate image observation, **do not recolor canonical episode art blue by default**. Exact age, transformation scene and date of drawing unknown. | `16fed7ed9e5fb5ba8017e01168d466828032d36653eaa7e5f8bf11d1a026a84f` |
+
+**Design weight:** Use the human silhouette, deep hood, broad boots, cape and long staff as strong *creator-intent leads* for a potential common Nash model; keep actual eye condition, exposed scarring/tumors, gear changes and timing governed by episodes. The red eye in the undated portrait is not evidence that the **post-E089** red eye was already identical at E000; the first introduction describes two eyes, one sightless. Repeated-looking staff design across sketch and colored painting is **one artist's design lineage**, not two independent confirmations of its historical use. The blue dragon's silhouette is valuable as a player conception, but color is a documented narrative conflict rather than a new canonical dragon species/color. A source-era reconciliation and owner-approved model sheet are still pending.
+
 ## Historical fan-art continuity scan
 
-Archived directory: `local/merge-safety-20261021-184938/checkout/sources/images/` (85 WebPs found by directory listing). The following **eight artworks were read completely in 64 KiB binary chunks and visually inspected**:
+Archived directory: `local/merge-safety-20261021-184938/checkout/sources/images/` (85 WebPs found by directory listing). The earlier audit **directly inspected eight archived works**; the two Scott drawings in that set also appear in the current private collection inspected above. Do not double-count duplicate images as independent sources.
 
 | Exact archive filename | Visible features / limitations |
 | --- | --- |
 | `Casey_Boyd_Nash_Maggard.webp` | Visible pitted/scarred face, contrasting eye colors, dark hood and cape, olive tunic, staff and mismatched leg wraps; costume and eye side are not independently episode-confirmed. |
-| `Nash_-_Scott_Johnson.webp` | Blue line sketch of fully hooded, staff-bearing cloaked figure; pick-like finial. |
-| `Scott_Johnson-Nash_Maggard.webp` | Colored hooded variation with shadowed face, red eye mark, lesions, cape and staff. |
+| `Nash_-_Scott_Johnson.webp` | Player-created line art; see current original above. |
+| `Scott_Johnson-Nash_Maggard.webp` | Player-created colored art; see current original above. |
 | `Nash_Magard_-_Juan_Pablo_Vega.webp` | Teal hood/scarf obscuring face, bright eye streak, cloak and staff; masked-face style is not established as Nash's permanent face. |
 | `Nash_Fireball_-_Audie_Norman.webp` | Green hooded caster with bandaged arms, red eye highlight and magical effects; scene and wardrobe timing unknown. |
 | `Erin_Raught_-_Nash_and_Bunnies.webp` | Hooded dark figure with staff and glowing red eye near rabbits and fire; specific narrative event not confirmed by image. |
 | `Nash_Dragon_-_Erin_Raught.webp` | Black-dragon head with horns, spines and red light/eye; age-specific anatomy not documented. |
 | `Nash_Dragon_Form_-_Ron_Tang.webp` | Inked winged, clawed, long-tailed dragon in crouched pose; age and episode unknown. |
 
-`Nash_-_Tenacity_-_Ron_Tang.webp` and `P0D_and_Nash_-_Juan_Pablo_Vega.webp` were **not** visually examined because image forwarding was blocked by safety checks. Archived art is not owner-selected production art, and file-name artist credit and licenses remain unverified. **No existing selected Nash illustration or concrete cross-era image mismatch was identified, so no IRV flag is warranted yet.** Fan depictions disagree on exposed versus masked face and on colors/staff tips: this is an *unresolved design choice*, not a verified contradiction.
+`Nash_-_Tenacity_-_Ron_Tang.webp` and `P0D_and_Nash_-_Juan_Pablo_Vega.webp` were **not** visually examined in the earlier audit because image forwarding was blocked by safety checks. Artist attribution and rights of non-Scott images remain unverified. **No selected Nash illustration exists to re-evaluate, so no concrete existing-art revision issue is warranted yet.** Fan and creator depictions vary on exposed versus masked face and palette/staff tips; these are unresolved design choices unless episode evidence decides them.
 
 ## Working design decisions and follow-up
 
-**Not approved:** A hooded dusty traveler in the opening era is a reasonable interpretation based on repeated fan art, but the source does not mandate a hood. For the intended graphic-novel palette, emphasize scars and a single eye highlight while preserving legible facial features. Use a plain unornamented early staff unless episode evidence establishes the distinctive pick tip. Do not automatically transfer the late staff or jacket backwards.
+**Not approved:** Scott's player-created hooded, reddish-brown traveler is now the strongest *illustrated intent lead* for a possible recurring Nash silhouette, but the opening narration does not mandate the hood and does describe scars, lesions and two distinct eyes. Do not turn the blacked-out face into an established faceless anatomy, or hide both eyes when a scene needs the introduction-era eye distinction. Match post-E089 glowing-red-eye details only to their supported state. The hook/pick staff head is supported by the drawings as design intent, not by E000 narration; prefer a neutral early staff when source-grounded strictness matters. Never introduce the later Skyblinder ornament or final-sheet jacket retroactively. Dragon transformations remain **black** under existing episode evidence, despite Scott's blue dragon drawing.
 
 **Next bounded research step:** search and read full relevant SRT windows in E030–E053 for the third hand's origin and scales, and E082–E089 for precise regeneration anatomy; then trace the extra hand's status after regrowth and the final E128 outfit. No episode audio was checked. This reference is integrated but intentionally **provisional**, not a claim of exhaustive corpus coverage.
 
-**Change log:** 2026-10-25 v0.1 initial reference after corrected MCP binary access and archived-art inspection.
+**Change log:** 2026-10-25 v0.1 initial reference after corrected MCP binary access and archived-art inspection. 2026-10-25 v0.2 directly inspected all three current Scott Nash drawings, recorded owner-confirmed player-artist context, elevated them above unrelated fan art as intent references, and explicitly separated blue dragon concept art from the narrated black-dragon form.
