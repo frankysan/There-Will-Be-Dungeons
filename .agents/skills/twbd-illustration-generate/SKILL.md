@@ -218,7 +218,7 @@ sheet pages. Do **not** generate the whole populated sheet from scratch.
 For each stage, obtain owner visual acceptance, produce/inspect a 1024-square
 sRGB PNG derivative where needed, register the exact asset in the project
 repo, check its SHA-256 and then record that individual `*_APPROVED` status.
-A missing image/upload is **registration pending**, not completed. Final
+A missing image/upload is **registration pending**, not completed. **Critical turnaround safeguard:** Once an approved anchor exists, future SIDE/BACK renders must follow [the reference-conditioned turnaround gate](CHARACTER_SHEET.md#1a-existing-anchor-turnaround-gate--no-text-only-character-reinvention). If actual reference pixels cannot be verifiably supplied to the renderer, or visible generated request text contradicts the approved outfit, **do not try another unconditioned text-to-image prompt**; suspend the stage for a demonstrably different image-editing/manual construction method. After two repetitions of a material fault, activate the circuit breaker regardless of how many new user turns occur. Do not insert rejected details into renderer-facing prompts simply to say they are forbidden; reserve that list for out-of-band verification. Final
 assembly uses the actual approved anchor pixels, not a newly invented face
 or outfit; keep panel descriptions, colors, source and rights notes in the
 written companion, never incidental text on the image. Do not backdate

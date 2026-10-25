@@ -1,5 +1,9 @@
 # Buck Broscale, called Wildfire — psionic mentor
 
+## S2E12: FELL INTO UNDERGROUND PIT — FATE UNKNOWN
+
+At **Bronze Ball with wife Valentine** Wildfire wears **blue/gold high-collar outfit with ever-present wrapped AXE on his back**, uneasy/whispering at their table; during **Cassius's magical speech** he visibly **PUTS HIS FINGERS IN HIS EARS** while other people become smiling/compliant. **After Khalazar's possessed Selenar accuses Withers of failing, and Withers claims “I hired the Broscales, I opened the doors,” Wildfire RUSHES TO WITHERS, grabs him by collar, and asks WHAT HAVE YOU DONE.** **THE AUCTION FLOOR CRUMBLES beneath BOTH Wildfire and Alexandre Withers**; **they physically FALL into newly opened subterranean hole**. They **do not re-emerge before S2E12 end of SECOND STORY ARC**. **Do NOT mark either DEAD or rescued**; not proved that hired “Broscales” refers to this Wildfire or his specific actions. Valentine and children remain separately unaccounted for at cutoff; she is **not observed falling**. [Finale](../../episodes/S2E12.md), ~02:25–02:42.
+
 ## Introduction
 
 A towering, red-scaled dragonborn with a formidable axe and a hard gaze, **Buck Broscale** is known among the guild's silver ranks as **Wildfire**. His temper is controlled rather than gentle, and he expects younger adventurers to recognize the difference between hard-earned experience and confidence. He has already known Krandal Splenderbelt as the cleric who cured a fiendish poisoning at Pelor's temple.[^appearance]

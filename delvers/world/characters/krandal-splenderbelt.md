@@ -1,5 +1,9 @@
 # Krandal Splenderbelt — cleric
 
+## S2E12 end second arc: Princess Hissia and failed Drone suppression
+
+The new silver knight **“Splenderbelt the Efficient”** arrives at actual Bronze Ball **in ordinary slightly grimy farming clothes** (Cassius **Prestidigitates** him clean), **checks Staff of Python** but **persuades coat attendant to let him keep his face maces as decorative**. Meets tiny old **Mr Goodwine**, proposes future potato-spirits supply arrangement **not contracted** (first harvest 3–4 months ahead). A **purple/gold-clad snake-pupiled [Princess Hissia](princess-hissia.md)** **ACTUALLY APPEARS as donor**, calls Krandal beloved, dances him and claims he received royal snake staff and armor during missing Snake Island fortnight, with her brother deceased. Krandal only recollects **snake in bed and Princess's “beloved”**; no fully recovered consensual romance/marriage/history. During ballroom disaster joins Koh/Evelyn, **Spiritual Weapon face-mace hits roper**, later physically protects **Zoltar the Wizened** from hook horror; **casts Create/Destroy Water (~40-foot cube) into Drone pit, but tunnels drain it away and DRONE DOES NOT STOP**. Helps other guild heroes barricade hole with tables; **elves still compelled at end of SECOND ARC**. [Finale](../../episodes/S2E12.md).
+
 ## Overview
 
 Tall and imposing, Krandal is a half-orc, half-human cleric whose seriousness rests on a simple obligation: work promised ought to be finished. He prefers Splenderbelt or Sir Splenderbelt until a friendship warrants his first name. A large holy necklace usually stays beneath his clothes. His even temper coexists with a fondness for potatoes, difficulty remembering names and a growing distrust of ceilings.[^identity][^background]

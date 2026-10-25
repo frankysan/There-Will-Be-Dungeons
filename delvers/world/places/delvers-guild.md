@@ -1,5 +1,9 @@
 # Delvers Dungeon Guild — first employment
 
+## S2E12: sponsor event erupts into active Khalazar/Drone crisis
+
+The Delvers Guild actually stages the **Bronze Ball at governor's hall** with Silver League party publicly presented, live/silent auction, dragon-skull promotional lot and **Gallery of the Fallen**. **Cassius's welcome speech features unexplained magic prompting Wisdom saves and dreamlike smiles; neither spell nor intent established**. The ceremony collapses when Khalazar-like possessing voice traverses witnesses, **Withers claims to have hired the Broscales/opened doors**, and **Hereditary Drone emerges from ballroom floor**, drawing elf crowds underground; roper/hook horrors/gricks/darkmantles flood event. **Cassius catches and carries fallen Selenar Everbloom**; **Wildfire AND Withers fall through another pit, fates UNKNOWN**. Guild teams actually protect guests and pile ~25 tables across Drone pit, **NOT stopping the sounding/compulsion**. **End of S2E12 = END SECOND STORY ARC, disaster unresolved**, not successful guild victory or finished future campaign. [Finale](../../episodes/S2E12.md); [governor hall](governors-hall.md).
+
 ## Overview
 
 The Delvers Dungeon Guild offers adventurers a workplace and a place to return to. Its hall combines a quest desk, job board, supply counter, tavern, trophy case and upstairs lodging. Cassius welcomes recruits and manages assignments and payments; the dwarf Clearstone supplies equipment, while Joe Groinhammer tends the bar and can cover the quest desk.[^introduction]

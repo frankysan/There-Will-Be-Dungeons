@@ -113,6 +113,12 @@ features, or withhold it as an invalid output. Preserve exact prompt,
 style-guide version, subject IDs/state versions, references, output identity,
 review status and any corrections in a production record.
 
+## Established-character orthographic continuity (2026-10-25 clarification)
+
+A selected front view is a **visual specification**, not a suggestion for a new character. For side/back turnarounds, require a reference-conditioned transformation of the **actual approved pixels** and keep the positive owner-approved outfit/identity lock. A text mention of a reference file or a verbal comparison does not prove the image renderer received the file. When the tool cannot verifiably accept the reference, **stop and switch to an explicitly controlled image-editing, artist-assisted or manual geometry/layout workflow** rather than repeatedly regenerating generic variants. Review outputs against the reference for exact garment color/cut, props, side-specific attachment, anatomy and sheathed-equipment construction.
+
+Avoid feeding the generation model a long list of rejected accessories, textures or colors—even negative statements can surface those features in auto-composed prompts. Keep forbidden-feature names in a separate **validation** checklist and use short **positive renderer instructions** that describe only the intended existing design. Where the actual generation-request description is visible, check it against the approved reference before rendering; if it contains incompatible additions, the **prompt itself is wrong** and the run should not proceed. Once a specific fault recurs twice using the same rendering strategy, institute a method-change stop, not an unlimited retry cycle. The authoritative gates and stage statuses are in [the progressive character-sheet workflow](../.agents/skills/twbd-illustration-generate/CHARACTER_SHEET.md#1a-existing-anchor-turnaround-gate--no-text-only-character-reinvention).
+
 ## Palette and lighting
 
 Select a small family of dusty rose, sage, pale blue, sand, lavender or similar

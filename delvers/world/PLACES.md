@@ -1,10 +1,11 @@
 # Delvers — places
 
-**Spoilers through S2E11 — all five temple patients reportedly awake, Silver League confirmed, Gleepo working at farm, Bronze Ball preparations after first-arc finale S1E12.** Evidence: ASR-provisional; names awaiting listening are explicitly provisional.
+**Spoilers through S2E12 — second-arc finale: active Drone pit in governor's hall, citywide elf compulsion, Wildfire/Withers fall below after first-arc finale S1E12.** Evidence: ASR-provisional; names awaiting listening are explicitly provisional.
 
 | Place | Scope and reference |
 | --- | --- |
 | City `Atamer / Atmer / a Tom or` | Opening city and guild location, ~00:02:50, 01:02:20; spelling unresolved. See [guild](places/delvers-guild.md) |
+| [Governor's hall / Bronze Ball](places/governors-hall.md) | **Actual S2E12 fundraiser/dancing at wood-floored mayoral complex**, galleries of fallen, auction room, smoking lounge, garden; **ballroom floor erupts with active Drone + roper pit**, heroes table-block entry, no device shutdown, SECOND ARC cliffhanger |
 | Delvers Dungeon Guild | Job board, tavern, supply desk, trophy case and offered upstairs rooms. [Profile](places/delvers-guild.md) |
 | [Dungeon Guild Academy](places/dungeon-guild-academy.md) | Central campus and **Radiant Lance Theatre**, where ruling board **denies Cassius gold-rank funding** and orders Selenar inspection; **S2E00 interlude story-time before S1E12** |
 | Squelcher's Swamp | Passed on the eastward route to the farm, ~01:01:53–01:02:38; not explored |

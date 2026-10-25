@@ -1,5 +1,9 @@
 # Hereditary Drone — stone music box
 
+## S2E12 second-arc finale: active exposed underground installation
+
+**The ball's ballroom floor ACTUALLY BURSTS OPEN and a DRONING SOUND / source shoots up through shattered roof**, from beneath Atomer city. All kinds of **elves and half-elves become black-eyed and COMPULSIVELY walk/climb to newly opened pit**, where **ROPER tendrils take them below**; gricks, darkmantles, hook horrors erupt. At earlier S2E10 Carrie named a **STONE MUSIC BOX “Hereditary Drone,” still guild-held by that earlier cutoff**, but **S2E12's large floor-erupting DEVICE and effect should not automatically be declared the identical single small box** without an inspected GM mechanism/map. **Krandal actually tries flooding with ~40-ft Create Water**; water **drains into adjoining tunnel network**. **Koh retrieves and activates Carrie's Fireball bracelet**; blasts **do not collapse rock**. Other adventurers **dump ~25 tables in entrance**; **drone DOES NOT STOP, and entranced elves keep digging through barricade AT ACTUAL END**. **No shutdown, source destruction, permanent cure of everyone or resolved owner/Khalazar control**. Story arc ends on this crisis; Season Three campaign is only promised. [S2E12](../../episodes/S2E12.md), ~02:14–03:01.
+
 **First recovered partly assembled:** Wastes-separated **Delvers** campaign, recovered disc and music box during [S1E11](../../episodes/S1E11.md) and **S2E05/S2E06** heist/debrief context; chronology of assembly detailed in respective dossiers. **Functional name “Hereditary Drone” explicitly assigned by Carrie in [S2E10 — Carrie On](../../episodes/S2E10.md), ~00:20–00:25**. Exact item's maker, date, magical range, power mechanism and written GM handout are **not verified**. **Not a generic musical instrument, and not the same as ordinary named head-mirror or Khalazar shard**.
 
 ## Observed and explained effects

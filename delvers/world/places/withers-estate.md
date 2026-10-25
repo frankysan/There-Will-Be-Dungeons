@@ -1,5 +1,9 @@
 # Withers Estate — the financial-district mansion
 
+## S2E12 later disclosure: owner admits opening doors, falls below the ball
+
+Estate patron **Alexandre Vanderbuck Withers** actually attends Bronze Ball and says to **Khalazar-like possessing voice in Selenar Everbloom**: **“I hired the Broscales. I opened the doors.”** His words are live **NPC testimony amid panic**, and **do NOT independently identify the doors, hire contract or precise connection to hidden Withers mansion mechanisms**. Moments later **Wildfire grabs Withers by collar and the AUCTION HALL FLOOR COLLAPSES under both**, plunging them underground. **NO confirmed deaths, escape or completed criminal proceedings** by second-arc ending. See [S2E12](../../episodes/S2E12.md).
+
 ## Introduction
 
 The Withers Estate stands among Atomer's grand financial houses, its heavy limestone walls and high columns rising above a formal park. Statues of renowned heroes surround the mansion's upper edges, and barred windows suggest the expense and security of the treasures inside. The estate was once a financial building, and Alexander (Alexandre) Vanderbuck Withers, an important supporter of the Delvers Dungeon Guild, now occupies its old rooms. Its celebrated collection of jade is spoken of among thieves and wealthy patrons, though the full contents of its museum are not yet seen by the Delvers.[^estate]

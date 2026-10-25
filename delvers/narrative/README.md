@@ -1,6 +1,6 @@
 # Delvers — narrative histories
 
-[Season Two — The Forgotten Fortnight](SEASON_TWO.md) now covers **S2E01–S2E04**: Snake Island amnesia, Koh's former Brotherhood, Evelyn's family physician and Krandal's farm, then the **Hooper–Goodwine Wight Wedding**, guest wizard and buried grandfather, followed by the **city bulette, actual planting at Spud Buds, and Cassius's secret Withers Estate investigation**.
+[Season Two — The Forgotten Fortnight](SEASON_TWO.md) now covers the **COMPLETE SECOND STORY ARC, S2E01–S2E12 (owner-confirmed boundary)**: Snake Island amnesia and Potatopia, Withers heist, Gemholm slaad outbreak, Fredoroth dragon hunt, Koh's rescue of Anthela, silver-knight exam, and **actual Bronze Ball destroyed by an ACTIVE underground Hereditary Drone**. It **ENDS ON CLIFFHANGER**: Wildfire and Withers fall underground, elves still drawn compulsively to table-blocked pit. Future Season Three expedition and three-month time passage were **GM previews only**, not played here.
 
 [The Darkest Delvers — The First Arc](SEASON_ONE_ARC.md) is the **complete eight-chapter narrative through the end of season one**. The four earlier chronological studies below remain available as detailed, source-linked narratives and are deliberately preserved rather than overwritten by the new arc synthesis.[^arc]
 

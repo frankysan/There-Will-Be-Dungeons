@@ -1,5 +1,9 @@
 # Cassius — guildmaster of Atomer
 
+## S2E12 end second arc: fundraiser disaster and Selenar rescue
+
+Cassius hosts **ACTUAL Bronze Ball** in governor's halls, publicly welcoming new SILVER knights (ordinal ranking still pending) and donors. His welcome speech, **magically amplified**, prompts Wisdom saves and **odd dreamy smiling in many guests**; **Koh resists and Wildfire blocks ears**. **Exact magic / culpability / whether connected to the later Drone is UNKNOWN**; do not assert guildmaster knowingly charmed donors or conspired with Khalazar without source. He witnesses **possessed Selenar Everbloom** say Withers failed; hears **Withers claim he hired Broscales/opened doors**; **Cassius ACTUALLY CATCHES collapsing Selenar** and later **continues carrying her as evacuation starts and at final scene**, rather than her confirmed death. **Hereditary Drone erupts beneath dance floor**, civilians descend roper pit, guild heroes blockade hole with tables but **drone STILL SOUNDS at end SECOND ARC**, campaign not yet launched. **Wildfire and Withers fall underground; their fate unresolved**. [Finale](../../episodes/S2E12.md).
+
 ## Introduction
 
 Cassius keeps the Delvers Dungeon Guild running amid a perpetual procession of frightened clients, reluctant recruits and more dangers than his limited adventurers can readily answer. He is practiced in assigning work, judging trophies, balancing rewards and keeping his members within the rules. His manner can be wry, impatient and severe, but he knows that a guildmaster's decisions reach beyond the people in the hall. Even a cheap wooden badge can become a memorial to someone he sent into the ground.[^first]

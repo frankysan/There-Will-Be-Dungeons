@@ -1,5 +1,9 @@
 # Alexandre Vanderbuck Withers — claimant of Skull Keep
 
+## S2E12: highly incriminating statement and unknown fate
+
+The wealthy fundraiser **ACTUALLY ATTENDS the Bronze Ball**, donor speech and auction, in **ill-fitting GOLD vest with black vinework, decorative shoulder pieces and a small tilted beret**, seated with **Mayor Malterby** and fellow patrons. **Anthela says he looks familiar from nightmares**—her impression, not proof of an actual visit. When a **smoky black-eyed possessing Khalazar voice through Selenar Everbloom** says Withers **FAILED TO DELIVER** and threatens to take all, **WITHERS RESPONDS IN THE PARTY'S HEARING: “I hired the Broscales. I opened the doors. There's nothing more I could do.”** Attribution is his *own statement under distress*, not independent verified contract: what “doors” he opened, whether same Broscales, what he promised, culpability and exact time remain unresolved. **Wildfire physically grabs him by collar** in auction room; **a fresh pit opens under BOTH and they FALL underground**. **No proven fatality, rescue or later confession**, and the **Hereditary Drone remains ACTIVE at second arc cutoff**. [Finale](../../episodes/S2E12.md), ~02:15–02:41.
+
 ## Introduction
 
 Alexandre Vanderbuck Withers is a prosperous, talkative aristocrat who arrives in the Darkest Delvers' lives with wine on his breath and a determination to recover his family's ancestral holiday residence. His magnificent mustache, carefully chosen velvets and warm cheeks make him appear as much a jovial patron as a serious man of business. He travels in a comfortable coach and expects his employees to recognize the importance of preserving fine furniture while fighting undead.[^introduction]

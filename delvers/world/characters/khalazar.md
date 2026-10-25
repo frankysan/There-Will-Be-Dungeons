@@ -1,5 +1,9 @@
 # Khalazar — the Undying Majesty
 
+## S2E12: present voice and citywide active Drone — NOT a confirmed physical body
+
+At Bronze Ball, **Khalazar-like smoky voice inhabits maestro Ghalan, server, Selenar Everbloom, Giga Shark and cook**, speaks directly to **Anthela to “come with me,”** threatens Withers, whose response admits hiring Broscales/opening doors. The inhabitation appears to **jump between victims** and can be interrupted temporarily, but **NOT proven Khalazar's own real corporeal body present, killed or even located**. The **Hereditary Drone SOUND and a large mechanism SURGE UP THROUGH BALLROOM FLOOR**, **roper takes black-eyed compelled elves/half-elves into pit**, hook horrors/darkmantles/gricks attack civilians. Guild blocks pit with tables **but DRONE ACTIVE, elves STILL SCRAMBLE toward it at cutoff**. **Second story arc ENDS as an active cliffhanger**. [S2E12](../../episodes/S2E12.md); [Drone](../items/hereditary-drone.md).
+
 **Working name:** **Khalazar** (ASR variants `Kalazar/Calazar`), a title/entity revealed in the Delvers arc. **First directly depicted in played action in [S2E10 — Carrie On](../../episodes/S2E10.md)**, **inside a psychic dreamscape, NOT verified physical reality**. Do not conflate this Delvers antagonist with Wastes or Inverse entities. **Actual identity, biological form, physical whereabouts and final mortality are NOT established.**
 
 ## S2E11: GM clarifies defeated form as a shade

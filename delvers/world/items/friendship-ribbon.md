@@ -1,5 +1,9 @@
 # Evelyn's friendship ribbon — enchanted pink locator
 
+## S2E12: Traveler piece ACTUALLY GIVEN and worn as rose
+
+Evelyn **actually gives one pre-cut six-inch neon-pink friendship segment to [Gentleman Cavalier Traveler](../characters/gentleman-cavalier-traveler.md) AT BRONZE BALL while dancing**, not a future-only plan. **GCT magically twists/rolls it into a small ROSE and places it on his formal LAPEL**, identifiable costume accessory for post-gift ball illustration. **No proven change to its locating mechanism, no tested interplanar tracking range**, and no further transfer before second-arc finale. [S2E12](../../episodes/S2E12.md), ~01:54–02:00.
+
 **Origin:** In [Delvers S2E10 — Carrie On](../../episodes/S2E10.md), Evelyn buys **ordinary ~8-foot-long pink ribbon** to physically tie Koh, Krandal, Anthela and Carrie together before entering psychic realm. **No magic confirmed at purchase or initial use; Carrie was NOT among three psychic link targets despite sharing wrist tether.** The ribbon returns in Evelyn's Bag of Holding.
 
 ## Transformation — S2E11 night at school

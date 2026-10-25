@@ -1,5 +1,9 @@
 # Anthela Spiros — Koh's rescued wife
 
+## S2E12: awake, dancing, then resisting new compulsion
+
+**Anthela PHYSICALLY ATTENDS Bronze Ball WITH Koh and dances**, in ornate **GREEN and BLUE Victorian dress with GOLD scale-like accents and dark-green hip silks tied at neck**, recently recovered from three-month coma. Koh **GIVES her Dagger of Venom and Driftglobe**, which she conceals as best she can for protection. She **recognizes Alexandre Vanderbuck Withers only as seeming familiar from her captive dreams** (her testimony, NOT a proven real-world meeting), unnerved by his presence. **Khalazar's smoky voice inhabits orchestra leader and other guests**, orders her to come; Koh connects minds via **eight-hour Psychic Whispers** and continuously affirms family memories. **Anthela responds coherently** and stays beside Koh through closing scene despite **other elf/half-elf town residents compulsively entering Drone pit**. **This does NOT prove permanent immunity**, recovery of all earlier dream memories or Khalazar's death. No witnessed harm/abduction/return to coma at **S2E12 end of second arc**, and no evidence she entered underground pit. [Finale](../../episodes/S2E12.md).
+
 **Working spelling:** **Anthela Spiros** (ASR sometimes `Anthila/Anthea`); exact spelling is **not audio/character-sheet verified**. [Koh Spiros](koh-spiros.md)'s wife and mother of **Penelope**. She is living but has been unresponsive for an extended period; Koh spent much of the family's fortune trying to find effective treatment. **Delvers only**: do not connect to persons or mental realms from Wastes/Inverse.
 
 ## Physical condition and earlier visions

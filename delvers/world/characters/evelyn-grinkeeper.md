@@ -1,5 +1,9 @@
 # Evelyn Grinkeeper — paladin
 
+## S2E12 second-arc finale: Lady Blackwood, Traveler and new healing
+
+At **actual Bronze Ball**, Evelyn arrives **armored as “Grinkeeper the Defender”** (with hidden formal dress), **chooses to face Lady Vestal openly**, then **actually changes into Lady Blackwood gown in courtyard bush but KEEPS the armor-era HAIR UP**, melding identities rather than fully reverting. **Gentleman Cavalier Traveler ACTUALLY APPEARS** via a red portal; [GCT appearance profile](gentleman-cavalier-traveler.md). They **DANCE**, and Evelyn **ACTUALLY gives him a six-inch segment of her bright pink [friendship ribbon](../items/friendship-ribbon.md)**, which he wears as rose on tux lapel. He says one night per year on Material Plane due to old curse, no actual name given or curse removed. When **Khalazar possession and underground Drone eruption** attack hall, Evelyn **tackles unwilling Giga Shark**, evacuates **finishing-school girls from Gallery of Fallen** after **NAT20 breaking window**, distracts a hook horror, redons armor from garden bush. **Lady Vestal hands her [unidentified ~6-inch diamond-hearted handle](../items/vestal-diamond-heart-handle.md)**; no identity/activation. Evelyn and GCT **FIGHT AND ACTUALLY TELEPORT TOGETHER to save guild guests**, and when she accidentally injures him, Evelyn **HEALS him via gentle HAND SQUEEZE for THREE HP without her habitual slap**—a genuine newly demonstrated healing method. **Drone remains active and Wildfire/Withers fate unknown at the episode's SECOND ARC end.** [Finale](../../episodes/S2E12.md).
+
 ## Overview
 
 Evelyn is a human paladin whose urgency is hard to miss. She arrives at the [guild](../places/delvers-guild.md) at a run, with armor clanking beneath her skirt and blouse, a large dwarven warhammer and five javelins. Where her assigned companions pause to observe or prepare, she wants to get moving and close the dungeon.[^identity]
