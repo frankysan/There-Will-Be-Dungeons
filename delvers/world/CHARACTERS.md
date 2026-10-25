@@ -1,12 +1,13 @@
 # Delvers — characters
 
-**Spoilers through S3E04 — C4 entered under licence, behir defeated and Iron Monkey alive but missing an arm; earlier S3E03 historical context: new guest halfling bard/correspondent Dumbledwark enters, receives licence and takes warlock tome while Cassius remains unavailable.** Earlier S2E12 second-arc events remain historical. Evidence: ASR-provisional. Working player-character spellings use the [written-source register](../../reports/DISCORD_SPELLING_2026-10-21.md); voice, exact utterances and historical sheet state remain unchecked. No later nicknames or surnames are backdated.
+**Spoilers through S3E05 — centaur guest Destroying Angel accompanies the three Delvers to Deep Winds Spa, where Koh frees Krandal and kills a black-ooze threat; Hissia/Traveler claims of a private mind-reader remain unverified and the overnight Guild base is not yet established.** Historical S3E04 C4 victory and S3E03 guest-reporter investigation retain their separate cutoffs. Earlier S2E12 second-arc events remain historical. Evidence: ASR-provisional. Working player-character spellings use the [written-source register](../../reports/DISCORD_SPELLING_2026-10-21.md); voice, exact utterances and historical sheet state remain unchecked. No later nicknames or surnames are backdated.
 
 | Character | Performer / introduction | Reference |
 | --- | --- | --- |
 | Krandal Splenderbelt | Scott; half-orc cleric, official Silver knight **Splenderbelt the Efficient**, exam **B/S/C** | [Profile](characters/krandal-splenderbelt.md) |
 | Koh Spiros | Jon; satyr rogue, official Silver knight **One Shot**, exam **S/A/A** | [Profile](characters/koh-spiros.md) |
 | Evelyn Grinkeeper | Kristen; human paladin, official Silver knight **Grinkeeper the Defender**, exam **S/S/A** | [Profile](characters/evelyn-grinkeeper.md) |
+| Destroying Angel | **Gwen (Phoenix Pearl Tea), guest in S3E05**; seven-foot centaur Silver envoy for flumph diplomacy, white box braids, longbow, axes; **not established permanent Delver** | [Profile](characters/destroying-angel.md) |
 | Dumbledwark of Raisinbunch | **Bo Schwartz, guest in S3E03**; elderly halfling bard and dungeon correspondent for *The Daily Quest*; **not established as permanent party member** | [Profile](characters/dumbledwark-of-raisinbunch.md) |
 
 ## Guild people and reported absences

@@ -1,9 +1,11 @@
 # Delvers — world reference
 
-**Spoilers through Delvers S3E04:** Bronze Ball catastrophe and second-arc cliffhanger S2E12; **played three-month transition finishes with new Silver City guild raid/questing licence regime**, Evelyn returns to Atomer, Koh's red-crystal detector upgraded, Krandal's barn built; **Khalazar's ultimate fate and Cassius inquiry not resolved**. **S3E03 adds Dumbledwark's C4 licence and stolen tome; S3E04 actually plays the C4 raid, kills the behir and narrates exit with a crystal. The separate Cassius investigation and general grounding are not settled.** S2E00 is earlier narrated fiction despite archive label. [Current episode dossier](../episodes/S3E04.md). Evidence: full dual-ASR text research, not audio-verified. This reference describes Delvers's separate reality. Handout statements and NPC claims retain their attribution.
+**Spoilers through Delvers S3E05:** Bronze Ball catastrophe and second-arc cliffhanger S2E12; **played three-month transition finishes with new Silver City guild raid/questing licence regime**, Evelyn returns to Atomer, Koh's red-crystal detector upgraded, Krandal's barn built; **Khalazar's ultimate fate and Cassius inquiry not resolved**. **S3E03 introduces Dumbledwark's C4 licence/stolen tome; S3E04 actually plays the C4 raid and kills its behir. S3E05 follows the new diplomatic mission to Deep Winds Spa: Koh frees Krandal from a clawed black-ooze creature with Daylight and kills it, but the Guild's overnight camp and Cassius's inquiry remain unresolved.** S2E00 is earlier narrated fiction despite archive label. [Current episode dossier](../episodes/S3E05.md). Evidence: full dual-ASR text research, not audio-verified. This reference describes Delvers's separate reality. Handout statements and NPC claims retain their attribution.
 
 | Read about | Reference |
 | --- | --- |
+| S3E05 guest Silver League centaur and Guild envoy for underground spa talks | [Destroying Angel](characters/destroying-angel.md) |
+| Flumph-operated neutral bathhouse and the S3E05 black-sand filtration mission | [Deep Winds Spa](places/deep-winds-spa.md) |
 | Guest Bo Schwartz's halfling bard and newspaper correspondent, holder of C4 licence | [Dumbledwark of Raisinbunch](characters/dumbledwark-of-raisinbunch.md) |
 | Warlock's tome actually stolen from former Cassius office by Dumbledwark | [Stolen tome](items/stolen-warlocks-tome.md) |
 | The guest wood-elf burglar and demolitionist | [Shrugs Manaspoon](characters/shrugs-manaspoon.md) |
