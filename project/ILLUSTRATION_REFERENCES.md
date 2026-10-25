@@ -13,6 +13,19 @@ the campaigns. Use [the guide](ILLUSTRATION_GUIDE.md) and
 
 ## Wastes: Fate 4
 
+**New transcript evidence — integration pending:** Read the
+[Fate 4 transcript audit](../reports/FATE_4_TRANSCRIPT_AUDIT_2026-10-25.md)
+and its [source/search checkpoint](../reports/FATE_4_TRANSCRIPT_AUDIT_2026-10-25.json)
+before preparing another illustration. The audit establishes a metal
+dragon-skull front, roof solar panels, exterior combat grab rails, a rear
+ladder, no ordinary front passenger seat, and further interior equipment.
+It also records later roof/hide-patch damage, repairs and destruction,
+and distinguishes the E057 interceptor from Fate 4.
+
+The 0.2 pilot below is retained pending a bounded integration of those
+findings. Its source scope and exploratory design decisions describe the
+earlier study; they are not the updated complete visual specification.
+
 | Field | Entry |
 | --- | --- |
 | Subject ID | WASTES-FATE4 |

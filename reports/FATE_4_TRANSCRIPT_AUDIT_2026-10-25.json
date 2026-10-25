@@ -1,0 +1,5558 @@
+{
+  "schema_version": 1,
+  "recorded": "2026-10-25",
+  "subject": "Fate 4",
+  "repository": "frankysan/There-Will-Be-Dungeons-Transcripts",
+  "ref": "aabee4ffbdba2ff981522294c9dc0e62bfb0553d",
+  "phase": "Source findings saved; reference integration and validation pending",
+  "scope": "All 200 available Wastes/Bonus Parakeet primary exports at this ref; targeted semantic windows only",
+  "search": {
+    "regex": "\\b(?:fate|faith|feet|fete|fat|fayt|fake|fade)\\s*(?:4|four|for)\\b|\\br[.\\s]*v\\b|monster[- ]truck|motor\\s*home|winnebago|vehicle of destiny",
+    "flags": "i",
+    "adjacent_cue_join": true,
+    "cluster_max_gap_seconds": 65,
+    "raw_candidates": 528,
+    "files_with_candidates": 67,
+    "limits": "Phonetic false positives retained; no audio verification or proof of exhaustive ASR recall"
+  },
+  "primary_sources": [
+    {
+      "path": "sources/Bonus 2019-03 - March 2019 The Year One Q&A!.parakeet.processed.srt",
+      "git_blob": "ce46f86bab3b7772be32ff12a508b36e74c60e4c",
+      "original_bytes": 334780,
+      "parsed_cues": 3572,
+      "last_cue_end": "03:01:13,920",
+      "timestamp_lines": 3572,
+      "candidates": [
+        {
+          "cue": 1989,
+          "start": "01:42:09,291",
+          "end": "01:42:15,130",
+          "text": "(speaker 0) where's the where's the favor for him when we ever see it again the."
+        },
+        {
+          "cue": 1990,
+          "start": "01:42:15,210",
+          "end": "01:42:16,650",
+          "text": "(speaker 1) faith for is where you left it yeah."
+        },
+        {
+          "cue": 2015,
+          "start": "01:43:20,691",
+          "end": "01:43:22,690",
+          "text": "(speaker 1) you said you got some stuff so make sure to"
+        },
+        {
+          "cue": 2016,
+          "start": "01:43:22,765",
+          "end": "01:43:28,210",
+          "text": "(speaker 1) include fate for i think you i think hope you"
+        },
+        {
+          "cue": 2025,
+          "start": "01:43:52,725",
+          "end": "01:43:55,630",
+          "text": "(speaker 0) ecto one you can't replace that thing so at the"
+        },
+        {
+          "cue": 2026,
+          "start": "01:43:55,631",
+          "end": "01:43:58,030",
+          "text": "(speaker 0) head of your army you got to have the fate for we"
+        },
+        {
+          "cue": 2027,
+          "start": "01:43:58,031",
+          "end": "01:44:00,670",
+          "text": "(speaker 0) can retrofit it though and like beef it up and"
+        },
+        {
+          "cue": 2028,
+          "start": "01:44:01,060",
+          "end": "01:44:02,510",
+          "text": "(speaker 0) monster truck actually out but."
+        },
+        {
+          "cue": 2049,
+          "start": "01:45:04,351",
+          "end": "01:45:06,191",
+          "text": "(speaker 1) is also another Avenue not what i was referring"
+        },
+        {
+          "cue": 2050,
+          "start": "01:45:06,890",
+          "end": "01:45:10,430",
+          "text": "(speaker 1) to though i'm referring to an upgrade on fate for"
+        },
+        {
+          "cue": 2053,
+          "start": "01:45:17,420",
+          "end": "01:45:19,216",
+          "text": "(speaker 1) well maybe that it would be fit what a rainbow"
+        },
+        {
+          "cue": 2054,
+          "start": "01:45:19,240",
+          "end": "01:45:20,916",
+          "text": "(speaker 1) coming out of the fade for as you travel the"
+        }
+      ]
+    },
+    {
+      "path": "sources/Bonus 2019-04 - Bonus Show 01 - The First and Last (April 2019 ).parakeet.processed.srt",
+      "git_blob": "5fa94c6593e6fb3bdeb0728879491afbe3f16ede",
+      "original_bytes": 56984,
+      "parsed_cues": 610,
+      "last_cue_end": "00:31:04,280",
+      "timestamp_lines": 610,
+      "candidates": [
+        {
+          "cue": 69,
+          "start": "00:03:36,330",
+          "end": "00:03:40,570",
+          "text": "(speaker 0) sort of agile moves in the water the under."
+        },
+        {
+          "cue": 70,
+          "start": "00:03:41,050",
+          "end": "00:03:41,860",
+          "text": "(speaker 2) like the fate for."
+        }
+      ]
+    },
+    {
+      "path": "sources/Bonus 2019-06 - June 2019.parakeet.processed.srt",
+      "git_blob": "a51e0bb7716957b2aaef347ac1a4a2b67694ef39",
+      "original_bytes": 48333,
+      "parsed_cues": 513,
+      "last_cue_end": "00:25:36,540",
+      "timestamp_lines": 513,
+      "candidates": [
+        {
+          "cue": 284,
+          "start": "00:14:03,479",
+          "end": "00:14:09,240",
+          "text": "(speaker 3) world and saying can i do this so we spend a lot"
+        },
+        {
+          "cue": 285,
+          "start": "00:14:09,241",
+          "end": "00:14:11,800",
+          "text": "(speaker 3) of time in the fate four seeking shelter and"
+        }
+      ]
+    },
+    {
+      "path": "sources/Bonus 2019-07 - July 2019.parakeet.processed.srt",
+      "git_blob": "8887c5ad34e448fe83e7ad8d27e878491302469d",
+      "original_bytes": 48586,
+      "parsed_cues": 515,
+      "last_cue_end": "00:27:00,940",
+      "timestamp_lines": 515,
+      "candidates": []
+    },
+    {
+      "path": "sources/Bonus 2019-08 - August 2019.parakeet.processed.srt",
+      "git_blob": "728a3a1e3ab36878dd4cc22745ea0af5f403b482",
+      "original_bytes": 58611,
+      "parsed_cues": 625,
+      "last_cue_end": "00:31:00,550",
+      "timestamp_lines": 625,
+      "candidates": []
+    },
+    {
+      "path": "sources/Bonus 2019-09 - September 2019.parakeet.processed.srt",
+      "git_blob": "9d08d4c04966136f48a0559980658e93ef217f56",
+      "original_bytes": 70138,
+      "parsed_cues": 751,
+      "last_cue_end": "00:37:10,650",
+      "timestamp_lines": 751,
+      "candidates": [
+        {
+          "cue": 206,
+          "start": "00:10:04,381",
+          "end": "00:10:06,460",
+          "text": "(speaker 0) yeah that's fine totally fine."
+        },
+        {
+          "cue": 207,
+          "start": "00:10:07,235",
+          "end": "00:10:11,980",
+          "text": "(speaker 1) and then the last one for me will hope rebuild the fate for or create the fate"
+        }
+      ]
+    },
+    {
+      "path": "sources/Bonus 2019-10 - October 2019.parakeet.processed.srt",
+      "git_blob": "7fb7c4a5f55ec1c543f679293fe4cb3b6ab9878c",
+      "original_bytes": 63603,
+      "parsed_cues": 676,
+      "last_cue_end": "00:34:03,940",
+      "timestamp_lines": 676,
+      "candidates": []
+    },
+    {
+      "path": "sources/Bonus 2019-11 - November 2019.parakeet.processed.srt",
+      "git_blob": "8b78ad2acfd5308a6fccde43a0e901285890581c",
+      "original_bytes": 64153,
+      "parsed_cues": 693,
+      "last_cue_end": "00:34:11,170",
+      "timestamp_lines": 693,
+      "candidates": []
+    },
+    {
+      "path": "sources/Bonus 2019-12 - December 2019 (alternate copy).parakeet.processed.srt",
+      "git_blob": "1804e8eb957a4da1a44021aa9fa635a2fe9b73a7",
+      "original_bytes": 60274,
+      "parsed_cues": 647,
+      "last_cue_end": "00:35:19,790",
+      "timestamp_lines": 647,
+      "candidates": [
+        {
+          "cue": 288,
+          "start": "00:15:28,245",
+          "end": "00:15:30,830",
+          "text": "(speaker 3) yeah i wish we'd have taken better care of the"
+        },
+        {
+          "cue": 289,
+          "start": "00:15:31,039",
+          "end": "00:15:34,270",
+          "text": "(speaker 3) fate for if i had a thing i regret i just feel"
+        },
+        {
+          "cue": 293,
+          "start": "00:15:44,271",
+          "end": "00:15:46,430",
+          "text": "(speaker 3) ultimately it's fate was it's literally called"
+        },
+        {
+          "cue": 294,
+          "start": "00:15:46,431",
+          "end": "00:15:50,750",
+          "text": "(speaker 3) the fate for and its fate was sealed but i wanted"
+        }
+      ]
+    },
+    {
+      "path": "sources/Bonus 2019-12 - December 2019.parakeet.processed.srt",
+      "git_blob": "fe2c8a53ba06bde4bd401b566232e34c64c0226d",
+      "original_bytes": 59367,
+      "parsed_cues": 645,
+      "last_cue_end": "00:34:19,640",
+      "timestamp_lines": 645,
+      "candidates": [
+        {
+          "cue": 271,
+          "start": "00:14:28,065",
+          "end": "00:14:30,650",
+          "text": "(speaker 0) you know i wish we'd have taken better care of the"
+        },
+        {
+          "cue": 272,
+          "start": "00:14:30,859",
+          "end": "00:14:34,090",
+          "text": "(speaker 0) fate for if i had a thing i regret i just feel"
+        },
+        {
+          "cue": 277,
+          "start": "00:14:42,065",
+          "end": "00:14:45,130",
+          "text": "(speaker 0) yeah i mean we couldn't maybe ultimately its fate"
+        },
+        {
+          "cue": 278,
+          "start": "00:14:45,131",
+          "end": "00:14:47,130",
+          "text": "(speaker 0) was it's literally called the fate for and its"
+        }
+      ]
+    },
+    {
+      "path": "sources/Bonus 2020-01 - January 2020.parakeet.processed.srt",
+      "git_blob": "ca3d9ab7d8db27ab82883483ead98af38b042466",
+      "original_bytes": 62014,
+      "parsed_cues": 666,
+      "last_cue_end": "00:33:28,610",
+      "timestamp_lines": 666,
+      "candidates": []
+    },
+    {
+      "path": "sources/Bonus 2020-02 - February 2020.parakeet.processed.srt",
+      "git_blob": "e19bf95f847173673bdadccada9d76b7306e0848",
+      "original_bytes": 63054,
+      "parsed_cues": 674,
+      "last_cue_end": "00:34:01,290",
+      "timestamp_lines": 674,
+      "candidates": []
+    },
+    {
+      "path": "sources/Bonus 2020-03 - March 2020.parakeet.processed.srt",
+      "git_blob": "4c6cbda825ddee2ad479ae1455773647ad16c70f",
+      "original_bytes": 67284,
+      "parsed_cues": 712,
+      "last_cue_end": "00:35:37,410",
+      "timestamp_lines": 712,
+      "candidates": []
+    },
+    {
+      "path": "sources/Bonus 2020-04 - April 2020.parakeet.processed.srt",
+      "git_blob": "4a9cc70b82eaf50b9f492ee55df69e9010929fe0",
+      "original_bytes": 74003,
+      "parsed_cues": 815,
+      "last_cue_end": "00:40:05,740",
+      "timestamp_lines": 815,
+      "candidates": [
+        {
+          "cue": 443,
+          "start": "00:21:02,581",
+          "end": "00:21:05,700",
+          "text": "(speaker 0) desert with your thinking i'd want a i want to"
+        },
+        {
+          "cue": 444,
+          "start": "00:21:05,701",
+          "end": "00:21:09,700",
+          "text": "(speaker 0) fate for that runs i drive that around town now"
+        },
+        {
+          "cue": 449,
+          "start": "00:21:22,419",
+          "end": "00:21:24,900",
+          "text": "(speaker 0) man how cool would that be just a big old loud"
+        },
+        {
+          "cue": 450,
+          "start": "00:21:25,449",
+          "end": "00:21:29,380",
+          "text": "(speaker 0) big fate for you know painted on the side weird"
+        },
+        {
+          "cue": 560,
+          "start": "00:26:33,799",
+          "end": "00:26:39,670",
+          "text": "(speaker 0) the team silhouettes it's all about the silhouettes and so nasha's silhouette matters"
+        },
+        {
+          "cue": 561,
+          "start": "00:26:39,671",
+          "end": "00:26:42,950",
+          "text": "(speaker 0) next question when do we get a fake for mount"
+        }
+      ]
+    },
+    {
+      "path": "sources/Bonus 2020-05 - May 2020.parakeet.processed.srt",
+      "git_blob": "bab9a55b51b07bd3e74690956099bf036bbfc118",
+      "original_bytes": 61426,
+      "parsed_cues": 657,
+      "last_cue_end": "00:33:32,760",
+      "timestamp_lines": 657,
+      "candidates": [
+        {
+          "cue": 487,
+          "start": "00:25:02,501",
+          "end": "00:25:05,540",
+          "text": "(speaker 0) resources out there but sometimes it's just like."
+        },
+        {
+          "cue": 488,
+          "start": "00:25:06,389",
+          "end": "00:25:09,460",
+          "text": "(speaker 0) hey we needed a sound for the fate for honking."
+        }
+      ]
+    },
+    {
+      "path": "sources/Bonus 2020-06 - June 2020.parakeet.processed.srt",
+      "git_blob": "ad3871ffd7de47a49816b6fd1258d55054645642",
+      "original_bytes": 69373,
+      "parsed_cues": 742,
+      "last_cue_end": "00:37:29,230",
+      "timestamp_lines": 742,
+      "candidates": []
+    },
+    {
+      "path": "sources/Bonus 2020-07 - July 2020.parakeet.processed.srt",
+      "git_blob": "0ffe5802563bd36af52561ff2adc6d5a87a0b0ca",
+      "original_bytes": 67862,
+      "parsed_cues": 731,
+      "last_cue_end": "00:37:20,470",
+      "timestamp_lines": 731,
+      "candidates": []
+    },
+    {
+      "path": "sources/Bonus 2020-08 - August 2020.parakeet.processed.srt",
+      "git_blob": "2696f18da30a914a831d9bce9e208f39989eb7d3",
+      "original_bytes": 56077,
+      "parsed_cues": 594,
+      "last_cue_end": "00:29:36,060",
+      "timestamp_lines": 594,
+      "candidates": []
+    },
+    {
+      "path": "sources/Bonus 2020-09 - September 2020.parakeet.processed.srt",
+      "git_blob": "011b6ea0e5484aedfb53875cfdde76342072328d",
+      "original_bytes": 65320,
+      "parsed_cues": 697,
+      "last_cue_end": "00:36:42,690",
+      "timestamp_lines": 697,
+      "candidates": [
+        {
+          "cue": 211,
+          "start": "00:11:06,681",
+          "end": "00:11:09,080",
+          "text": "(speaker 4) have never declared himself lizard king on the on"
+        },
+        {
+          "cue": 212,
+          "start": "00:11:09,081",
+          "end": "00:11:12,280",
+          "text": "(speaker 4) the fate for that night going out into the desert."
+        }
+      ]
+    },
+    {
+      "path": "sources/Bonus 2020-10 - October 2020.parakeet.processed.srt",
+      "git_blob": "ee4e552eda0d318ce6667645aba4599f526f9899",
+      "original_bytes": 79710,
+      "parsed_cues": 841,
+      "last_cue_end": "00:41:31,930",
+      "timestamp_lines": 841,
+      "candidates": []
+    },
+    {
+      "path": "sources/Bonus 2020-11 - November 2020.parakeet.processed.srt",
+      "git_blob": "c83f2780c0b955c91497fadbbf9e6858898e053b",
+      "original_bytes": 54933,
+      "parsed_cues": 584,
+      "last_cue_end": "00:30:14,460",
+      "timestamp_lines": 584,
+      "candidates": []
+    },
+    {
+      "path": "sources/Bonus 2021-01 - January 2021.parakeet.processed.srt",
+      "git_blob": "29b5a4d9f2ac8368666947d61605cfcf3aaaca2d",
+      "original_bytes": 53594,
+      "parsed_cues": 563,
+      "last_cue_end": "00:29:28,040",
+      "timestamp_lines": 563,
+      "candidates": [
+        {
+          "cue": 281,
+          "start": "00:15:04,139",
+          "end": "00:15:07,240",
+          "text": "(speaker 0) her and so that plucky early mechanic girl who"
+        },
+        {
+          "cue": 282,
+          "start": "00:15:07,549",
+          "end": "00:15:09,800",
+          "text": "(speaker 0) couldn't wait to get us all in the fate four and"
+        }
+      ]
+    },
+    {
+      "path": "sources/Bonus 2021-02 - February 2021.parakeet.processed.srt",
+      "git_blob": "234477733f16d54546793171ff641c168b7121e1",
+      "original_bytes": 60268,
+      "parsed_cues": 636,
+      "last_cue_end": "00:33:11,900",
+      "timestamp_lines": 636,
+      "candidates": []
+    },
+    {
+      "path": "sources/Bonus 2021-03 - March 2021.parakeet.processed.srt",
+      "git_blob": "8f57baebf73db15de2bdb352802aca0a07c5e486",
+      "original_bytes": 57056,
+      "parsed_cues": 607,
+      "last_cue_end": "00:30:52,150",
+      "timestamp_lines": 607,
+      "candidates": []
+    },
+    {
+      "path": "sources/Bonus 2021-04 - April 2021.parakeet.processed.srt",
+      "git_blob": "a4254c48ca8c68c871958736aa992a9bd4f62b0e",
+      "original_bytes": 70326,
+      "parsed_cues": 740,
+      "last_cue_end": "00:38:54,320",
+      "timestamp_lines": 740,
+      "candidates": []
+    },
+    {
+      "path": "sources/Bonus 2021-05 - May 2021.parakeet.processed.srt",
+      "git_blob": "dcb9d02d48b03cb5a692545eedbfd86fe841a7d2",
+      "original_bytes": 66697,
+      "parsed_cues": 700,
+      "last_cue_end": "00:35:04,020",
+      "timestamp_lines": 700,
+      "candidates": []
+    },
+    {
+      "path": "sources/Bonus 2021-06 - June 2021.parakeet.processed.srt",
+      "git_blob": "0dc420335e620bea2aa79d82fd6264826052759e",
+      "original_bytes": 60730,
+      "parsed_cues": 643,
+      "last_cue_end": "00:33:57,590",
+      "timestamp_lines": 643,
+      "candidates": []
+    },
+    {
+      "path": "sources/Bonus 2021-08 - August 2021.parakeet.processed.srt",
+      "git_blob": "3da1823da02abe4f8aa034e5f354dbda0435549b",
+      "original_bytes": 59045,
+      "parsed_cues": 621,
+      "last_cue_end": "00:31:28,860",
+      "timestamp_lines": 621,
+      "candidates": []
+    },
+    {
+      "path": "sources/Bonus 2021-09 - September 2021.parakeet.processed.srt",
+      "git_blob": "960feb785ef0b0ed25c18d88a691ce7f88f7295a",
+      "original_bytes": 52757,
+      "parsed_cues": 557,
+      "last_cue_end": "00:27:07,890",
+      "timestamp_lines": 557,
+      "candidates": []
+    },
+    {
+      "path": "sources/Bonus 2021-11 - November 2021 (2021-11-10).parakeet.processed.srt",
+      "git_blob": "8119aa45b2c5aa6de32ac77779473d6c0bceb4b4",
+      "original_bytes": 64021,
+      "parsed_cues": 668,
+      "last_cue_end": "00:35:42,050",
+      "timestamp_lines": 668,
+      "candidates": []
+    },
+    {
+      "path": "sources/Bonus 2021-11 - November 2021 (2021-11-13).parakeet.processed.srt",
+      "git_blob": "c4ec9803198440dc738132cd9604bedcc9a4ecd0",
+      "original_bytes": 108902,
+      "parsed_cues": 1153,
+      "last_cue_end": "01:00:21,980",
+      "timestamp_lines": 1153,
+      "candidates": []
+    },
+    {
+      "path": "sources/Bonus 2021-12 - December 2021.parakeet.processed.srt",
+      "git_blob": "eb71bafff14780cb1d0da181969c0d70f697e269",
+      "original_bytes": 58951,
+      "parsed_cues": 621,
+      "last_cue_end": "00:31:19,590",
+      "timestamp_lines": 621,
+      "candidates": []
+    },
+    {
+      "path": "sources/Bonus 2022-02 - February 2022.parakeet.processed.srt",
+      "git_blob": "cf4f646b8abcada65d72f57099d10698290dc58c",
+      "original_bytes": 72428,
+      "parsed_cues": 767,
+      "last_cue_end": "00:37:53,470",
+      "timestamp_lines": 767,
+      "candidates": []
+    },
+    {
+      "path": "sources/Bonus 2022-03 - March 2022.parakeet.processed.srt",
+      "git_blob": "6f382e56fbe14d2101d3dcf11b3a6d9320573632",
+      "original_bytes": 69438,
+      "parsed_cues": 734,
+      "last_cue_end": "00:36:35,270",
+      "timestamp_lines": 734,
+      "candidates": []
+    },
+    {
+      "path": "sources/Bonus 2022-04 - April 2022.parakeet.processed.srt",
+      "git_blob": "770955ead7efa9e23f294249b0f47f03716409e9",
+      "original_bytes": 69588,
+      "parsed_cues": 743,
+      "last_cue_end": "00:36:55,120",
+      "timestamp_lines": 743,
+      "candidates": []
+    },
+    {
+      "path": "sources/Bonus 2022-05 - May 2022.parakeet.processed.srt",
+      "git_blob": "7082c1327f662148513685a74c5e800c3f10b65f",
+      "original_bytes": 60502,
+      "parsed_cues": 640,
+      "last_cue_end": "00:33:03,720",
+      "timestamp_lines": 640,
+      "candidates": []
+    },
+    {
+      "path": "sources/Bonus 2022-07 - July 2022.parakeet.processed.srt",
+      "git_blob": "41e259e0f0192a631fea1deb637017df6e2f635a",
+      "original_bytes": 63862,
+      "parsed_cues": 689,
+      "last_cue_end": "00:35:11,710",
+      "timestamp_lines": 689,
+      "candidates": [
+        {
+          "cue": 592,
+          "start": "00:30:22,620",
+          "end": "00:30:23,620",
+          "text": "(speaker 0) wrong with that."
+        },
+        {
+          "cue": 593,
+          "start": "00:30:23,735",
+          "end": "00:30:26,060",
+          "text": "(speaker 4) yeah monster truck videos are the best."
+        }
+      ]
+    },
+    {
+      "path": "sources/Bonus 2022-08 - August 2022.parakeet.processed.srt",
+      "git_blob": "779798cbb1504485ed4321f073a5856807051c18",
+      "original_bytes": 49323,
+      "parsed_cues": 529,
+      "last_cue_end": "00:27:48,790",
+      "timestamp_lines": 529,
+      "candidates": []
+    },
+    {
+      "path": "sources/The Wastes S1E000. Introductions.parakeet.processed.srt",
+      "git_blob": "303b5e9002b22196241dc80a153d13f8eec49100",
+      "original_bytes": 17135,
+      "parsed_cues": 193,
+      "last_cue_end": "00:13:28,060",
+      "timestamp_lines": 193,
+      "candidates": []
+    },
+    {
+      "path": "sources/The Wastes S1E001. The Campaign Begins!.parakeet.processed.srt",
+      "git_blob": "477c61e0f41bc2f9592ef3e882cd994214f5dcd8",
+      "original_bytes": 373601,
+      "parsed_cues": 4819,
+      "last_cue_end": "03:03:33,690",
+      "timestamp_lines": 4819,
+      "candidates": [
+        {
+          "cue": 433,
+          "start": "00:17:09,404",
+          "end": "00:17:10,450",
+          "text": "(Beau) It's a smart car."
+        },
+        {
+          "cue": 434,
+          "start": "00:17:10,679",
+          "end": "00:17:14,130",
+          "text": "(Beau) And there's also a an RV on monster wheels."
+        },
+        {
+          "cue": 435,
+          "start": "00:17:14,309",
+          "end": "00:17:17,201",
+          "text": "(Beau) So it's it's just like a really small, crappy"
+        },
+        {
+          "cue": 436,
+          "start": "00:17:17,202",
+          "end": "00:17:19,010",
+          "text": "(Beau) RV, but it's on the biggest monster wheels."
+        },
+        {
+          "cue": 459,
+          "start": "00:18:13,809",
+          "end": "00:18:16,210",
+          "text": "(Beau) And um, he's a he's a small guy, but he's he's not here."
+        },
+        {
+          "cue": 460,
+          "start": "00:18:16,290",
+          "end": "00:18:20,050",
+          "text": "(Beau) Or if he's fixing uh are you fixing the RV or the smart car?"
+        },
+        {
+          "cue": 462,
+          "start": "00:18:21,719",
+          "end": "00:18:22,826",
+          "text": "(Beau) What project were you working on?"
+        },
+        {
+          "cue": 463,
+          "start": "00:18:22,850",
+          "end": "00:18:25,810",
+          "text": "(Kristen) I'm I'm putting on the last monster truck wheel."
+        }
+      ]
+    },
+    {
+      "path": "sources/The Wastes S1E002. Spiders.parakeet.processed.srt",
+      "git_blob": "404c522b39ffe3b59d98e1ae6cdee15befab4aea",
+      "original_bytes": 341255,
+      "parsed_cues": 4257,
+      "last_cue_end": "02:39:16,030",
+      "timestamp_lines": 4257,
+      "candidates": []
+    },
+    {
+      "path": "sources/The Wastes S1E003. Soft Head Returns.parakeet.processed.srt",
+      "git_blob": "6d1211150be6376939845a4118fa13628ec829d1",
+      "original_bytes": 394323,
+      "parsed_cues": 4808,
+      "last_cue_end": "03:10:52,410",
+      "timestamp_lines": 4808,
+      "candidates": []
+    },
+    {
+      "path": "sources/The Wastes S1E004. The Oil Demon.parakeet.processed.srt",
+      "git_blob": "0bc5e8155155c66db51af084c14d99f522a85bc0",
+      "original_bytes": 338128,
+      "parsed_cues": 4180,
+      "last_cue_end": "02:54:08,830",
+      "timestamp_lines": 4180,
+      "candidates": []
+    },
+    {
+      "path": "sources/The Wastes S1E005. Goblincide.parakeet.processed.srt",
+      "git_blob": "a8e99c464d4d350d576d79286b814f328edadae6",
+      "original_bytes": 340141,
+      "parsed_cues": 4191,
+      "last_cue_end": "02:47:31,770",
+      "timestamp_lines": 4191,
+      "candidates": [
+        {
+          "cue": 3178,
+          "start": "02:09:53,871",
+          "end": "02:09:55,576",
+          "text": "(speaker 1) you know, that little piece of shit that the ill"
+        },
+        {
+          "cue": 3179,
+          "start": "02:09:55,600",
+          "end": "02:09:58,430",
+          "text": "(speaker 1) master lacked, and uh we got that RV, a real beast."
+        }
+      ]
+    },
+    {
+      "path": "sources/The Wastes S1E006. Start your engines!.parakeet.processed.srt",
+      "git_blob": "8e4cd1979218ac6d532e7903456a125169e7ae54",
+      "original_bytes": 362528,
+      "parsed_cues": 4413,
+      "last_cue_end": "03:11:49,120",
+      "timestamp_lines": 4413,
+      "candidates": [
+        {
+          "cue": 3036,
+          "start": "02:15:44,890",
+          "end": "02:15:45,890",
+          "text": "(speaker 3) the thing."
+        },
+        {
+          "cue": 3037,
+          "start": "02:15:48,290",
+          "end": "02:15:51,610",
+          "text": "(speaker 3) And I'll rip the tarp off of the RV."
+        },
+        {
+          "cue": 3039,
+          "start": "02:15:52,220",
+          "end": "02:15:54,730",
+          "text": "(speaker 5) And so Hope rips the top off, and you see you see"
+        },
+        {
+          "cue": 3040,
+          "start": "02:15:54,731",
+          "end": "02:16:03,310",
+          "text": "(speaker 5) an RV with giant monster truck wheels, and it's got this um metal like dragon skull."
+        },
+        {
+          "cue": 3049,
+          "start": "02:16:21,190",
+          "end": "02:16:24,110",
+          "text": "(speaker 5) Okay, it's there."
+        },
+        {
+          "cue": 3050,
+          "start": "02:16:25,070",
+          "end": "02:16:30,110",
+          "text": "(speaker 3) So it's big RV, it's on huge monster wheels."
+        },
+        {
+          "cue": 3067,
+          "start": "02:17:03,779",
+          "end": "02:17:05,709",
+          "text": "(speaker 5) of the details so that everyone's uh there, but"
+        },
+        {
+          "cue": 3068,
+          "start": "02:17:05,710",
+          "end": "02:17:08,670",
+          "text": "(speaker 5) we have a rule sheet for fate four, since this is"
+        },
+        {
+          "cue": 3400,
+          "start": "02:31:16,330",
+          "end": "02:31:17,330",
+          "text": "(speaker 3) Thank you, Jim."
+        },
+        {
+          "cue": 3401,
+          "start": "02:31:18,305",
+          "end": "02:31:21,530",
+          "text": "(speaker 5) Fate four is now filled with potatoes, chew worms,"
+        },
+        {
+          "cue": 3682,
+          "start": "02:42:26,180",
+          "end": "02:42:28,900",
+          "text": "(speaker 5) Um you don't detect any problems, everything's good."
+        },
+        {
+          "cue": 3683,
+          "start": "02:42:29,179",
+          "end": "02:42:37,060",
+          "text": "(speaker 5) Your first day on its maiden voyage of the Fate4 has been successful."
+        },
+        {
+          "cue": 3992,
+          "start": "02:54:12,559",
+          "end": "02:54:14,080",
+          "text": "(speaker 5) This goes on for a minute, and then he walks"
+        },
+        {
+          "cue": 3993,
+          "start": "02:54:14,081",
+          "end": "02:54:16,080",
+          "text": "(speaker 5) straight to the door on the side of the Fate Four"
+        },
+        {
+          "cue": 4188,
+          "start": "03:02:37,029",
+          "end": "03:02:38,050",
+          "text": "(speaker 0) Do we know who this is?"
+        },
+        {
+          "cue": 4189,
+          "start": "03:02:42,420",
+          "end": "03:02:44,290",
+          "text": "(speaker 3) I'm still with the old man in the RV."
+        },
+        {
+          "cue": 4240,
+          "start": "03:05:34,349",
+          "end": "03:05:36,440",
+          "text": "(speaker 2) think this would be a legitimate strategy."
+        },
+        {
+          "cue": 4241,
+          "start": "03:05:36,719",
+          "end": "03:05:42,280",
+          "text": "(speaker 2) Bachbok, I'm going to give you another chew worm when we get back to the RV."
+        },
+        {
+          "cue": 4282,
+          "start": "03:07:14,500",
+          "end": "03:07:18,340",
+          "text": "(speaker 4) I will uh so I'll rouse from my little sand crib,"
+        },
+        {
+          "cue": 4283,
+          "start": "03:07:18,341",
+          "end": "03:07:23,780",
+          "text": "(speaker 4) get Bach Bok moving, start heading towards the RV, and throw open the door."
+        }
+      ]
+    },
+    {
+      "path": "sources/The Wastes S1E007. Bok Bok Keeping It Fresh.parakeet.processed.srt",
+      "git_blob": "499066d3f9347d18e2c4d93bddd92073cccc0491",
+      "original_bytes": 286819,
+      "parsed_cues": 3555,
+      "last_cue_end": "02:21:16,440",
+      "timestamp_lines": 3555,
+      "candidates": [
+        {
+          "cue": 16,
+          "start": "00:00:52,961",
+          "end": "00:00:55,840",
+          "text": "(speaker 0) place you were gonna put like the world map and"
+        },
+        {
+          "cue": 17,
+          "start": "00:00:55,964",
+          "end": "00:01:00,640",
+          "text": "(speaker 0) the layout of this new car you guys have, Hope's car, fate four."
+        },
+        {
+          "cue": 109,
+          "start": "00:05:39,130",
+          "end": "00:05:40,130",
+          "text": "(speaker 0) Slowly."
+        },
+        {
+          "cue": 110,
+          "start": "00:05:40,240",
+          "end": "00:05:41,770",
+          "text": "(speaker 0) The fate four."
+        },
+        {
+          "cue": 111,
+          "start": "00:05:42,000",
+          "end": "00:05:43,770",
+          "text": "(speaker 1) The fate four."
+        },
+        {
+          "cue": 185,
+          "start": "00:08:24,480",
+          "end": "00:08:27,000",
+          "text": "(speaker 0) I have busted out that door and I'm standing there all the time."
+        },
+        {
+          "cue": 186,
+          "start": "00:08:29,200",
+          "end": "00:08:33,679",
+          "text": "(speaker 1) I So you exited you exit the the RV."
+        },
+        {
+          "cue": 678,
+          "start": "00:28:40,470",
+          "end": "00:28:41,470",
+          "text": "(speaker 1) Okay."
+        },
+        {
+          "cue": 679,
+          "start": "00:28:41,499",
+          "end": "00:28:45,320",
+          "text": "(speaker 2) We may regret this, but uh does the fate four have"
+        },
+        {
+          "cue": 1925,
+          "start": "01:16:59,560",
+          "end": "01:16:59,857",
+          "text": "(speaker 4) Come."
+        },
+        {
+          "cue": 1926,
+          "start": "01:16:59,881",
+          "end": "01:17:01,240",
+          "text": "(speaker 0) on, fate four, dude."
+        },
+        {
+          "cue": 1954,
+          "start": "01:17:54,020",
+          "end": "01:17:55,780",
+          "text": "(speaker 1) top gear, you start, you put your pedal down."
+        },
+        {
+          "cue": 1955,
+          "start": "01:17:55,820",
+          "end": "01:17:59,020",
+          "text": "(speaker 1) This is the fastest moving RV in the history of RVs."
+        },
+        {
+          "cue": 1956,
+          "start": "01:17:59,500",
+          "end": "01:18:02,060",
+          "text": "(speaker 1) You start driving up behind Stanley and Nash,"
+        },
+        {
+          "cue": 1957,
+          "start": "01:18:02,061",
+          "end": "01:18:04,780",
+          "text": "(speaker 1) because you're high up, this is a very tall RV,"
+        },
+        {
+          "cue": 2017,
+          "start": "01:20:20,330",
+          "end": "01:20:23,800",
+          "text": "(speaker 1) Um and it just goes."
+        },
+        {
+          "cue": 2018,
+          "start": "01:20:23,930",
+          "end": "01:20:27,400",
+          "text": "(speaker 1) Uh now your RV slowly grinds to a halt as it"
+        },
+        {
+          "cue": 2026,
+          "start": "01:20:46,120",
+          "end": "01:20:48,520",
+          "text": "(speaker 1) sort of on the floor of the thing as a pile of"
+        },
+        {
+          "cue": 2027,
+          "start": "01:20:48,521",
+          "end": "01:20:51,560",
+          "text": "(speaker 1) shrapnel flies out from the front of your RV into."
+        },
+        {
+          "cue": 2509,
+          "start": "01:38:49,601",
+          "end": "01:38:54,080",
+          "text": "(speaker 1) and and with that, there's the smoldering fiery remains of several vehicles."
+        },
+        {
+          "cue": 2510,
+          "start": "01:38:54,460",
+          "end": "01:38:56,640",
+          "text": "(speaker 1) Fate four included, although it's not remains,"
+        }
+      ]
+    },
+    {
+      "path": "sources/The Wastes S1E008. Stupid Gnomes!.parakeet.processed.srt",
+      "git_blob": "d4417ddc946e327db701623e97627288b40b57df",
+      "original_bytes": 382911,
+      "parsed_cues": 4815,
+      "last_cue_end": "03:02:23,590",
+      "timestamp_lines": 4815,
+      "candidates": [
+        {
+          "cue": 112,
+          "start": "00:04:24,980",
+          "end": "00:04:27,210",
+          "text": "(speaker 2) And they had a hard time dealing with them."
+        },
+        {
+          "cue": 113,
+          "start": "00:04:27,290",
+          "end": "00:04:34,090",
+          "text": "(speaker 2) Really nobody wanted him in the uh RV in Fate4, the legendary RV that Hope's design."
+        },
+        {
+          "cue": 133,
+          "start": "00:05:51,000",
+          "end": "00:05:54,870",
+          "text": "(speaker 2) primal combat and wiped out all of the goblins attacking them."
+        },
+        {
+          "cue": 134,
+          "start": "00:05:55,050",
+          "end": "00:05:59,750",
+          "text": "(speaker 2) But the Fate Four suffered overheating and is now stranded."
+        }
+      ]
+    },
+    {
+      "path": "sources/The Wastes S1E009. Surfacing.parakeet.processed.srt",
+      "git_blob": "b4a15bf0bf030bc50bd59373260076f98c6beb82",
+      "original_bytes": 410610,
+      "parsed_cues": 5239,
+      "last_cue_end": "03:16:12,750",
+      "timestamp_lines": 5239,
+      "candidates": [
+        {
+          "cue": 5102,
+          "start": "03:10:17,949",
+          "end": "03:10:20,470",
+          "text": "(speaker 1) And then you look onto the horizon and you see you"
+        },
+        {
+          "cue": 5103,
+          "start": "03:10:20,569",
+          "end": "03:10:23,990",
+          "text": "(speaker 1) see the fate four and you see Hope and Varel"
+        }
+      ]
+    },
+    {
+      "path": "sources/The Wastes S1E010. Shackles.parakeet.processed.srt",
+      "git_blob": "b1995a8e7ce5a335a3eb32d2cfdd2485089522f8",
+      "original_bytes": 413544,
+      "parsed_cues": 5223,
+      "last_cue_end": "03:22:07,840",
+      "timestamp_lines": 5223,
+      "candidates": [
+        {
+          "cue": 49,
+          "start": "00:02:32,991",
+          "end": "00:02:39,630",
+          "text": "(speaker 3) having killed dozens upon dozens of goblins in horrific car accident."
+        },
+        {
+          "cue": 50,
+          "start": "00:02:39,960",
+          "end": "00:02:43,550",
+          "text": "(speaker 3) Unfortunately, the Fate Four was injured."
+        },
+        {
+          "cue": 70,
+          "start": "00:03:46,151",
+          "end": "00:03:48,150",
+          "text": "(speaker 3) rescue people and do the right thing, went back"
+        },
+        {
+          "cue": 71,
+          "start": "00:03:48,250",
+          "end": "00:03:50,630",
+          "text": "(speaker 3) to this Fate Four and made a shovel."
+        },
+        {
+          "cue": 77,
+          "start": "00:04:11,990",
+          "end": "00:04:13,790",
+          "text": "(speaker 3) time before the truth of the matter had really"
+        },
+        {
+          "cue": 78,
+          "start": "00:04:13,791",
+          "end": "00:04:19,070",
+          "text": "(speaker 3) set in and spent the night in Fate Four anxiously sleeping."
+        },
+        {
+          "cue": 174,
+          "start": "00:08:41,229",
+          "end": "00:08:42,780",
+          "text": "(speaker 3) Uh you guys are about."
+        },
+        {
+          "cue": 175,
+          "start": "00:08:43,399",
+          "end": "00:08:45,470",
+          "text": "(speaker 3) a15-minute jog from the Fate Four."
+        },
+        {
+          "cue": 620,
+          "start": "00:26:51,660",
+          "end": "00:26:52,085",
+          "text": "(speaker 2) Yeah, it's."
+        },
+        {
+          "cue": 621,
+          "start": "00:26:52,109",
+          "end": "00:26:53,740",
+          "text": "(speaker 3) no PA system on the Fade4."
+        },
+        {
+          "cue": 736,
+          "start": "00:31:39,671",
+          "end": "00:31:41,430",
+          "text": "(speaker 3) going to eventually gain on you, their average"
+        },
+        {
+          "cue": 737,
+          "start": "00:31:41,430",
+          "end": "00:31:45,670",
+          "text": "(speaker 3) speed being a little faster than what the Fate Four can do at its top speed."
+        },
+        {
+          "cue": 1062,
+          "start": "00:44:07,660",
+          "end": "00:44:11,510",
+          "text": "(speaker 3) booger baseball size booger of acid flies across"
+        },
+        {
+          "cue": 1063,
+          "start": "00:44:11,640",
+          "end": "00:44:14,870",
+          "text": "(speaker 3) uh stretches across the space between fate four"
+        },
+        {
+          "cue": 1106,
+          "start": "00:46:06,724",
+          "end": "00:46:08,524",
+          "text": "(speaker 3) They're well below you, by the way, given that"
+        },
+        {
+          "cue": 1107,
+          "start": "00:46:08,765",
+          "end": "00:46:09,836",
+          "text": "(speaker 3) you're on monster truck wheels, right?"
+        },
+        {
+          "cue": 1142,
+          "start": "00:47:17,311",
+          "end": "00:47:22,910",
+          "text": "(speaker 3) he's like he's not controlling the steering wheel anymore."
+        },
+        {
+          "cue": 1143,
+          "start": "00:47:22,990",
+          "end": "00:47:27,870",
+          "text": "(speaker 3) And it starts his car starts to drift into the fate four."
+        },
+        {
+          "cue": 1148,
+          "start": "00:47:35,510",
+          "end": "00:47:37,790",
+          "text": "(speaker 3) The car flips over, boom, smashes the side of the"
+        },
+        {
+          "cue": 1149,
+          "start": "00:47:37,890",
+          "end": "00:47:38,746",
+          "text": "(speaker 3) fate four."
+        },
+        {
+          "cue": 1169,
+          "start": "00:48:25,981",
+          "end": "00:48:28,380",
+          "text": "(speaker 3) hood of that car who's sort of driven into you."
+        },
+        {
+          "cue": 1170,
+          "start": "00:48:28,610",
+          "end": "00:48:33,900",
+          "text": "(speaker 3) The car flips up, explodes, but flies away, leaving the fate four relatively unharmed."
+        },
+        {
+          "cue": 1302,
+          "start": "00:52:19,650",
+          "end": "00:52:24,370",
+          "text": "(speaker 0) I want to uh I grab my staff with my left hand."
+        },
+        {
+          "cue": 1303,
+          "start": "00:52:24,600",
+          "end": "00:52:27,250",
+          "text": "(speaker 0) I slam it into the floor of the fade four,"
+        },
+        {
+          "cue": 1367,
+          "start": "00:53:53,400",
+          "end": "00:53:54,400",
+          "text": "(speaker 3) The guy with the staff?"
+        },
+        {
+          "cue": 1368,
+          "start": "00:53:55,080",
+          "end": "00:53:58,741",
+          "text": "(speaker 0) I want to stop him from hurting us or the fate four, if I can."
+        },
+        {
+          "cue": 1385,
+          "start": "00:54:27,820",
+          "end": "00:54:33,480",
+          "text": "(speaker 3) He goes, Oh, and he just sharply turns into the"
+        },
+        {
+          "cue": 1386,
+          "start": "00:54:33,580",
+          "end": "00:54:38,473",
+          "text": "(speaker 3) fate four, um, attempting to like nudge the tire"
+        },
+        {
+          "cue": 1397,
+          "start": "00:55:00,380",
+          "end": "00:55:01,960",
+          "text": "(speaker 3) turn as well in anticipation."
+        },
+        {
+          "cue": 1398,
+          "start": "00:55:02,165",
+          "end": "00:55:05,640",
+          "text": "(speaker 3) Without flipping over the fate four, you make this sort of sharp."
+        },
+        {
+          "cue": 1399,
+          "start": "00:55:05,720",
+          "end": "00:55:08,440",
+          "text": "(speaker 3) Everyone lurches and get if anyone's has a weak"
+        },
+        {
+          "cue": 1400,
+          "start": "00:55:08,441",
+          "end": "00:55:11,480",
+          "text": "(speaker 3) stomach, they're it's gotten much weaker on the fate four."
+        },
+        {
+          "cue": 1701,
+          "start": "01:06:51,174",
+          "end": "01:06:55,442",
+          "text": "(speaker 2) Uh well, I guess I will target on the side"
+        },
+        {
+          "cue": 1702,
+          "start": "01:06:55,443",
+          "end": "01:06:59,280",
+          "text": "(speaker 2) of the fate four that the door does not face."
+        },
+        {
+          "cue": 1722,
+          "start": "01:07:18,099",
+          "end": "01:07:19,880",
+          "text": "(speaker 1) Vocabulary."
+        },
+        {
+          "cue": 1723,
+          "start": "01:07:20,760",
+          "end": "01:07:23,480",
+          "text": "(speaker 3) Alright, on the port side of the fate four."
+        },
+        {
+          "cue": 1797,
+          "start": "01:10:32,090",
+          "end": "01:10:34,400",
+          "text": "(speaker 3) And you hear Burrell, you can hear very faintly"
+        },
+        {
+          "cue": 1798,
+          "start": "01:10:34,401",
+          "end": "01:10:41,760",
+          "text": "(speaker 3) through the walls of the Fate Four, like for the glory of the lizard king witness me!"
+        },
+        {
+          "cue": 1799,
+          "start": "01:10:42,000",
+          "end": "01:10:46,240",
+          "text": "(speaker 3) Alright, so now he Bokbox got a lit stick of dynamite on top of the fate four."
+        },
+        {
+          "cue": 1803,
+          "start": "01:10:59,761",
+          "end": "01:11:02,080",
+          "text": "(speaker 3) they see this, and they immediately the front"
+        },
+        {
+          "cue": 1804,
+          "start": "01:11:02,180",
+          "end": "01:11:05,680",
+          "text": "(speaker 3) three on each side immediately jump at Fate Four"
+        },
+        {
+          "cue": 1866,
+          "start": "01:13:10,380",
+          "end": "01:13:10,597",
+          "text": "(speaker 0) Yeah,"
+        },
+        {
+          "cue": 1867,
+          "start": "01:13:10,621",
+          "end": "01:13:13,580",
+          "text": "(speaker 2) I'm I'm technically in the fate four, but I'm by the hat."
+        },
+        {
+          "cue": 1937,
+          "start": "01:15:19,224",
+          "end": "01:15:22,280",
+          "text": "(speaker 3) And then the you see the orc switch seats and"
+        },
+        {
+          "cue": 1938,
+          "start": "01:15:22,281",
+          "end": "01:15:27,480",
+          "text": "(speaker 3) drive over and it's the engine gets louder and it hits the back of the fate four."
+        },
+        {
+          "cue": 2282,
+          "start": "01:28:22,411",
+          "end": "01:28:26,330",
+          "text": "(speaker 3) Hulk style, and lands on top of the on top of the"
+        },
+        {
+          "cue": 2283,
+          "start": "01:28:26,480",
+          "end": "01:28:28,010",
+          "text": "(speaker 3) fate four in front of you."
+        }
+      ]
+    },
+    {
+      "path": "sources/The Wastes S1E011. Kick me as hard as you can.parakeet.processed.srt",
+      "git_blob": "dea18e73b8b60cf089fa00ecc5aa0a7657653dea",
+      "original_bytes": 363591,
+      "parsed_cues": 4473,
+      "last_cue_end": "02:59:05,260",
+      "timestamp_lines": 4473,
+      "candidates": [
+        {
+          "cue": 64,
+          "start": "00:02:17,261",
+          "end": "00:02:19,900",
+          "text": "(speaker 0) going on in the campaign, including some artwork,"
+        },
+        {
+          "cue": 65,
+          "start": "00:02:19,901",
+          "end": "00:02:23,980",
+          "text": "(speaker 0) uh, images of the uh fate four, our intrepid"
+        },
+        {
+          "cue": 696,
+          "start": "00:29:08,709",
+          "end": "00:29:11,220",
+          "text": "(speaker 4) mean, at the very least, we should probably go and"
+        },
+        {
+          "cue": 697,
+          "start": "00:29:11,419",
+          "end": "00:29:14,020",
+          "text": "(speaker 4) make sure that the fate four is where they say it"
+        },
+        {
+          "cue": 966,
+          "start": "00:40:13,910",
+          "end": "00:40:17,010",
+          "text": "(speaker 1) to sit that were originally designed to be sitting."
+        },
+        {
+          "cue": 967,
+          "start": "00:40:18,290",
+          "end": "00:40:21,010",
+          "text": "(speaker 1) And um, yeah, so you can't you can't see the fate four from the road."
+        },
+        {
+          "cue": 973,
+          "start": "00:40:29,171",
+          "end": "00:40:30,770",
+          "text": "(speaker 1) through the parking lot, and after about15"
+        },
+        {
+          "cue": 974,
+          "start": "00:40:30,771",
+          "end": "00:40:35,350",
+          "text": "(speaker 1) minutes, you find the fate four, way the farthest part of the parking lot, and"
+        },
+        {
+          "cue": 1351,
+          "start": "00:53:53,360",
+          "end": "00:53:57,400",
+          "text": "(speaker 4) empty-handed, we could stay here, we could get"
+        },
+        {
+          "cue": 1352,
+          "start": "00:53:57,401",
+          "end": "00:54:01,720",
+          "text": "(speaker 4) the fate four fixed up and go wherever we please,"
+        },
+        {
+          "cue": 1606,
+          "start": "01:05:56,620",
+          "end": "01:05:57,176",
+          "text": "(speaker 0) Right."
+        },
+        {
+          "cue": 1607,
+          "start": "01:05:57,200",
+          "end": "01:05:59,340",
+          "text": "(speaker 1) Well, so you guys are in the Fate Four, and you"
+        },
+        {
+          "cue": 1841,
+          "start": "01:15:20,301",
+          "end": "01:15:22,140",
+          "text": "(speaker 2) giant wheels."
+        },
+        {
+          "cue": 1842,
+          "start": "01:15:22,410",
+          "end": "01:15:25,410",
+          "text": "(speaker 1) Oh that R V thing on wheels."
+        }
+      ]
+    },
+    {
+      "path": "sources/The Wastes S1E012. Work Hours.parakeet.processed.srt",
+      "git_blob": "9d8d296bbfb64c4378a38880a3f85bddf540b88c",
+      "original_bytes": 390354,
+      "parsed_cues": 4869,
+      "last_cue_end": "03:15:10,740",
+      "timestamp_lines": 4869,
+      "candidates": [
+        {
+          "cue": 107,
+          "start": "00:03:59,180",
+          "end": "00:04:01,700",
+          "text": "(speaker 3) The party decided they'd rather first check in on"
+        },
+        {
+          "cue": 108,
+          "start": "00:04:01,701",
+          "end": "00:04:04,020",
+          "text": "(speaker 3) the status of fate four, where Hope shared her"
+        }
+      ]
+    },
+    {
+      "path": "sources/The Wastes S1E013. Old One Eye.parakeet.processed.srt",
+      "git_blob": "7060c5d21325f4da4b964a664e8652fbae9ad504",
+      "original_bytes": 326247,
+      "parsed_cues": 4027,
+      "last_cue_end": "02:39:25,440",
+      "timestamp_lines": 4027,
+      "candidates": []
+    },
+    {
+      "path": "sources/The Wastes S1E013.5 Supplemental (alternate copy).parakeet.processed.srt",
+      "git_blob": "f338d02cc754548dc3e96d1eb1326f71297ead0b",
+      "original_bytes": 37515,
+      "parsed_cues": 402,
+      "last_cue_end": "00:26:39,270",
+      "timestamp_lines": 402,
+      "candidates": []
+    },
+    {
+      "path": "sources/The Wastes S1E013.5 Supplemental.parakeet.processed.srt",
+      "git_blob": "ea1c54f1942e42ff9b675d27479444c28832cd8c",
+      "original_bytes": 39875,
+      "parsed_cues": 482,
+      "last_cue_end": "00:26:40,910",
+      "timestamp_lines": 482,
+      "candidates": [
+        {
+          "cue": 41,
+          "start": "00:03:05,510",
+          "end": "00:03:07,410",
+          "text": "(John) engineering and mechanics."
+        },
+        {
+          "cue": 42,
+          "start": "00:03:07,540",
+          "end": "00:03:13,490",
+          "text": "(John) In fact, she built the fate for the vehicle we use to travel the waste."
+        },
+        {
+          "cue": 120,
+          "start": "00:08:11,220",
+          "end": "00:08:14,460",
+          "text": "(John) With some semblance of leadership and a militia"
+        },
+        {
+          "cue": 121,
+          "start": "00:08:14,560",
+          "end": "00:08:18,780",
+          "text": "(John) in place, we set off in the Fate Four to get our people back."
+        }
+      ]
+    },
+    {
+      "path": "sources/The Wastes S1E014. That's Magic.parakeet.processed.srt",
+      "git_blob": "62f5d46753e6b13d0a996ff6287c9049953205df",
+      "original_bytes": 374812,
+      "parsed_cues": 4729,
+      "last_cue_end": "03:02:26,480",
+      "timestamp_lines": 4729,
+      "candidates": [
+        {
+          "cue": 3588,
+          "start": "02:18:21,299",
+          "end": "02:18:24,490",
+          "text": "(speaker 3) the legend that might share some of the the look"
+        },
+        {
+          "cue": 3589,
+          "start": "02:18:24,739",
+          "end": "02:18:26,510",
+          "text": "(speaker 3) to some of the books you have in the Fate Four."
+        }
+      ]
+    },
+    {
+      "path": "sources/The Wastes S1E015. The Darkness.parakeet.processed.srt",
+      "git_blob": "816f02f1c8d3856ef203b8a3e4a65db2b661c769",
+      "original_bytes": 304264,
+      "parsed_cues": 3832,
+      "last_cue_end": "02:36:25,810",
+      "timestamp_lines": 3832,
+      "candidates": []
+    },
+    {
+      "path": "sources/The Wastes S1E016. Dragon Mother.parakeet.processed.srt",
+      "git_blob": "f6a854cec0720b9b07524ee29644b7d6ce0d87ec",
+      "original_bytes": 297028,
+      "parsed_cues": 3684,
+      "last_cue_end": "02:40:49,849",
+      "timestamp_lines": 3684,
+      "candidates": [
+        {
+          "cue": 3157,
+          "start": "02:17:44,660",
+          "end": "02:17:45,195",
+          "text": "(speaker 5) anything?"
+        },
+        {
+          "cue": 3158,
+          "start": "02:17:45,219",
+          "end": "02:17:48,660",
+          "text": "(speaker 5) I know the the our the fate four is hosed at the"
+        }
+      ]
+    },
+    {
+      "path": "sources/The Wastes S1E017. Fire in the hole!.parakeet.processed.srt",
+      "git_blob": "583c5354c979c983f0a954dbc1b92d5e18693058",
+      "original_bytes": 364023,
+      "parsed_cues": 4623,
+      "last_cue_end": "02:56:21,030",
+      "timestamp_lines": 4623,
+      "candidates": [
+        {
+          "cue": 4262,
+          "start": "02:43:44,430",
+          "end": "02:43:44,975",
+          "text": "(speaker 1) Yeah."
+        },
+        {
+          "cue": 4263,
+          "start": "02:43:44,999",
+          "end": "02:43:46,679",
+          "text": "(speaker 1) And there is the Fate Four standing on its"
+        },
+        {
+          "cue": 4264,
+          "start": "02:43:46,989",
+          "end": "02:43:50,910",
+          "text": "(speaker 1) monster truck tires, and you almost hear a cry out to you."
+        },
+        {
+          "cue": 4290,
+          "start": "02:44:45,920",
+          "end": "02:44:46,930",
+          "text": "(speaker 3) Okay, perfect."
+        },
+        {
+          "cue": 4291,
+          "start": "02:44:46,960",
+          "end": "02:44:53,330",
+          "text": "(speaker 3) Um I'll go back to the fate for I'll grab my personal stuff from the front of it"
+        }
+      ]
+    },
+    {
+      "path": "sources/The Wastes S1E018. Into the storm.parakeet.processed.srt",
+      "git_blob": "84579e0bfe1df7c5cc74dd7f665370c49c972ae9",
+      "original_bytes": 281072,
+      "parsed_cues": 3447,
+      "last_cue_end": "02:35:20,210",
+      "timestamp_lines": 3447,
+      "candidates": [
+        {
+          "cue": 1880,
+          "start": "01:25:30,190",
+          "end": "01:25:33,550",
+          "text": "(speaker 0) So do we uh sorry, quick question."
+        },
+        {
+          "cue": 1881,
+          "start": "01:25:33,880",
+          "end": "01:25:36,270",
+          "text": "(speaker 0) I can't remember the state of the fate four."
+        }
+      ]
+    },
+    {
+      "path": "sources/The Wastes S1E019. Elevator Action.parakeet.processed.srt",
+      "git_blob": "29495967b72922710de4db3404ea2172a1231247",
+      "original_bytes": 383999,
+      "parsed_cues": 4905,
+      "last_cue_end": "03:09:28,010",
+      "timestamp_lines": 4905,
+      "candidates": []
+    },
+    {
+      "path": "sources/The Wastes S1E020. Flaky Mushrooms.parakeet.processed.srt",
+      "git_blob": "e6d69be846e933a3cb3c0a5d4efb99f561121473",
+      "original_bytes": 327671,
+      "parsed_cues": 4187,
+      "last_cue_end": "02:46:47,960",
+      "timestamp_lines": 4187,
+      "candidates": []
+    },
+    {
+      "path": "sources/The Wastes S1E021. The Mushroom Kingdom.parakeet.processed.srt",
+      "git_blob": "545b942b9abb2b4d2ac14ee52b624810d7097fd3",
+      "original_bytes": 309903,
+      "parsed_cues": 3438,
+      "last_cue_end": "03:21:48,600",
+      "timestamp_lines": 3438,
+      "candidates": []
+    },
+    {
+      "path": "sources/The Wastes S1E022. The Charmed Lizard.parakeet.processed.srt",
+      "git_blob": "f341248c54159a8c55738dc660370af2f19158dc",
+      "original_bytes": 290316,
+      "parsed_cues": 3174,
+      "last_cue_end": "03:07:04,900",
+      "timestamp_lines": 3174,
+      "candidates": [
+        {
+          "cue": 2268,
+          "start": "02:14:40,210",
+          "end": "02:14:42,600",
+          "text": "(speaker 1) and if you want to use your reaction you can move"
+        },
+        {
+          "cue": 2269,
+          "start": "02:14:42,875",
+          "end": "02:14:48,280",
+          "text": "(speaker 1) up to five feet for free with that reaction and"
+        }
+      ]
+    },
+    {
+      "path": "sources/The Wastes S1E023. Demon Hotel.parakeet.processed.srt",
+      "git_blob": "36c340931b4f992b4c0ec58320cefa842cb9ab99",
+      "original_bytes": 249893,
+      "parsed_cues": 2704,
+      "last_cue_end": "02:52:42,300",
+      "timestamp_lines": 2704,
+      "candidates": []
+    },
+    {
+      "path": "sources/The Wastes S1E024. Monogamy Respected.parakeet.processed.srt",
+      "git_blob": "6ecdaf887a23cab38760f2e7410ab2f16dd98dd8",
+      "original_bytes": 268682,
+      "parsed_cues": 2933,
+      "last_cue_end": "03:01:23,870",
+      "timestamp_lines": 2933,
+      "candidates": []
+    },
+    {
+      "path": "sources/The Wastes S1E025. Door Authority.parakeet.processed.srt",
+      "git_blob": "825268d9b5cd3051398954beddc4a2e21c762475",
+      "original_bytes": 284662,
+      "parsed_cues": 3120,
+      "last_cue_end": "02:49:35,540",
+      "timestamp_lines": 3120,
+      "candidates": [
+        {
+          "cue": 501,
+          "start": "00:28:03,989",
+          "end": "00:28:07,260",
+          "text": "(speaker 2) really anywhere at the moment unless we get back"
+        },
+        {
+          "cue": 502,
+          "start": "00:28:07,309",
+          "end": "00:28:12,540",
+          "text": "(speaker 2) to that town and get the fate for operational or some othervehicle in its place."
+        }
+      ]
+    },
+    {
+      "path": "sources/The Wastes S1E026. The Hunt.parakeet.processed.srt",
+      "git_blob": "86080c5a254f610c9f100c761e9fffbf05850958",
+      "original_bytes": 280264,
+      "parsed_cues": 3040,
+      "last_cue_end": "03:07:01,990",
+      "timestamp_lines": 3040,
+      "candidates": [
+        {
+          "cue": 709,
+          "start": "00:42:26,140",
+          "end": "00:42:27,140",
+          "text": "(speaker 2) should we meet up."
+        },
+        {
+          "cue": 710,
+          "start": "00:42:28,680",
+          "end": "00:42:30,240",
+          "text": "(speaker 4) get over to the fate for and get going."
+        },
+        {
+          "cue": 722,
+          "start": "00:43:09,190",
+          "end": "00:43:13,660",
+          "text": "(speaker 0) just in case i'm just mean you know if someone has to take a fall Stanley has them."
+        },
+        {
+          "cue": 723,
+          "start": "00:43:17,770",
+          "end": "00:43:23,820",
+          "text": "(speaker 4) adding them keys all right we're going to keep running to the fate for right yeah."
+        },
+        {
+          "cue": 728,
+          "start": "00:43:39,581",
+          "end": "00:43:46,140",
+          "text": "(speaker 1) air of the wasteland it's very hot today somewhat humid as well which is nice"
+        },
+        {
+          "cue": 729,
+          "start": "00:43:46,810",
+          "end": "00:43:51,750",
+          "text": "(speaker 1) and you see the fate for little worse for wear but."
+        }
+      ]
+    },
+    {
+      "path": "sources/The Wastes S1E027. Lizard Party.parakeet.processed.srt",
+      "git_blob": "f71f472f6ace5ab940e49c11ae2e81d0ec90b10c",
+      "original_bytes": 259396,
+      "parsed_cues": 2828,
+      "last_cue_end": "02:50:28,820",
+      "timestamp_lines": 2828,
+      "candidates": [
+        {
+          "cue": 79,
+          "start": "00:03:54,921",
+          "end": "00:03:57,480",
+          "text": "(speaker 3) bargain was brokered aid him in perishing the"
+        },
+        {
+          "cue": 80,
+          "start": "00:03:57,481",
+          "end": "00:04:00,200",
+          "text": "(speaker 3) principle and get back the fully fueled fate four"
+        },
+        {
+          "cue": 84,
+          "start": "00:04:08,440",
+          "end": "00:04:11,320",
+          "text": "(speaker 3) of metal kidnapping the keys to the crazy's car"
+        },
+        {
+          "cue": 85,
+          "start": "00:04:11,610",
+          "end": "00:04:13,800",
+          "text": "(speaker 3) the seven ascended the fate four and took off"
+        },
+        {
+          "cue": 1109,
+          "start": "01:08:42,880",
+          "end": "01:08:46,790",
+          "text": "(speaker 2) looks sort of the things moved in the in the in."
+        },
+        {
+          "cue": 1110,
+          "start": "01:08:47,540",
+          "end": "01:08:51,670",
+          "text": "(speaker 2) the area so you get there and you get to the rv"
+        },
+        {
+          "cue": 1113,
+          "start": "01:08:57,900",
+          "end": "01:09:03,430",
+          "text": "(speaker 1) let's restock everything and get underway okay."
+        },
+        {
+          "cue": 1114,
+          "start": "01:09:03,800",
+          "end": "01:09:07,029",
+          "text": "(speaker 2) so you open up the the rv and you proceed inside"
+        },
+        {
+          "cue": 1342,
+          "start": "01:23:12,411",
+          "end": "01:23:14,570",
+          "text": "(speaker 2) right where the door is that people can get in"
+        },
+        {
+          "cue": 1343,
+          "start": "01:23:14,571",
+          "end": "01:23:19,130",
+          "text": "(speaker 2) and out of the rv you see a large seven foot tall"
+        },
+        {
+          "cue": 1489,
+          "start": "01:32:18,430",
+          "end": "01:32:21,210",
+          "text": "(speaker 2) and the hand the hand rockets past you and it"
+        },
+        {
+          "cue": 1490,
+          "start": "01:32:21,211",
+          "end": "01:32:24,890",
+          "text": "(speaker 2) grabs on to the to the fate for and is like and"
+        },
+        {
+          "cue": 2095,
+          "start": "02:06:27,435",
+          "end": "02:06:32,470",
+          "text": "(speaker 2) in in the air the metal man he writes himself and he begins again."
+        },
+        {
+          "cue": 2096,
+          "start": "02:06:33,320",
+          "end": "02:06:39,060",
+          "text": "(speaker 2) he brings up his rocket arm attempts to fire a rocket at the fate for."
+        },
+        {
+          "cue": 2136,
+          "start": "02:08:58,431",
+          "end": "02:09:00,910",
+          "text": "(speaker 2) if you were just if you were to grab there's"
+        },
+        {
+          "cue": 2137,
+          "start": "02:09:00,911",
+          "end": "02:09:03,230",
+          "text": "(speaker 2) handles on on the fate for if you're to grab a"
+        },
+        {
+          "cue": 2354,
+          "start": "02:22:13,635",
+          "end": "02:22:16,090",
+          "text": "(speaker 2) up all the sand and shoots it up into the air and"
+        },
+        {
+          "cue": 2355,
+          "start": "02:22:16,504",
+          "end": "02:22:19,210",
+          "text": "(speaker 2) the fate for falls over sort of flies up and."
+        },
+        {
+          "cue": 2365,
+          "start": "02:22:42,611",
+          "end": "02:22:48,370",
+          "text": "(speaker 2) four all right so everyone soverrel ducks for the"
+        },
+        {
+          "cue": 2366,
+          "start": "02:22:48,371",
+          "end": "02:22:50,610",
+          "text": "(speaker 2) sands Stanley ducks for the sands the fate for"
+        },
+        {
+          "cue": 2398,
+          "start": "02:24:52,149",
+          "end": "02:24:53,410",
+          "text": "(speaker 0) where is the boy in the car."
+        },
+        {
+          "cue": 2399,
+          "start": "02:24:54,210",
+          "end": "02:24:56,690",
+          "text": "(speaker 2) fate for is tipped over on its side right now."
+        },
+        {
+          "cue": 2437,
+          "start": "02:26:54,450",
+          "end": "02:26:56,770",
+          "text": "(speaker 2) later than you would expect because of that size"
+        },
+        {
+          "cue": 2438,
+          "start": "02:26:57,309",
+          "end": "02:26:59,490",
+          "text": "(speaker 2) you push the fate for back up on onto its."
+        },
+        {
+          "cue": 2716,
+          "start": "02:43:25,150",
+          "end": "02:43:28,030",
+          "text": "(speaker 2) like that and."
+        },
+        {
+          "cue": 2717,
+          "start": "02:43:28,115",
+          "end": "02:43:32,430",
+          "text": "(speaker 4) I'll run into the the fate for not trying to rock"
+        }
+      ]
+    },
+    {
+      "path": "sources/The Wastes S1E028. It's A Cat Person!.parakeet.processed.srt",
+      "git_blob": "8dc47e4366594d9d8fadc51bd6ea7bc1e771f0f0",
+      "original_bytes": 275583,
+      "parsed_cues": 2975,
+      "last_cue_end": "02:56:36,100",
+      "timestamp_lines": 2975,
+      "candidates": [
+        {
+          "cue": 1141,
+          "start": "01:03:29,951",
+          "end": "01:03:32,431",
+          "text": "(speaker 3) describe for our audio listeners where you're moving to though."
+        },
+        {
+          "cue": 1142,
+          "start": "01:03:32,910",
+          "end": "01:03:39,630",
+          "text": "(speaker 2) i have moved away from raptor buddy man back towards the fate for yeah"
+        },
+        {
+          "cue": 1149,
+          "start": "01:03:53,740",
+          "end": "01:03:55,980",
+          "text": "(speaker 0) so sorry audio listeners i moved on to the other"
+        },
+        {
+          "cue": 1150,
+          "start": "01:03:55,981",
+          "end": "01:03:59,420",
+          "text": "(speaker 0) side of the door of the fate for is where i'm at"
+        },
+        {
+          "cue": 1276,
+          "start": "01:11:54,350",
+          "end": "01:11:57,240",
+          "text": "(speaker 3) for you guys comes up in front of you next to the"
+        },
+        {
+          "cue": 1277,
+          "start": "01:11:57,241",
+          "end": "01:12:01,480",
+          "text": "(speaker 3) fate for thevelociraptor comes up makes an attack"
+        },
+        {
+          "cue": 1735,
+          "start": "01:42:05,770",
+          "end": "01:42:10,950",
+          "text": "(speaker 2) good morning everybody had a thought in the night."
+        },
+        {
+          "cue": 1736,
+          "start": "01:42:12,120",
+          "end": "01:42:14,617",
+          "text": "(speaker 2) seems it's a bit drafty in the fate for as"
+        },
+        {
+          "cue": 1739,
+          "start": "01:42:22,951",
+          "end": "01:42:25,910",
+          "text": "(speaker 2) there and create something we might be able to"
+        },
+        {
+          "cue": 1740,
+          "start": "01:42:26,360",
+          "end": "01:42:30,310",
+          "text": "(speaker 2) use to cover the giant hole in the fate for i'd"
+        },
+        {
+          "cue": 1886,
+          "start": "01:51:03,841",
+          "end": "01:51:08,160",
+          "text": "(speaker 3) worried you're gonna die damn i don't care if i'm gonna die."
+        },
+        {
+          "cue": 1887,
+          "start": "01:51:09,800",
+          "end": "01:51:13,600",
+          "text": "(speaker 1) I'll stop the fate for enough to get everyone's."
+        },
+        {
+          "cue": 2822,
+          "start": "02:47:39,379",
+          "end": "02:47:40,410",
+          "text": "(speaker 3) flint i will candle."
+        },
+        {
+          "cue": 2823,
+          "start": "02:47:41,014",
+          "end": "02:47:43,210",
+          "text": "(speaker 2) move back to the back of the fate for and just"
+        }
+      ]
+    },
+    {
+      "path": "sources/The Wastes S1E029. Stanley's Choice.parakeet.processed.srt",
+      "git_blob": "810c5a2926a999781603a3889b9567480eaa99ca",
+      "original_bytes": 213566,
+      "parsed_cues": 2274,
+      "last_cue_end": "02:28:57,870",
+      "timestamp_lines": 2274,
+      "candidates": [
+        {
+          "cue": 75,
+          "start": "00:04:42,240",
+          "end": "00:04:44,460",
+          "text": "(speaker 0) something arouses you from your sleep you hear a."
+        },
+        {
+          "cue": 76,
+          "start": "00:04:46,560",
+          "end": "00:04:51,580",
+          "text": "(speaker 0) bump you peer open your eyes where were you sleeping in the fate for that night."
+        },
+        {
+          "cue": 77,
+          "start": "00:04:52,595",
+          "end": "00:04:56,700",
+          "text": "(speaker 1) i think typically Stanley sleeps near the back"
+        },
+        {
+          "cue": 78,
+          "start": "00:04:56,750",
+          "end": "00:05:01,797",
+          "text": "(speaker 1) kind of propped up against the back of the fate for okay all."
+        },
+        {
+          "cue": 94,
+          "start": "00:05:52,190",
+          "end": "00:05:55,320",
+          "text": "(speaker 0) forcibly but not violently walks into the door"
+        },
+        {
+          "cue": 95,
+          "start": "00:05:55,720",
+          "end": "00:05:57,526",
+          "text": "(speaker 0) now there's no light in the fate four which you"
+        },
+        {
+          "cue": 125,
+          "start": "00:07:59,175",
+          "end": "00:08:01,290",
+          "text": "(speaker 0) like it's not looking at the door it's sort of"
+        },
+        {
+          "cue": 126,
+          "start": "00:08:01,291",
+          "end": "00:08:06,090",
+          "text": "(speaker 0) staring ahead as if past to a point outside beyond the fate for."
+        },
+        {
+          "cue": 168,
+          "start": "00:10:38,721",
+          "end": "00:10:42,000",
+          "text": "(speaker 1) get him down and tie him to something i don't"
+        },
+        {
+          "cue": 169,
+          "start": "00:10:42,001",
+          "end": "00:10:43,920",
+          "text": "(speaker 1) know what do we have in the fate for i can time"
+        },
+        {
+          "cue": 261,
+          "start": "00:15:32,761",
+          "end": "00:15:36,920",
+          "text": "(speaker 1) gonna let go get up and move quickly out the door"
+        },
+        {
+          "cue": 262,
+          "start": "00:15:37,069",
+          "end": "00:15:39,240",
+          "text": "(speaker 1) of the fate four and shut it behind me."
+        },
+        {
+          "cue": 280,
+          "start": "00:16:46,265",
+          "end": "00:16:49,200",
+          "text": "(speaker 0) broken open and noverrell inside quickly glance"
+        },
+        {
+          "cue": 281,
+          "start": "00:16:49,280",
+          "end": "00:16:51,520",
+          "text": "(speaker 0) to the top of the fate for you don't see hope who"
+        },
+        {
+          "cue": 321,
+          "start": "00:18:56,514",
+          "end": "00:19:01,150",
+          "text": "(speaker 1) okay so i will make a note that the general"
+        },
+        {
+          "cue": 322,
+          "start": "00:19:01,151",
+          "end": "00:19:04,030",
+          "text": "(speaker 1) direction of the fade for is to put that stuff at"
+        }
+      ]
+    },
+    {
+      "path": "sources/The Wastes S1E030. The Worm Turns.parakeet.processed.srt",
+      "git_blob": "02d2f64d8e6aced301015d83ef7add114197df94",
+      "original_bytes": 297813,
+      "parsed_cues": 3235,
+      "last_cue_end": "03:07:27,000",
+      "timestamp_lines": 3235,
+      "candidates": [
+        {
+          "cue": 76,
+          "start": "00:03:45,650",
+          "end": "00:03:50,450",
+          "text": "(speaker 1) when last we left off the party was had set up"
+        },
+        {
+          "cue": 77,
+          "start": "00:03:50,451",
+          "end": "00:03:54,370",
+          "text": "(speaker 1) camp around the fate four and set up a series of."
+        },
+        {
+          "cue": 93,
+          "start": "00:04:42,741",
+          "end": "00:04:45,700",
+          "text": "(speaker 1) awake the world sort of snaps into focus around"
+        },
+        {
+          "cue": 94,
+          "start": "00:04:45,780",
+          "end": "00:04:50,660",
+          "text": "(speaker 1) you you were standing up you're in the fate for"
+        },
+        {
+          "cue": 95,
+          "start": "00:04:50,661",
+          "end": "00:04:54,340",
+          "text": "(speaker 1) you look around and see the surroundings the fate for it's nighttime okay."
+        },
+        {
+          "cue": 158,
+          "start": "00:08:50,121",
+          "end": "00:08:52,200",
+          "text": "(speaker 1) voice of your consciousness thinking going i"
+        },
+        {
+          "cue": 159,
+          "start": "00:08:52,201",
+          "end": "00:08:56,760",
+          "text": "(speaker 1) could turn into a dragon but no i may break the fate for and we needed to travel."
+        },
+        {
+          "cue": 192,
+          "start": "00:10:46,751",
+          "end": "00:10:49,310",
+          "text": "(speaker 1) just for the efficiency of time we'll describe it."
+        },
+        {
+          "cue": 193,
+          "start": "00:10:53,259",
+          "end": "00:10:56,590",
+          "text": "(speaker 1) together um in this dream you are on the fate for"
+        },
+        {
+          "cue": 196,
+          "start": "00:11:05,479",
+          "end": "00:11:08,910",
+          "text": "(speaker 1) you and you're compelled to move towards it and"
+        },
+        {
+          "cue": 197,
+          "start": "00:11:09,265",
+          "end": "00:11:12,990",
+          "text": "(speaker 1) as you leave the area of the fate for you walk"
+        },
+        {
+          "cue": 644,
+          "start": "00:36:50,311",
+          "end": "00:36:51,510",
+          "text": "(speaker 2) yep straight forward."
+        },
+        {
+          "cue": 645,
+          "start": "00:36:51,834",
+          "end": "00:36:54,550",
+          "text": "(speaker 1) another sixty feet for you okay and you're"
+        },
+        {
+          "cue": 852,
+          "start": "00:48:00,405",
+          "end": "00:48:03,060",
+          "text": "(speaker 0) my friends although i could Jack up the."
+        },
+        {
+          "cue": 853,
+          "start": "00:48:04,980",
+          "end": "00:48:06,477",
+          "text": "(speaker 1) faith for i."
+        },
+        {
+          "cue": 855,
+          "start": "00:48:08,820",
+          "end": "00:48:10,439",
+          "text": "(speaker 1) the dragon was always an option it's just"
+        },
+        {
+          "cue": 856,
+          "start": "00:48:10,440",
+          "end": "00:48:12,477",
+          "text": "(speaker 1) probably you're taking the fate for with it."
+        },
+        {
+          "cue": 875,
+          "start": "00:49:08,661",
+          "end": "00:49:12,340",
+          "text": "(speaker 1) level you open up the door and look out a small"
+        },
+        {
+          "cue": 876,
+          "start": "00:49:12,341",
+          "end": "00:49:14,900",
+          "text": "(speaker 1) hooded figure pokes its head out of the fate for."
+        },
+        {
+          "cue": 887,
+          "start": "00:49:49,980",
+          "end": "00:49:52,220",
+          "text": "(speaker 1) foot is distinctive lizard folk footsteps circle"
+        },
+        {
+          "cue": 888,
+          "start": "00:49:52,221",
+          "end": "00:49:55,260",
+          "text": "(speaker 1) around the fate for towards the back all right."
+        },
+        {
+          "cue": 894,
+          "start": "00:50:08,430",
+          "end": "00:50:10,780",
+          "text": "(speaker 1) what you think is southernly because you remember"
+        },
+        {
+          "cue": 895,
+          "start": "00:50:10,830",
+          "end": "00:50:13,580",
+          "text": "(speaker 1) on that side of the fate for the evening before"
+        },
+        {
+          "cue": 934,
+          "start": "00:52:28,394",
+          "end": "00:52:30,940",
+          "text": "(speaker 0) so i'm just going to follow those footsteps."
+        },
+        {
+          "cue": 935,
+          "start": "00:52:31,850",
+          "end": "00:52:35,020",
+          "text": "(speaker 1) right so you follow the footsteps leaving the fate for behind you yeah"
+        },
+        {
+          "cue": 1430,
+          "start": "01:19:10,090",
+          "end": "01:19:17,740",
+          "text": "(speaker 3) well i i woke up and i found can we we try and"
+        },
+        {
+          "cue": 1431,
+          "start": "01:19:17,915",
+          "end": "01:19:20,300",
+          "text": "(speaker 3) walk and talk i need to get back to the fate four."
+        },
+        {
+          "cue": 1451,
+          "start": "01:20:32,371",
+          "end": "01:20:34,770",
+          "text": "(speaker 4) blistered feet would have surely not run fast enough."
+        },
+        {
+          "cue": 1452,
+          "start": "01:20:35,760",
+          "end": "01:20:42,027",
+          "text": "(speaker 0) i i woke up tied to the to the table standing straight up in the fate four where."
+        },
+        {
+          "cue": 1458,
+          "start": "01:21:02,030",
+          "end": "01:21:04,610",
+          "text": "(speaker 3) else was around except for save Nash who was"
+        },
+        {
+          "cue": 1459,
+          "start": "01:21:04,660",
+          "end": "01:21:07,490",
+          "text": "(speaker 3) repeatedly walking into the door of the fate four"
+        },
+        {
+          "cue": 1705,
+          "start": "01:36:42,720",
+          "end": "01:36:48,270",
+          "text": "(speaker 1) delightful thank you Stanley and as you guys are"
+        },
+        {
+          "cue": 1706,
+          "start": "01:36:48,271",
+          "end": "01:36:53,470",
+          "text": "(speaker 1) walking you begin to see the fate four on the horizon okay somebody approaches."
+        },
+        {
+          "cue": 1711,
+          "start": "01:37:04,831",
+          "end": "01:37:07,470",
+          "text": "(speaker 0) with leaving me all on my own tied up like that."
+        },
+        {
+          "cue": 1712,
+          "start": "01:37:08,110",
+          "end": "01:37:12,430",
+          "text": "(speaker 0) left me exposed if somebody broke into the to the fate four and you know"
+        },
+        {
+          "cue": 1732,
+          "start": "01:38:14,030",
+          "end": "01:38:15,439",
+          "text": "(speaker 0) well maybe if you would have stayed in the"
+        },
+        {
+          "cue": 1733,
+          "start": "01:38:15,463",
+          "end": "01:38:20,710",
+          "text": "(speaker 0) fate for kept vigil you would have seen it why"
+        },
+        {
+          "cue": 1767,
+          "start": "01:40:09,240",
+          "end": "01:40:12,230",
+          "text": "(speaker 1) perfect and on that note you guys are now within"
+        },
+        {
+          "cue": 1768,
+          "start": "01:40:12,231",
+          "end": "01:40:18,070",
+          "text": "(speaker 1) the vicinity of the fate for looks undisturbed no"
+        },
+        {
+          "cue": 1789,
+          "start": "01:41:42,880",
+          "end": "01:41:44,380",
+          "text": "(speaker 0) just trying to keep him comfortable."
+        },
+        {
+          "cue": 1790,
+          "start": "01:41:46,495",
+          "end": "01:41:49,580",
+          "text": "(speaker 2) I'll start walking in and getting the fate for or"
+        },
+        {
+          "cue": 2182,
+          "start": "02:03:21,601",
+          "end": "02:03:23,280",
+          "text": "(speaker 1) if he goes a direction you don't want to go you"
+        },
+        {
+          "cue": 2183,
+          "start": "02:03:23,281",
+          "end": "02:03:28,240",
+          "text": "(speaker 1) will definitelyveto the hell out of it where would you like the fate for to go."
+        },
+        {
+          "cue": 2226,
+          "start": "02:06:09,290",
+          "end": "02:06:12,330",
+          "text": "(speaker 1) go back and get him since he's your friend and he he saved you"
+        },
+        {
+          "cue": 2227,
+          "start": "02:06:12,700",
+          "end": "02:06:16,360",
+          "text": "(speaker 1) from he brought you the fate for you said with the"
+        },
+        {
+          "cue": 2624,
+          "start": "02:32:53,439",
+          "end": "02:32:59,060",
+          "text": "(speaker 3) genuine let's perhaps head out on foot find a"
+        },
+        {
+          "cue": 2625,
+          "start": "02:32:59,061",
+          "end": "02:33:01,380",
+          "text": "(speaker 3) place where we can keep the fate four hidden and"
+        },
+        {
+          "cue": 2687,
+          "start": "02:37:21,570",
+          "end": "02:37:24,640",
+          "text": "(speaker 4) okay buttons you had a word."
+        },
+        {
+          "cue": 2688,
+          "start": "02:37:25,610",
+          "end": "02:37:27,760",
+          "text": "(speaker 1) buttons is inside the fate for no."
+        },
+        {
+          "cue": 2881,
+          "start": "02:48:08,919",
+          "end": "02:48:14,530",
+          "text": "(speaker 1) what you're using to cover up the side with i mean."
+        },
+        {
+          "cue": 2882,
+          "start": "02:48:14,690",
+          "end": "02:48:18,050",
+          "text": "(speaker 3) i can press the digitate to make the fate for"
+        }
+      ]
+    },
+    {
+      "path": "sources/The Wastes S1E031. Three Men and a P0d.parakeet.processed.srt",
+      "git_blob": "9fab986dedfea29d9402ffb9b55e98bef4c385b5",
+      "original_bytes": 274382,
+      "parsed_cues": 2974,
+      "last_cue_end": "02:55:41,130",
+      "timestamp_lines": 2974,
+      "candidates": [
+        {
+          "cue": 68,
+          "start": "00:03:29,591",
+          "end": "00:03:32,950",
+          "text": "(speaker 2) cavern managing to belay a bombastic burial"
+        },
+        {
+          "cue": 69,
+          "start": "00:03:33,325",
+          "end": "00:03:39,110",
+          "text": "(speaker 2) meanwhile in the faraway fate four Nash hallucinated hands waking to wrapped ropes"
+        },
+        {
+          "cue": 106,
+          "start": "00:05:48,155",
+          "end": "00:05:51,380",
+          "text": "(speaker 3) after a long rest and after spending some time"
+        },
+        {
+          "cue": 107,
+          "start": "00:05:51,430",
+          "end": "00:05:53,540",
+          "text": "(speaker 3) concealing the fate for to the best of your"
+        },
+        {
+          "cue": 111,
+          "start": "00:06:07,675",
+          "end": "00:06:12,385",
+          "text": "(speaker 3) along the edge of the oil sands to the south"
+        },
+        {
+          "cue": 112,
+          "start": "00:06:12,386",
+          "end": "00:06:16,100",
+          "text": "(speaker 3) of the fate four you see that there is a large"
+        },
+        {
+          "cue": 151,
+          "start": "00:08:28,610",
+          "end": "00:08:29,650",
+          "text": "(speaker 0) yeah we're not in the car."
+        },
+        {
+          "cue": 152,
+          "start": "00:08:29,810",
+          "end": "00:08:32,370",
+          "text": "(speaker 3) you left you left the fate for and you walk"
+        }
+      ]
+    },
+    {
+      "path": "sources/The Wastes S1E032. The Great Bleaching.parakeet.processed.srt",
+      "git_blob": "cd925cd60d28eecb69aa291dc119287f5b07b6bd",
+      "original_bytes": 250111,
+      "parsed_cues": 2724,
+      "last_cue_end": "02:51:45,150",
+      "timestamp_lines": 2724,
+      "candidates": []
+    },
+    {
+      "path": "sources/The Wastes S1E033. Nashfree.parakeet.processed.srt",
+      "git_blob": "89819db370b58a8b0b1497af9b97e7d76f6ef888",
+      "original_bytes": 243256,
+      "parsed_cues": 2634,
+      "last_cue_end": "02:43:41,770",
+      "timestamp_lines": 2634,
+      "candidates": []
+    },
+    {
+      "path": "sources/The Wastes S1E034. Blood Ball.parakeet.processed.srt",
+      "git_blob": "fcdb28ce364957f94fcb752efe7288889f11e617",
+      "original_bytes": 282110,
+      "parsed_cues": 3082,
+      "last_cue_end": "03:02:07,400",
+      "timestamp_lines": 3082,
+      "candidates": []
+    },
+    {
+      "path": "sources/The Wastes S1E035. Genitals McReady.parakeet.processed.srt",
+      "git_blob": "16c956401a312cdfbdfa556b7b709c1b3792fe5f",
+      "original_bytes": 279383,
+      "parsed_cues": 3051,
+      "last_cue_end": "02:57:19,650",
+      "timestamp_lines": 3051,
+      "candidates": []
+    },
+    {
+      "path": "sources/The Wastes S1E036. High on Toes.parakeet.processed.srt",
+      "git_blob": "27c849e992c09905c7794ecda42b873d6d9d8795",
+      "original_bytes": 323008,
+      "parsed_cues": 3503,
+      "last_cue_end": "03:21:53,970",
+      "timestamp_lines": 3503,
+      "candidates": []
+    },
+    {
+      "path": "sources/The Wastes S1E037. Dirty Chalice.parakeet.processed.srt",
+      "git_blob": "8cdbc6db387726eb4200a81ab186a895ff590e69",
+      "original_bytes": 289696,
+      "parsed_cues": 3157,
+      "last_cue_end": "03:18:53,160",
+      "timestamp_lines": 3157,
+      "candidates": []
+    },
+    {
+      "path": "sources/The Wastes S1E038. Don't lose Hope.parakeet.processed.srt",
+      "git_blob": "98df1086ab8bb8dd742d1c0639cf3e07851f84c2",
+      "original_bytes": 313578,
+      "parsed_cues": 3396,
+      "last_cue_end": "03:09:09,030",
+      "timestamp_lines": 3396,
+      "candidates": []
+    },
+    {
+      "path": "sources/The Wastes S1E039. Taking up arms.parakeet.processed.srt",
+      "git_blob": "584104a608cc21005b95f492893ef52c5167291f",
+      "original_bytes": 295096,
+      "parsed_cues": 3186,
+      "last_cue_end": "03:34:07,940",
+      "timestamp_lines": 3186,
+      "candidates": []
+    },
+    {
+      "path": "sources/The Wastes S1E040. The Tale of The Two Phillips.parakeet.processed.srt",
+      "git_blob": "ac418c38fa2d374e52223ee4667bf6a575ad13e5",
+      "original_bytes": 264780,
+      "parsed_cues": 2892,
+      "last_cue_end": "02:51:35,320",
+      "timestamp_lines": 2892,
+      "candidates": []
+    },
+    {
+      "path": "sources/The Wastes S1E041. Only take one egg.parakeet.processed.srt",
+      "git_blob": "0a10652302b1313747c954b62ee029923e0f7db3",
+      "original_bytes": 256436,
+      "parsed_cues": 2820,
+      "last_cue_end": "02:48:18,250",
+      "timestamp_lines": 2820,
+      "candidates": []
+    },
+    {
+      "path": "sources/The Wastes S1E042. Anyone for some black pudding.parakeet.processed.srt",
+      "git_blob": "65a127f4ba57399a26cd7fffd09f908d23719b54",
+      "original_bytes": 292712,
+      "parsed_cues": 3211,
+      "last_cue_end": "03:15:51,990",
+      "timestamp_lines": 3211,
+      "candidates": []
+    },
+    {
+      "path": "sources/The Wastes S1E043. Merry Chromeness!.parakeet.processed.srt",
+      "git_blob": "1871afb09f3765e11e65af3a02d6e8693263174b",
+      "original_bytes": 393442,
+      "parsed_cues": 4303,
+      "last_cue_end": "04:14:32,310",
+      "timestamp_lines": 4303,
+      "candidates": []
+    },
+    {
+      "path": "sources/The Wastes S1E044. Poke it with your Mage Hand.parakeet.processed.srt",
+      "git_blob": "c082e67981f7070baf95a31d4ce202a5d9b1534f",
+      "original_bytes": 251447,
+      "parsed_cues": 2772,
+      "last_cue_end": "02:51:08,690",
+      "timestamp_lines": 2772,
+      "candidates": []
+    },
+    {
+      "path": "sources/The Wastes S1E045. Those Eyes.parakeet.processed.srt",
+      "git_blob": "bb320a0033aa1023c6fc4702659fd80b65f0f636",
+      "original_bytes": 255553,
+      "parsed_cues": 2820,
+      "last_cue_end": "02:59:11,570",
+      "timestamp_lines": 2820,
+      "candidates": []
+    },
+    {
+      "path": "sources/The Wastes S1E046. There's a Patch For That.parakeet.processed.srt",
+      "git_blob": "99ec01920b306e40a569cb5b6eb332ecfc362319",
+      "original_bytes": 259928,
+      "parsed_cues": 2887,
+      "last_cue_end": "02:58:33,370",
+      "timestamp_lines": 2887,
+      "candidates": [
+        {
+          "cue": 1346,
+          "start": "01:21:01,020",
+          "end": "01:21:03,940",
+          "text": "(speaker 3) one one nation."
+        },
+        {
+          "cue": 1347,
+          "start": "01:21:07,460",
+          "end": "01:21:12,700",
+          "text": "(speaker 0) maybe twenty four feet for that one iron door one riding horse with saddlebags yeah."
+        },
+        {
+          "cue": 2468,
+          "start": "02:33:02,399",
+          "end": "02:33:06,000",
+          "text": "(speaker 1) ooh i was angry it's."
+        },
+        {
+          "cue": 2469,
+          "start": "02:33:07,449",
+          "end": "02:33:12,480",
+          "text": "(speaker 0) an angry car it's the fury or the fate for fast and the furious."
+        }
+      ]
+    },
+    {
+      "path": "sources/The Wastes S1E047. 50 Shades of Grain.parakeet.processed.srt",
+      "git_blob": "26d3445318a1a0f0214b111ca4ac9cbc2d021d6b",
+      "original_bytes": 276136,
+      "parsed_cues": 3003,
+      "last_cue_end": "03:06:45,900",
+      "timestamp_lines": 3003,
+      "candidates": []
+    },
+    {
+      "path": "sources/The Wastes S1E048. George Style.parakeet.processed.srt",
+      "git_blob": "2cee72c9047487f37828638307998efd04d1096b",
+      "original_bytes": 264995,
+      "parsed_cues": 2909,
+      "last_cue_end": "03:14:40,980",
+      "timestamp_lines": 2909,
+      "candidates": []
+    },
+    {
+      "path": "sources/The Wastes S1E049. Podzilla.parakeet.processed.srt",
+      "git_blob": "80f98846fe47e55563aebd7e207cdd69e487b2c9",
+      "original_bytes": 287717,
+      "parsed_cues": 3127,
+      "last_cue_end": "03:15:24,770",
+      "timestamp_lines": 3127,
+      "candidates": [
+        {
+          "cue": 463,
+          "start": "00:25:40,271",
+          "end": "00:25:41,870",
+          "text": "(speaker 0) the day you were here you were you're a dead"
+        },
+        {
+          "cue": 464,
+          "start": "00:25:41,871",
+          "end": "00:25:43,870",
+          "text": "(speaker 0) weight on the fate four you're kind of deadweight"
+        },
+        {
+          "cue": 1140,
+          "start": "01:11:41,800",
+          "end": "01:11:44,530",
+          "text": "(speaker 1) let me just Google radius real quick it."
+        },
+        {
+          "cue": 1141,
+          "start": "01:11:44,675",
+          "end": "01:11:52,170",
+          "text": "(speaker 4) should be eight squares tall it looks like for twenty feet four right."
+        }
+      ]
+    },
+    {
+      "path": "sources/The Wastes S1E050. The Pillars of Decency.parakeet.processed.srt",
+      "git_blob": "4f5bf91eef60345c165093c88bcc7283a677a6a6",
+      "original_bytes": 246394,
+      "parsed_cues": 2696,
+      "last_cue_end": "02:55:56,950",
+      "timestamp_lines": 2696,
+      "candidates": []
+    },
+    {
+      "path": "sources/The Wastes S1E051. Tripping Is Not A Standard Action.parakeet.processed.srt",
+      "git_blob": "baf7a78edd2465347b88aa8b2a82e4fbef636021",
+      "original_bytes": 271721,
+      "parsed_cues": 2947,
+      "last_cue_end": "02:57:11,800",
+      "timestamp_lines": 2947,
+      "candidates": []
+    },
+    {
+      "path": "sources/The Wastes S1E052. Hear me, Froghemuth!.parakeet.processed.srt",
+      "git_blob": "c8f3e83bc2719f10d2782ffaa6a5581d5702bf7c",
+      "original_bytes": 308578,
+      "parsed_cues": 3403,
+      "last_cue_end": "03:10:12,640",
+      "timestamp_lines": 3403,
+      "candidates": []
+    },
+    {
+      "path": "sources/The Wastes S1E053. Snacks of Power.parakeet.processed.srt",
+      "git_blob": "dde9e72919b09be93b6a72bb4710220a03ae4c84",
+      "original_bytes": 243491,
+      "parsed_cues": 2690,
+      "last_cue_end": "02:41:25,890",
+      "timestamp_lines": 2690,
+      "candidates": [
+        {
+          "cue": 2405,
+          "start": "02:23:28,569",
+          "end": "02:23:33,300",
+          "text": "(speaker 4) now hope you're not for the what i feel to be the"
+        },
+        {
+          "cue": 2406,
+          "start": "02:23:33,301",
+          "end": "02:23:36,660",
+          "text": "(speaker 4) correct approach put you on top of the fate four."
+        }
+      ]
+    },
+    {
+      "path": "sources/The Wastes S1E054. Blow the walls down.parakeet.processed.srt",
+      "git_blob": "9379f91193193f4fa7e5386c6d8a97a74980a8b1",
+      "original_bytes": 195640,
+      "parsed_cues": 2132,
+      "last_cue_end": "02:22:43,960",
+      "timestamp_lines": 2132,
+      "candidates": [
+        {
+          "cue": 2112,
+          "start": "02:21:38,111",
+          "end": "02:21:40,590",
+          "text": "(speaker 0) be dungeons dot com there's a link there and"
+        },
+        {
+          "cue": 2113,
+          "start": "02:21:40,591",
+          "end": "02:21:44,110",
+          "text": "(speaker 0) grab one of our teas today we gave away fate for"
+        }
+      ]
+    },
+    {
+      "path": "sources/The Wastes S1E055. My Standards Are Very Lizard.parakeet.processed.srt",
+      "git_blob": "2c71e645a63d5619879e563de8b996af7f0df4a8",
+      "original_bytes": 254440,
+      "parsed_cues": 2742,
+      "last_cue_end": "02:53:32,510",
+      "timestamp_lines": 2742,
+      "candidates": []
+    },
+    {
+      "path": "sources/The Wastes S1E056. Welcome back, George.parakeet.processed.srt",
+      "git_blob": "9a40b018395360688d012bf4b609ad8ab22bfd00",
+      "original_bytes": 241024,
+      "parsed_cues": 2607,
+      "last_cue_end": "02:45:03,620",
+      "timestamp_lines": 2607,
+      "candidates": []
+    },
+    {
+      "path": "sources/The Wastes S1E057. The Royal Truckery.parakeet.processed.srt",
+      "git_blob": "e23cb14f1152e7979cfcb3d2d6fe18816526d350",
+      "original_bytes": 250175,
+      "parsed_cues": 2729,
+      "last_cue_end": "02:47:33,271",
+      "timestamp_lines": 2729,
+      "candidates": [
+        {
+          "cue": 579,
+          "start": "00:36:35,390",
+          "end": "00:36:36,810",
+          "text": "(speaker 2) know what kind of truck you're gonna be taking"
+        },
+        {
+          "cue": 580,
+          "start": "00:36:36,811",
+          "end": "00:36:39,850",
+          "text": "(speaker 2) yourvehicle remember the fate four is still intact hope."
+        },
+        {
+          "cue": 635,
+          "start": "00:40:23,480",
+          "end": "00:40:25,400",
+          "text": "(speaker 2) else that you might want to be doing i."
+        },
+        {
+          "cue": 636,
+          "start": "00:40:25,480",
+          "end": "00:40:27,880",
+          "text": "(speaker 1) want a monster truck okay."
+        },
+        {
+          "cue": 637,
+          "start": "00:40:28,190",
+          "end": "00:40:31,560",
+          "text": "(speaker 2) so i mean fate for is available is that still a thing or no."
+        },
+        {
+          "cue": 638,
+          "start": "00:40:31,720",
+          "end": "00:40:33,560",
+          "text": "(speaker 1) no we need to get out there fast and hard."
+        },
+        {
+          "cue": 639,
+          "start": "00:40:33,850",
+          "end": "00:40:36,520",
+          "text": "(speaker 0) with the with the fate for sorry with the monster"
+        },
+        {
+          "cue": 640,
+          "start": "00:40:36,620",
+          "end": "00:40:40,040",
+          "text": "(speaker 0) truck have amenities or abilities or stuff"
+        },
+        {
+          "cue": 641,
+          "start": "00:40:40,120",
+          "end": "00:40:42,120",
+          "text": "(speaker 0) features that that we don't have in the fate for"
+        },
+        {
+          "cue": 642,
+          "start": "00:40:42,280",
+          "end": "00:40:44,017",
+          "text": "(speaker 0) is it the opposite the fate for i mean it'll probably."
+        },
+        {
+          "cue": 643,
+          "start": "00:40:44,041",
+          "end": "00:40:45,560",
+          "text": "(speaker 2) just be four seats"
+        },
+        {
+          "cue": 644,
+          "start": "00:40:45,950",
+          "end": "00:40:48,230",
+          "text": "(speaker 2) okay monster truck there probably be a cab in the"
+        },
+        {
+          "cue": 660,
+          "start": "00:41:35,351",
+          "end": "00:41:40,790",
+          "text": "(speaker 0) favorite visuals nothing but yeah like if he fit"
+        },
+        {
+          "cue": 661,
+          "start": "00:41:41,020",
+          "end": "00:41:44,310",
+          "text": "(speaker 0) some if he's i'm i'm all for monster truck is it"
+        },
+        {
+          "cue": 662,
+          "start": "00:41:44,311",
+          "end": "00:41:46,231",
+          "text": "(speaker 0) just sounds like we could have some fun with this"
+        },
+        {
+          "cue": 663,
+          "start": "00:41:46,510",
+          "end": "00:41:48,390",
+          "text": "(speaker 0) and if we wreck it big deal the fate for still"
+        },
+        {
+          "cue": 684,
+          "start": "00:42:59,191",
+          "end": "00:43:00,950",
+          "text": "(speaker 2) just going to somevehicles oh."
+        },
+        {
+          "cue": 685,
+          "start": "00:43:01,790",
+          "end": "00:43:03,436",
+          "text": "(speaker 2) okay i guess you guys were choosing the fate for"
+        },
+        {
+          "cue": 749,
+          "start": "00:46:32,210",
+          "end": "00:46:33,220",
+          "text": "(speaker 0) right with."
+        },
+        {
+          "cue": 750,
+          "start": "00:46:33,300",
+          "end": "00:46:36,020",
+          "text": "(speaker 2) the fate for has places for you to like lounge and"
+        },
+        {
+          "cue": 810,
+          "start": "00:49:50,340",
+          "end": "00:49:53,540",
+          "text": "(speaker 2) as you roll out of the royal truckery everyone"
+        },
+        {
+          "cue": 811,
+          "start": "00:49:53,690",
+          "end": "00:49:55,530",
+          "text": "(speaker 2) looks to their right and they see the fate for."
+        },
+        {
+          "cue": 814,
+          "start": "00:50:02,501",
+          "end": "00:50:04,740",
+          "text": "(speaker 0) i get the feeling our dm really wanted us to take"
+        },
+        {
+          "cue": 815,
+          "start": "00:50:04,990",
+          "end": "00:50:07,380",
+          "text": "(speaker 0) the fate for i could be wrong but you guys get the."
+        },
+        {
+          "cue": 816,
+          "start": "00:50:07,620",
+          "end": "00:50:13,357",
+          "text": "(speaker 2) dm's wondering why we're not taking the fate for but that's fine i'm."
+        },
+        {
+          "cue": 843,
+          "start": "00:51:18,760",
+          "end": "00:51:20,200",
+          "text": "(speaker 2) i didn't move you guys you should be seeing the"
+        },
+        {
+          "cue": 844,
+          "start": "00:51:20,201",
+          "end": "00:51:22,600",
+          "text": "(speaker 2) world map here and the fate for which i guess no"
+        }
+      ]
+    },
+    {
+      "path": "sources/The Wastes S1E058. The Magical Banana Trail.parakeet.processed.srt",
+      "git_blob": "038576756f91b75c196579a0d571c8dac1ff2bd6",
+      "original_bytes": 253777,
+      "parsed_cues": 2762,
+      "last_cue_end": "02:57:01,060",
+      "timestamp_lines": 2762,
+      "candidates": [
+        {
+          "cue": 1176,
+          "start": "01:13:00,224",
+          "end": "01:13:00,937",
+          "text": "(speaker 4) too bad we."
+        },
+        {
+          "cue": 1177,
+          "start": "01:13:00,961",
+          "end": "01:13:02,400",
+          "text": "(speaker 1) didn't take the fate for."
+        }
+      ]
+    },
+    {
+      "path": "sources/The Wastes S1E059. Paradise of Mans.parakeet.processed.srt",
+      "git_blob": "81eada685f6dc50f3d64114a1e22041a731a0cac",
+      "original_bytes": 229765,
+      "parsed_cues": 2503,
+      "last_cue_end": "02:49:16,840",
+      "timestamp_lines": 2503,
+      "candidates": [
+        {
+          "cue": 1659,
+          "start": "01:54:43,975",
+          "end": "01:54:47,707",
+          "text": "(speaker 3) right and whatvehicle will you be selecting from your truckery the."
+        },
+        {
+          "cue": 1660,
+          "start": "01:54:47,731",
+          "end": "01:54:55,310",
+          "text": "(speaker 0) fate for i'm not i shouldn't decide hope gets to the."
+        },
+        {
+          "cue": 1661,
+          "start": "01:54:55,585",
+          "end": "01:54:58,590",
+          "text": "(speaker 1) no no Nash if you want the fate for we can we"
+        },
+        {
+          "cue": 1775,
+          "start": "02:01:34,770",
+          "end": "02:01:37,840",
+          "text": "(speaker 4) agreed let us ride to my companions all right."
+        },
+        {
+          "cue": 1776,
+          "start": "02:01:38,000",
+          "end": "02:01:41,920",
+          "text": "(speaker 3) and with that the fate four exits from the gateway"
+        },
+        {
+          "cue": 1798,
+          "start": "02:03:00,141",
+          "end": "02:03:03,260",
+          "text": "(speaker 3) interceptor put here so let us change that for."
+        },
+        {
+          "cue": 1799,
+          "start": "02:03:04,160",
+          "end": "02:03:07,100",
+          "text": "(speaker 3) the fate for let me see if i have it since it is"
+        },
+        {
+          "cue": 1800,
+          "start": "02:03:07,200",
+          "end": "02:03:12,300",
+          "text": "(speaker 3) now the fate for there's quite oh."
+        },
+        {
+          "cue": 1802,
+          "start": "02:03:15,455",
+          "end": "02:03:17,100",
+          "text": "(speaker 0) shees that was huge all."
+        },
+        {
+          "cue": 1803,
+          "start": "02:03:17,260",
+          "end": "02:03:23,740",
+          "text": "(speaker 3) right so there's the fate for and you may move it to the next square but"
+        },
+        {
+          "cue": 2165,
+          "start": "02:27:32,470",
+          "end": "02:27:35,670",
+          "text": "(speaker 0) everyvehicle in the royal truckery has steel in."
+        },
+        {
+          "cue": 2166,
+          "start": "02:27:36,719",
+          "end": "02:27:42,950",
+          "text": "(speaker 0) it the fate for is full of steel we're screwed."
+        },
+        {
+          "cue": 2229,
+          "start": "02:31:22,539",
+          "end": "02:31:27,110",
+          "text": "(speaker 1) queen orifi drives stocked and ready to go with rations and water."
+        },
+        {
+          "cue": 2230,
+          "start": "02:31:29,080",
+          "end": "02:31:33,670",
+          "text": "(speaker 2) oh well then i won't even go into my personal rations I'll go for fate for rations."
+        },
+        {
+          "cue": 2297,
+          "start": "02:36:01,069",
+          "end": "02:36:04,730",
+          "text": "(speaker 1) cool hope we'll kind of find a side place to park."
+        },
+        {
+          "cue": 2298,
+          "start": "02:36:06,359",
+          "end": "02:36:08,279",
+          "text": "(speaker 1) the fate for before getting out so that it's not."
+        }
+      ]
+    },
+    {
+      "path": "sources/The Wastes S1E060. What's for dinner.parakeet.processed.srt",
+      "git_blob": "4e3d06633ccbcfd2b81949ca0f13b861ebdcb7de",
+      "original_bytes": 231852,
+      "parsed_cues": 2516,
+      "last_cue_end": "02:45:16,720",
+      "timestamp_lines": 2516,
+      "candidates": [
+        {
+          "cue": 130,
+          "start": "00:06:08,381",
+          "end": "00:06:11,020",
+          "text": "(speaker 2) mount the mean raptor meant for a monarch the non"
+        },
+        {
+          "cue": 131,
+          "start": "00:06:11,021",
+          "end": "00:06:13,740",
+          "text": "(speaker 2) fringed friends filled the fate four off they"
+        }
+      ]
+    },
+    {
+      "path": "sources/The Wastes S1E061. The Many Maggards.parakeet.processed.srt",
+      "git_blob": "d1e0c93f84dc80fc870c93185ee88187d4bc04cb",
+      "original_bytes": 264920,
+      "parsed_cues": 2883,
+      "last_cue_end": "02:57:47,050",
+      "timestamp_lines": 2883,
+      "candidates": []
+    },
+    {
+      "path": "sources/The Wastes S1E062. Orp Fight!.parakeet.processed.srt",
+      "git_blob": "34c3040e7dbc10d4e726bee20fec96348a4bdc35",
+      "original_bytes": 236666,
+      "parsed_cues": 2583,
+      "last_cue_end": "02:39:29,280",
+      "timestamp_lines": 2583,
+      "candidates": [
+        {
+          "cue": 1572,
+          "start": "01:42:22,480",
+          "end": "01:42:27,520",
+          "text": "(speaker 1) movement yeah i could do a high jump right yeah."
+        },
+        {
+          "cue": 1573,
+          "start": "01:42:31,630",
+          "end": "01:42:38,480",
+          "text": "(speaker 1) it's five feet for five feet so that's okay okay."
+        }
+      ]
+    },
+    {
+      "path": "sources/The Wastes S1E063. Two Royals.parakeet.processed.srt",
+      "git_blob": "202f9b2bd7bc45c22fb718218436bd9f9b68ba03",
+      "original_bytes": 252388,
+      "parsed_cues": 2740,
+      "last_cue_end": "02:55:36,280",
+      "timestamp_lines": 2740,
+      "candidates": []
+    },
+    {
+      "path": "sources/The Wastes S1E064. Mount Up and Ride.parakeet.processed.srt",
+      "git_blob": "dbaa7aa420e54c4b8a37014e483546ff7e4dbac3",
+      "original_bytes": 258538,
+      "parsed_cues": 2843,
+      "last_cue_end": "02:59:45,560",
+      "timestamp_lines": 2843,
+      "candidates": [
+        {
+          "cue": 2338,
+          "start": "02:31:55,249",
+          "end": "02:31:56,280",
+          "text": "(speaker 1) the car weighs i'm not."
+        },
+        {
+          "cue": 2339,
+          "start": "02:31:56,579",
+          "end": "02:31:58,360",
+          "text": "(speaker 3) sure how much does an are we rv."
+        },
+        {
+          "cue": 2359,
+          "start": "02:32:48,599",
+          "end": "02:32:49,640",
+          "text": "(speaker 3) map right so."
+        },
+        {
+          "cue": 2360,
+          "start": "02:32:49,999",
+          "end": "02:32:52,840",
+          "text": "(speaker 2) it's still not rv carrying capacity."
+        },
+        {
+          "cue": 2369,
+          "start": "02:33:23,849",
+          "end": "02:33:26,960",
+          "text": "(speaker 2) if we need the dragon we have the dragon we can"
+        },
+        {
+          "cue": 2370,
+          "start": "02:33:27,109",
+          "end": "02:33:31,920",
+          "text": "(speaker 2) always take off in the rv while Nash covers us as a dragon."
+        },
+        {
+          "cue": 2492,
+          "start": "02:39:37,271",
+          "end": "02:39:39,350",
+          "text": "(speaker 3) disappointing realization that it might have been"
+        },
+        {
+          "cue": 2493,
+          "start": "02:39:39,351",
+          "end": "02:39:42,470",
+          "text": "(speaker 3) a bad gamble to go south looking for the fate for."
+        },
+        {
+          "cue": 2508,
+          "start": "02:40:42,389",
+          "end": "02:40:44,470",
+          "text": "(speaker 3) hope you would know that sound anywhere and you"
+        },
+        {
+          "cue": 2509,
+          "start": "02:40:44,471",
+          "end": "02:40:48,870",
+          "text": "(speaker 3) see the the sound of the fate four driving across"
+        },
+        {
+          "cue": 2518,
+          "start": "02:41:15,529",
+          "end": "02:41:16,550",
+          "text": "(speaker 1) dude that's my car."
+        },
+        {
+          "cue": 2519,
+          "start": "02:41:16,990",
+          "end": "02:41:21,990",
+          "text": "(speaker 4) wait but you but you'd be the one who knew that it was the fate for."
+        },
+        {
+          "cue": 2524,
+          "start": "02:41:31,528",
+          "end": "02:41:33,430",
+          "text": "(speaker 3) anyone recognize that car i don't know maybe."
+        },
+        {
+          "cue": 2525,
+          "start": "02:41:34,950",
+          "end": "02:41:36,870",
+          "text": "(speaker 1) I'll say is that the fate for."
+        },
+        {
+          "cue": 2557,
+          "start": "02:43:14,004",
+          "end": "02:43:15,160",
+          "text": "(speaker 1) a cat shaped."
+        },
+        {
+          "cue": 2558,
+          "start": "02:43:16,639",
+          "end": "02:43:17,937",
+          "text": "(speaker 3) it's fate for shaped."
+        },
+        {
+          "cue": 2564,
+          "start": "02:43:29,800",
+          "end": "02:43:30,097",
+          "text": "(speaker 1) let's."
+        },
+        {
+          "cue": 2565,
+          "start": "02:43:30,121",
+          "end": "02:43:31,916",
+          "text": "(speaker 4) go down the list of people who steal the fate for."
+        },
+        {
+          "cue": 2719,
+          "start": "02:52:06,001",
+          "end": "02:52:09,520",
+          "text": "(speaker 3) right you get off the raptor and as you make"
+        },
+        {
+          "cue": 2720,
+          "start": "02:52:09,521",
+          "end": "02:52:12,000",
+          "text": "(speaker 3) your way into the fate for follow sort of wheels"
+        },
+        {
+          "cue": 2732,
+          "start": "02:52:46,869",
+          "end": "02:52:48,960",
+          "text": "(speaker 3) the back it's been ripped out and it's just lying."
+        },
+        {
+          "cue": 2733,
+          "start": "02:52:49,609",
+          "end": "02:52:50,809",
+          "text": "(speaker 3) on the bottom of the fate for."
+        },
+        {
+          "cue": 2759,
+          "start": "02:54:42,451",
+          "end": "02:54:45,947",
+          "text": "(speaker 3) thought you were i thought you were kidding no i thought that was a joke."
+        },
+        {
+          "cue": 2760,
+          "start": "02:54:45,971",
+          "end": "02:54:48,610",
+          "text": "(speaker 1) this is literally our car we call it the fate four"
+        }
+      ]
+    },
+    {
+      "path": "sources/The Wastes S1E065. Under the Dome.parakeet.processed.srt",
+      "git_blob": "aaada000e531c6de0bedace5332f760b0ed01a91",
+      "original_bytes": 226365,
+      "parsed_cues": 2475,
+      "last_cue_end": "02:40:01,780",
+      "timestamp_lines": 2475,
+      "candidates": [
+        {
+          "cue": 82,
+          "start": "00:04:07,485",
+          "end": "00:04:10,130",
+          "text": "(speaker 2) morning materializing they opted onward when they"
+        },
+        {
+          "cue": 83,
+          "start": "00:04:10,131",
+          "end": "00:04:13,090",
+          "text": "(speaker 2) picked up on a particular patter the fate four"
+        },
+        {
+          "cue": 102,
+          "start": "00:05:32,600",
+          "end": "00:05:36,640",
+          "text": "(speaker 1) as his daughter and an orc who's torn the seat"
+        },
+        {
+          "cue": 103,
+          "start": "00:05:36,641",
+          "end": "00:05:38,960",
+          "text": "(speaker 1) from the fate for the driver's seat and is"
+        },
+        {
+          "cue": 136,
+          "start": "00:07:25,971",
+          "end": "00:07:28,530",
+          "text": "(speaker 1) little bit at you guys and then looking back down."
+        },
+        {
+          "cue": 137,
+          "start": "00:07:29,690",
+          "end": "00:07:34,450",
+          "text": "(speaker 3) how's the space situation with a orc and two bonus people in the fate four."
+        },
+        {
+          "cue": 138,
+          "start": "00:07:34,765",
+          "end": "00:07:38,130",
+          "text": "(speaker 1) it's an rv it's crowded but you know everyone has."
+        },
+        {
+          "cue": 531,
+          "start": "00:37:30,611",
+          "end": "00:37:33,730",
+          "text": "(speaker 4) stone that hope has to send word we can let them"
+        },
+        {
+          "cue": 532,
+          "start": "00:37:33,810",
+          "end": "00:37:37,490",
+          "text": "(speaker 4) take the fate four back and we can even have the"
+        },
+        {
+          "cue": 695,
+          "start": "00:49:38,070",
+          "end": "00:49:40,770",
+          "text": "(speaker 4) natural or an ill omen so i will find a spot in"
+        },
+        {
+          "cue": 696,
+          "start": "00:49:40,970",
+          "end": "00:49:45,410",
+          "text": "(speaker 4) the fate for kind of sit down take out the ball."
+        },
+        {
+          "cue": 793,
+          "start": "00:56:24,440",
+          "end": "00:56:28,330",
+          "text": "(speaker 1) not big enough for him because he's got to slide"
+        },
+        {
+          "cue": 794,
+          "start": "00:56:28,331",
+          "end": "00:56:30,170",
+          "text": "(speaker 1) into the table thing you know that r v s have."
+        },
+        {
+          "cue": 1067,
+          "start": "01:14:41,961",
+          "end": "01:14:44,576",
+          "text": "(speaker 1) your arms and get managed to get a foothold"
+        },
+        {
+          "cue": 1068,
+          "start": "01:14:44,577",
+          "end": "01:14:47,880",
+          "text": "(speaker 1) and then you get into the rv and your rope is"
+        },
+        {
+          "cue": 1513,
+          "start": "01:41:01,750",
+          "end": "01:41:04,170",
+          "text": "(speaker 3) well i will stare at the hole tempted to swim in"
+        },
+        {
+          "cue": 1514,
+          "start": "01:41:04,220",
+          "end": "01:41:08,490",
+          "text": "(speaker 3) it but i will go get supplies from the fate four."
+        },
+        {
+          "cue": 1891,
+          "start": "02:03:41,610",
+          "end": "02:03:45,340",
+          "text": "(speaker 1) behind you to the north from the general direction"
+        },
+        {
+          "cue": 1892,
+          "start": "02:03:45,341",
+          "end": "02:03:49,580",
+          "text": "(speaker 1) of where the hut and the fate four are but it's"
+        },
+        {
+          "cue": 1935,
+          "start": "02:05:57,381",
+          "end": "02:06:00,580",
+          "text": "(speaker 0) it is again hey oh shit there it is now watch this you."
+        },
+        {
+          "cue": 1936,
+          "start": "02:06:00,740",
+          "end": "02:06:03,060",
+          "text": "(speaker 1) take left it's coming from the direction of the fate for."
+        },
+        {
+          "cue": 1937,
+          "start": "02:06:03,300",
+          "end": "02:06:05,140",
+          "text": "(speaker 0) okay are you are."
+        },
+        {
+          "cue": 1938,
+          "start": "02:06:05,220",
+          "end": "02:06:08,081",
+          "text": "(speaker 3) they knocking on the dome or the fate for."
+        },
+        {
+          "cue": 1939,
+          "start": "02:06:08,105",
+          "end": "02:06:09,105",
+          "text": "(speaker 0) i think the fate for."
+        },
+        {
+          "cue": 1971,
+          "start": "02:07:47,045",
+          "end": "02:07:49,850",
+          "text": "(speaker 0) okay you say i can see."
+        },
+        {
+          "cue": 1972,
+          "start": "02:07:51,450",
+          "end": "02:07:53,450",
+          "text": "(speaker 1) and behind the fate for"
+        },
+        {
+          "cue": 2113,
+          "start": "02:15:35,251",
+          "end": "02:15:37,410",
+          "text": "(speaker 1) look out into the horizon the lightning strikes."
+        },
+        {
+          "cue": 2114,
+          "start": "02:15:39,080",
+          "end": "02:15:47,450",
+          "text": "(speaker 1) and you see a hooded figure in the distance closing in on the fade for all right I'll."
+        },
+        {
+          "cue": 2115,
+          "start": "02:15:47,850",
+          "end": "02:15:49,490",
+          "text": "(speaker 3) slither back under the fade for."
+        },
+        {
+          "cue": 2207,
+          "start": "02:21:45,655",
+          "end": "02:21:51,760",
+          "text": "(speaker 2) right Stanley maybe the old song you sang it was like a spell something just."
+        },
+        {
+          "cue": 2208,
+          "start": "02:21:52,645",
+          "end": "02:21:54,880",
+          "text": "(speaker 1) hey you hear from the fate for."
+        },
+        {
+          "cue": 2410,
+          "start": "02:35:47,771",
+          "end": "02:35:53,290",
+          "text": "(speaker 1) form in the blackness of the night as it moves"
+        },
+        {
+          "cue": 2411,
+          "start": "02:35:53,291",
+          "end": "02:35:56,890",
+          "text": "(speaker 1) ever closer to the fate for and then its feet"
+        },
+        {
+          "cue": 2413,
+          "start": "02:36:00,629",
+          "end": "02:36:04,570",
+          "text": "(speaker 1) see large clawed feet on the on the other side of"
+        },
+        {
+          "cue": 2414,
+          "start": "02:36:04,719",
+          "end": "02:36:11,747",
+          "text": "(speaker 1) the fate for m m h m i."
+        },
+        {
+          "cue": 2421,
+          "start": "02:36:39,309",
+          "end": "02:36:44,140",
+          "text": "(speaker 1) of a jaw and then you feel it nudge gr ou p."
+        },
+        {
+          "cue": 2422,
+          "start": "02:36:46,645",
+          "end": "02:36:51,780",
+          "text": "(speaker 1) nudging at the fate for and we're you see this"
+        },
+        {
+          "cue": 2433,
+          "start": "02:37:35,019",
+          "end": "02:37:37,780",
+          "text": "(speaker 1) giant t Rex breathing down the underneath of the"
+        },
+        {
+          "cue": 2434,
+          "start": "02:37:37,805",
+          "end": "02:37:43,140",
+          "text": "(speaker 1) fate for is the rest of the party hopes that no one notices them in the tiny hut."
+        }
+      ]
+    },
+    {
+      "path": "sources/The Wastes S1E066. The Eyes Have It.parakeet.processed.srt",
+      "git_blob": "6f6b42ca318db69d0688743d704971d83c997142",
+      "original_bytes": 214145,
+      "parsed_cues": 2360,
+      "last_cue_end": "02:33:37,720",
+      "timestamp_lines": 2360,
+      "candidates": [
+        {
+          "cue": 67,
+          "start": "00:03:18,385",
+          "end": "00:03:21,050",
+          "text": "(speaker 3) last time on there will be dungeons fitted in the"
+        },
+        {
+          "cue": 68,
+          "start": "00:03:21,051",
+          "end": "00:03:25,610",
+          "text": "(speaker 3) fate for they flew follow grabbed let's restart"
+        },
+        {
+          "cue": 69,
+          "start": "00:03:25,611",
+          "end": "00:03:28,410",
+          "text": "(speaker 3) this fitted in the fate for they flew follo"
+        },
+        {
+          "cue": 100,
+          "start": "00:05:00,010",
+          "end": "00:05:02,090",
+          "text": "(speaker 3) with all of their banter varel flew under the"
+        },
+        {
+          "cue": 101,
+          "start": "00:05:02,091",
+          "end": "00:05:04,250",
+          "text": "(speaker 3) fate four as a frightening fossil marched through"
+        },
+        {
+          "cue": 129,
+          "start": "00:06:53,970",
+          "end": "00:06:59,050",
+          "text": "(speaker 1) what is going on is varrell rasvemick placed"
+        },
+        {
+          "cue": 130,
+          "start": "00:06:59,051",
+          "end": "00:07:03,610",
+          "text": "(speaker 1) underneath the fate for looking out and seeing a"
+        },
+        {
+          "cue": 131,
+          "start": "00:07:03,611",
+          "end": "00:07:08,718",
+          "text": "(speaker 1) large scaled feet feet almost as big as the"
+        },
+        {
+          "cue": 132,
+          "start": "00:07:08,719",
+          "end": "00:07:14,250",
+          "text": "(speaker 1) fate for itself and the bottom of a jaw appears."
+        },
+        {
+          "cue": 318,
+          "start": "00:18:29,981",
+          "end": "00:18:35,660",
+          "text": "(speaker 1) does is it stomps in place and it goes one two."
+        },
+        {
+          "cue": 319,
+          "start": "00:18:36,299",
+          "end": "00:18:42,620",
+          "text": "(speaker 1) three and it crushes the fate four for was as it"
+        },
+        {
+          "cue": 476,
+          "start": "00:27:11,400",
+          "end": "00:27:14,600",
+          "text": "(speaker 2) have just turned and looked at the direction of"
+        },
+        {
+          "cue": 477,
+          "start": "00:27:14,601",
+          "end": "00:27:17,880",
+          "text": "(speaker 2) the of the fate for being crushed looked over at"
+        },
+        {
+          "cue": 532,
+          "start": "00:30:40,910",
+          "end": "00:30:45,861",
+          "text": "(speaker 1) nasha remain quiet you hear a boom in the back"
+        },
+        {
+          "cue": 533,
+          "start": "00:30:45,941",
+          "end": "00:30:51,070",
+          "text": "(speaker 1) as an explosionerupts from the fate for shit"
+        },
+        {
+          "cue": 534,
+          "start": "00:30:51,334",
+          "end": "00:30:53,470",
+          "text": "(speaker 1) and everyone in the hut sees a giant bright light"
+        },
+        {
+          "cue": 535,
+          "start": "00:30:53,470",
+          "end": "00:30:54,940",
+          "text": "(speaker 1) come in the direction of the fate for and"
+        },
+        {
+          "cue": 571,
+          "start": "00:33:17,140",
+          "end": "00:33:21,780",
+          "text": "(speaker 4) contact the beast away from thevehicle it was"
+        },
+        {
+          "cue": 572,
+          "start": "00:33:21,804",
+          "end": "00:33:28,180",
+          "text": "(speaker 4) enraged and attacked the fate four and it exploded."
+        },
+        {
+          "cue": 628,
+          "start": "00:36:48,140",
+          "end": "00:36:50,700",
+          "text": "(speaker 4) but i would like to start hauling up bones and"
+        },
+        {
+          "cue": 629,
+          "start": "00:36:50,701",
+          "end": "00:36:55,580",
+          "text": "(speaker 4) see if i can turn the fate four into a rickshaw."
+        },
+        {
+          "cue": 689,
+          "start": "00:39:49,930",
+          "end": "00:39:53,730",
+          "text": "(speaker 1) got the tires the tires are very sturdy because"
+        },
+        {
+          "cue": 690,
+          "start": "00:39:53,755",
+          "end": "00:39:56,210",
+          "text": "(speaker 1) they're custom that hope put on but not like rv"
+        },
+        {
+          "cue": 691,
+          "start": "00:39:56,211",
+          "end": "00:39:58,690",
+          "text": "(speaker 1) tires they're monster truck tires they're still"
+        },
+        {
+          "cue": 720,
+          "start": "00:41:55,470",
+          "end": "00:42:02,710",
+          "text": "(speaker 1) machine hmm Rick Shaw."
+        },
+        {
+          "cue": 721,
+          "start": "00:42:03,630",
+          "end": "00:42:09,670",
+          "text": "(speaker 4) uh the fate for so it'll be the fang fate five."
+        },
+        {
+          "cue": 822,
+          "start": "00:49:38,695",
+          "end": "00:49:40,740",
+          "text": "(speaker 1) see what looks to be a rickshaw made out of the"
+        },
+        {
+          "cue": 823,
+          "start": "00:49:40,741",
+          "end": "00:49:45,700",
+          "text": "(speaker 1) parts of the fate for and more standing defiantly"
+        },
+        {
+          "cue": 1199,
+          "start": "01:18:48,130",
+          "end": "01:18:49,810",
+          "text": "(speaker 0) i was going to say this seems bad."
+        },
+        {
+          "cue": 1200,
+          "start": "01:18:50,770",
+          "end": "01:18:53,010",
+          "text": "(speaker 1) you scan around you see the wreck of the fate for"
+        },
+        {
+          "cue": 2314,
+          "start": "02:31:12,081",
+          "end": "02:31:14,720",
+          "text": "(speaker 5) me too gosh dang it that thing was cool also i'm"
+        },
+        {
+          "cue": 2315,
+          "start": "02:31:14,721",
+          "end": "02:31:16,720",
+          "text": "(speaker 5) so sad about the fate for i want to scream but"
+        }
+      ]
+    },
+    {
+      "path": "sources/The Wastes S1E067. Frigid Fingers of Failure.parakeet.processed.srt",
+      "git_blob": "ce700a7f069c8b4fe686d8bc60ba7ab165bdf434",
+      "original_bytes": 254218,
+      "parsed_cues": 2782,
+      "last_cue_end": "02:45:05,060",
+      "timestamp_lines": 2782,
+      "candidates": [
+        {
+          "cue": 118,
+          "start": "00:05:30,091",
+          "end": "00:05:31,850",
+          "text": "(speaker 0) not throwback it's a shout out to everyone's"
+        },
+        {
+          "cue": 119,
+          "start": "00:05:31,851",
+          "end": "00:05:34,810",
+          "text": "(speaker 0) favoritevehicle the fate for Bo is drinking it"
+        },
+        {
+          "cue": 120,
+          "start": "00:05:34,960",
+          "end": "00:05:36,490",
+          "text": "(speaker 0) fate for is now dust is."
+        },
+        {
+          "cue": 129,
+          "start": "00:05:51,461",
+          "end": "00:05:53,277",
+          "text": "(speaker 2) like oil yeah i."
+        },
+        {
+          "cue": 130,
+          "start": "00:05:53,301",
+          "end": "00:05:55,181",
+          "text": "(speaker 1) actually haven't drank the fate for yet but I've"
+        },
+        {
+          "cue": 162,
+          "start": "00:07:18,410",
+          "end": "00:07:21,890",
+          "text": "(speaker 2) last time on there will be dungeons varel fast"
+        },
+        {
+          "cue": 163,
+          "start": "00:07:21,891",
+          "end": "00:07:24,370",
+          "text": "(speaker 2) footed from the fate four hoping to herd the"
+        },
+        {
+          "cue": 294,
+          "start": "00:15:02,639",
+          "end": "00:15:05,440",
+          "text": "(speaker 1) this out he lifts up the the canvas and he throws"
+        },
+        {
+          "cue": 295,
+          "start": "00:15:05,441",
+          "end": "00:15:08,080",
+          "text": "(speaker 1) it back and you see the fate four with regular"
+        },
+        {
+          "cue": 312,
+          "start": "00:15:59,129",
+          "end": "00:16:00,449",
+          "text": "(speaker 2) she'll put her hand on the wheel."
+        },
+        {
+          "cue": 313,
+          "start": "00:16:00,759",
+          "end": "00:16:02,710",
+          "text": "(speaker 1) or you see the fade for it smells musty hasn't"
+        },
+        {
+          "cue": 317,
+          "start": "00:16:11,911",
+          "end": "00:16:14,790",
+          "text": "(speaker 1) to the front you see the seat there none of your"
+        },
+        {
+          "cue": 318,
+          "start": "00:16:14,791",
+          "end": "00:16:23,270",
+          "text": "(speaker 1) modifications are in thevehicle just a regular old rv go on in sit down."
+        }
+      ]
+    },
+    {
+      "path": "sources/The Wastes S1E068. Stay Out The Shaft.parakeet.processed.srt",
+      "git_blob": "b2ac5e5c62f992f39987bca056b96ab1fa7ba836",
+      "original_bytes": 301523,
+      "parsed_cues": 3306,
+      "last_cue_end": "03:09:38,750",
+      "timestamp_lines": 3306,
+      "candidates": []
+    },
+    {
+      "path": "sources/The Wastes S1E069. Crimes Against Doormanity.parakeet.processed.srt",
+      "git_blob": "cbb36321ede4449ec109b429037d57b6b14a4db2",
+      "original_bytes": 229546,
+      "parsed_cues": 2535,
+      "last_cue_end": "02:37:03,340",
+      "timestamp_lines": 2535,
+      "candidates": []
+    },
+    {
+      "path": "sources/The Wastes S1E070. Polymorph The Security Monkey.parakeet.processed.srt",
+      "git_blob": "24efee5488b6bdeb8b20d02e18f1a5ff2aba7489",
+      "original_bytes": 266740,
+      "parsed_cues": 2942,
+      "last_cue_end": "03:03:59,480",
+      "timestamp_lines": 2942,
+      "candidates": []
+    },
+    {
+      "path": "sources/The Wastes S1E071. The Door Street Journal.parakeet.processed.srt",
+      "git_blob": "d559f937e4624d2e2c22fc18b92c12cb579753ad",
+      "original_bytes": 252860,
+      "parsed_cues": 2771,
+      "last_cue_end": "02:48:41,240",
+      "timestamp_lines": 2771,
+      "candidates": [
+        {
+          "cue": 53,
+          "start": "00:02:24,691",
+          "end": "00:02:26,450",
+          "text": "(speaker 1) package looks like for you video viewers looks"
+        },
+        {
+          "cue": 54,
+          "start": "00:02:26,451",
+          "end": "00:02:28,251",
+          "text": "(speaker 1) like this but this is the fate for package oh."
+        }
+      ]
+    },
+    {
+      "path": "sources/The Wastes S1E072. Weekend at Toby's.parakeet.processed.srt",
+      "git_blob": "17526eec2079330ee3ca6407b76ad75fad1e5035",
+      "original_bytes": 231356,
+      "parsed_cues": 2535,
+      "last_cue_end": "02:46:17,470",
+      "timestamp_lines": 2535,
+      "candidates": []
+    },
+    {
+      "path": "sources/The Wastes S1E073. Slow Peter and Ice Boyfriends.parakeet.processed.srt",
+      "git_blob": "9e513700c9fb578203c4915a90717422cb4ab022",
+      "original_bytes": 241506,
+      "parsed_cues": 2629,
+      "last_cue_end": "02:40:00,130",
+      "timestamp_lines": 2629,
+      "candidates": []
+    },
+    {
+      "path": "sources/The Wastes S1E074. The Big Red One.parakeet.processed.srt",
+      "git_blob": "bcd9dc6c5e3e21769fbe9420fe3e498068476c8e",
+      "original_bytes": 299646,
+      "parsed_cues": 3302,
+      "last_cue_end": "03:12:21,220",
+      "timestamp_lines": 3302,
+      "candidates": [
+        {
+          "cue": 1754,
+          "start": "01:43:09,240",
+          "end": "01:43:12,721",
+          "text": "(speaker 0) informative yeah socks and and fuel like the"
+        },
+        {
+          "cue": 1755,
+          "start": "01:43:12,722",
+          "end": "01:43:19,930",
+          "text": "(speaker 0) kind we would use in our in the fate for i don't"
+        }
+      ]
+    },
+    {
+      "path": "sources/The Wastes S1E075. Fly me to the moon.parakeet.processed.srt",
+      "git_blob": "b4aced2614256c11703254000d9a85a655b80898",
+      "original_bytes": 254105,
+      "parsed_cues": 2817,
+      "last_cue_end": "02:52:11,450",
+      "timestamp_lines": 2817,
+      "candidates": []
+    },
+    {
+      "path": "sources/The Wastes S1E076. Potable Portable Portal.parakeet.processed.srt",
+      "git_blob": "99da1ffb719b54a8b67306c0b5e5041435d64e96",
+      "original_bytes": 254281,
+      "parsed_cues": 2788,
+      "last_cue_end": "02:53:37,820",
+      "timestamp_lines": 2788,
+      "candidates": [
+        {
+          "cue": 1740,
+          "start": "01:45:34,070",
+          "end": "01:45:35,510",
+          "text": "(speaker 4) fly back across hurry."
+        },
+        {
+          "cue": 1741,
+          "start": "01:45:37,925",
+          "end": "01:45:41,430",
+          "text": "(speaker 2) you go he goes at ten feet for per turn."
+        }
+      ]
+    },
+    {
+      "path": "sources/The Wastes S1E077. The Wall Nash.parakeet.processed.srt",
+      "git_blob": "9084487a683b2a4970824184dff3393bb3b44a42",
+      "original_bytes": 277249,
+      "parsed_cues": 2985,
+      "last_cue_end": "03:23:33,540",
+      "timestamp_lines": 2985,
+      "candidates": []
+    },
+    {
+      "path": "sources/The Wastes S1E078. Who will flay the Mind Flayers.parakeet.processed.srt",
+      "git_blob": "5158fb0cc16ac180163fdf7a9f9badcb25e29fc9",
+      "original_bytes": 305519,
+      "parsed_cues": 3360,
+      "last_cue_end": "03:21:08,410",
+      "timestamp_lines": 3360,
+      "candidates": []
+    },
+    {
+      "path": "sources/The Wastes S1E079. We go boom boom.parakeet.processed.srt",
+      "git_blob": "b92e21644a69c6e5963cd5450909f83d29972514",
+      "original_bytes": 249483,
+      "parsed_cues": 2781,
+      "last_cue_end": "02:38:44,400",
+      "timestamp_lines": 2781,
+      "candidates": []
+    },
+    {
+      "path": "sources/The Wastes S1E080. What's with the fire truck.parakeet.processed.srt",
+      "git_blob": "627430a47bf8388b4d6ebef8b088e33afe32dfd3",
+      "original_bytes": 219294,
+      "parsed_cues": 2441,
+      "last_cue_end": "02:33:01,160",
+      "timestamp_lines": 2441,
+      "candidates": []
+    },
+    {
+      "path": "sources/The Wastes S1E081. There's Always A Chance In Space.parakeet.processed.srt",
+      "git_blob": "befdca061284da1f5549dfdea7c69ede6b0acabd",
+      "original_bytes": 244791,
+      "parsed_cues": 2714,
+      "last_cue_end": "02:47:12,110",
+      "timestamp_lines": 2714,
+      "candidates": []
+    },
+    {
+      "path": "sources/The Wastes S1E082. Binch Better Have My Money.parakeet.processed.srt",
+      "git_blob": "fe6e2f1b3cf300c82d6c3c44e7acf41788dd3ea4",
+      "original_bytes": 204417,
+      "parsed_cues": 2247,
+      "last_cue_end": "02:33:57,820",
+      "timestamp_lines": 2247,
+      "candidates": []
+    },
+    {
+      "path": "sources/The Wastes S1E083. Trash Monkey and The Bird.parakeet.processed.srt",
+      "git_blob": "0a09d6693827e07e04d31846dd2ab30237a2f0d0",
+      "original_bytes": 238680,
+      "parsed_cues": 2630,
+      "last_cue_end": "02:59:35,660",
+      "timestamp_lines": 2630,
+      "candidates": []
+    },
+    {
+      "path": "sources/The Wastes S1E084. Select Your Champion.parakeet.processed.srt",
+      "git_blob": "b3d871076c990d69b7de3f6bc3535a8f4cd42acc",
+      "original_bytes": 254808,
+      "parsed_cues": 2765,
+      "last_cue_end": "02:52:22,330",
+      "timestamp_lines": 2765,
+      "candidates": []
+    },
+    {
+      "path": "sources/The Wastes S1E085. Always High Kick.parakeet.processed.srt",
+      "git_blob": "61b42251774b492cd1a766bc0d6252c041607ecb",
+      "original_bytes": 261914,
+      "parsed_cues": 2855,
+      "last_cue_end": "02:45:54,890",
+      "timestamp_lines": 2855,
+      "candidates": [
+        {
+          "cue": 1809,
+          "start": "01:45:30,950",
+          "end": "01:45:33,453",
+          "text": "(speaker 2) what is your improvised improvised weaponry"
+        },
+        {
+          "cue": 1810,
+          "start": "01:45:33,454",
+          "end": "01:45:35,134",
+          "text": "(speaker 2) do you have you don't have a feet for that."
+        }
+      ]
+    },
+    {
+      "path": "sources/The Wastes S1E086. Don't be such a Berk.parakeet.processed.srt",
+      "git_blob": "ad4b82d240fe860623e3460ce746ed16a4f271e5",
+      "original_bytes": 259112,
+      "parsed_cues": 2807,
+      "last_cue_end": "02:54:46,050",
+      "timestamp_lines": 2807,
+      "candidates": []
+    },
+    {
+      "path": "sources/The Wastes S1E087. We have a winner.parakeet.processed.srt",
+      "git_blob": "8855e1038fb746461570a54fdc683bba9cbc5b91",
+      "original_bytes": 266547,
+      "parsed_cues": 2899,
+      "last_cue_end": "02:55:51,880",
+      "timestamp_lines": 2899,
+      "candidates": []
+    },
+    {
+      "path": "sources/The Wastes S1E088. Shopping Day.parakeet.processed.srt",
+      "git_blob": "a111ab0cf71ae61c7bc3b495c2262053add114a8",
+      "original_bytes": 241832,
+      "parsed_cues": 2618,
+      "last_cue_end": "02:50:31,450",
+      "timestamp_lines": 2618,
+      "candidates": []
+    },
+    {
+      "path": "sources/The Wastes S1E089. It has an umbrella in it.parakeet.processed.srt",
+      "git_blob": "0d766222f65ec375c9d733ff5360abb5eb5c1432",
+      "original_bytes": 249105,
+      "parsed_cues": 2728,
+      "last_cue_end": "02:51:41,480",
+      "timestamp_lines": 2728,
+      "candidates": []
+    },
+    {
+      "path": "sources/The Wastes S1E090. The smell of strawberries and sadness.parakeet.processed.srt",
+      "git_blob": "4649ac77b9f9e36bb27bc7bf22fba13056c1277c",
+      "original_bytes": 245142,
+      "parsed_cues": 2650,
+      "last_cue_end": "02:49:50,140",
+      "timestamp_lines": 2650,
+      "candidates": []
+    },
+    {
+      "path": "sources/The Wastes S1E091. Going on a heist.parakeet.processed.srt",
+      "git_blob": "89fb07c07147bb4bf7f47dc4f893e45dd3ff535e",
+      "original_bytes": 229201,
+      "parsed_cues": 2506,
+      "last_cue_end": "02:46:29,490",
+      "timestamp_lines": 2506,
+      "candidates": [
+        {
+          "cue": 785,
+          "start": "00:49:02,640",
+          "end": "00:49:10,640",
+          "text": "(speaker 0) and then as a bonus action i am going to use the."
+        },
+        {
+          "cue": 786,
+          "start": "00:49:11,290",
+          "end": "00:49:16,240",
+          "text": "(speaker 0) feet for the mantle of inspiration give everybody"
+        },
+        {
+          "cue": 1185,
+          "start": "01:13:55,131",
+          "end": "01:13:57,771",
+          "text": "(speaker 2) five or sorry fifty to one hundred feet i had no idea was that far."
+        },
+        {
+          "cue": 1186,
+          "start": "01:13:57,865",
+          "end": "01:14:01,370",
+          "text": "(speaker 5) fifty feet for normal attack hundred feet with"
+        }
+      ]
+    },
+    {
+      "path": "sources/The Wastes S1E092. He's So Handsome.parakeet.processed.srt",
+      "git_blob": "d82d2c49864cc947727fe504a9cf425480db8a6e",
+      "original_bytes": 232357,
+      "parsed_cues": 2546,
+      "last_cue_end": "02:44:03,320",
+      "timestamp_lines": 2546,
+      "candidates": [
+        {
+          "cue": 249,
+          "start": "00:14:41,761",
+          "end": "00:14:45,360",
+          "text": "(speaker 2) these past few summers what are you saying i'm"
+        },
+        {
+          "cue": 250,
+          "start": "00:14:45,410",
+          "end": "00:14:48,240",
+          "text": "(speaker 2) fat for them they're sort of bickering about who's overweight now."
+        }
+      ]
+    },
+    {
+      "path": "sources/The Wastes S1E093. We're on a boat.parakeet.processed.srt",
+      "git_blob": "85eafa921d1facb2496ad5a6ead08cc3c3bdb0a8",
+      "original_bytes": 258720,
+      "parsed_cues": 2833,
+      "last_cue_end": "02:54:05,840",
+      "timestamp_lines": 2833,
+      "candidates": []
+    },
+    {
+      "path": "sources/The Wastes S1E094. Where did my ball go.parakeet.processed.srt",
+      "git_blob": "db9cc9e0ca0253d706f440f1ac6b0d2d3f516c81",
+      "original_bytes": 222334,
+      "parsed_cues": 2386,
+      "last_cue_end": "02:42:42,330",
+      "timestamp_lines": 2386,
+      "candidates": []
+    },
+    {
+      "path": "sources/The Wastes S1E095. A Cloudy Day.parakeet.processed.srt",
+      "git_blob": "22495619e316ec05bbab79b1f0c076c2a43323fc",
+      "original_bytes": 205066,
+      "parsed_cues": 2242,
+      "last_cue_end": "02:42:51,790",
+      "timestamp_lines": 2242,
+      "candidates": []
+    },
+    {
+      "path": "sources/The Wastes S1E096. You hold the soup.parakeet.processed.srt",
+      "git_blob": "b9394c0e52de3bee8febc3a36c64e7688bdea586",
+      "original_bytes": 225700,
+      "parsed_cues": 2437,
+      "last_cue_end": "02:44:05,070",
+      "timestamp_lines": 2437,
+      "candidates": []
+    },
+    {
+      "path": "sources/The Wastes S1E097. Walnut, go away..parakeet.processed.srt",
+      "git_blob": "0b65a4ff11d56e84d5eac7723af632c4e658ba6c",
+      "original_bytes": 225313,
+      "parsed_cues": 2494,
+      "last_cue_end": "02:37:51,730",
+      "timestamp_lines": 2494,
+      "candidates": []
+    },
+    {
+      "path": "sources/The Wastes S1E098. Roll for Arousal.parakeet.processed.srt",
+      "git_blob": "1ee9832193f1df5f20e60acdac0b57a47c0fb2b8",
+      "original_bytes": 256642,
+      "parsed_cues": 2782,
+      "last_cue_end": "02:51:08,359",
+      "timestamp_lines": 2782,
+      "candidates": [
+        {
+          "cue": 198,
+          "start": "00:12:28,950",
+          "end": "00:12:29,990",
+          "text": "(speaker 4) too convenient."
+        },
+        {
+          "cue": 199,
+          "start": "00:12:34,139",
+          "end": "00:12:37,830",
+          "text": "(speaker 3) well i have faith for the fact that pegasi are on"
+        }
+      ]
+    },
+    {
+      "path": "sources/The Wastes S1E099. Now We Have a Moon.parakeet.processed.srt",
+      "git_blob": "d2a4f91dcf43d48b0a1f4cd5196fbeafc7c7f740",
+      "original_bytes": 260195,
+      "parsed_cues": 2846,
+      "last_cue_end": "02:51:50,210",
+      "timestamp_lines": 2846,
+      "candidates": []
+    },
+    {
+      "path": "sources/The Wastes S1E100. Misty Brain Mist.parakeet.processed.srt",
+      "git_blob": "dbb6db29d1a0f2e3119644b21450e7f3a486ebc8",
+      "original_bytes": 328312,
+      "parsed_cues": 3584,
+      "last_cue_end": "03:29:43,460",
+      "timestamp_lines": 3584,
+      "candidates": [
+        {
+          "cue": 3219,
+          "start": "03:10:08,621",
+          "end": "03:10:11,500",
+          "text": "(speaker 3) reverse gravity they will move away from you at a"
+        },
+        {
+          "cue": 3220,
+          "start": "03:10:11,501",
+          "end": "03:10:16,277",
+          "text": "(speaker 3) speed of about sixty feet per second if i'm not or sixty feet for so."
+        }
+      ]
+    },
+    {
+      "path": "sources/The Wastes S1E101. A New Hope.parakeet.processed.srt",
+      "git_blob": "87254cc2b5ad2e3e0d2d1ec640c2f8fe0662c0b2",
+      "original_bytes": 254272,
+      "parsed_cues": 2736,
+      "last_cue_end": "02:49:58,210",
+      "timestamp_lines": 2736,
+      "candidates": []
+    },
+    {
+      "path": "sources/The Wastes S1E102. Who are these people.parakeet.processed.srt",
+      "git_blob": "bd5a1f73e05cd65537a577e4c692cffebf7f1a24",
+      "original_bytes": 250635,
+      "parsed_cues": 2697,
+      "last_cue_end": "02:48:05,510",
+      "timestamp_lines": 2697,
+      "candidates": []
+    },
+    {
+      "path": "sources/The Wastes S1E103. When in doubt, burn it.parakeet.processed.srt",
+      "git_blob": "e0005ca635cbb78cca98c73c1cbc713ea93be4d7",
+      "original_bytes": 242984,
+      "parsed_cues": 2639,
+      "last_cue_end": "02:44:12,950",
+      "timestamp_lines": 2639,
+      "candidates": [
+        {
+          "cue": 890,
+          "start": "00:55:36,001",
+          "end": "00:55:40,000",
+          "text": "(speaker 2) anyone can do a wield yeah okay so the thing is that dual you don't"
+        },
+        {
+          "cue": 891,
+          "start": "00:55:40,001",
+          "end": "00:55:43,081",
+          "text": "(speaker 2) really wasn't really worth dual wielding unless you have the feet for it right"
+        }
+      ]
+    },
+    {
+      "path": "sources/The Wastes S1E104. I Blew A Dragon For THIS.parakeet.processed.srt",
+      "git_blob": "9013cb396f6c6057ddb188d9eb5f408bbf7cf70e",
+      "original_bytes": 281308,
+      "parsed_cues": 3063,
+      "last_cue_end": "02:57:02,960",
+      "timestamp_lines": 3063,
+      "candidates": []
+    },
+    {
+      "path": "sources/The Wastes S1E105. The Fright Elevator.parakeet.processed.srt",
+      "git_blob": "ee2ea43688acc33c0fa1cf45da80f773727f24d8",
+      "original_bytes": 267050,
+      "parsed_cues": 2900,
+      "last_cue_end": "02:52:14,240",
+      "timestamp_lines": 2900,
+      "candidates": []
+    },
+    {
+      "path": "sources/The Wastes S1E106. I Took An Arrow Thru The Brain.parakeet.processed.srt",
+      "git_blob": "b85f0dae41fda18624cca4b7223e47f8cc741f99",
+      "original_bytes": 230789,
+      "parsed_cues": 2490,
+      "last_cue_end": "02:40:30,030",
+      "timestamp_lines": 2490,
+      "candidates": []
+    },
+    {
+      "path": "sources/The Wastes S1E107. The Handshaking Algorithm.parakeet.processed.srt",
+      "git_blob": "bf6a24eff095931668a76f092036a817ed680924",
+      "original_bytes": 242807,
+      "parsed_cues": 2577,
+      "last_cue_end": "02:52:03,510",
+      "timestamp_lines": 2577,
+      "candidates": []
+    },
+    {
+      "path": "sources/The Wastes S1E108. Save The Two.parakeet.processed.srt",
+      "git_blob": "b3ac250b5b347183bd76a783240d8026645b8043",
+      "original_bytes": 225213,
+      "parsed_cues": 2398,
+      "last_cue_end": "02:37:48,310",
+      "timestamp_lines": 2398,
+      "candidates": []
+    },
+    {
+      "path": "sources/The Wastes S1E109. Sand Jell-O.parakeet.processed.srt",
+      "git_blob": "37ec806ddca329de6813c08733d447ff6c3f0538",
+      "original_bytes": 216298,
+      "parsed_cues": 2335,
+      "last_cue_end": "02:43:00,650",
+      "timestamp_lines": 2335,
+      "candidates": []
+    },
+    {
+      "path": "sources/The Wastes S1E110. Do what the big head tells you.parakeet.processed.srt",
+      "git_blob": "46b10543833fb64625c4edc53a629ef1ff8eb8d3",
+      "original_bytes": 260814,
+      "parsed_cues": 2832,
+      "last_cue_end": "02:48:41,820",
+      "timestamp_lines": 2832,
+      "candidates": []
+    },
+    {
+      "path": "sources/The Wastes S1E111. Squirts Into The Night.parakeet.processed.srt",
+      "git_blob": "39b20010e948649f5826fe24a9c27e8efb014cea",
+      "original_bytes": 251875,
+      "parsed_cues": 2729,
+      "last_cue_end": "02:57:07,860",
+      "timestamp_lines": 2729,
+      "candidates": [
+        {
+          "cue": 1487,
+          "start": "01:33:48,651",
+          "end": "01:33:53,210",
+          "text": "(speaker 2) destruction there we moved past to the purple."
+        },
+        {
+          "cue": 1488,
+          "start": "01:33:58,140",
+          "end": "01:34:08,490",
+          "text": "(speaker 2) desert we found the fate four or in pieces and then we saw the rift explode."
+        },
+        {
+          "cue": 1961,
+          "start": "02:08:07,981",
+          "end": "02:08:11,820",
+          "text": "(speaker 2) his chair yet still your turn puts his hands on the on the side."
+        },
+        {
+          "cue": 1962,
+          "start": "02:08:13,070",
+          "end": "02:08:17,580",
+          "text": "(speaker 3) i will flame burst his feet for two damage okay."
+        },
+        {
+          "cue": 2012,
+          "start": "02:11:27,720",
+          "end": "02:11:29,880",
+          "text": "(speaker 2) ceiling words and so strong mess she's been."
+        },
+        {
+          "cue": 2013,
+          "start": "02:11:29,960",
+          "end": "02:11:32,440",
+          "text": "(speaker 0) concentrating on her feet for a long time so."
+        }
+      ]
+    },
+    {
+      "path": "sources/The Wastes S1E112. Flee, my fae wildlings!.parakeet.processed.srt",
+      "git_blob": "a00b0223ed73a5b6a7649d9153e93d0819052b2b",
+      "original_bytes": 250579,
+      "parsed_cues": 2687,
+      "last_cue_end": "02:56:01,140",
+      "timestamp_lines": 2687,
+      "candidates": []
+    },
+    {
+      "path": "sources/The Wastes S1E113. I Need To Smell Your Hand.parakeet.processed.srt",
+      "git_blob": "6dc7b4298c240c6dd88bafdd98a6fa9bbd20840d",
+      "original_bytes": 209909,
+      "parsed_cues": 2271,
+      "last_cue_end": "02:40:25,300",
+      "timestamp_lines": 2271,
+      "candidates": []
+    },
+    {
+      "path": "sources/The Wastes S1E114. I hope that's a baby.parakeet.processed.srt",
+      "git_blob": "d6fe7eca3b167afe2ab81bdd118326c24520d9ef",
+      "original_bytes": 236815,
+      "parsed_cues": 2542,
+      "last_cue_end": "02:42:02,720",
+      "timestamp_lines": 2542,
+      "candidates": []
+    },
+    {
+      "path": "sources/The Wastes S1E115. The Forest for The Trees.parakeet.processed.srt",
+      "git_blob": "12065429d80f5bbada767e363723ef6608701577",
+      "original_bytes": 251297,
+      "parsed_cues": 2691,
+      "last_cue_end": "03:04:21,680",
+      "timestamp_lines": 2691,
+      "candidates": []
+    },
+    {
+      "path": "sources/The Wastes S1E116. Large Spectral Pile Of Babies.parakeet.processed.srt",
+      "git_blob": "c432bd2c106af54538944945704988c63c851913",
+      "original_bytes": 248932,
+      "parsed_cues": 2719,
+      "last_cue_end": "02:48:09,210",
+      "timestamp_lines": 2719,
+      "candidates": []
+    },
+    {
+      "path": "sources/The Wastes S1E117. The Fireside Stories.parakeet.processed.srt",
+      "git_blob": "f3efb8378158ca67d527725e48bb3c822122dda6",
+      "original_bytes": 213887,
+      "parsed_cues": 2288,
+      "last_cue_end": "02:48:20,020",
+      "timestamp_lines": 2288,
+      "candidates": []
+    },
+    {
+      "path": "sources/The Wastes S1E118. The Key.parakeet.processed.srt",
+      "git_blob": "4d518c0342c53f89aed56760623245fc9a9da2a0",
+      "original_bytes": 197870,
+      "parsed_cues": 2104,
+      "last_cue_end": "02:19:49,760",
+      "timestamp_lines": 2104,
+      "candidates": []
+    },
+    {
+      "path": "sources/The Wastes S1E119. Put Out The Fish Fire.parakeet.processed.srt",
+      "git_blob": "916834126bf80b748c063c0dc4056f1764f60966",
+      "original_bytes": 249626,
+      "parsed_cues": 2690,
+      "last_cue_end": "02:47:48,900",
+      "timestamp_lines": 2690,
+      "candidates": [
+        {
+          "cue": 947,
+          "start": "00:59:32,631",
+          "end": "00:59:34,710",
+          "text": "(speaker 2) is standing in a circle around the tub washing."
+        },
+        {
+          "cue": 948,
+          "start": "00:59:36,610",
+          "end": "00:59:42,390",
+          "text": "(speaker 2) you now where is this fat for washing elf lady do you have fat."
+        },
+        {
+          "cue": 949,
+          "start": "00:59:44,819",
+          "end": "00:59:46,870",
+          "text": "(speaker 1) i cook with it all the time yes."
+        },
+        {
+          "cue": 950,
+          "start": "00:59:47,834",
+          "end": "00:59:49,910",
+          "text": "(speaker 2) fat for cleaning not for cooking."
+        }
+      ]
+    },
+    {
+      "path": "sources/The Wastes S1E120. Fly Like An Eagle.parakeet.processed.srt",
+      "git_blob": "ea89392445e4f61d1e30f51772df5e1cbb979229",
+      "original_bytes": 262657,
+      "parsed_cues": 2817,
+      "last_cue_end": "02:45:12,020",
+      "timestamp_lines": 2817,
+      "candidates": []
+    },
+    {
+      "path": "sources/The Wastes S1E121. The Heart of The Matter.parakeet.processed.srt",
+      "git_blob": "1bcb14bf0a3e8d485dfba832b5c8038e744f39cc",
+      "original_bytes": 247123,
+      "parsed_cues": 2645,
+      "last_cue_end": "02:52:19,630",
+      "timestamp_lines": 2645,
+      "candidates": []
+    },
+    {
+      "path": "sources/The Wastes S1E122. That's Ghost Water.parakeet.processed.srt",
+      "git_blob": "c53b521235d7e82bd482de7777a549604a4e6f56",
+      "original_bytes": 235652,
+      "parsed_cues": 2527,
+      "last_cue_end": "02:40:10,050",
+      "timestamp_lines": 2527,
+      "candidates": []
+    },
+    {
+      "path": "sources/The Wastes S1E123. No Floating Forks.parakeet.processed.srt",
+      "git_blob": "95ce1722ee525292c9ae8584e3bdc26a2f6934ff",
+      "original_bytes": 244906,
+      "parsed_cues": 2621,
+      "last_cue_end": "02:49:20,370",
+      "timestamp_lines": 2621,
+      "candidates": []
+    },
+    {
+      "path": "sources/The Wastes S1E124. Bow To The Fish Bird.parakeet.processed.srt",
+      "git_blob": "e31f33818a61bac5b5020054c4f822504b6041d3",
+      "original_bytes": 190636,
+      "parsed_cues": 2033,
+      "last_cue_end": "02:28:52,120",
+      "timestamp_lines": 2033,
+      "candidates": [
+        {
+          "cue": 1197,
+          "start": "01:29:01,191",
+          "end": "01:29:09,430",
+          "text": "(speaker 0) folk and i forgot sorry sorry everybody i forgot he's not with us anymore oh yes feet"
+        },
+        {
+          "cue": 1198,
+          "start": "01:29:09,910",
+          "end": "01:29:17,350",
+          "text": "(speaker 0) yeah his feet for hot and i spaced him all."
+        }
+      ]
+    },
+    {
+      "path": "sources/The Wastes S1E125. A Case of Malpractice.parakeet.processed.srt",
+      "git_blob": "54eab57a0ed497d90f28bee7f62a3e9d4dc83872",
+      "original_bytes": 236341,
+      "parsed_cues": 2527,
+      "last_cue_end": "02:34:08,740",
+      "timestamp_lines": 2527,
+      "candidates": [
+        {
+          "cue": 2047,
+          "start": "02:05:05,790",
+          "end": "02:05:10,030",
+          "text": "(speaker 3) Stanley's driving Stanley's gonna drive he's seen hope do it"
+        },
+        {
+          "cue": 2048,
+          "start": "02:05:10,230",
+          "end": "02:05:12,830",
+          "text": "(speaker 3) he kind of learned how to drive the fate for and"
+        }
+      ]
+    },
+    {
+      "path": "sources/The Wastes S1E126. Musical Shredding Damage.parakeet.processed.srt",
+      "git_blob": "b422fe6ed51d2f5c81e6edcb260fdd80631d00a4",
+      "original_bytes": 253387,
+      "parsed_cues": 2704,
+      "last_cue_end": "02:44:10,080",
+      "timestamp_lines": 2704,
+      "candidates": []
+    },
+    {
+      "path": "sources/The Wastes S1E127. Spider Claws.parakeet.processed.srt",
+      "git_blob": "451d6cfccd523877c1f0faaa638a65b3efed3074",
+      "original_bytes": 227870,
+      "parsed_cues": 2454,
+      "last_cue_end": "02:54:06,700",
+      "timestamp_lines": 2454,
+      "candidates": []
+    },
+    {
+      "path": "sources/The Wastes S1E128. Burrow.parakeet.processed.srt",
+      "git_blob": "47ef0915b6afc5d4258ff08eae59917c564b3f8a",
+      "original_bytes": 183641,
+      "parsed_cues": 1958,
+      "last_cue_end": "02:14:47,760",
+      "timestamp_lines": 1958,
+      "candidates": []
+    },
+    {
+      "path": "sources/The Wastes S2E01. Nash We'll Get One From Space..parakeet.processed.srt",
+      "git_blob": "a28ef57ca4ef4e406daae889eb63963595cdf220",
+      "original_bytes": 214512,
+      "parsed_cues": 2292,
+      "last_cue_end": "02:37:24,900",
+      "timestamp_lines": 2292,
+      "candidates": [
+        {
+          "cue": 1738,
+          "start": "02:01:52,621",
+          "end": "02:01:57,900",
+          "text": "(speaker 1) he has his hands up he seems he's occupied with the incantation so it's back to hope."
+        },
+        {
+          "cue": 1739,
+          "start": "02:01:59,900",
+          "end": "02:02:02,060",
+          "text": "(speaker 3) right i'm being told about a monster truck right"
+        },
+        {
+          "cue": 1740,
+          "start": "02:02:02,061",
+          "end": "02:02:04,220",
+          "text": "(speaker 3) now so if you guys hear something cool like"
+        },
+        {
+          "cue": 1741,
+          "start": "02:02:04,380",
+          "end": "02:02:06,220",
+          "text": "(speaker 3) monster trucks jumping or something."
+        },
+        {
+          "cue": 1743,
+          "start": "02:02:08,460",
+          "end": "02:02:09,580",
+          "text": "(speaker 3) yeah you just hear him."
+        },
+        {
+          "cue": 1744,
+          "start": "02:02:10,780",
+          "end": "02:02:12,300",
+          "text": "(speaker 5) monster trucks in the way."
+        },
+        {
+          "cue": 2287,
+          "start": "02:36:49,001",
+          "end": "02:36:51,860",
+          "text": "(speaker 0) the ways everybody for both for me for John for"
+        },
+        {
+          "cue": 2288,
+          "start": "02:36:51,861",
+          "end": "02:36:55,060",
+          "text": "(speaker 0) Kristen for Kyle and for monster truck spirits"
+        }
+      ]
+    },
+    {
+      "path": "sources/The Wastes S2E02. This Is Space, It's Very Very Big!.parakeet.processed.srt",
+      "git_blob": "bfe1d739f763bd8394889b4ef85927af483355b0",
+      "original_bytes": 215003,
+      "parsed_cues": 2271,
+      "last_cue_end": "02:33:26,521",
+      "timestamp_lines": 2271,
+      "candidates": [
+        {
+          "cue": 1282,
+          "start": "01:27:52,330",
+          "end": "01:27:55,770",
+          "text": "(speaker 3) traveling and we we traveled in avehicle called"
+        },
+        {
+          "cue": 1283,
+          "start": "01:27:55,771",
+          "end": "01:28:03,530",
+          "text": "(speaker 3) the fate four but now we carry the hopes of our"
+        }
+      ]
+    },
+    {
+      "path": "sources/The Wastes S2E03. Enemy Mine.parakeet.processed.srt",
+      "git_blob": "ae29cdbebe60c34eef421f52c8aba467e50a08b6",
+      "original_bytes": 206240,
+      "parsed_cues": 2193,
+      "last_cue_end": "02:24:58,920",
+      "timestamp_lines": 2193,
+      "candidates": []
+    },
+    {
+      "path": "sources/The Wastes S2E04. Captain Confusion.parakeet.processed.srt",
+      "git_blob": "fe022677db35fed14b93737ac07f7b0ac8470004",
+      "original_bytes": 257088,
+      "parsed_cues": 2749,
+      "last_cue_end": "02:45:55,549",
+      "timestamp_lines": 2749,
+      "candidates": []
+    },
+    {
+      "path": "sources/The Wastes S2E05. That's What The Blob Said.parakeet.processed.srt",
+      "git_blob": "66067b1437263c12266748a91c39ee065e74e581",
+      "original_bytes": 235080,
+      "parsed_cues": 2510,
+      "last_cue_end": "02:39:45,730",
+      "timestamp_lines": 2510,
+      "candidates": []
+    },
+    {
+      "path": "sources/The Wastes S2E06. Schrödinger's Nash.parakeet.processed.srt",
+      "git_blob": "7a209ba83fd9489af0554fe119537079b5a13d2c",
+      "original_bytes": 267808,
+      "parsed_cues": 2873,
+      "last_cue_end": "02:49:18,720",
+      "timestamp_lines": 2873,
+      "candidates": []
+    },
+    {
+      "path": "sources/The Wastes S2E07. Brace for Impact.parakeet.processed.srt",
+      "git_blob": "b80b3ea88a011416203a7464ff936cc2d63e1e36",
+      "original_bytes": 240858,
+      "parsed_cues": 2602,
+      "last_cue_end": "02:40:33,460",
+      "timestamp_lines": 2602,
+      "candidates": []
+    },
+    {
+      "path": "sources/The Wastes S2E08. No Magic Allowed.parakeet.processed.srt",
+      "git_blob": "50c82ed1bd90e61b9c0d31107c039d83a86c9c3c",
+      "original_bytes": 247385,
+      "parsed_cues": 2666,
+      "last_cue_end": "02:43:51,420",
+      "timestamp_lines": 2666,
+      "candidates": []
+    },
+    {
+      "path": "sources/The Wastes S2E09. The Call of Meats is Strong.parakeet.processed.srt",
+      "git_blob": "4c03ea4188f370914d72ce1c151fd30499ae2d21",
+      "original_bytes": 212679,
+      "parsed_cues": 2300,
+      "last_cue_end": "02:23:18,030",
+      "timestamp_lines": 2300,
+      "candidates": []
+    },
+    {
+      "path": "sources/The Wastes S2E10. Big Mouthful of Carpet.parakeet.processed.srt",
+      "git_blob": "533a0ff4e5249187879e514881236f89f9a0d67d",
+      "original_bytes": 233836,
+      "parsed_cues": 2522,
+      "last_cue_end": "02:31:17,870",
+      "timestamp_lines": 2522,
+      "candidates": []
+    },
+    {
+      "path": "sources/The Wastes S2E11. Flesh Sauce.parakeet.processed.srt",
+      "git_blob": "cb3b41861d514f7effb0fd141c6f51f8c3652d75",
+      "original_bytes": 205266,
+      "parsed_cues": 2211,
+      "last_cue_end": "02:28:23,230",
+      "timestamp_lines": 2211,
+      "candidates": [
+        {
+          "cue": 1237,
+          "start": "01:22:51,735",
+          "end": "01:22:54,240",
+          "text": "(speaker 5) maybe not that far but it could be hundreds of"
+        },
+        {
+          "cue": 1238,
+          "start": "01:22:54,415",
+          "end": "01:22:56,240",
+          "text": "(speaker 5) feet for all you know in this strange place."
+        }
+      ]
+    },
+    {
+      "path": "sources/The Wastes S2E12. Dust to Dust.parakeet.processed.srt",
+      "git_blob": "a64c13755841dc2bfa0eb68c2ec1e55e7d5ef996",
+      "original_bytes": 205578,
+      "parsed_cues": 2222,
+      "last_cue_end": "02:29:51,220",
+      "timestamp_lines": 2222,
+      "candidates": []
+    },
+    {
+      "path": "sources/The Wastes S3E01. Fly, Fools!.parakeet.processed.srt",
+      "git_blob": "50135153d38f63868b3925ad57d29a7995600821",
+      "original_bytes": 247074,
+      "parsed_cues": 2714,
+      "last_cue_end": "02:38:23,640",
+      "timestamp_lines": 2714,
+      "candidates": []
+    },
+    {
+      "path": "sources/The Wastes S3E019. The Wastes Round Up.parakeet.processed.srt",
+      "git_blob": "bb5ea80e2b4112a4932ca072cace8b5979c9e360",
+      "original_bytes": 236029,
+      "parsed_cues": 2541,
+      "last_cue_end": "02:10:08,770",
+      "timestamp_lines": 2541,
+      "candidates": [
+        {
+          "cue": 1921,
+          "start": "01:38:11,000",
+          "end": "01:38:15,570",
+          "text": "(speaker 3) would eventually develop that you would train him to be good but anyways."
+        },
+        {
+          "cue": 1922,
+          "start": "01:38:16,130",
+          "end": "01:38:19,250",
+          "text": "(speaker 4) that he tried to steal he stole the the fate for."
+        },
+        {
+          "cue": 2443,
+          "start": "02:04:52,265",
+          "end": "02:04:54,730",
+          "text": "(speaker 3) some void space in the far realm as far as you."
+        },
+        {
+          "cue": 2444,
+          "start": "02:04:56,280",
+          "end": "02:04:58,570",
+          "text": "(speaker 3) know kind of a sad fate for chance."
+        }
+      ]
+    },
+    {
+      "path": "sources/The Wastes S3E02. A New Mouth to Feed.parakeet.processed.srt",
+      "git_blob": "7d40a0aebb6f730d48808be80aa5bb697b295092",
+      "original_bytes": 242443,
+      "parsed_cues": 2610,
+      "last_cue_end": "02:41:59,060",
+      "timestamp_lines": 2610,
+      "candidates": []
+    },
+    {
+      "path": "sources/The Wastes S3E03. Hammer Giggle.parakeet.processed.srt",
+      "git_blob": "2aa783392e9db09f5df16835a421296a0fd7d8c2",
+      "original_bytes": 244118,
+      "parsed_cues": 2598,
+      "last_cue_end": "02:43:31,960",
+      "timestamp_lines": 2598,
+      "candidates": []
+    },
+    {
+      "path": "sources/The Wastes S3E04. The Plan.parakeet.processed.srt",
+      "git_blob": "3e6a568895ed9f11f48564bce198b6ea1a501f36",
+      "original_bytes": 236807,
+      "parsed_cues": 2505,
+      "last_cue_end": "02:41:16,630",
+      "timestamp_lines": 2505,
+      "candidates": []
+    },
+    {
+      "path": "sources/The Wastes S3E05. The Attack.parakeet.processed.srt",
+      "git_blob": "9cb4e7fd6b314ac9c50539f7dabe29023515bec1",
+      "original_bytes": 227316,
+      "parsed_cues": 2398,
+      "last_cue_end": "02:31:29,411",
+      "timestamp_lines": 2398,
+      "candidates": []
+    },
+    {
+      "path": "sources/The Wastes S3E06. Bring In The Ape.parakeet.processed.srt",
+      "git_blob": "3c263f3c5ef674d4d99d1db3cd71f59c103e4e9e",
+      "original_bytes": 228743,
+      "parsed_cues": 2462,
+      "last_cue_end": "02:28:00,720",
+      "timestamp_lines": 2462,
+      "candidates": [
+        {
+          "cue": 243,
+          "start": "00:14:38,351",
+          "end": "00:14:41,310",
+          "text": "(speaker 4) range on the attack let me just double check that"
+        },
+        {
+          "cue": 244,
+          "start": "00:14:41,311",
+          "end": "00:14:48,510",
+          "text": "(speaker 4) to be sure yes fifty feet for the throw so oh i'm"
+        }
+      ]
+    },
+    {
+      "path": "sources/The Wastes S3E07. Dragon on Dragon Action.parakeet.processed.srt",
+      "git_blob": "caff8c44e393e2aa241ee8024bf40e608fc8ca02",
+      "original_bytes": 220570,
+      "parsed_cues": 2371,
+      "last_cue_end": "02:21:21,230",
+      "timestamp_lines": 2371,
+      "candidates": []
+    },
+    {
+      "path": "sources/The Wastes S3E08. Electric Lizard.parakeet.processed.srt",
+      "git_blob": "ddcce6dc977aa5cd0459521c2e422f0964464744",
+      "original_bytes": 226658,
+      "parsed_cues": 2449,
+      "last_cue_end": "02:30:44,890",
+      "timestamp_lines": 2449,
+      "candidates": [
+        {
+          "cue": 2053,
+          "start": "02:06:45,140",
+          "end": "02:06:49,662",
+          "text": "(speaker 4) god I've seen but I've slain small gods and"
+        },
+        {
+          "cue": 2054,
+          "start": "02:06:49,663",
+          "end": "02:06:56,500",
+          "text": "(speaker 4) large gods and you shall meet their fate for."
+        },
+        {
+          "cue": 2055,
+          "start": "02:06:56,660",
+          "end": "02:06:57,660",
+          "text": "(speaker 0) fate for fate."
+        }
+      ]
+    },
+    {
+      "path": "sources/The Wastes S3E09. Tank Boy.parakeet.processed.srt",
+      "git_blob": "35e98cd69fd2fa203c5da7486c130f420f341ed3",
+      "original_bytes": 227246,
+      "parsed_cues": 2436,
+      "last_cue_end": "02:42:04,900",
+      "timestamp_lines": 2436,
+      "candidates": []
+    },
+    {
+      "path": "sources/The Wastes S3E10. Stomping Grounds.parakeet.processed.srt",
+      "git_blob": "9cf9317272881f47a7fa583f98da70bfed27fa17",
+      "original_bytes": 218893,
+      "parsed_cues": 2351,
+      "last_cue_end": "02:32:19,670",
+      "timestamp_lines": 2351,
+      "candidates": []
+    },
+    {
+      "path": "sources/The Wastes S3E11. Two Wrongs.parakeet.processed.srt",
+      "git_blob": "94c3cda6d6d222e8eabf0ad09f5da9a173b6c7d1",
+      "original_bytes": 182015,
+      "parsed_cues": 1931,
+      "last_cue_end": "02:29:43,640",
+      "timestamp_lines": 1931,
+      "candidates": []
+    },
+    {
+      "path": "sources/The Wastes S3E12. Too Many of Them.parakeet.processed.srt",
+      "git_blob": "6619faf7609a894b9485b5a4a54391515676002c",
+      "original_bytes": 263989,
+      "parsed_cues": 2829,
+      "last_cue_end": "02:51:33,420",
+      "timestamp_lines": 2829,
+      "candidates": [
+        {
+          "cue": 1359,
+          "start": "01:19:53,051",
+          "end": "01:19:55,370",
+          "text": "(speaker 2) know there's like sort of rock upon your chest"
+        },
+        {
+          "cue": 1360,
+          "start": "01:19:55,371",
+          "end": "01:19:58,090",
+          "text": "(speaker 2) rock upon your arms and feet for all three of you."
+        }
+      ]
+    },
+    {
+      "path": "sources/The Wastes S3E13. You stole my heart.parakeet.processed.srt",
+      "git_blob": "36a046b537356c8bdcd3b3922940b8b23e78791b",
+      "original_bytes": 218216,
+      "parsed_cues": 2334,
+      "last_cue_end": "02:35:36,740",
+      "timestamp_lines": 2334,
+      "candidates": []
+    },
+    {
+      "path": "sources/The Wastes S3E14. Sit and Hum.parakeet.processed.srt",
+      "git_blob": "2a180074c5cb1e2b66d90d8933cd8961318f1c84",
+      "original_bytes": 199819,
+      "parsed_cues": 2130,
+      "last_cue_end": "02:21:17,220",
+      "timestamp_lines": 2130,
+      "candidates": [
+        {
+          "cue": 1055,
+          "start": "01:11:14,980",
+          "end": "01:11:17,950",
+          "text": "(speaker 3) with many levels that could be taken away."
+        },
+        {
+          "cue": 1056,
+          "start": "01:11:18,780",
+          "end": "01:11:21,510",
+          "text": "(speaker 3) i assume your hands and feet for instance are"
+        }
+      ]
+    },
+    {
+      "path": "sources/The Wastes S3E15. Taking Down The Big T.parakeet.processed.srt",
+      "git_blob": "f7648206192e6fd20d331d3e5b58bcfcc259ac81",
+      "original_bytes": 212819,
+      "parsed_cues": 2268,
+      "last_cue_end": "02:18:40,379",
+      "timestamp_lines": 2268,
+      "candidates": []
+    },
+    {
+      "path": "sources/The Wastes S3E16. River of Chrome.parakeet.processed.srt",
+      "git_blob": "4fbdc7888ffc1fdec2dad96fa184461b43bca0f1",
+      "original_bytes": 255677,
+      "parsed_cues": 2787,
+      "last_cue_end": "02:42:17,010",
+      "timestamp_lines": 2787,
+      "candidates": []
+    },
+    {
+      "path": "sources/The Wastes S3E17. Grand Dad Issues.parakeet.processed.srt",
+      "git_blob": "345bbdc50871dcf73beec182b3f0eced5f0c51c5",
+      "original_bytes": 262749,
+      "parsed_cues": 2846,
+      "last_cue_end": "02:49:57,380",
+      "timestamp_lines": 2846,
+      "candidates": []
+    },
+    {
+      "path": "sources/The Wastes S3E18. Chrome, Chrome on The Range.parakeet.processed.srt",
+      "git_blob": "04f9e2bec57e21a5b229357d55ffc8bf5ba76f63",
+      "original_bytes": 213092,
+      "parsed_cues": 2304,
+      "last_cue_end": "02:30:11,020",
+      "timestamp_lines": 2304,
+      "candidates": []
+    }
+  ],
+  "secondary_sources": [
+    {
+      "path": "sources/The Wastes S1E001. The Campaign Begins!.qwen-q8.canary-ctc.nemotron.srt",
+      "git_blob": "b5aa008fafc822a2d4f2d3fdb8f422be636e2993",
+      "original_bytes": 445778,
+      "parsed_cues": 5869,
+      "last_cue_end": "03:03:33,200",
+      "review": "Only windows listed below are semantically reviewed; retrieval alone is not review"
+    },
+    {
+      "path": "sources/The Wastes S1E006. Start your engines!.qwen-q8.canary-ctc.nemotron.srt",
+      "git_blob": "bc4644e0b9657254dbb87aeef26e6452d658ee5f",
+      "original_bytes": 404495,
+      "parsed_cues": 5279,
+      "last_cue_end": "03:11:48,420",
+      "review": "Only windows listed below are semantically reviewed; retrieval alone is not review"
+    },
+    {
+      "path": "sources/The Wastes S1E007. Bok Bok Keeping It Fresh.qwen-q8.canary-ctc.nemotron.srt",
+      "git_blob": "bc3ca082f816c089c75862c3f78d7fa37b816541",
+      "original_bytes": 320576,
+      "parsed_cues": 4251,
+      "last_cue_end": "02:21:15,740",
+      "review": "Only windows listed below are semantically reviewed; retrieval alone is not review"
+    },
+    {
+      "path": "sources/The Wastes S1E010. Shackles.qwen-q8.canary-ctc.nemotron.srt",
+      "git_blob": "05c39c807b045ca8d26fa9f45a6be93200e0fbb8",
+      "original_bytes": 458344,
+      "parsed_cues": 6152,
+      "last_cue_end": "03:22:07,020",
+      "review": "Only windows listed below are semantically reviewed; retrieval alone is not review"
+    },
+    {
+      "path": "sources/The Wastes S1E026. The Hunt.qwen-q8.canary-ctc.nemotron.srt",
+      "git_blob": "004fbd54dc8ce2febd521b152c6f815c1061fef7",
+      "original_bytes": 376360,
+      "parsed_cues": 4921,
+      "last_cue_end": "03:07:01,740",
+      "review": "Only windows listed below are semantically reviewed; retrieval alone is not review"
+    },
+    {
+      "path": "sources/The Wastes S1E027. Lizard Party.qwen-q8.canary-ctc.nemotron.srt",
+      "git_blob": "30b4efb1da791cfc9aac2861cd2f5c3a59e46a27",
+      "original_bytes": 366118,
+      "parsed_cues": 4903,
+      "last_cue_end": "02:50:28,420",
+      "review": "Only windows listed below are semantically reviewed; retrieval alone is not review"
+    },
+    {
+      "path": "sources/The Wastes S1E028. It's A Cat Person!.qwen-q8.canary-ctc.nemotron.srt",
+      "git_blob": "d5bf3e9b96b1f2fcd0833aa6f98fd538dddcaebd",
+      "original_bytes": 379420,
+      "parsed_cues": 4999,
+      "last_cue_end": "02:56:35,800",
+      "review": "Only windows listed below are semantically reviewed; retrieval alone is not review"
+    },
+    {
+      "path": "sources/The Wastes S1E057. The Royal Truckery.qwen-q8.canary-ctc.nemotron.srt",
+      "git_blob": "57402fabc52829cd03460a8fc441d1fab6427ca3",
+      "original_bytes": 346868,
+      "parsed_cues": 4614,
+      "last_cue_end": "02:47:32,800",
+      "review": "Only windows listed below are semantically reviewed; retrieval alone is not review"
+    },
+    {
+      "path": "sources/The Wastes S1E059. Paradise of Mans.qwen-q8.canary-ctc.nemotron.srt",
+      "git_blob": "a5622a93a0e493de7cbd2d5c3db586007bbd8181",
+      "original_bytes": 307434,
+      "parsed_cues": 4030,
+      "last_cue_end": "02:49:16,560",
+      "review": "Only windows listed below are semantically reviewed; retrieval alone is not review"
+    },
+    {
+      "path": "sources/The Wastes S1E064. Mount Up and Ride.qwen-q8.canary-ctc.nemotron.srt",
+      "git_blob": "dee5590af2d1bcfa9fd9cc2eee9edc53a154af01",
+      "original_bytes": 352799,
+      "parsed_cues": 4688,
+      "last_cue_end": "02:59:45,240",
+      "review": "Only windows listed below are semantically reviewed; retrieval alone is not review"
+    },
+    {
+      "path": "sources/The Wastes S1E065. Under the Dome.qwen-q8.canary-ctc.nemotron.srt",
+      "git_blob": "6b4daf5b5796e267a6d9e93282f0b79507497149",
+      "original_bytes": 317885,
+      "parsed_cues": 4264,
+      "last_cue_end": "02:40:01,460",
+      "review": "Only windows listed below are semantically reviewed; retrieval alone is not review"
+    },
+    {
+      "path": "sources/The Wastes S1E066. The Eyes Have It.qwen-q8.canary-ctc.nemotron.srt",
+      "git_blob": "0731d48f177b1c5b9f931a98bd51b761af9d5eeb",
+      "original_bytes": 297788,
+      "parsed_cues": 4004,
+      "last_cue_end": "02:33:37,520",
+      "review": "Only windows listed below are semantically reviewed; retrieval alone is not review"
+    }
+  ],
+  "reviewed_windows": [
+    {
+      "key": "The Wastes S1E001. The Campaign Begins!.parakeet.processed.srt|00:16:30-00:19:00",
+      "file": "sources/The Wastes S1E001. The Campaign Begins!.parakeet.processed.srt",
+      "gitBlob": "477c61e0f41bc2f9592ef3e882cd994214f5dcd8",
+      "start": "00:16:30",
+      "end": "00:19:00",
+      "firstCue": 417,
+      "lastCue": 482
+    },
+    {
+      "key": "The Wastes S1E005. Goblincide.parakeet.processed.srt|02:08:30-02:11:00",
+      "file": "sources/The Wastes S1E005. Goblincide.parakeet.processed.srt",
+      "gitBlob": "a8e99c464d4d350d576d79286b814f328edadae6",
+      "start": "02:08:30",
+      "end": "02:11:00",
+      "firstCue": 3137,
+      "lastCue": 3205
+    },
+    {
+      "key": "The Wastes S1E006. Start your engines!.parakeet.processed.srt|02:30:45-02:43:00",
+      "file": "sources/The Wastes S1E006. Start your engines!.parakeet.processed.srt",
+      "gitBlob": "8e4cd1979218ac6d532e7903456a125169e7ae54",
+      "start": "02:30:45",
+      "end": "02:43:00",
+      "firstCue": 3385,
+      "lastCue": 3694
+    },
+    {
+      "key": "The Wastes S1E007. Bok Bok Keeping It Fresh.parakeet.processed.srt|00:27:30-00:30:30",
+      "file": "sources/The Wastes S1E007. Bok Bok Keeping It Fresh.parakeet.processed.srt",
+      "gitBlob": "499066d3f9347d18e2c4d93bddd92073cccc0491",
+      "start": "00:27:30",
+      "end": "00:30:30",
+      "firstCue": 641,
+      "lastCue": 717
+    },
+    {
+      "key": "The Wastes S1E007. Bok Bok Keeping It Fresh.parakeet.processed.srt|01:14:45-01:22:00",
+      "file": "sources/The Wastes S1E007. Bok Bok Keeping It Fresh.parakeet.processed.srt",
+      "gitBlob": "499066d3f9347d18e2c4d93bddd92073cccc0491",
+      "start": "01:14:45",
+      "end": "01:22:00",
+      "firstCue": 1857,
+      "lastCue": 2062
+    },
+    {
+      "key": "The Wastes S1E010. Shackles.parakeet.processed.srt|00:25:45-00:28:00",
+      "file": "sources/The Wastes S1E010. Shackles.parakeet.processed.srt",
+      "gitBlob": "b1995a8e7ce5a335a3eb32d2cfdd2485089522f8",
+      "start": "00:25:45",
+      "end": "00:28:00",
+      "firstCue": 588,
+      "lastCue": 649
+    },
+    {
+      "key": "The Wastes S1E010. Shackles.parakeet.processed.srt|00:44:15-00:47:10",
+      "file": "sources/The Wastes S1E010. Shackles.parakeet.processed.srt",
+      "gitBlob": "b1995a8e7ce5a335a3eb32d2cfdd2485089522f8",
+      "start": "00:44:15",
+      "end": "00:47:10",
+      "firstCue": 1064,
+      "lastCue": 1140
+    },
+    {
+      "key": "The Wastes S1E010. Shackles.parakeet.processed.srt|01:05:55-01:11:30",
+      "file": "sources/The Wastes S1E010. Shackles.parakeet.processed.srt",
+      "gitBlob": "b1995a8e7ce5a335a3eb32d2cfdd2485089522f8",
+      "start": "01:05:55",
+      "end": "01:11:30",
+      "firstCue": 1675,
+      "lastCue": 1815
+    },
+    {
+      "key": "The Wastes S1E011. Kick me as hard as you can.parakeet.processed.srt|00:39:15-00:44:00",
+      "file": "sources/The Wastes S1E011. Kick me as hard as you can.parakeet.processed.srt",
+      "gitBlob": "dea18e73b8b60cf089fa00ecc5aa0a7657653dea",
+      "start": "00:39:15",
+      "end": "00:44:00",
+      "firstCue": 944,
+      "lastCue": 1065
+    },
+    {
+      "key": "The Wastes S1E017. Fire in the hole!.parakeet.processed.srt|02:42:45-02:46:00",
+      "file": "sources/The Wastes S1E017. Fire in the hole!.parakeet.processed.srt",
+      "gitBlob": "583c5354c979c983f0a954dbc1b92d5e18693058",
+      "start": "02:42:45",
+      "end": "02:46:00",
+      "firstCue": 4239,
+      "lastCue": 4324
+    },
+    {
+      "key": "The Wastes S1E026. The Hunt.parakeet.processed.srt|00:08:45-00:14:15",
+      "file": "sources/The Wastes S1E026. The Hunt.parakeet.processed.srt",
+      "gitBlob": "86080c5a254f610c9f100c761e9fffbf05850958",
+      "start": "00:08:45",
+      "end": "00:14:15",
+      "firstCue": 164,
+      "lastCue": 257
+    },
+    {
+      "key": "The Wastes S1E026. The Hunt.parakeet.processed.srt|00:41:40-00:45:15",
+      "file": "sources/The Wastes S1E026. The Hunt.parakeet.processed.srt",
+      "gitBlob": "86080c5a254f610c9f100c761e9fffbf05850958",
+      "start": "00:41:40",
+      "end": "00:45:15",
+      "firstCue": 696,
+      "lastCue": 750
+    },
+    {
+      "key": "The Wastes S1E026. The Hunt.parakeet.processed.srt|00:05:30-00:08:45",
+      "file": "sources/The Wastes S1E026. The Hunt.parakeet.processed.srt",
+      "gitBlob": "86080c5a254f610c9f100c761e9fffbf05850958",
+      "start": "00:05:30",
+      "end": "00:08:45",
+      "firstCue": 111,
+      "lastCue": 163
+    },
+    {
+      "key": "The Wastes S1E027. Lizard Party.parakeet.processed.srt|02:20:30-02:30:00",
+      "file": "sources/The Wastes S1E027. Lizard Party.parakeet.processed.srt",
+      "gitBlob": "f71f472f6ace5ab940e49c11ae2e81d0ec90b10c",
+      "start": "02:20:30",
+      "end": "02:30:00",
+      "firstCue": 2325,
+      "lastCue": 2489
+    },
+    {
+      "key": "The Wastes S1E029. Stanley's Choice.parakeet.processed.srt|00:10:00-00:13:30",
+      "file": "sources/The Wastes S1E029. Stanley's Choice.parakeet.processed.srt",
+      "gitBlob": "810c5a2926a999781603a3889b9567480eaa99ca",
+      "start": "00:10:00",
+      "end": "00:13:30",
+      "firstCue": 157,
+      "lastCue": 220
+    },
+    {
+      "key": "The Wastes S1E057. The Royal Truckery.parakeet.processed.srt|00:35:45-00:47:15",
+      "file": "sources/The Wastes S1E057. The Royal Truckery.parakeet.processed.srt",
+      "gitBlob": "e23cb14f1152e7979cfcb3d2d6fe18816526d350",
+      "start": "00:35:45",
+      "end": "00:47:15",
+      "firstCue": 567,
+      "lastCue": 761
+    },
+    {
+      "key": "The Wastes S1E028. It's A Cat Person!.parakeet.processed.srt|01:39:00-01:45:45",
+      "file": "sources/The Wastes S1E028. It's A Cat Person!.parakeet.processed.srt",
+      "gitBlob": "8dc47e4366594d9d8fadc51bd6ea7bc1e771f0f0",
+      "start": "01:39:00",
+      "end": "01:45:45",
+      "firstCue": 1688,
+      "lastCue": 1794
+    },
+    {
+      "key": "The Wastes S1E028. It's A Cat Person!.parakeet.processed.srt|01:48:30-01:51:45",
+      "file": "sources/The Wastes S1E028. It's A Cat Person!.parakeet.processed.srt",
+      "gitBlob": "8dc47e4366594d9d8fadc51bd6ea7bc1e771f0f0",
+      "start": "01:48:30",
+      "end": "01:51:45",
+      "firstCue": 1846,
+      "lastCue": 1894
+    },
+    {
+      "key": "The Wastes S1E026. The Hunt.parakeet.processed.srt|00:23:30-00:25:45",
+      "file": "sources/The Wastes S1E026. The Hunt.parakeet.processed.srt",
+      "gitBlob": "86080c5a254f610c9f100c761e9fffbf05850958",
+      "start": "00:23:30",
+      "end": "00:25:45",
+      "firstCue": 418,
+      "lastCue": 455
+    },
+    {
+      "key": "The Wastes S1E057. The Royal Truckery.parakeet.processed.srt|00:47:15-00:52:00",
+      "file": "sources/The Wastes S1E057. The Royal Truckery.parakeet.processed.srt",
+      "gitBlob": "e23cb14f1152e7979cfcb3d2d6fe18816526d350",
+      "start": "00:47:15",
+      "end": "00:52:00",
+      "firstCue": 762,
+      "lastCue": 853
+    },
+    {
+      "key": "The Wastes S1E059. Paradise of Mans.parakeet.processed.srt|01:53:30-02:04:00",
+      "file": "sources/The Wastes S1E059. Paradise of Mans.parakeet.processed.srt",
+      "gitBlob": "81eada685f6dc50f3d64114a1e22041a731a0cac",
+      "start": "01:53:30",
+      "end": "02:04:00",
+      "firstCue": 1642,
+      "lastCue": 1812
+    },
+    {
+      "key": "The Wastes S1E059. Paradise of Mans.parakeet.processed.srt|02:26:30-02:28:45",
+      "file": "sources/The Wastes S1E059. Paradise of Mans.parakeet.processed.srt",
+      "gitBlob": "81eada685f6dc50f3d64114a1e22041a731a0cac",
+      "start": "02:26:30",
+      "end": "02:28:45",
+      "firstCue": 2152,
+      "lastCue": 2180
+    },
+    {
+      "key": "The Wastes S1E064. Mount Up and Ride.parakeet.processed.srt|02:31:15-02:44:00",
+      "file": "sources/The Wastes S1E064. Mount Up and Ride.parakeet.processed.srt",
+      "gitBlob": "dbaa7aa420e54c4b8a37014e483546ff7e4dbac3",
+      "start": "02:31:15",
+      "end": "02:44:00",
+      "firstCue": 2325,
+      "lastCue": 2574
+    },
+    {
+      "key": "The Wastes S1E065. Under the Dome.parakeet.processed.srt|00:54:30-00:58:45",
+      "file": "sources/The Wastes S1E065. Under the Dome.parakeet.processed.srt",
+      "gitBlob": "aaada000e531c6de0bedace5332f760b0ed01a91",
+      "start": "00:54:30",
+      "end": "00:58:45",
+      "firstCue": 762,
+      "lastCue": 825
+    },
+    {
+      "key": "The Wastes S1E066. The Eyes Have It.parakeet.processed.srt|00:17:30-00:20:00",
+      "file": "sources/The Wastes S1E066. The Eyes Have It.parakeet.processed.srt",
+      "gitBlob": "6f6b42ca318db69d0688743d704971d83c997142",
+      "start": "00:17:30",
+      "end": "00:20:00",
+      "firstCue": 303,
+      "lastCue": 341
+    },
+    {
+      "key": "The Wastes S1E066. The Eyes Have It.parakeet.processed.srt|00:29:30-00:32:00",
+      "file": "sources/The Wastes S1E066. The Eyes Have It.parakeet.processed.srt",
+      "gitBlob": "6f6b42ca318db69d0688743d704971d83c997142",
+      "start": "00:29:30",
+      "end": "00:32:00",
+      "firstCue": 512,
+      "lastCue": 553
+    },
+    {
+      "key": "The Wastes S1E066. The Eyes Have It.parakeet.processed.srt|00:35:30-00:43:30",
+      "file": "sources/The Wastes S1E066. The Eyes Have It.parakeet.processed.srt",
+      "gitBlob": "6f6b42ca318db69d0688743d704971d83c997142",
+      "start": "00:35:30",
+      "end": "00:43:30",
+      "firstCue": 607,
+      "lastCue": 736
+    },
+    {
+      "key": "The Wastes S1E001. The Campaign Begins!.qwen-q8.canary-ctc.nemotron.srt|00:17:00-00:18:50",
+      "file": "sources/The Wastes S1E001. The Campaign Begins!.qwen-q8.canary-ctc.nemotron.srt",
+      "gitBlob": "b5aa008fafc822a2d4f2d3fdb8f422be636e2993",
+      "start": "00:17:00",
+      "end": "00:18:50",
+      "firstCue": 516,
+      "lastCue": 574
+    },
+    {
+      "key": "The Wastes S1E006. Start your engines!.qwen-q8.canary-ctc.nemotron.srt|02:33:20-02:34:45",
+      "file": "sources/The Wastes S1E006. Start your engines!.qwen-q8.canary-ctc.nemotron.srt",
+      "gitBlob": "bc4644e0b9657254dbb87aeef26e6452d658ee5f",
+      "start": "02:33:20",
+      "end": "02:34:45",
+      "firstCue": 4121,
+      "lastCue": 4156
+    },
+    {
+      "key": "The Wastes S1E027. Lizard Party.qwen-q8.canary-ctc.nemotron.srt|02:26:35-02:27:55",
+      "file": "sources/The Wastes S1E027. Lizard Party.qwen-q8.canary-ctc.nemotron.srt",
+      "gitBlob": "30b4efb1da791cfc9aac2861cd2f5c3a59e46a27",
+      "start": "02:26:35",
+      "end": "02:27:55",
+      "firstCue": 4196,
+      "lastCue": 4240
+    },
+    {
+      "key": "The Wastes S1E028. It's A Cat Person!.qwen-q8.canary-ctc.nemotron.srt|01:42:00-01:44:40",
+      "file": "sources/The Wastes S1E028. It's A Cat Person!.qwen-q8.canary-ctc.nemotron.srt",
+      "gitBlob": "d5bf3e9b96b1f2fcd0833aa6f98fd538dddcaebd",
+      "start": "01:42:00",
+      "end": "01:44:40",
+      "firstCue": 2901,
+      "lastCue": 2967
+    },
+    {
+      "key": "The Wastes S1E067. Frigid Fingers of Failure.parakeet.processed.srt|00:13:30-00:17:30",
+      "file": "sources/The Wastes S1E067. Frigid Fingers of Failure.parakeet.processed.srt",
+      "gitBlob": "ce700a7f069c8b4fe686d8bc60ba7ab165bdf434",
+      "start": "00:13:30",
+      "end": "00:17:30",
+      "firstCue": 265,
+      "lastCue": 333
+    },
+    {
+      "key": "The Wastes S1E074. The Big Red One.parakeet.processed.srt|01:42:00-01:45:00",
+      "file": "sources/The Wastes S1E074. The Big Red One.parakeet.processed.srt",
+      "gitBlob": "bcd9dc6c5e3e21769fbe9420fe3e498068476c8e",
+      "start": "01:42:00",
+      "end": "01:45:00",
+      "firstCue": 1735,
+      "lastCue": 1788
+    },
+    {
+      "key": "Bonus 2020-04 - April 2020.parakeet.processed.srt|00:20:15-00:22:00",
+      "file": "sources/Bonus 2020-04 - April 2020.parakeet.processed.srt",
+      "gitBlob": "4a9cc70b82eaf50b9f492ee55df69e9010929fe0",
+      "start": "00:20:15",
+      "end": "00:22:00",
+      "firstCue": 428,
+      "lastCue": 461
+    },
+    {
+      "key": "Bonus 2020-05 - May 2020.parakeet.processed.srt|00:24:00-00:26:00",
+      "file": "sources/Bonus 2020-05 - May 2020.parakeet.processed.srt",
+      "gitBlob": "bab9a55b51b07bd3e74690956099bf036bbfc118",
+      "start": "00:24:00",
+      "end": "00:26:00",
+      "firstCue": 465,
+      "lastCue": 506
+    },
+    {
+      "key": "Bonus 2020-09 - September 2020.parakeet.processed.srt|00:10:40-00:11:40",
+      "file": "sources/Bonus 2020-09 - September 2020.parakeet.processed.srt",
+      "gitBlob": "011b6ea0e5484aedfb53875cfdde76342072328d",
+      "start": "00:10:40",
+      "end": "00:11:40",
+      "firstCue": 204,
+      "lastCue": 218
+    },
+    {
+      "key": "Bonus 2019-09 - September 2019.parakeet.processed.srt|00:09:45-00:12:00",
+      "file": "sources/Bonus 2019-09 - September 2019.parakeet.processed.srt",
+      "gitBlob": "9d08d4c04966136f48a0559980658e93ef217f56",
+      "start": "00:09:45",
+      "end": "00:12:00",
+      "firstCue": 201,
+      "lastCue": 242
+    },
+    {
+      "key": "The Wastes S1E066. The Eyes Have It.qwen-q8.canary-ctc.nemotron.srt|00:38:55-00:42:15",
+      "file": "sources/The Wastes S1E066. The Eyes Have It.qwen-q8.canary-ctc.nemotron.srt",
+      "gitBlob": "0731d48f177b1c5b9f931a98bd51b761af9d5eeb",
+      "start": "00:38:55",
+      "end": "00:42:15",
+      "firstCue": 1156,
+      "lastCue": 1242
+    },
+    {
+      "key": "The Wastes S1E065. Under the Dome.qwen-q8.canary-ctc.nemotron.srt|00:55:10-00:58:25",
+      "file": "sources/The Wastes S1E065. Under the Dome.qwen-q8.canary-ctc.nemotron.srt",
+      "gitBlob": "6b4daf5b5796e267a6d9e93282f0b79507497149",
+      "start": "00:55:10",
+      "end": "00:58:25",
+      "firstCue": 1231,
+      "lastCue": 1305
+    },
+    {
+      "key": "The Wastes S1E057. The Royal Truckery.qwen-q8.canary-ctc.nemotron.srt|00:47:25-00:50:20",
+      "file": "sources/The Wastes S1E057. The Royal Truckery.qwen-q8.canary-ctc.nemotron.srt",
+      "gitBlob": "57402fabc52829cd03460a8fc441d1fab6427ca3",
+      "start": "00:47:25",
+      "end": "00:50:20",
+      "firstCue": 1227,
+      "lastCue": 1321
+    },
+    {
+      "key": "The Wastes S1E010. Shackles.qwen-q8.canary-ctc.nemotron.srt|01:06:45-01:07:40",
+      "file": "sources/The Wastes S1E010. Shackles.qwen-q8.canary-ctc.nemotron.srt",
+      "gitBlob": "05c39c807b045ca8d26fa9f45a6be93200e0fbb8",
+      "start": "01:06:45",
+      "end": "01:07:40",
+      "firstCue": 1983,
+      "lastCue": 2024
+    },
+    {
+      "key": "The Wastes S1E006. Start your engines!.parakeet.processed.srt|02:15:15-02:21:00",
+      "file": "sources/The Wastes S1E006. Start your engines!.parakeet.processed.srt",
+      "gitBlob": "8e4cd1979218ac6d532e7903456a125169e7ae54",
+      "start": "02:15:15",
+      "end": "02:21:00",
+      "firstCue": 3022,
+      "lastCue": 3168
+    },
+    {
+      "key": "The Wastes S1E006. Start your engines!.qwen-q8.canary-ctc.nemotron.srt|02:15:15-02:21:00",
+      "file": "sources/The Wastes S1E006. Start your engines!.qwen-q8.canary-ctc.nemotron.srt",
+      "gitBlob": "bc4644e0b9657254dbb87aeef26e6452d658ee5f",
+      "start": "02:15:15",
+      "end": "02:21:00",
+      "firstCue": 3616,
+      "lastCue": 3788
+    }
+  ],
+  "unread_or_pending": "Later-season/bonus candidate contexts not all triaged; E007/E026/E059/E064 Qwen fetched but no semantic review claimed; some lookup results were leads only",
+  "important_findings": [
+    "Metal dragon-skull front, solar panels, combat grab rails, rear ladder and roof hatch missing from the trial's supported baseline.",
+    "No front passenger seat; that space holds weapons. Removable skull gear lever, glovebox guns/ammo, wall magnet, paired CBs, water/food storage, sleeping places, hot plate and toilet.",
+    "E027 large roof/windshield damage; E028 quilted raptor-hide cover is not load bearing; later Eldritch Blast damages wall.",
+    "E057 interceptor is separate: rust-brown paint, chained tires and front exhaust must not be assigned to Fate 4. Existing dossier correction pending.",
+    "E065 table/seating and driver's-seat damage, wet-sand bogging; E066 crushing then fire, salvage into a different bone/metal rickshaw.",
+    "E067 ordinary-tire, greasy RV/cassette player occurs in a retrospective memory, not a restored current vehicle."
+  ],
+  "resume": [
+    "Integrate report into written appearance register; preserve pre-audit record for any major rewrite.",
+    "Correct E057 summary from monster truck to actual interceptor; source windows already reviewed in both models.",
+    "Triage later source candidates as needed for visual facts; do not refetch all primary sources.",
+    "Inspect original source images when accessible; do not generate a new image before corrected evidence-based brief.",
+    "Read back new report/manifest and changed references, then targeted Markdown/link/JSON checks; canonical Markdownlint unavailable."
+  ]
+}

@@ -10,10 +10,15 @@ Her first substantial favor is to weave the magic from easy-fastening dresses in
 
 When Evelyn finds herself at a garden lunch in a dress and a hat decorated with crushed honeysuckle, Margaret discreetly threads magic into the flowers to restore their beauty. It is a small intervention, but no less loyal than the armored garment: she knows that Lady Vestal will be searching for signs of impropriety, and she protects Evelyn without demanding an explanation.[^gifts]
 
+## A face drawn in a hurry
+
+On the morning of the guild's eastern expedition, Evelyn returns to the problem of appearing at school while already departing for adventure. Margaret has suggested the possibility of a magical disguise, but the hour is too early for such a scheme. Instead she takes Evelyn's magical pigments and paints her friend's face on a pillow beneath the blankets. The drawing swells into an uncanny sleeping likeness. Margaret agrees to let Lady Vestal look in from the doorway without touching the illusion, giving Evelyn time to escape out the window. Whatever the school later believes, the two friends have made themselves partners in more than secret sewing.[^decoy]
+
 ## Current status
 
-Margaret knows that **Evelyn adventures with the guild**, continues to help her conceal weapons and absences, and has made at least two magical alterations to her belongings. The planned bronze ball may place the two young women's social obligations alongside the guild, but the event has **not yet occurred**. Her exact surname and the school's full Elvish name are still **ASR-provisional**.[^status]
+Margaret knows **Evelyn adventures with the guild** and now has **actually created a sleeping decoy with Evelyn's Nolzur's Marvelous Pigments** to cover the adventurer's absence from the bronze-ball planning meeting. The dummy is formed and Evelyn departs, but **Lady Vestal's discovery or acceptance of the deception has not been shown**. Margaret remains the maker of the Bag of Hammer Holding and earlier magically adapted garments. The bronze ball itself is still future; her surname and the school's full name remain ASR-provisional.[^decoy]
 
 [^intro]: [Delvers S1E05](../../episodes/S1E05.md), ~00:12–00:18, 00:43–00:46; [S1E07](../../episodes/S1E07.md), ~00:33–00:36. Surname `Dupayton/Dupaton` varies; **Dupayton is provisional**.
 [^gifts]: [S1E07](../../episodes/S1E07.md), ~00:34–00:43. Bag explicitly holds one item up to sixty pounds; successful Vicious warhammer insertion; hat flowers restored by unseen magic thread. No evidence of unlimited storage.
+[^decoy]: [Delvers S1E09](../../episodes/S1E09.md), ~02:39–02:44, proposed Alter Self cover not performed. [S1E10](../../episodes/S1E10.md), ~00:02–00:05, magical pigments **actually form a bed dummy**; no later meeting/outcome shown. Pigments belong to Evelyn, not independently attributed to Margaret.
 [^status]: [S1E07](../../episodes/S1E07.md), ~00:39–00:44. Upcoming bronze ball announced by Lady Vestal, not played; exact school name `Laren Ilfelkier` provisional.

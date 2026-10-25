@@ -1,6 +1,6 @@
 # Delvers — world reference
 
-**Spoilers through Delvers S1E09. Evidence:** full dual-ASR text research, not audio-verified. This reference describes Delvers's separate reality. Handout statements and NPC claims retain their attribution.
+**Spoilers through Delvers S1E10. Evidence:** full dual-ASR text research, not audio-verified. This reference describes Delvers's separate reality. Handout statements and NPC claims retain their attribution.
 
 | Read about | Reference |
 | --- | --- |
@@ -9,6 +9,9 @@
 | Guild, town and job sites | [Places](PLACES.md) |
 | Adventuring institutions and setting limits | [World](WORLD.md) |
 | Southwest drinking-water investigation | [Southwestern well](places/southwestern-town-well.md) |
+| Freshwater neighbors of the Delvers | [Kuo-toa lakeshore village](places/kuo-toa-lakeshore-village.md) |
+| Familiar trap complex beneath the eastern lake | [Submerged lake ruins](places/submerged-lake-ruins.md) |
+| Stone-metal defense found beneath the lake | [Ring of Protection](items/ring-of-protection.md) |
 | The city's buried ruins under a sanctuary | [Temple of Pelor](places/temple-of-pelor.md) |
 | Thunderous ancient weapon | [Horn of Blasting](items/horn-of-blasting.md) |
 | Evelyn's once-monthly summoning charm | [Goat of Travail](items/goat-of-travail.md) |
@@ -25,7 +28,7 @@
 | Played order and actual cutoff | [Chronology](CHRONOLOGY.md) |
 | Uncertain names, knowledge and custody | [Consistency ledger](CONSISTENCY_LEDGER.md) |
 
-[S1E01 dossier](../episodes/S1E01.md) through [S1E09 dossier](../episodes/S1E09.md) own detailed timestamped investigations. [First jobs](../narrative/FIRST_JOBS.md) and [The Rise to Bronze](../narrative/THE_RISE_TO_BRONZE.md), and [Skull Keep and the Dawnless Dunes](../narrative/SKULL_KEEP.md), and [The Wells of Atomer](../narrative/THE_WELLS_OF_ATOMER.md) offer connected narrative; the [review queue](../REVIEW_QUEUE.md) owns listening tasks.
+[S1E01 dossier](../episodes/S1E01.md) through [S1E10 dossier](../episodes/S1E10.md) own detailed timestamped investigations. [First jobs](../narrative/FIRST_JOBS.md) and [The Rise to Bronze](../narrative/THE_RISE_TO_BRONZE.md), and [Skull Keep and the Dawnless Dunes](../narrative/SKULL_KEEP.md), and [The Wells of Atomer](../narrative/THE_WELLS_OF_ATOMER.md) offer connected narrative; the [review queue](../REVIEW_QUEUE.md) owns listening tasks.
 
 [Delvers campaign index](../README.md)
 
