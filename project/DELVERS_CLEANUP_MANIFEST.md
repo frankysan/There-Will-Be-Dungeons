@@ -222,3 +222,17 @@ Koh's substantive arcs contain 220, 256 and 270 words. All four ordinary subject
 Eight original working copies and rebased reading copies are preserved. One inherited September bonus link in Koh's reading copy is transparently corrected in the archive manifest; its exact original bytes remain unchanged. A total of 213 protected-file hashes covers other world Markdown, all episode dossiers, all narrative files, Delvers SRTs and the frozen initial baseline. No new audio, SRT interpretation, private-source review, naming decision or source-question closure occurred. No commit or push was performed by this task.
 
 The character/institution/artifact/creature pilots meet their bounded domain contracts; this supersedes their earlier inventoried-only status. Other subject pages remain pending. Next migrate Evelyn and Krandal, then connected family/mentor and guild subjects in small batches. Resolve event/place and reasoning-creature taxonomy only after examining each subject and inbound-link consequences. Full world acceptance and a rendered-site preview are not claimed.
+### Fifth implementation checkpoint — Evelyn and Krandal
+
+**2026-10-26: Two core biographies migrated and structurally validated.** [Character report](../reports/DELVERS_EVELYN_KRANDAL_2026-10-26.md) · [Section ledger](DELVERS_EVELYN_KRANDAL_COVERAGE.json) · [Pre-edit archive](../research/legacy/2026-10-26/delvers-evelyn-krandal/README.md) · [Validation](DELVERS_EVELYN_KRANDAL_VALIDATION.json).
+
+| Subject | Current disposition | Main prose before → after |
+| --- | --- | ---: |
+| Evelyn | Introduction, three character arcs, abilities/bonds and Current status; private knowledge, inconsistent mercy and final invitation distinguished | 7,275 → 938 |
+| Krandal | Introduction, three character arcs, abilities/care and Current status; doubt, neglected obligations, actual repair and surviving cleric/farmer retained | 7,821 → 966 |
+
+The substantive arcs contain 238/256/249 words for Evelyn and 245/260/262 for Krandal. All 84 old headings have recorded dispositions and preserved targets. Six exact working-copy originals and rebased reading copies are archived. Two inherited September bonus links are corrected only in reading copies and new notes, with explicit manifest exceptions. All 215 protected-file hashes match, covering other world pages, all episode dossiers, all narrative files, Delvers SRTs and the frozen baseline.
+
+This completes the core-PC subject batch within the report's evidence limits, superseding these two pages' inventoried-only status. No source media, earlier narrative, other subject page or historical baseline was changed. No new listening/ASR interpretation, private-source review, identity resolution or central issue closure occurred. No commit or push was performed by this task.
+
+Next examine Margaret and the Traveler, then Nopa Ropa and Hissia, before continuing connected guild and domain batches. Other world subjects and final campaign integration remain pending; this checkpoint does not certify the whole directory.

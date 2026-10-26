@@ -78,6 +78,10 @@ Dolo Popio invokes an **alleged contract with a garbled name**, and the characte
 
 The heroes **reject Quizquaz's offered planetary destruction**. **Stanley asks Moha by Augury about a self-sacrifice and gets a favorable yet final omen**, then **all four choose to share the beam** instead of leaving him alone. **Eddie operates controls outside**; the four **glow, take enormous damage, and disperse as white light and mist**, with the **GM expressly declaring them dead at E081 cutoff**. **Sira and Eddie remain alive outside**, **Chance unlocated**, and the narrative **does not show later planet-wide surveys, successful safe disassembly, souls' locations or a permanent Drive shutoff**. The exact state after the activation belongs to later material, not this E081 source.
 
+## February 2022 GM design retrospective — intended one-person sacrifice, played all-person choice
+
+In the [February 2022 bonus Q&A](../../episodes/BONUS-2022-02.md) (~00:23–00:26), Beau explains that **his original design of the E081 Traversal Drive's life-energy mechanism anticipated one character heroically volunteering to die to seal the gateway**. The players instead **all chose to make the sacrifice together**, an outcome GM did not pre-script. Beau was reading **Planescape** and **improvised a path onward to Sigil** rather than permanently ending the story. This account describes **GM preparation and response to unexpected choices**, and does **not replace the directly played E081 ending**: all four sacrifice, are declared dead at that session's cutoff, and later events must be sourced in their later episodes. It also does **not** mean that the mechanism actually required only one death in the presented game. [Comparison](../../reports/BONUS_2022-02_ASR_COMPARISON_2026-10-26.md).
+
 ## Unsettled and evidence tiers
 
 - **Observed:** building/rails/map, cards, hologram, automated door, virtual headsets, physical security response, frozen data center exterior.

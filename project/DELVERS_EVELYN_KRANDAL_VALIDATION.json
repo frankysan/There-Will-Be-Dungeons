@@ -1,0 +1,43 @@
+{
+  "date": "2026-10-26",
+  "local_file_and_fragment_links": 915,
+  "maintained_inbound_links": 44,
+  "former_headings_preserved": 84,
+  "exact_original_hashes": 6,
+  "reading_copy_target_equivalence": 6,
+  "explicit_reading_copy_link_corrections": 2,
+  "protected_hashes": 215,
+  "measurements": [
+    {
+      "path": "delvers/world/characters/evelyn-grinkeeper.md",
+      "before_main_words": 7275,
+      "after_main_words": 938,
+      "arc_words": [
+        238,
+        256,
+        249
+      ],
+      "largest_arc_to_median": 1.028,
+      "footnotes": 15,
+      "anchors": 48
+    },
+    {
+      "path": "delvers/world/characters/krandal-splenderbelt.md",
+      "before_main_words": 7821,
+      "after_main_words": 966,
+      "arc_words": [
+        245,
+        260,
+        262
+      ],
+      "largest_arc_to_median": 1.008,
+      "footnotes": 16,
+      "anchors": 50
+    }
+  ],
+  "errors": [],
+  "limits": [
+    "No new ASR, audio, remote URL or rendered-site review",
+    "Section dispositions and material-claim review, not sentence-by-sentence audio verification"
+  ]
+}

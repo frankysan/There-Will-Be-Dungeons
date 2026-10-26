@@ -1,0 +1,29 @@
+# February 2022 bonus — two-ASR comparison (2026-10-26)
+
+[Source-first BONUS-2022-02 creator Q&A dossier](../episodes/BONUS-2022-02.md). **Corrected owner-normalized source basename:** `Bonus 2022-02 - February 2022`. **Out-of-game** monthly bonus; publication label **not** the spoken recording date. Host indicates supporters hear the episode about one week early. **No audio listening; no external RSS verification.**
+
+| Source and filename model label | Git blob SHA (GitHub default branch) | SRT cues | Final cue end | Normalized words | Source text characters |
+| --- | --- | ---: | --- | ---: | ---: |
+| [Parakeet processed](../sources/Bonus%202022-02%20-%20February%202022.parakeet.processed.srt) | `cf4f646b8abcada65d72f57099d10698290dc58c` | **767** | **00:37:53.470** | **7,153** | **72,428** |
+| [Qwen Q8 / Canary CTC / Nemotron-labelled](../sources/Bonus%202022-02%20-%20February%202022.qwen-q8.canary-ctc.nemotron.srt) | `5f3f32f9b4905bfc98049f6f43d7bea14604d171` | **1,148** | **00:37:53.110** | **7,328** | **92,250** |
+
+**Exact ordered word-level edit distance: 564 / 7,153 = 7.88% inter-ASR textual disagreement, NOT WER.** Secondary has **175** more normalized tokens. Neither direction tells which was closer to the audio.
+
+**Reproducible calculation:** Parse full SRT exports by cue groups. Join only cue dialogue in chronological order, drop timestamps/cue ordinals and `(speaker N)` tags. Lowercase; remove apostrophes `'` and `’` to join contractions; replace all non-Unicode letters/digits with spaces; split into word tokens. Unit cost for word insertion, deletion or substitution. Compute exact ordered Levenshtein with two-row dynamic programming and **±2,500** diagonal bound; result **564 < 2,500** proves optimality of the bounded computation (no shorter global path could exit band). Do **not** call this word error rate, consensus truth, omission detection or a measure of the raw waveform.
+
+**Source provenance/coverage:** Local `main` workspace HEAD **`f04e9b9d4d8e60b2f8a11712d5cdfc615df41770`**, **clean at start**. Both local SRT first cues compared with GitHub remote default-branch files; entire files fetched from remote Git blobs above and parsed. Whole-file local-versus-remote byte equality was **not checked**; thus branch/source identical identity beyond matching openings is unverified. Pipeline identifiers inferred from filenames only; no command/VRAM/model run information established. **Complete primary editorially read through last speech/outro**, complete Qwen text computationally parsed, **selected secondary windows** independently reviewed (~00:00–00:08, 00:09–00:13, 00:16–00:26 and 00:32–end). Original recording **not listened to**, SRTs **not changed**.
+
+## High-value disagreement and audio-check locations
+
+| Recording clock | Difference / inference control |
+| --- | --- |
+| **~00:01–00:03** | Hope's **six-shooters** discussed as lost. Primary lacks or garbles “Sigil” in pistol speculation; Qwen includes the clearer utterance about **Sigil**, possible sewers, and dragon-metal durability. Both are **cast uncertainty**, not item custody established by observation. Neither supports actually recovering guns at Tower Nash. |
+| **~00:03–00:05** | Herald's name is transcribed roughly as **Zolf in Schol / Zol Finshaw / Sulfenjal** and prior research uses **Zolfin Sol (?)**. Preserve unresolved spelling. Scott **speculates alternate Nashes will cooperate**, Beau says summoning was deferred and depends on a future visit; **not played arrival or certified prime timeline**. |
+| **~00:06** | Jon's joking **“Sadly Billings”** label is out-of-game, self-attributed by Jon; no character bestowed it, no permanent title. The **WIS-3 phase** is retrospective to S2E06 and already restored in S2E07's played long-rest voyage. |
+| **~00:09–00:12** | Beau loosely remembers the **Bank of Burp security-puzzle solution** as someone teleporting through and opening a door. **S2E06 played evidence differs in detail**: **Vorel under *Reduce* passes initial teller cage and opens handles**; **Stanley later *Dimension Doors* into barred vault**. Do not overwrite performed mechanics from the retrospective simplification. |
+| **~00:17–00:21** | Hypothetical **fatal portal and mosquito** illustrate Beau's technique of foreshadowing lethal traps. This is **not** a real foreshadowed hazard in Pentel Weiss or disclosure of Badass T's fate. He says the *actual just-played* cosmic intake is an exploratory puzzle, **not yet solved in this bonus**. |
+| **~00:23–00:26** | Beau explains **original GM intent** for the CHIDS life-energy device: **one** hero expected to offer sacrifice; all main heroes **actually chose to die**, and *Planescape* continuation developed afterward. This is **design-retrospective**, not a claim that a single person actually died instead or that E-series action was retroactively changed. |
+| **~00:34–00:37:53** | The most consequential orthographic uncertainty: **Euphemius** versus **Euphemia Zorander** (and garbled “Zor Andrus”/“Zorander's Fist”). Qwen repeatedly gives **Euphemius**, primary alternates with **Euphemia**; both refer to Beau's earlier *personal player-character name borrowed for Wastes*, which he explicitly **does not assert is literally the same character**. Creator indicates **gauntlet over the Hand**, but neither export supplies the lost multi-page weapon rules. **Audio/handout required for display spelling and rules.** |
+| **~00:37:53** | Actual final monthly supporter thanks / network closing, no post-credits gameplay and no new character actions. |
+
+**No verified human transcript, speaker diarization ground truth or exact spoken release date.** For detailed attribution and typed claims see [dossier](../episodes/BONUS-2022-02.md). Next monthly bonus source **March 2022** verified, but its content was **not** researched in this pass; Wastes played story next **S2E08** remains unchanged.

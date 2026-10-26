@@ -1,0 +1,596 @@
+{
+  "date": "2026-10-26",
+  "scope": "Two core character biographies",
+  "horizon": "S3E12 played finale, completed one-year epilogue and separate final invitation; bonuses attributed separately",
+  "review": "Entire pre-edit profiles read; selected dossier passages; no fresh ASR or audio review",
+  "headings": [
+    {
+      "path": "delvers/world/characters/evelyn-grinkeeper.md",
+      "old_heading": "Evelyn Grinkeeper — paladin",
+      "old_anchor": "evelyn-grinkeeper--paladin",
+      "target": "evelyn-grinkeeper--paladin",
+      "disposition": "unchanged title"
+    },
+    {
+      "path": "delvers/world/characters/evelyn-grinkeeper.md",
+      "old_heading": "Out-of-game character interpretation (October-called bonus archived 2021-11-10)",
+      "old_anchor": "out-of-game-character-interpretation-october-called-bonus-archived-2021-11-10",
+      "target": "evelyn-commentary",
+      "disposition": "attributed creator commentary in footnote"
+    },
+    {
+      "path": "delvers/world/characters/evelyn-grinkeeper.md",
+      "old_heading": "Out-of-game creation note (September 2021 bonus)",
+      "old_anchor": "out-of-game-creation-note-september-2021-bonus",
+      "target": "evelyn-commentary",
+      "disposition": "attributed creator commentary in footnote"
+    },
+    {
+      "path": "delvers/world/characters/evelyn-grinkeeper.md",
+      "old_heading": "S3E12 CAMPAIGN FINALE: Destroys skeletal bat, saves town, wedding invitation in epilogue",
+      "old_anchor": "s3e12-campaign-finale-destroys-skeletal-bat-saves-town-wedding-invitation-in-epilogue",
+      "target": "Arc Three — Freedom joined to responsibility",
+      "disposition": "character development synthesized; detailed event record preserved in archive"
+    },
+    {
+      "path": "delvers/world/characters/evelyn-grinkeeper.md",
+      "old_heading": "S3E11: Radiant-armoured paladin's elk actually lures skeletal bat while rescue begins",
+      "old_anchor": "s3e11-radiant-armoured-paladins-elk-actually-lures-skeletal-bat-while-rescue-begins",
+      "target": "Arc Three — Freedom joined to responsibility",
+      "disposition": "character development synthesized; detailed event record preserved in archive"
+    },
+    {
+      "path": "delvers/world/characters/evelyn-grinkeeper.md",
+      "old_heading": "S3E10: Defeats school's hook horror, earns Loran Radiant Armour, rallies Guild and frees Cassius",
+      "old_anchor": "s3e10-defeats-schools-hook-horror-earns-loran-radiant-armour-rallies-guild-and-frees-cassius",
+      "target": "Arc Three — Freedom joined to responsibility",
+      "disposition": "character development synthesized; detailed event record preserved in archive"
+    },
+    {
+      "path": "delvers/world/characters/evelyn-grinkeeper.md",
+      "old_heading": "S3E09: Completes triad by climbing grick-wind spiral and holds all three urns",
+      "old_anchor": "s3e09-completes-triad-by-climbing-grick-wind-spiral-and-holds-all-three-urns",
+      "target": "Arc Three — Freedom joined to responsibility",
+      "disposition": "character development synthesized; detailed event record preserved in archive"
+    },
+    {
+      "path": "delvers/world/characters/evelyn-grinkeeper.md",
+      "old_heading": "S3E08: Resists rat asylum projection, frees others, carries BOTH urns and Drift Globe",
+      "old_anchor": "s3e08-resists-rat-asylum-projection-frees-others-carries-both-urns-and-drift-globe",
+      "target": "Arc Three — Freedom joined to responsibility",
+      "disposition": "character development synthesized; detailed event record preserved in archive"
+    },
+    {
+      "path": "delvers/world/characters/evelyn-grinkeeper.md",
+      "old_heading": "S3E07: Daylight on the boat, lightning and the heart vessel",
+      "old_anchor": "s3e07-daylight-on-the-boat-lightning-and-the-heart-vessel",
+      "target": "Arc Three — Freedom joined to responsibility",
+      "disposition": "character development synthesized; detailed event record preserved in archive"
+    },
+    {
+      "path": "delvers/world/characters/evelyn-grinkeeper.md",
+      "old_heading": "S3E06: Three badges, mummies and Loran's lance",
+      "old_anchor": "s3e06-three-badges-mummies-and-lorans-lance",
+      "target": "Arc Three — Freedom joined to responsibility",
+      "disposition": "character development synthesized; detailed event record preserved in archive"
+    },
+    {
+      "path": "delvers/world/characters/evelyn-grinkeeper.md",
+      "old_heading": "S3E05: Private mind-reading, unverified Traveler lead and Daylight",
+      "old_anchor": "s3e05-private-mind-reading-unverified-traveler-lead-and-daylight",
+      "target": "Arc Three — Freedom joined to responsibility",
+      "disposition": "character development synthesized; detailed event record preserved in archive"
+    },
+    {
+      "path": "delvers/world/characters/evelyn-grinkeeper.md",
+      "old_heading": "S3E04: The blade, recovered crystal and surviving a behir",
+      "old_anchor": "s3e04-the-blade-recovered-crystal-and-surviving-a-behir",
+      "target": "Arc Three — Freedom joined to responsibility",
+      "disposition": "character development synthesized; detailed event record preserved in archive"
+    },
+    {
+      "path": "delvers/world/characters/evelyn-grinkeeper.md",
+      "old_heading": "S3E03: Interview below the school's fountain",
+      "old_anchor": "s3e03-interview-below-the-schools-fountain",
+      "target": "Arc Three — Freedom joined to responsibility",
+      "disposition": "character development synthesized; detailed event record preserved in archive"
+    },
+    {
+      "path": "delvers/world/characters/evelyn-grinkeeper.md",
+      "old_heading": "S3E02: The Blackwoods acknowledge their daughter",
+      "old_anchor": "s3e02-the-blackwoods-acknowledge-their-daughter",
+      "target": "Arc Three — Freedom joined to responsibility",
+      "disposition": "character development synthesized; detailed event record preserved in archive"
+    },
+    {
+      "path": "delvers/world/characters/evelyn-grinkeeper.md",
+      "old_heading": "S3E01: The heart-shaped sword and leaving school",
+      "old_anchor": "s3e01-the-heart-shaped-sword-and-leaving-school",
+      "target": "Arc Three — Freedom joined to responsibility",
+      "disposition": "character development synthesized; detailed event record preserved in archive"
+    },
+    {
+      "path": "delvers/world/characters/evelyn-grinkeeper.md",
+      "old_heading": "S2E12 second-arc finale: Lady Blackwood, Traveler and new healing",
+      "old_anchor": "s2e12-second-arc-finale-lady-blackwood-traveler-and-new-healing",
+      "target": "Arc Two — A name shared and a purpose chosen",
+      "disposition": "character development synthesized; detailed event record preserved in archive"
+    },
+    {
+      "path": "delvers/world/characters/evelyn-grinkeeper.md",
+      "old_heading": "Overview",
+      "old_anchor": "overview",
+      "target": "Introduction",
+      "disposition": "character development synthesized; detailed event record preserved in archive"
+    },
+    {
+      "path": "delvers/world/characters/evelyn-grinkeeper.md",
+      "old_heading": "Development and decisions",
+      "old_anchor": "development-and-decisions",
+      "target": "Development by arc",
+      "disposition": "character development synthesized; detailed event record preserved in archive"
+    },
+    {
+      "path": "delvers/world/characters/evelyn-grinkeeper.md",
+      "old_heading": "Impatience and care",
+      "old_anchor": "impatience-and-care",
+      "target": "Arc One — Impatience and mutual care",
+      "disposition": "character development synthesized; detailed event record preserved in archive"
+    },
+    {
+      "path": "delvers/world/characters/evelyn-grinkeeper.md",
+      "old_heading": "Loyalty and divine courage in the crypt",
+      "old_anchor": "loyalty-and-divine-courage-in-the-crypt",
+      "target": "Arc One — Impatience and mutual care",
+      "disposition": "character development synthesized; detailed event record preserved in archive"
+    },
+    {
+      "path": "delvers/world/characters/evelyn-grinkeeper.md",
+      "old_heading": "Protecting others and pursuing the unknown",
+      "old_anchor": "protecting-others-and-pursuing-the-unknown",
+      "target": "Arc One — Impatience and mutual care",
+      "disposition": "character development synthesized; detailed event record preserved in archive"
+    },
+    {
+      "path": "delvers/world/characters/evelyn-grinkeeper.md",
+      "old_heading": "Between duty and freedom",
+      "old_anchor": "between-duty-and-freedom",
+      "target": "Arc One — Impatience and mutual care",
+      "disposition": "character development synthesized; detailed event record preserved in archive"
+    },
+    {
+      "path": "delvers/world/characters/evelyn-grinkeeper.md",
+      "old_heading": "In the tower, a purpose kept secret",
+      "old_anchor": "in-the-tower-a-purpose-kept-secret",
+      "target": "Arc One — Impatience and mutual care",
+      "disposition": "character development synthesized; detailed event record preserved in archive"
+    },
+    {
+      "path": "delvers/world/characters/evelyn-grinkeeper.md",
+      "old_heading": "A friend at school and a square in peril",
+      "old_anchor": "a-friend-at-school-and-a-square-in-peril",
+      "target": "Arc One — Impatience and mutual care",
+      "disposition": "character development synthesized; detailed event record preserved in archive"
+    },
+    {
+      "path": "delvers/world/characters/evelyn-grinkeeper.md",
+      "old_heading": "A shield in the dark",
+      "old_anchor": "a-shield-in-the-dark",
+      "target": "Arc One — Impatience and mutual care",
+      "disposition": "character development synthesized; detailed event record preserved in archive"
+    },
+    {
+      "path": "delvers/world/characters/evelyn-grinkeeper.md",
+      "old_heading": "Two lives on the same morning",
+      "old_anchor": "two-lives-on-the-same-morning",
+      "target": "Arc One — Impatience and mutual care",
+      "disposition": "character development synthesized; detailed event record preserved in archive"
+    },
+    {
+      "path": "delvers/world/characters/evelyn-grinkeeper.md",
+      "old_heading": "A voice to the strangers",
+      "old_anchor": "a-voice-to-the-strangers",
+      "target": "Arc One — Impatience and mutual care",
+      "disposition": "character development synthesized; detailed event record preserved in archive"
+    },
+    {
+      "path": "delvers/world/characters/evelyn-grinkeeper.md",
+      "old_heading": "Hands inside the dark",
+      "old_anchor": "hands-inside-the-dark",
+      "target": "Arc One — Impatience and mutual care",
+      "disposition": "character development synthesized; detailed event record preserved in archive"
+    },
+    {
+      "path": "delvers/world/characters/evelyn-grinkeeper.md",
+      "old_heading": "A promise worth a risk",
+      "old_anchor": "a-promise-worth-a-risk",
+      "target": "Arc One — Impatience and mutual care",
+      "disposition": "character development synthesized; detailed event record preserved in archive"
+    },
+    {
+      "path": "delvers/world/characters/evelyn-grinkeeper.md",
+      "old_heading": "The decisive blow and the lives it spares",
+      "old_anchor": "the-decisive-blow-and-the-lives-it-spares",
+      "target": "Arc One — Impatience and mutual care",
+      "disposition": "character development synthesized; detailed event record preserved in archive"
+    },
+    {
+      "path": "delvers/world/characters/evelyn-grinkeeper.md",
+      "old_heading": "The marks beneath another name",
+      "old_anchor": "the-marks-beneath-another-name",
+      "target": "Arc Two — A name shared and a purpose chosen",
+      "disposition": "character development synthesized; detailed event record preserved in archive"
+    },
+    {
+      "path": "delvers/world/characters/evelyn-grinkeeper.md",
+      "old_heading": "A bride's strange blessing",
+      "old_anchor": "a-brides-strange-blessing",
+      "target": "Arc Two — A name shared and a purpose chosen",
+      "disposition": "character development synthesized; detailed event record preserved in archive"
+    },
+    {
+      "path": "delvers/world/characters/evelyn-grinkeeper.md",
+      "old_heading": "A name spoken among friends",
+      "old_anchor": "a-name-spoken-among-friends",
+      "target": "Arc Two — A name shared and a purpose chosen",
+      "disposition": "character development synthesized; detailed event record preserved in archive"
+    },
+    {
+      "path": "delvers/world/characters/evelyn-grinkeeper.md",
+      "old_heading": "Long Jump Jenny in a burglar's colors",
+      "old_anchor": "long-jump-jenny-in-a-burglars-colors",
+      "target": "Arc Two — A name shared and a purpose chosen",
+      "disposition": "character development synthesized; detailed event record preserved in archive"
+    },
+    {
+      "path": "delvers/world/characters/evelyn-grinkeeper.md",
+      "old_heading": "Current status (through S2E11) — Grinkeeper the Defender",
+      "old_anchor": "current-status-through-s2e11--grinkeeper-the-defender",
+      "target": "Arc Two — A name shared and a purpose chosen",
+      "disposition": "character development synthesized; detailed event record preserved in archive"
+    },
+    {
+      "path": "delvers/world/characters/evelyn-grinkeeper.md",
+      "old_heading": "Previously established through S2E10",
+      "old_anchor": "previously-established-through-s2e10",
+      "target": "Arc Two — A name shared and a purpose chosen",
+      "disposition": "character development synthesized; detailed event record preserved in archive"
+    },
+    {
+      "path": "delvers/world/characters/evelyn-grinkeeper.md",
+      "old_heading": "Previously established by S2E09",
+      "old_anchor": "previously-established-by-s2e09",
+      "target": "Arc Two — A name shared and a purpose chosen",
+      "disposition": "character development synthesized; detailed event record preserved in archive"
+    },
+    {
+      "path": "delvers/world/characters/evelyn-grinkeeper.md",
+      "old_heading": "Previously established by S2E08",
+      "old_anchor": "previously-established-by-s2e08",
+      "target": "Arc Two — A name shared and a purpose chosen",
+      "disposition": "character development synthesized; detailed event record preserved in archive"
+    },
+    {
+      "path": "delvers/world/characters/evelyn-grinkeeper.md",
+      "old_heading": "Previously established in S2E07",
+      "old_anchor": "previously-established-in-s2e07",
+      "target": "Arc Two — A name shared and a purpose chosen",
+      "disposition": "character development synthesized; detailed event record preserved in archive"
+    },
+    {
+      "path": "delvers/world/characters/evelyn-grinkeeper.md",
+      "old_heading": "Established by S2E06",
+      "old_anchor": "established-by-s2e06",
+      "target": "Arc Two — A name shared and a purpose chosen",
+      "disposition": "character development synthesized; detailed event record preserved in archive"
+    },
+    {
+      "path": "delvers/world/characters/evelyn-grinkeeper.md",
+      "old_heading": "Earlier status (at S2E04 cutoff)",
+      "old_anchor": "earlier-status-at-s2e04-cutoff",
+      "target": "Arc Two — A name shared and a purpose chosen",
+      "disposition": "character development synthesized; detailed event record preserved in archive"
+    },
+    {
+      "path": "delvers/world/characters/krandal-splenderbelt.md",
+      "old_heading": "Krandal Splenderbelt — cleric",
+      "old_anchor": "krandal-splenderbelt--cleric",
+      "target": "krandal-splenderbelt--cleric",
+      "disposition": "unchanged title"
+    },
+    {
+      "path": "delvers/world/characters/krandal-splenderbelt.md",
+      "old_heading": "Post-finale GM/player reflections (BONUS-2021-11-13)",
+      "old_anchor": "post-finale-gmplayer-reflections-bonus-2021-11-13",
+      "target": "krandal-commentary",
+      "disposition": "attributed creator commentary in footnote"
+    },
+    {
+      "path": "delvers/world/characters/krandal-splenderbelt.md",
+      "old_heading": "Out-of-game character interpretation (October-called bonus archived 2021-11-10)",
+      "old_anchor": "out-of-game-character-interpretation-october-called-bonus-archived-2021-11-10",
+      "target": "krandal-commentary",
+      "disposition": "attributed creator commentary in footnote"
+    },
+    {
+      "path": "delvers/world/characters/krandal-splenderbelt.md",
+      "old_heading": "Out-of-game temple-mouse clarification (September 2021 bonus)",
+      "old_anchor": "out-of-game-temple-mouse-clarification-september-2021-bonus",
+      "target": "krandal-commentary",
+      "disposition": "attributed creator commentary in footnote"
+    },
+    {
+      "path": "delvers/world/characters/krandal-splenderbelt.md",
+      "old_heading": "S3E12 CAMPAIGN FINALE: Nearly dies, helps destroy Khalazar, farewell to Chad Brad, thriving farm",
+      "old_anchor": "s3e12-campaign-finale-nearly-dies-helps-destroy-khalazar-farewell-to-chad-brad-thriving-farm",
+      "target": "Arc Three — Making nourishment a promise kept",
+      "disposition": "character development synthesized; detailed event record preserved in archive"
+    },
+    {
+      "path": "delvers/world/characters/krandal-splenderbelt.md",
+      "old_heading": "S3E11: Minotaur army actually descends, jarring gate and non-performed curse removals",
+      "old_anchor": "s3e11-minotaur-army-actually-descends-jarring-gate-and-non-performed-curse-removals",
+      "target": "Arc Three — Making nourishment a promise kept",
+      "disposition": "character development synthesized; detailed event record preserved in archive"
+    },
+    {
+      "path": "delvers/world/characters/krandal-splenderbelt.md",
+      "old_heading": "S3E10: Pays farmworkers, recruits ten skeletal minotaurs and receives Devotee's Censer",
+      "old_anchor": "s3e10-pays-farmworkers-recruits-ten-skeletal-minotaurs-and-receives-devotees-censer",
+      "target": "Arc Three — Making nourishment a promise kept",
+      "disposition": "character development synthesized; detailed event record preserved in archive"
+    },
+    {
+      "path": "delvers/world/characters/krandal-splenderbelt.md",
+      "old_heading": "S3E09: Shared golem combat, Ptah's cleric, completed spa sleep, badge anomaly",
+      "old_anchor": "s3e09-shared-golem-combat-ptahs-cleric-completed-spa-sleep-badge-anomaly",
+      "target": "Arc Three — Making nourishment a promise kept",
+      "disposition": "character development synthesized; detailed event record preserved in archive"
+    },
+    {
+      "path": "delvers/world/characters/krandal-splenderbelt.md",
+      "old_heading": "S3E08: False workers' revolt, Radiant Lance's tabard and Scroungy's tracking ribbon",
+      "old_anchor": "s3e08-false-workers-revolt-radiant-lances-tabard-and-scroungys-tracking-ribbon",
+      "target": "Arc Three — Making nourishment a promise kept",
+      "disposition": "character development synthesized; detailed event record preserved in archive"
+    },
+    {
+      "path": "delvers/world/characters/krandal-splenderbelt.md",
+      "old_heading": "S3E07: The shrunken cleric and young hook horror in his bag",
+      "old_anchor": "s3e07-the-shrunken-cleric-and-young-hook-horror-in-his-bag",
+      "target": "Arc Three — Making nourishment a promise kept",
+      "disposition": "character development synthesized; detailed event record preserved in archive"
+    },
+    {
+      "path": "delvers/world/characters/krandal-splenderbelt.md",
+      "old_heading": "S3E06: Turn Undead, an unpaid farm and the hatchling",
+      "old_anchor": "s3e06-turn-undead-an-unpaid-farm-and-the-hatchling",
+      "target": "Arc Three — Making nourishment a promise kept",
+      "disposition": "character development synthesized; detailed event record preserved in archive"
+    },
+    {
+      "path": "delvers/world/characters/krandal-splenderbelt.md",
+      "old_heading": "S3E05: Lost memories and a dark prison",
+      "old_anchor": "s3e05-lost-memories-and-a-dark-prison",
+      "target": "Arc Three — Making nourishment a promise kept",
+      "disposition": "character development synthesized; detailed event record preserved in archive"
+    },
+    {
+      "path": "delvers/world/characters/krandal-splenderbelt.md",
+      "old_heading": "S3E04: Boots, water and the behir",
+      "old_anchor": "s3e04-boots-water-and-the-behir",
+      "target": "Arc Three — Making nourishment a promise kept",
+      "disposition": "character development synthesized; detailed event record preserved in archive"
+    },
+    {
+      "path": "delvers/world/characters/krandal-splenderbelt.md",
+      "old_heading": "S3E03: Gilded potato, public sales and a truth-telling slip",
+      "old_anchor": "s3e03-gilded-potato-public-sales-and-a-truth-telling-slip",
+      "target": "Arc Three — Making nourishment a promise kept",
+      "disposition": "character development synthesized; detailed event record preserved in archive"
+    },
+    {
+      "path": "delvers/world/characters/krandal-splenderbelt.md",
+      "old_heading": "S3E02: Growing the farm under threat",
+      "old_anchor": "s3e02-growing-the-farm-under-threat",
+      "target": "Arc Three — Making nourishment a promise kept",
+      "disposition": "character development synthesized; detailed event record preserved in archive"
+    },
+    {
+      "path": "delvers/world/characters/krandal-splenderbelt.md",
+      "old_heading": "S3E01: Samuel, Snake Island's guard and the investment proposal",
+      "old_anchor": "s3e01-samuel-snake-islands-guard-and-the-investment-proposal",
+      "target": "Arc Three — Making nourishment a promise kept",
+      "disposition": "character development synthesized; detailed event record preserved in archive"
+    },
+    {
+      "path": "delvers/world/characters/krandal-splenderbelt.md",
+      "old_heading": "S2E12 end second arc: Princess Hissia and failed Drone suppression",
+      "old_anchor": "s2e12-end-second-arc-princess-hissia-and-failed-drone-suppression",
+      "target": "Arc Two — Doubt and a place to grow",
+      "disposition": "character development synthesized; detailed event record preserved in archive"
+    },
+    {
+      "path": "delvers/world/characters/krandal-splenderbelt.md",
+      "old_heading": "Out-of-game creator explanation — August 2021 bonus (NOT a played scene)",
+      "old_anchor": "out-of-game-creator-explanation--august-2021-bonus-not-a-played-scene",
+      "target": "krandal-commentary",
+      "disposition": "attributed creator commentary in footnote"
+    },
+    {
+      "path": "delvers/world/characters/krandal-splenderbelt.md",
+      "old_heading": "Overview",
+      "old_anchor": "overview",
+      "target": "Introduction",
+      "disposition": "character development synthesized; detailed event record preserved in archive"
+    },
+    {
+      "path": "delvers/world/characters/krandal-splenderbelt.md",
+      "old_heading": "Development and relationships",
+      "old_anchor": "development-and-relationships",
+      "target": "Development by arc",
+      "disposition": "character development synthesized; detailed event record preserved in archive"
+    },
+    {
+      "path": "delvers/world/characters/krandal-splenderbelt.md",
+      "old_heading": "The first guild job",
+      "old_anchor": "the-first-guild-job",
+      "target": "Arc One — Service and the care it requires",
+      "disposition": "character development synthesized; detailed event record preserved in archive"
+    },
+    {
+      "path": "delvers/world/characters/krandal-splenderbelt.md",
+      "old_heading": "Faith, fallibility and mutual care",
+      "old_anchor": "faith-fallibility-and-mutual-care",
+      "target": "Arc One — Service and the care it requires",
+      "disposition": "character development synthesized; detailed event record preserved in archive"
+    },
+    {
+      "path": "delvers/world/characters/krandal-splenderbelt.md",
+      "old_heading": "Courage at the edge of the ruin",
+      "old_anchor": "courage-at-the-edge-of-the-ruin",
+      "target": "Arc One — Service and the care it requires",
+      "disposition": "character development synthesized; detailed event record preserved in archive"
+    },
+    {
+      "path": "delvers/world/characters/krandal-splenderbelt.md",
+      "old_heading": "Service, humility and an ambition of his own",
+      "old_anchor": "service-humility-and-an-ambition-of-his-own",
+      "target": "Arc One — Service and the care it requires",
+      "disposition": "character development synthesized; detailed event record preserved in archive"
+    },
+    {
+      "path": "delvers/world/characters/krandal-splenderbelt.md",
+      "old_heading": "A keeper of the light",
+      "old_anchor": "a-keeper-of-the-light",
+      "target": "Arc One — Service and the care it requires",
+      "disposition": "character development synthesized; detailed event record preserved in archive"
+    },
+    {
+      "path": "delvers/world/characters/krandal-splenderbelt.md",
+      "old_heading": "An uncertain celebrant, a caring neighbor",
+      "old_anchor": "an-uncertain-celebrant-a-caring-neighbor",
+      "target": "Arc One — Service and the care it requires",
+      "disposition": "character development synthesized; detailed event record preserved in archive"
+    },
+    {
+      "path": "delvers/world/characters/krandal-splenderbelt.md",
+      "old_heading": "Responsibility beneath a holy place",
+      "old_anchor": "responsibility-beneath-a-holy-place",
+      "target": "Arc One — Service and the care it requires",
+      "disposition": "character development synthesized; detailed event record preserved in archive"
+    },
+    {
+      "path": "delvers/world/characters/krandal-splenderbelt.md",
+      "old_heading": "Searching for a lost meaning",
+      "old_anchor": "searching-for-a-lost-meaning",
+      "target": "Arc One — Service and the care it requires",
+      "disposition": "character development synthesized; detailed event record preserved in archive"
+    },
+    {
+      "path": "delvers/world/characters/krandal-splenderbelt.md",
+      "old_heading": "The gentleness of restraint",
+      "old_anchor": "the-gentleness-of-restraint",
+      "target": "Arc One — Service and the care it requires",
+      "disposition": "character development synthesized; detailed event record preserved in archive"
+    },
+    {
+      "path": "delvers/world/characters/krandal-splenderbelt.md",
+      "old_heading": "A rescuer beneath the stones",
+      "old_anchor": "a-rescuer-beneath-the-stones",
+      "target": "Arc One — Service and the care it requires",
+      "disposition": "character development synthesized; detailed event record preserved in archive"
+    },
+    {
+      "path": "delvers/world/characters/krandal-splenderbelt.md",
+      "old_heading": "Mercy for an armored stranger",
+      "old_anchor": "mercy-for-an-armored-stranger",
+      "target": "Arc One — Service and the care it requires",
+      "disposition": "character development synthesized; detailed event record preserved in archive"
+    },
+    {
+      "path": "delvers/world/characters/krandal-splenderbelt.md",
+      "old_heading": "The mercy of a full day's work",
+      "old_anchor": "the-mercy-of-a-full-days-work",
+      "target": "Arc One — Service and the care it requires",
+      "disposition": "character development synthesized; detailed event record preserved in archive"
+    },
+    {
+      "path": "delvers/world/characters/krandal-splenderbelt.md",
+      "old_heading": "The land given and the faith questioned",
+      "old_anchor": "the-land-given-and-the-faith-questioned",
+      "target": "Arc Two — Doubt and a place to grow",
+      "disposition": "character development synthesized; detailed event record preserved in archive"
+    },
+    {
+      "path": "delvers/world/characters/krandal-splenderbelt.md",
+      "old_heading": "The wedding he nearly missed",
+      "old_anchor": "the-wedding-he-nearly-missed",
+      "target": "Arc Two — Doubt and a place to grow",
+      "disposition": "character development synthesized; detailed event record preserved in archive"
+    },
+    {
+      "path": "delvers/world/characters/krandal-splenderbelt.md",
+      "old_heading": "A defender who becomes a farmer",
+      "old_anchor": "a-defender-who-becomes-a-farmer",
+      "target": "Arc Two — Doubt and a place to grow",
+      "disposition": "character development synthesized; detailed event record preserved in archive"
+    },
+    {
+      "path": "delvers/world/characters/krandal-splenderbelt.md",
+      "old_heading": "The priest with masked maces",
+      "old_anchor": "the-priest-with-masked-maces",
+      "target": "Arc Two — Doubt and a place to grow",
+      "disposition": "character development synthesized; detailed event record preserved in archive"
+    },
+    {
+      "path": "delvers/world/characters/krandal-splenderbelt.md",
+      "old_heading": "Current status (through S2E11) — Splenderbelt the Efficient",
+      "old_anchor": "current-status-through-s2e11--splenderbelt-the-efficient",
+      "target": "Arc Two — Doubt and a place to grow",
+      "disposition": "character development synthesized; detailed event record preserved in archive"
+    },
+    {
+      "path": "delvers/world/characters/krandal-splenderbelt.md",
+      "old_heading": "Previously established through S2E10",
+      "old_anchor": "previously-established-through-s2e10",
+      "target": "Arc Two — Doubt and a place to grow",
+      "disposition": "character development synthesized; detailed event record preserved in archive"
+    },
+    {
+      "path": "delvers/world/characters/krandal-splenderbelt.md",
+      "old_heading": "Previously established by S2E09",
+      "old_anchor": "previously-established-by-s2e09",
+      "target": "Arc Two — Doubt and a place to grow",
+      "disposition": "character development synthesized; detailed event record preserved in archive"
+    },
+    {
+      "path": "delvers/world/characters/krandal-splenderbelt.md",
+      "old_heading": "Previously established by S2E08",
+      "old_anchor": "previously-established-by-s2e08",
+      "target": "Arc Two — Doubt and a place to grow",
+      "disposition": "character development synthesized; detailed event record preserved in archive"
+    },
+    {
+      "path": "delvers/world/characters/krandal-splenderbelt.md",
+      "old_heading": "Previously established in S2E07",
+      "old_anchor": "previously-established-in-s2e07",
+      "target": "Arc Two — Doubt and a place to grow",
+      "disposition": "character development synthesized; detailed event record preserved in archive"
+    },
+    {
+      "path": "delvers/world/characters/krandal-splenderbelt.md",
+      "old_heading": "Established by S2E06",
+      "old_anchor": "established-by-s2e06",
+      "target": "Arc Two — Doubt and a place to grow",
+      "disposition": "character development synthesized; detailed event record preserved in archive"
+    },
+    {
+      "path": "delvers/world/characters/krandal-splenderbelt.md",
+      "old_heading": "Earlier status (at S2E04 cutoff)",
+      "old_anchor": "earlier-status-at-s2e04-cutoff",
+      "target": "Arc Two — Doubt and a place to grow",
+      "disposition": "character development synthesized; detailed event record preserved in archive"
+    }
+  ]
+}
