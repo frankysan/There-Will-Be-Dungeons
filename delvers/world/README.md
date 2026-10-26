@@ -59,7 +59,13 @@ The [triangle-gate catacombs](places/triangle-gate-catacombs.md) and [Black Basi
 
 [Hooper Estate](places/hooper-estate.md) and the [Minotaur Mesa bone crypt](places/minotaur-mesa-bone-crypt.md) have a [place checkpoint](../../reports/DELVERS_HOOPER_CRYPT_2026-10-26.md), separating the family burial, voluntary council and later final rest at the Guild.
 
-Other subject articles remain pending; this does not certify the entire directory as migrated.
+[Glepo Ma](characters/gleepo-ma.md) and [Skoogie](characters/skoogie.md) have a [character checkpoint](../../reports/DELVERS_GLEPO_SKOOGIE_2026-10-26.md) covering village bargains, exile/work, the dragon alliance and each final known outcome.
+
+[Marsh](characters/marsh.md) and [the Great Daufante](characters/the-great-daufante.md) have a [guest-character checkpoint](../../reports/DELVERS_MARSH_DAUFANTE_2026-10-26.md) covering tactical judgment, showmanship, disputed finds and supported departures.
+
+[Destroying Angel](characters/destroying-angel.md) and [Goggles Granny](characters/goggles-granny.md) have a [guest-allies checkpoint](../../reports/DELVERS_ANGEL_GRANNY_2026-10-26.md) covering diplomatic care, independent expertise, practical cooperation and their distinct departures.
+
+All 27 current place-directory paths now have bounded editorial dispositions: 25 place/institution accounts, one historical event study and one compatibility route. The [place audit](../../reports/DELVERS_PLACE_AUDIT_2026-10-26.md) and [disposition register](../../project/DELVERS_PLACE_DISPOSITIONS.json) distinguish direct site observations from later reports and outcomes. This does not certify complete factual coverage or finish the remaining world domains.
 
 ## Subject directory
 
@@ -115,7 +121,7 @@ Other subject articles remain pending; this does not certify the entire director
 - [Gemholm — Lake Absul gem-dredging sandbar settlement](places/gemholm.md)
 - [Governor's hall — Bronze Ball and the breached Drone pit](places/governors-hall.md)
 - [Grick-infested sinkhole — ruins and buried dungeon](places/grick-sinkhole.md)
-- [S3E10 — Atomer Guild public reckoning and Cassius's return](places/guild-public-reckoning-s3e10.md)
+- [Atomer Guild public reckoning and Cassius's return](places/guild-public-reckoning-s3e10.md)
 - [Hooper Estate — a wedding in the western woods](places/hooper-estate.md)
 - [The kuo-toa lakeshore village](places/kuo-toa-lakeshore-village.md)
 - [Minotaur Mesa bone crypt beneath Noble Hollow](places/minotaur-mesa-bone-crypt.md)

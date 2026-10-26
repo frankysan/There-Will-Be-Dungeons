@@ -1,6 +1,10 @@
 # Vorel — titles and epithets register
 
-**Type:** Source-indexed supporting register for [Vorel](vorel.md), deliberately separated from the main character biography. **Evidence:** ASR-provisional, with source windows, name variants and social standing preserved. **Spoilers:** Through Wastes S3E06; Q&As are retrospective, not played conferrals. [Characters](../CHARACTERS.md) · [World portal](../README.md).
+**Type:** Source-indexed supporting register for [Vorel](vorel.md), deliberately separated from the main character biography. **Evidence:** ASR-provisional, with source windows, name variants and social standing preserved. **Spoilers:** Through Wastes S3E07; Q&As are retrospective, not played conferrals. [Characters](../CHARACTERS.md) · [World portal](../README.md).
+
+## S3E07 — actually names the S3E06 longsword “Chrome's Bane,” NOT a personal title
+
+In [played S3E07 — Dragon on Dragon Action](../../episodes/S3E07.md) **~00:07–00:09**, Vorel/Kyle **PUBLICLY ANNOUNCES OVER THE BATTLE RADIO that he has named the +2 longsword “CHROME'S BANE”**, commemorating the Paladin slain in S3E06. Both processed ASR sources corroborate the name. **This is first demonstrated NAMING OF EQUIPMENT**, following the mere *consideration* of naming it in S3E06; **NOT a fifth self-proclaimed personal Vorel epithet, royal rank or outside-bestowed title**. Vorel later **actually KILLS the patchwork chrome dragon WITH this named sword** at ~02:03–02:05. Groxl/the Eye's legendary identification at the end is **not a newly awarded Vorel title**; the enormous Groxl's own litany concerns **his own purported accomplishments**, not Vorel's status. [S3E07 P/Q audit](../../reports/WASTES_S3E07_ASR_COMPARISON_2026-10-26.md); **no audio listened**.
 
 ## S3E06 — Vorel rejects Paladin's enslavement claim and defeats him; NO newly conferred personal title
 

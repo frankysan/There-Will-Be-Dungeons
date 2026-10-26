@@ -1,0 +1,106 @@
+{
+  "date": "2026-10-26",
+  "scope": "Delvers-only guest adventurers",
+  "headings": [
+    {
+      "path": "delvers/world/characters/marsh.md",
+      "old_heading": "Marsh \u2014 silver-ranked wood-elf dragon hunter",
+      "old_anchor": "marsh--silver-ranked-wood-elf-dragon-hunter",
+      "target": "Introduction, character development or final status/source note",
+      "disposition": "Native heading or compatibility anchor retained; full original archived"
+    },
+    {
+      "path": "delvers/world/characters/marsh.md",
+      "old_heading": "Arrival at Atomer",
+      "old_anchor": "arrival-at-atomer",
+      "target": "development-by-arc",
+      "disposition": "Native heading or compatibility anchor retained; full original archived"
+    },
+    {
+      "path": "delvers/world/characters/marsh.md",
+      "old_heading": "An unexpectedly ancient quarry",
+      "old_anchor": "an-unexpectedly-ancient-quarry",
+      "target": "development-by-arc",
+      "disposition": "Native heading or compatibility anchor retained; full original archived"
+    },
+    {
+      "path": "delvers/world/characters/marsh.md",
+      "old_heading": "Later resolution established by S2E09 GM recap",
+      "old_anchor": "later-resolution-established-by-s2e09-gm-recap",
+      "target": "development-by-arc",
+      "disposition": "Native heading or compatibility anchor retained; full original archived"
+    },
+    {
+      "path": "delvers/world/characters/marsh.md",
+      "old_heading": "Prior status (S2E08 cutoff)",
+      "old_anchor": "prior-status-s2e08-cutoff",
+      "target": "development-by-arc",
+      "disposition": "Native heading or compatibility anchor retained; full original archived"
+    },
+    {
+      "path": "delvers/world/characters/the-great-daufante.md",
+      "old_heading": "The Great Daufante \u2014 illusionist of Teppensteppe Hall",
+      "old_anchor": "the-great-daufante--illusionist-of-teppensteppe-hall",
+      "target": "Introduction, character development or final status/source note",
+      "disposition": "Native heading or compatibility anchor retained; full original archived"
+    },
+    {
+      "path": "delvers/world/characters/the-great-daufante.md",
+      "old_heading": "Introduction",
+      "old_anchor": "introduction",
+      "target": "Introduction, character development or final status/source note",
+      "disposition": "Native heading or compatibility anchor retained; full original archived"
+    },
+    {
+      "path": "delvers/world/characters/the-great-daufante.md",
+      "old_heading": "A remarkable entourage",
+      "old_anchor": "a-remarkable-entourage",
+      "target": "development-by-arc",
+      "disposition": "Native heading or compatibility anchor retained; full original archived"
+    },
+    {
+      "path": "delvers/world/characters/the-great-daufante.md",
+      "old_heading": "The wedding and its secret",
+      "old_anchor": "the-wedding-and-its-secret",
+      "target": "development-by-arc",
+      "disposition": "Native heading or compatibility anchor retained; full original archived"
+    },
+    {
+      "path": "delvers/world/characters/the-great-daufante.md",
+      "old_heading": "Departure and current status",
+      "old_anchor": "departure-and-current-status",
+      "target": "current-status",
+      "disposition": "Native heading or compatibility anchor retained; full original archived"
+    }
+  ],
+  "additional_blocks": [
+    {
+      "path": "delvers/world/characters/marsh.md",
+      "old_block": "Working name, performer/campaign/source-horizon metadata",
+      "target": "Introduction and source notes"
+    }
+  ],
+  "domains": {
+    "delvers/world/characters/marsh.md": "Character: expertise, caution, leadership with less experienced companions, translated alliance, tactical contribution and negotiated departure",
+    "delvers/world/characters/the-great-daufante.md": "Character: theatrical self-presentation, entourage/authority, artifact entitlement, charm/concealment, compromise and limited future invitation"
+  },
+  "review": "Both complete profiles; names/aliases searched across all 37 dossiers; selected complete wedding/dragon source paragraphs and explicit follow-up confirmations read; no new ASR/audio/sheet/art review",
+  "critical_boundaries": [
+    "Marsh separate from generic marsh terrain and other campaign identities",
+    "Scars do not establish cause/history; exact height and item identities unverified",
+    "Wheatley companion versus familiar mechanics not settled",
+    "Dragon age is expert estimate contrasting clerk report",
+    "Marsh translation, arrow acceptance and cooperation not universal allegiance or enforceable massage deal",
+    "Gate control and killing arrow supplied by S2E09 retrospective, not continuous S2E08 kill",
+    "Even nominal share not audited equal magic items or explicit 3000 for every adventurer",
+    "Daufante stage/hall title provisional, not a new explored homeland or crossover",
+    "Entourage actions do not establish Connor death cause/consent or an independent eyewitness to murder",
+    "Invented performed adventure is not real backstory",
+    "Charm-confession testimony not witnessed old crime or sincere lifelong friendship",
+    "Observed spell/item use not a complete class sheet",
+    "Deck actually recovered and kept, but no card drawn before departure or later powers proved",
+    "Reward waiver not fully reconciled payment audit",
+    "Theatre invitation not consummated romance/appointment or proved hidden divine motive",
+    "No later guest return, level/rank change or full post-campaign fate invented"
+  ]
+}

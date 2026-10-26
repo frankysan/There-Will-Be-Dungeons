@@ -1,0 +1,88 @@
+{
+  "date": "2026-10-26",
+  "scope": "Delvers-only cleric researcher and remembered knight",
+  "headings": [
+    {
+      "path": "delvers/world/characters/barclay-vandergeist.md",
+      "old_heading": "Barclay Vandergeist / Bendergeist \u2014 guest tortle cleric",
+      "old_anchor": "barclay-vandergeist--bendergeist--guest-tortle-cleric",
+      "target": "Introduction, development, Current status or relevant source note",
+      "disposition": "Native heading or compatibility anchor retained; full original archived"
+    },
+    {
+      "path": "delvers/world/characters/barclay-vandergeist.md",
+      "old_heading": "Out-of-game guest character selection (BONUS-2021-11-10, ~04:25\u201307:35)",
+      "old_anchor": "out-of-game-guest-character-selection-bonus-2021-11-10-04250735",
+      "target": "Introduction, development, Current status or relevant source note",
+      "disposition": "Native heading or compatibility anchor retained; full original archived"
+    },
+    {
+      "path": "delvers/world/characters/barclay-vandergeist.md",
+      "old_heading": "Appearance \u2014 player narration ~00:10\u201300:20",
+      "old_anchor": "appearance--player-narration-00100020",
+      "target": "Introduction, development, Current status or relevant source note",
+      "disposition": "Native heading or compatibility anchor retained; full original archived"
+    },
+    {
+      "path": "delvers/world/characters/barclay-vandergeist.md",
+      "old_heading": "Skills, religion, behaviour",
+      "old_anchor": "skills-religion-behaviour",
+      "target": "Introduction, development, Current status or relevant source note",
+      "disposition": "Native heading or compatibility anchor retained; full original archived"
+    },
+    {
+      "path": "delvers/world/characters/radiant-lance.md",
+      "old_heading": "Radiant Lance \u2014 historic Pelor knight, trapped mental witness",
+      "old_anchor": "radiant-lance--historic-pelor-knight-trapped-mental-witness",
+      "target": "Introduction, development, Current status or relevant source note",
+      "disposition": "Native heading or compatibility anchor retained; full original archived"
+    },
+    {
+      "path": "delvers/world/characters/radiant-lance.md",
+      "old_heading": "Speech inside the collective's psychic fabrication",
+      "old_anchor": "speech-inside-the-collectives-psychic-fabrication",
+      "target": "Introduction, development, Current status or relevant source note",
+      "disposition": "Native heading or compatibility anchor retained; full original archived"
+    },
+    {
+      "path": "delvers/world/characters/radiant-lance.md",
+      "old_heading": "Physical remains and custody",
+      "old_anchor": "physical-remains-and-custody",
+      "target": "Introduction, development, Current status or relevant source note",
+      "disposition": "Native heading or compatibility anchor retained; full original archived"
+    }
+  ],
+  "additional_blocks": [
+    {
+      "path": "delvers/world/characters/barclay-vandergeist.md",
+      "old_block": "Opening spelling/casting, spellcraft, Nondetection/return, Chance warning and end-cutoff blocks",
+      "target": "Introduction, development, Current status and notes"
+    },
+    {
+      "path": "delvers/world/characters/radiant-lance.md",
+      "old_block": "Opening identity/false projection and final factual-boundary blocks",
+      "target": "Introduction, development, Current status and notes"
+    }
+  ],
+  "domains": {
+    "delvers/world/characters/barclay-vandergeist.md": "Character: survival, resourcefulness, hospitality, faith, collaboration and return to society",
+    "delvers/world/characters/radiant-lance.md": "Character: historical reputation, attributed ideals, captive agency, companionship and surviving relics"
+  },
+  "review": "Both complete biographies; aliases searched across all 37 dossiers; selected complete camp/puzzle/exit and historical/psychic/remains paragraphs, later tracking admission and bounded bonus selection passage reviewed; no new ASR/audio/sheet/art/map review",
+  "critical_boundaries": [
+    "Barclay and guest performer spellings remain provisional",
+    "Research-team duration/fate are personal testimony, not independently verified deaths or elapsed months",
+    "Ptah characterization is Barclay testimony; no witnessed Ptah/Pelor dispute",
+    "Chance lantern spirit not equated with another campaign entity",
+    "Bonus rejected character concepts and proposed shortcut never played; recording date inferred only",
+    "Nondetection performed for three in play; falling badges observed, exact enchantment unidentified",
+    "Later Zoltar admission supports general Guild divination, not a complete technical explanation or proof of every observed pursuit",
+    "Atomer arrival not research-team reunion, legal assignment or permanent recruitment",
+    "Radiant Lance theatre is a namesake, not proof of founding/attendance",
+    "Dragon killing is clerk testimony and inscription authorship attributed, not independently dated biography",
+    "Mental meeting distinct from fabricated current farm takeover and a living bodily return",
+    "Claimed 150-year confinement remains testimony; card game and thanks are psychic encounter actions",
+    "Fading mental presence not verified divine release/resurrection",
+    "Tabard is worn as holy symbol; extra magic/attunement unproved; physical lance stored, bag bearer unspecified and separate from Loran weapon"
+  ]
+}

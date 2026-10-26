@@ -1,6 +1,6 @@
 # Vorel
 
-**Portrayed by:** Kyle. **Identity:** Lizardfolk warrior and leader, protector of **Bok Bok**, bearer of the **Eye of Groxl** and claimant to many personal titles. **Spoilers:** Main Wastes through **S3E06** and cast Q&As, including the April 2022 retrospective. **Evidence:** ASR-provisional except owner-confirmed item/name orthography.[^march21]
+**Portrayed by:** Kyle. **Identity:** Lizardfolk warrior and leader, protector of **Bok Bok**, bearer of the **Eye of Groxl** and claimant to many personal titles. **Spoilers:** Main Wastes through **S3E07** and cast Q&As, including the April 2022 retrospective. **Evidence:** ASR-provisional except owner-confirmed item/name orthography.[^march21]
 
 **Browse:** [Characters](../CHARACTERS.md) · [His source-indexed titles](vorel-titles.md) · [Eye of Groxl](../technology/eye-of-groxl.md) · [World portal](../README.md).
 
@@ -11,6 +11,10 @@ In [May 2022 out-of-game Q&A](../../episodes/BONUS-2022-05.md) **~00:20:36–00:
 ## April 2022 Q&A — self-reliance and fish-out-of-water inspiration
 
 In the [April 2022 Q&A](../../episodes/BONUS-2022-04.md), Kyle says he considered but **did not ask the werefolk to transform Vorel**, believing an acquired curse would undercut the warrior's personal strength. He says the character's distinctive viewpoint grew from a **comedic outsider's sincerity in unfamiliar culture**, specifically citing **Worf from Star Trek** as a creative inspiration. A paladin version of Vorel is discussed as **an alternate hypothetical class**, not a played multiclass, and the giant lizard remains himself rather than a werebear. **No new personal epithet or in-world reference to Star Trek is established.** [Comparison](../../reports/BONUS_2022-04_ASR_COMPARISON_2026-10-26.md).
+
+## S3E07 — Chrome's Bane named, chrome dragon killed, Groxl recognized
+
+In [played S3E07](../../episodes/S3E07.md), Vorel **actually names the +2 longsword “Chrome's Bane” over radio (~00:07–00:09)** after its S3E06 Paladin kill. This is a **weapon name, not a fifth personal title**. He rides Nash in adult-black-dragon form toward a massive patchwork chrome dragon, throws his +2 shield at an airborne Paladin (subsequent shield custody uncertain), and **clings to the enemy dragon's horn by a GM-approved Athletics skill check** rather than actually restraining the creature. Nash ***Enlarges* Vorel**, and Stanley ***Feather Fall*s** him after the dragon knocks him loose. **Vorel kills the chrome dragon with two Chrome's Bane strikes (~40 slashing)**. Seconds later a **mountain-sized Groxl** physically emerges from the dragon's giant egg and crushes Fate Six; Vorel survives the fall and lands near the giant's foot, still enlarged briefly and armed. His **embedded Eye of Groxl reacts**, and the GM **directly confirms Vorel's identification of this being as the real ancient Groxl**. Groxl's claims to god-killing deeds are **enemy testimony**, not authenticated ancient history. No battle with Groxl yet at cutoff. [Named sword](../technology/chromes-bane.md) · [Eye](../technology/eye-of-groxl.md) · [S3E07 P/Q audit](../../reports/WASTES_S3E07_ASR_COMPARISON_2026-10-26.md); **audio unverified**.
 
 ## S3E06 — Paladin slain, +2 shield in use, northern gate still closed
 

@@ -2,7 +2,11 @@
 
 **Browse:** [Items and artifacts](../ITEMS_AND_ARTIFACTS.md) · [World portal](../README.md)
 
-**Canonical object identity:** **One artifact**, with owner-confirmed spelling **Eye of Groxl**. Processed ASR names `Grojil` and `Groxel` refer to **this same object**, including the E067 “god killer Grojil” phrase; they are not a second god/item. [D-028/D-034](../../project/DECISIONS.md). **Spoilers:** Through E124. **Research:** ASR-provisional mechanics and lore.
+**Canonical object identity:** **One artifact**, with owner-confirmed spelling **Eye of Groxl**. Processed ASR names `Grojil` and `Groxel` refer to **this same object**, including the E067 “god killer Grojil” phrase; they are not a second god/item. [D-028/D-034](../../project/DECISIONS.md). **Spoilers:** Through played Wastes S3E07. **Research:** ASR-provisional mechanics and lore.
+
+## S3E07 — physically emerged Groxl recognized through Vorel's implanted Eye
+
+In [played Wastes S3E07](../../episodes/S3E07.md), a **huge egg drawn up by the chrome dragon** at the central Solar Mines opens to reveal an actual **mountain-sized LIZARDFOLK with an armed building on his back**, who self-names amid inconsistent ASR renderings such as **Grojil/Grozil/Groshil**. The owner-confirmed display is **Groxl** for this Eye-associated ancient referent, not a second unrelated object. **The GM EXPLICITLY CONFIRMS** after the encounter that **VOREL, THROUGH THE EYE STILL IMPLANTED IN HIS CHEST, KNOWS WITH CERTAINTY that the gigantic being is the legendary Groxl** (~02:19–02:21). This establishes **physical presence and recognized identity**, but **NOT the literal historic truth of the being's own boasts about divine kills, ancient battles or being superior to the Principle**. The large creature ACTUALLY **CRUSHES Fate Six, destroys/throws Elhandari ships, and turns to threaten Hope**. No transfer/removal of the Eye, Eye attack, divine status proof or defeat of Groxl by cutoff. [S3E07 comparison](../../reports/WASTES_S3E07_ASR_COMPARISON_2026-10-26.md). **Original audio and exact original name pronunciation unchecked.**
 
 ## E124 — recognition by Malhya and ambiguous lore
 

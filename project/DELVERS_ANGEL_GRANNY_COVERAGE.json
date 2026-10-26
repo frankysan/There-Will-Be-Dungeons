@@ -1,0 +1,83 @@
+{
+  "date": "2026-10-26",
+  "scope": "Delvers-only guest allies",
+  "headings": [
+    {
+      "path": "delvers/world/characters/destroying-angel.md",
+      "old_heading": "Destroying Angel \u2014 centaur diplomatic envoy",
+      "old_anchor": "destroying-angel--centaur-diplomatic-envoy",
+      "target": "Introduction, development, current status or source notes",
+      "disposition": "Native heading or compatibility anchor retained; full original archived"
+    },
+    {
+      "path": "delvers/world/characters/destroying-angel.md",
+      "old_heading": "Appearance and equipment",
+      "old_anchor": "appearance-and-equipment",
+      "target": "Introduction, development, current status or source notes",
+      "disposition": "Native heading or compatibility anchor retained; full original archived"
+    },
+    {
+      "path": "delvers/world/characters/destroying-angel.md",
+      "old_heading": "A careful envoy",
+      "old_anchor": "a-careful-envoy",
+      "target": "Introduction, development, current status or source notes",
+      "disposition": "Native heading or compatibility anchor retained; full original archived"
+    },
+    {
+      "path": "delvers/world/characters/destroying-angel.md",
+      "old_heading": "Against the black-sand creature",
+      "old_anchor": "against-the-black-sand-creature",
+      "target": "Introduction, development, current status or source notes",
+      "disposition": "Native heading or compatibility anchor retained; full original archived"
+    },
+    {
+      "path": "delvers/world/characters/goggles-granny.md",
+      "old_heading": "Goggles Granny \u2014 visiting elderly catlike alchemist",
+      "old_anchor": "goggles-granny--visiting-elderly-catlike-alchemist",
+      "target": "Introduction, development, current status or source notes",
+      "disposition": "Native heading or compatibility anchor retained; full original archived"
+    },
+    {
+      "path": "delvers/world/characters/goggles-granny.md",
+      "old_heading": "Appearance and equipment \u2014 directly described by the guest (~00:13\u201300:19)",
+      "old_anchor": "appearance-and-equipment--directly-described-by-the-guest-00130019",
+      "target": "Introduction, development, current status or source notes",
+      "disposition": "Native heading or compatibility anchor retained; full original archived"
+    },
+    {
+      "path": "delvers/world/characters/goggles-granny.md",
+      "old_heading": "Independent explorer and reluctant fourth puzzle-solver",
+      "old_anchor": "independent-explorer-and-reluctant-fourth-puzzle-solver",
+      "target": "Introduction, development, current status or source notes",
+      "disposition": "Native heading or compatibility anchor retained; full original archived"
+    }
+  ],
+  "additional_blocks": [
+    {
+      "path": "delvers/world/characters/destroying-angel.md",
+      "old_block": "Opening casting/source metadata and inline cutoff",
+      "target": "Introduction, Current status and notes"
+    },
+    {
+      "path": "delvers/world/characters/goggles-granny.md",
+      "old_block": "Opening name/shop metadata, disposition and inline cutoff",
+      "target": "Introduction, development, Current status and notes"
+    }
+  ],
+  "domains": {
+    "delvers/world/characters/destroying-angel.md": "Character: diplomatic respect, care, practical courage and temporary assignment",
+    "delvers/world/characters/goggles-granny.md": "Character: independent competence, brusque cooperation, inventive alchemy and chosen departure"
+  },
+  "review": "Both complete biographies; aliases searched across all 37 dossiers; selected complete primary paragraphs and explicit follow-up reviewed; no new ASR/audio/sheet/art review",
+  "critical_boundaries": [
+    "Angel already absent next morning, no destination/exit scene invented",
+    "Conditional hospitality and later paid use do not establish a constructed Guild base",
+    "Koh frees Krandal and kills foe; Angel rescues Vapo and reassures patrons",
+    "Granny Goggles/Goggles Granny name order unresolved",
+    "Earlier merchant and closed shop not automatically identified with guest",
+    "Catlike appearance not official ancestry or full class sheet",
+    "Only growth/diminution consumed; no mayonnaise produced or shirt substituted",
+    "25-pound whole vessel, not heart alone; stone and weights substitute without trap activation",
+    "Safe town return before jar placement; town threat/location and later outcome unresolved"
+  ]
+}

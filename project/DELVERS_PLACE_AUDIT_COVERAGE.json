@@ -1,0 +1,136 @@
+{
+  "date": "2026-10-26",
+  "scope": "Place-directory audit and one event study, with two source-note reconciliations",
+  "headings": [
+    {
+      "path": "delvers/world/places/guild-public-reckoning-s3e10.md",
+      "old_heading": "S3E10 \u2014 Atomer Guild public reckoning and Cassius's return",
+      "old_anchor": "s3e10--atomer-guild-public-reckoning-and-cassiuss-return",
+      "target": "Native heading, event introduction or source note",
+      "disposition": "Native heading or compatibility anchor retained; full original archived"
+    },
+    {
+      "path": "delvers/world/places/deep-winds-spa.md",
+      "old_heading": "Deep Winds Spa \u2014 flumph hospitality beneath Atomer",
+      "old_anchor": "deep-winds-spa--flumph-hospitality-beneath-atomer",
+      "target": "Native heading, event introduction or source note",
+      "disposition": "Native heading or compatibility anchor retained; full original archived"
+    },
+    {
+      "path": "delvers/world/places/deep-winds-spa.md",
+      "old_heading": "Introduction",
+      "old_anchor": "introduction",
+      "target": "Native heading, event introduction or source note",
+      "disposition": "Native heading or compatibility anchor retained; full original archived"
+    },
+    {
+      "path": "delvers/world/places/deep-winds-spa.md",
+      "old_heading": "Development",
+      "old_anchor": "development",
+      "target": "Native heading, event introduction or source note",
+      "disposition": "Native heading or compatibility anchor retained; full original archived"
+    },
+    {
+      "path": "delvers/world/places/deep-winds-spa.md",
+      "old_heading": "Arc Three \u2014 Hospitality, threatened water and paid refuge",
+      "old_anchor": "arc-three--hospitality-threatened-water-and-paid-refuge",
+      "target": "Native heading, event introduction or source note",
+      "disposition": "Native heading or compatibility anchor retained; full original archived"
+    },
+    {
+      "path": "delvers/world/places/deep-winds-spa.md",
+      "old_heading": "Current status",
+      "old_anchor": "current-status",
+      "target": "Native heading, event introduction or source note",
+      "disposition": "Native heading or compatibility anchor retained; full original archived"
+    },
+    {
+      "path": "delvers/world/places/delvers-guild.md",
+      "old_heading": "Delvers Dungeon Guild \u2014 Atomer",
+      "old_anchor": "delvers-dungeon-guild--atomer",
+      "target": "Native heading, event introduction or source note",
+      "disposition": "Native heading or compatibility anchor retained; full original archived"
+    },
+    {
+      "path": "delvers/world/places/delvers-guild.md",
+      "old_heading": "Introduction",
+      "old_anchor": "introduction",
+      "target": "Native heading, event introduction or source note",
+      "disposition": "Native heading or compatibility anchor retained; full original archived"
+    },
+    {
+      "path": "delvers/world/places/delvers-guild.md",
+      "old_heading": "Development by arc",
+      "old_anchor": "development-by-arc",
+      "target": "Native heading, event introduction or source note",
+      "disposition": "Native heading or compatibility anchor retained; full original archived"
+    },
+    {
+      "path": "delvers/world/places/delvers-guild.md",
+      "old_heading": "Arc One \u2014 Employment and public duty",
+      "old_anchor": "arc-one--employment-and-public-duty",
+      "target": "Native heading, event introduction or source note",
+      "disposition": "Native heading or compatibility anchor retained; full original archived"
+    },
+    {
+      "path": "delvers/world/places/delvers-guild.md",
+      "old_heading": "Arc Two \u2014 Patronage and its dangers",
+      "old_anchor": "arc-two--patronage-and-its-dangers",
+      "target": "Native heading, event introduction or source note",
+      "disposition": "Native heading or compatibility anchor retained; full original archived"
+    },
+    {
+      "path": "delvers/world/places/delvers-guild.md",
+      "old_heading": "Arc Three \u2014 Silver City and the return to rescue",
+      "old_anchor": "arc-three--silver-city-and-the-return-to-rescue",
+      "target": "Native heading, event introduction or source note",
+      "disposition": "Native heading or compatibility anchor retained; full original archived"
+    },
+    {
+      "path": "delvers/world/places/delvers-guild.md",
+      "old_heading": "Current status",
+      "old_anchor": "current-status",
+      "target": "Native heading, event introduction or source note",
+      "disposition": "Native heading or compatibility anchor retained; full original archived"
+    }
+  ],
+  "additional_blocks": [
+    {
+      "path": "delvers/world/places/guild-public-reckoning-s3e10.md",
+      "old_block": "Opening arrival, badges and urn transfer",
+      "target": "Context and continuity note"
+    },
+    {
+      "path": "delvers/world/places/guild-public-reckoning-s3e10.md",
+      "old_block": "Public challenge and thirty names",
+      "target": "Event development and public-challenge note"
+    },
+    {
+      "path": "delvers/world/places/guild-public-reckoning-s3e10.md",
+      "old_block": "Private confrontation, release and funding",
+      "target": "Event development and release/funding notes"
+    },
+    {
+      "path": "delvers/world/places/guild-public-reckoning-s3e10.md",
+      "old_block": "Inline end-S3E10 cutoff and verification",
+      "target": "Lasting legacy and continuity/finale notes"
+    }
+  ],
+  "decisions": {
+    "guild-public-reckoning-s3e10.md": "Keep established path as focused historical event study, ending Lasting legacy; no relocation/duplicate required",
+    "splenderbelt-farm-delvers-tower.md": "Keep compatibility reading route to Potato Grove, not another place account",
+    "deep-winds-spa.md": "Retain S3E09 last stay; add S3E10 retrospective private dialogue without inventing another stay",
+    "delvers-guild.md": "Remove obsolete pending-taxonomy-review wording now event disposition decided"
+  },
+  "review": "Event source paragraphs reviewed; all place final statuses and directory structure checked, older pilot/estate mains reread, current dossier search for aliases/horizons; bounded text audit, not full 37-episode rereading or audio verification",
+  "critical_boundaries": [
+    "Public support and physical release are not formal acquittal or Academy-wide reform",
+    "Thirty names read does not enumerate names in dossier or prove all rescued",
+    "Tracking admission does not identify every badge spell/operator",
+    "Preparation/funding in S3E10 distinct from actual descent next episode",
+    "Spa later retrospective conversations are claims, not new stay or verified Hissia location by S3E09",
+    "Latest citation date is not automatically latest direct site visit",
+    "No generic forest/temple/well/lake name forces physical identity",
+    "Audit structure and preserved hashes do not certify complete factual coverage"
+  ]
+}

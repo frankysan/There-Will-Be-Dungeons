@@ -580,3 +580,77 @@ The crypt is reached through Noble Hollow, without an exact under-farm map or ro
 Both complete profiles were read; relevant terms searched across all 37 dossiers; selected complete primary paragraphs and bounded November creator passage reviewed. No fresh ASR/audio, original map/handout, sheet or art review occurred. No evidence issue was closed, source dossier/media changed or uncertain site identity canonically merged. No commit or push was performed by this task.
 
 Next review the guild public-reckoning article and audit place dispositions and evidence horizons before continuing remaining character and artifact batches. Full-world acceptance and final campaign integration remain pending.
+
+### Twenty-fifth implementation checkpoint — place dispositions and public reckoning
+
+**2026-10-26: All 27 current place-directory paths have bounded editorial dispositions.** [Audit/event report](../reports/DELVERS_PLACE_AUDIT_2026-10-26.md) · [Coverage ledger](DELVERS_PLACE_AUDIT_COVERAGE.json) · [Pre-edit archive](../research/legacy/2026-10-26/delvers-place-audit/README.md) · [Validation](DELVERS_PLACE_AUDIT_VALIDATION.json) · [27-path disposition register](DELVERS_PLACE_DISPOSITIONS.json).
+
+The directory contains 25 ordinary place/institution accounts, one focused historical event study and one compatibility reading route. Current headings, final statuses/legacy, notes, links and per-page hashes are checked. The register separates local observations from later reports, retrospective scenes, actor/item continuity and explicit physical outcomes. Candidate aliases across all 37 dossiers are review routing, not proof every scene/name was captured. This checkpoint does not certify complete factual coverage or accept every remaining world domain.
+
+| Maintained page | Change | Main prose before → after |
+| --- | --- | ---: |
+| Guild public reckoning | Event-focused introduction, public challenge/release/funding and Lasting legacy; established path/old title anchor retained | 467 → 262 |
+| Deep Winds Spa | Source-note clarification: S3E10 delivers deferred private conversations about the S3E09 stay | 380 → 380 |
+| Delvers Guild | Obsolete pending event-taxonomy pointer resolved; main account unchanged | 799 → 799 |
+
+All thirteen former headings and four unheaded event blocks are accounted for. Seven exact originals and equivalent rebased copies are archived without link corrections. All 284 protected hashes match: 214 campaign files, 60 prior batch artifacts and ten bonus provenance documents. All 27 audited page hashes match the disposition register. Prior archives, estate/crypt/control work and unrelated changes are preserved.
+
+The historical reckoning remains at its existing place-directory path as an event study, not another building article or a new duplicated event. Actual public support, tracking admission, Cassius release, funding and next-day rescue consequences remain distinct from a formal acquittal or Academy-wide reform. The farm finale remains a compatibility route to Potato Grove. S3E09's repaired forest entrance remains corrected; S3E10's retrospective spa dialogue adds claims without another stay or a backdated delivered answer at the earlier cutoff.
+
+Current structure/status text was checked across all paths, with selected main/source-note rereads, candidate alias searches and complete event source paragraphs. No fresh ASR/audio, full campaign reread, original map/handout or art review occurred. No evidence issue was closed, source dossier/media changed or uncertain site identity merged. No commit or push was performed by this task.
+
+This checkpoint has four preservation artifacts rather than the usual three: report, coverage, validation and the additional disposition register. Future batches must protect all four. Full-world acceptance and final campaign integration remain pending.
+
+Next examine Glepo Ma and Skoogie as community intermediaries, then continue remaining supporting-character and artifact batches.
+
+### Twenty-sixth implementation checkpoint — Glepo Ma and Skoogie
+
+**2026-10-26: Two supporting-character biographies migrated and locally validated.** [Character report](../reports/DELVERS_GLEPO_SKOOGIE_2026-10-26.md) · [Coverage ledger](DELVERS_GLEPO_SKOOGIE_COVERAGE.json) · [Pre-edit archive](../research/legacy/2026-10-26/delvers-glepo-skoogie/README.md) · [Validation](DELVERS_GLEPO_SKOOGIE_VALIDATION.json).
+
+| Character | Current disposition | Main prose before → after |
+| --- | --- | ---: |
+| Glepo Ma | First village trade, compromise/apology, reported exile, farm trust/responsibility/pay and final epilogue status | 431 → 463 |
+| Skoogie | Displaced influence, useful but self-interested alliance, wounds/healing, living departure and Current status | 401 → 243 |
+
+All seven former heading targets and four unheaded update/metadata/separation blocks are accounted for. Six exact originals and equivalent rebased copies are archived without link corrections. All 289 protected hashes match: 215 campaign files, 64 previous batch artifacts and ten bonus provenance documents. The 64 include all four place-audit artifacts, including the additional 27-path disposition register. All place pages, prior archives and unrelated work remain unchanged.
+
+Glepo now starts with the actual S1E10 village encounter rather than the later farm reappearance. Staff handover, amends and warning intent remain distinct; delivery is unproved. Exile is reported, useful work is played, coin arrears and later payment follow their actual order, and the one-year epilogue supplies continuing farm work. No skimming, real mutiny, title transfer or village pardon is invented.
+
+Skoogie's desired restored influence motivates the dragon alliance, while arrow, route, bell and lightstone are actual help. Language is mediated by Marsh and no canonical gender declaration is imposed. The unfinished S2E08 fight and later S2E09 retrospective survival remain separate. Living departure does not prove followers or rule restored. Short character phases are not padded to a quota.
+
+Both complete old profiles were read; names/aliases searched across all 37 dossiers; selected complete early-village, farm and dragon paragraphs plus existing retrospective context reviewed. No fresh ASR/audio, original map/handout, sheet or art review occurred. No evidence issue was closed, source dossier/media changed or unrelated identity merged. No commit or push was performed by this task.
+
+Next examine Marsh and the Great Daufante as guest adventurers, then continue remaining supporting-character and artifact batches. Full-world acceptance and final integration remain pending.
+
+### Twenty-seventh implementation checkpoint — Marsh and the Great Daufante
+
+**2026-10-26: Two guest-character biographies migrated and locally validated.** [Character report](../reports/DELVERS_MARSH_DAUFANTE_2026-10-26.md) · [Coverage ledger](DELVERS_MARSH_DAUFANTE_COVERAGE.json) · [Pre-edit archive](../research/legacy/2026-10-26/delvers-marsh-daufante/README.md) · [Validation](DELVERS_MARSH_DAUFANTE_VALIDATION.json).
+
+| Character | Current disposition | Main prose before → after |
+| --- | --- | ---: |
+| Marsh | Expert caution, tactical cooperation, translated alliance, killing arrow, negotiated departure and Current status | 714 → 259 |
+| Great Daufante | Showmanship, entourage, artifact claim, deceptive persuasion, compromise/deck and Current status | 502 → 312 |
+
+All ten former headings and one unheaded metadata block are accounted for. Six exact originals and equivalent rebased copies are archived without link corrections. All 292 protected hashes match: 215 campaign files, 67 previous batch artifacts and ten bonus provenance documents. All four place-audit artifacts, all place pages, prior archives and unrelated work remain unchanged.
+
+Marsh's expertise is supported by his choices and cooperation, without invented background, height certainty or familiar mechanics. His gate control and killing arrow are affirmed by S2E09 retrospective rather than completed in S2E08. Nominal equal shares do not audit the magic-item cart or every person's payout. No later promotion or guest return is invented.
+
+Daufante's performance, stated artifact interest, charm and reward-for-deck agreement ground his biography. Invented entertaining stories are not backstory, enchanted confession is not a witnessed old crime, and companion actions do not settle their independent histories. Deck is packed undrawn. The invitation has no documented follow-up; the earlier hidden-divine-motive interpretation is preserved historically and qualified, not asserted as established thought or future scheme.
+
+Both complete profiles were read; names/aliases and companions searched across all 37 dossiers; selected complete wedding/dragon paragraphs and explicit follow-up confirmations reviewed. No fresh ASR/audio, original sheet/map/handout or art review occurred. No evidence issue was closed, source dossier/media changed or unrelated identity merged. No commit or push was performed by this task.
+
+Next examine Destroying Angel and Goggles Granny as guest allies, then continue remaining supporting-character and artifact batches. Full-world acceptance and final integration remain pending.
+
+### Twenty-eighth implementation checkpoint — Destroying Angel and Goggles Granny
+
+**2026-10-26: Two guest-allied character biographies migrated and locally validated.** [Character report](../reports/DELVERS_ANGEL_GRANNY_2026-10-26.md) · [Coverage ledger](DELVERS_ANGEL_GRANNY_COVERAGE.json) · [Pre-edit archive](../research/legacy/2026-10-26/delvers-angel-granny/README.md) · [Validation](DELVERS_ANGEL_GRANNY_VALIDATION.json).
+
+Both biographies retain their paths/titles, begin with Introduction, develop the character's relevant arc and end at Current status. Main prose changes from 480 to 266 words for Angel and 561 to 272 for Granny; their developed arcs contain 186 and 197 words. Angel's courtesy, care and courage give her mission its focus; Granny's independence, irritation, inventive help and physical limit give hers a distinct shape. Source clocks, casting, uncertain names, mechanics and research limits appear in referenced notes.
+
+All seven former headings and the opening/disposition/cutoff blocks are accounted for. Six exact originals and equivalent rebased reading copies are archived without link corrections. All 295 protected hashes match: 215 campaign files, 70 prior batch artifacts and ten bonus provenance documents. All four place-audit artifacts and all 27 place-register page hashes remain unchanged.
+
+Angel's air gift, restraint, rescue and reassurance are actual actions; Koh frees Krandal and kills the foe. Hospitality and later paid-use offer do not establish a built Guild base. Angel is already absent next morning, with no specific departure scene or destination supplied. Granny's catlike features do not settle ancestry; name order and connection to the earlier merchant/closed shop remain uncertain. Potions consumed are distinguished from carried supplies, the whole jar from its heart, and the actual stone/weight substitution from unused mayonnaise ideas. Safe town return precedes the trio's jar placement; no future guest return, town location or mission resolution is invented.
+
+Both complete profiles were read; aliases searched across all 37 dossiers; selected complete spa/puzzle paragraphs and explicit follow-up reviewed. No fresh ASR/audio, original sheet/map or art review occurred. No evidence issue was closed, source dossier/media changed or unrelated identity merged. No commit or push was performed by this task.
+
+Next examine Barclay Vandergeist and Radiant Lance, then continue remaining supporting-character and artifact batches. Full-world acceptance and final integration remain pending.

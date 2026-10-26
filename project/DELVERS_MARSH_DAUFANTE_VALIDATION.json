@@ -1,0 +1,70 @@
+{
+  "date": "2026-10-26",
+  "local_file_and_fragment_links": 1047,
+  "maintained_inbound_links": 23,
+  "former_headings_preserved": 10,
+  "exact_original_hashes": 6,
+  "reading_copy_target_equivalence": 6,
+  "explicit_reading_copy_link_corrections": 0,
+  "protected_hashes": 292,
+  "measurements": [
+    {
+      "path": "delvers/world/characters/marsh.md",
+      "before_main_words": 714,
+      "after_main_words": 259,
+      "arc_words": [
+        173
+      ],
+      "largest_arc_to_median": 1.0,
+      "footnotes": 5,
+      "anchors": 9
+    },
+    {
+      "path": "delvers/world/characters/the-great-daufante.md",
+      "before_main_words": 502,
+      "after_main_words": 312,
+      "arc_words": [
+        218
+      ],
+      "largest_arc_to_median": 1.0,
+      "footnotes": 6,
+      "anchors": 8
+    }
+  ],
+  "errors": [],
+  "limits": [
+    "No new ASR, audio, remote URL or rendered-site review",
+    "Section dispositions and material-claim review, not sentence-by-sentence audio verification"
+  ],
+  "markdownlint": {
+    "maintained_files": 7,
+    "violations": 0
+  },
+  "whitespace": {
+    "scoped_git_diff_check": "passed",
+    "new_report_and_json": "passed"
+  },
+  "manual_review": {
+    "completed": true,
+    "focus": [
+      "Character judgment, motives and relationships rather than full battle itinerary",
+      "Marsh cooperation, translated alliance and retrospective finishing arrow",
+      "Unverified companion mechanics, age estimate and unequal item accounting",
+      "Daufante theatrical authority, rumor/charm and actual reward compromise",
+      "Performed fiction versus biography and unverified private divine motive",
+      "Known departure versus unperformed invitations and later history"
+    ],
+    "rendered_preview": false
+  },
+  "protected_groups": {
+    "campaign_files": 215,
+    "prior_batch_artifacts": 67,
+    "bonus_provenance_documents": 10
+  },
+  "preserved_place_register": {
+    "artifact": "project/DELVERS_PLACE_DISPOSITIONS.json",
+    "page_hashes_verified": 27,
+    "unchanged": true
+  },
+  "working_tree_context": "Prior Glepo/Skoogie/audit/control work and unrelated edits preserved; no commit or push performed by this task."
+}

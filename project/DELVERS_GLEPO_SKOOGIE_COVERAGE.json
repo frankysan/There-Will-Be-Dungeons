@@ -1,0 +1,99 @@
+{
+  "date": "2026-10-26",
+  "scope": "Delvers-only character biographies of two community intermediaries",
+  "headings": [
+    {
+      "path": "delvers/world/characters/gleepo-ma.md",
+      "old_heading": "Glepo Ma \u2014 kuo-toa riverside farmhand",
+      "old_anchor": "glepo-ma--kuo-toa-riverside-farmhand",
+      "target": "Introduction, character development or final status/source note",
+      "disposition": "Native heading or compatibility anchor retained; complete original archived"
+    },
+    {
+      "path": "delvers/world/characters/gleepo-ma.md",
+      "old_heading": "Appearance and presentation",
+      "old_anchor": "appearance-and-presentation",
+      "target": "development-by-arc",
+      "disposition": "Native heading or compatibility anchor retained; complete original archived"
+    },
+    {
+      "path": "delvers/world/characters/gleepo-ma.md",
+      "old_heading": "Role and events",
+      "old_anchor": "role-and-events",
+      "target": "development-by-arc",
+      "disposition": "Native heading or compatibility anchor retained; complete original archived"
+    },
+    {
+      "path": "delvers/world/characters/skoogie.md",
+      "old_heading": "Skoogie \u2014 exiled kobold shaman of Chath Peak",
+      "old_anchor": "skoogie--exiled-kobold-shaman-of-chath-peak",
+      "target": "Introduction, character development or final status/source note",
+      "disposition": "Native heading or compatibility anchor retained; complete original archived"
+    },
+    {
+      "path": "delvers/world/characters/skoogie.md",
+      "old_heading": "The shaman and lost worshippers",
+      "old_anchor": "the-shaman-and-lost-worshippers",
+      "target": "development-by-arc",
+      "disposition": "Native heading or compatibility anchor retained; complete original archived"
+    },
+    {
+      "path": "delvers/world/characters/skoogie.md",
+      "old_heading": "Later S2E09 retrospective outcome",
+      "old_anchor": "later-s2e09-retrospective-outcome",
+      "target": "development-by-arc",
+      "disposition": "Native heading or compatibility anchor retained; complete original archived"
+    },
+    {
+      "path": "delvers/world/characters/skoogie.md",
+      "old_heading": "Earlier S2E08 cutoff",
+      "old_anchor": "earlier-s2e08-cutoff",
+      "target": "development-by-arc",
+      "disposition": "Native heading or compatibility anchor retained; complete original archived"
+    }
+  ],
+  "additional_blocks": [
+    {
+      "path": "delvers/world/characters/gleepo-ma.md",
+      "old_block": "Opening S3E03 market update",
+      "target": "Arc Three and market note"
+    },
+    {
+      "path": "delvers/world/characters/gleepo-ma.md",
+      "old_block": "Working spelling/campaign/first-sighting metadata",
+      "target": "Introduction and source notes; first actual trader appearance restored"
+    },
+    {
+      "path": "delvers/world/characters/gleepo-ma.md",
+      "old_block": "NPC separation paragraph",
+      "target": "Exile note"
+    },
+    {
+      "path": "delvers/world/characters/skoogie.md",
+      "old_block": "Working spelling/language/gender metadata",
+      "target": "Introduction and appearance/language note"
+    }
+  ],
+  "domains": {
+    "delvers/world/characters/gleepo-ma.md": "Character: relative worldliness, barter/compromise, apology, exile and trust, work/household responsibility, later pay and continuity",
+    "delvers/world/characters/skoogie.md": "Character: displaced religious influence, self-interested alliance, material help and danger, survival versus unverified political return"
+  },
+  "review": "Both complete profiles; names/aliases searched across 37 dossiers, selected full early-village/farm/dragon paragraphs and existing retrospective context read; no fresh ASR/audio/art review",
+  "critical_boundaries": [
+    "Glepo first actual appearance S1E10 trader, not first farm sighting S2E11",
+    "Glepo distinct from merfolk Gil and unknown hunched human visitor",
+    "Trading and staff handover distinct from later compensation; collector retains staff",
+    "Warning journey starts, delivery not proved",
+    "Banishment is personal report, not independently reviewed hearing",
+    "Room/board agreement, real work, wage arrears and later cash pay retain sequence",
+    "No proven skimming, real worker mutiny or farm title transfer",
+    "Barn warning not independently identified ghost; actual hatchling found later",
+    "Year-later farm work observed, no invented return to village or new shop ownership",
+    "Skoogie political history/desired rule is testimony, not universal altruism or verified restoration",
+    "No assigned canonical gender/pronouns from ambiguous joking dialogue",
+    "Draconic mediated by Marsh; not all Delvers directly understand every line",
+    "Arrow actually given; foot-massage discussion not a binding witnessed contract",
+    "Bell aid/lightstone and wounds/healing played, later survival supplied by retrospective",
+    "No kill backdated to unfinished S2E08 and no invented post-return village coronation"
+  ]
+}

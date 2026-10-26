@@ -1,0 +1,96 @@
+{
+  "date": "2026-10-26",
+  "local_file_and_fragment_links": 1498,
+  "maintained_inbound_links": 53,
+  "former_headings_preserved": 13,
+  "exact_original_hashes": 7,
+  "reading_copy_target_equivalence": 7,
+  "explicit_reading_copy_link_corrections": 0,
+  "protected_hashes": 284,
+  "measurements": [
+    {
+      "path": "delvers/world/places/deep-winds-spa.md",
+      "before_main_words": 380,
+      "after_main_words": 380,
+      "arc_words": [
+        288
+      ],
+      "largest_arc_to_median": 1.0,
+      "footnotes": 7,
+      "anchors": 11
+    },
+    {
+      "path": "delvers/world/places/delvers-guild.md",
+      "before_main_words": 799,
+      "after_main_words": 799,
+      "arc_words": [
+        248,
+        225,
+        207
+      ],
+      "largest_arc_to_median": 1.102,
+      "footnotes": 8,
+      "anchors": 26
+    },
+    {
+      "path": "delvers/world/places/guild-public-reckoning-s3e10.md",
+      "before_main_words": 467,
+      "after_main_words": 262,
+      "arc_words": [
+        161
+      ],
+      "largest_arc_to_median": 1.0,
+      "footnotes": 6,
+      "anchors": 6
+    }
+  ],
+  "directory_audit": {
+    "paths": 27,
+    "dispositions": {
+      "ordinary_place_or_institution_accounts": 25,
+      "historical_event_studies": 1,
+      "compatibility_routes": 1
+    },
+    "page_hashes_verified": 27,
+    "candidate_search_dossiers": 37,
+    "factual_certification": false
+  },
+  "errors": [],
+  "limits": [
+    "No new ASR, audio, remote URL or rendered-site review",
+    "Section dispositions and material-claim review, not sentence-by-sentence audio verification"
+  ],
+  "markdownlint": {
+    "maintained_files": 32,
+    "violations": 0,
+    "scope": "27 place-directory paths, portal, three controls and report"
+  },
+  "whitespace": {
+    "scoped_git_diff_check": "passed",
+    "new_report_and_three_json_files": "passed"
+  },
+  "manual_review": {
+    "completed": true,
+    "scope": "All directory structures/final statuses, selected older mains, rewritten event and changed notes; candidate dossier aliases and selected source paragraphs",
+    "focus": [
+      "25 place/institution accounts, one historical event and one compatibility route",
+      "Local physical horizon versus reports, retrospective scenes and offsite outcomes",
+      "Preserved forest correction and explicit later spa conversations",
+      "Public support/release/funding versus legal exoneration or institutional reform",
+      "Future source verification and whole-world acceptance remain open"
+    ],
+    "rendered_preview": false
+  },
+  "protected_groups": {
+    "campaign_files": 214,
+    "prior_batch_artifacts": 60,
+    "bonus_provenance_documents": 10
+  },
+  "checkpoint_artifacts": [
+    "reports/DELVERS_PLACE_AUDIT_2026-10-26.md",
+    "project/DELVERS_PLACE_AUDIT_COVERAGE.json",
+    "project/DELVERS_PLACE_AUDIT_VALIDATION.json",
+    "project/DELVERS_PLACE_DISPOSITIONS.json"
+  ],
+  "working_tree_context": "Prior estate/crypt/control changes and unrelated outside work preserved; no commit or push performed by this task."
+}

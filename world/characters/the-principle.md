@@ -1,6 +1,10 @@
 # The Principle — Vladimir
 
-**Identity:** Usually called **the Principle**, sometimes transcribed “Principal”; identified by an Elhandari high elf as **Vladimir** in E115. In S3E01 Qwen proposes the tentative **new surname “Trix”**, but this is not verified. **Role:** Ancient political/technological power connected to Slavetown, Tietkalla diplomacy and the Soulbroker pact. **Spoilers:** Played Wastes through S3E05 plus explicitly attributed May 2022 cast/GM Q&A; this remains the SAME story arc initiated in Season Two. **Evidence:** Provisional ASR; no independent listening.
+**Identity:** Usually called **the Principle**, sometimes transcribed “Principal”; identified by an Elhandari high elf as **Vladimir** in E115. In S3E01 Qwen proposes the tentative **new surname “Trix”**, but this is not verified. **Role:** Ancient political/technological power connected to Slavetown, Tietkalla diplomacy and the Soulbroker pact. **Spoilers:** Played Wastes through S3E07 plus explicitly attributed May 2022 cast/GM Q&A; this remains the SAME story arc initiated in Season Two. **Evidence:** Provisional ASR; no independent listening.
+
+## S3E07 — Groxl declares the Principle “merely a man,” plans to kill him (enemy testimony)
+
+In [played S3E07](../../episodes/S3E07.md), the mountain-sized being recognized by Vorel's implanted Eye as **Groxl ACTUALLY emerges at Solar Mines and DESTROYS Fate Six**. When Hope calls on him to pursue the Principle, Groxl **CLAIMS the Principle is “but a man” and asserts that he will kill him eventually**, but targets Hope first. **This is Groxl's stated belief/plan, not an objective ruling that the Principle lacks magical/divine abilities, and NOT an observed fight or death of the Principle**. The **Principle is not present at S3E07's played cutoff**, remains last seen with Hope's stolen Hand of the Voice, and his ultimate nature or destruction method is untested. [S3E07 two-ASR report](../../reports/WASTES_S3E07_ASR_COMPARISON_2026-10-26.md); original audio unchecked.
 
 ## May 2022 BONUS — GM confirms original Tobacho Hand commission and uses “lich,” but NOT literal paternity
 

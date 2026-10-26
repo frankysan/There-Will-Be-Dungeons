@@ -1,21 +1,29 @@
 # Destroying Angel — centaur diplomatic envoy
 
-Destroying Angel is a **Silver League centaur adventurer and Guild-appointed specialist in diplomacy with peoples of the Underdark**. She joins the Darkest Delvers for the visit to **[Deep Winds Spa](../places/deep-winds-spa.md)** when the Academy needs intermediaries able to negotiate with its flumph hosts. She is played by **Gwen of Phoenix Pearl Tea**, welcomed as a guest performer at the opening of [Delvers S3E05 — Dungeon Goes Poof](../../episodes/S3E05.md). **Angel** is an accepted short form of the name; no permanent membership in the three-hero party is established.
+## Introduction
 
-## Appearance and equipment
+Destroying Angel is a Silver League centaur adventurer appointed to help the Darkest Delvers negotiate with the flumph hosts of [Deep Winds Spa](../places/deep-winds-spa.md). Tall and mottled, with waist-length white braids, she carries axes and a carved longbow. Her diplomatic expertise gives the three heroes a guide to unfamiliar customs.[^appearance]
 
-Gwen introduces her as **approximately seven feet tall**, taller than her three colleagues, with a **dark complexion mottled with lighter patches** and an equine body patterned **black with white splotches**. Her hair consists of **very long, thin, white box braids reaching her waist**. She wears practical sleeveless **furs and leather**, leaving her shoulders bare and ending near the collarbone. **Axes** hang from her belt; a **large, hand-carved longbow** is slung across her back, with arrows in **saddlebags that carry no saddle**. Precise eye color, hooves, insignia, armor material beyond the described garments and horn/bow decorations are **not specified**. Her unusual proportion and costume are directly narrated, not inferred from standard centaur art.[^appearance]
+## Development by arc
 
-## A careful envoy
+<a id="appearance-and-equipment"></a>
+<a id="a-careful-envoy"></a>
 
-Angel knows flumphs as generally benevolent Underdark dwellers and arrives with a **Guild-provided necklace of Comprehend Languages**, which she is authorized to lend to others if needed but is not shown handing off. She warns the others not to ridicule the flumphs' release of gas, guides the protocol of meeting **Mistress Poo/Pooh (?)**, presents a **jar of surface air as an actual gift**, and encourages her comrades to behave respectfully in the neutral bathing establishment. Krandal's reluctance to bathe and other patrons' unfamiliarity with surface etiquette test her patience. She comforts a weeping ghost in the women's springs, and helps secure the headmistress's trust enough to receive a **conditional offer of hospitality for Guild adventurers**, should the heroes cleanse the filtration system.[^spa]
+### Arc Three — Respect, hospitality and practical courage
 
-## Against the black-sand creature
+Angel approaches the spa through courtesy rather than entitlement. She warns her companions against mocking the flumphs' gas, kneels before their headmistress and presents a jar of surface air. Her translation necklace supports the mission, but her conduct matters too: she urges respect for neutral ground and comforts a weeping ghost in the springs. Her care extends beyond the immediate negotiation.[^diplomacy]
 
-The headmistress's account of **water elementals bringing black sand** leads Angel to enlist the others to clear the filtration room. Evelyn's *Daylight* reveals a mass of dark ooze with a clawed humanoid figure within. Angel **pins the moving ooze with a hoof**, helping Krandal hold it long enough to reveal the creature, then **casts Hunter's Mark** and attacks with her longbow when the ooze swallows Krandal and escapes toward the public baths. She helps pursue it and speaks reassuring translations to the customers after **Koh** releases Krandal with his Drift Globe and **kills the foe** with a psychic blade. Angel **peels flumph attendant Vapo alive from the wall**. The machinery appears clean at reinspection; **no formal overnight camp, new Guild charter or definite full diplomatic settlement is shown**.[^fight]
+<a id="against-the-black-sand-creature"></a>
 
-**Current status at S3E05 cutoff:** Alive at Deep Winds Spa alongside the Darkest Delvers. Her temporary mission has demonstrably removed one immediate threat, but the Guild's base-camp construction and final headmistress consent remain unplayed.
+When the headmistress makes wider hospitality conditional on clearing the filters, Angel accepts and brings the others together. The task tests her willingness to defend the hosts whose trust she seeks. She helps Krandal restrain a mass of black sand, then pursues it with marked arrows after it engulfs him. Once Koh frees Krandal and kills the exposed creature, Angel turns to the frightened patrons, translating reassurance, and frees the living attendant Vapo from the wall.[^fight]
 
-[^appearance]: Guest-player spoken description ~00:03–00:05, [S3E05 source dossier](../../episodes/S3E05.md), ASR provisional; original guest character image or player sheet uninspected.
-[^spa]: [S3E05](../../episodes/S3E05.md) ~00:05–00:20 and ~01:20–01:42; source claims about flumph culture remain character/GM statements, not real-world D&D taxonomy.
-[^fight]: [S3E05](../../episodes/S3E05.md) ~01:43–02:34; [exact ASR comparison](../../../reports/DELVERS_S3E05_ASR_COMPARISON_2026-10-25.md). No original audio listened to.
+The filters are clean when the group returns to them. Angel's contribution joins negotiation to practical aid: she has helped remove an immediate danger without treating the spa's neutrality as an obstacle to be overridden. The welcome earned by the group remains hospitality, with later visits offered for payment.[^departure]
+
+## Current status
+
+Angel has departed by the morning after the Delvers' overnight stay at the spa. Her destination is unknown; her work with them ends after the rescue and clearing of the filters.[^departure]
+
+[^appearance]: Gwen of Phoenix Pearl Tea plays this temporary guest ally in [S3E05](../../episodes/S3E05.md), ~00:03–00:05. “Angel” is an accepted short form. Spoken description: roughly seven feet tall, dark skin with lighter patches, black equine body with white splotches, long thin white box braids to the waist; sleeveless furs/leather ending near the collarbone, bare shoulders, belt axes, large hand-carved longbow and arrows in unsaddled saddlebags. Eye/hoof details, insignia and decorative details are unspecified. No original sheet or guest art inspected; no permanent core-party membership established.
+[^diplomacy]: [S3E05](../../episodes/S3E05.md), ~00:05–00:20, ~01:04–01:41. Guild-provided Comprehend Languages necklace remains with Angel; a loan is authorized but not performed. Flumph benevolence is her account, not independent taxonomy. Headmistress name variants Poo/Pooh/Hoo remain provisional; the air is actually gifted. The ghost's identity and story remain vague. Report of water elementals depositing black sand comes from the headmistress; neither a signed charter nor a constructed Guild base follows.
+[^fight]: [S3E05](../../episodes/S3E05.md), ~01:41–02:34; [existing ASR comparison](../../../reports/DELVERS_S3E05_ASR_COMPARISON_2026-10-25.md). Angel pins the mass with a hoof and uses Hunter's Mark/longbow. The clawed skeletal-looking being's species and origin are not established. Koh's Drift Globe bursts the ooze and releases Krandal before Koh's later psychic-blade killing blow in the public baths. Angel rescues Vapo alive. Clean filters do not establish universal eradication; washing Krandal is not magical healing. No new audio listening occurred.
+[^departure]: [S3E06](../../episodes/S3E06.md), ~00:16–00:20, explicitly places the trio's night at the spa and Angel already gone by morning. Her exit, destination and exact sleeping arrangements are not shown. The headmistress offers other adventurers paid use, not a completed formal Guild encampment. Later spa visits do not establish Angel's return or a further personal outcome.
