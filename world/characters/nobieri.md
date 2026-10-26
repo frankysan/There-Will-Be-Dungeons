@@ -2,7 +2,11 @@
 
 **Browse:** [Characters](../CHARACTERS.md) · [World portal](../README.md)
 
-**Identity:** Elder tiefling scholar and political intermediary. His name is transcribed as `Nobiery`, `Nobieri`, and sometimes `Riddle Nobieri`; the exact spelling and some titles await listening/written-source review. **Spoilers:** Through S3E04. **Evidence:** Processed ASR, not independent audio verification.
+**Identity:** Elder tiefling scholar and political intermediary. His name is transcribed as `Nobiery`, `Nobieri`, and sometimes `Riddle Nobieri`; the exact spelling and some titles await listening/written-source review. **Spoilers:** Through S3E05. **Evidence:** Processed ASR, not independent audio verification.
+
+## S3E05 — actually accompanies Earthly Defenders deployment, no reported personal fight
+
+During [S3E05](../../episodes/S3E05.md) ~01:19:20–01:19:40 **Nobieri physically boards one of the Liberator vehicles with tiefling/other ground forces during Earth landing and march toward northern gate**. The **two gate Slow Peters physically attack the convoy**, but **no individualized injury, death, spell, scouting beyond S3E04's report or solo breakthrough by Nobieri is established**. Hope leads the ground column, and the regional battle plan has yet to reach interior mines. [S3E05 source review](../../reports/WASTES_S3E05_ASR_COMPARISON_2026-10-26.md).
 
 ## S3E04 — actual Earth reconnaissance, reporting at Mars second war council
 

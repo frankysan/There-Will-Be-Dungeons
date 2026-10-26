@@ -407,3 +407,61 @@ The Academy's last direct campus scene is the first-arc S2E00 petition. Later Ch
 Relevant terms were searched across all 37 campaign dossiers; selected complete source paragraphs and linked guild/Cassius context were read. No new ASR/audio, original map/handout or art review occurred. No evidence issue was closed, location canonically merged or dossier/media changed. No commit or push was performed by this task.
 
 Next examine the southwestern town well and Temple of Pelor as connected surface/underground places, then continue connected subject/domain work. Full-world acceptance and final campaign integration remain pending.
+
+### Sixteenth implementation checkpoint — southwestern well and Temple of Pelor
+
+**2026-10-26: Two connected place articles migrated and locally validated.** [Place report](../reports/DELVERS_WELL_PELOR_2026-10-26.md) · [Coverage ledger](DELVERS_WELL_PELOR_COVERAGE.json) · [Pre-edit archive](../research/legacy/2026-10-26/delvers-well-pelor/README.md) · [Validation](DELVERS_WELL_PELOR_VALIDATION.json).
+
+| Place | Current disposition | Main prose before → after |
+| --- | --- | ---: |
+| Southwestern well | Neighborhood water source, side breach, sealed cave access and Current status | 491 → 304 |
+| Temple of Pelor | Sanctuary/service, separate openings, security/staffing, ward, post-Ball relief and Current status | 798 → 546 |
+
+All thirteen former heading targets remain reachable. Six exact working-copy originals and equivalent reading copies are archived without target corrections. All 248 protected hashes match: 215 campaign files and 33 previous batch artifacts. Earlier archives and outside work are preserved; the initial working tree was clean.
+
+The well's last specific visit is S1E09, after the S1E08 concrete seal. Water safety and comprehensive cave clearance are not established. The well outside the temple and later Atlas-cedar well reference are not merged with it. The rock eater converses and remains beyond the seal; the neighborhood smith is human, and monster origin is not proved by the rust trail.
+
+The temple's physical Hall of Penance stair remains distinct from its covered altar shaft. Security and financial undertakings do not establish repaired mosaics. Two early sleepers, five later patients, ward capacity, Ball register and seven direct cures remain distinct counts. Maynard's recovery report is attributed, while post-Ball psychic-assisted Remove Curse and later shallow-compulsion recoveries extend the old page's horizon through S3E02. No complete regional cure, universal treatment rule, final staffing restoration or new altar answer is claimed. Finale survivors receive care at the Guild.
+
+Both full profiles were read, relevant terms searched across all 37 dossiers and selected complete paragraphs reviewed with relevant visible ledger rows. No fresh ASR/audio, original map/handout, sheet or art review occurred. No evidence issue was closed, location canonically merged or source dossier/media changed. No commit or push was performed by this task.
+
+Next examine Splenderbelt Farm and the Delvers' tower alongside the earlier farm cave, keeping separate locations and evidence horizons distinct, then continue connected subject/domain work. Full-world acceptance and final integration remain pending.
+
+### Seventeenth implementation checkpoint — farm cave and consolidated farm/tower
+
+**2026-10-26: Two place accounts migrated and the former epilogue page retained as a reading route.** [Farm/tower report](../reports/DELVERS_FARM_TOWER_2026-10-26.md) · [Coverage ledger](DELVERS_FARM_TOWER_COVERAGE.json) · [Pre-edit archive](../research/legacy/2026-10-26/delvers-farm-tower/README.md) · [Validation](DELVERS_FARM_TOWER_VALIDATION.json).
+
+| Page | Current disposition | Main prose before → after |
+| --- | --- | ---: |
+| Farm cave | Separate place: natural setting/threats, fissure and plug, Current status | 227 → 195 |
+| Potato Grove | Consolidated river holding: grant, cultivation, workers, barn, food, land recovery and shared home | 1,721 → 586 |
+| Former farm/tower epilogue | Functional reading route, with old title/anchors and access to original | 489 words integrated into the consolidated place/source notes |
+
+All twenty-one former heading targets remain reachable. Seven exact working-copy originals and equivalent reading copies are archived without link corrections. All 254 protected hashes match: 214 campaign files, 36 previous batch artifacts and four bonus provenance documents. Earlier archives, previous well/temple/control changes and concurrent Wastes work are preserved.
+
+The sheep cave's last direct view remains S1E01; its body, badge and unfought pursuer are not merged with other losses or later farms. Potato Grove and the final tower page describe one river holding, now followed through the completed epilogue at the established Potato Grove path. The old finale URL remains useful as a compatibility route rather than a second competing history. No ownership/geography identity with the sheep farm or entire Noble Hollow/crypt is inferred.
+
+Promise and deed delivery, free labor and paid barn, unpaid wages and later payments, market sales and shipment purchase, damaged crops and eventual fertility retain their sequence. The Goodwine proposal is not an accepted investment or land sale. A real mummy attack remains distinct from illusory foreclosure and an unplayed siege. Scroungy becomes tame later; the minotaurs end as bones at the Guild. Creator naming/watcher comments remain retrospective. The invitation and unopened Kingdom letter do not become a wedding or disclosed mission.
+
+All three old pages were read; relevant terms searched across all 37 dossiers; selected complete paragraphs, neighboring place context and bounded May/November bonus passages reviewed. No fresh ASR/audio, original maps/handouts, sheets or art were inspected. No evidence issue was closed, source dossier/media changed or uncertain location canonically merged. No commit or push was performed by this task.
+
+Next examine Gemholm and the kuo-toa lakeshore village as distinct settlements, then continue connected subject/domain work. Full-world acceptance and final campaign integration remain pending.
+
+### Eighteenth implementation checkpoint — Gemholm and the kuo-toa village
+
+**2026-10-26: Two settlement articles migrated and locally validated.** [Settlement report](../reports/DELVERS_LAKE_SETTLEMENTS_2026-10-26.md) · [Coverage ledger](DELVERS_LAKE_SETTLEMENTS_COVERAGE.json) · [Pre-edit archive](../research/legacy/2026-10-26/delvers-lake-settlements/README.md) · [Validation](DELVERS_LAKE_SETTLEMENTS_VALIDATION.json).
+
+| Place | Current disposition | Main prose before → after |
+| --- | --- | ---: |
+| Gemholm | Mining/sandbar infrastructure, damaged community, experimentation, surviving residents and Current status | 1,117 → 489 |
+| Kuo-toa lakeshore village | Fishing/barter community, religious reception, coercion, intact departure, later reported exile and Current status | 720 → 401 |
+
+All thirteen former heading targets remain reachable, with Gemholm's opening metadata accounted for. Six exact originals and equivalent reading copies are archived without link corrections. All 260 protected hashes match: 215 campaign files, 39 prior batch artifacts and six bonus provenance documents. Earlier archives, existing farm/well/control edits and concurrent outside work are preserved.
+
+Gemholm's last direct view remains S2E07; later Ambermoor custody and Mack/Church membership extend resident outcomes without inventing an island clearance, reward, verdict or rebuilding. Journals, survivor testimony and actual lab observations stay distinct. Church's early cure and Koh's extraction do not prove adult reversal; two large slaadi remain missing. Mechanical crabs and living Herman Snips remain separate.
+
+The kuo-toa village remains intact at departure in S1E11. Later banishment is Glepo Ma's report, not a new village visit or proved hearing. Koh's reverence is an interpretation, warning delivery remains unwitnessed, and the conch staff leaves with the mounted collector. Later crank use and diplomacy references do not establish a changed settlement. No shared lake/geography is inferred between the two villages.
+
+Both complete old pages were read; relevant terms searched across all 37 dossiers; selected full paragraphs, linked trader context and June creator passage reviewed. No fresh ASR/audio, original maps/diaries, sheets or art were inspected. No evidence issue was closed, location canonically merged or source dossier/media changed. No commit or push was performed by this task.
+
+Next examine the submerged lake ruins and earlier grick sinkhole, keeping similar architecture separate from proved physical connections, then continue connected subject/domain work. Full-world acceptance and final campaign integration remain pending.

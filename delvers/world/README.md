@@ -41,6 +41,12 @@ Four articles have received preserved subject-focused passes: [Koh](characters/k
 
 [The governor's hall](places/governors-hall.md) and [Dungeon Guild Academy](places/dungeon-guild-academy.md) have a [public/institutional place checkpoint](../../reports/DELVERS_HALL_ACADEMY_2026-10-26.md) distinguishing the damaged hall's later use from Academy authority exercised in Atomer.
 
+The [southwestern well](places/southwestern-town-well.md) and [Temple of Pelor](places/temple-of-pelor.md) have a [connected-place checkpoint](../../reports/DELVERS_WELL_PELOR_2026-10-26.md) covering the sealed cave approaches, separate temple openings and later treatment centre.
+
+[Potato Grove](places/potato-grove.md) now includes the rebuilt Delvers tower in one continuous account. The former [finale page](places/splenderbelt-farm-delvers-tower.md) remains a reading route; the separate [farm cave](places/farm-cave.md) retains its own last-observed condition. [Farm/tower checkpoint](../../reports/DELVERS_FARM_TOWER_2026-10-26.md).
+
+[Gemholm](places/gemholm.md) and the [kuo-toa lakeshore village](places/kuo-toa-lakeshore-village.md) have a [settlement checkpoint](../../reports/DELVERS_LAKE_SETTLEMENTS_2026-10-26.md) separating their local conditions from later custody, survivor and exile evidence.
+
 Other subject articles remain pending; this does not certify the entire directory as migrated.
 
 ## Subject directory
@@ -107,7 +113,7 @@ Other subject articles remain pending; this does not certify the entire director
 - [Skull Keep — Enzo Keep](places/skull-keep.md)
 - [Snake Island — the forgotten fortnight](places/snake-island.md)
 - [The southwestern well — a neighborhood water source](places/southwestern-town-well.md)
-- [Splenderbelt potato farm and rebuilt Delvers tower — final campaign epilogue](places/splenderbelt-farm-delvers-tower.md)
+- [Splenderbelt farm and rebuilt tower — reading route](places/splenderbelt-farm-delvers-tower.md)
 - [The submerged ruins of the eastern lake](places/submerged-lake-ruins.md)
 - [Pelor's temple — sanctuary over the forgotten ruins](places/temple-of-pelor.md)
 - [The triangle-gate catacombs — hidden beneath Delvers Dungeon Level E](places/triangle-gate-catacombs.md)

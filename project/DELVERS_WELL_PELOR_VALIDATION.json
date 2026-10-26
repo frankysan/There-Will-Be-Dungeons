@@ -1,0 +1,65 @@
+{
+  "date": "2026-10-26",
+  "local_file_and_fragment_links": 871,
+  "maintained_inbound_links": 29,
+  "former_headings_preserved": 13,
+  "exact_original_hashes": 6,
+  "reading_copy_target_equivalence": 6,
+  "explicit_reading_copy_link_corrections": 0,
+  "protected_hashes": 248,
+  "measurements": [
+    {
+      "path": "delvers/world/places/southwestern-town-well.md",
+      "before_main_words": 491,
+      "after_main_words": 304,
+      "arc_words": [
+        211
+      ],
+      "largest_arc_to_median": 1.0,
+      "footnotes": 5,
+      "anchors": 7
+    },
+    {
+      "path": "delvers/world/places/temple-of-pelor.md",
+      "before_main_words": 798,
+      "after_main_words": 546,
+      "arc_words": [
+        231,
+        100,
+        105
+      ],
+      "largest_arc_to_median": 2.2,
+      "footnotes": 10,
+      "anchors": 13
+    }
+  ],
+  "errors": [],
+  "limits": [
+    "No new ASR, audio, remote URL or rendered-site review",
+    "Section dispositions and material-claim review, not sentence-by-sentence audio verification"
+  ],
+  "markdownlint": {
+    "maintained_files": 7,
+    "violations": 0
+  },
+  "whitespace": {
+    "scoped_git_diff_check": "passed",
+    "new_report_and_json": "passed"
+  },
+  "manual_review": {
+    "completed": true,
+    "focus": [
+      "Place functions and chronological change",
+      "Separate wells, physical stair and covered altar shaft",
+      "Patient stages, reported versus observed recovery",
+      "Shallow-compulsion limits and later care at Guild",
+      "Temple early arc reviewed for proportion: four distinct place developments"
+    ],
+    "rendered_preview": false
+  },
+  "protected_groups": {
+    "campaign_files": 215,
+    "prior_batch_artifacts": 33
+  },
+  "working_tree_context": "Clean initial tree; prior cleanup and outside work preserved; no commit or push performed by this task."
+}

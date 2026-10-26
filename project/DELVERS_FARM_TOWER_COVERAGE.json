@@ -1,0 +1,179 @@
+{
+  "date": "2026-10-26",
+  "scope": "Farm cave and farm/tower consolidation with compatibility route",
+  "headings": [
+    {
+      "path": "delvers/world/places/farm-cave.md",
+      "old_heading": "Farm cave \u2014 first sealed passage",
+      "old_anchor": "farm-cave--first-sealed-passage",
+      "target": "Consolidated place development/source notes",
+      "disposition": "Native heading or compatibility anchor retained; full original archived"
+    },
+    {
+      "path": "delvers/world/places/farm-cave.md",
+      "old_heading": "Overview",
+      "old_anchor": "overview",
+      "target": "Consolidated place development/source notes",
+      "disposition": "Native heading or compatibility anchor retained; full original archived"
+    },
+    {
+      "path": "delvers/world/places/farm-cave.md",
+      "old_heading": "Seal and recovered evidence",
+      "old_anchor": "seal-and-recovered-evidence",
+      "target": "Consolidated place development/source notes",
+      "disposition": "Native heading or compatibility anchor retained; full original archived"
+    },
+    {
+      "path": "delvers/world/places/farm-cave.md",
+      "old_heading": "Current status",
+      "old_anchor": "current-status",
+      "target": "Consolidated place development/source notes",
+      "disposition": "Native heading or compatibility anchor retained; full original archived"
+    },
+    {
+      "path": "delvers/world/places/potato-grove.md",
+      "old_heading": "Potato Grove \u2014 Krandal's riverside tower",
+      "old_anchor": "potato-grove--krandals-riverside-tower",
+      "target": "Consolidated place development/source notes",
+      "disposition": "Native heading or compatibility anchor retained; full original archived"
+    },
+    {
+      "path": "delvers/world/places/potato-grove.md",
+      "old_heading": "S3E03: Harvested plots, a gilded potato and the unusual deposit",
+      "old_anchor": "s3e03-harvested-plots-a-gilded-potato-and-the-unusual-deposit",
+      "target": "arc-three--food-workers-and-a-shared-home",
+      "disposition": "Native heading or compatibility anchor retained; full original archived"
+    },
+    {
+      "path": "delvers/world/places/potato-grove.md",
+      "old_heading": "S3E02: Working fields and the newly built barn",
+      "old_anchor": "s3e02-working-fields-and-the-newly-built-barn",
+      "target": "arc-three--food-workers-and-a-shared-home",
+      "disposition": "Native heading or compatibility anchor retained; full original archived"
+    },
+    {
+      "path": "delvers/world/places/potato-grove.md",
+      "old_heading": "Introduction",
+      "old_anchor": "introduction",
+      "target": "Consolidated place development/source notes",
+      "disposition": "Native heading or compatibility anchor retained; full original archived"
+    },
+    {
+      "path": "delvers/world/places/potato-grove.md",
+      "old_heading": "The inheritance",
+      "old_anchor": "the-inheritance",
+      "target": "arc-two--ruins-made-into-a-working-holding",
+      "disposition": "Native heading or compatibility anchor retained; full original archived"
+    },
+    {
+      "path": "delvers/world/places/potato-grove.md",
+      "old_heading": "The stubborn skull",
+      "old_anchor": "the-stubborn-skull",
+      "target": "arc-two--ruins-made-into-a-working-holding",
+      "disposition": "Native heading or compatibility anchor retained; full original archived"
+    },
+    {
+      "path": "delvers/world/places/potato-grove.md",
+      "old_heading": "The first planting",
+      "old_anchor": "the-first-planting",
+      "target": "arc-two--ruins-made-into-a-working-holding",
+      "disposition": "Native heading or compatibility anchor retained; full original archived"
+    },
+    {
+      "path": "delvers/world/places/potato-grove.md",
+      "old_heading": "A possible future brand \u2014 creator commentary only",
+      "old_anchor": "a-possible-future-brand--creator-commentary-only",
+      "target": "arc-three--food-workers-and-a-shared-home",
+      "disposition": "Native heading or compatibility anchor retained; full original archived"
+    },
+    {
+      "path": "delvers/world/places/potato-grove.md",
+      "old_heading": "Latest status (through S2E11): a fishman gardener at work",
+      "old_anchor": "latest-status-through-s2e11-a-fishman-gardener-at-work",
+      "target": "arc-two--ruins-made-into-a-working-holding",
+      "disposition": "Native heading or compatibility anchor retained; full original archived"
+    },
+    {
+      "path": "delvers/world/places/potato-grove.md",
+      "old_heading": "Previously established through S2E09",
+      "old_anchor": "previously-established-through-s2e09",
+      "target": "arc-two--ruins-made-into-a-working-holding",
+      "disposition": "Native heading or compatibility anchor retained; full original archived"
+    },
+    {
+      "path": "delvers/world/places/potato-grove.md",
+      "old_heading": "Previous cutoff (through S2E07)",
+      "old_anchor": "previous-cutoff-through-s2e07",
+      "target": "arc-two--ruins-made-into-a-working-holding",
+      "disposition": "Native heading or compatibility anchor retained; full original archived"
+    },
+    {
+      "path": "delvers/world/places/potato-grove.md",
+      "old_heading": "Established by S2E06",
+      "old_anchor": "established-by-s2e06",
+      "target": "arc-two--ruins-made-into-a-working-holding",
+      "disposition": "Native heading or compatibility anchor retained; full original archived"
+    },
+    {
+      "path": "delvers/world/places/potato-grove.md",
+      "old_heading": "Earlier status (at S2E03 cutoff)",
+      "old_anchor": "earlier-status-at-s2e03-cutoff",
+      "target": "arc-two--ruins-made-into-a-working-holding",
+      "disposition": "Native heading or compatibility anchor retained; full original archived"
+    },
+    {
+      "path": "delvers/world/places/splenderbelt-farm-delvers-tower.md",
+      "old_heading": "Splenderbelt potato farm and rebuilt Delvers tower \u2014 final campaign epilogue",
+      "old_anchor": "splenderbelt-potato-farm-and-rebuilt-delvers-tower--final-campaign-epilogue",
+      "target": "Local compatibility route to Potato Grove",
+      "disposition": "Native heading or compatibility anchor retained; full original archived"
+    },
+    {
+      "path": "delvers/world/places/splenderbelt-farm-delvers-tower.md",
+      "old_heading": "Before the ending",
+      "old_anchor": "before-the-ending",
+      "target": "Local compatibility route to Potato Grove",
+      "disposition": "Native heading or compatibility anchor retained; full original archived"
+    },
+    {
+      "path": "delvers/world/places/splenderbelt-farm-delvers-tower.md",
+      "old_heading": "Creator retrospective: earlier farm hints and intentionally unfinished wartime tower",
+      "old_anchor": "creator-retrospective-earlier-farm-hints-and-intentionally-unfinished-wartime-tower",
+      "target": "Local compatibility route to Potato Grove",
+      "disposition": "Native heading or compatibility anchor retained; full original archived"
+    },
+    {
+      "path": "delvers/world/places/splenderbelt-farm-delvers-tower.md",
+      "old_heading": "S3E12 FINAL \u2014 one year later, farm flourishes",
+      "old_anchor": "s3e12-final--one-year-later-farm-flourishes",
+      "target": "Local compatibility route to Potato Grove",
+      "disposition": "Native heading or compatibility anchor retained; full original archived"
+    }
+  ],
+  "additional_blocks": [],
+  "domains": {
+    "delvers/world/places/farm-cave.md": "Place: sheep-farm cave, hidden threats, lower fissure, recovered evidence and last observed plug",
+    "delvers/world/places/potato-grove.md": "Place/household/economy: ruined river holding, garden/irrigation, labor and barn, affordable food, curse relief and rebuilt shared home",
+    "delvers/world/places/splenderbelt-farm-delvers-tower.md": "Compatibility reading route: former finale/retrospective page now points to one consolidated account"
+  },
+  "review": "Three full pre-edit pages; farm/cave/tower terms searched across 37 dossiers, selected complete paragraphs, linked place context and bounded May/November bonus passages read; no fresh ASR/audio/map/art review",
+  "horizons": {
+    "Farm cave": "S1E01 last direct view; no later inspection or identified physical connection to river farm",
+    "Potato Grove": "Promised S1E12, physical deed S2E01, planting/workers/barn and sales through S3E10, completed rebuilding/fertility in S3E12 one-year epilogue",
+    "Bonus": "May naming and November creator retrospective remain out-of-game, not performed earlier construction or siege"
+  },
+  "critical_boundaries": [
+    "Sheep cave east beyond swamp remains distinct from northern river farm and Noble Hollow crypt",
+    "Lower body not merged with reported lost Edgar; badge 542 not globe ID",
+    "Cave seal closes fissure, not entire underground world; grick identified by Cassius not fought",
+    "Deed promise distinct from physical delivery",
+    "Potato Grove/Spud Buds/brand brainstorming retain respective chronology, no invented legal incorporation",
+    "Paid barn is distinct from still-roofless tower; full tower rebuilt only in finale epilogue",
+    "Goodwine investment declined; later shipment purchase not sale of title",
+    "Real mummy attack separate from unperformed siege and illusory foreclosure/strike",
+    "Room/board work, wage arrears, actual payments and year-later fair wages remain separate",
+    "Scroungy hatches then becomes tame later; minotaurs end as bones, not living farmhands",
+    "No farm geography merger from creator retrospective watcher identities",
+    "Wedding invitation not performed ceremony; Kingdom letter unopened"
+  ]
+}

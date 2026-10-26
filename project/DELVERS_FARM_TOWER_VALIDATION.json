@@ -1,0 +1,75 @@
+{
+  "date": "2026-10-26",
+  "local_file_and_fragment_links": 919,
+  "maintained_inbound_links": 42,
+  "former_headings_preserved": 21,
+  "exact_original_hashes": 7,
+  "reading_copy_target_equivalence": 7,
+  "explicit_reading_copy_link_corrections": 0,
+  "protected_hashes": 254,
+  "measurements": [
+    {
+      "path": "delvers/world/places/farm-cave.md",
+      "before_main_words": 227,
+      "after_main_words": 195,
+      "arc_words": [
+        111
+      ],
+      "largest_arc_to_median": 1.0,
+      "footnotes": 4,
+      "anchors": 7
+    },
+    {
+      "path": "delvers/world/places/potato-grove.md",
+      "before_main_words": 1721,
+      "after_main_words": 586,
+      "arc_words": [
+        186,
+        292
+      ],
+      "largest_arc_to_median": 1.222,
+      "footnotes": 10,
+      "anchors": 17
+    }
+  ],
+  "compatibility_routes": [
+    {
+      "path": "delvers/world/places/splenderbelt-farm-delvers-tower.md",
+      "before_main_words": 489,
+      "after_route_words": 75,
+      "anchors": 4
+    }
+  ],
+  "errors": [],
+  "limits": [
+    "No new ASR, audio, remote URL or rendered-site review",
+    "Section dispositions and material-claim review, not sentence-by-sentence audio verification"
+  ],
+  "markdownlint": {
+    "maintained_files": 8,
+    "violations": 0
+  },
+  "whitespace": {
+    "scoped_git_diff_check": "passed",
+    "new_report_and_json": "passed"
+  },
+  "manual_review": {
+    "completed": true,
+    "focus": [
+      "Separate sheep-farm cave versus northern river holding",
+      "One consolidated farm history with useful compatibility route",
+      "Deed, paid barn and later tower rebuilding in sequence",
+      "Investment, wages and actual shipment distinguished from property sale",
+      "Actual attacker versus fabricated foreclosure and unplayed siege",
+      "Later fertility, Scroungy domestication and minotaur rest",
+      "Unopened letter and unperformed wedding remain unresolved"
+    ],
+    "rendered_preview": false
+  },
+  "protected_groups": {
+    "campaign_files": 214,
+    "prior_batch_artifacts": 36,
+    "bonus_provenance_documents": 4
+  },
+  "working_tree_context": "Prior well/temple/control edits and concurrent Wastes work preserved; no commit or push performed by this task."
+}

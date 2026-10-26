@@ -12,6 +12,10 @@ In E054 Monsoon occupies the throne in the smashed keep with **Prince Aladweir d
 
 **Evidence:** [E032](../../episodes/E032.md) · [E037](../../episodes/E037.md) · [E038](../../episodes/E038.md) · [E039](../../episodes/E039.md) · [E049](../../episodes/E049.md) · [E050](../../episodes/E050.md) · [E051](../../episodes/E051.md) · [E054](../../episodes/E054.md) · [Buttons](buttons.md) · [P0D](p0d.md) · [Q&A](../../episodes/BONUS-2019-03.md).
 
+## S3E05 — physically joins Earth invasion and rides toward NE cannon, success pending
+
+In [S3E05](../../episodes/S3E05.md) ~01:12–01:17, Monsoon **ACTUALLY DESCENDS TO EARTH WITH ARMY**, clad in full vampire-knight metallic battle armor, receives a hovering Elhandari speeder and **PHYSICALLY RIDES OFF toward assigned NORTHEAST Solar Mines anti-air cannon**. Via live radio **~02:19 and ~02:21**, reports he is operating/moving and enemy forces are converging toward the main northern gate; **NO AA gun destroyed, Slow Peter killed by Monsoon, departure from world, death or further personal speech with Hope observed by this episode cutoff**. His S3E04 plan to depart after victory remains conditional. [Report](../../reports/WASTES_S3E05_ASR_COMPARISON_2026-10-26.md).
+
 ## S3E04 — physically on Mars; offered conditional farewell and approved tower assault
 
 In [played S3E04](../../episodes/S3E04.md) **~01:11–01:16**, Monsoon **ACTUALLY APPROACHES HOPE** by the elven celebration on Mars in **vampire-knight battle armor**, reflects on his bitter past and explains that if the war against the Principle is won, he **INTENDS TO DEPART THIS WORLD** for a place among creatures like himself, since he fears his endless vampiric hunger; **THIS IS FUTURE INTENTION, NOT AN OBSERVED DEPARTURE**. He apparently disappears from Hope's sight but is **PHYSICALLY PRESENT AT SECOND EARTHLY DEFENDERS WAR COUNCIL ~01:52** and **VOLUNTEERS FOR NORTHEAST SOLAR MINES AA CANNON (~02:25)**. Diontalus/Monsoon later plan to attack Slow Peters. **No Solar Mines engagement, enemy death or actual escape from world by cutoff**. [S3E04 audit](../../reports/WASTES_S3E04_ASR_COMPARISON_2026-10-26.md).

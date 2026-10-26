@@ -1,0 +1,67 @@
+{
+  "date": "2026-10-26",
+  "local_file_and_fragment_links": 907,
+  "maintained_inbound_links": 28,
+  "former_headings_preserved": 13,
+  "exact_original_hashes": 6,
+  "reading_copy_target_equivalence": 6,
+  "explicit_reading_copy_link_corrections": 0,
+  "protected_hashes": 260,
+  "measurements": [
+    {
+      "path": "delvers/world/places/gemholm.md",
+      "before_main_words": 1117,
+      "after_main_words": 489,
+      "arc_words": [
+        383
+      ],
+      "largest_arc_to_median": 1.0,
+      "footnotes": 8,
+      "anchors": 10
+    },
+    {
+      "path": "delvers/world/places/kuo-toa-lakeshore-village.md",
+      "before_main_words": 720,
+      "after_main_words": 401,
+      "arc_words": [
+        268,
+        27
+      ],
+      "largest_arc_to_median": 1.817,
+      "footnotes": 7,
+      "anchors": 10
+    }
+  ],
+  "errors": [],
+  "limits": [
+    "No new ASR, audio, remote URL or rendered-site review",
+    "Section dispositions and material-claim review, not sentence-by-sentence audio verification"
+  ],
+  "markdownlint": {
+    "maintained_files": 7,
+    "violations": 0
+  },
+  "whitespace": {
+    "scoped_git_diff_check": "passed",
+    "new_report_and_json": "passed"
+  },
+  "manual_review": {
+    "completed": true,
+    "focus": [
+      "Distinct settlement geography and local observation horizons",
+      "Mining infrastructure and laboratory exploitation rather than combat itinerary",
+      "Source testimony, journals and direct outcomes distinguished",
+      "Early implant treatment versus unproved adult reversal",
+      "Later prisoner custody and survivor membership without invented clearance",
+      "Religious reception, staff coercion and living captives",
+      "Reported exile and unwitnessed warning delivery without invented revisit"
+    ],
+    "rendered_preview": false
+  },
+  "protected_groups": {
+    "campaign_files": 215,
+    "prior_batch_artifacts": 39,
+    "bonus_provenance_documents": 6
+  },
+  "working_tree_context": "Prior farm/well/control changes and concurrent Wastes work preserved; no commit or push performed by this task."
+}

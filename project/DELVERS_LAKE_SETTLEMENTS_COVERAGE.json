@@ -1,0 +1,129 @@
+{
+  "date": "2026-10-26",
+  "scope": "Two distinct lake settlements",
+  "headings": [
+    {
+      "path": "delvers/world/places/gemholm.md",
+      "old_heading": "Gemholm \u2014 Lake Absul gem-dredging sandbar settlement",
+      "old_anchor": "gemholm--lake-absul-gem-dredging-sandbar-settlement",
+      "target": "Chronological place development/source notes or final status",
+      "disposition": "Native heading or compatibility anchor retained; full original archived"
+    },
+    {
+      "path": "delvers/world/places/gemholm.md",
+      "old_heading": "Site and access",
+      "old_anchor": "site-and-access",
+      "target": "development",
+      "disposition": "Native heading or compatibility anchor retained; full original archived"
+    },
+    {
+      "path": "delvers/world/places/gemholm.md",
+      "old_heading": "The S2E06 outbreak",
+      "old_anchor": "the-s2e06-outbreak",
+      "target": "development",
+      "disposition": "Native heading or compatibility anchor retained; full original archived"
+    },
+    {
+      "path": "delvers/world/places/gemholm.md",
+      "old_heading": "June 2021 cast commentary: origin of the crab controls",
+      "old_anchor": "june-2021-cast-commentary-origin-of-the-crab-controls",
+      "target": "development",
+      "disposition": "Native heading or compatibility anchor retained; full original archived"
+    },
+    {
+      "path": "delvers/world/places/gemholm.md",
+      "old_heading": "S2E07: the infection source and laboratory",
+      "old_anchor": "s2e07-the-infection-source-and-laboratory",
+      "target": "development",
+      "disposition": "Native heading or compatibility anchor retained; full original archived"
+    },
+    {
+      "path": "delvers/world/places/gemholm.md",
+      "old_heading": "Current research status",
+      "old_anchor": "current-research-status",
+      "target": "current-status",
+      "disposition": "Native heading or compatibility anchor retained; full original archived"
+    },
+    {
+      "path": "delvers/world/places/kuo-toa-lakeshore-village.md",
+      "old_heading": "The kuo-toa lakeshore village",
+      "old_anchor": "the-kuo-toa-lakeshore-village",
+      "target": "Chronological place development/source notes or final status",
+      "disposition": "Native heading or compatibility anchor retained; full original archived"
+    },
+    {
+      "path": "delvers/world/places/kuo-toa-lakeshore-village.md",
+      "old_heading": "Introduction",
+      "old_anchor": "introduction",
+      "target": "Chronological place development/source notes or final status",
+      "disposition": "Native heading or compatibility anchor retained; full original archived"
+    },
+    {
+      "path": "delvers/world/places/kuo-toa-lakeshore-village.md",
+      "old_heading": "Strangers bearing gifts",
+      "old_anchor": "strangers-bearing-gifts",
+      "target": "development",
+      "disposition": "Native heading or compatibility anchor retained; full original archived"
+    },
+    {
+      "path": "delvers/world/places/kuo-toa-lakeshore-village.md",
+      "old_heading": "Later S2E11 disposition: former trader now works on Potato Grove",
+      "old_anchor": "later-s2e11-disposition-former-trader-now-works-on-potato-grove",
+      "target": "arc-two--a-trader-displaced",
+      "disposition": "Native heading or compatibility anchor retained; full original archived"
+    },
+    {
+      "path": "delvers/world/places/kuo-toa-lakeshore-village.md",
+      "old_heading": "The trader by the forest",
+      "old_anchor": "the-trader-by-the-forest",
+      "target": "development",
+      "disposition": "Native heading or compatibility anchor retained; full original archived"
+    },
+    {
+      "path": "delvers/world/places/kuo-toa-lakeshore-village.md",
+      "old_heading": "The collector from the marsh",
+      "old_anchor": "the-collector-from-the-marsh",
+      "target": "development",
+      "disposition": "Native heading or compatibility anchor retained; full original archived"
+    },
+    {
+      "path": "delvers/world/places/kuo-toa-lakeshore-village.md",
+      "old_heading": "Current status",
+      "old_anchor": "current-status",
+      "target": "Chronological place development/source notes or final status",
+      "disposition": "Native heading or compatibility anchor retained; full original archived"
+    }
+  ],
+  "additional_blocks": [
+    {
+      "path": "delvers/world/places/gemholm.md",
+      "old_block": "Unheaded opening spelling/campaign/source-horizon metadata",
+      "target": "Introduction and source notes"
+    }
+  ],
+  "domains": {
+    "delvers/world/places/gemholm.md": "Place/economy: sandbar/stilt colony, mining/dredging machinery, damaged isolation, laboratory exploitation and surviving residents",
+    "delvers/world/places/kuo-toa-lakeshore-village.md": "Place/community: fishing/domestic work, gifts and religious reception, barter, coercive collectors, intact departure and later exile report"
+  },
+  "review": "Both old pages read completely; relevant settlement/inhabitant terms searched across 37 dossiers, selected complete paragraphs, linked trader context and June creator passage read; no fresh ASR/audio/map/art review",
+  "horizons": {
+    "Gemholm": "S2E06/S2E07 detailed visit; S2E08 retrospectively supplies prisoner custody, S2E12 survivors in Atomer. No later island inspection or clearance",
+    "Kuo-toa village": "S1E10/S1E11 direct visits; S1E12 no witnessed warning delivery, S2E11 trader reports exile. Later item use and diplomacy do not establish village revisit"
+  },
+  "critical_boundaries": [
+    "Gemholm Lake Absul colony distinct from eastern kuo-toa village and submerged ruin",
+    "Resident testimony, journals and direct lab observations retain evidence states",
+    "Boat burned to contain infection, not a proved accidental attack",
+    "Church early larva cured, Koh implant removed; adult reversal not established",
+    "Hank Tom last word does not establish consciousness/cure; Neko label and journal not complete identity history",
+    "Two adult slaadi unaccounted for, no final eradication or resettlement",
+    "Ambermoor alive in later guild cells, no invented verdict; reagent handoff not independently timed",
+    "Mechanical crabs left at village; living Herman Snips distinct from numbered dredgers",
+    "Published-controls creator provenance not new art inspection or imported rules",
+    "Telepathy interpreted as divinity, not proof Koh is a god",
+    "Collector takes staff and leaves; guild-face clue not a complete employer/identity explanation",
+    "Village remains inhabited at departure; later banishment is trader testimony",
+    "Warning journey begins, delivery not proved; later guild custody not backdated to village departure",
+    "Later farm employment and crank use not proof of settlement relocation or political change"
+  ]
+}

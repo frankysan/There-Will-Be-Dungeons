@@ -2,6 +2,10 @@
 
 **Name status:** **Angelashi** is used as a working display spelling based on cast-shared recap forms; **Angel Ashi** appears in episode ASR, and the **word division remains unresolved**, unlike the accepted spelling **Diontalus**. **Identity:** Changeling who presents as an elven singer (revealed E114), and an important companion of Nash. **Arc Two status:** **Alive and freed in E054**. **Spoilers:** Played E035–S2E05, plus separately framed November 2020 creator discussion below.
 
+## S3E05 — actual last farewell before Nash leaves Mars for Earth
+
+During [S3E05](../../episodes/S3E05.md) **~00:42–00:43**, Nash **ACTUALLY RETURNS to ANGELASHI and their FOUR children** before embarking, reassuring them he will return and joking she has ninety-nine possible alternate versions of him as backups. GM indicates she appreciates the dark humor **but is NOT willing to replace her Nash with an alternate**. **The family STAYS ON MARS** while **Nash and 99 alternate Nashes ACTUALLY BOARD Fate Six and FLY TO EARTH**. No deaths, children added, transplantation or new pregnancy shown. [S3E05 ASR report](../../reports/WASTES_S3E05_ASR_COMPARISON_2026-10-26.md).
+
 ## S3E04 — private eve-of-war promises; remains with four children on Mars
 
 In [played S3E04](../../episodes/S3E04.md) ~00:52 and ~01:03–01:10, Angelashi **ACTUALLY REUNITES PRIVATELY WITH NASH** in their Mars tent; they spend evening with the **SAME FOUR children**, put them to bed and discuss a future elsewhere **if** the war ends safely. She suggests a peaceful world beyond the stars and asks him to promise to return. Nash talks of regeneration, but **Angelashi challenges any assumption that he is immortal**. **Sprout still physically attached to Nash speaks**; Angelashi gently asks it for privacy, **no removal/sewing/silencing actually performed**. The couple have an intimate final evening; **no pregnancy or further child declared**. Next morning **Nash wakes with Angelashi**; no verified new Mars-to-Earth move by this cutoff. [S3E04 audit](../../reports/WASTES_S3E04_ASR_COMPARISON_2026-10-26.md).

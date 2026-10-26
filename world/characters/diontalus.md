@@ -4,6 +4,10 @@
 
 **Browse:** [Characters](../CHARACTERS.md) · [Antagonists](../ANTAGONISTS.md) · [Stanley Billings](stanley-billings.md) · [World portal](../README.md).
 
+## S3E05 — physically deploys to Earth toward northwest cannon, battle result pending
+
+In [played S3E05](../../episodes/S3E05.md) ~00:30 Diontalus watches the departing second Martian war council, gives Stanley a smug smile, receives no verbal reply. He is **physically present aboard deploying Earthly Defenders fleet and DISEMBARKS ON EARTH** ~01:13, given an Elhandari hover-screeder and **ACTUALLY RIDES OFF toward his assigned NORTHWEST ANTI-AIR TOWER** (~01:16:50). His radio check-in ~02:20 is curt; **NO witnessed enemy kill, successful destroyed northwest cannon, or reconnection to Stanley's body by this cutoff**. Stanley later **rebukes his own father by comparing his “destiny requires sacrifice” reasoning to Diontalus**; private comment, not an action or endorsement by Diontalus. [S3E05 P/Q audit](../../reports/WASTES_S3E05_ASR_COMPARISON_2026-10-26.md).
+
 ## E128 — conscious again, drains the mercenary's corpse
 
 At **~00:21–00:25** of [E128](../../episodes/E128.md), **Stanley finds Diontalus inert in the crater and actually casts third-level *Healing Word***. The GM narrates **12 HP recovered**: Diontalus opens his eyes, rises and starts talking. This **resolves the E126 loss-of-consciousness cutoff**, without making his earlier defeat or the possibility of injury false. The archfey later approaches **dead Henatar/Henitar Grape** (whom Nash actually kills after surrender), uses his spectral scythe to **pull visible blue soul-like essence out of the body**, consumes it, and moves away. He is **alive, still separate from Stanley** and still morally dangerous. The physiological/metaphysical extent of his soul consumption, his own Feywild-court travel, and fulfilment of his E124 agreement are **not established**. [Report](../../reports/E128_ASR_COMPARISON_2026-10-24.md). **ASR-only**.

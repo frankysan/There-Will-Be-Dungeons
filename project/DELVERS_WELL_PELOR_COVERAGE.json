@@ -1,0 +1,124 @@
+{
+  "date": "2026-10-26",
+  "scope": "Southwestern well and Temple of Pelor place articles",
+  "headings": [
+    {
+      "path": "delvers/world/places/southwestern-town-well.md",
+      "old_heading": "The southwestern well \u2014 a neighborhood water source",
+      "old_anchor": "the-southwestern-well--a-neighborhood-water-source",
+      "target": "The southwestern well \u2014 a neighborhood water source",
+      "disposition": "Native heading or compatibility anchor retained; old text preserved in full"
+    },
+    {
+      "path": "delvers/world/places/southwestern-town-well.md",
+      "old_heading": "Introduction",
+      "old_anchor": "introduction",
+      "target": "Introduction",
+      "disposition": "Native heading or compatibility anchor retained; old text preserved in full"
+    },
+    {
+      "path": "delvers/world/places/southwestern-town-well.md",
+      "old_heading": "The day of the patrol",
+      "old_anchor": "the-day-of-the-patrol",
+      "target": "Chronological place development and source notes",
+      "disposition": "Native heading or compatibility anchor retained; old text preserved in full"
+    },
+    {
+      "path": "delvers/world/places/southwestern-town-well.md",
+      "old_heading": "The breach below",
+      "old_anchor": "the-breach-below",
+      "target": "Chronological place development and source notes",
+      "disposition": "Native heading or compatibility anchor retained; old text preserved in full"
+    },
+    {
+      "path": "delvers/world/places/southwestern-town-well.md",
+      "old_heading": "Current status",
+      "old_anchor": "current-status",
+      "target": "Current status",
+      "disposition": "Native heading or compatibility anchor retained; old text preserved in full"
+    },
+    {
+      "path": "delvers/world/places/temple-of-pelor.md",
+      "old_heading": "Pelor's temple \u2014 sanctuary over the forgotten ruins",
+      "old_anchor": "pelors-temple--sanctuary-over-the-forgotten-ruins",
+      "target": "Pelor's temple \u2014 sanctuary over the forgotten ruins",
+      "disposition": "Native heading or compatibility anchor retained; old text preserved in full"
+    },
+    {
+      "path": "delvers/world/places/temple-of-pelor.md",
+      "old_heading": "Introduction",
+      "old_anchor": "introduction",
+      "target": "Introduction",
+      "disposition": "Native heading or compatibility anchor retained; old text preserved in full"
+    },
+    {
+      "path": "delvers/world/places/temple-of-pelor.md",
+      "old_heading": "A cleric's duty",
+      "old_anchor": "a-clerics-duty",
+      "target": "Chronological place development and source notes",
+      "disposition": "Native heading or compatibility anchor retained; old text preserved in full"
+    },
+    {
+      "path": "delvers/world/places/temple-of-pelor.md",
+      "old_heading": "The old hall beneath the floor",
+      "old_anchor": "the-old-hall-beneath-the-floor",
+      "target": "Chronological place development and source notes",
+      "disposition": "Native heading or compatibility anchor retained; old text preserved in full"
+    },
+    {
+      "path": "delvers/world/places/temple-of-pelor.md",
+      "old_heading": "The silent brothers",
+      "old_anchor": "the-silent-brothers",
+      "target": "Chronological place development and source notes",
+      "disposition": "Native heading or compatibility anchor retained; old text preserved in full"
+    },
+    {
+      "path": "delvers/world/places/temple-of-pelor.md",
+      "old_heading": "S2E11 \u2014 all five elves reportedly awake",
+      "old_anchor": "s2e11--all-five-elves-reportedly-awake",
+      "target": "Chronological place development and source notes",
+      "disposition": "Native heading or compatibility anchor retained; old text preserved in full"
+    },
+    {
+      "path": "delvers/world/places/temple-of-pelor.md",
+      "old_heading": "Earlier status through S2E09",
+      "old_anchor": "earlier-status-through-s2e09",
+      "target": "Chronological place development and source notes",
+      "disposition": "Native heading or compatibility anchor retained; old text preserved in full"
+    },
+    {
+      "path": "delvers/world/places/temple-of-pelor.md",
+      "old_heading": "Earlier state (S2E01 cutoff)",
+      "old_anchor": "earlier-state-s2e01-cutoff",
+      "target": "Chronological place development and source notes",
+      "disposition": "Native heading or compatibility anchor retained; old text preserved in full"
+    }
+  ],
+  "additional_blocks": [],
+  "domains": {
+    "delvers/world/places/southwestern-town-well.md": "Place: neighborhood water source, adjacent trades/residents, side breach, access closure and untested water",
+    "delvers/world/places/temple-of-pelor.md": "Place/institution: healing and lodging, two distinct openings, staffing/security changes, patient ward and changing treatment practice"
+  },
+  "review": "Both pre-edit profiles read completely; relevant terms searched across 37 dossiers, selected complete paragraphs and relevant visible ledger rows read; no fresh ASR/audio/map/art review",
+  "horizons": {
+    "Southwestern well": "S1E07 neighborhood, S1E08 shaft/breach/sealing, S1E09 sash retrieval; later Atlas-cedar well not identified as this well",
+    "Temple of Pelor": "S1E05 service; S1E08/S1E09 separate entrances; S2E01 security and failed aid; S2E09 mental treatment; S2E11 reported five awake; S3E01/S3E02 emergency ward and continuing recoveries. Finale care occurs at Guild, no temple repair scene"
+  },
+  "critical_boundaries": [
+    "Southwestern well distinct from well outside temple and later unspecified Atlas-cedar well",
+    "Rust trail does not prove emergence from well; mimic origin unknown",
+    "Human smith not a shapeshifter; goo not a demonstrated protective ward",
+    "Concrete seals accessible paths, not entire underground system or drinking-water quality",
+    "Conversing rock creature not forced into non-intelligent bestiary",
+    "Hall of Penance stair and covered main-altar shaft remain distinct",
+    "Similar architecture does not prove physical identity with forest ruin",
+    "Damage payment undertaking is not a repaired mosaic",
+    "Two initial sleepers, later five-patient ward, Ball register and seven cures are distinct counts",
+    "Early restorative failures and temporary mental relief not permanent cures",
+    "Maynard recovery report is not a personally examined ward visit or proof Khalazar dead",
+    "Seven direct cures and ongoing treatments not complete regional clearance",
+    "Shallow-compulsion response not generalized to deep coma",
+    "Later Keeves enslavement not a documented relapse mechanism or reason to erase earlier report",
+    "Finale survivors treated at Guild, not relocated into a fabricated final temple scene"
+  ]
+}

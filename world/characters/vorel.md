@@ -1,12 +1,18 @@
 # Vorel
 
-**Portrayed by:** Kyle. **Identity:** Lizardfolk warrior and leader, protector of **Bok Bok**, bearer of the **Eye of Groxl** and claimant to many personal titles. **Spoilers:** Main Wastes through **S3E04** and cast Q&As, including the April 2022 retrospective. **Evidence:** ASR-provisional except owner-confirmed item/name orthography.[^march21]
+**Portrayed by:** Kyle. **Identity:** Lizardfolk warrior and leader, protector of **Bok Bok**, bearer of the **Eye of Groxl** and claimant to many personal titles. **Spoilers:** Main Wastes through **S3E05** and cast Q&As, including the April 2022 retrospective. **Evidence:** ASR-provisional except owner-confirmed item/name orthography.[^march21]
 
 **Browse:** [Characters](../CHARACTERS.md) · [His source-indexed titles](vorel-titles.md) · [Eye of Groxl](../technology/eye-of-groxl.md) · [World portal](../README.md).
 
 ## April 2022 Q&A — self-reliance and fish-out-of-water inspiration
 
 In the [April 2022 Q&A](../../episodes/BONUS-2022-04.md), Kyle says he considered but **did not ask the werefolk to transform Vorel**, believing an acquired curse would undercut the warrior's personal strength. He says the character's distinctive viewpoint grew from a **comedic outsider's sincerity in unfamiliar culture**, specifically citing **Worf from Star Trek** as a creative inspiration. A paladin version of Vorel is discussed as **an alternate hypothetical class**, not a played multiclass, and the giant lizard remains himself rather than a werebear. **No new personal epithet or in-world reference to Star Trek is established.** [Comparison](../../reports/BONUS_2022-04_ASR_COMPARISON_2026-10-26.md).
+
+## S3E05 — inspires TAC lizardfolk, receives sword, protects car and hurls flying Nash
+
+In [played S3E05](../../episodes/S3E05.md) **~00:36–00:41**, Vorel **ACTUALLY SPEAKS to seventy-five assembled lizardfolk TAC troops**, orders SE Solar Mines anti-air emplacement attacked, exhorts them to enjoy battle, **warns them to spare enslaved people of WORKERBERG**, and responds positively to their **REQUEST TO SETTLE THE SOLAR MINES VALLEY AFTER VICTORY**. **This is a proposed FUTURE territorial claim, not already conquered lizardfolk colony**. GM jokes **24 MAY be pregnant from S3E04 mating rite**, no documented actual offspring. The unit **REMAINS “TAC team”**, proposed **“claw/eyes of the fang” FUTURE UNIT nicknames**, no awarded new personal Vorel title. Vorel even broadcasts their roar through headsets.
+
+On ACTUAL departing Fate Six voyage ~00:56 **Vorel ACKNOWLEDGES RECEIVING AND PRACTICES WITH THE NEW LONGSWORD** set aside S3E04 (earlier **Stanley-collected +2 longsword**, distinct old flaming sword); **+2 shield for him still not clearly transferred**. Near northern Earth Solar Mines gate (~01:21–02:23) he **ACTUALLY MOUNTS LIBERATOR GATLING**, **RAGES activating FIRE RESISTANCE AURA** (protecting Stanley/main four), initially misses gunfire, then **hits damaged Slow Peter for 15**, refuses unsafe melee jump. Second machine **BEAMS their vehicle, nominal 59 fire per occupant reduced to 29 by his aura**, destroying only **back half of car**; Vorel **ACTUALLY LANDS SAFELY with Dex21** and catches **main Nash's dangling floating chain, “Bowser spins” and HURLS NASH TOWARD SECOND SLOW PETER with Athletics23**, Nash lives. **Bokbok PHYSICALLY GREETS HIM** among real crowned goblin convoy (calls “king Vorel” or “king...Vorel,” transcription unclear; **not formal new royal conferment**), allies arrive; **no victorious capture of Solar Mines, AA SE gun, gate, or dragon**. [S3E05 audit](../../reports/WASTES_S3E05_ASR_COMPARISON_2026-10-26.md); [titles audit](vorel-titles.md).
 
 ## S3E04 — refuses surgery, performs Courtship of the Fang, prepares lizardfolk assault
 

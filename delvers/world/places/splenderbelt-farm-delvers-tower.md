@@ -1,17 +1,17 @@
 # Splenderbelt potato farm and rebuilt Delvers tower — final campaign epilogue
 
-## Before the ending
+The farm and rebuilt tower share one continuous history at [Potato Grove](potato-grove.md), from the ruined holding through the completed one-year epilogue.
 
-[Krandal Splenderbelt](../characters/krandal-splenderbelt.md) establishes his potato farm near **Noble Hollow**, an area once cursed, rotten and infested; earlier [Minotaur Mesa crypt](minotaur-mesa-bone-crypt.md) beneath the farm held nine skeletal companions. In S3E10 he pays three employees **Gleepo Ma, Muck Muck and Nopa Ropa** 95gp each after actual potato shipment sale to Goodwines (not sale of property), raises Chad Brad skeletal minotaur and receives Pelor's potato-censer. Before S3E12 all of these are historical, NOT already liberated/deceased farm characters.
+<a id="before-the-ending"></a>
 
-## Creator retrospective: earlier farm hints and intentionally unfinished wartime tower
+The [early holding](potato-grove.md#arc-two--ruins-made-into-a-working-holding) covers the grant, cultivation and first resident worker.
 
-Kyle says in [BONUS-2021-11-13 ~11–18min](../../../episodes/BONUS-2021-11-13.md) that he reused early season-one roper-fight **spectators**—a **HAG** (later tower occupant), a **BULLYWUG** (**Muck Muck**) and a **KUO-TOA** (**Glepo Ma**)—as farm storyline NPCs. These retrospective identifications were **not necessarily recognized by characters in their first appearance**; exact old source cue/audio still needs review. Krandal's farm grew organically from Scott's decision to raise modest cheap potato staples, pulling in cursed **Noble Hollow** and the city's inflation/food crisis. Scott acknowledges farm's roofless ruined tower was **not rebuilt across prior montage** because Krandal was neglectfully overworked, but an actual **barn** existed. A hypothetical fortified farm showdown was possible, **NOT PLAYED**; the **fully rebuilt tower in S3E12 one-year epilogue is an ACTUAL LATER change**, not proof earlier structural improvements. A previously dispatched **deathlock-stat mummy** was defeated and carried to Guild, not a played final farm siege. Kyle says Glepo Ma/Muck Muck's presence was intentional continuity with old spectators, but those names' pronunciation ASR provisional.
+<a id="creator-retrospective-earlier-farm-hints-and-intentionally-unfinished-wartime-tower"></a>
 
-## S3E12 FINAL — one year later, farm flourishes
+The [farm's later development](potato-grove.md#arc-three--food-workers-and-a-shared-home) separates the built barn from the rebuilt tower; source notes retain creator commentary separately from performed history.
 
-[Delvers S3E12 — KOA is not A-OK](../../episodes/S3E12.md) actually plays Khalazar's death. **His curse LIFTS, ALL TEN undead minotaurs including Chad Brad and Corgan Greathorns ACTUALLY DISINTEGRATE to inert BONES at Guild basement**, not flesh-return. Nearby **NOBLE HOLLOW land actually becomes lush and fertile over time**, including Krandal's formerly poor/fallow property. Krandal's **one-year-later played epilogue** establishes expanded potato production, repayment of debts, fair worker wages, new employees, occasional healing for neighbours and potatoes renowned over the land.
+<a id="s3e12-final--one-year-later-farm-flourishes"></a>
 
-**GM closing cinematic:** The tower upon **Splenderbelt Farm is ACTUALLY REBUILT AND BECOMES THE DELVERS' BASE/HEADQUARTERS**. Across fertile fields a DONKEY and now docile domesticated **Scroungy hook horror** pull a cart as Gleepo Ma and Muck Muck work alongside other unusual helpers. This is NOT proof the destroyed skeletal Chad Brad returns to farm in a new body; he has achieved final rest.
+The [current status](potato-grove.md#current-status) describes the thriving farm, shared home and closing keepsakes.
 
-Inside the rebuilt tower a still-life on the table shows **small leftover PINK RIBBON** associated with Scroungy, **LOCKET with picture of Anthela and Koh's daughter**, and a **HALF-EATEN POTATO**. **Two LETTERS:** (1) an actual **WEDDING INVITATION** bearing **“Evelyn Blackwood” (Evelyn Grinkeeper's confirmed noble birth identity) and “Lord Ethan Renald/Renault Travail”**, signed **“GCT”**; (2) a **RED LETTER FROM KINGDOM left UNOPENED**. The final cinematic does **NOT play the wedding or disclose red-letter contents**; any future adventures are suggestions, not part of finished main campaign. This is the **end of Season Three, third story arc and entire played Delvers campaign** by owner. [S3E12 report](../../../reports/DELVERS_S3E12_ASR_COMPARISON_2026-10-26.md). Original audio and any wedding card/letter art NOT verified.
+The [pre-consolidation version](../../../research/legacy/2026-10-26/delvers-farm-tower/delvers/world/places/splenderbelt-farm-delvers-tower.md) preserves the former finale account in full.

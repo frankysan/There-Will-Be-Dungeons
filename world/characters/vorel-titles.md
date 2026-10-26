@@ -1,6 +1,10 @@
 # Vorel — titles and epithets register
 
-**Type:** Source-indexed supporting register for [Vorel](vorel.md), deliberately separated from the main character biography. **Evidence:** ASR-provisional, with source windows, name variants and social standing preserved. **Spoilers:** Through Wastes S3E04; Q&As are retrospective, not played conferrals. [Characters](../CHARACTERS.md) · [World portal](../README.md).
+**Type:** Source-indexed supporting register for [Vorel](vorel.md), deliberately separated from the main character biography. **Evidence:** ASR-provisional, with source windows, name variants and social standing preserved. **Spoilers:** Through Wastes S3E05; Q&As are retrospective, not played conferrals. [Characters](../CHARACTERS.md) · [World portal](../README.md).
+
+## S3E05 — Great Fang repeated; Bokbok greeting and TAC unit epithets are NOT new Vorel titles
+
+During [played S3E05](../../episodes/S3E05.md) ~00:36–00:42 **75 LIZARDFOLK ATTEND VOREL AS “GREAT FANG”**, continuing **previously conferred/recognized** standing (not a new rank). At **~00:41:40** Kyle/player/GM propose future **“Claw of the Fang” and “Eyes of the Fang”** as **unit names/nicknames that the TAC lizardfolk MUST EARN IN BATTLE**, **NEITHER is presently awarded or used as a new personal title for Vorel**. At physical Bokbok goblin reunion **~01:29:03–01:29:30**, Q/P transcribe goblin referring to **“King Varel” / “king Vorel friend”**, amid Bokbok wearing his own crown and calling himself King of Goblins. This is a **goblin greeting/ASR-ambiguous address** by Bokbok, **NOT evidence Vorel actually accepted a formal royal office, title or coronation**. There is **NO unambiguous newly SELF-PROCLAIMED or conferred fifth personal title**. [S3E05 P/Q audit](../../reports/WASTES_S3E05_ASR_COMPARISON_2026-10-26.md).
 
 ## S3E04 — “Great Fang” recognition and lizardfolk courtship chant, NOT a fifth title
 
