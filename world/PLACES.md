@@ -1,6 +1,6 @@
 # Places and regions — The Wastes
 
-**Spoilers:** Main campaign through S2E04, after Season One and the separately placed **E107–E109 Dunebreaker prequel**. This is a geographic **directory of primary location pages**, not a new episode-by-episode travel log. Descriptions derive from processed ASR and are not independently listened to. [World portal](README.md) · [Historical events](HISTORICAL_EVENTS.md) · [Chronology](CHRONOLOGY.md).
+**Spoilers:** Main campaign through S2E05, after Season One and the separately placed **E107–E109 Dunebreaker prequel**. This is a geographic **directory of primary location pages**, not a new episode-by-episode travel log. Descriptions derive from processed ASR and are not independently listened to. [World portal](README.md) · [Historical events](HISTORICAL_EVENTS.md) · [Chronology](CHRONOLOGY.md).
 
 ## Principal settlements and destinations
 
@@ -22,6 +22,7 @@
 | **Villa Ornath / Fate Six** | Cottage on Earth at E128; **becomes flying elven spelljammer S2E01 and actually arrives Mars S2E02**, formally named Fate Six | [Villa Ornath](places/villa-ornath.md) · [Fate Six](technology/fate-six.md) |
 | **Mars terraforming jungle** | **Actual S2E02 landfall and protected biosphere**, Nash reunited with family; Dunglestar's Theatre of Mortal Bodies, incomplete Ruby and elder-tree council | [S2E02 location evidence](../episodes/S2E02.md) |
 | **Planet Nash and Tower Nash** | **Actual ~six-hour Fate Six rift-space arrival S2E04**; two joined asteroids and a speaking Tower Nash projecting seven alternate Nashes. Angelashi and four children agree to stay; alternate Pod and Badass T encountered. **No alternate Nash physically transferred** | [S2E04 played location evidence](../episodes/S2E04.md) |
+| **Blast Belly Rock / Burp** | **Actual Fate Six dock S2E05 after ~one-day rift journey**; decrepit ex-mithril asteroid mining town **Burp** with **Wet Whistle** tavern and abandoned **Bank of Burp**. Innkeeper recalls possible Tungsten-related elf worked bank decades ago, **not identified as Tungsten**. Badass T remains at tavern, other five enter bank, Nash has **INT 3 / DEX 3** after ooze fight. | [S2E05 played location evidence](../episodes/S2E05.md) |
 
 ## Historic, secondary and mobile sites
 

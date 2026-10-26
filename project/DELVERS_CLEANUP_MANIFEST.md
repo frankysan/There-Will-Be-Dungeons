@@ -166,3 +166,23 @@ Focused Markdownlint and scoped whitespace checks pass for the changed maintaine
 A manual pilot readback checked the introduction, all eight chapters, ending and source notes against the reviewed dossiers/studies. Sensitive boundaries retained include promised versus delivered deed, offered versus accepted Snake Island job, senior guild knowledge versus party knowledge, testimony versus fact, both rescued First Sons, living prisoners and the swallowed cultist.
 
 The 19 baseline pages flagged for unreferenced notes and other structural findings remain review leads, not automatic fixes or proof of missing facts. Later subject batches must establish actual horizons and last observations, compare possible overlap/aliases and verify final states. The next bounded narrative pass is Season Two's full coverage checklist and consolidation; the world pilot set remains Koh, the guild, the urns and one short place/creature article.
+
+### Second implementation checkpoint — Season Two
+
+**2026-10-26: Season Two consolidated and structurally validated.** [Coverage and acceptance report](../reports/DELVERS_SEASON_TWO_CONSOLIDATION_2026-10-26.md) · [Preserved originals](../research/legacy/2026-10-26/delvers-season-two-consolidation/README.md) · [Validation](DELVERS_SEASON_TWO_VALIDATION.json).
+
+The second arc now has eight connected chapters in the existing file and under the existing title. All 21 former substantive sections have explicit dispositions and legacy compatibility anchors. The 9,270-word pre-edit body becomes 3,435 words including its opening. Chapters 1–6 contain 382–415 words, and chapters 7–8 contain 502/504; their fuller treatment preserves the successful rescue, changed personal lives and unresolved catastrophe. No strict length ceiling displaced supported events.
+
+Six pre-edit working copies are archived with exact original hashes and rebased reading copies. The new report accounts for condensed tactics, purchases, reference details and provenance, which remain reachable in the old narrative and dossiers. Corrected presentation includes deed timing, the larva observation and the order of Maynard's report. Source disputes, the jade count, red-shard custody and retrospective dragon victory remain qualified rather than silently resolved.
+
+Current dispositions supersede the first checkpoint's earlier outlined status for Season Two:
+
+| Work | Current state |
+| --- | --- |
+| Season One | Validated pilot retained unchanged |
+| Season Two | Validated consolidation; 12 dossier scene maps/cutoffs and all 21 former narrative sections reviewed |
+| Season Three | Outline only; full coverage checklist and consolidation next |
+| World subjects | Structural inventory only; no subject rewrite in this slice |
+| Campaign/narrative portals and chapter maps | Updated to reflect the two completed consolidations |
+
+The 215 protected-file hashes cover world Markdown, episode dossiers, Season One/Three, earlier detailed studies and Delvers SRTs. This task edits no source media and performs no audio or new ASR review. No commit or push was performed by this task. Whole-campaign factual acceptance and a rendered-site preview are not claimed.

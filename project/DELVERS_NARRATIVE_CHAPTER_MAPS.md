@@ -1,10 +1,10 @@
 # Delvers — narrative chapter maps
 
-**Prepared:** 2026-10-26. Season One's map is implemented by the first pilot. Season Two and Three are proposed editorial outlines, not completed rewrites or new source research. Existing titles and canonical paths remain unchanged. [Plan](DELVERS_CAMPAIGN_CLEANUP_PLAN.md) · [Manifest](DELVERS_CLEANUP_MANIFEST.md).
+**Prepared:** 2026-10-26. Season One and Two maps are implemented by preserved consolidation passes. Season Three remains a proposed editorial outline, not a completed rewrite or new source research. Existing titles and canonical paths remain unchanged. [Plan](DELVERS_CAMPAIGN_CLEANUP_PLAN.md) · [Manifest](DELVERS_CLEANUP_MANIFEST.md).
 
 ## Method and reading weight
 
-The maps account for all 37 archive IDs without equating archive order with story time. Season One was checked against its existing dossier evidence maps and all four earlier narrative studies. Later maps use existing narrative structure and selected dossier sequence/continuity summaries; a complete scene-level comparison remains required before their rewrites are accepted.
+The maps account for all 37 archive IDs without equating archive order with story time. Season One was checked against its existing dossier evidence maps and all four earlier narrative studies. Season Two now has a [complete old-section coverage checklist](../reports/DELVERS_SEASON_TWO_CONSOLIDATION_2026-10-26.md) checked against its existing dossier scene maps and cutoffs. Season Three still uses existing narrative structure and selected dossier summaries; a complete scene-level comparison remains required before its rewrite is accepted.
 
 Use roughly eight chapters per completed arc where the story supports them. The pilot uses the shared roughly 400-word planning reference, allowing denser sections where several distinct developments must remain. Measure prose separately from notes. No numerical target permits invented connective scenes or removal of unique evidence. Compare the actual pilot before making later chapter lengths binding.
 
@@ -31,7 +31,7 @@ Use roughly eight chapters per completed arc where the story supports them. The 
 
 The older studies remain unchanged historical versions. Condensed tactical detail is reachable there and in dossiers; it is not rewritten into a competing current biography. All eight original numbered chapter headings and the unnumbered ending are retained in the pilot, preserving their anchors.
 
-## Second arc — proposed consolidation
+## Second arc — implemented consolidation
 
 | Proposed chapter | Episode coverage | Story focus and acceptance constraint |
 | --- | --- | --- |
@@ -44,7 +44,7 @@ The older studies remain unchanged historical versions. Condensed tactical detai
 | 7. A voice brought home | Remainder S2E09–[S2E10](../delvers/episodes/S2E10.md) | Farm/family aftermath, Khalazar's pressure, Carrie's history and psychic rescue; Anthela physically awakens, while the red-shard custody gap remains documented |
 | 8. The Bronze Ball | [S2E11](../delvers/episodes/S2E11.md)–[S2E12](../delvers/episodes/S2E12.md) | Actual silver assessment and hero names, reunion, ribbon and formal ball, Withers/Broscale disclosures, active Drone and underground fall; stop before Season Three's aftermath |
 
-Compare especially chapters 4, 5 and 8 for excessive compression. Split or redistribute if their independent changes cannot be given reasonable reading weight. The existing 21 sections supply scene leads; check every section against this map before replacing them. Do not move the three-month transition into this arc because the finale previews it.
+All 21 former sections are accounted for in the [Season Two checkpoint](../reports/DELVERS_SEASON_TWO_CONSOLIDATION_2026-10-26.md). Eight chapters now carry the story; the rescue and finale each run just over 500 words to preserve their distinct consequences. All former section anchors remain near their corresponding passages. The three-month transition stays outside this arc.
 
 ## Third arc — proposed consolidation
 
@@ -64,4 +64,4 @@ The final chapter is a compression risk: test whether gate entry and rescue warr
 
 ## Next acceptance work
 
-Retain the Season One pilot as the concrete example for reading weight and source-note density. Before either later arc is rewritten, produce its complete old-section-to-new-chapter checklist, identify unique developments and classify prospective omissions as retained story, condensed tactical detail or archived research. Record the actual result in the manifest rather than marking these proposed maps accepted by default.
+Retain the Season One pilot as the concrete example for reading weight and source-note density. Season Two now has that coverage accounting and a validated consolidation checkpoint. Before Season Three is rewritten, produce its complete old-section-to-new-chapter checklist, identify unique developments and classify prospective omissions as retained story, condensed tactical detail or archived research. Record the actual result in the manifest rather than marking its proposed map accepted by default.

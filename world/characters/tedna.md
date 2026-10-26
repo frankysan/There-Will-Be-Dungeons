@@ -1,6 +1,6 @@
 # Tedna
 
-**Other names/ASR:** `Ted` in some early contexts. The name **Tedna** has cast-written evidence from Beau ([Discord report](../../reports/DISCORD_SPELLING_2026-10-21.md)). **Identity:** Young follower of the group, especially attached to Hope. **Status:** **Dead in E050**, after being **rescued alive in E048**. **Spoilers:** Through S2E04 (original Tedna dies E050; alternate later).
+**Other names/ASR:** `Ted` in some early contexts. The name **Tedna** has cast-written evidence from Beau ([Discord report](../../reports/DISCORD_SPELLING_2026-10-21.md)). **Identity:** Young follower of the group, especially attached to Hope. **Status:** **Dead in E050**, after being **rescued alive in E048**. **Spoilers:** Through S2E05 (original Tedna dies E050; alternate later).
 
 Tedna is introduced as a young **stowaway in Fate 4** during E027, eager to become an adventurer. An overturned vehicle leaves him hurt, but alive. He follows the group toward **Tietkalla**, survives the oil-sands crisis and takes increasing risks to help Hope.
 
@@ -8,7 +8,11 @@ Within Trashburg he investigates opportunities to infiltrate the keep through it
 
 The reunion is brief. Tedna becomes gravely injured during the warehouse fighting around E049–E050. **Diontalus's Spare the Dying** temporarily stabilizes him, but he still needs urgent healing. In E050 **Tedna dies after a final exchange with Hope**. Hope's distorted vision of his ascent to a steel heaven is **pixie-blush-affected perception**, not confirmation of the cosmology of the setting. His death remains real despite the unreliability of those images.
 
-## S2E04 — physically encountered alternate “Badass T” (NOT original Tedna resurrected)
+## S2E05 — alternate Badass T actually boards Fate Six and stays at Wet Whistle
+
+The older alternate Tedna **ACTUALLY boards Fate Six** with the original heroes and elf guardian Union Wheel, then **travels via rift space and disembarks at Blast Belly Rock**. Hope discusses his fighting style aboard ship; he describes fighting for the Liberators and training in a **Toida/Toyota Host (?)**, prefers reckless striking and is **in his thirties**, distinct from the youthful original Tedna. Stanley privately warns him before landing, saying **Stanley killed their original Tedna**, which is **Stanley's present statement, not an observed replay of E050**. At the **Wet Whistle tavern in Burp**, Badass T offers to be a lookout; after argument, heroes **ACTUALLY leave him at the tavern** while **four protagonists and Union Wheel** explore the bank. He is **not killed, kidnapped or present in the bank blob fight** at this cutoff. [S2E05](../../episodes/S2E05.md) · [P/Q report](../../reports/WASTES_S2E05_ASR_COMPARISON_2026-10-26.md).
+
+## S2E04 — physically encountered “Badass T” (NOT original Tedna resurrected)
 
 At [Tower Nash on Planet Nash](../../episodes/S2E04.md), Hope encounters an **alternate-reality Tedna** who now calls himself **“Badass T”**. He has a scarred/burned lower face and a lower-face mask, says he crossed from another strand of reality via Sigil, and insists on accompanying Hope's future adventure. **Hope reluctantly PERMITS him to come**, but **he has NOT actually boarded Fate Six** when the episode ends. Vorel reminds him of a prior entrusted item and **Badass T physically returns Smokey's belt with its special ammunition to Hope**. The final clue is Angelashi's question about **how an alternate Tedna reached Planet Nash**; that transfer mechanism is **not explained**. **Do not rewrite the original Tedna's E050 death**: this is a separately living counterpart with divergent history, not an on-screen resurrection. [Two-ASR comparison](../../reports/WASTES_S2E04_ASR_COMPARISON_2026-10-26.md).
 

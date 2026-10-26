@@ -1,6 +1,6 @@
 # Delvers — completed-campaign cleanup plan
 
-**Prepared:** 2026-10-26. **Status:** Programme underway: 107-file structural baseline, navigation reconciliation, three-arc chapter maps and preserved Season One consolidation pilot completed. Claim-level acceptance across the remaining pages and later narrative/world rewrites remain pending. See the [migration manifest](DELVERS_CLEANUP_MANIFEST.md) for the bounded checkpoint. The campaign is concluded through [S3E12](../delvers/episodes/S3E12.md). This plan covers the Delvers namespace, especially [narrative](../delvers/narrative/README.md) and [world](../delvers/world/README.md), with supporting navigation, chronology and editorial controls.
+**Prepared:** 2026-10-26. **Status:** Programme underway: 107-file structural baseline, navigation reconciliation, three-arc chapter maps and preserved Season One/Two consolidations completed. Claim-level acceptance across the remaining pages and later narrative/world rewrites remain pending. See the [migration manifest](DELVERS_CLEANUP_MANIFEST.md) for the bounded checkpoint. The campaign is concluded through [S3E12](../delvers/episodes/S3E12.md). This plan covers the Delvers namespace, especially [narrative](../delvers/narrative/README.md) and [world](../delvers/world/README.md), with supporting navigation, chronology and editorial controls.
 
 ## 1. Intended result
 
@@ -122,6 +122,6 @@ The programme is complete when every in-scope page has an accepted disposition, 
 
 ## 9. Recommended first implementation slice
 
-The first implementation slice has produced the structural manifest and prose measurements, reconciled campaign control documents, outlined all three narratives and consolidated Season One with preservation. The [chapter maps](DELVERS_NARRATIVE_CHAPTER_MAPS.md) and [checkpoint](DELVERS_CLEANUP_MANIFEST.md#first-implementation-checkpoint) record the result and limits. Full claim-level horizon and final-state review remains part of the page batches; the structural scan does not replace it.
+The first implementation slice has produced the structural manifest and prose measurements, reconciled campaign control documents, outlined all three narratives and consolidated Season One and Two with preservation. The [chapter maps](DELVERS_NARRATIVE_CHAPTER_MAPS.md) and [checkpoint](DELVERS_CLEANUP_MANIFEST.md#first-implementation-checkpoint) record the result and limits. Full claim-level horizon and final-state review remains part of the page batches; the structural scan does not replace it.
 
-Next, complete the old-section-to-new-chapter coverage checklist for Season Two and consolidate that arc against its dossiers. Season Three needs a deliberate decision about the final expedition's chapter weight. The world pilots remain bounded by their own acceptance gates; no world subject has been rewritten in this first slice.
+Next, complete Season Three's old-section-to-new-chapter coverage checklist and consolidate that arc against its dossiers, with a deliberate decision about the final expedition's chapter weight. The [Season Two checkpoint](../reports/DELVERS_SEASON_TWO_CONSOLIDATION_2026-10-26.md) records the completed second-arc pass. The world pilots remain bounded by their own acceptance gates; no world subject has been rewritten in this first slice.

@@ -1,0 +1,71 @@
+{
+  "date": "2026-10-26",
+  "status": "passed",
+  "scope": [
+    "delvers/narrative/SEASON_TWO.md",
+    "delvers/narrative/README.md",
+    "delvers/README.md",
+    "project/DELVERS_CAMPAIGN_CLEANUP_PLAN.md",
+    "project/DELVERS_CLEANUP_MANIFEST.md",
+    "project/DELVERS_NARRATIVE_CHAPTER_MAPS.md",
+    "reports/DELVERS_SEASON_TWO_CONSOLIDATION_2026-10-26.md"
+  ],
+  "local_link_and_fragment_checks": 539,
+  "maintained_inbound_fragment_checks": 1,
+  "errors": [],
+  "archive_originals_sha256_verified": 6,
+  "archive_reading_copy_link_targets_equivalent": true,
+  "protected_file_hashes_verified": 215,
+  "old_substantive_sections_accounted_for": 21,
+  "old_heading_anchors_retained": 22,
+  "pilot_footnotes": {
+    "references": 22,
+    "definitions": 22,
+    "undefined": [],
+    "orphan_definitions": []
+  },
+  "chapter_words": [
+    {
+      "heading": "# Delvers — Season Two: The Forgotten Fortnight",
+      "words": 54
+    },
+    {
+      "heading": "## 1. The forgotten fortnight",
+      "words": 384
+    },
+    {
+      "heading": "## 2. The wight wedding",
+      "words": 382
+    },
+    {
+      "heading": "## 3. Beneath the financier's house",
+      "words": 383
+    },
+    {
+      "heading": "## 4. The job no guild will record",
+      "words": 415
+    },
+    {
+      "heading": "## 5. Gemholm under the tide",
+      "words": 407
+    },
+    {
+      "heading": "## 6. The mountain of fire",
+      "words": 404
+    },
+    {
+      "heading": "## 7. A voice brought home",
+      "words": 502
+    },
+    {
+      "heading": "## 8. The Bronze Ball",
+      "words": 504
+    }
+  ],
+  "old_main_prose_words": 9270,
+  "new_main_prose_words": 3435,
+  "largest_chapter_to_median": 1.243,
+  "markdownlint": "7 changed maintained Markdown files passed",
+  "whitespace": "Scoped Git diff plus direct whitespace/final-newline scan passed",
+  "limits": "Existing dossier/narrative comparison only. No new source transcription, listening, source-identity upgrade, rendered-site preview, remote URL availability or whole-campaign factual acceptance."
+}

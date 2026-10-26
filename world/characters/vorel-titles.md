@@ -1,6 +1,10 @@
 # Vorel — titles and epithets register
 
-**Type:** Source-indexed supporting register for [Vorel](vorel.md), deliberately separated from the main character biography. **Evidence:** ASR-provisional, with source windows, name variants and social standing preserved. **Spoilers:** Through Wastes S2E04; Q&As are retrospective, not played conferrals. [Characters](../CHARACTERS.md) · [World portal](../README.md).
+**Type:** Source-indexed supporting register for [Vorel](vorel.md), deliberately separated from the main character biography. **Evidence:** ASR-provisional, with source windows, name variants and social standing preserved. **Spoilers:** Through Wastes S2E05; Q&As are retrospective, not played conferrals. [Characters](../CHARACTERS.md) · [World portal](../README.md).
+
+## S2E05 — “Best of All Vorels” repeat, no promotion
+
+At **~00:43–00:45** during the **Vorel's Sandburgers** dispute on Planet Nash, Vorel says **“I am the best of all Vorels”** (Parakeet `best of all varrels`, Qwen likewise). This is a **slight wording variant** and repeat of the self-claimed best-of-multiverse epithet from S2E02–S2E04, not a new social or political title. His refusal to become the sandburger director, interest in an **alternate Vorel manager**, and herald's possible future promise **do not grant the actual Vorel a new office** or physically produce another Vorel. His announcement at **~01:15** on Blast Belly Rock as **Vorel Rasphem Kurix** recites his name rather than a newly bestowed epithet. [S2E05](../../episodes/S2E05.md) · [P/Q audit](../../reports/WASTES_S2E05_ASR_COMPARISON_2026-10-26.md). Audio unverified.
 
 ## S2E04 — competing projected Vorels, “Greatest of the Time Vorels” variant
 

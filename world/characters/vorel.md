@@ -1,6 +1,6 @@
 # Vorel
 
-**Portrayed by:** Kyle. **Identity:** Lizardfolk warrior and leader, protector of **Bok Bok**, bearer of the **Eye of Groxl** and claimant to many personal titles. **Spoilers:** Main Wastes through **S2E04** and cast Q&As. **Evidence:** ASR-provisional except owner-confirmed item/name orthography.[^march21]
+**Portrayed by:** Kyle. **Identity:** Lizardfolk warrior and leader, protector of **Bok Bok**, bearer of the **Eye of Groxl** and claimant to many personal titles. **Spoilers:** Main Wastes through **S2E05** and cast Q&As. **Evidence:** ASR-provisional except owner-confirmed item/name orthography.[^march21]
 
 **Browse:** [Characters](../CHARACTERS.md) · [His source-indexed titles](vorel-titles.md) · [Eye of Groxl](../technology/eye-of-groxl.md) · [World portal](../README.md).
 
@@ -81,6 +81,10 @@ In **E114**, Vorel still handles Squirts's ashes and defends the elven vessel fr
 **E117:** Vorel witnesses Hope return, supports a chance for dialogue without absolving her and helps look after **Chunks**, Squirts's surviving child. He joins the refugees' ceremony and is called **Keeper of Stories**. He smells evidence that lizardfolk are nearby in the Elhandar forest but does **not** locate Omnom that episode. [E117](../../episodes/E117.md).
 
 **E118:** Vorel **actually finds Omnom Cinderborn alive**, severely injured and grieving Razak Val. Omnom charges Hope, but **Stanley's Hold Person** stops the attack. Vorel takes Omnom aside and refuses his request to be killed; **Omnom recounts his losses and accuses Hope of intentional wrongdoing**, while Hope offers a different explanation. Vorel persuades him to attempt a **hunt the next morning** with the four companions, but **no hunt or full reconciliation occurs before the E118 cutoff**. Omnom addresses Vorel as **Great Fang**, a renewed personal recognition of an existing title rather than new political coronation. [E118](../../episodes/E118.md) · [Omnom](omnom-cinderborn.md).
+
+## S2E05 — best-of-all-Vorels boasting, bank entry and Eye
+
+In [S2E05](../../episodes/S2E05.md), Vorel mediates the **Tungan-versus-Triton Vorel's Sandburgers cook-off** on Planet Nash, praising each chef's ability and asking them to sell food based on customer preference, **not declaring a single victor**. He refuses their request to become manager and floats an **alternate-Vorel manager**, which herald **Zolfin Sol (?)** says might be arranged later—**no alternative Vorel is physically summoned**. Vorel again calls himself **“the best of all Vorels”**, a repeat self-bestowed variant; [title register](vorel-titles.md) is authoritative. He physically joins **Fate Six's voyage to Blast Belly Rock** with the others, announces himself in the dark mining town **Burp**, and **kicks open the abandoned bank door**. He uses **Eye of Groxl** to learn the small yellow oozes are **immune to slashing damage** and sees no recoverable residue from the destroyed Smart Blob (poor Perception check); no new title or item recovered. At cutoff, he is with other heroes in **Bank of Burp**, Nash's **Intelligence and Dexterity both still 3**. [ASR report](../../reports/WASTES_S2E05_ASR_COMPARISON_2026-10-26.md).
 
 ## Relationships, possessions and open questions
 

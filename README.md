@@ -8,6 +8,7 @@
 
 | I want to… | Start here |
 | --- | --- |
+| **Continue Wastes Season Two** | [Season Two narrative](narrative/SEASON_TWO.md) and [S2E05 — That's What The Blob Said](episodes/S2E05.md) · [P/Q exact textual comparison](reports/WASTES_S2E05_ASR_COMPARISON_2026-10-26.md). The party **reaches Blast Belly Rock**; at the bank cliffhanger Nash remains **INT 3 / DEX 3** after the oozes are killed. **ASR-provisional; audio not verified** |
 | **Explore Delvers (separate reality)** | [Campaign index](delvers/README.md), [world reference](delvers/world/README.md), [narrative](delvers/narrative/README.md) and [Delvers queue](delvers/REVIEW_QUEUE.md). **ASR-provisional Delvers MAIN CAMPAIGN COMPLETE THROUGH S3E12 (Season Three, third arc, entire Delvers finale); NO NEXT main-campaign episode**. [37-entry source inventory](delvers/SOURCE_INVENTORY.md) |
 | **Explore *Inverse* (separate reality)** | [Complete four-episode index](inverse/README.md), [S1E01](inverse/episodes/S1E01.md), [S1E02](inverse/episodes/S1E02.md), [S1E03](inverse/episodes/S1E03.md) and [S1E04 finale](inverse/episodes/S1E04.md). **Not a Wastes timeline** |
 | **Explore the Star Trek one-off (separate reality)** | [S1E001 — Send In The Spores](episodes/STAR-TREK-S1E001.md) · [full P/Q ASR comparison](reports/STAR_TREK_S1E001_ASR_COMPARISON_2026-10-26.md). Played standalone *Star Trek Adventures* story aboard **USS Ottawa**, **not** part of Wastes/Delvers continuity; **12.17% inter-ASR textual disagreement, not WER**, audio unverified |
