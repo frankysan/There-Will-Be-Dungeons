@@ -28,6 +28,14 @@ Before controlled compositing, the image-edit renderer returned two **standalone
 - `FACE_APPROVED`: unchanged; exact `illustrations/references/Hope_Akmenos_E001_Face_v1_1024_sRGB.png` hash `1ef34cf6f619757df4e51e0f12a151965f1ed3381506af1b1c06c65667d3c91d`.
 - `FRONT_CANDIDATE_AWAITING_OWNER_REVIEW`: image available in session; **do not claim** `FRONT_APPROVED` before the owner sees and accepts this *exact crop/composite* and its intentional nonorthographic pose.
 - On acceptance, ensure same bytes transferred under new versioned `illustrations/references/` path, repo-read SHA-256, dimensions, embedded sRGB profile and image content; if transfer cannot be verified, record `FRONT_REGISTRATION_PENDING`. Only then `FRONT_APPROVED`.
-- No code changed and no unrelated work touched. Local PNG decode/dimensions/ICC/SHA and image inspection **PASS**; repo registration and TWBD test suite **NOT RUN**.
+- No code changed and no unrelated work touched. Local PNG decode/dimensions/ICC/SHA and image inspection **PASS**; repo registration and TWBD test suite **NOT RUN** at the time of initial candidate preparation.
+
+## Subsequent acceptance and repository readback — 2026-10-25
+
+The owner subsequently replied **“Yes, approved.”** to the exact panel-free image shown. This accepts the deliberate **slightly angled, hand-on-hip front-reference exception** noted above, not a new strictly orthographic pose and not the separate sheet's side/back pages.
+
+The exact candidate now **exists in the connected project repo**, at [`illustrations/references/Hope_Akmenos_E001_Front_v1_PanelsRemoved_1024_sRGB.png`](../illustrations/references/Hope_Akmenos_E001_Front_v1_PanelsRemoved_1024_sRGB.png). Connected workspace binary reader verified **1,244,152 bytes**, PNG MIME and SHA-256 **`8c19629c99f5111bc56735473d9024d31a6a289f4cd6961b4d428bad48a960e1`**, identical to the locally validated accepted file. Independent saved-file Pillow inspection confirms **1024 × 1024**, RGB and **588-byte `sRGB built-in` ICC**; hash identity establishes that the registered repository file has the exact same bytes. **FRONT_APPROVED** for this E001/A01 reference, with explicitly nonorthographic pose. Initial 'awaiting review/registration' text above remains historical; this section supersedes its status.
+
+**Next stage:** two actual anatomical side projections derived from this exact approved figure, preferably via direct image-attachment and image edit. Honor locked costume and asymmetric tool-belt/tail geometry. No SIDE/BACK/assembled-sheet approval was granted.
 
 [Earlier FRONT attempt audit](ILLUSTRATION_HOPE_E001_FRONT_ATTEMPTS_2026-10-25.md) · [Accepted face](ILLUSTRATION_HOPE_E001_FACE_ACCEPTANCE_2026-10-25.md) · [Workflow](../.agents/skills/twbd-illustration-generate/CHARACTER_SHEET.md)

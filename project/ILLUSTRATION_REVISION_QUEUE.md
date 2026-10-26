@@ -125,7 +125,17 @@ queue write does not authorize modifying or silently using flawed art.
 
 ## Open illustration findings
 
-*No open illustration issues remain in this ledger as of this review.*
+### IRV-0003 — Hope E001 side profiles: asymmetric tool-belt placement
+
+- **Status / severity / type:** `needs-review` / `major` if confirmed / `visual-lineage`; recommended `review-only` initially, then `edit` if sidedness is wrong.
+- **Opened:** 2026-10-25.
+- **Subject:** The Wastes, Hope Akmenos, `WASTES-HOPE-AKMENOS-A01` / `WASTES-HOPE-AKMENOS-DS-001`.
+- **Affected image:** Owner-visually-accepted generated paired sides, generation `4b05d728-921f-4fdf-bba7-33fbc12db0d9`, original session-only SHA-256 `c469672f025c5bb24a02c7e7500d92b1c2ddc2b3aff1a60f9398257dd816aabc`, plus three session-only technical derivatives documented in [the side technical report](../reports/ILLUSTRATION_HOPE_E001_SIDE_TECHNICAL_GATE_2026-10-25.md). No verified repository copy of the side assets.
+- **Visible concern:** Approved [front](../illustrations/references/Hope_Akmenos_E001_Front_v1_PanelsRemoved_1024_sRGB.png) puts the prominent tool rig on Hope's own **right** hip (viewer left); left-facing-right side image shows the prominent rig on its near side, while right-facing-left side does not show the equivalent rig. The apparent near/far-side placement is worth independent camera-geometry review. The accepted red sash is on her opposite hip; do not fix one side by blindly mirroring the whole image.
+- **Evidence / confidence:** Actual front and side pixels inspected in the 2026-10-25 ChatGPT session, but camera projection interpretation remains `investigate`, not definitive source contradiction. The outfit layout is an approved artistic E001 choice, not spoken original episode canon.
+- **Action / next gate:** Check character-anatomical left/right against physical belt/holster continuity and both actual image pixels, before `SIDE_APPROVED`. If wrong, propose a *reference-conditioned*, owner-reviewed localized edit preserving all other previously accepted design details. Technical 1024-square PNG/sRGB normalization already performed in session cannot resolve image geometry. Preserve original acceptance and exports. Do not silently replace accepted pictures.
+- **Registration:** Side remains `SIDE_VISUAL_ACCEPTED / SIDE_REGISTRATION_PENDING / CONTINUITY_REVIEW_NEEDED`; no `SIDE_APPROVED` or completed full design sheet asserted.
+
 
 <!-- Real entry structure; use next unused IRV-####.
 ### IRV-XXXX — <short problem / subject and state>

@@ -1,0 +1,98 @@
+# Vorel Rasvim Kurik — illustration appearance and continuity research
+
+**Version:** 0.1 · 2026-10-25 · **Campaign:** The Wastes · **Subject ID:** `WASTES-VOREL` · **Kind:** recurring player character (Kyle). **Status:** Integrated source-linked written research, with a drawable **E000/E001 baseline**; `WASTES-VOREL-DS-001` **sheet-needed**, no approved model-sheet images. **Style:** [illustration guide v0.6 / lock v2](ILLUSTRATION_GUIDE.md). **World record:** [Vorel](../world/characters/vorel.md). **Spoiler coverage:** character history through E128; individual appearance transitions below. **Evidence quality:** named transcript windows and episode dossiers are ASR-derived **and not audio-listened**; only specified archived fan-art pixels were actually inspected. This is a bounded visual-evidence pass, **not a full Wastes SRT sweep**.
+
+## Identity and recognition
+
+Vorel, whose full name is **Vorel Rasvim Kurik** in the owner-supplied late character sheet, is a **male-presenting lizardfolk barbarian**. Kyle's performed **E000 ~00:11:41** introduction describes **seven feet** of exceptional strength, **rocky scales and muscle**, **broad shoulders**, a **brawny swagger** and a body exposed to hard **sand and sun**. He arrives from desert lizardfolk lands with a **massive bloody haunch of meat on one shoulder**, trading for water. A recognizably reptilian, not human-headed, form is integral. A **long tail** is confirmed as actual anatomy in E022 (it catches a ritual glyph). At the beginning of the played campaign he wears **no loincloth or clothing**; Kyle and Beau explicitly discuss this at **E001 ~00:48:55–00:49:09**, with reptile-specific, folded external anatomy. This point is corroborated retrospectively in **September 2019 Q&A ~00:08–00:10**, where Kyle says his idea of formal innkeeper clothing was never performed.
+
+**Appearance vs late sheet:** Two supplied D&D Beyond exports, `sources/json/vorel.json` and `sources/json/1075054--Vorel Rasvim Kurik.json`, report the same character ID and `dateModified=2022-10-15T23:22:44.333Z`. They are **overlapping final-snapshot sources, not independent period witnesses**. The owner-entered character fields read `data.name=Vorel Rasvim Kurik`, `gender=Lizardman`, `age=23`, `hair=None`, `eyes=Yellow`, `skin=Golden Scales`, `height=7 foot`, `weight=280` (presumed pounds, unit not stored in the visible field). `data.notes.personalPossessions` reads **“Butt naked nothing”**; `data.traits.appearance` is null. The `race` object is generic **legacy Volo's Guide** rules data, *not* custom description of Vorel. `data.classes` lists **Barbarian / Path of the Storm Herald, level 16** at snapshot time, not E001 level. The sheet's `Eye of Groxl`, +2 shield and +2 longsword are **late-sheet inventory**, not early props. **Golden scales, yellow eyes and age 23 are valuable owner-entered design candidates** but not explicitly proven to hold in the E000/E001 story timeframe. Treat them as provisional artistic continuity choices unless early scene audio or time-correct creator reference confirms them.
+
+## Anatomy and baseline constraints
+
+| Feature | Drawing constraint and certainty | Evidence |
+| --- | --- | --- |
+| Height / build | **Seven feet**, heavily muscled, broad-shouldered, imposing, barrel/torso mass with muscular limbs. Avoid average-height, slim human proportions. | S01 (played introduction) |
+| Scaly surface | **Rocky, desert-weathered scales**. Simplified overlapping plate masses and coarse patches rather than fine photoreal pebbling are artistic translation of explicit words. | S01 |
+| Head / snout | Reptilian elongated muzzle, visible jaw, teeth and nonhuman eye placement are **species-informed choices**, not specifically detailed in E000. A distinctive raised head/neck frill appears in archived art but is not confirmed by dialogue. | S06–S10 |
+| Eyes and scales | **Yellow eyes and golden scales** entered by player in later D&D Beyond sheet; muted sand-ochre/gold with darker weathering is a coherent **working A01 proposal**, not an early verified color. Do not read the late sheet as evidence that he can change color in E001. | S05, D01 |
+| Tail | Long muscular balancing tail; actual tail explicitly encountered by E022. Preserve consistently in every projection. Exact length/curl remains a design choice. | S04, S06 |
+| Hands and feet | Reptilian claws/digits are a species-supported, fan-art reinforced direction; exact finger/toe counts and scales remain **unconfirmed for Vorel** and must stay consistent once approved. | S06–S10 |
+| Nudity | **Unclothed**, no habitual loincloth, trousers, vest or boots for E001. **Smooth/folded reptilian vent region**, no human-looking genital anatomy: avoid adding a prudish loincloth that contradicts the scene, or anatomical detail that the neutral sheet does not require. | S02, S03 |
+| Hair and frill | No hair in owner-entered late sheet. Distinct ear/neck frill or short crest optional, sourced to D&D species norm and several fan drawings, **not yet selected as Vorel-specific canon**. | S05–S10 |
+| Demeanor | Proud, self-assured, physically relaxed in public, exaggerated warrior swagger. Initial mood ranges from fearsome hero to delighted, oblivious guest at the feast. Do not use a permanent animal snarl. | S01, S02 |
+| Standard outfit/armor | **None in E001**. Specialty suits, helmets, capes and named weaponry must be linked to their later states. | S02–S03, S11–S14 |
+
+**D&D race research (general reference, *not* TWBD-specific canon):** [D&D Beyond / Volo's Guide to Monsters](https://www.dndbeyond.com/sources/dnd/vgtm) includes lizardfolk as a playable race; Vorel's embedded legacy racial definition describes lizardfolk as taller and bulkier than humans with colorful frills, thick scaly natural armor, biting jaws and swimming capability. [D&D Beyond 2014 lizardfolk monster](https://www.dndbeyond.com/sources/dnd/basic-rules-2014/monster-stat-blocks-l) independently establishes reptilian humanoid anatomy, natural armor, bite and swim speed (its monster weapon kit is **not** Vorel's starting inventory). [D&D Beyond species catalog](https://www.dndbeyond.com/species) separately lists newer *Monsters of the Multiverse* lizardfolk traits, while the **character's saved legacy sheet** belongs to the older rules baseline. Neither source overrides the show: **Vorel's homeland is desert, not necessarily the species' default swamp/jungle**, and color/crest details remain character-specific decisions.
+
+## Appearance-state timeline
+
+| State | Story applicability | Visual change and strict boundary | Basis |
+| --- | --- | --- | --- |
+| `WASTES-VOREL-A01` | E000 opening and E001 Dusthill; end unresearched | Seven-foot rocky-scaled desert lizardfolk; muscular, bare, long tail. E000 meat haunch is **scene-only**, not part of anatomy or permanent equipment. **No Eye of Groxl or prismatic camouflage.** | S01–S05 |
+| `WASTES-VOREL-A02` | By E037–E052; acquisition dates of all items should be separately verified | **Mawstorm**, a chainsaw-edged greatsword, acquired E037; **separate lizardfolk skull helmet** in arc two, episode-specific appearance requires confirmation. Could still be mostly unclothed. E051 brief petrification is temporary, restored same episode. | S11 |
+| `WASTES-VOREL-A03` | **From E053 onward**, excluding periods of artifact inactivity | The **living Eye of Groxl is integrated/embedded into chest**; *separately*, Vorel gains **voluntary prismatic scale-color change** after froghemoth/pixie-energy contact. No inherent pixel text/complex animations. Later eye manifests shields/flame weapon; do not treat all effects as constantly active. | S12–S13 |
+| `WASTES-VOREL-A04` | E076 CHIDS expedition | **Specialized anti-dragon nanoweave suit**, grappling/harpoon harness, boots and psychic-resistant helmet. This **temporary mission kit** should not become his original costume. E077 hand/digits injury is **repaired E078**. | S14 |
+| `WASTES-VOREL-A05` | E082 Sigil arrival until Eye restored E101 | **Eye broken/cracked**, inert material/remnants persist in chest; ordinary carried equipment missing. Vorel retains lizardfolk body and post-E053 scale-changing history, but no functioning full flame shield/sword without explicit scene evidence. | S15 |
+| `WASTES-VOREL-A06` | E101 onward as supported; later episodes scene-specific | Eye of Groxl physically **restored** by hooded Voice and its blade used again. Specific clothes, armor, colors and props are contextual, not cumulative inventory. | S16 |
+
+**Important:** These states track material appearance changes; they are **not** proof of uninterrupted wearing/holding every item in their respective intervals. The **final-sheet gold** is a late description, while the E053 prismatic effect is an *acquired* physical power. No animated markings or intentionally written scale-text before a verified display. A red Soggy Feather cape seen around E088 should not be put in the E001 neutral model.
+
+## E000/E001 character design-sheet brief — draft, not approval
+
+**Sheet ID:** `WASTES-VOREL-DS-001`. **Target:** `WASTES-VOREL-A01`; prospective status **sheet-needed**. One front, paired *anatomical* left/right sides and back, plus enlarged three-quarter facial study, in phased artwork production. Neutral full-body turnarounds should be unclothed, maintain exactly seven-foot adult stature in proportion to the other protagonists, and retain a substantial long tail without cutting it off at the page edge. **No picture generated or approved in this research pass.**
+
+- **Face study:** Strong reptilian skull, extended snout and hard jawline, purposeful golden/yellow-eyed *candidate* palette. Choose a precise frill shape, jawline, tooth visibility, pupils, scales and brow geometry at the visual-design phase, then lock identity. Expression set: formidable confidence, hearty pride, excited contentment and serious protective resolve. Do not give him a generic dragonborn horn crown or decorative clothing without selecting that as a consciously separate design.
+- **Front:** Broad trapezoidal shoulders, visibly muscular chest/arms, thick thighs, clawed feet, rough plated scales, long neck, erect yet relaxed swagger. **No loincloth or accessories** in the baseline; groin region organically flat/folded and nonexplicit. No chest Eye implant.
+- **Two strict 90-degree profiles:** Camera sees Vorel's **own left side** while he faces right, and his **own right side** while he faces left. Maintain the chosen snout/crest/frill, chest contour, shoulder mass, and tail origin and curve without mirroring arbitrary asymmetries. Tail length must fit.
+- **Back:** Continuous head/neck-to-spine scale pattern, shoulder and back musculature, tail attachment and continuation to its tip; bare back, **no concealed cloak/armor**. Avoid prominent arbitrary spines unless selected for every view.
+- **Working palette:** matte **warm sandstone/ochre-gold scales** (informed by player-entered final-sheet gold and Erin Raught's sandy-tan fan image); dark muted umber/brown scale-shadow accents; restrained brighter yellow eyes. **Not yet source-certified for E001 or owner-approved**. The production style uses [fixed adult-animation graphic-novel v2](ILLUSTRATION_GUIDE.md): bold confident ink, simplified graphic shadow planes, matte colors, sparse texture and **1024×1024 sRGB PNG** pages with no writing/panels/watermarks unless explicitly specified. Technical compliance and owner stage approvals happen during generation.
+- **Equipment:** None in neutral full-body model; the E000 introductory **bloody haunch of meat** may be a *separate contextual prop*, not a permanent weapon. Audie Norman's mace-and-shield depiction is fan interpretation, **not proof of E001 loadout**. Later Mawstorm, skull helmet, Eye, cape, anti-dragon suit and flame effects **must not** be retrojected.
+
+## Evidence register
+
+| ID | Source and time | What it establishes | Role / verification |
+| --- | --- | --- | --- |
+| S01 | [E000 reader-edited transcript](../transcripts/E000.reader-draft.md), Kyle **00:11:41–00:12:35** | Seven feet, sand/sun blasted rocky scales, exceptionally muscular frame, broad shoulder, swagger, haunch; name | Performed character intro; ASR reader draft, **no original audio listened** |
+| S02 | [E001 reader-edited transcript](../transcripts/E001.reader-draft.md), **00:48:55–00:49:09**, **00:50:18–00:51:51** | **No loincloth/naked**, folded reptilian anatomy; Stanley's floating censor cloud is a *momentary magical joke*, **not clothing** | Played participant dialogue, ASR-only |
+| S03 | [September 2019 Q&A dossier](../episodes/BONUS-2019-09.md), **~00:08–00:10** | Kyle's vest/slacks/decorative collar were **never enacted**; ordinarily naked | Cast retrospective; dossier inherited, ASR-only |
+| S04 | [E022](../episodes/E022.md), **~00:07–00:22** | Actual long-enough tail to trigger a glyph | Played episode dossier; ASR-only |
+| S05 | [Two D&D Beyond exports](../sources/json/vorel.json), `data.name/gender/age/hair/eyes/skin/height/weight`; second [file](../sources/json/1075054--Vorel%20Rasvim%20Kurik.json) | Player-entered late **golden scales, yellow eyes, no hair, age 23, 7 feet, 280**; `notes.personalPossessions` naked | **Final-sheet-snapshot only**, duplicate character ID, not E001 |
+| S06 | [Archived Audie Norman mace/shield](../local/images-wiki/Audie_Norman_-_Vorel_with_Mace_and_Shield.webp), SHA-256 `936190bdcff24241430da820d643d73cb7b22d63f8ecd58569978c4b8bdf7c68` | Long reptile head, raised frill, muscular naked torso, tail, claws and mace/shield | **Actually visually inspected fan art**, era not certified, not approved sheet |
+| S07 | [Archived Audie Norman Mawstorm art](../local/images-wiki/Vorel_with_Mawstorm_-_Audi_Norman.webp), SHA-256 `de51b7330a754121d3217b2323795cafa104428ea269ad19a6c5c09f4225e929` | Tail, high shoulders, crest, chainsaw-style sword | **Actually visually inspected fan art**, later-gear interpretation |
+| S08 | [Erin Raught: Vorel and Bokbok](../local/images-wiki/Vorel_and_Bokbok_-_Erin_Raught.webp), SHA-256 `64fecb9104ce43909ca6e66860a91527850224b1f88af64c2efd7dfcc9e7cfee` | Sandy tan reptilian head, broad upper body, yellow/orange iris (artist's interpretation) | **Actually visually inspected fan art**, not player color confirmation |
+| S09 | [Justin Goff: Fire in the Hole](../local/images-wiki/Vorel_-_Fire_in_the_Hole_-_Justin_Goff.webp), SHA-256 `840a4a83fc193f1722b4a71017686e427e61af0554f5585bb16f664f883dd2e3` | Orange/gold reptile in action, no conventional clothing | **Actually visually inspected fan art**, not canon palette |
+| S10 | [TWBD Lineup](../local/images-wiki/TWBD_-_Lineup.webp), SHA-256 `472f9d796cf6e0ee8d86ac1c055df4cb7a9dc03228a11a75585d11391c03c07c` | Tall, muscular lizardfolk relative to other PCs; head frill and tail | **Actually visually inspected archived fan concept**, author/era not independently verified |
+| S11 | [E037](../episodes/E037.md), [Vorel biography](../world/characters/vorel.md) | Chainsaw greatsword (**Mawstorm** owner-preferred spelling) E037, separate lizardfolk-skull helmet later; E051 petrification/restoration | Episode dossiers/biography, ASR only |
+| S12 | [E053](../episodes/E053.md), **~02:05–02:15** | Chest **Eye of Groxl** and independently gained **prismatic scale-change** after froghemoth/pixie-energy encounter | Played dossier, ASR only; later than E001 |
+| S13 | [July 2020 Q&A](../episodes/BONUS-2020-07.md), **~30:05–31:45** | Fine per-scale text or animations are only a **potential trained future skill** | GM conditional hypothetical, not demonstrated |
+| S14 | [E076](../episodes/E076.md), [E077–078](../world/characters/vorel.md) | Temporary anti-dragon equipment, then hand injury and later restoration | Inherited episode dossier/biography, no direct source window read |
+| S15 | [E082](../episodes/E082.md) | Broken/cracked Eye in chest and lost carried equipment on Sigil arrival | Inherited played dossier, ASR-only |
+| S16 | [E101 and biography](../world/characters/vorel.md) | Eye restored; flame sword can reappear | Inherited played dossier, ASR-only |
+
+## Existing-image continuity and provenance
+
+The `illustrations/wastes/` project-production directory currently lists **Dusthill E001 aerial** and **Fate 4 E006 unveiling**, but no named Vorel appearance sheet or Vorel scene render. No concrete **existing project image** was discovered whose depicted Vorel must be corrected. Therefore **no IRV correction item** is created based on the inspected fan drawings. Those five `local/images-wiki/` files are **private archived fan visual references**, with actual pixels inspected above; retain their artist names and hash provenance and **do not republish as original approved project assets**. They disagree on color/face proportions; none outranks played description or owner approval. Inventory of all remaining private Vorel-related art is **not complete**, and no new image is claimed.
+
+## Artistic decision register (awaiting owner)
+
+| ID | Proposed initial choice | Status / basis |
+| --- | --- | --- |
+| D01 | Matte ochre/gold/sand reptilian base with yellow eyes | **Proposed**; final-sheet owner fields and recurring fan interpretation; early hue unverified |
+| D02 | Moderately elongated crocodilian/lizardlike muzzle, firm jaw, **short distinct fan-shaped occipital frill** rather than dragon horns | **Proposed**; Volo's-era lizardfolk general anatomy + varied fan interpretations |
+| D03 | Full bare reptile body with **smooth/folded, nonexplicit vent region** instead of human-style genitals or cloth censor | Source-based nudity and Kyle's folded-anatomy discussion; exact drawn anatomy **proposed** |
+| D04 | Proportionally muscular tail, consistent across all views and fitting square page | Source tail; exact size/curl **proposed** |
+
+## Unresolved checks, limitations and next step
+
+1. **Audio verify** Kyle/Beau's E001 00:48:55–00:49:09 exchange; the phrase about folds should not be escalated to precise anatomy without listening.
+2. Search the actual raw SRTs for **earliest explicit scale/eye color**, species face/frill details and any independently played early weapon/gear descriptions; distinguish speech by others about *different lizardfolk*.
+3. Check exact E037 skull-helmet acquisition and Mawstorm, and E053 mutation, before a later-state sheet. E082–E101 chest artifact geometry requires scene-window research for later art.
+4. If more archived Vorel artist images are used, inspect actual pixels and record provenance; **do not assume commissioned or cast-authored status from filenames**. No external image was downloaded or reused.
+5. **Next production action:** `$twbd-illustration-generate Wastes "Vorel" E001 design-sheet plan` → face anchor review only, using this written A01 source brief; owner still needs to select/approve the proposed palette, frill and tail proportions.
+
+## Change log
+
+| Date / version | Change | Source/impact |
+| --- | --- | --- |
+| 2026-10-25 / v0.1 | First integrated Vorel appearance/chronology and E001 sheet brief; separated player-authored late gold/yellow/nude fields, D&D baseline and actually inspected fan art | S01–S16; **sheet-needed**; no images changed or generated |
