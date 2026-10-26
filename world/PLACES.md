@@ -1,6 +1,6 @@
 # Places and regions — The Wastes
 
-**Spoilers:** Main campaign through S2E03, after Season One and the separately placed **E107–E109 Dunebreaker prequel**. This is a geographic **directory of primary location pages**, not a new episode-by-episode travel log. Descriptions derive from processed ASR and are not independently listened to. [World portal](README.md) · [Historical events](HISTORICAL_EVENTS.md) · [Chronology](CHRONOLOGY.md).
+**Spoilers:** Main campaign through S2E04, after Season One and the separately placed **E107–E109 Dunebreaker prequel**. This is a geographic **directory of primary location pages**, not a new episode-by-episode travel log. Descriptions derive from processed ASR and are not independently listened to. [World portal](README.md) · [Historical events](HISTORICAL_EVENTS.md) · [Chronology](CHRONOLOGY.md).
 
 ## Principal settlements and destinations
 
@@ -21,6 +21,7 @@
 | **The Harbor** | Tiefling refuge named E117; E126 several die in second crash; **survivors board Elhandari ships bound for Mars E128** | [Harbor](places/the-harbor.md) |
 | **Villa Ornath / Fate Six** | Cottage on Earth at E128; **becomes flying elven spelljammer S2E01 and actually arrives Mars S2E02**, formally named Fate Six | [Villa Ornath](places/villa-ornath.md) · [Fate Six](technology/fate-six.md) |
 | **Mars terraforming jungle** | **Actual S2E02 landfall and protected biosphere**, Nash reunited with family; Dunglestar's Theatre of Mortal Bodies, incomplete Ruby and elder-tree council | [S2E02 location evidence](../episodes/S2E02.md) |
+| **Planet Nash and Tower Nash** | **Actual ~six-hour Fate Six rift-space arrival S2E04**; two joined asteroids and a speaking Tower Nash projecting seven alternate Nashes. Angelashi and four children agree to stay; alternate Pod and Badass T encountered. **No alternate Nash physically transferred** | [S2E04 played location evidence](../episodes/S2E04.md) |
 
 ## Historic, secondary and mobile sites
 

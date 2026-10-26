@@ -8,6 +8,10 @@ In the White Tower crisis E101, Hope **cuts away her own hand** and fuses the se
 
 The hooded Voice continues privately pressing Hope toward an **Eye of the Voice** lead. In E118 the Hand hurts and the Voice demands a trip to **Pentelvice (?)**, but the Eye is **not obtained**, nor is the Hand removed. The Voice's alleged motives and nature are not independently certified; the hand's influence should be distinguished from deliberate acts that Hope herself performs. [E113](../../episodes/E113.md) · [E118](../../episodes/E118.md).
 
+## S2E04 — Nobieri's speculative containment/removal idea, not performed
+
+Before leaving Mars on Fate Six, Hope **actually consults Nobieri** about earlier research into the living Hand. He reports an old **rumor of a powerful dead wizard whose life essence might persist in artifacts**, but **does not identify the Voice with that mage/lich as fact**. Nobieri guesses that **cutting off the Hand within a sufficiently strong lead-shielded or arcane-proof chamber** might contain backlash if there is an explosion; he expressly lacks the magical understanding to certify or execute such a remedy. Hope thanks and embraces him, **does not sever, disable or remove the Hand**, and still seeks the separate Eye. [S2E04](../../episodes/S2E04.md) · [ASR comparison](../../reports/WASTES_S2E04_ASR_COMPARISON_2026-10-26.md). The artifact's identity and future consequences remain open.
+
 **Open:** final origin, full powers/costs, whether the patron's interpretations are truthful, future Eye possession, and final disposition. [Ledger](../CONSISTENCY_LEDGER.md).
 
 ## E123 — private dependency statement and an unperformed ring proposal

@@ -1,0 +1,32 @@
+# The Wastes S2E04 — Captain Confusion: two-ASR comparison (2026-10-26)
+
+[Source-first dossier](../episodes/S2E04.md) · Played Wastes **S2E04**, normalized archive basename `The Wastes S2E04. Captain Confusion`. Public RSS lists **12 December 2021** release; not confirmed recording date. At start, workspace `main` HEAD **`101d4fdd8038f0519282917bb50b111643a784bf`** had **20 existing S2E03 documentation changes** left intact. Both full source SRTs fetched at that **same resolved GitHub commit**; workspace first 12 lines verified, full local-byte identity not separately established. Blob SHAs are **Git blobs, not SHA-256 checksums**.
+
+| File / input | Git blob SHA | Subtitle cues | Final end | Normalized words | Source characters |
+| --- | --- | ---: | --- | ---: | ---: |
+| [Parakeet processed](../sources/The%20Wastes%20S2E04.%20Captain%20Confusion.parakeet.processed.srt) | `fe022677db35fed14b93737ac07f7b0ac8470004` | **2,749** | **02:45:55.549** | **25,162** | **257,088** |
+| [Qwen Q8 / Canary CTC / Nemotron-labelled](../sources/The%20Wastes%20S2E04.%20Captain%20Confusion.qwen-q8.canary-ctc.nemotron.srt) | `ec64ae1fee621ce1129af234ee8fa3b64572a8f3` | **4,736** | **02:45:55.140** | **25,811** | **360,000** |
+
+**Exact global unit-cost ordered normalized word Levenshtein: 2,649 / 25,162 = 10.53% inter-ASR TEXT DISAGREEMENT, NOT WER.** Qwen has **649 more** normalized words. Method: join chronologically ordered SRT cue speech, discarding indices, time rows and `(speaker N)`; lowercase, remove straight/curly apostrophes, replace other non-Unicode-letter/digit characters by spaces, tokenize; two-row unit-cost DP over diagonal band **±3,300**. The computed distance **2,649 is below band width 3,300**, proving a globally optimal path lies within it (any better path could not leave the band). Results are **model-text difference**, not audio accuracy, true omissions/hallucinations, correct speaker identities, or model ranking.
+
+**Editorial scope:** Complete primary Parakeet transcript was **read sequentially in recording-clock windows 00:00–02:45:55.549**. Complete Qwen was **parsed for numerical comparison**, with independent editorial checks of selected **00:07–00:16, 00:27–00:35, 00:54–01:18, ~01:37–01:49, 01:53–02:09, 02:16–02:29, 02:30–02:45**; not a second complete interpretive reading. No waveform heard, original MP3 identity/advertising timing, source handouts or VTT verified. Both ASR labels are **inferred from filename**, not authenticated model run settings.
+
+## Specific high-risk decisions and listening needs
+
+| Approx. recording clock | Evidence and editorial caution |
+| --- | --- |
+| **00:08–00:17** | Primary `union wheel`, Qwen **“Union Wheel”**; nicknames Yoon/Yon, full office **Belekun/Balelikun**, office **Solely/Silili Prime** phonetic. She claims Tungsten is her uncle; **pair-bonded** GM correction (not “hair-bonded”) with Dunglestar. No written-name verification. |
+| **00:22–00:30** | **Twaddle actually boards**; **Fate Six has no ordinary fuel**, runs on fey-enchanted wood/life essence. Ghosts can handle onboard objects without being corporeal to mortals or able to leave. Full roster spellings still tentative. |
+| **~00:28–00:35** | Nobieri's preserved mage essence theory for **Hand of Voice** and shielded removal are **hypotheses**, not confirmed origin, completed operation or even feasibility. |
+| **~00:35–00:44** | Vorel's **constructed sand bed** (Survival 24), deckhand Shift/Schiff; Gorgeous George's **half-Tungan inference**, and Nash's **Fire Bolt intimidation display**, not a newly phrased Nash spell. |
+| **00:54–01:10** | **An explicit casting/table continuity correction places Angelashi and four children aboard before departing Mars**; canonic destination is **Planet Nash**, despite initial entry of **Blast Belly Rock** glyphs. GM/cast identify **Nash Jr as the only girl**; three other children can shift to **boot/pipe/fork**, Jr's item-form **not established**. |
+| **~01:11–01:28** | **Actual rift-space entrance and exit under Hope's helm checks**, ~six hour journey; **Planet Nash physically reached**. This is not the same as earlier Mars open-void flight. |
+| **01:37–01:49** | **Tower Nash's own claimed history**: failed Solar Mines incursion, whirlpool of Nashes, dragonlike being, Delit teaching/form-preservation into tower. Not an observed origin/time travel of current Nash. |
+| **01:49–02:09** | Seven projection Nashes, current brown. Timeline divergences: **White lost aerial raid/party**, **Green party lost despite big container**, **Red accidentally poisoned an alternate Stanley**, **Black proposes untried T. rex**, **Yellow Firelands and lacks known dragon form**. Cues include dropped/misheard proper nouns and speaker drift; no contradiction from treating each as a separate world. |
+| **~02:09–02:28** | Projected dragons and Vorels are **demonstrated projections**; current Nash turns to dragon on his own platform. **No current Nash death or successful Weir cure**. No alternate Hope with specifically matching attached magical **Hand** reported. White's warning about Principle troops and cannons is **his-world firsthand testimony, main-world forecast**. |
+| **~02:28–02:32** | **Angelashi agrees to stay on Planet Nash and investigate bringing other Nashes**, **no physical inter-universe move of allies**. Tower Nash says projection has cooldown; projection ≠ passage. |
+| **~02:31–02:38** | Living **alternate Pod** with Roger and children in tower is **not original Pod resurrected**; Nash speaks to her. Q/P agree core family scene. |
+| **~02:38–02:45** | **Badass T/Tedna alternate** physically present, facemask removed reveals burns; Hope **permits him to come along** despite hesitation, but **no boarding/departure shown**. **Smokey's belt with special ammunition returned to Hope**. Guardian and protagonist names unstable in ASR; **Angelashi's final suggestion about Badass T's cross-timeline arrival is a question, not solved procedure**. |
+| **~02:45–final outro** | On-air discussion about whether next session can be played without Stanley is **production speculation**, NOT an in-world split or episode ID. Separate verified source filename for next **Wastes S2E05 — That's What The Blob Said** exists, but **unresearched**. |
+
+**Preservation:** SRT inputs unchanged. No audio listening and no ground-truth WER. Confirm owner spellings later without silently rewriting raw ASR.

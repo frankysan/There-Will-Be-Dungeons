@@ -1,6 +1,6 @@
 # The Wastes — Season Two: A Vessel for Hope
 
-**In-progress story narrative • played S2E01–S2E03 only.** The five Season One arcs close with [E128](../episodes/E128.md). This continuation has **not** been assigned a new arc boundary or completed as a season. Prose below synthesizes source-first, **audio-unverified** processed transcripts; ancient claims by Monsoon and the ship's father-voice remain attributed rather than proven history. [S2E01 dossier](../episodes/S2E01.md) · [S2E02 dossier](../episodes/S2E02.md) · [S2E03 dossier](../episodes/S2E03.md).
+**In-progress story narrative • played S2E01–S2E04 only.** The five Season One arcs close with [E128](../episodes/E128.md). This continuation has **not** been assigned a new arc boundary or completed as a season. Prose below synthesizes source-first, **audio-unverified** processed transcripts; ancient claims by Monsoon and the ship's father-voice remain attributed rather than proven history. [S2E01 dossier](../episodes/S2E01.md) · [S2E02 dossier](../episodes/S2E02.md) · [S2E03 dossier](../episodes/S2E03.md) · [S2E04 dossier](../episodes/S2E04.md).
 
 ## Four days in the wreckage
 
@@ -68,4 +68,4 @@ Hope encounters a different **Tedna**, now a masked and scarred warrior calling 
 
 ---
 
-**Research horizon:** S2E04. All events and names are based on machine-generated transcripts; [S2E01 source audit](../reports/WASTES_S2E01_ASR_COMPARISON_2026-10-26.md) and [S2E02 source audit](../reports/WASTES_S2E02_ASR_COMPARISON_2026-10-26.md) preserve specific discrepancies; see also the [S2E03 ASR audit](../reports/WASTES_S2E03_ASR_COMPARISON_2026-10-26.md). Reported ancient fellowship history, the presumed details of Ornath's sacrifice, Tungsten's message and the recipe for Gluptwarp remain open to original audio and handout review.
+**Research horizon:** S2E04. All events and names are based on machine-generated transcripts; [S2E01 source audit](../reports/WASTES_S2E01_ASR_COMPARISON_2026-10-26.md) and [S2E02 source audit](../reports/WASTES_S2E02_ASR_COMPARISON_2026-10-26.md) preserve specific discrepancies; see also the [S2E03 ASR audit](../reports/WASTES_S2E03_ASR_COMPARISON_2026-10-26.md) and [S2E04 ASR audit](../reports/WASTES_S2E04_ASR_COMPARISON_2026-10-26.md). Reported ancient fellowship history, the presumed details of Ornath's sacrifice, Tungsten's message and the recipe for Gluptwarp remain open to original audio and handout review.
