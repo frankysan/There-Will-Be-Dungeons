@@ -1,5 +1,9 @@
 # Evelyn Grinkeeper — paladin
 
+## Out-of-game character interpretation (October-called bonus archived 2021-11-10)
+
+Kristen says in [BONUS-2021-11-10 ~09:30–10:30 and ~15:05–17:10](../../../episodes/BONUS-2021-11-10.md) that wealthy Evelyn's prior travels were controlled by her parents, thus **OUTSIDE Atomer felt like a PRISON**, whereas living in Atomer away from the Blackwoods for the first time provided **INDEPENDENCE/FREEDOM**. Her paladin's **social naïveté/low Intelligence and Wisdom** is deliberate for comic personality, **BUT Kristen deliberately avoids tactically incompetent choices that would endanger party**. She knows she is strong without fully quantifying how unusually powerful she has become. This is **performer-level design and mindset clarification, not a stat upgrade, an actual childhood incarceration, or a new played episode**. Discarded name **“Jumping Jenny”** appears as a joke; chosen official Silver epithet remains **“GRINKEEPER THE DEFENDER”**. Later S3E12 epilogue's search for Gentleman Cavalier remains a separate actual source. [Bonus report](../../../reports/BONUS_2021_11_10_ASR_COMPARISON_2026-10-26.md).
+
 ## Out-of-game creation note (September 2021 bonus)
 
 **Kristen explicitly confirms** that Evelyn was deliberately designed as a D&D **magical-girl archetype inspired by *Sailor Moon***. She considered Internet discussions of whether Sailor Moon resembles a paladin, and tried to make the influence recognizable without overwhelming the character. This is **performer-confirmed inspiration**, **not** evidence Evelyn literally transforms, dies/reincarnates at seasonal endings or has different class mechanics. [Out-of-game BONUS-2021-09 ~00:17:30–00:20:15](../../episodes/BONUS-2021-09.md), ASR-provisional; no played timeline update.

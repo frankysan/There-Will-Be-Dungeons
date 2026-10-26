@@ -1,5 +1,9 @@
 # Krandal Splenderbelt — cleric
 
+## Out-of-game character interpretation (October-called bonus archived 2021-11-10)
+
+In [BONUS-2021-11-10 ~10:50–15:05, ~19:20–20:30](../../../episodes/BONUS-2021-11-10.md), **Scott explicitly explains** that Krandal/Splenderbelt is **questioning his taught religious identity and the reliability of institutions around Pelor WITHOUT actually renouncing Pelor or losing the cleric's calling**. Krandal loves his farm because growing potatoes for the poor produces a direct, demonstrable good (food prevents hunger) instead of abstract proof by faith. Cheerfully devout guest **Barclay the Ptah cleric** accentuates Krandal's contrast. **Cranium-rat fake-future S3E08** made Krandal FEEL he had betrayed Nopa's obligation; Scott says he wants an **Ebenezer Scrooge-style moral reform** and to seek Hissia as soon as he can. This is **retrospective motivation / projected character intent**, not a new played Pelor divorce, performed priestly class switch, second fake revolt, actual Hissia rescue or new spell. The later definitive S3E12 finale remains separate and already documented. [Bonus ASR](../../../reports/BONUS_2021_11_10_ASR_COMPARISON_2026-10-26.md).
+
 ## Out-of-game temple-mouse clarification (September 2021 bonus)
 
 **Scott says** Krandal's visiting mouse at Pelor's temple remains a **free-roaming stray** that comes for potato snacks, unafraid of Krandal but **not a trained familiar or permanently housed pet**. He simply calls it **“Mouse.”** The questioner's proposed **“Spud”** and cast's “Tater” alternatives are **not adopted names**; no on-screen naming/adoption ritual is established. [September 2021 out-of-game Q&A ~00:00:40–00:01:45](../../episodes/BONUS-2021-09.md). This is a retrospective player clarification, not a new scene. The later cast's **invented oil-change god “Larry”** is likewise a hypothetical **NOT a replacement for Pelor**.
