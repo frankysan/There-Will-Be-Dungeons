@@ -1,0 +1,7 @@
+# Diplomacy — enchanted sword
+
+**Identity:** Enchanted sword once held by **Stanley Billings**, named **Diplomacy** (not an Elhandari new-issue weapon). [Stanley](../characters/stanley-billings.md) · [Hope](../characters/hope-akmenos.md) · [Items directory](../ITEMS_AND_ARTIFACTS.md).
+
+In [S3E01](../../episodes/S3E01.md), Stanley directs **Diplomacy** as a magically hovering combat weapon while attacking Hell's boarding force; *Power Word Stun* later immobilizes him. In [S3E02](../../episodes/S3E02.md) ~00:06:45, it returns toward the stunned Stanley and **actually drops at his feet**, unable to return to his grip. He **uses other magic to aid the fight**, not a demonstrated new enchantment to the sword.
+
+**Actual custody transfer:** During the friends' reunion dinner on Mars in [S3E03 — Hammer Giggle](../../episodes/S3E03.md) **~02:21:25–02:22:25**, **Stanley actually unsheathes Diplomacy, sets it before Hope, asks her to put it to use, and Hope TAKES its hilt and thanks him**. This is a **completed voluntary handover**: **current holder HOPE AKMENOS**, not Stanley and not the Principle. She has a **regenerated ordinary arm** after S3E02; the stolen **Hand of the Voice remains with the Principle**. No on-screen newly selected Elhandari replacement sword for Stanley, demonstrated battle attack by Hope using Diplomacy, or new subclass/item trait is established by S3E03 cutoff. [Two-ASR audit](../../reports/WASTES_S3E03_ASR_COMPARISON_2026-10-26.md).

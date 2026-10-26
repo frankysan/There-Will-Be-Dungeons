@@ -1,23 +1,25 @@
 # Items, artifacts and extraordinary technology
 
-**The Wastes · spoilers through S2E08, first eight episodes of Season Two.** Object-specific reference index; distinguishes physical possession, demonstrated effects, item descriptions, possible origins and proposed use. The dossiers are **ASR-provisional**, and a late-game inventory is not automatically valid for an earlier episode. [Portal](README.md) · [World technology](WORLD.md) · [Review ledger](CONSISTENCY_LEDGER.md).
+**The Wastes · spoilers through S3E03, including current items offered versus actually held.** Object-specific reference index; distinguishes physical possession, demonstrated effects, item descriptions, possible origins and proposed use. The dossiers are **ASR-provisional**, and a late-game inventory is not automatically valid for an earlier episode. [Portal](README.md) · [World technology](WORLD.md) · [Review ledger](CONSISTENCY_LEDGER.md).
 
 ## Story-defining objects
 
 | Item or system | Identity and evidence boundary | Detailed page |
 | --- | --- | --- |
 | **Eye of Groxl** | **One owner-confirmed artifact**, not a separate Grojil/Groxel; embedded in Vorel, with observed powers and contested ancient origin | [Eye of Groxl](technology/eye-of-groxl.md) |
-| **Hand of the Voice** | Living hand fused to Hope in E101, distinct from the detached Fist gauntlet and the still-sought Eye of the Voice | [Hand of the Voice](technology/hand-of-the-voice.md) |
+| **Hand of the Voice** | Living hand fused to Hope E101 but **physically stolen by the Principle in S3E02**; Hope survives and regrows a distinct natural arm, **no Voice Hand restored by S3E03** | [Hand of the Voice](technology/hand-of-the-voice.md) |
 | **Gem of Tides** | Physically retrieved in E050; restoration of Tietkalla's entire water system not independently demonstrated | [Gem of Tides](technology/gem-of-tides.md) |
 | **CHIDS portal device** | Actual forearm-mounted red/green paired-gateway instrument recovered E075; separate necrotic beam mode | [Portal device](technology/portal-device.md) |
 | **Traversal Drive** | Larger CHIDS installation reached E079 and operated E081; planet-moving claims and lasting effects disputed | [Traversal Drive](technology/traversal-drive.md) |
 | **Nash's engineered dragon heart; separate natural heart** | E121 projection **withdraws into Nash E122**; engineered pacemaker stays implanted. **Dead black dragon's separate natural heart recovered by Elhandari E128 and transported toward Mars**; **Ruby's unfinished chassis exists on Mars from S2E02, remains nonfunctional**, Nash's engineered engine still implanted | [Dragon hearts](technology/nash-dragon-heart.md) · [E122](../episodes/E122.md) |
 | **Book of Adjacencies** | Dalit/Daliot Ornath's responsive journal received by Stanley E118; its theories are not verified time-travel laws | [Book of Adjacencies](technology/book-of-adjacencies.md) |
 | **Mask of Eltanfawr** (formerly “Elton IV”) | Donned E126; **the former villa becomes the operational Fate Six by S2E01/S2E02**, but shrinking/Peer into Plurality untested | [Mask of Eltanfawr](technology/mask-of-eltanfawr.md) · [Fate Six](technology/fate-six.md) |
-| **Fate Six — Ornath spelljammer** | **Mars S2E02 → Planet Nash S2E04 → Blast Belly Rock S2E05; S2E07 follows Tungsten's coordinates into nebula and through portal to Pentel Weiss pyramid**; three newly recruited orcs **all die** in transit, ghost crew remain shipbound | [Fate Six](technology/fate-six.md) |
+| **Fate Six — Ornath spelljammer** | Mars S2E02 → Planet Nash → Blast Belly Rock → Pentel Weiss; escapes Hell vessel S3E02 and **actually lands on Mars S3E03**, with ghost crew bound to ship and main heroes present | [Fate Six](technology/fate-six.md) |
 | **Tungsten Wheel's bank contract, box 724 and coordinates** | **Stanley physically finds signed bank-teller contract and key 724 at Bank of Burp S2E06, and opens box 724**; **Hope discovers navigation-coordinate parchment**, S2E07 **uses coordinates to reach Pentel Weiss**, but Tungsten remains missing and exact prison location unknown | [S2E06](../episodes/S2E06.md) · [Tungsten](characters/tungsten-wheel.md) |
 | **Clown-given Pentel Weiss compass & return coordinates** | **Hope uses a jack-in-box pointing hand to locate the prison in S2E07 nebula**, then she and Crooked Hand Row **print separate return-portal coordinates, left aboard Fate Six**; not to be confused with Tungsten's original bank directions | [S2E07](../episodes/S2E07.md) |
-| **Rubistic Triangulosphere (“Ruby”)** | **Unfinished ~10-ft structure physically found on Mars S2E02**, missing Gluptwarp; no activation, installation or planetary cure | [Device study](technology/rubistic-triangulosphere.md) |
+| **Rubistic Triangulosphere (“Ruby”)** | **Unfinished ~10-ft apparatus on Mars**; S3E03 Tungsten **actually assembles 64+ Elhandari assistants** to work on it, but **no proven completed build, sample extraction, activation or planetary cure** | [Device study](technology/rubistic-triangulosphere.md) |
+| **Elhandari augmentation cylinder** | Physically shown in a Mars underground lab S3E03; **eligible spell/feature changes and level 15 are OFFERED, surgery NOT performed by cutoff** | [Cylinder](technology/augmentation-cylinder.md) |
+| **Rejuvenation syringes (4 assigned)** | GM **allocates one dose per hero in S3E03**; one action delivers full long-rest effects with estimated five-year lifespan cost, **none injected yet** | [Syringe details](technology/rejuvenation-syringe.md) |
 | **Diontalus's wooden ocarina** | **Physically handed to Stanley E125**, allegedly summons Diontalus when played; **not activated/tested** | [Summoning ocarina](technology/diontalus-ocarina.md) |
 | **Henatar's magical guitar** | **Taken by Stanley via Telekinesis E126, still in his possession E128**; calmly strummed notes are magically amplified, no combat effects reproduced; **Henatar killed** | [Guitar](technology/henatar-guitar.md) |
 
@@ -27,7 +29,7 @@
 
 | Item | Follow-up location |
 | --- | --- |
-| **Diplomacy (Stanley's enchanted rapier)** | **Vorel borrows it with Stanley's consent in S2E08** after nonmagical ship sword fails against pool creature; **actually pierces it**, then **RETURNS rapier to Stanley** on the ledge. Local spell suppression does **not** suppress this enchanted weapon's demonstrated striking property. [S2E08](../episodes/S2E08.md) |
+| **Diplomacy (enchanted sword)** | Vorel borrows/returns to Stanley S2E08; **STANLEY ACTUALLY GIVES it to HOPE, who takes the hilt, on Mars S3E03**. **Current holder Hope**, NOT Stanley; no new combat use by her yet. [Dedicated item history](technology/diplomacy.md) |
 | **Smokey's belt and special ammunition** | **Physically returned to Hope by alternate Tedna/Badass T on Planet Nash S2E04**, no longer held by Badass T. [Hope](characters/hope-akmenos.md) · [S2E04](../episodes/S2E04.md) |
 | **Mawstorm** and Vorel's skull helmet | [Vorel](characters/vorel.md); sword name still requires audio/written confirmation |
 | **Fate 4** | [Fate 4](technology/fate-4.md) — Hope and Jimster's monster-wheeled RV; destroyed E066, with salvage used for a separate successor |

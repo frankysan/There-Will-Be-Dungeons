@@ -1,6 +1,17 @@
 # Vorel — titles and epithets register
 
-**Type:** Source-indexed supporting register for [Vorel](vorel.md), deliberately separated from the main character biography. **Evidence:** ASR-provisional, with source windows, name variants and social standing preserved. **Spoilers:** Through Wastes S3E02; Q&As are retrospective, not played conferrals. [Characters](../CHARACTERS.md) · [World portal](../README.md).
+**Type:** Source-indexed supporting register for [Vorel](vorel.md), deliberately separated from the main character biography. **Evidence:** ASR-provisional, with source windows, name variants and social standing preserved. **Spoilers:** Through Wastes S3E03; Q&As are retrospective, not played conferrals. [Characters](../CHARACTERS.md) · [World portal](../README.md).
+
+## S3E03 — FOUR TITLES formally uttered as Vorel's OWN claims at Mars dinner
+
+At [played S3E03 — Hammer Giggle](../../episodes/S3E03.md) **~02:11:27–02:11:45**, in a discussion with Stanley about Union, lasting relationships and what remains after heroic deeds, **Vorel HIMSELF clearly introduces a four-title list**, audible in both processed ASR exports (wording provisional, original audio unchecked):
+
+- **“Most Wanted of the Dread Pirates”** — **Vorel self-identification/recollection**, not conferred by any actual pirate fleet at this timestamp; earliest cause/earlier spoken exact wording must be established independently.
+- **“Victorious Dreamer”** — **Vorel self-identification**; NOT evidence that his dream feats became actual conquered lands. Earlier dream/illusion experience is NOT retroactive grant.
+- **“Entomber of the Maggot Lord”** — now **ACTUALLY SAID in character** by Vorel at S3E03 dinner, strengthening S2E12's **candidate** introduced only as a table-talk prospect; **ACTUAL entombment happened in S2E12**, but earlier canonical self-title utterance wasn't established.
+- **“Cannoneer of the Principle's Face”** — **ACTUALLY said in character** at S3E03 dinner, drawing on his physical Hell-ship cannon attacks in S3E02. Q/P agree on gist “cannoneer of the Principal's face”; does **not** retroactively fix his *different* ~00:36:40 S3E02 self-boast (“greatest of the time barrels/Vorels”), whose exact wording remains unknown.
+
+**All FOUR are source-supported SELF-CLAIMED EPITHETS at S3E03, not formally bestowed honors or proof of public recognition.** Q hears `Intumere` for Entomber and both names sometimes “Principal” vs curated “Principle”; correct surrounding context favors display **Entomber of the Maggot Lord** and **Cannoneer of the Principle's Face**, **ASR-provisional exact original phonetics**. [Two-ASR S3E03 audit](../../reports/WASTES_S3E03_ASR_COMPARISON_2026-10-26.md). Later talk about becoming “someone's most important person” is **Stanley's HYPOTHETICAL future title**, not a fifth Vorel award.
 
 ## S3E02 — self-boast firing the Hell ship's cannon (ASR spelling unresolved)
 

@@ -4,6 +4,7 @@ The Wastes harbor desert wildlife, dangerous beasts and monstrous transformation
 
 | Creature | Nature and place in the world |
 | --- | --- |
+| **Mind fluff — green face parasites** | Tentacled creatures physically attached to each protagonist aboard Fate Six, inducing linked dream; **Union frees Vorel, Vorel frees Stanley/Hope, Nash's waking fire burns remaining specimens**. Exact species and how they boarded unknown. [S3E03](../episodes/S3E03.md) |
 | [Sand squid](creatures/sand-squid.md) | Schooling animals that travel through desert sand and feed on insects; their meat, dried bodies and creamy juice supply meals, rations and coffee ingredients. |
 | [Chicken Lords](creatures/chicken-lords.md) | Huge chicken-like monsters used in arena trials and served at Razak Val's feasts; the same name is given to the creatures into which the city's captives transform. |
 | [Pixie Hulks](creatures/pixie-hulks.md) | Enormous, muscular forms forced upon pixies under Monsoon Cabbage's command, combining destructive strength with pixie magic. |

@@ -1,12 +1,18 @@
 # Vorel
 
-**Portrayed by:** Kyle. **Identity:** Lizardfolk warrior and leader, protector of **Bok Bok**, bearer of the **Eye of Groxl** and claimant to many personal titles. **Spoilers:** Main Wastes through **S3E02** and cast Q&As, including the April 2022 retrospective. **Evidence:** ASR-provisional except owner-confirmed item/name orthography.[^march21]
+**Portrayed by:** Kyle. **Identity:** Lizardfolk warrior and leader, protector of **Bok Bok**, bearer of the **Eye of Groxl** and claimant to many personal titles. **Spoilers:** Main Wastes through **S3E03** and cast Q&As, including the April 2022 retrospective. **Evidence:** ASR-provisional except owner-confirmed item/name orthography.[^march21]
 
 **Browse:** [Characters](../CHARACTERS.md) · [His source-indexed titles](vorel-titles.md) · [Eye of Groxl](../technology/eye-of-groxl.md) · [World portal](../README.md).
 
 ## April 2022 Q&A — self-reliance and fish-out-of-water inspiration
 
 In the [April 2022 Q&A](../../episodes/BONUS-2022-04.md), Kyle says he considered but **did not ask the werefolk to transform Vorel**, believing an acquired curse would undercut the warrior's personal strength. He says the character's distinctive viewpoint grew from a **comedic outsider's sincerity in unfamiliar culture**, specifically citing **Worf from Star Trek** as a creative inspiration. A paladin version of Vorel is discussed as **an alternate hypothetical class**, not a played multiclass, and the giant lizard remains himself rather than a werebear. **No new personal epithet or in-world reference to Star Trek is established.** [Comparison](../../reports/BONUS_2022-04_ASR_COMPARISON_2026-10-26.md).
+
+## S3E03 — frees party from dream parasites, tells titles, considers Union's affection
+
+In [S3E03](../../episodes/S3E03.md), **UNION ACTUALLY PRIES a green “mind fluff” monster off Vorel's face**; Vorel **PHYSICALLY REMOVES analogous parasites from Stanley and Hope**, making him instrumental in waking everyone. He remembers their **shared dream**, including ridiculous Vorel wearing jeans/hoodie/sunglasses in the burger diner—but those clothes are **NOT an approved appearance change**. **Fate Six ACTUALLY LANDS ON MARS**. Vorel joins Nash beside canyon of **99 actual alternate Nashes**, sees dragon Nash briefly clash with eye-patch giant-hamster Nash; **Holy Nash ends dispute by *Calm Emotions***.
+
+At the Mars dinner, Vorel **ACTUALLY DESCRIBES how Union invited him to sleep/rest beside her**; the GM **explicitly states “nothing happened” beyond lying beside her**, so **NO sex, permanent marriage or new formal romance**. Stanley and Charlemagne discuss affection and vulnerability; Vorel agrees to consider whether a union suits him, but no commitment made. Vorel himself **RECITES FOUR DISTINCT self-proclaimed epithets in dialogue ~02:11:27–02:11:45**: **“Most Wanted of the Dread Pirates,” “Victorious Dreamer,” “Entomber of the Maggot Lord,” “Cannoneer of the Principle's Face.”** The latter two are finally **spoken as titles in S3E03**, whereas earlier events merely motivated disputed wording; [source-indexed title register](vorel-titles.md) preserves first actual utterance. Elhandari **offer an augmentation cylinder**, and Vorel **CONSIDERS Eye of Groxl removal due to its historic Principle link, but DOES NOT REMOVE it**. Proposed new items and level15 have **not** materialized. **One rejuvenation syringe assigned and unused**. [S3E03 P/Q report](../../reports/WASTES_S3E03_ASR_COMPARISON_2026-10-26.md).
 
 ## S3E02 — turns Hell cannons on Principle and holds Union's hand
 

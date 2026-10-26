@@ -1,0 +1,7 @@
+# Rejuvenation syringe — Elhandari rest booster
+
+**First observed/allocated:** [S3E03 — Hammer Giggle](../../episodes/S3E03.md) **~02:36:35–02:37:55**, offered by Admiral **Chrysorius(?)** in Mars prewar technology bay. Sometimes described at table as **“rest in a can,” “booster,” “rejuvenation syringe.”** [Items](../ITEMS_AND_ARTIFACTS.md) · [augmentation cylinder](augmentation-cylinder.md).
+
+**Played GM equipment instruction:** Unlike the **offered but unselected** generic magic weapons and augmentation surgery, the GM **explicitly instructs EVERY ONE OF FOUR ORIGINAL HEROES to ADD A SYRINGE to inventory**; only **four doses** exist. **Assigned current custodians: Nash, Hope, Stanley and Vorel, one each**; no physical passing-hand animation described, but inventory allotment is authoritative tabletop instruction. **NO DOSE ADMINISTERED by S3E03 ending.** 
+
+**Mechanics as spoken:** Use as **one action** (injection, described into leg) for **all benefits of long rest** without waiting for prolonged battlefield rest. Side effect described as **possible/estimated shortening of remaining lifespan by around FIVE YEARS** per use, not a witnessed numerical reduction. No source proof of repeatability, natural expiration, alternative healing or exact interaction with dragon-heart immortality. Distinguish **assigned syringe** from **used syringe**, and do not backdate it to Mars visit S2E02. [P/Q comparison](../../reports/WASTES_S3E03_ASR_COMPARISON_2026-10-26.md).
