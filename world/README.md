@@ -1,6 +1,6 @@
 # The Wastes — world reference
 
-A **subject-centered encyclopedia** for *The Wastes*: characters, antagonists, societies, places, objects and historical events. **Main-campaign spoilers through researched S2E08, after E128 closed Arc Five and The Wastes Season One**; the separately published E107–E109 *Dunebreaker* story takes place **long before E001**. The written research is based on processed ASR, **not independently verified by listening**. *Inverse* is [a separate reality](../inverse/README.md).
+A **subject-centered encyclopedia** for *The Wastes*: characters, antagonists, societies, places, objects and historical events. **Main-campaign spoilers through researched S3E02, after E128 closed Arc Five and The Wastes Season One**; the separately published E107–E109 *Dunebreaker* story takes place **long before E001**. The written research is based on processed ASR, **not independently verified by listening**. *Inverse* is [a separate reality](../inverse/README.md).
 
 ## Browse the setting
 
@@ -17,7 +17,7 @@ A **subject-centered encyclopedia** for *The Wastes*: characters, antagonists, s
 
 ## Featured reference pages
 
-**People:** [Nash](characters/nash-maggard.md) · [Hope](characters/hope-akmenos.md) · [Stanley](characters/stanley-billings.md) · [Diontalus](characters/diontalus.md) · [Dilo](characters/dilenoria.md) · [imprisoned black dragon](characters/imprisoned-black-dragon.md) · [Vorel](characters/vorel.md) · [Vorel's titles](characters/vorel-titles.md) · [the Principle](characters/the-principle.md) · [Soulbroker](characters/soulbroker.md) · [Nobieri](characters/nobieri.md) · [Steerious](characters/steerious-business.md) · [Squirts](characters/squirts.md) · [Tungsten Wheel](characters/tungsten-wheel.md) · [Henitar/Henatar Grape (?)](characters/henitar-grape.md) · [General Carthax](characters/general-carthax.md).
+**People:** [Nash](characters/nash-maggard.md) · [Hope](characters/hope-akmenos.md) · [Stanley](characters/stanley-billings.md) · [Diontalus](characters/diontalus.md) · [Dilo](characters/dilenoria.md) · [imprisoned black dragon](characters/imprisoned-black-dragon.md) · [Vorel](characters/vorel.md) · [Vorel's titles](characters/vorel-titles.md) · [the Principle](characters/the-principle.md) · [Soulbroker](characters/soulbroker.md) · [Nobieri](characters/nobieri.md) · [Steerious](characters/steerious-business.md) · [Squirts](characters/squirts.md) · [Tungsten Wheel](characters/tungsten-wheel.md) · [Union Wheel](characters/union-wheel.md) · [Sprout](characters/sprout.md) · [Henitar/Henatar Grape (?)](characters/henitar-grape.md) · [General Carthax](characters/general-carthax.md).
 
 **Places:** [Dusthill](places/dusthill.md) · [Slavetown](places/slavetown.md) · [Tietkalla](places/tietkalla.md) · [CHIDS](places/chids.md) · [Sigil](places/sigil.md) · [White Tower](places/white-tower.md) · [Elhandar](places/elhandar.md) · [Villa Ornath](places/villa-ornath.md) · [Dunebreaker prequel](places/dunebreaker.md).
 

@@ -2,6 +2,10 @@
 
 **Browse:** [Characters](../CHARACTERS.md) · [Antagonists](../ANTAGONISTS.md) · [World portal](../README.md)
 
+## S3E02 — Hand severed and stolen, no verified further Voice communication
+
+In [S3E02](../../episodes/S3E02.md), the Principle **ACTUALLY SEVERS AND ABSORBS the physically attached HAND OF THE VOICE** from Hope, then **ESCAPES via portal carrying it**. Hope **survives at 0 HP then heals**, experiences new **warmth, comfort, food and drink taste**, and later receives **a wholly NATURAL ARM from Stanley's *Regenerate***. This **DOES NOT recreate the Voice-possessed Hand** or confirm the Voice being freed, murdered, imprisoned in the Principle or able to talk without it. **No new private Voice message after the removal** is documented, and its alleged top-Pentel Weiss missing Eye/power fragment remains **uncollected**. [S3E02 dossier](../../episodes/S3E02.md) · [P/Q report](../../reports/WASTES_S3E02_ASR_COMPARISON_2026-10-26.md).
+
 ## S2E11–S3E01 — private instructions and terror at Vladimir's arrival
 
 The hooded Voice remains a **private interlocutor of Hope**, with appearances and claims not automatically shared with her companions. At [S2E11](../../episodes/S2E11.md), it **privately reveals that singing can destroy the alien eye in Pentel Weiss**, an effective weakness confirmed when the group actually sings and the eye melts. It **claims another portion of its power lies at the top of prison**, which Hope does not collect. After Hope teleports the party out, at [S2E12](../../episodes/S2E12.md) it **again demands she return for the additional relic**, threatening the consequences of failing to prove loyalty. **Hope refuses to sacrifice her companions for the Voice's wishes**, and her Hand remains attached/functional.

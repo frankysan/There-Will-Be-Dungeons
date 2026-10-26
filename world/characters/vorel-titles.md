@@ -1,6 +1,10 @@
 # Vorel — titles and epithets register
 
-**Type:** Source-indexed supporting register for [Vorel](vorel.md), deliberately separated from the main character biography. **Evidence:** ASR-provisional, with source windows, name variants and social standing preserved. **Spoilers:** Through Wastes S3E01; Q&As are retrospective, not played conferrals. [Characters](../CHARACTERS.md) · [World portal](../README.md).
+**Type:** Source-indexed supporting register for [Vorel](vorel.md), deliberately separated from the main character biography. **Evidence:** ASR-provisional, with source windows, name variants and social standing preserved. **Spoilers:** Through Wastes S3E02; Q&As are retrospective, not played conferrals. [Characters](../CHARACTERS.md) · [World portal](../README.md).
+
+## S3E02 — self-boast firing the Hell ship's cannon (ASR spelling unresolved)
+
+At [played S3E02](../../episodes/S3E02.md) **~00:36:35–00:36:45**, as Vorel fires a huge Hell-ship cannon at the Principle, the Principle exclaims something like **“What manner of insolence is this?”** Vorel / Kyle **DIRECTLY RETURNS A SELF-LAUDATORY PHRASE**. Primary processed Parakeet hears **“the greatest of the time burrells”**; independent Qwen hears **“the greatest of the time barrels”**. It may mean **“the greatest of the [time] Vorels”**, but the exact epithet, singular/plural and whether this is a formal self-title **cannot be established from two disagreeing ASRs**. **Speaker: Vorel/Kyle, own boast, not granted by an NPC**. Store it as a **candidate additional self-proclaimed title/line requiring audio**, do not canonize “Greatest of All Time Vorel,” backdate it, or infer a new rank. Vorel actually hits the Principle on subsequent cannon fire, but the fact of damage doesn't verify wording. [P/Q report](../../reports/WASTES_S3E02_ASR_COMPARISON_2026-10-26.md).
 
 ## S3E01 — no new Vorel personal title
 

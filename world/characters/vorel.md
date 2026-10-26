@@ -1,12 +1,16 @@
 # Vorel
 
-**Portrayed by:** Kyle. **Identity:** Lizardfolk warrior and leader, protector of **Bok Bok**, bearer of the **Eye of Groxl** and claimant to many personal titles. **Spoilers:** Main Wastes through **S3E01** and cast Q&As, including the April 2022 retrospective. **Evidence:** ASR-provisional except owner-confirmed item/name orthography.[^march21]
+**Portrayed by:** Kyle. **Identity:** Lizardfolk warrior and leader, protector of **Bok Bok**, bearer of the **Eye of Groxl** and claimant to many personal titles. **Spoilers:** Main Wastes through **S3E02** and cast Q&As, including the April 2022 retrospective. **Evidence:** ASR-provisional except owner-confirmed item/name orthography.[^march21]
 
 **Browse:** [Characters](../CHARACTERS.md) · [His source-indexed titles](vorel-titles.md) · [Eye of Groxl](../technology/eye-of-groxl.md) · [World portal](../README.md).
 
 ## April 2022 Q&A — self-reliance and fish-out-of-water inspiration
 
 In the [April 2022 Q&A](../../episodes/BONUS-2022-04.md), Kyle says he considered but **did not ask the werefolk to transform Vorel**, believing an acquired curse would undercut the warrior's personal strength. He says the character's distinctive viewpoint grew from a **comedic outsider's sincerity in unfamiliar culture**, specifically citing **Worf from Star Trek** as a creative inspiration. A paladin version of Vorel is discussed as **an alternate hypothetical class**, not a played multiclass, and the giant lizard remains himself rather than a werebear. **No new personal epithet or in-world reference to Star Trek is established.** [Comparison](../../reports/BONUS_2022-04_ASR_COMPARISON_2026-10-26.md).
+
+## S3E02 — turns Hell cannons on Principle and holds Union's hand
+
+In [played S3E02](../../episodes/S3E02.md), Vorel **ACTUALLY CROSSES THE GIANT HARPOON CHAIN**, bowls **two Hell Knights into space**, reaches the infernal ship's cannon deck, and **fires its massive gothic artillery against the Principle**. One volley scores **NATURAL 20** and rocks the enemy, while later shots help drive him from Fate Six. Kyle's proclamation around **~00:36:40 sounds like “the greatest of the time Vorels” but BOTH ASRs are unstable**; preserve provisional candidate in [title register](vorel-titles.md) without certifying exact spelling or a newly awarded honor. Vorel later **ACTUALLY DESTROYS HELL SHIP'S MAGIC BUBBLE GENERATOR**, enabling Fate Six to escape; **returns aboard**, not left in space. In the aftermath, **Union Wheel almost dies from a separate belowdecks Hell Knight injury**, but **Doctor Spider and Stanley save her**. At the end of S3E02, Union **ACTUALLY approaches Vorel on CRUTCHES and offers her hand**, which **Vorel TAKES silently** while Fate Six begins the jump toward Mars. The gesture is real but **neither romance nor marriage is declared**, and it does not confer a new Vorel title. [S3E02 ASR comparison](../../reports/WASTES_S3E02_ASR_COMPARISON_2026-10-26.md).
 
 ## Season Three opening — caretaker and formidable defender
 

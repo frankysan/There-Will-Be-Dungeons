@@ -1,17 +1,23 @@
 # Characters and participants — The Wastes
 
-**Spoilers:** Main campaign through **E128**, the end of Season One and separately identified Q&As. Profiles are **ASR-provisional** unless an individual claim is explicitly owner-confirmed or audio-verified. This is the *character directory*, not an episode-by-episode recap. For villains also see [Antagonists](ANTAGONISTS.md), for organizations [Factions and powers](FACTIONS_AND_POWERS.md), and for chronological changes [Campaign chronology](CHRONOLOGY.md).
+**Spoilers:** Main campaign through **Wastes S3E02** (Season One ended E128); separate Q&As remain out-of-game. Profiles are **ASR-provisional** unless an individual claim is explicitly owner-confirmed or audio-verified. This is the *character directory*, not an episode-by-episode recap. For villains also see [Antagonists](ANTAGONISTS.md), for organizations [Factions and powers](FACTIONS_AND_POWERS.md), and for chronological changes [Campaign chronology](CHRONOLOGY.md).
 
 ## The original four protagonists
 
 | Character | Performer | Identity and latest context | Detailed profile |
 | --- | --- | --- | --- |
-| **Nash Maggard** | Scott | Dragon-engine-heart bearer; **executes surrendered Henatar E128, says farewell to Mars-bound family, carries quartet above Burrow sandstorm in dragon form; reaches level 13** | [Nash](characters/nash-maggard.md) · [His casting phrases](characters/nash-spellcasting-phrases.md) |
-| **Hope Akmenos** | Kristen | Mechanic, queen and Hand bearer; **sends surviving Harborers to Mars, tries but fails to charge Gate ring by body desecration, shares separate-journey revelations E128; level 13** | [Hope](characters/hope-akmenos.md) |
-| **Stanley Billings** | Jon | Half-elf and former unwilling host; **heals Diontalus, keeps magical guitar, privately hears Soulbroker and later tells party, casts Sending without locating engineer E128; level 13** | [Stanley](characters/stanley-billings.md) · [Diontalus](characters/diontalus.md) |
-| **Vorel** | Kyle | Lizardfolk warrior and Eye of Groxl bearer; **survives Burrow storm on Nash's back and ends E128 on Earth, angry and exhausted; “king of space” remains a proposal; level 13** | [Vorel](characters/vorel.md) · [Title register](characters/vorel-titles.md) |
+| **Nash Maggard** | Scott | Level 14; body fully regenerated after dragon fight; Principle claims him as “Jesus Chrome” (UNVERIFIED fatherhood); **has independently speaking shoulder eye/mouth Sprout S3E02** | [Nash](characters/nash-maggard.md) · [His casting phrases](characters/nash-spellcasting-phrases.md) |
+| **Hope Akmenos** | Kristen | Level 14; **Principle STEALS attached supernatural Hand of Voice S3E02**, Stanley revives her and **casts *Regenerate* to grow a new ordinary arm**; passes separate Hell necklace and teleport ring to Spider | [Hope](characters/hope-akmenos.md) |
+| **Stanley Billings** | Jon | Level 14 Selle Prime and Fate Six captain; **Disintegrate wounds Principle**, heals Hope, restores her ordinary arm and **arranges Union's actual surgical rescue** S3E02 | [Stanley](characters/stanley-billings.md) · [Diontalus](characters/diontalus.md) |
+| **Vorel** | Kyle | Level 14; **fires enemy Hell ship cannons and destroys magic trap**; later silently holds recuperating Union's hand as Fate Six sets off toward Mars S3E02 | [Vorel](characters/vorel.md) · [Title register](characters/vorel-titles.md) |
 
 **Identity boundaries:** [Diontalus](characters/diontalus.md) has his own profile; **his intentions and acts are not Stanley's**. The former combined-page path `stanley-diontalus.md` now contains a short compatibility page linking to the distinct [Stanley](characters/stanley-billings.md) and [Diontalus](characters/diontalus.md) profiles. The Eye of Groxl is one owner-confirmed artifact, not a separate god called “Grojil.” At the **E081** cutoff the GM declares the four dead after the CHIDS sacrifice; **E082 and following episodes subsequently show them alive**. Hope's E101 departure ends Arc Four and begins Arc Five **within the same recording**. [E081](../episodes/E081.md) · [E082](../episodes/E082.md) · [E101](../episodes/E101.md).
+
+## New Season Three companions and key survivors
+
+**[Sprout](characters/sprout.md)** — **ACTUAL independently speaking eye and four-toothed mouth** physically attached to Nash's shoulder after his S3E02 regeneration, opposite old baby hand. Nash names it Sprout; origin and biology unknown, **not yet a separate full humanoid or a verified “Jesus Chrome” descendant**.
+
+**[Union Wheel](characters/union-wheel.md)** — Stanley's sworn Elhandari guardian, Tungsten's niece. **Doctor Spider, Stanley and Dr. Daffodil ACTUALLY save her** from catastrophic Hell Knight wounds in S3E02; **alive on crutches** when the group departs Blast Belly Rock, and she **takes Vorel's hand** in closing scene.
 
 ## Long-running companions, family and allies
 

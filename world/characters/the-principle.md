@@ -1,6 +1,6 @@
 # The Principle — Vladimir
 
-**Identity:** Usually called **the Principle**, sometimes transcribed “Principal”; identified by an Elhandari high elf as **Vladimir** in E115. In S3E01 Qwen proposes the tentative **new surname “Trix”**, but this is not verified. **Role:** Ancient political/technological power connected to Slavetown, Tietkalla diplomacy and the Soulbroker pact. **Spoilers:** Through Wastes S3E01; this remains the SAME story arc initiated in Season Two. **Evidence:** Provisional ASR; no independent listening.
+**Identity:** Usually called **the Principle**, sometimes transcribed “Principal”; identified by an Elhandari high elf as **Vladimir** in E115. In S3E01 Qwen proposes the tentative **new surname “Trix”**, but this is not verified. **Role:** Ancient political/technological power connected to Slavetown, Tietkalla diplomacy and the Soulbroker pact. **Spoilers:** Through Wastes S3E02; this remains the SAME story arc initiated in Season Two. **Evidence:** Provisional ASR; no independent listening.
 
 ## Activity and influence
 
@@ -13,6 +13,12 @@ His political reach and claims become important again in Arc Five. In E106 he sp
 ## E128 — the Soulbroker accuses, a new threat visibly enters Earth
 
 At ~01:13–01:28, **the Soulbroker privately tells Stanley** a revised account of the Principle's ancient relationship to the Weir: he allegedly was once an **Earth human who enlisted Weir help during the dragon catastrophe**, broke the bargain and later **shielded the world against Weir entrance**, before turning to a **new aspiration to become a god**. These historical, intentional and metaphysical claims are **the Soulbroker's interested testimony** and must not override the E122 black dragon's different framing as independently verified canon. The GM then **actually shows a purple rift, a colossal gear-scaled creature burrowing into Earth and a massive sandstorm**; the incursion is played, **its alleged cause in the Principle's spiritual protections is not independently demonstrated**. Stanley tells the party about his private conversation afterward. **No direct E128 appearance, achieved ascension, death or final confrontation with the Principle occurs**. [E128](../../episodes/E128.md) · [Soulbroker](soulbroker.md) · [comparison](../../reports/E128_ASR_COMPARISON_2026-10-24.md).
+
+## S3E02 — actually steals Hand, claims Nash as “Jesus Chrome,” escapes alive
+
+In [S3E02](../../episodes/S3E02.md), the Principle **ACTUALLY GRAPPLES Hope and steals her physically attached supernatural HAND OF THE VOICE** through liquid-chrome contact and a contained explosion, leaving her at **0 HP with death saves**. He **ejects faceless, incomplete warm bodies from chrome torso to replenish himself**, but their identity/importance is **NOT established**. **Nash's 53-point dragon ACID BREATH is not resisted and actually melts his chrome**, Vorel's infernal ship cannons hit hard, and ***Stanley's Disintegrate* 74 FORCE** tears off a chrome hand/shoulder. **The Principle is NOT defeated or permanently damaged beyond recovery**, and escapes through a self-opened **PORTAL TAKING HOPE'S STOLEN HAND** (~01:04). He tells Nash to **FIND HIM AT SOLAR MINES** for a new world of steel and offers him a position among his generals.
+
+The Principle **DIRECTLY CLAIMS “I AM YOUR FATHER” and calls Nash “the son of God, JESUS CHROME,”** alleging he found broken Nash in the desert, remade him and set him on the “silver road” to preach the Steel God. **Nash ACTUALLY REJECTS HIM**; no performed parentage test, Nash's prior original father death verification or independent evidence that the villain is literal biological father. Parakeet may insert **“Robert Nash”**, Qwen does not confirm; do NOT canonize that extra name. The already-attested first name **Vladimir** remains; *Trix* from prior Qwen is unverified surname. The Principle **IS ALIVE WITH HAND** at episode cutoff, and his claims about Tobacho/Weir/Jesus Chrome are **interested NPC testimony**. [Two-export comparison](../../reports/WASTES_S3E02_ASR_COMPARISON_2026-10-26.md).
 
 ## Season Three — physically manifests as crowned chrome being
 
