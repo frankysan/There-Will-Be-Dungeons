@@ -1,0 +1,97 @@
+{
+  "date": "2026-10-26",
+  "scope": "Governor hall and Dungeon Guild Academy place articles",
+  "headings": [
+    {
+      "path": "delvers/world/places/governors-hall.md",
+      "old_heading": "Governor's hall \u2014 Bronze Ball and the breached Drone pit",
+      "old_anchor": "governors-hall--bronze-ball-and-the-breached-drone-pit",
+      "target": "Governor's hall \u2014 Bronze Ball and the breached Drone pit",
+      "disposition": "Native heading or compatibility anchor retained; complete old text preserved"
+    },
+    {
+      "path": "delvers/world/places/governors-hall.md",
+      "old_heading": "Establishing view before catastrophe",
+      "old_anchor": "establishing-view-before-catastrophe",
+      "target": "Chronological development and source notes",
+      "disposition": "Native heading or compatibility anchor retained; complete old text preserved"
+    },
+    {
+      "path": "delvers/world/places/governors-hall.md",
+      "old_heading": "Collapse and threats",
+      "old_anchor": "collapse-and-threats",
+      "target": "Chronological development and source notes",
+      "disposition": "Native heading or compatibility anchor retained; complete old text preserved"
+    },
+    {
+      "path": "delvers/world/places/dungeon-guild-academy.md",
+      "old_heading": "Dungeon Guild Academy \u2014 the Radiant Lance Theatre",
+      "old_anchor": "dungeon-guild-academy--the-radiant-lance-theatre",
+      "target": "Dungeon Guild Academy \u2014 the Radiant Lance Theatre",
+      "disposition": "Native heading or compatibility anchor retained; complete old text preserved"
+    },
+    {
+      "path": "delvers/world/places/dungeon-guild-academy.md",
+      "old_heading": "Introduction",
+      "old_anchor": "introduction",
+      "target": "Introduction",
+      "disposition": "Native heading or compatibility anchor retained; complete old text preserved"
+    },
+    {
+      "path": "delvers/world/places/dungeon-guild-academy.md",
+      "old_heading": "The theatre and its governors",
+      "old_anchor": "the-theatre-and-its-governors",
+      "target": "Chronological development and source notes",
+      "disposition": "Native heading or compatibility anchor retained; complete old text preserved"
+    },
+    {
+      "path": "delvers/world/places/dungeon-guild-academy.md",
+      "old_heading": "The plea for Atomer",
+      "old_anchor": "the-plea-for-atomer",
+      "target": "Chronological development and source notes",
+      "disposition": "Native heading or compatibility anchor retained; complete old text preserved"
+    },
+    {
+      "path": "delvers/world/places/dungeon-guild-academy.md",
+      "old_heading": "Current status",
+      "old_anchor": "current-status",
+      "target": "Current status",
+      "disposition": "Native heading or compatibility anchor retained; complete old text preserved"
+    }
+  ],
+  "additional_blocks": [
+    {
+      "path": "delvers/world/places/governors-hall.md",
+      "old_block": "Opening city/source/cartography metadata",
+      "target": "Introduction and layout note"
+    },
+    {
+      "path": "delvers/world/places/governors-hall.md",
+      "old_block": "Unheaded illustration continuity directions",
+      "target": "Layout and breach source notes; complete original retained"
+    }
+  ],
+  "domains": {
+    "delvers/world/places/governors-hall.md": "Place: civic architecture and social use, separate breaches, continuing damage, licensed dungeon entrance and limits of final restoration",
+    "delvers/world/places/dungeon-guild-academy.md": "Place/institution: campus and theatre, financing and inspection, reported discipline, offsite assessment and attributed Atomer administration"
+  },
+  "review": "Both old profiles read completely; relevant terms searched across 37 dossiers, selected complete paragraphs and linked guild/Cassius context read; no fresh ASR/audio/map review",
+  "horizons": {
+    "Governor hall": "S2E12 detailed interior, S3E01 continuing damage, S3E04 direct use of ballroom breach; finale resolves curse without a documented hall repair",
+    "Academy": "S2E00 campus hearing during first arc; later discipline reported, S2E11 assessment near governor mansion, S3E03/S3E10 administration in Atomer, no later campus revisit or formal reform"
+  },
+  "critical_boundaries": [
+    "Earlier wedding mansion reference does not independently identify ballroom rooms",
+    "Magical speech effect not assigned a proven spell/sender",
+    "Main ballroom breach and auction hole remain separate",
+    "Tables do not silence Drone or rescue all missing people",
+    "Later dungeon access does not imply hall restoration or sealed breach",
+    "No completed auction sale/proceeds established",
+    "S2E00 hearing chronologically precedes S1E12 despite archive label",
+    "Petitions and planned trial do not establish awards or verdicts",
+    "Cheet clerical assignment remains Broadside report",
+    "Offsite assessment panel not equated with three campus financiers",
+    "Zoltar motive statements are attributed, not a proved Academy-wide vote",
+    "Cassius release and leadership return not formal acquittal or Academy overthrow"
+  ]
+}

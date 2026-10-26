@@ -37,6 +37,10 @@ Four articles have received preserved subject-focused passes: [Koh](characters/k
 
 [Enzo Withers](characters/enzo-vanderbuck-withers.md) and [Skull Keep](places/skull-keep.md) have a [character/place checkpoint](../../reports/DELVERS_ENZO_SKULL_KEEP_2026-10-26.md) separating observed aftermath, attributed history and later context.
 
+[Withers Estate](places/withers-estate.md) and [Broscale Manor](places/broscale-manor.md) have a [place checkpoint](../../reports/DELVERS_ESTATES_2026-10-26.md) covering their rooms, households, damage and qualified later estate context.
+
+[The governor's hall](places/governors-hall.md) and [Dungeon Guild Academy](places/dungeon-guild-academy.md) have a [public/institutional place checkpoint](../../reports/DELVERS_HALL_ACADEMY_2026-10-26.md) distinguishing the damaged hall's later use from Academy authority exercised in Atomer.
+
 Other subject articles remain pending; this does not certify the entire directory as migrated.
 
 ## Subject directory

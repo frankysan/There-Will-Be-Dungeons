@@ -1,6 +1,6 @@
 # The Wastes — story guide
 
-Five stories follow Nash, Hope, Stanley and Vorel from their first meeting in Dusthill to their return from the stars. **Full spoilers for all five arcs.**[^guide]
+The first five completed Wastes story arcs follow Nash, Hope, Stanley and Vorel from Dusthill through the end of Season One. Season Two is separately documented and its **current story arc continues through Season Three**. **Full spoilers for reviewed episodes.**[^guide]
 
 ## The five arcs
 
@@ -14,9 +14,9 @@ Five stories follow Nash, Hope, Stanley and Vorel from their first meeting in Du
 
 - **[Arc Five — No Place Like Home](ARC_FIVE.md)** — Hope pursues the Voice's promises while her friends struggle to return to Earth. Reunion brings a fragile refuge among the stars, but the fall of Elhandar leaves them together in the Wastes as a monstrous new threat burrows into their world.[^arc-5]
 
-## Season Two — the voyage begins
+## Season Two complete — the story arc continues
 
-The [ongoing Season Two narrative](SEASON_TWO.md) covers **S2E01–S2E08**: the crew and Council of Earthly Defenders, Planet Nash and the bank evidence for Tungsten, then the **actual voyage through the nebula to Pentel Weiss**. In S2E07, **Nash INT/DEX and Stanley WIS are restored**, three new orcs die in transit, and alternate Badass T **jumps into the prison intake**, fate then unknown. In **S2E08**, the **scarred-eyed warden appears but refuses information**, all four heroes and Union Wheel **jump after Badass T**, **find him ALIVE** and escape an underwater tentacled monster after **Hope saves the swallowed Nash**. Spellcasting is **selectively suppressed** but *Storm Aura*, flight, existing *Light* and enchanted *Diplomacy* still work. Six living party members enter a camp of supposed harmless prisoners, where **a gate locks and several residents turn into werecreatures; combat is deferred**. Tungsten and Eye of Voice remain unlocated/unrecovered, Ruby unfinished and Fate Six moored outside. **ASR-provisional, original audio not heard**. [S2E01](../episodes/S2E01.md) · [S2E02](../episodes/S2E02.md) · [S2E03](../episodes/S2E03.md) · [S2E04](../episodes/S2E04.md) · [S2E05](../episodes/S2E05.md) · [S2E06](../episodes/S2E06.md) · [S2E07](../episodes/S2E07.md) · [S2E08](../episodes/S2E08.md).
+The [complete Season Two narrative](SEASON_TWO.md) covers **played S2E01–S2E12**: the renewed fellowship after Elhandar's fall, the soul-debt exorcism, the transformation of Villa Ornath into Fate Six, the Council of Earthly Defenders, Planet Nash, and the search for Tungsten Wheel. The party visits Burp/Green Vale, recovers navigation coordinates and travels through the purple nebula to the spell-suppressing **Pentel Weiss**. In the prison **Badass T survives but is left in werefolk care**, while the four companions and Union **actually find and rescue Tungsten**, destroy animated rugs and a telepathic eye being, and recover **one collector-like ring**. **S2E12 — Dust to Dust** is explicitly the **Season Two finale**: a mummy lord's minions actually kill Nash, Vorel defeats the mummy lord and entombs one lich alive, Hope teleports the group back to Fate Six without Badass T, and Tungsten cures Stanley's mummy-rot curse. Nash **regenerates only to a floating dragon-metal heart with an eyestalk** after the old body dies, and the vessel escapes the prison sphere toward a planned Mars voyage. **The current story arc is NOT COMPLETE at S2E12 and must continue through the end of Season Three**, per [owner decision D-042](../project/DECISIONS.md). No new arc break at S3E01. **ASR-provisional, no original audio listened to.** [S2E11](../episodes/S2E11.md) · [S2E12 finale](../episodes/S2E12.md) · [S2E12 P/Q comparison](../reports/WASTES_S2E12_ASR_COMPARISON_2026-10-26.md) · **next source:** [S3E01 — Fly, Fools!](../sources/The%20Wastes%20S3E01.%20Fly%2C%20Fools%21.parakeet.processed.srt).
 
 ## Notes
 

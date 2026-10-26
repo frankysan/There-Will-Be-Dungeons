@@ -371,3 +371,39 @@ Both last direct observations remain in S1E06. Later portrait/plaque/tunneling t
 Relevant mentions were searched across all 37 campaign dossiers; selected full source paragraphs, the existing flameskull article and April bonus passages were read. No new ASR/audio, original maps/handouts, sheets or art were reviewed. No evidence issue was closed, no dossier/media changed, and no commit or push was performed by this task.
 
 Next examine Withers Estate and Broscale Manor as linked place accounts, then continue connected subject/domain work. Full-world acceptance and final campaign integration remain pending.
+
+### Fourteenth implementation checkpoint — Withers Estate and Broscale Manor
+
+**2026-10-26: Two place articles migrated and structurally validated.** [Place report](../reports/DELVERS_ESTATES_2026-10-26.md) · [Coverage ledger](DELVERS_ESTATES_COVERAGE.json) · [Pre-edit archive](../research/legacy/2026-10-26/delvers-withers-broscale-estates/README.md) · [Validation](DELVERS_ESTATES_VALIDATION.json).
+
+| Place | Current disposition | Main prose before → after |
+| --- | --- | ---: |
+| Withers Estate | Introduction, physical/service changes, burglary/fire, later district context and Current status | 1,110 → 412 |
+| Broscale Manor | Introduction, household/assessment use, qualified later family-estate context and Current status | 504 → 339 |
+
+All 12 former heading targets remain reachable, with one additional unheaded metadata block accounted for. Six exact working-copy originals and equivalent reading copies are archived without target corrections. All 242 protected hashes match: 215 campaign files and 27 previous batch artifacts. Earlier archives, existing control changes and active outside work are preserved.
+
+Withers's restraint room remains unexplained, three service guardians survive their encounters and Slate is not fought, 23/21 jade counts remain unresolved, and the fire suggestion/observation/later explanation retain their sequence. Later district control does not establish a repaired mansion or changed title. Broscale Manor's named dinner interior is distinguished from the S3E10 Wildfire-estate wording: an owner/household connection is recorded without new address/room proof. Cassius's actual release does not establish a trial, legal acquittal or the absent Wildfire's personal order.
+
+Relevant terms were searched across all 37 campaign dossiers; selected full source paragraphs, linked biographies and existing ledger/queue entries were read. No new ASR/audio, original maps/handouts, sheets or art were reviewed. No evidence issue was closed, no location was canonically merged, no dossier/media changed, and no commit or push was performed by this task.
+
+Next examine the governor's hall and Dungeon Guild Academy as public/institutional places, then continue connected subject/domain work. Full-world acceptance and final campaign integration remain pending.
+
+### Fifteenth implementation checkpoint — governor hall and Dungeon Guild Academy
+
+**2026-10-26: Two public/institutional place articles migrated and locally validated.** [Place report](../reports/DELVERS_HALL_ACADEMY_2026-10-26.md) · [Coverage ledger](DELVERS_HALL_ACADEMY_COVERAGE.json) · [Pre-edit archive](../research/legacy/2026-10-26/delvers-hall-academy/README.md) · [Validation](DELVERS_HALL_ACADEMY_VALIDATION.json).
+
+| Place | Current disposition | Main prose before → after |
+| --- | --- | ---: |
+| Governor's hall | Introduction, civic reception, separate breaches, relief work, dungeon entrance and Current status | 593 → 485 |
+| Dungeon Guild Academy | Introduction, theatre/petition, disciplinary evidence, offsite assessment, attributed administration and Current status | 502 → 477 |
+
+All eight former heading targets remain reachable, with two unheaded hall metadata/illustration blocks accounted for. Six exact working-copy originals and equivalent reading copies are archived without target corrections. All 245 protected hashes match: 215 campaign files and 30 previous batch artifacts. Earlier archives, existing estate/control changes and active outside work are preserved.
+
+The hall's detailed interior view belongs to S2E12; damage persists in S3E01 and its main breach is directly crossed as a dungeon entrance in S3E04. The earlier wedding mansion is not assigned a proved room-level identity with the Ball. Main and auction holes stay separate, the table barrier does not end the Drone, and finale curse-breaking does not document repairs, auction proceeds or an audited rescue count.
+
+The Academy's last direct campus scene is the first-arc S2E00 petition. Later Cheet clerical duty is reported; the S2E11 assessment is near Atomer's governor mansion, with final ordinal ranking still pending. Its panel is not equated with the three finance governors. Zoltar's profit acknowledgment remains attributed; Cassius's physical release and return to his desk do not establish judicial acquittal, a campus overthrow or a new board.
+
+Relevant terms were searched across all 37 campaign dossiers; selected complete source paragraphs and linked guild/Cassius context were read. No new ASR/audio, original map/handout or art review occurred. No evidence issue was closed, location canonically merged or dossier/media changed. No commit or push was performed by this task.
+
+Next examine the southwestern town well and Temple of Pelor as connected surface/underground places, then continue connected subject/domain work. Full-world acceptance and final campaign integration remain pending.

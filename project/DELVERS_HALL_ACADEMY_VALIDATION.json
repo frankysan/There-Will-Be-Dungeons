@@ -1,0 +1,66 @@
+{
+  "date": "2026-10-26",
+  "local_file_and_fragment_links": 849,
+  "maintained_inbound_links": 29,
+  "former_headings_preserved": 8,
+  "exact_original_hashes": 6,
+  "reading_copy_target_equivalence": 6,
+  "explicit_reading_copy_link_corrections": 0,
+  "protected_hashes": 245,
+  "measurements": [
+    {
+      "path": "delvers/world/places/dungeon-guild-academy.md",
+      "before_main_words": 502,
+      "after_main_words": 477,
+      "arc_words": [
+        223,
+        71,
+        95
+      ],
+      "largest_arc_to_median": 2.347,
+      "footnotes": 9,
+      "anchors": 9
+    },
+    {
+      "path": "delvers/world/places/governors-hall.md",
+      "before_main_words": 593,
+      "after_main_words": 485,
+      "arc_words": [
+        270,
+        101
+      ],
+      "largest_arc_to_median": 1.456,
+      "footnotes": 7,
+      "anchors": 8
+    }
+  ],
+  "errors": [],
+  "limits": [
+    "No new ASR, audio, remote URL or rendered-site review",
+    "Section dispositions and material-claim review, not sentence-by-sentence audio verification"
+  ],
+  "markdownlint": {
+    "maintained_files": 7,
+    "violations": 0
+  },
+  "whitespace": {
+    "scoped_git_diff_check": "passed",
+    "new_report_and_json": "passed"
+  },
+  "manual_review": {
+    "completed": true,
+    "focus": [
+      "Place architecture and use rather than full event itinerary",
+      "Chronological Arc One/Two discipline placement",
+      "Campus versus offsite assessment and local administration",
+      "Attribution, separate breaches, uncertain final restoration and formal reform",
+      "Memorial names distinguished from bronze-company portraits"
+    ],
+    "rendered_preview": false
+  },
+  "protected_groups": {
+    "campaign_files": 215,
+    "prior_batch_artifacts": 30
+  },
+  "concurrent_context": "Prior estate/control edits and concurrent Wastes/root changes preserved; no commit or push performed by this task."
+}

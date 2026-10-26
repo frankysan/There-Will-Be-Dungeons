@@ -1,6 +1,10 @@
 # Vorel — titles and epithets register
 
-**Type:** Source-indexed supporting register for [Vorel](vorel.md), deliberately separated from the main character biography. **Evidence:** ASR-provisional, with source windows, name variants and social standing preserved. **Spoilers:** Through Wastes S2E11; Q&As are retrospective, not played conferrals. [Characters](../CHARACTERS.md) · [World portal](../README.md).
+**Type:** Source-indexed supporting register for [Vorel](vorel.md), deliberately separated from the main character biography. **Evidence:** ASR-provisional, with source windows, name variants and social standing preserved. **Spoilers:** Through Wastes S2E12; Q&As are retrospective, not played conferrals. [Characters](../CHARACTERS.md) · [World portal](../README.md).
+
+## S2E12 — Maggot Lord entombed, prospective “entomber” wording
+
+At [S2E12](../../episodes/S2E12.md) ~01:14:50–01:16:15, **Vorel ACTUALLY grapples Egnails the Maggot Lord, opens a stone sarcophagus and seals the living lich inside without killing him**. At ~01:31:35–01:31:45 **Kyle says out of character he is updating Vorel's titles**; the other players discuss language for **“entombed” / “entomber”** in a joke around ~01:31:10–01:31:45. **This is a player-suggested epithet motivated by real events, not an unambiguous in-character proclamation, formal award, or established exact wording**. File as **candidate “Entomber of the Maggot Lord” (unconfirmed)**, not a canonical conferred office. The body Vorel later throws overboard is **Nash's EMPTY, discarded corpse**, not living Nash or lich. [Two-ASR comparison](../../reports/WASTES_S2E12_ASR_COMPARISON_2026-10-26.md).
 
 ## S2E11 — dragon-skull throne is a psychic dream, NOT a title
 

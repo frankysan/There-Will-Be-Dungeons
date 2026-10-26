@@ -1,0 +1,119 @@
+{
+  "date": "2026-10-26",
+  "scope": "Withers Estate and Broscale Manor place articles",
+  "headings": [
+    {
+      "path": "delvers/world/places/withers-estate.md",
+      "old_heading": "Withers Estate — the financial-district mansion",
+      "old_anchor": "withers-estate--the-financial-district-mansion",
+      "target": "Withers Estate — the financial-district mansion",
+      "disposition": "native heading retained"
+    },
+    {
+      "path": "delvers/world/places/withers-estate.md",
+      "old_heading": "S2E12 later disclosure: owner admits opening doors, falls below the ball",
+      "old_anchor": "s2e12-later-disclosure-owner-admits-opening-doors-falls-below-the-ball",
+      "target": "estate-status",
+      "disposition": "owner event retained in source note, without identifying mansion mechanism"
+    },
+    {
+      "path": "delvers/world/places/withers-estate.md",
+      "old_heading": "Introduction",
+      "old_anchor": "introduction",
+      "target": "Introduction",
+      "disposition": "native heading retained"
+    },
+    {
+      "path": "delvers/world/places/withers-estate.md",
+      "old_heading": "A chamber below the paving",
+      "old_anchor": "a-chamber-below-the-paving",
+      "target": "Arc Two — Hidden rooms, stolen wealth and fire",
+      "disposition": "place-focused synthesis; full old itinerary and cutoff detail preserved"
+    },
+    {
+      "path": "delvers/world/places/withers-estate.md",
+      "old_heading": "The proposed entry",
+      "old_anchor": "the-proposed-entry",
+      "target": "Arc Two — Hidden rooms, stolen wealth and fire",
+      "disposition": "place-focused synthesis; full old itinerary and cutoff detail preserved"
+    },
+    {
+      "path": "delvers/world/places/withers-estate.md",
+      "old_heading": "Inside the concealed wine cellar",
+      "old_anchor": "inside-the-concealed-wine-cellar",
+      "target": "Arc Two — Hidden rooms, stolen wealth and fire",
+      "disposition": "place-focused synthesis; full old itinerary and cutoff detail preserved"
+    },
+    {
+      "path": "delvers/world/places/withers-estate.md",
+      "old_heading": "Current status (through S2E06)",
+      "old_anchor": "current-status-through-s2e06",
+      "target": "Current status",
+      "disposition": "place-focused synthesis; full old itinerary and cutoff detail preserved"
+    },
+    {
+      "path": "delvers/world/places/withers-estate.md",
+      "old_heading": "Earlier status (at S2E04 cutoff)",
+      "old_anchor": "earlier-status-at-s2e04-cutoff",
+      "target": "Arc Two — Hidden rooms, stolen wealth and fire",
+      "disposition": "place-focused synthesis; full old itinerary and cutoff detail preserved"
+    },
+    {
+      "path": "delvers/world/places/broscale-manor.md",
+      "old_heading": "Broscale Manor — Wildfire's dragonborn household in Atomer",
+      "old_anchor": "broscale-manor--wildfires-dragonborn-household-in-atomer",
+      "target": "Broscale Manor — Wildfire's dragonborn household in Atomer",
+      "disposition": "native heading retained"
+    },
+    {
+      "path": "delvers/world/places/broscale-manor.md",
+      "old_heading": "Exterior, entry and sitting room",
+      "old_anchor": "exterior-entry-and-sitting-room",
+      "target": "Introduction",
+      "disposition": "place-focused synthesis; full old itinerary and cutoff detail preserved"
+    },
+    {
+      "path": "delvers/world/places/broscale-manor.md",
+      "old_heading": "Household",
+      "old_anchor": "household",
+      "target": "Arc Two — A family home and a place of assessment",
+      "disposition": "place-focused synthesis; full old itinerary and cutoff detail preserved"
+    },
+    {
+      "path": "delvers/world/places/broscale-manor.md",
+      "old_heading": "S2E09 promotion dinner and Withers secret",
+      "old_anchor": "s2e09-promotion-dinner-and-withers-secret",
+      "target": "Arc Two — A family home and a place of assessment",
+      "disposition": "place-focused synthesis; full old itinerary and cutoff detail preserved"
+    }
+  ],
+  "additional_blocks": [
+    {
+      "path": "delvers/world/places/broscale-manor.md",
+      "old_block": "Opening direct-visit, location and research metadata",
+      "target": "Introduction and introduction note; original map/address caveat retained"
+    }
+  ],
+  "domains": {
+    "delvers/world/places/withers-estate.md": "Place: architecture, exposed prior use, service network, collection/security losses, fire and district context",
+    "delvers/world/places/broscale-manor.md": "Place/household: rooms, family and staff, assessment/private patronage, later family-estate custody context"
+  },
+  "review": "Both old profiles read completely; relevant terms/aliases searched across 37 dossiers, selected complete paragraphs, linked biographies and existing ledger entries read; no fresh ASR/audio/map/sheet/art review",
+  "horizons": {
+    "Withers Estate": "S2E05 direct fire view, S2E06 reports of cause/theft investigation, S3E01/S3E02 district changes; no later detailed mansion inspection",
+    "Broscale Manor": "S2E09 named interior visit; S3E10 Wildfire family-estate release is owner-based context, not an independently checked address/room survey; no post-rescue homecoming"
+  },
+  "critical_boundaries": [
+    "Withers mansion, upland Skull Keep, governor hall and Broscale household remain separate",
+    "Slab/recent food do not independently identify a victim, crime or proven lie",
+    "Speaking utility guardians are not newly classified as bestiary creatures; three survive defeat and Slate is not fought",
+    "23 stolen jade versus 21 counted remains unresolved",
+    "Arson suggestion, observed fire and later reported cause retain sequence",
+    "District control does not establish title transfer, detailed rebuilding or final guardian fates",
+    "Ball statement does not identify a particular mansion door or contract",
+    "Private Evelyn exchange does not become common knowledge or an arrest",
+    "Promotion recommendation is not badge issue, full rank exam or Oracle Room access",
+    "Later Wildfire estate association is explicitly qualified; no new cell, second estate or definite room identity invented",
+    "Valentine release does not establish absent Buck ordered or supervised confinement"
+  ]
+}

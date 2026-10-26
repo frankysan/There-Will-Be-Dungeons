@@ -1,8 +1,12 @@
 # Vorel
 
-**Portrayed by:** Kyle. **Identity:** Lizardfolk warrior and leader, protector of **Bok Bok**, bearer of the **Eye of Groxl** and claimant to many personal titles. **Spoilers:** Main Wastes through **S2E10** and cast Q&As. **Evidence:** ASR-provisional except owner-confirmed item/name orthography.[^march21]
+**Portrayed by:** Kyle. **Identity:** Lizardfolk warrior and leader, protector of **Bok Bok**, bearer of the **Eye of Groxl** and claimant to many personal titles. **Spoilers:** Main Wastes through **S2E12** and cast Q&As. **Evidence:** ASR-provisional except owner-confirmed item/name orthography.[^march21]
 
 **Browse:** [Characters](../CHARACTERS.md) · [His source-indexed titles](vorel-titles.md) · [Eye of Groxl](../technology/eye-of-groxl.md) · [World portal](../README.md).
+
+## Season Two finale — protects Tungsten and retrieves Nash's living heart
+
+In [S2E12](../../episodes/S2E12.md), Vorel responds to the enclosed crypt battle by **protecting Tungsten** rather than pursuing the lich's provoking invitation to kill him. He takes the returned ***Corpse Slayer Dagger*** from Stanley, **kills the mummy lord** and **entombs Egnails the Maggot Lord ALIVE in a heavy sarcophagus**, depriving the lich of the death he requests. Later aboard Fate Six, Vorel watches Nash's previously dead body produce a new eyestalk; guided by blinks, **Vorel actually opens the chest and frees the LIVING dragon-metal heart and eye**, which hovers independently. He retrieves Nash's belongings before finally disposing of the empty body into lightning-filled space. **This act saves his friend, not a killing of Nash.** The player's joke about a possible “entomber” title is only a provisional, out-of-character epithet suggestion; see [source-indexed titles](vorel-titles.md) and [P/Q report](../../reports/WASTES_S2E12_ASR_COMPARISON_2026-10-26.md). The group survives, with the same story arc continuing into S3.
 
 ## S2E11 — inside his dream, then freed by song
 

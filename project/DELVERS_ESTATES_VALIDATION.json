@@ -1,0 +1,68 @@
+{
+  "date": "2026-10-26",
+  "local_file_and_fragment_links": 830,
+  "maintained_inbound_links": 26,
+  "former_headings_preserved": 12,
+  "exact_original_hashes": 6,
+  "reading_copy_target_equivalence": 6,
+  "explicit_reading_copy_link_corrections": 0,
+  "protected_hashes": 242,
+  "measurements": [
+    {
+      "path": "delvers/world/places/broscale-manor.md",
+      "before_main_words": 504,
+      "after_main_words": 339,
+      "arc_words": [
+        176,
+        59
+      ],
+      "largest_arc_to_median": 1.498,
+      "footnotes": 6,
+      "anchors": 9
+    },
+    {
+      "path": "delvers/world/places/withers-estate.md",
+      "before_main_words": 1110,
+      "after_main_words": 412,
+      "arc_words": [
+        258,
+        44
+      ],
+      "largest_arc_to_median": 1.709,
+      "footnotes": 7,
+      "anchors": 12
+    }
+  ],
+  "errors": [],
+  "limits": [
+    "No new ASR, audio, remote URL or rendered-site review",
+    "Section dispositions and material-claim review, not sentence-by-sentence audio verification"
+  ],
+  "markdownlint": {
+    "maintained_files": 7,
+    "violations": 0,
+    "exit_code": 0,
+    "archives": "Excluded by repository wrapper; reading copies checked for hashes, links and target equivalence."
+  },
+  "whitespace": {
+    "scoped_git_diff_check_exit_code": 0,
+    "direct_new_markdown_trailing_whitespace_errors": 0
+  },
+  "manual_review": [
+    "Both complete pre-edit pages and final main accounts read",
+    "All pre-edit relative link targets retained",
+    "Places described through architecture, household, function and changed condition rather than full encounter recaps",
+    "Fire suggestion, actual blaze and later reported cause retain chronology",
+    "District control does not establish house repairs/title; later Wildfire estate association remains qualified",
+    "Private assessment/patronage exchange and custody/release do not establish a shared hearing or absent host orders"
+  ],
+  "subject_domains": {
+    "delvers/world/places/withers-estate.md": "place",
+    "delvers/world/places/broscale-manor.md": "place/household"
+  },
+  "protected_file_groups": {
+    "campaign_files": 215,
+    "prior_batch_artifacts": 27
+  },
+  "concurrent_work": "Existing Delvers/control work preserved; outside root episode and Wastes work left untouched."
+}
