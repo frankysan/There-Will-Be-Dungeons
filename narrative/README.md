@@ -14,6 +14,10 @@ Five stories follow Nash, Hope, Stanley and Vorel from their first meeting in Du
 
 - **[Arc Five — No Place Like Home](ARC_FIVE.md)** — Hope pursues the Voice's promises while her friends struggle to return to Earth. Reunion brings a fragile refuge among the stars, but the fall of Elhandar leaves them together in the Wastes as a monstrous new threat burrows into their world.[^arc-5]
 
+## Season Two — the voyage begins
+
+The [ongoing Season Two narrative](SEASON_TWO.md) now covers **S2E01–S2E02**: Stanley's completed release from the Soulbroker, the first flight and naming of **Fate Six**, the survivors of Razak Val, the voyage to Mars, Nash's reunion with his family and the **unfinished Triangulosphere** found in Tungsten Wheel's workshop. The elf war council **opens but does not deliberate** at the S2E02 cutoff. This is an **in-progress continuation**, not a sixth completed story arc. Read the [S2E01 source dossier](../episodes/S2E01.md) and [S2E02 source dossier](../episodes/S2E02.md) for timestamps and uncertainties; no original audio listening is claimed.
+
 ## Notes
 
 [^guide]: Publication order, chronology, chapter structure and source status are retained below. For factual reference, use the [world-reference portal](../world/README.md). The narratives are editorial syntheses of processed ASR research, not audio-verified transcripts. Episode references, transcript uncertainties and retrospective commentary belong in footnotes; the story prose follows events and attributes character testimony. Prior editions: [narrative archive](../research/legacy/2026-10-24/).

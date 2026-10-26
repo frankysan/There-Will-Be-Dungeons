@@ -1,0 +1,23 @@
+# Fate Six — Villa Ornath's revealed spelljammer
+
+**The Wastes • first visible transformation [S2E01](../../episodes/S2E01.md), first real voyage and naming [S2E02](../../episodes/S2E02.md).** Main-party vessel owned/captained by **Stanley Billings (Valere Ornath)**, created by his father from the family [Villa Ornath](../places/villa-ornath.md) and associated with the [Mask of Eltanfawr](mask-of-eltanfawr.md). **Source confidence:** text-only, ASR-provisional; ship name itself confirmed as an enacted in-play christening. See [full S2E02 comparison](../../reports/WASTES_S2E02_ASR_COMPARISON_2026-10-26.md).
+
+## Transformation and first voyage
+
+While it was a cottage in Elhandar's forest and later crashed to Earth's desert, the Villa concealed a spelljammer. In **S2E01** it **actually rises into a wooden elven flying ship after four days of attunement**, the former cottage forming the **rear captain's quarters**. In **S2E02**, Stanley and Hope **learn controls**, fly from Earth across the **Dead Fingers** region to **Razak Val** (via a no-landing visual pass of damaged Tietkalla), **land** at the lizardfolk canyon, take on a **large contingent of willing lizardfolk**, ascend into the void and complete the ~**one-story-hour** flight to a **protected Mars jungle biosphere**, then **land**. This is the ship's first demonstrated interplanetary voyage in current review; there is **no confirmed later departure at the S2E02 cutoff**.
+
+The ghost crew's first mate and Stanley's apparent **uncle Sever** introduces approximately **40–50 ghost elves**, magically bound to ship operation and unable to depart or touch mortals. Important roles include helmsman **Crooked Hand Row**, cook **Chef Durgonzola Mamsie**, ghost surgeon **Dr. Splenival Daffodil**, and an enormous one-eyed non-elven cabin boy **Gorgeous George(s)**. Full surnames and whimsical roster spellings remain audio/handout-unverified. **Twaddle, an 87-year-old elf**, agrees to serve as physical assistant to the ghost surgeon in S2E02, writes his farewell letter and travels by speeder with the party toward Mars council; **he has not yet boarded or worked as assistant**.
+
+### Helm, protection and routes
+
+Deck arcane ballistas, below-decks stores, captain's private lounge, engine controls, wheel, dials and elven glyph-keypad are observed on the tour. The helm can present an ethereal chart with only **Earth, Mars and Planet Nash** preprogrammed as actual destination coordinates in S2E02. The DM's briefly displayed additional red marker is an **interface mistake, not a fictional destination**. Arbitrary new destinations require correct coordinates; obtaining glyphs alone is **not proof of successful input or safe travel**. The ship's visible magical/rainbow exhaust and **blue protective shield** allow the crew and mortal passengers to breathe and survive void exposure. Sever's giant-space-hamster stories are explicitly **unwitnessed sailors' legends**, not an encounter.
+
+### The father aboard
+
+Beneath the engine, a physically strange chamber houses **a wooden carving resembling Delit/Dalit Ornath** that speaks as Stanley's father. The voice says Delit gave up his corporeal body after a mortal wound, leaving **his life essence to power the vessel**, and that Stanley's mother died. Sever states Delit is **the ship, not merely the carved face**, and that face provides a comprehensible means of contact. The presence, conversation, and GM-supplied resemblance are **played**, but exact ancient circumstances and the ship's possible access to privacy are not independently witnessed.
+
+### Name and cutoff
+
+“Fate Six” is **discussed ~00:34** in reference to Fate Four / Fate Five, then Stanley **formally adopts the name aloud at ~01:25–01:28**, and the ghosts cheer its christening. The motivational explanation Stanley gives the ghost crew is improvised; it should not be used as an accurate historical inventory of exactly six prior ships. **Fate Six is the current name** from then on, not merely a joke or future plan. At the S2E02 cutoff, it is **landed on Mars** in the terraforming biosphere, with ghost crew aboard and the recruited lizardfolk on Mars exploring mud. No specific commitment to ferry Nash's family to Planet Nash has been made. [Dossier](../../episodes/S2E02.md).
+
+**Still open:** precise crew roster, relationship/name variants, portal-style spatial construction, ownership/travel permissions, possible scope of father's senses, third-party passenger capacity, test of different world coordinates, and whether the ghost physician can ever physically treat mortal patients without Twaddle. No shrinking demonstration occurs in these two Season Two sessions.

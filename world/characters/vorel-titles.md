@@ -1,6 +1,10 @@
 # Vorel — titles and epithets register
 
-**Type:** Source-indexed supporting register for [Vorel](vorel.md), deliberately separated from the main character biography. **Evidence:** ASR-provisional, with source windows, name variants and social standing preserved. **Spoilers:** Through Wastes S2E01; Q&As are retrospective, not played conferrals. [Characters](../CHARACTERS.md) · [World portal](../README.md).
+**Type:** Source-indexed supporting register for [Vorel](vorel.md), deliberately separated from the main character biography. **Evidence:** ASR-provisional, with source windows, name variants and social standing preserved. **Spoilers:** Through Wastes S2E02; Q&As are retrospective, not played conferrals. [Characters](../CHARACTERS.md) · [World portal](../README.md).
+
+## S2E02 — “Greatest of All the Time Vorels” and Great Fang acknowledgment
+
+At **~01:53:30**, introducing himself to Dunglestar/Twaddle, Vorel says **“Greatest of All the Time Vorels That You May Have Met”** (Parakeet `greatest of all the time varrels that you may have met`; Qwen has the equivalent). This is a *self-proclaimed comparison*; it is not independent proof he is superior to every alternate Vorel. At **~01:00–01:07**, surviving Razak Val lizardfolk **physically kneel, address him Great Fang and request to follow him into space**. This **renews recognition of existing authority**, not a new coronation or proof every clan survives. [Dossier](../../episodes/S2E02.md) · [P/Q report](../../reports/WASTES_S2E02_ASR_COMPARISON_2026-10-26.md). **No audio listened.** The older title audit already indexed the first source at S2E02; this is now supported by complete sequential episode research.
 
 ## S2E01 — expanded Hunter title, no new office
 

@@ -1,6 +1,6 @@
 # The Wastes — world reference
 
-A **subject-centered encyclopedia** for *The Wastes*: characters, antagonists, societies, places, objects and historical events. **Main-campaign spoilers through researched E128, closing Arc Five and The Wastes Season One**; the separately published E107–E109 *Dunebreaker* story takes place **long before E001**. The written research is based on processed ASR, **not independently verified by listening**. *Inverse* is [a separate reality](../inverse/README.md).
+A **subject-centered encyclopedia** for *The Wastes*: characters, antagonists, societies, places, objects and historical events. **Main-campaign spoilers through researched S2E02, after E128 closed Arc Five and The Wastes Season One**; the separately published E107–E109 *Dunebreaker* story takes place **long before E001**. The written research is based on processed ASR, **not independently verified by listening**. *Inverse* is [a separate reality](../inverse/README.md).
 
 ## Browse the setting
 
@@ -21,9 +21,9 @@ A **subject-centered encyclopedia** for *The Wastes*: characters, antagonists, s
 
 **Places:** [Dusthill](places/dusthill.md) · [Slavetown](places/slavetown.md) · [Tietkalla](places/tietkalla.md) · [CHIDS](places/chids.md) · [Sigil](places/sigil.md) · [White Tower](places/white-tower.md) · [Elhandar](places/elhandar.md) · [Villa Ornath](places/villa-ornath.md) · [Dunebreaker prequel](places/dunebreaker.md).
 
-**Vehicles:** [Fate 4](technology/fate-4.md) · [Noble speeder](technology/noble-speeder.md).
+**Vehicles:** [Fate 4](technology/fate-4.md) · [Fate Six / Villa Ornath spelljammer](technology/fate-six.md) · [Noble speeder](technology/noble-speeder.md).
 
-**Relics:** [Eye of Groxl](technology/eye-of-groxl.md) · [Hand of the Voice](technology/hand-of-the-voice.md) · [Gem of Tides](technology/gem-of-tides.md) · [portal device](technology/portal-device.md) · [Traversal Drive](technology/traversal-drive.md) · [Book of Adjacencies](technology/book-of-adjacencies.md) · [Nash's dragon heart](technology/nash-dragon-heart.md) · [Diontalus's ocarina](technology/diontalus-ocarina.md) · [Mask of Eltanfawr](technology/mask-of-eltanfawr.md) · [Henatar's guitar](technology/henatar-guitar.md).
+**Relics:** [Eye of Groxl](technology/eye-of-groxl.md) · [Hand of the Voice](technology/hand-of-the-voice.md) · [Gem of Tides](technology/gem-of-tides.md) · [portal device](technology/portal-device.md) · [Traversal Drive](technology/traversal-drive.md) · [Book of Adjacencies](technology/book-of-adjacencies.md) · [Nash's dragon heart](technology/nash-dragon-heart.md) · [Diontalus's ocarina](technology/diontalus-ocarina.md) · [Mask of Eltanfawr](technology/mask-of-eltanfawr.md) · [Henatar's guitar](technology/henatar-guitar.md) · [unfinished Rubistic Triangulosphere](technology/rubistic-triangulosphere.md).
 
 **Historical studies:** [Ancient catastrophe](HISTORY_ANCIENT_CATASTROPHE.md) · [Tietkalla's history](HISTORY_TIETKALLA.md) · [CHIDS/Drive crisis](HISTORY_CHIDS_DRIVE.md) · [full chronology](CHRONOLOGY.md).
 

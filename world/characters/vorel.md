@@ -1,12 +1,16 @@
 # Vorel
 
-**Portrayed by:** Kyle. **Identity:** Lizardfolk warrior and leader, protector of **Bok Bok**, bearer of the **Eye of Groxl** and claimant to many personal titles. **Spoilers:** Main Wastes through **E128** and cast Q&As. **Evidence:** ASR-provisional except owner-confirmed item/name orthography.[^march21]
+**Portrayed by:** Kyle. **Identity:** Lizardfolk warrior and leader, protector of **Bok Bok**, bearer of the **Eye of Groxl** and claimant to many personal titles. **Spoilers:** Main Wastes through **S2E02** and cast Q&As. **Evidence:** ASR-provisional except owner-confirmed item/name orthography.[^march21]
 
 **Browse:** [Characters](../CHARACTERS.md) · [His source-indexed titles](vorel-titles.md) · [Eye of Groxl](../technology/eye-of-groxl.md) · [World portal](../README.md).
 
 ## Performer retrospective before the Wastes resumed (BONUS-2021-11-13)
 
 In [post-Delvers retrospective ~21–29min](../../episodes/BONUS-2021-11-13.md), Kyle says he **lifts heavy weights before acting Vorel**, because the physical exertion helps him enter the lizardfolk's **strong warrior mentality**. After revisiting the prior Wastes crash/cliffhanger in his memory, Kyle expressed an intention to have Vorel **consider ALL available mission options before committing**, learning from earlier impulse to accept the first bad offer (example: clowns in Sigil) and from the structured Delvers quest board. This is **performer preparation and future story intention, NOT a new title, role, game-mechanic advantage, actual choice, or additional pre-return played Wastes scene**. Vorel's subsequent recorded actions/E128 continuity remain their own evidence. [P/Q ASR report](../../reports/BONUS_2021_11_13_ASR_COMPARISON_2026-10-26.md).
+
+## S2E02 — Razak Val recognizes Great Fang; followers join his voyage
+
+Vorel initially wants to return to his homeland and mistrusts the crew of living-looking ghosts, despite the ship's real flight. He agrees to visit **Razak Val** before the intended Mars meeting. There, the lizardfolk canyon is battered yet **inhabited**, and many surviving residents **kneel and reaffirm his established Great Fang title**. Their report that the worm attackers collapsed of their own accord is their own interpretation, not independently seen; Vorel explains his earlier victory over Dolo Popio. When Vorel prepares to leave, lizardfolk followers **ask to join his journey** and a large contingent **actually boards Fate Six and reaches Mars**. The high elf Amanthalodar **welcomes them as possible allies in the looming struggle**. This is a real political acknowledgment and mobilization, not a newly bestowed title or proof all clans migrated. During a subsequent introduction at Dunglestar's anatomy theatre, Vorel styles himself **“Greatest of All the Time Vorels That You May Have Met”**; a joking self-claim, not verified multiverse superiority. [Dossier](../../episodes/S2E02.md) · [Razak Val](../places/razak-val.md) · [title register](vorel-titles.md).
 
 ## E128 — exhausted fury, refugee separation, the new Burrow
 

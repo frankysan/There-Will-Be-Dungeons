@@ -1,6 +1,6 @@
 # Places and regions — The Wastes
 
-**Spoilers:** Main campaign through E128, completing Season One and the separately placed **E107–E109 Dunebreaker prequel**. This is a geographic **directory of primary location pages**, not a new episode-by-episode travel log. Descriptions derive from processed ASR and are not independently listened to. [World portal](README.md) · [Historical events](HISTORICAL_EVENTS.md) · [Chronology](CHRONOLOGY.md).
+**Spoilers:** Main campaign through S2E02, after Season One and the separately placed **E107–E109 Dunebreaker prequel**. This is a geographic **directory of primary location pages**, not a new episode-by-episode travel log. Descriptions derive from processed ASR and are not independently listened to. [World portal](README.md) · [Historical events](HISTORICAL_EVENTS.md) · [Chronology](CHRONOLOGY.md).
 
 ## Principal settlements and destinations
 
@@ -19,7 +19,8 @@
 | **Gray Waste, Styx and Pandemonium** | Hope's E112–E113 planar route and Council of Clowns' Eye-location lead | [Planar route](places/gray-waste-and-pandemonium.md) |
 | **Elhandar** | Elhandari orbital biodome crashes onto Earth E125–E126; **survivor vessels, natural dragon heart and refugees depart toward Mars E128** | [Elhandar](places/elhandar.md) |
 | **The Harbor** | Tiefling refuge named E117; E126 several die in second crash; **survivors board Elhandari ships bound for Mars E128** | [Harbor](places/the-harbor.md) |
-| **Villa Ornath** | Father's cottage revealed **spelljammer**; survives crash and Burrow sand tsunami **on Earth's desert surface E128**; mask **not fully attuned** | [Villa Ornath](places/villa-ornath.md) |
+| **Villa Ornath / Fate Six** | Cottage on Earth at E128; **becomes flying elven spelljammer S2E01 and actually arrives Mars S2E02**, formally named Fate Six | [Villa Ornath](places/villa-ornath.md) · [Fate Six](technology/fate-six.md) |
+| **Mars terraforming jungle** | **Actual S2E02 landfall and protected biosphere**, Nash reunited with family; Dunglestar's Theatre of Mortal Bodies, incomplete Ruby and elder-tree council | [S2E02 location evidence](../episodes/S2E02.md) |
 
 ## Historic, secondary and mobile sites
 

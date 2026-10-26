@@ -2,7 +2,7 @@
 
 [Nash Maggard](nash-maggard.md), portrayed by **Scott**, improvises incantations, rhymes, song snippets and sometimes abandoned verses around his magic. This is a **source-indexed register**, not an account of every spell Nash casts. Beau praises the effort behind the words in [S1E046](../../episodes/E046.md) ~02:52:57–02:53:10 ([P][046-p] 2797–2801; [Q][046-q] 4622–4629); that does not establish when the habit began.
 
-**Scope:** 44 numbered findings, ordered by episode: **42 in Wastes Season 1 through E126** and **two clearly separated later-season seeds**. The latest negative episode review is **Wastes S2E01**. The older-episode *backfill* stops at **S1E111**; later findings come from regular episode reviews or pre-existing seeds, not an extension of that backfill. Updated **2026-10-25**. **All wording and voice attribution remain ASR-provisional, not audio-verified; the collection is not exhaustive.**
+**Scope:** 44 numbered findings, ordered by episode: **42 in Wastes Season 1 through E126** and **two clearly separated later-season seeds**. The latest negative episode review is **Wastes S2E02**. The older-episode *backfill* stops at **S1E111**; later findings come from regular episode reviews or pre-existing seeds, not an extension of that backfill. Updated **2026-10-25**. **All wording and voice attribution remain ASR-provisional, not audio-verified; the collection is not exhaustive.**
 
 ## How to read the register
 
@@ -100,6 +100,7 @@ The rows below record why some seemingly magical moments **do not justify anothe
 | [S1E126](../../episodes/E126.md) | ***Shield* is already NSP-012**, not a new NSP-045. Nash's *Haste* on Stanley, dragon transformation and acid breaths show **no other distinct new incantation** in the primary text review. | [Comparison](../../reports/E126_ASR_COMPARISON_2026-10-24.md) |
 | [S1E128](../../episodes/E128.md) | In the corrected "Burrow" source, dragon-form fighting, flight/transport during the sand tsunami and return to human form are **not newly voiced spell rhymes**. No new NSP in full primary review. | [Comparison](../../reports/E128_ASR_COMPARISON_2026-10-24.md) |
 | [Wastes S2E01](../../episodes/S2E01.md) | Nash practices Fire Bolts and casts two cold *Chromatic Orbs* (one misses, one hits), but full primary review finds **no new distinctive improvised rhyme**. The difficult Infernal verse is **supplied by Monsoon** for the party's exorcism, only rehearsed by Nash with Hope's help; the baby arm's axe throw is **not a spell**. **No additional NSP ID.** | [Comparison](../../reports/WASTES_S2E01_ASR_COMPARISON_2026-10-26.md) |
+| [Wastes S2E02](../../episodes/S2E02.md) | Nash participates in the ship/family/engineering scenes, **no fresh distinctive improvised spellcasting rhyme located** in the full processed primary. Kristen's recap, the Glorious Damage Token rules and Nash's Arcana inspection are **not improvised spell incantations**. **No NSP entry added.** | [Comparison](../../reports/WASTES_S2E02_ASR_COMPARISON_2026-10-26.md) |
 | [October 2020 bonus](../../episodes/BONUS-2020-10.md) | E120 mushroom decision and casting habits discussed **out of character**; no new performed phrase. **NSP-041** belongs to E120, not this retrospective. | [Comparison](../../reports/BONUS_2020_10_ASR_COMPARISON_2026-10-24.md) |
 
 ## Coverage and further review
