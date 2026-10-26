@@ -1,6 +1,6 @@
 # Vorel
 
-**Portrayed by:** Kyle. **Identity:** Lizardfolk warrior and leader, protector of **Bok Bok**, bearer of the **Eye of Groxl** and claimant to many personal titles. **Spoilers:** Main Wastes through **S2E05** and cast Q&As. **Evidence:** ASR-provisional except owner-confirmed item/name orthography.[^march21]
+**Portrayed by:** Kyle. **Identity:** Lizardfolk warrior and leader, protector of **Bok Bok**, bearer of the **Eye of Groxl** and claimant to many personal titles. **Spoilers:** Main Wastes through **S2E06** and cast Q&As. **Evidence:** ASR-provisional except owner-confirmed item/name orthography.[^march21]
 
 **Browse:** [Characters](../CHARACTERS.md) · [His source-indexed titles](vorel-titles.md) · [Eye of Groxl](../technology/eye-of-groxl.md) · [World portal](../README.md).
 
@@ -81,6 +81,10 @@ In **E114**, Vorel still handles Squirts's ashes and defends the elven vessel fr
 **E117:** Vorel witnesses Hope return, supports a chance for dialogue without absolving her and helps look after **Chunks**, Squirts's surviving child. He joins the refugees' ceremony and is called **Keeper of Stories**. He smells evidence that lizardfolk are nearby in the Elhandar forest but does **not** locate Omnom that episode. [E117](../../episodes/E117.md).
 
 **E118:** Vorel **actually finds Omnom Cinderborn alive**, severely injured and grieving Razak Val. Omnom charges Hope, but **Stanley's Hold Person** stops the attack. Vorel takes Omnom aside and refuses his request to be killed; **Omnom recounts his losses and accuses Hope of intentional wrongdoing**, while Hope offers a different explanation. Vorel persuades him to attempt a **hunt the next morning** with the four companions, but **no hunt or full reconciliation occurs before the E118 cutoff**. Omnom addresses Vorel as **Great Fang**, a renewed personal recognition of an existing title rather than new political coronation. [E118](../../episodes/E118.md) · [Omnom](omnom-cinderborn.md).
+
+## S2E06 — teller-cage passage, hidden vault and marauder leader
+
+At the [Bank of Burp in S2E06](../../episodes/S2E06.md), Nash's ***Reduce*** shrinks Vorel enough to **slip through the teller bars**; Vorel **opens inner doors from the other side**, without learning the keypad combination. He smashes a Dwarvish globe and **pulls a hidden cord that opens stair access**. During a later **Green Vale** orc assault he **rages and uses Eye of Groxl's projectile-attracting protection**, then **jumps from Nash's dragon neck and kills raider leader Stink Eye (?) with Blade of Groxl**. This is **not a new formal title**, no self-proclaimed new epithet identified, and no new Eye lore beyond observed defenses. **Three raiders survive by surrendering** and are recruited to Fate Six by Stanley. [Episode](../../episodes/S2E06.md) · [ASR comparison](../../reports/WASTES_S2E06_ASR_COMPARISON_2026-10-26.md).
 
 ## S2E05 — best-of-all-Vorels boasting, bank entry and Eye
 

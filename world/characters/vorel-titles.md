@@ -1,6 +1,10 @@
 # Vorel — titles and epithets register
 
-**Type:** Source-indexed supporting register for [Vorel](vorel.md), deliberately separated from the main character biography. **Evidence:** ASR-provisional, with source windows, name variants and social standing preserved. **Spoilers:** Through Wastes S2E05; Q&As are retrospective, not played conferrals. [Characters](../CHARACTERS.md) · [World portal](../README.md).
+**Type:** Source-indexed supporting register for [Vorel](vorel.md), deliberately separated from the main character biography. **Evidence:** ASR-provisional, with source windows, name variants and social standing preserved. **Spoilers:** Through Wastes S2E06; Q&As are retrospective, not played conferrals. [Characters](../CHARACTERS.md) · [World portal](../README.md).
+
+## S2E06 — no new title at Bank of Burp or battle
+
+In [S2E06](../../episodes/S2E06.md), Vorel is named as an actor in the Bank of Burp investigation and **personally kills marauder leader Stink Eye(?)** during the battle. He **does not receive a new formal title or introduce a distinct new variant of his self-bestowed “best of all Vorels” epithet** in the reviewed primary text. An ordinary name in character dialogue and his victory should **not be converted to an unplayed honor**. [P/Q report](../../reports/WASTES_S2E06_ASR_COMPARISON_2026-10-26.md); ASR-provisional.
 
 ## S2E05 — “Best of All Vorels” repeat, no promotion
 

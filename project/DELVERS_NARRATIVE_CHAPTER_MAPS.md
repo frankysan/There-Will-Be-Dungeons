@@ -1,10 +1,10 @@
 # Delvers — narrative chapter maps
 
-**Prepared:** 2026-10-26. Season One and Two maps are implemented by preserved consolidation passes. Season Three remains a proposed editorial outline, not a completed rewrite or new source research. Existing titles and canonical paths remain unchanged. [Plan](DELVERS_CAMPAIGN_CLEANUP_PLAN.md) · [Manifest](DELVERS_CLEANUP_MANIFEST.md).
+**Prepared:** 2026-10-26. All three maps are implemented by preserved consolidation passes. Season Three uses nine main chapters and an unnumbered epilogue after its final expedition was split for reading weight. These are editorial syntheses, not new source research. Existing titles and canonical paths remain unchanged. [Plan](DELVERS_CAMPAIGN_CLEANUP_PLAN.md) · [Manifest](DELVERS_CLEANUP_MANIFEST.md).
 
 ## Method and reading weight
 
-The maps account for all 37 archive IDs without equating archive order with story time. Season One was checked against its existing dossier evidence maps and all four earlier narrative studies. Season Two now has a [complete old-section coverage checklist](../reports/DELVERS_SEASON_TWO_CONSOLIDATION_2026-10-26.md) checked against its existing dossier scene maps and cutoffs. Season Three still uses existing narrative structure and selected dossier summaries; a complete scene-level comparison remains required before its rewrite is accepted.
+The maps account for all 37 archive IDs without equating archive order with story time. Season One was checked against its existing dossier evidence maps and all four earlier narrative studies. Season Two now has a [complete old-section coverage checklist](../reports/DELVERS_SEASON_TWO_CONSOLIDATION_2026-10-26.md) checked against its existing dossier scene maps and cutoffs. Season Three now has a [95-paragraph coverage ledger](DELVERS_SEASON_THREE_COVERAGE.json), compared with the old narrative and targeted existing dossier evidence/continuity excerpts. It does not claim a new complete transcript interpretation.
 
 Use roughly eight chapters per completed arc where the story supports them. The pilot uses the shared roughly 400-word planning reference, allowing denser sections where several distinct developments must remain. Measure prose separately from notes. No numerical target permits invented connective scenes or removal of unique evidence. Compare the actual pilot before making later chapter lengths binding.
 
@@ -46,7 +46,7 @@ The older studies remain unchanged historical versions. Condensed tactical detai
 
 All 21 former sections are accounted for in the [Season Two checkpoint](../reports/DELVERS_SEASON_TWO_CONSOLIDATION_2026-10-26.md). Eight chapters now carry the story; the rescue and finale each run just over 500 words to preserve their distinct consequences. All former section anchors remain near their corresponding passages. The three-month transition stays outside this arc.
 
-## Third arc — proposed consolidation
+## Third arc — implemented consolidation
 
 | Proposed chapter | Episode coverage | Story focus and acceptance constraint |
 | --- | --- | --- |
@@ -57,11 +57,12 @@ All 21 former sections are accounted for in the [Season Two checkpoint](../repor
 | 5. The lives that never happened | [S3E08](../delvers/episodes/S3E08.md) | Rat-generated false futures exposed, real Basilica/Radiant Lance, second urn, first urn retrieved and return to spa; hallucinations never become town history |
 | 6. The third vessel | [S3E09](../delvers/episodes/S3E09.md) | Barclay and Chance, paired corridors/golems, breathing tower and third urn, forest exit, return and falling badges; tracking only suspected here |
 | 7. Atomer's reckoning | [S3E10](../delvers/episodes/S3E10.md) | Deferred spa testimony, actual school armor, wages and Hissia lead, public protest, confirmed tracking, Cassius released, sanctioned expedition, minotaurs and Pelor's gift |
-| 8. The heart beneath the dunes | [S3E11](../delvers/episodes/S3E11.md)–[S3E12](../delvers/episodes/S3E12.md) | Gate entry, captive workshop, bat diversion/defeat, two evacuations, organ rite and shared vision, dangerous fight and joint final victory, collapse and final rest |
+| 8. Beyond the triangle gate | [S3E11](../delvers/episodes/S3E11.md) | Authorized descent, architect testimony, gate entry, captive workshop, nonlethal preparation and bat diversion; no completed teleport yet |
+| 9. The heart beneath the dunes | [S3E12](../delvers/episodes/S3E12.md) | Bat defeat, two evacuations, Hissia confirmed, organ rite/shared vision, dangerous fight and joint physical victory, collapse and final rest |
 | One year later | S3E12 | Koh's mentorship, Krandal's farm, Evelyn's school/family service, renewed headquarters; invitation distinguished from performed wedding and letter left unopened |
 
-The final chapter is a compression risk: test whether gate entry and rescue warrant separate chapters before fixing the count at eight. The current 13,724-word body has no second-level chapters; the outline does not imply that every scene can responsibly fit one short final chapter. Distinguish the ritual's historical vision and restored-city illusion from the physical evacuation and collapse.
+The final expedition is split into gate/preparation and finale chapters. The preserved 13,724-word body becomes 3,802 words including introduction and epilogue; the last main chapter remains slightly fuller at 480 words. The [checkpoint](../reports/DELVERS_SEASON_THREE_CONSOLIDATION_2026-10-26.md) records paragraph-level dispositions and distinguishes visions from the physical rescue and collapse.
 
 ## Next acceptance work
 
-Retain the Season One pilot as the concrete example for reading weight and source-note density. Season Two now has that coverage accounting and a validated consolidation checkpoint. Before Season Three is rewritten, produce its complete old-section-to-new-chapter checklist, identify unique developments and classify prospective omissions as retained story, condensed tactical detail or archived research. Record the actual result in the manifest rather than marking its proposed map accepted by default.
+All three primary arcs now have preserved consolidation checkpoints. Proceed to the world pilots: Koh, the guild, the three urns and one short place/creature article. Establish each subject's actual researched horizon and last direct observation, preserve its pre-edit bytes and check its own domain contract. Narrative consolidation alone does not certify the world pages or close their evidence questions.

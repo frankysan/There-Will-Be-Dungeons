@@ -1,0 +1,957 @@
+{
+  "date": "2026-10-26",
+  "archive_original": "research/legacy/2026-10-26/delvers-season-three-consolidation/delvers/narrative/SEASON_THREE.md.original",
+  "method": "Every original nonheading/nonfootnote prose paragraph, in order, records original line, identifying excerpt and implemented disposition. Full text remains in archive. Episode leads reflect narrative sequence, not independently verified wording.",
+  "paragraphs": [
+    {
+      "paragraph": 1,
+      "archived_original_line": 3,
+      "opening": "The Bronze Ball has become the city's worst nightmare. By the hour when the guests once expected to",
+      "original_words": 74,
+      "episode_lead": "S3E01",
+      "destination": 1,
+      "disposition": "Aftermath and investigation retained, no conviction.",
+      "review": "Compared to new prose/source notes; not independent audio verification"
+    },
+    {
+      "paragraph": 2,
+      "archived_original_line": 5,
+      "opening": "For Evelyn, the catastrophe brings an unexpected parting. Having escorted young women from the ruined ballroom, she hears",
+      "original_words": 84,
+      "episode_lead": "S3E01",
+      "destination": 1,
+      "disposition": "Traveler departure/vow retained, curse testimony qualified.",
+      "review": "Compared to new prose/source notes; not independent audio verification"
+    },
+    {
+      "paragraph": 3,
+      "archived_original_line": 7,
+      "opening": "Koh takes his recovered wife back into the family home he nearly lost. His relief lasts only until",
+      "original_words": 115,
+      "episode_lead": "S3E01",
+      "destination": 1,
+      "disposition": "Bank theft, moral objection and egg retained; deposits condensed.",
+      "review": "Compared to new prose/source notes; not independent audio verification"
+    },
+    {
+      "paragraph": 4,
+      "archived_original_line": 9,
+      "opening": "When the guild finds the party clearing more of the wrecked ballroom, the grounding becomes enforceable. Lady Vestal",
+      "original_words": 141,
+      "episode_lead": "S3E01",
+      "destination": 1,
+      "disposition": "Loran blade/failed door and departure retained; background attributed.",
+      "review": "Compared to new prose/source notes; not independent audio verification"
+    },
+    {
+      "paragraph": 5,
+      "archived_original_line": 11,
+      "opening": "The farm also attracts visitors. An imposing serpent-bodied royal guard says Princess Hissia was taken below Atomer and",
+      "original_words": 91,
+      "episode_lead": "S3E01",
+      "destination": 1,
+      "disposition": "Nopa oath and Goodwine proposal retained, no title sale.",
+      "review": "Compared to new prose/source notes; not independent audio verification"
+    },
+    {
+      "paragraph": 6,
+      "archived_original_line": 13,
+      "opening": "Koh has his own old associates to face. He takes the bank gems to the Cloven Brotherhood, asking",
+      "original_words": 91,
+      "episode_lead": "S3E01",
+      "destination": 1,
+      "disposition": "Fencing and daughter confession retained, payment unsettled.",
+      "review": "Compared to new prose/source notes; not independent audio verification"
+    },
+    {
+      "paragraph": 7,
+      "archived_original_line": 15,
+      "opening": "That ability to reach minds becomes the guild's reason to let him help once more. At Pelor's temple",
+      "original_words": 90,
+      "episode_lead": "S3E01",
+      "destination": 1,
+      "disposition": "Seven cures and separation retained; episode framing removed.",
+      "review": "Compared to new prose/source notes; not independent audio verification"
+    },
+    {
+      "paragraph": 8,
+      "archived_original_line": 17,
+      "opening": "The separation lasts longer than anyone had hoped. While Evelyn's carriage rolls westward through five days of increasingly",
+      "original_words": 124,
+      "episode_lead": "S3E02",
+      "destination": 2,
+      "disposition": "Treatment, donkey, workers and plow retained; routine condensed.",
+      "review": "Compared to new prose/source notes; not independent audio verification"
+    },
+    {
+      "paragraph": 9,
+      "archived_original_line": 19,
+      "opening": "In Vermicity, the Blackwoods' elegant home feels smaller than the road. Evelyn's parents have preserved every comfort for",
+      "original_words": 111,
+      "episode_lead": "S3E02",
+      "destination": 2,
+      "disposition": "Julian refusal, parental control and letters retained in synthesis.",
+      "review": "Compared to new prose/source notes; not independent audio verification"
+    },
+    {
+      "paragraph": 10,
+      "archived_original_line": 21,
+      "opening": "The city around Koh is changing too. A stone barrier rises through the markets and along the shattered",
+      "original_words": 165,
+      "episode_lead": "S3E02",
+      "destination": 2,
+      "disposition": "Detector, willing blood, shallow recovery and threatened home retained.",
+      "review": "Compared to new prose/source notes; not independent audio verification"
+    },
+    {
+      "paragraph": 11,
+      "archived_original_line": 23,
+      "opening": "The farm yields its own, darker lesson. Poor early growth convinces Krandal to spend real money on a",
+      "original_words": 150,
+      "episode_lead": "S3E02",
+      "destination": 2,
+      "disposition": "Barn, attack and unknown employer retained; decorative/tactical detail archived.",
+      "review": "Compared to new prose/source notes; not independent audio verification"
+    },
+    {
+      "paragraph": 12,
+      "archived_original_line": 25,
+      "opening": "Julian's confidence in Evelyn proves no match for her determination. She refuses his renewed proposal as readily as",
+      "original_words": 143,
+      "episode_lead": "S3E02",
+      "destination": 2,
+      "disposition": "Vampire defense and parental recognition retained; hunter final kill explicit.",
+      "review": "Compared to new prose/source notes; not independent audio verification"
+    },
+    {
+      "paragraph": 13,
+      "archived_original_line": 27,
+      "opening": "Before she arrives, Koh makes one further journey into familiar woodland. He persuades the reclusive gnome Veggie Sticks",
+      "original_words": 104,
+      "episode_lead": "S3E02",
+      "destination": 2,
+      "disposition": "Direction upgrade and new home retained; publicity pamphlets archived.",
+      "review": "Compared to new prose/source notes; not independent audio verification"
+    },
+    {
+      "paragraph": 14,
+      "archived_original_line": 29,
+      "opening": "Three months after the ruined ball, the separated companions converge on an Atomer transformed. A wall encloses the",
+      "original_words": 101,
+      "episode_lead": "S3E02",
+      "destination": 2,
+      "disposition": "Three months complete and Silver City retained; herald fees archived.",
+      "review": "Compared to new prose/source notes; not independent audio verification"
+    },
+    {
+      "paragraph": 15,
+      "archived_original_line": 31,
+      "opening": "The crowd has drawn an entirely different kind of adventurer to Atomer. Beyond the new wall, the presses",
+      "original_words": 118,
+      "episode_lead": "S3E03",
+      "destination": 2,
+      "disposition": "Reporter/editor premise retained; prophecy provenance remains uncertain in source context.",
+      "review": "Compared to new prose/source notes; not independent audio verification"
+    },
+    {
+      "paragraph": 16,
+      "archived_original_line": 33,
+      "opening": "He first finds Koh in the newly purchased family home. Anathala invites him to tea, but Koh has",
+      "original_words": 198,
+      "episode_lead": "S3E03",
+      "destination": 2,
+      "disposition": "Koh/Evelyn interviews retained; photographs/tea/romance speculation condensed.",
+      "review": "Compared to new prose/source notes; not independent audio verification"
+    },
+    {
+      "paragraph": 17,
+      "archived_original_line": 35,
+      "opening": "On the way to the potato farm he discovers that Krandal's enterprise is doing more than growing: Glepo",
+      "original_words": 180,
+      "episode_lead": "S3E03",
+      "destination": 2,
+      "disposition": "Gilded potato and voluntary truth disclosure retained; market/compost/interview mechanics archived.",
+      "review": "Compared to new prose/source notes; not independent audio verification"
+    },
+    {
+      "paragraph": 18,
+      "archived_original_line": 37,
+      "opening": "The correspondent returns to the Chimera Guild still wanting the man everyone else refuses to produce. Cassius is",
+      "original_words": 183,
+      "episode_lead": "S3E03",
+      "destination": 2,
+      "disposition": "Zoltar economic admission, C4 licence and tome theft retained; allegations attributed.",
+      "review": "Compared to new prose/source notes; not independent audio verification"
+    },
+    {
+      "paragraph": 19,
+      "archived_original_line": 39,
+      "opening": "By evening Dumbledwark rides away with both items. Cassius is still inaccessible, the Delvers remain unaware of the",
+      "original_words": 75,
+      "episode_lead": "S3E03",
+      "destination": 2,
+      "disposition": "Licence versus promised ungrounding retained; future-session framing removed.",
+      "review": "Compared to new prose/source notes; not independent audio verification"
+    },
+    {
+      "paragraph": 20,
+      "archived_original_line": 41,
+      "opening": "The promised assignment finally carries them back beneath the governor's ruined ballroom. Mirrors channel sunlight down the old",
+      "original_words": 125,
+      "episode_lead": "S3E04",
+      "destination": 3,
+      "disposition": "C4 access, crank and water wheel retained; cipher barter archived.",
+      "review": "Compared to new prose/source notes; not independent audio verification"
+    },
+    {
+      "paragraph": 21,
+      "archived_original_line": 43,
+      "opening": "The dungeon holds evidence of what became of its previous visitors. Koh draws a pair of green boots",
+      "original_words": 174,
+      "episode_lead": "S3E04",
+      "destination": 3,
+      "disposition": "Boots/shield/corpse questioning retained; remains and equipment details in notes.",
+      "review": "Compared to new prose/source notes; not independent audio verification"
+    },
+    {
+      "paragraph": 22,
+      "archived_original_line": 45,
+      "opening": "Evelyn finds the wreck of a stone golem in a side cavern. It has already been broken apart",
+      "original_words": 139,
+      "episode_lead": "S3E04",
+      "destination": 3,
+      "disposition": "Broken golem crystal and living Iron Monkey retained; dung disguise condensed.",
+      "review": "Compared to new prose/source notes; not independent audio verification"
+    },
+    {
+      "paragraph": 23,
+      "archived_original_line": 47,
+      "opening": "It is Evelyn who calls the beast to them, banging her growing heart-blade against the walls. The behir",
+      "original_words": 176,
+      "episode_lead": "S3E04",
+      "destination": 3,
+      "disposition": "Behir kill by Krandal and Koh rescue retained; tactics condensed.",
+      "review": "Compared to new prose/source notes; not independent audio verification"
+    },
+    {
+      "paragraph": 24,
+      "archived_original_line": 49,
+      "opening": "The dying behir leaves acid and scattered sparks behind. No one among the four visitors has died; Iron",
+      "original_words": 82,
+      "episode_lead": "S3E04",
+      "destination": 3,
+      "disposition": "Blue-crystal exit retained with narration basis; unpublished report not invented.",
+      "review": "Compared to new prose/source notes; not independent audio verification"
+    },
+    {
+      "paragraph": 25,
+      "archived_original_line": 51,
+      "opening": "After C4 the Guild offers the Delvers a different sort of return to service. Adventurers swarming the new",
+      "original_words": 111,
+      "episode_lead": "S3E05",
+      "destination": 3,
+      "disposition": "Conditional refuge mission and Angel retained; no general ungrounding.",
+      "review": "Compared to new prose/source notes; not independent audio verification"
+    },
+    {
+      "paragraph": 26,
+      "archived_original_line": 53,
+      "opening": "They find the flumphs' establishment at the end of a carpet of violet moss. Its carved doors are",
+      "original_words": 111,
+      "episode_lead": "S3E05",
+      "destination": 3,
+      "disposition": "Surface-air gift and customs retained; named furnishings archived.",
+      "review": "Compared to new prose/source notes; not independent audio verification"
+    },
+    {
+      "paragraph": 27,
+      "archived_original_line": 55,
+      "opening": "The spa is unlike any dungeon the Delvers have fought through. Skeletal minotaurs bathe beside a roper, trolls",
+      "original_words": 145,
+      "episode_lead": "S3E05",
+      "destination": 3,
+      "disposition": "Neutral clientele and discomfort retained; equipment-removal dialogue condensed.",
+      "review": "Compared to new prose/source notes; not independent audio verification"
+    },
+    {
+      "paragraph": 28,
+      "archived_original_line": 57,
+      "opening": "The private door calls Evelyn's name without a voice in the air. The flumph attendants reluctantly give permission",
+      "original_words": 198,
+      "episode_lead": "S3E05",
+      "destination": 3,
+      "disposition": "Private mind-reader visits retained; claims not automatically shared; later answers noted.",
+      "review": "Compared to new prose/source notes; not independent audio verification"
+    },
+    {
+      "paragraph": 29,
+      "archived_original_line": 59,
+      "opening": "The day's hospitality is not altogether uneventful. A beholder puts an anxious Krandal to sleep with a glance,",
+      "original_words": 113,
+      "episode_lead": "S3E05",
+      "destination": 3,
+      "disposition": "Ghost comfort and filtration request retained; refreshments/Sleep Ray archived.",
+      "review": "Compared to new prose/source notes; not independent audio verification"
+    },
+    {
+      "paragraph": 30,
+      "archived_original_line": 61,
+      "opening": "The filtration works are dark, dusty and neglected. Evelyn fills them with magical daylight. At once a black-grained",
+      "original_words": 188,
+      "episode_lead": "S3E05",
+      "destination": 3,
+      "disposition": "Ooze seizure, daylight rescue and Koh kill retained; damage rounds condensed.",
+      "review": "Compared to new prose/source notes; not independent audio verification"
+    },
+    {
+      "paragraph": 31,
+      "archived_original_line": 63,
+      "opening": "The flumphs find the filters clean when they look again, and their attendants hurry to scrape dark residue",
+      "original_words": 109,
+      "episode_lead": "S3E05",
+      "destination": 3,
+      "disposition": "Filters/conditional refuge/invitation retained; no final contract or early interview.",
+      "review": "Compared to new prose/source notes; not independent audio verification"
+    },
+    {
+      "paragraph": 32,
+      "archived_original_line": 65,
+      "opening": "The voice beyond the private door does not leave Koh waiting for long. He enters the bath where",
+      "original_words": 205,
+      "episode_lead": "S3E06",
+      "destination": 4,
+      "disposition": "Actual aboleth contest and visions retained; claims/ambitions attributed.",
+      "review": "Compared to new prose/source notes; not independent audio verification"
+    },
+    {
+      "paragraph": 33,
+      "archived_original_line": 67,
+      "opening": "The Delvers spend an actual night in comfortable rooms at Deep Winds. Destroying Angel has gone ahead by",
+      "original_words": 165,
+      "episode_lead": "S3E06",
+      "destination": 4,
+      "disposition": "Completed night and dead-adventurer discovery retained; item details in notes.",
+      "review": "Compared to new prose/source notes; not independent audio verification"
+    },
+    {
+      "paragraph": 34,
+      "archived_original_line": 69,
+      "opening": "The stairs end at a cavern faced with hundreds of rune-covered stone circles. Some have holes opening behind",
+      "original_words": 129,
+      "episode_lead": "S3E06",
+      "destination": 4,
+      "disposition": "Catacomb/gate/three hollows retained; carvings/mechanism trials condensed.",
+      "review": "Compared to new prose/source notes; not independent audio verification"
+    },
+    {
+      "paragraph": 35,
+      "archived_original_line": 71,
+      "opening": "The first body inside is long dry and pale, an elf hollowed by surgery and time, so much",
+      "original_words": 211,
+      "episode_lead": "S3E06",
+      "destination": 4,
+      "disposition": "Mummies, Krandal rescue and retreat retained; no exact kill total.",
+      "review": "Compared to new prose/source notes; not independent audio verification"
+    },
+    {
+      "paragraph": 36,
+      "archived_original_line": 73,
+      "opening": "Atomer is crowded with adventurers wearing nearly identical treasures from the new dungeons, while the cost of nearly",
+      "original_words": 160,
+      "episode_lead": "S3E06",
+      "destination": 4,
+      "disposition": "Badge return/item identification/grounding retained; covered detector not negative test.",
+      "review": "Compared to new prose/source notes; not independent audio verification"
+    },
+    {
+      "paragraph": 37,
+      "archived_original_line": 75,
+      "opening": "Evelyn returns to the hidden school beneath the fountain and discovers that her luminous sword can lengthen into",
+      "original_words": 126,
+      "episode_lead": "S3E06",
+      "destination": 4,
+      "disposition": "Lance/sanctuary success, unavailable armor and hatchling retained.",
+      "review": "Compared to new prose/source notes; not independent audio verification"
+    },
+    {
+      "paragraph": 38,
+      "archived_original_line": 77,
+      "opening": "The next morning, the three Delvers put discretion above orders. Koh has studied enough lift passes to forge",
+      "original_words": 167,
+      "episode_lead": "S3E07",
+      "destination": 4,
+      "disposition": "Forged pass used and detector followed; separate chamber/gate distinction retained.",
+      "review": "Compared to new prose/source notes; not independent audio verification"
+    },
+    {
+      "paragraph": 39,
+      "archived_original_line": 79,
+      "opening": "That someone is a weary cat-faced woman buried under a huge backpack and an even greater store of",
+      "original_words": 150,
+      "episode_lead": "S3E07",
+      "destination": 4,
+      "disposition": "Granny deciphers inscription; appearance/pack inventory archived.",
+      "review": "Compared to new prose/source notes; not independent audio verification"
+    },
+    {
+      "paragraph": 40,
+      "archived_original_line": 81,
+      "opening": "The three platforms are not readily reached. Evelyn ropes in a little boat, illuminates its prow with Daylight",
+      "original_words": 141,
+      "episode_lead": "S3E07",
+      "destination": 4,
+      "disposition": "Slime crossing and hatchling baggage retained; failed spectral platform archived.",
+      "review": "Compared to new prose/source notes; not independent audio verification"
+    },
+    {
+      "paragraph": 41,
+      "archived_original_line": 83,
+      "opening": "Granny has a more extraordinary answer. She gives Krandal a potion without adequately explaining which one; he swallows",
+      "original_words": 162,
+      "episode_lead": "S3E07",
+      "destination": 4,
+      "disposition": "Size-potion throw and lightning retained; exact settings/HP in source.",
+      "review": "Compared to new prose/source notes; not independent audio verification"
+    },
+    {
+      "paragraph": 42,
+      "archived_original_line": 85,
+      "opening": "Where the pool stood is a ruined lower floor and a small altar. A narrow ceramic vessel stands",
+      "original_words": 173,
+      "episode_lead": "S3E07",
+      "destination": 4,
+      "disposition": "Heart weight exchange retained; mayonnaise unperformed, actual weights in note.",
+      "review": "Compared to new prose/source notes; not independent audio verification"
+    },
+    {
+      "paragraph": 43,
+      "archived_original_line": 87,
+      "opening": "At the other side of the chamber the old woman considers going home, but is persuaded to follow",
+      "original_words": 129,
+      "episode_lead": "S3E07",
+      "destination": 4,
+      "disposition": "Granny returns safely and first urn installed; gate remains shut.",
+      "review": "Compared to new prose/source notes; not independent audio verification"
+    },
+    {
+      "paragraph": 44,
+      "archived_original_line": 89,
+      "opening": "The one heart rests in its hollow at the base of the triangle door, but there are two",
+      "original_words": 102,
+      "episode_lead": "S3E08",
+      "destination": 5,
+      "disposition": "Lost route/deceptive return introduced as false experience.",
+      "review": "Compared to new prose/source notes; not independent audio verification"
+    },
+    {
+      "paragraph": 45,
+      "archived_original_line": 91,
+      "opening": "At Krandal's potato farm the workers stand with their tools discarded before them. Gleepo Ma and Nopa Ropa",
+      "original_words": 166,
+      "episode_lead": "S3E08",
+      "destination": 5,
+      "disposition": "Farm strike/foreclosure retained as vision, not actual sale.",
+      "review": "Compared to new prose/source notes; not independent audio verification"
+    },
+    {
+      "paragraph": 46,
+      "archived_original_line": 93,
+      "opening": "Koh meets a different ruin. In the streets posters promise ten thousand gold for One Shot, the criminal",
+      "original_words": 124,
+      "episode_lead": "S3E08",
+      "destination": 5,
+      "disposition": "Wanted posters/family rejection/Zoltar attack retained as false vision.",
+      "review": "Compared to new prose/source notes; not independent audio verification"
+    },
+    {
+      "paragraph": 47,
+      "archived_original_line": 95,
+      "opening": "Evelyn's refuge at Loran's school is the next lie to fall. Her ghostly attendants fade; then her hair",
+      "original_words": 101,
+      "episode_lead": "S3E08",
+      "destination": 5,
+      "disposition": "Asylum and mirror escape retained; no physical shaving/imprisonment.",
+      "review": "Compared to new prose/source notes; not independent audio verification"
+    },
+    {
+      "paragraph": 48,
+      "archived_original_line": 97,
+      "opening": "Krandal's silent armoured cart-driver comes to him in the dying false landscape and leads him through its dark.",
+      "original_words": 153,
+      "episode_lead": "S3E08",
+      "destination": 5,
+      "disposition": "Lance testimony/card game retained; imagined divine rejection/floating city qualified.",
+      "review": "Compared to new prose/source notes; not independent audio verification"
+    },
+    {
+      "paragraph": 49,
+      "archived_original_line": 99,
+      "opening": "In the real Basilica Evelyn stands in a great columned hall. Koh and Krandal lie on its stone",
+      "original_words": 143,
+      "episode_lead": "S3E08",
+      "destination": 5,
+      "disposition": "Physical rat chains/friends freed/empty-urn bargain retained.",
+      "review": "Compared to new prose/source notes; not independent audio verification"
+    },
+    {
+      "paragraph": 50,
+      "archived_original_line": 101,
+      "opening": "The battle is a storm of rats, lightning and suddenly changing memories. Rat-tails twist into lashes, psychic blasts",
+      "original_words": 139,
+      "episode_lead": "S3E08",
+      "destination": 5,
+      "disposition": "Urn extraction and teleport disperse collective; no extermination.",
+      "review": "Compared to new prose/source notes; not independent audio verification"
+    },
+    {
+      "paragraph": 51,
+      "archived_original_line": 103,
+      "opening": "They turn to the old armour that had lain on the floor. Time has gnawed the chain mail",
+      "original_words": 128,
+      "episode_lead": "S3E08",
+      "destination": 5,
+      "disposition": "Tabard/stored lance and ribboned Scroungy retained; rest detail condensed.",
+      "review": "Compared to new prose/source notes; not independent audio verification"
+    },
+    {
+      "paragraph": 52,
+      "archived_original_line": 105,
+      "opening": "A call echoes from beyond the doorway. The little hook horror answers, and three huge adult hunters arrive",
+      "original_words": 124,
+      "episode_lead": "S3E08",
+      "destination": 5,
+      "disposition": "Adult threat/one kill/others retreat retained; youngling not surrendered.",
+      "review": "Compared to new prose/source notes; not independent audio verification"
+    },
+    {
+      "paragraph": 53,
+      "archived_original_line": 107,
+      "opening": "The stairway down brings them again to the three hollows before the dark metal triangle. One urn is",
+      "original_words": 165,
+      "episode_lead": "S3E08",
+      "destination": 5,
+      "disposition": "First urn retrieved/two carried/empty slots/spa payment retained; sleep follows.",
+      "review": "Compared to new prose/source notes; not independent audio verification"
+    },
+    {
+      "paragraph": 54,
+      "archived_original_line": 109,
+      "opening": "Morning comes again in the depths, where morning is measured by the flumphs' wishes rather than sunlight. The",
+      "original_words": 170,
+      "episode_lead": "S3E09",
+      "destination": 6,
+      "disposition": "Completed night/right route retained; later-disclosed spa answers deferred.",
+      "review": "Compared to new prose/source notes; not independent audio verification"
+    },
+    {
+      "paragraph": 55,
+      "archived_original_line": 111,
+      "opening": "The crunching has already warned somebody. The ground shivers, whispers sound, and a tremendous voice demands to know",
+      "original_words": 221,
+      "episode_lead": "S3E09",
+      "destination": 6,
+      "disposition": "Barclay/Ptah/Chance retained; camp details and height archived.",
+      "review": "Compared to new prose/source notes; not independent audio verification"
+    },
+    {
+      "paragraph": 56,
+      "archived_original_line": 113,
+      "opening": "Two enormous grick-faced and bat-winged doors stand side by side behind the camp. Barclay can tell that the",
+      "original_words": 188,
+      "episode_lead": "S3E09",
+      "destination": 6,
+      "disposition": "Paired doors/bridges/symbols retained; gas mistake condensed.",
+      "review": "Compared to new prose/source notes; not independent audio verification"
+    },
+    {
+      "paragraph": 57,
+      "archived_original_line": 115,
+      "opening": "What ought to be a straightforward battle becomes a baffling duet. Koh strikes his construct with a magnificent",
+      "original_words": 188,
+      "episode_lead": "S3E09",
+      "destination": 6,
+      "disposition": "Linked golems/psychic immunity retained; no psychic critical kill.",
+      "review": "Compared to new prose/source notes; not independent audio verification"
+    },
+    {
+      "paragraph": 58,
+      "archived_original_line": 117,
+      "opening": "They emerge above a hall so long that one companion's light barely reaches the others. In its centre",
+      "original_words": 166,
+      "episode_lead": "S3E09",
+      "destination": 6,
+      "disposition": "Breathing tower, timed ascent and third vessel retained.",
+      "review": "Compared to new prose/source notes; not independent audio verification"
+    },
+    {
+      "paragraph": 59,
+      "archived_original_line": 119,
+      "opening": "The silence wakes the sleeping predators. Koh's dagger flashes from concealment and fells one grick; another staggers under",
+      "original_words": 143,
+      "episode_lead": "S3E09",
+      "destination": 6,
+      "disposition": "Grick alpha kill/urn secured retained; smaller-creature roster archived.",
+      "review": "Compared to new prose/source notes; not independent audio verification"
+    },
+    {
+      "paragraph": 60,
+      "archived_original_line": 121,
+      "opening": "Rather than press their luck with whatever awaits beyond that door, they find the doors and bridges now",
+      "original_words": 132,
+      "episode_lead": "S3E09",
+      "destination": 6,
+      "disposition": "Forest exit/repaired route/Veggie help retained; exact trees dialogue condensed.",
+      "review": "Compared to new prose/source notes; not independent audio verification"
+    },
+    {
+      "paragraph": 61,
+      "archived_original_line": 123,
+      "opening": "Before they leave, Barclay offers to hide the three Silver knights from divining eyes. He casts Nondetection on",
+      "original_words": 157,
+      "episode_lead": "S3E09",
+      "destination": 6,
+      "disposition": "Falling badges/tree return retained; tracking initially hypothesis and retrieval gap noted.",
+      "review": "Compared to new prose/source notes; not independent audio verification"
+    },
+    {
+      "paragraph": 62,
+      "archived_original_line": 125,
+      "opening": "They come into Atomer in the evening with leaves still caught in their clothes, and discover there is",
+      "original_words": 138,
+      "episode_lead": "S3E10",
+      "destination": 7,
+      "disposition": "Badge/urn handovers retained; no unshown recovery invented.",
+      "review": "Compared to new prose/source notes; not independent audio verification"
+    },
+    {
+      "paragraph": 63,
+      "archived_original_line": 127,
+      "opening": "Koh knows Atomer's narrow streets too well to be caught easily. In a passage near his house he",
+      "original_words": 232,
+      "episode_lead": "S3E10",
+      "destination": 7,
+      "disposition": "Home distress and letter retained; promotional book contents not assumed true.",
+      "review": "Compared to new prose/source notes; not independent audio verification"
+    },
+    {
+      "paragraph": 64,
+      "archived_original_line": 129,
+      "opening": "Krandal's journey begins less smoothly. An old Guild acquaintance, Edgar Boonfellow of the First Sons, hears him blunder",
+      "original_words": 210,
+      "episode_lead": "S3E10",
+      "destination": 7,
+      "disposition": "Boonefellow releases Krandal; produce sale and wages retained, no farm title transfer.",
+      "review": "Compared to new prose/source notes; not independent audio verification"
+    },
+    {
+      "paragraph": 65,
+      "archived_original_line": 131,
+      "opening": "The promise gives Krandal another memory, a conversation he had at the Deep Winds Spa on the night",
+      "original_words": 137,
+      "episode_lead": "S3E10",
+      "destination": 7,
+      "disposition": "Hissia-location spa recollection and Nopa pledge retained as testimony.",
+      "review": "Compared to new prose/source notes; not independent audio verification"
+    },
+    {
+      "paragraph": 66,
+      "archived_original_line": 133,
+      "opening": "Evelyn, meanwhile, has ridden to the school of Loran Ilfelkyr. The elk has proved easier to summon than",
+      "original_words": 206,
+      "episode_lead": "S3E10",
+      "destination": 7,
+      "disposition": "Armor claimed in school danger and hook horror killed retained.",
+      "review": "Compared to new prose/source notes; not independent audio verification"
+    },
+    {
+      "paragraph": 67,
+      "archived_original_line": 135,
+      "opening": "At the Guild a crowd comes with her. Koh quietly draws more people toward the gathering; Krandal arrives",
+      "original_words": 163,
+      "episode_lead": "S3E10",
+      "destination": 7,
+      "disposition": "Public confrontation and admitted tracking retained; institutional defense condensed.",
+      "review": "Compared to new prose/source notes; not independent audio verification"
+    },
+    {
+      "paragraph": 68,
+      "archived_original_line": 137,
+      "opening": "Helenar Clearstone comes forward with a parchment bearing thirty names of elves who vanished at the Bronze Ball.",
+      "original_words": 141,
+      "episode_lead": "S3E10",
+      "destination": 7,
+      "disposition": "Missing-name list and demand for release retained; crowd route compressed.",
+      "review": "Compared to new prose/source notes; not independent audio verification"
+    },
+    {
+      "paragraph": 69,
+      "archived_original_line": 139,
+      "opening": "At the gate of the Wildfire home, Valentine appears with Cassius. The missing guildmaster has been confined for",
+      "original_words": 177,
+      "episode_lead": "S3E10",
+      "destination": 7,
+      "disposition": "Cassius freed/funding/ring retained; Zoltar lives, legal verdict not invented.",
+      "review": "Compared to new prose/source notes; not independent audio verification"
+    },
+    {
+      "paragraph": 70,
+      "archived_original_line": 141,
+      "opening": "Before dawn each makes ready. Koh has his back marked with protective magic in the form of a",
+      "original_words": 96,
+      "episode_lead": "S3E10",
+      "destination": 7,
+      "disposition": "Preparatory shopping/ring trade retained broadly; exact items/costs in source.",
+      "review": "Compared to new prose/source notes; not independent audio verification"
+    },
+    {
+      "paragraph": 71,
+      "archived_original_line": 143,
+      "opening": "Another memory from the spa returns to Krandal, darker even than the first. The aboleth had told him",
+      "original_words": 160,
+      "episode_lead": "S3E10",
+      "destination": 7,
+      "disposition": "Curse recollection/crypt consultation retained; warriors choose their fate.",
+      "review": "Compared to new prose/source notes; not independent audio verification"
+    },
+    {
+      "paragraph": 72,
+      "archived_original_line": 145,
+      "opening": "Krandal bows and asks what he can do for Chad Brad. The minotaurs do not ask him to",
+      "original_words": 156,
+      "episode_lead": "S3E10",
+      "destination": 7,
+      "disposition": "Nine warriors plus rebuilt Chad total ten; no living resurrection.",
+      "review": "Compared to new prose/source notes; not independent audio verification"
+    },
+    {
+      "paragraph": 73,
+      "archived_original_line": 147,
+      "opening": "When the new morning dawns, one further surprise waits in the potato field. A silver chain and a",
+      "original_words": 118,
+      "episode_lead": "S3E10",
+      "destination": 7,
+      "disposition": "Rest and dawn censer retained; duplicate prospective morning corrected.",
+      "review": "Compared to new prose/source notes; not independent audio verification"
+    },
+    {
+      "paragraph": 74,
+      "archived_original_line": 149,
+      "opening": "The next morning the old Guild returns to the depths. Cassius has divided his forces: bronze and wood",
+      "original_words": 191,
+      "episode_lead": "S3E11",
+      "destination": 8,
+      "disposition": "Authorized party/circles/elk/ten allies retained; full roster/gear in source notes.",
+      "review": "Compared to new prose/source notes; not independent audio verification"
+    },
+    {
+      "paragraph": 75,
+      "archived_original_line": 151,
+      "opening": "At the black altar the three hollows wait exactly as they were left. Koh takes the bat, hook-horror",
+      "original_words": 155,
+      "episode_lead": "S3E11",
+      "destination": 8,
+      "disposition": "Three vessels and telepathic architect retained; appearance/name uncertainty noted.",
+      "review": "Compared to new prose/source notes; not independent audio verification"
+    },
+    {
+      "paragraph": 76,
+      "archived_original_line": 153,
+      "opening": "She tells the three that Khalazar was Emperor Orgoth Argus and that his own people sealed him here",
+      "original_words": 150,
+      "episode_lead": "S3E11",
+      "destination": 8,
+      "disposition": "Attributed history/ritual instruction/gate entry retained; blood not silently applied.",
+      "review": "Compared to new prose/source notes; not independent audio verification"
+    },
+    {
+      "paragraph": 77,
+      "archived_original_line": 155,
+      "opening": "There is no wind. The dunes swallow the feet of the great majority of the companions and even",
+      "original_words": 147,
+      "episode_lead": "S3E11",
+      "destination": 8,
+      "disposition": "Desert/elk/free-action traversal retained; ruins condensed.",
+      "review": "Compared to new prose/source notes; not independent audio verification"
+    },
+    {
+      "paragraph": 78,
+      "archived_original_line": 157,
+      "opening": "Koh and Evelyn remember this light. In Khalazar's dream city it hung overhead before falling and shattering, and",
+      "original_words": 151,
+      "episode_lead": "S3E11",
+      "destination": 8,
+      "disposition": "Crystal correspondence/shard retained; mining/roper geometry archived.",
+      "review": "Compared to new prose/source notes; not independent audio verification"
+    },
+    {
+      "paragraph": 79,
+      "archived_original_line": 159,
+      "opening": "Koh goes forward alone to silence the guards. His psychic blades flash behind the obelisks and a spear",
+      "original_words": 146,
+      "episode_lead": "S3E11",
+      "destination": 8,
+      "disposition": "Guards versus nonlethal civilians retained; outside tally not rescue count.",
+      "review": "Compared to new prose/source notes; not independent audio verification"
+    },
+    {
+      "paragraph": 80,
+      "archived_original_line": 161,
+      "opening": "From afar the companions glimpse an upper balcony. A woman in a faded purple dress seems to be",
+      "original_words": 150,
+      "episode_lead": "S3E11",
+      "destination": 8,
+      "disposition": "Spider Climb/suspected Hissia/workshop/captive Withers-Wildfire retained.",
+      "review": "Compared to new prose/source notes; not independent audio verification"
+    },
+    {
+      "paragraph": 81,
+      "archived_original_line": 163,
+      "opening": "Koh creeps over the upper balcony and onto the ceiling of a bedchamber that he recognizes from the",
+      "original_words": 132,
+      "episode_lead": "S3E11",
+      "destination": 8,
+      "disposition": "Upper body/Keeves/free-action protection retained; side rooms not pre-searched.",
+      "review": "Compared to new prose/source notes; not independent audio verification"
+    },
+    {
+      "paragraph": 82,
+      "archived_original_line": 165,
+      "opening": "Then a shadow crosses the dunes. A gigantic bat flies silently to the balcony, its vast bones outlined",
+      "original_words": 120,
+      "episode_lead": "S3E11",
+      "destination": 8,
+      "disposition": "Bat arrival/clicking/urgency retained; jewelry details archived.",
+      "review": "Compared to new prose/source notes; not independent audio verification"
+    },
+    {
+      "paragraph": 83,
+      "archived_original_line": 167,
+      "opening": "Darmah has chalk enough for two gates home. The unconscious cannot be piled on top of one another",
+      "original_words": 164,
+      "episode_lead": "S3E11",
+      "destination": 8,
+      "disposition": "Proposed cure, actual diversion and circle prep retained; no early evacuation.",
+      "review": "Compared to new prose/source notes; not independent audio verification"
+    },
+    {
+      "paragraph": 84,
+      "archived_original_line": 169,
+      "opening": "When Evelyn's enormous pursuer reaches her in the dunes, it is not only the great bat she fears",
+      "original_words": 165,
+      "episode_lead": "S3E12",
+      "destination": 9,
+      "disposition": "Solo bat kill/elk banishment retained; mount not permanently dead.",
+      "review": "Compared to new prose/source notes; not independent audio verification"
+    },
+    {
+      "paragraph": 85,
+      "archived_original_line": 171,
+      "opening": "In the pyramid Krandal and Koh have been gathering the people who remain. Koh disables the last exhausted",
+      "original_words": 168,
+      "episode_lead": "S3E12",
+      "destination": 9,
+      "disposition": "First circle/eight-two minotaur split retained; no audited rescue total.",
+      "review": "Compared to new prose/source notes; not independent audio verification"
+    },
+    {
+      "paragraph": 86,
+      "archived_original_line": 173,
+      "opening": "Passing the great unfinished statue on the way, Evelyn stops to cut the hoses that feed it. Black",
+      "original_words": 142,
+      "episode_lead": "S3E12",
+      "destination": 9,
+      "disposition": "Tubes cut/provision rooms and captives retained; no proved poison.",
+      "review": "Compared to new prose/source notes; not independent audio verification"
+    },
+    {
+      "paragraph": 87,
+      "archived_original_line": 175,
+      "opening": "At the far end of the corridor the woman they had seen through the balcony is no longer",
+      "original_words": 129,
+      "episode_lead": "S3E12",
+      "destination": 9,
+      "disposition": "Hissia/Keeves confirmed and carried unconscious retained.",
+      "review": "Compared to new prose/source notes; not independent audio verification"
+    },
+    {
+      "paragraph": 88,
+      "archived_original_line": 177,
+      "opening": "Only the old corpse remains. Koh reaches into his bag and brings out the three urns, offering one",
+      "original_words": 102,
+      "episode_lead": "S3E12",
+      "destination": 9,
+      "disposition": "Organs placed from behind/beating heart retained; applied blood unshown.",
+      "review": "Compared to new prose/source notes; not independent audio verification"
+    },
+    {
+      "paragraph": 89,
+      "archived_original_line": 179,
+      "opening": "Time rushes around them. They see a city lit by the enormous floating blue crystal, its markets full",
+      "original_words": 143,
+      "episode_lead": "S3E12",
+      "destination": 9,
+      "disposition": "Shared tyrant/organ-removal vision retained; ancestry not certified genealogy.",
+      "review": "Compared to new prose/source notes; not independent audio verification"
+    },
+    {
+      "paragraph": 90,
+      "archived_original_line": 181,
+      "opening": "The Delvers find themselves standing in that city, far from the emperor. Koh's mental bond has carried Dominic",
+      "original_words": 127,
+      "episode_lead": "S3E12",
+      "destination": 9,
+      "disposition": "Apparent rebuilt city and linked allies retained as psychic space.",
+      "review": "Compared to new prose/source notes; not independent audio verification"
+    },
+    {
+      "paragraph": 91,
+      "archived_original_line": 183,
+      "opening": "A perfect psychic blow from Koh breaks the shimmer of protection around the emperor. Evelyn's radiant sword and",
+      "original_words": 152,
+      "episode_lead": "S3E12",
+      "destination": 9,
+      "disposition": "Near deaths, potion/healing chain and ally injuries retained; no PC death.",
+      "review": "Compared to new prose/source notes; not independent audio verification"
+    },
+    {
+      "paragraph": 92,
+      "archived_original_line": 185,
+      "opening": "Koh does not let the monster choose another victim. He leaps onto the roof beside Khalazar and draws",
+      "original_words": 154,
+      "episode_lead": "S3E12",
+      "destination": 9,
+      "disposition": "Rapier transition/joint heart kill/collapse/second circle retained; revival gap noted.",
+      "review": "Compared to new prose/source notes; not independent audio verification"
+    },
+    {
+      "paragraph": 93,
+      "archived_original_line": 187,
+      "opening": "The basement is crowded with rescued elves receiving the attentions of healers. Nopa Ropa kneels beside Hissia; she",
+      "original_words": 102,
+      "episode_lead": "S3E12",
+      "destination": 9,
+      "disposition": "Hissia wakes/kisses Nopa, all ten rest, three Delvers survive.",
+      "review": "Compared to new prose/source notes; not independent audio verification"
+    },
+    {
+      "paragraph": 94,
+      "archived_original_line": 189,
+      "opening": "In time the dungeon creatures grow quiet and the stain upon Noble Hollow lifts. What was rotten earth",
+      "original_words": 152,
+      "episode_lead": "S3E12",
+      "destination": "One year later",
+      "disposition": "Completed one-year lives, fertile land and tame Scroungy retained.",
+      "review": "Compared to new prose/source notes; not independent audio verification"
+    },
+    {
+      "paragraph": 95,
+      "archived_original_line": 191,
+      "opening": "The tower at Splenderbelt Farm rises again, a new home for the Delvers. In its quiet room the",
+      "original_words": 111,
+      "episode_lead": "S3E12",
+      "destination": "One year later",
+      "disposition": "Rebuilt tower/invitation/sealed letter retained; groom variant in note, no ceremony/sequel.",
+      "review": "Compared to new prose/source notes; not independent audio verification"
+    }
+  ]
+}

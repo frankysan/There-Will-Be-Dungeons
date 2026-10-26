@@ -186,3 +186,22 @@ Current dispositions supersede the first checkpoint's earlier outlined status fo
 | Campaign/narrative portals and chapter maps | Updated to reflect the two completed consolidations |
 
 The 215 protected-file hashes cover world Markdown, episode dossiers, Season One/Three, earlier detailed studies and Delvers SRTs. This task edits no source media and performs no audio or new ASR review. No commit or push was performed by this task. Whole-campaign factual acceptance and a rendered-site preview are not claimed.
+
+### Third implementation checkpoint — Season Three
+
+**2026-10-26: Season Three consolidated and structurally validated.** [Coverage report](../reports/DELVERS_SEASON_THREE_CONSOLIDATION_2026-10-26.md) · [Paragraph ledger](DELVERS_SEASON_THREE_COVERAGE.json) · [Preserved originals](../research/legacy/2026-10-26/delvers-season-three-consolidation/README.md) · [Validation](DELVERS_SEASON_THREE_VALIDATION.json).
+
+All 95 former prose paragraphs have recorded dispositions. The 13,724-word body becomes 3,802 words, including a 51-word introduction and 147-word one-year epilogue. Nine main chapters contain 367, 382, 397, 381, 387, 382, 413, 415 and 480 words. Gate entry and preparation now precede a separate finale, retaining both evacuations, the joint final blow, reciprocal healing and the minotaurs' chosen rest. The original title/path and horizon-note key remain; the formerly unreferenced horizon note is now attached to the opening.
+
+Six current working copies were preserved with original hashes and rebased reading copies. The 215 protected-file hashes cover world Markdown, all Delvers episode dossiers, Season One/Two, earlier studies and Delvers SRTs. No world article, earlier narrative, episode dossier or source media was rewritten in this slice. No audio/new ASR review, original handout inspection, naming resolution or issue closure is claimed. No commit or push was performed by this task.
+
+Current dispositions supersede the earlier outlined status for Season Three:
+
+| Work | Current state |
+| --- | --- |
+| All three primary narratives | Preserved, consolidated and structurally validated in bounded checkpoints |
+| Season Three finale/epilogue | Actual defeat, rescues and completed year retained; invitation remains future and letter unopened |
+| World subjects | Structural inventory only; domain-specific pilots next |
+| Claim-level source verification | Existing dossier limits remain; unresolved listening/source-identity questions stay open |
+
+Proceed with Koh, the guild, the three urns and one short place/creature pilot before broader world rollout. Functional chronology, ledger and specialist registers retain their evidence functions. Full world acceptance and a rendered-site preview remain pending.

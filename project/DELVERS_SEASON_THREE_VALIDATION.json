@@ -1,0 +1,81 @@
+{
+  "date": "2026-10-26",
+  "status": "passed",
+  "scope": [
+    "delvers/narrative/SEASON_THREE.md",
+    "delvers/narrative/README.md",
+    "delvers/README.md",
+    "project/DELVERS_CAMPAIGN_CLEANUP_PLAN.md",
+    "project/DELVERS_CLEANUP_MANIFEST.md",
+    "project/DELVERS_NARRATIVE_CHAPTER_MAPS.md",
+    "reports/DELVERS_SEASON_THREE_CONSOLIDATION_2026-10-26.md"
+  ],
+  "local_link_and_fragment_checks": 481,
+  "maintained_inbound_fragment_checks": 1,
+  "errors": [],
+  "archive_originals_sha256_verified": 6,
+  "archive_reading_copy_targets_equivalent": true,
+  "protected_file_hashes_verified": 215,
+  "old_prose_paragraphs_accounted_for": 95,
+  "old_heading_anchors_retained": 1,
+  "horizon_note_now_referenced": true,
+  "footnotes": {
+    "references": 16,
+    "definitions": 16,
+    "undefined": [],
+    "orphan_definitions": []
+  },
+  "main_text_episode_ids_and_research_flags": false,
+  "prose_counts": [
+    {
+      "heading": "# Season Three — After the Broken Ball",
+      "words": 51
+    },
+    {
+      "heading": "## 1. The broken night",
+      "words": 367
+    },
+    {
+      "heading": "## 2. The lives they choose",
+      "words": 382
+    },
+    {
+      "heading": "## 3. Licensed depths",
+      "words": 397
+    },
+    {
+      "heading": "## 4. The sealed way",
+      "words": 381
+    },
+    {
+      "heading": "## 5. The lives that never happened",
+      "words": 387
+    },
+    {
+      "heading": "## 6. The third vessel",
+      "words": 382
+    },
+    {
+      "heading": "## 7. Atomer's reckoning",
+      "words": 413
+    },
+    {
+      "heading": "## 8. Beyond the triangle gate",
+      "words": 415
+    },
+    {
+      "heading": "## 9. The heart beneath the dunes",
+      "words": 480
+    },
+    {
+      "heading": "## One year later",
+      "words": 147
+    }
+  ],
+  "old_main_prose_words": 13724,
+  "new_main_prose_words": 3802,
+  "largest_chapter_to_median": 1.24,
+  "markdownlint": "7 changed maintained Markdown files passed",
+  "whitespace": "Scoped Git diff and direct whitespace/final-newline scan passed",
+  "limits": "Editorial review of old narrative and targeted existing dossier excerpts, not independent full transcript interpretation. No audio, media rehash, original map/sheet review, rendered-site preview, remote URL verification or whole-world factual acceptance."
+}
