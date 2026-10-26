@@ -30,7 +30,7 @@ Our goal is **one clear reader-facing account per purpose**, with linked evidenc
 
 ## Canonical pages, transitional pages and archives
 
-- **Immediate reader entry points**: repository [README](../README.md), [narrative index](../narrative/README.md), [Arc One](../narrative/ARC_ONE.md) and [Arc Two](../narrative/ARC_TWO.md), [world index](../world/README.md).
+- **Immediate reader entry points**: repository [README](../README.md), [narrative index](../narrative/README.md), completed [Arcs One–Five](../narrative/ARC_ONE.md), ongoing [Arc Six — Seasons Two–Three](../narrative/ARC_SIX.md), and [world index](../world/README.md).
 - **Episode-specific research entry point**: `episodes/E###.md`, with `episodes/BONUS-2019-03.md` under its own namespace. Keep time-code tables and doubts here even if a world fact is later resolved.
 - **World reference status**: `world/README.md` now exposes seven reader-oriented categories; `CHARACTERS.md`, `PLACES.md` and `WORLD.md` are concise indexes/thematic overviews, linking to detailed profiles in `world/characters/`, `world/places/` and `world/technology/`. Antagonists, artifacts, factions and historical events have their own topical indexes; `CHRONOLOGY.md` retains the **single episode-ordered E000–E128 Season One main-party timeline** (with E127 separately classified). The longer E118-era working versions of the three rewritten files are frozen in [the 2026-10-22 research archive](../research/legacy/2026-10-22/README.md), with links rebased. Earlier compendia remain in `research/legacy/2026-10-21/`; the E081-era history, chronology, ledger and review-queue archival snapshots are also retained. Nothing here implies audio verification.
 - **Historical long-form README inventories** are copied into `research/legacy/2026-10-21/` before replacing their index pages. They are historical research snapshots; the new indexes and arc narrative are the preferred reading experience. Git history retains every original text revision.
@@ -51,6 +51,8 @@ README.md                         Project navigation and research horizon
 narrative/
   README.md                       Story-first entry point
   ARC_ONE.md ... ARC_FIVE.md      All five Season One arcs completed, eight chapters each
+  ARC_SIX.md                     One ongoing arc covering Seasons Two–Three (reviewed through S3E01)
+  SEASON_TWO.md, SEASON_THREE.md  Compatibility links to ARC_SIX.md; not independent narratives
 world/
   README.md                       Seven top-level subject categories
   CHARACTERS.md                   People and allies index

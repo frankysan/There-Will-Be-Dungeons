@@ -88,7 +88,7 @@ Create/update these layers **in priority order**, using existing adjacent episod
 
 **Wastes main-campaign follow-through (only material changes)**
 4. `world/CHRONOLOGY.md` and `world/CONSISTENCY_LEDGER.md`: compact major-event/cutoff changes and previously unresolved statuses, avoiding repeated full retellings.
-5. The appropriate narrative, `narrative/ARC_ONE.md` through `ARC_FIVE.md` (see `narrative/README.md` for boundaries): readable connected scenes for main episodes if warranted; prefer consolidation over adding a full duplicate dossier per chapter.
+5. The appropriate canonical narrative, `narrative/ARC_ONE.md` through `ARC_SIX.md` (see `narrative/README.md` for boundaries): readable connected scenes for main episodes if warranted; prefer consolidation over adding a duplicate dossier per chapter. **Wastes Arc Six spans BOTH Season Two and Season Three as ONE STILL-OPEN arc ([D-042/D-043](../../../project/DECISIONS.md)); for researched S3 episodes update `narrative/ARC_SIX.md`, NOT the legacy `SEASON_TWO.md` or `SEASON_THREE.md` compatibility stubs.** Do not infer completion until the Season Three ending has actually been researched.
 6. Affected `world/characters/*.md`, `world/places/*.md` and relevant artifact/thematic pages; edit only those whose evidence or current status changes.
 7. `world/CHARACTERS.md`, `world/PLACES.md`, `world/README.md`, `narrative/README.md`, root `README.md`, or architecture document: update **only outdated navigation, spoiler horizon or summaries**, not every file automatically.
 

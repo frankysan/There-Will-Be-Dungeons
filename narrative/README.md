@@ -1,8 +1,8 @@
 # The Wastes — story guide
 
-The first five completed Wastes story arcs follow Nash, Hope, Stanley and Vorel from Dusthill through the end of Season One. Season Two is separately documented and its **current story arc continues through Season Three**. **Full spoilers for reviewed episodes.**[^guide]
+The five completed Season One arcs follow Nash, Hope, Stanley and Vorel from Dusthill through E128. **[Arc Six](ARC_SIX.md) is one ongoing arc across Seasons Two and Three**, currently researched through S3E01 only. **Full spoilers for reviewed episodes.**[^guide]
 
-## The five arcs
+## Five completed Season One arcs
 
 - **[Arc One — Becoming the Heroes of the Wastes](ARC_ONE.md)** — Four travelers meet in Dusthill and follow a trail of captives into Slavetown and the Black Mine. They emerge with a new name, a troubling bargain and little agreement on what their growing power is for.[^arc-1]
 
@@ -14,13 +14,9 @@ The first five completed Wastes story arcs follow Nash, Hope, Stanley and Vorel 
 
 - **[Arc Five — No Place Like Home](ARC_FIVE.md)** — Hope pursues the Voice's promises while her friends struggle to return to Earth. Reunion brings a fragile refuge among the stars, but the fall of Elhandar leaves them together in the Wastes as a monstrous new threat burrows into their world.[^arc-5]
 
-## Season Two complete — the story arc continues
+## Arc Six — Seasons Two and Three (ongoing)
 
-The [complete Season Two narrative](SEASON_TWO.md) covers **played S2E01–S2E12**: the renewed fellowship after Elhandar's fall, the soul-debt exorcism, the transformation of Villa Ornath into Fate Six, the Council of Earthly Defenders, Planet Nash, and the search for Tungsten Wheel. The party visits Burp/Green Vale, recovers navigation coordinates and travels through the purple nebula to the spell-suppressing **Pentel Weiss**. In the prison **Badass T survives but is left in werefolk care**, while the four companions and Union **actually find and rescue Tungsten**, destroy animated rugs and a telepathic eye being, and recover **one collector-like ring**. **S2E12 — Dust to Dust** is explicitly the **Season Two finale**: a mummy lord's minions actually kill Nash, Vorel defeats the mummy lord and entombs one lich alive, Hope teleports the group back to Fate Six without Badass T, and Tungsten cures Stanley's mummy-rot curse. Nash **regenerates only to a floating dragon-metal heart with an eyestalk** after the old body dies, and the vessel escapes the prison sphere toward a planned Mars voyage. **The current story arc is NOT COMPLETE at S2E12 and must continue through the end of Season Three**, per [owner decision D-042](../project/DECISIONS.md). No new arc break at S3E01. **ASR-provisional, no original audio listened to.** [S2E11](../episodes/S2E11.md) · [S2E12 finale](../episodes/S2E12.md) · [S2E12 P/Q comparison](../reports/WASTES_S2E12_ASR_COMPARISON_2026-10-26.md) · **next source:** [S3E01 — Fly, Fools!](../sources/The%20Wastes%20S3E01.%20Fly%2C%20Fools%21.parakeet.processed.srt).
-
-## Season Three — direct continuation of the same arc
-
-[**Season Three's ongoing narrative**](SEASON_THREE.md) starts with [S3E01 — Fly, Fools!](../episodes/S3E01.md) and continues directly from the [Season Two finale](../episodes/S2E12.md), **without a new arc boundary** ([D-042](../project/DECISIONS.md)). Nash grows rapidly under Stanley's newly learned *Regenerate*, Tungsten claims he retained the Triangulosphere's missing rare material, and Fate Six escapes the nebula before an infernal ship ambushes it. The fight escalates when **the Principle/Vladimir** boards, terrifies the Voice and demands Hope's Hand. **No Mars landing, final Principle defeat or story-arc closure** has occurred by this researched cutoff. Next verified played source: [S3E02 — A New Mouth to Feed](../sources/The%20Wastes%20S3E02.%20A%20New%20Mouth%20to%20Feed.parakeet.processed.srt), not analyzed. [Two-ASR audit](../reports/WASTES_S3E01_ASR_COMPARISON_2026-10-26.md).
+**[Arc Six — The Wastes (Seasons Two–Three)](ARC_SIX.md)** is the **single canonical narrative** for the renewed fellowship after Elhandar, the transformation of Villa Ornath into Fate Six, the search for Tungsten Wheel and the Rubistic Triangulosphere, the escape from Pentel Weiss and Nash's death/regeneration. **Season Two covers played S2E01–S2E12 and ends at S2E12, but the arc does NOT end there.** The continuous story next follows **played S3E01 — Fly, Fools!**: Stanley's *Regenerate*, Tungsten's claim to have concealed the missing reagent, Fate Six's escape from the nebula, Hell's harpoon ambush and the Principle's direct confrontation with Hope. **Arc Six remains unresolved, in keeping with owner decision [D-042](../project/DECISIONS.md), and is intended to continue through the end of Season Three.** The **current research cutoff is S3E01 only**; **S3E02 and later are not yet incorporated**. No original audio was reviewed; the prose is ASR-provisional. [S2E12 finale dossier](../episodes/S2E12.md) · [S3E01 dossier](../episodes/S3E01.md) · [S3E01 ASR comparison](../reports/WASTES_S3E01_ASR_COMPARISON_2026-10-26.md) · [next source S3E02](../sources/The%20Wastes%20S3E02.%20A%20New%20Mouth%20to%20Feed.parakeet.processed.srt).
 
 ## Notes
 
