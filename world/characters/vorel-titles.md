@@ -1,6 +1,10 @@
 # Vorel — titles and epithets register
 
-**Type:** Source-indexed supporting register for [Vorel](vorel.md), deliberately separated from the main character biography. **Evidence:** ASR-provisional, with source windows, name variants and social standing preserved. **Spoilers:** Through E128; Q&As are retrospective, not played conferrals. [Characters](../CHARACTERS.md) · [World portal](../README.md).
+**Type:** Source-indexed supporting register for [Vorel](vorel.md), deliberately separated from the main character biography. **Evidence:** ASR-provisional, with source windows, name variants and social standing preserved. **Spoilers:** Through Wastes S2E01; Q&As are retrospective, not played conferrals. [Characters](../CHARACTERS.md) · [World portal](../README.md).
+
+## S2E01 — expanded Hunter title, no new office
+
+At ~00:42:39, Vorel calls himself **“Hunter of the Great Elven Woods”** during a loud recital intended to challenge an unknown presence. This is a longer variant of his S1E117 **“Hunter of the Elven Woods,”** not a fresh hunt or award. **Keeper of Stories, Butcher of the Barosaurus and Deceiver of the Cheater Diontalus** are also re-recited, not new grants. [Dossier](../../episodes/S2E01.md) · [comparison](../../reports/WASTES_S2E01_ASR_COMPARISON_2026-10-26.md). Source wording ASR-provisional, no audio listening.
 
 ## E128 — king-of-space idea repeated, no change of status
 
