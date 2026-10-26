@@ -38,5 +38,29 @@
   "limits": [
     "No new ASR, audio, remote URL or rendered-site review",
     "Section dispositions and material-claim review, not sentence-by-sentence audio verification"
-  ]
+  ],
+  "markdownlint": {
+    "maintained_files": 7,
+    "violations": 0,
+    "exit_code": 0,
+    "archives": "Excluded by repository wrapper; reading copies checked for hashes, links and target equivalence."
+  },
+  "whitespace": {
+    "scoped_git_diff_check_exit_code": 0,
+    "direct_new_markdown_trailing_whitespace_errors": 0
+  },
+  "manual_review": [
+    "Both complete pre-edit profiles and final main accounts read",
+    "All pre-edit relative link targets retained",
+    "Observed face change, memory testimony, institutional judgment and later analogy remain distinct",
+    "Reported reassignment does not establish performed rehabilitation or completed reform",
+    "Sword handback remains retrospective without exact played timestamp or audited final inventory"
+  ],
+  "proportion_review": "Broadside first arc has 202 words, versus later 85/51-word observations. Reviewed for combat recap; retained for capture, mercy, memory, offered redemption, restraint, survival and restored trust. Later sections are not comparably developed arcs and are not padded.",
+  "protected_file_groups": {
+    "campaign_files": 215,
+    "prior_character_batch_artifacts": 18,
+    "bonus_provenance_documents": 2
+  },
+  "concurrent_work": "Existing Delvers family/control changes preserved; active Wastes source/report/world work left untouched."
 }

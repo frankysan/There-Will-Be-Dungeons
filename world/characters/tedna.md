@@ -1,12 +1,18 @@
 # Tedna
 
-**Other names/ASR:** `Ted` in some early contexts. The name **Tedna** has cast-written evidence from Beau ([Discord report](../../reports/DISCORD_SPELLING_2026-10-21.md)). **Identity:** Young follower of the group, especially attached to Hope. **Status:** **Dead in E050**, after being **rescued alive in E048**. **Spoilers:** Through S2E08 (original Tedna dies E050; alternate later).
+**Other names/ASR:** `Ted` in some early contexts. The name **Tedna** has cast-written evidence from Beau ([Discord report](../../reports/DISCORD_SPELLING_2026-10-21.md)). **Identity:** Young follower of the group, especially attached to Hope. **Status:** **Dead in E050**, after being **rescued alive in E048**. **Spoilers:** Through played S2E09 and March 2022 out-of-game bonus (original Tedna dies E050; separate alternate counterpart survives).
 
 Tedna is introduced as a young **stowaway in Fate 4** during E027, eager to become an adventurer. An overturned vehicle leaves him hurt, but alive. He follows the group toward **Tietkalla**, survives the oil-sands crisis and takes increasing risks to help Hope.
 
 Within Trashburg he investigates opportunities to infiltrate the keep through its **wedding and catering preparations**. A letter or message from Tedna helps the group identify possible interior routes and political facts, though not every privately transmitted page is preserved publicly. He is detained inside the fortress; in E048 the party **directly finds and frees Tedna and Bok Bok alive** from prison cells. He reports that **Angelashi** was taken to a pit, but this remains **his secondhand account** and is disproved as a death report by her direct rescue in E054.
 
 The reunion is brief. Tedna becomes gravely injured during the warehouse fighting around E049–E050. **Diontalus's Spare the Dying** temporarily stabilizes him, but he still needs urgent healing. In E050 **Tedna dies after a final exchange with Hope**. Hope's distorted vision of his ascent to a steel heaven is **pixie-blush-affected perception**, not confirmation of the cosmology of the setting. His death remains real despite the unreliability of those images.
+
+## S2E09 — alternate Badass T left in werefolk care, still alive
+
+In [played S2E09](../../episodes/S2E09.md), alternate **Badass T is severely injured by Torbeer the werebear**, thrown into a wall/cage and falls unconscious. **Stanley actually STABILIZES him** after a failed death save. **New fur begins growing from under his mask**, and Grandma Tilly **CLAIMS he contracted bear lycanthropy** from the bite; **no complete werebear change, healed missing lips, or reversal is depicted**. Four heroes and Union **ACTUALLY leave unconscious Badass T with the werefolk** and proceed to Tungsten. This **does not resurrect original Tedna**, nor prove his alternate will be safe or cured. [P/Q audit](../../reports/WASTES_S2E09_ASR_COMPARISON_2026-10-26.md).
+
+**March 2022 creator Q&A:** Listener asks whether the altered alternate T will **regrow missing lips or other parts**. Beau explicitly says **the bite was not planned and he is still deciding what lycanthropy will do**. **No regrowth announced, no follow-up played scene and no confirmed complete transformation**. Beau's joking explanation that werefolk might avoid consuming mages because of unpredictable adverse magical effects is **speculation**, not proof T has eaten wizards or been cured. [Bonus](../../episodes/BONUS-2022-03.md) ~00:00:40–00:02:14 · [ASR audit](../../reports/BONUS_2022-03_ASR_COMPARISON_2026-10-26.md).
 
 ## S2E08 — alternate Badass T confirmed ALIVE beyond prison intake
 

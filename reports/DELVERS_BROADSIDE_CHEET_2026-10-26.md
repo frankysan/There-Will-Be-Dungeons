@@ -47,7 +47,7 @@ Broadside's first arc exceeds twice the median section length and was reviewed f
 
 The [validation artifact](../project/DELVERS_BROADSIDE_CHEET_VALIDATION.json) records local relative file/fragment and maintained inbound links, all former targets, complete footnotes, unique anchors, introduction/final-status order, visible-prose checks, six original hashes, reading-copy target equivalence and all 235 protected hashes. MP3s are outside the write scope and were not rehashed or listened to.
 
-Focused Markdownlint and scoped whitespace checks accompany this checkpoint. The repository wrapper excludes historical reading copies, which instead receive hash/link/rebasing checks. Local-link checks ignore fenced illustrative Markdown. No remote URL check, rendered-site preview or whole-world factual acceptance is claimed. No commit or push was performed by this task.
+Focused Markdownlint passed for seven maintained Markdown files with zero violations. Scoped Git whitespace and direct new-file whitespace checks passed. Local validation checked 778 relative file/fragment links and 24 maintained inbound links with zero errors. The repository wrapper excludes historical reading copies, which instead receive hash/link/rebasing checks. Local-link checks ignore fenced illustrative Markdown. No remote URL check, rendered-site preview or whole-world factual acceptance is claimed. No commit or push was performed by this task.
 
 ## Next bounded work
 
