@@ -1,6 +1,6 @@
 # Vorel
 
-**Portrayed by:** Kyle. **Identity:** Lizardfolk warrior and leader, protector of **Bok Bok**, bearer of the **Eye of Groxl** and claimant to many personal titles. **Spoilers:** Main Wastes through **S2E06** and cast Q&As. **Evidence:** ASR-provisional except owner-confirmed item/name orthography.[^march21]
+**Portrayed by:** Kyle. **Identity:** Lizardfolk warrior and leader, protector of **Bok Bok**, bearer of the **Eye of Groxl** and claimant to many personal titles. **Spoilers:** Main Wastes through **S2E07** and cast Q&As. **Evidence:** ASR-provisional except owner-confirmed item/name orthography.[^march21]
 
 **Browse:** [Characters](../CHARACTERS.md) · [His source-indexed titles](vorel-titles.md) · [Eye of Groxl](../technology/eye-of-groxl.md) · [World portal](../README.md).
 
@@ -81,6 +81,10 @@ In **E114**, Vorel still handles Squirts's ashes and defends the elven vessel fr
 **E117:** Vorel witnesses Hope return, supports a chance for dialogue without absolving her and helps look after **Chunks**, Squirts's surviving child. He joins the refugees' ceremony and is called **Keeper of Stories**. He smells evidence that lizardfolk are nearby in the Elhandar forest but does **not** locate Omnom that episode. [E117](../../episodes/E117.md).
 
 **E118:** Vorel **actually finds Omnom Cinderborn alive**, severely injured and grieving Razak Val. Omnom charges Hope, but **Stanley's Hold Person** stops the attack. Vorel takes Omnom aside and refuses his request to be killed; **Omnom recounts his losses and accuses Hope of intentional wrongdoing**, while Hope offers a different explanation. Vorel persuades him to attempt a **hunt the next morning** with the four companions, but **no hunt or full reconciliation occurs before the E118 cutoff**. Omnom addresses Vorel as **Great Fang**, a renewed personal recognition of an existing title rather than new political coronation. [E118](../../episodes/E118.md) · [Omnom](omnom-cinderborn.md).
+
+## S2E07 — guarded rest, whale encounter and prison entry
+
+In [S2E07](../../episodes/S2E07.md), Vorel helps **normal-form Nash sleep** to recover ability scores, although **he privately tells Stanley he prefers the latter's WIS-3 boldness** and suggests keeping Stanley from resting. That plan **does not succeed**: Stanley restores Wisdom himself. Vorel plays ghost poker, tries to intimidate a three-eyed whale unsuccessfully, and survives the dangerous nebula traversal as **all three new orcs die**. He accompanies the party into the **Pentel Weiss pyramid**, asks its stone warden about collector access, and suggests presenting **Badass T as an inmate**; warden finds no listing, and Badass T then jumps into the shaft. Vorel's social conversations with guardian Union Wheel are **not formal new titles**; [title register](vorel-titles.md) notes the negative check. [P/Q report](../../reports/WASTES_S2E07_ASR_COMPARISON_2026-10-26.md).
 
 ## S2E06 — teller-cage passage, hidden vault and marauder leader
 

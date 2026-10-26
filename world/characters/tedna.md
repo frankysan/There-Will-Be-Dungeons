@@ -1,12 +1,16 @@
 # Tedna
 
-**Other names/ASR:** `Ted` in some early contexts. The name **Tedna** has cast-written evidence from Beau ([Discord report](../../reports/DISCORD_SPELLING_2026-10-21.md)). **Identity:** Young follower of the group, especially attached to Hope. **Status:** **Dead in E050**, after being **rescued alive in E048**. **Spoilers:** Through S2E06 (original Tedna dies E050; alternate later).
+**Other names/ASR:** `Ted` in some early contexts. The name **Tedna** has cast-written evidence from Beau ([Discord report](../../reports/DISCORD_SPELLING_2026-10-21.md)). **Identity:** Young follower of the group, especially attached to Hope. **Status:** **Dead in E050**, after being **rescued alive in E048**. **Spoilers:** Through S2E07 (original Tedna dies E050; alternate later).
 
 Tedna is introduced as a young **stowaway in Fate 4** during E027, eager to become an adventurer. An overturned vehicle leaves him hurt, but alive. He follows the group toward **Tietkalla**, survives the oil-sands crisis and takes increasing risks to help Hope.
 
 Within Trashburg he investigates opportunities to infiltrate the keep through its **wedding and catering preparations**. A letter or message from Tedna helps the group identify possible interior routes and political facts, though not every privately transmitted page is preserved publicly. He is detained inside the fortress; in E048 the party **directly finds and frees Tedna and Bok Bok alive** from prison cells. He reports that **Angelashi** was taken to a pit, but this remains **his secondhand account** and is disproved as a death report by her direct rescue in E054.
 
 The reunion is brief. Tedna becomes gravely injured during the warehouse fighting around E049–E050. **Diontalus's Spare the Dying** temporarily stabilizes him, but he still needs urgent healing. In E050 **Tedna dies after a final exchange with Hope**. Hope's distorted vision of his ascent to a steel heaven is **pixie-blush-affected perception**, not confirmation of the cosmology of the setting. His death remains real despite the unreliability of those images.
+
+## S2E07 — alternate Badass T enters Pentel Weiss shaft; fate unresolved
+
+After the [S2E07](../../episodes/S2E07.md) nebula voyage on Fate Six, **alternate Badass T physically enters the pyramid of Pentel Weiss** with four heroes and Union Wheel. The prison warden refuses to recognize them as authorized collectors, and rejects **Tedna Garfield** (Badass T's reluctantly stated *former surname*, ASR-provisional) as a listed criminal. **Hope asks him to test the intake shaft**, and he **actually jumps into the deep opening with knives drawn**, the sound disappearing. **The episode stops before revealing whether he survives, is arrested, escapes or reaches any prisoner**. He is **not verified dead**, and no evidence reverses the **original Tedna's E050 death**. [P/Q audit](../../reports/WASTES_S2E07_ASR_COMPARISON_2026-10-26.md).
 
 ## S2E06 — alternate Badass T captured and freed alive
 

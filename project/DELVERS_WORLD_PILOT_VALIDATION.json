@@ -1,0 +1,119 @@
+{
+  "date": "2026-10-26",
+  "status": "passed",
+  "scope": [
+    "delvers/world/characters/koh-spiros.md",
+    "delvers/world/places/delvers-guild.md",
+    "delvers/world/items/three-urns-triangle-gate.md",
+    "delvers/world/creatures/skeletal-bat-balcony.md",
+    "delvers/world/README.md",
+    "project/DELVERS_CAMPAIGN_CLEANUP_PLAN.md",
+    "project/DELVERS_CLEANUP_MANIFEST.md",
+    "project/DELVERS_NARRATIVE_CHAPTER_MAPS.md",
+    "reports/DELVERS_WORLD_PILOTS_2026-10-26.md"
+  ],
+  "local_link_and_fragment_checks": 913,
+  "maintained_inbound_fragment_checks": 1,
+  "errors": [],
+  "archive_originals_sha256_verified": 8,
+  "reading_copy_link_equivalence": "All targets equivalent except the single recorded inherited bonus-link correction",
+  "protected_file_hashes_verified": 213,
+  "old_sections_accounted_for": 73,
+  "subjects": [
+    {
+      "path": "delvers/world/characters/koh-spiros.md",
+      "before_words": 7981,
+      "after_words": 965,
+      "old_heading_anchors_retained": 44,
+      "footnote_references": 11,
+      "footnote_definitions": 11,
+      "arc_words": [
+        {
+          "heading": "Arc One — Secrecy and shared trust",
+          "words": 220
+        },
+        {
+          "heading": "Arc Two — Old obligations and a new purpose",
+          "words": 256
+        },
+        {
+          "heading": "Arc Three — Protection, defiance and responsibility",
+          "words": 270
+        }
+      ],
+      "first_section": "Introduction",
+      "last_section": "Current status",
+      "visible_research_apparatus": false
+    },
+    {
+      "path": "delvers/world/places/delvers-guild.md",
+      "before_words": 2515,
+      "after_words": 799,
+      "old_heading_anchors_retained": 19,
+      "footnote_references": 8,
+      "footnote_definitions": 8,
+      "arc_words": [
+        {
+          "heading": "Arc One — Employment and public duty",
+          "words": 248
+        },
+        {
+          "heading": "Arc Two — Patronage and its dangers",
+          "words": 225
+        },
+        {
+          "heading": "Arc Three — Silver City and the return to rescue",
+          "words": 207
+        }
+      ],
+      "first_section": "Introduction",
+      "last_section": "Current status",
+      "visible_research_apparatus": false
+    },
+    {
+      "path": "delvers/world/items/three-urns-triangle-gate.md",
+      "before_words": 1111,
+      "after_words": 468,
+      "old_heading_anchors_retained": 8,
+      "footnote_references": 5,
+      "footnote_definitions": 5,
+      "arc_words": [
+        {
+          "heading": "Arc Three — A heart taken from the slime",
+          "words": 57
+        },
+        {
+          "heading": "Arc Three — Three vessels reunited",
+          "words": 125
+        },
+        {
+          "heading": "Arc Three — The gate and the body",
+          "words": 187
+        }
+      ],
+      "first_section": "Introduction",
+      "last_section": "Current status",
+      "visible_research_apparatus": false
+    },
+    {
+      "path": "delvers/world/creatures/skeletal-bat-balcony.md",
+      "before_words": 372,
+      "after_words": 199,
+      "old_heading_anchors_retained": 2,
+      "footnote_references": 3,
+      "footnote_definitions": 3,
+      "arc_words": [
+        {
+          "heading": "Arc Three — The pursuit across the dunes",
+          "words": 94
+        }
+      ],
+      "first_section": "Introduction",
+      "last_section": "Current status",
+      "visible_research_apparatus": false
+    }
+  ],
+  "markdownlint": "9 changed maintained Markdown files passed",
+  "whitespace": "Scoped Git diff and direct whitespace/final-newline scan passed",
+  "limits": "Subject-focused editorial review using existing profiles/dossiers; no new audio/SRT, original maps/sheets, media rehash, remote URL verification, rendered-site preview, naming decisions or whole-world acceptance."
+}

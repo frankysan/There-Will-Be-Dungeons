@@ -1,0 +1,902 @@
+{
+  "date": "2026-10-26",
+  "method": "Every original heading/subsection maps to a new subject-focused section or attributed source note. Exact original and all former paragraph/table details remain in the archive; this is disposition accounting, not new ASR/listening acceptance.",
+  "sections": [
+    {
+      "path": "delvers/world/characters/koh-spiros.md",
+      "old_heading": "Koh Spiros — rogue",
+      "old_level": 1,
+      "old_anchor": "koh-spiros--rogue",
+      "destination": "## Introduction",
+      "disposition": "Character-level motivation, relationships and agency retained in chronological arc; tactical/item ledger retained in notes/archive.",
+      "status": "reviewed and migrated",
+      "old_source_ids_found": []
+    },
+    {
+      "path": "delvers/world/characters/koh-spiros.md",
+      "old_heading": "Out-of-game post-finale family and Penny visual confirmation (BONUS-2021-11-13)",
+      "old_level": 2,
+      "old_anchor": "out-of-game-post-finale-family-and-penny-visual-confirmation-bonus-2021-11-13",
+      "destination": "[^koh-status]:",
+      "disposition": "Retrospective/design material moved to attributed source note and preserved archive; not lived history.",
+      "status": "reviewed and migrated",
+      "old_source_ids_found": [
+        "BONUS-2021-11-13"
+      ]
+    },
+    {
+      "path": "delvers/world/characters/koh-spiros.md",
+      "old_heading": "Out-of-game character intentions and abandoned Silver names (October-called bonus archived 2021-11-10)",
+      "old_level": 2,
+      "old_anchor": "out-of-game-character-intentions-and-abandoned-silver-names-october-called-bonus-archived-2021-11-10",
+      "destination": "[^koh-status]:",
+      "disposition": "Retrospective/design material moved to attributed source note and preserved archive; not lived history.",
+      "status": "reviewed and migrated",
+      "old_source_ids_found": [
+        "BONUS-2021-11-10",
+        "S3E12"
+      ]
+    },
+    {
+      "path": "delvers/world/characters/koh-spiros.md",
+      "old_heading": "Out-of-game narrative design (September 2021 bonus)",
+      "old_level": 2,
+      "old_anchor": "out-of-game-narrative-design-september-2021-bonus",
+      "destination": "[^koh-status]:",
+      "disposition": "Retrospective/design material moved to attributed source note and preserved archive; not lived history.",
+      "status": "reviewed and migrated",
+      "old_source_ids_found": [
+        "BONUS-2021-09"
+      ]
+    },
+    {
+      "path": "delvers/world/characters/koh-spiros.md",
+      "old_heading": "S3E12 CAMPAIGN FINALE: Frees prisoners, saves Krandal, joins killing Khalazar; teaches Guild after one year",
+      "old_level": 2,
+      "old_anchor": "s3e12-campaign-finale-frees-prisoners-saves-krandal-joins-killing-khalazar-teaches-guild-after-one-year",
+      "destination": "### Arc Three — Protection, defiance and responsibility",
+      "disposition": "Character-level motivation, relationships and agency retained in chronological arc; tactical/item ledger retained in notes/archive.",
+      "status": "reviewed and migrated",
+      "old_source_ids_found": [
+        "S3E11",
+        "S3E12",
+        "S3E13"
+      ]
+    },
+    {
+      "path": "delvers/world/characters/koh-spiros.md",
+      "old_heading": "S3E11: Opens gate with three jars; blue shard, stealth rescues and balcony infiltration",
+      "old_level": 2,
+      "old_anchor": "s3e11-opens-gate-with-three-jars-blue-shard-stealth-rescues-and-balcony-infiltration",
+      "destination": "### Arc Three — Protection, defiance and responsibility",
+      "disposition": "Character-level motivation, relationships and agency retained in chronological arc; tactical/item ledger retained in notes/archive.",
+      "status": "reviewed and migrated",
+      "old_source_ids_found": [
+        "S3E11"
+      ]
+    },
+    {
+      "path": "delvers/world/characters/koh-spiros.md",
+      "old_heading": "S3E10: All urns handed to Koh, Cassius freed, magical preparations",
+      "old_level": 2,
+      "old_anchor": "s3e10-all-urns-handed-to-koh-cassius-freed-magical-preparations",
+      "destination": "### Arc Three — Protection, defiance and responsibility",
+      "disposition": "Character-level motivation, relationships and agency retained in chronological arc; tactical/item ledger retained in notes/archive.",
+      "status": "reviewed and migrated",
+      "old_source_ids_found": [
+        "S3E08",
+        "S3E09",
+        "S3E10"
+      ]
+    },
+    {
+      "path": "delvers/world/characters/koh-spiros.md",
+      "old_heading": "S3E09: Recovered three urns, defeated grick alpha and returned via forest",
+      "old_level": 2,
+      "old_anchor": "s3e09-recovered-three-urns-defeated-grick-alpha-and-returned-via-forest",
+      "destination": "### Arc Three — Protection, defiance and responsibility",
+      "disposition": "Character-level motivation, relationships and agency retained in chronological arc; tactical/item ledger retained in notes/archive.",
+      "status": "reviewed and migrated",
+      "old_source_ids_found": [
+        "S3E09"
+      ]
+    },
+    {
+      "path": "delvers/world/characters/koh-spiros.md",
+      "old_heading": "S3E08: Rat-illusion prisoner and second urn recovered by Psychic Teleportation",
+      "old_level": 2,
+      "old_anchor": "s3e08-rat-illusion-prisoner-and-second-urn-recovered-by-psychic-teleportation",
+      "destination": "### Arc Three — Protection, defiance and responsibility",
+      "disposition": "Character-level motivation, relationships and agency retained in chronological arc; tactical/item ledger retained in notes/archive.",
+      "status": "reviewed and migrated",
+      "old_source_ids_found": [
+        "S3E07",
+        "S3E08"
+      ]
+    },
+    {
+      "path": "delvers/world/characters/koh-spiros.md",
+      "old_heading": "S3E07: Unauthorized lift pass and the activated blood amulet",
+      "old_level": 2,
+      "old_anchor": "s3e07-unauthorized-lift-pass-and-the-activated-blood-amulet",
+      "destination": "### Arc Three — Protection, defiance and responsibility",
+      "disposition": "Character-level motivation, relationships and agency retained in chronological arc; tactical/item ledger retained in notes/archive.",
+      "status": "reviewed and migrated",
+      "old_source_ids_found": [
+        "S3E06",
+        "S3E07"
+      ]
+    },
+    {
+      "path": "delvers/world/characters/koh-spiros.md",
+      "old_heading": "S3E06: Aboleth mind duel, triangle gate, new magical items",
+      "old_level": 2,
+      "old_anchor": "s3e06-aboleth-mind-duel-triangle-gate-new-magical-items",
+      "destination": "### Arc Three — Protection, defiance and responsibility",
+      "disposition": "Character-level motivation, relationships and agency retained in chronological arc; tactical/item ledger retained in notes/archive.",
+      "status": "reviewed and migrated",
+      "old_source_ids_found": [
+        "S3E05",
+        "S3E06"
+      ]
+    },
+    {
+      "path": "delvers/world/characters/koh-spiros.md",
+      "old_heading": "S3E05: A bathhouse holiday interrupted",
+      "old_level": 2,
+      "old_anchor": "s3e05-a-bathhouse-holiday-interrupted",
+      "destination": "### Arc Three — Protection, defiance and responsibility",
+      "disposition": "Character-level motivation, relationships and agency retained in chronological arc; tactical/item ledger retained in notes/archive.",
+      "status": "reviewed and migrated",
+      "old_source_ids_found": [
+        "S3E05"
+      ]
+    },
+    {
+      "path": "delvers/world/characters/koh-spiros.md",
+      "old_heading": "S3E04: C4's shadows and a last-second rescue",
+      "old_level": 2,
+      "old_anchor": "s3e04-c4s-shadows-and-a-last-second-rescue",
+      "destination": "### Arc Three — Protection, defiance and responsibility",
+      "disposition": "Character-level motivation, relationships and agency retained in chronological arc; tactical/item ledger retained in notes/archive.",
+      "status": "reviewed and migrated",
+      "old_source_ids_found": [
+        "S3E04"
+      ]
+    },
+    {
+      "path": "delvers/world/characters/koh-spiros.md",
+      "old_heading": "S3E03: A correspondent learns that Koh is withholding information",
+      "old_level": 2,
+      "old_anchor": "s3e03-a-correspondent-learns-that-koh-is-withholding-information",
+      "destination": "### Arc Three — Protection, defiance and responsibility",
+      "disposition": "Character-level motivation, relationships and agency retained in chronological arc; tactical/item ledger retained in notes/archive.",
+      "status": "reviewed and migrated",
+      "old_source_ids_found": [
+        "S3E03"
+      ]
+    },
+    {
+      "path": "delvers/world/characters/koh-spiros.md",
+      "old_heading": "S3E02: A family home and the detective's red crystal",
+      "old_level": 2,
+      "old_anchor": "s3e02-a-family-home-and-the-detectives-red-crystal",
+      "destination": "### Arc Three — Protection, defiance and responsibility",
+      "disposition": "Character-level motivation, relationships and agency retained in chronological arc; tactical/item ledger retained in notes/archive.",
+      "status": "reviewed and migrated",
+      "old_source_ids_found": [
+        "S3E02"
+      ]
+    },
+    {
+      "path": "delvers/world/characters/koh-spiros.md",
+      "old_heading": "S3E01: Bank theft, family truth and a new healing mission",
+      "old_level": 2,
+      "old_anchor": "s3e01-bank-theft-family-truth-and-a-new-healing-mission",
+      "destination": "### Arc Three — Protection, defiance and responsibility",
+      "disposition": "Character-level motivation, relationships and agency retained in chronological arc; tactical/item ledger retained in notes/archive.",
+      "status": "reviewed and migrated",
+      "old_source_ids_found": [
+        "S3E01"
+      ]
+    },
+    {
+      "path": "delvers/world/characters/koh-spiros.md",
+      "old_heading": "S2E12 finale: protecting Anthela through the live Bronze Ball attack",
+      "old_level": 2,
+      "old_anchor": "s2e12-finale-protecting-anthela-through-the-live-bronze-ball-attack",
+      "destination": "### Arc Two — Old obligations and a new purpose",
+      "disposition": "Character-level motivation, relationships and agency retained in chronological arc; tactical/item ledger retained in notes/archive.",
+      "status": "reviewed and migrated",
+      "old_source_ids_found": [
+        "S2E12"
+      ]
+    },
+    {
+      "path": "delvers/world/characters/koh-spiros.md",
+      "old_heading": "Out-of-game player/GM background clarification — August 2021 (NOT a played scene)",
+      "old_level": 2,
+      "old_anchor": "out-of-game-playergm-background-clarification--august-2021-not-a-played-scene",
+      "destination": "[^koh-status]:",
+      "disposition": "Retrospective/design material moved to attributed source note and preserved archive; not lived history.",
+      "status": "reviewed and migrated",
+      "old_source_ids_found": [
+        "BONUS-2021-08"
+      ]
+    },
+    {
+      "path": "delvers/world/characters/koh-spiros.md",
+      "old_heading": "Overview",
+      "old_level": 2,
+      "old_anchor": "overview",
+      "destination": "## Introduction",
+      "disposition": "Character-level motivation, relationships and agency retained in chronological arc; tactical/item ledger retained in notes/archive.",
+      "status": "reviewed and migrated",
+      "old_source_ids_found": []
+    },
+    {
+      "path": "delvers/world/characters/koh-spiros.md",
+      "old_heading": "Development and custody",
+      "old_level": 2,
+      "old_anchor": "development-and-custody",
+      "destination": "## Development by arc",
+      "disposition": "Character-level motivation, relationships and agency retained in chronological arc; tactical/item ledger retained in notes/archive.",
+      "status": "reviewed and migrated",
+      "old_source_ids_found": []
+    },
+    {
+      "path": "delvers/world/characters/koh-spiros.md",
+      "old_heading": "Caution and initiative",
+      "old_level": 3,
+      "old_anchor": "caution-and-initiative",
+      "destination": "### Arc One — Secrecy and shared trust",
+      "disposition": "Character-level motivation, relationships and agency retained in chronological arc; tactical/item ledger retained in notes/archive.",
+      "status": "reviewed and migrated",
+      "old_source_ids_found": []
+    },
+    {
+      "path": "delvers/world/characters/koh-spiros.md",
+      "old_heading": "Resourcefulness and reliance",
+      "old_level": 3,
+      "old_anchor": "resourcefulness-and-reliance",
+      "destination": "### Arc One — Secrecy and shared trust",
+      "disposition": "Character-level motivation, relationships and agency retained in chronological arc; tactical/item ledger retained in notes/archive.",
+      "status": "reviewed and migrated",
+      "old_source_ids_found": []
+    },
+    {
+      "path": "delvers/world/characters/koh-spiros.md",
+      "old_heading": "Family behind the guild badge",
+      "old_level": 3,
+      "old_anchor": "family-behind-the-guild-badge",
+      "destination": "### Arc One — Secrecy and shared trust",
+      "disposition": "Character-level motivation, relationships and agency retained in chronological arc; tactical/item ledger retained in notes/archive.",
+      "status": "reviewed and migrated",
+      "old_source_ids_found": []
+    },
+    {
+      "path": "delvers/world/characters/koh-spiros.md",
+      "old_heading": "A blade that answers thought",
+      "old_level": 3,
+      "old_anchor": "a-blade-that-answers-thought",
+      "destination": "### Arc One — Secrecy and shared trust",
+      "disposition": "Character-level motivation, relationships and agency retained in chronological arc; tactical/item ledger retained in notes/archive.",
+      "status": "reviewed and migrated",
+      "old_source_ids_found": []
+    },
+    {
+      "path": "delvers/world/characters/koh-spiros.md",
+      "old_heading": "The limits of careful planning",
+      "old_level": 3,
+      "old_anchor": "the-limits-of-careful-planning",
+      "destination": "### Arc One — Secrecy and shared trust",
+      "disposition": "Character-level motivation, relationships and agency retained in chronological arc; tactical/item ledger retained in notes/archive.",
+      "status": "reviewed and migrated",
+      "old_source_ids_found": []
+    },
+    {
+      "path": "delvers/world/characters/koh-spiros.md",
+      "old_heading": "Lessons from Wildfire",
+      "old_level": 3,
+      "old_anchor": "lessons-from-wildfire",
+      "destination": "### Arc One — Secrecy and shared trust",
+      "disposition": "Character-level motivation, relationships and agency retained in chronological arc; tactical/item ledger retained in notes/archive.",
+      "status": "reviewed and migrated",
+      "old_source_ids_found": []
+    },
+    {
+      "path": "delvers/world/characters/koh-spiros.md",
+      "old_heading": "The courage to retreat",
+      "old_level": 3,
+      "old_anchor": "the-courage-to-retreat",
+      "destination": "### Arc One — Secrecy and shared trust",
+      "disposition": "Character-level motivation, relationships and agency retained in chronological arc; tactical/item ledger retained in notes/archive.",
+      "status": "reviewed and migrated",
+      "old_source_ids_found": []
+    },
+    {
+      "path": "delvers/world/characters/koh-spiros.md",
+      "old_heading": "A different kind of hope",
+      "old_level": 3,
+      "old_anchor": "a-different-kind-of-hope",
+      "destination": "### Arc One — Secrecy and shared trust",
+      "disposition": "Character-level motivation, relationships and agency retained in chronological arc; tactical/item ledger retained in notes/archive.",
+      "status": "reviewed and migrated",
+      "old_source_ids_found": []
+    },
+    {
+      "path": "delvers/world/characters/koh-spiros.md",
+      "old_heading": "A voice through the darkness",
+      "old_level": 3,
+      "old_anchor": "a-voice-through-the-darkness",
+      "destination": "### Arc One — Secrecy and shared trust",
+      "disposition": "Character-level motivation, relationships and agency retained in chronological arc; tactical/item ledger retained in notes/archive.",
+      "status": "reviewed and migrated",
+      "old_source_ids_found": []
+    },
+    {
+      "path": "delvers/world/characters/koh-spiros.md",
+      "old_heading": "A gift mistaken for divinity",
+      "old_level": 3,
+      "old_anchor": "a-gift-mistaken-for-divinity",
+      "destination": "### Arc One — Secrecy and shared trust",
+      "disposition": "Character-level motivation, relationships and agency retained in chronological arc; tactical/item ledger retained in notes/archive.",
+      "status": "reviewed and migrated",
+      "old_source_ids_found": []
+    },
+    {
+      "path": "delvers/world/characters/koh-spiros.md",
+      "old_heading": "Secrets beneath the lake",
+      "old_level": 3,
+      "old_anchor": "secrets-beneath-the-lake",
+      "destination": "### Arc One — Secrecy and shared trust",
+      "disposition": "Character-level motivation, relationships and agency retained in chronological arc; tactical/item ledger retained in notes/archive.",
+      "status": "reviewed and migrated",
+      "old_source_ids_found": []
+    },
+    {
+      "path": "delvers/world/characters/koh-spiros.md",
+      "old_heading": "A friend in an enemy's face",
+      "old_level": 3,
+      "old_anchor": "a-friend-in-an-enemys-face",
+      "destination": "### Arc One — Secrecy and shared trust",
+      "disposition": "Character-level motivation, relationships and agency retained in chronological arc; tactical/item ledger retained in notes/archive.",
+      "status": "reviewed and migrated",
+      "old_source_ids_found": []
+    },
+    {
+      "path": "delvers/world/characters/koh-spiros.md",
+      "old_heading": "A hidden route to the hollow",
+      "old_level": 3,
+      "old_anchor": "a-hidden-route-to-the-hollow",
+      "destination": "### Arc One — Secrecy and shared trust",
+      "disposition": "Character-level motivation, relationships and agency retained in chronological arc; tactical/item ledger retained in notes/archive.",
+      "status": "reviewed and migrated",
+      "old_source_ids_found": []
+    },
+    {
+      "path": "delvers/world/characters/koh-spiros.md",
+      "old_heading": "A missing fortnight and an old debt",
+      "old_level": 3,
+      "old_anchor": "a-missing-fortnight-and-an-old-debt",
+      "destination": "### Arc Two — Old obligations and a new purpose",
+      "disposition": "Character-level motivation, relationships and agency retained in chronological arc; tactical/item ledger retained in notes/archive.",
+      "status": "reviewed and migrated",
+      "old_source_ids_found": []
+    },
+    {
+      "path": "delvers/world/characters/koh-spiros.md",
+      "old_heading": "The grandfather in the wood",
+      "old_level": 3,
+      "old_anchor": "the-grandfather-in-the-wood",
+      "destination": "### Arc Two — Old obligations and a new purpose",
+      "disposition": "Character-level motivation, relationships and agency retained in chronological arc; tactical/item ledger retained in notes/archive.",
+      "status": "reviewed and migrated",
+      "old_source_ids_found": []
+    },
+    {
+      "path": "delvers/world/characters/koh-spiros.md",
+      "old_heading": "The job behind a borrowed name",
+      "old_level": 3,
+      "old_anchor": "the-job-behind-a-borrowed-name",
+      "destination": "### Arc Two — Old obligations and a new purpose",
+      "disposition": "Character-level motivation, relationships and agency retained in chronological arc; tactical/item ledger retained in notes/archive.",
+      "status": "reviewed and migrated",
+      "old_source_ids_found": []
+    },
+    {
+      "path": "delvers/world/characters/koh-spiros.md",
+      "old_heading": "A knife that flies and a bag full of jade",
+      "old_level": 3,
+      "old_anchor": "a-knife-that-flies-and-a-bag-full-of-jade",
+      "destination": "### Arc Two — Old obligations and a new purpose",
+      "disposition": "Character-level motivation, relationships and agency retained in chronological arc; tactical/item ledger retained in notes/archive.",
+      "status": "reviewed and migrated",
+      "old_source_ids_found": []
+    },
+    {
+      "path": "delvers/world/characters/koh-spiros.md",
+      "old_heading": "Current status (through S2E11) — One Shot, Silver League",
+      "old_level": 2,
+      "old_anchor": "current-status-through-s2e11--one-shot-silver-league",
+      "destination": "### Arc Two — Old obligations and a new purpose",
+      "disposition": "Character-level motivation, relationships and agency retained in chronological arc; tactical/item ledger retained in notes/archive.",
+      "status": "reviewed and migrated",
+      "old_source_ids_found": [
+        "S2E10",
+        "S2E11"
+      ]
+    },
+    {
+      "path": "delvers/world/characters/koh-spiros.md",
+      "old_heading": "Previously established through S2E10",
+      "old_level": 3,
+      "old_anchor": "previously-established-through-s2e10",
+      "destination": "### Arc Two — Old obligations and a new purpose",
+      "disposition": "Character-level motivation, relationships and agency retained in chronological arc; tactical/item ledger retained in notes/archive.",
+      "status": "reviewed and migrated",
+      "old_source_ids_found": [
+        "S2E10"
+      ]
+    },
+    {
+      "path": "delvers/world/characters/koh-spiros.md",
+      "old_heading": "Previously established in S2E09",
+      "old_level": 3,
+      "old_anchor": "previously-established-in-s2e09",
+      "destination": "### Arc Two — Old obligations and a new purpose",
+      "disposition": "Character-level motivation, relationships and agency retained in chronological arc; tactical/item ledger retained in notes/archive.",
+      "status": "reviewed and migrated",
+      "old_source_ids_found": [
+        "S2E08",
+        "S2E09"
+      ]
+    },
+    {
+      "path": "delvers/world/characters/koh-spiros.md",
+      "old_heading": "Previously established by S2E08",
+      "old_level": 3,
+      "old_anchor": "previously-established-by-s2e08",
+      "destination": "### Arc Two — Old obligations and a new purpose",
+      "disposition": "Character-level motivation, relationships and agency retained in chronological arc; tactical/item ledger retained in notes/archive.",
+      "status": "reviewed and migrated",
+      "old_source_ids_found": [
+        "S2E07",
+        "S2E08"
+      ]
+    },
+    {
+      "path": "delvers/world/characters/koh-spiros.md",
+      "old_heading": "Previously established in S2E07",
+      "old_level": 3,
+      "old_anchor": "previously-established-in-s2e07",
+      "destination": "### Arc Two — Old obligations and a new purpose",
+      "disposition": "Character-level motivation, relationships and agency retained in chronological arc; tactical/item ledger retained in notes/archive.",
+      "status": "reviewed and migrated",
+      "old_source_ids_found": [
+        "S2E07"
+      ]
+    },
+    {
+      "path": "delvers/world/characters/koh-spiros.md",
+      "old_heading": "Established by S2E06",
+      "old_level": 3,
+      "old_anchor": "established-by-s2e06",
+      "destination": "### Arc Two — Old obligations and a new purpose",
+      "disposition": "Character-level motivation, relationships and agency retained in chronological arc; tactical/item ledger retained in notes/archive.",
+      "status": "reviewed and migrated",
+      "old_source_ids_found": [
+        "S2E04",
+        "S2E05",
+        "S2E06"
+      ]
+    },
+    {
+      "path": "delvers/world/characters/koh-spiros.md",
+      "old_heading": "Earlier status (at S2E04 cutoff)",
+      "old_level": 2,
+      "old_anchor": "earlier-status-at-s2e04-cutoff",
+      "destination": "### Arc Two — Old obligations and a new purpose",
+      "disposition": "Character-level motivation, relationships and agency retained in chronological arc; tactical/item ledger retained in notes/archive.",
+      "status": "reviewed and migrated",
+      "old_source_ids_found": [
+        "BONUS-2021-03",
+        "BONUS-2021-04",
+        "S1E01",
+        "S1E02",
+        "S1E03",
+        "S1E04",
+        "S1E05",
+        "S1E06",
+        "S1E07",
+        "S1E09",
+        "S1E10",
+        "S1E11",
+        "S1E12",
+        "S2E01",
+        "S2E02",
+        "S2E03",
+        "S2E04"
+      ]
+    },
+    {
+      "path": "delvers/world/places/delvers-guild.md",
+      "old_heading": "Delvers Dungeon Guild — first employment",
+      "old_level": 1,
+      "old_anchor": "delvers-dungeon-guild--first-employment",
+      "destination": "## Introduction",
+      "disposition": "Institutional practices, resources, leadership and change synthesized; individual mission choreography retained in notes/archive.",
+      "status": "reviewed and migrated",
+      "old_source_ids_found": []
+    },
+    {
+      "path": "delvers/world/places/delvers-guild.md",
+      "old_heading": "S3E12 CAMPAIGN FINALE: both evacuation circles succeed, survivors home, Guild teaching in epilogue",
+      "old_level": 2,
+      "old_anchor": "s3e12-campaign-finale-both-evacuation-circles-succeed-survivors-home-guild-teaching-in-epilogue",
+      "destination": "### Arc Three — Silver City and the return to rescue",
+      "disposition": "Institutional practices, resources, leadership and change synthesized; individual mission choreography retained in notes/archive.",
+      "status": "reviewed and migrated",
+      "old_source_ids_found": [
+        "S3E12"
+      ]
+    },
+    {
+      "path": "delvers/world/places/delvers-guild.md",
+      "old_heading": "S3E11: Sanctioned invasion physically underway, rescue wizard at pyramid",
+      "old_level": 2,
+      "old_anchor": "s3e11-sanctioned-invasion-physically-underway-rescue-wizard-at-pyramid",
+      "destination": "### Arc Three — Silver City and the return to rescue",
+      "disposition": "Institutional practices, resources, leadership and change synthesized; individual mission choreography retained in notes/archive.",
+      "status": "reviewed and migrated",
+      "old_source_ids_found": [
+        "S3E10",
+        "S3E11"
+      ]
+    },
+    {
+      "path": "delvers/world/places/delvers-guild.md",
+      "old_heading": "S3E10: Cassius actually returns, Zoltar leaves and final Guild campaign funded",
+      "old_level": 2,
+      "old_anchor": "s3e10-cassius-actually-returns-zoltar-leaves-and-final-guild-campaign-funded",
+      "destination": "### Arc Three — Silver City and the return to rescue",
+      "disposition": "Institutional practices, resources, leadership and change synthesized; individual mission choreography retained in notes/archive.",
+      "status": "reviewed and migrated",
+      "old_source_ids_found": [
+        "S3E03",
+        "S3E09",
+        "S3E10"
+      ]
+    },
+    {
+      "path": "delvers/world/places/delvers-guild.md",
+      "old_heading": "S2E12: sponsor event erupts into active Khalazar/Drone crisis",
+      "old_level": 2,
+      "old_anchor": "s2e12-sponsor-event-erupts-into-active-khalazardrone-crisis",
+      "destination": "### Arc Two — Patronage and its dangers",
+      "disposition": "Institutional practices, resources, leadership and change synthesized; individual mission choreography retained in notes/archive.",
+      "status": "reviewed and migrated",
+      "old_source_ids_found": [
+        "S2E12"
+      ]
+    },
+    {
+      "path": "delvers/world/places/delvers-guild.md",
+      "old_heading": "Overview",
+      "old_level": 2,
+      "old_anchor": "overview",
+      "destination": "## Introduction",
+      "disposition": "Institutional practices, resources, leadership and change synthesized; individual mission choreography retained in notes/archive.",
+      "status": "reviewed and migrated",
+      "old_source_ids_found": []
+    },
+    {
+      "path": "delvers/world/places/delvers-guild.md",
+      "old_heading": "Latest S2E11: SILVER promoted and public Bronze Ball portrait",
+      "old_level": 2,
+      "old_anchor": "latest-s2e11-silver-promoted-and-public-bronze-ball-portrait",
+      "destination": "### Arc Two — Patronage and its dangers",
+      "disposition": "Institutional practices, resources, leadership and change synthesized; individual mission choreography retained in notes/archive.",
+      "status": "reviewed and migrated",
+      "old_source_ids_found": [
+        "S2E11"
+      ]
+    },
+    {
+      "path": "delvers/world/places/delvers-guild.md",
+      "old_heading": "Practices and first job",
+      "old_level": 2,
+      "old_anchor": "practices-and-first-job",
+      "destination": "### Arc One — Employment and public duty",
+      "disposition": "Institutional practices, resources, leadership and change synthesized; individual mission choreography retained in notes/archive.",
+      "status": "reviewed and migrated",
+      "old_source_ids_found": []
+    },
+    {
+      "path": "delvers/world/places/delvers-guild.md",
+      "old_heading": "A wider choice of work",
+      "old_level": 2,
+      "old_anchor": "a-wider-choice-of-work",
+      "destination": "### Arc One — Employment and public duty",
+      "disposition": "Institutional practices, resources, leadership and change synthesized; individual mission choreography retained in notes/archive.",
+      "status": "reviewed and migrated",
+      "old_source_ids_found": []
+    },
+    {
+      "path": "delvers/world/places/delvers-guild.md",
+      "old_heading": "Scouting, claims and a path to advancement",
+      "old_level": 2,
+      "old_anchor": "scouting-claims-and-a-path-to-advancement",
+      "destination": "### Arc One — Employment and public duty",
+      "disposition": "Institutional practices, resources, leadership and change synthesized; individual mission choreography retained in notes/archive.",
+      "status": "reviewed and migrated",
+      "old_source_ids_found": []
+    },
+    {
+      "path": "delvers/world/places/delvers-guild.md",
+      "old_heading": "Service, apprenticeship and the next rank",
+      "old_level": 2,
+      "old_anchor": "service-apprenticeship-and-the-next-rank",
+      "destination": "### Arc One — Employment and public duty",
+      "disposition": "Institutional practices, resources, leadership and change synthesized; individual mission choreography retained in notes/archive.",
+      "status": "reviewed and migrated",
+      "old_source_ids_found": []
+    },
+    {
+      "path": "delvers/world/places/delvers-guild.md",
+      "old_heading": "The first bronze assignment",
+      "old_level": 2,
+      "old_anchor": "the-first-bronze-assignment",
+      "destination": "### Arc One — Employment and public duty",
+      "disposition": "Institutional practices, resources, leadership and change synthesized; individual mission choreography retained in notes/archive.",
+      "status": "reviewed and migrated",
+      "old_source_ids_found": []
+    },
+    {
+      "path": "delvers/world/places/delvers-guild.md",
+      "old_heading": "A citywide warning",
+      "old_level": 2,
+      "old_anchor": "a-citywide-warning",
+      "destination": "### Arc One — Employment and public duty",
+      "disposition": "Institutional practices, resources, leadership and change synthesized; individual mission choreography retained in notes/archive.",
+      "status": "reviewed and migrated",
+      "old_source_ids_found": []
+    },
+    {
+      "path": "delvers/world/places/delvers-guild.md",
+      "old_heading": "The Academy refuses help",
+      "old_level": 2,
+      "old_anchor": "the-academy-refuses-help",
+      "destination": "### Arc One — Employment and public duty",
+      "disposition": "Institutional practices, resources, leadership and change synthesized; individual mission choreography retained in notes/archive.",
+      "status": "reviewed and migrated",
+      "old_source_ids_found": []
+    },
+    {
+      "path": "delvers/world/places/delvers-guild.md",
+      "old_heading": "The reckoning after the ruins",
+      "old_level": 2,
+      "old_anchor": "the-reckoning-after-the-ruins",
+      "destination": "### Arc One — Employment and public duty",
+      "disposition": "Institutional practices, resources, leadership and change synthesized; individual mission choreography retained in notes/archive.",
+      "status": "reviewed and migrated",
+      "old_source_ids_found": []
+    },
+    {
+      "path": "delvers/world/places/delvers-guild.md",
+      "old_heading": "A return draped in serpents",
+      "old_level": 2,
+      "old_anchor": "a-return-draped-in-serpents",
+      "destination": "### Arc Two — Patronage and its dangers",
+      "disposition": "Institutional practices, resources, leadership and change synthesized; individual mission choreography retained in notes/archive.",
+      "status": "reviewed and migrated",
+      "old_source_ids_found": []
+    },
+    {
+      "path": "delvers/world/places/delvers-guild.md",
+      "old_heading": "A magician at the acquisitions desk",
+      "old_level": 2,
+      "old_anchor": "a-magician-at-the-acquisitions-desk",
+      "destination": "### Arc Two — Patronage and its dangers",
+      "disposition": "Institutional practices, resources, leadership and change synthesized; individual mission choreography retained in notes/archive.",
+      "status": "reviewed and migrated",
+      "old_source_ids_found": []
+    },
+    {
+      "path": "delvers/world/places/delvers-guild.md",
+      "old_heading": "S2E09: post-dragon guild, fairy dragons and silver assessment",
+      "old_level": 2,
+      "old_anchor": "s2e09-post-dragon-guild-fairy-dragons-and-silver-assessment",
+      "destination": "### Arc Two — Patronage and its dangers",
+      "disposition": "Institutional practices, resources, leadership and change synthesized; individual mission choreography retained in notes/archive.",
+      "status": "reviewed and migrated",
+      "old_source_ids_found": [
+        "S2E09"
+      ]
+    },
+    {
+      "path": "delvers/world/places/delvers-guild.md",
+      "old_heading": "Earlier status",
+      "old_level": 2,
+      "old_anchor": "earlier-status",
+      "destination": "### Arc Two — Patronage and its dangers",
+      "disposition": "Institutional practices, resources, leadership and change synthesized; individual mission choreography retained in notes/archive.",
+      "status": "reviewed and migrated",
+      "old_source_ids_found": [
+        "S1E01",
+        "S1E02",
+        "S1E04",
+        "S1E05",
+        "S1E06",
+        "S1E07",
+        "S1E12",
+        "S2E00",
+        "S2E01",
+        "S2E02",
+        "S2E03",
+        "S2E04"
+      ]
+    },
+    {
+      "path": "delvers/world/items/three-urns-triangle-gate.md",
+      "old_heading": "The three urns of the triangle gate — recovered-key inventory and custody",
+      "old_level": 1,
+      "old_anchor": "the-three-urns-of-the-triangle-gate--recovered-key-inventory-and-custody",
+      "destination": "## Introduction",
+      "disposition": "Appearance, custody, demonstrated function and uncertainty retained; old cutoff inventory/table preserved in archive.",
+      "status": "reviewed and migrated",
+      "old_source_ids_found": []
+    },
+    {
+      "path": "delvers/world/items/three-urns-triangle-gate.md",
+      "old_heading": "Historical 3-slot altar (S3E06)",
+      "old_level": 2,
+      "old_anchor": "historical-3-slot-altar-s3e06",
+      "destination": "## Introduction",
+      "disposition": "Appearance, custody, demonstrated function and uncertainty retained; old cutoff inventory/table preserved in archive.",
+      "status": "reviewed and migrated",
+      "old_source_ids_found": [
+        "S3E06",
+        "S3E07"
+      ]
+    },
+    {
+      "path": "delvers/world/items/three-urns-triangle-gate.md",
+      "old_heading": "S3E07: Bat-capped dried-heart urn, placed once",
+      "old_level": 2,
+      "old_anchor": "s3e07-bat-capped-dried-heart-urn-placed-once",
+      "destination": "### Arc Three — A heart taken from the slime",
+      "disposition": "Appearance, custody, demonstrated function and uncertainty retained; old cutoff inventory/table preserved in archive.",
+      "status": "reviewed and migrated",
+      "old_source_ids_found": [
+        "S3E07",
+        "S3E08"
+      ]
+    },
+    {
+      "path": "delvers/world/items/three-urns-triangle-gate.md",
+      "old_heading": "S3E08: Hook-horror-capped organ urn taken from All Rat",
+      "old_level": 2,
+      "old_anchor": "s3e08-hook-horror-capped-organ-urn-taken-from-all-rat",
+      "destination": "### Arc Three — Three vessels reunited",
+      "disposition": "Appearance, custody, demonstrated function and uncertainty retained; old cutoff inventory/table preserved in archive.",
+      "status": "reviewed and migrated",
+      "old_source_ids_found": [
+        "S3E07",
+        "S3E08"
+      ]
+    },
+    {
+      "path": "delvers/world/items/three-urns-triangle-gate.md",
+      "old_heading": "S3E09: THIRD grick-headed urn recovered — all THREE carried but altar still EMPTY",
+      "old_level": 2,
+      "old_anchor": "s3e09-third-grick-headed-urn-recovered--all-three-carried-but-altar-still-empty",
+      "destination": "### Arc Three — Three vessels reunited",
+      "disposition": "Appearance, custody, demonstrated function and uncertainty retained; old cutoff inventory/table preserved in archive.",
+      "status": "reviewed and migrated",
+      "old_source_ids_found": [
+        "S3E08",
+        "S3E09"
+      ]
+    },
+    {
+      "path": "delvers/world/items/three-urns-triangle-gate.md",
+      "old_heading": "S3E10 custody: Evelyn ACTUALLY hands all three urns to Koh",
+      "old_level": 2,
+      "old_anchor": "s3e10-custody-evelyn-actually-hands-all-three-urns-to-koh",
+      "destination": "### Arc Three — The gate and the body",
+      "disposition": "Appearance, custody, demonstrated function and uncertainty retained; old cutoff inventory/table preserved in archive.",
+      "status": "reviewed and migrated",
+      "old_source_ids_found": [
+        "S3E09",
+        "S3E10"
+      ]
+    },
+    {
+      "path": "delvers/world/items/three-urns-triangle-gate.md",
+      "old_heading": "S3E11 — Three jars INSTALLED, gate OPENED, jars EJECTED for reuse; party INSIDE",
+      "old_level": 2,
+      "old_anchor": "s3e11--three-jars-installed-gate-opened-jars-ejected-for-reuse-party-inside",
+      "destination": "### Arc Three — The gate and the body",
+      "disposition": "Appearance, custody, demonstrated function and uncertainty retained; old cutoff inventory/table preserved in archive.",
+      "status": "reviewed and migrated",
+      "old_source_ids_found": [
+        "S3E10",
+        "S3E11"
+      ]
+    },
+    {
+      "path": "delvers/world/items/three-urns-triangle-gate.md",
+      "old_heading": "S3E12 FINAL: Organs ACTUALLY used on Khalazar; vessels cease to be unused keys",
+      "old_level": 2,
+      "old_anchor": "s3e12-final-organs-actually-used-on-khalazar-vessels-cease-to-be-unused-keys",
+      "destination": "### Arc Three — The gate and the body",
+      "disposition": "Appearance, custody, demonstrated function and uncertainty retained; old cutoff inventory/table preserved in archive.",
+      "status": "reviewed and migrated",
+      "old_source_ids_found": [
+        "S3E06",
+        "S3E07",
+        "S3E08",
+        "S3E09",
+        "S3E10",
+        "S3E11",
+        "S3E12"
+      ]
+    },
+    {
+      "path": "delvers/world/creatures/skeletal-bat-balcony.md",
+      "old_heading": "Skeletal bat with shadow-skin — Dawnless Dunes balcony (S3E11)",
+      "old_level": 1,
+      "old_anchor": "skeletal-bat-with-shadow-skin--dawnless-dunes-balcony-s3e11",
+      "destination": "## Introduction",
+      "disposition": "Individual appearance, pursuit, defeat and final condition retained; combat adjudications restricted to source note.",
+      "status": "reviewed and migrated",
+      "old_source_ids_found": [
+        "S3E11"
+      ]
+    },
+    {
+      "path": "delvers/world/creatures/skeletal-bat-balcony.md",
+      "old_heading": "S3E12: ACTUALLY DESTROYED by Evelyn alone",
+      "old_level": 2,
+      "old_anchor": "s3e12-actually-destroyed-by-evelyn-alone",
+      "destination": "### Arc Three — The pursuit across the dunes",
+      "disposition": "Individual appearance, pursuit, defeat and final condition retained; combat adjudications restricted to source note.",
+      "status": "reviewed and migrated",
+      "old_source_ids_found": [
+        "S3E11",
+        "S3E12"
+      ]
+    }
+  ],
+  "subjects": [
+    {
+      "path": "delvers/world/characters/koh-spiros.md",
+      "purpose": "character biography",
+      "horizon": "Played S3E12 plus narrated one-year outcome; separate bonus commentary through post-finale November-labelled source",
+      "last_direct_state": "Koh with wife/daughter, teaching and rapier over family hearth",
+      "classification": "ordinary subject, no register exception"
+    },
+    {
+      "path": "delvers/world/places/delvers-guild.md",
+      "purpose": "institution with established place path",
+      "horizon": "S3E12 rescue plus one-year teaching outcome",
+      "last_direct_state": "Operating rescue/refuge and training; Cassius last restored S3E10, no new year-later appointment",
+      "classification": "ordinary institutional account; no new faction duplicate"
+    },
+    {
+      "path": "delvers/world/items/three-urns-triangle-gate.md",
+      "purpose": "collective artifact account",
+      "horizon": "S3E12 organs used; empty jars not tracked after use",
+      "last_direct_state": "Contents removed/reinserted; empty-container fate and custody unknown",
+      "classification": "ordinary artifact account; old technical table retained in archive"
+    },
+    {
+      "path": "delvers/world/creatures/skeletal-bat-balcony.md",
+      "purpose": "individual non-speaking creature",
+      "horizon": "S3E12 early solo fight; no later appearance",
+      "last_direct_state": "Destroyed by Evelyn before first completed evacuation",
+      "classification": "creature, no invented species traits or reasoning-NPC biography"
+    }
+  ]
+}

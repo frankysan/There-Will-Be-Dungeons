@@ -1,6 +1,10 @@
 # Vorel — titles and epithets register
 
-**Type:** Source-indexed supporting register for [Vorel](vorel.md), deliberately separated from the main character biography. **Evidence:** ASR-provisional, with source windows, name variants and social standing preserved. **Spoilers:** Through Wastes S2E06; Q&As are retrospective, not played conferrals. [Characters](../CHARACTERS.md) · [World portal](../README.md).
+**Type:** Source-indexed supporting register for [Vorel](vorel.md), deliberately separated from the main character biography. **Evidence:** ASR-provisional, with source windows, name variants and social standing preserved. **Spoilers:** Through Wastes S2E07; Q&As are retrospective, not played conferrals. [Characters](../CHARACTERS.md) · [World portal](../README.md).
+
+## S2E07 — no new title during space voyage or prison intake
+
+At the [S2E07](../../episodes/S2E07.md) voyage (~00:20–01:55), Vorel speaks with **Union Wheel**, helps Nash sleep, interacts with the three-eyed whale and reaches the cosmic prison's entrance; he **does not receive a new title or state a distinct new self-bestowed epithet** in the full primary ASR text. His introduction as **Vorel Rasphem Kurix** to the prison warden (around 02:31) is **name, not title**. Keep existing claimants/epithets unchanged. [ASR audit](../../reports/WASTES_S2E07_ASR_COMPARISON_2026-10-26.md).
 
 ## S2E06 — no new title at Bank of Burp or battle
 

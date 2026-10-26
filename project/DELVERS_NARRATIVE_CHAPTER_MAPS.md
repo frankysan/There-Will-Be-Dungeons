@@ -65,4 +65,4 @@ The final expedition is split into gate/preparation and finale chapters. The pre
 
 ## Next acceptance work
 
-All three primary arcs now have preserved consolidation checkpoints. Proceed to the world pilots: Koh, the guild, the three urns and one short place/creature article. Establish each subject's actual researched horizon and last direct observation, preserve its pre-edit bytes and check its own domain contract. Narrative consolidation alone does not certify the world pages or close their evidence questions.
+All three primary arcs have preserved consolidation checkpoints. The [four world pilots](../reports/DELVERS_WORLD_PILOTS_2026-10-26.md) are also complete within their stated evidence limits. Next migrate Evelyn and Krandal, followed by small linked subject batches. Establish each actual researched horizon and last direct observation, preserve its pre-edit bytes and check its domain contract. Neither narrative consolidation nor the pilots certify every remaining world article or close unresolved source questions.

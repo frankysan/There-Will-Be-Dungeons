@@ -13,6 +13,10 @@ Explore the people, places and artifacts of Delvers, an independent campaign set
 
 The [three arc narratives](../narrative/README.md) provide the plot-led reading route. This directory keeps existing subject paths available during consolidation; navigation does not certify every article as fully migrated.
 
+## Cleanup pilots
+
+Four articles have received preserved subject-focused passes: [Koh](characters/koh-spiros.md), [the guild](places/delvers-guild.md), [the three urns](items/three-urns-triangle-gate.md) and [the skeletal bat](creatures/skeletal-bat-balcony.md). Their [checkpoint](../../reports/DELVERS_WORLD_PILOTS_2026-10-26.md) records source horizons and validation limits. Other subject articles remain pending; this does not certify the entire directory as migrated.
+
 ## Subject directory
 
 ### People

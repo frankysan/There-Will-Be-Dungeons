@@ -205,3 +205,20 @@ Current dispositions supersede the earlier outlined status for Season Three:
 | Claim-level source verification | Existing dossier limits remain; unresolved listening/source-identity questions stay open |
 
 Proceed with Koh, the guild, the three urns and one short place/creature pilot before broader world rollout. Functional chronology, ledger and specialist registers retain their evidence functions. Full world acceptance and a rendered-site preview remain pending.
+
+### Fourth implementation checkpoint — World pilots
+
+**2026-10-26: Four world pilots migrated and structurally validated.** [Subject/coverage report](../reports/DELVERS_WORLD_PILOTS_2026-10-26.md) · [Section ledger](DELVERS_WORLD_PILOT_COVERAGE.json) · [Pre-edit archive](../research/legacy/2026-10-26/delvers-world-pilots/README.md) · [Validation](DELVERS_WORLD_PILOT_VALIDATION.json).
+
+| Subject | Current disposition | Main prose before → after |
+| --- | --- | ---: |
+| Koh | Character-focused Introduction, three chronological arcs, abilities/limits and Current status; separate commentary in notes | 7,981 → 965 |
+| Delvers guild | Institutional history under existing place path; practical leadership versus legal uncertainty distinguished | 2,515 → 799 |
+| Three urns | Collective artifact account; observed/claimed contents, custody, actual uses and untracked empty vessels | 1,111 → 468 |
+| Skeletal bat | Individual creature appearance, pursuit and solo defeat; no species-wide or rider identification | 372 → 199 |
+
+Koh's substantive arcs contain 220, 256 and 270 words. All four ordinary subject pages end in Current status and retain source horizons in notes. All 73 former heading/subsection anchors map to a new section or source note; exact historical recaps and tables remain archived. No slugs, canonical identities or source files were changed.
+
+Eight original working copies and rebased reading copies are preserved. One inherited September bonus link in Koh's reading copy is transparently corrected in the archive manifest; its exact original bytes remain unchanged. A total of 213 protected-file hashes covers other world Markdown, all episode dossiers, all narrative files, Delvers SRTs and the frozen initial baseline. No new audio, SRT interpretation, private-source review, naming decision or source-question closure occurred. No commit or push was performed by this task.
+
+The character/institution/artifact/creature pilots meet their bounded domain contracts; this supersedes their earlier inventoried-only status. Other subject pages remain pending. Next migrate Evelyn and Krandal, then connected family/mentor and guild subjects in small batches. Resolve event/place and reasoning-creature taxonomy only after examining each subject and inbound-link consequences. Full world acceptance and a rendered-site preview are not claimed.
