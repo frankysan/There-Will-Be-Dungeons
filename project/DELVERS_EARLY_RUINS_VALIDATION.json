@@ -1,0 +1,66 @@
+{
+  "date": "2026-10-26",
+  "local_file_and_fragment_links": 922,
+  "maintained_inbound_links": 29,
+  "former_headings_preserved": 11,
+  "exact_original_hashes": 6,
+  "reading_copy_target_equivalence": 6,
+  "explicit_reading_copy_link_corrections": 0,
+  "protected_hashes": 265,
+  "measurements": [
+    {
+      "path": "delvers/world/places/grick-sinkhole.md",
+      "before_main_words": 538,
+      "after_main_words": 373,
+      "arc_words": [
+        270
+      ],
+      "largest_arc_to_median": 1.0,
+      "footnotes": 6,
+      "anchors": 8
+    },
+    {
+      "path": "delvers/world/places/submerged-lake-ruins.md",
+      "before_main_words": 717,
+      "after_main_words": 382,
+      "arc_words": [
+        289
+      ],
+      "largest_arc_to_median": 1.0,
+      "footnotes": 7,
+      "anchors": 8
+    }
+  ],
+  "errors": [],
+  "limits": [
+    "No new ASR, audio, remote URL or rendered-site review",
+    "Section dispositions and material-claim review, not sentence-by-sentence audio verification"
+  ],
+  "markdownlint": {
+    "maintained_files": 7,
+    "violations": 0
+  },
+  "whitespace": {
+    "scoped_git_diff_check": "passed",
+    "new_report_and_json": "passed"
+  },
+  "manual_review": {
+    "completed": true,
+    "focus": [
+      "Place structure and explored extent rather than full battle itinerary",
+      "Similar architecture versus actual local shaft connection",
+      "Four party kills versus trap-killed bodies and unproved clearance",
+      "Unrecovered tablet and incomplete translation",
+      "Conditional guild claim and later research report",
+      "Distinct objects, living captive, safe surface return and unopened gate",
+      "April geography and unused clues remain creator context"
+    ],
+    "rendered_preview": false
+  },
+  "protected_groups": {
+    "campaign_files": 215,
+    "prior_batch_artifacts": 42,
+    "bonus_provenance_documents": 8
+  },
+  "working_tree_context": "Clean initial working tree; prior cleanup and outside work preserved; no commit or push performed by this task."
+}

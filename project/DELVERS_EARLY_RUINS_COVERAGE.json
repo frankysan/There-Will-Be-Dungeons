@@ -1,0 +1,110 @@
+{
+  "date": "2026-10-26",
+  "scope": "Two early ruin sites, no new physical identity merge",
+  "headings": [
+    {
+      "path": "delvers/world/places/submerged-lake-ruins.md",
+      "old_heading": "The submerged ruins of the eastern lake",
+      "old_anchor": "the-submerged-ruins-of-the-eastern-lake",
+      "target": "Native heading, chronological place development or final status",
+      "disposition": "Native heading or compatibility anchor retained; complete original archived"
+    },
+    {
+      "path": "delvers/world/places/submerged-lake-ruins.md",
+      "old_heading": "Introduction",
+      "old_anchor": "introduction",
+      "target": "Native heading, chronological place development or final status",
+      "disposition": "Native heading or compatibility anchor retained; complete original archived"
+    },
+    {
+      "path": "delvers/world/places/submerged-lake-ruins.md",
+      "old_heading": "Familiar passages underwater",
+      "old_anchor": "familiar-passages-underwater",
+      "target": "development",
+      "disposition": "Native heading or compatibility anchor retained; complete original archived"
+    },
+    {
+      "path": "delvers/world/places/submerged-lake-ruins.md",
+      "old_heading": "The devotee of the Dunes",
+      "old_anchor": "the-devotee-of-the-dunes",
+      "target": "development",
+      "disposition": "Native heading or compatibility anchor retained; complete original archived"
+    },
+    {
+      "path": "delvers/world/places/submerged-lake-ruins.md",
+      "old_heading": "The market of forgotten hands",
+      "old_anchor": "the-market-of-forgotten-hands",
+      "target": "development",
+      "disposition": "Native heading or compatibility anchor retained; complete original archived"
+    },
+    {
+      "path": "delvers/world/places/submerged-lake-ruins.md",
+      "old_heading": "Current status",
+      "old_anchor": "current-status",
+      "target": "Native heading, chronological place development or final status",
+      "disposition": "Native heading or compatibility anchor retained; complete original archived"
+    },
+    {
+      "path": "delvers/world/places/grick-sinkhole.md",
+      "old_heading": "Grick-infested sinkhole \u2014 ruins and buried dungeon",
+      "old_anchor": "grick-infested-sinkhole--ruins-and-buried-dungeon",
+      "target": "Native heading, chronological place development or final status",
+      "disposition": "Native heading or compatibility anchor retained; complete original archived"
+    },
+    {
+      "path": "delvers/world/places/grick-sinkhole.md",
+      "old_heading": "Overview",
+      "old_anchor": "overview",
+      "target": "development",
+      "disposition": "Native heading or compatibility anchor retained; complete original archived"
+    },
+    {
+      "path": "delvers/world/places/grick-sinkhole.md",
+      "old_heading": "A difficult escape",
+      "old_anchor": "a-difficult-escape",
+      "target": "development",
+      "disposition": "Native heading or compatibility anchor retained; complete original archived"
+    },
+    {
+      "path": "delvers/world/places/grick-sinkhole.md",
+      "old_heading": "The passage under the stone",
+      "old_anchor": "the-passage-under-the-stone",
+      "target": "development",
+      "disposition": "Native heading or compatibility anchor retained; complete original archived"
+    },
+    {
+      "path": "delvers/world/places/grick-sinkhole.md",
+      "old_heading": "Current status",
+      "old_anchor": "current-status",
+      "target": "Native heading, chronological place development or final status",
+      "disposition": "Native heading or compatibility anchor retained; complete original archived"
+    }
+  ],
+  "additional_blocks": [],
+  "domains": {
+    "delvers/world/places/submerged-lake-ruins.md": "Place: flooded approach, altered ancient traps, shrine/oozing motif, deeper inhabited market remains and unopened gate",
+    "delvers/world/places/grick-sinkhole.md": "Place: woodland setting, roofless sinkhole ruins, well/altar, grick occupation, dangerous crafted passage and conditional guild claim"
+  },
+  "review": "Both complete old pages; relevant site/layout/object terms searched across 37 dossiers; selected complete primary paragraphs, later architectural comparisons and April creator passage read; no fresh ASR/audio/map/art review",
+  "horizons": {
+    "Submerged lake ruins": "S1E10/S1E11 physical exploration and safe return; later shore custody is not a ruin revisit",
+    "Grick sinkhole": "S1E03/S1E04 direct view; later similar architecture and forest-research funding report do not document a revisit or clearance",
+    "April retrospective": "Same larger lake system and potential deeper pit routes are creator context; unused tablet translations remain undiscovered"
+  },
+  "critical_boundaries": [
+    "Repeated layout is not proven physical identity among forest, temple and lake sites",
+    "Skull Keep lake drains into larger system, not proven same physical lake or mapped all exits",
+    "Four gricks killed by party; trap-killed bodies separate; no full site clearance",
+    "Veggie Sticks claimed omniscience retracted; no omniscient knowledge of all local dangers",
+    "Tablet not recovered or fully translated; traced symbols and sword hilt distinct",
+    "Conditional guild exploration claim not final exclusive grant, repair or ownership",
+    "Water alters traps but no complete disarming proved; heavy shore gear not stolen",
+    "Local shafts actually connect deeper passages, not every later dungeon",
+    "Quarter-disc incomplete; missing gear, full machine function and all later uses unproven",
+    "Ritualist survives; religious testimony does not establish god identity or cosmology",
+    "Floating predator species unnamed; fog bottle unnamed and safety not established",
+    "Surface return before potion expiry supersedes old underwater cutoff",
+    "Conch staff, wand, ring, disc, fog bottle and uncertain sludge custody remain distinct",
+    "Tooth-faced gate sighted, not opened; final pyramid collapse not proved destruction of these sites"
+  ]
+}

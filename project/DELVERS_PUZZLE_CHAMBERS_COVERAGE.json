@@ -1,0 +1,145 @@
+{
+  "date": "2026-10-26",
+  "scope": "Two puzzle places and a material correction to prior forest-site horizon",
+  "headings": [
+    {
+      "path": "delvers/world/places/right-stair-grick-urn-complex.md",
+      "old_heading": "Right-stair twin-puzzle and grick wind-chamber complex (Delvers S3E09)",
+      "old_anchor": "right-stair-twin-puzzle-and-grick-wind-chamber-complex-delvers-s3e09",
+      "target": "Native heading, place development, final status or source note",
+      "disposition": "Native heading or compatibility anchor retained; complete original archived"
+    },
+    {
+      "path": "delvers/world/places/right-stair-grick-urn-complex.md",
+      "old_heading": "Cross-linked two-person puzzle",
+      "old_anchor": "cross-linked-two-person-puzzle",
+      "target": "Native heading, place development, final status or source note",
+      "disposition": "Native heading or compatibility anchor retained; complete original archived"
+    },
+    {
+      "path": "delvers/world/places/right-stair-grick-urn-complex.md",
+      "old_heading": "Final chamber and urn",
+      "old_anchor": "final-chamber-and-urn",
+      "target": "Native heading, place development, final status or source note",
+      "disposition": "Native heading or compatibility anchor retained; complete original archived"
+    },
+    {
+      "path": "delvers/world/places/black-slime-key-chamber.md",
+      "old_heading": "The black-slime three-key chamber \u2014 Delvers S3E07",
+      "old_anchor": "the-black-slime-three-key-chamber--delvers-s3e07",
+      "target": "Native heading, place development, final status or source note",
+      "disposition": "Native heading or compatibility anchor retained; complete original archived"
+    },
+    {
+      "path": "delvers/world/places/black-slime-key-chamber.md",
+      "old_heading": "Retrospective GM-only revelation (BONUS-2021-11-10, ~20:30\u201322:25)",
+      "old_anchor": "retrospective-gm-only-revelation-bonus-2021-11-10-20302225",
+      "target": "Native heading, place development, final status or source note",
+      "disposition": "Native heading or compatibility anchor retained; complete original archived"
+    },
+    {
+      "path": "delvers/world/places/black-slime-key-chamber.md",
+      "old_heading": "Approach, appearance and occupants",
+      "old_anchor": "approach-appearance-and-occupants",
+      "target": "Native heading, place development, final status or source note",
+      "disposition": "Native heading or compatibility anchor retained; complete original archived"
+    },
+    {
+      "path": "delvers/world/places/black-slime-key-chamber.md",
+      "old_heading": "Puzzle and observed solution",
+      "old_anchor": "puzzle-and-observed-solution",
+      "target": "Native heading, place development, final status or source note",
+      "disposition": "Native heading or compatibility anchor retained; complete original archived"
+    },
+    {
+      "path": "delvers/world/places/black-slime-key-chamber.md",
+      "old_heading": "Recovered vessel and pressure-pedestal substitution",
+      "old_anchor": "recovered-vessel-and-pressure-pedestal-substitution",
+      "target": "Native heading, place development, final status or source note",
+      "disposition": "Native heading or compatibility anchor retained; complete original archived"
+    },
+    {
+      "path": "delvers/world/places/grick-sinkhole.md",
+      "old_heading": "Grick-infested sinkhole \u2014 ruins and buried dungeon\r",
+      "old_anchor": "grick-infested-sinkhole--ruins-and-buried-dungeon\r",
+      "target": "Native heading, place development, final status or source note",
+      "disposition": "Native heading or compatibility anchor retained; complete original archived"
+    },
+    {
+      "path": "delvers/world/places/grick-sinkhole.md",
+      "old_heading": "Introduction\r",
+      "old_anchor": "introduction\r",
+      "target": "Native heading, place development, final status or source note",
+      "disposition": "Native heading or compatibility anchor retained; complete original archived"
+    },
+    {
+      "path": "delvers/world/places/grick-sinkhole.md",
+      "old_heading": "Development\r",
+      "old_anchor": "development\r",
+      "target": "Native heading, place development, final status or source note",
+      "disposition": "Native heading or compatibility anchor retained; complete original archived"
+    },
+    {
+      "path": "delvers/world/places/grick-sinkhole.md",
+      "old_heading": "Arc One \u2014 A dangerous threshold beneath the woods\r",
+      "old_anchor": "arc-one--a-dangerous-threshold-beneath-the-woods\r",
+      "target": "Native heading, place development, final status or source note",
+      "disposition": "Native heading or compatibility anchor retained; complete original archived"
+    },
+    {
+      "path": "delvers/world/places/grick-sinkhole.md",
+      "old_heading": "Current status\r",
+      "old_anchor": "current-status\r",
+      "target": "Native heading, place development, final status or source note",
+      "disposition": "Native heading or compatibility anchor retained; complete original archived"
+    }
+  ],
+  "additional_blocks": [
+    {
+      "path": "delvers/world/places/right-stair-grick-urn-complex.md",
+      "old_block": "Unheaded opening location/source/guest context",
+      "target": "Introduction and approach note"
+    },
+    {
+      "path": "delvers/world/places/right-stair-grick-urn-complex.md",
+      "old_block": "Inline Current S3E09 status and source apparatus",
+      "target": "Departure/status and urn note"
+    },
+    {
+      "path": "delvers/world/places/black-slime-key-chamber.md",
+      "old_block": "Unheaded approach/source separation metadata",
+      "target": "Introduction and approach note"
+    },
+    {
+      "path": "delvers/world/places/black-slime-key-chamber.md",
+      "old_block": "Inline Status through S3E07",
+      "target": "Current status and later urn note"
+    },
+    {
+      "path": "delvers/world/places/black-slime-key-chamber.md",
+      "old_block": "Research boundaries",
+      "target": "Source notes"
+    }
+  ],
+  "domains": {
+    "delvers/world/places/right-stair-grick-urn-complex.md": "Place: inhabited approach, paired cross-controlled defenses, grick wind hall, stopped air and forest exit",
+    "delvers/world/places/black-slime-key-chamber.md": "Place: open approach, flooded/slime chamber, light-controlled key mechanism, drained floor and removed pressure-loaded jar",
+    "delvers/world/places/grick-sinkhole.md": "Place correction: S3E09 historic forest entrance has repaired boards/bridges and old traps disabled"
+  },
+  "review": "Three complete old pages, selected S3E06-S3E12 paragraphs, 37-dossier relevant-term search, linked urn context and bounded November 10 creator passage; no new ASR/audio/map review",
+  "critical_boundaries": [
+    "Right-stair branch and black-slime open gateway distinct from sealed triangle gate",
+    "Cross-controlled mechanisms and mirrored damage are observed, not exact reusable map or universal spell rules",
+    "Both golems destroyed; psychic opening kill explicitly revoked",
+    "Air stops on third-jar removal; one grick escapes, no extermination",
+    "Third jar unopened at recovery; later organ use not proof of exact cap-to-tissue mapping",
+    "Key mechanism absorbs three keys, not three triangle altar objects",
+    "Pressure replacement succeeds with stone and weights, not mayonnaise shirt; trap not triggered",
+    "Spine seen in slime not identified in play; three boneclaws and failed-swap ambush are creator context only",
+    "Later gate opening and organ use supersede old campaign-wide sealed-gate status, not local room reconstruction",
+    "S3E09 explicitly revisits historic forest entrance with repaired boards/bridges and old traps disabled",
+    "Correction supersedes prior report last-view claim; earlier report/validation retained as historical artifacts",
+    "No proof whole forest cleared, tablet retrieved, or repaired works built by a named individual",
+    "Finale pyramid collapse not established destruction of all chambers"
+  ]
+}

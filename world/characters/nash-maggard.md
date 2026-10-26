@@ -1,5 +1,9 @@
 # Nash Maggard
 
+## May 2022 BONUS — Scott on risk-taking, costly regrowth and the heart's unknown failure point
+
+In [May 2022 listener Q&A](../../episodes/BONUS-2022-05.md) **~00:03:26–00:10:36**, **Scott** says that Nash's firsthand experience of **surviving death and regenerating painfully** encourages creative gambles such as the **ACTUAL S3E05 chained-to-car airborne gunner** position, **not** a belief Nash cannot ever die. He describes slowly regrowing a disfigured heart-only body as an **unpleasant consequence**, rather than enjoyable/disposable resurrection. **Jon** says Stanley would not use Nash as a crash-test dummy despite wondering how the heart works. **GM Beau separately states there ARE vulnerabilities to Nash's magical heart**, and that losing its magic might prevent life or regeneration, but **no actual heart disabling test, magic-success mechanics or repeat resurrection is played in this bonus**. **The Principle's 2022 claimed fatherhood/“Jesus Chrome” vat story explicitly remains “alleged” in the discussion**, and the character's current origin not verified. See [engineered heart](../technology/nash-dragon-heart.md), [May ASR audit](../../reports/BONUS_2022-05_ASR_COMPARISON_2026-10-26.md).
+
 ## Introduction
 
 Nash Maggard came out of the Blood Canyons and the [Solar Mines](../places/solar-mines.md) marked by a violent past. His body carried tumors, old scars and a sightless eye. With worn boots, a staff and a threadbare satchel, he crossed a devastated landscape carrying memories of the mines and of losses he could scarcely explain. He was a powerful, unpredictable wanderer, haunted by what he had done and what had been done to him, but still capable of choosing a different life.[^nash-introduction]

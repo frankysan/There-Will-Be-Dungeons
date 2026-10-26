@@ -4,6 +4,10 @@
 
 **Browse:** [Characters](../CHARACTERS.md) · [His source-indexed titles](vorel-titles.md) · [Eye of Groxl](../technology/eye-of-groxl.md) · [World portal](../README.md).
 
+## May 2022 Q&A — Kyle reveals why the Courtship of the Fang happened NOW
+
+In [May 2022 out-of-game Q&A](../../episodes/BONUS-2022-05.md) **~00:20:36–00:21:42**, asked why Vorel finally chose to pursue a legacy and sire children in [played S3E04 Courtship of the Fang](../../episodes/S3E04.md), **Kyle explains privately from player perspective**: the coming battle **feels like a final world-saving mission where Vorel MAY DIE**, and accepting lizardfolk courtship is something he had avoided despite persistent interest from barmaids and others, a chance to **live a full life before it ends**. Kyle names **Charlemagne** and earlier rivalry/challenge with Stanley as contributing circumstances, but says **the Stanley challenge was secondary**. He explicitly notes **Vorel WOULD NOT ADMIT to companions how frightened he is of dying**. This is **creator evidence about character motivation, NOT something the other heroes know in play**, and not a new S3E05 action. **No baby/birth/pregnancy, marriage to Union, postwar fate or new formal personal Vorel title is confirmed**. [Two-export report](../../reports/BONUS_2022-05_ASR_COMPARISON_2026-10-26.md).
+
 ## April 2022 Q&A — self-reliance and fish-out-of-water inspiration
 
 In the [April 2022 Q&A](../../episodes/BONUS-2022-04.md), Kyle says he considered but **did not ask the werefolk to transform Vorel**, believing an acquired curse would undercut the warrior's personal strength. He says the character's distinctive viewpoint grew from a **comedic outsider's sincerity in unfamiliar culture**, specifically citing **Worf from Star Trek** as a creative inspiration. A paladin version of Vorel is discussed as **an alternate hypothetical class**, not a played multiclass, and the giant lizard remains himself rather than a werebear. **No new personal epithet or in-world reference to Star Trek is established.** [Comparison](../../reports/BONUS_2022-04_ASR_COMPARISON_2026-10-26.md).

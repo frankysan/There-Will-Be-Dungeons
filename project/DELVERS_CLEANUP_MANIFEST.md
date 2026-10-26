@@ -465,3 +465,22 @@ The kuo-toa village remains intact at departure in S1E11. Later banishment is Gl
 Both complete old pages were read; relevant terms searched across all 37 dossiers; selected full paragraphs, linked trader context and June creator passage reviewed. No fresh ASR/audio, original maps/diaries, sheets or art were inspected. No evidence issue was closed, location canonically merged or source dossier/media changed. No commit or push was performed by this task.
 
 Next examine the submerged lake ruins and earlier grick sinkhole, keeping similar architecture separate from proved physical connections, then continue connected subject/domain work. Full-world acceptance and final campaign integration remain pending.
+
+### Nineteenth implementation checkpoint — submerged ruins and grick sinkhole
+
+**2026-10-26: Two early ruin articles migrated and locally validated.** [Early-ruins report](../reports/DELVERS_EARLY_RUINS_2026-10-26.md) · [Coverage ledger](DELVERS_EARLY_RUINS_COVERAGE.json) · [Pre-edit archive](../research/legacy/2026-10-26/delvers-early-ruins/README.md) · [Validation](DELVERS_EARLY_RUINS_VALIDATION.json).
+
+| Place | Current disposition | Main prose before → after |
+| --- | --- | ---: |
+| Submerged lake ruins | Flooded defenses, shrine, lower market, removed objects, unopened gate and Current status | 717 → 382 |
+| Grick sinkhole | Woodland/courtyard, grick occupation, crafted traps, conditional claim and Current status | 538 → 373 |
+
+All eleven former heading targets remain reachable. Six exact originals and equivalent reading copies are archived without link corrections. All 265 protected hashes match: 215 campaign files, 42 previous batch artifacts and eight bonus provenance documents. Earlier archives and outside work are preserved; the initial tree was clean.
+
+The forest site's last direct view is S1E04; four party kills do not include trap-killed bodies or prove full clearance. The tablet remains unrecovered and untranslated beyond partial signs; later creator explanation supplies unused clues, not new player knowledge. The guild claim stays conditional. Later research funding and comparisons supply no direct site inspection or precise physical match.
+
+The lake site's local pits connect deeper passages, but repeated architecture does not merge it with the forest or temple. Its shrine, market and gate are explored only through S1E11. Safe surface return supersedes the earlier underwater cutoff; the gate stays unopened, floating predator unnamed and disc incomplete. Object custody stays distinct. April's larger lake-system drainage and possible pit routes remain creator context without an invented complete map, identical lakes or finale destruction of these sites.
+
+Both complete old pages were read; relevant terms searched across all 37 dossiers; selected complete paragraphs, later architectural comparisons and bounded April passages reviewed. No fresh ASR/audio, original map/handout, sheet or art review occurred. No evidence issue was closed, source dossier/media changed or location canonically merged. No commit or push was performed by this task.
+
+Next examine the right-stair grick/urn complex and black-slime key chamber as distinct underground places, then continue connected subject/domain work. Full-world acceptance and final campaign integration remain pending.

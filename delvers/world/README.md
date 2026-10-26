@@ -47,6 +47,8 @@ The [southwestern well](places/southwestern-town-well.md) and [Temple of Pelor](
 
 [Gemholm](places/gemholm.md) and the [kuo-toa lakeshore village](places/kuo-toa-lakeshore-village.md) have a [settlement checkpoint](../../reports/DELVERS_LAKE_SETTLEMENTS_2026-10-26.md) separating their local conditions from later custody, survivor and exile evidence.
 
+The [submerged lake ruins](places/submerged-lake-ruins.md) and [forest grick sinkhole](places/grick-sinkhole.md) have an [early-ruins checkpoint](../../reports/DELVERS_EARLY_RUINS_2026-10-26.md) distinguishing explored connections, repeated architecture and unrecovered clues.
+
 Other subject articles remain pending; this does not certify the entire directory as migrated.
 
 ## Subject directory
