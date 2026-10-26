@@ -99,9 +99,9 @@ not a redesign, recreation from a text description, or simple mirroring.
 
 Exactly TWO standing head-to-boots figures, neutral, equally scaled:
 
-LEFT PANEL: camera views the CHARACTER'S ANATOMICAL LEFT side;
+LEFT PANEL (position on image): camera views the CHARACTER'S ANATOMICAL RIGHT side;
              character faces the RIGHT edge of the canvas (→).
-RIGHT PANEL: camera views the CHARACTER'S ANATOMICAL RIGHT side;
+RIGHT PANEL (position on image): camera views the CHARACTER'S ANATOMICAL LEFT side;
              character faces the LEFT edge of the canvas (←).
 
 Keep the attached figure's face, hairstyle, body proportions, costume
@@ -122,7 +122,7 @@ TEXT-TO-IMAGE SUBSTITUTE.
 [APPEND VERBATIM STYLE LOCK V2 FROM SKILL.MD §3B]
 ```
 
-**Orientation audit before approval:** Left anatomical side = camera on character's left, figure facing viewer-right; right anatomical side = camera on character's right, figure facing viewer-left. **Direction alone does not prove anatomy or handedness**: check asymmetric accessories/marks. Never mirror the whole drawing to produce a second side. For a subject lacking a conventional face/anatomical left/right, explicitly substitute the researched creature/object orientation and record how determined.
+**Orientation audit before approval:** The corrected convention is anatomical **RIGHT** = camera on character's right, subject facing viewer-right (→); anatomical **LEFT** = camera on character's left, subject facing viewer-left (←). "Left panel" and "right panel" name positions on the image, **not** the depicted character's anatomy. On 2026-10-26 Hope E001 revealed that the previous wording had these sides reversed. Audit other existing split-file labels individually; do not rewrite their historical approvals by assumption. **Direction alone does not prove anatomy or handedness**: check asymmetric accessories/marks. Never mirror the whole drawing to produce a second side. For a subject lacking a conventional face/anatomical left/right, explicitly substitute the researched creature/object orientation and record how determined.
 
 **Visual QA off-prompt checklist:** compare both figures to the actual registered front; check facial identity and hair length; coat/armor/clothing cut and color, patterns/ornament, hand covering, added or missing straps/pouches, boot geometry and attachment sidedness; continuous sword/sheath/staff/tool structure; no new unsupported gear; no cutoff or swapped view. Treat unintended changes as revisions, not “minor variety.”
 

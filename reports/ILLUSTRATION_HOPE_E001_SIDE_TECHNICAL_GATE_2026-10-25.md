@@ -1,6 +1,6 @@
 # Hope Akmenos E001/A01 — side-view acceptance, technical exports, and continuity review
 
-**Date:** 2026-10-25. **Sheet:** `WASTES-HOPE-AKMENOS-DS-001`. **Status:** `SIDE_VISUAL_ACCEPTED / SIDE_REGISTRATION_PENDING / CONTINUITY_REVIEW_NEEDED`; NOT `SIDE_APPROVED` or a complete approved sheet.
+**Date:** 2026-10-25. **Sheet:** `WASTES-HOPE-AKMENOS-DS-001`. **Updated 2026-10-26:** `SIDE_VISUAL_ACCEPTED / SIDE_REGISTRATION_PENDING / LATERALITY_LABELS_CORRECTED`. Owner confirmed the holster is consistent across views and the two split **file labels** had been reversed. Not yet `SIDE_APPROVED` (repository binary readback pending) or a completed approved sheet.
 
 ## Owner action and original output
 
@@ -22,6 +22,11 @@ All three saved exports were opened and visually inspected. No arbitrary filenam
 
 ## Visual fidelity and independent gate
 
-The accepted front shows the substantial tools/tool holster on **Hope's anatomical RIGHT hip** (viewer's left), and a trailing cloth sash on **her anatomical LEFT** (viewer's right). The **left-facing-right** profile in the generated pair displays the prominent tool rig on its near-visible side, while the **right-facing-left** profile does not comparably show it; this suggests the asymmetric gear may have switched sides. This is an **image-inspection concern**, not newly discovered narrative canon: refer to `IRV-0003` and compare against the actual repository-approved front before a final side continuity pass. The exact 1024-square derivatives faithfully preserve the accepted art, including this potential problem; resizing and tagging **do not cure it**. Do not quietly reinterpret acceptance as a waiver or silently edit the rig without recording a design decision.
+**2026-10-26 owner correction (supersedes prior suspicion):** The holster stays on **Hope's anatomical RIGHT hip** in the approved front, back and both sides. The prior issue was the anatomical LEFT/RIGHT label applied to the separate PNGs; the actual right-facing (→), holster-near profile depicts Hope's **anatomical RIGHT** side, and the left-facing (←) profile depicts her **anatomical LEFT**. `IRV-0003` was resolved as a labeling error, **not** an image-design defect. Neither the paired art nor the composed three-page sheet needs mirroring, redrawing or recomposition. Corrected **session-only, byte-identical** names:
 
-**Current safe handoff:** Face and front stay `*_APPROVED`. Side visuals are owner-accepted, with physical-image technical exports verified **in session** but not repository-registered; anatomical-side equipment continuity remains to be reconciled. Do **not** start or mark the back stage as approved based on a premature `SIDE_APPROVED` assertion, and do not declare the whole sheet `OWNER_APPROVED`.
+- `Hope_Akmenos_E001_Side_AnatomicalRight_v2_1024_sRGB.png` = original `Side_Left_v1` bytes, SHA-256 `0bcb718afb0c25ea771fd44b3484f6e1226e2e23d1bd88204709c75eacb58212`.
+- `Hope_Akmenos_E001_Side_AnatomicalLeft_v2_1024_sRGB.png` = original `Side_Right_v1` bytes, SHA-256 `dfa8d85404a930338ad9c3231d3e1ef6a0917612833dbe916ea8ee6f838b1c8c`.
+
+Historical v1 hashes/filenames above are retained as generation/export provenance; do **not** relabel those old source files in place.
+
+**Current safe handoff:** Face and front stay `*_APPROVED`; sides are owner-accepted with correctly named, technically verified session exports, and no equipment-continuity blocker remains. **Registration/readback of the exact side files remains pending.** The back has subsequently received separate owner visual approval and session technical normalization; it too awaits repo registration. Three assembled 1024-square sheet pages are awaiting separate owner approval and repo registration. Do not declare `SIDE_APPROVED`, `BACK_APPROVED`, or `OWNER_APPROVED` prematurely.

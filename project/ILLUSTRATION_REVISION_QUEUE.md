@@ -125,17 +125,7 @@ queue write does not authorize modifying or silently using flawed art.
 
 ## Open illustration findings
 
-### IRV-0003 — Hope E001 side profiles: asymmetric tool-belt placement
-
-- **Status / severity / type:** `needs-review` / `major` if confirmed / `visual-lineage`; recommended `review-only` initially, then `edit` if sidedness is wrong.
-- **Opened:** 2026-10-25.
-- **Subject:** The Wastes, Hope Akmenos, `WASTES-HOPE-AKMENOS-A01` / `WASTES-HOPE-AKMENOS-DS-001`.
-- **Affected image:** Owner-visually-accepted generated paired sides, generation `4b05d728-921f-4fdf-bba7-33fbc12db0d9`, original session-only SHA-256 `c469672f025c5bb24a02c7e7500d92b1c2ddc2b3aff1a60f9398257dd816aabc`, plus three session-only technical derivatives documented in [the side technical report](../reports/ILLUSTRATION_HOPE_E001_SIDE_TECHNICAL_GATE_2026-10-25.md). No verified repository copy of the side assets.
-- **Visible concern:** Approved [front](../illustrations/references/Hope_Akmenos_E001_Front_v1_PanelsRemoved_1024_sRGB.png) puts the prominent tool rig on Hope's own **right** hip (viewer left); left-facing-right side image shows the prominent rig on its near side, while right-facing-left side does not show the equivalent rig. The apparent near/far-side placement is worth independent camera-geometry review. The accepted red sash is on her opposite hip; do not fix one side by blindly mirroring the whole image.
-- **Evidence / confidence:** Actual front and side pixels inspected in the 2026-10-25 ChatGPT session, but camera projection interpretation remains `investigate`, not definitive source contradiction. The outfit layout is an approved artistic E001 choice, not spoken original episode canon.
-- **Action / next gate:** Check character-anatomical left/right against physical belt/holster continuity and both actual image pixels, before `SIDE_APPROVED`. If wrong, propose a *reference-conditioned*, owner-reviewed localized edit preserving all other previously accepted design details. Technical 1024-square PNG/sRGB normalization already performed in session cannot resolve image geometry. Preserve original acceptance and exports. Do not silently replace accepted pictures.
-- **Registration:** Side remains `SIDE_VISUAL_ACCEPTED / SIDE_REGISTRATION_PENDING / CONTINUITY_REVIEW_NEEDED`; no `SIDE_APPROVED` or completed full design sheet asserted.
-
+*No open illustration issues remain as of the owner-confirmed Hope E001 labeling correction on 2026-10-26.*
 
 <!-- Real entry structure; use next unused IRV-####.
 ### IRV-XXXX — <short problem / subject and state>
@@ -157,6 +147,19 @@ queue write does not authorize modifying or silently using flawed art.
 -->
 
 ## Closed and superseded findings
+
+### IRV-0003 — Hope E001 side views: anatomical LEFT/RIGHT filenames reversed (not a holster error)
+
+- **Status / type:** `resolved` / `visual-lineage` (naming/metadata only; alleged image-content defect **disproven**).
+- **Opened:** 2026-10-25; **resolved by owner clarification:** 2026-10-26.
+- **Subject:** The Wastes, `WASTES-HOPE-AKMENOS-A01` / `WASTES-HOPE-AKMENOS-DS-001`.
+- **Historical concern:** Prior audit incorrectly said the tool holster moved from Hope's anatomical right hip to her left between front/back and a side view. The initial paired render `4b05d728-921f-4fdf-bba7-33fbc12db0d9` and split 1024-square derivatives were owner-visually-accepted; none were repository-registered.
+- **Confirmed resolution:** The owner states that the holster is correctly located on **Hope's anatomical RIGHT hip in all images**. The *file names*, not the art, were reversed: profile facing right (→), holster near-visible, depicts anatomical **RIGHT**, and the profile facing left (←) depicts anatomical **LEFT**. The earlier generic generation templates had this directional convention reversed as well.
+- **Action:** Preserve source art and all historical original files and hashes; **do not** mirror, regenerate or swap the two image contents. Versioned corrected split filenames were created non-destructively as `Hope_Akmenos_E001_Side_AnatomicalRight_v2_1024_sRGB.png` (byte-identical to formerly named `Side_Left_v1`, SHA-256 `0bcb718afb0c25ea771fd44b3484f6e1226e2e23d1bd88204709c75eacb58212`) and `Hope_Akmenos_E001_Side_AnatomicalLeft_v2_1024_sRGB.png` (byte-identical to formerly named `Side_Right_v1`, SHA-256 `dfa8d85404a930338ad9c3231d3e1ef6a0917612833dbe916ea8ee6f838b1c8c`). All are session files; no repository PNG registration is implied.
+- **Assembled sheet effect:** No redraw or reassembly required. Page 2 remains anatomically **RIGHT on left panel**, **LEFT on right panel**. Three page images and their existing hashes are unchanged; correct the companion written specification and machine manifest only. The pending separate final-sheet owner review and repository-readback gates remain.
+- **Prevention:** Corrected [side-profile orientation convention](../.agents/skills/twbd-illustration-generate/CHARACTER_SHEET.md) and [reusable paired-side prompt](../.agents/skills/twbd-illustration-generate/CHARACTER_SHEET_PROMPTS.md). Historical other-character left/right filename conventions should be individually verified, not silently assumed.
+- **Evidence:** Explicit owner correction in chat (2026-10-26) plus previously inspected source PNGs. [Side technical report](../reports/ILLUSTRATION_HOPE_E001_SIDE_TECHNICAL_GATE_2026-10-25.md); [assembly report](../reports/ILLUSTRATION_HOPE_E001_SHEET_ASSEMBLY_2026-10-26.md).
+
 
 ### IRV-0002 — E001 Dusthill aerial versus newly found map
 
