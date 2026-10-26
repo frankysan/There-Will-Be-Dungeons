@@ -8,8 +8,8 @@
 
 | Page | Proposed repository path | Exact session candidate SHA-256 | Verified |
 | --- | --- | --- | --- |
-| 1 — four body views | `illustrations/references/Stanley_Billings_E001_Sheet_01_Turnaround_1024_sRGB.png` | `c476e8d2f7063f7e2588166d91464d245e329aab03baee40ca52436f3834d04b` | 345,442 bytes; 1024×1024 RGB PNG, sRGB ICC 588 bytes |
-| 2 — full-size facial reference | `illustrations/references/Stanley_Billings_E001_Sheet_02_Face_1024_sRGB.png` | `8360a6e3720e8df495819a1e7338b1557feccbe162a436082cdf70323354b128` | 1,305,953 bytes; 1024×1024 RGB PNG, sRGB ICC 588 bytes |
+| 1 — four body views | `illustrations/references/wastes_stanley-billings_e001_sheet-01-turnaround_v01.png` | `c476e8d2f7063f7e2588166d91464d245e329aab03baee40ca52436f3834d04b` | 345,442 bytes; 1024×1024 RGB PNG, sRGB ICC 588 bytes |
+| 2 — full-size facial reference | `illustrations/references/wastes_stanley-billings_e001_sheet-02-face_v01.png` | `8360a6e3720e8df495819a1e7338b1557feccbe162a436082cdf70323354b128` | 1,305,953 bytes; 1024×1024 RGB PNG, sRGB ICC 588 bytes |
 
 **Page 1:** deterministic composition from the actual supplied front, rear, and approved paired profiles. Upper left = front; upper right = back; **lower left = Stanley's anatomical RIGHT side facing image-right (→)**; **lower right = anatomical LEFT side facing image-left (←)**. This corrects the previous reversed anatomical-side labels without changing the already-approved composite image; see [2026-10-26 side correction](ILLUSTRATION_STANLEY_E001_SIDE_LATERALITY_CORRECTION_2026-10-26.md). The views were proportionally resized, retaining body/equipment rather than reinventing the character. Neutral background, no image text or decorative labels. The rear is largely coat-covered; the hidden rapier is acceptable under the earlier owner decision.
 

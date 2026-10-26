@@ -4,6 +4,7 @@
   "version": "0.0.0",
   "description": "Repository-local documentation validation tools",
   "scripts": {
+    "check:illustrations": "python tools/validate_illustration_references.py",
     "lint:markdown": "node scripts/lint-markdown.mjs",
     "lint:markdown:fix": "node scripts/lint-markdown.mjs --fix",
     "lint:python": "python -m ruff check .",

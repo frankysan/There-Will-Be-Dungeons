@@ -5,7 +5,7 @@
 
 ## Finding and correct anatomy
 
-A review of the actual [paired side illustration](../illustrations/references/Stanley_Billings_E001_Both_Sides_v1_1024_sRGB.png) and [approved front](../illustrations/references/Stanley_Billings_E001_Front_v1_1024_sRGB.png), prompted by the owner's request to apply the same correction made for Hope Akmenos, shows the old individual left/right filenames follow the former **reversed orientation convention**. The corrected conventions in [the canonical turnaround workflow](../.agents/skills/twbd-illustration-generate/CHARACTER_SHEET.md) are:
+A review of the actual [paired side illustration](../illustrations/references/wastes_stanley-billings_e001_side-paired_v01.png) and [approved front](../illustrations/references/wastes_stanley-billings_e001_front_v01.png), prompted by the owner's request to apply the same correction made for Hope Akmenos, shows the old individual left/right filenames follow the former **reversed orientation convention**. The corrected conventions in [the canonical turnaround workflow](../.agents/skills/twbd-illustration-generate/CHARACTER_SHEET.md) are:
 
 - **Left image panel:** character faces image-right (→); camera observes the character's **anatomical RIGHT** side.
 - **Right image panel:** character faces image-left (←); camera observes the character's **anatomical LEFT** side.
@@ -22,7 +22,7 @@ The exact files were copied byte-for-byte inside the connected repository using 
 | `Stanley_Billings_E001_AnatomicalRight_Side_v2_1024_sRGB.png` | `Stanley_Billings_E001_Left_Side_v1_1024_sRGB.png` | 574,210 | `c685ace99abf4e51fbae4b77d887dab8de8a9835d51e4f64de95c679f57c14eb` |
 | `Stanley_Billings_E001_AnatomicalLeft_Side_v2_1024_sRGB.png` | `Stanley_Billings_E001_Right_Side_v1_1024_sRGB.png` | 548,196 | `09f65c7e94b15c4e671093ebc00f3f5325341399a94760fb0a84f58552c2b4fe` |
 
-The [original paired PNG](../illustrations/references/Stanley_Billings_E001_Both_Sides_v1_1024_sRGB.png) is unchanged (SHA-256 `1163cc16f5ed34f1b2d7a8016330a5253cd03f2fbef7bd2037d490effc626b9a`). The existing [four-view assembled sheet](../illustrations/references/Stanley_Billings_E001_Sheet_01_Turnaround_1024_sRGB.png) is also **not changed** by a metadata-only filename correction; old four-view layout positioning is unaffected.
+The [original paired PNG](../illustrations/references/wastes_stanley-billings_e001_side-paired_v01.png) is unchanged (SHA-256 `1163cc16f5ed34f1b2d7a8016330a5253cd03f2fbef7bd2037d490effc626b9a`). The existing [four-view assembled sheet](../illustrations/references/wastes_stanley-billings_e001_sheet-01-turnaround_v01.png) is also **not changed** by a metadata-only filename correction; old four-view layout positioning is unaffected.
 
 ## Approval and provenance
 

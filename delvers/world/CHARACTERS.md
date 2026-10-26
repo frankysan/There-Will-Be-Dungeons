@@ -5,6 +5,7 @@
 | Character | Performer / introduction | Reference |
 | --- | --- | --- |
 | Krandal Splenderbelt | Scott; half-orc cleric, official Silver knight **Splenderbelt the Efficient**, exam **B/S/C** | [Profile](characters/krandal-splenderbelt.md) |
+| Penelope “Penny” Spiros | Koh and Anathala/Anthela's daughter, dreams during Khalazar crisis but not biologically proven immune; **Jon explicitly chooses small satyr HOOVES in post-finale BONUS-2021-11-13**, other appearance/open colours undescribed. No extra played child abduction | [Appearance and source](characters/penelope-spiros.md) |
 | Koh Spiros | Jon; satyr rogue, official Silver knight **One Shot**, exam **S/A/A** | [Profile](characters/koh-spiros.md) |
 | Evelyn Grinkeeper | Kristen; human paladin, official Silver knight **Grinkeeper the Defender**, exam **S/S/A** | [Profile](characters/evelyn-grinkeeper.md) |
 | Barclay Vandergeist / Bendergeist | **Ben (performer surname ASR pending), guest S3E09**; bluish-green ~5′10″ tortle Ptah cleric/cartographer, mushroom survivor, spectral-hand **Chance** lantern, paired pressure-plate puzzle assistance, Holy Weapon and Nondetection; no permanent party enrolment verified | [Profile](characters/barclay-vandergeist.md) |

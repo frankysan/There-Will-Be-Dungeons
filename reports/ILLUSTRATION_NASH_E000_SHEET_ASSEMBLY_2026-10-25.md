@@ -8,8 +8,8 @@ All four reference files were already accepted by the owner and registered in `i
 
 | View | Workspace reference | SHA-256 |
 | --- | --- | --- |
-| Face | `illustrations/references/Nash_Maggard_Face_v1_1024_sRGB.png` | `93e82eff061afd08611d0e6cf4fe8dfd11058ed94985c8c10a9d42140947cb71` |
-| Front | `illustrations/references/Nash_Maggard_Front_v1.png` | `cc60727f08492be9bf54c43da5c6de9694fbd1c89f95840521396f033ecf58d0` |
+| Face | `illustrations/references/wastes_nash-maggard_e001_sheet-02-face_v01.png` | `93e82eff061afd08611d0e6cf4fe8dfd11058ed94985c8c10a9d42140947cb71` |
+| Front | `illustrations/references/wastes_nash-maggard_e001_front_v01.png` | `cc60727f08492be9bf54c43da5c6de9694fbd1c89f95840521396f033ecf58d0` |
 | Side (two hood-up profiles) | `illustrations/references/Nash_Maggard_Side_v2_HoodUp_1024_sRGB.png` | `4a7bb1f07755a047f2ce430deb6d01e935db0b771b71d9a9fa1bb61a336337d5` |
 | Back | `illustrations/references/Nash_Maggard_Back_v1_1024_sRGB.png` | `9f348f34ac86dd79f33cd9c59342b04c6d2267a99d908c8eea528b11c99f95d1` |
 
@@ -34,7 +34,7 @@ Companion, non-image artifacts (session-only): `/mnt/data/Nash_Maggard_E000_Shee
 
 - **Current approval:** `FACE_APPROVED`, `FRONT_APPROVED`, `SIDE_APPROVED`, `BACK_APPROVED` remain valid for their exact registered source assets. **Combined sheet page 1 has not yet been accepted** by the owner. Page 2 is a byte-identical approved face reference, but selection as part of the **complete two-page sheet** still awaits final confirmation.
 - **Current file locations:** these two combined-sheet **outputs exist in the session container**, **not confirmed as files in the repository**. Do not turn session paths into `illustrations/` claims until the exact files are placed in the project workspace and read back via the binary reader.
-- **Suggested eventual workspace filenames (not created there):** `illustrations/references/Nash_Maggard_E000_Sheet_01_Turnaround_1024_sRGB.png` and `illustrations/references/Nash_Maggard_E000_Sheet_02_Face_1024_sRGB.png`.
+- **Suggested eventual workspace filenames (not created there):** `illustrations/references/Nash_Maggard_E000_Sheet_01_Turnaround_1024_sRGB.png` and `illustrations/references/wastes_nash-maggard_e001_sheet-02-face_v01.png`.
 - **To finalize:** (1) owner reviews the actual page 1 layout and page 2 as a pair, recording approval or actionable corrections; (2) copy/register the exact approved candidate PNGs (or a new version with fresh hashes) into the repository; (3) binary-read each repository output and verify SHA-256, dimensions and ICC; (4) update the sheet ledger to `OWNER_APPROVED` for this precise E000/A01 2-page version and scope. Preserve the existing individual anchors and superseded attempts unchanged.
 - **Editorial gate remains independent:** use transcript-backed state variants for later appearances and do not treat a design-sheet composition as a canon verification event. Any new inconsistency triggers the existing `IRV-` review process rather than silent replacement.
 

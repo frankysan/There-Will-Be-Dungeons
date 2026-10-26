@@ -1,5 +1,9 @@
 # Hope Akmenos
 
+## Performer retrospective before the announced Wastes return (BONUS-2021-11-13)
+
+Kristen says in [post-Delvers Q&A ~29–31min](../../episodes/BONUS-2021-11-13.md) that Hope was originally devised as a **Road Warrior/Mad Max-style serious suffering protagonist**. The actual Wastes accumulated heavy personal loss and responsibility, and Kristen found staying in that register exhausting over such a long campaign. She **INTENDED TO INFUSE MORE LEVITY into Hope** on returning from Delvers, to avoid making her a perpetual “wet blanket.” This is **out-of-game performance intention recorded when the Delvers campaign had just ended**, not proof of a performed personality change in any particular later Wastes episode; later played sources determine whether that happened. [Exact text-comparison report](../../reports/BONUS_2021_11_13_ASR_COMPARISON_2026-10-26.md).
+
 ## Introduction
 
 Hope is a tiefling engineer whose instinct is to make broken things useful again. In Dusthill she brings that practical ingenuity to the journeys of Nash, Stanley and Vorel, while hoping that ancient technology might one day change what has already been lost.[^introduction]

@@ -26,7 +26,7 @@ The approved image was proportionally LANCZOS-resized from 1254² to 1024² with
 
 | Intended repo path (pending upload) | Content and technical verification | SHA-256 of exact prepared export |
 | --- | --- | --- |
-| `illustrations/references/Stanley_Billings_E001_Both_Sides_v1_1024_sRGB.png` | Owner-approved pair, RGB 1024×1024, sRGB ICC 588 bytes, **1,130,779 bytes** | `1163cc16f5ed34f1b2d7a8016330a5253cd03f2fbef7bd2037d490effc626b9a` |
+| `illustrations/references/wastes_stanley-billings_e001_side-paired_v01.png` | Owner-approved pair, RGB 1024×1024, sRGB ICC 588 bytes, **1,130,779 bytes** | `1163cc16f5ed34f1b2d7a8016330a5253cd03f2fbef7bd2037d490effc626b9a` |
 | `illustrations/references/Stanley_Billings_E001_Left_Side_v1_1024_sRGB.png` | **Legacy mislabeled** anatomical RIGHT / facing right, RGB 1024×1024, sRGB ICC 588 bytes, **574,210 bytes** | `c685ace99abf4e51fbae4b77d887dab8de8a9835d51e4f64de95c679f57c14eb` |
 | `illustrations/references/Stanley_Billings_E001_Right_Side_v1_1024_sRGB.png` | **Legacy mislabeled** anatomical LEFT / facing left, RGB 1024×1024, sRGB ICC 588 bytes, **548,196 bytes** | `09f65c7e94b15c4e671093ebc00f3f5325341399a94760fb0a84f58552c2b4fe` |
 

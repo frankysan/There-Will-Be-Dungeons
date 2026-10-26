@@ -81,6 +81,15 @@ If a candidate fails, record exact defect and the generated-image reference; kee
 
 ## 4. Persisted manifest / state record
 
+For repository reference filenames and manifest ownership, follow the
+[reference-file contract](../../../project/ILLUSTRATION_REFERENCE_FILES.md).
+Use `campaign_entity_episode_role_vNN.png` and a single
+`campaign_entity_episode_manifest.json` for all views, pages and versions of
+that entity at that episode. Normalize E000 reference registrations to E001;
+preserve original source labels in provenance. Update the existing manifest
+instead of adding per-export sidecars. Run
+`python tools/validate_illustration_references.py` after registration.
+
 At every stage save or update the sheet ledger, subject file and a bounded report; prefer a **machine-readable versioned manifest** where applicable, and cross-link rather than duplicate conflicting long status paragraphs. Persist real facts only:
 
 ```yaml

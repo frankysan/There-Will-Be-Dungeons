@@ -4,6 +4,10 @@
 
 **Browse:** [Characters](../CHARACTERS.md) · [His source-indexed titles](vorel-titles.md) · [Eye of Groxl](../technology/eye-of-groxl.md) · [World portal](../README.md).
 
+## Performer retrospective before the Wastes resumed (BONUS-2021-11-13)
+
+In [post-Delvers retrospective ~21–29min](../../episodes/BONUS-2021-11-13.md), Kyle says he **lifts heavy weights before acting Vorel**, because the physical exertion helps him enter the lizardfolk's **strong warrior mentality**. After revisiting the prior Wastes crash/cliffhanger in his memory, Kyle expressed an intention to have Vorel **consider ALL available mission options before committing**, learning from earlier impulse to accept the first bad offer (example: clowns in Sigil) and from the structured Delvers quest board. This is **performer preparation and future story intention, NOT a new title, role, game-mechanic advantage, actual choice, or additional pre-return played Wastes scene**. Vorel's subsequent recorded actions/E128 continuity remain their own evidence. [P/Q ASR report](../../reports/BONUS_2021_11_13_ASR_COMPARISON_2026-10-26.md).
+
 ## E128 — exhausted fury, refugee separation, the new Burrow
 
 **Vorel stays with the original four** after Elhandar's fall, while the **Harbor tieflings, Angelashi, four children, Lyrielle and Bok Bok board Elhandari ships for Mars**. The defeated Henatar **is killed by Nash after yielding**, not by Vorel. Vorel speaks bitterly of every settlement the party has tried to improve being destroyed by another power; **he threatens indiscriminate violence in a rant but actually harms no bystander** and intends to sleep in the Earth desert. He does **not** accept a new formal title or make an actual political seizure. The party later proposes installing him as **“king of space”** to counter **Mind Master propaganda** among Hive/M-sports supporters—**repeated aspiration**, not coronation.

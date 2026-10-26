@@ -83,11 +83,11 @@ reference or complete subject-appearance audit is implied.
   on Nash E000; two earlier full-sheet render attempts were rejected.
   Four subsequent [Nash face studies](../reports/ILLUSTRATION_NASH_FACE_DIRECTION_2026-10-25.md)
   yielded an owner-preferred style. **Assets now present:**
-  [front v1](../illustrations/references/Nash_Maggard_Front_v1.png) is
+  [front v1](../illustrations/references/wastes_nash-maggard_e001_front_v01.png) is
   **FRONT_APPROVED** for E000/A01 (owner-accepted, 1024-square and sRGB-tagged,
   repository SHA-256 verified); [face study v1](../illustrations/references/Nash_Maggard_Face_v1.png)
   is preserved as an untagged 1254-square original; the [normalized
-  face anchor](../illustrations/references/Nash_Maggard_Face_v1_1024_sRGB.png)
+  face anchor](../illustrations/references/wastes_nash-maggard_e001_sheet-02-face_v01.png)
   has since been uploaded, hash-verified and explicitly **FACE_APPROVED**.
   The [corrected hood-up side reference](../illustrations/references/Nash_Maggard_Side_v2_HoodUp_1024_sRGB.png)
   was subsequently placed in the repository: **SIDE_APPROVED** after

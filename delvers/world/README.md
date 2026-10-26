@@ -9,6 +9,7 @@
 | Ancient black-slime chamber, three swallowed creature keys and successfully drained ooze | [Three-key chamber](places/black-slime-key-chamber.md) |
 | First bat-headed dry-heart jar fitted in S3E07, **RETRIEVED in S3E08**, now **with SECOND and THIRD urns in Evelyn's Bag at S3E09 cutoff** | [Dried-heart jar](items/dried-heart-jar.md) |
 | One-year epilogue: newly fertile Krandal farm, Scroungy pulls cart with donkey, Delvers' rebuilt headquarters tower, wedding invite and unopened royal letter | [Splenderbelt farm / Delvers' tower](places/splenderbelt-farm-delvers-tower.md) |
+| Post-S3E12 GM cast bonus documents **Penny's little HOOVES as performer-confirmed visual direction**, undemonstrated biological immunity; **unused giant iron-golem statue and alternate Khalazar victory** remain nonplayed plans | [BONUS-2021-11-13](../../episodes/BONUS-2021-11-13.md) · [Penny reference](characters/penelope-spiros.md) |
 | S3E12 actual complete campaign finale: Khalazar DESTROYED, captives transported, ten minotaurs lay down bones and year-later epilogue | [Season Three finale](../episodes/S3E12.md) |
 | S3E11 halfling evacuation wizard with gem-chalk circle, ACTUAL Spider Climb on Koh and only begins teleport prep at cutoff | [Darmah Edstream](characters/darmah-edstream.md) |
 | S3E11 actual dark desert/black pyramid/workshop with captured elves and shadow-skinned bat on upper balcony | [Dawnless Dunes/pyramid](places/dawnless-dunes-pyramid.md) |
