@@ -25,6 +25,10 @@ Four articles have received preserved subject-focused passes: [Koh](characters/k
 
 [Nopa Ropa](characters/nopa-ropa.md) and [Princess Hissia](characters/princess-hissia.md) now have a [linked rescue/relationship checkpoint](../../reports/DELVERS_NOPA_HISSIA_2026-10-26.md).
 
+[Cassius](characters/cassius.md) and [Carrie](characters/carrie-underworld.md) have a [guild-character checkpoint](../../reports/DELVERS_CASSIUS_CARRIE_2026-10-26.md) covering leadership, investigation and practical research support.
+
+[Wildfire](characters/buck-broscale-wildfire.md) and [Alexandre Withers](characters/alexandre-vanderbuck-withers.md) have a [linked patron/investigator checkpoint](../../reports/DELVERS_WILDFIRE_WITHERS_2026-10-26.md) distinguishing their earlier dealings from captivity and survival.
+
 Other subject articles remain pending; this does not certify the entire directory as migrated.
 
 ## Subject directory

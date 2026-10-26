@@ -1,0 +1,67 @@
+{
+  "date": "2026-10-26",
+  "local_file_and_fragment_links": 761,
+  "maintained_inbound_links": 28,
+  "former_headings_preserved": 18,
+  "exact_original_hashes": 6,
+  "reading_copy_target_equivalence": 6,
+  "explicit_reading_copy_link_corrections": 0,
+  "protected_hashes": 227,
+  "measurements": [
+    {
+      "path": "delvers/world/characters/alexandre-vanderbuck-withers.md",
+      "before_main_words": 945,
+      "after_main_words": 510,
+      "arc_words": [
+        107,
+        196,
+        105
+      ],
+      "largest_arc_to_median": 1.832,
+      "footnotes": 9,
+      "anchors": 13
+    },
+    {
+      "path": "delvers/world/characters/buck-broscale-wildfire.md",
+      "before_main_words": 887,
+      "after_main_words": 529,
+      "arc_words": [
+        163,
+        173,
+        97
+      ],
+      "largest_arc_to_median": 1.061,
+      "footnotes": 10,
+      "anchors": 14
+    }
+  ],
+  "errors": [],
+  "limits": [
+    "No new ASR, audio, remote URL or rendered-site review",
+    "Section dispositions and material-claim review, not sentence-by-sentence audio verification"
+  ],
+  "markdownlint": {
+    "maintained_files": 7,
+    "violations": 0,
+    "exit_code": 0,
+    "final_changed_file_recheck_count": 3,
+    "final_recheck_exit_code": 0,
+    "archives": "Excluded by repository wrapper; reading copies checked for hashes, links and target equivalence."
+  },
+  "whitespace": {
+    "scoped_git_diff_check_exit_code": 0,
+    "direct_new_markdown_trailing_whitespace_errors": 0
+  },
+  "manual_review": [
+    "Both complete pre-edit profiles and final main accounts read",
+    "All pre-edit relative link targets retained in rewritten biographies",
+    "Buck/Brom distinction, private Evelyn warning, reported investigator hire and later own statement remain separate",
+    "Fire suggestion/observation/later cause preserve their source chronology",
+    "Workshop compulsion and living evacuation do not establish voluntary collaboration, confession, acquittal or personal reunion"
+  ],
+  "protected_file_groups": {
+    "campaign_files": 215,
+    "prior_character_batch_artifacts": 12
+  },
+  "concurrent_work": "Existing Delvers/control changes preserved; active Wastes/root work outside this scope left untouched."
+}

@@ -1,0 +1,65 @@
+{
+  "date": "2026-10-26",
+  "local_file_and_fragment_links": 766,
+  "maintained_inbound_links": 31,
+  "former_headings_preserved": 24,
+  "exact_original_hashes": 6,
+  "reading_copy_target_equivalence": 6,
+  "explicit_reading_copy_link_corrections": 0,
+  "protected_hashes": 224,
+  "measurements": [
+    {
+      "path": "delvers/world/characters/carrie-underworld.md",
+      "before_main_words": 1198,
+      "after_main_words": 581,
+      "arc_words": [
+        175,
+        146,
+        148
+      ],
+      "largest_arc_to_median": 1.182,
+      "footnotes": 9,
+      "anchors": 15
+    },
+    {
+      "path": "delvers/world/characters/cassius.md",
+      "before_main_words": 1927,
+      "after_main_words": 648,
+      "arc_words": [
+        195,
+        187,
+        150
+      ],
+      "largest_arc_to_median": 1.043,
+      "footnotes": 10,
+      "anchors": 19
+    }
+  ],
+  "errors": [],
+  "limits": [
+    "No new ASR, audio, remote URL or rendered-site review",
+    "Section dispositions and material-claim review, not sentence-by-sentence audio verification"
+  ],
+  "markdownlint": {
+    "maintained_files": 7,
+    "violations": 0,
+    "exit_code": 0,
+    "archives": "Excluded by repository wrapper; reading copies checked for hashes, links and target equivalence."
+  },
+  "whitespace": {
+    "scoped_git_diff_check_exit_code": 0,
+    "direct_new_markdown_trailing_whitespace_errors": 0
+  },
+  "manual_review": [
+    "Both complete pre-edit profiles read; clipped Cassius paragraphs reread separately",
+    "Final main-prose accounts read; every pre-edit relative link target retained",
+    "Academy first-arc chronology, actual lecture and excluded dream participation distinguished",
+    "Practical restoration versus legal acquittal; detector construction versus custody discrepancy retained",
+    "Person-specific latest scenes distinguished from unnamed finale/epilogue outcomes"
+  ],
+  "protected_file_groups": {
+    "campaign_files": 215,
+    "prior_character_batch_artifacts": 9
+  },
+  "concurrent_work": "Pre-existing Delvers/control edits preserved; active Wastes/root work outside this scope not edited."
+}

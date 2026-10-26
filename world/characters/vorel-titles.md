@@ -1,6 +1,10 @@
 # Vorel — titles and epithets register
 
-**Type:** Source-indexed supporting register for [Vorel](vorel.md), deliberately separated from the main character biography. **Evidence:** ASR-provisional, with source windows, name variants and social standing preserved. **Spoilers:** Through Wastes S2E08; Q&As are retrospective, not played conferrals. [Characters](../CHARACTERS.md) · [World portal](../README.md).
+**Type:** Source-indexed supporting register for [Vorel](vorel.md), deliberately separated from the main character biography. **Evidence:** ASR-provisional, with source windows, name variants and social standing preserved. **Spoilers:** Through Wastes S2E09; Q&As are retrospective, not played conferrals. [Characters](../CHARACTERS.md) · [World portal](../README.md).
+
+## S2E09 — new self-proclaimed title at mage-prison guardpost
+
+At [S2E09](../../episodes/S2E09.md) **~01:49:14–01:49:20**, Vorel introduces himself to Rolston/Ralston (?) with **“Vorel Rasphem Kurix, grand adventurer and defeater of the meat sad people”** (wording from processed Parakeet, **ASR-PROVISIONAL**, compound `meat sad` particularly uncertain). **Speaker: Vorel himself**; this is **self-given boast/epithet following the werefolk battle**, NOT a title formally conferred by Tilly or any other authority. Qwen/recording should be audio-checked. [P/Q report](../../reports/WASTES_S2E09_ASR_COMPARISON_2026-10-26.md).
 
 ## S2E08 — no newly bestowed title in the prison
 

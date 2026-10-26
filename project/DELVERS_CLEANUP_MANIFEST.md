@@ -269,3 +269,37 @@ Nopa's living reunion and Hissia's identification, nonlethal recovery, evacuatio
 Relevant mentions were searched across all 37 campaign dossiers and selected source paragraphs read; no fresh ASR/audio, sheets or original visual-source review occurred. No source issue was closed, no dossier/media was changed, and no commit or push was performed by this task.
 
 Next examine Cassius and Carrie as connected guild subjects, then continue remaining domain batches. Full-world acceptance and final campaign integration remain pending.
+
+### Eighth implementation checkpoint — Cassius and Carrie
+
+**2026-10-26: Two guild biographies migrated and structurally validated.** [Character report](../reports/DELVERS_CASSIUS_CARRIE_2026-10-26.md) · [Coverage ledger](DELVERS_CASSIUS_CARRIE_COVERAGE.json) · [Pre-edit archive](../research/legacy/2026-10-26/delvers-cassius-carrie/README.md) · [Validation](DELVERS_CASSIUS_CARRIE_VALIDATION.json).
+
+| Subject | Current disposition | Main prose before → after |
+| --- | --- | ---: |
+| Cassius | Introduction, three character arcs and Current status; civic purpose, private commission, confinement and practical restoration distinguished | 1,927 → 648 |
+| Carrie | Introduction, three character arcs and Current status; curiosity, experiment, consent, actual detector and discreet support retained | 1,198 → 581 |
+
+All 24 former headings retain their targets and recorded dispositions. Six exact working-copy originals and equivalent reading copies are archived, without target corrections. All 224 protected hashes match: 215 campaign files plus nine prior character-batch artifacts. Existing control changes are preserved, and concurrent Wastes/root work remains outside this batch.
+
+Cassius's latest physical scene is his S3E10 release/desk return, followed by the S3E11 rescue assignment; no formal acquittal or personal year-later outcome is supplied. Carrie's last direct interaction is S3E06 in her lab, while later sources refer to her detector. Neither receives an invented finale appearance. The S2E00 Academy cutaway retains its first-arc chronology. The shard's unshown return, interpretations of history, unverified genealogy, experimental limits and disputed accusations stay bounded in notes.
+
+All 37 dossier files were searched for relevant mentions, with selected full paragraphs reviewed; no new SRT/audio, sheets or original visual-source inspection occurred. No evidence issue was closed, no source dossier/media changed, and no commit or push was performed by this task.
+
+Next examine Wildfire and Alexandre Withers as linked patron/investigator subjects, then continue connected guild and remaining domain batches. Full-world acceptance and final campaign integration remain pending.
+
+### Ninth implementation checkpoint — Wildfire and Alexandre Withers
+
+**2026-10-26: Two linked patron/investigator biographies migrated and structurally validated.** [Character report](../reports/DELVERS_WILDFIRE_WITHERS_2026-10-26.md) · [Coverage ledger](DELVERS_WILDFIRE_WITHERS_COVERAGE.json) · [Pre-edit archive](../research/legacy/2026-10-26/delvers-wildfire-withers/README.md) · [Validation](DELVERS_WILDFIRE_WITHERS_VALIDATION.json).
+
+| Subject | Current disposition | Main prose before → after |
+| --- | --- | ---: |
+| Wildfire | Introduction, three character arcs and Current status; brother, mentorship, assessment, patron defense, confrontation and actual survival distinguished | 887 → 529 |
+| Alexandre Withers | Introduction, three character arcs and Current status; property claims, guarded knowledge, reported losses, incriminating response and rescue retained | 945 → 510 |
+
+All 18 old heading targets remain reachable, with dispositions recorded. Withers's existing Current status heading now describes the latest rescue outcome rather than the obsolete burglary-only cutoff. Six exact working-copy originals and equivalent reading copies are archived without target corrections. All 227 protected hashes match: 215 campaign files and 12 prior character-batch artifacts. Existing control changes are preserved; concurrent Wastes/root work remains outside scope.
+
+Both are found alive/apparently compelled and evacuated unconscious/stable through the first completed circle. No individual awakening, reunion, confession, judgment or year-later outcome is supplied. The reported theft-investigation hire and Withers's later Broscales/doors statement remain distinct. Wildfire's species is not changed by a generic captive grouping. Earlier missing/fall cutoffs remain historical, and the staged fire chronology is retained.
+
+Relevant mentions were searched across all 37 dossiers and selected complete source paragraphs read; no new ASR/audio, sheets or original visual-source review occurred. No evidence issue was closed, no dossier/media changed, and no commit or push was performed by this task.
+
+Next examine Anthela and Penelope as Koh's linked family subjects, then continue connected family, guild and domain batches. Full-world acceptance and final campaign integration remain pending.
