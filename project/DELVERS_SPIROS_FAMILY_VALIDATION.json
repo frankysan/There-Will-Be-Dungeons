@@ -1,0 +1,69 @@
+{
+  "date": "2026-10-26",
+  "local_file_and_fragment_links": 790,
+  "maintained_inbound_links": 31,
+  "former_headings_preserved": 13,
+  "exact_original_hashes": 6,
+  "reading_copy_target_equivalence": 6,
+  "explicit_reading_copy_link_corrections": 0,
+  "protected_hashes": 232,
+  "measurements": [
+    {
+      "path": "delvers/world/characters/anthela-spiros.md",
+      "before_main_words": 1392,
+      "after_main_words": 551,
+      "arc_words": [
+        88,
+        213,
+        133
+      ],
+      "largest_arc_to_median": 1.602,
+      "footnotes": 8,
+      "anchors": 16
+    },
+    {
+      "path": "delvers/world/characters/penelope-spiros.md",
+      "before_main_words": 418,
+      "after_main_words": 323,
+      "arc_words": [
+        60,
+        102,
+        72
+      ],
+      "largest_arc_to_median": 1.417,
+      "footnotes": 7,
+      "anchors": 9
+    }
+  ],
+  "errors": [],
+  "limits": [
+    "No new ASR, audio, remote URL or rendered-site review",
+    "Section dispositions and material-claim review, not sentence-by-sentence audio verification"
+  ],
+  "markdownlint": {
+    "maintained_files": 7,
+    "violations": 0,
+    "exit_code": 0,
+    "final_changed_file_recheck_count": 2,
+    "final_recheck_exit_code": 0,
+    "archives": "Excluded by repository wrapper; reading copies checked for hashes, links and target equivalence."
+  },
+  "whitespace": {
+    "scoped_git_diff_check_exit_code": 0,
+    "direct_new_markdown_trailing_whitespace_errors": 0
+  },
+  "manual_review": [
+    "Both complete pre-edit profiles and final main accounts read",
+    "Every pre-edit relative link target retained",
+    "Name direction, temporary recognition, physical awakening and separate disclosures remain distinct",
+    "Consent and hypotheses separated; false homecoming, real homecoming and desert dreams distinguished",
+    "Introduced age and retrospective visual design kept source-specific; no invented later age or kidnapping",
+    "Final keepsake does not imply physical attendance or household relocation"
+  ],
+  "protected_file_groups": {
+    "campaign_files": 215,
+    "prior_character_batch_artifacts": 15,
+    "bonus_provenance_documents": 2
+  },
+  "concurrent_work": "Clean at turn start; Wastes S2E10 source/report changes appeared during this task and were left untouched."
+}

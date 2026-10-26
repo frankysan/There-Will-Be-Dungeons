@@ -1,4 +1,4 @@
-# Tungsten Wheel — absent Elhandari engineer (provisional name)
+# Tungsten Wheel — located Elhandari engineer (provisional name)
 
 > **The Wastes · main storyline · first identified E125 ~00:10–00:16.** Wording from two ASR exports; **no audio or Elhandari written records verified**. [E125 dossier](../../episodes/E125.md) · [ASR comparison](../../reports/E125_ASR_COMPARISON_2026-10-24.md) · [Elhandar](../places/elhandar.md).
 
@@ -13,6 +13,12 @@ The party actually reaches Mars, finds Tungsten's former lover **Dunglestar Rave
 ## S2E03 — a purported niece among the Elhandari
 
 When **Stanley/Valere Ornath accepts his newly awarded Selle Prime office**, a spear-bearing elf, source-named **Yunyon/Union Weal/Wheel (?)**, is **actually assigned** as his protective **Belekun/Balelikun (?)**. She explicitly tells Stanley that **Tungsten Wheel is her uncle**. This adds an important **claimant family connection** available to Stanley's party, not proof of Tungsten's present location or even written verification of their genealogy. No reunion, correspondence or travel to Blast Belly Rock is shown. [S2E03](../../episodes/S2E03.md) · [comparison](../../reports/WASTES_S2E03_ASR_COMPARISON_2026-10-26.md).
+
+## S2E09–S2E10 — FOUND alive, still inside Pentel Weiss
+
+In [S2E09](../../episodes/S2E09.md) **Stanley's megaphone announcement in a prison mage-population hall draws the living Tungsten Wheel into view**: a tall slender white-haired Elhandari elf, immediately **recognized and ACTUALLY embraced by Union Wheel as her uncle**. He invites the party into his equation-covered cell, recognizes Stanley as new Selle Prime, hears the urgency of the unfinished Triangulosphere and **ACTUALLY leaves the mage ward with all four main heroes and Union**. At that episode cutoff he is **recovered from the general population, NOT yet extracted from the prison**. Tungsten says the prison **suppresses arcane conjuration but preserves some inherently magical objects or changed bodies**, and **reports** that former collectors carried rings to bypass suppression; he believes a dangerous creature farther into the prison may have captured a collector with such a ring. He **suspects betrayal** of his Burp hideout by one of few who knew it, but does not prove the culprit. [S2E09 ASR](../../reports/WASTES_S2E09_ASR_COMPARISON_2026-10-26.md).
+
+In [S2E10](../../episodes/S2E10.md) he **physically joins the crypt/lich-ward search**, says a collector ring may also enable inter-floor travel and use of **the central dais exit**, but **no ring is acquired or tested**. He has not himself visited this dangerous ward before; his assertions are **reports and hypotheses**, not firsthand ring operations. He inspects the old corpses, retreats during the **ACTUAL animated-carpet fight**, and collects roughly **one carpet's worth of pieces distributed across his pockets, Union's pack and Hope's ordinary bag**, intending later study of apparently animate magical rugs under the prison's dampening field. At the final chamber a telepathic influence **ACTUALLY draws Tungsten east in an unresponsive state, and Stanley GRAPPLES/HOLDS him**, while Vorel is drawn in farther; **Tungsten is not shown entering the tentacle chamber**. **Latest cutoff: alive within Pentel Weiss, found and traveling with party, still not escaped; no Gluptwarp recovered or Triangulosphere completed.** [S2E10 ASR comparison](../../reports/WASTES_S2E10_ASR_COMPARISON_2026-10-26.md).
 
 ## S2E08 — inside prison, prior recruitment reiterated; no whereabouts
 

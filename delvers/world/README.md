@@ -29,6 +29,10 @@ Four articles have received preserved subject-focused passes: [Koh](characters/k
 
 [Wildfire](characters/buck-broscale-wildfire.md) and [Alexandre Withers](characters/alexandre-vanderbuck-withers.md) have a [linked patron/investigator checkpoint](../../reports/DELVERS_WILDFIRE_WITHERS_2026-10-26.md) distinguishing their earlier dealings from captivity and survival.
 
+[Anathala/Anthela](characters/anthela-spiros.md) and [Penelope](characters/penelope-spiros.md) have a [family checkpoint](../../reports/DELVERS_SPIROS_FAMILY_2026-10-26.md) separating recognition, bodily recovery, household knowledge and the completed epilogue.
+
+[Broadside](characters/broadside.md) and [Cheet](characters/cheet.md) have a [linked guild checkpoint](../../reports/DELVERS_BROADSIDE_CHEET_2026-10-26.md) distinguishing their shared capture, different choices and later evidence.
+
 Other subject articles remain pending; this does not certify the entire directory as migrated.
 
 ## Subject directory

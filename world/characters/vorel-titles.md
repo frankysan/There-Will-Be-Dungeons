@@ -1,6 +1,10 @@
 # Vorel — titles and epithets register
 
-**Type:** Source-indexed supporting register for [Vorel](vorel.md), deliberately separated from the main character biography. **Evidence:** ASR-provisional, with source windows, name variants and social standing preserved. **Spoilers:** Through Wastes S2E09; Q&As are retrospective, not played conferrals. [Characters](../CHARACTERS.md) · [World portal](../README.md).
+**Type:** Source-indexed supporting register for [Vorel](vorel.md), deliberately separated from the main character biography. **Evidence:** ASR-provisional, with source windows, name variants and social standing preserved. **Spoilers:** Through Wastes S2E10; Q&As are retrospective, not played conferrals. [Characters](../CHARACTERS.md) · [World portal](../README.md).
+
+## S2E10 — no new personal epithet in the crypt
+
+In [S2E10](../../episodes/S2E10.md), Vorel calls the early skeleton passage **“tomb of cowards”** (~00:19:39), and the animated carpets **“foul lich”** / **“your lich is defeated”** (~01:20, ~01:51). These expressions **name a place or address enemies**, and are **NOT Vorel titles** or formal honors. The character is still the claimant to his previous S2E09 boast; no new self-introduction adds wording to it. His unusual fear-of-nothing bravado ends in failed **Intelligence save 7 and a compelled walk into the telepathic tentacle chamber** at ~02:25–02:29. No new personal title awarded during that event. [Comparison](../../reports/WASTES_S2E10_ASR_COMPARISON_2026-10-26.md); audio not checked.
 
 ## S2E09 — new self-proclaimed title at mage-prison guardpost
 

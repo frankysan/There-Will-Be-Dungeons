@@ -1,0 +1,42 @@
+{
+  "date": "2026-10-26",
+  "local_file_and_fragment_links": 778,
+  "maintained_inbound_links": 24,
+  "former_headings_preserved": 9,
+  "exact_original_hashes": 6,
+  "reading_copy_target_equivalence": 6,
+  "explicit_reading_copy_link_corrections": 0,
+  "protected_hashes": 235,
+  "measurements": [
+    {
+      "path": "delvers/world/characters/broadside.md",
+      "before_main_words": 469,
+      "after_main_words": 424,
+      "arc_words": [
+        202,
+        85,
+        51
+      ],
+      "largest_arc_to_median": 2.376,
+      "footnotes": 8,
+      "anchors": 9
+    },
+    {
+      "path": "delvers/world/characters/cheet.md",
+      "before_main_words": 373,
+      "after_main_words": 324,
+      "arc_words": [
+        197,
+        51
+      ],
+      "largest_arc_to_median": 1.589,
+      "footnotes": 6,
+      "anchors": 7
+    }
+  ],
+  "errors": [],
+  "limits": [
+    "No new ASR, audio, remote URL or rendered-site review",
+    "Section dispositions and material-claim review, not sentence-by-sentence audio verification"
+  ]
+}

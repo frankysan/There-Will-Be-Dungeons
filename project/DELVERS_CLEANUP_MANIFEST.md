@@ -303,3 +303,37 @@ Both are found alive/apparently compelled and evacuated unconscious/stable throu
 Relevant mentions were searched across all 37 dossiers and selected complete source paragraphs read; no new ASR/audio, sheets or original visual-source review occurred. No evidence issue was closed, no dossier/media changed, and no commit or push was performed by this task.
 
 Next examine Anthela and Penelope as Koh's linked family subjects, then continue connected family, guild and domain batches. Full-world acceptance and final campaign integration remain pending.
+
+### Tenth implementation checkpoint — Anathala and Penelope Spiros
+
+**2026-10-26: Two family biographies migrated and structurally validated.** [Family report](../reports/DELVERS_SPIROS_FAMILY_2026-10-26.md) · [Coverage ledger](DELVERS_SPIROS_FAMILY_COVERAGE.json) · [Pre-edit archive](../research/legacy/2026-10-26/delvers-spiros-family/README.md) · [Validation](DELVERS_SPIROS_FAMILY_VALIDATION.json).
+
+| Subject | Current disposition | Main prose before → after |
+| --- | --- | ---: |
+| Anathala/Anthela | Introduction, three chronological family arcs and Current status; coerced belief, recognition, bodily recovery, consent and continued fear distinguished | 1,392 → 551 |
+| Penelope | Introduction, three brief family arcs and Current status; stories, mother's return, separate disclosure, dreams and epilogue retained | 418 → 323 |
+
+All 13 former heading targets remain reachable, and four additional identity/provenance blocks have dispositions. Six exact working-copy originals and equivalent reading copies are archived without target corrections. All 232 protected hashes match: 215 campaign files, 15 prior batch artifacts and two bonus-provenance documents. Earlier archives and the frozen baseline remain unchanged.
+
+The S3E01 naming direction is retained without renaming the canonical file/title or historic citations. Brief recognition differs from actual physical awakening; mother's knowledge differs from the daughter's later disclosure. Actual household events remain separate from rat projections, and the final family image does not relocate the household. Source-specific introduction age six supplements the old blanket age caution, without an inferred later age. Performer-approved hooves remain attributed design evidence, while discarded half-elf-Koh ideas and unused kidnapping routes are not made history or immunity.
+
+Relevant mentions were searched across all 37 dossiers and selected complete paragraphs plus existing retrospective passages read. No new ASR/audio, sheets, original art or full campaign rereading occurred. No evidence issue was closed, no dossier/media changed, and no commit or push was performed by this task.
+
+Next examine Broadside and Cheet as linked guild subjects, then continue guild and domain batches. Full-world acceptance and final campaign integration remain pending.
+
+### Eleventh implementation checkpoint — Broadside and Cheet
+
+**2026-10-26: Two linked guild biographies migrated and structurally validated.** [Character report](../reports/DELVERS_BROADSIDE_CHEET_2026-10-26.md) · [Coverage ledger](DELVERS_BROADSIDE_CHEET_COVERAGE.json) · [Pre-edit archive](../research/legacy/2026-10-26/delvers-broadside-cheet/README.md) · [Validation](DELVERS_BROADSIDE_CHEET_VALIDATION.json).
+
+| Subject | Current disposition | Main prose before → after |
+| --- | --- | ---: |
+| Broadside | Introduction, three relevant arc sections and Current status; mercy, trust, continued work and sound-related fear retained | 469 → 424 |
+| Cheet | Introduction, first-arc choices/judgment, brief reported reassignment and Current status; curiosity and influence remain bounded | 373 → 324 |
+
+All nine former heading targets remain reachable, including native current-status headings now updated beyond the old first-arc cutoffs. Six exact working-copy originals and equivalent reading copies are archived without target corrections. All 235 protected hashes match: 215 campaign files, 18 prior batch artifacts and two April bonus-provenance documents. Existing working-copy control/family changes and concurrent Wastes work are preserved.
+
+Broadside's last direct scene is S3E01 helping move furniture after hiding from the sound; Cheet's direct custody ends in S1E12, followed by Broadside's S2E06 report of Academy clerical duty and later discipline references. Neither receives an invented finale outcome. Sword return is retrospective with no fixed transfer time; physical mercy is not an independently proved psychic cure. Truth-circle testimony, guild findings, curiosity and actual free will are not collapsed into one certainty.
+
+The first arcs carry most personal change; later brief observations/reports are not padded. Broadside's 202-word first arc was reviewed for recap and retained for its distinct mercy, redemption and trust developments. Relevant mentions were searched across all 37 dossiers, with selected complete paragraphs, existing ledger entries and the April bonus passage read. No fresh ASR/audio, sheets or original art review occurred. No evidence issue was closed, no dossier/media changed, and no commit or push was performed by this task.
+
+Next examine Marek Gideon and Noble Hollow as a linked character/place batch, then continue connected guild and domain batches. Full-world acceptance and final campaign integration remain pending.

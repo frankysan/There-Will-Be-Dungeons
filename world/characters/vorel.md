@@ -1,8 +1,12 @@
 # Vorel
 
-**Portrayed by:** Kyle. **Identity:** Lizardfolk warrior and leader, protector of **Bok Bok**, bearer of the **Eye of Groxl** and claimant to many personal titles. **Spoilers:** Main Wastes through **S2E08** and cast Q&As. **Evidence:** ASR-provisional except owner-confirmed item/name orthography.[^march21]
+**Portrayed by:** Kyle. **Identity:** Lizardfolk warrior and leader, protector of **Bok Bok**, bearer of the **Eye of Groxl** and claimant to many personal titles. **Spoilers:** Main Wastes through **S2E10** and cast Q&As. **Evidence:** ASR-provisional except owner-confirmed item/name orthography.[^march21]
 
 **Browse:** [Characters](../CHARACTERS.md) · [His source-indexed titles](vorel-titles.md) · [Eye of Groxl](../technology/eye-of-groxl.md) · [World portal](../README.md).
+
+## S2E10 — vulnerable to telepathic lure, actual separation
+
+In [S2E10](../../episodes/S2E10.md), Vorel **leads the crypt search**, uses changing scales for dark visual camouflage and helps fight living rugs by **physically tearing Nash free and biting rugs apart**. Calling the chamber the **“tomb of cowards”** is a nickname for a place, **not a new personal title**. In an ancient chamber, a separate **telepathic invitation shows him imagined desert hunting grounds**; he **fails Intelligence saving throw 7**, becomes charm/fugue-like and **actually walks through eastern doorway into tentacled room**. **Hope grabs for his tail but fails to hold him**. Brief vision of a **giant eye embedded in the wall and human-shaped captives wrapped in tentacles** is not the same as seeing/recovering Eye of the Voice, and no fight/rescue is played before cutoff. Vorel is **alive but separated** at S2E10 end; other five remain outside. [P/Q audit](../../reports/WASTES_S2E10_ASR_COMPARISON_2026-10-26.md) · [title register](vorel-titles.md). Source only, audio-unverified.
 
 ## December 2021 creator retrospective — intended reactive role and early tutor
 

@@ -1,0 +1,89 @@
+{
+  "date": "2026-10-26",
+  "scope": "Broadside and Cheet guild biographies",
+  "headings": [
+    {
+      "path": "delvers/world/characters/broadside.md",
+      "old_heading": "Broadside — the familiar face beneath the armor",
+      "old_anchor": "broadside--the-familiar-face-beneath-the-armor",
+      "target": "Broadside — the familiar face beneath the armor",
+      "disposition": "native heading retained"
+    },
+    {
+      "path": "delvers/world/characters/broadside.md",
+      "old_heading": "Introduction",
+      "old_anchor": "introduction",
+      "target": "Introduction",
+      "disposition": "native heading retained"
+    },
+    {
+      "path": "delvers/world/characters/broadside.md",
+      "old_heading": "The ambush at the village",
+      "old_anchor": "the-ambush-at-the-village",
+      "target": "Arc One — Mercy and a chance to make amends",
+      "disposition": "character-focused first-arc synthesis; full ambush/transport detail archived"
+    },
+    {
+      "path": "delvers/world/characters/broadside.md",
+      "old_heading": "His return",
+      "old_anchor": "his-return",
+      "target": "Arc One — Mercy and a chance to make amends",
+      "disposition": "character-focused first-arc synthesis; full ambush/transport detail archived"
+    },
+    {
+      "path": "delvers/world/characters/broadside.md",
+      "old_heading": "Current status",
+      "old_anchor": "current-status",
+      "target": "Current status",
+      "disposition": "native status target retained and updated to last direct scene/later report; former cutoff preserved in archive"
+    },
+    {
+      "path": "delvers/world/characters/cheet.md",
+      "old_heading": "Cheet — a cleric's dangerous curiosity",
+      "old_anchor": "cheet--a-clerics-dangerous-curiosity",
+      "target": "Cheet — a cleric's dangerous curiosity",
+      "disposition": "native heading retained"
+    },
+    {
+      "path": "delvers/world/characters/cheet.md",
+      "old_heading": "Introduction",
+      "old_anchor": "introduction",
+      "target": "Introduction",
+      "disposition": "native heading retained"
+    },
+    {
+      "path": "delvers/world/characters/cheet.md",
+      "old_heading": "Robes, prisoners and the truth circle",
+      "old_anchor": "robes-prisoners-and-the-truth-circle",
+      "target": "Arc One — Curiosity, captivity and judgment",
+      "disposition": "character-focused first-arc synthesis; full ambush/transport detail archived"
+    },
+    {
+      "path": "delvers/world/characters/cheet.md",
+      "old_heading": "Current status",
+      "old_anchor": "current-status",
+      "target": "Current status",
+      "disposition": "native status target retained and updated to last direct scene/later report; former cutoff preserved in archive"
+    }
+  ],
+  "review": "Both complete pre-edit profiles read; relevant names/aliases searched across all 37 dossiers; selected full paragraphs, existing consistency entries and April bonus-dossier passage read; no new ASR/audio/sheet/original art review",
+  "horizons": {
+    "Broadside": {
+      "last_direct_scene": "S3E01 hiding from sound and helping move heavy furniture after Ball",
+      "later_reference": "S3E02 shallow-compulsion analogy refers to earlier events; no new direct cure or epilogue"
+    },
+    "Cheet": {
+      "last_direct_scene": "S1E12 guild custody and proposed rehabilitation",
+      "later_report": "S2E06 Broadside reports reprimand and Academy clerical assignment; S2E09 recalls discipline, no direct Academy scene"
+    }
+  },
+  "critical_boundaries": [
+    "Nonlethal defeat, stabilization and healing do not establish an actual psychic cure",
+    "Facial appearance change does not establish innate shapechanging or merge Cheet with Marek",
+    "Truth spell does not compel speech or make all interpretation objective",
+    "Guild judgment differs from proved mechanism or blanket free-will diagnosis",
+    "Sword handback is supported by retrospective without exact played time or full final inventory",
+    "Lower-tier work is not demotion; accepted rat job is not proved completed",
+    "Cheet reprimand/assignment report is not witnessed rehabilitation, hearing, discharge or death"
+  ]
+}

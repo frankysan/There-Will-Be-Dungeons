@@ -1,0 +1,134 @@
+{
+  "date": "2026-10-26",
+  "scope": "Anathala/Anthela and Penelope Spiros biographies",
+  "headings": [
+    {
+      "path": "delvers/world/characters/anthela-spiros.md",
+      "old_heading": "Anathala / Anthela Spiros — Koh's rescued wife",
+      "old_anchor": "anathala--anthela-spiros--kohs-rescued-wife",
+      "target": "Anathala / Anthela Spiros — Koh's rescued wife",
+      "disposition": "unchanged title"
+    },
+    {
+      "path": "delvers/world/characters/anthela-spiros.md",
+      "old_heading": "Post-finale retrospective: family protection was earned, not biological immunity",
+      "old_anchor": "post-finale-retrospective-family-protection-was-earned-not-biological-immunity",
+      "target": "anathala-status",
+      "disposition": "attributed retrospective/design evidence in footnote"
+    },
+    {
+      "path": "delvers/world/characters/anthela-spiros.md",
+      "old_heading": "S3E10: Real frightened homecoming, after S3E08 rat illusion",
+      "old_anchor": "s3e10-real-frightened-homecoming-after-s3e08-rat-illusion",
+      "target": "Arc Three — A life resumed with fears still present",
+      "disposition": "chronological family development synthesized; detailed historical cutoffs archived"
+    },
+    {
+      "path": "delvers/world/characters/anthela-spiros.md",
+      "old_heading": "S3E02: Voluntary research and recovered family life",
+      "old_anchor": "s3e02-voluntary-research-and-recovered-family-life",
+      "target": "Arc Three — A life resumed with fears still present",
+      "disposition": "chronological family development synthesized; detailed historical cutoffs archived"
+    },
+    {
+      "path": "delvers/world/characters/anthela-spiros.md",
+      "old_heading": "S2E12: awake, dancing, then resisting new compulsion",
+      "old_anchor": "s2e12-awake-dancing-then-resisting-new-compulsion",
+      "target": "Arc Two — Recognition, recovery and renewed danger",
+      "disposition": "chronological family development synthesized; detailed historical cutoffs archived"
+    },
+    {
+      "path": "delvers/world/characters/anthela-spiros.md",
+      "old_heading": "Physical condition and earlier visions",
+      "old_anchor": "physical-condition-and-earlier-visions",
+      "target": "Arc One — A voice behind the silence",
+      "disposition": "chronological family development synthesized; detailed historical cutoffs archived"
+    },
+    {
+      "path": "delvers/world/characters/anthela-spiros.md",
+      "old_heading": "S2E09: Khalazar's bride",
+      "old_anchor": "s2e09-khalazars-bride",
+      "target": "Arc Two — Recognition, recovery and renewed danger",
+      "disposition": "chronological family development synthesized; detailed historical cutoffs archived"
+    },
+    {
+      "path": "delvers/world/characters/anthela-spiros.md",
+      "old_heading": "S2E11: household reunion, confession and persistent fears",
+      "old_anchor": "s2e11-household-reunion-confession-and-persistent-fears",
+      "target": "Arc Two — Recognition, recovery and renewed danger",
+      "disposition": "chronological family development synthesized; detailed historical cutoffs archived"
+    },
+    {
+      "path": "delvers/world/characters/anthela-spiros.md",
+      "old_heading": "S2E10: ACTUAL rescue and physical awakening",
+      "old_anchor": "s2e10-actual-rescue-and-physical-awakening",
+      "target": "Arc Two — Recognition, recovery and renewed danger",
+      "disposition": "chronological family development synthesized; detailed historical cutoffs archived"
+    },
+    {
+      "path": "delvers/world/characters/anthela-spiros.md",
+      "old_heading": "Earlier status through S2E09",
+      "old_anchor": "earlier-status-through-s2e09",
+      "target": "Arc Two — Recognition, recovery and renewed danger",
+      "disposition": "chronological family development synthesized; detailed historical cutoffs archived"
+    },
+    {
+      "path": "delvers/world/characters/penelope-spiros.md",
+      "old_heading": "Penelope “Penny” Spiros — Koh and Anathala/Anthela's daughter",
+      "old_anchor": "penelope-penny-spiros--koh-and-anathalaanthelas-daughter",
+      "target": "Penelope “Penny” Spiros — Koh and Anathala/Anthela's daughter",
+      "disposition": "unchanged title"
+    },
+    {
+      "path": "delvers/world/characters/penelope-spiros.md",
+      "old_heading": "Played continuity vs retrospective intentions",
+      "old_anchor": "played-continuity-vs-retrospective-intentions",
+      "target": "Development by arc",
+      "disposition": "chronological family development synthesized; detailed historical cutoffs archived"
+    },
+    {
+      "path": "delvers/world/characters/penelope-spiros.md",
+      "old_heading": "Performer-confirmed visual baseline — 2021-11-13 retrospective",
+      "old_anchor": "performer-confirmed-visual-baseline--2021-11-13-retrospective",
+      "target": "penelope-design",
+      "disposition": "attributed retrospective/design evidence in footnote"
+    }
+  ],
+  "additional_blocks": [
+    {
+      "path": "delvers/world/characters/anthela-spiros.md",
+      "old_block": "Opening name-review paragraph",
+      "target": "Introduction source note: S3E01 naming direction retained, canonical slug/title unchanged"
+    },
+    {
+      "path": "delvers/world/characters/anthela-spiros.md",
+      "old_block": "Working spelling/family/campaign paragraph beneath Ball account",
+      "target": "Introduction and its source note, with chronological illness/recovery in arcs"
+    },
+    {
+      "path": "delvers/world/characters/penelope-spiros.md",
+      "old_block": "Opening campaign/family/name metadata",
+      "target": "Introduction and introduction/design notes; independent campaign identity retained"
+    },
+    {
+      "path": "delvers/world/characters/penelope-spiros.md",
+      "old_block": "Closing provenance paragraph",
+      "target": "Design/retrospective source notes; full bonus and comparison links retained"
+    }
+  ],
+  "review": "Complete prior profiles read; relevant mentions searched across 37 campaign dossiers; selected complete source paragraphs and bonus dossier passages read; no fresh ASR/audio/sheet/art review",
+  "horizons": {
+    "Anathala": "S3E10 detailed homecoming and S3E12 narrated family year/keepsake; no new captivity or separate clinical outcome",
+    "Penelope": "S3E10 direct desert-dream report and S3E12 narrated family outcome/keepsake; not physically placed in final tower cinematic"
+  },
+  "critical_boundaries": [
+    "S3E01 recorded naming direction does not authorize a new file identity or rewritten historic spellings",
+    "Brief recognition differs from actual bodily awakening; resumed sleep is not a new coma",
+    "Coerced wedding belief is not a performed physical marriage or verified promise",
+    "Wife confession and later explicit daughter disclosure have different knowledge horizons",
+    "Desert dreams differ from physical travel, prophecy, immunity or unused kidnapping branches",
+    "Source age six at first encounter supplements old blanket uncertainty without asserting later age",
+    "Little hooves are performer-approved design; early half-elf father concept is discarded",
+    "Family-image keepsake does not establish moving into the farm headquarters"
+  ]
+}
