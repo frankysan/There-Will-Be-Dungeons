@@ -654,3 +654,51 @@ Angel's air gift, restraint, rescue and reassurance are actual actions; Koh free
 Both complete profiles were read; aliases searched across all 37 dossiers; selected complete spa/puzzle paragraphs and explicit follow-up reviewed. No fresh ASR/audio, original sheet/map or art review occurred. No evidence issue was closed, source dossier/media changed or unrelated identity merged. No commit or push was performed by this task.
 
 Next examine Barclay Vandergeist and Radiant Lance, then continue remaining supporting-character and artifact batches. Full-world acceptance and final integration remain pending.
+
+### Twenty-ninth implementation checkpoint — Barclay and Radiant Lance
+
+**2026-10-26: Two character biographies migrated and locally validated.** [Character report](../reports/DELVERS_BARCLAY_RADIANT_2026-10-26.md) · [Coverage ledger](DELVERS_BARCLAY_RADIANT_COVERAGE.json) · [Pre-edit archive](../research/legacy/2026-10-26/delvers-barclay-radiant/README.md) · [Validation](DELVERS_BARCLAY_RADIANT_VALIDATION.json).
+
+Both biographies retain their paths/titles, start with Introduction, develop the relevant character arcs and end at Current status. Barclay's survival, generosity, faith and practical cooperation replace the spell-by-spell itinerary. Main prose changes from 740 to 290 words for Barclay and 393 to 292 for Radiant Lance. Barclay's developed arc contains 216 words; Radiant Lance's historical and captive phases contain 66 and 144, proportionate to their evidence. Radiant Lance's remembered reputation, attributed ideals, captivity and final companionship remain distinct from the rat collective's false town scenes. Source clocks, spelling variants, bonus design context and mechanics are in referenced footnotes.
+
+All seven former headings and the unheaded casting/spellcraft/identity/cutoff blocks are accounted for. Six exact originals and equivalent rebased reading copies are archived without link corrections. All 298 protected hashes match: 215 campaign files, 73 prior batch artifacts and ten bonus provenance documents. All four place-audit artifacts and all 27 place-register page hashes remain unchanged.
+
+Barclay's months underground and research-team losses remain testimony; Chance is not silently identified with another campaign entity. Rejected bonus character pitches and a wall shortcut remain unplayed. His Nondetection and the falling badges are observed; Zoltar's subsequent general tracking admission is retained without inventing an exact badge mechanism. Return to Atomer is not a team reunion or permanent recruitment.
+
+Radiant Lance's dragon slaying is the clerk's account, his mountain inscription attributed and the theatre a namesake. The approximate 150-year captivity is testimony. His card game and thanks are a psychic encounter, not a living farm visit, resurrection or confirmed divine release. Krandal wears the holy tabard; extra properties/attunement remain unidentified, and the stored physical lance is separate from Loran's transforming weapon.
+
+Both complete profiles were read; names/aliases searched across all 37 dossiers; selected complete camp/puzzle/exit, history/psychic/remains paragraphs, later tracking admission and bounded bonus selection passage reviewed. No fresh ASR/audio, original sheet/map or art review occurred. No evidence issue was closed, source dossier/media changed or unrelated identity merged. No commit or push was performed by this task.
+
+Next examine Veggie Sticks and Chad Brad, then continue remaining supporting-character and artifact batches. Full-world acceptance and final integration remain pending.
+
+### Thirtieth implementation checkpoint — Veggie Sticks and Chad Brad
+
+**2026-10-27: Two character biographies migrated and locally validated.** [Character report](../reports/DELVERS_VEGGIE_CHAD_2026-10-27.md) · [Coverage ledger](DELVERS_VEGGIE_CHAD_COVERAGE.json) · [Pre-edit archive](../research/legacy/2026-10-26/delvers-veggie-chad/README.md) · [Validation](DELVERS_VEGGIE_CHAD_VALIDATION.json).
+
+Both biographies retain their paths/titles, start with Introduction, develop relevant character arcs and end at Current status. Veggie's retracted boasts, fear, hospitality, detector collaboration and later tree transport are chronological. His final point is the Atomer arrival, not the superseded S1E04 woodland-home cutoff. Chad's hostile introduction, negotiated survival, adopted name and farm companionship lead to his skeletal reassembly, rescue work and definitive farewell. Main prose changes from 652 to 387 words for Veggie and 591 to 410 for Chad. Their developed arcs contain 157/146 and 166/176 words respectively, proportionate to the character changes.
+
+All nine former headings and Chad's unheaded state/ritual/source blocks are accounted for. Six exact originals and equivalent rebased reading copies were archived before editing, with no link corrections. All 301 protected hashes match: 215 campaign files, 76 previous batch artifacts and ten bonus provenance documents. All four place-audit artifacts and all 27 place-register page hashes remain unchanged.
+
+Veggie's walking plant Brad/Brador is separate from Chad/Brad. Veggie's alleged omniscience and grick-origin ideas remain limited; detector work is shared with Carrie and does not recruit him full-time. Tree travel reaches the Atlas cedar by the well, with no later forest return supplied. Badge retrieval, magical mechanism and permanent forest safety remain unresolved.
+
+Chad is named by Krandal after losing his original name to the curse; Brad begins as mistaken usage. The skull and later restored body are animated skeleton, not living flesh. Nine crypt warriors plus Chad make ten; Mace of Disruption custody is established at the expedition. Eight minotaurs leave through the first portal; Chad and Corgan remain and shield the second escape. All ten become inert bones at the Guild. Hoped-for living restoration, post-campaign revival and a return to the crypt are not invented.
+
+Both complete old profiles were read; aliases and descriptive terms searched across all 37 dossiers; selected complete woodland, early farm, naming, detector, tree-travel, crypt/ritual, expedition and finale paragraphs plus bounded bonus pledge context reviewed. No fresh ASR/audio, original sheet/map or art review occurred. No evidence issue was closed, source dossier/media changed or unrelated identity merged. No commit or push was performed by this task.
+
+Next examine Darmah Edstream and Dumbledwark of Raisinbunch, then continue remaining supporting-character and artifact batches. Full-world acceptance and final integration remain pending.
+
+### Thirty-first implementation checkpoint — Darmah and Dumbledwark
+
+**2026-10-27: Two character biographies migrated and locally validated.** [Character report](../reports/DELVERS_DARMAH_DUMBLEDWARK_2026-10-27.md) · [Coverage ledger](DELVERS_DARMAH_DUMBLEDWARK_COVERAGE.json) · [Pre-edit archive](../research/legacy/2026-10-27/delvers-darmah-dumbledwark/README.md) · [Validation](DELVERS_DARMAH_DUMBLEDWARK_VALIDATION.json).
+
+Existing paths and Dumbledwark's title are preserved; Darmah's visible title loses its obsolete episode tag, with the former H1 target retained. Both biographies start with Introduction, develop relevant character arcs and end at Current status. Darmah's earlier well-side fireball precedes the later rescue responsibility. Dumbledwark's professional persona, consent-based access, ambitions, dubious publicity proposal, theft and field aid remain distinct choices rather than a chronological spell inventory. Main prose changes from 501 to 284 words for Darmah and 911 to 309 for Dumbledwark. Darmah's early cameo and rescue arc contain 36 and 199 words; Dumbledwark's guest arc contains 228, without padding minor appearances.
+
+All seven former headings and the unheaded casting, preparation, camera, interview/custody and source blocks are accounted for. Six exact originals and equivalent rebased reading copies are archived without link corrections. All 304 protected hashes match: 215 campaign files, 79 previous batch artifacts and ten bonus provenance documents. All four place-audit artifacts and all 27 place-register page hashes remain unchanged.
+
+Darmah's declared well cleaning is not verified safety. The earlier name-only Dharma report does not independently identify her or establish Edgar's death. Hard-ground/capacity statements are in-play limits, not general rules or a rescued headcount. Preparations, Spider Climb, actual portals and later fireballs remain chronological. Her knockdown inside the shared illusory city is not a documented death or a specified lasting physical injury; the intervening recovery is unrecorded. Both evacuation circles actually reach the Guild.
+
+Dumbledwark's prophecy, romance hint and Zoltar accusations retain their evidential limits. Signed consent precedes Krandal's truth spell, while Koh declines it. Jimmy offers information for payment, not a bribe to the reporter. Managed victories/covert meetings remain proposals; the licence and stolen tome are actual custody events. Captured photographicals do not prove development or publication. Iron Monkey is found alive. The later Cassius-location lead is corroborated by release at the estate without validating every advertised accusation or proving full book publication.
+
+Both complete old profiles were read; aliases/role terms searched across all 37 dossiers; selected complete early well/response, interviews/consent/theft, dungeon reporting, rescue preparation/evacuations and vision paragraphs, later advertising/letter/release and bounded bonus context reviewed. No fresh ASR/audio, original sheet/map or art review occurred. No evidence issue was closed, source dossier/media changed or unrelated identity merged. No commit or push was performed by this task.
+
+Next examine Shrugs Manaspoon and Shaolin Nym, then continue remaining supporting-character and artifact batches. Full-world acceptance and final integration remain pending.

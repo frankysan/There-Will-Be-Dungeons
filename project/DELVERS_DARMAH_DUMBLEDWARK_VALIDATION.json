@@ -1,0 +1,60 @@
+{
+  "date": "2026-10-27",
+  "local_file_and_fragment_links": 1127,
+  "maintained_inbound_links": 24,
+  "former_headings_preserved": 7,
+  "exact_original_hashes": 6,
+  "reading_copy_target_equivalence": 6,
+  "explicit_reading_copy_link_corrections": 0,
+  "protected_hashes": 304,
+  "measurements": [
+    {
+      "path": "delvers/world/characters/darmah-edstream.md",
+      "before_main_words": 501,
+      "after_main_words": 284,
+      "arc_words": [
+        36,
+        199
+      ],
+      "largest_arc_to_median": 1.694,
+      "footnotes": 5,
+      "anchors": 8
+    },
+    {
+      "path": "delvers/world/characters/dumbledwark-of-raisinbunch.md",
+      "before_main_words": 911,
+      "after_main_words": 309,
+      "arc_words": [
+        228
+      ],
+      "largest_arc_to_median": 1.0,
+      "footnotes": 5,
+      "anchors": 9
+    }
+  ],
+  "errors": [],
+  "limits": [
+    "No new ASR, audio, remote URL or rendered-site review",
+    "Section dispositions and material-claim review, not sentence-by-sentence audio verification"
+  ],
+  "markdownlint": {
+    "maintained_files": 7,
+    "violations": 0
+  },
+  "whitespace": {
+    "scoped_git_diff_check": "passed",
+    "direct_new_file_check": "passed"
+  },
+  "manual_readback": "Both complete persisted biographies compared with archived originals and selected source paragraphs; character focus, professional choices, agency, chronology, testimony, actual/proposed actions, source boundaries and final states checked. Darmah old H1 target retained with visible episode tag removed. No audio or rendered-site verification.",
+  "protected_groups": {
+    "campaign_files": 215,
+    "prior_batch_artifacts": 79,
+    "bonus_provenance_documents": 10
+  },
+  "preserved_place_register": {
+    "pages": 27,
+    "matching_page_hashes": 27,
+    "register_protected": true
+  },
+  "working_tree_context": "Prior Delvers changes and concurrent unrelated Wastes work preserved; no commit or push by this task."
+}

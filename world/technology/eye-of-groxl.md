@@ -2,7 +2,11 @@
 
 **Browse:** [Items and artifacts](../ITEMS_AND_ARTIFACTS.md) · [World portal](../README.md)
 
-**Canonical object identity:** **One artifact**, with owner-confirmed spelling **Eye of Groxl**. Processed ASR names `Grojil` and `Groxel` refer to **this same object**, including the E067 “god killer Grojil” phrase; they are not a second god/item. [D-028/D-034](../../project/DECISIONS.md). **Spoilers:** Through played Wastes S3E07. **Research:** ASR-provisional mechanics and lore.
+**Canonical object identity:** **One artifact**, with owner-confirmed spelling **Eye of Groxl**. Processed ASR names `Grojil` and `Groxel` refer to **this same object**, including the E067 “god killer Grojil” phrase; they are not a second god/item. [D-028/D-034](../../project/DECISIONS.md). **Spoilers:** Through played Wastes S3E08. **Research:** ASR-provisional mechanics and lore.
+
+## S3E08 — Eye contradicts apparent certainty and reveals generator dependency
+
+In [played S3E08](../../episodes/S3E08.md) **~00:43–00:46**, as Vorel uses the Eye's **bonus-action learn-one-vulnerability ability**, it **erupts with hatred, issues immediate repeated commands to KILL**, and identifies the immense lizardfolk foe as **“NOT GROJIL” / an “ABOMINATION” sustained by HUMAN “CALCULATOR” MACHINERY**, insisting that the machinery be detached. This **directly complicates**, rather than silently overturns or resolves, **S3E07 GM's explicit statement that Vorel recognizes the legendary Groxl through this SAME Eye**. Possible interpretations include hostile mechanism/augmented vessel, self-serving Eye consciousness or unreliable current wording. **None independently proved**; preserve unresolved identity tension. Actual evidence corroborates equipment dependency: **HOPE identifies power generator, dragon Nash and Stanley DETACH it, giant's external laser/chain blade/cannon FAIL, yet giant remains alive; VOREL ultimately finds a SECOND embedded electric cable running through its HEART**. On striking inner wires Vorel **TAKES 92 LIGHTNING**, with Eye strangely seeming to welcome electricity. After external generator detonates the Eye issues “STRIKE AGAIN”; Vorel **cuts heart cabling with Chrome's Bane for 46 slashing and GIANT PHYSICALLY COLLAPSES**. Eye remains in Vorel's chest at cutoff; **no Eye extraction/transference, defeated god's resurrection or divine cosmology confirmed**. [Full comparison](../../reports/WASTES_S3E08_ASR_COMPARISON_2026-10-26.md), audio unverified.
 
 ## S3E07 — physically emerged Groxl recognized through Vorel's implanted Eye
 

@@ -1,0 +1,90 @@
+{
+  "date": "2026-10-27",
+  "scope": "Delvers-only rescue wizard and visiting correspondent",
+  "headings": [
+    {
+      "path": "delvers/world/characters/darmah-edstream.md",
+      "old_heading": "Darmah Edstream \u2014 Five Emissaries rescue wizard (S3E11)",
+      "old_anchor": "darmah-edstream--five-emissaries-rescue-wizard-s3e11",
+      "target": "Introduction, development, Current status or relevant source note",
+      "disposition": "Native heading or compatibility anchor retained; full original archived"
+    },
+    {
+      "path": "delvers/world/characters/darmah-edstream.md",
+      "old_heading": "S3E12 CAMPAIGN FINALE: Actually teleports captives and party home, fights Khalazar",
+      "old_anchor": "s3e12-campaign-finale-actually-teleports-captives-and-party-home-fights-khalazar",
+      "target": "Introduction, development, Current status or relevant source note",
+      "disposition": "Native heading or compatibility anchor retained; full original archived"
+    },
+    {
+      "path": "delvers/world/characters/dumbledwark-of-raisinbunch.md",
+      "old_heading": "Dumbledwark of Raisinbunch \u2014 visiting bard and dungeon correspondent",
+      "old_anchor": "dumbledwark-of-raisinbunch--visiting-bard-and-dungeon-correspondent",
+      "target": "Introduction, development, Current status or relevant source note",
+      "disposition": "Native heading or compatibility anchor retained; full original archived"
+    },
+    {
+      "path": "delvers/world/characters/dumbledwark-of-raisinbunch.md",
+      "old_heading": "S3E10: Book advertisements and sealed Cassius-location letter",
+      "old_anchor": "s3e10-book-advertisements-and-sealed-cassius-location-letter",
+      "target": "Introduction, development, Current status or relevant source note",
+      "disposition": "Native heading or compatibility anchor retained; full original archived"
+    },
+    {
+      "path": "delvers/world/characters/dumbledwark-of-raisinbunch.md",
+      "old_heading": "S3E04: Photographicals in C4",
+      "old_anchor": "s3e04-photographicals-in-c4",
+      "target": "Introduction, development, Current status or relevant source note",
+      "disposition": "Native heading or compatibility anchor retained; full original archived"
+    },
+    {
+      "path": "delvers/world/characters/dumbledwark-of-raisinbunch.md",
+      "old_heading": "Appearance and equipment (S3E03)",
+      "old_anchor": "appearance-and-equipment-s3e03",
+      "target": "Introduction, development, Current status or relevant source note",
+      "disposition": "Native heading or compatibility anchor retained; full original archived"
+    },
+    {
+      "path": "delvers/world/characters/dumbledwark-of-raisinbunch.md",
+      "old_heading": "Investigation, ethics and custody",
+      "old_anchor": "investigation-ethics-and-custody",
+      "target": "Introduction, development, Current status or relevant source note",
+      "disposition": "Native heading or compatibility anchor retained; full original archived"
+    }
+  ],
+  "additional_blocks": [
+    {
+      "path": "delvers/world/characters/darmah-edstream.md",
+      "old_block": "Unheaded first-material-role/casting, assignment/capacity and Spider Climb/preparation blocks",
+      "target": "Introduction, development, Current status and notes"
+    },
+    {
+      "path": "delvers/world/characters/dumbledwark-of-raisinbunch.md",
+      "old_block": "Opening identity/casting, camera abilities, interviews/ethics, custody and final evidence blocks",
+      "target": "Introduction, development, Current status and notes"
+    }
+  ],
+  "domains": {
+    "delvers/world/characters/darmah-edstream.md": "Character: conspicuous fire magic, cheerful directness, practical support, rescue responsibility and perseverance through threat",
+    "delvers/world/characters/dumbledwark-of-raisinbunch.md": "Character: comic professional persona, consent and access, ambitious investigation, ethical compromise, field assistance and later reporting"
+  },
+  "review": "Both complete profiles; aliases and role terms searched across all 37 dossiers; selected complete early well/response, interviews/consent/theft, field correspondent, rescue preparation and actual evacuation/vision paragraphs, later advertising/letter/release and bounded bonus passages reviewed; no new ASR/audio/sheet/art/map review",
+  "critical_boundaries": [
+    "Darmah/Dharma/Edgestream spellings provisional; S1E01 name-only report does not prove identity or Edgar death",
+    "Early fireball at separate temple-side well not southwestern well; claimed cleaning not verified safety",
+    "Darmah title loses visible episode tag, old H1 target retained",
+    "Teleportation capacity and hard-floor requirements are in-play statements, not universal spell rules or exact rescued tally",
+    "Spider Climb and preparations performed before first actual portal; no fireball cast in S3E11, two in S3E12",
+    "Unconscious in shared illusory city not a documented death or a specified physical injury; precise recovery not narrated",
+    "Both actual circles reach Guild basement; no imaginary child rescue or new post-campaign role",
+    "Dumbledwark spellings and Lake End distinction unresolved; Bo appearance not Wastes continuity or permanent recruitment",
+    "Prophecy, Evelyn romance suspicion and Zoltar accusations not independently confirmed facts",
+    "Written consent precedes Krandal truth spell; Koh refuses; Krandal will not coerce him",
+    "Jimmy offers information for payment, not an offered bribe to reporter",
+    "Managed public victories and covert meeting proposals not completed publication or guaranteed ethical agenda",
+    "Licence and tome actually taken; tome theft not authorized transfer, contents/ownership unidentified",
+    "Camera takes photographicals, not proven developed prints or public publication",
+    "Iron Monkey found alive, death report overturned; reporter not credited with party killing blow",
+    "A Prison City advertised, no full book publication shown; Cassius letter lead later corroborated without validating every promotional allegation"
+  ]
+}

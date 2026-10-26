@@ -1,6 +1,10 @@
 # Vorel — titles and epithets register
 
-**Type:** Source-indexed supporting register for [Vorel](vorel.md), deliberately separated from the main character biography. **Evidence:** ASR-provisional, with source windows, name variants and social standing preserved. **Spoilers:** Through Wastes S3E07; Q&As are retrospective, not played conferrals. [Characters](../CHARACTERS.md) · [World portal](../README.md).
+**Type:** Source-indexed supporting register for [Vorel](vorel.md), deliberately separated from the main character biography. **Evidence:** ASR-provisional, with source windows, name variants and social standing preserved. **Spoilers:** Through Wastes S3E08; Q&As are retrospective, not played conferrals. [Characters](../CHARACTERS.md) · [World portal](../README.md).
+
+## S3E08 — NEW self-proclaimed “Vorel, Savior of the Universe” while severing giant's heart
+
+In [played S3E08 — Electric Lizard](../../episodes/S3E08.md) **~02:24–02:26**, Vorel/Kyle **PERSONALLY UTTERS “VOREL, SAVIOR OF THE UNIVERSE” immediately BEFORE striking** the giant's **electrified cables in its actual heart/aorta** with **Chrome's Bane**. Both P/Q automatic transcripts support the wording. The GM explicitly asks if this will join Vorel's *named personal titles*: it is **a newly spoken SELF-PROCLAIMED PERSONAL EPITHET, not a title formally conferred by others**. He **ACTUALLY rolls natural 20 and 30 hit, deals 46 magical slashing, physically severs cables, stops the beating heart and topples the giant**; the giant's future metaphysical permanence is unconfirmed, the Ruby remains undeployed, and title “Savior of the Universe” is **NOT proof the universe is actually saved**. This is distinct from the **weapon name** Chrome's Bane established S3E07. Earlier ~00:45 Vorel says **“there is no greater lizard in Razak Val than I”**, a self-aggrandizing boast but not necessarily a separate new formal title. His **Eye of Groxl communicates “abomination/not Grojil” and generator weakness**, source's character/Eye account conflicts with the apparent certainty of the S3E07 identity recognition; do not invent a resolution. [S3E08 P/Q audit](../../reports/WASTES_S3E08_ASR_COMPARISON_2026-10-26.md), audio unchecked.
 
 ## S3E07 — actually names the S3E06 longsword “Chrome's Bane,” NOT a personal title
 

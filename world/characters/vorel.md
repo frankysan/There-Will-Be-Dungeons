@@ -1,6 +1,6 @@
 # Vorel
 
-**Portrayed by:** Kyle. **Identity:** Lizardfolk warrior and leader, protector of **Bok Bok**, bearer of the **Eye of Groxl** and claimant to many personal titles. **Spoilers:** Main Wastes through **S3E07** and cast Q&As, including the April 2022 retrospective. **Evidence:** ASR-provisional except owner-confirmed item/name orthography.[^march21]
+**Portrayed by:** Kyle. **Identity:** Lizardfolk warrior and leader, protector of **Bok Bok**, bearer of the **Eye of Groxl** and claimant to many personal titles. **Spoilers:** Main Wastes through **S3E08** and cast Q&As, including the April 2022 retrospective. **Evidence:** ASR-provisional except owner-confirmed item/name orthography.[^march21]
 
 **Browse:** [Characters](../CHARACTERS.md) · [His source-indexed titles](vorel-titles.md) · [Eye of Groxl](../technology/eye-of-groxl.md) · [World portal](../README.md).
 
@@ -11,6 +11,10 @@ In [May 2022 out-of-game Q&A](../../episodes/BONUS-2022-05.md) **~00:20:36–00:
 ## April 2022 Q&A — self-reliance and fish-out-of-water inspiration
 
 In the [April 2022 Q&A](../../episodes/BONUS-2022-04.md), Kyle says he considered but **did not ask the werefolk to transform Vorel**, believing an acquired curse would undercut the warrior's personal strength. He says the character's distinctive viewpoint grew from a **comedic outsider's sincerity in unfamiliar culture**, specifically citing **Worf from Star Trek** as a creative inspiration. A paladin version of Vorel is discussed as **an alternate hypothetical class**, not a played multiclass, and the giant lizard remains himself rather than a werebear. **No new personal epithet or in-world reference to Star Trek is established.** [Comparison](../../reports/BONUS_2022-04_ASR_COMPARISON_2026-10-26.md).
+
+## S3E08 — inside the electrical heart; new title “Savior of the Universe”
+
+In [played S3E08](../../episodes/S3E08.md) **Vorel's prior *Enlarge* expires** and he **ACTUALLY RAGES AGAIN**, throws Hope **~84 feet** toward dragon Nash in an inspired combined skill maneuver. His **implanted Eye of Groxl independently fixates upon the enormous foe, violently calls it an “abomination” and says it is NOT Grojil but relies on human “calculator” equipment** (~00:43); this conflicts with S3E07's seemingly unambiguous GM recognition and **DOES NOT settle whether a true historic Groxl, replica or augmented body is present**. Vorel slashes the giant's cuticle repeatedly with **Chrome's Bane**, is **PHYSICALLY SWALLOWED**, cuts/grips the interior throat and climbs toward the beating heart. He discovers **metal cabling embedded in aorta**, accidentally strikes energized wires on double natural ones and **SUFFERS 92 LIGHTNING DAMAGE**, charred but alive (fire counter saved against). After the giant's detached human power generator explodes outside, Vorel **NEWLY SELF-ANNOUNCES “VOREL, SAVIOR OF THE UNIVERSE”**, slashes the heart wiring with Chrome's Bane for **46 MAGICAL damage** (natural 20 + additional hit), and **ACTUALLY TOPPLES THE GIANT**, whose last claim that he can return remains unproven. **Vorel is then PROPELLED INTO AIR and FALLING at S3E08 cutoff**, not confirmed safely landed or dead. **Union Wheel and Emenil are physically crushed by the giant earlier; their permanent metaphysical fate not settled.** [Titles](vorel-titles.md) · [Eye](../technology/eye-of-groxl.md) · [S3E08 P/Q audit](../../reports/WASTES_S3E08_ASR_COMPARISON_2026-10-26.md), audio unchecked.
 
 ## S3E07 — Chrome's Bane named, chrome dragon killed, Groxl recognized
 

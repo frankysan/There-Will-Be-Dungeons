@@ -1,8 +1,12 @@
 # Diontalus — self-described archfey of carnage
 
-**Identity:** A supernatural agent who **forcibly joins Stanley Billings in E029**, exercises independent control of the shared body, and is **physically extracted into a crystal by the Principle in E059**. **Spelling:** *Diontalus* is the owner-accepted canonical display ([D-026](../../project/DECISIONS.md)); `Dion Talus`, `Deontalus`, `Diantalus` and `Diontalis` are ASR variants, not separate entities. **Spoilers:** Through E128, the Season One finale, and retrospective bonuses. **Evidence:** Episode dossiers based on processed ASR, not audio verification.
+**Identity:** A supernatural agent who **forcibly joins Stanley Billings in E029**, exercises independent control of the shared body, and is **physically extracted into a crystal by the Principle in E059**. **Spelling:** *Diontalus* is the owner-accepted canonical display ([D-026](../../project/DECISIONS.md)); `Dion Talus`, `Deontalus`, `Diantalus` and `Diontalis` are ASR variants, not separate entities. **Spoilers:** Through played Wastes S3E08, including retrospective bonuses. **Evidence:** Episode dossiers based on processed ASR, not audio verification.
 
 **Browse:** [Characters](../CHARACTERS.md) · [Antagonists](../ANTAGONISTS.md) · [Stanley Billings](stanley-billings.md) · [World portal](../README.md).
+
+## S3E08 — manifested ethereal body destroyed by Groxl's eye laser
+
+In [played S3E08](../../episodes/S3E08.md) **~00:55–~01:30**, Diontalus **ACTUALLY ARRIVES AS BRIGHT BLUE SPECTRAL BODY ABOVE SOLAR MINES VALLEY**, physically recognizes the enormous lizardfolk and **DECLARES it had previously died**. The giant recognizes him as “Dian”, vows to kill him again. Diontalus **ACTUALLY STRIKES WITH SPECTRAL SCYTHE but its blows FAIL TO PENETRATE SCALES**. The giant's remaining **LASER EYE ACTUALLY BURNS THROUGH DIONTALUS'S ETHEREAL BODY**; its blue substance turns red, then he **VISIBLY DISINTEGRATES/EVAPORATES INTO NOTHING**. GM emphatically narrates Diontalus **meeting his end**. Stanley, elsewhere on the monster's back, **PHYSICALLY FEELS a connection torn out of himself** after that death (~01:30). This is **not just a radio death report** or another capture into a crystal; **the visible manifested entity is destroyed in battle**. **Permanence of an archfey spirit's metaphysical annihilation, actual subsequent rebirth or any resurrection ability is not proved**. The giant's earlier “you were dead” exchange is character testimony, not independently sourced ancient history. [S3E08 two-ASR comparison](../../reports/WASTES_S3E08_ASR_COMPARISON_2026-10-26.md); audio not listened.
 
 ## S3E05 — physically deploys to Earth toward northwest cannon, battle result pending
 

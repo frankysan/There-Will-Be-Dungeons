@@ -1,0 +1,60 @@
+{
+  "date": "2026-10-26",
+  "local_file_and_fragment_links": 1084,
+  "maintained_inbound_links": 35,
+  "former_headings_preserved": 7,
+  "exact_original_hashes": 6,
+  "reading_copy_target_equivalence": 6,
+  "explicit_reading_copy_link_corrections": 0,
+  "protected_hashes": 298,
+  "measurements": [
+    {
+      "path": "delvers/world/characters/barclay-vandergeist.md",
+      "before_main_words": 740,
+      "after_main_words": 290,
+      "arc_words": [
+        216
+      ],
+      "largest_arc_to_median": 1.0,
+      "footnotes": 5,
+      "anchors": 8
+    },
+    {
+      "path": "delvers/world/characters/radiant-lance.md",
+      "before_main_words": 393,
+      "after_main_words": 292,
+      "arc_words": [
+        66,
+        144
+      ],
+      "largest_arc_to_median": 1.371,
+      "footnotes": 3,
+      "anchors": 8
+    }
+  ],
+  "errors": [],
+  "limits": [
+    "No new ASR, audio, remote URL or rendered-site review",
+    "Section dispositions and material-claim review, not sentence-by-sentence audio verification"
+  ],
+  "markdownlint": {
+    "maintained_files": 7,
+    "violations": 0
+  },
+  "whitespace": {
+    "scoped_git_diff_check": "passed",
+    "direct_new_file_check": "passed"
+  },
+  "manual_readback": "Both complete persisted biographies compared with archived originals and selected source paragraphs; character focus, traits, agency, attribution, actual/unused actions, chronology and endpoint limits checked. No audio or rendered-site verification.",
+  "protected_groups": {
+    "campaign_files": 215,
+    "prior_batch_artifacts": 73,
+    "bonus_provenance_documents": 10
+  },
+  "preserved_place_register": {
+    "pages": 27,
+    "matching_page_hashes": 27,
+    "register_protected": true
+  },
+  "working_tree_context": "Prior Delvers changes and concurrent unrelated Wastes/root work preserved; no commit or push by this task."
+}

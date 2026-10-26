@@ -1,30 +1,41 @@
 # Veggie Sticks — guardian of the wooded trail
 
-## S3E09: Actual tree travel from forest dungeon to Atomer
+## Introduction
 
-The Delvers plus guest [Barclay](barclay-vandergeist.md) emerge through the **original forest dungeon exit** after gathering **THIRD grick urn** during [S3E09](../../episodes/S3E09.md). **Veggie Sticks ACTUALLY greets the group at his woodland hut**, irritated by Barclay's lost research-team logging/camp access and by the gricks around woods. Barclay apologizes for cutting trees for makeshift boardwalk/bridges; Veggie cares strongly for trees and nearby hippogriff mating, asserts a male hippogriff needs grooming/dance. These dialogues **do not prove 90% of local gricks killed** (Koh boasts this, an exaggeration). Party asks his established tree travel rather than return through possibly Guild-monitored Gruber lift. He insists destination must be a TREE not a shrub (Evelyn suggests shrubs). Discussion includes **guild oak, Barclay's white fir/aspen, Koh's cedar**, and Veggie finally **actually transports party to Atomer's Atlas cedar NEAR A WELL**, at **~6 p.m.**; there are some intermediate tree transitions. After Barclay **casts Nondetection on three core Delvers and their Guild Silver badges ACTUALLY FALL OFF**, Krandal **throws his badge far into the woods**, Veggie becomes alarmed that Guild pursuers could come searching and **tries to find it**, not verified recovered. Evelyn also deliberately drops hers; exact badge disposition uncertain. On arrival near well, Krandal **casts Thaumaturgy roar away from party (Deception 17)** to distract nearby residents; Veggie's later departure not fully explicit before cutoff. **NO tree teleport directly to Loran hidden school, no Guild oak arrival, no sudden authorized raid or original forest danger permanently cleared.** [S3E09](../../episodes/S3E09.md).
+<a id="overview"></a>
 
-## Overview
+Veggie Sticks is a gnome druid who claims the woods around the [ruined sinkhole](../places/grick-sinkhole.md) as his domain. Mud-streaked and wearing stick antlers, he travels with a tiny walking shrub and objects to Guild adventurers entering the forest. He presents himself as a watchful protector of its creatures, especially the hippogriffs.[^introduction]
 
-Veggie Sticks lives among old trees near the ruined limestone sinkhole. More comfortable among the woodland's creatures and small animated shrubs than with armed strangers, he acts as a self-appointed guardian of the hippogriffs that occupy the forest. His dishevelled clothes, rustic habits and extravagant claims of awareness conceal someone easily frightened by dangers he cannot control.[^introduction]
+## Development by arc
 
-## A guardian out of his depth
+<a id="a-guardian-out-of-his-depth"></a>
 
-He initially boasted that little could happen in his woods without his knowledge. The Delvers learned otherwise when gricks attacked them within the ruins. Veggie Sticks had neither anticipated their numbers nor understood how dangerous the place had become. When confronted after their escape, he admitted that he had exaggerated his vigilance to discourage adventurers from hunting hippogriffs. The confession revealed self-protective vanity, but not malice: he feared the gricks as much as he feared the guild's response.
+### Arc One — Boasts give way to hospitality
 
-He had ventured only a little way into the stonework beneath the sinkhole, where hidden spikes frightened him back. He knew of strange symbols and had seen similar marks on chests deeper in the ruins. He did not know who had built the underground passages, and his impression that the gricks came from there remained an inference rather than certain knowledge.[^ruins]
+Veggie insists that he would know if gricks inhabited his woods, but reluctantly allows the Delvers into the ruins. Their encounter with the creatures exposes the limits of his vigilance. Confronted afterward, he admits that he exaggerated his awareness to deter adventurers from threatening the hippogriffs. His fear of an intrusive Guild expedition remains stronger than his ability to control the danger himself.[^ruins]
 
-## Hospitality in the great stump
+His knowledge of the dungeon is fragmentary: traps drove him back after a short exploration, and he recognizes symbols without understanding the ruins' full history. The forest's guardian cannot offer the certainty he first promised.[^ruins]
 
-When the survivors returned, Veggie Sticks was hiding in a roadside bush, his clothing damaged by an earlier encounter. He guided them through a line of old face-marked trees to the immense hollow stump in which he lived. Inside stood a rough bed, a little table and a collection of potted, walking plants that stirred along the windowsill. Evelyn had carried one small animated shrub out of the ruins and called it Bush, but Veggie Sticks greeted it as **Brad or Brador**, one of his favourites, and Evelyn put it back among its kin.
+<a id="hospitality-in-the-great-stump"></a>
 
-Despite his fear and his embarrassment, Veggie Sticks offered the party shelter, water for cleaning gathered food, roots and berries. His kindness helped them recover, even as he urged them not to bring a large adventuring expedition into his home. His priority remained the safety of the hippogriffs, though he could now see that the dungeon posed a danger he could not solve alone.[^hospitality]
+Yet embarrassment does not prevent kindness. He leads the survivors to his hollow-stump home, where walking plants share the windowsill with his few possessions. Evelyn returns the small shrub she carried out of the ruins to its companions. Veggie offers roots, berries, water and shelter, helping the adventurers recover while asking them to spare the woodland a larger incursion.[^hospitality]
+
+### Arc Three — A reluctant ally protects his boundaries
+
+When Koh needs help refining his crystal detector, Veggie agrees to accompany him through the trees. Working with Carrie, he adds a directional pinpoint to the device. His assistance does not become a new allegiance: he declines full-time Guild service and returns to the forest.[^detector]
+
+<a id="s3e09-actual-tree-travel-from-forest-dungeon-to-atomer"></a>
+
+He later receives the Delvers and Barclay after their emergence from the dungeon. His hospitality still has limits. He resents trees cut by the research expedition and worries about disturbance to hippogriff courtship. Nevertheless, he agrees to transport the group to Atomer.[^travel]
+
+Barclay's spell then causes the Delvers' badges to fall away. When Krandal throws his badge into the woods, Veggie fears pursuers will follow it to his refuge and tries to find it. Helping the adventurers has brought the threat of outside scrutiny back to his door. He still takes them through successive trees to the cedar beside Atomer's well.[^travel]
 
 ## Current status
 
-Veggie Sticks remains in his woodland home caring for the animated plants. Brad or Brador is back among the other shrubs. The Delvers have reported the gricks and discovered dungeon to the guild, but Veggie Sticks has received no promise that future expeditions will spare the hippogriffs. His fear that strangers may disturb the forest remains unresolved.[^status]
+Veggie has brought the group to Atomer's well. His later departure is unknown. His concern for the woods and hippogriffs remains unresolved, with neither their permanent safety nor an agreement restraining future expeditions secured.[^travel]
 
-[^introduction]: **First encountered directly** in the recovered [Delvers S1E03](../../episodes/S1E03.md) at ~01:45–01:56, where he claims the woods, points to his carved faces, denies a grick could live there and reluctantly grants passage; later [S1E04](../../episodes/S1E04.md), ~01:09–01:21, confirms the exaggerated nature of his claims. **Veggie Sticks** is a text-supported working spelling, not audio-verified. Research horizon S1E04.
-[^ruins]: [S1E04 dossier](../../episodes/S1E04.md), ~01:15–01:18 and 01:25–01:27; his claimed foresight is **explicitly retracted**. Do not treat the chests' marks as a verified translation.
-[^hospitality]: [S1E04](../../episodes/S1E04.md), ~01:18–01:34. Primary resembles **Brad**; Qwen renders **Brador** ~01:20:38. Evelyn sets the small plant among the others: it is **not** established as travelling away with the party.
-[^status]: [S1E04](../../episodes/S1E04.md), ~01:30–01:38. The party returns to the ruins and later leaves for the guild; the fate of the protector's woods and hippogriffs is left open. [Review queue](../../REVIEW_QUEUE.md).
+[^introduction]: [S1E03](../../episodes/S1E03.md), ~01:45:40–02:12:30: first appearance, carved tree faces, stick antlers and walking shrub. Veggie Sticks is the working name; S3E02 also renders Virgil Strix, not a separately established person. No original audio/art inspected. He claims to have moved a dead trapper's remains off the path, while denying knowledge of the killer/cart; no witnessed killing or complete trapper history is established.
+[^ruins]: [S1E04](../../episodes/S1E04.md), ~01:09–01:27. He explicitly retracts omniscience, admits not knowing of the gricks and reports only limited exploration past hidden spikes. His impression that gricks came from below is an inference; symbols on deeper chests are not a verified translation or builder attribution. His damaged clothing and hiding in a roadside bush precede the hospitality.
+[^hospitality]: [S1E04](../../episodes/S1E04.md), ~01:18–01:38. Hollow stump contains rough bed/table and potted animated plants; water is offered for cleaning gathered food. Evelyn's “Bush” is recognized as Brad/Brador (Parakeet resembles Brad, Qwen Brador), one of Veggie's favorites, and returned among its kin. This shrub is distinct from minotaur Chad/Brad and is not retained as a travelling pet. The heroes rest, then revisit the ruins and report to the Guild; no promise to spare the hippogriffs is secured. [Review queue](../../REVIEW_QUEUE.md).
+[^detector]: [S3E02](../../episodes/S3E02.md), ~01:53–02:00 and ~02:32–02:42. Koh's suggestion is followed by actual recruitment and multiple Tree Stride moves, not a performed hippogriff ride. Carrie and Veggie jointly add the directional gold pinpoint; detector remains with Koh. Veggie refuses full-time Guild involvement and returns to the forest.
+[^travel]: [S3E09](../../episodes/S3E09.md), ~02:36–02:51. Barclay apologizes for expedition logging/boardwalk work; Veggie discusses hippogriff grooming/dance. A claim of ninety-percent grick clearance is an unverified boast. Actual tree travel ends at the Atlas cedar by Atomer's well around 6 p.m., after discussion of Guild oak, white fir/aspen and cedar; no direct arrival at the Guild oak, hidden school or shrub occurs. Nondetection is Barclay's spell; all three Silver badges fall, but exact mechanism and final custody remain unclear. Veggie's search does not verify retrieval. [S3E10](../../episodes/S3E10.md) later supplies Zoltar's admission of general Guild divination tracking, not every detail of badge magic or proof of pursuit to Veggie's home. Krandal's arrival roar distracts residents. No later Veggie exit, woodland return or enduring forest clearance is established; the former S1E04 current-state paragraph is superseded by this later appearance.

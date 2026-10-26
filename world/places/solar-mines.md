@@ -2,7 +2,7 @@
 
 **Browse:** [Places](../PLACES.md) · [World portal](../README.md)
 
-**Type:** Important origin setting in Nash Maggard's background. **Evidence:** Character statements, retrospective accounts and later research; **not** a fully played historical side adventure. **Spoilers:** Played Wastes through S3E07 (plus identified out-of-game retrospectives).
+**Type:** Important origin setting in Nash Maggard's background. **Evidence:** Character statements, retrospective accounts and later research; **not** a fully played historical side adventure. **Spoilers:** Played Wastes through S3E08 (plus identified out-of-game retrospectives).
 
 **Nash** describes captivity, survival and resistance connected with the **Solar Mines** and **Blood Canyons**. His descriptions develop across the campaign and include memories that seem contradictory; they should be presented as the state of Nash's own recollections and others' testimony, not a reconstructed omniscient history. His implanted **dragon-metal heart** and later dragon forms are observed, but the exact circumstances of implantation require careful source distinction. [E000](../../episodes/E000.md) · [E024](../../episodes/E024.md) · [Nash](../characters/nash-maggard.md).
 
@@ -13,6 +13,10 @@ In the [September 2020 public-release Q&A](../../episodes/BONUS-2020-09.md), **~
 ## December 2021 creator explanation — missing context, not new reconnaissance
 
 During the [December 2021 bonus ~00:03–00:07](../../episodes/BONUS-2021-12.md), **Beau** says he has intentionally developed a link between **the Principle, Nash's dragon-metal heart and the Solar Mines**. He emphasizes the difference between **what Nash remembers as an exploited child and what the mines actually involved**, leaving unknown aspects to be discovered. Scott says Nash escaped with **one other individual** whose later whereabouts have not been revealed; Scott wonders whether the guards could have since upgraded **Slow Peters**, but **Beau does not confirm any specific upgrades, present garrison or ongoing operating procedures**. These are **out-of-game creator context and player conjecture**, not additional played travel, a newly revealed escapee identity or witnessed past footage. [P/Q audit](../../reports/BONUS_2021-12_ASR_COMPARISON_2026-10-26.md).
+
+## S3E08 — machine-powered giant collapses amid renewed lava and casualties
+
+In [played S3E08](../../episodes/S3E08.md), the Solar Mines valley now has **expanding lava pool** cutting the battlefield into rock islands. The **building which originally held CENTRAL MINE ENTRY is physically EMBEDDED IN giant lizardfolk's back**, not at a usable surface entrance. Widespread goblin, tiefling, giant, birdfolk and Liberator forces fight, with **many killed by giant's chain-blade lava splash and rockets**; totals not verified. **HOPE'S ENGINEERING21** identifies the **giant's HUMAN POWER GENERATOR** feeding arm pipes. **NASH DRAGON + STANLEY *TELEKINESIS* ACTUALLY DETACH THAT MACHINE**, drop it into lava, and the giant's armor/weapons/embedded building fall apart. **DIONTALUS visibly disintegrated by giant eye laser, UNION and EMENIL physically crushed by fist**, no resurrection played. Generator later **detonates for 97 base FIRE**, hurting heroes and nearby troops; **giant still lives** until **VOREL cuts its electrical HEART/AORTA CABLE with Chrome's Bane for 46 SLASHING**, causing giant's massive body **to collapse** in valley. **Do not equate generator with separate, completed Rubistic Triangulosphere**, whose last clear custody was dragon Nash rescuing it from Fate Six S3E07; no Ruby installation, functioning new entrance to Earth's core or Weir cure is shown. Ending main party survival unresolved. [S3E08 P/Q report](../../reports/WASTES_S3E08_ASR_COMPARISON_2026-10-26.md), no audio.
 
 ## S3E07 — front gate actually falls; Groxl carries the central entrance
 

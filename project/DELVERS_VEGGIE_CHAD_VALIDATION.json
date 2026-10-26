@@ -1,0 +1,61 @@
+{
+  "date": "2026-10-27",
+  "local_file_and_fragment_links": 1121,
+  "maintained_inbound_links": 30,
+  "former_headings_preserved": 9,
+  "exact_original_hashes": 6,
+  "reading_copy_target_equivalence": 6,
+  "explicit_reading_copy_link_corrections": 0,
+  "protected_hashes": 301,
+  "measurements": [
+    {
+      "path": "delvers/world/characters/chad-brad.md",
+      "before_main_words": 591,
+      "after_main_words": 410,
+      "arc_words": [
+        166,
+        176
+      ],
+      "largest_arc_to_median": 1.029,
+      "footnotes": 7,
+      "anchors": 8
+    },
+    {
+      "path": "delvers/world/characters/veggie-sticks.md",
+      "before_main_words": 652,
+      "after_main_words": 387,
+      "arc_words": [
+        157,
+        146
+      ],
+      "largest_arc_to_median": 1.036,
+      "footnotes": 5,
+      "anchors": 10
+    }
+  ],
+  "errors": [],
+  "limits": [
+    "No new ASR, audio, remote URL or rendered-site review",
+    "Section dispositions and material-claim review, not sentence-by-sentence audio verification"
+  ],
+  "markdownlint": {
+    "maintained_files": 7,
+    "violations": 0
+  },
+  "whitespace": {
+    "scoped_git_diff_check": "passed",
+    "direct_new_file_check": "passed"
+  },
+  "manual_readback": "Both complete persisted biographies compared with archived originals and selected source paragraphs; personality, relationships, agency, chronology, testimony, performed/hoped-for changes, name boundaries and final-state limits checked. No audio or rendered-site verification.",
+  "protected_groups": {
+    "campaign_files": 215,
+    "prior_batch_artifacts": 76,
+    "bonus_provenance_documents": 10
+  },
+  "preserved_place_register": {
+    "pages": 27,
+    "matching_page_hashes": 27,
+    "register_protected": true
+  },
+  "working_tree_context": "Prior Delvers changes and unrelated work preserved; no commit or push by this task."
+}

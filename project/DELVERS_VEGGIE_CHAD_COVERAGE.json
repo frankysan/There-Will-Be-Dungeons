@@ -1,0 +1,98 @@
+{
+  "date": "2026-10-27",
+  "scope": "Delvers-only woodland guardian and skeletal farm companion",
+  "headings": [
+    {
+      "path": "delvers/world/characters/veggie-sticks.md",
+      "old_heading": "Veggie Sticks \u2014 guardian of the wooded trail",
+      "old_anchor": "veggie-sticks--guardian-of-the-wooded-trail",
+      "target": "Introduction, development, Current status or relevant source note",
+      "disposition": "Native heading or compatibility anchor retained; full original archived"
+    },
+    {
+      "path": "delvers/world/characters/veggie-sticks.md",
+      "old_heading": "S3E09: Actual tree travel from forest dungeon to Atomer",
+      "old_anchor": "s3e09-actual-tree-travel-from-forest-dungeon-to-atomer",
+      "target": "Introduction, development, Current status or relevant source note",
+      "disposition": "Native heading or compatibility anchor retained; full original archived"
+    },
+    {
+      "path": "delvers/world/characters/veggie-sticks.md",
+      "old_heading": "Overview",
+      "old_anchor": "overview",
+      "target": "Introduction, development, Current status or relevant source note",
+      "disposition": "Native heading or compatibility anchor retained; full original archived"
+    },
+    {
+      "path": "delvers/world/characters/veggie-sticks.md",
+      "old_heading": "A guardian out of his depth",
+      "old_anchor": "a-guardian-out-of-his-depth",
+      "target": "Introduction, development, Current status or relevant source note",
+      "disposition": "Native heading or compatibility anchor retained; full original archived"
+    },
+    {
+      "path": "delvers/world/characters/veggie-sticks.md",
+      "old_heading": "Hospitality in the great stump",
+      "old_anchor": "hospitality-in-the-great-stump",
+      "target": "Introduction, development, Current status or relevant source note",
+      "disposition": "Native heading or compatibility anchor retained; full original archived"
+    },
+    {
+      "path": "delvers/world/characters/veggie-sticks.md",
+      "old_heading": "Current status",
+      "old_anchor": "current-status",
+      "target": "Introduction, development, Current status or relevant source note",
+      "disposition": "Native heading or compatibility anchor retained; full original archived"
+    },
+    {
+      "path": "delvers/world/characters/chad-brad.md",
+      "old_heading": "Chad Brad \u2014 cursed skeletal minotaur and Krandal's farm companion",
+      "old_anchor": "chad-brad--cursed-skeletal-minotaur-and-krandals-farm-companion",
+      "target": "Introduction, development, Current status or relevant source note",
+      "disposition": "Native heading or compatibility anchor retained; full original archived"
+    },
+    {
+      "path": "delvers/world/characters/chad-brad.md",
+      "old_heading": "S3E12 FINAL: Carries civilians through danger; cursed skeletal existence ENDS",
+      "old_anchor": "s3e12-final-carries-civilians-through-danger-cursed-skeletal-existence-ends",
+      "target": "Introduction, development, Current status or relevant source note",
+      "disposition": "Native heading or compatibility anchor retained; full original archived"
+    },
+    {
+      "path": "delvers/world/characters/chad-brad.md",
+      "old_heading": "S3E11: Actually enters Dawnless Dunes as one of ten cursed skeleton minotaurs",
+      "old_anchor": "s3e11-actually-enters-dawnless-dunes-as-one-of-ten-cursed-skeleton-minotaurs",
+      "target": "Introduction, development, Current status or relevant source note",
+      "disposition": "Native heading or compatibility anchor retained; full original archived"
+    }
+  ],
+  "additional_blocks": [
+    {
+      "path": "delvers/world/characters/chad-brad.md",
+      "old_block": "Opening skull state, aboleth/crypt choice, reanimation and final source blocks",
+      "target": "Introduction, development, Current status and notes"
+    }
+  ],
+  "domains": {
+    "delvers/world/characters/veggie-sticks.md": "Character: protective exaggeration, fear, hospitality, forest allegiance, skilled cooperation and boundaries",
+    "delvers/world/characters/chad-brad.md": "Character: hostile guardian, negotiated survival, adopted name, farm companionship, agency, chosen aid and final release"
+  },
+  "review": "Both complete profiles; aliases including Chad/Brad, Veggie/Virgil and scarecrow searched across all 37 dossiers; selected complete first meetings, farm development, detector collaboration, tree transit, crypt/ritual, expedition and final rescue paragraphs plus bounded bonus pledge context reviewed; no fresh ASR/audio/sheet/art/map review",
+  "critical_boundaries": [
+    "Veggie Sticks/Virgil Strix spelling remains provisional, not two established people",
+    "His omniscience retracted, grick origin and symbol/chest meaning not certified",
+    "Walking shrub Brad/Brador separate from minotaur Chad/Brad; shrub returned, not permanent pet",
+    "Carrie and Veggie jointly improve Koh detector; no full-time Guild recruitment",
+    "Tree travel reaches Atlas cedar by well, not Guild oak/school/shrub; later return to woodland unplayed",
+    "No verified 90-percent grick extermination, settled badge custody or complete tracking mechanism",
+    "Chad originally nameless hostile skeletal minotaur; property claim is testimony",
+    "Krandal names Chad; Brad starts mistaken usage, not formal independent rename",
+    "Skull animated but not living flesh; no species-wide curse or resurrection inference",
+    "Aboleth/crypt curse accounts precede actual final break, not early release",
+    "150-gold played ritual restores skeletal body only, nine crypt allies plus Chad make ten",
+    "Mace of Disruption custody established next episode, not backdated",
+    "False farm takeover remains projection, not real employee mutiny or ownership transfer",
+    "Eight minotaurs first portal, Chad/Corgan remain and shield rescuers for second; exact civilian rescue tally unaudited",
+    "All ten become inert bones at Guild; no flesh restoration, post-campaign revival or return to crypt invented"
+  ]
+}

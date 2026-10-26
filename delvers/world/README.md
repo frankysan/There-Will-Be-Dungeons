@@ -65,6 +65,12 @@ The [triangle-gate catacombs](places/triangle-gate-catacombs.md) and [Black Basi
 
 [Destroying Angel](characters/destroying-angel.md) and [Goggles Granny](characters/goggles-granny.md) have a [guest-allies checkpoint](../../reports/DELVERS_ANGEL_GRANNY_2026-10-26.md) covering diplomatic care, independent expertise, practical cooperation and their distinct departures.
 
+[Barclay](characters/barclay-vandergeist.md) and [Radiant Lance](characters/radiant-lance.md) have a [character checkpoint](../../reports/DELVERS_BARCLAY_RADIANT_2026-10-26.md) covering resourceful companionship, historical reputation, captive agency and their distinct final states.
+
+[Veggie Sticks](characters/veggie-sticks.md) and [Chad Brad](characters/chad-brad.md) have a [character checkpoint](../../reports/DELVERS_VEGGIE_CHAD_2026-10-27.md) covering protective boundaries, practical cooperation, farm companionship and final release.
+
+[Darmah Edstream](characters/darmah-edstream.md) and [Dumbledwark of Raisinbunch](characters/dumbledwark-of-raisinbunch.md) have a [character checkpoint](../../reports/DELVERS_DARMAH_DUMBLEDWARK_2026-10-27.md) covering rescue responsibility, practical assistance, journalistic access and ethical compromise.
+
 All 27 current place-directory paths now have bounded editorial dispositions: 25 place/institution accounts, one historical event study and one compatibility route. The [place audit](../../reports/DELVERS_PLACE_AUDIT_2026-10-26.md) and [disposition register](../../project/DELVERS_PLACE_DISPOSITIONS.json) distinguish direct site observations from later reports and outcomes. This does not certify complete factual coverage or finish the remaining world domains.
 
 ## Subject directory
