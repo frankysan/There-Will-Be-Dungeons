@@ -1,5 +1,9 @@
 # Alexandre Vanderbuck Withers — claimant of Skull Keep
 
+## S3E12 FINAL: Physically rescued from pyramid via Darmah first portal
+
+[Delvers S3E12](../../episodes/S3E12.md) confirms **ALEXANDRE WITHERS ACTUALLY ALIVE/STABLE and carried through FIRST completed Teleportation Circle to Guild basement** along with Buck Wildfire, other enslaved workers and Phelan, aided by skeletal minotaurs/Edgar Boonfellow. **Not left behind in collapsing pyramid or declared dead**. Later Guild doctors tend rescued civilians. **NO additional voluntary confession, interrogation, judicial outcome or family reunion** shown; his earlier S2E12 suspicious hiring statement remains his allegation and is NOT disproved/proven by Khalazar defeat. [S3E12 dossier](../../episodes/S3E12.md).
+
 ## S3E11: Physically found at work inside black pyramid, no rescue
 
 [Delvers S3E11](../../episodes/S3E11.md) reveals **ALEXANDRE VANDERBUCK WITHERS ACTUALLY PHYSICALLY PRESENT** in lower statue workshop of [Dawnless Dunes black pyramid](../places/dawnless-dunes-pyramid.md), not dead at prior S2E12 pit fall. Dominic scouts him and reports to Koh's psychic network; Koh later enters same room and directly sees Withers at work on the **~90ft unfinished Khalazar face statue scaffold**, receiving parts from dismantled spider and dark ichor plumbing. Buck Wildfire also there, both look dishevelled and **seem compulsively working**, no voluntary confirmation/clear memory. **No restoration of free will, escape, testimony or arrest in S3E11**, evacuation is only being prepared at cutoff. Retain his S2E12 admission as HIS OWN allegation, not proof he authored pyramid or controls slaves. [S3E11](../../episodes/S3E11.md).

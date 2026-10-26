@@ -1,5 +1,9 @@
 # Buck Broscale, called Wildfire — psionic mentor
 
+## S3E12 FINAL: Alive and carried through first completed rescue portal
+
+[Delvers S3E12](../../episodes/S3E12.md) **ACTUALLY EVACUATES BUCK WILDFIRE (unconscious/stable) along with Withers, Phelan, other enslaved elven craftspeople from black pyramid**. Darmah Edstream **ACTUALLY FINISHES FIRST circle** and skeletal minotaurs escort bodies into GUILD BASEMENT; later Khalazar defeat ends worldwide/nearby mind control and Guild personnel heal the survivors. **Buck is physically rescued from captive slave labour, not dead at S2E12 Bronze Ball fall**; his individual spoken reunion with Valentine, memory or exact post-cure status **NOT separately shown**. No statement that he willingly aided Khalazar or authored statue. [S3E12 source](../../episodes/S3E12.md).
+
 ## S3E11: Actually seen alive under compulsion in Khalazar statue workshop
 
 During [S3E11](../../episodes/S3E11.md) Dominic Reeves ACTUALLY SCOUTS the lower workshop inside the [Dawnless Dunes black pyramid](../places/dawnless-dunes-pyramid.md) and sees **BUCK WILDFIRE PRESENT, still with AXE across back and tattered clothes**, alongside Alexandre Withers, local craft workers and other elves apparently compulsively laboring on a **~90ft screaming Khalazar-face statue** made partly of dismantled mechanical spider with black ichor tubes. Koh later ACTUALLY DESCENDS into same workshop and sees Wildfire still at work; **this resolves S2E12 missing/fell-below fate to “physically found alive/animated and apparently enthralled in S3E11,” NOT killed or safely rescued**. No normal conversation/restored agency, homecoming with Valentine or cure before cliffhanger; Darmah's teleport circle only BEGINS preparation. [Source episode](../../episodes/S3E11.md).

@@ -8,7 +8,7 @@
 
 | I want to… | Start here |
 | --- | --- |
-| **Explore Delvers (separate reality)** | [Campaign index](delvers/README.md), [world reference](delvers/world/README.md), [narrative](delvers/narrative/README.md) and [Delvers queue](delvers/REVIEW_QUEUE.md). **ASR-provisional through S3E11; next S3E12 — KOA is not A-OK**. [37-entry source inventory](delvers/SOURCE_INVENTORY.md) |
+| **Explore Delvers (separate reality)** | [Campaign index](delvers/README.md), [world reference](delvers/world/README.md), [narrative](delvers/narrative/README.md) and [Delvers queue](delvers/REVIEW_QUEUE.md). **ASR-provisional Delvers MAIN CAMPAIGN COMPLETE THROUGH S3E12 (Season Three, third arc, entire Delvers finale); NO NEXT main-campaign episode**. [37-entry source inventory](delvers/SOURCE_INVENTORY.md) |
 | **Explore *Inverse* (separate reality)** | [Complete four-episode index](inverse/README.md), [S1E01](inverse/episodes/S1E01.md), [S1E02](inverse/episodes/S1E02.md), [S1E03](inverse/episodes/S1E03.md) and [S1E04 finale](inverse/episodes/S1E04.md). **Not a Wastes timeline** |
 | **Read the Wastes story** | [Arc One](narrative/ARC_ONE.md) (**E000–E026**), [Arc Two](narrative/ARC_TWO.md) (**E027–E054**), [Arc Three](narrative/ARC_THREE.md), [Arc Four — The Price of a Way Home](narrative/ARC_FOUR.md) (**completed at Hope's E101 departure**), then [Arc Five — No Place Like Home](narrative/ARC_FIVE.md) (**begins inside E101**) |
 | Understand the story's organization and spoiler limits | [Narrative guide](narrative/README.md) |

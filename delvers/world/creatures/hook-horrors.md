@@ -1,5 +1,9 @@
 # Hook horrors — hunters of the underground passages
 
+## S3E12 campaign-finale change — Scroungy becomes docile farm beast
+
+The previously hatched hook-horror juvenile **Scroungy**, imprinted upon Krandal in earlier Season Three, is **ACTUALLY described in [S3E12 one-year epilogue](../../episodes/S3E12.md) as a relatively tame BEAST OF BURDEN** after Khalazar's evil recedes. At [Splenderbelt Farm](../places/splenderbelt-farm-delvers-tower.md) **Scroungy and farm donkey PULL A CART together** among many newly recruited unusual farm workers. The creature was **not** killed by Khalazar collapse, removed from farm, turned humanoid or proven tamed during S3E08; the earlier pink ribbon reappears on epilogue desk as a keepsake. This is a GM-played future state, not merely a plan. No universal claim all hook horrors become tame. [S3E12](../../episodes/S3E12.md).
+
 ## Introduction
 
 The hook horrors are enormous, bird-headed creatures that stalk the deep natural tunnels beneath the city. Their long bodies, plated backs and great hooked limbs give them an unnerving likeness to both predatory birds and hard-shelled cave beasts. They move with a confidence that makes even experienced adventurers hesitate to press farther into their territory.[^sighting]
