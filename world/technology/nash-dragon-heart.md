@@ -1,6 +1,12 @@
 # Nash Maggard's engineered dragon heart
 
-**Object:** Implanted **dragon-metal/mechanical heart engine** in Nash Maggard's body, connected to his earlier floating-heart survival, unusual black-dragon transformations and episodic magical reactions. **Latest direct inspection:** **E122**. [Items and artifacts](../ITEMS_AND_ARTIFACTS.md) · [Nash](../characters/nash-maggard.md) · [Chronology](../CHRONOLOGY.md).
+**Object:** Implanted **dragon-metal/mechanical heart engine** in Nash Maggard's body, connected to his earlier floating-heart survival, unusual black-dragon transformations and episodic magical reactions. **Latest directly witnessed function:** **Wastes S3E01 (Regenerate, adult dragon combat)**. [Items and artifacts](../ITEMS_AND_ARTIFACTS.md) · [Nash](../characters/nash-maggard.md) · [Chronology](../CHRONOLOGY.md).
+
+## S2E12–S3E01 — real death, heart-only survival, accelerated regrowth
+
+Inside Pentel Weiss, **Nash ACTUALLY dies from mummy combat** after failed death saving throws ([S2E12](../../episodes/S2E12.md)), but the engineered heart survives and generates an eyestalk through his dead chest. Vorel **actually opens and removes the live heart**, and it **hovers** independently, carrying Nash's conscious personality and capacity for nonverbal magic. The **original emptied corpse is thrown out and destroyed in the purple nebula, not the living heart**. Fate Six's speaking wooden father-voice claims Nash was a discarded creation of the Principle from **flesh pits of Clench** and that the heart contains the DNA needed to regrow the body; these are **his accounts**, not verified records of Nash's manufacturing.
+
+At [S3E01](../../episodes/S3E01.md), Stanley **actually casts seventh-level *Regenerate* DIRECTLY ON THE LIVING HEART AND EYESTALK**, causing bright neon-pink light and grotesque but painless acceleration of flesh, head and limbs; the new mouth allows Nash to speak. He chooses **legs first**, still lacking arms when the Hell ship attacks. **Nash actually switches into full adult-black-dragon form DURING the healing process**; his complete humanoid body is not shown before episode cutoff. He uses acid breath in the continuing battle and retains this dragon form when the Principle arrives. This is still **Nash's engineered heart**, never the separate natural black-dragon heart intended for the [Triangulosphere](rubistic-triangulosphere.md). [S2E12 audit](../../reports/WASTES_S2E12_ASR_COMPARISON_2026-10-26.md) · [S3E01 audit](../../reports/WASTES_S3E01_ASR_COMPARISON_2026-10-26.md).
 
 ## S2E02 — incomplete Triangulosphere on Mars, two hearts still distinct
 

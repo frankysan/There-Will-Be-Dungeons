@@ -2,11 +2,17 @@
 
 **Browse:** [Characters](../CHARACTERS.md) · [Antagonists](../ANTAGONISTS.md) · [World portal](../README.md)
 
+## S2E11–S3E01 — private instructions and terror at Vladimir's arrival
+
+The hooded Voice remains a **private interlocutor of Hope**, with appearances and claims not automatically shared with her companions. At [S2E11](../../episodes/S2E11.md), it **privately reveals that singing can destroy the alien eye in Pentel Weiss**, an effective weakness confirmed when the group actually sings and the eye melts. It **claims another portion of its power lies at the top of prison**, which Hope does not collect. After Hope teleports the party out, at [S2E12](../../episodes/S2E12.md) it **again demands she return for the additional relic**, threatening the consequences of failing to prove loyalty. **Hope refuses to sacrifice her companions for the Voice's wishes**, and her Hand remains attached/functional.
+
+During the [S3E01](../../episodes/S3E01.md) ambush, **the Principle/Vladimir personally boards Fate Six**. Hope alone experiences the hooded Voice suddenly and **ACTUALLY hears it panic and urge her to FLEE** (~02:15). Hope **ignores this advice** and stands her ground. The Principle goes on to **claim that HE commissioned Tobacho to retrieve the Hand** and wants Hope to surrender it; no independent confirmation of that past commission or of the Voice's identity follows. **No Voice/Principle reunion dialogue occurs in shared party hearing**, and neither Hope's Hand nor a missing Eye/power fragment changes owner before cutoff. The Voice's fear is directly portrayed, while any underlying reason remains uncertain. [S3E01 P/Q audit](../../reports/WASTES_S3E01_ASR_COMPARISON_2026-10-26.md).
+
 ## E124 — refused killing order and untested key
 
 **~02:15:13–02:17:52, Hope-only:** while the others remove headphones, the hooded Voice orders **kill Diontalus/take his power**. **Hope refuses twice**. It nevertheless gives a supposed undoing key, **`care laundry me he jaju my heistita` / `Care, laundry, meji, jajul, my histita` (?)**, claiming every archfey has such a phrase. **Exact words/meaning require listening; Hope neither speaks them to Diontalus nor kills him/absorbs essence**. The mechanism is a patron claim, not a universal demonstrated rule. Stanley, Nash and Vorel are not automatically informed. [E124](../../episodes/E124.md) · [Comparison](../../reports/E124_ASR_COMPARISON_2026-10-24.md), **ASR-provisional, no listening**.
 
-**Name/identity:** “The Voice” or hooded interlocutor are descriptive labels. **Do not assert a verified personal name or cosmological identity** from the speaker's claims alone. **Spoilers:** Through E124. **Evidence:** Episode dossiers based on processed ASR.
+**Name/identity:** “The Voice” or hooded interlocutor are descriptive labels. **Do not assert a verified personal name or cosmological identity** from the speaker's claims alone. **Historical profile horizon in prior entries:** through E124; **current latest S3E01** documented above. **Evidence:** Episode dossiers based on processed ASR.
 
 The hooded figure becomes central to Hope's predicament around the **White Tower**, the separated **Zorander's Fist gauntlet** and the **living Hand of the Voice**. In **E101 Hope deliberately replaces her own severed hand with the Hand**, leading to a physical alteration and the final separation of her path from Nash, Stanley and Vorel within that same episode. The patron offers instructions and shows apparent power, but its plans are often learned through **Hope's private conversations**; they are not automatically public party knowledge. [E101](../../episodes/E101.md) · [Hope](hope-akmenos.md).
 

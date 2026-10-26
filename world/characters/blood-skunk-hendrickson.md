@@ -1,5 +1,8 @@
 # Blood Skunk Hendrickson
 
+**S3E01 — last observed:** The clown-like Harlequinari **actually boards Fate Six with Squirts, Steerious and Doctor Spider**, acting under Brett/Asmodeus's hostile instructions. He casts ***Hunter's Mark* on Vorel** and shoots him but suffers severe damage from Stanley's magical waves and **friendly fire from Doctor Spider's radiance/fire**. After falling unconscious he **actually fails his final death saving throw**, and the GM declares him **dead**, describing a grotesque jack-in-the-box emerging from his ruined body. Whether Hell's special resurrection options could reverse this death in a *later* episode is unknown; no revival is played by this cutoff. The Principal/Principle unexpectedly arrives during the encounter; Blood Skunk is no longer fighting. [S3E01 dossier](../../episodes/S3E01.md) · [two-ASR audit](../../reports/WASTES_S3E01_ASR_COMPARISON_2026-10-26.md).
+
+
 **Browse:** [Characters](../CHARACTERS.md) · [World portal](../README.md)
 
 **Role:** Companion assigned to Hope's separate Arc Five path by Brett in E102. **Names and mechanics:** Treat episode-specific ASR as provisional; do not infer a different identity from variations. [E102](../../episodes/E102.md).

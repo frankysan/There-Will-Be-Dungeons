@@ -1,0 +1,29 @@
+# The Wastes — Season Three: Into the Same Unfinished Story
+
+**Story-first continuation of [Season Two — A Vessel for Hope](SEASON_TWO.md).** Season Two ended with [S2E12](../episodes/S2E12.md), but **the same story arc carries through Season Three and must not be closed before Season Three's end**, by [owner decision D-042](../project/DECISIONS.md). **Current researched horizon: S3E01 only.** This is a connected fictional narrative based on ASR-provisional material, **not verified original audio**. Timestamped details, names and ambiguities remain in [the episode dossier](../episodes/S3E01.md) and [independent text audit](../reports/WASTES_S3E01_ASR_COMPARISON_2026-10-26.md).
+
+## A ship caught between Hell and chrome
+
+Nash drifts above Fate Six's deck, little more than a metal heart carrying one impatient eye. If anyone could say how a man who has died twice should feel about being himself, it might be him—but he cannot yet speak. Stanley comes to find him, remembers the companion whose death he could not prevent in the crypt and turns to a new kind of magic. He lowers the small beating engine onto the deck, lifts his megaphone and touches Nash's only eye with the finishing motion of ***Regenerate***.
+
+A fluorescent pink mark blooms where Stanley's finger was. Warmth pulses through the heart. Flesh flows outward in strange little stalks, teeth and lips appear before there is a face to hold them, and Nash begins to talk again. It is not a painless process to watch, although he himself feels surprisingly well. Vorel drapes a cloak over the terrible spectacle, leaving a hole for Nash's eye. The faster restoration promises an end to his helplessness, but it has scarcely begun.
+
+Below, Tungsten tends his exhausted niece Union with the ghostly ship's doctor. Stanley and Hope ask whether the rescued inventor will need one more search before repairing the Triangulosphere. Tungsten smiles with discomfort. He says that the rare material he once left Elhandar to obtain has stayed hidden on his person through all his years of imprisonment. How it can be removed is a delicate subject, and he hopes Dunglestar will help him once they reach Mars. The travelers accept the news with some uncertainty and turn to the helm.
+
+Crooked Hand Row has found a way through the lightning fields. Hope follows his safer course past the wandering space whales, and Fate Six finally breaks into clear space. Mars is ahead—until a vast shadow passes over the wheel. Enormous harpoons strike the vessel's sides. A prisonlike sphere of energy surrounds the hull, and from the other ship a host of armored Hell Knights launches into battle with the elven ghosts. Four familiar servants of Hell leap onto Fate Six behind their resurrected kobold commander, Squirts. Blood Skunk the clown, Steerious Business the minotaur and Doctor Spider have come for Hope, sent by a master who has tired of waiting for her obedience.
+
+Stanley answers with thunder and light, and Vorel meets the minotaur in a contest of flaming blades, furious jaws and stubborn rage. Doctor Spider covers the deck in sickly radiance which torments ally and enemy alike; Stanley disperses it with magic. Squirts falls, rises again and briefly pulls her fellow attackers back from defeat. Nash, who had chosen to grow legs before arms, finds the approaching battle badly timed for his new body. With a leap of magical identity he becomes a vast black dragon—fully furnished with claws and jaws again, but still capable of being trapped in the mind. Doctor Spider imprisons him within an illusory straitjacket. Nash eventually tears himself free, accepting a blast of psychic pain in exchange for movement.
+
+Hope refuses to relent. Vorel fells his raging opposite. Blood Skunk falls and does not rise again. Doctor Spider retreats up the mast behind a ring of flame, raising fallen allies but scorching them as well. When Nash finally fills the crow's nest with acid, Spider is knocked down and the Hell Knights begin losing ground to the ghosts. The defense appears to be working.
+
+Then another portal opens.
+
+The Principle walks onto the deck, bright blue lines crossing his enormous chrome body, each finger ringed with scarlet. His shape rises higher, a crown and a skull forming where a human head had been. The figure proclaims new names and titles that none of the party can yet verify. The hooded Voice appears beside Hope and, for once, sounds frightened: it orders her to flee.
+
+Hope stays. Stanley falls motionless beneath a spoken word of power. She draws her dagger and cuts into the Principle's metal body three times, but cold magic that has conquered lesser opponents barely impresses him. The dragon Nash lunges into the chrome, finding that tooth and claw cannot penetrate it; only a trace of acid burns through. He does not retreat either.
+
+The Principle demands Hope's Hand, claiming he himself ordered Tobacho to recover it and had hoped she would seek its missing piece in Pentel Weiss. Hope holds it up and refuses to give it to him. **The fighting stops only because the story reaches the edge of this episode.** The Hell ship still holds Fate Six, Stanley is stunned, and the Principle stands before them. The quest to restore the Triangulosphere and save creation remains open. So does the **same story arc that began in Season Two**.
+
+---
+
+**Research cutoff:** Played [S3E01 — Fly, Fools!](../episodes/S3E01.md). The attack by the Principle is **not** resolved here; the next verified played source is [S3E02 — A New Mouth to Feed](../sources/The%20Wastes%20S3E02.%20A%20New%20Mouth%20to%20Feed.parakeet.processed.srt), **not yet analyzed**. The Principle's self-introduction (“Vladimir Trix” in one export), Tungsten's reagent name, and the Principle's claims about Tobacho await original audio or authoritative corroboration.

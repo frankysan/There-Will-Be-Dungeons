@@ -1,6 +1,10 @@
 # Vorel — titles and epithets register
 
-**Type:** Source-indexed supporting register for [Vorel](vorel.md), deliberately separated from the main character biography. **Evidence:** ASR-provisional, with source windows, name variants and social standing preserved. **Spoilers:** Through Wastes S2E12; Q&As are retrospective, not played conferrals. [Characters](../CHARACTERS.md) · [World portal](../README.md).
+**Type:** Source-indexed supporting register for [Vorel](vorel.md), deliberately separated from the main character biography. **Evidence:** ASR-provisional, with source windows, name variants and social standing preserved. **Spoilers:** Through Wastes S3E01; Q&As are retrospective, not played conferrals. [Characters](../CHARACTERS.md) · [World portal](../README.md).
+
+## S3E01 — no new Vorel personal title
+
+At [played S3E01](../../episodes/S3E01.md) ~00:49–01:32 and ~01:58–02:30, Vorel **ACTUALLY fights and repeatedly knocks down** the Hell-associated minotaur **Steerious Business** (owner-confirmed spelling; SRT Stirius/Sterius). At ~00:49:35 a player says a line sounding like **“my Power Rangers fight yourself equal”**, but this **addresses the encounter and duel**, not a new self-introduction, conferred personal title, renewed “Great Fang” honor or formal epithet. The GM shows the **Principle physically entering Fate Six**, but Vorel does not win a title for confronting him or defeat the Principle before cutoff. **No new personal titles or aliases awarded in this episode.** [S3E01 P/Q comparison](../../reports/WASTES_S3E01_ASR_COMPARISON_2026-10-26.md), text-only.
 
 ## S2E12 — Maggot Lord entombed, prospective “entomber” wording
 

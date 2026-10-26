@@ -1,6 +1,10 @@
 # Squirts — kobold trickster (Arcs Four–Five)
 
-> **First appearance:** [E082](../../episodes/E082.md), unnamed kobold at the Soggy Feather. **Identified and developed:** [E083](../../episodes/E083.md), [processed Parakeet SRT](../../sources/The%20Wastes%20S1E083.%20Trash%20Monkey%20and%20The%20Bird.parakeet.processed.srt). **Kristen's new character**, **not** a reincarnated Hope. This profile is **ASR-based, not audio-verified**; contains spoilers through E128; earlier sections retain their episode-era cutoffs.
+> **First appearance:** [E082](../../episodes/E082.md), unnamed kobold at the Soggy Feather. **Identified and developed:** [E083](../../episodes/E083.md), [processed Parakeet SRT](../../sources/The%20Wastes%20S1E083.%20Trash%20Monkey%20and%20The%20Bird.parakeet.processed.srt). **Kristen's new character**, **not** a reincarnated Hope. This profile is **ASR-based, not audio-verified**; contains spoilers through S3E01 (historical earlier scenes preserve their own cutoffs); earlier sections retain their episode-era cutoffs.
+
+## Season Three — Hell resurrects her for a second confrontation
+
+After the prior Hell epilogue's actual reappearance, Squirts **physically returns as Brett/Asmodeus's new leader of a four-person attack party** during [S3E01](../../episodes/S3E01.md). She joins Blood Skunk, the minotaur **Steerious Business** and Doctor Spider in a deliberate assault on Fate Six, now alongside many Hell Knights. She **actually casts *Harm* on Vorel** and later ***Mass Healing Word* to heal herself and other Hell companions**. Hope **actually knocks her unconscious** with magically chilled dagger, then Doctor Spider **heals her back to consciousness**; she acts again, only to fall in subsequent fighting. **Doctor Spider's own *Wall of Fire* burns the incapacitated kobold**, and the GM describes her third failed death save and a **cindered body**. **At this played cutoff Squirts has been killed in this encounter; whether the Hell/Brent apparatus could recreate or restore her again is NOT established.** This reappearance must not be retroactively inserted into the Mars passenger roster error from E128, where no Hell-to-Elhandar transfer had occurred. [S3E01 two-ASR report](../../reports/WASTES_S3E01_ASR_COMPARISON_2026-10-26.md).
 
 ## E128 — spoken Mars-departure roster contradiction
 
