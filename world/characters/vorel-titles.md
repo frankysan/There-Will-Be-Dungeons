@@ -1,6 +1,10 @@
 # Vorel — titles and epithets register
 
-**Type:** Source-indexed supporting register for [Vorel](vorel.md), deliberately separated from the main character biography. **Evidence:** ASR-provisional, with source windows, name variants and social standing preserved. **Spoilers:** Through Wastes S3E05; Q&As are retrospective, not played conferrals. [Characters](../CHARACTERS.md) · [World portal](../README.md).
+**Type:** Source-indexed supporting register for [Vorel](vorel.md), deliberately separated from the main character biography. **Evidence:** ASR-provisional, with source windows, name variants and social standing preserved. **Spoilers:** Through Wastes S3E06; Q&As are retrospective, not played conferrals. [Characters](../CHARACTERS.md) · [World portal](../README.md).
+
+## S3E06 — Vorel rejects Paladin's enslavement claim and defeats him; NO newly conferred personal title
+
+In the **played [S3E06 — Bring In The Ape](../../episodes/S3E06.md)** Vorel declares **“The lizards will never be slaves”** (~00:34:50) in reply to a Paladin of the Umbilical Order and **ACTUALLY kills that Paladin using the already-received +2 LONGSWORD** at ~02:21–02:22. The Paladin **claims lizardfolk exist as human intellectual property**, an enemy doctrine NOT verified universal history. After killing the Paladin, Vorel **thinks of naming the weapon** (~02:23:30), but **NO NAME IS SPOKEN, NO FIFTH SELF-EPITHET OR PUBLIC TITLE CONFERRED**. Vorel also explicitly confirms equipping his **+2 shield** (~00:50:20), an inventory/status update rather than title. [P/Q report](../../reports/WASTES_S3E06_ASR_COMPARISON_2026-10-26.md); **ASR provisional, no audio**.
 
 ## S3E05 — Great Fang repeated; Bokbok greeting and TAC unit epithets are NOT new Vorel titles
 

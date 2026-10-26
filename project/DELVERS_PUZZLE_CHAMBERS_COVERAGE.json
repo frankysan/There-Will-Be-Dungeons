@@ -6,90 +6,90 @@
       "path": "delvers/world/places/right-stair-grick-urn-complex.md",
       "old_heading": "Right-stair twin-puzzle and grick wind-chamber complex (Delvers S3E09)",
       "old_anchor": "right-stair-twin-puzzle-and-grick-wind-chamber-complex-delvers-s3e09",
-      "target": "Native heading, place development, final status or source note",
+      "target": "introduction",
       "disposition": "Native heading or compatibility anchor retained; complete original archived"
     },
     {
       "path": "delvers/world/places/right-stair-grick-urn-complex.md",
       "old_heading": "Cross-linked two-person puzzle",
       "old_anchor": "cross-linked-two-person-puzzle",
-      "target": "Native heading, place development, final status or source note",
+      "target": "development",
       "disposition": "Native heading or compatibility anchor retained; complete original archived"
     },
     {
       "path": "delvers/world/places/right-stair-grick-urn-complex.md",
       "old_heading": "Final chamber and urn",
       "old_anchor": "final-chamber-and-urn",
-      "target": "Native heading, place development, final status or source note",
+      "target": "development",
       "disposition": "Native heading or compatibility anchor retained; complete original archived"
     },
     {
       "path": "delvers/world/places/black-slime-key-chamber.md",
       "old_heading": "The black-slime three-key chamber \u2014 Delvers S3E07",
       "old_anchor": "the-black-slime-three-key-chamber--delvers-s3e07",
-      "target": "Native heading, place development, final status or source note",
+      "target": "introduction",
       "disposition": "Native heading or compatibility anchor retained; complete original archived"
     },
     {
       "path": "delvers/world/places/black-slime-key-chamber.md",
       "old_heading": "Retrospective GM-only revelation (BONUS-2021-11-10, ~20:30\u201322:25)",
       "old_anchor": "retrospective-gm-only-revelation-bonus-2021-11-10-20302225",
-      "target": "Native heading, place development, final status or source note",
+      "target": "development",
       "disposition": "Native heading or compatibility anchor retained; complete original archived"
     },
     {
       "path": "delvers/world/places/black-slime-key-chamber.md",
       "old_heading": "Approach, appearance and occupants",
       "old_anchor": "approach-appearance-and-occupants",
-      "target": "Native heading, place development, final status or source note",
+      "target": "development",
       "disposition": "Native heading or compatibility anchor retained; complete original archived"
     },
     {
       "path": "delvers/world/places/black-slime-key-chamber.md",
       "old_heading": "Puzzle and observed solution",
       "old_anchor": "puzzle-and-observed-solution",
-      "target": "Native heading, place development, final status or source note",
+      "target": "development",
       "disposition": "Native heading or compatibility anchor retained; complete original archived"
     },
     {
       "path": "delvers/world/places/black-slime-key-chamber.md",
       "old_heading": "Recovered vessel and pressure-pedestal substitution",
       "old_anchor": "recovered-vessel-and-pressure-pedestal-substitution",
+      "target": "development",
+      "disposition": "Native heading or compatibility anchor retained; complete original archived"
+    },
+    {
+      "path": "delvers/world/places/grick-sinkhole.md",
+      "old_heading": "Grick-infested sinkhole \u2014 ruins and buried dungeon",
+      "old_anchor": "grick-infested-sinkhole--ruins-and-buried-dungeon",
       "target": "Native heading, place development, final status or source note",
       "disposition": "Native heading or compatibility anchor retained; complete original archived"
     },
     {
       "path": "delvers/world/places/grick-sinkhole.md",
-      "old_heading": "Grick-infested sinkhole \u2014 ruins and buried dungeon\r",
-      "old_anchor": "grick-infested-sinkhole--ruins-and-buried-dungeon\r",
+      "old_heading": "Introduction",
+      "old_anchor": "introduction",
       "target": "Native heading, place development, final status or source note",
       "disposition": "Native heading or compatibility anchor retained; complete original archived"
     },
     {
       "path": "delvers/world/places/grick-sinkhole.md",
-      "old_heading": "Introduction\r",
-      "old_anchor": "introduction\r",
+      "old_heading": "Development",
+      "old_anchor": "development",
       "target": "Native heading, place development, final status or source note",
       "disposition": "Native heading or compatibility anchor retained; complete original archived"
     },
     {
       "path": "delvers/world/places/grick-sinkhole.md",
-      "old_heading": "Development\r",
-      "old_anchor": "development\r",
+      "old_heading": "Arc One \u2014 A dangerous threshold beneath the woods",
+      "old_anchor": "arc-one--a-dangerous-threshold-beneath-the-woods",
       "target": "Native heading, place development, final status or source note",
       "disposition": "Native heading or compatibility anchor retained; complete original archived"
     },
     {
       "path": "delvers/world/places/grick-sinkhole.md",
-      "old_heading": "Arc One \u2014 A dangerous threshold beneath the woods\r",
-      "old_anchor": "arc-one--a-dangerous-threshold-beneath-the-woods\r",
-      "target": "Native heading, place development, final status or source note",
-      "disposition": "Native heading or compatibility anchor retained; complete original archived"
-    },
-    {
-      "path": "delvers/world/places/grick-sinkhole.md",
-      "old_heading": "Current status\r",
-      "old_anchor": "current-status\r",
+      "old_heading": "Current status",
+      "old_anchor": "current-status",
       "target": "Native heading, place development, final status or source note",
       "disposition": "Native heading or compatibility anchor retained; complete original archived"
     }
@@ -141,5 +141,6 @@
     "Correction supersedes prior report last-view claim; earlier report/validation retained as historical artifacts",
     "No proof whole forest cleared, tablet retrieved, or repaired works built by a named individual",
     "Finale pyramid collapse not established destruction of all chambers"
-  ]
+  ],
+  "heading_extraction": "CRLF terminators excluded from heading strings/anchors; original bytes remain unchanged"
 }

@@ -2,7 +2,7 @@
 
 **Browse:** [Places](../PLACES.md) · [World portal](../README.md)
 
-**Type:** Important origin setting in Nash Maggard's background. **Evidence:** Character statements, retrospective accounts and later research; **not** a fully played historical side adventure. **Spoilers:** Through E118.
+**Type:** Important origin setting in Nash Maggard's background. **Evidence:** Character statements, retrospective accounts and later research; **not** a fully played historical side adventure. **Spoilers:** Played Wastes through S3E06 (plus identified out-of-game retrospectives).
 
 **Nash** describes captivity, survival and resistance connected with the **Solar Mines** and **Blood Canyons**. His descriptions develop across the campaign and include memories that seem contradictory; they should be presented as the state of Nash's own recollections and others' testimony, not a reconstructed omniscient history. His implanted **dragon-metal heart** and later dragon forms are observed, but the exact circumstances of implantation require careful source distinction. [E000](../../episodes/E000.md) · [E024](../../episodes/E024.md) · [Nash](../characters/nash-maggard.md).
 
@@ -13,6 +13,10 @@ In the [September 2020 public-release Q&A](../../episodes/BONUS-2020-09.md), **~
 ## December 2021 creator explanation — missing context, not new reconnaissance
 
 During the [December 2021 bonus ~00:03–00:07](../../episodes/BONUS-2021-12.md), **Beau** says he has intentionally developed a link between **the Principle, Nash's dragon-metal heart and the Solar Mines**. He emphasizes the difference between **what Nash remembers as an exploited child and what the mines actually involved**, leaving unknown aspects to be discovered. Scott says Nash escaped with **one other individual** whose later whereabouts have not been revealed; Scott wonders whether the guards could have since upgraded **Slow Peters**, but **Beau does not confirm any specific upgrades, present garrison or ongoing operating procedures**. These are **out-of-game creator context and player conjecture**, not additional played travel, a newly revealed escapee identity or witnessed past footage. [P/Q audit](../../reports/BONUS_2021-12_ASR_COMPARISON_2026-10-26.md).
+
+## S3E06 — battle outside the closed northern gate, one reported AA success
+
+In [played S3E06](../../episodes/S3E06.md), **the gate remains CLOSED** as the four protagonists battle **one Umbilical Order Paladin and eight Kuromokishi samurai** at the Solar Mines' north approach. **All nine defenders are defeated in this immediate encounter**, but **nobody is shown capturing/opening the gate, entering the central mine or delivering the completed Triangulosphere**. Over radio **Diontalus reports destroying the northwestern anti-air cannon** (not independently witnessed); **Monsoon's northeastern operation is unresolved**, Vorel's southeastern lizardfolk report finding and firing a mysterious “button” (not a confirmed cannon kill), and the southwestern alternate-Nash detachment reports an unidentified powerful spell rather than a confirmed AA result. **A huge meteor swarm visibly strikes the valley**, apparently also harming nearby goblins; **the caster, precise target list and fate of the 99 alternate Nashes remain unverified**. The **Nameless One's vehicle crashes and explodes and his death is described only as apparent**. Paladin's claims about lizardfolk origins are character doctrine, not observed historical truth; final military objectives remain open. [S3E06 comparison](../../reports/WASTES_S3E06_ASR_COMPARISON_2026-10-26.md); **no source audio listened to**.
 
 ## S3E05 — actual OPENING NORTHERN GATE BATTLE, two mechs slain, gate still closed
 

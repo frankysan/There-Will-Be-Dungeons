@@ -1,0 +1,66 @@
+{
+  "date": "2026-10-26",
+  "local_file_and_fragment_links": 972,
+  "maintained_inbound_links": 47,
+  "former_headings_preserved": 14,
+  "exact_original_hashes": 6,
+  "reading_copy_target_equivalence": 6,
+  "explicit_reading_copy_link_corrections": 0,
+  "protected_hashes": 273,
+  "measurements": [
+    {
+      "path": "delvers/world/places/black-basilica.md",
+      "before_main_words": 678,
+      "after_main_words": 356,
+      "arc_words": [
+        259
+      ],
+      "largest_arc_to_median": 1.0,
+      "footnotes": 6,
+      "anchors": 9
+    },
+    {
+      "path": "delvers/world/places/triangle-gate-catacombs.md",
+      "before_main_words": 1283,
+      "after_main_words": 389,
+      "arc_words": [
+        290
+      ],
+      "largest_arc_to_median": 1.0,
+      "footnotes": 7,
+      "anchors": 13
+    }
+  ],
+  "errors": [],
+  "limits": [
+    "No new ASR, audio, remote URL or rendered-site review",
+    "Section dispositions and material-claim review, not sentence-by-sentence audio verification"
+  ],
+  "markdownlint": {
+    "maintained_files": 7,
+    "violations": 0
+  },
+  "whitespace": {
+    "scoped_git_diff_check": "passed",
+    "new_report_and_json": "passed"
+  },
+  "manual_review": {
+    "completed": true,
+    "focus": [
+      "Place architecture, occupants and material transitions",
+      "Chronological urn fitting/retrieval/carrying/opening/closure",
+      "Ancient testimony versus observed gate action",
+      "Physical rat prison versus projected journeys and battle overlays",
+      "Collective collapse versus surviving ordinary rats",
+      "Physical remains and holy symbol versus unverified history/magic",
+      "Unknown post-finale conditions without invented wider destruction"
+    ],
+    "rendered_preview": false
+  },
+  "protected_groups": {
+    "campaign_files": 215,
+    "prior_batch_artifacts": 48,
+    "bonus_provenance_documents": 10
+  },
+  "working_tree_context": "Prior puzzle/forest/control changes preserved; no commit or push performed by this task."
+}

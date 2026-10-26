@@ -1,0 +1,66 @@
+{
+  "date": "2026-10-26",
+  "local_file_and_fragment_links": 996,
+  "maintained_inbound_links": 34,
+  "former_headings_preserved": 6,
+  "exact_original_hashes": 6,
+  "reading_copy_target_equivalence": 6,
+  "explicit_reading_copy_link_corrections": 0,
+  "protected_hashes": 282,
+  "measurements": [
+    {
+      "path": "delvers/world/places/hooper-estate.md",
+      "before_main_words": 438,
+      "after_main_words": 286,
+      "arc_words": [
+        182
+      ],
+      "largest_arc_to_median": 1.0,
+      "footnotes": 5,
+      "anchors": 7
+    },
+    {
+      "path": "delvers/world/places/minotaur-mesa-bone-crypt.md",
+      "before_main_words": 401,
+      "after_main_words": 260,
+      "arc_words": [
+        161
+      ],
+      "largest_arc_to_median": 1.0,
+      "footnotes": 5,
+      "anchors": 5
+    }
+  ],
+  "errors": [],
+  "limits": [
+    "No new ASR, audio, remote URL or rendered-site review",
+    "Section dispositions and material-claim review, not sentence-by-sentence audio verification"
+  ],
+  "markdownlint": {
+    "maintained_files": 7,
+    "violations": 0
+  },
+  "whitespace": {
+    "scoped_git_diff_check": "passed",
+    "new_report_and_json": "passed"
+  },
+  "manual_review": {
+    "completed": true,
+    "focus": [
+      "Place layout and social/burial functions",
+      "Enchanted testimony versus observed haunting and burial",
+      "Private crime versus public wedding and unresolved omens",
+      "Deck custody without invented draws or payouts",
+      "Crypt route, provisional memorials and voluntary council",
+      "Nine crypt inhabitants plus separately reanimated Chad Brad",
+      "Later final rest at Guild without invented crypt return or living resurrection"
+    ],
+    "rendered_preview": false
+  },
+  "protected_groups": {
+    "campaign_files": 215,
+    "prior_batch_artifacts": 57,
+    "bonus_provenance_documents": 10
+  },
+  "working_tree_context": "Prior Chath/Snake/control changes preserved; no commit or push performed by this task."
+}

@@ -1,0 +1,113 @@
+{
+  "date": "2026-10-26",
+  "scope": "Visited dragon mountain versus partially remembered lake expedition",
+  "headings": [
+    {
+      "path": "delvers/world/places/chath-peak.md",
+      "old_heading": "Chath Peak \u2014 red-dragon mountain",
+      "old_anchor": "chath-peak--red-dragon-mountain",
+      "target": "Introduction, chronological development or final status/source note",
+      "disposition": "Native heading or compatibility anchor retained; full original archived"
+    },
+    {
+      "path": "delvers/world/places/chath-peak.md",
+      "old_heading": "Approach and first encounter",
+      "old_anchor": "approach-and-first-encounter",
+      "target": "development",
+      "disposition": "Native heading or compatibility anchor retained; full original archived"
+    },
+    {
+      "path": "delvers/world/places/chath-peak.md",
+      "old_heading": "The Radiant Lance machinery",
+      "old_anchor": "the-radiant-lance-machinery",
+      "target": "development",
+      "disposition": "Native heading or compatibility anchor retained; full original archived"
+    },
+    {
+      "path": "delvers/world/places/chath-peak.md",
+      "old_heading": "Mountaintop lair and S2E08 cutoff",
+      "old_anchor": "mountaintop-lair-and-s2e08-cutoff",
+      "target": "development",
+      "disposition": "Native heading or compatibility anchor retained; full original archived"
+    },
+    {
+      "path": "delvers/world/places/chath-peak.md",
+      "old_heading": "Later outcome established by S2E09 opening",
+      "old_anchor": "later-outcome-established-by-s2e09-opening",
+      "target": "development",
+      "disposition": "Native heading or compatibility anchor retained; full original archived"
+    },
+    {
+      "path": "delvers/world/places/snake-island.md",
+      "old_heading": "Snake Island \u2014 the forgotten fortnight",
+      "old_anchor": "snake-island--the-forgotten-fortnight",
+      "target": "Introduction, chronological development or final status/source note",
+      "disposition": "Native heading or compatibility anchor retained; full original archived"
+    },
+    {
+      "path": "delvers/world/places/snake-island.md",
+      "old_heading": "Introduction",
+      "old_anchor": "introduction",
+      "target": "Introduction, chronological development or final status/source note",
+      "disposition": "Native heading or compatibility anchor retained; full original archived"
+    },
+    {
+      "path": "delvers/world/places/snake-island.md",
+      "old_heading": "Fragments of the crossing",
+      "old_anchor": "fragments-of-the-crossing",
+      "target": "development",
+      "disposition": "Native heading or compatibility anchor retained; full original archived"
+    },
+    {
+      "path": "delvers/world/places/snake-island.md",
+      "old_heading": "The cliff above a volcano",
+      "old_anchor": "the-cliff-above-a-volcano",
+      "target": "development",
+      "disposition": "Native heading or compatibility anchor retained; full original archived"
+    },
+    {
+      "path": "delvers/world/places/snake-island.md",
+      "old_heading": "The gifts brought home",
+      "old_anchor": "the-gifts-brought-home",
+      "target": "development",
+      "disposition": "Native heading or compatibility anchor retained; full original archived"
+    },
+    {
+      "path": "delvers/world/places/snake-island.md",
+      "old_heading": "Current status",
+      "old_anchor": "current-status",
+      "target": "Introduction, chronological development or final status/source note",
+      "disposition": "Native heading or compatibility anchor retained; full original archived"
+    }
+  ],
+  "additional_blocks": [
+    {
+      "path": "delvers/world/places/chath-peak.md",
+      "old_block": "Unheaded working spelling/source/cutoff metadata",
+      "target": "Introduction and source notes"
+    }
+  ],
+  "domains": {
+    "delvers/world/places/chath-peak.md": "Place: volcanic approach, kobold community under dragon, hidden forge/lift/control network, altered lair and later known limits",
+    "delvers/world/places/snake-island.md": "Place through memory: reported lake setting, fragmented social/religious/volcanic scenes, returned party/rewards and later external ties"
+  },
+  "review": "Both complete profiles; relevant terms searched across 37 dossiers; selected complete mountain/memory/royal-survivor paragraphs and bounded November retrospective read; no fresh ASR/audio/map/art review",
+  "critical_boundaries": [
+    "Chath spelling and dimensions provisional; dragon ages are clerk/expert estimates",
+    "Skoogie political claims not independent village census or proved restoration",
+    "Offerings taken/eaten, no rescue invented",
+    "Forge makes one useful sword, no enchanted potato sword or second successful output",
+    "Lava Off played first; other controls/dragon kill established by next retrospective",
+    "No equal itemized hoard audit or completed skull auction inferred",
+    "Snake offer, later acceptance/return and recovered glimpses are distinct evidence states",
+    "Island lake/map directions not a continuous explored survey",
+    "Images of crowning, idol theft, poisoned princess, volcano and bonfire do not establish every outcome",
+    "No patron death, cured curse, completed execution, idol custody or performed marriage invented",
+    "Returned equipment and payment do not prove resolution of all island dangers",
+    "Hissia/Nopa claims extend social ties, not independently complete the lost fortnight",
+    "Interrupted aboleth probe supplies no resolved cause of amnesia",
+    "Hissia actually rescued and awakens later elsewhere, not still unknown fate",
+    "No island homecoming, new sovereign or full post-finale census inferred",
+    "Real Brazilian Snake Island and creator design explanation are not fictional geography/events"
+  ]
+}

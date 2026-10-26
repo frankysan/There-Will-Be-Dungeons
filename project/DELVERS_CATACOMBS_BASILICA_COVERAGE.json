@@ -1,0 +1,154 @@
+{
+  "date": "2026-10-26",
+  "scope": "Connected catacomb threshold and distinct rat-prison hall",
+  "headings": [
+    {
+      "path": "delvers/world/places/triangle-gate-catacombs.md",
+      "old_heading": "The triangle-gate catacombs \u2014 hidden beneath Delvers Dungeon Level E",
+      "old_anchor": "the-triangle-gate-catacombs--hidden-beneath-delvers-dungeon-level-e",
+      "target": "Introduction, chronological development, final status or source notes",
+      "disposition": "Native heading or compatibility anchor retained; full original archived"
+    },
+    {
+      "path": "delvers/world/places/triangle-gate-catacombs.md",
+      "old_heading": "Staircase and fallen Silvers",
+      "old_anchor": "staircase-and-fallen-silvers",
+      "target": "development",
+      "disposition": "Native heading or compatibility anchor retained; full original archived"
+    },
+    {
+      "path": "delvers/world/places/triangle-gate-catacombs.md",
+      "old_heading": "Hundreds of rune-discs and three-slot triangle door",
+      "old_anchor": "hundreds-of-rune-discs-and-three-slot-triangle-door",
+      "target": "development",
+      "disposition": "Native heading or compatibility anchor retained; full original archived"
+    },
+    {
+      "path": "delvers/world/places/triangle-gate-catacombs.md",
+      "old_heading": "The tomb inhabitants and retreat",
+      "old_anchor": "the-tomb-inhabitants-and-retreat",
+      "target": "development",
+      "disposition": "Native heading or compatibility anchor retained; full original archived"
+    },
+    {
+      "path": "delvers/world/places/triangle-gate-catacombs.md",
+      "old_heading": "S3E07 physical progress: first vessel fitted, two still absent",
+      "old_anchor": "s3e07-physical-progress-first-vessel-fitted-two-still-absent",
+      "target": "development",
+      "disposition": "Native heading or compatibility anchor retained; full original archived"
+    },
+    {
+      "path": "delvers/world/places/triangle-gate-catacombs.md",
+      "old_heading": "S3E08 reversal: both recovered urns carried away, altar now empty",
+      "old_anchor": "s3e08-reversal-both-recovered-urns-carried-away-altar-now-empty",
+      "target": "development",
+      "disposition": "Native heading or compatibility anchor retained; full original archived"
+    },
+    {
+      "path": "delvers/world/places/triangle-gate-catacombs.md",
+      "old_heading": "S3E09 three objects recovered, STILL not inserted / gate STILL closed",
+      "old_anchor": "s3e09-three-objects-recovered-still-not-inserted--gate-still-closed",
+      "target": "development",
+      "disposition": "Native heading or compatibility anchor retained; full original archived"
+    },
+    {
+      "path": "delvers/world/places/triangle-gate-catacombs.md",
+      "old_heading": "S3E11: gate ACTUALLY opened and expedition passes through, then closes",
+      "old_anchor": "s3e11-gate-actually-opened-and-expedition-passes-through-then-closes",
+      "target": "development",
+      "disposition": "Native heading or compatibility anchor retained; full original archived"
+    },
+    {
+      "path": "delvers/world/places/triangle-gate-catacombs.md",
+      "old_heading": "S3E10: all urns with Koh, door still sealed",
+      "old_anchor": "s3e10-all-urns-with-koh-door-still-sealed",
+      "target": "development",
+      "disposition": "Native heading or compatibility anchor retained; full original archived"
+    },
+    {
+      "path": "delvers/world/places/black-basilica.md",
+      "old_heading": "The Black Basilica \u2014 cranium-rat prison and urn chamber",
+      "old_anchor": "the-black-basilica--cranium-rat-prison-and-urn-chamber",
+      "target": "Introduction, chronological development, final status or source notes",
+      "disposition": "Native heading or compatibility anchor retained; full original archived"
+    },
+    {
+      "path": "delvers/world/places/black-basilica.md",
+      "old_heading": "Important reveal: false journeys, real location",
+      "old_anchor": "important-reveal-false-journeys-real-location",
+      "target": "development",
+      "disposition": "Native heading or compatibility anchor retained; full original archived"
+    },
+    {
+      "path": "delvers/world/places/black-basilica.md",
+      "old_heading": "Rat swarm's defeat, urn recovered",
+      "old_anchor": "rat-swarms-defeat-urn-recovered",
+      "target": "development",
+      "disposition": "Native heading or compatibility anchor retained; full original archived"
+    },
+    {
+      "path": "delvers/world/places/black-basilica.md",
+      "old_heading": "Radiant Lance's remains and recovered artefacts",
+      "old_anchor": "radiant-lances-remains-and-recovered-artefacts",
+      "target": "development",
+      "disposition": "Native heading or compatibility anchor retained; full original archived"
+    },
+    {
+      "path": "delvers/world/places/black-basilica.md",
+      "old_heading": "Exit and status after S3E08",
+      "old_anchor": "exit-and-status-after-s3e08",
+      "target": "development",
+      "disposition": "Native heading or compatibility anchor retained; full original archived"
+    }
+  ],
+  "additional_blocks": [
+    {
+      "path": "delvers/world/places/triangle-gate-catacombs.md",
+      "old_block": "Unheaded discovery/route/source metadata",
+      "target": "Introduction and approach note"
+    },
+    {
+      "path": "delvers/world/places/triangle-gate-catacombs.md",
+      "old_block": "Historical S3E06 status",
+      "target": "First phase and source notes"
+    },
+    {
+      "path": "delvers/world/places/triangle-gate-catacombs.md",
+      "old_block": "Research priority",
+      "target": "Source notes"
+    },
+    {
+      "path": "delvers/world/places/black-basilica.md",
+      "old_block": "Unheaded discovery/name/context metadata",
+      "target": "Introduction and setting note"
+    },
+    {
+      "path": "delvers/world/places/black-basilica.md",
+      "old_block": "Source/verification status",
+      "target": "Source notes"
+    }
+  ],
+  "domains": {
+    "delvers/world/places/triangle-gate-catacombs.md": "Place: hidden descent, fallen adventurers, rune-niches and hostile occupants, three-recess threshold, branch routes, later gate opening/closure",
+    "delvers/world/places/black-basilica.md": "Place: real columned prison hall, psychic captivity and limited historical testimony, organ-powered collective, scattered rats, physical remains and surviving predators"
+  },
+  "review": "Both complete old profiles; relevant terms searched across all 37 dossiers; selected complete S3E06-S3E12 paragraphs and linked urn context read; no new ASR/audio/map/art review",
+  "critical_boundaries": [
+    "Spa and hidden catacombs are separate places; map-name match tentative",
+    "Fallen Silver identities from registry; no proven killer or complete chronology",
+    "Round niches and mummies do not establish all tomb occupants awakened or killed",
+    "First urn installed then retrieved; later all three carried before actual gate visit",
+    "Right/left branches not exact mapped distances through psychic distortions",
+    "Three local metal keys distinct from gate urns",
+    "All three urns inserted, released and accepted; no invented rebagging scene",
+    "Shaolin claims ancient history and blood instruction; no completed rite at gate",
+    "Gate opens, expedition enters, door closes; final escape via circles does not show gate reopening",
+    "Basilica name from self-identified Radiant Lance voice, adopted for real hall",
+    "False farm sale, asylum, bounty and Zoltar death remain projections",
+    "All Rat collapses into ordinary living rats after urn removal, not all exterminated",
+    "Skeleton and recovered relics physical; 150-year history remains testimony",
+    "Tabard supports holy-symbol use; extra magic/lance abilities unproved",
+    "One adult hook horror killed, two retreat; no all-clear or trained hatchling inferred",
+    "Final pyramid collapse not established destruction of these halls"
+  ]
+}

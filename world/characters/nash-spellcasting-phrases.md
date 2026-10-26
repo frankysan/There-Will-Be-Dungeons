@@ -2,7 +2,7 @@
 
 [Nash Maggard](nash-maggard.md), portrayed by **Scott**, improvises incantations, rhymes, song snippets and sometimes abandoned verses around his magic. This is a **source-indexed register**, not an account of every spell Nash casts. Beau praises the effort behind the words in [S1E046](../../episodes/E046.md) ~02:52:57–02:53:10 ([P][046-p] 2797–2801; [Q][046-q] 4622–4629); that does not establish when the habit began.
 
-**Scope:** 44 numbered findings, ordered by episode: **42 in Wastes Season 1 through E126** and **two clearly separated later-season seeds**. The latest episode review is **Wastes S3E05**, with no new NSP identifier. The older-episode *backfill* stops at **S1E111**; later findings come from regular episode reviews or pre-existing seeds, not an extension of that backfill. Updated **2026-10-26**. **All wording and voice attribution remain ASR-provisional, not audio-verified; the collection is not exhaustive.**
+**Scope:** 45 numbered findings, ordered by episode: **42 in Wastes Season 1 through E126** and **three clearly separated later-season findings/seeds**. The latest episode review is **Wastes S3E06**, with no new NSP identifier. The older-episode *backfill* stops at **S1E111**; later findings come from regular episode reviews or pre-existing seeds, not an extension of that backfill. Updated **2026-10-26**. **All wording and voice attribution remain ASR-provisional, not audio-verified; the collection is not exhaustive.**
 
 ## How to read the register
 
@@ -68,6 +68,7 @@ These **S2/S3 examples** came from the initial wider search and have not been re
 | ID / episode and clock | Phrase as transcribed | Performance status and context | P / Q evidence and wording notes |
 | --- | --- | --- | --- |
 | **NSP-013** · **S2E06**, ~00:12:33–00:12:52 | `i think i remember how to do this spell it's been a while but what the hell i'm little less smart than i used to be let's see if can be the size of a flea` | **Performed casting.** **Enlarge/Reduce: Reduce** on Vorel. Nash comments that the flea comparison is inaccurate; Beau says the magic works regardless and reduces Vorel to half size. | [P][s2e06-p] 204–207; [Q][s2e06-q] 334–337. Q gives `I'm a little less smart` and `Let's see if Varel can be the size of a flea`; P lacks the target name in the last clause. Do not repair P silently. |
+| **NSP-045** · [Wastes S3E06](../../episodes/S3E06.md) ~01:34:18–01:34:34 | P: `hey see hey a big piece of poo here have a giant ball of goo`; Q: `Hey, let's see, hey, you big piece of poo! Here, have a giant ball of goo!` | **Performed casting; audible improvisation.** **Third-level POISON *Chromatic Orb*** against a *Stinking Cloud*-affected Kuromokishi, **hit 21 / 34 poison and killed opponent**. Nash/Scott explicitly notes there is **no verbal spell requirement** but yells his improvised rhyme anyway. **NOT** the two subsequent **MISSED *Chromatic Orbs*** in the same battle. | [P][s3e06-p] and [Q][s3e06-q], ~01:34:18–01:34:34; both confirm kill and rhyme gist but differ in address/lead-in. **Exact words and attribution audio-unchecked**. [ASR report](../../reports/WASTES_S3E06_ASR_COMPARISON_2026-10-26.md). |
 | **NSP-014** · **S3E16**, ~01:24:34–01:24:45 | `someone call the management i'm about to use banishment` | **Attempt; interrupted.** **Banishment attempt**, following a companion's request for a rhyme. A hostile reaction interrupts the sequence; the verse alone does not establish successful banishment. | [P][s3e16-p] 1460–1461; [Q][s3e16-q] 2425–2428. Both include a separate leading `banishment` while Scott searches for the line. |
 
 ## Related wording and non-casting performances
@@ -120,7 +121,7 @@ The rows below record why some seemingly magical moments **do not justify anothe
 
 ## Coverage and further review
 
-**44 numbered entries:** **37** at or before **S1E111**, **five** additional S1 findings (**NSP-041**, **NSP-042**, **NSP-043**, **NSP-044**, and the older **NSP-012** at E126), and **two** earlier S2/S3 seeds (**NSP-013/014**). These are **phrase/seed findings**, not 44 confirmed successful spellcasts; E105, E114, E115 and the roundup are outside the count.
+**45 numbered entries:** **37** at or before **S1E111**, **five** additional S1 findings (**NSP-041**, **NSP-042**, **NSP-043**, **NSP-044**, and the older **NSP-012** at E126), and **three** S2/S3 findings/seeds (**NSP-013/014/045**). These are **phrase/seed findings**, not 45 confirmed successful spellcasts; E105, E114, E115 and the roundup are outside the count.
 
 The [E000–E111 backfill search](../../reports/NASH_PHRASE_BACKFILL_E000_E111_2026-10-23.md) found **25 entries** and records the source inventory/hashes in its [JSON evidence](../../reports/NASH_PHRASE_BACKFILL_E000_E111_2026-10-23.json). It covered **228 Parakeet/Qwen exports for 113 corrected IDs**, including both E013.5 variants, beginning at E000 and stopping at E111. E000's introduction, E013.5's absent-Nash recap, holiday one-shot E043, and E107–E109's Dunebreaker prequel were classified separately. Keyword candidate search and two-export passage checks **are not full-episode review**; no absent-or-first-use conclusion follows.
 
@@ -198,6 +199,8 @@ The [E000–E111 backfill search](../../reports/NASH_PHRASE_BACKFILL_E000_E111_2
 [126-q]: ../../sources/The%20Wastes%20S1E126.%20Musical%20Shredding%20Damage.qwen-q8.canary-ctc.nemotron.srt
 [s2e06-p]: ../../sources/The%20Wastes%20S2E06.%20Schr%C3%B6dinger's%20Nash.parakeet.processed.srt
 [s2e06-q]: ../../sources/The%20Wastes%20S2E06.%20Schr%C3%B6dinger's%20Nash.qwen-q8.canary-ctc.nemotron.srt
+[s3e06-p]: ../../sources/The%20Wastes%20S3E06.%20Bring%20In%20The%20Ape.parakeet.processed.srt
+[s3e06-q]: ../../sources/The%20Wastes%20S3E06.%20Bring%20In%20The%20Ape.qwen-q8.canary-ctc.nemotron.srt
 [s3e16-p]: ../../sources/The%20Wastes%20S3E16.%20River%20of%20Chrome.parakeet.processed.srt
 [s3e16-q]: ../../sources/The%20Wastes%20S3E16.%20River%20of%20Chrome.qwen-q8.canary-ctc.nemotron.srt
 [s3e18-p]: ../../sources/The%20Wastes%20S3E18.%20Chrome,%20Chrome%20on%20The%20Range.parakeet.processed.srt

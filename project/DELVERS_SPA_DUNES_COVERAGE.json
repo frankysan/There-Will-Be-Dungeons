@@ -1,0 +1,134 @@
+{
+  "date": "2026-10-26",
+  "scope": "Operating hospitality site and ruined enslaved-labor stronghold",
+  "headings": [
+    {
+      "path": "delvers/world/places/deep-winds-spa.md",
+      "old_heading": "Deep Winds Spa \u2014 flumph hospitality beneath Atomer",
+      "old_anchor": "deep-winds-spa--flumph-hospitality-beneath-atomer",
+      "target": "Introduction, chronological place development, final status or source notes",
+      "disposition": "Native heading or compatibility anchor retained; complete original archived"
+    },
+    {
+      "path": "delvers/world/places/deep-winds-spa.md",
+      "old_heading": "First arrival and etiquette",
+      "old_anchor": "first-arrival-and-etiquette",
+      "target": "development",
+      "disposition": "Native heading or compatibility anchor retained; complete original archived"
+    },
+    {
+      "path": "delvers/world/places/deep-winds-spa.md",
+      "old_heading": "The guests and their private revelations",
+      "old_anchor": "the-guests-and-their-private-revelations",
+      "target": "development",
+      "disposition": "Native heading or compatibility anchor retained; complete original archived"
+    },
+    {
+      "path": "delvers/world/places/deep-winds-spa.md",
+      "old_heading": "S3E06 follow-up: an actual night's lodging and an aboleth mind duel",
+      "old_anchor": "s3e06-follow-up-an-actual-nights-lodging-and-an-aboleth-mind-duel",
+      "target": "development",
+      "disposition": "Native heading or compatibility anchor retained; complete original archived"
+    },
+    {
+      "path": "delvers/world/places/deep-winds-spa.md",
+      "old_heading": "S3E08: Return check-in at an extraordinarily high rate",
+      "old_anchor": "s3e08-return-check-in-at-an-extraordinarily-high-rate",
+      "target": "development",
+      "disposition": "Native heading or compatibility anchor retained; complete original archived"
+    },
+    {
+      "path": "delvers/world/places/deep-winds-spa.md",
+      "old_heading": "S3E09: paid S3E08 night now completed; Hissia inquiry deferred",
+      "old_anchor": "s3e09-paid-s3e08-night-now-completed-hissia-inquiry-deferred",
+      "target": "development",
+      "disposition": "Native heading or compatibility anchor retained; complete original archived"
+    },
+    {
+      "path": "delvers/world/places/deep-winds-spa.md",
+      "old_heading": "The filtration-room crisis",
+      "old_anchor": "the-filtration-room-crisis",
+      "target": "development",
+      "disposition": "Native heading or compatibility anchor retained; complete original archived"
+    },
+    {
+      "path": "delvers/world/places/dawnless-dunes-pyramid.md",
+      "old_heading": "Dawnless Dunes \u2014 fallen crystal, black pyramid and upper balcony (S3E11)",
+      "old_anchor": "dawnless-dunes--fallen-crystal-black-pyramid-and-upper-balcony-s3e11",
+      "target": "introduction",
+      "disposition": "Native heading or compatibility anchor retained; complete original archived"
+    },
+    {
+      "path": "delvers/world/places/dawnless-dunes-pyramid.md",
+      "old_heading": "Post-campaign Kyle reveal: unactivated Khalazar statue = alternate giant iron-golem fight",
+      "old_anchor": "post-campaign-kyle-reveal-unactivated-khalazar-statue--alternate-giant-iron-golem-fight",
+      "target": "development",
+      "disposition": "Native heading or compatibility anchor retained; complete original archived"
+    },
+    {
+      "path": "delvers/world/places/dawnless-dunes-pyramid.md",
+      "old_heading": "S3E12 FINAL: two rescues, Khalazar death, palace collapse",
+      "old_anchor": "s3e12-final-two-rescues-khalazar-death-palace-collapse",
+      "target": "development",
+      "disposition": "Native heading or compatibility anchor retained; complete original archived"
+    },
+    {
+      "path": "delvers/world/places/dawnless-dunes-pyramid.md",
+      "old_heading": "Desert and visual reference",
+      "old_anchor": "desert-and-visual-reference",
+      "target": "development",
+      "disposition": "Native heading or compatibility anchor retained; complete original archived"
+    },
+    {
+      "path": "delvers/world/places/dawnless-dunes-pyramid.md",
+      "old_heading": "Interior: lower statue workshop and upper bedchamber",
+      "old_anchor": "interior-lower-statue-workshop-and-upper-bedchamber",
+      "target": "development",
+      "disposition": "Native heading or compatibility anchor retained; complete original archived"
+    }
+  ],
+  "additional_blocks": [
+    {
+      "path": "delvers/world/places/deep-winds-spa.md",
+      "old_block": "Unheaded hospitality/base/cutoff opening",
+      "target": "Introduction, hospitality development and notes"
+    },
+    {
+      "path": "delvers/world/places/deep-winds-spa.md",
+      "old_block": "Historical and updated cutoff statuses",
+      "target": "Chronological development and Current status"
+    },
+    {
+      "path": "delvers/world/places/dawnless-dunes-pyramid.md",
+      "old_block": "Unheaded S3E11 gate/entry/custody metadata",
+      "target": "Introduction and approach note"
+    },
+    {
+      "path": "delvers/world/places/dawnless-dunes-pyramid.md",
+      "old_block": "Inline bat/balcony cutoff and verification apparatus",
+      "target": "Guard/rescue development and source notes"
+    }
+  ],
+  "domains": {
+    "delvers/world/places/deep-winds-spa.md": "Place/institution: flumph staff/customs, mixed clientele, facilities and filtration, neutral hospitality, paid lodging and unbuilt Guild base",
+    "delvers/world/places/dawnless-dunes-pyramid.md": "Place/regime: windless underground desert, ruined city/crystal, guarded labor pyramid, workshop/sustenance, evacuation and actual collapse"
+  },
+  "review": "Both complete old profiles; terms searched across 37 dossiers; selected complete spa/finale paragraphs and bounded November creator passage read; no fresh ASR/audio/map/art review",
+  "critical_boundaries": [
+    "Neutral-ground rule not universal harmless behavior of patrons",
+    "Paid stays and future hospitality offer not a dedicated Guild encampment or permanent charter",
+    "Species reveal at S3E06 not backdated to earlier recognition; personal name unresolved",
+    "Aboleth historical/blood/Hissia/Traveler claims and future court are not verified present facts",
+    "Black-sand source reported; immediate filter cleaning not universal cure",
+    "Filter pursuer reaches public bath, Krandal and Vapo survive; cleaning not magic healing",
+    "S3E08 check-in followed by S3E09 completed stay, no disclosed Hissia answer",
+    "Desert/city ruins physical, regenerated blue/green city psychic rather than rebuilt architecture",
+    "Guard deaths distinct from stable nonlethal worker knockouts",
+    "Two evacuation circles actually used; exact rescued total not audited",
+    "Side rooms contain starving workers; grey water appearance not potability proof",
+    "Tubes severed before statue destroyed by collapse, never animated",
+    "Giant iron golem, eye lasers, Atomer attack and flying pyramids are creator contingencies",
+    "Actual organs inserted and true defeat, no extra blood-drop application invented",
+    "Physical pyramid collapse not proved destruction of whole desert or all connected sites"
+  ]
+}

@@ -484,3 +484,99 @@ The lake site's local pits connect deeper passages, but repeated architecture do
 Both complete old pages were read; relevant terms searched across all 37 dossiers; selected complete paragraphs, later architectural comparisons and bounded April passages reviewed. No fresh ASR/audio, original map/handout, sheet or art review occurred. No evidence issue was closed, source dossier/media changed or location canonically merged. No commit or push was performed by this task.
 
 Next examine the right-stair grick/urn complex and black-slime key chamber as distinct underground places, then continue connected subject/domain work. Full-world acceptance and final campaign integration remain pending.
+
+### Twentieth implementation checkpoint — puzzle chambers and forest correction
+
+**2026-10-26: Two puzzle-place articles migrated; the forest entrance's later horizon corrected.** [Chambers/correction report](../reports/DELVERS_PUZZLE_CHAMBERS_2026-10-26.md) · [Coverage ledger](DELVERS_PUZZLE_CHAMBERS_COVERAGE.json) · [Pre-edit archive](../research/legacy/2026-10-26/delvers-linked-puzzle-chambers/README.md) · [Validation](DELVERS_PUZZLE_CHAMBERS_VALIDATION.json).
+
+| Place | Current disposition | Main prose before → after |
+| --- | --- | ---: |
+| Right-stair complex | Camp, paired defenses, golems, wind hall, removed jar and Current status | 619 → 336 |
+| Black-slime key chamber | Separate open approach, light/key mechanism, drained floor, pressure exchange and Current status | 767 → 342 |
+| Forest sinkhole | Retained first visit, added repaired entrance and updated final status | 373 → 427 |
+
+All thirteen former headings and five additional metadata/status blocks are accounted for. Old title anchors survive removal of episode labels. Seven exact originals and equivalent rebased copies are archived, with one explicit correction of the old right-stair page's broken Veggie Sticks link in its reading copy only. All 269 protected hashes match: 214 campaign files, 45 prior batch artifacts and ten bonus provenance documents. Earlier archives, existing early-ruins/control changes and concurrent bonus/Wastes work are preserved.
+
+**Correction:** The nineteenth checkpoint incorrectly ended the forest site's direct horizon at S1E04. S3E09 explicitly backtracks through its historic entrance, with repaired boards/bridges and disabled old poison/spear traps. The page now records that later view and a real used exit route. The earlier report/validation remain historical and are superseded on that factual point; structural validation did not establish complete factual coverage. Named repairers, full clearance, tablet recovery and physical identity with every similar ruin remain unsupported.
+
+The chambers retain their distinct approaches and mechanisms. Both linked golems are destroyed after the psychic kill is revoked; third-jar removal stops wind and at least one grick escapes. Local keys are absorbed, not taken as triangle tokens. Stone/counterweights successfully replace the heart vessel; the boneclaw ambush and mayonnaise/shirt scheme are unplayed. Later urn/gate use updates broader chronology without inventing a chamber return or final destruction of all passages.
+
+Three complete profiles and selected source paragraphs were read, relevant terms searched across all 37 dossiers, and the linked urn account plus bounded November creator passage reviewed. No fresh ASR/audio, original map/handout, sheet or art review occurred. No evidence issue was closed, source dossier/media changed or uncertain site identity canonically merged. No commit or push was performed by this task.
+
+Next examine the triangle-gate catacombs and Black Basilica as distinct connected places, then continue connected subject/domain work. Full-world acceptance and final campaign integration remain pending.
+
+### Twenty-first implementation checkpoint — catacombs and Black Basilica
+
+**2026-10-26: Two connected place accounts migrated and locally validated.** [Catacombs/Basilica report](../reports/DELVERS_CATACOMBS_BASILICA_2026-10-26.md) · [Coverage ledger](DELVERS_CATACOMBS_BASILICA_COVERAGE.json) · [Pre-edit archive](../research/legacy/2026-10-26/delvers-catacombs-basilica/README.md) · [Validation](DELVERS_CATACOMBS_BASILICA_VALIDATION.json).
+
+| Place | Current disposition | Main prose before → after |
+| --- | --- | ---: |
+| Triangle-gate catacombs | Hidden descent, fallen adventurers, rune-niches, occupants, urn threshold, actual opening/closure and Current status | 1,283 → 389 |
+| Black Basilica | Physical hall, projected captivity, collective's collapse, relics, surviving creatures and Current status | 678 → 356 |
+
+All fourteen former headings and five additional metadata/status blocks are accounted for. Six exact originals and equivalent rebased copies are archived without link corrections. All 273 protected hashes match: 215 campaign files, 48 earlier batch artifacts and ten bonus provenance documents. Earlier archives and prior puzzle/forest correction/control work are preserved.
+
+Catacomb states now follow actual chronology rather than accumulated addenda: first jar fits, is retrieved, all three remain carried until the final expedition inserts them, the architect releases them and opens the door, then the door closes behind the party. Its last direct state is closed after entry, not never opened. Shaolin's history remains testimony; the threshold does not perform the organ rite. Finale evacuation by circles does not establish another gate reopening or every tomb's fate.
+
+The Basilica remains a real hall despite fabricated journeys and battlefield overlays. All Rat breaks into ordinary living rats after intact urn removal; no total extermination or living resurrection of Radiant Lance is invented. Physical remains and holy-symbol use remain distinct from unverified history and extra relic powers. One adult hook horror is killed and two retreat. Later urn attribution/use is not a new hall visit or evidence of its destruction.
+
+Both complete profiles were read; relevant terms searched across all 37 dossiers; selected complete primary paragraphs and existing linked urn/finale context reviewed. No fresh ASR/audio, original map/handout, sheet, historical biography or art review occurred. No evidence issue was closed, source dossier/media changed or uncertain site identity canonically merged. No commit or push was performed by this task.
+
+Next examine Deep Winds Spa and the Dawnless Dunes pyramid, then continue connected subject/domain work. Full-world acceptance and final campaign integration remain pending.
+
+### Twenty-second implementation checkpoint — Deep Winds Spa and Dawnless Dunes
+
+**2026-10-26: Two place accounts migrated and locally validated.** [Spa/Dunes report](../reports/DELVERS_SPA_DUNES_2026-10-26.md) · [Coverage ledger](DELVERS_SPA_DUNES_COVERAGE.json) · [Pre-edit archive](../research/legacy/2026-10-26/delvers-spa-dunes/README.md) · [Validation](DELVERS_SPA_DUNES_VALIDATION.json).
+
+| Place | Current disposition | Main prose before → after |
+| --- | --- | ---: |
+| Deep Winds Spa | Flumph customs, facilities/guests, filter crisis, completed stays, paid refuge and Current status | 1,184 → 380 |
+| Dawnless Dunes pyramid | Physical desert/ruins, labor camp, workshop/bedchamber, rescue, true defeat/collapse and Current status | 1,081 → 395 |
+
+All twelve former headings and four additional metadata/status blocks are accounted for. The pyramid's episode-labelled title target remains reachable. Six exact originals and equivalent rebased copies are archived without link corrections. All 276 protected hashes match: 215 campaign files, 51 earlier batch artifacts and ten bonus provenance documents. Prior archives, forest-horizon correction and existing control work remain preserved.
+
+The spa's first night and later paid check-in/completed second stay now follow actual chronology. Hosts' neutral rules do not establish universal harmlessness, and offered paid hospitality does not create a dedicated Guild base or permanent route guarantee. Private aboleth claims and future court imagery remain distinct from established facts. The filter pursuer reaches the public bath before Koh kills it; Krandal/Vapo survive and immediate clean slats are not a universal cure.
+
+The Dunes retain their physical desert/ruins and forced-labor infrastructure. Actual circles evacuate captives, but no exact final headcount is invented. Restored-city visions are psychic; real organ insertion, Khalazar's destruction and pyramid collapse occur. Severed tubes precede the statue's collapse, and it never animates. Giant golem, eye lasers, Atomer attack and flying pyramids remain unplayed creator contingencies. Wider desert and adjacent-site fate remain uninspected.
+
+Both complete profiles were read; terms searched across all 37 dossiers; selected complete primary paragraphs and bounded November creator passage reviewed. No fresh ASR/audio, original map/handout, sheet or art review occurred. No evidence issue was closed, source dossier/media changed or uncertain site identity canonically merged. No commit or push was performed by this task.
+
+Next examine Chath Peak and Snake Island as distinct expedition settings, then continue connected subject/domain work. Full-world acceptance and final campaign integration remain pending.
+
+### Twenty-third implementation checkpoint — Chath Peak and Snake Island
+
+**2026-10-26: Two expedition-setting accounts migrated and locally validated.** [Chath/Snake report](../reports/DELVERS_CHATH_SNAKE_2026-10-26.md) · [Coverage ledger](DELVERS_CHATH_SNAKE_COVERAGE.json) · [Pre-edit archive](../research/legacy/2026-10-26/delvers-chath-snake-island/README.md) · [Validation](DELVERS_CHATH_SNAKE_VALIDATION.json).
+
+| Place | Current disposition | Main prose before → after |
+| --- | --- | ---: |
+| Chath Peak | Volcanic route, kobold community, forge/lift/lair defenses, retrospective defeat and Current status | 723 → 351 |
+| Snake Island | Fragmentary remembered setting, return evidence, later royal ties/survivor and Current status | 657 → 366 |
+
+All eleven former heading targets and one unheaded metadata block are accounted for. Six exact originals and equivalent rebased copies are archived without link corrections. All 279 protected hashes match: 215 campaign files, 54 earlier batch artifacts and ten bonus provenance documents. The completed spa/Dunes batch, earlier archives and existing work remain preserved.
+
+Chath Peak keeps played terrain and machinery separate from the S2E09 retrospective that establishes the remaining controls and Fredoroth's death. The first cliff encounter and S2E08 cutoff are not rewritten as a played kill. One useful sword, distinct payments/item shares and later skull display do not prove a second enchanted output, complete hoard audit, auction sale, rebuilt forge or restored kobold government.
+
+Snake Island remains a partially remembered expedition rather than a complete surveyed itinerary. Acceptance/return and actual rewards are firmer than the order/outcomes of fragmentary scenes. Crowning, idol substitution, poison, volcano and bonfire do not prove a marriage, execution, patron death, cured curse or present idol custody. Hissia/Nopa testimony extends social ties, while Hissia's actual S3E12 rescue resolves her earlier unknown fate elsewhere without inventing an island return, succession or homecoming.
+
+Both complete profiles were read; relevant terms searched across all 37 dossiers; selected full paragraphs and bounded November design retrospective reviewed. No fresh ASR/audio, original map/handout, sheet or art review occurred. No evidence issue was closed, source dossier/media changed or uncertain site identity canonically merged. No commit or push was performed by this task.
+
+Next examine Hooper Estate and the Minotaur Mesa bone crypt, then continue remaining subject/domain work. Full-world acceptance and final campaign integration remain pending.
+
+### Twenty-fourth implementation checkpoint — Hooper Estate and minotaur crypt
+
+**2026-10-26: Two place accounts migrated and locally validated.** [Estate/crypt report](../reports/DELVERS_HOOPER_CRYPT_2026-10-26.md) · [Coverage ledger](DELVERS_HOOPER_CRYPT_COVERAGE.json) · [Pre-edit archive](../research/legacy/2026-10-26/delvers-hooper-minotaur-crypt/README.md) · [Validation](DELVERS_HOOPER_CRYPT_VALIDATION.json).
+
+| Place | Current disposition | Main prose before → after |
+| --- | --- | ---: |
+| Hooper Estate | Halfling house/grounds, wedding custom, concealed crime, actual burial and Current status | 438 → 286 |
+| Minotaur Mesa crypt | Burial chamber, voluntary council, departed inhabitants, later final rest and Current status | 401 → 260 |
+
+All six former headings and three additional unheaded crypt blocks are accounted for. Six exact originals and equivalent rebased copies are archived without link corrections. All 282 protected hashes match: 215 campaign files, 57 earlier batch artifacts and ten bonus provenance documents. Earlier archives, Chath/Snake/control work and unrelated changes remain preserved.
+
+Hooper Estate's wedding and proper burial are actual outcomes; Goodwine's enchanted confession remains testimony about the old crime. The wight and walking oak are distinct threats, the murder is not publicly exposed and unexplained signs are not collapsed into a proved common cause. The deck leaves undrawn; reward concessions do not establish invented payout arithmetic or eternal peace.
+
+The crypt is reached through Noble Hollow, without an exact under-farm map or route to the Dunes. Nine council members exclude Chad Brad's separate skull; his later farm ritual makes ten undead allies, not eleven or living resurrectees. They voluntarily aid the expedition and all ten finish as bones at the Guild. No later crypt return, reburial, complete clearance or destruction is supplied.
+
+Both complete profiles were read; relevant terms searched across all 37 dossiers; selected complete primary paragraphs and bounded November creator passage reviewed. No fresh ASR/audio, original map/handout, sheet or art review occurred. No evidence issue was closed, source dossier/media changed or uncertain site identity canonically merged. No commit or push was performed by this task.
+
+Next review the guild public-reckoning article and audit place dispositions and evidence horizons before continuing remaining character and artifact batches. Full-world acceptance and final campaign integration remain pending.

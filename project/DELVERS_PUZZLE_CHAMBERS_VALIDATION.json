@@ -1,0 +1,84 @@
+{
+  "date": "2026-10-26",
+  "local_file_and_fragment_links": 975,
+  "maintained_inbound_links": 45,
+  "former_headings_preserved": 13,
+  "exact_original_hashes": 7,
+  "reading_copy_target_equivalence": 7,
+  "explicit_reading_copy_link_corrections": 1,
+  "protected_hashes": 269,
+  "measurements": [
+    {
+      "path": "delvers/world/places/black-slime-key-chamber.md",
+      "before_main_words": 767,
+      "after_main_words": 342,
+      "arc_words": [
+        244
+      ],
+      "largest_arc_to_median": 1.0,
+      "footnotes": 6,
+      "anchors": 10
+    },
+    {
+      "path": "delvers/world/places/grick-sinkhole.md",
+      "before_main_words": 373,
+      "after_main_words": 427,
+      "arc_words": [
+        270,
+        55
+      ],
+      "largest_arc_to_median": 1.662,
+      "footnotes": 7,
+      "anchors": 9
+    },
+    {
+      "path": "delvers/world/places/right-stair-grick-urn-complex.md",
+      "before_main_words": 619,
+      "after_main_words": 336,
+      "arc_words": [
+        234
+      ],
+      "largest_arc_to_median": 1.0,
+      "footnotes": 6,
+      "anchors": 8
+    }
+  ],
+  "errors": [],
+  "limits": [
+    "No new ASR, audio, remote URL or rendered-site review",
+    "Section dispositions and material-claim review, not sentence-by-sentence audio verification"
+  ],
+  "markdownlint": {
+    "maintained_files": 8,
+    "violations": 0
+  },
+  "whitespace": {
+    "scoped_git_diff_check": "passed",
+    "new_report_and_json": "passed"
+  },
+  "manual_review": {
+    "completed": true,
+    "focus": [
+      "Place mechanisms and final observed operational state",
+      "Keys distinct from urns and separate triangle gate",
+      "Linked golems and corrected psychic kill",
+      "Third jar removed unopened, stopped wind and escaped grick",
+      "Successful stone/weight exchange versus unplayed ambush",
+      "Explicit S3E09 forest return correction with no total clearance claim"
+    ],
+    "rendered_preview": false
+  },
+  "protected_groups": {
+    "campaign_files": 214,
+    "prior_batch_artifacts": 45,
+    "bonus_provenance_documents": 10
+  },
+  "material_correction": {
+    "path": "delvers/world/places/grick-sinkhole.md",
+    "previous_direct_horizon": "S1E04",
+    "corrected_direct_horizon": "S3E09 historic forest entrance",
+    "evidence": "S3E09 ~02:36\u201302:46: repaired boards/bridges and disabled old poison/spear traps",
+    "prior_artifacts": "Preserved historically; earlier horizon claim superseded by current report"
+  },
+  "working_tree_context": "Prior early-ruins/control changes and concurrent bonus/Wastes work preserved; no commit or push performed by this task."
+}

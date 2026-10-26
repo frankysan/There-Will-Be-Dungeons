@@ -49,6 +49,16 @@ The [southwestern well](places/southwestern-town-well.md) and [Temple of Pelor](
 
 The [submerged lake ruins](places/submerged-lake-ruins.md) and [forest grick sinkhole](places/grick-sinkhole.md) have an [early-ruins checkpoint](../../reports/DELVERS_EARLY_RUINS_2026-10-26.md) distinguishing explored connections, repeated architecture and unrecovered clues.
 
+The [right-stair complex](places/right-stair-grick-urn-complex.md) and [black-slime chamber](places/black-slime-key-chamber.md) have a [puzzle-place checkpoint](../../reports/DELVERS_PUZZLE_CHAMBERS_2026-10-26.md). It also corrects the forest entrance's later repaired condition and established exit route.
+
+The [triangle-gate catacombs](places/triangle-gate-catacombs.md) and [Black Basilica](places/black-basilica.md) have a [connected-place checkpoint](../../reports/DELVERS_CATACOMBS_BASILICA_2026-10-26.md), separating gate/urn chronology from the physical hall and its psychic prison.
+
+[Deep Winds Spa](places/deep-winds-spa.md) and the [Dawnless Dunes pyramid](places/dawnless-dunes-pyramid.md) have a [place checkpoint](../../reports/DELVERS_SPA_DUNES_2026-10-26.md) distinguishing paid refuge, forced-labor infrastructure and the finale's actual collapse.
+
+[Chath Peak](places/chath-peak.md) and [Snake Island](places/snake-island.md) have an [expedition-setting checkpoint](../../reports/DELVERS_CHATH_SNAKE_2026-10-26.md) distinguishing played terrain, retrospective outcomes, incomplete memories and later survivor evidence.
+
+[Hooper Estate](places/hooper-estate.md) and the [Minotaur Mesa bone crypt](places/minotaur-mesa-bone-crypt.md) have a [place checkpoint](../../reports/DELVERS_HOOPER_CRYPT_2026-10-26.md), separating the family burial, voluntary council and later final rest at the Guild.
+
 Other subject articles remain pending; this does not certify the entire directory as migrated.
 
 ## Subject directory
@@ -94,10 +104,10 @@ Other subject articles remain pending; this does not certify the entire director
 ### Places and institutions
 
 - [The Black Basilica — cranium-rat prison and urn chamber](places/black-basilica.md)
-- [The black-slime three-key chamber — Delvers S3E07](places/black-slime-key-chamber.md)
+- [The black-slime three-key chamber](places/black-slime-key-chamber.md)
 - [Broscale Manor — Wildfire's dragonborn household in Atomer](places/broscale-manor.md)
 - [Chath Peak — red-dragon mountain](places/chath-peak.md)
-- [Dawnless Dunes — fallen crystal, black pyramid and upper balcony (S3E11)](places/dawnless-dunes-pyramid.md)
+- [Dawnless Dunes — fallen crystal, black pyramid and upper balcony](places/dawnless-dunes-pyramid.md)
 - [Deep Winds Spa — flumph hospitality beneath Atomer](places/deep-winds-spa.md)
 - [Delvers Dungeon Guild — first employment](places/delvers-guild.md)
 - [Dungeon Guild Academy — the Radiant Lance Theatre](places/dungeon-guild-academy.md)
@@ -111,7 +121,7 @@ Other subject articles remain pending; this does not certify the entire director
 - [Minotaur Mesa bone crypt beneath Noble Hollow](places/minotaur-mesa-bone-crypt.md)
 - [Noble Hollow — the petrified tree](places/noble-hollow.md)
 - [Potato Grove — Krandal's riverside tower](places/potato-grove.md)
-- [Right-stair twin-puzzle and grick wind-chamber complex (Delvers S3E09)](places/right-stair-grick-urn-complex.md)
+- [Right-stair twin-puzzle and grick wind-chamber complex](places/right-stair-grick-urn-complex.md)
 - [Skull Keep — Enzo Keep](places/skull-keep.md)
 - [Snake Island — the forgotten fortnight](places/snake-island.md)
 - [The southwestern well — a neighborhood water source](places/southwestern-town-well.md)

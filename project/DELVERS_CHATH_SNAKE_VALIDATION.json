@@ -1,0 +1,67 @@
+{
+  "date": "2026-10-26",
+  "local_file_and_fragment_links": 983,
+  "maintained_inbound_links": 24,
+  "former_headings_preserved": 11,
+  "exact_original_hashes": 6,
+  "reading_copy_target_equivalence": 6,
+  "explicit_reading_copy_link_corrections": 0,
+  "protected_hashes": 279,
+  "measurements": [
+    {
+      "path": "delvers/world/places/chath-peak.md",
+      "before_main_words": 723,
+      "after_main_words": 351,
+      "arc_words": [
+        262
+      ],
+      "largest_arc_to_median": 1.0,
+      "footnotes": 7,
+      "anchors": 9
+    },
+    {
+      "path": "delvers/world/places/snake-island.md",
+      "before_main_words": 657,
+      "after_main_words": 366,
+      "arc_words": [
+        225,
+        46
+      ],
+      "largest_arc_to_median": 1.661,
+      "footnotes": 7,
+      "anchors": 9
+    }
+  ],
+  "errors": [],
+  "limits": [
+    "No new ASR, audio, remote URL or rendered-site review",
+    "Section dispositions and material-claim review, not sentence-by-sentence audio verification"
+  ],
+  "markdownlint": {
+    "maintained_files": 7,
+    "violations": 0
+  },
+  "whitespace": {
+    "scoped_git_diff_check": "passed",
+    "new_report_and_json": "passed"
+  },
+  "manual_review": {
+    "completed": true,
+    "focus": [
+      "Mountain geography, community and infrastructure",
+      "Direct combat cutoff versus retrospective dragon defeat",
+      "One useful forge output and non-audited hoard/trophy outcomes",
+      "Island recalled fragments rather than uninterrupted map/chronology",
+      "Returned equipment/payment versus unproved island resolution",
+      "Royal testimony, interrupted probe and actual later Hissia survival",
+      "Unresolved government, patron fate, curse and possible marriage"
+    ],
+    "rendered_preview": false
+  },
+  "protected_groups": {
+    "campaign_files": 215,
+    "prior_batch_artifacts": 54,
+    "bonus_provenance_documents": 10
+  },
+  "working_tree_context": "Completed spa/Dunes batch and prior work preserved; no commit or push performed by this task."
+}

@@ -1,0 +1,67 @@
+{
+  "date": "2026-10-26",
+  "local_file_and_fragment_links": 976,
+  "maintained_inbound_links": 37,
+  "former_headings_preserved": 12,
+  "exact_original_hashes": 6,
+  "reading_copy_target_equivalence": 6,
+  "explicit_reading_copy_link_corrections": 0,
+  "protected_hashes": 276,
+  "measurements": [
+    {
+      "path": "delvers/world/places/dawnless-dunes-pyramid.md",
+      "before_main_words": 1081,
+      "after_main_words": 395,
+      "arc_words": [
+        302
+      ],
+      "largest_arc_to_median": 1.0,
+      "footnotes": 7,
+      "anchors": 10
+    },
+    {
+      "path": "delvers/world/places/deep-winds-spa.md",
+      "before_main_words": 1184,
+      "after_main_words": 380,
+      "arc_words": [
+        288
+      ],
+      "largest_arc_to_median": 1.0,
+      "footnotes": 7,
+      "anchors": 11
+    }
+  ],
+  "errors": [],
+  "limits": [
+    "No new ASR, audio, remote URL or rendered-site review",
+    "Section dispositions and material-claim review, not sentence-by-sentence audio verification"
+  ],
+  "markdownlint": {
+    "maintained_files": 7,
+    "violations": 0
+  },
+  "whitespace": {
+    "scoped_git_diff_check": "passed",
+    "new_report_and_json": "passed"
+  },
+  "manual_review": {
+    "completed": true,
+    "focus": [
+      "Place functions and chronological material changes",
+      "Paid hospitality versus unbuilt Guild encampment",
+      "Private guest testimony and mental ambitions",
+      "Filter pursuit, actual killing blow and living survivors",
+      "Physical labor stronghold and observed deprivation",
+      "Rescue sequence, circles and unverified total headcount",
+      "Psychic restored city versus real defeat and collapse",
+      "Unused golem branch and uncertain wider-site aftermath"
+    ],
+    "rendered_preview": false
+  },
+  "protected_groups": {
+    "campaign_files": 215,
+    "prior_batch_artifacts": 51,
+    "bonus_provenance_documents": 10
+  },
+  "working_tree_context": "Prior puzzle/catacomb/control changes preserved; no commit or push performed by this task."
+}

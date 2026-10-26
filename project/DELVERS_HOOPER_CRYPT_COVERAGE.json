@@ -1,0 +1,87 @@
+{
+  "date": "2026-10-26",
+  "scope": "Wedding estate and underground burial/council chamber",
+  "headings": [
+    {
+      "path": "delvers/world/places/hooper-estate.md",
+      "old_heading": "Hooper Estate \u2014 a wedding in the western woods",
+      "old_anchor": "hooper-estate--a-wedding-in-the-western-woods",
+      "target": "Introduction, chronological place development or final status",
+      "disposition": "Native heading or compatibility anchor retained; full original archived"
+    },
+    {
+      "path": "delvers/world/places/hooper-estate.md",
+      "old_heading": "Introduction",
+      "old_anchor": "introduction",
+      "target": "Introduction, chronological place development or final status",
+      "disposition": "Native heading or compatibility anchor retained; full original archived"
+    },
+    {
+      "path": "delvers/world/places/hooper-estate.md",
+      "old_heading": "The joining of two houses",
+      "old_anchor": "the-joining-of-two-houses",
+      "target": "development",
+      "disposition": "Native heading or compatibility anchor retained; full original archived"
+    },
+    {
+      "path": "delvers/world/places/hooper-estate.md",
+      "old_heading": "The unburied grandfather",
+      "old_anchor": "the-unburied-grandfather",
+      "target": "development",
+      "disposition": "Native heading or compatibility anchor retained; full original archived"
+    },
+    {
+      "path": "delvers/world/places/hooper-estate.md",
+      "old_heading": "Current status",
+      "old_anchor": "current-status",
+      "target": "Introduction, chronological place development or final status",
+      "disposition": "Native heading or compatibility anchor retained; full original archived"
+    },
+    {
+      "path": "delvers/world/places/minotaur-mesa-bone-crypt.md",
+      "old_heading": "Minotaur Mesa bone crypt beneath Noble Hollow",
+      "old_anchor": "minotaur-mesa-bone-crypt-beneath-noble-hollow",
+      "target": "Introduction, chronological place development or final status",
+      "disposition": "Native heading or compatibility anchor retained; full original archived"
+    }
+  ],
+  "additional_blocks": [
+    {
+      "path": "delvers/world/places/minotaur-mesa-bone-crypt.md",
+      "old_block": "Unheaded route/discovery/source metadata",
+      "target": "Introduction and route note"
+    },
+    {
+      "path": "delvers/world/places/minotaur-mesa-bone-crypt.md",
+      "old_block": "Unheaded chamber, memorials and council",
+      "target": "Development and council note"
+    },
+    {
+      "path": "delvers/world/places/minotaur-mesa-bone-crypt.md",
+      "old_block": "Unheaded Chad ritual, later fate and verification",
+      "target": "Later occupants/status and source notes"
+    }
+  ],
+  "domains": {
+    "delvers/world/places/hooper-estate.md": "Place/household: halfling-scale mansion/grounds, wedding custom, concealed trading-war crime, family plot and burial",
+    "delvers/world/places/minotaur-mesa-bone-crypt.md": "Place/community: route through collapse, circular burial chamber and memorials, voluntary council, departing inhabitants and later final rest"
+  },
+  "review": "Both complete old pages; relevant place/family/minotaur terms searched across 37 dossiers; selected complete wedding/crypt/evacuation paragraphs and bounded November creator passage read; no fresh ASR/audio/map/art review",
+  "critical_boundaries": [
+    "Mansion, grounds and burial plot observed, exact original plan not inspected",
+    "Goodwine confession under Charm Person is not witnessed old crime or independent court finding",
+    "Ceremonial birds and other strange clues have no proved single cause",
+    "Animated oak and wight separate: tree stops before wight falls",
+    "Actual burial and smile do not prove everlasting peace or public disclosure",
+    "Deck recovered and leaves with wizard, no card draw or invented equal payouts",
+    "Crypt reached via Noble Hollow, not precise proof every room is directly under farm",
+    "Memorial names provisional, not an exhaustive verified nine-person roster",
+    "Nine crypt minotaurs exclude separate Chad Brad skull; reanimation makes ten, not eleven",
+    "Voluntary aid and hoped-for later resurrection not forced labor or guarantee of flesh restoration",
+    "Chad ritual occurs at farm, not crypt and not literal living resurrection",
+    "Later minotaur evacuation/final bones occur at Guild rather than proved crypt return",
+    "Eight through first circle plus two remaining does not prove audited captive total",
+    "No final burial of all minotaurs back in crypt or crypt destruction inferred",
+    "Creator failed-persuasion branch is unplayed, not a second roll or inevitable army"
+  ]
+}
