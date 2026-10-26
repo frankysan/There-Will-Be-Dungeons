@@ -126,4 +126,43 @@ All baseline rows start **inventoried**. Record subsequent archives, changes, va
 
 ### First implementation checkpoint
 
-Pending: navigation reconciliation, three-arc chapter maps and preserved Season One pilot. No world subject rewrite is included in this slice.
+**2026-10-26: first implementation slice structurally validated.** [Chapter maps and coverage review](DELVERS_NARRATIVE_CHAPTER_MAPS.md) · [Pre-edit originals and reading copies](../research/legacy/2026-10-26/delvers-campaign-cleanup/README.md) · [Validation evidence](DELVERS_CLEANUP_VALIDATION.json).
+
+| Files / work | State and result |
+| --- | --- |
+| All 107 baseline files | **Inventoried**: structural findings, measurements and proposed dispositions recorded; claim-level horizons and final states remain pending |
+| Campaign README, documentation plan, review queue, source inventory | **Validated**: current completion framing reconciled; historical intake checkpoints and source limits retained |
+| Narrative portal | **Validated**: three primary arcs in reading order; four earlier studies explicitly historical, unchanged at existing paths |
+| World portal | **Validated**: complete directory of existing subject paths; stale episode-status descriptions replaced by navigation |
+| Shared documentation architecture | **Validated**: obsolete active Delvers intake paragraph replaced; unrelated guidance retained |
+| Season One narrative | **Validated pilot**: archived, rewritten and checked against dossier evidence maps and all four older studies; original chapter anchors retained |
+| Season Two and Three narratives | **Outlined**: proposed maps cover their archive IDs, with scene-level comparison still required; prose unchanged |
+| World subject pages | **Inventoried only**: no biography, place, item, creature or setting rewrite performed |
+
+The archived originals cover all eight pre-existing files rewritten or reframed in this slice, with exact-byte SHA-256 verification and rebased reading copies. Baseline JSON measurements remain frozen. No source SRT/MP3 was edited, no new listening or independent ASR review performed, and no commit or push made.
+
+### Season One reading weight
+
+Counts use the baseline Unicode-word method, excluding headings, complete footnotes and navigation. The introduction and unnumbered ending are outside the chapter range.
+
+| Chapter | Before | Pilot |
+| --- | ---: | ---: |
+| 1 | 132 | 375 |
+| 2 | 152 | 398 |
+| 3 | 184 | 396 |
+| 4 | 161 | 394 |
+| 5 | 167 | 412 |
+| 6 | 198 | 407 |
+| 7 | 333 | 418 |
+| 8 | 238 | 392 |
+| Main prose including introduction/ending | 1,849 | 3,443 |
+
+All eight pilot chapters fall within 350–450 words without adding unsupported scenes. Added space restores the grick escape/second entry, personal motives, reciprocal rescues and institutional context. This supports the planning reference for this arc; the denser later arcs still need their own compression review.
+
+### Verification and remaining scope
+
+Focused Markdownlint and scoped whitespace checks pass for the changed maintained Markdown. The validation JSON records relative-file/fragment checks, inbound fragment checks, pilot footnote completeness and archive hashes. Checks exclude fenced examples and do not certify remote URLs, factual accuracy or a rendered-site preview. Archived reading copies retain historical text and are not modernized to satisfy current prose rules.
+
+A manual pilot readback checked the introduction, all eight chapters, ending and source notes against the reviewed dossiers/studies. Sensitive boundaries retained include promised versus delivered deed, offered versus accepted Snake Island job, senior guild knowledge versus party knowledge, testimony versus fact, both rescued First Sons, living prisoners and the swallowed cultist.
+
+The 19 baseline pages flagged for unreferenced notes and other structural findings remain review leads, not automatic fixes or proof of missing facts. Later subject batches must establish actual horizons and last observations, compare possible overlap/aliases and verify final states. The next bounded narrative pass is Season Two's full coverage checklist and consolidation; the world pilot set remains Koh, the guild, the urns and one short place/creature article.

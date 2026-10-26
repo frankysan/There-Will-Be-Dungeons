@@ -43,6 +43,12 @@
       "original": "research/legacy/2026-10-26/delvers-campaign-cleanup/project/DOCUMENTATION_ARCHITECTURE.md.original",
       "reading_copy": "research/legacy/2026-10-26/delvers-campaign-cleanup/project/DOCUMENTATION_ARCHITECTURE.md",
       "sha256": "44fe6a456a9996b1a286e435e7448531a2b35bbb239c83422d5a7b346bdb86ef"
+    },
+    {
+      "path": "delvers/SOURCE_INVENTORY.md",
+      "original": "research/legacy/2026-10-26/delvers-campaign-cleanup/delvers/SOURCE_INVENTORY.md.original",
+      "reading_copy": "research/legacy/2026-10-26/delvers-campaign-cleanup/delvers/SOURCE_INVENTORY.md",
+      "sha256": "26f82b5cfba173069a0045fb1a5da90fa930450421a311affcf96d9baba98b34"
     }
   ]
 }

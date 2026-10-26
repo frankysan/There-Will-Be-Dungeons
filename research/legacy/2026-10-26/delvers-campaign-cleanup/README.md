@@ -9,3 +9,4 @@ Frozen 2026-10-26 before the completed-campaign cleanup pilot. `.md.original` fi
 - [delvers/narrative/SEASON_ONE_ARC.md](delvers/narrative/SEASON_ONE_ARC.md)
 - [delvers/world/README.md](delvers/world/README.md)
 - [project/DOCUMENTATION_ARCHITECTURE.md](project/DOCUMENTATION_ARCHITECTURE.md)
+- [delvers/SOURCE_INVENTORY.md](delvers/SOURCE_INVENTORY.md)

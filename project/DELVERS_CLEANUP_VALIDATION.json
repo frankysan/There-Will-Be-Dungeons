@@ -1,0 +1,72 @@
+{
+  "date": "2026-10-26",
+  "scope": [
+    "delvers/README.md",
+    "delvers/DOCUMENTATION_PLAN.md",
+    "delvers/REVIEW_QUEUE.md",
+    "delvers/SOURCE_INVENTORY.md",
+    "delvers/narrative/README.md",
+    "delvers/narrative/SEASON_ONE_ARC.md",
+    "delvers/world/README.md",
+    "project/DOCUMENTATION_ARCHITECTURE.md",
+    "project/DELVERS_CAMPAIGN_CLEANUP_PLAN.md",
+    "project/DELVERS_CLEANUP_MANIFEST.md",
+    "project/DELVERS_NARRATIVE_CHAPTER_MAPS.md"
+  ],
+  "relative_link_and_fragment_checks": 1271,
+  "link_errors": [],
+  "inbound_fragment_checks": 0,
+  "verified_original_archives": 8,
+  "pilot_footnote_definitions": 11,
+  "pilot_footnote_references": 11,
+  "pilot_original_second_level_anchors_retained": true,
+  "pilot_main_prose_has_no_episode_ids_or_research_flags": true,
+  "chapter_prose_counts": [
+    {
+      "heading": "# The Darkest Delvers — The First Arc",
+      "words": 88
+    },
+    {
+      "heading": "## 1. The guild's smallest promises",
+      "words": 375
+    },
+    {
+      "heading": "## 2. The mountains, the crypt and a third job",
+      "words": 398
+    },
+    {
+      "heading": "## 3. Lives outside the badges",
+      "words": 396
+    },
+    {
+      "heading": "## 4. The road to bronze",
+      "words": 394
+    },
+    {
+      "heading": "## 5. The lord who could not leave",
+      "words": 412
+    },
+    {
+      "heading": "## 6. Under the city's feet",
+      "words": 407
+    },
+    {
+      "heading": "## 7. The lake and the broken machine",
+      "words": 418
+    },
+    {
+      "heading": "## 8. The Noble Hollow",
+      "words": 392
+    },
+    {
+      "heading": "## After the first arc",
+      "words": 163
+    }
+  ],
+  "total_pilot_main_prose_words": 3443,
+  "archive_ids_covered_by_chapter_maps": 37,
+  "historical_detailed_studies_unchanged": 4,
+  "markdownlint": "11 changed maintained Markdown files: passed",
+  "whitespace_check": "Scoped Git diff and untracked Markdown whitespace scan: passed",
+  "limitations": "Existing dossiers and studies reviewed; no new ASR/audio research, rendered-site preview, remote URL verification or whole-repository acceptance. World subject factual review remains pending."
+}

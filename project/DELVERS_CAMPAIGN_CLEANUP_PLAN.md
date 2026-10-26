@@ -1,6 +1,6 @@
 # Delvers — completed-campaign cleanup plan
 
-**Prepared:** 2026-10-26. **Status:** Proposed editorial programme; initial structural inventory completed, rewrites not started. The campaign is concluded through [S3E12](../delvers/episodes/S3E12.md). This plan covers the Delvers namespace, especially [narrative](../delvers/narrative/README.md) and [world](../delvers/world/README.md), with supporting navigation, chronology and editorial controls.
+**Prepared:** 2026-10-26. **Status:** Programme underway: 107-file structural baseline, navigation reconciliation, three-arc chapter maps and preserved Season One consolidation pilot completed. Claim-level acceptance across the remaining pages and later narrative/world rewrites remain pending. See the [migration manifest](DELVERS_CLEANUP_MANIFEST.md) for the bounded checkpoint. The campaign is concluded through [S3E12](../delvers/episodes/S3E12.md). This plan covers the Delvers namespace, especially [narrative](../delvers/narrative/README.md) and [world](../delvers/world/README.md), with supporting navigation, chronology and editorial controls.
 
 ## 1. Intended result
 
@@ -122,6 +122,6 @@ The programme is complete when every in-scope page has an accepted disposition, 
 
 ## 9. Recommended first implementation slice
 
-Complete Phase 0's full manifest and prose measurements, then reconcile the campaign control documents and outline the three narratives. Produce one archived, consolidated Season One narrative as the first substantial rewrite. Use that result to settle chapter shape and reading weight before tackling the larger Season Two and Three texts or scaling the world migration.
+The first implementation slice has produced the structural manifest and prose measurements, reconciled campaign control documents, outlined all three narratives and consolidated Season One with preservation. The [chapter maps](DELVERS_NARRATIVE_CHAPTER_MAPS.md) and [checkpoint](DELVERS_CLEANUP_MANIFEST.md#first-implementation-checkpoint) record the result and limits. Full claim-level horizon and final-state review remains part of the page batches; the structural scan does not replace it.
 
-This slice makes scope and editorial choices reviewable while leaving the later world pilots bounded by their own acceptance gates.
+Next, complete the old-section-to-new-chapter coverage checklist for Season Two and consolidate that arc against its dossiers. Season Three needs a deliberate decision about the final expedition's chapter weight. The world pilots remain bounded by their own acceptance gates; no world subject has been rewritten in this first slice.
