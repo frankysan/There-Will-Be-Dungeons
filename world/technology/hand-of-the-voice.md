@@ -8,6 +8,10 @@ In the White Tower crisis E101, Hope **cuts away her own hand** and fuses the se
 
 The hooded Voice continues privately pressing Hope toward an **Eye of the Voice** lead. In E118 the Hand hurts and the Voice demands a trip to **Pentelvice (?)**, but the Eye is **not obtained**, nor is the Hand removed. The Voice's alleged motives and nature are not independently certified; the hand's influence should be distinguished from deliberate acts that Hope herself performs. [E113](../../episodes/E113.md) · [E118](../../episodes/E118.md).
 
+## S3E04 — not returned, no witnessed new use by the Principle
+
+In [played S3E04](../../episodes/S3E04.md), Hope receives successful Elhandari augmentation and new +2 armaments, but **does NOT regain the physically stolen Hand of Voice**, merely her earlier regenerated ordinary arm. The Principle's claimed fatherhood from S3E03 shared dream remains unproven. **He is NOT seen in waking world this episode** and the council only PLANS to attack him; no magical Hand use shown. At cutoff the **Principle remains last known physical holder**, separate from the still-unknown collector ring. [S3E04 report](../../reports/WASTES_S3E04_ASR_COMPARISON_2026-10-26.md).
+
 ## S3E03 — Hope discusses risks, but theft/custody UNCHANGED
 
 In [S3E03](../../episodes/S3E03.md) ~02:28–02:29, Hope **DESCRIBES to companions what the former Hand could do**, including **Teleport**, dangerous death-like magic with sight requirement and daily-use limitations, and its unprecedented FEAR when the Principle came. This is **character recollection, not actual reactivation**. The Principle's **S3E02 theft remains the last physical custody evidence; he is NOT physically confronted in S3E03**, although an apparent Principle speaks to all four inside a **parasite-mediated DREAM**, not independently verified the real villain. **Hope's replacement ARM is ordinary**, and Stanley **GIVES her *Diplomacy* sword physically** at ~02:22, not a second Voice-hand artifact. [S3E03 two-ASR audit](../../reports/WASTES_S3E03_ASR_COMPARISON_2026-10-26.md).

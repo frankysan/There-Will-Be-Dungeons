@@ -2,7 +2,11 @@
 
 **Browse:** [Characters](../CHARACTERS.md) · [World portal](../README.md)
 
-**Identity:** Elder tiefling scholar and political intermediary. His name is transcribed as `Nobiery`, `Nobieri`, and sometimes `Riddle Nobieri`; the exact spelling and some titles await listening/written-source review. **Spoilers:** Through E124. **Evidence:** Processed ASR, not independent audio verification.
+**Identity:** Elder tiefling scholar and political intermediary. His name is transcribed as `Nobiery`, `Nobieri`, and sometimes `Riddle Nobieri`; the exact spelling and some titles await listening/written-source review. **Spoilers:** Through S3E04. **Evidence:** Processed ASR, not independent audio verification.
+
+## S3E04 — actual Earth reconnaissance, reporting at Mars second war council
+
+In [S3E04 — The Plan](../../episodes/S3E04.md) ~01:56–02:04, Nobieri(?) **PHYSICALLY ATTENDS the SECOND MARS COUNCIL of Earthly Defenders** and **REPORTS that he traveled to Earth as SCOUT** while the heroes rescued Tungsten. He **PERSONALLY DESCRIBES** the Solar Mines valley, government offices, Workerberg, domed City of the Chosen, Information Library, lava-ringed entrance, and **four anti-air cannon towers**. Claims paladins of the Umbilical Order watch with **magical senses**, **7–8 enormous Slow Peters** and approx **1,000–2,000 Toyota Host** plus Kuromokishi orc squads. **These are HIS surveillance estimates, not a demonstrated fight, exact enemy census, established AA cannon range or successful infiltration**. He explicitly **cannot say how far guns shoot**, confirms no shield effect seen. Council uses his report to agree **future** diversion and tower assaults, not yet executed. [Two-ASR source audit](../../reports/WASTES_S3E04_ASR_COMPARISON_2026-10-26.md).
 
 ## E124 — cellstone and refugees staying
 

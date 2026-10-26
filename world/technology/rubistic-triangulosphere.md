@@ -1,4 +1,4 @@
-# Rubistic Triangulosphere (“Ruby”) — unfinished planetary sealing device
+# Rubistic Triangulosphere (“Ruby”) — completed on Mars in S3E04; Earth deployment still pending
 
 **The Wastes • introduced as proposal in late Season One, physical unfinished machine encountered in [S2E02](../../episodes/S2E02.md).** Related [Tungsten Wheel](../characters/tungsten-wheel.md) · [Delit Ornath's spelljammer](fate-six.md) · [black dragon hearts](nash-dragon-heart.md). **ASR-provisional; no audio or source machine/engineering handout inspected.**
 
@@ -15,6 +15,12 @@ A missing connector/material identified phonetically as **Gluptwarp / Glupwarp /
 ## S2E03 — Earth-core war plan, still no operation
 
 At the [Mars council](../../episodes/S2E03.md), the Elhandari describe **the core of Earth** as the intended depth for the completed device, for reversing the **Weir corruption** that permits hostile influence to cross into the world. The **Solar Mines** are selected as the most promising route, compared with the Firelands and Black Mine, but their **actual access to the core is unverified**; the project is still missing **Gluptwarp** and missing engineer **Tungsten Wheel**. Hope says she recalls a Solar Mines clue in Tungsten's **diary**, requiring comparison with the **letter physically shown in S2E02**. A military escort plan is drawn up, not carried out. **The World Breaker, identified as an altered Tarrasque, must be dealt with separately even if the Triangulosphere works.** No prototype activation or installation in S2E03. [P/Q audit](../../reports/WASTES_S2E03_ASR_COMPARISON_2026-10-26.md).
+
+## S3E04 — completed Ruby PHYSICALLY PRESENTED and briefly activated, but NO world restoration
+
+In [S3E04 — The Plan](../../episodes/S3E04.md) **~02:08:24–02:13:02**, **Tungsten and Dunglestar ACTUALLY ROLL IN THE COMPLETED RUBISTIC TRIANGULOSPHERE** on a remote-controlled hovering platform before the second Mars war council. This supersedes the **INCOMPLETE device as-of S3E03**, but NOT as-of previous episode cutoffs. Approximately **10 feet tall and roughly a ton**, it is enclosed in a demonstrated modified ***Otiluke's Resilient Sphere*** using a recovered wand/device-derived control; **Vorel is designated emergency muscle to carry it if floating controller fails**, but never lifts it in this source.
+
+**Dunglestar ACTUALLY SPINS/ACTIVATES Ruby BRIEFLY**, its components make an apparent impossible triangle/sphere of blue-white light, dust/soil rises, **Hope's horns turn gel-like/liquid** (observed physical effect), and arcane participants feel strange mana pressure. Tungsten commands shutoff and **device visibly stops**. **NO installation in Solar Mines, lava bath, planetary purification or global loss of magic has occurred.** **Tungsten CLAIMS** running it in the hottest Earth-core entry will invert/counter mana waves, shut demonic passages and **eventually make Earth more mundane/lose magical powers**; these are **predictions**, not yet proven outcomes. **His earlier Gluptwarp hideaway claim is not shown being resolved on camera**: completed device exists, but do not invent offscreen reagent procurement/custody. The council **only approves an assault plan** to carry Ruby underground; no transit by S3E04 cutoff. [Two-export audit](../../reports/WASTES_S3E04_ASR_COMPARISON_2026-10-26.md).
 
 ## S3E03 — actual Mars repair preparations, NOT yet completed or tested
 

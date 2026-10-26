@@ -12,6 +12,10 @@ In E054 Monsoon occupies the throne in the smashed keep with **Prince Aladweir d
 
 **Evidence:** [E032](../../episodes/E032.md) · [E037](../../episodes/E037.md) · [E038](../../episodes/E038.md) · [E039](../../episodes/E039.md) · [E049](../../episodes/E049.md) · [E050](../../episodes/E050.md) · [E051](../../episodes/E051.md) · [E054](../../episodes/E054.md) · [Buttons](buttons.md) · [P0D](p0d.md) · [Q&A](../../episodes/BONUS-2019-03.md).
 
+## S3E04 — physically on Mars; offered conditional farewell and approved tower assault
+
+In [played S3E04](../../episodes/S3E04.md) **~01:11–01:16**, Monsoon **ACTUALLY APPROACHES HOPE** by the elven celebration on Mars in **vampire-knight battle armor**, reflects on his bitter past and explains that if the war against the Principle is won, he **INTENDS TO DEPART THIS WORLD** for a place among creatures like himself, since he fears his endless vampiric hunger; **THIS IS FUTURE INTENTION, NOT AN OBSERVED DEPARTURE**. He apparently disappears from Hope's sight but is **PHYSICALLY PRESENT AT SECOND EARTHLY DEFENDERS WAR COUNCIL ~01:52** and **VOLUNTEERS FOR NORTHEAST SOLAR MINES AA CANNON (~02:25)**. Diontalus/Monsoon later plan to attack Slow Peters. **No Solar Mines engagement, enemy death or actual escape from world by cutoff**. [S3E04 audit](../../reports/WASTES_S3E04_ASR_COMPARISON_2026-10-26.md).
+
 ## Later report — E055
 
 A captured Twenty-Sixer **claims Monsoon Cabbage was killed**, but **the E054 played scene showed him escaping as mist**. This E055 prisoner statement is faction testimony and **does not overwrite Monsoon's last directly seen status**. [E055](../../episodes/E055.md).

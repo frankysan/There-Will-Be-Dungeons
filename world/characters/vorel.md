@@ -1,12 +1,18 @@
 # Vorel
 
-**Portrayed by:** Kyle. **Identity:** Lizardfolk warrior and leader, protector of **Bok Bok**, bearer of the **Eye of Groxl** and claimant to many personal titles. **Spoilers:** Main Wastes through **S3E03** and cast Q&As, including the April 2022 retrospective. **Evidence:** ASR-provisional except owner-confirmed item/name orthography.[^march21]
+**Portrayed by:** Kyle. **Identity:** Lizardfolk warrior and leader, protector of **Bok Bok**, bearer of the **Eye of Groxl** and claimant to many personal titles. **Spoilers:** Main Wastes through **S3E04** and cast Q&As, including the April 2022 retrospective. **Evidence:** ASR-provisional except owner-confirmed item/name orthography.[^march21]
 
 **Browse:** [Characters](../CHARACTERS.md) · [His source-indexed titles](vorel-titles.md) · [Eye of Groxl](../technology/eye-of-groxl.md) · [World portal](../README.md).
 
 ## April 2022 Q&A — self-reliance and fish-out-of-water inspiration
 
 In the [April 2022 Q&A](../../episodes/BONUS-2022-04.md), Kyle says he considered but **did not ask the werefolk to transform Vorel**, believing an acquired curse would undercut the warrior's personal strength. He says the character's distinctive viewpoint grew from a **comedic outsider's sincerity in unfamiliar culture**, specifically citing **Worf from Star Trek** as a creative inspiration. A paladin version of Vorel is discussed as **an alternate hypothetical class**, not a played multiclass, and the giant lizard remains himself rather than a werebear. **No new personal epithet or in-world reference to Star Trek is established.** [Comparison](../../reports/BONUS_2022-04_ASR_COMPARISON_2026-10-26.md).
+
+## S3E04 — refuses surgery, performs Courtship of the Fang, prepares lizardfolk assault
+
+At [played S3E04](../../episodes/S3E04.md) **~00:05–00:07**, Vorel **EXPLICITLY REFUSES Elhandari augmentation surgery** (despite earlier considering removal of Eye of Groxl), leaves the other three to be operated on, and returns to a Mars lizardfolk encampment of **~75**. **HE RETAINS EYE OF GROXL; no incision/implant revision.** At **~00:17** he actually initiates the **“Courtship of the Fang”** with his own tribal cry, creates a combat pit and participates in mating challenges, **as recognized Great Fang**. GM ~00:30:02 counts **24** mates, Hope later ~00:47:01 reports **26 people lying nearby**; numbers disagree and **NO pregnancy, new child or named mate is established**. Vorel starts near **1 HP** due exhaustion then GM **grants rest/recovery before coming war**. Although refusing surgery, GM at ~00:25 casually calls him **level 15**, so don't equate refusal with certain lack of level advancement without character-sheet confirmation.
+
+At Elhandari party he **ACTUALLY LETS UNION TAKE HIS HAND AND TEACH HIM A BASIC TWO-STEP** while eating. After Hope shares the great number of Vorel's new partners, **Union's face visibly hardens, she tears up and WALKS AWAY (~01:23)**; the scene does NOT establish that she is forever divorced/broken up, or that Vorel learns her feelings. She returns in guard regalia next morning. At war council Vorel participates in the **FINAL AGREED, NOT EXECUTED** plan for his lizardfolk anti-dragon tactical unit to take the **southeast AA cannon**, with future need to protect the 10ft Triangulosphere; **none of that assault has happened by S3E04 cutoff**. Stanley and Hope **collect +2 longsword/+2 shield intending for Vorel**, exact delivery not spoken. One rejuvenation syringe still unused. [S3E04 comparison](../../reports/WASTES_S3E04_ASR_COMPARISON_2026-10-26.md); ritual/Great Fang title distinction [title register](vorel-titles.md).
 
 ## S3E03 — frees party from dream parasites, tells titles, considers Union's affection
 

@@ -1,6 +1,10 @@
 # Vorel — titles and epithets register
 
-**Type:** Source-indexed supporting register for [Vorel](vorel.md), deliberately separated from the main character biography. **Evidence:** ASR-provisional, with source windows, name variants and social standing preserved. **Spoilers:** Through Wastes S3E03; Q&As are retrospective, not played conferrals. [Characters](../CHARACTERS.md) · [World portal](../README.md).
+**Type:** Source-indexed supporting register for [Vorel](vorel.md), deliberately separated from the main character biography. **Evidence:** ASR-provisional, with source windows, name variants and social standing preserved. **Spoilers:** Through Wastes S3E04; Q&As are retrospective, not played conferrals. [Characters](../CHARACTERS.md) · [World portal](../README.md).
+
+## S3E04 — “Great Fang” recognition and lizardfolk courtship chant, NOT a fifth title
+
+In [played S3E04](../../episodes/S3E04.md) ~00:17:07 Vorel **ACTUALLY CALLS OUT A LIZARDFOLK PHRASE** (P “Jess room tyrolless”; Q “Jesk Ruman Tyralis”; **phonetics unverified**) and GM/player explicitly interpret its meaning as **“Courtship of the Fang has begun,” a RITUAL ANNOUNCEMENT, not a new self-bestowed epithet**. The GM/NPC framing at ~00:18:50 calls him **“the Great Fang,” an already established Razak Val standing**, **not a newly granted title in this episode**. Vorel's self-proclaimed S3E03 four-title list stands unchanged, no new title awarded for this courtship or later war-council strategizing. [S3E04 ASR comparison](../../reports/WASTES_S3E04_ASR_COMPARISON_2026-10-26.md).
 
 ## S3E03 — FOUR TITLES formally uttered as Vorel's OWN claims at Mars dinner
 
