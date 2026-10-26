@@ -17,7 +17,15 @@ The [three arc narratives](../narrative/README.md) provide the plot-led reading 
 
 ## Cleanup progress
 
-Four articles have received preserved subject-focused passes: [Koh](characters/koh-spiros.md), [the guild](places/delvers-guild.md), [the three urns](items/three-urns-triangle-gate.md) and [the skeletal bat](creatures/skeletal-bat-balcony.md). Their [checkpoint](../../reports/DELVERS_WORLD_PILOTS_2026-10-26.md) records source horizons and validation limits. [Evelyn](characters/evelyn-grinkeeper.md) and [Krandal](characters/krandal-splenderbelt.md) now have the same character-focused treatment, recorded in their [batch checkpoint](../../reports/DELVERS_EVELYN_KRANDAL_2026-10-26.md). Other subject articles remain pending; this does not certify the entire directory as migrated.
+Four articles have received preserved subject-focused passes: [Koh](characters/koh-spiros.md), [the guild](places/delvers-guild.md), [the three urns](items/three-urns-triangle-gate.md) and [the skeletal bat](creatures/skeletal-bat-balcony.md). Their [checkpoint](../../reports/DELVERS_WORLD_PILOTS_2026-10-26.md) records source horizons and validation limits.
+
+[Evelyn](characters/evelyn-grinkeeper.md) and [Krandal](characters/krandal-splenderbelt.md) now have the same character-focused treatment, recorded in their [batch checkpoint](../../reports/DELVERS_EVELYN_KRANDAL_2026-10-26.md).
+
+[Margaret](characters/margaret-dupayton.md) and [the Traveler](characters/gentleman-cavalier-traveler.md) have a [supporting-character checkpoint](../../reports/DELVERS_MARGARET_TRAVELER_2026-10-26.md) that distinguishes their last appearances from later reports and the final invitation.
+
+[Nopa Ropa](characters/nopa-ropa.md) and [Princess Hissia](characters/princess-hissia.md) now have a [linked rescue/relationship checkpoint](../../reports/DELVERS_NOPA_HISSIA_2026-10-26.md).
+
+Other subject articles remain pending; this does not certify the entire directory as migrated.
 
 ## Subject directory
 

@@ -222,6 +222,7 @@ Koh's substantive arcs contain 220, 256 and 270 words. All four ordinary subject
 Eight original working copies and rebased reading copies are preserved. One inherited September bonus link in Koh's reading copy is transparently corrected in the archive manifest; its exact original bytes remain unchanged. A total of 213 protected-file hashes covers other world Markdown, all episode dossiers, all narrative files, Delvers SRTs and the frozen initial baseline. No new audio, SRT interpretation, private-source review, naming decision or source-question closure occurred. No commit or push was performed by this task.
 
 The character/institution/artifact/creature pilots meet their bounded domain contracts; this supersedes their earlier inventoried-only status. Other subject pages remain pending. Next migrate Evelyn and Krandal, then connected family/mentor and guild subjects in small batches. Resolve event/place and reasoning-creature taxonomy only after examining each subject and inbound-link consequences. Full world acceptance and a rendered-site preview are not claimed.
+
 ### Fifth implementation checkpoint — Evelyn and Krandal
 
 **2026-10-26: Two core biographies migrated and structurally validated.** [Character report](../reports/DELVERS_EVELYN_KRANDAL_2026-10-26.md) · [Section ledger](DELVERS_EVELYN_KRANDAL_COVERAGE.json) · [Pre-edit archive](../research/legacy/2026-10-26/delvers-evelyn-krandal/README.md) · [Validation](DELVERS_EVELYN_KRANDAL_VALIDATION.json).
@@ -236,3 +237,35 @@ The substantive arcs contain 238/256/249 words for Evelyn and 245/260/262 for Kr
 This completes the core-PC subject batch within the report's evidence limits, superseding these two pages' inventoried-only status. No source media, earlier narrative, other subject page or historical baseline was changed. No new listening/ASR interpretation, private-source review, identity resolution or central issue closure occurred. No commit or push was performed by this task.
 
 Next examine Margaret and the Traveler, then Nopa Ropa and Hissia, before continuing connected guild and domain batches. Other world subjects and final campaign integration remain pending; this checkpoint does not certify the whole directory.
+
+### Sixth implementation checkpoint — Margaret and the Traveler
+
+**2026-10-26: Two supporting biographies migrated and structurally validated.** [Character report](../reports/DELVERS_MARGARET_TRAVELER_2026-10-26.md) · [Coverage ledger](DELVERS_MARGARET_TRAVELER_COVERAGE.json) · [Pre-edit archive](../research/legacy/2026-10-26/delvers-margaret-traveler/README.md) · [Validation](DELVERS_MARGARET_TRAVELER_VALIDATION.json).
+
+| Subject | Current disposition | Main prose before → after |
+| --- | --- | ---: |
+| Margaret | Chronological invention, cover, friendship and trusted correspondence; last direct role distinguished from later requests and unknown epilogue | 632 → 490 |
+| Traveler | Introduction, Ball relationship/defense, actual departure, private curse lead and final unresolved invitation | 572 → 428 |
+
+All 12 former headings remain reachable, with two unheaded identity/illustration blocks also accounted for. Six exact working-copy originals and equivalent rebased reading copies are archived; no reading-copy target corrections were needed. The 218 protected hashes cover 215 campaign files and three pre-existing changed paths outside this batch. The living manifest's prior working-copy changes were preserved before this append.
+
+The earlier Margaret Ball and Traveler departure cutoffs are superseded by later dossier evidence, while their own last appearances remain distinct from the campaign's ending. No Margaret-specific finale, confirmed Wildfire sighting, fully heard confession, independently identified pamphlet distributor, freed Traveler, performed wedding or new identity is inferred. Relevant dossier mentions were searched through all 37 campaign entries, with selected passages read; no new ASR/audio or original visual-source review occurred. No source issue was closed, and no commit or push was performed by this task.
+
+Next examine Nopa Ropa and Hissia as a linked relationship/rescue batch, followed by connected guild subjects. Remaining ordinary world pages and final campaign integration are pending; chronology and evidence registers keep their functions.
+
+### Seventh implementation checkpoint — Nopa Ropa and Hissia
+
+**2026-10-26: Two linked search/rescue biographies migrated and structurally validated.** [Character report](../reports/DELVERS_NOPA_HISSIA_2026-10-26.md) · [Coverage ledger](DELVERS_NOPA_HISSIA_COVERAGE.json) · [Pre-edit archive](../research/legacy/2026-10-26/delvers-nopa-hissia/README.md) · [Validation](DELVERS_NOPA_HISSIA_VALIDATION.json).
+
+| Subject | Current disposition | Main prose before → after |
+| --- | --- | ---: |
+| Nopa Ropa | Introduction, third-arc service/pledge/rescue and Current status; actual conduct distinguished from rat projections and plans | 542 → 365 |
+| Hissia | Introduction, Ball relationship claims, third-arc captivity/reunion and Current status; missing island history remains unresolved | 804 → 406 |
+
+All nine former headings remain reachable, and six unheaded identity/history/visual blocks have dispositions. Six exact working-copy originals and equivalent reading copies are preserved without target corrections. The 221 protected hashes cover 215 campaign files and six prior batch artifacts. Existing control-file changes are preserved in the pre-edit archive; concurrent Wastes work is outside this batch.
+
+Nopa's living reunion and Hissia's identification, nonlethal recovery, evacuation, awakening and kiss are completed events. Earlier uncertain sightings and reported captivity remain historically scoped. Snake Island consent/marriage, gift origins, royal succession, the cause of forbidden love and later residence remain unresolved. No snakefolk reinforcements, Nopa-forged censer, actual farm foreclosure or rat-generated worker revolt is inferred.
+
+Relevant mentions were searched across all 37 campaign dossiers and selected source paragraphs read; no fresh ASR/audio, sheets or original visual-source review occurred. No source issue was closed, no dossier/media was changed, and no commit or push was performed by this task.
+
+Next examine Cassius and Carrie as connected guild subjects, then continue remaining domain batches. Full-world acceptance and final campaign integration remain pending.

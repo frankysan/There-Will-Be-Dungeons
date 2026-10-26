@@ -1,0 +1,115 @@
+{
+  "date": "2026-10-26",
+  "scope": "Margaret and Traveler supporting biographies",
+  "review": "Complete old profiles read, relevant mentions searched across all 37 campaign dossiers, selected passages read; no new ASR or audio",
+  "headings": [
+    {
+      "path": "delvers/world/characters/margaret-dupayton.md",
+      "old_heading": "Margaret Dupayton — Evelyn's confidante",
+      "old_anchor": "margaret-dupayton--evelyns-confidante",
+      "target": "Margaret Dupayton — Evelyn's confidante",
+      "disposition": "unchanged heading"
+    },
+    {
+      "path": "delvers/world/characters/margaret-dupayton.md",
+      "old_heading": "Introduction",
+      "old_anchor": "introduction",
+      "target": "Introduction",
+      "disposition": "unchanged heading"
+    },
+    {
+      "path": "delvers/world/characters/margaret-dupayton.md",
+      "old_heading": "S2E11: dual Bronze Ball appearance planned",
+      "old_anchor": "s2e11-dual-bronze-ball-appearance-planned",
+      "target": "Arc Two — The demands of keeping a secret",
+      "disposition": "synthesized into chronological character account; historical cutoff/detail archived"
+    },
+    {
+      "path": "delvers/world/characters/margaret-dupayton.md",
+      "old_heading": "Gifts of quiet invention",
+      "old_anchor": "gifts-of-quiet-invention",
+      "target": "Arc One — Invention in a friend's service",
+      "disposition": "synthesized into chronological character account; historical cutoff/detail archived"
+    },
+    {
+      "path": "delvers/world/characters/margaret-dupayton.md",
+      "old_heading": "A face drawn in a hurry",
+      "old_anchor": "a-face-drawn-in-a-hurry",
+      "target": "Arc One — Invention in a friend's service",
+      "disposition": "synthesized into chronological character account; historical cutoff/detail archived"
+    },
+    {
+      "path": "delvers/world/characters/margaret-dupayton.md",
+      "old_heading": "Current status through S2E09",
+      "old_anchor": "current-status-through-s2e09",
+      "target": "Arc Two — The demands of keeping a secret",
+      "disposition": "synthesized into chronological character account; historical cutoff/detail archived"
+    },
+    {
+      "path": "delvers/world/characters/margaret-dupayton.md",
+      "old_heading": "Earlier status (S2E01 cutoff)",
+      "old_anchor": "earlier-status-s2e01-cutoff",
+      "target": "Arc Two — The demands of keeping a secret",
+      "disposition": "synthesized into chronological character account; historical cutoff/detail archived"
+    },
+    {
+      "path": "delvers/world/characters/gentleman-cavalier-traveler.md",
+      "old_heading": "Gentleman Cavalier Traveler — annual visitor to the Material Plane",
+      "old_anchor": "gentleman-cavalier-traveler--annual-visitor-to-the-material-plane",
+      "target": "Gentleman Cavalier Traveler — annual visitor to the Material Plane",
+      "disposition": "unchanged heading"
+    },
+    {
+      "path": "delvers/world/characters/gentleman-cavalier-traveler.md",
+      "old_heading": "Appearance at the Bronze Ball (~01:39–02:15)",
+      "old_anchor": "appearance-at-the-bronze-ball-01390215",
+      "target": "Introduction",
+      "disposition": "synthesized into chronological character account; historical cutoff/detail archived"
+    },
+    {
+      "path": "delvers/world/characters/gentleman-cavalier-traveler.md",
+      "old_heading": "Evelyn and his curse",
+      "old_anchor": "evelyn-and-his-curse",
+      "target": "Arc Two — Courtesy, attachment and courage",
+      "disposition": "synthesized into chronological character account; historical cutoff/detail archived"
+    },
+    {
+      "path": "delvers/world/characters/gentleman-cavalier-traveler.md",
+      "old_heading": "A new alleged curse lead (S3E05, NOT independent confirmation)",
+      "old_anchor": "a-new-alleged-curse-lead-s3e05-not-independent-confirmation",
+      "target": "Arc Three — A promise across the planes",
+      "disposition": "synthesized into chronological character account; historical cutoff/detail archived"
+    },
+    {
+      "path": "delvers/world/characters/gentleman-cavalier-traveler.md",
+      "old_heading": "Defense of the ball (~02:40–03:00)",
+      "old_anchor": "defense-of-the-ball-02400300",
+      "target": "Arc Two — Courtesy, attachment and courage",
+      "disposition": "synthesized into chronological character account; historical cutoff/detail archived"
+    }
+  ],
+  "additional_blocks": [
+    {
+      "path": "delvers/world/characters/gentleman-cavalier-traveler.md",
+      "old_block": "Opening Working identity paragraph",
+      "disposition": "Identity in introduction and notes; actual first appearance and withheld name retained; later departure/status supersedes cutoff."
+    },
+    {
+      "path": "delvers/world/characters/gentleman-cavalier-traveler.md",
+      "old_block": "Illustration time-variation paragraph",
+      "disposition": "Arrival/mask/blade sequence and absent earlier appearance evidence retained in introduction/dance/defense notes; no drawing or visual-source review."
+    }
+  ],
+  "horizons": {
+    "Margaret": {
+      "last_direct_role": "S3E01 letters left with her at school",
+      "later_indirect": "S3E02 correspondence/pamphlet request and observed pamphlets; distributor not independently established",
+      "finale": "No Margaret-specific epilogue"
+    },
+    "Traveler": {
+      "last_direct_appearance": "S3E01 portal departure",
+      "later_claim": "S3E05 private mind-reader statement to Evelyn",
+      "finale": "S3E12 waiting/searching and separate signed invitation; identity, reunion and cure unresolved"
+    }
+  }
+}

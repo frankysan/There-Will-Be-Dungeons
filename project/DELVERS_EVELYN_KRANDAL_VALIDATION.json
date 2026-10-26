@@ -1,6 +1,6 @@
 {
   "date": "2026-10-26",
-  "local_file_and_fragment_links": 915,
+  "local_file_and_fragment_links": 920,
   "maintained_inbound_links": 44,
   "former_headings_preserved": 84,
   "exact_original_hashes": 6,
@@ -39,5 +39,19 @@
   "limits": [
     "No new ASR, audio, remote URL or rendered-site review",
     "Section dispositions and material-claim review, not sentence-by-sentence audio verification"
+  ],
+  "markdownlint": {
+    "maintained_files": 7,
+    "violations": 0,
+    "exit_code": 0,
+    "archive_scope": "Excluded by repository wrapper; archive reading copies checked for links and hash-preserving provenance."
+  },
+  "whitespace": {
+    "scoped_git_diff_check_exit_code": 0,
+    "direct_new_markdown_trailing_whitespace_errors": 0
+  },
+  "manual_review": [
+    "Full post-edit main-prose readback for both biographies",
+    "Focused notes retain Gemholm knowledge boundary, dream/real distinction, healing sequence, final invitation and attributed bonuses"
   ]
 }

@@ -1,0 +1,64 @@
+{
+  "date": "2026-10-26",
+  "local_file_and_fragment_links": 694,
+  "maintained_inbound_links": 27,
+  "former_headings_preserved": 12,
+  "exact_original_hashes": 6,
+  "reading_copy_target_equivalence": 6,
+  "explicit_reading_copy_link_corrections": 0,
+  "protected_hashes": 218,
+  "measurements": [
+    {
+      "path": "delvers/world/characters/gentleman-cavalier-traveler.md",
+      "before_main_words": 572,
+      "after_main_words": 428,
+      "arc_words": [
+        190,
+        104
+      ],
+      "largest_arc_to_median": 1.293,
+      "footnotes": 6,
+      "anchors": 10
+    },
+    {
+      "path": "delvers/world/characters/margaret-dupayton.md",
+      "before_main_words": 632,
+      "after_main_words": 490,
+      "arc_words": [
+        145,
+        158,
+        71
+      ],
+      "largest_arc_to_median": 1.09,
+      "footnotes": 7,
+      "anchors": 12
+    }
+  ],
+  "errors": [],
+  "limits": [
+    "No new ASR, audio, remote URL or rendered-site review",
+    "Section dispositions and material-claim review, not sentence-by-sentence audio verification"
+  ],
+  "markdownlint": {
+    "maintained_files": 7,
+    "violations": 0,
+    "exit_code": 0,
+    "final_report_recheck_exit_code": 0,
+    "archives": "Excluded by repository wrapper; checked for hashes, links and rebasing."
+  },
+  "whitespace": {
+    "scoped_git_diff_check_exit_code": 0,
+    "direct_new_markdown_trailing_whitespace_errors": 0
+  },
+  "manual_review": [
+    "Both complete pre-edit profiles and final main-prose accounts read",
+    "All pre-edit link targets retained in rewritten profiles",
+    "Margaret direct appearance distinguished from pamphlet request and outcome",
+    "Traveler testimony, private spa claim and cinematic invitation remain separate"
+  ],
+  "protected_file_groups": {
+    "campaign_files": 215,
+    "preexisting_changed_paths_outside_batch": 3
+  },
+  "concurrent_work": "Additional Wastes dossier, report, project and world-register changes appeared during this task and were not edited."
+}

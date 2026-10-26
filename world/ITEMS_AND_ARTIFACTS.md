@@ -1,6 +1,6 @@
 # Items, artifacts and extraordinary technology
 
-**The Wastes · spoilers through S2E07, first seven episodes of Season Two.** Object-specific reference index; distinguishes physical possession, demonstrated effects, item descriptions, possible origins and proposed use. The dossiers are **ASR-provisional**, and a late-game inventory is not automatically valid for an earlier episode. [Portal](README.md) · [World technology](WORLD.md) · [Review ledger](CONSISTENCY_LEDGER.md).
+**The Wastes · spoilers through S2E08, first eight episodes of Season Two.** Object-specific reference index; distinguishes physical possession, demonstrated effects, item descriptions, possible origins and proposed use. The dossiers are **ASR-provisional**, and a late-game inventory is not automatically valid for an earlier episode. [Portal](README.md) · [World technology](WORLD.md) · [Review ledger](CONSISTENCY_LEDGER.md).
 
 ## Story-defining objects
 
@@ -15,7 +15,7 @@
 | **Book of Adjacencies** | Dalit/Daliot Ornath's responsive journal received by Stanley E118; its theories are not verified time-travel laws | [Book of Adjacencies](technology/book-of-adjacencies.md) |
 | **Mask of Eltanfawr** (formerly “Elton IV”) | Donned E126; **the former villa becomes the operational Fate Six by S2E01/S2E02**, but shrinking/Peer into Plurality untested | [Mask of Eltanfawr](technology/mask-of-eltanfawr.md) · [Fate Six](technology/fate-six.md) |
 | **Fate Six — Ornath spelljammer** | **Mars S2E02 → Planet Nash S2E04 → Blast Belly Rock S2E05; S2E07 follows Tungsten's coordinates into nebula and through portal to Pentel Weiss pyramid**; three newly recruited orcs **all die** in transit, ghost crew remain shipbound | [Fate Six](technology/fate-six.md) |
-| **Tungsten Wheel's bank contract, box 724 and coordinates** | **Stanley physically finds signed bank-teller contract and key 724 at Bank of Burp S2E06, and opens box 724**; **Hope discovers navigation-coordinate parchment**, destination **unknown and not visited**, Tungsten still missing | [S2E06](../episodes/S2E06.md) · [Tungsten](characters/tungsten-wheel.md) |
+| **Tungsten Wheel's bank contract, box 724 and coordinates** | **Stanley physically finds signed bank-teller contract and key 724 at Bank of Burp S2E06, and opens box 724**; **Hope discovers navigation-coordinate parchment**, S2E07 **uses coordinates to reach Pentel Weiss**, but Tungsten remains missing and exact prison location unknown | [S2E06](../episodes/S2E06.md) · [Tungsten](characters/tungsten-wheel.md) |
 | **Clown-given Pentel Weiss compass & return coordinates** | **Hope uses a jack-in-box pointing hand to locate the prison in S2E07 nebula**, then she and Crooked Hand Row **print separate return-portal coordinates, left aboard Fate Six**; not to be confused with Tungsten's original bank directions | [S2E07](../episodes/S2E07.md) |
 | **Rubistic Triangulosphere (“Ruby”)** | **Unfinished ~10-ft structure physically found on Mars S2E02**, missing Gluptwarp; no activation, installation or planetary cure | [Device study](technology/rubistic-triangulosphere.md) |
 | **Diontalus's wooden ocarina** | **Physically handed to Stanley E125**, allegedly summons Diontalus when played; **not activated/tested** | [Summoning ocarina](technology/diontalus-ocarina.md) |
@@ -27,6 +27,7 @@
 
 | Item | Follow-up location |
 | --- | --- |
+| **Diplomacy (Stanley's enchanted rapier)** | **Vorel borrows it with Stanley's consent in S2E08** after nonmagical ship sword fails against pool creature; **actually pierces it**, then **RETURNS rapier to Stanley** on the ledge. Local spell suppression does **not** suppress this enchanted weapon's demonstrated striking property. [S2E08](../episodes/S2E08.md) |
 | **Smokey's belt and special ammunition** | **Physically returned to Hope by alternate Tedna/Badass T on Planet Nash S2E04**, no longer held by Badass T. [Hope](characters/hope-akmenos.md) · [S2E04](../episodes/S2E04.md) |
 | **Mawstorm** and Vorel's skull helmet | [Vorel](characters/vorel.md); sword name still requires audio/written confirmation |
 | **Fate 4** | [Fate 4](technology/fate-4.md) — Hope and Jimster's monster-wheeled RV; destroyed E066, with salvage used for a separate successor |

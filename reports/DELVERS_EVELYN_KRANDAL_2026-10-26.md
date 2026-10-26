@@ -44,7 +44,7 @@ Main-prose counts exclude headings, HTML compatibility anchors, complete footnot
 
 The [validation artifact](../project/DELVERS_EVELYN_KRANDAL_VALIDATION.json) records local links/fragments and maintained inbound targets, all former headings, complete footnotes, duplicate-anchor checks, introduction/final-status order, visible-prose checks, exact archive hashes, reading-copy target equivalence and **215 protected-file hashes**. Protected files include every other Delvers world Markdown article, all 37 episode dossiers, all eight narrative files, Delvers SRTs and the frozen baseline. MP3s were outside the write scope and were not rehashed or listened to.
 
-Focused changed-file Markdownlint and scoped whitespace checks are required before closing this checkpoint. Local-link checks ignore fenced illustrative Markdown. No rendered-site preview, remote URL check, campaign-wide factual acceptance or source-question closure is claimed. No commit or push was performed by this task.
+Focused Markdownlint passed for all seven maintained Markdown files; scoped Git whitespace and direct new-file whitespace checks passed. The repository lint wrapper deliberately excludes the archive directory, whose reading copies retain historical content and receive link/hash checks instead. Local validation checked 920 relative file/fragment links and 44 maintained inbound links with zero errors. Local-link checks ignore fenced illustrative Markdown. No rendered-site preview, remote URL check, campaign-wide factual acceptance or source-question closure is claimed. No commit or push was performed by this task.
 
 ## Next bounded work
 

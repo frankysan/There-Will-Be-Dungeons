@@ -1,6 +1,10 @@
 # Vorel — titles and epithets register
 
-**Type:** Source-indexed supporting register for [Vorel](vorel.md), deliberately separated from the main character biography. **Evidence:** ASR-provisional, with source windows, name variants and social standing preserved. **Spoilers:** Through Wastes S2E07; Q&As are retrospective, not played conferrals. [Characters](../CHARACTERS.md) · [World portal](../README.md).
+**Type:** Source-indexed supporting register for [Vorel](vorel.md), deliberately separated from the main character biography. **Evidence:** ASR-provisional, with source windows, name variants and social standing preserved. **Spoilers:** Through Wastes S2E08; Q&As are retrospective, not played conferrals. [Characters](../CHARACTERS.md) · [World portal](../README.md).
+
+## S2E08 — no newly bestowed title in the prison
+
+In [S2E08](../../episodes/S2E08.md), Vorel tries to enter Pentel Weiss under a pirate guise, shouting **“I'm under arrest”** as he leaps into the shaft (~01:10), and later remarks on its inhabitants as **“the greatest most wanted criminals in all of space-time”** (~02:32). This is **sarcastic prisoner description**, **NOT** a new self-proclaimed Vorel title. He uses ordinary ship sword, then enchanted ***Diplomacy*** against the pool monster, but receives **no formal honor/epithet or title** in the reviewed primary ASR. [ASR audit](../../reports/WASTES_S2E08_ASR_COMPARISON_2026-10-26.md).
 
 ## S2E07 — no new title during space voyage or prison intake
 

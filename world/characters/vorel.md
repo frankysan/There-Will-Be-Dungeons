@@ -1,6 +1,6 @@
 # Vorel
 
-**Portrayed by:** Kyle. **Identity:** Lizardfolk warrior and leader, protector of **Bok Bok**, bearer of the **Eye of Groxl** and claimant to many personal titles. **Spoilers:** Main Wastes through **S2E07** and cast Q&As. **Evidence:** ASR-provisional except owner-confirmed item/name orthography.[^march21]
+**Portrayed by:** Kyle. **Identity:** Lizardfolk warrior and leader, protector of **Bok Bok**, bearer of the **Eye of Groxl** and claimant to many personal titles. **Spoilers:** Main Wastes through **S2E08** and cast Q&As. **Evidence:** ASR-provisional except owner-confirmed item/name orthography.[^march21]
 
 **Browse:** [Characters](../CHARACTERS.md) · [His source-indexed titles](vorel-titles.md) · [Eye of Groxl](../technology/eye-of-groxl.md) · [World portal](../README.md).
 
@@ -81,6 +81,10 @@ In **E114**, Vorel still handles Squirts's ashes and defends the elven vessel fr
 **E117:** Vorel witnesses Hope return, supports a chance for dialogue without absolving her and helps look after **Chunks**, Squirts's surviving child. He joins the refugees' ceremony and is called **Keeper of Stories**. He smells evidence that lizardfolk are nearby in the Elhandar forest but does **not** locate Omnom that episode. [E117](../../episodes/E117.md).
 
 **E118:** Vorel **actually finds Omnom Cinderborn alive**, severely injured and grieving Razak Val. Omnom charges Hope, but **Stanley's Hold Person** stops the attack. Vorel takes Omnom aside and refuses his request to be killed; **Omnom recounts his losses and accuses Hope of intentional wrongdoing**, while Hope offers a different explanation. Vorel persuades him to attempt a **hunt the next morning** with the four companions, but **no hunt or full reconciliation occurs before the E118 cutoff**. Omnom addresses Vorel as **Great Fang**, a renewed personal recognition of an existing title rather than new political coronation. [E118](../../episodes/E118.md) · [Omnom](omnom-cinderborn.md).
+
+## S2E08 — pirate clothes, creature wounds and camp trap
+
+In [S2E08](../../episodes/S2E08.md), Vorel tests **Pentel Weiss's intake shaft** by throwing **Stanley's lit lantern** and later discusses physically spinning/breaking the entire pyramid (NOT attempted). On Fate Six he gets an **ordinary nonmagical sword and pirate-officer jacket** as caution against local magic suppression; the unenchanted sword cannot hurt the pool's tentacled, circular-mouthed monster, although his ***Storm Aura* fire still works underwater**. He **borrows Stanley's magical rapier *Diplomacy* with consent**, dives back into danger, **ACTUALLY pierces the monster**, later **returns sword to Stanley**. Vorel helps carry Hope safely toward ledge. At underground camp he asks questions about meat craving and Tungsten; **Rugrish pulls lever and group transforms into werecreatures**, fight unplayed. No new Vorel title or authority conferred—his phrase **“greatest criminals in all space-time”** refers to prisoners, **not self-epithet**. [Title register](vorel-titles.md) · [ASR audit](../../reports/WASTES_S2E08_ASR_COMPARISON_2026-10-26.md).
 
 ## S2E07 — guarded rest, whale encounter and prison entry
 

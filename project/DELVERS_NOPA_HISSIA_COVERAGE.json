@@ -1,0 +1,106 @@
+{
+  "date": "2026-10-26",
+  "scope": "Nopa Ropa and Princess Hissia",
+  "headings": [
+    {
+      "path": "delvers/world/characters/nopa-ropa.md",
+      "old_heading": "Nopa Ropa — Snake Island warrior seeking Princess Hissia",
+      "old_anchor": "nopa-ropa--snake-island-warrior-seeking-princess-hissia",
+      "target": "Nopa Ropa — Snake Island warrior seeking Princess Hissia",
+      "disposition": "unchanged title"
+    },
+    {
+      "path": "delvers/world/characters/nopa-ropa.md",
+      "old_heading": "S3E12 FINAL: Promise fulfilled, Princess Hissia awakened and reunited",
+      "old_anchor": "s3e12-final-promise-fulfilled-princess-hissia-awakened-and-reunited",
+      "target": "Arc Three — Service, impatience and rescue",
+      "disposition": "chronological character synthesis; detail and historical cutoff preserved in archive"
+    },
+    {
+      "path": "delvers/world/characters/nopa-ropa.md",
+      "old_heading": "S3E11: Actual expedition, new gold armour and Python staff",
+      "old_anchor": "s3e11-actual-expedition-new-gold-armour-and-python-staff",
+      "target": "Arc Three — Service, impatience and rescue",
+      "disposition": "chronological character synthesis; detail and historical cutoff preserved in archive"
+    },
+    {
+      "path": "delvers/world/characters/princess-hissia.md",
+      "old_heading": "Princess Hissia — Snake Island royal visitor",
+      "old_anchor": "princess-hissia--snake-island-royal-visitor",
+      "target": "Princess Hissia — Snake Island royal visitor",
+      "disposition": "unchanged title"
+    },
+    {
+      "path": "delvers/world/characters/princess-hissia.md",
+      "old_heading": "S3E12 FINAL: Confirmed and physically rescued, awake and kissed by Nopa",
+      "old_anchor": "s3e12-final-confirmed-and-physically-rescued-awake-and-kissed-by-nopa",
+      "target": "Arc Three — Captivity and a forbidden reunion",
+      "disposition": "chronological character synthesis; detail and historical cutoff preserved in archive"
+    },
+    {
+      "path": "delvers/world/characters/princess-hissia.md",
+      "old_heading": "S3E11: Physically likely on balcony, still not positively identified or liberated",
+      "old_anchor": "s3e11-physically-likely-on-balcony-still-not-positively-identified-or-liberated",
+      "target": "Arc Three — Captivity and a forbidden reunion",
+      "disposition": "chronological character synthesis; detail and historical cutoff preserved in archive"
+    },
+    {
+      "path": "delvers/world/characters/princess-hissia.md",
+      "old_heading": "S3E10: First explicit aboleth lead to Dawnless Dunes, NOT a witnessed rescue",
+      "old_anchor": "s3e10-first-explicit-aboleth-lead-to-dawnless-dunes-not-a-witnessed-rescue",
+      "target": "Arc Three — Captivity and a forbidden reunion",
+      "disposition": "chronological character synthesis; detail and historical cutoff preserved in archive"
+    },
+    {
+      "path": "delvers/world/characters/princess-hissia.md",
+      "old_heading": "Visual appearance",
+      "old_anchor": "visual-appearance",
+      "target": "Introduction",
+      "disposition": "chronological character synthesis; detail and historical cutoff preserved in archive"
+    },
+    {
+      "path": "delvers/world/characters/princess-hissia.md",
+      "old_heading": "Relationship claim and gift provenance (NOT comprehensive memory recovery)",
+      "old_anchor": "relationship-claim-and-gift-provenance-not-comprehensive-memory-recovery",
+      "target": "Arc Two — Familiarity without shared memory",
+      "disposition": "chronological character synthesis; detail and historical cutoff preserved in archive"
+    }
+  ],
+  "additional_blocks": [
+    {
+      "path": "delvers/world/characters/nopa-ropa.md",
+      "old_block": "Opening S3E10 payroll/current-history paragraph",
+      "target": "Introduction, Arc Three, service/pledge notes; false revolt distinguished"
+    },
+    {
+      "path": "delvers/world/characters/nopa-ropa.md",
+      "old_block": "Opening deferred spa lead and renewed pledge paragraph",
+      "target": "Arc Three, pledge/expedition notes; plans, worn armor and divine censer distinguished"
+    },
+    {
+      "path": "delvers/world/characters/nopa-ropa.md",
+      "old_block": "Historical S3E10 cutoff paragraph",
+      "target": "Pledge note and coverage; later actual expedition/rescue supersedes cutoff"
+    },
+    {
+      "path": "delvers/world/characters/princess-hissia.md",
+      "old_block": "Opening working spelling/royal identity paragraph",
+      "target": "Introduction and introduction/claims/memory notes"
+    },
+    {
+      "path": "delvers/world/characters/princess-hissia.md",
+      "old_block": "Later S3E05 private lead paragraph",
+      "target": "Arc Three and search note; withdrawn death wording, private knowledge and deferred answer retained"
+    },
+    {
+      "path": "delvers/world/characters/princess-hissia.md",
+      "old_block": "Art canon paragraph",
+      "target": "Appearance/state notes and exact archive; no inferred species, weapons or wedding ring"
+    }
+  ],
+  "review": "Complete pre-edit profiles; matching mentions searched across 37 campaign dossiers, selected source paragraphs and existing ledger read; no fresh SRT/audio/visual-source review",
+  "horizons": {
+    "Nopa Ropa": "S3E12 actual evacuation and living guild reunion; later employment/residence unknown",
+    "Princess Hissia": "S3E12 positively identified, nonlethally subdued, evacuated, awake and reciprocally affectionate at guild; no specific year-later scene"
+  }
+}

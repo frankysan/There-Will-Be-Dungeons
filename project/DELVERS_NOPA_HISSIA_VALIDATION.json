@@ -1,0 +1,61 @@
+{
+  "date": "2026-10-26",
+  "local_file_and_fragment_links": 721,
+  "maintained_inbound_links": 28,
+  "former_headings_preserved": 9,
+  "exact_original_hashes": 6,
+  "reading_copy_target_equivalence": 6,
+  "explicit_reading_copy_link_corrections": 0,
+  "protected_hashes": 221,
+  "measurements": [
+    {
+      "path": "delvers/world/characters/nopa-ropa.md",
+      "before_main_words": 542,
+      "after_main_words": 365,
+      "arc_words": [
+        260
+      ],
+      "largest_arc_to_median": 1.0,
+      "footnotes": 6,
+      "anchors": 7
+    },
+    {
+      "path": "delvers/world/characters/princess-hissia.md",
+      "before_main_words": 804,
+      "after_main_words": 406,
+      "arc_words": [
+        138,
+        158
+      ],
+      "largest_arc_to_median": 1.068,
+      "footnotes": 6,
+      "anchors": 11
+    }
+  ],
+  "errors": [],
+  "limits": [
+    "No new ASR, audio, remote URL or rendered-site review",
+    "Section dispositions and material-claim review, not sentence-by-sentence audio verification"
+  ],
+  "markdownlint": {
+    "maintained_files": 7,
+    "violations": 0,
+    "exit_code": 0,
+    "archives": "Excluded by repository wrapper; reading copies checked for hashes, links and target equivalence."
+  },
+  "whitespace": {
+    "scoped_git_diff_check_exit_code": 0,
+    "direct_new_markdown_trailing_whitespace_errors": 0
+  },
+  "manual_review": [
+    "Complete pre-edit profiles and post-edit main accounts read",
+    "All pre-edit relative link targets retained in rewritten biographies",
+    "Reported abduction, probable sighting, positive identification, nonlethal recovery, evacuation and awakening distinguished",
+    "No invented snakefolk reinforcement, censer forging, marriage, residence or royal succession"
+  ],
+  "protected_file_groups": {
+    "campaign_files": 215,
+    "prior_batch_artifacts": 6
+  },
+  "concurrent_work": "Pre-existing supporting-character/control changes retained; active Wastes and root-navigation changes outside this batch left untouched."
+}
