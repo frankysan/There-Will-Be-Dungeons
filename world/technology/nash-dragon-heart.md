@@ -2,6 +2,10 @@
 
 **Object:** Implanted **dragon-metal/mechanical heart engine** in Nash Maggard's body, connected to his earlier floating-heart survival, unusual black-dragon transformations and episodic magical reactions. **Latest directly witnessed function:** **Wastes S3E01 (Regenerate, adult dragon combat)**. [Items and artifacts](../ITEMS_AND_ARTIFACTS.md) · [Nash](../characters/nash-maggard.md) · [Chronology](../CHRONOLOGY.md).
 
+## April 2022 bonus — fragility not yet experimentally established
+
+During [BONUS-2022-04](../../episodes/BONUS-2022-04.md) ~00:32–00:36, Scott and the GM discuss Nash's unusual return from actual death in S2E12. They **do NOT declare him literally immortal**: the implanted enchanted device **might be magically dispelled, neutralized or damaged**, which **could** end the regeneration permanently. Beau also proposes that class features such as **level-14 dragon wings** might be usable directly from a heart/eyestalk form when anatomy permits, but no wings grow from it on-screen. This is **retrospective conditional theory**, not an observed heart dispel, verified device vulnerability, or new death. [P/Q audit](../../reports/BONUS_2022-04_ASR_COMPARISON_2026-10-26.md).
+
 ## S2E12–S3E01 — real death, heart-only survival, accelerated regrowth
 
 Inside Pentel Weiss, **Nash ACTUALLY dies from mummy combat** after failed death saving throws ([S2E12](../../episodes/S2E12.md)), but the engineered heart survives and generates an eyestalk through his dead chest. Vorel **actually opens and removes the live heart**, and it **hovers** independently, carrying Nash's conscious personality and capacity for nonverbal magic. The **original emptied corpse is thrown out and destroyed in the purple nebula, not the living heart**. Fate Six's speaking wooden father-voice claims Nash was a discarded creation of the Principle from **flesh pits of Clench** and that the heart contains the DNA needed to regrow the body; these are **his accounts**, not verified records of Nash's manufacturing.
