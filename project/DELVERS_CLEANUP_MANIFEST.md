@@ -337,3 +337,37 @@ Broadside's last direct scene is S3E01 helping move furniture after hiding from 
 The first arcs carry most personal change; later brief observations/reports are not padded. Broadside's 202-word first arc was reviewed for recap and retained for its distinct mercy, redemption and trust developments. Relevant mentions were searched across all 37 dossiers, with selected complete paragraphs, existing ledger entries and the April bonus passage read. No fresh ASR/audio, sheets or original art review occurred. No evidence issue was closed, no dossier/media changed, and no commit or push was performed by this task.
 
 Next examine Marek Gideon and Noble Hollow as a linked character/place batch, then continue connected guild and domain batches. Full-world acceptance and final campaign integration remain pending.
+
+### Twelfth implementation checkpoint — Marek Gideon and Noble Hollow
+
+**2026-10-26: One character and one place migrated and structurally validated.** [Subject report](../reports/DELVERS_MAREK_NOBLE_HOLLOW_2026-10-26.md) · [Coverage ledger](DELVERS_MAREK_NOBLE_HOLLOW_COVERAGE.json) · [Pre-edit archive](../research/legacy/2026-10-26/delvers-marek-noble-hollow/README.md) · [Validation](DELVERS_MAREK_NOBLE_HOLLOW_VALIDATION.json).
+
+| Subject | Current disposition | Main prose before → after |
+| --- | --- | ---: |
+| Marek | Introduction, first-arc conduct/testimony and Current status; actual defeat and proposed trial remain distinct | 475 → 307 |
+| Noble Hollow | Introduction, three landscape/use phases and Current status; collapse, actual crypt access and fertile land retained | 452 → 424 |
+
+All ten former heading targets remain reachable. Six exact working-copy originals and equivalent reading copies are archived without target corrections. All 238 protected hashes match: 215 campaign files, 21 previous batch artifacts and two November provenance documents. Earlier archives, the frozen baseline and already modified prior artifacts are preserved; concurrent outside work remains out of scope.
+
+Marek's later report/removal references provide no completed trial, sentence or new personal scene. Noble Hollow's old collapse is actually used as a route to the bone crypt in S3E10, and its cursed land actually regains fertility after Khalazar's defeat. That renewal does not establish a restored clearing/tree, sealed cavern, destroyed piercers or title to the entire tract. The place article explains these changes without duplicating the full encounter.
+
+Relevant mentions were searched across all 37 campaign dossiers; selected complete source paragraphs, three related place articles and existing retrospective context were read. No new ASR/audio, original maps/handouts, sheets or art were reviewed. No evidence issue was closed, no dossier/media changed, and no commit or push was performed by this task.
+
+Next examine Enzo Withers and Skull Keep as a linked character/place batch, then continue connected subject and domain work. Full-world acceptance and final campaign integration remain pending.
+
+### Thirteenth implementation checkpoint — Enzo Withers and Skull Keep
+
+**2026-10-26: One character and one place migrated and structurally validated.** [Subject report](../reports/DELVERS_ENZO_SKULL_KEEP_2026-10-26.md) · [Coverage ledger](DELVERS_ENZO_SKULL_KEEP_COVERAGE.json) · [Pre-edit archive](../research/legacy/2026-10-26/delvers-enzo-skull-keep/README.md) · [Validation](DELVERS_ENZO_SKULL_KEEP_VALIDATION.json).
+
+| Subject | Current disposition | Main prose before → after |
+| --- | --- | ---: |
+| Enzo | Introduction, direct encounter/release wish, later-record context and Current status; claims and observed reflection remain distinct | 462 → 406 |
+| Skull Keep | Introduction, household/condition changes, later investigation, geography synthesis and Current status | 602 → 427 |
+
+All 12 former heading targets remain reachable. Six exact working-copy originals and equivalent reading copies are archived without target corrections. All 241 protected hashes match: 215 campaign files, 24 previous batch artifacts and two April provenance documents. Existing Marek/Noble Hollow working-copy control changes and earlier archives are preserved; concurrent outside work remains out of scope.
+
+Both last direct observations remain in S1E06. Later portrait/plaque/tunneling testimony and physical arrival in the named desert do not supply another Enzo meeting or resolve his consciousness. The lake vision and rat-generated tower scene are not physical revisits. The observed upper room is distinct from the unvisited basement/alchemy lab; lake drainage does not merge the two lakes or survey every passage. No title resolution, rebuilt estate or complete family tree is invented.
+
+Relevant mentions were searched across all 37 campaign dossiers; selected full source paragraphs, the existing flameskull article and April bonus passages were read. No new ASR/audio, original maps/handouts, sheets or art were reviewed. No evidence issue was closed, no dossier/media changed, and no commit or push was performed by this task.
+
+Next examine Withers Estate and Broscale Manor as linked place accounts, then continue connected subject/domain work. Full-world acceptance and final campaign integration remain pending.

@@ -33,6 +33,10 @@ Four articles have received preserved subject-focused passes: [Koh](characters/k
 
 [Broadside](characters/broadside.md) and [Cheet](characters/cheet.md) have a [linked guild checkpoint](../../reports/DELVERS_BROADSIDE_CHEET_2026-10-26.md) distinguishing their shared capture, different choices and later evidence.
 
+[Marek Gideon](characters/marek-gideon.md) and [Noble Hollow](places/noble-hollow.md) have a [character/place checkpoint](../../reports/DELVERS_MAREK_NOBLE_HOLLOW_2026-10-26.md) separating the researcher's unresolved trial from the site's collapse, later access and renewed land.
+
+[Enzo Withers](characters/enzo-vanderbuck-withers.md) and [Skull Keep](places/skull-keep.md) have a [character/place checkpoint](../../reports/DELVERS_ENZO_SKULL_KEEP_2026-10-26.md) separating observed aftermath, attributed history and later context.
+
 Other subject articles remain pending; this does not certify the entire directory as migrated.
 
 ## Subject directory

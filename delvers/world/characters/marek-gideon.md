@@ -2,9 +2,13 @@
 
 ## Introduction
 
-Marek Gideon is a researcher associated with the guild's examination of the forest ruins, accompanied by Silver adventurers including [Broadside](broadside.md) and Solburn. The Darkest Delvers first encounter him as a mounted figure wearing a darkmantle cowl with red glass ornaments set among its eyes. His scholarly appointment is not apparent to the villagers facing his demands.[^marek-introduction]
+Marek Gideon is a researcher associated with the guild's examination of the forest ruins, accompanied by Silver adventurers including [Broadside](broadside.md) and Solburn. The Darkest Delvers first encounter him as a mounted figure wearing a darkmantle cowl with red glass ornaments set among its eyes. He demands obedience from villagers while leaving his own purposes unexplained.[^marek-introduction]
 
 ## Development by arc
+
+<a id="the-darkmantle-cowl"></a>
+
+<a id="the-interrupted-summoning"></a>
 
 ### Arc One — Research turned toward coercion
 

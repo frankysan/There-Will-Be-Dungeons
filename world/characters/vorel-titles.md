@@ -1,6 +1,10 @@
 # Vorel — titles and epithets register
 
-**Type:** Source-indexed supporting register for [Vorel](vorel.md), deliberately separated from the main character biography. **Evidence:** ASR-provisional, with source windows, name variants and social standing preserved. **Spoilers:** Through Wastes S2E10; Q&As are retrospective, not played conferrals. [Characters](../CHARACTERS.md) · [World portal](../README.md).
+**Type:** Source-indexed supporting register for [Vorel](vorel.md), deliberately separated from the main character biography. **Evidence:** ASR-provisional, with source windows, name variants and social standing preserved. **Spoilers:** Through Wastes S2E11; Q&As are retrospective, not played conferrals. [Characters](../CHARACTERS.md) · [World portal](../README.md).
+
+## S2E11 — dragon-skull throne is a psychic dream, NOT a title
+
+In [S2E11](../../episodes/S2E11.md) ~00:03:20–00:05:30, a **Far Realm creature enthralls Vorel and GM invites Kyle to describe Vorel's greatest fantasy**. Vorel imagines **sitting upon a dragon-skull throne with lizardfolk subjects, enjoying feasts and competing in arena wrestling**. This is **an illusion perceived by Vorel**, **NOT an actually granted kingly title, won arena, conquered dragon, new carried headpiece, or kingdom**. He later describes more fantasy exploits including a Tyrannosaurus and fighting the Principle, **not observed actions**. **No self-proclaimed/newly bestowed epithet is spoken as a title in the played reality**. [Source comparison](../../reports/WASTES_S2E11_ASR_COMPARISON_2026-10-26.md).
 
 ## S2E10 — no new personal epithet in the crypt
 

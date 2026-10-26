@@ -2,31 +2,44 @@
 
 ## Introduction
 
-The old lord of **Enzo Keep** has survived his own death in a miserable and divided condition. His fine clothes still drape a decapitated body in a high-backed chair, while a dressing mirror reflects the dignified bearded face that the corpse no longer bears. He can speak to visitors through that reflection, trapped in a lonely chamber at the height of his once-grand estate.[^introduction]
+Enzo Vanderbuck Withers speaks from a dressing mirror in the upper chamber of [Enzo Keep](../places/skull-keep.md). A headless body in fine clothes sits before it, while the reflection supplies a dignified, bearded face. He identifies himself as the estate's old lord. His voice and apparent awareness survive in a form whose relationship to the body is not immediately clear.[^enzo-introduction]
 
-## Ambition and isolation
+## Development by arc
 
-Enzo was fascinated by alchemy, death and the hidden forces beneath the mountain lake. He tells the Darkest Delvers that his experiment in immortality went wrong: his head became a green-burning **flameskull**, his mind remained in the mirror and his servants were caught in the same unnatural magic. He says he moved his family away before conducting the rite. Whether every circumstance unfolded as he remembers remains uncertain.
+<a id="ambition-and-isolation"></a>
 
-More than a century of this divided existence has dulled his grandeur. He expresses weariness of the skull's shrieking and his own inability to leave. When the Delvers find him, he demands their stories before answering their questions, lingering on their motives as if the variety of ordinary lives could briefly cure his solitude.[^history]
+<a id="the-knowledge-he-offers"></a>
 
-## The knowledge he offers
+<a id="a-choice-made-by-strangers"></a>
 
-Enzo responds to Koh's copied glyphs with recognition. To him, the marks of the **sky people** speak of outcasts who emerged from darkness toward the light, while the lower signs name a great abyss beneath the Underdark: the **Dawnless Dunes**. He believes a deep power or *heart* there is awakening and pushing predators such as gricks toward the surface. He offers a prediction that the changes will become apparent within a year, but his own confinement has denied him any recent direct observation.[^signs]
+### Arc One — Ambition, solitude and a wish for release
 
-Koh asks whether Enzo has encountered an ailment that leaves someone weak, immobile and intermittently present despite ordinary healing. Enzo speculates about ancestry or forces linked to the world's health. He cannot name a cure, does not learn the sufferer's identity and offers no decisive diagnosis. His fascination with Koh's question does not make him the authority Koh needs.[^healing]
+Enzo describes an attempt at immortality that left him divided between forms. By his account, his head became the [flameskull](../creatures/flameskull.md) patrolling above, his mind remained in the mirror, and the spell caught his servants in their unnatural routines. He says he moved his family away before beginning. The visible household supports part of his story, while the full history and his responsibility for it remain less certain.[^enzo-history]
 
-## A choice made by strangers
+His long isolation gives the visit an awkward intimacy. He wants to hear the adventurers' stories and motives before answering their questions, finding company in lives that can still move beyond his chamber. Yet his account is not wholly helpless: he admits ordering fallen adventurers' belongings thrown into the lake and suggests that reflections may have carried his presence beyond the keep. His account leaves how far he can reach uncertain.[^enzo-company]
 
-When the Delvers prepare to leave, Enzo welcomes the possibility that the end of the skull will finally release him. He admits that previous adventurers were defeated and that their possessions were cast into the lake. Even as he speaks of relief, the unnatural mirror appears to give him a way to linger beyond his flesh. He leaves his visitors to decide whether to strike his skull down, and they do.[^departure]
+He recognizes Koh's copied glyphs, interpreting the signs of the sky people and naming the Dawnless Dunes below. He warns of an awakening heart driving creatures upward. When Koh describes an illness beyond ordinary healing, Enzo speculates about ancestry and the world's condition without providing a cure. His knowledge offers leads rather than the answer Koh needs.[^enzo-knowledge]
+
+Weariness finally takes precedence over company. Enzo welcomes the prospect that destroying the skull might end his divided existence. The Delvers go to confront it, leaving the mirror intact rather than attempting to carry or break the reflection itself.[^enzo-release]
+
+### Arc Two — Traces of an older life
+
+Objects taken from [Withers Estate in Atomer](../places/withers-estate.md) add traces of Enzo's past. A plaque associates its old prison with him, and a portrait places him beside a mantel recognized from Skull Keep. Carrie later attributes direct tunneling into the Underdark to Enzo. These records and interpretations broaden the questions around his work without supplying a new meeting with him or a complete account of the family's dealings.[^enzo-records]
 
 ## Current status
 
-Koh has destroyed the flameskull; Evelyn has doused its remains with holy water. The servants fall inert, and **Enzo's mirrored image fades and closes its eyes**. He may at last be resting, but the reflection is **not destroyed**, nor is a complete end to his consciousness witnessed. His predictions about the Dawnless Dunes and the motives of the heart beneath it remain unverified.[^ending]
+Enzo is last seen as a diminished, quiet reflection with closed eyes after the skull's destruction. The mirror remains intact and his body stays in the chamber. He may have found rest, but neither the end nor continuation of his consciousness is established by a later encounter.[^enzo-status]
 
-[^introduction]: [Delvers S1E06 dossier](../../episodes/S1E06.md), ~02:14–02:20. Name `Enzo Vanderbuck Withers` is working ASR-based spelling; portrait described only via scene transcript.
-[^history]: [S1E06](../../episodes/S1E06.md), ~02:20–02:26. The immortalist's history and evacuation of his family are **his own testimony**. The persistent animated servants and split skull corroborate part of it, not every motive.
-[^signs]: [S1E06](../../episodes/S1E06.md), ~02:27–02:32. Qwen supports `Dawnless Dunes` over Parakeet's occasional similar variants; the awakening prophecy is an uncorroborated prediction.
-[^healing]: [S1E06](../../episodes/S1E06.md), ~02:32–02:35. Koh conceals his wife's identity. Enzo only speculates about kinship/world-illness links, no treatment is supplied.
-[^departure]: [S1E06](../../episodes/S1E06.md), ~02:35–02:39. Enzo asks for an end; party does not negotiate a mirror removal or certify prior missing adventurers' fate independently.
-[^ending]: [S1E06](../../episodes/S1E06.md), ~02:56–03:00. Image seems to breathe and is quieter, but its actual life/death state is not tested.
+[^enzo-introduction]: [S1E06](../../episodes/S1E06.md), ~02:14–02:22. Working Enzo Vanderbuck Withers is ASR-derived, without independent audio/written-source confirmation; old title and slug remain. The speaking reflection, headless body and fine clothes are observed, not a biological diagnosis of death/immortality. Relevant names/place references searched across all 37 campaign dossiers through [S3E12](../../episodes/S3E12.md), with selected complete paragraphs and the existing April bonus-dossier passage read. No new SRT/audio, original maps, historical sheets or art inspected. [Pre-edit biography](../../../research/legacy/2026-10-26/delvers-enzo-skull-keep/delvers/world/characters/enzo-vanderbuck-withers.md) · [Consistency ledger](../CONSISTENCY_LEDGER.md) · [Review queue](../../REVIEW_QUEUE.md).
+
+[^enzo-history]: [S1E06](../../episodes/S1E06.md), ~02:14–02:26. Failed immortality, divided consciousness, servant enchantment and prior evacuation of his family are his first-person account. A skull and animated servants corroborate some observations, not every motive or rite detail. No precise genealogy, successful immortality proof, willing servant participation or diagnosis is inferred.
+
+[^enzo-company]: [S1E06](../../episodes/S1E06.md), ~02:22–02:40. Questions to visitors, belongings cast into the lake and possible mirror/reflection travel are testimony. The former Bronze party's fate is not independently investigated or its goods recovered. Enzo himself expresses uncertainty about Alexandre's ancestry; similar names do not establish a full family tree. Possible remote reflections do not show him physically leaving, possessing a traveler or performing unrestricted planar travel.
+
+[^enzo-knowledge]: [S1E06](../../episodes/S1E06.md), ~02:22–02:35. Upper signs interpreted as sky people/outcasts rising toward light; lower signs named Dawnless Dunes. He declines to speak the ancient Elvish form. The awakening heart and roughly one-year forecast remain his claims, not a universal predator mechanism or exact dated prophecy. Koh conceals the sufferer's identity: Enzo does not learn that it is Koh's wife or supply treatment. Later evidence about Anathala's blood does not retroactively make his speculation a proved diagnosis.
+
+[^enzo-release]: [S1E06](../../episodes/S1E06.md), ~02:35–03:00. He wants the divided suffering ended. Koh defeats the skull with the Soul Knife; Evelyn uses one full holy-water jar, after which servants fall inert and the reflection quiets. These outcomes do not demonstrate that mirror and skull shared every thought or that destroying one necessarily eliminates the other. No mirror removal, destruction or resurrection is performed.
+
+[^enzo-records]: [S2E04](../../episodes/S2E04.md), old prison plaque in Atomer's mansion, with source year around 150 not independently mapped to a full chronology; [S2E05](../../episodes/S2E05.md), portrait over a hidden map and ledger references to funded jobs; [S2E10](../../episodes/S2E10.md), Carrie's lecture attributes direct tunneling from Enzo's estate into the Underdark. This is not a played construction scene or independent proof of every map connection. The Atomer mansion and upland keep remain distinct properties; no continuous passage between them or discovery of Skull Keep's unused basement follows from the lecture. The portrait is a representation, not Enzo physically revisiting Atomer.
+
+[^enzo-status]: Last direct observation: [S1E06](../../episodes/S1E06.md), ~02:55–03:03. Image quiet/faint, eyes closed; neither mirror nor body is removed or destroyed. [S3E11](../../episodes/S3E11.md) physically reaches the named Dawnless Dunes and [S3E12](../../episodes/S3E12.md) defeats Khalazar, giving later context to the warning without independently validating every translation, cause or forecast. Neither source revisits Enzo or establishes that Khalazar's death released this particular reflection. No confirmed final death, renewed activity or personal epilogue is supplied.

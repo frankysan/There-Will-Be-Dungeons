@@ -1,0 +1,96 @@
+{
+  "date": "2026-10-26",
+  "scope": "Marek Gideon character and Noble Hollow place",
+  "headings": [
+    {
+      "path": "delvers/world/characters/marek-gideon.md",
+      "old_heading": "Marek Gideon — the researcher at the Noble Hollow",
+      "old_anchor": "marek-gideon--the-researcher-at-the-noble-hollow",
+      "target": "Marek Gideon — the researcher at the Noble Hollow",
+      "disposition": "native heading retained"
+    },
+    {
+      "path": "delvers/world/characters/marek-gideon.md",
+      "old_heading": "Introduction",
+      "old_anchor": "introduction",
+      "target": "Introduction",
+      "disposition": "native heading retained"
+    },
+    {
+      "path": "delvers/world/characters/marek-gideon.md",
+      "old_heading": "The darkmantle cowl",
+      "old_anchor": "the-darkmantle-cowl",
+      "target": "Arc One — Research turned toward coercion",
+      "disposition": "chronological subject-focused synthesis; full original detail preserved"
+    },
+    {
+      "path": "delvers/world/characters/marek-gideon.md",
+      "old_heading": "The interrupted summoning",
+      "old_anchor": "the-interrupted-summoning",
+      "target": "Arc One — Research turned toward coercion",
+      "disposition": "chronological subject-focused synthesis; full original detail preserved"
+    },
+    {
+      "path": "delvers/world/characters/marek-gideon.md",
+      "old_heading": "Current status",
+      "old_anchor": "current-status",
+      "target": "Current status",
+      "disposition": "native status target retained, distinguishing last scene/proposed trial for Marek and actual later land renewal for Noble Hollow"
+    },
+    {
+      "path": "delvers/world/places/noble-hollow.md",
+      "old_heading": "Noble Hollow — the petrified tree",
+      "old_anchor": "noble-hollow--the-petrified-tree",
+      "target": "Noble Hollow — the petrified tree",
+      "disposition": "native heading retained"
+    },
+    {
+      "path": "delvers/world/places/noble-hollow.md",
+      "old_heading": "Introduction",
+      "old_anchor": "introduction",
+      "target": "Introduction",
+      "disposition": "native heading retained"
+    },
+    {
+      "path": "delvers/world/places/noble-hollow.md",
+      "old_heading": "The midnight ceremony",
+      "old_anchor": "the-midnight-ceremony",
+      "target": "Arc One — A ritual clearing broken open",
+      "disposition": "chronological subject-focused synthesis; full original detail preserved"
+    },
+    {
+      "path": "delvers/world/places/noble-hollow.md",
+      "old_heading": "The cavern beneath",
+      "old_anchor": "the-cavern-beneath",
+      "target": "Arc One — A ritual clearing broken open",
+      "disposition": "chronological subject-focused synthesis; full original detail preserved"
+    },
+    {
+      "path": "delvers/world/places/noble-hollow.md",
+      "old_heading": "Current status",
+      "old_anchor": "current-status",
+      "target": "Current status",
+      "disposition": "native status target retained, distinguishing last scene/proposed trial for Marek and actual later land renewal for Noble Hollow"
+    }
+  ],
+  "domains": {
+    "delvers/world/characters/marek-gideon.md": "Character: authority, coercive conduct, unverified influence and unresolved accountability",
+    "delvers/world/places/noble-hollow.md": "Place: petrified clearing, ritual use, collapse/ecology, neighboring farmland, underground access and land renewal"
+  },
+  "review": "Complete prior profiles; relevant names/place terms searched across 37 dossiers; selected complete paragraphs, related place articles and November bonus-dossier passage read; no fresh ASR/audio/map/sheet/art review",
+  "horizons": {
+    "Marek": "S1E12 nonlethal defeat and proposed Academy trial; S2E06 report/artifact reference and S2E09 removal recollection supply no new verdict or personal scene",
+    "Noble Hollow": "S3E10 actual collapse-hole entrance to crypt; S3E12 land cleansing/fertility and completed farm year, without a later survey of the old clearing"
+  },
+  "critical_boundaries": [
+    "Marek is separate from Cheet despite uncertain earlier spoken address",
+    "Witness accounts and Academy sponsorship do not fully diagnose Marek influence or culpability",
+    "Trial and transfer remain prospective, not completed verdict/sentence",
+    "Interrupted rite and exposed pre-existing roper differ from successful summoning",
+    "Geared disc resemblance is not physical reassembly with lake fragment",
+    "Nearby farm grant does not establish ownership of all Hollow",
+    "Crypt access is actually traveled; continuous Dawnless Dunes route is not mapped",
+    "Cleansed fertile land does not establish restored trees/clearing, sealed cavern or eradicated piercers",
+    "Retrospective watcher identities are not earlier character knowledge"
+  ]
+}

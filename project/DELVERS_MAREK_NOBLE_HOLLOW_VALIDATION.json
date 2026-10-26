@@ -1,0 +1,68 @@
+{
+  "date": "2026-10-26",
+  "local_file_and_fragment_links": 797,
+  "maintained_inbound_links": 28,
+  "former_headings_preserved": 10,
+  "exact_original_hashes": 6,
+  "reading_copy_target_equivalence": 6,
+  "explicit_reading_copy_link_corrections": 0,
+  "protected_hashes": 238,
+  "measurements": [
+    {
+      "path": "delvers/world/characters/marek-gideon.md",
+      "before_main_words": 475,
+      "after_main_words": 307,
+      "arc_words": [
+        200
+      ],
+      "largest_arc_to_median": 1.0,
+      "footnotes": 5,
+      "anchors": 7
+    },
+    {
+      "path": "delvers/world/places/noble-hollow.md",
+      "before_main_words": 452,
+      "after_main_words": 424,
+      "arc_words": [
+        146,
+        60,
+        105
+      ],
+      "largest_arc_to_median": 1.39,
+      "footnotes": 7,
+      "anchors": 9
+    }
+  ],
+  "errors": [],
+  "limits": [
+    "No new ASR, audio, remote URL or rendered-site review",
+    "Section dispositions and material-claim review, not sentence-by-sentence audio verification"
+  ],
+  "markdownlint": {
+    "maintained_files": 7,
+    "violations": 0,
+    "exit_code": 0,
+    "archives": "Excluded by repository wrapper; reading copies checked for hashes, links and target equivalence."
+  },
+  "whitespace": {
+    "scoped_git_diff_check_exit_code": 0,
+    "direct_new_markdown_trailing_whitespace_errors": 0
+  },
+  "manual_review": [
+    "Both complete pre-edit pages and final main accounts read",
+    "All pre-edit relative link targets retained",
+    "Character contract distinguishes coercive conduct, testimony and proposed judicial process",
+    "Place contract explains condition/use changes rather than repeated combat",
+    "Later actual crypt access and land fertility distinguished from unshown physical restoration"
+  ],
+  "subject_domains": {
+    "delvers/world/characters/marek-gideon.md": "character",
+    "delvers/world/places/noble-hollow.md": "place"
+  },
+  "protected_file_groups": {
+    "campaign_files": 215,
+    "prior_character_batch_artifacts": 21,
+    "bonus_provenance_documents": 2
+  },
+  "concurrent_work": "Pre-existing Broadside/Cheet report and validation changes preserved; outside work not edited."
+}

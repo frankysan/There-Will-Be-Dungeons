@@ -2,33 +2,50 @@
 
 ## Introduction
 
-On a stone spire rising from a secluded mountain lake stands the old Withers family's holiday estate. Its towers climb far above the water, reached by a bridge and a winding ascent through a gatehouse. The stone walls and landscaped courtyard survive in extraordinary condition despite more than a century of abandonment. The estate's proper name is **Enzo Keep**, although later generations and local adventurers call it **Skull Keep** for the green-burning skull that patrols its highest tower.[^site]
+Enzo Keep, commonly called Skull Keep, stands on a stone spire above a secluded upland lake. A bridge and winding approach lead toward the old Withers holiday estate, whose towers, gardens and expensive furnishings have survived an abandonment said to span more than a century. A green-burning skull patrols its heights, giving the place its less hospitable name.[^keep-introduction]
 
-## The family estate
+## Development by arc
 
-The keep was built to receive visitors rather than repel armies. The approach lacks the murder holes and flanking works expected of a fortress, while its halls carry expensive wooden chairs, heavy red carpets, upholstered couches, preserved gardens and a dining room made for lavish company. Reliefs show sunlight over the lake and mountains and strange scarab-like creatures with bird-shaped faces. The figures' precise significance is not yet understood.
+<a id="the-family-estate"></a>
 
-**Alexandre Vanderbuck Withers** comes seeking to reclaim the family's property, promising the Darkest Delvers additional payment if they leave its antiques undamaged. He is anxious about the mirrors and speaks of a previous group of bronze adventurers who never returned. He and Aegis remain in the guest house across from the estate while the three enter.[^client]
+<a id="the-upper-chamber"></a>
 
-The servants seem never to have left their posts. A gardener clips hedges while a carpenter repairs damaged chairs; a maid tries to open a blocked door and a cook follows his ancient routine. All are animated skeletons, and their diligence is as uncanny as the untended beauty of the gardens. Their response to visitors is not uniformly hostile: the gardener ignores Koh, whereas the carpenter screams and attacks after being addressed. When the skull is defeated, the servants fall still.[^servants]
+<a id="battle-and-aftermath"></a>
 
-## The upper chamber
+### Arc One — A maintained estate brought to silence
 
-Past guest rooms and a long dining hall, a hidden code raises a stone door to the keep's iron tower staircase. Upstairs an old laboratory contains alchemical glassware, a high-backed chair and an enormous rotating mirror. The seated figure is headless, yet the mirror shows the face of **Enzo Vanderbuck Withers**, who speaks as if he has waited a lifetime for company.
+The keep is arranged for comfortable visitors rather than an army's defense. Its bridge lacks the fortified approach expected of a stronghold, while preserved gardens lead into halls of costly chairs, red carpets and upholstered furniture. The entrance bears reliefs of sun, mountains, lake and strange bird-faced scarab-like figures. Guest rooms and a grand dining hall preserve the character of a luxurious household.[^keep-household]
 
-Enzo describes the keep as the site of his failed attempt at immortality. According to him, the rite left his mind divided between this reflection and the fiery skull above; it extended its power to the servants as well. He speaks of a restless darkness far beneath the lake, of old signs meaning *sky people*, and of a deeper place he calls the **Dawnless Dunes**. He fears—or welcomes—an awakening heart below the world. His account opens a path from the Delvers' earlier woodland ruins to older mysteries but offers no independent proof of his predictions.[^enzos-account]
+Maintenance continues through animated servants. A gardener clips hedges, a carpenter repairs furniture, and a maid persists at a blocked door. They do not react uniformly to intruders: the gardener ignores Koh, while a carpenter attacks after being addressed. Their routines keep parts of the abandoned house unnaturally orderly, even as the skull's fire damages its rooms.[^keep-servants]
 
-## Battle and aftermath
+An opened stone door reveals an iron spiral stair to the upper laboratory. Alchemical equipment surrounds a headless body and the mirror from which [Enzo](../characters/enzo-vanderbuck-withers.md) speaks. He attributes the household's condition to his failed immortality experiment. The chamber exposes a former inhabitant and an explanation, without making his whole history independently known.[^keep-chamber]
 
-The skull sets tapestries and furniture aflame, attacks from the windows and clashes with the Delvers above the lake. Koh ultimately ends the fight with his mind-forged blue blade. When Evelyn pours consecrated water over the fallen bones, the skull dissolves, leaving two garnets in Koh's possession. Below, the servants lie motionless, and Enzo's image in the mirror grows faint, eyes closed. The mirror itself is not destroyed or removed. The keep remains physically standing and the family's property claim awaits whatever comes after the adventurers' departure.[^ending]
+The skull's defeat changes the estate's daily life. Holy water dissolves its remains, the servants become inert, and the mirrored image fades into quiet. The building still stands, with fire damage and disrupted furnishings rather than a fully restored interior. Alexandre receives the adventurers' report, and damage reduces their preservation bonus.[^keep-aftermath]
+
+### Arc Two — An estate's reputation in question
+
+The keep remains part of [Alexandre Withers's](../characters/alexandre-vanderbuck-withers.md) family-property claims and appears in the background of an old portrait. Cassius suspects that reacquiring it may have served a hidden purpose, prompting investigation of the separate mansion in Atomer. That suspicion changes the significance of the commission, without establishing a new use or occupation of the upland keep.[^keep-investigation]
+
+## Geography and unexplored spaces
+
+The upland lake drains toward the larger lake system near the kuo-toa settlement. This places the estate within a connected waterscape rather than making the two lakes one body. The full extent of its hidden rooms and underground connections remains unknown.[^keep-geography]
 
 ## Current status
 
-The flameskull has been defeated and its remains **banished with holy water**. The remaining skeletal servants no longer move. Alexandre has received a report of success; the extent of the estate's damage has been assessed for a reduced preservation bonus. **The mirror and Enzo's body remain in the tower**, with the nature and duration of his surviving consciousness unresolved. The prior bronze party's effects were reportedly cast into the lake, not recovered.[^ending][^april21]
+Skull Keep is last known standing, with the flameskull destroyed and its remaining servants motionless. Enzo's body and mirror remain in the upper chamber. Later repairs, occupation and resolution of the property claim are unknown; so are the mirror's lasting condition and the fate of the earlier missing adventurers.[^keep-status]
 
-[^april21]: **GM retrospective, not a played discovery:** [April 2021 Q&A](../../../episodes/BONUS-2021-04.md), ~00:12–00:14, Kyle says Skull Keep's **upland lake drains toward the greater lake near the kuo-toa village**. At ~00:24–00:26 he states the keep also had an **unvisited hidden basement and alchemical laboratory**, with possible potions and clues; the Delvers **never opened/entered** it during S1E06. These statements are not the character's personal knowledge or an extra postmission scene.
-[^site]: [Delvers S1E06 dossier](../../episodes/S1E06.md), ~00:25–00:43. Working spellings `Enzo Keep` and `Vanderbuck Withers` from dual ASR; the original map/guide handouts were not independently inspected.
-[^client]: [S1E06](../../episodes/S1E06.md), ~00:25–00:33. Client claims ownership and promises up to 500 gold extra per person for preserving antiques; the missing group's whereabouts are not verified.
-[^servants]: [S1E06](../../episodes/S1E06.md), ~00:45–01:08, 01:33–01:46 and 03:00–03:01. Observed repairs and eventual collapse support an enchantment, but Enzo's exact necromancy is his own retrospective account.
-[^enzos-account]: [S1E06](../../episodes/S1E06.md), ~01:54–02:35. *Dawnless Dunes* and claims of an awakening underground heart are Enzo's attributed words; neither a full recovered original Elvish text nor corroboration exists yet.
-[^ending]: [S1E06](../../episodes/S1E06.md), ~02:55–03:03. One holy-water jar used; two garnets recovered. Mirror is quieter and fainter, **not actually destroyed**. The earlier bronze party remains missing.
+[^keep-introduction]: [S1E05](../../episodes/S1E05.md), contract chosen but not yet undertaken; [S1E06](../../episodes/S1E06.md), ~00:25–00:48, actual coach approach and estate. Enzo Keep/Witherskeep/Skull Keep refer to this site in context, not Alexandre's Atomer mansion. Roughly 130 years unused is the client's account, not an independently dated survey or Enzo's established age. Relevant terms searched across all 37 campaign dossiers through [S3E12](../../episodes/S3E12.md), with selected full paragraphs and the existing April bonus-dossier passage read. No new SRT/audio, original maps/handouts, sheets or art reviewed. [Pre-edit place account](../../../research/legacy/2026-10-26/delvers-enzo-skull-keep/delvers/world/places/skull-keep.md) · [Consistency ledger](../CONSISTENCY_LEDGER.md) · [Review queue](../../REVIEW_QUEUE.md).
+
+[^keep-household]: [S1E06](../../episodes/S1E06.md), ~00:25–01:07 and ~01:46–02:01. Alexandre claims family ownership/reacquisition, warns about mirrors and waits with Aegis outside. Up to 500 gp extra per member is offered for preservation; the base 350-gp contract's distribution is not unambiguous. Relief meanings, original construction history and precise boundaries remain unknown. The explored rooms and guarded stone-door mechanism are not a complete architectural plan.
+
+[^keep-servants]: [S1E06](../../episodes/S1E06.md), ~00:48–01:07 and ~01:33–01:46. Skeletal gardener, carpenter, butler, cook and maid are observed. One carpenter is destroyed and another later repairs scorched carpet, without restoring the burned desk/couch. No single hostile temperament, universal obedience rule or fully cleared population is inferred. Their maintenance supports an enchantment, while its exact origin remains Enzo's testimony.
+
+[^keep-chamber]: [S1E06](../../episodes/S1E06.md), ~02:01–02:35. The copied lever sequence opens the door; steam from the earlier skull encounter obscures the retreat. The narrow upper room contains observed alchemical equipment, body and rotating mirror. It is distinct from the later creator-described, unvisited basement/alchemy laboratory. Enzo's translations and underground-heart forecast remain attributed rather than a proved origin for every ruin or creature.
+
+[^keep-aftermath]: [S1E06](../../episodes/S1E06.md), ~02:40–03:03. Koh defeats the [flameskull](../creatures/flameskull.md), Evelyn pours one whole supplied holy-water jar, two garnets go to Koh, and servants are later found inert. One supplied jar remains. The reflection quiets but is not destroyed. The report and reduced bonus are narrated; roughly 400 bonus gold has unclear per-member/group units. No completed refurbishment, formal title judgment or fate of every earlier adventurer is established.
+
+[^keep-investigation]: [S2E03](../../episodes/S2E03.md), Cassius's suspicion about Skull Keep/artifacts is a belief, not proof of why it was reacquired. [S2E05](../../episodes/S2E05.md), recovered portrait depicts Enzo at a mantel recognized from the keep; ledger entries list funded jobs, without establishing crime from payments alone. [S2E10](../../episodes/S2E10.md)'s Enzo/tunnel account and later [S3E06](../../episodes/S3E06.md) map speculation do not independently relocate the mansion's prison or map every keep passage. No completed physical return to the keep occurs in these scenes.
+
+[^keep-geography]: [April retrospective](../../../episodes/BONUS-2021-04.md), ~00:12–00:14, direct GM geography clarification: upland water drains into the larger lake system; exact watercourse/coordinates are not surveyed. ~00:22–00:26 separately describes an unused hidden basement and alchemy lab, with possible potions/clues, which the party did not discover. Those spaces remain attributed planning/reference evidence rather than added explored rooms or items awarded to the party. [Comparison provenance](../../../reports/BONUS_2021_04_ASR_COMPARISON_2026-10-25.md). No fresh audio or original map inspected.
+
+[^keep-status]: Last physical site observation is S1E06's departure and reported assessment. [S3E06](../../episodes/S3E06.md)'s aboleth vision of a lake near Withers Keep is a mental view, not an independently surveyed visit. [S3E08](../../episodes/S3E08.md)'s apparent Skull Keep battle setting is a cranium-rat illusion, not teleportation or proof of renewed damage. Search through the campaign finale finds no direct site revisit, rebuilt household or confirmed mirror outcome. The defeat of Khalazar elsewhere does not automatically establish this estate's restoration or release of every enchantment.

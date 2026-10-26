@@ -6,6 +6,10 @@ Noble Hollow lies north of Atomer beside the river leading toward the great lake
 
 ## Development by arc
 
+<a id="the-midnight-ceremony"></a>
+
+<a id="the-cavern-beneath"></a>
+
 ### Arc One — A ritual clearing broken open
 
 The clearing becomes a site of threatened sacrifice when [Marek Gideon](../characters/marek-gideon.md) brings Faelan there. A gear-edged stone supports the unconscious elf inside green flames, with attendants sustaining the rite and another captive bound nearby. According to Cheet, the site's power is part of a ceremony meant to call a beast from the lake. The place's use as ritual ground is witnessed; that larger purpose remains the participants' account.[^hollow-rite]

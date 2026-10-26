@@ -1,0 +1,110 @@
+{
+  "date": "2026-10-26",
+  "scope": "Enzo Withers character and Skull Keep place",
+  "headings": [
+    {
+      "path": "delvers/world/characters/enzo-vanderbuck-withers.md",
+      "old_heading": "Enzo Vanderbuck Withers — the lord in the mirror",
+      "old_anchor": "enzo-vanderbuck-withers--the-lord-in-the-mirror",
+      "target": "Enzo Vanderbuck Withers — the lord in the mirror",
+      "disposition": "native heading retained"
+    },
+    {
+      "path": "delvers/world/characters/enzo-vanderbuck-withers.md",
+      "old_heading": "Introduction",
+      "old_anchor": "introduction",
+      "target": "Introduction",
+      "disposition": "native heading retained"
+    },
+    {
+      "path": "delvers/world/characters/enzo-vanderbuck-withers.md",
+      "old_heading": "Ambition and isolation",
+      "old_anchor": "ambition-and-isolation",
+      "target": "Arc One — Ambition, solitude and a wish for release",
+      "disposition": "subject-focused synthesis of first visit; complete source detail preserved in notes and archive"
+    },
+    {
+      "path": "delvers/world/characters/enzo-vanderbuck-withers.md",
+      "old_heading": "The knowledge he offers",
+      "old_anchor": "the-knowledge-he-offers",
+      "target": "Arc One — Ambition, solitude and a wish for release",
+      "disposition": "subject-focused synthesis of first visit; complete source detail preserved in notes and archive"
+    },
+    {
+      "path": "delvers/world/characters/enzo-vanderbuck-withers.md",
+      "old_heading": "A choice made by strangers",
+      "old_anchor": "a-choice-made-by-strangers",
+      "target": "Arc One — Ambition, solitude and a wish for release",
+      "disposition": "subject-focused synthesis of first visit; complete source detail preserved in notes and archive"
+    },
+    {
+      "path": "delvers/world/characters/enzo-vanderbuck-withers.md",
+      "old_heading": "Current status",
+      "old_anchor": "current-status",
+      "target": "Current status",
+      "disposition": "native last-state target retained; later context distinguished from unobserved consciousness/restoration"
+    },
+    {
+      "path": "delvers/world/places/skull-keep.md",
+      "old_heading": "Skull Keep — Enzo Keep",
+      "old_anchor": "skull-keep--enzo-keep",
+      "target": "Skull Keep — Enzo Keep",
+      "disposition": "native heading retained"
+    },
+    {
+      "path": "delvers/world/places/skull-keep.md",
+      "old_heading": "Introduction",
+      "old_anchor": "introduction",
+      "target": "Introduction",
+      "disposition": "native heading retained"
+    },
+    {
+      "path": "delvers/world/places/skull-keep.md",
+      "old_heading": "The family estate",
+      "old_anchor": "the-family-estate",
+      "target": "Arc One — A maintained estate brought to silence",
+      "disposition": "subject-focused synthesis of first visit; complete source detail preserved in notes and archive"
+    },
+    {
+      "path": "delvers/world/places/skull-keep.md",
+      "old_heading": "The upper chamber",
+      "old_anchor": "the-upper-chamber",
+      "target": "Arc One — A maintained estate brought to silence",
+      "disposition": "subject-focused synthesis of first visit; complete source detail preserved in notes and archive"
+    },
+    {
+      "path": "delvers/world/places/skull-keep.md",
+      "old_heading": "Battle and aftermath",
+      "old_anchor": "battle-and-aftermath",
+      "target": "Arc One — A maintained estate brought to silence",
+      "disposition": "subject-focused synthesis of first visit; complete source detail preserved in notes and archive"
+    },
+    {
+      "path": "delvers/world/places/skull-keep.md",
+      "old_heading": "Current status",
+      "old_anchor": "current-status",
+      "target": "Current status",
+      "disposition": "native last-state target retained; later context distinguished from unobserved consciousness/restoration"
+    }
+  ],
+  "domains": {
+    "delvers/world/characters/enzo-vanderbuck-withers.md": "Character: self-reported ambition, isolation, limited knowledge, release wish and later records",
+    "delvers/world/places/skull-keep.md": "Place: luxury estate, maintenance inhabitants, observed upper chamber, fire/guardian aftermath and later property/geographic context"
+  },
+  "review": "Both complete old pages read; relevant names/place terms searched across 37 dossiers; selected full paragraphs, existing flameskull article and April bonus-dossier passages read; no fresh ASR/audio/map/sheet/art review",
+  "horizons": {
+    "Enzo": "S1E06 diminished reflection; S2E04/S2E05/S2E10 records and attributed history add no new personal meeting; later named desert/finale gives no mirror outcome",
+    "Skull Keep": "S1E06 departure, inert servants and reported damage assessment; later records, visions and illusions do not establish a physical revisit"
+  },
+  "critical_boundaries": [
+    "Divided-life account is Enzo testimony, not verified immortality mechanics",
+    "Reflections traveling are claimed reach, not observed possession or escape",
+    "Koh does not identify his wife; no cure or confirmed genealogical diagnosis supplied",
+    "Alexandre ancestry and title claim do not establish a complete family tree",
+    "Atomer mansion/prison and upland keep remain separate; no continuous tunnel survey",
+    "Observed upper alchemical room differs from creator-described unvisited basement/lab",
+    "Direct GM lake-system clarification does not merge lakes or award unvisited items",
+    "Rat-generated tower view is not teleportation or new damage",
+    "Khalazar defeat does not establish Enzo released or estate restored"
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "date": "2026-10-26",
+  "local_file_and_fragment_links": 818,
+  "maintained_inbound_links": 29,
+  "former_headings_preserved": 12,
+  "exact_original_hashes": 6,
+  "reading_copy_target_equivalence": 6,
+  "explicit_reading_copy_link_corrections": 0,
+  "protected_hashes": 241,
+  "measurements": [
+    {
+      "path": "delvers/world/characters/enzo-vanderbuck-withers.md",
+      "before_main_words": 462,
+      "after_main_words": 406,
+      "arc_words": [
+        234,
+        67
+      ],
+      "largest_arc_to_median": 1.555,
+      "footnotes": 7,
+      "anchors": 9
+    },
+    {
+      "path": "delvers/world/places/skull-keep.md",
+      "before_main_words": 602,
+      "after_main_words": 427,
+      "arc_words": [
+        223,
+        56
+      ],
+      "largest_arc_to_median": 1.599,
+      "footnotes": 8,
+      "anchors": 10
+    }
+  ],
+  "errors": [],
+  "limits": [
+    "No new ASR, audio, remote URL or rendered-site review",
+    "Section dispositions and material-claim review, not sentence-by-sentence audio verification"
+  ],
+  "markdownlint": {
+    "maintained_files": 7,
+    "violations": 0,
+    "exit_code": 0,
+    "archives": "Excluded by repository wrapper; reading copies checked for hashes, links and target equivalence."
+  },
+  "whitespace": {
+    "scoped_git_diff_check_exit_code": 0,
+    "direct_new_markdown_trailing_whitespace_errors": 0
+  },
+  "manual_review": [
+    "Both complete pre-edit pages and final main accounts read",
+    "Every pre-edit relative link target retained",
+    "Observed body/mirror and household distinguished from Enzo claims of immortality, family and reach",
+    "Later records, physical desert arrival, mental lake view and illusory tower setting do not create a direct revisit",
+    "Observed upper room and unvisited basement remain separate; lake-system clarification does not merge lakes",
+    "Final reflection and property/occupation remain unresolved"
+  ],
+  "subject_domains": {
+    "delvers/world/characters/enzo-vanderbuck-withers.md": "character",
+    "delvers/world/places/skull-keep.md": "place"
+  },
+  "protected_file_groups": {
+    "campaign_files": 215,
+    "prior_batch_artifacts": 24,
+    "bonus_provenance_documents": 2
+  },
+  "concurrent_work": "Existing Marek/Noble Hollow work preserved; concurrent Wastes S2E11 source/report/world work left untouched."
+}
