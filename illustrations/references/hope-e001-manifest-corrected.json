@@ -1,7 +1,17 @@
 {
   "subject": "WASTES-HOPE-AKMENOS-DS-001",
   "state": "WASTES-HOPE-AKMENOS-A01",
-  "status": "ASSEMBLED_CANDIDATE_AWAITING_OWNER_SHEET_REVIEW_AND_REPO_REGISTRATION; LATERALITY_LABELS_CORRECTED",
+  "status": "OWNER_APPROVED",
+  "final_approval": {
+    "decision": "OWNER_APPROVED",
+    "date": "2026-10-26",
+    "scope": "The Wastes, Hope Akmenos, E001/A01 organic introduction-era baseline, exact three assembled pages",
+    "decision_source": "Owner explicitly said Yes, approved after reviewing corrected anatomical naming",
+    "pages": 3,
+    "repo_directory": "illustrations/references/",
+    "technical_registration": "confirmed by independent repository readback of each page, side anchor and rear anchor; SHA-256 matches pre-approval exports",
+    "report": "reports/ILLUSTRATION_HOPE_E001_SHEET_FINAL_APPROVAL_2026-10-26.md"
+  },
   "input_images": {
     "front": {
       "upload_filename": "Hope_Akmenos_E001_Front_v1_PanelsRemoved_1024_sRGB(3).png",
@@ -81,7 +91,7 @@
     "Page 1 preserves subject pixels from supplied front and back at native size. Front is translated horizontally by -290 px; back by +270 px horizontally and +11 px vertically; only empty background pixels at x=499..529 are blended.",
     "Page 2 contains the same pair of figures as the owner-selected side overview (no scaling/repose/mirroring).",
     "Page 3 retains the exact supplied face art at its existing scale (RGB conversion only).",
-    "Repository upload/readback and full-sheet explicit owner approval remain pending.",
+    "2026-10-26: repository binary readback verified exact SHA-256, RGB 1024-square PNG IHDR and embedded ICC for all three pages, corrected side files, and back; final owner approval recorded.",
     "Owner confirmed holster placement was correct in every figure; only the earlier anatomical side labels were interchanged. IRV-0003 is no longer a visual-continuity blocker.",
     "Assembled page 2 still shows anatomical RIGHT on the viewer-left panel (faces right), anatomical LEFT on viewer-right panel (faces left). Pixel geometry and original SHA-256 hashes of all three sheet pages remain unchanged."
   ],
@@ -97,7 +107,7 @@
     "image_pixels_changed": false,
     "holster_continuity": "owner-confirmed consistent with front and back",
     "related_issue": "IRV-0003: resolved as labeling mistake; not source-art inconsistency",
-    "repository_registration": "pending; session files only"
+    "repository_registration": "verified in illustrations/references/ on 2026-10-26; SHA-256 matches exact corrected files"
   },
   "corrected_individual_side_files": [
     {

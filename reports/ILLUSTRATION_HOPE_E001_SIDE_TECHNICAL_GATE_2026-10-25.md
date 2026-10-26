@@ -1,6 +1,6 @@
 # Hope Akmenos E001/A01 — side-view acceptance, technical exports, and continuity review
 
-**Date:** 2026-10-25. **Sheet:** `WASTES-HOPE-AKMENOS-DS-001`. **Updated 2026-10-26:** `SIDE_VISUAL_ACCEPTED / SIDE_REGISTRATION_PENDING / LATERALITY_LABELS_CORRECTED`. Owner confirmed the holster is consistent across views and the two split **file labels** had been reversed. Not yet `SIDE_APPROVED` (repository binary readback pending) or a completed approved sheet.
+**Date:** 2026-10-25. **Sheet:** `WASTES-HOPE-AKMENOS-DS-001`. **Final update 2026-10-26:** **`SIDE_APPROVED / REPOSITORY_VERIFIED / LATERALITY_LABELS_CORRECTED`**. Owner confirmed the holster is consistent across views and the two split **file labels** were reversed. Exact corrected side PNGs and paired overview were read back from `illustrations/references/` with matching SHA-256 and PNG/ICC headers. The completed E001/A01 three-page sheet was also separately owner-approved and repository verified; see [final audit](ILLUSTRATION_HOPE_E001_SHEET_FINAL_APPROVAL_2026-10-26.md).
 
 ## Owner action and original output
 
@@ -18,15 +18,15 @@ Produced without new character drawing, mirroring, garment edits, warping, or cl
 | `Hope_Akmenos_E001_Side_Left_v1_1024_sRGB.png` | 1,026,617 | `0bcb718afb0c25ea771fd44b3484f6e1226e2e23d1bd88204709c75eacb58212` | Actual left-panel pixels at original figure scale; neutral backdrop extension |
 | `Hope_Akmenos_E001_Side_Right_v1_1024_sRGB.png` | 1,023,879 | `dfa8d85404a930338ad9c3231d3e1ef6a0917612833dbe916ea8ee6f838b1c8c` | Actual right-panel pixels at original figure scale; neutral backdrop extension |
 
-All three saved exports were opened and visually inspected. No arbitrary filenames in this document establish repository assets. **Next binary step:** upload exact chosen PNG(s) to `illustrations/references/` and independently read back their hashes, size and ICC; the MCP image uploader accepts base64 payloads, not paths from ChatGPT's session container. Until then record `REGISTRATION_PENDING`.
+All three saved exports were opened and visually inspected at the session-only stage. **2026-10-26 completion:** the paired overview and correctly renamed separate anatomical side PNGs are **now present in `illustrations/references/`**, with byte counts, SHA-256 and PNG/ICC header properties independently checked by repository readback against the hashes below. The original misnamed v1 files remain as provenance, not current naming authorities.
 
 ## Visual fidelity and independent gate
 
-**2026-10-26 owner correction (supersedes prior suspicion):** The holster stays on **Hope's anatomical RIGHT hip** in the approved front, back and both sides. The prior issue was the anatomical LEFT/RIGHT label applied to the separate PNGs; the actual right-facing (→), holster-near profile depicts Hope's **anatomical RIGHT** side, and the left-facing (←) profile depicts her **anatomical LEFT**. `IRV-0003` was resolved as a labeling error, **not** an image-design defect. Neither the paired art nor the composed three-page sheet needs mirroring, redrawing or recomposition. Corrected **session-only, byte-identical** names:
+**2026-10-26 owner correction (supersedes prior suspicion):** The holster stays on **Hope's anatomical RIGHT hip** in the approved front, back and both sides. The prior issue was the anatomical LEFT/RIGHT label applied to the separate PNGs; the actual right-facing (→), holster-near profile depicts Hope's **anatomical RIGHT** side, and the left-facing (←) profile depicts her **anatomical LEFT**. `IRV-0003` was resolved as a labeling error, **not** an image-design defect. Neither the paired art nor the composed three-page sheet needs mirroring, redrawing or recomposition. Corrected **byte-identical and now repository-verified** names:
 
 - `Hope_Akmenos_E001_Side_AnatomicalRight_v2_1024_sRGB.png` = original `Side_Left_v1` bytes, SHA-256 `0bcb718afb0c25ea771fd44b3484f6e1226e2e23d1bd88204709c75eacb58212`.
 - `Hope_Akmenos_E001_Side_AnatomicalLeft_v2_1024_sRGB.png` = original `Side_Right_v1` bytes, SHA-256 `dfa8d85404a930338ad9c3231d3e1ef6a0917612833dbe916ea8ee6f838b1c8c`.
 
 Historical v1 hashes/filenames above are retained as generation/export provenance; do **not** relabel those old source files in place.
 
-**Current safe handoff:** Face and front stay `*_APPROVED`; sides are owner-accepted with correctly named, technically verified session exports, and no equipment-continuity blocker remains. **Registration/readback of the exact side files remains pending.** The back has subsequently received separate owner visual approval and session technical normalization; it too awaits repo registration. Three assembled 1024-square sheet pages are awaiting separate owner approval and repo registration. Do not declare `SIDE_APPROVED`, `BACK_APPROVED`, or `OWNER_APPROVED` prematurely.
+**Final 2026-10-26 handoff:** Face, front, corrected sides and rear are all independently owner-approved and repository-verified. The three assembled 1024-square PNG pages have also received separate final owner approval and repository binary/hash verification. The full **E001/A01 sheet v1 is `OWNER_APPROVED`**; see the [final approval record](ILLUSTRATION_HOPE_E001_SHEET_FINAL_APPROVAL_2026-10-26.md). The status is specific to the original organic character baseline, not later appearance variants.

@@ -10,6 +10,10 @@ The creatures hunted among the limestone ruins and nearby brush, threatening bot
 
 Several gricks bore wounds before the company fought them. Deeper inside the worked-stone dungeon, bodies impaled on wall spears and floor needles showed that the ancient traps could kill these predators too. Veggie Sticks believed they might be emerging from the dungeon, but their deeper origin remained unknown.[^dungeon]
 
+## S3E09: Stone-disguised gricks, big alpha defeated, one escapes
+
+In the [right-stair airflow/grick urn chamber](../places/right-stair-grick-urn-complex.md), [Delvers S3E09](../../episodes/S3E09.md), **Koh and guest cartographer/cleric Barclay** recognize that apparently scattered rocks on huge floor near cyclic sucking-and-blowing air spiral are **concealed gricks**. A **large overfed GRICK ALPHA** is among them. Koh stealths behind smaller creature and readies psychic dagger, while **Evelyn removes THIRD GRICK-HEAD urn**, stopping artificial wind and alerting gricks. **Koh ACTUALLY kills smaller grick with natural-20 psychic strike**, wounds another, **kills very large alpha with later natural-20**; Krandal's **Barclay-imbued holy face mace** kills a grick on opportunity attack and Barclay's **Guiding Bolt** kills or severely damages another. **At least ONE surviving grick actually slips away into rocks/stream**, group voluntarily does NOT pursue all fugitives. Koh jokingly declares himself “new alpha” / “Uberdark,” **neither formal ecological succession nor universal species status**. Subsequent Koh boast to [Veggie Sticks](../characters/veggie-sticks.md) that group eliminated “ninety percent” of local gricks is **humorous speculation, NOT a surveyed count**.
+
 ## Current status
 
 The company reported four gricks killed and delivered a tentacle to Cassius as a trophy. Other carcasses had been killed by the dungeon's traps. The immediate scouting job was accepted, but the unexplored passages remained a possible source of further danger.[^status]
