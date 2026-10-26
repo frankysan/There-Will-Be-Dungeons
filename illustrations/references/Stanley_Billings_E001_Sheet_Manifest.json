@@ -46,6 +46,47 @@
       "repo_registered": false
     }
   ],
+  "side_profile_laterality_correction": {
+    "date": "2026-10-26",
+    "reason": "Previous side filenames reversed the character's anatomical left/right. Corrected labels only; artwork remains unchanged.",
+    "approved_paired_image": {
+      "path": "illustrations/references/Stanley_Billings_E001_Both_Sides_v1_1024_sRGB.png",
+      "sha256": "1163cc16f5ed34f1b2d7a8016330a5253cd03f2fbef7bd2037d490effc626b9a",
+      "content_modified": false
+    },
+    "panel_orientation": {
+      "left_panel": "anatomical RIGHT; faces image-right (->)",
+      "right_panel": "anatomical LEFT; faces image-left (<-)"
+    },
+    "current_individual_anchors": [
+      {
+        "anatomical_side": "RIGHT",
+        "path": "illustrations/references/Stanley_Billings_E001_AnatomicalRight_Side_v2_1024_sRGB.png",
+        "legacy_mislabeled_path": "illustrations/references/Stanley_Billings_E001_Left_Side_v1_1024_sRGB.png",
+        "sha256": "c685ace99abf4e51fbae4b77d887dab8de8a9835d51e4f64de95c679f57c14eb",
+        "bytes": 574210,
+        "pixels": [1024, 1024],
+        "mode": "RGB",
+        "icc": "sRGB built-in",
+        "repo_registered": true,
+        "sha256_repo_readback": true
+      },
+      {
+        "anatomical_side": "LEFT",
+        "path": "illustrations/references/Stanley_Billings_E001_AnatomicalLeft_Side_v2_1024_sRGB.png",
+        "legacy_mislabeled_path": "illustrations/references/Stanley_Billings_E001_Right_Side_v1_1024_sRGB.png",
+        "sha256": "09f65c7e94b15c4e671093ebc00f3f5325341399a94760fb0a84f58552c2b4fe",
+        "bytes": 548196,
+        "pixels": [1024, 1024],
+        "mode": "RGB",
+        "icc": "sRGB built-in",
+        "repo_registered": true,
+        "sha256_repo_readback": true
+      }
+    ],
+    "four_view_assembled_sheet_pixels_changed": false,
+    "report": "reports/ILLUSTRATION_STANLEY_E001_SIDE_LATERALITY_CORRECTION_2026-10-26.md"
+  },
   "back_anchor_production_derivative": {
     "description": "Compliance conversion of owner-approved back image, 1254-square untagged RGBA (all alpha opaque), treated as assumed sRGB, proportionally resized Lanczos to 1024-square RGB with embedded 588-byte sRGB ICC; no redesign.",
     "proposed_path": "illustrations/references/Stanley_Billings_E001_Back_v2_1024_sRGB.png",

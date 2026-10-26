@@ -148,6 +148,18 @@ queue write does not authorize modifying or silently using flawed art.
 
 ## Closed and superseded findings
 
+### IRV-0004 — Stanley E001 anatomical profile filenames reversed
+
+- **Status / severity / type:** `resolved` / `minor` / `visual-lineage` (incorrect anatomical labels and filenames; no pixel or character-design change).
+- **Opened and resolved:** 2026-10-26, following direct user request to apply the same left/right naming correction made for Hope Akmenos.
+- **Campaign / subject / state:** The Wastes, `WASTES-STANLEY-BILLINGS-A01`, sheet `WASTES-STANLEY-BILLINGS-DS-001`.
+- **Affected assets:** Owner-approved paired PNG `Stanley_Billings_E001_Both_Sides_v1_1024_sRGB.png`; two mislabeled extracted v1 files; associated four-view sheet `Stanley_Billings_E001_Sheet_01_Turnaround_1024_sRGB.png`; written side/assembly metadata. Original binaries all preserved.
+- **Cause:** Legacy turnaround instructions incorrectly labeled the figure facing image-right (→) as anatomical LEFT and figure facing image-left (←) as anatomical RIGHT. Correct orientations are the reverse: **viewer-left figure = anatomical RIGHT**, **viewer-right figure = anatomical LEFT**.
+- **Resolution:** Created two additional **byte-identical** correctly named v2 PNGs **in the repository**, verified by original/new binary readback: `Stanley_Billings_E001_AnatomicalRight_Side_v2_1024_sRGB.png` = historical `Left_Side_v1` (574,210 bytes, SHA-256 `c685ace99abf4e51fbae4b77d887dab8de8a9835d51e4f64de95c679f57c14eb`), `Stanley_Billings_E001_AnatomicalLeft_Side_v2_1024_sRGB.png` = historical `Right_Side_v1` (548,196 bytes, SHA-256 `09f65c7e94b15c4e671093ebc00f3f5325341399a94760fb0a84f58552c2b4fe`). Both preserve the previous 1024-square RGB PNG and sRGB ICC tagging.
+- **Impact / approval:** No mirroring, resizing, redrawing, reassembly, or new sheet visual approval required. The prior `SIDE_APPROVED` stays valid for the same images. The previously approved E001 four-view composite remains byte-identical; its panel-side descriptions have been corrected in the written records. This issue does not itself change the separate full-sheet registration/approval state.
+- **Provenance and exact checks:** [2026-10-26 correction report](../reports/ILLUSTRATION_STANLEY_E001_SIDE_LATERALITY_CORRECTION_2026-10-26.md), [historical approval with corrigendum](../reports/ILLUSTRATION_STANLEY_E001_SIDE_APPROVAL_2026-10-25.md) and [sheet manifest](../illustrations/references/Stanley_Billings_E001_Sheet_Manifest.json).
+
+
 ### IRV-0003 — Hope E001 side views: anatomical LEFT/RIGHT filenames reversed (not a holster error)
 
 - **Status / type:** `resolved` / `visual-lineage` (naming/metadata only; alleged image-content defect **disproven**).

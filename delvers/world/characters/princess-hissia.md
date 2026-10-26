@@ -2,6 +2,10 @@
 
 **Working spelling:** **Hissia** (Qwen “Hysia”, audio and original GM notes not verified), **claims to be daughter of King/Lord Hissia** and a **princess of Snake Island**, connected to [Krandal Splenderbelt](krandal-splenderbelt.md) during his **unremembered two-week absence** between Delvers first/second season. **FIRST directly observed/introduced to players in [S2E12 — The Bell of The Ball](../../episodes/S2E12.md)** at Bronze Ball, ~01:46–02:04. **Second arc ends here; memories unresolved.**
 
+## S3E10: First explicit aboleth lead to Dawnless Dunes, NOT a witnessed rescue
+
+In [Delvers S3E10](../../episodes/S3E10.md) a flashback ACTUALLY plays Krandal's previously promised Deep Winds Spa questions to the **aboleth**. It **CLAIMS Princess Hissia is alive and forced to WORK ON KHALAZAR'S GREAT MACHINE in the **DEEPEST LEVELS OF DAWNLESS DUNES**. This is **enemy/NPC testimony**, NOT direct sighting, magical verification, liberation, confirmed machine specification or exact route. Krandal **ACTUALLY TELLS Nopa Ropa**, her Snake Island warrior advocate, who pledges to join next-morning hunt and calls it his mission. All three grick/hook-horror/bat-head urns recovered but transferred **Evelyn→KOH**, still NOT put into sealed triangle gate altar. **Princess does NOT physically appear in S3E10**, and final outcome remains unknown. [Nopa Ropa](nopa-ropa.md).
+
 ## Visual appearance
 
 **Tall slender humanoid female, about Krandal's height**, long **straight DARK hair down back**; face/limbs **mostly human-looking**, NOT a literal snake head or visibly scaled serpent body, except **yellow-green irises with VERTICAL SNAKE SLIT pupils**. A **tight, flowing PURPLE SILK formal gown**, lavish **GOLD MEDALLION necklaces**, gold waist chain, thin additional hanging silk details, **small TIARA RINGED WITH SNAKE MOTIFS**. Arrives at Bronze Ball with **TWO SNAKE attendants/courtiers** beating drums and assisting her from coach; publicly **announced by Cassius as a surprise donor/benefactor**. Krandal notes touch cool/clammy; does not identify species as yuan-ti/naga.[^appearance]
