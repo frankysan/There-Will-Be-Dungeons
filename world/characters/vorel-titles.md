@@ -1,6 +1,14 @@
 # Vorel — titles and epithets register
 
-**Type:** Source-indexed supporting register for [Vorel](vorel.md), deliberately separated from the main character biography. **Evidence:** ASR-provisional, with source windows, name variants and social standing preserved. **Spoilers:** Through Wastes S2E02; Q&As are retrospective, not played conferrals. [Characters](../CHARACTERS.md) · [World portal](../README.md).
+**Type:** Source-indexed supporting register for [Vorel](vorel.md), deliberately separated from the main character biography. **Evidence:** ASR-provisional, with source windows, name variants and social standing preserved. **Spoilers:** Through Wastes S2E04; Q&As are retrospective, not played conferrals. [Characters](../CHARACTERS.md) · [World portal](../README.md).
+
+## S2E04 — competing projected Vorels, “Greatest of the Time Vorels” variant
+
+During the **Tower Nash alternate-Nash council** on **Planet Nash** (~02:17–02:22), **main Vorel asks for other Vorels to appear as projections**. They do, with different timelines and without his chest-mounted **Eye of Groxl**; he declares himself **“the greatest of the time Vorels”** (source phonetically `best of the time Varels` / `greatest of the time Vorels`), **shortened repeat variant** of his S2E02–S2E03 self-bestowed boast. Each other Vorel challenges the claim. Main Vorel **summons/demonstrates Blade of Groxl** (Parakeet phonetic `blade of Grojil`) to impress them, and they express curiosity. This is **not a conferred best-Vorel rank, actual duel, gained alliance or physical multiverse travel**. [S2E04 episode](../../episodes/S2E04.md) · [text comparison](../../reports/WASTES_S2E04_ASR_COMPARISON_2026-10-26.md). Audio unverified.
+
+## S2E03 — council self-introduction, repeat not new conferral
+
+At **~00:19–00:20**, speaking publicly before the **Council of Earthly Defenders on Mars**, Vorel again introduces himself as **“the greatest of all the time Vorels you may meet”** (Parakeet and Qwen use “the greatest of all the time Varels you may meet” or near equivalent). This **shorter repeat variant** of his **S2E02 “Greatest of All the Time Vorels That You May Have Met”** is **self-bestowed boasting** rather than a council-granted honor or demonstration of multiversal rank. Council separately recognizes the existing lizardfolk **Great Fang** and Vorel's offered contingent of ~75 followers, without new coronation. [Episode](../../episodes/S2E03.md) · [ASR report](../../reports/WASTES_S2E03_ASR_COMPARISON_2026-10-26.md). **Audio not checked.**
 
 ## S2E02 — “Greatest of All the Time Vorels” and Great Fang acknowledgment
 

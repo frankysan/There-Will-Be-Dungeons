@@ -16,7 +16,7 @@ Five stories follow Nash, Hope, Stanley and Vorel from their first meeting in Du
 
 ## Season Two — the voyage begins
 
-The [ongoing Season Two narrative](SEASON_TWO.md) now covers **S2E01–S2E02**: Stanley's completed release from the Soulbroker, the first flight and naming of **Fate Six**, the survivors of Razak Val, the voyage to Mars, Nash's reunion with his family and the **unfinished Triangulosphere** found in Tungsten Wheel's workshop. The elf war council **opens but does not deliberate** at the S2E02 cutoff. This is an **in-progress continuation**, not a sixth completed story arc. Read the [S2E01 source dossier](../episodes/S2E01.md) and [S2E02 source dossier](../episodes/S2E02.md) for timestamps and uncertainties; no original audio listening is claimed.
+The [ongoing Season Two narrative](SEASON_TWO.md) covers **S2E01–S2E03**: Stanley's release from the Soulbroker, Fate Six's actual flight and voyage to Mars, Nash's family reunion, the unfinished Triangulosphere, then **S2E03's Council of Earthly Defenders** choosing the **Solar Mines** and preparing for a **World Breaker identified as a corrupted Tarrasque**. Stanley **actually accepts the Elhandari Selle/Selili Prime (?) leadership**, transforms and privately hears a troubling tree prophecy; the new sworn guardian claims Tungsten Wheel is her uncle. **No subsequent war or interplanetary departure occurs by the S2E03 cutoff.** This remains an **in-progress continuation**, not a sixth completed arc. [S2E01](../episodes/S2E01.md) · [S2E02](../episodes/S2E02.md) · [S2E03](../episodes/S2E03.md). ASR research, no original audio listening.
 
 ## Notes
 

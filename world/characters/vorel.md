@@ -1,12 +1,16 @@
 # Vorel
 
-**Portrayed by:** Kyle. **Identity:** Lizardfolk warrior and leader, protector of **Bok Bok**, bearer of the **Eye of Groxl** and claimant to many personal titles. **Spoilers:** Main Wastes through **S2E02** and cast Q&As. **Evidence:** ASR-provisional except owner-confirmed item/name orthography.[^march21]
+**Portrayed by:** Kyle. **Identity:** Lizardfolk warrior and leader, protector of **Bok Bok**, bearer of the **Eye of Groxl** and claimant to many personal titles. **Spoilers:** Main Wastes through **S2E03** and cast Q&As. **Evidence:** ASR-provisional except owner-confirmed item/name orthography.[^march21]
 
 **Browse:** [Characters](../CHARACTERS.md) · [His source-indexed titles](vorel-titles.md) · [Eye of Groxl](../technology/eye-of-groxl.md) · [World portal](../README.md).
 
 ## Performer retrospective before the Wastes resumed (BONUS-2021-11-13)
 
 In [post-Delvers retrospective ~21–29min](../../episodes/BONUS-2021-11-13.md), Kyle says he **lifts heavy weights before acting Vorel**, because the physical exertion helps him enter the lizardfolk's **strong warrior mentality**. After revisiting the prior Wastes crash/cliffhanger in his memory, Kyle expressed an intention to have Vorel **consider ALL available mission options before committing**, learning from earlier impulse to accept the first bad offer (example: clowns in Sigil) and from the structured Delvers quest board. This is **performer preparation and future story intention, NOT a new title, role, game-mechanic advantage, actual choice, or additional pre-return played Wastes scene**. Vorel's subsequent recorded actions/E128 continuity remain their own evidence. [P/Q ASR report](../../reports/BONUS_2021_11_13_ASR_COMPARISON_2026-10-26.md).
+
+## S2E03 — Earthly Defenders and preparation to return to war
+
+At [Mars's Council of Earthly Defenders](../../episodes/S2E03.md), Vorel again announces himself as **the “greatest of all the time Vorels you may meet,”** repeating a self-bestowed style already spoken in S2E02, not receiving a new official honor. The council sets his lizardfolk contingent at about **75 warriors**; they have not yet fought. He urges Elhandari to approach Earth towns as their **neighbors in wheeled ground vehicles**, rather than looming space ships, and the GM accepts his successful persuasion. He supports Bok Bok's idea of seeking the title of Goblin King and gathering a projected army, but **Bok Bok has only left council to attempt it**, not returned victorious. Vorel also argues that the World Breaker's great form deserves careful study and suggests getting ancient armaments from Kervalon. These are planning decisions, not new battle or new weapons acquired. [Vorel's titles](vorel-titles.md) · [textual comparison](../../reports/WASTES_S2E03_ASR_COMPARISON_2026-10-26.md).
 
 ## S2E02 — Razak Val recognizes Great Fang; followers join his voyage
 
