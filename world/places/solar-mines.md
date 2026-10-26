@@ -10,6 +10,10 @@ The **E117** Elhandar ceremony sees Nash publicly recount the Solar Mines uprisi
 
 In the [September 2020 public-release Q&A](../../episodes/BONUS-2020-09.md), **~00:00:43–00:01:29**, **Scott says he abbreviated a much larger Solar Mines story “today” because he lacked his notes**. This is **retrospective creator commentary associated with the E117 retelling**, not an additional played revolt, proof of a recording day or a source for the untold details. It does not validate the E118 journal's theories. [Comparison](../../reports/BONUS_2020_09_ASR_COMPARISON_2026-10-23.md), ASR-provisional, no listening.
 
+## December 2021 creator explanation — missing context, not new reconnaissance
+
+During the [December 2021 bonus ~00:03–00:07](../../episodes/BONUS-2021-12.md), **Beau** says he has intentionally developed a link between **the Principle, Nash's dragon-metal heart and the Solar Mines**. He emphasizes the difference between **what Nash remembers as an exploited child and what the mines actually involved**, leaving unknown aspects to be discovered. Scott says Nash escaped with **one other individual** whose later whereabouts have not been revealed; Scott wonders whether the guards could have since upgraded **Slow Peters**, but **Beau does not confirm any specific upgrades, present garrison or ongoing operating procedures**. These are **out-of-game creator context and player conjecture**, not additional played travel, a newly revealed escapee identity or witnessed past footage. [P/Q audit](../../reports/BONUS_2021-12_ASR_COMPARISON_2026-10-26.md).
+
 ## S2E03 — detailed recalled structure and proposed Earth-core invasion
 
 The [Council of Earthly Defenders](../../episodes/S2E03.md) chooses Solar Mines over the Firelands and Black Mine as the **proposed deep route to Earth's core** for the incomplete Triangulosphere, based on strategic discussion and Hope's memory of Tungsten's notes. **No one travels there during S2E03.**

@@ -4,6 +4,10 @@
 
 **Browse:** [Characters](../CHARACTERS.md) · [His source-indexed titles](vorel-titles.md) · [Eye of Groxl](../technology/eye-of-groxl.md) · [World portal](../README.md).
 
+## December 2021 creator retrospective — intended reactive role and early tutor
+
+At [~00:24–00:27 of the December 2021 bonus](../../episodes/BONUS-2021-12.md), Kyle explains that Vorel was conceived as a **reactive companion**, to prevent Kyle's own tabletop experience from automatically making him the commanding problem-solver. Kyle describes a **Principle City scholar who removed young Vorel from his tribe and taught him Common**, a *Tarzan*-like origin concept for Vorel's unusual vocabulary. He says the **overly elaborate word choices developed unexpectedly during performance** because he enjoyed speaking in character. These are **retrospective creator design explanations** and do **not** depict a new flashback, establish the scholar's name, or award a vocabulary ability/title. [P/Q audit](../../reports/BONUS_2021-12_ASR_COMPARISON_2026-10-26.md).
+
 ## Performer retrospective before the Wastes resumed (BONUS-2021-11-13)
 
 In [post-Delvers retrospective ~21–29min](../../episodes/BONUS-2021-11-13.md), Kyle says he **lifts heavy weights before acting Vorel**, because the physical exertion helps him enter the lizardfolk's **strong warrior mentality**. After revisiting the prior Wastes crash/cliffhanger in his memory, Kyle expressed an intention to have Vorel **consider ALL available mission options before committing**, learning from earlier impulse to accept the first bad offer (example: clowns in Sigil) and from the structured Delvers quest board. This is **performer preparation and future story intention, NOT a new title, role, game-mechanic advantage, actual choice, or additional pre-return played Wastes scene**. Vorel's subsequent recorded actions/E128 continuity remain their own evidence. [P/Q ASR report](../../reports/BONUS_2021_11_13_ASR_COMPARISON_2026-10-26.md).

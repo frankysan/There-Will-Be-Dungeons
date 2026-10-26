@@ -1,96 +1,124 @@
 # Delvers — world reference
 
-**Spoilers through Delvers S3E12 FINAL — Season 3, third arc AND whole Delvers campaign COMPLETE:** Bronze Ball catastrophe and second-arc cliffhanger S2E12; **played three-month transition finishes with new Silver City guild raid/questing licence regime**, Evelyn returns to Atomer, Koh's red-crystal detector upgraded, Krandal's barn built; **KHALAZAR ACTUALLY DEFEATED IN S3E12, curse lifted and freed captives treated; Cassius's release and Guild return occurred historically in S3E10**. **S3E03 introduces Dumbledwark's C4 licence/stolen tome; S3E04 plays the C4 raid and kills its behir; S3E05 secures conditional flumph hospitality and the party destroys filter ooze. S3E06 resolves Koh's aboleth summons and party's overnight spa stay, finds triangle-gate mummy catacombs, identifies two items, returns deceased Silvers' badges, and Krandal's hook-horror egg HATCHES; S3E07 Koh actually forges/uses illegal lift pass and uncovers his glowing blood detector; the guest [Goggles Granny](characters/goggles-granny.md) helps solve black-slime key chamber and obtain a [dry-heart jar](items/dried-heart-jar.md), which fits ONE of THREE old triangle-gate altar recesses. TWO remain empty at historical S3E07 cutoff. S3E08 reveals All Rat/cranium-rat PSYCHIC ILLUSIONS, not real surface misfortunes, and recovers second hook-horror urn and Radiant Lance's relics; first bat urn is REMOVED from old altar, so Evelyn's bag holds BOTH urns **at that historical S3E08 cutoff** and ALL THREE altar recesses are EMPTY again. **S3E09 completed the paid spa night, guest [Barclay](characters/barclay-vandergeist.md) and [Chance](items/chance-lantern.md) helped with [paired door/grick-air chamber](places/right-stair-grick-urn-complex.md); Evelyn physically retrieved THIRD grick-capped urn and now BAGS ALL THREE, leaving OLD ALTAR'S THREE RECESSES EMPTY, sealed gate unopened. Party uses forest exit, then Veggie tree transit to Atomer; Barclay Nondetection makes Guild badges fall off (tracking suspicion UNCONFIRMED).** **[S3E10](../episodes/S3E10.md) plays the ATOMER GUILD RECKONING: Zoltar confirms Guild divination tracking and leaves alive; Cassius PHYSICALLY FREED at Wildfire estate and resumes Guild leadership, grants 20k EACH for upcoming sanctioned Khalazar campaign. Evelyn now WEARS Loran radiant armour; Krandal recruited Nopa Ropa plus TEN skeletal minotaurs including Chad Brad, dawn Pelor gift Devotee's Censer; ALL THREE URNS transferred to KOH, three gate slots EMPTY and door still SEALED.** Guild authorization restored de facto, Cassius free; **[S3E11](../episodes/S3E11.md) NOW ACTUALLY OPENS THE TRIANGLE GATE: three jars INSTALLED, ancient mummy Shaolin Nym/Nim releases jars and opens door, allied Delvers/Guild/minotaur force physically ENTERS DAWNLESS DUNES, door closes behind. Koh takes blue crystal shard; inside black pyramid, nonlethal elf takedowns, captive Withers/Wildfire labour on ~90ft Khalazar statue and likely Hissia fans immobile gilded figure. Huge skeletal bat arrives; Evelyn ACTUALLY lures it away on elk while Darmah STARTS rescue-circle preparations. NO finished teleports or Khalazar fight.** **S3E12 FINALE ACTUALLY CONCLUDES QUEST: Evelyn KILLS skeletal bat; first Darmah Teleportation Circle actually evacuates captive Wildfire/Withers/Phelan, then upstairs Hissia positively identified and rescued by Nopa. Three Delvers insert three ancient organ jars in Khalazar's hollow back, shared old-city illusion boss nearly kills Evelyn/Krandal but Koh/Krandal revive them. Koh's Anathala's Will thrust exposes real bedchamber and THREE DELVERS TOGETHER BURST Khalazar's heart; second circle returns rescued friends as real pyramid collapses. TEN skeletal minotaurs CRUMBLE into final rest. Hissia awakens and kisses Nopa. One-year played epilogue: Koh Guild mentor, Krandal prosperous farm/healer, Evelyn school/Blackwood family and search for Gentleman Cavalier; rebuilt tower at farm serves Delvers. Last cinematic wedding INVITATION Evelyn Blackwood to Lord Ethan Renald/Renault Travail signed GCT, not ceremony, and unopened red kingdom letter. Entire Delvers campaign FINISHED**. S2E00 is earlier narrated fiction despite archive label. [Completed-campaign final dossier](../episodes/S3E12.md). Evidence: full dual-ASR text research, not audio-verified. This reference describes Delvers's separate reality. Handout statements and NPC claims retain their attribution.
+Explore the people, places and artifacts of Delvers, an independent campaign set in its own reality. Reference coverage reaches the campaign finale and one-year epilogue, while each article retains its own last supported observation and source limits. Most subject pages still await the [completed-campaign cleanup](../../project/DELVERS_CAMPAIGN_CLEANUP_PLAN.md).
 
-| Read about | Reference |
-| --- | --- |
-| S3E05 guest Silver League centaur and Guild envoy for underground spa talks | [Destroying Angel](characters/destroying-angel.md) |
-| Guest Carter Johnson's elderly feline alchemist, Elvish translator and puzzle helper in S3E07 | [Goggles Granny](characters/goggles-granny.md) |
-| Ancient black-slime chamber, three swallowed creature keys and successfully drained ooze | [Three-key chamber](places/black-slime-key-chamber.md) |
-| First bat-headed dry-heart jar fitted in S3E07, **RETRIEVED in S3E08**, now **with SECOND and THIRD urns in Evelyn's Bag at S3E09 cutoff** | [Dried-heart jar](items/dried-heart-jar.md) |
-| One-year epilogue: newly fertile Krandal farm, Scroungy pulls cart with donkey, Delvers' rebuilt headquarters tower, wedding invite and unopened royal letter | [Splenderbelt farm / Delvers' tower](places/splenderbelt-farm-delvers-tower.md) |
-| Post-S3E12 GM cast bonus documents **Penny's little HOOVES as performer-confirmed visual direction**, undemonstrated biological immunity; **unused giant iron-golem statue and alternate Khalazar victory** remain nonplayed plans | [BONUS-2021-11-13](../../episodes/BONUS-2021-11-13.md) · [Penny reference](characters/penelope-spiros.md) |
-| S3E12 actual complete campaign finale: Khalazar DESTROYED, captives transported, ten minotaurs lay down bones and year-later epilogue | [Season Three finale](../episodes/S3E12.md) |
-| S3E11 halfling evacuation wizard with gem-chalk circle, ACTUAL Spider Climb on Koh and only begins teleport prep at cutoff | [Darmah Edstream](characters/darmah-edstream.md) |
-| S3E11 actual dark desert/black pyramid/workshop with captured elves and shadow-skinned bat on upper balcony | [Dawnless Dunes/pyramid](places/dawnless-dunes-pyramid.md) |
-| S3E11 ancient Dolbluth architect, telepathic guardian, true-form blood ritual claim and actually opened gate | [Shaolin Nym/Nim](characters/shaolin-nym.md) |
-| S3E11 huge clicking bat skeleton that follows Evelyn's elk away, NOT yet killed | [Balcony skeletal bat](creatures/skeletal-bat-balcony.md) |
-| S3E10 actual Snake Island warrior joins next-morning operation after Krandal's Hissia aboleth lead | [Nopa Ropa](characters/nopa-ropa.md) |
-| S3E10 ritual reassembles Chad Brad's *animated skeletal body*, not living flesh | [Chad Brad](characters/chad-brad.md) |
-| S3E10 public Guild protest, Zoltar admits divination tracking, Valentine frees Cassius and campaign funded | [Guild public reckoning](places/guild-public-reckoning-s3e10.md) |
-| S3E10 original Loran school guardian plate claimed by Evelyn during hook-horror school attack | [Loran Radiant Armour](items/loran-radiant-armour.md) |
-| S3E10 nine bone-crypt Minotaur Mesa warriors + Chad Brad total ten allies | [Minotaur Mesa bone crypt](places/minotaur-mesa-bone-crypt.md) |
-| S3E10 dawn Pelor gift potato-shaped holy flail with radiant/healing incense | [Devotee's Censer](items/devotees-censer.md) |
-| S3E09 guest blue-green tortle cleric/cartographer of Ptah, Ben surname ASR-provisional | [Barclay Vandergeist/Bendergeist](characters/barclay-vandergeist.md) |
-| S3E09 translucent spectral hand and blue lantern light, name recognized by host but identity unrevealed | [Chance lantern](items/chance-lantern.md) |
-| S3E09 paired switch corridors / cross-linked golems and third grick-head urn in wind chamber | [Right-stair complex](places/right-stair-grick-urn-complex.md) |
-| S3E08 physical old columned hall, cranium-rat psychic prison, second urn and Lance remains | [Black Basilica](places/black-basilica.md) |
-| S3E08 historic Pelor knight, mental witness and preserved tabard/lance | [Radiant Lance](characters/radiant-lance.md) |
-| Collectively speaking cranium rats generating fake projected lives and psychic attacks | [All Rat](creatures/all-rat-cranium-congregation.md) |
-| S3E11 current THREE-URN state: all briefly INSTALLED by trio, then RE-EJECTED by ancient architect as gate ACTUALLY OPENED, party ENTERS and gate CLOSES; post-ejection stow unknown | [Three-urn custody](items/three-urns-triangle-gate.md) |
-| Aboleth vision matched by physical three-recess metal door; **S3E11 ancient architect ACTUALLY opens gate after three jars inserted and ejects urns, then gate closes behind expedition** | [Triangle-gate catacombs](places/triangle-gate-catacombs.md) |
-| Flumph-operated neutral bathhouse and the S3E05 black-sand filtration mission | [Deep Winds Spa](places/deep-winds-spa.md) |
-| Guest Bo Schwartz's halfling bard and newspaper correspondent, holder of C4 licence | [Dumbledwark of Raisinbunch](characters/dumbledwark-of-raisinbunch.md) |
-| Warlock's tome actually stolen from former Cassius office by Dumbledwark | [Stolen tome](items/stolen-warlocks-tome.md) |
-| The guest wood-elf burglar and demolitionist | [Shrugs Manaspoon](characters/shrugs-manaspoon.md) |
-| Koh's wife RESCUED and physically awake in S2E10 | [Anthela Spiros](characters/anthela-spiros.md) |
-| Khalazar's two described psychic forms, unresolved real-world fate | [Khalazar](characters/khalazar.md) |
-| Hereditary Drone, actively sounding from erupted ballroom pit at S2E12 cutoff | [Hereditary Drone](items/hereditary-drone.md) |
-| Dream-recovered red shard, Carrie now uses one to make Koh's detector; S2E11 custody discrepancy persists | [Khalazar red crystal](items/khalazar-red-crystal.md) |
-| Koh's new red-crystal compulsion detector, upgraded to show approximate direction | [Sensory amulet](items/khalazar-sensory-amulet.md) |
-| Divisible glowing pink friendship locator, now worn as rose by Traveler | [Evelyn's friendship ribbon](items/friendship-ribbon.md) |
-| Evelyn's actual romantic visitor and paired battlefield teleporter | [Gentleman Cavalier Traveler](characters/gentleman-cavalier-traveler.md) |
-| Snake Island royal woman, claims Krandal beloved | [Princess Hissia](characters/princess-hissia.md) |
-| Lady Vestal's heart-shaped hilt, now identified as Loran's self-belief-powered +2 sword | [Loran Ilfelkyr's blade](items/vestal-diamond-heart-handle.md) |
-| Kuo-toa hired as Krandal's riverbank gardener | [Glepo Ma](characters/gleepo-ma.md) |
-| Wildfire's family manor and promotion dinner | [Broscale Manor](places/broscale-manor.md) |
-| Guest wood-elf silver-ranked dragon hunter | [Marsh](characters/marsh.md) |
-| Kobold shaman seeking restored authority | [Skoogie](characters/skoogie.md) |
-| Ancient volcanic dragon lair and machinery | [Chath Peak](places/chath-peak.md) |
-| Evelyn's forged golden dragon-fighting weapon | [Dragon Slayer's Longsword](items/dragon-slayer-longsword.md) |
-| Gemholm's captured operations manager / experimental weapon researcher | [Ambermoor](characters/ambermoor.md) |
-| The isolated gem colony and initial slaad outbreak | [Gemholm](places/gemholm.md) |
-| The damaged financier's mansion and its hidden restraint chamber | [Withers Estate](places/withers-estate.md) |
-| The Hooper–Goodwine wedding grounds | [Hooper Estate](places/hooper-estate.md) |
-| The skull-masked visiting illusionist | [The Great Daufante](characters/the-great-daufante.md) |
-| The recovered, untested magical deck | [Deck of Many Things](items/deck-of-many-things.md) |
-| The first party and named people | [Characters](CHARACTERS.md) |
-| Forgotten island expedition | [Snake Island](places/snake-island.md) |
-| Krandal's planted farmland, tentative Spud Buds | [Potato Grove](places/potato-grove.md) |
-| Koh's former criminal associate | [Chuck Abnaz](characters/chuck-abnaz.md) |
-| The city's embattled guildmaster | [Cassius](characters/cassius.md) |
-| Central funding hall and Academy board | [Dungeon Guild Academy](places/dungeon-guild-academy.md) |
-| Monsters, including gricks and Skull Keep's flameskull | [Creatures and monsters](CREATURES_AND_MONSTERS.md) |
-| Guild, town and job sites | [Places](PLACES.md) |
-| Adventuring institutions and setting limits | [World](WORLD.md) |
-| Southwest drinking-water investigation | [Southwestern well](places/southwestern-town-well.md) |
-| Freshwater neighbors of the Delvers | [Kuo-toa lakeshore village](places/kuo-toa-lakeshore-village.md) |
-| Familiar trap complex beneath the eastern lake | [Submerged lake ruins](places/submerged-lake-ruins.md) |
-| Stone-metal defense found beneath the lake | [Ring of Protection](items/ring-of-protection.md) |
-| The city's buried ruins under a sanctuary | [Temple of Pelor](places/temple-of-pelor.md) |
-| Thunderous ancient weapon | [Horn of Blasting](items/horn-of-blasting.md) |
-| Evelyn's once-monthly summoning charm | [Goat of Travail](items/goat-of-travail.md) |
-| Underground hooked hunters | [Hook horrors](creatures/hook-horrors.md) |
-| Living mentor and dead brother | [Buck Broscale / Wildfire](characters/buck-broscale-wildfire.md) |
-| Evelyn's friend | [Margaret Dupayton](characters/margaret-dupayton.md) |
-| Formerly influenced guild fighter | [Broadside](characters/broadside.md) |
-| Researcher behind the interrupted rite | [Marek Gideon](characters/marek-gideon.md) |
-| Captured cleric and ritual witness | [Cheet](characters/cheet.md) |
-| Petrified site of midnight ceremony | [Noble Hollow](places/noble-hollow.md) |
-| Piercer-producing cavern predator | [Noble Hollow roper](creatures/noble-hollow-roper.md) |
-| Ancient mechanism and searching implement | [Wand of Secrets and geared disc](items/wand-of-secrets-and-geared-disc.md) |
-| Recovered light source | [Drift globe](items/drift-globe.md) |
-| Evelyn's enchanted tote | [Bag of Hammer Holding](items/bag-of-hammer-holding.md) |
-| Awakened psychic blade | [Soul Knife / recovered runic hilt](items/runic-sword-hilt.md) |
-| Haunted Withers family estate | [Skull Keep / Enzo Keep](places/skull-keep.md) |
-| Mirror-bound necromancer | [Enzo Vanderbuck Withers](characters/enzo-vanderbuck-withers.md) |
-| Owner/client of Skull Keep | [Alexandre Vanderbuck Withers](characters/alexandre-vanderbuck-withers.md) |
-| Grick-infested sinkhole | [Forest ruins and dungeon](places/grick-sinkhole.md) |
-| Played order and actual cutoff | [Chronology](CHRONOLOGY.md) |
-| Uncertain names, knowledge and custody | [Consistency ledger](CONSISTENCY_LEDGER.md) |
+## Browse the world
 
-[S1E01 dossier](../episodes/S1E01.md) through [S1E12 finale dossier](../episodes/S1E12.md) own first-arc timestamped investigations; [S2E01 premiere](../episodes/S2E01.md) and [S2E02 wedding dossier](../episodes/S2E02.md) and [S2E03 Withers dossier](../episodes/S2E03.md) and [S2E04 completed heist](../episodes/S2E04.md), [S2E05 Brotherhood settlement](../episodes/S2E05.md) and [S2E06 Gemholm investigation](../episodes/S2E06.md) and [S2E07 laboratory and capture](../episodes/S2E07.md) and [S2E08 Chath Peak dragon encounter](../episodes/S2E08.md) and [S2E09 Potatopia / Broscale silver assessment](../episodes/S2E09.md) and [S2E10 Carrie dream rescue](../episodes/S2E10.md) continue the separately documented [Season Two chronicle](../narrative/SEASON_TWO.md). [The Darkest Delvers — The First Arc](../narrative/SEASON_ONE_ARC.md) offers a complete eight-chapter in-universe synthesis while the earlier detailed narratives remain preserved. [First jobs](../narrative/FIRST_JOBS.md) and [The Rise to Bronze](../narrative/THE_RISE_TO_BRONZE.md), and [Skull Keep and the Dawnless Dunes](../narrative/SKULL_KEEP.md), and [The Wells of Atomer](../narrative/THE_WELLS_OF_ATOMER.md) offer connected narrative; the [review queue](../REVIEW_QUEUE.md) owns listening tasks.
+- [Characters](CHARACTERS.md)
+- [Places](PLACES.md)
+- [Creatures and monsters](CREATURES_AND_MONSTERS.md)
+- [Setting and institutions](WORLD.md)
+- [Chronology](CHRONOLOGY.md)
+- [Consistency ledger](CONSISTENCY_LEDGER.md)
 
-[Delvers campaign index](../README.md)
+The [three arc narratives](../narrative/README.md) provide the plot-led reading route. This directory keeps existing subject paths available during consolidation; navigation does not certify every article as fully migrated.
 
-**Presentation:** The [shared world and narrative style](../../project/WORLD_NARRATIVE_STYLE.md#delvers-world-and-narrative) applies throughout Delvers: in-universe subject-focused articles, chronological development and current status last, with research details in footnotes. Navigation indexes, chronology and the consistency ledger retain their functional source metadata.
+## Subject directory
+
+### People
+
+- [Alexandre Vanderbuck Withers — claimant of Skull Keep](characters/alexandre-vanderbuck-withers.md)
+- [Ambermoor — Gemholm operations manager and experimenter](characters/ambermoor.md)
+- [Anathala / Anthela Spiros — Koh's rescued wife](characters/anthela-spiros.md)
+- [Barclay Vandergeist / Bendergeist — guest tortle cleric](characters/barclay-vandergeist.md)
+- [Broadside — the familiar face beneath the armor](characters/broadside.md)
+- [Buck Broscale, called Wildfire — psionic mentor](characters/buck-broscale-wildfire.md)
+- [Carrie Underworld — artificer of the guild](characters/carrie-underworld.md)
+- [Cassius — guildmaster of Atomer](characters/cassius.md)
+- [Chad Brad — cursed skeletal minotaur and Krandal's farm companion](characters/chad-brad.md)
+- [Cheet — a cleric's dangerous curiosity](characters/cheet.md)
+- [Chuck Abnaz — Nasty of the Cloven Brotherhood](characters/chuck-abnaz.md)
+- [Darmah Edstream — Five Emissaries rescue wizard (S3E11)](characters/darmah-edstream.md)
+- [Destroying Angel — centaur diplomatic envoy](characters/destroying-angel.md)
+- [Dumbledwark of Raisinbunch — visiting bard and dungeon correspondent](characters/dumbledwark-of-raisinbunch.md)
+- [Enzo Vanderbuck Withers — the lord in the mirror](characters/enzo-vanderbuck-withers.md)
+- [Evelyn Grinkeeper — paladin](characters/evelyn-grinkeeper.md)
+- [Gentleman Cavalier Traveler — annual visitor to the Material Plane](characters/gentleman-cavalier-traveler.md)
+- [Glepo Ma — kuo-toa riverside farmhand](characters/gleepo-ma.md)
+- [Goggles Granny — visiting elderly catlike alchemist](characters/goggles-granny.md)
+- [Khalazar — the Undying Majesty](characters/khalazar.md)
+- [Koh Spiros — rogue](characters/koh-spiros.md)
+- [Krandal Splenderbelt — cleric](characters/krandal-splenderbelt.md)
+- [Marek Gideon — the researcher at the Noble Hollow](characters/marek-gideon.md)
+- [Margaret Dupayton — Evelyn's confidante](characters/margaret-dupayton.md)
+- [Marsh — silver-ranked wood-elf dragon hunter](characters/marsh.md)
+- [The Masked Mage — watcher of the scions](characters/masked-mage.md)
+- [Nopa Ropa — Snake Island warrior seeking Princess Hissia](characters/nopa-ropa.md)
+- [Penelope “Penny” Spiros — Koh and Anathala/Anthela's daughter](characters/penelope-spiros.md)
+- [Princess Hissia — Snake Island royal visitor](characters/princess-hissia.md)
+- [Radiant Lance — historic Pelor knight, trapped mental witness](characters/radiant-lance.md)
+- [Shaolin Nym / Nim — ancient Dolbluth architect, S3E11](characters/shaolin-nym.md)
+- [Shrugs Manaspoon — guest burglar and demolition specialist](characters/shrugs-manaspoon.md)
+- [Skoogie — exiled kobold shaman of Chath Peak](characters/skoogie.md)
+- [The Great Daufante — illusionist of Teppensteppe Hall](characters/the-great-daufante.md)
+- [Veggie Sticks — guardian of the wooded trail](characters/veggie-sticks.md)
+
+### Places and institutions
+
+- [The Black Basilica — cranium-rat prison and urn chamber](places/black-basilica.md)
+- [The black-slime three-key chamber — Delvers S3E07](places/black-slime-key-chamber.md)
+- [Broscale Manor — Wildfire's dragonborn household in Atomer](places/broscale-manor.md)
+- [Chath Peak — red-dragon mountain](places/chath-peak.md)
+- [Dawnless Dunes — fallen crystal, black pyramid and upper balcony (S3E11)](places/dawnless-dunes-pyramid.md)
+- [Deep Winds Spa — flumph hospitality beneath Atomer](places/deep-winds-spa.md)
+- [Delvers Dungeon Guild — first employment](places/delvers-guild.md)
+- [Dungeon Guild Academy — the Radiant Lance Theatre](places/dungeon-guild-academy.md)
+- [Farm cave — first sealed passage](places/farm-cave.md)
+- [Gemholm — Lake Absul gem-dredging sandbar settlement](places/gemholm.md)
+- [Governor's hall — Bronze Ball and the breached Drone pit](places/governors-hall.md)
+- [Grick-infested sinkhole — ruins and buried dungeon](places/grick-sinkhole.md)
+- [S3E10 — Atomer Guild public reckoning and Cassius's return](places/guild-public-reckoning-s3e10.md)
+- [Hooper Estate — a wedding in the western woods](places/hooper-estate.md)
+- [The kuo-toa lakeshore village](places/kuo-toa-lakeshore-village.md)
+- [Minotaur Mesa bone crypt beneath Noble Hollow](places/minotaur-mesa-bone-crypt.md)
+- [Noble Hollow — the petrified tree](places/noble-hollow.md)
+- [Potato Grove — Krandal's riverside tower](places/potato-grove.md)
+- [Right-stair twin-puzzle and grick wind-chamber complex (Delvers S3E09)](places/right-stair-grick-urn-complex.md)
+- [Skull Keep — Enzo Keep](places/skull-keep.md)
+- [Snake Island — the forgotten fortnight](places/snake-island.md)
+- [The southwestern well — a neighborhood water source](places/southwestern-town-well.md)
+- [Splenderbelt potato farm and rebuilt Delvers tower — final campaign epilogue](places/splenderbelt-farm-delvers-tower.md)
+- [The submerged ruins of the eastern lake](places/submerged-lake-ruins.md)
+- [Pelor's temple — sanctuary over the forgotten ruins](places/temple-of-pelor.md)
+- [The triangle-gate catacombs — hidden beneath Delvers Dungeon Level E](places/triangle-gate-catacombs.md)
+- [Withers Estate — the financial-district mansion](places/withers-estate.md)
+
+### Items and artifacts
+
+- [Bag of Hammer Holding — Margaret's gift](items/bag-of-hammer-holding.md)
+- [Chance — Barclay's lantern spirit](items/chance-lantern.md)
+- [Deck of Many Things — Grandfather Hooper's hidden cards](items/deck-of-many-things.md)
+- [Krandal's potato-headed Devotee's Censer](items/devotees-censer.md)
+- [Dragon Slayer's Longsword — Radiant Lance forge](items/dragon-slayer-longsword.md)
+- [The dried-heart jar — one of three triangle-gate altar objects](items/dried-heart-jar.md)
+- [Drift globe — Koh's recovered light source](items/drift-globe.md)
+- [Evelyn's friendship ribbon — enchanted pink locator](items/friendship-ribbon.md)
+- [Goat of Travail — Evelyn's ivory figurine](items/goat-of-travail.md)
+- [Hereditary Drone — stone music box](items/hereditary-drone.md)
+- [Horn of Blasting — the thunderous ruin relic](items/horn-of-blasting.md)
+- [Khalazar red crystal fragment — dream-recovered shard](items/khalazar-red-crystal.md)
+- [Koh's red-crystal sensory amulet — Khalazar-compulsion detector](items/khalazar-sensory-amulet.md)
+- [Loran Ilfelkyr Radiant Armour — Evelyn's transformation and worn equipment](items/loran-radiant-armour.md)
+- [Ring of Protection — a relic from the flooded ruins](items/ring-of-protection.md)
+- [Soul Knife — the runic hilt from the stone chest](items/runic-sword-hilt.md)
+- [Warlock's tome from Cassius's former office — stolen by Dumbledwark](items/stolen-warlocks-tome.md)
+- [The three urns of the triangle gate — recovered-key inventory and custody](items/three-urns-triangle-gate.md)
+- [Loran Ilfelkyr's transforming sword — Lady Vestal's diamond-heart handle](items/vestal-diamond-heart-handle.md)
+- [Wand of Secrets and the broken geared disc](items/wand-of-secrets-and-geared-disc.md)
+
+### Creatures
+
+- [The All Rat — cranium-rat congregation](creatures/all-rat-cranium-congregation.md)
+- [Flameskull — the restless guardian of Skull Keep](creatures/flameskull.md)
+- [Gricks](creatures/gricks.md)
+- [Hook horrors — hunters of the underground passages](creatures/hook-horrors.md)
+- [The roper of Noble Hollow](creatures/noble-hollow-roper.md)
+- [Skeletal bat with shadow-skin — Dawnless Dunes balcony (S3E11)](creatures/skeletal-bat-balcony.md)
+
+## Research boundary
+
+All 37 campaign entries have dossiers. Research remains ASR-provisional; this editorial pass adds no listening verification. Use [S3E12](../episodes/S3E12.md) for the finale evidence, and the [review queue](../REVIEW_QUEUE.md) for open spelling, custody, source-identity and listening questions. Earlier cutoffs remain valid historical states, even where later outcomes are known.
+
+Separately catalogued bonuses, including the [post-campaign retrospective](../../episodes/BONUS-2021-11-13.md), remain attributed commentary. They do not turn unused encounters into history or establish a campaign sequel. The [pre-cleanup portal](../../research/legacy/2026-10-26/delvers-campaign-cleanup/delvers/world/README.md) preserves the earlier episode-by-episode navigation history.
+
+[Campaign index](../README.md) · [Narrative histories](../narrative/README.md) · [Source inventory](../SOURCE_INVENTORY.md)

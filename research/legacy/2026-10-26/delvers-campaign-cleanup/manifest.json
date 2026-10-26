@@ -1,0 +1,48 @@
+{
+  "date": "2026-10-26",
+  "method": "Exact pre-edit working-copy bytes; .md reading copies rebase inline relative links to their original targets. No source transcripts copied or changed.",
+  "files": [
+    {
+      "path": "delvers/README.md",
+      "original": "research/legacy/2026-10-26/delvers-campaign-cleanup/delvers/README.md.original",
+      "reading_copy": "research/legacy/2026-10-26/delvers-campaign-cleanup/delvers/README.md",
+      "sha256": "8fbfa4b812cf3f8d81585cfcb90c023e191c577d3eb1ff835e11c3c207bd33d7"
+    },
+    {
+      "path": "delvers/DOCUMENTATION_PLAN.md",
+      "original": "research/legacy/2026-10-26/delvers-campaign-cleanup/delvers/DOCUMENTATION_PLAN.md.original",
+      "reading_copy": "research/legacy/2026-10-26/delvers-campaign-cleanup/delvers/DOCUMENTATION_PLAN.md",
+      "sha256": "ab98c4a075b9cebe0a9661d80540be1cedce89e70d2b7471bc557cb6b1ab416d"
+    },
+    {
+      "path": "delvers/REVIEW_QUEUE.md",
+      "original": "research/legacy/2026-10-26/delvers-campaign-cleanup/delvers/REVIEW_QUEUE.md.original",
+      "reading_copy": "research/legacy/2026-10-26/delvers-campaign-cleanup/delvers/REVIEW_QUEUE.md",
+      "sha256": "1433cfb1bfa0d6229a3d75ef6b9640f56c9a6354ea1de9eb27ae49580d28d68d"
+    },
+    {
+      "path": "delvers/narrative/README.md",
+      "original": "research/legacy/2026-10-26/delvers-campaign-cleanup/delvers/narrative/README.md.original",
+      "reading_copy": "research/legacy/2026-10-26/delvers-campaign-cleanup/delvers/narrative/README.md",
+      "sha256": "8978bb864f97d870b43013899ebcf2ed3eaf3373cec74a6b4927cbd5c8d8a1d9"
+    },
+    {
+      "path": "delvers/narrative/SEASON_ONE_ARC.md",
+      "original": "research/legacy/2026-10-26/delvers-campaign-cleanup/delvers/narrative/SEASON_ONE_ARC.md.original",
+      "reading_copy": "research/legacy/2026-10-26/delvers-campaign-cleanup/delvers/narrative/SEASON_ONE_ARC.md",
+      "sha256": "320de3d6776a57f8424b83b429468cabdac0a412368690f63919dd8e8c84deb3"
+    },
+    {
+      "path": "delvers/world/README.md",
+      "original": "research/legacy/2026-10-26/delvers-campaign-cleanup/delvers/world/README.md.original",
+      "reading_copy": "research/legacy/2026-10-26/delvers-campaign-cleanup/delvers/world/README.md",
+      "sha256": "bb15ac0615cd3e5160a29bad8a0bf10bd4e4b91d5c0be76eb960d88701ff1dfd"
+    },
+    {
+      "path": "project/DOCUMENTATION_ARCHITECTURE.md",
+      "original": "research/legacy/2026-10-26/delvers-campaign-cleanup/project/DOCUMENTATION_ARCHITECTURE.md.original",
+      "reading_copy": "research/legacy/2026-10-26/delvers-campaign-cleanup/project/DOCUMENTATION_ARCHITECTURE.md",
+      "sha256": "44fe6a456a9996b1a286e435e7448531a2b35bbb239c83422d5a7b346bdb86ef"
+    }
+  ]
+}

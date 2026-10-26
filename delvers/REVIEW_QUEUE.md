@@ -1,6 +1,15 @@
 # Delvers — source, listening and editorial review queue
 
-**Status 2026-10-26:** **Season 1 complete: S1E01–S1E12 have ASR-provisional text research; S2E00 separately documented as a narrated in-universe cutaway chronologically before the season finale**. S1E12 is the **explicit season-one finale and owner-confirmed end of the first story arc**. Audio verification remains pending. Genuine S1E03 was recovered as three `(corrected)` SRT exports; the older uncorrected S1E03-named SRTs remain **mislabeled copies of S1E04**. No original audio has been listened to. This queue remains independent of Wastes and Inverse.
+**Cross-campaign out-of-game source: [December 2021 cast bonus](../episodes/BONUS-2021-12.md), ~00:07–00:11.** Kyle states he was **not familiar with Pathfinder's Mummy's Mask adventure** when asked about flying pyramids; **Warhammer's Tomb Kings** were a visual/design influence for **Khalazar**. He explains that Season One's **frogfolk bell pants and fishfolk staff** were intended summoning regalia, with **human cultists collecting such items to prevent rival corrupted invocations of Khalazar-associated power**; the subplot did not become prominent in played Delvers. **Creator explanation only**, not a recovered missing played scene, literal Warhammer connection, or proof any ritual succeeded. [ASR comparison](../reports/BONUS_2021-12_ASR_COMPARISON_2026-10-26.md). **Delvers episode research pointer and main story outcomes unchanged.**
+
+
+**Status 2026-10-26:** All **37 main-campaign dossiers** are present with ASR-provisional text research: S1E01–S1E12, S2E00–S2E12 and S3E01–S3E12. S3E12 ends the third arc and the entire played campaign. **No next main-campaign episode is queued.** S2E00 is a narrated Academy cutaway during Season One's kuo-toa operation. Genuine corrected S1E03 is distinct from older mislabeled S1E04 copies. Audio verification remains pending; existing dossiers retain their individual reading and source-identity limits. This queue is independent of Wastes and Inverse.
+
+## Active cleanup and verification
+
+The [cleanup manifest](../project/DELVERS_CLEANUP_MANIFEST.md) tracks editorial work; [chapter maps](../project/DELVERS_NARRATIVE_CHAPTER_MAPS.md) track narrative coverage. Open source/listening issues below remain active unless explicitly resolved. Earlier next-episode instructions under the closed history are dated research checkpoints, not current intake tasks. Separately identified bonus work remains independent of the finished campaign.
+
+Priorities include consequential proper names and identity authority; final invitation wording; vision versus physical history; urn and red-shard custody; rescue headcount; Darmah's condition during escape; and full source identity where a dossier records only local/remote opening-line agreement. These are review leads, not new resolutions. Preserve existing issue IDs and consult the [consistency ledger](world/CONSISTENCY_LEDGER.md) before opening duplicates.
 
 **2021-11-13 POST-DELVERS season/third arc/CAMPAIGN retrospective ASR-researched:** [dossier](../episodes/BONUS-2021-11-13.md) · [full two-ASR report](../reports/BONUS_2021_11_13_ASR_COMPARISON_2026-10-26.md) (848/10,896=**7.78% TEXT** disagreement, not WER). GM explains a possible **iron-golem-based huge Khalazar statue encounter** and alternate **enthralled Delvers/flying pyramid loss**—**NEITHER actually PLAYED**. ACTUAL Koh's stealth/Darmah Spider Climb/Evelyn tube cutting PREVENTED animation. Minotaur assistance hinged on Krandal ONE Persuasion roll; potato censer personal payoff; rare early S1 spectator identification and farm build intentions are GM RETROSPECTIVE only. **Penny/ Penelope** did have some dreams, no established biological Drone immunity; Kyle chose not to negate Koh's earned rescue of wife and daughter, and **Jon explicitly selects LITTLE HOOVES for Penny** as visual reference, not a body already fully shown. Jon's abandoned private alternate Wastes ending is NOT canon. The Wastes return announced with Bo, not actual play within Q&A. **Delvers campaign remains COMPLETE AT S3E12; no main episode follows.** Next separate bonus source December 2021. [Penny profile](world/characters/penelope-spiros.md).
 
@@ -99,7 +108,7 @@
 
 **Remaining specific checks:** `DEL-S1E06-001–009` in [dossier](episodes/S1E06.md): client and necromancer spellings, `Dawnless Dunes` interpretation/handout, holy-water counting, S1E05 equipment pickup, damaged antiques and bonus units, failed adventurers, and audio clock alignment. Old S1E03 mislabeled sources remain flagged separately; do not change source filenames.
 
-## Episode research status — completed and blocked
+## Historical episode research status — superseded checkpoints
 
 | Episode | Coverage and products | Limits |
 | --- | --- | --- |
@@ -128,7 +137,7 @@
 | DEL-PREP-006 | High, at season-two intake | Classify S2E00 — Cassius at the Guild from its full recording | Preserve the existing E00 ID; establish whether it is played material, commentary, introduction or a mixture before adding it to story time |
 | DEL-PREP-007 | Medium, when encountered | Match the Delvers-attributed Khalezaar written spelling lead to its actual referent | The existing register does not establish whether the name denotes a person, place or faction. Do not create an identity from that spelling alone |
 
-The [source inventory](SOURCE_INVENTORY.md) distinguishes all 37 archive episode IDs from **77 SRT exports and 38 inventoried local MP3 copies** after S1E03 recovery; separate duplicate/mislabeled older S1E03 files remain. S1E01–S1E12 season-one text research complete; S2E00 is next for **type classification**. Audio listening/clock validation is still open.
+The [source inventory](SOURCE_INVENTORY.md) distinguishes all 37 archive episode IDs from **77 SRT exports and 38 inventoried local MP3 copies** after S1E03 recovery; separate duplicate/mislabeled older S1E03 files remain. All 37 campaign entries now have text-research dossiers; S2E00 is classified as a narrated in-universe cutaway during the Season One kuo-toa operation. Audio listening/clock validation is still open.
 
 ## Premiere listening and continuity tasks
 
@@ -171,7 +180,7 @@ These times follow **Parakeet SRT clock**, not calibrated MP3 seek positions. Ch
 
 ## Recording progress
 
-After a bounded episode pass, record the campaign-qualified ID, exact input paths, whole-recording versus selected-window coverage, researched cutoff, produced dossier/report, numerical method if measured, remaining uncertainties and **next verified source**. Advance this queue only after that pass is complete.
+After a bounded episode pass, record the campaign-qualified ID, exact input paths, whole-recording versus selected-window coverage, researched cutoff, produced dossier/report, numerical method if measured, remaining uncertainties and **next verified source**. For separately identified bonus or verification work, update this queue only after that pass is complete. Main-campaign intake remains closed at S3E12.
 
 For listening resolutions, also record the absolute recording window/cue IDs, which copy was heard, reviewer/date, old and new interpretation, and changed documents. Mark only the checked window as audio-verified. Keep a stable Delvers issue key when a preparation question becomes an episode-specific continuity or listening task.
 

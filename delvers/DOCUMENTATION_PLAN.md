@@ -1,60 +1,54 @@
 # Delvers — documentation plan
 
-**Completed-campaign planning, 2026-10-26:** The [cleanup plan](../project/DELVERS_CAMPAIGN_CLEANUP_PLAN.md) now proposes the editorial programme for all three completed arcs, especially narrative consolidation and subject-focused world references. The initial-research milestones below retain their dated context; the cleanup plan identifies current instructions that need reconciliation. This addition starts planning, not the bulk rewrite.
+**Current programme, 2026-10-26:** All 37 main-campaign episode dossiers are present, and S3E12 concludes Season Three, the third arc and the entire played Delvers campaign. Work now centers on the [completed-campaign cleanup](../project/DELVERS_CAMPAIGN_CLEANUP_PLAN.md), listening verification and separately identified bonuses. No further main-campaign source is queued.
 
-**Prepared 2026-10-24.** Delvers seasons 1–3 will use the same four editorial layers as Wastes, with independent continuity and a declared spoiler horizon in a footnote on every reference article or narrative page. This plan allocates future paths; it does not claim the uncreated pages below already exist.
-
-**First implementation, 2026-10-24:** [S1E01](episodes/S1E01.md) now has complete dual-ASR research and a [comparison report](../reports/DELVERS_S1E01_ASR_COMPARISON_2026-10-24.md). The [world portal](world/README.md), three PC profiles, guild/cave/globe references, chronology/ledger and [first-job narrative](narrative/FIRST_JOBS.md) contain premiere-supported material. The separate [creatures and monsters index](world/CREATURES_AND_MONSTERS.md) now links notable beings supported by S1E02 and **S1E04**; genuine S1E03 is now recovered and researched from three `(corrected)` transcript exports without claiming species-wide traits or D&D deviations. This remains text research, not audio verification; name questions and premiere MP3/SRT clock alignment remain open. Other proposed categories remain deferred.
+The [pre-cleanup plan](../research/legacy/2026-10-26/delvers-campaign-cleanup/delvers/DOCUMENTATION_PLAN.md) preserves the 2026-10-24 foundation and incremental research milestones, including their original next-episode pointers. Those pointers are historical. The [migration manifest](../project/DELVERS_CLEANUP_MANIFEST.md) owns current cleanup progress.
 
 ## Campaign layers and locations
 
-| Layer | Location | Purpose and creation point |
+| Layer | Location | Purpose |
 | --- | --- | --- |
-| Campaign entry and source register | `delvers/README.md`, `delvers/SOURCE_INVENTORY.md` | Available now: navigation, exact archive identities, source availability and limits |
-| Episode research | `delvers/episodes/S1E01.md`, then the actual season-qualified IDs | Create after a complete bounded recording review; preserve its final cutoff and evidence questions |
-| ASR comparisons | `reports/DELVERS_S1E01_ASR_COMPARISON_YYYY-MM-DD.md` and equivalent verified IDs | Link complete-input metrics, high-risk differences and listening questions from the dossier; qualify by campaign and season |
-| World portal and subject indexes | `delvers/world/README.md`, `CHARACTERS.md`, `PLACES.md`, `WORLD.md` | Begin with sourced people, geography and setting from the first researched episode; add indexes when needed for discovery |
-| Subject profiles | `delvers/world/characters/<slug>.md`, `places/<slug>.md`, `items/<slug>.md`, `factions/<slug>.md` | One substantial source-linked account per subject; multiple indexes may link to it |
-| Additional reference categories | `delvers/world/ANTAGONISTS.md`, `CREATURES_AND_MONSTERS.md`, `ITEMS_AND_ARTIFACTS.md`, `FACTIONS_AND_POWERS.md`, `HISTORICAL_EVENTS.md` | Creatures and monsters index now has a small S1E02/S1E03/S1E04 starter set (S1E03 now recovered); expand other categories only as researched subjects warrant them |
-| Chronology and continuity | `delvers/world/CHRONOLOGY.md`, `delvers/world/CONSISTENCY_LEDGER.md` | Start with the first sourced events/issues; separate archive order, story time, beliefs, later revelations and actual cutoff status |
-| Story-first narrative | `delvers/narrative/README.md`, then descriptively named arc files | Begin when researched scenes support connected prose; keep arcs flexible until their boundaries are demonstrated |
-| Editorial controls | `delvers/REVIEW_QUEUE.md`; future `delvers/DECISIONS.md` | Open source/listening tasks now; add a decision register when Delvers-specific spelling or identity resolutions exist |
-| Shared standards and experiment history | `project/` | Reuse workflow, numbering, editorial guide, page contract and model log; qualify every Delvers entry by campaign and season |
+| Campaign navigation and source register | [Campaign index](README.md), [source inventory](SOURCE_INVENTORY.md) | Reading route, exact archive identities, source availability and limits |
+| Episode research | `delvers/episodes/SxEyy.md` | Evidence maps, actual episode cutoffs and unresolved verification questions |
+| ASR comparisons | Campaign-qualified reports under `reports/` | Complete-input metrics and selected wording checks, with explicit method and coverage limits |
+| World reference | [World portal](world/README.md), subject pages and indexes | One subject-focused account per identity, with source footnotes |
+| Chronology and continuity | [Chronology](world/CHRONOLOGY.md), [consistency ledger](world/CONSISTENCY_LEDGER.md) | Story order, discoveries, claims, custody and unresolved contradictions |
+| Story-first synthesis | [Narrative portal](narrative/README.md) and three primary arc files | Connected accounts of the played story, with historical detailed versions distinguished |
+| Editorial controls | [Review queue](REVIEW_QUEUE.md), [cleanup plan](../project/DELVERS_CAMPAIGN_CLEANUP_PLAN.md), [manifest](../project/DELVERS_CLEANUP_MANIFEST.md) | Open evidence tasks, bounded migration and acceptance evidence |
 
-All Delvers world paths in this table are relative to `delvers/world/` where abbreviated. **World and narrative pages are created only when there is researched content to put in them.** They are not empty templates to be filled from episode titles or another campaign; the S1E01 additions above meet that condition.
+## Completed story boundaries
 
-## First episode and subsequent passes
+- **First arc:** S1E01–S1E12. The narrated **S2E00 Academy cutaway** occurs during the kuo-toa operation, before the first finale; retain its archive identity.
+- **Second arc:** S2E01–S2E12. The Bronze Ball catastrophe ends this arc; its immediate aftermath opens the third.
+- **Third arc:** S3E01–S3E12. Includes the three-month transition, final expedition and one-year epilogue. The closing invitation and unopened letter do not establish a performed wedding or a fourth arc.
 
-1. When Delvers research starts, review **S1E01 — How Much Is Potato** through the final speech/outro, using both exact exports in the [source inventory](SOURCE_INVENTORY.md). Verify matching recording identity and any transcript truncation or advertising offsets.
-2. Establish GM, performers and characters from the actual recording rather than importing Wastes roles. Record the episode type, cast-to-character mapping, starting premise, places, actions, custody changes and final unresolved situation with timestamps and confidence.
-3. Create the source-first dossier and campaign-qualified comparison report. Measure the established complete-export word-token distance, naming the reference denominator; distinguish ASR disagreement from accuracy and keep unlistened wording provisional.
-4. Create only the world pages supported by that episode, using the [shared page contract](../project/WORLD_REFERENCE_PAGE_TEMPLATE.md) with Delvers links. Begin its chronology and continuity issues where evidence warrants them. Keep handout statements attributed and separate from what was actually played.
-5. Add story-first synthesis when enough researched scenes form a useful narrative. Preserve uncertainty and source links without duplicating the dossier in every subject page.
-6. Update the Delvers index and queue with the researched horizon, source status and next verified entry. Log any ASR experiment in the shared model log under an explicit Delvers ID. Run Markdown, relative-link and source-preservation checks before reporting completion.
+The owner-confirmed boundaries support completed-arc consolidation. Chapter maps and prose measurements determine useful subdivisions; do not import Wastes chronology, invent connecting scenes or pad for a numerical target.
 
-## Season and story boundaries
+## Presentation and preservation
 
-**Season One / Arc One research completed 2026-10-25** through [S1E12 finale](episodes/S1E12.md) (dual-ASR provisional), with a new [eight-chapter first-arc narrative](narrative/SEASON_ONE_ARC.md) and the four earlier narrative chapters retained as linked historical drafts. A more ambitious rewrite of those preserved chapters is **optional later editorial consolidation** and must snapshot originals before replacing them. **S2E00 — Cassius at the Guild** is now classified/documented as a **narrated in-universe Academy cutaway** during the Season One **kuo-toa expedition**, despite its S2E00 archive ID and its outro announcing the next week's Season One finale. See [S2E00 dossier](episodes/S2E00.md) and [comparison](../reports/DELVERS_S2E00_ASR_COMPARISON_2026-10-25.md). **[S2E01 — Very Snakey](episodes/S2E01.md) is researched as the first regular Season Two play**, with two-week Snake Island memory discontinuity documented in its [ASR report](../reports/DELVERS_S2E01_ASR_COMPARISON_2026-10-25.md), and an ongoing [Season Two narrative](narrative/SEASON_TWO.md), **not predeclared a completed second arc**. **S2E02 — Why Palor When you Can Pay Later** is documented as the played [Hooper–Goodwine Wight Wedding](episodes/S2E02.md); [ASR comparison](../reports/DELVERS_S2E02_ASR_COMPARISON_2026-10-25.md), ongoing [Season Two narrative](narrative/SEASON_TWO.md). **S2E03 — Pokey Stick Junior researched** ([dossier](episodes/S2E03.md), [report](../reports/DELVERS_S2E03_ASR_COMPARISON_2026-10-25.md)): bulette, newly exposed Withers chamber and covert Cassius-financed heist planning; [Season Two narrative](narrative/SEASON_TWO.md) includes these bounded scenes. **S2E04 — Cover The Faces of Maces now researched** ([dossier](episodes/S2E04.md), [P/Q8 report](../reports/DELVERS_S2E04_ASR_COMPARISON_2026-10-25.md)); completed Withers heist and escape, four elemental guardians, new Koh throwable psychic blades and detailed loot/custody. **Next unresearched S2E05 — Shut up, Fruit Loops!**. Continue to season 3 using its actual IDs. Neither an E00 label nor the final available filename proves episode type, story chronology or fictional closure.
+Follow the [shared style directive](../project/WORLD_NARRATIVE_STYLE.md), [reference template](../project/WORLD_REFERENCE_PAGE_TEMPLATE.md) and [editorial guide](../project/EDITORIAL_GUIDE.md). Narratives remain plot-led. World pages explain their subjects: personality and relationships for biographies; identity and change for places, items, institutions and creatures. Introduce subjects as first encountered, develop relevant phases chronologically and finish with their latest supported condition.
 
-Do not assign one story arc per season in advance, reuse Wastes arc numbers or impose eight chapters on an ongoing story. Once a Delvers arc has ended, follow the shared policy for a coherent consolidation and roughly eight main chapters where meaningful, preserving a linked historical snapshot before a major rewrite.
+Put episode identifiers, exact clocks, source horizons, spelling alternatives and research commentary in complete Markdown footnotes. Preserve in-world uncertainty in the prose. Navigation, chronology and the consistency ledger retain the metadata needed for their purposes. Do not create empty categories or merge identities to satisfy a preferred layout.
 
-## Continuity and provenance contract
+Before substantial rewrites, preserve exact working-copy bytes under `research/legacy/`, hash the originals and provide rebased reading copies. Retain canonical slugs and inbound anchors. The four earlier Season One studies remain historical detailed versions at their established paths until a specific relocation is justified.
 
-- Campaign + season + episode form the source identity. `Delvers S1E01` is not `Wastes E001`, `Inverse S1E01` or `Delvers S2E01`.
-- Every world and narrative article states its researched spoiler horizon in a footnote; navigation and research indexes may retain it in visible metadata. Later handouts, previews, Q&As and episodes cannot silently supply earlier character knowledge.
-- Separate observed/GM-adjudicated action, NPC/character claims, jokes, unchosen plans and later creator commentary. Track item custody, deaths/survival, locations, private knowledge, promises and completed actions.
-- Keep written spelling authority distinct from spoken-word verification and identity matching. The guild guide's in-world bylines do not establish real-world authorship.
-- Keep original SRTs and MP3s unchanged. Private handouts and Discord archives remain local; link to the existing provenance register rather than copying private source material into Git.
-- Use stable subject slugs and a single primary page per subject. Indexes summarize and navigate; dossiers retain the detailed time-coded investigation.
+## Evidence contract
 
-## Completion criteria for the first research slice
+- Delvers, Wastes and Inverse remain independent continuities. Shared names, performers and standards do not connect their worlds.
+- Separate played action, narrated fictional cutaways, testimony, private knowledge, visions, hallucinations, handouts and retrospective commentary. Unchosen plans do not become completed history.
+- Source availability, complete text parsing, independent semantic reading and actual listening are distinct. Existing dossiers record their limits; this cleanup does not upgrade them automatically.
+- Keep original SRT and MP3 files unchanged. Private handouts and Discord archives remain local and retain their provenance boundaries.
+- Retain episode-specific cutoffs even after subsequent episodes resolve them. A subject's last direct observation can precede the campaign finale.
+- Naming authority, spoken-word verification and identity matching are separate questions. Route consequential unresolved claims to the ledger and review queue.
 
-A complete first slice has a full-recording S1E01 dossier, a documented two-export comparison or explicit source limitation, only evidence-supported reference additions, the actual episode cutoff, unresolved listening questions and a verified S1E02 pointer. Narrative coverage is stated honestly if not yet useful. Source availability, text research and audio verification remain separate statuses.
+## Current implementation order
+
+1. Structural inventory and main-prose measurements for every world/narrative page and campaign control document; claim-level horizon and final-state checks remain separate acceptance work.
+2. Reconcile active navigation and research pointers; prepare chapter maps for all three arcs.
+3. Archive and consolidate Season One as the first narrative pilot, checking coverage against dossiers and the four earlier studies.
+4. Apply the accepted approach to the later narratives, then conduct the bounded world pilots before broader rollout.
+5. Cross-check the campaign reading route, chronology, ledger and final states; retain open evidence questions honestly.
+
+Each batch requires preserved originals, meaningful coverage review, footnote/link checks, focused Markdownlint and a scoped whitespace check. The manifest records what has actually passed. No page is accepted merely because it has been rewritten.
 
 [Campaign index](README.md) · [Source inventory](SOURCE_INVENTORY.md) · [Review queue](REVIEW_QUEUE.md)
-
-## Revised world and narrative style (2026-10-24)
-
-The [shared style direction](../project/WORLD_NARRATIVE_STYLE.md#delvers-world-and-narrative) now governs both Delvers layers. World articles introduce subjects as first encountered, trace meaningful changes through local story phases, and end with current status. Biographies emphasize personality, motives, relationships and growth; places, items, institutions and setting studies use their own subject focus. Narratives remain connected, plot-led accounts. Keep episode numbers, timestamps, ASR alternatives and editorial caveats in Markdown footnotes; preserve in-world uncertainty and attributed claims in the prose. Navigation indexes, chronology and the ledger retain their research functions. Do not impose Wastes arc labels, an eight-chapter ending or filler on the ongoing opening narrative.
-
-The [presentation migration record](../reports/DELVERS_STYLE_EXTENSION_2026-10-24.md) covers the existing articles and narrative through S1E02, including verified pre-edit working-copy archives. The first-implementation section above remains a dated S1E01 milestone; [the campaign queue](REVIEW_QUEUE.md) owns current onward research.
