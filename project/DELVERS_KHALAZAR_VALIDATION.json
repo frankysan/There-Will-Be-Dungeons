@@ -1,0 +1,29 @@
+{
+  "date": "2026-10-27",
+  "local_file_and_fragment_links": 1228,
+  "maintained_inbound_links": 21,
+  "former_headings_preserved": 16,
+  "exact_original_hashes": 6,
+  "reading_copy_target_equivalence": 6,
+  "explicit_reading_copy_link_corrections": 0,
+  "protected_hashes": 317,
+  "measurements": [
+    {
+      "path": "delvers/world/characters/khalazar.md",
+      "before_main_words": 2234,
+      "after_main_words": 493,
+      "arc_words": [
+        199,
+        214
+      ],
+      "largest_arc_to_median": 1.036,
+      "footnotes": 10,
+      "anchors": 21
+    }
+  ],
+  "errors": [],
+  "limits": [
+    "No new ASR, audio, remote URL or rendered-site review",
+    "Section dispositions and material-claim review, not sentence-by-sentence audio verification"
+  ]
+}

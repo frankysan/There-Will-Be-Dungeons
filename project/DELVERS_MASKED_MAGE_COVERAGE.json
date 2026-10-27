@@ -1,0 +1,47 @@
+{
+  "date": "2026-10-27",
+  "scope": "Delvers-only Masked Mage; separate structural inventory of all 35 character paths",
+  "headings": [
+    {
+      "path": "delvers/world/characters/masked-mage.md",
+      "old_heading": "The Masked Mage \u2014 watcher of the scions",
+      "old_anchor": "the-masked-mage--watcher-of-the-scions",
+      "target": "Introduction, development, Current status or relevant source note",
+      "disposition": "Native heading or compatibility anchor retained; full original archived"
+    },
+    {
+      "path": "delvers/world/characters/masked-mage.md",
+      "old_heading": "Introduction",
+      "old_anchor": "introduction",
+      "target": "Introduction, development, Current status or relevant source note",
+      "disposition": "Native heading or compatibility anchor retained; full original archived"
+    },
+    {
+      "path": "delvers/world/characters/masked-mage.md",
+      "old_heading": "A warning to Koh",
+      "old_anchor": "a-warning-to-koh",
+      "target": "Introduction, development, Current status or relevant source note",
+      "disposition": "Native heading or compatibility anchor retained; full original archived"
+    },
+    {
+      "path": "delvers/world/characters/masked-mage.md",
+      "old_heading": "Current status",
+      "old_anchor": "current-status",
+      "target": "Introduction, development, Current status or relevant source note",
+      "disposition": "Native heading or compatibility anchor retained; full original archived"
+    }
+  ],
+  "additional_blocks": [],
+  "domains": {
+    "delvers/world/characters/masked-mage.md": "Character: unsettling appearance, unsolicited warning, attributed reputation and concealed motive"
+  },
+  "review": "Complete old profile and complete primary warning paragraph; descriptor/scion/teardrop and mask-context searches across all 37 dossiers. Separate mechanical inventory of 35 pages, not full factual acceptance. No new ASR/audio/sheet/art review.",
+  "critical_boundaries": [
+    "Masked Mage is Carrie-supported descriptor, not verified personal name",
+    "Scion warning/artifact seekers are his testimony, not proved enemy conspiracy",
+    "Ruby/master rank is Carrie testimony, not independently inspected certification",
+    "No identity/affiliation/link to other masked people or other campaigns inferred",
+    "Departure observed, no later directly played return established in descriptor search",
+    "Khalazar still requires migration; structured presentation of other pages is not full-world factual acceptance"
+  ]
+}

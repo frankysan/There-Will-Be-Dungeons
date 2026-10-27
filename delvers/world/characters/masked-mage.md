@@ -2,18 +2,22 @@
 
 ## Introduction
 
-A tall figure in white robes and a great broad-brimmed, crooked hat watches the Delvers' guild hall from beneath a pale mask bearing a single golden teardrop. His voice has the scrape of long years and hard breathing. Even when he stands still, the grandeur of his clothes and the impossibility of reading his expression make him an uncomfortable presence.[^appearance]
+The Masked Mage is a tall, white-robed figure who watches the Delvers' Guild hall beneath a broad, crooked hat. A golden teardrop marks his pale mask. His rasping voice and labored breathing suggest age, while his concealed face gives Koh little means of reading the stranger's intentions.[^appearance]
 
-## A warning to Koh
+## Development by arc
 
-The mage sees Koh Spiros call a cyan blade from an ancient hilt and approaches him without invitation. He names Koh a **scion**, warns that powers of the mind are awakening in others and speaks of people searching for artifacts that make them stronger. He suggests that those who discover one relic will seek further ones. His warnings carry urgency, but he offers little explanation before vanishing through the guild door.
+<a id="a-warning-to-koh"></a>
 
-Carrie Underworld knows him as **the Masked Mage**, a strange, respected adventurer of **Ruby/master rank**. She does not say who he is beneath the mask. His knowledge of scions may be considerable, but neither his motives nor the existence and aims of the people he describes have been demonstrated to the company. For Koh, he remains a sign that the new blade has drawn attention he did not intend.[^warning]
+### Arc One — Knowledge offered without explanation
+
+When Koh calls a cyan blade from an ancient hilt, the mage approaches uninvited and calls him a scion. He warns that others with awakening powers of the mind seek artifacts to increase their strength. Finding one relic, he suggests, leads to the pursuit of more. His urgency makes the encounter unsettling, but he leaves before explaining whom he means or what he wants from Koh.[^warning]
+
+Carrie identifies him as a respected adventurer of Ruby standing. Her account lends weight to the warning without revealing the person behind it. He has recognized something in Koh's new power, yet offers neither a clear allegiance nor a relationship Koh can rely upon.[^reputation]
 
 ## Current status
 
-The Masked Mage has left the guild after warning Koh about scions and growing psychic power. His identity, affiliations, whereabouts, and possible interest in the Soul Knife remain unknown. He has **not attacked, recruited, pursued or threatened the party directly** beyond his unsettling words, and must not yet be classified as a proven antagonist.[^status]
+The mage has left the Guild. His identity, whereabouts and purpose in warning Koh remain unknown.[^reputation]
 
-[^appearance]: [Delvers S1E05 dossier](../../episodes/S1E05.md), ~00:28–00:32. Working descriptor `Masked Mage` supported by Carrie. Gold-teardrop mask and white hat described in played scene, ASR-only.
-[^warning]: [S1E05](../../episodes/S1E05.md), ~00:29–00:34. `Scion` and artifact-seekers are the mage's words; Carrie gives Ruby/master standing as guild lore. Unknown motives remain unresolved.
-[^status]: [S1E05](../../episodes/S1E05.md), immediate exit after speaking. No later in-scene intervention. Do not infer common continuity with other campaigns' mysterious mages.
+[^appearance]: [S1E05](../../episodes/S1E05.md), ~00:28–00:34. Tall figure, white robes/large broad-brimmed crooked hat, pale mask with golden teardrop, rasp and hard breathing are text-supported descriptions, not an independently verified age or identity. No original audio, written sheet or art inspected. Masked Mage is Carrie's descriptor, not a confirmed personal name.
+[^warning]: [S1E05](../../episodes/S1E05.md), same encounter. Scion and artifact-seeker claims are his words, not a demonstrated enemy organization or proof that all psychic powers, cultists, hag magic and Guild authorities form one conspiracy. Koh's blade manifestation precedes the approach. No complete psionic doctrine, artifact catalogue or verified motive is supplied.
+[^reputation]: [S1E05](../../episodes/S1E05.md): Ruby/master-level rank and respect come from Carrie as Guild lore. Her suggestion of Buck Broscale's psi-warrior interests does not identify him as the masked stranger or prove shared membership. Departure through the Guild door is observed; descriptor, scion, teardrop and mask-context searches across all 37 dossiers establish no later direct return. Neither an alliance nor antagonist status is proved by this warning. Other masked figures and campaigns remain separate. No fresh ASR comparison or listening occurred.

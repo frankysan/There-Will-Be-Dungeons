@@ -73,6 +73,10 @@ The [triangle-gate catacombs](places/triangle-gate-catacombs.md) and [Black Basi
 
 [Shrugs Manaspoon](characters/shrugs-manaspoon.md) and [Shaolin Nym](characters/shaolin-nym.md) have a [character checkpoint](../../reports/DELVERS_SHRUGS_SHAOLIN_2026-10-27.md) covering technical skill, imperfect concealment, ancient allegiance, final aid and their distinct departures.
 
+[Chuck Abnaz](characters/chuck-abnaz.md) and [Ambermoor](characters/ambermoor.md) have a [character checkpoint](../../reports/DELVERS_CHUCK_AMBERMOOR_2026-10-27.md) covering family leverage, continued criminal business, experimental ambition and captive status.
+
+The [Masked Mage](characters/masked-mage.md) has a [character checkpoint](../../reports/DELVERS_MASKED_MAGE_2026-10-27.md) preserving his warning, attributed standing and unresolved identity. [Khalazar](characters/khalazar.md) has a [biography checkpoint](../../reports/DELVERS_KHALAZAR_2026-10-27.md) separating his shade, attributed history, physical body and final destruction. The refreshed [character inventory](../../project/DELVERS_CHARACTER_INVENTORY.json) now records all 35 paths with the expected presentation structure. The character-wide coverage audit remains pending; structural checks do not certify factual completeness.
+
 All 27 current place-directory paths now have bounded editorial dispositions: 25 place/institution accounts, one historical event study and one compatibility route. The [place audit](../../reports/DELVERS_PLACE_AUDIT_2026-10-26.md) and [disposition register](../../project/DELVERS_PLACE_DISPOSITIONS.json) distinguish direct site observations from later reports and outcomes. This does not certify complete factual coverage or finish the remaining world domains.
 
 ## Subject directory

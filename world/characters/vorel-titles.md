@@ -1,6 +1,10 @@
 # Vorel — titles and epithets register
 
-**Type:** Source-indexed supporting register for [Vorel](vorel.md), deliberately separated from the main character biography. **Evidence:** ASR-provisional, with source windows, name variants and social standing preserved. **Spoilers:** Through Wastes S3E09; Q&As are retrospective, not played conferrals. [Characters](../CHARACTERS.md) · [World portal](../README.md).
+**Type:** Source-indexed supporting register for [Vorel](vorel.md), deliberately separated from the main character biography. **Evidence:** ASR-provisional, with source windows, name variants and social standing preserved. **Spoilers:** Through Wastes S3E10; Q&As are retrospective, not played conferrals. [Characters](../CHARACTERS.md) · [World portal](../README.md).
+
+## S3E10 — no newly spoken Vorel epithet despite “God Killer” remark
+
+In [played S3E10](../../episodes/S3E10.md), Vorel tests/turns off the chest **fire shield** associated with his Eye at ~00:24–00:26, taps his chest and says **“there goes the God Killer.”** The line refers to the already defeated GROXL and/or prior [S3E09 “Slayer of the God Killer”](../../episodes/S3E09.md) opponent-conferred epithet, **NOT the first introduction of another formal personal title, re-award, or certificate of actual permanent cosmic God death**. Vorel fights with the already named **CHROME'S BANE**, breaks Nash's locked childhood cell door and wounds three bowed samurai, and no other freshly uttered new title qualifies. **No new register ID/title added for S3E10.** [S3E10 P/Q](../../reports/WASTES_S3E10_ASR_COMPARISON_2026-10-27.md), audio unchecked.
 
 ## BONUS-2022-07 — listener requests complete list; NOT actually recited
 

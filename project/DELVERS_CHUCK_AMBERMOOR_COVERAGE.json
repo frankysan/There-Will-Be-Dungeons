@@ -1,0 +1,118 @@
+{
+  "date": "2026-10-27",
+  "scope": "Delvers-only criminal broker and captive experimenter",
+  "headings": [
+    {
+      "path": "delvers/world/characters/chuck-abnaz.md",
+      "old_heading": "Chuck Abnaz \u2014 Nasty of the Cloven Brotherhood",
+      "old_anchor": "chuck-abnaz--nasty-of-the-cloven-brotherhood",
+      "target": "Introduction, development, Current status or relevant source note",
+      "disposition": "Native heading or compatibility anchor retained; full original archived"
+    },
+    {
+      "path": "delvers/world/characters/chuck-abnaz.md",
+      "old_heading": "Introduction",
+      "old_anchor": "introduction",
+      "target": "Introduction, development, Current status or relevant source note",
+      "disposition": "Native heading or compatibility anchor retained; full original archived"
+    },
+    {
+      "path": "delvers/world/characters/chuck-abnaz.md",
+      "old_heading": "The debt",
+      "old_anchor": "the-debt",
+      "target": "Introduction, development, Current status or relevant source note",
+      "disposition": "Native heading or compatibility anchor retained; full original archived"
+    },
+    {
+      "path": "delvers/world/characters/chuck-abnaz.md",
+      "old_heading": "A financier in disguise",
+      "old_anchor": "a-financier-in-disguise",
+      "target": "Introduction, development, Current status or relevant source note",
+      "disposition": "Native heading or compatibility anchor retained; full original archived"
+    },
+    {
+      "path": "delvers/world/characters/chuck-abnaz.md",
+      "old_heading": "Current status",
+      "old_anchor": "current-status",
+      "target": "Introduction, development, Current status or relevant source note",
+      "disposition": "Native heading or compatibility anchor retained; full original archived"
+    },
+    {
+      "path": "delvers/world/characters/ambermoor.md",
+      "old_heading": "Ambermoor \u2014 Gemholm operations manager and experimenter",
+      "old_anchor": "ambermoor--gemholm-operations-manager-and-experimenter",
+      "target": "Introduction, development, Current status or relevant source note",
+      "disposition": "Native heading or compatibility anchor retained; full original archived"
+    },
+    {
+      "path": "delvers/world/characters/ambermoor.md",
+      "old_heading": "The prosperous man on the sandbar",
+      "old_anchor": "the-prosperous-man-on-the-sandbar",
+      "target": "Introduction, development, Current status or relevant source note",
+      "disposition": "Native heading or compatibility anchor retained; full original archived"
+    },
+    {
+      "path": "delvers/world/characters/ambermoor.md",
+      "old_heading": "The private diaries",
+      "old_anchor": "the-private-diaries",
+      "target": "Introduction, development, Current status or relevant source note",
+      "disposition": "Native heading or compatibility anchor retained; full original archived"
+    },
+    {
+      "path": "delvers/world/characters/ambermoor.md",
+      "old_heading": "Beneath the lake",
+      "old_anchor": "beneath-the-lake",
+      "target": "Introduction, development, Current status or relevant source note",
+      "disposition": "Native heading or compatibility anchor retained; full original archived"
+    },
+    {
+      "path": "delvers/world/characters/ambermoor.md",
+      "old_heading": "Later S2E08 continuity bridge (not an in-scene handoff)",
+      "old_anchor": "later-s2e08-continuity-bridge-not-an-in-scene-handoff",
+      "target": "Introduction, development, Current status or relevant source note",
+      "disposition": "Native heading or compatibility anchor retained; full original archived"
+    },
+    {
+      "path": "delvers/world/characters/ambermoor.md",
+      "old_heading": "Earlier S2E07 cutoff (retained historically)",
+      "old_anchor": "earlier-s2e07-cutoff-retained-historically",
+      "target": "Introduction, development, Current status or relevant source note",
+      "disposition": "Native heading or compatibility anchor retained; full original archived"
+    }
+  ],
+  "additional_blocks": [
+    {
+      "path": "delvers/world/characters/ambermoor.md",
+      "old_block": "Opening working-name/campaign/source metadata",
+      "target": "Introduction and source notes"
+    },
+    {
+      "path": "delvers/world/characters/chuck-abnaz.md",
+      "old_block": "Unreferenced old status footnote and inline heist-cutoff research apparatus",
+      "target": "Updated chronological development, Current status and referenced notes"
+    }
+  ],
+  "domains": {
+    "delvers/world/characters/chuck-abnaz.md": "Character: family leverage, claimed belonging, profit, negotiation, criminal coordination and conditional continued dealings",
+    "delvers/world/characters/ambermoor.md": "Character: privileged management, experimental ambition, dehumanizing journal claims, witnessed practice and loss of control"
+  },
+  "review": "Both complete profiles; names/aliases searched across all 37 dossiers; selected complete family/debt, recruitment/heist, settlement, reported visits and later fencing paragraphs, colony/diaries/laboratory/capture/exit and retrospective custody reviewed; no new ASR/audio/sheet/art/map review",
+  "critical_boundaries": [
+    "Chuck/Nasty spellings provisional and campaign-qualified",
+    "Medical bills paid but no witnessed harm/abuse of family or proof all reported visits directly observed",
+    "750-gold claim and promised cancellation not a separately audited debt release",
+    "Cassius investigative motive differs from Chuck profit motive; heist not proof of all Withers allegations",
+    "Settlement performed for three Delvers, jade 23 stolen/21 unbagged discrepancy remains",
+    "Koh receives pan flute, no guaranteed unlimited ability or use inferred",
+    "Later forty-percent fencing terms/10000-gold estimate not audited net cash paid",
+    "Kingdom departure and family-contact restraint are promises, not completed events or permanent reunion",
+    "Ambermoor/Ambermore, Drizzle, specimen names remain provisional; no Wastes identity import",
+    "Diaries read aloud, original images uninspected; symptoms/drinks and self-incriminating claims not proof of every infection, mechanism or sale",
+    "Black specimen label supports Neko identification, not full past personhood history or universal transformed-species rule",
+    "Direct extraction and nonlethal capture witnessed, not killed researcher or successful cure",
+    "Neko killed in tank after restoration fails, not a prolonged battle or interview",
+    "S2E07 farm cutoff distinct from S2E08 offscreen Guild-cell delivery/Zone of Truth oversight",
+    "No performed confession, trial/verdict, release, reward, exact case recipient or later fate invented",
+    "Two adult slaadi missing, island safety unresolved and original chaos stones powdered/dissolved, not recovered intact"
+  ]
+}

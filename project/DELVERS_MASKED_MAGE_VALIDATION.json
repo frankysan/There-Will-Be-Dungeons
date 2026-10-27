@@ -1,0 +1,59 @@
+{
+  "date": "2026-10-27",
+  "local_file_and_fragment_links": 1154,
+  "maintained_inbound_links": 18,
+  "former_headings_preserved": 4,
+  "exact_original_hashes": 5,
+  "reading_copy_target_equivalence": 5,
+  "explicit_reading_copy_link_corrections": 0,
+  "protected_hashes": 314,
+  "measurements": [
+    {
+      "path": "delvers/world/characters/masked-mage.md",
+      "before_main_words": 255,
+      "after_main_words": 173,
+      "arc_words": [
+        110
+      ],
+      "largest_arc_to_median": 1.0,
+      "footnotes": 3,
+      "anchors": 6
+    }
+  ],
+  "errors": [],
+  "limits": [
+    "No new ASR, audio, remote URL or rendered-site review",
+    "Section dispositions and material-claim review, not sentence-by-sentence audio verification"
+  ],
+  "markdownlint": {
+    "maintained_files": 6,
+    "violations": 0
+  },
+  "whitespace": {
+    "scoped_git_diff_check": "passed",
+    "direct_new_file_check": "passed"
+  },
+  "manual_readback": "Complete persisted mage biography compared with archived original and primary warning paragraph; character focus, rank attribution, testimony, identity separation and final uncertainty checked. Other pages received structural inventory only. No audio or rendered-site verification.",
+  "protected_groups": {
+    "campaign_files": 216,
+    "prior_batch_artifacts": 88,
+    "bonus_provenance_documents": 10
+  },
+  "preserved_place_register": {
+    "pages": 27,
+    "matching_page_hashes": 27,
+    "register_protected": true
+  },
+  "character_inventory": {
+    "paths": 35,
+    "matching_hashes": 35,
+    "other_character_pages_unchanged": 34,
+    "presentation_structure_ready_for_audit": 34,
+    "requires_migration": [
+      "delvers/world/characters/khalazar.md"
+    ],
+    "inventory_sha256": "9f4730cf3db1c100dce957012cc7f2b2fca245d5ebcb03f1645fb6efa3f4e9da",
+    "factual_acceptance": "Not certified by structural inventory"
+  },
+  "working_tree_context": "Earlier Delvers changes and unrelated Wastes work preserved; no commit or push by this task."
+}

@@ -718,3 +718,51 @@ Nym's emperor/outcast history and blood requirement begin as testimony, without 
 Both complete profiles were read; aliases searched across all 37 dossiers; selected complete recruitment/heist/escape, warehouse departure/unbagging/settlement, retrospective fire attribution, gate encounter and final ritual-vision paragraphs reviewed. No fresh ASR/audio, original sheet/map or art review occurred. No evidence issue was closed, source dossier/media changed or unrelated identity merged. No commit or push was performed by this task.
 
 Next examine Chuck Abnaz and Ambermoor, then continue remaining supporting-character and artifact batches. Full-world acceptance and final integration remain pending.
+
+### Thirty-third implementation checkpoint — Chuck Abnaz and Ambermoor
+
+**2026-10-27: Two character biographies migrated and locally validated.** [Character report](../reports/DELVERS_CHUCK_AMBERMOOR_2026-10-27.md) · [Coverage ledger](DELVERS_CHUCK_AMBERMOOR_COVERAGE.json) · [Pre-edit archive](../research/legacy/2026-10-27/delvers-chuck-ambermoor/README.md) · [Validation](DELVERS_CHUCK_AMBERMOOR_VALIDATION.json).
+
+Both paths/titles are preserved. Each biography begins with Introduction, develops relevant character arcs and ends at Current status. Chuck's paid medical help, coercive belonging, heist coordination, settlement and later fencing bargain follow the changing connection with Koh. Ambermoor's privileged management, self-incriminating ambitions, directly witnessed extraction, capture and retrospective Guild custody remain distinct from a whole-colony plot recap. Main prose changes from 552 to 335 words for Chuck and 734 to 286 for Ambermoor. Chuck's developed phases contain 212 and 49 words; Ambermoor's arc contains 224, without padding limited later participation.
+
+All eleven former headings, the opening Ambermoor metadata and Chuck's orphaned old status note are accounted for. Six exact originals and equivalent rebased reading copies are archived without link corrections. All 310 protected hashes match: 215 campaign files, 85 previous batch artifacts and ten bonus provenance documents. All four place-audit artifacts and all 27 place-register page hashes remain unchanged.
+
+Chuck's medical payment is corroborated, not proof of physical abuse. Claimed debt cancellation is not separately audited. The heist's later settlement is performed but shares/retained wealth differ, and 23 stolen versus 21 unbagged jade objects remains unresolved. Later visits are family testimony. S3E01 supplies actual bank-loot presentation and a negotiated fencing arrangement, not an audited net payment, permanent rejoining or performed Kingdom departure. Family-contact limits remain negotiated, not verified compliance.
+
+Ambermoor's diaries are narrated documents; original pages remain uninspected, and not every transmission, transformation or proposed buyer is verified. His fluid extraction and breathing nonlethal captivity are witnessed. The contained Neko specimen is killed after restoration makes no visible change; no universal cure rule is inferred. S2E07 farm custody is followed by S2E08 offscreen Guild-cell delivery/truth-magic oversight. No performed interrogation/confession, verdict, release, exact reagent recipient or later personal fate is invented. Two adult slaadi and island recovery remain unresolved.
+
+Both complete profiles were read; names/aliases searched across all 37 dossiers; selected complete family/debt, recruitment/heist, settlement, reported visits and later fencing paragraphs, colony/diaries/laboratory/capture/exit and retrospective custody reviewed. No fresh ASR/audio, original sheet/map or art review occurred. No evidence issue was closed, source dossier/media changed or unrelated identity merged. No commit or push was performed by this task.
+
+Next examine the masked mage, then audit character coverage and continue the remaining world domains. Full-world acceptance and final integration remain pending.
+
+### Thirty-fourth implementation checkpoint — Masked Mage and character inventory
+
+**2026-10-27: One character biography migrated and locally validated; all 35 current character paths inventoried structurally.** [Report](../reports/DELVERS_MASKED_MAGE_2026-10-27.md) · [Coverage ledger](DELVERS_MASKED_MAGE_COVERAGE.json) · [Pre-edit archive](../research/legacy/2026-10-27/delvers-masked-mage/README.md) · [Validation](DELVERS_MASKED_MAGE_VALIDATION.json) · [Character inventory](DELVERS_CHARACTER_INVENTORY.json).
+
+The mage's path/title remain unchanged. Introduction, a proportionate chronological character section and final Current status follow his unsettling appearance, unsolicited warning, attributed reputation and unexplained departure. Scion/artifact-seeker claims remain testimony, Ruby/master rank comes from Carrie, and neither identity nor an enemy conspiracy is invented. Other masked figures and campaigns remain separate. Main prose changes from 255 to 173 words, with a 110-word developed arc proportionate to the brief appearance.
+
+All four former headings are accounted for. Five exact originals and equivalent rebased copies preserve the mage page, world portal, plan, living manifest and chapter maps, without link corrections. All 314 protected hashes match: 216 campaign files, 88 previous batch artifacts and ten bonus provenance documents. All four place-audit artifacts and all 27 place-register page hashes remain unchanged.
+
+The new inventory records path hashes, headings, note consistency, source-dossier links and coverage mentions for all 35 character pages. Thirty-four have Introduction, chronological development and final Current status with no detected visible research apparatus; Khalazar retains accumulated episode/bonus sections and requires migration. These are mechanical presentation dispositions, not accepted source horizons, complete factual review or a finding that every character migration is finished. The inventory is a fourth checkpoint artifact alongside coverage, validation and report and must be preserved in subsequent work.
+
+The complete old mage profile and complete primary warning paragraph were read; descriptor, scion, teardrop and mask-context searches covered all 37 dossiers. The other character pages received mechanical inventory, not new full factual reviews. No fresh ASR/audio, sheet/art/map inspection or evidence-issue closure occurred. No source dossier/media or unrelated identity was changed. No commit or push was performed by this task.
+
+Next migrate Khalazar, then audit character coverage and continue the remaining world domains. Full-world acceptance and final integration remain pending.
+
+### Thirty-fifth implementation checkpoint — Khalazar
+
+**2026-10-27: Khalazar's biography migrated and locally validated; character inventory refreshed.** [Report](../reports/DELVERS_KHALAZAR_2026-10-27.md) · [Coverage ledger](DELVERS_KHALAZAR_COVERAGE.json) · [Pre-edit archive](../research/legacy/2026-10-27/delvers-khalazar/README.md) · [Validation](DELVERS_KHALAZAR_VALIDATION.json) · [Character inventory](DELVERS_CHARACTER_INVENTORY.json).
+
+The existing path/title are retained. Introduction, two substantive arcs and final Current status follow imperial entitlement, psychic coercion, the defeated shade, surviving reach, dependence on organs/machinery and final bodily destruction. Translated history, interested testimony, shared visions, creator design/mechanics and unplayed alternatives remain distinct in referenced notes. The completed campaign ending supersedes the former contradictory early-cutoff statement that mortality was unestablished.
+
+All sixteen former headings and the unheaded working-name/cutoff/shard blocks are accounted for. Six exact originals preserve five Markdown working copies plus the prior character inventory. Markdown reading copies rebase equivalent links; the JSON reading copy preserves its data. All 317 protected hashes match: 216 campaign files, 91 previous batch artifacts and ten bonus provenance documents. All four place-audit artifacts and all 27 place-register page hashes remain unchanged.
+
+S2E10 defeats a shade and frees Anthela, not Khalazar's body. Possession at the Ball does not establish willing allegiance or put his body there. Historical and restored-city visions do not independently authenticate history or physically rebuild current Atomer. Blood ancestry remains a hypothesis; organ placement is performed, a separate wrist-blood application is not explicit. The apparent final strike precedes the trio's joint real-heart attack, actual disintegration and collapsing pyramid. All ten minotaurs become inert bones; the land heals without proving universal monster annihilation.
+
+Audience-only Mummy Lord mechanics are not character knowledge or proof of corporeal biology. Creator drow/pale-elf direction is not every generic species trait. Iron-golem combat, evil lieutenants, flying-pyramid empire and vampire alliance remain unplayed alternatives; the statue is destroyed inactive and the actual ending remains victory over Khalazar.
+
+The prior 34-ready/one-pending inventory is archived. All 35 current character paths now have the expected presentation structure, matching notes and no detected visible processing apparatus. Only Khalazar changed; the other 34 character hashes match. This is structural readiness for the coverage audit, not complete factual acceptance. The inventory remains a fourth artifact to preserve alongside coverage, validation and report.
+
+The complete old profile and selected complete source paragraphs across textual leads, captivity, dream fight/escape, shade clarification, possession, blood/organ claims, pyramid/body and final rite/vision/fight/aftermath were read, plus three bounded bonus passages. Name/title searches covered all 37 dossiers. No fresh ASR/audio, original sheet/map/art or full-campaign rereading occurred. No evidence issue was closed, source dossier/media changed or unrelated identity merged. No commit or push was performed by this task.
+
+Next perform the character coverage audit, then continue remaining world domains. Full-world acceptance and final integration remain pending.
