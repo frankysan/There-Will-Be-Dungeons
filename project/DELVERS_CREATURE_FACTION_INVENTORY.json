@@ -1,6 +1,6 @@
 {
   "date": "2026-10-27",
-  "scope": "Six creature-directory paths, seven index rows and fourteen institutional/reference units; bounded creature updates and partial WORLD civic/faith/community synthesis recorded",
+  "scope": "Six creature-directory paths, seven index rows and fourteen institutional/reference units; bounded creature and partial WORLD civic/faith/community/infrastructure synthesis recorded",
   "baseline": {
     "branch": "main",
     "head": "5bd18ad",
@@ -17,8 +17,8 @@
     "creature_directory_paths": 6,
     "compatibility_routes": 1,
     "new_character_profiles": 1,
-    "world_sections_reconciled": 10,
-    "institutional_world_syntheses": 9
+    "world_sections_reconciled": 16,
+    "institutional_world_syntheses": 10
   },
   "review_limits": [
     "Six full current creature pages and full nine-row index read",
@@ -32,7 +32,8 @@
     "Subsequent grick/hook-horror update: full old/new pages and selected dossier passages; other four directory rows, WORLD context and fourteen institutional units remain unchanged.",
     "Subsequent flameskull/roper polish: two full pages and selected source/context readbacks; other four directory rows, WORLD context and fourteen institutional units unchanged. Bat pilot retained; index-only candidates not thereby certified.",
     "Subsequent WORLD civic pass: new Introduction and five reconciled sections; fifteen other section bodies unchanged. Four institutional rows record synthesis only, not a full faction or canonical-page re-audit.",
-    "Subsequent faith/community pass: three existing WORLD sections plus one new supported section; eighteen other bodies unchanged, including six civic sections. Five more institutional rows record WORLD synthesis only; twelve historical sections and five contexts remain pending."
+    "Subsequent faith/community pass: three existing WORLD sections plus one new supported section; eighteen other bodies unchanged, including six civic sections. Five more institutional rows record WORLD synthesis only; twelve historical sections and five contexts remain pending.",
+    "Subsequent infrastructure pass: six WORLD sections and companies context only; sixteen other section bodies and thirteen other institutional rows unchanged. Six historical sections/four institutional contexts remain pending."
   ],
   "creature_profiles": [
     {
@@ -923,7 +924,7 @@
   ],
   "world_context": {
     "path": "delvers/world/WORLD.md",
-    "sha256": "9d250c881c04fd06043ec3aca22241fd131a4f27e59511636bbd944a510b8640",
+    "sha256": "714886a2fe93178f605587f60fc3c184f860e3c15422619bdb06eea85179d41b",
     "sections": [
       "Introduction",
       "Magic, craft and the wider kingdom",
@@ -933,9 +934,9 @@
       "Journalism and the dungeon economy",
       "Caverns and the Underdark",
       "Devotion and the strength of the living",
-      "The forest ruins and the limits of rank",
+      "Forest ruins and old defenses",
       "Service and a wider city",
-      "A shadow beneath the lake",
+      "Enzo Keep and the warning below",
       "A city listening to its wells",
       "The buried city and its forgotten sounds",
       "A living shore and a submerged faith",
@@ -955,18 +956,18 @@
       "The Guild's faraway rulers",
       "Silver City and licensed exploration",
       "Journalism and the dungeon economy",
+      "Caverns and the Underdark",
       "Devotion and the strength of the living",
+      "Forest ruins and old defenses",
+      "Service and a wider city",
+      "Enzo Keep and the warning below",
+      "A city listening to its wells",
+      "The buried city and its forgotten sounds",
       "A living shore and a submerged faith",
       "Hospitality and alliance below",
       "Current status"
     ],
     "not_fully_reviewed_sections": [
-      "Caverns and the Underdark",
-      "The forest ruins and the limits of rank",
-      "Service and a wider city",
-      "A shadow beneath the lake",
-      "A city listening to its wells",
-      "The buried city and its forgotten sounds",
       "The collectors from the marsh",
       "The broken rite at Noble Hollow",
       "The fortnight no one remembers",
@@ -975,10 +976,10 @@
       "The vault beneath Withers"
     ],
     "findings": [
-      "Ten current sections have bounded thematic synthesis; twelve historical section bodies remain queued",
-      "Creator technological-design commentary retained in footnotes rather than an in-world calendar claim",
-      "Remaining quest recaps/early horizons still need thematic synthesis through existing subject routes",
-      "Five remaining institutional contexts are companies, school, Cloven Brotherhood, Noble Hollow research circle and Gemholm management"
+      "Sixteen current sections have bounded synthesis; six historical section bodies remain queued",
+      "Local closure, physical traversed routes and attributed historical accounts remain distinct",
+      "Remaining scenes concern marsh collectors, Noble Hollow rite, missing fortnight, wedding and Withers mansion",
+      "Four remaining institutional contexts are school, Cloven Brotherhood, Noble Hollow research circle and Gemholm management"
     ],
     "bounded_reconciliations": [
       {
@@ -1104,13 +1105,86 @@
             "Existing canonical institutional/subject routes retained; no new faction scaffolding"
           ]
         }
+      },
+      {
+        "date": "2026-10-27",
+        "report": "reports/DELVERS_BURIED_INFRASTRUCTURE_2026-10-27.md",
+        "scope": "Six infrastructure/history/company sections only",
+        "previous_inventory_context": {
+          "path": "delvers/world/WORLD.md",
+          "sha256": "9d250c881c04fd06043ec3aca22241fd131a4f27e59511636bbd944a510b8640",
+          "sections": [
+            "Introduction",
+            "Magic, craft and the wider kingdom",
+            "Adventuring as organized work",
+            "The Guild's faraway rulers",
+            "Silver City and licensed exploration",
+            "Journalism and the dungeon economy",
+            "Caverns and the Underdark",
+            "Devotion and the strength of the living",
+            "The forest ruins and the limits of rank",
+            "Service and a wider city",
+            "A shadow beneath the lake",
+            "A city listening to its wells",
+            "The buried city and its forgotten sounds",
+            "A living shore and a submerged faith",
+            "Hospitality and alliance below",
+            "The collectors from the marsh",
+            "The broken rite at Noble Hollow",
+            "The fortnight no one remembers",
+            "The wedding protected",
+            "Beneath the financial quarter",
+            "The vault beneath Withers",
+            "Current status"
+          ],
+          "reviewed_sections": [
+            "Introduction",
+            "Magic, craft and the wider kingdom",
+            "Adventuring as organized work",
+            "The Guild's faraway rulers",
+            "Silver City and licensed exploration",
+            "Journalism and the dungeon economy",
+            "Devotion and the strength of the living",
+            "A living shore and a submerged faith",
+            "Hospitality and alliance below",
+            "Current status"
+          ],
+          "not_fully_reviewed_sections": [
+            "Caverns and the Underdark",
+            "The forest ruins and the limits of rank",
+            "Service and a wider city",
+            "A shadow beneath the lake",
+            "A city listening to its wells",
+            "The buried city and its forgotten sounds",
+            "The collectors from the marsh",
+            "The broken rite at Noble Hollow",
+            "The fortnight no one remembers",
+            "The wedding protected",
+            "Beneath the financial quarter",
+            "The vault beneath Withers"
+          ],
+          "findings": [
+            "Ten current sections have bounded thematic synthesis; twelve historical section bodies remain queued",
+            "Creator technological-design commentary retained in footnotes rather than an in-world calendar claim",
+            "Remaining quest recaps/early horizons still need thematic synthesis through existing subject routes",
+            "Five remaining institutional contexts are companies, school, Cloven Brotherhood, Noble Hollow research circle and Gemholm management"
+          ],
+          "last_batch_reviewed_sections": [
+            "Magic, craft and the wider kingdom",
+            "Devotion and the strength of the living",
+            "A living shore and a submerged faith",
+            "Hospitality and alliance below"
+          ]
+        }
       }
     ],
     "last_batch_reviewed_sections": [
-      "Magic, craft and the wider kingdom",
-      "Devotion and the strength of the living",
-      "A living shore and a submerged faith",
-      "Hospitality and alliance below"
+      "Caverns and the Underdark",
+      "Forest ruins and old defenses",
+      "Service and a wider city",
+      "Enzo Keep and the warning below",
+      "A city listening to its wells",
+      "The buried city and its forgotten sounds"
     ]
   },
   "institutional_reference_units": [
@@ -1948,7 +2022,15 @@
           ]
         }
       ],
-      "review_method": "Routing inventory; WORLD/character index and selected institution introductions/status, not complete faction history"
+      "review_method": "Routing inventory; WORLD/character index and selected institution introductions/status, not complete faction history",
+      "bounded_world_reviews": [
+        {
+          "date": "2026-10-27",
+          "report": "reports/DELVERS_BURIED_INFRASTRUCTURE_2026-10-27.md",
+          "scope": "WORLD synthesis of named companies/assigned work only; no complete roster or institutional re-audit",
+          "canonical_routes_unchanged": true
+        }
+      ]
     },
     {
       "id": "pelor",
@@ -3244,13 +3326,13 @@
   "next_batches": [
     {
       "priority": "P2",
-      "scope": "WORLD twelve historical sections and five institutional contexts: companies, school, Cloven Brotherhood, Noble Hollow research circle, Gemholm management",
-      "limits": "Use existing subjects; retain distinct evidence, personhood and chronology"
+      "scope": "WORLD six remaining historical sections and four contexts: school, Cloven Brotherhood, Noble Hollow research circle, Gemholm management",
+      "limits": "Preserve reports, private knowledge and unresolved sponsorship; use canonical subject routes"
     },
     {
       "priority": "P2",
       "scope": "Index-only creature candidates and final campaign integration",
-      "limits": "Existing linked-profile and thematic passes do not certify remaining candidates; targeted listening remains separate"
+      "limits": "Existing passes do not certify remaining candidates; targeted listening remains separate"
     }
   ],
   "reviewed_route_sections": [
@@ -3410,6 +3492,27 @@
         "new_character_profiles": 1,
         "world_sections_reconciled": 6,
         "institutional_world_syntheses": 4
+      }
+    },
+    {
+      "date": "2026-10-27",
+      "report": "reports/DELVERS_BURIED_INFRASTRUCTURE_2026-10-27.md",
+      "scope": "WORLD context, companies synthesis history and current counts/limits/queue only",
+      "unchanged_creature_directory_rows": 6,
+      "unchanged_institutional_reference_units": 13,
+      "previous_counts": {
+        "creature_profiles": 5,
+        "creature_index_rows": 7,
+        "index_only_creature_candidates": 2,
+        "index_reasoning_community_route": 0,
+        "institutional_reference_units": 14,
+        "formal_faction_directory": false,
+        "subject_rewrites": 5,
+        "creature_directory_paths": 6,
+        "compatibility_routes": 1,
+        "new_character_profiles": 1,
+        "world_sections_reconciled": 10,
+        "institutional_world_syntheses": 9
       }
     }
   ]

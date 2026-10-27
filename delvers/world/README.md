@@ -117,6 +117,8 @@ A [civic-institution checkpoint](../../reports/DELVERS_CIVIC_INSTITUTIONS_2026-1
 
 The [faith/community checkpoint](../../reports/DELVERS_FAITH_COMMUNITIES_2026-10-27.md) continues [WORLD](WORLD.md) with practical magic, attributed beliefs and treatments, lakeshore diplomacy, spa hospitality and the willing minotaur alliance. Twelve historical sections and five institutional contexts remain queued.
 
+The [buried-infrastructure checkpoint](../../reports/DELVERS_BURIED_INFRASTRUCTURE_2026-10-27.md) continues [WORLD](WORLD.md) through six cave, forest, company, keep and well sections. Local seals, later forest repairs and attributed ancient-history accounts remain distinct; six historical sections and four institutional contexts remain queued.
+
 ## Subject directory
 
 ### People

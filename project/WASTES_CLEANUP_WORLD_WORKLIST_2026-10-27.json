@@ -1,0 +1,615 @@
+{
+  "schema_version": 1,
+  "purpose": "Read-only Phase 0 Wastes world directory worklist. A listing is not a page audit or canon approval.",
+  "created_local_date": "2026-10-27",
+  "repository": "There Will Be Dungeons Transcripts",
+  "branch": "main",
+  "initial_head": "5212caccecdb57aeb2c60d4e4a542b89433c6cf4",
+  "authorization": "$twbd-wastes-cleanup for read-only census and checkpoint controls; substantive edits require applicable owner approval.",
+  "source": "live local workspace MCP list_workspace, five directories, limit=150 per directory",
+  "coverage": [
+    {
+      "directory": "world",
+      "reported_entries": 20,
+      "listed_files": 16,
+      "listed_subdirectories": 4,
+      "all_entries_received": true
+    },
+    {
+      "directory": "world/characters",
+      "reported_entries": 46,
+      "listed_files": 46,
+      "listed_subdirectories": 0,
+      "all_entries_received": true
+    },
+    {
+      "directory": "world/places",
+      "reported_entries": 19,
+      "listed_files": 19,
+      "listed_subdirectories": 0,
+      "all_entries_received": true
+    },
+    {
+      "directory": "world/creatures",
+      "reported_entries": 32,
+      "listed_files": 32,
+      "listed_subdirectories": 0,
+      "all_entries_received": true
+    },
+    {
+      "directory": "world/technology",
+      "reported_entries": 21,
+      "listed_files": 21,
+      "listed_subdirectories": 0,
+      "all_entries_received": true
+    }
+  ],
+  "total_unique_files": 134,
+  "all_paths_counted": true,
+  "excluded_scopes": [
+    "narrative/ (initial nine-file structural census already checkpointed separately)",
+    "sources/ (read-only raw ASR and media sources)",
+    "episodes/ (dossier/coverage audit later)",
+    "project/ controls (targeted follow-up)",
+    "delvers/",
+    "inverse/",
+    "research/legacy/ (historical sources; not current world pages)"
+  ],
+  "page_state_legend": {
+    "listed_only": "Directory entry verified; file content, hashes, links, source horizon, claims and lifecycle unreviewed."
+  },
+  "paths": [
+    {
+      "path": "world/ANTAGONISTS.md",
+      "state": "listed_only"
+    },
+    {
+      "path": "world/CHARACTERS.md",
+      "state": "listed_only"
+    },
+    {
+      "path": "world/CHRONOLOGY.md",
+      "state": "listed_only"
+    },
+    {
+      "path": "world/CONSISTENCY_LEDGER.md",
+      "state": "listed_only"
+    },
+    {
+      "path": "world/CREATURES_AND_MONSTERS.md",
+      "state": "listed_only"
+    },
+    {
+      "path": "world/ENTITY_SCHEMA.md",
+      "state": "listed_only"
+    },
+    {
+      "path": "world/FACTIONS_AND_POWERS.md",
+      "state": "listed_only"
+    },
+    {
+      "path": "world/HISTORICAL_EVENTS.md",
+      "state": "listed_only"
+    },
+    {
+      "path": "world/HISTORY_ANCIENT_CATASTROPHE.md",
+      "state": "listed_only"
+    },
+    {
+      "path": "world/HISTORY_CHIDS_DRIVE.md",
+      "state": "listed_only"
+    },
+    {
+      "path": "world/HISTORY_TIETKALLA.md",
+      "state": "listed_only"
+    },
+    {
+      "path": "world/ITEMS_AND_ARTIFACTS.md",
+      "state": "listed_only"
+    },
+    {
+      "path": "world/PLACES.md",
+      "state": "listed_only"
+    },
+    {
+      "path": "world/README.md",
+      "state": "listed_only"
+    },
+    {
+      "path": "world/WORLD.md",
+      "state": "listed_only"
+    },
+    {
+      "path": "world/characters/alvert.md",
+      "state": "listed_only"
+    },
+    {
+      "path": "world/characters/angelashi.md",
+      "state": "listed_only"
+    },
+    {
+      "path": "world/characters/blood-skunk-hendrickson.md",
+      "state": "listed_only"
+    },
+    {
+      "path": "world/characters/bok-bok.md",
+      "state": "listed_only"
+    },
+    {
+      "path": "world/characters/brett-asmodeus.md",
+      "state": "listed_only"
+    },
+    {
+      "path": "world/characters/buttons.md",
+      "state": "listed_only"
+    },
+    {
+      "path": "world/characters/cerinthala.md",
+      "state": "listed_only"
+    },
+    {
+      "path": "world/characters/charles-dickens.md",
+      "state": "listed_only"
+    },
+    {
+      "path": "world/characters/dick-pendleton.md",
+      "state": "listed_only"
+    },
+    {
+      "path": "world/characters/dilenoria.md",
+      "state": "listed_only"
+    },
+    {
+      "path": "world/characters/diontalus.md",
+      "state": "listed_only"
+    },
+    {
+      "path": "world/characters/diptak.md",
+      "state": "listed_only"
+    },
+    {
+      "path": "world/characters/dr-spider.md",
+      "state": "listed_only"
+    },
+    {
+      "path": "world/characters/emenil.md",
+      "state": "listed_only"
+    },
+    {
+      "path": "world/characters/follow-sira-rorf.md",
+      "state": "listed_only"
+    },
+    {
+      "path": "world/characters/general-carthax.md",
+      "state": "listed_only"
+    },
+    {
+      "path": "world/characters/henitar-grape.md",
+      "state": "listed_only"
+    },
+    {
+      "path": "world/characters/hope-akmenos.md",
+      "state": "listed_only"
+    },
+    {
+      "path": "world/characters/imprisoned-black-dragon.md",
+      "state": "listed_only"
+    },
+    {
+      "path": "world/characters/kefeli.md",
+      "state": "listed_only"
+    },
+    {
+      "path": "world/characters/lyrielle.md",
+      "state": "listed_only"
+    },
+    {
+      "path": "world/characters/malhya.md",
+      "state": "listed_only"
+    },
+    {
+      "path": "world/characters/monsoon-cabbage.md",
+      "state": "listed_only"
+    },
+    {
+      "path": "world/characters/nash-maggard.md",
+      "state": "listed_only"
+    },
+    {
+      "path": "world/characters/nash-spellcasting-phrases.md",
+      "state": "listed_only"
+    },
+    {
+      "path": "world/characters/nobieri.md",
+      "state": "listed_only"
+    },
+    {
+      "path": "world/characters/nothing.md",
+      "state": "listed_only"
+    },
+    {
+      "path": "world/characters/omnom-cinderborn.md",
+      "state": "listed_only"
+    },
+    {
+      "path": "world/characters/orp.md",
+      "state": "listed_only"
+    },
+    {
+      "path": "world/characters/p0d.md",
+      "state": "listed_only"
+    },
+    {
+      "path": "world/characters/quizquaz.md",
+      "state": "listed_only"
+    },
+    {
+      "path": "world/characters/soulbroker.md",
+      "state": "listed_only"
+    },
+    {
+      "path": "world/characters/sprout.md",
+      "state": "listed_only"
+    },
+    {
+      "path": "world/characters/squirts.md",
+      "state": "listed_only"
+    },
+    {
+      "path": "world/characters/stanley-billings.md",
+      "state": "listed_only"
+    },
+    {
+      "path": "world/characters/stanley-diontalus.md",
+      "state": "listed_only"
+    },
+    {
+      "path": "world/characters/steerious-business.md",
+      "state": "listed_only"
+    },
+    {
+      "path": "world/characters/tedna.md",
+      "state": "listed_only"
+    },
+    {
+      "path": "world/characters/the-principle.md",
+      "state": "listed_only"
+    },
+    {
+      "path": "world/characters/the-voice.md",
+      "state": "listed_only"
+    },
+    {
+      "path": "world/characters/tobacho-fleur.md",
+      "state": "listed_only"
+    },
+    {
+      "path": "world/characters/tungsten-wheel.md",
+      "state": "listed_only"
+    },
+    {
+      "path": "world/characters/tylander-sullivan.md",
+      "state": "listed_only"
+    },
+    {
+      "path": "world/characters/union-wheel.md",
+      "state": "listed_only"
+    },
+    {
+      "path": "world/characters/vorel-titles.md",
+      "state": "listed_only"
+    },
+    {
+      "path": "world/characters/vorel.md",
+      "state": "listed_only"
+    },
+    {
+      "path": "world/creatures/basilisk-of-the-under-pit-caves.md",
+      "state": "listed_only"
+    },
+    {
+      "path": "world/creatures/black-headworms.md",
+      "state": "listed_only"
+    },
+    {
+      "path": "world/creatures/black-puddings.md",
+      "state": "listed_only"
+    },
+    {
+      "path": "world/creatures/bloodsucking-desert-swarm.md",
+      "state": "listed_only"
+    },
+    {
+      "path": "world/creatures/blue-black-chasm-flyers.md",
+      "state": "listed_only"
+    },
+    {
+      "path": "world/creatures/brain-backed-spiders.md",
+      "state": "listed_only"
+    },
+    {
+      "path": "world/creatures/chester-the-bearsaurus.md",
+      "state": "listed_only"
+    },
+    {
+      "path": "world/creatures/chicken-lords.md",
+      "state": "listed_only"
+    },
+    {
+      "path": "world/creatures/chids-hellhounds.md",
+      "state": "listed_only"
+    },
+    {
+      "path": "world/creatures/crater-wyvern.md",
+      "state": "listed_only"
+    },
+    {
+      "path": "world/creatures/dolo-popio-spawned-worms.md",
+      "state": "listed_only"
+    },
+    {
+      "path": "world/creatures/dunebreaker-fruit-ooze.md",
+      "state": "listed_only"
+    },
+    {
+      "path": "world/creatures/eight-legged-facility-predator.md",
+      "state": "listed_only"
+    },
+    {
+      "path": "world/creatures/froghemoth-gut-worms.md",
+      "state": "listed_only"
+    },
+    {
+      "path": "world/creatures/froghemoth-intestinal-ropers.md",
+      "state": "listed_only"
+    },
+    {
+      "path": "world/creatures/gibbering-mouther.md",
+      "state": "listed_only"
+    },
+    {
+      "path": "world/creatures/green-case-mimic.md",
+      "state": "listed_only"
+    },
+    {
+      "path": "world/creatures/luminous-desert-beetles.md",
+      "state": "listed_only"
+    },
+    {
+      "path": "world/creatures/mushroom-pit-spider.md",
+      "state": "listed_only"
+    },
+    {
+      "path": "world/creatures/outlands-wyverns.md",
+      "state": "listed_only"
+    },
+    {
+      "path": "world/creatures/pale-tentacled-burrower.md",
+      "state": "listed_only"
+    },
+    {
+      "path": "world/creatures/pixie-hulks.md",
+      "state": "listed_only"
+    },
+    {
+      "path": "world/creatures/purple-sands-tyrannosaurus.md",
+      "state": "listed_only"
+    },
+    {
+      "path": "world/creatures/razak-val-invasive-worms.md",
+      "state": "listed_only"
+    },
+    {
+      "path": "world/creatures/riding-raptors.md",
+      "state": "listed_only"
+    },
+    {
+      "path": "world/creatures/river-undead.md",
+      "state": "listed_only"
+    },
+    {
+      "path": "world/creatures/sand-squid.md",
+      "state": "listed_only"
+    },
+    {
+      "path": "world/creatures/skeleton-spawning-flesh-giant.md",
+      "state": "listed_only"
+    },
+    {
+      "path": "world/creatures/tainted-displacer-beast.md",
+      "state": "listed_only"
+    },
+    {
+      "path": "world/creatures/tentacled-purple-fungi.md",
+      "state": "listed_only"
+    },
+    {
+      "path": "world/creatures/translucent-wall-passers.md",
+      "state": "listed_only"
+    },
+    {
+      "path": "world/creatures/white-filament-hunter.md",
+      "state": "listed_only"
+    },
+    {
+      "path": "world/entities.json",
+      "state": "listed_only"
+    },
+    {
+      "path": "world/places/black-mine.md",
+      "state": "listed_only"
+    },
+    {
+      "path": "world/places/chateau-weir.md",
+      "state": "listed_only"
+    },
+    {
+      "path": "world/places/chids.md",
+      "state": "listed_only"
+    },
+    {
+      "path": "world/places/dunebreaker.md",
+      "state": "listed_only"
+    },
+    {
+      "path": "world/places/dusthill.md",
+      "state": "listed_only"
+    },
+    {
+      "path": "world/places/elhandar.md",
+      "state": "listed_only"
+    },
+    {
+      "path": "world/places/gray-waste-and-pandemonium.md",
+      "state": "listed_only"
+    },
+    {
+      "path": "world/places/kaiser-casino.md",
+      "state": "listed_only"
+    },
+    {
+      "path": "world/places/kervalon.md",
+      "state": "listed_only"
+    },
+    {
+      "path": "world/places/leaden-fingers-stormlands.md",
+      "state": "listed_only"
+    },
+    {
+      "path": "world/places/leopold-facility.md",
+      "state": "listed_only"
+    },
+    {
+      "path": "world/places/razak-val.md",
+      "state": "listed_only"
+    },
+    {
+      "path": "world/places/sigil.md",
+      "state": "listed_only"
+    },
+    {
+      "path": "world/places/slavetown.md",
+      "state": "listed_only"
+    },
+    {
+      "path": "world/places/solar-mines.md",
+      "state": "listed_only"
+    },
+    {
+      "path": "world/places/the-harbor.md",
+      "state": "listed_only"
+    },
+    {
+      "path": "world/places/tietkalla.md",
+      "state": "listed_only"
+    },
+    {
+      "path": "world/places/villa-ornath.md",
+      "state": "listed_only"
+    },
+    {
+      "path": "world/places/white-tower.md",
+      "state": "listed_only"
+    },
+    {
+      "path": "world/technology/augmentation-cylinder.md",
+      "state": "listed_only"
+    },
+    {
+      "path": "world/technology/book-of-adjacencies.md",
+      "state": "listed_only"
+    },
+    {
+      "path": "world/technology/chromes-bane.md",
+      "state": "listed_only"
+    },
+    {
+      "path": "world/technology/diontalus-ocarina.md",
+      "state": "listed_only"
+    },
+    {
+      "path": "world/technology/diplomacy.md",
+      "state": "listed_only"
+    },
+    {
+      "path": "world/technology/eye-of-groxl.md",
+      "state": "listed_only"
+    },
+    {
+      "path": "world/technology/fate-4.md",
+      "state": "listed_only"
+    },
+    {
+      "path": "world/technology/fate-six.md",
+      "state": "listed_only"
+    },
+    {
+      "path": "world/technology/gem-of-tides.md",
+      "state": "listed_only"
+    },
+    {
+      "path": "world/technology/hand-of-the-voice.md",
+      "state": "listed_only"
+    },
+    {
+      "path": "world/technology/henatar-guitar.md",
+      "state": "listed_only"
+    },
+    {
+      "path": "world/technology/hollow-ring.md",
+      "state": "listed_only"
+    },
+    {
+      "path": "world/technology/mask-of-eltanfawr.md",
+      "state": "listed_only"
+    },
+    {
+      "path": "world/technology/mask-of-elton-iv.md",
+      "state": "listed_only"
+    },
+    {
+      "path": "world/technology/nash-dragon-heart.md",
+      "state": "listed_only"
+    },
+    {
+      "path": "world/technology/noble-speeder.md",
+      "state": "listed_only"
+    },
+    {
+      "path": "world/technology/portal-device.md",
+      "state": "listed_only"
+    },
+    {
+      "path": "world/technology/rejuvenation-syringe.md",
+      "state": "listed_only"
+    },
+    {
+      "path": "world/technology/rubistic-triangulosphere.md",
+      "state": "listed_only"
+    },
+    {
+      "path": "world/technology/traversal-drive.md",
+      "state": "listed_only"
+    },
+    {
+      "path": "world/technology/windboards.md",
+      "state": "listed_only"
+    }
+  ],
+  "pending_fields": [
+    "sha256_working_copy",
+    "headings",
+    "section_word_counts",
+    "paragraph_counts",
+    "note_definitions",
+    "outbound_links",
+    "inbound_links_and_anchors",
+    "aliases",
+    "source_horizon",
+    "last_direct_observation",
+    "claim_source_mapping",
+    "priority",
+    "domain_class",
+    "proposed_disposition"
+  ]
+}

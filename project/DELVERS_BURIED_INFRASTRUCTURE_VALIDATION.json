@@ -1,0 +1,65 @@
+{
+  "date": "2026-10-27",
+  "scope": "Partial WORLD infrastructure/history/company synthesis, not whole-page certification",
+  "local_file_and_fragment_links": 1733,
+  "maintained_inbound_links": 59,
+  "former_headings_preserved": 114,
+  "exact_original_hashes": 6,
+  "reading_copy_target_equivalence": 6,
+  "protected_hashes": 385,
+  "registry_checks": [
+    {
+      "registry": "DELVERS_CHARACTER_DISPOSITIONS",
+      "rows": 36,
+      "matching_page_hashes": 36
+    },
+    {
+      "registry": "DELVERS_CHARACTER_INVENTORY",
+      "rows": 36,
+      "matching_page_hashes": 36
+    },
+    {
+      "registry": "DELVERS_PLACE_DISPOSITIONS",
+      "rows": 27,
+      "matching_page_hashes": 27
+    },
+    {
+      "registry": "DELVERS_ARTIFACT_DISPOSITIONS",
+      "rows": 20,
+      "matching_page_hashes": 20
+    }
+  ],
+  "unchanged_creature_directory_rows": 6,
+  "unchanged_institutional_units": 13,
+  "new_institutional_world_syntheses": 1,
+  "measurements": {
+    "before_main_words": 3582,
+    "after_main_words": 3508,
+    "batch_reconciled_sections": 6,
+    "cumulative_reconciled_sections": 16,
+    "unchanged_section_bodies": 16,
+    "pending_historical_sections": 6,
+    "source_notes": 41,
+    "former_source_notes_retained": 37,
+    "preserved_prior_orphans": [
+      "status"
+    ]
+  },
+  "errors": [],
+  "limits": [
+    "Six other historical WORLD section bodies explicitly queued; prior ten reconciled bodies unchanged",
+    "Selected dossier and canonical-context review; no new audio/original ASR, maps, sheets, bonus exports, rulebook, remote URL or rendered-site review"
+  ],
+  "status": "passed",
+  "markdownlint": {
+    "maintained_files": 6,
+    "violations": 0
+  },
+  "whitespace": {
+    "scoped_git_diff_check": "passed",
+    "direct_new_file_check": "passed",
+    "checked_new_files": 11
+  },
+  "manual_readback": "All six rewritten WORLD sections and their source notes; sixteen other section bodies compared mechanically, including prior ten reconciled sections. Selected canonical/dossier context and bounded inventory scope reviewed.",
+  "working_tree_context": "Initially clean main at 5212caccecdb57aeb2c60d4e4a542b89433c6cf4; concurrent Wastes world-worklist/report additions appeared and were left untouched; no commit or push by this task."
+}
