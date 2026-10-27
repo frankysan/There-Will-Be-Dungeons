@@ -88,6 +88,8 @@ The local checkout was on `main` at `76cb96b` with existing uncommitted E120 doc
 
 The existing [Discord spelling and provenance register](../reports/DISCORD_SPELLING_2026-10-21.md) assigns **Source D2, Kyle's cast-posted Dungeon Guild Guide**, to Delvers. Its prior review records written names and institutions, page locators and a private-download hash. This preparation reuses that register; it does not claim a new PDF inspection or redistribute the handout.
 
-The register also contains a Delvers-attributed **Khalezaar** spelling lead and archived character-sheet preview leads. Their identity, episode association and historical state still need checking. A handout, preview or planning document cannot establish that a character appeared, an event occurred or a rule was used in play.
+The register also contains a Delvers-attributed **Khalezaar** spelling lead and archived character-sheet preview leads. Their identity, episode association and historical state still need checking.
+
+**Expanded Discord archive review (2026-10-27):** The separate [new handout spelling audit](../reports/DISCORD_NEW_SPELLING_2026-10-27.md) now records direct visual inspection of (1) Kyle-posted Season 2 `Aytmer` regional map and quest overlay, (2) all three original **Ambermore** / Hank Tom / Caleb diary PNGs, and (3) nine-page **Adventurer Edition** guild PDF. New orthographic candidates include **Aytmer** against working `Atomer/Atymer`, **Lake Obsul** against `Absul/Abzul`, **Mickle's Farm**, **Ambermore** against `Ambermoor`, and the printed **Chaos-Phage**. The former D2 guild guide and newer Adventurer Edition are distinct handouts. No audio, raw SRT or original image was altered. A handout, preview or planning document cannot establish that a character appeared, an event occurred or a rule was used in play.
 
 [Campaign index](README.md) · [Documentation plan](DOCUMENTATION_PLAN.md) · [Delvers review queue](REVIEW_QUEUE.md)

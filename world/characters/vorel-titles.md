@@ -1,6 +1,10 @@
 # Vorel — titles and epithets register
 
-**Type:** Source-indexed supporting register for [Vorel](vorel.md), deliberately separated from the main character biography. **Evidence:** ASR-provisional, with source windows, name variants and social standing preserved. **Spoilers:** Through Wastes S3E17; Q&As are retrospective, not played conferrals. [Characters](../CHARACTERS.md) · [World portal](../README.md).
+## S3E18 FINAL TITLE — “Friend” awarded by Stanley; “Friend Till the End of His Days” accepted by Vorel
+
+[**FINAL played Wastes S3E18**](../../episodes/S3E18.md) **~02:07–02:10** (Q and P transcription / approximate recording clock; [[review-needed:precise title utterance timing and punctuation]]). When VOREL and his ~50–60 surviving lizardfolk plus KUROMOKISHI depart overland to resettle RAZAKVAL, **STANLEY BILLINGS** calls to Vorel that among his many titles the friends can confer **“FRIEND”** upon him. **VOREL/KYLE** visibly/emotionally accepts and **EXPANDS “FRIEND TILL THE END OF HIS DAYS”**, transcribed in P and Q. **New companion-conferred personal title** unlike longstanding self-boasts; **NOT an officially created state office**, and cannot be backdated to prior “we're friends” dialogue. **No additional personal honorific conferred on Vorel in the finale.** His **+2 chrome plating** and named weapon *Chrome's Bane* are **equipment**, not titles. Full wording ASR-provisional pending audio, but core phrase cross-export agreement strong. [Exact comparison](../../reports/WASTES_S3E18_ASR_COMPARISON_2026-10-27.md); S3E019 separate roundup is retrospective and **NOT** earliest conferral.
+
+**Type:** Source-indexed supporting register for [Vorel](vorel.md), deliberately separated from the main character biography. **Evidence:** ASR-provisional, with source windows, name variants and social standing preserved. **Spoilers:** Through FINAL played Wastes S3E18, six-arc campaign COMPLETE; Q&As are retrospective, not played conferrals. [Characters](../CHARACTERS.md) · [World portal](../README.md).
 
 ## S3E17 — NO newly granted/personal Vorel title; “destroy the Moon” is a failed bluff
 

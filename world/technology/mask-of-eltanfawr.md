@@ -1,5 +1,9 @@
 # Mask of Eltanfawr
 
+## S3E18 — Stanley ACTUALLY gifts mask to Hope; item becomes her crown
+
+[Played finale S3E18](../../episodes/S3E18.md), **~02:15–02:21**: STANLEY physically **REMOVES THE MASK OF ELTANFAWR AND PLACES IT IN HOPE'S CUSTODY** while both stand in the rebuilt/overgrown RUINS OF **T'IETKALLA**. GM confirms new wearer may **ATTUNE to command FATE SIX and the ghost crew**; attunement is to occur, **not already fully demonstrably completed**. Hope deliberately **RESHAPES HEAD-WORN MASK INTO A CROWN, WEARS IT and returns to her people as ruler**. STANLEY leaves on other ELHANDARI SPACECRAFT and eventually goes to FEYWILD; the previously claimed Stanley captain/mask custody is therefore **SUPERSEDED AT FINAL CUT**. HOPE also keeps MONSOON'S VAMPIRE KNIGHT HELMET, distinct object. [P/Q](../../reports/WASTES_S3E18_ASR_COMPARISON_2026-10-27.md), text only.
+
 ## S3E15 — Stanley ACTUALLY activates mask's *Foresight* before Worldbreaker fight
 
 At sunrise in [played S3E15](../../episodes/S3E15.md) **~01:00–01:03**, STANLEY **ACTUALLY ACTIVATES ATTUNED MASK OF ELTANFAWR TO APPLY *FORESIGHT* (duration 8 hours)** after STANLEY actually cast *HEROES' FEAST* the prior evening and completed long rest. The MASK'S EARLIER **-10 MAX HP sacrifice** was demonstrated S3E05/S3E11; this is an additional demonstrated activation, though **no separate explicit fresh numeric cost roll in S3E15 transcript**—do not assert exact current maxHP beyond known effects. STANLEY ACTUALLY FIGHTS MOVING TARRASQUE and later ***DIMENSION DOOR*S TO SAVE HOPE**, no new Fate Six summon needed. [S3E15 two-ASR report](../../reports/WASTES_S3E15_ASR_COMPARISON_2026-10-27.md), no audio.
