@@ -115,6 +115,8 @@ The [form/source-note checkpoint](../../reports/DELVERS_FORM_POLISH_2026-10-27.m
 
 A [civic-institution checkpoint](../../reports/DELVERS_CIVIC_INSTITUTIONS_2026-10-27.md) updates [WORLD](WORLD.md)'s guild, Academy, Silver City and newspaper sections and brings its closing state through the finale. Technology, faith, communities and buried-history presentation remain queued; this is a partial thematic review.
 
+The [faith/community checkpoint](../../reports/DELVERS_FAITH_COMMUNITIES_2026-10-27.md) continues [WORLD](WORLD.md) with practical magic, attributed beliefs and treatments, lakeshore diplomacy, spa hospitality and the willing minotaur alliance. Twelve historical sections and five institutional contexts remain queued.
+
 ## Subject directory
 
 ### People

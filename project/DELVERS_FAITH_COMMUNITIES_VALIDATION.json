@@ -1,0 +1,65 @@
+{
+  "date": "2026-10-27",
+  "scope": "Partial WORLD technology/faith/community synthesis, not whole-page certification",
+  "local_file_and_fragment_links": 1665,
+  "maintained_inbound_links": 57,
+  "former_headings_preserved": 111,
+  "exact_original_hashes": 6,
+  "reading_copy_target_equivalence": 6,
+  "protected_hashes": 382,
+  "registry_checks": [
+    {
+      "registry": "DELVERS_CHARACTER_DISPOSITIONS",
+      "rows": 36,
+      "matching_page_hashes": 36
+    },
+    {
+      "registry": "DELVERS_CHARACTER_INVENTORY",
+      "rows": 36,
+      "matching_page_hashes": 36
+    },
+    {
+      "registry": "DELVERS_PLACE_DISPOSITIONS",
+      "rows": 27,
+      "matching_page_hashes": 27
+    },
+    {
+      "registry": "DELVERS_ARTIFACT_DISPOSITIONS",
+      "rows": 20,
+      "matching_page_hashes": 20
+    }
+  ],
+  "unchanged_creature_directory_rows": 6,
+  "unchanged_institutional_units": 9,
+  "new_institutional_world_syntheses": 5,
+  "measurements": {
+    "before_main_words": 3391,
+    "after_main_words": 3582,
+    "batch_reconciled_sections": 4,
+    "cumulative_reconciled_sections": 10,
+    "unchanged_section_bodies": 18,
+    "pending_historical_sections": 12,
+    "source_notes": 37,
+    "former_source_notes_retained": 32,
+    "preserved_prior_orphans": [
+      "status"
+    ]
+  },
+  "errors": [],
+  "limits": [
+    "Twelve other historical WORLD section bodies explicitly queued; prior six civic bodies unchanged",
+    "Selected dossier, May bonus and canonical-context review; no new audio/original ASR, maps, sheets, bonus exports, rulebook, remote URL or rendered-site review"
+  ],
+  "status": "passed",
+  "markdownlint": {
+    "maintained_files": 6,
+    "violations": 0
+  },
+  "whitespace": {
+    "scoped_git_diff_check": "passed",
+    "direct_new_file_check": "passed",
+    "checked_new_files": 11
+  },
+  "manual_readback": "All four revised/new WORLD sections and their source notes; eighteen other section bodies compared mechanically, including prior civic sections. Selected canonical/dossier/May bonus context and bounded inventory scope reviewed.",
+  "working_tree_context": "Prior civic batch and concurrent Wastes narrative/progress/report changes preserved. External commits occurred during work; no commit or push by this task."
+}
