@@ -3610,9 +3610,9 @@
   ],
   "next_batches": [
     {
-      "priority": "P2",
-      "scope": "Final Delvers campaign integration across narrative/world/navigation/progress",
-      "limits": "Existing presentation coverage does not certify every fact or close unresolved source/listening questions"
+      "priority": "verification",
+      "scope": "Targeted source/listening questions and evidence-led corrections through existing queue/ledger",
+      "limits": "Editorial rollout/integration complete within recorded bounds; no automatic new episode or blanket source acceptance"
     }
   ],
   "reviewed_route_sections": [
@@ -3838,6 +3838,17 @@
         "world_presentation_sections_pending": 0,
         "institutional_world_contexts_pending": 0
       }
+    },
+    {
+      "date": "2026-10-27",
+      "report": "reports/DELVERS_CAMPAIGN_INTEGRATION_2026-10-27.md",
+      "scope": "Integration status/current queue only; all eight directory rows, WORLD context and fourteen institutional rows unchanged"
     }
-  ]
+  ],
+  "bounded_integration": {
+    "date": "2026-10-27",
+    "report": "reports/DELVERS_CAMPAIGN_INTEGRATION_2026-10-27.md",
+    "editorial_status": "rollout-and-bounded-integration-recorded",
+    "source_verification": "open; existing issue registers retain authority"
+  }
 }

@@ -1,6 +1,6 @@
 # Delvers — world reference
 
-Explore the people, places and artifacts of Delvers, an independent campaign set in its own reality. Reference coverage reaches the campaign finale and one-year epilogue, while each article retains its own last supported observation and source limits. Most subject pages still await the [completed-campaign cleanup](../../project/DELVERS_CAMPAIGN_CLEANUP_PLAN.md).
+Explore the people, places and artifacts of Delvers, an independent campaign set in its own reality. Reference coverage reaches the campaign finale and one-year epilogue, while each article retains its own last supported observation and source limits. The [editorial rollout and bounded integration pass](../../reports/DELVERS_CAMPAIGN_INTEGRATION_2026-10-27.md) are recorded under the [cleanup plan](../../project/DELVERS_CAMPAIGN_CLEANUP_PLAN.md); source verification remains open.
 
 ## Browse the world
 
@@ -11,117 +11,17 @@ Explore the people, places and artifacts of Delvers, an independent campaign set
 - [Chronology](CHRONOLOGY.md)
 - [Consistency ledger](CONSISTENCY_LEDGER.md)
 
-The [three arc narratives](../narrative/README.md) provide the plot-led reading route. This directory keeps existing subject paths available during consolidation; navigation does not certify every article as fully migrated.
+The [three arc narratives](../narrative/README.md) provide the plot-led reading route. This directory keeps the established subject paths and deliberate compatibility routes. Navigation and editorial acceptance do not certify every underlying source claim.
 
 <a id="cleanup-pilots"></a>
 
 ## Cleanup progress
 
-Four articles have received preserved subject-focused passes: [Koh](characters/koh-spiros.md), [the guild](places/delvers-guild.md), [the three urns](items/three-urns-triangle-gate.md) and [the skeletal bat](creatures/skeletal-bat-balcony.md). Their [checkpoint](../../reports/DELVERS_WORLD_PILOTS_2026-10-26.md) records source horizons and validation limits.
+The three primary narratives have preserved consolidation records. The world rollout now covers 36 character profiles, 27 place-directory paths, 20 item-directory pages and eight creature-directory paths. The place count includes the farm/tower compatibility route; the creature count includes All Rat's compatibility route to Characters. Seven creature/form entries have profiles. WORLD's 24 thematic sections and fourteen distributed institutional contexts have bounded presentation coverage.
 
-[Evelyn](characters/evelyn-grinkeeper.md) and [Krandal](characters/krandal-splenderbelt.md) now have the same character-focused treatment, recorded in their [batch checkpoint](../../reports/DELVERS_EVELYN_KRANDAL_2026-10-26.md).
+The [integration report](../../reports/DELVERS_CAMPAIGN_INTEGRATION_2026-10-27.md) records the current link, structure, register and selected final-state checks. It also distinguishes intentional routes and historical material from ordinary subject pages. These are editorial checks, with dossier/ASR, naming, custody and listening limits retained.
 
-[Margaret](characters/margaret-dupayton.md) and [the Traveler](characters/gentleman-cavalier-traveler.md) have a [supporting-character checkpoint](../../reports/DELVERS_MARGARET_TRAVELER_2026-10-26.md) that distinguishes their last appearances from later reports and the final invitation.
-
-[Nopa Ropa](characters/nopa-ropa.md) and [Princess Hissia](characters/princess-hissia.md) now have a [linked rescue/relationship checkpoint](../../reports/DELVERS_NOPA_HISSIA_2026-10-26.md).
-
-[Cassius](characters/cassius.md) and [Carrie](characters/carrie-underworld.md) have a [guild-character checkpoint](../../reports/DELVERS_CASSIUS_CARRIE_2026-10-26.md) covering leadership, investigation and practical research support.
-
-[Wildfire](characters/buck-broscale-wildfire.md) and [Alexandre Withers](characters/alexandre-vanderbuck-withers.md) have a [linked patron/investigator checkpoint](../../reports/DELVERS_WILDFIRE_WITHERS_2026-10-26.md) distinguishing their earlier dealings from captivity and survival.
-
-[Anathala/Anthela](characters/anthela-spiros.md) and [Penelope](characters/penelope-spiros.md) have a [family checkpoint](../../reports/DELVERS_SPIROS_FAMILY_2026-10-26.md) separating recognition, bodily recovery, household knowledge and the completed epilogue.
-
-[Broadside](characters/broadside.md) and [Cheet](characters/cheet.md) have a [linked guild checkpoint](../../reports/DELVERS_BROADSIDE_CHEET_2026-10-26.md) distinguishing their shared capture, different choices and later evidence.
-
-[Marek Gideon](characters/marek-gideon.md) and [Noble Hollow](places/noble-hollow.md) have a [character/place checkpoint](../../reports/DELVERS_MAREK_NOBLE_HOLLOW_2026-10-26.md) separating the researcher's unresolved trial from the site's collapse, later access and renewed land.
-
-[Enzo Withers](characters/enzo-vanderbuck-withers.md) and [Skull Keep](places/skull-keep.md) have a [character/place checkpoint](../../reports/DELVERS_ENZO_SKULL_KEEP_2026-10-26.md) separating observed aftermath, attributed history and later context.
-
-[Withers Estate](places/withers-estate.md) and [Broscale Manor](places/broscale-manor.md) have a [place checkpoint](../../reports/DELVERS_ESTATES_2026-10-26.md) covering their rooms, households, damage and qualified later estate context.
-
-[The governor's hall](places/governors-hall.md) and [Dungeon Guild Academy](places/dungeon-guild-academy.md) have a [public/institutional place checkpoint](../../reports/DELVERS_HALL_ACADEMY_2026-10-26.md) distinguishing the damaged hall's later use from Academy authority exercised in Atomer.
-
-The [southwestern well](places/southwestern-town-well.md) and [Temple of Pelor](places/temple-of-pelor.md) have a [connected-place checkpoint](../../reports/DELVERS_WELL_PELOR_2026-10-26.md) covering the sealed cave approaches, separate temple openings and later treatment centre.
-
-[Potato Grove](places/potato-grove.md) now includes the rebuilt Delvers tower in one continuous account. The former [finale page](places/splenderbelt-farm-delvers-tower.md) remains a reading route; the separate [farm cave](places/farm-cave.md) retains its own last-observed condition. [Farm/tower checkpoint](../../reports/DELVERS_FARM_TOWER_2026-10-26.md).
-
-[Gemholm](places/gemholm.md) and the [kuo-toa lakeshore village](places/kuo-toa-lakeshore-village.md) have a [settlement checkpoint](../../reports/DELVERS_LAKE_SETTLEMENTS_2026-10-26.md) separating their local conditions from later custody, survivor and exile evidence.
-
-The [submerged lake ruins](places/submerged-lake-ruins.md) and [forest grick sinkhole](places/grick-sinkhole.md) have an [early-ruins checkpoint](../../reports/DELVERS_EARLY_RUINS_2026-10-26.md) distinguishing explored connections, repeated architecture and unrecovered clues.
-
-The [right-stair complex](places/right-stair-grick-urn-complex.md) and [black-slime chamber](places/black-slime-key-chamber.md) have a [puzzle-place checkpoint](../../reports/DELVERS_PUZZLE_CHAMBERS_2026-10-26.md). It also corrects the forest entrance's later repaired condition and established exit route.
-
-The [triangle-gate catacombs](places/triangle-gate-catacombs.md) and [Black Basilica](places/black-basilica.md) have a [connected-place checkpoint](../../reports/DELVERS_CATACOMBS_BASILICA_2026-10-26.md), separating gate/urn chronology from the physical hall and its psychic prison.
-
-[Deep Winds Spa](places/deep-winds-spa.md) and the [Dawnless Dunes pyramid](places/dawnless-dunes-pyramid.md) have a [place checkpoint](../../reports/DELVERS_SPA_DUNES_2026-10-26.md) distinguishing paid refuge, forced-labor infrastructure and the finale's actual collapse.
-
-[Chath Peak](places/chath-peak.md) and [Snake Island](places/snake-island.md) have an [expedition-setting checkpoint](../../reports/DELVERS_CHATH_SNAKE_2026-10-26.md) distinguishing played terrain, retrospective outcomes, incomplete memories and later survivor evidence.
-
-[Hooper Estate](places/hooper-estate.md) and the [Minotaur Mesa bone crypt](places/minotaur-mesa-bone-crypt.md) have a [place checkpoint](../../reports/DELVERS_HOOPER_CRYPT_2026-10-26.md), separating the family burial, voluntary council and later final rest at the Guild.
-
-[Glepo Ma](characters/gleepo-ma.md) and [Skoogie](characters/skoogie.md) have a [character checkpoint](../../reports/DELVERS_GLEPO_SKOOGIE_2026-10-26.md) covering village bargains, exile/work, the dragon alliance and each final known outcome.
-
-[Marsh](characters/marsh.md) and [the Great Daufante](characters/the-great-daufante.md) have a [guest-character checkpoint](../../reports/DELVERS_MARSH_DAUFANTE_2026-10-26.md) covering tactical judgment, showmanship, disputed finds and supported departures.
-
-[Destroying Angel](characters/destroying-angel.md) and [Goggles Granny](characters/goggles-granny.md) have a [guest-allies checkpoint](../../reports/DELVERS_ANGEL_GRANNY_2026-10-26.md) covering diplomatic care, independent expertise, practical cooperation and their distinct departures.
-
-[Barclay](characters/barclay-vandergeist.md) and [Radiant Lance](characters/radiant-lance.md) have a [character checkpoint](../../reports/DELVERS_BARCLAY_RADIANT_2026-10-26.md) covering resourceful companionship, historical reputation, captive agency and their distinct final states.
-
-[Veggie Sticks](characters/veggie-sticks.md) and [Chad Brad](characters/chad-brad.md) have a [character checkpoint](../../reports/DELVERS_VEGGIE_CHAD_2026-10-27.md) covering protective boundaries, practical cooperation, farm companionship and final release.
-
-[Darmah Edstream](characters/darmah-edstream.md) and [Dumbledwark of Raisinbunch](characters/dumbledwark-of-raisinbunch.md) have a [character checkpoint](../../reports/DELVERS_DARMAH_DUMBLEDWARK_2026-10-27.md) covering rescue responsibility, practical assistance, journalistic access and ethical compromise.
-
-[Shrugs Manaspoon](characters/shrugs-manaspoon.md) and [Shaolin Nym](characters/shaolin-nym.md) have a [character checkpoint](../../reports/DELVERS_SHRUGS_SHAOLIN_2026-10-27.md) covering technical skill, imperfect concealment, ancient allegiance, final aid and their distinct departures.
-
-[Chuck Abnaz](characters/chuck-abnaz.md) and [Ambermore](characters/ambermoor.md) have a [character checkpoint](../../reports/DELVERS_CHUCK_AMBERMOOR_2026-10-27.md) covering family leverage, continued criminal business, experimental ambition and captive status.
-
-The [Masked Mage](characters/masked-mage.md) has a [character checkpoint](../../reports/DELVERS_MASKED_MAGE_2026-10-27.md) preserving his warning, attributed standing and unresolved identity. [Khalazar](characters/khalazar.md) has a [biography checkpoint](../../reports/DELVERS_KHALAZAR_2026-10-27.md) separating his shade, attributed history, physical body and final destruction. The refreshed [character inventory](../../project/DELVERS_CHARACTER_INVENTORY.json) now records all 35 paths with the expected presentation structure. The [character coverage audit](../../reports/DELVERS_CHARACTER_AUDIT_2026-10-27.md) now assigns all 35 biographies bounded focus/horizon dispositions in a [register](../../project/DELVERS_CHARACTER_DISPOSITIONS.json). This records direct scenes, reports, visions and retained limits; it does not certify complete factual accuracy or listening review.
-
-The [red crystal](items/khalazar-red-crystal.md) and [sensory amulet](items/khalazar-sensory-amulet.md) have a linked [artifact checkpoint](../../reports/DELVERS_CRYSTAL_DETECTOR_2026-10-27.md) distinguishing the recovered component, constructed detector, observed response, later bracer and unresolved custody/function limits.
-
-The [three organ urns](items/three-urns-triangle-gate.md) and [individual heart jar](items/dried-heart-jar.md) have a linked [artifact checkpoint](../../reports/DELVERS_URNS_HEART_2026-10-27.md) preserving the set/component distinction, changing custody, released gate keys, actual organ use and unknown final empty-vessel fate.
-
-The [Hereditary Drone](items/hereditary-drone.md) has an [artifact checkpoint](../../reports/DELVERS_DRONE_2026-10-27.md) distinguishing portable assembly, selective playback, attributed theory, larger source and unresolved final custody/condition.
-
-The [stolen tome](items/stolen-warlocks-tome.md) and [Deck of Many Things](items/deck-of-many-things.md) have an [artifact checkpoint](../../reports/DELVERS_TOME_DECK_2026-10-27.md) distinguishing recognized objects, physical transfers, reported history and untested powers or contents.
-
-The [radiant armour](items/loran-radiant-armour.md) and [transforming sword](items/vestal-diamond-heart-handle.md) have an [equipment checkpoint](../../reports/DELVERS_LORAN_EQUIPMENT_2026-10-27.md) separating initial recognition, guarded access, later acquisition and demonstrated protection or combat use.
-
-The [Devotee's Censer](items/devotees-censer.md) and [friendship ribbon](items/friendship-ribbon.md) have an [artifact checkpoint](../../reports/DELVERS_CENSER_RIBBON_2026-10-27.md) distinguishing stated blessings, demonstrated behavior, divided custody and last known physical appearances.
-
-[Chance's lantern context](items/chance-lantern.md) and the [drift globe](items/drift-globe.md) have a [reference checkpoint](../../reports/DELVERS_LANTERN_GLOBE_2026-10-27.md) distinguishing a communicating companion from a nonsentient light source, with separate identity and custody histories.
-
-The [Soul Knife hilt](items/runic-sword-hilt.md) and [Dragon Slayer's Longsword](items/dragon-slayer-longsword.md) have an [artifact checkpoint](../../reports/DELVERS_HILT_LONGSWORD_2026-10-27.md) distinguishing material destruction, enduring psychic ability, forge creation and the limits of a demonstrated anti-dragon strike.
-
-The [Bag of Hammer Holding](items/bag-of-hammer-holding.md) and [Ring of Protection](items/ring-of-protection.md) have an [artifact checkpoint](../../reports/DELVERS_BAG_RING_2026-10-27.md) distinguishing stated limits, observed use, separate equipment and unresolved later custody.
-
-The [Goat of Travail](items/goat-of-travail.md) and [Horn of Blasting](items/horn-of-blasting.md) have an [artifact checkpoint](../../reports/DELVERS_GOAT_HORN_2026-10-27.md) distinguishing stated summoning limits, demonstrated effects and later examination custody.
-
-The [Wand of Secrets and geared-disc account](items/wand-of-secrets-and-geared-disc.md) has an [artifact checkpoint](../../reports/DELVERS_WAND_DISC_2026-10-27.md) separating a demonstrated search tool, an incomplete fragment, matching construction and a later working crank.
-
-All 20 current item-directory paths now have [bounded artifact dispositions](../../project/DELVERS_ARTIFACT_DISPOSITIONS.json) and an [audit checkpoint](../../reports/DELVERS_ARTIFACT_AUDIT_2026-10-27.md), preserving Chance's companion context, the collective urn set and heart component, and the wand/disc comparison. Their last known states and unresolved limits remain explicit.
-
-[Ambermore](characters/ambermoor.md) and [Gemholm](places/gemholm.md) have a [provenance reconciliation](../../reports/DELVERS_PROVENANCE_RECONCILIATION_2026-10-27.md) retaining legacy paths and source aliases while integrating the recorded diary spelling. The Lake Obsul/Absul geographic crosswalk remains open; only the affected character/place audit rows have been refreshed.
-
-A [creature/faction inventory](../../reports/DELVERS_CREATURE_FACTION_INVENTORY_2026-10-27.md) records the remaining presentation, horizon and routing work in [structured form](../../project/DELVERS_CREATURE_FACTION_INVENTORY.json). Reasoning collectives and communities retain character context; existing institution pages remain canonical routes. This inventory does not certify or rewrite the remaining subjects.
-
-[All Rat](characters/all-rat.md) now has one canonical character account, with the former creature URL retained as a compatibility route. The [routing checkpoint](../../reports/DELVERS_CREATURE_ROUTING_2026-10-27.md) also separates speaking minotaur community references and updates the creature index's bat and hatchling outcomes.
-
-All 27 current place-directory paths now have bounded editorial dispositions: 25 place/institution accounts, one historical event study and one compatibility route. The [place audit](../../reports/DELVERS_PLACE_AUDIT_2026-10-26.md) and [disposition register](../../project/DELVERS_PLACE_DISPOSITIONS.json) distinguish direct site observations from later reports and outcomes. This does not certify complete factual coverage or finish the remaining world domains.
-
-The [grick/hook-horror checkpoint](../../reports/DELVERS_GRICKS_HOOK_HORRORS_2026-10-27.md) now integrates later grick survivors, the bank egg and hatchling, wild adult encounters and Scroungy's eventual farm work. Individual behavior remains distinct from species-wide rules.
-
-The [form/source-note checkpoint](../../reports/DELVERS_FORM_POLISH_2026-10-27.md) keeps Enzo's biography distinct from the flameskull, removes an obsolete closing supply count and separates the dead Noble Hollow roper from later ropers and surviving piercers.
-
-A [civic-institution checkpoint](../../reports/DELVERS_CIVIC_INSTITUTIONS_2026-10-27.md) updates [WORLD](WORLD.md)'s guild, Academy, Silver City and newspaper sections and brings its closing state through the finale. Technology, faith, communities and buried-history presentation remain queued; this is a partial thematic review.
-
-The [faith/community checkpoint](../../reports/DELVERS_FAITH_COMMUNITIES_2026-10-27.md) continues [WORLD](WORLD.md) with practical magic, attributed beliefs and treatments, lakeshore diplomacy, spa hospitality and the willing minotaur alliance. Twelve historical sections and five institutional contexts remain queued.
-
-The [buried-infrastructure checkpoint](../../reports/DELVERS_BURIED_INFRASTRUCTURE_2026-10-27.md) continues [WORLD](WORLD.md) through six cave, forest, company, keep and well sections. Local seals, later forest repairs and attributed ancient-history accounts remain distinct; six historical sections and four institutional contexts remain queued.
-
-The [WORLD histories checkpoint](../../reports/DELVERS_WORLD_HISTORIES_2026-10-27.md) covers the final six older histories and adds supported school/Gemholm summaries. All 24 current [WORLD](WORLD.md) sections and fourteen institutional contexts now have bounded presentation coverage. Source uncertainties, index-only creatures and final campaign integration remain open.
-
-The [creature-candidate checkpoint](../../reports/DELVERS_CREATURE_CANDIDATES_2026-10-27.md) gives the catacomb mummies and C4 behir bounded subject accounts. All seven creature/form index rows now link to profiles; reasoning figures retain separate character context. Final campaign integration and source/listening questions remain open.
+Use the [migration manifest](../../project/DELVERS_CLEANUP_MANIFEST.md#acceptance-tracking) for the complete dated batch history, [character dispositions](../../project/DELVERS_CHARACTER_DISPOSITIONS.json), [place dispositions](../../project/DELVERS_PLACE_DISPOSITIONS.json), [artifact dispositions](../../project/DELVERS_ARTIFACT_DISPOSITIONS.json) and [creature/institution inventory](../../project/DELVERS_CREATURE_FACTION_INVENTORY.json) for bounded scope, and the [review queue](../REVIEW_QUEUE.md) for open verification. The former progress catalogue is preserved in the integration archive.
 
 ## Subject directory
 
@@ -139,7 +39,7 @@ The [creature-candidate checkpoint](../../reports/DELVERS_CREATURE_CANDIDATES_20
 - [Chad Brad — cursed skeletal minotaur and Krandal's farm companion](characters/chad-brad.md)
 - [Cheet — a cleric's dangerous curiosity](characters/cheet.md)
 - [Chuck Abnaz — Nasty of the Cloven Brotherhood](characters/chuck-abnaz.md)
-- [Darmah Edstream — Five Emissaries rescue wizard (S3E11)](characters/darmah-edstream.md)
+- [Darmah Edstream — Five Emissaries rescue wizard](characters/darmah-edstream.md)
 - [Destroying Angel — centaur diplomatic envoy](characters/destroying-angel.md)
 - [Dumbledwark of Raisinbunch — visiting bard and dungeon correspondent](characters/dumbledwark-of-raisinbunch.md)
 - [Enzo Vanderbuck Withers — the lord in the mirror](characters/enzo-vanderbuck-withers.md)
@@ -158,7 +58,7 @@ The [creature-candidate checkpoint](../../reports/DELVERS_CREATURE_CANDIDATES_20
 - [Penelope “Penny” Spiros — Koh and Anathala/Anthela's daughter](characters/penelope-spiros.md)
 - [Princess Hissia — Snake Island royal visitor](characters/princess-hissia.md)
 - [Radiant Lance — historic Pelor knight, trapped mental witness](characters/radiant-lance.md)
-- [Shaolin Nym / Nim — ancient Dolbluth architect, S3E11](characters/shaolin-nym.md)
+- [Shaolin Nym / Nim — ancient Dolbluth architect](characters/shaolin-nym.md)
 - [Shrugs Manaspoon — guest burglar and demolition specialist](characters/shrugs-manaspoon.md)
 - [Skoogie — exiled kobold shaman of Chath Peak](characters/skoogie.md)
 - [The Great Daufante — illusionist of Teppensteppe Hall](characters/the-great-daufante.md)
@@ -172,7 +72,7 @@ The [creature-candidate checkpoint](../../reports/DELVERS_CREATURE_CANDIDATES_20
 - [Chath Peak — red-dragon mountain](places/chath-peak.md)
 - [Dawnless Dunes — fallen crystal, black pyramid and upper balcony](places/dawnless-dunes-pyramid.md)
 - [Deep Winds Spa — flumph hospitality beneath Atomer](places/deep-winds-spa.md)
-- [Delvers Dungeon Guild — first employment](places/delvers-guild.md)
+- [Delvers Dungeon Guild — Atomer](places/delvers-guild.md)
 - [Dungeon Guild Academy — the Radiant Lance Theatre](places/dungeon-guild-academy.md)
 - [Farm cave — first sealed passage](places/farm-cave.md)
 - [Gemholm — Lake Absul gem-dredging sandbar settlement](places/gemholm.md)

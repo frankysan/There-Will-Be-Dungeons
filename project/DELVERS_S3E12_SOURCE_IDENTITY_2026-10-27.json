@@ -1,0 +1,126 @@
+{
+  "date": "2026-10-27",
+  "campaign": "Delvers",
+  "season": 3,
+  "episode": "S3E12",
+  "publisher_title": "KOA is not A-OK",
+  "type": "Transcript-source identity follow-up; completed played-campaign finale",
+  "scope": "Byte provenance only; no new semantic source interpretation, metric or audio review",
+  "checked_HEAD": "ad1e3f6138485b0681d78d0205c25cb0ae204860",
+  "recorded_initial_local_commit": "6cf88c3d6a42c5698ff418cd22fc48ea80ec52f5",
+  "historical_remote_fingerprints_from": "reports/DELVERS_S3E12_ASR_COMPARISON_2026-10-26.md",
+  "sources": [
+    {
+      "label": "P",
+      "path": "sources/Delvers S3E12. KOA is not A-OK.parakeet.processed.srt",
+      "raw_bytes": 230059,
+      "raw_sha256": "e874acd7173c3af9ddb99a10bd2fc2eb1d0266338e9ec89e8d508f6d7b92de86",
+      "raw_git_blob_sha1": "f1bc2f87c458197b8b1b314ae4d85a9244f8b76a",
+      "recorded_GitHub_blob_sha1": "9ca7f16780ee9adcb4bcc16c7977b303fe06c8b0",
+      "CRLF_pairs": 11275,
+      "LF_bytes": 11275,
+      "LF_only_bytes": 218784,
+      "CRLF_to_LF_git_blob_sha1": "9ca7f16780ee9adcb4bcc16c7977b303fe06c8b0",
+      "raw_byte_identity": false,
+      "exact_comparison_after_only_CRLF_to_LF": true,
+      "local_Git_object_sha1_verified": true,
+      "recorded_initial_commit_path_blob": "9ca7f16780ee9adcb4bcc16c7977b303fe06c8b0",
+      "phase_A_file_state": {
+        "size": 230059,
+        "mtime_ns": 1792666305732384500
+      }
+    },
+    {
+      "label": "Q",
+      "path": "sources/Delvers S3E12. KOA is not A-OK.qwen-q8.canary-ctc.nemotron.srt",
+      "raw_bytes": 314983,
+      "raw_sha256": "fd59903bf8e8f5e0dafb2bd98d0c3cccdda62c97e8732192ddf95eca4934cfd8",
+      "raw_git_blob_sha1": "f8d59a7a47671a7512d81c46e2ec5ce038c80803",
+      "recorded_GitHub_blob_sha1": "2595bfc3f312d3a35f6b35ec74a2dbd30c933a29",
+      "CRLF_pairs": 15908,
+      "LF_bytes": 15908,
+      "LF_only_bytes": 299075,
+      "CRLF_to_LF_git_blob_sha1": "2595bfc3f312d3a35f6b35ec74a2dbd30c933a29",
+      "raw_byte_identity": false,
+      "exact_comparison_after_only_CRLF_to_LF": true,
+      "local_Git_object_sha1_verified": true,
+      "recorded_initial_commit_path_blob": "2595bfc3f312d3a35f6b35ec74a2dbd30c933a29",
+      "phase_A_file_state": {
+        "size": 314983,
+        "mtime_ns": 1792716067756153900
+      }
+    }
+  ],
+  "phases": {
+    "resume_identify": "complete",
+    "source_identity_evidence": "complete; exact LF-normalized bytes and local historical tree verified",
+    "core_documentation": "complete",
+    "continuity_and_entities": "not applicable; no fictional fact changed",
+    "targeted_validation": "complete"
+  },
+  "archive_manifest": "research/legacy/2026-10-27/delvers-s3e12-source-identity/manifest.json",
+  "guarded_edits": [
+    {
+      "path": "delvers/episodes/S3E12.md",
+      "kind": "after-first-heading",
+      "inserted_text": "**Source-identity follow-up, 2026-10-27:** The [bounded fingerprint check](../../reports/DELVERS_S3E12_SOURCE_IDENTITY_2026-10-27.md) verifies that both local finale exports match the recorded Git blobs after CRLF-to-LF conversion only, and that those blob IDs occur at the two source paths in the originally recorded local commit. Raw local bytes differ in line endings. The older opening-line-only limitation below describes the original research checkpoint; no current remote branch, full independent Qwen interpretation or audio verification is claimed. Story findings and the earlier inter-ASR metric are unchanged."
+    },
+    {
+      "path": "reports/DELVERS_S3E12_ASR_COMPARISON_2026-10-26.md",
+      "kind": "after-first-heading",
+      "inserted_text": "**Source-identity follow-up, 2026-10-27:** [Recorded-blob verification](DELVERS_S3E12_SOURCE_IDENTITY_2026-10-27.md) now establishes exact equality after CRLF-to-LF conversion only and source-path membership in the recorded initial local commit. Raw local byte identity is false because of line endings; the precise historical/default remote branch tip is still unestablished. The provenance limitations below retain their original 2026-10-26 scope. The 1,946/20,356 text-disagreement result is not recomputed or upgraded to accuracy/audio verification."
+    },
+    {
+      "path": "delvers/REVIEW_QUEUE.md",
+      "kind": "after-marker",
+      "marker": "## Active cleanup and verification",
+      "inserted_text": "**S3E12 source identity, 2026-10-27:** The [fingerprint follow-up](../reports/DELVERS_S3E12_SOURCE_IDENTITY_2026-10-27.md) resolves the finale's opening-line-only comparison limit for the recorded source blobs: complete local exports equal those blobs after CRLF-to-LF conversion only, and both blob IDs match the recorded initial local commit's source paths. Raw bytes differ in line endings; current remote-branch identity, independent full Qwen reading, wording and audio remain unverified. Other dossiers' source limits and all existing issue IDs remain unchanged."
+    },
+    {
+      "path": "project/DELVERS_CLEANUP_MANIFEST.md",
+      "kind": "append",
+      "inserted_text": "### Verification follow-up \u2014 Delvers S3E12 transcript identity\n\n**2026-10-27: one source-identity limit resolved with explicit line-ending qualification.** [Report](../reports/DELVERS_S3E12_SOURCE_IDENTITY_2026-10-27.md) \u00b7 [Data/checkpoint](DELVERS_S3E12_SOURCE_IDENTITY_2026-10-27.json) \u00b7 [Archive](../research/legacy/2026-10-27/delvers-s3e12-source-identity/README.md).\n\nBoth local finale SRTs use CRLF. Converting only those pairs to LF in memory yields byte-for-byte equality with the two historically recorded Git blobs; their IDs also match the source paths in the original recorded local commit. Raw byte equality is false, and the current/historical remote branch tip is not newly identified. No source bytes are rewritten, no ASR metric is rerun, and no new dialogue, narrative, identity, custody or audio claim follows. Earlier comparison/provenance statements remain dated history with this follow-up linked.\n\nThis is verification after the completed editorial integration, not a reopened bulk rollout or a new main-campaign episode. Other source-identity limits and listening questions remain open. No commit or push.\n"
+    }
+  ],
+  "protected_files": {
+    "delvers/narrative/SEASON_ONE_ARC.md": "0e68940c1c0ab4766419cb88c6903cac8d5fd72889e6cded4001affecddeacdc",
+    "delvers/narrative/SEASON_TWO.md": "6462e3d4656a0aaf18f9b3ce8784c3eb6c76b3b916c5c95bec441f055ed889b3",
+    "delvers/narrative/SEASON_THREE.md": "e772b43b60966e3a4d105571c1f3b701903919011e82bf709cab15a7617ee280",
+    "delvers/world/WORLD.md": "99de32da9c9cba672f9b80d0585773e3c67fe223dba908fed4b6d70c14edc4b3",
+    "delvers/world/CONSISTENCY_LEDGER.md": "b83f33d3679a42175df65439282e033b80a2ccedcb9db2291e4824315fc724f6",
+    "delvers/SOURCE_INVENTORY.md": "3c7d8272764fe6c149c7e5da7b2831f9a288a5fc5d05859fb5a60b22e03f10a1"
+  },
+  "validation": {
+    "local_file_and_fragment_links": 1059,
+    "exact_original_hashes": 4,
+    "reading_copy_target_equivalence": 4,
+    "guarded_documentation_edits": 4,
+    "protected_story_controls": 6,
+    "source_file_states_unchanged_since_phase_A": 2,
+    "source_fingerprints_reused_from_phase_A": true,
+    "new_semantic_windows_reviewed": [],
+    "audio_windows_reviewed": [],
+    "ASR_metric_recomputed": false,
+    "errors": [],
+    "status": "passed",
+    "markdownlint": {
+      "maintained_files": 5,
+      "violations": 0
+    },
+    "whitespace": {
+      "scoped_git_diff_check": "passed",
+      "new_files_checked": 8,
+      "direct_new_file_check": "passed"
+    },
+    "editorial_status": "complete for source-identity follow-up only; recorded metrics and interpretive/audio limits unchanged",
+    "deferred": "No new semantic source reading, ASR metric, audio verification, remote tip query or whole-repository audit"
+  },
+  "remaining_limits": [
+    "Raw-byte equality is false: local CRLF differs from recorded LF Git objects",
+    "Recorded blob equality does not establish the remote branch tip or a new remote fetch",
+    "Existing primary-full/secondary-selected interpretation limits remain",
+    "No audio, map, sheet or image reviewed; no spellings, counts, custody or medical/revival gaps resolved",
+    "Original ASR metric retained historically, not recomputed or treated as accuracy"
+  ],
+  "next_verification": "If continuing source identity, inspect the S3E11 recorded-blob/local-source limit; no main-campaign episode follows S3E12"
+}

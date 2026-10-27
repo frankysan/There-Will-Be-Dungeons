@@ -1,6 +1,6 @@
 # Delvers — cleanup migration manifest
 
-**Baseline:** 2026-10-26, before the first implementation slice. **Status:** Every in-scope file structurally inventoried; claim-level horizon, identity and final-state acceptance remains pending unless recorded separately. [Plan](DELVERS_CAMPAIGN_CLEANUP_PLAN.md) · [Detailed baseline](DELVERS_CLEANUP_BASELINE.json).
+**Baseline:** 2026-10-26, before the first implementation slice. **Current editorial checkpoint:** 2026-10-27. The three narrative consolidations, world rollout and [bounded campaign integration](../reports/DELVERS_CAMPAIGN_INTEGRATION_2026-10-27.md) are recorded. Source/listening verification remains open. The inventory below is the historical structural baseline, not the current count or a fresh factual acceptance claim. [Plan](DELVERS_CAMPAIGN_CLEANUP_PLAN.md) · [Detailed baseline](DELVERS_CLEANUP_BASELINE.json).
 
 ## Method and boundaries
 
@@ -1062,3 +1062,31 @@ The unnamed catacomb mummies receive a form account without erasing former peopl
 Six exact pre-edit originals and reading copies are archived; the new pages have no prior profile originals. All 391 protected baseline hashes remain unchanged. The inventory adds two rows, resolves the two index-only searches and refreshes their index rows/counts/current queue. Existing six directory rows, WORLD context, all fourteen institutional rows and character/place/item registers are unchanged. There are now seven subject profiles plus one compatibility route across eight directory paths; seven index rows remain. This is bounded dossier-based publication, not a fresh full audio/source or creature-category certification. No commit or push.
 
 Next complete bounded Delvers integration checks across narrative, world, navigation and progress; retain unresolved source and listening questions.
+
+### Fifty-ninth implementation checkpoint — campaign integration
+
+**2026-10-27: editorial rollout and bounded integration pass recorded.** [Report](../reports/DELVERS_CAMPAIGN_INTEGRATION_2026-10-27.md) · [Coverage](DELVERS_CAMPAIGN_INTEGRATION_COVERAGE.json) · [Validation](DELVERS_CAMPAIGN_INTEGRATION_VALIDATION.json) · [Archive](../research/legacy/2026-10-27/delvers-campaign-integration/README.md).
+
+The current namespace contains 147 maintained Markdown files: 37 dossiers, eight narratives, 98 world files and four campaign controls. The world includes 36 character profiles, 27 place-directory paths, 20 item pages, eight creature-directory paths and seven root documents. Two pages deliberately route to canonical accounts; 89 ordinary subject/event pages have applicable introduction/status structure. WORLD has 24 thematic sections and fourteen institutional contexts. Historical baseline counts and earlier next-step checkpoints remain preserved.
+
+Portals and current programme records now describe completed editorial work. The world portal's incremental catalogue is consolidated into current scope and links to this manifest/registers; its subject directory remains. Character/place indexes replace front recaps and stale summaries with current canonical horizons. Selected checks retain Nopa/Hissia's reunion, Darmah's two circles, Khalazar's defeat, minotaur rest, Fredoroth's death, rebuilt farm, temple patient phases and their evidence limits. One broken S3E10 link is repaired without changing any other dossier byte.
+
+Fifteen exact originals and reading copies are archived. The broken link remains in the exact original and has an explicit correction in the readable copy. Protected hashes and all 77 captured Delvers SRT hashes are verified. Subject/narrative prose, original source exports/audio, ledger, issue IDs and source inventory are unchanged. Only current progress fields in three domain registers and the creature/institution inventory receive integration history. Deliberate compatibility routes and WORLD's old unreferenced provenance note are recorded exceptions.
+
+This is structural/navigation and selected final-state integration, not new sentence-level source acceptance, listening, original-map review or judicial/identity resolution. No further automatic rollout or main-campaign intake step remains. Follow up through existing source/listening issues and evidence-led corrections. No commit or push by this task.
+
+### Verification follow-up — Delvers S3E12 transcript identity
+
+**2026-10-27: one source-identity limit resolved with explicit line-ending qualification.** [Report](../reports/DELVERS_S3E12_SOURCE_IDENTITY_2026-10-27.md) · [Data/checkpoint](DELVERS_S3E12_SOURCE_IDENTITY_2026-10-27.json) · [Archive](../research/legacy/2026-10-27/delvers-s3e12-source-identity/README.md).
+
+Both local finale SRTs use CRLF. Converting only those pairs to LF in memory yields byte-for-byte equality with the two historically recorded Git blobs; their IDs also match the source paths in the original recorded local commit. Raw byte equality is false, and the current/historical remote branch tip is not newly identified. No source bytes are rewritten, no ASR metric is rerun, and no new dialogue, narrative, identity, custody or audio claim follows. Earlier comparison/provenance statements remain dated history with this follow-up linked.
+
+This is verification after the completed editorial integration, not a reopened bulk rollout or a new main-campaign episode. Other source-identity limits and listening questions remain open. No commit or push.
+
+### Verification follow-up — Delvers S3E11 transcript identity
+
+**2026-10-27: one additional source-identity limit resolved with line-ending qualification.** [Report](../reports/DELVERS_S3E11_SOURCE_IDENTITY_2026-10-27.md) · [Data/checkpoint](DELVERS_S3E11_SOURCE_IDENTITY_2026-10-27.json) · [Archive](../research/legacy/2026-10-27/delvers-s3e11-source-identity/README.md).
+
+Both local S3E11 exports use CRLF. Replacing only those pairs with LF in memory produces byte-for-byte equality with the recorded Git blobs, which also occur at the exact source paths in the originally recorded local commit. Raw bytes remain different. No new remote tip, independent Qwen interpretation, source metric, dialogue or audio claim is supplied. Original source files are not rewritten, and the prior S3E12 verification is preserved.
+
+The played S3E11 cutoff remains gate entry, captive discovery and bat diversion/evacuation preparation, not the completed rescues or victory of S3E12. This provenance follow-up does not reopen the completed editorial rollout. Other source/listening questions remain active. No commit or push.

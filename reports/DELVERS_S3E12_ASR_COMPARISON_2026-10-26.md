@@ -1,5 +1,7 @@
 # Delvers S3E12 — KOA is not A-OK: P/Q text comparison (2026-10-26)
 
+**Source-identity follow-up, 2026-10-27:** [Recorded-blob verification](DELVERS_S3E12_SOURCE_IDENTITY_2026-10-27.md) now establishes exact equality after CRLF-to-LF conversion only and source-path membership in the recorded initial local commit. Raw local byte identity is false because of line endings; the precise historical/default remote branch tip is still unestablished. The provenance limitations below retain their original 2026-10-26 scope. The 1,946/20,356 text-disagreement result is not recomputed or upgraded to accuracy/audio verification.
+
 [Complete final-episode source dossier](../delvers/episodes/S3E12.md). **S3E12 is the Season Three, third-arc AND complete played DELVERS CAMPAIGN finale**. Independently labelled export comparison: **1,946 / 20,356 = 9.56% exact ordered inter-ASR TEXT disagreement, NOT audio-verified WER or accuracy.**
 
 | Available independent SRT | Filename-derived pipeline label, not run-verified config | GitHub default branch blob SHA | Cues | Normalized tokens | End |

@@ -6,6 +6,12 @@
 
 ## Active cleanup and verification
 
+**S3E11 source identity, 2026-10-27:** The [fingerprint follow-up](../reports/DELVERS_S3E11_SOURCE_IDENTITY_2026-10-27.md) resolves the opening-line-only limit for the recorded source blobs: both complete local exports match after CRLF-to-LF conversion only, and both blob IDs match their source paths in the recorded initial local commit. Raw bytes differ in line endings; remote branch tip, additional Qwen interpretation, exact wording and audio remain unverified. The S3E12 follow-up below and all existing issue IDs remain intact. Further source-identity verification can inspect the S3E10 record; this is not new main-campaign intake.
+
+**S3E12 source identity, 2026-10-27:** The [fingerprint follow-up](../reports/DELVERS_S3E12_SOURCE_IDENTITY_2026-10-27.md) resolves the finale's opening-line-only comparison limit for the recorded source blobs: complete local exports equal those blobs after CRLF-to-LF conversion only, and both blob IDs match the recorded initial local commit's source paths. Raw bytes differ in line endings; current remote-branch identity, independent full Qwen reading, wording and audio remain unverified. Other dossiers' source limits and all existing issue IDs remain unchanged.
+
+**Editorial checkpoint, 2026-10-27:** The [rollout and bounded integration pass](../reports/DELVERS_CAMPAIGN_INTEGRATION_2026-10-27.md) are recorded. This leaves the source/listening questions below open; no issue is closed merely because its prose or navigation changed. There is no further automatic main-campaign intake or bulk-rewrite step.
+
 The [cleanup manifest](../project/DELVERS_CLEANUP_MANIFEST.md) tracks editorial work; [chapter maps](../project/DELVERS_NARRATIVE_CHAPTER_MAPS.md) track narrative coverage. Open source/listening issues below remain active unless explicitly resolved. Earlier next-episode instructions under the closed history are dated research checkpoints, not current intake tasks. Separately identified bonus work remains independent of the finished campaign.
 
 Priorities include consequential proper names and identity authority; final invitation wording; vision versus physical history; urn and red-shard custody; rescue headcount; Darmah's condition during escape; and full source identity where a dossier records only local/remote opening-line agreement. These are review leads, not new resolutions. Preserve existing issue IDs and consult the [consistency ledger](world/CONSISTENCY_LEDGER.md) before opening duplicates.

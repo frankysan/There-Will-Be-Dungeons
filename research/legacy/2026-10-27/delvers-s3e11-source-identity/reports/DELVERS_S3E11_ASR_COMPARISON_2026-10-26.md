@@ -1,0 +1,29 @@
+# Delvers S3E11 — There's a Bat in The Balcony: complete-export P/Q ASR comparison (2026-10-26)
+
+[Episode source-first dossier](../../../../../delvers/episodes/S3E11.md). **P/Q exact textual distance = 1,486 / 21,260 = 6.99%**, **NOT word error rate**, audio-verified accuracy, hallucination/omission counts, or correctness ranking.
+
+| Export (model only inferred from filename) | Remote DEFAULT-branch blob SHA | Cues | Normalized word tokens | Final end |
+| --- | --- | ---: | ---: | --- |
+| [P Parakeet processed](../../../../../sources/Delvers%20S3E11.%20There%27s%20a%20Bat%20in%20The%20Balcony.parakeet.processed.srt) | cd63b7834a96f7ca353aa10c11150aee53becf1c | 2,337 | 21,260 | 02:39:13.660 |
+| [Q Qwen-Q8/Canary-CTC/Nemotron-labelled](../../../../../sources/Delvers%20S3E11.%20There%27s%20a%20Bat%20in%20The%20Balcony.qwen-q8.canary-ctc.nemotron.srt) | 315f59825b3775f428457d060c3f5fd5f30ef8f7 | 3,696 | 21,287 | 02:39:13.340 |
+
+**Method:** Read all SRT cue blocks in chronological order; omit cue number and time lines and optional '(speaker N)' decorations. Join spoken text, lowercase, delete straight/curly apostrophes so contractions join, split after replacing all non-Unicode-letter/digit characters with spaces. Unit-cost ordered Levenshtein with two-row DP ±4,300-token index band yielded 1,486, **strictly less than band width**, proving equal to unrestricted global minimum. Q has **27 more words** and ends 0.320s earlier; P begins **00:00:00.640**, Q begins **00:00:06.400**. Measurements are text-only and not temporal alignment.
+
+**Source provenance:** Local MCP TWBD repository branch main HEAD 4938750dffdf49e572a88853554e9b0ca07d68a9 initially **clean**. Explicit HEAD-pinned GitHub P/Q fetches **failed 404**; complete exports fetched from GitHub DEFAULT branch, SHA above. First TEN local SRT lines each checked against remote beginning, but **entire local/remote byte identity unverified**. P full spoken text read chronologically in 5-min groups **0–160min** including credits; Q complete text numerically parsed plus selective independent windows **09–20, 22–31, 36–43, 60–70, 84–92, 102–112, 120–136, 143–159**, some output truncated, so NOT an independently complete continuous Q story review. **No original audio/MP3 listened to**, no original map, prop or character sheet examined.
+
+## Timestamped high-risk reading distinctions
+
+| Recording clock | Verification target / played-versus-claimed distinction |
+| --- | --- |
+| 00–10m | Missing list NOW roughly **37**, earlier S3E10 had 30 Bronze Ball names, not necessarily contradiction (more disappearances). Three Guild groups inside, Viper group remains outside. New item facts: Koh rapier/dagger and leather slit bracer, Nopa gold armour + Staff Python from Krandal, Chad Brad Mace of Disruption; no other inventory inferred. |
+| 10–20m | **ACTUAL urn installation opens gate**, architect telepathically claims ancient Emperor Orgoth Argus/Argir and Dolbluth ancestry; names/spellings differ P/Q. Says reconstitute true form using jar organs and wrist blood, **NOT yet done**. Urns SPRING OUT before entering, Koh says accept jars, separate packing unshown. |
+| 20–43m | All allies enter windless dark desert and gate SHUTS; giant shattered **blue crystal** resembles dream suspended city light/goIem cores, a portion visibly removed by tools; Koh ACTUALLY collects 3-inch shard. Ring Free Action allows no footprints on sand. Elk Albert/Mr Handsome naming playful; ring mechanics are session-adjudicated. |
+| 43–60m | Roper perceived and AVOIDED, pyramid/8 obelisks/green braziers discovered, presumed Hissia sighted FROM AFAR only, no verified personal ID. |
+| 60–95m | Koh/Dominic remove mummy psychic-spear guards, Koh NONLETHALLY renders elf labourers unconscious; Koh marks 11 outside with glamour rivets, NOT entire missing rescue. Noise caused by allied descent triggers balcony command to enslaved people; they march to temple, some knocked out during movement. |
+| 95–120m | Darmah ACTUALLY casts Spider Climb on Koh, he scales balcony; Dominic spots 90-ft statue with Khalazar face and disassembled mechanical spider, Withers, Buck Wildfire and elf labourers; Koh spies apparent Hissia and Keeves attending withered bat-adorned figure, but none of these captives are restored/released. |
+| 120–140m | Koh kills more guards, Ring Free Action **ACTUALLY resists mummy immobilizing magic**; giant skeletal bat shadow-skin, green jewelled collar/harness appears, clicks/possible echolocation **not definitively identified**. |
+| 140–159m | Workshop black-ichor tubes physically observed. Evacuation debate: 2 possible circles, 16 unconscious per gate (not stacked), perhaps more walking through; Remove Curse per-person debated and NOT CAST, Darmah **BEGINs preparations** only. Evelyn ACTUALLY rides elk into desert, BAT ACTUALLY FOLLOWS; others begin bringing prisoners. **No portal completed, no evacuees rescued, bat and Khalazar undefeated**. OOC next-week finale teaser not played. |
+
+**Audio-review queue:** exact Shaolin Nym/Nim, Dolbluth, Emperor Orgoth Argus/Argir; name of bat, Jars re-stowed by Koh? princess identity, 37 person roster, Pelor-bearing captive, specific guardian deaths, 11 stable elf count and circle capacity. **Next [Delvers S3E12 — KOA is not A-OK](../../../../../delvers/SOURCE_INVENTORY.md)**, unresearched.
+
+**Validation status (2026-10-26):** Manual editorial readback of episode, report, Season Three narrative, urn cutoff and core world indexes **COMPLETED**; Git status inspected. **Automated Markdown lint and TWBD tests NOT RUN** because connected MCP exposes only unrelated InfinityDB-specific runner. Original SRT/MP3 never edited in this pass. Initial clean tree now includes **concurrent unrelated Vorel illustration/reference changes**, preserved untouched; Git status also reports restricted entries not inspectable. No commit/push. No original audio heard. Source-byte equality remains unverified.

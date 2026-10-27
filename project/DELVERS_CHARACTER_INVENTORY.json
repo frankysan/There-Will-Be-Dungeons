@@ -15,7 +15,7 @@
     "Detailed horizons, later evidence and retained limits are recorded in DELVERS_CHARACTER_DISPOSITIONS.json",
     "All Rat added through a separately recorded routing review; original 35-page audit remains historical and was not rerun here."
   ],
-  "next_step": "Gricks/hook-horror review, then setting/institution work and final integration",
+  "next_step": "Editorial rollout and bounded integration recorded; targeted source/listening verification and evidence-led corrections through existing queue/ledger",
   "pages": [
     {
       "path": "delvers/world/characters/alexandre-vanderbuck-withers.md",
@@ -1329,6 +1329,16 @@
         "paths": 35,
         "presentation_structure_ready_for_audit": 35,
         "requires_migration": 0
+      }
+    }
+  ],
+  "bounded_integration_updates": [
+    {
+      "date": "2026-10-27",
+      "report": "reports/DELVERS_CAMPAIGN_INTEGRATION_2026-10-27.md",
+      "scope": "Current progress fields only; page rows/hashes and original audit bounds unchanged",
+      "previous_progress": {
+        "next_step": "Gricks/hook-horror review, then setting/institution work and final integration"
       }
     }
   ]

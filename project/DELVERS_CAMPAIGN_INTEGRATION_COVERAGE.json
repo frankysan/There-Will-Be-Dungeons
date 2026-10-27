@@ -1,0 +1,788 @@
+{
+  "date": "2026-10-27",
+  "scope": "Bounded campaign integration, current navigation/status reconciliation and one dossier link repair",
+  "headings": [
+    {
+      "path": "delvers/README.md",
+      "old_anchor": "delvers",
+      "disposition": "Existing heading/compatibility anchor retained"
+    },
+    {
+      "path": "delvers/README.md",
+      "old_anchor": "read-the-campaign",
+      "disposition": "Existing heading/compatibility anchor retained"
+    },
+    {
+      "path": "delvers/README.md",
+      "old_anchor": "research-and-editorial-reference",
+      "disposition": "Existing heading/compatibility anchor retained"
+    },
+    {
+      "path": "delvers/README.md",
+      "old_anchor": "evidence-boundary",
+      "disposition": "Existing heading/compatibility anchor retained"
+    },
+    {
+      "path": "delvers/DOCUMENTATION_PLAN.md",
+      "old_anchor": "delvers--documentation-plan",
+      "disposition": "Existing heading/compatibility anchor retained"
+    },
+    {
+      "path": "delvers/DOCUMENTATION_PLAN.md",
+      "old_anchor": "campaign-layers-and-locations",
+      "disposition": "Existing heading/compatibility anchor retained"
+    },
+    {
+      "path": "delvers/DOCUMENTATION_PLAN.md",
+      "old_anchor": "completed-story-boundaries",
+      "disposition": "Existing heading/compatibility anchor retained"
+    },
+    {
+      "path": "delvers/DOCUMENTATION_PLAN.md",
+      "old_anchor": "presentation-and-preservation",
+      "disposition": "Existing heading/compatibility anchor retained"
+    },
+    {
+      "path": "delvers/DOCUMENTATION_PLAN.md",
+      "old_anchor": "evidence-contract",
+      "disposition": "Existing heading/compatibility anchor retained"
+    },
+    {
+      "path": "delvers/DOCUMENTATION_PLAN.md",
+      "old_anchor": "current-implementation-order",
+      "disposition": "Existing heading/compatibility anchor retained"
+    },
+    {
+      "path": "delvers/REVIEW_QUEUE.md",
+      "old_anchor": "delvers--source-listening-and-editorial-review-queue",
+      "disposition": "Existing heading/compatibility anchor retained"
+    },
+    {
+      "path": "delvers/REVIEW_QUEUE.md",
+      "old_anchor": "active-cleanup-and-verification",
+      "disposition": "Existing heading/compatibility anchor retained"
+    },
+    {
+      "path": "delvers/REVIEW_QUEUE.md",
+      "old_anchor": "end-of-delvers-main-campaign-research",
+      "disposition": "Existing heading/compatibility anchor retained"
+    },
+    {
+      "path": "delvers/REVIEW_QUEUE.md",
+      "old_anchor": "historical-next-episode-queue-closed",
+      "disposition": "Existing heading/compatibility anchor retained"
+    },
+    {
+      "path": "delvers/REVIEW_QUEUE.md",
+      "old_anchor": "historical-episode-research-status--superseded-checkpoints",
+      "disposition": "Existing heading/compatibility anchor retained"
+    },
+    {
+      "path": "delvers/REVIEW_QUEUE.md",
+      "old_anchor": "open-preparation-and-intake-checks",
+      "disposition": "Existing heading/compatibility anchor retained"
+    },
+    {
+      "path": "delvers/REVIEW_QUEUE.md",
+      "old_anchor": "premiere-listening-and-continuity-tasks",
+      "disposition": "Existing heading/compatibility anchor retained"
+    },
+    {
+      "path": "delvers/REVIEW_QUEUE.md",
+      "old_anchor": "s1e04-listening-and-continuity-tasks-originally-misassigned-to-s1e03",
+      "disposition": "Existing heading/compatibility anchor retained"
+    },
+    {
+      "path": "delvers/REVIEW_QUEUE.md",
+      "old_anchor": "s1e05-listening-and-continuity-targets",
+      "disposition": "Existing heading/compatibility anchor retained"
+    },
+    {
+      "path": "delvers/REVIEW_QUEUE.md",
+      "old_anchor": "recording-progress",
+      "disposition": "Existing heading/compatibility anchor retained"
+    },
+    {
+      "path": "delvers/narrative/README.md",
+      "old_anchor": "delvers--narrative-histories",
+      "disposition": "Existing heading/compatibility anchor retained"
+    },
+    {
+      "path": "delvers/narrative/README.md",
+      "old_anchor": "primary-reading-order",
+      "disposition": "Existing heading/compatibility anchor retained"
+    },
+    {
+      "path": "delvers/narrative/README.md",
+      "old_anchor": "earlier-detailed-studies",
+      "disposition": "Existing heading/compatibility anchor retained"
+    },
+    {
+      "path": "delvers/narrative/README.md",
+      "old_anchor": "editorial-status",
+      "disposition": "Existing heading/compatibility anchor retained"
+    },
+    {
+      "path": "delvers/world/README.md",
+      "old_anchor": "delvers--world-reference",
+      "disposition": "Existing heading/compatibility anchor retained"
+    },
+    {
+      "path": "delvers/world/README.md",
+      "old_anchor": "browse-the-world",
+      "disposition": "Existing heading/compatibility anchor retained"
+    },
+    {
+      "path": "delvers/world/README.md",
+      "old_anchor": "cleanup-progress",
+      "disposition": "Existing heading/compatibility anchor retained"
+    },
+    {
+      "path": "delvers/world/README.md",
+      "old_anchor": "subject-directory",
+      "disposition": "Existing heading/compatibility anchor retained"
+    },
+    {
+      "path": "delvers/world/README.md",
+      "old_anchor": "people",
+      "disposition": "Existing heading/compatibility anchor retained"
+    },
+    {
+      "path": "delvers/world/README.md",
+      "old_anchor": "places-and-institutions",
+      "disposition": "Existing heading/compatibility anchor retained"
+    },
+    {
+      "path": "delvers/world/README.md",
+      "old_anchor": "items-and-artifacts",
+      "disposition": "Existing heading/compatibility anchor retained"
+    },
+    {
+      "path": "delvers/world/README.md",
+      "old_anchor": "creatures",
+      "disposition": "Existing heading/compatibility anchor retained"
+    },
+    {
+      "path": "delvers/world/README.md",
+      "old_anchor": "research-boundary",
+      "disposition": "Existing heading/compatibility anchor retained"
+    },
+    {
+      "path": "delvers/world/README.md",
+      "old_anchor": "cleanup-pilots",
+      "disposition": "Existing heading/compatibility anchor retained"
+    },
+    {
+      "path": "delvers/world/CHARACTERS.md",
+      "old_anchor": "delvers--characters",
+      "disposition": "Existing heading/compatibility anchor retained"
+    },
+    {
+      "path": "delvers/world/CHARACTERS.md",
+      "old_anchor": "guild-people-and-reported-absences",
+      "disposition": "Existing heading/compatibility anchor retained"
+    },
+    {
+      "path": "delvers/world/CHARACTERS.md",
+      "old_anchor": "forest-and-recent-guild-contacts",
+      "disposition": "Existing heading/compatibility anchor retained"
+    },
+    {
+      "path": "delvers/world/CHARACTERS.md",
+      "old_anchor": "reasoning-collectives-and-communities",
+      "disposition": "Existing heading/compatibility anchor retained"
+    },
+    {
+      "path": "delvers/world/PLACES.md",
+      "old_anchor": "delvers--places",
+      "disposition": "Existing heading/compatibility anchor retained"
+    },
+    {
+      "path": "delvers/episodes/S3E10.md",
+      "old_anchor": "delvers-s3e10--sad-in-a-boney-kind-of-way",
+      "disposition": "Existing heading/compatibility anchor retained"
+    },
+    {
+      "path": "delvers/episodes/S3E10.md",
+      "old_anchor": "source-asr-and-continuity-cautions",
+      "disposition": "Existing heading/compatibility anchor retained"
+    },
+    {
+      "path": "delvers/episodes/S3E10.md",
+      "old_anchor": "episode-events-by-recording-clock",
+      "disposition": "Existing heading/compatibility anchor retained"
+    },
+    {
+      "path": "delvers/episodes/S3E10.md",
+      "old_anchor": "open-verifications",
+      "disposition": "Existing heading/compatibility anchor retained"
+    },
+    {
+      "path": "project/DELVERS_CAMPAIGN_CLEANUP_PLAN.md",
+      "old_anchor": "delvers--completed-campaign-cleanup-plan",
+      "disposition": "Existing heading/compatibility anchor retained"
+    },
+    {
+      "path": "project/DELVERS_CAMPAIGN_CLEANUP_PLAN.md",
+      "old_anchor": "1-intended-result",
+      "disposition": "Existing heading/compatibility anchor retained"
+    },
+    {
+      "path": "project/DELVERS_CAMPAIGN_CLEANUP_PLAN.md",
+      "old_anchor": "2-initial-checkout-inventory-and-findings",
+      "disposition": "Existing heading/compatibility anchor retained"
+    },
+    {
+      "path": "project/DELVERS_CAMPAIGN_CLEANUP_PLAN.md",
+      "old_anchor": "3-story-boundaries-and-knowledge",
+      "disposition": "Existing heading/compatibility anchor retained"
+    },
+    {
+      "path": "project/DELVERS_CAMPAIGN_CLEANUP_PLAN.md",
+      "old_anchor": "4-narrative-consolidation",
+      "disposition": "Existing heading/compatibility anchor retained"
+    },
+    {
+      "path": "project/DELVERS_CAMPAIGN_CLEANUP_PLAN.md",
+      "old_anchor": "5-world-reference-consolidation",
+      "disposition": "Existing heading/compatibility anchor retained"
+    },
+    {
+      "path": "project/DELVERS_CAMPAIGN_CLEANUP_PLAN.md",
+      "old_anchor": "6-work-sequence-and-completion-gates",
+      "disposition": "Existing heading/compatibility anchor retained"
+    },
+    {
+      "path": "project/DELVERS_CAMPAIGN_CLEANUP_PLAN.md",
+      "old_anchor": "7-verification-work-alongside-editing",
+      "disposition": "Existing heading/compatibility anchor retained"
+    },
+    {
+      "path": "project/DELVERS_CAMPAIGN_CLEANUP_PLAN.md",
+      "old_anchor": "8-preservation-and-acceptance",
+      "disposition": "Existing heading/compatibility anchor retained"
+    },
+    {
+      "path": "project/DELVERS_CAMPAIGN_CLEANUP_PLAN.md",
+      "old_anchor": "9-recommended-first-implementation-slice",
+      "disposition": "Existing heading/compatibility anchor retained"
+    },
+    {
+      "path": "project/DELVERS_NARRATIVE_CHAPTER_MAPS.md",
+      "old_anchor": "delvers--narrative-chapter-maps",
+      "disposition": "Existing heading/compatibility anchor retained"
+    },
+    {
+      "path": "project/DELVERS_NARRATIVE_CHAPTER_MAPS.md",
+      "old_anchor": "method-and-reading-weight",
+      "disposition": "Existing heading/compatibility anchor retained"
+    },
+    {
+      "path": "project/DELVERS_NARRATIVE_CHAPTER_MAPS.md",
+      "old_anchor": "first-arc--implemented-pilot",
+      "disposition": "Existing heading/compatibility anchor retained"
+    },
+    {
+      "path": "project/DELVERS_NARRATIVE_CHAPTER_MAPS.md",
+      "old_anchor": "earlier-study-coverage-and-unique-material",
+      "disposition": "Existing heading/compatibility anchor retained"
+    },
+    {
+      "path": "project/DELVERS_NARRATIVE_CHAPTER_MAPS.md",
+      "old_anchor": "second-arc--implemented-consolidation",
+      "disposition": "Existing heading/compatibility anchor retained"
+    },
+    {
+      "path": "project/DELVERS_NARRATIVE_CHAPTER_MAPS.md",
+      "old_anchor": "third-arc--implemented-consolidation",
+      "disposition": "Existing heading/compatibility anchor retained"
+    },
+    {
+      "path": "project/DELVERS_NARRATIVE_CHAPTER_MAPS.md",
+      "old_anchor": "next-acceptance-work",
+      "disposition": "Existing heading/compatibility anchor retained"
+    },
+    {
+      "path": "project/DELVERS_CLEANUP_MANIFEST.md",
+      "old_anchor": "delvers--cleanup-migration-manifest",
+      "disposition": "Existing heading/compatibility anchor retained"
+    },
+    {
+      "path": "project/DELVERS_CLEANUP_MANIFEST.md",
+      "old_anchor": "method-and-boundaries",
+      "disposition": "Existing heading/compatibility anchor retained"
+    },
+    {
+      "path": "project/DELVERS_CLEANUP_MANIFEST.md",
+      "old_anchor": "page-inventory",
+      "disposition": "Existing heading/compatibility anchor retained"
+    },
+    {
+      "path": "project/DELVERS_CLEANUP_MANIFEST.md",
+      "old_anchor": "acceptance-tracking",
+      "disposition": "Existing heading/compatibility anchor retained"
+    },
+    {
+      "path": "project/DELVERS_CLEANUP_MANIFEST.md",
+      "old_anchor": "first-implementation-checkpoint",
+      "disposition": "Existing heading/compatibility anchor retained"
+    },
+    {
+      "path": "project/DELVERS_CLEANUP_MANIFEST.md",
+      "old_anchor": "season-one-reading-weight",
+      "disposition": "Existing heading/compatibility anchor retained"
+    },
+    {
+      "path": "project/DELVERS_CLEANUP_MANIFEST.md",
+      "old_anchor": "verification-and-remaining-scope",
+      "disposition": "Existing heading/compatibility anchor retained"
+    },
+    {
+      "path": "project/DELVERS_CLEANUP_MANIFEST.md",
+      "old_anchor": "second-implementation-checkpoint--season-two",
+      "disposition": "Existing heading/compatibility anchor retained"
+    },
+    {
+      "path": "project/DELVERS_CLEANUP_MANIFEST.md",
+      "old_anchor": "third-implementation-checkpoint--season-three",
+      "disposition": "Existing heading/compatibility anchor retained"
+    },
+    {
+      "path": "project/DELVERS_CLEANUP_MANIFEST.md",
+      "old_anchor": "fourth-implementation-checkpoint--world-pilots",
+      "disposition": "Existing heading/compatibility anchor retained"
+    },
+    {
+      "path": "project/DELVERS_CLEANUP_MANIFEST.md",
+      "old_anchor": "fifth-implementation-checkpoint--evelyn-and-krandal",
+      "disposition": "Existing heading/compatibility anchor retained"
+    },
+    {
+      "path": "project/DELVERS_CLEANUP_MANIFEST.md",
+      "old_anchor": "sixth-implementation-checkpoint--margaret-and-the-traveler",
+      "disposition": "Existing heading/compatibility anchor retained"
+    },
+    {
+      "path": "project/DELVERS_CLEANUP_MANIFEST.md",
+      "old_anchor": "seventh-implementation-checkpoint--nopa-ropa-and-hissia",
+      "disposition": "Existing heading/compatibility anchor retained"
+    },
+    {
+      "path": "project/DELVERS_CLEANUP_MANIFEST.md",
+      "old_anchor": "eighth-implementation-checkpoint--cassius-and-carrie",
+      "disposition": "Existing heading/compatibility anchor retained"
+    },
+    {
+      "path": "project/DELVERS_CLEANUP_MANIFEST.md",
+      "old_anchor": "ninth-implementation-checkpoint--wildfire-and-alexandre-withers",
+      "disposition": "Existing heading/compatibility anchor retained"
+    },
+    {
+      "path": "project/DELVERS_CLEANUP_MANIFEST.md",
+      "old_anchor": "tenth-implementation-checkpoint--anathala-and-penelope-spiros",
+      "disposition": "Existing heading/compatibility anchor retained"
+    },
+    {
+      "path": "project/DELVERS_CLEANUP_MANIFEST.md",
+      "old_anchor": "eleventh-implementation-checkpoint--broadside-and-cheet",
+      "disposition": "Existing heading/compatibility anchor retained"
+    },
+    {
+      "path": "project/DELVERS_CLEANUP_MANIFEST.md",
+      "old_anchor": "twelfth-implementation-checkpoint--marek-gideon-and-noble-hollow",
+      "disposition": "Existing heading/compatibility anchor retained"
+    },
+    {
+      "path": "project/DELVERS_CLEANUP_MANIFEST.md",
+      "old_anchor": "thirteenth-implementation-checkpoint--enzo-withers-and-skull-keep",
+      "disposition": "Existing heading/compatibility anchor retained"
+    },
+    {
+      "path": "project/DELVERS_CLEANUP_MANIFEST.md",
+      "old_anchor": "fourteenth-implementation-checkpoint--withers-estate-and-broscale-manor",
+      "disposition": "Existing heading/compatibility anchor retained"
+    },
+    {
+      "path": "project/DELVERS_CLEANUP_MANIFEST.md",
+      "old_anchor": "fifteenth-implementation-checkpoint--governor-hall-and-dungeon-guild-academy",
+      "disposition": "Existing heading/compatibility anchor retained"
+    },
+    {
+      "path": "project/DELVERS_CLEANUP_MANIFEST.md",
+      "old_anchor": "sixteenth-implementation-checkpoint--southwestern-well-and-temple-of-pelor",
+      "disposition": "Existing heading/compatibility anchor retained"
+    },
+    {
+      "path": "project/DELVERS_CLEANUP_MANIFEST.md",
+      "old_anchor": "seventeenth-implementation-checkpoint--farm-cave-and-consolidated-farmtower",
+      "disposition": "Existing heading/compatibility anchor retained"
+    },
+    {
+      "path": "project/DELVERS_CLEANUP_MANIFEST.md",
+      "old_anchor": "eighteenth-implementation-checkpoint--gemholm-and-the-kuo-toa-village",
+      "disposition": "Existing heading/compatibility anchor retained"
+    },
+    {
+      "path": "project/DELVERS_CLEANUP_MANIFEST.md",
+      "old_anchor": "nineteenth-implementation-checkpoint--submerged-ruins-and-grick-sinkhole",
+      "disposition": "Existing heading/compatibility anchor retained"
+    },
+    {
+      "path": "project/DELVERS_CLEANUP_MANIFEST.md",
+      "old_anchor": "twentieth-implementation-checkpoint--puzzle-chambers-and-forest-correction",
+      "disposition": "Existing heading/compatibility anchor retained"
+    },
+    {
+      "path": "project/DELVERS_CLEANUP_MANIFEST.md",
+      "old_anchor": "twenty-first-implementation-checkpoint--catacombs-and-black-basilica",
+      "disposition": "Existing heading/compatibility anchor retained"
+    },
+    {
+      "path": "project/DELVERS_CLEANUP_MANIFEST.md",
+      "old_anchor": "twenty-second-implementation-checkpoint--deep-winds-spa-and-dawnless-dunes",
+      "disposition": "Existing heading/compatibility anchor retained"
+    },
+    {
+      "path": "project/DELVERS_CLEANUP_MANIFEST.md",
+      "old_anchor": "twenty-third-implementation-checkpoint--chath-peak-and-snake-island",
+      "disposition": "Existing heading/compatibility anchor retained"
+    },
+    {
+      "path": "project/DELVERS_CLEANUP_MANIFEST.md",
+      "old_anchor": "twenty-fourth-implementation-checkpoint--hooper-estate-and-minotaur-crypt",
+      "disposition": "Existing heading/compatibility anchor retained"
+    },
+    {
+      "path": "project/DELVERS_CLEANUP_MANIFEST.md",
+      "old_anchor": "twenty-fifth-implementation-checkpoint--place-dispositions-and-public-reckoning",
+      "disposition": "Existing heading/compatibility anchor retained"
+    },
+    {
+      "path": "project/DELVERS_CLEANUP_MANIFEST.md",
+      "old_anchor": "twenty-sixth-implementation-checkpoint--glepo-ma-and-skoogie",
+      "disposition": "Existing heading/compatibility anchor retained"
+    },
+    {
+      "path": "project/DELVERS_CLEANUP_MANIFEST.md",
+      "old_anchor": "twenty-seventh-implementation-checkpoint--marsh-and-the-great-daufante",
+      "disposition": "Existing heading/compatibility anchor retained"
+    },
+    {
+      "path": "project/DELVERS_CLEANUP_MANIFEST.md",
+      "old_anchor": "twenty-eighth-implementation-checkpoint--destroying-angel-and-goggles-granny",
+      "disposition": "Existing heading/compatibility anchor retained"
+    },
+    {
+      "path": "project/DELVERS_CLEANUP_MANIFEST.md",
+      "old_anchor": "twenty-ninth-implementation-checkpoint--barclay-and-radiant-lance",
+      "disposition": "Existing heading/compatibility anchor retained"
+    },
+    {
+      "path": "project/DELVERS_CLEANUP_MANIFEST.md",
+      "old_anchor": "thirtieth-implementation-checkpoint--veggie-sticks-and-chad-brad",
+      "disposition": "Existing heading/compatibility anchor retained"
+    },
+    {
+      "path": "project/DELVERS_CLEANUP_MANIFEST.md",
+      "old_anchor": "thirty-first-implementation-checkpoint--darmah-and-dumbledwark",
+      "disposition": "Existing heading/compatibility anchor retained"
+    },
+    {
+      "path": "project/DELVERS_CLEANUP_MANIFEST.md",
+      "old_anchor": "thirty-second-implementation-checkpoint--shrugs-and-shaolin-nym",
+      "disposition": "Existing heading/compatibility anchor retained"
+    },
+    {
+      "path": "project/DELVERS_CLEANUP_MANIFEST.md",
+      "old_anchor": "thirty-third-implementation-checkpoint--chuck-abnaz-and-ambermoor",
+      "disposition": "Existing heading/compatibility anchor retained"
+    },
+    {
+      "path": "project/DELVERS_CLEANUP_MANIFEST.md",
+      "old_anchor": "thirty-fourth-implementation-checkpoint--masked-mage-and-character-inventory",
+      "disposition": "Existing heading/compatibility anchor retained"
+    },
+    {
+      "path": "project/DELVERS_CLEANUP_MANIFEST.md",
+      "old_anchor": "thirty-fifth-implementation-checkpoint--khalazar",
+      "disposition": "Existing heading/compatibility anchor retained"
+    },
+    {
+      "path": "project/DELVERS_CLEANUP_MANIFEST.md",
+      "old_anchor": "thirty-sixth-implementation-checkpoint--character-coverage-audit",
+      "disposition": "Existing heading/compatibility anchor retained"
+    },
+    {
+      "path": "project/DELVERS_CLEANUP_MANIFEST.md",
+      "old_anchor": "thirty-seventh-implementation-checkpoint--red-crystal-and-sensory-amulet",
+      "disposition": "Existing heading/compatibility anchor retained"
+    },
+    {
+      "path": "project/DELVERS_CLEANUP_MANIFEST.md",
+      "old_anchor": "thirty-eighth-implementation-checkpoint--organ-urns-and-dried-heart-jar",
+      "disposition": "Existing heading/compatibility anchor retained"
+    },
+    {
+      "path": "project/DELVERS_CLEANUP_MANIFEST.md",
+      "old_anchor": "thirty-ninth-implementation-checkpoint--hereditary-drone",
+      "disposition": "Existing heading/compatibility anchor retained"
+    },
+    {
+      "path": "project/DELVERS_CLEANUP_MANIFEST.md",
+      "old_anchor": "fortieth-implementation-checkpoint--stolen-tome-and-deck-of-many-things",
+      "disposition": "Existing heading/compatibility anchor retained"
+    },
+    {
+      "path": "project/DELVERS_CLEANUP_MANIFEST.md",
+      "old_anchor": "forty-first-implementation-checkpoint--lorans-radiant-armour-and-transforming-sword",
+      "disposition": "Existing heading/compatibility anchor retained"
+    },
+    {
+      "path": "project/DELVERS_CLEANUP_MANIFEST.md",
+      "old_anchor": "forty-second-implementation-checkpoint--devotees-censer-and-friendship-ribbon",
+      "disposition": "Existing heading/compatibility anchor retained"
+    },
+    {
+      "path": "project/DELVERS_CLEANUP_MANIFEST.md",
+      "old_anchor": "forty-third-implementation-checkpoint--chances-lantern-context-and-drift-globe",
+      "disposition": "Existing heading/compatibility anchor retained"
+    },
+    {
+      "path": "project/DELVERS_CLEANUP_MANIFEST.md",
+      "old_anchor": "forty-fourth-implementation-checkpoint--soul-knife-hilt-and-dragon-slayers-longsword",
+      "disposition": "Existing heading/compatibility anchor retained"
+    },
+    {
+      "path": "project/DELVERS_CLEANUP_MANIFEST.md",
+      "old_anchor": "forty-fifth-implementation-checkpoint--bag-of-hammer-holding-and-ring-of-protection",
+      "disposition": "Existing heading/compatibility anchor retained"
+    },
+    {
+      "path": "project/DELVERS_CLEANUP_MANIFEST.md",
+      "old_anchor": "forty-sixth-implementation-checkpoint--goat-of-travail-and-horn-of-blasting",
+      "disposition": "Existing heading/compatibility anchor retained"
+    },
+    {
+      "path": "project/DELVERS_CLEANUP_MANIFEST.md",
+      "old_anchor": "forty-seventh-implementation-checkpoint--wand-of-secrets-and-geared-disc",
+      "disposition": "Existing heading/compatibility anchor retained"
+    },
+    {
+      "path": "project/DELVERS_CLEANUP_MANIFEST.md",
+      "old_anchor": "forty-eighth-implementation-checkpoint--bounded-artifact-audit",
+      "disposition": "Existing heading/compatibility anchor retained"
+    },
+    {
+      "path": "project/DELVERS_CLEANUP_MANIFEST.md",
+      "old_anchor": "forty-ninth-implementation-checkpoint--bounded-provenance-reconciliation",
+      "disposition": "Existing heading/compatibility anchor retained"
+    },
+    {
+      "path": "project/DELVERS_CLEANUP_MANIFEST.md",
+      "old_anchor": "fiftieth-implementation-checkpoint--creaturefaction-inventory",
+      "disposition": "Existing heading/compatibility anchor retained"
+    },
+    {
+      "path": "project/DELVERS_CLEANUP_MANIFEST.md",
+      "old_anchor": "fifty-first-implementation-checkpoint--reasoning-collectives-and-finale-index-routing",
+      "disposition": "Existing heading/compatibility anchor retained"
+    },
+    {
+      "path": "project/DELVERS_CLEANUP_MANIFEST.md",
+      "old_anchor": "fifty-second-implementation-checkpoint--gricks-and-hook-horrors",
+      "disposition": "Existing heading/compatibility anchor retained"
+    },
+    {
+      "path": "project/DELVERS_CLEANUP_MANIFEST.md",
+      "old_anchor": "fifty-third-implementation-checkpoint--flameskull-and-roper-formsource-notes",
+      "disposition": "Existing heading/compatibility anchor retained"
+    },
+    {
+      "path": "project/DELVERS_CLEANUP_MANIFEST.md",
+      "old_anchor": "fifty-fourth-implementation-checkpoint--world-civic-institutions",
+      "disposition": "Existing heading/compatibility anchor retained"
+    },
+    {
+      "path": "project/DELVERS_CLEANUP_MANIFEST.md",
+      "old_anchor": "fifty-fifth-implementation-checkpoint--world-technology-faith-and-communities",
+      "disposition": "Existing heading/compatibility anchor retained"
+    },
+    {
+      "path": "project/DELVERS_CLEANUP_MANIFEST.md",
+      "old_anchor": "fifty-sixth-implementation-checkpoint--world-buried-infrastructure-and-companies",
+      "disposition": "Existing heading/compatibility anchor retained"
+    },
+    {
+      "path": "project/DELVERS_CLEANUP_MANIFEST.md",
+      "old_anchor": "fifty-seventh-implementation-checkpoint--world-histories-and-remaining-contexts",
+      "disposition": "Existing heading/compatibility anchor retained"
+    },
+    {
+      "path": "project/DELVERS_CLEANUP_MANIFEST.md",
+      "old_anchor": "fifty-eighth-implementation-checkpoint--index-only-creature-candidates",
+      "disposition": "Existing heading/compatibility anchor retained"
+    }
+  ],
+  "baseline_links": {
+    "active_delvers_markdown": 147,
+    "local_links": 2767,
+    "known_missing": [
+      "delvers/episodes/S3E10.md -> ../places/minotaur-mesa-bone-crypt.md"
+    ]
+  },
+  "additional_blocks": [
+    {
+      "path": "delvers/world/README.md",
+      "old_blocks": "Incremental progress catalogue and obsolete awaiting-cleanup assertion",
+      "target": "Current scope/register links; complete dated manifest history and exact archive; subject directory preserved"
+    },
+    {
+      "path": "delvers/world/CHARACTERS.md",
+      "old_blocks": "Front reverse recap and selected stale significance rows",
+      "target": "Compact intro and canonical horizon summaries; all table subjects retained, canonical biographies unchanged"
+    },
+    {
+      "path": "delvers/world/PLACES.md",
+      "old_blocks": "Front recap and early-only site/farm/dragon/temple summaries",
+      "target": "Compact intro and current canonical horizons; all table places and map/ASR distinctions retained"
+    },
+    {
+      "path": "delvers/episodes/S3E10.md",
+      "old_blocks": "One ../places/minotaur-mesa-bone-crypt.md target",
+      "target": "../world/places/minotaur-mesa-bone-crypt.md; every other byte unchanged"
+    },
+    {
+      "paths": [
+        "project/DELVERS_CHARACTER_INVENTORY.json",
+        "project/DELVERS_CHARACTER_DISPOSITIONS.json",
+        "project/DELVERS_ARTIFACT_DISPOSITIONS.json"
+      ],
+      "old_blocks": "Stale next-step/provenance-hash language",
+      "target": "Verification follow-up and previous progress history; page rows unchanged"
+    }
+  ],
+  "exceptions": [
+    {
+      "path": "delvers/world/creatures/all-rat-cranium-congregation.md",
+      "kind": "compatibility route to canonical All Rat biography"
+    },
+    {
+      "path": "delvers/world/places/splenderbelt-farm-delvers-tower.md",
+      "kind": "compatibility route to canonical Potato Grove history; metadata is routing, not a second subject biography"
+    },
+    {
+      "path": "delvers/world/places/guild-public-reckoning-s3e10.md",
+      "kind": "Historical event at established place-path; Lasting legacy allowed"
+    },
+    {
+      "path": "delvers/world/WORLD.md",
+      "kind": "One old unreferenced status note retained as historical provenance; no missing footnote definitions"
+    }
+  ],
+  "review_limits": "Full active-link and current subject-structure scan; selected final-state/knowledge crosschecks against existing narrative/subject/dossier/ledger records, not fresh whole-campaign factual or audio acceptance.",
+  "critical_crosschecks": [
+    {
+      "topic": "First-arc Academy cutaway retains S2E00 archive identity",
+      "paths": [
+        "delvers/narrative/SEASON_ONE_ARC.md",
+        "delvers/world/CHRONOLOGY.md",
+        "delvers/world/places/dungeon-guild-academy.md"
+      ],
+      "ledger_ids": [
+        "DEL-S2E00-001"
+      ]
+    },
+    {
+      "topic": "Both evacuations used; rescued total not audited; Darmah recovery unshown",
+      "paths": [
+        "delvers/narrative/SEASON_THREE.md",
+        "delvers/world/characters/darmah-edstream.md",
+        "delvers/world/places/delvers-guild.md"
+      ],
+      "ledger_ids": [
+        "DEL-S3E12-002"
+      ]
+    },
+    {
+      "topic": "Hissia rescued and reunited with Nopa; no Krandal marriage",
+      "paths": [
+        "delvers/narrative/SEASON_THREE.md",
+        "delvers/world/characters/nopa-ropa.md",
+        "delvers/world/characters/princess-hissia.md"
+      ],
+      "ledger_ids": [
+        "DEL-S3E12-003"
+      ]
+    },
+    {
+      "topic": "Physical true-heart defeat differs from city vision; separate blood application not supplied",
+      "paths": [
+        "delvers/narrative/SEASON_THREE.md",
+        "delvers/world/items/three-urns-triangle-gate.md",
+        "delvers/world/characters/khalazar.md"
+      ],
+      "ledger_ids": [
+        "DEL-S3E12-004",
+        "DEL-S3E12-005"
+      ]
+    },
+    {
+      "topic": "Ten minotaurs rest as bones; land/farm recover without universal monster extinction",
+      "paths": [
+        "delvers/narrative/SEASON_THREE.md",
+        "delvers/world/places/potato-grove.md",
+        "delvers/world/places/minotaur-mesa-bone-crypt.md",
+        "delvers/world/WORLD.md"
+      ],
+      "ledger_ids": [
+        "DEL-S3E12-006"
+      ]
+    },
+    {
+      "topic": "Invitation and sealed letter do not perform wedding, reunion or sequel",
+      "paths": [
+        "delvers/narrative/SEASON_THREE.md",
+        "delvers/world/characters/evelyn-grinkeeper.md",
+        "delvers/world/characters/gentleman-cavalier-traveler.md"
+      ],
+      "ledger_ids": [
+        "DEL-S3E12-006"
+      ]
+    },
+    {
+      "topic": "Unexplained badge retrieval differs from admitted tracking; urn custody phases retained",
+      "paths": [
+        "delvers/narrative/SEASON_THREE.md",
+        "delvers/world/items/three-urns-triangle-gate.md",
+        "delvers/world/CONSISTENCY_LEDGER.md"
+      ],
+      "ledger_ids": [
+        "DEL-S3E10-001",
+        "DEL-S3E10-002"
+      ]
+    }
+  ],
+  "current_counts": {
+    "active_delvers_markdown": 147,
+    "episode_dossiers": 37,
+    "narrative_files": 8,
+    "world_files": 98,
+    "campaign_controls": 4,
+    "character_profiles": 36,
+    "place_directory_paths": 27,
+    "item_directory_pages": 20,
+    "creature_directory_paths": 8,
+    "compatibility_routes": 2,
+    "ordinary_subject_event_pages": 89,
+    "world_sections": 24,
+    "institutional_contexts": 14
+  },
+  "open_followup": [
+    "Consequential names and map/audio authority, including Anathala/Anthela and Aytmer/Atomer, remain source-qualified",
+    "Invitation/groom/GCT wording, unopened letter and unplayed wedding/reunion",
+    "Ancient lineage/testimony and mental visions versus physical history",
+    "Urn/blood/red-shard/badge custody gaps and exact mechanisms",
+    "Missing/rescued counts and Darmah condition before final escape",
+    "Full source identity/equivalence and actual listening where dossiers document limits"
+  ]
+}

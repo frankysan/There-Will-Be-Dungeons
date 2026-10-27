@@ -21,7 +21,7 @@
     "Reported reassignment, retrospective departure, correspondence/advertising, visionary representation and physical outcomes remain distinct",
     "All 35 biographies and all 27 place pages preserved unchanged"
   ],
-  "next_work": "Gricks/hook-horror review and remaining setting/institution work; final integration pending",
+  "next_work": "Editorial rollout and bounded integration recorded; targeted source/listening verification and evidence-led corrections through existing queue/ledger",
   "pages": [
     {
       "path": "delvers/world/characters/alexandre-vanderbuck-withers.md",
@@ -5725,6 +5725,16 @@
         "ordinary_character_biographies": 35,
         "bounded_editorial_dispositions": 35,
         "biographies_changed_this_audit": 0
+      }
+    }
+  ],
+  "bounded_integration_updates": [
+    {
+      "date": "2026-10-27",
+      "report": "reports/DELVERS_CAMPAIGN_INTEGRATION_2026-10-27.md",
+      "scope": "Current progress fields only; page rows/hashes and original audit bounds unchanged",
+      "previous_progress": {
+        "next_work": "Gricks/hook-horror review and remaining setting/institution work; final integration pending"
       }
     }
   ]

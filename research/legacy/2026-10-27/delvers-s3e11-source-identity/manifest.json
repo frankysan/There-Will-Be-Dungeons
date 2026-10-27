@@ -1,0 +1,95 @@
+{
+  "date": "2026-10-27",
+  "scope": "Delvers S3E11 transcript identity follow-up only",
+  "files": [
+    {
+      "path": "delvers/episodes/S3E11.md",
+      "sha256": "dbe441533cdeed3d43f937c8a19164031df553caffb44f0b49204101cbac329e",
+      "original": "research/legacy/2026-10-27/delvers-s3e11-source-identity/delvers/episodes/S3E11.md.original",
+      "reading_copy": "research/legacy/2026-10-27/delvers-s3e11-source-identity/delvers/episodes/S3E11.md",
+      "reading_copy_link_corrections": []
+    },
+    {
+      "path": "reports/DELVERS_S3E11_ASR_COMPARISON_2026-10-26.md",
+      "sha256": "2c9583c3d31b015d2de24e7666de9f4e43677e44f4e26267fe43ee3918a3a076",
+      "original": "research/legacy/2026-10-27/delvers-s3e11-source-identity/reports/DELVERS_S3E11_ASR_COMPARISON_2026-10-26.md.original",
+      "reading_copy": "research/legacy/2026-10-27/delvers-s3e11-source-identity/reports/DELVERS_S3E11_ASR_COMPARISON_2026-10-26.md",
+      "reading_copy_link_corrections": []
+    },
+    {
+      "path": "delvers/REVIEW_QUEUE.md",
+      "sha256": "ed206f14859d9cb8b7509a6046eafc23950e61cfee25e6319216c9e00ec6b31d",
+      "original": "research/legacy/2026-10-27/delvers-s3e11-source-identity/delvers/REVIEW_QUEUE.md.original",
+      "reading_copy": "research/legacy/2026-10-27/delvers-s3e11-source-identity/delvers/REVIEW_QUEUE.md",
+      "reading_copy_link_corrections": []
+    },
+    {
+      "path": "project/DELVERS_CLEANUP_MANIFEST.md",
+      "sha256": "3a4970abddc7c385a57314321c2310f771364156a0db3c112019ecec7ec1e8e9",
+      "original": "research/legacy/2026-10-27/delvers-s3e11-source-identity/project/DELVERS_CLEANUP_MANIFEST.md.original",
+      "reading_copy": "research/legacy/2026-10-27/delvers-s3e11-source-identity/project/DELVERS_CLEANUP_MANIFEST.md",
+      "reading_copy_link_corrections": []
+    }
+  ],
+  "protected_files": {
+    "delvers/narrative/SEASON_ONE_ARC.md": "0e68940c1c0ab4766419cb88c6903cac8d5fd72889e6cded4001affecddeacdc",
+    "delvers/narrative/SEASON_TWO.md": "6462e3d4656a0aaf18f9b3ce8784c3eb6c76b3b916c5c95bec441f055ed889b3",
+    "delvers/narrative/SEASON_THREE.md": "e772b43b60966e3a4d105571c1f3b701903919011e82bf709cab15a7617ee280",
+    "delvers/world/WORLD.md": "99de32da9c9cba672f9b80d0585773e3c67fe223dba908fed4b6d70c14edc4b3",
+    "delvers/world/CONSISTENCY_LEDGER.md": "b83f33d3679a42175df65439282e033b80a2ccedcb9db2291e4824315fc724f6",
+    "delvers/SOURCE_INVENTORY.md": "3c7d8272764fe6c149c7e5da7b2831f9a288a5fc5d05859fb5a60b22e03f10a1",
+    "delvers/episodes/S3E12.md": "b0e0b60ff8b6dca58e718813df7ffc7fce786b958161e427d7cb2e9a33f99add",
+    "reports/DELVERS_S3E12_ASR_COMPARISON_2026-10-26.md": "71e8fb63ca64e77ed4315f82795f78e1c96ff8831aa4ee4f0060818214d66067",
+    "reports/DELVERS_S3E12_SOURCE_IDENTITY_2026-10-27.md": "83de9c096aef31a71691913045d0d8687bacef39fcc0e0a2fae95ffe345d9005",
+    "project/DELVERS_S3E12_SOURCE_IDENTITY_2026-10-27.json": "e6a7f8025535a02cc5f332c4b707a45bc222c16cc31d928a4ec8d9354e3d4988"
+  },
+  "source_inputs": [
+    {
+      "label": "P",
+      "path": "sources/Delvers S3E11. There's a Bat in The Balcony.parakeet.processed.srt",
+      "raw_bytes": 230783,
+      "raw_sha256": "5c5379169648bfa26daa5b0d6c546a5494806cbccf062f3f05cff46fe77dfb01",
+      "raw_git_blob_sha1": "8366d9d86e1a5d30b36150476a24ac82b413fb0b",
+      "recorded_GitHub_blob_sha1": "cd63b7834a96f7ca353aa10c11150aee53becf1c",
+      "CRLF_pairs": 11228,
+      "LF_bytes": 11228,
+      "UTF8_BOM": false,
+      "LF_only_bytes": 219555,
+      "CRLF_to_LF_git_blob_sha1": "cd63b7834a96f7ca353aa10c11150aee53becf1c",
+      "raw_byte_identity": false,
+      "exact_comparison_after_only_CRLF_to_LF": true,
+      "local_Git_object_sha1_verified": true,
+      "recorded_initial_commit_path_blob": "cd63b7834a96f7ca353aa10c11150aee53becf1c",
+      "recorded_initial_commit_path_match": true,
+      "phase_A_file_state": {
+        "size": 230783,
+        "mtime_ns": 1792665885308748100
+      }
+    },
+    {
+      "label": "Q",
+      "path": "sources/Delvers S3E11. There's a Bat in The Balcony.qwen-q8.canary-ctc.nemotron.srt",
+      "raw_bytes": 303324,
+      "raw_sha256": "b1123cab7fa60c400273be77fa346b4337071beea7b9bbf4746498a3031e66fc",
+      "raw_git_blob_sha1": "93fad9f674e2a18a523b578d06ad7fdc514c82c1",
+      "recorded_GitHub_blob_sha1": "315f59825b3775f428457d060c3f5fd5f30ef8f7",
+      "CRLF_pairs": 14784,
+      "LF_bytes": 14784,
+      "UTF8_BOM": false,
+      "LF_only_bytes": 288540,
+      "CRLF_to_LF_git_blob_sha1": "315f59825b3775f428457d060c3f5fd5f30ef8f7",
+      "raw_byte_identity": false,
+      "exact_comparison_after_only_CRLF_to_LF": true,
+      "local_Git_object_sha1_verified": true,
+      "recorded_initial_commit_path_blob": "315f59825b3775f428457d060c3f5fd5f30ef8f7",
+      "recorded_initial_commit_path_match": true,
+      "phase_A_file_state": {
+        "size": 303324,
+        "mtime_ns": 1792715492599726600
+      }
+    }
+  ],
+  "recorded_initial_local_commit": "4938750dffdf49e572a88853554e9b0ca07d68a9",
+  "current_checked_HEAD": "ad1e3f6138485b0681d78d0205c25cb0ae204860",
+  "working_tree_context": "Prior integration/source-identity changes and concurrent Wastes work preserved; no source writes, commit or push"
+}

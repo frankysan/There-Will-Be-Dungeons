@@ -1,6 +1,6 @@
 # Delvers — documentation plan
 
-**Current programme, 2026-10-26:** All 37 main-campaign episode dossiers are present, and S3E12 concludes Season Three, the third arc and the entire played Delvers campaign. Work now centers on the [completed-campaign cleanup](../project/DELVERS_CAMPAIGN_CLEANUP_PLAN.md), listening verification and separately identified bonuses. No further main-campaign source is queued.
+**Current programme, 2026-10-27:** All 37 main-campaign episode dossiers are present, and S3E12 concludes Season Three, the third arc and the entire played Delvers campaign. The [editorial rollout and bounded integration pass](../reports/DELVERS_CAMPAIGN_INTEGRATION_2026-10-27.md) are recorded under the [completed-campaign cleanup](../project/DELVERS_CAMPAIGN_CLEANUP_PLAN.md). Remaining work concerns source/listening verification, separately identified bonuses and any evidence-led corrections. No further main-campaign source is queued.
 
 The [pre-cleanup plan](../research/legacy/2026-10-26/delvers-campaign-cleanup/delvers/DOCUMENTATION_PLAN.md) preserves the 2026-10-24 foundation and incremental research milestones, including their original next-episode pointers. Those pointers are historical. The [migration manifest](../project/DELVERS_CLEANUP_MANIFEST.md) owns current cleanup progress.
 
@@ -43,11 +43,9 @@ Before substantial rewrites, preserve exact working-copy bytes under `research/l
 
 ## Current implementation order
 
-1. Structural inventory and main-prose measurements for every world/narrative page and campaign control document; claim-level horizon and final-state checks remain separate acceptance work.
-2. Reconcile active navigation and research pointers; prepare chapter maps for all three arcs.
-3. Archive and consolidate Season One as the first narrative pilot, checking coverage against dossiers and the four earlier studies.
-4. Apply the accepted approach to the later narratives, then conduct the bounded world pilots before broader rollout.
-5. Cross-check the campaign reading route, chronology, ledger and final states; retain open evidence questions honestly.
+The initial sequence is complete within the recorded editorial bounds: inventory and navigation, three preserved narrative consolidations, domain-based world rollout and a campaign integration pass. The original sequence is preserved in the integration archive; the migration manifest records per-batch evidence.
+
+Current follow-up is verification rather than another assumed episode or bulk rewrite. Use the existing review queue and consistency ledger for consequential identity, wording, custody and headcount questions. Any correction should preserve the established canonical routes and archive its changed working copies. See the [integration report](../reports/DELVERS_CAMPAIGN_INTEGRATION_2026-10-27.md) for actual checks and limits.
 
 Each batch requires preserved originals, meaningful coverage review, footnote/link checks, focused Markdownlint and a scoped whitespace check. The manifest records what has actually passed. No page is accepted merely because it has been rewritten.
 

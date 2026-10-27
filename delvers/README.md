@@ -12,7 +12,7 @@ Three adventurers begin with wooden guild badges and small commissions in Atomer
 | [World reference](world/README.md) | Characters, places, creatures, artifacts and setting |
 | [Narrative guide](narrative/README.md) | Primary reading order and earlier detailed studies |
 
-All three arcs and the played campaign conclude at **S3E12 — KOA is not A-OK**. The narratives and reference pages are undergoing the [completed-campaign cleanup](../project/DELVERS_CAMPAIGN_CLEANUP_PLAN.md); All three primary narratives have received preserved consolidation passes. Most world subject pages retain accumulated research-era structure and await the planned domain-specific pilots.
+All three arcs and the played campaign conclude at **S3E12 — KOA is not A-OK**. The three primary narratives and world-reference rollout have received preserved editorial passes, followed by a [bounded campaign integration check](../reports/DELVERS_CAMPAIGN_INTEGRATION_2026-10-27.md). Source and listening questions remain open in the review queue; editorial cleanup does not certify every underlying claim.
 
 ## Research and editorial reference
 

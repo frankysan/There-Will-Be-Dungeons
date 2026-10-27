@@ -1,0 +1,651 @@
+{
+  "date": "2026-10-27",
+  "acceptance": "bounded-editorial-rollout-and-integration",
+  "scope_limits": "Not full factual or audio acceptance; original issue registers retain unresolved verification",
+  "namespace_counts": {
+    "active_delvers_markdown": 147,
+    "episode_dossiers": 37,
+    "narrative_files": 8,
+    "world_files": 98,
+    "campaign_controls": 4
+  },
+  "reachable_campaign_pages": 147,
+  "unreachable_campaign_pages": [],
+  "active_local_file_and_fragment_links": 2634,
+  "changed_and_archive_local_links": 1972,
+  "maintained_inbound_links": 282,
+  "former_headings_preserved": 124,
+  "exact_original_hashes": 15,
+  "reading_copy_target_equivalence": 15,
+  "explicit_reading_copy_link_corrections": 1,
+  "protected_hashes": 390,
+  "Delvers_SRT_hashes": 77,
+  "ordinary_subjects_checked": 89,
+  "subject_measurements": [
+    {
+      "path": "delvers/world/characters/alexandre-vanderbuck-withers.md",
+      "main_words": 510,
+      "source_notes": 9
+    },
+    {
+      "path": "delvers/world/characters/all-rat.md",
+      "main_words": 232,
+      "source_notes": 4
+    },
+    {
+      "path": "delvers/world/characters/ambermoor.md",
+      "main_words": 286,
+      "source_notes": 6
+    },
+    {
+      "path": "delvers/world/characters/anthela-spiros.md",
+      "main_words": 551,
+      "source_notes": 8
+    },
+    {
+      "path": "delvers/world/characters/barclay-vandergeist.md",
+      "main_words": 290,
+      "source_notes": 5
+    },
+    {
+      "path": "delvers/world/characters/broadside.md",
+      "main_words": 424,
+      "source_notes": 8
+    },
+    {
+      "path": "delvers/world/characters/buck-broscale-wildfire.md",
+      "main_words": 529,
+      "source_notes": 10
+    },
+    {
+      "path": "delvers/world/characters/carrie-underworld.md",
+      "main_words": 581,
+      "source_notes": 9
+    },
+    {
+      "path": "delvers/world/characters/cassius.md",
+      "main_words": 648,
+      "source_notes": 10
+    },
+    {
+      "path": "delvers/world/characters/chad-brad.md",
+      "main_words": 410,
+      "source_notes": 7
+    },
+    {
+      "path": "delvers/world/characters/cheet.md",
+      "main_words": 324,
+      "source_notes": 6
+    },
+    {
+      "path": "delvers/world/characters/chuck-abnaz.md",
+      "main_words": 335,
+      "source_notes": 6
+    },
+    {
+      "path": "delvers/world/characters/darmah-edstream.md",
+      "main_words": 284,
+      "source_notes": 5
+    },
+    {
+      "path": "delvers/world/characters/destroying-angel.md",
+      "main_words": 266,
+      "source_notes": 4
+    },
+    {
+      "path": "delvers/world/characters/dumbledwark-of-raisinbunch.md",
+      "main_words": 309,
+      "source_notes": 5
+    },
+    {
+      "path": "delvers/world/characters/enzo-vanderbuck-withers.md",
+      "main_words": 406,
+      "source_notes": 7
+    },
+    {
+      "path": "delvers/world/characters/evelyn-grinkeeper.md",
+      "main_words": 938,
+      "source_notes": 15
+    },
+    {
+      "path": "delvers/world/characters/gentleman-cavalier-traveler.md",
+      "main_words": 428,
+      "source_notes": 6
+    },
+    {
+      "path": "delvers/world/characters/gleepo-ma.md",
+      "main_words": 463,
+      "source_notes": 8
+    },
+    {
+      "path": "delvers/world/characters/goggles-granny.md",
+      "main_words": 272,
+      "source_notes": 5
+    },
+    {
+      "path": "delvers/world/characters/khalazar.md",
+      "main_words": 493,
+      "source_notes": 10
+    },
+    {
+      "path": "delvers/world/characters/koh-spiros.md",
+      "main_words": 965,
+      "source_notes": 11
+    },
+    {
+      "path": "delvers/world/characters/krandal-splenderbelt.md",
+      "main_words": 966,
+      "source_notes": 16
+    },
+    {
+      "path": "delvers/world/characters/marek-gideon.md",
+      "main_words": 307,
+      "source_notes": 5
+    },
+    {
+      "path": "delvers/world/characters/margaret-dupayton.md",
+      "main_words": 490,
+      "source_notes": 7
+    },
+    {
+      "path": "delvers/world/characters/marsh.md",
+      "main_words": 259,
+      "source_notes": 5
+    },
+    {
+      "path": "delvers/world/characters/masked-mage.md",
+      "main_words": 173,
+      "source_notes": 3
+    },
+    {
+      "path": "delvers/world/characters/nopa-ropa.md",
+      "main_words": 365,
+      "source_notes": 6
+    },
+    {
+      "path": "delvers/world/characters/penelope-spiros.md",
+      "main_words": 323,
+      "source_notes": 7
+    },
+    {
+      "path": "delvers/world/characters/princess-hissia.md",
+      "main_words": 406,
+      "source_notes": 6
+    },
+    {
+      "path": "delvers/world/characters/radiant-lance.md",
+      "main_words": 292,
+      "source_notes": 3
+    },
+    {
+      "path": "delvers/world/characters/shaolin-nym.md",
+      "main_words": 266,
+      "source_notes": 4
+    },
+    {
+      "path": "delvers/world/characters/shrugs-manaspoon.md",
+      "main_words": 282,
+      "source_notes": 5
+    },
+    {
+      "path": "delvers/world/characters/skoogie.md",
+      "main_words": 243,
+      "source_notes": 5
+    },
+    {
+      "path": "delvers/world/characters/the-great-daufante.md",
+      "main_words": 312,
+      "source_notes": 6
+    },
+    {
+      "path": "delvers/world/characters/veggie-sticks.md",
+      "main_words": 387,
+      "source_notes": 5
+    },
+    {
+      "path": "delvers/world/places/black-basilica.md",
+      "main_words": 356,
+      "source_notes": 6
+    },
+    {
+      "path": "delvers/world/places/black-slime-key-chamber.md",
+      "main_words": 342,
+      "source_notes": 6
+    },
+    {
+      "path": "delvers/world/places/broscale-manor.md",
+      "main_words": 339,
+      "source_notes": 6
+    },
+    {
+      "path": "delvers/world/places/chath-peak.md",
+      "main_words": 351,
+      "source_notes": 7
+    },
+    {
+      "path": "delvers/world/places/dawnless-dunes-pyramid.md",
+      "main_words": 395,
+      "source_notes": 7
+    },
+    {
+      "path": "delvers/world/places/deep-winds-spa.md",
+      "main_words": 380,
+      "source_notes": 7
+    },
+    {
+      "path": "delvers/world/places/delvers-guild.md",
+      "main_words": 799,
+      "source_notes": 8
+    },
+    {
+      "path": "delvers/world/places/dungeon-guild-academy.md",
+      "main_words": 477,
+      "source_notes": 9
+    },
+    {
+      "path": "delvers/world/places/farm-cave.md",
+      "main_words": 195,
+      "source_notes": 4
+    },
+    {
+      "path": "delvers/world/places/gemholm.md",
+      "main_words": 489,
+      "source_notes": 8
+    },
+    {
+      "path": "delvers/world/places/governors-hall.md",
+      "main_words": 485,
+      "source_notes": 7
+    },
+    {
+      "path": "delvers/world/places/grick-sinkhole.md",
+      "main_words": 427,
+      "source_notes": 7
+    },
+    {
+      "path": "delvers/world/places/guild-public-reckoning-s3e10.md",
+      "main_words": 262,
+      "source_notes": 6
+    },
+    {
+      "path": "delvers/world/places/hooper-estate.md",
+      "main_words": 286,
+      "source_notes": 5
+    },
+    {
+      "path": "delvers/world/places/kuo-toa-lakeshore-village.md",
+      "main_words": 401,
+      "source_notes": 7
+    },
+    {
+      "path": "delvers/world/places/minotaur-mesa-bone-crypt.md",
+      "main_words": 260,
+      "source_notes": 5
+    },
+    {
+      "path": "delvers/world/places/noble-hollow.md",
+      "main_words": 424,
+      "source_notes": 7
+    },
+    {
+      "path": "delvers/world/places/potato-grove.md",
+      "main_words": 586,
+      "source_notes": 10
+    },
+    {
+      "path": "delvers/world/places/right-stair-grick-urn-complex.md",
+      "main_words": 336,
+      "source_notes": 6
+    },
+    {
+      "path": "delvers/world/places/skull-keep.md",
+      "main_words": 427,
+      "source_notes": 8
+    },
+    {
+      "path": "delvers/world/places/snake-island.md",
+      "main_words": 366,
+      "source_notes": 7
+    },
+    {
+      "path": "delvers/world/places/southwestern-town-well.md",
+      "main_words": 304,
+      "source_notes": 5
+    },
+    {
+      "path": "delvers/world/places/submerged-lake-ruins.md",
+      "main_words": 382,
+      "source_notes": 7
+    },
+    {
+      "path": "delvers/world/places/temple-of-pelor.md",
+      "main_words": 546,
+      "source_notes": 10
+    },
+    {
+      "path": "delvers/world/places/triangle-gate-catacombs.md",
+      "main_words": 389,
+      "source_notes": 7
+    },
+    {
+      "path": "delvers/world/places/withers-estate.md",
+      "main_words": 412,
+      "source_notes": 7
+    },
+    {
+      "path": "delvers/world/items/bag-of-hammer-holding.md",
+      "main_words": 173,
+      "source_notes": 4
+    },
+    {
+      "path": "delvers/world/items/chance-lantern.md",
+      "main_words": 118,
+      "source_notes": 3
+    },
+    {
+      "path": "delvers/world/items/deck-of-many-things.md",
+      "main_words": 188,
+      "source_notes": 3
+    },
+    {
+      "path": "delvers/world/items/devotees-censer.md",
+      "main_words": 151,
+      "source_notes": 3
+    },
+    {
+      "path": "delvers/world/items/dragon-slayer-longsword.md",
+      "main_words": 182,
+      "source_notes": 5
+    },
+    {
+      "path": "delvers/world/items/dried-heart-jar.md",
+      "main_words": 227,
+      "source_notes": 4
+    },
+    {
+      "path": "delvers/world/items/drift-globe.md",
+      "main_words": 316,
+      "source_notes": 10
+    },
+    {
+      "path": "delvers/world/items/friendship-ribbon.md",
+      "main_words": 307,
+      "source_notes": 6
+    },
+    {
+      "path": "delvers/world/items/goat-of-travail.md",
+      "main_words": 166,
+      "source_notes": 4
+    },
+    {
+      "path": "delvers/world/items/hereditary-drone.md",
+      "main_words": 339,
+      "source_notes": 6
+    },
+    {
+      "path": "delvers/world/items/horn-of-blasting.md",
+      "main_words": 210,
+      "source_notes": 5
+    },
+    {
+      "path": "delvers/world/items/khalazar-red-crystal.md",
+      "main_words": 172,
+      "source_notes": 3
+    },
+    {
+      "path": "delvers/world/items/khalazar-sensory-amulet.md",
+      "main_words": 230,
+      "source_notes": 4
+    },
+    {
+      "path": "delvers/world/items/loran-radiant-armour.md",
+      "main_words": 208,
+      "source_notes": 4
+    },
+    {
+      "path": "delvers/world/items/ring-of-protection.md",
+      "main_words": 175,
+      "source_notes": 4
+    },
+    {
+      "path": "delvers/world/items/runic-sword-hilt.md",
+      "main_words": 275,
+      "source_notes": 9
+    },
+    {
+      "path": "delvers/world/items/stolen-warlocks-tome.md",
+      "main_words": 130,
+      "source_notes": 3
+    },
+    {
+      "path": "delvers/world/items/three-urns-triangle-gate.md",
+      "main_words": 447,
+      "source_notes": 5
+    },
+    {
+      "path": "delvers/world/items/vestal-diamond-heart-handle.md",
+      "main_words": 216,
+      "source_notes": 4
+    },
+    {
+      "path": "delvers/world/items/wand-of-secrets-and-geared-disc.md",
+      "main_words": 356,
+      "source_notes": 7
+    },
+    {
+      "path": "delvers/world/creatures/dungeon-c4-behir.md",
+      "main_words": 223,
+      "source_notes": 5
+    },
+    {
+      "path": "delvers/world/creatures/flameskull.md",
+      "main_words": 337,
+      "source_notes": 5
+    },
+    {
+      "path": "delvers/world/creatures/gricks.md",
+      "main_words": 322,
+      "source_notes": 7
+    },
+    {
+      "path": "delvers/world/creatures/hook-horrors.md",
+      "main_words": 398,
+      "source_notes": 10
+    },
+    {
+      "path": "delvers/world/creatures/noble-hollow-roper.md",
+      "main_words": 216,
+      "source_notes": 4
+    },
+    {
+      "path": "delvers/world/creatures/skeletal-bat-balcony.md",
+      "main_words": 199,
+      "source_notes": 3
+    },
+    {
+      "path": "delvers/world/creatures/triangle-gate-mummies.md",
+      "main_words": 194,
+      "source_notes": 4
+    }
+  ],
+  "compatibility_routes": [
+    "delvers/world/creatures/all-rat-cranium-congregation.md",
+    "delvers/world/places/splenderbelt-farm-delvers-tower.md"
+  ],
+  "WORLD_preserved_orphan_notes": [
+    "status"
+  ],
+  "narrative_measurements": [
+    {
+      "path": "delvers/narrative/SEASON_ONE_ARC.md",
+      "main_words": 3443,
+      "chapters_and_closing_material": [
+        {
+          "heading": "1. The guild's smallest promises",
+          "main_words": 375
+        },
+        {
+          "heading": "2. The mountains, the crypt and a third job",
+          "main_words": 398
+        },
+        {
+          "heading": "3. Lives outside the badges",
+          "main_words": 396
+        },
+        {
+          "heading": "4. The road to bronze",
+          "main_words": 394
+        },
+        {
+          "heading": "5. The lord who could not leave",
+          "main_words": 412
+        },
+        {
+          "heading": "6. Under the city's feet",
+          "main_words": 407
+        },
+        {
+          "heading": "7. The lake and the broken machine",
+          "main_words": 418
+        },
+        {
+          "heading": "8. The Noble Hollow",
+          "main_words": 392
+        },
+        {
+          "heading": "After the first arc",
+          "main_words": 163
+        }
+      ],
+      "source_notes": 11
+    },
+    {
+      "path": "delvers/narrative/SEASON_TWO.md",
+      "main_words": 3435,
+      "chapters_and_closing_material": [
+        {
+          "heading": "1. The forgotten fortnight",
+          "main_words": 384
+        },
+        {
+          "heading": "2. The wight wedding",
+          "main_words": 382
+        },
+        {
+          "heading": "3. Beneath the financier's house",
+          "main_words": 383
+        },
+        {
+          "heading": "4. The job no guild will record",
+          "main_words": 415
+        },
+        {
+          "heading": "5. Gemholm under the tide",
+          "main_words": 407
+        },
+        {
+          "heading": "6. The mountain of fire",
+          "main_words": 404
+        },
+        {
+          "heading": "7. A voice brought home",
+          "main_words": 502
+        },
+        {
+          "heading": "8. The Bronze Ball",
+          "main_words": 504
+        }
+      ],
+      "source_notes": 22
+    },
+    {
+      "path": "delvers/narrative/SEASON_THREE.md",
+      "main_words": 3802,
+      "chapters_and_closing_material": [
+        {
+          "heading": "1. The broken night",
+          "main_words": 367
+        },
+        {
+          "heading": "2. The lives they choose",
+          "main_words": 382
+        },
+        {
+          "heading": "3. Licensed depths",
+          "main_words": 397
+        },
+        {
+          "heading": "4. The sealed way",
+          "main_words": 381
+        },
+        {
+          "heading": "5. The lives that never happened",
+          "main_words": 387
+        },
+        {
+          "heading": "6. The third vessel",
+          "main_words": 382
+        },
+        {
+          "heading": "7. Atomer's reckoning",
+          "main_words": 413
+        },
+        {
+          "heading": "8. Beyond the triangle gate",
+          "main_words": 415
+        },
+        {
+          "heading": "9. The heart beneath the dunes",
+          "main_words": 480
+        },
+        {
+          "heading": "One year later",
+          "main_words": 147
+        }
+      ],
+      "source_notes": 16
+    }
+  ],
+  "registry_checks": [
+    {
+      "registry": "DELVERS_CHARACTER_DISPOSITIONS",
+      "rows": 36,
+      "matching_page_hashes": 36
+    },
+    {
+      "registry": "DELVERS_CHARACTER_INVENTORY",
+      "rows": 36,
+      "matching_page_hashes": 36
+    },
+    {
+      "registry": "DELVERS_PLACE_DISPOSITIONS",
+      "rows": 27,
+      "matching_page_hashes": 27
+    },
+    {
+      "registry": "DELVERS_ARTIFACT_DISPOSITIONS",
+      "rows": 20,
+      "matching_page_hashes": 20
+    }
+  ],
+  "creature_directory_hashes": 8,
+  "critical_reference_checks": 7,
+  "fixed_baseline_link": "S3E10 minotaur-crypt target; no other dossier bytes changed",
+  "errors": [],
+  "status": "passed",
+  "markdownlint": {
+    "maintained_changed_files": 12,
+    "violations": 0,
+    "final_two_control_and_report_rechecks": "passed"
+  },
+  "whitespace": {
+    "scoped_git_diff_check": "passed",
+    "direct_new_file_check": "passed",
+    "checked_new_files": 20
+  },
+  "manual_review": {
+    "scope": "Updated reader routes, index summaries, status/next-step records, intentional exceptions and seven selected final-state relationships reviewed against canonical/dossier/ledger records",
+    "limits": "Some large read/diff outputs were truncated; no fresh complete semantic reread of every biography, dossier or historical study, sentence-level audio acceptance or rendered-site check claimed"
+  },
+  "working_tree_context": "Initially clean main at ad80d071af89a968a25d186415b94cdb1a1b2df4; concurrent Wastes reports/progress changes preserved; no commit or push by this task."
+}

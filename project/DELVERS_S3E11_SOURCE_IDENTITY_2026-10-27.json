@@ -1,0 +1,112 @@
+{
+  "date": "2026-10-27",
+  "campaign": "Delvers",
+  "season": 3,
+  "episode": "S3E11",
+  "publisher_title": "There's a Bat in The Balcony",
+  "type": "Transcript-source identity follow-up only",
+  "scope": "Byte provenance only; no new semantic source interpretation, ASR metric or listening",
+  "checked_HEAD": "ad1e3f6138485b0681d78d0205c25cb0ae204860",
+  "recorded_initial_local_commit": "4938750dffdf49e572a88853554e9b0ca07d68a9",
+  "historical_remote_fingerprints_from": "reports/DELVERS_S3E11_ASR_COMPARISON_2026-10-26.md",
+  "sources": [
+    {
+      "label": "P",
+      "path": "sources/Delvers S3E11. There's a Bat in The Balcony.parakeet.processed.srt",
+      "raw_bytes": 230783,
+      "raw_sha256": "5c5379169648bfa26daa5b0d6c546a5494806cbccf062f3f05cff46fe77dfb01",
+      "raw_git_blob_sha1": "8366d9d86e1a5d30b36150476a24ac82b413fb0b",
+      "recorded_GitHub_blob_sha1": "cd63b7834a96f7ca353aa10c11150aee53becf1c",
+      "CRLF_pairs": 11228,
+      "LF_bytes": 11228,
+      "UTF8_BOM": false,
+      "LF_only_bytes": 219555,
+      "CRLF_to_LF_git_blob_sha1": "cd63b7834a96f7ca353aa10c11150aee53becf1c",
+      "raw_byte_identity": false,
+      "exact_comparison_after_only_CRLF_to_LF": true,
+      "local_Git_object_sha1_verified": true,
+      "recorded_initial_commit_path_blob": "cd63b7834a96f7ca353aa10c11150aee53becf1c",
+      "recorded_initial_commit_path_match": true,
+      "phase_A_file_state": {
+        "size": 230783,
+        "mtime_ns": 1792665885308748100
+      }
+    },
+    {
+      "label": "Q",
+      "path": "sources/Delvers S3E11. There's a Bat in The Balcony.qwen-q8.canary-ctc.nemotron.srt",
+      "raw_bytes": 303324,
+      "raw_sha256": "b1123cab7fa60c400273be77fa346b4337071beea7b9bbf4746498a3031e66fc",
+      "raw_git_blob_sha1": "93fad9f674e2a18a523b578d06ad7fdc514c82c1",
+      "recorded_GitHub_blob_sha1": "315f59825b3775f428457d060c3f5fd5f30ef8f7",
+      "CRLF_pairs": 14784,
+      "LF_bytes": 14784,
+      "UTF8_BOM": false,
+      "LF_only_bytes": 288540,
+      "CRLF_to_LF_git_blob_sha1": "315f59825b3775f428457d060c3f5fd5f30ef8f7",
+      "raw_byte_identity": false,
+      "exact_comparison_after_only_CRLF_to_LF": true,
+      "local_Git_object_sha1_verified": true,
+      "recorded_initial_commit_path_blob": "315f59825b3775f428457d060c3f5fd5f30ef8f7",
+      "recorded_initial_commit_path_match": true,
+      "phase_A_file_state": {
+        "size": 303324,
+        "mtime_ns": 1792715492599726600
+      }
+    }
+  ],
+  "phases": {
+    "resume_identify": "complete",
+    "source_identity_evidence": "complete",
+    "core_documentation": "complete",
+    "continuity_and_entities": "not applicable; no fictional fact changed",
+    "targeted_validation": "pending"
+  },
+  "validation": {
+    "status": "pending"
+  },
+  "remaining_limits": [
+    "Raw local/Git byte identity differs if CRLF/LF differs",
+    "Content correspondence does not identify remote branch tip or perform a new remote fetch",
+    "Earlier primary-full/secondary-selected interpretive coverage is unchanged",
+    "No audio or original maps/sheets/images reviewed; no name, count, custody or other fictional question resolved",
+    "Historical inter-ASR metric not recomputed or treated as accuracy"
+  ],
+  "next_verification": "Inspect the S3E10 recorded-blob/local-source limit if continuing this audit; no new main-campaign intake",
+  "archive_manifest": "research/legacy/2026-10-27/delvers-s3e11-source-identity/manifest.json",
+  "guarded_edits": [
+    {
+      "path": "delvers/episodes/S3E11.md",
+      "kind": "after-first-heading",
+      "inserted_text": "**Source-identity follow-up, 2026-10-27:** The [bounded fingerprint check](../../reports/DELVERS_S3E11_SOURCE_IDENTITY_2026-10-27.md) verifies complete local export equality with the recorded Git blobs after CRLF-to-LF conversion only, plus source-path membership in the originally recorded local commit. Raw bytes differ in line endings. The older opening-line-only limitation below describes the original research checkpoint; no current remote branch, additional independent Qwen reading or audio verification is claimed. The played cutoff and earlier inter-ASR metric are unchanged."
+    },
+    {
+      "path": "reports/DELVERS_S3E11_ASR_COMPARISON_2026-10-26.md",
+      "kind": "after-first-heading",
+      "inserted_text": "**Source-identity follow-up, 2026-10-27:** [Recorded-blob verification](DELVERS_S3E11_SOURCE_IDENTITY_2026-10-27.md) establishes exact equality after CRLF-to-LF conversion only and matching source paths in the recorded initial local commit. Raw local byte identity is false because of line endings. The precise historical/default remote branch tip remains unestablished. Earlier provenance and interpretive limits below retain their original date; the 1,486/21,260 text-disagreement result is neither recomputed nor upgraded to accuracy or listening verification."
+    },
+    {
+      "path": "delvers/REVIEW_QUEUE.md",
+      "kind": "after-marker",
+      "marker": "## Active cleanup and verification",
+      "inserted_text": "**S3E11 source identity, 2026-10-27:** The [fingerprint follow-up](../reports/DELVERS_S3E11_SOURCE_IDENTITY_2026-10-27.md) resolves the opening-line-only limit for the recorded source blobs: both complete local exports match after CRLF-to-LF conversion only, and both blob IDs match their source paths in the recorded initial local commit. Raw bytes differ in line endings; remote branch tip, additional Qwen interpretation, exact wording and audio remain unverified. The S3E12 follow-up below and all existing issue IDs remain intact. Further source-identity verification can inspect the S3E10 record; this is not new main-campaign intake."
+    },
+    {
+      "path": "project/DELVERS_CLEANUP_MANIFEST.md",
+      "kind": "append",
+      "inserted_text": "### Verification follow-up \u2014 Delvers S3E11 transcript identity\n\n**2026-10-27: one additional source-identity limit resolved with line-ending qualification.** [Report](../reports/DELVERS_S3E11_SOURCE_IDENTITY_2026-10-27.md) \u00b7 [Data/checkpoint](DELVERS_S3E11_SOURCE_IDENTITY_2026-10-27.json) \u00b7 [Archive](../research/legacy/2026-10-27/delvers-s3e11-source-identity/README.md).\n\nBoth local S3E11 exports use CRLF. Replacing only those pairs with LF in memory produces byte-for-byte equality with the recorded Git blobs, which also occur at the exact source paths in the originally recorded local commit. Raw bytes remain different. No new remote tip, independent Qwen interpretation, source metric, dialogue or audio claim is supplied. Original source files are not rewritten, and the prior S3E12 verification is preserved.\n\nThe played S3E11 cutoff remains gate entry, captive discovery and bat diversion/evacuation preparation, not the completed rescues or victory of S3E12. This provenance follow-up does not reopen the completed editorial rollout. Other source/listening questions remain active. No commit or push.\n"
+    }
+  ],
+  "protected_files": {
+    "delvers/narrative/SEASON_ONE_ARC.md": "0e68940c1c0ab4766419cb88c6903cac8d5fd72889e6cded4001affecddeacdc",
+    "delvers/narrative/SEASON_TWO.md": "6462e3d4656a0aaf18f9b3ce8784c3eb6c76b3b916c5c95bec441f055ed889b3",
+    "delvers/narrative/SEASON_THREE.md": "e772b43b60966e3a4d105571c1f3b701903919011e82bf709cab15a7617ee280",
+    "delvers/world/WORLD.md": "99de32da9c9cba672f9b80d0585773e3c67fe223dba908fed4b6d70c14edc4b3",
+    "delvers/world/CONSISTENCY_LEDGER.md": "b83f33d3679a42175df65439282e033b80a2ccedcb9db2291e4824315fc724f6",
+    "delvers/SOURCE_INVENTORY.md": "3c7d8272764fe6c149c7e5da7b2831f9a288a5fc5d05859fb5a60b22e03f10a1",
+    "delvers/episodes/S3E12.md": "b0e0b60ff8b6dca58e718813df7ffc7fce786b958161e427d7cb2e9a33f99add",
+    "reports/DELVERS_S3E12_ASR_COMPARISON_2026-10-26.md": "71e8fb63ca64e77ed4315f82795f78e1c96ff8831aa4ee4f0060818214d66067",
+    "reports/DELVERS_S3E12_SOURCE_IDENTITY_2026-10-27.md": "83de9c096aef31a71691913045d0d8687bacef39fcc0e0a2fae95ffe345d9005",
+    "project/DELVERS_S3E12_SOURCE_IDENTITY_2026-10-27.json": "e6a7f8025535a02cc5f332c4b707a45bc222c16cc31d928a4ec8d9354e3d4988"
+  }
+}

@@ -82,12 +82,10 @@
     "Chance retains agency and character context at compatibility path",
     "Urn collective/component and wand comparison are deliberate scoped accounts, not duplicate identities",
     "Later survival does not independently inventory artifacts; untested powers and unknown custody remain open",
-    "Current Ambermoor/Gemholm provenance remains preserved while older audit hashes stay stale"
+    "Ambermore/Gemholm provenance has a recorded reconciliation and current hashes match; Lake Absul/Obsul and other source limits remain open"
   ],
   "next_work": [
-    "Reconcile inherited Ambermoor/Gemholm provenance with presentation policy and audit records",
-    "Inventory and review remaining creature/faction domains",
-    "Final campaign integration and targeted listening remain pending"
+    "Editorial rollout and bounded integration recorded; targeted source/listening verification and evidence-led corrections through existing queue/ledger"
   ],
   "pages": [
     {
@@ -1799,6 +1797,27 @@
         }
       ],
       "acceptance": "Bounded editorial disposition, not full factual/audio certification"
+    }
+  ],
+  "bounded_integration_updates": [
+    {
+      "date": "2026-10-27",
+      "report": "reports/DELVERS_CAMPAIGN_INTEGRATION_2026-10-27.md",
+      "scope": "Current progress fields only; page rows/hashes and original audit bounds unchanged",
+      "previous_progress": {
+        "next_work": [
+          "Reconcile inherited Ambermoor/Gemholm provenance with presentation policy and audit records",
+          "Inventory and review remaining creature/faction domains",
+          "Final campaign integration and targeted listening remain pending"
+        ],
+        "findings": [
+          "No additional profile correction identified within reviewed scope",
+          "Chance retains agency and character context at compatibility path",
+          "Urn collective/component and wand comparison are deliberate scoped accounts, not duplicate identities",
+          "Later survival does not independently inventory artifacts; untested powers and unknown custody remain open",
+          "Current Ambermoor/Gemholm provenance remains preserved while older audit hashes stay stale"
+        ]
+      }
     }
   ]
 }

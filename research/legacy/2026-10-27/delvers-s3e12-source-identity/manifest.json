@@ -1,0 +1,87 @@
+{
+  "date": "2026-10-27",
+  "scope": "Delvers S3E12 transcript identity follow-up only",
+  "files": [
+    {
+      "path": "delvers/episodes/S3E12.md",
+      "sha256": "68089c7a77da2abc30a81e940502e9b7e268652f22b6ba70a39fe3fcbef69db3",
+      "original": "research/legacy/2026-10-27/delvers-s3e12-source-identity/delvers/episodes/S3E12.md.original",
+      "reading_copy": "research/legacy/2026-10-27/delvers-s3e12-source-identity/delvers/episodes/S3E12.md",
+      "reading_copy_link_corrections": []
+    },
+    {
+      "path": "reports/DELVERS_S3E12_ASR_COMPARISON_2026-10-26.md",
+      "sha256": "8556b58f0280391a4f158015ae54e6741474e9bd995a4c8cbbba68450d114981",
+      "original": "research/legacy/2026-10-27/delvers-s3e12-source-identity/reports/DELVERS_S3E12_ASR_COMPARISON_2026-10-26.md.original",
+      "reading_copy": "research/legacy/2026-10-27/delvers-s3e12-source-identity/reports/DELVERS_S3E12_ASR_COMPARISON_2026-10-26.md",
+      "reading_copy_link_corrections": []
+    },
+    {
+      "path": "delvers/REVIEW_QUEUE.md",
+      "sha256": "1fb6631e72d5d620019644cff89c118bc9030118f95f2b97037fbaa9201b43a7",
+      "original": "research/legacy/2026-10-27/delvers-s3e12-source-identity/delvers/REVIEW_QUEUE.md.original",
+      "reading_copy": "research/legacy/2026-10-27/delvers-s3e12-source-identity/delvers/REVIEW_QUEUE.md",
+      "reading_copy_link_corrections": []
+    },
+    {
+      "path": "project/DELVERS_CLEANUP_MANIFEST.md",
+      "sha256": "9251109d3edade0319906a2e343a8988cb346d36b34421e6a0ff2d307e009bcd",
+      "original": "research/legacy/2026-10-27/delvers-s3e12-source-identity/project/DELVERS_CLEANUP_MANIFEST.md.original",
+      "reading_copy": "research/legacy/2026-10-27/delvers-s3e12-source-identity/project/DELVERS_CLEANUP_MANIFEST.md",
+      "reading_copy_link_corrections": []
+    }
+  ],
+  "protected_files": {
+    "delvers/narrative/SEASON_ONE_ARC.md": "0e68940c1c0ab4766419cb88c6903cac8d5fd72889e6cded4001affecddeacdc",
+    "delvers/narrative/SEASON_TWO.md": "6462e3d4656a0aaf18f9b3ce8784c3eb6c76b3b916c5c95bec441f055ed889b3",
+    "delvers/narrative/SEASON_THREE.md": "e772b43b60966e3a4d105571c1f3b701903919011e82bf709cab15a7617ee280",
+    "delvers/world/WORLD.md": "99de32da9c9cba672f9b80d0585773e3c67fe223dba908fed4b6d70c14edc4b3",
+    "delvers/world/CONSISTENCY_LEDGER.md": "b83f33d3679a42175df65439282e033b80a2ccedcb9db2291e4824315fc724f6",
+    "delvers/SOURCE_INVENTORY.md": "3c7d8272764fe6c149c7e5da7b2831f9a288a5fc5d05859fb5a60b22e03f10a1"
+  },
+  "source_inputs": [
+    {
+      "label": "P",
+      "path": "sources/Delvers S3E12. KOA is not A-OK.parakeet.processed.srt",
+      "raw_bytes": 230059,
+      "raw_sha256": "e874acd7173c3af9ddb99a10bd2fc2eb1d0266338e9ec89e8d508f6d7b92de86",
+      "raw_git_blob_sha1": "f1bc2f87c458197b8b1b314ae4d85a9244f8b76a",
+      "recorded_GitHub_blob_sha1": "9ca7f16780ee9adcb4bcc16c7977b303fe06c8b0",
+      "CRLF_pairs": 11275,
+      "LF_bytes": 11275,
+      "LF_only_bytes": 218784,
+      "CRLF_to_LF_git_blob_sha1": "9ca7f16780ee9adcb4bcc16c7977b303fe06c8b0",
+      "raw_byte_identity": false,
+      "exact_comparison_after_only_CRLF_to_LF": true,
+      "local_Git_object_sha1_verified": true,
+      "recorded_initial_commit_path_blob": "9ca7f16780ee9adcb4bcc16c7977b303fe06c8b0",
+      "phase_A_file_state": {
+        "size": 230059,
+        "mtime_ns": 1792666305732384500
+      }
+    },
+    {
+      "label": "Q",
+      "path": "sources/Delvers S3E12. KOA is not A-OK.qwen-q8.canary-ctc.nemotron.srt",
+      "raw_bytes": 314983,
+      "raw_sha256": "fd59903bf8e8f5e0dafb2bd98d0c3cccdda62c97e8732192ddf95eca4934cfd8",
+      "raw_git_blob_sha1": "f8d59a7a47671a7512d81c46e2ec5ce038c80803",
+      "recorded_GitHub_blob_sha1": "2595bfc3f312d3a35f6b35ec74a2dbd30c933a29",
+      "CRLF_pairs": 15908,
+      "LF_bytes": 15908,
+      "LF_only_bytes": 299075,
+      "CRLF_to_LF_git_blob_sha1": "2595bfc3f312d3a35f6b35ec74a2dbd30c933a29",
+      "raw_byte_identity": false,
+      "exact_comparison_after_only_CRLF_to_LF": true,
+      "local_Git_object_sha1_verified": true,
+      "recorded_initial_commit_path_blob": "2595bfc3f312d3a35f6b35ec74a2dbd30c933a29",
+      "phase_A_file_state": {
+        "size": 314983,
+        "mtime_ns": 1792716067756153900
+      }
+    }
+  ],
+  "recorded_initial_local_commit": "6cf88c3d6a42c5698ff418cd22fc48ea80ec52f5",
+  "current_checked_HEAD": "ad1e3f6138485b0681d78d0205c25cb0ae204860",
+  "working_tree_context": "Prior integration changes and concurrent Wastes work preserved; no commit/push or original source writes"
+}

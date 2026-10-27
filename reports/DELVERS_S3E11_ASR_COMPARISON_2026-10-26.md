@@ -1,5 +1,7 @@
 # Delvers S3E11 — There's a Bat in The Balcony: complete-export P/Q ASR comparison (2026-10-26)
 
+**Source-identity follow-up, 2026-10-27:** [Recorded-blob verification](DELVERS_S3E11_SOURCE_IDENTITY_2026-10-27.md) establishes exact equality after CRLF-to-LF conversion only and matching source paths in the recorded initial local commit. Raw local byte identity is false because of line endings. The precise historical/default remote branch tip remains unestablished. Earlier provenance and interpretive limits below retain their original date; the 1,486/21,260 text-disagreement result is neither recomputed nor upgraded to accuracy or listening verification.
+
 [Episode source-first dossier](../delvers/episodes/S3E11.md). **P/Q exact textual distance = 1,486 / 21,260 = 6.99%**, **NOT word error rate**, audio-verified accuracy, hallucination/omission counts, or correctness ranking.
 
 | Export (model only inferred from filename) | Remote DEFAULT-branch blob SHA | Cues | Normalized word tokens | Final end |
