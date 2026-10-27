@@ -69,7 +69,7 @@ Use existing [review queue](REVIEW_QUEUE.md) keys and [ledger](../world/CONSISTE
 
 | Canonical display | Legacy display/search alias | Stable path examples | Basis | Action |
 | --- | --- | --- | --- | --- |
-| **The Principal** | the Principle, Principal/Principle City variants | `world/characters/the-principle.md` | Owner-approved Known Wastes map | Main prose migration pending; preserve one character ID and old path |
+| **The Principal** | the Principle | `world/characters/the-principle.md` | Owner-approved Known Wastes map | Main prose migration pending; preserve one character ID and old path |\n| **Principal City** | Principle City | `world/PLACES.md` (index; dedicated page subject to evidence review) | City referred to in episodes; spelling follows owner-confirmed title, **not independently verified as a map-printed city label** | Normalize unambiguous live editorial compound; keep historical aliases and evidence classes distinct. [Audit](../reports/PRINCIPAL_RELATED_NAMES_AUDIT_2026-10-27.md) |\n| **The Principal's Lands** | Principle's Lands | `world/PLACES.md`, map register | Directly printed on the Known Wastes map | Keep distinct from Principal City's limits; do not invent coordinates or area identity |
 | **Khaervilon** | Kervalon | `world/places/kervalon.md` | Owner-confirmed Known Wastes map | Main prose migration pending; preserve location ID and old path |
 | **T'ietkalla** | Tietkalla, ASR alternatives | `world/places/tietkalla.md` | Known Wastes map and owner's canonical policy | Main prose migration pending; keep same place/kingdom identity |
 | **Moag Ferhain** | ASR alternatives | existing chronology/name entries | Known Wastes map corroboration | Confirm exact entity locations before new page |
