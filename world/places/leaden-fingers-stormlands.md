@@ -1,6 +1,6 @@
 # Leaden Fingers and the Stormlands — northern mountain ambush route
 
-**Campaign:** *The Wastes*, researched through [played S3E15 — Taking Down The Big T](../../episodes/S3E14.md). **Spoilers / ASR-provisional**; exact interactive Roll20 map coordinates remain in private game screen, not recovered from transcripts. Near **ruined Principle City and the northern WORLD-BREAKER LAVA RIFT**, mountain fingers begin at lava field edge; branching natural canyons provide routes for a pursuing creature toward the farther **Stormlands**. **Not yet actual final boss battle site as of S3E14 cutoff**.
+**Campaign:** *The Wastes*, researched through [played S3E15 — Taking Down The Big T](../../episodes/S3E14.md). **Spoilers / ASR-provisional**; exact interactive Roll20 map coordinates remain in private game screen, not recovered from transcripts. Near **ruined Principal City and the northern WORLD-BREAKER LAVA RIFT**, mountain fingers begin at lava field edge; branching natural canyons provide routes for a pursuing creature toward the farther **Stormlands**. **Not yet actual final boss battle site as of S3E14 cutoff**.
 
 ## S3E15 — Vorel consolidates the pre-placed three-trap plan into ONE main prepared canyon
 
