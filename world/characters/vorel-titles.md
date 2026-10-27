@@ -1,6 +1,10 @@
 # Vorel — titles and epithets register
 
-**Type:** Source-indexed supporting register for [Vorel](vorel.md), deliberately separated from the main character biography. **Evidence:** ASR-provisional, with source windows, name variants and social standing preserved. **Spoilers:** Through Wastes S3E11; Q&As are retrospective, not played conferrals. [Characters](../CHARACTERS.md) · [World portal](../README.md).
+**Type:** Source-indexed supporting register for [Vorel](vorel.md), deliberately separated from the main character biography. **Evidence:** ASR-provisional, with source windows, name variants and social standing preserved. **Spoilers:** Through Wastes S3E12; Q&As are retrospective, not played conferrals. [Characters](../CHARACTERS.md) · [World portal](../README.md).
+
+## S3E12 — REPEAT ONLY: “the Contractless / Defender of Earth”
+
+In [played S3E12](../../episodes/S3E12.md) after the original four reach BRETT/ASMODEUS'S HELL CASINO, Vorel **REPEATS “I ... am the defender of Earth and the contractless” (~02:19–02:22)** when rejecting a NEW SOUL CONTRACT. This **REUSES** the already established **FIRST S3E11 SELF-EPITHET “THE CONTRACTLESS AND DEFENDER OF EARTH”**, and emphasizes that VOREL NEVER SIGNED the earlier SOULBROKER PACT; **NOT a second formal title, newly conferred rank or a newly signed cosmic contract**. Vorel earlier enters rage against giant Weir Soulbroker and escapes stone restraints **STRENGTH24**, neither automatically earns a title. **No new register title ID for S3E12.** [S3E12 P/Q](../../reports/WASTES_S3E12_ASR_COMPARISON_2026-10-27.md), no audio.
 
 ## S3E11 — first self-description “The Contractless and Defender of Earth” (ASR-provisional)
 

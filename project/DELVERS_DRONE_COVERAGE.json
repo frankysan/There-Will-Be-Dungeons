@@ -1,0 +1,61 @@
+{
+  "date": "2026-10-27",
+  "scope": "Portable named assembly, related droning observations and unverified large-source identity",
+  "headings": [
+    {
+      "path": "delvers/world/items/hereditary-drone.md",
+      "old_heading": "Hereditary Drone \u2014 stone music box",
+      "old_anchor": "hereditary-drone--stone-music-box",
+      "target": "Introduction, development, Current status or referenced source notes",
+      "disposition": "Native heading or compatibility anchor retained; complete original archived"
+    },
+    {
+      "path": "delvers/world/items/hereditary-drone.md",
+      "old_heading": "S2E12 second-arc finale: active exposed underground installation",
+      "old_anchor": "s2e12-second-arc-finale-active-exposed-underground-installation",
+      "target": "Introduction, development, Current status or referenced source notes",
+      "disposition": "Native heading or compatibility anchor retained; complete original archived"
+    },
+    {
+      "path": "delvers/world/items/hereditary-drone.md",
+      "old_heading": "Observed and explained effects",
+      "old_anchor": "observed-and-explained-effects",
+      "target": "Introduction, development, Current status or referenced source notes",
+      "disposition": "Native heading or compatibility anchor retained; complete original archived"
+    },
+    {
+      "path": "delvers/world/items/hereditary-drone.md",
+      "old_heading": "Custody and status through S2E10",
+      "old_anchor": "custody-and-status-through-s2e10",
+      "target": "Introduction, development, Current status or referenced source notes",
+      "disposition": "Native heading or compatibility anchor retained; complete original archived"
+    }
+  ],
+  "additional_blocks": [
+    {
+      "path": "delvers/world/items/hereditary-drone.md",
+      "old_block": "First-recovery/campaign/material metadata, large-source crisis, proposed hearing-protection/telepathy countermeasure",
+      "target": "Chronological portable origin, attributed research, installation behavior and source notes"
+    }
+  ],
+  "domains": {
+    "delvers/world/items/hereditary-drone.md": "Artifact: box/disc assembly, observed selective response, proposed sound/control mechanism, custody and identity limits relative to larger effects"
+  },
+  "review": "Complete old page; named/phonetic Drone, music-box, carved-disc, droning and Swiftclef aliases searched across all 37 dossiers; selected complete earlier shaft/mental drone, discovery/assembly/test, debrief/map/lecture/custody, Ball sources and failed countermeasures, aftermath/warning/projection and finale context read. No fresh ASR/audio/map/sheet/prop review.",
+  "critical_boundaries": [
+    "Portable recovery documented S2E04, not S1E11; earlier droning does not establish object identity",
+    "Wooden box initially versus stone box/disc lecture description preserved as material discrepancy, no replacement or transformation invented",
+    "Stone disc physical fit and repeat Swiftclef reaction demonstrated; other nearby satyrs not visibly affected",
+    "Carrie auditory/motor/hereditary explanation is in-world theory, not a universal neuroscience rule",
+    "Non-elf exposure and Cheet/Broadside reports not proof all black-goo/coma cases have one cause",
+    "Fulnomic/Fulmonic map device relationship hypothesized, not identified/activated",
+    "Box stays at Guild/Carrie after S2E10, mirror taken by Evelyn is different artifact",
+    "S2E12 amplified welcome compliance not retroactively assigned to Drone",
+    "Large erupting source not proved same physical object as portable box",
+    "Water drains, fireball fails to collapse rock, tables obstruct but do not stop Drone at Ball cutoff",
+    "Koh telepathic reassurance effective for Anthela then, not immunity or completed soundproof expedition",
+    "S3E01 aftermath and S3E02 warning do not certify shutdown; S3E08 wanted-poster scene is fabrication",
+    "Final Khalazar defeat breaks control without a separately inspected device shutdown, disposal or final portable-box custody",
+    "Old H1 retained as compatibility target under a broader evidence-appropriate title; no default shared universe"
+  ]
+}

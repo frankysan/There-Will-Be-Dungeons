@@ -2,7 +2,7 @@
 
 **Browse:** [Places](../PLACES.md) · [World portal](../README.md)
 
-**Type:** Supernatural gaming and meeting location on Hope's separate Arc Five route. **Spoilers:** E101–E106. **Evidence:** Processed ASR.
+**Type:** Supernatural gaming and meeting location on Hope's separate Arc Five route. **Spoilers:** Through played Wastes S3E12. **Evidence:** Processed ASR.
 
 After leaving her companions at White Tower **in E101**, Hope follows the hooded Voice's intervention into an infernal landscape. Guided by **Spatulo**, she arrives at **Kaiser Casino**, where a powerful host calling himself **Asmodeus** and known as **Brett** stages extravagant hospitality and makes offers. Hope talks with him but **does not make a formal pact in E101**. [E101](../../episodes/E101.md).
 

@@ -798,3 +798,63 @@ Glove mounting is ordinary craft work; Carrie and Veggie jointly add the directi
 Both complete old pages were read; target descriptions and broader amulet/wrist/bracer/detector terms searched across all 37 dossiers; selected complete origin/handoff, recurrence, creation/testing/mounting/upgrade, covered/uncovered use, bracer, guardian instruction and final rite paragraphs reviewed. No fresh ASR/audio, original sheet/art/map or full-campaign rereading occurred. No source dossier/media, character biography or evidence issue was changed/closed. No commit or push was performed by this task.
 
 Next review the three organ urns and dried-heart jar, then continue remaining world domains. Final integration and unresolved listening work remain pending.
+
+### Thirty-eighth implementation checkpoint — organ urns and dried-heart jar
+
+**2026-10-27: Collective artifact account reviewed/refined; individual jar migrated through the finale.** [Report](../reports/DELVERS_URNS_HEART_2026-10-27.md) · [Coverage](DELVERS_URNS_HEART_COVERAGE.json) · [Validation](DELVERS_URNS_HEART_VALIDATION.json) · [Archive](../research/legacy/2026-10-27/delvers-urns-heart/README.md).
+
+Both paths/titles remain. The existing collective style pilot retains its chronology and eight compatibility targets, gains a natural component link and focuses the final rite on organ/vessel function. The individual page now has Introduction, chronological development and final Current status, advancing its stale S3E08 cutoff through transfer, released gate use and actual restoration. Set identity and individual bat-capped vessel remain distinct. Main prose changes from 468 to 447 words in the collective account and 409 to 227 in the individual page, without imposing character word targets.
+
+All eight former headings, all eight existing HTML targets and the individual page's unheaded discovery/weight/swap/installation/retrieval/source blocks are accounted for. Six exact originals and equivalent rebased reading copies are archived without link corrections. All 327 protected hashes match: 215 campaign files, 102 prior batch artifacts/inventories and ten bonus provenance documents. All 35 character pages, character audit/register/inventory, four place-audit artifacts and 27 place-register page hashes remain unchanged.
+
+The 25-pound weight is whole jar/contents, replaced by stone and merchant weights without trap activation. Small metal puzzle keys are separate and absorbed; mayonnaise/shirt alternatives are unperformed. One jar fits one hollow without opening the gate. It is later removed into Evelyn's bag, then all vessels transfer to Koh, not her bag. Later possession does not insert an unshown packing scene.
+
+All Rat's interested claim, the brain recap, unopened third vessel and final ritual vision retain distinct evidence levels. All three are installed/released; organs are actually restored through Khalazar's back cavities, and the heart beats/grows near the body. A separate wrist-blood application is not explicit. Containers are emptied, but neither recovery nor destruction of empty jars is supplied; collapse and earlier custody do not settle final ownership or survival.
+
+Both complete pages and selected complete source paragraphs from first altar/discovery/swap through acquisition, transfers, gate release and final rite/destruction were read; urn/jar/vessel/organ/recess terms and specific cap/heart descriptions were searched across all 37 dossiers. No fresh ASR/audio, original props/sheets/maps or full-campaign rereading occurred. No source dossier/media, character biography or evidence issue was changed/closed. No commit or push was performed by this task.
+
+Next review the Hereditary Drone and its portable music-box evidence, then continue remaining world domains. Final integration and unresolved listening work remain pending.
+
+### Thirty-ninth implementation checkpoint — Hereditary Drone
+
+**2026-10-27: One artifact account migrated and locally validated.** [Report](../reports/DELVERS_DRONE_2026-10-27.md) · [Coverage](DELVERS_DRONE_COVERAGE.json) · [Validation](DELVERS_DRONE_VALIDATION.json) · [Archive](../research/legacy/2026-10-27/delvers-drone/README.md).
+
+The path is preserved. The title becomes Hereditary Drone — music box and droning effects, retaining the former stone-box H1 target. Introduction, chronological development and final Current status separate box/disc assembly, selective response, Carrie's theory, proposed sound protection, Guild custody and the larger Ball source. All four former headings and the unheaded discovery/countermeasure/crisis blocks are covered. Five exact originals and equivalent rebased reading copies are archived without link corrections.
+
+The portable box's documented recovery is S2E04, with disc assembly/test in S2E05; S1E11 records an earlier heard drone rather than recovery of that box. Early wooden versus later stone descriptions remain unresolved, without an invented replacement or conversion. Swiftclef's repeat discomfort is observed, others nearby do not visibly react. Carrie's auditory/motor/hereditary explanation remains in-world theory; the Fulnomic map link is hypothesized, not identified or activated.
+
+Main prose changes from 481 to 339 words; the development phases contain 214 and 48 words, without a character word quota. The small assembly stays at Guild after S2E10, while Evelyn takes a separate mirror. The larger erupting Ball source is not proved the same physical object. Water drains, Fireball fails to collapse rock, tables obstruct but do not silence the Drone. Welcome-speech compliance is not retroactively assigned to it. The active S2E12 cutoff and later aftermath/warnings are historical states, not proof it is active at campaign end. Khalazar's final destruction is definite without certifying disposal, destruction or a calibrated final test of every related object. The S3E08 accusation scene remains a fabrication.
+
+All 331 protected hashes match: 216 campaign files, 105 previous batch artifacts/inventories and ten bonus provenance documents. All 35 character pages, character audit/register/inventory, four place-audit artifacts and 27 place-register page hashes remain unchanged.
+
+The complete old page and selected complete source paragraphs spanning earlier sounds, discovery/assembly/selective test, map/debrief, research/custody, Ball/failed countermeasures, aftermath/warning/projection and finale context were read. Named, phonetic, music-box/disc and drone terms were searched across all 37 dossiers. No fresh ASR/audio, original map/prop/sheet or full-campaign rereading occurred. No source dossier/media, character biography or evidence issue was changed/closed. No commit or push was performed by this task.
+
+Next review the stolen warlock's tome and Deck of Many Things, then continue remaining world domains. Final integration and unresolved listening work remain pending.
+
+### Fortieth implementation checkpoint — stolen tome and Deck of Many Things
+
+**2026-10-27: Two artifact accounts migrated and locally validated.** [Report](../reports/DELVERS_TOME_DECK_2026-10-27.md) · [Coverage](DELVERS_TOME_DECK_COVERAGE.json) · [Validation](DELVERS_TOME_DECK_VALIDATION.json) · [Archive](../research/legacy/2026-10-27/delvers-tome-deck/README.md).
+
+Both paths/titles remain. Introduction, chronological development and final Current status emphasize recognition, ownership context, physical transfers and the limits of unexamined contents. The deck's initial storage history is presented as rumor, not an independently witnessed fifteen-year sequence. No published generic card powers or speculative tome contents are imported. Main prose changes from 227 to 130 words for the tome and 249 to 188 for the deck; development sections contain 80 and 129 words without imposed quotas.
+
+All five former headings and the tome's unheaded status/recognition/theft/appearance blocks are accounted for. Six exact originals and equivalent rebased reading copies are archived without link corrections. All 333 protected hashes match: 215 campaign files, 108 previous batch artifacts/inventories and ten bonus provenance documents. All 35 character pages, character audit/register/inventory, four place-audit artifacts and 27 place-register page hashes remain unchanged.
+
+Detect Magic and recognition do not decode the tome or prove its patron, exact function or former owner. Location in Cassius's former office, now occupied by Zoltar, proves neither man's ownership or warlock identity. Dumbledwark actually steals and conceals the book; camera magic screening is an untested thought. S3E04 recalls the theft but does not provide a new inspection, opening, use or transaction. Later custody remains unresolved.
+
+Hamlet's report and Goodwine's charmed confession remain distinct from a witnessed old murder. The deck is actually located and extracted with Mage Hand, wrapped and placed in Daufante's bag. Precautions do not prove a contact curse; no draw, effects, count, card faces or attunement are demonstrated. Fee waiver and later departure are observed/confirmed without a fully audited reward division or legal ownership chain. Ordinary card games and other books remain separate.
+
+Both complete pages and selected complete source paragraphs for rumor/confession/recognition, recovery/bargain/departure, magic detection/theft and next-episode confirmations were read; tome/warlock/stolen-book and deck/card descriptions were searched across all 37 dossiers. No fresh ASR/audio, guest sheet/item card/art/map or full-campaign rereading occurred. No source dossier/media, character biography or evidence issue was changed/closed. No commit or push was performed by this task.
+
+Next review Loran's radiant armour and Vestal's diamond-heart handle, then continue remaining world domains. Final integration and unresolved listening work remain pending.
+
+### Forty-first implementation checkpoint — Loran's radiant armour and transforming sword
+
+**2026-10-27: Two artifact accounts migrated and locally validated.** [Report](../reports/DELVERS_LORAN_EQUIPMENT_2026-10-27.md) · [Coverage](DELVERS_LORAN_EQUIPMENT_COVERAGE.json) · [Validation](DELVERS_LORAN_EQUIPMENT_VALIDATION.json) · [Archive](../research/legacy/2026-10-27/delvers-loran-equipment/README.md).
+
+Both canonical paths and titles remain. Introduction, chronological development and final Current status now distinguish the diamond-heart gift's initially unknown identity, later transforming blade/key uses, the separate armour's guarded condition and eventual acquisition. Three former heading targets survive. Six exact originals and rebased reading copies are archived; all 336 protected files, the 35-character audit/register/inventory and 27-place register remain unchanged.
+
+The blade's first door failure, later reported base access without an unlocking scene and actual lance-assisted sanctuary opening remain separate. Armour ownership begins with the school emergency, not the earlier refuge visits or false asylum projection. Its specified critical-hit and qualifying Strength/Constitution-save protection remains bounded; the bat scream demonstrates protection without making Evelyn immune to later injury. The physical lance from Radiant Lance's remains is not merged with the transforming sword.
+
+Both complete pages and selected complete relevant source paragraphs were read; matching terms were searched across all 37 dossiers. Final-expedition equipment custody is not an independently inspected one-year inventory. No fresh audio, original item-sheet/art/map review, source dossier/media edit or evidence-issue closure occurred. Artifact prose has no imposed character word quota. No commit or push performed by this task.
+
+Next review the Devotee's Censer and friendship ribbon, then continue remaining world domains. Final integration and unresolved listening work remain pending.

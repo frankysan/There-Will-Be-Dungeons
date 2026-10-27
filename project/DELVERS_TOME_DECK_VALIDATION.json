@@ -1,0 +1,66 @@
+{
+  "date": "2026-10-27",
+  "local_file_and_fragment_links": 1268,
+  "maintained_inbound_links": 22,
+  "former_headings_preserved": 5,
+  "exact_original_hashes": 6,
+  "reading_copy_target_equivalence": 6,
+  "explicit_reading_copy_link_corrections": 0,
+  "protected_hashes": 333,
+  "measurements": [
+    {
+      "path": "delvers/world/items/deck-of-many-things.md",
+      "before_main_words": 249,
+      "after_main_words": 188,
+      "arc_words": [
+        129
+      ],
+      "largest_arc_to_median": 1.0,
+      "footnotes": 3,
+      "anchors": 6
+    },
+    {
+      "path": "delvers/world/items/stolen-warlocks-tome.md",
+      "before_main_words": 227,
+      "after_main_words": 130,
+      "arc_words": [
+        80
+      ],
+      "largest_arc_to_median": 1.0,
+      "footnotes": 3,
+      "anchors": 5
+    }
+  ],
+  "errors": [],
+  "limits": [
+    "No new ASR, audio, remote URL or rendered-site review",
+    "Section dispositions and material-claim review, not sentence-by-sentence audio verification"
+  ],
+  "markdownlint": {
+    "maintained_files": 7,
+    "violations": 0
+  },
+  "whitespace": {
+    "scoped_git_diff_check": "passed",
+    "direct_new_file_check": "passed"
+  },
+  "manual_readback": "Both complete persisted artifact pages were read, alongside archived originals and selected complete source paragraphs. Recognition, rumor, custody, untested powers and unresolved outcomes remain distinct. No new audio or rendered-site review.",
+  "domain_contract": "Artifact nature, recognition, transfer, custody, demonstrated and untested powers; no character word quota.",
+  "protected_groups": {
+    "campaign_files": 215,
+    "prior_batch_artifacts_and_inventories": 108,
+    "bonus_provenance_documents": 10
+  },
+  "preserved_character_audit": {
+    "character_pages": 35,
+    "matching_page_hashes": 35,
+    "inventory_page_hashes": 35,
+    "audit_register_inventory_protected": true
+  },
+  "preserved_place_register": {
+    "pages": 27,
+    "matching_page_hashes": 27,
+    "four_audit_artifacts_protected": true
+  },
+  "working_tree_context": "Unrelated concurrent changes preserved. No commit or push performed by this task."
+}

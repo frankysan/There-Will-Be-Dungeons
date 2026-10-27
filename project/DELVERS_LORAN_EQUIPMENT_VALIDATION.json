@@ -1,0 +1,67 @@
+{
+  "date": "2026-10-27",
+  "local_file_and_fragment_links": 1308,
+  "maintained_inbound_links": 29,
+  "former_headings_preserved": 3,
+  "exact_original_hashes": 6,
+  "reading_copy_target_equivalence": 6,
+  "explicit_reading_copy_link_corrections": 0,
+  "protected_hashes": 336,
+  "measurements": [
+    {
+      "path": "delvers/world/items/loran-radiant-armour.md",
+      "before_main_words": 290,
+      "after_main_words": 208,
+      "arc_words": [
+        137
+      ],
+      "largest_arc_to_median": 1.0,
+      "footnotes": 4,
+      "anchors": 5
+    },
+    {
+      "path": "delvers/world/items/vestal-diamond-heart-handle.md",
+      "before_main_words": 282,
+      "after_main_words": 216,
+      "arc_words": [
+        23,
+        125
+      ],
+      "largest_arc_to_median": 1.689,
+      "footnotes": 4,
+      "anchors": 7
+    }
+  ],
+  "errors": [],
+  "limits": [
+    "No new ASR, audio, remote URL or rendered-site review",
+    "Section dispositions and material-claim review, not sentence-by-sentence audio verification"
+  ],
+  "markdownlint": {
+    "maintained_files": 7,
+    "violations": 0
+  },
+  "whitespace": {
+    "scoped_git_diff_check": "passed",
+    "direct_new_file_check": "passed"
+  },
+  "manual_readback": "Both complete persisted equipment pages and pre-edit profiles read; selected complete relevant dossier paragraphs reviewed. Gift/recognition, failed and successful access, separate armour acquisition, restricted protection, blade use and last direct custody remain distinct. No audio or rendered-site review.",
+  "domain_contract": "Artifact physical nature, recognition, transformation, acquisition, stated and demonstrated capabilities, limits and custody. No character word quotas.",
+  "protected_groups": {
+    "campaign_files": 215,
+    "prior_batch_artifacts_and_inventories": 111,
+    "bonus_provenance_documents": 10
+  },
+  "preserved_character_audit": {
+    "character_pages": 35,
+    "matching_page_hashes": 35,
+    "inventory_page_hashes": 35,
+    "audit_register_inventory_protected": true
+  },
+  "preserved_place_register": {
+    "pages": 27,
+    "matching_page_hashes": 27,
+    "four_audit_artifacts_protected": true
+  },
+  "working_tree_context": "Existing Delvers changes and unrelated Wastes changes preserved. No commit or push by this task."
+}

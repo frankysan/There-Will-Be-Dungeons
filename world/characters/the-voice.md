@@ -2,6 +2,10 @@
 
 **Browse:** [Characters](../CHARACTERS.md) · [Antagonists](../ANTAGONISTS.md) · [World portal](../README.md)
 
+## S3E12 — Voice Hand with Asmodeus's succubus, EYE still missing, Voice identity unproven
+
+In [played S3E12](../../episodes/S3E12.md) ~01:33–01:37, in HELL, **PRINCIPLE PHYSICALLY HANDS OVER STOLEN LIVING HAND OF THE VOICE** to BRETT / **ASMODEUS** who immediately **PASSES IT TO FEMALE SUCCUBUS ASSISTANT, WHO POCKETS IT**. The artifact is now **PHYSICALLY IN ASMODEUS'S ASSISTANT'S CUSTODY**, not reattached to HOPE, with PRINCIPLE or returned to original hooded Voice. BRETT says HE STILL DEMANDS **SECOND PIECE, EYE OF THE VOICE** and regards this pair as former-rival relics; **NO EYE OF VOICE OBTAINED OR ASSEMBLED, no verified identity of hooded Voice, revival, communication or death**. **EYE OF GROXL ON VOREL IS SEPARATE** and should never be counted as payment. HOPE has natural new arm from Stanley *Regenerate* and **HAS HOLLOW RING** (different item), zero charge; she has NOT physically recontacted the Voice. [P/Q report](../../reports/WASTES_S3E12_ASR_COMPARISON_2026-10-27.md), no audio.
+
 ## S3E02 — Hand severed and stolen, no verified further Voice communication
 
 In [S3E02](../../episodes/S3E02.md), the Principle **ACTUALLY SEVERS AND ABSORBS the physically attached HAND OF THE VOICE** from Hope, then **ESCAPES via portal carrying it**. Hope **survives at 0 HP then heals**, experiences new **warmth, comfort, food and drink taste**, and later receives **a wholly NATURAL ARM from Stanley's *Regenerate***. This **DOES NOT recreate the Voice-possessed Hand** or confirm the Voice being freed, murdered, imprisoned in the Principle or able to talk without it. **No new private Voice message after the removal** is documented, and its alleged top-Pentel Weiss missing Eye/power fragment remains **uncollected**. [S3E02 dossier](../../episodes/S3E02.md) · [P/Q report](../../reports/WASTES_S3E02_ASR_COMPARISON_2026-10-26.md).

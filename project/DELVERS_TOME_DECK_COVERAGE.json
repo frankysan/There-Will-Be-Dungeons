@@ -1,0 +1,66 @@
+{
+  "date": "2026-10-27",
+  "scope": "Two separate artifacts acquired by visiting allies; no shared origin or magical relationship inferred",
+  "headings": [
+    {
+      "path": "delvers/world/items/stolen-warlocks-tome.md",
+      "old_heading": "Warlock's tome from Cassius's former office \u2014 stolen by Dumbledwark",
+      "old_anchor": "warlocks-tome-from-cassiuss-former-office--stolen-by-dumbledwark",
+      "target": "Introduction, chronological development, Current status or source notes",
+      "disposition": "Native heading or compatibility anchor retained; full original archived"
+    },
+    {
+      "path": "delvers/world/items/deck-of-many-things.md",
+      "old_heading": "Deck of Many Things \u2014 Grandfather Hooper's hidden cards",
+      "old_anchor": "deck-of-many-things--grandfather-hoopers-hidden-cards",
+      "target": "Introduction, chronological development, Current status or source notes",
+      "disposition": "Native heading or compatibility anchor retained; full original archived"
+    },
+    {
+      "path": "delvers/world/items/deck-of-many-things.md",
+      "old_heading": "Introduction",
+      "old_anchor": "introduction",
+      "target": "Introduction, chronological development, Current status or source notes",
+      "disposition": "Native heading or compatibility anchor retained; full original archived"
+    },
+    {
+      "path": "delvers/world/items/deck-of-many-things.md",
+      "old_heading": "The wedding in the woods",
+      "old_anchor": "the-wedding-in-the-woods",
+      "target": "Introduction, chronological development, Current status or source notes",
+      "disposition": "Native heading or compatibility anchor retained; full original archived"
+    },
+    {
+      "path": "delvers/world/items/deck-of-many-things.md",
+      "old_heading": "Current status",
+      "old_anchor": "current-status",
+      "target": "Introduction, chronological development, Current status or source notes",
+      "disposition": "Native heading or compatibility anchor retained; full original archived"
+    }
+  ],
+  "additional_blocks": [
+    {
+      "path": "delvers/world/items/stolen-warlocks-tome.md",
+      "old_block": "Opening S3E03 status/unknown ownership, magic detection/recognition, theft/concealment and appearance constraints",
+      "target": "Introduction, transfer history, Current status and referenced notes"
+    }
+  ],
+  "domains": {
+    "delvers/world/items/stolen-warlocks-tome.md": "Artifact: recognized magical tome, unexamined identity/function, office context, theft and last direct custody",
+    "delvers/world/items/deck-of-many-things.md": "Artifact: initial rumor, witnessed recovery, untested danger, negotiated custody and departure"
+  },
+  "review": "Both complete profiles; warlock/tome/stolen-book and deck/card descriptions searched across all 37 dossiers; selected complete rumor/charmed confession/recognition/retrieval/fee agreement/departure and later confirmation, magic detection/theft/departure and next-episode recap/no new transaction reviewed. No fresh ASR/audio/sheet/art/map review.",
+  "critical_boundaries": [
+    "Tome found in former Cassius office now occupied by Zoltar does not establish either man as owner or warlock",
+    "Detect Magic and recognition are not Identify or deciphered contents/patron/spells/Khalazar link",
+    "Theft performed with Gloves of Thievery; camera concealment not proven magical screening",
+    "S3E04 recap is continuity, not a new physical inspection/transfer; later fate unresolved",
+    "No invented book-cover material, glyphs, dimensions, clasp or title",
+    "Deck first reported by servant rumor; old crime/confession not an independently witnessed historical scene",
+    "Physical deck detected/removed with Mage Hand, cloth and bag; precautions not a demonstrated contact curse",
+    "No cards drawn, effects/card count/faces/attunement proved; published generic item rules not imported",
+    "Daufante accepts fee-for-deck deal and leaves; later recap corroborates departure without a new draw",
+    "Reward waiver not an audited final payment or definitive adjudication of legal ownership",
+    "Distinct ordinary card games, other books and visiting performers remain separate from these artifacts"
+  ]
+}

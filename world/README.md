@@ -1,6 +1,6 @@
 # The Wastes — world reference
 
-A **subject-centered encyclopedia** for *The Wastes*: characters, antagonists, societies, places, objects and historical events. **Main-campaign spoilers through researched S3E11, after E128 closed Arc Five and The Wastes Season One**; the separately published E107–E109 *Dunebreaker* story takes place **long before E001**. The written research is based on processed ASR, **not independently verified by listening**. *Inverse* is [a separate reality](../inverse/README.md).
+A **subject-centered encyclopedia** for *The Wastes*: characters, antagonists, societies, places, objects and historical events. **Main-campaign spoilers through researched S3E12, after E128 closed Arc Five and The Wastes Season One**; the separately published E107–E109 *Dunebreaker* story takes place **long before E001**. The written research is based on processed ASR, **not independently verified by listening**. *Inverse* is [a separate reality](../inverse/README.md).
 
 ## Browse the setting
 

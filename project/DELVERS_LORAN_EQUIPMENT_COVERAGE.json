@@ -1,0 +1,58 @@
+{
+  "date": "2026-10-27",
+  "scope": "Separate Loran radiant armour and transforming sword histories through the completed campaign",
+  "headings": [
+    {
+      "path": "delvers/world/items/loran-radiant-armour.md",
+      "old_heading": "Loran Ilfelkyr Radiant Armour \u2014 Evelyn's transformation and worn equipment",
+      "old_anchor": "loran-ilfelkyr-radiant-armour--evelyns-transformation-and-worn-equipment",
+      "target": "Native H1 retained or Described form compatibility anchor at Introduction",
+      "disposition": "Preserved; original content redistributed into subject development, final status and notes"
+    },
+    {
+      "path": "delvers/world/items/vestal-diamond-heart-handle.md",
+      "old_heading": "Loran Ilfelkyr's transforming sword \u2014 Lady Vestal's diamond-heart handle",
+      "old_anchor": "loran-ilfelkyrs-transforming-sword--lady-vestals-diamond-heart-handle",
+      "target": "Native H1 retained or Described form compatibility anchor at Introduction",
+      "disposition": "Preserved; original content redistributed into subject development, final status and notes"
+    },
+    {
+      "path": "delvers/world/items/vestal-diamond-heart-handle.md",
+      "old_heading": "Described form",
+      "old_anchor": "described-form",
+      "target": "Native H1 retained or Described form compatibility anchor at Introduction",
+      "disposition": "Preserved; original content redistributed into subject development, final status and notes"
+    }
+  ],
+  "additional_blocks": [
+    {
+      "path": "delvers/world/items/loran-radiant-armour.md",
+      "old_block": "Acquisition/emergency transformation, earlier inaccessible armour, visual chronology, mechanics and unrelated later purchases",
+      "target": "Introduction, acquisition/protection development, status and refuge/claim/protection notes; unrelated purchases left to character/episode context"
+    },
+    {
+      "path": "delvers/world/items/vestal-diamond-heart-handle.md",
+      "old_block": "Later identification and S3E02 horizon, historical unknown gift, described form and illustration constraints",
+      "target": "Introduction, Arc Two gift, Arc Three recognition/use, final status and source/recognition/use notes; outdated horizon becomes historical rather than current"
+    }
+  ],
+  "domains": {
+    "delvers/world/items/loran-radiant-armour.md": "Artifact: guarded physical form, acquisition/transformation, stated protections, demonstrated limits and last known wearer",
+    "delvers/world/items/vestal-diamond-heart-handle.md": "Artifact: initial unidentified gift, physical form, later recognition, changing blade length, access/combat uses and last direct custody"
+  },
+  "review": "Both complete pre-edit and revised profiles. Name/diamond-heart/heart-tipped/transforming/radiant armour/blade/lance terms searched across all 37 dossiers; selected complete relevant paragraphs read in S2E12, S3E01/02/03/04/06/08/10/11/12. No new original ASR/audio/item-sheet/art/map research or full 37-dossier reread.",
+  "critical_boundaries": [
+    "S2E12 gift initially unidentified; S3E01 recognition not backdated",
+    "Self-belief extends blade; S3E01 door attempt fails and S3E02 +2 recap does not add successful access",
+    "S3E03 base access reported without missing unlocking scene; S3E06 lance actually opens sanctuary",
+    "Sword, suspended armour and physical lance from Radiant Lance remains stay distinct",
+    "S3E06 armour seen but unreachable; S3E08 refuge/asylum is a psychic projection",
+    "S3E10 school alarm and protective intent permit armour acquisition; not purchased or worn earlier",
+    "Breastplate unfolds into full plate over blue flowered dress; original physical description and visual chronology retained",
+    "Critical-hit reduction and qualifying magical Strength/Constitution half-damage saves preserved, not general immunity or Dexterity benefit",
+    "Bat scream protection observed; later injury/unconsciousness still possible; blade radiant strikes separate from armour",
+    "No new armour class/composition/weight/attunement/rarity/drawbacks/full specification inferred",
+    "Final expedition custody distinguished from later survivor epilogue without fresh equipment inventory",
+    "Gift six-inch tubular form/diamond arms retained; initial glow/color/inscriptions unknown; not a bell or Traveler gift"
+  ]
+}

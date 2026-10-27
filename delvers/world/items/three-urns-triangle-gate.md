@@ -6,7 +6,7 @@
 
 ## Introduction
 
-A ceramic vessel bound with gold and capped by a bat's skull holds a dry, shrunken heart. Its beating grows louder as [Evelyn](../characters/evelyn-grinkeeper.md) approaches, then stops when she opens the lid. The jar rests on a weighted pedestal in a chamber beneath the black slime. Its shape offers a possible answer to one of the three hollows before the sealed [triangle gate](../places/triangle-gate-catacombs.md).[^urn-introduction]
+A [ceramic vessel](dried-heart-jar.md) bound with gold and capped by a bat's skull holds a dry, shrunken heart. Its beating grows louder as [Evelyn](../characters/evelyn-grinkeeper.md) approaches, then stops when she opens the lid. The jar rests on a weighted pedestal in a chamber beneath the black slime. Its shape offers a possible answer to one of the three hollows before the sealed [triangle gate](../places/triangle-gate-catacombs.md).[^urn-introduction]
 
 ## Development by arc
 
@@ -38,7 +38,7 @@ Back in Atomer, Evelyn gives the vessels to Koh so that their custody is separat
 
 [Shaolin Nym](../characters/shaolin-nym.md) says that breaking Khalazar's machines cannot end his return. The organs must be restored to his true body before he is defeated. She releases the vessels from the sockets and opens the gate, then crumbles as the allies pass into the Dawnless Dunes. The containers are needed again beyond the door.
 
-In [Khalazar](../characters/khalazar.md)'s chamber, Koh produces the jars and gives one to each friend. They open them and place the organs into the emptied cavities behind his skull and chest. The heart begins beating and swells toward its former place. A shared vision shows the ancient removal of brain, lungs and heart; the restored emperor confronts them within an apparent reborn city. Their eventual joint thrust through his real heart destroys him, and the pyramid collapses around the escape.[^urn-used]
+In [Khalazar](../characters/khalazar.md)'s chamber, Koh produces the jars and gives one to each friend. They open them and place the organs into the emptied cavities behind his skull and chest. The heart beats and grows near the body as the organs are restored. The vessels have now served both as gate keys and as containers for the rite.[^urn-used]
 
 ## Current status
 

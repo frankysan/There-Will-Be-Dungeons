@@ -1,0 +1,126 @@
+{
+  "date": "2026-10-27",
+  "scope": "Collective organ-vessel account and its individual bat-capped heart component",
+  "headings": [
+    {
+      "path": "delvers/world/items/three-urns-triangle-gate.md",
+      "old_heading": "The three urns of the triangle gate",
+      "old_anchor": "the-three-urns-of-the-triangle-gate",
+      "target": "Existing collective account or new individual origin/custody/status sections",
+      "disposition": "Native heading or compatibility anchor retained; full original archived"
+    },
+    {
+      "path": "delvers/world/items/three-urns-triangle-gate.md",
+      "old_heading": "Introduction",
+      "old_anchor": "introduction",
+      "target": "Existing collective account or new individual origin/custody/status sections",
+      "disposition": "Native heading or compatibility anchor retained; full original archived"
+    },
+    {
+      "path": "delvers/world/items/three-urns-triangle-gate.md",
+      "old_heading": "Development by arc",
+      "old_anchor": "development-by-arc",
+      "target": "Existing collective account or new individual origin/custody/status sections",
+      "disposition": "Native heading or compatibility anchor retained; full original archived"
+    },
+    {
+      "path": "delvers/world/items/three-urns-triangle-gate.md",
+      "old_heading": "Arc Three \u2014 A heart taken from the slime",
+      "old_anchor": "arc-three--a-heart-taken-from-the-slime",
+      "target": "Existing collective account or new individual origin/custody/status sections",
+      "disposition": "Native heading or compatibility anchor retained; full original archived"
+    },
+    {
+      "path": "delvers/world/items/three-urns-triangle-gate.md",
+      "old_heading": "Arc Three \u2014 Three vessels reunited",
+      "old_anchor": "arc-three--three-vessels-reunited",
+      "target": "Existing collective account or new individual origin/custody/status sections",
+      "disposition": "Native heading or compatibility anchor retained; full original archived"
+    },
+    {
+      "path": "delvers/world/items/three-urns-triangle-gate.md",
+      "old_heading": "Arc Three \u2014 The gate and the body",
+      "old_anchor": "arc-three--the-gate-and-the-body",
+      "target": "Existing collective account or new individual origin/custody/status sections",
+      "disposition": "Native heading or compatibility anchor retained; full original archived"
+    },
+    {
+      "path": "delvers/world/items/three-urns-triangle-gate.md",
+      "old_heading": "Current status",
+      "old_anchor": "current-status",
+      "target": "Existing collective account or new individual origin/custody/status sections",
+      "disposition": "Native heading or compatibility anchor retained; full original archived"
+    },
+    {
+      "path": "delvers/world/items/dried-heart-jar.md",
+      "old_heading": "The dried-heart jar \u2014 one of three triangle-gate altar objects",
+      "old_anchor": "the-dried-heart-jar--one-of-three-triangle-gate-altar-objects",
+      "target": "Existing collective account or new individual origin/custody/status sections",
+      "disposition": "Native heading or compatibility anchor retained; full original archived"
+    }
+  ],
+  "existing_html_targets": [
+    {
+      "path": "delvers/world/items/three-urns-triangle-gate.md",
+      "id": "the-three-urns-of-the-triangle-gate--recovered-key-inventory-and-custody"
+    },
+    {
+      "path": "delvers/world/items/three-urns-triangle-gate.md",
+      "id": "historical-3-slot-altar-s3e06"
+    },
+    {
+      "path": "delvers/world/items/three-urns-triangle-gate.md",
+      "id": "s3e07-bat-capped-dried-heart-urn-placed-once"
+    },
+    {
+      "path": "delvers/world/items/three-urns-triangle-gate.md",
+      "id": "s3e08-hook-horror-capped-organ-urn-taken-from-all-rat"
+    },
+    {
+      "path": "delvers/world/items/three-urns-triangle-gate.md",
+      "id": "s3e09-third-grick-headed-urn-recovered--all-three-carried-but-altar-still-empty"
+    },
+    {
+      "path": "delvers/world/items/three-urns-triangle-gate.md",
+      "id": "s3e10-custody-evelyn-actually-hands-all-three-urns-to-koh"
+    },
+    {
+      "path": "delvers/world/items/three-urns-triangle-gate.md",
+      "id": "s3e11--three-jars-installed-gate-opened-jars-ejected-for-reuse-party-inside"
+    },
+    {
+      "path": "delvers/world/items/three-urns-triangle-gate.md",
+      "id": "s3e12-final-organs-actually-used-on-khalazar-vessels-cease-to-be-unused-keys"
+    }
+  ],
+  "additional_blocks": [
+    {
+      "path": "delvers/world/items/dried-heart-jar.md",
+      "old_block": "Unheaded discovery/morphology/weight, pressure substitution, S3E07 installation, S3E08 retrieval and source metadata",
+      "target": "Introduction, chronological function/custody, Current status and notes"
+    }
+  ],
+  "domains": {
+    "delvers/world/items/three-urns-triangle-gate.md": "Collective artifact: three related vessels, distinct caps, gathering, transfer, gate function, released reuse and uncertain final containers",
+    "delvers/world/items/dried-heart-jar.md": "Individual artifact: bat-capped vessel, observed dry-heart/sound states, pedestal role, custody, organ restoration and empty-vessel fate"
+  },
+  "disposition": {
+    "delvers/world/items/three-urns-triangle-gate.md": "Existing style pilot retained; natural component link and final heart-response/rite wording refined",
+    "delvers/world/items/dried-heart-jar.md": "Full presentation migration and stale cutoff superseded through finale"
+  },
+  "review": "Both complete pages; urn/jar/vessel/organ/recess and specific cap/heart descriptions searched across all 37 dossiers; selected complete altar, first heart/weight/swap/installation, second urn, first retrieval, third acquisition, transfer, gate release and final restoration/destruction paragraphs read. No fresh ASR/audio/prop/map/sheet review.",
+  "critical_boundaries": [
+    "First vessel observed dry heart is not a 25-pound heart: weight is whole jar and contents",
+    "Small metal puzzle keys absorbed separately, not three organ jars or altar recesses",
+    "Sound stops on opening; restart on resealing not explicitly established",
+    "Pressure substitution uses stone and merchant weights; no trap activation or mayonnaise/shirt substitution",
+    "First jar installed S3E07, retrieved S3E08, all three later carried; historical slot occupancy preserved",
+    "Evelyn transfers all urns to Koh, not her bag; later stowing not backdated",
+    "All Rat claim, brain recap attribution, unopened third jar and final visionary organ identity have distinct evidence classes",
+    "Individual heart use not proof of every cap-to-organ mapping or original species/age/pathology",
+    "Gate opens, urns released and reused; final organs placed through back cavities",
+    "Heart beats/grows near body during restoration; separate wrist-blood drop not explicit",
+    "Final empty vessels neither confirmed recovered nor destroyed; prior carrier not post-collapse owner",
+    "All existing eight pilot compatibility anchors retained; no duplicate artifact set or new specialist register"
+  ]
+}

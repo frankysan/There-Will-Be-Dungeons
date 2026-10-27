@@ -2,6 +2,10 @@
 
 **Browse:** [Items and artifacts](../ITEMS_AND_ARTIFACTS.md) · [World portal](../README.md)
 
+## S3E12 — witnessed transfer from Principle to Asmodeus's female assistant in Hell
+
+In [played S3E12](../../episodes/S3E12.md) ~01:32–01:37, after PRINCIPLE had PHYSICALLY STOLEN HAND FROM HOPE S3E02, **PRINCIPLE ACTUALLY OPENS HIS CHROME PALM, EXTRACTS THE LIVING STOLEN HAND AND PHYSICALLY GIVES IT TO BRETT/ASMODEUS**, who is in **HELL** dressed in white dinner jacket. **BRETT ACTUALLY PASSES HAND to FEMALE SUCCUBUS/DEMON ASSISTANT, WHO STORES IT IN A POUCH ON HER PERSON**, direct witnessed custody. **HOPE DOES NOT RETRIEVE THIS HAND**, her regular arm remains from STANLEY ***REGENERATE***; **PRINCIPLE NO LONGER CARRIES HAND**. BRETT says it is **ONE OF TWO PIECES/DEBT ARTIFACTS**, still DEMANDS **MISSING EYE OF THE VOICE**, **NOT VOREL'S PHYSICALLY EMBEDDED EYE OF GROXL**. WHO THE HOODED VOICE REALLY IS, BRETT'S proposed use of pieces, whether succubus changes location after casino snap and possible later recovery remain UNKNOWN. **Do NOT conflate actual Hand transfer with merely offered missing Eye or heart extraction**. [Full P/Q report](../../reports/WASTES_S3E12_ASR_COMPARISON_2026-10-27.md); audio unchecked.
+
 **Identity:** Living, severed supernatural hand attached to **Hope** in **E101**; **not** the Eye of the Voice or the detachable **Zorander's Fist gauntlet**. **Evidence:** Processed ASR, not independently heard.
 
 In the White Tower crisis E101, Hope **cuts away her own hand** and fuses the separate **Hand of the Voice** to herself, changing her body and abilities. This action accompanies **Hope leaving the original party**, the end of Arc Four and beginning of Arc Five **within the same episode**. The gauntlet remains a physically distinct item: Nash reseals it in its case, and **Tobacho actually receives the gauntlet without the Hand in E106**. [E101](../../episodes/E101.md) · [E106](../../episodes/E106.md) · [Hope](../characters/hope-akmenos.md).

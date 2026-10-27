@@ -2,16 +2,24 @@
 
 ## Introduction
 
-A small and extraordinary deck of cards lies for years in the coat of a dead halfling, hung from a tree in the woods beyond Hooper Estate. Servants whisper that Grandfather Hooper possessed a **Deck of Many Things**, a treasure he cherished above nearly anything else. The rumours are not yet enough to prove its whereabouts, until the Great Daufante discovers a powerful object in the pockets of the grandfather's reanimated body.[^rumour]
+Servants at Hooper Estate speak of a Deck of Many Things once carried by Aurelli Hooper. The cards are said to have vanished with him, making their whereabouts part of the mystery surrounding the old man's death.[^rumour]
 
-## The wedding in the woods
+## Development by arc
 
-Daufante uses his spider familiar Hamlet to hear servants' accounts of Grandfather Hooper's murder and the cards believed lost with him. When the grandfather returns as a wight hanging from a moving oak, the wizard's magical sight picks out the deck in his upper pocket. After the creature is defeated, Daufante sends out a spectral **Mage Hand** to remove it. He warns the Delvers that such a treasure is perilous and avoids drawing any card or bringing his own skin into contact with it. The deck is wrapped carefully and placed in his Bag of Holding.[^retrieval]
+<a id="the-wedding-in-the-woods"></a>
+
+### Arc Two — Recovered cards become a negotiated prize
+
+Daufante's familiar Hamlet brings him the servants' account. When Hooper returns as a wight hanging from a moving oak, Daufante detects the deck in the body's upper pocket. The rumored treasure has become a physical object that can be recovered.[^recovery]
+
+After the wight's defeat, a spectral Mage Hand removes the cards. Daufante handles them through cloth and packs them into his Bag of Holding, warning the others that the treasure is dangerous. His care keeps the deck untested: no card is drawn.[^recovery]
+
+Keeping it becomes part of the settlement. Krandal demands that Daufante relinquish his share of the wedding contract in exchange for the deck, and the wizard agrees. He leaves the following day with the wrapped cards, taking the prize away from the estate without demonstrating its powers.[^departure]
 
 ## Current status
 
-**The deck has been physically recovered and is carried away by the Great Daufante**, who agrees to forego his share of the Hooper wedding payment in exchange for keeping it. **No card is drawn; no card effect, deck count, individual faces, curse, attunement, ownership right before Hooper or further power is demonstrated in play.** The family's historical ownership and the circumstances of Hooper's death arise first as rumour and confession; the physical deck and its transfer to Daufante are independently narrated.[^status]
+The deck is last known carried away in Daufante's Bag of Holding. Its later use, full contents and eventual destination remain unknown.[^departure]
 
-[^rumour]: [S2E02](../../episodes/S2E02.md), ~01:53–01:57. Hamlet's findings are secondhand servants' rumours, not a direct witness of the old murder.
-[^retrieval]: [S2E02](../../episodes/S2E02.md), ~02:18–02:41. Detect Magic identifies object, **Mage Hand removes real cards**, no draw/use, wizard retains.
-[^status]: [S2E02](../../episodes/S2E02.md), ~02:37–02:47. Guest exits following day with wrapped deck in Bag of Holding, relinquishes quest pay to three Delvers; no specific later effects.
+[^rumour]: [S2E02](../../episodes/S2E02.md), ~01:42–01:56, Hamlet conveys servants' rumors about Grandfather Aurelli Hooper's murder and the deck. Goodwine's subsequent confession is given under Charm Person and is not an independently witnessed historical scene. The reported fifteen-year interval does not independently date the deck's presence in the pocket. Introduction no longer presents that whole storage history as directly established.
+[^recovery]: [S2E02](../../episodes/S2E02.md), ~01:56–02:45, Detect Magic locates the object and the played narration identifies the Deck of Many Things. Mage Hand physically extracts the deck after the wight is defeated; cloth/bag precautions do not prove a touch-activated curse or a required attunement. No draw, individual card face, count/composition, exact physical decoration or card effect is demonstrated. Generic published item powers are not added to this observed history.
+[^departure]: [S2E02](../../episodes/S2E02.md), ~02:36–02:48, Daufante accepts the fee-for-deck bargain and departs next day with it; the precise final reward division is not independently reconciled. [S2E03](../../episodes/S2E03.md), opening, confirms departure with the deck, not a further draw or visit. This establishes possession, not a complete legal ownership chain before Hooper or a future use. Deck/card references searched across all 37 dossiers do not establish later powers here; ordinary card games remain distinct. No new original audio, guest sheet, item card, art or map review occurred.

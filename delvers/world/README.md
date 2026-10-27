@@ -79,6 +79,14 @@ The [Masked Mage](characters/masked-mage.md) has a [character checkpoint](../../
 
 The [red crystal](items/khalazar-red-crystal.md) and [sensory amulet](items/khalazar-sensory-amulet.md) have a linked [artifact checkpoint](../../reports/DELVERS_CRYSTAL_DETECTOR_2026-10-27.md) distinguishing the recovered component, constructed detector, observed response, later bracer and unresolved custody/function limits.
 
+The [three organ urns](items/three-urns-triangle-gate.md) and [individual heart jar](items/dried-heart-jar.md) have a linked [artifact checkpoint](../../reports/DELVERS_URNS_HEART_2026-10-27.md) preserving the set/component distinction, changing custody, released gate keys, actual organ use and unknown final empty-vessel fate.
+
+The [Hereditary Drone](items/hereditary-drone.md) has an [artifact checkpoint](../../reports/DELVERS_DRONE_2026-10-27.md) distinguishing portable assembly, selective playback, attributed theory, larger source and unresolved final custody/condition.
+
+The [stolen tome](items/stolen-warlocks-tome.md) and [Deck of Many Things](items/deck-of-many-things.md) have an [artifact checkpoint](../../reports/DELVERS_TOME_DECK_2026-10-27.md) distinguishing recognized objects, physical transfers, reported history and untested powers or contents.
+
+The [radiant armour](items/loran-radiant-armour.md) and [transforming sword](items/vestal-diamond-heart-handle.md) have an [equipment checkpoint](../../reports/DELVERS_LORAN_EQUIPMENT_2026-10-27.md) separating initial recognition, guarded access, later acquisition and demonstrated protection or combat use.
+
 All 27 current place-directory paths now have bounded editorial dispositions: 25 place/institution accounts, one historical event study and one compatibility route. The [place audit](../../reports/DELVERS_PLACE_AUDIT_2026-10-26.md) and [disposition register](../../project/DELVERS_PLACE_DISPOSITIONS.json) distinguish direct site observations from later reports and outcomes. This does not certify complete factual coverage or finish the remaining world domains.
 
 ## Subject directory
@@ -162,7 +170,7 @@ All 27 current place-directory paths now have bounded editorial dispositions: 25
 - [Drift globe — Koh's recovered light source](items/drift-globe.md)
 - [Evelyn's friendship ribbon — enchanted pink locator](items/friendship-ribbon.md)
 - [Goat of Travail — Evelyn's ivory figurine](items/goat-of-travail.md)
-- [Hereditary Drone — stone music box](items/hereditary-drone.md)
+- [Hereditary Drone — music box and droning effects](items/hereditary-drone.md)
 - [Horn of Blasting — the thunderous ruin relic](items/horn-of-blasting.md)
 - [Khalazar red crystal fragment — dream-recovered shard](items/khalazar-red-crystal.md)
 - [Koh's red-crystal sensory amulet — Khalazar-compulsion detector](items/khalazar-sensory-amulet.md)
