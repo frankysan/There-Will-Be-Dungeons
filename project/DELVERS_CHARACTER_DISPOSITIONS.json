@@ -1,17 +1,19 @@
 {
   "date": "2026-10-27",
-  "scope": "All 35 current Delvers character-directory Markdown paths",
+  "scope": "All 36 current character-directory paths: original 35 bounded dispositions plus All Rat routing addition",
   "counts": {
-    "ordinary_character_biographies": 35,
-    "bounded_editorial_dispositions": 35,
-    "biographies_changed_this_audit": 0
+    "ordinary_character_biographies": 36,
+    "bounded_editorial_dispositions": 36,
+    "biographies_changed_this_audit": 0,
+    "new_profiles_after_original_audit": 1
   },
   "review_limits": [
     "Introductions/current-status/status-note read across all 35, with arc paragraph-opening topic sampling; not a fresh full-body reread of every biography",
     "Selected complete dossier paragraphs cross-check later mentions, retrospective departures, rescues and final epilogues",
     "Alias matches are routing candidates, not identity proof; absent literal matches do not prove absence of later scenes",
     "No new audio, ASR comparison, original sheet/art/map, complete campaign rereading or full factual certification",
-    "Existing spelling, identity, medical/ritual mechanics, inventory and listening issues remain open"
+    "Existing spelling, identity, medical/ritual mechanics, inventory and listening issues remain open",
+    "All Rat added through a separately recorded routing review; original 35-page audit remains historical and was not rerun here."
   ],
   "findings": [
     "All 35 have character-appropriate structure and bounded focus/horizon dispositions",
@@ -19,7 +21,7 @@
     "Reported reassignment, retrospective departure, correspondence/advertising, visionary representation and physical outcomes remain distinct",
     "All 35 biographies and all 27 place pages preserved unchanged"
   ],
-  "next_work": "Artifact batch: Khalazar red crystal and Koh sensory amulet; remaining world domains and final integration remain pending",
+  "next_work": "Gricks/hook-horror review and remaining setting/institution work; final integration pending",
   "pages": [
     {
       "path": "delvers/world/characters/alexandre-vanderbuck-withers.md",
@@ -104,6 +106,131 @@
       "routing_cutoff": "S3E12",
       "later_candidate_mentions": [],
       "factual_acceptance": "No complete factual or audio certification"
+    },
+    {
+      "path": "delvers/world/characters/all-rat.md",
+      "sha256": "72a17e2c266f7a65f0a21ff69b3557184134a906260acf05be78cfc85e647392",
+      "disposition": "ordinary-character-biography",
+      "editorial_review": "bounded-new-collective-biography",
+      "character_focus": "Captive control, bargaining to retain claimed power and collapse after loss of urn",
+      "supported_horizon": "S3E08 shared voice/bargain; dissolution into living rats",
+      "later_evidence": "No established reunion; scattered rats not all dead",
+      "retained_limit": "No proved sustaining mechanism, full origin, intelligence score, species-wide fate or other-campaign identity",
+      "review_method": "Full canonical account/source notes and selected complete S3E08 paragraphs reviewed; no new audio or fresh full review of existing 35 biographies",
+      "primary_paragraphs_reviewed_this_audit": [
+        {
+          "dossier": "delvers/episodes/S3E08.md",
+          "lines": [
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            30
+          ]
+        }
+      ],
+      "prior_coverage_artifacts": [
+        "project/DELVERS_CREATURE_FACTION_COVERAGE.json"
+      ],
+      "candidate_alias_regex": "All Rat|Owl Rat|cranium.rat",
+      "candidate_mentions": [
+        {
+          "dossier": "delvers/episodes/S1E05.md",
+          "episode": "S1E05",
+          "lines": [
+            33,
+            34,
+            54,
+            63
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S1E07.md",
+          "episode": "S1E07",
+          "lines": [
+            29
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S2E00.md",
+          "episode": "S2E00",
+          "lines": [
+            22
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S2E06.md",
+          "episode": "S2E06",
+          "lines": [
+            21
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S2E10.md",
+          "episode": "S2E10",
+          "lines": [
+            21
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S2E12.md",
+          "episode": "S2E12",
+          "lines": [
+            21
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S3E08.md",
+          "episode": "S3E08",
+          "lines": [
+            5,
+            25,
+            26,
+            27,
+            28,
+            38,
+            41,
+            45,
+            47
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S3E09.md",
+          "episode": "S3E09",
+          "lines": [
+            20
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S3E10.md",
+          "episode": "S3E10",
+          "lines": [
+            7,
+            9
+          ]
+        }
+      ],
+      "routing_cutoff": "S3E08",
+      "later_candidate_mentions": [
+        {
+          "dossier": "delvers/episodes/S3E09.md",
+          "episode": "S3E09",
+          "lines": [
+            20
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S3E10.md",
+          "episode": "S3E10",
+          "lines": [
+            7,
+            9
+          ]
+        }
+      ],
+      "factual_acceptance": "Bounded dossier-based migration, not complete factual/audio certification"
     },
     {
       "path": "delvers/world/characters/ambermoor.md",
@@ -5585,6 +5712,20 @@
       "path": "delvers/world/characters/ambermoor.md",
       "report": "reports/DELVERS_PROVENANCE_RECONCILIATION_2026-10-27.md",
       "scope": "Single existing row updated; other page rows unchanged, no full audit recertification"
+    }
+  ],
+  "bounded_additions": [
+    {
+      "date": "2026-10-27",
+      "path": "delvers/world/characters/all-rat.md",
+      "report": "reports/DELVERS_CREATURE_ROUTING_2026-10-27.md",
+      "scope": "New canonical collective biography only; existing 35 rows and biographies unchanged; original broad audit not rerun",
+      "previous_scope": "All 35 current Delvers character-directory Markdown paths",
+      "previous_counts": {
+        "ordinary_character_biographies": 35,
+        "bounded_editorial_dispositions": 35,
+        "biographies_changed_this_audit": 0
+      }
     }
   ]
 }

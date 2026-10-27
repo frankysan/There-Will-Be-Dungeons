@@ -1,19 +1,22 @@
 {
   "date": "2026-10-27",
-  "scope": "Six creature profiles, nine creature-index rows, WORLD routing and fourteen institutional/reference units; not exhaustive campaign creature/faction research",
+  "scope": "Six creature-directory paths (five subjects and one compatibility route), seven index rows and fourteen institutional/reference units; bounded All Rat/minotaur routing update recorded",
   "baseline": {
     "branch": "main",
     "head": "5bd18ad",
     "initial_working_tree": "clean"
   },
   "counts": {
-    "creature_profiles": 6,
-    "creature_index_rows": 9,
+    "creature_profiles": 5,
+    "creature_index_rows": 7,
     "index_only_creature_candidates": 2,
-    "index_reasoning_community_route": 1,
+    "index_reasoning_community_route": 0,
     "institutional_reference_units": 14,
     "formal_faction_directory": false,
-    "subject_rewrites": 0
+    "subject_rewrites": 1,
+    "creature_directory_paths": 6,
+    "compatibility_routes": 1,
+    "new_character_profiles": 1
   },
   "review_limits": [
     "Six full current creature pages and full nine-row index read",
@@ -22,29 +25,25 @@
     "Twenty-two alias patterns searched across 37 dossiers; hits are routing candidates, absence is not proof",
     "Seven selected complete primary paragraphs read; no full source reread",
     "No new original ASR/audio, sheets, images/maps, bonus exports, rulebook, remote URL or rendered-site review",
-    "Independent Delvers continuity; no empty pages or automatic taxonomy migration"
+    "Independent Delvers continuity; no empty pages or automatic taxonomy migration",
+    "Subsequent routing update: All Rat path is a compatibility stub and index has seven creature rows. Original inventory review remains historical; no new full review of the other five profiles or fourteen institutional units."
   ],
   "creature_profiles": [
     {
       "path": "delvers/world/creatures/all-rat-cranium-congregation.md",
-      "sha256": "110c8ef9c98822dead376aa7baae2f829aeff892f77f53a7d6b7b84b86c462ce",
+      "sha256": "cf251e4e9dd5dcce4906065b1e5cbdb45ebc352a88504e25196fd80ee7c6b255",
       "h1": "The All Rat — cranium-rat congregation",
-      "disposition": "reasoning-collective-routing-review",
-      "priority": "P0",
-      "next_action": "Review character-context routing for speech, self-presentation and bargaining",
+      "disposition": "compatibility-route-to-character",
+      "priority": "completed-P0",
+      "next_action": "Retain compatibility path; canonical biography in Characters",
       "supported_horizon": "S3E08 collective disperses into living rats",
       "retained_limit": "Interested organ claim and false visions remain separate; no species-wide death",
       "main_sections": [],
-      "main_prose_words": 313,
+      "main_prose_words": 20,
       "anchors": [
         "the-all-rat--cranium-rat-congregation"
       ],
-      "structural_findings": [
-        "Introduction not first substantive section",
-        "No final Current status section",
-        "Source/production apparatus visible in main prose",
-        "Editorial caution visible in main prose"
-      ],
+      "structural_findings": [],
       "candidate_alias_regex": "All Rat|Owl Rat|cranium.rat",
       "candidate_mentions": [
         {
@@ -114,7 +113,19 @@
           ]
         }
       ],
-      "review_method": "Full current page read; inventory/routing, not full factual/audio certification"
+      "review_method": "Former full creature account migrated to one canonical character biography; this path is now a compatibility stub",
+      "canonical_subject_path": "delvers/world/characters/all-rat.md",
+      "bounded_routing_update": {
+        "date": "2026-10-27",
+        "previous_sha256": "110c8ef9c98822dead376aa7baae2f829aeff892f77f53a7d6b7b84b86c462ce",
+        "report": "reports/DELVERS_CREATURE_ROUTING_2026-10-27.md",
+        "original_structural_findings": [
+          "Introduction not first substantive section",
+          "No final Current status section",
+          "Source/production apparatus visible in main prose",
+          "Editorial caution visible in main prose"
+        ]
+      }
     },
     {
       "path": "delvers/world/creatures/flameskull.md",
@@ -701,7 +712,7 @@
   ],
   "creature_index": {
     "path": "delvers/world/CREATURES_AND_MONSTERS.md",
-    "sha256": "eebecda30b4cf9065c56a7fa004606870b78061a212240a20e5b33dc7319165c",
+    "sha256": "8efa3bf2c86099c797ff7b4c9dd537da10a002b9301b31933bb237d06a2cf23a",
     "rows": [
       {
         "label": "Ancient mummified elves of the triangle-gate catacombs",
@@ -720,37 +731,16 @@
         ]
       },
       {
-        "label": "[All Rat cranium-rat congregation](creatures/all-rat-cranium-congregation.md)",
-        "disposition": "linked current creature profile",
-        "findings": [
-          "Compact source-heavy synopsis while retaining evidence",
-          "Reasoning collective needs character-context route"
-        ]
-      },
-      {
         "label": "[Hook horrors](creatures/hook-horrors.md)",
         "disposition": "linked current creature profile",
         "findings": [
-          "Compact source-heavy synopsis while retaining evidence",
-          "Early untrained-juvenile summary omits later farm epilogue"
-        ]
-      },
-      {
-        "label": "Skeletal Minotaur Mesa allies",
-        "disposition": "reasoning-community routing review",
-        "findings": [
-          "Compact source-heavy synopsis while retaining evidence",
-          "Speaking allies listed in creature index despite category boundary",
-          "Retain observed final release while separating earlier predictions about curse ending"
+          "Index summary now reaches farm epilogue; full hook-horror chronology remains P1 work"
         ]
       },
       {
         "label": "[Skeletal bat of Dawnless Dunes](creatures/skeletal-bat-balcony.md)",
         "disposition": "linked current creature profile",
-        "findings": [
-          "Compact source-heavy synopsis while retaining evidence",
-          "S3E11 unresolved-fight summary superseded by S3E12 destruction"
-        ]
+        "findings": []
       },
       {
         "label": "[Gricks](creatures/gricks.md)",
@@ -2985,11 +2975,6 @@
   ],
   "next_batches": [
     {
-      "priority": "P0",
-      "scope": "All Rat and speaking-minotaur routing; stale bat/hatchling index summaries",
-      "limits": "Preserve paths/anchors; one canonical character context, no extinction claims"
-    },
-    {
       "priority": "P1",
       "scope": "Gricks and hook horrors chronology/traits/final status",
       "limits": "No species-wide rules from individual behavior"
@@ -3069,6 +3054,22 @@
         "Introduction",
         "Current status"
       ]
+    }
+  ],
+  "bounded_updates": [
+    {
+      "date": "2026-10-27",
+      "report": "reports/DELVERS_CREATURE_ROUTING_2026-10-27.md",
+      "previous_counts": {
+        "creature_profiles": 6,
+        "creature_index_rows": 9,
+        "index_only_creature_candidates": 2,
+        "index_reasoning_community_route": 1,
+        "institutional_reference_units": 14,
+        "formal_faction_directory": false,
+        "subject_rewrites": 0
+      },
+      "scope": "Only All Rat row, index classifications/finale summaries and next-batch pointer updated; other five profiles and institutional units unchanged"
     }
   ]
 }

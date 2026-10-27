@@ -2,8 +2,8 @@
   "date": "2026-10-27",
   "scope": "All current Delvers character-directory Markdown paths; structural inventory and coverage mentions only",
   "counts": {
-    "paths": 35,
-    "presentation_structure_ready_for_audit": 35,
+    "paths": 36,
+    "presentation_structure_ready_for_audit": 36,
     "requires_migration": 0
   },
   "pending": [],
@@ -12,9 +12,10 @@
     "Bounded audit reads introductions/current-status/status-notes and samples paragraph-opening topics in each arc across all 35 pages",
     "Selected primary dossier paragraphs cross-check later mentions and major endpoints; no fresh complete biography/campaign rereading or audio review",
     "Alias matches and coverage mentions are routing/provenance, not independent identity proof or accepted facts",
-    "Detailed horizons, later evidence and retained limits are recorded in DELVERS_CHARACTER_DISPOSITIONS.json"
+    "Detailed horizons, later evidence and retained limits are recorded in DELVERS_CHARACTER_DISPOSITIONS.json",
+    "All Rat added through a separately recorded routing review; original 35-page audit remains historical and was not rerun here."
   ],
-  "next_step": "Artifact batch: Khalazar red crystal and Koh sensory amulet; then remaining world domains",
+  "next_step": "Gricks/hook-horror review, then setting/institution work and final integration",
   "pages": [
     {
       "path": "delvers/world/characters/alexandre-vanderbuck-withers.md",
@@ -49,6 +50,31 @@
       "disposition": "presentation-structure-ready-for-audit",
       "factual_acceptance": "Not certified by this inventory",
       "bounded_audit_disposition": "bounded-focus-and-horizon-review",
+      "audit_register": "project/DELVERS_CHARACTER_DISPOSITIONS.json"
+    },
+    {
+      "path": "delvers/world/characters/all-rat.md",
+      "sha256": "72a17e2c266f7a65f0a21ff69b3557184134a906260acf05be78cfc85e647392",
+      "h1": "The All Rat \u2014 cranium-rat congregation",
+      "main_sections": [
+        "Introduction",
+        "Development by arc",
+        "Current status"
+      ],
+      "arc_headings": [
+        "Arc Three \u2014 A bargain for the source of its power"
+      ],
+      "footnotes": 4,
+      "source_dossiers_linked": [
+        "S3E08"
+      ],
+      "coverage_mentions": [
+        "project/DELVERS_CREATURE_ROUTING_COVERAGE.json"
+      ],
+      "structural_flags": [],
+      "disposition": "presentation-structure-ready-for-audit",
+      "factual_acceptance": "Not fully certified by structural inventory",
+      "bounded_audit_disposition": "bounded-new-collective-biography",
       "audit_register": "project/DELVERS_CHARACTER_DISPOSITIONS.json"
     },
     {
@@ -1290,6 +1316,20 @@
       "path": "delvers/world/characters/ambermoor.md",
       "report": "reports/DELVERS_PROVENANCE_RECONCILIATION_2026-10-27.md",
       "scope": "Single existing row updated; other page rows unchanged, no full audit recertification"
+    }
+  ],
+  "bounded_additions": [
+    {
+      "date": "2026-10-27",
+      "path": "delvers/world/characters/all-rat.md",
+      "report": "reports/DELVERS_CREATURE_ROUTING_2026-10-27.md",
+      "scope": "New canonical collective biography only; existing 35 rows and biographies unchanged; original broad audit not rerun",
+      "previous_scope": "All current Delvers character-directory Markdown paths; structural inventory and coverage mentions only",
+      "previous_counts": {
+        "paths": 35,
+        "presentation_structure_ready_for_audit": 35,
+        "requires_migration": 0
+      }
     }
   ]
 }

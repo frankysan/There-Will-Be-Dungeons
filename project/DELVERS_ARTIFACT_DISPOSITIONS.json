@@ -1497,7 +1497,7 @@
     },
     {
       "path": "delvers/world/items/three-urns-triangle-gate.md",
-      "sha256": "f138da4e5ae4ffebce829437187b7b6e5565b7b0111d31e361f636fa8d69f0cf",
+      "sha256": "f30ebea2d130a03f580292f23b33ed4ff576eb5ea1b50f92ea843285b46d6bc7",
       "disposition": "collective-artifact-account",
       "artifact_focus": "Set acquisition, gate use, released containers and final rite",
       "supported_horizon": "S3E12 organs used; collapse/epilogue no vessel inventory",
@@ -1619,7 +1619,15 @@
           ]
         }
       ],
-      "acceptance": "Bounded editorial disposition, not full factual/audio certification"
+      "acceptance": "Bounded editorial disposition, not full factual/audio certification",
+      "bounded_link_updates": [
+        {
+          "date": "2026-10-27",
+          "report": "reports/DELVERS_CREATURE_ROUTING_2026-10-27.md",
+          "previous_sha256": "f138da4e5ae4ffebce829437187b7b6e5565b7b0111d31e361f636fa8d69f0cf",
+          "scope": "Canonical All Rat link target and associated reference wording only; no factual horizon change"
+        }
+      ]
     },
     {
       "path": "delvers/world/items/vestal-diamond-heart-handle.md",

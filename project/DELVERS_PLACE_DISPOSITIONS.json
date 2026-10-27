@@ -62,8 +62,16 @@
           ]
         }
       ],
-      "sha256": "ba0ce826ada23c2b80f3acea7d9c64c55b9cb3ec239d9f3a7e0fefb3c816ca6b",
-      "acceptance": "bounded editorial disposition; not full factual certification"
+      "sha256": "0a5afe026ab5431867cbee336df8333341d702021b55a868486b1bdb6ec9210a",
+      "acceptance": "bounded editorial disposition; not full factual certification",
+      "bounded_link_updates": [
+        {
+          "date": "2026-10-27",
+          "report": "reports/DELVERS_CREATURE_ROUTING_2026-10-27.md",
+          "previous_sha256": "ba0ce826ada23c2b80f3acea7d9c64c55b9cb3ec239d9f3a7e0fefb3c816ca6b",
+          "scope": "Canonical All Rat link target and associated reference wording only; no factual horizon change"
+        }
+      ]
     },
     {
       "path": "delvers/world/places/black-slime-key-chamber.md",

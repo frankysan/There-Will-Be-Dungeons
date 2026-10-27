@@ -972,3 +972,17 @@ The six profiles and full index were read. WORLD review is explicitly partial, w
 Four exact pre-edit controls and rebased reading copies are archived; all 366 current-baseline protected files remain unchanged, including subjects/indices, all 20 item pages and refreshed character/place registers. No creature/faction page was added, moved or rewritten. No commit or push by this task.
 
 Next resolve All Rat and speaking-minotaur navigation/routing and reconcile stale bat/hatchling index summaries. Then review gricks/hook horrors, remaining form/source-note issues and WORLD setting/institution material. Final campaign integration and targeted listening remain pending.
+
+### Fifty-first implementation checkpoint — reasoning collectives and finale index routing
+
+**2026-10-27: All Rat canonical character migration, compatibility and bounded navigation/register updates completed.** [Report](../reports/DELVERS_CREATURE_ROUTING_2026-10-27.md) · [Coverage](DELVERS_CREATURE_ROUTING_COVERAGE.json) · [Validation](DELVERS_CREATURE_ROUTING_VALIDATION.json) · [Archive](../research/legacy/2026-10-27/delvers-creature-routing/README.md).
+
+All Rat's speech, bargaining and defense of its claimed sustaining organ are covered once in Characters. The old creature path remains a short compatibility route with its title target. All active Delvers links are normalized except the deliberate canonical-to-compatibility reference; historical archives/reports remain intact. Creature navigation now has seven creature/form rows, with All Rat and the speaking minotaur council routed through character/community context. The council retains its existing place record and Chad Brad biography, not a new duplicate biography for every ally.
+
+The bat summary now includes Evelyn's solo destruction in the finale; the hatchling summary includes Scroungy's later farm role without backdating training or generalizing species behavior. All Rat's organ claim, projected fears, real urn removal and dissolution remain separate; surviving rats are not all killed. All ten minotaur allies become inert bones, not restored flesh.
+
+The character registers add only the new 36th profile while preserving the existing 35 rows. The Black Basilica and urn-set registers receive only targeted link/hash history. The creature inventory receives the recorded routing/index update; other five creature-profile rows and fourteen institutional units remain unchanged. Current character/inventory/place/artifact hashes match 36/36/27/20 pages; this is not a new broad factual audit.
+
+Sixteen exact originals and reading copies are archived; all 359 protected files remain unchanged. Nineteen item profiles and twenty-six place profiles are byte-unchanged; the urn-set and Basilica changes only normalize the canonical reference and associated wording. No source dossier/media, private handout or older audit report is rewritten. No new original ASR/audio/image/map/sheet/rulebook review and no commit/push by this task.
+
+Next reconcile gricks and hook horrors around supported traits and later horizons, then review remaining form/source notes and WORLD setting/institution material. Final campaign integration and targeted listening remain pending.

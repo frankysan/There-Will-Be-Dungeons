@@ -1,0 +1,651 @@
+{
+  "date": "2026-10-27",
+  "scope": "One canonical collective biography and compatibility route, reasoning-community navigation and finale index corrections",
+  "headings": [
+    {
+      "path": "delvers/world/creatures/all-rat-cranium-congregation.md",
+      "old_anchor": "the-all-rat--cranium-rat-congregation",
+      "disposition": "Existing heading/explicit target retained"
+    },
+    {
+      "path": "delvers/world/CREATURES_AND_MONSTERS.md",
+      "old_anchor": "creatures-and-monsters",
+      "disposition": "Existing heading/explicit target retained"
+    },
+    {
+      "path": "delvers/world/CHARACTERS.md",
+      "old_anchor": "delvers--characters",
+      "disposition": "Existing heading/explicit target retained"
+    },
+    {
+      "path": "delvers/world/CHARACTERS.md",
+      "old_anchor": "guild-people-and-reported-absences",
+      "disposition": "Existing heading/explicit target retained"
+    },
+    {
+      "path": "delvers/world/CHARACTERS.md",
+      "old_anchor": "forest-and-recent-guild-contacts",
+      "disposition": "Existing heading/explicit target retained"
+    },
+    {
+      "path": "delvers/world/README.md",
+      "old_anchor": "delvers--world-reference",
+      "disposition": "Existing heading/explicit target retained"
+    },
+    {
+      "path": "delvers/world/README.md",
+      "old_anchor": "browse-the-world",
+      "disposition": "Existing heading/explicit target retained"
+    },
+    {
+      "path": "delvers/world/README.md",
+      "old_anchor": "cleanup-progress",
+      "disposition": "Existing heading/explicit target retained"
+    },
+    {
+      "path": "delvers/world/README.md",
+      "old_anchor": "subject-directory",
+      "disposition": "Existing heading/explicit target retained"
+    },
+    {
+      "path": "delvers/world/README.md",
+      "old_anchor": "people",
+      "disposition": "Existing heading/explicit target retained"
+    },
+    {
+      "path": "delvers/world/README.md",
+      "old_anchor": "places-and-institutions",
+      "disposition": "Existing heading/explicit target retained"
+    },
+    {
+      "path": "delvers/world/README.md",
+      "old_anchor": "items-and-artifacts",
+      "disposition": "Existing heading/explicit target retained"
+    },
+    {
+      "path": "delvers/world/README.md",
+      "old_anchor": "creatures",
+      "disposition": "Existing heading/explicit target retained"
+    },
+    {
+      "path": "delvers/world/README.md",
+      "old_anchor": "research-boundary",
+      "disposition": "Existing heading/explicit target retained"
+    },
+    {
+      "path": "delvers/world/README.md",
+      "old_anchor": "cleanup-pilots",
+      "disposition": "Existing heading/explicit target retained"
+    },
+    {
+      "path": "delvers/world/CHRONOLOGY.md",
+      "old_anchor": "delvers--played-chronology",
+      "disposition": "Existing heading/explicit target retained"
+    },
+    {
+      "path": "delvers/REVIEW_QUEUE.md",
+      "old_anchor": "delvers--source-listening-and-editorial-review-queue",
+      "disposition": "Existing heading/explicit target retained"
+    },
+    {
+      "path": "delvers/REVIEW_QUEUE.md",
+      "old_anchor": "active-cleanup-and-verification",
+      "disposition": "Existing heading/explicit target retained"
+    },
+    {
+      "path": "delvers/REVIEW_QUEUE.md",
+      "old_anchor": "end-of-delvers-main-campaign-research",
+      "disposition": "Existing heading/explicit target retained"
+    },
+    {
+      "path": "delvers/REVIEW_QUEUE.md",
+      "old_anchor": "historical-next-episode-queue-closed",
+      "disposition": "Existing heading/explicit target retained"
+    },
+    {
+      "path": "delvers/REVIEW_QUEUE.md",
+      "old_anchor": "historical-episode-research-status--superseded-checkpoints",
+      "disposition": "Existing heading/explicit target retained"
+    },
+    {
+      "path": "delvers/REVIEW_QUEUE.md",
+      "old_anchor": "open-preparation-and-intake-checks",
+      "disposition": "Existing heading/explicit target retained"
+    },
+    {
+      "path": "delvers/REVIEW_QUEUE.md",
+      "old_anchor": "premiere-listening-and-continuity-tasks",
+      "disposition": "Existing heading/explicit target retained"
+    },
+    {
+      "path": "delvers/REVIEW_QUEUE.md",
+      "old_anchor": "s1e04-listening-and-continuity-tasks-originally-misassigned-to-s1e03",
+      "disposition": "Existing heading/explicit target retained"
+    },
+    {
+      "path": "delvers/REVIEW_QUEUE.md",
+      "old_anchor": "s1e05-listening-and-continuity-targets",
+      "disposition": "Existing heading/explicit target retained"
+    },
+    {
+      "path": "delvers/REVIEW_QUEUE.md",
+      "old_anchor": "recording-progress",
+      "disposition": "Existing heading/explicit target retained"
+    },
+    {
+      "path": "delvers/world/places/black-basilica.md",
+      "old_anchor": "the-black-basilica--cranium-rat-prison-and-urn-chamber",
+      "disposition": "Existing heading/explicit target retained"
+    },
+    {
+      "path": "delvers/world/places/black-basilica.md",
+      "old_anchor": "introduction",
+      "disposition": "Existing heading/explicit target retained"
+    },
+    {
+      "path": "delvers/world/places/black-basilica.md",
+      "old_anchor": "development",
+      "disposition": "Existing heading/explicit target retained"
+    },
+    {
+      "path": "delvers/world/places/black-basilica.md",
+      "old_anchor": "arc-three--a-prison-broken-by-removing-its-prize",
+      "disposition": "Existing heading/explicit target retained"
+    },
+    {
+      "path": "delvers/world/places/black-basilica.md",
+      "old_anchor": "current-status",
+      "disposition": "Existing heading/explicit target retained"
+    },
+    {
+      "path": "delvers/world/places/black-basilica.md",
+      "old_anchor": "important-reveal-false-journeys-real-location",
+      "disposition": "Existing heading/explicit target retained"
+    },
+    {
+      "path": "delvers/world/places/black-basilica.md",
+      "old_anchor": "rat-swarms-defeat-urn-recovered",
+      "disposition": "Existing heading/explicit target retained"
+    },
+    {
+      "path": "delvers/world/places/black-basilica.md",
+      "old_anchor": "radiant-lances-remains-and-recovered-artefacts",
+      "disposition": "Existing heading/explicit target retained"
+    },
+    {
+      "path": "delvers/world/places/black-basilica.md",
+      "old_anchor": "exit-and-status-after-s3e08",
+      "disposition": "Existing heading/explicit target retained"
+    },
+    {
+      "path": "delvers/world/items/three-urns-triangle-gate.md",
+      "old_anchor": "the-three-urns-of-the-triangle-gate",
+      "disposition": "Existing heading/explicit target retained"
+    },
+    {
+      "path": "delvers/world/items/three-urns-triangle-gate.md",
+      "old_anchor": "introduction",
+      "disposition": "Existing heading/explicit target retained"
+    },
+    {
+      "path": "delvers/world/items/three-urns-triangle-gate.md",
+      "old_anchor": "development-by-arc",
+      "disposition": "Existing heading/explicit target retained"
+    },
+    {
+      "path": "delvers/world/items/three-urns-triangle-gate.md",
+      "old_anchor": "arc-three--a-heart-taken-from-the-slime",
+      "disposition": "Existing heading/explicit target retained"
+    },
+    {
+      "path": "delvers/world/items/three-urns-triangle-gate.md",
+      "old_anchor": "arc-three--three-vessels-reunited",
+      "disposition": "Existing heading/explicit target retained"
+    },
+    {
+      "path": "delvers/world/items/three-urns-triangle-gate.md",
+      "old_anchor": "arc-three--the-gate-and-the-body",
+      "disposition": "Existing heading/explicit target retained"
+    },
+    {
+      "path": "delvers/world/items/three-urns-triangle-gate.md",
+      "old_anchor": "current-status",
+      "disposition": "Existing heading/explicit target retained"
+    },
+    {
+      "path": "delvers/world/items/three-urns-triangle-gate.md",
+      "old_anchor": "the-three-urns-of-the-triangle-gate--recovered-key-inventory-and-custody",
+      "disposition": "Existing heading/explicit target retained"
+    },
+    {
+      "path": "delvers/world/items/three-urns-triangle-gate.md",
+      "old_anchor": "historical-3-slot-altar-s3e06",
+      "disposition": "Existing heading/explicit target retained"
+    },
+    {
+      "path": "delvers/world/items/three-urns-triangle-gate.md",
+      "old_anchor": "s3e07-bat-capped-dried-heart-urn-placed-once",
+      "disposition": "Existing heading/explicit target retained"
+    },
+    {
+      "path": "delvers/world/items/three-urns-triangle-gate.md",
+      "old_anchor": "s3e08-hook-horror-capped-organ-urn-taken-from-all-rat",
+      "disposition": "Existing heading/explicit target retained"
+    },
+    {
+      "path": "delvers/world/items/three-urns-triangle-gate.md",
+      "old_anchor": "s3e09-third-grick-headed-urn-recovered--all-three-carried-but-altar-still-empty",
+      "disposition": "Existing heading/explicit target retained"
+    },
+    {
+      "path": "delvers/world/items/three-urns-triangle-gate.md",
+      "old_anchor": "s3e10-custody-evelyn-actually-hands-all-three-urns-to-koh",
+      "disposition": "Existing heading/explicit target retained"
+    },
+    {
+      "path": "delvers/world/items/three-urns-triangle-gate.md",
+      "old_anchor": "s3e11--three-jars-installed-gate-opened-jars-ejected-for-reuse-party-inside",
+      "disposition": "Existing heading/explicit target retained"
+    },
+    {
+      "path": "delvers/world/items/three-urns-triangle-gate.md",
+      "old_anchor": "s3e12-final-organs-actually-used-on-khalazar-vessels-cease-to-be-unused-keys",
+      "disposition": "Existing heading/explicit target retained"
+    },
+    {
+      "path": "project/DELVERS_CAMPAIGN_CLEANUP_PLAN.md",
+      "old_anchor": "delvers--completed-campaign-cleanup-plan",
+      "disposition": "Existing heading/explicit target retained"
+    },
+    {
+      "path": "project/DELVERS_CAMPAIGN_CLEANUP_PLAN.md",
+      "old_anchor": "1-intended-result",
+      "disposition": "Existing heading/explicit target retained"
+    },
+    {
+      "path": "project/DELVERS_CAMPAIGN_CLEANUP_PLAN.md",
+      "old_anchor": "2-initial-checkout-inventory-and-findings",
+      "disposition": "Existing heading/explicit target retained"
+    },
+    {
+      "path": "project/DELVERS_CAMPAIGN_CLEANUP_PLAN.md",
+      "old_anchor": "3-story-boundaries-and-knowledge",
+      "disposition": "Existing heading/explicit target retained"
+    },
+    {
+      "path": "project/DELVERS_CAMPAIGN_CLEANUP_PLAN.md",
+      "old_anchor": "4-narrative-consolidation",
+      "disposition": "Existing heading/explicit target retained"
+    },
+    {
+      "path": "project/DELVERS_CAMPAIGN_CLEANUP_PLAN.md",
+      "old_anchor": "5-world-reference-consolidation",
+      "disposition": "Existing heading/explicit target retained"
+    },
+    {
+      "path": "project/DELVERS_CAMPAIGN_CLEANUP_PLAN.md",
+      "old_anchor": "6-work-sequence-and-completion-gates",
+      "disposition": "Existing heading/explicit target retained"
+    },
+    {
+      "path": "project/DELVERS_CAMPAIGN_CLEANUP_PLAN.md",
+      "old_anchor": "7-verification-work-alongside-editing",
+      "disposition": "Existing heading/explicit target retained"
+    },
+    {
+      "path": "project/DELVERS_CAMPAIGN_CLEANUP_PLAN.md",
+      "old_anchor": "8-preservation-and-acceptance",
+      "disposition": "Existing heading/explicit target retained"
+    },
+    {
+      "path": "project/DELVERS_CAMPAIGN_CLEANUP_PLAN.md",
+      "old_anchor": "9-recommended-first-implementation-slice",
+      "disposition": "Existing heading/explicit target retained"
+    },
+    {
+      "path": "project/DELVERS_CLEANUP_MANIFEST.md",
+      "old_anchor": "delvers--cleanup-migration-manifest",
+      "disposition": "Existing heading/explicit target retained"
+    },
+    {
+      "path": "project/DELVERS_CLEANUP_MANIFEST.md",
+      "old_anchor": "method-and-boundaries",
+      "disposition": "Existing heading/explicit target retained"
+    },
+    {
+      "path": "project/DELVERS_CLEANUP_MANIFEST.md",
+      "old_anchor": "page-inventory",
+      "disposition": "Existing heading/explicit target retained"
+    },
+    {
+      "path": "project/DELVERS_CLEANUP_MANIFEST.md",
+      "old_anchor": "acceptance-tracking",
+      "disposition": "Existing heading/explicit target retained"
+    },
+    {
+      "path": "project/DELVERS_CLEANUP_MANIFEST.md",
+      "old_anchor": "first-implementation-checkpoint",
+      "disposition": "Existing heading/explicit target retained"
+    },
+    {
+      "path": "project/DELVERS_CLEANUP_MANIFEST.md",
+      "old_anchor": "season-one-reading-weight",
+      "disposition": "Existing heading/explicit target retained"
+    },
+    {
+      "path": "project/DELVERS_CLEANUP_MANIFEST.md",
+      "old_anchor": "verification-and-remaining-scope",
+      "disposition": "Existing heading/explicit target retained"
+    },
+    {
+      "path": "project/DELVERS_CLEANUP_MANIFEST.md",
+      "old_anchor": "second-implementation-checkpoint--season-two",
+      "disposition": "Existing heading/explicit target retained"
+    },
+    {
+      "path": "project/DELVERS_CLEANUP_MANIFEST.md",
+      "old_anchor": "third-implementation-checkpoint--season-three",
+      "disposition": "Existing heading/explicit target retained"
+    },
+    {
+      "path": "project/DELVERS_CLEANUP_MANIFEST.md",
+      "old_anchor": "fourth-implementation-checkpoint--world-pilots",
+      "disposition": "Existing heading/explicit target retained"
+    },
+    {
+      "path": "project/DELVERS_CLEANUP_MANIFEST.md",
+      "old_anchor": "fifth-implementation-checkpoint--evelyn-and-krandal",
+      "disposition": "Existing heading/explicit target retained"
+    },
+    {
+      "path": "project/DELVERS_CLEANUP_MANIFEST.md",
+      "old_anchor": "sixth-implementation-checkpoint--margaret-and-the-traveler",
+      "disposition": "Existing heading/explicit target retained"
+    },
+    {
+      "path": "project/DELVERS_CLEANUP_MANIFEST.md",
+      "old_anchor": "seventh-implementation-checkpoint--nopa-ropa-and-hissia",
+      "disposition": "Existing heading/explicit target retained"
+    },
+    {
+      "path": "project/DELVERS_CLEANUP_MANIFEST.md",
+      "old_anchor": "eighth-implementation-checkpoint--cassius-and-carrie",
+      "disposition": "Existing heading/explicit target retained"
+    },
+    {
+      "path": "project/DELVERS_CLEANUP_MANIFEST.md",
+      "old_anchor": "ninth-implementation-checkpoint--wildfire-and-alexandre-withers",
+      "disposition": "Existing heading/explicit target retained"
+    },
+    {
+      "path": "project/DELVERS_CLEANUP_MANIFEST.md",
+      "old_anchor": "tenth-implementation-checkpoint--anathala-and-penelope-spiros",
+      "disposition": "Existing heading/explicit target retained"
+    },
+    {
+      "path": "project/DELVERS_CLEANUP_MANIFEST.md",
+      "old_anchor": "eleventh-implementation-checkpoint--broadside-and-cheet",
+      "disposition": "Existing heading/explicit target retained"
+    },
+    {
+      "path": "project/DELVERS_CLEANUP_MANIFEST.md",
+      "old_anchor": "twelfth-implementation-checkpoint--marek-gideon-and-noble-hollow",
+      "disposition": "Existing heading/explicit target retained"
+    },
+    {
+      "path": "project/DELVERS_CLEANUP_MANIFEST.md",
+      "old_anchor": "thirteenth-implementation-checkpoint--enzo-withers-and-skull-keep",
+      "disposition": "Existing heading/explicit target retained"
+    },
+    {
+      "path": "project/DELVERS_CLEANUP_MANIFEST.md",
+      "old_anchor": "fourteenth-implementation-checkpoint--withers-estate-and-broscale-manor",
+      "disposition": "Existing heading/explicit target retained"
+    },
+    {
+      "path": "project/DELVERS_CLEANUP_MANIFEST.md",
+      "old_anchor": "fifteenth-implementation-checkpoint--governor-hall-and-dungeon-guild-academy",
+      "disposition": "Existing heading/explicit target retained"
+    },
+    {
+      "path": "project/DELVERS_CLEANUP_MANIFEST.md",
+      "old_anchor": "sixteenth-implementation-checkpoint--southwestern-well-and-temple-of-pelor",
+      "disposition": "Existing heading/explicit target retained"
+    },
+    {
+      "path": "project/DELVERS_CLEANUP_MANIFEST.md",
+      "old_anchor": "seventeenth-implementation-checkpoint--farm-cave-and-consolidated-farmtower",
+      "disposition": "Existing heading/explicit target retained"
+    },
+    {
+      "path": "project/DELVERS_CLEANUP_MANIFEST.md",
+      "old_anchor": "eighteenth-implementation-checkpoint--gemholm-and-the-kuo-toa-village",
+      "disposition": "Existing heading/explicit target retained"
+    },
+    {
+      "path": "project/DELVERS_CLEANUP_MANIFEST.md",
+      "old_anchor": "nineteenth-implementation-checkpoint--submerged-ruins-and-grick-sinkhole",
+      "disposition": "Existing heading/explicit target retained"
+    },
+    {
+      "path": "project/DELVERS_CLEANUP_MANIFEST.md",
+      "old_anchor": "twentieth-implementation-checkpoint--puzzle-chambers-and-forest-correction",
+      "disposition": "Existing heading/explicit target retained"
+    },
+    {
+      "path": "project/DELVERS_CLEANUP_MANIFEST.md",
+      "old_anchor": "twenty-first-implementation-checkpoint--catacombs-and-black-basilica",
+      "disposition": "Existing heading/explicit target retained"
+    },
+    {
+      "path": "project/DELVERS_CLEANUP_MANIFEST.md",
+      "old_anchor": "twenty-second-implementation-checkpoint--deep-winds-spa-and-dawnless-dunes",
+      "disposition": "Existing heading/explicit target retained"
+    },
+    {
+      "path": "project/DELVERS_CLEANUP_MANIFEST.md",
+      "old_anchor": "twenty-third-implementation-checkpoint--chath-peak-and-snake-island",
+      "disposition": "Existing heading/explicit target retained"
+    },
+    {
+      "path": "project/DELVERS_CLEANUP_MANIFEST.md",
+      "old_anchor": "twenty-fourth-implementation-checkpoint--hooper-estate-and-minotaur-crypt",
+      "disposition": "Existing heading/explicit target retained"
+    },
+    {
+      "path": "project/DELVERS_CLEANUP_MANIFEST.md",
+      "old_anchor": "twenty-fifth-implementation-checkpoint--place-dispositions-and-public-reckoning",
+      "disposition": "Existing heading/explicit target retained"
+    },
+    {
+      "path": "project/DELVERS_CLEANUP_MANIFEST.md",
+      "old_anchor": "twenty-sixth-implementation-checkpoint--glepo-ma-and-skoogie",
+      "disposition": "Existing heading/explicit target retained"
+    },
+    {
+      "path": "project/DELVERS_CLEANUP_MANIFEST.md",
+      "old_anchor": "twenty-seventh-implementation-checkpoint--marsh-and-the-great-daufante",
+      "disposition": "Existing heading/explicit target retained"
+    },
+    {
+      "path": "project/DELVERS_CLEANUP_MANIFEST.md",
+      "old_anchor": "twenty-eighth-implementation-checkpoint--destroying-angel-and-goggles-granny",
+      "disposition": "Existing heading/explicit target retained"
+    },
+    {
+      "path": "project/DELVERS_CLEANUP_MANIFEST.md",
+      "old_anchor": "twenty-ninth-implementation-checkpoint--barclay-and-radiant-lance",
+      "disposition": "Existing heading/explicit target retained"
+    },
+    {
+      "path": "project/DELVERS_CLEANUP_MANIFEST.md",
+      "old_anchor": "thirtieth-implementation-checkpoint--veggie-sticks-and-chad-brad",
+      "disposition": "Existing heading/explicit target retained"
+    },
+    {
+      "path": "project/DELVERS_CLEANUP_MANIFEST.md",
+      "old_anchor": "thirty-first-implementation-checkpoint--darmah-and-dumbledwark",
+      "disposition": "Existing heading/explicit target retained"
+    },
+    {
+      "path": "project/DELVERS_CLEANUP_MANIFEST.md",
+      "old_anchor": "thirty-second-implementation-checkpoint--shrugs-and-shaolin-nym",
+      "disposition": "Existing heading/explicit target retained"
+    },
+    {
+      "path": "project/DELVERS_CLEANUP_MANIFEST.md",
+      "old_anchor": "thirty-third-implementation-checkpoint--chuck-abnaz-and-ambermoor",
+      "disposition": "Existing heading/explicit target retained"
+    },
+    {
+      "path": "project/DELVERS_CLEANUP_MANIFEST.md",
+      "old_anchor": "thirty-fourth-implementation-checkpoint--masked-mage-and-character-inventory",
+      "disposition": "Existing heading/explicit target retained"
+    },
+    {
+      "path": "project/DELVERS_CLEANUP_MANIFEST.md",
+      "old_anchor": "thirty-fifth-implementation-checkpoint--khalazar",
+      "disposition": "Existing heading/explicit target retained"
+    },
+    {
+      "path": "project/DELVERS_CLEANUP_MANIFEST.md",
+      "old_anchor": "thirty-sixth-implementation-checkpoint--character-coverage-audit",
+      "disposition": "Existing heading/explicit target retained"
+    },
+    {
+      "path": "project/DELVERS_CLEANUP_MANIFEST.md",
+      "old_anchor": "thirty-seventh-implementation-checkpoint--red-crystal-and-sensory-amulet",
+      "disposition": "Existing heading/explicit target retained"
+    },
+    {
+      "path": "project/DELVERS_CLEANUP_MANIFEST.md",
+      "old_anchor": "thirty-eighth-implementation-checkpoint--organ-urns-and-dried-heart-jar",
+      "disposition": "Existing heading/explicit target retained"
+    },
+    {
+      "path": "project/DELVERS_CLEANUP_MANIFEST.md",
+      "old_anchor": "thirty-ninth-implementation-checkpoint--hereditary-drone",
+      "disposition": "Existing heading/explicit target retained"
+    },
+    {
+      "path": "project/DELVERS_CLEANUP_MANIFEST.md",
+      "old_anchor": "fortieth-implementation-checkpoint--stolen-tome-and-deck-of-many-things",
+      "disposition": "Existing heading/explicit target retained"
+    },
+    {
+      "path": "project/DELVERS_CLEANUP_MANIFEST.md",
+      "old_anchor": "forty-first-implementation-checkpoint--lorans-radiant-armour-and-transforming-sword",
+      "disposition": "Existing heading/explicit target retained"
+    },
+    {
+      "path": "project/DELVERS_CLEANUP_MANIFEST.md",
+      "old_anchor": "forty-second-implementation-checkpoint--devotees-censer-and-friendship-ribbon",
+      "disposition": "Existing heading/explicit target retained"
+    },
+    {
+      "path": "project/DELVERS_CLEANUP_MANIFEST.md",
+      "old_anchor": "forty-third-implementation-checkpoint--chances-lantern-context-and-drift-globe",
+      "disposition": "Existing heading/explicit target retained"
+    },
+    {
+      "path": "project/DELVERS_CLEANUP_MANIFEST.md",
+      "old_anchor": "forty-fourth-implementation-checkpoint--soul-knife-hilt-and-dragon-slayers-longsword",
+      "disposition": "Existing heading/explicit target retained"
+    },
+    {
+      "path": "project/DELVERS_CLEANUP_MANIFEST.md",
+      "old_anchor": "forty-fifth-implementation-checkpoint--bag-of-hammer-holding-and-ring-of-protection",
+      "disposition": "Existing heading/explicit target retained"
+    },
+    {
+      "path": "project/DELVERS_CLEANUP_MANIFEST.md",
+      "old_anchor": "forty-sixth-implementation-checkpoint--goat-of-travail-and-horn-of-blasting",
+      "disposition": "Existing heading/explicit target retained"
+    },
+    {
+      "path": "project/DELVERS_CLEANUP_MANIFEST.md",
+      "old_anchor": "forty-seventh-implementation-checkpoint--wand-of-secrets-and-geared-disc",
+      "disposition": "Existing heading/explicit target retained"
+    },
+    {
+      "path": "project/DELVERS_CLEANUP_MANIFEST.md",
+      "old_anchor": "forty-eighth-implementation-checkpoint--bounded-artifact-audit",
+      "disposition": "Existing heading/explicit target retained"
+    },
+    {
+      "path": "project/DELVERS_CLEANUP_MANIFEST.md",
+      "old_anchor": "forty-ninth-implementation-checkpoint--bounded-provenance-reconciliation",
+      "disposition": "Existing heading/explicit target retained"
+    },
+    {
+      "path": "project/DELVERS_CLEANUP_MANIFEST.md",
+      "old_anchor": "fiftieth-implementation-checkpoint--creaturefaction-inventory",
+      "disposition": "Existing heading/explicit target retained"
+    },
+    {
+      "path": "project/DELVERS_NARRATIVE_CHAPTER_MAPS.md",
+      "old_anchor": "delvers--narrative-chapter-maps",
+      "disposition": "Existing heading/explicit target retained"
+    },
+    {
+      "path": "project/DELVERS_NARRATIVE_CHAPTER_MAPS.md",
+      "old_anchor": "method-and-reading-weight",
+      "disposition": "Existing heading/explicit target retained"
+    },
+    {
+      "path": "project/DELVERS_NARRATIVE_CHAPTER_MAPS.md",
+      "old_anchor": "first-arc--implemented-pilot",
+      "disposition": "Existing heading/explicit target retained"
+    },
+    {
+      "path": "project/DELVERS_NARRATIVE_CHAPTER_MAPS.md",
+      "old_anchor": "earlier-study-coverage-and-unique-material",
+      "disposition": "Existing heading/explicit target retained"
+    },
+    {
+      "path": "project/DELVERS_NARRATIVE_CHAPTER_MAPS.md",
+      "old_anchor": "second-arc--implemented-consolidation",
+      "disposition": "Existing heading/explicit target retained"
+    },
+    {
+      "path": "project/DELVERS_NARRATIVE_CHAPTER_MAPS.md",
+      "old_anchor": "third-arc--implemented-consolidation",
+      "disposition": "Existing heading/explicit target retained"
+    },
+    {
+      "path": "project/DELVERS_NARRATIVE_CHAPTER_MAPS.md",
+      "old_anchor": "next-acceptance-work",
+      "disposition": "Existing heading/explicit target retained"
+    }
+  ],
+  "domains": {
+    "delvers/world/characters/all-rat.md": "Reasoning collective: control, bargaining, claimed sustaining object and dissolution",
+    "delvers/world/creatures/all-rat-cranium-congregation.md": "Compatibility route only; no duplicate biography",
+    "delvers/world/CREATURES_AND_MONSTERS.md": "Seven creature/form rows; reasoning collective/community routed to character context"
+  },
+  "additional_blocks": [
+    {
+      "old_path": "delvers/world/creatures/all-rat-cranium-congregation.md",
+      "old_blocks": "Appearance/self-name, physical links/mental captivity, rejected bargain, battle, urn removal/dissolution, species/source boundaries",
+      "target": "Canonical character Introduction/Arc Three/Current status and four referenced notes; exact original archived"
+    },
+    {
+      "path": "delvers/world/CREATURES_AND_MONSTERS.md",
+      "old_blocks": "All Rat and minotaur rows; stale bat pursuit/hatchling state",
+      "target": "Characters/community navigation plus bat/hatchling summaries with complete source notes"
+    }
+  ],
+  "critical_boundaries": [
+    "Speech/bargaining establish collective agency without a stat-block intelligence score",
+    "Interested organ claim remains testimony; no full origin, formal Khalazar faction or cross-campaign identity inferred",
+    "Projected surface disasters and combat scenery are not physical travel or history",
+    "Urn removed whole, collective disperses; individual rats not all dead and no proved later reunion",
+    "Nine council members plus Chad Brad act voluntarily and later become inert bones, not restored flesh",
+    "Evelyn solo bat destruction follows S3E11 diversion; elk banishment is not permanent death",
+    "Scroungy later tame state does not backdate training or tame all hook horrors",
+    "One canonical All Rat profile; old URL retained and active links normalized",
+    "New 36th character row added without re-auditing existing 35; place/artifact link-only hashes updated separately",
+    "Initial creature inventory preserved in archive; only routing/index/current queue fields updated, not full faction re-audit"
+  ],
+  "review": "Original All Rat page/index read; full new account and source notes reviewed. Selected complete S3E08 paragraphs 23-28/30, S3E10:11 and S3E12:13/21/22 read. Existing Chad Brad/crypt statuses read. No new original ASR/audio, art/map, sheet, rulebook or remote URL review."
+}

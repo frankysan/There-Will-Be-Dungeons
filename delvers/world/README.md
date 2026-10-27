@@ -105,6 +105,8 @@ All 20 current item-directory paths now have [bounded artifact dispositions](../
 
 A [creature/faction inventory](../../reports/DELVERS_CREATURE_FACTION_INVENTORY_2026-10-27.md) records the remaining presentation, horizon and routing work in [structured form](../../project/DELVERS_CREATURE_FACTION_INVENTORY.json). Reasoning collectives and communities retain character context; existing institution pages remain canonical routes. This inventory does not certify or rewrite the remaining subjects.
 
+[All Rat](characters/all-rat.md) now has one canonical character account, with the former creature URL retained as a compatibility route. The [routing checkpoint](../../reports/DELVERS_CREATURE_ROUTING_2026-10-27.md) also separates speaking minotaur community references and updates the creature index's bat and hatchling outcomes.
+
 All 27 current place-directory paths now have bounded editorial dispositions: 25 place/institution accounts, one historical event study and one compatibility route. The [place audit](../../reports/DELVERS_PLACE_AUDIT_2026-10-26.md) and [disposition register](../../project/DELVERS_PLACE_DISPOSITIONS.json) distinguish direct site observations from later reports and outcomes. This does not certify complete factual coverage or finish the remaining world domains.
 
 ## Subject directory
@@ -207,7 +209,7 @@ All 27 current place-directory paths now have bounded editorial dispositions: 25
 - [Gricks](creatures/gricks.md)
 - [Hook horrors — hunters of the underground passages](creatures/hook-horrors.md)
 - [The roper of Noble Hollow](creatures/noble-hollow-roper.md)
-- [Skeletal bat with shadow-skin — Dawnless Dunes balcony (S3E11)](creatures/skeletal-bat-balcony.md)
+- [Skeletal bat with shadow-skin](creatures/skeletal-bat-balcony.md)
 
 ## Research boundary
 
