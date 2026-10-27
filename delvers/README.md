@@ -24,6 +24,8 @@ All three arcs and the played campaign conclude at **S3E12 — KOA is not A-OK**
 | [Chronology](world/CHRONOLOGY.md) | Story sequence, disclosures and historical episode cutoffs |
 | [Consistency ledger](world/CONSISTENCY_LEDGER.md) | Contradictions, identity questions and qualified resolutions |
 | [Review queue](REVIEW_QUEUE.md) | Open listening and provenance tasks, plus closed intake history |
+| [Transcript-fingerprint audit](../reports/DELVERS_S1E02_S1E01_SOURCE_IDENTITY_2026-10-27.md#campaign-coverage-reconciliation) | All 77 SRT exports checked; 75 historical source paths verified and two advertised S1E04 copies matched to recorded blobs |
+| [Premiere audio-clock pilot](../reports/DELVERS_S1E01_ANCHOR_PILOT_2026-10-27.md) | Machine-generated anchor candidates; actual listening and clock confirmation remain pending |
 | [Documentation plan](DOCUMENTATION_PLAN.md) | Campaign layers, completed boundaries and current work |
 | [Cleanup manifest](../project/DELVERS_CLEANUP_MANIFEST.md) | Page inventory, measurements and migration checkpoints |
 

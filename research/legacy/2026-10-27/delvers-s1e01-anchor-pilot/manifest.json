@@ -1,0 +1,20 @@
+{
+  "date": "2026-10-27",
+  "files": [
+    {
+      "path": "delvers/REVIEW_QUEUE.md",
+      "sha256": "8a6348d0e5010e95c51d2d36d102916a11185d496b2e74c072303b62254d2770",
+      "original": "research/legacy/2026-10-27/delvers-s1e01-anchor-pilot/delvers/REVIEW_QUEUE.md.original"
+    },
+    {
+      "path": "project/DELVERS_CLEANUP_MANIFEST.md",
+      "sha256": "9dc7d950b3edad02f4bfc836bcec02a5ed158169d0035a0b8c220f06ab29f6f3",
+      "original": "research/legacy/2026-10-27/delvers-s1e01-anchor-pilot/project/DELVERS_CLEANUP_MANIFEST.md.original"
+    },
+    {
+      "path": "project/MODEL_TESTS.md",
+      "sha256": "5ab19b9b0a158e1aa4e989250f14b698b1ef7ecd089dbf75493045414f102a41",
+      "original": "research/legacy/2026-10-27/delvers-s1e01-anchor-pilot/project/MODEL_TESTS.md.original"
+    }
+  ]
+}

@@ -13,7 +13,7 @@
 
 **Normalization:** Extract chronological subtitle cue bodies, remove SRT numbering/timestamps and optional `(speaker N)`; lowercase, delete straight/curly apostrophes, replace all other non-Unicode-letter/digit characters with spaces, tokenize on whitespace. Compute unit-cost (substitution/insertion/deletion each 1) **ordered Levenshtein** using two rolling rows inside a **4,500-token diagonal band**. Optimum **2,105 strictly inside band**; leaving band would need ≥4,500 edits, so this is **globally exact**, not a time-aligner candidate count. All Parakeet windows were read through outro; full Qwen was parsed for metric, **selected independently checked Qwen windows only**, not full interpretive re-read of Qwen. Filename labels only; no GPU, decoding flags, elapsed transcription time or audio hashes invented.
 
-### High-risk differences and actual observed cutoffs
+## High-risk differences and actual observed cutoffs
 
 | Time | Source-supported interpretation and risks |
 | --- | --- |
@@ -27,6 +27,6 @@
 | ~02:51–03:01 | Lower vault opened by **Krandal's SECOND Scroll of Silence** and **Shrugs dynamite**, while **Evelyn has unspent third**. Inconsistent **“six sticks planted” versus “four sticks exploded”** (both P and Q show competing numbers within same scene); do not invent precise inventory. **Evelyn physically destroys familiar conch-topped staff and bell-covered trousers; Koh takes broken remnants**, staff's identity **possible S1E11 link, not proven**. **Many gems, black-liquid vials**, miscellaneous hat/candle/cloak/dice (Koh) and mirror/painting/honey-filled book (Shrugs) taken; **possible music-box disc** glimpsed, not separately identified. **No incriminating papers proven found**. |
 | ~03:01–03:03:08 | **Party actually escapes by Allspice cart**. Koh says **Fern might burn estate for fun** as speculative proposal (Persuasion 13), **no burning occurs on tape**. Withers approaches residence while interior curtains light; **no robbery proceeds delivered, identified or divvied up, no Cassius proof debrief, no confrontation with Withers**. Guest postshow chatter not in-world play. |
 
-### Source confidence and follow-up
+## Source confidence and follow-up
 
 Key spell rhymes, names of four elemental brothers, magical consequences, loot/appraisal and the discrepancy in final vault charges require **audio verification**. Q8/Parakeet disagreement is *text-only*. **No source audio or SRT edited.** [Full episode dossier](../delvers/episodes/S2E04.md) · [next Delvers research S2E05 inventory](../delvers/SOURCE_INVENTORY.md).

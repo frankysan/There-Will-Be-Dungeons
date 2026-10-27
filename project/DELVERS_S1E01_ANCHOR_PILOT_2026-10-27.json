@@ -1,0 +1,1383 @@
+{
+  "date": "2026-10-27",
+  "campaign": "Delvers",
+  "episode": "S1E01",
+  "issue": "DEL-PREP-002",
+  "task": "bounded native-ASR clock-anchor candidates",
+  "checked_HEAD": "dc97c7c3f022592ac9836f8142dbb4843bb675d0",
+  "status": "candidate generation and validation complete; listening required",
+  "audio": {
+    "path": "local/Delvers S1E01. How Much Is Potato.mp3",
+    "sha256": "ea32c8bc9db10c34e4e181b35105e0afec7a0be2493ed7830750ed3d8dbf1492",
+    "historical_sha256_match": true,
+    "probe": {
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "index": 0,
+          "codec_name": "mp3",
+          "sample_rate": "44100",
+          "channels": 2
+        },
+        {
+          "index": 1,
+          "codec_name": "mjpeg"
+        }
+      ],
+      "format": {
+        "duration": "9011.291813",
+        "size": "144634246"
+      }
+    },
+    "file_state": {
+      "size": 144634246,
+      "mtime_ns": 1792572016917000000
+    }
+  },
+  "sources": [
+    {
+      "path": "sources/Delvers S1E01. How Much Is Potato.parakeet.processed.srt",
+      "recorded_blob_sha1": "b7f36f432ba4d2098e4a30f2a62a88d20aa47856",
+      "raw_bytes_preflight": 228254,
+      "blob_identity_origin": "historical commit tree",
+      "recorded_raw_sha256": "5a1257ebcc8d96f7a6ceeef1eb699c0c59945fa06696273c75ddecdfd9f3509f",
+      "recorded_raw_sha256_match": true,
+      "raw_bytes": 228254,
+      "raw_sha256": "5a1257ebcc8d96f7a6ceeef1eb699c0c59945fa06696273c75ddecdfd9f3509f",
+      "raw_git_blob_sha1": "f87f0586a8c32492b9901850ec227ec59d8945b6",
+      "CRLF_pairs": 11125,
+      "LF_bytes": 11125,
+      "UTF8_BOM": false,
+      "LF_only_bytes": 217129,
+      "CRLF_to_LF_git_blob_sha1": "b7f36f432ba4d2098e4a30f2a62a88d20aa47856",
+      "raw_byte_identity": false,
+      "exact_comparison_after_only_CRLF_to_LF": true,
+      "local_Git_object_sha1_verified": true,
+      "recorded_source_commit_path_blob": "b7f36f432ba4d2098e4a30f2a62a88d20aa47856",
+      "recorded_source_commit_path_match": true,
+      "phase_A_file_state": {
+        "size": 228254,
+        "mtime_ns": 1792655153216789700
+      }
+    },
+    {
+      "path": "sources/Delvers S1E01. How Much Is Potato.qwen-q8.canary-ctc.nemotron.srt",
+      "recorded_blob_sha1": "a08f857c78a2aabf48dbfb2cf7b60e88df450fe0",
+      "raw_bytes_preflight": 313158,
+      "blob_identity_origin": "historical commit tree",
+      "recorded_raw_sha256": "52f941abf06a20aebf8081b0a79cac8612545587dafa66ea4a36ab2bf008d59c",
+      "recorded_raw_sha256_match": true,
+      "raw_bytes": 313158,
+      "raw_sha256": "52f941abf06a20aebf8081b0a79cac8612545587dafa66ea4a36ab2bf008d59c",
+      "raw_git_blob_sha1": "56a60b7ee7c8e11be6ce4998c825e4d7bca89f59",
+      "CRLF_pairs": 15700,
+      "LF_bytes": 15700,
+      "UTF8_BOM": false,
+      "LF_only_bytes": 297458,
+      "CRLF_to_LF_git_blob_sha1": "a08f857c78a2aabf48dbfb2cf7b60e88df450fe0",
+      "raw_byte_identity": false,
+      "exact_comparison_after_only_CRLF_to_LF": true,
+      "local_Git_object_sha1_verified": true,
+      "recorded_source_commit_path_blob": "a08f857c78a2aabf48dbfb2cf7b60e88df450fe0",
+      "recorded_source_commit_path_match": true,
+      "phase_A_file_state": {
+        "size": 313158,
+        "mtime_ns": 1792694171350554000
+      }
+    }
+  ],
+  "candidate_results": {
+    "campaign": "Delvers",
+    "episode": "S1E01",
+    "issue": "DEL-PREP-002",
+    "status": "automated candidates only; no listening",
+    "windows": [
+      {
+        "id": "opening",
+        "source_audio_ms": [
+          0,
+          70000
+        ],
+        "recognized_words": 191,
+        "raw_result": "local/episode-analysis/delvers-S1E01-anchor-pilot-2026-10-27/opening/recognition.json",
+        "raw_sha256": "916ded84ab092db3dc206fe531ad073a5cb8a50c9a9c9fee4a13e73d19828274",
+        "exports": {
+          "P": [
+            {
+              "phrase": "listeners and viewers and welcome back to there",
+              "audio_model_span_ms": [
+                9680,
+                11520
+              ],
+              "SRT_cues": [
+                1,
+                2
+              ],
+              "SRT_span_ms": [
+                9120,
+                13896
+              ],
+              "first_word_candidate_audio_minus_SRT_ms": [
+                -1600,
+                560
+              ],
+              "word_count": 8,
+              "status": "unique within selected windows; machine-only match"
+            },
+            {
+              "phrase": "may not be on twitter or other social",
+              "audio_model_span_ms": [
+                20640,
+                23200
+              ],
+              "SRT_cues": [
+                5,
+                6
+              ],
+              "SRT_span_ms": [
+                19681,
+                25680
+              ],
+              "first_word_candidate_audio_minus_SRT_ms": [
+                -1920,
+                959
+              ],
+              "word_count": 8,
+              "status": "unique within selected windows; machine-only match"
+            },
+            {
+              "phrase": "secret he just is taking some time for",
+              "audio_model_span_ms": [
+                47120,
+                50000
+              ],
+              "SRT_cues": [
+                13,
+                14
+              ],
+              "SRT_span_ms": [
+                45280,
+                51520
+              ],
+              "first_word_candidate_audio_minus_SRT_ms": [
+                -2000,
+                1840
+              ],
+              "word_count": 8,
+              "status": "unique within selected windows; machine-only match"
+            },
+            {
+              "phrase": "at it and he's always welcome to fill",
+              "audio_model_span_ms": [
+                68640,
+                69760
+              ],
+              "SRT_cues": [
+                20,
+                20
+              ],
+              "SRT_span_ms": [
+                68240,
+                70160
+              ],
+              "first_word_candidate_audio_minus_SRT_ms": [
+                -1520,
+                400
+              ],
+              "word_count": 8,
+              "status": "unique within selected windows; machine-only match"
+            }
+          ],
+          "Q": [
+            {
+              "phrase": "greetings listeners and viewers and welcome back to",
+              "audio_model_span_ms": [
+                9040,
+                11280
+              ],
+              "SRT_cues": [
+                1,
+                2
+              ],
+              "SRT_span_ms": [
+                9120,
+                12720
+              ],
+              "first_word_candidate_audio_minus_SRT_ms": [
+                -2080,
+                -80
+              ],
+              "word_count": 8,
+              "status": "unique within selected windows; machine-only match"
+            },
+            {
+              "phrase": "some form don't know when don't know how",
+              "audio_model_span_ms": [
+                58080,
+                59680
+              ],
+              "SRT_cues": [
+                21,
+                23
+              ],
+              "SRT_span_ms": [
+                56985,
+                60340
+              ],
+              "first_word_candidate_audio_minus_SRT_ms": [
+                -180,
+                1095
+              ],
+              "word_count": 8,
+              "status": "unique within selected windows; machine-only match"
+            },
+            {
+              "phrase": "how we look at it and he's always",
+              "audio_model_span_ms": [
+                68240,
+                69360
+              ],
+              "SRT_cues": [
+                27,
+                28
+              ],
+              "SRT_span_ms": [
+                66805,
+                70580
+              ],
+              "first_word_candidate_audio_minus_SRT_ms": [
+                -580,
+                1435
+              ],
+              "word_count": 8,
+              "status": "unique within selected windows; machine-only match"
+            },
+            {
+              "phrase": "at it and he's always welcome to fill",
+              "audio_model_span_ms": [
+                68640,
+                69760
+              ],
+              "SRT_cues": [
+                27,
+                28
+              ],
+              "SRT_span_ms": [
+                66805,
+                70580
+              ],
+              "first_word_candidate_audio_minus_SRT_ms": [
+                -180,
+                1835
+              ],
+              "word_count": 8,
+              "status": "unique within selected windows; machine-only match"
+            }
+          ]
+        }
+      },
+      {
+        "id": "break",
+        "source_audio_ms": [
+          3520000,
+          3620000
+        ],
+        "recognized_words": 278,
+        "raw_result": "local/episode-analysis/delvers-S1E01-anchor-pilot-2026-10-27/break/recognition.json",
+        "raw_sha256": "6fe1d5ece3468f9e9b8b1c145f6577812bd49ad953d42cc11dd9d0d5607163bc",
+        "exports": {
+          "P": [
+            {
+              "phrase": "take care of y'all good luck out there",
+              "audio_model_span_ms": [
+                3535440,
+                3538000
+              ],
+              "SRT_cues": [
+                918,
+                918
+              ],
+              "SRT_span_ms": [
+                3535461,
+                3542237
+              ],
+              "first_word_candidate_audio_minus_SRT_ms": [
+                -6797,
+                -21
+              ],
+              "word_count": 8,
+              "status": "unique within selected windows; machine-only match"
+            },
+            {
+              "phrase": "drop it and kind of kick it toward",
+              "audio_model_span_ms": [
+                3546480,
+                3547840
+              ],
+              "SRT_cues": [
+                920,
+                920
+              ],
+              "SRT_span_ms": [
+                3545460,
+                3548020
+              ],
+              "first_word_candidate_audio_minus_SRT_ms": [
+                -1540,
+                1020
+              ],
+              "word_count": 8,
+              "status": "unique within selected windows; machine-only match"
+            },
+            {
+              "phrase": "y'all hit the open road and before we",
+              "audio_model_span_ms": [
+                3554000,
+                3556400
+              ],
+              "SRT_cues": [
+                922,
+                923
+              ],
+              "SRT_span_ms": [
+                3552189,
+                3558901
+              ],
+              "first_word_candidate_audio_minus_SRT_ms": [
+                -2260,
+                1811
+              ],
+              "word_count": 8,
+              "status": "unique within selected windows; machine-only match"
+            },
+            {
+              "phrase": "is i'll kind of like maybe i'll like",
+              "audio_model_span_ms": [
+                3599680,
+                3601920
+              ],
+              "SRT_cues": [
+                937,
+                937
+              ],
+              "SRT_span_ms": [
+                3599140,
+                3601940
+              ],
+              "first_word_candidate_audio_minus_SRT_ms": [
+                -2260,
+                540
+              ],
+              "word_count": 8,
+              "status": "unique within selected windows; machine-only match"
+            }
+          ],
+          "Q": [
+            {
+              "phrase": "hands you your guide as soon as he",
+              "audio_model_span_ms": [
+                3540560,
+                3542000
+              ],
+              "SRT_cues": [
+                1490,
+                1491
+              ],
+              "SRT_span_ms": [
+                3540260,
+                3542180
+              ],
+              "first_word_candidate_audio_minus_SRT_ms": [
+                -660,
+                300
+              ],
+              "word_count": 8,
+              "status": "unique within selected windows; machine-only match"
+            },
+            {
+              "phrase": "turns around grin people drop it and kind",
+              "audio_model_span_ms": [
+                3544880,
+                3547200
+              ],
+              "SRT_cues": [
+                1493,
+                1494
+              ],
+              "SRT_span_ms": [
+                3543700,
+                3548020
+              ],
+              "first_word_candidate_audio_minus_SRT_ms": [
+                -820,
+                1180
+              ],
+              "word_count": 8,
+              "status": "unique within selected windows; machine-only match"
+            },
+            {
+              "phrase": "all right y'all hit the open road and",
+              "audio_model_span_ms": [
+                3552320,
+                3556000
+              ],
+              "SRT_cues": [
+                1498,
+                1499
+              ],
+              "SRT_span_ms": [
+                3553900,
+                3557600
+              ],
+              "first_word_candidate_audio_minus_SRT_ms": [
+                -2800,
+                -1580
+              ],
+              "word_count": 8,
+              "status": "unique within selected windows; machine-only match"
+            },
+            {
+              "phrase": "what i'll do is i'll kind of like",
+              "audio_model_span_ms": [
+                3599120,
+                3600800
+              ],
+              "SRT_cues": [
+                1520,
+                1520
+              ],
+              "SRT_span_ms": [
+                3598355,
+                3600460
+              ],
+              "first_word_candidate_audio_minus_SRT_ms": [
+                -1340,
+                765
+              ],
+              "word_count": 8,
+              "status": "unique within selected windows; machine-only match"
+            }
+          ]
+        }
+      },
+      {
+        "id": "outro",
+        "source_audio_ms": [
+          8920000,
+          9011291
+        ],
+        "recognized_words": 273,
+        "raw_result": "local/episode-analysis/delvers-S1E01-anchor-pilot-2026-10-27/outro/recognition.json",
+        "raw_sha256": "417c53b76dcc1fd54b7de4d3d318de72c54f6f91cb749aed9d9feacc6225479f",
+        "exports": {
+          "P": [
+            {
+              "phrase": "be here next week when we pull off",
+              "audio_model_span_ms": [
+                8939680,
+                8941120
+              ],
+              "SRT_cues": [
+                2309,
+                2309
+              ],
+              "SRT_span_ms": [
+                8939700,
+                8941700
+              ],
+              "first_word_candidate_audio_minus_SRT_ms": [
+                -2020,
+                -20
+              ],
+              "word_count": 8,
+              "status": "unique within selected windows; machine-only match"
+            },
+            {
+              "phrase": "will be dungeons dot com sign up for",
+              "audio_model_span_ms": [
+                8960160,
+                8962240
+              ],
+              "SRT_cues": [
+                2317,
+                2317
+              ],
+              "SRT_span_ms": [
+                8959677,
+                8962260
+              ],
+              "first_word_candidate_audio_minus_SRT_ms": [
+                -2100,
+                483
+              ],
+              "word_count": 8,
+              "status": "unique within selected windows; machine-only match"
+            },
+            {
+              "phrase": "me for kyle for kristen and for john",
+              "audio_model_span_ms": [
+                8994640,
+                8997120
+              ],
+              "SRT_cues": [
+                2329,
+                2330
+              ],
+              "SRT_span_ms": [
+                8993189,
+                8999380
+              ],
+              "first_word_candidate_audio_minus_SRT_ms": [
+                -980,
+                1451
+              ],
+              "word_count": 8,
+              "status": "unique within selected windows; machine-only match"
+            },
+            {
+              "phrase": "you next time on there will be dungeons",
+              "audio_model_span_ms": [
+                9005200,
+                9007920
+              ],
+              "SRT_cues": [
+                2332,
+                2333
+              ],
+              "SRT_span_ms": [
+                9003621,
+                9026180
+              ],
+              "first_word_candidate_audio_minus_SRT_ms": [
+                -1540,
+                1579
+              ],
+              "word_count": 8,
+              "status": "unique within selected windows; machine-only match"
+            }
+          ],
+          "Q": [
+            {
+              "phrase": "so be here next week when we pull",
+              "audio_model_span_ms": [
+                8938960,
+                8940960
+              ],
+              "SRT_cues": [
+                3885,
+                3885
+              ],
+              "SRT_span_ms": [
+                8938940,
+                8941500
+              ],
+              "first_word_candidate_audio_minus_SRT_ms": [
+                -2540,
+                20
+              ],
+              "word_count": 8,
+              "status": "unique within selected windows; machine-only match"
+            },
+            {
+              "phrase": "can have cool benefits by heading over there",
+              "audio_model_span_ms": [
+                8965440,
+                8967520
+              ],
+              "SRT_cues": [
+                3898,
+                3898
+              ],
+              "SRT_span_ms": [
+                8965460,
+                8967380
+              ],
+              "first_word_candidate_audio_minus_SRT_ms": [
+                -1940,
+                -20
+              ],
+              "word_count": 8,
+              "status": "unique within selected windows; machine-only match"
+            },
+            {
+              "phrase": "dungeons dot com is where to go that's",
+              "audio_model_span_ms": [
+                8990000,
+                8993440
+              ],
+              "SRT_cues": [
+                3911,
+                3913
+              ],
+              "SRT_span_ms": [
+                8989030,
+                8995590
+              ],
+              "first_word_candidate_audio_minus_SRT_ms": [
+                -1990,
+                970
+              ],
+              "word_count": 8,
+              "status": "unique within selected windows; machine-only match"
+            },
+            {
+              "phrase": "you next time on there will be dungeons",
+              "audio_model_span_ms": [
+                9005200,
+                9007920
+              ],
+              "SRT_cues": [
+                3920,
+                3921
+              ],
+              "SRT_span_ms": [
+                9005270,
+                9007810
+              ],
+              "first_word_candidate_audio_minus_SRT_ms": [
+                -470,
+                -70
+              ],
+              "word_count": 8,
+              "status": "unique within selected windows; machine-only match"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "raw_outputs_local_only": true,
+  "runs": [
+    {
+      "id": "opening",
+      "spec": {
+        "id": "DEL-PREP-002-opening-third",
+        "path": "recognition.json",
+        "format": "crispasr-json",
+        "coverage_ms": [
+          0,
+          70000
+        ],
+        "timestamp_offset_ms": 0,
+        "model": "parakeet-tdt-1.1b.gguf",
+        "version": "CrispASR 0.8.43 eb633d90",
+        "quantization": null,
+        "settings": {
+          "backend": "parakeet",
+          "gpu_backend": "vulkan",
+          "language": "en",
+          "explicit_vad": false,
+          "explicit_chunking": false
+        },
+        "processing_seconds": 13.732
+      },
+      "commands": [
+        [
+          "ffmpeg",
+          "-nostdin",
+          "-v",
+          "error",
+          "-n",
+          "-i",
+          "local\\Delvers S1E01. How Much Is Potato.mp3",
+          "-ss",
+          "0.000",
+          "-t",
+          "70.000",
+          "-ac",
+          "1",
+          "-ar",
+          "16000",
+          "-c:a",
+          "pcm_s16le",
+          "local\\episode-analysis\\delvers-S1E01-anchor-pilot-2026-10-27\\opening\\clip.wav"
+        ],
+        [
+          "C:\\Users\\Franky\\AppData\\Roaming\\Subtitle Edit\\CrispASR\\crispasr.exe",
+          "--backend",
+          "parakeet",
+          "--model",
+          "C:\\Users\\Franky\\AppData\\Roaming\\Subtitle Edit\\CrispASR\\models\\parakeet-tdt-1.1b.gguf",
+          "--language",
+          "en",
+          "--gpu-backend",
+          "vulkan",
+          "--output-json-full",
+          "--output-srt",
+          "--output-file",
+          "local\\episode-analysis\\delvers-S1E01-anchor-pilot-2026-10-27\\opening\\recognition",
+          "local\\episode-analysis\\delvers-S1E01-anchor-pilot-2026-10-27\\opening\\clip.wav"
+        ]
+      ],
+      "version": "=== build info ===\n  version       : 0.8.43\n  git sha       : eb633d90\n  git date      : 2026-10-11T20:47:13Z\n  git subject   : docs-_add_Flutter_v0.8.43_release_changelog\n  build date    : 2026-10-12T03:27:52Z\n  build type    : Release\n  compiler      : msvc 1951\n  os            : windows\n  arch          : x86_64\n  ggml backends : cpu,vulkan\n\n",
+      "recognition_seconds": 13.732,
+      "receipt_status": "running",
+      "recovery": {
+        "status": "recognition and validated import complete; original wrapper receipt retained",
+        "original_wrapper_error": "audio.id missing from job metadata after recognition completed",
+        "retranscribed": false,
+        "words": 191,
+        "segments": 1,
+        "raw_sha256": "916ded84ab092db3dc206fe531ad073a5cb8a50c9a9c9fee4a13e73d19828274",
+        "audio_reviewed": false
+      },
+      "files": {
+        "local/episode-analysis/delvers-S1E01-anchor-pilot-2026-10-27/opening/clip.wav": "47af346dadf43062b7c246e5032d388bc4a9c4a712eccff8919f19c6dd9115fa",
+        "local/episode-analysis/delvers-S1E01-anchor-pilot-2026-10-27/opening/execution.local.json": "7365aa42d219b8c5fc9ff7669c63ff03e341ca7f56cbd851e8f3091355c1cd97",
+        "local/episode-analysis/delvers-S1E01-anchor-pilot-2026-10-27/opening/recognition.json": "916ded84ab092db3dc206fe531ad073a5cb8a50c9a9c9fee4a13e73d19828274",
+        "local/episode-analysis/delvers-S1E01-anchor-pilot-2026-10-27/opening/recognition.srt": "d03a9ed73857c9f75814b38ae11586164fa5b5f049c4adb41048106c9090098c",
+        "local/episode-analysis/delvers-S1E01-anchor-pilot-2026-10-27/opening/recovery.json": "ef55643611ddb6c003f8cb22be36cf77ef6edce1f068b1004074c4c0d95b3a44",
+        "local/episode-analysis/delvers-S1E01-anchor-pilot-2026-10-27/opening/run-spec-recovered.json": "dd72747eeda39abe09632cc2c981731a8eb61439f511776a7bf9f92f01b5fb17",
+        "local/episode-analysis/delvers-S1E01-anchor-pilot-2026-10-27/opening/stage-0.local.log": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "local/episode-analysis/delvers-S1E01-anchor-pilot-2026-10-27/opening/stage-1.local.log": "58678d4a3ecad74d0aaefb91c24911a2feaacc38990896c25977c184f6b8e826"
+      }
+    },
+    {
+      "id": "break",
+      "spec": {
+        "id": "DEL-PREP-002-break-third",
+        "path": "recognition.json",
+        "format": "crispasr-json",
+        "coverage_ms": [
+          3520000,
+          3620000
+        ],
+        "timestamp_offset_ms": 3520000,
+        "model": "parakeet-tdt-1.1b.gguf",
+        "version": "CrispASR 0.8.43 eb633d90",
+        "quantization": null,
+        "settings": {
+          "backend": "parakeet",
+          "gpu_backend": "vulkan",
+          "language": "en",
+          "explicit_vad": false,
+          "explicit_chunking": false,
+          "input": "FFmpeg mono 16 kHz PCM clip; timestamps relative to clip"
+        },
+        "processing_seconds": 12.612,
+        "parent_disagreement_ids": [
+          "DEL-PREP-002"
+        ]
+      },
+      "commands": [
+        [
+          "ffmpeg",
+          "-nostdin",
+          "-v",
+          "error",
+          "-n",
+          "-i",
+          "local\\Delvers S1E01. How Much Is Potato.mp3",
+          "-ss",
+          "3520.000",
+          "-t",
+          "100.000",
+          "-ac",
+          "1",
+          "-ar",
+          "16000",
+          "-c:a",
+          "pcm_s16le",
+          "local\\episode-analysis\\delvers-S1E01-anchor-pilot-2026-10-27\\break\\clip.wav"
+        ],
+        [
+          "C:\\Users\\Franky\\AppData\\Roaming\\Subtitle Edit\\CrispASR\\crispasr.exe",
+          "--backend",
+          "parakeet",
+          "--model",
+          "C:\\Users\\Franky\\AppData\\Roaming\\Subtitle Edit\\CrispASR\\models\\parakeet-tdt-1.1b.gguf",
+          "--language",
+          "en",
+          "--gpu-backend",
+          "vulkan",
+          "--output-json-full",
+          "--output-srt",
+          "--output-file",
+          "local\\episode-analysis\\delvers-S1E01-anchor-pilot-2026-10-27\\break\\recognition",
+          "local\\episode-analysis\\delvers-S1E01-anchor-pilot-2026-10-27\\break\\clip.wav"
+        ]
+      ],
+      "version": "=== build info ===\n  version       : 0.8.43\n  git sha       : eb633d90\n  git date      : 2026-10-11T20:47:13Z\n  git subject   : docs-_add_Flutter_v0.8.43_release_changelog\n  build date    : 2026-10-12T03:27:52Z\n  build type    : Release\n  compiler      : msvc 1951\n  os            : windows\n  arch          : x86_64\n  ggml backends : cpu,vulkan\n\n",
+      "recognition_seconds": 12.612,
+      "receipt_status": "complete",
+      "recovery": null,
+      "files": {
+        "local/episode-analysis/delvers-S1E01-anchor-pilot-2026-10-27/break/clip.wav": "ac910b3e6e44496528daa4e13e0731bb4b756b17e41563cddcf572ebdda5f3cd",
+        "local/episode-analysis/delvers-S1E01-anchor-pilot-2026-10-27/break/execution.local.json": "b256bab824379c809020713703191717706bd4dd2ccefdc1ba7b17f51ab88db8",
+        "local/episode-analysis/delvers-S1E01-anchor-pilot-2026-10-27/break/recognition.json": "6fe1d5ece3468f9e9b8b1c145f6577812bd49ad953d42cc11dd9d0d5607163bc",
+        "local/episode-analysis/delvers-S1E01-anchor-pilot-2026-10-27/break/recognition.srt": "60c192350020c6abad24309fdccbd4f56a13d5fd823887fc2a1c02d64f71f536",
+        "local/episode-analysis/delvers-S1E01-anchor-pilot-2026-10-27/break/run-spec.json": "c81e74122101c6bc7d19f8df20ea53b512bf6cb852e986078ec097ea2d204fdd",
+        "local/episode-analysis/delvers-S1E01-anchor-pilot-2026-10-27/break/stage-0.local.log": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "local/episode-analysis/delvers-S1E01-anchor-pilot-2026-10-27/break/stage-1.local.log": "2b5917f9eda351cb7d1741d7e6ad81e66ba98e3ad5abf0614c1004d49636c446"
+      }
+    },
+    {
+      "id": "outro",
+      "spec": {
+        "id": "DEL-PREP-002-outro-third",
+        "path": "recognition.json",
+        "format": "crispasr-json",
+        "coverage_ms": [
+          8920000,
+          9011291
+        ],
+        "timestamp_offset_ms": 8920000,
+        "model": "parakeet-tdt-1.1b.gguf",
+        "version": "CrispASR 0.8.43 eb633d90",
+        "quantization": null,
+        "settings": {
+          "backend": "parakeet",
+          "gpu_backend": "vulkan",
+          "language": "en",
+          "explicit_vad": false,
+          "explicit_chunking": false,
+          "input": "FFmpeg mono 16 kHz PCM clip; timestamps relative to clip"
+        },
+        "processing_seconds": 4.747,
+        "parent_disagreement_ids": [
+          "DEL-PREP-002"
+        ]
+      },
+      "commands": [
+        [
+          "ffmpeg",
+          "-nostdin",
+          "-v",
+          "error",
+          "-n",
+          "-i",
+          "local\\Delvers S1E01. How Much Is Potato.mp3",
+          "-ss",
+          "8920.000",
+          "-t",
+          "91.291",
+          "-ac",
+          "1",
+          "-ar",
+          "16000",
+          "-c:a",
+          "pcm_s16le",
+          "local\\episode-analysis\\delvers-S1E01-anchor-pilot-2026-10-27\\outro\\clip.wav"
+        ],
+        [
+          "C:\\Users\\Franky\\AppData\\Roaming\\Subtitle Edit\\CrispASR\\crispasr.exe",
+          "--backend",
+          "parakeet",
+          "--model",
+          "C:\\Users\\Franky\\AppData\\Roaming\\Subtitle Edit\\CrispASR\\models\\parakeet-tdt-1.1b.gguf",
+          "--language",
+          "en",
+          "--gpu-backend",
+          "vulkan",
+          "--output-json-full",
+          "--output-srt",
+          "--output-file",
+          "local\\episode-analysis\\delvers-S1E01-anchor-pilot-2026-10-27\\outro\\recognition",
+          "local\\episode-analysis\\delvers-S1E01-anchor-pilot-2026-10-27\\outro\\clip.wav"
+        ]
+      ],
+      "version": "=== build info ===\n  version       : 0.8.43\n  git sha       : eb633d90\n  git date      : 2026-10-11T20:47:13Z\n  git subject   : docs-_add_Flutter_v0.8.43_release_changelog\n  build date    : 2026-10-12T03:27:52Z\n  build type    : Release\n  compiler      : msvc 1951\n  os            : windows\n  arch          : x86_64\n  ggml backends : cpu,vulkan\n\n",
+      "recognition_seconds": 4.747,
+      "receipt_status": "complete",
+      "recovery": null,
+      "files": {
+        "local/episode-analysis/delvers-S1E01-anchor-pilot-2026-10-27/outro/clip.wav": "0cc014f85ed4e7dac050d00933feaa783f8105ca78e1ac6dd4db7ecbec7126a5",
+        "local/episode-analysis/delvers-S1E01-anchor-pilot-2026-10-27/outro/execution.local.json": "dbe03b43e868b5024e210214c03339005c8d166a37f627ee05fa19015c3cb696",
+        "local/episode-analysis/delvers-S1E01-anchor-pilot-2026-10-27/outro/recognition.json": "417c53b76dcc1fd54b7de4d3d318de72c54f6f91cb749aed9d9feacc6225479f",
+        "local/episode-analysis/delvers-S1E01-anchor-pilot-2026-10-27/outro/recognition.srt": "503ab5d594c27161623c70179f60d52f09a8ded60d2828a7c1e0d43ab332093a",
+        "local/episode-analysis/delvers-S1E01-anchor-pilot-2026-10-27/outro/run-spec.json": "e26014026560935f94167adda353faa9b4e9b0aed4aa48a8679510f0ca26426a",
+        "local/episode-analysis/delvers-S1E01-anchor-pilot-2026-10-27/outro/stage-0.local.log": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "local/episode-analysis/delvers-S1E01-anchor-pilot-2026-10-27/outro/stage-1.local.log": "20e8c3d47c4d966f3287a3571886569633ccf86096febb978fe3f97288f12ba7"
+      }
+    }
+  ],
+  "audio_windows_reviewed": [],
+  "confirmed_alignment_anchors": [],
+  "fictional_resolutions": [],
+  "alignment_status": "machine candidates only; DEL-PREP-002 open",
+  "next_action": "Listen to candidate opening/break/closing anchors and inspect the unmatched network-credit tail; do not globally shift timestamps",
+  "protected_files": {
+    "delvers/narrative/FIRST_JOBS.md": "c89d732560f49d81a0433a7f25c2788243981daac594935fe3be79d899f91849",
+    "delvers/narrative/README.md": "af81cc78c886f4aa9c26e321c0301d2c45eaa5aca6cf0cfa362196542382cf93",
+    "delvers/narrative/SEASON_ONE_ARC.md": "0e68940c1c0ab4766419cb88c6903cac8d5fd72889e6cded4001affecddeacdc",
+    "delvers/narrative/SEASON_THREE.md": "e772b43b60966e3a4d105571c1f3b701903919011e82bf709cab15a7617ee280",
+    "delvers/narrative/SEASON_TWO.md": "6462e3d4656a0aaf18f9b3ce8784c3eb6c76b3b916c5c95bec441f055ed889b3",
+    "delvers/narrative/SKULL_KEEP.md": "def6f599c0450314519616f2353bb16f587594ae5a6a4969eb8d112c36686a6e",
+    "delvers/narrative/THE_RISE_TO_BRONZE.md": "f6762da49b2c8c82ca8bcba0cc87c2a6dea6cdfe6b90f3ecc21e4616c0277616",
+    "delvers/narrative/THE_WELLS_OF_ATOMER.md": "c327dbb351ce9e4c5b5b8d1bf5f571fe7c897941203f913e0b25da5ba618fd54",
+    "delvers/world/CHARACTERS.md": "9177ac5ca4a7c37eb11c495529067b399989bde76244037f7a066d64b3be1e80",
+    "delvers/world/CHRONOLOGY.md": "65c41639dd74a4106431db3cc341cfebbc337199d511d46c3cc741c137832020",
+    "delvers/world/CONSISTENCY_LEDGER.md": "b83f33d3679a42175df65439282e033b80a2ccedcb9db2291e4824315fc724f6",
+    "delvers/world/CREATURES_AND_MONSTERS.md": "8a67bd27da560993a248f9fd6d4417a0f8aeb292f1b104b65e6aeeebbc86ea13",
+    "delvers/world/PLACES.md": "52629c11eba1c779df9454eea78137c379341393a0ec955bcd357de148b8caef",
+    "delvers/world/README.md": "4d1b324523af984d54b1b7756e4abc42e25210ad0d7c2b0e922e6b488dd65325",
+    "delvers/world/WORLD.md": "99de32da9c9cba672f9b80d0585773e3c67fe223dba908fed4b6d70c14edc4b3",
+    "delvers/world/characters/alexandre-vanderbuck-withers.md": "a9c997c79eb30e8821e7956a7425021742d64266818a8d5b060826fc3ca2e6f9",
+    "delvers/world/characters/all-rat.md": "72a17e2c266f7a65f0a21ff69b3557184134a906260acf05be78cfc85e647392",
+    "delvers/world/characters/ambermoor.md": "d4a91e503e7dd9f0fc3855434036eb27f48d781a5e146b1869233789f1f042a2",
+    "delvers/world/characters/anthela-spiros.md": "83aa6f76c406b9ff951758f040a2dc6e9e11396755b2fae82def8cc9643d9265",
+    "delvers/world/characters/barclay-vandergeist.md": "ef5541b1048d5c2e4511088c2238dda6276caeb27da23f6136d333f09da42813",
+    "delvers/world/characters/broadside.md": "4ea6b2464432d9acbc684773f6f604346a3ded088a19724fd5df1bf068e8ef8d",
+    "delvers/world/characters/buck-broscale-wildfire.md": "80b4166c77017fd72c9bc2f0cdb62e3491b180fbe25887da4a321bd2edb21433",
+    "delvers/world/characters/carrie-underworld.md": "0da5d2935c22c871b6f89e06ca05b15069e09328c641cb3b9c6251ecf03871b9",
+    "delvers/world/characters/cassius.md": "c7fedc6ccf5f7a68157990397f9be5c84eb57278d79c9a0560b1ad58c71492fa",
+    "delvers/world/characters/chad-brad.md": "e4952627b7c59f74aa68aee64300c4443fff3449a991af2cec3b7f2d25cdfbf5",
+    "delvers/world/characters/cheet.md": "19ee62d3a25073ff342db9fda039cb8ed8b7143f168ae79bcfbce453f95ba580",
+    "delvers/world/characters/chuck-abnaz.md": "4b5acacac8cc99b2744025402e3b3e47261b74d36cf0fee0bf890f466711edf3",
+    "delvers/world/characters/darmah-edstream.md": "a80c98cc7975f059b5a3a2933ede5fc7eb310fb82b2360022d865d464af510ee",
+    "delvers/world/characters/destroying-angel.md": "bab7bff4fd5e8de49cc6a14286f13d9d25a9e9878f7e2ed65ea1ddd0d7b9d026",
+    "delvers/world/characters/dumbledwark-of-raisinbunch.md": "3332c4f8c38edcb7ee91abbe338c52e323f054b94bef2dcae1604e281aaa5315",
+    "delvers/world/characters/enzo-vanderbuck-withers.md": "66b95556a71a823861b7d420bf74f0cc51051da92878ca90e514c108b53363b0",
+    "delvers/world/characters/evelyn-grinkeeper.md": "6bcf0a867e882dd23cbd33fbdd5dc1887c2edc1c7743ab94a1073d4c806ec612",
+    "delvers/world/characters/gentleman-cavalier-traveler.md": "8378fb556fb1b623865d647607937c13e6cc477e7c525a885161eef21087b7f3",
+    "delvers/world/characters/gleepo-ma.md": "e08df96362ad2c8d63946c0b92f374869589095192f92311df3df22b93319e2e",
+    "delvers/world/characters/goggles-granny.md": "cfd6a98fc8454630625741f80ebe7c32eda6c53da8f5ad60148170b7fb3bed98",
+    "delvers/world/characters/khalazar.md": "8cdffe2bf652fca5659952e3f178448aae9e76572036f7d648e95487e1f2d7e8",
+    "delvers/world/characters/koh-spiros.md": "9d71f782626c7610c2b7c5e374074963763ed493be2d8d7171ec34667752271c",
+    "delvers/world/characters/krandal-splenderbelt.md": "39fe3e0a8ef2404774f6be9ae26a0d3e8047c36bd402468800322b67e54e4f89",
+    "delvers/world/characters/marek-gideon.md": "8de0e260f59341967c650b174a56aeed3bbd800a5104e933890b4f77714a6392",
+    "delvers/world/characters/margaret-dupayton.md": "bbaf2405bb9ef669a145b407f3bafc695a37b7528f903c183c0697fc4fe3fa33",
+    "delvers/world/characters/marsh.md": "f7e4e4fc50633bb7623f285dc871dc63587f95d12e157d503336a5c00dc093c5",
+    "delvers/world/characters/masked-mage.md": "a6e9ed1ebd5c9d3f653d948390ac3d8b69c6b82448e117cfe8c23c1a83acc492",
+    "delvers/world/characters/nopa-ropa.md": "d950cd611fcf9a95d14c72374017fe68600df1b4449fbd689556cc7d351aa2db",
+    "delvers/world/characters/penelope-spiros.md": "6ba66e247f1d66d57e22ff3f61c723f4cb145df0544280833f26164dc0c29606",
+    "delvers/world/characters/princess-hissia.md": "9cc4ac4a1bc6f6b632e75f0c3e20813ad5f6bdca827c600b9ec7a48b9aefa65e",
+    "delvers/world/characters/radiant-lance.md": "caed57b5a353bf63544794232f6c804fbf2e49836f864594e0c3e0ea1dffc26b",
+    "delvers/world/characters/shaolin-nym.md": "2412cedb62201c564bbc6595dfa9b7d34c8ffe339a30e5d4aec8cfe3a2089435",
+    "delvers/world/characters/shrugs-manaspoon.md": "2f3dd5dcf6e9cef9d5d1f36cfe65af3c587936bee116cf3b2ca397d6d98dba63",
+    "delvers/world/characters/skoogie.md": "b6a2e36d98fe4fca6a3986fafc52e0f69e3d361cbee39e7523f14ae5a81e11fd",
+    "delvers/world/characters/the-great-daufante.md": "8dce7d1a2194469f9c08ad611b182da715ea7c8a776092fe096eb8466d909d9c",
+    "delvers/world/characters/veggie-sticks.md": "97414b03aa2827b7d660f6e481d7dde3222d66f030a3a00a4d6cac9e9888a350",
+    "delvers/world/creatures/all-rat-cranium-congregation.md": "cf251e4e9dd5dcce4906065b1e5cbdb45ebc352a88504e25196fd80ee7c6b255",
+    "delvers/world/creatures/dungeon-c4-behir.md": "f93092b8d5b4b6d8becd03a10268f40ce7bc17246b5cb0db6a73fb4624ac2280",
+    "delvers/world/creatures/flameskull.md": "6ba481f869b8ff18f0e784ba6313322df08ac9b74281c352458d22272e1c147a",
+    "delvers/world/creatures/gricks.md": "06722ca957369151004f248f1c85756b346c1b44805b28ef8d7ca87ef7f5b7b9",
+    "delvers/world/creatures/hook-horrors.md": "9389c2aff6446f58d09abfe7c46480054feca0a4e65fd02e478c5028b2a49649",
+    "delvers/world/creatures/noble-hollow-roper.md": "e61219db18c5f51c4c9a3ade7a86b0ecc02bc5c3d6571fd89718d883d6a0688a",
+    "delvers/world/creatures/skeletal-bat-balcony.md": "cfd4efd3de648ae30b60f87e9db38dda5119dc8c518bc63785a982ca34f900dd",
+    "delvers/world/creatures/triangle-gate-mummies.md": "8c8f991f6f2b952393ab1cf8a835a66f8ed1ce236b7fdb6dcd6029bc067e878e",
+    "delvers/world/items/bag-of-hammer-holding.md": "cb5412ef9acceb7dd870efd63aae44b1c748a6013e3dcd7401e623657dca24cf",
+    "delvers/world/items/chance-lantern.md": "9c1c18d960999830e8f3b67b75e2da360ae1a7e0c31b76638747c788b8f260a8",
+    "delvers/world/items/deck-of-many-things.md": "08247e580c1bbf7be9c258ee06d8db5efdb9e57f7c1b129fa080fccc8b1acd51",
+    "delvers/world/items/devotees-censer.md": "27a938432fb75df90984aeada76373505a65c83f65cb6d5cc1677c72b664c896",
+    "delvers/world/items/dragon-slayer-longsword.md": "6c721e4260a2b88519ca1a4464fae5d91c43bb1add126e30b0a07ef87829545a",
+    "delvers/world/items/dried-heart-jar.md": "3060b069d85a5bb9db6c6709e27f45f5341c19e055d80764c94443d6040a9549",
+    "delvers/world/items/drift-globe.md": "71fbbdcfdc8038fb247af4937f75fbf9a7337a45da202654839cece7a37257d9",
+    "delvers/world/items/friendship-ribbon.md": "2e05031c2dfeb007d786701cfa7ae09e1ed46a35eafc4e7007734b83dce8fbda",
+    "delvers/world/items/goat-of-travail.md": "f3214a50392a4d487104ec756b5b6c8364a28b27fd875549868843c2c6e68a15",
+    "delvers/world/items/hereditary-drone.md": "84284f329df3ae469d77763407f0161e7182aabd9782080189922a28fe08e9ca",
+    "delvers/world/items/horn-of-blasting.md": "4861b7d06b1996c370c851fc4ad5c5ba008321162bfacf512d6bff8ce2c73d20",
+    "delvers/world/items/khalazar-red-crystal.md": "443b07b683444be43297ab5dc2d312446850a73855d4cc1564f7a480496218d8",
+    "delvers/world/items/khalazar-sensory-amulet.md": "43bd91b49142a1d393032f20d052fc953e00d153390c2d0784996653564ddcd8",
+    "delvers/world/items/loran-radiant-armour.md": "705eee14001c85c5e5b6f8ce7929cb6818c118044594053114120207851c204d",
+    "delvers/world/items/ring-of-protection.md": "32395e977194ae83146680d622484644be22c24da882712ea06ea45784f3287c",
+    "delvers/world/items/runic-sword-hilt.md": "990f73adffdd372ec6d5b65b06d336e67196e3187d497edfdcb61edc9f90f8f3",
+    "delvers/world/items/stolen-warlocks-tome.md": "8a2cb72bd5ae730e60004b95d8b3ef0b0fd44390deb4e8b255ec3c15fb18f549",
+    "delvers/world/items/three-urns-triangle-gate.md": "f30ebea2d130a03f580292f23b33ed4ff576eb5ea1b50f92ea843285b46d6bc7",
+    "delvers/world/items/vestal-diamond-heart-handle.md": "820d60485fb69a05c8ba4a9a75293aeb3749812c1970acfe5a1ec8704b4f89b4",
+    "delvers/world/items/wand-of-secrets-and-geared-disc.md": "cf79568bd5e6d9353996e83b01cbc1281cb0b16a49cb88423665adb623df5a63",
+    "delvers/world/places/black-basilica.md": "0a5afe026ab5431867cbee336df8333341d702021b55a868486b1bdb6ec9210a",
+    "delvers/world/places/black-slime-key-chamber.md": "d52093e35584d27648b71cc56edc1909aec55fa362568786d001ed1e7998cb8f",
+    "delvers/world/places/broscale-manor.md": "a8245503ffe36c62ea4efd98f9ea898448f2c9d29aa6f71641cb7216cac719dc",
+    "delvers/world/places/chath-peak.md": "72406cc00a0b9dacabe4115354afa7593b4c4a86f1aafc0cc17e9d0dfd6aa35d",
+    "delvers/world/places/dawnless-dunes-pyramid.md": "8cca61636cc3e0e7a515b79ce35a6810908a1da4f3277604ee912392b92b263f",
+    "delvers/world/places/deep-winds-spa.md": "a7566dc9df7424bd9616bca789e2728f5e15ac97689ed848b24cb9701ef81be1",
+    "delvers/world/places/delvers-guild.md": "e10b4013f0fe8d278fed607e098bf054b9bbb064004b4fff1e6fde121ada613b",
+    "delvers/world/places/dungeon-guild-academy.md": "862b6d5d1e7d1822a7a94c5e3b27a67fad5dcaae85d16333bc375f921916115e",
+    "delvers/world/places/farm-cave.md": "617293a7403b23c8cc4660e4282d7498d5af112625a8273bde9bafd8cfcbdb37",
+    "delvers/world/places/gemholm.md": "1ca4188b0f4a6351673d8d0b206c85a540a9e75ac12dac1f5d3c28535e063ffd",
+    "delvers/world/places/governors-hall.md": "6977ebdbd23dc562363612431466a6c6c06392995d7b1c7d27c59963f45f3901",
+    "delvers/world/places/grick-sinkhole.md": "60d73fa0a81582e83b56a4da607371fcc709694410026c3d301344b7db0df05e",
+    "delvers/world/places/guild-public-reckoning-s3e10.md": "e078c2fc2edd6875990cec9b4aa70d3b729db366d27b55d68db1275f10fad362",
+    "delvers/world/places/hooper-estate.md": "29ab906aa96ef3053edc92255962fc086726aeb6c742f0f40d42ed994c3a0f15",
+    "delvers/world/places/kuo-toa-lakeshore-village.md": "b79fd3b4237217151e7a11d6512db64b4283b3e234f35ce1fbc4fc6fe47d926c",
+    "delvers/world/places/minotaur-mesa-bone-crypt.md": "13a84c8e01df05d169b982e4bf99b07543ea22e0f6c4139a8131f36e48fef70b",
+    "delvers/world/places/noble-hollow.md": "e4c9fe4b43ea1ff646356cdc6a361c62b1283b5503e578d5d1874d9ec6c0cab3",
+    "delvers/world/places/potato-grove.md": "e79a2c4cbe8462b1ae322f9d77988519aa479f78681ce7d08ab20d0bc8f120b2",
+    "delvers/world/places/right-stair-grick-urn-complex.md": "42d2c0064839235b610878d278a2ef565b5796d7daa4035f1d56de73b96e70fc",
+    "delvers/world/places/skull-keep.md": "237eaca8dc37e6957d67f611014e503d37cf638163e530024f945b9ea994020e",
+    "delvers/world/places/snake-island.md": "d25e9d886296d5b4045423de06dda7a84ec71ac690187c992a6d9d630aaa54d0",
+    "delvers/world/places/southwestern-town-well.md": "488320af8c7e72847bc326c70ea1d07e96cf7595b4518f0011d0a043e8cbcd56",
+    "delvers/world/places/splenderbelt-farm-delvers-tower.md": "4a9e0a40fa24a2cfa3181c2f8b69109b8c1b888310d83b4fd5ce33e85931e0fe",
+    "delvers/world/places/submerged-lake-ruins.md": "beedbcd68def3fd7f621c1fe6851920c51e9452d6b09a0189da2ffbbcdcf0b9b",
+    "delvers/world/places/temple-of-pelor.md": "3aa8b0a1bc3d8eb78bbb0eb476066c5df2d242157cb1fe7e909f5f183a9185f8",
+    "delvers/world/places/triangle-gate-catacombs.md": "72b0a5eae907e0ef5be5cb6cff019f09de269fae54a25842342ad6ebceeddf54",
+    "delvers/world/places/withers-estate.md": "aae0aa6b667bfddf4a3c1649434cfb5d562eceb7834123cc8e3bdc069d4e1e9c"
+  },
+  "validation": {
+    "status": "passed with documented baseline lint failures",
+    "editorial_status": "complete for machine-only pilot",
+    "automated_status": "candidate/provenance/preservation/link/whitespace checks passed; baseline lint failures remain",
+    "candidate_records": 24,
+    "raw_runs": 3,
+    "audio_SRT_states_unchanged": 3,
+    "protected_narrative_world_files": 106,
+    "archive_guarded_edits": 3,
+    "new_links": 13,
+    "markdownlint": {
+      "maintained_files": 4,
+      "violations": 40,
+      "new_violations": 0,
+      "baseline": {
+        "project/MODEL_TESTS.md": [
+          {
+            "rule": "MD012",
+            "line": 81
+          },
+          {
+            "rule": "MD012",
+            "line": 82
+          },
+          {
+            "rule": "MD012",
+            "line": 87
+          },
+          {
+            "rule": "MD012",
+            "line": 88
+          },
+          {
+            "rule": "MD012",
+            "line": 93
+          },
+          {
+            "rule": "MD012",
+            "line": 94
+          },
+          {
+            "rule": "MD012",
+            "line": 99
+          },
+          {
+            "rule": "MD012",
+            "line": 100
+          },
+          {
+            "rule": "MD012",
+            "line": 105
+          },
+          {
+            "rule": "MD012",
+            "line": 106
+          },
+          {
+            "rule": "MD012",
+            "line": 111
+          },
+          {
+            "rule": "MD012",
+            "line": 112
+          },
+          {
+            "rule": "MD012",
+            "line": 117
+          },
+          {
+            "rule": "MD012",
+            "line": 118
+          },
+          {
+            "rule": "MD012",
+            "line": 123
+          },
+          {
+            "rule": "MD012",
+            "line": 124
+          },
+          {
+            "rule": "MD012",
+            "line": 129
+          },
+          {
+            "rule": "MD012",
+            "line": 130
+          },
+          {
+            "rule": "MD012",
+            "line": 135
+          },
+          {
+            "rule": "MD012",
+            "line": 136
+          },
+          {
+            "rule": "MD012",
+            "line": 141
+          },
+          {
+            "rule": "MD012",
+            "line": 146
+          },
+          {
+            "rule": "MD012",
+            "line": 151
+          },
+          {
+            "rule": "MD012",
+            "line": 156
+          },
+          {
+            "rule": "MD012",
+            "line": 161
+          },
+          {
+            "rule": "MD012",
+            "line": 166
+          },
+          {
+            "rule": "MD012",
+            "line": 171
+          },
+          {
+            "rule": "MD012",
+            "line": 176
+          },
+          {
+            "rule": "MD012",
+            "line": 181
+          },
+          {
+            "rule": "MD012",
+            "line": 304
+          },
+          {
+            "rule": "MD012",
+            "line": 309
+          },
+          {
+            "rule": "MD012",
+            "line": 375
+          },
+          {
+            "rule": "MD012",
+            "line": 380
+          },
+          {
+            "rule": "MD012",
+            "line": 385
+          },
+          {
+            "rule": "MD012",
+            "line": 394
+          },
+          {
+            "rule": "MD012",
+            "line": 399
+          },
+          {
+            "rule": "MD022",
+            "line": 277
+          },
+          {
+            "rule": "MD022",
+            "line": 280
+          },
+          {
+            "rule": "MD022",
+            "line": 351
+          },
+          {
+            "rule": "MD024",
+            "line": 11
+          }
+        ]
+      },
+      "current": {
+        "project/MODEL_TESTS.md": [
+          {
+            "rule": "MD012",
+            "line": 85
+          },
+          {
+            "rule": "MD012",
+            "line": 86
+          },
+          {
+            "rule": "MD012",
+            "line": 91
+          },
+          {
+            "rule": "MD012",
+            "line": 92
+          },
+          {
+            "rule": "MD012",
+            "line": 97
+          },
+          {
+            "rule": "MD012",
+            "line": 98
+          },
+          {
+            "rule": "MD012",
+            "line": 103
+          },
+          {
+            "rule": "MD012",
+            "line": 104
+          },
+          {
+            "rule": "MD012",
+            "line": 109
+          },
+          {
+            "rule": "MD012",
+            "line": 110
+          },
+          {
+            "rule": "MD012",
+            "line": 115
+          },
+          {
+            "rule": "MD012",
+            "line": 116
+          },
+          {
+            "rule": "MD012",
+            "line": 121
+          },
+          {
+            "rule": "MD012",
+            "line": 122
+          },
+          {
+            "rule": "MD012",
+            "line": 127
+          },
+          {
+            "rule": "MD012",
+            "line": 128
+          },
+          {
+            "rule": "MD012",
+            "line": 133
+          },
+          {
+            "rule": "MD012",
+            "line": 134
+          },
+          {
+            "rule": "MD012",
+            "line": 139
+          },
+          {
+            "rule": "MD012",
+            "line": 140
+          },
+          {
+            "rule": "MD012",
+            "line": 145
+          },
+          {
+            "rule": "MD012",
+            "line": 150
+          },
+          {
+            "rule": "MD012",
+            "line": 155
+          },
+          {
+            "rule": "MD012",
+            "line": 160
+          },
+          {
+            "rule": "MD012",
+            "line": 165
+          },
+          {
+            "rule": "MD012",
+            "line": 170
+          },
+          {
+            "rule": "MD012",
+            "line": 175
+          },
+          {
+            "rule": "MD012",
+            "line": 180
+          },
+          {
+            "rule": "MD012",
+            "line": 185
+          },
+          {
+            "rule": "MD012",
+            "line": 308
+          },
+          {
+            "rule": "MD012",
+            "line": 313
+          },
+          {
+            "rule": "MD012",
+            "line": 379
+          },
+          {
+            "rule": "MD012",
+            "line": 384
+          },
+          {
+            "rule": "MD012",
+            "line": 389
+          },
+          {
+            "rule": "MD012",
+            "line": 398
+          },
+          {
+            "rule": "MD012",
+            "line": 403
+          },
+          {
+            "rule": "MD022",
+            "line": 281
+          },
+          {
+            "rule": "MD022",
+            "line": 284
+          },
+          {
+            "rule": "MD022",
+            "line": 355
+          },
+          {
+            "rule": "MD024",
+            "line": 15
+          }
+        ]
+      },
+      "archive_readme": "passed separately"
+    },
+    "scoped_git_diff_check": "passed",
+    "listening_review": "not performed",
+    "whole_repository_audit": "deferred"
+  },
+  "guarded_edits": [
+    {
+      "path": "delvers/REVIEW_QUEUE.md",
+      "before_sha256": "8a6348d0e5010e95c51d2d36d102916a11185d496b2e74c072303b62254d2770",
+      "after_sha256": "a0e161ab6229e9c70017ea804b1da2031a25c912e44eaabe4a5ae61621c39666",
+      "inserted_text": "\n\n**S1E01 automated anchor pilot, 2026-10-27:** The [three-window pilot](../reports/DELVERS_S1E01_ANCHOR_PILOT_2026-10-27.md) generated selected phrase/timing candidates from the actual MP3 at opening, break and outro. Matches generally lie near the original SRT clock and do not support a global 19.94-second subtraction. Network-credit cues extend beyond this MP3; an unmatched-tail hypothesis remains for listening. No matching speech was heard or certified; DEL-PREP-002 and downstream date/name/negation questions remain open."
+    },
+    {
+      "path": "project/DELVERS_CLEANUP_MANIFEST.md",
+      "before_sha256": "9dc7d950b3edad02f4bfc836bcec02a5ed158169d0035a0b8c220f06ab29f6f3",
+      "after_sha256": "2146b0a42d781ab808038d42ad1e7d7e338877081176f5b2c22f270786f2e9cb",
+      "inserted_text": "\n### Verification pilot — Delvers S1E01 machine anchor candidates\n\n[Three-window report](../reports/DELVERS_S1E01_ANCHOR_PILOT_2026-10-27.md) · [Data/checkpoint](DELVERS_S1E01_ANCHOR_PILOT_2026-10-27.json). Existing local CrispASR processed 261.291 seconds across opening, break and outro; selected exact phrase matches produce model-timed candidates near the original SRT clock. The end-duration difference is not a supported global offset. Original media/transcripts, played facts and prior fingerprint results are unchanged. No listening confirmation; DEL-PREP-002 remains open, with human review of the candidate anchors and network-credit tail next.\n"
+    },
+    {
+      "path": "project/MODEL_TESTS.md",
+      "before_sha256": "5ab19b9b0a158e1aa4e989250f14b698b1ef7ecd089dbf75493045414f102a41",
+      "after_sha256": "98ffd26cb8d9e6f79286d71f7099763fdaa074ab9dfc115ba2728c57166b4860",
+      "inserted_text": "\r\n\r\n## 2026-10-27 — Delvers S1E01 bounded audio-clock anchor pilot\r\n\r\n[Report](../reports/DELVERS_S1E01_ANCHOR_PILOT_2026-10-27.md) · [Checkpoint](DELVERS_S1E01_ANCHOR_PILOT_2026-10-27.json). Local CrispASR **0.8.43 eb633d90**, **Parakeet TDT 1.1B filename-labelled model**, explicit English and requested Vulkan; no explicit VAD, chunking, diarization or auxiliary aligner. Three clips (70 / 100 / 91.291 seconds), derived as mono 16 kHz PCM from the hash-verified premiere MP3. Exact unique phrase matches in selected P/Q windows produce **24 machine-only anchor candidates**; no full-export disagreement figure or accuracy claim. Existing processed P shares the recognizer family, so this is not an independent recognizer control. Opening recognition succeeded but import initially lacked audio.id; existing output was recovered and validated without retranscription, with original receipt preserved. Break/outro jobs completed normally. No listening or canonical source change; global 19.94-second shift unsupported by the sampled matches, network-credit tail remains a review hypothesis."
+    }
+  ],
+  "archive_manifest": "research/legacy/2026-10-27/delvers-s1e01-anchor-pilot/manifest.json",
+  "changed_markdown": [
+    "delvers/REVIEW_QUEUE.md",
+    "project/DELVERS_CLEANUP_MANIFEST.md",
+    "project/MODEL_TESTS.md",
+    "reports/DELVERS_S1E01_ANCHOR_PILOT_2026-10-27.md"
+  ]
+}

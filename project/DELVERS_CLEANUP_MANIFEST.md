@@ -1152,3 +1152,31 @@ Transcript-fingerprint coverage now spans all 37 archive IDs and 77 inventoried 
 ### Verification preparation — Delvers S1E01 audio/SRT alignment
 
 [DEL-PREP-002 packet](../reports/DELVERS_S1E01_LISTENING_PREPARATION_2026-10-27.md) · [Checkpoint](DELVERS_S1E01_LISTENING_PREPARATION_2026-10-27.json). Three ignored/local clips and cue excerpts are prepared; audio hash and duration match the premiere record. No audible anchors, offsets or fictional facts are verified. Listening remains the next operation.
+
+### Verification pilot — Delvers S1E01 machine anchor candidates
+
+[Three-window report](../reports/DELVERS_S1E01_ANCHOR_PILOT_2026-10-27.md) · [Data/checkpoint](DELVERS_S1E01_ANCHOR_PILOT_2026-10-27.json). Existing local CrispASR processed 261.291 seconds across opening, break and outro; selected exact phrase matches produce model-timed candidates near the original SRT clock. The end-duration difference is not a supported global offset. Original media/transcripts, played facts and prior fingerprint results are unchanged. No listening confirmation; DEL-PREP-002 remains open, with human review of the candidate anchors and network-credit tail next.
+
+### Formatting follow-up — ten known dossier/report defects
+
+[Report](../reports/DELVERS_FORMATTING_CLEANUP_2026-10-27.md) · [Checkpoint](DELVERS_FORMATTING_CLEANUP_2026-10-27.json) · [Exact originals](../research/legacy/2026-10-27/delvers-formatting-cleanup/README.md). Ten recorded baseline defects repaired in ten files, with all lexical content and heading anchors retained. The S1E04 outro explanation now occupies the intended second table cell. Historical source-identity validation records are not rewritten. No media/SRT, fictional fact or listening status changed; DEL-PREP-002 remains open. Next: bounded Delvers navigation/status audit.
+
+### Navigation/status follow-up — campaign entry points
+
+[Audit report](../reports/DELVERS_NAVIGATION_STATUS_AUDIT_2026-10-27.md) · [Checkpoint](DELVERS_NAVIGATION_STATUS_AUDIT_2026-10-27.json). Six entry points checked, including Delvers-only references in the root README. Baseline 267 local links/anchors resolved. Five current summaries updated; narrative portal retained read-only. Completed fingerprint coverage is distinguished from remaining listening/source-audio questions, and historical research milestones remain preserved. Next: bounded character/place/creature index-route audit.
+
+### Navigation follow-up — character/place/creature index routes
+
+[Report](../reports/DELVERS_INDEX_ROUTE_AUDIT_2026-10-27.md) · [Checkpoint](DELVERS_INDEX_ROUTE_AUDIT_2026-10-27.json). Six files checked read-only; 254 local links/anchors resolve, with 36 character paths, 27 place paths and seven canonical creature profiles discoverable from their indexes and portal. All Rat and farm/tower compatibility routes remain intentional. No profile, taxonomy or story edit required. Next: bounded item/WORLD thematic-anchor routes; listening remains open.
+
+### Navigation follow-up — items and WORLD thematic anchors
+
+[Report](../reports/DELVERS_ITEM_WORLD_ROUTE_AUDIT_2026-10-27.md) · [Checkpoint](DELVERS_ITEM_WORLD_ROUTE_AUDIT_2026-10-27.json). Twenty item pages, WORLD and portal checked structurally. All baseline 473 local links/anchors resolve; WORLD retains 24 sections, five deliberate legacy anchors and both active inbound fragment routes. One obsolete unreferenced S1E02-cutoff note removed from active WORLD, with exact original preserved; no main prose or other subject file changed. No new claim-level source review or listening. Next: bounded review-queue lifecycle reconciliation.
+
+### Queue lifecycle follow-up — current work versus dated checkpoints
+
+[Report](../reports/DELVERS_QUEUE_LIFECYCLE_2026-10-27.md) · [Checkpoint](DELVERS_QUEUE_LIFECYCLE_2026-10-27.json). Current lifecycle table separates completed text/fingerprint/editorial work from actual listening. DEL-PREP-006 classification/placement is recorded complete from its existing paired-text dossier/report, with all audio limits retained. All 25 existing table issue keys remain unique; six preparation keys and all episode-specific questions remain open. Dated source/cleanup pointers are explicitly historical, not instructions to repeat finished work. Next: bounded identity/custody evidence-readiness review; listening pending.
+
+### Evidence-readiness follow-up — five identity/custody units
+
+[Report](../reports/DELVERS_EVIDENCE_READINESS_2026-10-27.md) · [Checkpoint](DELVERS_EVIDENCE_READINESS_2026-10-27.json). Existing keys retained; no issues closed. Seven episode audio basenames and fourteen historical comparison inputs are locally available but their audio/SRT clocks remain unverified. Exact cached-message ID for DEL-PREP-007 occurs once; raw context not yet reviewed or published. Next: bounded private context check for that lead; no automatic spelling migration, identity merge or custody bridge.

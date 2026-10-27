@@ -1,0 +1,19 @@
+{
+  "files": [
+    {
+      "path": "delvers/REVIEW_QUEUE.md",
+      "sha256": "cf26099aa81db568b5ae6218da735fd1963ce68857ec1aaf93046d32eff7931d",
+      "original": "research/legacy/2026-10-27/delvers-item-world-route-audit/delvers/REVIEW_QUEUE.md.original"
+    },
+    {
+      "path": "project/DELVERS_CLEANUP_MANIFEST.md",
+      "sha256": "adc5effc4b1ff3371a0de631441a0024d706f693e2882c097a310c6657ebf926",
+      "original": "research/legacy/2026-10-27/delvers-item-world-route-audit/project/DELVERS_CLEANUP_MANIFEST.md.original"
+    },
+    {
+      "path": "delvers/world/WORLD.md",
+      "sha256": "99de32da9c9cba672f9b80d0585773e3c67fe223dba908fed4b6d70c14edc4b3",
+      "original": "research/legacy/2026-10-27/delvers-item-world-route-audit/delvers/world/WORLD.md.original"
+    }
+  ]
+}

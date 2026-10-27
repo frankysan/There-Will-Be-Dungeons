@@ -129,7 +129,7 @@ Use the [migration manifest](../../project/DELVERS_CLEANUP_MANIFEST.md#acceptanc
 
 ## Research boundary
 
-All 37 campaign entries have dossiers. Research remains ASR-provisional; this editorial pass adds no listening verification. Use [S3E12](../episodes/S3E12.md) for the finale evidence, and the [review queue](../REVIEW_QUEUE.md) for open spelling, custody, source-identity and listening questions. Earlier cutoffs remain valid historical states, even where later outcomes are known.
+All 37 campaign entries have dossiers. Research remains ASR-provisional; this editorial pass adds no listening verification. Use [S3E12](../episodes/S3E12.md) for the finale evidence, and the [review queue](../REVIEW_QUEUE.md) for open spelling, custody, source-audio and listening questions. The [completed transcript-fingerprint audit](../../reports/DELVERS_S1E02_S1E01_SOURCE_IDENTITY_2026-10-27.md#campaign-coverage-reconciliation) checks all 77 inventoried exports, distinct from factual acceptance or audio verification. The [premiere timing pilot](../../reports/DELVERS_S1E01_ANCHOR_PILOT_2026-10-27.md) remains machine-only evidence; DEL-PREP-002 is open. Earlier cutoffs remain valid historical states, even where later outcomes are known.
 
 Separately catalogued bonuses, including the [post-campaign retrospective](../../episodes/BONUS-2021-11-13.md), remain attributed commentary. They do not turn unused encounters into history or establish a campaign sequel. The [pre-cleanup portal](../../research/legacy/2026-10-26/delvers-campaign-cleanup/delvers/world/README.md) preserves the earlier episode-by-episode navigation history.
 

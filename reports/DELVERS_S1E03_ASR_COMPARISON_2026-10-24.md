@@ -42,4 +42,3 @@ Method: split all SRT cue blocks, exclude cue numbers and timecode headers, conc
 The **complete Parakeet source** was read sequentially from advertising to final network outro; the **entire Q4 and Q8 content** was parsed for metrics, with selected context compared. This does not mean complete independent close reading of each Qwen utterance. Audio unverified; Qwen punctuation/variant wording cannot establish exact names or audio fidelity. Original ASR and MP3 bytes were not modified.
 
 The recovery eliminates the artificial S1E02-to-S1E04 source gap: **S1E03 now supplies the played grick assignment, journey, family revelation, Veggie Sticks encounter and first grick kill**; [S1E04](../delvers/episodes/S1E04.md) owns the remaining combat, escape and guild payment. Continue with [review queue](../delvers/REVIEW_QUEUE.md).
-

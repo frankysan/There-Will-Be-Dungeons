@@ -198,8 +198,6 @@ Cassius has resumed local leadership. During the following year Koh teaches youn
 
 [^sanctuary]: [S1E02 dossier](../episodes/S1E02.md), ~00:19–00:25, 00:41–00:52 and 01:00–02:44. **Kord/Cord**, **House/How**, **Crush/Krash**, **Armada** and **Studwell** remain source-level name checks in the [review queue](../REVIEW_QUEUE.md). House's origin account is testimony; no wider haunting is established. Sacred radiance harms the encountered Shadows and Daylight weakens them without itself dealing direct damage; those observations are not a universal rule for every undead creature or faith.
 
-[^status]: [S1E02 cutoff](../episodes/S1E02.md#cutoff-and-onward-research). No third job chosen at that earlier scene. [Chronology](CHRONOLOGY.md) owns the full played order.
-
 [^grickwoods]: [S1E04 dossier](../episodes/S1E04.md), ~00:01–00:07 opening recap and ~01:15–02:30 exploration. Veggie Sticks's dungeon origin theory is **not a proven fact**; two corpses in the dungeon's traps are separate from the four gricks slain by the party. New setting remains within **Delvers** alone.
 
 [^ranks]: [S1E04](../episodes/S1E04.md), ~02:34–02:44. Cassius pays 180 gold total (60 each), and promises to request bronze promotion and a dungeon claim. **No approval, completed break or newly played job**. S1E02-to-S1E04 recap-to-play transition is not an invented S1E02 mission. Research horizon S1E04, ASR-only.

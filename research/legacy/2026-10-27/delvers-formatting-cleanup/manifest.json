@@ -1,0 +1,65 @@
+{
+  "date": "2026-10-27",
+  "files": [
+    {
+      "path": "delvers/episodes/S2E03.md",
+      "sha256": "f613126971feb227696909c1b3f47ab1c7e93ffb5f3fae953cb642a52c775125",
+      "original": "research/legacy/2026-10-27/delvers-formatting-cleanup/delvers/episodes/S2E03.md.original"
+    },
+    {
+      "path": "delvers/episodes/S2E04.md",
+      "sha256": "6e18898d04f6e63deaf095c03f704577397276c66aea5cadeb8ca220d8c61a87",
+      "original": "research/legacy/2026-10-27/delvers-formatting-cleanup/delvers/episodes/S2E04.md.original"
+    },
+    {
+      "path": "reports/DELVERS_S2E03_ASR_COMPARISON_2026-10-25.md",
+      "sha256": "61ff5d26be0a4a8069d1b70d071aee1f025ae06ad520edc8a4a5bdedf2462f24",
+      "original": "research/legacy/2026-10-27/delvers-formatting-cleanup/reports/DELVERS_S2E03_ASR_COMPARISON_2026-10-25.md.original"
+    },
+    {
+      "path": "reports/DELVERS_S2E04_ASR_COMPARISON_2026-10-25.md",
+      "sha256": "e0c0ea9784e2033203308c147ee8e85c4a6f762bb05ae736684af6f162443084",
+      "original": "research/legacy/2026-10-27/delvers-formatting-cleanup/reports/DELVERS_S2E04_ASR_COMPARISON_2026-10-25.md.original"
+    },
+    {
+      "path": "delvers/episodes/S1E10.md",
+      "sha256": "ccaf959f28113d0fb0d1b6a75f14f6a27c52612888fd1a8b0911f16a3ba1f9dc",
+      "original": "research/legacy/2026-10-27/delvers-formatting-cleanup/delvers/episodes/S1E10.md.original"
+    },
+    {
+      "path": "reports/DELVERS_S1E10_ASR_COMPARISON_2026-10-25.md",
+      "sha256": "d8b6eb35404b9cb9667b8fc368bbcffaf427eb853ed410827c77ad2215f9d2cb",
+      "original": "research/legacy/2026-10-27/delvers-formatting-cleanup/reports/DELVERS_S1E10_ASR_COMPARISON_2026-10-25.md.original"
+    },
+    {
+      "path": "reports/DELVERS_S1E12_ASR_COMPARISON_2026-10-25.md",
+      "sha256": "27e64ad5a05fd1ec510a0a99b48209c070d79fb84263eb0cf96273f0b46501b7",
+      "original": "research/legacy/2026-10-27/delvers-formatting-cleanup/reports/DELVERS_S1E12_ASR_COMPARISON_2026-10-25.md.original"
+    },
+    {
+      "path": "delvers/episodes/S1E03.md",
+      "sha256": "bdaed1e4775d321b6ec59800ac61ea3e8b7c0c49c3efeb8818dc6be5f49026e1",
+      "original": "research/legacy/2026-10-27/delvers-formatting-cleanup/delvers/episodes/S1E03.md.original"
+    },
+    {
+      "path": "reports/DELVERS_S1E03_ASR_COMPARISON_2026-10-24.md",
+      "sha256": "7ffff70347ba9e429fc31bcad0c123adc87f4c59c10848f6ef2d4e2fe6d848f6",
+      "original": "research/legacy/2026-10-27/delvers-formatting-cleanup/reports/DELVERS_S1E03_ASR_COMPARISON_2026-10-24.md.original"
+    },
+    {
+      "path": "delvers/episodes/S1E04.md",
+      "sha256": "8d985eb20cd882f78a6523f2b5bea18689996d475642e9fa20371f95ed1b6c28",
+      "original": "research/legacy/2026-10-27/delvers-formatting-cleanup/delvers/episodes/S1E04.md.original"
+    },
+    {
+      "path": "delvers/REVIEW_QUEUE.md",
+      "sha256": "a0e161ab6229e9c70017ea804b1da2031a25c912e44eaabe4a5ae61621c39666",
+      "original": "research/legacy/2026-10-27/delvers-formatting-cleanup/delvers/REVIEW_QUEUE.md.original"
+    },
+    {
+      "path": "project/DELVERS_CLEANUP_MANIFEST.md",
+      "sha256": "2146b0a42d781ab808038d42ad1e7d7e338877081176f5b2c22f270786f2e9cb",
+      "original": "research/legacy/2026-10-27/delvers-formatting-cleanup/project/DELVERS_CLEANUP_MANIFEST.md.original"
+    }
+  ]
+}

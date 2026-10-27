@@ -1,0 +1,14 @@
+{
+  "files": [
+    {
+      "path": "delvers/REVIEW_QUEUE.md",
+      "sha256": "b3f83f7c00500ba15566b0fb321edb495831de0f72411c3da833b1d55360a52a",
+      "original": "research/legacy/2026-10-27/delvers-evidence-readiness/delvers/REVIEW_QUEUE.md.original"
+    },
+    {
+      "path": "project/DELVERS_CLEANUP_MANIFEST.md",
+      "sha256": "ce0e5c455792babb89261c61a70ccf1e6f71d64bdfaf6c0636e735283c600fc0",
+      "original": "research/legacy/2026-10-27/delvers-evidence-readiness/project/DELVERS_CLEANUP_MANIFEST.md.original"
+    }
+  ]
+}
