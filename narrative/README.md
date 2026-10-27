@@ -2,6 +2,8 @@
 
 The five completed Season One arcs follow Nash, Hope, Stanley and Vorel from Dusthill through E128. **[Arc Six](ARC_SIX.md) is also COMPLETE**, a continuous story across Season Two (12 episodes) and Season Three (18 played episodes). **[S3E18](../episodes/S3E18.md) concludes Arc Six AND The Wastes played campaign**. Following [S3E019 — Round Up](../sources/The%20Wastes%20S3E019.%20The%20Wastes%20Round%20Up.parakeet.processed.srt) is a separate cast roundtable/Q&A, not a seventh arc. **Full campaign spoilers.**[^guide]
 
+**Possible restructuring, not yet adopted:** A [completed-campaign consolidation plan](../project/WASTES_CAMPAIGN_CLEANUP_PLAN.md) and [eleven-arc working crosswalk](../project/WASTES_NARRATIVE_CHAPTER_MAPS.md) assess shorter story-led arcs (including cross-season spans). The links below remain the **current canonical six-arc reading order** until a new structure receives an explicit owner decision.
+
 ## Five completed Season One arcs
 
 - **[Arc One — Becoming the Heroes of the Wastes](ARC_ONE.md)** — Four travelers meet in Dusthill and follow a trail of captives into Slavetown and the Black Mine. They emerge with a new name, a troubling bargain and little agreement on what their growing power is for.[^arc-1]
