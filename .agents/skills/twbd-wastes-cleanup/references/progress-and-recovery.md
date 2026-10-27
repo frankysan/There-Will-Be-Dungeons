@@ -34,6 +34,49 @@ The next action names the file, operation and prerequisite check, not merely
 not an invitation to select an unrelated edit. Link completed batches
 without copying their details. Future work remains planned, not completed.
 
+## Grouped world census: per-file recovery contract (owner approved 2026-10-27)
+
+For Phase 0 **read-only structural audits**, a journal may cover several related
+world files. Before the first full read, inspect live Git status and candidate
+sizes, then persist **one explicit ordered path list** and the estimated total
+source-line budget. Default to a 4–6-file pilot (roughly 300 lines) for the next
+batch; subsequent choices follow the skill's short/medium/large grouping envelopes.
+Never treat a numeric target as a reason to add an unrelated or complex file.
+
+Create one **file record per planned path**, with:
+
+- Stable ID, exact path, anticipated and observed length, source horizon, original
+  baseline/HEAD and any known concurrent changes; state `queued`, `reading`,
+  `complete`, `blocked` or `unknown` (and last confirmed numbered line).
+- Structural inventory: numbered-line coverage without gaps, headings, tables,
+  footnotes/review markers, ordinary Markdown links; count internal-world links
+  whose target paths match the baseline separately from outside-world **unchecked**
+  links. Record a parse/verification error explicitly rather than silently omitting.
+- Domain purpose, evidence class and date cutoff, approved D-044/D-045 editorial
+  leads, open issues, actual checks and precise **not-run** validation limits.
+- Any owner approval needed before a **material content edit**. Read-only
+  structural completion is not `fact-reviewed`, `audio-verified` or accepted.
+
+**Checkpoint after each file:** update its record to `complete` only following
+full line coverage and saved findings; persist the next file and any error.
+If the tool times out, do not mark in-flight work complete. On resume compare
+Git status and source input, retain evidenced completed files, recheck any changed
+input, and resume the first `reading` or `unknown` record from its last verified
+line. If a file grew unexpectedly or has complex semantic ambiguity, split the
+remaining batch and document the revised path list; do not claim unprocessed
+files as complete. A required **unapproved substantive edit stops the entire
+cleanup batch** under the skill's owner-approval gate; never process a different
+file as a workaround. Read-only investigation can document the blocked choice.
+
+At close, **aggregate only validated file records** into one manifest checkpoint
+and one progress-pointer update; then read back the journal, manifest and pointer,
+and check final Git scope. If interrupted between the journal and either control,
+reconcile the missing record without repeating completed reads. Count world
+first-pass coverage per completed **unique path**; do not change the original
+134-file worklist's `listed_only` directory-baseline states. Missing hashes,
+source/fact/audio verification, incoming/backlink checks or lint remain explicitly
+pending and are never implied by a batch completion label.
+
 ## Batch journal template
 
 Use these sections before mutation; fill observations as they become available.
@@ -45,7 +88,7 @@ Use `not assessed`, `not run`, `pending` or `inapplicable` when truthful.
 | Inputs/decisions | Governing policies, accepted structure and approval provenance; input paths/hashes, source class/horizon, actual last observation and existing issue keys. Metadata-only work may have no story horizon. |
 | Planned operations | Ordered IDs/dependencies, intended transformation, pre-edit hash or confirmed absence for creation, archive destination, expected evidence, current operation state. |
 | Preservation | Exact-original path/hash/readback comparison; separate rebased reading-copy path/hash/link checks. Archive controls before substantial shortening too. |
-| Coverage/interpretation | Old paragraph/scene IDs tied to baseline hash, destination chapter/paragraph, retained/relocated/summarized/archived disposition and rationale; old/new interpretation, affected articles and knowledge boundaries. For census chunks record enumerated/processed/remaining paths. |
+| Coverage/interpretation | Old paragraph/scene IDs tied to baseline hash, destination chapter/paragraph, retained/relocated/summarized/archived disposition and rationale; old/new interpretation, affected articles and knowledge boundaries. For grouped census record ordered queued/reading/complete/blocked/unknown per-file states, numbered-line coverage, checks and remaining paths, not just aggregate totals. |
 | Results | Operation start/end or interruption time, actual paths/post-edit hashes, readback observations, lifecycle reached, deviations and outstanding work. |
 | Validation | Command/check, file scope and hashes checked, time, exit/outcome, diagnostics or report link, baseline vs introduced failures. Separate structural/factual/audio/acceptance results. |
 | Recovery/handoff | Last confirmed operation, pending intent, error/unknown outcome, retry condition, exact next action, manifest/pointer synchronization and final Git scope. |
@@ -86,9 +129,11 @@ testimony and existing issue keys.
    stage inapplicable; never fabricate an original. Audio review is separate,
    not required for every ASR-provisional editorial acceptance. Record actual
    acceptance criteria and reviewer.
-6. **Synchronize controls.** Save evidence first, then relevant manifest
-   disposition and progress pointer. Track/read back these writes and cross-links.
-   An interruption between them requires reconciliation on resume.
+6. **Synchronize controls.** Save evidence first (including an intra-batch journal
+   checkpoint after each completed read-only file), then relevant manifest
+   disposition and progress pointer **once at grouped-batch close**. Track/read
+   back these writes and cross-links. An interruption between them requires
+   reconciliation on resume; urgent stop/error states must be persisted promptly.
 
 ## Recovery decisions
 

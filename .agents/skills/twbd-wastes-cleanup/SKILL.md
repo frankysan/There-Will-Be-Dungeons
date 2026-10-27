@@ -1,6 +1,6 @@
 ---
 name: twbd-wastes-cleanup
-description: Progressively execute or resume The Wastes completed-campaign cleanup plan in small, evidence-preserving batches, with durable progress records that survive timeouts and errors. Use for Wastes narrative consolidation, world cleanup, inventory, and campaign integration under that plan; not routine episode intake or other campaigns.
+description: Progressively execute or resume The Wastes completed-campaign cleanup plan in bounded, related multi-file batches (standalone for complex work), with per-file evidence and durable progress records that survive timeouts and errors. Use for Wastes narrative consolidation, world cleanup, inventory, and campaign integration under that plan; not routine episode intake or other campaigns.
 ---
 
 # Wastes campaign cleanup
@@ -56,11 +56,52 @@ mutations. Recording is part of each operation, not an end-of-turn task.
 3. Reuse valid artifacts. HEAD advancing alone does not invalidate them: inspect
    changed inputs/dependencies and recheck only affected work. A validation-only
    resume does not trigger transcript rereading or another rewrite.
-4. Select the earliest unmet eligible gate. Normally take one major page, one
-   chapter pilot, a bounded census chunk, or at most three small subject pages,
-   plus necessary control updates. A full census can span checkpointed chunks.
-5. Persist intent, perform the slice, validate and checkpoint using the recovery
-   protocol. Continue only within the requested scope and remaining capacity.
+4. Select the earliest unmet eligible gate. For read-only Phase 0 world censuses,
+   **prefer one related multi-file batch** after size/complexity preflight, rather
+   than one administrative checkpoint per short article. Use the approved limits
+   below; keep complex registers and large narrative/scene transformations in
+   separate controlled slices. Never merge unrelated editorial decisions.
+5. Persist the ordered batch intent and per-file states, perform each file's
+   bounded operation, checkpoint its results, validate, then synchronize the
+   manifest and progress once at batch close. Continue only within authorized
+   scope and remaining capacity. On interruption resume from the first incomplete
+   file, not the beginning of the batch.
+
+### Bounded multi-file audit selection (owner approved 2026-10-27)
+
+For a **structural read-only inventory**, choose files by theme and source
+relationship (e.g. items and related technology, or several creature profiles),
+not simply because they sort next. Start with the earliest unread eligible path;
+preflight line counts, scope, dependency/claim density and source horizons before
+fixing an ordered target list. Do not mark a worklist entry as read until its
+actual full numbered-line census and findings are recorded.
+
+| Complexity | Preferred grouping | Total source-line planning envelope |
+| --- | --- | --- |
+| Short subject files (roughly 15–50 lines) | 4–8 related files | Around 300 lines |
+| Medium subject files (roughly 50–150 lines) | 2–4 related files | Around 350 lines |
+| Large subject files (roughly 150–300 lines) | 1–2 where tractable | Around 400 lines |
+| Complex technical registers or files above 300 lines | One standalone file or checkpointed chunks | Separate batch |
+
+These envelopes are **guidelines, not quotas**. Split early if dense links, source
+uncertainty, conflicting canon, tool limits or a necessary approval decision makes
+a grouping unsafe. The **next Batch 15 pilot** should aim for 4–6 short/medium
+related unread world files, approximately 300 source lines, starting with a
+preflight of `world/ITEMS_AND_ARTIFACTS.md`. Record the *actual selected paths*
+before reading them in full. Grouping does not permit more substantive edits.
+
+One detailed batch journal must retain **individual file subrecords**: path,
+ordered operation ID, actual line coverage/size, purpose and source horizon,
+headings/notes/links (in-world listed versus out-of-world unchecked), D-044/D-045
+migration leads, verification limits and `queued | reading | complete | blocked |
+unknown` state. After each fully processed file, save a recovery checkpoint.
+An interrupted or ambiguous operation must be reconciled from actual data before
+resuming; retain completed per-file work and never infer results for unread files.
+At batch close, make one guarded manifest update and one progress-pointer update,
+read back all three records and check final Git status. Keep the preserved 134-file
+world directory worklist as a `listed_only` baseline; track first-pass completion
+in separate evidence records. See [progress and recovery](references/progress-and-recovery.md).
+
 
 ### Mandatory owner-approval stop gate
 
@@ -91,7 +132,7 @@ page lifecycle are separate; an accepted pilot does not complete its domain.
 | Phase | Work and completion evidence |
 | --- | --- |
 | 0 — Detailed baseline | Enumerate current narrative/world files, Wastes episodes/navigation/controls, active policies and affected reports. Save scope, exclusions, sorted worklist and remaining paths before chunking. Capture working-copy hashes, headings, paragraphs, prose counts, notes, episode links, inbound links/anchors, aliases and coverage flags. Assess purpose, horizon, last actual observation, priority and treatment per file; mark unknowns explicitly. Reconcile earlier accepted pages individually. Close only after all in-scope files and semantic fields are accounted for. |
-| 1 — Arc decision | Map existing paragraphs/scenes to candidate chapters. Stress-test Arc Six and an earlier arc, compare closures, alternatives and reading weight. Keep six arcs canonical until explicit owner adoption supersedes D-042/D-043. Eleven arcs and numeric filenames remain proposals. Save a reviewable package; record approval source and exact adopted boundaries before structural changes. |
+| 1 — Arc decision | The owner approved the eleven-arc episode-boundary crosswalk in D-045. Map existing paragraphs/scenes to the approved arcs, stress-test closures and reading weight, then verify coverage; this does not by itself authorize narrative rewrites, new filenames or link migrations. D-042/D-043 record historical six-arc practice, not the final plan. Preserve approval provenance and any unresolved scene-level decisions before structural changes. |
 | 2 — Narrative rollout | After adoption, archive originals, pilot a short and a dense accepted arc, then roll out bounded chapters/arcs. Trace each substantial old paragraph to retained, relocated, summarized or archived content with rationale. Preserve unique scenes, agency, emotional consequences, causality, private knowledge and source notes. Track navigation/anchor/subject-label dependencies as one coordinated change set. |
 | 3 — Races and discovery | Search existing subjects, aliases, chronology and dossiers before declaring omissions. Record missing, underindexed, covered, potential duplicate or insufficient evidence. Prepare classification/template/schema proposal and establish the plan's agreement gate before rollout. Preserve stable entity IDs; distinguish peoples, individuals, factions and creatures. Create only evidence-backed entries. |
 | 4 — World rollout | Review a subject against its domain contract, actual first/last observation and final supported condition. Preserve prior bytes and claim trace. Retain specialist-register and technical-index exceptions; do not duplicate biographies by arc or turn indexes into stories. |

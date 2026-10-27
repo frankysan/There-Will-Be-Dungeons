@@ -112,6 +112,48 @@ For every completed check record episode, absolute audio time/cues, source ident
 
 Phases 3–5 can proceed in carefully scoped linked batches. Keep detailed report checkpoints (old/new source horizons, edits, hashes, links, test results, reviewer limits) as Delvers does. Run changed-file Markdownlint, link/anchor checks and diff whitespace checks when local tooling is available; distinguish performed checks from merely recommended checks. Do not run the full test suite unnecessarily.
 
+### Bounded multi-file cleanup batches (owner approved 2026-10-27)
+
+**Phase 0 read-only structural inventory** should normally review *several related
+short world files per batch*, rather than opening and closing a report for each
+small article. Group by domain/source relationships, inspect actual lengths and
+complexity before selecting an ordered set, and preserve individual per-file
+findings under **one batch journal**. Recommended planning envelopes:
+
+| Source type | Typical grouping | Total source-line guide |
+| --- | --- | --- |
+| Short articles (~15–50 lines) | 4–8 related files | ~300 lines |
+| Medium articles (~50–150 lines) | 2–4 related files | ~350 lines |
+| Large articles (~150–300 lines) | 1–2 when safe | ~400 lines |
+| Registers / complicated source material / more than 300 lines | One file or bounded chunks | Standalone checkpoint |
+
+These are **adaptive guides**, not minimum throughput. Prefer fewer files when
+contention, density, uncertain provenance or cross-reference complexity demand
+it. For the **first grouped pilot (Batch 15)** aim for **4–6 related world files,
+roughly 300 lines combined**. Begin candidate preflight at
+`world/ITEMS_AND_ARTIFACTS.md`; name additional related unread paths and their
+line counts in the pilot journal **before full reading**. Do not count preflight
+as completed structural review.
+
+Every chosen file needs its own operation ID, actual numbered-line coverage,
+source horizon, link split (listed-world vs outside-world unchecked), notes,
+footnotes, approved name/arc crosswalk leads, clear unperformed validation and
+recoverable `queued/reading/complete/blocked/unknown` status. Checkpoint the
+journal **after each file**, then perform **one** guarded manifest update and
+**one** progress-pointer update at batch close, followed by readback and Git
+status. On timeout recover completed files and resume only unconfirmed work.
+A pending unapproved substantive edit **stops the entire batch**, and the agent
+must not jump to another file to avoid asking the owner. See the
+[cleanup skill](../.agents/skills/twbd-wastes-cleanup/SKILL.md) and its
+[recovery instructions](../.agents/skills/twbd-wastes-cleanup/references/progress-and-recovery.md).
+
+**Coverage accounting remains per world file, not per batch.** The
+134-unique-path `WASTES_CLEANUP_WORLD_WORKLIST_2026-10-27.json` remains a
+`listed_only` directory snapshot; it must not be rewritten to claim fact/auditory
+approval. At the Batch 14 checkpoint, **14 of 134** world files have full first-pass
+structural reads and **120 remain**. This batching change does not itself audit
+another world file, advance the phase or authorize content changes.
+
 ## 8. Additional improvements to track
 
 1. Create an **entity-and-relationship graph**: stable IDs, canonical names/aliases, first/last observation, kinship, membership, item custody and connected histories. Extend beyond the `entities.json` E000/E001 pilot.
@@ -126,4 +168,4 @@ Phases 3–5 can proceed in carefully scoped linked batches. Keep detailed repor
 
 This planning slice records the preliminary audit, proposal and owner-confirmed naming corrections. It **does not claim** to have completed Phase 0's exhaustive page-by-page machine manifest, conducted new transcript/audio comparisons, rewritten an arc, created new race subject articles, reconciled the full active ledger or run repository-wide tests.
 
-**Next action:** Generate a complete current file/hash/link/paragraph baseline; construct a per-scene map for `ARC_SIX.md` plus an earlier arc; test whether eleven segments produce satisfying narrative closures; obtain the owner's explicit arc-boundary decision; and then implement a bounded preservation-verified rewrite pilot.
+**Current next action (updated 2026-10-27):** Resume Phase 0 using the owner-approved bounded multi-file audit workflow above. At the Batch 14 checkpoint, 9/9 narrative files have received initial structural reads and 14/134 world files have received first-pass structural reads; byte hashes, source-to-claim/paragraph maps, inbound links and complete validation remain unfinished. **Batch 15** starts with a size/complexity preflight of `world/ITEMS_AND_ARTIFACTS.md` plus related unread files, selects and journals approximately 4–6 paths within ~300 combined lines, then performs a read-only pilot with per-file checkpoints. **D-045 already approves the eleven arc boundaries**; scene-level provenance, preservation/compatibility checks and any separately undecided substantive edits remain gated. Do not start a narrative rewrite from this planning pointer or claim the multi-file pilot has already occurred.
