@@ -634,7 +634,7 @@ The heroes spoke of old acquaintances who might know more: a strange traveler at
 
 ### Sit and hum
 
-From the heights above the Solar Mines, the world looked like a wounded body. Purple and red lava bubbled along fractures extending north from the ruins of Principle City. At the center of the canyon, the Elhandari held the surface, and a smaller force now stood far beneath it, beside the floating Rubistic Triangulosphere. They awaited Stanley's order to use the device. **The order had not come.** If the Triangulosphere stripped the region of the strange mana left by the ancient dragon war, the heroes might lose the very spells they needed to face what grew in the Earth.
+From the heights above the Solar Mines, the world looked like a wounded body. Purple and red lava bubbled along fractures extending north from the ruins of Principal City. At the center of the canyon, the Elhandari held the surface, and a smaller force now stood far beneath it, beside the floating Rubistic Triangulosphere. They awaited Stanley's order to use the device. **The order had not come.** If the Triangulosphere stripped the region of the strange mana left by the ancient dragon war, the heroes might lose the very spells they needed to face what grew in the Earth.
 
 The four climbed aboard their returned Fate Six to see the wound more closely. Hope held the helm in Crooked Hand Row's absence. The lava fields spread for miles, new ridges rising from molten rock. Vorel searched for a cave or a path into the depths, but every apparent entrance risked being swallowed by the flow.
 
