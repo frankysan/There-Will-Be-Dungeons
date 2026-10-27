@@ -8,14 +8,13 @@
   },
   "pending": [],
   "limits": [
-    "Only Khalazar received a new complete profile and selected source-paragraph review in this checkpoint",
-    "Other character pages were mechanically inventoried, not newly accepted factually",
-    "Source links are linked dossiers, not certified latest direct observations",
-    "Coverage mentions do not independently certify historical acceptance or full factual review",
-    "No new audio, art, map, sheet or full-campaign review",
-    "All 35 now have the expected presentation structure; the character-wide coverage audit remains pending"
+    "Structural inventory remains distinct from factual certification",
+    "Bounded audit reads introductions/current-status/status-notes and samples paragraph-opening topics in each arc across all 35 pages",
+    "Selected primary dossier paragraphs cross-check later mentions and major endpoints; no fresh complete biography/campaign rereading or audio review",
+    "Alias matches and coverage mentions are routing/provenance, not independent identity proof or accepted facts",
+    "Detailed horizons, later evidence and retained limits are recorded in DELVERS_CHARACTER_DISPOSITIONS.json"
   ],
-  "next_step": "Character-wide coverage audit, then remaining world domains",
+  "next_step": "Artifact batch: Khalazar red crystal and Koh sensory amulet; then remaining world domains",
   "pages": [
     {
       "path": "delvers/world/characters/alexandre-vanderbuck-withers.md",
@@ -43,11 +42,14 @@
         "S3E12"
       ],
       "coverage_mentions": [
-        "project/DELVERS_WILDFIRE_WITHERS_COVERAGE.json"
+        "project/DELVERS_WILDFIRE_WITHERS_COVERAGE.json",
+        "project/DELVERS_CHARACTER_AUDIT_COVERAGE.json"
       ],
       "structural_flags": [],
       "disposition": "presentation-structure-ready-for-audit",
-      "factual_acceptance": "Not certified by this inventory"
+      "factual_acceptance": "Not certified by this inventory",
+      "bounded_audit_disposition": "bounded-focus-and-horizon-review",
+      "audit_register": "project/DELVERS_CHARACTER_DISPOSITIONS.json"
     },
     {
       "path": "delvers/world/characters/ambermoor.md",
@@ -68,11 +70,14 @@
         "S2E08"
       ],
       "coverage_mentions": [
-        "project/DELVERS_CHUCK_AMBERMOOR_COVERAGE.json"
+        "project/DELVERS_CHUCK_AMBERMOOR_COVERAGE.json",
+        "project/DELVERS_CHARACTER_AUDIT_COVERAGE.json"
       ],
       "structural_flags": [],
       "disposition": "presentation-structure-ready-for-audit",
-      "factual_acceptance": "Not certified by this inventory"
+      "factual_acceptance": "Not certified by this inventory",
+      "bounded_audit_disposition": "bounded-focus-and-horizon-review",
+      "audit_register": "project/DELVERS_CHARACTER_DISPOSITIONS.json"
     },
     {
       "path": "delvers/world/characters/anthela-spiros.md",
@@ -109,11 +114,14 @@
         "S3E12"
       ],
       "coverage_mentions": [
-        "project/DELVERS_SPIROS_FAMILY_COVERAGE.json"
+        "project/DELVERS_SPIROS_FAMILY_COVERAGE.json",
+        "project/DELVERS_CHARACTER_AUDIT_COVERAGE.json"
       ],
       "structural_flags": [],
       "disposition": "presentation-structure-ready-for-audit",
-      "factual_acceptance": "Not certified by this inventory"
+      "factual_acceptance": "Not certified by this inventory",
+      "bounded_audit_disposition": "bounded-focus-and-horizon-review",
+      "audit_register": "project/DELVERS_CHARACTER_DISPOSITIONS.json"
     },
     {
       "path": "delvers/world/characters/barclay-vandergeist.md",
@@ -133,11 +141,14 @@
         "S3E10"
       ],
       "coverage_mentions": [
-        "project/DELVERS_BARCLAY_RADIANT_COVERAGE.json"
+        "project/DELVERS_BARCLAY_RADIANT_COVERAGE.json",
+        "project/DELVERS_CHARACTER_AUDIT_COVERAGE.json"
       ],
       "structural_flags": [],
       "disposition": "presentation-structure-ready-for-audit",
-      "factual_acceptance": "Not certified by this inventory"
+      "factual_acceptance": "Not certified by this inventory",
+      "bounded_audit_disposition": "bounded-focus-and-horizon-review",
+      "audit_register": "project/DELVERS_CHARACTER_DISPOSITIONS.json"
     },
     {
       "path": "delvers/world/characters/broadside.md",
@@ -166,11 +177,14 @@
         "S3E12"
       ],
       "coverage_mentions": [
-        "project/DELVERS_BROADSIDE_CHEET_COVERAGE.json"
+        "project/DELVERS_BROADSIDE_CHEET_COVERAGE.json",
+        "project/DELVERS_CHARACTER_AUDIT_COVERAGE.json"
       ],
       "structural_flags": [],
       "disposition": "presentation-structure-ready-for-audit",
-      "factual_acceptance": "Not certified by this inventory"
+      "factual_acceptance": "Not certified by this inventory",
+      "bounded_audit_disposition": "bounded-focus-and-horizon-review",
+      "audit_register": "project/DELVERS_CHARACTER_DISPOSITIONS.json"
     },
     {
       "path": "delvers/world/characters/buck-broscale-wildfire.md",
@@ -198,11 +212,14 @@
         "S3E12"
       ],
       "coverage_mentions": [
-        "project/DELVERS_WILDFIRE_WITHERS_COVERAGE.json"
+        "project/DELVERS_WILDFIRE_WITHERS_COVERAGE.json",
+        "project/DELVERS_CHARACTER_AUDIT_COVERAGE.json"
       ],
       "structural_flags": [],
       "disposition": "presentation-structure-ready-for-audit",
-      "factual_acceptance": "Not certified by this inventory"
+      "factual_acceptance": "Not certified by this inventory",
+      "bounded_audit_disposition": "bounded-focus-and-horizon-review",
+      "audit_register": "project/DELVERS_CHARACTER_DISPOSITIONS.json"
     },
     {
       "path": "delvers/world/characters/carrie-underworld.md",
@@ -234,11 +251,14 @@
         "S3E12"
       ],
       "coverage_mentions": [
-        "project/DELVERS_CASSIUS_CARRIE_COVERAGE.json"
+        "project/DELVERS_CASSIUS_CARRIE_COVERAGE.json",
+        "project/DELVERS_CHARACTER_AUDIT_COVERAGE.json"
       ],
       "structural_flags": [],
       "disposition": "presentation-structure-ready-for-audit",
-      "factual_acceptance": "Not certified by this inventory"
+      "factual_acceptance": "Not certified by this inventory",
+      "bounded_audit_disposition": "bounded-focus-and-horizon-review",
+      "audit_register": "project/DELVERS_CHARACTER_DISPOSITIONS.json"
     },
     {
       "path": "delvers/world/characters/cassius.md",
@@ -279,11 +299,14 @@
         "S3E12"
       ],
       "coverage_mentions": [
-        "project/DELVERS_CASSIUS_CARRIE_COVERAGE.json"
+        "project/DELVERS_CASSIUS_CARRIE_COVERAGE.json",
+        "project/DELVERS_CHARACTER_AUDIT_COVERAGE.json"
       ],
       "structural_flags": [],
       "disposition": "presentation-structure-ready-for-audit",
-      "factual_acceptance": "Not certified by this inventory"
+      "factual_acceptance": "Not certified by this inventory",
+      "bounded_audit_disposition": "bounded-focus-and-horizon-review",
+      "audit_register": "project/DELVERS_CHARACTER_DISPOSITIONS.json"
     },
     {
       "path": "delvers/world/characters/chad-brad.md",
@@ -314,11 +337,14 @@
         "S3E12"
       ],
       "coverage_mentions": [
-        "project/DELVERS_VEGGIE_CHAD_COVERAGE.json"
+        "project/DELVERS_VEGGIE_CHAD_COVERAGE.json",
+        "project/DELVERS_CHARACTER_AUDIT_COVERAGE.json"
       ],
       "structural_flags": [],
       "disposition": "presentation-structure-ready-for-audit",
-      "factual_acceptance": "Not certified by this inventory"
+      "factual_acceptance": "Not certified by this inventory",
+      "bounded_audit_disposition": "bounded-focus-and-horizon-review",
+      "audit_register": "project/DELVERS_CHARACTER_DISPOSITIONS.json"
     },
     {
       "path": "delvers/world/characters/cheet.md",
@@ -342,11 +368,14 @@
         "S3E12"
       ],
       "coverage_mentions": [
-        "project/DELVERS_BROADSIDE_CHEET_COVERAGE.json"
+        "project/DELVERS_BROADSIDE_CHEET_COVERAGE.json",
+        "project/DELVERS_CHARACTER_AUDIT_COVERAGE.json"
       ],
       "structural_flags": [],
       "disposition": "presentation-structure-ready-for-audit",
-      "factual_acceptance": "Not certified by this inventory"
+      "factual_acceptance": "Not certified by this inventory",
+      "bounded_audit_disposition": "bounded-focus-and-horizon-review",
+      "audit_register": "project/DELVERS_CHARACTER_DISPOSITIONS.json"
     },
     {
       "path": "delvers/world/characters/chuck-abnaz.md",
@@ -372,11 +401,14 @@
         "S3E01"
       ],
       "coverage_mentions": [
-        "project/DELVERS_CHUCK_AMBERMOOR_COVERAGE.json"
+        "project/DELVERS_CHUCK_AMBERMOOR_COVERAGE.json",
+        "project/DELVERS_CHARACTER_AUDIT_COVERAGE.json"
       ],
       "structural_flags": [],
       "disposition": "presentation-structure-ready-for-audit",
-      "factual_acceptance": "Not certified by this inventory"
+      "factual_acceptance": "Not certified by this inventory",
+      "bounded_audit_disposition": "bounded-focus-and-horizon-review",
+      "audit_register": "project/DELVERS_CHARACTER_DISPOSITIONS.json"
     },
     {
       "path": "delvers/world/characters/darmah-edstream.md",
@@ -400,11 +432,14 @@
         "S3E12"
       ],
       "coverage_mentions": [
-        "project/DELVERS_DARMAH_DUMBLEDWARK_COVERAGE.json"
+        "project/DELVERS_DARMAH_DUMBLEDWARK_COVERAGE.json",
+        "project/DELVERS_CHARACTER_AUDIT_COVERAGE.json"
       ],
       "structural_flags": [],
       "disposition": "presentation-structure-ready-for-audit",
-      "factual_acceptance": "Not certified by this inventory"
+      "factual_acceptance": "Not certified by this inventory",
+      "bounded_audit_disposition": "bounded-focus-and-horizon-review",
+      "audit_register": "project/DELVERS_CHARACTER_DISPOSITIONS.json"
     },
     {
       "path": "delvers/world/characters/destroying-angel.md",
@@ -424,11 +459,14 @@
         "S3E06"
       ],
       "coverage_mentions": [
-        "project/DELVERS_ANGEL_GRANNY_COVERAGE.json"
+        "project/DELVERS_ANGEL_GRANNY_COVERAGE.json",
+        "project/DELVERS_CHARACTER_AUDIT_COVERAGE.json"
       ],
       "structural_flags": [],
       "disposition": "presentation-structure-ready-for-audit",
-      "factual_acceptance": "Not certified by this inventory"
+      "factual_acceptance": "Not certified by this inventory",
+      "bounded_audit_disposition": "bounded-focus-and-horizon-review",
+      "audit_register": "project/DELVERS_CHARACTER_DISPOSITIONS.json"
     },
     {
       "path": "delvers/world/characters/dumbledwark-of-raisinbunch.md",
@@ -450,11 +488,14 @@
         "S3E10"
       ],
       "coverage_mentions": [
-        "project/DELVERS_DARMAH_DUMBLEDWARK_COVERAGE.json"
+        "project/DELVERS_DARMAH_DUMBLEDWARK_COVERAGE.json",
+        "project/DELVERS_CHARACTER_AUDIT_COVERAGE.json"
       ],
       "structural_flags": [],
       "disposition": "presentation-structure-ready-for-audit",
-      "factual_acceptance": "Not certified by this inventory"
+      "factual_acceptance": "Not certified by this inventory",
+      "bounded_audit_disposition": "bounded-focus-and-horizon-review",
+      "audit_register": "project/DELVERS_CHARACTER_DISPOSITIONS.json"
     },
     {
       "path": "delvers/world/characters/enzo-vanderbuck-withers.md",
@@ -479,11 +520,14 @@
         "S3E12"
       ],
       "coverage_mentions": [
-        "project/DELVERS_ENZO_SKULL_KEEP_COVERAGE.json"
+        "project/DELVERS_ENZO_SKULL_KEEP_COVERAGE.json",
+        "project/DELVERS_CHARACTER_AUDIT_COVERAGE.json"
       ],
       "structural_flags": [],
       "disposition": "presentation-structure-ready-for-audit",
-      "factual_acceptance": "Not certified by this inventory"
+      "factual_acceptance": "Not certified by this inventory",
+      "bounded_audit_disposition": "bounded-focus-and-horizon-review",
+      "audit_register": "project/DELVERS_CHARACTER_DISPOSITIONS.json"
     },
     {
       "path": "delvers/world/characters/evelyn-grinkeeper.md",
@@ -540,11 +584,14 @@
         "S3E12"
       ],
       "coverage_mentions": [
-        "project/DELVERS_EVELYN_KRANDAL_COVERAGE.json"
+        "project/DELVERS_EVELYN_KRANDAL_COVERAGE.json",
+        "project/DELVERS_CHARACTER_AUDIT_COVERAGE.json"
       ],
       "structural_flags": [],
       "disposition": "presentation-structure-ready-for-audit",
-      "factual_acceptance": "Not certified by this inventory"
+      "factual_acceptance": "Not certified by this inventory",
+      "bounded_audit_disposition": "bounded-focus-and-horizon-review",
+      "audit_register": "project/DELVERS_CHARACTER_DISPOSITIONS.json"
     },
     {
       "path": "delvers/world/characters/gentleman-cavalier-traveler.md",
@@ -567,11 +614,14 @@
         "S3E12"
       ],
       "coverage_mentions": [
-        "project/DELVERS_MARGARET_TRAVELER_COVERAGE.json"
+        "project/DELVERS_MARGARET_TRAVELER_COVERAGE.json",
+        "project/DELVERS_CHARACTER_AUDIT_COVERAGE.json"
       ],
       "structural_flags": [],
       "disposition": "presentation-structure-ready-for-audit",
-      "factual_acceptance": "Not certified by this inventory"
+      "factual_acceptance": "Not certified by this inventory",
+      "bounded_audit_disposition": "bounded-focus-and-horizon-review",
+      "audit_register": "project/DELVERS_CHARACTER_DISPOSITIONS.json"
     },
     {
       "path": "delvers/world/characters/gleepo-ma.md",
@@ -601,11 +651,14 @@
         "S3E12"
       ],
       "coverage_mentions": [
-        "project/DELVERS_GLEPO_SKOOGIE_COVERAGE.json"
+        "project/DELVERS_GLEPO_SKOOGIE_COVERAGE.json",
+        "project/DELVERS_CHARACTER_AUDIT_COVERAGE.json"
       ],
       "structural_flags": [],
       "disposition": "presentation-structure-ready-for-audit",
-      "factual_acceptance": "Not certified by this inventory"
+      "factual_acceptance": "Not certified by this inventory",
+      "bounded_audit_disposition": "bounded-focus-and-horizon-review",
+      "audit_register": "project/DELVERS_CHARACTER_DISPOSITIONS.json"
     },
     {
       "path": "delvers/world/characters/goggles-granny.md",
@@ -627,11 +680,14 @@
         "S3E07"
       ],
       "coverage_mentions": [
-        "project/DELVERS_ANGEL_GRANNY_COVERAGE.json"
+        "project/DELVERS_ANGEL_GRANNY_COVERAGE.json",
+        "project/DELVERS_CHARACTER_AUDIT_COVERAGE.json"
       ],
       "structural_flags": [],
       "disposition": "presentation-structure-ready-for-audit",
-      "factual_acceptance": "Not certified by this inventory"
+      "factual_acceptance": "Not certified by this inventory",
+      "bounded_audit_disposition": "bounded-focus-and-horizon-review",
+      "audit_register": "project/DELVERS_CHARACTER_DISPOSITIONS.json"
     },
     {
       "path": "delvers/world/characters/khalazar.md",
@@ -667,11 +723,14 @@
         "S3E12"
       ],
       "coverage_mentions": [
-        "project/DELVERS_KHALAZAR_COVERAGE.json"
+        "project/DELVERS_KHALAZAR_COVERAGE.json",
+        "project/DELVERS_CHARACTER_AUDIT_COVERAGE.json"
       ],
       "structural_flags": [],
       "disposition": "presentation-structure-ready-for-audit",
-      "factual_acceptance": "Not certified by this inventory"
+      "factual_acceptance": "Not certified by this inventory",
+      "bounded_audit_disposition": "bounded-focus-and-horizon-review",
+      "audit_register": "project/DELVERS_CHARACTER_DISPOSITIONS.json"
     },
     {
       "path": "delvers/world/characters/koh-spiros.md",
@@ -728,11 +787,14 @@
         "S3E12"
       ],
       "coverage_mentions": [
-        "project/DELVERS_WORLD_PILOT_COVERAGE.json"
+        "project/DELVERS_WORLD_PILOT_COVERAGE.json",
+        "project/DELVERS_CHARACTER_AUDIT_COVERAGE.json"
       ],
       "structural_flags": [],
       "disposition": "presentation-structure-ready-for-audit",
-      "factual_acceptance": "Not certified by this inventory"
+      "factual_acceptance": "Not certified by this inventory",
+      "bounded_audit_disposition": "bounded-focus-and-horizon-review",
+      "audit_register": "project/DELVERS_CHARACTER_DISPOSITIONS.json"
     },
     {
       "path": "delvers/world/characters/krandal-splenderbelt.md",
@@ -789,11 +851,14 @@
         "S3E12"
       ],
       "coverage_mentions": [
-        "project/DELVERS_EVELYN_KRANDAL_COVERAGE.json"
+        "project/DELVERS_EVELYN_KRANDAL_COVERAGE.json",
+        "project/DELVERS_CHARACTER_AUDIT_COVERAGE.json"
       ],
       "structural_flags": [],
       "disposition": "presentation-structure-ready-for-audit",
-      "factual_acceptance": "Not certified by this inventory"
+      "factual_acceptance": "Not certified by this inventory",
+      "bounded_audit_disposition": "bounded-focus-and-horizon-review",
+      "audit_register": "project/DELVERS_CHARACTER_DISPOSITIONS.json"
     },
     {
       "path": "delvers/world/characters/marek-gideon.md",
@@ -817,11 +882,14 @@
         "S3E12"
       ],
       "coverage_mentions": [
-        "project/DELVERS_MAREK_NOBLE_HOLLOW_COVERAGE.json"
+        "project/DELVERS_MAREK_NOBLE_HOLLOW_COVERAGE.json",
+        "project/DELVERS_CHARACTER_AUDIT_COVERAGE.json"
       ],
       "structural_flags": [],
       "disposition": "presentation-structure-ready-for-audit",
-      "factual_acceptance": "Not certified by this inventory"
+      "factual_acceptance": "Not certified by this inventory",
+      "bounded_audit_disposition": "bounded-focus-and-horizon-review",
+      "audit_register": "project/DELVERS_CHARACTER_DISPOSITIONS.json"
     },
     {
       "path": "delvers/world/characters/margaret-dupayton.md",
@@ -854,11 +922,14 @@
         "S3E12"
       ],
       "coverage_mentions": [
-        "project/DELVERS_MARGARET_TRAVELER_COVERAGE.json"
+        "project/DELVERS_MARGARET_TRAVELER_COVERAGE.json",
+        "project/DELVERS_CHARACTER_AUDIT_COVERAGE.json"
       ],
       "structural_flags": [],
       "disposition": "presentation-structure-ready-for-audit",
-      "factual_acceptance": "Not certified by this inventory"
+      "factual_acceptance": "Not certified by this inventory",
+      "bounded_audit_disposition": "bounded-focus-and-horizon-review",
+      "audit_register": "project/DELVERS_CHARACTER_DISPOSITIONS.json"
     },
     {
       "path": "delvers/world/characters/marsh.md",
@@ -878,11 +949,14 @@
         "S2E09"
       ],
       "coverage_mentions": [
-        "project/DELVERS_MARSH_DAUFANTE_COVERAGE.json"
+        "project/DELVERS_MARSH_DAUFANTE_COVERAGE.json",
+        "project/DELVERS_CHARACTER_AUDIT_COVERAGE.json"
       ],
       "structural_flags": [],
       "disposition": "presentation-structure-ready-for-audit",
-      "factual_acceptance": "Not certified by this inventory"
+      "factual_acceptance": "Not certified by this inventory",
+      "bounded_audit_disposition": "bounded-focus-and-horizon-review",
+      "audit_register": "project/DELVERS_CHARACTER_DISPOSITIONS.json"
     },
     {
       "path": "delvers/world/characters/masked-mage.md",
@@ -901,11 +975,14 @@
         "S1E05"
       ],
       "coverage_mentions": [
-        "project/DELVERS_MASKED_MAGE_COVERAGE.json"
+        "project/DELVERS_MASKED_MAGE_COVERAGE.json",
+        "project/DELVERS_CHARACTER_AUDIT_COVERAGE.json"
       ],
       "structural_flags": [],
       "disposition": "presentation-structure-ready-for-audit",
-      "factual_acceptance": "Not certified by this inventory"
+      "factual_acceptance": "Not certified by this inventory",
+      "bounded_audit_disposition": "bounded-focus-and-horizon-review",
+      "audit_register": "project/DELVERS_CHARACTER_DISPOSITIONS.json"
     },
     {
       "path": "delvers/world/characters/nopa-ropa.md",
@@ -930,11 +1007,14 @@
         "S3E12"
       ],
       "coverage_mentions": [
-        "project/DELVERS_NOPA_HISSIA_COVERAGE.json"
+        "project/DELVERS_NOPA_HISSIA_COVERAGE.json",
+        "project/DELVERS_CHARACTER_AUDIT_COVERAGE.json"
       ],
       "structural_flags": [],
       "disposition": "presentation-structure-ready-for-audit",
-      "factual_acceptance": "Not certified by this inventory"
+      "factual_acceptance": "Not certified by this inventory",
+      "bounded_audit_disposition": "bounded-focus-and-horizon-review",
+      "audit_register": "project/DELVERS_CHARACTER_DISPOSITIONS.json"
     },
     {
       "path": "delvers/world/characters/penelope-spiros.md",
@@ -967,11 +1047,14 @@
         "S3E12"
       ],
       "coverage_mentions": [
-        "project/DELVERS_SPIROS_FAMILY_COVERAGE.json"
+        "project/DELVERS_SPIROS_FAMILY_COVERAGE.json",
+        "project/DELVERS_CHARACTER_AUDIT_COVERAGE.json"
       ],
       "structural_flags": [],
       "disposition": "presentation-structure-ready-for-audit",
-      "factual_acceptance": "Not certified by this inventory"
+      "factual_acceptance": "Not certified by this inventory",
+      "bounded_audit_disposition": "bounded-focus-and-horizon-review",
+      "audit_register": "project/DELVERS_CHARACTER_DISPOSITIONS.json"
     },
     {
       "path": "delvers/world/characters/princess-hissia.md",
@@ -998,11 +1081,14 @@
         "S3E12"
       ],
       "coverage_mentions": [
-        "project/DELVERS_NOPA_HISSIA_COVERAGE.json"
+        "project/DELVERS_NOPA_HISSIA_COVERAGE.json",
+        "project/DELVERS_CHARACTER_AUDIT_COVERAGE.json"
       ],
       "structural_flags": [],
       "disposition": "presentation-structure-ready-for-audit",
-      "factual_acceptance": "Not certified by this inventory"
+      "factual_acceptance": "Not certified by this inventory",
+      "bounded_audit_disposition": "bounded-focus-and-horizon-review",
+      "audit_register": "project/DELVERS_CHARACTER_DISPOSITIONS.json"
     },
     {
       "path": "delvers/world/characters/radiant-lance.md",
@@ -1024,11 +1110,14 @@
         "S3E08"
       ],
       "coverage_mentions": [
-        "project/DELVERS_BARCLAY_RADIANT_COVERAGE.json"
+        "project/DELVERS_BARCLAY_RADIANT_COVERAGE.json",
+        "project/DELVERS_CHARACTER_AUDIT_COVERAGE.json"
       ],
       "structural_flags": [],
       "disposition": "presentation-structure-ready-for-audit",
-      "factual_acceptance": "Not certified by this inventory"
+      "factual_acceptance": "Not certified by this inventory",
+      "bounded_audit_disposition": "bounded-focus-and-horizon-review",
+      "audit_register": "project/DELVERS_CHARACTER_DISPOSITIONS.json"
     },
     {
       "path": "delvers/world/characters/shaolin-nym.md",
@@ -1048,11 +1137,14 @@
         "S3E12"
       ],
       "coverage_mentions": [
-        "project/DELVERS_SHRUGS_SHAOLIN_COVERAGE.json"
+        "project/DELVERS_SHRUGS_SHAOLIN_COVERAGE.json",
+        "project/DELVERS_CHARACTER_AUDIT_COVERAGE.json"
       ],
       "structural_flags": [],
       "disposition": "presentation-structure-ready-for-audit",
-      "factual_acceptance": "Not certified by this inventory"
+      "factual_acceptance": "Not certified by this inventory",
+      "bounded_audit_disposition": "bounded-focus-and-horizon-review",
+      "audit_register": "project/DELVERS_CHARACTER_DISPOSITIONS.json"
     },
     {
       "path": "delvers/world/characters/shrugs-manaspoon.md",
@@ -1074,11 +1166,14 @@
         "S2E06"
       ],
       "coverage_mentions": [
-        "project/DELVERS_SHRUGS_SHAOLIN_COVERAGE.json"
+        "project/DELVERS_SHRUGS_SHAOLIN_COVERAGE.json",
+        "project/DELVERS_CHARACTER_AUDIT_COVERAGE.json"
       ],
       "structural_flags": [],
       "disposition": "presentation-structure-ready-for-audit",
-      "factual_acceptance": "Not certified by this inventory"
+      "factual_acceptance": "Not certified by this inventory",
+      "bounded_audit_disposition": "bounded-focus-and-horizon-review",
+      "audit_register": "project/DELVERS_CHARACTER_DISPOSITIONS.json"
     },
     {
       "path": "delvers/world/characters/skoogie.md",
@@ -1098,11 +1193,14 @@
         "S2E09"
       ],
       "coverage_mentions": [
-        "project/DELVERS_GLEPO_SKOOGIE_COVERAGE.json"
+        "project/DELVERS_GLEPO_SKOOGIE_COVERAGE.json",
+        "project/DELVERS_CHARACTER_AUDIT_COVERAGE.json"
       ],
       "structural_flags": [],
       "disposition": "presentation-structure-ready-for-audit",
-      "factual_acceptance": "Not certified by this inventory"
+      "factual_acceptance": "Not certified by this inventory",
+      "bounded_audit_disposition": "bounded-focus-and-horizon-review",
+      "audit_register": "project/DELVERS_CHARACTER_DISPOSITIONS.json"
     },
     {
       "path": "delvers/world/characters/the-great-daufante.md",
@@ -1122,11 +1220,14 @@
         "S2E03"
       ],
       "coverage_mentions": [
-        "project/DELVERS_MARSH_DAUFANTE_COVERAGE.json"
+        "project/DELVERS_MARSH_DAUFANTE_COVERAGE.json",
+        "project/DELVERS_CHARACTER_AUDIT_COVERAGE.json"
       ],
       "structural_flags": [],
       "disposition": "presentation-structure-ready-for-audit",
-      "factual_acceptance": "Not certified by this inventory"
+      "factual_acceptance": "Not certified by this inventory",
+      "bounded_audit_disposition": "bounded-focus-and-horizon-review",
+      "audit_register": "project/DELVERS_CHARACTER_DISPOSITIONS.json"
     },
     {
       "path": "delvers/world/characters/veggie-sticks.md",
@@ -1150,11 +1251,22 @@
         "S3E10"
       ],
       "coverage_mentions": [
-        "project/DELVERS_VEGGIE_CHAD_COVERAGE.json"
+        "project/DELVERS_VEGGIE_CHAD_COVERAGE.json",
+        "project/DELVERS_CHARACTER_AUDIT_COVERAGE.json"
       ],
       "structural_flags": [],
       "disposition": "presentation-structure-ready-for-audit",
-      "factual_acceptance": "Not certified by this inventory"
+      "factual_acceptance": "Not certified by this inventory",
+      "bounded_audit_disposition": "bounded-focus-and-horizon-review",
+      "audit_register": "project/DELVERS_CHARACTER_DISPOSITIONS.json"
     }
-  ]
+  ],
+  "bounded_audit": {
+    "date": "2026-10-27",
+    "register": "project/DELVERS_CHARACTER_DISPOSITIONS.json",
+    "report": "reports/DELVERS_CHARACTER_AUDIT_2026-10-27.md",
+    "reviewed_paths": 35,
+    "biographies_changed": 0,
+    "full_factual_acceptance": false
+  }
 }

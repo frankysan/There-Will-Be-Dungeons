@@ -1,8 +1,12 @@
 # Vorel
 
-**Portrayed by:** Kyle. **Identity:** Lizardfolk warrior and leader, protector of **Bok Bok**, bearer of the **Eye of Groxl** and claimant to many personal titles. **Spoilers:** Main Wastes through **S3E09** and cast Q&As, including the April, May and July-filed 2022 retrospectives. **Evidence:** ASR-provisional except owner-confirmed item/name orthography.[^march21]
+**Portrayed by:** Kyle. **Identity:** Lizardfolk warrior and leader, protector of **Bok Bok**, bearer of the **Eye of Groxl** and claimant to many personal titles. **Spoilers:** Main Wastes through **S3E11** and cast Q&As, including the April, May and July-filed 2022 retrospectives. **Evidence:** ASR-provisional except owner-confirmed item/name orthography.[^march21]
 
 **Browse:** [Characters](../CHARACTERS.md) · [His source-indexed titles](vorel-titles.md) · [Eye of Groxl](../technology/eye-of-groxl.md) · [World portal](../README.md).
+
+## S3E11 — conditional alliance challenged, new “Contractless and Defender of Earth” self-epithet
+
+In [played S3E11](../../episodes/S3E11.md), **VOREL ACTUALLY MEETS PRINCIPLE IN CORE-LAVA CHAMBER**, witnesses 4 DRAGONSON ritualists and RUBY present, argues **AGAINST PRINCIPLE'S CHROME-ALL solution**, and **Insight8 DOES NOT CONFIRM HE IS HONEST**. Eventually joins other three in **VERBAL TRUCE to pursue SOULBROKER in Weir**, while making clear he would rather fight Principle afterward than forsake living Earth. VOREL articulates mortality/pleasure/aging vs sterile chrome life to STANLEY during **REAL LONG REST**; sees **STANLEY'S *HEROES' FEAST* ACTUALLY CAST NEXT MORNING** and self-tests chest shield. **HOPE'S RING GATE PHYSICALLY TRANSPORTS FOUR+PRINCIPLE TO CHÂTEAU WEIR, RUBY LEFT BEHIND**, HOPE remote kept. **QUIZQUAZ, bodily present, EXPLICITLY EXEMPTS VOREL from Weir contract breach because HE DID NOT SIGN E023**, unlike three comrades. Later **VOREL ORALLY SELF-INTRODUCES AS “THE CONTRACTLESS AND DEFENDER OF EARTH” ~02:23**, **FIRST OBSERVED ASR-PROVISIONAL NEW SELF-EPITHET**, **NOT conferred office**, distinct from “Slayer of God Killer.” [Indexed title finding](vorel-titles.md). He proposes peace/exile to both villains; alongside STANLEY announces **LEMON TREE**, SOULBROKER ACTUALLY GROWS HUGE/TORNADO-LIGHTNING STARTS; VOREL has not yet WON/LOST new duel or been killed. [P/Q report](../../reports/WASTES_S3E11_ASR_COMPARISON_2026-10-27.md).
 
 ## S3E10 — escort deeper, 90-point healing, sword and headless slave chambers
 

@@ -1,7 +1,7 @@
 {
   "date": "2026-10-27",
-  "local_file_and_fragment_links": 1228,
-  "maintained_inbound_links": 21,
+  "local_file_and_fragment_links": 1233,
+  "maintained_inbound_links": 22,
   "former_headings_preserved": 16,
   "exact_original_hashes": 6,
   "reading_copy_target_equivalence": 6,
@@ -25,5 +25,41 @@
   "limits": [
     "No new ASR, audio, remote URL or rendered-site review",
     "Section dispositions and material-claim review, not sentence-by-sentence audio verification"
-  ]
+  ],
+  "markdownlint": {
+    "maintained_files": 6,
+    "violations": 0
+  },
+  "whitespace": {
+    "scoped_git_diff_check": "passed",
+    "direct_new_file_check": "passed"
+  },
+  "manual_readback": "Complete persisted Khalazar biography compared with archived original and selected complete source paragraphs; agency/coercion, evidence attribution, apparition/body chronology, proposed/performed rite, creator/PC knowledge and definite destruction checked. Other character pages inventoried structurally, not newly fact-accepted. No audio or rendered-site verification.",
+  "protected_groups": {
+    "campaign_files": 216,
+    "prior_batch_artifacts": 91,
+    "bonus_provenance_documents": 10
+  },
+  "preserved_place_register": {
+    "pages": 27,
+    "matching_page_hashes": 27,
+    "register_protected": true
+  },
+  "character_inventory": {
+    "paths": 35,
+    "matching_hashes": 35,
+    "other_character_pages_unchanged": 34,
+    "presentation_structure_ready_for_audit": 35,
+    "requires_migration": [],
+    "inventory_sha256": "11388ded0e22e391330cf5510a2339fa65a58a021aea9b832d8ebd9dcd83daf4",
+    "prior_inventory_archived": true,
+    "prior_inventory_json_equivalence": true,
+    "prior_inventory_counts": {
+      "paths": 35,
+      "presentation_structure_ready_for_audit": 34,
+      "requires_migration": 1
+    },
+    "factual_acceptance": "Not certified by structural inventory"
+  },
+  "working_tree_context": "Earlier Delvers changes and concurrent unrelated Wastes work preserved; no commit or push by this task."
 }

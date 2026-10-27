@@ -1,0 +1,360 @@
+{
+  "date": "2026-10-27",
+  "scope": "All 35 current Delvers character-directory Markdown paths",
+  "headings": [],
+  "domains": {
+    "delvers/world/characters/alexandre-vanderbuck-withers.md": "Patronage, guarded knowledge, suspected complicity and involuntary captivity",
+    "delvers/world/characters/ambermoor.md": "Privileged management, experimental ambition and loss of control",
+    "delvers/world/characters/anthela-spiros.md": "Captive agency, recognition, recovery and family fears",
+    "delvers/world/characters/barclay-vandergeist.md": "Survival resourcefulness, faith, hospitality and practical cooperation",
+    "delvers/world/characters/broadside.md": "Mercy, amends, ordinary service and vulnerability to the sound",
+    "delvers/world/characters/buck-broscale-wildfire.md": "Demanding mentorship, grief, patron loyalty and captivity",
+    "delvers/world/characters/carrie-underworld.md": "Curiosity, acknowledged limits, experiment and discreet support",
+    "delvers/world/characters/cassius.md": "Institutional responsibility, compromised investigation and restored leadership",
+    "delvers/world/characters/chad-brad.md": "Negotiated survival, farm companionship, agency and final service",
+    "delvers/world/characters/cheet.md": "Curiosity, complicity, captivity and assigned rehabilitation",
+    "delvers/world/characters/chuck-abnaz.md": "Family leverage, profit, negotiation and conditional continued business",
+    "delvers/world/characters/darmah-edstream.md": "Conspicuous fire magic, practical help and rescue responsibility",
+    "delvers/world/characters/destroying-angel.md": "Courtesy, care, restraint and practical courage",
+    "delvers/world/characters/dumbledwark-of-raisinbunch.md": "Professional persona, access, consent, compromise and field aid",
+    "delvers/world/characters/enzo-vanderbuck-withers.md": "Immortality ambition, isolation, intimacy and desire for release",
+    "delvers/world/characters/evelyn-grinkeeper.md": "Impatience, care, identity, chosen duty and enduring attachment",
+    "delvers/world/characters/gentleman-cavalier-traveler.md": "Courtesy, attachment, courage and a cross-plane promise",
+    "delvers/world/characters/gleepo-ma.md": "Trade, compromised loyalty, exile, employment and home",
+    "delvers/world/characters/goggles-granny.md": "Independent expertise, brusque cooperation and physical limits",
+    "delvers/world/characters/khalazar.md": "Imperial entitlement, coercion, projected grandeur and final destruction",
+    "delvers/world/characters/koh-spiros.md": "Secrecy, family protection, compromised choices and teaching",
+    "delvers/world/characters/krandal-splenderbelt.md": "Duty, doubt, practical care, farming and promises made good",
+    "delvers/world/characters/marek-gideon.md": "Research authority, coercion and nonlethal defeat",
+    "delvers/world/characters/margaret-dupayton.md": "Ingenuity, loyalty, concealment and trusted contact",
+    "delvers/world/characters/marsh.md": "Experienced caution, tactical cooperation and negotiated departure",
+    "delvers/world/characters/masked-mage.md": "Unsettling presentation, unsolicited warning and concealed purpose",
+    "delvers/world/characters/nopa-ropa.md": "Service, impatience, obligation and reunion",
+    "delvers/world/characters/penelope-spiros.md": "Protected childhood, family truth and unsettling dreams",
+    "delvers/world/characters/princess-hissia.md": "Unshared memories, captivity and forbidden reunion",
+    "delvers/world/characters/radiant-lance.md": "Attributed reputation, captive companionship and relic legacy",
+    "delvers/world/characters/shaolin-nym.md": "Ancient allegiance, recognition of liberators and final aid",
+    "delvers/world/characters/shrugs-manaspoon.md": "Technical skill, eccentric curiosity, collateral harm and temporary cooperation",
+    "delvers/world/characters/skoogie.md": "Displaced influence, strategic bargain and active help",
+    "delvers/world/characters/the-great-daufante.md": "Showmanship, entourage, disputed claim, persuasion and compromise",
+    "delvers/world/characters/veggie-sticks.md": "Protective exaggeration, fear, hospitality and bounded cooperation"
+  },
+  "review_method": [
+    "Introductions/current-status/status-note read across all 35, with arc paragraph-opening topic sampling; not a fresh full-body reread of every biography",
+    "Selected complete dossier paragraphs cross-check later mentions, retrospective departures, rescues and final epilogues",
+    "Alias matches are routing candidates, not identity proof; absent literal matches do not prove absence of later scenes",
+    "No new audio, ASR comparison, original sheet/art/map, complete campaign rereading or full factual certification",
+    "Existing spelling, identity, medical/ritual mechanics, inventory and listening issues remain open"
+  ],
+  "coverage": [
+    {
+      "path": "delvers/world/characters/alexandre-vanderbuck-withers.md",
+      "supported_horizon": "S3E12 first evacuation, alive/stable",
+      "later_evidence": "No named personal epilogue after rescue",
+      "retained_limit": "Survival is not acquittal, confession, property settlement or family reunion",
+      "primary_paragraphs_reviewed_this_audit": [
+        "S3E12:14"
+      ]
+    },
+    {
+      "path": "delvers/world/characters/ambermoor.md",
+      "supported_horizon": "S2E07 capture/farm; S2E08 retrospective Guild custody",
+      "later_evidence": "Truth-magic inquiry arranged, no result supplied",
+      "retained_limit": "No verdict, release, exact reagent recipient or island-wide safety",
+      "primary_paragraphs_reviewed_this_audit": []
+    },
+    {
+      "path": "delvers/world/characters/anthela-spiros.md",
+      "supported_horizon": "S3E10 detailed home scene; S3E12 completed family epilogue",
+      "later_evidence": "One-year family context and tower keepsake; creator protection commentary separate",
+      "retained_limit": "No new coma, biological immunity, relocation to farm tower or precise later health assessment",
+      "primary_paragraphs_reviewed_this_audit": [
+        "S3E10:7",
+        "S3E12:22-23"
+      ]
+    },
+    {
+      "path": "delvers/world/characters/barclay-vandergeist.md",
+      "supported_horizon": "S3E09 tree travel to Atomer",
+      "later_evidence": "S3E10 refers to badge effect, not a new guest scene",
+      "retained_limit": "No permanent recruitment, research-team reunion, proved badge mechanism or other-campaign Chance identity",
+      "primary_paragraphs_reviewed_this_audit": []
+    },
+    {
+      "path": "delvers/world/characters/broadside.md",
+      "supported_horizon": "S3E01 relief during Ball aftermath",
+      "later_evidence": "S3E02 Carrie recalls earlier incident",
+      "retained_limit": "No newly played cure-by-stabbing, new rank or final personal outcome",
+      "primary_paragraphs_reviewed_this_audit": [
+        "S3E02:31"
+      ]
+    },
+    {
+      "path": "delvers/world/characters/buck-broscale-wildfire.md",
+      "supported_horizon": "S3E12 first evacuation alive/stable",
+      "later_evidence": "No named recovery or family epilogue",
+      "retained_limit": "No willing service to Khalazar, exoneration or witnessed Valentine reunion",
+      "primary_paragraphs_reviewed_this_audit": [
+        "S3E12:14"
+      ]
+    },
+    {
+      "path": "delvers/world/characters/carrie-underworld.md",
+      "supported_horizon": "S3E06 last direct laboratory interaction",
+      "later_evidence": "Later detector use and earlier work references do not locate Carrie",
+      "retained_limit": "No final expedition role, promotion, post-campaign workshop or complete artifact custody",
+      "primary_paragraphs_reviewed_this_audit": [
+        "S3E07:22-23",
+        "S2E06:24"
+      ]
+    },
+    {
+      "path": "delvers/world/characters/cassius.md",
+      "supported_horizon": "S3E10 release/desk; S3E11 Darmah assignment",
+      "later_evidence": "S3E12 mission succeeds without a new named Cassius epilogue",
+      "retained_limit": "Practical restoration is not formal acquittal or a new Academy constitution",
+      "primary_paragraphs_reviewed_this_audit": []
+    },
+    {
+      "path": "delvers/world/characters/chad-brad.md",
+      "supported_horizon": "S3E12 second escape and inert bones at Guild",
+      "later_evidence": "Farm prosperity does not reverse farewell",
+      "retained_limit": "No living restoration, continuing animation or returned remains at crypt",
+      "primary_paragraphs_reviewed_this_audit": [
+        "S3E12:20-21"
+      ]
+    },
+    {
+      "path": "delvers/world/characters/cheet.md",
+      "supported_horizon": "S1E12 custody/disposition",
+      "later_evidence": "Broadside reports S2E06 clerical reassignment; S2E09 recalls it",
+      "retained_limit": "Reported work is not a witnessed Academy scene, completed rehabilitation or verdict",
+      "primary_paragraphs_reviewed_this_audit": [
+        "S2E06:21",
+        "S2E09:24"
+      ]
+    },
+    {
+      "path": "delvers/world/characters/chuck-abnaz.md",
+      "supported_horizon": "S3E01 bank-loot fencing agreement",
+      "later_evidence": "Family visits are earlier testimony; departure remains a promise",
+      "retained_limit": "No audited net cash, permanent rejoining, completed Kingdom journey or witnessed family abuse",
+      "primary_paragraphs_reviewed_this_audit": []
+    },
+    {
+      "path": "delvers/world/characters/darmah-edstream.md",
+      "supported_horizon": "S3E12 two completed circles and escape",
+      "later_evidence": "Knockdown in shared vision precedes actual second casting",
+      "retained_limit": "No invented revival step, lasting wound, extra child rescue or later appointment",
+      "primary_paragraphs_reviewed_this_audit": [
+        "S3E12:14,20"
+      ]
+    },
+    {
+      "path": "delvers/world/characters/destroying-angel.md",
+      "supported_horizon": "S3E05 rescue; S3E06 already departed by morning",
+      "later_evidence": "Later spa visits do not establish a return",
+      "retained_limit": "No exit scene/destination, signed Guild base charter or permanent membership",
+      "primary_paragraphs_reviewed_this_audit": []
+    },
+    {
+      "path": "delvers/world/characters/dumbledwark-of-raisinbunch.md",
+      "supported_horizon": "S3E04 direct expedition/exit",
+      "later_evidence": "S3E10 poster and letter; particular Cassius lead corroborated by release",
+      "retained_limit": "No full book publication, validation of every allegation or later bodily encounter",
+      "primary_paragraphs_reviewed_this_audit": [
+        "S3E10:7"
+      ]
+    },
+    {
+      "path": "delvers/world/characters/enzo-vanderbuck-withers.md",
+      "supported_horizon": "S1E06 diminished reflection after skull destruction",
+      "later_evidence": "S2 relic/history traces and S3 Dunes context, no new Enzo encounter",
+      "retained_limit": "No confirmed final death, consciousness continuation or automatic release by Khalazar's defeat",
+      "primary_paragraphs_reviewed_this_audit": []
+    },
+    {
+      "path": "delvers/world/characters/evelyn-grinkeeper.md",
+      "supported_horizon": "S3E12 survival and completed school/family year",
+      "later_evidence": "Separate invitation and sealed letter cinematic",
+      "retained_limit": "No performed marriage, proved groom identity, opened letter or mandated sequel",
+      "primary_paragraphs_reviewed_this_audit": [
+        "S3E12:22-23"
+      ]
+    },
+    {
+      "path": "delvers/world/characters/gentleman-cavalier-traveler.md",
+      "supported_horizon": "S3E01 portal departure",
+      "later_evidence": "S3E05 aboleth claim; S3E12 waiting and future invitation",
+      "retained_limit": "No confirmed release/reunion, completed wedding or identity resolution from GCT signature alone",
+      "primary_paragraphs_reviewed_this_audit": [
+        "S3E01:20",
+        "S3E05:25",
+        "S3E12:22-23"
+      ]
+    },
+    {
+      "path": "delvers/world/characters/gleepo-ma.md",
+      "supported_horizon": "S3E12 explicitly named working-farm epilogue",
+      "later_evidence": "Creator retrospect identifies earlier observers without backdating recognition",
+      "retained_limit": "No village pardon, restored shop, leadership or new contract rate",
+      "primary_paragraphs_reviewed_this_audit": [
+        "S3E12:22"
+      ]
+    },
+    {
+      "path": "delvers/world/characters/goggles-granny.md",
+      "supported_horizon": "S3E07 safe return to town",
+      "later_evidence": "S3E08 excludes prior guest; shop identity remains unresolved",
+      "retained_limit": "No official ancestry/class, permanent recruitment, completed town rescue or proved old-shop ownership",
+      "primary_paragraphs_reviewed_this_audit": [
+        "S3E08:3"
+      ]
+    },
+    {
+      "path": "delvers/world/characters/khalazar.md",
+      "supported_horizon": "S3E12 real-heart destruction and collapse",
+      "later_evidence": "Creator mechanics/art direction and defeat branches separate",
+      "retained_limit": "No active empire, played giant-golem fight, bodily return or automatic validation of all history/ancestry",
+      "primary_paragraphs_reviewed_this_audit": [
+        "S3E12:17,20-21"
+      ]
+    },
+    {
+      "path": "delvers/world/characters/koh-spiros.md",
+      "supported_horizon": "S3E12 survival and completed family/educator year",
+      "later_evidence": "Tower family image and retrospective design commentary separate",
+      "retained_limit": "No relocation to farm tower, full final item inventory or genetic immunity",
+      "primary_paragraphs_reviewed_this_audit": [
+        "S3E12:22-23"
+      ]
+    },
+    {
+      "path": "delvers/world/characters/krandal-splenderbelt.md",
+      "supported_horizon": "S3E12 survival and completed farm/healing year",
+      "later_evidence": "Tower rebuilt, wages/debts paid, Scroungy docile",
+      "retained_limit": "No marriage to Hissia, recovered missing fortnight or audited final employee roster",
+      "primary_paragraphs_reviewed_this_audit": [
+        "S3E12:22"
+      ]
+    },
+    {
+      "path": "delvers/world/characters/marek-gideon.md",
+      "supported_horizon": "S1E12 defeat and prospective Academy disposition",
+      "later_evidence": "S2E06 report and S2E09 removal references",
+      "retained_limit": "No performed transfer/trial, verdict, sentence, rehabilitation or restored office",
+      "primary_paragraphs_reviewed_this_audit": [
+        "S2E06:24",
+        "S2E09:24"
+      ]
+    },
+    {
+      "path": "delvers/world/characters/margaret-dupayton.md",
+      "supported_horizon": "S3E01 letters left at school",
+      "later_evidence": "S3E02 correspondence/request and observed pamphlets",
+      "retained_limit": "No separately witnessed later meeting, graduation or inference from Evelyn's school epilogue",
+      "primary_paragraphs_reviewed_this_audit": [
+        "S3E02:24,32"
+      ]
+    },
+    {
+      "path": "delvers/world/characters/marsh.md",
+      "supported_horizon": "S2E08 direct hunt; S2E09 retrospective kill/cart departure",
+      "later_evidence": "Later trophy mentions do not perform a guest return",
+      "retained_limit": "No new promotion, itemized equal hoard or completed future guest plan",
+      "primary_paragraphs_reviewed_this_audit": [
+        "S2E09:18"
+      ]
+    },
+    {
+      "path": "delvers/world/characters/masked-mage.md",
+      "supported_horizon": "S1E05 warning and exit",
+      "later_evidence": "No later identified direct return in descriptor routing",
+      "retained_limit": "Rank is Carrie testimony; no verified identity, conspiracy, alliance or antagonist classification",
+      "primary_paragraphs_reviewed_this_audit": []
+    },
+    {
+      "path": "delvers/world/characters/nopa-ropa.md",
+      "supported_horizon": "S3E12 Hissia rescue/reunion at Guild",
+      "later_evidence": "No later named personal epilogue",
+      "retained_limit": "No marriage, Snake Island return, continuing farm employment or explanation of forbidden love",
+      "primary_paragraphs_reviewed_this_audit": [
+        "S3E12:21"
+      ]
+    },
+    {
+      "path": "delvers/world/characters/penelope-spiros.md",
+      "supported_horizon": "S3E10 detailed home scene; S3E12 completed family context",
+      "later_evidence": "Tower image is a keepsake; hoof design is creator context",
+      "retained_limit": "No physical attendance at tower scene, new school/career/powers or relocation",
+      "primary_paragraphs_reviewed_this_audit": [
+        "S3E10:7",
+        "S3E12:22-23"
+      ]
+    },
+    {
+      "path": "delvers/world/characters/princess-hissia.md",
+      "supported_horizon": "S3E12 identified rescue, awakening and Nopa reunion",
+      "later_evidence": "Earlier sighting/location testimony superseded by actual rescue",
+      "retained_limit": "No completed marriage, later residence or recovered Snake Island history",
+      "primary_paragraphs_reviewed_this_audit": [
+        "S3E12:21"
+      ]
+    },
+    {
+      "path": "delvers/world/characters/radiant-lance.md",
+      "supported_horizon": "S3E08 psychic fading and physical remains",
+      "later_evidence": "Later radiant-lance combat refers to Loran's weapon",
+      "retained_limit": "No bodily resurrection, verified afterlife destination, exact date or extra tabard attunement",
+      "primary_paragraphs_reviewed_this_audit": [
+        "S3E12:13"
+      ]
+    },
+    {
+      "path": "delvers/world/characters/shaolin-nym.md",
+      "supported_horizon": "S3E11 gate opening and physical dust",
+      "later_evidence": "S3E12 historical ritual vision, not new bodily encounter",
+      "retained_limit": "No revival, independent history/ancestry proof or separately shown wrist-blood application",
+      "primary_paragraphs_reviewed_this_audit": [
+        "S3E12:17"
+      ]
+    },
+    {
+      "path": "delvers/world/characters/shrugs-manaspoon.md",
+      "supported_horizon": "S2E05 smoke departure with bag/box left behind",
+      "later_evidence": "S2E06 heist/fire recollection, not a new guest scene",
+      "retained_limit": "No paid guest share, exact dynamite count, retained bag or reassigned arson",
+      "primary_paragraphs_reviewed_this_audit": [
+        "S2E06:23"
+      ]
+    },
+    {
+      "path": "delvers/world/characters/skoogie.md",
+      "supported_horizon": "S2E08 direct hunt; S2E09 retrospective survival/village departure",
+      "later_evidence": "Later dragon trophy context not a new meeting",
+      "retained_limit": "No confirmed restored rule, coronation, lasting friendship oath or imposed gender certainty",
+      "primary_paragraphs_reviewed_this_audit": [
+        "S2E09:18"
+      ]
+    },
+    {
+      "path": "delvers/world/characters/the-great-daufante.md",
+      "supported_horizon": "S2E02 departure; S2E03 confirms deck taken",
+      "later_evidence": "Invitation and hypothetical future plans remain offers",
+      "retained_limit": "No drawn card, performed theatre visit, hidden divine motive or completed romance",
+      "primary_paragraphs_reviewed_this_audit": [
+        "S2E03:18"
+      ]
+    },
+    {
+      "path": "delvers/world/characters/veggie-sticks.md",
+      "supported_horizon": "S3E09 transport to Atlas cedar by Atomer well",
+      "later_evidence": "S3E10 general Guild tracking admission, not a new Veggie scene",
+      "retained_limit": "No later forest return, proved badge retrieval, full-time Guild service or permanent forest safety",
+      "primary_paragraphs_reviewed_this_audit": []
+    }
+  ],
+  "biography_rewrites": 0,
+  "preservation": "All 35 character and 27 place profiles protected unchanged; five control/inventory originals preserved",
+  "register": "project/DELVERS_CHARACTER_DISPOSITIONS.json"
+}

@@ -1,0 +1,15 @@
+# Koh's red-crystal sensory amulet — Khalazar-compulsion detector
+
+**Current status through [Delvers S3E02](../../../../../../../delvers/episodes/S3E02.md), ASR-provisional:** Created by **Carrie Underworld** during the played three-month post-Bronze-Ball montage, **physically transferred to Koh Spiros**, and subsequently **ACTUALLY upgraded with a directional pinpoint by Carrie and druid Veggie Sticks/Virgil Strix**. Its original range, total reach, precise immunities and response to Khalazar himself are unknown. **Do not treat as a universal divination device**.
+
+## Creation and witnessed form
+
+Carrie reports that **Evelyn handed her the red crystal taken from Khalazar's dream-shade after the earlier psychic rescue**; she embeds it with **consensually drawn Anathala blood** in a **large curved red crystal dome set on an orange-sized gold disc**, originally hanging from a long gold chain that would fall near Koh's belly. It glows red in the presence of some people under Khalazar's control. Carrie's claim that **Anathala likely descends from the ancient Dolbluth elves** is **a research hypothesis**, not independently proved heritage or specific ritual history. Anathala herself is awake and nearby when the device is dark.
+
+Carrie demonstrates detection by briefly opening the door to affected people at **Pelor's temple**. The exact detection range is not calibrated. At **~01:03–01:09 of S3E02**, while Koh stands by his threatened home, the amulet **actually lights up**; he locates a frenzied elf digging in alley soil and renders the elf unconscious using a **nonlethal psychic-blade strike**. The amulet **immediately stops glowing** upon the knockout. The elf **later physically wakes lucid** at the temple after several hours, without Koh/Krandal entering his dream. This is **one shallow active-compulsion example** and not grounds to rewrite Anathala's prior prolonged coma or all other victims' treatment.
+
+Koh **has the detector physically mounted on a glove/gauntlet with a small concealing flap** (ordinary craftsmanship) so he can see the light or cover it, rather than dangling it at his chest. Later he persuades **Veggie Sticks** to visit Carrie and **they actually add a gold pinpoint which indicates a rough DIRECTION of the sensed presence**; this is a played improvement, not merely a proposed future enchantment. Veggie Sticks returns to the woods, while **Koh keeps the completed item**.
+
+**Unresolved continuity:** Carrie explicitly credits Evelyn's red-shard handoff, matching S2E10 but **not explaining why S2E11 still depicts Evelyn showing a red gem later**. The shard's quantity and exact transfer path between episodes need source/audio review. Carrie's bloodline research is tentative. Whether unconsciousness always extinguishes signal, whether non-elves trigger it, and actual pinpoint precision remain unproven.
+
+[^source]: [Delvers S3E02 source-first dossier](../../../../../../../delvers/episodes/S3E02.md), approximately 00:46–00:52, 01:03–01:10, 01:53–02:00 and 02:38–02:41; [comparison report](../../../../../../../reports/DELVERS_S3E02_ASR_COMPARISON_2026-10-25.md). No original MP3 heard.

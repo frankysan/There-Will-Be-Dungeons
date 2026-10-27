@@ -1,0 +1,451 @@
+{
+  "date": "2026-10-27",
+  "local_file_and_fragment_links": 1899,
+  "maintained_inbound_links": 337,
+  "former_headings_preserved": 0,
+  "exact_original_hashes": 5,
+  "reading_copy_target_equivalence": 5,
+  "explicit_reading_copy_link_corrections": 0,
+  "protected_hashes": 321,
+  "measurements": [
+    {
+      "path": "delvers/world/characters/alexandre-vanderbuck-withers.md",
+      "main_words": 510,
+      "arc_words": [
+        107,
+        196,
+        105
+      ],
+      "largest_arc_to_median": 1.832,
+      "footnotes": 9,
+      "anchors": 13
+    },
+    {
+      "path": "delvers/world/characters/ambermoor.md",
+      "main_words": 286,
+      "arc_words": [
+        224
+      ],
+      "largest_arc_to_median": 1.0,
+      "footnotes": 6,
+      "anchors": 10
+    },
+    {
+      "path": "delvers/world/characters/anthela-spiros.md",
+      "main_words": 551,
+      "arc_words": [
+        88,
+        213,
+        133
+      ],
+      "largest_arc_to_median": 1.602,
+      "footnotes": 8,
+      "anchors": 16
+    },
+    {
+      "path": "delvers/world/characters/barclay-vandergeist.md",
+      "main_words": 290,
+      "arc_words": [
+        216
+      ],
+      "largest_arc_to_median": 1.0,
+      "footnotes": 5,
+      "anchors": 8
+    },
+    {
+      "path": "delvers/world/characters/broadside.md",
+      "main_words": 424,
+      "arc_words": [
+        202,
+        85,
+        51
+      ],
+      "largest_arc_to_median": 2.376,
+      "footnotes": 8,
+      "anchors": 9
+    },
+    {
+      "path": "delvers/world/characters/buck-broscale-wildfire.md",
+      "main_words": 529,
+      "arc_words": [
+        163,
+        173,
+        97
+      ],
+      "largest_arc_to_median": 1.061,
+      "footnotes": 10,
+      "anchors": 14
+    },
+    {
+      "path": "delvers/world/characters/carrie-underworld.md",
+      "main_words": 581,
+      "arc_words": [
+        175,
+        146,
+        148
+      ],
+      "largest_arc_to_median": 1.182,
+      "footnotes": 9,
+      "anchors": 15
+    },
+    {
+      "path": "delvers/world/characters/cassius.md",
+      "main_words": 648,
+      "arc_words": [
+        195,
+        187,
+        150
+      ],
+      "largest_arc_to_median": 1.043,
+      "footnotes": 10,
+      "anchors": 19
+    },
+    {
+      "path": "delvers/world/characters/chad-brad.md",
+      "main_words": 410,
+      "arc_words": [
+        166,
+        176
+      ],
+      "largest_arc_to_median": 1.029,
+      "footnotes": 7,
+      "anchors": 8
+    },
+    {
+      "path": "delvers/world/characters/cheet.md",
+      "main_words": 324,
+      "arc_words": [
+        197,
+        51
+      ],
+      "largest_arc_to_median": 1.589,
+      "footnotes": 6,
+      "anchors": 7
+    },
+    {
+      "path": "delvers/world/characters/chuck-abnaz.md",
+      "main_words": 335,
+      "arc_words": [
+        212,
+        49
+      ],
+      "largest_arc_to_median": 1.625,
+      "footnotes": 6,
+      "anchors": 8
+    },
+    {
+      "path": "delvers/world/characters/darmah-edstream.md",
+      "main_words": 284,
+      "arc_words": [
+        36,
+        199
+      ],
+      "largest_arc_to_median": 1.694,
+      "footnotes": 5,
+      "anchors": 8
+    },
+    {
+      "path": "delvers/world/characters/destroying-angel.md",
+      "main_words": 266,
+      "arc_words": [
+        186
+      ],
+      "largest_arc_to_median": 1.0,
+      "footnotes": 4,
+      "anchors": 8
+    },
+    {
+      "path": "delvers/world/characters/dumbledwark-of-raisinbunch.md",
+      "main_words": 309,
+      "arc_words": [
+        228
+      ],
+      "largest_arc_to_median": 1.0,
+      "footnotes": 5,
+      "anchors": 9
+    },
+    {
+      "path": "delvers/world/characters/enzo-vanderbuck-withers.md",
+      "main_words": 406,
+      "arc_words": [
+        234,
+        67
+      ],
+      "largest_arc_to_median": 1.555,
+      "footnotes": 7,
+      "anchors": 9
+    },
+    {
+      "path": "delvers/world/characters/evelyn-grinkeeper.md",
+      "main_words": 938,
+      "arc_words": [
+        238,
+        256,
+        249
+      ],
+      "largest_arc_to_median": 1.028,
+      "footnotes": 15,
+      "anchors": 48
+    },
+    {
+      "path": "delvers/world/characters/gentleman-cavalier-traveler.md",
+      "main_words": 428,
+      "arc_words": [
+        190,
+        104
+      ],
+      "largest_arc_to_median": 1.293,
+      "footnotes": 6,
+      "anchors": 10
+    },
+    {
+      "path": "delvers/world/characters/gleepo-ma.md",
+      "main_words": 463,
+      "arc_words": [
+        148,
+        111,
+        117
+      ],
+      "largest_arc_to_median": 1.265,
+      "footnotes": 8,
+      "anchors": 9
+    },
+    {
+      "path": "delvers/world/characters/goggles-granny.md",
+      "main_words": 272,
+      "arc_words": [
+        197
+      ],
+      "largest_arc_to_median": 1.0,
+      "footnotes": 5,
+      "anchors": 7
+    },
+    {
+      "path": "delvers/world/characters/khalazar.md",
+      "main_words": 493,
+      "arc_words": [
+        199,
+        214
+      ],
+      "largest_arc_to_median": 1.036,
+      "footnotes": 10,
+      "anchors": 21
+    },
+    {
+      "path": "delvers/world/characters/koh-spiros.md",
+      "main_words": 965,
+      "arc_words": [
+        220,
+        256,
+        270
+      ],
+      "largest_arc_to_median": 1.055,
+      "footnotes": 11,
+      "anchors": 51
+    },
+    {
+      "path": "delvers/world/characters/krandal-splenderbelt.md",
+      "main_words": 966,
+      "arc_words": [
+        245,
+        260,
+        262
+      ],
+      "largest_arc_to_median": 1.008,
+      "footnotes": 16,
+      "anchors": 50
+    },
+    {
+      "path": "delvers/world/characters/marek-gideon.md",
+      "main_words": 307,
+      "arc_words": [
+        200
+      ],
+      "largest_arc_to_median": 1.0,
+      "footnotes": 5,
+      "anchors": 7
+    },
+    {
+      "path": "delvers/world/characters/margaret-dupayton.md",
+      "main_words": 490,
+      "arc_words": [
+        145,
+        158,
+        71
+      ],
+      "largest_arc_to_median": 1.09,
+      "footnotes": 7,
+      "anchors": 12
+    },
+    {
+      "path": "delvers/world/characters/marsh.md",
+      "main_words": 259,
+      "arc_words": [
+        173
+      ],
+      "largest_arc_to_median": 1.0,
+      "footnotes": 5,
+      "anchors": 9
+    },
+    {
+      "path": "delvers/world/characters/masked-mage.md",
+      "main_words": 173,
+      "arc_words": [
+        110
+      ],
+      "largest_arc_to_median": 1.0,
+      "footnotes": 3,
+      "anchors": 6
+    },
+    {
+      "path": "delvers/world/characters/nopa-ropa.md",
+      "main_words": 365,
+      "arc_words": [
+        260
+      ],
+      "largest_arc_to_median": 1.0,
+      "footnotes": 6,
+      "anchors": 7
+    },
+    {
+      "path": "delvers/world/characters/penelope-spiros.md",
+      "main_words": 323,
+      "arc_words": [
+        60,
+        102,
+        72
+      ],
+      "largest_arc_to_median": 1.417,
+      "footnotes": 7,
+      "anchors": 9
+    },
+    {
+      "path": "delvers/world/characters/princess-hissia.md",
+      "main_words": 406,
+      "arc_words": [
+        138,
+        158
+      ],
+      "largest_arc_to_median": 1.068,
+      "footnotes": 6,
+      "anchors": 11
+    },
+    {
+      "path": "delvers/world/characters/radiant-lance.md",
+      "main_words": 292,
+      "arc_words": [
+        66,
+        144
+      ],
+      "largest_arc_to_median": 1.371,
+      "footnotes": 3,
+      "anchors": 8
+    },
+    {
+      "path": "delvers/world/characters/shaolin-nym.md",
+      "main_words": 266,
+      "arc_words": [
+        195
+      ],
+      "largest_arc_to_median": 1.0,
+      "footnotes": 4,
+      "anchors": 6
+    },
+    {
+      "path": "delvers/world/characters/shrugs-manaspoon.md",
+      "main_words": 282,
+      "arc_words": [
+        215
+      ],
+      "largest_arc_to_median": 1.0,
+      "footnotes": 5,
+      "anchors": 7
+    },
+    {
+      "path": "delvers/world/characters/skoogie.md",
+      "main_words": 243,
+      "arc_words": [
+        168
+      ],
+      "largest_arc_to_median": 1.0,
+      "footnotes": 5,
+      "anchors": 8
+    },
+    {
+      "path": "delvers/world/characters/the-great-daufante.md",
+      "main_words": 312,
+      "arc_words": [
+        218
+      ],
+      "largest_arc_to_median": 1.0,
+      "footnotes": 6,
+      "anchors": 8
+    },
+    {
+      "path": "delvers/world/characters/veggie-sticks.md",
+      "main_words": 387,
+      "arc_words": [
+        157,
+        146
+      ],
+      "largest_arc_to_median": 1.036,
+      "footnotes": 5,
+      "anchors": 10
+    }
+  ],
+  "errors": [],
+  "limits": [
+    "Bounded intro/status/status-note and arc-topic review; no fresh full-body reread of every biography",
+    "Alias candidates and absent literal matches are routing, not identity proof or proof of absence",
+    "Selected primary paragraph checks, not complete campaign factual certification",
+    "No new ASR, audio, original sheet/art/map, remote URL or rendered-site review"
+  ],
+  "markdownlint": {
+    "maintained_files": 40,
+    "violations": 0
+  },
+  "whitespace": {
+    "scoped_git_diff_check": "passed",
+    "direct_new_file_check": "passed"
+  },
+  "bounded_review": {
+    "paths": 35,
+    "method": "All introductions, full Current status and linked status-note read; paragraph-opening topics sampled in every arc; complete Broadside main prose read for balance diagnostic",
+    "rows_with_selected_primary_paragraph_checks": 27,
+    "complete_biography_rereading_claimed": false,
+    "full_factual_certification": false,
+    "new_ASR_audio_art_map_sheet_review": false
+  },
+  "balance_review": {
+    "method": "Diagnostic main-prose arc counts; compare substantive phases, not brief later references",
+    "flagged_diagnostic": "Broadside raw largest-arc/median 2.376",
+    "readback": "Complete Broadside main prose reread: 202-word mercy/amends phase versus 85-word ordinary-work phase and 51-word aftermath. Later phases have fewer distinct developments, so no padding or cut required."
+  },
+  "protected_groups": {
+    "campaign_files": 217,
+    "prior_batch_artifacts": 94,
+    "bonus_provenance_documents": 10
+  },
+  "character_register": {
+    "paths": 35,
+    "matching_hashes": 35,
+    "biographies_changed": 0,
+    "all_alias_candidates_replayed": true,
+    "primary_paragraph_references_valid": true,
+    "prior_coverage_paths_valid": true,
+    "register_sha256": "8d2af649ed6f67ffa07dee393e663b323661c92f806851597caf24d7fe595539"
+  },
+  "character_inventory": {
+    "paths": 35,
+    "matching_hashes": 35,
+    "prior_inventory_archived": true,
+    "prior_inventory_json_equivalent": true,
+    "inventory_sha256": "6dba37f6c3562c40926e5249546f3566a251e847d8b59608b1c3de1d36db7783"
+  },
+  "preserved_place_register": {
+    "pages": 27,
+    "matching_page_hashes": 27,
+    "register_protected": true
+  },
+  "working_tree_context": "Existing cleanup/control changes and unrelated work preserved; no commit or push by this task."
+}

@@ -2,7 +2,7 @@
 
 **Browse:** [Places](../PLACES.md) · [World portal](../README.md)
 
-**Type:** Important origin setting in Nash Maggard's background. **Evidence:** Character statements, retrospective accounts and later research; **not** a fully played historical side adventure. **Spoilers:** Played Wastes through S3E10 (plus identified out-of-game retrospectives).
+**Type:** Important origin setting in Nash Maggard's background. **Evidence:** Character statements, retrospective accounts and later research; **not** a fully played historical side adventure. **Spoilers:** Played Wastes through S3E11 (plus identified out-of-game retrospectives).
 
 **Nash** describes captivity, survival and resistance connected with the **Solar Mines** and **Blood Canyons**. His descriptions develop across the campaign and include memories that seem contradictory; they should be presented as the state of Nash's own recollections and others' testimony, not a reconstructed omniscient history. His implanted **dragon-metal heart** and later dragon forms are observed, but the exact circumstances of implantation require careful source distinction. [E000](../../episodes/E000.md) · [E024](../../episodes/E024.md) · [Nash](../characters/nash-maggard.md).
 
@@ -13,6 +13,10 @@ In the [September 2020 public-release Q&A](../../episodes/BONUS-2020-09.md), **~
 ## December 2021 creator explanation — missing context, not new reconnaissance
 
 During the [December 2021 bonus ~00:03–00:07](../../episodes/BONUS-2021-12.md), **Beau** says he has intentionally developed a link between **the Principle, Nash's dragon-metal heart and the Solar Mines**. He emphasizes the difference between **what Nash remembers as an exploited child and what the mines actually involved**, leaving unknown aspects to be discovered. Scott says Nash escaped with **one other individual** whose later whereabouts have not been revealed; Scott wonders whether the guards could have since upgraded **Slow Peters**, but **Beau does not confirm any specific upgrades, present garrison or ongoing operating procedures**. These are **out-of-game creator context and player conjecture**, not additional played travel, a newly revealed escapee identity or witnessed past footage. [P/Q audit](../../reports/BONUS_2021-12_ASR_COMPARISON_2026-10-26.md).
+
+## S3E11 — vertical lava core actually reached, Principal confronted, Ruby left behind
+
+In [played S3E11](../../episodes/S3E11.md), formerly CLOSED **DOOR AUTHORITY METAL DOOR ACTUALLY OPENS** after reporting “father” paid Nash's old fines. After ~10-minute descent through CHANTING HEAD CAVERN, **ORIGINAL FOUR PHYSICALLY ENTER CENTRAL LAVA-LAKE CHAMBER**, see **VERTICAL HOT LAVA BEAM, stone bridge, four robed DRAGONSONS chanting and PRINCIPLE AT LARGE DESK**. The PRINCIPLE and GM state this is **EARTH'S HOTTEST POINT**, the ACTUAL planned Ruby placement/CHROMING ritual; Principle REALLY TALKS with NASH and his companions, claims engineered Nash/time loops/universal chrome destiny (INTERESTED NPC TESTIMONY). **COMPLETE RUBISTIC TRIANGULOSPHERE IS PHYSICALLY IN CHAMBER, protected/hovering in *OTILUKE'S RESILIENT SPHERE***; despite contemplated deposition, the heroes **DO NOT PLACE IT INTO LAVA**. After temporary **CEASEFIRE and EIGHT-HOUR GENUINE LONG REST IN GUEST CAVE** (Nana Truffled and food, morning Stanley *HEROES' FEAST*), **HOPE RECEIVES CHARGED HOLLOW RING FROM PRINCIPLE and ACTUALLY GATES FOUR HEROES+PRINCIPLE TO CHÂTEAU WEIR**, closes gate. **RUBY PHYSICALLY REMAINS IN SOLAR MINES MAIN CORE CHAMBER, dragonsons nearby, HOPE RETAINS REMOTE**; NO demonstrated device sabotage, activation, Weir cure or chrome. [S3E11 report](../../reports/WASTES_S3E11_ASR_COMPARISON_2026-10-27.md).
 
 ## S3E10 — mine-cart infrastructure, labor massacre, conditioning school and chanting head gate
 

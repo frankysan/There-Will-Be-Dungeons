@@ -1,0 +1,1160 @@
+{
+  "date": "2026-10-27",
+  "scope": "All current Delvers character-directory Markdown paths; structural inventory and coverage mentions only",
+  "counts": {
+    "paths": 35,
+    "presentation_structure_ready_for_audit": 35,
+    "requires_migration": 0
+  },
+  "pending": [],
+  "limits": [
+    "Only Khalazar received a new complete profile and selected source-paragraph review in this checkpoint",
+    "Other character pages were mechanically inventoried, not newly accepted factually",
+    "Source links are linked dossiers, not certified latest direct observations",
+    "Coverage mentions do not independently certify historical acceptance or full factual review",
+    "No new audio, art, map, sheet or full-campaign review",
+    "All 35 now have the expected presentation structure; the character-wide coverage audit remains pending"
+  ],
+  "next_step": "Character-wide coverage audit, then remaining world domains",
+  "pages": [
+    {
+      "path": "delvers/world/characters/alexandre-vanderbuck-withers.md",
+      "sha256": "a9c997c79eb30e8821e7956a7425021742d64266818a8d5b060826fc3ca2e6f9",
+      "h1": "Alexandre Vanderbuck Withers \u2014 claimant of Skull Keep",
+      "main_sections": [
+        "Introduction",
+        "Development by arc",
+        "Current status"
+      ],
+      "arc_headings": [
+        "Arc One \u2014 Family property and guarded knowledge",
+        "Arc Two \u2014 A benefactor under suspicion",
+        "Arc Three \u2014 From missing patron to captive"
+      ],
+      "footnotes": 9,
+      "source_dossiers_linked": [
+        "S1E06",
+        "S2E03",
+        "S2E04",
+        "S2E05",
+        "S2E06",
+        "S2E12",
+        "S3E11",
+        "S3E12"
+      ],
+      "coverage_mentions": [
+        "project/DELVERS_WILDFIRE_WITHERS_COVERAGE.json"
+      ],
+      "structural_flags": [],
+      "disposition": "presentation-structure-ready-for-audit",
+      "factual_acceptance": "Not certified by this inventory"
+    },
+    {
+      "path": "delvers/world/characters/ambermoor.md",
+      "sha256": "987395d7809712fd7aaf088df8662e0b84b9aeb2ed0594cf0a28d4417d4c422e",
+      "h1": "Ambermoor \u2014 Gemholm operations manager and experimenter",
+      "main_sections": [
+        "Introduction",
+        "Development by arc",
+        "Current status"
+      ],
+      "arc_headings": [
+        "Arc Two \u2014 Experimental ambition brought into custody"
+      ],
+      "footnotes": 6,
+      "source_dossiers_linked": [
+        "S2E06",
+        "S2E07",
+        "S2E08"
+      ],
+      "coverage_mentions": [
+        "project/DELVERS_CHUCK_AMBERMOOR_COVERAGE.json"
+      ],
+      "structural_flags": [],
+      "disposition": "presentation-structure-ready-for-audit",
+      "factual_acceptance": "Not certified by this inventory"
+    },
+    {
+      "path": "delvers/world/characters/anthela-spiros.md",
+      "sha256": "83aa6f76c406b9ff951758f040a2dc6e9e11396755b2fae82def8cc9643d9265",
+      "h1": "Anathala / Anthela Spiros \u2014 Koh's rescued wife",
+      "main_sections": [
+        "Introduction",
+        "Development by arc",
+        "Current status"
+      ],
+      "arc_headings": [
+        "Arc One \u2014 A voice behind the silence",
+        "Arc Two \u2014 Recognition, recovery and renewed danger",
+        "Arc Three \u2014 A life resumed with fears still present"
+      ],
+      "footnotes": 8,
+      "source_dossiers_linked": [
+        "S1E03",
+        "S1E05",
+        "S1E09",
+        "S1E10",
+        "S2E06",
+        "S2E08",
+        "S2E09",
+        "S2E10",
+        "S2E11",
+        "S2E12",
+        "S3E01",
+        "S3E02",
+        "S3E03",
+        "S3E06",
+        "S3E08",
+        "S3E10",
+        "S3E12"
+      ],
+      "coverage_mentions": [
+        "project/DELVERS_SPIROS_FAMILY_COVERAGE.json"
+      ],
+      "structural_flags": [],
+      "disposition": "presentation-structure-ready-for-audit",
+      "factual_acceptance": "Not certified by this inventory"
+    },
+    {
+      "path": "delvers/world/characters/barclay-vandergeist.md",
+      "sha256": "ef5541b1048d5c2e4511088c2238dda6276caeb27da23f6136d333f09da42813",
+      "h1": "Barclay Vandergeist / Bendergeist \u2014 guest tortle cleric",
+      "main_sections": [
+        "Introduction",
+        "Development by arc",
+        "Current status"
+      ],
+      "arc_headings": [
+        "Arc Three \u2014 A solitary researcher finds companions"
+      ],
+      "footnotes": 5,
+      "source_dossiers_linked": [
+        "S3E09",
+        "S3E10"
+      ],
+      "coverage_mentions": [
+        "project/DELVERS_BARCLAY_RADIANT_COVERAGE.json"
+      ],
+      "structural_flags": [],
+      "disposition": "presentation-structure-ready-for-audit",
+      "factual_acceptance": "Not certified by this inventory"
+    },
+    {
+      "path": "delvers/world/characters/broadside.md",
+      "sha256": "4ea6b2464432d9acbc684773f6f604346a3ded088a19724fd5df1bf068e8ef8d",
+      "h1": "Broadside \u2014 the familiar face beneath the armor",
+      "main_sections": [
+        "Introduction",
+        "Development by arc",
+        "Current status"
+      ],
+      "arc_headings": [
+        "Arc One \u2014 Mercy and a chance to make amends",
+        "Arc Two \u2014 Ordinary work and renewed danger",
+        "Arc Three \u2014 Helping despite the sound"
+      ],
+      "footnotes": 8,
+      "source_dossiers_linked": [
+        "S1E11",
+        "S1E12",
+        "S2E06",
+        "S2E09",
+        "S2E10",
+        "S2E12",
+        "S3E01",
+        "S3E02",
+        "S3E12"
+      ],
+      "coverage_mentions": [
+        "project/DELVERS_BROADSIDE_CHEET_COVERAGE.json"
+      ],
+      "structural_flags": [],
+      "disposition": "presentation-structure-ready-for-audit",
+      "factual_acceptance": "Not certified by this inventory"
+    },
+    {
+      "path": "delvers/world/characters/buck-broscale-wildfire.md",
+      "sha256": "80b4166c77017fd72c9bc2f0cdb62e3491b180fbe25887da4a321bd2edb21433",
+      "h1": "Buck Broscale, called Wildfire \u2014 psionic mentor",
+      "main_sections": [
+        "Introduction",
+        "Development by arc",
+        "Current status"
+      ],
+      "arc_headings": [
+        "Arc One \u2014 Grief and a demanding mentorship",
+        "Arc Two \u2014 The mentor as assessor and patron's defender",
+        "Arc Three \u2014 A captive needing rescue"
+      ],
+      "footnotes": 10,
+      "source_dossiers_linked": [
+        "S1E05",
+        "S1E07",
+        "S2E06",
+        "S2E09",
+        "S2E12",
+        "S3E10",
+        "S3E11",
+        "S3E12"
+      ],
+      "coverage_mentions": [
+        "project/DELVERS_WILDFIRE_WITHERS_COVERAGE.json"
+      ],
+      "structural_flags": [],
+      "disposition": "presentation-structure-ready-for-audit",
+      "factual_acceptance": "Not certified by this inventory"
+    },
+    {
+      "path": "delvers/world/characters/carrie-underworld.md",
+      "sha256": "0da5d2935c22c871b6f89e06ca05b15069e09328c641cb3b9c6251ecf03871b9",
+      "h1": "Carrie Underworld \u2014 artificer of the guild",
+      "main_sections": [
+        "Introduction",
+        "Development by arc",
+        "Current status"
+      ],
+      "arc_headings": [
+        "Arc One \u2014 Curiosity brought into the field",
+        "Arc Two \u2014 Research in service of a family",
+        "Arc Three \u2014 Useful experiments and quiet support"
+      ],
+      "footnotes": 9,
+      "source_dossiers_linked": [
+        "S1E05",
+        "S1E09",
+        "S2E00",
+        "S2E06",
+        "S2E09",
+        "S2E10",
+        "S2E11",
+        "S2E12",
+        "S3E02",
+        "S3E06",
+        "S3E07",
+        "S3E12"
+      ],
+      "coverage_mentions": [
+        "project/DELVERS_CASSIUS_CARRIE_COVERAGE.json"
+      ],
+      "structural_flags": [],
+      "disposition": "presentation-structure-ready-for-audit",
+      "factual_acceptance": "Not certified by this inventory"
+    },
+    {
+      "path": "delvers/world/characters/cassius.md",
+      "sha256": "c7fedc6ccf5f7a68157990397f9be5c84eb57278d79c9a0560b1ad58c71492fa",
+      "h1": "Cassius \u2014 guildmaster of Atomer",
+      "main_sections": [
+        "Introduction",
+        "Development by arc",
+        "Current status"
+      ],
+      "arc_headings": [
+        "Arc One \u2014 Responsibility under pressure",
+        "Arc Two \u2014 Suspicion and compromised methods",
+        "Arc Three \u2014 Confinement and a return to action"
+      ],
+      "footnotes": 10,
+      "source_dossiers_linked": [
+        "S1E01",
+        "S1E04",
+        "S1E05",
+        "S1E07",
+        "S1E09",
+        "S1E12",
+        "S2E00",
+        "S2E01",
+        "S2E03",
+        "S2E04",
+        "S2E06",
+        "S2E09",
+        "S2E10",
+        "S2E11",
+        "S2E12",
+        "S3E01",
+        "S3E02",
+        "S3E03",
+        "S3E10",
+        "S3E11",
+        "S3E12"
+      ],
+      "coverage_mentions": [
+        "project/DELVERS_CASSIUS_CARRIE_COVERAGE.json"
+      ],
+      "structural_flags": [],
+      "disposition": "presentation-structure-ready-for-audit",
+      "factual_acceptance": "Not certified by this inventory"
+    },
+    {
+      "path": "delvers/world/characters/chad-brad.md",
+      "sha256": "e4952627b7c59f74aa68aee64300c4443fff3449a991af2cec3b7f2d25cdfbf5",
+      "h1": "Chad Brad \u2014 cursed skeletal minotaur and Krandal's farm companion",
+      "main_sections": [
+        "Introduction",
+        "Development by arc",
+        "Current status"
+      ],
+      "arc_headings": [
+        "Arc Two \u2014 An enemy becomes the farm's watchman",
+        "Arc Three \u2014 A body, a choice and a farewell"
+      ],
+      "footnotes": 7,
+      "source_dossiers_linked": [
+        "S2E01",
+        "S2E03",
+        "S2E06",
+        "S2E09",
+        "S2E11",
+        "S3E01",
+        "S3E02",
+        "S3E03",
+        "S3E08",
+        "S3E10",
+        "S3E11",
+        "S3E12"
+      ],
+      "coverage_mentions": [
+        "project/DELVERS_VEGGIE_CHAD_COVERAGE.json"
+      ],
+      "structural_flags": [],
+      "disposition": "presentation-structure-ready-for-audit",
+      "factual_acceptance": "Not certified by this inventory"
+    },
+    {
+      "path": "delvers/world/characters/cheet.md",
+      "sha256": "19ee62d3a25073ff342db9fda039cb8ed8b7143f168ae79bcfbce453f95ba580",
+      "h1": "Cheet \u2014 a cleric's dangerous curiosity",
+      "main_sections": [
+        "Introduction",
+        "Development by arc",
+        "Current status"
+      ],
+      "arc_headings": [
+        "Arc One \u2014 Curiosity, captivity and judgment",
+        "Arc Two \u2014 A reported reassignment"
+      ],
+      "footnotes": 6,
+      "source_dossiers_linked": [
+        "S1E11",
+        "S1E12",
+        "S2E06",
+        "S2E09",
+        "S3E12"
+      ],
+      "coverage_mentions": [
+        "project/DELVERS_BROADSIDE_CHEET_COVERAGE.json"
+      ],
+      "structural_flags": [],
+      "disposition": "presentation-structure-ready-for-audit",
+      "factual_acceptance": "Not certified by this inventory"
+    },
+    {
+      "path": "delvers/world/characters/chuck-abnaz.md",
+      "sha256": "4b5acacac8cc99b2744025402e3b3e47261b74d36cf0fee0bf890f466711edf3",
+      "h1": "Chuck Abnaz \u2014 Nasty of the Cloven Brotherhood",
+      "main_sections": [
+        "Introduction",
+        "Development by arc",
+        "Current status"
+      ],
+      "arc_headings": [
+        "Arc Two \u2014 Help made into leverage",
+        "Arc Three \u2014 Continued business under conditions"
+      ],
+      "footnotes": 6,
+      "source_dossiers_linked": [
+        "S2E01",
+        "S2E03",
+        "S2E04",
+        "S2E05",
+        "S2E09",
+        "S2E11",
+        "S3E01"
+      ],
+      "coverage_mentions": [
+        "project/DELVERS_CHUCK_AMBERMOOR_COVERAGE.json"
+      ],
+      "structural_flags": [],
+      "disposition": "presentation-structure-ready-for-audit",
+      "factual_acceptance": "Not certified by this inventory"
+    },
+    {
+      "path": "delvers/world/characters/darmah-edstream.md",
+      "sha256": "a80c98cc7975f059b5a3a2933ede5fc7eb310fb82b2360022d865d464af510ee",
+      "h1": "Darmah Edstream \u2014 Five Emissaries rescue wizard",
+      "main_sections": [
+        "Introduction",
+        "Development by arc",
+        "Current status"
+      ],
+      "arc_headings": [
+        "Arc One \u2014 An emphatic demonstration",
+        "Arc Three \u2014 Firepower placed at the service of rescue"
+      ],
+      "footnotes": 5,
+      "source_dossiers_linked": [
+        "S1E01",
+        "S1E08",
+        "S2E03",
+        "S3E11",
+        "S3E12"
+      ],
+      "coverage_mentions": [
+        "project/DELVERS_DARMAH_DUMBLEDWARK_COVERAGE.json"
+      ],
+      "structural_flags": [],
+      "disposition": "presentation-structure-ready-for-audit",
+      "factual_acceptance": "Not certified by this inventory"
+    },
+    {
+      "path": "delvers/world/characters/destroying-angel.md",
+      "sha256": "bab7bff4fd5e8de49cc6a14286f13d9d25a9e9878f7e2ed65ea1ddd0d7b9d026",
+      "h1": "Destroying Angel \u2014 centaur diplomatic envoy",
+      "main_sections": [
+        "Introduction",
+        "Development by arc",
+        "Current status"
+      ],
+      "arc_headings": [
+        "Arc Three \u2014 Respect, hospitality and practical courage"
+      ],
+      "footnotes": 4,
+      "source_dossiers_linked": [
+        "S3E05",
+        "S3E06"
+      ],
+      "coverage_mentions": [
+        "project/DELVERS_ANGEL_GRANNY_COVERAGE.json"
+      ],
+      "structural_flags": [],
+      "disposition": "presentation-structure-ready-for-audit",
+      "factual_acceptance": "Not certified by this inventory"
+    },
+    {
+      "path": "delvers/world/characters/dumbledwark-of-raisinbunch.md",
+      "sha256": "3332c4f8c38edcb7ee91abbe338c52e323f054b94bef2dcae1604e281aaa5315",
+      "h1": "Dumbledwark of Raisinbunch \u2014 visiting bard and dungeon correspondent",
+      "main_sections": [
+        "Introduction",
+        "Development by arc",
+        "Current status"
+      ],
+      "arc_headings": [
+        "Arc Three \u2014 Access, compromise and field reporting"
+      ],
+      "footnotes": 5,
+      "source_dossiers_linked": [
+        "S3E03",
+        "S3E04",
+        "S3E05",
+        "S3E10"
+      ],
+      "coverage_mentions": [
+        "project/DELVERS_DARMAH_DUMBLEDWARK_COVERAGE.json"
+      ],
+      "structural_flags": [],
+      "disposition": "presentation-structure-ready-for-audit",
+      "factual_acceptance": "Not certified by this inventory"
+    },
+    {
+      "path": "delvers/world/characters/enzo-vanderbuck-withers.md",
+      "sha256": "66b95556a71a823861b7d420bf74f0cc51051da92878ca90e514c108b53363b0",
+      "h1": "Enzo Vanderbuck Withers \u2014 the lord in the mirror",
+      "main_sections": [
+        "Introduction",
+        "Development by arc",
+        "Current status"
+      ],
+      "arc_headings": [
+        "Arc One \u2014 Ambition, solitude and a wish for release",
+        "Arc Two \u2014 Traces of an older life"
+      ],
+      "footnotes": 7,
+      "source_dossiers_linked": [
+        "S1E06",
+        "S2E04",
+        "S2E05",
+        "S2E10",
+        "S3E11",
+        "S3E12"
+      ],
+      "coverage_mentions": [
+        "project/DELVERS_ENZO_SKULL_KEEP_COVERAGE.json"
+      ],
+      "structural_flags": [],
+      "disposition": "presentation-structure-ready-for-audit",
+      "factual_acceptance": "Not certified by this inventory"
+    },
+    {
+      "path": "delvers/world/characters/evelyn-grinkeeper.md",
+      "sha256": "6bcf0a867e882dd23cbd33fbdd5dc1887c2edc1c7743ab94a1073d4c806ec612",
+      "h1": "Evelyn Grinkeeper \u2014 paladin",
+      "main_sections": [
+        "Introduction",
+        "Development by arc",
+        "Abilities and bonds",
+        "Current status"
+      ],
+      "arc_headings": [
+        "Arc One \u2014 Impatience and mutual care",
+        "Arc Two \u2014 A name shared and a purpose chosen",
+        "Arc Three \u2014 Freedom joined to responsibility"
+      ],
+      "footnotes": 15,
+      "source_dossiers_linked": [
+        "S1E01",
+        "S1E02",
+        "S1E03",
+        "S1E04",
+        "S1E05",
+        "S1E06",
+        "S1E07",
+        "S1E08",
+        "S1E09",
+        "S1E10",
+        "S1E11",
+        "S1E12",
+        "S2E01",
+        "S2E02",
+        "S2E03",
+        "S2E04",
+        "S2E05",
+        "S2E06",
+        "S2E07",
+        "S2E08",
+        "S2E09",
+        "S2E10",
+        "S2E11",
+        "S2E12",
+        "S3E01",
+        "S3E02",
+        "S3E03",
+        "S3E04",
+        "S3E05",
+        "S3E06",
+        "S3E07",
+        "S3E08",
+        "S3E09",
+        "S3E10",
+        "S3E11",
+        "S3E12"
+      ],
+      "coverage_mentions": [
+        "project/DELVERS_EVELYN_KRANDAL_COVERAGE.json"
+      ],
+      "structural_flags": [],
+      "disposition": "presentation-structure-ready-for-audit",
+      "factual_acceptance": "Not certified by this inventory"
+    },
+    {
+      "path": "delvers/world/characters/gentleman-cavalier-traveler.md",
+      "sha256": "8378fb556fb1b623865d647607937c13e6cc477e7c525a885161eef21087b7f3",
+      "h1": "Gentleman Cavalier Traveler \u2014 annual visitor to the Material Plane",
+      "main_sections": [
+        "Introduction",
+        "Development by arc",
+        "Current status"
+      ],
+      "arc_headings": [
+        "Arc Two \u2014 Courtesy, attachment and courage",
+        "Arc Three \u2014 A promise across the planes"
+      ],
+      "footnotes": 6,
+      "source_dossiers_linked": [
+        "S2E12",
+        "S3E01",
+        "S3E05",
+        "S3E12"
+      ],
+      "coverage_mentions": [
+        "project/DELVERS_MARGARET_TRAVELER_COVERAGE.json"
+      ],
+      "structural_flags": [],
+      "disposition": "presentation-structure-ready-for-audit",
+      "factual_acceptance": "Not certified by this inventory"
+    },
+    {
+      "path": "delvers/world/characters/gleepo-ma.md",
+      "sha256": "e08df96362ad2c8d63946c0b92f374869589095192f92311df3df22b93319e2e",
+      "h1": "Glepo Ma \u2014 kuo-toa riverside farmhand",
+      "main_sections": [
+        "Introduction",
+        "Development by arc",
+        "Current status"
+      ],
+      "arc_headings": [
+        "Arc One \u2014 Bargains, compromise and amends",
+        "Arc Two \u2014 Exile and a place to work",
+        "Arc Three \u2014 Responsibility, trade and a continuing home"
+      ],
+      "footnotes": 8,
+      "source_dossiers_linked": [
+        "S1E10",
+        "S1E11",
+        "S1E12",
+        "S2E11",
+        "S3E02",
+        "S3E03",
+        "S3E06",
+        "S3E08",
+        "S3E10",
+        "S3E12"
+      ],
+      "coverage_mentions": [
+        "project/DELVERS_GLEPO_SKOOGIE_COVERAGE.json"
+      ],
+      "structural_flags": [],
+      "disposition": "presentation-structure-ready-for-audit",
+      "factual_acceptance": "Not certified by this inventory"
+    },
+    {
+      "path": "delvers/world/characters/goggles-granny.md",
+      "sha256": "cfd6a98fc8454630625741f80ebe7c32eda6c53da8f5ad60148170b7fb3bed98",
+      "h1": "Goggles Granny \u2014 visiting elderly catlike alchemist",
+      "main_sections": [
+        "Introduction",
+        "Development by arc",
+        "Current status"
+      ],
+      "arc_headings": [
+        "Arc Three \u2014 An independent explorer accepts company"
+      ],
+      "footnotes": 5,
+      "source_dossiers_linked": [
+        "S1E05",
+        "S1E09",
+        "S3E06",
+        "S3E07"
+      ],
+      "coverage_mentions": [
+        "project/DELVERS_ANGEL_GRANNY_COVERAGE.json"
+      ],
+      "structural_flags": [],
+      "disposition": "presentation-structure-ready-for-audit",
+      "factual_acceptance": "Not certified by this inventory"
+    },
+    {
+      "path": "delvers/world/characters/khalazar.md",
+      "sha256": "8cdffe2bf652fca5659952e3f178448aae9e76572036f7d648e95487e1f2d7e8",
+      "h1": "Khalazar \u2014 the Undying Majesty",
+      "main_sections": [
+        "Introduction",
+        "Development by arc",
+        "Current status"
+      ],
+      "arc_headings": [
+        "Arc Two \u2014 A ruler's claim upon a captive mind",
+        "Arc Three \u2014 The body behind the promised return"
+      ],
+      "footnotes": 10,
+      "source_dossiers_linked": [
+        "S1E12",
+        "S2E01",
+        "S2E05",
+        "S2E06",
+        "S2E09",
+        "S2E10",
+        "S2E11",
+        "S2E12",
+        "S3E01",
+        "S3E02",
+        "S3E06",
+        "S3E07",
+        "S3E08",
+        "S3E09",
+        "S3E10",
+        "S3E11",
+        "S3E12"
+      ],
+      "coverage_mentions": [
+        "project/DELVERS_KHALAZAR_COVERAGE.json"
+      ],
+      "structural_flags": [],
+      "disposition": "presentation-structure-ready-for-audit",
+      "factual_acceptance": "Not certified by this inventory"
+    },
+    {
+      "path": "delvers/world/characters/koh-spiros.md",
+      "sha256": "9d71f782626c7610c2b7c5e374074963763ed493be2d8d7171ec34667752271c",
+      "h1": "Koh Spiros \u2014 rogue",
+      "main_sections": [
+        "Introduction",
+        "Development by arc",
+        "Abilities and limitations",
+        "Current status"
+      ],
+      "arc_headings": [
+        "Arc One \u2014 Secrecy and shared trust",
+        "Arc Two \u2014 Old obligations and a new purpose",
+        "Arc Three \u2014 Protection, defiance and responsibility"
+      ],
+      "footnotes": 11,
+      "source_dossiers_linked": [
+        "S1E01",
+        "S1E02",
+        "S1E03",
+        "S1E04",
+        "S1E05",
+        "S1E06",
+        "S1E07",
+        "S1E08",
+        "S1E09",
+        "S1E10",
+        "S1E11",
+        "S1E12",
+        "S2E00",
+        "S2E01",
+        "S2E02",
+        "S2E03",
+        "S2E04",
+        "S2E06",
+        "S2E07",
+        "S2E08",
+        "S2E09",
+        "S2E10",
+        "S2E11",
+        "S2E12",
+        "S3E01",
+        "S3E02",
+        "S3E03",
+        "S3E04",
+        "S3E05",
+        "S3E06",
+        "S3E07",
+        "S3E08",
+        "S3E09",
+        "S3E10",
+        "S3E11",
+        "S3E12"
+      ],
+      "coverage_mentions": [
+        "project/DELVERS_WORLD_PILOT_COVERAGE.json"
+      ],
+      "structural_flags": [],
+      "disposition": "presentation-structure-ready-for-audit",
+      "factual_acceptance": "Not certified by this inventory"
+    },
+    {
+      "path": "delvers/world/characters/krandal-splenderbelt.md",
+      "sha256": "39fe3e0a8ef2404774f6be9ae26a0d3e8047c36bd402468800322b67e54e4f89",
+      "h1": "Krandal Splenderbelt \u2014 cleric",
+      "main_sections": [
+        "Introduction",
+        "Development by arc",
+        "Abilities and care",
+        "Current status"
+      ],
+      "arc_headings": [
+        "Arc One \u2014 Service and the care it requires",
+        "Arc Two \u2014 Doubt and a place to grow",
+        "Arc Three \u2014 Making nourishment a promise kept"
+      ],
+      "footnotes": 16,
+      "source_dossiers_linked": [
+        "S1E01",
+        "S1E02",
+        "S1E03",
+        "S1E04",
+        "S1E05",
+        "S1E06",
+        "S1E07",
+        "S1E08",
+        "S1E09",
+        "S1E10",
+        "S1E11",
+        "S1E12",
+        "S2E01",
+        "S2E02",
+        "S2E03",
+        "S2E04",
+        "S2E05",
+        "S2E06",
+        "S2E07",
+        "S2E08",
+        "S2E09",
+        "S2E10",
+        "S2E11",
+        "S2E12",
+        "S3E01",
+        "S3E02",
+        "S3E03",
+        "S3E04",
+        "S3E05",
+        "S3E06",
+        "S3E07",
+        "S3E08",
+        "S3E09",
+        "S3E10",
+        "S3E11",
+        "S3E12"
+      ],
+      "coverage_mentions": [
+        "project/DELVERS_EVELYN_KRANDAL_COVERAGE.json"
+      ],
+      "structural_flags": [],
+      "disposition": "presentation-structure-ready-for-audit",
+      "factual_acceptance": "Not certified by this inventory"
+    },
+    {
+      "path": "delvers/world/characters/marek-gideon.md",
+      "sha256": "8de0e260f59341967c650b174a56aeed3bbd800a5104e933890b4f77714a6392",
+      "h1": "Marek Gideon \u2014 the researcher at the Noble Hollow",
+      "main_sections": [
+        "Introduction",
+        "Development by arc",
+        "Current status"
+      ],
+      "arc_headings": [
+        "Arc One \u2014 Research turned toward coercion"
+      ],
+      "footnotes": 5,
+      "source_dossiers_linked": [
+        "S1E11",
+        "S1E12",
+        "S2E00",
+        "S2E06",
+        "S2E09",
+        "S3E12"
+      ],
+      "coverage_mentions": [
+        "project/DELVERS_MAREK_NOBLE_HOLLOW_COVERAGE.json"
+      ],
+      "structural_flags": [],
+      "disposition": "presentation-structure-ready-for-audit",
+      "factual_acceptance": "Not certified by this inventory"
+    },
+    {
+      "path": "delvers/world/characters/margaret-dupayton.md",
+      "sha256": "bbaf2405bb9ef669a145b407f3bafc695a37b7528f903c183c0697fc4fe3fa33",
+      "h1": "Margaret Dupayton \u2014 Evelyn's confidante",
+      "main_sections": [
+        "Introduction",
+        "Development by arc",
+        "Current status"
+      ],
+      "arc_headings": [
+        "Arc One \u2014 Invention in a friend's service",
+        "Arc Two \u2014 The demands of keeping a secret",
+        "Arc Three \u2014 A trusted contact"
+      ],
+      "footnotes": 7,
+      "source_dossiers_linked": [
+        "S1E05",
+        "S1E07",
+        "S1E09",
+        "S1E10",
+        "S2E01",
+        "S2E03",
+        "S2E06",
+        "S2E09",
+        "S2E11",
+        "S2E12",
+        "S3E01",
+        "S3E02",
+        "S3E12"
+      ],
+      "coverage_mentions": [
+        "project/DELVERS_MARGARET_TRAVELER_COVERAGE.json"
+      ],
+      "structural_flags": [],
+      "disposition": "presentation-structure-ready-for-audit",
+      "factual_acceptance": "Not certified by this inventory"
+    },
+    {
+      "path": "delvers/world/characters/marsh.md",
+      "sha256": "f7e4e4fc50633bb7623f285dc871dc63587f95d12e157d503336a5c00dc093c5",
+      "h1": "Marsh \u2014 silver-ranked wood-elf dragon hunter",
+      "main_sections": [
+        "Introduction",
+        "Development by arc",
+        "Current status"
+      ],
+      "arc_headings": [
+        "Arc Two \u2014 Caution, cooperation and a killing arrow"
+      ],
+      "footnotes": 5,
+      "source_dossiers_linked": [
+        "S2E08",
+        "S2E09"
+      ],
+      "coverage_mentions": [
+        "project/DELVERS_MARSH_DAUFANTE_COVERAGE.json"
+      ],
+      "structural_flags": [],
+      "disposition": "presentation-structure-ready-for-audit",
+      "factual_acceptance": "Not certified by this inventory"
+    },
+    {
+      "path": "delvers/world/characters/masked-mage.md",
+      "sha256": "a6e9ed1ebd5c9d3f653d948390ac3d8b69c6b82448e117cfe8c23c1a83acc492",
+      "h1": "The Masked Mage \u2014 watcher of the scions",
+      "main_sections": [
+        "Introduction",
+        "Development by arc",
+        "Current status"
+      ],
+      "arc_headings": [
+        "Arc One \u2014 Knowledge offered without explanation"
+      ],
+      "footnotes": 3,
+      "source_dossiers_linked": [
+        "S1E05"
+      ],
+      "coverage_mentions": [
+        "project/DELVERS_MASKED_MAGE_COVERAGE.json"
+      ],
+      "structural_flags": [],
+      "disposition": "presentation-structure-ready-for-audit",
+      "factual_acceptance": "Not certified by this inventory"
+    },
+    {
+      "path": "delvers/world/characters/nopa-ropa.md",
+      "sha256": "d950cd611fcf9a95d14c72374017fe68600df1b4449fbd689556cc7d351aa2db",
+      "h1": "Nopa Ropa \u2014 Snake Island warrior seeking Princess Hissia",
+      "main_sections": [
+        "Introduction",
+        "Development by arc",
+        "Current status"
+      ],
+      "arc_headings": [
+        "Arc Three \u2014 Service, impatience and rescue"
+      ],
+      "footnotes": 6,
+      "source_dossiers_linked": [
+        "S3E01",
+        "S3E02",
+        "S3E03",
+        "S3E08",
+        "S3E10",
+        "S3E11",
+        "S3E12"
+      ],
+      "coverage_mentions": [
+        "project/DELVERS_NOPA_HISSIA_COVERAGE.json"
+      ],
+      "structural_flags": [],
+      "disposition": "presentation-structure-ready-for-audit",
+      "factual_acceptance": "Not certified by this inventory"
+    },
+    {
+      "path": "delvers/world/characters/penelope-spiros.md",
+      "sha256": "6ba66e247f1d66d57e22ff3f61c723f4cb145df0544280833f26164dc0c29606",
+      "h1": "Penelope \u201cPenny\u201d Spiros \u2014 Koh and Anathala/Anthela's daughter",
+      "main_sections": [
+        "Introduction",
+        "Development by arc",
+        "Current status"
+      ],
+      "arc_headings": [
+        "Arc One \u2014 Stories around an absent truth",
+        "Arc Two \u2014 Her mother comes home",
+        "Arc Three \u2014 A hero's daughter and unsettling dreams"
+      ],
+      "footnotes": 7,
+      "source_dossiers_linked": [
+        "S1E03",
+        "S1E05",
+        "S1E09",
+        "S1E10",
+        "S2E01",
+        "S2E03",
+        "S2E10",
+        "S2E11",
+        "S2E12",
+        "S3E01",
+        "S3E02",
+        "S3E10",
+        "S3E12"
+      ],
+      "coverage_mentions": [
+        "project/DELVERS_SPIROS_FAMILY_COVERAGE.json"
+      ],
+      "structural_flags": [],
+      "disposition": "presentation-structure-ready-for-audit",
+      "factual_acceptance": "Not certified by this inventory"
+    },
+    {
+      "path": "delvers/world/characters/princess-hissia.md",
+      "sha256": "9cc4ac4a1bc6f6b632e75f0c3e20813ad5f6bdca827c600b9ec7a48b9aefa65e",
+      "h1": "Princess Hissia \u2014 Snake Island royal visitor",
+      "main_sections": [
+        "Introduction",
+        "Development by arc",
+        "Current status"
+      ],
+      "arc_headings": [
+        "Arc Two \u2014 Familiarity without shared memory",
+        "Arc Three \u2014 Captivity and a forbidden reunion"
+      ],
+      "footnotes": 6,
+      "source_dossiers_linked": [
+        "S2E01",
+        "S2E12",
+        "S3E01",
+        "S3E05",
+        "S3E09",
+        "S3E10",
+        "S3E11",
+        "S3E12"
+      ],
+      "coverage_mentions": [
+        "project/DELVERS_NOPA_HISSIA_COVERAGE.json"
+      ],
+      "structural_flags": [],
+      "disposition": "presentation-structure-ready-for-audit",
+      "factual_acceptance": "Not certified by this inventory"
+    },
+    {
+      "path": "delvers/world/characters/radiant-lance.md",
+      "sha256": "caed57b5a353bf63544794232f6c804fbf2e49836f864594e0c3e0ea1dffc26b",
+      "h1": "Radiant Lance \u2014 historic Pelor knight, trapped mental witness",
+      "main_sections": [
+        "Introduction",
+        "Development by arc",
+        "Current status"
+      ],
+      "arc_headings": [
+        "Arc Two \u2014 A reputation attached to a trial",
+        "Arc Three \u2014 Companionship inside a prison"
+      ],
+      "footnotes": 3,
+      "source_dossiers_linked": [
+        "S2E00",
+        "S2E08",
+        "S3E08"
+      ],
+      "coverage_mentions": [
+        "project/DELVERS_BARCLAY_RADIANT_COVERAGE.json"
+      ],
+      "structural_flags": [],
+      "disposition": "presentation-structure-ready-for-audit",
+      "factual_acceptance": "Not certified by this inventory"
+    },
+    {
+      "path": "delvers/world/characters/shaolin-nym.md",
+      "sha256": "2412cedb62201c564bbc6595dfa9b7d34c8ffe339a30e5d4aec8cfe3a2089435",
+      "h1": "Shaolin Nym / Nim \u2014 ancient Dolbluth architect",
+      "main_sections": [
+        "Introduction",
+        "Development by arc",
+        "Current status"
+      ],
+      "arc_headings": [
+        "Arc Three \u2014 A final service to the liberators"
+      ],
+      "footnotes": 4,
+      "source_dossiers_linked": [
+        "S3E11",
+        "S3E12"
+      ],
+      "coverage_mentions": [
+        "project/DELVERS_SHRUGS_SHAOLIN_COVERAGE.json"
+      ],
+      "structural_flags": [],
+      "disposition": "presentation-structure-ready-for-audit",
+      "factual_acceptance": "Not certified by this inventory"
+    },
+    {
+      "path": "delvers/world/characters/shrugs-manaspoon.md",
+      "sha256": "2f3dd5dcf6e9cef9d5d1f36cfe65af3c587936bee116cf3b2ca397d6d98dba63",
+      "h1": "Shrugs Manaspoon \u2014 guest burglar and demolition specialist",
+      "main_sections": [
+        "Introduction",
+        "Development by arc",
+        "Current status"
+      ],
+      "arc_headings": [
+        "Arc Two \u2014 Precision, explosives and imperfect concealment"
+      ],
+      "footnotes": 5,
+      "source_dossiers_linked": [
+        "S2E03",
+        "S2E04",
+        "S2E05",
+        "S2E06"
+      ],
+      "coverage_mentions": [
+        "project/DELVERS_SHRUGS_SHAOLIN_COVERAGE.json"
+      ],
+      "structural_flags": [],
+      "disposition": "presentation-structure-ready-for-audit",
+      "factual_acceptance": "Not certified by this inventory"
+    },
+    {
+      "path": "delvers/world/characters/skoogie.md",
+      "sha256": "b6a2e36d98fe4fca6a3986fafc52e0f69e3d361cbee39e7523f14ae5a81e11fd",
+      "h1": "Skoogie \u2014 exiled kobold shaman of Chath Peak",
+      "main_sections": [
+        "Introduction",
+        "Development by arc",
+        "Current status"
+      ],
+      "arc_headings": [
+        "Arc Two \u2014 An alliance to recover lost influence"
+      ],
+      "footnotes": 5,
+      "source_dossiers_linked": [
+        "S2E08",
+        "S2E09"
+      ],
+      "coverage_mentions": [
+        "project/DELVERS_GLEPO_SKOOGIE_COVERAGE.json"
+      ],
+      "structural_flags": [],
+      "disposition": "presentation-structure-ready-for-audit",
+      "factual_acceptance": "Not certified by this inventory"
+    },
+    {
+      "path": "delvers/world/characters/the-great-daufante.md",
+      "sha256": "8dce7d1a2194469f9c08ad611b182da715ea7c8a776092fe096eb8466d909d9c",
+      "h1": "The Great Daufante \u2014 illusionist of Teppensteppe Hall",
+      "main_sections": [
+        "Introduction",
+        "Development by arc",
+        "Current status"
+      ],
+      "arc_headings": [
+        "Arc Two \u2014 Showmanship, persuasion and a prized deck"
+      ],
+      "footnotes": 6,
+      "source_dossiers_linked": [
+        "S2E02",
+        "S2E03"
+      ],
+      "coverage_mentions": [
+        "project/DELVERS_MARSH_DAUFANTE_COVERAGE.json"
+      ],
+      "structural_flags": [],
+      "disposition": "presentation-structure-ready-for-audit",
+      "factual_acceptance": "Not certified by this inventory"
+    },
+    {
+      "path": "delvers/world/characters/veggie-sticks.md",
+      "sha256": "97414b03aa2827b7d660f6e481d7dde3222d66f030a3a00a4d6cac9e9888a350",
+      "h1": "Veggie Sticks \u2014 guardian of the wooded trail",
+      "main_sections": [
+        "Introduction",
+        "Development by arc",
+        "Current status"
+      ],
+      "arc_headings": [
+        "Arc One \u2014 Boasts give way to hospitality",
+        "Arc Three \u2014 A reluctant ally protects his boundaries"
+      ],
+      "footnotes": 5,
+      "source_dossiers_linked": [
+        "S1E03",
+        "S1E04",
+        "S3E02",
+        "S3E09",
+        "S3E10"
+      ],
+      "coverage_mentions": [
+        "project/DELVERS_VEGGIE_CHAD_COVERAGE.json"
+      ],
+      "structural_flags": [],
+      "disposition": "presentation-structure-ready-for-audit",
+      "factual_acceptance": "Not certified by this inventory"
+    }
+  ]
+}

@@ -1,6 +1,10 @@
 # Vorel — titles and epithets register
 
-**Type:** Source-indexed supporting register for [Vorel](vorel.md), deliberately separated from the main character biography. **Evidence:** ASR-provisional, with source windows, name variants and social standing preserved. **Spoilers:** Through Wastes S3E10; Q&As are retrospective, not played conferrals. [Characters](../CHARACTERS.md) · [World portal](../README.md).
+**Type:** Source-indexed supporting register for [Vorel](vorel.md), deliberately separated from the main character biography. **Evidence:** ASR-provisional, with source windows, name variants and social standing preserved. **Spoilers:** Through Wastes S3E11; Q&As are retrospective, not played conferrals. [Characters](../CHARACTERS.md) · [World portal](../README.md).
+
+## S3E11 — first self-description “The Contractless and Defender of Earth” (ASR-provisional)
+
+In [played Wastes S3E11](../../episodes/S3E11.md) **~02:22:30–02:24:45**, confronting the actually present Weir **SOULBROKER** and temporarily allied **PRINCIPLE** in Château Weir, Vorel explicitly introduces himself: P `i am varel of raspheum kyrick the contract less and defender of earth`; independent Q `I am Varel Rasphim Kurek, the contractless and defender of Earth`. **“THE CONTRACTLESS” and “DEFENDER OF EARTH” are new first-observed IN-CHARACTER, SELF-CLAIMED EPITHETS** in this source, spoken BY VOREL, NOT bestowed by either tyrant or an Elhandari ceremony. “Contractless” specifically relates to the **FACT VOREL NEVER SIGNED THE E023 WEIR SOULBROKER PACT**, as QUIZQUAZ explicitly acknowledges ~01:56–02:00; it does **NOT erase prior Vorel titles, prove a new legal status across every plane or cancel others' obligations**. The “Defender of Earth” formulation emphasizes Vorel's intent to protect ordinary mortal lives, not a government commission. **Exact full surname Rasphem/Kurix phonetics still ASR-PROVISIONAL**; title core agreement strong. There is no further distinct self-title from the later battle cry **“LEMON TREE”** or Stanley's praise. [S3E11 P/Q](../../reports/WASTES_S3E11_ASR_COMPARISON_2026-10-27.md), audio unchecked.
 
 ## S3E10 — no newly spoken Vorel epithet despite “God Killer” remark
 

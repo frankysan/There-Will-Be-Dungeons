@@ -1,0 +1,58 @@
+{
+  "date": "2026-10-27",
+  "scope": "Delvers-only red crystal and sensory amulet, with part/assembled-device distinction",
+  "headings": [
+    {
+      "path": "delvers/world/items/khalazar-red-crystal.md",
+      "old_heading": "Khalazar red crystal fragment \u2014 dream-recovered shard",
+      "old_anchor": "khalazar-red-crystal-fragment--dream-recovered-shard",
+      "target": "Introduction, development, Current status or source notes",
+      "disposition": "Native heading or compatibility anchor retained; full original archived"
+    },
+    {
+      "path": "delvers/world/items/khalazar-sensory-amulet.md",
+      "old_heading": "Koh's red-crystal sensory amulet \u2014 Khalazar-compulsion detector",
+      "old_anchor": "kohs-red-crystal-sensory-amulet--khalazar-compulsion-detector",
+      "target": "Introduction, development, Current status or source notes",
+      "disposition": "Native heading or compatibility anchor retained; full original archived"
+    },
+    {
+      "path": "delvers/world/items/khalazar-sensory-amulet.md",
+      "old_heading": "Creation and witnessed form",
+      "old_anchor": "creation-and-witnessed-form",
+      "target": "Introduction, development, Current status or source notes",
+      "disposition": "Native heading or compatibility anchor retained; full original archived"
+    }
+  ],
+  "additional_blocks": [
+    {
+      "path": "delvers/world/items/khalazar-red-crystal.md",
+      "old_block": "Opening S3E02 update, earlier custody dispute, physical escape/handoff and unresolved appearance/powers blocks",
+      "target": "Chronological origin/custody, Current status and source notes"
+    },
+    {
+      "path": "delvers/world/items/khalazar-sensory-amulet.md",
+      "old_block": "Opening S3E02 cutoff, field response, glove/direction modification and unresolved-continuity blocks including orphan source note",
+      "target": "Introduction, artifact development, Current status and referenced source notes"
+    }
+  ],
+  "domains": {
+    "delvers/world/items/khalazar-red-crystal.md": "Artifact: dream-recovered physical fragment, custody discrepancy, incorporation and unknown independent powers",
+    "delvers/world/items/khalazar-sensory-amulet.md": "Artifact: constructed form, demonstrated conditional response, modification, custody and untested limits"
+  },
+  "review": "Both complete old pages; red-crystal/shard, amulet, wrist/bracer, detector/direction aliases searched across all 37 dossiers; selected complete origin/escape/handoff, immediate recurrence, creation/testing/mounting/upgrade, covered and uncovered use, later bracer, guardian instruction and final organ rite paragraphs read. No new ASR/audio/sheet/art/map review.",
+  "critical_boundaries": [
+    "S2E10 physical handoff to Carrie and S2E11 Evelyn recurrence remain unresolved; no invented return or second fragment",
+    "Dream recovery does not prove whole dream geography physical, actual body killed or shard a phylactery",
+    "Red crystal not conflated with Gemholm chaos gems or other colored crystals",
+    "Carrie credits original handoff and embeds crystal with consensually drawn Anathala blood; ancestry rationale remains hypothesis",
+    "Afflicted-elf light and dark near Anathala alone are observed, not universal identity/blood detector rules",
+    "One signal stops on knockout and elf later awakens; no universal cure/extinction rule",
+    "Glove mount ordinary craftsmanship; gold directional pinpoint added jointly by Carrie/Veggie",
+    "Covered display is untested, not proof absence of magic; later glow/direction used underground without calibrated range",
+    "Bracer and slit cover directly equipped S3E11; guardian points to blood device, no independent genealogy assay",
+    "S3E12 organ replacement performed; separate wrist-blood application not explicit",
+    "Latest carrier Koh; final item inventory and post-Khalazar function untested",
+    "All character/place audit artifacts, inventories and page hashes preserved unchanged"
+  ]
+}

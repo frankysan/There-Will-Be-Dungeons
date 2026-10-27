@@ -6,6 +6,10 @@ The Mask of Eltanfawr is a dark, jewel-studded face covering discovered among th
 
 Its first described gift, **Peer into Plurality**, seemed to offer influence over the course of chance, but at a mounting cost to the wearer's mind and body. The description warned of grave consequences should that power prove fatal. Nothing about the mask's appearance revealed how these unusual gifts were connected, and none was demonstrated when it was found.[^mask-plurality]
 
+## S3E11 — Stanley recasts mask Foresight on Gate traversal
+
+In [played Wastes S3E11](../../episodes/S3E11.md), after a REAL eight-hour rest and FRESH MORNING STANLEY ***HEROES' FEAST***, **STANLEY ACTUALLY REACTIVATES MASK OF ELTANFAWR *FORESIGHT* WHILE CROSSING HOPE'S HOLLOW RING *GATE*** from SOLAR MINES to CHÂTEAU WEIR COURTYARD. GM again assigns **-10 MAXIMUM HP**; feast's **+16 HP** for Stanley leaves **net +6 MAX** by his own account. This is **a fresh on-screen mask activation**, not passive permanent immunity, NOT a second use of Hollow Ring/extra Gate, and no card/charge proves bonus accumulates across unplayed rests. Mask's ship/cottage powers remain unavailable insofar as FATE SIX destroyed; **no new demonstrated ship regeneration**. At cutoff Soulbroker/Weir castle tornado and lightning begin; **no combat roll settled**. [Full ASR report](../../reports/WASTES_S3E11_ASR_COMPARISON_2026-10-27.md).
+
 ## Development by arc
 
 ### Arc Five — The hidden vessel's command
