@@ -1,8 +1,12 @@
 # Vorel
 
-**Portrayed by:** Kyle. **Identity:** Lizardfolk warrior and leader, protector of **Bok Bok**, bearer of the **Eye of Groxl** and claimant to many personal titles. **Spoilers:** Main Wastes through **S3E13** and cast Q&As, including the April, May and July-filed 2022 retrospectives. **Evidence:** ASR-provisional except owner-confirmed item/name orthography.[^march21]
+**Portrayed by:** Kyle. **Identity:** Lizardfolk warrior and leader, protector of **Bok Bok**, bearer of the **Eye of Groxl** and claimant to many personal titles. **Spoilers:** Main Wastes through **S3E14** and cast Q&As, including the April, May and July-filed 2022 retrospectives. **Evidence:** ASR-provisional except owner-confirmed item/name orthography.[^march21]
 
 **Browse:** [Characters](../CHARACTERS.md) · [His source-indexed titles](vorel-titles.md) · [Eye of Groxl](../technology/eye-of-groxl.md) · [World portal](../README.md).
+
+## S3E14 — catches Hope in midair, grants Principle “parole,” meets ALIVE King Bokbok, sets TNT traps
+
+In [played S3E14](../../episodes/S3E14.md) four ACTUALLY FLY FATE SIX over giant lava field, **HIGH-SPEED ROCKET WAKE KNOCKS HOPE+NASH OFF SHIP; STANLEY DESCENDS SHIP AND CASTS *FEATHER FALL*, VOREL PHYSICALLY CATCHES HOPE IN ARMS** unharmed. **VOREL ACTUALLY KNOCKS ROCKET DOOR, PRINCIPLE OPENS YOUNGER/WEAK AND RINGLESS**, proposes help fight Worldbreaker. Vorel **INSIGHT18 senses SOME SINCERITY**, distrusts PRINCIPLE'S ATROCITIES, organizes **CONDITIONAL “PAROLE” WITH FUTURE PENTEL VICE JAIL** if Principle resumes villainy; calls himself a **“WARDEN” of the released Prince, NOT NEW FORMAL HONORIFIC/TITLE**. Group plans **[WINDBOARDS](../technology/windboards.md) FOR RANGED BAIT, HOPE TO FERRY VOREL AMONG TNT CHOKEPOINTS**, not yet battle. Vorel **ACTUALLY USES FATE SIX TO RECON LEADEN FINGERS / STORMLANDS EDGE**, sees **CONCENTRATED CONSTANT RAIN/LIGHTNING** and identifies natural chokepoints. VOREL **PHYSICALLY REUNITES WITH KING BOKBOK ACTUALLY ALIVE** at goblin mosh-party; they embrace amid chicken, he RECRUITS **~75 LIZARDFOLK TAC and small GOBLIN crew, SHIP PHYSICALLY FILLED WITH TNT AND GUNPOWDER**. At **THREE LEADEN FINGERS LOCATIONS VOREL+BOKBOK ALLIES ACTUALLY SET REMOTELY TRIGGERED EXPLOSIVE/BOULDER TRAPS** and **VOREL NOW PHYSICALLY HOLDS 3-BUTTON REMOTE**; NO DETONATION/BATTLE YET, Worldbreaker just gray carapace showing at ending. [Vorel title register](vorel-titles.md) · [S3E14 audit](../../reports/WASTES_S3E14_ASR_COMPARISON_2026-10-27.md), no audio.
 
 ## S3E13 — questions Nash's heart, attempts Sinatra, new humorous “Vorel the Patient” epithet
 

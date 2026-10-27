@@ -1,6 +1,10 @@
 # Vorel — titles and epithets register
 
-**Type:** Source-indexed supporting register for [Vorel](vorel.md), deliberately separated from the main character biography. **Evidence:** ASR-provisional, with source windows, name variants and social standing preserved. **Spoilers:** Through Wastes S3E13; Q&As are retrospective, not played conferrals. [Characters](../CHARACTERS.md) · [World portal](../README.md).
+**Type:** Source-indexed supporting register for [Vorel](vorel.md), deliberately separated from the main character biography. **Evidence:** ASR-provisional, with source windows, name variants and social standing preserved. **Spoilers:** Through Wastes S3E14; Q&As are retrospective, not played conferrals. [Characters](../CHARACTERS.md) · [World portal](../README.md).
+
+## S3E14 — “I will be your warden” is PRINCIPLE-parole threat, NOT a new Vorel epithet
+
+In [played S3E14](../../episodes/S3E14.md) ~**01:07–01:13**, VOREL **ACTUALLY OFFERS RECONSTITUTED PRINCIPLE CONDITIONAL PROVISIONAL COOPERATION** to fight WORLDBREAKER, with **THREAT of possible PENTEL VICE INCARCERATION** if PRINCIPLE harms mortals again. Vorel declares **“I will be your warden”** within his specific attempt to supervise the chrome ruler, but **DOES NOT NAME HIMSELF “WARDEN OF…” as a new unique personal honorific, does not receive office from any council and does not physically arrest/transport PRINCIPLE**. **No new title row or title-count increase**; record it as new dialogue/temporary asserted relationship only. Later **KING BOKBOK** (not Vorel) receives “Great King” address during goblin celebration; no new Vorel self-epithet here. [S3E14 P/Q comparison](../../reports/WASTES_S3E14_ASR_COMPARISON_2026-10-27.md), audio unchecked.
 
 ## S3E13 — “Vorel the Patient” new humorous self-applied epithet (ASR provisional)
 

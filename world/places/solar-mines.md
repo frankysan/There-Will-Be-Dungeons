@@ -2,7 +2,7 @@
 
 **Browse:** [Places](../PLACES.md) · [World portal](../README.md)
 
-**Type:** Important origin setting in Nash Maggard's background. **Evidence:** Character statements, retrospective accounts and later research; **not** a fully played historical side adventure. **Spoilers:** Played Wastes through S3E13 (plus identified out-of-game retrospectives).
+**Type:** Important origin setting in Nash Maggard's background. **Evidence:** Character statements, retrospective accounts and later research; **not** a fully played historical side adventure. **Spoilers:** Played Wastes through S3E14 (plus identified out-of-game retrospectives).
 
 **Nash** describes captivity, survival and resistance connected with the **Solar Mines** and **Blood Canyons**. His descriptions develop across the campaign and include memories that seem contradictory; they should be presented as the state of Nash's own recollections and others' testimony, not a reconstructed omniscient history. His implanted **dragon-metal heart** and later dragon forms are observed, but the exact circumstances of implantation require careful source distinction. [E000](../../episodes/E000.md) · [E024](../../episodes/E024.md) · [Nash](../characters/nash-maggard.md).
 
@@ -13,6 +13,10 @@ In the [September 2020 public-release Q&A](../../episodes/BONUS-2020-09.md), **~
 ## December 2021 creator explanation — missing context, not new reconnaissance
 
 During the [December 2021 bonus ~00:03–00:07](../../episodes/BONUS-2021-12.md), **Beau** says he has intentionally developed a link between **the Principle, Nash's dragon-metal heart and the Solar Mines**. He emphasizes the difference between **what Nash remembers as an exploited child and what the mines actually involved**, leaving unknown aspects to be discovered. Scott says Nash escaped with **one other individual** whose later whereabouts have not been revealed; Scott wonders whether the guards could have since upgraded **Slow Peters**, but **Beau does not confirm any specific upgrades, present garrison or ongoing operating procedures**. These are **out-of-game creator context and player conjecture**, not additional played travel, a newly revealed escapee identity or witnessed past footage. [P/Q audit](../../reports/BONUS_2021-12_ASR_COMPARISON_2026-10-26.md).
+
+## S3E14 — occupied surface, Ruby guards ACTUALLY at core, Worldbreaker carapace finally seen
+
+[Played S3E14](../../episodes/S3E14.md): ELHANDARI with EMPATHY weapons **ACTUALLY CONTROL SOLAR MINES SURFACE and PRISONERS**. **GM NOW CONFIRMS ELHANDARI PERSONNEL PHYSICALLY DEEP UNDERGROUND BESIDE FLOATING RUBISTIC TRIANGULOSPHERE IN PRINCIPLE'S MAIN ROOM WAITING SOLELY PRIME/STANLEY'S ORDERS**; S3E13 security sortie order has indeed borne fruit, but NO REMOVAL/ACTIVATION yet. Four **ACTUALLY FLY FATE SIX NORTH FROM SOLAR MINES** over miles of **MOLTEN RED/PURPLE LAVA WOUNDS AND NEW MOUNTAIN FOLDS**, PRINCIPLE arrives WEAK/RINGLESS by rocket, offers plan for **NON-NATIVE TARRASQUE WORLDBREAKER** from dragonson research, **PHYSICALLY REVEALS FIVE POWER [WINDBOARDS](../technology/windboards.md)**. **VOREL RECRUITS LIZARD TAC AND ALIVE KING BOKBOK'S GOBLINS+TNT AT SOLAR MINES**, actually creates 3 mountain traps at LEADEN FINGERS. **LAST VISUAL GRAY WORLDBREAKER CARAPACE PARTLY EMERGES FROM LAVA**, NO fight/defeat/Earth magic nullification. [S3E14 report](../../reports/WASTES_S3E14_ASR_COMPARISON_2026-10-27.md); audio unchecked.
 
 ## S3E13 — allied occupation, witnessed northern Worldbreaker cracks, security order for Ruby
 

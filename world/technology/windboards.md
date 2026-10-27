@@ -1,0 +1,13 @@
+# Windboards — Principle's Kuromokishi hovering assault boards
+
+**First physically observed:** [Wastes S3E14 — Sit and Hum](../../episodes/S3E14.md) **~01:16–01:24**. **Five** heavy, engine-driven, metallic **hoverboards / “windboards”** stored **INSIDE THE PRINCIPLE'S CRASH-LANDED EARTH-STYLE ROCKET**, with apparent rear thrusters, multiple foot controls and accelerator. The PRINCIPLE calls them assault vehicles made for his elite **“KUROMOKISHI” (P) / “KARAMUKISHI” (Q)**; exact unit spelling/proper item name **ASR-PROVISIONAL**, original audio pending [P/Q report](../../reports/WASTES_S3E14_ASR_COMPARISON_2026-10-27.md). **Not Tarrasque loot and not Fate Six's materialization mechanism**.
+
+## Actual demonstrated use
+
+**HOPE PHYSICALLY lifts out one metal board, STANDS on it, activates pedal, board rises and hovers.** She turns by shifting balance, accelerates and **ACTUALLY CIRCLES CAMP AND SKIMS ABOVE A LITTLE LAVA CRACK WITHOUT CHANGE IN ELEVATION**; with enough speed it can do a **loop-de-loop**, during further practice she **ACTUALLY FALLS once and resumes** (no dramatic injury demonstrated). **S3E14 ~02:03–02:06 HOPE AND STANLEY ACTUALLY LEAVE TOGETHER ON A BOARD** for practice/errands, Stanley initially less assured; no final race performance or duration established. **OTHER FOUR boards are AVAILABLE BY PRINCIPLE'S OFFER**, but which specific companion physically carries each by cutoff not individually inventoried. **Five total is GM's explicit number at ~01:54–02:00**, distinct from number of current hero pilots.
+
+## Planned use against the Worldbreaker (not yet performed)
+
+The PRINCIPLE and party plan to use powered boards to **harass an exceptionally fast TARRASQUE across dangerous LAVA fields**, keeping their more fragile restored **FATE SIX with arcane ballistas** as delayed artillery support. Initial suggested ranged **NASH, STANLEY, PRINCIPLE** from boards, while **HOPE carries VOREL from remote explosive choke point to choke point** in the LEADEN FINGERS; the plan changes conversationally as constraints arise. **No Tarrasque battle, dodged attack, actual boarding of monster, completed ferry carrying Vorel, expended fuel, item charges, attack statistics or magical enchantment value demonstrated during S3E14.** A large metallic hoverboard is **powered artifice with motors**, not necessarily a spell-granted flying carpet, and doesn't inherit Fate Six's interplanar travel capability.
+
+**World links:** [Nash](../characters/nash-maggard.md) · [Hope](../characters/hope-akmenos.md) · [Vorel](../characters/vorel.md) · [Principle](../characters/the-principle.md) · [Fate Six](fate-six.md). **Source text only; audio unchecked.**
