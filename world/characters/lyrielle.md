@@ -4,6 +4,10 @@
 
 Lyrielle is an **elf doctor aboard the Elhandari rescue spacecraft** carrying the survivors from Tietkalla. Kristen describes golden hair, pale skin, green eyes, an off-white peasant-style dress, a small waist satchel, a white mink companion with red eyes, and a crystal rose necklace. **She is a newly introduced character**, not Squirts resurrected or Hope returning to this party.
 
+## S3E019 Round Up — princess or well-read imaginative elf remains deliberately undecided
+
+At the [out-of-game final cast Q&A](../../episodes/S3E019.md) **~02:06–02:08**, **Jon** asks if KRISTEN'S LIRIEL/LYRIELLE character was a **REAL PRINCESS** or merely imagined an adventurous princess history after staying home reading stories. **BEAU STATES HE FIRST BUILT HER AS A GENUINE PRINCESS**, then liked Jon's alternate interpretation so much **HE NEVER SETTLED ON WHICH STORY WAS TRUE**. **This is creator-retrospective confirmation that either interpretation is possible and the truth was left UNRESOLVED**, not evidence that she secretly is royal or definitively invented her entire biography. Her E115 seafoam/mermaid memories remain **the character's account**, and neither identity is a new post-campaign scene. Name spelling **Lyrielle/Liriel/Lirael still provisional**. [P/Q](../../reports/WASTES_S3E019_ROUNDUP_ASR_COMPARISON_2026-10-27.md), no audio listened.
+
 ## E128 — survives station and departs with household
 
 **Lyrielle survives the Elhandar impacts with Angelashi and the children inside Villa Ornath**. In [E128](../../episodes/E128.md), after the mercenary defeat, she helps **Angelashi and Nash's four infants board Elhandari transports**, alongside other surviving Harbor tieflings and Bok Bok. **The ships actually take off bound for the Mars terraforming station**; Lyrielle does **not remain with the four PCs on Earth**. No medical treatment, use of additional spells or arrival at Mars is directly demonstrated in this session. The confusing spoken “Squirts” alongside Bok Bok remains an unresolved roster/name issue and **does not identify Lyrielle as Squirts**. [E128 report](../../reports/E128_ASR_COMPARISON_2026-10-24.md). **ASR-provisional**.

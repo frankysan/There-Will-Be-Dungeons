@@ -4,11 +4,11 @@
 
 ## E125 — three additional speeders on the escape route
 
-After the station's assault begins, the household exits the central spire via **Rainbow Road**. The group finds **six noble speeders parked near the biodome terminal**, with **no explanation of who placed them there**. Three are driven—one each by **Stanley, Hope and Lyrielle**—to **Villa Ornath**, where Lyrielle's actual ***Wall of Force*** catches falling biodome wreckage. **This does not mean the earlier borrowed Lodge speeder was somehow recovered from the villa or that the new parked machines are legally owned by the party**. All occupants reach the villa but the later impact scene does not establish survival thereafter. [E125](../../episodes/E125.md) · [comparison](../../reports/E125_ASR_COMPARISON_2026-10-24.md).
+After the station's assault begins, the household exits the central spire via **Rainbow Road**. The group finds **six noble speeders parked near the biodome terminal**, with **no explanation of who placed them there**. Three are driven—one each by **Stanley, Hope and Lyrielle**—to **Villa Or'Nath**, where Lyrielle's actual ***Wall of Force*** catches falling biodome wreckage. **This does not mean the earlier borrowed Lodge speeder was somehow recovered from the villa or that the new parked machines are legally owned by the party**. All occupants reach the villa but the later impact scene does not establish survival thereafter. [E125](../../episodes/E125.md) · [comparison](../../reports/E125_ASR_COMPARISON_2026-10-24.md).
 
 ## E124 — villa return and vehicle left behind
 
-**Hope pilots the four from Harbor to Villa Ornath**, with Stanley behind, Vorel forward and Nash towed as before. Once the household packs, the group **deliberately leaves the speeder at the villa (~01:30:12)** and walks to Rainbow Road. **Latest custody/location: left at Villa Ornath**, not central reception or off station. No refueling, measured range, ownership transfer or return to lodge occurs. [E124](../../episodes/E124.md) · [Comparison](../../reports/E124_ASR_COMPARISON_2026-10-24.md), **ASR-provisional, no listening**.
+**Hope pilots the four from Harbor to Villa Or'Nath**, with Stanley behind, Vorel forward and Nash towed as before. Once the household packs, the group **deliberately leaves the speeder at the villa (~01:30:12)** and walks to Rainbow Road. **Latest custody/location: left at Villa Or'Nath**, not central reception or off station. No refueling, measured range, ownership transfer or return to lodge occurs. [E124](../../episodes/E124.md) · [Comparison](../../reports/E124_ASR_COMPARISON_2026-10-24.md), **ASR-provisional, no listening**.
 
 ## Identity and permission
 

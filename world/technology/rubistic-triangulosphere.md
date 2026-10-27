@@ -1,6 +1,6 @@
 # Rubistic Triangulosphere (“Ruby”) — completed on Mars in S3E04; Earth deployment still pending
 
-**The Wastes • introduced as proposal in late Season One, physical unfinished machine encountered in [S2E02](../../episodes/S2E02.md).** Related [Tungsten Wheel](../characters/tungsten-wheel.md) · [Delit Ornath's spelljammer](fate-six.md) · [black dragon hearts](nash-dragon-heart.md). **ASR-provisional; no audio or source machine/engineering handout inspected.**
+**The Wastes • introduced as proposal in late Season One, physical unfinished machine encountered in [S2E02](../../episodes/S2E02.md).** Related [Tungsten Wheel](../characters/tungsten-wheel.md) · [Delit Or'Nath's spelljammer](fate-six.md) · [black dragon hearts](nash-dragon-heart.md). **ASR-provisional; no audio or source machine/engineering handout inspected.**
 
 ## S3E15 — still guarded in core, awaiting post-Tarrasque activation
 

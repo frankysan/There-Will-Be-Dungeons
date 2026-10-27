@@ -2,21 +2,26 @@
 
 ## Introduction
 
-The Goat of Travail is a small ivory figurine Evelyn Grinkeeper buys while preparing for a new guild assignment near the lakes and wetlands east of the city. Though modest enough to carry, it promises something wonderfully extravagant: a great goat capable of accompanying its owner's adventures.[^purchase]
+The Goat of Travail is a small ivory figurine Evelyn buys from Gruber Lifton at Arcane To Go. Its portable form promises an imposing companion: a giant goat friendly to her and her companions.[^purchase]
 
-## A once-a-month companion
+## Development by arc
 
-At Arcane To Go, Gruber Lifton offers descriptions of several magical goats. The costly Goat of Terror is beyond the party's means, but a **Goat of Travail** is available. Gruber explains that the little ivory figurine can call forth a giant goat friendly to Evelyn and her companions, one that may even help in battle. Its arrival would last only a few hours, after which the charm must rest through a full month before being used again. The party embraces its peculiar usefulness, and the phrase *once a month goat* becomes an affectionate description before the creature has ever been called forth.[^rules]
+<a id="a-once-a-month-companion"></a>
+<a id="the-weddings-unexpected-blessing"></a>
 
-## The wedding's unexpected blessing
+### Arc One — A companion held in reserve
 
-For weeks Evelyn carries her ivory figurine without calling on it. At the Hooper–Goodwine wedding, disaster strikes the ceremonially released birds before they reach the air: twenty white pigeons lie dead behind the stage. With help from an illusionist who makes her invisible, Evelyn puts aside her plan to conjure a steed and **actually uses the figurine**. A colossal white goat, tall enough to astonish an entire halfling wedding, appears behind the stage. She lifts two of the dead white birds as part of her ruse and the crowd cheers, unaware of the disaster that was nearly exposed.[^wedding]
+Gruber describes a goat that can remain for a few hours before the figurine must rest for a month. Evelyn purchases it and carries it into the lake expedition without summoning its creature.[^rules]
+
+### Arc Two — A spectacle at the wedding
+
+The first summoning serves a ceremony rather than a battle. When the Hooper wedding's expected doves are found dead, Evelyn abandons the slower task of conjuring a steed. Daufante makes her invisible, and she uses the figurine behind the stage. A colossal white goat appears before the halfling crowd. Evelyn raises two dead birds in a ruse that helps conceal the failed release, and the guests cheer the unexpected spectacle.[^wedding]
 
 ## Current status
 
-Evelyn **owns the Goat of Travail**, purchased for **300 gp in S1E09**, and **actually summons its great white goat for the first time during the Hooper–Goodwine wedding in S2E02**. The creature appears **about thirteen feet tall** as a sudden ceremony spectacle after the expected doves are found dead. This **expends the figurine's once-per-thirty-days activation**; no recharge has yet been observed. **No battle, riding, naming, permanent goat familiar or other special power** is shown. The **Find Steed** spell was considered and discarded owing to its ten-minute casting time; the manifested goat is **the purchased figurine's creature**, not a Find Steed mount.[^wedding]
+Evelyn is the figurine's last known bearer, and the wedding is its last known summoning. The later condition of the figurine and fate of the manifested goat remain unknown.[^status]
 
-[^wedding]: [Delvers S2E02](../../episodes/S2E02.md), ~01:19–01:29. GM confirms **Find Steed would require ten minutes**, so Evelyn rolls/places **Goat of Travail** instead, visibly summons **13-foot white goat**. **Twenty doves are already dead**; Evelyn theatrically raises two. Thirty-day use from merchant [S1E09](../../episodes/S1E09.md), no completed recharge shown.
-[^purchase]: [S1E09](../../episodes/S1E09.md), ~02:06–02:10. The seller's variants (including Goat of Terror) must not be conflated with the purchased Goat of Travail.
-[^rules]: [S1E09](../../episodes/S1E09.md), ~02:08–02:11; GM/shop discussion describes a giant goat for roughly three hours, usable **once every thirty days**. No activation checked in play.
-[^status]: [S1E09](../../episodes/S1E09.md), ~02:08–02:22. Purchase/figurine delivery occurs; armor enchant due following morning is separate.
+[^purchase]: [S1E09](../../episodes/S1E09.md), ~02:06–02:10, ivory figurine actually purchased and delivered for **300 gp**. Gruber's descriptions of other variants, including the unaffordable Goat of Terror, are not properties of this purchased Goat of Travail.
+[^rules]: [S1E09](../../episodes/S1E09.md), ~02:08–02:11, merchant/GM explanation: a friendly giant goat for roughly **three hours**, usable **once every thirty days**, with possible assistance in battle. Duration, combat capability and full reuse cycle are stated rather than tested here. [S1E10](../../episodes/S1E10.md), ~01:36–01:53, explicitly includes Evelyn's carried figurine among her light lake gear. No exact elapsed number of weeks before first use is established here.
+[^wedding]: [S2E02](../../episodes/S2E02.md), ~01:19–01:29, Find Steed is considered but rejected because of its ten-minute casting time; Daufante actually casts Invisibility and Evelyn actually uses the figurine, manifesting an approximately **thirteen-foot white goat**. Twenty white doves/pigeons are already dead and she raises two; their killer remains unknown. The first once-per-thirty-days use is expended. No riding, battle, name, permanent familiar status, measured duration, later dismissal or completed recharge is separately demonstrated.
+[^status]: [S2E02](../../episodes/S2E02.md) supplies the last named activation, not proof that the figurine remains perpetually spent through the campaign's later time jumps. [S3E10](../../episodes/S3E10.md) explicitly summons Evelyn's giant elk through Find Steed; it and the later mount are not another figurine activation. Goat/figurine/ivory/Travail references were searched across all 37 dossiers, with selected complete relevant paragraphs reviewed. Badge imagery, Koh's goat legs and the final invitation's surname do not establish extra uses or an origin for this item. No new original ASR/audio, item sheet, rulebook, art or map review occurred.

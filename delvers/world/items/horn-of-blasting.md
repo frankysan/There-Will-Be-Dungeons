@@ -2,21 +2,31 @@
 
 ## Introduction
 
-The Horn of Blasting is a strange, powerfully resonant instrument recovered from an old armory beneath the guild's city. Shaped from the same pale stone-metal material as other ancient weapons, it carries its force not in an edge but in a terrible note. It inspires curiosity before caution, and its first use leaves the Darkest Delvers struggling to hear one another.[^finding]
+The Horn of Blasting is a pale stone-metal instrument recovered from an armoury chest below the city. It lies near rune-marked shafts that answer Koh's psychic concentration, but the horn gives no such response when he tries to awaken it.[^finding]
 
-## Discovery and first blast
+## Development by arc
 
-Evelyn and her companions discover the horn in a chest near a rack of rune-marked shafts that respond to Koh's psychic powers. The horn itself gives Koh no such response. Evelyn blows it in the stone room. The shock injures both Evelyn and Krandal and leaves them unable to hear for a short time; Koh's mental speech helps them communicate while they recover. A small crack appears around the horn's opening, but the instrument survives and remains with Evelyn when they leave the armory.[^first]
+<a id="discovery-and-first-blast"></a>
+<a id="a-weapon-against-a-hunter"></a>
 
-## A weapon against a hunter
+### Arc One — A powerful note and a warning crack
 
-The horn proves its value in the damp natural caverns. When a tall, hook-limbed predator pursues the party, Evelyn keeps her ground long enough to direct the instrument's blast at its face. The sudden thunder strikes the beast hard and disrupts the senses by which it seems to navigate. The moment allows Koh to deliver the killing arrow. Evelyn carries the memory of both uses into the guild's report: the horn can save lives, yet its effects cannot be taken lightly.[^second]
+Evelyn blows the horn in the stone room. The blast hurts her and Krandal and briefly takes their hearing, leaving Koh's mental speech to bridge the silence. A small crack appears around the horn's opening, though the instrument survives.[^first]
+
+In the natural caverns, Evelyn directs a second blast into the face of a pursuing hook horror. The thunder wounds and disorients the hunter, giving Koh an opening for the arrow that kills it. The horn has proved useful despite the damage to its bell.[^second]
+
+Evelyn then entrusts it to Carrie Underworld for examination, asking that it help future fighters. Carrie passes the recovered materials to a monk courier for the guild; the horn leaves Evelyn's hands without being destroyed.[^custody]
+
+### Arc Two — Evidence before the Academy
+
+Carrie later lays the horn and other recovered relics before the Guild Academy's board. It becomes evidence in Cassius's appeal for attention to the ancient ruins, rather than equipment returned to the Delvers.[^academy]
 
 ## Current status
 
-Evelyn **hands the horn to Carrie Underworld** for guild examination after the hook horror is slain. Carrie entrusts recovered materials to an assistant to be taken to the guild, and their later disposition is unshown. The horn has **not been proven destroyed, permanently confiscated or returned**. Its initial crack was observed, but no subsequent definitive breakage is narrated. Its powers and safety limits are those demonstrated in play, not a guarantee of unrestricted use.[^custody]
+The horn is last displayed by Carrie at the Guild Academy. Its subsequent storage and condition remain unknown.[^academy]
 
-[^finding]: [S1E08](../../episodes/S1E08.md), ~01:26–01:31, armory chest and distinct psychic-responsive shafts.
-[^first]: [S1E08](../../episodes/S1E08.md), ~01:31–01:36. Evelyn and Krandal **19 thunder damage each and transient deafness**, Koh unaffected; horn develops a small crack.
-[^second]: [S1E09](../../episodes/S1E09.md), ~00:48–00:55. Second blast deals **21 thunder** to hook horror; Koh kills it with subsequent bow shot. Sensory disruption GM described but precise creature mechanics not verified from outside source.
-[^custody]: [S1E09](../../episodes/S1E09.md), ~01:04–01:09. Carrie/monk handoff is played; no later horn pickup or condition adjudication.
+[^finding]: [S1E08](../../episodes/S1E08.md), ~01:26–01:31, one horn in the armoury chest near eight psychic-responsive shafts. Similar pale stone-metal appearance is not independently verified alloy composition, common maker or sentience. Koh's unsuccessful mental activation does not establish that every possible psychic interaction is impossible.
+[^first]: [S1E08](../../episodes/S1E08.md), ~01:31–01:36, **19 thunder damage each** to Evelyn and Krandal, temporary deafness fading about a minute later, Koh saves and is unaffected, small crack at the bell, horn retained by Evelyn. His outcome is not inherent immunity. No demon summoning occurs.
+[^second]: [S1E09](../../episodes/S1E09.md), ~00:48–00:55, **21 thunder damage** to the hook horror and disruption of its apparent echo-based navigation. Precise creature-sense mechanics are not independently verified; the later bow shot by Koh is the killing blow. The second blast does not narrate destruction or a new definitive condition of the earlier crack.
+[^custody]: [S1E09](../../episodes/S1E09.md), ~01:04–01:09, actual Evelyn-to-Carrie handover, then monk courier with gathered materials for guild examination. This is a submission, not proved irrevocable confiscation or a permanent ownership grant. [S1E10](../../episodes/S1E10.md), ~02:03–02:12, explicitly confirms the horn has not been returned.
+[^academy]: [S2E00](../../episodes/S2E00.md), ~00:04:15–00:05:45, Carrie physically displays the recovered Horn of Blasting and psychic shaft(s) before the Guild Academy board. This is a later direct appearance, not a fresh blast, condition inspection, destruction, permanent Academy acquisition or return to Evelyn. A board member's ancient-elven-defense account is testimony, not independently dated origin for the horn. Horn/blasting and related instrument references were searched across all 37 dossiers, with selected complete relevant paragraphs reviewed; other horns and sound devices are not silently merged. No later direct custody transaction is established here. No new original ASR/audio, item sheet, rulebook, art or map review occurred.

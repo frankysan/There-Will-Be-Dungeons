@@ -1,4 +1,6 @@
-# Villa Ornath — Dalit's spelljammer disguised as a cottage
+# Villa Or'Nath — Delit Or'Nath's family cottage and concealed spelljammer
+
+**Name and provenance (owner-confirmed, 2026-10-27):** The family surname is **Or'Nath**, shared by **Valiir Or'Nath** (Stanley Billings's original elven name) and his father **Delit Or'Nath**; the home is therefore **Villa Or'Nath**. Jon's [Valiir Or'Nath poem](https://discord.com/channels/146848379853471744/671473359099527180/755289251192504340) and the project owner's relationship/spelling clarification establish the editorial forms. Earlier `Villa Ornath`, `Delit Ornath`, `Dalit/Daliot Ornath` and the file path `villa-ornath.md` remain historical aliases and compatibility links, **not separate places or people**. The exact words spoken in episodes still require listening.
 
 > **The Wastes · Arc Five · first visited E115, hidden study discovered E118, escape mechanism disclosed E126, Season One refuge through E128.** This is the **family cottage originally inside Elhandar's orbital forest biodome**, not a new house built on Earth. [Elhandar](elhandar.md) · [Stanley](../characters/stanley-billings.md) · [Mask of Eltanfawr](../technology/mask-of-eltanfawr.md) · [E126 dossier](../../episodes/E126.md). **ASR-provisional, no original audio verified.**
 

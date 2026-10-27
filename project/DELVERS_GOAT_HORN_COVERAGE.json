@@ -1,0 +1,125 @@
+{
+  "date": "2026-10-27",
+  "scope": "Goat figurine and Horn of Blasting, separate artifact histories",
+  "headings": [
+    {
+      "path": "delvers/world/items/goat-of-travail.md",
+      "old_heading": "Goat of Travail \u2014 Evelyn's ivory figurine",
+      "old_anchor": "goat-of-travail--evelyns-ivory-figurine",
+      "target": "Native heading or compatibility anchor at chronological development",
+      "disposition": "Preserved; complete original archived"
+    },
+    {
+      "path": "delvers/world/items/goat-of-travail.md",
+      "old_heading": "Introduction",
+      "old_anchor": "introduction",
+      "target": "Native heading or compatibility anchor at chronological development",
+      "disposition": "Preserved; complete original archived"
+    },
+    {
+      "path": "delvers/world/items/goat-of-travail.md",
+      "old_heading": "A once-a-month companion",
+      "old_anchor": "a-once-a-month-companion",
+      "target": "Native heading or compatibility anchor at chronological development",
+      "disposition": "Preserved; complete original archived"
+    },
+    {
+      "path": "delvers/world/items/goat-of-travail.md",
+      "old_heading": "The wedding's unexpected blessing",
+      "old_anchor": "the-weddings-unexpected-blessing",
+      "target": "Native heading or compatibility anchor at chronological development",
+      "disposition": "Preserved; complete original archived"
+    },
+    {
+      "path": "delvers/world/items/goat-of-travail.md",
+      "old_heading": "Current status",
+      "old_anchor": "current-status",
+      "target": "Native heading or compatibility anchor at chronological development",
+      "disposition": "Preserved; complete original archived"
+    },
+    {
+      "path": "delvers/world/items/horn-of-blasting.md",
+      "old_heading": "Horn of Blasting \u2014 the thunderous ruin relic",
+      "old_anchor": "horn-of-blasting--the-thunderous-ruin-relic",
+      "target": "Native heading or compatibility anchor at chronological development",
+      "disposition": "Preserved; complete original archived"
+    },
+    {
+      "path": "delvers/world/items/horn-of-blasting.md",
+      "old_heading": "Introduction",
+      "old_anchor": "introduction",
+      "target": "Native heading or compatibility anchor at chronological development",
+      "disposition": "Preserved; complete original archived"
+    },
+    {
+      "path": "delvers/world/items/horn-of-blasting.md",
+      "old_heading": "Discovery and first blast",
+      "old_anchor": "discovery-and-first-blast",
+      "target": "Native heading or compatibility anchor at chronological development",
+      "disposition": "Preserved; complete original archived"
+    },
+    {
+      "path": "delvers/world/items/horn-of-blasting.md",
+      "old_heading": "A weapon against a hunter",
+      "old_anchor": "a-weapon-against-a-hunter",
+      "target": "Native heading or compatibility anchor at chronological development",
+      "disposition": "Preserved; complete original archived"
+    },
+    {
+      "path": "delvers/world/items/horn-of-blasting.md",
+      "old_heading": "Current status",
+      "old_anchor": "current-status",
+      "target": "Native heading or compatibility anchor at chronological development",
+      "disposition": "Preserved; complete original archived"
+    }
+  ],
+  "additional_blocks": [
+    {
+      "path": "delvers/world/items/goat-of-travail.md",
+      "old_block": "Purchase, merchant capabilities, first wedding summon, old spent/recharge status and unreferenced purchase/status note",
+      "target": "Introduction, Arc One reserve, Arc Two ceremony, final unknown later state and all four referenced notes"
+    },
+    {
+      "path": "delvers/world/items/horn-of-blasting.md",
+      "old_block": "Recovery/psychic nonresponse, first crack/deafness, hunter blast and examination custody",
+      "target": "Introduction, Arc One use/transfer, new Arc Two Academy appearance, final state and finding/first/second/custody/academy notes"
+    }
+  ],
+  "domains": {
+    "delvers/world/items/goat-of-travail.md": "Artifact: physical form, purchase, stated duration/reuse, first demonstrated summon and unresolved later state",
+    "delvers/world/items/horn-of-blasting.md": "Artifact: form, demonstrated effects/damage, examination transfer and later physical presentation"
+  },
+  "review": "Both complete pre-edit/revised pages; goat/figurine/ivory/Travail/horn/blasting descriptions searched across all 37 dossiers. Selected complete relevant paragraphs in S1E08/09/10, S2E00/02, S3E10/11/12 reviewed. No new original ASR/audio, sheet, rulebook, art or map review. Distinct horn candidate paragraphs in S1E05 and S3E07 also read; hag trophy and boat fitting remain separate.",
+  "critical_boundaries": [
+    "Purchased Goat of Travail distinct from offered Goat of Terror",
+    "Three hours and thirty-day reuse are stated, not a tested full operating cycle",
+    "First goat summon at wedding actually occurs; rejected Find Steed and later summoned elk stay separate",
+    "Thirteen-foot white goat and twenty dead birds/two waved birds retained without inventing killer, combat, riding, familiar, dismissal or recharge",
+    "First use expended then, not a permanently uncharged state through later time jumps",
+    "Horn first blast harms/deafens Evelyn and Krandal, Koh saves; crack observed without guaranteed destruction",
+    "Second blast wounds/disorients hunter, Koh arrow kills; no universal sensory or unlimited-use mechanics",
+    "Carrie/monk submission for examination is not irreversible ownership transfer",
+    "S1E10 no-return confirmation followed by actual S2E00 Academy display; later storage/condition unresolved"
+  ],
+  "baseline_drift": [
+    {
+      "path": "delvers/world/PLACES.md",
+      "previous_sha256": "56c6c5bc4551f334d9fc3d9b0582276f131db87b9317c7059a53986c7a6ac7fa",
+      "current_sha256": "9b36287b7e6f20ba92d2d6b5a797fb41fe7673a98871ca6a945deeaf8de3d71a",
+      "context": "Intervening committed map/diary provenance changes in e0960bb; preserved without edits by this task."
+    },
+    {
+      "path": "delvers/world/places/gemholm.md",
+      "previous_sha256": "4761f56b9bef21ba34320aca14823af5076a8d6859b1512d4d85885ca48eb078",
+      "current_sha256": "7964d52c84238212d0b6c8ee92ad88ba0bb47653708a5184b1123f4f68c1493f",
+      "context": "Intervening committed map/diary provenance changes in e0960bb; preserved without edits by this task."
+    },
+    {
+      "path": "delvers/world/characters/ambermoor.md",
+      "previous_sha256": "987395d7809712fd7aaf088df8662e0b84b9aeb2ed0594cf0a28d4417d4c422e",
+      "current_sha256": "4d1c6abc53ab2f766dd257952b1929f8de4c74788bb809861bc55d44d8d16910",
+      "context": "Intervening committed map/diary provenance changes in e0960bb; preserved without edits by this task."
+    }
+  ],
+  "audit_limit": "Old stored character/inventory hashes match 34 of 35 pages and place hashes 26 of 27 because Ambermoor/Gemholm changed in an intervening provenance commit. Registers themselves are preserved, not refreshed or fully recertified."
+}

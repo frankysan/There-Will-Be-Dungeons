@@ -906,3 +906,29 @@ The bag's one-object/sixty-pound description is not a tested maximum or generic 
 Both complete pages and selected complete relevant dossier paragraphs were read; related terms were searched across all 37 dossiers. No fresh original ASR/audio, sheet/rulebook/art/map review, source media/dossier edit or evidence-issue closure occurred. No character word quota or empty arc was imposed. No commit or push by this task.
 
 Next review the Goat of Travail and Horn of Blasting, then continue remaining world domains. Final integration and unresolved listening work remain pending.
+
+### Forty-sixth implementation checkpoint — Goat of Travail and Horn of Blasting
+
+**2026-10-27: Two artifact accounts migrated and locally validated.** [Report](../reports/DELVERS_GOAT_HORN_2026-10-27.md) · [Coverage](DELVERS_GOAT_HORN_COVERAGE.json) · [Validation](DELVERS_GOAT_HORN_VALIDATION.json) · [Archive](../research/legacy/2026-10-27/delvers-goat-horn/README.md).
+
+Both paths/titles remain. Introduction, chronological development and final Current status distinguish the figurine's stated duration/reuse from the first actual wedding summon, and the horn's observed blasts, crack and examination handover from the later Academy display. All 10 former targets and six exact originals/equivalent reading copies are preserved. All 351 protected hashes match this batch's baseline.
+
+Three intervening committed changes since the prior checkpoint are recorded rather than overwritten: the Delvers places index and Ambermoor/Gemholm provenance updates in e0960bb. Older character/register/inventory hashes now match 34 of 35 pages and the place register 26 of 27. The registers remain unchanged; this batch preserves the new page bytes without certifying or refreshing the older audit. Future integration must reconcile those provenance changes.
+
+The first goat use expends that activation without proving a permanently spent state through later time jumps. Find Steed remains a rejected wedding plan and a separate later elk spell. No goat battle, riding, familiar status, full duration, dismissal or recharge is invented. The horn's crack is not a confirmed destruction; its hunter blast precedes Koh's killing arrow. S1E10 confirms no return, and S2E00 actually presents it at the Academy without establishing a new blast, permanent ownership or final condition.
+
+Both complete pages and selected complete relevant dossier paragraphs were read; candidate terms searched across all 37 dossiers. No fresh original ASR/audio, item-sheet/rulebook/art/map review, source dossier/media edit or evidence-issue closure occurred. No word quota or empty arc was imposed. No commit or push by this task.
+
+Next review the Wand of Secrets and geared-disc account, then audit artifact dispositions before continuing remaining world domains. Final integration, provenance/audit reconciliation and unresolved listening remain pending.
+
+### Forty-seventh implementation checkpoint — Wand of Secrets and geared disc
+
+**2026-10-27: One combined artifact reference migrated and locally validated.** [Report](../reports/DELVERS_WAND_DISC_2026-10-27.md) · [Coverage](DELVERS_WAND_DISC_COVERAGE.json) · [Validation](DELVERS_WAND_DISC_VALIDATION.json) · [Archive](../research/legacy/2026-10-27/delvers-wand-disc/README.md).
+
+The canonical path/title remains. Introduction, chronological development and final Current status keep the wand, quarter-disc, crank and shattered ritual stone distinct. All 6 former heading targets, five exact originals and rebased reading copies are preserved. All 355 protected hashes match the current batch baseline, with no new drift since the goat/horn checkpoint. The inherited Ambermoor/Gemholm audit drift remains recorded; older character/inventory and place page hashes are not recertified here.
+
+The wand performs a deliberate pointing use; three/day is stated rather than a fully tested charge cycle. The fragment remains incomplete and its individual keeper uncertain. The ritualist's deeper-find story and the apparent gear fit remain separate from actual assembly. The larger Noble Hollow stone shares construction and breaks, without proving a completed mechanism. S3E04 actually fits the carried crank to a wheel, water raises the gate, and Evelyn retrieves the crank; S3E08 mentions a later retrieval without supplying an unshown installation sequence. Music-box records, lock/tomb discs, the homemade conch staff and other gates are not merged.
+
+The complete profile and selected complete relevant dossier paragraphs were read; candidate terms searched across all 37 dossiers. No fresh original ASR/audio, sheet/rulebook/art/map review, source media/dossier edit or evidence-issue closure occurred. No word quota or empty arc was imposed. No commit or push by this task.
+
+Next audit all current item-directory paths for artifact dispositions, evidence horizons and retained exceptions before continuing remaining world domains. Final integration, inherited provenance/audit reconciliation and unresolved listening remain pending.

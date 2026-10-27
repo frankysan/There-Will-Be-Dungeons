@@ -95,6 +95,10 @@ The [Soul Knife hilt](items/runic-sword-hilt.md) and [Dragon Slayer's Longsword]
 
 The [Bag of Hammer Holding](items/bag-of-hammer-holding.md) and [Ring of Protection](items/ring-of-protection.md) have an [artifact checkpoint](../../reports/DELVERS_BAG_RING_2026-10-27.md) distinguishing stated limits, observed use, separate equipment and unresolved later custody.
 
+The [Goat of Travail](items/goat-of-travail.md) and [Horn of Blasting](items/horn-of-blasting.md) have an [artifact checkpoint](../../reports/DELVERS_GOAT_HORN_2026-10-27.md) distinguishing stated summoning limits, demonstrated effects and later examination custody.
+
+The [Wand of Secrets and geared-disc account](items/wand-of-secrets-and-geared-disc.md) has an [artifact checkpoint](../../reports/DELVERS_WAND_DISC_2026-10-27.md) separating a demonstrated search tool, an incomplete fragment, matching construction and a later working crank.
+
 All 27 current place-directory paths now have bounded editorial dispositions: 25 place/institution accounts, one historical event study and one compatibility route. The [place audit](../../reports/DELVERS_PLACE_AUDIT_2026-10-26.md) and [disposition register](../../project/DELVERS_PLACE_DISPOSITIONS.json) distinguish direct site observations from later reports and outcomes. This does not certify complete factual coverage or finish the remaining world domains.
 
 ## Subject directory

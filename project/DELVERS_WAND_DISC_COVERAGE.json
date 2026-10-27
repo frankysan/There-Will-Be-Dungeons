@@ -1,0 +1,92 @@
+{
+  "date": "2026-10-27",
+  "scope": "One combined reference preserving separate wand, fragment, crank and shattered-stone histories",
+  "headings": [
+    {
+      "path": "delvers/world/items/wand-of-secrets-and-geared-disc.md",
+      "old_heading": "Wand of Secrets and the broken geared disc",
+      "old_anchor": "wand-of-secrets-and-the-broken-geared-disc",
+      "target": "Native heading or compatibility anchor at chronological development",
+      "disposition": "Preserved; complete original archived"
+    },
+    {
+      "path": "delvers/world/items/wand-of-secrets-and-geared-disc.md",
+      "old_heading": "Introduction",
+      "old_anchor": "introduction",
+      "target": "Native heading or compatibility anchor at chronological development",
+      "disposition": "Preserved; complete original archived"
+    },
+    {
+      "path": "delvers/world/items/wand-of-secrets-and-geared-disc.md",
+      "old_heading": "The wand's pointing",
+      "old_anchor": "the-wands-pointing",
+      "target": "Native heading or compatibility anchor at chronological development",
+      "disposition": "Preserved; complete original archived"
+    },
+    {
+      "path": "delvers/world/items/wand-of-secrets-and-geared-disc.md",
+      "old_heading": "A quarter of something larger",
+      "old_anchor": "a-quarter-of-something-larger",
+      "target": "Native heading or compatibility anchor at chronological development",
+      "disposition": "Preserved; complete original archived"
+    },
+    {
+      "path": "delvers/world/items/wand-of-secrets-and-geared-disc.md",
+      "old_heading": "The shattered stone at Noble Hollow",
+      "old_anchor": "the-shattered-stone-at-noble-hollow",
+      "target": "Native heading or compatibility anchor at chronological development",
+      "disposition": "Preserved; complete original archived"
+    },
+    {
+      "path": "delvers/world/items/wand-of-secrets-and-geared-disc.md",
+      "old_heading": "Current status",
+      "old_anchor": "current-status",
+      "target": "Native heading or compatibility anchor at chronological development",
+      "disposition": "Preserved; complete original archived"
+    }
+  ],
+  "additional_blocks": [
+    {
+      "path": "delvers/world/items/wand-of-secrets-and-geared-disc.md",
+      "old_block": "Wand effect/charge description, missing gear and suggested assembly, trader compensation, ritual-stone comparison, old first-arc-only custody",
+      "target": "Introduction, Arc One recognition/retrieval/compensation/comparison, Arc Three actual wheel fit and later retrieval, final component-specific custody and all seven referenced notes"
+    }
+  ],
+  "domains": {
+    "delvers/world/items/wand-of-secrets-and-geared-disc.md": "Artifact comparison/context: distinct physical objects, psychic identification, demonstrated versus hypothesized connections, transfer and supported last observation"
+  },
+  "review": "Complete pre-edit/revised profile; wand/geared-disc/quarter/gear/crank and bounded disc/disk descriptions searched across all 37 dossiers. Selected complete relevant paragraphs in S1E10/11/12, S3E04/08 and separate-object/lock/music-box candidates in S2E04/05/10 reviewed. No new original ASR/audio, sheet, rulebook, art or map review.",
+  "critical_boundaries": [
+    "Taken wand distinct from ritualist handmade conch staff",
+    "Wand psychic identification and one pointing use demonstrated; three/day stated, not tested full cycle or generic rules",
+    "Evelyn actually retrieves one-inch-thick quarter-disc; three-foot whole is conditional, not a completed device",
+    "Deeper origin is ritualist testimony, final individual fragment carrier uncertain",
+    "Koh actually accepts crank and estimated coin sack; no fit to quarter-disc or toothed gate attempted",
+    "Noble Hollow stone construction matches, ritual interrupted and larger stone breaks; no shared assembled mechanism established",
+    "S3E04 explicitly fits earlier crank to wheel; water raises gate, Evelyn bags recovered crank",
+    "S3E08 later crank retrieval does not supply missing installation/custody sequence",
+    "Wand last Koh, fragment party-associated, crank later Evelyn; no invented final inventory",
+    "Music-box record, rotating lock discs, conch staff, tomb discs and other gates remain distinct"
+  ],
+  "inherited_audit_drift": [
+    {
+      "path": "delvers/world/PLACES.md",
+      "previous_sha256": "56c6c5bc4551f334d9fc3d9b0582276f131db87b9317c7059a53986c7a6ac7fa",
+      "current_sha256": "9b36287b7e6f20ba92d2d6b5a797fb41fe7673a98871ca6a945deeaf8de3d71a",
+      "context": "Intervening committed map/diary provenance changes in e0960bb; preserved without edits by this task."
+    },
+    {
+      "path": "delvers/world/places/gemholm.md",
+      "previous_sha256": "4761f56b9bef21ba34320aca14823af5076a8d6859b1512d4d85885ca48eb078",
+      "current_sha256": "7964d52c84238212d0b6c8ee92ad88ba0bb47653708a5184b1123f4f68c1493f",
+      "context": "Intervening committed map/diary provenance changes in e0960bb; preserved without edits by this task."
+    },
+    {
+      "path": "delvers/world/characters/ambermoor.md",
+      "previous_sha256": "987395d7809712fd7aaf088df8662e0b84b9aeb2ed0594cf0a28d4417d4c422e",
+      "current_sha256": "4d1c6abc53ab2f766dd257952b1929f8de4c74788bb809861bc55d44d8d16910",
+      "context": "Intervening committed map/diary provenance changes in e0960bb; preserved without edits by this task."
+    }
+  ],
+  "audit_limit": "Old character disposition/inventory hashes remain stale for Ambermoor and place register for Gemholm. Registers preserved without recertification."
+}
