@@ -50,6 +50,8 @@ Particular safeguards:
 
 **Decision governance:** D-042/D-043 record owner-approved continuity and the current canonical Arc Six arrangement. The new eleven-arc organization is **proposed for evaluation**, not yet an adopted replacement. On approval, write an explicit superseding decision, update navigation and retain old arc filenames as redirects or historical copies after assessing backlinks.
 
+**Mandatory approval checkpoint:** Before *any* proposed cleanup edit that lacks a clear, applicable owner approval, stop the batch and request clarification/approval, identifying the exact change, affected files and evidence. A cleanup invocation or planning document does **not** imply acceptance of new arc boundaries, narrative rewrites, Races schema/content, canon judgments, renames, deletions or other undecided changes. Record the hold and preserve the current files; **do not continue with a different edit to bypass the unresolved decision**. Read-only investigation and preparing the decision package are permissible. Resume only upon explicit approval, and do not ask again for an already recorded authorization. See [the cleanup skill](../.agents/skills/twbd-wastes-cleanup/SKILL.md).
+
 ### Rebalancing method
 
 1. Capture immutable pre-edit originals and hashes; enumerate headings, prose paragraphs, episode/dossier links, footnotes and incoming links.

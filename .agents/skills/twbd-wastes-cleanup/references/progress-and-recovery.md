@@ -27,8 +27,11 @@ saved, stop dependent edits.
 
 Record last saved time, selected repository root, HEAD and initial Git changes,
 each phase's gate state, active batch path, pending decisions with approval
-references, and ordered remaining work. The next action names the file, operation
-and prerequisite check, not merely "continue Phase 0". Link completed batches
+references, and ordered remaining work. **Every planned content change must
+identify its explicit owner approval source or be marked `approval-required`.**
+The next action names the file, operation and prerequisite check, not merely
+"continue Phase 0". An unresolved approval-required edit is a **stop state**,
+not an invitation to select an unrelated edit. Link completed batches
 without copying their details. Future work remains planned, not completed.
 
 ## Batch journal template
@@ -55,9 +58,13 @@ testimony and existing issue keys.
 
 ## Operation protocol
 
-1. **Write intent first.** Persist operation ID, input hashes, affected paths,
-   prerequisites and next action before a long call or edit. For a census chunk,
-   save its ordered worklist and bounds before scanning.
+1. **Check explicit edit approval, then write intent.** Identify the owner
+   decision/current request that authorizes the exact proposed edit. If it is
+   unapproved or ambiguous, **stop and request clarification before touching
+   the target**; document the pending choice without proceeding to another
+   cleanup edit. Otherwise persist operation ID, approval source, input hashes,
+   affected paths, prerequisites and next action before a long call or edit.
+   For a census chunk, save its ordered worklist and bounds before scanning.
 2. **Preserve before replacing.** Copy actual working-copy bytes to
    `research/legacy/<date>/wastes-cleanup/<batch-id>/<repo-path>.original`.
    Read back and compare SHA-256 with the pre-edit file. HEAD is not a substitute
@@ -94,7 +101,7 @@ testimony and existing issue keys.
 | Archive missing/hash mismatch | Stop that page's rewrite. Recover a verifiable actual original or record blocker and choose independent work. Never claim rewritten text as the old original. |
 | Check fails/tool unavailable | Record exact scope/failure. Fix introduced problems where possible; keep missing checks pending and avoid falsely advancing acceptance. |
 | Manifest/pointer write interrupted | Reconstruct from journal and actual artifacts; apply only missing control updates. |
-| Owner decision pending | Link reviewable package and exact decision; preserve canonical structure and continue independent eligible work. |
+| Proposed edit has no explicit approval / owner decision pending | **Stop the cleanup batch before that edit**, persist the exact requested choice and supporting evidence, ask the owner for approval or clarification, and do **not** substitute unrelated cleanup edits. Resume only after the decision is recorded. |
 
 After repeated failure, change approach or reduce the slice instead of blindly
 repeating a call. Preserve failures and recovery outcomes. A batch is complete

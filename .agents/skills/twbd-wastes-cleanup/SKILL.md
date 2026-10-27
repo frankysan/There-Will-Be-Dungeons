@@ -62,9 +62,26 @@ mutations. Recording is part of each operation, not an end-of-turn task.
 5. Persist intent, perform the slice, validate and checkpoint using the recovery
    protocol. Continue only within the requested scope and remaining capacity.
 
-When a decision is required, prepare the concrete comparison and coverage
-evidence first. Record the pending decision and continue independent eligible
-work if available. Do not ask again for an approval already recorded.
+### Mandatory owner-approval stop gate
+
+Before **each proposed cleanup edit**, identify the approval authorizing its
+exact scope (current user request or an explicit, still-applicable recorded owner
+decision). The general `$twbd-wastes-cleanup` invocation, a draft plan, a
+suggested chapter crosswalk, and a recorded *proposal* do **not** by themselves
+approve an undecided rewrite, renumbering, new taxonomy, canon assertion, file
+move, deletion, or other material change.
+
+If the next required edit is **not explicitly approved**, or its approved scope
+is ambiguous, **STOP the cleanup batch before modifying that target and ask the
+owner for clarification/approval**. Present the exact files/subjects affected,
+the proposed edit and alternatives, its evidence, and the relevant unresolved
+decision. Record the blocked operation and pending approval in the journal,
+manifest and progress pointer when those records exist; a metadata-only record
+of the hold is not permission to make the substantive edit. **Do not sidestep
+the hold by choosing a different cleanup edit or silently skipping ahead.**
+Resume only after an explicit decision; do not re-request an approval already
+recorded and still applicable. Read-only investigation needed to explain the
+choice is allowed, provided it changes no unapproved content.
 
 ## Phases and exit evidence
 
@@ -81,8 +98,10 @@ page lifecycle are separate; an accepted pilot does not complete its domain.
 | 5 — Research verification | Reuse existing review-queue/ledger issue keys. Prioritize consequential identity, contract, chronology, custody or ending questions. Consult dossiers first and perform only focused ASR/handout/listening work needed. Record actual actions and competing interpretations; never resolve doubt merely to close a batch. |
 | 6 — Integration | Reconcile root/world/narrative navigation, chronology, entity aliases/relationships, queues and ledger. Archive obsolete controls before shortening; retain issue keys and unresolved questions. Verify terminal file dispositions, compatibility links, actual horizons and maintained anchors. Completion requires every applicable gate and explicit evidence limits. |
 
-Phases 3–5 may proceed in linked batches once dependencies permit. A pending arc
-decision does not prevent independent inventory, discovery or source checks.
+Phases 3–5 may proceed in linked batches only within **already-approved**
+scopes and satisfied dependencies. Read-only inventory, comparison and discovery
+may prepare an approval decision, but any pending **unapproved edit** invokes
+the mandatory stop gate above; do not continue to another edit instead.
 
 ## Evidence and editorial invariants
 
