@@ -1,0 +1,493 @@
+{
+  "date": "2026-10-27",
+  "campaign": "Delvers",
+  "type": "played-session transcript identity only",
+  "scope": "Complete byte comparison only; no new interpretation, ASR calculation or listening",
+  "checked_HEAD": "ae144a9efd50c639000bca060252127e0c057b13",
+  "ordered_targets": [
+    "S3E09",
+    "S3E08",
+    "S3E07",
+    "S3E06",
+    "S3E05"
+  ],
+  "members": [
+    {
+      "episode": "S3E09",
+      "state": "complete",
+      "comparison_report": "reports/DELVERS_S3E09_ASR_COMPARISON_2026-10-26.md",
+      "recorded_initial_commit": "9f963c06ffa882c863d0b45f4ed9221c8f0ca438",
+      "original_fetch_pinned": false,
+      "sources": [
+        {
+          "path": "sources/Delvers S3E09. I Am The Natural One.parakeet.processed.srt",
+          "recorded_blob_sha1": "5b283b1d2193e0d70591a32c9d6ef47b276b1ae8",
+          "raw_bytes_preflight": 260594,
+          "raw_bytes": 260594,
+          "raw_sha256": "5490914bc3cc3bc30fb0eca4f2aa613428fd655aa6ef551b33fbd15c88e1926c",
+          "raw_git_blob_sha1": "59c875a4f030117d443950f9c960e56e73b0bbee",
+          "CRLF_pairs": 12681,
+          "LF_bytes": 12681,
+          "UTF8_BOM": false,
+          "LF_only_bytes": 247913,
+          "CRLF_to_LF_git_blob_sha1": "5b283b1d2193e0d70591a32c9d6ef47b276b1ae8",
+          "raw_byte_identity": false,
+          "exact_comparison_after_only_CRLF_to_LF": true,
+          "local_Git_object_sha1_verified": true,
+          "recorded_initial_commit_path_blob": "5b283b1d2193e0d70591a32c9d6ef47b276b1ae8",
+          "recorded_initial_commit_path_match": true,
+          "phase_A_file_state": {
+            "size": 260594,
+            "mtime_ns": 1792665208014973900
+          }
+        },
+        {
+          "path": "sources/Delvers S3E09. I Am The Natural One.qwen-q8.canary-ctc.nemotron.srt",
+          "recorded_blob_sha1": "33917e223b6c6cd7c969c0768476478cddeec175",
+          "raw_bytes_preflight": 361152,
+          "raw_bytes": 361152,
+          "raw_sha256": "3290bd2a48222351d3d6e781ab2f60b9a53bbcc262080f390f68976373f81067",
+          "raw_git_blob_sha1": "3aa6decc67a8cf13f4fb0bf488a8f99dcdcdf169",
+          "CRLF_pairs": 18232,
+          "LF_bytes": 18232,
+          "UTF8_BOM": false,
+          "LF_only_bytes": 342920,
+          "CRLF_to_LF_git_blob_sha1": "33917e223b6c6cd7c969c0768476478cddeec175",
+          "raw_byte_identity": false,
+          "exact_comparison_after_only_CRLF_to_LF": true,
+          "local_Git_object_sha1_verified": true,
+          "recorded_initial_commit_path_blob": "33917e223b6c6cd7c969c0768476478cddeec175",
+          "recorded_initial_commit_path_match": true,
+          "phase_A_file_state": {
+            "size": 361152,
+            "mtime_ns": 1792714390287350300
+          }
+        }
+      ]
+    },
+    {
+      "episode": "S3E08",
+      "state": "complete",
+      "comparison_report": "reports/DELVERS_S3E08_ASR_COMPARISON_2026-10-26.md",
+      "recorded_initial_commit": "9aa01b155e7465d0a74ef10653d02e23dc84a631",
+      "original_fetch_pinned": false,
+      "sources": [
+        {
+          "path": "sources/Delvers S3E08. I Smell a Rat Ball.parakeet.processed.srt",
+          "recorded_blob_sha1": "0078bcd05b9c9b2836bbba0a34d1ee5a7becca62",
+          "raw_bytes_preflight": 225798,
+          "raw_bytes": 225798,
+          "raw_sha256": "015bfff5678ce56cf0dc553c27144a849703e812001db2e46262e312b8855fad",
+          "raw_git_blob_sha1": "542fd8f3cb744764e16f4ee4e3bc54d54a13df7d",
+          "CRLF_pairs": 11007,
+          "LF_bytes": 11007,
+          "UTF8_BOM": false,
+          "LF_only_bytes": 214791,
+          "CRLF_to_LF_git_blob_sha1": "0078bcd05b9c9b2836bbba0a34d1ee5a7becca62",
+          "raw_byte_identity": false,
+          "exact_comparison_after_only_CRLF_to_LF": true,
+          "local_Git_object_sha1_verified": true,
+          "recorded_initial_commit_path_blob": "0078bcd05b9c9b2836bbba0a34d1ee5a7becca62",
+          "recorded_initial_commit_path_match": true,
+          "phase_A_file_state": {
+            "size": 225798,
+            "mtime_ns": 1792664840383856000
+          }
+        },
+        {
+          "path": "sources/Delvers S3E08. I Smell a Rat Ball.qwen-q8.canary-ctc.nemotron.srt",
+          "recorded_blob_sha1": "32151bd68f78c03c3636fab2cd53c6a3a3a7e183",
+          "raw_bytes_preflight": 313067,
+          "raw_bytes": 313067,
+          "raw_sha256": "f1292afe1e35f393f567694617848f129c7d1d83e252c64bcffb1e5ef846750d",
+          "raw_git_blob_sha1": "39089893104aabe20cb0573a067b7b5228cec868",
+          "CRLF_pairs": 15824,
+          "LF_bytes": 15824,
+          "UTF8_BOM": false,
+          "LF_only_bytes": 297243,
+          "CRLF_to_LF_git_blob_sha1": "32151bd68f78c03c3636fab2cd53c6a3a3a7e183",
+          "raw_byte_identity": false,
+          "exact_comparison_after_only_CRLF_to_LF": true,
+          "local_Git_object_sha1_verified": true,
+          "recorded_initial_commit_path_blob": "32151bd68f78c03c3636fab2cd53c6a3a3a7e183",
+          "recorded_initial_commit_path_match": true,
+          "phase_A_file_state": {
+            "size": 313067,
+            "mtime_ns": 1792713756047085200
+          }
+        }
+      ]
+    },
+    {
+      "episode": "S3E07",
+      "state": "complete",
+      "comparison_report": "reports/DELVERS_S3E07_ASR_COMPARISON_2026-10-25.md",
+      "recorded_initial_commit": "be83933f8338dfc347466c3e691f754721d6c1d5",
+      "original_fetch_pinned": true,
+      "sources": [
+        {
+          "path": "sources/Delvers S3E07. A Shirt Full of Mayo.parakeet.processed.srt",
+          "recorded_blob_sha1": "994f7871713ff2197fa9bf48830052fc9ab40d61",
+          "raw_bytes_preflight": 252170,
+          "raw_bytes": 252170,
+          "raw_sha256": "f6d7df98c1cbbd6be9f93cddbb522270a021d9ebf665cca47169a22d98902673",
+          "raw_git_blob_sha1": "cdcb438a846afef747eebeabda9a6046cbf07e2b",
+          "CRLF_pairs": 12240,
+          "LF_bytes": 12240,
+          "UTF8_BOM": false,
+          "LF_only_bytes": 239930,
+          "CRLF_to_LF_git_blob_sha1": "994f7871713ff2197fa9bf48830052fc9ab40d61",
+          "raw_byte_identity": false,
+          "exact_comparison_after_only_CRLF_to_LF": true,
+          "local_Git_object_sha1_verified": true,
+          "recorded_initial_commit_path_blob": "994f7871713ff2197fa9bf48830052fc9ab40d61",
+          "recorded_initial_commit_path_match": true,
+          "phase_A_file_state": {
+            "size": 252170,
+            "mtime_ns": 1792664509564744400
+          }
+        },
+        {
+          "path": "sources/Delvers S3E07. A Shirt Full of Mayo.qwen-q8.canary-ctc.nemotron.srt",
+          "recorded_blob_sha1": "519f4927e57e667b0c32bc7258498576bd31d7f0",
+          "raw_bytes_preflight": 348384,
+          "raw_bytes": 348384,
+          "raw_sha256": "034eda999b83d1ca7eaf7232c0cc506aa2f73fd68e110f43533b221c6f95e061",
+          "raw_git_blob_sha1": "669739abbe1161989b42bc9a6013d3d38a0dab8f",
+          "CRLF_pairs": 17464,
+          "LF_bytes": 17464,
+          "UTF8_BOM": false,
+          "LF_only_bytes": 330920,
+          "CRLF_to_LF_git_blob_sha1": "519f4927e57e667b0c32bc7258498576bd31d7f0",
+          "raw_byte_identity": false,
+          "exact_comparison_after_only_CRLF_to_LF": true,
+          "local_Git_object_sha1_verified": true,
+          "recorded_initial_commit_path_blob": "519f4927e57e667b0c32bc7258498576bd31d7f0",
+          "recorded_initial_commit_path_match": true,
+          "phase_A_file_state": {
+            "size": 348384,
+            "mtime_ns": 1792713201765435400
+          }
+        }
+      ]
+    },
+    {
+      "episode": "S3E06",
+      "state": "complete",
+      "comparison_report": "reports/DELVERS_S3E06_ASR_COMPARISON_2026-10-25.md",
+      "recorded_initial_commit": "8c63b10189f375019f815bd838416caacc0f6822",
+      "original_fetch_pinned": true,
+      "sources": [
+        {
+          "path": "sources/Delvers S3E06. A naked man can be slippery.parakeet.processed.srt",
+          "recorded_blob_sha1": "87a82c9211d9762c1e73f887e8d0ade4c916d7d3",
+          "raw_bytes_preflight": 223490,
+          "raw_bytes": 223490,
+          "raw_sha256": "20012fe3d443c6898e653ee962bbdbfac87b60a853577411444402745fdb76b9",
+          "raw_git_blob_sha1": "12914c929d5f7196454cfc3dbc1865202b6150c1",
+          "CRLF_pairs": 10889,
+          "LF_bytes": 10889,
+          "UTF8_BOM": false,
+          "LF_only_bytes": 212601,
+          "CRLF_to_LF_git_blob_sha1": "87a82c9211d9762c1e73f887e8d0ade4c916d7d3",
+          "raw_byte_identity": false,
+          "exact_comparison_after_only_CRLF_to_LF": true,
+          "local_Git_object_sha1_verified": true,
+          "recorded_initial_commit_path_blob": "87a82c9211d9762c1e73f887e8d0ade4c916d7d3",
+          "recorded_initial_commit_path_match": true,
+          "phase_A_file_state": {
+            "size": 223490,
+            "mtime_ns": 1792664183513511000
+          }
+        },
+        {
+          "path": "sources/Delvers S3E06. A naked man can be slippery.qwen-q8.canary-ctc.nemotron.srt",
+          "recorded_blob_sha1": "d99b8123042e78865fb13d5403e6d6cf9c7326b2",
+          "raw_bytes_preflight": 296521,
+          "raw_bytes": 296521,
+          "raw_sha256": "036f8272cb7cc525e2af07220ed742cdc47a3e396cdfadf7cffe20cbb10e195e",
+          "raw_git_blob_sha1": "56f4a050ab3682b79fa97312846090b531e7471a",
+          "CRLF_pairs": 14588,
+          "LF_bytes": 14588,
+          "UTF8_BOM": false,
+          "LF_only_bytes": 281933,
+          "CRLF_to_LF_git_blob_sha1": "d99b8123042e78865fb13d5403e6d6cf9c7326b2",
+          "raw_byte_identity": false,
+          "exact_comparison_after_only_CRLF_to_LF": true,
+          "local_Git_object_sha1_verified": true,
+          "recorded_initial_commit_path_blob": "d99b8123042e78865fb13d5403e6d6cf9c7326b2",
+          "recorded_initial_commit_path_match": true,
+          "phase_A_file_state": {
+            "size": 296521,
+            "mtime_ns": 1792712595428724700
+          }
+        }
+      ]
+    },
+    {
+      "episode": "S3E05",
+      "state": "complete",
+      "comparison_report": "reports/DELVERS_S3E05_ASR_COMPARISON_2026-10-25.md",
+      "recorded_initial_commit": "2ad71c746c7d118ac408cf24e492df520351377a",
+      "original_fetch_pinned": true,
+      "sources": [
+        {
+          "path": "sources/Delvers S3E05. Dungeon Goes Poof.parakeet.processed.srt",
+          "recorded_blob_sha1": "e58be47876ed187ba1426da9682b3dab942991ad",
+          "raw_bytes_preflight": 230524,
+          "raw_bytes": 230524,
+          "raw_sha256": "77676d1efc52568f53b9fc714c0c79245bbfaaf65f3559d7274537875e418c2a",
+          "raw_git_blob_sha1": "652b0680d34f6ba83aad296d7bfdd903532d138d",
+          "CRLF_pairs": 11176,
+          "LF_bytes": 11176,
+          "UTF8_BOM": false,
+          "LF_only_bytes": 219348,
+          "CRLF_to_LF_git_blob_sha1": "e58be47876ed187ba1426da9682b3dab942991ad",
+          "raw_byte_identity": false,
+          "exact_comparison_after_only_CRLF_to_LF": true,
+          "local_Git_object_sha1_verified": true,
+          "recorded_initial_commit_path_blob": "e58be47876ed187ba1426da9682b3dab942991ad",
+          "recorded_initial_commit_path_match": true,
+          "phase_A_file_state": {
+            "size": 230524,
+            "mtime_ns": 1792663833989905300
+          }
+        },
+        {
+          "path": "sources/Delvers S3E05. Dungeon Goes Poof.qwen-q8.canary-ctc.nemotron.srt",
+          "recorded_blob_sha1": "b428c2d8937fd8751a8226255ff1ac32bc0e05ae",
+          "raw_bytes_preflight": 311504,
+          "raw_bytes": 311504,
+          "raw_sha256": "7be3454e598b703e644a7c6c00f5f1918a3ba6adf33fca14c6867505a5b6260b",
+          "raw_git_blob_sha1": "e3376197e1968a643a8e0882bb19f4fb838cb955",
+          "CRLF_pairs": 15508,
+          "LF_bytes": 15508,
+          "UTF8_BOM": false,
+          "LF_only_bytes": 295996,
+          "CRLF_to_LF_git_blob_sha1": "b428c2d8937fd8751a8226255ff1ac32bc0e05ae",
+          "raw_byte_identity": false,
+          "exact_comparison_after_only_CRLF_to_LF": true,
+          "local_Git_object_sha1_verified": true,
+          "recorded_initial_commit_path_blob": "b428c2d8937fd8751a8226255ff1ac32bc0e05ae",
+          "recorded_initial_commit_path_match": true,
+          "phase_A_file_state": {
+            "size": 311504,
+            "mtime_ns": 1792712040899679200
+          }
+        }
+      ]
+    }
+  ],
+  "status": "complete",
+  "validation": {
+    "archived_originals": 12,
+    "guarded_edits": 12,
+    "protected_files": 106,
+    "source_file_states": 10,
+    "new_links": 40,
+    "source_fingerprints_reused_from_phase_A": true,
+    "markdownlint": {
+      "maintained_files": 13,
+      "violations": 0,
+      "archive_readme": "passed separately"
+    },
+    "scoped_git_diff_check": "passed",
+    "direct_new_file_whitespace_checks": 4,
+    "errors": [],
+    "editorial_status": "complete for byte provenance only",
+    "automated_status": "passed",
+    "ASR_metric_recomputed": false,
+    "semantic_windows_reviewed": [],
+    "audio_windows_reviewed": [],
+    "deferred": "Listening, semantic research, remote-tip lookup and whole-repository audit",
+    "status": "passed"
+  },
+  "next_verification": "S3E04 source-identity preflight",
+  "protected_files": {
+    "delvers/narrative/FIRST_JOBS.md": "c89d732560f49d81a0433a7f25c2788243981daac594935fe3be79d899f91849",
+    "delvers/narrative/README.md": "af81cc78c886f4aa9c26e321c0301d2c45eaa5aca6cf0cfa362196542382cf93",
+    "delvers/narrative/SEASON_ONE_ARC.md": "0e68940c1c0ab4766419cb88c6903cac8d5fd72889e6cded4001affecddeacdc",
+    "delvers/narrative/SEASON_THREE.md": "e772b43b60966e3a4d105571c1f3b701903919011e82bf709cab15a7617ee280",
+    "delvers/narrative/SEASON_TWO.md": "6462e3d4656a0aaf18f9b3ce8784c3eb6c76b3b916c5c95bec441f055ed889b3",
+    "delvers/narrative/SKULL_KEEP.md": "def6f599c0450314519616f2353bb16f587594ae5a6a4969eb8d112c36686a6e",
+    "delvers/narrative/THE_RISE_TO_BRONZE.md": "f6762da49b2c8c82ca8bcba0cc87c2a6dea6cdfe6b90f3ecc21e4616c0277616",
+    "delvers/narrative/THE_WELLS_OF_ATOMER.md": "c327dbb351ce9e4c5b5b8d1bf5f571fe7c897941203f913e0b25da5ba618fd54",
+    "delvers/world/CHARACTERS.md": "9177ac5ca4a7c37eb11c495529067b399989bde76244037f7a066d64b3be1e80",
+    "delvers/world/CHRONOLOGY.md": "65c41639dd74a4106431db3cc341cfebbc337199d511d46c3cc741c137832020",
+    "delvers/world/CONSISTENCY_LEDGER.md": "b83f33d3679a42175df65439282e033b80a2ccedcb9db2291e4824315fc724f6",
+    "delvers/world/CREATURES_AND_MONSTERS.md": "8a67bd27da560993a248f9fd6d4417a0f8aeb292f1b104b65e6aeeebbc86ea13",
+    "delvers/world/PLACES.md": "52629c11eba1c779df9454eea78137c379341393a0ec955bcd357de148b8caef",
+    "delvers/world/README.md": "4d1b324523af984d54b1b7756e4abc42e25210ad0d7c2b0e922e6b488dd65325",
+    "delvers/world/WORLD.md": "99de32da9c9cba672f9b80d0585773e3c67fe223dba908fed4b6d70c14edc4b3",
+    "delvers/world/characters/alexandre-vanderbuck-withers.md": "a9c997c79eb30e8821e7956a7425021742d64266818a8d5b060826fc3ca2e6f9",
+    "delvers/world/characters/all-rat.md": "72a17e2c266f7a65f0a21ff69b3557184134a906260acf05be78cfc85e647392",
+    "delvers/world/characters/ambermoor.md": "d4a91e503e7dd9f0fc3855434036eb27f48d781a5e146b1869233789f1f042a2",
+    "delvers/world/characters/anthela-spiros.md": "83aa6f76c406b9ff951758f040a2dc6e9e11396755b2fae82def8cc9643d9265",
+    "delvers/world/characters/barclay-vandergeist.md": "ef5541b1048d5c2e4511088c2238dda6276caeb27da23f6136d333f09da42813",
+    "delvers/world/characters/broadside.md": "4ea6b2464432d9acbc684773f6f604346a3ded088a19724fd5df1bf068e8ef8d",
+    "delvers/world/characters/buck-broscale-wildfire.md": "80b4166c77017fd72c9bc2f0cdb62e3491b180fbe25887da4a321bd2edb21433",
+    "delvers/world/characters/carrie-underworld.md": "0da5d2935c22c871b6f89e06ca05b15069e09328c641cb3b9c6251ecf03871b9",
+    "delvers/world/characters/cassius.md": "c7fedc6ccf5f7a68157990397f9be5c84eb57278d79c9a0560b1ad58c71492fa",
+    "delvers/world/characters/chad-brad.md": "e4952627b7c59f74aa68aee64300c4443fff3449a991af2cec3b7f2d25cdfbf5",
+    "delvers/world/characters/cheet.md": "19ee62d3a25073ff342db9fda039cb8ed8b7143f168ae79bcfbce453f95ba580",
+    "delvers/world/characters/chuck-abnaz.md": "4b5acacac8cc99b2744025402e3b3e47261b74d36cf0fee0bf890f466711edf3",
+    "delvers/world/characters/darmah-edstream.md": "a80c98cc7975f059b5a3a2933ede5fc7eb310fb82b2360022d865d464af510ee",
+    "delvers/world/characters/destroying-angel.md": "bab7bff4fd5e8de49cc6a14286f13d9d25a9e9878f7e2ed65ea1ddd0d7b9d026",
+    "delvers/world/characters/dumbledwark-of-raisinbunch.md": "3332c4f8c38edcb7ee91abbe338c52e323f054b94bef2dcae1604e281aaa5315",
+    "delvers/world/characters/enzo-vanderbuck-withers.md": "66b95556a71a823861b7d420bf74f0cc51051da92878ca90e514c108b53363b0",
+    "delvers/world/characters/evelyn-grinkeeper.md": "6bcf0a867e882dd23cbd33fbdd5dc1887c2edc1c7743ab94a1073d4c806ec612",
+    "delvers/world/characters/gentleman-cavalier-traveler.md": "8378fb556fb1b623865d647607937c13e6cc477e7c525a885161eef21087b7f3",
+    "delvers/world/characters/gleepo-ma.md": "e08df96362ad2c8d63946c0b92f374869589095192f92311df3df22b93319e2e",
+    "delvers/world/characters/goggles-granny.md": "cfd6a98fc8454630625741f80ebe7c32eda6c53da8f5ad60148170b7fb3bed98",
+    "delvers/world/characters/khalazar.md": "8cdffe2bf652fca5659952e3f178448aae9e76572036f7d648e95487e1f2d7e8",
+    "delvers/world/characters/koh-spiros.md": "9d71f782626c7610c2b7c5e374074963763ed493be2d8d7171ec34667752271c",
+    "delvers/world/characters/krandal-splenderbelt.md": "39fe3e0a8ef2404774f6be9ae26a0d3e8047c36bd402468800322b67e54e4f89",
+    "delvers/world/characters/marek-gideon.md": "8de0e260f59341967c650b174a56aeed3bbd800a5104e933890b4f77714a6392",
+    "delvers/world/characters/margaret-dupayton.md": "bbaf2405bb9ef669a145b407f3bafc695a37b7528f903c183c0697fc4fe3fa33",
+    "delvers/world/characters/marsh.md": "f7e4e4fc50633bb7623f285dc871dc63587f95d12e157d503336a5c00dc093c5",
+    "delvers/world/characters/masked-mage.md": "a6e9ed1ebd5c9d3f653d948390ac3d8b69c6b82448e117cfe8c23c1a83acc492",
+    "delvers/world/characters/nopa-ropa.md": "d950cd611fcf9a95d14c72374017fe68600df1b4449fbd689556cc7d351aa2db",
+    "delvers/world/characters/penelope-spiros.md": "6ba66e247f1d66d57e22ff3f61c723f4cb145df0544280833f26164dc0c29606",
+    "delvers/world/characters/princess-hissia.md": "9cc4ac4a1bc6f6b632e75f0c3e20813ad5f6bdca827c600b9ec7a48b9aefa65e",
+    "delvers/world/characters/radiant-lance.md": "caed57b5a353bf63544794232f6c804fbf2e49836f864594e0c3e0ea1dffc26b",
+    "delvers/world/characters/shaolin-nym.md": "2412cedb62201c564bbc6595dfa9b7d34c8ffe339a30e5d4aec8cfe3a2089435",
+    "delvers/world/characters/shrugs-manaspoon.md": "2f3dd5dcf6e9cef9d5d1f36cfe65af3c587936bee116cf3b2ca397d6d98dba63",
+    "delvers/world/characters/skoogie.md": "b6a2e36d98fe4fca6a3986fafc52e0f69e3d361cbee39e7523f14ae5a81e11fd",
+    "delvers/world/characters/the-great-daufante.md": "8dce7d1a2194469f9c08ad611b182da715ea7c8a776092fe096eb8466d909d9c",
+    "delvers/world/characters/veggie-sticks.md": "97414b03aa2827b7d660f6e481d7dde3222d66f030a3a00a4d6cac9e9888a350",
+    "delvers/world/creatures/all-rat-cranium-congregation.md": "cf251e4e9dd5dcce4906065b1e5cbdb45ebc352a88504e25196fd80ee7c6b255",
+    "delvers/world/creatures/dungeon-c4-behir.md": "f93092b8d5b4b6d8becd03a10268f40ce7bc17246b5cb0db6a73fb4624ac2280",
+    "delvers/world/creatures/flameskull.md": "6ba481f869b8ff18f0e784ba6313322df08ac9b74281c352458d22272e1c147a",
+    "delvers/world/creatures/gricks.md": "06722ca957369151004f248f1c85756b346c1b44805b28ef8d7ca87ef7f5b7b9",
+    "delvers/world/creatures/hook-horrors.md": "9389c2aff6446f58d09abfe7c46480054feca0a4e65fd02e478c5028b2a49649",
+    "delvers/world/creatures/noble-hollow-roper.md": "e61219db18c5f51c4c9a3ade7a86b0ecc02bc5c3d6571fd89718d883d6a0688a",
+    "delvers/world/creatures/skeletal-bat-balcony.md": "cfd4efd3de648ae30b60f87e9db38dda5119dc8c518bc63785a982ca34f900dd",
+    "delvers/world/creatures/triangle-gate-mummies.md": "8c8f991f6f2b952393ab1cf8a835a66f8ed1ce236b7fdb6dcd6029bc067e878e",
+    "delvers/world/items/bag-of-hammer-holding.md": "cb5412ef9acceb7dd870efd63aae44b1c748a6013e3dcd7401e623657dca24cf",
+    "delvers/world/items/chance-lantern.md": "9c1c18d960999830e8f3b67b75e2da360ae1a7e0c31b76638747c788b8f260a8",
+    "delvers/world/items/deck-of-many-things.md": "08247e580c1bbf7be9c258ee06d8db5efdb9e57f7c1b129fa080fccc8b1acd51",
+    "delvers/world/items/devotees-censer.md": "27a938432fb75df90984aeada76373505a65c83f65cb6d5cc1677c72b664c896",
+    "delvers/world/items/dragon-slayer-longsword.md": "6c721e4260a2b88519ca1a4464fae5d91c43bb1add126e30b0a07ef87829545a",
+    "delvers/world/items/dried-heart-jar.md": "3060b069d85a5bb9db6c6709e27f45f5341c19e055d80764c94443d6040a9549",
+    "delvers/world/items/drift-globe.md": "71fbbdcfdc8038fb247af4937f75fbf9a7337a45da202654839cece7a37257d9",
+    "delvers/world/items/friendship-ribbon.md": "2e05031c2dfeb007d786701cfa7ae09e1ed46a35eafc4e7007734b83dce8fbda",
+    "delvers/world/items/goat-of-travail.md": "f3214a50392a4d487104ec756b5b6c8364a28b27fd875549868843c2c6e68a15",
+    "delvers/world/items/hereditary-drone.md": "84284f329df3ae469d77763407f0161e7182aabd9782080189922a28fe08e9ca",
+    "delvers/world/items/horn-of-blasting.md": "4861b7d06b1996c370c851fc4ad5c5ba008321162bfacf512d6bff8ce2c73d20",
+    "delvers/world/items/khalazar-red-crystal.md": "443b07b683444be43297ab5dc2d312446850a73855d4cc1564f7a480496218d8",
+    "delvers/world/items/khalazar-sensory-amulet.md": "43bd91b49142a1d393032f20d052fc953e00d153390c2d0784996653564ddcd8",
+    "delvers/world/items/loran-radiant-armour.md": "705eee14001c85c5e5b6f8ce7929cb6818c118044594053114120207851c204d",
+    "delvers/world/items/ring-of-protection.md": "32395e977194ae83146680d622484644be22c24da882712ea06ea45784f3287c",
+    "delvers/world/items/runic-sword-hilt.md": "990f73adffdd372ec6d5b65b06d336e67196e3187d497edfdcb61edc9f90f8f3",
+    "delvers/world/items/stolen-warlocks-tome.md": "8a2cb72bd5ae730e60004b95d8b3ef0b0fd44390deb4e8b255ec3c15fb18f549",
+    "delvers/world/items/three-urns-triangle-gate.md": "f30ebea2d130a03f580292f23b33ed4ff576eb5ea1b50f92ea843285b46d6bc7",
+    "delvers/world/items/vestal-diamond-heart-handle.md": "820d60485fb69a05c8ba4a9a75293aeb3749812c1970acfe5a1ec8704b4f89b4",
+    "delvers/world/items/wand-of-secrets-and-geared-disc.md": "cf79568bd5e6d9353996e83b01cbc1281cb0b16a49cb88423665adb623df5a63",
+    "delvers/world/places/black-basilica.md": "0a5afe026ab5431867cbee336df8333341d702021b55a868486b1bdb6ec9210a",
+    "delvers/world/places/black-slime-key-chamber.md": "d52093e35584d27648b71cc56edc1909aec55fa362568786d001ed1e7998cb8f",
+    "delvers/world/places/broscale-manor.md": "a8245503ffe36c62ea4efd98f9ea898448f2c9d29aa6f71641cb7216cac719dc",
+    "delvers/world/places/chath-peak.md": "72406cc00a0b9dacabe4115354afa7593b4c4a86f1aafc0cc17e9d0dfd6aa35d",
+    "delvers/world/places/dawnless-dunes-pyramid.md": "8cca61636cc3e0e7a515b79ce35a6810908a1da4f3277604ee912392b92b263f",
+    "delvers/world/places/deep-winds-spa.md": "a7566dc9df7424bd9616bca789e2728f5e15ac97689ed848b24cb9701ef81be1",
+    "delvers/world/places/delvers-guild.md": "e10b4013f0fe8d278fed607e098bf054b9bbb064004b4fff1e6fde121ada613b",
+    "delvers/world/places/dungeon-guild-academy.md": "862b6d5d1e7d1822a7a94c5e3b27a67fad5dcaae85d16333bc375f921916115e",
+    "delvers/world/places/farm-cave.md": "617293a7403b23c8cc4660e4282d7498d5af112625a8273bde9bafd8cfcbdb37",
+    "delvers/world/places/gemholm.md": "1ca4188b0f4a6351673d8d0b206c85a540a9e75ac12dac1f5d3c28535e063ffd",
+    "delvers/world/places/governors-hall.md": "6977ebdbd23dc562363612431466a6c6c06392995d7b1c7d27c59963f45f3901",
+    "delvers/world/places/grick-sinkhole.md": "60d73fa0a81582e83b56a4da607371fcc709694410026c3d301344b7db0df05e",
+    "delvers/world/places/guild-public-reckoning-s3e10.md": "e078c2fc2edd6875990cec9b4aa70d3b729db366d27b55d68db1275f10fad362",
+    "delvers/world/places/hooper-estate.md": "29ab906aa96ef3053edc92255962fc086726aeb6c742f0f40d42ed994c3a0f15",
+    "delvers/world/places/kuo-toa-lakeshore-village.md": "b79fd3b4237217151e7a11d6512db64b4283b3e234f35ce1fbc4fc6fe47d926c",
+    "delvers/world/places/minotaur-mesa-bone-crypt.md": "13a84c8e01df05d169b982e4bf99b07543ea22e0f6c4139a8131f36e48fef70b",
+    "delvers/world/places/noble-hollow.md": "e4c9fe4b43ea1ff646356cdc6a361c62b1283b5503e578d5d1874d9ec6c0cab3",
+    "delvers/world/places/potato-grove.md": "e79a2c4cbe8462b1ae322f9d77988519aa479f78681ce7d08ab20d0bc8f120b2",
+    "delvers/world/places/right-stair-grick-urn-complex.md": "42d2c0064839235b610878d278a2ef565b5796d7daa4035f1d56de73b96e70fc",
+    "delvers/world/places/skull-keep.md": "237eaca8dc37e6957d67f611014e503d37cf638163e530024f945b9ea994020e",
+    "delvers/world/places/snake-island.md": "d25e9d886296d5b4045423de06dda7a84ec71ac690187c992a6d9d630aaa54d0",
+    "delvers/world/places/southwestern-town-well.md": "488320af8c7e72847bc326c70ea1d07e96cf7595b4518f0011d0a043e8cbcd56",
+    "delvers/world/places/splenderbelt-farm-delvers-tower.md": "4a9e0a40fa24a2cfa3181c2f8b69109b8c1b888310d83b4fd5ce33e85931e0fe",
+    "delvers/world/places/submerged-lake-ruins.md": "beedbcd68def3fd7f621c1fe6851920c51e9452d6b09a0189da2ffbbcdcf0b9b",
+    "delvers/world/places/temple-of-pelor.md": "3aa8b0a1bc3d8eb78bbb0eb476066c5df2d242157cb1fe7e909f5f183a9185f8",
+    "delvers/world/places/triangle-gate-catacombs.md": "72b0a5eae907e0ef5be5cb6cff019f09de269fae54a25842342ad6ebceeddf54",
+    "delvers/world/places/withers-estate.md": "aae0aa6b667bfddf4a3c1649434cfb5d562eceb7834123cc8e3bdc069d4e1e9c"
+  },
+  "guarded_edits": [
+    {
+      "path": "delvers/episodes/S3E09.md",
+      "before_sha256": "949a973d03f1a45a73b807753e390cb27dbe3c86d4d7f0a0227e178f858b6351",
+      "after_sha256": "5190a2dbd24d943e83574e5d2f74a81e651fd7172400c293f8ca05e4f9e378a6"
+    },
+    {
+      "path": "reports/DELVERS_S3E09_ASR_COMPARISON_2026-10-26.md",
+      "before_sha256": "f29b95f82e0ddbf6f6f8b350b448c39d7486083a0876255178aa9942631be81b",
+      "after_sha256": "e476dc89a9b68918026d29e98df8a3c40abf2ce0814d5b93c5a7ea380fabdf8b"
+    },
+    {
+      "path": "delvers/episodes/S3E08.md",
+      "before_sha256": "b4a792bf02905edcadb80fd33442ef15de874254da0dcb6f5928eae6f491971d",
+      "after_sha256": "6a4f91bdf5eea33778f836a61c1ac2366acd08c9e6f507e905ab114bcd665892"
+    },
+    {
+      "path": "reports/DELVERS_S3E08_ASR_COMPARISON_2026-10-26.md",
+      "before_sha256": "ffd40363f93f0055191a7143cb4764ec8cdd0208a673beaae8ca6af3b94f1ac1",
+      "after_sha256": "02624d647ce69003b3240ff4698c1957fe07ae3d9b86d3f3f11b01f13aa457f8"
+    },
+    {
+      "path": "delvers/episodes/S3E07.md",
+      "before_sha256": "3a31a6311ec1f4889b71ecd3b69b28e29f2a1495516da12c83048171e73d74e6",
+      "after_sha256": "9193e1cec5841939301c222d7d6077de5b2a638ec779bbc886d2cfb6dc0a50a1"
+    },
+    {
+      "path": "reports/DELVERS_S3E07_ASR_COMPARISON_2026-10-25.md",
+      "before_sha256": "84bfc2982477e81e77364df26555a3f39476ce295ab7fcc0f5d211df546fac90",
+      "after_sha256": "efd32d9916b7d98694de1344ef09205c4578b385f212354f44c70160985b6ebe"
+    },
+    {
+      "path": "delvers/episodes/S3E06.md",
+      "before_sha256": "412e1e69a6ae956b10bf73194f53a19f95445036f2db95ad00169c78829cfdd0",
+      "after_sha256": "7bb59095c01e4b62cf8602b7e358cdbc7b802307ada9b02e9ac7efe43ec516cb"
+    },
+    {
+      "path": "reports/DELVERS_S3E06_ASR_COMPARISON_2026-10-25.md",
+      "before_sha256": "0559629f7b1d6e6740b9d016774af21b39cc320ebacd8b2ffff332f1c2d5ae8c",
+      "after_sha256": "a763a1faff000f3079011776a8c956b7925943a00a5a509345cd70ec42b27ecd"
+    },
+    {
+      "path": "delvers/episodes/S3E05.md",
+      "before_sha256": "1af85aa495939ba864e684beac4ba31e6dbdaca8e10ec1e8b24a320c512eb36c",
+      "after_sha256": "0278b166b63e7f470bd6545c49a01df0769ca0b6fbd82a0f6527c845e6ba4342"
+    },
+    {
+      "path": "reports/DELVERS_S3E05_ASR_COMPARISON_2026-10-25.md",
+      "before_sha256": "480f6cd095e343741deb299ecdee9661bd6b403cb524b0bb5ddc75ef57daa1b8",
+      "after_sha256": "af4476cd86c55280cf0db773b62e6a1c4471be415b2cd75268e696bac3fb99ec"
+    },
+    {
+      "path": "delvers/REVIEW_QUEUE.md",
+      "before_sha256": "214a62ee0929b4d9529059e18be9861b8fa93189dbf160ac7097e0cee0995ca6",
+      "after_sha256": "876032ea2cdac6bee5a5babdc187c830bd66ccceb1bfe96e3caed6838b79caed"
+    },
+    {
+      "path": "project/DELVERS_CLEANUP_MANIFEST.md",
+      "before_sha256": "e9ff9a7522016c6441f4b6ba6cc05ad6118675c731e99b076618c43a05664851",
+      "after_sha256": "972fe3a89bf3fcdc8100f3a6a3fb1800c2ca71e37eae1f5c9300d48d7b802e59"
+    }
+  ],
+  "archive_manifest": "research/legacy/2026-10-27/delvers-s3e09-s3e05-source-identity/manifest.json",
+  "changed_markdown": [
+    "delvers/episodes/S3E09.md",
+    "reports/DELVERS_S3E09_ASR_COMPARISON_2026-10-26.md",
+    "delvers/episodes/S3E08.md",
+    "reports/DELVERS_S3E08_ASR_COMPARISON_2026-10-26.md",
+    "delvers/episodes/S3E07.md",
+    "reports/DELVERS_S3E07_ASR_COMPARISON_2026-10-25.md",
+    "delvers/episodes/S3E06.md",
+    "reports/DELVERS_S3E06_ASR_COMPARISON_2026-10-25.md",
+    "delvers/episodes/S3E05.md",
+    "reports/DELVERS_S3E05_ASR_COMPARISON_2026-10-25.md",
+    "delvers/REVIEW_QUEUE.md",
+    "project/DELVERS_CLEANUP_MANIFEST.md",
+    "reports/DELVERS_S3E09_S3E05_SOURCE_IDENTITY_2026-10-27.md",
+    "research/legacy/2026-10-27/delvers-s3e09-s3e05-source-identity/README.md"
+  ]
+}

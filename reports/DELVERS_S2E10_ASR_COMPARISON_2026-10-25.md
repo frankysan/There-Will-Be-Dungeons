@@ -1,5 +1,7 @@
 # Delvers S2E10 — Carrie On: complete-export ASR comparison (2026-10-25)
 
+**Source-identity follow-up, 2026-10-27:** The [S2E12–S2E08 batch check](DELVERS_S2E12_S2E08_SOURCE_IDENTITY_2026-10-27.md#s2e10) verifies both complete local exports against their recorded Git blobs after CRLF-to-LF conversion only, and verifies both source paths in the recorded source commit. Raw bytes differ in line endings. This independently confirms local content correspondence with the originally pinned source revision. Earlier provenance statements remain dated history. Prior interpretive coverage, inter-ASR measurements, played cutoff and audio status are unchanged.
+
 **Episode:** Played Delvers S2E10, `Carrie On`. [Source dossier](../delvers/episodes/S2E10.md) · [Delvers queue](../delvers/REVIEW_QUEUE.md). Host says **Saturday, July 10, 2021**; original publication/recording metadata unverified. Main episode includes **Carrie's guild translation lecture and psychic rescue of Anthela**; **Anthela PHYSICALLY awakens at cutoff, Khalazar's ultimate fate remains unresolved**.
 
 **Version/source match:** Workspace `main` started **clean at `f79b869d9a41a13e96ceeb5907a0c09bdd5fc92f`**, GitHub file reader successfully returned both tracked files at **the same pinned commit**. Local first-cue excerpts match remote P/Q beginnings; source media audio not listened. GitHub Git blob SHAs below identify respective contents at that commit; MP3 lineage, timings and transcription settings not independently checked.

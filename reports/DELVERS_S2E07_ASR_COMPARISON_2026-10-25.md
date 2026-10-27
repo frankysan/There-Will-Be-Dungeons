@@ -1,5 +1,7 @@
 # Delvers S2E07 — The Devils Eggs: exact complete-export ASR comparison (2026-10-25)
 
+**Source-identity follow-up, 2026-10-27:** The [S2E07–S2E03 batch check](DELVERS_S2E07_S2E03_SOURCE_IDENTITY_2026-10-27.md#s2e07) verifies both complete local exports against their recorded Git blobs after CRLF-to-LF conversion only, and verifies both source paths in the recorded source commit. Raw bytes differ in line endings. This independently confirms local content correspondence with the originally pinned source revision. Earlier provenance statements remain dated history. Prior interpretive coverage, inter-ASR measurements, played cutoff and audio status are unchanged.
+
 **Episode:** Played Delvers S2E07, on Gemholm and in the offshore underwater laboratory. [Source dossier](../delvers/episodes/S2E07.md) · [Delvers queue](../delvers/REVIEW_QUEUE.md). At start local MCP `main` was **clean** at `bba3e150ed807966cd540e0c0c29218037f77c80`; both GitHub exports pinned to same ref. Original publisher/recording date, MP3 alignment and same source-audio bytes **not independently checked**.
 
 | Filename-labelled ASR export (runtime/options NOT established) | Source | Pinned Git blob | Cues | Normalized words | Last cue end |

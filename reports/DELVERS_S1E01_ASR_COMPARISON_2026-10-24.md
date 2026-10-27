@@ -1,5 +1,7 @@
 # Delvers S1E01 — complete-export ASR comparison, 2026-10-24
 
+**Source-identity follow-up, 2026-10-27:** The [S1E02–S1E01 batch check](DELVERS_S1E02_S1E01_SOURCE_IDENTITY_2026-10-27.md#s1e01) verifies both complete local exports against their historical Git blobs after CRLF-to-LF conversion only, and verifies both source paths in the recorded source commit. Raw bytes differ in line endings. The original local-input raw SHA-256 records also match exactly; the Git blob IDs in this follow-up come from the recorded local commit tree, not a remote source fetch. Earlier provenance statements remain dated history. Prior interpretive coverage, inter-ASR measurements, played cutoff and audio status are unchanged.
+
 **Episode:** Delvers season 1, corrected archive **S1E01 — How Much Is Potato**; publisher **TWBD Delvers S1E1: How Much Is Potato**. Played premiere with production/rules/outro sections. **Text-only research, ASR-provisional; no audio listened to and no new ASR run.** [Dossier](../delvers/episodes/S1E01.md) · [Review queue](../delvers/REVIEW_QUEUE.md).
 
 ## Inputs and access identity

@@ -1,5 +1,7 @@
 # Delvers S2E05 — Shut up, Fruit Loops!: full ASR comparison (2026-10-25)
 
+**Source-identity follow-up, 2026-10-27:** The [S2E07–S2E03 batch check](DELVERS_S2E07_S2E03_SOURCE_IDENTITY_2026-10-27.md#s2e05) verifies both complete local exports against their recorded Git blobs after CRLF-to-LF conversion only, and verifies both source paths in the recorded source commit. Raw bytes differ in line endings. This independently confirms local content correspondence with the originally pinned source revision. Earlier provenance statements remain dated history. Prior interpretive coverage, inter-ASR measurements, played cutoff and audio status are unchanged.
+
 **Episode:** Played Delvers Season Two episode five, continuing the Withers Estate escape/heist settlement. Original host/publisher date **not verified**. Local MCP checkout on `main` HEAD `bef7e3fc64ef1630ae06aed5121e502b33dff85b` initially had two unrelated pre-existing modified Nash illustration files. Tracked SRTs were fetched from GitHub using the **same pinned commit**, not a moving default-branch version. [Source-first dossier](../delvers/episodes/S2E05.md) · [review queue](../delvers/REVIEW_QUEUE.md).
 
 | Filename-derived model label (settings unverified) | Source | Git blob | Cues | Normalized words | End |

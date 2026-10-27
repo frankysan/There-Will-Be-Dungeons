@@ -1,5 +1,7 @@
 # Delvers S2E02 — Why Palor When you Can Pay Later: ASR comparison (2026-10-25)
 
+**Source-identity follow-up, 2026-10-27:** The [S2E02–S2E00 batch check](DELVERS_S2E02_S2E00_SOURCE_IDENTITY_2026-10-27.md#s2e02) verifies both complete local exports against their recorded Git blobs after CRLF-to-LF conversion only, and verifies both source paths in the recorded source commit. Raw bytes differ in line endings. This independently confirms local content correspondence with the originally pinned source revision. Earlier provenance statements remain dated history. Prior interpretive coverage, inter-ASR measurements, played cutoff and audio status are unchanged.
+
 **Corrected archive ID:** **Delvers S2E02**, a **played Hooper–Goodwine “Wight Wedding”** session featuring guest Bo Schwartz as the Great Daufante (name ASR provisional), not out-of-game bonus or Season One. Episode explicitly says **May 1, 2021** on air; release metadata not independently audited. Initially **clean connected `main`** and pinned GitHub SHA **`e82cc0d9ec5ae818c044ae0fcffdcd7593589238`**.
 
 | Input | Exact source | Git blob | SRT cues | Normalized tokens | Final end |

@@ -7,7 +7,7 @@ description: Analyze and document There Will Be Dungeons episodes from available
 
 ## Trigger and scope
 
-When asked to "proceed", "continue", or analyze a named episode, **complete one bounded source episode or bonus per pass** unless the user explicitly requests a different batch. Treat an explicitly supplied corrected episode ID or bonus label as authoritative. Resolve vague "next" against the requested campaign's **next bounded research** pointer and actual sources, rather than automatically advancing The Wastes. If several campaign queues are equally plausible, ask which while inspecting available inventories. Never manufacture filenames or extrapolate publisher episode numbers.
+When asked to "proceed" or "continue", resume the active task and **prefer a bounded batch of related files or episodes when their work can be verified independently**. A named episode or explicit user scope takes precedence. Choose the batch by task, size and evidence complexity using section 5; file count alone does not determine scope. Treat an explicitly supplied corrected episode ID or bonus label as authoritative. Resolve vague "next" against the requested campaign's **next bounded research** pointer and actual sources, rather than automatically advancing The Wastes. If several campaign queues are equally plausible, ask which while inspecting available inventories. Never manufacture filenames or extrapolate publisher episode numbers.
 
 This skill follows the repository's existing policies. Consult only the applicable parts of:
 - [Transcription workflow](../../../project/WORKFLOW.md)
@@ -79,7 +79,7 @@ Replace placeholders with **actual** discovered filenames; never guess the sourc
 
 ## 4. Write only the documentation justified by the episode
 
-Create/update these layers **in priority order**, using existing adjacent episode conventions as examples:
+For full episode research, create/update these layers **in priority order**, using existing adjacent episode conventions as examples. For a narrower source-identity, metadata or validation task, update only its justified evidence records and affected documentation; it does not require a new dossier, ASR calculation or narrative pass.
 
 **Core, almost always**
 1. A source-first dossier in the appropriate namespace (see routing below): timestamped scene or topic sequence, actual cutoff, competing interpretations, and targeted listening questions.
@@ -116,9 +116,25 @@ Canonical spelling follows the project's tiered written/owner decisions (e.g., t
 
 ## 5. Bounded execution, resumability and guarded edits
 
-**One episode is a research unit, not a required single-turn transaction.** For a high-latency workspace, complete at most the next feasible phase, persist a checkpoint, and stop cleanly when the remaining budget cannot cover another phase. A later `proceed` resumes the **same episode and first incomplete phase**; it must not restart all source reading or advance to a new episode. A fast local execution may complete several phases in one invocation. No background continuation is implied.
+**Each episode retains its own evidence and completion gates; an invocation may process several related episodes or files.** Resume the first incomplete operation in the active batch before selecting new work. For a high-latency workspace, complete the next feasible phase or bounded subset, persist a checkpoint, and stop cleanly when the remaining budget cannot cover another operation. A later `proceed` resumes that checkpoint without restarting completed source reading. A fast local execution may complete several phases or batch members in one invocation. No background continuation is implied.
+
+### Choose a bounded batch
+
+Preflight exact paths, available fingerprints/reports, input sizes, dependencies and expected read/tool cost before recording an ordered target list. Group by shared task and source relationship within the selected campaign; retain separate identities for bonuses and other continuities. These are planning defaults, not quotas:
+
+| Task | Practical starting scope | Evidence limit |
+| --- | --- | --- |
+| Mechanical source-identity, metadata or existing-result validation | About 3–5 related episodes, including their paired exports, when local tooling and recorded fingerprints make the work tractable | Record each source's identity, comparison method and result separately; a hash or metadata check establishes no semantic or listening coverage |
+| Related dossier/reference corrections or short source-window reviews | A few related files/windows after size and claim-density preflight | Keep per-file changes and actual reviewed windows explicit; selected windows do not establish full-episode coverage |
+| Full-episode interpretation, listening, conflicting canon or complex registers | Usually one episode or a checkpointed part of it | Complete each episode's required coverage and dependent continuity work before advancing its research pointer |
+
+Split early for dense claims, unexpected mismatches, large inputs, uncertain provenance or tool/context limits. Preserve completed member results and isolate an independent failed check while finishing unaffected members when their evidence remains valid; pause dependent work when a mismatch invalidates its inputs. Do not treat successful members as proof for unchecked members or move a queue pointer past an unresolved required gate.
+
+Reuse shared setup and batch independent reads, hashes and checks where supported. Keep edits and readbacks on the same file sequential. Save each member's result as it completes; synchronize shared queues, manifests and progress pointers once at batch close, or record a precise partial-batch checkpoint on interruption. Apply the remote-call and validation budgets to the whole invocation, rather than multiplying them by the episode count.
 
 ### Phases and completion gates
+
+The phases below describe full episode research. For a narrower task, checkpoint its applicable operations and checks without expanding it into phases A–D. A source-identity check may read bytes and verify existing fingerprints without interpreting transcripts or recomputing ASR disagreement; state the exact normalization and comparison performed.
 
 | Phase | Work | Completion gate |
 | --- | --- | --- |
@@ -129,7 +145,7 @@ Canonical spelling follows the project's tiered written/owner decisions (e.g., t
 | **D. Entity integration** | Update only changed subject pages, Vorel/Nash registers when a qualifying finding exists, and genuinely stale navigation. | Material entities and links reconciled; unrelated encyclopedia pages untouched. |
 | **E. Bounded validation** | Reuse prior readbacks and source hashes; check only changed/new files and cross-document cutoffs, then run targeted checks only where a suitable runner exists. | **Editorial verification** and **automated validation** reported as separate statuses. Checkpoint pending checks without redoing phases A–D. |
 
-**Durable checkpoint, not just chat state:** At each phase boundary, record campaign/season/episode/type; phase completed and next phase; source paths, hashes or equivalent revision IDs; which recording windows and exports were actually reviewed; computed-versus-pending comparisons; files created/edited; unresolved evidence and immediate next action. Prefer `local/episode-analysis/<campaign-and-id>.json` when a local filesystem can write private untracked files. If that route is unavailable, use a clearly marked, short `Research progress (provisional)` section in the existing/new episode dossier; create it inside an existing permitted directory when necessary. Do not claim that an in-chat summary or a failed/unavailable checkpoint was saved. Minimize checkpoint writes to phase boundaries or an imminent stop; do not repeatedly rewrite a large dossier per transcript chunk. Once complete, mark the checkpoint complete or remove a temporary in-dossier progress section without erasing research evidence.
+**Durable checkpoint, not just chat state:** At each phase boundary, record campaign/season/episode/type; phase completed and next phase; source paths, hashes or equivalent revision IDs; which recording windows and exports were actually reviewed; computed-versus-pending comparisons; files created/edited; unresolved evidence and immediate next action. For a batch, also retain its ordered targets and each member's pending, in-progress, complete, blocked or unknown state, with independent evidence and validation results. Existing per-episode records may be linked instead of duplicated. Save progress after each completed member and reconcile unknown outcomes against actual artifacts before retrying. Prefer `local/episode-analysis/<campaign-and-id>.json` or a campaign-qualified batch checkpoint when a local filesystem can write private untracked files. If that route is unavailable, use a clearly marked, short `Research progress (provisional)` section in the existing/new episode dossier or established task progress record; create it inside an existing permitted directory when necessary. Do not claim that an in-chat summary or a failed/unavailable checkpoint was saved. Minimize checkpoint writes to member/phase boundaries or an imminent stop; do not repeatedly rewrite a large dossier per transcript chunk. Once complete, mark the checkpoint complete or remove a temporary in-dossier progress section without erasing research evidence.
 
 **Restart rules:** Inspect current status/checkpoint before reading any full SRT. Check source hashes/revisions **once at source-preparation time** (or reuse a recorded, still-trustworthy fingerprint); reuse already-computed comparisons/evidence maps when valid. Do **not rehash or refetch entire sources during final validation** merely because the repository HEAD advanced: first determine whether the source paths changed; if genuinely uncertain, prefer one cheap workspace metadata/hash query per affected source. If sources changed, invalidate only dependent phases. If concurrent edits changed an output, reconcile that narrow area rather than clobbering it. For earlier incomplete work (including an existing dossier and report), continue the missing phase instead of starting over. **For a validation-only resume, inspect the saved validation checklist and outstanding items; never reread source transcripts or repeat phases A–D.** A provisional partial source review must not be described as full-episode coverage.
 
@@ -167,7 +183,7 @@ For new nested folders, the local MCP `create_workspace_file` requires an existi
 
 Full Markdownlint, complete broken-link scans, wide consistency sweeps, security audits and all-suite Python checks run as **separately requested/release/CI work**, not automatically after every episode. When the user requests those checks, report their scope, results and unresolved errors instead of marking them silently passed.
 
-**Final response:** State exact campaign/season/episode/type, new findings, changed files and calculated ASR disagreement when available, then report **editorial verification status**, **automated check status** and **deferred checks** separately. Do not claim a commit, push, audio confirmation, passing tests, or perfect link integrity without having performed them. Do not reopen completed research to replace a missing runner with additional transcript reads.
+**Final response:** State exact campaign/season/episode/type (or batch members), task scope, new findings, changed files and calculated ASR disagreement when available, then report **editorial verification status**, **automated check status** and **deferred checks** separately. Distinguish completed, failed and pending batch members and identify the precise resume point. Do not claim a commit, push, audio confirmation, passing tests, or perfect link integrity without having performed them. Do not reopen completed research to replace a missing runner with additional transcript reads.
 
 ## Quick invocations
 

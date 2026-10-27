@@ -60,10 +60,32 @@
     "source_identity_evidence": "complete",
     "core_documentation": "complete",
     "continuity_and_entities": "not applicable; no fictional fact changed",
-    "targeted_validation": "pending"
+    "targeted_validation": "complete"
   },
   "validation": {
-    "status": "pending"
+    "local_file_and_fragment_links": 1063,
+    "exact_original_hashes": 4,
+    "reading_copy_target_equivalence": 4,
+    "guarded_documentation_edits": 4,
+    "protected_story_and_prior_verification_files": 10,
+    "source_file_states_unchanged_since_phase_A": 2,
+    "source_fingerprints_reused_from_phase_A": true,
+    "new_semantic_windows_reviewed": [],
+    "audio_windows_reviewed": [],
+    "ASR_metric_recomputed": false,
+    "errors": [],
+    "status": "passed",
+    "markdownlint": {
+      "maintained_files": 5,
+      "violations": 0
+    },
+    "whitespace": {
+      "scoped_git_diff_check": "passed",
+      "new_files_checked": 8,
+      "direct_new_file_check": "passed"
+    },
+    "editorial_status": "complete for S3E11 source-identity follow-up only; original story and interpretive/audio limits unchanged",
+    "deferred": "No new semantic source interpretation, ASR metric, listening, remote tip query or whole-repository audit"
   },
   "remaining_limits": [
     "Raw local/Git byte identity differs if CRLF/LF differs",

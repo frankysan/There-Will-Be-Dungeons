@@ -1,0 +1,95 @@
+{
+  "date": "2026-10-27",
+  "scope": "Delvers S3E10 transcript identity follow-up only",
+  "files": [
+    {
+      "path": "delvers/episodes/S3E10.md",
+      "sha256": "e956c68f8c9353796f6c3de525dadc7c54d04083e718d4ce448a256e8e35e0f8",
+      "original": "research/legacy/2026-10-27/delvers-s3e10-source-identity/delvers/episodes/S3E10.md.original",
+      "reading_copy": "research/legacy/2026-10-27/delvers-s3e10-source-identity/delvers/episodes/S3E10.md",
+      "reading_copy_link_corrections": []
+    },
+    {
+      "path": "reports/DELVERS_S3E10_ASR_COMPARISON_2026-10-26.md",
+      "sha256": "c28f58d14cb5c4538aaded3e92c4e0c929cdbbe925458daf38c71a7c409e015e",
+      "original": "research/legacy/2026-10-27/delvers-s3e10-source-identity/reports/DELVERS_S3E10_ASR_COMPARISON_2026-10-26.md.original",
+      "reading_copy": "research/legacy/2026-10-27/delvers-s3e10-source-identity/reports/DELVERS_S3E10_ASR_COMPARISON_2026-10-26.md",
+      "reading_copy_link_corrections": []
+    },
+    {
+      "path": "delvers/REVIEW_QUEUE.md",
+      "sha256": "ec63918a90732ee805b417a70b9a4a420349433beb11f6bd196c57e09705e3fd",
+      "original": "research/legacy/2026-10-27/delvers-s3e10-source-identity/delvers/REVIEW_QUEUE.md.original",
+      "reading_copy": "research/legacy/2026-10-27/delvers-s3e10-source-identity/delvers/REVIEW_QUEUE.md",
+      "reading_copy_link_corrections": []
+    },
+    {
+      "path": "project/DELVERS_CLEANUP_MANIFEST.md",
+      "sha256": "de5839e54c6c90ee8f8e0657ce6145dfac81779c40cc4dc7e34584f516c4c879",
+      "original": "research/legacy/2026-10-27/delvers-s3e10-source-identity/project/DELVERS_CLEANUP_MANIFEST.md.original",
+      "reading_copy": "research/legacy/2026-10-27/delvers-s3e10-source-identity/project/DELVERS_CLEANUP_MANIFEST.md",
+      "reading_copy_link_corrections": []
+    }
+  ],
+  "protected_files": {
+    "delvers/narrative/SEASON_ONE_ARC.md": "0e68940c1c0ab4766419cb88c6903cac8d5fd72889e6cded4001affecddeacdc",
+    "delvers/narrative/SEASON_TWO.md": "6462e3d4656a0aaf18f9b3ce8784c3eb6c76b3b916c5c95bec441f055ed889b3",
+    "delvers/narrative/SEASON_THREE.md": "e772b43b60966e3a4d105571c1f3b701903919011e82bf709cab15a7617ee280",
+    "delvers/world/WORLD.md": "99de32da9c9cba672f9b80d0585773e3c67fe223dba908fed4b6d70c14edc4b3",
+    "delvers/world/CONSISTENCY_LEDGER.md": "b83f33d3679a42175df65439282e033b80a2ccedcb9db2291e4824315fc724f6",
+    "delvers/SOURCE_INVENTORY.md": "3c7d8272764fe6c149c7e5da7b2831f9a288a5fc5d05859fb5a60b22e03f10a1",
+    "delvers/episodes/S3E11.md": "d0509354b1520be23731e58ead5fedbb7c7af91e683013b5665ea69e25baf03c",
+    "reports/DELVERS_S3E11_ASR_COMPARISON_2026-10-26.md": "887cfd2c4da3cd7e16cd1e5e5b5f258c640c41fb845f4166a86ea849e6d5a24f",
+    "reports/DELVERS_S3E11_SOURCE_IDENTITY_2026-10-27.md": "52278c0e5e9ef2523ca2e9b03ba4532275e1e46894e970fb10813e53c23af6aa",
+    "project/DELVERS_S3E11_SOURCE_IDENTITY_2026-10-27.json": "1bfd4091198d327dd2aff9893ec6ffa8103293787f63be87e33e62ec5c4ff66f"
+  },
+  "source_inputs": [
+    {
+      "label": "P",
+      "path": "sources/Delvers S3E10. Sad in a boney kind of way.parakeet.processed.srt",
+      "raw_bytes": 211521,
+      "raw_sha256": "208ea9ef690d04c34576449b4f4865476bde6dfdb1260e44ce476fbe4cb8735b",
+      "raw_git_blob_sha1": "65ff37b600f1460e51889898543ed8a4b48c7ba6",
+      "recorded_GitHub_blob_sha1": "0a42f9d16de8e3b1a2f8f0cfb5d79b05e7351eee",
+      "CRLF_pairs": 10284,
+      "LF_bytes": 10284,
+      "UTF8_BOM": false,
+      "LF_only_bytes": 201237,
+      "CRLF_to_LF_git_blob_sha1": "0a42f9d16de8e3b1a2f8f0cfb5d79b05e7351eee",
+      "raw_byte_identity": false,
+      "exact_comparison_after_only_CRLF_to_LF": true,
+      "local_Git_object_sha1_verified": true,
+      "recorded_initial_commit_path_blob": "0a42f9d16de8e3b1a2f8f0cfb5d79b05e7351eee",
+      "recorded_initial_commit_path_match": true,
+      "phase_A_file_state": {
+        "size": 211521,
+        "mtime_ns": 1792665545556565200
+      }
+    },
+    {
+      "label": "Q",
+      "path": "sources/Delvers S3E10. Sad in a boney kind of way.qwen-q8.canary-ctc.nemotron.srt",
+      "raw_bytes": 282783,
+      "raw_sha256": "c593f4738254298547871f40c572d4823b942dbd40b70cc885f4c2bfe0cf97c0",
+      "raw_git_blob_sha1": "dd923357590f0bbf13ccc59ed517df844f4bd1ac",
+      "recorded_GitHub_blob_sha1": "40be0079e42b01b147c975b40c5edafd7d99d281",
+      "CRLF_pairs": 13920,
+      "LF_bytes": 13920,
+      "UTF8_BOM": false,
+      "LF_only_bytes": 268863,
+      "CRLF_to_LF_git_blob_sha1": "40be0079e42b01b147c975b40c5edafd7d99d281",
+      "raw_byte_identity": false,
+      "exact_comparison_after_only_CRLF_to_LF": true,
+      "local_Git_object_sha1_verified": true,
+      "recorded_initial_commit_path_blob": "40be0079e42b01b147c975b40c5edafd7d99d281",
+      "recorded_initial_commit_path_match": true,
+      "phase_A_file_state": {
+        "size": 282783,
+        "mtime_ns": 1792714925533287800
+      }
+    }
+  ],
+  "recorded_initial_local_commit": "0df6f7ca95fc76d3ba976d28c9ef727450b2f701",
+  "current_checked_HEAD": "ae144a9efd50c639000bca060252127e0c057b13",
+  "working_tree_context": "Pre-existing S3E11 checkpoint update preserved; no source writes, commit or push"
+}

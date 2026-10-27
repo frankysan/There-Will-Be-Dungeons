@@ -1,5 +1,7 @@
 # Delvers S1E10 — Fish Wizards!: ASR comparison (2026-10-25)
 
+**Source-identity follow-up, 2026-10-27:** The [S1E12–S1E08 batch check](DELVERS_S1E12_S1E08_SOURCE_IDENTITY_2026-10-27.md#s1e10) verifies both complete local exports against their recorded Git blobs after CRLF-to-LF conversion only, and verifies both source paths in the recorded source commit. Raw bytes differ in line endings. This independently confirms local content correspondence with the originally pinned source revision. Earlier provenance statements remain dated history. Prior interpretive coverage, inter-ASR measurements, played cutoff and audio status are unchanged.
+
 **Identity:** played *Delvers* Season 1 Episode **S1E10 — Fish Wizards!**, from exact owner-normalized [source inventory](../delvers/SOURCE_INVENTORY.md), not extrapolated from later episode title. Private `frankysan/There-Will-Be-Dungeons-Transcripts` at pinned initial clean `main` commit `aabee4ffbdba2ff981522294c9dc0e62bfb0553d`. Original audio **not listened to**, SRT-to-MP3 seek alignment and equal input audio **not verified**.
 
 | Export (filename inferred pipeline) | Link | Git blob SHA | Complete cues | Final cue end | Normalized tokens |

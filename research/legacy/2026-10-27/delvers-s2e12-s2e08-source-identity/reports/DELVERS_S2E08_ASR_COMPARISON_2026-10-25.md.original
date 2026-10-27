@@ -1,0 +1,26 @@
+# Delvers S2E08 — Golden Potato Sword: exact remote-export ASR comparison (2026-10-25)
+
+**Identity:** Played **Delvers S2E08 — Golden Potato Sword**, June 19, 2021 spoken by host at opening (**not independent publisher date verification**), new guest Marsh and active red-dragon encounter at Chath Peak. [Dossier](../delvers/episodes/S2E08.md) · [queue](../delvers/REVIEW_QUEUE.md).
+
+**Version caveat:** Local MCP checkout began **clean** on `main` HEAD `14c70f8be6772f0f7c7bd3e53fb8301da01e80d5`. GitHub `fetch_file(ref=<this HEAD>)` **returned 404 (“no commit found”)**. Complete comparisons use **GitHub default-branch file blob IDs below** (not that local commit); local reader separately confirms the **opening cue and terminal cue IDs/clocks/text**, but **whole-file byte equivalence across routes is NOT established**. No assertion of same local SRT blob hash or verified matching input MP3. Original media/SRTs unchanged.
+
+| File-labelled ASR (settings unverified) | Source | GitHub remote blob | SRT cues | Normalized words | Last end |
+| --- | --- | --- | ---: | ---: | --- |
+| Parakeet processed | [P](../sources/Delvers%20S2E08.%20Golden%20Potato%20Sword.parakeet.processed.srt) | `4beb0c05072d34e8ac6f634dc9285aee71b9ec01` | **2,708** | **24,378** | **02:56:46.070** |
+| Qwen Q8 / Canary CTC / Nemotron-labelled | [Q](../sources/Delvers%20S2E08.%20Golden%20Potato%20Sword.qwen-q8.canary-ctc.nemotron.srt) | `a951ecbd9fba469584f628cf76881f272800c2e9` | **4,498** | **24,550** | **02:56:45.760** |
+
+**Exact whole-remote-export unit-cost ordered word Levenshtein distance = 1,986 / 24,378 = 8.15% textual disagreement** (Q has **172 more** normalized words, ends **0.310 s earlier**). **NOT WER, transcription accuracy, confirmed omissions/hallucinations**; may not characterize local checkout byte-for-byte without a full equivalence check.
+
+**Method:** Read entire P in consecutive ten-minute recording-clock windows 00–02:56:46; parse full P/Q SRT cue texts, discard indexes/timestamps and `(speaker N)`, lowercase, strip ASCII and curly apostrophes (joining contractions), replace non-Unicode-letter/digit characters with spaces, tokenize; two-row exact word Levenshtein with cost 1 each insertion/deletion/substitution, optimized by common **11-word prefix and 2-word suffix** and **±2,400-token band**. Optimal **1,986 < 2,400** proves no cheaper path can leave band. Independent Q text checked only ~0–9, 13–20, 39–47, 61–69, 82–94, 111–118, 121–133, 143–151, 156–165, 169–177 minutes; not full Q semantic coverage. **No MP3 listening, auto-alignment, audio verification, recording-time calibration, run settings/commands, elapsed ASR performance, or GM Discord encounter/sword sheets checked.**
+
+| Approx. source clock | High-risk discrepancy / targeted listening |
+| --- | --- |
+| **~00:00–00:10** | Host says June **nineteenth 2021**, title publisher date still unverified. GM **retrospectively places Ambermoor's delivery in guild holding cells**, not an in-scene Cassius debrief or proof of sample handoff. Guest wood elf **Marsh**, player first name Garrett, **Wheatley** weasel, scar/ear/hat, Chath/Chaff Peak, dragon ~100 predicted. |
+| **~00:12–00:25** | Guild fire suppression **studded leather x2, chain, scale**; items replace existing gear, **Staff of Python unattuned and stored with Evelyn**, armor and other item name variants. |
+| **~00:40–01:10** | **Frightful Presence** affects three original Delvers, Marsh unaffected; dragon **~450 age character estimate**, huge difference from advertised young dragon. **First fiery breath 56 raw, 28 resisted on failed save, Evelyn 14**. Do not assert double resistance effects with potion. |
+| **~01:12–01:38** | **Three sacrificed kobolds actually carried/eaten**, Skoogie kobold shaman (gender intentionally noncommittal), help/political motives, **Arrow of Dragon Slaying** transferred to Marsh and **not fired**. |
+| **~01:56–02:25** | **Radiant Lance** old-elvish forgery machine inscription, **Lava Off / Sealed Gate / Forced Landing**. Evelyn deposits **250 gp** and Krandal's half potato burns, forge creates **Dragon Slayer's Longsword**, no actual potato skin. Koh ball bearings/cleric candles tests fail, do not claim forged rogue dagger or magic candle. |
+| **~02:25–02:50** | **Skoogie 10 temporary HP**, **Krandal level-3 Aid +10 maximum/current HP**, dragon initial lair breath then flyby bites Marsh, **Evelyn strikes dragon with inspired crit sword for ~37**. Marsh arrow not fired; Gate/Forced Landing unpressed. |
+| **~02:50–02:56** | **Koh actually presses Lava Off, water+lava create obstructing steam**. Krandal clears local mist using Create/Destroy Water; Marsh casts Pass Without Trace and moves near gate, Evelyn Locate Object near landing, dragon's later fire in Koh's abandoned zone; **battle explicitly suspended mid-combat** because guest schedule, not dragon death. |
+
+**Listening/visual requests:** compare remote/local complete SRT checksums when supported, inspect owner-supplied encounter map and item details/handouts, confirm NPC names and guest character details, sample exact combat HP/damage and mechanism activations with audio. [Next inventory source: S2E09 — Potatopia](../delvers/SOURCE_INVENTORY.md), unresearched.

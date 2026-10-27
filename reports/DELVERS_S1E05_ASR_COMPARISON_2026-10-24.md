@@ -1,5 +1,7 @@
 # Delvers S1E05 — Maximum Montage ASR comparison (2026-10-24)
 
+**Source-identity follow-up, 2026-10-27:** The [S1E07–S1E03 batch check](DELVERS_S1E07_S1E03_SOURCE_IDENTITY_2026-10-27.md#s1e05) verifies all comparison inputs listed in the historical report against their recorded Git blobs after CRLF-to-LF conversion only, and verifies their exact historical source paths in the recorded source commit. Raw bytes differ in line endings. This independently confirms local content correspondence with the originally pinned source revision. Earlier provenance statements remain dated history. Prior interpretive coverage, inter-ASR measurements, played cutoff and audio status are unchanged.
+
 **Recording identity:** Played session **Delvers S1E05 — Maximum Montage**, nominally published **2021-02-08** in the podcast episode spreadsheet. It opens with a stylized exaggerated retelling of the grick mission, then plays out an extended sequence of downtime, assignments, promotion and shopping. Do **not** interpret the introductory retrospective as another played interrogation. This session follows corrected [S1E03](../delvers/episodes/S1E03.md) and [S1E04](../delvers/episodes/S1E04.md) in Delvers continuity.
 
 | Export | Input under `sources/` | Git blob | Cues | Last cue end | Normalized tokens |

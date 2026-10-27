@@ -1,5 +1,7 @@
 # Delvers S2E01 — Very Snakey: complete ASR comparison (2026-10-25)
 
+**Source-identity follow-up, 2026-10-27:** The [S2E02–S2E00 batch check](DELVERS_S2E02_S2E00_SOURCE_IDENTITY_2026-10-27.md#s2e01) verifies both complete local exports against their recorded Git blobs after CRLF-to-LF conversion only, and verifies both source paths in the recorded source commit. Raw bytes differ in line endings. This independently confirms local content correspondence with the originally pinned source revision. Earlier provenance statements remain dated history. Prior interpretive coverage, inter-ASR measurements, played cutoff and audio status are unchanged.
+
 **Identity:** Played **Season Two Episode One**, explicitly announced at host opening, following season-one arc finale [S1E12](../delvers/episodes/S1E12.md) and separately archived in-universe S2E00 cutaway. **Cold opening plays after two lost weeks on Snake Island**, then reconstructs island expedition in disconnected memories; *not* a complete chronological journey played on-air. Pinned connected clean Git `main` and private GitHub ref `181342d2540927c2411e37e1115df480eff3c51f`. No audio listened, source SRT-to-MP3 clocks/sheets/handout verified or pipeline run settings checked.
 
 | Export | Exact file | Git blob SHA | Cues | Last cue end | Normalized words |

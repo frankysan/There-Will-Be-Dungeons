@@ -1,5 +1,7 @@
 # Delvers S1E06 — The Tower: whole-export ASR comparison (2026-10-25)
 
+**Source-identity follow-up, 2026-10-27:** The [S1E07–S1E03 batch check](DELVERS_S1E07_S1E03_SOURCE_IDENTITY_2026-10-27.md#s1e06) verifies all comparison inputs listed in the historical report against their recorded Git blobs after CRLF-to-LF conversion only, and verifies their exact historical source paths in the recorded source commit. Raw bytes differ in line endings. This independently confirms local content correspondence with the originally pinned source revision. Earlier provenance statements remain dated history. Prior interpretive coverage, inter-ASR measurements, played cutoff and audio status are unchanged.
+
 **Identity:** Played **Delvers S1E06 — The Tower**, distinct from S1E05 *Maximum Montage* and S1E07. Original spreadsheet lists S1E06 with publication around **2021-02-14**. The opening broadcasts a **new Saturday live schedule**, which does not date the fictional castle excursion or identify the exact podcast-publication day.
 
 **Inputs:** Two complete SRT exports from private GitHub `frankysan/There-Will-Be-Dungeons-Transcripts` at commit `24b2c62932b64fc280c7f67eb31a0177306e094e`, matching the initially **clean** connected workspace `main` HEAD.

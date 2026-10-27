@@ -1,0 +1,36 @@
+{
+  "date": "2026-10-27",
+  "scope": "Complete byte comparison only; no new interpretation, ASR calculation or listening",
+  "files": [
+    {
+      "path": "delvers/episodes/S1E02.md",
+      "sha256": "e3c76180b871fc239996ab13f88a5119f1f8563d62cc6ca5a0cbb4ba44b3ad1a",
+      "original": "research/legacy/2026-10-27/delvers-s1e02-s1e01-source-identity/delvers/episodes/S1E02.md.original"
+    },
+    {
+      "path": "reports/DELVERS_S1E02_ASR_COMPARISON_2026-10-24.md",
+      "sha256": "506964a14e44b7b750c8fa85cb748fbf6d3ff8d2d49aebbeb9b87ee1ed893d69",
+      "original": "research/legacy/2026-10-27/delvers-s1e02-s1e01-source-identity/reports/DELVERS_S1E02_ASR_COMPARISON_2026-10-24.md.original"
+    },
+    {
+      "path": "delvers/episodes/S1E01.md",
+      "sha256": "ffaa952fee5e00e19d1ed1378c68fed6b3239cffe1059dfba6c9436057ae0980",
+      "original": "research/legacy/2026-10-27/delvers-s1e02-s1e01-source-identity/delvers/episodes/S1E01.md.original"
+    },
+    {
+      "path": "reports/DELVERS_S1E01_ASR_COMPARISON_2026-10-24.md",
+      "sha256": "81bf62a68abdf87dc8767a0df425de9e3f92cdf7b2eb951d720fcd0b25f0c9b5",
+      "original": "research/legacy/2026-10-27/delvers-s1e02-s1e01-source-identity/reports/DELVERS_S1E01_ASR_COMPARISON_2026-10-24.md.original"
+    },
+    {
+      "path": "delvers/REVIEW_QUEUE.md",
+      "sha256": "796361d58e668f47ac4078dff45134ae0f5248bff5fb035f374b587a3808dcae",
+      "original": "research/legacy/2026-10-27/delvers-s1e02-s1e01-source-identity/delvers/REVIEW_QUEUE.md.original"
+    },
+    {
+      "path": "project/DELVERS_CLEANUP_MANIFEST.md",
+      "sha256": "818fb1bd45b0f20a35dcc14e4a6f0f02d30bb8838c67bc1c1cbe799dde8edc38",
+      "original": "research/legacy/2026-10-27/delvers-s1e02-s1e01-source-identity/project/DELVERS_CLEANUP_MANIFEST.md.original"
+    }
+  ]
+}

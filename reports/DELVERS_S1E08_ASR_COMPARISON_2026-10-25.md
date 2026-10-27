@@ -1,5 +1,7 @@
 # Delvers S1E08 — Need any help down there: ASR comparison (2026-10-25)
 
+**Source-identity follow-up, 2026-10-27:** The [S1E12–S1E08 batch check](DELVERS_S1E12_S1E08_SOURCE_IDENTITY_2026-10-27.md#s1e08) verifies both complete local exports against their recorded Git blobs after CRLF-to-LF conversion only, and verifies both source paths in the recorded source commit. Raw bytes differ in line endings. This independently confirms local content correspondence with the originally pinned source revision. Earlier provenance statements remain dated history. Prior interpretive coverage, inter-ASR measurements, played cutoff and audio status are unchanged.
+
 **Scope:** Played *Delvers* S1E08 including sponsor/edited recap, southwestern-well descent, underground dungeon, First Sons cooperation, temple-floor breakthrough, well passage sealing and unresolved gelatinous cube. Source at private `frankysan/There-Will-Be-Dungeons-Transcripts` pinned revision `6f36aecd601641ecea798e75be0024a1b64021e5`, matching the initially clean connected workspace `main` HEAD. No raw MP3 listened or audio equivalence verified.
 
 | Filename-inferred pipeline | Complete SRT | Git blob SHA | Cues | Last cue | Normalized word tokens |

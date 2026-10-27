@@ -1090,3 +1090,65 @@ This is verification after the completed editorial integration, not a reopened b
 Both local S3E11 exports use CRLF. Replacing only those pairs with LF in memory produces byte-for-byte equality with the recorded Git blobs, which also occur at the exact source paths in the originally recorded local commit. Raw bytes remain different. No new remote tip, independent Qwen interpretation, source metric, dialogue or audio claim is supplied. Original source files are not rewritten, and the prior S3E12 verification is preserved.
 
 The played S3E11 cutoff remains gate entry, captive discovery and bat diversion/evacuation preparation, not the completed rescues or victory of S3E12. This provenance follow-up does not reopen the completed editorial rollout. Other source/listening questions remain active. No commit or push.
+
+### Verification follow-up — Delvers S3E10 transcript identity
+
+**2026-10-27: recorded-blob and historical source-path correspondence verified with line-ending qualification.** [Report](../reports/DELVERS_S3E10_SOURCE_IDENTITY_2026-10-27.md) · [Data/checkpoint](DELVERS_S3E10_SOURCE_IDENTITY_2026-10-27.json) · [Archive](../research/legacy/2026-10-27/delvers-s3e10-source-identity/README.md).
+
+Both local S3E10 exports use CRLF. Replacing only those pairs with LF in memory gives byte-for-byte equality with the recorded Git blobs, which also occur at the exact source paths in the originally recorded local commit. Raw bytes differ; no exact remote branch tip, new interpretation, metric, dialogue or listening claim follows. Original sources are not rewritten, and previous source-identity results are preserved.
+
+The played S3E10 cutoff and all remaining names, badge/urn custody gaps, testimony and later-story boundaries remain unchanged. This follow-up does not reopen editorial rollout or add a main-campaign episode. Other source/listening questions stay active. No commit or push.
+
+### Verification follow-up — Delvers S3E09–S3E05 transcript identity batch
+
+**2026-10-27: five episodes, ten complete exports verified with line-ending qualification.** [Report](../reports/DELVERS_S3E09_S3E05_SOURCE_IDENTITY_2026-10-27.md) · [Per-episode data and checkpoint](DELVERS_S3E09_S3E05_SOURCE_IDENTITY_2026-10-27.json) · [Pre-edit archive](../research/legacy/2026-10-27/delvers-s3e09-s3e05-source-identity/README.md).
+
+Each local export equals its recorded Git blob after CRLF-to-LF conversion only, and each recorded initial commit contains that blob at the exact source path. Raw bytes differ. S3E09/S3E08 originally used default-branch fetches whose precise tips remain unidentified; S3E07–S3E05 originally used pinned commits. No source rewriting, new semantic review, ASR calculation or listening occurred. Fictional facts, prior interpretation limits and narrative/world pages remain unchanged. The next source-identity preflight is S3E04.
+
+### Verification follow-up — Delvers S3E04–S3E01 transcript identity batch
+
+**2026-10-27: four episodes, eight complete exports verified with line-ending qualification.** [Report](../reports/DELVERS_S3E04_S3E01_SOURCE_IDENTITY_2026-10-27.md) · [Per-episode data and checkpoint](DELVERS_S3E04_S3E01_SOURCE_IDENTITY_2026-10-27.json) · [Pre-edit archive](../research/legacy/2026-10-27/delvers-s3e04-s3e01-source-identity/README.md).
+
+Each local export equals its recorded Git blob after CRLF-to-LF conversion only, and each recorded source commit contains that blob at the exact source path. Raw bytes differ. S3E02 originally used a default-branch fetch whose precise tip remains unidentified; S3E04, S3E03 and S3E01 originally used pinned commits. No source rewriting, new semantic review, ASR calculation or listening occurred. Fictional facts, prior interpretation limits and narrative/world pages remain unchanged. The next source-identity preflight is S2E12.
+
+### Verification follow-up — Delvers S2E12–S2E08 transcript identity batch
+
+**2026-10-27: five episodes, ten complete exports verified with line-ending qualification.** [Report](../reports/DELVERS_S2E12_S2E08_SOURCE_IDENTITY_2026-10-27.md) · [Per-episode data and checkpoint](DELVERS_S2E12_S2E08_SOURCE_IDENTITY_2026-10-27.json) · [Pre-edit archive](../research/legacy/2026-10-27/delvers-s2e12-s2e08-source-identity/README.md).
+
+Each local export equals its recorded Git blob after CRLF-to-LF conversion only, and each recorded source commit contains that blob at the exact source path. Raw bytes differ. S2E08 originally used a default-branch fetch whose precise tip remains unidentified; S2E12–S2E09 originally used pinned commits. No source rewriting, new semantic review, ASR calculation or listening occurred. Fictional facts, prior interpretation limits and narrative/world pages remain unchanged. The next source-identity preflight is S2E07.
+
+### Verification follow-up — Delvers S2E07–S2E03 transcript identity batch
+
+**2026-10-27: five episodes, ten complete exports verified with line-ending qualification.** [Report](../reports/DELVERS_S2E07_S2E03_SOURCE_IDENTITY_2026-10-27.md) · [Per-episode data and checkpoint](DELVERS_S2E07_S2E03_SOURCE_IDENTITY_2026-10-27.json) · [Pre-edit archive](../research/legacy/2026-10-27/delvers-s2e07-s2e03-source-identity/README.md).
+
+Each local export equals its recorded Git blob after CRLF-to-LF conversion only, and each recorded source commit contains that blob at the exact source path. Raw bytes differ. All five original comparisons used pinned commits. No source rewriting, new semantic review, ASR calculation or listening occurred. Fictional facts, prior interpretation limits and narrative/world pages remain unchanged. The next source-identity preflight is S2E02.
+
+### Verification follow-up — Delvers S2E02–S2E00 transcript identity batch
+
+**2026-10-27: three recordings, six complete exports verified with line-ending qualification.** [Report](../reports/DELVERS_S2E02_S2E00_SOURCE_IDENTITY_2026-10-27.md) · [Per-episode data and checkpoint](DELVERS_S2E02_S2E00_SOURCE_IDENTITY_2026-10-27.json) · [Pre-edit archive](../research/legacy/2026-10-27/delvers-s2e02-s2e00-source-identity/README.md).
+
+Each local export equals its recorded Git blob after CRLF-to-LF conversion only, and each recorded source commit contains that blob at the exact source path. Raw bytes differ. All three original comparisons used pinned commits. S2E00 remains a narrated guild-academy cutaway during Season One; archive identity and story placement are unchanged. No source rewriting, new semantic review, ASR calculation or listening occurred. Fictional facts, prior interpretation limits and narrative/world pages remain unchanged. The next source-identity preflight is S1E12.
+
+### Verification follow-up — Delvers S1E12–S1E08 transcript identity batch
+
+**2026-10-27: five episodes, ten complete exports verified with line-ending qualification.** [Report](../reports/DELVERS_S1E12_S1E08_SOURCE_IDENTITY_2026-10-27.md) · [Per-episode data and checkpoint](DELVERS_S1E12_S1E08_SOURCE_IDENTITY_2026-10-27.json) · [Pre-edit archive](../research/legacy/2026-10-27/delvers-s1e12-s1e08-source-identity/README.md).
+
+Each local export equals its recorded Git blob after CRLF-to-LF conversion only, and each recorded source commit contains that blob at the exact source path. Raw bytes differ. S1E12 originally used a main-branch fetch whose precise tip remains unidentified; S1E11–S1E08 originally used pinned commits. No source rewriting, new semantic review, ASR calculation or listening occurred. Fictional facts, prior interpretation limits and narrative/world pages remain unchanged. The next source-identity preflight is S1E07.
+
+### Verification follow-up — Delvers S1E07–S1E03 transcript identity batch
+
+**2026-10-27: five episodes, eleven recorded comparison exports verified with line-ending qualification.** [Report](../reports/DELVERS_S1E07_S1E03_SOURCE_IDENTITY_2026-10-27.md) · [Per-episode data and checkpoint](DELVERS_S1E07_S1E03_SOURCE_IDENTITY_2026-10-27.json) · [Pre-edit archive](../research/legacy/2026-10-27/delvers-s1e07-s1e03-source-identity/README.md).
+
+Each local export equals its recorded Git blob after CRLF-to-LF conversion only, and each recorded source commit contains that blob at the exact source path. Raw bytes differ. All five reports used pinned commits. S1E03 uses only corrected P/Q4/Q8 inputs; the S1E04 comparison retains its two historically mislabeled S1E03-named inputs. Correctly named S1E04 copies with ads are not included in this comparison. No source rewriting, new semantic review, ASR calculation or listening occurred. Fictional facts, prior interpretation limits and narrative/world pages remain unchanged. The next source-identity preflight is S1E02.
+
+### Verification follow-up — Delvers S1E02–S1E01 transcript identity batch
+
+**2026-10-27: two episodes, four complete exports plus two supplemental S1E04 copies verified with line-ending qualification.** [Report](../reports/DELVERS_S1E02_S1E01_SOURCE_IDENTITY_2026-10-27.md) · [Per-episode data and checkpoint](DELVERS_S1E02_S1E01_SOURCE_IDENTITY_2026-10-27.json) · [Pre-edit archive](../research/legacy/2026-10-27/delvers-s1e02-s1e01-source-identity/README.md).
+
+Each local export equals its recorded Git blob after CRLF-to-LF conversion only, and each recorded source commit contains that blob at the exact source path. Raw bytes differ. S1E02 used pinned remote inputs. S1E01 used local inputs whose recorded raw SHA-256 hashes now match exactly, with historical Git source-path correspondence checked separately. Two advertised S1E04 copies also match their recorded blobs after CRLF-to-LF conversion, independently of the older ad-free comparison inputs. No source rewriting, new semantic review, ASR calculation or listening occurred. Fictional facts, prior interpretation limits and narrative/world pages remain unchanged. The next verification is targeted listening/alignment preparation.
+
+Transcript-fingerprint coverage now spans all 37 archive IDs and 77 inventoried exports; 75 historical source paths are verified, while the two advertised S1E04 copies have recorded-blob correspondence only. Listening and audio alignment remain open.
+
+### Verification preparation — Delvers S1E01 audio/SRT alignment
+
+[DEL-PREP-002 packet](../reports/DELVERS_S1E01_LISTENING_PREPARATION_2026-10-27.md) · [Checkpoint](DELVERS_S1E01_LISTENING_PREPARATION_2026-10-27.json). Three ignored/local clips and cue excerpts are prepared; audio hash and duration match the premiere record. No audible anchors, offsets or fictional facts are verified. Listening remains the next operation.

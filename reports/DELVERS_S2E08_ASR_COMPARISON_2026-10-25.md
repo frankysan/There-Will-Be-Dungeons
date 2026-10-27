@@ -1,5 +1,7 @@
 # Delvers S2E08 — Golden Potato Sword: exact remote-export ASR comparison (2026-10-25)
 
+**Source-identity follow-up, 2026-10-27:** The [S2E12–S2E08 batch check](DELVERS_S2E12_S2E08_SOURCE_IDENTITY_2026-10-27.md#s2e08) verifies both complete local exports against their recorded Git blobs after CRLF-to-LF conversion only, and verifies both source paths in the recorded source commit. Raw bytes differ in line endings. The historical default-branch tip remains unidentified. Earlier provenance statements remain dated history. Prior interpretive coverage, inter-ASR measurements, played cutoff and audio status are unchanged.
+
 **Identity:** Played **Delvers S2E08 — Golden Potato Sword**, June 19, 2021 spoken by host at opening (**not independent publisher date verification**), new guest Marsh and active red-dragon encounter at Chath Peak. [Dossier](../delvers/episodes/S2E08.md) · [queue](../delvers/REVIEW_QUEUE.md).
 
 **Version caveat:** Local MCP checkout began **clean** on `main` HEAD `14c70f8be6772f0f7c7bd3e53fb8301da01e80d5`. GitHub `fetch_file(ref=<this HEAD>)` **returned 404 (“no commit found”)**. Complete comparisons use **GitHub default-branch file blob IDs below** (not that local commit); local reader separately confirms the **opening cue and terminal cue IDs/clocks/text**, but **whole-file byte equivalence across routes is NOT established**. No assertion of same local SRT blob hash or verified matching input MP3. Original media/SRTs unchanged.

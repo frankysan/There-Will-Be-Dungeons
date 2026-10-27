@@ -1,5 +1,7 @@
 # Delvers S2E03 — Pokey Stick Junior: ASR comparison (2026-10-25)
 
+**Source-identity follow-up, 2026-10-27:** The [S2E07–S2E03 batch check](DELVERS_S2E07_S2E03_SOURCE_IDENTITY_2026-10-27.md#s2e03) verifies both complete local exports against their recorded Git blobs after CRLF-to-LF conversion only, and verifies both source paths in the recorded source commit. Raw bytes differ in line endings. This independently confirms local content correspondence with the originally pinned source revision. Earlier provenance statements remain dated history. Prior interpretive coverage, inter-ASR measurements, played cutoff and audio status are unchanged.
+
 **ID and type:** **Delvers Season Two Episode Three**, played, not a bonus. Story after S2E02 Wight Wedding, through **bulette operation and 9:30 p.m. planned Withers Estate heist**, with no heist entered at cutoff. Host discusses third vs fourth counting; archive S2E00 is a prior in-world scripted cutaway, leaving **S2E03** correct. Repository **initially clean**, connected `main`, pinned `a8a5164fd670a1e7b230a3f07d54e52386769f41`.
 
 | Export (label inferred from filename) | Exact source | Git blob | Cues | Normalized words | Last end |

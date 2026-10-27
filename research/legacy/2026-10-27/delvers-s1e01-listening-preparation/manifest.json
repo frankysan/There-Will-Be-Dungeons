@@ -1,0 +1,14 @@
+{
+  "files": [
+    {
+      "path": "delvers/REVIEW_QUEUE.md",
+      "sha256": "3169a68b7024a8bae7f2fcfa7f3257ad8c85a77843f15266fce9ba5ac95979de",
+      "original": "research/legacy/2026-10-27/delvers-s1e01-listening-preparation/delvers/REVIEW_QUEUE.md.original"
+    },
+    {
+      "path": "project/DELVERS_CLEANUP_MANIFEST.md",
+      "sha256": "8cfb359d24abbad478dcad6e71b7448e3fe07d97a30e1972b326b9a0791df7a8",
+      "original": "research/legacy/2026-10-27/delvers-s1e01-listening-preparation/project/DELVERS_CLEANUP_MANIFEST.md.original"
+    }
+  ]
+}

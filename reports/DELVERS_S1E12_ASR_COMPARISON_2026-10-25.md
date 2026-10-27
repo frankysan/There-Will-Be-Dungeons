@@ -1,5 +1,7 @@
 # Delvers S1E12 — End Friends: complete-export ASR comparison (2026-10-25)
 
+**Source-identity follow-up, 2026-10-27:** The [S1E12–S1E08 batch check](DELVERS_S1E12_S1E08_SOURCE_IDENTITY_2026-10-27.md#s1e12) verifies both complete local exports against their recorded Git blobs after CRLF-to-LF conversion only, and verifies both source paths in the recorded source commit. Raw bytes differ in line endings. The historical default-branch tip remains unidentified. Earlier provenance statements remain dated history. Prior interpretive coverage, inter-ASR measurements, played cutoff and audio status are unchanged.
+
 **Identity:** Delvers S1E12 — *End Friends*, explicitly **Season One finale** in both opening and sign-off. Owner separately marks **end of first story arc**. Audio not listened, MP3–SRT seek alignment, original map/handouts, recording date and run configurations unverified. **Git provenance caveat:** Connected workspace `main` clean HEAD **89df0a269f956b7572ca905c7202d03bba466b46**, but GitHub API returned **404 for that commit ref**; full source exports read via GitHub `main` by exact pathname with individual verified Git blob IDs. **Workspace/GitHub byte-level identity not verified**, do not claim same commit.
 
 | Export (filename-derived labels only) | Source | Git blob SHA | Cue count | Last cue end | Normalized tokens |

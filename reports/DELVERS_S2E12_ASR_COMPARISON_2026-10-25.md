@@ -1,5 +1,7 @@
 # Delvers S2E12 — The Bell of The Ball: exact complete-export ASR comparison (2026-10-25)
 
+**Source-identity follow-up, 2026-10-27:** The [S2E12–S2E08 batch check](DELVERS_S2E12_S2E08_SOURCE_IDENTITY_2026-10-27.md#s2e12) verifies both complete local exports against their recorded Git blobs after CRLF-to-LF conversion only, and verifies both source paths in the recorded source commit. Raw bytes differ in line endings. This independently confirms local content correspondence with the originally pinned source revision. Earlier provenance statements remain dated history. Prior interpretive coverage, inter-ASR measurements, played cutoff and audio status are unchanged.
+
 **Identity:** [Delvers S2E12 — The Bell of The Ball](../delvers/episodes/S2E12.md), **played Season Two and second-arc finale** (owner confirmation). Main finale cliffhanger **active Hereditary Drone open under ballroom, possessed/compelled elves enter pit, Wildfire and Withers both fall into underground opening**, no true-Khalazar defeat. [Delvers queue](../delvers/REVIEW_QUEUE.md).
 
 **Source provenance:** MCP `main` initially HEAD `2dcbb98eaf12484e91225dacdf60d0a81f092a60` with **two unrelated existing illustration-doc edits**; **both P/Q exports fetched from GitHub at exactly that matching commit**, local first-cue snippets checked separately. Published/recording date, original audio bytes/offset and pipeline runtime settings/compute performance **NOT verified**.

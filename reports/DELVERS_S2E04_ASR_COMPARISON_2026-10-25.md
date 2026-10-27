@@ -1,5 +1,7 @@
 # Delvers S2E04 — Cover The Faces of Maces: exact ASR comparison (2026-10-25)
 
+**Source-identity follow-up, 2026-10-27:** The [S2E07–S2E03 batch check](DELVERS_S2E07_S2E03_SOURCE_IDENTITY_2026-10-27.md#s2e04) verifies both complete local exports against their recorded Git blobs after CRLF-to-LF conversion only, and verifies both source paths in the recorded source commit. Raw bytes differ in line endings. This independently confirms local content correspondence with the originally pinned source revision. Earlier provenance statements remain dated history. Prior interpretive coverage, inter-ASR measurements, played cutoff and audio status are unchanged.
+
 **Episode:** Played **Delvers S2E04**, guest Brian Dunaway as Shrugs, recorded show opening claims Saturday **May 15, 2021** (spoken metadata, publication date not independently verified). Worktree started at **`main` HEAD `c287223fb98dd8433ba9e267bd4a50a4cddf7d51`** with **five unrelated illustration/backlog edits** already present; those left untouched. [Dossier](../delvers/episodes/S2E04.md) · [review queue](../delvers/REVIEW_QUEUE.md).
 
 | Model label from filename (settings not validated) | Source | Git blob at pinned HEAD | SRT cues | Normalized words | Last end |

@@ -1,5 +1,7 @@
 # Delvers S1E11 — No More Fish: ASR comparison (2026-10-25)
 
+**Source-identity follow-up, 2026-10-27:** The [S1E12–S1E08 batch check](DELVERS_S1E12_S1E08_SOURCE_IDENTITY_2026-10-27.md#s1e11) verifies both complete local exports against their recorded Git blobs after CRLF-to-LF conversion only, and verifies both source paths in the recorded source commit. Raw bytes differ in line endings. This independently confirms local content correspondence with the originally pinned source revision. Earlier provenance statements remain dated history. Prior interpretive coverage, inter-ASR measurements, played cutoff and audio status are unchanged.
+
 **Type:** Played Delvers S1E11. Source identity from [owner-normalized inventory](../delvers/SOURCE_INVENTORY.md), with first in-world scene continuing **living fish ritualist bound below the lake** in S1E10 and final in-world scene **three prisoners leaving kuo-toa village on horses**, prior to reaching guild. Initial connected workspace `main` HEAD and pinned private GitHub sources at **`d2763e5d2f3998286aecc27c42e42db9b835bb8c`**; checkout initially had **7 unrelated Fate-4 illustration/backlog/E057 edits**, untouched. **No original audio listened**, seek offsets, source-audio identity or model settings checked.
 
 | Export (filename-derived pipeline) | Source | Blob SHA | Cues | Last end | Normalized tokens |

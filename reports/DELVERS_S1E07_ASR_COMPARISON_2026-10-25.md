@@ -1,5 +1,7 @@
 # Delvers S1E07 — The Well Might Be Bugged: ASR comparison (2026-10-25)
 
+**Source-identity follow-up, 2026-10-27:** The [S1E07–S1E03 batch check](DELVERS_S1E07_S1E03_SOURCE_IDENTITY_2026-10-27.md#s1e07) verifies all comparison inputs listed in the historical report against their recorded Git blobs after CRLF-to-LF conversion only, and verifies their exact historical source paths in the recorded source commit. Raw bytes differ in line endings. This independently confirms local content correspondence with the originally pinned source revision. Earlier provenance statements remain dated history. Prior interpretive coverage, inter-ASR measurements, played cutoff and audio status are unchanged.
+
 **Scope:** Played Delvers S1E07, `The Well Might Be Bugged`, including promotional intro, staged prior-adventure recap, individual downtime, bronze-guild investigation and uncompleted southwest-well descent. **Owner-normalized episode ID**, no release date extrapolated from spoken host broadcast schedule. Compared private GitHub source files at pinned `main` commit `972e14ab8ac17e0e06558dea9e68111cba2e5b50`, matching an initially **clean** connected workspace.
 
 | Pipeline label inferred from filename | Complete SRT | Blob SHA | Subtitle cues | Last cue end | Normalized words |

@@ -1,0 +1,134 @@
+{
+  "date": "2026-10-27",
+  "campaign": "Delvers",
+  "season": 3,
+  "episode": "S3E10",
+  "publisher_title": "Sad in a boney kind of way",
+  "type": "Transcript-source identity follow-up only",
+  "scope": "Byte provenance only; no new semantic source interpretation, ASR metric or listening",
+  "checked_HEAD": "ae144a9efd50c639000bca060252127e0c057b13",
+  "recorded_initial_local_commit": "0df6f7ca95fc76d3ba976d28c9ef727450b2f701",
+  "historical_remote_fingerprints_from": "reports/DELVERS_S3E10_ASR_COMPARISON_2026-10-26.md",
+  "sources": [
+    {
+      "label": "P",
+      "path": "sources/Delvers S3E10. Sad in a boney kind of way.parakeet.processed.srt",
+      "raw_bytes": 211521,
+      "raw_sha256": "208ea9ef690d04c34576449b4f4865476bde6dfdb1260e44ce476fbe4cb8735b",
+      "raw_git_blob_sha1": "65ff37b600f1460e51889898543ed8a4b48c7ba6",
+      "recorded_GitHub_blob_sha1": "0a42f9d16de8e3b1a2f8f0cfb5d79b05e7351eee",
+      "CRLF_pairs": 10284,
+      "LF_bytes": 10284,
+      "UTF8_BOM": false,
+      "LF_only_bytes": 201237,
+      "CRLF_to_LF_git_blob_sha1": "0a42f9d16de8e3b1a2f8f0cfb5d79b05e7351eee",
+      "raw_byte_identity": false,
+      "exact_comparison_after_only_CRLF_to_LF": true,
+      "local_Git_object_sha1_verified": true,
+      "recorded_initial_commit_path_blob": "0a42f9d16de8e3b1a2f8f0cfb5d79b05e7351eee",
+      "recorded_initial_commit_path_match": true,
+      "phase_A_file_state": {
+        "size": 211521,
+        "mtime_ns": 1792665545556565200
+      }
+    },
+    {
+      "label": "Q",
+      "path": "sources/Delvers S3E10. Sad in a boney kind of way.qwen-q8.canary-ctc.nemotron.srt",
+      "raw_bytes": 282783,
+      "raw_sha256": "c593f4738254298547871f40c572d4823b942dbd40b70cc885f4c2bfe0cf97c0",
+      "raw_git_blob_sha1": "dd923357590f0bbf13ccc59ed517df844f4bd1ac",
+      "recorded_GitHub_blob_sha1": "40be0079e42b01b147c975b40c5edafd7d99d281",
+      "CRLF_pairs": 13920,
+      "LF_bytes": 13920,
+      "UTF8_BOM": false,
+      "LF_only_bytes": 268863,
+      "CRLF_to_LF_git_blob_sha1": "40be0079e42b01b147c975b40c5edafd7d99d281",
+      "raw_byte_identity": false,
+      "exact_comparison_after_only_CRLF_to_LF": true,
+      "local_Git_object_sha1_verified": true,
+      "recorded_initial_commit_path_blob": "40be0079e42b01b147c975b40c5edafd7d99d281",
+      "recorded_initial_commit_path_match": true,
+      "phase_A_file_state": {
+        "size": 282783,
+        "mtime_ns": 1792714925533287800
+      }
+    }
+  ],
+  "phases": {
+    "resume_identify": "complete",
+    "source_identity_evidence": "complete",
+    "core_documentation": "complete",
+    "continuity_and_entities": "not applicable; no fictional fact changed",
+    "targeted_validation": "complete"
+  },
+  "validation": {
+    "local_file_and_fragment_links": 1073,
+    "exact_original_hashes": 4,
+    "reading_copy_target_equivalence": 4,
+    "guarded_documentation_edits": 4,
+    "protected_story_and_prior_verification_files": 10,
+    "source_file_states_unchanged_since_phase_A": 2,
+    "source_fingerprints_reused_from_phase_A": true,
+    "new_semantic_windows_reviewed": [],
+    "audio_windows_reviewed": [],
+    "ASR_metric_recomputed": false,
+    "errors": [],
+    "status": "passed",
+    "markdownlint": {
+      "maintained_files": 5,
+      "violations": 0
+    },
+    "whitespace": {
+      "scoped_git_diff_check": "passed",
+      "new_files_checked": 8,
+      "direct_new_file_check": "passed"
+    },
+    "editorial_status": "complete for S3E10 source-identity follow-up only; original story and interpretive/audio limits unchanged",
+    "deferred": "No new semantic source interpretation, ASR metric, listening, remote tip query or whole-repository audit"
+  },
+  "remaining_limits": [
+    "Raw local/Git byte identity differs if CRLF/LF differs",
+    "Content correspondence does not identify remote branch tip or perform a new remote fetch",
+    "Earlier primary-full/secondary-selected interpretive coverage is unchanged",
+    "No audio or original maps/sheets/images reviewed; no name, count, custody or other fictional question resolved",
+    "Historical inter-ASR metric not recomputed or treated as accuracy"
+  ],
+  "next_verification": "Inspect the S3E09 recorded-blob/local-source limit if continuing this audit; no new main-campaign intake",
+  "archive_manifest": "research/legacy/2026-10-27/delvers-s3e10-source-identity/manifest.json",
+  "guarded_edits": [
+    {
+      "path": "delvers/episodes/S3E10.md",
+      "kind": "after-first-heading",
+      "inserted_text": "**Source-identity follow-up, 2026-10-27:** The [bounded fingerprint check](../../reports/DELVERS_S3E10_SOURCE_IDENTITY_2026-10-27.md) verifies complete local export equality with the recorded Git blobs after CRLF-to-LF conversion only, plus source-path membership in the originally recorded local commit. Raw bytes differ in line endings. The older opening-line-only limitation below describes the original research checkpoint; the precise historical/default remote branch tip and current remote branch remain unestablished. The played cutoff, prior interpretation coverage, metric and audio status are unchanged."
+    },
+    {
+      "path": "reports/DELVERS_S3E10_ASR_COMPARISON_2026-10-26.md",
+      "kind": "after-first-heading",
+      "inserted_text": "**Source-identity follow-up, 2026-10-27:** [Recorded-blob verification](DELVERS_S3E10_SOURCE_IDENTITY_2026-10-27.md) establishes exact equality after CRLF-to-LF conversion only and matching source paths in the recorded initial local commit. Raw local byte identity is false because of line endings. The earlier claim that commit correspondence was unestablished remains dated history; it is now resolved for those two source paths, without identifying the precise historical/default remote branch tip. The 1,529/19,536 text-disagreement result is not recomputed or upgraded to accuracy, additional interpretation or listening verification."
+    },
+    {
+      "path": "delvers/REVIEW_QUEUE.md",
+      "kind": "after-marker",
+      "marker": "## Active cleanup and verification",
+      "inserted_text": "**S3E10 source identity, 2026-10-27:** The [fingerprint follow-up](../reports/DELVERS_S3E10_SOURCE_IDENTITY_2026-10-27.md) resolves the opening-line-only limit for the two recorded blobs: both complete local exports match after CRLF-to-LF conversion only, and both blob IDs match their source paths in the recorded initial local commit. Raw bytes differ in line endings; remote branch tip, additional interpretation, wording and audio remain unverified. Existing issue IDs and the S3E11/S3E12 follow-ups remain intact. A further source-identity check can inspect S3E09; no new main-campaign episode is queued."
+    },
+    {
+      "path": "project/DELVERS_CLEANUP_MANIFEST.md",
+      "kind": "append",
+      "inserted_text": "### Verification follow-up \u2014 Delvers S3E10 transcript identity\n\n**2026-10-27: recorded-blob and historical source-path correspondence verified with line-ending qualification.** [Report](../reports/DELVERS_S3E10_SOURCE_IDENTITY_2026-10-27.md) \u00b7 [Data/checkpoint](DELVERS_S3E10_SOURCE_IDENTITY_2026-10-27.json) \u00b7 [Archive](../research/legacy/2026-10-27/delvers-s3e10-source-identity/README.md).\n\nBoth local S3E10 exports use CRLF. Replacing only those pairs with LF in memory gives byte-for-byte equality with the recorded Git blobs, which also occur at the exact source paths in the originally recorded local commit. Raw bytes differ; no exact remote branch tip, new interpretation, metric, dialogue or listening claim follows. Original sources are not rewritten, and previous source-identity results are preserved.\n\nThe played S3E10 cutoff and all remaining names, badge/urn custody gaps, testimony and later-story boundaries remain unchanged. This follow-up does not reopen editorial rollout or add a main-campaign episode. Other source/listening questions stay active. No commit or push.\n"
+    }
+  ],
+  "protected_files": {
+    "delvers/narrative/SEASON_ONE_ARC.md": "0e68940c1c0ab4766419cb88c6903cac8d5fd72889e6cded4001affecddeacdc",
+    "delvers/narrative/SEASON_TWO.md": "6462e3d4656a0aaf18f9b3ce8784c3eb6c76b3b916c5c95bec441f055ed889b3",
+    "delvers/narrative/SEASON_THREE.md": "e772b43b60966e3a4d105571c1f3b701903919011e82bf709cab15a7617ee280",
+    "delvers/world/WORLD.md": "99de32da9c9cba672f9b80d0585773e3c67fe223dba908fed4b6d70c14edc4b3",
+    "delvers/world/CONSISTENCY_LEDGER.md": "b83f33d3679a42175df65439282e033b80a2ccedcb9db2291e4824315fc724f6",
+    "delvers/SOURCE_INVENTORY.md": "3c7d8272764fe6c149c7e5da7b2831f9a288a5fc5d05859fb5a60b22e03f10a1",
+    "delvers/episodes/S3E11.md": "d0509354b1520be23731e58ead5fedbb7c7af91e683013b5665ea69e25baf03c",
+    "reports/DELVERS_S3E11_ASR_COMPARISON_2026-10-26.md": "887cfd2c4da3cd7e16cd1e5e5b5f258c640c41fb845f4166a86ea849e6d5a24f",
+    "reports/DELVERS_S3E11_SOURCE_IDENTITY_2026-10-27.md": "52278c0e5e9ef2523ca2e9b03ba4532275e1e46894e970fb10813e53c23af6aa",
+    "project/DELVERS_S3E11_SOURCE_IDENTITY_2026-10-27.json": "1bfd4091198d327dd2aff9893ec6ffa8103293787f63be87e33e62ec5c4ff66f"
+  }
+}

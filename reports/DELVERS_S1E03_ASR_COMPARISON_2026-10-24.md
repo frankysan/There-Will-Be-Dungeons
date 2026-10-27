@@ -1,5 +1,7 @@
 # Delvers S1E03 — recovered-source ASR comparison (2026-10-24)
 
+**Source-identity follow-up, 2026-10-27:** The [S1E07–S1E03 batch check](DELVERS_S1E07_S1E03_SOURCE_IDENTITY_2026-10-27.md#s1e03) verifies all comparison inputs listed in the historical report against their recorded Git blobs after CRLF-to-LF conversion only, and verifies their exact historical source paths in the recorded source commit. Raw bytes differ in line endings. This independently confirms local content correspondence with the originally pinned source revision. Earlier provenance statements remain dated history. Prior interpretive coverage, inter-ASR measurements, played cutoff and audio status are unchanged.
+
 **Identity correction completed for text:** This is the comparison of the **actual S1E03 — Raw End Of Joke Stick** exports whose filenames contain **`(corrected)`**. Both older **uncorrected** S1E03-labelled files are **S1E04** and remain unchanged. Their former **7.65%** metric stays in [S1E04's report](DELVERS_S1E04_ASR_COMPARISON_2026-10-24.md). [Source identity audit](DELVERS_S1E03_SOURCE_IDENTITY_2026-10-24.md) · [Real S1E03 dossier](../delvers/episodes/S1E03.md).
 
 | Export | Exact file under `sources/` | Blob SHA | Cues | Final SRT end | Normalized tokens |

@@ -1,5 +1,7 @@
 # Delvers S2E09 — Potatopia: exact complete-export ASR comparison (2026-10-25)
 
+**Source-identity follow-up, 2026-10-27:** The [S2E12–S2E08 batch check](DELVERS_S2E12_S2E08_SOURCE_IDENTITY_2026-10-27.md#s2e09) verifies both complete local exports against their recorded Git blobs after CRLF-to-LF conversion only, and verifies both source paths in the recorded source commit. Raw bytes differ in line endings. This independently confirms local content correspondence with the originally pinned source revision. Earlier provenance statements remain dated history. Prior interpretive coverage, inter-ASR measurements, played cutoff and audio status are unchanged.
+
 **Episode:** Played Delvers Season Two Episode Nine. Host verbally says **weekend of June 26, 2021**, not confirmed publisher date. GM opening **retrospectively resolves S2E08's unfinished dragon fight**, then newly played story proceeds through **Broscale Manor silver promotion assessment and private Evelyn/Withers disclosure**. [Dossier](../delvers/episodes/S2E09.md) · [queue](../delvers/REVIEW_QUEUE.md).
 
 **Source provenance:** Local MCP `main` was clean at `bd23743219702ca258bd181a2e1999f4b3c9af48`; GitHub successfully fetched **both exact files at that pinned commit**, not floating HEAD. MCP opening SRT passage matched pinned sources; audio not heard. Unlike S2E08, source commit **was** resolvable.

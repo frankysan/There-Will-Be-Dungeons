@@ -1,5 +1,7 @@
 # Delvers S1E09 — Once a Month Goat: ASR comparison (2026-10-25)
 
+**Source-identity follow-up, 2026-10-27:** The [S1E12–S1E08 batch check](DELVERS_S1E12_S1E08_SOURCE_IDENTITY_2026-10-27.md#s1e09) verifies both complete local exports against their recorded Git blobs after CRLF-to-LF conversion only, and verifies both source paths in the recorded source commit. Raw bytes differ in line endings. This independently confirms local content correspondence with the originally pinned source revision. Earlier provenance statements remain dated history. Prior interpretive coverage, inter-ASR measurements, played cutoff and audio status are unchanged.
+
 **Sources:** Played Delvers S1E09, archive title *Once a Month Goat*, exact matching basename in the [Delvers inventory](../delvers/SOURCE_INVENTORY.md); private GitHub `frankysan/There-Will-Be-Dungeons-Transcripts` pinned commit **`33372182a7cd6518355ffd4dff93c036ca82574a`**, same as initial clean connected workspace `main`. **No source audio listened to or MP3/SRT alignment proven.**
 
 | Filename-inferred pipeline | Source | Git blob SHA | Cues | Last cue end | Normalized word tokens |

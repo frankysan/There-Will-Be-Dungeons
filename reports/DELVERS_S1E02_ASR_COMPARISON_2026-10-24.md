@@ -1,5 +1,7 @@
 # Delvers S1E02 — ASR comparison (2026-10-24)
 
+**Source-identity follow-up, 2026-10-27:** The [S1E02–S1E01 batch check](DELVERS_S1E02_S1E01_SOURCE_IDENTITY_2026-10-27.md#s1e02) verifies both complete local exports against their historical Git blobs after CRLF-to-LF conversion only, and verifies both source paths in the recorded source commit. Raw bytes differ in line endings. This independently confirms local content correspondence with the originally pinned source revision. Earlier provenance statements remain dated history. Prior interpretive coverage, inter-ASR measurements, played cutoff and audio status are unchanged.
+
 **Scope:** complete **Delvers S1E02 — Agreeable Meatball** Parakeet processed and independent Qwen/Canary CTC/Nemotron-labelled SRT exports, both retrieved from private GitHub commit `e908edb7b1b05207e6de2c281af72fb0f0415f8e`. Labels derive from filenames, not independently established inference configuration. Primary text read chronologically through closing network outro; the complete Qwen text was processed for the metric and manually inspected at opening and selected high-risk scenes, **not independently interpreted in every interval**. No audio played; identical audio input/clock alignment not established.
 
 | Export | SRT source | Blob SHA | Cues | Final cue end | Normalized tokens |

@@ -1,5 +1,7 @@
 # Delvers S2E11 — New High Score: exact complete-export ASR comparison (2026-10-25)
 
+**Source-identity follow-up, 2026-10-27:** The [S2E12–S2E08 batch check](DELVERS_S2E12_S2E08_SOURCE_IDENTITY_2026-10-27.md#s2e11) verifies both complete local exports against their recorded Git blobs after CRLF-to-LF conversion only, and verifies both source paths in the recorded source commit. Raw bytes differ in line endings. This independently confirms local content correspondence with the originally pinned source revision. Earlier provenance statements remain dated history. Prior interpretive coverage, inter-ASR measurements, played cutoff and audio status are unchanged.
+
 **Played episode:** [Delvers S2E11](../delvers/episodes/S2E11.md), last session before advertised [S2E12 finale](../delvers/SOURCE_INVENTORY.md). **A direct continuation of S2E10**, with Koh's wife awake; gala only upcoming. [Delvers queue](../delvers/REVIEW_QUEUE.md).
 
 **Source revision:** Workspace MCP `main` HEAD `ce23faa581b0584917ac5256be1c634e5d28ba7b`, three unrelated uncommitted Stanley-illustration doc edits at start. **Both exact source exports fetched from GitHub at the same verified commit** and local MCP initial cues match. Recording/publishing date, matching audio file content, model flags and run metadata not checked.
