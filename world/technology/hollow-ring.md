@@ -2,6 +2,10 @@
 
 **Identity:** The **Hollow Ring**, a rechargeable planar-transport artifact previously worn/carried with Hope's **supernatural Hand of the Voice**, which the Principle physically stole from Hope in [played S3E02](../../episodes/S3E02.md). It is **not** the necklace of transformations used by Doctor Spider, nor the Ring of Brett. Primary direct mechanics and custody evidence in [S3E11 — Two Wrongs](../../episodes/S3E11.md) and its [two-ASR comparison](../../reports/WASTES_S3E11_ASR_COMPARISON_2026-10-27.md).
 
+## S3E15 — Hope's two Sigil/Earth crossings are the Principle's portals, NOT Hollow Ring
+
+[Played S3E15](../../episodes/S3E15.md) **~01:35–01:48**: TARRASQUE bites and GRAPPLES HOPE/PRINCIPLE in rotating mouth; **PRINCIPLE ACTUALLY OPENS PORTAL TO SIGIL, TAKES HOPE THROUGH**, then **PRINCIPLE OPENS SECOND PORTAL BACK EARTH**, both return ALIVE on powered windboards. **HOPE DOES NOT ACTIVATE HOLLOW RING, DOES NOT RECHARGE THROUGH EVIL ACT, DOES NOT PERFORM *GATE* HERSELF**; ring still in HOPE'S POSSESSION, ZERO CHARGES observed since S3E11. [P/Q audit](../../reports/WASTES_S3E15_ASR_COMPARISON_2026-10-27.md), no audio.
+
 ## Rules explained at the S3E11 table
 
 Around **00:49–00:57**, GM/players find the character-sheet item and read/adjudicate **ONE CHARGE** to cast a **modified 9th-level *Gate***, forming a circular portal to a precise location on a different plane that the bearer can conceive. **Recharge condition: user must commit an EVIL ACT within a small radius of the ring**. **Parakeet (P) says SIXTY FEET; Qwen (Q) says SIX FEET** for radius—**audio / original item sheet required**; do not silently select one as canonical. The GM explicitly says he does **not remember** whether ring was charged last time, then **rules IT CURRENTLY HAS ONE CHARGE, likely because the Principle had done something sufficiently evil**. This is **GAME-MASTER STATE DECISION**, **not a new onscreen evil act, nor verification of past charge bookkeeping**. Gate requires target location precise enough; the party has visited Château Weir before, and Hope knows its courtyard/throne areas.

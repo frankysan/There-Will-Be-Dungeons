@@ -1,6 +1,10 @@
 # Vorel — titles and epithets register
 
-**Type:** Source-indexed supporting register for [Vorel](vorel.md), deliberately separated from the main character biography. **Evidence:** ASR-provisional, with source windows, name variants and social standing preserved. **Spoilers:** Through Wastes S3E14; Q&As are retrospective, not played conferrals. [Characters](../CHARACTERS.md) · [World portal](../README.md).
+**Type:** Source-indexed supporting register for [Vorel](vorel.md), deliberately separated from the main character biography. **Evidence:** ASR-provisional, with source windows, name variants and social standing preserved. **Spoilers:** Through Wastes S3E15; Q&As are retrospective, not played conferrals. [Characters](../CHARACTERS.md) · [World portal](../README.md).
+
+## S3E15 — NO new self-proclaimed/awarded Vorel title; battlefield orders are commands, NOT epithets
+
+[Played S3E15](../../episodes/S3E15.md) ~00:01–00:15 and ~02:11–02:18: VOREL **REFINES SINGLE TNT CANYON TRAP, DIRE­CTS LIZARDFOLK/GOBLINS, EATS STANLEY *HEROES' FEAST*, RETREATS TO PREPARED AMBUSH WITH 3-BUTTON SHIELD REMOTE**; calls out **“It comes! Positions!”**, repeated by KING BOKBOK, without an explicit new named self-title or opponent's new honorific. “KING” refers to BOKBOK, and VOREL'S ambitions for SOLAR MINES settlement are future plans, **NOT a title conferred**. **NO TITLE ROW/COUNT CHANGED**; [S3E15 audit](../../reports/WASTES_S3E15_ASR_COMPARISON_2026-10-27.md), no audio.
 
 ## S3E14 — “I will be your warden” is PRINCIPLE-parole threat, NOT a new Vorel epithet
 

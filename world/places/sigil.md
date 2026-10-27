@@ -2,6 +2,10 @@
 
 > **First Wastes appearance:** [E082 — Binch Better Have My Money](../../episodes/E082.md). Evidence comes from the [processed ASR](../../sources/The%20Wastes%20S1E082.%20Binch%20Better%20Have%20My%20Money.parakeet.processed.srt), **not independently audio-verified**. **Sigil is part of The Wastes' fourth arc, not the separate Inverse reality.**
 
+## S3E15 — Principle ACTUALLY opens temporary combat escape portal to Sigil, then returns Hope/Earth
+
+In [played Wastes S3E15](../../episodes/S3E15.md) during actual battle with the full WORLD-BREAKER TARRASQUE **~01:36–01:48**, **PRINCIPLE AND HOPE ARE PHYSICALLY BITTEN/SUCKED INTO ITS ROTATING GRINDER MOUTH** and lose 31 HP EACH; PRINCIPLE **REACHES HOPE, GRABS HER HAND AND ACTUALLY OPENS A PLANAR PORTAL WITH HIS OWN MAGIC INTO SIGIL**, BOTH **ACTUALLY TRAVERSE/FLY OVER INVERTED CITY'S CROWDED MARKETS/ROOFTOPS**, drawing civilian surprise. They do not stop in an inn, acquire objects, meet old NPCs in a played encounter, or teleport the entire party. PRINCIPLE **ACTUALLY OPENS A SECOND PORTAL FROM SIGIL BACK TO EARTH DURING SAME CHASE**, HOPE TRAVERSES WITH HIM AND THEY BOTH REJOIN TARRASQUE PURSUIT ALIVE. **DISTINGUISH PRINCIPLE'S ACTIVE SPELL FROM HOPE'S SPENT HOLLOW RING (S3E11) AND FATE SIX, WHICH CANNOT SHIFT PLANES WITHOUT AN EXTERNAL GATE (S3E14)**. [Exact P/Q audit](../../reports/WASTES_S3E15_ASR_COMPARISON_2026-10-27.md), no audio; **Arc Six still ongoing**.
+
 ## E116 — the refused Tobacho Gate and failed dock seizure
 
 The ending of [E113](../../episodes/E113.md) actually depicts all four passing through a Gate into Tobacho Fleur's bar, **but [E116](../../episodes/E116.md) starts again in the Council's empty cave and says Hope rejects that planned passage**. The DM confirms out-of-game he discarded his prepared Tobacho map. **This is an E113/E116 scene-boundary revision, not an observed offscreen return to Pandemonium**.
