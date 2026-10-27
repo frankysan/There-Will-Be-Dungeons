@@ -986,3 +986,25 @@ The character registers add only the new 36th profile while preserving the exist
 Sixteen exact originals and reading copies are archived; all 359 protected files remain unchanged. Nineteen item profiles and twenty-six place profiles are byte-unchanged; the urn-set and Basilica changes only normalize the canonical reference and associated wording. No source dossier/media, private handout or older audit report is rewritten. No new original ASR/audio/image/map/sheet/rulebook review and no commit/push by this task.
 
 Next reconcile gricks and hook horrors around supported traits and later horizons, then review remaining form/source notes and WORLD setting/institution material. Final campaign integration and targeted listening remain pending.
+
+### Fifty-second implementation checkpoint — gricks and hook horrors
+
+**2026-10-27: two creature accounts reconciled chronologically through later encounters and final supported states.** [Report](../reports/DELVERS_GRICKS_HOOK_HORRORS_2026-10-27.md) · [Coverage](DELVERS_GRICKS_HOOK_HORRORS_COVERAGE.json) · [Validation](DELVERS_GRICKS_HOOK_HORRORS_VALIDATION.json) · [Archive](../research/legacy/2026-10-27/delvers-gricks-hook-horrors/README.md).
+
+Gricks retain the early four-kill scouting report, observed feeding and trap injuries, the city outbreak and stone concealment. The later large specimen's death does not close the population: at least one escapes, and neither the ninety-percent boast nor eventual monster decline proves extinction. Captive workers' provisions remain distinct from species-wide diet.
+
+Hook horrors retain the first adult's death, submitted trophy and second survivor, then the Ball and bank encounters. The bank egg called Samuel hatches at the farm; Scroungy's attachment, feeding, ribbon and return to Krandal's bag precede later tame farm work. Wild adults and the school intruder retain separate outcomes, with no inferred kinship, universal senses or universal taming.
+
+Eight exact originals and reading copies are preserved before editing; 371 protected baseline hashes remain unchanged. Only two creature-profile inventory rows, their index summaries and current queue fields are refreshed. Other four directory rows, fourteen institutional units, WORLD context and existing character/place/item registers are preserved. Selected dossier passages and complete old/new page readbacks support this bounded editorial review; no new audio or original ASR review or full campaign certification.
+
+Next review flameskull/roper form and source-note boundaries, then reconcile WORLD setting/institution material through existing canonical routes. Final campaign integration and targeted listening remain pending.
+
+### Fifty-third implementation checkpoint — flameskull and roper form/source notes
+
+**2026-10-27: bounded polish of two existing creature accounts completed.** [Report](../reports/DELVERS_FORM_POLISH_2026-10-27.md) · [Coverage](DELVERS_FORM_POLISH_COVERAGE.json) · [Validation](DELVERS_FORM_POLISH_VALIDATION.json) · [Archive](../research/legacy/2026-10-27/delvers-form-polish/README.md).
+
+The flameskull retains its observed fire, patrol, destruction and consecration. Enzo's immortality explanation remains testimony, with personal history routed to his biography. The early holy-water supply balance moves into its source note, while the closing status concerns the destroyed skull and uncertain reflection. The roper retains stone appearance, grasping/bite, eye vulnerability, piercer-producing opening and death. Survival of some piercers, the swallowed cultist's unconfirmed death and later reuse of the collapse hole remain distinct from other ropers and the later land renewal. No general taxonomy, regeneration cycle, intelligence score or universal reproductive rule is invented.
+
+Eight pre-edit originals and reading copies are preserved; 374 protected hashes remain unchanged. Only these two creature inventory rows, their index summaries and current progress fields are refreshed. The other four directory rows, fourteen institutional units, WORLD context, character/place/item registers and prior grick/hook batch remain unchanged. This is selected-dossier editorial reconciliation, not new audio or full campaign certification. The bat pilot is retained without a forced rewrite; index-only candidates and final integration remain pending.
+
+Next reconcile WORLD setting/institution material through existing canonical routes, separating stated policy, observed practice and later civic changes. Targeted listening remains separate.

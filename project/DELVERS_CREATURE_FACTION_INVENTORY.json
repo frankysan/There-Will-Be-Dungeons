@@ -1,6 +1,6 @@
 {
   "date": "2026-10-27",
-  "scope": "Six creature-directory paths (five subjects and one compatibility route), seven index rows and fourteen institutional/reference units; bounded All Rat/minotaur routing update recorded",
+  "scope": "Six creature-directory paths (five subjects and one compatibility route), seven index rows and fourteen institutional/reference units; bounded routing, horizon and form/source-note updates recorded",
   "baseline": {
     "branch": "main",
     "head": "5bd18ad",
@@ -13,7 +13,7 @@
     "index_reasoning_community_route": 0,
     "institutional_reference_units": 14,
     "formal_faction_directory": false,
-    "subject_rewrites": 1,
+    "subject_rewrites": 5,
     "creature_directory_paths": 6,
     "compatibility_routes": 1,
     "new_character_profiles": 1
@@ -26,13 +26,15 @@
     "Seven selected complete primary paragraphs read; no full source reread",
     "No new original ASR/audio, sheets, images/maps, bonus exports, rulebook, remote URL or rendered-site review",
     "Independent Delvers continuity; no empty pages or automatic taxonomy migration",
-    "Subsequent routing update: All Rat path is a compatibility stub and index has seven creature rows. Original inventory review remains historical; no new full review of the other five profiles or fourteen institutional units."
+    "Subsequent routing update: All Rat path is a compatibility stub and index has seven creature rows. Original inventory review remains historical; no new full review of the other five profiles or fourteen institutional units.",
+    "Subsequent grick/hook-horror update: full old/new pages and selected dossier passages; other four directory rows, WORLD context and fourteen institutional units remain unchanged.",
+    "Subsequent flameskull/roper polish: two full pages and selected source/context readbacks; other four directory rows, WORLD context and fourteen institutional units unchanged. Bat pilot retained; index-only candidates not thereby certified."
   ],
   "creature_profiles": [
     {
       "path": "delvers/world/creatures/all-rat-cranium-congregation.md",
       "sha256": "cf251e4e9dd5dcce4906065b1e5cbdb45ebc352a88504e25196fd80ee7c6b255",
-      "h1": "The All Rat — cranium-rat congregation",
+      "h1": "The All Rat \u2014 cranium-rat congregation",
       "disposition": "compatibility-route-to-character",
       "priority": "completed-P0",
       "next_action": "Retain compatibility path; canonical biography in Characters",
@@ -129,28 +131,26 @@
     },
     {
       "path": "delvers/world/creatures/flameskull.md",
-      "sha256": "bbcfa50ec488141bec8d6f17668f0f65ded1e584ed5ff8c4de65c216b0cb0178",
-      "h1": "Flameskull — the restless guardian of Skull Keep",
-      "disposition": "individual-supernatural-form-context",
-      "priority": "P2",
-      "next_action": "Review form-versus-Enzo biography boundary and early supply inventory in closing status",
-      "supported_horizon": "S1E06 destroyed and consecrated",
+      "sha256": "6ba481f869b8ff18f0e784ba6313322df08ac9b74281c352458d22272e1c147a",
+      "h1": "Flameskull \u2014 the restless guardian of Skull Keep",
+      "disposition": "bounded-form-source-note-review-completed",
+      "priority": "completed-P2",
+      "next_action": "Retain individual form/outcome and attributed testimony; targeted listening separate",
+      "supported_horizon": "S1E06 destruction/consecration; S2E00 report; no later return identified",
       "retained_limit": "Enzo divided-mind story is testimony; no intelligence ruling or current holy-water count",
       "main_sections": [
         "Introduction",
         "An unnatural life",
         "Current status"
       ],
-      "main_prose_words": 360,
+      "main_prose_words": 337,
       "anchors": [
         "flameskull--the-restless-guardian-of-skull-keep",
         "introduction",
         "an-unnatural-life",
         "current-status"
       ],
-      "structural_findings": [
-        "Early consumable inventory mixed into creature status"
-      ],
+      "structural_findings": [],
       "candidate_alias_regex": "flameskull|flame.skull",
       "candidate_mentions": [
         {
@@ -178,35 +178,51 @@
           ]
         }
       ],
-      "review_method": "Full current page read; inventory/routing, not full factual/audio certification"
+      "review_method": "Full old/new page, selected dossier paragraphs and existing canonical biography/place context; no new audio or original ASR review",
+      "bounded_reconciliations": [
+        {
+          "date": "2026-10-27",
+          "report": "reports/DELVERS_FORM_POLISH_2026-10-27.md",
+          "previous": {
+            "sha256": "bbcfa50ec488141bec8d6f17668f0f65ded1e584ed5ff8c4de65c216b0cb0178",
+            "disposition": "individual-supernatural-form-context",
+            "priority": "P2",
+            "next_action": "Review form-versus-Enzo biography boundary and early supply inventory in closing status",
+            "supported_horizon": "S1E06 destroyed and consecrated",
+            "structural_findings": [
+              "Early consumable inventory mixed into creature status"
+            ]
+          }
+        }
+      ]
     },
     {
       "path": "delvers/world/creatures/gricks.md",
-      "sha256": "e63f53753242e5c2e4d691a592d46e8667d1c6c4eca68127762977908dddfe98",
+      "sha256": "06722ca957369151004f248f1c85756b346c1b44805b28ef8d7ca87ef7f5b7b9",
       "h1": "Gricks",
-      "disposition": "creature-kind-needs-horizon-reconciliation",
-      "priority": "P1",
-      "next_action": "Integrate later encounter and replace obsolete early-only status",
-      "supported_horizon": "S3E09 alpha/other kills; at least one escapes",
+      "disposition": "bounded-subject-reconciliation-completed",
+      "priority": "completed-P1",
+      "next_action": "Retain supported traits and individual/population limits; targeted listening remains separate",
+      "supported_horizon": "S3E12 aftermath; last direct live grick escape S3E09",
       "retained_limit": "No ecological succession, surveyed extinction or universal diet",
       "main_sections": [
         "Introduction",
         "The sinkhole predators",
-        "S3E09: Stone-disguised gricks, big alpha defeated, one escapes",
+        "Predators beneath the city",
+        "Concealment in the wind chamber",
         "Current status"
       ],
-      "main_prose_words": 358,
+      "main_prose_words": 322,
       "anchors": [
         "gricks",
         "introduction",
         "the-sinkhole-predators",
-        "s3e09-stone-disguised-gricks-big-alpha-defeated-one-escapes",
-        "current-status"
+        "predators-beneath-the-city",
+        "concealment-in-the-wind-chamber",
+        "current-status",
+        "s3e09-stone-disguised-gricks-big-alpha-defeated-one-escapes"
       ],
-      "structural_findings": [
-        "Source/production apparatus visible in main prose",
-        "Later update and early closing horizon need reconciliation"
-      ],
+      "structural_findings": [],
       "candidate_alias_regex": "\\bgricks?\\b|grick alpha",
       "candidate_mentions": [
         {
@@ -375,37 +391,52 @@
           ]
         }
       ],
-      "review_method": "Full current page read; inventory/routing, not full factual/audio certification"
+      "review_method": "Full old/new pages and selected complete dossier paragraphs; no new audio or original ASR review",
+      "bounded_reconciliations": [
+        {
+          "date": "2026-10-27",
+          "report": "reports/DELVERS_GRICKS_HOOK_HORRORS_2026-10-27.md",
+          "previous": {
+            "sha256": "e63f53753242e5c2e4d691a592d46e8667d1c6c4eca68127762977908dddfe98",
+            "disposition": "creature-kind-needs-horizon-reconciliation",
+            "priority": "P1",
+            "next_action": "Integrate later encounter and replace obsolete early-only status",
+            "supported_horizon": "S3E09 alpha/other kills; at least one escapes",
+            "structural_findings": [
+              "Source/production apparatus visible in main prose",
+              "Later update and early closing horizon need reconciliation"
+            ]
+          }
+        }
+      ]
     },
     {
       "path": "delvers/world/creatures/hook-horrors.md",
-      "sha256": "df440fde22b5a04391100ea2f799645887e5a75adfeff5d66d1b210a60b96940",
-      "h1": "Hook horrors — hunters of the underground passages",
-      "disposition": "creature-kind-and-individual-states",
-      "priority": "P1",
-      "next_action": "Reorder front epilogue insertion, early encounters and final state",
-      "supported_horizon": "S3E12 Scroungy farm epilogue",
+      "sha256": "9389c2aff6446f58d09abfe7c46480054feca0a4e65fd02e478c5028b2a49649",
+      "h1": "Hook horrors \u2014 hunters of the underground passages",
+      "disposition": "bounded-subject-reconciliation-completed",
+      "priority": "completed-P1",
+      "next_action": "Retain supported traits and individual/population limits; targeted listening remains separate",
+      "supported_horizon": "S3E12 one-year farm epilogue for Scroungy; wild individual fates remain separate",
       "retained_limit": "No universal taming, kinship or sensory rules from individual behavior",
       "main_sections": [
-        "S3E12 campaign-finale change — Scroungy becomes docile farm beast",
         "Introduction",
         "First confrontation",
+        "Wild hunters in Atomer",
+        "Scroungy's early life",
         "Current status"
       ],
-      "main_prose_words": 407,
+      "main_prose_words": 398,
       "anchors": [
         "hook-horrors--hunters-of-the-underground-passages",
-        "s3e12-campaign-finale-change--scroungy-becomes-docile-farm-beast",
         "introduction",
         "first-confrontation",
-        "current-status"
+        "wild-hunters-in-atomer",
+        "scroungys-early-life",
+        "current-status",
+        "s3e12-campaign-finale-change--scroungy-becomes-docile-farm-beast"
       ],
-      "structural_findings": [
-        "Introduction not first substantive section",
-        "Source/production apparatus visible in main prose",
-        "Editorial caution visible in main prose",
-        "Later update and early closing horizon need reconciliation"
-      ],
+      "structural_findings": [],
       "candidate_alias_regex": "hook.horror|Scroung|Samuel",
       "candidate_mentions": [
         {
@@ -537,32 +568,49 @@
           ]
         }
       ],
-      "review_method": "Full current page read; inventory/routing, not full factual/audio certification"
+      "review_method": "Full old/new pages and selected complete dossier paragraphs; no new audio or original ASR review",
+      "bounded_reconciliations": [
+        {
+          "date": "2026-10-27",
+          "report": "reports/DELVERS_GRICKS_HOOK_HORRORS_2026-10-27.md",
+          "previous": {
+            "sha256": "df440fde22b5a04391100ea2f799645887e5a75adfeff5d66d1b210a60b96940",
+            "disposition": "creature-kind-and-individual-states",
+            "priority": "P1",
+            "next_action": "Reorder front epilogue insertion, early encounters and final state",
+            "supported_horizon": "S3E12 Scroungy farm epilogue",
+            "structural_findings": [
+              "Introduction not first substantive section",
+              "Source/production apparatus visible in main prose",
+              "Editorial caution visible in main prose",
+              "Later update and early closing horizon need reconciliation"
+            ]
+          }
+        }
+      ]
     },
     {
       "path": "delvers/world/creatures/noble-hollow-roper.md",
-      "sha256": "794ba55afada40b238df7573c149970c113335b94bd493d11d1c78f8b9f29015",
+      "sha256": "e61219db18c5f51c4c9a3ade7a86b0ecc02bc5c3d6571fd89718d883d6a0688a",
       "h1": "The roper of Noble Hollow",
-      "disposition": "individual-creature-account",
-      "priority": "P2",
-      "next_action": "Keep local traits/death; move editorial cautions and mechanics to notes",
-      "supported_horizon": "S1E12 roper dead; some piercers survive",
+      "disposition": "bounded-form-source-note-review-completed",
+      "priority": "completed-P2",
+      "next_action": "Retain individual form/outcome and attributed testimony; targeted listening separate",
+      "supported_horizon": "S1E12 death; S3E10 opening reused and S3E12 land renewed without brood survey",
       "retained_limit": "Not proved summoned lake beast or universal reproductive biology",
       "main_sections": [
         "Introduction",
         "Mother of the piercers",
         "Current status"
       ],
-      "main_prose_words": 365,
+      "main_prose_words": 216,
       "anchors": [
         "the-roper-of-noble-hollow",
         "introduction",
         "mother-of-the-piercers",
         "current-status"
       ],
-      "structural_findings": [
-        "Editorial caution visible in main prose"
-      ],
+      "structural_findings": [],
       "candidate_alias_regex": "\\broper\\b|piercers?",
       "candidate_mentions": [
         {
@@ -663,7 +711,23 @@
           ]
         }
       ],
-      "review_method": "Full current page read; inventory/routing, not full factual/audio certification"
+      "review_method": "Full old/new page, selected dossier paragraphs and existing canonical biography/place context; no new audio or original ASR review",
+      "bounded_reconciliations": [
+        {
+          "date": "2026-10-27",
+          "report": "reports/DELVERS_FORM_POLISH_2026-10-27.md",
+          "previous": {
+            "sha256": "794ba55afada40b238df7573c149970c113335b94bd493d11d1c78f8b9f29015",
+            "disposition": "individual-creature-account",
+            "priority": "P2",
+            "next_action": "Keep local traits/death; move editorial cautions and mechanics to notes",
+            "supported_horizon": "S1E12 roper dead; some piercers survive",
+            "structural_findings": [
+              "Editorial caution visible in main prose"
+            ]
+          }
+        }
+      ]
     },
     {
       "path": "delvers/world/creatures/skeletal-bat-balcony.md",
@@ -712,7 +776,7 @@
   ],
   "creature_index": {
     "path": "delvers/world/CREATURES_AND_MONSTERS.md",
-    "sha256": "8efa3bf2c86099c797ff7b4c9dd537da10a002b9301b31933bb237d06a2cf23a",
+    "sha256": "3b51398cedd95632bf2246c1980ad598493b522fb59655b0a1aa8c44904cbdfc",
     "rows": [
       {
         "label": "Ancient mummified elves of the triangle-gate catacombs",
@@ -733,9 +797,7 @@
       {
         "label": "[Hook horrors](creatures/hook-horrors.md)",
         "disposition": "linked current creature profile",
-        "findings": [
-          "Index summary now reaches farm epilogue; full hook-horror chronology remains P1 work"
-        ]
+        "findings": []
       },
       {
         "label": "[Skeletal bat of Dawnless Dunes](creatures/skeletal-bat-balcony.md)",
@@ -745,23 +807,17 @@
       {
         "label": "[Gricks](creatures/gricks.md)",
         "disposition": "linked current creature profile",
-        "findings": [
-          "Compact source-heavy synopsis while retaining evidence"
-        ]
+        "findings": []
       },
       {
         "label": "[Noble Hollow roper](creatures/noble-hollow-roper.md)",
         "disposition": "linked current creature profile",
-        "findings": [
-          "Compact source-heavy synopsis while retaining evidence"
-        ]
+        "findings": []
       },
       {
         "label": "[Skull Keep's flameskull](creatures/flameskull.md)",
         "disposition": "linked current creature profile",
-        "findings": [
-          "Compact source-heavy synopsis while retaining evidence"
-        ]
+        "findings": []
       }
     ]
   },
@@ -2975,16 +3031,6 @@
   ],
   "next_batches": [
     {
-      "priority": "P1",
-      "scope": "Gricks and hook horrors chronology/traits/final status",
-      "limits": "No species-wide rules from individual behavior"
-    },
-    {
-      "priority": "P2",
-      "scope": "Flameskull/roper form/source-note polish; retain bat pilot unless a defect is found",
-      "limits": "No mandatory rewrite of conforming material"
-    },
-    {
       "priority": "P2",
       "scope": "WORLD setting/institution reconciliation via existing routes",
       "limits": "Separate stated policy, observed practice, interested testimony and civic changes"
@@ -3070,6 +3116,44 @@
         "subject_rewrites": 0
       },
       "scope": "Only All Rat row, index classifications/finale summaries and next-batch pointer updated; other five profiles and institutional units unchanged"
+    },
+    {
+      "date": "2026-10-27",
+      "report": "reports/DELVERS_GRICKS_HOOK_HORRORS_2026-10-27.md",
+      "scope": "Two creature-profile rows and their index findings/hash; current counts, limits and queue only",
+      "previous_counts": {
+        "creature_profiles": 5,
+        "creature_index_rows": 7,
+        "index_only_creature_candidates": 2,
+        "index_reasoning_community_route": 0,
+        "institutional_reference_units": 14,
+        "formal_faction_directory": false,
+        "subject_rewrites": 1,
+        "creature_directory_paths": 6,
+        "compatibility_routes": 1,
+        "new_character_profiles": 1
+      },
+      "unchanged_other_creature_rows": 4,
+      "unchanged_institutional_reference_units": 14
+    },
+    {
+      "date": "2026-10-27",
+      "report": "reports/DELVERS_FORM_POLISH_2026-10-27.md",
+      "scope": "Two form-profile rows and their index findings/hash; current counts, limits and queue only",
+      "previous_counts": {
+        "creature_profiles": 5,
+        "creature_index_rows": 7,
+        "index_only_creature_candidates": 2,
+        "index_reasoning_community_route": 0,
+        "institutional_reference_units": 14,
+        "formal_faction_directory": false,
+        "subject_rewrites": 3,
+        "creature_directory_paths": 6,
+        "compatibility_routes": 1,
+        "new_character_profiles": 1
+      },
+      "unchanged_other_creature_rows": 4,
+      "unchanged_institutional_reference_units": 14
     }
   ]
 }

@@ -1,0 +1,499 @@
+{
+  "date": "2026-10-27",
+  "scope": "Flameskull and Noble Hollow roper form/source-note polish",
+  "headings": [
+    {
+      "path": "delvers/world/creatures/flameskull.md",
+      "old_anchor": "flameskull--the-restless-guardian-of-skull-keep",
+      "disposition": "Existing native heading retained"
+    },
+    {
+      "path": "delvers/world/creatures/flameskull.md",
+      "old_anchor": "introduction",
+      "disposition": "Existing native heading retained"
+    },
+    {
+      "path": "delvers/world/creatures/flameskull.md",
+      "old_anchor": "an-unnatural-life",
+      "disposition": "Existing native heading retained"
+    },
+    {
+      "path": "delvers/world/creatures/flameskull.md",
+      "old_anchor": "current-status",
+      "disposition": "Existing native heading retained"
+    },
+    {
+      "path": "delvers/world/creatures/noble-hollow-roper.md",
+      "old_anchor": "the-roper-of-noble-hollow",
+      "disposition": "Existing native heading retained"
+    },
+    {
+      "path": "delvers/world/creatures/noble-hollow-roper.md",
+      "old_anchor": "introduction",
+      "disposition": "Existing native heading retained"
+    },
+    {
+      "path": "delvers/world/creatures/noble-hollow-roper.md",
+      "old_anchor": "mother-of-the-piercers",
+      "disposition": "Existing native heading retained"
+    },
+    {
+      "path": "delvers/world/creatures/noble-hollow-roper.md",
+      "old_anchor": "current-status",
+      "disposition": "Existing native heading retained"
+    },
+    {
+      "path": "delvers/world/CREATURES_AND_MONSTERS.md",
+      "old_anchor": "creatures-and-monsters",
+      "disposition": "Existing native heading retained"
+    },
+    {
+      "path": "delvers/world/README.md",
+      "old_anchor": "delvers--world-reference",
+      "disposition": "Existing native heading retained"
+    },
+    {
+      "path": "delvers/world/README.md",
+      "old_anchor": "browse-the-world",
+      "disposition": "Existing native heading retained"
+    },
+    {
+      "path": "delvers/world/README.md",
+      "old_anchor": "cleanup-progress",
+      "disposition": "Existing native heading retained"
+    },
+    {
+      "path": "delvers/world/README.md",
+      "old_anchor": "subject-directory",
+      "disposition": "Existing native heading retained"
+    },
+    {
+      "path": "delvers/world/README.md",
+      "old_anchor": "people",
+      "disposition": "Existing native heading retained"
+    },
+    {
+      "path": "delvers/world/README.md",
+      "old_anchor": "places-and-institutions",
+      "disposition": "Existing native heading retained"
+    },
+    {
+      "path": "delvers/world/README.md",
+      "old_anchor": "items-and-artifacts",
+      "disposition": "Existing native heading retained"
+    },
+    {
+      "path": "delvers/world/README.md",
+      "old_anchor": "creatures",
+      "disposition": "Existing native heading retained"
+    },
+    {
+      "path": "delvers/world/README.md",
+      "old_anchor": "research-boundary",
+      "disposition": "Existing native heading retained"
+    },
+    {
+      "path": "delvers/world/README.md",
+      "old_anchor": "cleanup-pilots",
+      "disposition": "Existing native heading retained"
+    },
+    {
+      "path": "project/DELVERS_CAMPAIGN_CLEANUP_PLAN.md",
+      "old_anchor": "delvers--completed-campaign-cleanup-plan",
+      "disposition": "Existing native heading retained"
+    },
+    {
+      "path": "project/DELVERS_CAMPAIGN_CLEANUP_PLAN.md",
+      "old_anchor": "1-intended-result",
+      "disposition": "Existing native heading retained"
+    },
+    {
+      "path": "project/DELVERS_CAMPAIGN_CLEANUP_PLAN.md",
+      "old_anchor": "2-initial-checkout-inventory-and-findings",
+      "disposition": "Existing native heading retained"
+    },
+    {
+      "path": "project/DELVERS_CAMPAIGN_CLEANUP_PLAN.md",
+      "old_anchor": "3-story-boundaries-and-knowledge",
+      "disposition": "Existing native heading retained"
+    },
+    {
+      "path": "project/DELVERS_CAMPAIGN_CLEANUP_PLAN.md",
+      "old_anchor": "4-narrative-consolidation",
+      "disposition": "Existing native heading retained"
+    },
+    {
+      "path": "project/DELVERS_CAMPAIGN_CLEANUP_PLAN.md",
+      "old_anchor": "5-world-reference-consolidation",
+      "disposition": "Existing native heading retained"
+    },
+    {
+      "path": "project/DELVERS_CAMPAIGN_CLEANUP_PLAN.md",
+      "old_anchor": "6-work-sequence-and-completion-gates",
+      "disposition": "Existing native heading retained"
+    },
+    {
+      "path": "project/DELVERS_CAMPAIGN_CLEANUP_PLAN.md",
+      "old_anchor": "7-verification-work-alongside-editing",
+      "disposition": "Existing native heading retained"
+    },
+    {
+      "path": "project/DELVERS_CAMPAIGN_CLEANUP_PLAN.md",
+      "old_anchor": "8-preservation-and-acceptance",
+      "disposition": "Existing native heading retained"
+    },
+    {
+      "path": "project/DELVERS_CAMPAIGN_CLEANUP_PLAN.md",
+      "old_anchor": "9-recommended-first-implementation-slice",
+      "disposition": "Existing native heading retained"
+    },
+    {
+      "path": "project/DELVERS_NARRATIVE_CHAPTER_MAPS.md",
+      "old_anchor": "delvers--narrative-chapter-maps",
+      "disposition": "Existing native heading retained"
+    },
+    {
+      "path": "project/DELVERS_NARRATIVE_CHAPTER_MAPS.md",
+      "old_anchor": "method-and-reading-weight",
+      "disposition": "Existing native heading retained"
+    },
+    {
+      "path": "project/DELVERS_NARRATIVE_CHAPTER_MAPS.md",
+      "old_anchor": "first-arc--implemented-pilot",
+      "disposition": "Existing native heading retained"
+    },
+    {
+      "path": "project/DELVERS_NARRATIVE_CHAPTER_MAPS.md",
+      "old_anchor": "earlier-study-coverage-and-unique-material",
+      "disposition": "Existing native heading retained"
+    },
+    {
+      "path": "project/DELVERS_NARRATIVE_CHAPTER_MAPS.md",
+      "old_anchor": "second-arc--implemented-consolidation",
+      "disposition": "Existing native heading retained"
+    },
+    {
+      "path": "project/DELVERS_NARRATIVE_CHAPTER_MAPS.md",
+      "old_anchor": "third-arc--implemented-consolidation",
+      "disposition": "Existing native heading retained"
+    },
+    {
+      "path": "project/DELVERS_NARRATIVE_CHAPTER_MAPS.md",
+      "old_anchor": "next-acceptance-work",
+      "disposition": "Existing native heading retained"
+    },
+    {
+      "path": "project/DELVERS_CLEANUP_MANIFEST.md",
+      "old_anchor": "delvers--cleanup-migration-manifest",
+      "disposition": "Existing native heading retained"
+    },
+    {
+      "path": "project/DELVERS_CLEANUP_MANIFEST.md",
+      "old_anchor": "method-and-boundaries",
+      "disposition": "Existing native heading retained"
+    },
+    {
+      "path": "project/DELVERS_CLEANUP_MANIFEST.md",
+      "old_anchor": "page-inventory",
+      "disposition": "Existing native heading retained"
+    },
+    {
+      "path": "project/DELVERS_CLEANUP_MANIFEST.md",
+      "old_anchor": "acceptance-tracking",
+      "disposition": "Existing native heading retained"
+    },
+    {
+      "path": "project/DELVERS_CLEANUP_MANIFEST.md",
+      "old_anchor": "first-implementation-checkpoint",
+      "disposition": "Existing native heading retained"
+    },
+    {
+      "path": "project/DELVERS_CLEANUP_MANIFEST.md",
+      "old_anchor": "season-one-reading-weight",
+      "disposition": "Existing native heading retained"
+    },
+    {
+      "path": "project/DELVERS_CLEANUP_MANIFEST.md",
+      "old_anchor": "verification-and-remaining-scope",
+      "disposition": "Existing native heading retained"
+    },
+    {
+      "path": "project/DELVERS_CLEANUP_MANIFEST.md",
+      "old_anchor": "second-implementation-checkpoint--season-two",
+      "disposition": "Existing native heading retained"
+    },
+    {
+      "path": "project/DELVERS_CLEANUP_MANIFEST.md",
+      "old_anchor": "third-implementation-checkpoint--season-three",
+      "disposition": "Existing native heading retained"
+    },
+    {
+      "path": "project/DELVERS_CLEANUP_MANIFEST.md",
+      "old_anchor": "fourth-implementation-checkpoint--world-pilots",
+      "disposition": "Existing native heading retained"
+    },
+    {
+      "path": "project/DELVERS_CLEANUP_MANIFEST.md",
+      "old_anchor": "fifth-implementation-checkpoint--evelyn-and-krandal",
+      "disposition": "Existing native heading retained"
+    },
+    {
+      "path": "project/DELVERS_CLEANUP_MANIFEST.md",
+      "old_anchor": "sixth-implementation-checkpoint--margaret-and-the-traveler",
+      "disposition": "Existing native heading retained"
+    },
+    {
+      "path": "project/DELVERS_CLEANUP_MANIFEST.md",
+      "old_anchor": "seventh-implementation-checkpoint--nopa-ropa-and-hissia",
+      "disposition": "Existing native heading retained"
+    },
+    {
+      "path": "project/DELVERS_CLEANUP_MANIFEST.md",
+      "old_anchor": "eighth-implementation-checkpoint--cassius-and-carrie",
+      "disposition": "Existing native heading retained"
+    },
+    {
+      "path": "project/DELVERS_CLEANUP_MANIFEST.md",
+      "old_anchor": "ninth-implementation-checkpoint--wildfire-and-alexandre-withers",
+      "disposition": "Existing native heading retained"
+    },
+    {
+      "path": "project/DELVERS_CLEANUP_MANIFEST.md",
+      "old_anchor": "tenth-implementation-checkpoint--anathala-and-penelope-spiros",
+      "disposition": "Existing native heading retained"
+    },
+    {
+      "path": "project/DELVERS_CLEANUP_MANIFEST.md",
+      "old_anchor": "eleventh-implementation-checkpoint--broadside-and-cheet",
+      "disposition": "Existing native heading retained"
+    },
+    {
+      "path": "project/DELVERS_CLEANUP_MANIFEST.md",
+      "old_anchor": "twelfth-implementation-checkpoint--marek-gideon-and-noble-hollow",
+      "disposition": "Existing native heading retained"
+    },
+    {
+      "path": "project/DELVERS_CLEANUP_MANIFEST.md",
+      "old_anchor": "thirteenth-implementation-checkpoint--enzo-withers-and-skull-keep",
+      "disposition": "Existing native heading retained"
+    },
+    {
+      "path": "project/DELVERS_CLEANUP_MANIFEST.md",
+      "old_anchor": "fourteenth-implementation-checkpoint--withers-estate-and-broscale-manor",
+      "disposition": "Existing native heading retained"
+    },
+    {
+      "path": "project/DELVERS_CLEANUP_MANIFEST.md",
+      "old_anchor": "fifteenth-implementation-checkpoint--governor-hall-and-dungeon-guild-academy",
+      "disposition": "Existing native heading retained"
+    },
+    {
+      "path": "project/DELVERS_CLEANUP_MANIFEST.md",
+      "old_anchor": "sixteenth-implementation-checkpoint--southwestern-well-and-temple-of-pelor",
+      "disposition": "Existing native heading retained"
+    },
+    {
+      "path": "project/DELVERS_CLEANUP_MANIFEST.md",
+      "old_anchor": "seventeenth-implementation-checkpoint--farm-cave-and-consolidated-farmtower",
+      "disposition": "Existing native heading retained"
+    },
+    {
+      "path": "project/DELVERS_CLEANUP_MANIFEST.md",
+      "old_anchor": "eighteenth-implementation-checkpoint--gemholm-and-the-kuo-toa-village",
+      "disposition": "Existing native heading retained"
+    },
+    {
+      "path": "project/DELVERS_CLEANUP_MANIFEST.md",
+      "old_anchor": "nineteenth-implementation-checkpoint--submerged-ruins-and-grick-sinkhole",
+      "disposition": "Existing native heading retained"
+    },
+    {
+      "path": "project/DELVERS_CLEANUP_MANIFEST.md",
+      "old_anchor": "twentieth-implementation-checkpoint--puzzle-chambers-and-forest-correction",
+      "disposition": "Existing native heading retained"
+    },
+    {
+      "path": "project/DELVERS_CLEANUP_MANIFEST.md",
+      "old_anchor": "twenty-first-implementation-checkpoint--catacombs-and-black-basilica",
+      "disposition": "Existing native heading retained"
+    },
+    {
+      "path": "project/DELVERS_CLEANUP_MANIFEST.md",
+      "old_anchor": "twenty-second-implementation-checkpoint--deep-winds-spa-and-dawnless-dunes",
+      "disposition": "Existing native heading retained"
+    },
+    {
+      "path": "project/DELVERS_CLEANUP_MANIFEST.md",
+      "old_anchor": "twenty-third-implementation-checkpoint--chath-peak-and-snake-island",
+      "disposition": "Existing native heading retained"
+    },
+    {
+      "path": "project/DELVERS_CLEANUP_MANIFEST.md",
+      "old_anchor": "twenty-fourth-implementation-checkpoint--hooper-estate-and-minotaur-crypt",
+      "disposition": "Existing native heading retained"
+    },
+    {
+      "path": "project/DELVERS_CLEANUP_MANIFEST.md",
+      "old_anchor": "twenty-fifth-implementation-checkpoint--place-dispositions-and-public-reckoning",
+      "disposition": "Existing native heading retained"
+    },
+    {
+      "path": "project/DELVERS_CLEANUP_MANIFEST.md",
+      "old_anchor": "twenty-sixth-implementation-checkpoint--glepo-ma-and-skoogie",
+      "disposition": "Existing native heading retained"
+    },
+    {
+      "path": "project/DELVERS_CLEANUP_MANIFEST.md",
+      "old_anchor": "twenty-seventh-implementation-checkpoint--marsh-and-the-great-daufante",
+      "disposition": "Existing native heading retained"
+    },
+    {
+      "path": "project/DELVERS_CLEANUP_MANIFEST.md",
+      "old_anchor": "twenty-eighth-implementation-checkpoint--destroying-angel-and-goggles-granny",
+      "disposition": "Existing native heading retained"
+    },
+    {
+      "path": "project/DELVERS_CLEANUP_MANIFEST.md",
+      "old_anchor": "twenty-ninth-implementation-checkpoint--barclay-and-radiant-lance",
+      "disposition": "Existing native heading retained"
+    },
+    {
+      "path": "project/DELVERS_CLEANUP_MANIFEST.md",
+      "old_anchor": "thirtieth-implementation-checkpoint--veggie-sticks-and-chad-brad",
+      "disposition": "Existing native heading retained"
+    },
+    {
+      "path": "project/DELVERS_CLEANUP_MANIFEST.md",
+      "old_anchor": "thirty-first-implementation-checkpoint--darmah-and-dumbledwark",
+      "disposition": "Existing native heading retained"
+    },
+    {
+      "path": "project/DELVERS_CLEANUP_MANIFEST.md",
+      "old_anchor": "thirty-second-implementation-checkpoint--shrugs-and-shaolin-nym",
+      "disposition": "Existing native heading retained"
+    },
+    {
+      "path": "project/DELVERS_CLEANUP_MANIFEST.md",
+      "old_anchor": "thirty-third-implementation-checkpoint--chuck-abnaz-and-ambermoor",
+      "disposition": "Existing native heading retained"
+    },
+    {
+      "path": "project/DELVERS_CLEANUP_MANIFEST.md",
+      "old_anchor": "thirty-fourth-implementation-checkpoint--masked-mage-and-character-inventory",
+      "disposition": "Existing native heading retained"
+    },
+    {
+      "path": "project/DELVERS_CLEANUP_MANIFEST.md",
+      "old_anchor": "thirty-fifth-implementation-checkpoint--khalazar",
+      "disposition": "Existing native heading retained"
+    },
+    {
+      "path": "project/DELVERS_CLEANUP_MANIFEST.md",
+      "old_anchor": "thirty-sixth-implementation-checkpoint--character-coverage-audit",
+      "disposition": "Existing native heading retained"
+    },
+    {
+      "path": "project/DELVERS_CLEANUP_MANIFEST.md",
+      "old_anchor": "thirty-seventh-implementation-checkpoint--red-crystal-and-sensory-amulet",
+      "disposition": "Existing native heading retained"
+    },
+    {
+      "path": "project/DELVERS_CLEANUP_MANIFEST.md",
+      "old_anchor": "thirty-eighth-implementation-checkpoint--organ-urns-and-dried-heart-jar",
+      "disposition": "Existing native heading retained"
+    },
+    {
+      "path": "project/DELVERS_CLEANUP_MANIFEST.md",
+      "old_anchor": "thirty-ninth-implementation-checkpoint--hereditary-drone",
+      "disposition": "Existing native heading retained"
+    },
+    {
+      "path": "project/DELVERS_CLEANUP_MANIFEST.md",
+      "old_anchor": "fortieth-implementation-checkpoint--stolen-tome-and-deck-of-many-things",
+      "disposition": "Existing native heading retained"
+    },
+    {
+      "path": "project/DELVERS_CLEANUP_MANIFEST.md",
+      "old_anchor": "forty-first-implementation-checkpoint--lorans-radiant-armour-and-transforming-sword",
+      "disposition": "Existing native heading retained"
+    },
+    {
+      "path": "project/DELVERS_CLEANUP_MANIFEST.md",
+      "old_anchor": "forty-second-implementation-checkpoint--devotees-censer-and-friendship-ribbon",
+      "disposition": "Existing native heading retained"
+    },
+    {
+      "path": "project/DELVERS_CLEANUP_MANIFEST.md",
+      "old_anchor": "forty-third-implementation-checkpoint--chances-lantern-context-and-drift-globe",
+      "disposition": "Existing native heading retained"
+    },
+    {
+      "path": "project/DELVERS_CLEANUP_MANIFEST.md",
+      "old_anchor": "forty-fourth-implementation-checkpoint--soul-knife-hilt-and-dragon-slayers-longsword",
+      "disposition": "Existing native heading retained"
+    },
+    {
+      "path": "project/DELVERS_CLEANUP_MANIFEST.md",
+      "old_anchor": "forty-fifth-implementation-checkpoint--bag-of-hammer-holding-and-ring-of-protection",
+      "disposition": "Existing native heading retained"
+    },
+    {
+      "path": "project/DELVERS_CLEANUP_MANIFEST.md",
+      "old_anchor": "forty-sixth-implementation-checkpoint--goat-of-travail-and-horn-of-blasting",
+      "disposition": "Existing native heading retained"
+    },
+    {
+      "path": "project/DELVERS_CLEANUP_MANIFEST.md",
+      "old_anchor": "forty-seventh-implementation-checkpoint--wand-of-secrets-and-geared-disc",
+      "disposition": "Existing native heading retained"
+    },
+    {
+      "path": "project/DELVERS_CLEANUP_MANIFEST.md",
+      "old_anchor": "forty-eighth-implementation-checkpoint--bounded-artifact-audit",
+      "disposition": "Existing native heading retained"
+    },
+    {
+      "path": "project/DELVERS_CLEANUP_MANIFEST.md",
+      "old_anchor": "forty-ninth-implementation-checkpoint--bounded-provenance-reconciliation",
+      "disposition": "Existing native heading retained"
+    },
+    {
+      "path": "project/DELVERS_CLEANUP_MANIFEST.md",
+      "old_anchor": "fiftieth-implementation-checkpoint--creaturefaction-inventory",
+      "disposition": "Existing native heading retained"
+    },
+    {
+      "path": "project/DELVERS_CLEANUP_MANIFEST.md",
+      "old_anchor": "fifty-first-implementation-checkpoint--reasoning-collectives-and-finale-index-routing",
+      "disposition": "Existing native heading retained"
+    },
+    {
+      "path": "project/DELVERS_CLEANUP_MANIFEST.md",
+      "old_anchor": "fifty-second-implementation-checkpoint--gricks-and-hook-horrors",
+      "disposition": "Existing native heading retained"
+    }
+  ],
+  "additional_blocks": [
+    {
+      "path": "delvers/world/creatures/flameskull.md",
+      "old_blocks": "Appearance, guild warnings, patrol/fire encounters, mirror explanation, final destruction, holy-water supply balance, two garnets and uncertain reflection",
+      "target": "Existing sections retained; supply balance and regeneration limits in lore note; Enzo and keep linked; ending note extended with report horizon"
+    },
+    {
+      "path": "delvers/world/creatures/noble-hollow-roper.md",
+      "old_blocks": "Rock body/eye/jaws/tendrils, brood emergence/collapse, grappling/bite, releases/eye strike, ally combat, opening strike/self-destruction, survivors/cultist/rescues and feared lake beast distinction",
+      "target": "Introduction and Mother of the piercers retain traits/outcome; notes retain mechanics, allies, rescues and cautions; Current status extends contextual horizon without resurrecting roper"
+    }
+  ],
+  "critical_boundaries": [
+    "Flameskull form account remains distinct from canonical Enzo biography",
+    "Immortality and divided-mind explanation remains testimony",
+    "Holy-water supply balance is historical, not a final inventory",
+    "Skull destruction does not prove mirror consciousness ended",
+    "Observed piercer production belongs to this individual",
+    "Cultist swallowed without separate death confirmation",
+    "Later ropers are not the dead Noble Hollow specimen",
+    "No complete piercer eradication or cavern restoration inferred"
+  ],
+  "review": "Full old/new creature pages, canonical Enzo biography and Noble Hollow source notes; alias search across 37 dossiers with selected complete source paragraphs. No new audio/original ASR, maps, sheets, rulebook, remote URL or rendered-site review."
+}

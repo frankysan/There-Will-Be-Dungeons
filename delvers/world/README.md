@@ -109,6 +109,10 @@ A [creature/faction inventory](../../reports/DELVERS_CREATURE_FACTION_INVENTORY_
 
 All 27 current place-directory paths now have bounded editorial dispositions: 25 place/institution accounts, one historical event study and one compatibility route. The [place audit](../../reports/DELVERS_PLACE_AUDIT_2026-10-26.md) and [disposition register](../../project/DELVERS_PLACE_DISPOSITIONS.json) distinguish direct site observations from later reports and outcomes. This does not certify complete factual coverage or finish the remaining world domains.
 
+The [grick/hook-horror checkpoint](../../reports/DELVERS_GRICKS_HOOK_HORRORS_2026-10-27.md) now integrates later grick survivors, the bank egg and hatchling, wild adult encounters and Scroungy's eventual farm work. Individual behavior remains distinct from species-wide rules.
+
+The [form/source-note checkpoint](../../reports/DELVERS_FORM_POLISH_2026-10-27.md) keeps Enzo's biography distinct from the flameskull, removes an obsolete closing supply count and separates the dead Noble Hollow roper from later ropers and surviving piercers.
+
 ## Subject directory
 
 ### People
