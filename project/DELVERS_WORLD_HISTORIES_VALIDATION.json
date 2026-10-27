@@ -1,0 +1,65 @@
+{
+  "date": "2026-10-27",
+  "scope": "WORLD histories/context presentation coverage, not full factual certification",
+  "local_file_and_fragment_links": 1821,
+  "maintained_inbound_links": 61,
+  "former_headings_preserved": 117,
+  "exact_original_hashes": 6,
+  "reading_copy_target_equivalence": 6,
+  "protected_hashes": 388,
+  "registry_checks": [
+    {
+      "registry": "DELVERS_CHARACTER_DISPOSITIONS",
+      "rows": 36,
+      "matching_page_hashes": 36
+    },
+    {
+      "registry": "DELVERS_CHARACTER_INVENTORY",
+      "rows": 36,
+      "matching_page_hashes": 36
+    },
+    {
+      "registry": "DELVERS_PLACE_DISPOSITIONS",
+      "rows": 27,
+      "matching_page_hashes": 27
+    },
+    {
+      "registry": "DELVERS_ARTIFACT_DISPOSITIONS",
+      "rows": 20,
+      "matching_page_hashes": 20
+    }
+  ],
+  "unchanged_creature_directory_rows": 6,
+  "unchanged_institutional_units": 10,
+  "new_institutional_world_syntheses": 4,
+  "measurements": {
+    "before_main_words": 3508,
+    "after_main_words": 3327,
+    "batch_reconciled_sections": 8,
+    "cumulative_reconciled_sections": 24,
+    "unchanged_section_bodies": 16,
+    "pending_historical_sections": 0,
+    "source_notes": 49,
+    "former_source_notes_retained": 41,
+    "preserved_prior_orphans": [
+      "status"
+    ]
+  },
+  "errors": [],
+  "limits": [
+    "All current section presentations covered; sixteen earlier bodies unchanged; final campaign integration still pending",
+    "Selected dossier and canonical-context review; no new audio/original ASR, maps, sheets, bonus exports, rulebook, remote URL or rendered-site review"
+  ],
+  "status": "passed",
+  "markdownlint": {
+    "maintained_files": 6,
+    "violations": 0
+  },
+  "whitespace": {
+    "scoped_git_diff_check": "passed",
+    "direct_new_file_check": "passed",
+    "checked_new_files": 11
+  },
+  "manual_readback": "All eight rewritten/new WORLD sections and their source notes; sixteen other bodies compared mechanically. Main-prose apparatus checked across the full page; selected canonical/dossier context and bounded inventory scope reviewed.",
+  "working_tree_context": "Initially clean main at a0a347b2e33ca9a4e4c561d259b472798d0b9d45; concurrent Wastes index-report addition appeared and was left untouched; no commit or push by this task."
+}

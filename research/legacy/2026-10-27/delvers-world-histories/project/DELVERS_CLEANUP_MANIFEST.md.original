@@ -1,0 +1,1042 @@
+# Delvers — cleanup migration manifest
+
+**Baseline:** 2026-10-26, before the first implementation slice. **Status:** Every in-scope file structurally inventoried; claim-level horizon, identity and final-state acceptance remains pending unless recorded separately. [Plan](DELVERS_CAMPAIGN_CLEANUP_PLAN.md) · [Detailed baseline](DELVERS_CLEANUP_BASELINE.json).
+
+## Method and boundaries
+
+The JSON records file hashes, headings, per-section prose counts, detected source IDs, candidate arcs, inbound Markdown links/anchors, footnote diagnostics, dependencies and proposed treatments. Episode IDs found in text are discovery leads, not verified horizons or last observations. Counts exclude headings, tables, fenced examples, complete footnote blocks, code and navigation-only lines. Inbound links cover maintained Markdown; external consumers and archives need separate checks before any move.
+
+Each row has a proposed disposition; structural inventory does not certify factual accuracy or completed migration. Open evidence questions stay in the [campaign queue](../delvers/REVIEW_QUEUE.md) and [ledger](../delvers/world/CONSISTENCY_LEDGER.md). No aliases or identity merges are authorized by filename similarity.
+
+## Page inventory
+
+| Page | Purpose | Prose words | Priority | Structural findings / intended treatment |
+| --- | --- | ---: | --- | --- |
+| [delvers/DOCUMENTATION_PLAN.md](../delvers/DOCUMENTATION_PLAN.md) | editorial-plan | 1044 | P1 | No selected structural flag; replace obsolete active instructions; preserve dated history |
+| [delvers/narrative/FIRST_JOBS.md](../delvers/narrative/FIRST_JOBS.md) | historical-study | 2628 | P2 | No selected structural flag; retain detailed historical study; compare unique scenes with primary arc |
+| [delvers/narrative/README.md](../delvers/narrative/README.md) | navigation | 981 | P1 | No selected structural flag; reconcile current route and descriptions; retain canonical targets |
+| [delvers/narrative/SEASON_ONE_ARC.md](../delvers/narrative/SEASON_ONE_ARC.md) | arc-narrative | 1849 | P1 | No selected structural flag; outline then consolidate with preservation and scene coverage |
+| [delvers/narrative/SEASON_THREE.md](../delvers/narrative/SEASON_THREE.md) | arc-narrative | 13724 | P1 | unreferenced footnote; outline then consolidate with preservation and scene coverage |
+| [delvers/narrative/SEASON_TWO.md](../delvers/narrative/SEASON_TWO.md) | arc-narrative | 9270 | P1 | No selected structural flag; outline then consolidate with preservation and scene coverage |
+| [delvers/narrative/SKULL_KEEP.md](../delvers/narrative/SKULL_KEEP.md) | historical-study | 1069 | P2 | No selected structural flag; retain detailed historical study; compare unique scenes with primary arc |
+| [delvers/narrative/THE_RISE_TO_BRONZE.md](../delvers/narrative/THE_RISE_TO_BRONZE.md) | historical-study | 1240 | P2 | No selected structural flag; retain detailed historical study; compare unique scenes with primary arc |
+| [delvers/narrative/THE_WELLS_OF_ATOMER.md](../delvers/narrative/THE_WELLS_OF_ATOMER.md) | historical-study | 3168 | P2 | No selected structural flag; retain detailed historical study; compare unique scenes with primary arc |
+| [delvers/README.md](../delvers/README.md) | navigation | 1631 | P1 | No selected structural flag; reconcile current route and descriptions; retain canonical targets |
+| [delvers/REVIEW_QUEUE.md](../delvers/REVIEW_QUEUE.md) | review-register | 9096 | P1 | No selected structural flag; keep open listening issues and closed intake history distinct |
+| [delvers/SOURCE_INVENTORY.md](../delvers/SOURCE_INVENTORY.md) | source-register | 750 | P2 | No selected structural flag; retain exact identities and source limits; check coverage statements |
+| [delvers/world/characters/alexandre-vanderbuck-withers.md](../delvers/world/characters/alexandre-vanderbuck-withers.md) | character | 945 | P2 | episode IDs in body; emphatic action bookkeeping; unreferenced footnote; subject-focused chronological rewrite; verify last direct observation |
+| [delvers/world/characters/ambermoor.md](../delvers/world/characters/ambermoor.md) | character | 733 | P2 | episode IDs in body; research language in body; final status heading needs review; subject-focused chronological rewrite; verify last direct observation |
+| [delvers/world/characters/anthela-spiros.md](../delvers/world/characters/anthela-spiros.md) | character | 1390 | P2 | episode IDs in body; research language in body; emphatic action bookkeeping; final status heading needs review; subject-focused chronological rewrite; verify last direct observation |
+| [delvers/world/characters/barclay-vandergeist.md](../delvers/world/characters/barclay-vandergeist.md) | character | 739 | P2 | episode IDs in body; research language in body; final status heading needs review; subject-focused chronological rewrite; verify last direct observation |
+| [delvers/world/characters/broadside.md](../delvers/world/characters/broadside.md) | character | 469 | P2 | unreferenced footnote; subject-focused chronological rewrite; verify last direct observation |
+| [delvers/world/characters/buck-broscale-wildfire.md](../delvers/world/characters/buck-broscale-wildfire.md) | character | 887 | P2 | episode IDs in body; emphatic action bookkeeping; final status heading needs review; subject-focused chronological rewrite; verify last direct observation |
+| [delvers/world/characters/carrie-underworld.md](../delvers/world/characters/carrie-underworld.md) | character | 1196 | P2 | episode IDs in body; unreferenced footnote; final status heading needs review; subject-focused chronological rewrite; verify last direct observation |
+| [delvers/world/characters/cassius.md](../delvers/world/characters/cassius.md) | character | 1927 | P2 | episode IDs in body; emphatic action bookkeeping; unreferenced footnote; final status heading needs review; subject-focused chronological rewrite; verify last direct observation |
+| [delvers/world/characters/chad-brad.md](../delvers/world/characters/chad-brad.md) | character | 589 | P2 | episode IDs in body; research language in body; emphatic action bookkeeping; final status heading needs review; subject-focused chronological rewrite; verify last direct observation |
+| [delvers/world/characters/cheet.md](../delvers/world/characters/cheet.md) | character | 373 | P2 | research language in body; subject-focused chronological rewrite; verify last direct observation |
+| [delvers/world/characters/chuck-abnaz.md](../delvers/world/characters/chuck-abnaz.md) | character | 552 | P2 | episode IDs in body; emphatic action bookkeeping; unreferenced footnote; subject-focused chronological rewrite; verify last direct observation |
+| [delvers/world/characters/darmah-edstream.md](../delvers/world/characters/darmah-edstream.md) | character | 501 | P2 | episode IDs in body; research language in body; emphatic action bookkeeping; final status heading needs review; subject-focused chronological rewrite; verify last direct observation |
+| [delvers/world/characters/destroying-angel.md](../delvers/world/characters/destroying-angel.md) | character | 480 | P2 | episode IDs in body; final status heading needs review; subject-focused chronological rewrite; verify last direct observation |
+| [delvers/world/characters/dumbledwark-of-raisinbunch.md](../delvers/world/characters/dumbledwark-of-raisinbunch.md) | character | 911 | P2 | episode IDs in body; research language in body; emphatic action bookkeeping; final status heading needs review; subject-focused chronological rewrite; verify last direct observation |
+| [delvers/world/characters/enzo-vanderbuck-withers.md](../delvers/world/characters/enzo-vanderbuck-withers.md) | character | 462 | P2 | No selected structural flag; subject-focused chronological rewrite; verify last direct observation |
+| [delvers/world/characters/evelyn-grinkeeper.md](../delvers/world/characters/evelyn-grinkeeper.md) | character | 7275 | P1 | episode IDs in body; research language in body; emphatic action bookkeeping; unreferenced footnote; final status heading needs review; subject-focused chronological rewrite; verify last direct observation |
+| [delvers/world/characters/gentleman-cavalier-traveler.md](../delvers/world/characters/gentleman-cavalier-traveler.md) | character | 572 | P2 | episode IDs in body; emphatic action bookkeeping; final status heading needs review; subject-focused chronological rewrite; verify last direct observation |
+| [delvers/world/characters/gleepo-ma.md](../delvers/world/characters/gleepo-ma.md) | character | 431 | P2 | episode IDs in body; research language in body; final status heading needs review; subject-focused chronological rewrite; verify last direct observation |
+| [delvers/world/characters/goggles-granny.md](../delvers/world/characters/goggles-granny.md) | character | 561 | P2 | episode IDs in body; research language in body; final status heading needs review; subject-focused chronological rewrite; verify last direct observation |
+| [delvers/world/characters/khalazar.md](../delvers/world/characters/khalazar.md) | character | 2232 | P1 | episode IDs in body; research language in body; emphatic action bookkeeping; final status heading needs review; subject-focused chronological rewrite; verify last direct observation |
+| [delvers/world/characters/koh-spiros.md](../delvers/world/characters/koh-spiros.md) | character | 7981 | P1 | episode IDs in body; research language in body; emphatic action bookkeeping; unreferenced footnote; final status heading needs review; subject-focused chronological rewrite; verify last direct observation |
+| [delvers/world/characters/krandal-splenderbelt.md](../delvers/world/characters/krandal-splenderbelt.md) | character | 7821 | P1 | episode IDs in body; research language in body; emphatic action bookkeeping; unreferenced footnote; final status heading needs review; subject-focused chronological rewrite; verify last direct observation |
+| [delvers/world/characters/marek-gideon.md](../delvers/world/characters/marek-gideon.md) | character | 475 | P2 | No selected structural flag; subject-focused chronological rewrite; verify last direct observation |
+| [delvers/world/characters/margaret-dupayton.md](../delvers/world/characters/margaret-dupayton.md) | character | 632 | P2 | episode IDs in body; emphatic action bookkeeping; unreferenced footnote; final status heading needs review; subject-focused chronological rewrite; verify last direct observation |
+| [delvers/world/characters/marsh.md](../delvers/world/characters/marsh.md) | character | 714 | P2 | episode IDs in body; research language in body; final status heading needs review; subject-focused chronological rewrite; verify last direct observation |
+| [delvers/world/characters/masked-mage.md](../delvers/world/characters/masked-mage.md) | character | 255 | P2 | No selected structural flag; subject-focused chronological rewrite; verify last direct observation |
+| [delvers/world/characters/nopa-ropa.md](../delvers/world/characters/nopa-ropa.md) | character | 542 | P2 | episode IDs in body; emphatic action bookkeeping; final status heading needs review; subject-focused chronological rewrite; verify last direct observation |
+| [delvers/world/characters/penelope-spiros.md](../delvers/world/characters/penelope-spiros.md) | character | 418 | P2 | episode IDs in body; research language in body; final status heading needs review; subject-focused chronological rewrite; verify last direct observation |
+| [delvers/world/characters/princess-hissia.md](../delvers/world/characters/princess-hissia.md) | character | 804 | P2 | episode IDs in body; emphatic action bookkeeping; final status heading needs review; subject-focused chronological rewrite; verify last direct observation |
+| [delvers/world/characters/radiant-lance.md](../delvers/world/characters/radiant-lance.md) | character | 393 | P2 | episode IDs in body; research language in body; emphatic action bookkeeping; final status heading needs review; subject-focused chronological rewrite; verify last direct observation |
+| [delvers/world/characters/shaolin-nym.md](../delvers/world/characters/shaolin-nym.md) | character | 321 | P2 | episode IDs in body; research language in body; emphatic action bookkeeping; final status heading needs review; subject-focused chronological rewrite; verify last direct observation |
+| [delvers/world/characters/shrugs-manaspoon.md](../delvers/world/characters/shrugs-manaspoon.md) | character | 535 | P2 | episode IDs in body; research language in body; subject-focused chronological rewrite; verify last direct observation |
+| [delvers/world/characters/skoogie.md](../delvers/world/characters/skoogie.md) | character | 398 | P2 | episode IDs in body; research language in body; final status heading needs review; subject-focused chronological rewrite; verify last direct observation |
+| [delvers/world/characters/the-great-daufante.md](../delvers/world/characters/the-great-daufante.md) | character | 502 | P2 | final status heading needs review; subject-focused chronological rewrite; verify last direct observation |
+| [delvers/world/characters/veggie-sticks.md](../delvers/world/characters/veggie-sticks.md) | character | 652 | P2 | episode IDs in body; emphatic action bookkeeping; subject-focused chronological rewrite; verify last direct observation |
+| [delvers/world/CHARACTERS.md](../delvers/world/CHARACTERS.md) | navigation | 426 | P1 | No selected structural flag; reconcile current route and descriptions; retain canonical targets |
+| [delvers/world/CHRONOLOGY.md](../delvers/world/CHRONOLOGY.md) | chronology | 2117 | P2 | No selected structural flag; retain source-keyed form; reconcile sequence and knowledge |
+| [delvers/world/CONSISTENCY_LEDGER.md](../delvers/world/CONSISTENCY_LEDGER.md) | ledger | 1327 | P2 | No selected structural flag; retain issue register; distinguish resolved outcomes and open verification |
+| [delvers/world/creatures/all-rat-cranium-congregation.md](../delvers/world/creatures/all-rat-cranium-congregation.md) | creature | 313 | P2 | episode IDs in body; research language in body; emphatic action bookkeeping; final status heading needs review; subject-focused chronological rewrite; verify last direct observation |
+| [delvers/world/creatures/flameskull.md](../delvers/world/creatures/flameskull.md) | creature | 360 | P2 | No selected structural flag; subject-focused chronological rewrite; verify last direct observation |
+| [delvers/world/creatures/gricks.md](../delvers/world/creatures/gricks.md) | creature | 358 | P2 | episode IDs in body; emphatic action bookkeeping; subject-focused chronological rewrite; verify last direct observation |
+| [delvers/world/creatures/hook-horrors.md](../delvers/world/creatures/hook-horrors.md) | creature | 407 | P2 | episode IDs in body; emphatic action bookkeeping; subject-focused chronological rewrite; verify last direct observation |
+| [delvers/world/creatures/noble-hollow-roper.md](../delvers/world/creatures/noble-hollow-roper.md) | creature | 365 | P2 | No selected structural flag; subject-focused chronological rewrite; verify last direct observation |
+| [delvers/world/creatures/skeletal-bat-balcony.md](../delvers/world/creatures/skeletal-bat-balcony.md) | creature | 372 | P2 | episode IDs in body; emphatic action bookkeeping; final status heading needs review; subject-focused chronological rewrite; verify last direct observation |
+| [delvers/world/CREATURES_AND_MONSTERS.md](../delvers/world/CREATURES_AND_MONSTERS.md) | navigation | 21 | P1 | No selected structural flag; reconcile current route and descriptions; retain canonical targets |
+| [delvers/world/items/bag-of-hammer-holding.md](../delvers/world/items/bag-of-hammer-holding.md) | item | 225 | P2 | No selected structural flag; subject-focused chronological rewrite; verify last direct observation |
+| [delvers/world/items/chance-lantern.md](../delvers/world/items/chance-lantern.md) | item | 292 | P2 | episode IDs in body; final status heading needs review; subject-focused chronological rewrite; verify last direct observation |
+| [delvers/world/items/deck-of-many-things.md](../delvers/world/items/deck-of-many-things.md) | item | 249 | P2 | No selected structural flag; subject-focused chronological rewrite; verify last direct observation |
+| [delvers/world/items/devotees-censer.md](../delvers/world/items/devotees-censer.md) | item | 272 | P2 | episode IDs in body; research language in body; emphatic action bookkeeping; final status heading needs review; subject-focused chronological rewrite; verify last direct observation |
+| [delvers/world/items/dragon-slayer-longsword.md](../delvers/world/items/dragon-slayer-longsword.md) | item | 485 | P2 | episode IDs in body; final status heading needs review; subject-focused chronological rewrite; verify last direct observation |
+| [delvers/world/items/dried-heart-jar.md](../delvers/world/items/dried-heart-jar.md) | item | 409 | P2 | episode IDs in body; research language in body; final status heading needs review; subject-focused chronological rewrite; verify last direct observation |
+| [delvers/world/items/drift-globe.md](../delvers/world/items/drift-globe.md) | item | 268 | P2 | No selected structural flag; subject-focused chronological rewrite; verify last direct observation |
+| [delvers/world/items/friendship-ribbon.md](../delvers/world/items/friendship-ribbon.md) | item | 481 | P2 | episode IDs in body; emphatic action bookkeeping; final status heading needs review; subject-focused chronological rewrite; verify last direct observation |
+| [delvers/world/items/goat-of-travail.md](../delvers/world/items/goat-of-travail.md) | item | 349 | P2 | episode IDs in body; unreferenced footnote; subject-focused chronological rewrite; verify last direct observation |
+| [delvers/world/items/hereditary-drone.md](../delvers/world/items/hereditary-drone.md) | item | 481 | P1 | episode IDs in body; emphatic action bookkeeping; final status heading needs review; subject-focused chronological rewrite; verify last direct observation |
+| [delvers/world/items/horn-of-blasting.md](../delvers/world/items/horn-of-blasting.md) | item | 300 | P2 | No selected structural flag; subject-focused chronological rewrite; verify last direct observation |
+| [delvers/world/items/khalazar-red-crystal.md](../delvers/world/items/khalazar-red-crystal.md) | item | 358 | P2 | episode IDs in body; emphatic action bookkeeping; final status heading needs review; subject-focused chronological rewrite; verify last direct observation |
+| [delvers/world/items/khalazar-sensory-amulet.md](../delvers/world/items/khalazar-sensory-amulet.md) | item | 398 | P2 | episode IDs in body; research language in body; emphatic action bookkeeping; unreferenced footnote; final status heading needs review; subject-focused chronological rewrite; verify last direct observation |
+| [delvers/world/items/loran-radiant-armour.md](../delvers/world/items/loran-radiant-armour.md) | item | 286 | P2 | episode IDs in body; research language in body; emphatic action bookkeeping; final status heading needs review; subject-focused chronological rewrite; verify last direct observation |
+| [delvers/world/items/ring-of-protection.md](../delvers/world/items/ring-of-protection.md) | item | 262 | P2 | No selected structural flag; subject-focused chronological rewrite; verify last direct observation |
+| [delvers/world/items/runic-sword-hilt.md](../delvers/world/items/runic-sword-hilt.md) | item | 785 | P2 | episode IDs in body; emphatic action bookkeeping; unreferenced footnote; subject-focused chronological rewrite; verify last direct observation |
+| [delvers/world/items/stolen-warlocks-tome.md](../delvers/world/items/stolen-warlocks-tome.md) | item | 227 | P2 | episode IDs in body; research language in body; final status heading needs review; subject-focused chronological rewrite; verify last direct observation |
+| [delvers/world/items/three-urns-triangle-gate.md](../delvers/world/items/three-urns-triangle-gate.md) | item | 1111 | P1 | episode IDs in body; emphatic action bookkeeping; final status heading needs review; subject-focused chronological rewrite; verify last direct observation |
+| [delvers/world/items/vestal-diamond-heart-handle.md](../delvers/world/items/vestal-diamond-heart-handle.md) | item | 282 | P2 | episode IDs in body; final status heading needs review; subject-focused chronological rewrite; verify last direct observation |
+| [delvers/world/items/wand-of-secrets-and-geared-disc.md](../delvers/world/items/wand-of-secrets-and-geared-disc.md) | item | 537 | P2 | No selected structural flag; subject-focused chronological rewrite; verify last direct observation |
+| [delvers/world/places/black-basilica.md](../delvers/world/places/black-basilica.md) | place | 678 | P2 | episode IDs in body; emphatic action bookkeeping; final status heading needs review; subject-focused chronological rewrite; verify last direct observation |
+| [delvers/world/places/black-slime-key-chamber.md](../delvers/world/places/black-slime-key-chamber.md) | place | 767 | P2 | episode IDs in body; research language in body; emphatic action bookkeeping; final status heading needs review; subject-focused chronological rewrite; verify last direct observation |
+| [delvers/world/places/broscale-manor.md](../delvers/world/places/broscale-manor.md) | place | 504 | P2 | episode IDs in body; research language in body; final status heading needs review; subject-focused chronological rewrite; verify last direct observation |
+| [delvers/world/places/chath-peak.md](../delvers/world/places/chath-peak.md) | place | 721 | P2 | episode IDs in body; research language in body; final status heading needs review; subject-focused chronological rewrite; verify last direct observation |
+| [delvers/world/places/dawnless-dunes-pyramid.md](../delvers/world/places/dawnless-dunes-pyramid.md) | place | 1081 | P2 | episode IDs in body; research language in body; emphatic action bookkeeping; final status heading needs review; subject-focused chronological rewrite; verify last direct observation |
+| [delvers/world/places/deep-winds-spa.md](../delvers/world/places/deep-winds-spa.md) | place | 1184 | P2 | episode IDs in body; research language in body; emphatic action bookkeeping; final status heading needs review; subject-focused chronological rewrite; verify last direct observation |
+| [delvers/world/places/delvers-guild.md](../delvers/world/places/delvers-guild.md) | place | 2515 | P1 | episode IDs in body; research language in body; emphatic action bookkeeping; final status heading needs review; subject-focused chronological rewrite; verify last direct observation |
+| [delvers/world/places/dungeon-guild-academy.md](../delvers/world/places/dungeon-guild-academy.md) | place | 502 | P2 | episode IDs in body; research language in body; subject-focused chronological rewrite; verify last direct observation |
+| [delvers/world/places/farm-cave.md](../delvers/world/places/farm-cave.md) | place | 227 | P2 | No selected structural flag; subject-focused chronological rewrite; verify last direct observation |
+| [delvers/world/places/gemholm.md](../delvers/world/places/gemholm.md) | place | 1112 | P2 | episode IDs in body; research language in body; final status heading needs review; subject-focused chronological rewrite; verify last direct observation |
+| [delvers/world/places/governors-hall.md](../delvers/world/places/governors-hall.md) | place | 593 | P2 | episode IDs in body; research language in body; emphatic action bookkeeping; final status heading needs review; subject-focused chronological rewrite; verify last direct observation |
+| [delvers/world/places/grick-sinkhole.md](../delvers/world/places/grick-sinkhole.md) | place | 538 | P2 | No selected structural flag; subject-focused chronological rewrite; verify last direct observation |
+| [delvers/world/places/guild-public-reckoning-s3e10.md](../delvers/world/places/guild-public-reckoning-s3e10.md) | place | 467 | P2 | episode IDs in body; research language in body; emphatic action bookkeeping; final status heading needs review; review event classification and guild overlap; preserve slug until link plan exists |
+| [delvers/world/places/hooper-estate.md](../delvers/world/places/hooper-estate.md) | place | 438 | P2 | No selected structural flag; subject-focused chronological rewrite; verify last direct observation |
+| [delvers/world/places/kuo-toa-lakeshore-village.md](../delvers/world/places/kuo-toa-lakeshore-village.md) | place | 720 | P2 | episode IDs in body; research language in body; unreferenced footnote; subject-focused chronological rewrite; verify last direct observation |
+| [delvers/world/places/minotaur-mesa-bone-crypt.md](../delvers/world/places/minotaur-mesa-bone-crypt.md) | place | 399 | P2 | episode IDs in body; research language in body; emphatic action bookkeeping; final status heading needs review; subject-focused chronological rewrite; verify last direct observation |
+| [delvers/world/places/noble-hollow.md](../delvers/world/places/noble-hollow.md) | place | 452 | P2 | No selected structural flag; subject-focused chronological rewrite; verify last direct observation |
+| [delvers/world/places/potato-grove.md](../delvers/world/places/potato-grove.md) | place | 1721 | P2 | episode IDs in body; emphatic action bookkeeping; unreferenced footnote; final status heading needs review; subject-focused chronological rewrite; verify last direct observation |
+| [delvers/world/places/right-stair-grick-urn-complex.md](../delvers/world/places/right-stair-grick-urn-complex.md) | place | 619 | P2 | episode IDs in body; emphatic action bookkeeping; final status heading needs review; subject-focused chronological rewrite; verify last direct observation |
+| [delvers/world/places/skull-keep.md](../delvers/world/places/skull-keep.md) | place | 602 | P2 | No selected structural flag; subject-focused chronological rewrite; verify last direct observation |
+| [delvers/world/places/snake-island.md](../delvers/world/places/snake-island.md) | place | 657 | P2 | episode IDs in body; subject-focused chronological rewrite; verify last direct observation |
+| [delvers/world/places/southwestern-town-well.md](../delvers/world/places/southwestern-town-well.md) | place | 491 | P2 | No selected structural flag; subject-focused chronological rewrite; verify last direct observation |
+| [delvers/world/places/splenderbelt-farm-delvers-tower.md](../delvers/world/places/splenderbelt-farm-delvers-tower.md) | place | 489 | P2 | episode IDs in body; research language in body; emphatic action bookkeeping; final status heading needs review; subject-focused chronological rewrite; verify last direct observation |
+| [delvers/world/places/submerged-lake-ruins.md](../delvers/world/places/submerged-lake-ruins.md) | place | 717 | P2 | unreferenced footnote; subject-focused chronological rewrite; verify last direct observation |
+| [delvers/world/places/temple-of-pelor.md](../delvers/world/places/temple-of-pelor.md) | place | 798 | P2 | episode IDs in body; unreferenced footnote; final status heading needs review; subject-focused chronological rewrite; verify last direct observation |
+| [delvers/world/places/triangle-gate-catacombs.md](../delvers/world/places/triangle-gate-catacombs.md) | place | 1283 | P2 | episode IDs in body; research language in body; emphatic action bookkeeping; final status heading needs review; subject-focused chronological rewrite; verify last direct observation |
+| [delvers/world/places/withers-estate.md](../delvers/world/places/withers-estate.md) | place | 1110 | P2 | episode IDs in body; emphatic action bookkeeping; unreferenced footnote; final status heading needs review; subject-focused chronological rewrite; verify last direct observation |
+| [delvers/world/PLACES.md](../delvers/world/PLACES.md) | navigation | 272 | P1 | No selected structural flag; reconcile current route and descriptions; retain canonical targets |
+| [delvers/world/README.md](../delvers/world/README.md) | navigation | 735 | P1 | No selected structural flag; reconcile current route and descriptions; retain canonical targets |
+| [delvers/world/WORLD.md](../delvers/world/WORLD.md) | setting | 3392 | P2 | episode IDs in body; unreferenced footnote; subject-first setting synthesis with attributed accounts |
+
+## Acceptance tracking
+
+All baseline rows start **inventoried**. Record subsequent archives, changes, validation and acceptance in the pilot checkpoint below and dated follow-up reports; do not overwrite the pre-edit measurements. Pages without a completed checkpoint remain pending.
+
+### First implementation checkpoint
+
+**2026-10-26: first implementation slice structurally validated.** [Chapter maps and coverage review](DELVERS_NARRATIVE_CHAPTER_MAPS.md) · [Pre-edit originals and reading copies](../research/legacy/2026-10-26/delvers-campaign-cleanup/README.md) · [Validation evidence](DELVERS_CLEANUP_VALIDATION.json).
+
+| Files / work | State and result |
+| --- | --- |
+| All 107 baseline files | **Inventoried**: structural findings, measurements and proposed dispositions recorded; claim-level horizons and final states remain pending |
+| Campaign README, documentation plan, review queue, source inventory | **Validated**: current completion framing reconciled; historical intake checkpoints and source limits retained |
+| Narrative portal | **Validated**: three primary arcs in reading order; four earlier studies explicitly historical, unchanged at existing paths |
+| World portal | **Validated**: complete directory of existing subject paths; stale episode-status descriptions replaced by navigation |
+| Shared documentation architecture | **Validated**: obsolete active Delvers intake paragraph replaced; unrelated guidance retained |
+| Season One narrative | **Validated pilot**: archived, rewritten and checked against dossier evidence maps and all four older studies; original chapter anchors retained |
+| Season Two and Three narratives | **Outlined**: proposed maps cover their archive IDs, with scene-level comparison still required; prose unchanged |
+| World subject pages | **Inventoried only**: no biography, place, item, creature or setting rewrite performed |
+
+The archived originals cover all eight pre-existing files rewritten or reframed in this slice, with exact-byte SHA-256 verification and rebased reading copies. Baseline JSON measurements remain frozen. No source SRT/MP3 was edited, no new listening or independent ASR review performed, and no commit or push made.
+
+### Season One reading weight
+
+Counts use the baseline Unicode-word method, excluding headings, complete footnotes and navigation. The introduction and unnumbered ending are outside the chapter range.
+
+| Chapter | Before | Pilot |
+| --- | ---: | ---: |
+| 1 | 132 | 375 |
+| 2 | 152 | 398 |
+| 3 | 184 | 396 |
+| 4 | 161 | 394 |
+| 5 | 167 | 412 |
+| 6 | 198 | 407 |
+| 7 | 333 | 418 |
+| 8 | 238 | 392 |
+| Main prose including introduction/ending | 1,849 | 3,443 |
+
+All eight pilot chapters fall within 350–450 words without adding unsupported scenes. Added space restores the grick escape/second entry, personal motives, reciprocal rescues and institutional context. This supports the planning reference for this arc; the denser later arcs still need their own compression review.
+
+### Verification and remaining scope
+
+Focused Markdownlint and scoped whitespace checks pass for the changed maintained Markdown. The validation JSON records relative-file/fragment checks, inbound fragment checks, pilot footnote completeness and archive hashes. Checks exclude fenced examples and do not certify remote URLs, factual accuracy or a rendered-site preview. Archived reading copies retain historical text and are not modernized to satisfy current prose rules.
+
+A manual pilot readback checked the introduction, all eight chapters, ending and source notes against the reviewed dossiers/studies. Sensitive boundaries retained include promised versus delivered deed, offered versus accepted Snake Island job, senior guild knowledge versus party knowledge, testimony versus fact, both rescued First Sons, living prisoners and the swallowed cultist.
+
+The 19 baseline pages flagged for unreferenced notes and other structural findings remain review leads, not automatic fixes or proof of missing facts. Later subject batches must establish actual horizons and last observations, compare possible overlap/aliases and verify final states. The next bounded narrative pass is Season Two's full coverage checklist and consolidation; the world pilot set remains Koh, the guild, the urns and one short place/creature article.
+
+### Second implementation checkpoint — Season Two
+
+**2026-10-26: Season Two consolidated and structurally validated.** [Coverage and acceptance report](../reports/DELVERS_SEASON_TWO_CONSOLIDATION_2026-10-26.md) · [Preserved originals](../research/legacy/2026-10-26/delvers-season-two-consolidation/README.md) · [Validation](DELVERS_SEASON_TWO_VALIDATION.json).
+
+The second arc now has eight connected chapters in the existing file and under the existing title. All 21 former substantive sections have explicit dispositions and legacy compatibility anchors. The 9,270-word pre-edit body becomes 3,435 words including its opening. Chapters 1–6 contain 382–415 words, and chapters 7–8 contain 502/504; their fuller treatment preserves the successful rescue, changed personal lives and unresolved catastrophe. No strict length ceiling displaced supported events.
+
+Six pre-edit working copies are archived with exact original hashes and rebased reading copies. The new report accounts for condensed tactics, purchases, reference details and provenance, which remain reachable in the old narrative and dossiers. Corrected presentation includes deed timing, the larva observation and the order of Maynard's report. Source disputes, the jade count, red-shard custody and retrospective dragon victory remain qualified rather than silently resolved.
+
+Current dispositions supersede the first checkpoint's earlier outlined status for Season Two:
+
+| Work | Current state |
+| --- | --- |
+| Season One | Validated pilot retained unchanged |
+| Season Two | Validated consolidation; 12 dossier scene maps/cutoffs and all 21 former narrative sections reviewed |
+| Season Three | Outline only; full coverage checklist and consolidation next |
+| World subjects | Structural inventory only; no subject rewrite in this slice |
+| Campaign/narrative portals and chapter maps | Updated to reflect the two completed consolidations |
+
+The 215 protected-file hashes cover world Markdown, episode dossiers, Season One/Three, earlier detailed studies and Delvers SRTs. This task edits no source media and performs no audio or new ASR review. No commit or push was performed by this task. Whole-campaign factual acceptance and a rendered-site preview are not claimed.
+
+### Third implementation checkpoint — Season Three
+
+**2026-10-26: Season Three consolidated and structurally validated.** [Coverage report](../reports/DELVERS_SEASON_THREE_CONSOLIDATION_2026-10-26.md) · [Paragraph ledger](DELVERS_SEASON_THREE_COVERAGE.json) · [Preserved originals](../research/legacy/2026-10-26/delvers-season-three-consolidation/README.md) · [Validation](DELVERS_SEASON_THREE_VALIDATION.json).
+
+All 95 former prose paragraphs have recorded dispositions. The 13,724-word body becomes 3,802 words, including a 51-word introduction and 147-word one-year epilogue. Nine main chapters contain 367, 382, 397, 381, 387, 382, 413, 415 and 480 words. Gate entry and preparation now precede a separate finale, retaining both evacuations, the joint final blow, reciprocal healing and the minotaurs' chosen rest. The original title/path and horizon-note key remain; the formerly unreferenced horizon note is now attached to the opening.
+
+Six current working copies were preserved with original hashes and rebased reading copies. The 215 protected-file hashes cover world Markdown, all Delvers episode dossiers, Season One/Two, earlier studies and Delvers SRTs. No world article, earlier narrative, episode dossier or source media was rewritten in this slice. No audio/new ASR review, original handout inspection, naming resolution or issue closure is claimed. No commit or push was performed by this task.
+
+Current dispositions supersede the earlier outlined status for Season Three:
+
+| Work | Current state |
+| --- | --- |
+| All three primary narratives | Preserved, consolidated and structurally validated in bounded checkpoints |
+| Season Three finale/epilogue | Actual defeat, rescues and completed year retained; invitation remains future and letter unopened |
+| World subjects | Structural inventory only; domain-specific pilots next |
+| Claim-level source verification | Existing dossier limits remain; unresolved listening/source-identity questions stay open |
+
+Proceed with Koh, the guild, the three urns and one short place/creature pilot before broader world rollout. Functional chronology, ledger and specialist registers retain their evidence functions. Full world acceptance and a rendered-site preview remain pending.
+
+### Fourth implementation checkpoint — World pilots
+
+**2026-10-26: Four world pilots migrated and structurally validated.** [Subject/coverage report](../reports/DELVERS_WORLD_PILOTS_2026-10-26.md) · [Section ledger](DELVERS_WORLD_PILOT_COVERAGE.json) · [Pre-edit archive](../research/legacy/2026-10-26/delvers-world-pilots/README.md) · [Validation](DELVERS_WORLD_PILOT_VALIDATION.json).
+
+| Subject | Current disposition | Main prose before → after |
+| --- | --- | ---: |
+| Koh | Character-focused Introduction, three chronological arcs, abilities/limits and Current status; separate commentary in notes | 7,981 → 965 |
+| Delvers guild | Institutional history under existing place path; practical leadership versus legal uncertainty distinguished | 2,515 → 799 |
+| Three urns | Collective artifact account; observed/claimed contents, custody, actual uses and untracked empty vessels | 1,111 → 468 |
+| Skeletal bat | Individual creature appearance, pursuit and solo defeat; no species-wide or rider identification | 372 → 199 |
+
+Koh's substantive arcs contain 220, 256 and 270 words. All four ordinary subject pages end in Current status and retain source horizons in notes. All 73 former heading/subsection anchors map to a new section or source note; exact historical recaps and tables remain archived. No slugs, canonical identities or source files were changed.
+
+Eight original working copies and rebased reading copies are preserved. One inherited September bonus link in Koh's reading copy is transparently corrected in the archive manifest; its exact original bytes remain unchanged. A total of 213 protected-file hashes covers other world Markdown, all episode dossiers, all narrative files, Delvers SRTs and the frozen initial baseline. No new audio, SRT interpretation, private-source review, naming decision or source-question closure occurred. No commit or push was performed by this task.
+
+The character/institution/artifact/creature pilots meet their bounded domain contracts; this supersedes their earlier inventoried-only status. Other subject pages remain pending. Next migrate Evelyn and Krandal, then connected family/mentor and guild subjects in small batches. Resolve event/place and reasoning-creature taxonomy only after examining each subject and inbound-link consequences. Full world acceptance and a rendered-site preview are not claimed.
+
+### Fifth implementation checkpoint — Evelyn and Krandal
+
+**2026-10-26: Two core biographies migrated and structurally validated.** [Character report](../reports/DELVERS_EVELYN_KRANDAL_2026-10-26.md) · [Section ledger](DELVERS_EVELYN_KRANDAL_COVERAGE.json) · [Pre-edit archive](../research/legacy/2026-10-26/delvers-evelyn-krandal/README.md) · [Validation](DELVERS_EVELYN_KRANDAL_VALIDATION.json).
+
+| Subject | Current disposition | Main prose before → after |
+| --- | --- | ---: |
+| Evelyn | Introduction, three character arcs, abilities/bonds and Current status; private knowledge, inconsistent mercy and final invitation distinguished | 7,275 → 938 |
+| Krandal | Introduction, three character arcs, abilities/care and Current status; doubt, neglected obligations, actual repair and surviving cleric/farmer retained | 7,821 → 966 |
+
+The substantive arcs contain 238/256/249 words for Evelyn and 245/260/262 for Krandal. All 84 old headings have recorded dispositions and preserved targets. Six exact working-copy originals and rebased reading copies are archived. Two inherited September bonus links are corrected only in reading copies and new notes, with explicit manifest exceptions. All 215 protected-file hashes match, covering other world pages, all episode dossiers, all narrative files, Delvers SRTs and the frozen baseline.
+
+This completes the core-PC subject batch within the report's evidence limits, superseding these two pages' inventoried-only status. No source media, earlier narrative, other subject page or historical baseline was changed. No new listening/ASR interpretation, private-source review, identity resolution or central issue closure occurred. No commit or push was performed by this task.
+
+Next examine Margaret and the Traveler, then Nopa Ropa and Hissia, before continuing connected guild and domain batches. Other world subjects and final campaign integration remain pending; this checkpoint does not certify the whole directory.
+
+### Sixth implementation checkpoint — Margaret and the Traveler
+
+**2026-10-26: Two supporting biographies migrated and structurally validated.** [Character report](../reports/DELVERS_MARGARET_TRAVELER_2026-10-26.md) · [Coverage ledger](DELVERS_MARGARET_TRAVELER_COVERAGE.json) · [Pre-edit archive](../research/legacy/2026-10-26/delvers-margaret-traveler/README.md) · [Validation](DELVERS_MARGARET_TRAVELER_VALIDATION.json).
+
+| Subject | Current disposition | Main prose before → after |
+| --- | --- | ---: |
+| Margaret | Chronological invention, cover, friendship and trusted correspondence; last direct role distinguished from later requests and unknown epilogue | 632 → 490 |
+| Traveler | Introduction, Ball relationship/defense, actual departure, private curse lead and final unresolved invitation | 572 → 428 |
+
+All 12 former headings remain reachable, with two unheaded identity/illustration blocks also accounted for. Six exact working-copy originals and equivalent rebased reading copies are archived; no reading-copy target corrections were needed. The 218 protected hashes cover 215 campaign files and three pre-existing changed paths outside this batch. The living manifest's prior working-copy changes were preserved before this append.
+
+The earlier Margaret Ball and Traveler departure cutoffs are superseded by later dossier evidence, while their own last appearances remain distinct from the campaign's ending. No Margaret-specific finale, confirmed Wildfire sighting, fully heard confession, independently identified pamphlet distributor, freed Traveler, performed wedding or new identity is inferred. Relevant dossier mentions were searched through all 37 campaign entries, with selected passages read; no new ASR/audio or original visual-source review occurred. No source issue was closed, and no commit or push was performed by this task.
+
+Next examine Nopa Ropa and Hissia as a linked relationship/rescue batch, followed by connected guild subjects. Remaining ordinary world pages and final campaign integration are pending; chronology and evidence registers keep their functions.
+
+### Seventh implementation checkpoint — Nopa Ropa and Hissia
+
+**2026-10-26: Two linked search/rescue biographies migrated and structurally validated.** [Character report](../reports/DELVERS_NOPA_HISSIA_2026-10-26.md) · [Coverage ledger](DELVERS_NOPA_HISSIA_COVERAGE.json) · [Pre-edit archive](../research/legacy/2026-10-26/delvers-nopa-hissia/README.md) · [Validation](DELVERS_NOPA_HISSIA_VALIDATION.json).
+
+| Subject | Current disposition | Main prose before → after |
+| --- | --- | ---: |
+| Nopa Ropa | Introduction, third-arc service/pledge/rescue and Current status; actual conduct distinguished from rat projections and plans | 542 → 365 |
+| Hissia | Introduction, Ball relationship claims, third-arc captivity/reunion and Current status; missing island history remains unresolved | 804 → 406 |
+
+All nine former headings remain reachable, and six unheaded identity/history/visual blocks have dispositions. Six exact working-copy originals and equivalent reading copies are preserved without target corrections. The 221 protected hashes cover 215 campaign files and six prior batch artifacts. Existing control-file changes are preserved in the pre-edit archive; concurrent Wastes work is outside this batch.
+
+Nopa's living reunion and Hissia's identification, nonlethal recovery, evacuation, awakening and kiss are completed events. Earlier uncertain sightings and reported captivity remain historically scoped. Snake Island consent/marriage, gift origins, royal succession, the cause of forbidden love and later residence remain unresolved. No snakefolk reinforcements, Nopa-forged censer, actual farm foreclosure or rat-generated worker revolt is inferred.
+
+Relevant mentions were searched across all 37 campaign dossiers and selected source paragraphs read; no fresh ASR/audio, sheets or original visual-source review occurred. No source issue was closed, no dossier/media was changed, and no commit or push was performed by this task.
+
+Next examine Cassius and Carrie as connected guild subjects, then continue remaining domain batches. Full-world acceptance and final campaign integration remain pending.
+
+### Eighth implementation checkpoint — Cassius and Carrie
+
+**2026-10-26: Two guild biographies migrated and structurally validated.** [Character report](../reports/DELVERS_CASSIUS_CARRIE_2026-10-26.md) · [Coverage ledger](DELVERS_CASSIUS_CARRIE_COVERAGE.json) · [Pre-edit archive](../research/legacy/2026-10-26/delvers-cassius-carrie/README.md) · [Validation](DELVERS_CASSIUS_CARRIE_VALIDATION.json).
+
+| Subject | Current disposition | Main prose before → after |
+| --- | --- | ---: |
+| Cassius | Introduction, three character arcs and Current status; civic purpose, private commission, confinement and practical restoration distinguished | 1,927 → 648 |
+| Carrie | Introduction, three character arcs and Current status; curiosity, experiment, consent, actual detector and discreet support retained | 1,198 → 581 |
+
+All 24 former headings retain their targets and recorded dispositions. Six exact working-copy originals and equivalent reading copies are archived, without target corrections. All 224 protected hashes match: 215 campaign files plus nine prior character-batch artifacts. Existing control changes are preserved, and concurrent Wastes/root work remains outside this batch.
+
+Cassius's latest physical scene is his S3E10 release/desk return, followed by the S3E11 rescue assignment; no formal acquittal or personal year-later outcome is supplied. Carrie's last direct interaction is S3E06 in her lab, while later sources refer to her detector. Neither receives an invented finale appearance. The S2E00 Academy cutaway retains its first-arc chronology. The shard's unshown return, interpretations of history, unverified genealogy, experimental limits and disputed accusations stay bounded in notes.
+
+All 37 dossier files were searched for relevant mentions, with selected full paragraphs reviewed; no new SRT/audio, sheets or original visual-source inspection occurred. No evidence issue was closed, no source dossier/media changed, and no commit or push was performed by this task.
+
+Next examine Wildfire and Alexandre Withers as linked patron/investigator subjects, then continue connected guild and remaining domain batches. Full-world acceptance and final campaign integration remain pending.
+
+### Ninth implementation checkpoint — Wildfire and Alexandre Withers
+
+**2026-10-26: Two linked patron/investigator biographies migrated and structurally validated.** [Character report](../reports/DELVERS_WILDFIRE_WITHERS_2026-10-26.md) · [Coverage ledger](DELVERS_WILDFIRE_WITHERS_COVERAGE.json) · [Pre-edit archive](../research/legacy/2026-10-26/delvers-wildfire-withers/README.md) · [Validation](DELVERS_WILDFIRE_WITHERS_VALIDATION.json).
+
+| Subject | Current disposition | Main prose before → after |
+| --- | --- | ---: |
+| Wildfire | Introduction, three character arcs and Current status; brother, mentorship, assessment, patron defense, confrontation and actual survival distinguished | 887 → 529 |
+| Alexandre Withers | Introduction, three character arcs and Current status; property claims, guarded knowledge, reported losses, incriminating response and rescue retained | 945 → 510 |
+
+All 18 old heading targets remain reachable, with dispositions recorded. Withers's existing Current status heading now describes the latest rescue outcome rather than the obsolete burglary-only cutoff. Six exact working-copy originals and equivalent reading copies are archived without target corrections. All 227 protected hashes match: 215 campaign files and 12 prior character-batch artifacts. Existing control changes are preserved; concurrent Wastes/root work remains outside scope.
+
+Both are found alive/apparently compelled and evacuated unconscious/stable through the first completed circle. No individual awakening, reunion, confession, judgment or year-later outcome is supplied. The reported theft-investigation hire and Withers's later Broscales/doors statement remain distinct. Wildfire's species is not changed by a generic captive grouping. Earlier missing/fall cutoffs remain historical, and the staged fire chronology is retained.
+
+Relevant mentions were searched across all 37 dossiers and selected complete source paragraphs read; no new ASR/audio, sheets or original visual-source review occurred. No evidence issue was closed, no dossier/media changed, and no commit or push was performed by this task.
+
+Next examine Anthela and Penelope as Koh's linked family subjects, then continue connected family, guild and domain batches. Full-world acceptance and final campaign integration remain pending.
+
+### Tenth implementation checkpoint — Anathala and Penelope Spiros
+
+**2026-10-26: Two family biographies migrated and structurally validated.** [Family report](../reports/DELVERS_SPIROS_FAMILY_2026-10-26.md) · [Coverage ledger](DELVERS_SPIROS_FAMILY_COVERAGE.json) · [Pre-edit archive](../research/legacy/2026-10-26/delvers-spiros-family/README.md) · [Validation](DELVERS_SPIROS_FAMILY_VALIDATION.json).
+
+| Subject | Current disposition | Main prose before → after |
+| --- | --- | ---: |
+| Anathala/Anthela | Introduction, three chronological family arcs and Current status; coerced belief, recognition, bodily recovery, consent and continued fear distinguished | 1,392 → 551 |
+| Penelope | Introduction, three brief family arcs and Current status; stories, mother's return, separate disclosure, dreams and epilogue retained | 418 → 323 |
+
+All 13 former heading targets remain reachable, and four additional identity/provenance blocks have dispositions. Six exact working-copy originals and equivalent reading copies are archived without target corrections. All 232 protected hashes match: 215 campaign files, 15 prior batch artifacts and two bonus-provenance documents. Earlier archives and the frozen baseline remain unchanged.
+
+The S3E01 naming direction is retained without renaming the canonical file/title or historic citations. Brief recognition differs from actual physical awakening; mother's knowledge differs from the daughter's later disclosure. Actual household events remain separate from rat projections, and the final family image does not relocate the household. Source-specific introduction age six supplements the old blanket age caution, without an inferred later age. Performer-approved hooves remain attributed design evidence, while discarded half-elf-Koh ideas and unused kidnapping routes are not made history or immunity.
+
+Relevant mentions were searched across all 37 dossiers and selected complete paragraphs plus existing retrospective passages read. No new ASR/audio, sheets, original art or full campaign rereading occurred. No evidence issue was closed, no dossier/media changed, and no commit or push was performed by this task.
+
+Next examine Broadside and Cheet as linked guild subjects, then continue guild and domain batches. Full-world acceptance and final campaign integration remain pending.
+
+### Eleventh implementation checkpoint — Broadside and Cheet
+
+**2026-10-26: Two linked guild biographies migrated and structurally validated.** [Character report](../reports/DELVERS_BROADSIDE_CHEET_2026-10-26.md) · [Coverage ledger](DELVERS_BROADSIDE_CHEET_COVERAGE.json) · [Pre-edit archive](../research/legacy/2026-10-26/delvers-broadside-cheet/README.md) · [Validation](DELVERS_BROADSIDE_CHEET_VALIDATION.json).
+
+| Subject | Current disposition | Main prose before → after |
+| --- | --- | ---: |
+| Broadside | Introduction, three relevant arc sections and Current status; mercy, trust, continued work and sound-related fear retained | 469 → 424 |
+| Cheet | Introduction, first-arc choices/judgment, brief reported reassignment and Current status; curiosity and influence remain bounded | 373 → 324 |
+
+All nine former heading targets remain reachable, including native current-status headings now updated beyond the old first-arc cutoffs. Six exact working-copy originals and equivalent reading copies are archived without target corrections. All 235 protected hashes match: 215 campaign files, 18 prior batch artifacts and two April bonus-provenance documents. Existing working-copy control/family changes and concurrent Wastes work are preserved.
+
+Broadside's last direct scene is S3E01 helping move furniture after hiding from the sound; Cheet's direct custody ends in S1E12, followed by Broadside's S2E06 report of Academy clerical duty and later discipline references. Neither receives an invented finale outcome. Sword return is retrospective with no fixed transfer time; physical mercy is not an independently proved psychic cure. Truth-circle testimony, guild findings, curiosity and actual free will are not collapsed into one certainty.
+
+The first arcs carry most personal change; later brief observations/reports are not padded. Broadside's 202-word first arc was reviewed for recap and retained for its distinct mercy, redemption and trust developments. Relevant mentions were searched across all 37 dossiers, with selected complete paragraphs, existing ledger entries and the April bonus passage read. No fresh ASR/audio, sheets or original art review occurred. No evidence issue was closed, no dossier/media changed, and no commit or push was performed by this task.
+
+Next examine Marek Gideon and Noble Hollow as a linked character/place batch, then continue connected guild and domain batches. Full-world acceptance and final campaign integration remain pending.
+
+### Twelfth implementation checkpoint — Marek Gideon and Noble Hollow
+
+**2026-10-26: One character and one place migrated and structurally validated.** [Subject report](../reports/DELVERS_MAREK_NOBLE_HOLLOW_2026-10-26.md) · [Coverage ledger](DELVERS_MAREK_NOBLE_HOLLOW_COVERAGE.json) · [Pre-edit archive](../research/legacy/2026-10-26/delvers-marek-noble-hollow/README.md) · [Validation](DELVERS_MAREK_NOBLE_HOLLOW_VALIDATION.json).
+
+| Subject | Current disposition | Main prose before → after |
+| --- | --- | ---: |
+| Marek | Introduction, first-arc conduct/testimony and Current status; actual defeat and proposed trial remain distinct | 475 → 307 |
+| Noble Hollow | Introduction, three landscape/use phases and Current status; collapse, actual crypt access and fertile land retained | 452 → 424 |
+
+All ten former heading targets remain reachable. Six exact working-copy originals and equivalent reading copies are archived without target corrections. All 238 protected hashes match: 215 campaign files, 21 previous batch artifacts and two November provenance documents. Earlier archives, the frozen baseline and already modified prior artifacts are preserved; concurrent outside work remains out of scope.
+
+Marek's later report/removal references provide no completed trial, sentence or new personal scene. Noble Hollow's old collapse is actually used as a route to the bone crypt in S3E10, and its cursed land actually regains fertility after Khalazar's defeat. That renewal does not establish a restored clearing/tree, sealed cavern, destroyed piercers or title to the entire tract. The place article explains these changes without duplicating the full encounter.
+
+Relevant mentions were searched across all 37 campaign dossiers; selected complete source paragraphs, three related place articles and existing retrospective context were read. No new ASR/audio, original maps/handouts, sheets or art were reviewed. No evidence issue was closed, no dossier/media changed, and no commit or push was performed by this task.
+
+Next examine Enzo Withers and Skull Keep as a linked character/place batch, then continue connected subject and domain work. Full-world acceptance and final campaign integration remain pending.
+
+### Thirteenth implementation checkpoint — Enzo Withers and Skull Keep
+
+**2026-10-26: One character and one place migrated and structurally validated.** [Subject report](../reports/DELVERS_ENZO_SKULL_KEEP_2026-10-26.md) · [Coverage ledger](DELVERS_ENZO_SKULL_KEEP_COVERAGE.json) · [Pre-edit archive](../research/legacy/2026-10-26/delvers-enzo-skull-keep/README.md) · [Validation](DELVERS_ENZO_SKULL_KEEP_VALIDATION.json).
+
+| Subject | Current disposition | Main prose before → after |
+| --- | --- | ---: |
+| Enzo | Introduction, direct encounter/release wish, later-record context and Current status; claims and observed reflection remain distinct | 462 → 406 |
+| Skull Keep | Introduction, household/condition changes, later investigation, geography synthesis and Current status | 602 → 427 |
+
+All 12 former heading targets remain reachable. Six exact working-copy originals and equivalent reading copies are archived without target corrections. All 241 protected hashes match: 215 campaign files, 24 previous batch artifacts and two April provenance documents. Existing Marek/Noble Hollow working-copy control changes and earlier archives are preserved; concurrent outside work remains out of scope.
+
+Both last direct observations remain in S1E06. Later portrait/plaque/tunneling testimony and physical arrival in the named desert do not supply another Enzo meeting or resolve his consciousness. The lake vision and rat-generated tower scene are not physical revisits. The observed upper room is distinct from the unvisited basement/alchemy lab; lake drainage does not merge the two lakes or survey every passage. No title resolution, rebuilt estate or complete family tree is invented.
+
+Relevant mentions were searched across all 37 campaign dossiers; selected full source paragraphs, the existing flameskull article and April bonus passages were read. No new ASR/audio, original maps/handouts, sheets or art were reviewed. No evidence issue was closed, no dossier/media changed, and no commit or push was performed by this task.
+
+Next examine Withers Estate and Broscale Manor as linked place accounts, then continue connected subject/domain work. Full-world acceptance and final campaign integration remain pending.
+
+### Fourteenth implementation checkpoint — Withers Estate and Broscale Manor
+
+**2026-10-26: Two place articles migrated and structurally validated.** [Place report](../reports/DELVERS_ESTATES_2026-10-26.md) · [Coverage ledger](DELVERS_ESTATES_COVERAGE.json) · [Pre-edit archive](../research/legacy/2026-10-26/delvers-withers-broscale-estates/README.md) · [Validation](DELVERS_ESTATES_VALIDATION.json).
+
+| Place | Current disposition | Main prose before → after |
+| --- | --- | ---: |
+| Withers Estate | Introduction, physical/service changes, burglary/fire, later district context and Current status | 1,110 → 412 |
+| Broscale Manor | Introduction, household/assessment use, qualified later family-estate context and Current status | 504 → 339 |
+
+All 12 former heading targets remain reachable, with one additional unheaded metadata block accounted for. Six exact working-copy originals and equivalent reading copies are archived without target corrections. All 242 protected hashes match: 215 campaign files and 27 previous batch artifacts. Earlier archives, existing control changes and active outside work are preserved.
+
+Withers's restraint room remains unexplained, three service guardians survive their encounters and Slate is not fought, 23/21 jade counts remain unresolved, and the fire suggestion/observation/later explanation retain their sequence. Later district control does not establish a repaired mansion or changed title. Broscale Manor's named dinner interior is distinguished from the S3E10 Wildfire-estate wording: an owner/household connection is recorded without new address/room proof. Cassius's actual release does not establish a trial, legal acquittal or the absent Wildfire's personal order.
+
+Relevant terms were searched across all 37 campaign dossiers; selected full source paragraphs, linked biographies and existing ledger/queue entries were read. No new ASR/audio, original maps/handouts, sheets or art were reviewed. No evidence issue was closed, no location was canonically merged, no dossier/media changed, and no commit or push was performed by this task.
+
+Next examine the governor's hall and Dungeon Guild Academy as public/institutional places, then continue connected subject/domain work. Full-world acceptance and final campaign integration remain pending.
+
+### Fifteenth implementation checkpoint — governor hall and Dungeon Guild Academy
+
+**2026-10-26: Two public/institutional place articles migrated and locally validated.** [Place report](../reports/DELVERS_HALL_ACADEMY_2026-10-26.md) · [Coverage ledger](DELVERS_HALL_ACADEMY_COVERAGE.json) · [Pre-edit archive](../research/legacy/2026-10-26/delvers-hall-academy/README.md) · [Validation](DELVERS_HALL_ACADEMY_VALIDATION.json).
+
+| Place | Current disposition | Main prose before → after |
+| --- | --- | ---: |
+| Governor's hall | Introduction, civic reception, separate breaches, relief work, dungeon entrance and Current status | 593 → 485 |
+| Dungeon Guild Academy | Introduction, theatre/petition, disciplinary evidence, offsite assessment, attributed administration and Current status | 502 → 477 |
+
+All eight former heading targets remain reachable, with two unheaded hall metadata/illustration blocks accounted for. Six exact working-copy originals and equivalent reading copies are archived without target corrections. All 245 protected hashes match: 215 campaign files and 30 previous batch artifacts. Earlier archives, existing estate/control changes and active outside work are preserved.
+
+The hall's detailed interior view belongs to S2E12; damage persists in S3E01 and its main breach is directly crossed as a dungeon entrance in S3E04. The earlier wedding mansion is not assigned a proved room-level identity with the Ball. Main and auction holes stay separate, the table barrier does not end the Drone, and finale curse-breaking does not document repairs, auction proceeds or an audited rescue count.
+
+The Academy's last direct campus scene is the first-arc S2E00 petition. Later Cheet clerical duty is reported; the S2E11 assessment is near Atomer's governor mansion, with final ordinal ranking still pending. Its panel is not equated with the three finance governors. Zoltar's profit acknowledgment remains attributed; Cassius's physical release and return to his desk do not establish judicial acquittal, a campus overthrow or a new board.
+
+Relevant terms were searched across all 37 campaign dossiers; selected complete source paragraphs and linked guild/Cassius context were read. No new ASR/audio, original map/handout or art review occurred. No evidence issue was closed, location canonically merged or dossier/media changed. No commit or push was performed by this task.
+
+Next examine the southwestern town well and Temple of Pelor as connected surface/underground places, then continue connected subject/domain work. Full-world acceptance and final campaign integration remain pending.
+
+### Sixteenth implementation checkpoint — southwestern well and Temple of Pelor
+
+**2026-10-26: Two connected place articles migrated and locally validated.** [Place report](../reports/DELVERS_WELL_PELOR_2026-10-26.md) · [Coverage ledger](DELVERS_WELL_PELOR_COVERAGE.json) · [Pre-edit archive](../research/legacy/2026-10-26/delvers-well-pelor/README.md) · [Validation](DELVERS_WELL_PELOR_VALIDATION.json).
+
+| Place | Current disposition | Main prose before → after |
+| --- | --- | ---: |
+| Southwestern well | Neighborhood water source, side breach, sealed cave access and Current status | 491 → 304 |
+| Temple of Pelor | Sanctuary/service, separate openings, security/staffing, ward, post-Ball relief and Current status | 798 → 546 |
+
+All thirteen former heading targets remain reachable. Six exact working-copy originals and equivalent reading copies are archived without target corrections. All 248 protected hashes match: 215 campaign files and 33 previous batch artifacts. Earlier archives and outside work are preserved; the initial working tree was clean.
+
+The well's last specific visit is S1E09, after the S1E08 concrete seal. Water safety and comprehensive cave clearance are not established. The well outside the temple and later Atlas-cedar well reference are not merged with it. The rock eater converses and remains beyond the seal; the neighborhood smith is human, and monster origin is not proved by the rust trail.
+
+The temple's physical Hall of Penance stair remains distinct from its covered altar shaft. Security and financial undertakings do not establish repaired mosaics. Two early sleepers, five later patients, ward capacity, Ball register and seven direct cures remain distinct counts. Maynard's recovery report is attributed, while post-Ball psychic-assisted Remove Curse and later shallow-compulsion recoveries extend the old page's horizon through S3E02. No complete regional cure, universal treatment rule, final staffing restoration or new altar answer is claimed. Finale survivors receive care at the Guild.
+
+Both full profiles were read, relevant terms searched across all 37 dossiers and selected complete paragraphs reviewed with relevant visible ledger rows. No fresh ASR/audio, original map/handout, sheet or art review occurred. No evidence issue was closed, location canonically merged or source dossier/media changed. No commit or push was performed by this task.
+
+Next examine Splenderbelt Farm and the Delvers' tower alongside the earlier farm cave, keeping separate locations and evidence horizons distinct, then continue connected subject/domain work. Full-world acceptance and final integration remain pending.
+
+### Seventeenth implementation checkpoint — farm cave and consolidated farm/tower
+
+**2026-10-26: Two place accounts migrated and the former epilogue page retained as a reading route.** [Farm/tower report](../reports/DELVERS_FARM_TOWER_2026-10-26.md) · [Coverage ledger](DELVERS_FARM_TOWER_COVERAGE.json) · [Pre-edit archive](../research/legacy/2026-10-26/delvers-farm-tower/README.md) · [Validation](DELVERS_FARM_TOWER_VALIDATION.json).
+
+| Page | Current disposition | Main prose before → after |
+| --- | --- | ---: |
+| Farm cave | Separate place: natural setting/threats, fissure and plug, Current status | 227 → 195 |
+| Potato Grove | Consolidated river holding: grant, cultivation, workers, barn, food, land recovery and shared home | 1,721 → 586 |
+| Former farm/tower epilogue | Functional reading route, with old title/anchors and access to original | 489 words integrated into the consolidated place/source notes |
+
+All twenty-one former heading targets remain reachable. Seven exact working-copy originals and equivalent reading copies are archived without link corrections. All 254 protected hashes match: 214 campaign files, 36 previous batch artifacts and four bonus provenance documents. Earlier archives, previous well/temple/control changes and concurrent Wastes work are preserved.
+
+The sheep cave's last direct view remains S1E01; its body, badge and unfought pursuer are not merged with other losses or later farms. Potato Grove and the final tower page describe one river holding, now followed through the completed epilogue at the established Potato Grove path. The old finale URL remains useful as a compatibility route rather than a second competing history. No ownership/geography identity with the sheep farm or entire Noble Hollow/crypt is inferred.
+
+Promise and deed delivery, free labor and paid barn, unpaid wages and later payments, market sales and shipment purchase, damaged crops and eventual fertility retain their sequence. The Goodwine proposal is not an accepted investment or land sale. A real mummy attack remains distinct from illusory foreclosure and an unplayed siege. Scroungy becomes tame later; the minotaurs end as bones at the Guild. Creator naming/watcher comments remain retrospective. The invitation and unopened Kingdom letter do not become a wedding or disclosed mission.
+
+All three old pages were read; relevant terms searched across all 37 dossiers; selected complete paragraphs, neighboring place context and bounded May/November bonus passages reviewed. No fresh ASR/audio, original maps/handouts, sheets or art were inspected. No evidence issue was closed, source dossier/media changed or uncertain location canonically merged. No commit or push was performed by this task.
+
+Next examine Gemholm and the kuo-toa lakeshore village as distinct settlements, then continue connected subject/domain work. Full-world acceptance and final campaign integration remain pending.
+
+### Eighteenth implementation checkpoint — Gemholm and the kuo-toa village
+
+**2026-10-26: Two settlement articles migrated and locally validated.** [Settlement report](../reports/DELVERS_LAKE_SETTLEMENTS_2026-10-26.md) · [Coverage ledger](DELVERS_LAKE_SETTLEMENTS_COVERAGE.json) · [Pre-edit archive](../research/legacy/2026-10-26/delvers-lake-settlements/README.md) · [Validation](DELVERS_LAKE_SETTLEMENTS_VALIDATION.json).
+
+| Place | Current disposition | Main prose before → after |
+| --- | --- | ---: |
+| Gemholm | Mining/sandbar infrastructure, damaged community, experimentation, surviving residents and Current status | 1,117 → 489 |
+| Kuo-toa lakeshore village | Fishing/barter community, religious reception, coercion, intact departure, later reported exile and Current status | 720 → 401 |
+
+All thirteen former heading targets remain reachable, with Gemholm's opening metadata accounted for. Six exact originals and equivalent reading copies are archived without link corrections. All 260 protected hashes match: 215 campaign files, 39 prior batch artifacts and six bonus provenance documents. Earlier archives, existing farm/well/control edits and concurrent outside work are preserved.
+
+Gemholm's last direct view remains S2E07; later Ambermoor custody and Mack/Church membership extend resident outcomes without inventing an island clearance, reward, verdict or rebuilding. Journals, survivor testimony and actual lab observations stay distinct. Church's early cure and Koh's extraction do not prove adult reversal; two large slaadi remain missing. Mechanical crabs and living Herman Snips remain separate.
+
+The kuo-toa village remains intact at departure in S1E11. Later banishment is Glepo Ma's report, not a new village visit or proved hearing. Koh's reverence is an interpretation, warning delivery remains unwitnessed, and the conch staff leaves with the mounted collector. Later crank use and diplomacy references do not establish a changed settlement. No shared lake/geography is inferred between the two villages.
+
+Both complete old pages were read; relevant terms searched across all 37 dossiers; selected full paragraphs, linked trader context and June creator passage reviewed. No fresh ASR/audio, original maps/diaries, sheets or art were inspected. No evidence issue was closed, location canonically merged or source dossier/media changed. No commit or push was performed by this task.
+
+Next examine the submerged lake ruins and earlier grick sinkhole, keeping similar architecture separate from proved physical connections, then continue connected subject/domain work. Full-world acceptance and final campaign integration remain pending.
+
+### Nineteenth implementation checkpoint — submerged ruins and grick sinkhole
+
+**2026-10-26: Two early ruin articles migrated and locally validated.** [Early-ruins report](../reports/DELVERS_EARLY_RUINS_2026-10-26.md) · [Coverage ledger](DELVERS_EARLY_RUINS_COVERAGE.json) · [Pre-edit archive](../research/legacy/2026-10-26/delvers-early-ruins/README.md) · [Validation](DELVERS_EARLY_RUINS_VALIDATION.json).
+
+| Place | Current disposition | Main prose before → after |
+| --- | --- | ---: |
+| Submerged lake ruins | Flooded defenses, shrine, lower market, removed objects, unopened gate and Current status | 717 → 382 |
+| Grick sinkhole | Woodland/courtyard, grick occupation, crafted traps, conditional claim and Current status | 538 → 373 |
+
+All eleven former heading targets remain reachable. Six exact originals and equivalent reading copies are archived without link corrections. All 265 protected hashes match: 215 campaign files, 42 previous batch artifacts and eight bonus provenance documents. Earlier archives and outside work are preserved; the initial tree was clean.
+
+The forest site's last direct view is S1E04; four party kills do not include trap-killed bodies or prove full clearance. The tablet remains unrecovered and untranslated beyond partial signs; later creator explanation supplies unused clues, not new player knowledge. The guild claim stays conditional. Later research funding and comparisons supply no direct site inspection or precise physical match.
+
+The lake site's local pits connect deeper passages, but repeated architecture does not merge it with the forest or temple. Its shrine, market and gate are explored only through S1E11. Safe surface return supersedes the earlier underwater cutoff; the gate stays unopened, floating predator unnamed and disc incomplete. Object custody stays distinct. April's larger lake-system drainage and possible pit routes remain creator context without an invented complete map, identical lakes or finale destruction of these sites.
+
+Both complete old pages were read; relevant terms searched across all 37 dossiers; selected complete paragraphs, later architectural comparisons and bounded April passages reviewed. No fresh ASR/audio, original map/handout, sheet or art review occurred. No evidence issue was closed, source dossier/media changed or location canonically merged. No commit or push was performed by this task.
+
+Next examine the right-stair grick/urn complex and black-slime key chamber as distinct underground places, then continue connected subject/domain work. Full-world acceptance and final campaign integration remain pending.
+
+### Twentieth implementation checkpoint — puzzle chambers and forest correction
+
+**2026-10-26: Two puzzle-place articles migrated; the forest entrance's later horizon corrected.** [Chambers/correction report](../reports/DELVERS_PUZZLE_CHAMBERS_2026-10-26.md) · [Coverage ledger](DELVERS_PUZZLE_CHAMBERS_COVERAGE.json) · [Pre-edit archive](../research/legacy/2026-10-26/delvers-linked-puzzle-chambers/README.md) · [Validation](DELVERS_PUZZLE_CHAMBERS_VALIDATION.json).
+
+| Place | Current disposition | Main prose before → after |
+| --- | --- | ---: |
+| Right-stair complex | Camp, paired defenses, golems, wind hall, removed jar and Current status | 619 → 336 |
+| Black-slime key chamber | Separate open approach, light/key mechanism, drained floor, pressure exchange and Current status | 767 → 342 |
+| Forest sinkhole | Retained first visit, added repaired entrance and updated final status | 373 → 427 |
+
+All thirteen former headings and five additional metadata/status blocks are accounted for. Old title anchors survive removal of episode labels. Seven exact originals and equivalent rebased copies are archived, with one explicit correction of the old right-stair page's broken Veggie Sticks link in its reading copy only. All 269 protected hashes match: 214 campaign files, 45 prior batch artifacts and ten bonus provenance documents. Earlier archives, existing early-ruins/control changes and concurrent bonus/Wastes work are preserved.
+
+**Correction:** The nineteenth checkpoint incorrectly ended the forest site's direct horizon at S1E04. S3E09 explicitly backtracks through its historic entrance, with repaired boards/bridges and disabled old poison/spear traps. The page now records that later view and a real used exit route. The earlier report/validation remain historical and are superseded on that factual point; structural validation did not establish complete factual coverage. Named repairers, full clearance, tablet recovery and physical identity with every similar ruin remain unsupported.
+
+The chambers retain their distinct approaches and mechanisms. Both linked golems are destroyed after the psychic kill is revoked; third-jar removal stops wind and at least one grick escapes. Local keys are absorbed, not taken as triangle tokens. Stone/counterweights successfully replace the heart vessel; the boneclaw ambush and mayonnaise/shirt scheme are unplayed. Later urn/gate use updates broader chronology without inventing a chamber return or final destruction of all passages.
+
+Three complete profiles and selected source paragraphs were read, relevant terms searched across all 37 dossiers, and the linked urn account plus bounded November creator passage reviewed. No fresh ASR/audio, original map/handout, sheet or art review occurred. No evidence issue was closed, source dossier/media changed or uncertain site identity canonically merged. No commit or push was performed by this task.
+
+Next examine the triangle-gate catacombs and Black Basilica as distinct connected places, then continue connected subject/domain work. Full-world acceptance and final campaign integration remain pending.
+
+### Twenty-first implementation checkpoint — catacombs and Black Basilica
+
+**2026-10-26: Two connected place accounts migrated and locally validated.** [Catacombs/Basilica report](../reports/DELVERS_CATACOMBS_BASILICA_2026-10-26.md) · [Coverage ledger](DELVERS_CATACOMBS_BASILICA_COVERAGE.json) · [Pre-edit archive](../research/legacy/2026-10-26/delvers-catacombs-basilica/README.md) · [Validation](DELVERS_CATACOMBS_BASILICA_VALIDATION.json).
+
+| Place | Current disposition | Main prose before → after |
+| --- | --- | ---: |
+| Triangle-gate catacombs | Hidden descent, fallen adventurers, rune-niches, occupants, urn threshold, actual opening/closure and Current status | 1,283 → 389 |
+| Black Basilica | Physical hall, projected captivity, collective's collapse, relics, surviving creatures and Current status | 678 → 356 |
+
+All fourteen former headings and five additional metadata/status blocks are accounted for. Six exact originals and equivalent rebased copies are archived without link corrections. All 273 protected hashes match: 215 campaign files, 48 earlier batch artifacts and ten bonus provenance documents. Earlier archives and prior puzzle/forest correction/control work are preserved.
+
+Catacomb states now follow actual chronology rather than accumulated addenda: first jar fits, is retrieved, all three remain carried until the final expedition inserts them, the architect releases them and opens the door, then the door closes behind the party. Its last direct state is closed after entry, not never opened. Shaolin's history remains testimony; the threshold does not perform the organ rite. Finale evacuation by circles does not establish another gate reopening or every tomb's fate.
+
+The Basilica remains a real hall despite fabricated journeys and battlefield overlays. All Rat breaks into ordinary living rats after intact urn removal; no total extermination or living resurrection of Radiant Lance is invented. Physical remains and holy-symbol use remain distinct from unverified history and extra relic powers. One adult hook horror is killed and two retreat. Later urn attribution/use is not a new hall visit or evidence of its destruction.
+
+Both complete profiles were read; relevant terms searched across all 37 dossiers; selected complete primary paragraphs and existing linked urn/finale context reviewed. No fresh ASR/audio, original map/handout, sheet, historical biography or art review occurred. No evidence issue was closed, source dossier/media changed or uncertain site identity canonically merged. No commit or push was performed by this task.
+
+Next examine Deep Winds Spa and the Dawnless Dunes pyramid, then continue connected subject/domain work. Full-world acceptance and final campaign integration remain pending.
+
+### Twenty-second implementation checkpoint — Deep Winds Spa and Dawnless Dunes
+
+**2026-10-26: Two place accounts migrated and locally validated.** [Spa/Dunes report](../reports/DELVERS_SPA_DUNES_2026-10-26.md) · [Coverage ledger](DELVERS_SPA_DUNES_COVERAGE.json) · [Pre-edit archive](../research/legacy/2026-10-26/delvers-spa-dunes/README.md) · [Validation](DELVERS_SPA_DUNES_VALIDATION.json).
+
+| Place | Current disposition | Main prose before → after |
+| --- | --- | ---: |
+| Deep Winds Spa | Flumph customs, facilities/guests, filter crisis, completed stays, paid refuge and Current status | 1,184 → 380 |
+| Dawnless Dunes pyramid | Physical desert/ruins, labor camp, workshop/bedchamber, rescue, true defeat/collapse and Current status | 1,081 → 395 |
+
+All twelve former headings and four additional metadata/status blocks are accounted for. The pyramid's episode-labelled title target remains reachable. Six exact originals and equivalent rebased copies are archived without link corrections. All 276 protected hashes match: 215 campaign files, 51 earlier batch artifacts and ten bonus provenance documents. Prior archives, forest-horizon correction and existing control work remain preserved.
+
+The spa's first night and later paid check-in/completed second stay now follow actual chronology. Hosts' neutral rules do not establish universal harmlessness, and offered paid hospitality does not create a dedicated Guild base or permanent route guarantee. Private aboleth claims and future court imagery remain distinct from established facts. The filter pursuer reaches the public bath before Koh kills it; Krandal/Vapo survive and immediate clean slats are not a universal cure.
+
+The Dunes retain their physical desert/ruins and forced-labor infrastructure. Actual circles evacuate captives, but no exact final headcount is invented. Restored-city visions are psychic; real organ insertion, Khalazar's destruction and pyramid collapse occur. Severed tubes precede the statue's collapse, and it never animates. Giant golem, eye lasers, Atomer attack and flying pyramids remain unplayed creator contingencies. Wider desert and adjacent-site fate remain uninspected.
+
+Both complete profiles were read; terms searched across all 37 dossiers; selected complete primary paragraphs and bounded November creator passage reviewed. No fresh ASR/audio, original map/handout, sheet or art review occurred. No evidence issue was closed, source dossier/media changed or uncertain site identity canonically merged. No commit or push was performed by this task.
+
+Next examine Chath Peak and Snake Island as distinct expedition settings, then continue connected subject/domain work. Full-world acceptance and final campaign integration remain pending.
+
+### Twenty-third implementation checkpoint — Chath Peak and Snake Island
+
+**2026-10-26: Two expedition-setting accounts migrated and locally validated.** [Chath/Snake report](../reports/DELVERS_CHATH_SNAKE_2026-10-26.md) · [Coverage ledger](DELVERS_CHATH_SNAKE_COVERAGE.json) · [Pre-edit archive](../research/legacy/2026-10-26/delvers-chath-snake-island/README.md) · [Validation](DELVERS_CHATH_SNAKE_VALIDATION.json).
+
+| Place | Current disposition | Main prose before → after |
+| --- | --- | ---: |
+| Chath Peak | Volcanic route, kobold community, forge/lift/lair defenses, retrospective defeat and Current status | 723 → 351 |
+| Snake Island | Fragmentary remembered setting, return evidence, later royal ties/survivor and Current status | 657 → 366 |
+
+All eleven former heading targets and one unheaded metadata block are accounted for. Six exact originals and equivalent rebased copies are archived without link corrections. All 279 protected hashes match: 215 campaign files, 54 earlier batch artifacts and ten bonus provenance documents. The completed spa/Dunes batch, earlier archives and existing work remain preserved.
+
+Chath Peak keeps played terrain and machinery separate from the S2E09 retrospective that establishes the remaining controls and Fredoroth's death. The first cliff encounter and S2E08 cutoff are not rewritten as a played kill. One useful sword, distinct payments/item shares and later skull display do not prove a second enchanted output, complete hoard audit, auction sale, rebuilt forge or restored kobold government.
+
+Snake Island remains a partially remembered expedition rather than a complete surveyed itinerary. Acceptance/return and actual rewards are firmer than the order/outcomes of fragmentary scenes. Crowning, idol substitution, poison, volcano and bonfire do not prove a marriage, execution, patron death, cured curse or present idol custody. Hissia/Nopa testimony extends social ties, while Hissia's actual S3E12 rescue resolves her earlier unknown fate elsewhere without inventing an island return, succession or homecoming.
+
+Both complete profiles were read; relevant terms searched across all 37 dossiers; selected full paragraphs and bounded November design retrospective reviewed. No fresh ASR/audio, original map/handout, sheet or art review occurred. No evidence issue was closed, source dossier/media changed or uncertain site identity canonically merged. No commit or push was performed by this task.
+
+Next examine Hooper Estate and the Minotaur Mesa bone crypt, then continue remaining subject/domain work. Full-world acceptance and final campaign integration remain pending.
+
+### Twenty-fourth implementation checkpoint — Hooper Estate and minotaur crypt
+
+**2026-10-26: Two place accounts migrated and locally validated.** [Estate/crypt report](../reports/DELVERS_HOOPER_CRYPT_2026-10-26.md) · [Coverage ledger](DELVERS_HOOPER_CRYPT_COVERAGE.json) · [Pre-edit archive](../research/legacy/2026-10-26/delvers-hooper-minotaur-crypt/README.md) · [Validation](DELVERS_HOOPER_CRYPT_VALIDATION.json).
+
+| Place | Current disposition | Main prose before → after |
+| --- | --- | ---: |
+| Hooper Estate | Halfling house/grounds, wedding custom, concealed crime, actual burial and Current status | 438 → 286 |
+| Minotaur Mesa crypt | Burial chamber, voluntary council, departed inhabitants, later final rest and Current status | 401 → 260 |
+
+All six former headings and three additional unheaded crypt blocks are accounted for. Six exact originals and equivalent rebased copies are archived without link corrections. All 282 protected hashes match: 215 campaign files, 57 earlier batch artifacts and ten bonus provenance documents. Earlier archives, Chath/Snake/control work and unrelated changes remain preserved.
+
+Hooper Estate's wedding and proper burial are actual outcomes; Goodwine's enchanted confession remains testimony about the old crime. The wight and walking oak are distinct threats, the murder is not publicly exposed and unexplained signs are not collapsed into a proved common cause. The deck leaves undrawn; reward concessions do not establish invented payout arithmetic or eternal peace.
+
+The crypt is reached through Noble Hollow, without an exact under-farm map or route to the Dunes. Nine council members exclude Chad Brad's separate skull; his later farm ritual makes ten undead allies, not eleven or living resurrectees. They voluntarily aid the expedition and all ten finish as bones at the Guild. No later crypt return, reburial, complete clearance or destruction is supplied.
+
+Both complete profiles were read; relevant terms searched across all 37 dossiers; selected complete primary paragraphs and bounded November creator passage reviewed. No fresh ASR/audio, original map/handout, sheet or art review occurred. No evidence issue was closed, source dossier/media changed or uncertain site identity canonically merged. No commit or push was performed by this task.
+
+Next review the guild public-reckoning article and audit place dispositions and evidence horizons before continuing remaining character and artifact batches. Full-world acceptance and final campaign integration remain pending.
+
+### Twenty-fifth implementation checkpoint — place dispositions and public reckoning
+
+**2026-10-26: All 27 current place-directory paths have bounded editorial dispositions.** [Audit/event report](../reports/DELVERS_PLACE_AUDIT_2026-10-26.md) · [Coverage ledger](DELVERS_PLACE_AUDIT_COVERAGE.json) · [Pre-edit archive](../research/legacy/2026-10-26/delvers-place-audit/README.md) · [Validation](DELVERS_PLACE_AUDIT_VALIDATION.json) · [27-path disposition register](DELVERS_PLACE_DISPOSITIONS.json).
+
+The directory contains 25 ordinary place/institution accounts, one focused historical event study and one compatibility reading route. Current headings, final statuses/legacy, notes, links and per-page hashes are checked. The register separates local observations from later reports, retrospective scenes, actor/item continuity and explicit physical outcomes. Candidate aliases across all 37 dossiers are review routing, not proof every scene/name was captured. This checkpoint does not certify complete factual coverage or accept every remaining world domain.
+
+| Maintained page | Change | Main prose before → after |
+| --- | --- | ---: |
+| Guild public reckoning | Event-focused introduction, public challenge/release/funding and Lasting legacy; established path/old title anchor retained | 467 → 262 |
+| Deep Winds Spa | Source-note clarification: S3E10 delivers deferred private conversations about the S3E09 stay | 380 → 380 |
+| Delvers Guild | Obsolete pending event-taxonomy pointer resolved; main account unchanged | 799 → 799 |
+
+All thirteen former headings and four unheaded event blocks are accounted for. Seven exact originals and equivalent rebased copies are archived without link corrections. All 284 protected hashes match: 214 campaign files, 60 prior batch artifacts and ten bonus provenance documents. All 27 audited page hashes match the disposition register. Prior archives, estate/crypt/control work and unrelated changes are preserved.
+
+The historical reckoning remains at its existing place-directory path as an event study, not another building article or a new duplicated event. Actual public support, tracking admission, Cassius release, funding and next-day rescue consequences remain distinct from a formal acquittal or Academy-wide reform. The farm finale remains a compatibility route to Potato Grove. S3E09's repaired forest entrance remains corrected; S3E10's retrospective spa dialogue adds claims without another stay or a backdated delivered answer at the earlier cutoff.
+
+Current structure/status text was checked across all paths, with selected main/source-note rereads, candidate alias searches and complete event source paragraphs. No fresh ASR/audio, full campaign reread, original map/handout or art review occurred. No evidence issue was closed, source dossier/media changed or uncertain site identity merged. No commit or push was performed by this task.
+
+This checkpoint has four preservation artifacts rather than the usual three: report, coverage, validation and the additional disposition register. Future batches must protect all four. Full-world acceptance and final campaign integration remain pending.
+
+Next examine Glepo Ma and Skoogie as community intermediaries, then continue remaining supporting-character and artifact batches.
+
+### Twenty-sixth implementation checkpoint — Glepo Ma and Skoogie
+
+**2026-10-26: Two supporting-character biographies migrated and locally validated.** [Character report](../reports/DELVERS_GLEPO_SKOOGIE_2026-10-26.md) · [Coverage ledger](DELVERS_GLEPO_SKOOGIE_COVERAGE.json) · [Pre-edit archive](../research/legacy/2026-10-26/delvers-glepo-skoogie/README.md) · [Validation](DELVERS_GLEPO_SKOOGIE_VALIDATION.json).
+
+| Character | Current disposition | Main prose before → after |
+| --- | --- | ---: |
+| Glepo Ma | First village trade, compromise/apology, reported exile, farm trust/responsibility/pay and final epilogue status | 431 → 463 |
+| Skoogie | Displaced influence, useful but self-interested alliance, wounds/healing, living departure and Current status | 401 → 243 |
+
+All seven former heading targets and four unheaded update/metadata/separation blocks are accounted for. Six exact originals and equivalent rebased copies are archived without link corrections. All 289 protected hashes match: 215 campaign files, 64 previous batch artifacts and ten bonus provenance documents. The 64 include all four place-audit artifacts, including the additional 27-path disposition register. All place pages, prior archives and unrelated work remain unchanged.
+
+Glepo now starts with the actual S1E10 village encounter rather than the later farm reappearance. Staff handover, amends and warning intent remain distinct; delivery is unproved. Exile is reported, useful work is played, coin arrears and later payment follow their actual order, and the one-year epilogue supplies continuing farm work. No skimming, real mutiny, title transfer or village pardon is invented.
+
+Skoogie's desired restored influence motivates the dragon alliance, while arrow, route, bell and lightstone are actual help. Language is mediated by Marsh and no canonical gender declaration is imposed. The unfinished S2E08 fight and later S2E09 retrospective survival remain separate. Living departure does not prove followers or rule restored. Short character phases are not padded to a quota.
+
+Both complete old profiles were read; names/aliases searched across all 37 dossiers; selected complete early-village, farm and dragon paragraphs plus existing retrospective context reviewed. No fresh ASR/audio, original map/handout, sheet or art review occurred. No evidence issue was closed, source dossier/media changed or unrelated identity merged. No commit or push was performed by this task.
+
+Next examine Marsh and the Great Daufante as guest adventurers, then continue remaining supporting-character and artifact batches. Full-world acceptance and final integration remain pending.
+
+### Twenty-seventh implementation checkpoint — Marsh and the Great Daufante
+
+**2026-10-26: Two guest-character biographies migrated and locally validated.** [Character report](../reports/DELVERS_MARSH_DAUFANTE_2026-10-26.md) · [Coverage ledger](DELVERS_MARSH_DAUFANTE_COVERAGE.json) · [Pre-edit archive](../research/legacy/2026-10-26/delvers-marsh-daufante/README.md) · [Validation](DELVERS_MARSH_DAUFANTE_VALIDATION.json).
+
+| Character | Current disposition | Main prose before → after |
+| --- | --- | ---: |
+| Marsh | Expert caution, tactical cooperation, translated alliance, killing arrow, negotiated departure and Current status | 714 → 259 |
+| Great Daufante | Showmanship, entourage, artifact claim, deceptive persuasion, compromise/deck and Current status | 502 → 312 |
+
+All ten former headings and one unheaded metadata block are accounted for. Six exact originals and equivalent rebased copies are archived without link corrections. All 292 protected hashes match: 215 campaign files, 67 previous batch artifacts and ten bonus provenance documents. All four place-audit artifacts, all place pages, prior archives and unrelated work remain unchanged.
+
+Marsh's expertise is supported by his choices and cooperation, without invented background, height certainty or familiar mechanics. His gate control and killing arrow are affirmed by S2E09 retrospective rather than completed in S2E08. Nominal equal shares do not audit the magic-item cart or every person's payout. No later promotion or guest return is invented.
+
+Daufante's performance, stated artifact interest, charm and reward-for-deck agreement ground his biography. Invented entertaining stories are not backstory, enchanted confession is not a witnessed old crime, and companion actions do not settle their independent histories. Deck is packed undrawn. The invitation has no documented follow-up; the earlier hidden-divine-motive interpretation is preserved historically and qualified, not asserted as established thought or future scheme.
+
+Both complete profiles were read; names/aliases and companions searched across all 37 dossiers; selected complete wedding/dragon paragraphs and explicit follow-up confirmations reviewed. No fresh ASR/audio, original sheet/map/handout or art review occurred. No evidence issue was closed, source dossier/media changed or unrelated identity merged. No commit or push was performed by this task.
+
+Next examine Destroying Angel and Goggles Granny as guest allies, then continue remaining supporting-character and artifact batches. Full-world acceptance and final integration remain pending.
+
+### Twenty-eighth implementation checkpoint — Destroying Angel and Goggles Granny
+
+**2026-10-26: Two guest-allied character biographies migrated and locally validated.** [Character report](../reports/DELVERS_ANGEL_GRANNY_2026-10-26.md) · [Coverage ledger](DELVERS_ANGEL_GRANNY_COVERAGE.json) · [Pre-edit archive](../research/legacy/2026-10-26/delvers-angel-granny/README.md) · [Validation](DELVERS_ANGEL_GRANNY_VALIDATION.json).
+
+Both biographies retain their paths/titles, begin with Introduction, develop the character's relevant arc and end at Current status. Main prose changes from 480 to 266 words for Angel and 561 to 272 for Granny; their developed arcs contain 186 and 197 words. Angel's courtesy, care and courage give her mission its focus; Granny's independence, irritation, inventive help and physical limit give hers a distinct shape. Source clocks, casting, uncertain names, mechanics and research limits appear in referenced notes.
+
+All seven former headings and the opening/disposition/cutoff blocks are accounted for. Six exact originals and equivalent rebased reading copies are archived without link corrections. All 295 protected hashes match: 215 campaign files, 70 prior batch artifacts and ten bonus provenance documents. All four place-audit artifacts and all 27 place-register page hashes remain unchanged.
+
+Angel's air gift, restraint, rescue and reassurance are actual actions; Koh frees Krandal and kills the foe. Hospitality and later paid-use offer do not establish a built Guild base. Angel is already absent next morning, with no specific departure scene or destination supplied. Granny's catlike features do not settle ancestry; name order and connection to the earlier merchant/closed shop remain uncertain. Potions consumed are distinguished from carried supplies, the whole jar from its heart, and the actual stone/weight substitution from unused mayonnaise ideas. Safe town return precedes the trio's jar placement; no future guest return, town location or mission resolution is invented.
+
+Both complete profiles were read; aliases searched across all 37 dossiers; selected complete spa/puzzle paragraphs and explicit follow-up reviewed. No fresh ASR/audio, original sheet/map or art review occurred. No evidence issue was closed, source dossier/media changed or unrelated identity merged. No commit or push was performed by this task.
+
+Next examine Barclay Vandergeist and Radiant Lance, then continue remaining supporting-character and artifact batches. Full-world acceptance and final integration remain pending.
+
+### Twenty-ninth implementation checkpoint — Barclay and Radiant Lance
+
+**2026-10-26: Two character biographies migrated and locally validated.** [Character report](../reports/DELVERS_BARCLAY_RADIANT_2026-10-26.md) · [Coverage ledger](DELVERS_BARCLAY_RADIANT_COVERAGE.json) · [Pre-edit archive](../research/legacy/2026-10-26/delvers-barclay-radiant/README.md) · [Validation](DELVERS_BARCLAY_RADIANT_VALIDATION.json).
+
+Both biographies retain their paths/titles, start with Introduction, develop the relevant character arcs and end at Current status. Barclay's survival, generosity, faith and practical cooperation replace the spell-by-spell itinerary. Main prose changes from 740 to 290 words for Barclay and 393 to 292 for Radiant Lance. Barclay's developed arc contains 216 words; Radiant Lance's historical and captive phases contain 66 and 144, proportionate to their evidence. Radiant Lance's remembered reputation, attributed ideals, captivity and final companionship remain distinct from the rat collective's false town scenes. Source clocks, spelling variants, bonus design context and mechanics are in referenced footnotes.
+
+All seven former headings and the unheaded casting/spellcraft/identity/cutoff blocks are accounted for. Six exact originals and equivalent rebased reading copies are archived without link corrections. All 298 protected hashes match: 215 campaign files, 73 prior batch artifacts and ten bonus provenance documents. All four place-audit artifacts and all 27 place-register page hashes remain unchanged.
+
+Barclay's months underground and research-team losses remain testimony; Chance is not silently identified with another campaign entity. Rejected bonus character pitches and a wall shortcut remain unplayed. His Nondetection and the falling badges are observed; Zoltar's subsequent general tracking admission is retained without inventing an exact badge mechanism. Return to Atomer is not a team reunion or permanent recruitment.
+
+Radiant Lance's dragon slaying is the clerk's account, his mountain inscription attributed and the theatre a namesake. The approximate 150-year captivity is testimony. His card game and thanks are a psychic encounter, not a living farm visit, resurrection or confirmed divine release. Krandal wears the holy tabard; extra properties/attunement remain unidentified, and the stored physical lance is separate from Loran's transforming weapon.
+
+Both complete profiles were read; names/aliases searched across all 37 dossiers; selected complete camp/puzzle/exit, history/psychic/remains paragraphs, later tracking admission and bounded bonus selection passage reviewed. No fresh ASR/audio, original sheet/map or art review occurred. No evidence issue was closed, source dossier/media changed or unrelated identity merged. No commit or push was performed by this task.
+
+Next examine Veggie Sticks and Chad Brad, then continue remaining supporting-character and artifact batches. Full-world acceptance and final integration remain pending.
+
+### Thirtieth implementation checkpoint — Veggie Sticks and Chad Brad
+
+**2026-10-27: Two character biographies migrated and locally validated.** [Character report](../reports/DELVERS_VEGGIE_CHAD_2026-10-27.md) · [Coverage ledger](DELVERS_VEGGIE_CHAD_COVERAGE.json) · [Pre-edit archive](../research/legacy/2026-10-26/delvers-veggie-chad/README.md) · [Validation](DELVERS_VEGGIE_CHAD_VALIDATION.json).
+
+Both biographies retain their paths/titles, start with Introduction, develop relevant character arcs and end at Current status. Veggie's retracted boasts, fear, hospitality, detector collaboration and later tree transport are chronological. His final point is the Atomer arrival, not the superseded S1E04 woodland-home cutoff. Chad's hostile introduction, negotiated survival, adopted name and farm companionship lead to his skeletal reassembly, rescue work and definitive farewell. Main prose changes from 652 to 387 words for Veggie and 591 to 410 for Chad. Their developed arcs contain 157/146 and 166/176 words respectively, proportionate to the character changes.
+
+All nine former headings and Chad's unheaded state/ritual/source blocks are accounted for. Six exact originals and equivalent rebased reading copies were archived before editing, with no link corrections. All 301 protected hashes match: 215 campaign files, 76 previous batch artifacts and ten bonus provenance documents. All four place-audit artifacts and all 27 place-register page hashes remain unchanged.
+
+Veggie's walking plant Brad/Brador is separate from Chad/Brad. Veggie's alleged omniscience and grick-origin ideas remain limited; detector work is shared with Carrie and does not recruit him full-time. Tree travel reaches the Atlas cedar by the well, with no later forest return supplied. Badge retrieval, magical mechanism and permanent forest safety remain unresolved.
+
+Chad is named by Krandal after losing his original name to the curse; Brad begins as mistaken usage. The skull and later restored body are animated skeleton, not living flesh. Nine crypt warriors plus Chad make ten; Mace of Disruption custody is established at the expedition. Eight minotaurs leave through the first portal; Chad and Corgan remain and shield the second escape. All ten become inert bones at the Guild. Hoped-for living restoration, post-campaign revival and a return to the crypt are not invented.
+
+Both complete old profiles were read; aliases and descriptive terms searched across all 37 dossiers; selected complete woodland, early farm, naming, detector, tree-travel, crypt/ritual, expedition and finale paragraphs plus bounded bonus pledge context reviewed. No fresh ASR/audio, original sheet/map or art review occurred. No evidence issue was closed, source dossier/media changed or unrelated identity merged. No commit or push was performed by this task.
+
+Next examine Darmah Edstream and Dumbledwark of Raisinbunch, then continue remaining supporting-character and artifact batches. Full-world acceptance and final integration remain pending.
+
+### Thirty-first implementation checkpoint — Darmah and Dumbledwark
+
+**2026-10-27: Two character biographies migrated and locally validated.** [Character report](../reports/DELVERS_DARMAH_DUMBLEDWARK_2026-10-27.md) · [Coverage ledger](DELVERS_DARMAH_DUMBLEDWARK_COVERAGE.json) · [Pre-edit archive](../research/legacy/2026-10-27/delvers-darmah-dumbledwark/README.md) · [Validation](DELVERS_DARMAH_DUMBLEDWARK_VALIDATION.json).
+
+Existing paths and Dumbledwark's title are preserved; Darmah's visible title loses its obsolete episode tag, with the former H1 target retained. Both biographies start with Introduction, develop relevant character arcs and end at Current status. Darmah's earlier well-side fireball precedes the later rescue responsibility. Dumbledwark's professional persona, consent-based access, ambitions, dubious publicity proposal, theft and field aid remain distinct choices rather than a chronological spell inventory. Main prose changes from 501 to 284 words for Darmah and 911 to 309 for Dumbledwark. Darmah's early cameo and rescue arc contain 36 and 199 words; Dumbledwark's guest arc contains 228, without padding minor appearances.
+
+All seven former headings and the unheaded casting, preparation, camera, interview/custody and source blocks are accounted for. Six exact originals and equivalent rebased reading copies are archived without link corrections. All 304 protected hashes match: 215 campaign files, 79 previous batch artifacts and ten bonus provenance documents. All four place-audit artifacts and all 27 place-register page hashes remain unchanged.
+
+Darmah's declared well cleaning is not verified safety. The earlier name-only Dharma report does not independently identify her or establish Edgar's death. Hard-ground/capacity statements are in-play limits, not general rules or a rescued headcount. Preparations, Spider Climb, actual portals and later fireballs remain chronological. Her knockdown inside the shared illusory city is not a documented death or a specified lasting physical injury; the intervening recovery is unrecorded. Both evacuation circles actually reach the Guild.
+
+Dumbledwark's prophecy, romance hint and Zoltar accusations retain their evidential limits. Signed consent precedes Krandal's truth spell, while Koh declines it. Jimmy offers information for payment, not a bribe to the reporter. Managed victories/covert meetings remain proposals; the licence and stolen tome are actual custody events. Captured photographicals do not prove development or publication. Iron Monkey is found alive. The later Cassius-location lead is corroborated by release at the estate without validating every advertised accusation or proving full book publication.
+
+Both complete old profiles were read; aliases/role terms searched across all 37 dossiers; selected complete early well/response, interviews/consent/theft, dungeon reporting, rescue preparation/evacuations and vision paragraphs, later advertising/letter/release and bounded bonus context reviewed. No fresh ASR/audio, original sheet/map or art review occurred. No evidence issue was closed, source dossier/media changed or unrelated identity merged. No commit or push was performed by this task.
+
+Next examine Shrugs Manaspoon and Shaolin Nym, then continue remaining supporting-character and artifact batches. Full-world acceptance and final integration remain pending.
+
+### Thirty-second implementation checkpoint — Shrugs and Shaolin Nym
+
+**2026-10-27: Two character biographies migrated and locally validated.** [Character report](../reports/DELVERS_SHRUGS_SHAOLIN_2026-10-27.md) · [Coverage ledger](DELVERS_SHRUGS_SHAOLIN_COVERAGE.json) · [Pre-edit archive](../research/legacy/2026-10-27/delvers-shrugs-shaolin/README.md) · [Validation](DELVERS_SHRUGS_SHAOLIN_VALIDATION.json).
+
+Existing paths and Shrugs's title are preserved; Shaolin's title loses its obsolete episode tag, with the former H1 target retained. Both biographies start with Introduction, develop the relevant arc and end at Current status. Shrugs's understated presentation, technical skill, eccentric curiosity, collateral harm, dependence on healing and failed concealment lead to his later smoke departure. Nym's attributed history, recognition of liberators, final gate-opening aid and subsequent visionary representation remain distinct evidence classes. Main prose changes from 535 to 282 words for Shrugs and 321 to 266 for Shaolin; their developed arcs contain 215 and 195 words.
+
+All five former headings and the unheaded name/casting, appearance, history, ritual and physical-resolution blocks are accounted for. Six exact originals and equivalent rebased reading copies are archived without link corrections. All 307 protected hashes match: 215 campaign files, 82 previous batch artifacts and ten bonus provenance documents. All four place-audit artifacts and all 27 place-register page hashes remain unchanged.
+
+Shrugs leaves his borrowed bag and music box at the warehouse; Koh takes them and the toe is later unbagged. This supersedes the old S2E04 guest-held-bag status. Neither later three-Delver payout nor unreconciled gear establishes the guest's reward or exact explosives remainder. The six-planted/four-exploded discrepancy remains open. The servant actually sees the coat pile. Unconsciousness/healing is not death/resurrection. Estate arson is not reassigned to Shrugs or backdated as a new performed S2E04 scene.
+
+Nym's emperor/outcast history and blood requirement begin as testimony, without independent ancestry testing or complete ritual-mechanics proof. Gate opening, released urns and bodily dust are observed; later bag custody does not insert an unshown packing scene. S3E12 organ replacement is performed, but a separate wrist-blood application is not explicit. The long-haired architect's later appearance belongs to a ritual vision, not a physically rebuilt current city, independent historical document, revival or new expedition companion.
+
+Both complete profiles were read; aliases searched across all 37 dossiers; selected complete recruitment/heist/escape, warehouse departure/unbagging/settlement, retrospective fire attribution, gate encounter and final ritual-vision paragraphs reviewed. No fresh ASR/audio, original sheet/map or art review occurred. No evidence issue was closed, source dossier/media changed or unrelated identity merged. No commit or push was performed by this task.
+
+Next examine Chuck Abnaz and Ambermoor, then continue remaining supporting-character and artifact batches. Full-world acceptance and final integration remain pending.
+
+### Thirty-third implementation checkpoint — Chuck Abnaz and Ambermoor
+
+**2026-10-27: Two character biographies migrated and locally validated.** [Character report](../reports/DELVERS_CHUCK_AMBERMOOR_2026-10-27.md) · [Coverage ledger](DELVERS_CHUCK_AMBERMOOR_COVERAGE.json) · [Pre-edit archive](../research/legacy/2026-10-27/delvers-chuck-ambermoor/README.md) · [Validation](DELVERS_CHUCK_AMBERMOOR_VALIDATION.json).
+
+Both paths/titles are preserved. Each biography begins with Introduction, develops relevant character arcs and ends at Current status. Chuck's paid medical help, coercive belonging, heist coordination, settlement and later fencing bargain follow the changing connection with Koh. Ambermoor's privileged management, self-incriminating ambitions, directly witnessed extraction, capture and retrospective Guild custody remain distinct from a whole-colony plot recap. Main prose changes from 552 to 335 words for Chuck and 734 to 286 for Ambermoor. Chuck's developed phases contain 212 and 49 words; Ambermoor's arc contains 224, without padding limited later participation.
+
+All eleven former headings, the opening Ambermoor metadata and Chuck's orphaned old status note are accounted for. Six exact originals and equivalent rebased reading copies are archived without link corrections. All 310 protected hashes match: 215 campaign files, 85 previous batch artifacts and ten bonus provenance documents. All four place-audit artifacts and all 27 place-register page hashes remain unchanged.
+
+Chuck's medical payment is corroborated, not proof of physical abuse. Claimed debt cancellation is not separately audited. The heist's later settlement is performed but shares/retained wealth differ, and 23 stolen versus 21 unbagged jade objects remains unresolved. Later visits are family testimony. S3E01 supplies actual bank-loot presentation and a negotiated fencing arrangement, not an audited net payment, permanent rejoining or performed Kingdom departure. Family-contact limits remain negotiated, not verified compliance.
+
+Ambermoor's diaries are narrated documents; original pages remain uninspected, and not every transmission, transformation or proposed buyer is verified. His fluid extraction and breathing nonlethal captivity are witnessed. The contained Neko specimen is killed after restoration makes no visible change; no universal cure rule is inferred. S2E07 farm custody is followed by S2E08 offscreen Guild-cell delivery/truth-magic oversight. No performed interrogation/confession, verdict, release, exact reagent recipient or later personal fate is invented. Two adult slaadi and island recovery remain unresolved.
+
+Both complete profiles were read; names/aliases searched across all 37 dossiers; selected complete family/debt, recruitment/heist, settlement, reported visits and later fencing paragraphs, colony/diaries/laboratory/capture/exit and retrospective custody reviewed. No fresh ASR/audio, original sheet/map or art review occurred. No evidence issue was closed, source dossier/media changed or unrelated identity merged. No commit or push was performed by this task.
+
+Next examine the masked mage, then audit character coverage and continue the remaining world domains. Full-world acceptance and final integration remain pending.
+
+### Thirty-fourth implementation checkpoint — Masked Mage and character inventory
+
+**2026-10-27: One character biography migrated and locally validated; all 35 current character paths inventoried structurally.** [Report](../reports/DELVERS_MASKED_MAGE_2026-10-27.md) · [Coverage ledger](DELVERS_MASKED_MAGE_COVERAGE.json) · [Pre-edit archive](../research/legacy/2026-10-27/delvers-masked-mage/README.md) · [Validation](DELVERS_MASKED_MAGE_VALIDATION.json) · [Character inventory](DELVERS_CHARACTER_INVENTORY.json).
+
+The mage's path/title remain unchanged. Introduction, a proportionate chronological character section and final Current status follow his unsettling appearance, unsolicited warning, attributed reputation and unexplained departure. Scion/artifact-seeker claims remain testimony, Ruby/master rank comes from Carrie, and neither identity nor an enemy conspiracy is invented. Other masked figures and campaigns remain separate. Main prose changes from 255 to 173 words, with a 110-word developed arc proportionate to the brief appearance.
+
+All four former headings are accounted for. Five exact originals and equivalent rebased copies preserve the mage page, world portal, plan, living manifest and chapter maps, without link corrections. All 314 protected hashes match: 216 campaign files, 88 previous batch artifacts and ten bonus provenance documents. All four place-audit artifacts and all 27 place-register page hashes remain unchanged.
+
+The new inventory records path hashes, headings, note consistency, source-dossier links and coverage mentions for all 35 character pages. Thirty-four have Introduction, chronological development and final Current status with no detected visible research apparatus; Khalazar retains accumulated episode/bonus sections and requires migration. These are mechanical presentation dispositions, not accepted source horizons, complete factual review or a finding that every character migration is finished. The inventory is a fourth checkpoint artifact alongside coverage, validation and report and must be preserved in subsequent work.
+
+The complete old mage profile and complete primary warning paragraph were read; descriptor, scion, teardrop and mask-context searches covered all 37 dossiers. The other character pages received mechanical inventory, not new full factual reviews. No fresh ASR/audio, sheet/art/map inspection or evidence-issue closure occurred. No source dossier/media or unrelated identity was changed. No commit or push was performed by this task.
+
+Next migrate Khalazar, then audit character coverage and continue the remaining world domains. Full-world acceptance and final integration remain pending.
+
+### Thirty-fifth implementation checkpoint — Khalazar
+
+**2026-10-27: Khalazar's biography migrated and locally validated; character inventory refreshed.** [Report](../reports/DELVERS_KHALAZAR_2026-10-27.md) · [Coverage ledger](DELVERS_KHALAZAR_COVERAGE.json) · [Pre-edit archive](../research/legacy/2026-10-27/delvers-khalazar/README.md) · [Validation](DELVERS_KHALAZAR_VALIDATION.json) · [Character inventory](DELVERS_CHARACTER_INVENTORY.json).
+
+The existing path/title are retained. Introduction, two substantive arcs and final Current status follow imperial entitlement, psychic coercion, the defeated shade, surviving reach, dependence on organs/machinery and final bodily destruction. Translated history, interested testimony, shared visions, creator design/mechanics and unplayed alternatives remain distinct in referenced notes. The completed campaign ending supersedes the former contradictory early-cutoff statement that mortality was unestablished. Main prose changes from 2,234 to 493 words, with 199- and 214-word substantive arcs, while detailed appearance states and source distinctions remain in notes/archives.
+
+All sixteen former headings and the unheaded working-name/cutoff/shard blocks are accounted for. Six exact originals preserve five Markdown working copies plus the prior character inventory. Markdown reading copies rebase equivalent links; the JSON reading copy preserves its data. All 317 protected hashes match: 216 campaign files, 91 previous batch artifacts and ten bonus provenance documents. All four place-audit artifacts and all 27 place-register page hashes remain unchanged.
+
+S2E10 defeats a shade and frees Anthela, not Khalazar's body. Possession at the Ball does not establish willing allegiance or put his body there. Historical and restored-city visions do not independently authenticate history or physically rebuild current Atomer. Blood ancestry remains a hypothesis; organ placement is performed, a separate wrist-blood application is not explicit. The apparent final strike precedes the trio's joint real-heart attack, actual disintegration and collapsing pyramid. All ten minotaurs become inert bones; the land heals without proving universal monster annihilation.
+
+Audience-only Mummy Lord mechanics are not character knowledge or proof of corporeal biology. Creator drow/pale-elf direction is not every generic species trait. Iron-golem combat, evil lieutenants, flying-pyramid empire and vampire alliance remain unplayed alternatives; the statue is destroyed inactive and the actual ending remains victory over Khalazar.
+
+The prior 34-ready/one-pending inventory is archived. All 35 current character paths now have the expected presentation structure, matching notes and no detected visible processing apparatus. Only Khalazar changed; the other 34 character hashes match. This is structural readiness for the coverage audit, not complete factual acceptance. The inventory remains a fourth artifact to preserve alongside coverage, validation and report.
+
+The complete old profile and selected complete source paragraphs across textual leads, captivity, dream fight/escape, shade clarification, possession, blood/organ claims, pyramid/body and final rite/vision/fight/aftermath were read, plus three bounded bonus passages. Name/title searches covered all 37 dossiers. No fresh ASR/audio, original sheet/map/art or full-campaign rereading occurred. No evidence issue was closed, source dossier/media changed or unrelated identity merged. No commit or push was performed by this task.
+
+Next perform the character coverage audit, then continue remaining world domains. Full-world acceptance and final integration remain pending.
+
+### Thirty-sixth implementation checkpoint — character coverage audit
+
+**2026-10-27: All 35 current character pages receive bounded focus/horizon dispositions; no biographies changed.** [Report](../reports/DELVERS_CHARACTER_AUDIT_2026-10-27.md) · [Coverage](DELVERS_CHARACTER_AUDIT_COVERAGE.json) · [Disposition register](DELVERS_CHARACTER_DISPOSITIONS.json) · [Validation](DELVERS_CHARACTER_AUDIT_VALIDATION.json) · [Archive](../research/legacy/2026-10-27/delvers-character-audit/README.md).
+
+Introductions, full Current status paragraphs and linked status notes were read across all 35 pages, with paragraph-opening topics sampled in each arc. Alias routing covered all 37 dossiers; selected complete primary paragraphs checked later references, retrospective departures, reported reassignment, correspondence, rescues, visions and final epilogues. This is not a new full-body factual reread of every biography or sentence-level audio acceptance. No new discrepancy requiring a biography edit was identified within these bounds.
+
+The register records character focus, supported horizon, later evidence, retained limits, exact page hash, candidate alias matches and which primary paragraphs were read. Late names do not automatically mean new personal scenes: Cheet's work is reported, Dumbledwark's later contribution is a poster/letter, Nym's is a vision, Radiant Lance's later apparent hit is Loran's weapon, and the family tower image is a keepsake. Definite rescue/destruction and completed epilogues remain distinct from promises, future invitations and unplayed creator branches.
+
+Five exact originals preserve four Markdown controls and the previous inventory, with equivalent rebased/data-preserving reading copies and no link corrections. All 321 protected hashes match: 217 campaign files, 94 prior batch artifacts and ten bonus provenance documents. All 35 character pages, all four place-audit artifacts and all 27 place-register page hashes remain unchanged.
+
+All 35 character pages retain Introduction/development/final-status structure, matching notes and no detected visible source/processing apparatus. The updated inventory points to the bounded audit and next artifact work without converting structural readiness into full factual certification. The disposition register is a fourth audit artifact to preserve with coverage, validation and report; the inventory remains maintained separately and must also be preserved before future changes.
+
+No fresh ASR/audio, original sheets/art/maps, full-campaign rereading or evidence-issue closure occurred. Source dossiers/media and unrelated Wastes changes remain untouched. No commit or push was performed by this task.
+
+Next review the Khalazar red crystal and Koh sensory amulet, then continue remaining world domains. Final integration and unresolved listening work remain pending.
+
+### Thirty-seventh implementation checkpoint — red crystal and sensory amulet
+
+**2026-10-27: Two linked artifact pages migrated and locally validated.** [Report](../reports/DELVERS_CRYSTAL_DETECTOR_2026-10-27.md) · [Coverage](DELVERS_CRYSTAL_DETECTOR_COVERAGE.json) · [Validation](DELVERS_CRYSTAL_DETECTOR_VALIDATION.json) · [Archive](../research/legacy/2026-10-27/delvers-crystal-detector/README.md).
+
+Both existing paths/titles are preserved. Introduction, chronological development and final Current status follow origin, physical nature, demonstrated capabilities, form changes, custody and remaining limits. The shard is a component, not an independently identified phylactery; the assembled amulet's behavior is not assigned backwards to the loose fragment. No character word budget is imposed on artifacts. Main prose changes from 358 to 172 words for the fragment and 398 to 230 for the amulet; their development sections contain 51/46 and 156 words, reflecting actual changes rather than a quota.
+
+All three old headings and the unheaded update/status/testing/mounting/continuity blocks are accounted for. Six exact originals and equivalent rebased reading copies are archived without link corrections. All 324 protected hashes match: 215 campaign files, 99 prior batch artifacts/inventories and ten bonus provenance documents. All 35 character profiles, the character disposition register/inventory and four audit artifacts, all four place-audit artifacts and all 27 place-register page hashes remain unchanged.
+
+Evelyn's S2E10 physical handoff to Carrie and S2E11 recurrence remain unresolved, with no invented return or second shard. Carrie later explicitly credits the handoff and incorporates the fragment with consensually drawn Anathala blood. Ancestry and response mechanism remain hypotheses; the device glows near affected elves and is dark near Anathala alone. One field signal stops on a nonlethal knockout; neither a universal cure nor universal detection rule is inferred.
+
+Glove mounting is ordinary craft work; Carrie and Veggie jointly add the directional pinpoint. Covered display is untested rather than a negative signal. Later uncovered use, downward pointing, right-route glow and S3E11 slit-covered bracer advance the former S3E02 endpoint. Nym's blood instruction is testimony; S3E12 organ replacement does not supply a separately shown wrist-blood application or device consumption. Latest explicit carrier is Koh, with post-defeat function/final inventory untested.
+
+Both complete old pages were read; target descriptions and broader amulet/wrist/bracer/detector terms searched across all 37 dossiers; selected complete origin/handoff, recurrence, creation/testing/mounting/upgrade, covered/uncovered use, bracer, guardian instruction and final rite paragraphs reviewed. No fresh ASR/audio, original sheet/art/map or full-campaign rereading occurred. No source dossier/media, character biography or evidence issue was changed/closed. No commit or push was performed by this task.
+
+Next review the three organ urns and dried-heart jar, then continue remaining world domains. Final integration and unresolved listening work remain pending.
+
+### Thirty-eighth implementation checkpoint — organ urns and dried-heart jar
+
+**2026-10-27: Collective artifact account reviewed/refined; individual jar migrated through the finale.** [Report](../reports/DELVERS_URNS_HEART_2026-10-27.md) · [Coverage](DELVERS_URNS_HEART_COVERAGE.json) · [Validation](DELVERS_URNS_HEART_VALIDATION.json) · [Archive](../research/legacy/2026-10-27/delvers-urns-heart/README.md).
+
+Both paths/titles remain. The existing collective style pilot retains its chronology and eight compatibility targets, gains a natural component link and focuses the final rite on organ/vessel function. The individual page now has Introduction, chronological development and final Current status, advancing its stale S3E08 cutoff through transfer, released gate use and actual restoration. Set identity and individual bat-capped vessel remain distinct. Main prose changes from 468 to 447 words in the collective account and 409 to 227 in the individual page, without imposing character word targets.
+
+All eight former headings, all eight existing HTML targets and the individual page's unheaded discovery/weight/swap/installation/retrieval/source blocks are accounted for. Six exact originals and equivalent rebased reading copies are archived without link corrections. All 327 protected hashes match: 215 campaign files, 102 prior batch artifacts/inventories and ten bonus provenance documents. All 35 character pages, character audit/register/inventory, four place-audit artifacts and 27 place-register page hashes remain unchanged.
+
+The 25-pound weight is whole jar/contents, replaced by stone and merchant weights without trap activation. Small metal puzzle keys are separate and absorbed; mayonnaise/shirt alternatives are unperformed. One jar fits one hollow without opening the gate. It is later removed into Evelyn's bag, then all vessels transfer to Koh, not her bag. Later possession does not insert an unshown packing scene.
+
+All Rat's interested claim, the brain recap, unopened third vessel and final ritual vision retain distinct evidence levels. All three are installed/released; organs are actually restored through Khalazar's back cavities, and the heart beats/grows near the body. A separate wrist-blood application is not explicit. Containers are emptied, but neither recovery nor destruction of empty jars is supplied; collapse and earlier custody do not settle final ownership or survival.
+
+Both complete pages and selected complete source paragraphs from first altar/discovery/swap through acquisition, transfers, gate release and final rite/destruction were read; urn/jar/vessel/organ/recess terms and specific cap/heart descriptions were searched across all 37 dossiers. No fresh ASR/audio, original props/sheets/maps or full-campaign rereading occurred. No source dossier/media, character biography or evidence issue was changed/closed. No commit or push was performed by this task.
+
+Next review the Hereditary Drone and its portable music-box evidence, then continue remaining world domains. Final integration and unresolved listening work remain pending.
+
+### Thirty-ninth implementation checkpoint — Hereditary Drone
+
+**2026-10-27: One artifact account migrated and locally validated.** [Report](../reports/DELVERS_DRONE_2026-10-27.md) · [Coverage](DELVERS_DRONE_COVERAGE.json) · [Validation](DELVERS_DRONE_VALIDATION.json) · [Archive](../research/legacy/2026-10-27/delvers-drone/README.md).
+
+The path is preserved. The title becomes Hereditary Drone — music box and droning effects, retaining the former stone-box H1 target. Introduction, chronological development and final Current status separate box/disc assembly, selective response, Carrie's theory, proposed sound protection, Guild custody and the larger Ball source. All four former headings and the unheaded discovery/countermeasure/crisis blocks are covered. Five exact originals and equivalent rebased reading copies are archived without link corrections.
+
+The portable box's documented recovery is S2E04, with disc assembly/test in S2E05; S1E11 records an earlier heard drone rather than recovery of that box. Early wooden versus later stone descriptions remain unresolved, without an invented replacement or conversion. Swiftclef's repeat discomfort is observed, others nearby do not visibly react. Carrie's auditory/motor/hereditary explanation remains in-world theory; the Fulnomic map link is hypothesized, not identified or activated.
+
+Main prose changes from 481 to 339 words; the development phases contain 214 and 48 words, without a character word quota. The small assembly stays at Guild after S2E10, while Evelyn takes a separate mirror. The larger erupting Ball source is not proved the same physical object. Water drains, Fireball fails to collapse rock, tables obstruct but do not silence the Drone. Welcome-speech compliance is not retroactively assigned to it. The active S2E12 cutoff and later aftermath/warnings are historical states, not proof it is active at campaign end. Khalazar's final destruction is definite without certifying disposal, destruction or a calibrated final test of every related object. The S3E08 accusation scene remains a fabrication.
+
+All 331 protected hashes match: 216 campaign files, 105 previous batch artifacts/inventories and ten bonus provenance documents. All 35 character pages, character audit/register/inventory, four place-audit artifacts and 27 place-register page hashes remain unchanged.
+
+The complete old page and selected complete source paragraphs spanning earlier sounds, discovery/assembly/selective test, map/debrief, research/custody, Ball/failed countermeasures, aftermath/warning/projection and finale context were read. Named, phonetic, music-box/disc and drone terms were searched across all 37 dossiers. No fresh ASR/audio, original map/prop/sheet or full-campaign rereading occurred. No source dossier/media, character biography or evidence issue was changed/closed. No commit or push was performed by this task.
+
+Next review the stolen warlock's tome and Deck of Many Things, then continue remaining world domains. Final integration and unresolved listening work remain pending.
+
+### Fortieth implementation checkpoint — stolen tome and Deck of Many Things
+
+**2026-10-27: Two artifact accounts migrated and locally validated.** [Report](../reports/DELVERS_TOME_DECK_2026-10-27.md) · [Coverage](DELVERS_TOME_DECK_COVERAGE.json) · [Validation](DELVERS_TOME_DECK_VALIDATION.json) · [Archive](../research/legacy/2026-10-27/delvers-tome-deck/README.md).
+
+Both paths/titles remain. Introduction, chronological development and final Current status emphasize recognition, ownership context, physical transfers and the limits of unexamined contents. The deck's initial storage history is presented as rumor, not an independently witnessed fifteen-year sequence. No published generic card powers or speculative tome contents are imported. Main prose changes from 227 to 130 words for the tome and 249 to 188 for the deck; development sections contain 80 and 129 words without imposed quotas.
+
+All five former headings and the tome's unheaded status/recognition/theft/appearance blocks are accounted for. Six exact originals and equivalent rebased reading copies are archived without link corrections. All 333 protected hashes match: 215 campaign files, 108 previous batch artifacts/inventories and ten bonus provenance documents. All 35 character pages, character audit/register/inventory, four place-audit artifacts and 27 place-register page hashes remain unchanged.
+
+Detect Magic and recognition do not decode the tome or prove its patron, exact function or former owner. Location in Cassius's former office, now occupied by Zoltar, proves neither man's ownership or warlock identity. Dumbledwark actually steals and conceals the book; camera magic screening is an untested thought. S3E04 recalls the theft but does not provide a new inspection, opening, use or transaction. Later custody remains unresolved.
+
+Hamlet's report and Goodwine's charmed confession remain distinct from a witnessed old murder. The deck is actually located and extracted with Mage Hand, wrapped and placed in Daufante's bag. Precautions do not prove a contact curse; no draw, effects, count, card faces or attunement are demonstrated. Fee waiver and later departure are observed/confirmed without a fully audited reward division or legal ownership chain. Ordinary card games and other books remain separate.
+
+Both complete pages and selected complete source paragraphs for rumor/confession/recognition, recovery/bargain/departure, magic detection/theft and next-episode confirmations were read; tome/warlock/stolen-book and deck/card descriptions were searched across all 37 dossiers. No fresh ASR/audio, guest sheet/item card/art/map or full-campaign rereading occurred. No source dossier/media, character biography or evidence issue was changed/closed. No commit or push was performed by this task.
+
+Next review Loran's radiant armour and Vestal's diamond-heart handle, then continue remaining world domains. Final integration and unresolved listening work remain pending.
+
+### Forty-first implementation checkpoint — Loran's radiant armour and transforming sword
+
+**2026-10-27: Two artifact accounts migrated and locally validated.** [Report](../reports/DELVERS_LORAN_EQUIPMENT_2026-10-27.md) · [Coverage](DELVERS_LORAN_EQUIPMENT_COVERAGE.json) · [Validation](DELVERS_LORAN_EQUIPMENT_VALIDATION.json) · [Archive](../research/legacy/2026-10-27/delvers-loran-equipment/README.md).
+
+Both canonical paths and titles remain. Introduction, chronological development and final Current status now distinguish the diamond-heart gift's initially unknown identity, later transforming blade/key uses, the separate armour's guarded condition and eventual acquisition. Three former heading targets survive. Six exact originals and rebased reading copies are archived; all 336 protected files, the 35-character audit/register/inventory and 27-place register remain unchanged.
+
+The blade's first door failure, later reported base access without an unlocking scene and actual lance-assisted sanctuary opening remain separate. Armour ownership begins with the school emergency, not the earlier refuge visits or false asylum projection. Its specified critical-hit and qualifying Strength/Constitution-save protection remains bounded; the bat scream demonstrates protection without making Evelyn immune to later injury. The physical lance from Radiant Lance's remains is not merged with the transforming sword.
+
+Both complete pages and selected complete relevant source paragraphs were read; matching terms were searched across all 37 dossiers. Final-expedition equipment custody is not an independently inspected one-year inventory. No fresh audio, original item-sheet/art/map review, source dossier/media edit or evidence-issue closure occurred. Artifact prose has no imposed character word quota. No commit or push performed by this task.
+
+Next review the Devotee's Censer and friendship ribbon, then continue remaining world domains. Final integration and unresolved listening work remain pending.
+
+### Forty-second implementation checkpoint — Devotee's Censer and friendship ribbon
+
+**2026-10-27: Two artifact accounts migrated and locally validated.** [Report](../reports/DELVERS_CENSER_RIBBON_2026-10-27.md) · [Coverage](DELVERS_CENSER_RIBBON_COVERAGE.json) · [Validation](DELVERS_CENSER_RIBBON_VALIDATION.json) · [Archive](../research/legacy/2026-10-27/delvers-censer-ribbon/README.md).
+
+Both paths/titles remain. Introduction, chronological development and final Current status now distinguish the censer's actual dawn acquisition and stated capabilities from its last direct expedition inventory. The ribbon progresses from ordinary wrist tether through enchantment, tested locator, actual gifts, later rope/marker uses and the final tower keepsake. All five former heading targets survive, with six exact originals and rebased reading copies preserved. All 339 protected files, character audit/register/inventory and place register remain unchanged.
+
+The censer's golden smoke is observed, but later healing is not automatically its cloud. The gift is not Nopa's forged armour or a Guild purchase. The ribbon does not confer psychic access on Carrie, and its magical awakening is not backdated to the rescue. The apparition's identity/divine origin remains attributed; no unlimited production or planar tracking is inferred. The Traveler's saved piece is actually given at the Ball and worn as a rose. Scroungy's later marker and the final old ribbon do not prove every segment's location or continuing power. Remembered friendship during a psychic projection is not an automatic anti-illusion ability.
+
+Both complete pages and selected complete relevant dossier paragraphs were read; candidate terms were searched across all 37 dossiers. No fresh original ASR/audio, item-sheet/rulebook/art/map review, source media/dossier edit or evidence-issue closure occurred. Artifact prose has no character word quota. No commit or push by this task.
+
+Next review the Chance Lantern and Drift Globe, then continue remaining world domains. Final integration and unresolved listening work remain pending.
+
+### Forty-third implementation checkpoint — Chance's lantern context and drift globe
+
+**2026-10-27: Two reference accounts migrated and locally validated.** [Report](../reports/DELVERS_LANTERN_GLOBE_2026-10-27.md) · [Coverage](DELVERS_LANTERN_GLOBE_COVERAGE.json) · [Validation](DELVERS_LANTERN_GLOBE_VALIDATION.json) · [Archive](../research/legacy/2026-10-27/delvers-lantern-globe/README.md).
+
+Both paths/titles remain. Chance's existing item-directory page is deliberately retained as lantern-and-companion context linked to Barclay, not converted into an ordinary object, owned person or non-intelligent bestiary species. The nonsentient globe's early account extends through former-bearer testimony, Anthela's Ball custody, Koh's later spa use and the actual transfer to Evelyn. All seven former heading targets survive; six exact originals and rebased reading copies are preserved. All 342 protected files, character audit/register/inventory and place register remain unchanged.
+
+Chance's projected hand and writing establish agency without a known species, former identity, full body or new combat powers. The listener-recognition tease remains out-of-game commentary, without a Wastes/Inverse identity link. The lantern stays with Barclay through the Atomer return; no later fate is supplied. Globe badge 542 remains separate from the orb, and Brom/Bram's identity is Wildfire's family testimony. Charging uncertainty is not silently resolved with generic item rules. The intervening dawn separates early Daylight uses. Koh's renewed spa handling does not invent a return transaction from Anthela; the globe frees Krandal before a psychic killing blow. Evelyn's later use follows the actual S3E08 transfer and is the latest direct globe observation, not a new Koh acquisition or epilogue inventory.
+
+Both complete pages and selected complete relevant dossier paragraphs were read; matching terms were searched across all 37 dossiers. No fresh original ASR/audio, guest-sheet/sketch/rulebook/art/map review, source media/dossier edit or evidence-issue closure occurred. No word quota or empty arc was imposed. No commit or push by this task.
+
+Next review the runic sword hilt and Dragon Slayer's Longsword, then continue remaining world domains. Final integration and unresolved listening work remain pending.
+
+### Forty-fourth implementation checkpoint — Soul Knife hilt and Dragon Slayer's Longsword
+
+**2026-10-27: Two artifact accounts migrated and locally validated.** [Report](../reports/DELVERS_HILT_LONGSWORD_2026-10-27.md) · [Coverage](DELVERS_HILT_LONGSWORD_COVERAGE.json) · [Validation](DELVERS_HILT_LONGSWORD_VALIDATION.json) · [Archive](../research/legacy/2026-10-27/delvers-hilt-longsword/README.md).
+
+Both paths/titles remain. Introduction, chronological development and final Current status separate the hilt's recovery, recognition, tests and physical destruction from Koh's ability legacy. The longsword's actual forge creation and combat hit remain distinct from the later narrated conclusion. All 13 former heading targets survive, alongside six exact originals and rebased reading copies. All 345 protected files, character audit/register/inventory and place register remain unchanged.
+
+The historical unidentified-hilt cutoff no longer contradicts Carrie's later identification. Its substance is not independently determined, scion warnings remain testimony, and the flameskull kill does not establish universal immunity bypass. Later two-blade/ranged psychic gifts do not reconstruct the crumbled hilt or backdate ability use. The old unreferenced Sun Blade theory is now reached from status and remains unconfirmed. Gold actually feeds the dragon-slayer forge while the potato burns away; failed offerings are not additional magical swords. The actual hit does not kill the dragon, and Marsh's arrow finishes the later retrospective battle. Evelyn's retained sword is not merged with her subsequent Loran weapon or given an invented later fate.
+
+Both complete pages and selected complete relevant dossier paragraphs were read; matching descriptions were searched across all 37 dossiers. No fresh original ASR/audio, item-sheet/rulebook/art/map review, source media/dossier edit or evidence-issue closure occurred. Artifact prose has no character word quota. No commit or push by this task.
+
+Next review the Bag of Hammer Holding and Ring of Protection, then continue remaining world domains. Final integration and unresolved listening work remain pending.
+
+### Forty-fifth implementation checkpoint — Bag of Hammer Holding and Ring of Protection
+
+**2026-10-27: Two artifact accounts migrated and locally validated.** [Report](../reports/DELVERS_BAG_RING_2026-10-27.md) · [Coverage](DELVERS_BAG_RING_COVERAGE.json) · [Validation](DELVERS_BAG_RING_VALIDATION.json) · [Archive](../research/legacy/2026-10-27/delvers-bag-ring/README.md).
+
+Both paths/titles remain. Introduction, chronological development and final Current status now separate Margaret's gift and demonstrated hammer storage from later named equipment mentions, and the protection ring's discovery, identification and actual handover from later inventory uncertainty. All 9 former heading targets survive, alongside six exact originals and rebased reading copies. All 348 protected files, character audit/register/inventory and place register remain unchanged.
+
+The bag's one-object/sixty-pound description is not a tested maximum or generic Bag of Holding specification. Wedding concealment and the Bronze Ball's Wind Fan/Bag of Hammer Holding wording remain distinct from Evelyn's separately purchased javelin bag. The ring's supposed long storage age is not independently established; archaic letters and psychic responsiveness do not prove shared manufacture, sentience or soulbinding. The +1 AC/all-save description, left middle finger and visible resizing remain. S2E05 raises inventory uncertainty without proving loss/return, and other named rings or an unidentified ring-assisted descent do not settle this item's later custody.
+
+Both complete pages and selected complete relevant dossier paragraphs were read; related terms were searched across all 37 dossiers. No fresh original ASR/audio, sheet/rulebook/art/map review, source media/dossier edit or evidence-issue closure occurred. No character word quota or empty arc was imposed. No commit or push by this task.
+
+Next review the Goat of Travail and Horn of Blasting, then continue remaining world domains. Final integration and unresolved listening work remain pending.
+
+### Forty-sixth implementation checkpoint — Goat of Travail and Horn of Blasting
+
+**2026-10-27: Two artifact accounts migrated and locally validated.** [Report](../reports/DELVERS_GOAT_HORN_2026-10-27.md) · [Coverage](DELVERS_GOAT_HORN_COVERAGE.json) · [Validation](DELVERS_GOAT_HORN_VALIDATION.json) · [Archive](../research/legacy/2026-10-27/delvers-goat-horn/README.md).
+
+Both paths/titles remain. Introduction, chronological development and final Current status distinguish the figurine's stated duration/reuse from the first actual wedding summon, and the horn's observed blasts, crack and examination handover from the later Academy display. All 10 former targets and six exact originals/equivalent reading copies are preserved. All 351 protected hashes match this batch's baseline.
+
+Three intervening committed changes since the prior checkpoint are recorded rather than overwritten: the Delvers places index and Ambermoor/Gemholm provenance updates in e0960bb. Older character/register/inventory hashes now match 34 of 35 pages and the place register 26 of 27. The registers remain unchanged; this batch preserves the new page bytes without certifying or refreshing the older audit. Future integration must reconcile those provenance changes.
+
+The first goat use expends that activation without proving a permanently spent state through later time jumps. Find Steed remains a rejected wedding plan and a separate later elk spell. No goat battle, riding, familiar status, full duration, dismissal or recharge is invented. The horn's crack is not a confirmed destruction; its hunter blast precedes Koh's killing arrow. S1E10 confirms no return, and S2E00 actually presents it at the Academy without establishing a new blast, permanent ownership or final condition.
+
+Both complete pages and selected complete relevant dossier paragraphs were read; candidate terms searched across all 37 dossiers. No fresh original ASR/audio, item-sheet/rulebook/art/map review, source dossier/media edit or evidence-issue closure occurred. No word quota or empty arc was imposed. No commit or push by this task.
+
+Next review the Wand of Secrets and geared-disc account, then audit artifact dispositions before continuing remaining world domains. Final integration, provenance/audit reconciliation and unresolved listening remain pending.
+
+### Forty-seventh implementation checkpoint — Wand of Secrets and geared disc
+
+**2026-10-27: One combined artifact reference migrated and locally validated.** [Report](../reports/DELVERS_WAND_DISC_2026-10-27.md) · [Coverage](DELVERS_WAND_DISC_COVERAGE.json) · [Validation](DELVERS_WAND_DISC_VALIDATION.json) · [Archive](../research/legacy/2026-10-27/delvers-wand-disc/README.md).
+
+The canonical path/title remains. Introduction, chronological development and final Current status keep the wand, quarter-disc, crank and shattered ritual stone distinct. All 6 former heading targets, five exact originals and rebased reading copies are preserved. All 355 protected hashes match the current batch baseline, with no new drift since the goat/horn checkpoint. The inherited Ambermoor/Gemholm audit drift remains recorded; older character/inventory and place page hashes are not recertified here.
+
+The wand performs a deliberate pointing use; three/day is stated rather than a fully tested charge cycle. The fragment remains incomplete and its individual keeper uncertain. The ritualist's deeper-find story and the apparent gear fit remain separate from actual assembly. The larger Noble Hollow stone shares construction and breaks, without proving a completed mechanism. S3E04 actually fits the carried crank to a wheel, water raises the gate, and Evelyn retrieves the crank; S3E08 mentions a later retrieval without supplying an unshown installation sequence. Music-box records, lock/tomb discs, the homemade conch staff and other gates are not merged.
+
+The complete profile and selected complete relevant dossier paragraphs were read; candidate terms searched across all 37 dossiers. No fresh original ASR/audio, sheet/rulebook/art/map review, source media/dossier edit or evidence-issue closure occurred. No word quota or empty arc was imposed. No commit or push by this task.
+
+Next audit all current item-directory paths for artifact dispositions, evidence horizons and retained exceptions before continuing remaining world domains. Final integration, inherited provenance/audit reconciliation and unresolved listening remain pending.
+
+### Forty-eighth implementation checkpoint — bounded artifact audit
+
+**2026-10-27: All 20 current item-directory paths audited within stated limits; no profile rewrites.** [Report](../reports/DELVERS_ARTIFACT_AUDIT_2026-10-27.md) · [Coverage](DELVERS_ARTIFACT_AUDIT_COVERAGE.json) · [Validation](DELVERS_ARTIFACT_AUDIT_VALIDATION.json) · [Dispositions](DELVERS_ARTIFACT_DISPOSITIONS.json) · [Archive](../research/legacy/2026-10-27/delvers-artifact-audit/README.md).
+
+Sixteen ordinary artifact accounts, one associated sentient companion context, one component account, one collective set and one related-object comparison retain their existing paths. Chance's agency is not converted into owned equipment or a non-intelligent creature. The heart jar belongs to the same urn set; the wand/disc/crank page does not assert a completed mechanism. Full main prose and final-status source notes were read for all 20, with selected additional boundary notes. Twenty patterns searched across all 37 dossiers supply candidates, not proof of absence; 15 selected complete primary paragraphs in nine dossiers were read, not a full source reread for every page.
+
+No additional profile correction was identified within this scope. All 20 page hashes and 156 anchor IDs remain unchanged, alongside 359 current-baseline protected hashes. Four pre-edit controls are archived exactly with rebased reading copies. Material changes, powers, custody and remaining uncertainty remain subject-focused without invented epilogue inventories, generic item rules, empty arcs or word quotas.
+
+The inherited Ambermoor/Gemholm provenance changes and older audit mismatches remain recorded: 34 of 35 character disposition/inventory page hashes and 26 of 27 place hashes match their older registers. Those audits are not refreshed or recertified by this artifact audit. No original ASR/audio, item/character sheet, rulebook, art or map review occurred here; source dossiers were read only in the listed selections. No commit or push by this task.
+
+Next reconcile inherited Ambermoor/Gemholm provenance with the character/place presentation policy and audit records, then inventory remaining creature/faction work. Full campaign integration and unresolved listening remain pending; this audit covers current item-directory pages, not every item mentioned elsewhere.
+
+### Forty-ninth implementation checkpoint — bounded provenance reconciliation
+
+**2026-10-27: Two profiles, active index entries and three registry rows reconciled.** [Report](../reports/DELVERS_PROVENANCE_RECONCILIATION_2026-10-27.md) · [Coverage](DELVERS_PROVENANCE_RECONCILIATION_COVERAGE.json) · [Validation](DELVERS_PROVENANCE_RECONCILIATION_VALIDATION.json) · [Archive](../research/legacy/2026-10-27/delvers-provenance-reconciliation/README.md).
+
+Ambermore is used in the manager and Gemholm main prose and active index labels, supported by the separately recorded three-diary spelling review and matching subject context. Ambermoor remains a legacy alias/slug; both former title targets and other anchors survive. Dated review paragraphs move to source footnotes. Diary infection mechanisms and proposed sales remain testimony, and map-printed Lake Obsul is not silently equated with narrated Lake Absul. No new image/audio inspection or global historical-source rename occurs.
+
+The character index now reflects S2E08's reported Guild custody rather than an obsolete farm-only cutoff. Two broken relative report paths in the places index are corrected; exact originals retain the old bytes and the reading copy declares its correction before rebasing. Eleven originals are archived and 356 current-baseline files protected, including all 20 unchanged item pages and their audit register.
+
+Only the Ambermoor row in the character disposition/inventory and the Gemholm row in the place disposition register are refreshed. Each records the prior registered hash, pre-reconciliation hash and scope; all other page rows remain equal to their archived versions. The 35 character, 35 inventory and 27 place hashes now match the maintained pages, resolving the specific inherited hash gaps without rerunning or recertifying the older broad audits. Prior audit reports/coverage/validation remain historical and unchanged.
+
+Both full pre-edit profiles, revised main prose/changed notes, written-source register and selected complete relevant dossier paragraphs were reviewed. No source media/dossier or private handout was edited, no new original ASR/audio/image/map/sheet review occurred, and no unresolved geographical or custody question was closed beyond the scoped registry refresh. No commit or push by this task.
+
+Next inventory the remaining creature and faction domains, then continue bounded reviews and final campaign integration. Geographic crosswalk and targeted listening remain pending.
+
+### Fiftieth implementation checkpoint — creature/faction inventory
+
+**2026-10-27: Inventory completed; no subject rewrites.** [Report](../reports/DELVERS_CREATURE_FACTION_INVENTORY_2026-10-27.md) · [Inventory](DELVERS_CREATURE_FACTION_INVENTORY.json) · [Coverage](DELVERS_CREATURE_FACTION_COVERAGE.json) · [Validation](DELVERS_CREATURE_FACTION_VALIDATION.json) · [Archive](../research/legacy/2026-10-27/delvers-creature-faction-inventory/README.md).
+
+Six current creature profiles and all nine index rows are recorded. All Rat's speech and bargaining require a character-context routing review; the speaking minotaur allies are a community, not bestiary specimens. Flameskull form/Enzo testimony needs a bounded distinction, while the skeletal-bat pilot is retained unless a specific defect is found. Gricks and hook horrors have later inserts against older closing horizons; the index's bat/hatchling summaries lag finale evidence. Individual behavior is not generalized to species rules or intelligence scores.
+
+Fourteen institutional/reference units are routed through existing setting, place and character material, not declared fourteen formal factions. No separate faction directory exists. Guild/Academy, companies, religions/sites, school, Cloven Brotherhood, press, civic rules, research circle, provisional employer context and reasoning communities retain distinct evidence limits. WORLD mixes thematic passages with episode-led inserts and a global S2E04 closing status; it needs later setting/institution reconciliation, not automatic duplication into new faction pages.
+
+The six profiles and full index were read. WORLD review is explicitly partial, with selected institution/source readbacks. Twenty-two patterns searched across all 37 dossiers provide routing candidates, not full factual verification. Seven selected complete primary paragraphs in four dossiers were reviewed; no new original ASR/audio, image/map, sheets, bonus exports or rulebook review occurred.
+
+Four exact pre-edit controls and rebased reading copies are archived; all 366 current-baseline protected files remain unchanged, including subjects/indices, all 20 item pages and refreshed character/place registers. No creature/faction page was added, moved or rewritten. No commit or push by this task.
+
+Next resolve All Rat and speaking-minotaur navigation/routing and reconcile stale bat/hatchling index summaries. Then review gricks/hook horrors, remaining form/source-note issues and WORLD setting/institution material. Final campaign integration and targeted listening remain pending.
+
+### Fifty-first implementation checkpoint — reasoning collectives and finale index routing
+
+**2026-10-27: All Rat canonical character migration, compatibility and bounded navigation/register updates completed.** [Report](../reports/DELVERS_CREATURE_ROUTING_2026-10-27.md) · [Coverage](DELVERS_CREATURE_ROUTING_COVERAGE.json) · [Validation](DELVERS_CREATURE_ROUTING_VALIDATION.json) · [Archive](../research/legacy/2026-10-27/delvers-creature-routing/README.md).
+
+All Rat's speech, bargaining and defense of its claimed sustaining organ are covered once in Characters. The old creature path remains a short compatibility route with its title target. All active Delvers links are normalized except the deliberate canonical-to-compatibility reference; historical archives/reports remain intact. Creature navigation now has seven creature/form rows, with All Rat and the speaking minotaur council routed through character/community context. The council retains its existing place record and Chad Brad biography, not a new duplicate biography for every ally.
+
+The bat summary now includes Evelyn's solo destruction in the finale; the hatchling summary includes Scroungy's later farm role without backdating training or generalizing species behavior. All Rat's organ claim, projected fears, real urn removal and dissolution remain separate; surviving rats are not all killed. All ten minotaur allies become inert bones, not restored flesh.
+
+The character registers add only the new 36th profile while preserving the existing 35 rows. The Black Basilica and urn-set registers receive only targeted link/hash history. The creature inventory receives the recorded routing/index update; other five creature-profile rows and fourteen institutional units remain unchanged. Current character/inventory/place/artifact hashes match 36/36/27/20 pages; this is not a new broad factual audit.
+
+Sixteen exact originals and reading copies are archived; all 359 protected files remain unchanged. Nineteen item profiles and twenty-six place profiles are byte-unchanged; the urn-set and Basilica changes only normalize the canonical reference and associated wording. No source dossier/media, private handout or older audit report is rewritten. No new original ASR/audio/image/map/sheet/rulebook review and no commit/push by this task.
+
+Next reconcile gricks and hook horrors around supported traits and later horizons, then review remaining form/source notes and WORLD setting/institution material. Final campaign integration and targeted listening remain pending.
+
+### Fifty-second implementation checkpoint — gricks and hook horrors
+
+**2026-10-27: two creature accounts reconciled chronologically through later encounters and final supported states.** [Report](../reports/DELVERS_GRICKS_HOOK_HORRORS_2026-10-27.md) · [Coverage](DELVERS_GRICKS_HOOK_HORRORS_COVERAGE.json) · [Validation](DELVERS_GRICKS_HOOK_HORRORS_VALIDATION.json) · [Archive](../research/legacy/2026-10-27/delvers-gricks-hook-horrors/README.md).
+
+Gricks retain the early four-kill scouting report, observed feeding and trap injuries, the city outbreak and stone concealment. The later large specimen's death does not close the population: at least one escapes, and neither the ninety-percent boast nor eventual monster decline proves extinction. Captive workers' provisions remain distinct from species-wide diet.
+
+Hook horrors retain the first adult's death, submitted trophy and second survivor, then the Ball and bank encounters. The bank egg called Samuel hatches at the farm; Scroungy's attachment, feeding, ribbon and return to Krandal's bag precede later tame farm work. Wild adults and the school intruder retain separate outcomes, with no inferred kinship, universal senses or universal taming.
+
+Eight exact originals and reading copies are preserved before editing; 371 protected baseline hashes remain unchanged. Only two creature-profile inventory rows, their index summaries and current queue fields are refreshed. Other four directory rows, fourteen institutional units, WORLD context and existing character/place/item registers are preserved. Selected dossier passages and complete old/new page readbacks support this bounded editorial review; no new audio or original ASR review or full campaign certification.
+
+Next review flameskull/roper form and source-note boundaries, then reconcile WORLD setting/institution material through existing canonical routes. Final campaign integration and targeted listening remain pending.
+
+### Fifty-third implementation checkpoint — flameskull and roper form/source notes
+
+**2026-10-27: bounded polish of two existing creature accounts completed.** [Report](../reports/DELVERS_FORM_POLISH_2026-10-27.md) · [Coverage](DELVERS_FORM_POLISH_COVERAGE.json) · [Validation](DELVERS_FORM_POLISH_VALIDATION.json) · [Archive](../research/legacy/2026-10-27/delvers-form-polish/README.md).
+
+The flameskull retains its observed fire, patrol, destruction and consecration. Enzo's immortality explanation remains testimony, with personal history routed to his biography. The early holy-water supply balance moves into its source note, while the closing status concerns the destroyed skull and uncertain reflection. The roper retains stone appearance, grasping/bite, eye vulnerability, piercer-producing opening and death. Survival of some piercers, the swallowed cultist's unconfirmed death and later reuse of the collapse hole remain distinct from other ropers and the later land renewal. No general taxonomy, regeneration cycle, intelligence score or universal reproductive rule is invented.
+
+Eight pre-edit originals and reading copies are preserved; 374 protected hashes remain unchanged. Only these two creature inventory rows, their index summaries and current progress fields are refreshed. The other four directory rows, fourteen institutional units, WORLD context, character/place/item registers and prior grick/hook batch remain unchanged. This is selected-dossier editorial reconciliation, not new audio or full campaign certification. The bat pilot is retained without a forced rewrite; index-only candidates and final integration remain pending.
+
+Next reconcile WORLD setting/institution material through existing canonical routes, separating stated policy, observed practice and later civic changes. Targeted listening remains separate.
+
+### Fifty-fourth implementation checkpoint — WORLD civic institutions
+
+**2026-10-27: partial thematic reconciliation of WORLD's guild, Academy, Silver City, newspaper and closing state completed.** [Report](../reports/DELVERS_CIVIC_INSTITUTIONS_2026-10-27.md) · [Coverage](DELVERS_CIVIC_INSTITUTIONS_COVERAGE.json) · [Validation](DELVERS_CIVIC_INSTITUTIONS_VALIDATION.json) · [Archive](../research/legacy/2026-10-27/delvers-civic-institutions/README.md).
+
+An Introduction now frames the city's relationship to organized adventuring. Five existing sections are reconciled; the other fifteen section bodies remain verbatim for later review. Guild employment and patronage, central funding refusal, licensed dungeon economy and the press's role are subject-focused, with source identifiers and interpretation cautions in footnotes. The old burglary cutoff is retained as historical source-note detail rather than the final world state. Twenty-three former source notes and old heading targets remain available.
+
+Announcements, actual C4 permission and continuing grounding remain distinct. Zoltar's private profit acknowledgment is not a proved Academy-wide vote or conspiracy. The reporter's confinement lead is corroborated by Cassius's release, while book publication and wider allegations remain unresolved. Both rescue circles, Khalazar's actual defeat and the played recovery year inform Current status; no complete captive count, municipal rebuilding, licence repeal or Academy reform is invented.
+
+Six exact pre-edit originals and reading copies are preserved; 379 protected baseline hashes remain unchanged. WORLD context and only four institutional rows receive bounded synthesis history; other ten rows, all six creature-directory rows, the creature index and character/place/item registers are unchanged. The canonical guild, Academy, governor's hall and reporter pages are used as context without being rewritten or certified anew. No new audio/original ASR review, full faction audit, commit or push.
+
+Next reconcile WORLD technology, faith, communities and buried-history sections through existing subject routes; the remaining ten institutional contexts, index-only creatures and final integration remain pending. Targeted listening remains separate.
+
+### Fifty-fifth implementation checkpoint — WORLD technology, faith and communities
+
+**2026-10-27: three WORLD sections reconciled and one supported community section added.** [Report](../reports/DELVERS_FAITH_COMMUNITIES_2026-10-27.md) · [Coverage](DELVERS_FAITH_COMMUNITIES_COVERAGE.json) · [Validation](DELVERS_FAITH_COMMUNITIES_VALIDATION.json) · [Archive](../research/legacy/2026-10-27/delvers-faith-communities/README.md).
+
+The 1880-like comparison is retained in the creator-commentary note, without an in-world year or universal steam/electricity ban. Main prose describes technologies actually encountered. Kord's trials/cleansing and House's origin story remain distinct; Pelor care distinguishes ordinary relief, psychic curse-breaking and shallower compulsion without certifying one cure for every patient. The lakeshore village retains independent people, beliefs and a later exile report without an invented revisit. Spa hospitality and the council's voluntary alliance have separate institutional/community outcomes; all ten minotaurs find final rest as bones, not flesh resurrection.
+
+Eighteen existing section bodies remain verbatim, including all six reconciled in the civic pass. Ten current sections now have bounded thematic synthesis; twelve historical bodies remain queued. All thirty-two previous source-note keys and former heading targets survive. Six exact originals and reading copies are archived, and 382 protected baseline hashes remain unchanged. Only five additional institutional rows receive WORLD synthesis history; the prior four, remaining five, all creature rows/index and character/place/item registers are unchanged. No new canonical page, source export, audio review, full institution audit, commit or push.
+
+Next reconcile WORLD's twelve remaining historical sections and five institutional contexts, then review index-only creature candidates and final campaign integration. Targeted listening remains separate.
+
+### Fifty-sixth implementation checkpoint — WORLD buried infrastructure and companies
+
+**2026-10-27: six existing WORLD sections reconciled through supported site/history horizons.** [Report](../reports/DELVERS_BURIED_INFRASTRUCTURE_2026-10-27.md) · [Coverage](DELVERS_BURIED_INFRASTRUCTURE_COVERAGE.json) · [Validation](DELVERS_BURIED_INFRASTRUCTURE_VALIDATION.json) · [Archive](../research/legacy/2026-10-27/delvers-buried-infrastructure/README.md).
+
+The farm cave, forest defenses, public companies, Enzo Keep, wells and buried architecture now explain local functions and changed understanding. The forest entrance includes later repaired crossings/disabled traps without naming unproved builders. The five named guild companies retain separate assignments and are distinct from the Cloven Brotherhood. Enzo's warning and Carrie's historical interpretation remain attributed; later physical Dunes entry does not verify every origin or prediction. Local plugs do not establish complete clearance, tested drinking water or the answer to the separate covered temple shaft.
+
+Sixteen other section bodies remain verbatim, including all ten earlier reconciled sections. Sixteen current sections now have bounded synthesis, leaving six historical bodies queued. All thirty-seven former source-note keys and old heading targets survive; two renamed headings retain explicit anchors. Six exact originals and reading copies are archived; 385 protected baseline hashes remain unchanged. Only the companies row gains an additional WORLD synthesis history. Other thirteen institutional rows, all creature rows/index and character/place/item registers are unchanged. This is not a full institutional or sentence-level source audit. No new audio, source exports, commit or push.
+
+Next reconcile WORLD's six remaining historical sections and four institutional contexts: the school, Cloven Brotherhood, Noble Hollow research circle and Gemholm management. Then review index-only creatures and final campaign integration. Targeted listening remains separate.

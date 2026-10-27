@@ -1,24 +1,27 @@
 {
   "date": "2026-10-27",
-  "scope": "Six creature-directory paths, seven index rows and fourteen institutional/reference units; bounded creature and partial WORLD civic/faith/community/infrastructure synthesis recorded",
+  "scope": "Eight creature-directory paths (seven subject profiles and one compatibility route), seven linked creature index rows and fourteen institutional/reference units; final campaign integration/source listening pending",
   "baseline": {
     "branch": "main",
     "head": "5bd18ad",
     "initial_working_tree": "clean"
   },
   "counts": {
-    "creature_profiles": 5,
+    "creature_profiles": 7,
     "creature_index_rows": 7,
-    "index_only_creature_candidates": 2,
+    "index_only_creature_candidates": 0,
     "index_reasoning_community_route": 0,
     "institutional_reference_units": 14,
     "formal_faction_directory": false,
     "subject_rewrites": 5,
-    "creature_directory_paths": 6,
+    "creature_directory_paths": 8,
     "compatibility_routes": 1,
     "new_character_profiles": 1,
-    "world_sections_reconciled": 16,
-    "institutional_world_syntheses": 10
+    "world_sections_reconciled": 24,
+    "institutional_world_syntheses": 14,
+    "world_presentation_sections_pending": 0,
+    "institutional_world_contexts_pending": 0,
+    "new_creature_profiles": 2
   },
   "review_limits": [
     "Six full current creature pages and full nine-row index read",
@@ -33,7 +36,9 @@
     "Subsequent flameskull/roper polish: two full pages and selected source/context readbacks; other four directory rows, WORLD context and fourteen institutional units unchanged. Bat pilot retained; index-only candidates not thereby certified.",
     "Subsequent WORLD civic pass: new Introduction and five reconciled sections; fifteen other section bodies unchanged. Four institutional rows record synthesis only, not a full faction or canonical-page re-audit.",
     "Subsequent faith/community pass: three existing WORLD sections plus one new supported section; eighteen other bodies unchanged, including six civic sections. Five more institutional rows record WORLD synthesis only; twelve historical sections and five contexts remain pending.",
-    "Subsequent infrastructure pass: six WORLD sections and companies context only; sixteen other section bodies and thirteen other institutional rows unchanged. Six historical sections/four institutional contexts remain pending."
+    "Subsequent infrastructure pass: six WORLD sections and companies context only; sixteen other section bodies and thirteen other institutional rows unchanged. Six historical sections/four institutional contexts remain pending.",
+    "Subsequent WORLD histories pass: six old sections plus supported school/Gemholm sections and four additional institutional synthesis histories. All 24 current sections and fourteen contexts have bounded presentation coverage, not full factual/institution audits; sixteen earlier bodies and ten other unit rows unchanged.",
+    "Subsequent candidate publication adds two bounded pages from selected dossier paragraphs and canonical context; six previous directory rows, WORLD context and fourteen institutional rows unchanged. Search hits are review routing, not exhaustive identity or factual certification."
   ],
   "creature_profiles": [
     {
@@ -777,27 +782,183 @@
         }
       ],
       "review_method": "Full current page read; inventory/routing, not full factual/audio certification"
+    },
+    {
+      "path": "delvers/world/creatures/triangle-gate-mummies.md",
+      "sha256": "8c8f991f6f2b952393ab1cf8a835a66f8ed1ce236b7fdb6dcd6029bc067e878e",
+      "h1": "Ancient mummies of the triangle-gate catacombs",
+      "disposition": "bounded-unnamed-monstrous-form-account",
+      "priority": "completed-P2",
+      "next_action": "Retain source and individual/form limits; unresolved listening remains separate",
+      "supported_horizon": "S3E06 combat/retreat; S3E11 gate visit, no final tomb survey",
+      "retained_limit": "No full former identities, exact population, universal anatomy or intelligence ruling",
+      "main_sections": [
+        "Introduction",
+        "Occupants behind the spiral doors",
+        "Current status"
+      ],
+      "main_prose_words": 194,
+      "anchors": [
+        "ancient-mummies-of-the-triangle-gate-catacombs",
+        "introduction",
+        "occupants-behind-the-spiral-doors",
+        "current-status"
+      ],
+      "structural_findings": [],
+      "candidate_alias_regex": "\\bmumm(?:y|ies)\\b|mummified",
+      "candidate_mentions": [
+        {
+          "dossier": "delvers/episodes/S2E04.md",
+          "lines": [
+            21,
+            22,
+            47
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S3E01.md",
+          "lines": [
+            52
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S3E02.md",
+          "lines": [
+            1,
+            3,
+            5,
+            30,
+            46
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S3E05.md",
+          "lines": [
+            51
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S3E06.md",
+          "lines": [
+            5,
+            27,
+            28,
+            29,
+            41,
+            47
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S3E07.md",
+          "lines": [
+            39
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S3E11.md",
+          "lines": [
+            9,
+            13,
+            17,
+            28,
+            33
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S3E12.md",
+          "lines": [
+            18,
+            19
+          ]
+        }
+      ],
+      "review_method": "Selected complete dossier passages, alias search across 37 dossiers and canonical context; no new original ASR/audio, maps, sheets or rulebook review",
+      "bounded_addition": {
+        "date": "2026-10-27",
+        "report": "reports/DELVERS_CREATURE_CANDIDATES_2026-10-27.md",
+        "previous_scope": "Index-only candidate; old synopsis preserved in exact index archive"
+      }
+    },
+    {
+      "path": "delvers/world/creatures/dungeon-c4-behir.md",
+      "sha256": "f93092b8d5b4b6d8becd03a10268f40ce7bc17246b5cb0db6a73fb4624ac2280",
+      "h1": "The behir of Dungeon C4",
+      "disposition": "bounded-individual-predator-account",
+      "priority": "completed-P2",
+      "next_action": "Retain source and individual/form limits; unresolved listening remains separate",
+      "supported_horizon": "S3E04 death and closing narrated C4 exit",
+      "retained_limit": "Immunity is testimony; no arm restoration, ceiling-creature identity or whole-C4 clearance",
+      "main_sections": [
+        "Introduction",
+        "A hunter among the missing",
+        "Current status"
+      ],
+      "main_prose_words": 223,
+      "anchors": [
+        "the-behir-of-dungeon-c4",
+        "introduction",
+        "a-hunter-among-the-missing",
+        "current-status"
+      ],
+      "structural_findings": [],
+      "candidate_alias_regex": "\\bbehir\\b|behi\\(r\\)",
+      "candidate_mentions": [
+        {
+          "dossier": "delvers/episodes/S2E00.md",
+          "lines": [
+            24
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S2E09.md",
+          "lines": [
+            28
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S3E04.md",
+          "lines": [
+            5,
+            7,
+            29,
+            31,
+            34,
+            35,
+            36,
+            37,
+            43,
+            47,
+            52
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S3E05.md",
+          "lines": [
+            43
+          ]
+        }
+      ],
+      "review_method": "Selected complete dossier passages, alias search across 37 dossiers and canonical context; no new original ASR/audio, maps, sheets or rulebook review",
+      "bounded_addition": {
+        "date": "2026-10-27",
+        "report": "reports/DELVERS_CREATURE_CANDIDATES_2026-10-27.md",
+        "previous_scope": "Index-only candidate; old synopsis preserved in exact index archive"
+      }
     }
   ],
   "creature_index": {
     "path": "delvers/world/CREATURES_AND_MONSTERS.md",
-    "sha256": "3b51398cedd95632bf2246c1980ad598493b522fb59655b0a1aa8c44904cbdfc",
+    "sha256": "8a67bd27da560993a248f9fd6d4417a0f8aeb292f1b104b65e6aeeebbc86ea13",
     "rows": [
       {
-        "label": "Ancient mummified elves of the triangle-gate catacombs",
-        "disposition": "index-only monstrous-form candidate",
-        "findings": [
-          "Compact source-heavy synopsis while retaining evidence",
-          "No species-wide intelligence/origin or erased victim identity inferred"
-        ]
+        "label": "[Ancient catacomb mummies](creatures/triangle-gate-mummies.md)",
+        "disposition": "linked current creature profile",
+        "findings": []
       },
       {
-        "label": "Behi(r) of Dungeon C4",
-        "disposition": "index-only individual predator candidate",
-        "findings": [
-          "Compact source-heavy synopsis while retaining evidence",
-          "Spelling and unidentified ceiling creatures remain separate"
-        ]
+        "label": "[Dungeon C4 behir](creatures/dungeon-c4-behir.md)",
+        "disposition": "linked current creature profile",
+        "findings": []
       },
       {
         "label": "[Hook horrors](creatures/hook-horrors.md)",
@@ -879,7 +1040,14 @@
             19
           ]
         }
-      ]
+      ],
+      "bounded_resolution": {
+        "date": "2026-10-27",
+        "disposition": "published-bounded-subject",
+        "path": "delvers/world/creatures/triangle-gate-mummies.md",
+        "report": "reports/DELVERS_CREATURE_CANDIDATES_2026-10-27.md",
+        "search_history_retained": true
+      }
     },
     {
       "label": "Behi(r) of Dungeon C4",
@@ -919,12 +1087,19 @@
             43
           ]
         }
-      ]
+      ],
+      "bounded_resolution": {
+        "date": "2026-10-27",
+        "disposition": "published-bounded-subject",
+        "path": "delvers/world/creatures/dungeon-c4-behir.md",
+        "report": "reports/DELVERS_CREATURE_CANDIDATES_2026-10-27.md",
+        "search_history_retained": true
+      }
     }
   ],
   "world_context": {
     "path": "delvers/world/WORLD.md",
-    "sha256": "714886a2fe93178f605587f60fc3c184f860e3c15422619bdb06eea85179d41b",
+    "sha256": "99de32da9c9cba672f9b80d0585773e3c67fe223dba908fed4b6d70c14edc4b3",
     "sections": [
       "Introduction",
       "Magic, craft and the wider kingdom",
@@ -947,6 +1122,8 @@
       "The wedding protected",
       "Beneath the financial quarter",
       "The vault beneath Withers",
+      "Education and public duty",
+      "Gemholm and experimental exploitation",
       "Current status"
     ],
     "reviewed_sections": [
@@ -965,21 +1142,22 @@
       "The buried city and its forgotten sounds",
       "A living shore and a submerged faith",
       "Hospitality and alliance below",
-      "Current status"
-    ],
-    "not_fully_reviewed_sections": [
       "The collectors from the marsh",
       "The broken rite at Noble Hollow",
       "The fortnight no one remembers",
       "The wedding protected",
       "Beneath the financial quarter",
-      "The vault beneath Withers"
+      "The vault beneath Withers",
+      "Education and public duty",
+      "Gemholm and experimental exploitation",
+      "Current status"
     ],
+    "not_fully_reviewed_sections": [],
     "findings": [
-      "Sixteen current sections have bounded synthesis; six historical section bodies remain queued",
-      "Local closure, physical traversed routes and attributed historical accounts remain distinct",
-      "Remaining scenes concern marsh collectors, Noble Hollow rite, missing fortnight, wedding and Withers mansion",
-      "Four remaining institutional contexts are school, Cloven Brotherhood, Noble Hollow research circle and Gemholm management"
+      "All 24 current sections have bounded thematic presentation coverage across recorded batches",
+      "No remaining old section body is queued for initial presentation reconciliation",
+      "Campaign integration, two index-only creature candidates and targeted listening/source uncertainties remain open",
+      "Institutional synthesis is not a complete charter, roster, judicial, corporate or sentence-level factual audit"
     ],
     "bounded_reconciliations": [
       {
@@ -1176,15 +1354,90 @@
             "Hospitality and alliance below"
           ]
         }
+      },
+      {
+        "date": "2026-10-27",
+        "report": "reports/DELVERS_WORLD_HISTORIES_2026-10-27.md",
+        "scope": "Final six old histories and two supported new sections only",
+        "previous_inventory_context": {
+          "path": "delvers/world/WORLD.md",
+          "sha256": "714886a2fe93178f605587f60fc3c184f860e3c15422619bdb06eea85179d41b",
+          "sections": [
+            "Introduction",
+            "Magic, craft and the wider kingdom",
+            "Adventuring as organized work",
+            "The Guild's faraway rulers",
+            "Silver City and licensed exploration",
+            "Journalism and the dungeon economy",
+            "Caverns and the Underdark",
+            "Devotion and the strength of the living",
+            "Forest ruins and old defenses",
+            "Service and a wider city",
+            "Enzo Keep and the warning below",
+            "A city listening to its wells",
+            "The buried city and its forgotten sounds",
+            "A living shore and a submerged faith",
+            "Hospitality and alliance below",
+            "The collectors from the marsh",
+            "The broken rite at Noble Hollow",
+            "The fortnight no one remembers",
+            "The wedding protected",
+            "Beneath the financial quarter",
+            "The vault beneath Withers",
+            "Current status"
+          ],
+          "reviewed_sections": [
+            "Introduction",
+            "Magic, craft and the wider kingdom",
+            "Adventuring as organized work",
+            "The Guild's faraway rulers",
+            "Silver City and licensed exploration",
+            "Journalism and the dungeon economy",
+            "Caverns and the Underdark",
+            "Devotion and the strength of the living",
+            "Forest ruins and old defenses",
+            "Service and a wider city",
+            "Enzo Keep and the warning below",
+            "A city listening to its wells",
+            "The buried city and its forgotten sounds",
+            "A living shore and a submerged faith",
+            "Hospitality and alliance below",
+            "Current status"
+          ],
+          "not_fully_reviewed_sections": [
+            "The collectors from the marsh",
+            "The broken rite at Noble Hollow",
+            "The fortnight no one remembers",
+            "The wedding protected",
+            "Beneath the financial quarter",
+            "The vault beneath Withers"
+          ],
+          "findings": [
+            "Sixteen current sections have bounded synthesis; six historical section bodies remain queued",
+            "Local closure, physical traversed routes and attributed historical accounts remain distinct",
+            "Remaining scenes concern marsh collectors, Noble Hollow rite, missing fortnight, wedding and Withers mansion",
+            "Four remaining institutional contexts are school, Cloven Brotherhood, Noble Hollow research circle and Gemholm management"
+          ],
+          "last_batch_reviewed_sections": [
+            "Caverns and the Underdark",
+            "Forest ruins and old defenses",
+            "Service and a wider city",
+            "Enzo Keep and the warning below",
+            "A city listening to its wells",
+            "The buried city and its forgotten sounds"
+          ]
+        }
       }
     ],
     "last_batch_reviewed_sections": [
-      "Caverns and the Underdark",
-      "Forest ruins and old defenses",
-      "Service and a wider city",
-      "Enzo Keep and the warning below",
-      "A city listening to its wells",
-      "The buried city and its forgotten sounds"
+      "The collectors from the marsh",
+      "The broken rite at Noble Hollow",
+      "The fortnight no one remembers",
+      "The wedding protected",
+      "Beneath the financial quarter",
+      "The vault beneath Withers",
+      "Education and public duty",
+      "Gemholm and experimental exploitation"
     ]
   },
   "institutional_reference_units": [
@@ -2375,7 +2628,15 @@
           ]
         }
       ],
-      "review_method": "Routing inventory; WORLD/character index and selected institution introductions/status, not complete faction history"
+      "review_method": "Routing inventory; WORLD/character index and selected institution introductions/status, not complete faction history",
+      "bounded_world_reviews": [
+        {
+          "date": "2026-10-27",
+          "report": "reports/DELVERS_WORLD_HISTORIES_2026-10-27.md",
+          "scope": "WORLD synthesis and selected canonical context/source readbacks only; no full institutional re-audit",
+          "canonical_routes_unchanged": true
+        }
+      ]
     },
     {
       "id": "cloven",
@@ -2491,7 +2752,15 @@
           ]
         }
       ],
-      "review_method": "Routing inventory; WORLD/character index and selected institution introductions/status, not complete faction history"
+      "review_method": "Routing inventory; WORLD/character index and selected institution introductions/status, not complete faction history",
+      "bounded_world_reviews": [
+        {
+          "date": "2026-10-27",
+          "report": "reports/DELVERS_WORLD_HISTORIES_2026-10-27.md",
+          "scope": "WORLD synthesis and selected canonical context/source readbacks only; no full institutional re-audit",
+          "canonical_routes_unchanged": true
+        }
+      ]
     },
     {
       "id": "daily-quest",
@@ -2824,7 +3093,15 @@
           ]
         }
       ],
-      "review_method": "Routing inventory; WORLD/character index and selected institution introductions/status, not complete faction history"
+      "review_method": "Routing inventory; WORLD/character index and selected institution introductions/status, not complete faction history",
+      "bounded_world_reviews": [
+        {
+          "date": "2026-10-27",
+          "report": "reports/DELVERS_WORLD_HISTORIES_2026-10-27.md",
+          "scope": "WORLD synthesis and selected canonical context/source readbacks only; no full institutional re-audit",
+          "canonical_routes_unchanged": true
+        }
+      ]
     },
     {
       "id": "gemholm-employer",
@@ -2887,7 +3164,15 @@
           ]
         }
       ],
-      "review_method": "Routing inventory; WORLD/character index and selected institution introductions/status, not complete faction history"
+      "review_method": "Routing inventory; WORLD/character index and selected institution introductions/status, not complete faction history",
+      "bounded_world_reviews": [
+        {
+          "date": "2026-10-27",
+          "report": "reports/DELVERS_WORLD_HISTORIES_2026-10-27.md",
+          "scope": "WORLD synthesis and selected canonical context/source readbacks only; no full institutional re-audit",
+          "canonical_routes_unchanged": true
+        }
+      ]
     },
     {
       "id": "minotaur-community",
@@ -3326,13 +3611,8 @@
   "next_batches": [
     {
       "priority": "P2",
-      "scope": "WORLD six remaining historical sections and four contexts: school, Cloven Brotherhood, Noble Hollow research circle, Gemholm management",
-      "limits": "Preserve reports, private knowledge and unresolved sponsorship; use canonical subject routes"
-    },
-    {
-      "priority": "P2",
-      "scope": "Index-only creature candidates and final campaign integration",
-      "limits": "Existing passes do not certify remaining candidates; targeted listening remains separate"
+      "scope": "Final Delvers campaign integration across narrative/world/navigation/progress",
+      "limits": "Existing presentation coverage does not certify every fact or close unresolved source/listening questions"
     }
   ],
   "reviewed_route_sections": [
@@ -3513,6 +3793,50 @@
         "new_character_profiles": 1,
         "world_sections_reconciled": 10,
         "institutional_world_syntheses": 9
+      }
+    },
+    {
+      "date": "2026-10-27",
+      "report": "reports/DELVERS_WORLD_HISTORIES_2026-10-27.md",
+      "scope": "WORLD context, four remaining institutional synthesis histories and current counts/limits/queue only",
+      "unchanged_creature_directory_rows": 6,
+      "unchanged_institutional_reference_units": 10,
+      "previous_counts": {
+        "creature_profiles": 5,
+        "creature_index_rows": 7,
+        "index_only_creature_candidates": 2,
+        "index_reasoning_community_route": 0,
+        "institutional_reference_units": 14,
+        "formal_faction_directory": false,
+        "subject_rewrites": 5,
+        "creature_directory_paths": 6,
+        "compatibility_routes": 1,
+        "new_character_profiles": 1,
+        "world_sections_reconciled": 16,
+        "institutional_world_syntheses": 10
+      }
+    },
+    {
+      "date": "2026-10-27",
+      "report": "reports/DELVERS_CREATURE_CANDIDATES_2026-10-27.md",
+      "scope": "Two added profiles, two resolved candidate searches and their index rows/hash/counts/current queue only",
+      "unchanged_existing_creature_directory_rows": 6,
+      "unchanged_institutional_reference_units": 14,
+      "previous_counts": {
+        "creature_profiles": 5,
+        "creature_index_rows": 7,
+        "index_only_creature_candidates": 2,
+        "index_reasoning_community_route": 0,
+        "institutional_reference_units": 14,
+        "formal_faction_directory": false,
+        "subject_rewrites": 5,
+        "creature_directory_paths": 6,
+        "compatibility_routes": 1,
+        "new_character_profiles": 1,
+        "world_sections_reconciled": 24,
+        "institutional_world_syntheses": 14,
+        "world_presentation_sections_pending": 0,
+        "institutional_world_contexts_pending": 0
       }
     }
   ]

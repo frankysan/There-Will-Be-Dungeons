@@ -1,0 +1,69 @@
+{
+  "date": "2026-10-27",
+  "scope": "Two bounded creature/form additions, not a full category factual audit",
+  "local_file_and_fragment_links": 1659,
+  "maintained_inbound_links": 61,
+  "former_headings_preserved": 91,
+  "exact_original_hashes": 6,
+  "reading_copy_target_equivalence": 6,
+  "protected_hashes": 391,
+  "registry_checks": [
+    {
+      "registry": "DELVERS_CHARACTER_DISPOSITIONS",
+      "rows": 36,
+      "matching_page_hashes": 36
+    },
+    {
+      "registry": "DELVERS_CHARACTER_INVENTORY",
+      "rows": 36,
+      "matching_page_hashes": 36
+    },
+    {
+      "registry": "DELVERS_PLACE_DISPOSITIONS",
+      "rows": 27,
+      "matching_page_hashes": 27
+    },
+    {
+      "registry": "DELVERS_ARTIFACT_DISPOSITIONS",
+      "rows": 20,
+      "matching_page_hashes": 20
+    }
+  ],
+  "unchanged_existing_creature_rows": 6,
+  "matching_creature_directory_hashes": 8,
+  "unchanged_institutional_units": 14,
+  "WORLD_context_unchanged": true,
+  "linked_creature_index_rows": 7,
+  "remaining_index_only_candidates": 0,
+  "new_subjects": [
+    {
+      "path": "delvers/world/creatures/triangle-gate-mummies.md",
+      "main_words": 194,
+      "footnotes": 4,
+      "anchors": 4
+    },
+    {
+      "path": "delvers/world/creatures/dungeon-c4-behir.md",
+      "main_words": 223,
+      "footnotes": 5,
+      "anchors": 4
+    }
+  ],
+  "errors": [],
+  "limits": [
+    "Selected dossier/canonical context and routing searches; no new audio/original ASR, maps, sheets, bonus exports, rulebook, remote URL or rendered-site review",
+    "No automatic intelligence, origin, universal traits, exact tomb population or complete C4 clearance"
+  ],
+  "status": "passed",
+  "markdownlint": {
+    "maintained_files": 8,
+    "violations": 0
+  },
+  "whitespace": {
+    "scoped_git_diff_check": "passed",
+    "direct_new_file_check": "passed",
+    "checked_new_files": 13
+  },
+  "manual_readback": "Complete two new pages and source notes, changed index summaries and portal routes. Old index synopsis coverage, canonical catacomb context, selected dossier passages and narrowly changed inventory fields reviewed.",
+  "working_tree_context": "Prior WORLD histories changes and concurrent Wastes progress/index-report work preserved; no commit or push by this task."
+}

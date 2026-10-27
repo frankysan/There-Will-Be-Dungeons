@@ -119,6 +119,10 @@ The [faith/community checkpoint](../../reports/DELVERS_FAITH_COMMUNITIES_2026-10
 
 The [buried-infrastructure checkpoint](../../reports/DELVERS_BURIED_INFRASTRUCTURE_2026-10-27.md) continues [WORLD](WORLD.md) through six cave, forest, company, keep and well sections. Local seals, later forest repairs and attributed ancient-history accounts remain distinct; six historical sections and four institutional contexts remain queued.
 
+The [WORLD histories checkpoint](../../reports/DELVERS_WORLD_HISTORIES_2026-10-27.md) covers the final six older histories and adds supported school/Gemholm summaries. All 24 current [WORLD](WORLD.md) sections and fourteen institutional contexts now have bounded presentation coverage. Source uncertainties, index-only creatures and final campaign integration remain open.
+
+The [creature-candidate checkpoint](../../reports/DELVERS_CREATURE_CANDIDATES_2026-10-27.md) gives the catacomb mummies and C4 behir bounded subject accounts. All seven creature/form index rows now link to profiles; reasoning figures retain separate character context. Final campaign integration and source/listening questions remain open.
+
 ## Subject directory
 
 ### People
@@ -215,6 +219,8 @@ The [buried-infrastructure checkpoint](../../reports/DELVERS_BURIED_INFRASTRUCTU
 
 ### Creatures
 
+- [Ancient mummies of the triangle-gate catacombs](creatures/triangle-gate-mummies.md)
+- [The behir of Dungeon C4](creatures/dungeon-c4-behir.md)
 - [Flameskull — the restless guardian of Skull Keep](creatures/flameskull.md)
 - [Gricks](creatures/gricks.md)
 - [Hook horrors — hunters of the underground passages](creatures/hook-horrors.md)

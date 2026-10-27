@@ -4,8 +4,8 @@ The woodland, buried ruins and distant mountain keeps around the guild's city sh
 
 | Creature | Nature and place in the world |
 | --- | --- |
-| Ancient mummified elves of the triangle-gate catacombs | **Several fight the Delvers in [S3E06](../episodes/S3E06.md)** after rune-tombs spiral open; bodies ancient, surgically hollowed, **Krandal Turns Undead but does not instantly destroy them**. Multiple killed and party retreats; exact total/magic origins require recording/map check |
-| Behi(r) of Dungeon C4 | Long many-legged lightning-breathing cavern predator **killed by Krandal's Spiritual Weapon in [S3E04](../episodes/S3E04.md)**. Its attack kills no observed Delver; earlier victim testimony says it squeezes prey and is lightning-immune. Unrelated unidentified sticky ceiling ropes/pale crab-like beings are **not proven part of behir**. |
+| [Ancient catacomb mummies](creatures/triangle-gate-mummies.md) | Desiccated elven occupants of spiral tombs, some wielding restraint and concealment. Several awakened attackers are destroyed; many closures remain unexplored.[^catacomb-forms] |
+| [Dungeon C4 behir](creatures/dungeon-c4-behir.md) | Many-legged, lightning-breathing cavern hunter with a constricting body. Krandal's summoned mace kills this specimen.[^behir-specimen] |
 | [Hook horrors](creatures/hook-horrors.md) | Beaked, hook-armed hunters of the deep tunnels. Wild adults retain their separate fates, while Krandal's hatchling Scroungy becomes a tame farm beast of burden.[^hook-later] |
 | [Skeletal bat of Dawnless Dunes](creatures/skeletal-bat-balcony.md) | A giant bat skeleton enclosed by shadowy skin and fitted with a harness. Evelyn draws it away from the pyramid and destroys it in the dunes.[^bat-end] |
 | [Gricks](creatures/gricks.md) | Scaled, grasping predators of the forest ruins and underground chambers, sometimes hidden among stone. The great wind-chamber specimen is killed, but others escape.[^grick-later] |
@@ -26,3 +26,6 @@ Reasoning collectives and communities are routed through [Characters](CHARACTERS
 
 [^roper-form]: [S1E12](../episodes/S1E12.md), ~02:00–02:50, shows this individual's piercer production and death. It is not established as the intended summoned lake beast. Later ropers are separate encounters, and the later Hollow route/fertility does not establish brood eradication.
 [^skull-form]: [S1E06](../episodes/S1E06.md), ~02:14–03:03: Enzo's divided-mind explanation is testimony; the skull's destruction and consecration are observed. His quiet reflection remains intact with uncertain awareness. [Enzo's biography](characters/enzo-vanderbuck-withers.md) retains reasoning agency and personal history; no species-wide intelligence or regeneration rules are inferred.
+
+[^catacomb-forms]: [S3E06](../episodes/S3E06.md), ~01:06–02:07, supplies one examined hollowed body, progressively opened niches, magical attacks and retreat. No exact population or uniform anatomy/intelligence is inferred. The reasoning architect [Shaolin Nym](characters/shaolin-nym.md), Khalazar and the speaking farm attacker retain separate context; later gate use and pyramid collapse do not clear every tomb.
+[^behir-specimen]: [S3E04](../episodes/S3E04.md), ~01:36–01:44 and ~02:10–02:55. Lightning breath, bite/constriction and death are observed; lightning immunity is dead-victim testimony. Iron Monkey survives an arm lost; the ceiling strands/pale crab-like forms remain separate. No general species rules or complete C4 clearance is asserted.

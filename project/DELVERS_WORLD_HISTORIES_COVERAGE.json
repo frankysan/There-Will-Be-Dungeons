@@ -1,0 +1,668 @@
+{
+  "date": "2026-10-27",
+  "scope": "Six remaining WORLD histories and four institutional contexts; two supported sections added",
+  "headings": [
+    {
+      "path": "delvers/world/WORLD.md",
+      "old_anchor": "delvers--guild-society-and-the-world-below",
+      "disposition": "Existing heading retained"
+    },
+    {
+      "path": "delvers/world/WORLD.md",
+      "old_anchor": "introduction",
+      "disposition": "Existing heading retained"
+    },
+    {
+      "path": "delvers/world/WORLD.md",
+      "old_anchor": "magic-craft-and-the-wider-kingdom",
+      "disposition": "Existing heading retained"
+    },
+    {
+      "path": "delvers/world/WORLD.md",
+      "old_anchor": "adventuring-as-organized-work",
+      "disposition": "Existing heading retained"
+    },
+    {
+      "path": "delvers/world/WORLD.md",
+      "old_anchor": "the-guilds-faraway-rulers",
+      "disposition": "Existing heading retained"
+    },
+    {
+      "path": "delvers/world/WORLD.md",
+      "old_anchor": "silver-city-and-licensed-exploration",
+      "disposition": "Existing heading retained"
+    },
+    {
+      "path": "delvers/world/WORLD.md",
+      "old_anchor": "journalism-and-the-dungeon-economy",
+      "disposition": "Existing heading retained"
+    },
+    {
+      "path": "delvers/world/WORLD.md",
+      "old_anchor": "caverns-and-the-underdark",
+      "disposition": "Existing heading retained"
+    },
+    {
+      "path": "delvers/world/WORLD.md",
+      "old_anchor": "devotion-and-the-strength-of-the-living",
+      "disposition": "Existing heading retained"
+    },
+    {
+      "path": "delvers/world/WORLD.md",
+      "old_anchor": "forest-ruins-and-old-defenses",
+      "disposition": "Existing heading retained"
+    },
+    {
+      "path": "delvers/world/WORLD.md",
+      "old_anchor": "service-and-a-wider-city",
+      "disposition": "Existing heading retained"
+    },
+    {
+      "path": "delvers/world/WORLD.md",
+      "old_anchor": "enzo-keep-and-the-warning-below",
+      "disposition": "Existing heading retained"
+    },
+    {
+      "path": "delvers/world/WORLD.md",
+      "old_anchor": "a-city-listening-to-its-wells",
+      "disposition": "Existing heading retained"
+    },
+    {
+      "path": "delvers/world/WORLD.md",
+      "old_anchor": "the-buried-city-and-its-forgotten-sounds",
+      "disposition": "Existing heading retained"
+    },
+    {
+      "path": "delvers/world/WORLD.md",
+      "old_anchor": "a-living-shore-and-a-submerged-faith",
+      "disposition": "Existing heading retained"
+    },
+    {
+      "path": "delvers/world/WORLD.md",
+      "old_anchor": "hospitality-and-alliance-below",
+      "disposition": "Existing heading retained"
+    },
+    {
+      "path": "delvers/world/WORLD.md",
+      "old_anchor": "the-collectors-from-the-marsh",
+      "disposition": "Existing heading retained"
+    },
+    {
+      "path": "delvers/world/WORLD.md",
+      "old_anchor": "the-broken-rite-at-noble-hollow",
+      "disposition": "Existing heading retained"
+    },
+    {
+      "path": "delvers/world/WORLD.md",
+      "old_anchor": "the-fortnight-no-one-remembers",
+      "disposition": "Existing heading retained"
+    },
+    {
+      "path": "delvers/world/WORLD.md",
+      "old_anchor": "the-wedding-protected",
+      "disposition": "Existing heading retained"
+    },
+    {
+      "path": "delvers/world/WORLD.md",
+      "old_anchor": "beneath-the-financial-quarter",
+      "disposition": "Existing heading retained"
+    },
+    {
+      "path": "delvers/world/WORLD.md",
+      "old_anchor": "the-vault-beneath-withers",
+      "disposition": "Existing heading retained"
+    },
+    {
+      "path": "delvers/world/WORLD.md",
+      "old_anchor": "current-status",
+      "disposition": "Existing heading retained"
+    },
+    {
+      "path": "delvers/world/WORLD.md",
+      "old_anchor": "magic-and-an-1880-like-technological-baseline",
+      "disposition": "Existing heading retained"
+    },
+    {
+      "path": "delvers/world/WORLD.md",
+      "old_anchor": "silver-city-after-the-bronze-ball-s3e02",
+      "disposition": "Existing heading retained"
+    },
+    {
+      "path": "delvers/world/WORLD.md",
+      "old_anchor": "journalism-and-the-silver-dungeon-economy-s3e03",
+      "disposition": "Existing heading retained"
+    },
+    {
+      "path": "delvers/world/WORLD.md",
+      "old_anchor": "the-forest-ruins-and-the-limits-of-rank",
+      "disposition": "Existing heading retained"
+    },
+    {
+      "path": "delvers/world/WORLD.md",
+      "old_anchor": "a-shadow-beneath-the-lake",
+      "disposition": "Existing heading retained"
+    },
+    {
+      "path": "delvers/world/README.md",
+      "old_anchor": "delvers--world-reference",
+      "disposition": "Existing heading retained"
+    },
+    {
+      "path": "delvers/world/README.md",
+      "old_anchor": "browse-the-world",
+      "disposition": "Existing heading retained"
+    },
+    {
+      "path": "delvers/world/README.md",
+      "old_anchor": "cleanup-progress",
+      "disposition": "Existing heading retained"
+    },
+    {
+      "path": "delvers/world/README.md",
+      "old_anchor": "subject-directory",
+      "disposition": "Existing heading retained"
+    },
+    {
+      "path": "delvers/world/README.md",
+      "old_anchor": "people",
+      "disposition": "Existing heading retained"
+    },
+    {
+      "path": "delvers/world/README.md",
+      "old_anchor": "places-and-institutions",
+      "disposition": "Existing heading retained"
+    },
+    {
+      "path": "delvers/world/README.md",
+      "old_anchor": "items-and-artifacts",
+      "disposition": "Existing heading retained"
+    },
+    {
+      "path": "delvers/world/README.md",
+      "old_anchor": "creatures",
+      "disposition": "Existing heading retained"
+    },
+    {
+      "path": "delvers/world/README.md",
+      "old_anchor": "research-boundary",
+      "disposition": "Existing heading retained"
+    },
+    {
+      "path": "delvers/world/README.md",
+      "old_anchor": "cleanup-pilots",
+      "disposition": "Existing heading retained"
+    },
+    {
+      "path": "project/DELVERS_CAMPAIGN_CLEANUP_PLAN.md",
+      "old_anchor": "delvers--completed-campaign-cleanup-plan",
+      "disposition": "Existing heading retained"
+    },
+    {
+      "path": "project/DELVERS_CAMPAIGN_CLEANUP_PLAN.md",
+      "old_anchor": "1-intended-result",
+      "disposition": "Existing heading retained"
+    },
+    {
+      "path": "project/DELVERS_CAMPAIGN_CLEANUP_PLAN.md",
+      "old_anchor": "2-initial-checkout-inventory-and-findings",
+      "disposition": "Existing heading retained"
+    },
+    {
+      "path": "project/DELVERS_CAMPAIGN_CLEANUP_PLAN.md",
+      "old_anchor": "3-story-boundaries-and-knowledge",
+      "disposition": "Existing heading retained"
+    },
+    {
+      "path": "project/DELVERS_CAMPAIGN_CLEANUP_PLAN.md",
+      "old_anchor": "4-narrative-consolidation",
+      "disposition": "Existing heading retained"
+    },
+    {
+      "path": "project/DELVERS_CAMPAIGN_CLEANUP_PLAN.md",
+      "old_anchor": "5-world-reference-consolidation",
+      "disposition": "Existing heading retained"
+    },
+    {
+      "path": "project/DELVERS_CAMPAIGN_CLEANUP_PLAN.md",
+      "old_anchor": "6-work-sequence-and-completion-gates",
+      "disposition": "Existing heading retained"
+    },
+    {
+      "path": "project/DELVERS_CAMPAIGN_CLEANUP_PLAN.md",
+      "old_anchor": "7-verification-work-alongside-editing",
+      "disposition": "Existing heading retained"
+    },
+    {
+      "path": "project/DELVERS_CAMPAIGN_CLEANUP_PLAN.md",
+      "old_anchor": "8-preservation-and-acceptance",
+      "disposition": "Existing heading retained"
+    },
+    {
+      "path": "project/DELVERS_CAMPAIGN_CLEANUP_PLAN.md",
+      "old_anchor": "9-recommended-first-implementation-slice",
+      "disposition": "Existing heading retained"
+    },
+    {
+      "path": "project/DELVERS_NARRATIVE_CHAPTER_MAPS.md",
+      "old_anchor": "delvers--narrative-chapter-maps",
+      "disposition": "Existing heading retained"
+    },
+    {
+      "path": "project/DELVERS_NARRATIVE_CHAPTER_MAPS.md",
+      "old_anchor": "method-and-reading-weight",
+      "disposition": "Existing heading retained"
+    },
+    {
+      "path": "project/DELVERS_NARRATIVE_CHAPTER_MAPS.md",
+      "old_anchor": "first-arc--implemented-pilot",
+      "disposition": "Existing heading retained"
+    },
+    {
+      "path": "project/DELVERS_NARRATIVE_CHAPTER_MAPS.md",
+      "old_anchor": "earlier-study-coverage-and-unique-material",
+      "disposition": "Existing heading retained"
+    },
+    {
+      "path": "project/DELVERS_NARRATIVE_CHAPTER_MAPS.md",
+      "old_anchor": "second-arc--implemented-consolidation",
+      "disposition": "Existing heading retained"
+    },
+    {
+      "path": "project/DELVERS_NARRATIVE_CHAPTER_MAPS.md",
+      "old_anchor": "third-arc--implemented-consolidation",
+      "disposition": "Existing heading retained"
+    },
+    {
+      "path": "project/DELVERS_NARRATIVE_CHAPTER_MAPS.md",
+      "old_anchor": "next-acceptance-work",
+      "disposition": "Existing heading retained"
+    },
+    {
+      "path": "project/DELVERS_CLEANUP_MANIFEST.md",
+      "old_anchor": "delvers--cleanup-migration-manifest",
+      "disposition": "Existing heading retained"
+    },
+    {
+      "path": "project/DELVERS_CLEANUP_MANIFEST.md",
+      "old_anchor": "method-and-boundaries",
+      "disposition": "Existing heading retained"
+    },
+    {
+      "path": "project/DELVERS_CLEANUP_MANIFEST.md",
+      "old_anchor": "page-inventory",
+      "disposition": "Existing heading retained"
+    },
+    {
+      "path": "project/DELVERS_CLEANUP_MANIFEST.md",
+      "old_anchor": "acceptance-tracking",
+      "disposition": "Existing heading retained"
+    },
+    {
+      "path": "project/DELVERS_CLEANUP_MANIFEST.md",
+      "old_anchor": "first-implementation-checkpoint",
+      "disposition": "Existing heading retained"
+    },
+    {
+      "path": "project/DELVERS_CLEANUP_MANIFEST.md",
+      "old_anchor": "season-one-reading-weight",
+      "disposition": "Existing heading retained"
+    },
+    {
+      "path": "project/DELVERS_CLEANUP_MANIFEST.md",
+      "old_anchor": "verification-and-remaining-scope",
+      "disposition": "Existing heading retained"
+    },
+    {
+      "path": "project/DELVERS_CLEANUP_MANIFEST.md",
+      "old_anchor": "second-implementation-checkpoint--season-two",
+      "disposition": "Existing heading retained"
+    },
+    {
+      "path": "project/DELVERS_CLEANUP_MANIFEST.md",
+      "old_anchor": "third-implementation-checkpoint--season-three",
+      "disposition": "Existing heading retained"
+    },
+    {
+      "path": "project/DELVERS_CLEANUP_MANIFEST.md",
+      "old_anchor": "fourth-implementation-checkpoint--world-pilots",
+      "disposition": "Existing heading retained"
+    },
+    {
+      "path": "project/DELVERS_CLEANUP_MANIFEST.md",
+      "old_anchor": "fifth-implementation-checkpoint--evelyn-and-krandal",
+      "disposition": "Existing heading retained"
+    },
+    {
+      "path": "project/DELVERS_CLEANUP_MANIFEST.md",
+      "old_anchor": "sixth-implementation-checkpoint--margaret-and-the-traveler",
+      "disposition": "Existing heading retained"
+    },
+    {
+      "path": "project/DELVERS_CLEANUP_MANIFEST.md",
+      "old_anchor": "seventh-implementation-checkpoint--nopa-ropa-and-hissia",
+      "disposition": "Existing heading retained"
+    },
+    {
+      "path": "project/DELVERS_CLEANUP_MANIFEST.md",
+      "old_anchor": "eighth-implementation-checkpoint--cassius-and-carrie",
+      "disposition": "Existing heading retained"
+    },
+    {
+      "path": "project/DELVERS_CLEANUP_MANIFEST.md",
+      "old_anchor": "ninth-implementation-checkpoint--wildfire-and-alexandre-withers",
+      "disposition": "Existing heading retained"
+    },
+    {
+      "path": "project/DELVERS_CLEANUP_MANIFEST.md",
+      "old_anchor": "tenth-implementation-checkpoint--anathala-and-penelope-spiros",
+      "disposition": "Existing heading retained"
+    },
+    {
+      "path": "project/DELVERS_CLEANUP_MANIFEST.md",
+      "old_anchor": "eleventh-implementation-checkpoint--broadside-and-cheet",
+      "disposition": "Existing heading retained"
+    },
+    {
+      "path": "project/DELVERS_CLEANUP_MANIFEST.md",
+      "old_anchor": "twelfth-implementation-checkpoint--marek-gideon-and-noble-hollow",
+      "disposition": "Existing heading retained"
+    },
+    {
+      "path": "project/DELVERS_CLEANUP_MANIFEST.md",
+      "old_anchor": "thirteenth-implementation-checkpoint--enzo-withers-and-skull-keep",
+      "disposition": "Existing heading retained"
+    },
+    {
+      "path": "project/DELVERS_CLEANUP_MANIFEST.md",
+      "old_anchor": "fourteenth-implementation-checkpoint--withers-estate-and-broscale-manor",
+      "disposition": "Existing heading retained"
+    },
+    {
+      "path": "project/DELVERS_CLEANUP_MANIFEST.md",
+      "old_anchor": "fifteenth-implementation-checkpoint--governor-hall-and-dungeon-guild-academy",
+      "disposition": "Existing heading retained"
+    },
+    {
+      "path": "project/DELVERS_CLEANUP_MANIFEST.md",
+      "old_anchor": "sixteenth-implementation-checkpoint--southwestern-well-and-temple-of-pelor",
+      "disposition": "Existing heading retained"
+    },
+    {
+      "path": "project/DELVERS_CLEANUP_MANIFEST.md",
+      "old_anchor": "seventeenth-implementation-checkpoint--farm-cave-and-consolidated-farmtower",
+      "disposition": "Existing heading retained"
+    },
+    {
+      "path": "project/DELVERS_CLEANUP_MANIFEST.md",
+      "old_anchor": "eighteenth-implementation-checkpoint--gemholm-and-the-kuo-toa-village",
+      "disposition": "Existing heading retained"
+    },
+    {
+      "path": "project/DELVERS_CLEANUP_MANIFEST.md",
+      "old_anchor": "nineteenth-implementation-checkpoint--submerged-ruins-and-grick-sinkhole",
+      "disposition": "Existing heading retained"
+    },
+    {
+      "path": "project/DELVERS_CLEANUP_MANIFEST.md",
+      "old_anchor": "twentieth-implementation-checkpoint--puzzle-chambers-and-forest-correction",
+      "disposition": "Existing heading retained"
+    },
+    {
+      "path": "project/DELVERS_CLEANUP_MANIFEST.md",
+      "old_anchor": "twenty-first-implementation-checkpoint--catacombs-and-black-basilica",
+      "disposition": "Existing heading retained"
+    },
+    {
+      "path": "project/DELVERS_CLEANUP_MANIFEST.md",
+      "old_anchor": "twenty-second-implementation-checkpoint--deep-winds-spa-and-dawnless-dunes",
+      "disposition": "Existing heading retained"
+    },
+    {
+      "path": "project/DELVERS_CLEANUP_MANIFEST.md",
+      "old_anchor": "twenty-third-implementation-checkpoint--chath-peak-and-snake-island",
+      "disposition": "Existing heading retained"
+    },
+    {
+      "path": "project/DELVERS_CLEANUP_MANIFEST.md",
+      "old_anchor": "twenty-fourth-implementation-checkpoint--hooper-estate-and-minotaur-crypt",
+      "disposition": "Existing heading retained"
+    },
+    {
+      "path": "project/DELVERS_CLEANUP_MANIFEST.md",
+      "old_anchor": "twenty-fifth-implementation-checkpoint--place-dispositions-and-public-reckoning",
+      "disposition": "Existing heading retained"
+    },
+    {
+      "path": "project/DELVERS_CLEANUP_MANIFEST.md",
+      "old_anchor": "twenty-sixth-implementation-checkpoint--glepo-ma-and-skoogie",
+      "disposition": "Existing heading retained"
+    },
+    {
+      "path": "project/DELVERS_CLEANUP_MANIFEST.md",
+      "old_anchor": "twenty-seventh-implementation-checkpoint--marsh-and-the-great-daufante",
+      "disposition": "Existing heading retained"
+    },
+    {
+      "path": "project/DELVERS_CLEANUP_MANIFEST.md",
+      "old_anchor": "twenty-eighth-implementation-checkpoint--destroying-angel-and-goggles-granny",
+      "disposition": "Existing heading retained"
+    },
+    {
+      "path": "project/DELVERS_CLEANUP_MANIFEST.md",
+      "old_anchor": "twenty-ninth-implementation-checkpoint--barclay-and-radiant-lance",
+      "disposition": "Existing heading retained"
+    },
+    {
+      "path": "project/DELVERS_CLEANUP_MANIFEST.md",
+      "old_anchor": "thirtieth-implementation-checkpoint--veggie-sticks-and-chad-brad",
+      "disposition": "Existing heading retained"
+    },
+    {
+      "path": "project/DELVERS_CLEANUP_MANIFEST.md",
+      "old_anchor": "thirty-first-implementation-checkpoint--darmah-and-dumbledwark",
+      "disposition": "Existing heading retained"
+    },
+    {
+      "path": "project/DELVERS_CLEANUP_MANIFEST.md",
+      "old_anchor": "thirty-second-implementation-checkpoint--shrugs-and-shaolin-nym",
+      "disposition": "Existing heading retained"
+    },
+    {
+      "path": "project/DELVERS_CLEANUP_MANIFEST.md",
+      "old_anchor": "thirty-third-implementation-checkpoint--chuck-abnaz-and-ambermoor",
+      "disposition": "Existing heading retained"
+    },
+    {
+      "path": "project/DELVERS_CLEANUP_MANIFEST.md",
+      "old_anchor": "thirty-fourth-implementation-checkpoint--masked-mage-and-character-inventory",
+      "disposition": "Existing heading retained"
+    },
+    {
+      "path": "project/DELVERS_CLEANUP_MANIFEST.md",
+      "old_anchor": "thirty-fifth-implementation-checkpoint--khalazar",
+      "disposition": "Existing heading retained"
+    },
+    {
+      "path": "project/DELVERS_CLEANUP_MANIFEST.md",
+      "old_anchor": "thirty-sixth-implementation-checkpoint--character-coverage-audit",
+      "disposition": "Existing heading retained"
+    },
+    {
+      "path": "project/DELVERS_CLEANUP_MANIFEST.md",
+      "old_anchor": "thirty-seventh-implementation-checkpoint--red-crystal-and-sensory-amulet",
+      "disposition": "Existing heading retained"
+    },
+    {
+      "path": "project/DELVERS_CLEANUP_MANIFEST.md",
+      "old_anchor": "thirty-eighth-implementation-checkpoint--organ-urns-and-dried-heart-jar",
+      "disposition": "Existing heading retained"
+    },
+    {
+      "path": "project/DELVERS_CLEANUP_MANIFEST.md",
+      "old_anchor": "thirty-ninth-implementation-checkpoint--hereditary-drone",
+      "disposition": "Existing heading retained"
+    },
+    {
+      "path": "project/DELVERS_CLEANUP_MANIFEST.md",
+      "old_anchor": "fortieth-implementation-checkpoint--stolen-tome-and-deck-of-many-things",
+      "disposition": "Existing heading retained"
+    },
+    {
+      "path": "project/DELVERS_CLEANUP_MANIFEST.md",
+      "old_anchor": "forty-first-implementation-checkpoint--lorans-radiant-armour-and-transforming-sword",
+      "disposition": "Existing heading retained"
+    },
+    {
+      "path": "project/DELVERS_CLEANUP_MANIFEST.md",
+      "old_anchor": "forty-second-implementation-checkpoint--devotees-censer-and-friendship-ribbon",
+      "disposition": "Existing heading retained"
+    },
+    {
+      "path": "project/DELVERS_CLEANUP_MANIFEST.md",
+      "old_anchor": "forty-third-implementation-checkpoint--chances-lantern-context-and-drift-globe",
+      "disposition": "Existing heading retained"
+    },
+    {
+      "path": "project/DELVERS_CLEANUP_MANIFEST.md",
+      "old_anchor": "forty-fourth-implementation-checkpoint--soul-knife-hilt-and-dragon-slayers-longsword",
+      "disposition": "Existing heading retained"
+    },
+    {
+      "path": "project/DELVERS_CLEANUP_MANIFEST.md",
+      "old_anchor": "forty-fifth-implementation-checkpoint--bag-of-hammer-holding-and-ring-of-protection",
+      "disposition": "Existing heading retained"
+    },
+    {
+      "path": "project/DELVERS_CLEANUP_MANIFEST.md",
+      "old_anchor": "forty-sixth-implementation-checkpoint--goat-of-travail-and-horn-of-blasting",
+      "disposition": "Existing heading retained"
+    },
+    {
+      "path": "project/DELVERS_CLEANUP_MANIFEST.md",
+      "old_anchor": "forty-seventh-implementation-checkpoint--wand-of-secrets-and-geared-disc",
+      "disposition": "Existing heading retained"
+    },
+    {
+      "path": "project/DELVERS_CLEANUP_MANIFEST.md",
+      "old_anchor": "forty-eighth-implementation-checkpoint--bounded-artifact-audit",
+      "disposition": "Existing heading retained"
+    },
+    {
+      "path": "project/DELVERS_CLEANUP_MANIFEST.md",
+      "old_anchor": "forty-ninth-implementation-checkpoint--bounded-provenance-reconciliation",
+      "disposition": "Existing heading retained"
+    },
+    {
+      "path": "project/DELVERS_CLEANUP_MANIFEST.md",
+      "old_anchor": "fiftieth-implementation-checkpoint--creaturefaction-inventory",
+      "disposition": "Existing heading retained"
+    },
+    {
+      "path": "project/DELVERS_CLEANUP_MANIFEST.md",
+      "old_anchor": "fifty-first-implementation-checkpoint--reasoning-collectives-and-finale-index-routing",
+      "disposition": "Existing heading retained"
+    },
+    {
+      "path": "project/DELVERS_CLEANUP_MANIFEST.md",
+      "old_anchor": "fifty-second-implementation-checkpoint--gricks-and-hook-horrors",
+      "disposition": "Existing heading retained"
+    },
+    {
+      "path": "project/DELVERS_CLEANUP_MANIFEST.md",
+      "old_anchor": "fifty-third-implementation-checkpoint--flameskull-and-roper-formsource-notes",
+      "disposition": "Existing heading retained"
+    },
+    {
+      "path": "project/DELVERS_CLEANUP_MANIFEST.md",
+      "old_anchor": "fifty-fourth-implementation-checkpoint--world-civic-institutions",
+      "disposition": "Existing heading retained"
+    },
+    {
+      "path": "project/DELVERS_CLEANUP_MANIFEST.md",
+      "old_anchor": "fifty-fifth-implementation-checkpoint--world-technology-faith-and-communities",
+      "disposition": "Existing heading retained"
+    },
+    {
+      "path": "project/DELVERS_CLEANUP_MANIFEST.md",
+      "old_anchor": "fifty-sixth-implementation-checkpoint--world-buried-infrastructure-and-companies",
+      "disposition": "Existing heading retained"
+    }
+  ],
+  "reviewed_world_sections": [
+    "The collectors from the marsh",
+    "The broken rite at Noble Hollow",
+    "The fortnight no one remembers",
+    "The wedding protected",
+    "Beneath the financial quarter",
+    "The vault beneath Withers",
+    "Education and public duty",
+    "Gemholm and experimental exploitation"
+  ],
+  "institutional_units": [
+    "school",
+    "cloven",
+    "research-circle",
+    "gemholm-employer"
+  ],
+  "additional_blocks": [
+    {
+      "old_section": "The collectors from the marsh",
+      "target": "Same section, collectors/research-testimony notes and canonical Marek/village routes",
+      "retained": "Staff transfer, threat, followers captured alive, Broadside reveal, later identified research link; gifts/warning/objects/three-prisoner departure in note"
+    },
+    {
+      "old_section": "The broken rite at Noble Hollow",
+      "target": "Same section, finale/hollow-later/research notes and site account",
+      "retained": "Threatened sacrifice, influence testimony, nonlethal stop, collapse/roper/rescues, debrief/planned proceedings/tower promise; later route and land renewal"
+    },
+    {
+      "old_section": "The fortnight no one remembers",
+      "target": "Same section and season2/island-later notes; Snake Island/farm routes",
+      "retained": "Missing weeks, returned items and memory fragments, private relationships; old home/temple/school/farm circumstances retained historically, Hissia later rescued"
+    },
+    {
+      "old_section": "The wedding protected",
+      "target": "Same section and s2e02/wedding-limits notes; estate/Daufante accounts",
+      "retained": "Separate contracts, disrupted bird custom/goat, private confession, walking tree/wight defeat, deck custody, burial and unresolved strange signs"
+    },
+    {
+      "old_section": "Beneath the financial quarter",
+      "target": "Same section and s2e03/cloven-later notes; mansion/Chuck routes",
+      "retained": "Bulette/room, Withers claims, medical-payment debt pressure, private financing, planned then actual heist; later fencing/boundary agreements remain unverified"
+    },
+    {
+      "old_section": "The vault beneath Withers",
+      "target": "Same section and s2e04/estate-later notes; mansion and artifact routes",
+      "retained": "Service guardians, burglary/damaged relics/escape, exact heist detail retained in earlier historical note; later fire, investigators, admission/rescue and unresolved mansion"
+    },
+    {
+      "new_section": "Education and public duty",
+      "target": "Evelyn/Margaret accounts and school note",
+      "supported": "School expectations, friendship/cover, Loran legacy, actual armor/defense and later rebuilding without charter or office"
+    },
+    {
+      "new_section": "Gemholm and experimental exploitation",
+      "target": "Gemholm/Ambermore accounts and gemholm note",
+      "supported": "Workforce/equipment, diary claims, observed extraction, live capture/custody, partial treatments and unknown colony/corporate outcome"
+    }
+  ],
+  "critical_boundaries": [
+    "Research witnesses and truth magic do not establish complete motive, free will or completed court proceedings",
+    "Collectors survive capture; Marek nonlethally stopped; roper not a proven summoned beast",
+    "Missing fortnight and later royal ties do not supply complete island history or a marriage",
+    "Wedding confession remains private interested testimony; burial does not prove eternal rest",
+    "Cassius private heist funding is confirmed; every suspected Withers crime is not",
+    "Post-escape fire is observed later, without a backdated performed arson scene",
+    "Family boundaries, gang departure and fencing settlement are agreements, not certified compliance",
+    "School support, heroic relics and rebuilding do not confer an elected civic office or universal curriculum",
+    "Ambermore journal claims and observed extraction remain distinct; no corporate ownership, complete cure or cleared colony inferred"
+  ],
+  "preserved_existing_orphan_notes": [
+    "status"
+  ],
+  "unchanged_section_bodies": 16,
+  "cumulative_reconciled_sections": 24,
+  "pending_historical_sections": 0,
+  "preserved_former_source_notes": 41,
+  "limits": "Bounded thematic presentation coverage, not full factual/source or institution certification; integration, two index-only creature candidates and targeted listening remain pending. No new audio/original ASR, maps, sheets, bonus exports, rulebook, remote URL or rendered-site review."
+}
