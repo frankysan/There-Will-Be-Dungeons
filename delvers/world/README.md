@@ -113,6 +113,8 @@ The [grick/hook-horror checkpoint](../../reports/DELVERS_GRICKS_HOOK_HORRORS_202
 
 The [form/source-note checkpoint](../../reports/DELVERS_FORM_POLISH_2026-10-27.md) keeps Enzo's biography distinct from the flameskull, removes an obsolete closing supply count and separates the dead Noble Hollow roper from later ropers and surviving piercers.
 
+A [civic-institution checkpoint](../../reports/DELVERS_CIVIC_INSTITUTIONS_2026-10-27.md) updates [WORLD](WORLD.md)'s guild, Academy, Silver City and newspaper sections and brings its closing state through the finale. Technology, faith, communities and buried-history presentation remain queued; this is a partial thematic review.
+
 ## Subject directory
 
 ### People

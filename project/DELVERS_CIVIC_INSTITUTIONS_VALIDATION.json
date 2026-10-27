@@ -1,0 +1,63 @@
+{
+  "date": "2026-10-27",
+  "scope": "Partial WORLD civic-institution synthesis, not whole-page certification",
+  "local_file_and_fragment_links": 1597,
+  "maintained_inbound_links": 55,
+  "former_headings_preserved": 107,
+  "exact_original_hashes": 6,
+  "reading_copy_target_equivalence": 6,
+  "protected_hashes": 379,
+  "registry_checks": [
+    {
+      "registry": "DELVERS_CHARACTER_DISPOSITIONS",
+      "rows": 36,
+      "matching_page_hashes": 36
+    },
+    {
+      "registry": "DELVERS_CHARACTER_INVENTORY",
+      "rows": 36,
+      "matching_page_hashes": 36
+    },
+    {
+      "registry": "DELVERS_PLACE_DISPOSITIONS",
+      "rows": 27,
+      "matching_page_hashes": 27
+    },
+    {
+      "registry": "DELVERS_ARTIFACT_DISPOSITIONS",
+      "rows": 20,
+      "matching_page_hashes": 20
+    }
+  ],
+  "unchanged_creature_directory_rows": 6,
+  "unchanged_institutional_units": 10,
+  "institutional_world_syntheses": 4,
+  "measurements": {
+    "before_main_words": 3392,
+    "after_main_words": 3391,
+    "reconciled_sections": 6,
+    "unchanged_section_bodies": 15,
+    "source_notes": 32,
+    "former_source_notes_retained": 23,
+    "preserved_prior_orphans": [
+      "status"
+    ]
+  },
+  "errors": [],
+  "limits": [
+    "Fifteen other WORLD section bodies retained verbatim and explicitly queued",
+    "Selected dossier and canonical-context review; no new audio/original ASR, maps, sheets, bonus exports, rulebook, remote URL or rendered-site review"
+  ],
+  "status": "passed",
+  "markdownlint": {
+    "maintained_files": 6,
+    "violations": 0
+  },
+  "whitespace": {
+    "scoped_git_diff_check": "passed",
+    "direct_new_file_check": "passed",
+    "checked_new_files": 11
+  },
+  "manual_readback": "All six reconciled/new WORLD sections and source notes; old heist cutoff retained; other fifteen section bodies compared mechanically. Selected canonical/dossier context and bounded inventory scope reviewed.",
+  "working_tree_context": "Initially clean main at 313993bc94c45e16772d538321649a7e832a901b; concurrent Wastes progress/report changes appeared during the task and were left untouched; no commit or push by this task"
+}

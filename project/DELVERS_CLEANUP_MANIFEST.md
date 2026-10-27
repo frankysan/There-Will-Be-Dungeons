@@ -1008,3 +1008,15 @@ The flameskull retains its observed fire, patrol, destruction and consecration. 
 Eight pre-edit originals and reading copies are preserved; 374 protected hashes remain unchanged. Only these two creature inventory rows, their index summaries and current progress fields are refreshed. The other four directory rows, fourteen institutional units, WORLD context, character/place/item registers and prior grick/hook batch remain unchanged. This is selected-dossier editorial reconciliation, not new audio or full campaign certification. The bat pilot is retained without a forced rewrite; index-only candidates and final integration remain pending.
 
 Next reconcile WORLD setting/institution material through existing canonical routes, separating stated policy, observed practice and later civic changes. Targeted listening remains separate.
+
+### Fifty-fourth implementation checkpoint — WORLD civic institutions
+
+**2026-10-27: partial thematic reconciliation of WORLD's guild, Academy, Silver City, newspaper and closing state completed.** [Report](../reports/DELVERS_CIVIC_INSTITUTIONS_2026-10-27.md) · [Coverage](DELVERS_CIVIC_INSTITUTIONS_COVERAGE.json) · [Validation](DELVERS_CIVIC_INSTITUTIONS_VALIDATION.json) · [Archive](../research/legacy/2026-10-27/delvers-civic-institutions/README.md).
+
+An Introduction now frames the city's relationship to organized adventuring. Five existing sections are reconciled; the other fifteen section bodies remain verbatim for later review. Guild employment and patronage, central funding refusal, licensed dungeon economy and the press's role are subject-focused, with source identifiers and interpretation cautions in footnotes. The old burglary cutoff is retained as historical source-note detail rather than the final world state. Twenty-three former source notes and old heading targets remain available.
+
+Announcements, actual C4 permission and continuing grounding remain distinct. Zoltar's private profit acknowledgment is not a proved Academy-wide vote or conspiracy. The reporter's confinement lead is corroborated by Cassius's release, while book publication and wider allegations remain unresolved. Both rescue circles, Khalazar's actual defeat and the played recovery year inform Current status; no complete captive count, municipal rebuilding, licence repeal or Academy reform is invented.
+
+Six exact pre-edit originals and reading copies are preserved; 379 protected baseline hashes remain unchanged. WORLD context and only four institutional rows receive bounded synthesis history; other ten rows, all six creature-directory rows, the creature index and character/place/item registers are unchanged. The canonical guild, Academy, governor's hall and reporter pages are used as context without being rewritten or certified anew. No new audio/original ASR review, full faction audit, commit or push.
+
+Next reconcile WORLD technology, faith, communities and buried-history sections through existing subject routes; the remaining ten institutional contexts, index-only creatures and final integration remain pending. Targeted listening remains separate.

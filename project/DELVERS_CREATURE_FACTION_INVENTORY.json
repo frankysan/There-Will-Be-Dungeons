@@ -1,6 +1,6 @@
 {
   "date": "2026-10-27",
-  "scope": "Six creature-directory paths (five subjects and one compatibility route), seven index rows and fourteen institutional/reference units; bounded routing, horizon and form/source-note updates recorded",
+  "scope": "Six creature-directory paths, seven index rows and fourteen institutional/reference units; bounded creature updates and partial WORLD civic synthesis recorded",
   "baseline": {
     "branch": "main",
     "head": "5bd18ad",
@@ -16,7 +16,9 @@
     "subject_rewrites": 5,
     "creature_directory_paths": 6,
     "compatibility_routes": 1,
-    "new_character_profiles": 1
+    "new_character_profiles": 1,
+    "world_sections_reconciled": 6,
+    "institutional_world_syntheses": 4
   },
   "review_limits": [
     "Six full current creature pages and full nine-row index read",
@@ -28,7 +30,8 @@
     "Independent Delvers continuity; no empty pages or automatic taxonomy migration",
     "Subsequent routing update: All Rat path is a compatibility stub and index has seven creature rows. Original inventory review remains historical; no new full review of the other five profiles or fourteen institutional units.",
     "Subsequent grick/hook-horror update: full old/new pages and selected dossier passages; other four directory rows, WORLD context and fourteen institutional units remain unchanged.",
-    "Subsequent flameskull/roper polish: two full pages and selected source/context readbacks; other four directory rows, WORLD context and fourteen institutional units unchanged. Bat pilot retained; index-only candidates not thereby certified."
+    "Subsequent flameskull/roper polish: two full pages and selected source/context readbacks; other four directory rows, WORLD context and fourteen institutional units unchanged. Bat pilot retained; index-only candidates not thereby certified.",
+    "Subsequent WORLD civic pass: new Introduction and five reconciled sections; fifteen other section bodies unchanged. Four institutional rows record synthesis only, not a full faction or canonical-page re-audit."
   ],
   "creature_profiles": [
     {
@@ -919,12 +922,14 @@
   ],
   "world_context": {
     "path": "delvers/world/WORLD.md",
-    "sha256": "644da9e84a2c10cc108ecd7bbf46159858a8f536ea6d378b007ad4de55b34d48",
+    "sha256": "4d137b671417db8d729a154eda4bee4f0f477016847de51fa9ecfcf20c746149",
     "sections": [
+      "Introduction",
       "Magic and an 1880-like technological baseline",
-      "Silver City after the Bronze Ball (S3E02)",
-      "Journalism and the Silver dungeon economy (S3E03)",
       "Adventuring as organized work",
+      "The Guild's faraway rulers",
+      "Silver City and licensed exploration",
+      "Journalism and the dungeon economy",
       "Caverns and the Underdark",
       "Devotion and the strength of the living",
       "The forest ruins and the limits of rank",
@@ -933,7 +938,6 @@
       "A city listening to its wells",
       "The buried city and its forgotten sounds",
       "A living shore and a submerged faith",
-      "The Guild's faraway rulers",
       "The collectors from the marsh",
       "The broken rite at Noble Hollow",
       "The fortnight no one remembers",
@@ -943,23 +947,24 @@
       "Current status"
     ],
     "reviewed_sections": [
-      "Magic and an 1880-like technological baseline",
-      "Silver City after the Bronze Ball (S3E02)",
-      "Journalism and the Silver dungeon economy (S3E03)",
+      "Introduction",
       "Adventuring as organized work",
-      "Devotion and the strength of the living",
       "The Guild's faraway rulers",
-      "The collectors from the marsh",
-      "A living shore and a submerged faith",
+      "Silver City and licensed exploration",
+      "Journalism and the dungeon economy",
       "Current status"
     ],
     "not_fully_reviewed_sections": [
+      "Magic and an 1880-like technological baseline",
       "Caverns and the Underdark",
+      "Devotion and the strength of the living",
       "The forest ruins and the limits of rank",
       "Service and a wider city",
       "A shadow beneath the lake",
       "A city listening to its wells",
       "The buried city and its forgotten sounds",
+      "A living shore and a submerged faith",
+      "The collectors from the marsh",
       "The broken rite at Noble Hollow",
       "The fortnight no one remembers",
       "The wedding protected",
@@ -967,10 +972,73 @@
       "The vault beneath Withers"
     ],
     "findings": [
-      "Thematic prose mixed with episode-led front inserts",
-      "Global Current status remains S2E04 despite later inserts",
-      "Visible production/source apparatus and plot recap require subject-focused reconciliation",
-      "Reuse existing institutional routes rather than duplicate faction pages"
+      "Partial institution presentation reconciliation completed; fifteen other section bodies remain unchanged",
+      "Technology/design commentary still visible in main prose pending next batch",
+      "Historical quest recaps and early horizons in remaining sections need thematic synthesis",
+      "Existing canonical institutional/subject routes retained; no new faction scaffolding"
+    ],
+    "bounded_reconciliations": [
+      {
+        "date": "2026-10-27",
+        "report": "reports/DELVERS_CIVIC_INSTITUTIONS_2026-10-27.md",
+        "scope": "Introduction and five institution/closing sections only",
+        "previous_inventory_context": {
+          "path": "delvers/world/WORLD.md",
+          "sha256": "644da9e84a2c10cc108ecd7bbf46159858a8f536ea6d378b007ad4de55b34d48",
+          "sections": [
+            "Magic and an 1880-like technological baseline",
+            "Silver City after the Bronze Ball (S3E02)",
+            "Journalism and the Silver dungeon economy (S3E03)",
+            "Adventuring as organized work",
+            "Caverns and the Underdark",
+            "Devotion and the strength of the living",
+            "The forest ruins and the limits of rank",
+            "Service and a wider city",
+            "A shadow beneath the lake",
+            "A city listening to its wells",
+            "The buried city and its forgotten sounds",
+            "A living shore and a submerged faith",
+            "The Guild's faraway rulers",
+            "The collectors from the marsh",
+            "The broken rite at Noble Hollow",
+            "The fortnight no one remembers",
+            "The wedding protected",
+            "Beneath the financial quarter",
+            "The vault beneath Withers",
+            "Current status"
+          ],
+          "reviewed_sections": [
+            "Magic and an 1880-like technological baseline",
+            "Silver City after the Bronze Ball (S3E02)",
+            "Journalism and the Silver dungeon economy (S3E03)",
+            "Adventuring as organized work",
+            "Devotion and the strength of the living",
+            "The Guild's faraway rulers",
+            "The collectors from the marsh",
+            "A living shore and a submerged faith",
+            "Current status"
+          ],
+          "not_fully_reviewed_sections": [
+            "Caverns and the Underdark",
+            "The forest ruins and the limits of rank",
+            "Service and a wider city",
+            "A shadow beneath the lake",
+            "A city listening to its wells",
+            "The buried city and its forgotten sounds",
+            "The broken rite at Noble Hollow",
+            "The fortnight no one remembers",
+            "The wedding protected",
+            "Beneath the financial quarter",
+            "The vault beneath Withers"
+          ],
+          "findings": [
+            "Thematic prose mixed with episode-led front inserts",
+            "Global Current status remains S2E04 despite later inserts",
+            "Visible production/source apparatus and plot recap require subject-focused reconciliation",
+            "Reuse existing institutional routes rather than duplicate faction pages"
+          ]
+        }
+      }
     ]
   },
   "institutional_reference_units": [
@@ -1518,7 +1586,15 @@
           ]
         }
       ],
-      "review_method": "Routing inventory; WORLD/character index and selected institution introductions/status, not complete faction history"
+      "review_method": "Routing inventory; WORLD/character index and selected institution introductions/status, not complete faction history",
+      "bounded_world_reviews": [
+        {
+          "date": "2026-10-27",
+          "report": "reports/DELVERS_CIVIC_INSTITUTIONS_2026-10-27.md",
+          "scope": "WORLD synthesis and selected canonical context/source readbacks only; no full institutional re-audit",
+          "canonical_routes_unchanged": true
+        }
+      ]
     },
     {
       "id": "academy",
@@ -1652,7 +1728,15 @@
           ]
         }
       ],
-      "review_method": "Routing inventory; WORLD/character index and selected institution introductions/status, not complete faction history"
+      "review_method": "Routing inventory; WORLD/character index and selected institution introductions/status, not complete faction history",
+      "bounded_world_reviews": [
+        {
+          "date": "2026-10-27",
+          "report": "reports/DELVERS_CIVIC_INSTITUTIONS_2026-10-27.md",
+          "scope": "WORLD synthesis and selected canonical context/source readbacks only; no full institutional re-audit",
+          "canonical_routes_unchanged": true
+        }
+      ]
     },
     {
       "id": "companies",
@@ -2286,7 +2370,15 @@
           ]
         }
       ],
-      "review_method": "Routing inventory; WORLD/character index and selected institution introductions/status, not complete faction history"
+      "review_method": "Routing inventory; WORLD/character index and selected institution introductions/status, not complete faction history",
+      "bounded_world_reviews": [
+        {
+          "date": "2026-10-27",
+          "report": "reports/DELVERS_CIVIC_INSTITUTIONS_2026-10-27.md",
+          "scope": "WORLD synthesis and selected canonical context/source readbacks only; no full institutional re-audit",
+          "canonical_routes_unchanged": true
+        }
+      ]
     },
     {
       "id": "civic",
@@ -2372,7 +2464,15 @@
           ]
         }
       ],
-      "review_method": "Routing inventory; WORLD/character index and selected institution introductions/status, not complete faction history"
+      "review_method": "Routing inventory; WORLD/character index and selected institution introductions/status, not complete faction history",
+      "bounded_world_reviews": [
+        {
+          "date": "2026-10-27",
+          "report": "reports/DELVERS_CIVIC_INSTITUTIONS_2026-10-27.md",
+          "scope": "WORLD synthesis and selected canonical context/source readbacks only; no full institutional re-audit",
+          "canonical_routes_unchanged": true
+        }
+      ]
     },
     {
       "id": "kord",
@@ -3032,8 +3132,13 @@
   "next_batches": [
     {
       "priority": "P2",
-      "scope": "WORLD setting/institution reconciliation via existing routes",
-      "limits": "Separate stated policy, observed practice, interested testimony and civic changes"
+      "scope": "WORLD technology, faith, communities and buried-history presentation; ten remaining institutional contexts",
+      "limits": "Preserve creator commentary, testimony and observed history separately; use existing subject routes"
+    },
+    {
+      "priority": "P2",
+      "scope": "Index-only creature candidates and final campaign integration",
+      "limits": "No implied completion from the existing linked-profile passes; targeted listening remains separate"
     }
   ],
   "reviewed_route_sections": [
@@ -3154,6 +3259,25 @@
       },
       "unchanged_other_creature_rows": 4,
       "unchanged_institutional_reference_units": 14
+    },
+    {
+      "date": "2026-10-27",
+      "report": "reports/DELVERS_CIVIC_INSTITUTIONS_2026-10-27.md",
+      "scope": "WORLD context, four institutional synthesis histories and current counts/limits/queue only",
+      "unchanged_creature_directory_rows": 6,
+      "unchanged_institutional_reference_units": 10,
+      "previous_counts": {
+        "creature_profiles": 5,
+        "creature_index_rows": 7,
+        "index_only_creature_candidates": 2,
+        "index_reasoning_community_route": 0,
+        "institutional_reference_units": 14,
+        "formal_faction_directory": false,
+        "subject_rewrites": 5,
+        "creature_directory_paths": 6,
+        "compatibility_routes": 1,
+        "new_character_profiles": 1
+      }
     }
   ]
 }
