@@ -11,7 +11,7 @@
 | Barclay Vandergeist / Bendergeist | **Ben (performer surname ASR pending), guest S3E09**; bluish-green ~5′10″ tortle Ptah cleric/cartographer, mushroom survivor, spectral-hand **Chance** lantern, paired pressure-plate puzzle assistance, Holy Weapon and Nondetection; no permanent party enrolment verified | [Profile](characters/barclay-vandergeist.md) |
 | Corgan Greathorns | **S3E10** giant (~13ft) skeletal minotaur leader of nine bone-crypt minotaurs under farm; all nine plus Chad Brad = TEN; **S3E12 actually help evacuate elves and then ALL TEN become inert bones when curse ends** | [Minotaur Mesa crypt](places/minotaur-mesa-bone-crypt.md) |
 | Nopa Ropa | Snake Island warrior **ACTUALLY PLEDGES** to join S3E10 mission upon Krandal telling aboleth Dawnless Dunes lead to Princess Hissia; oath, new armour in progress; rescue NOT accomplished | [Profile](characters/nopa-ropa.md) |
-| Chad Brad | Previously talking minotaur skull guarding Krandal's farm; **S3E10 skull reunited with buried bones via 150gp-gem Create Undead-like ritual**, now ~13ft **SKELETAL** ally, one of TEN minotaur combatants in upcoming mission | [Profile](characters/chad-brad.md) |
+| [Chad Brad](characters/chad-brad.md) | Krandal's minotaur companion, whose skull is reunited with his skeleton before the final expedition. He joins the rescue and later becomes inert bones with the other freed minotaurs. | [Profile](characters/chad-brad.md) |
 | Darmah Edstream | S3E11 halfling Five Emissaries evocation wizard and actual Guild rescue-party participant; casts Spider Climb on Koh, begins prepping gem-chalk Teleportation Circle but **NO finished teleport/evacuees yet** | [Profile](characters/darmah-edstream.md) |
 | Shaolin Nym / Nim | S3E11 telepathic ancient female Dolbluth architect mummy; claims Emperor Orgoth Argus history and ancestral blood/urn true-form ritual, **ACTUALLY OPENS GATE then DISINTEGRATES**, not continuing ally | [Profile](characters/shaolin-nym.md) |
 | Radiant Lance | **Historic Pelor knight**, self-aware memory/ghost in All Rat psychic prison in S3E08, claims ~150yrs trapped; physical old skeleton and perfectly preserved Pelor tabard/lance found; **Krandal wears tabard, group bags lance**; no living contemporary appearance | [Profile](characters/radiant-lance.md) |
@@ -75,5 +75,12 @@ These short entries derive from [S1E01](../episodes/S1E01.md); NPC spellings rem
 | [Enzo Vanderbuck Withers](characters/enzo-vanderbuck-withers.md) | Mirror-bound ancestor/necromancer at Skull Keep; claims a failed immortality rite divided him from the flameskull. His **Dawnless Dunes** prophecy is attributed testimony; reflected head dims after skull banishment |
 | [Alexandre Vanderbuck Withers](characters/alexandre-vanderbuck-withers.md) | Wealthy Skull Keep claimant and **Withers Estate owner**, **Bronze Ball financier**; bulette-damaged grounds expose **recently used restraint chamber**; he denies knowledge, while **Cassius suspects artifact dealings without proof** |
 | Willamet / Wilibet Molly | Silver-rank adventurer who kills the market hag while the party evacuates the crowd; spelling unresolved |
+
+## Reasoning collectives and communities
+
+| Subject | Character or community context |
+| --- | --- |
+| [The All Rat](characters/all-rat.md) | A shared voice within linked cranium rats, using captive fears and bargaining to retain an organ it claims sustains its power. It disperses when Koh removes the whole urn; surviving rats are not all killed. |
+| [Minotaur Mesa council](places/minotaur-mesa-bone-crypt.md) | Nine speaking council members join Chad Brad in the final rescue. All ten find release as inert bones at the Guild; their skeletal form does not erase their voluntary alliance or separate identities. |
 
 [World portal](README.md) · [Open identity checks](CONSISTENCY_LEDGER.md)

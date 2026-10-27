@@ -1,0 +1,2487 @@
+{
+  "date": "2026-10-26",
+  "scope": "All 27 currently maintained Markdown paths in delvers/world/places",
+  "counts": {
+    "ordinary_place_or_institution_accounts": 25,
+    "historical_event_studies": 1,
+    "compatibility_routes": 1
+  },
+  "review_limits": [
+    "Current prose/status/source-note review and alias searches, not complete episode rereading or audio listening",
+    "Literal alias matches are candidate routing only; absent matches do not establish absence of a later scene",
+    "Structural conformance and hashes do not certify factual completeness",
+    "No original maps, remote URLs or rendered-site preview reviewed"
+  ],
+  "reconciliations": [
+    "S3E09 historic forest return remains corrected; prior early-ruins report retained historically",
+    "S3E10 retrospective spa conversations now explicit without a new stay",
+    "Guild reckoning retained as event study at existing path; obsolete pending taxonomy pointer removed"
+  ],
+  "pages": [
+    {
+      "path": "delvers/world/places/black-basilica.md",
+      "disposition": "place-or-institution",
+      "local_horizon": "S3E08 physical hall and departure",
+      "later_evidence": "S3E09 organ attribution; S3E11/S3E12 urn use elsewhere",
+      "retained_limit": "No later hall inspection or total rat clearance",
+      "candidate_alias_regex": "Black Basilica|All Rat",
+      "candidate_mentions": [
+        {
+          "dossier": "delvers/episodes/S2E06.md",
+          "lines": [
+            19
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S2E10.md",
+          "lines": [
+            22,
+            23
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S3E06.md",
+          "lines": [
+            32
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S3E08.md",
+          "lines": [
+            24,
+            25,
+            26,
+            27,
+            28
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S3E09.md",
+          "lines": [
+            20
+          ]
+        }
+      ],
+      "sha256": "ba0ce826ada23c2b80f3acea7d9c64c55b9cb3ec239d9f3a7e0fefb3c816ca6b",
+      "acceptance": "bounded editorial disposition; not full factual certification"
+    },
+    {
+      "path": "delvers/world/places/black-slime-key-chamber.md",
+      "disposition": "place-or-institution",
+      "local_horizon": "S3E07 drained room and vessel removal",
+      "later_evidence": "Later urn/gate use; November creator hidden-threat explanation",
+      "retained_limit": "No performed boneclaw ambush or later room survey",
+      "candidate_alias_regex": "black.slime|three.key|boneclaw",
+      "candidate_mentions": [
+        {
+          "dossier": "delvers/episodes/S1E11.md",
+          "lines": [
+            23
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S2E09.md",
+          "lines": [
+            20
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S3E07.md",
+          "lines": [
+            25,
+            27,
+            30,
+            33
+          ]
+        }
+      ],
+      "sha256": "d52093e35584d27648b71cc56edc1909aec55fa362568786d001ed1e7998cb8f",
+      "acceptance": "bounded editorial disposition; not full factual certification"
+    },
+    {
+      "path": "delvers/world/places/broscale-manor.md",
+      "disposition": "place-or-institution",
+      "local_horizon": "S2E09 named interior/dinner",
+      "later_evidence": "S3E10 Wildfire-estate release is qualified owner/household context; S3E12 Wildfire rescued",
+      "retained_limit": "No verified room/address match, homecoming or final household survey",
+      "candidate_alias_regex": "Broscale Manor|Wildfire estate",
+      "candidate_mentions": [
+        {
+          "dossier": "delvers/episodes/S2E09.md",
+          "lines": [
+            20,
+            23,
+            28
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S2E10.md",
+          "lines": [
+            20
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S3E10.md",
+          "lines": [
+            39,
+            45
+          ]
+        }
+      ],
+      "sha256": "a8245503ffe36c62ea4efd98f9ea898448f2c9d29aa6f71641cb7216cac719dc",
+      "acceptance": "bounded editorial disposition; not full factual certification"
+    },
+    {
+      "path": "delvers/world/places/chath-peak.md",
+      "disposition": "place-or-institution",
+      "local_horizon": "S2E08 mountain visit; S2E09 retrospectively affirmed defeat/departure",
+      "later_evidence": "S2E11/S2E12 skull in town",
+      "retained_limit": "No later mountain visit, forge repair or proved Skoogie rule",
+      "candidate_alias_regex": "Chath|Chaff|Dragon Mountain",
+      "candidate_mentions": [
+        {
+          "dossier": "delvers/episodes/S2E01.md",
+          "lines": [
+            29
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S2E06.md",
+          "lines": [
+            21
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S2E08.md",
+          "lines": [
+            20,
+            22,
+            29
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S2E09.md",
+          "lines": [
+            18
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S2E11.md",
+          "lines": [
+            28
+          ]
+        }
+      ],
+      "sha256": "72406cc00a0b9dacabe4115354afa7593b4c4a86f1aafc0cc17e9d0dfd6aa35d",
+      "acceptance": "bounded editorial disposition; not full factual certification"
+    },
+    {
+      "path": "delvers/world/places/dawnless-dunes-pyramid.md",
+      "disposition": "place-or-institution",
+      "local_horizon": "S3E11 infiltration and S3E12 real collapse",
+      "later_evidence": "S3E12 survivors/land recovery elsewhere",
+      "retained_limit": "Wider desert and connected sites not re-surveyed",
+      "candidate_alias_regex": "Dawnless Dunes|pyramid",
+      "candidate_mentions": [
+        {
+          "dossier": "delvers/episodes/S1E06.md",
+          "lines": [
+            34
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S1E10.md",
+          "lines": [
+            38
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S1E11.md",
+          "lines": [
+            23
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S2E01.md",
+          "lines": [
+            21
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S2E10.md",
+          "lines": [
+            22
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S3E08.md",
+          "lines": [
+            24
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S3E10.md",
+          "lines": [
+            41
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S3E11.md",
+          "lines": [
+            7,
+            9,
+            13,
+            15,
+            30,
+            48
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S3E12.md",
+          "lines": [
+            13,
+            14,
+            15,
+            20
+          ]
+        }
+      ],
+      "sha256": "8cca61636cc3e0e7a515b79ce35a6810908a1da4f3277604ee912392b92b263f",
+      "acceptance": "bounded editorial disposition; not full factual certification"
+    },
+    {
+      "path": "delvers/world/places/deep-winds-spa.md",
+      "disposition": "place-or-institution",
+      "local_horizon": "S3E05/S3E06 first stay; S3E08/S3E09 second stay/departure",
+      "later_evidence": "S3E10 retrospective dialogue supplies aboleth claims, not a third stay",
+      "retained_limit": "No permanent Guild base or post-finale inspection",
+      "candidate_alias_regex": "Deep Winds|spa|filter",
+      "candidate_mentions": [
+        {
+          "dossier": "delvers/episodes/S1E02.md",
+          "lines": [
+            13,
+            30
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S1E05.md",
+          "lines": [
+            27
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S1E06.md",
+          "lines": [
+            14
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S1E07.md",
+          "lines": [
+            15,
+            37
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S1E08.md",
+          "lines": [
+            15,
+            35,
+            57
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S1E09.md",
+          "lines": [
+            15,
+            24,
+            29
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S1E10.md",
+          "lines": [
+            61
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S1E11.md",
+          "lines": [
+            15
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S1E12.md",
+          "lines": [
+            14
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S2E00.md",
+          "lines": [
+            13
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S2E03.md",
+          "lines": [
+            23,
+            49
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S2E05.md",
+          "lines": [
+            27
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S2E06.md",
+          "lines": [
+            26
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S2E09.md",
+          "lines": [
+            26
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S2E10.md",
+          "lines": [
+            29
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S3E01.md",
+          "lines": [
+            31
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S3E04.md",
+          "lines": [
+            37,
+            38
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S3E05.md",
+          "lines": [
+            21,
+            25,
+            27,
+            28,
+            31
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S3E06.md",
+          "lines": [
+            20,
+            22,
+            23,
+            25
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S3E08.md",
+          "lines": [
+            24,
+            33,
+            34
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S3E09.md",
+          "lines": [
+            20
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S3E10.md",
+          "lines": [
+            41,
+            43
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S3E11.md",
+          "lines": [
+            31,
+            50
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S3E12.md",
+          "lines": [
+            15,
+            18
+          ]
+        }
+      ],
+      "sha256": "a7566dc9df7424bd9616bca789e2728f5e15ac97689ed848b24cb9701ef81be1",
+      "acceptance": "bounded editorial disposition; not full factual certification"
+    },
+    {
+      "path": "delvers/world/places/delvers-guild.md",
+      "disposition": "place-or-institution",
+      "local_horizon": "S3E12 actual basement rescue reception",
+      "later_evidence": "S3E12 year-later teaching is institutional continuation",
+      "retained_limit": "Local restored leadership, no formal acquittal or Academy-wide reform",
+      "candidate_alias_regex": "guild basement|Cassius|Silver City",
+      "candidate_mentions": [
+        {
+          "dossier": "delvers/episodes/S1E01.md",
+          "lines": [
+            45,
+            46,
+            47,
+            49,
+            61,
+            62,
+            73
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S1E03.md",
+          "lines": [
+            25,
+            26
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S1E04.md",
+          "lines": [
+            35,
+            36
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S1E05.md",
+          "lines": [
+            31,
+            33,
+            34,
+            35
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S1E06.md",
+          "lines": [
+            22,
+            38
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S1E07.md",
+          "lines": [
+            29,
+            30,
+            37
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S1E09.md",
+          "lines": [
+            29,
+            30,
+            34,
+            56
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S1E10.md",
+          "lines": [
+            26
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S1E12.md",
+          "lines": [
+            25,
+            33
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S2E00.md",
+          "lines": [
+            11,
+            12,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            45,
+            46
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S2E01.md",
+          "lines": [
+            23,
+            24,
+            29
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S2E03.md",
+          "lines": [
+            24,
+            29,
+            30,
+            31,
+            53
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S2E04.md",
+          "lines": [
+            18,
+            29
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S2E05.md",
+          "lines": [
+            22,
+            29,
+            30
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S2E06.md",
+          "lines": [
+            22,
+            23,
+            24,
+            25,
+            26
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S2E07.md",
+          "lines": [
+            32
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S2E08.md",
+          "lines": [
+            20
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S2E09.md",
+          "lines": [
+            18,
+            24,
+            25,
+            26,
+            27
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S2E10.md",
+          "lines": [
+            21,
+            23,
+            24,
+            25,
+            26
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S2E11.md",
+          "lines": [
+            18,
+            22,
+            23
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S2E12.md",
+          "lines": [
+            21,
+            22,
+            24,
+            28,
+            32
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S3E01.md",
+          "lines": [
+            21,
+            27,
+            30
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S3E02.md",
+          "lines": [
+            32,
+            35,
+            36
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S3E03.md",
+          "lines": [
+            22,
+            24,
+            26,
+            27,
+            29,
+            30,
+            32
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S3E04.md",
+          "lines": [
+            38
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S3E06.md",
+          "lines": [
+            31,
+            33
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S3E09.md",
+          "lines": [
+            32
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S3E10.md",
+          "lines": [
+            39,
+            44,
+            45
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S3E11.md",
+          "lines": [
+            7
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S3E12.md",
+          "lines": [
+            14,
+            20,
+            21
+          ]
+        }
+      ],
+      "sha256": "e10b4013f0fe8d278fed607e098bf054b9bbb064004b4fff1e6fde121ada613b",
+      "acceptance": "bounded editorial disposition; not full factual certification"
+    },
+    {
+      "path": "delvers/world/places/dungeon-guild-academy.md",
+      "disposition": "place-or-institution",
+      "local_horizon": "S2E00 direct campus hearing during first arc",
+      "later_evidence": "S2E06 discipline report; S2E11 offsite assessment; S3E03/S3E10 Atomer administration",
+      "retained_limit": "No later campus visit, verdict or institutional reform",
+      "candidate_alias_regex": "Academy|Radiant Lance Theatre",
+      "candidate_mentions": [
+        {
+          "dossier": "delvers/episodes/S1E10.md",
+          "lines": [
+            26
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S1E12.md",
+          "lines": [
+            33
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S2E00.md",
+          "lines": [
+            20,
+            21,
+            23,
+            43
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S2E03.md",
+          "lines": [
+            30
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S2E06.md",
+          "lines": [
+            21,
+            24
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S2E11.md",
+          "lines": [
+            25
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S3E02.md",
+          "lines": [
+            36
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S3E03.md",
+          "lines": [
+            20,
+            29,
+            30
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S3E05.md",
+          "lines": [
+            20
+          ]
+        }
+      ],
+      "sha256": "862b6d5d1e7d1822a7a94c5e3b27a67fad5dcaae85d16333bc375f921916115e",
+      "acceptance": "bounded editorial disposition; not full factual certification"
+    },
+    {
+      "path": "delvers/world/places/farm-cave.md",
+      "disposition": "place-or-institution",
+      "local_horizon": "S1E01 sheep-farm cave and sealed fissure",
+      "later_evidence": "No identified later cave return",
+      "retained_limit": "Distinct from later river farm; no complete Underdark clearance",
+      "candidate_alias_regex": "Mickles|Mikkels|farm cave",
+      "candidate_mentions": [
+        {
+          "dossier": "delvers/episodes/S1E01.md",
+          "lines": [
+            47
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S1E06.md",
+          "lines": [
+            22
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S2E05.md",
+          "lines": [
+            26
+          ]
+        }
+      ],
+      "sha256": "617293a7403b23c8cc4660e4282d7498d5af112625a8273bde9bafd8cfcbdb37",
+      "acceptance": "bounded editorial disposition; not full factual certification"
+    },
+    {
+      "path": "delvers/world/places/gemholm.md",
+      "disposition": "place-or-institution",
+      "local_horizon": "S2E06/S2E07 island visit and machines left behind",
+      "later_evidence": "S2E08 Ambermore custody; S2E12 Mack/Church members",
+      "retained_limit": "No island clearance or resettlement proved",
+      "candidate_alias_regex": "Gemholm|Gemhold|Ambermoor|Ambermore",
+      "candidate_mentions": [
+        {
+          "dossier": "delvers/episodes/S2E06.md",
+          "lines": [
+            3,
+            26,
+            28,
+            30,
+            36,
+            39,
+            43
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S2E07.md",
+          "lines": [
+            3,
+            18,
+            20,
+            21,
+            22,
+            24,
+            25,
+            28,
+            29,
+            30,
+            31,
+            32,
+            36,
+            37,
+            39,
+            40,
+            44
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S2E08.md",
+          "lines": [
+            3,
+            20,
+            40,
+            45
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S2E12.md",
+          "lines": [
+            21
+          ]
+        }
+      ],
+      "sha256": "1ca4188b0f4a6351673d8d0b206c85a540a9e75ac12dac1f5d3c28535e063ffd",
+      "acceptance": "bounded editorial disposition; not full factual certification",
+      "bounded_reconciliations": [
+        {
+          "date": "2026-10-27",
+          "report": "reports/DELVERS_PROVENANCE_RECONCILIATION_2026-10-27.md",
+          "scope": "Only this page provenance/presentation and stored hash refreshed; original broad audit not rerun",
+          "previous_registered_sha256": "4761f56b9bef21ba34320aca14823af5076a8d6859b1512d4d85885ca48eb078",
+          "pre_reconciliation_sha256": "7964d52c84238212d0b6c8ee92ad88ba0bb47653708a5184b1123f4f68c1493f",
+          "source_register": "reports/DISCORD_NEW_SPELLING_2026-10-27.md",
+          "limits": "Recorded image review reused; no new images/audio. Lake Obsul equivalence unresolved; no new custody outcome or infection mechanism certified."
+        }
+      ],
+      "cartographic_limit": "Lake Obsul printed on regional map; equivalence to narrated Lake Absul/Abzul remains unresolved"
+    },
+    {
+      "path": "delvers/world/places/governors-hall.md",
+      "disposition": "place-or-institution",
+      "local_horizon": "S2E12 layout/breach; S3E01 damage; S3E04 ballroom breach used as entrance",
+      "later_evidence": "S3E10 missing list and S3E12 curse/rescue",
+      "retained_limit": "No hall repair, completed auction or sealed breach proved",
+      "candidate_alias_regex": "governor|ballroom|Bronze Ball",
+      "candidate_mentions": [
+        {
+          "dossier": "delvers/episodes/S1E07.md",
+          "lines": [
+            26,
+            27
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S1E08.md",
+          "lines": [
+            23
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S1E09.md",
+          "lines": [
+            37
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S1E12.md",
+          "lines": [
+            34
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S2E00.md",
+          "lines": [
+            26
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S2E01.md",
+          "lines": [
+            28
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S2E03.md",
+          "lines": [
+            24,
+            27
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S2E06.md",
+          "lines": [
+            19,
+            27
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S2E09.md",
+          "lines": [
+            20,
+            23,
+            24,
+            27,
+            30
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S2E10.md",
+          "lines": [
+            21,
+            23,
+            24
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S2E11.md",
+          "lines": [
+            18,
+            19,
+            22,
+            23,
+            24,
+            26,
+            27,
+            28
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S2E12.md",
+          "lines": [
+            20,
+            21,
+            29,
+            32
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S3E01.md",
+          "lines": [
+            20,
+            21,
+            24,
+            25
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S3E02.md",
+          "lines": [
+            26,
+            36
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S3E03.md",
+          "lines": [
+            20,
+            30
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S3E04.md",
+          "lines": [
+            24
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S3E11.md",
+          "lines": [
+            7
+          ]
+        }
+      ],
+      "sha256": "6977ebdbd23dc562363612431466a6c6c06392995d7b1c7d27c59963f45f3901",
+      "acceptance": "bounded editorial disposition; not full factual certification"
+    },
+    {
+      "path": "delvers/world/places/grick-sinkhole.md",
+      "disposition": "place-or-institution",
+      "local_horizon": "S1E03/S1E04 first exploration; S3E09 repaired historic forest entrance",
+      "later_evidence": "Later source corrects earlier S1E04-only checkpoint",
+      "retained_limit": "No full clearance, recovered tablet or exact builder identity",
+      "candidate_alias_regex": "forest dungeon|forest ruin|sinkhole",
+      "candidate_mentions": [
+        {
+          "dossier": "delvers/episodes/S1E03.md",
+          "lines": [
+            30,
+            32
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S1E04.md",
+          "lines": [
+            25,
+            26,
+            28
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S1E07.md",
+          "lines": [
+            29
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S1E08.md",
+          "lines": [
+            29
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S1E12.md",
+          "lines": [
+            26
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S2E00.md",
+          "lines": [
+            23
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S3E09.md",
+          "lines": [
+            31
+          ]
+        }
+      ],
+      "sha256": "60d73fa0a81582e83b56a4da607371fcc709694410026c3d301344b7db0df05e",
+      "acceptance": "bounded editorial disposition; not full factual certification"
+    },
+    {
+      "path": "delvers/world/places/guild-public-reckoning-s3e10.md",
+      "disposition": "historical-event",
+      "local_horizon": "S3E10 public challenge, release and funding",
+      "later_evidence": "S3E11/S3E12 actual expedition/rescue/defeat",
+      "retained_limit": "Focused event, not a physical-place duplicate; no legal settlement",
+      "candidate_alias_regex": "public|reckoning|Cassius",
+      "candidate_mentions": [
+        {
+          "dossier": "delvers/episodes/S1E01.md",
+          "lines": [
+            11,
+            12,
+            45,
+            46,
+            47,
+            49,
+            61,
+            62,
+            73
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S1E02.md",
+          "lines": [
+            10
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S1E03.md",
+          "lines": [
+            25,
+            26,
+            27
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S1E04.md",
+          "lines": [
+            35,
+            36
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S1E05.md",
+          "lines": [
+            31,
+            33,
+            34,
+            35
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S1E06.md",
+          "lines": [
+            22,
+            38
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S1E07.md",
+          "lines": [
+            29,
+            30,
+            37
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S1E08.md",
+          "lines": [
+            11
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S1E09.md",
+          "lines": [
+            29,
+            30,
+            34,
+            56
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S1E10.md",
+          "lines": [
+            26
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S1E11.md",
+          "lines": [
+            16,
+            60
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S1E12.md",
+          "lines": [
+            25,
+            33,
+            58
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S2E00.md",
+          "lines": [
+            11,
+            12,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            45,
+            46
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S2E01.md",
+          "lines": [
+            23,
+            24,
+            29
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S2E02.md",
+          "lines": [
+            28
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S2E03.md",
+          "lines": [
+            24,
+            29,
+            30,
+            31,
+            53
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S2E04.md",
+          "lines": [
+            18,
+            27,
+            29
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S2E05.md",
+          "lines": [
+            22,
+            29,
+            30
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S2E06.md",
+          "lines": [
+            22,
+            23,
+            24,
+            25,
+            26
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S2E07.md",
+          "lines": [
+            32
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S2E08.md",
+          "lines": [
+            20
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S2E09.md",
+          "lines": [
+            18,
+            24,
+            25,
+            26,
+            27,
+            28,
+            30
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S2E10.md",
+          "lines": [
+            21,
+            23,
+            24,
+            25,
+            26
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S2E11.md",
+          "lines": [
+            18,
+            22,
+            23,
+            28
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S2E12.md",
+          "lines": [
+            21,
+            22,
+            24,
+            25,
+            28,
+            32
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S3E01.md",
+          "lines": [
+            21,
+            27,
+            30
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S3E02.md",
+          "lines": [
+            32,
+            35,
+            36
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S3E03.md",
+          "lines": [
+            21,
+            22,
+            24,
+            26,
+            27,
+            29,
+            30,
+            32
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S3E04.md",
+          "lines": [
+            37,
+            38
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S3E05.md",
+          "lines": [
+            26,
+            30
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S3E06.md",
+          "lines": [
+            33
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S3E09.md",
+          "lines": [
+            32
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S3E10.md",
+          "lines": [
+            38,
+            39,
+            44,
+            45
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S3E11.md",
+          "lines": [
+            7
+          ]
+        }
+      ],
+      "sha256": "e078c2fc2edd6875990cec9b4aa70d3b729db366d27b55d68db1275f10fad362",
+      "acceptance": "bounded editorial disposition; not full factual certification"
+    },
+    {
+      "path": "delvers/world/places/hooper-estate.md",
+      "disposition": "place-or-institution",
+      "local_horizon": "S2E02 wedding, haunting and actual burial",
+      "later_evidence": "Later Goodwine business elsewhere",
+      "retained_limit": "No subsequent estate survey or eternal-peace guarantee",
+      "candidate_alias_regex": "Hooper|Aurelli|Orilli",
+      "candidate_mentions": [
+        {
+          "dossier": "delvers/episodes/S2E01.md",
+          "lines": [
+            29
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S2E02.md",
+          "lines": [
+            17,
+            18,
+            21,
+            24,
+            25,
+            27,
+            28
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S2E05.md",
+          "lines": [
+            25
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S2E12.md",
+          "lines": [
+            23
+          ]
+        }
+      ],
+      "sha256": "29ab906aa96ef3053edc92255962fc086726aeb6c742f0f40d42ed994c3a0f15",
+      "acceptance": "bounded editorial disposition; not full factual certification"
+    },
+    {
+      "path": "delvers/world/places/kuo-toa-lakeshore-village.md",
+      "disposition": "place-or-institution",
+      "local_horizon": "S1E10/S1E11 direct village departure",
+      "later_evidence": "S1E12 possible warning tracks elsewhere; S2E11 exile report; later crank use",
+      "retained_limit": "No confirmed warning delivery or later village inspection",
+      "candidate_alias_regex": "kuo.toa|Gle.?po",
+      "candidate_mentions": [
+        {
+          "dossier": "delvers/episodes/S1E09.md",
+          "lines": [
+            30,
+            37,
+            56
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S1E10.md",
+          "lines": [
+            11,
+            26,
+            29,
+            30,
+            31,
+            32,
+            35,
+            38,
+            58
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S1E11.md",
+          "lines": [
+            29,
+            30,
+            35,
+            37,
+            56
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S1E12.md",
+          "lines": [
+            20,
+            24,
+            53
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S2E00.md",
+          "lines": [
+            20,
+            43
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S2E04.md",
+          "lines": [
+            21,
+            22,
+            24,
+            28,
+            47
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S2E05.md",
+          "lines": [
+            22
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S2E06.md",
+          "lines": [
+            24
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S2E10.md",
+          "lines": [
+            22
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S2E11.md",
+          "lines": [
+            20,
+            23
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S3E01.md",
+          "lines": [
+            26,
+            28
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S3E02.md",
+          "lines": [
+            23,
+            28,
+            29
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S3E03.md",
+          "lines": [
+            25
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S3E04.md",
+          "lines": [
+            29
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S3E05.md",
+          "lines": [
+            20
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S3E06.md",
+          "lines": [
+            31,
+            34
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S3E08.md",
+          "lines": [
+            21
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S3E10.md",
+          "lines": [
+            42
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S3E12.md",
+          "lines": [
+            22
+          ]
+        }
+      ],
+      "sha256": "b79fd3b4237217151e7a11d6512db64b4283b3e234f35ce1fbc4fc6fe47d926c",
+      "acceptance": "bounded editorial disposition; not full factual certification"
+    },
+    {
+      "path": "delvers/world/places/minotaur-mesa-bone-crypt.md",
+      "disposition": "place-or-institution",
+      "local_horizon": "S3E10 descent and nine-person council",
+      "later_evidence": "S3E11/S3E12 ten allies and final bones at Guild",
+      "retained_limit": "No crypt return/reburial, flesh resurrection or precise under-farm map",
+      "candidate_alias_regex": "Minotaur Mesa|bone.crypt|Corgan",
+      "candidate_mentions": [
+        {
+          "dossier": "delvers/episodes/S3E01.md",
+          "lines": [
+            20
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S3E05.md",
+          "lines": [
+            24,
+            25
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S3E10.md",
+          "lines": [
+            47
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S3E12.md",
+          "lines": [
+            14,
+            16,
+            20,
+            21
+          ]
+        }
+      ],
+      "sha256": "13a84c8e01df05d169b982e4bf99b07543ea22e0f6c4139a8131f36e48fef70b",
+      "acceptance": "bounded editorial disposition; not full factual certification"
+    },
+    {
+      "path": "delvers/world/places/noble-hollow.md",
+      "disposition": "place-or-institution",
+      "local_horizon": "S1E12 collapse; S3E10 crypt route; S3E12 explicit land renewal",
+      "later_evidence": "Year-later neighboring farm benefits",
+      "retained_limit": "No repaired clearing or entire tract ownership inferred",
+      "candidate_alias_regex": "Noble Hollow",
+      "candidate_mentions": [
+        {
+          "dossier": "delvers/episodes/S1E12.md",
+          "lines": [
+            26,
+            27,
+            28,
+            30,
+            55
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S2E01.md",
+          "lines": [
+            24,
+            29,
+            31
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S2E06.md",
+          "lines": [
+            27
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S2E09.md",
+          "lines": [
+            19
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S3E01.md",
+          "lines": [
+            20
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S3E02.md",
+          "lines": [
+            30
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S3E05.md",
+          "lines": [
+            24
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S3E06.md",
+          "lines": [
+            25
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S3E10.md",
+          "lines": [
+            47
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S3E12.md",
+          "lines": [
+            21
+          ]
+        }
+      ],
+      "sha256": "e4c9fe4b43ea1ff646356cdc6a361c62b1283b5503e578d5d1874d9ec6c0cab3",
+      "acceptance": "bounded editorial disposition; not full factual certification"
+    },
+    {
+      "path": "delvers/world/places/potato-grove.md",
+      "disposition": "place-or-institution",
+      "local_horizon": "S2E01 grant/site; development through S3E10; S3E12 year-later rebuilt tower/fertility",
+      "later_evidence": "Actual epilogue, not merely a proposed restoration",
+      "retained_limit": "Invitation not wedding; declined investment not title sale",
+      "candidate_alias_regex": "Potato Grove|Splenderbelt Farm|farm tower",
+      "candidate_mentions": [
+        {
+          "dossier": "delvers/episodes/S2E01.md",
+          "lines": [
+            35,
+            57
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S2E03.md",
+          "lines": [
+            26,
+            50
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S2E11.md",
+          "lines": [
+            23
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S3E03.md",
+          "lines": [
+            25
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S3E12.md",
+          "lines": [
+            22,
+            23
+          ]
+        }
+      ],
+      "sha256": "e79a2c4cbe8462b1ae322f9d77988519aa479f78681ce7d08ab20d0bc8f120b2",
+      "acceptance": "bounded editorial disposition; not full factual certification"
+    },
+    {
+      "path": "delvers/world/places/right-stair-grick-urn-complex.md",
+      "disposition": "place-or-institution",
+      "local_horizon": "S3E09 linked mechanisms, stopped wind and forest exit",
+      "later_evidence": "Later urn/gate use elsewhere",
+      "retained_limit": "One grick escapes, no exact map or final destruction proved",
+      "candidate_alias_regex": "RIGHT|wind|grick.*urn",
+      "candidate_mentions": [
+        {
+          "dossier": "delvers/episodes/S1E03.md",
+          "lines": [
+            22,
+            26,
+            35
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S1E04.md",
+          "lines": [
+            18,
+            28,
+            29,
+            31,
+            35
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S1E05.md",
+          "lines": [
+            31
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S1E06.md",
+          "lines": [
+            19,
+            29,
+            31,
+            36
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S1E09.md",
+          "lines": [
+            27
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S1E10.md",
+          "lines": [
+            23,
+            39,
+            53
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S1E12.md",
+          "lines": [
+            18,
+            24,
+            50
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S2E00.md",
+          "lines": [
+            41
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S2E01.md",
+          "lines": [
+            23,
+            32
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S2E02.md",
+          "lines": [
+            27,
+            51
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S2E04.md",
+          "lines": [
+            22,
+            26
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S2E05.md",
+          "lines": [
+            26
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S2E06.md",
+          "lines": [
+            18,
+            28
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S2E08.md",
+          "lines": [
+            23
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S2E09.md",
+          "lines": [
+            20
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S2E10.md",
+          "lines": [
+            30
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S2E11.md",
+          "lines": [
+            20
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S2E12.md",
+          "lines": [
+            22,
+            29,
+            31
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S3E01.md",
+          "lines": [
+            27
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S3E02.md",
+          "lines": [
+            33
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S3E05.md",
+          "lines": [
+            21,
+            27,
+            28
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S3E06.md",
+          "lines": [
+            26,
+            34
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S3E07.md",
+          "lines": [
+            25,
+            30,
+            33
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S3E08.md",
+          "lines": [
+            20,
+            31,
+            34
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S3E09.md",
+          "lines": [
+            20,
+            29
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S3E11.md",
+          "lines": [
+            7,
+            9,
+            11,
+            25,
+            39
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S3E12.md",
+          "lines": [
+            19
+          ]
+        }
+      ],
+      "sha256": "42d2c0064839235b610878d278a2ef565b5796d7daa4035f1d56de73b96e70fc",
+      "acceptance": "bounded editorial disposition; not full factual certification"
+    },
+    {
+      "path": "delvers/world/places/skull-keep.md",
+      "disposition": "place-or-institution",
+      "local_horizon": "S1E06 keep visit and flameskull defeat",
+      "later_evidence": "Later estate suspicions, portrait, visions and creator drainage context",
+      "retained_limit": "Visions are not revisits; hidden lab undiscovered; title/repairs unresolved",
+      "candidate_alias_regex": "Skull Keep|Enzo Keep",
+      "candidate_mentions": [
+        {
+          "dossier": "delvers/episodes/S1E05.md",
+          "lines": [
+            35
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S1E06.md",
+          "lines": [
+            21,
+            25,
+            33
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S1E07.md",
+          "lines": [
+            23,
+            24,
+            29
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S2E03.md",
+          "lines": [
+            30,
+            53
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S2E05.md",
+          "lines": [
+            23,
+            25
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S2E06.md",
+          "lines": [
+            27
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S3E08.md",
+          "lines": [
+            27
+          ]
+        }
+      ],
+      "sha256": "237eaca8dc37e6957d67f611014e503d37cf638163e530024f945b9ea994020e",
+      "acceptance": "bounded editorial disposition; not full factual certification"
+    },
+    {
+      "path": "delvers/world/places/snake-island.md",
+      "disposition": "place-or-institution",
+      "local_horizon": "S2E01 onward fragmented fortnight recall, not complete continuous visit",
+      "later_evidence": "S2E12 Hissia testimony; S3E01 guard; S3E05 probe; S3E12 rescue elsewhere",
+      "retained_limit": "No final island government, restored memory or homecoming proved",
+      "candidate_alias_regex": "Snake Island",
+      "candidate_mentions": [
+        {
+          "dossier": "delvers/episodes/S1E01.md",
+          "lines": [
+            45
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S1E03.md",
+          "lines": [
+            25
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S1E12.md",
+          "lines": [
+            35,
+            57
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S2E01.md",
+          "lines": [
+            20,
+            29,
+            30,
+            36,
+            58
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S2E02.md",
+          "lines": [
+            19,
+            46
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S2E03.md",
+          "lines": [
+            18
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S2E04.md",
+          "lines": [
+            24
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S2E05.md",
+          "lines": [
+            19
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S2E12.md",
+          "lines": [
+            27
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S3E01.md",
+          "lines": [
+            26
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S3E03.md",
+          "lines": [
+            24
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S3E05.md",
+          "lines": [
+            26
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S3E12.md",
+          "lines": [
+            21
+          ]
+        }
+      ],
+      "sha256": "d25e9d886296d5b4045423de06dda7a84ec71ac690187c992a6d9d630aaa54d0",
+      "acceptance": "bounded editorial disposition; not full factual certification"
+    },
+    {
+      "path": "delvers/world/places/southwestern-town-well.md",
+      "disposition": "place-or-institution",
+      "local_horizon": "S1E07/S1E08 inspection/seal; S1E09 sash retrieval",
+      "later_evidence": "S2E03 origin speculation; S3E09 unnamed Atlas-cedar well",
+      "retained_limit": "No positive identity of later well or potable-water test",
+      "candidate_alias_regex": "southwest|Atlas cedar",
+      "candidate_mentions": [
+        {
+          "dossier": "delvers/episodes/S1E07.md",
+          "lines": [
+            30,
+            31,
+            37
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S1E08.md",
+          "lines": [
+            24
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S1E09.md",
+          "lines": [
+            33
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S2E02.md",
+          "lines": [
+            18
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S3E09.md",
+          "lines": [
+            32
+          ]
+        }
+      ],
+      "sha256": "488320af8c7e72847bc326c70ea1d07e96cf7595b4518f0011d0a043e8cbcd56",
+      "acceptance": "bounded editorial disposition; not full factual certification"
+    },
+    {
+      "path": "delvers/world/places/splenderbelt-farm-delvers-tower.md",
+      "disposition": "compatibility-route",
+      "local_horizon": "Inherited from canonical Potato Grove account",
+      "later_evidence": "Preserved compatibility route to farm history and final status",
+      "retained_limit": "No second competing place history",
+      "candidate_alias_regex": "Splenderbelt Farm|farm tower",
+      "candidate_mentions": [
+        {
+          "dossier": "delvers/episodes/S2E11.md",
+          "lines": [
+            23
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S3E03.md",
+          "lines": [
+            25
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S3E12.md",
+          "lines": [
+            22,
+            23
+          ]
+        }
+      ],
+      "sha256": "4a9e0a40fa24a2cfa3181c2f8b69109b8c1b888310d83b4fd5ce33e85931e0fe",
+      "acceptance": "bounded editorial disposition; not full factual certification"
+    },
+    {
+      "path": "delvers/world/places/submerged-lake-ruins.md",
+      "disposition": "place-or-institution",
+      "local_horizon": "S1E10/S1E11 exploration and safe return",
+      "later_evidence": "April creator drainage/pit context, not every route mapped",
+      "retained_limit": "Gate unopened; not merged with forest return in S3E09",
+      "candidate_alias_regex": "underwater ruin|submerged|quarter.circle",
+      "candidate_mentions": [
+        {
+          "dossier": "delvers/episodes/S1E11.md",
+          "lines": [
+            24
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S2E07.md",
+          "lines": [
+            28,
+            29
+          ]
+        }
+      ],
+      "sha256": "beedbcd68def3fd7f621c1fe6851920c51e9452d6b09a0189da2ffbbcdcf0b9b",
+      "acceptance": "bounded editorial disposition; not full factual certification"
+    },
+    {
+      "path": "delvers/world/places/temple-of-pelor.md",
+      "disposition": "place-or-institution",
+      "local_horizon": "S1E05 onward service; S1E08/S1E09 separate openings; S3E01/S3E02 relief centre",
+      "later_evidence": "Keeves later seen elsewhere; finale care at Guild",
+      "retained_limit": "No repaired mosaic, final staff roster or solved altar shaft",
+      "candidate_alias_regex": "Pelor|Maynard|Penance|Keeves",
+      "candidate_mentions": [
+        {
+          "dossier": "delvers/episodes/S1E05.md",
+          "lines": [
+            24,
+            29,
+            32,
+            40
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S1E06.md",
+          "lines": [
+            30,
+            34
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S1E07.md",
+          "lines": [
+            26
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S1E08.md",
+          "lines": [
+            23,
+            33,
+            34,
+            58
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S1E09.md",
+          "lines": [
+            27,
+            28,
+            31,
+            36,
+            59
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S1E10.md",
+          "lines": [
+            24,
+            28,
+            56
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S2E00.md",
+          "lines": [
+            24
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S2E01.md",
+          "lines": [
+            26,
+            27,
+            32,
+            53
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S2E02.md",
+          "lines": [
+            19
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S2E04.md",
+          "lines": [
+            18
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S2E05.md",
+          "lines": [
+            21,
+            27
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S2E06.md",
+          "lines": [
+            24,
+            26
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S2E09.md",
+          "lines": [
+            22,
+            25,
+            26
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S2E10.md",
+          "lines": [
+            27,
+            28
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S2E11.md",
+          "lines": [
+            24
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S3E01.md",
+          "lines": [
+            29,
+            31
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S3E02.md",
+          "lines": [
+            20,
+            23,
+            25,
+            28
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S3E03.md",
+          "lines": [
+            26
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S3E06.md",
+          "lines": [
+            22
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S3E08.md",
+          "lines": [
+            24,
+            29
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S3E10.md",
+          "lines": [
+            48
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S3E11.md",
+          "lines": [
+            13,
+            15,
+            17,
+            33
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S3E12.md",
+          "lines": [
+            16
+          ]
+        }
+      ],
+      "sha256": "3aa8b0a1bc3d8eb78bbb0eb476066c5df2d242157cb1fe7e909f5f183a9185f8",
+      "acceptance": "bounded editorial disposition; not full factual certification"
+    },
+    {
+      "path": "delvers/world/places/triangle-gate-catacombs.md",
+      "disposition": "place-or-institution",
+      "local_horizon": "S3E06 discovery through S3E11 actual opening/entry/closure",
+      "later_evidence": "S3E12 organ use and evacuation elsewhere",
+      "retained_limit": "Not never-opened at finale; remaining tomb fate unknown",
+      "candidate_alias_regex": "triangle.*(?:gate|door)|three.*recess",
+      "candidate_mentions": [
+        {
+          "dossier": "delvers/episodes/S3E06.md",
+          "lines": [
+            22,
+            26,
+            27
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S3E07.md",
+          "lines": [
+            23,
+            30,
+            33
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S3E08.md",
+          "lines": [
+            33
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S3E09.md",
+          "lines": [
+            31,
+            32
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S3E11.md",
+          "lines": [
+            7
+          ]
+        }
+      ],
+      "sha256": "72b0a5eae907e0ef5be5cb6cff019f09de269fae54a25842342ad6ebceeddf54",
+      "acceptance": "bounded editorial disposition; not full factual certification"
+    },
+    {
+      "path": "delvers/world/places/withers-estate.md",
+      "disposition": "place-or-institution",
+      "local_horizon": "S2E03 exposed room, S2E04 burglary, S2E05 fire view",
+      "later_evidence": "S2E06 reports; S3E01/S3E02 district control; owner rescued elsewhere",
+      "retained_limit": "No detailed repaired house, title transfer or final guardian fate",
+      "candidate_alias_regex": "Withers.*(?:estate|mansion)|Fern",
+      "candidate_mentions": [
+        {
+          "dossier": "delvers/episodes/S2E03.md",
+          "lines": [
+            18,
+            19,
+            23,
+            24
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S2E04.md",
+          "lines": [
+            18,
+            22,
+            23,
+            29,
+            48
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S2E05.md",
+          "lines": [
+            18
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S2E06.md",
+          "lines": [
+            19,
+            22,
+            23
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S2E10.md",
+          "lines": [
+            23
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S2E11.md",
+          "lines": [
+            21
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S3E01.md",
+          "lines": [
+            21
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S3E03.md",
+          "lines": [
+            27
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S3E08.md",
+          "lines": [
+            23
+          ]
+        }
+      ],
+      "sha256": "aae0aa6b667bfddf4a3c1649434cfb5d562eceb7834123cc8e3bdc069d4e1e9c",
+      "acceptance": "bounded editorial disposition; not full factual certification"
+    }
+  ],
+  "bounded_reconciliations": [
+    {
+      "date": "2026-10-27",
+      "path": "delvers/world/places/gemholm.md",
+      "report": "reports/DELVERS_PROVENANCE_RECONCILIATION_2026-10-27.md",
+      "scope": "Single existing row updated; other page rows unchanged, no full audit recertification"
+    }
+  ]
+}

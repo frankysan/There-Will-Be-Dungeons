@@ -119,6 +119,7 @@ All 27 current place-directory paths now have bounded editorial dispositions: 25
 - [Buck Broscale, called Wildfire — psionic mentor](characters/buck-broscale-wildfire.md)
 - [Carrie Underworld — artificer of the guild](characters/carrie-underworld.md)
 - [Cassius — guildmaster of Atomer](characters/cassius.md)
+- [The All Rat — cranium-rat congregation](characters/all-rat.md)
 - [Chad Brad — cursed skeletal minotaur and Krandal's farm companion](characters/chad-brad.md)
 - [Cheet — a cleric's dangerous curiosity](characters/cheet.md)
 - [Chuck Abnaz — Nasty of the Cloven Brotherhood](characters/chuck-abnaz.md)
@@ -202,7 +203,6 @@ All 27 current place-directory paths now have bounded editorial dispositions: 25
 
 ### Creatures
 
-- [The All Rat — cranium-rat congregation](creatures/all-rat-cranium-congregation.md)
 - [Flameskull — the restless guardian of Skull Keep](creatures/flameskull.md)
 - [Gricks](creatures/gricks.md)
 - [Hook horrors — hunters of the underground passages](creatures/hook-horrors.md)
