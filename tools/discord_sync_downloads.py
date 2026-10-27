@@ -359,8 +359,11 @@ def run(dry_run: bool, curated: bool, verify_snapshot: bool) -> None:
                         prior_copy = curated_by_hash.get(digest)
                         if prior_copy:
                             preferred = Path(prior_copy)
-                            if sha_file(CURATED / preferred) != digest:
-                                raise ValueError(f"Existing curated hash mismatch: {preferred}")
+                            if (CURATED / preferred).exists():
+                                if sha_file(CURATED / preferred) != digest:
+                                    raise ValueError(f"Existing curated hash mismatch: {preferred}")
+                            elif not dry_run:
+                                raise ValueError(f"Existing curated file is missing: {preferred}")
                         else:
                             candidate = CURATED / preferred
                             if candidate.exists() and sha_file(candidate) != digest:
@@ -402,6 +405,11 @@ def run(dry_run: bool, curated: bool, verify_snapshot: bool) -> None:
 
     if not RAW.is_dir() or (curated and not CURATED.is_dir()):
         raise ValueError("Required download directory is missing")
+    if (old.get("latest_snapshot_id") == snapshot_id and new_record_count == 0
+            and raw_written == 0 and not new_curation and not altered_blobs):
+        print(json.dumps({"already_synced": True, "snapshot_id": snapshot_id,
+                          "download_records": len(current_urls)}, indent=2))
+        return
     first_sync = not old.get("sync_history")
     initial_summary = dict(old.get("summary", {}))
     old_sources = dict(old.get("sources", {}))
