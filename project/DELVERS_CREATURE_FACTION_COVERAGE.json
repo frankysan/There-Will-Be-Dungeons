@@ -1,0 +1,105 @@
+{
+  "date": "2026-10-27",
+  "scope": "Six creature profiles, nine creature-index rows, WORLD routing and fourteen institutional/reference units; not exhaustive campaign creature/faction research",
+  "headings": [],
+  "domains": {
+    "delvers/world/creatures/all-rat-cranium-congregation.md": "reasoning-collective-routing-review",
+    "delvers/world/creatures/flameskull.md": "individual-supernatural-form-context",
+    "delvers/world/creatures/gricks.md": "creature-kind-needs-horizon-reconciliation",
+    "delvers/world/creatures/hook-horrors.md": "creature-kind-and-individual-states",
+    "delvers/world/creatures/noble-hollow-roper.md": "individual-creature-account",
+    "delvers/world/creatures/skeletal-bat-balcony.md": "retained-individual-creature-pilot"
+  },
+  "review_method": [
+    "Six full current creature pages and full nine-row index read",
+    "WORLD headings, three opening sections, selected institutional sections and Current status reviewed; remaining sections not fully reread",
+    "Eight existing route introductions and Current status read, not complete profile reaudits",
+    "Twenty-two alias patterns searched across 37 dossiers; hits are routing candidates, absence is not proof",
+    "Seven selected complete primary paragraphs read; no full source reread",
+    "No new original ASR/audio, sheets, images/maps, bonus exports, rulebook, remote URL or rendered-site review",
+    "Independent Delvers continuity; no empty pages or automatic taxonomy migration"
+  ],
+  "coverage": {
+    "six_current_profiles": [
+      "delvers/world/creatures/all-rat-cranium-congregation.md",
+      "delvers/world/creatures/flameskull.md",
+      "delvers/world/creatures/gricks.md",
+      "delvers/world/creatures/hook-horrors.md",
+      "delvers/world/creatures/noble-hollow-roper.md",
+      "delvers/world/creatures/skeletal-bat-balcony.md"
+    ],
+    "creature_index_entries": 9,
+    "institutional_reference_units": 14,
+    "world_sections_reviewed": [
+      "Magic and an 1880-like technological baseline",
+      "Silver City after the Bronze Ball (S3E02)",
+      "Journalism and the Silver dungeon economy (S3E03)",
+      "Adventuring as organized work",
+      "Devotion and the strength of the living",
+      "The Guild's faraway rulers",
+      "The collectors from the marsh",
+      "A living shore and a submerged faith",
+      "Current status"
+    ],
+    "subject_rewrites": 0
+  },
+  "retained_boundaries": [
+    "All Rat reasoning collective is not automatically a rat faction or non-intelligent species",
+    "Minotaur council are speaking people/community, not bestiary specimens",
+    "Khalazar-compelled captives are not thereby willing faction members",
+    "Flameskull form and Enzo biography retain distinct testimony/observation boundaries"
+  ],
+  "next_batches": [
+    {
+      "priority": "P0",
+      "scope": "All Rat and speaking-minotaur routing; stale bat/hatchling index summaries",
+      "limits": "Preserve paths/anchors; one canonical character context, no extinction claims"
+    },
+    {
+      "priority": "P1",
+      "scope": "Gricks and hook horrors chronology/traits/final status",
+      "limits": "No species-wide rules from individual behavior"
+    },
+    {
+      "priority": "P2",
+      "scope": "Flameskull/roper form/source-note polish; retain bat pilot unless a defect is found",
+      "limits": "No mandatory rewrite of conforming material"
+    },
+    {
+      "priority": "P2",
+      "scope": "WORLD setting/institution reconciliation via existing routes",
+      "limits": "Separate stated policy, observed practice, interested testimony and civic changes"
+    }
+  ],
+  "selected_primary_paragraphs": [
+    {
+      "dossier": "delvers/episodes/S3E08.md",
+      "lines": [
+        25,
+        26
+      ]
+    },
+    {
+      "dossier": "delvers/episodes/S3E12.md",
+      "lines": [
+        13,
+        21,
+        22
+      ]
+    },
+    {
+      "dossier": "delvers/episodes/S2E05.md",
+      "lines": [
+        20
+      ]
+    },
+    {
+      "dossier": "delvers/episodes/S3E03.md",
+      "lines": [
+        30
+      ]
+    }
+  ],
+  "preservation": "Six creature pages, creature index, WORLD and existing canonical routes unchanged; four controls archived before navigation updates",
+  "inventory": "project/DELVERS_CREATURE_FACTION_INVENTORY.json"
+}

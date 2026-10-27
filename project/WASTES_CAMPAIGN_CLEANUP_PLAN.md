@@ -1,6 +1,6 @@
 # The Wastes — completed-campaign consolidation and cleanup plan
 
-**Prepared:** 2026-10-27. **Status:** Planning baseline and preliminary repository audit; no narrative split, canon rewrite, full page census, audio verification or migration has yet been completed under this plan. **Story horizon:** The played campaign ends at [S3E18](../episodes/S3E18.md). [S3E019](../episodes/S3E019.md) is a separate post-campaign cast roundtable/Q&A, not an additional played chapter. All transcript-based findings retain their existing ASR-provisional limits.
+**Prepared:** 2026-10-27. **Status:** **Eleven-arc organization approved by the owner (D-045); actual migration pending**. Preliminary repository audit only: no narrative rewrite, full page census, audio verification or migration has yet been completed under this plan. **Story horizon:** The played campaign ends at [S3E18](../episodes/S3E18.md). [S3E019](../episodes/S3E019.md) is a separate post-campaign cast roundtable/Q&A, not an additional played chapter. All transcript-based findings retain their existing ASR-provisional limits.
 
 This plan extends, rather than replaces, the ongoing [Wastes world arc cleanup](WORLD_ARC_CLEANUP_PLAN.md) and uses lessons from the [Delvers campaign cleanup](DELVERS_CAMPAIGN_CLEANUP_PLAN.md), [migration manifest](DELVERS_CLEANUP_MANIFEST.md) and [narrative chapter maps](DELVERS_NARRATIVE_CHAPTER_MAPS.md). Operational trackers: [Wastes manifest](WASTES_CLEANUP_MANIFEST.md) · [proposed chapter maps](WASTES_NARRATIVE_CHAPTER_MAPS.md) · [editorial guide](EDITORIAL_GUIDE.md) · [world style](WORLD_NARRATIVE_STYLE.md) · [decisions](DECISIONS.md).
 
@@ -36,9 +36,9 @@ The initial read-only repository inspection found:
 
 These measurements are **sampling/inspection findings**, not an exhaustive per-file manifest, word-count benchmark, link scan, or validation report. The pre-existing 85-page World Phase 0 inventory was recorded **before** subsequent creature and other page creation and must not be treated as a current full inventory.
 
-## 3. Narrative architecture — proposed, not adopted
+## 3. Narrative architecture — eleven arcs approved; migration pending
 
-Use the [eleven-arc working crosswalk](WASTES_NARRATIVE_CHAPTER_MAPS.md) as a hypothesis. Boundaries should follow resolution, shifts of location, character choice and dramatic transition rather than recording/season labels. Eleven arcs, each approximately 10–20 entries, give the likely best reading balance; however, a scene-map review may alter titles or split points.
+Use the [owner-approved eleven-arc crosswalk](WASTES_NARRATIVE_CHAPTER_MAPS.md) as the implementation baseline (D-045). The accepted episode/scene boundaries follow resolution, shifts of location, character choice and dramatic transition rather than recording/season labels. The detailed chapter beats, placement of supplemental E013.5 scenes, titles and source-footnote assignments still require traceable verification; **do not change an accepted arc boundary without a fresh owner decision**.
 
 Particular safeguards:
 - `E000` is the introductory source; count it openly, not as an unlabelled played session.
@@ -48,7 +48,7 @@ Particular safeguards:
 - `S2E12` is a season ending, not necessarily a dramatic arc boundary; a proposed arc continues through `S3E03`.
 - `S3E019` is nonplayed testimony and cannot extend the Wastes narrative.
 
-**Decision governance:** D-042/D-043 record owner-approved continuity and the current canonical Arc Six arrangement. The new eleven-arc organization is **proposed for evaluation**, not yet an adopted replacement. On approval, write an explicit superseding decision, update navigation and retain old arc filenames as redirects or historical copies after assessing backlinks.
+**Decision governance:** **D-045 records the owner's acceptance of the eleven-arc structure on 2026-10-27.** D-042/D-043 remain historical records of the completed six-arc implementation, including continuity across the Season Two finale, not authority to retain six arcs in the final migration. Do not update canonical reading navigation or rewrite existing arc files until archived originals, source-to-scene coverage and compatibility links are validated. Retain legacy arc filenames as compatibility pages or archives after evaluating inbound links.
 
 **Mandatory approval checkpoint:** Before *any* proposed cleanup edit that lacks a clear, applicable owner approval, stop the batch and request clarification/approval, identifying the exact change, affected files and evidence. A cleanup invocation or planning document does **not** imply acceptance of new arc boundaries, narrative rewrites, Races schema/content, canon judgments, renames, deletions or other undecided changes. Record the hold and preserve the current files; **do not continue with a different edit to bypass the unresolved decision**. Read-only investigation and preparing the decision package are permissible. Resume only upon explicit approval, and do not ask again for an already recorded authorization. See [the cleanup skill](../.agents/skills/twbd-wastes-cleanup/SKILL.md).
 

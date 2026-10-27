@@ -103,6 +103,8 @@ All 20 current item-directory paths now have [bounded artifact dispositions](../
 
 [Ambermore](characters/ambermoor.md) and [Gemholm](places/gemholm.md) have a [provenance reconciliation](../../reports/DELVERS_PROVENANCE_RECONCILIATION_2026-10-27.md) retaining legacy paths and source aliases while integrating the recorded diary spelling. The Lake Obsul/Absul geographic crosswalk remains open; only the affected character/place audit rows have been refreshed.
 
+A [creature/faction inventory](../../reports/DELVERS_CREATURE_FACTION_INVENTORY_2026-10-27.md) records the remaining presentation, horizon and routing work in [structured form](../../project/DELVERS_CREATURE_FACTION_INVENTORY.json). Reasoning collectives and communities retain character context; existing institution pages remain canonical routes. This inventory does not certify or rewrite the remaining subjects.
+
 All 27 current place-directory paths now have bounded editorial dispositions: 25 place/institution accounts, one historical event study and one compatibility route. The [place audit](../../reports/DELVERS_PLACE_AUDIT_2026-10-26.md) and [disposition register](../../project/DELVERS_PLACE_DISPOSITIONS.json) distinguish direct site observations from later reports and outcomes. This does not certify complete factual coverage or finish the remaining world domains.
 
 ## Subject directory

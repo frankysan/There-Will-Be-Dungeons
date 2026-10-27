@@ -2,7 +2,7 @@
 
 The five completed Season One arcs follow Nash, Hope, Stanley and Vorel from Dusthill through E128. **[Arc Six](ARC_SIX.md) is also COMPLETE**, a continuous story across Season Two (12 episodes) and Season Three (18 played episodes). **[S3E18](../episodes/S3E18.md) concludes Arc Six AND The Wastes played campaign**. Following [S3E019 — Round Up](../sources/The%20Wastes%20S3E019.%20The%20Wastes%20Round%20Up.parakeet.processed.srt) is a separate cast roundtable/Q&A, not a seventh arc. **Full campaign spoilers.**[^guide]
 
-**Possible restructuring, not yet adopted:** A [completed-campaign consolidation plan](../project/WASTES_CAMPAIGN_CLEANUP_PLAN.md) and [eleven-arc working crosswalk](../project/WASTES_NARRATIVE_CHAPTER_MAPS.md) assess shorter story-led arcs (including cross-season spans). The links below remain the **current canonical six-arc reading order** until a new structure receives an explicit owner decision.
+**Approved upcoming structure, not yet implemented:** The owner accepted [eleven shorter arcs and their episode boundaries](../project/WASTES_NARRATIVE_CHAPTER_MAPS.md) on 2026-10-27 ([D-045](../project/DECISIONS.md)). The links below remain the **currently available six-arc reading order** while the [migration plan](../project/WASTES_CAMPAIGN_CLEANUP_PLAN.md) completes preservation, scene coverage and compatibility checks. Do not treat the old six-arc layout as the final adopted organization.
 
 ## Five completed Season One arcs
 

@@ -958,3 +958,17 @@ Only the Ambermoor row in the character disposition/inventory and the Gemholm ro
 Both full pre-edit profiles, revised main prose/changed notes, written-source register and selected complete relevant dossier paragraphs were reviewed. No source media/dossier or private handout was edited, no new original ASR/audio/image/map/sheet review occurred, and no unresolved geographical or custody question was closed beyond the scoped registry refresh. No commit or push by this task.
 
 Next inventory the remaining creature and faction domains, then continue bounded reviews and final campaign integration. Geographic crosswalk and targeted listening remain pending.
+
+### Fiftieth implementation checkpoint — creature/faction inventory
+
+**2026-10-27: Inventory completed; no subject rewrites.** [Report](../reports/DELVERS_CREATURE_FACTION_INVENTORY_2026-10-27.md) · [Inventory](DELVERS_CREATURE_FACTION_INVENTORY.json) · [Coverage](DELVERS_CREATURE_FACTION_COVERAGE.json) · [Validation](DELVERS_CREATURE_FACTION_VALIDATION.json) · [Archive](../research/legacy/2026-10-27/delvers-creature-faction-inventory/README.md).
+
+Six current creature profiles and all nine index rows are recorded. All Rat's speech and bargaining require a character-context routing review; the speaking minotaur allies are a community, not bestiary specimens. Flameskull form/Enzo testimony needs a bounded distinction, while the skeletal-bat pilot is retained unless a specific defect is found. Gricks and hook horrors have later inserts against older closing horizons; the index's bat/hatchling summaries lag finale evidence. Individual behavior is not generalized to species rules or intelligence scores.
+
+Fourteen institutional/reference units are routed through existing setting, place and character material, not declared fourteen formal factions. No separate faction directory exists. Guild/Academy, companies, religions/sites, school, Cloven Brotherhood, press, civic rules, research circle, provisional employer context and reasoning communities retain distinct evidence limits. WORLD mixes thematic passages with episode-led inserts and a global S2E04 closing status; it needs later setting/institution reconciliation, not automatic duplication into new faction pages.
+
+The six profiles and full index were read. WORLD review is explicitly partial, with selected institution/source readbacks. Twenty-two patterns searched across all 37 dossiers provide routing candidates, not full factual verification. Seven selected complete primary paragraphs in four dossiers were reviewed; no new original ASR/audio, image/map, sheets, bonus exports or rulebook review occurred.
+
+Four exact pre-edit controls and rebased reading copies are archived; all 366 current-baseline protected files remain unchanged, including subjects/indices, all 20 item pages and refreshed character/place registers. No creature/faction page was added, moved or rewritten. No commit or push by this task.
+
+Next resolve All Rat and speaking-minotaur navigation/routing and reconcile stale bat/hatchling index summaries. Then review gricks/hook horrors, remaining form/source-note issues and WORLD setting/institution material. Final campaign integration and targeted listening remain pending.

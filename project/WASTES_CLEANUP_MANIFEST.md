@@ -1,6 +1,6 @@
 # The Wastes — completed-campaign cleanup migration manifest
 
-**Initialized:** 2026-10-27. **Status:** **Preliminary planning inventory only**. An exhaustive up-to-date file-by-file, hash-and-inbound-link census, source-claim review and migration log have **not** been performed. Based on a read-only inspection of GitHub `main` at **`c0b2a8317a1865922211920c62ae69b1a6661254`**, except where separately indicated. Do not confuse inspected paths with an accepted complete inventory.
+**Initialized:** 2026-10-27. **Status:** **Preliminary planning inventory only; eleven-arc boundaries now owner-approved by D-045, implementation pending**. An exhaustive up-to-date file-by-file, hash-and-inbound-link census, source-claim review and migration log have **not** been performed. Based on a read-only inspection of GitHub `main` at **`c0b2a8317a1865922211920c62ae69b1a6661254`**, except where separately indicated. Do not confuse inspected paths with an accepted complete inventory.
 
 [Campaign plan](WASTES_CAMPAIGN_CLEANUP_PLAN.md) · [proposed arc crosswalk](WASTES_NARRATIVE_CHAPTER_MAPS.md) · [existing world-arc manifest](WORLD_ARC_MIGRATION_MANIFEST.md) · [Delvers method](DELVERS_CLEANUP_MANIFEST.md).
 

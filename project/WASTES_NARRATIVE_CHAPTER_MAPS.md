@@ -1,6 +1,6 @@
-# The Wastes — proposed narrative arc boundaries and chapter maps
+# The Wastes — owner-approved eleven-arc structure and preliminary chapter maps
 
-**Prepared:** 2026-10-27. **Status:** Preliminary editorial scenario for evaluation, **not** a decided restructure or a completed source-to-scene audit. The six existing arcs remain canonical until the owner explicitly adopts new boundaries. [Plan](WASTES_CAMPAIGN_CLEANUP_PLAN.md) · [manifest](WASTES_CLEANUP_MANIFEST.md) · [current narrative guide](../narrative/README.md).
+**Prepared:** 2026-10-27. **Status:** **Eleven-arc boundary crosswalk owner-approved 2026-10-27 (D-045); migration NOT yet implemented.** The existing six arc documents are the current reading files until replacement and compatibility links are validated. The per-arc chapter beats below remain **unverified editorial outlines**, not an accepted scene-to-chapter coverage audit. [Plan](WASTES_CAMPAIGN_CLEANUP_PLAN.md) · [manifest](WASTES_CLEANUP_MANIFEST.md) · [current narrative guide](../narrative/README.md).
 
 ## 1. Counting convention and shared boundaries
 
@@ -11,9 +11,9 @@
 - Season boundaries do **not** determine arc boundaries: `S2E12` continues into `S3E01`; this proposed grouping keeps them together through `S3E03`.
 - `S3E019` is the separate concluding cast roundtable/Q&A, **not** a nineteenth played Season Three session or a sequel chapter.
 
-## 2. Proposed eleven-arc crosswalk
+## 2. Approved eleven-arc crosswalk (implementation pending)
 
-| Proposed arc | Entries (with exceptions) | Count* | Working title | Dominant narrative transformation |
+| Approved arc | Entries (with exceptions) | Count* | Working title | Dominant narrative transformation |
 | --- | --- | ---: | --- | --- |
 | **01** | E000–E009; incorporate E013.5 at the correct scene point | **10** | Beginnings in Dusthill | Strangers form a party, restore water and uncover older machinery |
 | **02** | E010–E026 | **17** | Chains and Bargains | Slavetown, captivity, mine descent, Soulbroker's compact and emerging identity |
@@ -29,7 +29,7 @@
 
 \*Counts are archive IDs contributing to a segment. Sum of row counts is **155** because **E101 contributes to two arcs**. Distinct main-story/intro IDs = **154**: **124** Season One IDs (E000–E128 minus E043/E107–E109/E127) and **30** played Season Two–Three IDs. E013.5 does not alter the main sequence count. Verify this crosswalk against the current [numbering index](EPISODE_NUMBERING.md) and dossier inventory before treating it as an automated assertion.
 
-**Boundary assessment needed:** Arc 07 sits at the upper limit of 20 entries. Its White Tower material may merit a shift of the boundary or a third segment after a paragraph/scene audit. Arc 08 is discontinuous in *release* numbering because E107–E109 belong to the historical prequel; maintain reader links for the latter, not a fabricated jump in fictional time. Arcs 10 and 11 divide at the Mars recovery/war-planning transition—not the recording-season boundary.
+**Implementation assessment needed:** Arc 07 sits at the upper limit of 20 entries. Its White Tower material requires careful scene-density assessment; do not shift an owner-approved arc boundary without seeking a new decision. Arc 08 is discontinuous in *release* numbering because E107–E109 belong to the historical prequel; maintain reader links for the latter, not a fabricated jump in fictional time. Arcs 10 and 11 divide at the Mars recovery/war-planning transition—not the recording-season boundary.
 
 ## 3. Preliminary per-arc chapter beats
 

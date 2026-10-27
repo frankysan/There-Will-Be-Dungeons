@@ -1,0 +1,77 @@
+{
+  "date": "2026-10-27",
+  "local_file_and_fragment_links": 1521,
+  "maintained_inbound_links": 13,
+  "exact_original_hashes": 4,
+  "reading_copy_target_equivalence": 4,
+  "protected_hashes": 366,
+  "unchanged_creature_profiles": 6,
+  "creature_index_rows": 9,
+  "institutional_reference_units": 14,
+  "alias_patterns": 22,
+  "candidate_matches": 1044,
+  "subject_rewrites": 0,
+  "known_subject_findings": {
+    "delvers/world/creatures/all-rat-cranium-congregation.md": [
+      "Introduction not first substantive section",
+      "No final Current status section",
+      "Source/production apparatus visible in main prose",
+      "Editorial caution visible in main prose"
+    ],
+    "delvers/world/creatures/flameskull.md": [
+      "Early consumable inventory mixed into creature status"
+    ],
+    "delvers/world/creatures/gricks.md": [
+      "Source/production apparatus visible in main prose",
+      "Later update and early closing horizon need reconciliation"
+    ],
+    "delvers/world/creatures/hook-horrors.md": [
+      "Introduction not first substantive section",
+      "Source/production apparatus visible in main prose",
+      "Editorial caution visible in main prose",
+      "Later update and early closing horizon need reconciliation"
+    ],
+    "delvers/world/creatures/noble-hollow-roper.md": [
+      "Editorial caution visible in main prose"
+    ],
+    "delvers/world/creatures/skeletal-bat-balcony.md": []
+  },
+  "errors": [],
+  "limits": [
+    "Six full current creature pages and full nine-row index read",
+    "WORLD headings, three opening sections, selected institutional sections and Current status reviewed; remaining sections not fully reread",
+    "Eight existing route introductions and Current status read, not complete profile reaudits",
+    "Twenty-two alias patterns searched across 37 dossiers; hits are routing candidates, absence is not proof",
+    "Seven selected complete primary paragraphs read; no full source reread",
+    "No new original ASR/audio, sheets, images/maps, bonus exports, rulebook, remote URL or rendered-site review",
+    "Independent Delvers continuity; no empty pages or automatic taxonomy migration"
+  ],
+  "markdownlint": {
+    "maintained_files": 5,
+    "violations": 0
+  },
+  "whitespace": {
+    "scoped_git_diff_check": "passed",
+    "direct_new_file_check": "passed"
+  },
+  "protected_groups": {
+    "campaign_files": 217,
+    "prior_batch_artifacts_and_inventories": 139,
+    "bonus_provenance_documents": 10
+  },
+  "reference_input_hashes": {
+    "AGENTS.md": "27550e57658704b45f9e09a9a4cd37bdbe9e6910094371f40c83fa1c06731fe8",
+    "project/WORLD_CREATURES_PLAN.md": "3540b58b9ea466e0507145cfdf9b3984111823323cad36d9ec27249e4f8739e7",
+    "project/WORLD_NARRATIVE_STYLE.md": "770dc7e4eb4bc71e57b8b706c21826923b3d255c1b3a865c41398521dcb20625"
+  },
+  "reference_inputs_unchanged": true,
+  "manual_readback": "Six full creature pages, full index, nine selected WORLD sections and eight existing route Introduction/Current status sections read. Seven selected complete primary paragraphs in four dossiers read. Report inventory table and boundaries reviewed; no subject rewrites or full faction/source audit.",
+  "preserved_registered_page_hashes": {
+    "character_dispositions": 35,
+    "character_inventory": 35,
+    "places": 27,
+    "artifacts": 20
+  },
+  "candidate_match_limit": "1044 recorded matches include overlapping entity patterns and generic terms. They route review and do not establish 1044 independent facts or absence of later evidence.",
+  "working_tree_context": "Initially clean main at 5bd18ad. All subject/indices being inventoried and earlier audit registers remain unchanged; four navigation/planning controls updated. No commit/push by this task."
+}
