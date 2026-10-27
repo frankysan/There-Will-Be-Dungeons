@@ -1,6 +1,10 @@
 # Vorel — titles and epithets register
 
-**Type:** Source-indexed supporting register for [Vorel](vorel.md), deliberately separated from the main character biography. **Evidence:** ASR-provisional, with source windows, name variants and social standing preserved. **Spoilers:** Through Wastes S3E08; Q&As are retrospective, not played conferrals. [Characters](../CHARACTERS.md) · [World portal](../README.md).
+**Type:** Source-indexed supporting register for [Vorel](vorel.md), deliberately separated from the main character biography. **Evidence:** ASR-provisional, with source windows, name variants and social standing preserved. **Spoilers:** Through Wastes S3E09; Q&As are retrospective, not played conferrals. [Characters](../CHARACTERS.md) · [World portal](../README.md).
+
+## S3E09 — NEW recognized title “Slayer of the God Killer”; old titles recited
+
+At the beginning of [played S3E09 — Tank Boy](../../episodes/S3E09.md), **~00:06:00–00:08:15** during Vorel's apparent **Endless Dunes encounter**, the defeated rival **GROXL** (ASR Grojil/Grozil) directly addresses Vorel with **“YOU ARE NOW SLAYER OF THE GOD KILLER”**, acknowledging the foe who defeated him. **NEW PERSONALLY RECOGNIZED / RIVAL-CONFERRED HONORIFIC**, not a self-proclaimed title or institutional appointment. At **~00:21–00:23**, Vorel **ACTUALLY ACCEPTS AND REPEATS “Slayer of the God Killer”** and promises to remember Groxl's story, while **refusing Groxl's demand to pursue god-slaying vengeance**; he instead intends lizardfolk to inhabit Solar Mines peacefully. The other long title string Vorel recites at **~00:06–00:08** includes “Lizard King”, “Hero of the Wastes”, “Sailor of Space”, “Most Wanted of the Dread Pirates”, “Victorious Dreamer”, “Entomber of the Maggot Lord”, “Cannoneer of the Principle's Face”, “Parter of Lasers”, and **REPEATS S3E08 “Savior of the Universe”**. It **DOES NOT establish each as a first award in S3E09**; several transcription variants and their first earlier occurrence require source-by-source audio checks. **“Groxl the God Killer” describes the RIVAL, not Vorel claiming to be Groxl**. Both P/Q corroborate recognized “Slayer” core wording; original audio not listened. [S3E09 audit](../../reports/WASTES_S3E09_ASR_COMPARISON_2026-10-27.md).
 
 ## S3E08 — NEW self-proclaimed “Vorel, Savior of the Universe” while severing giant's heart
 

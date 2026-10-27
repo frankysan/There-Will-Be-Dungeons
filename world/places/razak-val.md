@@ -1,10 +1,14 @@
 # Razak Val — lizardfolk clans, Great Fang and scaling
 
-**Working name:** `Razak Val` (processed ASR also `Razak Fal`, `Razakvale`, `Razokval`). **Spelling not independently confirmed** by audio or an original map. First physically visited by the party in corrected [E059](../../episodes/E059.md), developed in [E060](../../episodes/E060.md)–[E065](../../episodes/E065.md). **Spoilers through S2E02, including E104 follow-up testimony**, based on **unverified processed Parakeet SRTs**.
+**Working name:** `Razak Val` (processed ASR also `Razak Fal`, `Razakvale`, `Razokval`). **Spelling not independently confirmed** by audio or an original map. First physically visited by the party in corrected [E059](../../episodes/E059.md), developed in [E060](../../episodes/E060.md)–[E065](../../episodes/E065.md). **Spoilers through played Wastes S3E09, including E104 follow-up testimony**, based on **unverified processed Parakeet SRTs**.
 
 ## Landscape and settlement
 
 A **mountain-walled sunken valley** in the lizardfolk lands west of the group's Tietkalla journey; entrances into rock dwellings, tents, hunters' stalls, bone/leatherwork and guards occupy it. Its chief public components are the **Razak Duar arena** (provisional spelling), **Cave Fengar** for influential clan business and feasts, and **Tailway**, an open-air shrine with pillars and dragon-priest officiants. The characters **ride velociraptor-like mounts** alongside **Fate 4** to reach this region and use a **Tiny Hut** to wait out a huge bloodsucking desert swarm on the way. [E059](../../episodes/E059.md) · [E060](../../episodes/E060.md).
+
+## S3E09 — Groxl's first Great Fang claim conflicts with Razak-the-Bronze tradition
+
+In [played Wastes S3E09](../../episodes/S3E09.md) **~00:13–00:22**, Vorel experiences **the “Endless Dunes”** and hears a defeated supernatural figure identifying as **Groxl (Grojil/Grozil automatic variants)** assert that, after an artificial vat/soup origin and rejection by other lizardfolk, he **united the tribes of Razak Val and became its FIRST GREAT FANG / founded nation**. He says his **inability to sire eggs/offspring** led to his abandonment of the united clans and their decay. **This is GROXL'S FIRST-PERSON STORY, not independently researched oral history or a witnessed ancient sequence**. **Important explicit source conflict:** the priestly **S1 E060 Razak Val tradition identifies “RAZAK THE BRONZE” as the first Great Fang**, while the S3E09 speaker claims that role for himself. Do **NOT** replace Razak the Bronze with Groxl, equate the two without evidence, or silently treat either as verified omniscient fact; possibilities include incompatible traditions, mythic name/alias, an earlier/later reign or unreliable narrator. The conflict requires original-audio check and in-world source corroboration. Vorel **REJECTS Groxl's intergenerational vengeance**, intending lizardfolk to inhabit **Solar Mines peacefully** if the mission succeeds, **not a completed Razak Val reform or established peace treaty**. [S3E09 two-ASR audit](../../reports/WASTES_S3E09_ASR_COMPARISON_2026-10-27.md).
 
 ## Political organization
 

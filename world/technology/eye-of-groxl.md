@@ -2,7 +2,11 @@
 
 **Browse:** [Items and artifacts](../ITEMS_AND_ARTIFACTS.md) · [World portal](../README.md)
 
-**Canonical object identity:** **One artifact**, with owner-confirmed spelling **Eye of Groxl**. Processed ASR names `Grojil` and `Groxel` refer to **this same object**, including the E067 “god killer Grojil” phrase; they are not a second god/item. [D-028/D-034](../../project/DECISIONS.md). **Spoilers:** Through played Wastes S3E08. **Research:** ASR-provisional mechanics and lore.
+**Canonical object identity:** **One artifact**, with owner-confirmed spelling **Eye of Groxl**. Processed ASR names `Grojil` and `Groxel` refer to **this same object**, including the E067 “god killer Grojil” phrase; they are not a second god/item. [D-028/D-034](../../project/DECISIONS.md). **Spoilers:** Through played Wastes S3E09. **Research:** ASR-provisional mechanics and lore.
+
+## S3E09 — defeated Groxl CLAIMS the Eye was fashioned from his removed eye
+
+In [played S3E09](../../episodes/S3E09.md) ~00:04–00:25, Vorel undergoes a **SUPERNATURAL / POSSIBLY AFTERLIFE encounter in “Endless Dunes”** after physically defeating giant. In that scene **his embedded Eye is ABSENT** and a defeated ancient lizardfolk self-identifies as **Groxl**. He tells an **attributed origin story**: humans grew him “in soup,” manipulated, killed and tested him, and ultimately **ONE WARLOCK ACTUALLY REMOVED HIS EYE AND MADE IT INTO A WEAPON / ARTIFACT** later found in **VOREL'S CHEST**. This explains why the Eye might hate or call the MACHINE-ENHANCED GIANT “not Grojil” / “abomination” in S3E08, **but it is Groxl's own narrative, not independent provenance evidence or full mechanical reconciliation of S3E07 identification**. **VOREL AWAKENS IN REAL SOLAR MINES WORLD at ~00:26, and the GM EXPLICITLY CONFIRMS THAT EYE REMAINS IN HIS CHEST**; it was missing only IN THE ENDLESS DUNES VISION. No transfer, eye destruction, replacement or additional observed ability this episode. Groxl **RECOGNIZES VOREL AS “SLAYER OF THE GOD KILLER”** (title of Vorel, not a newly named Eye power), and Vorel refuses his revenge philosophy. [Title register](../characters/vorel-titles.md) · [S3E09 comparison](../../reports/WASTES_S3E09_ASR_COMPARISON_2026-10-27.md). No audio listened.
 
 ## S3E08 — Eye contradicts apparent certainty and reveals generator dependency
 
