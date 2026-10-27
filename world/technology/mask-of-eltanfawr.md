@@ -1,5 +1,9 @@
 # Mask of Eltanfawr
 
+## S3E13 — mask actually re-summons wrecked Fate Six as active ship; ghosts incompletely restored
+
+After [Wastes S3E07](../../episodes/S3E07.md) GROXL **PHYSICALLY CRUSHED FATE SIX INTO WRECKAGE**, in [played S3E13](../../episodes/S3E13.md) **~01:42–01:44**, STANLEY still **ATTUNED TO HIS MASK** and **ACTUALLY USES its MIND/MASK CONNECTION TO CALL FATE SIX BACK INTO VIEW** in EARTH DESERT. **AIRSHIP PHYSICALLY APPEARS WITH PROPELLERS MOVING, DESCENDS, UNFURLS LADDER; party boards and flies it**, not mere wishful thinking / a new four-day attunement. **MOST GHOST CREW ALSO MANIFESTS** including Uncle Sever and Gorgeous George, but **CROOKED HAND ROW PERMANENTLY UNAVAILABLE BY CREW TESTIMONY (“passed into nothingness”), others missing**; materialization of the vessel DOES NOT undo all deaths. **HOPE ACTUALLY TAKES HELM/NAVIGATOR ROLE** in deceased navigator's absence. GM knows mask enables airship ↔ cottage change and MATERIAL-PLANE gate movement with known codes, but **DOES NOT CONFIRM FATE SIX TRAVEL BETWEEN SEPARATE PLANES** (S3E13 ~02:28–02:31; DM explicitly reserves judgment), so no invented Sigil passage. [S3E13 P/Q report](../../reports/WASTES_S3E13_ASR_COMPARISON_2026-10-27.md), no audio.
+
 ## Introduction
 
 The Mask of Eltanfawr is a dark, jewel-studded face covering discovered among the hidden possessions of [Stanley Billings's](../characters/stanley-billings.md) father. It rested in the impossible upper study of [Villa Ornath](../places/villa-ornath.md), beside the [Book of Adjacencies](book-of-adjacencies.md), charts of the stars and a model of Earth. Fashioned from a nearly weightless black material, it had no ordinary straps and was said to fit itself to its wearer. Stanley took possession of it without yet putting it on.[^mask-discovery]

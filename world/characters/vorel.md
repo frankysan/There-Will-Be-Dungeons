@@ -1,8 +1,12 @@
 # Vorel
 
-**Portrayed by:** Kyle. **Identity:** Lizardfolk warrior and leader, protector of **Bok Bok**, bearer of the **Eye of Groxl** and claimant to many personal titles. **Spoilers:** Main Wastes through **S3E11** and cast Q&As, including the April, May and July-filed 2022 retrospectives. **Evidence:** ASR-provisional except owner-confirmed item/name orthography.[^march21]
+**Portrayed by:** Kyle. **Identity:** Lizardfolk warrior and leader, protector of **Bok Bok**, bearer of the **Eye of Groxl** and claimant to many personal titles. **Spoilers:** Main Wastes through **S3E13** and cast Q&As, including the April, May and July-filed 2022 retrospectives. **Evidence:** ASR-provisional except owner-confirmed item/name orthography.[^march21]
 
 **Browse:** [Characters](../CHARACTERS.md) · [His source-indexed titles](vorel-titles.md) · [Eye of Groxl](../technology/eye-of-groxl.md) · [World portal](../README.md).
+
+## S3E13 — questions Nash's heart, attempts Sinatra, new humorous “Vorel the Patient” epithet
+
+In [played S3E13](../../episodes/S3E13.md), VOREL requests MEDICAL/INSIGHT assessment of whether Nash can survive WITHOUT DRAGON METAL HEART; GM indicates underwear DNA and some magic might persist; **STANLEY privately learns REMINDER of cocoon directive to kill Nash (VOREL NOT TOLD)**. VOREL seeks BRETT, makes **ACTUAL APPROACH TO SINATRA THEATRE** in Hell, but party FAILS TO ENTER/HEAR SINATRA; returns to bar and orders apparent TARRASQUE STEAK which **STANLEY *DISPEL MAGIC*S to reveal human entrails/creatures**; later replacement food *DISPEL MAGIC* unaffected, Vorel partakes and drinks sparkling BLOOD. He **REMAINS PATIENT THROUGH HOURS OF WAITING UNTIL BARTENDER REVEALS HIMSELF TO BE BRETT**, who takes NASH'S HEART and snatches all four to EARTH. VOREL **ACTUALLY POUNDS SAND IN ANGER ON EARTH after escape from Hell**, then walks back onto **PHYSICALLY RESUMMONED FATE SIX** with Uncle Sever/Gorgeous George and absent Crooked Hand Row. **VOREL HUMOROUSLY SELF-SAYS “VOREL THE PATIENT THEY WILL CALL” near ~01:50–01:53**, **NEW SOURCE-OBSERVED SELF-EPITHET**, not conferred by elves or public honorific, ASR spelling/meaning provisional; [title register](vorel-titles.md). VOREL ***ACTUALLY ROLLS SURVIVAL18*** to orient by DEAD FINGERS NW and guide HOPE'S ship to SOLAR MINES NE. At ELHANDARI reunion he insists their Solely Prime did not partake in cocaine, gently reducing elder's concern; supports resuming WORLD-BREAKER effort. No SOUL PACT signed, no Ruby activation. [S3E13 audit](../../reports/WASTES_S3E13_ASR_COMPARISON_2026-10-27.md).
 
 ## S3E12 — rages against giant, breaks Hell restraints, repeats Contractless defender title
 

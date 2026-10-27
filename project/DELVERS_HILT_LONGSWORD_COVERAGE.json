@@ -1,0 +1,128 @@
+{
+  "date": "2026-10-27",
+  "scope": "Destroyed Soul Knife hilt and separately forged Dragon Slayer longsword",
+  "headings": [
+    {
+      "path": "delvers/world/items/runic-sword-hilt.md",
+      "old_heading": "Soul Knife \u2014 the runic hilt from the stone chest",
+      "old_anchor": "soul-knife--the-runic-hilt-from-the-stone-chest",
+      "target": "Native heading or compatibility anchor beside chronological development",
+      "disposition": "Preserved; complete original archived"
+    },
+    {
+      "path": "delvers/world/items/runic-sword-hilt.md",
+      "old_heading": "Overview",
+      "old_anchor": "overview",
+      "target": "Native heading or compatibility anchor beside chronological development",
+      "disposition": "Preserved; complete original archived"
+    },
+    {
+      "path": "delvers/world/items/runic-sword-hilt.md",
+      "old_heading": "Recovery and questions",
+      "old_anchor": "recovery-and-questions",
+      "target": "Native heading or compatibility anchor beside chronological development",
+      "disposition": "Preserved; complete original archived"
+    },
+    {
+      "path": "delvers/world/items/runic-sword-hilt.md",
+      "old_heading": "The blade awakened",
+      "old_anchor": "the-blade-awakened",
+      "target": "Native heading or compatibility anchor beside chronological development",
+      "disposition": "Preserved; complete original archived"
+    },
+    {
+      "path": "delvers/world/items/runic-sword-hilt.md",
+      "old_heading": "Victory at the keep",
+      "old_anchor": "victory-at-the-keep",
+      "target": "Native heading or compatibility anchor beside chronological development",
+      "disposition": "Preserved; complete original archived"
+    },
+    {
+      "path": "delvers/world/items/runic-sword-hilt.md",
+      "old_heading": "The blade without a hilt",
+      "old_anchor": "the-blade-without-a-hilt",
+      "target": "Native heading or compatibility anchor beside chronological development",
+      "disposition": "Preserved; complete original archived"
+    },
+    {
+      "path": "delvers/world/items/runic-sword-hilt.md",
+      "old_heading": "A second blade remembered",
+      "old_anchor": "a-second-blade-remembered",
+      "target": "Native heading or compatibility anchor beside chronological development",
+      "disposition": "Preserved; complete original archived"
+    },
+    {
+      "path": "delvers/world/items/runic-sword-hilt.md",
+      "old_heading": "Two blades that leave the hand",
+      "old_anchor": "two-blades-that-leave-the-hand",
+      "target": "Native heading or compatibility anchor beside chronological development",
+      "disposition": "Preserved; complete original archived"
+    },
+    {
+      "path": "delvers/world/items/runic-sword-hilt.md",
+      "old_heading": "Current status",
+      "old_anchor": "current-status",
+      "target": "Native heading or compatibility anchor beside chronological development",
+      "disposition": "Preserved; complete original archived"
+    },
+    {
+      "path": "delvers/world/items/dragon-slayer-longsword.md",
+      "old_heading": "Dragon Slayer's Longsword \u2014 Radiant Lance forge",
+      "old_anchor": "dragon-slayers-longsword--radiant-lance-forge",
+      "target": "Native heading or compatibility anchor beside chronological development",
+      "disposition": "Preserved; complete original archived"
+    },
+    {
+      "path": "delvers/world/items/dragon-slayer-longsword.md",
+      "old_heading": "Creation and appearance",
+      "old_anchor": "creation-and-appearance",
+      "target": "Native heading or compatibility anchor beside chronological development",
+      "disposition": "Preserved; complete original archived"
+    },
+    {
+      "path": "delvers/world/items/dragon-slayer-longsword.md",
+      "old_heading": "Demonstrated properties and chronology",
+      "old_anchor": "demonstrated-properties-and-chronology",
+      "target": "Native heading or compatibility anchor beside chronological development",
+      "disposition": "Preserved; complete original archived"
+    },
+    {
+      "path": "delvers/world/items/dragon-slayer-longsword.md",
+      "old_heading": "S2E09 retrospective: the dragon's death",
+      "old_anchor": "s2e09-retrospective-the-dragons-death",
+      "target": "Native heading or compatibility anchor beside chronological development",
+      "disposition": "Preserved; complete original archived"
+    }
+  ],
+  "additional_blocks": [
+    {
+      "path": "delvers/world/items/runic-sword-hilt.md",
+      "old_block": "Historical unidentified status, awakening tests, scion warning, flameskull encounter, destruction, later two-blade/ranged ability recaps, unreferenced Sun Blade note",
+      "target": "Introduction, Arc One recovery/awakening/destruction, concise Arc Two legacy, final destroyed status and referenced source notes"
+    },
+    {
+      "path": "delvers/world/items/dragon-slayer-longsword.md",
+      "old_block": "Opening acquisition/current holder/appearance cautions, forge and failed attempts, actual strike, old midfight status and later retrospective",
+      "target": "Introduction, Arc Two origin/use/aftermath, final last-known custody and forge/tries/fight/aftermath/status notes"
+    }
+  ],
+  "domains": {
+    "delvers/world/items/runic-sword-hilt.md": "Artifact nature, custody, recognition, psychic tests, destruction and ability legacy; later powers belong to Koh rather than a replacement object",
+    "delvers/world/items/dragon-slayer-longsword.md": "Artifact origin, physical appearance, actual anti-dragon use versus later narrated kill, retained custody and unresolved later fate"
+  },
+  "review": "Both complete pre-edit/revised profiles; hilt/runic/Soul Knife/mind sword/psi blade/dragon-slayer/golden-sword/longsword descriptions searched across all 37 dossiers. Selected complete relevant paragraphs in S1E04/05/06/07, S2E02/03/04/08/09 and distinct-object/production candidate paragraphs in S1E03, S2E01/07/11, S3E01 reviewed. No new original ASR/audio, sheet, rulebook, art or map review.",
+  "critical_boundaries": [
+    "Hilt discovered unidentified; later Carrie identification/return supersedes historical cutoff without backdating recognition",
+    "Stone/metal appearance not a verified alloy composition; nonsentient assessment and incomplete mechanism retained",
+    "Carrie red spark versus Koh cyan projection; table and finger tests demonstrate psychic harm without ordinary cuts",
+    "Scion warning is attributed testimony, not a proven conspiracy",
+    "Flameskull psychic kill separate from holy-water ash and two garnets, no universal immunity bypass",
+    "S1E07 hilt crumbles; later two-blade and ranged abilities persist independently, no new hilt or retroactive early power",
+    "Partial Snake Island memory does not resolve falling patrons fate or curse; activation/defense and successful dual hits remain distinct",
+    "Unreferenced Sun Blade speculation is now attached to status but still unconfirmed production talk",
+    "Longsword forged after actual gold sacrifice; potato burns, failed ball-bearing/candle attempts not additional weapons",
+    "Golden appearance does not establish full metallurgy or potato ornament; exact written item properties unverified",
+    "S2E08 actual hit wounds living dragon; S2E09 omitted conclusion is GM retrospective with Marsh arrow finishing blow, no new played sword strike",
+    "Last explicit sword custody Evelyn after expedition; later transforming blade does not prove conversion/disposal of this weapon"
+  ]
+}

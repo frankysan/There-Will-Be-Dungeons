@@ -1,6 +1,10 @@
 # The Principle — Vladimir
 
-**Identity:** Usually called **the Principle**, sometimes transcribed “Principal”; identified by an Elhandari high elf as **Vladimir** in E115. In S3E01 Qwen proposes the tentative **new surname “Trix”**, but this is not verified. **Role:** Ancient political/technological power connected to Slavetown, Tietkalla diplomacy and the Soulbroker pact. **Spoilers:** Played Wastes through S3E12 plus explicitly attributed May and July-filed 2022 cast/GM Q&As; this remains the SAME story arc initiated in Season Two. **Evidence:** Provisional ASR; no independent listening.
+**Identity:** Usually called **the Principle**, sometimes transcribed “Principal”; identified by an Elhandari high elf as **Vladimir** in E115. In S3E01 Qwen proposes the tentative **new surname “Trix”**, but this is not verified. **Role:** Ancient political/technological power connected to Slavetown, Tietkalla diplomacy and the Soulbroker pact. **Spoilers:** Played Wastes through S3E13 plus explicitly attributed May and July-filed 2022 cast/GM Q&As; this remains the SAME story arc initiated in Season Two. **Evidence:** Provisional ASR; no independent listening.
+
+## S3E13 — still NOT physically seen, rumored Brett reuse, intact Ruby still in original core chamber
+
+In [played Wastes S3E13](../../episodes/S3E13.md) the PRINCIPLE **DOES NOT PHYSICALLY REAPPEAR after BRETT/ASMODEUS'S S3E12 SNAP DISAPPEARANCE**. BRETT in Hell says he may use the Principle as another agent and insinuates he might send him for missing **EYE OF THE VOICE**; **THIS IS A SPOKEN INTENTION, NO ONSCREEN REAPPEARANCE, LOCATION, DEATH, BANISHMENT DESTINATION OR ACTION ON EARTH**. Four heroes ACTUALLY RETURN TO EARTH, and **ADMIRAL CHRYSORIUS CONFIRMS THEY DON'T KNOW WHERE PRINCIPLE WENT**; argues still a threat potentially capable of chroming. **RUBY COMPLETE AND UNSPENT** remains in PRINCIPLE'S MOLTEN SOLAR MINES ROOM protected by *Otiluke's Sphere* since S3E11; CHRYSORIUS accepts STANLEY'S ORDER TO SEND ELITE TEAM TO SECURE IT, but **NO RECOVERY/ACTION BY THE PRINCIPLE IS OBSERVED**. No new physical fight with PRINCIPLE, no self-surrender or negotiated perpetual armistice. [S3E13 report](../../reports/WASTES_S3E13_ASR_COMPARISON_2026-10-27.md), audio unverified.
 
 ## S3E12 — battles Soulbroker, then ACTUALLY BETRAYS HEROES; gives Voice Hand to Asmodeus and is snapped away
 

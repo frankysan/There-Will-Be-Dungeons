@@ -1,0 +1,25 @@
+# Delvers censer and friendship ribbon cleanup checkpoint
+
+**Date:** 2026-10-27. **Scope:** [Devotee's Censer](../delvers/world/items/devotees-censer.md) and [friendship ribbon](../delvers/world/items/friendship-ribbon.md), applying the [world narrative style](../project/WORLD_NARRATIVE_STYLE.md). This is a bounded editorial migration using existing evidence, not new episode intake or whole-campaign factual certification.
+
+## Result and evidence boundaries
+
+Both canonical paths and titles remain. Each page begins with first physical appearance, follows changes to nature, capabilities and custody, and ends with Current status. Sources, clocks, mechanics and illustration/research qualifications reside in referenced footnotes. Artifact sections have no character word quota.
+
+The censer is actually drawn from Krandal's farm at dawn before departure. Its roughly two-foot rod, silver chain, perforated potato flail head and golden fragrant smoke remain described. Its holy-symbol role and verbally stated radiant damage/healing cloud are preserved exactly in notes. Actual smoke and acquisition are distinguished from an unrecorded cloud activation. Neither Nopa Ropa's simultaneous armour work nor unrelated purchases becomes its origin. S3E11 visibly confirms expedition custody; later general healing and survival do not independently inspect or demonstrate this item.
+
+The ribbon starts as an ordinary eight-foot wrist tether. Carrie shares that tether but not the psychic connection; the object is not itself proven to extract minds. Only after the rescue does it glow and lengthen to about fifty feet. The idealized mirror likeness claims an enchantment, while future-self and divine-messenger identities remain interpretations. The six-inch segments, described reconnection, affectionate-memory pointer test, neon-pink light and responsive dimming remain, without inventing unlimited production, planar range or complete specifications.
+
+Margaret, Koh and Krandal receive actual pieces. The Traveler's planned gift becomes an actual Bronze Ball transfer and lapel rose, without backdating delivery or proving a curse cure or interplanar tracking. Later physical uses include a boat lasso, school possession and a marker attached to Scroungy. Evelyn's remembered friendships during the false-refuge projection do not establish a new automatic anti-illusion power. The final tower's old pink ribbon supplies a later physical appearance, not a reunited inventory or fresh test of every distributed segment. The GCT-signed invitation is not a performed wedding or tracking demonstration.
+
+## Preservation and review
+
+[Coverage](../project/DELVERS_CENSER_RIBBON_COVERAGE.json) accounts for all five former headings and the unheaded status, appearance, behavior, equipment and illustration blocks. [Archive](../research/legacy/2026-10-27/delvers-censer-ribbon/README.md) contains six exact working-copy originals, rebased reading copies and a SHA-256 manifest. All 339 protected hashes remain unchanged: 215 campaign files, 114 prior batch artifacts/inventories and ten bonus provenance documents. All 35 character disposition/inventory hashes and all 27 place-register hashes remain intact.
+
+Both full pre-edit and revised profiles were read. Ribbon/pink/rope/friendship/censer/censor/incense/flail/healing-cloud/aura terms were searched across all 37 dossiers. Selected complete relevant paragraphs in S2E10/11/12 and S3E07/08/10/11/12 were reviewed, alongside distinct-rope candidates in S2E07/08 and S3E04/09. Ordinary incense, Sultan's Sash and other ropes remain distinct. This is not a full reread of every dossier, fresh ASR comparison, original audio listening, official item-sheet/rulebook/art/map review or rendered-site preview. No source dossier/media, character biography, audit register or evidence issue was changed or closed. Existing Delvers work and unrelated Wastes changes were preserved. No commit or push by this task.
+
+## Validation and next work
+
+[Validation record](../project/DELVERS_CENSER_RIBBON_VALIDATION.json) records local file/fragment and inbound links, former targets, original hashes, reading-copy target equivalence, protected hashes, footnote structure, apparatus checks and prose measurements. Seven maintained files receive focused Markdownlint; archive copies instead receive hash/rebasing/link checks. Scoped Git and direct new-file whitespace checks apply. All checks passed: 1,322 local file/fragment links, 29 maintained inbound links, five former heading targets, six exact originals/equivalent reading copies and 339 protected hashes. Seven maintained files passed Markdownlint with zero violations. Main prose changed from 272 to 151 words for the censer and 481 to 307 for the ribbon; development sections contain 82 and 177/58 words respectively, reflecting different phases rather than an imposed quota.
+
+Next review the Chance Lantern and Drift Globe. Other artifact, creature and faction work, final campaign integration and unresolved listening remain pending.

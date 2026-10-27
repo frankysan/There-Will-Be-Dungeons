@@ -1,0 +1,25 @@
+# Delvers Soul Knife hilt and dragon-slayer longsword cleanup checkpoint
+
+**Date:** 2026-10-27. **Scope:** [runic Soul Knife hilt](../delvers/world/items/runic-sword-hilt.md) and [Dragon Slayer's Longsword](../delvers/world/items/dragon-slayer-longsword.md), applying the [world narrative style](../project/WORLD_NARRATIVE_STYLE.md). This is a bounded editorial migration using existing evidence, not new episode intake or whole-campaign factual certification.
+
+## Result and evidence boundaries
+
+Both canonical paths and titles remain. Introduction, chronological development and final Current status follow the subjects' nature, changes and last known state. Sources, mechanics and research/appearance cautions are in referenced footnotes. No artifact word quota or empty arc is imposed.
+
+The hilt's early unidentified state remains historical rather than contradicting Carrie's subsequent recognition and return to Koh. Rune-marked stone/metal appearance does not independently prove an alloy composition. Carrie's tiny red spark, Koh's cyan projection, table passage and painful uncut finger distinguish observed capabilities. The Masked Mage's scion warning is testimony rather than a verified conspiracy. Koh's flameskull killing blow remains separate from Evelyn's holy-water dousing, the resulting ash and the recovered garnets; no general immunity bypass follows.
+
+The physical hilt crumbles in the rust-monster encounter. Later abilities therefore receive a concise legacy section rather than repeated plot recaps or an invented replacement object. Two blades become available in the partial Snake Island memory, are manifested defensively at the wedding, and actually hit together against the bulette; ranged use follows another memory and is demonstrated against water/air guardians. The fallen patron's fate and curse remain unresolved, and those later powers are not backdated. The formerly unreferenced Sun Blade note now has a marker from Current status but remains unconfirmed out-of-game speculation.
+
+Evelyn's golden longsword is forged after her actual gold sacrifice; the potato burns away, ball bearings yield a crude lump and candles melt. Golden appearance establishes neither pure-gold metallurgy nor a potato motif. Its actual opportunity hit demonstrates anti-dragon damage without killing the dragon at that cutoff. The later missing conclusion is supplied by GM retrospective, with Marsh's separate arrow as the finishing blow; it is not a new fully played longsword strike. The latest explicit custody remains Evelyn after the expedition, without a later named storage, transfer or destruction. Her subsequent Loran blade does not establish conversion or disposal of this weapon.
+
+## Preservation and review
+
+[Coverage](../project/DELVERS_HILT_LONGSWORD_COVERAGE.json) accounts for all 13 former headings and the old unheaded status, appearance, mechanics, ability and theory blocks. [Archive](../research/legacy/2026-10-27/delvers-hilt-longsword/README.md) holds six exact working-copy originals, rebased reading copies and a SHA-256 manifest. All 345 protected hashes remain unchanged: 215 campaign files, 120 prior batch artifacts/inventories and ten bonus provenance documents. All 35 character disposition/inventory hashes and all 27 place-register hashes remain intact.
+
+Both complete old and revised profiles were read. Hilt/runic/Soul Knife/mind sword/psi blade/dragon-slayer/golden-sword/longsword descriptions were searched across all 37 dossiers. Selected complete relevant paragraphs in S1E04/05/06/07 and S2E02/03/04/08/09 were reviewed, alongside distinct-object and production candidate paragraphs in S1E03, S2E01/07/11 and S3E01. This is not a full reread of all dossiers, fresh ASR comparison, original audio listening, official item sheet/rulebook/art/map inspection or rendered-site preview. No source media/dossier, character biography, audit register or evidence issue was changed or closed. Existing Delvers and unrelated Wastes changes were preserved. No commit or push by this task.
+
+## Validation and next work
+
+[Validation record](../project/DELVERS_HILT_LONGSWORD_VALIDATION.json) records local links/fragments, inbound links, old targets, original hashes, reading-copy equivalence, protected hashes, footnote structure, apparatus checks and prose measurements. Seven maintained files receive Markdownlint; historical copies receive archive/hash/rebasing/link checks. Scoped Git and direct new-file whitespace checks apply. All checks passed: 1,366 local file/fragment links, 25 maintained inbound links, 13 former heading targets, six exact originals/equivalent reading copies and 345 protected hashes. Seven maintained files passed Markdownlint with zero violations. Main prose changed from 785 to 275 words for the hilt and 488 to 182 for the longsword; development sections contain 186/33 and 127 words respectively, reflecting artifact changes and a brief ability legacy rather than an imposed quota.
+
+Next review the Bag of Hammer Holding and Ring of Protection. Remaining artifacts, creature/faction work, campaign integration and unresolved listening remain pending.

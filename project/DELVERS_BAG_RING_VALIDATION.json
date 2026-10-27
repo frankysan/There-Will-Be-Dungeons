@@ -1,0 +1,67 @@
+{
+  "date": "2026-10-27",
+  "local_file_and_fragment_links": 1371,
+  "maintained_inbound_links": 22,
+  "former_headings_preserved": 9,
+  "exact_original_hashes": 6,
+  "reading_copy_target_equivalence": 6,
+  "explicit_reading_copy_link_corrections": 0,
+  "protected_hashes": 348,
+  "measurements": [
+    {
+      "path": "delvers/world/items/bag-of-hammer-holding.md",
+      "before_main_words": 225,
+      "after_main_words": 173,
+      "arc_words": [
+        78,
+        44
+      ],
+      "largest_arc_to_median": 1.279,
+      "footnotes": 4,
+      "anchors": 7
+    },
+    {
+      "path": "delvers/world/items/ring-of-protection.md",
+      "before_main_words": 262,
+      "after_main_words": 175,
+      "arc_words": [
+        125
+      ],
+      "largest_arc_to_median": 1.0,
+      "footnotes": 4,
+      "anchors": 7
+    }
+  ],
+  "errors": [],
+  "limits": [
+    "No new ASR, audio, remote URL or rendered-site review",
+    "Section dispositions and material-claim review, not sentence-by-sentence audio verification"
+  ],
+  "markdownlint": {
+    "maintained_files": 7,
+    "violations": 0
+  },
+  "whitespace": {
+    "scoped_git_diff_check": "passed",
+    "direct_new_file_check": "passed"
+  },
+  "manual_readback": "Both complete persisted artifact pages and pre-edit profiles read, plus selected complete relevant dossier paragraphs. Handmade single-object bag and later separate holding bags remain distinct; ring stated properties, actual resizing/handover and later inventory uncertainty are preserved. No audio or rendered-site review.",
+  "domain_contract": "Artifact nature, stated versus demonstrated capability, use, transfers and supported final custody. No generic item properties, invented age or post-finale inventory; no character word quota.",
+  "protected_groups": {
+    "campaign_files": 215,
+    "prior_batch_artifacts_and_inventories": 123,
+    "bonus_provenance_documents": 10
+  },
+  "preserved_character_audit": {
+    "character_pages": 35,
+    "matching_page_hashes": 35,
+    "inventory_page_hashes": 35,
+    "audit_register_inventory_protected": true
+  },
+  "preserved_place_register": {
+    "pages": 27,
+    "matching_page_hashes": 27,
+    "four_audit_artifacts_protected": true
+  },
+  "working_tree_context": "Existing Delvers and unrelated Wastes changes preserved. No commit or push by this task."
+}

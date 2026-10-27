@@ -1,6 +1,10 @@
 # Vorel — titles and epithets register
 
-**Type:** Source-indexed supporting register for [Vorel](vorel.md), deliberately separated from the main character biography. **Evidence:** ASR-provisional, with source windows, name variants and social standing preserved. **Spoilers:** Through Wastes S3E12; Q&As are retrospective, not played conferrals. [Characters](../CHARACTERS.md) · [World portal](../README.md).
+**Type:** Source-indexed supporting register for [Vorel](vorel.md), deliberately separated from the main character biography. **Evidence:** ASR-provisional, with source windows, name variants and social standing preserved. **Spoilers:** Through Wastes S3E13; Q&As are retrospective, not played conferrals. [Characters](../CHARACTERS.md) · [World portal](../README.md).
+
+## S3E13 — “Vorel the Patient” new humorous self-applied epithet (ASR provisional)
+
+In [played Wastes S3E13](../../episodes/S3E13.md) ~**01:49–01:53**, after hours of being kept in BRETT'S HELL CASINO and his **ACTUAL RETURN TO EARTH**, **VOREL** sarcastically reflects on enduring the “boredom” of human sin and privately/exclaims that **“Vorel the Patient, they will call me”** (P processed SRT has `the patient they will call` preceded by character's response; Q phonetically weak here). This is the **FIRST KNOWN CHARACTER SELF-DESCRIPTION WITH “PATIENT”**, and qualifies only as **HUMOROUS SELF-EPITHET** rather than a formal new rank conferred by elves, admirals, or king. **Mark exact wording [[review-needed:confirm P/Q muddled “the patient they will call” and whether “Vorel” spoken]]** until original audio. **Distinct from the earlier S3E11 “Contractless and Defender of Earth”**. Vorel's irritated refusal of Brett's culture is character context, not proof that anyone ACTUALLY recognizes this title. [P and Q source comparison](../../reports/WASTES_S3E13_ASR_COMPARISON_2026-10-27.md), original audio unheard.
 
 ## S3E12 — REPEAT ONLY: “the Contractless / Defender of Earth”
 

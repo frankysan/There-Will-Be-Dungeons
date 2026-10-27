@@ -1,0 +1,86 @@
+{
+  "date": "2026-10-27",
+  "scope": "Chance as an associated sentient companion and the separate nonsentient drift globe",
+  "headings": [
+    {
+      "path": "delvers/world/items/chance-lantern.md",
+      "old_heading": "Chance \u2014 Barclay's lantern spirit",
+      "old_anchor": "chance--barclays-lantern-spirit",
+      "target": "Native heading or compatibility anchor at chronological development",
+      "disposition": "Preserved; complete original archived"
+    },
+    {
+      "path": "delvers/world/items/drift-globe.md",
+      "old_heading": "Drift globe \u2014 Koh's recovered light source",
+      "old_anchor": "drift-globe--kohs-recovered-light-source",
+      "target": "Native heading or compatibility anchor at chronological development",
+      "disposition": "Preserved; complete original archived"
+    },
+    {
+      "path": "delvers/world/items/drift-globe.md",
+      "old_heading": "Overview and custody",
+      "old_anchor": "overview-and-custody",
+      "target": "Native heading or compatibility anchor at chronological development",
+      "disposition": "Preserved; complete original archived"
+    },
+    {
+      "path": "delvers/world/items/drift-globe.md",
+      "old_heading": "Explained powers and unresolved name",
+      "old_anchor": "explained-powers-and-unresolved-name",
+      "target": "Native heading or compatibility anchor at chronological development",
+      "disposition": "Preserved; complete original archived"
+    },
+    {
+      "path": "delvers/world/items/drift-globe.md",
+      "old_heading": "Light in the sanctuary",
+      "old_anchor": "light-in-the-sanctuary",
+      "target": "Native heading or compatibility anchor at chronological development",
+      "disposition": "Preserved; complete original archived"
+    },
+    {
+      "path": "delvers/world/items/drift-globe.md",
+      "old_heading": "Light in the woodland dungeon",
+      "old_anchor": "light-in-the-woodland-dungeon",
+      "target": "Native heading or compatibility anchor at chronological development",
+      "disposition": "Preserved; complete original archived"
+    },
+    {
+      "path": "delvers/world/items/drift-globe.md",
+      "old_heading": "Current status",
+      "old_anchor": "current-status",
+      "target": "Native heading or compatibility anchor at chronological development",
+      "disposition": "Preserved; complete original archived"
+    }
+  ],
+  "additional_blocks": [
+    {
+      "path": "delvers/world/items/chance-lantern.md",
+      "old_block": "First appearance, purported origin, spirit assessment, hand/name/writing, appearance constraints, journey custody and production recognition tease",
+      "target": "Introduction, single Arc Three companion section, Current status and identity/hand/status notes"
+    },
+    {
+      "path": "delvers/world/items/drift-globe.md",
+      "old_block": "Early orb recovery, party custody, stated powers, naming uncertainty, sanctuary and later-day grick light, outdated S1E04 status",
+      "target": "Introduction, Arc One and retained discovery/custody/powers/use/grick notes; later heritage, Anthela transfer, spa use and Evelyn transfer extend horizon"
+    }
+  ],
+  "domains": {
+    "delvers/world/items/chance-lantern.md": "Associated-being context retained at existing item path: spirit agency/communication and uncertain origin, lantern physical form and bearer; not ownership of a being or a bestiary species",
+    "delvers/world/items/drift-globe.md": "Nonsentient artifact: recovery, explained versus demonstrated illumination, former-bearer testimony, transfers and latest direct user"
+  },
+  "review": "Both complete pre-edit/revised profiles; Chance/lantern/lamp/globe/drift/dawn/daylight references searched across all 37 dossiers. Selected complete relevant paragraphs in S1E01/02/03/04/07/08/10, S2E03/12, S3E05/08/09/10 and related Barclay companion/return notes reviewed. No new original ASR/audio, guest sketch, sheet, rulebook, art or map review.",
+  "critical_boundaries": [
+    "Chance is a communicating companion; existing container-context path retained without a duplicate biography or classification as non-intelligent creature",
+    "Barclay earlier-expedition story and likely-undead Religion result are not verified identity/species/life history",
+    "Spectral hand shakes and writes, not audible full speech, face/full body or combat capability",
+    "Blue lantern appearance does not specify construction/material; carried container does not imply ownership of person",
+    "Out-of-game recognition tease deliberately withholds identity; no Wastes/Inverse/Delvers continuity inference",
+    "Chance last with Barclay on Atomer return; no later transfer/extinction/permanent recruitment inferred",
+    "Globe nonsentient finding separate from spirit-inhabited lantern; badge 542 not orb ID",
+    "Brom/Bram identified as dead brother by living Buck testimony; variants and unresolved charging claim retained",
+    "Explained float/follow/daylight distinct from tests; sanctuary/grick activations separated by actual intervening dawn, no invented recharge action",
+    "Anthela actual Ball handover; later Koh handling does not supply missing return scene",
+    "Spa Daylight releases Krandal; psychic strike kills creature and Evelyn filter spell separate",
+    "S3E08 actual Koh-to-Evelyn transfer followed by her S3E09 use; no later named custody or epilogue inventory inferred"
+  ]
+}

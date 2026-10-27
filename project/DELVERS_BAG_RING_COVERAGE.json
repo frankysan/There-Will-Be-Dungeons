@@ -1,0 +1,100 @@
+{
+  "date": "2026-10-27",
+  "scope": "Handmade hammer bag and flooded-ruin protection ring, separate item histories",
+  "headings": [
+    {
+      "path": "delvers/world/items/bag-of-hammer-holding.md",
+      "old_heading": "Bag of Hammer Holding \u2014 Margaret's gift",
+      "old_anchor": "bag-of-hammer-holding--margarets-gift",
+      "target": "Native heading or compatibility anchor at chronological development",
+      "disposition": "Preserved; complete original archived"
+    },
+    {
+      "path": "delvers/world/items/bag-of-hammer-holding.md",
+      "old_heading": "Introduction",
+      "old_anchor": "introduction",
+      "target": "Native heading or compatibility anchor at chronological development",
+      "disposition": "Preserved; complete original archived"
+    },
+    {
+      "path": "delvers/world/items/bag-of-hammer-holding.md",
+      "old_heading": "Enchantment",
+      "old_anchor": "enchantment",
+      "target": "Native heading or compatibility anchor at chronological development",
+      "disposition": "Preserved; complete original archived"
+    },
+    {
+      "path": "delvers/world/items/bag-of-hammer-holding.md",
+      "old_heading": "Current status",
+      "old_anchor": "current-status",
+      "target": "Native heading or compatibility anchor at chronological development",
+      "disposition": "Preserved; complete original archived"
+    },
+    {
+      "path": "delvers/world/items/ring-of-protection.md",
+      "old_heading": "Ring of Protection \u2014 a relic from the flooded ruins",
+      "old_anchor": "ring-of-protection--a-relic-from-the-flooded-ruins",
+      "target": "Native heading or compatibility anchor at chronological development",
+      "disposition": "Preserved; complete original archived"
+    },
+    {
+      "path": "delvers/world/items/ring-of-protection.md",
+      "old_heading": "Introduction",
+      "old_anchor": "introduction",
+      "target": "Native heading or compatibility anchor at chronological development",
+      "disposition": "Preserved; complete original archived"
+    },
+    {
+      "path": "delvers/world/items/ring-of-protection.md",
+      "old_heading": "Discovery and awakening",
+      "old_anchor": "discovery-and-awakening",
+      "target": "Native heading or compatibility anchor at chronological development",
+      "disposition": "Preserved; complete original archived"
+    },
+    {
+      "path": "delvers/world/items/ring-of-protection.md",
+      "old_heading": "Offered rather than claimed",
+      "old_anchor": "offered-rather-than-claimed",
+      "target": "Native heading or compatibility anchor at chronological development",
+      "disposition": "Preserved; complete original archived"
+    },
+    {
+      "path": "delvers/world/items/ring-of-protection.md",
+      "old_heading": "Current status",
+      "old_anchor": "current-status",
+      "target": "Native heading or compatibility anchor at chronological development",
+      "disposition": "Preserved; complete original archived"
+    }
+  ],
+  "additional_blocks": [
+    {
+      "path": "delvers/world/items/bag-of-hammer-holding.md",
+      "old_block": "Gift/introduction, enchanted-bag construction, dimensions, stated capacity, hammer test and early custody/limits",
+      "target": "Introduction, Arc One gift/test, Arc Two later named equipment, final bearer and gift/test/later/status notes"
+    },
+    {
+      "path": "delvers/world/items/ring-of-protection.md",
+      "old_block": "Unverified long storage age, old-script appearance, mental identification, sizing/gift, early worn status and underwater cutoff",
+      "target": "Introduction without invented age, Arc One discovery/identification/transfer, final uncertain custody and finding/awakening/gift/status notes"
+    }
+  ],
+  "domains": {
+    "delvers/world/items/bag-of-hammer-holding.md": "Artifact: handmade nature, purpose, stated single-object limit versus test, later equipment mentions and distinct holding bags",
+    "delvers/world/items/ring-of-protection.md": "Artifact: physical form, recognition, stated protection, actual sizing/transfer and later inventory uncertainty"
+  },
+  "review": "Both complete pre-edit/revised profiles. Named/related bag, hammer, bedazzled, tote, purse, holding, ring and protection descriptions searched across all 37 dossiers; selected complete relevant paragraphs in S1E07/10, S2E02/05/12, S3E06/07/10 and distinct-ring candidates in S2E01/09 and S3E04/05/11 read. No fresh original ASR/audio, sheets, rulebook, art or map review.",
+  "critical_boundaries": [
+    "Handmade gift by Margaret, not Guild-shop purchase; approximately two-by-one-foot dimensions preserved from old profile",
+    "One object up to sixty pounds is stated; hammer storage demonstrates that object, not a tested maximum or generic holding-bag behavior",
+    "Wedding hiding place is actual; Ball descriptor Wind Fan/Bag of Hammer Holding retained without invented fan transformation/new test",
+    "Evelyn separately buys a general Bag of Holding for javelins; no replacement/enlargement/merged inventory inferred",
+    "Last known bearer Evelyn, not a fully inspected epilogue inventory; later generic bags do not identify this one",
+    "Ring old-script and stone-metal appearance not independently dated storage age or shared artifact origin",
+    "Mental recognition and stated +1 AC/all saves do not prove sentience, soulbinding or full independent protection tests",
+    "Koh actually gives ring to Krandal, left middle finger and visible expansion; scale mail temporary ashore",
+    "S2E05 sheet/inventory uncertainty does not prove a loss, return or continuing worn state",
+    "Cloak Protection, Poison Resistance, Evasion, Free Action, Feather Falling and marriage rings distinct",
+    "S3E07 unidentified ring-assisted descent does not establish Evelyn receives this protection ring",
+    "Party underwater cutoff historical; no fabricated later transfer, disappearance, destruction or post-finale item inventory"
+  ]
+}

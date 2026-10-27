@@ -1,23 +1,35 @@
 # Evelyn's friendship ribbon — enchanted pink locator
 
-## S2E12: Traveler piece ACTUALLY GIVEN and worn as rose
+## Introduction
 
-Evelyn **actually gives one pre-cut six-inch neon-pink friendship segment to [Gentleman Cavalier Traveler](../characters/gentleman-cavalier-traveler.md) AT BRONZE BALL while dancing**, not a future-only plan. **GCT magically twists/rolls it into a small ROSE and places it on his formal LAPEL**, identifiable costume accessory for post-gift ball illustration. **No proven change to its locating mechanism, no tested interplanar tracking range**, and no further transfer before second-arc finale. [S2E12](../../episodes/S2E12.md), ~01:54–02:00.
+Evelyn buys an ordinary pink ribbon to bind her companions' wrists together while they attempt to reach Anthela's imprisoned mind. About eight feet long, it begins as a physical tether expressing her wish to keep everyone together.[^origin]
 
-**Origin:** In [Delvers S2E10 — Carrie On](../../episodes/S2E10.md), Evelyn buys **ordinary ~8-foot-long pink ribbon** to physically tie Koh, Krandal, Anthela and Carrie together before entering psychic realm. **No magic confirmed at purchase or initial use; Carrie was NOT among three psychic link targets despite sharing wrist tether.** The ribbon returns in Evelyn's Bag of Holding.
+## Development by arc
 
-## Transformation — S2E11 night at school
+<a id="transformation--s2e11-night-at-school"></a>
+<a id="played-magical-behavior"></a>
 
-At vanity in finishing-school room, Evelyn finds ribbon **brightly GLOWING PINK**, pulls it from bag to discover it now measures **~50 feet**. An **idealized shining armored reflection with perfect hair** speaks to her from mirror, claims to have enchanted it as a reflection of her loyalty, love and friendships, and warns the apparent Khalazar shade is not truly gone. Evelyn imagines possible **future self**, while Cassius following morning suggests **divine messenger because Evelyn is a paladin**. **Neither actual entity identity nor source of powers established.** Note: Evelyn acquired a **different black “back-of-head” mirror in S2E10**, but S2E11 scene refers to her vanity; whether same physical mirror used is **not explicitly settled**.[^vision]
+### Arc Two — Friendship given a guiding thread
 
-## Played magical behavior
+Back at school after the rescue, the ribbon glows bright pink and has grown to about fifty feet. A shining, armoured likeness of Evelyn speaks from her vanity mirror, claiming to have enchanted it in recognition of her love, loyalty and friendships. Evelyn wonders whether she sees her future self; Cassius later suggests a divine messenger. The visitor's identity remains unknown.[^vision]
 
-- **~50 feet after apparent enchantment**, initially **~8 feet**; **six-inch pieces** may be cut off; cut ends may magnetically attract and rejoin, and the longer parent strip **regains connection by magical means** according to reflection. Full “unlimited” production not quantified.
-- **Friendship/affection locator**: when bearer concentrates on affectionate shared memories of other connected ribbon bearers, a loose bit of ribbon **physically points/pulls in their direction**. Evelyn tests with Koh and Krandal in guild, who successfully experience pointer response after focused memories. **No demonstrated distance cap, planar range, tracking accuracy outside Atomer, anti-scrying bypass or direct teleportation.**
-- **Radiance:** intense **neon pink light with user-responsive dimming, up to a described 60-foot spread/radius**; fine mechanics of duration, luminosity, activation and whether all cut pieces glow equally **unverified**.
-- **Actually distributed:** Evelyn **gives** segments to **Margaret Dupayton**, **Koh** and **Krandal**. She sets aside one for the **Gallant Traveler**, but **has NOT met or given him any by S2E11 cutoff**. Her remaining length stays with her. **The rope is NOT Sultan's Sash, psychic spear or a quest-issued magic item**.[^test]
+The ribbon can be divided into small lengths. With affectionate memories of another bearer, a holder can make a loose piece point or pull toward that friend. Evelyn gives pieces to Margaret, Koh and Krandal, and the companions test the directional response. Its intense neon-pink light can also be dimmed, while the visitor describes a bond through which cut ends can reconnect.[^test]
 
-**Status by S2E11 cutoff:** Real in-world enchanted locator observed at school and guild; no written item card or official enchantment inventoried, divine origin and visitor predictions not established. Future depictions should use **vibrant neon pink flexible ribbon**, **not a chain, beam, rigid wand or staff**. It can be cut in small lengths and serve as glowing locator. The **magical awakening occurs AFTER Anthela's rescue**; the wrist ribbon used during S2E10 is not retrospectively magic.
+<a id="s2e12-traveler-piece-actually-given-and-worn-as-rose"></a>
 
-[^vision]: [S2E11](../../episodes/S2E11.md), ~00:45–00:55, school room/mirror event.
-[^test]: [S2E11](../../episodes/S2E11.md), ~01:01–01:13, first distribution and tests before exams.
+At the Bronze Ball, Evelyn gives the [Gentleman Cavalier Traveler](../characters/gentleman-cavalier-traveler.md) the piece she has saved for him. He folds it into a small pink rose and wears it on his lapel. The gift leaves him with a token of their connection, though Evelyn has not discovered whether it can guide her across the planes.[^gift]
+
+### Arc Three — A travelling rope and a youngling's marker
+
+The longer glowing ribbon serves as rope when Evelyn lassos a boat. Remembering the ribbon and her companions also helps her resist the false refuge that seeks to imprison her mind. Another small piece becomes a tracking marker for the hook-horror hatchling Scroungy when Krandal ties it on. Evelyn later keeps the enchanted rope with her at school.[^later]
+
+## Current status
+
+An old pink ribbon lies among the keepsakes in the rebuilt farm tower. The later whereabouts of the longer strip and each gifted piece are not fully known, nor whether all retain their guiding light.[^status]
+
+[^origin]: [S2E10](../../episodes/S2E10.md), ~00:50–01:00, ordinary ribbon bought and wrists tied before psychic rescue. Carrie shares the physical tether but is not one of Koh's three other Psychic Whispers targets (Anthela, Krandal, Evelyn); she stays in the laboratory. The tether does not itself extract minds or grant psychic access. The original page records roughly eight feet and later return in Evelyn's Bag of Holding; its later enchantment is not backdated to this use.
+[^vision]: [S2E11](../../episodes/S2E11.md), ~00:45–00:56, glowing lengthened ribbon, idealized shining armoured reflection with perfect hair, claims about bonds and warning Khalazar is not gone. The suggested future-self identity is Evelyn's interpretation; Cassius's divine-messenger explanation is an inference. The apparition's Bronze Ball prediction is not general proof of omniscience. The scene refers to a vanity mirror, not conclusively the same black rear-head mirror obtained in S2E10. No official item name or verified divine enchanter is established.
+[^test]: [S2E11](../../episodes/S2E11.md), ~01:01–01:13, distribution to Margaret, Koh and Krandal and actual direction tests after focused affectionate memories. The visitor describes six-inch segments, magnetic-like attraction/rejoining of cut ends and renewed connection to the longer strip; unlimited production is not quantified. Bright neon-pink illumination is described up to 60 feet, with responsive dimming, not a fully verified radius/duration/activation specification for every cut piece. No distance cap, interplanar range, tracking accuracy outside Atomer, anti-scrying bypass or teleportation is demonstrated. The flexible ribbon is distinct from Sultan's Sash and the psychic spear, not a chain, beam, rigid wand, staff or quest-issued item.
+[^gift]: [S2E12](../../episodes/S2E12.md), ~01:54–02:00, the saved six-inch piece is actually given and folded into a lapel rose. The earlier S2E11 delivery plan becomes fulfilled here, without backdating the gift. Neither the rose form nor the Traveler's account of an astral curse demonstrates planar tracking, a cure, engagement or marriage.
+[^later]: [S3E07](../../episodes/S3E07.md), ~00:35–00:50, successful boat lasso with pink glowing rope; [S3E08](../../episodes/S3E08.md), ~00:29–00:35, remembered bracelet/Traveler and companions within a psychic projection, not a new ribbon power that automatically defeats illusions; ~01:51–02:00, actual cutting/giving and attachment to Scroungy. The tracking purpose is reported, not a new measured range test or proof of trained-pet status. [S3E10](../../episodes/S3E10.md) records Evelyn's overnight rest at school with the enchanted rope; no new enchantment is identified there.
+[^status]: [S3E12](../../episodes/S3E12.md), ~02:47–02:49:11.950, final tower scene includes old pink ribbon associated in the dossier with Scroungy. It does not inventory or reunite every distributed piece, measure the parent strip, or demonstrate continuing light/locator behavior. The invitation signed GCT in that scene does not test interplanar tracking or establish a performed wedding. Ribbon/pink/rope/friendship references were searched across all 37 dossiers; selected complete relevant paragraphs reviewed. No new original ASR/audio, item card, art or map review occurred.

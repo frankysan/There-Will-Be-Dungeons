@@ -1,0 +1,72 @@
+{
+  "date": "2026-10-27",
+  "scope": "Separate censer and ribbon artifact histories, using completed campaign dossiers",
+  "headings": [
+    {
+      "path": "delvers/world/items/devotees-censer.md",
+      "old_heading": "Krandal's potato-headed Devotee's Censer",
+      "old_anchor": "krandals-potato-headed-devotees-censer",
+      "target": "Native H1 or compatibility anchor beside the relevant chronological development",
+      "disposition": "Preserved; complete original archived"
+    },
+    {
+      "path": "delvers/world/items/friendship-ribbon.md",
+      "old_heading": "Evelyn's friendship ribbon \u2014 enchanted pink locator",
+      "old_anchor": "evelyns-friendship-ribbon--enchanted-pink-locator",
+      "target": "Native H1 or compatibility anchor beside the relevant chronological development",
+      "disposition": "Preserved; complete original archived"
+    },
+    {
+      "path": "delvers/world/items/friendship-ribbon.md",
+      "old_heading": "S2E12: Traveler piece ACTUALLY GIVEN and worn as rose",
+      "old_anchor": "s2e12-traveler-piece-actually-given-and-worn-as-rose",
+      "target": "Native H1 or compatibility anchor beside the relevant chronological development",
+      "disposition": "Preserved; complete original archived"
+    },
+    {
+      "path": "delvers/world/items/friendship-ribbon.md",
+      "old_heading": "Transformation \u2014 S2E11 night at school",
+      "old_anchor": "transformation--s2e11-night-at-school",
+      "target": "Native H1 or compatibility anchor beside the relevant chronological development",
+      "disposition": "Preserved; complete original archived"
+    },
+    {
+      "path": "delvers/world/items/friendship-ribbon.md",
+      "old_heading": "Played magical behavior",
+      "old_anchor": "played-magical-behavior",
+      "target": "Native H1 or compatibility anchor beside the relevant chronological development",
+      "disposition": "Preserved; complete original archived"
+    }
+  ],
+  "additional_blocks": [
+    {
+      "path": "delvers/world/items/devotees-censer.md",
+      "old_block": "Dawn extraction, potato form/holy symbol, stated effects, separate armour, possession and other equipment context",
+      "target": "Introduction, Arc Three development, final custody and grant/powers/status notes; unrelated gear remains in linked character/dossier"
+    },
+    {
+      "path": "delvers/world/items/friendship-ribbon.md",
+      "old_block": "Ordinary wrist tether, mirror apparition, magical behavior list, distribution, historical S2E11 status and actual S2E12 rose gift",
+      "target": "Introduction, Arc Two transformation/test/gift, Arc Three uses, final tower state and referenced notes; former cutoff remains historical"
+    }
+  ],
+  "domains": {
+    "delvers/world/items/devotees-censer.md": "Artifact: physical form, divine presentation, acquisition, stated capabilities versus observed smoke and last custody",
+    "delvers/world/items/friendship-ribbon.md": "Artifact: mundane origin, transformation, claimed enchanter, tested locator, divided custody, practical uses and last physical remnant"
+  },
+  "review": "Both complete old/revised profiles; ribbon/pink/rope/friendship/censer/censor/incense/flail/healing-cloud/aura terms searched across all 37 dossiers. Selected complete relevant paragraphs in S2E10/11/12, S3E07/08/10/11/12 and distinct-rope candidate paragraphs in S2E07/08 and S3E04/09 reviewed. No new original ASR/audio, sheet, rulebook, art or map review.",
+  "critical_boundaries": [
+    "Censer dawn extraction precedes expedition; golden smoke observed, stated healing/radiant effects not a separately recorded healing-cloud demonstration",
+    "Censer is Pelorian blessing presentation, not visibly forged by Nopa or bought; ordinary incense and other gear separate",
+    "Exact verbal 1d8 radiant, 10-foot cloud, one minute, bonus-action command and 1d4 at Krandal turn retained without generic rulebook additions",
+    "S3E11 last direct censer equipment; later heals and survival do not independently inventory or demonstrate the censer",
+    "Ribbon mundane at psychic rescue: Carrie tethered but excluded from Psychic Whispers, no extraction power established",
+    "Post-rescue eight-to-fifty-foot glowing transformation; idealized reflection identity/divine origin remain attribution",
+    "Six-inch pieces and reconnecting behavior described; affectionate-memory pointer tested; no unlimited supply or planar range proved",
+    "Margaret/Koh/Krandal actual early gifts; Traveler planned then actual Bronze Ball gift and lapel rose, not earlier completed transfer",
+    "Pink rope boat lasso and school possession retained; Sultan sash and other ropes not merged",
+    "False-refuge recollection is not a new automatic anti-illusion capability",
+    "Scroungy receives physical tracking marker; no new range test or trained-pet conclusion",
+    "Final tower old pink ribbon does not reunite all segments or demonstrate continuing powers; invitation not performed wedding"
+  ]
+}

@@ -858,3 +858,51 @@ The blade's first door failure, later reported base access without an unlocking 
 Both complete pages and selected complete relevant source paragraphs were read; matching terms were searched across all 37 dossiers. Final-expedition equipment custody is not an independently inspected one-year inventory. No fresh audio, original item-sheet/art/map review, source dossier/media edit or evidence-issue closure occurred. Artifact prose has no imposed character word quota. No commit or push performed by this task.
 
 Next review the Devotee's Censer and friendship ribbon, then continue remaining world domains. Final integration and unresolved listening work remain pending.
+
+### Forty-second implementation checkpoint — Devotee's Censer and friendship ribbon
+
+**2026-10-27: Two artifact accounts migrated and locally validated.** [Report](../reports/DELVERS_CENSER_RIBBON_2026-10-27.md) · [Coverage](DELVERS_CENSER_RIBBON_COVERAGE.json) · [Validation](DELVERS_CENSER_RIBBON_VALIDATION.json) · [Archive](../research/legacy/2026-10-27/delvers-censer-ribbon/README.md).
+
+Both paths/titles remain. Introduction, chronological development and final Current status now distinguish the censer's actual dawn acquisition and stated capabilities from its last direct expedition inventory. The ribbon progresses from ordinary wrist tether through enchantment, tested locator, actual gifts, later rope/marker uses and the final tower keepsake. All five former heading targets survive, with six exact originals and rebased reading copies preserved. All 339 protected files, character audit/register/inventory and place register remain unchanged.
+
+The censer's golden smoke is observed, but later healing is not automatically its cloud. The gift is not Nopa's forged armour or a Guild purchase. The ribbon does not confer psychic access on Carrie, and its magical awakening is not backdated to the rescue. The apparition's identity/divine origin remains attributed; no unlimited production or planar tracking is inferred. The Traveler's saved piece is actually given at the Ball and worn as a rose. Scroungy's later marker and the final old ribbon do not prove every segment's location or continuing power. Remembered friendship during a psychic projection is not an automatic anti-illusion ability.
+
+Both complete pages and selected complete relevant dossier paragraphs were read; candidate terms were searched across all 37 dossiers. No fresh original ASR/audio, item-sheet/rulebook/art/map review, source media/dossier edit or evidence-issue closure occurred. Artifact prose has no character word quota. No commit or push by this task.
+
+Next review the Chance Lantern and Drift Globe, then continue remaining world domains. Final integration and unresolved listening work remain pending.
+
+### Forty-third implementation checkpoint — Chance's lantern context and drift globe
+
+**2026-10-27: Two reference accounts migrated and locally validated.** [Report](../reports/DELVERS_LANTERN_GLOBE_2026-10-27.md) · [Coverage](DELVERS_LANTERN_GLOBE_COVERAGE.json) · [Validation](DELVERS_LANTERN_GLOBE_VALIDATION.json) · [Archive](../research/legacy/2026-10-27/delvers-lantern-globe/README.md).
+
+Both paths/titles remain. Chance's existing item-directory page is deliberately retained as lantern-and-companion context linked to Barclay, not converted into an ordinary object, owned person or non-intelligent bestiary species. The nonsentient globe's early account extends through former-bearer testimony, Anthela's Ball custody, Koh's later spa use and the actual transfer to Evelyn. All seven former heading targets survive; six exact originals and rebased reading copies are preserved. All 342 protected files, character audit/register/inventory and place register remain unchanged.
+
+Chance's projected hand and writing establish agency without a known species, former identity, full body or new combat powers. The listener-recognition tease remains out-of-game commentary, without a Wastes/Inverse identity link. The lantern stays with Barclay through the Atomer return; no later fate is supplied. Globe badge 542 remains separate from the orb, and Brom/Bram's identity is Wildfire's family testimony. Charging uncertainty is not silently resolved with generic item rules. The intervening dawn separates early Daylight uses. Koh's renewed spa handling does not invent a return transaction from Anthela; the globe frees Krandal before a psychic killing blow. Evelyn's later use follows the actual S3E08 transfer and is the latest direct globe observation, not a new Koh acquisition or epilogue inventory.
+
+Both complete pages and selected complete relevant dossier paragraphs were read; matching terms were searched across all 37 dossiers. No fresh original ASR/audio, guest-sheet/sketch/rulebook/art/map review, source media/dossier edit or evidence-issue closure occurred. No word quota or empty arc was imposed. No commit or push by this task.
+
+Next review the runic sword hilt and Dragon Slayer's Longsword, then continue remaining world domains. Final integration and unresolved listening work remain pending.
+
+### Forty-fourth implementation checkpoint — Soul Knife hilt and Dragon Slayer's Longsword
+
+**2026-10-27: Two artifact accounts migrated and locally validated.** [Report](../reports/DELVERS_HILT_LONGSWORD_2026-10-27.md) · [Coverage](DELVERS_HILT_LONGSWORD_COVERAGE.json) · [Validation](DELVERS_HILT_LONGSWORD_VALIDATION.json) · [Archive](../research/legacy/2026-10-27/delvers-hilt-longsword/README.md).
+
+Both paths/titles remain. Introduction, chronological development and final Current status separate the hilt's recovery, recognition, tests and physical destruction from Koh's ability legacy. The longsword's actual forge creation and combat hit remain distinct from the later narrated conclusion. All 13 former heading targets survive, alongside six exact originals and rebased reading copies. All 345 protected files, character audit/register/inventory and place register remain unchanged.
+
+The historical unidentified-hilt cutoff no longer contradicts Carrie's later identification. Its substance is not independently determined, scion warnings remain testimony, and the flameskull kill does not establish universal immunity bypass. Later two-blade/ranged psychic gifts do not reconstruct the crumbled hilt or backdate ability use. The old unreferenced Sun Blade theory is now reached from status and remains unconfirmed. Gold actually feeds the dragon-slayer forge while the potato burns away; failed offerings are not additional magical swords. The actual hit does not kill the dragon, and Marsh's arrow finishes the later retrospective battle. Evelyn's retained sword is not merged with her subsequent Loran weapon or given an invented later fate.
+
+Both complete pages and selected complete relevant dossier paragraphs were read; matching descriptions were searched across all 37 dossiers. No fresh original ASR/audio, item-sheet/rulebook/art/map review, source media/dossier edit or evidence-issue closure occurred. Artifact prose has no character word quota. No commit or push by this task.
+
+Next review the Bag of Hammer Holding and Ring of Protection, then continue remaining world domains. Final integration and unresolved listening work remain pending.
+
+### Forty-fifth implementation checkpoint — Bag of Hammer Holding and Ring of Protection
+
+**2026-10-27: Two artifact accounts migrated and locally validated.** [Report](../reports/DELVERS_BAG_RING_2026-10-27.md) · [Coverage](DELVERS_BAG_RING_COVERAGE.json) · [Validation](DELVERS_BAG_RING_VALIDATION.json) · [Archive](../research/legacy/2026-10-27/delvers-bag-ring/README.md).
+
+Both paths/titles remain. Introduction, chronological development and final Current status now separate Margaret's gift and demonstrated hammer storage from later named equipment mentions, and the protection ring's discovery, identification and actual handover from later inventory uncertainty. All 9 former heading targets survive, alongside six exact originals and rebased reading copies. All 348 protected files, character audit/register/inventory and place register remain unchanged.
+
+The bag's one-object/sixty-pound description is not a tested maximum or generic Bag of Holding specification. Wedding concealment and the Bronze Ball's Wind Fan/Bag of Hammer Holding wording remain distinct from Evelyn's separately purchased javelin bag. The ring's supposed long storage age is not independently established; archaic letters and psychic responsiveness do not prove shared manufacture, sentience or soulbinding. The +1 AC/all-save description, left middle finger and visible resizing remain. S2E05 raises inventory uncertainty without proving loss/return, and other named rings or an unidentified ring-assisted descent do not settle this item's later custody.
+
+Both complete pages and selected complete relevant dossier paragraphs were read; related terms were searched across all 37 dossiers. No fresh original ASR/audio, sheet/rulebook/art/map review, source media/dossier edit or evidence-issue closure occurred. No character word quota or empty arc was imposed. No commit or push by this task.
+
+Next review the Goat of Travail and Horn of Blasting, then continue remaining world domains. Final integration and unresolved listening work remain pending.

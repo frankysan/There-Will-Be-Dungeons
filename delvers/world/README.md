@@ -87,6 +87,14 @@ The [stolen tome](items/stolen-warlocks-tome.md) and [Deck of Many Things](items
 
 The [radiant armour](items/loran-radiant-armour.md) and [transforming sword](items/vestal-diamond-heart-handle.md) have an [equipment checkpoint](../../reports/DELVERS_LORAN_EQUIPMENT_2026-10-27.md) separating initial recognition, guarded access, later acquisition and demonstrated protection or combat use.
 
+The [Devotee's Censer](items/devotees-censer.md) and [friendship ribbon](items/friendship-ribbon.md) have an [artifact checkpoint](../../reports/DELVERS_CENSER_RIBBON_2026-10-27.md) distinguishing stated blessings, demonstrated behavior, divided custody and last known physical appearances.
+
+[Chance's lantern context](items/chance-lantern.md) and the [drift globe](items/drift-globe.md) have a [reference checkpoint](../../reports/DELVERS_LANTERN_GLOBE_2026-10-27.md) distinguishing a communicating companion from a nonsentient light source, with separate identity and custody histories.
+
+The [Soul Knife hilt](items/runic-sword-hilt.md) and [Dragon Slayer's Longsword](items/dragon-slayer-longsword.md) have an [artifact checkpoint](../../reports/DELVERS_HILT_LONGSWORD_2026-10-27.md) distinguishing material destruction, enduring psychic ability, forge creation and the limits of a demonstrated anti-dragon strike.
+
+The [Bag of Hammer Holding](items/bag-of-hammer-holding.md) and [Ring of Protection](items/ring-of-protection.md) have an [artifact checkpoint](../../reports/DELVERS_BAG_RING_2026-10-27.md) distinguishing stated limits, observed use, separate equipment and unresolved later custody.
+
 All 27 current place-directory paths now have bounded editorial dispositions: 25 place/institution accounts, one historical event study and one compatibility route. The [place audit](../../reports/DELVERS_PLACE_AUDIT_2026-10-26.md) and [disposition register](../../project/DELVERS_PLACE_DISPOSITIONS.json) distinguish direct site observations from later reports and outcomes. This does not certify complete factual coverage or finish the remaining world domains.
 
 ## Subject directory

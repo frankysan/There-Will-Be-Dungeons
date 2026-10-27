@@ -1,0 +1,67 @@
+{
+  "date": "2026-10-27",
+  "local_file_and_fragment_links": 1322,
+  "maintained_inbound_links": 29,
+  "former_headings_preserved": 5,
+  "exact_original_hashes": 6,
+  "reading_copy_target_equivalence": 6,
+  "explicit_reading_copy_link_corrections": 0,
+  "protected_hashes": 339,
+  "measurements": [
+    {
+      "path": "delvers/world/items/devotees-censer.md",
+      "before_main_words": 272,
+      "after_main_words": 151,
+      "arc_words": [
+        82
+      ],
+      "largest_arc_to_median": 1.0,
+      "footnotes": 3,
+      "anchors": 5
+    },
+    {
+      "path": "delvers/world/items/friendship-ribbon.md",
+      "before_main_words": 481,
+      "after_main_words": 307,
+      "arc_words": [
+        177,
+        58
+      ],
+      "largest_arc_to_median": 1.506,
+      "footnotes": 6,
+      "anchors": 9
+    }
+  ],
+  "errors": [],
+  "limits": [
+    "No new ASR, audio, remote URL or rendered-site review",
+    "Section dispositions and material-claim review, not sentence-by-sentence audio verification"
+  ],
+  "markdownlint": {
+    "maintained_files": 7,
+    "violations": 0
+  },
+  "whitespace": {
+    "scoped_git_diff_check": "passed",
+    "direct_new_file_check": "passed"
+  },
+  "manual_readback": "Both complete persisted artifact pages and pre-edit profiles read, plus selected complete relevant dossier paragraphs. Censer acquisition/stated powers/last equipment observation and ribbon mundane origin/attributed enchantment/tested pointer/transfers/later uses/final remnant remain distinct. No audio or rendered-site review.",
+  "domain_contract": "Artifact physical nature, origin claims, stated and demonstrated capabilities, transformations, limitations and custody; no character word quotas.",
+  "protected_groups": {
+    "campaign_files": 215,
+    "prior_batch_artifacts_and_inventories": 114,
+    "bonus_provenance_documents": 10
+  },
+  "preserved_character_audit": {
+    "character_pages": 35,
+    "matching_page_hashes": 35,
+    "inventory_page_hashes": 35,
+    "audit_register_inventory_protected": true
+  },
+  "preserved_place_register": {
+    "pages": 27,
+    "matching_page_hashes": 27,
+    "four_audit_artifacts_protected": true
+  },
+  "working_tree_context": "Existing Delvers and unrelated Wastes changes preserved. No commit or push by this task."
+}
