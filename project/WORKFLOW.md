@@ -1,5 +1,7 @@
 # Transcription workflow (v0 pilot)
 
+**Agent access order:** All project workflows and skills follow [repository agent instructions](../AGENTS.md): **1. local file access → 2. MCP access → 3. GitHub access → 4. Git patches → 5. zipped file bundles**. Select the first safe, capable method for each action; preserve revision identity and do not treat patches or archives as applied repository edits.
+
 ## A. Ingest and preserve
 
 1. Keep original MP3s intact; record path, duration, file size, SHA-256, title and episode ID.

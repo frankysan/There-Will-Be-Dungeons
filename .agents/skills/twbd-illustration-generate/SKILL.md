@@ -68,6 +68,8 @@ preflight. Queue write failures are also hard stops.
 
 ## 0. Identify the requested picture before doing anything visual
 
+Follow [repository agent instructions](../../../AGENTS.md) for the strict repository access and delivery order: **1. local files; 2. workspace/project MCP; 3. GitHub; 4. Git patches; 5. ZIP bundles**. Use the first viable route with access to the actual approved image pixels and safe persistence; no fallback route overrides image research, approval or asset-provenance gates.
+
 1. Resolve the **campaign/continuity**, depicted moment and spoiler cutoff,
    intended viewpoint (objective, subjective vision, retrospective account),
    desired type (portrait, exterior, interior, scene, map-like place, reference
