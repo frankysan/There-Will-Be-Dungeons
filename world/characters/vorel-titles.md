@@ -1,6 +1,10 @@
 # Vorel — titles and epithets register
 
-**Type:** Source-indexed supporting register for [Vorel](vorel.md), deliberately separated from the main character biography. **Evidence:** ASR-provisional, with source windows, name variants and social standing preserved. **Spoilers:** Through Wastes S3E15; Q&As are retrospective, not played conferrals. [Characters](../CHARACTERS.md) · [World portal](../README.md).
+**Type:** Source-indexed supporting register for [Vorel](vorel.md), deliberately separated from the main character biography. **Evidence:** ASR-provisional, with source windows, name variants and social standing preserved. **Spoilers:** Through Wastes S3E17; Q&As are retrospective, not played conferrals. [Characters](../CHARACTERS.md) · [World portal](../README.md).
+
+## S3E17 — NO newly granted/personal Vorel title; “destroy the Moon” is a failed bluff
+
+In [played S3E17](../../episodes/S3E17.md) ~00:41–00:57, VOREL **ACTUALLY TAKES NASH'S PURPLE PHALLIC UMBRELLA**, raises its button and shouts a threat resembling **“I possess the button to destroy the Moon”** as a DECEPTION against twelve lunar PRINCIPLE COPIES. **DECEPTION 6 INCL. BARDIC INSPIRATION FAILS**; he smashes this novelty into a chrome copy, destroying the novelty rather than Moon. **Neither “destroyer of the Moon” nor any similar epithet is verbally self-conferred or acknowledged**; this is NOT an actual lunar detonation, honorific or new magical artifact. At ~02:30–02:35 VOREL **ACTUALLY REUSES THE PREVIOUSLY NAMED WEAPON *CHROME'S BANE* AND CUTS ARMS OFF A PRINCIPLE COPY**, repeat weapon name, not a newly awarded personal title. GM does affirm S3E16 hardening PRINCIPLE chrome plating **ACTUALLY +2 AC**; armor effect is not a title. **No new title entry/first-attestation row**. [Exact P/Q report](../../reports/WASTES_S3E17_ASR_COMPARISON_2026-10-27.md); no original audio listened.
 
 ## S3E15 — NO new self-proclaimed/awarded Vorel title; battlefield orders are commands, NOT epithets
 

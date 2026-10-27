@@ -1,5 +1,9 @@
 # Windboards — Principle's Kuromokishi hovering assault boards
 
+## S3E17 — Hope extracts invisible Nash above the Principle-copy siege
+
+[Played S3E17](../../episodes/S3E17.md): Following S3E15 **ONE HOPE BOARD DESTROYED** and S3E16 continued use of remaining boards, HOPE **ACTUALLY PILOTS ONE WORKING POWERED WINDBOARD WITH STANLEY'S *GREATER-INVISIBLE* NASH ABOARD**. At STANLEY'S SIGNAL (~01:39–01:47), she flies **90FT STRAIGHT UP**, later **ANOTHER 180FT**, and thereafter holds position ~**270FT ABOVE FIGHT**, keeping Nash's *Banishment* concentration safe. She asks about using Fighter *Action Surge* to double a readied movement; GM rejects same-trigger action surge but allows normal board movement. **NASH *BANISHMENT* DOES LAST FULL MINUTE, WORLD BREAKER EXPELLED**. Specific pilot ownership/total inventory of other three/four boards remains unverified; do not invent a recovered destroyed board. [P/Q](../../reports/WASTES_S3E17_ASR_COMPARISON_2026-10-27.md).
+
 **First physically observed:** [Wastes S3E14 — Sit and Hum](../../episodes/S3E14.md) **~01:16–01:24**. **Five** heavy, engine-driven, metallic **hoverboards / “windboards”** stored **INSIDE THE PRINCIPLE'S CRASH-LANDED EARTH-STYLE ROCKET**, with apparent rear thrusters, multiple foot controls and accelerator. The PRINCIPLE calls them assault vehicles made for his elite **“KUROMOKISHI” (P) / “KARAMUKISHI” (Q)**; exact unit spelling/proper item name **ASR-PROVISIONAL**, original audio pending [P/Q report](../../reports/WASTES_S3E14_ASR_COMPARISON_2026-10-27.md). **Not Tarrasque loot and not Fate Six's materialization mechanism**.
 
 ## S3E15 — flight speed clarified; one board ACTUALLY swallowed/destroyed, Stanley rescues Hope

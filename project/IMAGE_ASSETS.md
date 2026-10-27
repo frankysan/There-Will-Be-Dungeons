@@ -21,6 +21,14 @@ The archive owner reorganized and renamed the **six current map files** under `l
 
 **Illustration use:** Prefer this map collection as a **provisional creator-layout lead**, especially for streets, named areas, approach geometry and passages, cross-checked against episode narration. Keep the annotated regional map separate from its other regional version, and the **Dusthill Caverns** diagram separate from **Dusthill** surface settlement. Do not backdate depicted objects, landmarks or annotations without era evidence. Use filenames only for identification, never as new factual proof of geography or attribution. Record per-map approval/visual review and rights before any published image reuse.
 
+## Newly recovered private regional handout — The Known Wastes (v3), 2026-10-27
+
+**New source, separate from the six wiki-sourced maps above:** `local/downloads/wastes/669709591344316416--The_Known_Wastes_Large_v3.jpg`, 5,000 × 2,858 JPEG, **5,633,083 bytes**, SHA-256 `cb014c6cad1ee98f59805ca71e74ceae07c05844cf1ee6e9244d871fad02d070`. The file was recovered as an exact cached Discord attachment from the newly archived `#dm-questions` channel: [Beau-attributed message, January 2020](https://discord.com/channels/146848379853471744/623342811537997834/669709591344316416). Cast-account attribution does **not** verify actual artist, uploader identity or redistribution permission. **The on-image cartographer credit is in-world:** “Handsome Dan Dakota, esq., of the Arcanum Universalis”; do not mistake it for a real-world creator/license statement.
+
+**Content distinction:** This is a much broader color hex-grid map titled **The Known Wastes**, depicting numerous regions including the western wastes, the Stormlands, the Principal's Lands and the Solar Mines. It is **not** a renamed or higher-resolution copy of the compact `Beyond the Deadfingers` geography. The two smaller `Beyond the Deadfingers` variants remain distinct from it and from each other. **Owner-reviewed map orthography** includes **T'ietkalla**, **Moag Ferhain**, **the Principal / the Principal's Lands**, and **Ubere Mtaris**. Use these as *map-supported spellings*, not verified spoken words or evidence that the map reflects E001 conditions. Record `Tietkalla` and `the Principle` as longstanding editorial/source aliases rather than silently rewriting existing dossiers. The original creation/depicted-era dates and external reuse rights remain unresolved.
+
+**Full evidence and naming decisions:** [The Known Wastes map review](../reports/WASTES_KNOWN_MAP_ORTHOGRAPHY_2026-10-27.md). Source image remains under private, ignored `local/`; do not embed it into published world pages without a rights review.
+
 ## High-value images examined
 
 | Asset | Visible or inscribed content | Proper evidentiary use / boundary |

@@ -1,5 +1,9 @@
 # Fate Six — Villa Ornath's revealed spelljammer
 
+## S3E17 — renewed deliberate combat crash and destruction; no observed remanifestation
+
+[Played S3E17](../../episodes/S3E17.md) ~01:30–01:43: During NASH'S final *BANISHMENT* countdown and twelve lunar PRINCIPLE copies attacking *PRISMATIC WALL*, **FATE SIX ACTUALLY FLIES BACK TO BATTLE WITH MONSOON CABBAGE PHYSICALLY LEAPING FROM IT**, he lands and fights. **FATE SIX THEN TAKES A DIRECT COLLISION COURSE INTO THE PRINCIPLE COPIES AROUND THE DOME**; GM explicitly narrates vessel **SMASHING INTO WOODEN AND GHOSTLY FRAGMENTS, DESTROYED AGAIN**, knocking/damaging numerous outside copies. **PRISMATIC WALL remains intact, original four survive**, Monsoon avoids direct impact. **NOT simply an attack by ship's cannons or a dream**. STANLEY says he previously found he could RE-SUMMON destroyed Fate Six (S3E13 after S3E07 wreck), but **NO NEW RE-SUMMON PERFORMED IN S3E17**, so last witnessed status is wrecked, crew fate/possible next regeneration **UNRESOLVED**. No new interplanar self-travel established. [P/Q](../../reports/WASTES_S3E17_ASR_COMPARISON_2026-10-27.md), no audio.
+
 **The Wastes • first visible transformation [S2E01](../../episodes/S2E01.md), first real voyage and naming [S2E02](../../episodes/S2E02.md).** Main-party vessel owned/captained by **Stanley Billings (Valere Ornath)**, created by his father from the family [Villa Ornath](../places/villa-ornath.md) and associated with the [Mask of Eltanfawr](mask-of-eltanfawr.md). **Source confidence:** text-only, ASR-provisional; ship name itself confirmed as an enacted in-play christening. See [full S2E02 comparison](../../reports/WASTES_S2E02_ASR_COMPARISON_2026-10-26.md).
 
 ## S3E15 — operational transport of Vorel/TNT troops; not source of Sigil escape

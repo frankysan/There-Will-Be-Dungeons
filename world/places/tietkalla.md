@@ -1,6 +1,6 @@
-# Tietkalla — Teet keep and Trashburg
+# T'ietkalla — Teet keep and Trashburg
 
-**Spellings:** **Tietkalla** is cast-written by Jon and a strong context-supported historical city/kingdom spelling ([name report](../../reports/DISCORD_SPELLING_2026-10-21.md)); `Tiat Cala`, `Tiat Kala`, `Teet Kala` appear in processed ASR. **Teet** commonly refers to the keep/fortress and **Trashburg** to the poorer settlement around/below it. The exact administrative equivalence across ancient and present-day uses is **not always established**. **Spoilers:** E028–E106 (with separately sourced intermediate developments).
+**Spellings:** **T'ietkalla** is inscribed on the recovered [*Known Wastes* v3 regional map](../../reports/WASTES_KNOWN_MAP_ORTHOGRAPHY_2026-10-27.md) (2026-10-27 source review), and is the preferred *cartographic spelling*; **Tietkalla** remains strongly supported by Jon's cast-written usage ([2026-10-21 Discord name report](../../reports/DISCORD_SPELLING_2026-10-21.md)), the existing URL slug `tietkalla`, and historical project dossiers. `Tiat Cala`, `Tiat Kala`, `Teet Kala` are preserved ASR/search variants, not listener-confirmed spellings. **Teet** often means the fortress and **Trashburg** the lower settlement: do not infer perfect administrative equivalence. Neither the map's depicted-era applicability nor pronunciation was audio-verified. **Spoilers:** E028–E106 (with separately sourced intermediate developments).
 
 ## The city of gangs and a wedding
 
