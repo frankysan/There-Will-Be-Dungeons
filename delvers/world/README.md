@@ -71,6 +71,8 @@ The [triangle-gate catacombs](places/triangle-gate-catacombs.md) and [Black Basi
 
 [Darmah Edstream](characters/darmah-edstream.md) and [Dumbledwark of Raisinbunch](characters/dumbledwark-of-raisinbunch.md) have a [character checkpoint](../../reports/DELVERS_DARMAH_DUMBLEDWARK_2026-10-27.md) covering rescue responsibility, practical assistance, journalistic access and ethical compromise.
 
+[Shrugs Manaspoon](characters/shrugs-manaspoon.md) and [Shaolin Nym](characters/shaolin-nym.md) have a [character checkpoint](../../reports/DELVERS_SHRUGS_SHAOLIN_2026-10-27.md) covering technical skill, imperfect concealment, ancient allegiance, final aid and their distinct departures.
+
 All 27 current place-directory paths now have bounded editorial dispositions: 25 place/institution accounts, one historical event study and one compatibility route. The [place audit](../../reports/DELVERS_PLACE_AUDIT_2026-10-26.md) and [disposition register](../../project/DELVERS_PLACE_DISPOSITIONS.json) distinguish direct site observations from later reports and outcomes. This does not certify complete factual coverage or finish the remaining world domains.
 
 ## Subject directory

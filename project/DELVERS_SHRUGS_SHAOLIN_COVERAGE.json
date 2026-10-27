@@ -1,0 +1,74 @@
+{
+  "date": "2026-10-27",
+  "scope": "Delvers-only guest burglar and ancient architect",
+  "headings": [
+    {
+      "path": "delvers/world/characters/shrugs-manaspoon.md",
+      "old_heading": "Shrugs Manaspoon \u2014 guest burglar and demolition specialist",
+      "old_anchor": "shrugs-manaspoon--guest-burglar-and-demolition-specialist",
+      "target": "Introduction, development, Current status or relevant source note",
+      "disposition": "Native heading or compatibility anchor retained; full original archived"
+    },
+    {
+      "path": "delvers/world/characters/shrugs-manaspoon.md",
+      "old_heading": "Introduction and appearance",
+      "old_anchor": "introduction-and-appearance",
+      "target": "Introduction, development, Current status or relevant source note",
+      "disposition": "Native heading or compatibility anchor retained; full original archived"
+    },
+    {
+      "path": "delvers/world/characters/shrugs-manaspoon.md",
+      "old_heading": "The Withers Estate infiltration",
+      "old_anchor": "the-withers-estate-infiltration",
+      "target": "Introduction, development, Current status or relevant source note",
+      "disposition": "Native heading or compatibility anchor retained; full original archived"
+    },
+    {
+      "path": "delvers/world/characters/shrugs-manaspoon.md",
+      "old_heading": "Current status",
+      "old_anchor": "current-status",
+      "target": "Introduction, development, Current status or relevant source note",
+      "disposition": "Native heading or compatibility anchor retained; full original archived"
+    },
+    {
+      "path": "delvers/world/characters/shaolin-nym.md",
+      "old_heading": "Shaolin Nym / Nim \u2014 ancient Dolbluth architect, S3E11",
+      "old_anchor": "shaolin-nym--nim--ancient-dolbluth-architect-s3e11",
+      "target": "Introduction, development, Current status or relevant source note",
+      "disposition": "Native heading or compatibility anchor retained; full original archived"
+    }
+  ],
+  "additional_blocks": [
+    {
+      "path": "delvers/world/characters/shrugs-manaspoon.md",
+      "old_block": "Opening provisional name/performer and guest membership block",
+      "target": "Introduction and source notes"
+    },
+    {
+      "path": "delvers/world/characters/shaolin-nym.md",
+      "old_block": "Opening appearance/communication, attributed ancient history/ritual and physical resolution/source blocks",
+      "target": "Introduction, development, Current status and source notes"
+    }
+  ],
+  "domains": {
+    "delvers/world/characters/shrugs-manaspoon.md": "Character: understated presentation, explosive methods, technical skill, eccentric curiosity, limits and temporary cooperation",
+    "delvers/world/characters/shaolin-nym.md": "Character: ancient allegiance, recognition of liberators, transmitted knowledge, final aid and later visionary representation"
+  },
+  "review": "Both complete profiles; aliases searched across all 37 dossiers; selected complete recruitment/heist/escape, warehouse departure/unbagging/settlement, retrospective fire attribution, gate encounter and final ritual vision paragraphs reviewed; no new ASR/audio/sheet/art/map review",
+  "critical_boundaries": [
+    "Shrugs surname Manaspoon/Man-a-Spoon provisional, Brian Dunaway guest not permanent recruitment",
+    "Quiet/neat presentation not flawless stealth or harmless explosions; Koh suffers collateral injury and servant spots coat pile",
+    "Krandal revives unconscious Shrugs; no guest death or universal healing rule",
+    "Dynamite six planted/four exploded remains unresolved; counts not silently reconciled",
+    "Estate fire observed next episode and retrospectively attributed to Fern/Koh, not new Shrugs arson scene",
+    "S2E05 smoke departure leaves bag/music box; Koh takes both bags and box, toe later in unbagged loot",
+    "Guest payout not inferred from later three-Delver settlement; final rapier/dynamite inventory unverified",
+    "Shaolin title loses episode tag but retains former H1 target; Nym/Nim/Narim and Dolbluth spellings remain provisional",
+    "Ancient emperor/outcast history and 1000-year prior incursion initially her testimony",
+    "Blood instruction is a proposed ritual requirement, not a verified ancestry assay or separately observed blood application",
+    "Gate opens, urns released and accepted by Koh; unshown bagging not backdated",
+    "Nym crumbles to dust, does not accompany expedition or resurrect",
+    "Later long-haired architect appears in shared ritual vision, not a new physical encounter or independently authenticated historical document",
+    "Organ placement performed in S3E12; separate wrist-blood drop not explicitly applied on screen; no automatic all-mechanics proof"
+  ]
+}

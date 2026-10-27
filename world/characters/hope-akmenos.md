@@ -1,5 +1,9 @@
 # Hope Akmenos
 
+## BONUS-2022-07 — Jon's retrospective on Hope/Stanley reconciliation
+
+In [July-filed 2022 listener Q&A, internally spoken as “June”](../../episodes/BONUS-2022-07.md) **~00:15:45–00:17:25**, **JON, portraying Stanley**, remembers the **Elhandar period after Hope's rupture with the party** and says that, after their in-character mutual recognition of moral compromises, **STANLEY considered HOPE his BEST FRIEND from that point**. This is **his reading of an EARLIER PLAYED conversation**, **NOT a new shared friendship ceremony or a claim that Hope/Kristen independently spoke that exact sentiment**. The cast also celebrates Hope's willingness to play the darker ruler arc as a retrospective example; **not new aggression in the present-day Wastes world**. [Q&A report](../../reports/BONUS_2022-07_ASR_COMPARISON_2026-10-27.md); no original audio verified.
+
 ## Performer retrospective before the announced Wastes return (BONUS-2021-11-13)
 
 Kristen says in [post-Delvers Q&A ~29–31min](../../episodes/BONUS-2021-11-13.md) that Hope was originally devised as a **Road Warrior/Mad Max-style serious suffering protagonist**. The actual Wastes accumulated heavy personal loss and responsibility, and Kristen found staying in that register exhausting over such a long campaign. She **INTENDED TO INFUSE MORE LEVITY into Hope** on returning from Delvers, to avoid making her a perpetual “wet blanket.” This is **out-of-game performance intention recorded when the Delvers campaign had just ended**, not proof of a performed personality change in any particular later Wastes episode; later played sources determine whether that happened. [Exact text-comparison report](../../reports/BONUS_2021_11_13_ASR_COMPARISON_2026-10-26.md).

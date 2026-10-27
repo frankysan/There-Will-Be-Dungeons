@@ -1,8 +1,12 @@
 # Vorel
 
-**Portrayed by:** Kyle. **Identity:** Lizardfolk warrior and leader, protector of **Bok Bok**, bearer of the **Eye of Groxl** and claimant to many personal titles. **Spoilers:** Main Wastes through **S3E09** and cast Q&As, including the April 2022 retrospective. **Evidence:** ASR-provisional except owner-confirmed item/name orthography.[^march21]
+**Portrayed by:** Kyle. **Identity:** Lizardfolk warrior and leader, protector of **Bok Bok**, bearer of the **Eye of Groxl** and claimant to many personal titles. **Spoilers:** Main Wastes through **S3E09** and cast Q&As, including the April, May and July-filed 2022 retrospectives. **Evidence:** ASR-provisional except owner-confirmed item/name orthography.[^march21]
 
 **Browse:** [Characters](../CHARACTERS.md) · [His source-indexed titles](vorel-titles.md) · [Eye of Groxl](../technology/eye-of-groxl.md) · [World portal](../README.md).
+
+## BONUS-2022-07 — voluntary lower power from refusing external enhancement
+
+In [monthly July-filed / spoken-June 2022 bonus](../../episodes/BONUS-2022-07.md) **~00:09:45–00:12:37**, listeners propose giving **Vorel** a bonus level, Tough feat or accumulated XP from the **actually played S3E04 Courtship of the Fang**, because Hope, Nash and Stanley each received surgical powers while Vorel refused. **Beau says he COULD have given such a reward, but DID NOT THINK TO DO SO**; Kyle explains **he DOESN'T MIND Vorel being somewhat weaker than the others**, because his established personal ethos rejects bargains with demons, special operations and extraordinary outside sources of power. His self-esteem remains independent of min-maxed level progression; even the Eye is construed by Kyle as a gift tied to a fellow lizardfolk. **This is KYLE'S creator-level interpretation / GM hypothetical**, **NOT an actual XP grant, mechanical level, Tough feat, new romantic scene, confirmation of pregnancy or replay of Courtship**. It does not overturn the **separately played S3E09 GM's explicit RETRACTION of an extra kill-level for Vorel**, because all the party had already leveled. [P/Q audit](../../reports/BONUS_2022-07_ASR_COMPARISON_2026-10-27.md). The bonus **asks for full title recitation but none occurs**; see [titles register](vorel-titles.md).
 
 ## May 2022 Q&A — Kyle reveals why the Courtship of the Fang happened NOW
 

@@ -1,6 +1,10 @@
 # The Principle — Vladimir
 
-**Identity:** Usually called **the Principle**, sometimes transcribed “Principal”; identified by an Elhandari high elf as **Vladimir** in E115. In S3E01 Qwen proposes the tentative **new surname “Trix”**, but this is not verified. **Role:** Ancient political/technological power connected to Slavetown, Tietkalla diplomacy and the Soulbroker pact. **Spoilers:** Played Wastes through S3E07 plus explicitly attributed May 2022 cast/GM Q&A; this remains the SAME story arc initiated in Season Two. **Evidence:** Provisional ASR; no independent listening.
+**Identity:** Usually called **the Principle**, sometimes transcribed “Principal”; identified by an Elhandari high elf as **Vladimir** in E115. In S3E01 Qwen proposes the tentative **new surname “Trix”**, but this is not verified. **Role:** Ancient political/technological power connected to Slavetown, Tietkalla diplomacy and the Soulbroker pact. **Spoilers:** Played Wastes through S3E09 plus explicitly attributed May and July-filed 2022 cast/GM Q&As; this remains the SAME story arc initiated in Season Two. **Evidence:** Provisional ASR; no independent listening.
+
+## BONUS-2022-07 — creator retrospect on ancient Diontalus/Groxl association (not played)
+
+In [2022-07 bonus, spoken “June”](../../episodes/BONUS-2022-07.md) at **~00:31–00:34**, Beau remarks on an ancient **DIONTALUS AND GROXL** relationship which intersects **the PRINCIPLE, STANLEY'S FATHER, MONSOON CABBAGE and ELHANDARI IMPRISONMENT**. He vaguely invokes a **previous group** but the precise roster, actions and who did the imprisonment are **ASR-AMBIGUOUS**, and the details are not performed here; **do not rewrite Groxl's recent S3E09 extraordinary contract/“Brent” self-story as verified fact on that basis**. The *actual* S3E08 laser destruction of Diontalus and S3E09 still-unmet Principle stay unchanged, and no new fatherhood proof appears. [P/Q audit](../../reports/BONUS_2022-07_ASR_COMPARISON_2026-10-27.md), no audio.
 
 ## S3E09 — Groxl's ancient contract/paternity stories and General Motors's “daddy” taunts
 

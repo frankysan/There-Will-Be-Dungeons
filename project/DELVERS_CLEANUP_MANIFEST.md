@@ -702,3 +702,19 @@ Dumbledwark's prophecy, romance hint and Zoltar accusations retain their evident
 Both complete old profiles were read; aliases/role terms searched across all 37 dossiers; selected complete early well/response, interviews/consent/theft, dungeon reporting, rescue preparation/evacuations and vision paragraphs, later advertising/letter/release and bounded bonus context reviewed. No fresh ASR/audio, original sheet/map or art review occurred. No evidence issue was closed, source dossier/media changed or unrelated identity merged. No commit or push was performed by this task.
 
 Next examine Shrugs Manaspoon and Shaolin Nym, then continue remaining supporting-character and artifact batches. Full-world acceptance and final integration remain pending.
+
+### Thirty-second implementation checkpoint — Shrugs and Shaolin Nym
+
+**2026-10-27: Two character biographies migrated and locally validated.** [Character report](../reports/DELVERS_SHRUGS_SHAOLIN_2026-10-27.md) · [Coverage ledger](DELVERS_SHRUGS_SHAOLIN_COVERAGE.json) · [Pre-edit archive](../research/legacy/2026-10-27/delvers-shrugs-shaolin/README.md) · [Validation](DELVERS_SHRUGS_SHAOLIN_VALIDATION.json).
+
+Existing paths and Shrugs's title are preserved; Shaolin's title loses its obsolete episode tag, with the former H1 target retained. Both biographies start with Introduction, develop the relevant arc and end at Current status. Shrugs's understated presentation, technical skill, eccentric curiosity, collateral harm, dependence on healing and failed concealment lead to his later smoke departure. Nym's attributed history, recognition of liberators, final gate-opening aid and subsequent visionary representation remain distinct evidence classes. Main prose changes from 535 to 282 words for Shrugs and 321 to 266 for Shaolin; their developed arcs contain 215 and 195 words.
+
+All five former headings and the unheaded name/casting, appearance, history, ritual and physical-resolution blocks are accounted for. Six exact originals and equivalent rebased reading copies are archived without link corrections. All 307 protected hashes match: 215 campaign files, 82 previous batch artifacts and ten bonus provenance documents. All four place-audit artifacts and all 27 place-register page hashes remain unchanged.
+
+Shrugs leaves his borrowed bag and music box at the warehouse; Koh takes them and the toe is later unbagged. This supersedes the old S2E04 guest-held-bag status. Neither later three-Delver payout nor unreconciled gear establishes the guest's reward or exact explosives remainder. The six-planted/four-exploded discrepancy remains open. The servant actually sees the coat pile. Unconsciousness/healing is not death/resurrection. Estate arson is not reassigned to Shrugs or backdated as a new performed S2E04 scene.
+
+Nym's emperor/outcast history and blood requirement begin as testimony, without independent ancestry testing or complete ritual-mechanics proof. Gate opening, released urns and bodily dust are observed; later bag custody does not insert an unshown packing scene. S3E12 organ replacement is performed, but a separate wrist-blood application is not explicit. The long-haired architect's later appearance belongs to a ritual vision, not a physically rebuilt current city, independent historical document, revival or new expedition companion.
+
+Both complete profiles were read; aliases searched across all 37 dossiers; selected complete recruitment/heist/escape, warehouse departure/unbagging/settlement, retrospective fire attribution, gate encounter and final ritual-vision paragraphs reviewed. No fresh ASR/audio, original sheet/map or art review occurred. No evidence issue was closed, source dossier/media changed or unrelated identity merged. No commit or push was performed by this task.
+
+Next examine Chuck Abnaz and Ambermoor, then continue remaining supporting-character and artifact batches. Full-world acceptance and final integration remain pending.
