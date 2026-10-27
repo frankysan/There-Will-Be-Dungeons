@@ -1,0 +1,166 @@
+{
+  "date": "2026-10-27",
+  "scope": "Two profile provenance/presentation reconciliations, active indexes and three specific registry rows",
+  "headings": [
+    {
+      "path": "delvers/world/characters/ambermoor.md",
+      "old_anchor": "ambermoor--ambermore--gemholm-operations-manager-and-experimenter",
+      "kind": "existing heading or explicit anchor",
+      "disposition": "Preserved native target or compatibility anchor"
+    },
+    {
+      "path": "delvers/world/characters/ambermoor.md",
+      "old_anchor": "introduction",
+      "kind": "existing heading or explicit anchor",
+      "disposition": "Preserved native target or compatibility anchor"
+    },
+    {
+      "path": "delvers/world/characters/ambermoor.md",
+      "old_anchor": "development-by-arc",
+      "kind": "existing heading or explicit anchor",
+      "disposition": "Preserved native target or compatibility anchor"
+    },
+    {
+      "path": "delvers/world/characters/ambermoor.md",
+      "old_anchor": "arc-two--experimental-ambition-brought-into-custody",
+      "kind": "existing heading or explicit anchor",
+      "disposition": "Preserved native target or compatibility anchor"
+    },
+    {
+      "path": "delvers/world/characters/ambermoor.md",
+      "old_anchor": "current-status",
+      "kind": "existing heading or explicit anchor",
+      "disposition": "Preserved native target or compatibility anchor"
+    },
+    {
+      "path": "delvers/world/characters/ambermoor.md",
+      "old_anchor": "the-prosperous-man-on-the-sandbar",
+      "kind": "existing heading or explicit anchor",
+      "disposition": "Preserved native target or compatibility anchor"
+    },
+    {
+      "path": "delvers/world/characters/ambermoor.md",
+      "old_anchor": "the-private-diaries",
+      "kind": "existing heading or explicit anchor",
+      "disposition": "Preserved native target or compatibility anchor"
+    },
+    {
+      "path": "delvers/world/characters/ambermoor.md",
+      "old_anchor": "beneath-the-lake",
+      "kind": "existing heading or explicit anchor",
+      "disposition": "Preserved native target or compatibility anchor"
+    },
+    {
+      "path": "delvers/world/characters/ambermoor.md",
+      "old_anchor": "earlier-s2e07-cutoff-retained-historically",
+      "kind": "existing heading or explicit anchor",
+      "disposition": "Preserved native target or compatibility anchor"
+    },
+    {
+      "path": "delvers/world/characters/ambermoor.md",
+      "old_anchor": "later-s2e08-continuity-bridge-not-an-in-scene-handoff",
+      "kind": "existing heading or explicit anchor",
+      "disposition": "Preserved native target or compatibility anchor"
+    },
+    {
+      "path": "delvers/world/places/gemholm.md",
+      "old_anchor": "gemholm--lake-absul-gem-dredging-sandbar-settlement",
+      "kind": "existing heading or explicit anchor",
+      "disposition": "Preserved native target or compatibility anchor"
+    },
+    {
+      "path": "delvers/world/places/gemholm.md",
+      "old_anchor": "introduction",
+      "kind": "existing heading or explicit anchor",
+      "disposition": "Preserved native target or compatibility anchor"
+    },
+    {
+      "path": "delvers/world/places/gemholm.md",
+      "old_anchor": "development",
+      "kind": "existing heading or explicit anchor",
+      "disposition": "Preserved native target or compatibility anchor"
+    },
+    {
+      "path": "delvers/world/places/gemholm.md",
+      "old_anchor": "arc-two--a-mining-colony-consumed-by-experiments",
+      "kind": "existing heading or explicit anchor",
+      "disposition": "Preserved native target or compatibility anchor"
+    },
+    {
+      "path": "delvers/world/places/gemholm.md",
+      "old_anchor": "current-status",
+      "kind": "existing heading or explicit anchor",
+      "disposition": "Preserved native target or compatibility anchor"
+    },
+    {
+      "path": "delvers/world/places/gemholm.md",
+      "old_anchor": "site-and-access",
+      "kind": "existing heading or explicit anchor",
+      "disposition": "Preserved native target or compatibility anchor"
+    },
+    {
+      "path": "delvers/world/places/gemholm.md",
+      "old_anchor": "the-s2e06-outbreak",
+      "kind": "existing heading or explicit anchor",
+      "disposition": "Preserved native target or compatibility anchor"
+    },
+    {
+      "path": "delvers/world/places/gemholm.md",
+      "old_anchor": "june-2021-cast-commentary-origin-of-the-crab-controls",
+      "kind": "existing heading or explicit anchor",
+      "disposition": "Preserved native target or compatibility anchor"
+    },
+    {
+      "path": "delvers/world/places/gemholm.md",
+      "old_anchor": "s2e07-the-infection-source-and-laboratory",
+      "kind": "existing heading or explicit anchor",
+      "disposition": "Preserved native target or compatibility anchor"
+    },
+    {
+      "path": "delvers/world/places/gemholm.md",
+      "old_anchor": "current-research-status",
+      "kind": "existing heading or explicit anchor",
+      "disposition": "Preserved native target or compatibility anchor"
+    },
+    {
+      "path": "delvers/world/characters/ambermoor.md",
+      "old_anchor": "ambermoor--gemholm-operations-manager-and-experimenter",
+      "kind": "restored pre-provenance title target",
+      "disposition": "Restored from archived character inventory H1"
+    }
+  ],
+  "domains": {
+    "delvers/world/characters/ambermoor.md": "Character: experimental ambition and captive state; preferred written name with legacy aliases preserved",
+    "delvers/world/places/gemholm.md": "Place: physical colony/outbreak/aftermath; map spelling lead separate from proved location identity"
+  },
+  "additional_blocks": [
+    {
+      "path": "delvers/world/characters/ambermoor.md",
+      "old_block": "Opening written-name review and dual-alias H1",
+      "target": "Single preferred-name H1, two compatibility title anchors and expanded earlier footnote"
+    },
+    {
+      "path": "delvers/world/places/gemholm.md",
+      "old_block": "Opening cartographic/diary review paragraph",
+      "target": "Setting and laboratory footnotes, preserving map-equivalence and testimony limits"
+    }
+  ],
+  "review": "Both complete pre-edit profiles and revised main prose; written-source register read through map/diary evidence and policy. Selected complete dossier paragraphs S2E06:28/30, S2E07:20/21/22/29/30/32, S2E08:20 and S2E12:21 reviewed. No new original images, audio, ASR, sheets, maps or remote URL review.",
+  "name_crosswalk": "Three recorded handout spellings and matching Hank Tom/Caleb/head-of-operations experiment context support Ambermore as the same manager formerly indexed Ambermoor. No global historical/source rename.",
+  "critical_boundaries": [
+    "Source image review is separately recorded, not newly performed by this reconciliation",
+    "Written spelling does not verify pronunciation or convert diary mechanisms/sales into independent fact",
+    "Lake Obsul/map Aytmer are retained map-specific leads; Lake Absul and current place title remain, equivalence unresolved",
+    "Legacy slug and both old title targets retained; raw ASR/dossiers and older reports unchanged",
+    "Character index now includes reported S2E08 Guild custody without a verdict/release or played delivery",
+    "Places index report paths corrected; exact originals preserved and one declared reading-copy correction mapping repairs two occurrences",
+    "Only Ambermoor row in two character registers and Gemholm row in place register refreshed; all other rows unchanged",
+    "All stored character/inventory/place page hashes match after the narrow refresh; older full audits not rerun or recertified",
+    "All 20 item profiles and artifact dispositions unchanged"
+  ],
+  "registers_updated": [
+    "project/DELVERS_CHARACTER_DISPOSITIONS.json",
+    "project/DELVERS_CHARACTER_INVENTORY.json",
+    "project/DELVERS_PLACE_DISPOSITIONS.json"
+  ]
+}

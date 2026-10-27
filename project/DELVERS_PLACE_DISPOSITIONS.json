@@ -794,21 +794,26 @@
       "path": "delvers/world/places/gemholm.md",
       "disposition": "place-or-institution",
       "local_horizon": "S2E06/S2E07 island visit and machines left behind",
-      "later_evidence": "S2E08 Ambermoor custody; S2E12 Mack/Church members",
+      "later_evidence": "S2E08 Ambermore custody; S2E12 Mack/Church members",
       "retained_limit": "No island clearance or resettlement proved",
-      "candidate_alias_regex": "Gemholm|Gemhold|Ambermoor",
+      "candidate_alias_regex": "Gemholm|Gemhold|Ambermoor|Ambermore",
       "candidate_mentions": [
         {
           "dossier": "delvers/episodes/S2E06.md",
           "lines": [
+            3,
             26,
             28,
-            30
+            30,
+            36,
+            39,
+            43
           ]
         },
         {
           "dossier": "delvers/episodes/S2E07.md",
           "lines": [
+            3,
             18,
             20,
             21,
@@ -819,13 +824,21 @@
             29,
             30,
             31,
-            32
+            32,
+            36,
+            37,
+            39,
+            40,
+            44
           ]
         },
         {
           "dossier": "delvers/episodes/S2E08.md",
           "lines": [
-            20
+            3,
+            20,
+            40,
+            45
           ]
         },
         {
@@ -835,8 +848,20 @@
           ]
         }
       ],
-      "sha256": "4761f56b9bef21ba34320aca14823af5076a8d6859b1512d4d85885ca48eb078",
-      "acceptance": "bounded editorial disposition; not full factual certification"
+      "sha256": "1ca4188b0f4a6351673d8d0b206c85a540a9e75ac12dac1f5d3c28535e063ffd",
+      "acceptance": "bounded editorial disposition; not full factual certification",
+      "bounded_reconciliations": [
+        {
+          "date": "2026-10-27",
+          "report": "reports/DELVERS_PROVENANCE_RECONCILIATION_2026-10-27.md",
+          "scope": "Only this page provenance/presentation and stored hash refreshed; original broad audit not rerun",
+          "previous_registered_sha256": "4761f56b9bef21ba34320aca14823af5076a8d6859b1512d4d85885ca48eb078",
+          "pre_reconciliation_sha256": "7964d52c84238212d0b6c8ee92ad88ba0bb47653708a5184b1123f4f68c1493f",
+          "source_register": "reports/DISCORD_NEW_SPELLING_2026-10-27.md",
+          "limits": "Recorded image review reused; no new images/audio. Lake Obsul equivalence unresolved; no new custody outcome or infection mechanism certified."
+        }
+      ],
+      "cartographic_limit": "Lake Obsul printed on regional map; equivalence to narrated Lake Absul/Abzul remains unresolved"
     },
     {
       "path": "delvers/world/places/governors-hall.md",
@@ -2449,6 +2474,14 @@
       ],
       "sha256": "aae0aa6b667bfddf4a3c1649434cfb5d562eceb7834123cc8e3bdc069d4e1e9c",
       "acceptance": "bounded editorial disposition; not full factual certification"
+    }
+  ],
+  "bounded_reconciliations": [
+    {
+      "date": "2026-10-27",
+      "path": "delvers/world/places/gemholm.md",
+      "report": "reports/DELVERS_PROVENANCE_RECONCILIATION_2026-10-27.md",
+      "scope": "Single existing row updated; other page rows unchanged, no full audit recertification"
     }
   ]
 }

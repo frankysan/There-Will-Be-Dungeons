@@ -76,7 +76,7 @@ The following is a formatting example, not new campaign evidence:
 ## Introduction
 
 Stanley found a dark jeweled mask among his father's possessions
-in the hidden study of Villa Ornath. Its first described power
+in the hidden study of Villa Or'Nath. Its first described power
 suggested that a wearer could alter the course of chance, but
 Stanley did not yet put that power to use.[^mask-discovery]
 

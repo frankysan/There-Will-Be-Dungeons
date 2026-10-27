@@ -28,7 +28,7 @@ In the Year One Q&A Beau reveals that Bok Bok's first appearance was an **improv
 
 ## E124 — household travel and companion-name conflict
 
-**Bok Bok accompanies the gathered household from Villa Ornath to the central core** and remains with Lyrielle outside the four companions' audience. The repeated pairing **“Bok Bok and Squirts”** conflicts with her E111 death/E115 memorial; **no resurrection is performed** and the other small companion cannot safely be silently normalized to Chunks. Bok Bok's earlier care commitment is retained, without inventing a new transfer or restored Squirts. [E124](../../episodes/E124.md) · [Comparison](../../reports/E124_ASR_COMPARISON_2026-10-24.md), **ASR-provisional, no listening**.
+**Bok Bok accompanies the gathered household from Villa Or'Nath to the central core** and remains with Lyrielle outside the four companions' audience. The repeated pairing **“Bok Bok and Squirts”** conflicts with her E111 death/E115 memorial; **no resurrection is performed** and the other small companion cannot safely be silently normalized to Chunks. Bok Bok's earlier care commitment is retained, without inventing a new transfer or restored Squirts. [E124](../../episodes/E124.md) · [Comparison](../../reports/E124_ASR_COMPARISON_2026-10-24.md), **ASR-provisional, no listening**.
 
 ## September 2020 bonus — influence and loose ranger mechanics
 

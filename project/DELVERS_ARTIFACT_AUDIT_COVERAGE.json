@@ -1,0 +1,221 @@
+{
+  "date": "2026-10-27",
+  "scope": "All 20 current Markdown paths in delvers/world/items; does not inventory every item mentioned elsewhere",
+  "headings": [],
+  "domains": {
+    "delvers/world/items/bag-of-hammer-holding.md": "Handmade one-object concealment, capacity claim and observed storage",
+    "delvers/world/items/chance-lantern.md": "Spirit agency and communication, container appearance and bearer",
+    "delvers/world/items/deck-of-many-things.md": "Rumored history, actual recovery, undrawn cards and negotiated possession",
+    "delvers/world/items/devotees-censer.md": "Potato flail form, blessing, stated powers and expedition gear",
+    "delvers/world/items/dragon-slayer-longsword.md": "Forge sacrifice, golden appearance, actual hit and narrated aftermath",
+    "delvers/world/items/dried-heart-jar.md": "Heart vessel form, custody and final organ use",
+    "delvers/world/items/drift-globe.md": "Explained light, demonstrated effects, former bearer and later transfers",
+    "delvers/world/items/friendship-ribbon.md": "Mundane origin, attributed enchantment, tested locator and divided custody",
+    "delvers/world/items/goat-of-travail.md": "Purchased figurine, stated duration/reuse and actual ceremony summon",
+    "delvers/world/items/hereditary-drone.md": "Portable assembly, selective test, attributed theory and separate large source",
+    "delvers/world/items/horn-of-blasting.md": "Physical response, damaging blasts, crack and examination custody",
+    "delvers/world/items/khalazar-red-crystal.md": "Dream recovery, handoff discrepancy and incorporated component",
+    "delvers/world/items/khalazar-sensory-amulet.md": "Built detector, witnessed response, directional upgrade and covers",
+    "delvers/world/items/loran-radiant-armour.md": "Guarded relic, emergency acquisition and bounded protection",
+    "delvers/world/items/ring-of-protection.md": "Ancient appearance, stated protection, resizing and actual gift",
+    "delvers/world/items/runic-sword-hilt.md": "Recovery, recognition, psychic tests, destruction and ability legacy",
+    "delvers/world/items/stolen-warlocks-tome.md": "Recognition, office context, actual theft and unexamined contents",
+    "delvers/world/items/three-urns-triangle-gate.md": "Set acquisition, gate use, released containers and final rite",
+    "delvers/world/items/vestal-diamond-heart-handle.md": "Initial gift, later recognition, belief-shaped blade and access/combat uses",
+    "delvers/world/items/wand-of-secrets-and-geared-disc.md": "Distinct wand, incomplete fragment, crank and shattered comparison stone"
+  },
+  "review_method": [
+    "All current main prose and final-status notes read, plus selected boundary notes; not every footnote or archived draft reread",
+    "Twenty alias patterns searched across all 37 dossiers; hits are review candidates, absence is not proof of no later scene",
+    "Fifteen selected complete primary-dossier paragraphs in nine dossiers read, not a full source reread for every page",
+    "No new original ASR/audio, sheets, rulebook, art, maps, remote URL checks or rendered-site review",
+    "No article rewrites or character/place audit recertification"
+  ],
+  "coverage": [
+    {
+      "path": "delvers/world/items/bag-of-hammer-holding.md",
+      "disposition": "artifact",
+      "supported_horizon": "S1E07 gift/test; S2E02 wedding arms; S2E12 qualified equipment descriptor",
+      "retained_limit": "Distinct javelin bag; no generic holding-bag capacity or final inventory"
+    },
+    {
+      "path": "delvers/world/items/chance-lantern.md",
+      "disposition": "associated-sentient-companion-context",
+      "supported_horizon": "S3E09 companion/return; S3E10 no new appearance",
+      "retained_limit": "No owned-person/bestiary classification or cross-campaign identity from listener tease"
+    },
+    {
+      "path": "delvers/world/items/deck-of-many-things.md",
+      "disposition": "artifact",
+      "supported_horizon": "S2E02 departure; S2E03 confirms",
+      "retained_limit": "No draw, card contents or generic published powers; fee accounting not fully audited"
+    },
+    {
+      "path": "delvers/world/items/devotees-censer.md",
+      "disposition": "artifact",
+      "supported_horizon": "S3E10 acquisition; S3E11 explicit gear",
+      "retained_limit": "Observed golden smoke is not a healing-cloud activation or later inventory"
+    },
+    {
+      "path": "delvers/world/items/dragon-slayer-longsword.md",
+      "disposition": "artifact",
+      "supported_horizon": "S2E08 actual hit; S2E09 retrospective and retained custody",
+      "retained_limit": "Marsh arrow kills; no potato motif, full specification or later Loran-weapon identity"
+    },
+    {
+      "path": "delvers/world/items/dried-heart-jar.md",
+      "disposition": "artifact-component-account",
+      "supported_horizon": "S3E12 organ insertion and collapse",
+      "retained_limit": "Component of same three-urn set, not a second heart or inferred jar destruction"
+    },
+    {
+      "path": "delvers/world/items/drift-globe.md",
+      "disposition": "artifact",
+      "supported_horizon": "S3E08 transfer; S3E09 Evelyn use",
+      "retained_limit": "Anthela return transaction not shown; no final inventory or silently repaired charging claim"
+    },
+    {
+      "path": "delvers/world/items/friendship-ribbon.md",
+      "disposition": "artifact",
+      "supported_horizon": "S3E12 old ribbon in tower; earlier pieces/rope separately tracked",
+      "retained_limit": "No unlimited supply, verified divine identity, planar range or reunion of all pieces"
+    },
+    {
+      "path": "delvers/world/items/goat-of-travail.md",
+      "disposition": "artifact",
+      "supported_horizon": "S2E02 actual first summon",
+      "retained_limit": "No measured duration/dismissal/recharge; not permanently spent or later Find Steed elk"
+    },
+    {
+      "path": "delvers/world/items/hereditary-drone.md",
+      "disposition": "artifact",
+      "supported_horizon": "S2E10 portable Guild custody; S2E12 source; S3E01/02 aftermath/warning",
+      "retained_limit": "No forced object identity, wood/stone reconciliation or automatic post-defeat shutdown"
+    },
+    {
+      "path": "delvers/world/items/horn-of-blasting.md",
+      "disposition": "artifact",
+      "supported_horizon": "S2E00 Academy display after S1E09 submission/S1E10 no-return",
+      "retained_limit": "No inferred destruction, permanent Academy ownership, new blast or later condition test"
+    },
+    {
+      "path": "delvers/world/items/khalazar-red-crystal.md",
+      "disposition": "artifact",
+      "supported_horizon": "S3E02 incorporation; S3E11 assembled device evidence",
+      "retained_limit": "S2E10 handoff/S2E11 recurrence unresolved; no phylactery or independent shard powers"
+    },
+    {
+      "path": "delvers/world/items/khalazar-sensory-amulet.md",
+      "disposition": "artifact",
+      "supported_horizon": "S3E11 equipped bracer; S3E12 ritual limits",
+      "retained_limit": "Range/target not calibrated; covered silence not negative test; no explicit extra blood consumption"
+    },
+    {
+      "path": "delvers/world/items/loran-radiant-armour.md",
+      "disposition": "artifact",
+      "supported_horizon": "S3E10 acquisition; S3E11/12 worn/fought",
+      "retained_limit": "No earlier acquisition, universal immunity or separate post-escape gear inventory"
+    },
+    {
+      "path": "delvers/world/items/ring-of-protection.md",
+      "disposition": "artifact",
+      "supported_horizon": "S1E10 worn; S2E05 inventory uncertainty",
+      "retained_limit": "Later custody unresolved; other named rings/unidentified descent not a handoff"
+    },
+    {
+      "path": "delvers/world/items/runic-sword-hilt.md",
+      "disposition": "artifact",
+      "supported_horizon": "S1E07 material destruction; S2E02/03/04 hilt-free abilities",
+      "retained_limit": "No replacement hilt, backdated later powers or confirmed Sun Blade identification"
+    },
+    {
+      "path": "delvers/world/items/stolen-warlocks-tome.md",
+      "disposition": "artifact",
+      "supported_horizon": "S3E03 theft; S3E04 recall without new transaction",
+      "retained_limit": "Office does not prove owner/patron/class; no contents, powers or magical screening inferred"
+    },
+    {
+      "path": "delvers/world/items/three-urns-triangle-gate.md",
+      "disposition": "collective-artifact-account",
+      "supported_horizon": "S3E12 organs used; collapse/epilogue no vessel inventory",
+      "retained_limit": "Canonical set account linked to heart component; no proved cap-organ mapping or inferred jar destruction"
+    },
+    {
+      "path": "delvers/world/items/vestal-diamond-heart-handle.md",
+      "disposition": "artifact",
+      "supported_horizon": "S3E12 final bat encounter",
+      "retained_limit": "Initial failure/offscreen access/actual lance opening separate; armour and recovered physical lance distinct"
+    },
+    {
+      "path": "delvers/world/items/wand-of-secrets-and-geared-disc.md",
+      "disposition": "related-artifact-comparison",
+      "supported_horizon": "S1E11 wand/fragment; S3E04 wheel fit; S3E08 crank retrieval",
+      "retained_limit": "No completed disc or fit to fragment/toothed gate; no missing installation reconstructed"
+    }
+  ],
+  "profile_rewrites": 0,
+  "preservation": "All 20 item profiles and 359 protected current-baseline files unchanged; four control originals archived",
+  "register": "project/DELVERS_ARTIFACT_DISPOSITIONS.json",
+  "selected_primary_paragraphs": [
+    {
+      "dossier": "delvers/episodes/S3E02.md",
+      "lines": [
+        25
+      ]
+    },
+    {
+      "dossier": "delvers/episodes/S3E11.md",
+      "lines": [
+        7,
+        11
+      ]
+    },
+    {
+      "dossier": "delvers/episodes/S3E12.md",
+      "lines": [
+        17,
+        20,
+        23
+      ]
+    },
+    {
+      "dossier": "delvers/episodes/S2E05.md",
+      "lines": [
+        29
+      ]
+    },
+    {
+      "dossier": "delvers/episodes/S2E12.md",
+      "lines": [
+        29
+      ]
+    },
+    {
+      "dossier": "delvers/episodes/S3E09.md",
+      "lines": [
+        22,
+        33
+      ]
+    },
+    {
+      "dossier": "delvers/episodes/S3E04.md",
+      "lines": [
+        29
+      ]
+    },
+    {
+      "dossier": "delvers/episodes/S3E08.md",
+      "lines": [
+        32
+      ]
+    },
+    {
+      "dossier": "delvers/episodes/S2E10.md",
+      "lines": [
+        23,
+        26,
+        31
+      ]
+    }
+  ]
+}

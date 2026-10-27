@@ -107,7 +107,7 @@
     },
     {
       "path": "delvers/world/characters/ambermoor.md",
-      "sha256": "987395d7809712fd7aaf088df8662e0b84b9aeb2ed0594cf0a28d4417d4c422e",
+      "sha256": "d4a91e503e7dd9f0fc3855434036eb27f48d781a5e146b1869233789f1f042a2",
       "disposition": "ordinary-character-biography",
       "editorial_review": "bounded-focus-and-horizon-review",
       "character_focus": "Privileged management, experimental ambition and loss of control",
@@ -123,15 +123,14 @@
       "candidate_mentions": [
         {
           "dossier": "delvers/episodes/S2E06.md",
-          "episode": "S2E06",
           "lines": [
             28,
             30
-          ]
+          ],
+          "episode": "S2E06"
         },
         {
           "dossier": "delvers/episodes/S2E07.md",
-          "episode": "S2E07",
           "lines": [
             3,
             20,
@@ -148,22 +147,38 @@
             37,
             40,
             44
-          ]
+          ],
+          "episode": "S2E07"
         },
         {
           "dossier": "delvers/episodes/S2E08.md",
-          "episode": "S2E08",
           "lines": [
             3,
             20,
             40,
             45
-          ]
+          ],
+          "episode": "S2E08"
         }
       ],
       "routing_cutoff": "S2E08",
       "later_candidate_mentions": [],
-      "factual_acceptance": "No complete factual or audio certification"
+      "factual_acceptance": "No complete factual or audio certification",
+      "bounded_reconciliations": [
+        {
+          "date": "2026-10-27",
+          "report": "reports/DELVERS_PROVENANCE_RECONCILIATION_2026-10-27.md",
+          "scope": "Only this page provenance/presentation and stored hash refreshed; original broad audit not rerun",
+          "previous_registered_sha256": "987395d7809712fd7aaf088df8662e0b84b9aeb2ed0594cf0a28d4417d4c422e",
+          "pre_reconciliation_sha256": "4d1c6abc53ab2f766dd257952b1929f8de4c74788bb809861bc55d44d8d16910",
+          "source_register": "reports/DISCORD_NEW_SPELLING_2026-10-27.md",
+          "limits": "Recorded image review reused; no new images/audio. Lake Obsul equivalence unresolved; no new custody outcome or infection mechanism certified."
+        }
+      ],
+      "preferred_written_name": "Ambermore",
+      "legacy_aliases": [
+        "Ambermoor"
+      ]
     },
     {
       "path": "delvers/world/characters/anthela-spiros.md",
@@ -5563,5 +5578,13 @@
     "method": "Diagnostic main-prose arc counts; compare substantive phases, not brief later references",
     "flagged_diagnostic": "Broadside raw largest-arc/median 2.376",
     "readback": "Complete Broadside main prose reread: 202-word mercy/amends phase versus 85-word ordinary-work phase and 51-word aftermath. Later phases have fewer distinct developments, so no padding or cut required."
-  }
+  },
+  "bounded_reconciliations": [
+    {
+      "date": "2026-10-27",
+      "path": "delvers/world/characters/ambermoor.md",
+      "report": "reports/DELVERS_PROVENANCE_RECONCILIATION_2026-10-27.md",
+      "scope": "Single existing row updated; other page rows unchanged, no full audit recertification"
+    }
+  ]
 }

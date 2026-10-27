@@ -1,0 +1,1796 @@
+{
+  "date": "2026-10-27",
+  "scope": "All 20 current Markdown paths in delvers/world/items; does not inventory every item mentioned elsewhere",
+  "counts": {
+    "artifact": 16,
+    "associated-sentient-companion-context": 1,
+    "artifact-component-account": 1,
+    "collective-artifact-account": 1,
+    "related-artifact-comparison": 1
+  },
+  "review_limits": [
+    "All current main prose and final-status notes read, plus selected boundary notes; not every footnote or archived draft reread",
+    "Twenty alias patterns searched across all 37 dossiers; hits are review candidates, absence is not proof of no later scene",
+    "Fifteen selected complete primary-dossier paragraphs in nine dossiers read, not a full source reread for every page",
+    "No new original ASR/audio, sheets, rulebook, art, maps, remote URL checks or rendered-site review",
+    "No article rewrites or character/place audit recertification"
+  ],
+  "selected_primary_paragraphs": [
+    {
+      "dossier": "delvers/episodes/S3E02.md",
+      "lines": [
+        25
+      ]
+    },
+    {
+      "dossier": "delvers/episodes/S3E11.md",
+      "lines": [
+        7,
+        11
+      ]
+    },
+    {
+      "dossier": "delvers/episodes/S3E12.md",
+      "lines": [
+        17,
+        20,
+        23
+      ]
+    },
+    {
+      "dossier": "delvers/episodes/S2E05.md",
+      "lines": [
+        29
+      ]
+    },
+    {
+      "dossier": "delvers/episodes/S2E12.md",
+      "lines": [
+        29
+      ]
+    },
+    {
+      "dossier": "delvers/episodes/S3E09.md",
+      "lines": [
+        22,
+        33
+      ]
+    },
+    {
+      "dossier": "delvers/episodes/S3E04.md",
+      "lines": [
+        29
+      ]
+    },
+    {
+      "dossier": "delvers/episodes/S3E08.md",
+      "lines": [
+        32
+      ]
+    },
+    {
+      "dossier": "delvers/episodes/S2E10.md",
+      "lines": [
+        23,
+        26,
+        31
+      ]
+    }
+  ],
+  "findings": [
+    "No additional profile correction identified within reviewed scope",
+    "Chance retains agency and character context at compatibility path",
+    "Urn collective/component and wand comparison are deliberate scoped accounts, not duplicate identities",
+    "Later survival does not independently inventory artifacts; untested powers and unknown custody remain open",
+    "Current Ambermoor/Gemholm provenance remains preserved while older audit hashes stay stale"
+  ],
+  "next_work": [
+    "Reconcile inherited Ambermoor/Gemholm provenance with presentation policy and audit records",
+    "Inventory and review remaining creature/faction domains",
+    "Final campaign integration and targeted listening remain pending"
+  ],
+  "pages": [
+    {
+      "path": "delvers/world/items/bag-of-hammer-holding.md",
+      "sha256": "cb5412ef9acceb7dd870efd63aae44b1c748a6013e3dcd7401e623657dca24cf",
+      "disposition": "artifact",
+      "artifact_focus": "Handmade one-object concealment, capacity claim and observed storage",
+      "supported_horizon": "S1E07 gift/test; S2E02 wedding arms; S2E12 qualified equipment descriptor",
+      "last_holder_or_state": "Evelyn last known bearer",
+      "retained_limit": "Distinct javelin bag; no generic holding-bag capacity or final inventory",
+      "editorial_review": "Complete current main prose and Current status source notes; selected extra boundary notes; primary readbacks sampled as listed globally",
+      "main_prose_words": 173,
+      "arc_words": [
+        78,
+        44
+      ],
+      "balance_review": "Phase lengths reflect distinct evidence and changes; no padding or automatic global quota",
+      "anchors": [
+        "bag-of-hammer-holding--margarets-gift",
+        "introduction",
+        "development-by-arc",
+        "arc-one--a-handmade-hiding-place",
+        "arc-two--concealed-equipment-at-formal-gatherings",
+        "current-status",
+        "enchantment"
+      ],
+      "candidate_alias_regex": "hammer.?holding|bag.{0,25}hammer|hammer.{0,25}bag|bedazzled",
+      "candidate_mentions": [
+        {
+          "dossier": "delvers/episodes/S1E07.md",
+          "lines": [
+            27
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S2E02.md",
+          "lines": [
+            19
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S2E12.md",
+          "lines": [
+            22
+          ]
+        }
+      ],
+      "acceptance": "Bounded editorial disposition, not full factual/audio certification"
+    },
+    {
+      "path": "delvers/world/items/chance-lantern.md",
+      "sha256": "9c1c18d960999830e8f3b67b75e2da360ae1a7e0c31b76638747c788b8f260a8",
+      "disposition": "associated-sentient-companion-context",
+      "artifact_focus": "Spirit agency and communication, container appearance and bearer",
+      "supported_horizon": "S3E09 companion/return; S3E10 no new appearance",
+      "last_holder_or_state": "With Barclay at Atomer return",
+      "retained_limit": "No owned-person/bestiary classification or cross-campaign identity from listener tease",
+      "editorial_review": "Complete current main prose and Current status source notes; selected extra boundary notes; primary readbacks sampled as listed globally",
+      "main_prose_words": 118,
+      "arc_words": [
+        55
+      ],
+      "balance_review": "Phase lengths reflect distinct evidence and changes; no padding or automatic global quota",
+      "anchors": [
+        "chance--barclays-lantern-spirit",
+        "introduction",
+        "development-by-arc",
+        "arc-three--a-companion-with-a-spectral-hand",
+        "current-status"
+      ],
+      "candidate_alias_regex": "Chance|lantern spirit|spirit.inhabited",
+      "candidate_mentions": [
+        {
+          "dossier": "delvers/episodes/S2E01.md",
+          "lines": [
+            36
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S3E09.md",
+          "lines": [
+            3,
+            5,
+            22,
+            33,
+            37,
+            42,
+            44
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S3E10.md",
+          "lines": [
+            3
+          ]
+        }
+      ],
+      "acceptance": "Bounded editorial disposition, not full factual/audio certification"
+    },
+    {
+      "path": "delvers/world/items/deck-of-many-things.md",
+      "sha256": "08247e580c1bbf7be9c258ee06d8db5efdb9e57f7c1b129fa080fccc8b1acd51",
+      "disposition": "artifact",
+      "artifact_focus": "Rumored history, actual recovery, undrawn cards and negotiated possession",
+      "supported_horizon": "S2E02 departure; S2E03 confirms",
+      "last_holder_or_state": "Daufante carries away wrapped deck",
+      "retained_limit": "No draw, card contents or generic published powers; fee accounting not fully audited",
+      "editorial_review": "Complete current main prose and Current status source notes; selected extra boundary notes; primary readbacks sampled as listed globally",
+      "main_prose_words": 188,
+      "arc_words": [
+        129
+      ],
+      "balance_review": "Phase lengths reflect distinct evidence and changes; no padding or automatic global quota",
+      "anchors": [
+        "deck-of-many-things--grandfather-hoopers-hidden-cards",
+        "introduction",
+        "development-by-arc",
+        "arc-two--recovered-cards-become-a-negotiated-prize",
+        "current-status",
+        "the-wedding-in-the-woods"
+      ],
+      "candidate_alias_regex": "deck of many|\\bdeck\\b",
+      "candidate_mentions": [
+        {
+          "dossier": "delvers/episodes/S2E02.md",
+          "lines": [
+            24,
+            25,
+            27,
+            28,
+            32,
+            49,
+            51
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S2E03.md",
+          "lines": [
+            18
+          ]
+        }
+      ],
+      "acceptance": "Bounded editorial disposition, not full factual/audio certification"
+    },
+    {
+      "path": "delvers/world/items/devotees-censer.md",
+      "sha256": "27a938432fb75df90984aeada76373505a65c83f65cb6d5cc1677c72b664c896",
+      "disposition": "artifact",
+      "artifact_focus": "Potato flail form, blessing, stated powers and expedition gear",
+      "supported_horizon": "S3E10 acquisition; S3E11 explicit gear",
+      "last_holder_or_state": "Krandal last direct expedition bearer",
+      "retained_limit": "Observed golden smoke is not a healing-cloud activation or later inventory",
+      "editorial_review": "Complete current main prose and Current status source notes; selected extra boundary notes; primary readbacks sampled as listed globally",
+      "main_prose_words": 151,
+      "arc_words": [
+        82
+      ],
+      "balance_review": "Phase lengths reflect distinct evidence and changes; no padding or automatic global quota",
+      "anchors": [
+        "krandals-potato-headed-devotees-censer",
+        "introduction",
+        "development-by-arc",
+        "arc-three--a-blessing-carried-into-the-depths",
+        "current-status"
+      ],
+      "candidate_alias_regex": "censer|censor|potato.headed|healing.incense",
+      "candidate_mentions": [
+        {
+          "dossier": "delvers/episodes/S3E10.md",
+          "lines": [
+            19,
+            21,
+            48,
+            62
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S3E11.md",
+          "lines": [
+            7
+          ]
+        }
+      ],
+      "acceptance": "Bounded editorial disposition, not full factual/audio certification"
+    },
+    {
+      "path": "delvers/world/items/dragon-slayer-longsword.md",
+      "sha256": "6c721e4260a2b88519ca1a4464fae5d91c43bb1add126e30b0a07ef87829545a",
+      "disposition": "artifact",
+      "artifact_focus": "Forge sacrifice, golden appearance, actual hit and narrated aftermath",
+      "supported_horizon": "S2E08 actual hit; S2E09 retrospective and retained custody",
+      "last_holder_or_state": "Evelyn after dragon expedition",
+      "retained_limit": "Marsh arrow kills; no potato motif, full specification or later Loran-weapon identity",
+      "editorial_review": "Complete current main prose and Current status source notes; selected extra boundary notes; primary readbacks sampled as listed globally",
+      "main_prose_words": 182,
+      "arc_words": [
+        127
+      ],
+      "balance_review": "Phase lengths reflect distinct evidence and changes; no padding or automatic global quota",
+      "anchors": [
+        "dragon-slayers-longsword--radiant-lance-forge",
+        "introduction",
+        "development-by-arc",
+        "arc-two--a-sacrifice-of-gold-and-a-tested-weapon",
+        "current-status",
+        "creation-and-appearance",
+        "demonstrated-properties-and-chronology",
+        "s2e09-retrospective-the-dragons-death"
+      ],
+      "candidate_alias_regex": "dragon slay|golden.{0,15}(?:sword|longsword)",
+      "candidate_mentions": [
+        {
+          "dossier": "delvers/episodes/S2E07.md",
+          "lines": [
+            32,
+            44
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S2E08.md",
+          "lines": [
+            1,
+            3,
+            5,
+            11,
+            12,
+            25,
+            27,
+            35,
+            36,
+            45
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S2E09.md",
+          "lines": [
+            3,
+            18,
+            34
+          ]
+        }
+      ],
+      "acceptance": "Bounded editorial disposition, not full factual/audio certification"
+    },
+    {
+      "path": "delvers/world/items/dried-heart-jar.md",
+      "sha256": "3060b069d85a5bb9db6c6709e27f45f5341c19e055d80764c94443d6040a9549",
+      "disposition": "artifact-component-account",
+      "artifact_focus": "Heart vessel form, custody and final organ use",
+      "supported_horizon": "S3E12 organ insertion and collapse",
+      "last_holder_or_state": "Heart used; empty vessel fate unknown",
+      "retained_limit": "Component of same three-urn set, not a second heart or inferred jar destruction",
+      "editorial_review": "Complete current main prose and Current status source notes; selected extra boundary notes; primary readbacks sampled as listed globally",
+      "main_prose_words": 227,
+      "arc_words": [
+        62,
+        89
+      ],
+      "balance_review": "Phase lengths reflect distinct evidence and changes; no padding or automatic global quota",
+      "anchors": [
+        "the-dried-heart-jar--one-of-three-triangle-gate-altar-objects",
+        "introduction",
+        "development-by-arc",
+        "arc-three--from-weighted-pedestal-to-altar",
+        "arc-three--retrieved-reunited-and-emptied",
+        "current-status"
+      ],
+      "candidate_alias_regex": "dried.heart|dry.{0,20}heart|bat.headed|bat.skull|heart.{0,15}urn",
+      "candidate_mentions": [
+        {
+          "dossier": "delvers/episodes/S3E06.md",
+          "lines": [
+            26
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S3E07.md",
+          "lines": [
+            7,
+            23,
+            31,
+            48
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S3E08.md",
+          "lines": [
+            5,
+            20,
+            33,
+            40
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S3E09.md",
+          "lines": [
+            29
+          ]
+        }
+      ],
+      "acceptance": "Bounded editorial disposition, not full factual/audio certification"
+    },
+    {
+      "path": "delvers/world/items/drift-globe.md",
+      "sha256": "71fbbdcfdc8038fb247af4937f75fbf9a7337a45da202654839cece7a37257d9",
+      "disposition": "artifact",
+      "artifact_focus": "Explained light, demonstrated effects, former bearer and later transfers",
+      "supported_horizon": "S3E08 transfer; S3E09 Evelyn use",
+      "last_holder_or_state": "Evelyn last direct user",
+      "retained_limit": "Anthela return transaction not shown; no final inventory or silently repaired charging claim",
+      "editorial_review": "Complete current main prose and Current status source notes; selected extra boundary notes; primary readbacks sampled as listed globally",
+      "main_prose_words": 316,
+      "arc_words": [
+        152,
+        27,
+        86
+      ],
+      "balance_review": "Early recovery/recognition/tests, one brief Anthela transfer and later rescue/transfer have different evidentiary weight.",
+      "anchors": [
+        "drift-globe--kohs-recovered-light-source",
+        "introduction",
+        "development-by-arc",
+        "arc-one--recovered-light-and-a-former-bearer",
+        "arc-two--entrusted-to-anthela",
+        "arc-three--rescue-light-in-another-companions-hands",
+        "current-status",
+        "overview-and-custody",
+        "explained-powers-and-unresolved-name",
+        "light-in-the-sanctuary",
+        "light-in-the-woodland-dungeon"
+      ],
+      "candidate_alias_regex": "drift.?globe|dawn.?globe",
+      "candidate_mentions": [
+        {
+          "dossier": "delvers/episodes/S1E01.md",
+          "lines": [
+            61,
+            72
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S1E02.md",
+          "lines": [
+            32,
+            33,
+            44,
+            60
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S1E04.md",
+          "lines": [
+            31,
+            45
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S1E05.md",
+          "lines": [
+            47
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S1E07.md",
+          "lines": [
+            25,
+            51
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S1E08.md",
+          "lines": [
+            24,
+            36,
+            43
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S1E10.md",
+          "lines": [
+            32
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S2E03.md",
+          "lines": [
+            23
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S2E12.md",
+          "lines": [
+            20,
+            39
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S3E05.md",
+          "lines": [
+            5,
+            30,
+            31,
+            37
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S3E08.md",
+          "lines": [
+            5,
+            32,
+            45
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S3E09.md",
+          "lines": [
+            28
+          ]
+        }
+      ],
+      "acceptance": "Bounded editorial disposition, not full factual/audio certification"
+    },
+    {
+      "path": "delvers/world/items/friendship-ribbon.md",
+      "sha256": "2e05031c2dfeb007d786701cfa7ae09e1ed46a35eafc4e7007734b83dce8fbda",
+      "disposition": "artifact",
+      "artifact_focus": "Mundane origin, attributed enchantment, tested locator and divided custody",
+      "supported_horizon": "S3E12 old ribbon in tower; earlier pieces/rope separately tracked",
+      "last_holder_or_state": "Old tower remnant; individual segments incompletely traced",
+      "retained_limit": "No unlimited supply, verified divine identity, planar range or reunion of all pieces",
+      "editorial_review": "Complete current main prose and Current status source notes; selected extra boundary notes; primary readbacks sampled as listed globally",
+      "main_prose_words": 307,
+      "arc_words": [
+        177,
+        58
+      ],
+      "balance_review": "Enchantment/tests/gifts establish more changes than later practical uses; short later section and final keepsake are not padded.",
+      "anchors": [
+        "evelyns-friendship-ribbon--enchanted-pink-locator",
+        "introduction",
+        "development-by-arc",
+        "arc-two--friendship-given-a-guiding-thread",
+        "arc-three--a-travelling-rope-and-a-younglings-marker",
+        "current-status",
+        "transformation--s2e11-night-at-school",
+        "played-magical-behavior",
+        "s2e12-traveler-piece-actually-given-and-worn-as-rose"
+      ],
+      "candidate_alias_regex": "ribbon|pink.{0,20}(?:rope|bracelet)|enchanted.{0,10}rope",
+      "candidate_mentions": [
+        {
+          "dossier": "delvers/episodes/S1E03.md",
+          "lines": [
+            40
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S2E10.md",
+          "lines": [
+            26,
+            39
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S2E11.md",
+          "lines": [
+            22,
+            23,
+            43,
+            52
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S2E12.md",
+          "lines": [
+            26,
+            40,
+            53
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S3E07.md",
+          "lines": [
+            26
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S3E08.md",
+          "lines": [
+            23,
+            30,
+            43,
+            45
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S3E10.md",
+          "lines": [
+            19
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S3E12.md",
+          "lines": [
+            23
+          ]
+        }
+      ],
+      "acceptance": "Bounded editorial disposition, not full factual/audio certification"
+    },
+    {
+      "path": "delvers/world/items/goat-of-travail.md",
+      "sha256": "f3214a50392a4d487104ec756b5b6c8364a28b27fd875549868843c2c6e68a15",
+      "disposition": "artifact",
+      "artifact_focus": "Purchased figurine, stated duration/reuse and actual ceremony summon",
+      "supported_horizon": "S2E02 actual first summon",
+      "last_holder_or_state": "Evelyn last known figurine bearer",
+      "retained_limit": "No measured duration/dismissal/recharge; not permanently spent or later Find Steed elk",
+      "editorial_review": "Complete current main prose and Current status source notes; selected extra boundary notes; primary readbacks sampled as listed globally",
+      "main_prose_words": 166,
+      "arc_words": [
+        33,
+        70
+      ],
+      "balance_review": "Phase lengths reflect distinct evidence and changes; no padding or automatic global quota",
+      "anchors": [
+        "goat-of-travail--evelyns-ivory-figurine",
+        "introduction",
+        "development-by-arc",
+        "arc-one--a-companion-held-in-reserve",
+        "arc-two--a-spectacle-at-the-wedding",
+        "current-status",
+        "a-once-a-month-companion",
+        "the-weddings-unexpected-blessing"
+      ],
+      "candidate_alias_regex": "goat|figurine|travail",
+      "candidate_mentions": [
+        {
+          "dossier": "delvers/episodes/S1E01.md",
+          "lines": [
+            43
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S1E06.md",
+          "lines": [
+            24
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S1E08.md",
+          "lines": [
+            61
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S1E09.md",
+          "lines": [
+            1,
+            3,
+            11,
+            12,
+            13,
+            34,
+            46
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S1E10.md",
+          "lines": [
+            11,
+            32
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S2E02.md",
+          "lines": [
+            22,
+            34,
+            47
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S2E09.md",
+          "lines": [
+            28
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S3E12.md",
+          "lines": [
+            23,
+            39
+          ]
+        }
+      ],
+      "acceptance": "Bounded editorial disposition, not full factual/audio certification"
+    },
+    {
+      "path": "delvers/world/items/hereditary-drone.md",
+      "sha256": "84284f329df3ae469d77763407f0161e7182aabd9782080189922a28fe08e9ca",
+      "disposition": "artifact",
+      "artifact_focus": "Portable assembly, selective test, attributed theory and separate large source",
+      "supported_horizon": "S2E10 portable Guild custody; S2E12 source; S3E01/02 aftermath/warning",
+      "last_holder_or_state": "Portable Guild assembly; larger source final condition untested",
+      "retained_limit": "No forced object identity, wood/stone reconciliation or automatic post-defeat shutdown",
+      "editorial_review": "Complete current main prose and Current status source notes; selected extra boundary notes; primary readbacks sampled as listed globally",
+      "main_prose_words": 339,
+      "arc_words": [
+        214,
+        48
+      ],
+      "balance_review": "Longer Arc Two covers assembly, selective test, attributed research and distinct large source; shorter aftermath does not supply a final object inspection.",
+      "anchors": [
+        "hereditary-drone--music-box-and-droning-effects",
+        "introduction",
+        "development-by-arc",
+        "arc-two--an-assembled-device-and-a-widening-threat",
+        "arc-three--an-unresolved-mechanism-after-the-crisis",
+        "current-status",
+        "hereditary-drone--stone-music-box",
+        "observed-and-explained-effects",
+        "custody-and-status-through-s2e10",
+        "s2e12-second-arc-finale-active-exposed-underground-installation"
+      ],
+      "candidate_alias_regex": "hereditary|drone|music.box",
+      "candidate_mentions": [
+        {
+          "dossier": "delvers/episodes/S1E09.md",
+          "lines": [
+            31,
+            36,
+            44,
+            57
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S1E10.md",
+          "lines": [
+            25,
+            43,
+            55
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S1E11.md",
+          "lines": [
+            25
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S1E12.md",
+          "lines": [
+            26
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S2E04.md",
+          "lines": [
+            22,
+            28
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S2E05.md",
+          "lines": [
+            19,
+            22,
+            24,
+            35,
+            38
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S2E06.md",
+          "lines": [
+            23,
+            24,
+            35,
+            37
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S2E10.md",
+          "lines": [
+            22,
+            23,
+            25,
+            40,
+            42,
+            46
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S2E12.md",
+          "lines": [
+            5,
+            24,
+            29,
+            30,
+            32,
+            37,
+            47,
+            53
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S3E01.md",
+          "lines": [
+            5,
+            24,
+            41,
+            47
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S3E02.md",
+          "lines": [
+            5,
+            25
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S3E06.md",
+          "lines": [
+            41
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S3E08.md",
+          "lines": [
+            22
+          ]
+        }
+      ],
+      "acceptance": "Bounded editorial disposition, not full factual/audio certification"
+    },
+    {
+      "path": "delvers/world/items/horn-of-blasting.md",
+      "sha256": "4861b7d06b1996c370c851fc4ad5c5ba008321162bfacf512d6bff8ce2c73d20",
+      "disposition": "artifact",
+      "artifact_focus": "Physical response, damaging blasts, crack and examination custody",
+      "supported_horizon": "S2E00 Academy display after S1E09 submission/S1E10 no-return",
+      "last_holder_or_state": "Carrie displays it before Academy board",
+      "retained_limit": "No inferred destruction, permanent Academy ownership, new blast or later condition test",
+      "editorial_review": "Complete current main prose and Current status source notes; selected extra boundary notes; primary readbacks sampled as listed globally",
+      "main_prose_words": 210,
+      "arc_words": [
+        119,
+        33
+      ],
+      "balance_review": "Phase lengths reflect distinct evidence and changes; no padding or automatic global quota",
+      "anchors": [
+        "horn-of-blasting--the-thunderous-ruin-relic",
+        "introduction",
+        "development-by-arc",
+        "arc-one--a-powerful-note-and-a-warning-crack",
+        "arc-two--evidence-before-the-academy",
+        "current-status",
+        "discovery-and-first-blast",
+        "a-weapon-against-a-hunter"
+      ],
+      "candidate_alias_regex": "horn of blasting|\\bhorn\\b",
+      "candidate_mentions": [
+        {
+          "dossier": "delvers/episodes/S1E05.md",
+          "lines": [
+            32,
+            62
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S1E08.md",
+          "lines": [
+            31,
+            44,
+            57
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S1E09.md",
+          "lines": [
+            26,
+            28,
+            43,
+            46,
+            55
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S1E10.md",
+          "lines": [
+            26,
+            34
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S2E00.md",
+          "lines": [
+            23,
+            33,
+            44
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S3E07.md",
+          "lines": [
+            27
+          ]
+        }
+      ],
+      "acceptance": "Bounded editorial disposition, not full factual/audio certification"
+    },
+    {
+      "path": "delvers/world/items/khalazar-red-crystal.md",
+      "sha256": "443b07b683444be43297ab5dc2d312446850a73855d4cc1564f7a480496218d8",
+      "disposition": "artifact",
+      "artifact_focus": "Dream recovery, handoff discrepancy and incorporated component",
+      "supported_horizon": "S3E02 incorporation; S3E11 assembled device evidence",
+      "last_holder_or_state": "In Koh detector, not a new loose shard",
+      "retained_limit": "S2E10 handoff/S2E11 recurrence unresolved; no phylactery or independent shard powers",
+      "editorial_review": "Complete current main prose and Current status source notes; selected extra boundary notes; primary readbacks sampled as listed globally",
+      "main_prose_words": 172,
+      "arc_words": [
+        51,
+        46
+      ],
+      "balance_review": "Phase lengths reflect distinct evidence and changes; no padding or automatic global quota",
+      "anchors": [
+        "khalazar-red-crystal-fragment--dream-recovered-shard",
+        "introduction",
+        "development-by-arc",
+        "arc-two--a-fragment-carried-out-of-the-dream",
+        "arc-three--a-component-of-a-detector",
+        "current-status"
+      ],
+      "candidate_alias_regex": "red.{0,15}(?:crystal|shard|fragment)|crystal.{0,20}(?:dream|blood)",
+      "candidate_mentions": [
+        {
+          "dossier": "delvers/episodes/S2E10.md",
+          "lines": [
+            5,
+            31,
+            32,
+            37,
+            40,
+            42,
+            46
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S2E11.md",
+          "lines": [
+            18,
+            42,
+            48,
+            52
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S3E02.md",
+          "lines": [
+            5,
+            25,
+            31,
+            34,
+            43,
+            55
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S3E04.md",
+          "lines": [
+            7,
+            25,
+            38
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S3E07.md",
+          "lines": [
+            23
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S3E11.md",
+          "lines": [
+            11,
+            29
+          ]
+        }
+      ],
+      "acceptance": "Bounded editorial disposition, not full factual/audio certification"
+    },
+    {
+      "path": "delvers/world/items/khalazar-sensory-amulet.md",
+      "sha256": "43bd91b49142a1d393032f20d052fc953e00d153390c2d0784996653564ddcd8",
+      "disposition": "artifact",
+      "artifact_focus": "Built detector, witnessed response, directional upgrade and covers",
+      "supported_horizon": "S3E11 equipped bracer; S3E12 ritual limits",
+      "last_holder_or_state": "Koh last explicitly equipped bearer",
+      "retained_limit": "Range/target not calibrated; covered silence not negative test; no explicit extra blood consumption",
+      "editorial_review": "Complete current main prose and Current status source notes; selected extra boundary notes; primary readbacks sampled as listed globally",
+      "main_prose_words": 230,
+      "arc_words": [
+        156
+      ],
+      "balance_review": "Phase lengths reflect distinct evidence and changes; no padding or automatic global quota",
+      "anchors": [
+        "kohs-red-crystal-sensory-amulet--khalazar-compulsion-detector",
+        "introduction",
+        "development-by-arc",
+        "arc-three--from-hanging-amulet-to-concealed-guide",
+        "current-status",
+        "creation-and-witnessed-form"
+      ],
+      "candidate_alias_regex": "amulet|bracer|tracker|gold pinpoint",
+      "candidate_mentions": [
+        {
+          "dossier": "delvers/episodes/S1E09.md",
+          "lines": [
+            36,
+            47,
+            59
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S1E10.md",
+          "lines": [
+            35
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S2E01.md",
+          "lines": [
+            41
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S2E04.md",
+          "lines": [
+            18,
+            25
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S3E02.md",
+          "lines": [
+            5,
+            25,
+            28,
+            31,
+            34,
+            43,
+            55,
+            61
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S3E06.md",
+          "lines": [
+            5,
+            32,
+            33,
+            43
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S3E07.md",
+          "lines": [
+            7,
+            23,
+            46
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S3E09.md",
+          "lines": [
+            5,
+            20,
+            41
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S3E10.md",
+          "lines": [
+            19,
+            46
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S3E11.md",
+          "lines": [
+            7
+          ]
+        }
+      ],
+      "acceptance": "Bounded editorial disposition, not full factual/audio certification"
+    },
+    {
+      "path": "delvers/world/items/loran-radiant-armour.md",
+      "sha256": "705eee14001c85c5e5b6f8ce7929cb6818c118044594053114120207851c204d",
+      "disposition": "artifact",
+      "artifact_focus": "Guarded relic, emergency acquisition and bounded protection",
+      "supported_horizon": "S3E10 acquisition; S3E11/12 worn/fought",
+      "last_holder_or_state": "Evelyn during final expedition",
+      "retained_limit": "No earlier acquisition, universal immunity or separate post-escape gear inventory",
+      "editorial_review": "Complete current main prose and Current status source notes; selected extra boundary notes; primary readbacks sampled as listed globally",
+      "main_prose_words": 208,
+      "arc_words": [
+        137
+      ],
+      "balance_review": "Phase lengths reflect distinct evidence and changes; no padding or automatic global quota",
+      "anchors": [
+        "loran-ilfelkyr-radiant-armour--evelyns-transformation-and-worn-equipment",
+        "introduction",
+        "development-by-arc",
+        "arc-three--from-guarded-relic-to-protective-armour",
+        "current-status"
+      ],
+      "candidate_alias_regex": "loran|radiant armou?r",
+      "candidate_mentions": [
+        {
+          "dossier": "delvers/episodes/S2E00.md",
+          "lines": [
+            24
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S2E03.md",
+          "lines": [
+            27
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S3E01.md",
+          "lines": [
+            5,
+            25,
+            28,
+            39,
+            45,
+            47
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S3E02.md",
+          "lines": [
+            20
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S3E03.md",
+          "lines": [
+            23,
+            43,
+            55
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S3E04.md",
+          "lines": [
+            35
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S3E06.md",
+          "lines": [
+            5,
+            28,
+            34,
+            45,
+            47
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S3E08.md",
+          "lines": [
+            23
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S3E10.md",
+          "lines": [
+            13,
+            17,
+            21,
+            40,
+            41,
+            43,
+            45,
+            60,
+            62
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S3E11.md",
+          "lines": [
+            7
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S3E12.md",
+          "lines": [
+            13
+          ]
+        }
+      ],
+      "acceptance": "Bounded editorial disposition, not full factual/audio certification"
+    },
+    {
+      "path": "delvers/world/items/ring-of-protection.md",
+      "sha256": "32395e977194ae83146680d622484644be22c24da882712ea06ea45784f3287c",
+      "disposition": "artifact",
+      "artifact_focus": "Ancient appearance, stated protection, resizing and actual gift",
+      "supported_horizon": "S1E10 worn; S2E05 inventory uncertainty",
+      "last_holder_or_state": "Krandal last known wearer",
+      "retained_limit": "Later custody unresolved; other named rings/unidentified descent not a handoff",
+      "editorial_review": "Complete current main prose and Current status source notes; selected extra boundary notes; primary readbacks sampled as listed globally",
+      "main_prose_words": 175,
+      "arc_words": [
+        125
+      ],
+      "balance_review": "Phase lengths reflect distinct evidence and changes; no padding or automatic global quota",
+      "anchors": [
+        "ring-of-protection--a-relic-from-the-flooded-ruins",
+        "introduction",
+        "development-by-arc",
+        "arc-one--a-responsive-relic-freely-given",
+        "current-status",
+        "discovery-and-awakening",
+        "offered-rather-than-claimed"
+      ],
+      "candidate_alias_regex": "ring of protection|protection.{0,10}ring|\\bring\\b",
+      "candidate_mentions": [
+        {
+          "dossier": "delvers/episodes/S1E02.md",
+          "lines": [
+            36
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S1E06.md",
+          "lines": [
+            28,
+            31
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S1E09.md",
+          "lines": [
+            34
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S1E10.md",
+          "lines": [
+            34,
+            46,
+            59
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S2E01.md",
+          "lines": [
+            21,
+            23,
+            24,
+            30,
+            41,
+            42,
+            55
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S2E03.md",
+          "lines": [
+            27,
+            40
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S2E05.md",
+          "lines": [
+            29,
+            38
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S2E09.md",
+          "lines": [
+            21,
+            37
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S3E04.md",
+          "lines": [
+            33
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S3E05.md",
+          "lines": [
+            23,
+            25
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S3E06.md",
+          "lines": [
+            5,
+            24,
+            33,
+            43
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S3E07.md",
+          "lines": [
+            31
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S3E09.md",
+          "lines": [
+            28
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S3E10.md",
+          "lines": [
+            11,
+            17,
+            21,
+            45,
+            46,
+            48
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S3E11.md",
+          "lines": [
+            11,
+            17,
+            29,
+            33
+          ]
+        }
+      ],
+      "acceptance": "Bounded editorial disposition, not full factual/audio certification"
+    },
+    {
+      "path": "delvers/world/items/runic-sword-hilt.md",
+      "sha256": "990f73adffdd372ec6d5b65b06d336e67196e3187d497edfdcb61edc9f90f8f3",
+      "disposition": "artifact",
+      "artifact_focus": "Recovery, recognition, psychic tests, destruction and ability legacy",
+      "supported_horizon": "S1E07 material destruction; S2E02/03/04 hilt-free abilities",
+      "last_holder_or_state": "Hilt destroyed; psychic gift persists independently",
+      "retained_limit": "No replacement hilt, backdated later powers or confirmed Sun Blade identification",
+      "editorial_review": "Complete current main prose and Current status source notes; selected extra boundary notes; primary readbacks sampled as listed globally",
+      "main_prose_words": 275,
+      "arc_words": [
+        186,
+        33
+      ],
+      "balance_review": "Material history ends at destruction; brief Arc Two legacy preserves later ability distinctions without retelling Koh biography.",
+      "anchors": [
+        "soul-knife--the-runic-hilt-from-the-stone-chest",
+        "introduction",
+        "development-by-arc",
+        "arc-one--from-sealed-relic-to-an-awakened-blade",
+        "arc-two--a-legacy-beyond-the-broken-grip",
+        "current-status",
+        "overview",
+        "recovery-and-questions",
+        "the-blade-awakened",
+        "victory-at-the-keep",
+        "the-blade-without-a-hilt",
+        "a-second-blade-remembered",
+        "two-blades-that-leave-the-hand"
+      ],
+      "candidate_alias_regex": "\\bhilt\\b|soul.?knife|mind sword|psi blade",
+      "candidate_mentions": [
+        {
+          "dossier": "delvers/episodes/S1E03.md",
+          "lines": [
+            42
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S1E04.md",
+          "lines": [
+            34,
+            35,
+            37,
+            41,
+            45,
+            56
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S1E05.md",
+          "lines": [
+            26,
+            27,
+            47,
+            60
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S1E06.md",
+          "lines": [
+            36,
+            37,
+            45,
+            63
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S1E07.md",
+          "lines": [
+            33,
+            43,
+            56
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S1E08.md",
+          "lines": [
+            43
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S2E01.md",
+          "lines": [
+            33
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S2E08.md",
+          "lines": [
+            27
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S2E11.md",
+          "lines": [
+            28
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S3E01.md",
+          "lines": [
+            39
+          ]
+        }
+      ],
+      "acceptance": "Bounded editorial disposition, not full factual/audio certification"
+    },
+    {
+      "path": "delvers/world/items/stolen-warlocks-tome.md",
+      "sha256": "8a2cb72bd5ae730e60004b95d8b3ef0b0fd44390deb4e8b255ec3c15fb18f549",
+      "disposition": "artifact",
+      "artifact_focus": "Recognition, office context, actual theft and unexamined contents",
+      "supported_horizon": "S3E03 theft; S3E04 recall without new transaction",
+      "last_holder_or_state": "Last placed in Dumbledwark duffel",
+      "retained_limit": "Office does not prove owner/patron/class; no contents, powers or magical screening inferred",
+      "editorial_review": "Complete current main prose and Current status source notes; selected extra boundary notes; primary readbacks sampled as listed globally",
+      "main_prose_words": 130,
+      "arc_words": [
+        80
+      ],
+      "balance_review": "Phase lengths reflect distinct evidence and changes; no padding or automatic global quota",
+      "anchors": [
+        "warlocks-tome-from-cassiuss-former-office--stolen-by-dumbledwark",
+        "introduction",
+        "development-by-arc",
+        "arc-three--from-boxed-object-to-concealed-possession",
+        "current-status"
+      ],
+      "candidate_alias_regex": "warlock.{0,20}tome|stolen.{0,20}(?:book|tome)|magical.{0,10}tome",
+      "candidate_mentions": [
+        {
+          "dossier": "delvers/episodes/S3E03.md",
+          "lines": [
+            5,
+            29,
+            31,
+            32,
+            41,
+            49,
+            56
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S3E04.md",
+          "lines": [
+            7,
+            22,
+            45,
+            57
+          ]
+        }
+      ],
+      "acceptance": "Bounded editorial disposition, not full factual/audio certification"
+    },
+    {
+      "path": "delvers/world/items/three-urns-triangle-gate.md",
+      "sha256": "f138da4e5ae4ffebce829437187b7b6e5565b7b0111d31e361f636fa8d69f0cf",
+      "disposition": "collective-artifact-account",
+      "artifact_focus": "Set acquisition, gate use, released containers and final rite",
+      "supported_horizon": "S3E12 organs used; collapse/epilogue no vessel inventory",
+      "last_holder_or_state": "Emptied set fate unknown",
+      "retained_limit": "Canonical set account linked to heart component; no proved cap-organ mapping or inferred jar destruction",
+      "editorial_review": "Complete current main prose and Current status source notes; selected extra boundary notes; primary readbacks sampled as listed globally",
+      "main_prose_words": 447,
+      "arc_words": [
+        57,
+        125,
+        166
+      ],
+      "balance_review": "Three substantive Arc Three phases track recovery, set reunion and gate/organ reuse; the heart page is component detail, not duplicate identity.",
+      "anchors": [
+        "the-three-urns-of-the-triangle-gate",
+        "introduction",
+        "development-by-arc",
+        "arc-three--a-heart-taken-from-the-slime",
+        "arc-three--three-vessels-reunited",
+        "arc-three--the-gate-and-the-body",
+        "current-status",
+        "the-three-urns-of-the-triangle-gate--recovered-key-inventory-and-custody",
+        "historical-3-slot-altar-s3e06",
+        "s3e07-bat-capped-dried-heart-urn-placed-once",
+        "s3e08-hook-horror-capped-organ-urn-taken-from-all-rat",
+        "s3e09-third-grick-headed-urn-recovered--all-three-carried-but-altar-still-empty",
+        "s3e10-custody-evelyn-actually-hands-all-three-urns-to-koh",
+        "s3e11--three-jars-installed-gate-opened-jars-ejected-for-reuse-party-inside",
+        "s3e12-final-organs-actually-used-on-khalazar-vessels-cease-to-be-unused-keys"
+      ],
+      "candidate_alias_regex": "\\burns?\\b|\\bjars?\\b|three.slot",
+      "candidate_mentions": [
+        {
+          "dossier": "delvers/episodes/S1E06.md",
+          "lines": [
+            23,
+            37,
+            46,
+            57
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S2E09.md",
+          "lines": [
+            24
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S3E05.md",
+          "lines": [
+            22
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S3E07.md",
+          "lines": [
+            7,
+            31,
+            32,
+            33,
+            40,
+            45,
+            48
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S3E08.md",
+          "lines": [
+            5,
+            20,
+            26,
+            28,
+            32,
+            33,
+            40,
+            41,
+            45,
+            47
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S3E09.md",
+          "lines": [
+            5,
+            20,
+            29,
+            30,
+            39,
+            42,
+            44
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S3E10.md",
+          "lines": [
+            5,
+            9,
+            21,
+            38,
+            56,
+            62
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S3E11.md",
+          "lines": [
+            9,
+            28,
+            48,
+            50
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S3E12.md",
+          "lines": [
+            17,
+            27,
+            43
+          ]
+        }
+      ],
+      "acceptance": "Bounded editorial disposition, not full factual/audio certification"
+    },
+    {
+      "path": "delvers/world/items/vestal-diamond-heart-handle.md",
+      "sha256": "820d60485fb69a05c8ba4a9a75293aeb3749812c1970acfe5a1ec8704b4f89b4",
+      "disposition": "artifact",
+      "artifact_focus": "Initial gift, later recognition, belief-shaped blade and access/combat uses",
+      "supported_horizon": "S3E12 final bat encounter",
+      "last_holder_or_state": "Evelyn last direct wielder",
+      "retained_limit": "Initial failure/offscreen access/actual lance opening separate; armour and recovered physical lance distinct",
+      "editorial_review": "Complete current main prose and Current status source notes; selected extra boundary notes; primary readbacks sampled as listed globally",
+      "main_prose_words": 216,
+      "arc_words": [
+        23,
+        125
+      ],
+      "balance_review": "Brief unidentified gift phase precedes substantive recognition/access/combat changes; no artificial equal-length arcs.",
+      "anchors": [
+        "loran-ilfelkyrs-transforming-sword--lady-vestals-diamond-heart-handle",
+        "introduction",
+        "development-by-arc",
+        "arc-two--an-unexplained-gift",
+        "arc-three--a-blade-shaped-by-self-belief",
+        "current-status",
+        "described-form"
+      ],
+      "candidate_alias_regex": "diamond.heart|heart.{0,12}(?:handle|blade)|transforming|\\blance\\b",
+      "candidate_mentions": [
+        {
+          "dossier": "delvers/episodes/S2E00.md",
+          "lines": [
+            20,
+            43
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S2E08.md",
+          "lines": [
+            20,
+            27,
+            41
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S2E12.md",
+          "lines": [
+            40,
+            47,
+            53
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S3E01.md",
+          "lines": [
+            25,
+            39
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S3E02.md",
+          "lines": [
+            20
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S3E04.md",
+          "lines": [
+            35
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S3E06.md",
+          "lines": [
+            5,
+            34,
+            45
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S3E08.md",
+          "lines": [
+            5,
+            21,
+            24,
+            25,
+            29,
+            39,
+            42,
+            45,
+            47
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S3E11.md",
+          "lines": [
+            21
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S3E12.md",
+          "lines": [
+            13
+          ]
+        }
+      ],
+      "acceptance": "Bounded editorial disposition, not full factual/audio certification"
+    },
+    {
+      "path": "delvers/world/items/wand-of-secrets-and-geared-disc.md",
+      "sha256": "cf79568bd5e6d9353996e83b01cbc1281cb0b16a49cb88423665adb623df5a63",
+      "disposition": "related-artifact-comparison",
+      "artifact_focus": "Distinct wand, incomplete fragment, crank and shattered comparison stone",
+      "supported_horizon": "S1E11 wand/fragment; S3E04 wheel fit; S3E08 crank retrieval",
+      "last_holder_or_state": "Wand Koh; fragment party; crank Evelyn",
+      "retained_limit": "No completed disc or fit to fragment/toothed gate; no missing installation reconstructed",
+      "editorial_review": "Complete current main prose and Current status source notes; selected extra boundary notes; primary readbacks sampled as listed globally",
+      "main_prose_words": 356,
+      "arc_words": [
+        208,
+        56
+      ],
+      "balance_review": "Phase lengths reflect distinct evidence and changes; no padding or automatic global quota",
+      "anchors": [
+        "wand-of-secrets-and-the-broken-geared-disc",
+        "introduction",
+        "development-by-arc",
+        "arc-one--a-discovered-secret-and-an-incomplete-mechanism",
+        "arc-three--a-working-crank-without-a-completed-disc",
+        "current-status",
+        "the-wands-pointing",
+        "a-quarter-of-something-larger",
+        "the-shattered-stone-at-noble-hollow"
+      ],
+      "candidate_alias_regex": "wand of secrets|quarter.{0,2}dis[ck]|geared|\\bcrank\\b",
+      "candidate_mentions": [
+        {
+          "dossier": "delvers/episodes/S1E11.md",
+          "lines": [
+            23,
+            29,
+            35,
+            36,
+            42,
+            44,
+            59
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S1E12.md",
+          "lines": [
+            29,
+            42,
+            45
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S3E04.md",
+          "lines": [
+            29,
+            45,
+            46,
+            56
+          ]
+        },
+        {
+          "dossier": "delvers/episodes/S3E08.md",
+          "lines": [
+            32
+          ]
+        }
+      ],
+      "acceptance": "Bounded editorial disposition, not full factual/audio certification"
+    }
+  ]
+}

@@ -1,0 +1,108 @@
+{
+  "date": "2026-10-27",
+  "local_file_and_fragment_links": 1661,
+  "maintained_inbound_links": 41,
+  "former_headings_preserved": 21,
+  "exact_original_hashes": 11,
+  "reading_copy_target_equivalence": 11,
+  "explicit_reading_copy_link_corrections": 1,
+  "protected_hashes": 356,
+  "registry_checks": [
+    {
+      "path": "project/DELVERS_CHARACTER_DISPOSITIONS.json",
+      "rows": 35,
+      "matching_page_hashes": 35,
+      "changed_rows": [
+        "delvers/world/characters/ambermoor.md"
+      ],
+      "unchanged_other_rows": 34
+    },
+    {
+      "path": "project/DELVERS_CHARACTER_INVENTORY.json",
+      "rows": 35,
+      "matching_page_hashes": 35,
+      "changed_rows": [
+        "delvers/world/characters/ambermoor.md"
+      ],
+      "unchanged_other_rows": 34
+    },
+    {
+      "path": "project/DELVERS_PLACE_DISPOSITIONS.json",
+      "rows": 27,
+      "matching_page_hashes": 27,
+      "changed_rows": [
+        "delvers/world/places/gemholm.md"
+      ],
+      "unchanged_other_rows": 26
+    }
+  ],
+  "unchanged_item_profiles": 20,
+  "measurements": [
+    {
+      "path": "delvers/world/characters/ambermoor.md",
+      "before_main_words": 345,
+      "after_main_words": 286,
+      "arc_words": [
+        224
+      ],
+      "largest_arc_to_median": 1.0,
+      "footnotes": 6,
+      "anchors": 12
+    },
+    {
+      "path": "delvers/world/places/gemholm.md",
+      "before_main_words": 561,
+      "after_main_words": 489,
+      "arc_words": [
+        383
+      ],
+      "largest_arc_to_median": 1.0,
+      "footnotes": 8,
+      "anchors": 10
+    }
+  ],
+  "errors": [],
+  "limits": [
+    "No new ASR, audio, remote URL or rendered-site review",
+    "Section dispositions and material-claim review, not sentence-by-sentence audio verification"
+  ],
+  "markdownlint": {
+    "maintained_files": 9,
+    "violations": 0
+  },
+  "whitespace": {
+    "scoped_git_diff_check": "passed",
+    "direct_new_file_check": "passed"
+  },
+  "manual_readback": "Both complete pre-edit profiles, revised main prose and changed source notes read. Recorded source-image review reused rather than reopening images/audio. Preferred Ambermore and legacy aliases preserved; Lake Obsul equivalence remains unresolved. Active index changes and scoped register history reviewed.",
+  "protected_groups": {
+    "campaign_files": 213,
+    "prior_batch_artifacts_and_inventories": 133,
+    "bonus_provenance_documents": 10
+  },
+  "reference_input_hashes": {
+    "reports/DISCORD_NEW_SPELLING_2026-10-27.md": "c6fcd07af640e0303234d5913db9bede4f41b7dfd181e5db8906d5c44f9e2dc1"
+  },
+  "reference_input_unchanged": true,
+  "bounded_register_refresh": "Only Ambermoor row in character disposition and inventory, and Gemholm row in place disposition updated; all other rows and old top-level audit metadata unchanged. No broad audit rerun or factual recertification.",
+  "resolved_inherited_hash_gaps": [
+    {
+      "path": "delvers/world/PLACES.md",
+      "pre_reconciliation_sha256": "9b36287b7e6f20ba92d2d6b5a797fb41fe7673a98871ca6a945deeaf8de3d71a",
+      "reconciled_sha256": "81d84d728ed4f1329013b2215b16ff169e04f79703eecfd620b07ed5a74cb715"
+    },
+    {
+      "path": "delvers/world/places/gemholm.md",
+      "pre_reconciliation_sha256": "7964d52c84238212d0b6c8ee92ad88ba0bb47653708a5184b1123f4f68c1493f",
+      "reconciled_sha256": "1ca4188b0f4a6351673d8d0b206c85a540a9e75ac12dac1f5d3c28535e063ffd"
+    },
+    {
+      "path": "delvers/world/characters/ambermoor.md",
+      "pre_reconciliation_sha256": "4d1c6abc53ab2f766dd257952b1929f8de4c74788bb809861bc55d44d8d16910",
+      "reconciled_sha256": "d4a91e503e7dd9f0fc3855434036eb27f48d781a5e146b1869233789f1f042a2"
+    }
+  ],
+  "reading_copy_correction_occurrences": 2,
+  "source_review_limits": "Ten selected complete paragraphs in four existing dossiers, source register read; no new original ASR/audio/image/map/sheet/rulebook or remote URL review.",
+  "working_tree_context": "Recorded provenance preserved and narrowly integrated. Source dossiers/media, private handouts, older audit reports and all 20 artifact profiles unchanged. Unrelated edits preserved. No commit/push by this task."
+}

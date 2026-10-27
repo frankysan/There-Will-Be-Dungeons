@@ -73,7 +73,7 @@ The [triangle-gate catacombs](places/triangle-gate-catacombs.md) and [Black Basi
 
 [Shrugs Manaspoon](characters/shrugs-manaspoon.md) and [Shaolin Nym](characters/shaolin-nym.md) have a [character checkpoint](../../reports/DELVERS_SHRUGS_SHAOLIN_2026-10-27.md) covering technical skill, imperfect concealment, ancient allegiance, final aid and their distinct departures.
 
-[Chuck Abnaz](characters/chuck-abnaz.md) and [Ambermoor](characters/ambermoor.md) have a [character checkpoint](../../reports/DELVERS_CHUCK_AMBERMOOR_2026-10-27.md) covering family leverage, continued criminal business, experimental ambition and captive status.
+[Chuck Abnaz](characters/chuck-abnaz.md) and [Ambermore](characters/ambermoor.md) have a [character checkpoint](../../reports/DELVERS_CHUCK_AMBERMOOR_2026-10-27.md) covering family leverage, continued criminal business, experimental ambition and captive status.
 
 The [Masked Mage](characters/masked-mage.md) has a [character checkpoint](../../reports/DELVERS_MASKED_MAGE_2026-10-27.md) preserving his warning, attributed standing and unresolved identity. [Khalazar](characters/khalazar.md) has a [biography checkpoint](../../reports/DELVERS_KHALAZAR_2026-10-27.md) separating his shade, attributed history, physical body and final destruction. The refreshed [character inventory](../../project/DELVERS_CHARACTER_INVENTORY.json) now records all 35 paths with the expected presentation structure. The [character coverage audit](../../reports/DELVERS_CHARACTER_AUDIT_2026-10-27.md) now assigns all 35 biographies bounded focus/horizon dispositions in a [register](../../project/DELVERS_CHARACTER_DISPOSITIONS.json). This records direct scenes, reports, visions and retained limits; it does not certify complete factual accuracy or listening review.
 
@@ -99,6 +99,10 @@ The [Goat of Travail](items/goat-of-travail.md) and [Horn of Blasting](items/hor
 
 The [Wand of Secrets and geared-disc account](items/wand-of-secrets-and-geared-disc.md) has an [artifact checkpoint](../../reports/DELVERS_WAND_DISC_2026-10-27.md) separating a demonstrated search tool, an incomplete fragment, matching construction and a later working crank.
 
+All 20 current item-directory paths now have [bounded artifact dispositions](../../project/DELVERS_ARTIFACT_DISPOSITIONS.json) and an [audit checkpoint](../../reports/DELVERS_ARTIFACT_AUDIT_2026-10-27.md), preserving Chance's companion context, the collective urn set and heart component, and the wand/disc comparison. Their last known states and unresolved limits remain explicit.
+
+[Ambermore](characters/ambermoor.md) and [Gemholm](places/gemholm.md) have a [provenance reconciliation](../../reports/DELVERS_PROVENANCE_RECONCILIATION_2026-10-27.md) retaining legacy paths and source aliases while integrating the recorded diary spelling. The Lake Obsul/Absul geographic crosswalk remains open; only the affected character/place audit rows have been refreshed.
+
 All 27 current place-directory paths now have bounded editorial dispositions: 25 place/institution accounts, one historical event study and one compatibility route. The [place audit](../../reports/DELVERS_PLACE_AUDIT_2026-10-26.md) and [disposition register](../../project/DELVERS_PLACE_DISPOSITIONS.json) distinguish direct site observations from later reports and outcomes. This does not certify complete factual coverage or finish the remaining world domains.
 
 ## Subject directory
@@ -106,7 +110,7 @@ All 27 current place-directory paths now have bounded editorial dispositions: 25
 ### People
 
 - [Alexandre Vanderbuck Withers — claimant of Skull Keep](characters/alexandre-vanderbuck-withers.md)
-- [Ambermoor — Gemholm operations manager and experimenter](characters/ambermoor.md)
+- [Ambermore — Gemholm operations manager and experimenter](characters/ambermoor.md)
 - [Anathala / Anthela Spiros — Koh's rescued wife](characters/anthela-spiros.md)
 - [Barclay Vandergeist / Bendergeist — guest tortle cleric](characters/barclay-vandergeist.md)
 - [Broadside — the familiar face beneath the armor](characters/broadside.md)

@@ -42,9 +42,9 @@ At the Council, mockery of her grief and ambitions finally gives way to an audie
 
 The Elhandari ship carries the survivors away from Earth, but pirates breach its hull. **Captain Toesalt's** attackers force their way through the corridors; Stanley kills the tentacled **Fluffy**, and **Lyrielle** protects the medical bay from the vacuum. Elves die before the breach is sealed. Amid the battle **Angelashi gives birth**, revealing that she is a **changeling**. Four shapechanging infants survive: **Fork, Boot, Pipe and Nash Junior**. Nash faces fatherhood and his wife's hidden identity together.
 
-The ship reaches **Elhandar**, a forest enclosed beneath an orbital dome. **Admiral Chrysorius** conducts the company to the **High Elf**, who recognizes Stanley as **Valier Ornath**, son of a scientist who went to Earth. Stanley refuses an offered intrusion into his memories. The Principle then appears, claiming responsibility for a vast explosion and his own rise to demigodhood. Privately, he warns Stanley that an old enemy may have survived.
+The ship reaches **Elhandar**, a forest enclosed beneath an orbital dome. **Admiral Chrysorius** conducts the company to the **High Elf**, who recognizes Stanley as **Valiir Or'Nath**, son of a scientist who went to Earth. Stanley refuses an offered intrusion into his memories. The Principle then appears, claiming responsibility for a vast explosion and his own rise to demigodhood. Privately, he warns Stanley that an old enemy may have survived.
 
-At **Villa Ornath**, Stanley's father's cottage, the company begins recovering. Nash and Angelashi reconcile, and Bok Bok agrees to help raise Chunks. Four days relieve the delayed cost of the restorative pills taken during the rescue. News that **Omnom and Emenil** survived offers another connection to home, though Hope remains missing.
+At **Villa Or'Nath**, Stanley's father's cottage, the company begins recovering. Nash and Angelashi reconcile, and Bok Bok agrees to help raise Chunks. Four days relieve the delayed cost of the restorative pills taken during the rescue. News that **Omnom and Emenil** survived offers another connection to home, though Hope remains missing.
 
 Her search has stalled at the Council cavern. Blood Skunk sacrifices an ear to recharge her ring, but an attempt to seize a ship at the Sigil docks turns lethal and fails. Hope retreats to Spider's infernal laboratory. Neither Brett nor the summoned Principle can locate the prison. After Blood Skunk gives his other ear, Hope calls Nash through a Gate. He comes to her in Hell, then brings her into Elhandar. Her three infernal companions remain behind.
 
@@ -76,7 +76,7 @@ Rest does not heal the strength Diontalus stole from **Stanley and Vorel**. The 
 
 Fish flakes let them breathe beneath an ocean without visible end. After a kraken passes, a joyous winged fish answers the prayers. Stanley and Nash briefly vanish into darkness, then return alive. At Emenil's appeal, **Malhya heals Stanley and Vorel's injuries**. The visitor recognizes the danger of the **Eye of Groxl** and suggests an engineer beyond the gods' easy reach, perhaps known to Elhandar's High Elf. The route to Ruby begins to look like a search they can undertake together.
 
-Back at **Villa Ornath**, Nash embraces Angelashi and the children, and the household prepares to travel. Lyrielle guides them along **Rainbow Road** to the station's core. While the family waits at reception, the High Elf summons **Diontalus**. The Voice privately orders Hope to kill him and seize his power; she refuses twice.
+Back at **Villa Or'Nath**, Nash embraces Angelashi and the children, and the household prepares to travel. Lyrielle guides them along **Rainbow Road** to the station's core. While the family waits at reception, the High Elf summons **Diontalus**. The Voice privately orders Hope to kill him and seize his power; she refuses twice.
 
 Stanley instead wins a dangerous agreement. Diontalus promises to return to his **Feywild court**, wait for Stanley and help against the Principle, threatening the elves if Stanley fails to come. He gives Stanley a wooden ocarina said to summon him. The High Elf names the missing engineer **Tungsten Wheel** and supplies teleportation glyphs for Elhandar and the **Mars terraforming platform**, where a contact may know his whereabouts. Before the party can pursue that lead, war reaches the station.[^five-12][^five-13]
 
@@ -84,11 +84,11 @@ Stanley instead wins a dangerous agreement. Diontalus promises to return to his 
 
 A **castle and airship fleet** attack Elhandar. A purple-robed **three-headed mercenary** brings troops into the High Elf's chamber, demanding **Hope and Vorel**. He names the **Mind Master** as employer and says Tobacho has been betrayed to the Lady of Pain. Stanley answers with magic; the High Elf turns trees and cannonfire against the invaders. **Diontalus joins the defense**, making good on his promise of help as the station begins to fall.
 
-The companions race to **Villa Ornath**. A failing elevator, falling dome and the exposed **Rainbow Road** threaten the household's escape; Vorel cuts them free of the lift and Lyrielle shields their route. Family, friends and children crowd into the hidden study, where restraints hold them through impact and darkness.
+The companions race to **Villa Or'Nath**. A failing elevator, falling dome and the exposed **Rainbow Road** threaten the household's escape; Vorel cuts them free of the lift and Lyrielle shields their route. Family, friends and children crowd into the hidden study, where restraints hold them through impact and darkness.
 
 Far away in **Hell**, Brett's employees answer for losing Hope. **Brent** brings Mysteriosa to a laboratory and claims to have recovered **Squirts's soul**. A pod opens and Squirts awakens in a new body, assigned to find Hope. Her return occurs far from the child and companions who mourn her.
 
-On Earth, the cottage has survived. Injured Harbor refugees have also reached its shelter, but rubble blocks escape. Stanley's father's instructions reveal **Villa Ornath as a disguised spelljammer**. He dons the dark mask; the house strains but cannot fly before further attunement. The mercenary's burning castle crashes into the wreckage, killing several refugees in a second impact.
+On Earth, the cottage has survived. Injured Harbor refugees have also reached its shelter, but rubble blocks escape. Stanley's father's instructions reveal **Villa Or'Nath as a disguised spelljammer**. He dons the dark mask; the house strains but cannot fly before further attunement. The mercenary's burning castle crashes into the wreckage, killing several refugees in a second impact.
 
 Outside, the hunter's **electric guitar** batters Diontalus into a crater and compels Hope and Vorel to fight each other. Nash becomes a black dragon, whose acid bypasses the orbiting spheres intercepting spells. Stanley takes the instrument with **Telekinesis**, breaking its hold, and Nash destroys the mercenary's hovering disc.
 
@@ -98,7 +98,7 @@ The fallen enemy **surrenders alive**. Stanley strikes without trying to kill hi
 
 ## VIII. The Burrow and the night after
 
-After the rescue ships depart, **Nash, Hope, Stanley and Vorel** are left beside the shattered station and the surviving **Villa Ornath**. Vorel storms away to sleep in the desert, Hope buries the dead and Nash remains a black dragon. Stanley sits apart with the mercenary's electric guitar. This time its clear notes bring music rather than destruction.
+After the rescue ships depart, **Nash, Hope, Stanley and Vorel** are left beside the shattered station and the surviving **Villa Or'Nath**. Vorel storms away to sleep in the desert, Hope buries the dead and Nash remains a black dragon. Stanley sits apart with the mercenary's electric guitar. This time its clear notes bring music rather than destruction.
 
 The **Soulbroker** appears behind him. Speaking to Stanley alone, he claims that Hope's bargain has been annulled, Vorel never signed, and Nash's engineered heart meant his soul was never theirs to take. **Stanley, he says, remains bound**. He recounts an old pact with the man who became **the Principle**, accusing him of exploiting its power and evading its price. Now, the Soulbroker alleges, the Principle's pursuit of godhood has weakened protections against the Weir.
 

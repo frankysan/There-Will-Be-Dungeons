@@ -1,0 +1,299 @@
+{
+  "date": "2026-10-27",
+  "local_file_and_fragment_links": 1623,
+  "maintained_inbound_links": 175,
+  "exact_original_hashes": 4,
+  "reading_copy_target_equivalence": 4,
+  "explicit_reading_copy_link_corrections": 0,
+  "protected_hashes": 359,
+  "unchanged_item_profiles": 20,
+  "unchanged_item_anchors": 156,
+  "candidate_source_lines": 407,
+  "measurements": [
+    {
+      "path": "delvers/world/items/bag-of-hammer-holding.md",
+      "main_prose_words": 173,
+      "arc_words": [
+        78,
+        44
+      ],
+      "largest_arc_to_median": 1.279,
+      "footnotes": 4,
+      "anchors": 7
+    },
+    {
+      "path": "delvers/world/items/chance-lantern.md",
+      "main_prose_words": 118,
+      "arc_words": [
+        55
+      ],
+      "largest_arc_to_median": 1.0,
+      "footnotes": 3,
+      "anchors": 5
+    },
+    {
+      "path": "delvers/world/items/deck-of-many-things.md",
+      "main_prose_words": 188,
+      "arc_words": [
+        129
+      ],
+      "largest_arc_to_median": 1.0,
+      "footnotes": 3,
+      "anchors": 6
+    },
+    {
+      "path": "delvers/world/items/devotees-censer.md",
+      "main_prose_words": 151,
+      "arc_words": [
+        82
+      ],
+      "largest_arc_to_median": 1.0,
+      "footnotes": 3,
+      "anchors": 5
+    },
+    {
+      "path": "delvers/world/items/dragon-slayer-longsword.md",
+      "main_prose_words": 182,
+      "arc_words": [
+        127
+      ],
+      "largest_arc_to_median": 1.0,
+      "footnotes": 5,
+      "anchors": 8
+    },
+    {
+      "path": "delvers/world/items/dried-heart-jar.md",
+      "main_prose_words": 227,
+      "arc_words": [
+        62,
+        89
+      ],
+      "largest_arc_to_median": 1.179,
+      "footnotes": 4,
+      "anchors": 6
+    },
+    {
+      "path": "delvers/world/items/drift-globe.md",
+      "main_prose_words": 316,
+      "arc_words": [
+        152,
+        27,
+        86
+      ],
+      "largest_arc_to_median": 1.767,
+      "footnotes": 10,
+      "anchors": 11
+    },
+    {
+      "path": "delvers/world/items/friendship-ribbon.md",
+      "main_prose_words": 307,
+      "arc_words": [
+        177,
+        58
+      ],
+      "largest_arc_to_median": 1.506,
+      "footnotes": 6,
+      "anchors": 9
+    },
+    {
+      "path": "delvers/world/items/goat-of-travail.md",
+      "main_prose_words": 166,
+      "arc_words": [
+        33,
+        70
+      ],
+      "largest_arc_to_median": 1.359,
+      "footnotes": 4,
+      "anchors": 8
+    },
+    {
+      "path": "delvers/world/items/hereditary-drone.md",
+      "main_prose_words": 339,
+      "arc_words": [
+        214,
+        48
+      ],
+      "largest_arc_to_median": 1.634,
+      "footnotes": 6,
+      "anchors": 10
+    },
+    {
+      "path": "delvers/world/items/horn-of-blasting.md",
+      "main_prose_words": 210,
+      "arc_words": [
+        119,
+        33
+      ],
+      "largest_arc_to_median": 1.566,
+      "footnotes": 5,
+      "anchors": 8
+    },
+    {
+      "path": "delvers/world/items/khalazar-red-crystal.md",
+      "main_prose_words": 172,
+      "arc_words": [
+        51,
+        46
+      ],
+      "largest_arc_to_median": 1.052,
+      "footnotes": 3,
+      "anchors": 6
+    },
+    {
+      "path": "delvers/world/items/khalazar-sensory-amulet.md",
+      "main_prose_words": 230,
+      "arc_words": [
+        156
+      ],
+      "largest_arc_to_median": 1.0,
+      "footnotes": 4,
+      "anchors": 6
+    },
+    {
+      "path": "delvers/world/items/loran-radiant-armour.md",
+      "main_prose_words": 208,
+      "arc_words": [
+        137
+      ],
+      "largest_arc_to_median": 1.0,
+      "footnotes": 4,
+      "anchors": 5
+    },
+    {
+      "path": "delvers/world/items/ring-of-protection.md",
+      "main_prose_words": 175,
+      "arc_words": [
+        125
+      ],
+      "largest_arc_to_median": 1.0,
+      "footnotes": 4,
+      "anchors": 7
+    },
+    {
+      "path": "delvers/world/items/runic-sword-hilt.md",
+      "main_prose_words": 275,
+      "arc_words": [
+        186,
+        33
+      ],
+      "largest_arc_to_median": 1.699,
+      "footnotes": 9,
+      "anchors": 13
+    },
+    {
+      "path": "delvers/world/items/stolen-warlocks-tome.md",
+      "main_prose_words": 130,
+      "arc_words": [
+        80
+      ],
+      "largest_arc_to_median": 1.0,
+      "footnotes": 3,
+      "anchors": 5
+    },
+    {
+      "path": "delvers/world/items/three-urns-triangle-gate.md",
+      "main_prose_words": 447,
+      "arc_words": [
+        57,
+        125,
+        166
+      ],
+      "largest_arc_to_median": 1.328,
+      "footnotes": 5,
+      "anchors": 15
+    },
+    {
+      "path": "delvers/world/items/vestal-diamond-heart-handle.md",
+      "main_prose_words": 216,
+      "arc_words": [
+        23,
+        125
+      ],
+      "largest_arc_to_median": 1.689,
+      "footnotes": 4,
+      "anchors": 7
+    },
+    {
+      "path": "delvers/world/items/wand-of-secrets-and-geared-disc.md",
+      "main_prose_words": 356,
+      "arc_words": [
+        208,
+        56
+      ],
+      "largest_arc_to_median": 1.576,
+      "footnotes": 7,
+      "anchors": 9
+    }
+  ],
+  "errors": [],
+  "limits": [
+    "No new ASR, audio, remote URL or rendered-site review",
+    "Section dispositions and material-claim review, not sentence-by-sentence audio verification"
+  ],
+  "profile_rewrites": 0,
+  "markdownlint": {
+    "maintained_files": 25,
+    "violations": 0
+  },
+  "whitespace": {
+    "scoped_git_diff_check": "passed",
+    "direct_new_file_check": "passed"
+  },
+  "manual_readback": "All 20 complete current main-prose sections and final-status source notes read, with selected additional boundary notes. Fifteen selected complete primary paragraphs in nine dossiers read; not every source or footnote reread. No new original ASR/audio, sheets, rulebook, art, maps or rendered-site review.",
+  "domain_contract": "Sixteen ordinary artifacts plus associated companion context, component detail, collective set and related-object comparison. Agency, evidence class, custody and independent identities retained; no character word quotas.",
+  "protected_groups": {
+    "campaign_files": 217,
+    "prior_batch_artifacts_and_inventories": 132,
+    "bonus_provenance_documents": 10
+  },
+  "prior_checkpoint_drift": [],
+  "inherited_audit_drift": [
+    {
+      "path": "delvers/world/PLACES.md",
+      "previous_sha256": "56c6c5bc4551f334d9fc3d9b0582276f131db87b9317c7059a53986c7a6ac7fa",
+      "current_sha256": "9b36287b7e6f20ba92d2d6b5a797fb41fe7673a98871ca6a945deeaf8de3d71a",
+      "context": "Intervening committed map/diary provenance changes in e0960bb; preserved without edits by this task."
+    },
+    {
+      "path": "delvers/world/places/gemholm.md",
+      "previous_sha256": "4761f56b9bef21ba34320aca14823af5076a8d6859b1512d4d85885ca48eb078",
+      "current_sha256": "7964d52c84238212d0b6c8ee92ad88ba0bb47653708a5184b1123f4f68c1493f",
+      "context": "Intervening committed map/diary provenance changes in e0960bb; preserved without edits by this task."
+    },
+    {
+      "path": "delvers/world/characters/ambermoor.md",
+      "previous_sha256": "987395d7809712fd7aaf088df8662e0b84b9aeb2ed0594cf0a28d4417d4c422e",
+      "current_sha256": "4d1c6abc53ab2f766dd257952b1929f8de4c74788bb809861bc55d44d8d16910",
+      "context": "Intervening committed map/diary provenance changes in e0960bb; preserved without edits by this task."
+    }
+  ],
+  "older_audit_page_hash_checks": {
+    "DELVERS_CHARACTER_DISPOSITIONS": {
+      "pages": 35,
+      "matching_page_hashes": 34,
+      "stale_page_hashes": [
+        "delvers/world/characters/ambermoor.md"
+      ],
+      "register_unchanged": true
+    },
+    "DELVERS_CHARACTER_INVENTORY": {
+      "pages": 35,
+      "matching_page_hashes": 34,
+      "stale_page_hashes": [
+        "delvers/world/characters/ambermoor.md"
+      ],
+      "register_unchanged": true
+    },
+    "DELVERS_PLACE_DISPOSITIONS": {
+      "pages": 27,
+      "matching_page_hashes": 26,
+      "stale_page_hashes": [
+        "delvers/world/places/gemholm.md"
+      ],
+      "register_unchanged": true
+    }
+  },
+  "audit_limit": "The Ambermoor/Gemholm stored character/place page hashes remain stale from prior provenance updates. Registers and audit artifacts unchanged; no recertification here.",
+  "candidate_match_limit": "407 recorded matches across separate entity patterns include repeated source lines. They are routing evidence, not independent facts or proof of completeness.",
+  "working_tree_context": "All 20 item profiles remain unchanged at the current protected baseline; unrelated edits preserved. No commit or push by this task."
+}

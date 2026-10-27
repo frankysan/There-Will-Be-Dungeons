@@ -12,7 +12,7 @@ The party actually reaches Mars, finds Tungsten's former lover **Dunglestar Rave
 
 ## S2E03 — a purported niece among the Elhandari
 
-When **Stanley/Valere Ornath accepts his newly awarded Selle Prime office**, a spear-bearing elf, source-named **Yunyon/Union Weal/Wheel (?)**, is **actually assigned** as his protective **Belekun/Balelikun (?)**. She explicitly tells Stanley that **Tungsten Wheel is her uncle**. This adds an important **claimant family connection** available to Stanley's party, not proof of Tungsten's present location or even written verification of their genealogy. No reunion, correspondence or travel to Blast Belly Rock is shown. [S2E03](../../episodes/S2E03.md) · [comparison](../../reports/WASTES_S2E03_ASR_COMPARISON_2026-10-26.md).
+When **Stanley/Valiir Or'Nath accepts his newly awarded Selle Prime office**, a spear-bearing elf, source-named **Yunyon/Union Weal/Wheel (?)**, is **actually assigned** as his protective **Belekun/Balelikun (?)**. She explicitly tells Stanley that **Tungsten Wheel is her uncle**. This adds an important **claimant family connection** available to Stanley's party, not proof of Tungsten's present location or even written verification of their genealogy. No reunion, correspondence or travel to Blast Belly Rock is shown. [S2E03](../../episodes/S2E03.md) · [comparison](../../reports/WASTES_S2E03_ASR_COMPARISON_2026-10-26.md).
 
 ## S3E04 — delivers completed Rubistic Triangulosphere and runs local demonstration
 

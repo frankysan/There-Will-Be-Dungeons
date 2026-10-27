@@ -932,3 +932,29 @@ The wand performs a deliberate pointing use; three/day is stated rather than a f
 The complete profile and selected complete relevant dossier paragraphs were read; candidate terms searched across all 37 dossiers. No fresh original ASR/audio, sheet/rulebook/art/map review, source media/dossier edit or evidence-issue closure occurred. No word quota or empty arc was imposed. No commit or push by this task.
 
 Next audit all current item-directory paths for artifact dispositions, evidence horizons and retained exceptions before continuing remaining world domains. Final integration, inherited provenance/audit reconciliation and unresolved listening remain pending.
+
+### Forty-eighth implementation checkpoint — bounded artifact audit
+
+**2026-10-27: All 20 current item-directory paths audited within stated limits; no profile rewrites.** [Report](../reports/DELVERS_ARTIFACT_AUDIT_2026-10-27.md) · [Coverage](DELVERS_ARTIFACT_AUDIT_COVERAGE.json) · [Validation](DELVERS_ARTIFACT_AUDIT_VALIDATION.json) · [Dispositions](DELVERS_ARTIFACT_DISPOSITIONS.json) · [Archive](../research/legacy/2026-10-27/delvers-artifact-audit/README.md).
+
+Sixteen ordinary artifact accounts, one associated sentient companion context, one component account, one collective set and one related-object comparison retain their existing paths. Chance's agency is not converted into owned equipment or a non-intelligent creature. The heart jar belongs to the same urn set; the wand/disc/crank page does not assert a completed mechanism. Full main prose and final-status source notes were read for all 20, with selected additional boundary notes. Twenty patterns searched across all 37 dossiers supply candidates, not proof of absence; 15 selected complete primary paragraphs in nine dossiers were read, not a full source reread for every page.
+
+No additional profile correction was identified within this scope. All 20 page hashes and 156 anchor IDs remain unchanged, alongside 359 current-baseline protected hashes. Four pre-edit controls are archived exactly with rebased reading copies. Material changes, powers, custody and remaining uncertainty remain subject-focused without invented epilogue inventories, generic item rules, empty arcs or word quotas.
+
+The inherited Ambermoor/Gemholm provenance changes and older audit mismatches remain recorded: 34 of 35 character disposition/inventory page hashes and 26 of 27 place hashes match their older registers. Those audits are not refreshed or recertified by this artifact audit. No original ASR/audio, item/character sheet, rulebook, art or map review occurred here; source dossiers were read only in the listed selections. No commit or push by this task.
+
+Next reconcile inherited Ambermoor/Gemholm provenance with the character/place presentation policy and audit records, then inventory remaining creature/faction work. Full campaign integration and unresolved listening remain pending; this audit covers current item-directory pages, not every item mentioned elsewhere.
+
+### Forty-ninth implementation checkpoint — bounded provenance reconciliation
+
+**2026-10-27: Two profiles, active index entries and three registry rows reconciled.** [Report](../reports/DELVERS_PROVENANCE_RECONCILIATION_2026-10-27.md) · [Coverage](DELVERS_PROVENANCE_RECONCILIATION_COVERAGE.json) · [Validation](DELVERS_PROVENANCE_RECONCILIATION_VALIDATION.json) · [Archive](../research/legacy/2026-10-27/delvers-provenance-reconciliation/README.md).
+
+Ambermore is used in the manager and Gemholm main prose and active index labels, supported by the separately recorded three-diary spelling review and matching subject context. Ambermoor remains a legacy alias/slug; both former title targets and other anchors survive. Dated review paragraphs move to source footnotes. Diary infection mechanisms and proposed sales remain testimony, and map-printed Lake Obsul is not silently equated with narrated Lake Absul. No new image/audio inspection or global historical-source rename occurs.
+
+The character index now reflects S2E08's reported Guild custody rather than an obsolete farm-only cutoff. Two broken relative report paths in the places index are corrected; exact originals retain the old bytes and the reading copy declares its correction before rebasing. Eleven originals are archived and 356 current-baseline files protected, including all 20 unchanged item pages and their audit register.
+
+Only the Ambermoor row in the character disposition/inventory and the Gemholm row in the place disposition register are refreshed. Each records the prior registered hash, pre-reconciliation hash and scope; all other page rows remain equal to their archived versions. The 35 character, 35 inventory and 27 place hashes now match the maintained pages, resolving the specific inherited hash gaps without rerunning or recertifying the older broad audits. Prior audit reports/coverage/validation remain historical and unchanged.
+
+Both full pre-edit profiles, revised main prose/changed notes, written-source register and selected complete relevant dossier paragraphs were reviewed. No source media/dossier or private handout was edited, no new original ASR/audio/image/map/sheet review occurred, and no unresolved geographical or custody question was closed beyond the scoped registry refresh. No commit or push by this task.
+
+Next inventory the remaining creature and faction domains, then continue bounded reviews and final campaign integration. Geographic crosswalk and targeted listening remain pending.
