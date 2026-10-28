@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Two creeping masses of black ooze inhabited the greasy caves beneath [Tietkalla's](../places/tietkalla.md) Pit of Despair. They approached through narrow passages from opposite directions, threatening to trap the travelers between them. Nash recognized the creatures as black puddings.[^appearance]
+Two creeping masses of black ooze inhabited the greasy caves beneath [T'ietkalla's](../places/tietkalla.md) Pit of Despair. They approached through narrow passages from opposite directions, threatening to trap the travelers between them. Nash recognized the creatures as black puddings.[^appearance]
 
 ## Arc Two — corrosion in the caves
 
@@ -12,7 +12,7 @@ Their position in the constricted tunnels made withdrawal difficult. Hope suffer
 
 ## Current status
 
-The two puddings encountered in the caves are destroyed, including their final fragments. The wider extent of their presence beneath Tietkalla remains unknown.[^end]
+The two puddings encountered in the caves are destroyed, including their final fragments. The wider extent of their presence beneath T'ietkalla remains unknown.[^end]
 
 [^appearance]: [E042](../../episodes/E042.md), ~01:42–02:24. Two black ooze masses approach from different sides; Nash supplies the black-pudding identification in a rules discussion. This article synthesizes the existing processed-ASR dossier without new transcript or audio review. Direct evidence horizon E042, within the wider Wastes E128 reference; no official D&D baseline comparison is claimed.
 [^corrosion]: [E042](../../episodes/E042.md), ~01:42–01:55 and ~02:24–03:10. Splitting under cutting attacks, machete corrosion and dissolution of wooden barriers are demonstrated. The dossier also records discussion of resistances and immunities, but those lists are not imported as a verified universal stat block or proof of campaign-specific rules. Exact equipment damage remains a listening-review question.

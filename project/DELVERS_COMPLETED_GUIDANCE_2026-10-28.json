@@ -1,0 +1,252 @@
+{
+  "date": "2026-10-28",
+  "campaign": "Delvers",
+  "scope": "completed-campaign application of existing editorial policy and owner listening deferral",
+  "checked_HEAD": "7f331552a7c87172a18a9b165f258f4b1c036f38",
+  "evidence": [
+    {
+      "path": "delvers/narrative/README.md",
+      "sha256": "af81cc78c886f4aa9c26e321c0301d2c45eaa5aca6cf0cfa362196542382cf93"
+    },
+    {
+      "path": "project/DELVERS_NARRATIVE_CHAPTER_MAPS.md",
+      "sha256": "8495956490510e1450ef9b77abd2a2a3b2942b9d6e7380bcc5f1468204fe8594"
+    },
+    {
+      "path": "project/DELVERS_CAMPAIGN_CLEANUP_PLAN.md",
+      "sha256": "5ae97db4a283c78f25b64cac94332eddb46fadeff1fbbe38c7c34d3808bfcd91"
+    }
+  ],
+  "resolved_issue_keys": [],
+  "audio_windows_reviewed": [],
+  "new_chapter_or_word_targets": false,
+  "listening_status": "deferred by owner",
+  "protected_files": {
+    "delvers/world/CHARACTERS.md": "9177ac5ca4a7c37eb11c495529067b399989bde76244037f7a066d64b3be1e80",
+    "delvers/world/CHRONOLOGY.md": "bba273fe59abad01aad2e9c4049fb927b737050947a049c5e82d06a83e1fc74c",
+    "delvers/world/CONSISTENCY_LEDGER.md": "e98d8c326a8c8fc31f4d28c005f26e06a8fdbd45bb416b0769b31a14b5b0eb90",
+    "delvers/world/CREATURES_AND_MONSTERS.md": "8a67bd27da560993a248f9fd6d4417a0f8aeb292f1b104b65e6aeeebbc86ea13",
+    "delvers/world/PLACES.md": "52629c11eba1c779df9454eea78137c379341393a0ec955bcd357de148b8caef",
+    "delvers/world/README.md": "97a4b3136bea375b528b73389fa9485711d9bf75840d02700dccfc91a5c6aa6b",
+    "delvers/world/WORLD.md": "cc6398bccf47b6681a7b70b8b829ad9b4de000519676efba5e490d9a31496a90",
+    "delvers/world/characters/alexandre-vanderbuck-withers.md": "a9c997c79eb30e8821e7956a7425021742d64266818a8d5b060826fc3ca2e6f9",
+    "delvers/world/characters/all-rat.md": "72a17e2c266f7a65f0a21ff69b3557184134a906260acf05be78cfc85e647392",
+    "delvers/world/characters/ambermoor.md": "d4a91e503e7dd9f0fc3855434036eb27f48d781a5e146b1869233789f1f042a2",
+    "delvers/world/characters/anthela-spiros.md": "83aa6f76c406b9ff951758f040a2dc6e9e11396755b2fae82def8cc9643d9265",
+    "delvers/world/characters/barclay-vandergeist.md": "ef5541b1048d5c2e4511088c2238dda6276caeb27da23f6136d333f09da42813",
+    "delvers/world/characters/broadside.md": "4ea6b2464432d9acbc684773f6f604346a3ded088a19724fd5df1bf068e8ef8d",
+    "delvers/world/characters/buck-broscale-wildfire.md": "80b4166c77017fd72c9bc2f0cdb62e3491b180fbe25887da4a321bd2edb21433",
+    "delvers/world/characters/carrie-underworld.md": "0da5d2935c22c871b6f89e06ca05b15069e09328c641cb3b9c6251ecf03871b9",
+    "delvers/world/characters/cassius.md": "c7fedc6ccf5f7a68157990397f9be5c84eb57278d79c9a0560b1ad58c71492fa",
+    "delvers/world/characters/chad-brad.md": "e4952627b7c59f74aa68aee64300c4443fff3449a991af2cec3b7f2d25cdfbf5",
+    "delvers/world/characters/cheet.md": "19ee62d3a25073ff342db9fda039cb8ed8b7143f168ae79bcfbce453f95ba580",
+    "delvers/world/characters/chuck-abnaz.md": "4b5acacac8cc99b2744025402e3b3e47261b74d36cf0fee0bf890f466711edf3",
+    "delvers/world/characters/darmah-edstream.md": "957bb9c3ee8c5bcba6bc586bba385ffdde13bee194a5d6fe424913cbe0ee15a7",
+    "delvers/world/characters/destroying-angel.md": "bab7bff4fd5e8de49cc6a14286f13d9d25a9e9878f7e2ed65ea1ddd0d7b9d026",
+    "delvers/world/characters/dumbledwark-of-raisinbunch.md": "3332c4f8c38edcb7ee91abbe338c52e323f054b94bef2dcae1604e281aaa5315",
+    "delvers/world/characters/enzo-vanderbuck-withers.md": "66b95556a71a823861b7d420bf74f0cc51051da92878ca90e514c108b53363b0",
+    "delvers/world/characters/evelyn-grinkeeper.md": "f6bd61a7ccf380304873eb45bf900fe8ea92a8b4e213dcee945ee4ad79f59223",
+    "delvers/world/characters/gentleman-cavalier-traveler.md": "1a1e0497a3ce91c35ebb558ea959994860ac98b72913e96457c3828eef015fe9",
+    "delvers/world/characters/gleepo-ma.md": "e08df96362ad2c8d63946c0b92f374869589095192f92311df3df22b93319e2e",
+    "delvers/world/characters/goggles-granny.md": "cfd6a98fc8454630625741f80ebe7c32eda6c53da8f5ad60148170b7fb3bed98",
+    "delvers/world/characters/khalazar.md": "8cdffe2bf652fca5659952e3f178448aae9e76572036f7d648e95487e1f2d7e8",
+    "delvers/world/characters/koh-spiros.md": "9d71f782626c7610c2b7c5e374074963763ed493be2d8d7171ec34667752271c",
+    "delvers/world/characters/krandal-splenderbelt.md": "39fe3e0a8ef2404774f6be9ae26a0d3e8047c36bd402468800322b67e54e4f89",
+    "delvers/world/characters/marek-gideon.md": "8de0e260f59341967c650b174a56aeed3bbd800a5104e933890b4f77714a6392",
+    "delvers/world/characters/margaret-dupayton.md": "bbaf2405bb9ef669a145b407f3bafc695a37b7528f903c183c0697fc4fe3fa33",
+    "delvers/world/characters/marsh.md": "f7e4e4fc50633bb7623f285dc871dc63587f95d12e157d503336a5c00dc093c5",
+    "delvers/world/characters/masked-mage.md": "a6e9ed1ebd5c9d3f653d948390ac3d8b69c6b82448e117cfe8c23c1a83acc492",
+    "delvers/world/characters/nopa-ropa.md": "d950cd611fcf9a95d14c72374017fe68600df1b4449fbd689556cc7d351aa2db",
+    "delvers/world/characters/penelope-spiros.md": "6ba66e247f1d66d57e22ff3f61c723f4cb145df0544280833f26164dc0c29606",
+    "delvers/world/characters/princess-hissia.md": "9cc4ac4a1bc6f6b632e75f0c3e20813ad5f6bdca827c600b9ec7a48b9aefa65e",
+    "delvers/world/characters/radiant-lance.md": "caed57b5a353bf63544794232f6c804fbf2e49836f864594e0c3e0ea1dffc26b",
+    "delvers/world/characters/shaolin-nym.md": "2412cedb62201c564bbc6595dfa9b7d34c8ffe339a30e5d4aec8cfe3a2089435",
+    "delvers/world/characters/shrugs-manaspoon.md": "2f3dd5dcf6e9cef9d5d1f36cfe65af3c587936bee116cf3b2ca397d6d98dba63",
+    "delvers/world/characters/skoogie.md": "b6a2e36d98fe4fca6a3986fafc52e0f69e3d361cbee39e7523f14ae5a81e11fd",
+    "delvers/world/characters/the-great-daufante.md": "8dce7d1a2194469f9c08ad611b182da715ea7c8a776092fe096eb8466d909d9c",
+    "delvers/world/characters/veggie-sticks.md": "97414b03aa2827b7d660f6e481d7dde3222d66f030a3a00a4d6cac9e9888a350",
+    "delvers/world/creatures/all-rat-cranium-congregation.md": "cf251e4e9dd5dcce4906065b1e5cbdb45ebc352a88504e25196fd80ee7c6b255",
+    "delvers/world/creatures/dungeon-c4-behir.md": "f93092b8d5b4b6d8becd03a10268f40ce7bc17246b5cb0db6a73fb4624ac2280",
+    "delvers/world/creatures/flameskull.md": "6ba481f869b8ff18f0e784ba6313322df08ac9b74281c352458d22272e1c147a",
+    "delvers/world/creatures/gricks.md": "06722ca957369151004f248f1c85756b346c1b44805b28ef8d7ca87ef7f5b7b9",
+    "delvers/world/creatures/hook-horrors.md": "9389c2aff6446f58d09abfe7c46480054feca0a4e65fd02e478c5028b2a49649",
+    "delvers/world/creatures/noble-hollow-roper.md": "e61219db18c5f51c4c9a3ade7a86b0ecc02bc5c3d6571fd89718d883d6a0688a",
+    "delvers/world/creatures/skeletal-bat-balcony.md": "cfd4efd3de648ae30b60f87e9db38dda5119dc8c518bc63785a982ca34f900dd",
+    "delvers/world/creatures/triangle-gate-mummies.md": "8c8f991f6f2b952393ab1cf8a835a66f8ed1ce236b7fdb6dcd6029bc067e878e",
+    "delvers/world/items/bag-of-hammer-holding.md": "cb5412ef9acceb7dd870efd63aae44b1c748a6013e3dcd7401e623657dca24cf",
+    "delvers/world/items/chance-lantern.md": "9c1c18d960999830e8f3b67b75e2da360ae1a7e0c31b76638747c788b8f260a8",
+    "delvers/world/items/deck-of-many-things.md": "08247e580c1bbf7be9c258ee06d8db5efdb9e57f7c1b129fa080fccc8b1acd51",
+    "delvers/world/items/devotees-censer.md": "27a938432fb75df90984aeada76373505a65c83f65cb6d5cc1677c72b664c896",
+    "delvers/world/items/dragon-slayer-longsword.md": "6c721e4260a2b88519ca1a4464fae5d91c43bb1add126e30b0a07ef87829545a",
+    "delvers/world/items/dried-heart-jar.md": "3060b069d85a5bb9db6c6709e27f45f5341c19e055d80764c94443d6040a9549",
+    "delvers/world/items/drift-globe.md": "71fbbdcfdc8038fb247af4937f75fbf9a7337a45da202654839cece7a37257d9",
+    "delvers/world/items/friendship-ribbon.md": "2e05031c2dfeb007d786701cfa7ae09e1ed46a35eafc4e7007734b83dce8fbda",
+    "delvers/world/items/goat-of-travail.md": "f3214a50392a4d487104ec756b5b6c8364a28b27fd875549868843c2c6e68a15",
+    "delvers/world/items/hereditary-drone.md": "84284f329df3ae469d77763407f0161e7182aabd9782080189922a28fe08e9ca",
+    "delvers/world/items/horn-of-blasting.md": "4861b7d06b1996c370c851fc4ad5c5ba008321162bfacf512d6bff8ce2c73d20",
+    "delvers/world/items/khalazar-red-crystal.md": "8e2b5f22782b8828a7525767ad19c46de467a10b50b3bcc8a2f5773ec0693753",
+    "delvers/world/items/khalazar-sensory-amulet.md": "43bd91b49142a1d393032f20d052fc953e00d153390c2d0784996653564ddcd8",
+    "delvers/world/items/loran-radiant-armour.md": "705eee14001c85c5e5b6f8ce7929cb6818c118044594053114120207851c204d",
+    "delvers/world/items/ring-of-protection.md": "32395e977194ae83146680d622484644be22c24da882712ea06ea45784f3287c",
+    "delvers/world/items/runic-sword-hilt.md": "990f73adffdd372ec6d5b65b06d336e67196e3187d497edfdcb61edc9f90f8f3",
+    "delvers/world/items/stolen-warlocks-tome.md": "8a2cb72bd5ae730e60004b95d8b3ef0b0fd44390deb4e8b255ec3c15fb18f549",
+    "delvers/world/items/three-urns-triangle-gate.md": "383024a974364fa2e6cfd4e0971bde5342be0a8d0048f0b943e576fe7f13a260",
+    "delvers/world/items/vestal-diamond-heart-handle.md": "820d60485fb69a05c8ba4a9a75293aeb3749812c1970acfe5a1ec8704b4f89b4",
+    "delvers/world/items/wand-of-secrets-and-geared-disc.md": "cf79568bd5e6d9353996e83b01cbc1281cb0b16a49cb88423665adb623df5a63",
+    "delvers/world/places/black-basilica.md": "0a5afe026ab5431867cbee336df8333341d702021b55a868486b1bdb6ec9210a",
+    "delvers/world/places/black-slime-key-chamber.md": "d52093e35584d27648b71cc56edc1909aec55fa362568786d001ed1e7998cb8f",
+    "delvers/world/places/broscale-manor.md": "a8245503ffe36c62ea4efd98f9ea898448f2c9d29aa6f71641cb7216cac719dc",
+    "delvers/world/places/chath-peak.md": "72406cc00a0b9dacabe4115354afa7593b4c4a86f1aafc0cc17e9d0dfd6aa35d",
+    "delvers/world/places/dawnless-dunes-pyramid.md": "07e92ccb04232ade9de3a8428d0bced35399456bb729f3a3b74bd9f7d52845ca",
+    "delvers/world/places/deep-winds-spa.md": "a7566dc9df7424bd9616bca789e2728f5e15ac97689ed848b24cb9701ef81be1",
+    "delvers/world/places/delvers-guild.md": "e10b4013f0fe8d278fed607e098bf054b9bbb064004b4fff1e6fde121ada613b",
+    "delvers/world/places/dungeon-guild-academy.md": "862b6d5d1e7d1822a7a94c5e3b27a67fad5dcaae85d16333bc375f921916115e",
+    "delvers/world/places/farm-cave.md": "617293a7403b23c8cc4660e4282d7498d5af112625a8273bde9bafd8cfcbdb37",
+    "delvers/world/places/gemholm.md": "1ca4188b0f4a6351673d8d0b206c85a540a9e75ac12dac1f5d3c28535e063ffd",
+    "delvers/world/places/governors-hall.md": "6977ebdbd23dc562363612431466a6c6c06392995d7b1c7d27c59963f45f3901",
+    "delvers/world/places/grick-sinkhole.md": "60d73fa0a81582e83b56a4da607371fcc709694410026c3d301344b7db0df05e",
+    "delvers/world/places/guild-public-reckoning-s3e10.md": "e078c2fc2edd6875990cec9b4aa70d3b729db366d27b55d68db1275f10fad362",
+    "delvers/world/places/hooper-estate.md": "29ab906aa96ef3053edc92255962fc086726aeb6c742f0f40d42ed994c3a0f15",
+    "delvers/world/places/kuo-toa-lakeshore-village.md": "b79fd3b4237217151e7a11d6512db64b4283b3e234f35ce1fbc4fc6fe47d926c",
+    "delvers/world/places/minotaur-mesa-bone-crypt.md": "13a84c8e01df05d169b982e4bf99b07543ea22e0f6c4139a8131f36e48fef70b",
+    "delvers/world/places/noble-hollow.md": "e4c9fe4b43ea1ff646356cdc6a361c62b1283b5503e578d5d1874d9ec6c0cab3",
+    "delvers/world/places/potato-grove.md": "dd4c65d2e528752f750b753e38a75a818c09e806f6ec1212d71e763a78020be2",
+    "delvers/world/places/right-stair-grick-urn-complex.md": "42d2c0064839235b610878d278a2ef565b5796d7daa4035f1d56de73b96e70fc",
+    "delvers/world/places/skull-keep.md": "237eaca8dc37e6957d67f611014e503d37cf638163e530024f945b9ea994020e",
+    "delvers/world/places/snake-island.md": "d25e9d886296d5b4045423de06dda7a84ec71ac690187c992a6d9d630aaa54d0",
+    "delvers/world/places/southwestern-town-well.md": "488320af8c7e72847bc326c70ea1d07e96cf7595b4518f0011d0a043e8cbcd56",
+    "delvers/world/places/splenderbelt-farm-delvers-tower.md": "4a9e0a40fa24a2cfa3181c2f8b69109b8c1b888310d83b4fd5ce33e85931e0fe",
+    "delvers/world/places/submerged-lake-ruins.md": "beedbcd68def3fd7f621c1fe6851920c51e9452d6b09a0189da2ffbbcdcf0b9b",
+    "delvers/world/places/temple-of-pelor.md": "3aa8b0a1bc3d8eb78bbb0eb476066c5df2d242157cb1fe7e909f5f183a9185f8",
+    "delvers/world/places/triangle-gate-catacombs.md": "72b0a5eae907e0ef5be5cb6cff019f09de269fae54a25842342ad6ebceeddf54",
+    "delvers/world/places/withers-estate.md": "aae0aa6b667bfddf4a3c1649434cfb5d562eceb7834123cc8e3bdc069d4e1e9c",
+    "delvers/narrative/FIRST_JOBS.md": "c89d732560f49d81a0433a7f25c2788243981daac594935fe3be79d899f91849",
+    "delvers/narrative/README.md": "af81cc78c886f4aa9c26e321c0301d2c45eaa5aca6cf0cfa362196542382cf93",
+    "delvers/narrative/SEASON_ONE_ARC.md": "0e68940c1c0ab4766419cb88c6903cac8d5fd72889e6cded4001affecddeacdc",
+    "delvers/narrative/SEASON_THREE.md": "c11493820a8f2fca97e625f71e562d42487d118e8a3c5085453a6868378856cb",
+    "delvers/narrative/SEASON_TWO.md": "6462e3d4656a0aaf18f9b3ce8784c3eb6c76b3b916c5c95bec441f055ed889b3",
+    "delvers/narrative/SKULL_KEEP.md": "def6f599c0450314519616f2353bb16f587594ae5a6a4969eb8d112c36686a6e",
+    "delvers/narrative/THE_RISE_TO_BRONZE.md": "f6762da49b2c8c82ca8bcba0cc87c2a6dea6cdfe6b90f3ecc21e4616c0277616",
+    "delvers/narrative/THE_WELLS_OF_ATOMER.md": "c327dbb351ce9e4c5b5b8d1bf5f571fe7c897941203f913e0b25da5ba618fd54",
+    "delvers/episodes/S1E01.md": "e7e1de8edb389d9a90397388485fb657e940e94ff8d2d46365a91bc6fda0c584",
+    "delvers/episodes/S1E02.md": "cf481da4b0f476e7268eb3514a13b4821cefd77209a32a855ac51c59d1fedc9e",
+    "delvers/episodes/S1E03.md": "a1bc5b61db6547188bcd6e9d569f8337abb871c19ed7c912e341c08f30278af2",
+    "delvers/episodes/S1E04.md": "6678741c5e23daa4ba935d9feef94da20a7a030cc6a1d9db0a7bb37bfc6bcc07",
+    "delvers/episodes/S1E05.md": "ecdd6fb24e4aca84164487eb335b2c763fe3dc03abd458dbf5f6a50c00ea5fd3",
+    "delvers/episodes/S1E06.md": "ece568510f7486964c92ec23297df3ebee50870126f21085df24bec75d931bd4",
+    "delvers/episodes/S1E07.md": "e694abe7e226944a011c978ec579e4135abc7b719446e7631e05d290cbffce94",
+    "delvers/episodes/S1E08.md": "456b19a6202b7ee90dd1f685958d215566168e032d20f7be862ea07ca29d38d8",
+    "delvers/episodes/S1E09.md": "40a38dc28e66f5c5a38db8d960ca789cc0b0a528544ab955fe5faa5f96353b28",
+    "delvers/episodes/S1E10.md": "dc146bd80d7d382782b05733d2c5f0ccad0eaa75551b7a41009645e819c96e0e",
+    "delvers/episodes/S1E11.md": "a641322023a93f6ca1a17075354942b81e89ccd1b7b8c60c7eeb39aa88c5a5cd",
+    "delvers/episodes/S1E12.md": "1522110922366c49b594327829189796b41626e7d2f12b3d0af1afaa6189b78d",
+    "delvers/episodes/S2E00.md": "ca468b7c25a39a82b13a0348e84c78e310e04f3247db1b3240e81433f06774d3",
+    "delvers/episodes/S2E01.md": "c0b2abf9612b2eba40595cc99d8bc679c3b44988f0493fe70134650b028c7cef",
+    "delvers/episodes/S2E02.md": "f24b918bc806d257117626a75d283915c7cc9996c3045b2ba33e68a848cf2c09",
+    "delvers/episodes/S2E03.md": "64e485e751a7b80ed2972d79870c5b1bf8d6192690487e98187f6bb85c7f7c83",
+    "delvers/episodes/S2E04.md": "d71150b451025fc521d4ba3866f3e7e3c4e026094c02a658a7ed7b95f7cb59b5",
+    "delvers/episodes/S2E05.md": "ae8883aeb53adfec6db3db5884ff94dba983128698575dc56d3c081151ba568c",
+    "delvers/episodes/S2E06.md": "8613785d5f217e1593bf92d6755387be0307c219d66e2e470a28cece67a4acec",
+    "delvers/episodes/S2E07.md": "ae77f3b2aefa4eead055b33db67e22eec9b25f1c0e7eecbbcf851fbb38717981",
+    "delvers/episodes/S2E08.md": "551db801db7bcd2281862c5f91b1acbf9f54b3b79b2d4d130dd73987763a449d",
+    "delvers/episodes/S2E09.md": "efef1dfe2839fc4877b8e1aa4973ccca581d9809f45edd9b0c63cf043cd70fd6",
+    "delvers/episodes/S2E10.md": "485383248dde9b35042d0b40699541f2184766e050518db6b3f3e30fb6a1a668",
+    "delvers/episodes/S2E11.md": "796d1dc27a8c766366c82a3dbfc6949456d6a5b1932f0d26da0e1d02bb2d0316",
+    "delvers/episodes/S2E12.md": "028863bddc0bb538b4bd38a4880ef4ed4765a8856f1547601df88cb57823c38d",
+    "delvers/episodes/S3E01.md": "d801989efc750c5496d36bacf3edd65d2aff1f2d30ea25bb60cfd67e3ab0e321",
+    "delvers/episodes/S3E02.md": "fa7c87a1a282598e15de99db378c1178f2068f6c7d261f40b1ddfba9b9d4f99c",
+    "delvers/episodes/S3E03.md": "a154748e50f0733a5e21096119aa503dfa88c7c0d00916156b575d33334ea811",
+    "delvers/episodes/S3E04.md": "8e7ad5561fb8d1313aab99bf23fe910e33196b9d20d25fbf565abb22974af085",
+    "delvers/episodes/S3E05.md": "0278b166b63e7f470bd6545c49a01df0769ca0b6fbd82a0f6527c845e6ba4342",
+    "delvers/episodes/S3E06.md": "7bb59095c01e4b62cf8602b7e358cdbc7b802307ada9b02e9ac7efe43ec516cb",
+    "delvers/episodes/S3E07.md": "9193e1cec5841939301c222d7d6077de5b2a638ec779bbc886d2cfb6dc0a50a1",
+    "delvers/episodes/S3E08.md": "6a4f91bdf5eea33778f836a61c1ac2366acd08c9e6f507e905ab114bcd665892",
+    "delvers/episodes/S3E09.md": "5190a2dbd24d943e83574e5d2f74a81e651fd7172400c293f8ca05e4f9e378a6",
+    "delvers/episodes/S3E10.md": "cb0d1f109f2ca7a1d6d844d90231669f24496ab8afa554782051d9199d1325a3",
+    "delvers/episodes/S3E11.md": "078662521b4c47d6575950a2f0551c3b6052ef5cc6a2ee76596f36ca413bf554",
+    "delvers/episodes/S3E12.md": "afb9a0c8b0706776dee4643eb8b52044defd0fa976cfb2d67c44157e8ef3b869"
+  },
+  "edits": [
+    {
+      "path": "project/WORLD_NARRATIVE_STYLE.md",
+      "before_sha256": "770dc7e4eb4bc71e57b8b706c21826923b3d255c1b3a865c41398521dcb20625",
+      "after_sha256": "047ca82f425b1a5b00ab2bb88236767eb6ae78d1844a650ed853319427ea4870",
+      "operations": [
+        [
+          "Delvers narratives remain **plot-led connected stories**, while reference pages explain their own subjects. Follow the [editorial guide](EDITORIAL_GUIDE.md) for narrative presentation and proportional chapter lengths when enough researched story exists. The ongoing [First jobs](../delvers/narrative/FIRST_JOBS.md) has no fixed ending or eight-chapter requirement; do not pad short opening scenes, invent connective events, or impose a completed-arc word budget on a fragment. Declare each article's actual researched horizon in a source note, even when its last direct observation predates the campaign's newest dossier.",
+          "Delvers narratives remain **plot-led connected stories**, while reference pages explain their own subjects. **Completed-campaign application, 2026-10-28:** use the three primary arc accounts in the [narrative reading order](../delvers/narrative/README.md#primary-reading-order) and their implemented [chapter maps](DELVERS_NARRATIVE_CHAPTER_MAPS.md). The [First jobs study](../delvers/narrative/FIRST_JOBS.md) and other earlier detailed studies remain historical versions at their established paths; they are not an ongoing primary narrative or additional chapters after the first-arc synthesis. Follow the [editorial guide](EDITORIAL_GUIDE.md) for presentation and proportional reading weight. Do not pad scenes, invent transitions or impose Wastes arc boundaries or a fixed chapter count. Declare each reference article’s actual researched horizon in a source note, even when its last direct observation predates the Delvers finale. Campaign completion does not resolve uncertain testimony, identities or unperformed events."
+        ]
+      ]
+    },
+    {
+      "path": "project/EDITORIAL_GUIDE.md",
+      "before_sha256": "50dd2e214e27ec46f0eaa135777136200af366a2ece7f3b04f5952f60a709772",
+      "after_sha256": "c2106ee33e264ce6f801c99895431a9d21b8a03c27e2f1b604e2b683bd70ac63",
+      "operations": [
+        [
+          "The revised world-reference and narrative direction applies equally to `delvers/world/` and `delvers/narrative/`: [campaign-specific application](WORLD_NARRATIVE_STYLE.md#delvers-world-and-narrative). Reference prose explains its subject; narrative prose follows the story. Use in-universe prose and source footnotes in both, with the researched horizon in a note. Preserve Delvers-only chronology, private knowledge and attributed testimony. Functional indexes and research ledgers keep essential source metadata. Ongoing fragments do not require completed-arc chapter counts or padding.",
+          "The revised world-reference and narrative direction applies equally to `delvers/world/` and `delvers/narrative/`: [campaign-specific application](WORLD_NARRATIVE_STYLE.md#delvers-world-and-narrative). Reference prose explains its subject; narrative prose follows the story. Use in-universe prose and source footnotes in both, with the researched horizon in a note. Preserve Delvers-only chronology, private knowledge and attributed testimony. Functional indexes and research ledgers keep essential source metadata. For the completed campaign, use the three [primary arc narratives](../delvers/narrative/README.md#primary-reading-order) and implemented [chapter maps](DELVERS_NARRATIVE_CHAPTER_MAPS.md); earlier detailed studies remain historical versions. Completed arcs and preserved fragments retain their actual coverage without invented transitions, padding or imposed Wastes chapter counts. This 2026-10-28 follow-up changes current application, not the earlier directive’s adoption date."
+        ]
+      ]
+    },
+    {
+      "path": "delvers/DOCUMENTATION_PLAN.md",
+      "before_sha256": "b87052cbe9c685b2697bc1d96fc08903011a9fca6a9db8f402bea5b8e953a879",
+      "after_sha256": "d133273bdb8cf7c28013402b6a811210b9c0bc5ced8e248291a7f4ca6c76b686",
+      "operations": [
+        [
+          "Current follow-up is bounded document maintenance and verification rather than another assumed episode or bulk rewrite. Use the existing review queue and consistency ledger for consequential identity, wording, custody and headcount questions. Any correction should preserve the established canonical routes and archive its changed working copies. See the [integration report](../reports/DELVERS_CAMPAIGN_INTEGRATION_2026-10-27.md) for actual checks and limits.",
+          "Current follow-up is bounded document maintenance and verification rather than another assumed episode or bulk rewrite. Use the existing review queue and consistency ledger for consequential identity, wording, custody and headcount questions. Any correction should preserve the established canonical routes and archive its changed working copies. See the [integration report](../reports/DELVERS_CAMPAIGN_INTEGRATION_2026-10-27.md) for actual checks and limits. **Owner direction, 2026-10-28:** listening is deferred for now, including premiere clock confirmation and the invitation/badge packets. Keep the prepared material and unresolved questions; deferral is not verification or issue closure. Independent transcript, written-source and editorial corrections can proceed where a concrete discrepancy supports them. The [current queue direction](REVIEW_QUEUE.md#active-cleanup-and-verification) supersedes older listening “next” pointers until the owner resumes that work."
+        ]
+      ]
+    },
+    {
+      "path": "delvers/REVIEW_QUEUE.md",
+      "before_sha256": "cbe9937838423d254acd418292b792efbed446107fb2ececea303c5ac2ac821e",
+      "after_sha256": "2e9b7c705a27931f001e4412abaf63dcff51a545843d21acbcf569df05cde4c3",
+      "operations": [
+        [
+          "### Dated cleanup and verification records\n\n",
+          "### Dated cleanup and verification records\n\n**Completed-campaign guidance, 2026-10-28:** The [guarded guidance checkpoint](../project/DELVERS_COMPLETED_GUIDANCE_2026-10-28.json) aligns the shared Delvers style paragraphs with the implemented three-arc reading route. First jobs and the other early studies remain historical versions, not an ongoing primary narrative. The documentation plan now explicitly carries the owner’s listening deferral. No chapter count, word target, story outcome or other campaign’s policy changes.\n\n"
+        ]
+      ]
+    },
+    {
+      "path": "project/DELVERS_CLEANUP_MANIFEST.md",
+      "before_sha256": "1b77621fb8dac0ca78d98672e982c78b97815a31f2a316a3e0d615e16c58bb3d",
+      "after_sha256": "9cc1ce7dcf76151dcfd2f12f7fc06b1900eed097a6bf9a624aa0e4fae2034951",
+      "operations": [
+        [
+          null,
+          "\n### Independent guidance repair — completed Delvers reading route\n\n[Checkpoint](DELVERS_COMPLETED_GUIDANCE_2026-10-28.json) · [Exact pre-edit records](../research/legacy/2026-10-28/delvers-completed-guidance/README.md). The shared style guide still described First jobs as ongoing; the Delvers-only paragraphs now follow the [three completed primary arcs](../delvers/narrative/README.md#primary-reading-order) and implemented chapter maps. Earlier studies keep their historical role and existing paths. The documentation plan explicitly reflects the owner’s listening deferral while retaining independent evidence-led maintenance. No Wastes/Inverse guidance outside those Delvers paragraphs, chapter/word targets, story prose, sources or issue states change.\n"
+        ]
+      ]
+    }
+  ],
+  "archive_manifest": "research/legacy/2026-10-28/delvers-completed-guidance/manifest.json",
+  "changed_markdown": [
+    "project/WORLD_NARRATIVE_STYLE.md",
+    "project/EDITORIAL_GUIDE.md",
+    "delvers/DOCUMENTATION_PLAN.md",
+    "delvers/REVIEW_QUEUE.md",
+    "project/DELVERS_CLEANUP_MANIFEST.md"
+  ],
+  "status": "complete; completed-campaign guidance synchronized; listening remains deferred",
+  "validation": {
+    "status": "passed",
+    "editorial_status": "primary arcs and historical studies distinguished; listening deferral propagated without new policy targets",
+    "shared_guidance_outside_Delvers_unchanged": true,
+    "queue_issue_rows_unchanged": true,
+    "protected_story_dossier_files": 143,
+    "archive_hashes_and_guarded_edits": 5,
+    "local_links": 19,
+    "markdownlint": {
+      "maintained_files": 5,
+      "violations": 0,
+      "archive_readme": "passed separately"
+    },
+    "scoped_git_diff_check": "passed",
+    "full_repository_audit": "not performed"
+  },
+  "next_action": "independent evidence-led correction only where a concrete discrepancy is found; no listening work until resumed by owner"
+}

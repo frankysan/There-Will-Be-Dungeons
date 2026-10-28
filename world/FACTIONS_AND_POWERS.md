@@ -1,6 +1,6 @@
 # Factions, institutions and supernatural powers
 
-**The Wastes · spoilers through researched S3E15.** Organizations and supernatural claimants are indexed here separately from people, places and possessions. Descriptions indicate *observed actions* or *attributed claims* rather than automatically certifying lore. Research is based on provisional processed transcripts. [Portal](README.md) · [Antagonists](ANTAGONISTS.md) · [World themes](WORLD.md).
+Discover the societies, institutions and supernatural powers of The Wastes: what they seek, how they act, and how their influence reaches the companions.
 
 | Faction or power | What is established or alleged | Sources |
 | --- | --- | --- |
@@ -21,3 +21,9 @@
 | **Hooded Voice, Andreeste, Lady of Pain, alleged gods** | Potentially consequential actors or objects of worship; do not collapse contradictory in-character theology into objective setting rules | [Voice](characters/the-voice.md) · [Hope](characters/hope-akmenos.md) · [World](WORLD.md) · [Ledger](CONSISTENCY_LEDGER.md) |
 
 Related topic indexes: [Characters](CHARACTERS.md) · [Places](PLACES.md) · [Items and artifacts](ITEMS_AND_ARTIFACTS.md) · [Historical events](HISTORICAL_EVENTS.md).
+
+## Sources and project notes
+
+**The Wastes · spoilers through researched S3E15.** Organizations and supernatural claimants are indexed here separately from people, places and possessions. Descriptions indicate *observed actions* or *attributed claims* rather than automatically certifying lore. Research is based on provisional processed transcripts. [Portal](README.md) · [Antagonists](ANTAGONISTS.md) · [World themes](WORLD.md).
+
+[Campaign overview](../wastes/README.md) · [World portal](README.md).

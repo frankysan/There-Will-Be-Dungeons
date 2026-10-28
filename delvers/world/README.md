@@ -1,6 +1,6 @@
 # Delvers — world reference
 
-Explore the people, places and artifacts of Delvers, an independent campaign set in its own reality. Reference coverage reaches the campaign finale and one-year epilogue, while each article retains its own last supported observation and source limits. The [editorial rollout and bounded integration pass](../../reports/DELVERS_CAMPAIGN_INTEGRATION_2026-10-27.md) are recorded under the [cleanup plan](../../project/DELVERS_CAMPAIGN_CLEANUP_PLAN.md); source verification remains open.
+Explore the people, places, creatures and artifacts of Delvers, from Atomer's streets to the buried ruins beneath them. The three adventurers' choices reshape the city and the lives around it.
 
 ## Browse the world
 
@@ -9,19 +9,8 @@ Explore the people, places and artifacts of Delvers, an independent campaign set
 - [Creatures and monsters](CREATURES_AND_MONSTERS.md)
 - [Setting and institutions](WORLD.md)
 - [Chronology](CHRONOLOGY.md)
-- [Consistency ledger](CONSISTENCY_LEDGER.md)
 
-The [three arc narratives](../narrative/README.md) provide the plot-led reading route. This directory keeps the established subject paths and deliberate compatibility routes. Navigation and editorial acceptance do not certify every underlying source claim.
-
-<a id="cleanup-pilots"></a>
-
-## Cleanup progress
-
-The three primary narratives have preserved consolidation records. The world rollout now covers 36 character profiles, 27 place-directory paths, 20 item-directory pages and eight creature-directory paths. The place count includes the farm/tower compatibility route; the creature count includes All Rat's compatibility route to Characters. Seven creature/form entries have profiles. WORLD's 24 thematic sections and fourteen distributed institutional contexts have bounded presentation coverage.
-
-The [integration report](../../reports/DELVERS_CAMPAIGN_INTEGRATION_2026-10-27.md) records the current link, structure, register and selected final-state checks. It also distinguishes intentional routes and historical material from ordinary subject pages. These are editorial checks, with dossier/ASR, naming, custody and listening limits retained.
-
-Use the [migration manifest](../../project/DELVERS_CLEANUP_MANIFEST.md#acceptance-tracking) for the complete dated batch history, [character dispositions](../../project/DELVERS_CHARACTER_DISPOSITIONS.json), [place dispositions](../../project/DELVERS_PLACE_DISPOSITIONS.json), [artifact dispositions](../../project/DELVERS_ARTIFACT_DISPOSITIONS.json) and [creature/institution inventory](../../project/DELVERS_CREATURE_FACTION_INVENTORY.json) for bounded scope, and the [review queue](../REVIEW_QUEUE.md) for open verification. The former progress catalogue is preserved in the integration archive.
+The [three arc narratives](../narrative/README.md) tell the story; [setting and institutions](WORLD.md) and the [chronology](CHRONOLOGY.md) connect its lore and history.
 
 ## Subject directory
 
@@ -127,7 +116,25 @@ Use the [migration manifest](../../project/DELVERS_CLEANUP_MANIFEST.md#acceptanc
 - [The roper of Noble Hollow](creatures/noble-hollow-roper.md)
 - [Skeletal bat with shadow-skin](creatures/skeletal-bat-balcony.md)
 
-## Research boundary
+## Sources and project notes
+
+Explore the people, places and artifacts of Delvers, an independent campaign set in its own reality. Reference coverage reaches the campaign finale and one-year epilogue, while each article retains its own last supported observation and source limits. The [editorial rollout and bounded integration pass](../../reports/DELVERS_CAMPAIGN_INTEGRATION_2026-10-27.md) are recorded under the [cleanup plan](../../project/DELVERS_CAMPAIGN_CLEANUP_PLAN.md); source verification remains open.
+
+The [three arc narratives](../narrative/README.md) provide the plot-led reading route. This directory keeps the established subject paths and deliberate compatibility routes. Navigation and editorial acceptance do not certify every underlying source claim.
+
+[Consistency ledger](CONSISTENCY_LEDGER.md).
+
+<a id="cleanup-pilots"></a>
+
+### Cleanup progress
+
+The three primary narratives have preserved consolidation records. The world rollout now covers 36 character profiles, 27 place-directory paths, 20 item-directory pages and eight creature-directory paths. The place count includes the farm/tower compatibility route; the creature count includes All Rat's compatibility route to Characters. Seven creature/form entries have profiles. WORLD's 24 thematic sections and fourteen distributed institutional contexts have bounded presentation coverage.
+
+The [integration report](../../reports/DELVERS_CAMPAIGN_INTEGRATION_2026-10-27.md) records the current link, structure, register and selected final-state checks. It also distinguishes intentional routes and historical material from ordinary subject pages. These are editorial checks, with dossier/ASR, naming, custody and listening limits retained.
+
+Use the [migration manifest](../../project/DELVERS_CLEANUP_MANIFEST.md#acceptance-tracking) for the complete dated batch history, [character dispositions](../../project/DELVERS_CHARACTER_DISPOSITIONS.json), [place dispositions](../../project/DELVERS_PLACE_DISPOSITIONS.json), [artifact dispositions](../../project/DELVERS_ARTIFACT_DISPOSITIONS.json) and [creature/institution inventory](../../project/DELVERS_CREATURE_FACTION_INVENTORY.json) for bounded scope, and the [review queue](../REVIEW_QUEUE.md) for open verification. The former progress catalogue is preserved in the integration archive.
+
+### Research boundary
 
 All 37 campaign entries have dossiers. Research remains ASR-provisional; this editorial pass adds no listening verification. Use [S3E12](../episodes/S3E12.md) for the finale evidence, and the [review queue](../REVIEW_QUEUE.md) for open spelling, custody, source-audio and listening questions. The [completed transcript-fingerprint audit](../../reports/DELVERS_S1E02_S1E01_SOURCE_IDENTITY_2026-10-27.md#campaign-coverage-reconciliation) checks all 77 inventoried exports, distinct from factual acceptance or audio verification. The [premiere timing pilot](../../reports/DELVERS_S1E01_ANCHOR_PILOT_2026-10-27.md) remains machine-only evidence; DEL-PREP-002 is open. Earlier cutoffs remain valid historical states, even where later outcomes are known.
 

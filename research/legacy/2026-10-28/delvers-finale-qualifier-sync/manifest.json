@@ -1,0 +1,29 @@
+{
+  "files": [
+    {
+      "path": "delvers/episodes/S3E12.md",
+      "sha256": "833da0b39d7c55032d12e294343fe44f89b76f4949669a64228adf14230c592d",
+      "original": "research/legacy/2026-10-28/delvers-finale-qualifier-sync/delvers/episodes/S3E12.md.original"
+    },
+    {
+      "path": "delvers/narrative/SEASON_THREE.md",
+      "sha256": "7ec4521ba52e92b82a51d45e4aeb6c9eaf4a699626bb344451aa5ccd53e4f927",
+      "original": "research/legacy/2026-10-28/delvers-finale-qualifier-sync/delvers/narrative/SEASON_THREE.md.original"
+    },
+    {
+      "path": "delvers/world/CONSISTENCY_LEDGER.md",
+      "sha256": "592147a3c0110c4002a0002d99f329c4b8833942463809f0c70fabd13e98b405",
+      "original": "research/legacy/2026-10-28/delvers-finale-qualifier-sync/delvers/world/CONSISTENCY_LEDGER.md.original"
+    },
+    {
+      "path": "delvers/REVIEW_QUEUE.md",
+      "sha256": "e49611e28e4002e8a05d650879a22e96fbd162c23acdcc73d34c06a737f139f4",
+      "original": "research/legacy/2026-10-28/delvers-finale-qualifier-sync/delvers/REVIEW_QUEUE.md.original"
+    },
+    {
+      "path": "project/DELVERS_CLEANUP_MANIFEST.md",
+      "sha256": "45f902e16a84340e8ab62da071cc9d4f23451e447205915d265ba4d522ddfbe2",
+      "original": "research/legacy/2026-10-28/delvers-finale-qualifier-sync/project/DELVERS_CLEANUP_MANIFEST.md.original"
+    }
+  ]
+}

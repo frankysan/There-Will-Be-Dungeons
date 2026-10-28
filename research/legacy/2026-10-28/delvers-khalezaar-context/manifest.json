@@ -1,0 +1,19 @@
+{
+  "files": [
+    {
+      "path": "reports/DISCORD_SPELLING_2026-10-21.md",
+      "sha256": "ed8295c2a894efcc5cf9d2462c1149424c1f0d1487ba2d4a001b01d45928163a",
+      "original": "research/legacy/2026-10-28/delvers-khalezaar-context/reports/DISCORD_SPELLING_2026-10-21.md.original"
+    },
+    {
+      "path": "delvers/REVIEW_QUEUE.md",
+      "sha256": "089ff3b206f99f401a6e2307413274bff950942111acbdc14b4717b202a925c0",
+      "original": "research/legacy/2026-10-28/delvers-khalezaar-context/delvers/REVIEW_QUEUE.md.original"
+    },
+    {
+      "path": "project/DELVERS_CLEANUP_MANIFEST.md",
+      "sha256": "b97898f7ad3eabf24259d23f229f951f2cc6d9eda567cbe78688146cd11b6438",
+      "original": "research/legacy/2026-10-28/delvers-khalezaar-context/project/DELVERS_CLEANUP_MANIFEST.md.original"
+    }
+  ]
+}

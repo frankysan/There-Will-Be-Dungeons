@@ -1,0 +1,19 @@
+{
+  "files": [
+    {
+      "path": "delvers/world/CHRONOLOGY.md",
+      "sha256": "65c41639dd74a4106431db3cc341cfebbc337199d511d46c3cc741c137832020",
+      "original": "research/legacy/2026-10-28/delvers-chronology-structure/delvers/world/CHRONOLOGY.md.original"
+    },
+    {
+      "path": "delvers/REVIEW_QUEUE.md",
+      "sha256": "8f1b5cb951e19379f46e17e6567be93f9022feb00d1d404a256d90004f977766",
+      "original": "research/legacy/2026-10-28/delvers-chronology-structure/delvers/REVIEW_QUEUE.md.original"
+    },
+    {
+      "path": "project/DELVERS_CLEANUP_MANIFEST.md",
+      "sha256": "5f0111eec05a1192b4bad1322a0defe2c393a8c8fa18792be4885e22c4b054b8",
+      "original": "research/legacy/2026-10-28/delvers-chronology-structure/project/DELVERS_CLEANUP_MANIFEST.md.original"
+    }
+  ]
+}

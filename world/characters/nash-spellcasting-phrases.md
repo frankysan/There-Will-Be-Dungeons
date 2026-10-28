@@ -134,7 +134,7 @@ The rows below record why some seemingly magical moments **do not justify anothe
 
 ## Coverage and further review
 
-**46 numbered entries:** **37** at or before **S1E111**, **five** additional S1 findings (**NSP-041**, **NSP-042**, **NSP-043**, **NSP-044**, and the older **NSP-012** at E126), and **four** S2/S3 findings/seeds (**NSP-013/014/045/046**). These are **phrase/seed findings**, not 45 confirmed successful spellcasts; E105, E114, E115 and the roundup are outside the count.
+**48 numbered entries:** **42** Season One findings through **E126**, and **six** S2/S3 findings/seeds (**NSP-013**, **NSP-014**, **NSP-045**, **NSP-046**, **NSP-047**, **NSP-048**). These are **phrase/seed findings**, not 48 confirmed successful spellcasts; E105, E114, E115 and the roundup are outside the count.
 
 The [E000–E111 backfill search](../../reports/NASH_PHRASE_BACKFILL_E000_E111_2026-10-23.md) found **25 entries** and records the source inventory/hashes in its [JSON evidence](../../reports/NASH_PHRASE_BACKFILL_E000_E111_2026-10-23.json). It covered **228 Parakeet/Qwen exports for 113 corrected IDs**, including both E013.5 variants, beginning at E000 and stopping at E111. E000's introduction, E013.5's absent-Nash recap, holiday one-shot E043, and E107–E109's Dunebreaker prequel were classified separately. Keyword candidate search and two-export passage checks **are not full-episode review**; no absent-or-first-use conclusion follows.
 

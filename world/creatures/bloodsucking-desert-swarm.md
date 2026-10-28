@@ -2,7 +2,7 @@
 
 ## Introduction
 
-A vast dark swarm crosses the dunes between [Tietkalla](../places/tietkalla.md) and Razak Val. From a distance it resembles a black distortion spreading across the horizon; as it approaches, its noise rises like a chorus of mosquitoes. Diptak recognizes the cloud as bloodsuckers and warns that their tiny bodies and overwhelming numbers make ordinary shelter unsafe.[^appearance]
+A vast dark swarm crosses the dunes between [T'ietkalla](../places/tietkalla.md) and Razak Val. From a distance it resembles a black distortion spreading across the horizon; as it approaches, its noise rises like a chorus of mosquitoes. Diptak recognizes the cloud as bloodsuckers and warns that their tiny bodies and overwhelming numbers make ordinary shelter unsafe.[^appearance]
 
 ## Arc Three — shelter beneath the sand
 

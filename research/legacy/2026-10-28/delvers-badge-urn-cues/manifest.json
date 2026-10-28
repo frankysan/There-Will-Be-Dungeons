@@ -1,0 +1,29 @@
+{
+  "files": [
+    {
+      "path": "delvers/world/CONSISTENCY_LEDGER.md",
+      "sha256": "b83f33d3679a42175df65439282e033b80a2ccedcb9db2291e4824315fc724f6",
+      "original": "research/legacy/2026-10-28/delvers-badge-urn-cues/delvers/world/CONSISTENCY_LEDGER.md.original"
+    },
+    {
+      "path": "delvers/episodes/S3E10.md",
+      "sha256": "ebef5ed01874cb52b5f9bdd4eb0d9b40bd6c4150831e1ee25ec4dba47a289f1a",
+      "original": "research/legacy/2026-10-28/delvers-badge-urn-cues/delvers/episodes/S3E10.md.original"
+    },
+    {
+      "path": "reports/DELVERS_S3E10_ASR_COMPARISON_2026-10-26.md",
+      "sha256": "e692cf3ab827d54bb7f950531f746be3579acff01d778dbf15e35b6e30fea374",
+      "original": "research/legacy/2026-10-28/delvers-badge-urn-cues/reports/DELVERS_S3E10_ASR_COMPARISON_2026-10-26.md.original"
+    },
+    {
+      "path": "delvers/REVIEW_QUEUE.md",
+      "sha256": "310bc04081ec47a711a8642324be0f316e3f0cbb51d30c209f8a468bf04221d1",
+      "original": "research/legacy/2026-10-28/delvers-badge-urn-cues/delvers/REVIEW_QUEUE.md.original"
+    },
+    {
+      "path": "project/DELVERS_CLEANUP_MANIFEST.md",
+      "sha256": "32c0ba8ccc167e83a81ad6b01afc6b64c1311d8cf16d096e31c20ae0bc8e6622",
+      "original": "research/legacy/2026-10-28/delvers-badge-urn-cues/project/DELVERS_CLEANUP_MANIFEST.md.original"
+    }
+  ]
+}

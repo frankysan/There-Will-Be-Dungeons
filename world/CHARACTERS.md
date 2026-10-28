@@ -1,6 +1,6 @@
 # Characters and participants — The Wastes
 
-**Spoilers:** COMPLETE played Wastes campaign through **final S3E18** (S3E019 is separate out-of-game roundtable) (Season One ended E128); separate Q&As remain out-of-game. Profiles are **ASR-provisional** unless an individual claim is explicitly owner-confirmed or audio-verified. This is the *character directory*, not an episode-by-episode recap. For villains also see [Antagonists](ANTAGONISTS.md), for organizations [Factions and powers](FACTIONS_AND_POWERS.md), and for chronological changes [Campaign chronology](CHRONOLOGY.md).
+Meet the people whose loyalties, rivalries and choices shape The Wastes. Follow the original companions, their families and allies, and the rulers and witnesses they encounter.
 
 ## The original four protagonists
 
@@ -60,6 +60,12 @@
 
 **Other names:** Jolt Elegos, Suck Master Din, Blunt Goliver, George Miller, Softhead, Shun'ti Stoutbarrel, Jimster, Talia, Bruce, Melgor, Fula Dentipilius, Relium Vanch and many minor witnesses remain locatable in the [episode archive](../episodes/E001.md), the [original compendium](../research/legacy/2026-10-21/WORLD_CHARACTERS.md) and the [pre-cleanup index snapshot](../research/legacy/2026-10-22/CHARACTERS_BEFORE_WORLD_REORGANIZATION_2026-10-23.md). Omission from a short table is **not** deletion from canon or research.
 
-## How to read these pages
+## Sources and project notes
+
+### How to read these pages
 
 A subject profile owns changing status, relationships and significant events; do **not** append an E### digest to this directory for every newly processed recording. Always distinguish an earlier **reported death** from a later observed survivor, an **on-screen action** from a **plan or accusation**, and **GM/cast retrospective explanations** from what protagonists knew at the time. Performer labels are out-of-world credits: guest Carter Johnson played Eddie, Ben Bumhofer played Chance, and Beau GMed; a diarization label for Scott's character voice in E001 does not establish a sixth performer. [Workflow](../project/WORKFLOW.md) · [Decisions](../project/DECISIONS.md) · [Review queue](../project/REVIEW_QUEUE.md) · [World portal](README.md).
+
+**Spoilers:** COMPLETE played Wastes campaign through **final S3E18** (S3E019 is separate out-of-game roundtable) (Season One ended E128); separate Q&As remain out-of-game. Profiles are **ASR-provisional** unless an individual claim is explicitly owner-confirmed or audio-verified. This is the *character directory*, not an episode-by-episode recap. For villains also see [Antagonists](ANTAGONISTS.md), for organizations [Factions and powers](FACTIONS_AND_POWERS.md), and for chronological changes [Campaign chronology](CHRONOLOGY.md).
+
+[Campaign overview](../wastes/README.md) · [World portal](README.md).

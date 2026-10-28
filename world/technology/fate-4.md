@@ -1,9 +1,5 @@
 # Fate 4 — Hope's vehicle of destiny
 
-![Fate 4, a dragon-skull-fronted monster-wheeled RV inside Jimster's rock-cut garage in Dusthill](../../illustrations/wastes/fate-4-e006-unveiling-jimsters-garage.png)
-
-*Fate 4 in Jimster's garage at Dusthill, depicted in its completed unveiling appearance. Artistic interpretation; no people shown.*[^illustration]
-
 ## Introduction
 
 **Fate 4** began as a battered recreational vehicle, a neglected relic of the world before the Scorching. In the workshop cut into Dusthill's rocky enclosure, [Hope Akmenos](../characters/hope-akmenos.md) and the mechanic **Jimster** rebuilt it into something that could survive the Wastes. Enormous monster-truck wheels raised its small camper body above the ground. Its unmistakable prow bore a dragon's skull fashioned from metal; solar panels stood on the roof, while exterior rails, handholds and a rear ladder gave travelers ways to move over and around the vehicle.
@@ -24,7 +20,7 @@ For all its wounds, the vehicle remained a place where companions could shelter,
 
 ## Arc Three — the last journey
 
-The companions later returned to Fate 4 after using other vehicles. Its interior suffered under the strains of carrying an increasingly unusual company, and a stop in wet sand left its enormous wheels struggling for traction. In the purple sands near Kervalon, a colossal tyrannosaur finally brought the journey to an end. The beast crushed the camper body and sent its wheels flying. Fire and an explosion subsequently consumed what remained of the RV.
+The companions later returned to Fate 4 after using other vehicles. Its interior suffered under the strains of carrying an increasingly unusual company, and a stop in wet sand left its enormous wheels struggling for traction. In the purple sands near Khaervilon, a colossal tyrannosaur finally brought the journey to an end. The beast crushed the camper body and sent its wheels flying. Fire and an explosion subsequently consumed what remained of the RV.
 
 Some components survived to serve a different purpose. Wheels, bent axles, a recovered seat and the slain dinosaur's bones became a rough new conveyance, **Fang Fate Five**. That cart was a successor built from salvage, not a restoration of Fate 4.[^arc-three]
 

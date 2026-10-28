@@ -1,6 +1,6 @@
 # Delvers — cleanup migration manifest
 
-**Baseline:** 2026-10-26, before the first implementation slice. **Current editorial checkpoint:** 2026-10-27. The three narrative consolidations, world rollout and [bounded campaign integration](../reports/DELVERS_CAMPAIGN_INTEGRATION_2026-10-27.md) are recorded. Source/listening verification remains open. The inventory below is the historical structural baseline, not the current count or a fresh factual acceptance claim. [Plan](DELVERS_CAMPAIGN_CLEANUP_PLAN.md) · [Detailed baseline](DELVERS_CLEANUP_BASELINE.json).
+**Baseline:** 2026-10-26, before the first implementation slice. **Current editorial checkpoint:** 2026-10-28. The three narrative consolidations, world rollout and [bounded campaign integration](../reports/DELVERS_CAMPAIGN_INTEGRATION_2026-10-27.md) are recorded. Source/listening verification remains open. The inventory below is the historical structural baseline, not the current count or a fresh factual acceptance claim. [Plan](DELVERS_CAMPAIGN_CLEANUP_PLAN.md) · [Detailed baseline](DELVERS_CLEANUP_BASELINE.json).
 
 ## Method and boundaries
 
@@ -1180,3 +1180,63 @@ Transcript-fingerprint coverage now spans all 37 archive IDs and 77 inventoried 
 ### Evidence-readiness follow-up — five identity/custody units
 
 [Report](../reports/DELVERS_EVIDENCE_READINESS_2026-10-27.md) · [Checkpoint](DELVERS_EVIDENCE_READINESS_2026-10-27.json). Existing keys retained; no issues closed. Seven episode audio basenames and fourteen historical comparison inputs are locally available but their audio/SRT clocks remain unverified. Exact cached-message ID for DEL-PREP-007 occurs once; raw context not yet reviewed or published. Next: bounded private context check for that lead; no automatic spelling migration, identity merge or custody bridge.
+
+### Evidence follow-up — Khalezaar written-context lead
+
+[Report](../reports/DELVERS_KHALEZAAR_CONTEXT_2026-10-28.md) · [Checkpoint](DELVERS_KHALEZAAR_CONTEXT_2026-10-28.json). Exact message plus six same-channel cached neighbors reviewed, with local-only selection receipt. Context supports a Season Three story label but no explicit in-world entity classification or creator spelling ruling. DEL-PREP-007 remains open; no raw private text, naming migration, new story event or listening verification. Next: bounded urn/badge cue transitions.
+
+### Source follow-up — badge and urn cue transitions
+
+[Report](../reports/DELVERS_BADGE_URN_CUES_2026-10-28.md) · [Checkpoint](DELVERS_BADGE_URN_CUES_2026-10-28.json). Four recording-clock windows across paired S3E09–S3E11 exports (six inputs, eight window/export combinations) reviewed, not full episodes. A late badge hand-back lead narrows an overly absolute no-retrieval claim; exact per-badge identity/custody remains open. S3E11 custody prompt self-correction supports Koh without proving a bag transfer or rebagging. No source rewriting, audio confirmation or ASR metric. Next: bounded red-shard recurrence review.
+
+### Source follow-up — red-shard recurrence
+
+[Report](../reports/DELVERS_RED_SHARD_CUES_2026-10-28.md) · [Checkpoint](DELVERS_RED_SHARD_CUES_2026-10-28.json). Six inputs / eight selected window-export combinations across S2E10, S2E11 and S3E02 reviewed. Existing red-shard custody discrepancy retained, with exact handoff/retelling/component cue references and plural/singular inventory caution. Subject main prose and all dossiers remain unchanged; only red-fragment source notes and one ledger row are refined. No audio, new metric, identity merger or invented bridge. Next: bounded finale evacuation and Darmah-recovery text review.
+
+### Source follow-up — finale evacuation and Darmah cues
+
+[Report](../reports/DELVERS_EVACUATION_CUES_2026-10-28.md) · [Checkpoint](DELVERS_EVACUATION_CUES_2026-10-28.json). Two SRT inputs, three selected recording windows / six window-export combinations reviewed. Transport planning and actual evacuations remain separate; no exact rescued total is inferred. Darmah downing at ~02:32:53 corrects an earlier too-short locator, while the later ritual/escape does not establish a healing event. Source notes, broad dossier clock bins and ledger qualifiers are refined; main biography/narrative prose remains unchanged. No audio or new metric. Next: bounded invitation/signature text window.
+
+### Source follow-up — final invitation and signature cues
+
+[Report](../reports/DELVERS_INVITATION_CUES_2026-10-28.md) · [Checkpoint](DELVERS_INVITATION_CUES_2026-10-28.json). Two SRT inputs, one selected closing window per export. Parakeet Renault / Qwen Renald and shared GCT remain provisional text, without expanded identity or original prop authority. Invitation near 02:46:38–02:46:50 and campaign ending near 02:46:59 replace a too-late closing clock bin. Red letter is not evidence of a specified red seal; that one narrative detail is narrowed. Character/farm source notes and DEL-S3E12-006 retain identity, ceremony and unopened-letter limits. No audio or metric. Next: reconcile five-unit readiness against completed text/context follow-ups and prioritize remaining evidence gates.
+
+### Evidence-readiness reconciliation — current verification work
+
+[Current assessment](../reports/DELVERS_EVIDENCE_RECONCILIATION_2026-10-28.md) · [Checkpoint](DELVERS_EVIDENCE_RECONCILIATION_2026-10-28.json). Five completed context/text follow-ups cover nine of the ten existing readiness keys; no key is resolved. DEL-S3E11-004 blue-shard collection was excluded from the red-shard pass, and the badge/urn pass did not freshly inspect post-use vessel disposition. These are the next bounded paired-text batch, before choosing remaining listening windows. The queue now separates the current action from preserved dated pointers. Source-clock mapping, authoritative written identity and absent-scene limits remain separate; no new source/audio interpretation or whole-repository acceptance is claimed.
+
+### Source follow-up — blue shard and organ-vessel disposition
+
+[Report](../reports/DELVERS_BLUE_VESSEL_CUES_2026-10-28.md) · [Checkpoint](DELVERS_BLUE_VESSEL_CUES_2026-10-28.json). Four SRT inputs, six selected window/export combinations. S3E11 confirms actual blue-shard collection/bagging near 00:42:21–00:42:35, beyond the old dossier bin. S3E12 distribution from “the bag,” present organ insertion and historical jar-filling vision remain distinct; selected final escape contains no explicit empty-vessel recovery/storage/destruction. Intervening combat and later inventory are not freshly reviewed. Subject source notes, ledger qualifiers, broad dossier bins and current queue are refined; main subject/narrative prose unchanged. All ten readiness keys now have selected follow-ups, without closing issues. Next: S3E12 invitation and S3E09 badge audio-copy/anchor preparation, with actual listening separately pending.
+
+### Audio preparation — invitation and badge anchor packets
+
+[Report](../reports/DELVERS_INVITATION_BADGE_AUDIO_2026-10-28.md) · [Checkpoint](DELVERS_INVITATION_BADGE_AUDIO_2026-10-28.json). Two local MP3 copies fingerprinted/probed, one 80-second clip each; existing CrispASR/Parakeet runs complete with local receipts. Sixteen exact phrase candidates against paired archived excerpts are unique only within selected windows and remain machine estimates. Review page and raw outputs stay ignored/local. No new software, listening, original-input lineage, whole-episode clock mapping, canonical spelling or badge recipient is verified. Next gate: actual listener observations for the prepared clips; no automatic issue closure or repeated recognizer run can substitute for that review.
+
+### Independent tracking repair — S1E04 issue routing
+
+[Crosswalk](../reports/DELVERS_S1E04_ISSUE_ROUTING_2026-10-28.md) · [Checkpoint](DELVERS_S1E04_ISSUE_ROUTING_2026-10-28.json). Existing S1E04 review lists disagreed about keys 004–006, and the central queue still called the recovered S1E03 missing. Current instructions now follow the unchanged ledger: 004 hilt/rope, 005 poison/resources, 006 rewards/rank. Existing dossier-only 007 audio alignment and 008 date fields are added to the central queue without allocating IDs. Dossier story/evidence map and all world/narrative/source material remain unchanged. The two invitation/badge packets still await actual listener observations; no observations were located under their prepared folder or the exact expected Downloads filename pattern. Next listening gate remains pending; do not rerun recognizers as a substitute.
+
+### Independent tracking repair — S1E05 issue routing
+
+[Crosswalk](../reports/DELVERS_S1E05_ISSUE_ROUTING_2026-10-28.md) · [Checkpoint](DELVERS_S1E05_ISSUE_ROUTING_2026-10-28.json). Nine S1E05 review keys had mismatched meanings between dossier/queue and ledger. Current routing now follows unchanged ledger subjects 001–007, with temple/school/Buck context retained under existing 008 and copy/clock verification under existing 009. Explicit historical-label mapping preserves traceability; central queue remains 27 keys, with no allocation or closure. S1E01’s three central tasks agree with ledger subjects and remain unchanged. Dossier story/evidence map and all world/narrative/source material are preserved. Next required gate remains actual invitation/badge listening observations; other source-led corrections require a concrete discrepancy.
+
+### Owner direction — defer listening
+
+**2026-10-28:** The owner requested that listening tasks be skipped for now. The current [queue](../delvers/REVIEW_QUEUE.md#active-cleanup-and-verification) marks listening as deferred, superseding earlier listening “next” pointers until the owner resumes it. Premiere clock confirmation and invitation/badge packets remain prepared and unresolved; no evidence question is closed. Independent transcript, written-source and editorial corrections may proceed when a concrete discrepancy supports them. No audio, ASR, story or source-identity result changes.
+
+### Independent chronology repair — structure and current qualifiers
+
+[Report](../reports/DELVERS_CHRONOLOGY_STRUCTURE_2026-10-28.md) · [Checkpoint](DELVERS_CHRONOLOGY_STRUCTURE_2026-10-28.json). The chronology’s 15,115-character opening mixed all Season Three summaries before the earlier event tables; its horizon label stopped at S1E09 despite tables through S2E12, and three blank lines interrupted table markup. The page now presents Season One and Two tables followed by eleven Season Three episode/group sections, with all original event rows retained verbatim and advancement commentary separately headed. Two source-status qualifiers follow already-completed badge and Darmah reviews, without new source interpretation. Exact originals and a rebased reading copy are preserved. Listening remains deferred; no unresolved identity/custody/count question is closed.
+
+### Independent summary repair — finale evidence qualifiers
+
+[Checkpoint](DELVERS_FINALE_QUALIFIER_SYNC_2026-10-28.json) · [Exact pre-edit records](../research/legacy/2026-10-28/delvers-finale-qualifier-sync/README.md). Residual S3E12 dossier, ledger-header and narrative-source-note wording is synchronized with the already-completed [Darmah/evacuation](../reports/DELVERS_EVACUATION_CUES_2026-10-28.md) and [badge/urn](../reports/DELVERS_BADGE_URN_CUES_2026-10-28.md) reviews. “Revival” presuppositions become an unshown intervening recovery; badge wording acknowledges the ambiguous hand-back without claiming a complete chain. Narrative main prose, ledger issue rows, source ASR/audio and historical reports remain unchanged. No issue is closed, and listening remains deferred by owner.
+
+### Independent guidance repair — completed Delvers reading route
+
+[Checkpoint](DELVERS_COMPLETED_GUIDANCE_2026-10-28.json) · [Exact pre-edit records](../research/legacy/2026-10-28/delvers-completed-guidance/README.md). The shared style guide still described First jobs as ongoing; the Delvers-only paragraphs now follow the [three completed primary arcs](../delvers/narrative/README.md#primary-reading-order) and implemented chapter maps. Earlier studies keep their historical role and existing paths. The documentation plan explicitly reflects the owner’s listening deferral while retaining independent evidence-led maintenance. No Wastes/Inverse guidance outside those Delvers paragraphs, chapter/word targets, story prose, sources or issue states change.
+
+### Shared prose standards and Delvers-only application scope
+
+[Checkpoint](DELVERS_SHARED_STYLE_SCOPE_2026-10-28.json) · [Exact pre-edit records](../research/legacy/2026-10-28/delvers-shared-style-scope/README.md). The owner agreed to focus on what is shared and Delvers; Wastes remains in its own cleanup process. Shared narrative guidance now separates the existing ~400-word reading-weight diagnostic from campaign-specific arc/chapter counts. The shared world guide no longer embeds obsolete Wastes pilot progress, and the reusable template identifies the selected campaign rather than declaring every page Wastes. Delvers’s documentation plan records this scope and retains its implemented three-arc route. Wastes-specific plans, decisions, taxonomy and migration files were not edited. All story files and issue states remain unchanged; listening remains deferred.

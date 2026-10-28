@@ -2,7 +2,7 @@
 
 ## Introduction
 
-An eight-legged reptile with a petrifying gaze occupied a side chamber in the caves beneath [Tietkalla's](../places/tietkalla.md) Pit of Despair. Identified as a basilisk, it threatened anyone who met its eyes, forcing the adventurers to fight while averting their gaze.[^nature]
+An eight-legged reptile with a petrifying gaze occupied a side chamber in the caves beneath [T'ietkalla's](../places/tietkalla.md) Pit of Despair. Identified as a basilisk, it threatened anyone who met its eyes, forcing the adventurers to fight while averting their gaze.[^nature]
 
 ## Arc Two — dangerous eyes and useful remains
 

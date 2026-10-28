@@ -2,7 +2,7 @@
 
 ## Introduction
 
-An enormous Tyrannosaurus approached the travelers' camp in the rain-soaked purple sands near [Kervalon](../places/kervalon.md). Lightning revealed its huge head and small forelimbs, while its approach sent tremors through the muddy ground. Its snout nudged Fate 4 as it sniffed around the parked vehicle.[^arrival]
+An enormous Tyrannosaurus approached the travelers' camp in the rain-soaked purple sands near [Khaervilon](../places/kervalon.md). Lightning revealed its huge head and small forelimbs, while its approach sent tremors through the muddy ground. Its snout nudged Fate 4 as it sniffed around the parked vehicle.[^arrival]
 
 ## Arc Three — the storm and Fate 4
 

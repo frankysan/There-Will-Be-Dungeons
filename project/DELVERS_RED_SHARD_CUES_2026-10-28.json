@@ -1,0 +1,462 @@
+{
+  "date": "2026-10-28",
+  "campaign": "Delvers",
+  "scope": "selected paired-SRT red-shard handoff, recurrence and later component attribution",
+  "checked_HEAD": "7f331552a7c87172a18a9b165f258f4b1c036f38",
+  "issue_keys": [
+    "DEL-S2E10-006",
+    "DEL-S2E11-001",
+    "DEL-S3E02-002"
+  ],
+  "resolved_issue_keys": [],
+  "source_reviews": [
+    {
+      "episode": "S2E10",
+      "export": "P",
+      "path": "sources/Delvers S2E10. Carrie On.parakeet.processed.srt",
+      "raw_sha256": "8fed90533eeebc1adde0772b3cbc9839a0ddce27545ce3c583c6bfaaa4957e8a",
+      "fingerprint_record": "project/DELVERS_S2E12_S2E08_SOURCE_IDENTITY_2026-10-27.json",
+      "phase_A_file_state": {
+        "size": 199063,
+        "mtime_ns": 1792661429401475300
+      },
+      "selected_windows": [
+        {
+          "requested_SRT_ms": [
+            8160000,
+            8275000
+          ],
+          "actual_cue_coverage_ms": [
+            8157815,
+            8275520
+          ],
+          "first_cue": 1984,
+          "last_cue": 2013,
+          "cue_count": 30,
+          "coverage": "complete selected window only; not full-export interpretation"
+        }
+      ],
+      "local_excerpt_path": "local/episode-analysis/delvers-red-shard-cues-2026-10-28/S2E10-P.json",
+      "local_excerpt_sha256": "f4ae44cd8b593349dca1265701a7aed703a147822adda3e23d03b0e22c5c0a26"
+    },
+    {
+      "episode": "S2E10",
+      "export": "Q",
+      "path": "sources/Delvers S2E10. Carrie On.qwen-q8.canary-ctc.nemotron.srt",
+      "raw_sha256": "11eacd65be5a0fb9a003a37002a0be65c693cc47f1c5668b670c27760bf3699f",
+      "fingerprint_record": "project/DELVERS_S2E12_S2E08_SOURCE_IDENTITY_2026-10-27.json",
+      "phase_A_file_state": {
+        "size": 265287,
+        "mtime_ns": 1792707799711833500
+      },
+      "selected_windows": [
+        {
+          "requested_SRT_ms": [
+            8160000,
+            8275000
+          ],
+          "actual_cue_coverage_ms": [
+            8157815,
+            8274780
+          ],
+          "first_cue": 3192,
+          "last_cue": 3239,
+          "cue_count": 48,
+          "coverage": "complete selected window only; not full-export interpretation"
+        }
+      ],
+      "local_excerpt_path": "local/episode-analysis/delvers-red-shard-cues-2026-10-28/S2E10-Q.json",
+      "local_excerpt_sha256": "1750643b9fd0575e84bb79c02bbf67b44d1e30099ff2ef8a0f51240cf5bd4552"
+    },
+    {
+      "episode": "S2E11",
+      "export": "P",
+      "path": "sources/Delvers S2E11. New High Score.parakeet.processed.srt",
+      "raw_sha256": "2d6bc4fca44a0532619f543422d5080e5529cee0a4b4796e1dc4700051616af7",
+      "fingerprint_record": "project/DELVERS_S2E12_S2E08_SOURCE_IDENTITY_2026-10-27.json",
+      "phase_A_file_state": {
+        "size": 224490,
+        "mtime_ns": 1792661743846050300
+      },
+      "selected_windows": [
+        {
+          "requested_SRT_ms": [
+            0,
+            240000
+          ],
+          "actual_cue_coverage_ms": [
+            8800,
+            241620
+          ],
+          "first_cue": 1,
+          "last_cue": 68,
+          "cue_count": 68,
+          "coverage": "complete selected window only; not full-export interpretation"
+        }
+      ],
+      "local_excerpt_path": "local/episode-analysis/delvers-red-shard-cues-2026-10-28/S2E11-P.json",
+      "local_excerpt_sha256": "92af874bf74b7719a4d8f8e6c1c9fb3274eb1477de03a0ef123ce6b129c65aab"
+    },
+    {
+      "episode": "S2E11",
+      "export": "Q",
+      "path": "sources/Delvers S2E11. New High Score.qwen-q8.canary-ctc.nemotron.srt",
+      "raw_sha256": "92b85fbc2462ca38e4c694c7025fad5491ab956ba133e87c67aa55e5cc756e5a",
+      "fingerprint_record": "project/DELVERS_S2E12_S2E08_SOURCE_IDENTITY_2026-10-27.json",
+      "phase_A_file_state": {
+        "size": 307665,
+        "mtime_ns": 1792708360622724700
+      },
+      "selected_windows": [
+        {
+          "requested_SRT_ms": [
+            0,
+            240000
+          ],
+          "actual_cue_coverage_ms": [
+            8880,
+            241720
+          ],
+          "first_cue": 1,
+          "last_cue": 111,
+          "cue_count": 111,
+          "coverage": "complete selected window only; not full-export interpretation"
+        }
+      ],
+      "local_excerpt_path": "local/episode-analysis/delvers-red-shard-cues-2026-10-28/S2E11-Q.json",
+      "local_excerpt_sha256": "70b5991a1b09784a3e7397d1ecd6853fc13b7e15a97aba74cce68962003fec12"
+    },
+    {
+      "episode": "S3E02",
+      "export": "P",
+      "path": "sources/Delvers S3E02. Call your Mummy.parakeet.processed.srt",
+      "raw_sha256": "54094632f9877207b3554ff0253ce9741e3f9b8eed555f3d4e30d2bca1fe818c",
+      "fingerprint_record": "project/DELVERS_S3E04_S3E01_SOURCE_IDENTITY_2026-10-27.json",
+      "phase_A_file_state": {
+        "size": 257160,
+        "mtime_ns": 1792662871696855200
+      },
+      "selected_windows": [
+        {
+          "requested_SRT_ms": [
+            2835000,
+            2885000
+          ],
+          "actual_cue_coverage_ms": [
+            2832581,
+            2885740
+          ],
+          "first_cue": 736,
+          "last_cue": 746,
+          "cue_count": 11,
+          "coverage": "complete selected window only; not full-export interpretation"
+        },
+        {
+          "requested_SRT_ms": [
+            2960000,
+            3060000
+          ],
+          "actual_cue_coverage_ms": [
+            2959980,
+            3064030
+          ],
+          "first_cue": 764,
+          "last_cue": 785,
+          "cue_count": 22,
+          "coverage": "complete selected window only; not full-export interpretation"
+        }
+      ],
+      "local_excerpt_path": "local/episode-analysis/delvers-red-shard-cues-2026-10-28/S3E02-P.json",
+      "local_excerpt_sha256": "7734eb7e12f70aed45033d6d9583c08a6d7ed3ba299c60daa1675bfb51df5249"
+    },
+    {
+      "episode": "S3E02",
+      "export": "Q",
+      "path": "sources/Delvers S3E02. Call your Mummy.qwen-q8.canary-ctc.nemotron.srt",
+      "raw_sha256": "7ea84df2667f4852971126a8eaa22deb3018019af43f53667451e35809dda9fe",
+      "fingerprint_record": "project/DELVERS_S3E04_S3E01_SOURCE_IDENTITY_2026-10-27.json",
+      "phase_A_file_state": {
+        "size": 339229,
+        "mtime_ns": 1792710220127052500
+      },
+      "selected_windows": [
+        {
+          "requested_SRT_ms": [
+            2835000,
+            2885000
+          ],
+          "actual_cue_coverage_ms": [
+            2834434,
+            2881000
+          ],
+          "first_cue": 1078,
+          "last_cue": 1090,
+          "cue_count": 13,
+          "coverage": "complete selected window only; not full-export interpretation"
+        },
+        {
+          "requested_SRT_ms": [
+            2960000,
+            3060000
+          ],
+          "actual_cue_coverage_ms": [
+            2959804,
+            3063840
+          ],
+          "first_cue": 1117,
+          "last_cue": 1157,
+          "cue_count": 41,
+          "coverage": "complete selected window only; not full-export interpretation"
+        }
+      ],
+      "local_excerpt_path": "local/episode-analysis/delvers-red-shard-cues-2026-10-28/S3E02-Q.json",
+      "local_excerpt_sha256": "3fe3e33705f756c27c3db58975a4dc3e519f37ccf71e16a4a7fd3fb75b0203c8"
+    }
+  ],
+  "audio_windows_reviewed": [],
+  "ASR_metric_recomputed": false,
+  "status": "complete; selected red-shard evidence refined; all three issue keys remain open",
+  "validation": {
+    "status": "passed with documented baseline lint failure",
+    "editorial_status": "selected text evidence qualified; no listening or complete custody bridge",
+    "source_inputs": 6,
+    "complete_selected_window_export_combinations": 8,
+    "verified_cue_records": 344,
+    "source_file_states_unchanged": 6,
+    "protected_story_dossier_files": 141,
+    "archived_originals_and_guarded_edits": 4,
+    "issue_key_lists_preserved": true,
+    "local_links": 19,
+    "excerpt_packets_ignored": 6,
+    "markdownlint": {
+      "maintained_files": 5,
+      "violations": 1,
+      "new_violations": 0,
+      "baseline": [
+        {
+          "rule": "MD009",
+          "line": 182,
+          "detail": "Expected: 0 or 2; Actual: 1"
+        }
+      ],
+      "current": [
+        {
+          "rule": "MD009",
+          "line": 182,
+          "detail": "Expected: 0 or 2; Actual: 1"
+        }
+      ],
+      "archive_readme": "passed separately"
+    },
+    "scoped_git_diff_check": "passed",
+    "full_repository_audit": "not performed"
+  },
+  "findings": [
+    "Both S2E10 exports explicitly render Evelyn handing over pieces of the red orb and Carrie taking the crystal with both hands",
+    "Both S2E11 exports render pulling out the crushed red gem during Evelyn's retelling; no explicit reverse handoff or distinct second shard occurs in the reviewed opening",
+    "Both S3E02 exports attribute the amulet crystal to Evelyn's post-dream gift and later offer the assembled item to Koh; this does not supply the intervening S2E11 bridge",
+    "Plural pieces and singular crystal/gem wording do not establish an exact fragment inventory; the later blue mined shard remains separate"
+  ],
+  "next_action": "bounded finale rescue/evacuation and Darmah-recovery text windows; keep count and medical gaps explicit",
+  "protected_files": {
+    "delvers/world/CHARACTERS.md": "9177ac5ca4a7c37eb11c495529067b399989bde76244037f7a066d64b3be1e80",
+    "delvers/world/CHRONOLOGY.md": "65c41639dd74a4106431db3cc341cfebbc337199d511d46c3cc741c137832020",
+    "delvers/world/CREATURES_AND_MONSTERS.md": "8a67bd27da560993a248f9fd6d4417a0f8aeb292f1b104b65e6aeeebbc86ea13",
+    "delvers/world/PLACES.md": "52629c11eba1c779df9454eea78137c379341393a0ec955bcd357de148b8caef",
+    "delvers/world/README.md": "97a4b3136bea375b528b73389fa9485711d9bf75840d02700dccfc91a5c6aa6b",
+    "delvers/world/WORLD.md": "cc6398bccf47b6681a7b70b8b829ad9b4de000519676efba5e490d9a31496a90",
+    "delvers/world/characters/alexandre-vanderbuck-withers.md": "a9c997c79eb30e8821e7956a7425021742d64266818a8d5b060826fc3ca2e6f9",
+    "delvers/world/characters/all-rat.md": "72a17e2c266f7a65f0a21ff69b3557184134a906260acf05be78cfc85e647392",
+    "delvers/world/characters/ambermoor.md": "d4a91e503e7dd9f0fc3855434036eb27f48d781a5e146b1869233789f1f042a2",
+    "delvers/world/characters/anthela-spiros.md": "83aa6f76c406b9ff951758f040a2dc6e9e11396755b2fae82def8cc9643d9265",
+    "delvers/world/characters/barclay-vandergeist.md": "ef5541b1048d5c2e4511088c2238dda6276caeb27da23f6136d333f09da42813",
+    "delvers/world/characters/broadside.md": "4ea6b2464432d9acbc684773f6f604346a3ded088a19724fd5df1bf068e8ef8d",
+    "delvers/world/characters/buck-broscale-wildfire.md": "80b4166c77017fd72c9bc2f0cdb62e3491b180fbe25887da4a321bd2edb21433",
+    "delvers/world/characters/carrie-underworld.md": "0da5d2935c22c871b6f89e06ca05b15069e09328c641cb3b9c6251ecf03871b9",
+    "delvers/world/characters/cassius.md": "c7fedc6ccf5f7a68157990397f9be5c84eb57278d79c9a0560b1ad58c71492fa",
+    "delvers/world/characters/chad-brad.md": "e4952627b7c59f74aa68aee64300c4443fff3449a991af2cec3b7f2d25cdfbf5",
+    "delvers/world/characters/cheet.md": "19ee62d3a25073ff342db9fda039cb8ed8b7143f168ae79bcfbce453f95ba580",
+    "delvers/world/characters/chuck-abnaz.md": "4b5acacac8cc99b2744025402e3b3e47261b74d36cf0fee0bf890f466711edf3",
+    "delvers/world/characters/darmah-edstream.md": "a80c98cc7975f059b5a3a2933ede5fc7eb310fb82b2360022d865d464af510ee",
+    "delvers/world/characters/destroying-angel.md": "bab7bff4fd5e8de49cc6a14286f13d9d25a9e9878f7e2ed65ea1ddd0d7b9d026",
+    "delvers/world/characters/dumbledwark-of-raisinbunch.md": "3332c4f8c38edcb7ee91abbe338c52e323f054b94bef2dcae1604e281aaa5315",
+    "delvers/world/characters/enzo-vanderbuck-withers.md": "66b95556a71a823861b7d420bf74f0cc51051da92878ca90e514c108b53363b0",
+    "delvers/world/characters/evelyn-grinkeeper.md": "6bcf0a867e882dd23cbd33fbdd5dc1887c2edc1c7743ab94a1073d4c806ec612",
+    "delvers/world/characters/gentleman-cavalier-traveler.md": "8378fb556fb1b623865d647607937c13e6cc477e7c525a885161eef21087b7f3",
+    "delvers/world/characters/gleepo-ma.md": "e08df96362ad2c8d63946c0b92f374869589095192f92311df3df22b93319e2e",
+    "delvers/world/characters/goggles-granny.md": "cfd6a98fc8454630625741f80ebe7c32eda6c53da8f5ad60148170b7fb3bed98",
+    "delvers/world/characters/khalazar.md": "8cdffe2bf652fca5659952e3f178448aae9e76572036f7d648e95487e1f2d7e8",
+    "delvers/world/characters/koh-spiros.md": "9d71f782626c7610c2b7c5e374074963763ed493be2d8d7171ec34667752271c",
+    "delvers/world/characters/krandal-splenderbelt.md": "39fe3e0a8ef2404774f6be9ae26a0d3e8047c36bd402468800322b67e54e4f89",
+    "delvers/world/characters/marek-gideon.md": "8de0e260f59341967c650b174a56aeed3bbd800a5104e933890b4f77714a6392",
+    "delvers/world/characters/margaret-dupayton.md": "bbaf2405bb9ef669a145b407f3bafc695a37b7528f903c183c0697fc4fe3fa33",
+    "delvers/world/characters/marsh.md": "f7e4e4fc50633bb7623f285dc871dc63587f95d12e157d503336a5c00dc093c5",
+    "delvers/world/characters/masked-mage.md": "a6e9ed1ebd5c9d3f653d948390ac3d8b69c6b82448e117cfe8c23c1a83acc492",
+    "delvers/world/characters/nopa-ropa.md": "d950cd611fcf9a95d14c72374017fe68600df1b4449fbd689556cc7d351aa2db",
+    "delvers/world/characters/penelope-spiros.md": "6ba66e247f1d66d57e22ff3f61c723f4cb145df0544280833f26164dc0c29606",
+    "delvers/world/characters/princess-hissia.md": "9cc4ac4a1bc6f6b632e75f0c3e20813ad5f6bdca827c600b9ec7a48b9aefa65e",
+    "delvers/world/characters/radiant-lance.md": "caed57b5a353bf63544794232f6c804fbf2e49836f864594e0c3e0ea1dffc26b",
+    "delvers/world/characters/shaolin-nym.md": "2412cedb62201c564bbc6595dfa9b7d34c8ffe339a30e5d4aec8cfe3a2089435",
+    "delvers/world/characters/shrugs-manaspoon.md": "2f3dd5dcf6e9cef9d5d1f36cfe65af3c587936bee116cf3b2ca397d6d98dba63",
+    "delvers/world/characters/skoogie.md": "b6a2e36d98fe4fca6a3986fafc52e0f69e3d361cbee39e7523f14ae5a81e11fd",
+    "delvers/world/characters/the-great-daufante.md": "8dce7d1a2194469f9c08ad611b182da715ea7c8a776092fe096eb8466d909d9c",
+    "delvers/world/characters/veggie-sticks.md": "97414b03aa2827b7d660f6e481d7dde3222d66f030a3a00a4d6cac9e9888a350",
+    "delvers/world/creatures/all-rat-cranium-congregation.md": "cf251e4e9dd5dcce4906065b1e5cbdb45ebc352a88504e25196fd80ee7c6b255",
+    "delvers/world/creatures/dungeon-c4-behir.md": "f93092b8d5b4b6d8becd03a10268f40ce7bc17246b5cb0db6a73fb4624ac2280",
+    "delvers/world/creatures/flameskull.md": "6ba481f869b8ff18f0e784ba6313322df08ac9b74281c352458d22272e1c147a",
+    "delvers/world/creatures/gricks.md": "06722ca957369151004f248f1c85756b346c1b44805b28ef8d7ca87ef7f5b7b9",
+    "delvers/world/creatures/hook-horrors.md": "9389c2aff6446f58d09abfe7c46480054feca0a4e65fd02e478c5028b2a49649",
+    "delvers/world/creatures/noble-hollow-roper.md": "e61219db18c5f51c4c9a3ade7a86b0ecc02bc5c3d6571fd89718d883d6a0688a",
+    "delvers/world/creatures/skeletal-bat-balcony.md": "cfd4efd3de648ae30b60f87e9db38dda5119dc8c518bc63785a982ca34f900dd",
+    "delvers/world/creatures/triangle-gate-mummies.md": "8c8f991f6f2b952393ab1cf8a835a66f8ed1ce236b7fdb6dcd6029bc067e878e",
+    "delvers/world/items/bag-of-hammer-holding.md": "cb5412ef9acceb7dd870efd63aae44b1c748a6013e3dcd7401e623657dca24cf",
+    "delvers/world/items/chance-lantern.md": "9c1c18d960999830e8f3b67b75e2da360ae1a7e0c31b76638747c788b8f260a8",
+    "delvers/world/items/deck-of-many-things.md": "08247e580c1bbf7be9c258ee06d8db5efdb9e57f7c1b129fa080fccc8b1acd51",
+    "delvers/world/items/devotees-censer.md": "27a938432fb75df90984aeada76373505a65c83f65cb6d5cc1677c72b664c896",
+    "delvers/world/items/dragon-slayer-longsword.md": "6c721e4260a2b88519ca1a4464fae5d91c43bb1add126e30b0a07ef87829545a",
+    "delvers/world/items/dried-heart-jar.md": "3060b069d85a5bb9db6c6709e27f45f5341c19e055d80764c94443d6040a9549",
+    "delvers/world/items/drift-globe.md": "71fbbdcfdc8038fb247af4937f75fbf9a7337a45da202654839cece7a37257d9",
+    "delvers/world/items/friendship-ribbon.md": "2e05031c2dfeb007d786701cfa7ae09e1ed46a35eafc4e7007734b83dce8fbda",
+    "delvers/world/items/goat-of-travail.md": "f3214a50392a4d487104ec756b5b6c8364a28b27fd875549868843c2c6e68a15",
+    "delvers/world/items/hereditary-drone.md": "84284f329df3ae469d77763407f0161e7182aabd9782080189922a28fe08e9ca",
+    "delvers/world/items/horn-of-blasting.md": "4861b7d06b1996c370c851fc4ad5c5ba008321162bfacf512d6bff8ce2c73d20",
+    "delvers/world/items/khalazar-sensory-amulet.md": "43bd91b49142a1d393032f20d052fc953e00d153390c2d0784996653564ddcd8",
+    "delvers/world/items/loran-radiant-armour.md": "705eee14001c85c5e5b6f8ce7929cb6818c118044594053114120207851c204d",
+    "delvers/world/items/ring-of-protection.md": "32395e977194ae83146680d622484644be22c24da882712ea06ea45784f3287c",
+    "delvers/world/items/runic-sword-hilt.md": "990f73adffdd372ec6d5b65b06d336e67196e3187d497edfdcb61edc9f90f8f3",
+    "delvers/world/items/stolen-warlocks-tome.md": "8a2cb72bd5ae730e60004b95d8b3ef0b0fd44390deb4e8b255ec3c15fb18f549",
+    "delvers/world/items/three-urns-triangle-gate.md": "f30ebea2d130a03f580292f23b33ed4ff576eb5ea1b50f92ea843285b46d6bc7",
+    "delvers/world/items/vestal-diamond-heart-handle.md": "820d60485fb69a05c8ba4a9a75293aeb3749812c1970acfe5a1ec8704b4f89b4",
+    "delvers/world/items/wand-of-secrets-and-geared-disc.md": "cf79568bd5e6d9353996e83b01cbc1281cb0b16a49cb88423665adb623df5a63",
+    "delvers/world/places/black-basilica.md": "0a5afe026ab5431867cbee336df8333341d702021b55a868486b1bdb6ec9210a",
+    "delvers/world/places/black-slime-key-chamber.md": "d52093e35584d27648b71cc56edc1909aec55fa362568786d001ed1e7998cb8f",
+    "delvers/world/places/broscale-manor.md": "a8245503ffe36c62ea4efd98f9ea898448f2c9d29aa6f71641cb7216cac719dc",
+    "delvers/world/places/chath-peak.md": "72406cc00a0b9dacabe4115354afa7593b4c4a86f1aafc0cc17e9d0dfd6aa35d",
+    "delvers/world/places/dawnless-dunes-pyramid.md": "8cca61636cc3e0e7a515b79ce35a6810908a1da4f3277604ee912392b92b263f",
+    "delvers/world/places/deep-winds-spa.md": "a7566dc9df7424bd9616bca789e2728f5e15ac97689ed848b24cb9701ef81be1",
+    "delvers/world/places/delvers-guild.md": "e10b4013f0fe8d278fed607e098bf054b9bbb064004b4fff1e6fde121ada613b",
+    "delvers/world/places/dungeon-guild-academy.md": "862b6d5d1e7d1822a7a94c5e3b27a67fad5dcaae85d16333bc375f921916115e",
+    "delvers/world/places/farm-cave.md": "617293a7403b23c8cc4660e4282d7498d5af112625a8273bde9bafd8cfcbdb37",
+    "delvers/world/places/gemholm.md": "1ca4188b0f4a6351673d8d0b206c85a540a9e75ac12dac1f5d3c28535e063ffd",
+    "delvers/world/places/governors-hall.md": "6977ebdbd23dc562363612431466a6c6c06392995d7b1c7d27c59963f45f3901",
+    "delvers/world/places/grick-sinkhole.md": "60d73fa0a81582e83b56a4da607371fcc709694410026c3d301344b7db0df05e",
+    "delvers/world/places/guild-public-reckoning-s3e10.md": "e078c2fc2edd6875990cec9b4aa70d3b729db366d27b55d68db1275f10fad362",
+    "delvers/world/places/hooper-estate.md": "29ab906aa96ef3053edc92255962fc086726aeb6c742f0f40d42ed994c3a0f15",
+    "delvers/world/places/kuo-toa-lakeshore-village.md": "b79fd3b4237217151e7a11d6512db64b4283b3e234f35ce1fbc4fc6fe47d926c",
+    "delvers/world/places/minotaur-mesa-bone-crypt.md": "13a84c8e01df05d169b982e4bf99b07543ea22e0f6c4139a8131f36e48fef70b",
+    "delvers/world/places/noble-hollow.md": "e4c9fe4b43ea1ff646356cdc6a361c62b1283b5503e578d5d1874d9ec6c0cab3",
+    "delvers/world/places/potato-grove.md": "e79a2c4cbe8462b1ae322f9d77988519aa479f78681ce7d08ab20d0bc8f120b2",
+    "delvers/world/places/right-stair-grick-urn-complex.md": "42d2c0064839235b610878d278a2ef565b5796d7daa4035f1d56de73b96e70fc",
+    "delvers/world/places/skull-keep.md": "237eaca8dc37e6957d67f611014e503d37cf638163e530024f945b9ea994020e",
+    "delvers/world/places/snake-island.md": "d25e9d886296d5b4045423de06dda7a84ec71ac690187c992a6d9d630aaa54d0",
+    "delvers/world/places/southwestern-town-well.md": "488320af8c7e72847bc326c70ea1d07e96cf7595b4518f0011d0a043e8cbcd56",
+    "delvers/world/places/splenderbelt-farm-delvers-tower.md": "4a9e0a40fa24a2cfa3181c2f8b69109b8c1b888310d83b4fd5ce33e85931e0fe",
+    "delvers/world/places/submerged-lake-ruins.md": "beedbcd68def3fd7f621c1fe6851920c51e9452d6b09a0189da2ffbbcdcf0b9b",
+    "delvers/world/places/temple-of-pelor.md": "3aa8b0a1bc3d8eb78bbb0eb476066c5df2d242157cb1fe7e909f5f183a9185f8",
+    "delvers/world/places/triangle-gate-catacombs.md": "72b0a5eae907e0ef5be5cb6cff019f09de269fae54a25842342ad6ebceeddf54",
+    "delvers/world/places/withers-estate.md": "aae0aa6b667bfddf4a3c1649434cfb5d562eceb7834123cc8e3bdc069d4e1e9c",
+    "delvers/narrative/FIRST_JOBS.md": "c89d732560f49d81a0433a7f25c2788243981daac594935fe3be79d899f91849",
+    "delvers/narrative/README.md": "af81cc78c886f4aa9c26e321c0301d2c45eaa5aca6cf0cfa362196542382cf93",
+    "delvers/narrative/SEASON_ONE_ARC.md": "0e68940c1c0ab4766419cb88c6903cac8d5fd72889e6cded4001affecddeacdc",
+    "delvers/narrative/SEASON_THREE.md": "e772b43b60966e3a4d105571c1f3b701903919011e82bf709cab15a7617ee280",
+    "delvers/narrative/SEASON_TWO.md": "6462e3d4656a0aaf18f9b3ce8784c3eb6c76b3b916c5c95bec441f055ed889b3",
+    "delvers/narrative/SKULL_KEEP.md": "def6f599c0450314519616f2353bb16f587594ae5a6a4969eb8d112c36686a6e",
+    "delvers/narrative/THE_RISE_TO_BRONZE.md": "f6762da49b2c8c82ca8bcba0cc87c2a6dea6cdfe6b90f3ecc21e4616c0277616",
+    "delvers/narrative/THE_WELLS_OF_ATOMER.md": "c327dbb351ce9e4c5b5b8d1bf5f571fe7c897941203f913e0b25da5ba618fd54",
+    "delvers/episodes/S1E01.md": "e7e1de8edb389d9a90397388485fb657e940e94ff8d2d46365a91bc6fda0c584",
+    "delvers/episodes/S1E02.md": "cf481da4b0f476e7268eb3514a13b4821cefd77209a32a855ac51c59d1fedc9e",
+    "delvers/episodes/S1E03.md": "a1bc5b61db6547188bcd6e9d569f8337abb871c19ed7c912e341c08f30278af2",
+    "delvers/episodes/S1E04.md": "60beef4091be15cf945d8a80f17d79ef08094f7bf31d895cfba4d14bf36c31f6",
+    "delvers/episodes/S1E05.md": "e002b82b3419a1e621733fdd3f07ec093b01d77a94d579e154f8eb2062146098",
+    "delvers/episodes/S1E06.md": "ece568510f7486964c92ec23297df3ebee50870126f21085df24bec75d931bd4",
+    "delvers/episodes/S1E07.md": "e694abe7e226944a011c978ec579e4135abc7b719446e7631e05d290cbffce94",
+    "delvers/episodes/S1E08.md": "456b19a6202b7ee90dd1f685958d215566168e032d20f7be862ea07ca29d38d8",
+    "delvers/episodes/S1E09.md": "40a38dc28e66f5c5a38db8d960ca789cc0b0a528544ab955fe5faa5f96353b28",
+    "delvers/episodes/S1E10.md": "dc146bd80d7d382782b05733d2c5f0ccad0eaa75551b7a41009645e819c96e0e",
+    "delvers/episodes/S1E11.md": "a641322023a93f6ca1a17075354942b81e89ccd1b7b8c60c7eeb39aa88c5a5cd",
+    "delvers/episodes/S1E12.md": "1522110922366c49b594327829189796b41626e7d2f12b3d0af1afaa6189b78d",
+    "delvers/episodes/S2E00.md": "ca468b7c25a39a82b13a0348e84c78e310e04f3247db1b3240e81433f06774d3",
+    "delvers/episodes/S2E01.md": "c0b2abf9612b2eba40595cc99d8bc679c3b44988f0493fe70134650b028c7cef",
+    "delvers/episodes/S2E02.md": "f24b918bc806d257117626a75d283915c7cc9996c3045b2ba33e68a848cf2c09",
+    "delvers/episodes/S2E03.md": "64e485e751a7b80ed2972d79870c5b1bf8d6192690487e98187f6bb85c7f7c83",
+    "delvers/episodes/S2E04.md": "d71150b451025fc521d4ba3866f3e7e3c4e026094c02a658a7ed7b95f7cb59b5",
+    "delvers/episodes/S2E05.md": "ae8883aeb53adfec6db3db5884ff94dba983128698575dc56d3c081151ba568c",
+    "delvers/episodes/S2E06.md": "8613785d5f217e1593bf92d6755387be0307c219d66e2e470a28cece67a4acec",
+    "delvers/episodes/S2E07.md": "ae77f3b2aefa4eead055b33db67e22eec9b25f1c0e7eecbbcf851fbb38717981",
+    "delvers/episodes/S2E08.md": "551db801db7bcd2281862c5f91b1acbf9f54b3b79b2d4d130dd73987763a449d",
+    "delvers/episodes/S2E09.md": "efef1dfe2839fc4877b8e1aa4973ccca581d9809f45edd9b0c63cf043cd70fd6",
+    "delvers/episodes/S2E10.md": "485383248dde9b35042d0b40699541f2184766e050518db6b3f3e30fb6a1a668",
+    "delvers/episodes/S2E11.md": "796d1dc27a8c766366c82a3dbfc6949456d6a5b1932f0d26da0e1d02bb2d0316",
+    "delvers/episodes/S2E12.md": "028863bddc0bb538b4bd38a4880ef4ed4765a8856f1547601df88cb57823c38d",
+    "delvers/episodes/S3E01.md": "d801989efc750c5496d36bacf3edd65d2aff1f2d30ea25bb60cfd67e3ab0e321",
+    "delvers/episodes/S3E02.md": "fa7c87a1a282598e15de99db378c1178f2068f6c7d261f40b1ddfba9b9d4f99c",
+    "delvers/episodes/S3E03.md": "a154748e50f0733a5e21096119aa503dfa88c7c0d00916156b575d33334ea811",
+    "delvers/episodes/S3E04.md": "8e7ad5561fb8d1313aab99bf23fe910e33196b9d20d25fbf565abb22974af085",
+    "delvers/episodes/S3E05.md": "0278b166b63e7f470bd6545c49a01df0769ca0b6fbd82a0f6527c845e6ba4342",
+    "delvers/episodes/S3E06.md": "7bb59095c01e4b62cf8602b7e358cdbc7b802307ada9b02e9ac7efe43ec516cb",
+    "delvers/episodes/S3E07.md": "9193e1cec5841939301c222d7d6077de5b2a638ec779bbc886d2cfb6dc0a50a1",
+    "delvers/episodes/S3E08.md": "6a4f91bdf5eea33778f836a61c1ac2366acd08c9e6f507e905ab114bcd665892",
+    "delvers/episodes/S3E09.md": "5190a2dbd24d943e83574e5d2f74a81e651fd7172400c293f8ca05e4f9e378a6",
+    "delvers/episodes/S3E10.md": "cb0d1f109f2ca7a1d6d844d90231669f24496ab8afa554782051d9199d1325a3",
+    "delvers/episodes/S3E11.md": "d0509354b1520be23731e58ead5fedbb7c7af91e683013b5665ea69e25baf03c",
+    "delvers/episodes/S3E12.md": "b0e0b60ff8b6dca58e718813df7ffc7fce786b958161e427d7cb2e9a33f99add"
+  },
+  "edits": [
+    {
+      "path": "delvers/world/items/khalazar-red-crystal.md",
+      "before_sha256": "443b07b683444be43297ab5dc2d312446850a73855d4cc1564f7a480496218d8",
+      "after_sha256": "8e2b5f22782b8828a7525767ad19c46de467a10b50b3bcc8a2f5773ec0693753",
+      "operations": [
+        [
+          "[^custody]: [S2E10](../../episodes/S2E10.md) explicitly performs the physical handoff to Carrie, who did not enter Koh's psychic link. [S2E11](../../episodes/S2E11.md), ~00:00–00:08, then has Evelyn produce a red gem again, with no shown return or explicitly distinct second shard. This remains unresolved; no invented handoff, duplication or settled intervening owner is supplied. Physical recovery does not authenticate all dream geography or explain transportation of mental objects.",
+          "[^custody]: [S2E10](../../episodes/S2E10.md), P1997–1998 and P2008 / Q3215–3216 and Q3227, explicitly renders the handover and Carrie taking the crystal with both hands after the dream. [S2E11](../../episodes/S2E11.md), P60–63 / Q97–100, renders Evelyn pulling out the crushed red gem during her account of the dream, without an explicit reverse handoff or distinct second shard in the reviewed opening (00:00–00:04). This remains unresolved; the source alternates plural pieces and singular crystal/gem, not an exact inventory. No handoff, duplication or settled intervening owner is invented. Physical recovery does not authenticate all dream geography or explain transportation of mental objects. [Selected paired-cue review](../../../reports/DELVERS_RED_SHARD_CUES_2026-10-28.md) is text-only, not a listening resolution."
+        ],
+        [
+          "[^component]: [S3E02](../../episodes/S3E02.md), ~00:46–00:53, Carrie explicitly credits Evelyn's earlier gift and uses it with Anathala's consensually drawn blood in the device physically handed to Koh. This supports the earlier handoff without resolving S2E11's recurrence. Dolbluth descent and Khalazar's reason for seeking the blood remain Carrie's hypotheses. Later tracker use/equipped bracer through [S3E11](../../episodes/S3E11.md) belongs to the assembled amulet's history, not a new loose-shard power. [S3E12](../../episodes/S3E12.md) does not supply a separate removal, destruction, final item audit or post-defeat function test. No new audio, art, original sheet or map review occurred.",
+          "[^component]: [S3E02](../../episodes/S3E02.md), ~00:46–00:53, Carrie explicitly credits Evelyn's earlier gift and uses it with Anathala's consensually drawn blood in the device physically handed to Koh. This supports the earlier handoff without resolving S2E11's recurrence. Dolbluth descent and Khalazar's reason for seeking the blood remain Carrie's hypotheses. Later tracker use/equipped bracer through [S3E11](../../episodes/S3E11.md) belongs to the assembled amulet's history, not a new loose-shard power. [S3E12](../../episodes/S3E12.md) does not supply a separate removal, destruction, final item audit or post-defeat function test. No new audio, art, original sheet or map review occurred. The selected attribution is P742–746 / Q1085–1090 (~00:47:35–00:48:06), with the later offer to Koh in P785 / Q1155–1157 (~00:50:56–00:51:04); neither supplies the missing S2E11 reverse transfer."
+        ]
+      ]
+    },
+    {
+      "path": "delvers/world/CONSISTENCY_LEDGER.md",
+      "before_sha256": "d47e75b331ac97ebca159199f57f0b68f4a00d6cb7b2b53baccc47551f762a35",
+      "after_sha256": "98f6e510d118ee11c1eb949234142a80118d6ae2cf988d6fa2ee5d4a85e5bf7d",
+      "operations": [
+        [
+          "| DEL-S2E11-001 | RED CRYSTAL custody discrepancy | **S2E10 Evelyn actually hands shard to Carrie**, then **S2E11 Evelyn pulls out crushed red gem to show Carrie while explaining dream**, no explicit hand-back or second shard. Both ASRs S2E11 support production; **unresolved story continuity**, do not overwrite Carrie-last-custody S2E10 or assert sole permanent ownership |",
+          "| DEL-S2E11-001 | RED CRYSTAL custody discrepancy | **S2E10 Evelyn hands material to Carrie and Carrie takes the crystal** (P1997–1998, P2008 / Q3215–3216, Q3227). **S2E11 renders Evelyn pulling out the crushed red gem during her retelling** (P60–63 / Q97–100); the reviewed opening supplies no explicit return handoff or distinct second shard. S3E02 later credits Evelyn's gift as the amulet component but does not fill that bridge. Plural pieces versus singular gem does not settle a fragment count. [Selected-cue review](../../reports/DELVERS_RED_SHARD_CUES_2026-10-28.md); unresolved, text-only—retain the S2E10 cutoff and avoid exclusive permanent ownership or a second-shard invention. |"
+        ]
+      ]
+    },
+    {
+      "path": "delvers/REVIEW_QUEUE.md",
+      "before_sha256": "95f4326fb2ab0444490d4fcd053baac305b7ee85de9b1c7cbc9f1a07a7d91005",
+      "after_sha256": "65bfb327b213859022941e318eff54e8a40de61f2832ecf310a5cabbc70dfef4",
+      "operations": [
+        [
+          "## Active cleanup and verification",
+          "## Active cleanup and verification\n\n**Red-shard selected-cue review, 2026-10-28:** The [three-episode paired review](../reports/DELVERS_RED_SHARD_CUES_2026-10-28.md) confirms the existing text sequence: Evelyn hands material to Carrie, S2E11 renders the gem being produced during her retelling, and Carrie later credits the gift in the amulet. No reverse handoff, distinct second shard or exact fragment count is established in the selected windows. Source-note cue references and the ledger are refined; all three issue keys remain open. The later blue shard remains separate. Next: finale evacuation/Darmah text windows; no listening upgrade."
+        ]
+      ]
+    },
+    {
+      "path": "project/DELVERS_CLEANUP_MANIFEST.md",
+      "before_sha256": "8ffcc5097195ff5d4d43baa343ae652830e73f3b911b3dc1dc39af86d0b5fad0",
+      "after_sha256": "0ee7e9bd6e9e0a5efd57544a361d6798f3f530a56ab3bbb8ef3713538f738c2e",
+      "operations": [
+        [
+          null,
+          "\n### Source follow-up — red-shard recurrence\n\n[Report](../reports/DELVERS_RED_SHARD_CUES_2026-10-28.md) · [Checkpoint](DELVERS_RED_SHARD_CUES_2026-10-28.json). Six inputs / eight selected window-export combinations across S2E10, S2E11 and S3E02 reviewed. Existing red-shard custody discrepancy retained, with exact handoff/retelling/component cue references and plural/singular inventory caution. Subject main prose and all dossiers remain unchanged; only red-fragment source notes and one ledger row are refined. No audio, new metric, identity merger or invented bridge. Next: bounded finale evacuation and Darmah-recovery text review.\n"
+        ]
+      ]
+    }
+  ],
+  "archive_manifest": "research/legacy/2026-10-28/delvers-red-shard-cues/manifest.json",
+  "changed_markdown": [
+    "delvers/world/items/khalazar-red-crystal.md",
+    "delvers/world/CONSISTENCY_LEDGER.md",
+    "delvers/REVIEW_QUEUE.md",
+    "project/DELVERS_CLEANUP_MANIFEST.md",
+    "reports/DELVERS_RED_SHARD_CUES_2026-10-28.md"
+  ]
+}

@@ -4,7 +4,7 @@
 
 ## Entry under coercion
 
-After the collapse of the buried facility and appearance of a black dragon, armed forces serving **the Principle/Principal** capture the travelers and take them to Slavetown. The city makes its violent institutions plain through soldiers, courts, martial orders, underclass labor and the continued captivity of people taken from **Dusthill**. The four protagonists win a **trial by combat**, but freeing themselves does **not free all enslaved townspeople or the people they originally set out to rescue**.
+After the collapse of the buried facility and appearance of a black dragon, armed forces serving **the Principal** capture the travelers and take them to Slavetown. The city makes its violent institutions plain through soldiers, courts, martial orders, underclass labor and the continued captivity of people taken from **Dusthill**. The four protagonists win a **trial by combat**, but freeing themselves does **not free all enslaved townspeople or the people they originally set out to rescue**.
 
 The city contains hotels, a foundry, markets and a jewelry shop, competing patrons and bureaucracies, plus groups identified with **the Koromukishi** and other violent powers. Stanley meets **Talia**, Bruce Bane's mother, among enslaved people. **Celibus Stump**, the **Jeweler**, a magistrate and an elusive **mine deed** draw the group into political bargains that often appear mutually incompatible.
 
@@ -24,4 +24,4 @@ Nash takes **Pixie Blush**, and later causes a **real destructive foundry/explos
 
 ## Contested blame for Dusthill and trade — E058–E059
 
-The visiting **Principle claims** that magistrate `Ethanelia/Ethanalia` caused the **Dusthill raid without his instructions**, while promising peace and trade via a future **rail connection** to Tietkalla. **This is a ruler's interested explanation**, not independent exoneration. He does actually arrange **arrival of named Dusthill survivors in E059**; that fact does not establish humane slavery practices or release of all captives. The party's negotiated paid-labor condition should not be turned into a retroactive description of Slavetown's labor system. [E058](../../episodes/E058.md) · [E059](../../episodes/E059.md).
+The visiting **Principal claims** that magistrate `Ethanelia/Ethanalia` caused the **Dusthill raid without his instructions**, while promising peace and trade via a future **rail connection** to T'ietkalla. **This is a ruler's interested explanation**, not independent exoneration. He does actually arrange **arrival of named Dusthill survivors in E059**; that fact does not establish humane slavery practices or release of all captives. The party's negotiated paid-labor condition should not be turned into a retroactive description of Slavetown's labor system. [E058](../../episodes/E058.md) · [E059](../../episodes/E059.md).

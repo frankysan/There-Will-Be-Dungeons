@@ -2,6 +2,8 @@
 
 **Purpose:** A compact, **in-universe and narrative-focused** subject page in `world/characters/`, `world/places/`, `world/technology/`, `world/creatures/` or a major event study in `world/`, with the same presentation used in Delvers's corresponding directories. **The governing presentation rule is [World narrative style](WORLD_NARRATIVE_STYLE.md): put episode IDs, ASR uncertainty, source links and editor notes in footnotes, not the main prose.** Use this template as a checklist, not a demand for empty headings. [Documentation architecture](DOCUMENTATION_ARCHITECTURE.md) · [World portal](../world/README.md).
 
+**Reader-first project-wide extension (D-048, 2026-10-28):** This subject template remains in-universe and source-footnoted. README, directory and topic **indexes are different**: first navigate narrative, characters, world, lore and history, then a final `## Sources and project notes` section. All campaigns use this approach; only necessary source-first research and technical registers keep evidence at the top. Illustrations are optional; **do not restore** the Fate 4/Dusthill embeds the owner removed. See [reader-first presentation](READER_FIRST_PRESENTATION.md) for both page types.
+
 ## Recommended structure
 
 ```markdown
@@ -77,7 +79,7 @@ An optional Relationships/abilities section **synthesizes cross-arc patterns** w
 
 ## Canon and sourcing rules
 
-1. **Reference scope:** This is *The Wastes*. *Inverse* and the E043 one-shot are independent unless a source explicitly establishes a shared continuity. E107–E109 are a **same-world historical prequel**, not the current Arc Five.
+1. **Reference scope:** Identify the selected campaign and researched story horizon before writing. Use that campaign’s canonical subject pages, dossiers and source notes. Delvers, Wastes, Inverse and standalone adventures retain their own continuity unless evidence explicitly establishes a connection. Place prequels, cutaways and retrospectives according to the selected campaign’s documented chronology and evidence class; archive numbering does not itself establish story time. Wastes names, paths and episode IDs elsewhere in this template are examples, not Delvers lore or required source links.
 2. **One main subject page:** Category indexes link to the page and offer a brief description; don't append E### recaps to `CHARACTERS.md`, `PLACES.md`, `WORLD.md`, or the root world portal.
 3. **Introduction → arcs → current status:** The first section describes the subject as originally encountered, with **no future spoilers or research apparatus**. Narrate chronological arc changes as in-world events; keep the **latest status as the last substantive section**, with supporting episode cutoffs in footnotes. Earlier false beliefs and later revelations both remain visible in proper narrative order.
 4. **Source tier:** Directly played event; GM statement to players; GM/cast retrospective; in-character testimony; private handout/vision; processed ASR only; owner- or cast-confirmed orthography; external wiki reference. Preserve this classification **in footnotes**; in the narrative, distinguish witnessed actions from what characters *say, believe or promise*. Never elevate testimony or an unplayed plan into an observed event.

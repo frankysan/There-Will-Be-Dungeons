@@ -1,0 +1,191 @@
+{
+  "files": [
+    {
+      "path": "README.md",
+      "sha256": "ec4a6ec449cbd83a58e99818184356bf8029cd57b5f4ecd47c0e6dc151b56ea0",
+      "original": "research/legacy/2026-10-28/reader-index-reorganization/originals/README.md"
+    },
+    {
+      "path": "world/README.md",
+      "sha256": "7d414c29aebf4dd9c190e4cac54f2754bb61e77bb233885c63ff251fde4fa363",
+      "original": "research/legacy/2026-10-28/reader-index-reorganization/originals/world/README.md"
+    },
+    {
+      "path": "narrative/README.md",
+      "sha256": "f659ee5d730003ff4c282389a39f64faf6409e693b205cf4d0a4788e71c71353",
+      "original": "research/legacy/2026-10-28/reader-index-reorganization/originals/narrative/README.md"
+    },
+    {
+      "path": "delvers/README.md",
+      "sha256": "b77857ace3e8008a0fc2f9f66c1bc8594b330b3bc7b5f22e4ffd49f601c7d6a7",
+      "original": "research/legacy/2026-10-28/reader-index-reorganization/originals/delvers/README.md"
+    },
+    {
+      "path": "delvers/narrative/README.md",
+      "sha256": "af81cc78c886f4aa9c26e321c0301d2c45eaa5aca6cf0cfa362196542382cf93",
+      "original": "research/legacy/2026-10-28/reader-index-reorganization/originals/delvers/narrative/README.md"
+    },
+    {
+      "path": "delvers/world/README.md",
+      "sha256": "97a4b3136bea375b528b73389fa9485711d9bf75840d02700dccfc91a5c6aa6b",
+      "original": "research/legacy/2026-10-28/reader-index-reorganization/originals/delvers/world/README.md"
+    },
+    {
+      "path": "inverse/README.md",
+      "sha256": "91f926324f7d6468de224b04392306cb49926e944dd92f38862eba4a708eb39b",
+      "original": "research/legacy/2026-10-28/reader-index-reorganization/originals/inverse/README.md"
+    },
+    {
+      "path": "world/CHARACTERS.md",
+      "sha256": "a36b858224d230242f071ad02c22acf6e6c975fac45425d3161bb39a120b3ccc",
+      "original": "research/legacy/2026-10-28/reader-index-reorganization/originals/world/CHARACTERS.md"
+    },
+    {
+      "path": "world/ANTAGONISTS.md",
+      "sha256": "f9a0a43ffeaad16098dba15c09cb0192f5cf931f99b24008839ab2b106f0caec",
+      "original": "research/legacy/2026-10-28/reader-index-reorganization/originals/world/ANTAGONISTS.md"
+    },
+    {
+      "path": "world/CREATURES_AND_MONSTERS.md",
+      "sha256": "0e3b1d8bd95d6eacc133605f30812c7e40d9d46ebda04c23f0a424e704fb8108",
+      "original": "research/legacy/2026-10-28/reader-index-reorganization/originals/world/CREATURES_AND_MONSTERS.md"
+    },
+    {
+      "path": "world/FACTIONS_AND_POWERS.md",
+      "sha256": "1113ec784879e7ff360f274906f1478772fe17e8fb5396785f74f580c7e69ad5",
+      "original": "research/legacy/2026-10-28/reader-index-reorganization/originals/world/FACTIONS_AND_POWERS.md"
+    },
+    {
+      "path": "world/HISTORICAL_EVENTS.md",
+      "sha256": "6811ade9aed4d980c917e701f8ad82d93d308a4dbc72e1db69c64dab7bbeab69",
+      "original": "research/legacy/2026-10-28/reader-index-reorganization/originals/world/HISTORICAL_EVENTS.md"
+    },
+    {
+      "path": "world/ITEMS_AND_ARTIFACTS.md",
+      "sha256": "fdac85682c7a0534047c2b2d8b7337880371145294b6d4849b54053d86748885",
+      "original": "research/legacy/2026-10-28/reader-index-reorganization/originals/world/ITEMS_AND_ARTIFACTS.md"
+    },
+    {
+      "path": "world/PLACES.md",
+      "sha256": "b2d714e14f3e0c2861c7fa61a5c43ad7e806ac5dd97fa0ffb5765ae407ad7e67",
+      "original": "research/legacy/2026-10-28/reader-index-reorganization/originals/world/PLACES.md"
+    },
+    {
+      "path": "delvers/world/CHARACTERS.md",
+      "sha256": "9177ac5ca4a7c37eb11c495529067b399989bde76244037f7a066d64b3be1e80",
+      "original": "research/legacy/2026-10-28/reader-index-reorganization/originals/delvers/world/CHARACTERS.md"
+    },
+    {
+      "path": "delvers/world/CREATURES_AND_MONSTERS.md",
+      "sha256": "8a67bd27da560993a248f9fd6d4417a0f8aeb292f1b104b65e6aeeebbc86ea13",
+      "original": "research/legacy/2026-10-28/reader-index-reorganization/originals/delvers/world/CREATURES_AND_MONSTERS.md"
+    },
+    {
+      "path": "delvers/world/PLACES.md",
+      "sha256": "52629c11eba1c779df9454eea78137c379341393a0ec955bcd357de148b8caef",
+      "original": "research/legacy/2026-10-28/reader-index-reorganization/originals/delvers/world/PLACES.md"
+    },
+    {
+      "path": "project/DOCUMENTATION_ARCHITECTURE.md",
+      "sha256": "0cc7046bc2f91289860879d534ed9e1734655087c69939514393a055da8f6efe",
+      "original": "research/legacy/2026-10-28/reader-index-reorganization/originals/project/DOCUMENTATION_ARCHITECTURE.md"
+    },
+    {
+      "path": "scripts/lint-markdown.mjs",
+      "sha256": "b8ed9f92ef1abf2518099c9ef75b258be0f105e3a3520c4deee268cfad1211f9",
+      "original": "research/legacy/2026-10-28/reader-index-reorganization/originals/scripts/lint-markdown.mjs"
+    }
+  ],
+  "reading_copies": [
+    {
+      "path": "research/legacy/2026-10-28/reader-index-reorganization/reading/README.md",
+      "sha256": "f423e7cf41a1acd92c1c34c6aeeb3d1c1ccb4c2c24d81b0ae3c9c0676e00a5e1",
+      "source": "README.md"
+    },
+    {
+      "path": "research/legacy/2026-10-28/reader-index-reorganization/reading/world/README.md",
+      "sha256": "d36263e21cc57af3cf066ce6fbf11053fa7af1caaa10ab83f2e0d810bbc2da5e",
+      "source": "world/README.md"
+    },
+    {
+      "path": "research/legacy/2026-10-28/reader-index-reorganization/reading/narrative/README.md",
+      "sha256": "f247aece8d1d005153bf4a96f9c844708a7b6827fe1eecd9dd558884b10d1a5f",
+      "source": "narrative/README.md"
+    },
+    {
+      "path": "research/legacy/2026-10-28/reader-index-reorganization/reading/delvers/README.md",
+      "sha256": "a14c262849c6f940211e74c1fa91f26b3b0b024bac1b31e878ad12338dcd5211",
+      "source": "delvers/README.md"
+    },
+    {
+      "path": "research/legacy/2026-10-28/reader-index-reorganization/reading/delvers/narrative/README.md",
+      "sha256": "67f0f4231eb1c06b3e372c3874133a3cf9eced1b244e84e48855698b289d033d",
+      "source": "delvers/narrative/README.md"
+    },
+    {
+      "path": "research/legacy/2026-10-28/reader-index-reorganization/reading/delvers/world/README.md",
+      "sha256": "da79a7d3ff393c8167f34e005f3d6e81664057cf093fcfd550837cb303e8266c",
+      "source": "delvers/world/README.md"
+    },
+    {
+      "path": "research/legacy/2026-10-28/reader-index-reorganization/reading/inverse/README.md",
+      "sha256": "2293f603ab7bdef70fe64de73716a26f1413a203506ccdc3c64525bde539d0e0",
+      "source": "inverse/README.md"
+    },
+    {
+      "path": "research/legacy/2026-10-28/reader-index-reorganization/reading/world/CHARACTERS.md",
+      "sha256": "fdc3822e3a618b591e4b6d46974ddc4e1ca3cc397b1de77ae38a87db18c684cf",
+      "source": "world/CHARACTERS.md"
+    },
+    {
+      "path": "research/legacy/2026-10-28/reader-index-reorganization/reading/world/ANTAGONISTS.md",
+      "sha256": "363a51fd7e407eb16ea4bac96cd18f80133a36efd626fa9e3e9f74d30604b8d8",
+      "source": "world/ANTAGONISTS.md"
+    },
+    {
+      "path": "research/legacy/2026-10-28/reader-index-reorganization/reading/world/CREATURES_AND_MONSTERS.md",
+      "sha256": "1abe83d0e150c26919ca6b64e068ceb839c6762dab94e010e4976376d2ab88f0",
+      "source": "world/CREATURES_AND_MONSTERS.md"
+    },
+    {
+      "path": "research/legacy/2026-10-28/reader-index-reorganization/reading/world/FACTIONS_AND_POWERS.md",
+      "sha256": "80e57edb6d53c018f5e5efbd70df462db35e07a690daa585b2057c3120c11cb6",
+      "source": "world/FACTIONS_AND_POWERS.md"
+    },
+    {
+      "path": "research/legacy/2026-10-28/reader-index-reorganization/reading/world/HISTORICAL_EVENTS.md",
+      "sha256": "00e1d47fedb4701c914269475bce65863c85c7c32c58d05c4a43292974d027a0",
+      "source": "world/HISTORICAL_EVENTS.md"
+    },
+    {
+      "path": "research/legacy/2026-10-28/reader-index-reorganization/reading/world/ITEMS_AND_ARTIFACTS.md",
+      "sha256": "f22eaa03519913d2319fd18ed4a4848a1afa281b8f46d8a50dc3200a6d109a63",
+      "source": "world/ITEMS_AND_ARTIFACTS.md"
+    },
+    {
+      "path": "research/legacy/2026-10-28/reader-index-reorganization/reading/world/PLACES.md",
+      "sha256": "d905df5b44549d44b5c2aea2d2193f67b1846c6dd060cd9a197af9b558116d54",
+      "source": "world/PLACES.md"
+    },
+    {
+      "path": "research/legacy/2026-10-28/reader-index-reorganization/reading/delvers/world/CHARACTERS.md",
+      "sha256": "72b5f259c4bdb6c2f701e1456c6aff5e3817541a9cd0a7bc74b7958fe3b85122",
+      "source": "delvers/world/CHARACTERS.md"
+    },
+    {
+      "path": "research/legacy/2026-10-28/reader-index-reorganization/reading/delvers/world/CREATURES_AND_MONSTERS.md",
+      "sha256": "28260048152ff6cb9d2273a1049fee9197e6c3b4f93055a0e6c4500e529d86d6",
+      "source": "delvers/world/CREATURES_AND_MONSTERS.md"
+    },
+    {
+      "path": "research/legacy/2026-10-28/reader-index-reorganization/reading/delvers/world/PLACES.md",
+      "sha256": "c06511d9c39f40e341c6ec6630bea88c25938573d48cb2940887ad81f40d7948",
+      "source": "delvers/world/PLACES.md"
+    },
+    {
+      "path": "research/legacy/2026-10-28/reader-index-reorganization/reading/project/DOCUMENTATION_ARCHITECTURE.md",
+      "sha256": "55f962801273b0dee21857c233f651218de981f985e230241eb4e813fcba310c",
+      "source": "project/DOCUMENTATION_ARCHITECTURE.md"
+    }
+  ]
+}

@@ -2,7 +2,7 @@
 
 ## Introduction
 
-A gigantic spider lay concealed above a mushroom-lined pit beneath [Tietkalla](../places/tietkalla.md). At first its body looked like part of the moving ceiling; as it descended, its skin changed into dark blue and green. Its eight legs spread around the people below, obstructing their escape.[^appearance]
+A gigantic spider lay concealed above a mushroom-lined pit beneath [T'ietkalla](../places/tietkalla.md). At first its body looked like part of the moving ceiling; as it descended, its skin changed into dark blue and green. Its eight legs spread around the people below, obstructing their escape.[^appearance]
 
 ## Arc Two — an ambush among luminous fungi
 

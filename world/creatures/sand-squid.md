@@ -14,7 +14,7 @@ Outside Slavetown, Vorel caught a sand squid by hand and killed it against a sto
 
 In Slavetown, sand squid could be served in sandwiches, fried strips, eggs and soup. Its meat was considered cheap and of modest quality, although Vorel relished it. Lattlebing also squeezed juice from a dead squid directly into coffee, making a much richer cup for Vorel than for his companions.[^kitchen]
 
-Drying reduced the animals' bulk and made them useful as travel rations. Canned squid appeared among general-store supplies, and fried portions fed people gathered at a camp. Sand-squid sandwiches later remained on an inn's menu in Tietkalla.[^provisions]
+Drying reduced the animals' bulk and made them useful as travel rations. Canned squid appeared among general-store supplies, and fried portions fed people gathered at a camp. Sand-squid sandwiches later remained on an inn's menu in T'ietkalla.[^provisions]
 
 ## Current status
 

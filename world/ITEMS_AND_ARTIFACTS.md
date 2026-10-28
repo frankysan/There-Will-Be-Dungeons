@@ -1,6 +1,6 @@
 # Items, artifacts and extraordinary technology
 
-**The Wastes · spoilers through S3E15, including current items offered versus actually held.** Object-specific reference index; distinguishes physical possession, demonstrated effects, item descriptions, possible origins and proposed use. The dossiers are **ASR-provisional**, and a late-game inventory is not automatically valid for an earlier episode. [Portal](README.md) · [World technology](WORLD.md) · [Review ledger](CONSISTENCY_LEDGER.md).
+Relics, weapons and extraordinary machines alter lives across The Wastes. Explore what these objects do, who holds them and the meanings they acquire through use, loss and discovery.
 
 ## Story-defining objects
 
@@ -49,5 +49,11 @@
 | **Necklace of Fireballs**, once recovered from Orp | **Omnom retains E119–E120; Vorel retrieves and discharges the *entire necklace* as a Fireball E121**. ~Five beads was a GM approximation, not a verified previous inventory. **No unused necklace remains**. [Omnom](characters/omnom-cinderborn.md) · [E121](../episodes/E121.md) |
 | **Zorander's Fist gauntlet and case** | [Hope](characters/hope-akmenos.md), [E101](../episodes/E101.md), [E106](../episodes/E106.md); gauntlet delivered to Tobacho **without** the Hand. [February 2022 creator Q&A](../episodes/BONUS-2022-02.md) says Beau **homebrewed the gauntlet to fit over the living Hand**, originally hoped Kyle would wield it, and borrowed **Euphemius/Euphemia Zorander** from an unrelated earlier PC name (**not proven same person**). The elaborate unused fist attack rules are not provided or verified |
 | **Eye of the Voice**, not obtained by E118 | [Hope](characters/hope-akmenos.md), [E113](../episodes/E113.md), [E118](../episodes/E118.md); **not** the Eye of Groxl |
+
+## Sources and project notes
+
+**The Wastes · spoilers through S3E15, including current items offered versus actually held.** Object-specific reference index; distinguishes physical possession, demonstrated effects, item descriptions, possible origins and proposed use. The dossiers are **ASR-provisional**, and a late-game inventory is not automatically valid for an earlier episode. [Portal](README.md) · [World technology](WORLD.md) · [Review ledger](CONSISTENCY_LEDGER.md).
+
+[Campaign overview](../wastes/README.md) · [World portal](README.md).
 
 **Indexing rule:** A named weapon, artifact, building-sized machine, individual body part and *rumored* item are not interchangeable. Only create separate mechanics pages when enough independently source-linked evidence exists. [Chronology](CHRONOLOGY.md) · [Editorial architecture](../project/DOCUMENTATION_ARCHITECTURE.md).

@@ -1,8 +1,6 @@
 # Delvers — places
 
-Explore the places and institutions of Delvers, from Atomer's streets to the ruins beneath them. The summaries use each subject's latest supported condition, which can predate the finale. Unexplored spaces and uncertain geography remain open.
-
-Map inscriptions and ASR-derived names retain separate authority below. The [chronology](CHRONOLOGY.md) holds the detailed event order, and the [integration record](../../reports/DELVERS_CAMPAIGN_INTEGRATION_2026-10-27.md) explains this index's bounded reconciliation with canonical accounts.
+Explore the places and institutions of Delvers, from Atomer's streets to the ruins beneath them.
 
 | Place | Scope and reference |
 | --- | --- |
@@ -43,3 +41,9 @@ Map inscriptions and ASR-derived names retain separate authority below. The [chr
 | [Skull Keep / Enzo Keep](places/skull-keep.md) | Old Withers holiday estate with its flameskull destroyed and servants inert. The mirror remains, with no later restoration, occupation or certain reflection outcome. |
 
 [World portal](README.md) · [S1E01 evidence](../episodes/S1E01.md) · [Open checks](CONSISTENCY_LEDGER.md)
+
+## Sources and project notes
+
+Explore the places and institutions of Delvers, from Atomer's streets to the ruins beneath them. The summaries use each subject's latest supported condition, which can predate the finale. Unexplored spaces and uncertain geography remain open.
+
+Map inscriptions and ASR-derived names retain separate authority below. The [chronology](CHRONOLOGY.md) holds the detailed event order, and the [integration record](../../reports/DELVERS_CAMPAIGN_INTEGRATION_2026-10-27.md) explains this index's bounded reconciliation with canonical accounts.

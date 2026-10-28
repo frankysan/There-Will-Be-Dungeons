@@ -1,0 +1,19 @@
+{
+  "files": [
+    {
+      "path": "delvers/REVIEW_QUEUE.md",
+      "sha256": "78e0cf26296b165e432c33d27d64a15cb252386f8acbc0c1f4742f49aee5d92a",
+      "original": "research/legacy/2026-10-28/delvers-s1e05-issue-routing/delvers/REVIEW_QUEUE.md.original"
+    },
+    {
+      "path": "delvers/episodes/S1E05.md",
+      "sha256": "e002b82b3419a1e621733fdd3f07ec093b01d77a94d579e154f8eb2062146098",
+      "original": "research/legacy/2026-10-28/delvers-s1e05-issue-routing/delvers/episodes/S1E05.md.original"
+    },
+    {
+      "path": "project/DELVERS_CLEANUP_MANIFEST.md",
+      "sha256": "afd8bda5c0b390aac9c94a3c9fddde45c9ead7bddd1c5cd34069fdab54c72d4c",
+      "original": "research/legacy/2026-10-28/delvers-s1e05-issue-routing/project/DELVERS_CLEANUP_MANIFEST.md.original"
+    }
+  ]
+}

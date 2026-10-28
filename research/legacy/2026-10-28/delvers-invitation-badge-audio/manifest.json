@@ -1,0 +1,19 @@
+{
+  "files": [
+    {
+      "path": "delvers/REVIEW_QUEUE.md",
+      "sha256": "73981c3926079e086d2a12baceac549d5a9fe0e7958cd86a24ec5501f4e63b7c",
+      "original": "research/legacy/2026-10-28/delvers-invitation-badge-audio/delvers/REVIEW_QUEUE.md.original"
+    },
+    {
+      "path": "project/DELVERS_CLEANUP_MANIFEST.md",
+      "sha256": "4e96c85179d198cb44ab29178fba3a7a66f3f1b828411ffe6e9d6132ae566954",
+      "original": "research/legacy/2026-10-28/delvers-invitation-badge-audio/project/DELVERS_CLEANUP_MANIFEST.md.original"
+    },
+    {
+      "path": "project/MODEL_TESTS.md",
+      "sha256": "98ffd26cb8d9e6f79286d71f7099763fdaa074ab9dfc115ba2728c57166b4860",
+      "original": "research/legacy/2026-10-28/delvers-invitation-badge-audio/project/MODEL_TESTS.md.original"
+    }
+  ]
+}

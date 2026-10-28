@@ -21,7 +21,9 @@ These source-linked studies retain earlier stages of the Season One narrative. T
 | [Skull Keep and the Dawnless Dunes](SKULL_KEEP.md) | The Withers estate and Enzo's warning |
 | [The Wells of Atomer](THE_WELLS_OF_ATOMER.md) | Wells, buried temple passages and the lake expedition through its earlier cutoff |
 
-## Editorial status
+## Sources and project notes
+
+### Editorial status
 
 The [cleanup plan](../../project/DELVERS_CAMPAIGN_CLEANUP_PLAN.md) covers all three completed arcs. All three primary arcs have received preserved consolidation passes. The [Season Two checkpoint](../../reports/DELVERS_SEASON_TWO_CONSOLIDATION_2026-10-26.md) accounts for all 21 former sections and their legacy anchors. The [Season Three checkpoint](../../reports/DELVERS_SEASON_THREE_CONSOLIDATION_2026-10-26.md) accounts for all 95 former prose paragraphs across nine chapters and a one-year epilogue. These bounded editorial checks do not upgrade source accuracy or establish whole-campaign factual acceptance. See the [manifest](../../project/DELVERS_CLEANUP_MANIFEST.md) for measurements and the [chapter maps](../../project/DELVERS_NARRATIVE_CHAPTER_MAPS.md) for the implemented chapter coverage.
 

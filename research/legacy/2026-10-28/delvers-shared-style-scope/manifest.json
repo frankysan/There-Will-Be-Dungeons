@@ -1,0 +1,34 @@
+{
+  "files": [
+    {
+      "path": "project/EDITORIAL_GUIDE.md",
+      "sha256": "c2106ee33e264ce6f801c99895431a9d21b8a03c27e2f1b604e2b683bd70ac63",
+      "original": "research/legacy/2026-10-28/delvers-shared-style-scope/project/EDITORIAL_GUIDE.md.original"
+    },
+    {
+      "path": "project/WORLD_NARRATIVE_STYLE.md",
+      "sha256": "047ca82f425b1a5b00ab2bb88236767eb6ae78d1844a650ed853319427ea4870",
+      "original": "research/legacy/2026-10-28/delvers-shared-style-scope/project/WORLD_NARRATIVE_STYLE.md.original"
+    },
+    {
+      "path": "project/WORLD_REFERENCE_PAGE_TEMPLATE.md",
+      "sha256": "ed06a3bd95755f88f15f70153300f09e70a37a93476502314065e9b9b6c5683f",
+      "original": "research/legacy/2026-10-28/delvers-shared-style-scope/project/WORLD_REFERENCE_PAGE_TEMPLATE.md.original"
+    },
+    {
+      "path": "delvers/DOCUMENTATION_PLAN.md",
+      "sha256": "d133273bdb8cf7c28013402b6a811210b9c0bc5ced8e248291a7f4ca6c76b686",
+      "original": "research/legacy/2026-10-28/delvers-shared-style-scope/delvers/DOCUMENTATION_PLAN.md.original"
+    },
+    {
+      "path": "delvers/REVIEW_QUEUE.md",
+      "sha256": "2e9b7c705a27931f001e4412abaf63dcff51a545843d21acbcf569df05cde4c3",
+      "original": "research/legacy/2026-10-28/delvers-shared-style-scope/delvers/REVIEW_QUEUE.md.original"
+    },
+    {
+      "path": "project/DELVERS_CLEANUP_MANIFEST.md",
+      "sha256": "9cc1ce7dcf76151dcfd2f12f7fc06b1900eed097a6bf9a624aa0e4fae2034951",
+      "original": "research/legacy/2026-10-28/delvers-shared-style-scope/project/DELVERS_CLEANUP_MANIFEST.md.original"
+    }
+  ]
+}

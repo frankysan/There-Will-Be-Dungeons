@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Blackened humanoid dead haunt an underground river beneath [Tietkalla](../places/tietkalla.md). Their rotten flesh hangs in loose folds, with hollow black spaces in their faces and a gaping opening extending down toward the chest. Their presence fills nearby minds with a painful buzzing; their gaze brings despair and a withering pain without any physical blow.[^appearance]
+Blackened humanoid dead haunt an underground river beneath [T'ietkalla](../places/tietkalla.md). Their rotten flesh hangs in loose folds, with hollow black spaces in their faces and a gaping opening extending down toward the chest. Their presence fills nearby minds with a painful buzzing; their gaze brings despair and a withering pain without any physical blow.[^appearance]
 
 ## Arc Two — the river chamber
 

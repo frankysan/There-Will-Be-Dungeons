@@ -10,7 +10,7 @@
 
 | Time | Targeted plot, transcript risks and verification |
 | --- | --- |
-| **00–10min** | S3E09 arrival from Veggie at Atomer well. **Evelyn collects badges Koh/Krandal HAND OVER and gives ALL THREE urns to KOH**. However S3E09 documented badge drop/throw in forest, and recovery isn't explained. Do NOT claim originals magically teleported; document continuity gap. Party heads home/farm/school. |
+| **00–10min** | S3E09 arrival from Veggie at Atomer well. **Evelyn collects badges Koh/Krandal HAND OVER and gives ALL THREE urns to KOH**. S3E09 includes a late badge hand-back phrase with unclear recipient/object; the [2026-10-28 selected-cue follow-up](DELVERS_BADGE_URN_CUES_2026-10-28.md) therefore narrows the older absolute absence claim. The complete per-badge bridge remains unresolved; no magical transport or unperformed recovery is invented. Party heads home/farm/school. |
 | **10–23min** | Koh sees Dumbledwark promotional book poster (claims about Guild, Withers, Cassius, etc **NOT independent truth**), finds exhausted Anthela, daughter's dream of desert, and **opens sealed reporter letter “Cassius is being kept at Wildfire estate.”** Letter claim **later verified by witnessed release**, not yet proved at time. |
 | **23–38min** | Edgar Boonfellow asks after **Phelan**, lets Krandal escape intended Guild roundup. Evelyn uses elk Find Steed, poor Animal Handling, Loran school armour attempts initially FAIL. |
 | **38–45min** | **S3E09 offscreen spa aboleth conversation now actually shown in FLASHBACK**, aboleth claims **Hissia deepest Dawnless Dunes forced to labour on Khalazar great machine**. Q name prefix possibly `Rthalamad` (P `Mod`): do not assert unverified aboleth personal name. |

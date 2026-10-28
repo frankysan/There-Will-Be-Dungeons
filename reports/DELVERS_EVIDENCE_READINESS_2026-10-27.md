@@ -1,5 +1,7 @@
 # Delvers — identity and custody evidence-readiness review
 
+**Follow-up, 2026-10-28:** The [current reconciliation](DELVERS_EVIDENCE_RECONCILIATION_2026-10-28.md) supersedes the readiness/next-operation statements below for the reviewed subsets. All five groups now have a bounded follow-up, covering nine of ten keys; blue-shard collection and post-use vessel disposition were not freshly reviewed. The body below preserves the original 2026-10-27 assessment and search horizons, including clock ranges corrected by the later source passes. No issue is closed.
+
 **Date:** 2026-10-27. **Scope:** five existing issue groups; readiness and next evidence steps only. No issue is resolved.
 
 ## Work units

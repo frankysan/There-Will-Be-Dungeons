@@ -1,0 +1,30 @@
+# The Wastes — N1-P3-A owner-approved name corrections (execution journal)
+
+**Date:** 2026-10-28 (Europe/Stockholm). **Owner authorization:** The owner explicitly replied **“Yes, approved”** to the six-file, nineteen-occurrence N1-P3-A scope in [the read-only line inventory](WASTES_CLEANUP_N1_P3_A_KHAERVILON_CORRIDOR_PROPOSAL_2026-10-28.md). Approval covers **only** D-044 reader-facing Khaervilon, T'ietkalla, and Principal display updates described there. It does not cover other N1-P3 groups, lore claims, archival text, eleven-arc changes, or Races schema edits.
+
+**Initial Git scope:** `main` at `7f331552a7c87172a18a9b165f258f4b1c036f38`; 60 visible changes, 29 restricted entries omitted. Existing Wastes E1/N1-P1/N1-P2 changes and all concurrent Delvers work stay untouched. No commit or push.
+
+## Execution and recovery
+1. **Checkpoint 0 — planned, no original source edits yet.** Read and SHA-256-verify the six live originals against the proposal. Save byte-identical pre-edit originals under `research/legacy/` and re-read their hashes. Stop if a baseline changed or archive verification fails.
+2. **Checkpoint 1 — queued.** Apply only scoped unique line edits in each of: `world/characters/alvert.md` (lines 5, 9, 13, 15); `world/characters/charles-dickens.md` (5); `world/characters/follow-sira-rorf.md` (11, 30, 37, 43, 45); `world/creatures/purple-sands-tyrannosaurus.md` (5); `world/creatures/skeleton-spawning-flesh-giant.md` (5, 7, 18); `world/technology/fate-4.md` (27). Nineteen proper-name occurrences on fifteen source lines.
+3. **Checkpoint 2 — queued.** Read back all six originals, verify exactly intended changed lines, all 153 numbered lines, unchanged link destinations and footnote markers/definitions, and exact CRLF/LF styles. Preserve the generic `accepts in principle` and all legacy URL paths; no structural, testimony, scene, timeline or lore change.
+4. **Checkpoint 3 — queued.** Update Wastes manifest and progress once each. Final readback plus Git status; no commit/push.
+
+## Verified edit ledger — six originals, each archived before change
+
+The exact byte-identical originals were created and independently re-read under `research/legacy/`, with each saved archive's SHA-256 and byte count matching its live source before its first substantive edit. The following post-edit values are verified by rereading the actual original source against its archive, not inferred from the requested replacements.
+
+| Original source file | Pre-edit archive basename | Exact changed original lines | Proper-name substitutions | Pre-edit SHA-256 | Post-edit SHA-256 |
+| --- | --- | --- | ---: | --- | --- |
+| `world/characters/alvert.md` | `ALVERT_PRE_N1_P3_A_2026-10-28.md` | 5, 9, 13, 15 | 6 | `47e73c308e0dc4c8788fcc229f16d363d5b5e98e6704bbc38ccc9510f0f18185` | `206b8f711355e1d0a08a1f00be0449c248af93eec9c3b1e2e3181a10d6fdee91` |
+| `world/characters/charles-dickens.md` | `CHARLES_DICKENS_PRE_N1_P3_A_2026-10-28.md` | 5 | 1 | `4d31fcc8207b31a6ad86a1cae95ed8290eec1c158a2b9a6dbaaa21735a50aecf` | `65ea7b3a6e611e8b32089cd3300fd9af2c9d578efc893f5ef41b40b21d83793f` |
+| `world/characters/follow-sira-rorf.md` | `FOLLOW_SIRA_RORF_PRE_N1_P3_A_2026-10-28.md` | 11, 30, 37, 43, 45 | 7 | `e51c0221222778c6f8e29339aa5b8908e888b132132c8a1b19e22bca31242f7b` | `33bae5c19c1e83ee829d0bc805e210909bd5a58d47fee4702089a5505be730ca` |
+| `world/creatures/purple-sands-tyrannosaurus.md` | `PURPLE_SANDS_TYRANNOSAURUS_PRE_N1_P3_A_2026-10-28.md` | 5 | 1 | `1f11f2143805e168539f96eb37569685fad6a5aaf887605f5f09bd3d4831e02e` | `58fb6aa05b2ad6d15fb9c3e82849b2083bc2b74b6e6ec1bb74fe6352be3d6cb0` |
+| `world/creatures/skeleton-spawning-flesh-giant.md` | `SKELETON_SPAWNING_FLESH_GIANT_PRE_N1_P3_A_2026-10-28.md` | 5, 7, 18 | 3 | `6845020eac91eeac72ac2ac36a659395ff1ae5abefbd26cf7273a5e32daa59c4` | `69d25fe23fae4611d3f9a90ea4f7532e21a13d8a080c8ef1832353ef7f934b62` |
+| `world/technology/fate-4.md` | `FATE4_PRE_N1_P3_A_2026-10-28.md` | 27 | 1 | `4fccf5ab418af5b087dbe490001820c8e4761bd4858f703eeb5cd6636686d116` | `b12b97ae4ef2f6e6c5fd9cd44bcfcfa68efde3049c160d1030b60680937d5e4d` |
+
+**Verification result:** **6/6** article deltas independently compared to archived originals, **153/153** original source lines retained, **15** and only 15 specified original numbered lines changed, **19/19** exact approved name replacements, **70/70** ordered Markdown link destinations exactly identical, footnote use/definition tokens unchanged (**14 each** across the three footnoted articles), and physical CRLF/LF patterns preserved per file. The ordinary English `accepts in principle` in `follow-sira-rorf.md` remains. No source content outside the six approved files was intentionally edited. No new claims, source/audio wording, aliases, URLs, slug paths, campaign structure or character outcomes were modified. Any concern about Alvert's claims stays attributed to him.
+
+**Checkpoint status — N1-P3-A CLOSED (2026-10-28):** 0 all six working-copy originals preserved byte-identically and SHA-256-verified; 1 all six owner-approved name-correction files edited; 2 complete source-vs-archive changed-line/link/footnote/line-ending verification passed; 3 exactly one completion record added to `project/WASTES_CLEANUP_MANIFEST.md` (line 187) and one to `project/WASTES_CLEANUP_PROGRESS.md` (line 113), both read back. Git status finally checked: `main`, HEAD `7f331552a7c87172a18a9b165f258f4b1c036f38` unchanged, **81 visible changes and 37 restricted entries omitted** (other Delvers work continued concurrently). Only the six approved Wastes originals, their six archival copies, this execution journal and existing Wastes manifest/progress controls were mutated by this N1-P3-A run. No commit/push. **Next owner gate:** N1-P3-B is inventory-only until individually scoped and approved; do not start its source edits automatically.
+
+**Limitations:** No general shell runner, primary listening, Markdownlint, `git diff --check`, or true target/anchor/backlink resolution via this workspace MCP. Mark as unrun, not passed.

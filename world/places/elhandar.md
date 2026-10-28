@@ -6,7 +6,7 @@ Elhandar was an inhabited elven sanctuary high above Earth, an immense technolog
 
 A luminous network called **Rainbow Road** linked the station's districts. Its inhabitants had access to science, magic, permanent teleportation facilities and care for the wounded. Admiral Chrysorius welcomed visiting travelers, while an elder known as the High Elf served as a spiritual leader of a society that professed cooperation rather than kingship. The High Elf spoke of his people's attempts to restore damaged ecosystems and of beliefs about elven souls; these remained the community's own accounts of its past.[^elhandar-society]
 
-Within the forest stood a furnished lakeside cottage, offering a kitchen, bedrooms, a wharf and an open hearth to Nash, Angelashi, their children and their companions. To those arriving from the devastation of Tietkalla, Elhandar appeared as both a home and a promise: a place where ordinary life might continue amid the stars.[^elhandar-cottage]
+Within the forest stood a furnished lakeside cottage, offering a kitchen, bedrooms, a wharf and an open hearth to Nash, Angelashi, their children and their companions. To those arriving from the devastation of T'ietkalla, Elhandar appeared as both a home and a promise: a place where ordinary life might continue amid the stars.[^elhandar-cottage]
 
 ## Development by arc
 
@@ -16,11 +16,11 @@ Within the forest stood a furnished lakeside cottage, offering a kitchen, bedroo
 
 Elhandar's protection extended beyond the first rescued household. Its hosts provided rest, offered care and made room for visitors to explore the forest. News of other survivors reached the cottage, and the admiral promised to inquire after Stanley's missing father. The High Elf even offered to share memories, though Stanley refused. The station's hospitality was substantial, but neither its knowledge nor its assurances could resolve every wound carried aboard.[^elhandar-first-days]
 
-Its defenses were formidable enough to destroy a threatening pirate vessel. They did not, however, isolate the forest from the powers contesting Earth. The Principle appeared before the visitors, displaying supernatural might and proclaiming his own divinity. His claims did not make him the station's ruler, and his appearance revealed how vulnerable even an apparently sheltered society was to intrusions from the wider world.[^elhandar-principle]
+Its defenses were formidable enough to destroy a threatening pirate vessel. They did not, however, isolate the forest from the powers contesting Earth. The Principal appeared before the visitors, displaying supernatural might and proclaiming his own divinity. His claims did not make him the station's ruler, and his appearance revealed how vulnerable even an apparently sheltered society was to intrusions from the wider world.[^elhandar-principle]
 
 #### A refuge becomes a community
 
-The forest was spacious enough for displaced tieflings to make a settlement of their own. In a clearing of cabins gathered around a well, Nobieri, Emenil and their neighbors tried to establish something more enduring than temporary shelter. Hope returned to Elhandar alongside Nash and later addressed these survivors, naming their new home **[the Harbor](the-harbor.md)**. Not all accepted the vision: one family departed. Elhandar could offer safety and ground on which to rebuild, but it could not erase Tietkalla's rivalries, grief or conflicting loyalties.[^elhandar-hope][^elhandar-harbor]
+The forest was spacious enough for displaced tieflings to make a settlement of their own. In a clearing of cabins gathered around a well, Nobieri, Emenil and their neighbors tried to establish something more enduring than temporary shelter. Hope returned to Elhandar alongside Nash and later addressed these survivors, naming their new home **[the Harbor](the-harbor.md)**. Not all accepted the vision: one family departed. Elhandar could offer safety and ground on which to rebuild, but it could not erase T'ietkalla's rivalries, grief or conflicting loyalties.[^elhandar-hope][^elhandar-harbor]
 
 The station also held more secrets than its welcoming surface suggested. [Omnom Cinderborn](../characters/omnom-cinderborn.md) remained bitter and grievously injured, and Stanley's inherited key revealed an impossible upper study within the lakeside cottage. Its charts, **Book of Adjacencies** and **Mask of Eltanfawr** connected the refuge to questions of planetary travel and the Weir. The father's explanations remained conjecture, but the discovery changed the cottage's significance: this modest family dwelling was not wholly what it seemed.[^elhandar-study]
 
@@ -60,7 +60,7 @@ Ships carrying rescued tieflings, elves and Nash's family have departed toward M
 
 [^elhandar-first-days]: [E115](../../episodes/E115.md). Stanley declines the offered memory sharing; no trance actually transfers memories. The admiral's promise to investigate Stanley's father is not a recovered body/spirit. Reports of Emenil and Omnom precede direct meetings.
 
-[^elhandar-principle]: [E115](../../episodes/E115.md). The pirate vessel's destruction is a witnessed station defense. The Principle physically arrives and performs powers; his assertions of divinity and causing Principal City's destruction are unverified.
+[^elhandar-principle]: [E115](../../episodes/E115.md). The pirate vessel's destruction is a witnessed station defense. The Principal physically arrives and performs powers; his assertions of divinity and causing Principal City's destruction are unverified.
 
 [^elhandar-hope]: [E116](../../episodes/E116.md) · [ASR comparison](../../reports/E116_ASR_COMPARISON_2026-10-23.md). Hope gates Nash from a biodome glade to Dr. Spider's Hell laboratory and physically escorts him back. Steerious Business, Blood Skunk and Dr. Spider stay behind; the wider reunion comes in E117. The Gate requires no completed station teleport circle.
 

@@ -103,26 +103,38 @@ world directory worklist as a `listed_only` baseline; track first-pass completio
 in separate evidence records. See [progress and recovery](references/progress-and-recovery.md).
 
 
-### Mandatory owner-approval stop gate
+### Editorial autonomy and mandatory substantive owner-approval gate
 
-Before **each proposed cleanup edit**, identify the approval authorizing its
-exact scope (current user request or an explicit, still-applicable recorded owner
-decision). The general `$twbd-wastes-cleanup` invocation, a draft plan, a
-suggested chapter crosswalk, and a recorded *proposal* do **not** by themselves
-approve an undecided rewrite, renumbering, new taxonomy, canon assertion, file
-move, deletion, or other material change.
+**Owner clarification (D-047, 2026-10-28): Small edits and spelling changes do
+not require individual approval.** Proceed autonomously with bounded,
+unambiguous, non-substantive corrections in maintained editorial text: typos,
+punctuation, grammar, clearly established canonical spellings (D-044), and
+straightforward reader-facing labels. A batch of small independent fixes is
+allowed; do not turn that into a broad unreviewed rewrite. Classify each
+occurrence by referent, preserve old slugs, aliases, direct source quotations,
+source-facing reports and raw ASR/audio, link targets, footnote IDs, provenance,
+episode knowledge cutoffs and all evidentiary uncertainty. Before edits, check
+live Git state, record the exact paths/intent, preserve working originals,
+apply guarded changes, read back and validate actual deltas. Record the
+standing owner permission as **D-047 / editorial-minor** rather than seeking
+fresh approval for every obvious typo. Do not re-open completed historical
+approval gates just because older reports still describe them.
 
-If the next required edit is **not explicitly approved**, or its approved scope
-is ambiguous, **STOP the cleanup batch before modifying that target and ask the
-owner for clarification/approval**. Present the exact files/subjects affected,
-the proposed edit and alternatives, its evidence, and the relevant unresolved
-decision. Record the blocked operation and pending approval in the journal,
-manifest and progress pointer when those records exist; a metadata-only record
-of the hold is not permission to make the substantive edit. **Do not sidestep
-the hold by choosing a different cleanup edit or silently skipping ahead.**
-Resume only after an explicit decision; do not re-request an approval already
-recorded and still applicable. Read-only investigation needed to explain the
-choice is allowed, provided it changes no unapproved content.
+**Substantive or ambiguous changes still require explicit owner approval:**
+rewriting or relocating scenes, arc/file restructuring, new taxonomy, canon or
+identity adjudication, disputed name referents, altered factual interpretation,
+chronology, endings, source quotations, renamed files or link destinations,
+deletions, and any correction that could change meaning or evidence status.
+The general `$twbd-wastes-cleanup` invocation, a draft plan, a proposed
+crosswalk, or the minor-edit permission does not authorize those changes.
+
+If the next necessary edit **requires approval** and that approval is missing
+or unclear, **STOP before editing that target and request the owner's
+decision**, identifying affected files, proposed alternatives and evidence.
+Record the blocker in the journal/manifest/progress; do not bypass a genuine
+substantive gate by changing other content instead. Read-only investigation
+to characterize the decision is allowed. Do not request approval again when
+it is already recorded and applicable.
 
 ## Phases and exit evidence
 
@@ -139,10 +151,12 @@ page lifecycle are separate; an accepted pilot does not complete its domain.
 | 5 — Research verification | Reuse existing review-queue/ledger issue keys. Prioritize consequential identity, contract, chronology, custody or ending questions. Consult dossiers first and perform only focused ASR/handout/listening work needed. Record actual actions and competing interpretations; never resolve doubt merely to close a batch. |
 | 6 — Integration | Reconcile root/world/narrative navigation, chronology, entity aliases/relationships, queues and ledger. Archive obsolete controls before shortening; retain issue keys and unresolved questions. Verify terminal file dispositions, compatibility links, actual horizons and maintained anchors. Completion requires every applicable gate and explicit evidence limits. |
 
-Phases 3–5 may proceed in linked batches only within **already-approved**
-scopes and satisfied dependencies. Read-only inventory, comparison and discovery
-may prepare an approval decision, but any pending **unapproved edit** invokes
-the mandatory stop gate above; do not continue to another edit instead.
+Phases 3–5 may proceed in linked batches within **D-047 autonomous
+minor-editorial scope**, any other explicitly approved substantive scope, and
+satisfied dependencies. Read-only inventory, comparison and discovery may
+prepare new material decisions; only a **substantive/ambiguous edit needing
+approval** invokes the stop gate above. Routine, unambiguous spelling or
+small non-semantic fixes do **not** create an approval hold.
 
 ## Evidence and editorial invariants
 

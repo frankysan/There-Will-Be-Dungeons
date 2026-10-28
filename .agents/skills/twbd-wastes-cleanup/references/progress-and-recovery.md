@@ -27,12 +27,15 @@ saved, stop dependent edits.
 
 Record last saved time, selected repository root, HEAD and initial Git changes,
 each phase's gate state, active batch path, pending decisions with approval
-references, and ordered remaining work. **Every planned content change must
-identify its explicit owner approval source or be marked `approval-required`.**
+references, and ordered remaining work. **For each planned edit, record either
+the standing D-047 minor-editorial permission or the specific owner approval;
+mark an unapproved substantive/ambiguous change `approval-required`.**
 The next action names the file, operation and prerequisite check, not merely
-"continue Phase 0". An unresolved approval-required edit is a **stop state**,
-not an invitation to select an unrelated edit. Link completed batches
-without copying their details. Future work remains planned, not completed.
+"continue Phase 0". An unresolved **substantive** approval-required edit is
+a stop state, not an invitation to select unrelated material changes. Routine
+unambiguous spelling, grammar and tiny display fixes are **not** stop states.
+Link completed batches without copying their details. Future work remains
+planned, not completed.
 
 ## Grouped world census: per-file recovery contract (owner approved 2026-10-27)
 
@@ -101,13 +104,17 @@ testimony and existing issue keys.
 
 ## Operation protocol
 
-1. **Check explicit edit approval, then write intent.** Identify the owner
-   decision/current request that authorizes the exact proposed edit. If it is
-   unapproved or ambiguous, **stop and request clarification before touching
-   the target**; document the pending choice without proceeding to another
-   cleanup edit. Otherwise persist operation ID, approval source, input hashes,
-   affected paths, prerequisites and next action before a long call or edit.
-   For a census chunk, save its ordered worklist and bounds before scanning.
+1. **Classify the edit permission, then write intent.** Straightforward
+   non-semantic spelling, grammar, punctuation and display-name corrections
+   are authorized by standing owner decision **D-047 (2026-10-28)** and do
+   **not** need individual approval. Check each referent, preserve aliases,
+   historical quotes, filenames/links and uncertain facts; avoid blind
+   replacement. For any **material/ambiguous** change, identify an explicit
+   owner decision/current request. If absent, **stop before that edit** and
+   request clarification instead of substituting unrelated substantive work.
+   Otherwise persist operation ID, D-047 or approval provenance, input
+   hashes, affected paths, prerequisites and next action before long calls
+   or edits. For census chunks, save the ordered worklist and bounds.
 2. **Preserve before replacing.** Copy actual working-copy bytes to
    `research/legacy/<date>/wastes-cleanup/<batch-id>/<repo-path>.original`.
    Read back and compare SHA-256 with the pre-edit file. HEAD is not a substitute
@@ -146,7 +153,8 @@ testimony and existing issue keys.
 | Archive missing/hash mismatch | Stop that page's rewrite. Recover a verifiable actual original or record blocker and choose independent work. Never claim rewritten text as the old original. |
 | Check fails/tool unavailable | Record exact scope/failure. Fix introduced problems where possible; keep missing checks pending and avoid falsely advancing acceptance. |
 | Manifest/pointer write interrupted | Reconstruct from journal and actual artifacts; apply only missing control updates. |
-| Proposed edit has no explicit approval / owner decision pending | **Stop the cleanup batch before that edit**, persist the exact requested choice and supporting evidence, ask the owner for approval or clarification, and do **not** substitute unrelated cleanup edits. Resume only after the decision is recorded. |
+| Routine unambiguous spelling/grammar/display correction | Apply under standing D-047 owner permission after guarded source-hash/archive checks; verify exact delta and preserve quotes, aliases, URLs, referents and uncertainty. No per-edit approval request. |
+| Substantive or ambiguous change has no explicit approval | **Stop before that edit**, persist the exact choice and evidence, request approval/clarification and do not substitute other substantive cleanup edits. Resume after decision is recorded. |
 
 After repeated failure, change approach or reduce the slice instead of blindly
 repeating a call. Preserve failures and recovery outcomes. A batch is complete

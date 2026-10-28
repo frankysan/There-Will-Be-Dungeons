@@ -1,0 +1,44 @@
+{
+  "files": [
+    {
+      "path": "delvers/world/characters/evelyn-grinkeeper.md",
+      "sha256": "6bcf0a867e882dd23cbd33fbdd5dc1887c2edc1c7743ab94a1073d4c806ec612",
+      "original": "research/legacy/2026-10-28/delvers-invitation-cues/delvers/world/characters/evelyn-grinkeeper.md.original"
+    },
+    {
+      "path": "delvers/world/characters/gentleman-cavalier-traveler.md",
+      "sha256": "8378fb556fb1b623865d647607937c13e6cc477e7c525a885161eef21087b7f3",
+      "original": "research/legacy/2026-10-28/delvers-invitation-cues/delvers/world/characters/gentleman-cavalier-traveler.md.original"
+    },
+    {
+      "path": "delvers/world/places/potato-grove.md",
+      "sha256": "e79a2c4cbe8462b1ae322f9d77988519aa479f78681ce7d08ab20d0bc8f120b2",
+      "original": "research/legacy/2026-10-28/delvers-invitation-cues/delvers/world/places/potato-grove.md.original"
+    },
+    {
+      "path": "delvers/narrative/SEASON_THREE.md",
+      "sha256": "e772b43b60966e3a4d105571c1f3b701903919011e82bf709cab15a7617ee280",
+      "original": "research/legacy/2026-10-28/delvers-invitation-cues/delvers/narrative/SEASON_THREE.md.original"
+    },
+    {
+      "path": "delvers/episodes/S3E12.md",
+      "sha256": "433983f261590134f04d235f265372787b57bec0804c85df8d6040752bc3999b",
+      "original": "research/legacy/2026-10-28/delvers-invitation-cues/delvers/episodes/S3E12.md.original"
+    },
+    {
+      "path": "delvers/world/CONSISTENCY_LEDGER.md",
+      "sha256": "af70a403014d0406205d16c805352a92d12f1f558426e75b3cf1c8709f1b6cee",
+      "original": "research/legacy/2026-10-28/delvers-invitation-cues/delvers/world/CONSISTENCY_LEDGER.md.original"
+    },
+    {
+      "path": "delvers/REVIEW_QUEUE.md",
+      "sha256": "abc6877b13e24c73e115b4b3dcbe1792757f6e51513daaa563a52a51aedd0e81",
+      "original": "research/legacy/2026-10-28/delvers-invitation-cues/delvers/REVIEW_QUEUE.md.original"
+    },
+    {
+      "path": "project/DELVERS_CLEANUP_MANIFEST.md",
+      "sha256": "0cb72111e5bab4128afea40ec0f8170ad10764571f31178df27307c256901bf0",
+      "original": "research/legacy/2026-10-28/delvers-invitation-cues/project/DELVERS_CLEANUP_MANIFEST.md.original"
+    }
+  ]
+}

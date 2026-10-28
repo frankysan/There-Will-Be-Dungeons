@@ -1,0 +1,44 @@
+{
+  "files": [
+    {
+      "path": "delvers/world/items/three-urns-triangle-gate.md",
+      "sha256": "f30ebea2d130a03f580292f23b33ed4ff576eb5ea1b50f92ea843285b46d6bc7",
+      "original": "research/legacy/2026-10-28/delvers-blue-vessel-cues/delvers/world/items/three-urns-triangle-gate.md.original"
+    },
+    {
+      "path": "delvers/world/places/dawnless-dunes-pyramid.md",
+      "sha256": "8cca61636cc3e0e7a515b79ce35a6810908a1da4f3277604ee912392b92b263f",
+      "original": "research/legacy/2026-10-28/delvers-blue-vessel-cues/delvers/world/places/dawnless-dunes-pyramid.md.original"
+    },
+    {
+      "path": "delvers/episodes/S3E11.md",
+      "sha256": "d0509354b1520be23731e58ead5fedbb7c7af91e683013b5665ea69e25baf03c",
+      "original": "research/legacy/2026-10-28/delvers-blue-vessel-cues/delvers/episodes/S3E11.md.original"
+    },
+    {
+      "path": "delvers/episodes/S3E12.md",
+      "sha256": "5910a1477aa66265c32a15e4b1e40ab4e7aacfff79eaaeb0c38004e2684f61b9",
+      "original": "research/legacy/2026-10-28/delvers-blue-vessel-cues/delvers/episodes/S3E12.md.original"
+    },
+    {
+      "path": "delvers/world/CONSISTENCY_LEDGER.md",
+      "sha256": "201629576ed89e2e986a18ae569a296765305ec482cd017d64e8a6c6ee2c3bf2",
+      "original": "research/legacy/2026-10-28/delvers-blue-vessel-cues/delvers/world/CONSISTENCY_LEDGER.md.original"
+    },
+    {
+      "path": "delvers/REVIEW_QUEUE.md",
+      "sha256": "1be527aabb265f4e9dfa7603edddff73d15ca3546aafb9a1c50ee497a4b00f57",
+      "original": "research/legacy/2026-10-28/delvers-blue-vessel-cues/delvers/REVIEW_QUEUE.md.original"
+    },
+    {
+      "path": "project/DELVERS_CLEANUP_MANIFEST.md",
+      "sha256": "54587c5207414e75f0a17c9ca69f74541b63e513a732b7a31cfc30693db84ffb",
+      "original": "research/legacy/2026-10-28/delvers-blue-vessel-cues/project/DELVERS_CLEANUP_MANIFEST.md.original"
+    },
+    {
+      "path": "reports/DELVERS_EVIDENCE_RECONCILIATION_2026-10-28.md",
+      "sha256": "880b317683ce7d755472d7d000fdfe60e859a3957cf82a9258f9f0ea51990bb3",
+      "original": "research/legacy/2026-10-28/delvers-blue-vessel-cues/reports/DELVERS_EVIDENCE_RECONCILIATION_2026-10-28.md.original"
+    }
+  ]
+}

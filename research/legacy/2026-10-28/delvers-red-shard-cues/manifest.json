@@ -1,0 +1,24 @@
+{
+  "files": [
+    {
+      "path": "delvers/world/items/khalazar-red-crystal.md",
+      "sha256": "443b07b683444be43297ab5dc2d312446850a73855d4cc1564f7a480496218d8",
+      "original": "research/legacy/2026-10-28/delvers-red-shard-cues/delvers/world/items/khalazar-red-crystal.md.original"
+    },
+    {
+      "path": "delvers/world/CONSISTENCY_LEDGER.md",
+      "sha256": "d47e75b331ac97ebca159199f57f0b68f4a00d6cb7b2b53baccc47551f762a35",
+      "original": "research/legacy/2026-10-28/delvers-red-shard-cues/delvers/world/CONSISTENCY_LEDGER.md.original"
+    },
+    {
+      "path": "delvers/REVIEW_QUEUE.md",
+      "sha256": "95f4326fb2ab0444490d4fcd053baac305b7ee85de9b1c7cbc9f1a07a7d91005",
+      "original": "research/legacy/2026-10-28/delvers-red-shard-cues/delvers/REVIEW_QUEUE.md.original"
+    },
+    {
+      "path": "project/DELVERS_CLEANUP_MANIFEST.md",
+      "sha256": "8ffcc5097195ff5d4d43baa343ae652830e73f3b911b3dc1dc39af86d0b5fad0",
+      "original": "research/legacy/2026-10-28/delvers-red-shard-cues/project/DELVERS_CLEANUP_MANIFEST.md.original"
+    }
+  ]
+}

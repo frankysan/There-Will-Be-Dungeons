@@ -2,7 +2,7 @@
 
 ## Introduction
 
-A pale, wormlike animal lives in the caverns beneath [Tietkalla](../places/tietkalla.md). Its long body blends with the white and yellowish mucous coating on the walls. Two broad grey surfaces resemble eyes, while numerous slender tendrils surround its feeding opening.[^appearance]
+A pale, wormlike animal lives in the caverns beneath [T'ietkalla](../places/tietkalla.md). Its long body blends with the white and yellowish mucous coating on the walls. Two broad grey surfaces resemble eyes, while numerous slender tendrils surround its feeding opening.[^appearance]
 
 ## Arc Two — a warning in the dark
 

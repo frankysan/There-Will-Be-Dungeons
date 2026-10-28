@@ -1,0 +1,34 @@
+{
+  "files": [
+    {
+      "path": "delvers/world/characters/darmah-edstream.md",
+      "sha256": "a80c98cc7975f059b5a3a2933ede5fc7eb310fb82b2360022d865d464af510ee",
+      "original": "research/legacy/2026-10-28/delvers-evacuation-cues/delvers/world/characters/darmah-edstream.md.original"
+    },
+    {
+      "path": "delvers/episodes/S3E12.md",
+      "sha256": "b0e0b60ff8b6dca58e718813df7ffc7fce786b958161e427d7cb2e9a33f99add",
+      "original": "research/legacy/2026-10-28/delvers-evacuation-cues/delvers/episodes/S3E12.md.original"
+    },
+    {
+      "path": "delvers/world/CONSISTENCY_LEDGER.md",
+      "sha256": "98f6e510d118ee11c1eb949234142a80118d6ae2cf988d6fa2ee5d4a85e5bf7d",
+      "original": "research/legacy/2026-10-28/delvers-evacuation-cues/delvers/world/CONSISTENCY_LEDGER.md.original"
+    },
+    {
+      "path": "reports/DELVERS_S3E12_ASR_COMPARISON_2026-10-26.md",
+      "sha256": "71e8fb63ca64e77ed4315f82795f78e1c96ff8831aa4ee4f0060818214d66067",
+      "original": "research/legacy/2026-10-28/delvers-evacuation-cues/reports/DELVERS_S3E12_ASR_COMPARISON_2026-10-26.md.original"
+    },
+    {
+      "path": "delvers/REVIEW_QUEUE.md",
+      "sha256": "65bfb327b213859022941e318eff54e8a40de61f2832ecf310a5cabbc70dfef4",
+      "original": "research/legacy/2026-10-28/delvers-evacuation-cues/delvers/REVIEW_QUEUE.md.original"
+    },
+    {
+      "path": "project/DELVERS_CLEANUP_MANIFEST.md",
+      "sha256": "0ee7e9bd6e9e0a5efd57544a361d6798f3f530a56ab3bbb8ef3713538f738c2e",
+      "original": "research/legacy/2026-10-28/delvers-evacuation-cues/project/DELVERS_CLEANUP_MANIFEST.md.original"
+    }
+  ]
+}

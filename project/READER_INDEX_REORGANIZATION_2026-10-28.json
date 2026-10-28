@@ -1,0 +1,514 @@
+{
+  "date": "2026-10-28",
+  "scope": "root/campaign/one-shot/bonus/story/world reader indexes; project material last",
+  "authorization": "Owner explicitly requested campaign separation, a new Wastes overview and narrative/world/lore/history-first index organization",
+  "checked_HEAD": "7f331552a7c87172a18a9b165f258f4b1c036f38",
+  "reader_indexes": [
+    "README.md",
+    "world/README.md",
+    "narrative/README.md",
+    "delvers/README.md",
+    "delvers/narrative/README.md",
+    "delvers/world/README.md",
+    "inverse/README.md",
+    "world/CHARACTERS.md",
+    "world/ANTAGONISTS.md",
+    "world/CREATURES_AND_MONSTERS.md",
+    "world/FACTIONS_AND_POWERS.md",
+    "world/HISTORICAL_EVENTS.md",
+    "world/ITEMS_AND_ARTIFACTS.md",
+    "world/PLACES.md",
+    "delvers/world/CHARACTERS.md",
+    "delvers/world/CREATURES_AND_MONSTERS.md",
+    "delvers/world/PLACES.md",
+    "wastes/README.md",
+    "oneshots/README.md",
+    "bonuses/README.md"
+  ],
+  "new_files": [
+    "wastes/README.md",
+    "oneshots/README.md",
+    "bonuses/README.md"
+  ],
+  "archive_manifest": "research/legacy/2026-10-28/reader-index-reorganization/manifest.json",
+  "changed_markdown": [
+    "README.md",
+    "wastes/README.md",
+    "oneshots/README.md",
+    "bonuses/README.md",
+    "delvers/README.md",
+    "delvers/narrative/README.md",
+    "delvers/world/README.md",
+    "world/README.md",
+    "narrative/README.md",
+    "inverse/README.md",
+    "world/CHARACTERS.md",
+    "world/ANTAGONISTS.md",
+    "world/FACTIONS_AND_POWERS.md",
+    "world/HISTORICAL_EVENTS.md",
+    "world/ITEMS_AND_ARTIFACTS.md",
+    "world/PLACES.md",
+    "delvers/world/CHARACTERS.md",
+    "delvers/world/PLACES.md",
+    "world/CREATURES_AND_MONSTERS.md",
+    "delvers/world/CREATURES_AND_MONSTERS.md",
+    "project/DOCUMENTATION_ARCHITECTURE.md"
+  ],
+  "edits": [
+    {
+      "path": "README.md",
+      "before_sha256": "ec4a6ec449cbd83a58e99818184356bf8029cd57b5f4ecd47c0e6dc151b56ea0",
+      "after_sha256": "72e40010b824722e14cd05b33b5669844d61a518c723b11a1ac7859e7b54cca7",
+      "original": "research/legacy/2026-10-28/reader-index-reorganization/originals/README.md"
+    },
+    {
+      "path": "wastes/README.md",
+      "before_sha256": null,
+      "after_sha256": "fd90039aef48455fb9695bd1cd034823e7bdf2370566eec9b9321f6b2fee6349",
+      "original": null
+    },
+    {
+      "path": "oneshots/README.md",
+      "before_sha256": null,
+      "after_sha256": "68db7096458c4f141050e88b2bcc68618e16aa2bcc11327e7d91b761ed087039",
+      "original": null
+    },
+    {
+      "path": "bonuses/README.md",
+      "before_sha256": null,
+      "after_sha256": "870aa39a255568494ad0a0acf77d1e6eade9cdb7e3913a065777f747a68b4bbc",
+      "original": null
+    },
+    {
+      "path": "delvers/README.md",
+      "before_sha256": "b77857ace3e8008a0fc2f9f66c1bc8594b330b3bc7b5f22e4ffd49f601c7d6a7",
+      "after_sha256": "cd39f551ada9fe8cbeff9860254e1e501cda4c6947f57052884a00b3385fbfbd",
+      "original": "research/legacy/2026-10-28/reader-index-reorganization/originals/delvers/README.md"
+    },
+    {
+      "path": "delvers/narrative/README.md",
+      "before_sha256": "af81cc78c886f4aa9c26e321c0301d2c45eaa5aca6cf0cfa362196542382cf93",
+      "after_sha256": "2cd7472cbc23570fa340319d52454e75bc1d88cffbbd8f9b55cc6305164ad3b7",
+      "original": "research/legacy/2026-10-28/reader-index-reorganization/originals/delvers/narrative/README.md"
+    },
+    {
+      "path": "delvers/world/README.md",
+      "before_sha256": "97a4b3136bea375b528b73389fa9485711d9bf75840d02700dccfc91a5c6aa6b",
+      "after_sha256": "d613ab4df785cf3236c14b6b932c1d9bc36f09b6811fc149fdb27c5365a1c7c0",
+      "original": "research/legacy/2026-10-28/reader-index-reorganization/originals/delvers/world/README.md"
+    },
+    {
+      "path": "world/README.md",
+      "before_sha256": "7d414c29aebf4dd9c190e4cac54f2754bb61e77bb233885c63ff251fde4fa363",
+      "after_sha256": "989f5ae545b24735618952173c30f948a37bdef497d07ecc751d55f5c31edfb6",
+      "original": "research/legacy/2026-10-28/reader-index-reorganization/originals/world/README.md"
+    },
+    {
+      "path": "narrative/README.md",
+      "before_sha256": "f659ee5d730003ff4c282389a39f64faf6409e693b205cf4d0a4788e71c71353",
+      "after_sha256": "163c007666a685312a7064ab2cc436d982a8b54ca7cd7af8f307a8de4199768c",
+      "original": "research/legacy/2026-10-28/reader-index-reorganization/originals/narrative/README.md"
+    },
+    {
+      "path": "inverse/README.md",
+      "before_sha256": "91f926324f7d6468de224b04392306cb49926e944dd92f38862eba4a708eb39b",
+      "after_sha256": "f1b8ff94a318700a374dcbfff221971aa892388f7f84084301f0c5c4c912b25b",
+      "original": "research/legacy/2026-10-28/reader-index-reorganization/originals/inverse/README.md"
+    },
+    {
+      "path": "world/CHARACTERS.md",
+      "before_sha256": "a36b858224d230242f071ad02c22acf6e6c975fac45425d3161bb39a120b3ccc",
+      "after_sha256": "23626f9bf7ed36649043b46865b9b192c96b5a27f34d0f14eddc2a8d3baf5d0f",
+      "original": "research/legacy/2026-10-28/reader-index-reorganization/originals/world/CHARACTERS.md"
+    },
+    {
+      "path": "world/ANTAGONISTS.md",
+      "before_sha256": "f9a0a43ffeaad16098dba15c09cb0192f5cf931f99b24008839ab2b106f0caec",
+      "after_sha256": "ab0939a4524b4a38137c483a61e9f14bcff4946a52b4506407191588101ece94",
+      "original": "research/legacy/2026-10-28/reader-index-reorganization/originals/world/ANTAGONISTS.md"
+    },
+    {
+      "path": "world/FACTIONS_AND_POWERS.md",
+      "before_sha256": "1113ec784879e7ff360f274906f1478772fe17e8fb5396785f74f580c7e69ad5",
+      "after_sha256": "0b5f61e10f589cb49955af7b82b7f8be5dea9d46e99c79354c2b2bd975c67d64",
+      "original": "research/legacy/2026-10-28/reader-index-reorganization/originals/world/FACTIONS_AND_POWERS.md"
+    },
+    {
+      "path": "world/HISTORICAL_EVENTS.md",
+      "before_sha256": "6811ade9aed4d980c917e701f8ad82d93d308a4dbc72e1db69c64dab7bbeab69",
+      "after_sha256": "34dc00b982b6af8c0c91da9bfcaf81bbb804580725d4fff36db70fd8d71a89f5",
+      "original": "research/legacy/2026-10-28/reader-index-reorganization/originals/world/HISTORICAL_EVENTS.md"
+    },
+    {
+      "path": "world/ITEMS_AND_ARTIFACTS.md",
+      "before_sha256": "fdac85682c7a0534047c2b2d8b7337880371145294b6d4849b54053d86748885",
+      "after_sha256": "5aa823541f3eb822b61559fb1df37001f707978f96fb837530510211144493f4",
+      "original": "research/legacy/2026-10-28/reader-index-reorganization/originals/world/ITEMS_AND_ARTIFACTS.md"
+    },
+    {
+      "path": "world/PLACES.md",
+      "before_sha256": "b2d714e14f3e0c2861c7fa61a5c43ad7e806ac5dd97fa0ffb5765ae407ad7e67",
+      "after_sha256": "715f1981c769d5766b6f91b429e12d29174f74d949e157735e303f8331e5992c",
+      "original": "research/legacy/2026-10-28/reader-index-reorganization/originals/world/PLACES.md"
+    },
+    {
+      "path": "delvers/world/CHARACTERS.md",
+      "before_sha256": "9177ac5ca4a7c37eb11c495529067b399989bde76244037f7a066d64b3be1e80",
+      "after_sha256": "675517cca2e135933edb00dec12a98a37b8b064f91144f447678dd4427d38480",
+      "original": "research/legacy/2026-10-28/reader-index-reorganization/originals/delvers/world/CHARACTERS.md"
+    },
+    {
+      "path": "delvers/world/PLACES.md",
+      "before_sha256": "52629c11eba1c779df9454eea78137c379341393a0ec955bcd357de148b8caef",
+      "after_sha256": "21af72a857c45ae107cdf8d2d34450ef6f8440ebf62c5dcf5be2e8e0dae6c869",
+      "original": "research/legacy/2026-10-28/reader-index-reorganization/originals/delvers/world/PLACES.md"
+    },
+    {
+      "path": "world/CREATURES_AND_MONSTERS.md",
+      "before_sha256": "0e3b1d8bd95d6eacc133605f30812c7e40d9d46ebda04c23f0a424e704fb8108",
+      "after_sha256": "2c5e37a7bfeac8f1c6da138960be1a213ee1ef02d7bae08418049c6b2e8587a1",
+      "original": "research/legacy/2026-10-28/reader-index-reorganization/originals/world/CREATURES_AND_MONSTERS.md"
+    },
+    {
+      "path": "delvers/world/CREATURES_AND_MONSTERS.md",
+      "before_sha256": "8a67bd27da560993a248f9fd6d4417a0f8aeb292f1b104b65e6aeeebbc86ea13",
+      "after_sha256": "dc5fe53196162d390fca7ee69bd3a99588b3f2fccf21d4cac753b944331c681a",
+      "original": "research/legacy/2026-10-28/reader-index-reorganization/originals/delvers/world/CREATURES_AND_MONSTERS.md"
+    },
+    {
+      "path": "project/DOCUMENTATION_ARCHITECTURE.md",
+      "before_sha256": "0cc7046bc2f91289860879d534ed9e1734655087c69939514393a055da8f6efe",
+      "after_sha256": "eba803078a0d4d88a8fc6abe3e6be2d54dc304e361b37327a66d3a4441251c8b",
+      "original": "research/legacy/2026-10-28/reader-index-reorganization/originals/project/DOCUMENTATION_ARCHITECTURE.md"
+    },
+    {
+      "path": "scripts/lint-markdown.mjs",
+      "before_sha256": "b8ed9f92ef1abf2518099c9ef75b258be0f105e3a3520c4deee268cfad1211f9",
+      "after_sha256": "8b95d1fbdcea80a672a89012ec05ae750ce605f23997a13cc5fdde842ac6b75f",
+      "original": "research/legacy/2026-10-28/reader-index-reorganization/originals/scripts/lint-markdown.mjs"
+    }
+  ],
+  "bonus_dossiers_indexed": [
+    {
+      "path": "episodes/BONUS-2019-03.md",
+      "title": "BONUS-2019-03 — March 2019 The Year One Q&A!",
+      "sha256": "daae286359f5787d1baa7b270c9af08c92c6c389a225062d0ab421a4c2797ce6"
+    },
+    {
+      "path": "episodes/BONUS-2019-04.md",
+      "title": "BONUS-2019-04 — Bonus Show 01: The First and Last (April 2019)",
+      "sha256": "9b0d35ebfa43ac3a0f6e4dd8a3fb06d6c8e3370a7ed472b5e36660f0cfb304c8"
+    },
+    {
+      "path": "episodes/BONUS-2019-06.md",
+      "title": "BONUS-2019-06 — June 2019 bonus Q&A (spoken May)",
+      "sha256": "5f217e78e3e3a7eaa30255a71ee978ffb21e654a91eb1a1bdb989bec059b69eb"
+    },
+    {
+      "path": "episodes/BONUS-2019-07.md",
+      "title": "BONUS-2019-07 — July 2019 archive bonus Q&A (spoken June 29)",
+      "sha256": "070e3abce9953e6c55ae67ca099ebf43ecf98badd134940c70b5d6e8f88a68cc"
+    },
+    {
+      "path": "episodes/BONUS-2019-08.md",
+      "title": "BONUS-2019-08 — August 2019 public-release bonus (recorded July 27)",
+      "sha256": "b236491c2b5b41cf49773a4b0be024f778739845b2fbd6b460902a5d53a738bc"
+    },
+    {
+      "path": "episodes/BONUS-2019-09.md",
+      "title": "BONUS-2019-09 — September 2019 public-release bonus",
+      "sha256": "45fe4113deb210068ff2a1fddbf9f38b01e10c4d393aa0fcd2698d5527c9f270"
+    },
+    {
+      "path": "episodes/BONUS-2019-10.md",
+      "title": "BONUS-2019-10 — October 2019 public-release bonus",
+      "sha256": "dcc360dfbfb61129689fda67732d9b502da79f78b05e1e29a2ba30fbe02c2370"
+    },
+    {
+      "path": "episodes/BONUS-2019-11.md",
+      "title": "BONUS-2019-11 — November 2019 public-release bonus",
+      "sha256": "0b801f6669f033b3abd99d99804febb40f86370c54a8fd156c58a2c3f1692bc9"
+    },
+    {
+      "path": "episodes/BONUS-2019-12.md",
+      "title": "BONUS-2019-12 — December 2019 public-release bonus Q&A",
+      "sha256": "d33a1644a6602126e78404e2b2859c1b0f8b6700205981dacfbc40e9d177dded"
+    },
+    {
+      "path": "episodes/BONUS-2020-01.md",
+      "title": "BONUS-2020-01 — January 2020 public-release bonus Q&A",
+      "sha256": "5911c10643660ac6344d3fbd036574dd1e22c63b575e56b1f6249e65104ee7ac"
+    },
+    {
+      "path": "episodes/BONUS-2020-02.md",
+      "title": "BONUS-2020-02 — February 2020 public-release cast Q&A",
+      "sha256": "b854616a3720772057d644b09aeed98e70e1dfeea75d88c7401252c5b6bb8be5"
+    },
+    {
+      "path": "episodes/BONUS-2020-03.md",
+      "title": "BONUS-2020-03 — March 2020 public-release cast Q&A",
+      "sha256": "6c6fc830cbffa523eeea870016804a6c42a9d9f97dbcee9f4fe901d0b3975850"
+    },
+    {
+      "path": "episodes/BONUS-2020-04.md",
+      "title": "BONUS-2020-04 — April 2020 public-release cast Q&A",
+      "sha256": "a22407dcdff28624220f3004af6c6375ae00c75e57b960bd740a6f1d296417cf"
+    },
+    {
+      "path": "episodes/BONUS-2020-05.md",
+      "title": "BONUS-2020-05 — May 2020 public-release cast Q&A",
+      "sha256": "c87f7cc120d4716de5c0ffc4dc724bc257bcd76b6a57cef1fd599deac4156eb6"
+    },
+    {
+      "path": "episodes/BONUS-2020-06.md",
+      "title": "BONUS-2020-06 — June 2020 public-release cast Q&A",
+      "sha256": "69193d8aa3515e23b49713c40ca818d421b547abc1a6f234008b74ecdb21183b"
+    },
+    {
+      "path": "episodes/BONUS-2020-07.md",
+      "title": "BONUS-2020-07 — July 2020 public-release Q&A (host says delayed June bonus)",
+      "sha256": "ced0faef701c38867083856b23aacfb649ad9ed724f581375a23148db29985e9"
+    },
+    {
+      "path": "episodes/BONUS-2020-08.md",
+      "title": "BONUS-2020-08 — August 2020 public-release cast Q&A",
+      "sha256": "665f755983309644747890d4c8ed1727b860c7e3e41f30aaade39c36070c8ade"
+    },
+    {
+      "path": "episodes/BONUS-2020-09.md",
+      "title": "BONUS-2020-09 — September 2020 public-release cast Q&A",
+      "sha256": "214dfcff180f7aaefdf3de3c2d5900c947f34d913f3458812b5b3ea64f960b44"
+    },
+    {
+      "path": "episodes/BONUS-2020-10.md",
+      "title": "BONUS-2020-10 — October 2020 public-release cast Q&A",
+      "sha256": "2dc2cba57edf74178781f3e7d7193b7abcfae2a381db91f06b0f2aab76fa0967"
+    },
+    {
+      "path": "episodes/BONUS-2020-11.md",
+      "title": "BONUS-2020-11 — November 2020 public-release cast Q&A",
+      "sha256": "a8bf5cd84f682e08a5624ed78647c4cac2d511c1387478a726e0b2b2862795f7"
+    },
+    {
+      "path": "episodes/BONUS-2021-01.md",
+      "title": "BONUS-2021-01 — January 2021 cast Q&A: Delvers, Inverse and Wastes",
+      "sha256": "ae0b521c0c98f9724b578969d577b36d5674b9980265d8ce33070013731927b0"
+    },
+    {
+      "path": "episodes/BONUS-2021-02.md",
+      "title": "BONUS-2021-02 — February 2021 archive bonus: second January cast Q&A",
+      "sha256": "01d93543e95df36ab3e0250f6b0beae5b209596b1a6f6853ad78748b2505eacc"
+    },
+    {
+      "path": "episodes/BONUS-2021-03.md",
+      "title": "BONUS-2021-03 — March 2021 supporter Q&A",
+      "sha256": "4e5bd9e6cd3d30d9fc4e1ecc6797a1ffdf0288ac6035d10113da74d526235642"
+    },
+    {
+      "path": "episodes/BONUS-2021-04.md",
+      "title": "BONUS-2021-04 — April 2021 supporter Q&A",
+      "sha256": "241421dd718878d5fd5ec94b16c04fd867c967ab148d97594da801fc115ec9a8"
+    },
+    {
+      "path": "episodes/BONUS-2021-05.md",
+      "title": "BONUS-2021-05 — May 2021 supporter Q&A",
+      "sha256": "b3c5eab32bef9095b3b51336bfb683c5bb6e3589d43dcae6e362f75adc2378a0"
+    },
+    {
+      "path": "episodes/BONUS-2021-06.md",
+      "title": "BONUS-2021-06 — June 2021 supporter Q&A",
+      "sha256": "9debf458e0de8d6bba11956550e9fd24506ba980ad96cc00a5e8e9a05a3ed2cf"
+    },
+    {
+      "path": "episodes/BONUS-2021-08.md",
+      "title": "BONUS-2021-08 — August 2021 supporter Q&A",
+      "sha256": "198bc6c92c2cf263bbe09390fcae4634410b99152d105ecafcb04b493f79f930"
+    },
+    {
+      "path": "episodes/BONUS-2021-09.md",
+      "title": "BONUS-2021-09 — September 2021 cast Q&A",
+      "sha256": "96ac6aeb8a61355612eb44ebf06419e92ad68d1df0dbd75dbbcb89a9269dd247"
+    },
+    {
+      "path": "episodes/BONUS-2021-11-10.md",
+      "title": "BONUS-2021-11-10 — “November 2021” file, internally called October 2021 bonus",
+      "sha256": "99df1a95bb521adca9bee9406a9b8959162950afbd60bb6e15b3b8558512e2e6"
+    },
+    {
+      "path": "episodes/BONUS-2021-11-13.md",
+      "title": "BONUS-2021-11-13 — November 2021 Delvers finale retrospective and Wastes handoff",
+      "sha256": "3fc2f8a9e759316259e6f5db9abbf07de9698cdf3285d290703892425a38f48f"
+    },
+    {
+      "path": "episodes/BONUS-2021-12.md",
+      "title": "Bonus 2021-12 — December 2021: creator Q&A and character-development discussion",
+      "sha256": "974f10e03d116a106fdba6d3f7557a3d1797905bd97befcec5d8c6392b562675"
+    },
+    {
+      "path": "episodes/BONUS-2022-02.md",
+      "title": "Bonus 2022-02 — February 2022: creator Q&A, game design and Zorander's Fist",
+      "sha256": "ff09e383cdc6fc1198a913b8ccc9aba9390f38e9485f23ca92649da154992328"
+    },
+    {
+      "path": "episodes/BONUS-2022-03.md",
+      "title": "Bonus 2022-03 — March 2022: lycanthropy, ability loss, DM nerves and flowers",
+      "sha256": "3a5e76c505ffa52a2a939361fad0d6f24ab56349d3dcccfd2066109c0fa53e22"
+    },
+    {
+      "path": "episodes/BONUS-2022-04.md",
+      "title": "BONUS-2022-04 — April 2022: character choices, continuity corrections and the fragile dragon heart",
+      "sha256": "0a596158778409a4cb8bb4b65f88c908baee3ea4cfbc698f03d65b0066d077d1"
+    },
+    {
+      "path": "episodes/BONUS-2022-05.md",
+      "title": "BONUS-2022-05 — May 2022: the heart's weaknesses, the Principle's Hand contract and Vorel's legacy",
+      "sha256": "fd2433279cda9c81520c106a1e089f63d520ec74803bd0993e1b7214768cd674"
+    },
+    {
+      "path": "episodes/BONUS-2022-07.md",
+      "title": "BONUS-2022-07 — July 2022: titles, campaign futures, Vorel's levels, Stanley's speeches and Diontalus's past",
+      "sha256": "7653a89792af4c7aeb98c944957f6bc907a8922cc6164111a3744c3681492054"
+    },
+    {
+      "path": "episodes/BONUS-2022-08.md",
+      "title": "BONUS-2022-08 — August 2022: dice, possible future campaigns, Nash's former dragon heart, and character movie hypotheticals",
+      "sha256": "57323c9e24876405426e061bb620c0419ba6ad0b9a8addbfd2faa2edc1592b06"
+    }
+  ],
+  "listening": "deferred; no audio/recognizer work",
+  "status": "complete; reader-first campaign and subject indexes validated",
+  "validation": {
+    "status": "passed",
+    "reader_indexes": 20,
+    "reader_indexes_reachable_from_root": 20,
+    "new_portals": 3,
+    "category_directories_with_verbatim_rows": 11,
+    "verbatim_directory_table_lines": 319,
+    "prior_heading_targets_preserved": 69,
+    "non_root_index_link_targets_preserved": true,
+    "Inverse_original_story_source_and_credit_rows_preserved": true,
+    "bonus_dossiers_indexed_and_unchanged": 37,
+    "archived_originals": 19,
+    "rebased_reading_copies": 18,
+    "active_local_links_checked": 1017,
+    "active_external_links_not_fetched": 0,
+    "archive_local_links_checked": 1093,
+    "archive_link_findings": [],
+    "markdownlint": {
+      "maintained_files": 21,
+      "violations": 0,
+      "archive_reading_copies": {
+        "files": 19,
+        "violations": 0
+      }
+    },
+    "lint_directory_registration": "inverse, wastes, oneshots and bonuses included; 21 changed Markdown files and all four existing Inverse dossiers passed targeted lint",
+    "lint_script_syntax": "passed",
+    "scoped_git_diff_check": "passed",
+    "whole_repository_audit": "not performed",
+    "audio_review": "not performed; deferred"
+  },
+  "layout_refinement": "Project-only sections nested beneath a final Sources and project notes heading; old category policy blocks moved into that footer; duplicate blank lines removed.",
+  "index_order_checks": [
+    {
+      "path": "README.md",
+      "story_before_project_footer": true,
+      "heading_anchors_preserved": true
+    },
+    {
+      "path": "world/README.md",
+      "story_before_project_footer": true,
+      "heading_anchors_preserved": true
+    },
+    {
+      "path": "narrative/README.md",
+      "story_before_project_footer": true,
+      "heading_anchors_preserved": true
+    },
+    {
+      "path": "delvers/README.md",
+      "story_before_project_footer": true,
+      "heading_anchors_preserved": true
+    },
+    {
+      "path": "delvers/narrative/README.md",
+      "story_before_project_footer": true,
+      "heading_anchors_preserved": true
+    },
+    {
+      "path": "delvers/world/README.md",
+      "story_before_project_footer": true,
+      "heading_anchors_preserved": true
+    },
+    {
+      "path": "inverse/README.md",
+      "story_before_project_footer": true,
+      "heading_anchors_preserved": true
+    },
+    {
+      "path": "world/CHARACTERS.md",
+      "story_before_project_footer": true,
+      "heading_anchors_preserved": true
+    },
+    {
+      "path": "world/ANTAGONISTS.md",
+      "story_before_project_footer": true,
+      "heading_anchors_preserved": true
+    },
+    {
+      "path": "world/CREATURES_AND_MONSTERS.md",
+      "story_before_project_footer": true,
+      "heading_anchors_preserved": true
+    },
+    {
+      "path": "world/FACTIONS_AND_POWERS.md",
+      "story_before_project_footer": true,
+      "heading_anchors_preserved": true
+    },
+    {
+      "path": "world/HISTORICAL_EVENTS.md",
+      "story_before_project_footer": true,
+      "heading_anchors_preserved": true
+    },
+    {
+      "path": "world/ITEMS_AND_ARTIFACTS.md",
+      "story_before_project_footer": true,
+      "heading_anchors_preserved": true
+    },
+    {
+      "path": "world/PLACES.md",
+      "story_before_project_footer": true,
+      "heading_anchors_preserved": true
+    },
+    {
+      "path": "delvers/world/CHARACTERS.md",
+      "story_before_project_footer": true,
+      "heading_anchors_preserved": true
+    },
+    {
+      "path": "delvers/world/CREATURES_AND_MONSTERS.md",
+      "story_before_project_footer": true,
+      "heading_anchors_preserved": true
+    },
+    {
+      "path": "delvers/world/PLACES.md",
+      "story_before_project_footer": true,
+      "heading_anchors_preserved": true
+    },
+    {
+      "path": "wastes/README.md",
+      "story_before_project_footer": true,
+      "heading_anchors_preserved": false
+    },
+    {
+      "path": "oneshots/README.md",
+      "story_before_project_footer": true,
+      "heading_anchors_preserved": false
+    },
+    {
+      "path": "bonuses/README.md",
+      "story_before_project_footer": true,
+      "heading_anchors_preserved": false
+    }
+  ]
+}

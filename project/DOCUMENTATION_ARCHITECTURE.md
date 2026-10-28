@@ -8,6 +8,12 @@ The first research pass added episode-group appendices to `world/*.md` and the r
 
 Our goal is **one clear reader-facing account per purpose**, with linked evidence and without deleting the working research.
 
+## Project-wide reader-first entry order (D-048, 2026-10-28)
+
+The owner’s newly reworked index/README overviews now set the presentation standard **for every campaign and all future reader-facing work**: **story and world first, then lore/history, with sources, transcription state, production and project maintenance last or in footnotes**. For README and navigation indexes, use a final **Sources and project notes** section after all story/lore routes; for ordinary in-universe world subjects, finish narrative with **Current status / Lasting legacy** and place supporting source apparatus in footnote definitions. The research layer remains source-first by design. Do not turn the absence of a public image embed into deletion of its production history, and **do not restore** the removed Fate 4/Dusthill illustrations by automation. [Binding standard](READER_FIRST_PRESENTATION.md) · [D-048](DECISIONS.md).
+
+The archive's separate research, world, narrative and editorial-control layers **remain valid**; this directive changes how readers enter and traverse those layers, not their evidence or canon. Migrate pre-existing exceptions in bounded preserved batches; do not declare all existing documents conformant.
+
 ## Four document layers
 
 | Layer | Primary purpose | Canonical location | Source/status rule |
@@ -30,7 +36,7 @@ Our goal is **one clear reader-facing account per purpose**, with linked evidenc
 
 ## Canonical pages, transitional pages and archives
 
-- **Immediate reader entry points**: repository [README](../README.md), [narrative index](../narrative/README.md), completed [Arcs One–Five](../narrative/ARC_ONE.md), ongoing [Arc Six — Seasons Two–Three](../narrative/ARC_SIX.md), and [world index](../world/README.md).
+- **Immediate reader entry points:** the repository [campaign directory](../README.md), dedicated [Wastes](../wastes/README.md), [Delvers](../delvers/README.md) and [Inverse](../inverse/README.md) overviews, [one-shot directory](../oneshots/README.md) and [bonus-discussion index](../bonuses/README.md). Each campaign leads to its own available narratives, world/lore references and history; its project material follows those reading routes.
 - **Episode-specific research entry point**: `episodes/E###.md`, with `episodes/BONUS-2019-03.md` under its own namespace. Keep time-code tables and doubts here even if a world fact is later resolved.
 - **World reference status**: `world/README.md` now exposes seven reader-oriented categories; `CHARACTERS.md`, `PLACES.md` and `WORLD.md` are concise indexes/thematic overviews, linking to detailed profiles in `world/characters/`, `world/places/` and `world/technology/`. Antagonists, artifacts, factions and historical events have their own topical indexes; `CHRONOLOGY.md` retains the **single episode-ordered E000–E128 Season One main-party timeline** (with E127 separately classified). The longer E118-era working versions of the three rewritten files are frozen in [the 2026-10-22 research archive](../research/legacy/2026-10-22/README.md), with links rebased. Earlier compendia remain in `research/legacy/2026-10-21/`; the E081-era history, chronology, ledger and review-queue archival snapshots are also retained. Nothing here implies audio verification.
 - **Historical long-form README inventories** are copied into `research/legacy/2026-10-21/` before replacing their index pages. They are historical research snapshots; the new indexes and arc narrative are the preferred reading experience. Git history retains every original text revision.
@@ -80,6 +86,14 @@ sources/                          Original/processed transcription material
 ```
 
 Prefer **stable descriptive slugs**. A subject has one authoritative page and can be linked from several category indexes. **Stanley and Diontalus are distinct pages**: `world/characters/stanley-billings.md` is the canonical Stanley biography; `world/characters/diontalus.md` owns the archfey's agency, crimes and unresolved E059 crystal fate; `world/characters/stanley-diontalus.md` is only a backward-compatible navigation page; index entries should not duplicate the biography. New categories should be introduced only when they solve an actual navigation problem.
+
+## Reader-facing index order
+
+**Owner direction, 2026-10-28:** all reader-facing campaign, narrative and world indexes lead with the story, world, lore and history. Begin with a concise description of what the reader can explore, then provide narrative reading order, subject directories and historical routes as appropriate. Keep independent campaigns and standalone adventures clearly separated; a same-world prequel or one-shot retains its documented relationship without being inserted into the main-party sequence.
+
+Put project-specific material at the bottom under **Sources and project notes**: research coverage, source inventories and ASR comparisons, verification limits, cleanup/progress reports, workflows, contributor guidance and implementation plans. Necessary source-keyed tables and footnotes can still support the reader-facing content. Operational ledgers, source inventories and archived indexes retain their own purposes; this order does not turn them into story portals. Preserve existing paths, subject entries and incoming heading anchors when reorganizing an index.
+
+The Wastes overview is a navigation entry point over the existing top-level narrative/world paths, not a directory migration or implementation of its separately approved arc restructuring. Delvers retains its implemented three-arc route. No new fictional continuity follows from sharing a repository.
 
 ## Reference-entry contract
 

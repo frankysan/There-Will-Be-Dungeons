@@ -1,8 +1,6 @@
 # Delvers — characters
 
-Meet the Delvers and the people whose choices shape Atomer's crisis. The profiles follow introduction, development and latest supported condition through the completed campaign. Guest participation, reported appearances and later outcomes retain their own horizons.
-
-Working names and aliases follow the [written-source register](../../reports/DISCORD_SPELLING_2026-10-21.md) where supported; unresolved spellings and identity questions remain in the profiles and [ledger](CONSISTENCY_LEDGER.md). The [chronology](CHRONOLOGY.md) owns the event sequence. See the [integration record](../../reports/DELVERS_CAMPAIGN_INTEGRATION_2026-10-27.md) for this index's reconciliation with canonical profiles.
+Meet the Delvers and the people whose choices shape Atomer's crisis.
 
 | Character | Performer / introduction | Reference |
 | --- | --- | --- |
@@ -86,3 +84,9 @@ These entries retain introductory guild encounters and later reports; names and 
 | [Minotaur Mesa council](places/minotaur-mesa-bone-crypt.md) | Nine speaking council members join Chad Brad in the final rescue. All ten find release as inert bones at the Guild; their skeletal form does not erase their voluntary alliance or separate identities. |
 
 [World portal](README.md) · [Open identity checks](CONSISTENCY_LEDGER.md)
+
+## Sources and project notes
+
+Meet the Delvers and the people whose choices shape Atomer's crisis. The profiles follow introduction, development and latest supported condition through the completed campaign. Guest participation, reported appearances and later outcomes retain their own horizons.
+
+Working names and aliases follow the [written-source register](../../reports/DISCORD_SPELLING_2026-10-21.md) where supported; unresolved spellings and identity questions remain in the profiles and [ledger](CONSISTENCY_LEDGER.md). The [chronology](CHRONOLOGY.md) owns the event sequence. See the [integration record](../../reports/DELVERS_CAMPAIGN_INTEGRATION_2026-10-27.md) for this index's reconciliation with canonical profiles.

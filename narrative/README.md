@@ -1,8 +1,6 @@
 # The Wastes — story guide
 
-The five completed Season One arcs follow Nash, Hope, Stanley and Vorel from Dusthill through E128. **[Arc Six](ARC_SIX.md) is also COMPLETE**, a continuous story across Season Two (12 episodes) and Season Three (18 played episodes). **[S3E18](../episodes/S3E18.md) concludes Arc Six AND The Wastes played campaign**. Following [S3E019 — Round Up](../sources/The%20Wastes%20S3E019.%20The%20Wastes%20Round%20Up.parakeet.processed.srt) is a separate cast roundtable/Q&A, not a seventh arc. **Full campaign spoilers.**[^guide]
-
-**Approved upcoming structure, not yet implemented:** The owner accepted [eleven shorter arcs and their episode boundaries](../project/WASTES_NARRATIVE_CHAPTER_MAPS.md) on 2026-10-27 ([D-045](../project/DECISIONS.md)). The links below remain the **currently available six-arc reading order** while the [migration plan](../project/WASTES_CAMPAIGN_CLEANUP_PLAN.md) completes preservation, scene coverage and compatibility checks. Do not treat the old six-arc layout as the final adopted organization.
+Nash, Hope, Stanley and Vorel travel from Dusthill into a world of ancient machinery, contested power and dangerous bargains. Follow their journey through the six narrative accounts currently available, from their first commissions to the final struggle for Earth. Full campaign spoilers follow.
 
 ## Five completed Season One arcs
 
@@ -20,7 +18,15 @@ The five completed Season One arcs follow Nash, Hope, Stanley and Vorel from Dus
 
 **[Arc Six — The Wastes (Seasons Two–Three)](ARC_SIX.md)** is the **sixth and FINAL played Wastes story arc** (D-042/D-043), unbroken across **S2E01–S2E12 and S3E01–S3E18**. After the Worldbreaker's permanent banishment and Principle's downfall in S3E17, the final [S3E18 — Chrome, Chrome on The Range](../episodes/S3E18.md) **ACTUALLY RESTORES EARTH** using the Rubistic Triangulosphere, closes Earth mana-wave powers, has Monsoon's farewell, reveals Moon Council of Faces, changes Nash to a new chrome Principle and briefly ends his life with lunar facility destruction. Stanley **ACTUALLY BRINGS NASH BACK WITH WISH/TRUE RESURRECTION**; Nash chooses Angelashi/four children on Planet Nash, Vorel returns to rebuild Razakval and gains “Friend,” Hope inherits crown-mask and Fate Six to restore T'ietkalla, and Stanley crosses to Feywild. The last unexplained apparent second Nash scene is a **fictional epilogue sting**, not an open research arc. [Played finale dossier](../episodes/S3E18.md) · [paired ASR audit](../reports/WASTES_S3E18_ASR_COMPARISON_2026-10-27.md); machine-text provisional. **[S3E019 — The Wastes Round Up](../episodes/S3E019.md) is a researched NONPLAYED CAST Q&A/retrospective**, with [paired ASR report](../reports/WASTES_S3E019_ROUNDUP_ASR_COMPARISON_2026-10-27.md); it supplies GM commentary and unused plans but adds no played scenes to this already-complete arc.
 
-## Notes
+[Campaign overview](../wastes/README.md) · [World, lore and history](../world/README.md).
+
+## Sources and project notes
+
+The five completed Season One arcs follow Nash, Hope, Stanley and Vorel from Dusthill through E128. **[Arc Six](ARC_SIX.md) is also COMPLETE**, a continuous story across Season Two (12 episodes) and Season Three (18 played episodes). **[S3E18](../episodes/S3E18.md) concludes Arc Six AND The Wastes played campaign**. Following [S3E019 — Round Up](../sources/The%20Wastes%20S3E019.%20The%20Wastes%20Round%20Up.parakeet.processed.srt) is a separate cast roundtable/Q&A, not a seventh arc. **Full campaign spoilers.**[^guide]
+
+**Approved upcoming structure, not yet implemented:** The owner accepted [eleven shorter arcs and their episode boundaries](../project/WASTES_NARRATIVE_CHAPTER_MAPS.md) on 2026-10-27 ([D-045](../project/DECISIONS.md)). The links below remain the **currently available six-arc reading order** while the [migration plan](../project/WASTES_CAMPAIGN_CLEANUP_PLAN.md) completes preservation, scene coverage and compatibility checks. Do not treat the old six-arc layout as the final adopted organization.
+
+### Notes
 
 [^guide]: Publication order, chronology, chapter structure and source status are retained below. For factual reference, use the [world-reference portal](../world/README.md). The narratives are editorial syntheses of processed ASR research, not audio-verified transcripts. Episode references, transcript uncertainties and retrospective commentary belong in footnotes; the story prose follows events and attributes character testimony. Prior editions: [narrative archive](../research/legacy/2026-10-24/).
 

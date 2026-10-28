@@ -1,0 +1,33 @@
+# Delvers — evidence follow-up reconciliation and remaining gates
+
+**Subsequent follow-up, 2026-10-28:** The [blue-shard/vessel review](DELVERS_BLUE_VESSEL_CUES_2026-10-28.md) completes the next selected-text batch below. Selected material under all ten readiness keys now has follow-up coverage; no issue is resolved. Post-use vessel disposition remains unestablished in the reviewed rite/escape windows, with intervening combat and later inventory not freshly reread. The assessment body below preserves its earlier nine-key checkpoint. Current next operation: S3E12 invitation and S3E09 badge audio-copy/anchor preparation; listening remains pending.
+
+**Date:** 2026-10-28. **Scope:** reconcile five existing readiness groups against their saved context/text follow-ups. No new transcript interpretation, media inspection, private-message reading, listening or ASR metric. This is a current planning assessment, not factual acceptance of the campaign.
+
+## Completed work and remaining scope
+
+The [original readiness assessment](DELVERS_EVIDENCE_READINESS_2026-10-27.md) contains **ten existing keys across five groups**. Each group now has a bounded follow-up, covering **nine keys**. Completed reviews and completed issue resolutions are separate: **all ten keys remain open**. In particular, the blue-shard key was not freshly reviewed in the red-shard pass. Reports and checkpoint statuses are checked here; their source reviews and old automated checks are not rerun.
+
+| Group / existing keys | Completed follow-up | Remaining gate |
+| --- | --- | --- |
+| Written Khalezaar lead — DEL-PREP-007 | [Seven-message context check](DELVERS_KHALEZAAR_CONTEXT_2026-10-28.md) associates the written label with the Season Three story | An explicit referent/type or creator spelling decision is still needed. The context does not authorize normalization to Khalazar or establish a sequel |
+| Badges and urns — DEL-S3E10-002, DEL-S3E11-001 | [Selected S3E09–S3E11 cues](DELVERS_BADGE_URN_CUES_2026-10-28.md) qualify the blanket no-retrieval claim and distinguish urn transfer from bag transfer | Ambiguous badge identity/recipient can be a listening question after local alignment. Missing rebagging or later vessel custody cannot be invented; S3E12 organ use/post-use disposition was not freshly reviewed |
+| Red shard / separate blue shard — DEL-S2E10-006, DEL-S2E11-001, DEL-S3E02-002, DEL-S3E11-004 | [S2E10, S2E11 and S3E02 red-shard cues](DELVERS_RED_SHARD_CUES_2026-10-28.md) cover the first three keys, retaining the recurrence gap | DEL-S3E11-004 blue-shard collection was excluded from that pass. Inspect its own paired window; do not connect the colors by assumption. Audio wording cannot create a reverse handoff or exact fragment inventory |
+| Evacuation / Darmah — DEL-S3E12-002, DEL-S3E12-005 | [Selected finale cues](DELVERS_EVACUATION_CUES_2026-10-28.md) separate planning from two actual passages and locate downing near 02:32:53 | A nonduplicated rescued roster requires individually supported members. The reviewed downing-to-escape span supplies no explicit Darmah recovery; later ritual is not a particular healing spell |
+| Invitation / letter — DEL-S3E12-006 | [Closing cinematic cues](DELVERS_INVITATION_CUES_2026-10-28.md) locate the invitation near 02:46:38–02:46:50, preserve Renault/Renald and shared GCT | Aligned listening can check spoken form; authoritative written spelling needs written evidence. No original invitation was inspected. Identity expansion, wedding, reunion and letter contents remain unestablished |
+
+The broad 2026-10-27 horizons are historical search aids. They do not override later exact cues: Darmah's downing is around **02:32:53**, and the invitation around **02:46:38–02:46:50**, preceding the campaign-ending line near **02:46:59**. The later **02:49:11.950** endpoint is an outro bound. Clock values are SRT cues, not calibrated MP3 offsets.
+
+## Ordered next work
+
+1. **Complete the two remaining selected-text scopes as one related batch:** S3E11 blue-shard collection under DEL-S3E11-004, and S3E12 organ installation/post-use vessel disposition under the existing urn-custody group. Locate exact paired cues from the original broad horizons, record each actual window and preserve separate object identities. Stop at what is narrated; absence of a retrieval does not prove destruction or permanent loss.
+2. **Prepare a small listening batch after the text review:** prioritize S3E12 groom-name/signature and S3E09 badge hand-back wording. Check each local audio copy and establish matching anchors before extracting or assigning seek times. The existing [S1E01 anchor pilot](DELVERS_S1E01_ANCHOR_PILOT_2026-10-27.md) supplies machine candidates only; its offsets cannot be applied to another episode. Actual listener confirmation remains pending. This step does not require repeating completed full-export metrics or installing another recognizer merely to obtain agreement.
+3. **Keep written-evidence and missing-scene gates separate:** seek an explicit Khalezaar referent or original invitation only through a located, authorized source; do not rescan private archives without a concrete lead. Preserve the rescue roster, absent recovery/handoff and unperformed wedding limits if no new source supplies them. More listening alone may leave these open.
+
+The premiere alignment work remains open under DEL-PREP-002; introductory names/date, handout attribution and historical character resources retain DEL-PREP-001/003/004/005. DEL-PREP-006 remains text-classified. These are outside this five-group reconciliation, and there is **no next played main episode after S3E12**.
+
+## Preservation and validation
+
+The queue now puts this current action ahead of the preserved dated follow-up paragraphs; their former “next” pointers remain historical records. The cleanup manifest's checkpoint date and the original readiness report's follow-up notice link to this assessment. No subject, episode, ledger or narrative file changes in this pass. Source ASR, audio, private messages, historical metrics and issue IDs remain unchanged.
+
+[Checkpoint](../project/DELVERS_EVIDENCE_RECONCILIATION_2026-10-28.json) records the five input checkpoint hashes, all ten keys, reviewed subsets, actual recorded source windows and validation. [Exact pre-edit originals](../research/legacy/2026-10-28/delvers-evidence-reconciliation/README.md) preserve the three edited tracking records. Targeted Markdownlint, relative links, guarded edits, stable issue rows, protected story-file hashes and scoped whitespace checks are recorded after execution. No whole-repository audit or fresh source validation is claimed.
