@@ -102,6 +102,26 @@ read back all three records and check final Git status. Keep the preserved 134-f
 world directory worklist as a `listed_only` baseline; track first-pass completion
 in separate evidence records. See [progress and recovery](references/progress-and-recovery.md).
 
+**Fresh access preflight at every file-access batch:** Before the first read or
+write of each bounded group of files, each resumed work slice and each batch
+checkpoint, re-evaluate the complete `AGENTS.md` priority **from step 1**:
+local filesystem → workspace MCP → GitHub → Git patch → ZIP. Select the first
+currently viable, revision-correct method; stop checking lower-priority routes
+once one can perform the operation. **Do this even when the prior batch succeeded
+and nothing has failed.** Never carry forward an old MCP outage or access-denied
+finding: if local files are unavailable, probe MCP again at the next batch so
+service recovery is detected automatically.
+
+**Required-write fallback:** On a failed manifest, progress, journal or source
+operation, inspect whether the operation partially persisted and **restart the
+same full priority check at step 1**, rather than assuming a previously failed
+route is still unavailable or silently omitting the write. Safely retry or use
+the first viable route; do not overwrite newer local or uncommitted work with a
+stale remote tree. Verify results and distinguish applied changes from Git
+patches or ZIP bundles requiring manual application. If no method can apply a
+required edit, retain an explicit reconciliation checkpoint and report it as
+pending, never completed. All owner-approval gates still apply.
+
 
 ### Editorial autonomy and mandatory substantive owner-approval gate
 

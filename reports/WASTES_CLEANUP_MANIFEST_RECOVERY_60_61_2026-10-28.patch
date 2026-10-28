@@ -1,0 +1,5 @@
+# OBSOLETE RECOVERY PATCH — DO NOT APPLY
+# The Batch 60 and Batch 61 manifest entries were successfully appended by a uniquely matched MCP edit on 2026-10-28.
+# Verified locations: project/WASTES_CLEANUP_MANIFEST.md, lines 245 and 247.
+# This file is retained only as an audit marker for the earlier failed fallback. It is deliberately NOT a valid Git patch.
+# Applying the former patch could have duplicated already-applied entries.
