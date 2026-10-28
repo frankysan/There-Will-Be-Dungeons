@@ -1,0 +1,14 @@
+{
+  "archive": "research/legacy/2026-10-28/delvers-s3e05-s3e12-pointer-reconciliation/manifest.json",
+  "validation": {
+    "exact_originals": 3,
+    "guarded_operations_verified": 3,
+    "central_task_rows_unchanged": 125,
+    "protected_delvers_files_unchanged": 145,
+    "new_local_links_resolved": 20,
+    "scoped_whitespace": "passed",
+    "lint": "passed; four maintained files and archive README, zero violations",
+    "listening": "deferred"
+  },
+  "resume": "Season Three metadata preflight complete; follow only a concrete remaining cleanup discrepancy"
+}

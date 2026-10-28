@@ -1,6 +1,10 @@
-# Rubistic Triangulosphere (“Ruby”) — completed on Mars in S3E04; Earth deployment still pending
+# Rubistic Triangulosphere (“Ruby”) — activated in S3E18; Earth visibly restored
 
 **The Wastes • introduced as proposal in late Season One, physical unfinished machine encountered in [S2E02](../../episodes/S2E02.md).** Related [Tungsten Wheel](../characters/tungsten-wheel.md) · [Delit Or'Nath's spelljammer](fate-six.md) · [black dragon hearts](nash-dragon-heart.md). **ASR-provisional; no audio or source machine/engineering handout inspected.**
+
+## S3E18 — authorized Earth activation and witnessed planetary restoration
+
+After Nash's completed *Banishment* of the Worldbreaker in [played S3E17](../../episodes/S3E17.md), the Elhandari still guard Ruby in the Solar Mines. In [played S3E18](../../episodes/S3E18.md), Stanley obtains agreement from Nash, Vorel and Hope, orders the device used and receives Amanthalodar's acknowledgment. Its exact physical insertion into Earth's depths is **not separately shown**; the subsequent rain, forests, waterfalls and the end of Earthbound mana-wave spellcasting are **directly witnessed and confirmed by the GM**. Off-world spellcasting still works, and Earth's permanent safety from every threat is unproven.[^ruby-s3e18]
 
 ## S3E15 — still guarded in core, awaiting post-Tarrasque activation
 
@@ -77,3 +81,7 @@ Tungsten Wheel is **actually rescued from Pentel Weiss in S2E12** and travels on
 ## Historical S2E03 cutoff and outstanding checks
 
 As of **S2E03 ending on Mars**, a **real partially constructed device exists in a locked workshop**, but the useful magical part is missing and the machine has **not demonstrated any protective effect**. **Ruby is not complete.** Its required dragon-metal heart's current installation/custody, detailed engineer contract, what physical component is already present, pronunciation of Gluptwarp, identity/location of Blast Belly Rock and Pentel Weiss, and whether any solution exists beyond the claimed recipe remain open. [S2E01](../../episodes/S2E01.md) · [S2E02](../../episodes/S2E02.md) · [two-export text comparison](../../reports/WASTES_S2E02_ASR_COMPARISON_2026-10-26.md).
+
+## Source and archival notes
+
+[^ruby-s3e18]: [S3E17](../../episodes/S3E17.md) shows the Worldbreaker banished before Earth is healed. [S3E18](../../episodes/S3E18.md) shows authorization and environmental effects, not an individually narrated physical insertion. The former title was `# Rubistic Triangulosphere (“Ruby”) — completed on Mars in S3E04; Earth deployment still pending`, an accurate pre-finale status preserved in the verified Batch 77 source archive. The original episode-by-episode statements remain historical observations rather than contradictory present-day claims.

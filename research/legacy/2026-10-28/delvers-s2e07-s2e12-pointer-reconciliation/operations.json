@@ -1,0 +1,34 @@
+{
+  "status": "edits persisted; validation pending",
+  "operations": [
+    {
+      "path": "delvers/episodes/S2E10.md",
+      "before": "Next episode [S2E11 — New High Score](../SOURCE_INVENTORY.md), **unresearched**.",
+      "after": "Historical onward episode [S2E11 — New High Score](../SOURCE_INVENTORY.md); the [existing dossier](S2E11.md) records ASR-provisional research. Current verification remains in the [review queue](../REVIEW_QUEUE.md).",
+      "reason": "Active opening pointer conflicts with the already-present S2E11 dossier; all fictional cutoff text and dated research progress retained."
+    },
+    {
+      "path": "delvers/world/CONSISTENCY_LEDGER.md",
+      "before": "**Next source S3E01 inventoried**, unresearched",
+      "after": "**Historical onward source S3E01**; the [existing dossier](../episodes/S3E01.md) records ASR-provisional research, with source/listening questions still open",
+      "before_row": "| DEL-S2E12-009 | Gala items, memorial and event | **Ball actually underway** in governor's hall; Fallen gallery lists **Elzar Soonish, Bram Broscale, Camerons, Lilia Holmes** (phonetic); dragon skull at auction **NO SALE documented**. **Mack/Church guild Wood League members**, Koh saves them in attack. Krandal's old Mr Goodwine potato spirit trade only a future *proposal*. **Next source S3E01 inventoried**, unresearched |",
+      "after_row": "| DEL-S2E12-009 | Gala items, memorial and event | **Ball actually underway** in governor's hall; Fallen gallery lists **Elzar Soonish, Bram Broscale, Camerons, Lilia Holmes** (phonetic); dragon skull at auction **NO SALE documented**. **Mack/Church guild Wood League members**, Koh saves them in attack. Krandal's old Mr Goodwine potato spirit trade only a future *proposal*. **Historical onward source S3E01**; the [existing dossier](../episodes/S3E01.md) records ASR-provisional research, with source/listening questions still open |",
+      "reason": "Synchronize one stale research-status clause without changing gala facts, proposals or issue state."
+    },
+    {
+      "path": "delvers/REVIEW_QUEUE.md",
+      "before": "### Dated cleanup and verification records\n\n",
+      "after": "### Dated cleanup and verification records\n\n**Remaining Season Two pointer preflight, 2026-10-28:** The [six-dossier metadata check](../reports/DELVERS_S2E07_S2E12_POINTER_RECONCILIATION_2026-10-28.md) found no competing keyed review lists in S2E07–S2E12. Their dated research-progress records remain unchanged. Two stale active pointers are synchronized with existing dossiers: S2E10’s opening to S2E11, and S2E12-009’s onward-source status to S3E01. All 125 central issue rows and all global IDs remain unchanged. No new research, issue closure, chronology finding or listening; further correction requires a concrete discrepancy.\n\n",
+      "reason": "Record completed bounded metadata preflight; task tables remain verbatim."
+    },
+    {
+      "path": "project/DELVERS_CLEANUP_MANIFEST.md",
+      "operation": "append",
+      "appended": "### Independent metadata repair — remaining Season Two onward pointers\n\n[Report](../reports/DELVERS_S2E07_S2E12_POINTER_RECONCILIATION_2026-10-28.md) · [Checkpoint](DELVERS_S2E07_S2E12_POINTER_RECONCILIATION_2026-10-28.json) · [Preserved originals](../research/legacy/2026-10-28/delvers-s2e07-s2e12-pointer-reconciliation/README.md). S2E07–S2E12 have no competing review-ID lists; no routing migration or central task rows are added. Only S2E10’s active S2E11-unresearched pointer and S2E12-009’s S3E01-unresearched clause are synchronized with existing ASR-provisional dossiers. All dated progress, source/story text outside those metadata spans, existing IDs, issue states and the 125 prior central rows remain unchanged. Listening remains deferred; no fresh source analysis or full-campaign audit.\n",
+      "separator": "\n"
+    }
+  ],
+  "new_issue_keys": [],
+  "resolved_issue_keys": [],
+  "new_central_rows": 0
+}

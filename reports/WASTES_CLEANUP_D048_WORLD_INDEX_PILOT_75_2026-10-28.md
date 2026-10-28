@@ -1,0 +1,62 @@
+# Wastes Batch 75 — four-index reader-first structural census
+
+**Date:** 2026-10-28 (Europe/Stockholm). **Type:** bounded **read-only** Phase-0/D-048 structural inventory; no source edits or automatic migration. **Authority:** D-044 orthography, D-045 eleven-arc plan, D-047 editorial-minor scope, D-048 reader-first presentation, `.agents/skills/twbd-wastes-cleanup/SKILL.md` phase/gate rules.
+
+## Fresh repository and access preflight
+
+- Checked all access priorities afresh: direct local repo not mounted in session; authenticated repository workspace MCP available and preferred. GitHub, Git-generated patches, ZIP bundles not required; recheck the entire hierarchy at the start of each file-access batch and after errors.
+- Repository `There Will Be Dungeons Transcripts`, branch `main`, HEAD `0931e909efa66c983119f45c4b77c3d825259f67`. Initial **36 visible working-tree changes and 11 restricted entries**, including outstanding Wastes Batch 73–74 and independent concurrent Delvers work. No resets, staging, commits, pushes or unrelated edits.
+- Current cleanup plan remains phased; D-045 eleven-arc migration is **approved as a structure but not implemented**, and D-048 presentation direction is authorized without granting unapproved canon changes. Prior Batch 74 statically accepted `world/CHARACTERS.md` at SHA-256 `bda85db2e9fb801ab204fcf753a6e48d816eef97fd83b3e1045b8bcf8f176e4b` (not reworked in this batch). Existing historical Phase-0 counts/worklist remain historical unless the relevant path is actually audited.
+- Preflight size/line-budget **284 lines / 64,145 bytes** across four related Wastes world overview/index pages. No source changes planned, hence no new original-byte archive necessary.
+
+## Ordered file worklist
+
+| ID | Exact path | Preflight lines | Bytes | SHA-256 | State |
+| --- | --- | ---: | ---: | --- | --- |
+| W75-1 | `world/WORLD.md` | 60 | 14,080 | `50039772123cbbf237715d614659279c0caf0b9be36116f39243991011e1ff6b` | complete — structural read; stale chronology flagged |
+| W75-2 | `world/PLACES.md` | 71 | 14,582 | `715f1981c769d5766b6f91b429e12d29174f74d949e157735e303f8331e5992c` | complete — structural read; D-048 migration needed |
+| W75-3 | `world/ITEMS_AND_ARTIFACTS.md` | 97 | 22,051 | `e4a42e7262260a4d94131045ecc521f07fffe1a6ad617800c894b4dcbc6730e4` | complete — structural read; final item states pending |
+| W75-4 | `world/ANTAGONISTS.md` | 56 | 13,432 | `ae838ac56f60d7bab9e15e48b8e61e8801a5899053bceebb5f7704ec15cb2dfb` | complete — structural read; source-claims/audio pending |
+
+## Per-file evidence records
+
+### W75-1 — `world/WORLD.md` — COMPLETE (read-only structural)
+
+Full numbered source L1–60 read without gaps; binary source **14,080 bytes**, SHA-256 `50039772123cbbf237715d614659279c0caf0b9be36116f39243991011e1ff6b`. D-048 **reader-first hierarchy structurally PASS** (in-world introduction followed by Earth, society, technology, and cosmology sections; `Sources and project notes` at L45). **55 Markdown URL occurrences / 52 distinct**, 41 relative within `world/`, 14 parent/episode/research links, **target reachability NOT checked**. **6/6** unique matched footnote use/definition pairs, definitions L55–60. No table, article-specific evidence and Q&A uncertainty remain present. Current explicit scope **researched only through E124 at L47**, without later S3E18 restoration; **not current as a completed-campaign account**. Updating world-system consequences to the finale is a meaning-changing status/history addition requiring a separately approved source-backed pass. **Disposition: structural census COMPLETE, D-048 final-campaign content acceptance PENDING**; no source edit.
+
+### W75-2 — `world/PLACES.md` — COMPLETE (read-only structural)
+
+Full L1–71 numbered source read, **14,582 bytes**, SHA-256 `715f1981c769d5766b6f91b429e12d29174f74d949e157735e303f8331e5992c`. Reader-first H1/introduction, principal places, historical/secondary/mobile sites, story routes, closing sources/notes. Three correctly shaped Markdown tables with respectively **21 three-column place entries**, **10 three-column secondary entries**, and **6 intentionally two-column story routes** (not a malformed table). **74 Markdown URL occurrences / 61 distinct**, split 37 relative world/ and 37 parent/episode/research links; **target files NOT checked**. **0 footnotes**, not an orphan error.
+
+**D-048 issue:** Several table descriptions embed exhaustive source-led operational/combat paragraphs (e.g. L12–14, L26 **1,843 characters**, L28–29), rather than brief place identity, inhabitants, historical changes and a source footnote. **Spoiler cutoff explicitly S3E15** despite completed S3E18 ending; the fate of Solar Mines, former Wastes, places affected by Earth restoration cannot safely be rewritten from this earlier cutoff without a scoped source-backed approval. Canonical display **The Principal**, **Principal City**, **Principal's Lands**, **Khaervilon** and **T'ietkalla** do appear, while old slugs and alias strings remain intentionally preserved. **Disposition: Phase-0 structural census COMPLETE; D-048 reader-first and full-campaign content acceptance NEEDS MIGRATION**, source unchanged.
+
+### W75-3 — `world/ITEMS_AND_ARTIFACTS.md` — COMPLETE (read-only structural)
+
+Full L1–97 numbered source read, **22,051 bytes**, SHA-256 `e4a42e7262260a4d94131045ecc521f07fffe1a6ad617800c894b4dcbc6730e4`. Story-oriented opening and `Story-defining objects`, `Other significant possessions`, with `Sources and project notes` at L53. **23 valid three-column major-object rows**, **13 valid two-column secondary-possession rows**, no malformed column lengths. **69 inline Markdown URL occurrences / 53 distinct**, 40 world-relative and 29 parent/episode links; targets **not checked**. **37/37 unique paired evidence notes**, notes located in closing section. The mixed item register retains property/custody/source qualification and is already broadly D-048 reader-first *structurally*, but its explicit **S3E15 research horizon** and object statuses are not the final S3E18 outcome. E.g., `Ruby` is said *not yet activated in Earth's core* at S3E15, contrasting with the S3E18 witnessed restoration; Fate Six, Mask and Henatar guitar descriptions also require a separate current-custody/actual-effect review. Older period-specific evidence should remain dated, not overwritten as a supposed false statement. Updating the **final** states requires a source-backed substantive content pass beyond this read-only inventory. **Disposition: structural census COMPLETE; final-item-status acceptance PENDING, no edits.**
+
+### W75-4 — `world/ANTAGONISTS.md` — COMPLETE (read-only structural)
+
+Full L1–56 numbered source read, **13,432 bytes**, SHA-256 `ae838ac56f60d7bab9e15e48b8e61e8801a5899053bceebb5f7704ec15cb2dfb`. Reader-first H1/introduction, `Recurring threats and political adversaries`, `Dangerous or ambiguous intermediaries` and closing `Sources and project notes` at L32. **14 correct three-column subject entries**, all table rows retain consistent columns. **41 Markdown URL occurrences / 36 distinct**, 29 world-relative and 12 parent/episode links; link reachability **not checked**. **17/17 unique matched footnotes**, with substantial mechanical evidence in closing definitions, not the first screen. Explicitly states **final played S3E18 / S3E019 out-of-game Q&A**; correctly distinguishes Henitar surviving E126 from his **played death after surrender in E128**, and includes late Principal, Soulbroker and Worldbreaker outcomes as retrospective/finale-limited claims. Standalone source-based review, renderer, audio and all-link validation **not performed**. **Disposition: structural census COMPLETE, D-048 ordering structurally PASS; factual/source-level final acceptance pending.** No source edit.
+
+## Bounded inspection protocol
+
+1. For each file, reread exact working hash and complete 1..N numbered lines, record headings, tables, footnote uses/definitions, URLs by in-world vs other paths, spoiler horizon, canonical display forms, main-body D-048 hierarchy, and unresolved meaning-changing or audiovisual status. Track any skipped links/claims explicitly; file-existence is not semantic verification.
+2. Checkpoint each file's `complete` or `blocked` state **after actual reading and validated counts**, rather than implying it from preliminary discovery. No substantive editing, duplicate entity creation, status/chronology rewrite, new schema or structural migration under this read-only pilot.
+3. Group-close with one manifest and one progress update, reread both plus journal and Git status. Preserve concurrent changes. Note any unresolved substantive approval as a future hold on **that change**, not an excuse to fabricate acceptance.
+
+## Batch 75 aggregated validation and disposition
+
+**Four ordered file records COMPLETE for read-only numbered-line coverage:** 60 + 71 + 97 + 56 = **284/284 lines**, exact recorded total **64,145 bytes**. File identity and hashes independently matched the initial preflight. Four file records are structurally inventoried, not newly canon/fact/audio approved, and do not change the historical `134 unique-path` worklist snapshot or claim all unreviewed world pages are complete.
+
+- **Tables:** WORLD has none; PLACES has **21 + 10 three-column rows, 6 two-column routes**; ITEMS has **23 three-column, 13 two-column rows**; ANTAGONISTS has **14 three-column rows**. **All table-shape checks PASS**, with 87 subject/route rows in total. Columns that differ between *separate tables* are intentional.
+- **Markdown links counted, NOT reachability checked:** WORLD 55 (52 distinct); PLACES 74 (61 distinct); ITEMS 69 (53 distinct); ANTAGONISTS 41 (36 distinct). **239 total occurrences**, 202 *per-file distinct counts summed*, which does **not** imply 202 globally unique targets or verified clickable links. In-world versus external-parent path breakdown recorded per file.
+- **Evidence footnotes paired:** WORLD **6/6**, PLACES **0/0**, ITEMS **37/37**, ANTAGONISTS **17/17**. **60/60** referenced IDs paired with definitions across these separate pages. No renderer/footnote click-through tested.
+- **D-048 structural assessment:** WORLD and ANTAGONISTS have reader-first thematic content and final project notes. ITEMS has compact index summaries, source-detailed evidence notes, final project notes. PLACES has a reader-led intro and final notes, but several *main table cells* still contain large episode-style tactical/technical recaps and need a **presentation migration**.
+- **Knowledge/finality:** WORLD says **researched E124**, PLACES **S3E15**, ITEMS **S3E15**. These are honest historical research-cutoff statements, but **not final-campaign current conditions**. The final played campaign ends at **S3E18**; ANTAGONISTS explicitly acknowledges it. Any later status/chronology updates must distinguish contemporaneous notes from final outcomes, be backed by source dossiers, and receive **specific owner authorization** where meaning-changing under D-047. D-044 name spellings and legacy URL preservation continue to apply.
+- **Unperformed for all four:** independent full outbound file-target checks, incoming backlinks/anchors, Markdown rendering, Markdownlint, Git whitespace diff, original audio/listening, full source-to-claim fact validation, and broad checks.
+
+**Disposition:** **Batch 75 phase-0 four-index structural census COMPLETE, no world source edits**. These files are *not globally D-048/finale accepted* based on a structural census. The remaining highest-impact work is a source-preserving **E124/S3E15 → final S3E18 content-status reconciliation** (WORLD, PLACES, ITEMS), and a PLACES reader-first compression pass preserving the existing detailed operational reports in footnotes. This requires a bounded substantive decision (not silently inherited from Henitar/Tungsten approval). No commit or push.
+
+**Next Batch 76 (recommended):** inspect and write an exact source-to-final-scene reconciliation plan for `world/ITEMS_AND_ARTIFACTS.md` (Ruby activation, Fate Six, Mask, custody) and `world/WORLD.md` (Earth healing), using S3E17/S3E18 + existing object profiles. Request approval before performing meaning-changing source edits; archive byte-exact current versions only when edits are actually authorized. `world/PLACES.md` reader-first migration can follow as a separate large bounded pass. Recheck entire access priority and Git at start.
+
+**Current state:** all four records complete; read-only; no source edits.

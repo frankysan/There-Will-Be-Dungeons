@@ -1,0 +1,46 @@
+{
+  "date": "2026-10-28",
+  "branch": "main",
+  "head": "0931e909efa66c983119f45c4b77c3d825259f67",
+  "scope": "S3E01-S3E04 metadata only; no repair required",
+  "inspected_files": {
+    "delvers/episodes/S3E01.md": {
+      "sha256": "d801989efc750c5496d36bacf3edd65d2aff1f2d30ea25bb60cfd67e3ab0e321",
+      "bytes": 15830
+    },
+    "delvers/episodes/S3E02.md": {
+      "sha256": "fa7c87a1a282598e15de99db378c1178f2068f6c7d261f40b1ddfba9b9d4f99c",
+      "bytes": 20909
+    },
+    "delvers/episodes/S3E03.md": {
+      "sha256": "a154748e50f0733a5e21096119aa503dfa88c7c0d00916156b575d33334ea811",
+      "bytes": 19058
+    },
+    "delvers/episodes/S3E04.md": {
+      "sha256": "8e7ad5561fb8d1313aab99bf23fe910e33196b9d20d25fbf565abb22974af085",
+      "bytes": 18345
+    },
+    "delvers/REVIEW_QUEUE.md": {
+      "sha256": "5184d283f9af9976ce8f27b4fbd8adf05b279f6db13b96c757f6d892e3e98f58",
+      "bytes": 154018
+    },
+    "delvers/world/CONSISTENCY_LEDGER.md": {
+      "sha256": "065bfbde410699ad285b221da51f97fea2dbae0db67e378b0bb24df75be096e6",
+      "bytes": 113103
+    }
+  },
+  "files_created": [
+    "reports/DELVERS_S3E01_S3E04_METADATA_PREFLIGHT_2026-10-28.md",
+    "project/DELVERS_S3E01_S3E04_METADATA_PREFLIGHT_2026-10-28.json"
+  ],
+  "maintained_files_edited": [],
+  "validation": {
+    "report_markdownlint": "passed, zero violations",
+    "new_local_links_resolved": 8,
+    "inspected_files_unchanged": 6,
+    "new_file_whitespace": "passed",
+    "full_repository_checks": "not run; bounded metadata scope"
+  },
+  "listening": "deferred",
+  "resume": "S3E05-S3E08 bounded metadata preflight, only if continuation requested"
+}

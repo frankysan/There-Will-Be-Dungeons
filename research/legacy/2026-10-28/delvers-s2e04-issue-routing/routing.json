@@ -1,0 +1,196 @@
+{
+  "members": [
+    {
+      "episode": "S2E04",
+      "type": "played session documentation",
+      "path": "delvers/episodes/S2E04.md",
+      "status": "routing persisted; validation pending",
+      "heading": "## Audio/listening and review candidates",
+      "old_block": "## Audio/listening and review candidates\n\n| Key | Clock | Open question |\n| --- | --- | --- |\n| DEL-S2E04-001 | 00:00–00:16 | **S2E03 proposed 9:30 p.m. rendezvous versus S2E04 actual midnight entry** (intervening meetup unplayed); Shrugs's **surname spelling Manaspoon**, names of Withers/Atomer, black lamp-snuffing cloud and hoof boots origin |\n| DEL-S2E04-002 | 00:20–00:35 / 02:53–02:58 | **Krandal's two exact improvised Silence rhymes** and **two uses**; vault charge **“six planted” vs “four explode”** discrepancy; possible recording edit |\n| DEL-S2E04-003 | 00:36–00:57 | Enzo's **year 150** prison note, **CROP** letter ordering, mummified kuo-toa, bone blade and private aquamarine (~500 gp) |\n| DEL-S2E04-004 | ~01:01–01:42 | Elemental name **Fern Fueler/Furn Fueller** and actual water/fire outcome (living miniature not dead), Koh's collateral damage |\n| DEL-S2E04-005 | ~01:42–02:09 | **Dewey Liquis** name, water riddle answer, actual **Staff Python transformation** and Koh **projectile psychic blade** flashback |\n| DEL-S2E04-006 | ~02:09–02:35 | **Gale Skyle** and **Slate Cortez Smooths** names, Shrugs temporary unconsciousness and two different Preserve Life restorations |\n| DEL-S2E04-007 | ~02:43–03:01 | **23 jade objects** portable versus big art left; coat-monster witness, gem/vial/music-record custody; conch staff **not proven same as S1E11**, actual destruction and recovered pieces |\n| DEL-S2E04-008 | ~03:00–03:03:08 | Final **escape** vs extra **burn suggestion only**; whether carts' party explicitly receives loot, reward, or heat from Withers (not observed) |\n\n",
+      "new_block": "## Audio/listening and review candidates\n\nCurrent routing follows ledger subjects 001–007; existing dossier 008 retains unshown post-escape follow-through. The [historical-label crosswalk](../../reports/DELVERS_S2E04_ISSUE_ROUTING_2026-10-28.md) preserves earlier meanings and every target. Clocks are uncalibrated and listening remains deferred.\n\n| Key | SRT clock / gate | Review task |\n| --- | --- | --- |\n| DEL-S2E04-001 | ~00:00–00:16 and ~03:00–03:03:08 | Infiltration/cutoff chronology: S2E03’s proposed 9:30 rendezvous versus actual midnight entry, unplayed intervening meetup, Withers/Atomer wording and black lamp-snuffing cloud. Actual entry, vault passage and cart escape are distinct from the previous plan or an observed confrontation with Withers. |\n| DEL-S2E04-002 | ~00:00–00:35 and ~02:53–02:58 | Communication, loans and Silence: hoof boots fitting/origin, borrowed equipment and two mission Bags of Holding; Psychic Whispers membership excludes Krandal, requiring verbal relay. Retain Krandal’s two exact improvised Silence rhymes and two uses, the three distributed scrolls and Evelyn’s unused one. No loan return or final inventory is shown. |\n| DEL-S2E04-003 | ~00:36–00:57 and ~01:01–02:35 | Prison, mechanism and guardians: Enzo/year-150 note, CROP ordering, mummified kuo-toa and bone-blade context. Verify Fern Fueler/Furn Fueller, Dewey Liquis, Gale Skyle and Slate Cortez Smooths names and water-riddle answer. Guardian defeats/key delivery are not deaths; Slate’s lift is not a fought victory. |\n| DEL-S2E04-004 | ~01:01–02:35 | Powers/combat consequences: Fern’s living miniature water/fire outcome, Koh’s collateral damage, actual Staff of the Python transformation and thrown psychic-blade memory/use. Preserve Shrugs’s temporary unconsciousness and the two different Preserve Life restorations. Do not merge the two healing events, infer a fixed unclear blast total or backdate the python into S2E03. |\n| DEL-S2E04-005 | ~00:00–00:16, ~00:36–00:57 and ~02:43–03:01 | Guest/loot/private custody: Shrugs Manaspoon surname, private aquamarine around 500 gold, 23 portable jade objects versus large art left, gems/vials/music-box or record custody. Private stone is not party cash, unappraised objects have no proved total and no post-escape distribution or reward is shown. |\n| DEL-S2E04-006 | ~00:20–00:35 and ~02:43–03:03:08 | Staff/charge/burn ambiguities: conch staff not proved identical to S1E11’s; actual destruction and recovered pieces remain distinct from identity speculation. Preserve six planted versus four exploding charges and the possible recording-edit question without inventing a fixed reconciliation. Koh’s burn suggestion to Fern is not observed ignition at this cutoff. |\n| DEL-S2E04-007 | ~02:43–03:03:08 | Witness and true cutoff: coat-monster witness means the crew is not wholly undetected; all four actually escape. Keep bagging, coat key and cart departure separate from identified incriminating records, item appraisal, official report, payment or loan return, none of which is shown by cutoff. |\n| DEL-S2E04-008 | ~03:00–03:03:08; unshown follow-through | Existing dossier-only post-escape target: whether the cart party explicitly receives or hands over loot, receives a reward or confronts consequences from Withers. These outcomes are not observed here. Preserve this question under existing 008 without allocating an extra ID or importing S2E05’s later fire/settlement into S2E04. |\n\n",
+      "old_tail": "**Next verified source:** [Delvers S2E05 — Shut up, Fruit Loops!](../SOURCE_INVENTORY.md) (not analyzed). **Raw SRT/MP3 unchanged.**\n",
+      "new_tail": "**Historical onward source (already researched):** [Delvers S2E05 — Shut up, Fruit Loops!](../SOURCE_INVENTORY.md). Main-campaign intake is complete through S3E12; use the [current queue](../REVIEW_QUEUE.md) for unresolved verification. This does not import later fire, settlement or debrief events into S2E04.\n",
+      "source_gate": null,
+      "old_rows": [
+        {
+          "key": "DEL-S2E04-001",
+          "clock": "00:00–00:16",
+          "task": "**S2E03 proposed 9:30 p.m. rendezvous versus S2E04 actual midnight entry** (intervening meetup unplayed); Shrugs's **surname spelling Manaspoon**, names of Withers/Atomer, black lamp-snuffing cloud and hoof boots origin"
+        },
+        {
+          "key": "DEL-S2E04-002",
+          "clock": "00:20–00:35 / 02:53–02:58",
+          "task": "**Krandal's two exact improvised Silence rhymes** and **two uses**; vault charge **“six planted” vs “four explode”** discrepancy; possible recording edit"
+        },
+        {
+          "key": "DEL-S2E04-003",
+          "clock": "00:36–00:57",
+          "task": "Enzo's **year 150** prison note, **CROP** letter ordering, mummified kuo-toa, bone blade and private aquamarine (~500 gp)"
+        },
+        {
+          "key": "DEL-S2E04-004",
+          "clock": "~01:01–01:42",
+          "task": "Elemental name **Fern Fueler/Furn Fueller** and actual water/fire outcome (living miniature not dead), Koh's collateral damage"
+        },
+        {
+          "key": "DEL-S2E04-005",
+          "clock": "~01:42–02:09",
+          "task": "**Dewey Liquis** name, water riddle answer, actual **Staff Python transformation** and Koh **projectile psychic blade** flashback"
+        },
+        {
+          "key": "DEL-S2E04-006",
+          "clock": "~02:09–02:35",
+          "task": "**Gale Skyle** and **Slate Cortez Smooths** names, Shrugs temporary unconsciousness and two different Preserve Life restorations"
+        },
+        {
+          "key": "DEL-S2E04-007",
+          "clock": "~02:43–03:01",
+          "task": "**23 jade objects** portable versus big art left; coat-monster witness, gem/vial/music-record custody; conch staff **not proven same as S1E11**, actual destruction and recovered pieces"
+        },
+        {
+          "key": "DEL-S2E04-008",
+          "clock": "~03:00–03:03:08",
+          "task": "Final **escape** vs extra **burn suggestion only**; whether carts' party explicitly receives loot, reward, or heat from Withers (not observed)"
+        }
+      ],
+      "rows": [
+        {
+          "key": "DEL-S2E04-001",
+          "clock": "~00:00–00:16 and ~03:00–03:03:08",
+          "task": "Infiltration/cutoff chronology: S2E03’s proposed 9:30 rendezvous versus actual midnight entry, unplayed intervening meetup, Withers/Atomer wording and black lamp-snuffing cloud. Actual entry, vault passage and cart escape are distinct from the previous plan or an observed confrontation with Withers."
+        },
+        {
+          "key": "DEL-S2E04-002",
+          "clock": "~00:00–00:35 and ~02:53–02:58",
+          "task": "Communication, loans and Silence: hoof boots fitting/origin, borrowed equipment and two mission Bags of Holding; Psychic Whispers membership excludes Krandal, requiring verbal relay. Retain Krandal’s two exact improvised Silence rhymes and two uses, the three distributed scrolls and Evelyn’s unused one. No loan return or final inventory is shown."
+        },
+        {
+          "key": "DEL-S2E04-003",
+          "clock": "~00:36–00:57 and ~01:01–02:35",
+          "task": "Prison, mechanism and guardians: Enzo/year-150 note, CROP ordering, mummified kuo-toa and bone-blade context. Verify Fern Fueler/Furn Fueller, Dewey Liquis, Gale Skyle and Slate Cortez Smooths names and water-riddle answer. Guardian defeats/key delivery are not deaths; Slate’s lift is not a fought victory."
+        },
+        {
+          "key": "DEL-S2E04-004",
+          "clock": "~01:01–02:35",
+          "task": "Powers/combat consequences: Fern’s living miniature water/fire outcome, Koh’s collateral damage, actual Staff of the Python transformation and thrown psychic-blade memory/use. Preserve Shrugs’s temporary unconsciousness and the two different Preserve Life restorations. Do not merge the two healing events, infer a fixed unclear blast total or backdate the python into S2E03."
+        },
+        {
+          "key": "DEL-S2E04-005",
+          "clock": "~00:00–00:16, ~00:36–00:57 and ~02:43–03:01",
+          "task": "Guest/loot/private custody: Shrugs Manaspoon surname, private aquamarine around 500 gold, 23 portable jade objects versus large art left, gems/vials/music-box or record custody. Private stone is not party cash, unappraised objects have no proved total and no post-escape distribution or reward is shown."
+        },
+        {
+          "key": "DEL-S2E04-006",
+          "clock": "~00:20–00:35 and ~02:43–03:03:08",
+          "task": "Staff/charge/burn ambiguities: conch staff not proved identical to S1E11’s; actual destruction and recovered pieces remain distinct from identity speculation. Preserve six planted versus four exploding charges and the possible recording-edit question without inventing a fixed reconciliation. Koh’s burn suggestion to Fern is not observed ignition at this cutoff."
+        },
+        {
+          "key": "DEL-S2E04-007",
+          "clock": "~02:43–03:03:08",
+          "task": "Witness and true cutoff: coat-monster witness means the crew is not wholly undetected; all four actually escape. Keep bagging, coat key and cart departure separate from identified incriminating records, item appraisal, official report, payment or loan return, none of which is shown by cutoff."
+        },
+        {
+          "key": "DEL-S2E04-008",
+          "clock": "~03:00–03:03:08; unshown follow-through",
+          "task": "Existing dossier-only post-escape target: whether the cart party explicitly receives or hands over loot, receives a reward or confronts consequences from Withers. These outcomes are not observed here. Preserve this question under existing 008 without allocating an extra ID or importing S2E05’s later fire/settlement into S2E04."
+        }
+      ],
+      "crosswalk": [
+        {
+          "old_key": "DEL-S2E04-001",
+          "current_keys": [
+            "DEL-S2E04-001",
+            "DEL-S2E04-002",
+            "DEL-S2E04-005"
+          ],
+          "episode_wide_source_gate": false
+        },
+        {
+          "old_key": "DEL-S2E04-002",
+          "current_keys": [
+            "DEL-S2E04-002",
+            "DEL-S2E04-006"
+          ],
+          "episode_wide_source_gate": false
+        },
+        {
+          "old_key": "DEL-S2E04-003",
+          "current_keys": [
+            "DEL-S2E04-003",
+            "DEL-S2E04-005"
+          ],
+          "episode_wide_source_gate": false
+        },
+        {
+          "old_key": "DEL-S2E04-004",
+          "current_keys": [
+            "DEL-S2E04-003",
+            "DEL-S2E04-004"
+          ],
+          "episode_wide_source_gate": false
+        },
+        {
+          "old_key": "DEL-S2E04-005",
+          "current_keys": [
+            "DEL-S2E04-003",
+            "DEL-S2E04-004"
+          ],
+          "episode_wide_source_gate": false
+        },
+        {
+          "old_key": "DEL-S2E04-006",
+          "current_keys": [
+            "DEL-S2E04-003",
+            "DEL-S2E04-004"
+          ],
+          "episode_wide_source_gate": false
+        },
+        {
+          "old_key": "DEL-S2E04-007",
+          "current_keys": [
+            "DEL-S2E04-005",
+            "DEL-S2E04-006",
+            "DEL-S2E04-007"
+          ],
+          "episode_wide_source_gate": false
+        },
+        {
+          "old_key": "DEL-S2E04-008",
+          "current_keys": [
+            "DEL-S2E04-001",
+            "DEL-S2E04-006",
+            "DEL-S2E04-007",
+            "DEL-S2E04-008"
+          ],
+          "episode_wide_source_gate": false
+        }
+      ]
+    }
+  ],
+  "new_issue_keys": [],
+  "resolved_issue_keys": [],
+  "ledger_change": {
+    "key": "DEL-S2E04-007",
+    "before_row": "| DEL-S2E04-007 | Witness and true cutoff | **Servant DOES spot Shrugs as pile of coats and yells thieves**, so operation **is not entirely undetected**, though all party members escape. **Koh finds coat key**, four guardians bypassed, many jewels physically bagged, cart flees. **No incriminating records actually identified despite Cassius's stated objective**, no assurance Withers guilty, no official report, no magic-item ID, no paid fee, no loan equipment return; next S2E05 research pending |",
+    "after_row": "| DEL-S2E04-007 | Witness and true cutoff | **Servant DOES spot Shrugs as pile of coats and yells thieves**, so operation **is not entirely undetected**, though all party members escape. **Koh finds coat key**, four guardians bypassed, many jewels physically bagged, cart flees. **No incriminating records actually identified despite Cassius's stated objective**, no assurance Withers guilty, no official report, no magic-item ID, no paid fee, no loan equipment return; the [existing S2E05 dossier](../episodes/S2E05.md) records ASR-provisional research. This onward-source reference is historical; listening/provenance questions remain open |",
+    "before_clause": "; next S2E05 research pending",
+    "after_clause": "; the [existing S2E05 dossier](../episodes/S2E05.md) records ASR-provisional research. This onward-source reference is historical; listening/provenance questions remain open",
+    "reason": "Sync stale S2E05 research-pending status with already-present dossier; no new research or issue resolution."
+  },
+  "queue_sections": [
+    "## S2E04 listening and continuity targets\n\nExisting dossier/ledger targets, with [historical mappings](../reports/DELVERS_S2E04_ISSUE_ROUTING_2026-10-28.md). Listening remains deferred; clocks are uncalibrated. Existing 008 retains post-escape questions, not a presumed later outcome.\n\n| Key | SRT clock / gate | Review task |\n| --- | --- | --- |\n| DEL-S2E04-001 | ~00:00–00:16 and ~03:00–03:03:08 | Infiltration/cutoff chronology: S2E03’s proposed 9:30 rendezvous versus actual midnight entry, unplayed intervening meetup, Withers/Atomer wording and black lamp-snuffing cloud. Actual entry, vault passage and cart escape are distinct from the previous plan or an observed confrontation with Withers. |\n| DEL-S2E04-002 | ~00:00–00:35 and ~02:53–02:58 | Communication, loans and Silence: hoof boots fitting/origin, borrowed equipment and two mission Bags of Holding; Psychic Whispers membership excludes Krandal, requiring verbal relay. Retain Krandal’s two exact improvised Silence rhymes and two uses, the three distributed scrolls and Evelyn’s unused one. No loan return or final inventory is shown. |\n| DEL-S2E04-003 | ~00:36–00:57 and ~01:01–02:35 | Prison, mechanism and guardians: Enzo/year-150 note, CROP ordering, mummified kuo-toa and bone-blade context. Verify Fern Fueler/Furn Fueller, Dewey Liquis, Gale Skyle and Slate Cortez Smooths names and water-riddle answer. Guardian defeats/key delivery are not deaths; Slate’s lift is not a fought victory. |\n| DEL-S2E04-004 | ~01:01–02:35 | Powers/combat consequences: Fern’s living miniature water/fire outcome, Koh’s collateral damage, actual Staff of the Python transformation and thrown psychic-blade memory/use. Preserve Shrugs’s temporary unconsciousness and the two different Preserve Life restorations. Do not merge the two healing events, infer a fixed unclear blast total or backdate the python into S2E03. |\n| DEL-S2E04-005 | ~00:00–00:16, ~00:36–00:57 and ~02:43–03:01 | Guest/loot/private custody: Shrugs Manaspoon surname, private aquamarine around 500 gold, 23 portable jade objects versus large art left, gems/vials/music-box or record custody. Private stone is not party cash, unappraised objects have no proved total and no post-escape distribution or reward is shown. |\n| DEL-S2E04-006 | ~00:20–00:35 and ~02:43–03:03:08 | Staff/charge/burn ambiguities: conch staff not proved identical to S1E11’s; actual destruction and recovered pieces remain distinct from identity speculation. Preserve six planted versus four exploding charges and the possible recording-edit question without inventing a fixed reconciliation. Koh’s burn suggestion to Fern is not observed ignition at this cutoff. |\n| DEL-S2E04-007 | ~02:43–03:03:08 | Witness and true cutoff: coat-monster witness means the crew is not wholly undetected; all four actually escape. Keep bagging, coat key and cart departure separate from identified incriminating records, item appraisal, official report, payment or loan return, none of which is shown by cutoff. |\n| DEL-S2E04-008 | ~03:00–03:03:08; unshown follow-through | Existing dossier-only post-escape target: whether the cart party explicitly receives or hands over loot, receives a reward or confronts consequences from Withers. These outcomes are not observed here. Preserve this question under existing 008 without allocating an extra ID or importing S2E05’s later fire/settlement into S2E04. |\n\n"
+  ],
+  "queue_dated_addition": "**S2E04 routing / S2E05–S2E06 preflight, 2026-10-28:** The [eight-key repair](../reports/DELVERS_S2E04_ISSUE_ROUTING_2026-10-28.md) aligns S2E04 with ledger subjects 001–007 and retains dossier-only 008 for unshown post-escape follow-through. All 117 prior central rows remain intact. Only S2E04-007’s stale onward-research clause changes in the ledger. S2E05/S2E06 have no competing review-ID lists and their dated checkpoints are preserved read-only. No new ID, evidence closure, source reanalysis or listening.\n\n",
+  "manifest_append": "### Independent tracking repair — S2E04, with S2E05/S2E06 read-only preflight\n\n[Crosswalk](../reports/DELVERS_S2E04_ISSUE_ROUTING_2026-10-28.md) · [Checkpoint](DELVERS_S2E04_ISSUE_ROUTING_2026-10-28.json) · [Preserved originals](../research/legacy/2026-10-28/delvers-s2e04-issue-routing/README.md). Eight existing global IDs now have matching dossier/central routes; all 117 earlier rows remain verbatim. Existing dossier 008 retains unshown post-escape follow-through. One stale S2E04-007 onward-research clause follows the already-present S2E05 dossier; other ledger text and all story/source prefixes remain unchanged. S2E05/S2E06 have no competing keyed review lists and stay unchanged as dated checkpoints. No new ID, evidence resolution, source analysis or listening.\n",
+  "read_only_preflight": [
+    {
+      "episode": "S2E05",
+      "result": "No keyed review list; dated Research progress retained unchanged."
+    },
+    {
+      "episode": "S2E06",
+      "result": "No keyed review list; dated Research checkpoint retained unchanged."
+    }
+  ],
+  "status": "routing and shared controls persisted; validation pending"
+}

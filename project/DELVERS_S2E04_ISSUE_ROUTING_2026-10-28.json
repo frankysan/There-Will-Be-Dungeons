@@ -1,0 +1,207 @@
+{
+  "date": "2026-10-28",
+  "campaign": "Delvers",
+  "batch": "delvers-s2e04-issue-routing",
+  "head": "0931e909efa66c983119f45c4b77c3d825259f67",
+  "status": "complete; S2E04 routing repaired, S2E05/S2E06 read-only preflight complete; baseline lint exception retained",
+  "scope": "one confirmed routing repair, one stale onward-source status clause and two read-only preflight members; no fresh source interpretation",
+  "archive_manifest": "research/legacy/2026-10-28/delvers-s2e04-issue-routing/manifest.json",
+  "members": [
+    {
+      "episode": "S2E04",
+      "type": "played session documentation",
+      "status": "complete; editorial, integrity, link and whitespace checks passed; dossier lint passed",
+      "path": "delvers/episodes/S2E04.md",
+      "existing_issue_keys": [
+        "DEL-S2E04-001",
+        "DEL-S2E04-002",
+        "DEL-S2E04-003",
+        "DEL-S2E04-004",
+        "DEL-S2E04-005",
+        "DEL-S2E04-006",
+        "DEL-S2E04-007",
+        "DEL-S2E04-008"
+      ],
+      "ledger_rows_after": [
+        "| DEL-S2E04-001 | Infiltration actually happens | S2E03 only plans 9:30 meeting; **S2E04 ACTUALLY starts 00:00-fictional-midnight entry, blows original locked chamber door, explores basement, upper museum/lower vault, escapes in Allspice's cart**. No generic future-tense as current cutoff. Withers away at party until expected 2am, **returns approaching building** with curtains lighting, not confronting crew |",
+        "| DEL-S2E04-002 | Radio, loans, spell scrolls | **Koh's Psychic Whispers link has Koh, Nasty, Shrugs, Evelyn; Krandal explicitly excluded**, information verbal relay. **Two mission Bags of Holding** carried Koh/Shrugs with unaccounted treasure; **three Scrolls of Silence** distributed: Krandal **actually casts two** (door and final vault), Evelyn's one **unused by cutoff**. **Boots of Elvenkind fitting for hooves completed**, guild loan return **not shown** |",
+        "| DEL-S2E04-003 | Prison past and mechanism | **Old prison history under Withers according to plaque “year 150 / Enzo”**, dried kuo-toa corpse physically present, historical cause **unknown**. **CROP** password derived from capitals in wines, first metal door opened. Fire/water/air/earth machinery guardians names **Fern Fueler, Dewey Liquis, Gale Skyle, Slate Cortez Smooths**, spellings ASR-provisional; **fire/water/air defeated to produce keys but NOT killed; Slate gives lift on found coat key without combat** |",
+        "| DEL-S2E04-004 | New PC powers and combat consequences | **Koh actually throws Soulknife psychic blades** after recovered Snake Island stone snake memory, not only later possibility. **Krandal ACTUALLY summons giant python from Staff of Python in water battle**, distinct from S2E03 staff-mode eye strike. **Krandal 20-gallon Create Water** shrinks but does not extinguish fire guardian. **Shrugs becomes unconscious/0 HP** in air battle, **Krandal Preserve Life heals Shrugs 14 + self 11**, later **Evelyn 19 + self 6**; guest and party leave alive. **Evelyn named “the Unblown”** by air guardian, no formal external title |",
+        "| DEL-S2E04-005 | Guest, loot and private custody | Guest **Shrugs Manaspoon** (surname phonetic), **Brian Dunaway**, skilled dynamite/Flame Tongue and lockpicks; **music box missing disc and dried kuo-toa toe** taken. **Krandal privately pockets ~500-gp aquamarine** from doll, conceals find; not party/guild cash. **Koh physically steals 23 portable jade objects**, large museum sculptures untouched; **Koh/Shrugs bag miscellaneous objects and unappraised gems**, possible stone music disc, black-liquid vials of unverified contents; **no distribution or reward paid** |",
+        "| DEL-S2E04-006 | Conch staff and dynamite ambiguities | Vault has familiar **conch-topped staff** and **bell-covered pants**, **Evelyn actually smashes staff, flattens pants bells**, **Koh bags remnants**. Could be S1E11 collector's ritualist conch staff but **not verified same item/person**. **Final vault charge narration contradicts itself: six sticks planted and four explode**; do not “reconcile” into an invented fixed count. **Koh's suggested burn to Fern after leaving has no observed ignition** |",
+        "| DEL-S2E04-007 | Witness and true cutoff | **Servant DOES spot Shrugs as pile of coats and yells thieves**, so operation **is not entirely undetected**, though all party members escape. **Koh finds coat key**, four guardians bypassed, many jewels physically bagged, cart flees. **No incriminating records actually identified despite Cassius's stated objective**, no assurance Withers guilty, no official report, no magic-item ID, no paid fee, no loan equipment return; the [existing S2E05 dossier](../episodes/S2E05.md) records ASR-provisional research. This onward-source reference is historical; listening/provenance questions remain open |"
+      ],
+      "ledger_rows_unchanged_count": 6,
+      "prefix_byte_identical": true,
+      "headings_preserved": true,
+      "original_newline_format_retained": true,
+      "task_rows_match_central_queue": 8,
+      "historical_targets_mapped": 8,
+      "episode_wide_source_gate_retained": false,
+      "source_windows_reviewed": [],
+      "audio_reviewed": false,
+      "new_ASR_metric": null,
+      "sha256_after": "fc14e353bf2ac298d5980b79caf068ac8707673469a235f8ffaf239d84141f6b"
+    }
+  ],
+  "historical_crosswalks": {
+    "S2E04": [
+      {
+        "old_key": "DEL-S2E04-001",
+        "current_keys": [
+          "DEL-S2E04-001",
+          "DEL-S2E04-002",
+          "DEL-S2E04-005"
+        ],
+        "episode_wide_source_gate": false
+      },
+      {
+        "old_key": "DEL-S2E04-002",
+        "current_keys": [
+          "DEL-S2E04-002",
+          "DEL-S2E04-006"
+        ],
+        "episode_wide_source_gate": false
+      },
+      {
+        "old_key": "DEL-S2E04-003",
+        "current_keys": [
+          "DEL-S2E04-003",
+          "DEL-S2E04-005"
+        ],
+        "episode_wide_source_gate": false
+      },
+      {
+        "old_key": "DEL-S2E04-004",
+        "current_keys": [
+          "DEL-S2E04-003",
+          "DEL-S2E04-004"
+        ],
+        "episode_wide_source_gate": false
+      },
+      {
+        "old_key": "DEL-S2E04-005",
+        "current_keys": [
+          "DEL-S2E04-003",
+          "DEL-S2E04-004"
+        ],
+        "episode_wide_source_gate": false
+      },
+      {
+        "old_key": "DEL-S2E04-006",
+        "current_keys": [
+          "DEL-S2E04-003",
+          "DEL-S2E04-004"
+        ],
+        "episode_wide_source_gate": false
+      },
+      {
+        "old_key": "DEL-S2E04-007",
+        "current_keys": [
+          "DEL-S2E04-005",
+          "DEL-S2E04-006",
+          "DEL-S2E04-007"
+        ],
+        "episode_wide_source_gate": false
+      },
+      {
+        "old_key": "DEL-S2E04-008",
+        "current_keys": [
+          "DEL-S2E04-001",
+          "DEL-S2E04-006",
+          "DEL-S2E04-007",
+          "DEL-S2E04-008"
+        ],
+        "episode_wide_source_gate": false
+      }
+    ]
+  },
+  "ledger_change": {
+    "key": "DEL-S2E04-007",
+    "before_row": "| DEL-S2E04-007 | Witness and true cutoff | **Servant DOES spot Shrugs as pile of coats and yells thieves**, so operation **is not entirely undetected**, though all party members escape. **Koh finds coat key**, four guardians bypassed, many jewels physically bagged, cart flees. **No incriminating records actually identified despite Cassius's stated objective**, no assurance Withers guilty, no official report, no magic-item ID, no paid fee, no loan equipment return; next S2E05 research pending |",
+    "after_row": "| DEL-S2E04-007 | Witness and true cutoff | **Servant DOES spot Shrugs as pile of coats and yells thieves**, so operation **is not entirely undetected**, though all party members escape. **Koh finds coat key**, four guardians bypassed, many jewels physically bagged, cart flees. **No incriminating records actually identified despite Cassius's stated objective**, no assurance Withers guilty, no official report, no magic-item ID, no paid fee, no loan equipment return; the [existing S2E05 dossier](../episodes/S2E05.md) records ASR-provisional research. This onward-source reference is historical; listening/provenance questions remain open |",
+    "before_clause": "; next S2E05 research pending",
+    "after_clause": "; the [existing S2E05 dossier](../episodes/S2E05.md) records ASR-provisional research. This onward-source reference is historical; listening/provenance questions remain open",
+    "reason": "Sync stale S2E05 research-pending status with already-present dossier; no new research or issue resolution."
+  },
+  "new_issue_keys": [],
+  "resolved_issue_keys": [],
+  "listening": "deferred by owner",
+  "read_only_preflight": [
+    {
+      "episode": "S2E05",
+      "result": "No keyed review list; dated Research progress retained unchanged."
+    },
+    {
+      "episode": "S2E06",
+      "result": "No keyed review list; dated Research checkpoint retained unchanged."
+    }
+  ],
+  "validation": {
+    "errors": [],
+    "exact_originals_verified": 4,
+    "existing_issue_keys_retained": 8,
+    "dossier_source_story_prefix_byte_identical": true,
+    "central_rows_before": 117,
+    "central_rows_after": 125,
+    "prior_central_rows_verbatim": 117,
+    "ledger_rows_checked": 7,
+    "ledger_rows_unchanged": 6,
+    "ledger_metadata_clauses_updated": 1,
+    "all_other_ledger_text_unchanged": true,
+    "manifest_append_only_byte_prefix": true,
+    "protected_Delvers_files_unchanged": 144,
+    "protected_files_unchanged": 147,
+    "outside_scope_drift": [],
+    "new_local_links_checked": 30,
+    "rebased_archival_destination_correspondences": 737,
+    "guarded_edits_and_table_widths": "passed",
+    "scoped_whitespace_check": "passed",
+    "markdownlint": {
+      "maintained_files_checked": 5,
+      "maintained_files_without_violations": 4,
+      "baseline_ledger_violations": [
+        {
+          "line": 182,
+          "rule": "MD009",
+          "detail": "Expected: 0 or 2; Actual: 1"
+        }
+      ],
+      "current_ledger_violations": [
+        {
+          "line": 182,
+          "rule": "MD009",
+          "detail": "Expected: 0 or 2; Actual: 1"
+        }
+      ],
+      "baseline_line_unchanged": true,
+      "introduced_violations": 0,
+      "archive_README_violations": 0,
+      "final_report_recheck": "passed after results added"
+    },
+    "rendered_preview": "not performed",
+    "full_repository_audit": "not performed",
+    "read_only_dossiers_unchanged": 2
+  },
+  "next_action": "This demonstrated S2E04 repair are complete after final validation; further maintenance requires a concrete discrepancy. No new main-campaign intake; listening remains deferred.",
+  "editorial_verification": "passed; eight historical/global IDs retained, story prefix preserved, one stale status clause synchronized, dated S2E05/S2E06 checkpoints unchanged",
+  "read_only_file_hashes_after": {
+    "delvers/episodes/S2E05.md": "ae8883aeb53adfec6db3db5884ff94dba983128698575dc56d3c081151ba568c",
+    "delvers/episodes/S2E06.md": "8613785d5f217e1593bf92d6755387be0307c219d66e2e470a28cece67a4acec"
+  },
+  "changed_maintained_files": [
+    "delvers/episodes/S2E04.md",
+    "delvers/REVIEW_QUEUE.md",
+    "delvers/world/CONSISTENCY_LEDGER.md",
+    "project/DELVERS_CLEANUP_MANIFEST.md",
+    "reports/DELVERS_S2E04_ISSUE_ROUTING_2026-10-28.md"
+  ],
+  "changed_file_hashes_after": {
+    "delvers/episodes/S2E04.md": "fc14e353bf2ac298d5980b79caf068ac8707673469a235f8ffaf239d84141f6b",
+    "delvers/REVIEW_QUEUE.md": "460263de3e0bd3685e7ddf18c1814db7948974a721bae9e50c140c572cb06518",
+    "delvers/world/CONSISTENCY_LEDGER.md": "3890b1e74d4ec165e83ad46070a9d707d5979313a09973be30d8e188e30ab788",
+    "project/DELVERS_CLEANUP_MANIFEST.md": "3c3b866964d464d94ab79b21ea00579ec8b929a097e5f43b884bd9eb0f64a160",
+    "reports/DELVERS_S2E04_ISSUE_ROUTING_2026-10-28.md": "c130ddb6e6aa66759ae988167d6565fa54018b6c914770e45a96e0bd099804cb"
+  },
+  "final_HEAD": "0931e909efa66c983119f45c4b77c3d825259f67"
+}

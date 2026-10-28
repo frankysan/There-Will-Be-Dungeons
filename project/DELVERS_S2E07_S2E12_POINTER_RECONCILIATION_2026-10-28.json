@@ -1,0 +1,126 @@
+{
+  "date": "2026-10-28",
+  "campaign": "Delvers",
+  "batch": "delvers-s2e07-s2e12-pointer-reconciliation",
+  "head": "0931e909efa66c983119f45c4b77c3d825259f67",
+  "status": "complete; six metadata preflights and two stale pointers reconciled; baseline lint exception retained",
+  "scope": "six dossier metadata preflights; two stale status spans corrected; no issue-ID migration or source research",
+  "members": [
+    {
+      "episode": "S2E07",
+      "path": "delvers/episodes/S2E07.md",
+      "status": "metadata preflight complete; no keyed review collision",
+      "dated_progress_unchanged": true,
+      "whole_file_unchanged": true,
+      "sha256_after": "ae77f3b2aefa4eead055b33db67e22eec9b25f1c0e7eecbbcf851fbb38717981"
+    },
+    {
+      "episode": "S2E08",
+      "path": "delvers/episodes/S2E08.md",
+      "status": "metadata preflight complete; no keyed review collision",
+      "dated_progress_unchanged": true,
+      "whole_file_unchanged": true,
+      "sha256_after": "551db801db7bcd2281862c5f91b1acbf9f54b3b79b2d4d130dd73987763a449d"
+    },
+    {
+      "episode": "S2E09",
+      "path": "delvers/episodes/S2E09.md",
+      "status": "metadata preflight complete; no keyed review collision",
+      "dated_progress_unchanged": true,
+      "whole_file_unchanged": true,
+      "sha256_after": "efef1dfe2839fc4877b8e1aa4973ccca581d9809f45edd9b0c63cf043cd70fd6"
+    },
+    {
+      "episode": "S2E10",
+      "path": "delvers/episodes/S2E10.md",
+      "status": "metadata preflight complete; no keyed review collision",
+      "dated_progress_unchanged": true,
+      "whole_file_unchanged": false,
+      "sha256_after": "46ff6e52a48255337df80f248b2562632b792887278bc9b463174cdf22d7d6a1"
+    },
+    {
+      "episode": "S2E11",
+      "path": "delvers/episodes/S2E11.md",
+      "status": "metadata preflight complete; no keyed review collision",
+      "dated_progress_unchanged": true,
+      "whole_file_unchanged": true,
+      "sha256_after": "796d1dc27a8c766366c82a3dbfc6949456d6a5b1932f0d26da0e1d02bb2d0316"
+    },
+    {
+      "episode": "S2E12",
+      "path": "delvers/episodes/S2E12.md",
+      "status": "metadata preflight complete; no keyed review collision",
+      "dated_progress_unchanged": true,
+      "whole_file_unchanged": true,
+      "sha256_after": "028863bddc0bb538b4bd38a4880ef4ed4765a8856f1547601df88cb57823c38d"
+    }
+  ],
+  "archive_manifest": "research/legacy/2026-10-28/delvers-s2e07-s2e12-pointer-reconciliation/manifest.json",
+  "operations": "research/legacy/2026-10-28/delvers-s2e07-s2e12-pointer-reconciliation/operations.json",
+  "new_issue_keys": [],
+  "resolved_issue_keys": [],
+  "new_central_rows": 0,
+  "source_windows_reviewed": [],
+  "new_ASR_metric": null,
+  "listening": "deferred by owner",
+  "validation": {
+    "errors": [],
+    "exact_originals_verified": 4,
+    "metadata_substitutions": 2,
+    "all_changed_files_match_exact_guarded_byte_operations": true,
+    "dated_progress_blocks_unchanged": 6,
+    "preflight_dossiers_whole_file_unchanged": 5,
+    "central_rows_before": 125,
+    "central_rows_after": 125,
+    "prior_central_rows_verbatim": 125,
+    "global_ID_sets_unchanged": true,
+    "new_central_rows": 0,
+    "protected_Delvers_files_unchanged": 144,
+    "protected_files_unchanged": 150,
+    "outside_scope_drift": [],
+    "new_local_links_checked": 33,
+    "rebased_archival_destination_correspondences": 743,
+    "scoped_whitespace_check": "passed",
+    "markdownlint": {
+      "maintained_files_checked": 5,
+      "maintained_files_without_violations": 4,
+      "baseline_ledger_violations": [
+        {
+          "line": 182,
+          "rule": "MD009",
+          "detail": "Expected: 0 or 2; Actual: 1"
+        }
+      ],
+      "current_ledger_violations": [
+        {
+          "line": 182,
+          "rule": "MD009",
+          "detail": "Expected: 0 or 2; Actual: 1"
+        }
+      ],
+      "baseline_line_unchanged": true,
+      "introduced_violations": 0,
+      "archive_README_violations": 0,
+      "final_report_recheck": "passed after results added"
+    },
+    "rendered_preview": "not performed",
+    "full_repository_or_full_episode_content_audit": "not performed"
+  },
+  "next_action": "No remaining Season Two review-ID migration found in this bounded preflight; independent correction only for a concrete discrepancy. Listening remains deferred.",
+  "editorial_verification": "passed; all six dated progress blocks, five complete dossier files, all existing task rows and all fictional evidence retained",
+  "changed_maintained_files": [
+    "delvers/episodes/S2E10.md",
+    "delvers/world/CONSISTENCY_LEDGER.md",
+    "delvers/REVIEW_QUEUE.md",
+    "project/DELVERS_CLEANUP_MANIFEST.md",
+    "reports/DELVERS_S2E07_S2E12_POINTER_RECONCILIATION_2026-10-28.md"
+  ],
+  "changed_file_hashes_after": {
+    "delvers/episodes/S2E10.md": "46ff6e52a48255337df80f248b2562632b792887278bc9b463174cdf22d7d6a1",
+    "delvers/world/CONSISTENCY_LEDGER.md": "065bfbde410699ad285b221da51f97fea2dbae0db67e378b0bb24df75be096e6",
+    "delvers/REVIEW_QUEUE.md": "5184d283f9af9976ce8f27b4fbd8adf05b279f6db13b96c757f6d892e3e98f58",
+    "project/DELVERS_CLEANUP_MANIFEST.md": "7aa307f3448a30115ec8d49f1850464ba33e4d1bbb8c0c8343a332e61815070b",
+    "reports/DELVERS_S2E07_S2E12_POINTER_RECONCILIATION_2026-10-28.md": "3e6bc5a0cf037e91e0dbc941d7df8d63a5149287471630deb5bec346b372accf"
+  },
+  "final_HEAD": "0931e909efa66c983119f45c4b77c3d825259f67"
+}

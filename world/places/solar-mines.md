@@ -2,7 +2,7 @@
 
 **Browse:** [Places](../PLACES.md) · [World portal](../README.md)
 
-**Type:** Important origin setting in Nash Maggard's background. **Evidence:** Character statements, retrospective accounts and later research; **not** a fully played historical side adventure. **Spoilers:** Played Wastes through S3E14 (plus identified out-of-game retrospectives).
+**Type:** Important origin setting in Nash Maggard's background. **Evidence:** Character statements, retrospective accounts and later research; **not** a fully played historical side adventure. **Spoilers:** Historical research through S3E15, with this page's specific played S3E18 Ruby outcome and postwar Solar Mines events added; other past history remains ASR-provisional, and out-of-game retrospectives stay separately attributed.[^solar-mines-pre77-scope]
 
 **Nash** describes captivity, survival and resistance connected with the **Solar Mines** and **Blood Canyons**. His descriptions develop across the campaign and include memories that seem contradictory; they should be presented as the state of Nash's own recollections and others' testimony, not a reconstructed omniscient history. His implanted **dragon-metal heart** and later dragon forms are observed, but the exact circumstances of implantation require careful source distinction. [E000](../../episodes/E000.md) · [E024](../../episodes/E024.md) · [Nash](../characters/nash-maggard.md).
 
@@ -13,6 +13,10 @@ In the [September 2020 public-release Q&A](../../episodes/BONUS-2020-09.md), **~
 ## December 2021 creator explanation — missing context, not new reconnaissance
 
 During the [December 2021 bonus ~00:03–00:07](../../episodes/BONUS-2021-12.md), **Beau** says he has intentionally developed a link between **the Principal, Nash's dragon-metal heart and the Solar Mines**. He emphasizes the difference between **what Nash remembers as an exploited child and what the mines actually involved**, leaving unknown aspects to be discovered. Scott says Nash escaped with **one other individual** whose later whereabouts have not been revealed; Scott wonders whether the guards could have since upgraded **Slow Peters**, but **Beau does not confirm any specific upgrades, present garrison or ongoing operating procedures**. These are **out-of-game creator context and player conjecture**, not additional played travel, a newly revealed escapee identity or witnessed past footage. [P/Q audit](../../reports/BONUS_2021-12_ASR_COMPARISON_2026-10-26.md).
+
+## S3E18 — Ruby restoration, Nash's monument and postwar council
+
+In the [played finale S3E18](../../episodes/S3E18.md), Elhandari personnel are still guarding Ruby in the Solar Mines when Stanley secures Nash, Vorel and Hope's agreement and orders the device used. **The insertion itself is not separately depicted**, but Earth's restored rain, forests, growth and waterfalls—and the cessation of Earthbound mana-wave spellcasting—are observed. During the subsequent four-day interval, the survivors **build a stone monument to Nash at Solar Mines** while he is presumed dead; Nash is not shown visiting it. A leaders' council discusses a possible mixed township, the treatment and resettlement of surviving groups, and assigns future work to clear the Clench facility. These proposals are **not evidence that the city was rebuilt, every prisoner freed or the Clench cleared on-screen**.[^solar-mines-s3e18]
 
 ## S3E15 — supplies and Feast; Rubistic Triangulosphere remains securely UNACTIVATED
 
@@ -75,3 +79,8 @@ In his longest newly recorded **in-character recollection** (~00:42–01:05), Na
 He remembers a hidden central dictator called **“Emperor With No Name”**, whose propaganda was announced through speakers but whose identity and continued rule are unverified. The council expects **the Principal** and various factions may have moved there after destruction of Principal City, **a strategic forecast, not a sighting**. Nash suggests rearward *Mold Earth* penetration to distract Slow Peters while forces attack through the mountain pass; **no tunnel constructed yet**. At S2E03 cutoff a projected coalition is mobilizing but no battle is underway. [Source comparison](../../reports/WASTES_S2E03_ASR_COMPARISON_2026-10-26.md).
 
 **Open:** exact geography, chronology of captivity and revolt, historical perpetrators, Nash's lost/alternate memories and the journal's possible time connection. [Ledger](../CONSISTENCY_LEDGER.md).
+
+## Source and historical-scope notes
+
+[^solar-mines-s3e18]: [Final played S3E18](../../episodes/S3E18.md) records the Elhandari core guard and activation order (roughly 00:06–00:16), visible planetary healing (00:16–00:25), and the four-day aftermath, built Nash monument and future council assignments (about 01:20–01:49). Historical accounts of the mines and stated plans are not additional played completed acts.
+[^solar-mines-pre77-scope]: Original metadata preserved verbatim: **Type:** Important origin setting in Nash Maggard's background. **Evidence:** Character statements, retrospective accounts and later research; **not** a fully played historical side adventure. **Spoilers:** Played Wastes through S3E14 (plus identified out-of-game retrospectives).
