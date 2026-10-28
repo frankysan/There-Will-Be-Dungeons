@@ -1,0 +1,42 @@
+# The Wastes — Antagonists D-048 reader-first consolidation, Batch 54
+
+**Date:** 2026-10-28 (Europe/Stockholm). **Authority:** Approved D-048 story-first index presentation, D-047 minor nonsemantic editorial rearrangement; D-044 canonical T'ietkalla spelling retained. No authorization to resolve variant names, motives, infernal affiliations, claims of supernatural resurrection, permanent fates or disputed testimonies. Preserve historical episode horizons and all original link paths.
+
+## Live Git and source checkpoint
+
+Repository `There Will Be Dungeons Transcripts`, branch `main`, HEAD **`8ab9ef682e2f6696711c4770cb25ffe5ce203f76`**; **clean working tree (0 visible changes, 0 restricted)** at start. This differs from the prior Batch 53 working HEAD; use the **actual live committed source** as the baseline, not a guessed previous worktree. No commit or push authorized during this batch.
+
+Full current `world/ANTAGONISTS.md`: **47 numbered lines / 11,553 bytes**, SHA-256 **`4c96093c103e4b4f79edd687166cb41670ff75877608834a70375411631a758e`**, LF; **41 original ordered Markdown link destinations**, **9 paired footnotes**, zero image embeds. Existing story-first heading/order, last `Sources and project notes`, final played Wastes S3E18 and nonplayed S3E019 distinction must remain.
+
+## Five-entry pilot and source qualification
+
+**Before mutation:** archive the exact live UTF-8 source bytes at `research/legacy/ANTAGONISTS_PRE_D048_54_2026-10-28.md`, independently reread SHA and size, then recheck active source SHA. Change **only original L18–22**, replacing each long/production-oriented middle cell with one short story-facing summary plus unique footnote use. Retain entire existing first subject cells and third Markdown reference cells **verbatim**, and copy each original middle evidence cell **verbatim** into five new footnote definitions appended after original last `[^antagonist-soulbroker]` note at L47.
+
+| Original line | Subject | Nonsemantic source-sensitive presentation | Evidence note |
+| --- | --- | --- | --- |
+| 18 | Tylander Sullivan | Involvement in Slavetown/Black Mine and contested ownership, labor and rites; his explanations remain **accounts**, not demonstrated ownership facts | `[^antagonist-tylander]` |
+| 19 | Kefeli / Kepheli (?) | Petrifying throne claimant destroyed E051; ancient genealogy and history stay **disputed** | `[^antagonist-kefeli]` |
+| 20 | General Carthax | Demonic invader kills Squirts in E111, while **a modified Squirts appears later in a different Hell scene E125**; do not imply the E111 death was false or that Carthax was killed | `[^antagonist-carthax]` |
+| 21 | Henitar / Henatar Grape (?) | Three-headed mercenary commander attacks Elhandar, **claims** Gerbken employed him, survives E126 cutoff, and **is killed by Nash after surrender in E128**; guitar and blue-orb details retained in full evidence | `[^antagonist-henitar]` |
+| 22 | Cerinthala | CHIDS-era curse-bearer and betrayer whose last visible body disintegrates E079; **permanent supernatural fate unresolved** | `[^antagonist-cerinthala]` |
+
+**Acceptance contract:** exact full-file deterministic comparison against pre-edit archive; **47→52 numbered lines**, exactly **five original lines L18–22 changed**, all other **42 original lines byte-identical**; all **41 original Markdown URL destinations in original order**, old nine reference/definition pairs intact and five new ones matched (**14 total**), original second-cell evidence words, capitalization, source cutoffs and uncertainties copied exactly, LF/headings/table widths/no images/S3E18 horizon preserved. Probe original row-linked subject article targets for readability. If an apparent minor simplification instead requires a substantive decision, **stop and request owner direction**; do not invent claims.
+
+**Later:** intermediary paragraphs L26–32 and relocation of editorial guidance under last `Sources and project notes`; full page D-048 link/footnote structure acceptance is separate and must not be preclaimed. Full markdown rendering, lint, `git diff --check`, all links/anchors/backlinks, audio and broad tests unrun unless actually executed.
+
+## Execution and validation checkpoints
+
+**Checkpoint 0 — PASSED:** The live `main` HEAD `8ab9ef682e2f6696711c4770cb25ffe5ce203f76` was clean (0 worktree changes, 0 restricted), and full current source SHA-256 `4c96093c103e4b4f79edd687166cb41670ff75877608834a70375411631a758e` / **11,553 bytes** verified. A byte-exact working original was created at `research/legacy/ANTAGONISTS_PRE_D048_54_2026-10-28.md` and independently reread for identical SHA/byte length **before source mutation**. This committed HEAD differs from Batch 53's historical working state; no attempt was made to restore or overwrite that prior state.
+
+**Checkpoint 1 — PASSED:** Five uniquely guarded full-row replacements performed on **original L18, L19, L20, L21, L22**; five complete original second-column evidence cells were copied **verbatim** into uniquely named footnotes `[^antagonist-tylander]`, `[^antagonist-kefeli]`, `[^antagonist-carthax]`, `[^antagonist-henitar]`, `[^antagonist-cerinthala]`, appended below original final `[^antagonist-soulbroker]` line 47 and beneath the final `Sources and project notes` heading. Original first subject cells and third-column link cells unchanged. Unproven historical testimony (Tylander/Kefeli), Squirts's E111 death vs distinct E125 modified appearance, Henitar surviving E126 then dying after surrender in E128, and Cerinthala's observed bodily disintegration vs uncertain permanent fate retained. No new witness or canon adjudication.
+
+**Checkpoint 2 — PASSED:** Complete original-archive and final-source binary comparison against the exact deterministic five-row transformation. Original **47 numbered lines / 11,553 bytes**, final **52 numbered lines / 12,543 bytes**, SHA-256 `0d7ed62979086da1cb2896d15457591bb38b5df475e794895dbba5052e1890e7`. **Exactly five original rows L18–22 changed**, the other **42 original source lines remained identical**, all five original evidence middle cells reproduced verbatim. **All 41 ordered original Markdown URLs preserved**, existing nine footnote uses/definitions unchanged and **14/14** paired uses/definitions after append. Headings/table columns, LF, no images, final played S3E18 horizon and nonplayed S3E019 distinction retained.
+
+**Targeted link readability — PASSED:** Each of the five row-linked subject articles independently returned a numbered first line: `world/characters/tylander-sullivan.md`, `kefeli.md`, `general-carthax.md`, `henitar-grape.md` and `cerinthala.md`. Readability does not imply actual Markdown rendering, full anchors or independent audio/canonical verification.
+
+**Disposition:** **Five-row D-048 presentation pass complete; `world/ANTAGONISTS.md` remains PARTIALLY migrated, not yet fully accepted.** The intermediaries L26–32 include Tobacho, the hooded Voice, Quizquaz, council/faction references, and a source/editorial-rule paragraph. They require separate handling to keep rival testimony and actual story positions distinct.
+
+**Checkpoint 3 — CLOSED (2026-10-28):** Exactly one Batch 54 completion record appended to `project/WASTES_CLEANUP_MANIFEST.md` at line **233**, and the existing cumulative latest progress line in `project/WASTES_CLEANUP_PROGRESS.md` at line **149** updated in place with linked Batch 54 completion and next-step pointer. Both independently read back. The first final Git-status request was transiently blocked by the workspace service, but a subsequent read-only retry **PASSED**: `main`, HEAD unchanged at `8ab9ef682e2f6696711c4770cb25ffe5ce203f76`, **five visible changed paths, zero restricted**: `world/ANTAGONISTS.md`, byte-identical pre-edit archive, this journal, Wastes manifest, Wastes progress. No unrelated file changed in this batch. **No commit or push.** **Next Batch 55:** source-preserving D-048 consolidation of intermediaries L26, L28 and L30 and move the existing editorial rule L32 into the final `Sources and project notes`, without altering claims, links or subject identities. Split if needed, then separately audit the entire Antagonists index for D-048 structural acceptance. **Still unrun:** Markdownlint, `git diff --check`, GFM renderer, all link targets/fragments/backlinks, audio and global tests.
+
+**Unrun:** Markdownlint, `git diff --check`, actual rendered footnotes, full 41-link/anchor/backlink checks, primary audio and broad tests. No commit/push.
+
