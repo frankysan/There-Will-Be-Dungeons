@@ -1,0 +1,75 @@
+# Arc 01 — Beginnings in Dusthill
+
+The Wastes were made by wars whose causes few living people could describe without invoking a legend. Old machines survived where their makers did not, and settlements endured by coaxing another day of water or power from buried works. Stories of dragons and ancient pacts colored the world, but no single traveler held the whole truth. Four very different wanderers came to Dusthill under that uncertain inheritance: **Nash Maggard**, haunted by memories of the Solar Mines; **Hope**, a tiefling engineer with an extraordinary plan; **Stanley Billings**, whose ideals were larger than his prospects; and **Vorel**, a lizardfolk warrior with obligations of his own. They had not yet become a company. Dusthill would give them reasons to stand together—and reasons to doubt each other.[^arc01-1]
+
+## I. The Hillmaster's secret
+
+A failing water supply threatened everyone in Dusthill. The settlement's Hillmaster drew the newcomers into its defense and named them a new Hill Guard, only for that borrowed authority to place them against **Thomas, Holga and Dharma**, members of the old guard. Across a dangerous bridge beneath the town, old loyalties turned to violence. The travelers pressed on while the leader they were meant to protect became increasingly difficult to trust.
+
+Beyond the guarded passage, the Hillmaster revealed a machine he wanted kept secret: an ancient **dragon engine**, joined to the waterworks. He identified a nearby skeleton as the first of his office. The device was not itself the entire supply; a pump and intake farther below still needed repair. Hope saw what might be fixed, and the others followed her down the narrow shaft despite the spiders nesting there.
+
+Before they could reach the lower machinery, a body fell past them. Its severed head belonged to the Hillmaster. Whatever promises he had made, he would give no more orders. Dusthill's appointed protectors found themselves deep underground, newly responsible for a town whose hidden systems and leaders were both failing. They had encountered the engine but had not yet proved that clean water would reach anyone above.[^arc01-2]
+
+## II. The ruined kingdom beneath the river
+
+At the bottom of the shaft lay a damaged pump and a dark underground river. While Hope worked on the intake, the party tried to rest; **Softhead** attacked them. Vorel struck him into the current, and he disappeared downstream. They could not know whether the river had killed him. With the immediate repairs completed, an opening beyond the water drew them into another buried mystery.
+
+The chambers belonged to an old dwarven settlement. Skeletons carried on with everyday tasks, apparently indifferent to the living. A medical automaton still functioned among the ruins, though its knowledge was no promise that the city itself could be restored. In the throne room they found an emaciated queen linked by a tube to an oil-black figure calling himself **Quizquaz**. He spoke of dreams, desires and bargains, inviting trust that the company had little reason to give.
+
+Stanley severed the connection to the queen. Fighting followed: animated guards defended the creature, and Hope's shot helped destroy Quizquaz in a burst of oil and fire. The queen died and the moving skeletons collapsed. The travelers left with an odd prize, a wrench whose head could change shape to fit Hope's work, and with questions about what had held the ruined kingdom together.
+
+On their way out, a crowned skeleton attracted Vorel's attention. A spectral presence rose to challenge them. The apparition would later name itself **Peter**, and its accusations against Dusthill's rulers would make the secret engine more troubling than ever. They had repaired a mechanism and broken a strange power beneath the river, yet they understood neither the true age of the ruins nor the price of bringing their discoveries home.[^arc01-3]
+
+## III. The town they could not save whole
+
+The apparition called himself the **first Hillmaster**. Peter disputed the legitimacy of his successors and said the dragon engine ran on blood. His account might explain some of Dusthill's concealed history, but it was still testimony from a self-interested ghost. When the companions returned aboveground, there was no time to decide how much of it to believe. Goblins had attacked Dusthill.
+
+Vorel helped repel the raiders, but the damage remained: lives lost, homes shattered, people carried off. **Bruce Bane** was separated from his mother. Stanley offered what comfort he could, while the absence of a living Hillmaster forced Dusthill to consider who would govern it. Among the damaged houses, neither water nor victory could restore the missing townsfolk.
+
+Trouble also followed the defenders themselves. Stanley killed **Aaron** while facing a knife attack, and Aaron's widow **Wilma** later accused him of murder. At the public meeting, **Shun'ti** offered to act as interim townmaster; defense, trade and the abductees demanded decisions. The argument turned dangerous when a gun was drawn. Nash's body answered with uncontrolled fire and painful images from the Solar Mines, revealing wounds his companions did not understand.
+
+Only then did they directly confirm one clear success: Nash opened the town's surface valve and **water flowed**. Hope's strange wrench spoke in Dwarven, urging repair rather than destruction. Vorel followed the raiders' tracks and caught a goblin who bowed to him as a lizard king. The captive, **Bok Bok**, would travel with them, but his obedience began in fear and capture, not in an equal bargain. Hope brought out **Fate 4**, the great modified vehicle she had built with **Jimster**. With supplies and a rescue mission, the four left a town whose survival they had improved but whose losses they could not undo.[^arc01-4]
+
+## IV. A road of beetles and broken engines
+
+Dusthill's abductees were still somewhere ahead in the Wastes. Hope refused to abandon an old man they met on the road, despite his terror of mysterious lights in the desert. When glowing beetles circled their nighttime camp, the party chose caution over an unnecessary battle. Bok Bok returned hauling the injured stranger, and the travelers moved their makeshift home away from danger.
+
+By morning the chase grew violent. A goblin bus fitted with a catapult and armed trucks intercepted Fate 4. The companions fought through a moving battle of explosives, leaps and sudden turns. They defeated the attackers, but **Vorel was badly hurt** and the vehicle overheated. The main warband remained out of reach, with the prisoners from Dusthill still missing. Any belief that these fighters had deliberately sacrificed themselves to delay pursuit was the travelers' inference, not a proven order from their leader.
+
+During the repairs, **Nash** approached a metal antenna protruding from the sand. Something about his strange eye reacted; the earth swallowed him. A voice reached Stanley through the vehicle's radio, and Stanley followed him beneath the surface. Hope, Vorel and Bok Bok were left beside Fate 4, waiting without knowing where the other two had gone.
+
+The underground opening was not a return to Dusthill's waterworks. It led to a different, sealed installation. A journey begun to rescue prisoners had divided the rescuers, and the broken vehicle above was now the only home the surface party could readily defend.[^arc01-5]
+
+## V. The voices below and beside the vehicle
+
+Under the desert, Nash and Stanley encountered two gnomes, **Eddie** and **Chance**, drawn into the same installation by another strange arrival. Its disembodied keeper named itself **Leopold**. It insisted it was not a computer, spoke of containment and security, and denied the visitors any right to leave. Badges and elevators led past skeletal crew quarters and recycling systems that still obeyed ancient routines.
+
+The machinery offered little protection. A green equipment case lunged at them with a tongue, while a separate eight-legged animal moved strangely through the laboratory. Nash was knocked unconscious in the fighting and had to be kept alive. Leopold's threats did not settle what the facility was, what the stranger called itself, or why those creatures were confined there. At the end of this ordeal, its doors shut and its unseen warden promised punishment.
+
+Meanwhile, Hope and Vorel had their own unanswered questions. In a separate account of their waiting time, preserved from their separation during the underground expedition, they watched the stars and argued over stories of dragons. Hope spoke of wanting to **travel into the past** and complete a dark pact she believed could prevent the world's ruin. Vorel challenged what changing history might mean for the people alive now. His accounts of dragons, omens and lizardfolk ancestry remained cultural beliefs; Hope's idea was a purpose, **not a demonstrated power** of the dragon engines. They also examined a mechanical backpack that Hope believed to be dwarven, without proving it could carry her safely into flight.
+
+Those two conversations belonged to one anxious separation but not to a shared pool of knowledge: Nash and Stanley had not heard the surface exchange, and Hope and Vorel did not know what Leopold was saying below. The party's separation left each pair with questions the other could not yet answer.[^arc01-6]
+
+## VI. Surfacing
+
+Leopold offered the captives a chance to rest and then demanded their help with unexplained power failures. Nash recovered; the gnomes showed useful and baffling devices, including a folded cloth that opened into a space of its own. Farther inside the complex, the adventurers found an enormous **tree** growing through the underground rooms. A voice from it pleaded to be freed, claiming it had once been an elf imprisoned during ancient struggles against dragons. Like Leopold's account of the prison, the tree's story was a plea from an interested speaker—not a verified history of the Wastes.
+
+They chose action over confinement. In the control chamber they tampered with the warden's settings and began the facility's self-destruction. The intended long countdown ceased to be reassuring when Leopold threatened to accelerate it. A many-mouthed creature attacked during the escape, nearly swallowing Chance; the companions pulled him free and finally brought the monster down. Then they climbed through the tree's branches as the complex failed around them.
+
+**Eddie and Chance fell back into the collapsing facility.** Nash and Stanley reached the surface, but could not establish what had happened to the two gnomes. The absence of bodies gave no proof of their deaths. Hope and Vorel were waiting with Fate 4, and for a brief moment the divided companions were together again.
+
+A huge **black dragon** burst from the buried wreck and flew into the sky. Then the travelers saw another danger approaching: many vehicles bearing down across the Wastes. Their immediate ordeal beneath the desert was finished, but their pursuit of the Dusthill captives had led them toward powers they knew even less about. Whoever commanded that convoy would be the next test of the company they were becoming.[^arc01-7]
+
+## Sources and project notes
+
+This is an **unpublished Batch 96 drafting pilot** under D-045/D-049, not a source-verified or accepted replacement for the readable historical six-arc edition. This draft covers **E000–E009** with the **E013.5 Hope–Vorel supplemental** placed at its fictional E008–E009 point. The separately published supplemental is not represented as a regularly played E008/E009 segment. It has not been independently checked against original audio, and dialogue is paraphrased. The following notes distinguish performed action from later summaries, GM framing, character claims and research uncertainties.
+
+[^arc01-1]: [E000 introduction](../episodes/E000.md) · [E001 — The Campaign Begins!](../episodes/E001.md). Dragon-era narrative is introductory in-world framing; private character backgrounds are not universally known to the party.
+[^arc01-2]: [E001](../episodes/E001.md) · [E002 — Spiders](../episodes/E002.md). The Hillmaster's descriptions of the engine and first office-holder are testimony. His falling death occurs in E002, before the lower-intake repair.
+[^arc01-3]: [E003 — Soft Head Returns](../episodes/E003.md) · [E004 — The Oil Demon](../episodes/E004.md) · [E005 — Goblincide](../episodes/E005.md). Softhead's disappearance is not a verified death; the dwarven site's written name is **Moag Ferhain** under D-044, but Quizquaz and the automaton are interested or incomplete historical witnesses.
+[^arc01-4]: [E005](../episodes/E005.md) · [E006 — Start your engines!](../episodes/E006.md). Water reaches Dusthill's **surface outlet in E006**, after repairs and E005's reported restarting; the widow's accusations are not a legal finding. The source's captive goblin establishes Bok Bok's initial relationship and later travel.
+[^arc01-5]: [E006](../episodes/E006.md) · [E007 — Bok Bok Keeping It Fresh](../episodes/E007.md). The E006 cliffhanger does not identify the lights; E007 reveals beetles. E007 ends with Nash and Stanley underground, and the wider convoy is not yet the E010 outcome.
+[^arc01-6]: [E008 — Stupid Gnomes!](../episodes/E008.md) · [E013.5 supplemental](../episodes/E013.5.md). Eddie/Eddy is one guest gnome, distinct from Chance. E013.5 is a **later-released, supplemental/deleted-character-scene recording** with a Stanley retrospective recap; only the Hope–Vorel conversation is placed here in fictional time. Its star, cosmology, dragon heritage and jetpack assertions remain speaker claims or uncertain ASR, not newly proven facts.
+[^arc01-7]: [E009 — Surfacing](../episodes/E009.md) · [E013.5](../episodes/E013.5.md). The E009 GM's out-of-game assurance says the gnomes were not declared dead, although the protagonists cannot know their fate. The dragon's emergence and the approach of E010's convoy are separate observed events; the cause of the dragon's appearance is not mechanically established.
+
+The exact historical working source remains at [Arc One — the earlier six-arc edition](ARC_ONE.md). Its **all 42 prose-paragraph identities, 15 footnote definitions and 47 original Markdown links remain untouched**. This new Arc 01 includes the 17 source paragraphs originally at Arc One L7–45; old L49–105 belongs to future Arc 02 and is not silently moved here. [Batch 95 source disposition](../reports/WASTES_CLEANUP_D045_PILOT_SCENE_DISPOSITION_95_2026-10-28.md) · [Batch 96 journal](../reports/WASTES_CLEANUP_D045_DRAFT_PILOTS_96_2026-10-28.md) · [owner decisions](../project/DECISIONS.md).
