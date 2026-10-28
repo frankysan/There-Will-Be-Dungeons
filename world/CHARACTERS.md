@@ -25,32 +25,32 @@ Meet the people whose loyalties, rivalries and choices shape The Wastes. Follow 
 | --- | --- | --- |
 | **Angelashi / Angel Ashi (?)** | Nash's spouse, wrongly reported dead before her rescue, reunites with him and their four children on Mars. Their daughter Nash Junior can change shape.[^characters-angelashi] | [Angelashi](characters/angelashi.md) |
 | **Bok Bok** | Vorel's loyal goblin friend becomes King Bokbok and brings allies to the Leaden Fingers canyon defense. Goblin explosives are prepared, but not detonated at the S3E15 cutoff.[^characters-bokbok] | [Bok Bok](characters/bok-bok.md) · [S3E15](../episodes/S3E15.md) |
-| **Buttons** | Speaking cat, linked to the Arcanum; **Vorel kills him E049**. His love and intended intervention for Stanley are explained only in a *later GM Q&A* | [Buttons](characters/buttons.md) |
-| **P0D / Pod** | Pixie exploited by the drug trade; forcibly transformed E049, **killed by Diontalus E050** | [P0D](characters/p0d.md) |
-| **Tedna** | Young stowaway; rescued **alive E048**, dies **E050** | [Tedna](characters/tedna.md) |
-| **Emenil** | Religious figure in Tietkalla, later confesses love for Stanley at Elhandar | [Emenil](characters/emenil.md) |
-| **Nobieri / Nobiery (?)** | Ancient scholar and counselor; returns with armed tieflings to crown Hope, later present at the Harbor | [Nobieri](characters/nobieri.md) |
-| **Omnom Cinderborn** | Survives earlier Razak Val disasters, **reconciles with Vorel during E120 hunt, then is actually killed by Diontalus E121** | [Omnom](characters/omnom-cinderborn.md) |
-| **Sira, Follow and Rorf** | Follow/Rorf die E066; **Sira escapes the E081 beam alive**, with subsequent long-term safety unverified | [Their linked profile](characters/follow-sira-rorf.md) |
-| **Orp** | Cyclops ruler of Razak Val; killed as Vorel becomes Great Fang | [Orp](characters/orp.md) |
-| **Diptak** | Lizardfolk challenger and former ally; **killed by Orp E060** | [Diptak](characters/diptak.md) |
+| **Buttons** | An Arcanum-linked speaking cat killed by Vorel. Later testimony describes his love for Stanley and an unfulfilled plan to help him.[^characters-early-buttons] | [Buttons](characters/buttons.md) |
+| **P0D / Pod** | A pixie exploited by the drug trade, forcibly transformed and later killed by Diontalus.[^characters-early-p0d] | [P0D](characters/p0d.md) |
+| **Tedna** | A young stowaway rescued alive from captivity, only to die shortly afterward.[^characters-early-tedna] | [Tedna](characters/tedna.md) |
+| **Emenil** | A religious figure from T'ietkalla who confesses her love for Stanley at Elhandar.[^characters-early-emenil] | [Emenil](characters/emenil.md) |
+| **Nobieri / Nobiery (?)** | An ancient scholar and counselor who returns with armed tieflings to crown Hope, later appearing at the Harbor.[^characters-early-nobieri] | [Nobieri](characters/nobieri.md) |
+| **Omnom Cinderborn** | A survivor of Razak Val who reconciles with Vorel during a hunt before Diontalus kills him.[^characters-early-omnom] | [Omnom](characters/omnom-cinderborn.md) |
+| **Sira, Follow and Rorf** | Follow and Rorf die during the struggle for Sira in E066. Sira survives the later E081 beam, but her long-term safety remains unknown.[^characters-later-sira-follow-rorf] | [Their linked profile](characters/follow-sira-rorf.md) |
+| **Orp** | The cyclops ruler of Razak Val kills Diptak before Vorel defeats and kills him, becoming Great Fang.[^characters-later-orp] | [Orp](characters/orp.md) |
+| **Diptak** | A lizardfolk warrior and former ally of Vorel who is killed by Orp during the Razak Val succession dispute.[^characters-later-diptak] | [Diptak](characters/diptak.md) |
 
 ## Later companions and individual paths
 
 | Character | Role | Profile |
 | --- | --- | --- |
-| **Squirts** | **Killed/disintegrated E111**, Chunks survives; E124 roster name lapse **corrected to Chunks E125**; **modified Squirts reappears in separate Hell epilogue E125** as Brent's named captain | [Squirts](characters/squirts.md) |
-| **Nothing** | Sigil-linked adventurer whose independent engagements matter to the White Tower approach | [Nothing](characters/nothing.md) |
-| **Lyrielle / Liriel (?)** | Elhandari physician and caretaker; **post-campaign GM says genuine princess vs bookish imagination was NEVER settled**—do not declare royalty or deception | [Lyrielle](characters/lyrielle.md) |
-| **Steerious Business** | Minotaur member of Hope's separate group; owner-confirmed name, originally a pun | [Steerious](characters/steerious-business.md) |
-| **Dilenoria / Dilo (?)** | Apparently eager apprentice E119, abductor E120; **Diontalus visibly separates from his body E121, left motionless and not breathing**; own consent unproved | [Dilo](characters/dilenoria.md) |
-| **Imprisoned black dragon / Yoshalar (?)** | Earth-desert survivor intervenes E121; **dies E122 after attributed history/origin testimony**. Body dissipates; **natural heart concealed in cave** | [Dragon](characters/imprisoned-black-dragon.md) |
-| **Blood Skunk Hendrickson** | Member of Hope's group; gives body parts for bargains and survives the failed E116 raid | [Blood Skunk](characters/blood-skunk-hendrickson.md) |
-| **Dr. Spider** | Hope-path companion who later shelters the quartet in a Hell laboratory | [Dr. Spider](characters/dr-spider.md) |
-| **Chance and Edison “Eddie” Manchester III** | Guests in E008–E009, encountered again at CHIDS. **PLAYED E081:** Chance physically drifts away, unlocated; **POST-CAMPAIGN GM RETROSPECTIVE S3E019:** Beau says Chance is **still floating in a timeless/far-realm void, neither living normally nor dead**, no performed retrieval. Beau also *reports* Eddie assisted the last war and later commands own airship; those later details are GM retrospective, not newly enacted S3E019 scenes. | [E078](../episodes/E078.md) · [E081](../episodes/E081.md) · [Round Up Q&A](../episodes/S3E019.md) |
-| **P0D/Tedna alternate counterparts** | At First Nash's asteroid tower in E110; **not** resurrections of the originals | [E110](../episodes/E110.md) |
+| **Squirts** | After Squirts is killed in E111, a changed Squirts appears in a separate Hell epilogue under Brent. Chunks is a distinct surviving child, and several later roster names remain disputed.[^characters-later-squirts] | [Squirts](characters/squirts.md) |
+| **Nothing** | The masked kenku Nothing guides the party through Sigil and pursues a secret commission whose outcome remains unverified.[^characters-later-nothing] | [Nothing](characters/nothing.md) |
+| **Lyrielle / Liriel (?)** | An Elhandari physician and caretaker whose claimed princess history remains deliberately unresolved even after the GM's retrospective account.[^characters-later-lyrielle] | [Lyrielle](characters/lyrielle.md) |
+| **Steerious Business** | A minotaur of Hope's separate adventuring party, later seen alive after Doctor Spider grafts two dead companions' heads onto him; those companions are not resurrected.[^characters-later-steerious] | [Steerious](characters/steerious-business.md) |
+| **Dilenoria / Dilo (?)** | An Elhandari elf who seeks Stanley's mentorship before helping abduct Hope. Diontalus later separates from Dilo's unresponsive body, leaving the elf's consent and ultimate fate unresolved.[^characters-later-dilo] | [Dilo](characters/dilenoria.md) |
+| **Imprisoned black dragon / Yoshalar (?)** | A scarred black dragon previously held captive on Earth returns to aid the companions, recounts uncertain ancient history, and dies; its natural heart remains concealed in a cave.[^characters-later-dragon] | [Dragon](characters/imprisoned-black-dragon.md) |
+| **Blood Skunk Hendrickson** | A member of Hope's separate group who sacrifices body parts in bargains and survives the failed E116 raid, but later dies aboard Fate Six. His severed head is subsequently grafted to Steerious without being revived.[^characters-final-blood-skunk] | [Blood Skunk](characters/blood-skunk-hendrickson.md) |
+| **Dr. Spider** | An infernal doctor who shelters Hope's group in a Hell laboratory, later helps save Union Wheel and departs alive with Steerious, whose grafted dead heads are not resurrected.[^characters-final-dr-spider] | [Dr. Spider](characters/dr-spider.md) |
+| **Chance and Edison “Eddie” Manchester III** | Guests who later join the CHIDS encounter. Chance drifts away in the played E081 crisis and remains unlocated; the GM subsequently describes his condition and reports Eddie's later work during an out-of-game roundtable, not new played scenes.[^characters-final-chance-eddie] | [E078](../episodes/E078.md) · [E081](../episodes/E081.md) · [Round Up Q&A](../episodes/S3E019.md) |
+| **P0D/Tedna alternate counterparts** | Alternate versions of P0D and Tedna live at First Nash's asteroid tower, distinct from the original companions who died earlier.[^characters-final-alternate-p0d-tedna] | [E110](../episodes/E110.md) |
 
-**Dunebreaker prequel:** **Hack Loman, Ramilda Gloryfaded (?) and Al** are the played guards in **E107–E109**, with **Strum** as NPC. Their adventure takes place **long before E001**, not as a continuation of the E106 present-day cliffhanger. [Dunebreaker](places/dunebreaker.md) · [E107](../episodes/E107.md)–[E109](../episodes/E109.md).
+**Dunebreaker prequel:** Long before the original companions' journey, **Hack Loman, Ramilda Gloryfaded (?) and Al** serve as guards, alongside **Strum** as an NPC. Their E107–E109 story precedes E001 and is not the continuation of the E106 cliffhanger.[^characters-final-dunebreaker] [Dunebreaker](places/dunebreaker.md) · [E107](../episodes/E107.md)–[E109](../episodes/E109.md).
 
 ## Major opponents, rulers and contested witnesses
 
@@ -80,3 +80,23 @@ A subject profile owns changing status, relationships and significant events; do
 [^characters-union]: **Union Wheel** — Stanley's sworn Elhandari guardian, Tungsten's niece. **Doctor Spider, Stanley and Dr. Daffodil ACTUALLY save her** from catastrophic Hell Knight wounds in S3E02; **alive on crutches** when Fate Six leaves Blast Belly Rock, then **rescues Vorel from a parasite S3E03**; S3E04 **dances with him but visibly leaves upset** at news of Courtship; **reaffirms guardian oath S3E05; S3E08 is *Telekinesis*-saved from lava but LATER crushed by giant alongside Emenil (99 damage/visible remains); S3E09 NO RESURRECTION witnessed, Stanley visibly grieves**.
 [^characters-angelashi]: Nash's spouse; **E048 death report disproved by E054 rescue; actually reunited on Mars with Nash and their four children in S3E03**, including shapechanging daughter Nash Junior
 [^characters-bokbok]: Loyal goblin follower/friend of Vorel, publicly **KING BOKBOK** since S3E05. S3E14 reunited alive with Vorel and lent goblins/TNT. **S3E15 PHYSICALLY PRESENT ALIVE WITH VOREL'S TEAM AT CHOSEN LEADEN FINGERS CANYON, COMMANDS GOBLIN POSITIONS as tarrasque approaches, no TNT detonated or goblin fatalities witnessed**.
+[^characters-early-buttons]: Speaking cat, linked to the Arcanum; **Vorel kills him E049**. His love and intended intervention for Stanley are explained only in a *later GM Q&A*
+[^characters-early-p0d]: Pixie exploited by the drug trade; forcibly transformed E049, **killed by Diontalus E050**
+[^characters-early-tedna]: Young stowaway; rescued **alive E048**, dies **E050**
+[^characters-early-emenil]: Religious figure in Tietkalla, later confesses love for Stanley at Elhandar
+[^characters-early-nobieri]: Ancient scholar and counselor; returns with armed tieflings to crown Hope, later present at the Harbor
+[^characters-early-omnom]: Survives earlier Razak Val disasters, **reconciles with Vorel during E120 hunt, then is actually killed by Diontalus E121**
+[^characters-later-sira-follow-rorf]: Follow/Rorf die E066; **Sira escapes the E081 beam alive**, with subsequent long-term safety unverified
+[^characters-later-orp]: Cyclops ruler of Razak Val; killed as Vorel becomes Great Fang
+[^characters-later-diptak]: Lizardfolk challenger and former ally; **killed by Orp E060**
+[^characters-later-squirts]: **Killed/disintegrated E111**, Chunks survives; E124 roster name lapse **corrected to Chunks E125**; **modified Squirts reappears in separate Hell epilogue E125** as Brent's named captain
+[^characters-later-lyrielle]: Elhandari physician and caretaker; **post-campaign GM says genuine princess vs bookish imagination was NEVER settled**—do not declare royalty or deception
+[^characters-later-nothing]: Sigil-linked adventurer whose independent engagements matter to the White Tower approach
+[^characters-later-steerious]: Minotaur member of Hope's separate group; owner-confirmed name, originally a pun
+[^characters-later-dilo]: Apparently eager apprentice E119, abductor E120; **Diontalus visibly separates from his body E121, left motionless and not breathing**; own consent unproved
+[^characters-later-dragon]: Earth-desert survivor intervenes E121; **dies E122 after attributed history/origin testimony**. Body dissipates; **natural heart concealed in cave**
+[^characters-final-blood-skunk]: Member of Hope's group; gives body parts for bargains and survives the failed E116 raid
+[^characters-final-dr-spider]: Hope-path companion who later shelters the quartet in a Hell laboratory
+[^characters-final-chance-eddie]: Guests in E008–E009, encountered again at CHIDS. **PLAYED E081:** Chance physically drifts away, unlocated; **POST-CAMPAIGN GM RETROSPECTIVE S3E019:** Beau says Chance is **still floating in a timeless/far-realm void, neither living normally nor dead**, no performed retrieval. Beau also *reports* Eddie assisted the last war and later commands own airship; those later details are GM retrospective, not newly enacted S3E019 scenes.
+[^characters-final-alternate-p0d-tedna]: At First Nash's asteroid tower in E110; **not** resurrections of the originals
+[^characters-final-dunebreaker]: **Dunebreaker prequel:** **Hack Loman, Ramilda Gloryfaded (?) and Al** are the played guards in **E107–E109**, with **Strum** as NPC. Their adventure takes place **long before E001**, not as a continuation of the E106 present-day cliffhanger.

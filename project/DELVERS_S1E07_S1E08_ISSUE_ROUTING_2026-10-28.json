@@ -1,0 +1,255 @@
+{
+  "date": "2026-10-28",
+  "campaign": "Delvers",
+  "batch": "delvers-s1e07-s1e08-issue-routing",
+  "head": "56c0029a89d3f624a17ba36c3cf00ce77cb47ff3",
+  "status": "complete; both demonstrated review-key routing repairs validated",
+  "scope": "two confirmed review-key routing repairs; no fresh source interpretation",
+  "archive_manifest": "research/legacy/2026-10-28/delvers-s1e07-s1e08-issue-routing/manifest.json",
+  "members": [
+    {
+      "episode": "S1E07",
+      "type": "played session documentation",
+      "status": "complete; editorial, structural, link, lint and whitespace checks passed",
+      "path": "delvers/episodes/S1E07.md",
+      "existing_issue_keys": [
+        "DEL-S1E07-001",
+        "DEL-S1E07-002",
+        "DEL-S1E07-003",
+        "DEL-S1E07-004",
+        "DEL-S1E07-005",
+        "DEL-S1E07-006",
+        "DEL-S1E07-007",
+        "DEL-S1E07-008",
+        "DEL-S1E07-009"
+      ],
+      "ledger_rows_unchanged": [
+        "| DEL-S1E07-001 | Broscale siblings and recovered globe | **Living Buck Broscale/Wildfire** is **brother of dead Brom/Bram Broscale** associated with badge 542 and drift globe (per living brother testimony); S1E05 healing was of **living Buck**, not revived dead owner. Exact deceased spelling/audio remains open |",
+        "| DEL-S1E07-002 | Psionic training and Soul Knife hilt | Koh unlocks telepathic **Psionic Whispers**, and later **Psi Blast** after days with Wildfire (unused). During critical hit on rust monster, **stone-metal hilt crumbles**, but **blade now manifests without hilt**. Wildfire briefly displays a stone circlet and **retains it** |",
+        "| DEL-S1E07-003 | Current purchased equipment | **Koh attacks with Life Stealing shortsword**; requested Corpse Slayer change from S1E05 not accomplished on-screen. **Evelyn's Vicious hammer** and **Krandal's +1 scale mail** explicitly appear in play, resolving earlier pending-delivery evidence for those objects |",
+        "| DEL-S1E07-004 | Evelyn's school, bag and ball | Roommate **Margaret Dupaton/Dupayton** creates a **Bag of Hammer Holding** for exactly one object up to 60 lb, tested with Evelyn's hammer. The school's full name needs written confirmation. **Bronze ball at governor's mansion only planned**, not attended. Honeysuckle symbolism does not identify Evelyn's missing person |",
+        "| DEL-S1E07-005 | Cockatrice/wedding and earnings | Krandal's stone form wears off **~24 h after bite**; companions carry him to temple after a **summarized** cockatrice job. Krandal officiates **Battersby wedding**, no private pay. GM announces **580 gp earned across the subsequent week's quests**, added on character sheets; per-member vs pooled distribution is **not unambiguously stated** |",
+        "| DEL-S1E07-006 | Claimed predator ecology and black ichor | Cassius and Carrie raise darkmantle/stirge/grick/piercer food-chain and black goo link; **piercer larvae / larger predator is hypothesis**, guild does not prove metamorphosis, a common source or the awakening of Enzo's alleged heart |",
+        "| DEL-S1E07-007 | Southwest monsters, civilians and items | **One rust monster, one mimic, one stirge** defeated; **Bruno dog survives** after Evelyn's 3 Lay on Hands, warehouse worker treated by Krandal. Koh takes **one rust monster antenna, three plain buckles**; no retained mimic tissue verified. Blacksmith a human, not a bugman. No proof monster actually emerged from well during scene |",
+        "| DEL-S1E07-008 | Well safety and cutoff | Krandal **abandons proposal to put corpse in well** and throws only a rock. Party **does not descend or test water**, yet reassures residents. Cassius deploys **Brigand Patrol guard** and party races **back toward well with unused concrete**. **No completed well inspection, sealing, water safety finding or later party reports at episode cutoff** |"
+      ],
+      "prefix_byte_identical": true,
+      "headings_preserved": true,
+      "original_newline_format_retained": true,
+      "task_rows_match_central_queue": 9,
+      "historical_targets_mapped": 9,
+      "source_windows_reviewed": [],
+      "audio_reviewed": false,
+      "new_ASR_metric": null,
+      "sha256_after": "1923fa997b18480e952548a8413e0f261fbf96bac7d7c13035a51049b73a78f0"
+    },
+    {
+      "episode": "S1E08",
+      "type": "played session documentation",
+      "status": "complete; editorial, structural, link, lint and whitespace checks passed",
+      "path": "delvers/episodes/S1E08.md",
+      "existing_issue_keys": [
+        "DEL-S1E08-001",
+        "DEL-S1E08-002",
+        "DEL-S1E08-003",
+        "DEL-S1E08-004",
+        "DEL-S1E08-005",
+        "DEL-S1E08-006",
+        "DEL-S1E08-007"
+      ],
+      "ledger_rows_unchanged": [
+        "| DEL-S1E08-001 | Well breach and completed seal | Koh **actually descends southwest well** and finds outwardly displaced bricks from a natural side passage. Party uses **one sack of concrete plus rock** to seal a narrow passage; First Sons seals the other assigned approach. This supersedes S1E07's uninspected-well cutoff, **but the water has not been sampled and other subterranean passages are still open** |",
+        "| DEL-S1E08-002 | First Sons roster and cooperation | **Edgar Boonefellow**, **Norman Green**, **Faelan/Faelen Ianya** are the three present First Sons Brotherhood members (spellings provisional). Initial claim conflict resolves without combat. Their assistance is essential for **six-person floor/platform puzzle** and sealing, but the teams remain distinct |",
+        "| DEL-S1E08-003 | Temple entrance and structural damage | Dungeon's **six** pressure plates, each requiring shaft plus sufficient weight, **open slabs in Pelor temple floor**. **Brother Maynard** sees disruption. No demonstrated instant repair, teleportation, compensation or disciplinary outcome. Location of further tunnels not fully charted |",
+        "| DEL-S1E08-004 | Horn and psychic shafts | Armory has **eight** stone-metal shafts; Koh makes psychic tip appear. **Evelyn keeps Horn of Blasting**, with small crack from use; she and Krandal suffer **19 thunder damage** and temporary deafness, then short rest. Six shafts enable puzzle; two remaining/spare ownership and transfer offered to First Sons unresolved. **Do not conflate horn with Soul Knife** |",
+        "| DEL-S1E08-005 | Sash vs ropes, other equipment | Koh **left Sultan's Sash attached at well** and speaks of surface retrieval only as future intent. First Sons secures a separate **ordinary rope** across pit trap. Evelyn **temporarily removes chain mail and hammer/pack** before crossing; separate pickup/final custody not narrated. Character-sheet duplicate items discarded during table chatter are **not verified in-world transfers** |",
+        "| DEL-S1E08-006 | Rock-eater, guild threat and cliffhanger | Friendly **Primordial-speaking rock creature** remains in cavern network, assists with rocks; its ambiguous warning doesn't verify a specific monster. Deeper natural cave includes overhead piercers and **gelatinous cube** revealed by floating stones and a javelin probe. **No cube combat by cutoff**; no new reward or level granted |"
+      ],
+      "prefix_byte_identical": true,
+      "headings_preserved": true,
+      "original_newline_format_retained": true,
+      "task_rows_match_central_queue": 7,
+      "historical_targets_mapped": 7,
+      "source_windows_reviewed": [],
+      "audio_reviewed": false,
+      "new_ASR_metric": null,
+      "sha256_after": "4dbc39dc47dfc2969734061f1faee65d7a5cc97c4e546b560a109c7fedd193ba"
+    }
+  ],
+  "historical_crosswalks": {
+    "S1E07": [
+      {
+        "old_key": "DEL-S1E07-001",
+        "question": "Broscale/globe testimony and mental-subtitle training",
+        "current_keys": [
+          "DEL-S1E07-001",
+          "DEL-S1E07-002"
+        ]
+      },
+      {
+        "old_key": "DEL-S1E07-002",
+        "question": "Cockatrice, Battersby wedding and radiant rings",
+        "current_keys": [
+          "DEL-S1E07-005"
+        ]
+      },
+      {
+        "old_key": "DEL-S1E07-003",
+        "question": "Margaret, school, bag and planned ball",
+        "current_keys": [
+          "DEL-S1E07-004"
+        ]
+      },
+      {
+        "old_key": "DEL-S1E07-004",
+        "question": "Psi Blast; companies/maps; predator/larva theory",
+        "current_keys": [
+          "DEL-S1E07-002",
+          "DEL-S1E07-009",
+          "DEL-S1E07-006"
+        ]
+      },
+      {
+        "old_key": "DEL-S1E07-005",
+        "question": "Rust trail, Shmorth, extra barrel and origin limit",
+        "current_keys": [
+          "DEL-S1E07-007"
+        ]
+      },
+      {
+        "old_key": "DEL-S1E07-006",
+        "question": "Hilt/psychic progression; equipment; rust identification",
+        "current_keys": [
+          "DEL-S1E07-002",
+          "DEL-S1E07-003",
+          "DEL-S1E07-007"
+        ]
+      },
+      {
+        "old_key": "DEL-S1E07-007",
+        "question": "Stirge, Bruno, kill and healing",
+        "current_keys": [
+          "DEL-S1E07-007"
+        ]
+      },
+      {
+        "old_key": "DEL-S1E07-008",
+        "question": "Antenna/buckles/sample; water, patrol and concrete cutoff",
+        "current_keys": [
+          "DEL-S1E07-007",
+          "DEL-S1E07-008"
+        ]
+      },
+      {
+        "old_key": "DEL-S1E07-009",
+        "question": "Copy/clock, map, written names and item-sheet verification",
+        "current_keys": [
+          "DEL-S1E07-009"
+        ]
+      }
+    ],
+    "S1E08": [
+      {
+        "old_key": "DEL-S1E08-001",
+        "question": "City, Darma/Dominic/Hiroshi/Yolana and other-well-team naming",
+        "current_keys": [
+          "DEL-S1E08-007"
+        ]
+      },
+      {
+        "old_key": "DEL-S1E08-002",
+        "question": "Well breach, rock/concrete geometry and untested water",
+        "current_keys": [
+          "DEL-S1E08-001"
+        ]
+      },
+      {
+        "old_key": "DEL-S1E08-003",
+        "question": "Rock-creature dialect/warning and improvised language backstory",
+        "current_keys": [
+          "DEL-S1E08-006"
+        ]
+      },
+      {
+        "old_key": "DEL-S1E08-004",
+        "question": "First Sons names, claim dispute and puzzle participants",
+        "current_keys": [
+          "DEL-S1E08-002"
+        ]
+      },
+      {
+        "old_key": "DEL-S1E08-005",
+        "question": "Horn/shafts, platform mechanism and armor custody",
+        "current_keys": [
+          "DEL-S1E08-004",
+          "DEL-S1E08-003",
+          "DEL-S1E08-005"
+        ]
+      },
+      {
+        "old_key": "DEL-S1E08-006",
+        "question": "Temple damage; completed seal; unretrieved sash; deeper cavern/cube",
+        "current_keys": [
+          "DEL-S1E08-003",
+          "DEL-S1E08-001",
+          "DEL-S1E08-005",
+          "DEL-S1E08-006"
+        ]
+      },
+      {
+        "old_key": "DEL-S1E08-007",
+        "question": "Audio-copy/clock and pipeline provenance",
+        "current_keys": [
+          "DEL-S1E08-007"
+        ]
+      }
+    ]
+  },
+  "new_issue_keys": [],
+  "resolved_issue_keys": [],
+  "listening": "deferred by owner",
+  "validation": {
+    "errors": [],
+    "exact_originals_verified": 4,
+    "existing_issue_keys_retained": 16,
+    "both_dossier_source_story_prefixes_byte_identical": true,
+    "central_rows_before": 36,
+    "central_rows_after": 52,
+    "prior_central_rows_verbatim": 36,
+    "ledger_unchanged": true,
+    "ledger_rows_unchanged": 14,
+    "manifest_append_only_byte_prefix": true,
+    "protected_Delvers_files_unchanged": 144,
+    "protected_files_unchanged": 147,
+    "outside_scope_drift": [],
+    "new_local_links_checked": 31,
+    "rebased_archival_destination_correspondences": 673,
+    "guarded_edits_and_table_widths": "passed",
+    "scoped_whitespace_check": "passed",
+    "markdownlint": {
+      "maintained_files": 5,
+      "violations": 0,
+      "archive_README_violations": 0,
+      "final_report_recheck": "passed after results added"
+    },
+    "rendered_preview": "not performed",
+    "full_repository_audit": "not performed"
+  },
+  "next_action": "These two demonstrated repairs are complete after final validation; further maintenance requires a concrete discrepancy. No new main-campaign intake; listening remains deferred.",
+  "editorial_verification": "passed; all historical targets mapped, existing ledger subjects retained, story/source prefixes unchanged",
+  "changed_maintained_files": [
+    "delvers/episodes/S1E07.md",
+    "delvers/episodes/S1E08.md",
+    "delvers/REVIEW_QUEUE.md",
+    "project/DELVERS_CLEANUP_MANIFEST.md",
+    "reports/DELVERS_S1E07_S1E08_ISSUE_ROUTING_2026-10-28.md"
+  ],
+  "changed_file_hashes_after": {
+    "delvers/episodes/S1E07.md": "1923fa997b18480e952548a8413e0f261fbf96bac7d7c13035a51049b73a78f0",
+    "delvers/episodes/S1E08.md": "4dbc39dc47dfc2969734061f1faee65d7a5cc97c4e546b560a109c7fedd193ba",
+    "delvers/REVIEW_QUEUE.md": "51eaa8cbf1e0b450ec43b21ac4cfd607f56e52c824eaec9dce9bb892ceae14f4",
+    "project/DELVERS_CLEANUP_MANIFEST.md": "06c3a06c02ccdfbe87c7221848e7acedb146bb78f0e7a21ec1cf6b267558917f",
+    "reports/DELVERS_S1E07_S1E08_ISSUE_ROUTING_2026-10-28.md": "69e4c16b1f1f3c91f7032467866c9ff98e216c8462499ce320e1b503d461eb6a"
+  },
+  "final_HEAD": "56c0029a89d3f624a17ba36c3cf00ce77cb47ff3"
+}

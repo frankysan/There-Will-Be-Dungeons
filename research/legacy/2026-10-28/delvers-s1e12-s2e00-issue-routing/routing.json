@@ -1,0 +1,302 @@
+{
+  "members": [
+    {
+      "episode": "S1E12",
+      "type": "played session; Season One/first-arc finale",
+      "path": "delvers/episodes/S1E12.md",
+      "status": "routing persisted; validation pending",
+      "heading": "## Focused listening / cross-validation queue",
+      "old_block": "## Focused listening / cross-validation queue\n\n| Key | Window | Pending verification |\n| --- | --- | --- |\n| DEL-S1E12-001 | ~00:00–00:16 | Publisher date, SRT clock offset, short rest/armor re-equip timing, exact Greatsword of Wounding properties, cart lock/restraint |\n| DEL-S1E12-002 | ~00:20–00:47 | Boonefellow/Norman/Faelan official spellings, role, refugee frogman's identity, Glepo Ma delivery versus tracks |\n| DEL-S1E12-003 | ~00:54–01:18 | Cheet/Cheat aka Merry, Wee Jas deity, Marek/Merrick surname and guild title; exact Zone of Truth magical reading; elf circlet whether actually used |\n| DEL-S1E12-004 | ~01:28–02:02 | Noble Hollow location/maps; ritualist incantation and threat text; source of disk; interrupted summoning versus beast release |\n| DEL-S1E12-005 | ~02:03–02:50 | Roper identity, pregnancy/piercer brood, spells and one cultist swallowed; Marek/Faelan/Norman final life status |\n| DEL-S1E12-006 | ~02:49–03:06 | Selenar Everbloom spelling, Broadside/Solburn formal outcome, Cheet rehab, **tower deed promised not transferred**, Snake Island offer only |\n| DEL-S1E12-007 | Entire MP3 | Audio and ASR seek alignment, speaker mapping, exact publication/recording dates and house-rule execution remain unverified |\n\n",
+      "new_block": "## Focused listening / cross-validation queue\n\nCurrent routing follows the ledger subjects; the [historical-label crosswalk](../../reports/DELVERS_S1E12_S2E00_ISSUE_ROUTING_2026-10-28.md) retains earlier meanings. These are existing documentation targets, not newly interpreted sources or calibrated MP3 seeks. Listening remains deferred.\n\n**Episode-wide source gate:** Retained from historical DEL-S1E12-007 and the source fields of 001: original MP3/ASR seek alignment, speaker mapping, publisher versus recording dates, opening clock offset and house-rule execution remain unverified. Listening is deferred. The source gate has no new ID; current 007 follows the ledger’s roper/piercer subject.\n\n| Key | SRT clock / gate | Review task |\n| --- | --- | --- |\n| DEL-S1E12-001 | ~01:28–02:02 and ~02:49–03:06 | Arc boundary and unresolved mysteries: Season One/first arc ends, but the interrupted ritual does not prove a summoned lake beast appeared or every Dunes mystery is solved. Preserve the threat/incantation as attributed words and distinguish the already-present cavern roper from a demonstrated summoning. Wife/sand, elves, sludge/runes and the tooth gate remain unresolved at this cutoff. |\n| DEL-S1E12-002 | ~00:00–00:16 | Re-equipment and Greatsword: short-rest/armor re-equip timing and exact Greatsword of Wounding identification/properties, including who can use it in which way. Keep this played opening separate from S1E11’s earlier departure cutoff and from unperformed rewards. |\n| DEL-S1E12-003 | ~00:00–00:16 and ~00:20–00:47 | Three-prisoner transport: cart lock/restraint, Boonefellow’s role and the three living prisoners’ arrival ahead of the Delvers. Preserve nonlethal handling and separate each later prisoner disposition; a cell arrival is not every captive’s final release or verdict. |\n| DEL-S1E12-004 | ~00:54–01:18 | Names, ethics and interrogation: Cheet/Cheat aka Merry, Wee Jas, Marek/Merrick surname and guild title; Zone of Truth reading and whether the elf circlet is actually used. Compelled truth is not compelled speech, and witness claims or guild findings do not prove objective physical possession. |\n| DEL-S1E12-005 | ~00:20–00:47 and ~02:03–02:50 | Bullywug warning and First Sons: Boonefellow/Norman/Faelan spellings and roles, refugee frogman’s identity, Glepo Ma’s possible delivery versus tracks. Missing companions are not thereby dead; retain their later recovery separately without inventing a played verbal warning. |\n| DEL-S1E12-006 | ~01:28–02:02 | Summoning plate and fragment: Noble Hollow location/maps, ritual words/city threat, disk source and breakage, and observed geared-fabrication resemblance. No proved same device, physical fragment fit, completed mechanism or magical repair follows merely from similarity. |\n| DEL-S1E12-007 | ~02:03–02:50 | Roper and piercer lifecycle: identity, pregnancy/brood wording, spells and one cultist swallowed with survival unshown. Preserve the observed birthing and roper death without universal biology, complete piercer eradication or a proven conjured-roper origin. |\n| DEL-S1E12-008 | ~02:03–02:50 | Aid and life status: Marek/Faelan/Norman outcomes and the separate combat/healing actions. Retain Broadside’s nonlethal help, Command Drop and Preserve Life, and Evelyn’s last five Lay on Hands split three to Faelan/two to Norman. Do not turn the recovery of allies into everyone surviving the swallowed-cultist event. |\n| DEL-S1E12-009 | ~02:49–03:06 | Guild decisions and property: Selenar Everbloom spelling, Broadside/Solburn findings, Cheet rehabilitation and planned Marek trial. Tower deed is promised, not handed over; no guilty verdict, completed rehabilitation or Bronze Ball is established here. |\n| DEL-S1E12-010 | ~03:03–03:06 | Snake Island hook: patron, coin/snake buckets and paid offer only; no acceptance, departure or island visit. Existing S2E00 text classification is complete as a narrated pre-finale cutaway; retain its archive ID and unresolved audio/provenance gates rather than reopening a presumed next Season Two session. |\n\n",
+      "old_tail": "**Next season research:** Existing [Delvers S2E00 — Cassius at the Guild](../SOURCE_INVENTORY.md) **requires classification before assuming a played episode**. Do not skip to S2E01 or merge the first-arc ending with season-two future events.\n",
+      "new_tail": "**Historical archive pointer (classification already recorded):** [Delvers S2E00 — Cassius at the Guild](../SOURCE_INVENTORY.md) is a narrated Academy cutaway during the Season One kuo-toa operation, before this finale in story time. Its archive ID remains S2E00; it is not a new Season Two party session. Main-campaign intake is complete through S3E12; use the [current queue](../REVIEW_QUEUE.md) for unresolved verification.\n",
+      "source_gate": "Retained from historical DEL-S1E12-007 and the source fields of 001: original MP3/ASR seek alignment, speaker mapping, publisher versus recording dates, opening clock offset and house-rule execution remain unverified. Listening is deferred. The source gate has no new ID; current 007 follows the ledger’s roper/piercer subject.",
+      "old_rows": [
+        {
+          "key": "DEL-S1E12-001",
+          "clock": "~00:00–00:16",
+          "task": "Publisher date, SRT clock offset, short rest/armor re-equip timing, exact Greatsword of Wounding properties, cart lock/restraint"
+        },
+        {
+          "key": "DEL-S1E12-002",
+          "clock": "~00:20–00:47",
+          "task": "Boonefellow/Norman/Faelan official spellings, role, refugee frogman's identity, Glepo Ma delivery versus tracks"
+        },
+        {
+          "key": "DEL-S1E12-003",
+          "clock": "~00:54–01:18",
+          "task": "Cheet/Cheat aka Merry, Wee Jas deity, Marek/Merrick surname and guild title; exact Zone of Truth magical reading; elf circlet whether actually used"
+        },
+        {
+          "key": "DEL-S1E12-004",
+          "clock": "~01:28–02:02",
+          "task": "Noble Hollow location/maps; ritualist incantation and threat text; source of disk; interrupted summoning versus beast release"
+        },
+        {
+          "key": "DEL-S1E12-005",
+          "clock": "~02:03–02:50",
+          "task": "Roper identity, pregnancy/piercer brood, spells and one cultist swallowed; Marek/Faelan/Norman final life status"
+        },
+        {
+          "key": "DEL-S1E12-006",
+          "clock": "~02:49–03:06",
+          "task": "Selenar Everbloom spelling, Broadside/Solburn formal outcome, Cheet rehab, **tower deed promised not transferred**, Snake Island offer only"
+        },
+        {
+          "key": "DEL-S1E12-007",
+          "clock": "Entire MP3",
+          "task": "Audio and ASR seek alignment, speaker mapping, exact publication/recording dates and house-rule execution remain unverified"
+        }
+      ],
+      "rows": [
+        {
+          "key": "DEL-S1E12-001",
+          "clock": "~01:28–02:02 and ~02:49–03:06",
+          "task": "Arc boundary and unresolved mysteries: Season One/first arc ends, but the interrupted ritual does not prove a summoned lake beast appeared or every Dunes mystery is solved. Preserve the threat/incantation as attributed words and distinguish the already-present cavern roper from a demonstrated summoning. Wife/sand, elves, sludge/runes and the tooth gate remain unresolved at this cutoff."
+        },
+        {
+          "key": "DEL-S1E12-002",
+          "clock": "~00:00–00:16",
+          "task": "Re-equipment and Greatsword: short-rest/armor re-equip timing and exact Greatsword of Wounding identification/properties, including who can use it in which way. Keep this played opening separate from S1E11’s earlier departure cutoff and from unperformed rewards."
+        },
+        {
+          "key": "DEL-S1E12-003",
+          "clock": "~00:00–00:16 and ~00:20–00:47",
+          "task": "Three-prisoner transport: cart lock/restraint, Boonefellow’s role and the three living prisoners’ arrival ahead of the Delvers. Preserve nonlethal handling and separate each later prisoner disposition; a cell arrival is not every captive’s final release or verdict."
+        },
+        {
+          "key": "DEL-S1E12-004",
+          "clock": "~00:54–01:18",
+          "task": "Names, ethics and interrogation: Cheet/Cheat aka Merry, Wee Jas, Marek/Merrick surname and guild title; Zone of Truth reading and whether the elf circlet is actually used. Compelled truth is not compelled speech, and witness claims or guild findings do not prove objective physical possession."
+        },
+        {
+          "key": "DEL-S1E12-005",
+          "clock": "~00:20–00:47 and ~02:03–02:50",
+          "task": "Bullywug warning and First Sons: Boonefellow/Norman/Faelan spellings and roles, refugee frogman’s identity, Glepo Ma’s possible delivery versus tracks. Missing companions are not thereby dead; retain their later recovery separately without inventing a played verbal warning."
+        },
+        {
+          "key": "DEL-S1E12-006",
+          "clock": "~01:28–02:02",
+          "task": "Summoning plate and fragment: Noble Hollow location/maps, ritual words/city threat, disk source and breakage, and observed geared-fabrication resemblance. No proved same device, physical fragment fit, completed mechanism or magical repair follows merely from similarity."
+        },
+        {
+          "key": "DEL-S1E12-007",
+          "clock": "~02:03–02:50",
+          "task": "Roper and piercer lifecycle: identity, pregnancy/brood wording, spells and one cultist swallowed with survival unshown. Preserve the observed birthing and roper death without universal biology, complete piercer eradication or a proven conjured-roper origin."
+        },
+        {
+          "key": "DEL-S1E12-008",
+          "clock": "~02:03–02:50",
+          "task": "Aid and life status: Marek/Faelan/Norman outcomes and the separate combat/healing actions. Retain Broadside’s nonlethal help, Command Drop and Preserve Life, and Evelyn’s last five Lay on Hands split three to Faelan/two to Norman. Do not turn the recovery of allies into everyone surviving the swallowed-cultist event."
+        },
+        {
+          "key": "DEL-S1E12-009",
+          "clock": "~02:49–03:06",
+          "task": "Guild decisions and property: Selenar Everbloom spelling, Broadside/Solburn findings, Cheet rehabilitation and planned Marek trial. Tower deed is promised, not handed over; no guilty verdict, completed rehabilitation or Bronze Ball is established here."
+        },
+        {
+          "key": "DEL-S1E12-010",
+          "clock": "~03:03–03:06",
+          "task": "Snake Island hook: patron, coin/snake buckets and paid offer only; no acceptance, departure or island visit. Existing S2E00 text classification is complete as a narrated pre-finale cutaway; retain its archive ID and unresolved audio/provenance gates rather than reopening a presumed next Season Two session."
+        }
+      ],
+      "crosswalk": [
+        {
+          "old_key": "DEL-S1E12-001",
+          "current_keys": [
+            "DEL-S1E12-002",
+            "DEL-S1E12-003"
+          ],
+          "episode_wide_source_gate": true
+        },
+        {
+          "old_key": "DEL-S1E12-002",
+          "current_keys": [
+            "DEL-S1E12-005"
+          ],
+          "episode_wide_source_gate": false
+        },
+        {
+          "old_key": "DEL-S1E12-003",
+          "current_keys": [
+            "DEL-S1E12-004"
+          ],
+          "episode_wide_source_gate": false
+        },
+        {
+          "old_key": "DEL-S1E12-004",
+          "current_keys": [
+            "DEL-S1E12-001",
+            "DEL-S1E12-006"
+          ],
+          "episode_wide_source_gate": false
+        },
+        {
+          "old_key": "DEL-S1E12-005",
+          "current_keys": [
+            "DEL-S1E12-005",
+            "DEL-S1E12-007",
+            "DEL-S1E12-008",
+            "DEL-S1E12-009"
+          ],
+          "episode_wide_source_gate": false
+        },
+        {
+          "old_key": "DEL-S1E12-006",
+          "current_keys": [
+            "DEL-S1E12-001",
+            "DEL-S1E12-009",
+            "DEL-S1E12-010"
+          ],
+          "episode_wide_source_gate": false
+        },
+        {
+          "old_key": "DEL-S1E12-007",
+          "current_keys": [],
+          "episode_wide_source_gate": true
+        }
+      ]
+    },
+    {
+      "episode": "S2E00",
+      "type": "narrated in-universe Academy cutaway; no played party session",
+      "path": "delvers/episodes/S2E00.md",
+      "status": "routing persisted; validation pending",
+      "heading": "## Targeted audio/listening questions",
+      "old_block": "## Targeted audio/listening questions\n\n| Key | Window | Verify |\n| --- | --- | --- |\n| DEL-S2E00-001 | ~00:00–00:01:25 | Type and placement: opening “while Delvers ... kuo-toa” against chronology; Academy/Radiant Lance theatre; Aegis pronunciation |\n| DEL-S2E00-002 | ~00:01:25–00:05:30 | `Numilari`, `Ivorn`, `Keld`, board member “Zoltar/Warden/Gigashark” identity and rank; Carrie presented horn and psychic shafts, their custody on return |\n| DEL-S2E00-003 | ~00:05:30–00:09:00 | City history and phonetic names, chosen-party selector `Tumin Maximus`, Cassius's harsh characterization, Koh wife's disclosure versus who in party knows |\n| DEL-S2E00-004 | ~00:08:45–00:10:10 | Withers sponsorship, antecedent to Cassius's “condition,” `Strongfair/Temwater`, regional director announcement, no extra funding |\n| DEL-S2E00-005 | ~00:10:05–both endings | Production statement “next week season-one finale,” **22.120-second final-cue discrepancy**, secondary terminal “Oh”; MP3 seek alignment and origin of difference |\n| DEL-S2E00-006 | Full recording | Original audio not listened, speaker attribution and publisher/recording day not verified; avoid confusing a scripted monologue with group game action |\n\n",
+      "new_block": "## Targeted audio/listening questions\n\nCurrent routing follows the ledger subjects; the [historical-label crosswalk](../../reports/DELVERS_S1E12_S2E00_ISSUE_ROUTING_2026-10-28.md) retains earlier meanings. These are existing documentation targets, not newly interpreted sources or calibrated MP3 seeks. Listening remains deferred.\n\n| Key | SRT clock / gate | Review task |\n| --- | --- | --- |\n| DEL-S2E00-001 | ~00:00–00:01:25 and ~00:10:05–both endings | Archive ID and narrated chronology: the existing complete-text classification places this Academy cutaway during the Season One kuo-toa operation, before S1E12. Retain opening while-Delvers/kuo-toa wording and next-week-Season-One-finale production statement as deferred audio targets. Archive S2E00 is retained, without turning narration into a played party session or assigning an exact fictional date. |\n| DEL-S2E00-002 | ~00:00–00:05:30 and ~00:08:45–00:10:10 | Academy request and custody: Academy/Radiant Lance theatre and Aegis pronunciation, Cassius’s gold-rank request, Carrie’s presented Horn of Blasting and psychic shafts, denied aid and departure in the coach. Their return custody remains unshown; narration does not establish the relics were handed back at the guild. |\n| DEL-S2E00-003 | ~00:08:45–00:10:10 | Inspection and resources: Withers sponsorship, prior funded researchers/guards, regional director announcement and no extra funding. Proposed inspection and future Bronze Ball are distinct from an enacted inspection, performed Ball or newly awarded gold-rank support at this cutaway’s cutoff. |\n| DEL-S2E00-004 | ~00:01:25–00:09:00 and ~00:08:45–00:10:10 | Judgment, knowledge and proper names: Numilari, Ivorn/Iphorn, Keld, Zoltar/Warden/Gigashark identity/rank, city history, Tumin Maximus and Strongfair/Temwater forms. Cassius’s harsh characterization and Koh-wife disclosure are not knowledge shared by absent companions. Divination claims remain opinion; the antecedent to his unexplained condition is not a diagnosis. |\n| DEL-S2E00-005 | ~00:10:05–both endings | Source-tail difference: retain the previously measured 22.120-second final-cue discrepancy, Qwen terminal Oh and production announcement; align the actual MP3 before diagnosing its origin. No new metric or explanation of the difference is supplied. The placement implication is already text-classified under 001, with listening pending. |\n| DEL-S2E00-006 | Full recording; before audio/date/voice claims | Existing provenance task: original recording not newly heard; speaker attribution and publisher/recording day remain unverified. Retain source-copy/seek questions without confusing a narrated cutaway or scripted monologue with group game action. Listening remains deferred by owner. |\n\n",
+      "old_tail": "**Next archive source (after classification, not assumed immediate story-time continuation): [Delvers S2E01 — Very Snakey](../SOURCE_INVENTORY.md).**\n",
+      "new_tail": "**Historical onward archive (already researched): [Delvers S2E01 — Very Snakey](../SOURCE_INVENTORY.md).** S2E00’s narrated-cutaway classification is already recorded; archive sequence is not immediate story-time continuation. Main-campaign intake is complete through S3E12; the [current queue](../REVIEW_QUEUE.md) owns unresolved verification.\n",
+      "source_gate": null,
+      "old_rows": [
+        {
+          "key": "DEL-S2E00-001",
+          "clock": "~00:00–00:01:25",
+          "task": "Type and placement: opening “while Delvers ... kuo-toa” against chronology; Academy/Radiant Lance theatre; Aegis pronunciation"
+        },
+        {
+          "key": "DEL-S2E00-002",
+          "clock": "~00:01:25–00:05:30",
+          "task": "`Numilari`, `Ivorn`, `Keld`, board member “Zoltar/Warden/Gigashark” identity and rank; Carrie presented horn and psychic shafts, their custody on return"
+        },
+        {
+          "key": "DEL-S2E00-003",
+          "clock": "~00:05:30–00:09:00",
+          "task": "City history and phonetic names, chosen-party selector `Tumin Maximus`, Cassius's harsh characterization, Koh wife's disclosure versus who in party knows"
+        },
+        {
+          "key": "DEL-S2E00-004",
+          "clock": "~00:08:45–00:10:10",
+          "task": "Withers sponsorship, antecedent to Cassius's “condition,” `Strongfair/Temwater`, regional director announcement, no extra funding"
+        },
+        {
+          "key": "DEL-S2E00-005",
+          "clock": "~00:10:05–both endings",
+          "task": "Production statement “next week season-one finale,” **22.120-second final-cue discrepancy**, secondary terminal “Oh”; MP3 seek alignment and origin of difference"
+        },
+        {
+          "key": "DEL-S2E00-006",
+          "clock": "Full recording",
+          "task": "Original audio not listened, speaker attribution and publisher/recording day not verified; avoid confusing a scripted monologue with group game action"
+        }
+      ],
+      "rows": [
+        {
+          "key": "DEL-S2E00-001",
+          "clock": "~00:00–00:01:25 and ~00:10:05–both endings",
+          "task": "Archive ID and narrated chronology: the existing complete-text classification places this Academy cutaway during the Season One kuo-toa operation, before S1E12. Retain opening while-Delvers/kuo-toa wording and next-week-Season-One-finale production statement as deferred audio targets. Archive S2E00 is retained, without turning narration into a played party session or assigning an exact fictional date."
+        },
+        {
+          "key": "DEL-S2E00-002",
+          "clock": "~00:00–00:05:30 and ~00:08:45–00:10:10",
+          "task": "Academy request and custody: Academy/Radiant Lance theatre and Aegis pronunciation, Cassius’s gold-rank request, Carrie’s presented Horn of Blasting and psychic shafts, denied aid and departure in the coach. Their return custody remains unshown; narration does not establish the relics were handed back at the guild."
+        },
+        {
+          "key": "DEL-S2E00-003",
+          "clock": "~00:08:45–00:10:10",
+          "task": "Inspection and resources: Withers sponsorship, prior funded researchers/guards, regional director announcement and no extra funding. Proposed inspection and future Bronze Ball are distinct from an enacted inspection, performed Ball or newly awarded gold-rank support at this cutaway’s cutoff."
+        },
+        {
+          "key": "DEL-S2E00-004",
+          "clock": "~00:01:25–00:09:00 and ~00:08:45–00:10:10",
+          "task": "Judgment, knowledge and proper names: Numilari, Ivorn/Iphorn, Keld, Zoltar/Warden/Gigashark identity/rank, city history, Tumin Maximus and Strongfair/Temwater forms. Cassius’s harsh characterization and Koh-wife disclosure are not knowledge shared by absent companions. Divination claims remain opinion; the antecedent to his unexplained condition is not a diagnosis."
+        },
+        {
+          "key": "DEL-S2E00-005",
+          "clock": "~00:10:05–both endings",
+          "task": "Source-tail difference: retain the previously measured 22.120-second final-cue discrepancy, Qwen terminal Oh and production announcement; align the actual MP3 before diagnosing its origin. No new metric or explanation of the difference is supplied. The placement implication is already text-classified under 001, with listening pending."
+        },
+        {
+          "key": "DEL-S2E00-006",
+          "clock": "Full recording; before audio/date/voice claims",
+          "task": "Existing provenance task: original recording not newly heard; speaker attribution and publisher/recording day remain unverified. Retain source-copy/seek questions without confusing a narrated cutaway or scripted monologue with group game action. Listening remains deferred by owner."
+        }
+      ],
+      "crosswalk": [
+        {
+          "old_key": "DEL-S2E00-001",
+          "current_keys": [
+            "DEL-S2E00-001",
+            "DEL-S2E00-002"
+          ],
+          "episode_wide_source_gate": false
+        },
+        {
+          "old_key": "DEL-S2E00-002",
+          "current_keys": [
+            "DEL-S2E00-002",
+            "DEL-S2E00-004"
+          ],
+          "episode_wide_source_gate": false
+        },
+        {
+          "old_key": "DEL-S2E00-003",
+          "current_keys": [
+            "DEL-S2E00-004"
+          ],
+          "episode_wide_source_gate": false
+        },
+        {
+          "old_key": "DEL-S2E00-004",
+          "current_keys": [
+            "DEL-S2E00-003",
+            "DEL-S2E00-004"
+          ],
+          "episode_wide_source_gate": false
+        },
+        {
+          "old_key": "DEL-S2E00-005",
+          "current_keys": [
+            "DEL-S2E00-001",
+            "DEL-S2E00-005"
+          ],
+          "episode_wide_source_gate": false
+        },
+        {
+          "old_key": "DEL-S2E00-006",
+          "current_keys": [
+            "DEL-S2E00-006"
+          ],
+          "episode_wide_source_gate": false
+        }
+      ]
+    }
+  ],
+  "new_issue_keys": [],
+  "resolved_issue_keys": [],
+  "ledger_change": {
+    "key": "DEL-S1E12-010",
+    "before_row": "| DEL-S1E12-010 | Snake Island hook and next intake | Short bearded patron brings **buckets of snakes and coins** and offers paid **Snake Island** assignment **at final cutoff**; no quest acceptance, departure or island visit. This is **the end of Season One and first arc**. **S2E00 — Cassius at the Guild** present but episode type/chronological position **not yet reviewed** |",
+    "after_row": "| DEL-S1E12-010 | Snake Island hook and next intake | Short bearded patron brings **buckets of snakes and coins** and offers paid **Snake Island** assignment **at final cutoff**; no quest acceptance, departure or island visit. This is **the end of Season One and first arc**. **S2E00 — Cassius at the Guild** has a recorded [text classification](../episodes/S2E00.md#canon-and-chronology-implications) as a narrated Academy cutaway during the Season One kuo-toa operation, before S1E12 in story time; archive ID S2E00 is retained. Audio/provenance questions remain open |",
+    "before_clause": "**S2E00 — Cassius at the Guild** present but episode type/chronological position **not yet reviewed**",
+    "after_clause": "**S2E00 — Cassius at the Guild** has a recorded [text classification](../episodes/S2E00.md#canon-and-chronology-implications) as a narrated Academy cutaway during the Season One kuo-toa operation, before S1E12 in story time; archive ID S2E00 is retained. Audio/provenance questions remain open",
+    "reason": "Synchronize stale research-status clause with existing S2E00 dossier and completed DEL-PREP-006; no new classification or issue resolution."
+  },
+  "queue_sections": [
+    "## S1E12 listening and continuity targets\n\nExisting dossier/ledger targets, with [historical mappings](../reports/DELVERS_S1E12_S2E00_ISSUE_ROUTING_2026-10-28.md). Listening is deferred; clocks remain uncalibrated.\n\n**Episode-wide source gate:** Retained from historical DEL-S1E12-007 and the source fields of 001: original MP3/ASR seek alignment, speaker mapping, publisher versus recording dates, opening clock offset and house-rule execution remain unverified. Listening is deferred. The source gate has no new ID; current 007 follows the ledger’s roper/piercer subject.\n\n| Key | SRT clock / gate | Review task |\n| --- | --- | --- |\n| DEL-S1E12-001 | ~01:28–02:02 and ~02:49–03:06 | Arc boundary and unresolved mysteries: Season One/first arc ends, but the interrupted ritual does not prove a summoned lake beast appeared or every Dunes mystery is solved. Preserve the threat/incantation as attributed words and distinguish the already-present cavern roper from a demonstrated summoning. Wife/sand, elves, sludge/runes and the tooth gate remain unresolved at this cutoff. |\n| DEL-S1E12-002 | ~00:00–00:16 | Re-equipment and Greatsword: short-rest/armor re-equip timing and exact Greatsword of Wounding identification/properties, including who can use it in which way. Keep this played opening separate from S1E11’s earlier departure cutoff and from unperformed rewards. |\n| DEL-S1E12-003 | ~00:00–00:16 and ~00:20–00:47 | Three-prisoner transport: cart lock/restraint, Boonefellow’s role and the three living prisoners’ arrival ahead of the Delvers. Preserve nonlethal handling and separate each later prisoner disposition; a cell arrival is not every captive’s final release or verdict. |\n| DEL-S1E12-004 | ~00:54–01:18 | Names, ethics and interrogation: Cheet/Cheat aka Merry, Wee Jas, Marek/Merrick surname and guild title; Zone of Truth reading and whether the elf circlet is actually used. Compelled truth is not compelled speech, and witness claims or guild findings do not prove objective physical possession. |\n| DEL-S1E12-005 | ~00:20–00:47 and ~02:03–02:50 | Bullywug warning and First Sons: Boonefellow/Norman/Faelan spellings and roles, refugee frogman’s identity, Glepo Ma’s possible delivery versus tracks. Missing companions are not thereby dead; retain their later recovery separately without inventing a played verbal warning. |\n| DEL-S1E12-006 | ~01:28–02:02 | Summoning plate and fragment: Noble Hollow location/maps, ritual words/city threat, disk source and breakage, and observed geared-fabrication resemblance. No proved same device, physical fragment fit, completed mechanism or magical repair follows merely from similarity. |\n| DEL-S1E12-007 | ~02:03–02:50 | Roper and piercer lifecycle: identity, pregnancy/brood wording, spells and one cultist swallowed with survival unshown. Preserve the observed birthing and roper death without universal biology, complete piercer eradication or a proven conjured-roper origin. |\n| DEL-S1E12-008 | ~02:03–02:50 | Aid and life status: Marek/Faelan/Norman outcomes and the separate combat/healing actions. Retain Broadside’s nonlethal help, Command Drop and Preserve Life, and Evelyn’s last five Lay on Hands split three to Faelan/two to Norman. Do not turn the recovery of allies into everyone surviving the swallowed-cultist event. |\n| DEL-S1E12-009 | ~02:49–03:06 | Guild decisions and property: Selenar Everbloom spelling, Broadside/Solburn findings, Cheet rehabilitation and planned Marek trial. Tower deed is promised, not handed over; no guilty verdict, completed rehabilitation or Bronze Ball is established here. |\n| DEL-S1E12-010 | ~03:03–03:06 | Snake Island hook: patron, coin/snake buckets and paid offer only; no acceptance, departure or island visit. Existing S2E00 text classification is complete as a narrated pre-finale cutaway; retain its archive ID and unresolved audio/provenance gates rather than reopening a presumed next Season Two session. |\n\n",
+    "## S2E00 listening and continuity targets\n\nExisting dossier/ledger targets, with [historical mappings](../reports/DELVERS_S1E12_S2E00_ISSUE_ROUTING_2026-10-28.md). Listening is deferred; clocks remain uncalibrated.\n\n| Key | SRT clock / gate | Review task |\n| --- | --- | --- |\n| DEL-S2E00-001 | ~00:00–00:01:25 and ~00:10:05–both endings | Archive ID and narrated chronology: the existing complete-text classification places this Academy cutaway during the Season One kuo-toa operation, before S1E12. Retain opening while-Delvers/kuo-toa wording and next-week-Season-One-finale production statement as deferred audio targets. Archive S2E00 is retained, without turning narration into a played party session or assigning an exact fictional date. |\n| DEL-S2E00-002 | ~00:00–00:05:30 and ~00:08:45–00:10:10 | Academy request and custody: Academy/Radiant Lance theatre and Aegis pronunciation, Cassius’s gold-rank request, Carrie’s presented Horn of Blasting and psychic shafts, denied aid and departure in the coach. Their return custody remains unshown; narration does not establish the relics were handed back at the guild. |\n| DEL-S2E00-003 | ~00:08:45–00:10:10 | Inspection and resources: Withers sponsorship, prior funded researchers/guards, regional director announcement and no extra funding. Proposed inspection and future Bronze Ball are distinct from an enacted inspection, performed Ball or newly awarded gold-rank support at this cutaway’s cutoff. |\n| DEL-S2E00-004 | ~00:01:25–00:09:00 and ~00:08:45–00:10:10 | Judgment, knowledge and proper names: Numilari, Ivorn/Iphorn, Keld, Zoltar/Warden/Gigashark identity/rank, city history, Tumin Maximus and Strongfair/Temwater forms. Cassius’s harsh characterization and Koh-wife disclosure are not knowledge shared by absent companions. Divination claims remain opinion; the antecedent to his unexplained condition is not a diagnosis. |\n| DEL-S2E00-005 | ~00:10:05–both endings | Source-tail difference: retain the previously measured 22.120-second final-cue discrepancy, Qwen terminal Oh and production announcement; align the actual MP3 before diagnosing its origin. No new metric or explanation of the difference is supplied. The placement implication is already text-classified under 001, with listening pending. |\n| DEL-S2E00-006 | Full recording; before audio/date/voice claims | Existing provenance task: original recording not newly heard; speaker attribution and publisher/recording day remain unverified. Retain source-copy/seek questions without confusing a narrated cutaway or scripted monologue with group game action. Listening remains deferred by owner. |\n\n"
+  ],
+  "queue_dated_addition": "**S1E12/S2E00 issue routing, 2026-10-28:** The [two-member crosswalk](../reports/DELVERS_S1E12_S2E00_ISSUE_ROUTING_2026-10-28.md) aligns finale and narrated-cutaway tasks with existing ledger IDs; all 16 global keys become centrally visible. The finale’s general source checks remain an unkeyed gate. One stale S1E12-010 classification clause now follows the already-completed S2E00 dossier/DEL-PREP-006; narrated placement and archive ID remain distinct. All 76 prior central rows remain intact, including completed DEL-PREP-006. No new issue ID, evidence resolution or listening; original task mappings are archived.\n\n",
+  "manifest_append": "### Independent tracking repair — S1E12/S2E00 issue routing\n\n[Crosswalk](../reports/DELVERS_S1E12_S2E00_ISSUE_ROUTING_2026-10-28.md) · [Checkpoint](DELVERS_S1E12_S2E00_ISSUE_ROUTING_2026-10-28.json) · [Preserved originals](../research/legacy/2026-10-28/delvers-s1e12-s2e00-issue-routing/README.md). Ten finale and six cutaway keys now have consistent dossier/central routing; the 76 earlier central rows remain verbatim. Historical targets, original story/source prefixes and an episode-wide finale source gate are preserved. One obsolete classification clause in S1E12-010 is synchronized with already-completed S2E00/DEL-PREP-006 records; all other ledger text is unchanged. No new ID, issue resolution, chronology finding, source analysis or listening. The archive ID and narrated pre-finale placement remain distinct; obsolete onward-intake pointers are explicitly historical. Listening remains deferred.\n",
+  "status": "both members and shared controls persisted; validation pending"
+}

@@ -1,4 +1,5 @@
 pyright==1.1.414
 ruff==0.17.2
+Pillow==12.0.0
 # Used by tools/evaluate_qwen_variants.py; needed for import/type analysis.
 rapidfuzz==3.14.6

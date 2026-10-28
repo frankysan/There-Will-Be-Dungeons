@@ -1,0 +1,245 @@
+{
+  "members": [
+    {
+      "episode": "S1E07",
+      "path": "delvers/episodes/S1E07.md",
+      "status": "routing persisted; validation pending",
+      "heading": "## Listening / provenance follow-up",
+      "old_block": "## Listening / provenance follow-up\n\n1. **DEL-S1E07-001 ~00:09–00:19:** dead brother `Brom/Bram Broscale` vs `Bran`; Wildfire's exact name; mental-subtitle/telepathy details; `Dawn Globe` charging claim **conflicts with common D&D drift globe mechanics** and is **NPC testimony**, not verified operating requirement.\n2. **DEL-S1E07-002 ~00:20–00:34:** wedding proper name `Battersby`, Petrification fading after 24 hours, spell's radiant rings, and distinction between reported cockatrice kill and played wedding.\n3. **DEL-S1E07-003 ~00:33–00:45:** Margaret's `Dupaton/Dupayton`, school `Laren Ilfelkier`; **bag holds one 60-lb object**, not a standard unlimited Bag of Holding. Bronze ball not held. Check original recorded craft/handout details before adding generic inventory traits.\n4. **DEL-S1E07-004 ~00:45–01:10:** `Psi Blast` feat's **unusual all-dice/unconsciousness** GM description vs written character sheet; names/assignments of First Sons, Five Emissaries, Viper Gang, Brigand Patrol; map locations/claimed piercer larva relations.\n5. **DEL-S1E07-005 ~01:19–01:34:** the rust trail truly leads from well toward smithy; verify NPC `Shmorth` and which warehouse barrel is extra; **do not infer origin of mimic from the well**.\n6. **DEL-S1E07-006 ~01:32–02:04:** Koh's confirmed **Life Stealing shortsword**, **Soul Knife hilt disintegration** and new hilt-free blade, rust-monster identification, and no armor AC change; Evelyn's adhesive hammer recovered, **normal** javelins used; Krandal +1 magical scale mail prevents corrosion.\n7. **DEL-S1E07-007 ~02:00–02:05:** single stirge on Bruno, Koh kill, Evelyn **3 Lay on Hands**, dog survives.\n8. **DEL-S1E07-008 ~02:16–02:33:** rust-monster antenna (Koh), three replacement buckles, no mimic sample confirmed; public water **never checked**, Brigand Patrol deployment and **unspent concrete** at episode end.\n9. **DEL-S1E07-009:** verify actual local MP3/SRT timing and original guild map, in-person/Discord written names and item sheets before asserting sound-checked or map-verified evidence.\n\n",
+      "new_block": "## Listening / provenance follow-up\n\nCurrent tasks follow the unchanged ledger subjects; existing 009 retains copy/provenance checks. The [historical-label crosswalk](../../reports/DELVERS_S1E07_S1E08_ISSUE_ROUTING_2026-10-28.md) preserves the former meanings. These are existing documentation targets; SRT clocks are not calibrated MP3 seeks, and listening remains deferred.\n\n| Key | SRT clock / gate | Review task |\n| --- | --- | --- |\n| DEL-S1E07-001 | ~00:09–00:19 | Broscale siblings and recovered globe: retain Brom/Bram versus Bran, living Buck/Wildfire’s exact name, badge-542/globe association and the distinction from S1E05’s healed Buck. The Dawn Globe charging statement remains NPC testimony; the historical request to compare it with drift-globe rules is an uncompleted rules check, not a new rulebook finding. |\n| DEL-S1E07-002 | ~00:09–00:19, ~00:45–00:49 and ~01:32–02:04 | Psionic training and hilt: mental-subtitle/telepathy details, Psionic Whispers and later unused Psi Blast. Preserve the unusual all-dice/unconsciousness description as a sheet/ruling check. The physical Soul Knife hilt disintegrates while the psychic blade persists. Wildfire displays but retains his stone circlet; no transfer is established. |\n| DEL-S1E07-003 | ~00:33–00:45 and ~01:32–02:04 | Purchased equipment in use: Life Stealing shortsword, not a completed Corpse Slayer switch; Evelyn’s Vicious hammer sticks and is recovered; ordinary javelins are used. Krandal’s +1 magical scale mail prevents corrosion in this encounter, while Koh’s armor AC does not change. Keep actual use distinct from earlier commissions and item-sheet expectations. |\n| DEL-S1E07-004 | ~00:33–00:45 | School, bag and planned ball: Margaret Dupaton/Dupayton and Laren Ilfelkier remain provisional forms. Bag of Hammer Holding holds one object up to 60 lb and is tested with Evelyn’s hammer; do not replace it with generic Bag of Holding traits. Bronze Ball is not held. Honeysuckle symbolism does not identify the person Evelyn seeks; original craft/handout details remain unverified. |\n| DEL-S1E07-005 | ~00:05–00:10 and ~00:20–00:34 | Cockatrice, wedding and earnings: Battersby wording, petrification fading after about 24 hours, radiant rings and the distinction between reported cockatrice combat and the played wedding. Krandal earns no private fee. The announced 580 gold in weekly earnings is not unambiguously per member or pooled; no new level is confirmed. |\n| DEL-S1E07-006 | ~00:49–01:10 | Predator ecology and black ichor: guild food-chain, piercer-larva/larger-creature and dark-goo explanations remain hypotheses. Do not infer metamorphosis, a common source or confirmation of Enzo’s awakening-heart forecast. Guild diagrams and map locations remain uninspected. |\n| DEL-S1E07-007 | ~01:19–02:25 | Southwestern monsters, civilians and items: rust trail toward smithy, Shmorth wording and the extra warehouse barrel; no proved mimic origin from the well. Retain rust-monster identification, one rust monster/mimic/stirge defeated, Koh’s stirge kill, Bruno surviving Evelyn’s 3 Lay on Hands and the worker’s treatment. One antenna and three ordinary buckles are retained; no mimic sample is confirmed, and the blacksmith is human rather than a verified bugman. |\n| DEL-S1E07-008 | ~01:01–01:10 and ~02:02–02:33 | Well safety and cutoff: southwestern assignment, abandoned corpse-disposal proposal, rock thrown, no descent or water test despite reassurance. Brigand Patrol is deployed; the party runs back carrying unused concrete. No inspection, seal, potable-water finding or reports from other wells are completed at this cutoff. |\n| DEL-S1E07-009 | Before sound/map assertions; assignments SRT ~00:45–01:10 | Verify the actual MP3 copy and SRT clock correspondence, original guild map, written names and item sheets before claiming audio/map verification. Retain First Sons, Five Emissaries, Viper Gang and Brigand Patrol names/assignments and map positions as existing provenance targets. No fresh source, rules or historical-sheet inspection is performed. |\n\n",
+      "old_tail": "**Next candidate:** **Delvers S1E08**, exact title and matching sources to be verified from the owner-normalized inventory before advancing the episode pointer.\n",
+      "new_tail": "**Historical onward episode (already researched):** **Delvers S1E08**. The former inventory-verification pointer is historical; main-campaign intake is complete through S3E12. Use the [current queue](../REVIEW_QUEUE.md) for independent verification.\n",
+      "rows": [
+        {
+          "key": "DEL-S1E07-001",
+          "clock": "~00:09–00:19",
+          "task": "Broscale siblings and recovered globe: retain Brom/Bram versus Bran, living Buck/Wildfire’s exact name, badge-542/globe association and the distinction from S1E05’s healed Buck. The Dawn Globe charging statement remains NPC testimony; the historical request to compare it with drift-globe rules is an uncompleted rules check, not a new rulebook finding."
+        },
+        {
+          "key": "DEL-S1E07-002",
+          "clock": "~00:09–00:19, ~00:45–00:49 and ~01:32–02:04",
+          "task": "Psionic training and hilt: mental-subtitle/telepathy details, Psionic Whispers and later unused Psi Blast. Preserve the unusual all-dice/unconsciousness description as a sheet/ruling check. The physical Soul Knife hilt disintegrates while the psychic blade persists. Wildfire displays but retains his stone circlet; no transfer is established."
+        },
+        {
+          "key": "DEL-S1E07-003",
+          "clock": "~00:33–00:45 and ~01:32–02:04",
+          "task": "Purchased equipment in use: Life Stealing shortsword, not a completed Corpse Slayer switch; Evelyn’s Vicious hammer sticks and is recovered; ordinary javelins are used. Krandal’s +1 magical scale mail prevents corrosion in this encounter, while Koh’s armor AC does not change. Keep actual use distinct from earlier commissions and item-sheet expectations."
+        },
+        {
+          "key": "DEL-S1E07-004",
+          "clock": "~00:33–00:45",
+          "task": "School, bag and planned ball: Margaret Dupaton/Dupayton and Laren Ilfelkier remain provisional forms. Bag of Hammer Holding holds one object up to 60 lb and is tested with Evelyn’s hammer; do not replace it with generic Bag of Holding traits. Bronze Ball is not held. Honeysuckle symbolism does not identify the person Evelyn seeks; original craft/handout details remain unverified."
+        },
+        {
+          "key": "DEL-S1E07-005",
+          "clock": "~00:05–00:10 and ~00:20–00:34",
+          "task": "Cockatrice, wedding and earnings: Battersby wording, petrification fading after about 24 hours, radiant rings and the distinction between reported cockatrice combat and the played wedding. Krandal earns no private fee. The announced 580 gold in weekly earnings is not unambiguously per member or pooled; no new level is confirmed."
+        },
+        {
+          "key": "DEL-S1E07-006",
+          "clock": "~00:49–01:10",
+          "task": "Predator ecology and black ichor: guild food-chain, piercer-larva/larger-creature and dark-goo explanations remain hypotheses. Do not infer metamorphosis, a common source or confirmation of Enzo’s awakening-heart forecast. Guild diagrams and map locations remain uninspected."
+        },
+        {
+          "key": "DEL-S1E07-007",
+          "clock": "~01:19–02:25",
+          "task": "Southwestern monsters, civilians and items: rust trail toward smithy, Shmorth wording and the extra warehouse barrel; no proved mimic origin from the well. Retain rust-monster identification, one rust monster/mimic/stirge defeated, Koh’s stirge kill, Bruno surviving Evelyn’s 3 Lay on Hands and the worker’s treatment. One antenna and three ordinary buckles are retained; no mimic sample is confirmed, and the blacksmith is human rather than a verified bugman."
+        },
+        {
+          "key": "DEL-S1E07-008",
+          "clock": "~01:01–01:10 and ~02:02–02:33",
+          "task": "Well safety and cutoff: southwestern assignment, abandoned corpse-disposal proposal, rock thrown, no descent or water test despite reassurance. Brigand Patrol is deployed; the party runs back carrying unused concrete. No inspection, seal, potable-water finding or reports from other wells are completed at this cutoff."
+        },
+        {
+          "key": "DEL-S1E07-009",
+          "clock": "Before sound/map assertions; assignments SRT ~00:45–01:10",
+          "task": "Verify the actual MP3 copy and SRT clock correspondence, original guild map, written names and item sheets before claiming audio/map verification. Retain First Sons, Five Emissaries, Viper Gang and Brigand Patrol names/assignments and map positions as existing provenance targets. No fresh source, rules or historical-sheet inspection is performed."
+        }
+      ],
+      "crosswalk": [
+        {
+          "old_key": "DEL-S1E07-001",
+          "question": "Broscale/globe testimony and mental-subtitle training",
+          "current_keys": [
+            "DEL-S1E07-001",
+            "DEL-S1E07-002"
+          ]
+        },
+        {
+          "old_key": "DEL-S1E07-002",
+          "question": "Cockatrice, Battersby wedding and radiant rings",
+          "current_keys": [
+            "DEL-S1E07-005"
+          ]
+        },
+        {
+          "old_key": "DEL-S1E07-003",
+          "question": "Margaret, school, bag and planned ball",
+          "current_keys": [
+            "DEL-S1E07-004"
+          ]
+        },
+        {
+          "old_key": "DEL-S1E07-004",
+          "question": "Psi Blast; companies/maps; predator/larva theory",
+          "current_keys": [
+            "DEL-S1E07-002",
+            "DEL-S1E07-009",
+            "DEL-S1E07-006"
+          ]
+        },
+        {
+          "old_key": "DEL-S1E07-005",
+          "question": "Rust trail, Shmorth, extra barrel and origin limit",
+          "current_keys": [
+            "DEL-S1E07-007"
+          ]
+        },
+        {
+          "old_key": "DEL-S1E07-006",
+          "question": "Hilt/psychic progression; equipment; rust identification",
+          "current_keys": [
+            "DEL-S1E07-002",
+            "DEL-S1E07-003",
+            "DEL-S1E07-007"
+          ]
+        },
+        {
+          "old_key": "DEL-S1E07-007",
+          "question": "Stirge, Bruno, kill and healing",
+          "current_keys": [
+            "DEL-S1E07-007"
+          ]
+        },
+        {
+          "old_key": "DEL-S1E07-008",
+          "question": "Antenna/buckles/sample; water, patrol and concrete cutoff",
+          "current_keys": [
+            "DEL-S1E07-007",
+            "DEL-S1E07-008"
+          ]
+        },
+        {
+          "old_key": "DEL-S1E07-009",
+          "question": "Copy/clock, map, written names and item-sheet verification",
+          "current_keys": [
+            "DEL-S1E07-009"
+          ]
+        }
+      ]
+    },
+    {
+      "episode": "S1E08",
+      "path": "delvers/episodes/S1E08.md",
+      "status": "routing persisted; validation pending",
+      "heading": "## Targeted listening and research queue",
+      "old_block": "## Targeted listening and research queue\n\n| Key | Approximate SRT clock | Resolve before promoting beyond ASR provisional |\n| --- | --- | --- |\n| DEL-S1E08-001 | ~00:03–00:08, 00:17–00:19 | Spoken city, Darma Edgestream / Dominic Reese / Hiroshi / Yolana forms, and other-well team's identity; verify spellings in original map/guild guide when available |\n| DEL-S1E08-002 | ~00:12–00:14, 02:08–02:12 | Exact well breach geometry, concrete/rock placement, whether both sealed sites isolate well without sealing the elemental in; only shown action is asserted seal, **not water testing** |\n| DEL-S1E08-003 | ~00:33–00:41 | Rock creature's dialect and warning; avoid treating improvised language explanations as established Krandal backstory |\n| DEL-S1E08-004 | ~00:49–01:03, 01:52–01:57 | Boonefellow / Norman Green / Faelan Ianya and First Sons spelling; check exact claim dispute and puzzle participants; map not inspected |\n| DEL-S1E08-005 | ~01:26–01:36, 01:45–02:00, 02:11–02:13 | Horn of Blasting, 19 thunder damage, temporary deafness/crack, **eight** shafts and **six** platform sockets, spare/transfer and armor custody; use sheets/maps or audio if needed |\n| DEL-S1E08-006 | ~02:00–02:24 | Temple-floor destruction, Maynard conversation, concrete consumed, sash **not yet retrieved**, deeper cavern/piercers and **gelatinous-cube reveal with no ensuing fight** |\n| DEL-S1E08-007 | Full episode | Align source MP3 to each SRT; filename pipeline settings and initial audio equivalence unverified; no direct original recording listened to |\n\n",
+      "new_block": "## Targeted listening and research queue\n\nCurrent tasks follow the unchanged ledger subjects; existing 007 retains copy/provenance checks. The [historical-label crosswalk](../../reports/DELVERS_S1E07_S1E08_ISSUE_ROUTING_2026-10-28.md) preserves the former meanings. These are existing documentation targets; SRT clocks are not calibrated MP3 seeks, and listening remains deferred.\n\n| Key | SRT clock / gate | Review task |\n| --- | --- | --- |\n| DEL-S1E08-001 | ~00:12–00:14 and ~02:00–02:12 | Well breach and completed seal: exact outward-from-cavern breach geometry, concrete/rock placement and the two teams’ respective sealed approaches. Preserve whether the elemental remains outside the isolated well-side path as a geometry question. One concrete sack is used; the water is not tested, and wider tunnels remain open. |\n| DEL-S1E08-002 | ~00:49–01:03 and ~01:49–01:57 | First Sons roster and cooperation: Boonefellow, Norman Green and Faelan/Faelen Ianya spellings; three members present, initial claim dispute resolved without fighting, then six-person puzzle and sealing cooperation. The two companies remain distinct. Original map is not inspected. |\n| DEL-S1E08-003 | ~01:45–02:11 | Temple entrance and damage: six sufficiently weighted shaft platforms open slabs in Pelor’s temple floor; Brother Maynard witnesses the disruption. Preserve the conversation, physical connection and structural damage without assuming teleportation, instant repair, compensation or a disciplinary outcome. |\n| DEL-S1E08-004 | ~01:26–01:36, ~01:45–02:00 and ~02:11–02:13 | Horn and shafts: Horn of Blasting, 19 thunder damage to Evelyn and Krandal, temporary deafness, small crack and short rest. Eight shafts, six platform sockets, psychic spearhead and two spares remain distinct from the Soul Knife. Evelyn keeps the horn; a spare-shaft offer does not establish acceptance or final ownership. Check sheet/map/audio support before promoting inventory or mechanism claims. |\n| DEL-S1E08-005 | ~01:03–01:26 and ~02:00–02:15 | Sash, ordinary ropes and equipment: Sultan’s Sash remains fastened at the well and retrieval is only intended. Ordinary pit-crossing ropes have separate roles, including First Sons’ fixed rope. Evelyn’s removed chain mail, hammer and pack have no separately narrated final pickup. Table-side duplicate-item deletion is not an in-world transfer; preserve custody uncertainty. |\n| DEL-S1E08-006 | ~00:33–00:41 and ~02:00–02:24 | Rock creature, warning and cliffhanger: Primordial dialect/rapport and assistance do not establish invented language-training history or a specific monster behind the warning. Deeper cavern/piercers and gelatinous-cube reveal remain separate; no cube fight, new reward, level or guild return occurs before cutoff. |\n| DEL-S1E08-007 | Before listening; names SRT ~00:03–00:08, ~00:17–00:19 | Existing source-copy/provenance key retains MP3-to-SRT alignment, filename-derived settings and unverified initial audio equivalence. Preserve the former 001 city and Darma Edgestream / Dominic Reese / Hiroshi / Yolana naming and other-well-team identification targets; check original map/guild-guide spellings when available. Keep these separate from the First Sons roster. No original recording is newly heard or written authority newly inspected. |\n\n",
+      "old_tail": "**Next verified candidate:** **Delvers S1E09 — Once a Month Goat**, according to [inventory](../SOURCE_INVENTORY.md). Core dossier/report/queue published; **further continuity, subject-page and automated-check validation is tracked separately**.\n",
+      "new_tail": "**Historical onward episode (already researched):** **Delvers S1E09 — Once a Month Goat**, according to [inventory](../SOURCE_INVENTORY.md). The former publication/validation pointer records an earlier checkpoint; it does not restart completed intake or replace the [current queue](../REVIEW_QUEUE.md).\n",
+      "rows": [
+        {
+          "key": "DEL-S1E08-001",
+          "clock": "~00:12–00:14 and ~02:00–02:12",
+          "task": "Well breach and completed seal: exact outward-from-cavern breach geometry, concrete/rock placement and the two teams’ respective sealed approaches. Preserve whether the elemental remains outside the isolated well-side path as a geometry question. One concrete sack is used; the water is not tested, and wider tunnels remain open."
+        },
+        {
+          "key": "DEL-S1E08-002",
+          "clock": "~00:49–01:03 and ~01:49–01:57",
+          "task": "First Sons roster and cooperation: Boonefellow, Norman Green and Faelan/Faelen Ianya spellings; three members present, initial claim dispute resolved without fighting, then six-person puzzle and sealing cooperation. The two companies remain distinct. Original map is not inspected."
+        },
+        {
+          "key": "DEL-S1E08-003",
+          "clock": "~01:45–02:11",
+          "task": "Temple entrance and damage: six sufficiently weighted shaft platforms open slabs in Pelor’s temple floor; Brother Maynard witnesses the disruption. Preserve the conversation, physical connection and structural damage without assuming teleportation, instant repair, compensation or a disciplinary outcome."
+        },
+        {
+          "key": "DEL-S1E08-004",
+          "clock": "~01:26–01:36, ~01:45–02:00 and ~02:11–02:13",
+          "task": "Horn and shafts: Horn of Blasting, 19 thunder damage to Evelyn and Krandal, temporary deafness, small crack and short rest. Eight shafts, six platform sockets, psychic spearhead and two spares remain distinct from the Soul Knife. Evelyn keeps the horn; a spare-shaft offer does not establish acceptance or final ownership. Check sheet/map/audio support before promoting inventory or mechanism claims."
+        },
+        {
+          "key": "DEL-S1E08-005",
+          "clock": "~01:03–01:26 and ~02:00–02:15",
+          "task": "Sash, ordinary ropes and equipment: Sultan’s Sash remains fastened at the well and retrieval is only intended. Ordinary pit-crossing ropes have separate roles, including First Sons’ fixed rope. Evelyn’s removed chain mail, hammer and pack have no separately narrated final pickup. Table-side duplicate-item deletion is not an in-world transfer; preserve custody uncertainty."
+        },
+        {
+          "key": "DEL-S1E08-006",
+          "clock": "~00:33–00:41 and ~02:00–02:24",
+          "task": "Rock creature, warning and cliffhanger: Primordial dialect/rapport and assistance do not establish invented language-training history or a specific monster behind the warning. Deeper cavern/piercers and gelatinous-cube reveal remain separate; no cube fight, new reward, level or guild return occurs before cutoff."
+        },
+        {
+          "key": "DEL-S1E08-007",
+          "clock": "Before listening; names SRT ~00:03–00:08, ~00:17–00:19",
+          "task": "Existing source-copy/provenance key retains MP3-to-SRT alignment, filename-derived settings and unverified initial audio equivalence. Preserve the former 001 city and Darma Edgestream / Dominic Reese / Hiroshi / Yolana naming and other-well-team identification targets; check original map/guild-guide spellings when available. Keep these separate from the First Sons roster. No original recording is newly heard or written authority newly inspected."
+        }
+      ],
+      "crosswalk": [
+        {
+          "old_key": "DEL-S1E08-001",
+          "question": "City, Darma/Dominic/Hiroshi/Yolana and other-well-team naming",
+          "current_keys": [
+            "DEL-S1E08-007"
+          ]
+        },
+        {
+          "old_key": "DEL-S1E08-002",
+          "question": "Well breach, rock/concrete geometry and untested water",
+          "current_keys": [
+            "DEL-S1E08-001"
+          ]
+        },
+        {
+          "old_key": "DEL-S1E08-003",
+          "question": "Rock-creature dialect/warning and improvised language backstory",
+          "current_keys": [
+            "DEL-S1E08-006"
+          ]
+        },
+        {
+          "old_key": "DEL-S1E08-004",
+          "question": "First Sons names, claim dispute and puzzle participants",
+          "current_keys": [
+            "DEL-S1E08-002"
+          ]
+        },
+        {
+          "old_key": "DEL-S1E08-005",
+          "question": "Horn/shafts, platform mechanism and armor custody",
+          "current_keys": [
+            "DEL-S1E08-004",
+            "DEL-S1E08-003",
+            "DEL-S1E08-005"
+          ]
+        },
+        {
+          "old_key": "DEL-S1E08-006",
+          "question": "Temple damage; completed seal; unretrieved sash; deeper cavern/cube",
+          "current_keys": [
+            "DEL-S1E08-003",
+            "DEL-S1E08-001",
+            "DEL-S1E08-005",
+            "DEL-S1E08-006"
+          ]
+        },
+        {
+          "old_key": "DEL-S1E08-007",
+          "question": "Audio-copy/clock and pipeline provenance",
+          "current_keys": [
+            "DEL-S1E08-007"
+          ]
+        }
+      ]
+    }
+  ],
+  "queue_sections": [
+    "## S1E07 listening and continuity targets\n\nExisting dossier/ledger questions are now centrally routed. Listening is deferred; clocks remain uncalibrated. Consult the [historical-label crosswalk](../reports/DELVERS_S1E07_S1E08_ISSUE_ROUTING_2026-10-28.md) before interpreting an older issue reference.\n\n| Key | SRT clock / gate | Review task |\n| --- | --- | --- |\n| DEL-S1E07-001 | ~00:09–00:19 | Broscale siblings and recovered globe: retain Brom/Bram versus Bran, living Buck/Wildfire’s exact name, badge-542/globe association and the distinction from S1E05’s healed Buck. The Dawn Globe charging statement remains NPC testimony; the historical request to compare it with drift-globe rules is an uncompleted rules check, not a new rulebook finding. |\n| DEL-S1E07-002 | ~00:09–00:19, ~00:45–00:49 and ~01:32–02:04 | Psionic training and hilt: mental-subtitle/telepathy details, Psionic Whispers and later unused Psi Blast. Preserve the unusual all-dice/unconsciousness description as a sheet/ruling check. The physical Soul Knife hilt disintegrates while the psychic blade persists. Wildfire displays but retains his stone circlet; no transfer is established. |\n| DEL-S1E07-003 | ~00:33–00:45 and ~01:32–02:04 | Purchased equipment in use: Life Stealing shortsword, not a completed Corpse Slayer switch; Evelyn’s Vicious hammer sticks and is recovered; ordinary javelins are used. Krandal’s +1 magical scale mail prevents corrosion in this encounter, while Koh’s armor AC does not change. Keep actual use distinct from earlier commissions and item-sheet expectations. |\n| DEL-S1E07-004 | ~00:33–00:45 | School, bag and planned ball: Margaret Dupaton/Dupayton and Laren Ilfelkier remain provisional forms. Bag of Hammer Holding holds one object up to 60 lb and is tested with Evelyn’s hammer; do not replace it with generic Bag of Holding traits. Bronze Ball is not held. Honeysuckle symbolism does not identify the person Evelyn seeks; original craft/handout details remain unverified. |\n| DEL-S1E07-005 | ~00:05–00:10 and ~00:20–00:34 | Cockatrice, wedding and earnings: Battersby wording, petrification fading after about 24 hours, radiant rings and the distinction between reported cockatrice combat and the played wedding. Krandal earns no private fee. The announced 580 gold in weekly earnings is not unambiguously per member or pooled; no new level is confirmed. |\n| DEL-S1E07-006 | ~00:49–01:10 | Predator ecology and black ichor: guild food-chain, piercer-larva/larger-creature and dark-goo explanations remain hypotheses. Do not infer metamorphosis, a common source or confirmation of Enzo’s awakening-heart forecast. Guild diagrams and map locations remain uninspected. |\n| DEL-S1E07-007 | ~01:19–02:25 | Southwestern monsters, civilians and items: rust trail toward smithy, Shmorth wording and the extra warehouse barrel; no proved mimic origin from the well. Retain rust-monster identification, one rust monster/mimic/stirge defeated, Koh’s stirge kill, Bruno surviving Evelyn’s 3 Lay on Hands and the worker’s treatment. One antenna and three ordinary buckles are retained; no mimic sample is confirmed, and the blacksmith is human rather than a verified bugman. |\n| DEL-S1E07-008 | ~01:01–01:10 and ~02:02–02:33 | Well safety and cutoff: southwestern assignment, abandoned corpse-disposal proposal, rock thrown, no descent or water test despite reassurance. Brigand Patrol is deployed; the party runs back carrying unused concrete. No inspection, seal, potable-water finding or reports from other wells are completed at this cutoff. |\n| DEL-S1E07-009 | Before sound/map assertions; assignments SRT ~00:45–01:10 | Verify the actual MP3 copy and SRT clock correspondence, original guild map, written names and item sheets before claiming audio/map verification. Retain First Sons, Five Emissaries, Viper Gang and Brigand Patrol names/assignments and map positions as existing provenance targets. No fresh source, rules or historical-sheet inspection is performed. |\n\n",
+    "## S1E08 listening and continuity targets\n\nExisting dossier/ledger questions are now centrally routed. Listening is deferred; clocks remain uncalibrated. Consult the [historical-label crosswalk](../reports/DELVERS_S1E07_S1E08_ISSUE_ROUTING_2026-10-28.md) before interpreting an older issue reference.\n\n| Key | SRT clock / gate | Review task |\n| --- | --- | --- |\n| DEL-S1E08-001 | ~00:12–00:14 and ~02:00–02:12 | Well breach and completed seal: exact outward-from-cavern breach geometry, concrete/rock placement and the two teams’ respective sealed approaches. Preserve whether the elemental remains outside the isolated well-side path as a geometry question. One concrete sack is used; the water is not tested, and wider tunnels remain open. |\n| DEL-S1E08-002 | ~00:49–01:03 and ~01:49–01:57 | First Sons roster and cooperation: Boonefellow, Norman Green and Faelan/Faelen Ianya spellings; three members present, initial claim dispute resolved without fighting, then six-person puzzle and sealing cooperation. The two companies remain distinct. Original map is not inspected. |\n| DEL-S1E08-003 | ~01:45–02:11 | Temple entrance and damage: six sufficiently weighted shaft platforms open slabs in Pelor’s temple floor; Brother Maynard witnesses the disruption. Preserve the conversation, physical connection and structural damage without assuming teleportation, instant repair, compensation or a disciplinary outcome. |\n| DEL-S1E08-004 | ~01:26–01:36, ~01:45–02:00 and ~02:11–02:13 | Horn and shafts: Horn of Blasting, 19 thunder damage to Evelyn and Krandal, temporary deafness, small crack and short rest. Eight shafts, six platform sockets, psychic spearhead and two spares remain distinct from the Soul Knife. Evelyn keeps the horn; a spare-shaft offer does not establish acceptance or final ownership. Check sheet/map/audio support before promoting inventory or mechanism claims. |\n| DEL-S1E08-005 | ~01:03–01:26 and ~02:00–02:15 | Sash, ordinary ropes and equipment: Sultan’s Sash remains fastened at the well and retrieval is only intended. Ordinary pit-crossing ropes have separate roles, including First Sons’ fixed rope. Evelyn’s removed chain mail, hammer and pack have no separately narrated final pickup. Table-side duplicate-item deletion is not an in-world transfer; preserve custody uncertainty. |\n| DEL-S1E08-006 | ~00:33–00:41 and ~02:00–02:24 | Rock creature, warning and cliffhanger: Primordial dialect/rapport and assistance do not establish invented language-training history or a specific monster behind the warning. Deeper cavern/piercers and gelatinous-cube reveal remain separate; no cube fight, new reward, level or guild return occurs before cutoff. |\n| DEL-S1E08-007 | Before listening; names SRT ~00:03–00:08, ~00:17–00:19 | Existing source-copy/provenance key retains MP3-to-SRT alignment, filename-derived settings and unverified initial audio equivalence. Preserve the former 001 city and Darma Edgestream / Dominic Reese / Hiroshi / Yolana naming and other-well-team identification targets; check original map/guild-guide spellings when available. Keep these separate from the First Sons roster. No original recording is newly heard or written authority newly inspected. |\n\n"
+  ],
+  "new_issue_keys": [],
+  "resolved_issue_keys": [],
+  "queue_dated_addition": "**S1E07/S1E08 issue routing, 2026-10-28:** The [two-episode crosswalk](../reports/DELVERS_S1E07_S1E08_ISSUE_ROUTING_2026-10-28.md) aligns 16 existing dossier keys with unchanged ledger subjects and adds matching central task rows. S1E07’s 009 retains map/assignment/sheet provenance; S1E08’s 007 retains source-copy and naming provenance, including the former 001 targets. Historical meanings and original lists are archived; no key is allocated or closed. Story/source sections and the ledger remain unchanged. Listening is deferred, and this is not a fresh source or campaign-wide issue audit.\n\n",
+  "manifest_append": "### Independent tracking repair — S1E07/S1E08 issue routing\n\n[Crosswalk](../reports/DELVERS_S1E07_S1E08_ISSUE_ROUTING_2026-10-28.md) · [Checkpoint](DELVERS_S1E07_S1E08_ISSUE_ROUTING_2026-10-28.json) · [Preserved originals](../research/legacy/2026-10-28/delvers-s1e07-s1e08-issue-routing/README.md). S1E07’s nine and S1E08’s seven existing keys now follow unchanged ledger subjects, with source/provenance questions retained under existing 009/007. All 16 tasks are centrally visible; 36 earlier task rows remain intact. Historical mappings, all original targets and both story/source prefixes are preserved. Obsolete onward-intake pointers are explicitly historical. No new key, resolution, source interpretation or listening; the listening deferral remains. This completes the two demonstrated routing repairs, not a campaign-wide audit.\n",
+  "status": "both dossier routes and shared controls persisted; validation pending",
+  "readback_adjustments": "Retained the explicit scale-mail corrosion target and sheet/map/audio completion rule. Final added tails end with one newline; no added blank EOF lines."
+}

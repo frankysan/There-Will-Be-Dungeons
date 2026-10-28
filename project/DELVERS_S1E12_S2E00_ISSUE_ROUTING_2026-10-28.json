@@ -1,0 +1,278 @@
+{
+  "date": "2026-10-28",
+  "campaign": "Delvers",
+  "batch": "delvers-s1e12-s2e00-issue-routing",
+  "head": "56c0029a89d3f624a17ba36c3cf00ce77cb47ff3",
+  "status": "complete; S1E12/S2E00 routing and stale classification-status clause reconciled; pre-existing lint exception retained",
+  "scope": "two confirmed routing repairs and one stale classification-status clause; no fresh source interpretation",
+  "archive_manifest": "research/legacy/2026-10-28/delvers-s1e12-s2e00-issue-routing/manifest.json",
+  "members": [
+    {
+      "episode": "S1E12",
+      "type": "played session; Season One/first-arc finale",
+      "status": "complete; editorial, integrity, link and whitespace checks passed; dossier lint passed",
+      "path": "delvers/episodes/S1E12.md",
+      "existing_issue_keys": [
+        "DEL-S1E12-001",
+        "DEL-S1E12-002",
+        "DEL-S1E12-003",
+        "DEL-S1E12-004",
+        "DEL-S1E12-005",
+        "DEL-S1E12-006",
+        "DEL-S1E12-007",
+        "DEL-S1E12-008",
+        "DEL-S1E12-009",
+        "DEL-S1E12-010"
+      ],
+      "ledger_rows_after": [
+        "| DEL-S1E12-001 | Arc boundary vs unsolved Dunes mysteries | Host calls **S1E12 the final episode of Delvers Season One**; archive owner defines **end of first story arc**. **Marek's midnight ritual interrupted**, “beast of lake” not observed manifest; roper already in subterranean cavern. **Wife/black sand, silent elves, rune/black sludge, toothed gate, cosmology still unsolved**. First-arc narrative closure ≠ whole mystery solved |",
+        "| DEL-S1E12-002 | Re-equipment and Greatsword | Village short rest and **all regular armor re-equipped before road**, played at S1E12 opening rather than S1E11 cutoff. Evelyn's seized massive sword formally identified **Greatsword of Wounding**; Broadside could use 1-handed due to size, others generally 2-handed. No new magical payment inferred |",
+        "| DEL-S1E12-003 | Three prisoner transport | **Two horse cage carriage found** (PC deduction left for them). Cheet temporarily rouses, **Evelyn punches out nonlethally**. **Boonefellow brings all three** living S1E11 prisoners **to guild ahead of PCs**; physically locked by dagger after failed rope knots. Later **Broadside recruited**, Cheet held, kuo-toa wizard remains in cell, last disposition not depicted |",
+        "| DEL-S1E12-004 | Names, ethics, magical interrogation | **Marek/Merrick Gideon(s)** guild researcher is mounted darkmantle-hooded leader; exact orthography/audio unresolved. **Cheet/Cheat, also Merry/Mary**, appears human blonde, **cleric of Wee Jas** (strong Q support, not independently verified written sheet). Zone of Truth **does not compel speech**, players explicitly told no intimidation/violence. Researcher went mad/controlling others per Cheet/Broadside and later guild finding, not objective physical possession proven |",
+        "| DEL-S1E12-005 | Bullywug warning and First Sons custody | Straw-hatted bullywug **actually escorts Boonefellow to road**, who was injured; **Faelan abducted** and **Norman missing** at then-current cutoff, not dead. Fish footprints at bullywug swamp village **compatible with Glepo Ma arriving**, but no played verbal warning delivery shown. Both First Sons members **later found alive** and Evelyn heals them. Frogman's own identity/role unresolved |",
+        "| DEL-S1E12-006 | Summoning ring/fragment relationship | Noble Hollow **summoning plate breaks when Faelan falls** as Marek knocked unconscious. Koh visually recognizes **same stone-metal geared fabrication** as S1E11 quarter disc. This **strengthens artifact relationship** yet no demonstrated physical fit, same individual device, mechanism operation, remaining fragments or magical repair. Remnant ritual's **city-threat claim** not observed fulfillment |",
+        "| DEL-S1E12-007 | Roper and piercer lifecycle | **Enormous roper described as birthing baby piercers from lower opening** in play, corroborating this dungeon's monster ecology. **One cultist swallowed by roper; survival is not shown**; Evelyn eventually destroys roper by **critical javelin in brood hole**. Not evidence every piercer extinguished (many crawl away), or roper was specifically conjured by ritual; collapsing ground **reveals it already in cave** |",
+        "| DEL-S1E12-008 | Aid and compassion | Broadside **helps subdue Solburn** rather than killing friend; **Krandal uses Command Drop twice** to release grappled friends, **Preserve Life first played** to restore himself to half and heal hostile-associated **Solburn by 9**, Solburn resumes ally attacks. Evelyn uses last 5 Lay on Hands **3 for Faelan, 2 Norman**; both return to consciousness. “Everyone lives” incorrect due swallowed cultist |",
+        "| DEL-S1E12-009 | Finale guild decisions and property | Selenar/Cassius **clear PCs**, plan Marek academy trial (no guilty verdict), Broadside/Solburn **cleared by guild** as influenced, Cheet **rehab planned** not shown, Big Bleeper Bloops subsequent fate unaddressed. Guild has **no supplemental cash** due war against northern vampires; **Krandal promised deed to old tower**, **not transferred in hand**. Bronze Ball not yet held |",
+        "| DEL-S1E12-010 | Snake Island hook and next intake | Short bearded patron brings **buckets of snakes and coins** and offers paid **Snake Island** assignment **at final cutoff**; no quest acceptance, departure or island visit. This is **the end of Season One and first arc**. **S2E00 — Cassius at the Guild** has a recorded [text classification](../episodes/S2E00.md#canon-and-chronology-implications) as a narrated Academy cutaway during the Season One kuo-toa operation, before S1E12 in story time; archive ID S2E00 is retained. Audio/provenance questions remain open |"
+      ],
+      "ledger_rows_unchanged_count": 9,
+      "prefix_byte_identical": true,
+      "headings_preserved": true,
+      "original_newline_format_retained": true,
+      "task_rows_match_central_queue": 10,
+      "historical_targets_mapped": 7,
+      "episode_wide_source_gate_retained": true,
+      "source_windows_reviewed": [],
+      "audio_reviewed": false,
+      "new_ASR_metric": null,
+      "sha256_after": "9c9ca67fa8ac335c28a0faf35b25143005803f4d1ff25d37196d2f6486783950"
+    },
+    {
+      "episode": "S2E00",
+      "type": "narrated in-universe Academy cutaway; no played party session",
+      "status": "complete; editorial, integrity, link and whitespace checks passed; dossier lint passed",
+      "path": "delvers/episodes/S2E00.md",
+      "existing_issue_keys": [
+        "DEL-S2E00-001",
+        "DEL-S2E00-002",
+        "DEL-S2E00-003",
+        "DEL-S2E00-004",
+        "DEL-S2E00-005",
+        "DEL-S2E00-006"
+      ],
+      "ledger_rows_after": [
+        "| DEL-S2E00-001 | Archive ID versus narrated chronology | Owner-normalized **S2E00 — Cassius at the Guild** is an **in-universe narrator cutaway**, without player-character action. Opening locates it during **S1E10/11 kuo-toa expedition**, while **outro says the next recording is Season One's finale**. Retain archive ID S2E00 but position its events **before S1E12 in-world**. Not a season-two party quest |",
+        "| DEL-S2E00-002 | Cassius's academy request and custody | Cassius asks for **gold-ranked aid** to deal with Underdark creatures; **Carrie physically displays Horn of Blasting and psychic shaft(s)** from guild custody in Academy theatre. **Three-person ruling board denies new aid**, directs him toward **future Bronze Ball**; **Cassius/Carrie leave in Aegis's coach**, no arrival shown at S2E00 cutoff. This explains their earlier local absence without automatically proving relics returned |",
+        "| DEL-S2E00-003 | Inspections and resource constraints | Board says **two researchers/silver guards were funded for forest ruin** nearly two months earlier, with no information supplied to Cassius. Announces **regional director Selenar Everbloom's inspection**; her appearance in **S1E12 epilogue** is later shown. War against vampires in other districts and Withers generosity are discussed, but **no new funds awarded or Bronze Ball performed** |",
+        "| DEL-S2E00-004 | Judgment/knowledge vs objective fact | Cassius privately **criticizes Krandal's pay concerns, Koh's desperation to cure his wife and Evelyn's schoolgirl life** before board. **These are his opinions**, not objective moral adjudications nor knowledge the absent PCs share. Elder says divination choosing party is infallible (opinion); board refers to Cassius's **unexplained “condition”**, no diagnosis. Ancient historical claims, `Numilari`, `Ivorn/Iphorn` and city/place spellings **ASR provisional** |",
+        "| DEL-S2E00-005 | ASR source-tail difference | Both complete exports: **Parakeet 173 cues/1,451 words, end 00:10:36.380; Qwen 220/1,456, end 00:10:58.500**; **80 / 1,451 = 5.51%** ordered-word disagreement. Qwen includes terminal `Oh` and ends **22.120 s later**. Original MP3 not listened, timestamp discrepancy neither diagnosed nor called hallucination |"
+      ],
+      "ledger_rows_unchanged_count": 5,
+      "prefix_byte_identical": true,
+      "headings_preserved": true,
+      "original_newline_format_retained": true,
+      "task_rows_match_central_queue": 6,
+      "historical_targets_mapped": 6,
+      "episode_wide_source_gate_retained": false,
+      "source_windows_reviewed": [],
+      "audio_reviewed": false,
+      "new_ASR_metric": null,
+      "sha256_after": "db9409e52c60568e7138b58c9b9305b2074e9099c0469e8da0f7f4a957cca8b5"
+    }
+  ],
+  "historical_crosswalks": {
+    "S1E12": [
+      {
+        "old_key": "DEL-S1E12-001",
+        "current_keys": [
+          "DEL-S1E12-002",
+          "DEL-S1E12-003"
+        ],
+        "episode_wide_source_gate": true
+      },
+      {
+        "old_key": "DEL-S1E12-002",
+        "current_keys": [
+          "DEL-S1E12-005"
+        ],
+        "episode_wide_source_gate": false
+      },
+      {
+        "old_key": "DEL-S1E12-003",
+        "current_keys": [
+          "DEL-S1E12-004"
+        ],
+        "episode_wide_source_gate": false
+      },
+      {
+        "old_key": "DEL-S1E12-004",
+        "current_keys": [
+          "DEL-S1E12-001",
+          "DEL-S1E12-006"
+        ],
+        "episode_wide_source_gate": false
+      },
+      {
+        "old_key": "DEL-S1E12-005",
+        "current_keys": [
+          "DEL-S1E12-005",
+          "DEL-S1E12-007",
+          "DEL-S1E12-008",
+          "DEL-S1E12-009"
+        ],
+        "episode_wide_source_gate": false
+      },
+      {
+        "old_key": "DEL-S1E12-006",
+        "current_keys": [
+          "DEL-S1E12-001",
+          "DEL-S1E12-009",
+          "DEL-S1E12-010"
+        ],
+        "episode_wide_source_gate": false
+      },
+      {
+        "old_key": "DEL-S1E12-007",
+        "current_keys": [],
+        "episode_wide_source_gate": true
+      }
+    ],
+    "S2E00": [
+      {
+        "old_key": "DEL-S2E00-001",
+        "current_keys": [
+          "DEL-S2E00-001",
+          "DEL-S2E00-002"
+        ],
+        "episode_wide_source_gate": false
+      },
+      {
+        "old_key": "DEL-S2E00-002",
+        "current_keys": [
+          "DEL-S2E00-002",
+          "DEL-S2E00-004"
+        ],
+        "episode_wide_source_gate": false
+      },
+      {
+        "old_key": "DEL-S2E00-003",
+        "current_keys": [
+          "DEL-S2E00-004"
+        ],
+        "episode_wide_source_gate": false
+      },
+      {
+        "old_key": "DEL-S2E00-004",
+        "current_keys": [
+          "DEL-S2E00-003",
+          "DEL-S2E00-004"
+        ],
+        "episode_wide_source_gate": false
+      },
+      {
+        "old_key": "DEL-S2E00-005",
+        "current_keys": [
+          "DEL-S2E00-001",
+          "DEL-S2E00-005"
+        ],
+        "episode_wide_source_gate": false
+      },
+      {
+        "old_key": "DEL-S2E00-006",
+        "current_keys": [
+          "DEL-S2E00-006"
+        ],
+        "episode_wide_source_gate": false
+      }
+    ]
+  },
+  "ledger_change": {
+    "key": "DEL-S1E12-010",
+    "before_row": "| DEL-S1E12-010 | Snake Island hook and next intake | Short bearded patron brings **buckets of snakes and coins** and offers paid **Snake Island** assignment **at final cutoff**; no quest acceptance, departure or island visit. This is **the end of Season One and first arc**. **S2E00 — Cassius at the Guild** present but episode type/chronological position **not yet reviewed** |",
+    "after_row": "| DEL-S1E12-010 | Snake Island hook and next intake | Short bearded patron brings **buckets of snakes and coins** and offers paid **Snake Island** assignment **at final cutoff**; no quest acceptance, departure or island visit. This is **the end of Season One and first arc**. **S2E00 — Cassius at the Guild** has a recorded [text classification](../episodes/S2E00.md#canon-and-chronology-implications) as a narrated Academy cutaway during the Season One kuo-toa operation, before S1E12 in story time; archive ID S2E00 is retained. Audio/provenance questions remain open |",
+    "before_clause": "**S2E00 — Cassius at the Guild** present but episode type/chronological position **not yet reviewed**",
+    "after_clause": "**S2E00 — Cassius at the Guild** has a recorded [text classification](../episodes/S2E00.md#canon-and-chronology-implications) as a narrated Academy cutaway during the Season One kuo-toa operation, before S1E12 in story time; archive ID S2E00 is retained. Audio/provenance questions remain open",
+    "reason": "Synchronize stale research-status clause with existing S2E00 dossier and completed DEL-PREP-006; no new classification or issue resolution."
+  },
+  "new_issue_keys": [],
+  "resolved_issue_keys": [],
+  "listening": "deferred by owner",
+  "validation": {
+    "errors": [],
+    "exact_originals_verified": 5,
+    "existing_issue_keys_retained": 16,
+    "both_dossier_source_story_prefixes_byte_identical": true,
+    "central_rows_before": 76,
+    "central_rows_after": 92,
+    "prior_central_rows_verbatim": 76,
+    "ledger_rows_checked": 15,
+    "ledger_rows_unchanged": 14,
+    "ledger_metadata_clauses_updated": 1,
+    "all_other_ledger_text_unchanged": true,
+    "manifest_append_only_byte_prefix": true,
+    "protected_Delvers_files_unchanged": 143,
+    "protected_files_unchanged": 153,
+    "outside_scope_drift": [
+      {
+        "path": "reports/WASTES_CLEANUP_D048_CHARACTERS_LATER_COMPANIONS_71_2026-10-28.md",
+        "before_sha256": "4d592f9a3a02e7cf33e173e5861e202f261b2ded805bccd0c968082f0a570a38",
+        "observed_sha256": "06b36b571815d2b56f915bb5b8166ddfe13e7e5f4f01d43eca29b32ab323ee44",
+        "disposition": "outside-scope concurrent change; not restored"
+      },
+      {
+        "path": "world/CHARACTERS.md",
+        "before_sha256": "724dc35104ab920616d6ff46d950c879484a747c9773798064c80a86831a8de9",
+        "observed_sha256": "4cc02c92d88ccd220ea8df7598d7fcddb39c036d4e499152821abe8b240d6494",
+        "disposition": "outside-scope concurrent change; not restored"
+      }
+    ],
+    "new_local_links_checked": 33,
+    "rebased_archival_destination_correspondences": 730,
+    "guarded_edits_and_table_widths": "passed",
+    "scoped_whitespace_check": "passed",
+    "markdownlint": {
+      "maintained_files_checked": 6,
+      "maintained_files_without_violations": 5,
+      "baseline_ledger_violations": [
+        {
+          "line": 182,
+          "rule": "MD009",
+          "detail": "Expected: 0 or 2; Actual: 1"
+        }
+      ],
+      "current_ledger_violations": [
+        {
+          "line": 182,
+          "rule": "MD009",
+          "detail": "Expected: 0 or 2; Actual: 1"
+        }
+      ],
+      "baseline_line_unchanged": true,
+      "introduced_violations": 0,
+      "archive_README_violations": 0,
+      "final_report_recheck": "passed after results added"
+    },
+    "rendered_preview": "not performed",
+    "full_repository_audit": "not performed"
+  },
+  "next_action": "These two demonstrated repairs are complete after final validation; further maintenance requires a concrete discrepancy. No new main-campaign intake; listening remains deferred.",
+  "editorial_verification": "passed; thirteen historical labels mapped to sixteen existing IDs; classification follows existing records; source/story prefixes and all other ledger text preserved",
+  "changed_maintained_files": [
+    "delvers/episodes/S1E12.md",
+    "delvers/episodes/S2E00.md",
+    "delvers/REVIEW_QUEUE.md",
+    "delvers/world/CONSISTENCY_LEDGER.md",
+    "project/DELVERS_CLEANUP_MANIFEST.md",
+    "reports/DELVERS_S1E12_S2E00_ISSUE_ROUTING_2026-10-28.md"
+  ],
+  "changed_file_hashes_after": {
+    "delvers/episodes/S1E12.md": "9c9ca67fa8ac335c28a0faf35b25143005803f4d1ff25d37196d2f6486783950",
+    "delvers/episodes/S2E00.md": "db9409e52c60568e7138b58c9b9305b2074e9099c0469e8da0f7f4a957cca8b5",
+    "delvers/REVIEW_QUEUE.md": "1ae82577fd7776a6476ddde6562ca54127a84e3e06add235e3ee8126f570dcc7",
+    "delvers/world/CONSISTENCY_LEDGER.md": "fd41012d64230343e21549df7bc9e7c7b22e0d883d48d63b634284e99dccbcdb",
+    "project/DELVERS_CLEANUP_MANIFEST.md": "73528fc8bed709154df9c57077c2c8469924be40dff3f47effb7141391cebfff",
+    "reports/DELVERS_S1E12_S2E00_ISSUE_ROUTING_2026-10-28.md": "ca42c70c14e3c227697114f1df2ddefd8d32c4f73488a352b246b82fc5cd0082"
+  },
+  "final_HEAD": "56c0029a89d3f624a17ba36c3cf00ce77cb47ff3"
+}

@@ -286,8 +286,6 @@ def run(dry_run: bool, curated: bool, verify_snapshot: bool) -> None:
             existing = previous.get(url)
             assocs = associations.get(url, [])
             data = r["blob"]
-            digest = hashlib.sha256(data).hexdigest() if data is not None else None
-            found_type, extension = detect(data or b"")
             if data is None:
                 missed += 1
                 if existing and existing.get("path"):
@@ -303,6 +301,8 @@ def run(dry_run: bool, curated: bool, verify_snapshot: bool) -> None:
                         "declared_type": r["type"], "declared_bytes": r["size"],
                     }
             else:
+                digest = hashlib.sha256(data).hexdigest()
+                found_type, extension = detect(data)
                 if existing and existing.get("sha256") == digest and existing.get("path"):
                     rel = Path(existing["path"])
                     raw_path = RAW / rel

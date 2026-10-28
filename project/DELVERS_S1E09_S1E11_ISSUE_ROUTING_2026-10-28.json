@@ -1,0 +1,369 @@
+{
+  "date": "2026-10-28",
+  "campaign": "Delvers",
+  "batch": "delvers-s1e09-s1e11-issue-routing",
+  "head": "56c0029a89d3f624a17ba36c3cf00ce77cb47ff3",
+  "status": "complete; S1E09-S1E11 review-key routing repairs validated",
+  "scope": "three confirmed review-key routing repairs; no fresh source interpretation",
+  "archive_manifest": "research/legacy/2026-10-28/delvers-s1e09-s1e11-issue-routing/manifest.json",
+  "members": [
+    {
+      "episode": "S1E09",
+      "type": "played session documentation",
+      "status": "complete; editorial, structural, link, lint and whitespace checks passed",
+      "path": "delvers/episodes/S1E09.md",
+      "existing_issue_keys": [
+        "DEL-S1E09-001",
+        "DEL-S1E09-002",
+        "DEL-S1E09-003",
+        "DEL-S1E09-004",
+        "DEL-S1E09-005",
+        "DEL-S1E09-006",
+        "DEL-S1E09-007",
+        "DEL-S1E09-008"
+      ],
+      "ledger_rows_unchanged": [
+        "| DEL-S1E09-001 | Cube fight, hook horror and survivors | **Evelyn Lightning Javelin kills cube**, rescuing acid-engulfed Faelan. **Grick retreats with piercer alive**, and **Evelyn blasts charging hook horror for 21 thunder, Koh's bow kills it**. Koh then discovers **another live hook horror** while taking hook trophy. Cave and grick still dangerous, so **no final creature clearance** |",
+        "| DEL-S1E09-002 | Trophies, horn and psychic shafts | Evelyn's **Horn of Blasting** used **second time**, then **submitted to Carrie Underworld**; Koh also **submits one carved hook, one vial of gelatinous cube and one psychic spear shaft**. Monk courier carries specimens for guild checks. S1E08's “Evelyn holds horn” is superseded at S1E09 cutoff. Final return of inspected equipment unknown |",
+        "| DEL-S1E09-003 | Well operation, reward and next assignment | Cassius promises guild will prevent temple from billing party for accidental opening, assigns reserve wood-ranked guild guards and requires further study. **300 gp actually paid to each Delver**. Kuo-toa ruin job is **selected for following morning**, no journey or fish combat yet |",
+        "| DEL-S1E09-004 | Second shaft, strange drone and elf collapse | Behind **main sanctuary** tapestry is same ancient glyph design; removing wooden altar cover reveals **narrow droning shaft** resembling earlier ruins, separate from S1E08 **Hall of Penance physical stair opening**. **One elf collapses when drone heard**, wooden cover restored; whether sound directly causes ailment and exact rune meaning still unproven |",
+        "| DEL-S1E09-005 | Koh's sash, armor, wife and paid care | **Sultan's Sash retrieved from well** after Sultan himself asks about it earlier. Koh **buys new studded leather (45 gp)** and leaves old armor/replacement buckles with smith; one healing potion **consumed (six HP)** during cave aftermath. Koh contemplates psychic contact with unconscious wife but **has no remaining use** that day; does not demonstrate mental contact, diagnosis or cure |",
+        "| DEL-S1E09-006 | Purchases and delivery constraints | **Three Water Breathing potions**, one each (100 gp each), acquired. **Evelyn obtains Goat of Travail figurine (300 gp), not yet activated**, and leaves cleaned armor for +1 enchant (1000, pickup tomorrow). **Krandal orders face-carved heavy crossbow (55, morning), purchases replacement healing potion (50), Detect Thoughts scroll (checkout 200) and +1 shield (1000, morning)**. No +3 shield or mind-reading potion purchased. Shop dialog has inconsistent earlier scroll quotes; exact checkout amount used, final purses not derived |",
+        "| DEL-S1E09-007 | Two unresponsive elves and Krandal's amulet | Brother Maynard says **Rianu Keeves** (name audio-provisional) was original wedding celebrant and cannot be awakened by temple cures; his finger taps repeat a possibly coded rhythm, **undeciphered**. Second collapsed elf does **not respond** to recreated taps. Krandal **does not know Koh's wife condition**. Maynard gives **Amulet of the Devout +1**, Krandal actually wears it; alleged crafting by **Dain Proudface** is temple testimony, not proved history |",
+        "| DEL-S1E09-008 | Evelyn, bronze ball and level-up boundary | Margaret's suggestion of **Alter Self disguise** for next day's noon ball-planning clash is not acted on; no forged appearance or attendance. GM **explicitly announces level four for next episode**, but level-up/feat choice and overnight long rest have **not been played**. Distinguish cast/bookkeeping announcement from scene |"
+      ],
+      "prefix_byte_identical": true,
+      "headings_preserved": true,
+      "original_newline_format_retained": true,
+      "task_rows_match_central_queue": 8,
+      "historical_targets_mapped": 7,
+      "episode_wide_source_gate_retained": true,
+      "source_windows_reviewed": [],
+      "audio_reviewed": false,
+      "new_ASR_metric": null,
+      "sha256_after": "fb321d6e739be6d8e47c793a8bdc31ef9fe0f6a134a9f7d3c3d3bc9655bdc379"
+    },
+    {
+      "episode": "S1E10",
+      "type": "played session documentation",
+      "status": "complete; editorial, structural, link, lint and whitespace checks passed",
+      "path": "delvers/episodes/S1E10.md",
+      "existing_issue_keys": [
+        "DEL-S1E10-001",
+        "DEL-S1E10-002",
+        "DEL-S1E10-003",
+        "DEL-S1E10-004",
+        "DEL-S1E10-005",
+        "DEL-S1E10-006",
+        "DEL-S1E10-007",
+        "DEL-S1E10-008"
+      ],
+      "ledger_rows_unchanged": [
+        "| DEL-S1E10-001 | Koh's wife — telepathy, claim and physical sand | S1E09 merely planned contact; **S1E10 plays successful Psionic Whispers connection** to apparently conscious wife in dark/dune vision. She says she stays to keep town safe from unnamed **“they”**, but **objectivity of location/captors remains unverified**. On return to waking world, **black sand physically falls from hands**, Koh saves pinch in vial. Her name **Anthela/Anthea** remains ASR provisional. Wife **still physically unconscious**, no cure |",
+        "| DEL-S1E10-002 | Rianu's finger message | S1E09 tap pattern recorded, not decoded. In S1E10 Krandal's tentative **Elven lantern code “E-I-S-T-H”** (GM-spelled) is recognized by Evelyn as **high-Elven funeral dirge**. Not proved to be correct code, full message, precise phonetic rendering or causal connection to wife's visions |",
+        "| DEL-S1E10-003 | Peace mandate vs violent encounter | Guild expressly orders **peaceful inquiry of sentient residents**, self-defense and withdrawal if talks fail. Kuo-toa village mostly **receives fish/pearl gifts**, though villagers **misread Koh's telepathy as godhood**. Later separate cave ritualist **initiates vortex attack**; party subdues **without execution**. Village worship does **not** prove Koh is divine |",
+        "| DEL-S1E10-004 | Lake layout, claimed Dunes and black seep | Flooded ruin matches other ancient **trap architecture**; not proven one continuous structure. Ritualist worships carving with **three bumps/line/spiral** and black seep, claims **“Dunes” and sleeping god**. Similarity to Enzo's Dawnless Dunes or wife vision **not independent verification** of identity, age, divine status or causation |",
+        "| DEL-S1E10-005 | Ring and underwater equipment | **Ring of Protection (+1 AC, +1 saving throws)** physically **worn by Krandal** after Koh identifies and hands it over. **All three Water Breathing potions consumed**, effect stated **one hour**; timer live at cutoff. **+1 armor/shield/custom bow retrieved from shop before ride**, but armor/hammer/bow/backpacks mostly **left on shore**, not equipped underwater. **Goat of Travail retained unsummoned**; six spear shafts left inside ruin; older horn still guild-held |",
+        "| DEL-S1E10-006 | Trader and other physical transfers | **Glepo Ma** (phonetic) receives **Koh's shovel for information**, gives **small fishing rod** for care of horses. Villagers receive fish/pearl offerings; horses borrowed from city and left by village. Underwater **aquatic mimic left alive**. Ritualist's **homemade conch-shell staff and wand disarmed**, no confirmed magic identification beyond observed spellcasting |",
+        "| DEL-S1E10-007 | Cliffhanger and captive status | **Ritualist alive**, name sounds like **Big Blee/Bleeber Bloops**, bound in **Sultan's Sash of Climbing** as pack on Krandal's back. Delvers discuss consulting Glepo Ma; **no completed return to surface, village trial, guild report, staff delivery, or XP/reward**. Darker submerged shaft remains unexplored. |"
+      ],
+      "prefix_byte_identical": true,
+      "headings_preserved": true,
+      "original_newline_format_retained": true,
+      "task_rows_match_central_queue": 8,
+      "historical_targets_mapped": 8,
+      "episode_wide_source_gate_retained": false,
+      "source_windows_reviewed": [],
+      "audio_reviewed": false,
+      "new_ASR_metric": null,
+      "sha256_after": "5e3034bd99f8378d96b0fb587c8914398d4921b0183616f00b86209e5bd8afc8"
+    },
+    {
+      "episode": "S1E11",
+      "type": "played session documentation",
+      "status": "complete; editorial, structural, link, lint and whitespace checks passed",
+      "path": "delvers/episodes/S1E11.md",
+      "existing_issue_keys": [
+        "DEL-S1E11-001",
+        "DEL-S1E11-002",
+        "DEL-S1E11-003",
+        "DEL-S1E11-004",
+        "DEL-S1E11-005",
+        "DEL-S1E11-006",
+        "DEL-S1E11-007",
+        "DEL-S1E11-008"
+      ],
+      "ledger_rows_unchanged": [
+        "| DEL-S1E11-001 | Dunes rune and unproved mechanism | GM **names** black-slimed three-mound/spiral carving **Dawnless Dunes**; one party member bottles sludge (carrier unverified). Koh identifies **Wand of Secrets** (up to 3 activations/day) in fish wizard's gear, uses it to reveal **gear-edged quarter-disc** extracted by Evelyn. Missing gear/three other quarters and likely composite mechanism remain **hypotheses**, not assembled artifact or demonstrated godlink |",
+        "| DEL-S1E11-002 | Floating monster and beak | Ancient market has **unnamed floating barbed-tentacle creature with large parrot beak and brain-shaped body**, eating stirges. Koh **kills it**, Evelyn pulls off paired beak halves, attached to Krandal with sash. **No GM species name**; appearance alone doesn't prove grell. Beak final guild custody pending |",
+        "| DEL-S1E11-003 | Fog bottle and sealed tooth gate | Krandal finds **ancient stone-metal fog-emitting, chain-cork bottle** under hook-horror-mouth fountain. Opening fills area with smoke/fog, resealed after; **not official item identified or charges quantified**. Evelyn and Koh see **unopened carved-face/teeth stone portal** further in, do not use/open it |",
+        "| DEL-S1E11-004 | Water-breathing outcome | S1E10 ends still underwater with alive fish wizard. S1E11 party **surfaces from lake near potion expiration**, no drowning, about 2 PM. Live wizard comes to village then **leaves toward guild with other captives**; no guild arrival or adjudicated mission completion |",
+        "| DEL-S1E11-005 | Fish staff custody / trader | Evelyn hands **conch-shell staff** to **Glepo Ma**, who transfers it to threatening **darkmantle-hat rider**; rider leaves toward bullywug party and commands two subordinates to take goods. Staff **no longer with party or trader**. Glepo Ma's trustworthiness compromised; whether he was coerced earlier still uncertain |",
+        "| DEL-S1E11-006 | Caster/fighter identities and life | Koh **nonlethally** incapacitates female caster, reclaims stolen potion. Fighter falls to **Spiritual Weapon face-mace**, Krandal **stabilizes** then later **heals 7 HP**, Koh incapacitates nonlethally again. Magical appearance reveals **Broadside**, previously seen guild training/shop; underlying identity/employer and names **Marek/Cole** uncertain. All **three prisoners alive**, not executed |",
+        "| DEL-S1E11-007 | Compensation, loot and warning | Koh takes **gear crank** and **~1000 gp bag** from Glepo Ma (approximate sack estimate, not counted/divided) as **two goods**; **old shovel and spiral shield remain**. Caster's mace, serrated sword and tooth shield taken; heavy armor left beach. **Trader swims to warn bullywugs** but actual delivery unresolved |",
+        "| DEL-S1E11-008 | Final custody and played cutoff | Three live captives ride on **borrowed guild horses** with Delvers; robed caster gagged with Sultan's Sash, wizard held on Krandal's horse, Broadside-like unconscious. **Evelyn drinks one healing potion before riding**; Koh consumed one during battle and separately reclaimed one stolen potion. Party **departs village to guild, not yet arrives**. Quest payment and captive interrogation future, not S1E11 |"
+      ],
+      "prefix_byte_identical": true,
+      "headings_preserved": true,
+      "original_newline_format_retained": true,
+      "task_rows_match_central_queue": 8,
+      "historical_targets_mapped": 8,
+      "episode_wide_source_gate_retained": true,
+      "source_windows_reviewed": [],
+      "audio_reviewed": false,
+      "new_ASR_metric": null,
+      "sha256_after": "50f3210bcfc086b18c84924cfc3389ae13e85f148eb1813ecfd10b5be5ddb5f8"
+    }
+  ],
+  "historical_crosswalks": {
+    "S1E09": [
+      {
+        "old_key": "DEL-S1E09-001",
+        "current_keys": [
+          "DEL-S1E09-001"
+        ],
+        "episode_wide_source_gate": false
+      },
+      {
+        "old_key": "DEL-S1E09-002",
+        "current_keys": [
+          "DEL-S1E09-001",
+          "DEL-S1E09-002"
+        ],
+        "episode_wide_source_gate": false
+      },
+      {
+        "old_key": "DEL-S1E09-003",
+        "current_keys": [
+          "DEL-S1E09-003"
+        ],
+        "episode_wide_source_gate": false
+      },
+      {
+        "old_key": "DEL-S1E09-004",
+        "current_keys": [
+          "DEL-S1E09-004",
+          "DEL-S1E09-007"
+        ],
+        "episode_wide_source_gate": false
+      },
+      {
+        "old_key": "DEL-S1E09-005",
+        "current_keys": [
+          "DEL-S1E09-005",
+          "DEL-S1E09-006"
+        ],
+        "episode_wide_source_gate": false
+      },
+      {
+        "old_key": "DEL-S1E09-006",
+        "current_keys": [
+          "DEL-S1E09-005",
+          "DEL-S1E09-007",
+          "DEL-S1E09-008"
+        ],
+        "episode_wide_source_gate": false
+      },
+      {
+        "old_key": "DEL-S1E09-007",
+        "current_keys": [
+          "DEL-S1E09-008"
+        ],
+        "episode_wide_source_gate": true
+      }
+    ],
+    "S1E10": [
+      {
+        "old_key": "DEL-S1E10-001",
+        "current_keys": [
+          "DEL-S1E10-001",
+          "DEL-S1E10-008"
+        ],
+        "episode_wide_source_gate": false
+      },
+      {
+        "old_key": "DEL-S1E10-002",
+        "current_keys": [
+          "DEL-S1E10-002"
+        ],
+        "episode_wide_source_gate": false
+      },
+      {
+        "old_key": "DEL-S1E10-003",
+        "current_keys": [
+          "DEL-S1E10-003",
+          "DEL-S1E10-005"
+        ],
+        "episode_wide_source_gate": false
+      },
+      {
+        "old_key": "DEL-S1E10-004",
+        "current_keys": [
+          "DEL-S1E10-003",
+          "DEL-S1E10-004",
+          "DEL-S1E10-006"
+        ],
+        "episode_wide_source_gate": false
+      },
+      {
+        "old_key": "DEL-S1E10-005",
+        "current_keys": [
+          "DEL-S1E10-005"
+        ],
+        "episode_wide_source_gate": false
+      },
+      {
+        "old_key": "DEL-S1E10-006",
+        "current_keys": [
+          "DEL-S1E10-003",
+          "DEL-S1E10-004"
+        ],
+        "episode_wide_source_gate": false
+      },
+      {
+        "old_key": "DEL-S1E10-007",
+        "current_keys": [
+          "DEL-S1E10-003",
+          "DEL-S1E10-004",
+          "DEL-S1E10-006",
+          "DEL-S1E10-007"
+        ],
+        "episode_wide_source_gate": false
+      },
+      {
+        "old_key": "DEL-S1E10-008",
+        "current_keys": [
+          "DEL-S1E10-008"
+        ],
+        "episode_wide_source_gate": false
+      }
+    ],
+    "S1E11": [
+      {
+        "old_key": "DEL-S1E11-001",
+        "current_keys": [
+          "DEL-S1E11-001"
+        ],
+        "episode_wide_source_gate": false
+      },
+      {
+        "old_key": "DEL-S1E11-002",
+        "current_keys": [
+          "DEL-S1E11-002"
+        ],
+        "episode_wide_source_gate": false
+      },
+      {
+        "old_key": "DEL-S1E11-003",
+        "current_keys": [
+          "DEL-S1E11-003",
+          "DEL-S1E11-004"
+        ],
+        "episode_wide_source_gate": false
+      },
+      {
+        "old_key": "DEL-S1E11-004",
+        "current_keys": [
+          "DEL-S1E11-005"
+        ],
+        "episode_wide_source_gate": false
+      },
+      {
+        "old_key": "DEL-S1E11-005",
+        "current_keys": [
+          "DEL-S1E11-006",
+          "DEL-S1E11-008"
+        ],
+        "episode_wide_source_gate": false
+      },
+      {
+        "old_key": "DEL-S1E11-006",
+        "current_keys": [
+          "DEL-S1E11-006"
+        ],
+        "episode_wide_source_gate": false
+      },
+      {
+        "old_key": "DEL-S1E11-007",
+        "current_keys": [
+          "DEL-S1E11-007",
+          "DEL-S1E11-008"
+        ],
+        "episode_wide_source_gate": false
+      },
+      {
+        "old_key": "DEL-S1E11-008",
+        "current_keys": [],
+        "episode_wide_source_gate": true
+      }
+    ]
+  },
+  "new_issue_keys": [],
+  "resolved_issue_keys": [],
+  "listening": "deferred by owner",
+  "validation": {
+    "errors": [],
+    "exact_originals_verified": 5,
+    "existing_issue_keys_retained": 24,
+    "all_three_dossier_source_story_prefixes_byte_identical": true,
+    "central_rows_before": 52,
+    "central_rows_after": 76,
+    "prior_central_rows_verbatim": 52,
+    "ledger_unchanged": true,
+    "ledger_rows_unchanged": 23,
+    "manifest_append_only_byte_prefix": true,
+    "protected_Delvers_files_unchanged": 143,
+    "protected_files_unchanged": 148,
+    "outside_scope_drift": [
+      {
+        "path": "project/WASTES_CLEANUP_MANIFEST.md",
+        "before_sha256": "6e897dabea34fa52cc1a1bc0962a2110b6e308358a887537fda522485646b05b",
+        "observed_sha256": "7f0df9d1a64c2d5728ec0c262b3e139e28259377f7da1a08ddc2e9643918c0b0",
+        "disposition": "outside-scope concurrent change; not restored"
+      },
+      {
+        "path": "project/WASTES_CLEANUP_PROGRESS.md",
+        "before_sha256": "dea3b4474a89fa511226925794bcfd7cd0dd726f01cc5c53733a77e2377adde1",
+        "observed_sha256": "dd5f8229cce68bb951a86d13bd234d377ced45e3faa00b25f5b67b87cb4e2861",
+        "disposition": "outside-scope concurrent change; not restored"
+      },
+      {
+        "path": "world/CHARACTERS.md",
+        "before_sha256": "fb6bd13e13e2b3fdbed72e086b629531197f0b743a04c47ea1e5fee02b2b7626",
+        "observed_sha256": "724dc35104ab920616d6ff46d950c879484a747c9773798064c80a86831a8de9",
+        "disposition": "outside-scope concurrent change; not restored"
+      }
+    ],
+    "new_local_links_checked": 34,
+    "rebased_archival_destination_correspondences": 689,
+    "guarded_edits_and_table_widths": "passed",
+    "scoped_whitespace_check": "passed",
+    "markdownlint": {
+      "maintained_files": 6,
+      "violations": 0,
+      "archive_README_violations": 0,
+      "final_report_recheck": "passed after results added"
+    },
+    "rendered_preview": "not performed",
+    "full_repository_audit": "not performed"
+  },
+  "next_action": "These three demonstrated repairs are complete after final validation; further maintenance requires a concrete discrepancy. No new main-campaign intake; listening remains deferred.",
+  "editorial_verification": "passed; 23 historical dossier labels mapped, 24 pre-existing global IDs retained, two shared source gates preserved, story/source prefixes unchanged",
+  "changed_maintained_files": [
+    "delvers/episodes/S1E09.md",
+    "delvers/episodes/S1E10.md",
+    "delvers/episodes/S1E11.md",
+    "delvers/REVIEW_QUEUE.md",
+    "project/DELVERS_CLEANUP_MANIFEST.md",
+    "reports/DELVERS_S1E09_S1E11_ISSUE_ROUTING_2026-10-28.md"
+  ],
+  "changed_file_hashes_after": {
+    "delvers/episodes/S1E09.md": "fb321d6e739be6d8e47c793a8bdc31ef9fe0f6a134a9f7d3c3d3bc9655bdc379",
+    "delvers/episodes/S1E10.md": "5e3034bd99f8378d96b0fb587c8914398d4921b0183616f00b86209e5bd8afc8",
+    "delvers/episodes/S1E11.md": "50f3210bcfc086b18c84924cfc3389ae13e85f148eb1813ecfd10b5be5ddb5f8",
+    "delvers/REVIEW_QUEUE.md": "e89c47ef701750828779a800dc670a18810af0378652fb8a13cbb2cc57636dd3",
+    "project/DELVERS_CLEANUP_MANIFEST.md": "be5b604bb1a113e9623b6b7ec1cd90d3abc36698aa8eeff6488d578ac663c3b7",
+    "reports/DELVERS_S1E09_S1E11_ISSUE_ROUTING_2026-10-28.md": "ea2db9ff7e84d560010d4e0ce20ae44a15bd33ca9162bca2900a7cf6aeccf11c"
+  },
+  "final_HEAD": "56c0029a89d3f624a17ba36c3cf00ce77cb47ff3"
+}

@@ -1,0 +1,475 @@
+{
+  "members": [
+    {
+      "episode": "S1E09",
+      "path": "delvers/episodes/S1E09.md",
+      "status": "routing persisted; validation pending",
+      "heading": "## Targeted listening and evidence follow-ups",
+      "old_block": "## Targeted listening and evidence follow-ups\n\n| ID | Recording time | Verification sought |\n| --- | --- | --- |\n| DEL-S1E09-001 | ~00:01–00:31 | Gelatinous-cube final blow/Lightning Javelin, Faelan engulf and survival, piercer/grick accounting, remaining underground threat |\n| DEL-S1E09-002 | ~00:36–01:08 | Hook horror identification and kill, **second living hook horror**, gross sound versus actual blindness, trophy handoff (**horn/hook/vial/psychic shaft**) |\n| DEL-S1E09-003 | ~01:09–01:24 | Four well reports; Cassius's temple payment undertaking and reserve force; **300 gp per person**, next-day **kuo-toa selected but not started** |\n| DEL-S1E09-004 | ~01:25–01:48 | Main sanctuary altar hole size/drone, elf collapse, stone glyphs, *Dain Proudface* spelling and supposed age; distinguish temple stairs and altar shaft |\n| DEL-S1E09-005 | ~01:48–02:22 | **Sash retrieval**, leather-to-studded change, item purchases and delivery deadlines; Gruber's scroll pricing contradiction, whether shield is physically delivered |\n| DEL-S1E09-006 | ~02:22–02:49 | Koh family/telepathy **not performed**, Rianu Keeves name and tapping pattern, second coma, Amulet of the Devout +1 custody; Margaret/school spelling and noon meeting |\n| DEL-S1E09-007 | ~02:49–02:53 and original MP3 | Level four announcement vs played long rest, ending/outro and seek alignment. No original audio reviewed; model labels filename-derived |\n\n",
+      "new_block": "## Targeted listening and evidence follow-ups\n\nCurrent subjects follow the unchanged ledger. The [historical-label crosswalk](../../reports/DELVERS_S1E09_S1E11_ISSUE_ROUTING_2026-10-28.md) retains earlier meanings and all review targets. SRT clocks are not calibrated MP3 seeks; listening remains deferred.\n\n**Episode-wide source gate:** Retained from historical DEL-S1E09-007: verify ending/outro and original-MP3 seek alignment before listening; no original audio is newly reviewed, and model labels remain filename-derived. The level/rest question now follows ledger-existing 008. This gate has no newly allocated issue ID.\n\n| Key | SRT clock / gate | Review task |\n| --- | --- | --- |\n| DEL-S1E09-001 | ~00:01–00:31 and ~00:36–01:08 | Cube fight, hook horror and survivors: cube final blow/Lightning Javelin, Faelan engulfment and survival, piercer/grick accounting, hook-horror identification and kill, second living hook horror, and apparent sound navigation versus actual blindness. No complete underground clearance is established. |\n| DEL-S1E09-002 | ~00:36–01:08 | Trophies, horn and psychic shaft: verify the horn/hook/vial/shaft handoff to Carrie via the monk courier, the horn’s use before submission, specimen counts and custody. Do not carry S1E08’s retained-horn state forward or infer final return of inspected equipment. |\n| DEL-S1E09-003 | ~01:09–01:24 | Well reports, reward and next assignment: four well reports, Cassius’s temple-payment undertaking and reserve guards, 300 gold per person, and next-day kuo-toa mission selected but not started. Preserve completed payment versus promised institutional support. |\n| DEL-S1E09-004 | ~01:25–01:48 | Second shaft, drone and elf collapse: main-sanctuary altar opening size, drone and stone glyphs; distinguish the narrow covered shaft from the Hall of Penance stairs. One elf’s collapse does not independently prove a sound/illness mechanism. Dain Proudface attribution is retained under 007. |\n| DEL-S1E09-005 | ~01:48–02:22 and ~02:22–02:49 | Koh’s sash, armor and family: sash retrieval, leather-to-studded change and old-armor/buckle custody; contemplated family telepathy is not performed. Preserve the unresponsive-wife state without a demonstrated contact, diagnosis or cure. Shopping delivery questions follow 006. |\n| DEL-S1E09-006 | ~01:48–02:22 | Purchases and delivery: item choices, prices and deadlines, Gruber’s inconsistent scroll quotes, and whether the shield is physically delivered. Preserve Water Breathing potions, unsummoned Goat of Travail, armor enchantment, replacement healing potion, Detect Thoughts scroll and shield/custom-crossbow order distinctions; do not infer final purses or completed next-morning delivery. |\n| DEL-S1E09-007 | ~01:25–01:48 and ~02:22–02:49 | Two unresponsive elves and Krandal’s amulet: Rianu Keeves wording, tapping pattern, second coma and Amulet of the Devout +1 custody. Dain Proudface spelling/claimed age and crafting attribution remain testimony. Recreated taps do not cure the second elf, and Krandal does not learn Koh’s wife’s condition here. |\n| DEL-S1E09-008 | ~02:22–02:53 | Evelyn’s school/ball and level boundary: Margaret/school spelling and noon meeting, proposed disguise not performed, and level-four announcement versus an unplayed long rest or settled build. This is the existing ledger’s 008, now visible in the dossier task list, not a new issue allocation. |\n\n",
+      "old_tail": "**Verified next owner-normalized source:** **Delvers S1E10 — Fish Wizards!** ([inventory](../SOURCE_INVENTORY.md)). Continue only after S1E09 core dossier/comparison/queue are durable.\n",
+      "new_tail": "**Historical onward episode (already researched):** **Delvers S1E10 — Fish Wizards!**, in [inventory](../SOURCE_INVENTORY.md). The former intake pointer is historical; all main-campaign dossiers through S3E12 are present. Use the [current queue](../REVIEW_QUEUE.md) for independent verification without preempting this episode’s cutoff.\n",
+      "source_gate": "Retained from historical DEL-S1E09-007: verify ending/outro and original-MP3 seek alignment before listening; no original audio is newly reviewed, and model labels remain filename-derived. The level/rest question now follows ledger-existing 008. This gate has no newly allocated issue ID.",
+      "old_rows": [
+        {
+          "key": "DEL-S1E09-001",
+          "clock": "~00:01–00:31",
+          "task": "Gelatinous-cube final blow/Lightning Javelin, Faelan engulf and survival, piercer/grick accounting, remaining underground threat"
+        },
+        {
+          "key": "DEL-S1E09-002",
+          "clock": "~00:36–01:08",
+          "task": "Hook horror identification and kill, **second living hook horror**, gross sound versus actual blindness, trophy handoff (**horn/hook/vial/psychic shaft**)"
+        },
+        {
+          "key": "DEL-S1E09-003",
+          "clock": "~01:09–01:24",
+          "task": "Four well reports; Cassius's temple payment undertaking and reserve force; **300 gp per person**, next-day **kuo-toa selected but not started**"
+        },
+        {
+          "key": "DEL-S1E09-004",
+          "clock": "~01:25–01:48",
+          "task": "Main sanctuary altar hole size/drone, elf collapse, stone glyphs, *Dain Proudface* spelling and supposed age; distinguish temple stairs and altar shaft"
+        },
+        {
+          "key": "DEL-S1E09-005",
+          "clock": "~01:48–02:22",
+          "task": "**Sash retrieval**, leather-to-studded change, item purchases and delivery deadlines; Gruber's scroll pricing contradiction, whether shield is physically delivered"
+        },
+        {
+          "key": "DEL-S1E09-006",
+          "clock": "~02:22–02:49",
+          "task": "Koh family/telepathy **not performed**, Rianu Keeves name and tapping pattern, second coma, Amulet of the Devout +1 custody; Margaret/school spelling and noon meeting"
+        },
+        {
+          "key": "DEL-S1E09-007",
+          "clock": "~02:49–02:53 and original MP3",
+          "task": "Level four announcement vs played long rest, ending/outro and seek alignment. No original audio reviewed; model labels filename-derived"
+        }
+      ],
+      "rows": [
+        {
+          "key": "DEL-S1E09-001",
+          "clock": "~00:01–00:31 and ~00:36–01:08",
+          "task": "Cube fight, hook horror and survivors: cube final blow/Lightning Javelin, Faelan engulfment and survival, piercer/grick accounting, hook-horror identification and kill, second living hook horror, and apparent sound navigation versus actual blindness. No complete underground clearance is established."
+        },
+        {
+          "key": "DEL-S1E09-002",
+          "clock": "~00:36–01:08",
+          "task": "Trophies, horn and psychic shaft: verify the horn/hook/vial/shaft handoff to Carrie via the monk courier, the horn’s use before submission, specimen counts and custody. Do not carry S1E08’s retained-horn state forward or infer final return of inspected equipment."
+        },
+        {
+          "key": "DEL-S1E09-003",
+          "clock": "~01:09–01:24",
+          "task": "Well reports, reward and next assignment: four well reports, Cassius’s temple-payment undertaking and reserve guards, 300 gold per person, and next-day kuo-toa mission selected but not started. Preserve completed payment versus promised institutional support."
+        },
+        {
+          "key": "DEL-S1E09-004",
+          "clock": "~01:25–01:48",
+          "task": "Second shaft, drone and elf collapse: main-sanctuary altar opening size, drone and stone glyphs; distinguish the narrow covered shaft from the Hall of Penance stairs. One elf’s collapse does not independently prove a sound/illness mechanism. Dain Proudface attribution is retained under 007."
+        },
+        {
+          "key": "DEL-S1E09-005",
+          "clock": "~01:48–02:22 and ~02:22–02:49",
+          "task": "Koh’s sash, armor and family: sash retrieval, leather-to-studded change and old-armor/buckle custody; contemplated family telepathy is not performed. Preserve the unresponsive-wife state without a demonstrated contact, diagnosis or cure. Shopping delivery questions follow 006."
+        },
+        {
+          "key": "DEL-S1E09-006",
+          "clock": "~01:48–02:22",
+          "task": "Purchases and delivery: item choices, prices and deadlines, Gruber’s inconsistent scroll quotes, and whether the shield is physically delivered. Preserve Water Breathing potions, unsummoned Goat of Travail, armor enchantment, replacement healing potion, Detect Thoughts scroll and shield/custom-crossbow order distinctions; do not infer final purses or completed next-morning delivery."
+        },
+        {
+          "key": "DEL-S1E09-007",
+          "clock": "~01:25–01:48 and ~02:22–02:49",
+          "task": "Two unresponsive elves and Krandal’s amulet: Rianu Keeves wording, tapping pattern, second coma and Amulet of the Devout +1 custody. Dain Proudface spelling/claimed age and crafting attribution remain testimony. Recreated taps do not cure the second elf, and Krandal does not learn Koh’s wife’s condition here."
+        },
+        {
+          "key": "DEL-S1E09-008",
+          "clock": "~02:22–02:53",
+          "task": "Evelyn’s school/ball and level boundary: Margaret/school spelling and noon meeting, proposed disguise not performed, and level-four announcement versus an unplayed long rest or settled build. This is the existing ledger’s 008, now visible in the dossier task list, not a new issue allocation."
+        }
+      ],
+      "crosswalk": [
+        {
+          "old_key": "DEL-S1E09-001",
+          "current_keys": [
+            "DEL-S1E09-001"
+          ],
+          "episode_wide_source_gate": false
+        },
+        {
+          "old_key": "DEL-S1E09-002",
+          "current_keys": [
+            "DEL-S1E09-001",
+            "DEL-S1E09-002"
+          ],
+          "episode_wide_source_gate": false
+        },
+        {
+          "old_key": "DEL-S1E09-003",
+          "current_keys": [
+            "DEL-S1E09-003"
+          ],
+          "episode_wide_source_gate": false
+        },
+        {
+          "old_key": "DEL-S1E09-004",
+          "current_keys": [
+            "DEL-S1E09-004",
+            "DEL-S1E09-007"
+          ],
+          "episode_wide_source_gate": false
+        },
+        {
+          "old_key": "DEL-S1E09-005",
+          "current_keys": [
+            "DEL-S1E09-005",
+            "DEL-S1E09-006"
+          ],
+          "episode_wide_source_gate": false
+        },
+        {
+          "old_key": "DEL-S1E09-006",
+          "current_keys": [
+            "DEL-S1E09-005",
+            "DEL-S1E09-007",
+            "DEL-S1E09-008"
+          ],
+          "episode_wide_source_gate": false
+        },
+        {
+          "old_key": "DEL-S1E09-007",
+          "current_keys": [
+            "DEL-S1E09-008"
+          ],
+          "episode_wide_source_gate": true
+        }
+      ]
+    },
+    {
+      "episode": "S1E10",
+      "path": "delvers/episodes/S1E10.md",
+      "status": "routing persisted; validation pending",
+      "heading": "## Targeted listening / follow-up queue",
+      "old_block": "## Targeted listening / follow-up queue\n\n| Key | SRT window | Question |\n| --- | --- | --- |\n| DEL-S1E10-001 | ~00:02–00:04, 00:18–00:27 | Intro staged recap versus canonical scene, wife's actual spoken **Anthela/Anthea** name, black-sand materialization/amount, overlapping drone; compare MP3 seek |\n| DEL-S1E10-002 | ~00:06–00:18 and 00:46–00:52 | Exact **Rianu Keeves** and **E-I-S-T-H** term/dirge translation; revise if original audio or preserved handout spells otherwise |\n| DEL-S1E10-003 | ~00:28–00:40, 00:52–00:59 | Jimmy's guild teams/assignments, **three “Sturge-ronella” cones per adventurer**, word-sheet translations, precise delivered armor/shield/crossbow, whether smoked cone mechanically protects |\n| DEL-S1E10-004 | ~01:04–01:39 | Fisher village religion and elder, **Glepo Ma** name, shop/barter, “big blubs” phrase, day/night water recession, whether fish species was named in original map |\n| DEL-S1E10-005 | ~01:39–02:12 | Which kit deliberately left on shore; ring's stat boosts/actual wearer, shaft room inventory, potions drunk and elapsed time. Confirm **one-hour** duration as ruled, not general item-rule assumption |\n| DEL-S1E10-006 | ~02:12–02:55 | Exact architecture/map, underwater pit route, dark slime/glyph, whirlpool battle, **two 8 HP damage hits**, intended nonlethal attacks and rescued Koh |\n| DEL-S1E10-007 | ~02:55–03:06 | Ritualist name, **Dunes/god claims**, staff/wand custody, reason for sparing captive and exact cutoff. No return, surface or mission completion played |\n| DEL-S1E10-008 | Entire episode | Independently listen to MP3, align SRT clock, verify same input to model pipelines; source handout/map and shopping sheet history not directly inspected |\n\n",
+      "new_block": "## Targeted listening / follow-up queue\n\nCurrent subjects follow the unchanged ledger. The [historical-label crosswalk](../../reports/DELVERS_S1E09_S1E11_ISSUE_ROUTING_2026-10-28.md) retains earlier meanings and all review targets. SRT clocks are not calibrated MP3 seeks; listening remains deferred.\n\n| Key | SRT clock / gate | Review task |\n| --- | --- | --- |\n| DEL-S1E10-001 | ~00:02–00:04 and ~00:18–00:27 | Koh’s wife: staged recap versus canonical scene, Anthela/Anthea spoken name, played contact and her unverified account of captors/location, black-sand materialization/amount and overlapping drone. Physical sand is distinct from objective proof of the visionary setting; compare MP3 seeks only after alignment. |\n| DEL-S1E10-002 | ~00:06–00:18 and ~00:46–00:52 | Rianu’s message: exact Rianu Keeves wording, E-I-S-T-H term and funeral-dirge translation; revise only with adequate audio/written evidence. Tentative code recognition is not a proven full message or causal connection to Koh’s wife. |\n| DEL-S1E10-003 | ~00:28–00:40, ~00:52–00:59 and ~02:12–02:55 | Peace mandate and encounter: Jimmy’s teams/assignments and word-sheet translations; peaceful inquiry, self-defense and withdrawal versus the ritualist’s attack. Retain village religion/elder, big blubs phrase and mistaken godhood as claims/interpretations. Verify whirlpool battle, two 8-HP damage hits, intended nonlethal attacks, rescued Koh and reason for sparing the captive without proving divinity or a completed peaceful mission. |\n| DEL-S1E10-004 | ~01:04–01:39 and ~02:12–03:06 | Lake layout and claimed Dunes: day/night water recession, fish-species map wording, architecture, pit route, dark slime/glyph and ritualist’s Dunes/sleeping-god claims. Similar ruins, Enzo’s testimony and wife vision do not prove one site or mechanism; exact map remains uninspected. |\n| DEL-S1E10-005 | ~00:28–00:40, ~00:52–00:59 and ~01:39–02:12 | Equipment and potions: three Sturge-ronella cones per adventurer and whether smoke mechanically protects; delivered armor/shield/crossbow versus kit deliberately left ashore. Verify ring boosts/actual wearer, shaft-room inventory, potions consumed and elapsed time; one-hour duration is the session ruling, not a general item-rule assumption. No Goat of Travail activation is inferred. |\n| DEL-S1E10-006 | ~01:04–01:39 and ~02:55–03:06 | Trader and physical transfers: Glepo Ma spelling, shop/barter, shovel, fishing rod, gifts and horses; staff/wand disarming and custody without automatic magic-item identification. Keep the trader exchange distinct from the captive’s later proposed consultation and unperformed staff delivery. |\n| DEL-S1E10-007 | ~02:55–03:06 | Captive and cutoff: ritualist name, alive and bound in Sultan’s Sash on Krandal’s back, with water-breathing time still a constraint. No return to surface, village trial, guild report, mission completion, reward or new level is played. Dunes/god claims follow 004; physical staff/wand custody follows 006. |\n| DEL-S1E10-008 | Entire episode; before listening or source promotion | Existing provenance gate: independently listen only when owner resumes it, align the MP3 and SRT clock and verify model-input correspondence. Source handout/map and shopping-sheet history remain uninspected. Filename labels, staged recap and seek estimates are not verification. |\n\n",
+      "old_tail": "**Next verified source:** [Delvers S1E11 — No More Fish](../SOURCE_INVENTORY.md), after core S1E10 publication.\n",
+      "new_tail": "**Historical onward episode (already researched):** **Delvers S1E11 — No More Fish**, in [inventory](../SOURCE_INVENTORY.md). The former intake pointer is historical; all main-campaign dossiers through S3E12 are present. Use the [current queue](../REVIEW_QUEUE.md) for independent verification without preempting this episode’s cutoff.\n",
+      "source_gate": null,
+      "old_rows": [
+        {
+          "key": "DEL-S1E10-001",
+          "clock": "~00:02–00:04, 00:18–00:27",
+          "task": "Intro staged recap versus canonical scene, wife's actual spoken **Anthela/Anthea** name, black-sand materialization/amount, overlapping drone; compare MP3 seek"
+        },
+        {
+          "key": "DEL-S1E10-002",
+          "clock": "~00:06–00:18 and 00:46–00:52",
+          "task": "Exact **Rianu Keeves** and **E-I-S-T-H** term/dirge translation; revise if original audio or preserved handout spells otherwise"
+        },
+        {
+          "key": "DEL-S1E10-003",
+          "clock": "~00:28–00:40, 00:52–00:59",
+          "task": "Jimmy's guild teams/assignments, **three “Sturge-ronella” cones per adventurer**, word-sheet translations, precise delivered armor/shield/crossbow, whether smoked cone mechanically protects"
+        },
+        {
+          "key": "DEL-S1E10-004",
+          "clock": "~01:04–01:39",
+          "task": "Fisher village religion and elder, **Glepo Ma** name, shop/barter, “big blubs” phrase, day/night water recession, whether fish species was named in original map"
+        },
+        {
+          "key": "DEL-S1E10-005",
+          "clock": "~01:39–02:12",
+          "task": "Which kit deliberately left on shore; ring's stat boosts/actual wearer, shaft room inventory, potions drunk and elapsed time. Confirm **one-hour** duration as ruled, not general item-rule assumption"
+        },
+        {
+          "key": "DEL-S1E10-006",
+          "clock": "~02:12–02:55",
+          "task": "Exact architecture/map, underwater pit route, dark slime/glyph, whirlpool battle, **two 8 HP damage hits**, intended nonlethal attacks and rescued Koh"
+        },
+        {
+          "key": "DEL-S1E10-007",
+          "clock": "~02:55–03:06",
+          "task": "Ritualist name, **Dunes/god claims**, staff/wand custody, reason for sparing captive and exact cutoff. No return, surface or mission completion played"
+        },
+        {
+          "key": "DEL-S1E10-008",
+          "clock": "Entire episode",
+          "task": "Independently listen to MP3, align SRT clock, verify same input to model pipelines; source handout/map and shopping sheet history not directly inspected"
+        }
+      ],
+      "rows": [
+        {
+          "key": "DEL-S1E10-001",
+          "clock": "~00:02–00:04 and ~00:18–00:27",
+          "task": "Koh’s wife: staged recap versus canonical scene, Anthela/Anthea spoken name, played contact and her unverified account of captors/location, black-sand materialization/amount and overlapping drone. Physical sand is distinct from objective proof of the visionary setting; compare MP3 seeks only after alignment."
+        },
+        {
+          "key": "DEL-S1E10-002",
+          "clock": "~00:06–00:18 and ~00:46–00:52",
+          "task": "Rianu’s message: exact Rianu Keeves wording, E-I-S-T-H term and funeral-dirge translation; revise only with adequate audio/written evidence. Tentative code recognition is not a proven full message or causal connection to Koh’s wife."
+        },
+        {
+          "key": "DEL-S1E10-003",
+          "clock": "~00:28–00:40, ~00:52–00:59 and ~02:12–02:55",
+          "task": "Peace mandate and encounter: Jimmy’s teams/assignments and word-sheet translations; peaceful inquiry, self-defense and withdrawal versus the ritualist’s attack. Retain village religion/elder, big blubs phrase and mistaken godhood as claims/interpretations. Verify whirlpool battle, two 8-HP damage hits, intended nonlethal attacks, rescued Koh and reason for sparing the captive without proving divinity or a completed peaceful mission."
+        },
+        {
+          "key": "DEL-S1E10-004",
+          "clock": "~01:04–01:39 and ~02:12–03:06",
+          "task": "Lake layout and claimed Dunes: day/night water recession, fish-species map wording, architecture, pit route, dark slime/glyph and ritualist’s Dunes/sleeping-god claims. Similar ruins, Enzo’s testimony and wife vision do not prove one site or mechanism; exact map remains uninspected."
+        },
+        {
+          "key": "DEL-S1E10-005",
+          "clock": "~00:28–00:40, ~00:52–00:59 and ~01:39–02:12",
+          "task": "Equipment and potions: three Sturge-ronella cones per adventurer and whether smoke mechanically protects; delivered armor/shield/crossbow versus kit deliberately left ashore. Verify ring boosts/actual wearer, shaft-room inventory, potions consumed and elapsed time; one-hour duration is the session ruling, not a general item-rule assumption. No Goat of Travail activation is inferred."
+        },
+        {
+          "key": "DEL-S1E10-006",
+          "clock": "~01:04–01:39 and ~02:55–03:06",
+          "task": "Trader and physical transfers: Glepo Ma spelling, shop/barter, shovel, fishing rod, gifts and horses; staff/wand disarming and custody without automatic magic-item identification. Keep the trader exchange distinct from the captive’s later proposed consultation and unperformed staff delivery."
+        },
+        {
+          "key": "DEL-S1E10-007",
+          "clock": "~02:55–03:06",
+          "task": "Captive and cutoff: ritualist name, alive and bound in Sultan’s Sash on Krandal’s back, with water-breathing time still a constraint. No return to surface, village trial, guild report, mission completion, reward or new level is played. Dunes/god claims follow 004; physical staff/wand custody follows 006."
+        },
+        {
+          "key": "DEL-S1E10-008",
+          "clock": "Entire episode; before listening or source promotion",
+          "task": "Existing provenance gate: independently listen only when owner resumes it, align the MP3 and SRT clock and verify model-input correspondence. Source handout/map and shopping-sheet history remain uninspected. Filename labels, staged recap and seek estimates are not verification."
+        }
+      ],
+      "crosswalk": [
+        {
+          "old_key": "DEL-S1E10-001",
+          "current_keys": [
+            "DEL-S1E10-001",
+            "DEL-S1E10-008"
+          ],
+          "episode_wide_source_gate": false
+        },
+        {
+          "old_key": "DEL-S1E10-002",
+          "current_keys": [
+            "DEL-S1E10-002"
+          ],
+          "episode_wide_source_gate": false
+        },
+        {
+          "old_key": "DEL-S1E10-003",
+          "current_keys": [
+            "DEL-S1E10-003",
+            "DEL-S1E10-005"
+          ],
+          "episode_wide_source_gate": false
+        },
+        {
+          "old_key": "DEL-S1E10-004",
+          "current_keys": [
+            "DEL-S1E10-003",
+            "DEL-S1E10-004",
+            "DEL-S1E10-006"
+          ],
+          "episode_wide_source_gate": false
+        },
+        {
+          "old_key": "DEL-S1E10-005",
+          "current_keys": [
+            "DEL-S1E10-005"
+          ],
+          "episode_wide_source_gate": false
+        },
+        {
+          "old_key": "DEL-S1E10-006",
+          "current_keys": [
+            "DEL-S1E10-003",
+            "DEL-S1E10-004"
+          ],
+          "episode_wide_source_gate": false
+        },
+        {
+          "old_key": "DEL-S1E10-007",
+          "current_keys": [
+            "DEL-S1E10-003",
+            "DEL-S1E10-004",
+            "DEL-S1E10-006",
+            "DEL-S1E10-007"
+          ],
+          "episode_wide_source_gate": false
+        },
+        {
+          "old_key": "DEL-S1E10-008",
+          "current_keys": [
+            "DEL-S1E10-008"
+          ],
+          "episode_wide_source_gate": false
+        }
+      ]
+    },
+    {
+      "episode": "S1E11",
+      "path": "delvers/episodes/S1E11.md",
+      "status": "routing persisted; validation pending",
+      "heading": "## Targeted listening and source follow-ups",
+      "old_block": "## Targeted listening and source follow-ups\n\n| Key | Parakeet clock | Verify |\n| --- | --- | --- |\n| DEL-S1E11-001 | ~00:03–00:14 | Which speaker collects black sludge, number of vials/where kept; **wand** identification, gear count, exact fractional disc and dimensions; four-piece speculation versus proven mechanism |\n| DEL-S1E11-002 | ~00:20–00:52 | Floating beaked brain creature's played name (none found), anatomical detail, damage and kill, actual beak custody/transport across swim |\n| DEL-S1E11-003 | ~00:55–01:08 | Fog-bottle mechanics/any official item name, tooth-faced distal door and fountain and immediate Water Breathing expiry/surface time |\n| DEL-S1E11-004 | ~01:12–01:27 | Glepo Ma, Big Bleeper Bloops and rider names/spellings; staffing and conch-shell handoff; hood visually **darkmantle cowl**, destination bullywug camp |\n| DEL-S1E11-005 | ~01:32–01:52 | Caster called **Marek/Marik?** versus warrior addressed **Cole/Coal?**, theft of which potions and exact intent of first stealth crit; robe/armor identity |\n| DEL-S1E11-006 | ~01:52–02:31 | Shield/door motif; **Broadside** identification after appearance changes, nonlethal stabilization, face-mace mechanics, poison/hp damage and spiritual weapon ruling |\n| DEL-S1E11-007 | ~02:32–02:48 | Coin bag ~1000 gp estimate, gear crank, trader's warning trip actually starts, sash/horses three prisoners, no played return to guild. Exact gear left in trader's hut |\n| DEL-S1E11-008 | Full MP3 / maps | Not yet audio-verified: source offset and voice IDs; visual map/monster name, original party sheets, artifact custodies, publication/recording day |\n\n",
+      "new_block": "## Targeted listening and source follow-ups\n\nCurrent subjects follow the unchanged ledger. The [historical-label crosswalk](../../reports/DELVERS_S1E09_S1E11_ISSUE_ROUTING_2026-10-28.md) retains earlier meanings and all review targets. SRT clocks are not calibrated MP3 seeks; listening remains deferred.\n\n**Episode-wide source gate:** Retained from historical DEL-S1E11-008: original-MP3 offset and voice IDs, visual map/monster name, original party sheets, artifact custody and publication versus recording day remain unverified. Listening remains deferred. Current 008 follows the existing ledger’s final-custody/cutoff subject; this shared source gate allocates no new issue ID.\n\n| Key | SRT clock / gate | Review task |\n| --- | --- | --- |\n| DEL-S1E11-001 | ~00:03–00:14 | Dunes rune and mechanism: who bottles black sludge, number of vials and storage, wand identification/gear count, fractional disc/dimensions and four-piece speculation. Verify the existing Dunes naming while keeping the proposed composite mechanism and godlink unproved. |\n| DEL-S1E11-002 | ~00:20–00:52 | Floating creature and beak: played name (none located in prior research), anatomy, damage/kill and beak custody/transport across the swim. A brain-shaped floating body and parrot-like beak do not independently establish a species name. |\n| DEL-S1E11-003 | ~00:55–01:08 | Fog bottle, fountain and tooth gate: mechanics, any official item name and charge claims, hook-horror-mouth fountain and tooth-faced distal door. Gate remains unopened; Water Breathing expiry/surface timing follows 004. |\n| DEL-S1E11-004 | ~00:55–01:08 and final departure ~02:32–02:48 | Water-breathing outcome: exact expiry/surface timing, all Delvers surfacing without drowning and the living fish wizard’s movement through village to departure. This does not supply a guild arrival or adjudicated mission completion. |\n| DEL-S1E11-005 | ~01:12–01:27 | Staff/trader: Glepo Ma, Big Bleeper Bloops and rider naming at the handoff scene; staffing, conch-shell transfer, darkmantle cowl and bullywug destination. Preserve the staff leaving party/trader custody without resolving earlier coercion or every speaker’s identity. |\n| DEL-S1E11-006 | ~01:32–02:31 | Caster/fighter identities and life: Marek/Marik versus Cole/Coal address, stolen potions, first stealth-crit intent and robe/armor appearance. Preserve shield/door motif, Broadside appearance change, nonlethal stabilization, face-mace/Spiritual Weapon ruling and poison/HP damage. Three living prisoners are not executed; final potion custody follows 008. |\n| DEL-S1E11-007 | ~02:32–02:48 | Compensation, loot and warning: approximately 1,000-gold sack estimate, gear crank and exact hut/beach equipment left versus taken. A sack estimate is not counted/divided cash. Trader’s warning swim begins, but delivery is unobserved. Horses/sash and final live-prisoner departure follow 008. |\n| DEL-S1E11-008 | ~01:32–02:48; final departure ~02:32–02:48 | Final custody/cutoff: three living prisoners, borrowed horses, Sultan’s Sash restraint and gear left behind; verify healing-potion use, reclaimed stolen potion and final carrier distinctions. Party rides toward guild without arriving, questioning captives or earning a new reward. Historical 008 source-copy questions remain in the episode-wide source gate above. |\n\n",
+      "old_tail": "**Next played source:** **Delvers S1E12 — End Friends** in [source inventory](../SOURCE_INVENTORY.md). Avoid interpreting title as evidence of a future fate before reviewing its recording.\n",
+      "new_tail": "**Historical onward episode (already researched):** **Delvers S1E12 — End Friends**, in [inventory](../SOURCE_INVENTORY.md). The former intake pointer is historical; all main-campaign dossiers through S3E12 are present. Use the [current queue](../REVIEW_QUEUE.md) for independent verification without preempting this episode’s cutoff.\n",
+      "source_gate": "Retained from historical DEL-S1E11-008: original-MP3 offset and voice IDs, visual map/monster name, original party sheets, artifact custody and publication versus recording day remain unverified. Listening remains deferred. Current 008 follows the existing ledger’s final-custody/cutoff subject; this shared source gate allocates no new issue ID.",
+      "old_rows": [
+        {
+          "key": "DEL-S1E11-001",
+          "clock": "~00:03–00:14",
+          "task": "Which speaker collects black sludge, number of vials/where kept; **wand** identification, gear count, exact fractional disc and dimensions; four-piece speculation versus proven mechanism"
+        },
+        {
+          "key": "DEL-S1E11-002",
+          "clock": "~00:20–00:52",
+          "task": "Floating beaked brain creature's played name (none found), anatomical detail, damage and kill, actual beak custody/transport across swim"
+        },
+        {
+          "key": "DEL-S1E11-003",
+          "clock": "~00:55–01:08",
+          "task": "Fog-bottle mechanics/any official item name, tooth-faced distal door and fountain and immediate Water Breathing expiry/surface time"
+        },
+        {
+          "key": "DEL-S1E11-004",
+          "clock": "~01:12–01:27",
+          "task": "Glepo Ma, Big Bleeper Bloops and rider names/spellings; staffing and conch-shell handoff; hood visually **darkmantle cowl**, destination bullywug camp"
+        },
+        {
+          "key": "DEL-S1E11-005",
+          "clock": "~01:32–01:52",
+          "task": "Caster called **Marek/Marik?** versus warrior addressed **Cole/Coal?**, theft of which potions and exact intent of first stealth crit; robe/armor identity"
+        },
+        {
+          "key": "DEL-S1E11-006",
+          "clock": "~01:52–02:31",
+          "task": "Shield/door motif; **Broadside** identification after appearance changes, nonlethal stabilization, face-mace mechanics, poison/hp damage and spiritual weapon ruling"
+        },
+        {
+          "key": "DEL-S1E11-007",
+          "clock": "~02:32–02:48",
+          "task": "Coin bag ~1000 gp estimate, gear crank, trader's warning trip actually starts, sash/horses three prisoners, no played return to guild. Exact gear left in trader's hut"
+        },
+        {
+          "key": "DEL-S1E11-008",
+          "clock": "Full MP3 / maps",
+          "task": "Not yet audio-verified: source offset and voice IDs; visual map/monster name, original party sheets, artifact custodies, publication/recording day"
+        }
+      ],
+      "rows": [
+        {
+          "key": "DEL-S1E11-001",
+          "clock": "~00:03–00:14",
+          "task": "Dunes rune and mechanism: who bottles black sludge, number of vials and storage, wand identification/gear count, fractional disc/dimensions and four-piece speculation. Verify the existing Dunes naming while keeping the proposed composite mechanism and godlink unproved."
+        },
+        {
+          "key": "DEL-S1E11-002",
+          "clock": "~00:20–00:52",
+          "task": "Floating creature and beak: played name (none located in prior research), anatomy, damage/kill and beak custody/transport across the swim. A brain-shaped floating body and parrot-like beak do not independently establish a species name."
+        },
+        {
+          "key": "DEL-S1E11-003",
+          "clock": "~00:55–01:08",
+          "task": "Fog bottle, fountain and tooth gate: mechanics, any official item name and charge claims, hook-horror-mouth fountain and tooth-faced distal door. Gate remains unopened; Water Breathing expiry/surface timing follows 004."
+        },
+        {
+          "key": "DEL-S1E11-004",
+          "clock": "~00:55–01:08 and final departure ~02:32–02:48",
+          "task": "Water-breathing outcome: exact expiry/surface timing, all Delvers surfacing without drowning and the living fish wizard’s movement through village to departure. This does not supply a guild arrival or adjudicated mission completion."
+        },
+        {
+          "key": "DEL-S1E11-005",
+          "clock": "~01:12–01:27",
+          "task": "Staff/trader: Glepo Ma, Big Bleeper Bloops and rider naming at the handoff scene; staffing, conch-shell transfer, darkmantle cowl and bullywug destination. Preserve the staff leaving party/trader custody without resolving earlier coercion or every speaker’s identity."
+        },
+        {
+          "key": "DEL-S1E11-006",
+          "clock": "~01:32–02:31",
+          "task": "Caster/fighter identities and life: Marek/Marik versus Cole/Coal address, stolen potions, first stealth-crit intent and robe/armor appearance. Preserve shield/door motif, Broadside appearance change, nonlethal stabilization, face-mace/Spiritual Weapon ruling and poison/HP damage. Three living prisoners are not executed; final potion custody follows 008."
+        },
+        {
+          "key": "DEL-S1E11-007",
+          "clock": "~02:32–02:48",
+          "task": "Compensation, loot and warning: approximately 1,000-gold sack estimate, gear crank and exact hut/beach equipment left versus taken. A sack estimate is not counted/divided cash. Trader’s warning swim begins, but delivery is unobserved. Horses/sash and final live-prisoner departure follow 008."
+        },
+        {
+          "key": "DEL-S1E11-008",
+          "clock": "~01:32–02:48; final departure ~02:32–02:48",
+          "task": "Final custody/cutoff: three living prisoners, borrowed horses, Sultan’s Sash restraint and gear left behind; verify healing-potion use, reclaimed stolen potion and final carrier distinctions. Party rides toward guild without arriving, questioning captives or earning a new reward. Historical 008 source-copy questions remain in the episode-wide source gate above."
+        }
+      ],
+      "crosswalk": [
+        {
+          "old_key": "DEL-S1E11-001",
+          "current_keys": [
+            "DEL-S1E11-001"
+          ],
+          "episode_wide_source_gate": false
+        },
+        {
+          "old_key": "DEL-S1E11-002",
+          "current_keys": [
+            "DEL-S1E11-002"
+          ],
+          "episode_wide_source_gate": false
+        },
+        {
+          "old_key": "DEL-S1E11-003",
+          "current_keys": [
+            "DEL-S1E11-003",
+            "DEL-S1E11-004"
+          ],
+          "episode_wide_source_gate": false
+        },
+        {
+          "old_key": "DEL-S1E11-004",
+          "current_keys": [
+            "DEL-S1E11-005"
+          ],
+          "episode_wide_source_gate": false
+        },
+        {
+          "old_key": "DEL-S1E11-005",
+          "current_keys": [
+            "DEL-S1E11-006",
+            "DEL-S1E11-008"
+          ],
+          "episode_wide_source_gate": false
+        },
+        {
+          "old_key": "DEL-S1E11-006",
+          "current_keys": [
+            "DEL-S1E11-006"
+          ],
+          "episode_wide_source_gate": false
+        },
+        {
+          "old_key": "DEL-S1E11-007",
+          "current_keys": [
+            "DEL-S1E11-007",
+            "DEL-S1E11-008"
+          ],
+          "episode_wide_source_gate": false
+        },
+        {
+          "old_key": "DEL-S1E11-008",
+          "current_keys": [],
+          "episode_wide_source_gate": true
+        }
+      ]
+    }
+  ],
+  "new_issue_keys": [],
+  "resolved_issue_keys": [],
+  "queue_sections": [
+    "## S1E09 listening and continuity targets\n\nExisting dossier/ledger tasks, with [historical mappings](../reports/DELVERS_S1E09_S1E11_ISSUE_ROUTING_2026-10-28.md). Listening is deferred; clocks remain uncalibrated.\n\n**Episode-wide source gate:** Retained from historical DEL-S1E09-007: verify ending/outro and original-MP3 seek alignment before listening; no original audio is newly reviewed, and model labels remain filename-derived. The level/rest question now follows ledger-existing 008. This gate has no newly allocated issue ID.\n\n| Key | SRT clock / gate | Review task |\n| --- | --- | --- |\n| DEL-S1E09-001 | ~00:01–00:31 and ~00:36–01:08 | Cube fight, hook horror and survivors: cube final blow/Lightning Javelin, Faelan engulfment and survival, piercer/grick accounting, hook-horror identification and kill, second living hook horror, and apparent sound navigation versus actual blindness. No complete underground clearance is established. |\n| DEL-S1E09-002 | ~00:36–01:08 | Trophies, horn and psychic shaft: verify the horn/hook/vial/shaft handoff to Carrie via the monk courier, the horn’s use before submission, specimen counts and custody. Do not carry S1E08’s retained-horn state forward or infer final return of inspected equipment. |\n| DEL-S1E09-003 | ~01:09–01:24 | Well reports, reward and next assignment: four well reports, Cassius’s temple-payment undertaking and reserve guards, 300 gold per person, and next-day kuo-toa mission selected but not started. Preserve completed payment versus promised institutional support. |\n| DEL-S1E09-004 | ~01:25–01:48 | Second shaft, drone and elf collapse: main-sanctuary altar opening size, drone and stone glyphs; distinguish the narrow covered shaft from the Hall of Penance stairs. One elf’s collapse does not independently prove a sound/illness mechanism. Dain Proudface attribution is retained under 007. |\n| DEL-S1E09-005 | ~01:48–02:22 and ~02:22–02:49 | Koh’s sash, armor and family: sash retrieval, leather-to-studded change and old-armor/buckle custody; contemplated family telepathy is not performed. Preserve the unresponsive-wife state without a demonstrated contact, diagnosis or cure. Shopping delivery questions follow 006. |\n| DEL-S1E09-006 | ~01:48–02:22 | Purchases and delivery: item choices, prices and deadlines, Gruber’s inconsistent scroll quotes, and whether the shield is physically delivered. Preserve Water Breathing potions, unsummoned Goat of Travail, armor enchantment, replacement healing potion, Detect Thoughts scroll and shield/custom-crossbow order distinctions; do not infer final purses or completed next-morning delivery. |\n| DEL-S1E09-007 | ~01:25–01:48 and ~02:22–02:49 | Two unresponsive elves and Krandal’s amulet: Rianu Keeves wording, tapping pattern, second coma and Amulet of the Devout +1 custody. Dain Proudface spelling/claimed age and crafting attribution remain testimony. Recreated taps do not cure the second elf, and Krandal does not learn Koh’s wife’s condition here. |\n| DEL-S1E09-008 | ~02:22–02:53 | Evelyn’s school/ball and level boundary: Margaret/school spelling and noon meeting, proposed disguise not performed, and level-four announcement versus an unplayed long rest or settled build. This is the existing ledger’s 008, now visible in the dossier task list, not a new issue allocation. |\n\n",
+    "## S1E10 listening and continuity targets\n\nExisting dossier/ledger tasks, with [historical mappings](../reports/DELVERS_S1E09_S1E11_ISSUE_ROUTING_2026-10-28.md). Listening is deferred; clocks remain uncalibrated.\n\n| Key | SRT clock / gate | Review task |\n| --- | --- | --- |\n| DEL-S1E10-001 | ~00:02–00:04 and ~00:18–00:27 | Koh’s wife: staged recap versus canonical scene, Anthela/Anthea spoken name, played contact and her unverified account of captors/location, black-sand materialization/amount and overlapping drone. Physical sand is distinct from objective proof of the visionary setting; compare MP3 seeks only after alignment. |\n| DEL-S1E10-002 | ~00:06–00:18 and ~00:46–00:52 | Rianu’s message: exact Rianu Keeves wording, E-I-S-T-H term and funeral-dirge translation; revise only with adequate audio/written evidence. Tentative code recognition is not a proven full message or causal connection to Koh’s wife. |\n| DEL-S1E10-003 | ~00:28–00:40, ~00:52–00:59 and ~02:12–02:55 | Peace mandate and encounter: Jimmy’s teams/assignments and word-sheet translations; peaceful inquiry, self-defense and withdrawal versus the ritualist’s attack. Retain village religion/elder, big blubs phrase and mistaken godhood as claims/interpretations. Verify whirlpool battle, two 8-HP damage hits, intended nonlethal attacks, rescued Koh and reason for sparing the captive without proving divinity or a completed peaceful mission. |\n| DEL-S1E10-004 | ~01:04–01:39 and ~02:12–03:06 | Lake layout and claimed Dunes: day/night water recession, fish-species map wording, architecture, pit route, dark slime/glyph and ritualist’s Dunes/sleeping-god claims. Similar ruins, Enzo’s testimony and wife vision do not prove one site or mechanism; exact map remains uninspected. |\n| DEL-S1E10-005 | ~00:28–00:40, ~00:52–00:59 and ~01:39–02:12 | Equipment and potions: three Sturge-ronella cones per adventurer and whether smoke mechanically protects; delivered armor/shield/crossbow versus kit deliberately left ashore. Verify ring boosts/actual wearer, shaft-room inventory, potions consumed and elapsed time; one-hour duration is the session ruling, not a general item-rule assumption. No Goat of Travail activation is inferred. |\n| DEL-S1E10-006 | ~01:04–01:39 and ~02:55–03:06 | Trader and physical transfers: Glepo Ma spelling, shop/barter, shovel, fishing rod, gifts and horses; staff/wand disarming and custody without automatic magic-item identification. Keep the trader exchange distinct from the captive’s later proposed consultation and unperformed staff delivery. |\n| DEL-S1E10-007 | ~02:55–03:06 | Captive and cutoff: ritualist name, alive and bound in Sultan’s Sash on Krandal’s back, with water-breathing time still a constraint. No return to surface, village trial, guild report, mission completion, reward or new level is played. Dunes/god claims follow 004; physical staff/wand custody follows 006. |\n| DEL-S1E10-008 | Entire episode; before listening or source promotion | Existing provenance gate: independently listen only when owner resumes it, align the MP3 and SRT clock and verify model-input correspondence. Source handout/map and shopping-sheet history remain uninspected. Filename labels, staged recap and seek estimates are not verification. |\n\n",
+    "## S1E11 listening and continuity targets\n\nExisting dossier/ledger tasks, with [historical mappings](../reports/DELVERS_S1E09_S1E11_ISSUE_ROUTING_2026-10-28.md). Listening is deferred; clocks remain uncalibrated.\n\n**Episode-wide source gate:** Retained from historical DEL-S1E11-008: original-MP3 offset and voice IDs, visual map/monster name, original party sheets, artifact custody and publication versus recording day remain unverified. Listening remains deferred. Current 008 follows the existing ledger’s final-custody/cutoff subject; this shared source gate allocates no new issue ID.\n\n| Key | SRT clock / gate | Review task |\n| --- | --- | --- |\n| DEL-S1E11-001 | ~00:03–00:14 | Dunes rune and mechanism: who bottles black sludge, number of vials and storage, wand identification/gear count, fractional disc/dimensions and four-piece speculation. Verify the existing Dunes naming while keeping the proposed composite mechanism and godlink unproved. |\n| DEL-S1E11-002 | ~00:20–00:52 | Floating creature and beak: played name (none located in prior research), anatomy, damage/kill and beak custody/transport across the swim. A brain-shaped floating body and parrot-like beak do not independently establish a species name. |\n| DEL-S1E11-003 | ~00:55–01:08 | Fog bottle, fountain and tooth gate: mechanics, any official item name and charge claims, hook-horror-mouth fountain and tooth-faced distal door. Gate remains unopened; Water Breathing expiry/surface timing follows 004. |\n| DEL-S1E11-004 | ~00:55–01:08 and final departure ~02:32–02:48 | Water-breathing outcome: exact expiry/surface timing, all Delvers surfacing without drowning and the living fish wizard’s movement through village to departure. This does not supply a guild arrival or adjudicated mission completion. |\n| DEL-S1E11-005 | ~01:12–01:27 | Staff/trader: Glepo Ma, Big Bleeper Bloops and rider naming at the handoff scene; staffing, conch-shell transfer, darkmantle cowl and bullywug destination. Preserve the staff leaving party/trader custody without resolving earlier coercion or every speaker’s identity. |\n| DEL-S1E11-006 | ~01:32–02:31 | Caster/fighter identities and life: Marek/Marik versus Cole/Coal address, stolen potions, first stealth-crit intent and robe/armor appearance. Preserve shield/door motif, Broadside appearance change, nonlethal stabilization, face-mace/Spiritual Weapon ruling and poison/HP damage. Three living prisoners are not executed; final potion custody follows 008. |\n| DEL-S1E11-007 | ~02:32–02:48 | Compensation, loot and warning: approximately 1,000-gold sack estimate, gear crank and exact hut/beach equipment left versus taken. A sack estimate is not counted/divided cash. Trader’s warning swim begins, but delivery is unobserved. Horses/sash and final live-prisoner departure follow 008. |\n| DEL-S1E11-008 | ~01:32–02:48; final departure ~02:32–02:48 | Final custody/cutoff: three living prisoners, borrowed horses, Sultan’s Sash restraint and gear left behind; verify healing-potion use, reclaimed stolen potion and final carrier distinctions. Party rides toward guild without arriving, questioning captives or earning a new reward. Historical 008 source-copy questions remain in the episode-wide source gate above. |\n\n"
+  ],
+  "queue_dated_addition": "**S1E09–S1E11 issue routing, 2026-10-28:** The [three-episode crosswalk](../reports/DELVERS_S1E09_S1E11_ISSUE_ROUTING_2026-10-28.md) aligns current dossier and central tasks with unchanged ledger subjects. Twenty-four existing global IDs are centrally visible, including ledger-existing S1E09-008. Historical S1E09-007 and S1E11-008 source-copy questions remain as unkeyed episode-wide gates; S1E10-008 remains its existing provenance task. Original mappings and all targets are archived. Story/source prefixes and the ledger are unchanged; no new ID, issue resolution or listening.\n\n",
+  "manifest_append": "### Independent tracking repair — S1E09–S1E11 issue routing\n\n[Crosswalk](../reports/DELVERS_S1E09_S1E11_ISSUE_ROUTING_2026-10-28.md) · [Checkpoint](DELVERS_S1E09_S1E11_ISSUE_ROUTING_2026-10-28.json) · [Preserved originals](../research/legacy/2026-10-28/delvers-s1e09-s1e11-issue-routing/README.md). All three dossiers now follow unchanged ledger subjects. Twenty-four existing global keys are centrally visible, including ledger-existing S1E09-008; source-copy targets that conflicted with story IDs are explicit episode-wide gates, without new IDs. All 52 previous central rows remain intact. Historical mappings, original targets and all story/source prefixes are preserved; obsolete onward-intake pointers are historical. No issue is allocated or resolved, no source is reinterpreted, and listening remains deferred. This is a three-episode routing repair, not a campaign-wide audit.\n",
+  "status": "three members and shared controls persisted; validation pending"
+}

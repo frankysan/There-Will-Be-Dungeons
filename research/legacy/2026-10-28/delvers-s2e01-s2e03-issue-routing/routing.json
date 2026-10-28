@@ -1,0 +1,508 @@
+{
+  "members": [
+    {
+      "episode": "S2E01",
+      "type": "played session documentation",
+      "path": "delvers/episodes/S2E01.md",
+      "status": "routing persisted; validation pending",
+      "heading": "## Listening/cross-reference priorities",
+      "old_block": "## Listening/cross-reference priorities\n\n| Key | Approx. time | Verify |\n| --- | --- | --- |\n| DEL-S2E01-001 | ~00:02–00:28 | Exact spelled item names, Hissia/Isia, group payout and inspection/return, snake-royalty flashbacks vs actual island history |\n| DEL-S2E01-002 | ~00:33–00:43 | Chuck Abnaz / Nasty, Cloven Brotherhood, coercion vs care, paid wife treatment and living daughter; private/confidential knowledge |\n| DEL-S2E01-003 | ~00:43–01:01 | Rianu Keeves name, whispered **Kalizar**, spell **Revivify living elf**, uncleared curse and no wake-up |\n| DEL-S2E01-004 | ~01:08–01:16 / ~01:34–01:46 | **Blackwater** surname/crest, Dr Ripart, **Lestai** goddess mark, spoken history **omitted**, not invented |\n| DEL-S2E01-005 | ~01:17–01:34 | Job-board map and lake names, **White Wedding silver slayer/530 gp tomorrow**, actual **2,000-gp Ring of Feather Falling purchase** |\n| DEL-S2E01-006 | ~01:47–02:13 | Farmland/watchtower exact bounds/map, sea hag, skeletal minotaur and phantasmal faith-fear |\n| DEL-S2E01-007 | ~02:14–02:51 | Death blows, 20-HP Lay on Hands, sea hag death, minotaur **skull left alive buried**, **Potato Grove** name and cauldron custody |\n| DEL-S2E01-008 | Full MP3 | Confirm SRT timing, complete performed Snake Island flashbacks, original guild incident report, deed/repair cost and future guest pronunciation. **No audio listened** |\n\n",
+      "new_block": "## Listening/cross-reference priorities\n\nCurrent subjects follow the ledger; [historical-label mappings](../../reports/DELVERS_S2E01_S2E03_ISSUE_ROUTING_2026-10-28.md) preserve earlier meanings. These are existing documentation targets, not fresh source findings. SRT clocks remain uncalibrated; listening is deferred.\n\n**Episode-wide source gate:** Retained from historical DEL-S2E01-008: confirm the actual MP3/SRT timing and complete performed Snake Island flashback windows; original guild incident report, deed/repair costs and future guest pronunciation remain unverified. No audio is newly heard. Current 008 follows the ledger’s phantasm/living-skull subject; this episode-wide gate allocates no ID.\n\n| Key | SRT clock / gate | Review task |\n| --- | --- | --- |\n| DEL-S2E01-001 | ~00:02–00:28 | Snake Island memory discontinuity: Hissia/Isia, royalty/idol fragments, actual group payout and return after two missing weeks. Verify the remembered events without inventing a continuous played island adventure, marriage or established cause of amnesia. |\n| DEL-S2E01-002 | ~00:02–00:28 and ~01:17–01:34 | Snake equipment inspected/returned: exact item spellings and individual custody, stuck jewelry released and returned after guild inspection rather than permanently confiscated. Retain the actual 2,000-gold Ring of Feather Falling purchase separately from mission pay. |\n| DEL-S2E01-003 | ~01:47–02:51; deed/repair document gate above | Property and physical infestation: actual deed/repair costs, farmland/watchtower bounds/map, Potato Grove naming, sea-hag death and skeletal-body defeat. Talking skull is buried alive, not conclusively exorcised; cauldron custody is unproven. No crops or repairs are completed at this cutoff. |\n| DEL-S2E01-004 | ~00:33–00:43 | Family disclosure: Chuck Abnaz/Nasty, Cloven Brotherhood, coercion versus actual paid care, sleeping wife and living daughter. Preserve private/confidential knowledge and partial disclosure to companions rather than assuming all debt, family history or treatment details become shared. |\n| DEL-S2E01-005 | ~01:08–01:16 and ~01:34–01:46 | School/family and mark: historical Blackwater surname/crest wording, Dr Ripart and Lestai mark. Retain the later Blackwood clarification without rewriting the earlier ASR utterance. Private history is omitted from narration, not supplied editorially; no invented oath, goddess mechanics or audience-heard explanation. |\n| DEL-S2E01-006 | ~00:43–01:01 | Sleeping elf response: Rianu Keeves, whispered Kalizar, Revivify attempted on a living elf, healing/uncleared curse and no waking. Do not turn a faint response into a cure or disclose the withheld clue to Maynard without evidence. |\n| DEL-S2E01-007 | ~01:17–01:34 | Registered job: map/lake names, White Wedding silver-slayer wording, 530 gold and tomorrow’s appointment. Registration is performed; wedding, exorcism, tips and payment are not. A silver-class task does not promote the bronze party. |\n| DEL-S2E01-008 | ~01:47–02:51 | Phantasm and skull: sea hag’s faith-fear/undead-Krandal image is not a separate physical clone; retain death blows, Evelyn’s 20-HP Lay on Hands and the hag’s death. Minotaur skull remains animate and buried after skeletal-body defeat. Separate physical outcomes from private fear and unresolved cauldron/skull fate. |\n| DEL-S2E01-009 | Closing ~02:49–02:52; opening/flashback context | Season Two cutoff: present-day farm outcome versus incomplete Snake Island memories/bonfire fragment, without a confirmed death or rescue in that recollection. Future guest promotion does not introduce an in-world character. S2E02 already has an ASR-provisional dossier; the onward pointer is historical, not new intake. |\n\n",
+      "old_tail": "**Next archived Delvers recording:** [S2E02](../SOURCE_INVENTORY.md), verify exact title and type from inventory before writing any future event into this episode.\n",
+      "new_tail": "**Historical onward episode (already researched):** **Delvers S2E02 — Why Palor When you Can Pay Later**, in [source inventory](../SOURCE_INVENTORY.md). Main-campaign intake is complete through S3E12; this retained onward reference is not an instruction to repeat it. Use the [current queue](../REVIEW_QUEUE.md) for unresolved verification without rewriting this episode’s cutoff.\n",
+      "source_gate": "Retained from historical DEL-S2E01-008: confirm the actual MP3/SRT timing and complete performed Snake Island flashback windows; original guild incident report, deed/repair costs and future guest pronunciation remain unverified. No audio is newly heard. Current 008 follows the ledger’s phantasm/living-skull subject; this episode-wide gate allocates no ID.",
+      "old_rows": [
+        {
+          "key": "DEL-S2E01-001",
+          "clock": "~00:02–00:28",
+          "task": "Exact spelled item names, Hissia/Isia, group payout and inspection/return, snake-royalty flashbacks vs actual island history"
+        },
+        {
+          "key": "DEL-S2E01-002",
+          "clock": "~00:33–00:43",
+          "task": "Chuck Abnaz / Nasty, Cloven Brotherhood, coercion vs care, paid wife treatment and living daughter; private/confidential knowledge"
+        },
+        {
+          "key": "DEL-S2E01-003",
+          "clock": "~00:43–01:01",
+          "task": "Rianu Keeves name, whispered **Kalizar**, spell **Revivify living elf**, uncleared curse and no wake-up"
+        },
+        {
+          "key": "DEL-S2E01-004",
+          "clock": "~01:08–01:16 / ~01:34–01:46",
+          "task": "**Blackwater** surname/crest, Dr Ripart, **Lestai** goddess mark, spoken history **omitted**, not invented"
+        },
+        {
+          "key": "DEL-S2E01-005",
+          "clock": "~01:17–01:34",
+          "task": "Job-board map and lake names, **White Wedding silver slayer/530 gp tomorrow**, actual **2,000-gp Ring of Feather Falling purchase**"
+        },
+        {
+          "key": "DEL-S2E01-006",
+          "clock": "~01:47–02:13",
+          "task": "Farmland/watchtower exact bounds/map, sea hag, skeletal minotaur and phantasmal faith-fear"
+        },
+        {
+          "key": "DEL-S2E01-007",
+          "clock": "~02:14–02:51",
+          "task": "Death blows, 20-HP Lay on Hands, sea hag death, minotaur **skull left alive buried**, **Potato Grove** name and cauldron custody"
+        },
+        {
+          "key": "DEL-S2E01-008",
+          "clock": "Full MP3",
+          "task": "Confirm SRT timing, complete performed Snake Island flashbacks, original guild incident report, deed/repair cost and future guest pronunciation. **No audio listened**"
+        }
+      ],
+      "rows": [
+        {
+          "key": "DEL-S2E01-001",
+          "clock": "~00:02–00:28",
+          "task": "Snake Island memory discontinuity: Hissia/Isia, royalty/idol fragments, actual group payout and return after two missing weeks. Verify the remembered events without inventing a continuous played island adventure, marriage or established cause of amnesia."
+        },
+        {
+          "key": "DEL-S2E01-002",
+          "clock": "~00:02–00:28 and ~01:17–01:34",
+          "task": "Snake equipment inspected/returned: exact item spellings and individual custody, stuck jewelry released and returned after guild inspection rather than permanently confiscated. Retain the actual 2,000-gold Ring of Feather Falling purchase separately from mission pay."
+        },
+        {
+          "key": "DEL-S2E01-003",
+          "clock": "~01:47–02:51; deed/repair document gate above",
+          "task": "Property and physical infestation: actual deed/repair costs, farmland/watchtower bounds/map, Potato Grove naming, sea-hag death and skeletal-body defeat. Talking skull is buried alive, not conclusively exorcised; cauldron custody is unproven. No crops or repairs are completed at this cutoff."
+        },
+        {
+          "key": "DEL-S2E01-004",
+          "clock": "~00:33–00:43",
+          "task": "Family disclosure: Chuck Abnaz/Nasty, Cloven Brotherhood, coercion versus actual paid care, sleeping wife and living daughter. Preserve private/confidential knowledge and partial disclosure to companions rather than assuming all debt, family history or treatment details become shared."
+        },
+        {
+          "key": "DEL-S2E01-005",
+          "clock": "~01:08–01:16 and ~01:34–01:46",
+          "task": "School/family and mark: historical Blackwater surname/crest wording, Dr Ripart and Lestai mark. Retain the later Blackwood clarification without rewriting the earlier ASR utterance. Private history is omitted from narration, not supplied editorially; no invented oath, goddess mechanics or audience-heard explanation."
+        },
+        {
+          "key": "DEL-S2E01-006",
+          "clock": "~00:43–01:01",
+          "task": "Sleeping elf response: Rianu Keeves, whispered Kalizar, Revivify attempted on a living elf, healing/uncleared curse and no waking. Do not turn a faint response into a cure or disclose the withheld clue to Maynard without evidence."
+        },
+        {
+          "key": "DEL-S2E01-007",
+          "clock": "~01:17–01:34",
+          "task": "Registered job: map/lake names, White Wedding silver-slayer wording, 530 gold and tomorrow’s appointment. Registration is performed; wedding, exorcism, tips and payment are not. A silver-class task does not promote the bronze party."
+        },
+        {
+          "key": "DEL-S2E01-008",
+          "clock": "~01:47–02:51",
+          "task": "Phantasm and skull: sea hag’s faith-fear/undead-Krandal image is not a separate physical clone; retain death blows, Evelyn’s 20-HP Lay on Hands and the hag’s death. Minotaur skull remains animate and buried after skeletal-body defeat. Separate physical outcomes from private fear and unresolved cauldron/skull fate."
+        },
+        {
+          "key": "DEL-S2E01-009",
+          "clock": "Closing ~02:49–02:52; opening/flashback context",
+          "task": "Season Two cutoff: present-day farm outcome versus incomplete Snake Island memories/bonfire fragment, without a confirmed death or rescue in that recollection. Future guest promotion does not introduce an in-world character. S2E02 already has an ASR-provisional dossier; the onward pointer is historical, not new intake."
+        }
+      ],
+      "crosswalk": [
+        {
+          "old_key": "DEL-S2E01-001",
+          "current_keys": [
+            "DEL-S2E01-001",
+            "DEL-S2E01-002"
+          ],
+          "episode_wide_source_gate": false
+        },
+        {
+          "old_key": "DEL-S2E01-002",
+          "current_keys": [
+            "DEL-S2E01-004"
+          ],
+          "episode_wide_source_gate": false
+        },
+        {
+          "old_key": "DEL-S2E01-003",
+          "current_keys": [
+            "DEL-S2E01-006"
+          ],
+          "episode_wide_source_gate": false
+        },
+        {
+          "old_key": "DEL-S2E01-004",
+          "current_keys": [
+            "DEL-S2E01-005"
+          ],
+          "episode_wide_source_gate": false
+        },
+        {
+          "old_key": "DEL-S2E01-005",
+          "current_keys": [
+            "DEL-S2E01-002",
+            "DEL-S2E01-007"
+          ],
+          "episode_wide_source_gate": false
+        },
+        {
+          "old_key": "DEL-S2E01-006",
+          "current_keys": [
+            "DEL-S2E01-003",
+            "DEL-S2E01-008"
+          ],
+          "episode_wide_source_gate": false
+        },
+        {
+          "old_key": "DEL-S2E01-007",
+          "current_keys": [
+            "DEL-S2E01-003",
+            "DEL-S2E01-008"
+          ],
+          "episode_wide_source_gate": false
+        },
+        {
+          "old_key": "DEL-S2E01-008",
+          "current_keys": [
+            "DEL-S2E01-001",
+            "DEL-S2E01-003",
+            "DEL-S2E01-009"
+          ],
+          "episode_wide_source_gate": true
+        }
+      ]
+    },
+    {
+      "episode": "S2E02",
+      "type": "played session documentation",
+      "path": "delvers/episodes/S2E02.md",
+      "status": "routing persisted; validation pending",
+      "heading": "## Targeted listening-review keys",
+      "old_block": "## Targeted listening-review keys\n\n| Key | Time | Check |\n| --- | --- | --- |\n| DEL-S2E02-001 | 00:03–00:27 | Guest **full name/title**, exact skull-mask, stage identity, pocket watch, 270-gp advance and separate guest contract; wedding surnames |\n| DEL-S2E02-002 | 00:27–00:32 | Volcano Snake Island flashback, **two simultaneous psychic knives** GM ruling, gnome patron's shouted curse and fate |\n| DEL-S2E02-003 | 01:19–01:30 | Find Steed proposed only, **Goat of Travail summoned**, 20 dead white birds and two stage-propped birds; first cooldown |\n| DEL-S2E02-004 | 01:30–01:56 | Knife-bearing duck, Goodwine rescue, unassigned black sludge footprints, Krandal's **220-gp equivalent** find |\n| DEL-S2E02-005 | 01:56–02:22 | Old man's **charmed confession**, exact grandfather name, failure to bury body and **Deck of Many Things** reported then confirmed |\n| DEL-S2E02-006 | 02:22–02:36 | Mace branch/tree separation, Magic Missile actual uses, Koh Dodge/Uncanny Dodge vs damage, wight final incapacitation |\n| DEL-S2E02-007 | 02:36–02:48 | Deck physical ownership, **Koh right-hand trophy** precise cut/possession, death/burial, **black sludge at tree roots**, fee transfer, party outcome |\n| DEL-S2E02-008 | Full MP3 / handout | No audio listened; source release date vs spoken May 1, guest sheet and precise gold shares, unseen map, performance flourishes and ASR names |\n\n",
+      "new_block": "## Targeted listening-review keys\n\nCurrent subjects follow the ledger; [historical-label mappings](../../reports/DELVERS_S2E01_S2E03_ISSUE_ROUTING_2026-10-28.md) preserve earlier meanings. These are existing documentation targets, not fresh source findings. SRT clocks remain uncalibrated; listening is deferred.\n\n| Key | SRT clock / gate | Review task |\n| --- | --- | --- |\n| DEL-S2E02-001 | ~00:03–00:27 and wedding/closing scenes | Wedding identity and class: Hooper/Goodwine surnames and Wight Wedding spelling versus the earlier White Wedding phonetic form. Silver-slayer task is not a new silver rank; separate guest contract/compensation from any unverified final per-person payout. |\n| DEL-S2E02-002 | ~00:03–00:27, ~01:56–02:22 and ~02:36–02:48 | Guest/deck: full Daufante title/name, skull-mask/stage identity, pocket watch, 270-gold advance and separate contract. Deck is reported then physically recovered, retained by the guest and not drawn from; ownership, wrapped storage and fee/share transfer remain distinct from proved magical effects. |\n| DEL-S2E02-003 | ~00:27–00:32 and ~01:19–01:30 | Goat and blades: volcano/gnome Snake Island memory, shouted curse/fate and two simultaneous psychic-knife ruling. Find Steed remains proposed only; Goat of Travail is actually summoned, with first activation/cooldown. Unlocking blades is not proof of a double-hit or new level. |\n| DEL-S2E02-004 | ~01:56–02:36 and ~02:36–02:48 | Confession, fight and burial: charmed old man, grandfather name and unburied murder account remain private testimony. Retain mace branch/tree separation, actual Magic Missile uses, Koh’s Dodge/Uncanny Dodge damage handling, wight incapacitation and performed burial. No public trial, exposure or eternal-peace finding is inferred. |\n| DEL-S2E02-005 | ~01:19–01:56 and ~02:36–02:48 | Duck/birds/footprints: twenty dead white birds and two stage-propped birds, knife-bearing duck, Goodwine rescue and unassigned black-sludge footprints. Root sludge is a separate observation, not proven identical to every earlier residue or proof of one culprit. |\n| DEL-S2E02-006 | ~01:30–01:56 and ~02:36–02:48 | Gold and trophy: Krandal’s 220-gold-equivalent find is total-equivalent, not coins plus a second gem value or guild pay. Retain precise fee transfer/shares and Koh’s possible right-hand cut/custody as unresolved questions; body appearance is not a demonstrated hand-taking action. |\n| DEL-S2E02-007 | ~02:36–02:48 | Cutoff: wedding preserved, wight defeated/buried and party survives; guest leaves next day with deck. Later theatre invitation and future family/farm/elf developments are unperformed here. No bridge to the next assignment is invented. |\n| DEL-S2E02-008 | Full recording and handout; before verification claims | Existing provenance gate: original audio unreviewed, release date versus spoken May 1, guest sheet, precise gold shares, unseen map, performance flourishes and ASR names remain unresolved. Listening stays deferred; no original sheet/map or sound verification is newly claimed. |\n\n",
+      "old_tail": "**Next owner-inventoried Delvers source:** **S2E03 — Pokey Stick Junior**, existence shown in [source inventory](../SOURCE_INVENTORY.md); **not analyzed**. No source/audio files altered.\n",
+      "new_tail": "**Historical onward episode (already researched):** **Delvers S2E03 — Pokey Stick Junior**, in [source inventory](../SOURCE_INVENTORY.md). Main-campaign intake is complete through S3E12; this retained onward reference is not an instruction to repeat it. Use the [current queue](../REVIEW_QUEUE.md) for unresolved verification without rewriting this episode’s cutoff.\n",
+      "source_gate": null,
+      "old_rows": [
+        {
+          "key": "DEL-S2E02-001",
+          "clock": "00:03–00:27",
+          "task": "Guest **full name/title**, exact skull-mask, stage identity, pocket watch, 270-gp advance and separate guest contract; wedding surnames"
+        },
+        {
+          "key": "DEL-S2E02-002",
+          "clock": "00:27–00:32",
+          "task": "Volcano Snake Island flashback, **two simultaneous psychic knives** GM ruling, gnome patron's shouted curse and fate"
+        },
+        {
+          "key": "DEL-S2E02-003",
+          "clock": "01:19–01:30",
+          "task": "Find Steed proposed only, **Goat of Travail summoned**, 20 dead white birds and two stage-propped birds; first cooldown"
+        },
+        {
+          "key": "DEL-S2E02-004",
+          "clock": "01:30–01:56",
+          "task": "Knife-bearing duck, Goodwine rescue, unassigned black sludge footprints, Krandal's **220-gp equivalent** find"
+        },
+        {
+          "key": "DEL-S2E02-005",
+          "clock": "01:56–02:22",
+          "task": "Old man's **charmed confession**, exact grandfather name, failure to bury body and **Deck of Many Things** reported then confirmed"
+        },
+        {
+          "key": "DEL-S2E02-006",
+          "clock": "02:22–02:36",
+          "task": "Mace branch/tree separation, Magic Missile actual uses, Koh Dodge/Uncanny Dodge vs damage, wight final incapacitation"
+        },
+        {
+          "key": "DEL-S2E02-007",
+          "clock": "02:36–02:48",
+          "task": "Deck physical ownership, **Koh right-hand trophy** precise cut/possession, death/burial, **black sludge at tree roots**, fee transfer, party outcome"
+        },
+        {
+          "key": "DEL-S2E02-008",
+          "clock": "Full MP3 / handout",
+          "task": "No audio listened; source release date vs spoken May 1, guest sheet and precise gold shares, unseen map, performance flourishes and ASR names"
+        }
+      ],
+      "rows": [
+        {
+          "key": "DEL-S2E02-001",
+          "clock": "~00:03–00:27 and wedding/closing scenes",
+          "task": "Wedding identity and class: Hooper/Goodwine surnames and Wight Wedding spelling versus the earlier White Wedding phonetic form. Silver-slayer task is not a new silver rank; separate guest contract/compensation from any unverified final per-person payout."
+        },
+        {
+          "key": "DEL-S2E02-002",
+          "clock": "~00:03–00:27, ~01:56–02:22 and ~02:36–02:48",
+          "task": "Guest/deck: full Daufante title/name, skull-mask/stage identity, pocket watch, 270-gold advance and separate contract. Deck is reported then physically recovered, retained by the guest and not drawn from; ownership, wrapped storage and fee/share transfer remain distinct from proved magical effects."
+        },
+        {
+          "key": "DEL-S2E02-003",
+          "clock": "~00:27–00:32 and ~01:19–01:30",
+          "task": "Goat and blades: volcano/gnome Snake Island memory, shouted curse/fate and two simultaneous psychic-knife ruling. Find Steed remains proposed only; Goat of Travail is actually summoned, with first activation/cooldown. Unlocking blades is not proof of a double-hit or new level."
+        },
+        {
+          "key": "DEL-S2E02-004",
+          "clock": "~01:56–02:36 and ~02:36–02:48",
+          "task": "Confession, fight and burial: charmed old man, grandfather name and unburied murder account remain private testimony. Retain mace branch/tree separation, actual Magic Missile uses, Koh’s Dodge/Uncanny Dodge damage handling, wight incapacitation and performed burial. No public trial, exposure or eternal-peace finding is inferred."
+        },
+        {
+          "key": "DEL-S2E02-005",
+          "clock": "~01:19–01:56 and ~02:36–02:48",
+          "task": "Duck/birds/footprints: twenty dead white birds and two stage-propped birds, knife-bearing duck, Goodwine rescue and unassigned black-sludge footprints. Root sludge is a separate observation, not proven identical to every earlier residue or proof of one culprit."
+        },
+        {
+          "key": "DEL-S2E02-006",
+          "clock": "~01:30–01:56 and ~02:36–02:48",
+          "task": "Gold and trophy: Krandal’s 220-gold-equivalent find is total-equivalent, not coins plus a second gem value or guild pay. Retain precise fee transfer/shares and Koh’s possible right-hand cut/custody as unresolved questions; body appearance is not a demonstrated hand-taking action."
+        },
+        {
+          "key": "DEL-S2E02-007",
+          "clock": "~02:36–02:48",
+          "task": "Cutoff: wedding preserved, wight defeated/buried and party survives; guest leaves next day with deck. Later theatre invitation and future family/farm/elf developments are unperformed here. No bridge to the next assignment is invented."
+        },
+        {
+          "key": "DEL-S2E02-008",
+          "clock": "Full recording and handout; before verification claims",
+          "task": "Existing provenance gate: original audio unreviewed, release date versus spoken May 1, guest sheet, precise gold shares, unseen map, performance flourishes and ASR names remain unresolved. Listening stays deferred; no original sheet/map or sound verification is newly claimed."
+        }
+      ],
+      "crosswalk": [
+        {
+          "old_key": "DEL-S2E02-001",
+          "current_keys": [
+            "DEL-S2E02-001",
+            "DEL-S2E02-002"
+          ],
+          "episode_wide_source_gate": false
+        },
+        {
+          "old_key": "DEL-S2E02-002",
+          "current_keys": [
+            "DEL-S2E02-003"
+          ],
+          "episode_wide_source_gate": false
+        },
+        {
+          "old_key": "DEL-S2E02-003",
+          "current_keys": [
+            "DEL-S2E02-003",
+            "DEL-S2E02-005"
+          ],
+          "episode_wide_source_gate": false
+        },
+        {
+          "old_key": "DEL-S2E02-004",
+          "current_keys": [
+            "DEL-S2E02-005",
+            "DEL-S2E02-006"
+          ],
+          "episode_wide_source_gate": false
+        },
+        {
+          "old_key": "DEL-S2E02-005",
+          "current_keys": [
+            "DEL-S2E02-002",
+            "DEL-S2E02-004"
+          ],
+          "episode_wide_source_gate": false
+        },
+        {
+          "old_key": "DEL-S2E02-006",
+          "current_keys": [
+            "DEL-S2E02-004"
+          ],
+          "episode_wide_source_gate": false
+        },
+        {
+          "old_key": "DEL-S2E02-007",
+          "current_keys": [
+            "DEL-S2E02-002",
+            "DEL-S2E02-004",
+            "DEL-S2E02-005",
+            "DEL-S2E02-006",
+            "DEL-S2E02-007"
+          ],
+          "episode_wide_source_gate": false
+        },
+        {
+          "old_key": "DEL-S2E02-008",
+          "current_keys": [
+            "DEL-S2E02-008"
+          ],
+          "episode_wide_source_gate": false
+        }
+      ]
+    },
+    {
+      "episode": "S2E03",
+      "type": "played session documentation",
+      "path": "delvers/episodes/S2E03.md",
+      "status": "routing persisted; validation pending",
+      "heading": "## Targeted listening questions",
+      "old_block": "## Targeted listening questions\n\n| Key | Approx. time | Evidence needed |\n| --- | --- | --- |\n| DEL-S2E03-001 | 00:00–00:05 | Third episode vs archive S2E00 count and snake-eyed seer flashback/cursed prophecy |\n| DEL-S2E03-002 | 00:24–00:55 | Lightning javelin saved-but-damaged adjudication, Bless retroactive hit correction, two psychic strikes, creature's lethal collapse / body handling |\n| DEL-S2E03-003 | 00:56–01:18 | Newspaper reporter's canonical name; nature of underground slab, Withers denial vs belief, **450 gp** amount group/per-player |\n| DEL-S2E03-004 | 01:23–01:34 | **Spud Buds** tentative versus **Potato Grove**, farming/irrigation physically done, minotaur skull mounted and rock |\n| DEL-S2E03-005 | 01:34–01:47 | School spelling, actual courses/ball timing, daughter's tooth gift, wife consciousness and secret visions |\n| DEL-S2E03-006 | 01:48–01:58 | **Suis Sac**, Shrugs, Allspice, **750 gp vs projected 10k–20k**, explicit Koh consent |\n| DEL-S2E03-007 | 01:58–02:21 | Cassius **admits financing**, claims/suspicions about Withers and Skull Keep; aliases; **Blackwood singular emphatic correction** |\n| DEL-S2E03-008 | 02:20–outro | Boots of Elvenkind loaned; hoof conversion **started not finished**; **elf entrance, no identity yet**, next episode/guest promo only |\n\n",
+      "new_block": "## Targeted listening questions\n\nCurrent subjects follow the ledger; [historical-label mappings](../../reports/DELVERS_S2E01_S2E03_ISSUE_ROUTING_2026-10-28.md) preserve earlier meanings. These are existing documentation targets, not fresh source findings. SRT clocks remain uncalibrated; listening is deferred.\n\n| Key | SRT clock / gate | Review task |\n| --- | --- | --- |\n| DEL-S2E03-001 | ~00:00–00:05 and ~00:56–01:18 | Chronology and bulette reward: third-episode wording versus narrated archive S2E00, snake-eyed-seer memory/cursed prophecy and the following-day setting. The 450-gold amount is not unambiguously per player; preserve group/per-member uncertainty and reported body handling rather than multiplying pay. |\n| DEL-S2E03-002 | ~00:24–00:55 | Combat/rulings: lightning javelin saved-but-damaged adjudication, Bless retroactive correction, two psychic strikes, lethal collapse and body handling. Retain GM action versus generic rule assumptions; staff eye-strike does not establish a summoned living python or a new level. |\n| DEL-S2E03-003 | ~00:56–01:18 | Withers chamber: reporter’s canonical name, underground slab/restraints and locked-door context, Withers denial versus belief. No entry through the door, confirmed room purpose, guilt or proven abduction follows from suspicion; reporting the find is separate from the later off-books operation. |\n| DEL-S2E03-004 | ~01:23–01:34 | Farm and name: Spud Buds remains tentative versus Potato Grove, planting/irrigation/debris work is performed, and minotaur skull is mounted with a rock. Proposed scarecrow service is not proved crop protection; quoted repair/restoration costs are not paid works. |\n| DEL-S2E03-005 | ~01:34–01:58 | Koh’s duty/pressure: daughter’s tooth gift, wife’s consciousness and secret visions, Shrugs/Allspice, claimed 750-gold debt versus projected 10k–20k haul, and explicit consent to psychic coordination. No second wife contact, paid debt cancellation or completed future share is established. |\n| DEL-S2E03-006 | ~01:48–02:21 | Cassius/ethics: Suis Sac alias decoded and financing personally admitted; separate admitted off-books funding from suspicions about Withers artifacts/Skull Keep. Retain guild concealment, evidence instructions and undefined private reward without proving Withers guilt or treating the burglary as an ordinary public commission. |\n| DEL-S2E03-007 | ~01:34–01:47 and ~02:16–02:19 | School/name: school spelling, actual courses and ball/classes timing, plus emphatic Blackwood singular correction and only-daughter disclosure. Keep the earlier Blackwater ASR variant traceable and prospective schooling/ball distinct from attendance. |\n| DEL-S2E03-008 | ~01:58–outro | Gear/aliases/cutoff: chosen disguise aliases, Boots of Elvenkind loan, hoof conversion started but unfinished, planned 9:30 rendezvous and unnamed elf entrance. Guest/next-episode promotion supplies no played identity or alliance. No infiltration, theft, heist reward or completed footwear is shown here. |\n\n",
+      "old_tail": "**Next verified Delvers source:** **S2E04 — Cover The Faces of Maces**; not researched in this pass.\n",
+      "new_tail": "**Historical onward episode (already researched):** **Delvers S2E04 — Cover The Faces of Maces**, in [source inventory](../SOURCE_INVENTORY.md). Main-campaign intake is complete through S3E12; this retained onward reference is not an instruction to repeat it. Use the [current queue](../REVIEW_QUEUE.md) for unresolved verification without rewriting this episode’s cutoff.\n",
+      "source_gate": null,
+      "old_rows": [
+        {
+          "key": "DEL-S2E03-001",
+          "clock": "00:00–00:05",
+          "task": "Third episode vs archive S2E00 count and snake-eyed seer flashback/cursed prophecy"
+        },
+        {
+          "key": "DEL-S2E03-002",
+          "clock": "00:24–00:55",
+          "task": "Lightning javelin saved-but-damaged adjudication, Bless retroactive hit correction, two psychic strikes, creature's lethal collapse / body handling"
+        },
+        {
+          "key": "DEL-S2E03-003",
+          "clock": "00:56–01:18",
+          "task": "Newspaper reporter's canonical name; nature of underground slab, Withers denial vs belief, **450 gp** amount group/per-player"
+        },
+        {
+          "key": "DEL-S2E03-004",
+          "clock": "01:23–01:34",
+          "task": "**Spud Buds** tentative versus **Potato Grove**, farming/irrigation physically done, minotaur skull mounted and rock"
+        },
+        {
+          "key": "DEL-S2E03-005",
+          "clock": "01:34–01:47",
+          "task": "School spelling, actual courses/ball timing, daughter's tooth gift, wife consciousness and secret visions"
+        },
+        {
+          "key": "DEL-S2E03-006",
+          "clock": "01:48–01:58",
+          "task": "**Suis Sac**, Shrugs, Allspice, **750 gp vs projected 10k–20k**, explicit Koh consent"
+        },
+        {
+          "key": "DEL-S2E03-007",
+          "clock": "01:58–02:21",
+          "task": "Cassius **admits financing**, claims/suspicions about Withers and Skull Keep; aliases; **Blackwood singular emphatic correction**"
+        },
+        {
+          "key": "DEL-S2E03-008",
+          "clock": "02:20–outro",
+          "task": "Boots of Elvenkind loaned; hoof conversion **started not finished**; **elf entrance, no identity yet**, next episode/guest promo only"
+        }
+      ],
+      "rows": [
+        {
+          "key": "DEL-S2E03-001",
+          "clock": "~00:00–00:05 and ~00:56–01:18",
+          "task": "Chronology and bulette reward: third-episode wording versus narrated archive S2E00, snake-eyed-seer memory/cursed prophecy and the following-day setting. The 450-gold amount is not unambiguously per player; preserve group/per-member uncertainty and reported body handling rather than multiplying pay."
+        },
+        {
+          "key": "DEL-S2E03-002",
+          "clock": "~00:24–00:55",
+          "task": "Combat/rulings: lightning javelin saved-but-damaged adjudication, Bless retroactive correction, two psychic strikes, lethal collapse and body handling. Retain GM action versus generic rule assumptions; staff eye-strike does not establish a summoned living python or a new level."
+        },
+        {
+          "key": "DEL-S2E03-003",
+          "clock": "~00:56–01:18",
+          "task": "Withers chamber: reporter’s canonical name, underground slab/restraints and locked-door context, Withers denial versus belief. No entry through the door, confirmed room purpose, guilt or proven abduction follows from suspicion; reporting the find is separate from the later off-books operation."
+        },
+        {
+          "key": "DEL-S2E03-004",
+          "clock": "~01:23–01:34",
+          "task": "Farm and name: Spud Buds remains tentative versus Potato Grove, planting/irrigation/debris work is performed, and minotaur skull is mounted with a rock. Proposed scarecrow service is not proved crop protection; quoted repair/restoration costs are not paid works."
+        },
+        {
+          "key": "DEL-S2E03-005",
+          "clock": "~01:34–01:58",
+          "task": "Koh’s duty/pressure: daughter’s tooth gift, wife’s consciousness and secret visions, Shrugs/Allspice, claimed 750-gold debt versus projected 10k–20k haul, and explicit consent to psychic coordination. No second wife contact, paid debt cancellation or completed future share is established."
+        },
+        {
+          "key": "DEL-S2E03-006",
+          "clock": "~01:48–02:21",
+          "task": "Cassius/ethics: Suis Sac alias decoded and financing personally admitted; separate admitted off-books funding from suspicions about Withers artifacts/Skull Keep. Retain guild concealment, evidence instructions and undefined private reward without proving Withers guilt or treating the burglary as an ordinary public commission."
+        },
+        {
+          "key": "DEL-S2E03-007",
+          "clock": "~01:34–01:47 and ~02:16–02:19",
+          "task": "School/name: school spelling, actual courses and ball/classes timing, plus emphatic Blackwood singular correction and only-daughter disclosure. Keep the earlier Blackwater ASR variant traceable and prospective schooling/ball distinct from attendance."
+        },
+        {
+          "key": "DEL-S2E03-008",
+          "clock": "~01:58–outro",
+          "task": "Gear/aliases/cutoff: chosen disguise aliases, Boots of Elvenkind loan, hoof conversion started but unfinished, planned 9:30 rendezvous and unnamed elf entrance. Guest/next-episode promotion supplies no played identity or alliance. No infiltration, theft, heist reward or completed footwear is shown here."
+        }
+      ],
+      "crosswalk": [
+        {
+          "old_key": "DEL-S2E03-001",
+          "current_keys": [
+            "DEL-S2E03-001"
+          ],
+          "episode_wide_source_gate": false
+        },
+        {
+          "old_key": "DEL-S2E03-002",
+          "current_keys": [
+            "DEL-S2E03-002"
+          ],
+          "episode_wide_source_gate": false
+        },
+        {
+          "old_key": "DEL-S2E03-003",
+          "current_keys": [
+            "DEL-S2E03-001",
+            "DEL-S2E03-003"
+          ],
+          "episode_wide_source_gate": false
+        },
+        {
+          "old_key": "DEL-S2E03-004",
+          "current_keys": [
+            "DEL-S2E03-004"
+          ],
+          "episode_wide_source_gate": false
+        },
+        {
+          "old_key": "DEL-S2E03-005",
+          "current_keys": [
+            "DEL-S2E03-005",
+            "DEL-S2E03-007"
+          ],
+          "episode_wide_source_gate": false
+        },
+        {
+          "old_key": "DEL-S2E03-006",
+          "current_keys": [
+            "DEL-S2E03-005",
+            "DEL-S2E03-006"
+          ],
+          "episode_wide_source_gate": false
+        },
+        {
+          "old_key": "DEL-S2E03-007",
+          "current_keys": [
+            "DEL-S2E03-006",
+            "DEL-S2E03-007",
+            "DEL-S2E03-008"
+          ],
+          "episode_wide_source_gate": false
+        },
+        {
+          "old_key": "DEL-S2E03-008",
+          "current_keys": [
+            "DEL-S2E03-008"
+          ],
+          "episode_wide_source_gate": false
+        }
+      ]
+    }
+  ],
+  "new_issue_keys": [],
+  "resolved_issue_keys": [],
+  "ledger_change": {
+    "key": "DEL-S2E01-009",
+    "before_row": "| DEL-S2E01-009 | First Season Two cutoff | New season played in **Atomer with side quest and personal developments**, not full Snake Island expedition. **Cold-open + dream/flashback fragments** are separate from present actions. **No death or rescue confirmed in snake-priest bonfire recollection**. Out-of-game guest teaser doesn't introduce a played character. Next source **S2E02 — Why Palor When you Can Pay Later**, contents not yet researched |",
+    "after_row": "| DEL-S2E01-009 | First Season Two cutoff | New season played in **Atomer with side quest and personal developments**, not full Snake Island expedition. **Cold-open + dream/flashback fragments** are separate from present actions. **No death or rescue confirmed in snake-priest bonfire recollection**. Out-of-game guest teaser doesn't introduce a played character. Next source **S2E02 — Why Palor When you Can Pay Later**; the [existing S2E02 dossier](../episodes/S2E02.md) records ASR-provisional research. This is a historical onward pointer; listening/provenance questions remain open |",
+    "before_clause": ", contents not yet researched",
+    "after_clause": "; the [existing S2E02 dossier](../episodes/S2E02.md) records ASR-provisional research. This is a historical onward pointer; listening/provenance questions remain open",
+    "reason": "Synchronize stale onward-source status with the already-present S2E02 ASR-provisional dossier; no new research or issue resolution."
+  },
+  "queue_sections": [
+    "## S2E01 listening and continuity targets\n\nExisting dossier/ledger questions, with [historical mappings](../reports/DELVERS_S2E01_S2E03_ISSUE_ROUTING_2026-10-28.md). Listening remains deferred and clocks uncalibrated.\n\n**Episode-wide source gate:** Retained from historical DEL-S2E01-008: confirm the actual MP3/SRT timing and complete performed Snake Island flashback windows; original guild incident report, deed/repair costs and future guest pronunciation remain unverified. No audio is newly heard. Current 008 follows the ledger’s phantasm/living-skull subject; this episode-wide gate allocates no ID.\n\n| Key | SRT clock / gate | Review task |\n| --- | --- | --- |\n| DEL-S2E01-001 | ~00:02–00:28 | Snake Island memory discontinuity: Hissia/Isia, royalty/idol fragments, actual group payout and return after two missing weeks. Verify the remembered events without inventing a continuous played island adventure, marriage or established cause of amnesia. |\n| DEL-S2E01-002 | ~00:02–00:28 and ~01:17–01:34 | Snake equipment inspected/returned: exact item spellings and individual custody, stuck jewelry released and returned after guild inspection rather than permanently confiscated. Retain the actual 2,000-gold Ring of Feather Falling purchase separately from mission pay. |\n| DEL-S2E01-003 | ~01:47–02:51; deed/repair document gate above | Property and physical infestation: actual deed/repair costs, farmland/watchtower bounds/map, Potato Grove naming, sea-hag death and skeletal-body defeat. Talking skull is buried alive, not conclusively exorcised; cauldron custody is unproven. No crops or repairs are completed at this cutoff. |\n| DEL-S2E01-004 | ~00:33–00:43 | Family disclosure: Chuck Abnaz/Nasty, Cloven Brotherhood, coercion versus actual paid care, sleeping wife and living daughter. Preserve private/confidential knowledge and partial disclosure to companions rather than assuming all debt, family history or treatment details become shared. |\n| DEL-S2E01-005 | ~01:08–01:16 and ~01:34–01:46 | School/family and mark: historical Blackwater surname/crest wording, Dr Ripart and Lestai mark. Retain the later Blackwood clarification without rewriting the earlier ASR utterance. Private history is omitted from narration, not supplied editorially; no invented oath, goddess mechanics or audience-heard explanation. |\n| DEL-S2E01-006 | ~00:43–01:01 | Sleeping elf response: Rianu Keeves, whispered Kalizar, Revivify attempted on a living elf, healing/uncleared curse and no waking. Do not turn a faint response into a cure or disclose the withheld clue to Maynard without evidence. |\n| DEL-S2E01-007 | ~01:17–01:34 | Registered job: map/lake names, White Wedding silver-slayer wording, 530 gold and tomorrow’s appointment. Registration is performed; wedding, exorcism, tips and payment are not. A silver-class task does not promote the bronze party. |\n| DEL-S2E01-008 | ~01:47–02:51 | Phantasm and skull: sea hag’s faith-fear/undead-Krandal image is not a separate physical clone; retain death blows, Evelyn’s 20-HP Lay on Hands and the hag’s death. Minotaur skull remains animate and buried after skeletal-body defeat. Separate physical outcomes from private fear and unresolved cauldron/skull fate. |\n| DEL-S2E01-009 | Closing ~02:49–02:52; opening/flashback context | Season Two cutoff: present-day farm outcome versus incomplete Snake Island memories/bonfire fragment, without a confirmed death or rescue in that recollection. Future guest promotion does not introduce an in-world character. S2E02 already has an ASR-provisional dossier; the onward pointer is historical, not new intake. |\n\n",
+    "## S2E02 listening and continuity targets\n\nExisting dossier/ledger questions, with [historical mappings](../reports/DELVERS_S2E01_S2E03_ISSUE_ROUTING_2026-10-28.md). Listening remains deferred and clocks uncalibrated.\n\n| Key | SRT clock / gate | Review task |\n| --- | --- | --- |\n| DEL-S2E02-001 | ~00:03–00:27 and wedding/closing scenes | Wedding identity and class: Hooper/Goodwine surnames and Wight Wedding spelling versus the earlier White Wedding phonetic form. Silver-slayer task is not a new silver rank; separate guest contract/compensation from any unverified final per-person payout. |\n| DEL-S2E02-002 | ~00:03–00:27, ~01:56–02:22 and ~02:36–02:48 | Guest/deck: full Daufante title/name, skull-mask/stage identity, pocket watch, 270-gold advance and separate contract. Deck is reported then physically recovered, retained by the guest and not drawn from; ownership, wrapped storage and fee/share transfer remain distinct from proved magical effects. |\n| DEL-S2E02-003 | ~00:27–00:32 and ~01:19–01:30 | Goat and blades: volcano/gnome Snake Island memory, shouted curse/fate and two simultaneous psychic-knife ruling. Find Steed remains proposed only; Goat of Travail is actually summoned, with first activation/cooldown. Unlocking blades is not proof of a double-hit or new level. |\n| DEL-S2E02-004 | ~01:56–02:36 and ~02:36–02:48 | Confession, fight and burial: charmed old man, grandfather name and unburied murder account remain private testimony. Retain mace branch/tree separation, actual Magic Missile uses, Koh’s Dodge/Uncanny Dodge damage handling, wight incapacitation and performed burial. No public trial, exposure or eternal-peace finding is inferred. |\n| DEL-S2E02-005 | ~01:19–01:56 and ~02:36–02:48 | Duck/birds/footprints: twenty dead white birds and two stage-propped birds, knife-bearing duck, Goodwine rescue and unassigned black-sludge footprints. Root sludge is a separate observation, not proven identical to every earlier residue or proof of one culprit. |\n| DEL-S2E02-006 | ~01:30–01:56 and ~02:36–02:48 | Gold and trophy: Krandal’s 220-gold-equivalent find is total-equivalent, not coins plus a second gem value or guild pay. Retain precise fee transfer/shares and Koh’s possible right-hand cut/custody as unresolved questions; body appearance is not a demonstrated hand-taking action. |\n| DEL-S2E02-007 | ~02:36–02:48 | Cutoff: wedding preserved, wight defeated/buried and party survives; guest leaves next day with deck. Later theatre invitation and future family/farm/elf developments are unperformed here. No bridge to the next assignment is invented. |\n| DEL-S2E02-008 | Full recording and handout; before verification claims | Existing provenance gate: original audio unreviewed, release date versus spoken May 1, guest sheet, precise gold shares, unseen map, performance flourishes and ASR names remain unresolved. Listening stays deferred; no original sheet/map or sound verification is newly claimed. |\n\n",
+    "## S2E03 listening and continuity targets\n\nExisting dossier/ledger questions, with [historical mappings](../reports/DELVERS_S2E01_S2E03_ISSUE_ROUTING_2026-10-28.md). Listening remains deferred and clocks uncalibrated.\n\n| Key | SRT clock / gate | Review task |\n| --- | --- | --- |\n| DEL-S2E03-001 | ~00:00–00:05 and ~00:56–01:18 | Chronology and bulette reward: third-episode wording versus narrated archive S2E00, snake-eyed-seer memory/cursed prophecy and the following-day setting. The 450-gold amount is not unambiguously per player; preserve group/per-member uncertainty and reported body handling rather than multiplying pay. |\n| DEL-S2E03-002 | ~00:24–00:55 | Combat/rulings: lightning javelin saved-but-damaged adjudication, Bless retroactive correction, two psychic strikes, lethal collapse and body handling. Retain GM action versus generic rule assumptions; staff eye-strike does not establish a summoned living python or a new level. |\n| DEL-S2E03-003 | ~00:56–01:18 | Withers chamber: reporter’s canonical name, underground slab/restraints and locked-door context, Withers denial versus belief. No entry through the door, confirmed room purpose, guilt or proven abduction follows from suspicion; reporting the find is separate from the later off-books operation. |\n| DEL-S2E03-004 | ~01:23–01:34 | Farm and name: Spud Buds remains tentative versus Potato Grove, planting/irrigation/debris work is performed, and minotaur skull is mounted with a rock. Proposed scarecrow service is not proved crop protection; quoted repair/restoration costs are not paid works. |\n| DEL-S2E03-005 | ~01:34–01:58 | Koh’s duty/pressure: daughter’s tooth gift, wife’s consciousness and secret visions, Shrugs/Allspice, claimed 750-gold debt versus projected 10k–20k haul, and explicit consent to psychic coordination. No second wife contact, paid debt cancellation or completed future share is established. |\n| DEL-S2E03-006 | ~01:48–02:21 | Cassius/ethics: Suis Sac alias decoded and financing personally admitted; separate admitted off-books funding from suspicions about Withers artifacts/Skull Keep. Retain guild concealment, evidence instructions and undefined private reward without proving Withers guilt or treating the burglary as an ordinary public commission. |\n| DEL-S2E03-007 | ~01:34–01:47 and ~02:16–02:19 | School/name: school spelling, actual courses and ball/classes timing, plus emphatic Blackwood singular correction and only-daughter disclosure. Keep the earlier Blackwater ASR variant traceable and prospective schooling/ball distinct from attendance. |\n| DEL-S2E03-008 | ~01:58–outro | Gear/aliases/cutoff: chosen disguise aliases, Boots of Elvenkind loan, hoof conversion started but unfinished, planned 9:30 rendezvous and unnamed elf entrance. Guest/next-episode promotion supplies no played identity or alliance. No infiltration, theft, heist reward or completed footwear is shown here. |\n\n"
+  ],
+  "queue_dated_addition": "**S2E01–S2E03 issue routing, 2026-10-28:** The [three-episode crosswalk](../reports/DELVERS_S2E01_S2E03_ISSUE_ROUTING_2026-10-28.md) aligns 25 existing global IDs with ledger subjects and matching central tasks. Historical S2E01-008 recording checks remain an unkeyed episode-wide gate. One stale S2E01-009 onward-source clause now reflects the already-present S2E02 dossier; other ledger text is unchanged. All 92 prior central rows remain verbatim. No new ID, evidence resolution, source reanalysis or listening; original mappings and prefixes are preserved.\n\n",
+  "manifest_append": "### Independent tracking repair — S2E01–S2E03 issue routing\n\n[Crosswalk](../reports/DELVERS_S2E01_S2E03_ISSUE_ROUTING_2026-10-28.md) · [Checkpoint](DELVERS_S2E01_S2E03_ISSUE_ROUTING_2026-10-28.json) · [Preserved originals](../research/legacy/2026-10-28/delvers-s2e01-s2e03-issue-routing/README.md). Nine/eight/eight current tasks follow existing ledger subjects, with all original review targets and the S2E01 source gate preserved. All 25 existing global keys become centrally visible; the 92 previous rows remain intact. One stale S2E01-009 research-status clause now follows the already-present S2E02 dossier; all other ledger text and story/source prefixes are unchanged. No new ID, issue resolution, source analysis or listening; onward-intake footers are explicitly historical. This is a bounded three-episode repair, not a campaign-wide audit.\n",
+  "status": "three members and shared controls persisted; validation pending"
+}
