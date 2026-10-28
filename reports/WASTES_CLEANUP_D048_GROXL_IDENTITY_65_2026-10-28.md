@@ -1,0 +1,31 @@
+# Wastes Batch 65 — Solar Mines Groxl/giant identity-preserving presentation review (D-048)
+
+**Date:** 2026-10-28. **Authority:** D-048 presentation, D-047 minor editorial; no new Groxl/giant/Eye identity ruling. **Scope:** world/FACTIONS_AND_POWERS.md current L17–L18 and exact pre-edit archive. Protected: all other source rows, seven existing evidence notes, S3E15 research horizon, filenames/links, original audio and episode dossiers.
+
+**Access/working tree:** Local checkout is unavailable in this conversation runtime; Keycloak-authenticated repository workspace MCP is available. Rechecked ordered priority local → MCP → GitHub → Git patches → ZIP. Live branch main, HEAD 59e327f283b0f1357e7eab733dab99323e9aff4e, eight pre-existing visible modified/added paths, no restricted entries. Never overwrite or commit them.
+
+**Pre-edit source:** 10268 bytes, SHA-256 `c4b8a5d13038fc44aabb6a589339207b615a98fe5923a9011c488b34afbc75b3`, 38 LF-ended lines, no CRLF (verified from current binary). Exact archive destination: research/legacy/FACTIONS_AND_POWERS_PRE_D048_65_2026-10-28.md.
+
+## Source-boundary review
+
+- **S3E07**: the GM confirms Vorel's Eye-mediated recognition of giant Groxl. The mountain-sized lizardfolk emerges, crushes Fate Six and allied ships, and the mine's entrance is inaccessible; the giant's boasts about killing gods are testimony (episodes/S3E07.md L22–24; world/technology/eye-of-groxl.md L15–17).
+- **S3E08**: the Eye's vulnerability reading calls the giant “not Grojil” and an “abomination” depending on human calculator machinery, at odds with the earlier confirmation. Nash and Stanley remove the external generator after Hope's inspection; the generator blast does not kill the foe; Vorel severs wiring in the heart, and the body falls. Diontalus's manifestation is disintegrated, Union and Emenil crushed. The Eye's reliability, ancient identity and supernatural permanence are unresolved (episodes/S3E08.md L16, L19–25; world/CONSISTENCY_LEDGER.md L326–333).
+- **S3E09**: Vorel encounters a figure identifying as defeated Groxl in the Endless Dunes who claims a warlock made Vorel's Eye from his own removed eye. This is performed in-character testimony, not independent proof of the eye's origin, body's metaphysics, or divine history (episodes/S3E09.md L12–16; world/technology/eye-of-groxl.md L7–13; world/CONSISTENCY_LEDGER.md L339).
+- **Identity disposition:** one linked Eye/Groxl-associated foe with conflicting reports; **no** confirmation of a clone, automaton, a distinct second god, reliable Eye, true body, or historically proven god-killer. The existing source row labels remain unchanged; a concise presentation can distinguish initial identification from later contradiction without adjudication.
+
+## Planned, authorized, bounded change
+
+1. Preserve and reread exact working-original source archive before modifying the page.
+2. Change only the descriptive middle cells of original table rows L17–18 into short narrative accounts; carry **both complete old middle cells verbatim** into new paired evidence footnotes under the final `Sources and project notes`. Preserve subject/source cells, source claims, all 46 existing inline-link URL occurrences and their order, all seven earlier note pairs and the researched S3E15 horizon.
+3. Verify full source delta, unchanged other rows, exact footnote pairing, ending/line endings, targeted link targets, persisted journal/manifest/progress and Git scope. Any meaning-changing identification remains **approval-required**. Do not commit/push.
+
+## Execution and verification
+
+- Exact source archived before editing and independently reread byte-for-byte at `research/legacy/FACTIONS_AND_POWERS_PRE_D048_65_2026-10-28.md`: 10268 bytes, SHA-256 `c4b8a5d13038fc44aabb6a589339207b615a98fe5923a9011c488b34afbc75b3`, identical to original binary; LF only.
+- The first guarded replacement request returned `edit_match_not_found` because a generated match string contained an extra leading table separator. No source change occurred on that attempt. The actual original numbered lines were reread and both replacements reapplied successfully using exact unique anchors. Initial generated notes mistakenly contained original source cells rather than detailed middle cells; this was detected on immediate readback and corrected with guarded replacements from the byte-exact archive.
+- Final `world/FACTIONS_AND_POWERS.md`: **40 lines / 10955 bytes / SHA-256 `9e8ec68b5c67e398bdb08303d584829f8dee533560f3948124c2a2fce2836a4a`**. Compared complete numbered text to the archived 38-line source: **only original L17 and L18 changed**; other **36 original lines unchanged**; exactly two new full-original-evidence notes appended. The revised summaries retain the S3E07 emergence/destruction and S3E08 generator/heart defeat, loss and unresolved identification, while both **original detailed middle cells are reproduced verbatim** in `[^factions-solar-e07]` and `[^factions-solar-e08]`. All nine footnote references pair one-to-one with nine definitions; seven earlier notes unchanged. **All 46 original Markdown URL destinations remain in exactly their original order and multiplicity**, table headings/3-column structure and **researched S3E15** cutoff retained. No images restored.
+- All five distinct source destinations in changed rows independently read successfully: `episodes/S3E07.md`, `world/places/solar-mines.md`, `world/technology/eye-of-groxl.md`, `episodes/S3E08.md`, `world/CONSISTENCY_LEDGER.md`.
+- Distinction preserved: S3E07 GM Eye recognition, S3E08 contrary Eye communication, S3E09 defeated figure's self-serving account. **No new canon identity adjudication.** This is a two-row **D-048 PRESENTATION-MIGRATED** milestone, **not** full index acceptance or original-audio verification.
+- Not run: rendered GitHub-flavored Markdown and click-through footnotes, Markdownlint, Git whitespace diff, full URL/backlinks/anchors, original audio, broad tests. No commit/push.
+
+**Next Batch 66:** full `world/FACTIONS_AND_POWERS.md` D-048 static structural audit (all table rows, all link target files, nine note pairs and preservation), then separately assess `world/CHARACTERS.md`; keep unresolved Groxl/Eye metaphysics owner-gated.

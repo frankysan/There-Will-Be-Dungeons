@@ -1,0 +1,33 @@
+[
+  {
+    "path": "project/DELVERS_CAMPAIGN_CLEANUP_PLAN.md",
+    "operations": [
+      {
+        "before": "**Status:** The three primary Delvers narratives, previous world subject passes, and integration checkpoint remain recorded as completed editorial work. D-048 establishes an additional **presentation-level acceptance pass** that has **not yet been audited or accepted page by page**. It does **not** imply a new content-deficiency census, repeat a completed general world rewrite or replace the project's accepted three-arc structure. Use the owner's [reader-first standard](READER_FIRST_PRESENTATION.md), not a Wastes-specific chapter or naming system.",
+        "after": "**Status, 2026-10-28:** The three primary Delvers narratives, previous world subject passes, and integration checkpoint remain completed at their recorded limits. The additional D-048 **bounded presentation pass is accepted** for all seven named entry/reference pages and five selected subjects, with evidence-first exceptions recorded in the [live audit](DELVERS_D048_PRESENTATION_AUDIT.md). Three preserved batches provide page dispositions, corrections and validation. This is not a census or fresh factual acceptance of all Delvers pages; unreviewed subjects and narrative bodies are not newly certified. No sampled defect requires expansion. Use the owner's [reader-first standard](READER_FIRST_PRESENTATION.md); listening remains deferred and unresolved source questions remain open."
+      },
+      {
+        "before": "**6 — D-048 reader-first consolidation (new follow-up)**",
+        "after": "**6 — D-048 reader-first consolidation (bounded acceptance recorded)**"
+      }
+    ]
+  },
+  {
+    "path": "delvers/DOCUMENTATION_PLAN.md",
+    "operations": [
+      {
+        "before": "The **D-048 reader-first presentation follow-up** is now planned for existing Delvers portals/indexes and subject articles; this is a bounded presentation consolidation, **not** a new main-campaign narrative or automatic factual rewrite.",
+        "after": "The **D-048 reader-first presentation follow-up** has completed its bounded scope: all seven named entry/reference pages and five selected subjects have recorded dispositions in the [live audit](../project/DELVERS_D048_PRESENTATION_AUDIT.md). This is presentation acceptance, not a full-page census or fresh factual certification; unreviewed subjects and narrative bodies are not newly certified."
+      },
+      {
+        "before": "**Additional planned follow-up under D-048:** inventory the current Delvers README, narrative/world portals and topical indexes for reader-first hierarchy, then review ordinary subject articles in small evidence-preserving groups. Keep final Sources and project notes after the reader routes, and keep source details in cited footnotes for in-world articles. Track exceptions and acceptance in the [Delvers cleanup manifest](../project/DELVERS_CLEANUP_MANIFEST.md); this is not a second narrative consolidation.",
+        "after": "**D-048 bounded acceptance, 2026-10-28:** three preserved batches cover the seven named entry/reference pages and a five-page sample of biography, institution, location, artifact and creature accounts. Three reader pages received presentation edits; nine were retained unchanged. No additional published reader index or sampled defect requires expansion. Index project notes remain after reader routes; thematic/subject articles end with Current status and cited footnotes. Evidence-first exceptions and per-page acceptance are recorded in the [Delvers cleanup manifest](../project/DELVERS_CLEANUP_MANIFEST.md) and live audit. This completes the planned bounded presentation pass without redoing narrative consolidation or certifying unreviewed pages."
+      }
+    ]
+  },
+  {
+    "path": "project/DELVERS_CLEANUP_MANIFEST.md",
+    "operation": "append only",
+    "appended": "\n### D-048 batch 03 — bounded entry-page and sampled-subject acceptance (2026-10-28)\n\n[Live audit](DELVERS_D048_PRESENTATION_AUDIT.md#batch-03--remaining-entry-pages-and-five-subject-samples) · [Report](../reports/DELVERS_D048_ACCEPTANCE_03_2026-10-28.md) · [Validation](DELVERS_D048_ACCEPTANCE_03_2026-10-28.json) · [Preserved controls](../research/legacy/2026-10-28/delvers-d048-acceptance-03/README.md). Creatures and monsters, WORLD, Koh, the guild, Potato Grove, three urns and hook horrors are compliant without edits. All seven named priority-one pages now have dispositions; five representative subjects are sampled and evidence-first exceptions retained. No additional published index or sampled presentation defect requires expansion. Phase 6 is accepted within that explicit bounded scope: three preserved batches, three reader pages edited and nine retained unchanged. Unreviewed subject/narrative pages are not newly certified. The cleanup and documentation plans now reflect this result. Source/identity/custody questions remain open; listening is deferred. No new story/source/audio claim, commit or publication.\n"
+  }
+]

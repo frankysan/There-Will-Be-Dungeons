@@ -1,0 +1,181 @@
+{
+  "date": "2026-10-28",
+  "campaign": "Delvers",
+  "episode": "S1E06",
+  "episode_type": "played session",
+  "scope": "existing review-task routes and queue lifecycle only; no fresh source interpretation",
+  "head": "59e327f283b0f1357e7eab733dab99323e9aff4e",
+  "status": "complete; S1E06 review routing reconciled, evidence questions remain open",
+  "archive_manifest": "research/legacy/2026-10-28/delvers-s1e06-issue-routing/manifest.json",
+  "historical_to_current": [
+    {
+      "old_key": "DEL-S1E06-001",
+      "question": "Bronze orientation, guide, names, pickups",
+      "current_keys": [
+        "DEL-S1E06-001"
+      ]
+    },
+    {
+      "old_key": "DEL-S1E06-002",
+      "question": "Holy-water issue/use",
+      "current_keys": [
+        "DEL-S1E06-002"
+      ]
+    },
+    {
+      "old_key": "DEL-S1E06-003",
+      "question": "Servant behavior, furniture and post-skull cessation",
+      "current_keys": [
+        "DEL-S1E06-003"
+      ]
+    },
+    {
+      "old_key": "DEL-S1E06-004",
+      "question": "Fireball, window damage, Flaming Sphere and steam",
+      "current_keys": [
+        "DEL-S1E06-003"
+      ]
+    },
+    {
+      "old_key": "DEL-S1E06-005",
+      "question": "Unexamined handout/lever diagram and failed circular interpretation",
+      "current_keys": [
+        "DEL-S1E06-009"
+      ]
+    },
+    {
+      "old_key": "DEL-S1E06-006",
+      "question": "Enzo/kinship; inscriptions/forecast; loved one’s condition",
+      "current_keys": [
+        "DEL-S1E06-004",
+        "DEL-S1E06-005",
+        "DEL-S1E06-006"
+      ]
+    },
+    {
+      "old_key": "DEL-S1E06-007",
+      "question": "Evelyn’s unnamed person and Koh’s undisclosed wife",
+      "current_keys": [
+        "DEL-S1E06-006"
+      ]
+    },
+    {
+      "old_key": "DEL-S1E06-008",
+      "question": "Final skull kill; water; garnets/rewards/dagger; mirror/staff",
+      "current_keys": [
+        "DEL-S1E06-003",
+        "DEL-S1E06-002",
+        "DEL-S1E06-007",
+        "DEL-S1E06-004"
+      ]
+    },
+    {
+      "old_key": "DEL-S1E06-009",
+      "question": "Audio-copy/seek and handout/guide provenance",
+      "current_keys": [
+        "DEL-S1E06-009"
+      ]
+    }
+  ],
+  "existing_issue_keys": [
+    "DEL-S1E06-001",
+    "DEL-S1E06-002",
+    "DEL-S1E06-003",
+    "DEL-S1E06-004",
+    "DEL-S1E06-005",
+    "DEL-S1E06-006",
+    "DEL-S1E06-007",
+    "DEL-S1E06-008",
+    "DEL-S1E06-009"
+  ],
+  "new_issue_keys": [],
+  "resolved_issue_keys": [],
+  "ledger_rows_unchanged": [
+    "| DEL-S1E06-001 | Actual bronze rank, key and guide | S1E05 only approves promotion; S1E06 **exchanges numbered wood for unnumbered bronze chimera shields** and **Koh takes shared guild library key**. Guild's new guide/handout read aloud; full original PDF not independently inspected |",
+    "| DEL-S1E06-002 | Holy-water consumption | **Exactly two** full holy-water jars issued by Helena before Skull Keep, **one poured by Evelyn** after the skull falls. One remains unspent. Krandal's Create Water is **not** itself consecrated water |",
+    "| DEL-S1E06-003 | Flame encounters and furniture | **Separate** first Fireball/window attack, second lever-triggered Flaming Sphere and final rooftop combat. First skull escapes; final **Soul Knife kill is by Koh**. Servants perform upkeep but burned couch/desk remain damaged |",
+    "| DEL-S1E06-004 | Enzo's divided identity and fate | Mirror-bound **Enzo Vanderbuck Withers** claims failed necromancy made a split skull and animated workers. Workers collapse after skull's banishment, **mirror image fades but is not destroyed or verified dead**. Alexandre's exact kinship/foreknowledge open |",
+    "| DEL-S1E06-005 | Ancient inscription, prophecy | Enzo calls top signs **sky people** and bottom **Dawnless Dunes**; alleges awakening underground **heart** and an event within a year. **His NPC testimony**, not a performed world-level awakening or confirmed time forecast |",
+    "| DEL-S1E06-006 | Koh/Evelyn's private motives | Koh asks about a loved one's difficult-to-heal paralysis but **does not tell Enzo she is his wife**; receives only speculation, no diagnosis. **Evelyn is seeking a person**, relationship/name/whereabouts unestablished |",
+    "| DEL-S1E06-007 | Rewards, custody and next level | Two orange **garnets bagged by Koh**; improvised door-wedge dagger recovered. Guild fee **350 gold** mentioned, preservation promise **up to 500 each**; GM later says **about 400 bonus gold** after damage, allocation not reiterated. XP handled off-air, no new level confirmed |",
+    "| DEL-S1E06-008 | Previous bronze adventurers | Client says group missing; Enzo **claims** their gear was cast into lake after defeat. This report goes to Cassius. Their bodies, loot and exact fate **not recovered/verified** |"
+  ],
+  "source_windows_reviewed": [],
+  "new_ASR_metric": null,
+  "audio_reviewed": false,
+  "listening": "deferred by owner",
+  "validation": {
+    "errors": [],
+    "exact_archived_originals": 3,
+    "dossier_source_story_continuity_prefix_byte_identical": true,
+    "dossier_tail_link_destinations_unchanged": true,
+    "ledger_unchanged": true,
+    "ledger_existing_rows": 8,
+    "existing_issue_keys_retained": 9,
+    "dossier_and_queue_task_rows_identical": 9,
+    "central_table_rows_before": 27,
+    "central_table_rows_after": 36,
+    "prior_central_task_rows_unchanged": 27,
+    "guarded_edit_reconstruction": "passed",
+    "protected_Delvers_files_unchanged": 145,
+    "protected_files_unchanged": 159,
+    "outside_scope_drift": [
+      {
+        "path": "project/WASTES_CLEANUP_MANIFEST.md",
+        "before_sha256": "06daae2b107bdfdc86f29dae4ce6b1abc99c67dd016e35043d9eed52cebb4040",
+        "observed_sha256": "283d45e36901ce0e5fe2edcb4c5a88116407d6c7a3a73155b89cbf9a63087db2",
+        "disposition": "outside-scope concurrent drift; not restored"
+      },
+      {
+        "path": "project/WASTES_CLEANUP_PROGRESS.md",
+        "before_sha256": "80623d50473b7735ba457c5d0858b9ceeeca66dd174288784ac68c13bcdc25bc",
+        "observed_sha256": "adfb73b806b3af2e31e97885e95b238ba71dc40f358bf4780623c5d7ed609cab",
+        "disposition": "outside-scope concurrent drift; not restored"
+      },
+      {
+        "path": "reports/WASTES_CLEANUP_D048_CHARACTERS_ALLIES_68_2026-10-28.md",
+        "before_sha256": "4957fec925fbbe4b32f6d46a1b95a2a1ec58e76356b4aecc482253d81aa99339",
+        "observed_sha256": "45d6cdf23a8f0c69b8b3b530af161b528361b3076ce72da86668dd9d57dceeda",
+        "disposition": "outside-scope concurrent drift; not restored"
+      },
+      {
+        "path": "world/CHARACTERS.md",
+        "before_sha256": "1331e2dd87ecbc63b8ad2b3427d67606ed9a7a46be4e280bbe6321a884133b72",
+        "observed_sha256": "6e3b92d5e9589b5931b90648cdecc1c309f6f40cb538a53fbf7a16a684b1529d",
+        "disposition": "outside-scope concurrent drift; not restored"
+      }
+    ],
+    "new_local_links_checked": 26,
+    "archival_rebased_destination_correspondence": 661,
+    "existing_headings_preserved": true,
+    "table_widths": "passed",
+    "scoped_whitespace_check": "passed",
+    "markdownlint": {
+      "maintained_files": 4,
+      "violations": 0,
+      "archive_README_violations": 0,
+      "final_report_recheck": "passed after results added"
+    },
+    "full_repository_audit": "not performed",
+    "rendered_preview": "not performed",
+    "original_LF_format_retained": [
+      "delvers/episodes/S1E06.md",
+      "delvers/REVIEW_QUEUE.md"
+    ]
+  },
+  "next_action": "Reconcile demonstrated S1E07/S1E08 review-key collisions in a bounded routing batch; no listening or source reprocessing",
+  "editorial_verification": "passed; historical labels mapped explicitly, all review targets retained, dossier story/source prefix byte-identical",
+  "changed_maintained_files": [
+    "delvers/episodes/S1E06.md",
+    "delvers/REVIEW_QUEUE.md",
+    "project/DELVERS_CLEANUP_MANIFEST.md",
+    "reports/DELVERS_S1E06_ISSUE_ROUTING_2026-10-28.md"
+  ],
+  "changed_file_hashes_after": {
+    "delvers/episodes/S1E06.md": "47e1079b036fffd88ca6bf6199731479677802f0b8b35a792d5c6ea667047fbd",
+    "delvers/REVIEW_QUEUE.md": "b15d992c675740cc064b11f7987fd4704d44d956dec418f928b8d19a34c584a1",
+    "project/DELVERS_CLEANUP_MANIFEST.md": "82991a6e71e8457fe35d5d6c56a6683f3b1cdd1dd74a575435173a36df6fa967",
+    "reports/DELVERS_S1E06_ISSUE_ROUTING_2026-10-28.md": "6291aa59f15554fb95f5b13597d81f587319f0d45ef5dff9065e82fe828d7a7e"
+  },
+  "final_HEAD": "59e327f283b0f1357e7eab733dab99323e9aff4e"
+}
