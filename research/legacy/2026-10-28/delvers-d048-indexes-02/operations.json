@@ -1,0 +1,332 @@
+[
+  {
+    "path": "delvers/world/CHARACTERS.md",
+    "operations": [
+      {
+        "before": "| Character | Performer / introduction | Reference |",
+        "after": "| Character | Role and history | Reference |"
+      },
+      {
+        "before": "Scott; half-orc cleric",
+        "after": "Half-orc cleric"
+      },
+      {
+        "before": "Jon; satyr rogue",
+        "after": "Satyr rogue"
+      },
+      {
+        "before": "Kristen; human paladin",
+        "after": "Human paladin"
+      },
+      {
+        "before": "[Profile](characters/krandal-splenderbelt.md) |",
+        "after": "[Profile](characters/krandal-splenderbelt.md)[^performers] |"
+      },
+      {
+        "before": "[Profile](characters/koh-spiros.md) |",
+        "after": "[Profile](characters/koh-spiros.md)[^performers] |"
+      },
+      {
+        "before": "[Profile](characters/evelyn-grinkeeper.md) |",
+        "after": "[Profile](characters/evelyn-grinkeeper.md)[^performers] |"
+      },
+      {
+        "before": "Koh and Anathala/Anthela's daughter, dreams during Khalazar crisis but not biologically proven immune; **Jon explicitly chooses small satyr HOOVES in post-finale BONUS-2021-11-13**, other appearance/open colours undescribed. No extra played child abduction",
+        "after": "Koh and Anathala/Anthela's daughter, whose dreams during the Khalazar crisis do not establish biological immunity.[^penny]"
+      },
+      {
+        "before": "**Ben (performer surname ASR pending), guest S3E09**; bluish-green",
+        "after": "Bluish-green"
+      },
+      {
+        "before": "[Profile](characters/barclay-vandergeist.md) |",
+        "after": "[Profile](characters/barclay-vandergeist.md)[^performers] |"
+      },
+      {
+        "before": "S3E11 telepathic ancient female Dolbluth architect mummy;",
+        "after": "Telepathic ancient female Dolbluth architect mummy;"
+      },
+      {
+        "before": "**ACTUALLY OPENS GATE then DISINTEGRATES**, not continuing ally",
+        "after": "opens the gate and then disintegrates, rather than continuing as an ally.[^shaolin]"
+      },
+      {
+        "before": "All Rat psychic prison in S3E08,",
+        "after": "All Rat psychic prison,"
+      },
+      {
+        "before": "no living contemporary appearance |",
+        "after": "no living contemporary appearance.[^lance] |"
+      },
+      {
+        "before": "**Carter Johnson, guest in S3E07**; elderly",
+        "after": "Elderly"
+      },
+      {
+        "before": "[Profile](characters/goggles-granny.md) |",
+        "after": "[Profile](characters/goggles-granny.md)[^performers] |"
+      },
+      {
+        "before": "**Gwen (Phoenix Pearl Tea), guest in S3E05**; seven-foot",
+        "after": "Seven-foot"
+      },
+      {
+        "before": "[Profile](characters/destroying-angel.md) |",
+        "after": "[Profile](characters/destroying-angel.md)[^performers] |"
+      },
+      {
+        "before": "**Bo Schwartz, guest in S3E03**; elderly",
+        "after": "Elderly"
+      },
+      {
+        "before": "[Profile](characters/dumbledwark-of-raisinbunch.md) |",
+        "after": "[Profile](characters/dumbledwark-of-raisinbunch.md)[^performers] |"
+      },
+      {
+        "before": "These entries retain introductory guild encounters and later reports; names and historical source cutoffs remain provisional where stated. The earliest encounters are documented in [S1E01](../episodes/S1E01.md). [The guild profile](places/delvers-guild.md) supplies their shared setting.",
+        "after": "Suppliers, patrons and missing adventurers share the city's guild hall. [The guild profile](places/delvers-guild.md) supplies their shared setting.[^guild-locators]"
+      },
+      {
+        "before": "| Name / ASR variants | S1E01 evidence and limits |",
+        "after": "| Name | Role and history |"
+      },
+      {
+        "before": ", ~00:29–00:30, 00:44–00:50 |",
+        "after": " |"
+      },
+      {
+        "before": ", ~00:30–00:38, 00:56 |",
+        "after": " |"
+      },
+      {
+        "before": ", ~00:52–00:54 |",
+        "after": " |"
+      },
+      {
+        "before": ", ~00:54–00:56 |",
+        "after": " |"
+      },
+      {
+        "before": ", ~00:56 |",
+        "after": " |"
+      },
+      {
+        "before": ", ~00:54 |",
+        "after": " |"
+      },
+      {
+        "before": ", ~00:38–00:43 |",
+        "after": " |"
+      },
+      {
+        "before": "Deceased dragonborn associated with recovered badge 542 and Dawn Globe; in S1E07 **living brother Buck/Wildfire** says his name was `Brom/Bram`; historical `Bran` variant needs audio confirmation. Death remains historical, no resurrection",
+        "after": "Deceased dragonborn associated with recovered badge 542 and Dawn Globe; his living brother Buck/Wildfire names him Brom/Bram. His death remains historical, with no resurrection.[^broscale]"
+      },
+      {
+        "before": "Written handout spelling; Cassius reads an attributed foreword, ~00:32–00:34. No physical appearance or proof of personal involvement",
+        "after": "Cassius reads a foreword attributed to Thun’Darious Storm. No physical appearance or proof of personal involvement is established.[^storm]"
+      },
+      {
+        "before": "name requires listening |",
+        "after": "name remains uncertain.[^names] |"
+      },
+      {
+        "before": "no connection to Wastes or Inverse |",
+        "after": "a driver encountered on the forest route.[^campaign] |"
+      },
+      {
+        "before": "title/name orthography audio-unverified |",
+        "after": "title and name remain uncertain.[^names] |"
+      },
+      {
+        "before": "Big Bleeper Bloops (phonetic)",
+        "after": "Big Bleeper Bloops[^names]"
+      },
+      {
+        "before": "Rianu Keeves (phonetic)",
+        "after": "Rianu Keeves[^names]"
+      },
+      {
+        "before": "**Living First Sons Brotherhood** trio assisting in S1E08 and S1E09;",
+        "after": "**Living First Sons Brotherhood** trio;"
+      },
+      {
+        "before": "Do not equate S1E01 missing “Edgar” to Boonefellow; [S1E12](../episodes/S1E12.md)",
+        "after": "The missing Edgar is not identified with Boonefellow.[^first-sons]"
+      },
+      {
+        "before": "**Brian Dunaway guest wood-elf rogue/demolition expert**;",
+        "after": "Wood-elf rogue/demolition expert;"
+      },
+      {
+        "before": "surname ASR-phonetic |",
+        "after": "surname remains provisional.[^performers][^names] |"
+      },
+      {
+        "before": "**Guest played by Bo Schwartz**; masked",
+        "after": "Masked"
+      },
+      {
+        "before": "exact title phonetic |",
+        "after": "exact title remains provisional.[^performers][^names] |"
+      },
+      {
+        "before": "**defeated and buried S2E02**, name phonetic.",
+        "after": "defeated and buried; name remains provisional.[^hooper]"
+      },
+      {
+        "before": "names ASR-phonetic.",
+        "after": "names remain provisional.[^names]"
+      },
+      {
+        "before": "[Ambermore](characters/ambermoor.md) (legacy Ambermoor)",
+        "after": "[Ambermore](characters/ambermoor.md)[^ambermore]"
+      },
+      {
+        "before": " [S2E07](../episodes/S2E07.md) · [S2E08 retrospective](../episodes/S2E08.md) |",
+        "after": " |"
+      },
+      {
+        "before": "spelling unresolved |",
+        "after": "spelling unresolved.[^names] |"
+      },
+      {
+        "before": "[World portal](README.md) · [Open identity checks](CONSISTENCY_LEDGER.md)\n\n## Sources and project notes",
+        "after": "## Sources and project notes"
+      },
+      {
+        "before": "Meet the Delvers and the people whose choices shape Atomer's crisis. The profiles follow introduction, development and latest supported condition through the completed campaign. Guest participation, reported appearances and later outcomes retain their own horizons.",
+        "after": "The profiles follow introduction, development and latest supported condition through the completed campaign. Guest participation, reported appearances and later outcomes retain their own horizons. These entries retain introductory guild encounters and later reports; names and historical source cutoffs remain provisional where stated."
+      },
+      {
+        "before": "for this index's reconciliation with canonical profiles.\n",
+        "after": "for this index's reconciliation with canonical profiles.\n\n[World portal](README.md) · [Open identity checks](CONSISTENCY_LEDGER.md)\n\n[^performers]: Performer credits retained from the existing index: Scott — Krandal; Jon — Koh; Kristen — Evelyn. Guests: Ben (performer surname ASR pending), S3E09 — Barclay; Carter Johnson, S3E07 — Goggles Granny; Gwen (Phoenix Pearl Tea), S3E05 — Destroying Angel; Bo Schwartz, S3E03 — Dumbledwark; Brian Dunaway — Shrugs; Bo Schwartz — the Great Daufante. Guest credits do not establish permanent party membership.\n\n[^penny]: Jon explicitly chooses small satyr hooves in the post-finale BONUS-2021-11-13 discussion. Other appearance/open colours remain undescribed; this is retrospective character-design evidence, not an additional played event. No extra played child abduction is established.\n\n[^shaolin]: S3E11 is the source episode retained from the former row. Her imperial history and ritual explanation remain her claims; opening the gate and disintegration are distinct from a continuing alliance.\n\n[^lance]: S3E08 is the source episode retained from the former row. The claimed roughly 150 years of confinement is testimony, not a living contemporary appearance.\n\n[^guild-locators]: Earliest encounters: [S1E01](../episodes/S1E01.md). Approximate recording locators retained from the previous table: Clearstone ~00:29–00:30, 00:44–00:50; Joe ~00:30–00:38, 00:56; Bell ~00:52–00:54; Riley ~00:54–00:56; Solburn ~00:56; Dharma/Dominic/Edgar ~00:54; Farmer Mickles/Mikkels ~00:38–00:43. Source clocks are not new listening verification.\n\n[^broscale]: In S1E07 Buck/Wildfire gives the Brom/Bram form. Historical Bran remains a source variant requiring audio confirmation. The table retains its existing Brom / Bran label without resolving orthography or equating separate missing people.\n\n[^storm]: Thun’Darious Storm is the written handout spelling; Cassius reads the attributed foreword near ~00:32–00:34 of the premiere. Written attribution does not establish a performed appearance or personal involvement.\n\n[^names]: Existing uncertainty retained: Brad/Brador requires listening; Selenar/Celenar Everbloom's title/name orthography is audio-unverified; Big Bleeper Bloops and Rianu Keeves are phonetic forms; Shrugs's surname is ASR-phonetic; Daufante's exact title is phonetic; Captain Autumn Dew, Limwick Hooper and Fresna Goodwine are ASR-phonetic names; Willamet/Wilibet Molly remains unresolved. No preferred spelling is newly selected.\n\n[^campaign]: Aegis belongs to Delvers; no connection to Wastes or Inverse is established.\n\n[^first-sons]: The earlier table identifies assistance in S1E08 and S1E09 and survival at the first arc's end: [S1E12](../episodes/S1E12.md). Do not equate S1E01's missing Edgar with Edgar Boonefellow.\n\n[^hooper]: Defeat and burial are in S2E02; Aurelli/Orilli remains phonetic. The fifteen-year murder account remains Goodwine's confession, not a witnessed historical scene.\n\n[^ambermore]: Ambermoor is the preserved legacy spelling/slug. Existing source routes: [S2E07](../episodes/S2E07.md) · [S2E08 retrospective](../episodes/S2E08.md). Guild delivery is reported; no verdict or release is supplied.\n"
+      },
+      {
+        "before": "Suppliers, patrons and missing adventurers share the city's guild hall.",
+        "after": "Explore the suppliers, patrons and reported absences surrounding the city's guild hall."
+      },
+      {
+        "before": "ritual, opens the gate and then disintegrates",
+        "after": "ritual; she opens the gate and then disintegrates"
+      },
+      {
+        "before": "; a driver encountered on the forest route.[^campaign]",
+        "after": ".[^campaign]"
+      },
+      {
+        "before": "; name remains uncertain.[^names]",
+        "after": ".[^names]"
+      },
+      {
+        "before": "; title and name remain uncertain.[^names]",
+        "after": ".[^names]"
+      },
+      {
+        "before": ", surname remains provisional.[^performers][^names]",
+        "after": ".[^performers][^names]"
+      },
+      {
+        "before": "; exact title remains provisional.[^performers][^names]",
+        "after": ".[^performers][^names]"
+      },
+      {
+        "before": "; name remains provisional.[^hooper]",
+        "after": ".[^hooper]"
+      },
+      {
+        "before": "; names remain provisional.[^names]",
+        "after": ".[^names]"
+      },
+      {
+        "before": "; spelling unresolved.[^names]",
+        "after": ".[^names]"
+      }
+    ]
+  },
+  {
+    "path": "delvers/world/PLACES.md",
+    "operations": [
+      {
+        "before": "| Place | Scope and reference |",
+        "after": "| Place | Nature and history |"
+      },
+      {
+        "before": "City **Aytmer** (map) / `Atomer` (ASR project usage)",
+        "after": "City **Aytmer** / Atomer[^city-name]"
+      },
+      {
+        "before": "The recovered Kyle-posted **regional map repeatedly prints Aytmer**, whereas existing transcriptions and prose commonly use Atomer/Atamer/Atmer/Atumir. Prefer **Aytmer in map-derived references**, retain the existing city-name variants for search until entity and audio crosswalk completed. [Map spelling register](../../reports/DISCORD_NEW_SPELLING_2026-10-27.md) · [guild](places/delvers-guild.md)",
+        "after": "The city of the Delvers Dungeon Guild, whose job board, tavern and supply desk bring adventurers together. [Guild](places/delvers-guild.md)"
+      },
+      {
+        "before": "S3E10 Guild crowd protest;",
+        "after": "Guild crowd protest;"
+      },
+      {
+        "before": "Cassius assumes office and pays 20k EACH to three PCs",
+        "after": "Cassius assumes office and pays 20,000 each to the three Delvers.[^reckoning]"
+      },
+      {
+        "before": "Finale S3E12 one-year epilogue: Khalazar curse lifts, Noble Hollow becomes fertile, Krandal potato farm renowned; tower rebuilt as Delvers' HQ with pink ribbon, locket, half-eaten potato, Evelyn Blackwood's WEDDING INVITATION signed GCT and unopened red royal letter",
+        "after": "One year after Khalazar's defeat, the curse has lifted, Noble Hollow is fertile and Krandal's potato farm is renowned. The rebuilt Delvers headquarters holds a pink ribbon, locket, half-eaten potato, Evelyn Blackwood's wedding invitation signed GCT and an unopened red royal letter.[^epilogue]"
+      },
+      {
+        "before": "; **S2E00 interlude story-time before S1E12**",
+        "after": ".[^academy]"
+      },
+      {
+        "before": "Passed on the eastward route to the farm, ~01:01:53–01:02:38; not explored",
+        "after": "Passed on the eastward route to the farm; not explored.[^swamp]"
+      },
+      {
+        "before": "Mickle's Farm (map); `Mickles/Mikkels` in ASR",
+        "after": "Mickle's Farm[^farm-name]"
+      },
+      {
+        "before": "Region map supplies **Mickle's Farm** as an exact inscription. Sheep field, natural cavern and sealed fissure; mapped farm's exact association with the investigated caves remains contextual. [Profile](places/farm-cave.md) · [map spelling register](../../reports/DISCORD_NEW_SPELLING_2026-10-27.md)",
+        "after": "Sheep field, natural cavern and sealed fissure; the mapped farm's exact association with the investigated caves remains contextual. [Profile](places/farm-cave.md)"
+      },
+      {
+        "before": "**Visited for two missing weeks between S1E12 and S2E01**;",
+        "after": "Visited during two missing weeks;"
+      },
+      {
+        "before": "only memory flashes reconstruct events |",
+        "after": "only memory flashes reconstruct events.[^island] |"
+      },
+      {
+        "before": "Names on displayed guild trophies, ~00:13–00:15; not destinations reached by this party",
+        "after": "Names on displayed guild trophies; not destinations reached by this party.[^trophies]"
+      },
+      {
+        "before": "[S1E02 evidence](../episodes/S1E02.md) |",
+        "after": "[^sanctuary] |"
+      },
+      {
+        "before": "; see [S1E05](../episodes/S1E05.md) |",
+        "after": ".[^workshops] |"
+      },
+      {
+        "before": "Public water source **descended in S1E08**.",
+        "after": "Public water source explored by the Delvers.[^well]"
+      },
+      {
+        "before": "[World portal](README.md) · [S1E01 evidence](../episodes/S1E01.md) · [Open checks](CONSISTENCY_LEDGER.md)\n\n## Sources and project notes",
+        "after": "## Sources and project notes"
+      },
+      {
+        "before": "Explore the places and institutions of Delvers, from Atomer's streets to the ruins beneath them. The summaries use each subject's latest supported condition, which can predate the finale. Unexplored spaces and uncertain geography remain open.",
+        "after": "The summaries use each subject's latest supported condition, which can predate the finale. Unexplored spaces and uncertain geography remain open."
+      },
+      {
+        "before": "Map inscriptions and ASR-derived names retain separate authority below.",
+        "after": "Map inscriptions and ASR-derived names retain separate authority in the cited notes below."
+      },
+      {
+        "before": "explains this index's bounded reconciliation with canonical accounts.\n",
+        "after": "explains this index's bounded reconciliation with canonical accounts.\n\n[World portal](README.md) · [S1E01 evidence](../episodes/S1E01.md) · [Open checks](CONSISTENCY_LEDGER.md)\n\n[^city-name]: The recovered Kyle-posted regional map repeatedly prints Aytmer, whereas existing transcriptions and prose commonly use Atomer/Atamer/Atmer/Atumir. Prefer Aytmer in map-derived references; retain the existing city-name variants for search until the entity and audio crosswalk is completed. Atomer remains the existing ASR project usage. [Map spelling register](../../reports/DISCORD_NEW_SPELLING_2026-10-27.md). This presentation pass makes no identity or orthography ruling.\n\n[^reckoning]: S3E10 is the episode identifier retained from the former row. Clearstone's thirty names remain a missing-person list, not a final rescue total.\n\n[^epilogue]: S3E12's one-year epilogue is the source horizon. The invitation is shown, without a performed wedding; GCT is not expanded into an established identity. The red royal letter remains unopened.\n\n[^academy]: The interlude retains archive ID S2E00; its story-time placement is before S1E12. Moving this source-placement detail does not alter chronology or renumber the source.\n\n[^swamp]: Premiere recording locator retained: ~01:01:53–01:02:38. Passing the swamp does not establish exploration.\n\n[^farm-name]: The regional map supplies Mickle's Farm as an exact inscription; Mickles/Mikkels are retained ASR variants. [Map spelling register](../../reports/DISCORD_NEW_SPELLING_2026-10-27.md). The farm/cave association remains contextual rather than newly proven by this presentation pass.\n\n[^island]: The two missing weeks fall between S1E12 and S2E01. Fragmented recollection remains distinct from a complete performed account of the fortnight.\n\n[^trophies]: Premiere recording locator retained: ~00:13–00:15. These are displayed trophy names, not evidence that the party visited the places.\n\n[^sanctuary]: [S1E02 evidence](../episodes/S1E02.md). The source route is retained from the sanctuary row.\n\n[^workshops]: Existing workshop listing: [S1E05](../episodes/S1E05.md). No new location identification or spelling decision is made.\n\n[^well]: S1E08 is the descent episode retained from the former row. Passage sealing does not establish tested water or complete cave clearance.\n"
+      }
+    ]
+  }
+]

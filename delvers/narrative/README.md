@@ -1,6 +1,6 @@
 # Delvers — narrative histories
 
-The Delvers' story follows three adventurers from the smallest guild commissions through the mysteries beneath Atomer. Read the three completed arcs in order. Each has its own source notes and preserves the knowledge available at that stage of the story.
+The Delvers' story follows three adventurers from the smallest guild commissions through the mysteries beneath Atomer. Read the three completed arcs in order.
 
 ## Primary reading order
 
@@ -8,11 +8,9 @@ The Delvers' story follows three adventurers from the smallest guild commissions
 2. [Season Two — The Forgotten Fortnight](SEASON_TWO.md): the return from Snake Island, a secret heist, distant expeditions and the Bronze Ball catastrophe.
 3. [Season Three — After the Broken Ball](SEASON_THREE.md): the catastrophe's aftermath, a struggle over the guild and the final descent, followed by the one-year epilogue.
 
-The campaign ends with the third arc. Season One ends at S1E12, Season Two at S2E12 and Season Three at S3E12. The narrated Academy cutaway archived as S2E00 belongs during the first arc's kuo-toa mission; it is incorporated there without renumbering the source.
-
 ## Earlier detailed studies
 
-These source-linked studies retain earlier stages of the Season One narrative. They remain at their existing paths for detailed reading and link compatibility. The first-arc synthesis above is the primary account; these are historical versions, not additional chapters to read afterward in story order.
+Explore the early commissions in more detail, from the farm cave and Kord's sanctuary to Skull Keep and the wells beneath Atomer. The first-arc synthesis above provides the primary reading route.
 
 | Study | Detailed coverage |
 | --- | --- |
@@ -22,6 +20,12 @@ These source-linked studies retain earlier stages of the Season One narrative. T
 | [The Wells of Atomer](THE_WELLS_OF_ATOMER.md) | Wells, buried temple passages and the lake expedition through its earlier cutoff |
 
 ## Sources and project notes
+
+Each primary arc has its own source notes and preserves the knowledge available at that stage of the story.
+
+The campaign ends with the third arc. Season One ends at S1E12, Season Two at S2E12 and Season Three at S3E12. The narrated Academy cutaway archived as S2E00 belongs during the first arc's kuo-toa mission; it is incorporated there without renumbering the source.
+
+These source-linked studies retain earlier stages of the Season One narrative. They remain at their existing paths for detailed reading and link compatibility. The first-arc synthesis above is the primary account; these are historical versions, not additional chapters to read afterward in story order.
 
 ### Editorial status
 

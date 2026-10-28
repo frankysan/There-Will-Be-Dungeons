@@ -1,0 +1,78 @@
+{
+  "date": "2026-10-28",
+  "batch": "delvers-d048-indexes-02",
+  "head": "b9d73c61538736ebe682f73145402e8a8e481868",
+  "status": "complete for Characters/Places batch; Phase 6 remains in progress",
+  "archive_manifest": "research/legacy/2026-10-28/delvers-d048-indexes-02/manifest.json",
+  "operations": "research/legacy/2026-10-28/delvers-d048-indexes-02/operations.json",
+  "issues_closed": [],
+  "listening": "deferred by owner",
+  "validation": {
+    "exact_original_hashes": 4,
+    "index_checks": [
+      {
+        "path": "delvers/world/CHARACTERS.md",
+        "subject_rows": 61,
+        "link_destinations_preserved": 57,
+        "footnote_definitions": 12,
+        "footnote_references": 27,
+        "headings_preserved": true,
+        "row_order_and_widths_preserved": true,
+        "source_metadata_absent_from_main_tables": true,
+        "guarded_edit_replay": "passed",
+        "sha256_after": "5eefd8f4d7c9f782effd6831e8974f95695ef22deef0692596ae0ef0ff85f7c9"
+      },
+      {
+        "path": "delvers/world/PLACES.md",
+        "subject_rows": 35,
+        "link_destinations_preserved": 39,
+        "footnote_definitions": 11,
+        "footnote_references": 11,
+        "headings_preserved": true,
+        "row_order_and_widths_preserved": true,
+        "source_metadata_absent_from_main_tables": true,
+        "guarded_edit_replay": "passed",
+        "sha256_after": "28e091b9d76054f64c344d6b93f165af374e4ba00785b1f9f196b35b1a374be2"
+      }
+    ],
+    "prior_manifest_preserved": true,
+    "protected_files_unchanged": 169,
+    "protected_Delvers_files_unchanged": 145,
+    "observed_outside_scope_drift": [
+      {
+        "path": "project/WASTES_CLEANUP_MANIFEST.md",
+        "before_sha256": "a561429f30d3e482abccd2bc5fc92658881ba6520f20c1716388d2228772af3b",
+        "observed_sha256": "c18320b8809d044dccedabac5965d75570cc89110a52a6f52fb8bcf333a317c8"
+      },
+      {
+        "path": "project/WASTES_CLEANUP_PROGRESS.md",
+        "before_sha256": "260a3dd5ca3066d5ba40fee53cd1ea308587452e2eeed30b1fc8af4551cdb5fa",
+        "observed_sha256": "59cede6567bd30297bd506a754c9f26b051e2b881e3e41d4c85999bdb39d1530"
+      }
+    ],
+    "local_links_checked": 679,
+    "tracked_inbound_fragment_routes_checked": 2,
+    "errors": [],
+    "scoped_git_whitespace_check": "passed; tracked and new records",
+    "markdownlint": {
+      "maintained_files": 5,
+      "violations": 0,
+      "archive_README_violations": 0,
+      "final_report_recheck": "passed after results recorded"
+    },
+    "rendered_preview": "not performed; complete Markdown source review",
+    "fresh_dossier_ASR_audio_review": "not performed",
+    "full_repository_link_audit": "not performed"
+  },
+  "next_action": "Creatures and monsters, WORLD, additional published indexes if any; then bounded subject sampling",
+  "scope": "D-048 presentation only; no story, source, identity or path changes",
+  "final_HEAD": "b9d73c61538736ebe682f73145402e8a8e481868",
+  "changed_maintained_files": [
+    "delvers/world/CHARACTERS.md",
+    "delvers/world/PLACES.md",
+    "project/DELVERS_D048_PRESENTATION_AUDIT.md",
+    "project/DELVERS_CLEANUP_MANIFEST.md",
+    "reports/DELVERS_D048_INDEXES_02_2026-10-28.md"
+  ],
+  "operations_sha256": "aa51363febcca31f3056a7e0f5c36fff92189f7ad058b5c3546ada400ed890a5"
+}

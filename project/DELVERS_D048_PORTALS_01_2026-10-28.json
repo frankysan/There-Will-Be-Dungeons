@@ -1,0 +1,79 @@
+{
+  "date": "2026-10-28",
+  "batch": "delvers-d048-portals-01",
+  "head": "b9d73c61538736ebe682f73145402e8a8e481868",
+  "archive_manifest": "research\\legacy\\2026-10-28\\delvers-d048-portals-01\\manifest.json",
+  "status": "complete for three-portal batch; Phase 6 remains in progress",
+  "reviewed_portals": [
+    "delvers/README.md",
+    "delvers/narrative/README.md",
+    "delvers/world/README.md"
+  ],
+  "listening": "deferred by owner",
+  "issues_closed": [],
+  "validation": {
+    "protected_files_unchanged": 169,
+    "exact_archive_hashes": 4,
+    "portal_link_multisets_headings_footnotes_preserved": 3,
+    "manifest_preexisting_text_preserved": true,
+    "local_links_checked": 783,
+    "tracked_inbound_fragment_routes_checked": 3,
+    "errors": [],
+    "markdownlint": {
+      "maintained_files": 4,
+      "violations": 0,
+      "archive_readme_violations": 0
+    },
+    "scoped_git_diff_check": "passed; two tracked files and three new Markdown records",
+    "rendered_site": "not run; Markdown source read in full",
+    "full_repository_audit": "not performed",
+    "observed_outside_scope_drift": [
+      {
+        "path": "reports/WASTES_CLEANUP_D048_ITEMS_ACCEPTANCE_50_2026-10-28.md",
+        "before_sha256": "024e99ea9f0c6a48a11bb17c5844c3afb5daa885d173999b4d3cc5a5b6bfc29a",
+        "observed_sha256": "78579c3b239df5b134d154bffd121c42663ac616502f5510d6f041f596757fe6",
+        "disposition": "outside-scope concurrent change; no write or restore by this batch"
+      },
+      {
+        "path": "world/ITEMS_AND_ARTIFACTS.md",
+        "before_sha256": "ac23bbf47b55d871c658411833ebee954b4a9041143cfabc74e4cc9d265c8d7a",
+        "observed_sha256": "e4a42e7262260a4d94131045ecc521f07fffe1a6ad617800c894b4dcbc6730e4",
+        "disposition": "outside-scope concurrent change; no write or restore by this batch"
+      }
+    ],
+    "protected_Delvers_files_unchanged": 146,
+    "new_file_whitespace_checks": [
+      {
+        "path": "project/DELVERS_D048_PRESENTATION_AUDIT.md",
+        "result": "passed; no whitespace diagnostics; Git LF-to-CRLF notice only",
+        "exit_code": 1
+      },
+      {
+        "path": "reports/DELVERS_D048_PORTALS_01_2026-10-28.md",
+        "result": "passed; no whitespace diagnostics; Git LF-to-CRLF notice only",
+        "exit_code": 1
+      },
+      {
+        "path": "research\\legacy\\2026-10-28\\delvers-d048-portals-01\\README.md",
+        "result": "passed; no whitespace diagnostics; Git LF-to-CRLF notice only",
+        "exit_code": 1
+      }
+    ]
+  },
+  "portal_hashes_after": {
+    "delvers/README.md": "cd39f551ada9fe8cbeff9860254e1e501cda4c6947f57052884a00b3385fbfbd",
+    "delvers/narrative/README.md": "23338aaed6a9cec76d9cb9dd00b9371b8dff70538a2a299be3303ced4997af7a",
+    "delvers/world/README.md": "d613ab4df785cf3236c14b6b932c1d9bc36f09b6811fc149fdb27c5365a1c7c0"
+  },
+  "next_action": "Characters and Places presentation review; remaining priority-one pages, then bounded subject sample",
+  "scope": "D-048 presentation only; no story/source/identity change",
+  "changed_paths": [
+    "delvers/narrative/README.md",
+    "project/DELVERS_CLEANUP_MANIFEST.md",
+    "project/DELVERS_D048_PRESENTATION_AUDIT.md",
+    "reports/DELVERS_D048_PORTALS_01_2026-10-28.md",
+    "research\\legacy\\2026-10-28\\delvers-d048-portals-01\\README.md",
+    "project/DELVERS_D048_PORTALS_01_2026-10-28.json"
+  ],
+  "final_HEAD": "b9d73c61538736ebe682f73145402e8a8e481868"
+}
