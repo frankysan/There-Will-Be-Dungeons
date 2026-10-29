@@ -1,6 +1,6 @@
 ---
 name: twbd-wastes-cleanup
-description: Progressively execute or resume The Wastes completed-campaign cleanup plan in bounded, related multi-file batches (standalone for complex work), with per-file evidence and durable progress records that survive timeouts and errors. Use for Wastes narrative consolidation, world cleanup, inventory, and campaign integration under that plan; not routine episode intake or other campaigns.
+description: Progressively execute or resume The Wastes completed-campaign cleanup plan in bounded, related multi-file batches, with recoverable evidence and a compact, continuously maintained change and decision history rather than per-task backups or reports. Use for Wastes narrative consolidation, world cleanup, inventory, and campaign integration under that plan; not routine episode intake or other campaigns.
 ---
 
 # Wastes campaign cleanup
@@ -44,7 +44,9 @@ For prose read `project/EDITORIAL_GUIDE.md`,
 ## Resume and choose a slice
 
 Read [progress and recovery](references/progress-and-recovery.md) before cleanup
-mutations. Recording is part of each operation, not an end-of-turn task.
+mutations. Maintain recoverable operation states in existing controls; do not create
+new reports or snapshots solely because another small operation or turn began.
+Apply the repository-wide baseline/reporting economy policy (D-052 in AGENTS.md).
 
 1. Inspect HEAD, staged/unstaged changes and untracked files. Preserve unrelated
    work. Read `project/WASTES_CLEANUP_PROGRESS.md` if present, its active batch
@@ -90,7 +92,7 @@ related unread world files, approximately 300 source lines, starting with a
 preflight of `world/ITEMS_AND_ARTIFACTS.md`. Record the *actual selected paths*
 before reading them in full. Grouping does not permit more substantive edits.
 
-One detailed batch journal must retain **individual file subrecords**: path,
+One **continuously maintained workstream journal** (or existing manifest/progress ledger, where sufficient) retains **individual file subrecords** without creating a new report for every batch: path,
 ordered operation ID, actual line coverage/size, purpose and source horizon,
 headings/notes/links (in-world listed versus out-of-world unchecked), D-044/D-045
 migration leads, verification limits and `queued | reading | complete | blocked |
@@ -134,8 +136,7 @@ allowed; do not turn that into a broad unreviewed rewrite. Classify each
 occurrence by referent, preserve old slugs, aliases, direct source quotations,
 source-facing reports and raw ASR/audio, link targets, footnote IDs, provenance,
 episode knowledge cutoffs and all evidentiary uncertainty. Before edits, check
-live Git state, record the exact paths/intent, preserve working originals,
-apply guarded changes, read back and validate actual deltas. Record the
+live Git state and record exact paths/intent; preserve a full original **only before a major rewrite/restructure when a suitable baseline is not already held**. For minor edits, rely on guarded changes, Git diff and readback to validate actual deltas. Record the
 standing owner permission as **D-047 / editorial-minor** rather than seeking
 fresh approval for every obvious typo. Do not re-open completed historical
 approval gates just because older reports still describe them.
@@ -211,9 +212,7 @@ small non-semantic fixes do **not** create an approval hold.
 
 ## Validate and hand off
 
-Before substantial editing verify the exact working-copy archive and record its
-SHA-256. After every bounded operation read back the output, record actual hash
-and outcome, and persist remaining tasks before continuing.
+Before a major rewrite/restructure verify an exact working-copy baseline was preserved once for that coherent effort, with its SHA-256; reuse it for subsequent chapters/repairs. Ordinary bounded edits need no additional full-file archive. After each meaningful operation read back the output and update the existing change/recovery record with outcome, relevant hashes and remaining tasks. Do not generate a fresh report or duplicate snapshots as routine checkpoints.
 
 Review domain focus, claim coverage, knowledge boundaries, actual source horizon
 and final status. Check footnote references/definitions, relative links, incoming
@@ -235,8 +234,7 @@ Unavailable or timed-out checks remain unrun/unknown. Run code tests when tools
 change, not as an editorial ritual. Passing tooling does not establish facts.
 
 Advance only evidenced lifecycle stages, synchronize the manifest and progress
-pointer, and state the exact next action. Checkpoint after each slice, before
-expensive calls and immediately on recoverable errors. End a turn with completed
+pointer, and state the exact next action. Checkpoint **in place** after meaningful slices, before expensive calls where recovery requires it, and immediately on recoverable errors; no standalone report is required per slice. End a turn with completed
 scope, actual validation, unresolved decisions/errors and checkpoint path. Do not
 commit, push, publish or launch background cleanup without explicit authorization.
 Do not mark the campaign complete because a batch or time allowance ended.

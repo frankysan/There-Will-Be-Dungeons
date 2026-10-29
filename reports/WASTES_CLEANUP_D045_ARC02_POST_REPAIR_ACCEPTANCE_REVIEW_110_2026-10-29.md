@@ -1,0 +1,44 @@
+# Wastes Cleanup — Batch 110: Arc 02 final editorial acceptance review
+
+**Date:** 2026-10-29. **Disposition:** **READY FOR EXPLICIT OWNER PROVISIONAL INTERNAL ACCEPTANCE** of the specified current version; **not accepted automatically and not published**. Read-only review; no narrative or reader-navigation edit.
+
+## Access, revision and approval gate
+
+The owner said **“Proceed”** after Batch109 proposed a final bounded editorial acceptance review of the three-source-correction version of Arc02. That authorizes **review**, not a further substantive rewrite, structural redesign, new public navigation or owner acceptance on their behalf. D-045/D-047/D-049 and D-050 remain binding.
+
+Fresh file-access priority inspection: no repository checkout at the usual four local roots, so authenticated workspace MCP was used. At opening the repository was **clean**, on `main` HEAD **`d2ab1273fa8e247f619c64b4ea8332b1f8b5c1e7`**, **0 visible changes, 0 restricted**. This is **a newer HEAD** than the Batch109 record `571d1d37`; do not replay old patches, archive obsolete worktree versions as if current, or attribute a pre-existing commit to this review. No stage, commit or push requested.
+
+Current exact artifact: `narrative/ARC_02.md` **54,722 UTF-8 bytes**, SHA-256 **`01097538b32a6330286014c07952d57292dcb6cde6e6ce5fdc3a66b267ca1ee7`**, independently read from the current repository. This file covers **E010–E026**, eight chapters I–VIII. E013.5 remains supplemental to Arc01 by fictional time and E027 starts the next arc. It is labeled **unpublished integrated working draft** and was not modified in Batch110. Its historical exact pre-Batch109 version is preserved in `research/legacy/ARC_02_PRE_FIDELITY_ADDITIONS_109_2026-10-29.md`.
+
+## Specific corrections now accepted at dossier-level evidence
+
+| Batch109 addition | Source cross-check | Finding |
+| --- | --- | --- |
+| **E013 Stanley's purse theft — Chapter II** | [E013](../episodes/E013.md) L17–21, ~02:12–02:24; current Arc02 Ch II L31–35, note `[^arc02-38]` | **PASS:** gnome timepiece diversion, Stanley's purse stolen and chase, **no unsupported claim of purse recovery**; not confused with Eddie and Chance of E008–E009. Placed after E013 Sapphire assault and before E013 cyclops hotel cliffhanger. |
+| **E014 Sheriff Randy death — Chapter II** | [E014](../episodes/E014.md) L12–14, [E015](../episodes/E015.md) L15, ~00:02–00:06; current Arc02 L35 and `[^arc02-39]` | **PASS:** **GM's later recap** reports the sheriff died after firing at the cyclops; immediate E014 encounter alone did not establish that fate. No fabricated contemporaneous eyewitness confirmation or added E015 scene. |
+| **E024 Vorel dismissed — Chapter VII** | [E024](../episodes/E024.md) L15–20, ~01:14–01:34; current Arc02 L143–151 and `[^arc02-40]` | **PASS:** early artifact leads heard before dismissal, **Vorel refused to sign** and is removed from later Celestium/keys/father/deed discussion; Hope/Nash/Stanley remain with the Soulbroker. Vorel rejoins the companions back in the Black Mine. No transfer of non-shared knowledge or retroactive signing. |
+
+**No new factual correction or character-knowledge contradiction requiring another substantive edit** was found in these bounded checks. The earlier [Batch108 reader-flow and complete E010–E026 dossier review](WASTES_CLEANUP_D045_ARC02_ACCEPTANCE_REVIEW_108_2026-10-29.md) established the remaining major scene and testimony boundaries: four prisoners' trial release **not** Dusthill emancipation, Tylander's apparent E015 death vs E016 report of return, Nash/Vorel private visions, E017 real fire vs perceived elf, Tickles E019 survival vs E020 death, separate Catherine impersonation and prisoner, Quizquaz/beholder/Soulbroker distinctions, Vorel's charm without consent, three pact signatories, E024 chest/Dorothy, E025 locked prison vs E026 released captives, and E026 harm to Scrolly/Brent and Nash's objections. Those findings are **reaffirmed**, not claims of an independently repeated full audio audit.
+
+## Integrated reader flow, historical coverage and structure
+
+- Rechecked **eight Roman-numbered headings** I–VIII, with prose/paragraph diagnostics:
+  - I **560 words / 8 paragraphs**, II **756 / 9**, III **725 / 9**, IV **639 / 9**,
+  - V **899 / 11**, VI **797 / 11**, VII **968 / 11**, VIII **1,063 / 13**.
+  Counts are approximate whitespace splits, not a maximum length contract. Ch V and Ch VII–VIII are dense, but preserve key agency, uncertainty, painful choices and episode evidence; **do not arbitrarily delete scenes to hit 350–450 words**. Optional **within-chapter** scene breaks/subheadings are a separate future editorial/owner choice, not an acceptance blocker.
+- Retained the previously audited **25/25 unique historical E010–E026 source-paragraph identities** from old `narrative/ARC_ONE.md`, with the corrected [Batch107 chapter source-to-scene crosswalk](WASTES_CLEANUP_D045_ARC02_INTEGRATION_107_2026-10-29.md) L33–44: **I 49/51/53/55; II 57/61/63; III 65/67; IV 69/73; V 75/77/79/81; VI 85/87/89; VII 91/93; VIII 97/99/101/103/105.** Ch II's **E013 pickpocket** was absent from the historical 25-paragraph summary but now explicitly represented; historical paragraph completeness is not episode completeness.
+- E011→E012 confront/fight, E014→E015 undead cliffhanger/fight, E016→E017 preparations, E018 IV→V shelter/nail Freedom, E021 V→VI Hope's private whisper/fungi, E022 VI→VII rift/full arrival, E024 VII→VIII audience/mine return, and E025→E026 locked/unlocked cell remain in correct story order. The corrections did **not** introduce a false extra episode or break the eleven-arc boundary. End of VIII remains the proposed/adopted **“Heroes of the Wastes”** identity, not victory over the Principal.
+- **40 reference uses / 40 definitions**, all definition IDs **1–40 unique, sequential and used**, zero dangling/unused. **56 Markdown link occurrences / 24 distinct relative targets**, each of the **24 target files independently existence-checked in the current worktree**. No broken file paths found; actual renderer/footnote UI, deep anchors, Markdownlint and linked resource contents are separate unperformed checks. New Batch109 footnotes `[^arc02-38]`–`[^arc02-40]` coexist with all original 37.
+- No new reference/canonical naming issue detected in scope; use **the Principal**, distinguish Principal City from the Principal's Lands, and preserve episode dossier/GM quotations and unresolved item spellings.
+
+## Protected paths and acceptance lifecycle
+
+Independent current SHA checks confirmed **unchanged**: D-050 provisionally owner-accepted `narrative/ARC_01.md` (17,365 bytes/SHA `a6455256ed1f557669dfcd646a025da29ee62e148f3d27cd664ee2c2508a2a43`), original `narrative/ARC_ONE.md` (24,216/`956c0a4a6314fc09aee7f985bd7c95a6c9c6274ee958cfb0eaec557e11b39e7a`), original `ARC_FOUR.md` (24,569/`428f5e930d4d2e55de3f77f98d0809e9e6db6f3e526d75a4672c9b82be095a39`), public `narrative/README.md` (`5178cb9246e9d93f289d8b8219a828d4238de96c1b50d41112625f042f5165a3`), public `wastes/README.md` (`fd90039aef48455fb9695bd1cd034823e7bdf2370566eec9b9321f6b2fee6349`) and Arc07 E100/E101 ending pilot (`33d13f2750cf38b8b00bc3b7a1a693bb76c7fb142e1f46d612a4c2480cf1443f`). Other historical arcs and season stubs were not in opening Git changes.
+
+**Recommendation:** The exact revised Arc02 artifact at SHA `01097538b32a6330286014c07952d57292dcb6cde6e6ce5fdc3a66b267ca1ee7` is **ready to submit for the owner's explicit provisional *internal editorial acceptance***, while keeping it **unpublished** and preserving the legacy edition and current reader routes. The owner may accept this bounded version **as is**, or request targeted revisions; acceptance must be recorded in decisions and pinned to the exact hash **only after the user explicitly approves it**. Acceptance should not imply independent source-audio verification, finalized chapter pacing, full GFM render, creator fact-check, all eleven arcs completed or authorization to publish.
+
+**Next work:** Request owner choice (provisionally accept current exact Arc02 vs specific further revision). If accepted, record decision D-051 in `project/DECISIONS.md` with exact byte/SHA and historical compatibility, then plan Arc03 separately. Do **not** change published navigation until the full eleven-arc migration is accepted.
+
+## Batch110 recovery / tracker checkpoint
+
+This report is the durable review result. Before updating `project/WASTES_CLEANUP_MANIFEST.md` or `project/WASTES_CLEANUP_PROGRESS.md`, archive **exact then-current working copies** (not prior commit's historical byte assumptions) under new `research/legacy/…PRE_110_2026-10-29.md` and independently verify size/SHA. Add one evidence-based Batch110 checkpoint to each, read back both and confirm Git scope. If archival/edits fail, leave trackers unchanged and document the blocker; **never claim unsaved updates or staging/commits**.
