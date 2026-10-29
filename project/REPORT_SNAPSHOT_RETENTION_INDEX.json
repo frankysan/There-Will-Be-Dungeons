@@ -26,13 +26,13 @@
     "retained_final_manifest_snapshot": "research/legacy/WASTES_CLEANUP_MANIFEST_PRE_115_2026-10-29.md",
     "retained_final_progress_snapshot": "research/legacy/WASTES_CLEANUP_PROGRESS_PRE_115_2026-10-29.md",
     "historical_report_paths_record_original_preservation_events": true,
-    "deletions_require_new_owner_approved_file_list": false,
+    "deletions_require_new_owner_approved_file_list": true,
     "owner_authorized_candidates": "2026-10-29 Proceed; exactly 34 previously enumerated conditional candidates, not any other files",
     "local_application_script": "project/REMOVE_REDUNDANT_WASTES_SNAPSHOTS.ps1",
     "physical_deletion_completed": true
   },
   "historical_resolution": {
-    "reference_policy": "Keep original report prose and historical former paths unchanged. Use this index for SHA-256/size/provenance and the continuing Wastes changelog for dated meaningful changes. The owner authorized the precise 34 conditional removals on 2026-10-29; physical deletion still awaits guarded local execution.",
+    "reference_policy": "Keep original report prose and historical former paths unchanged. Use this index for SHA-256/size/provenance and the continuing Wastes changelog for dated meaningful changes. The owner authorized the precise 34 conditional removals on 2026-10-29; the local deletion has completed and all 34 removed paths were independently confirmed absent.",
     "continuing_changes": "project/WASTES_CLEANUP_CHANGELOG.md",
     "tracker_manifest_accumulated_content": "research/legacy/WASTES_CLEANUP_MANIFEST_PRE_115_2026-10-29.md",
     "tracker_progress_accumulated_content": "research/legacy/WASTES_CLEANUP_PROGRESS_PRE_115_2026-10-29.md",
@@ -40,7 +40,14 @@
     "narrative_arc_one_original": "narrative/ARC_ONE.md",
     "narrative_arc_one_first_verified_baseline": "research/legacy/ARC_ONE_PRE_D045_96_2026-10-28.md",
     "preserve_historical_proof": "Filename and SHA in historical report still describe an actual archival event, even if removal is later approved. Reconcile actual Markdown links before changing physical paths.",
-    "physical_removal_note": "34 hash-verified physical copies removed; paths and historical report evidence retained."
+    "physical_removal_note": "34 hash-verified physical copies removed; paths and historical report evidence retained.",
+    "post_execution_verified_at_head": "174b288119b92fbfe9ae4555bd0bdfa0c08c0fde",
+    "post_execution_removed_absent": 34,
+    "post_execution_protected_present": 8,
+    "post_execution_protected_sha_reverified": 7,
+    "post_execution_protected_sha_blocked": "research/legacy/ARC_02_PRE_FIDELITY_ADDITIONS_109_2026-10-29.md",
+    "post_execution_narrative_and_public_navigation_sha_matches": 7,
+    "post_execution_reports_root_count_unchanged": 484
   },
   "tracker_snapshots": [
     {
