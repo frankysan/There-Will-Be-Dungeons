@@ -1,5 +1,7 @@
 # Wastes completed-campaign cleanup — progress and resume pointer
 
+**Continuing history:** [Dated changes, approvals and verification](WASTES_CLEANUP_CHANGELOG.md) · [Historical snapshot SHA/path index](REPORT_SNAPSHOT_RETENTION_INDEX.json). Earlier `PRE_*` paths below document actual past preserved copies; resolve their provenance through the index, not by creating another per-task backup. This file remains the operational resume pointer.
+
 **Updated:** 2026-10-27 (Europe/Stockholm). **Repository:** `There Will Be Dungeons Transcripts`, branch `main`, initial HEAD `02b1bf56aae3e5e3ec9a3b474559f3c45631ebe7`.
 
 **Structure approval:** [D-045](DECISIONS.md) — owner accepted eleven-arc crosswalk on 2026-10-27. Current `ARC_ONE`–`ARC_SIX` documents still exist and are **unmigrated**. Approved boundaries are not a validated scene map. Other unapproved content/canon edits require a separate approval checkpoint.

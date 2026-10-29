@@ -6,9 +6,11 @@ Create these only when executing cleanup, after inspecting existing records:
 
 - `project/WASTES_CLEANUP_PROGRESS.md`: short resume pointer with phase/gates,
   active batch link, remaining work and the exact next action.
-- **One ongoing Wastes cleanup change/recovery log:** prefer the existing
-  `project/WASTES_CLEANUP_PROGRESS.md` and relevant manifest entries, with
-  dated, concise append/update entries. Reuse existing evidence reports by link.
+- **One ongoing Wastes cleanup change/decision log:** update
+  `project/WASTES_CLEANUP_CHANGELOG.md` in place for meaningful milestones,
+  approvals and changes; keep `project/WASTES_CLEANUP_PROGRESS.md` as the short
+  current resume pointer and the manifest for page lifecycle/disposition. Link
+  existing evidence reports rather than duplicating their contents.
   Do **not** create a new `reports/` file merely to record a batch, chapter,
   retry, checkpoint or routine status. A separate report is warranted only for
   substantial independently useful research, a new comparison or a milestone
@@ -27,8 +29,10 @@ Create these only when executing cleanup, after inspecting existing records:
 Resolve links from each record's directory. Do not copy private raw source
 content or image binaries into journals; record permitted provenance and findings.
 The manifest owns disposition; the decisions ledger owns owner approvals; the
-progress file holds the current pointer **and concise continuing workstream log**.
-Existing detailed reports remain referenced evidence, not a mandatory new output.
+progress file holds the current resume pointer; `WASTES_CLEANUP_CHANGELOG.md`
+holds the concise continuing history, while the snapshot retention index maps
+historical filenames and hashes. Existing detailed reports remain referenced
+evidence, not a mandatory new output.
 If records disagree, reconcile actual bytes; a newer completion claim alone is
 not authority. If a required state record cannot be saved, stop dependent edits.
 

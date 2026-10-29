@@ -2,7 +2,7 @@
 
 **Initialized:** 2026-10-27. **Status:** **Preliminary planning inventory only; eleven-arc boundaries now owner-approved by D-045, implementation pending**. An exhaustive up-to-date file-by-file, hash-and-inbound-link census, source-claim review and migration log have **not** been performed. Based on a read-only inspection of GitHub `main` at **`c0b2a8317a1865922211920c62ae69b1a6661254`**, except where separately indicated. Do not confuse inspected paths with an accepted complete inventory.
 
-[Campaign plan](WASTES_CAMPAIGN_CLEANUP_PLAN.md) · [D-048 reader-first presentation standard](READER_FIRST_PRESENTATION.md) · [proposed arc crosswalk](WASTES_NARRATIVE_CHAPTER_MAPS.md) · [existing world-arc manifest](WORLD_ARC_MIGRATION_MANIFEST.md) · [Delvers method](DELVERS_CLEANUP_MANIFEST.md).
+[Campaign plan](WASTES_CAMPAIGN_CLEANUP_PLAN.md) · [D-048 reader-first presentation standard](READER_FIRST_PRESENTATION.md) · [proposed arc crosswalk](WASTES_NARRATIVE_CHAPTER_MAPS.md) · [existing world-arc manifest](WORLD_ARC_MIGRATION_MANIFEST.md) · [Delvers method](DELVERS_CLEANUP_MANIFEST.md) · [Concise change and decision history](WASTES_CLEANUP_CHANGELOG.md) · [Historical snapshot SHA/path index](REPORT_SNAPSHOT_RETENTION_INDEX.json).
 
 ## 1. Inventory method and states
 

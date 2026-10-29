@@ -1,0 +1,431 @@
+{
+  "schema_version": 1,
+  "prepared": "2026-10-29",
+  "status": "historical_reference_index_34_archival_removals_completed",
+  "source": "Live workspace MCP metadata SHA-256/size for every listed file; full numbered-line content compared for all adjacent tracker snapshots.",
+  "scope": {
+    "snapshots": 32,
+    "decision_backups": 3,
+    "arc_baselines": 7,
+    "full_reports_listing_complete": false
+  },
+  "comparison": {
+    "tracker_adjacent_transitions_per_family": 15,
+    "all_readable_lines_of_each_earlier_tracker_unchanged_in_next": true,
+    "exact_byte_prefix_spot_checks": [
+      "PRE_97 to PRE_98 both types",
+      "PRE_112 to PRE_113 both types",
+      "PRE_113 to PRE_115 both types"
+    ],
+    "cross_source_reference_counts_not_exhaustive": true,
+    "all_three_decision_snapshots_line_prefix_of_current_decisions": true,
+    "all_32_tracker_names_appear_in_both_active_project_trackers": true,
+    "report_content_reference_search_per_tracker_name_scanned_484_root_report_files": true,
+    "one_arc_one_duplicate_also_identical_to_legacy_original_by_full_file_sha256": true,
+    "continuing_change_log": "project/WASTES_CLEANUP_CHANGELOG.md",
+    "retained_final_manifest_snapshot": "research/legacy/WASTES_CLEANUP_MANIFEST_PRE_115_2026-10-29.md",
+    "retained_final_progress_snapshot": "research/legacy/WASTES_CLEANUP_PROGRESS_PRE_115_2026-10-29.md",
+    "historical_report_paths_record_original_preservation_events": true,
+    "deletions_require_new_owner_approved_file_list": false,
+    "owner_authorized_candidates": "2026-10-29 Proceed; exactly 34 previously enumerated conditional candidates, not any other files",
+    "local_application_script": "project/REMOVE_REDUNDANT_WASTES_SNAPSHOTS.ps1",
+    "physical_deletion_completed": true
+  },
+  "historical_resolution": {
+    "reference_policy": "Keep original report prose and historical former paths unchanged. Use this index for SHA-256/size/provenance and the continuing Wastes changelog for dated meaningful changes. The owner authorized the precise 34 conditional removals on 2026-10-29; physical deletion still awaits guarded local execution.",
+    "continuing_changes": "project/WASTES_CLEANUP_CHANGELOG.md",
+    "tracker_manifest_accumulated_content": "research/legacy/WASTES_CLEANUP_MANIFEST_PRE_115_2026-10-29.md",
+    "tracker_progress_accumulated_content": "research/legacy/WASTES_CLEANUP_PROGRESS_PRE_115_2026-10-29.md",
+    "owner_decision_history": "project/DECISIONS.md",
+    "narrative_arc_one_original": "narrative/ARC_ONE.md",
+    "narrative_arc_one_first_verified_baseline": "research/legacy/ARC_ONE_PRE_D045_96_2026-10-28.md",
+    "preserve_historical_proof": "Filename and SHA in historical report still describe an actual archival event, even if removal is later approved. Reconcile actual Markdown links before changing physical paths.",
+    "physical_removal_note": "34 hash-verified physical copies removed; paths and historical report evidence retained."
+  },
+  "tracker_snapshots": [
+    {
+      "path": "research/legacy/WASTES_CLEANUP_MANIFEST_PRE_97_2026-10-28.md",
+      "size_bytes": 221993,
+      "sha256": "aff545824fb052b4e2977d89e620b50f68f19585835293277f9b52b9ad898e07",
+      "batch": "97_2026-10-28",
+      "retention": "removed_by_owner_authorized_local_cleanup",
+      "verified_all_readable_lines_in_later_snapshot": true,
+      "referenced_in_active_manifest": true,
+      "referenced_in_active_progress": true
+    },
+    {
+      "path": "research/legacy/WASTES_CLEANUP_PROGRESS_PRE_97_2026-10-28.md",
+      "size_bytes": 178251,
+      "sha256": "27524b6a284d09e64ea2390729ae8aee7c321ea4d9b841dc76aa9d6c2e0247cd",
+      "batch": "97_2026-10-28",
+      "retention": "removed_by_owner_authorized_local_cleanup",
+      "verified_all_readable_lines_in_later_snapshot": true,
+      "referenced_in_active_manifest": true,
+      "referenced_in_active_progress": true
+    },
+    {
+      "path": "research/legacy/WASTES_CLEANUP_MANIFEST_PRE_98_2026-10-28.md",
+      "size_bytes": 224065,
+      "sha256": "d7c194949c3b770a4ae80e5a55f488fbb4efe5604dee9ca4e4b2220f8f6a9792",
+      "batch": "98_2026-10-28",
+      "retention": "removed_by_owner_authorized_local_cleanup",
+      "verified_all_readable_lines_in_later_snapshot": true,
+      "referenced_in_active_manifest": true,
+      "referenced_in_active_progress": true
+    },
+    {
+      "path": "research/legacy/WASTES_CLEANUP_PROGRESS_PRE_98_2026-10-28.md",
+      "size_bytes": 180321,
+      "sha256": "c405bb4f3f1faa85b84a413f7767a8bf3495f0e9276d291cf373e450c49f7a5d",
+      "batch": "98_2026-10-28",
+      "retention": "removed_by_owner_authorized_local_cleanup",
+      "verified_all_readable_lines_in_later_snapshot": true,
+      "referenced_in_active_manifest": true,
+      "referenced_in_active_progress": true
+    },
+    {
+      "path": "research/legacy/WASTES_CLEANUP_MANIFEST_PRE_99_100_2026-10-28.md",
+      "size_bytes": 226049,
+      "sha256": "3811101b6f41b0482be98e911c4db9705d616861f0ffa4c67ef35f9448753e51",
+      "batch": "99_100_2026-10-28",
+      "retention": "removed_by_owner_authorized_local_cleanup",
+      "verified_all_readable_lines_in_later_snapshot": true,
+      "referenced_in_active_manifest": true,
+      "referenced_in_active_progress": true
+    },
+    {
+      "path": "research/legacy/WASTES_CLEANUP_PROGRESS_PRE_99_100_2026-10-28.md",
+      "size_bytes": 182303,
+      "sha256": "fa9ee1f53d4794343a2a94a24e09771578958d8d671af1de345e24ab4300c58e",
+      "batch": "99_100_2026-10-28",
+      "retention": "removed_by_owner_authorized_local_cleanup",
+      "verified_all_readable_lines_in_later_snapshot": true,
+      "referenced_in_active_manifest": true,
+      "referenced_in_active_progress": true
+    },
+    {
+      "path": "research/legacy/WASTES_CLEANUP_MANIFEST_PRE_101_2026-10-29.md",
+      "size_bytes": 228878,
+      "sha256": "d9af27cfd75d6331823237fbf0e1e84ec9d34291bba719dd61174d120af67d7d",
+      "batch": "101_2026-10-29",
+      "retention": "removed_by_owner_authorized_local_cleanup",
+      "verified_all_readable_lines_in_later_snapshot": true,
+      "referenced_in_active_manifest": true,
+      "referenced_in_active_progress": true
+    },
+    {
+      "path": "research/legacy/WASTES_CLEANUP_PROGRESS_PRE_101_2026-10-29.md",
+      "size_bytes": 185128,
+      "sha256": "46f4a44ac1dbe1917cfb02f3e792f438fce892f05554c9ae05e4bfd42ce99cf5",
+      "batch": "101_2026-10-29",
+      "retention": "removed_by_owner_authorized_local_cleanup",
+      "verified_all_readable_lines_in_later_snapshot": true,
+      "referenced_in_active_manifest": true,
+      "referenced_in_active_progress": true
+    },
+    {
+      "path": "research/legacy/WASTES_CLEANUP_MANIFEST_PRE_102_2026-10-29.md",
+      "size_bytes": 230930,
+      "sha256": "c747ae1f285511f43cdbc60d2449443636de3d56d5837dd3a59bf73264f7e911",
+      "batch": "102_2026-10-29",
+      "retention": "removed_by_owner_authorized_local_cleanup",
+      "verified_all_readable_lines_in_later_snapshot": true,
+      "referenced_in_active_manifest": true,
+      "referenced_in_active_progress": true
+    },
+    {
+      "path": "research/legacy/WASTES_CLEANUP_PROGRESS_PRE_102_2026-10-29.md",
+      "size_bytes": 187178,
+      "sha256": "baa60b255cb3fa374dd48bce662ff5f3f677af6c032caeb34672e53b01ecc938",
+      "batch": "102_2026-10-29",
+      "retention": "removed_by_owner_authorized_local_cleanup",
+      "verified_all_readable_lines_in_later_snapshot": true,
+      "referenced_in_active_manifest": true,
+      "referenced_in_active_progress": true
+    },
+    {
+      "path": "research/legacy/WASTES_CLEANUP_MANIFEST_PRE_103_2026-10-29.md",
+      "size_bytes": 232998,
+      "sha256": "949f6ae291ceae63c2b5368be9ef02ea27e6dfb07e2a64f8f180058cf42a6fd6",
+      "batch": "103_2026-10-29",
+      "retention": "removed_by_owner_authorized_local_cleanup",
+      "verified_all_readable_lines_in_later_snapshot": true,
+      "referenced_in_active_manifest": true,
+      "referenced_in_active_progress": true
+    },
+    {
+      "path": "research/legacy/WASTES_CLEANUP_PROGRESS_PRE_103_2026-10-29.md",
+      "size_bytes": 189244,
+      "sha256": "af4821b880d1be1548d3e32ecf04a26c5400811fa54069b7e03d392b77218d26",
+      "batch": "103_2026-10-29",
+      "retention": "removed_by_owner_authorized_local_cleanup",
+      "verified_all_readable_lines_in_later_snapshot": true,
+      "referenced_in_active_manifest": true,
+      "referenced_in_active_progress": true
+    },
+    {
+      "path": "research/legacy/WASTES_CLEANUP_MANIFEST_PRE_104_2026-10-29.md",
+      "size_bytes": 235646,
+      "sha256": "541a4e870e964c955828b2ccc8d53ec3d828db2f9b8837f335e19a03bf54bf04",
+      "batch": "104_2026-10-29",
+      "retention": "removed_by_owner_authorized_local_cleanup",
+      "verified_all_readable_lines_in_later_snapshot": true,
+      "referenced_in_active_manifest": true,
+      "referenced_in_active_progress": true
+    },
+    {
+      "path": "research/legacy/WASTES_CLEANUP_PROGRESS_PRE_104_2026-10-29.md",
+      "size_bytes": 191890,
+      "sha256": "aff25cc943b5618a5b54c8b97d9078cdb6528187a5bc046f1130658ea5a8267d",
+      "batch": "104_2026-10-29",
+      "retention": "removed_by_owner_authorized_local_cleanup",
+      "verified_all_readable_lines_in_later_snapshot": true,
+      "referenced_in_active_manifest": true,
+      "referenced_in_active_progress": true
+    },
+    {
+      "path": "research/legacy/WASTES_CLEANUP_MANIFEST_PRE_105_2026-10-29.md",
+      "size_bytes": 238383,
+      "sha256": "14974b032001be58b84b4c47cdb887eecb496280097b87dc3890419a06e32719",
+      "batch": "105_2026-10-29",
+      "retention": "removed_by_owner_authorized_local_cleanup",
+      "verified_all_readable_lines_in_later_snapshot": true,
+      "referenced_in_active_manifest": true,
+      "referenced_in_active_progress": true
+    },
+    {
+      "path": "research/legacy/WASTES_CLEANUP_PROGRESS_PRE_105_2026-10-29.md",
+      "size_bytes": 194625,
+      "sha256": "c85808bb906ad1bc530ddc5fd10c6ff138a079bff01009a9314f44ee62bdaf45",
+      "batch": "105_2026-10-29",
+      "retention": "removed_by_owner_authorized_local_cleanup",
+      "verified_all_readable_lines_in_later_snapshot": true,
+      "referenced_in_active_manifest": true,
+      "referenced_in_active_progress": true
+    },
+    {
+      "path": "research/legacy/WASTES_CLEANUP_MANIFEST_PRE_106_107_2026-10-29.md",
+      "size_bytes": 241403,
+      "sha256": "c869b40465b1e06d4199c72ce7950ed90e5ac23b42c41c90b48b5ed118561d05",
+      "batch": "106_107_2026-10-29",
+      "retention": "removed_by_owner_authorized_local_cleanup",
+      "verified_all_readable_lines_in_later_snapshot": true,
+      "referenced_in_active_manifest": true,
+      "referenced_in_active_progress": true
+    },
+    {
+      "path": "research/legacy/WASTES_CLEANUP_PROGRESS_PRE_106_107_2026-10-29.md",
+      "size_bytes": 197643,
+      "sha256": "cf723674be5113db327f8f7a00c6e492a8d36a0243a8e9d8ee7126ebda6f5eb3",
+      "batch": "106_107_2026-10-29",
+      "retention": "removed_by_owner_authorized_local_cleanup",
+      "verified_all_readable_lines_in_later_snapshot": true,
+      "referenced_in_active_manifest": true,
+      "referenced_in_active_progress": true
+    },
+    {
+      "path": "research/legacy/WASTES_CLEANUP_MANIFEST_PRE_108_2026-10-29.md",
+      "size_bytes": 244590,
+      "sha256": "88f57769d3aa9b6232226c14617798542be98e74b30518300173c7221c15ae4e",
+      "batch": "108_2026-10-29",
+      "retention": "removed_by_owner_authorized_local_cleanup",
+      "verified_all_readable_lines_in_later_snapshot": true,
+      "referenced_in_active_manifest": true,
+      "referenced_in_active_progress": true
+    },
+    {
+      "path": "research/legacy/WASTES_CLEANUP_PROGRESS_PRE_108_2026-10-29.md",
+      "size_bytes": 200826,
+      "sha256": "ad21cff167a5f17563c6ed63ddfdbee201d98e43c03fce15176491b5ad0fb1b0",
+      "batch": "108_2026-10-29",
+      "retention": "removed_by_owner_authorized_local_cleanup",
+      "verified_all_readable_lines_in_later_snapshot": true,
+      "referenced_in_active_manifest": true,
+      "referenced_in_active_progress": true
+    },
+    {
+      "path": "research/legacy/WASTES_CLEANUP_MANIFEST_PRE_109_2026-10-29.md",
+      "size_bytes": 247049,
+      "sha256": "62fef9e79ea2177ef4448e0e2c4a4b2c84feef057052242759d4ad9538d9d687",
+      "batch": "109_2026-10-29",
+      "retention": "removed_by_owner_authorized_local_cleanup",
+      "verified_all_readable_lines_in_later_snapshot": true,
+      "referenced_in_active_manifest": true,
+      "referenced_in_active_progress": true
+    },
+    {
+      "path": "research/legacy/WASTES_CLEANUP_PROGRESS_PRE_109_2026-10-29.md",
+      "size_bytes": 203283,
+      "sha256": "b5bfeab95e7be09d1f303b1186bfe5927b7ce985557aa3abfe8cb3c6f4a586a5",
+      "batch": "109_2026-10-29",
+      "retention": "removed_by_owner_authorized_local_cleanup",
+      "verified_all_readable_lines_in_later_snapshot": true,
+      "referenced_in_active_manifest": true,
+      "referenced_in_active_progress": true
+    },
+    {
+      "path": "research/legacy/WASTES_CLEANUP_MANIFEST_PRE_110_2026-10-29.md",
+      "size_bytes": 249280,
+      "sha256": "3f3aad2b59fe04e6250fb5b5dbf330a5306209900280123469c15e83e55e08bd",
+      "batch": "110_2026-10-29",
+      "retention": "removed_by_owner_authorized_local_cleanup",
+      "verified_all_readable_lines_in_later_snapshot": true,
+      "referenced_in_active_manifest": true,
+      "referenced_in_active_progress": true
+    },
+    {
+      "path": "research/legacy/WASTES_CLEANUP_PROGRESS_PRE_110_2026-10-29.md",
+      "size_bytes": 205512,
+      "sha256": "4c0dac58ff5fdddeeacdec670f5024f86fbafa371ace73f6d5e1bdb245face86",
+      "batch": "110_2026-10-29",
+      "retention": "removed_by_owner_authorized_local_cleanup",
+      "verified_all_readable_lines_in_later_snapshot": true,
+      "referenced_in_active_manifest": true,
+      "referenced_in_active_progress": true
+    },
+    {
+      "path": "research/legacy/WASTES_CLEANUP_MANIFEST_PRE_111_2026-10-29.md",
+      "size_bytes": 251740,
+      "sha256": "3f9e8c38f877352aabc1275cc2556727c0ff0e4552d1dbc1db1ac0e1d389147b",
+      "batch": "111_2026-10-29",
+      "retention": "removed_by_owner_authorized_local_cleanup",
+      "verified_all_readable_lines_in_later_snapshot": true,
+      "referenced_in_active_manifest": true,
+      "referenced_in_active_progress": true
+    },
+    {
+      "path": "research/legacy/WASTES_CLEANUP_PROGRESS_PRE_111_2026-10-29.md",
+      "size_bytes": 207970,
+      "sha256": "ab7cac02748c809df12c728cbd35aed3a1fcd21df4a88310cd563d65ae34dff9",
+      "batch": "111_2026-10-29",
+      "retention": "removed_by_owner_authorized_local_cleanup",
+      "verified_all_readable_lines_in_later_snapshot": true,
+      "referenced_in_active_manifest": true,
+      "referenced_in_active_progress": true
+    },
+    {
+      "path": "research/legacy/WASTES_CLEANUP_MANIFEST_PRE_112_2026-10-29.md",
+      "size_bytes": 254611,
+      "sha256": "a37b8d3b13aa71ecba894a454b3c19cad4990a76b872d42dc0ca0db8fcaec19e",
+      "batch": "112_2026-10-29",
+      "retention": "removed_by_owner_authorized_local_cleanup",
+      "verified_all_readable_lines_in_later_snapshot": true,
+      "referenced_in_active_manifest": true,
+      "referenced_in_active_progress": true
+    },
+    {
+      "path": "research/legacy/WASTES_CLEANUP_PROGRESS_PRE_112_2026-10-29.md",
+      "size_bytes": 209562,
+      "sha256": "a926146514b4d6ad100f312648d2b08c0fdfeae3f65a11fb07073700fac4f5c3",
+      "batch": "112_2026-10-29",
+      "retention": "removed_by_owner_authorized_local_cleanup",
+      "verified_all_readable_lines_in_later_snapshot": true,
+      "referenced_in_active_manifest": true,
+      "referenced_in_active_progress": true
+    },
+    {
+      "path": "research/legacy/WASTES_CLEANUP_MANIFEST_PRE_113_2026-10-29.md",
+      "size_bytes": 256748,
+      "sha256": "0ec1b280719f88ce0dda3219dd0bb4eb8f2a1dc75ed6f957314c2b920719d2cc",
+      "batch": "113_2026-10-29",
+      "retention": "removed_by_owner_authorized_local_cleanup",
+      "verified_all_readable_lines_in_later_snapshot": true,
+      "referenced_in_active_manifest": true,
+      "referenced_in_active_progress": true
+    },
+    {
+      "path": "research/legacy/WASTES_CLEANUP_PROGRESS_PRE_113_2026-10-29.md",
+      "size_bytes": 211067,
+      "sha256": "3761a3a7ca0b01bebe295e3638351446cb8f9597e555bb76e4a0458e28bd6edb",
+      "batch": "113_2026-10-29",
+      "retention": "removed_by_owner_authorized_local_cleanup",
+      "verified_all_readable_lines_in_later_snapshot": true,
+      "referenced_in_active_manifest": true,
+      "referenced_in_active_progress": true
+    },
+    {
+      "path": "research/legacy/WASTES_CLEANUP_MANIFEST_PRE_115_2026-10-29.md",
+      "size_bytes": 259540,
+      "sha256": "83cbab83ba1a896816f63d4dfe6d79b6cad53d89c4f41fe667312dfaeda726f1",
+      "batch": "115_2026-10-29",
+      "retention": "retain_final_pre_d052_snapshot",
+      "verified_all_readable_lines_in_later_snapshot": false,
+      "referenced_in_active_manifest": true,
+      "referenced_in_active_progress": true
+    },
+    {
+      "path": "research/legacy/WASTES_CLEANUP_PROGRESS_PRE_115_2026-10-29.md",
+      "size_bytes": 213268,
+      "sha256": "77c4263326c4e1e6b86a1eea95e0b755f701e6f54262f50d02dc3c6702e63525",
+      "batch": "115_2026-10-29",
+      "retention": "retain_final_pre_d052_snapshot",
+      "verified_all_readable_lines_in_later_snapshot": false,
+      "referenced_in_active_manifest": true,
+      "referenced_in_active_progress": true
+    }
+  ],
+  "decision_snapshots": [
+    {
+      "path": "research/legacy/DECISIONS_PRE_D049_94_2026-10-28.md",
+      "size_bytes": 33252,
+      "sha256": "135c5ec1de304804901aef109e72e5a08303f7d2c42b14f2d1df9cc2fd9a7065",
+      "retention": "removed_by_owner_authorized_local_cleanup"
+    },
+    {
+      "path": "research/legacy/DECISIONS_PRE_D050_102_2026-10-29.md",
+      "size_bytes": 34594,
+      "sha256": "a59ea894030f2a4c1cfbfb57842a477d2535dc4d6f61d1a74fb2d2491edcb8e7",
+      "retention": "removed_by_owner_authorized_local_cleanup"
+    },
+    {
+      "path": "research/legacy/DECISIONS_PRE_D051_111_2026-10-29.md",
+      "size_bytes": 36091,
+      "sha256": "e32527d9c589708ce24c52e3c1bd3f8ae68fd59a702e9cb74f1b9f69325f4005",
+      "retention": "removed_by_owner_authorized_local_cleanup"
+    }
+  ],
+  "arc_baselines": [
+    {
+      "path": "research/legacy/ARC_01_PRE_CHAPTER_III_REPAIR_98_2026-10-28.md",
+      "size_bytes": 14712,
+      "sha256": "3ed8463af7a316c461d556ff8c535a56d659ff2d50bb3e07e3a891ef38b465e5",
+      "retention": "retain_narrative_original_or_pre_rewrite_evidence"
+    },
+    {
+      "path": "research/legacy/ARC_01_PRE_E008_E009_ADDITIONS_100_2026-10-28.md",
+      "size_bytes": 15875,
+      "sha256": "ca7e951972048351cb4a8b7482bbc1c32aff19243a87d9a704f887b31bbc0548",
+      "retention": "retain_narrative_original_or_pre_rewrite_evidence"
+    },
+    {
+      "path": "research/legacy/ARC_02_PRE_FIDELITY_ADDITIONS_109_2026-10-29.md",
+      "size_bytes": 53003,
+      "sha256": "b088a9feae6eb6923f2103acbf9850d937244da157a7631c2e2fcb8b329ffa99",
+      "retention": "retain_narrative_original_or_pre_rewrite_evidence"
+    },
+    {
+      "path": "research/legacy/ARC_FOUR_PRE_D045_96_2026-10-28.md",
+      "size_bytes": 24569,
+      "sha256": "428f5e930d4d2e55de3f77f98d0809e9e6db6f3e526d75a4672c9b82be095a39",
+      "retention": "retain_narrative_original_or_pre_rewrite_evidence"
+    },
+    {
+      "path": "research/legacy/ARC_ONE_PRE_ARC02_DRAFT_103_2026-10-29.md",
+      "size_bytes": 24216,
+      "sha256": "956c0a4a6314fc09aee7f985bd7c95a6c9c6274ee958cfb0eaec557e11b39e7a",
+      "retention": "removed_by_owner_authorized_local_cleanup"
+    },
+    {
+      "path": "research/legacy/ARC_ONE_PRE_D045_96_2026-10-28.md",
+      "size_bytes": 24216,
+      "sha256": "956c0a4a6314fc09aee7f985bd7c95a6c9c6274ee958cfb0eaec557e11b39e7a",
+      "retention": "retain_verified_pre_major_restructure_baseline"
+    },
+    {
+      "path": "research/legacy/ARC_TWO_PRE_ARC03_DRAFT_112_2026-10-29.md",
+      "size_bytes": 25058,
+      "sha256": "7893a77a9f77ab94bd79e316abeb8d2c32f5c489f3ab8c7f8acb5318687c5f38",
+      "retention": "retain_narrative_original_or_pre_rewrite_evidence"
+    }
+  ]
+}
