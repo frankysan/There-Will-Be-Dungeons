@@ -142,7 +142,7 @@ The following are **chapter proposals**, not verified coverage ledgers. An episo
 
 **Edge:** The collapse of Elhandar and shared return to Earth close the first-season main sequence, not the entire threat.
 
-### Proposed Arc 10 — Across the Stars
+### Arc 10 — Across the Stars (historical seven-chapter proposal; superseded by D-060)
 
 1. Wreckage, the Or'Nath vessel and its ghost-elf identity (S2E01–S2E02).
 2. Council on Mars and the enemy's reach (S2E03–S2E04).
@@ -153,6 +153,20 @@ The following are **chapter proposals**, not verified coverage ledgers. An episo
 7. Hell ambush, injury, Mars journey and the company remade (S3E01–S3E03).
 
 **Edge:** The ending is recovery/return to Mars rather than a manufactured resolution at the Season Two finale.
+
+**D-060 supersession (owner-approved, 2026-10-29):** The historical seven-chapter outline above is retained for comparison only. **The current approved Arc10 chapter distribution is nine chapters** with the **same D-045 episode boundaries** (S2E01–S2E12, S3E01–S3E03); the early Season Three material is divided into three chapters rather than one:
+
+1. **I — The ship that remembers** (S2E01–S2E02).
+2. **II — Council and many Nashes** (S2E03–S2E04).
+3. **III — Planet Nash and the old bank** (S2E05–S2E06).
+4. **IV — Beyond the nebula** (S2E07–S2E08).
+5. **V — The prisoner's price** (S2E09–S2E10).
+6. **VI — Song, ring and rebirth** (S2E11–S2E12).
+7. **VII — Chrome in the void** (S3E01).
+8. **VIII — The Hand taken** (S3E02).
+9. **IX — The journey home to Mars** (S3E03).
+
+[Arc10 source/legacy crosswalk](WASTES_CLEANUP_MANIFEST.md) assigns 115 distinct first-edition story paragraphs provisionally without duplication. Owner approval includes **unpublished drafting of Chapters I–II only** in [the living manuscript](WASTES_ARC10_UNPUBLISHED_DRAFT.md) as Batch153; Chapters III–IX, numeric integration, owner acceptance and public navigation remain separately gated. **S3E04 is Arc11** and is not drawn back into Arc10 merely because the original six-arc narrative runs continuously through the seasons.
 
 ### Proposed Arc 11 — The Last War
 
