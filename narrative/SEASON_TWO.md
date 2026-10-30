@@ -1,3 +1,5 @@
-# Redirect — Arc Six (Seasons Two–Three)
+# Season Two — The journey beyond Earth
 
-The Season Two narrative and its Season Three continuation are currently available together in the legacy [Arc Six — The Wastes](ARC_SIX.md). Season Two ends at [S2E12](../episodes/S2E12.md), **but the story continues through the played campaign finale at [S3E18](../episodes/S3E18.md)**. The owner has approved an [eleven-arc reading structure](../project/WASTES_NARRATIVE_CHAPTER_MAPS.md) ([D-045](../project/DECISIONS.md)), but the replacement Arc 10 and Arc 11 pages have **not yet been implemented**. This filename and its Arc Six link remain as compatibility navigation until the new reading order and links have been validated.
+Follow [Arc 10 — Across the Stars](ARC_10.md) for Season Two (S2E01–S2E12) and the continuing journey through S3E03. The story does **not** stop at the [S2E12](../episodes/S2E12.md) season boundary: it carries on into Season Three, then reaches [Arc 11 — The Last War](ARC_11.md) from S3E04 through the [played finale, S3E18](../episodes/S3E18.md).
+
+This page remains as a season-oriented compatibility route. The complete original Seasons Two–Three account is preserved, unchanged, as [historic Arc Six — The Wastes](ARC_SIX.md); for the complete eleven-arc order see the [story guide](README.md).

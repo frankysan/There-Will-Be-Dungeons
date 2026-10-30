@@ -1,32 +1,43 @@
 # The Wastes — story guide
 
-Nash, Hope, Stanley and Vorel travel from Dusthill into a world of ancient machinery, contested power and dangerous bargains. Follow their journey through the six narrative accounts currently available, from their first commissions to the final struggle for Earth. Full campaign spoilers follow.
+Four travelers meet in Dusthill and set out into a world of ancient engines, lost kingdoms, uneasy bargains and distant stars. The story of Nash, Hope, Stanley and Vorel unfolds across eleven arcs, from the first broken waterworks to the last struggle for Earth. **Full campaign spoilers follow.**
 
-## Five completed Season One arcs
+## Read the eleven-arc story
 
-- **[Arc One — Becoming the Heroes of the Wastes](ARC_ONE.md)** — Four travelers meet in Dusthill and follow a trail of captives into Slavetown and the Black Mine. They emerge with a new name, a troubling bargain and little agreement on what their growing power is for.[^arc-1]
+| Arc | Story | Journey |
+| --- | --- | --- |
+| **01** | [Beginnings in Dusthill](ARC_01.md) | Four strangers become reluctant allies beneath a settlement's failing machinery |
+| **02** | [Chains and Bargains](ARC_02.md) | Slavetown, the Black Mine and a bargain that will follow the companions |
+| **03** | [Road to a Lost Kingdom](ARC_03.md) | A journey toward T'ietkalla tests old loyalties and Hope's future |
+| **04** | [The Crown of T'ietkalla](ARC_04.md) | Lost prisoners, a perilous descent and the struggle for a throne |
+| **05** | [Kings and Consequences](ARC_05.md) | New responsibilities, Razak Val and a promise to rescue a child |
+| **06** | [Beneath the World](ARC_06.md) | Khaervilon, CHIDS and a devastating choice at the Traversal Drive |
+| **07** | [The City of Doors](ARC_07.md) | The scattered friends survive Sigil and a battle at White Tower |
+| **08** | [Separate Paths](ARC_08.md) | Hope's departure divides the company across dangerous worlds |
+| **09** | [The Fall of Elhandar](ARC_09.md) | Reunion, an extraordinary refuge and an invasion beneath Earth |
+| **10** | [Across the Stars](ARC_10.md) | Fate Six carries the companions through Mars, Planet Nash and Pentel Weiss |
+| **11** | [The Last War](ARC_11.md) | Solar Mines, the Worldbreaker and the long-awaited return of life to Earth |
 
-- **[Arc Two — The Road to the Crown](ARC_TWO.md)** — The road to T'ietkalla draws the companions into a struggle for a lost kingdom. Betrayal, grief and the archfey within Stanley shadow Hope's ascent to the throne.[^arc-2]
+**Reading boundaries:** [E101 — A New Hope](../episodes/E101.md) ends Arc 07 at Hope's departure and begins Arc 08 after it; it is one played episode, not two. Season Two and the first three played episodes of Season Three belong to Arc 10; Arc 11 begins at S3E04 and ends with the [played finale, S3E18](../episodes/S3E18.md).
 
-- **[Arc Three — A World Worth Saving](ARC_THREE.md)** — Rebuilding gives way to catastrophe, and a promise to rescue a stolen child leads beneath the world. At the heart of an ancient machine, the four must decide who should bear the price of saving Earth.[^arc-3]
+[Campaign overview](../wastes/README.md) · [World, lore and history](../world/README.md) · [Earlier history and one-shots](../wastes/README.md#earlier-history-and-related-adventures).
 
-- **[Arc Four — The Price of a Way Home](ARC_FOUR.md)** — Lost in the City of Doors, the companions fight to reclaim one another and find a road home. Their search carries them to a besieged tower, where Hope takes hold of a power that divides them.[^arc-4]
+<a id="historic-first-edition"></a>
 
-- **[Arc Five — No Place Like Home](ARC_FIVE.md)** — Hope pursues the Voice's promises while her friends struggle to return to Earth. Reunion brings a fragile refuge among the stars, but the fall of Elhandar leaves them together in the Wastes as a monstrous new threat burrows into their world.[^arc-5]
+## Historic first edition — six arcs
 
-## Arc Six — Beyond Earth and the final struggle
+The original six-arc reading order remains available **unchanged**, including its long combined account of Seasons Two and Three. These historical paths are preserved for existing bookmarks, citations and comparison with the later eleven-arc edition. The numbering does not map one-to-one.
 
-**[Arc Six — The Wastes (Seasons Two–Three)](ARC_SIX.md)** carries the companions beyond Earth and toward a final struggle for its survival. The Worldbreaker is permanently banished and the Principal falls in S3E17. In [S3E18 — Chrome, Chrome on The Range](../episodes/S3E18.md), the Rubistic Triangulosphere restores Earth and ends its mana-wave powers. Monsoon's farewell follows, and the Moon's Council of Faces is revealed.
-
-Nash becomes a new chrome Principal and destroys the lunar facility, dying in the process. Stanley brings him back with *Wish*/*True Resurrection*. Nash chooses life with Angelashi and their four children on Planet Nash; Vorel returns to rebuild Razak Val and gains the title “Friend”; Hope receives the crown-shaped mask and Fate Six for the restoration of T'ietkalla; Stanley crosses into the Feywild. The final fictional epilogue suggests an apparent second Nash whose identity remains unexplained; it is not another played arc.
-
-[Campaign overview](../wastes/README.md) · [World, lore and history](../world/README.md).
+- [Arc One — Becoming the Heroes of the Wastes](ARC_ONE.md) (corresponds to new 01–02).[^arc-1]
+- [Arc Two — The Road to the Crown](ARC_TWO.md) (new 03–04).[^arc-2]
+- [Arc Three — A World Worth Saving](ARC_THREE.md) (new 05–06).[^arc-3]
+- [Arc Four — The Price of a Way Home](ARC_FOUR.md) (new 07).[^arc-4]
+- [Arc Five — No Place Like Home](ARC_FIVE.md) (new 08–09).[^arc-5]
+- [Arc Six — The Wastes (Seasons Two–Three)](ARC_SIX.md) (new 10–11).
 
 ## Sources and project notes
 
-The five completed Season One arcs follow the companions from Dusthill through E128. [Arc Six](ARC_SIX.md) continues across Season Two (12 episodes) and Season Three (18 played episodes); [S3E18](../episodes/S3E18.md) concludes both that arc and the played Wastes campaign. [S3E019 — Round Up](../sources/The%20Wastes%20S3E019.%20The%20Wastes%20Round%20Up.parakeet.processed.srt) is a cast roundtable, not a seventh played arc. The [played finale dossier](../episodes/S3E18.md) and [paired ASR audit](../reports/WASTES_S3E18_ASR_COMPARISON_2026-10-27.md) retain the finale's processed-source research; the [S3E019 cast roundtable dossier](../episodes/S3E019.md) and [paired ASR report](../reports/WASTES_S3E019_ROUNDUP_ASR_COMPARISON_2026-10-27.md) document retrospective GM commentary and unused plans, not new campaign scenes. Full campaign spoilers.[^guide]
-
-**Approved upcoming structure, not yet implemented:** The owner accepted [eleven shorter arcs and their episode boundaries](../project/WASTES_NARRATIVE_CHAPTER_MAPS.md) on 2026-10-27 ([D-045](../project/DECISIONS.md)). The links below remain the **currently available six-arc reading order** while the [migration plan](../project/WASTES_CAMPAIGN_CLEANUP_PLAN.md) completes preservation, scene coverage and compatibility checks. Do not treat the old six-arc layout as the final adopted organization.
+The approved eleven-arc boundaries are recorded in the [chapter map](../project/WASTES_NARRATIVE_CHAPTER_MAPS.md). The eleven numeric editions are source-linked narrative syntheses, not independently audio-verified transcripts; the six original files remain historical first editions. The main-story chronology excludes the separately played [E043](../episodes/E043.md) and [E127](../episodes/E127.md) one-shots, places the E107–E109 *Dunebreaker* prequel long before Dusthill, and includes the E013.5 supplemental at its fictional point. [S3E019 — The Wastes Round Up](../episodes/S3E019.md) is cast/GM commentary, not a further played arc. The [finale dossier](../episodes/S3E18.md), [paired ASR review](../reports/WASTES_S3E18_ASR_COMPARISON_2026-10-27.md), [roundtable dossier](../episodes/S3E019.md) and [paired ASR report](../reports/WASTES_S3E019_ROUNDUP_ASR_COMPARISON_2026-10-27.md) retain their original evidence distinctions.[^guide]
 
 ### Notes
 

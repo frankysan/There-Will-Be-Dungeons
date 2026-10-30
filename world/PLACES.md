@@ -49,14 +49,20 @@ Travel through the settlements, ruins, planes and distant destinations of The Wa
 
 ## Story routes — not a surveyed map
 
-| Period | Principal path |
+| Period | Principal places and transitions |
 | --- | --- |
-| **Arc One** | Dusthill → desert/Leopold → Slavetown → Black Mine → Château Weir → Liberators' refuge |
-| **Arc Two** | Golden Land/oil sands → Trashburg and T'ietkalla keep → underground throne and war → Hope's coronation |
-| **Arc Three** | T'ietkalla → Razak Val → loss of Fate 4 → Khaervilon → CHIDS → Traversal Drive |
-| **Arc Four** | Sigil → Hive investigations → Traveler's Twin/Outlands → White Tower → Hope departs inside E101 |
-| **Arc Five through E126** | Parallel journeys through Sigil, Hell, Gray Waste/Pandemonium, devastated T'ietkalla, an alternate Nash's asteroid and **Elhandar** |
-| **Historical prequel** | **Dunebreaker E107–E109**, played **long before Dusthill**, though published between E106 and E110 |
+| **[Arc 01 — Beginnings in Dusthill](../narrative/ARC_01.md)** | Dusthill's buried waterworks → the surrounding desert → Leopold's underground facility |
+| **[Arc 02 — Chains and Bargains](../narrative/ARC_02.md)** | Road to Slavetown → captivity and Black Mine → Château Weir → Liberators' refuge |
+| **[Arc 03 — Road to a Lost Kingdom](../narrative/ARC_03.md)** | Golden Land and oil sands → Trashburg → the approaches to T'ietkalla |
+| **[Arc 04 — The Crown of T'ietkalla](../narrative/ARC_04.md)** | The Pit and caverns beneath T'ietkalla → the keep, prison and throne → Hope's coronation |
+| **[Arc 05 — Kings and Consequences](../narrative/ARC_05.md)** | T'ietkalla → Razak Val and its changing lands → the road of the lost child |
+| **[Arc 06 — Beneath the World](../narrative/ARC_06.md)** | Khaervilon → CHIDS and its underground departments → Traversal Drive |
+| **[Arc 07 — The City of Doors](../narrative/ARC_07.md)** | Sigil → the Outlands and other routes → White Tower, ending with Hope's departure in E101 |
+| **[Arc 08 — Separate Paths](../narrative/ARC_08.md)** | Divided journeys through Sigil, Hell and other planes; Hope and her companions take separate routes after E101 |
+| **[Arc 09 — The Fall of Elhandar](../narrative/ARC_09.md)** | Elhandar and the Harbor → distant refuge → the wreck and the return to Earth by E128 |
+| **[Arc 10 — Across the Stars](../narrative/ARC_10.md)** | Villa Or'Nath / Fate Six → Mars → Planet Nash → Blast Belly Burp → Pentel Weiss → Mars |
+| **[Arc 11 — The Last War](../narrative/ARC_11.md)** | Mars → Solar Mines → Château Weir and Hell → Earth, Moon and Planet Nash → the companions' separate homes |
+| **Historical prequel** | **Dunebreaker E107–E109**, set **long before Dusthill**, although released between E106 and E110 |
 
 The route arrows are **narrative transitions**, not claims that every transfer was direct, land-based or measured. Source dossiers distinguish *visited*, *seen remotely*, *proposed*, *reported* and *actually reached*. A Gray Waste portal proposed in E112 is not an E112 visit to Pandemonium; the party physically reaches Pandemonium in E113.
 
