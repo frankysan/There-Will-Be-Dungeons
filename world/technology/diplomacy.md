@@ -2,11 +2,21 @@
 
 **Identity:** Enchanted sword once held by **Stanley Billings**, named **Diplomacy** (not an Elhandari new-issue weapon). [Stanley](../characters/stanley-billings.md) · [Hope](../characters/hope-akmenos.md) · [Items directory](../ITEMS_AND_ARTIFACTS.md).
 
+## Earlier history — failed recall, cross-history counterpart and returned loan
+
+In [E089](../../episodes/E089.md), Stanley tries to call **“Parley”**, associated with his earlier sword/megaphone, but **nothing responds**; this is a **failed attempted recall**, not proof of destruction. In [E110](../../episodes/E110.md), Stanley **actually collects a *Diplomacy* counterpart** from Badass T's cache of objects preserved **in another history**. He later uses it against a nycaloth, and **Vorel grabs the heated blade, kills the creature and returns it to Stanley**. Its **exact same-object identity with the original sword is not independently established**; do not turn the alternative-history recovery into retroactive proof of where the earlier missing object physically traveled.
+
+In [S2E08](../../episodes/S2E08.md), **Vorel borrows Stanley's magical *Diplomacy* with permission** inside Pentel Weiss, actually wounds the tentacled guardian with it when ordinary attacks fail, and **physically returns it to Stanley** after the party escapes. This is a **temporary loan and performed return**, not a lasting change of owner. The later explicit transfer to Hope happens in S3E03.
+
+## S3E01–S3E04 — Stanley's use and physical transfer to Hope
+
 In [S3E01](../../episodes/S3E01.md), Stanley directs **Diplomacy** as a magically hovering combat weapon while attacking Hell's boarding force; *Power Word Stun* later immobilizes him. In [S3E02](../../episodes/S3E02.md) ~00:06:45, it returns toward the stunned Stanley and **actually drops at his feet**, unable to return to his grip. He **uses other magic to aid the fight**, not a demonstrated new enchantment to the sword.
 
 **Actual custody transfer (S3E03):** During the friends' reunion dinner on Mars in [S3E03 — Hammer Giggle](../../episodes/S3E03.md) (~02:21:25–02:22:25), **Stanley actually unsheathes *Diplomacy*, places it before Hope, asks her to put it to use, and Hope accepts it by the hilt**. This is a completed, voluntary handover to **Hope Akmenos**, not to the Principle; it is distinct from her separately stolen **Hand of the Voice**. The sword remains Hope's last confirmed property. By the S3E03 cutoff no battle use by Hope or newly declared sword property is shown. [S3E03 two-ASR audit](../../reports/WASTES_S3E03_ASR_COMPARISON_2026-10-26.md).
 
 **S3E04 equipment status:** Stanley selects a separate +2 rapier and armor after augmentation; Hope takes her own +2 rapier, armor and shield. **Neither transfers *Diplomacy* back**, and the planned Solar Mines attack has not yet begun. [S3E04](../../episodes/S3E04.md).
+
+## S3E06–S3E10 — repeated out-of-range moves and renewed control
 
 **S3E06 battlefield status:** At the northern Solar Mines gate, Hope **ACTUALLY DEPLOYS the hovering sword in combat, and it PIERCES the Umbilical Paladin's armor**. After a natural-one control mishap, it **travels beyond her 30-foot command range and is NOT shown recovered by cutoff**. Hope remains the last confirmed owner, but the sword's physical position and retrieval are **UNRESOLVED**, not assumed back in her hand. [S3E06 dossier](../../episodes/S3E06.md) · [P/Q comparison](../../reports/WASTES_S3E06_ASR_COMPARISON_2026-10-26.md).
 
@@ -16,6 +26,8 @@ In [S3E01](../../episodes/S3E01.md), Stanley directs **Diplomacy** as a magicall
 
 **S3E10 — Hope ACTUALLY REGAINS OPERATIONAL CONTROL:** In [played S3E10](../../episodes/S3E10.md) **~02:02–02:15**, after S3E09's *Diplomacy* NAT1 out-of-control-range event on the Walmart floor, **HOPE ACTUALLY WHIPS OUT ANIMATED FLOATING *DIPLOMACY* AGAIN, DECLARES “PARLAY” and commands it to HIT THE KUROMOKISHI WITH SAI FOR 11 and NEXT THE NUNCHUCK/BLUNDERBUSS GUARD FOR 16**. This is **real witnessed restored operational sword use**, despite **NO explicit intervening physical retrieval scene**. The sword is **NOT shown falling out of range or lost AGAIN in S3E10**, so at episode cutoff it remains effectively **under Hope's combat control**; avoid treating S3E09's out-of-range position as guaranteed current custody. **Hope's other NAT1 accident here was HER OWN +2 RAPIER redirected into Vorel's foot (16), NOT the floating sword**. [S3E10 audit](../../reports/WASTES_S3E10_ASR_COMPARISON_2026-10-27.md), audio unchecked.
 
+## S3E12 — sword used as transport during shattered-Weir escape
+
 **S3E12 — sword actually used to escape shattered Weir:** In [played S3E12](../../episodes/S3E12.md) ~00:56–01:04, after GM-adjudicated defeat of SOULBROKER and the REALITY RIFTS that threatened to pull the party into unknown adjacencies, **HOPE PHYSICALLY ACTIVATES FLOATING SWORD *DIPLOMACY*, HOLDS ONTO IT AND COMMANDS ITS FLYING MOVEMENT (~15 FT through difficult terrain) WHILE CARRYING/RIDING WITH VOREL**, helping her navigate toward the PRINCIPLE'S escape portal before **DRAGON-FORM NASH DUPLICATES FINALLY LIFT HOPE, STANLEY AND VOREL TO SAFETY**. **THIS IS ACTUAL RENEWED OPERATIONAL CONTROL**; no new 30-foot-out-of-range natural-one or forced permanent loss of sword played here. Exact sword location in VIP Hell casino after subsequent portal not separately declared, but no narrated loss/destruction. [S3E12 audit](../../reports/WASTES_S3E12_ASR_COMPARISON_2026-10-27.md), no audio.
 
 ## Final battle and latest known status
@@ -23,6 +35,8 @@ In [S3E01](../../episodes/S3E01.md), Stanley directs **Diplomacy** as a magicall
 In [played S3E16](../../episodes/S3E16.md) ~02:00–02:17, Hope **actually commands the hovering *Diplomacy* against the Principal**, but her attack roll of **13 misses**. She then hits the same opponent with her **separate +2 rapier**. The sword is therefore operating under her command again in this encounter, but it is **not credited with any damage**; the episode does not narrate the intervening physical pickup from either earlier out-of-range incident.[^diplomacy-s3e16]
 
 Hope remains **the last directly demonstrated custodian and user** of *Diplomacy*. The [S3E17](../../episodes/S3E17.md) and [S3E18](../../episodes/S3E18.md) episode dossiers record no later use, return to Stanley, destruction or independently checked final equipment inventory for this sword. **Its exact final physical location is unverified**, not evidence that it was lost after S3E16 or recovered in an unshown scene.[^diplomacy-final]
+
+**Custody/effect distinction:** The **S3E03 hand-to-hand gift establishes Hope as the last explicitly confirmed recipient and owner**. Her S3E07, S3E10, S3E12 and S3E16 commands establish that she **can again operate the animated sword at those moments**, even though **the intermediate physical pickups after the S3E06 and S3E09 out-of-range rolls are not narrated**. S3E16's missed sword attack proves control, **not a damaging hit, final packing of the blade or permanent possession after the battle**. The **+2 rapier** used for successful attacks remains a **different weapon**; the **Hand of the Voice** remains another distinct object. A silent S3E18 inventory is **not proof of recovery, loss or destruction**.
 
 [^diplomacy-s3e16]: [S3E16 played dossier](../../episodes/S3E16.md), ~02:00–02:17 and Hope's episode-end equipment note. Attack with *Diplomacy* misses (13); the successful +2 rapier attacks are distinct. ASR-derived; original audio not independently checked.
 [^diplomacy-final]: [S3E17](../../episodes/S3E17.md) and [S3E18](../../episodes/S3E18.md) maintained episode dossiers were examined for further *Diplomacy* use or a final inventory check, with none found. This absence of recorded follow-up is not definitive proof of an item loss or transfer.
