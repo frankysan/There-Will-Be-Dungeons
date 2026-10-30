@@ -2,21 +2,9 @@
 
 **Identity:** The **Hollow Ring**, a rechargeable planar-transport artifact previously worn/carried with Hope's **supernatural Hand of the Voice**, which the Principle physically stole from Hope in [played S3E02](../../episodes/S3E02.md). It is **not** the necklace of transformations used by Doctor Spider, nor the Ring of Brett. Primary direct mechanics and custody evidence in [S3E11 — Two Wrongs](../../episodes/S3E11.md) and its [two-ASR comparison](../../reports/WASTES_S3E11_ASR_COMPARISON_2026-10-27.md).
 
-## S3E15 — Hope's two Sigil/Earth crossings are the Principle's portals, NOT Hollow Ring
-
-[Played S3E15](../../episodes/S3E15.md) **~01:35–01:48**: TARRASQUE bites and GRAPPLES HOPE/PRINCIPLE in rotating mouth; **PRINCIPLE ACTUALLY OPENS PORTAL TO SIGIL, TAKES HOPE THROUGH**, then **PRINCIPLE OPENS SECOND PORTAL BACK EARTH**, both return ALIVE on powered windboards. **HOPE DOES NOT ACTIVATE HOLLOW RING, DOES NOT RECHARGE THROUGH EVIL ACT, DOES NOT PERFORM *GATE* HERSELF**; ring still in HOPE'S POSSESSION, ZERO CHARGES observed since S3E11. [P/Q audit](../../reports/WASTES_S3E15_ASR_COMPARISON_2026-10-27.md), no audio.
-
 ## Rules explained at the S3E11 table
 
 Around **00:49–00:57**, GM/players find the character-sheet item and read/adjudicate **ONE CHARGE** to cast a **modified 9th-level *Gate***, forming a circular portal to a precise location on a different plane that the bearer can conceive. **Recharge condition: user must commit an EVIL ACT within a small radius of the ring**. **Parakeet (P) says SIXTY FEET; Qwen (Q) says SIX FEET** for radius—**audio / original item sheet required**; do not silently select one as canonical. The GM explicitly says he does **not remember** whether ring was charged last time, then **rules IT CURRENTLY HAS ONE CHARGE, likely because the Principle had done something sufficiently evil**. This is **GAME-MASTER STATE DECISION**, **not a new onscreen evil act, nor verification of past charge bookkeeping**. Gate requires target location precise enough; the party has visited Château Weir before, and Hope knows its courtyard/throne areas.
-
-## S3E13 — Hell departure accomplished WITHOUT ring; charge still zero
-
-In [played S3E13](../../episodes/S3E13.md) the protagonists **LEAVE HELL ONLY WHEN BRETT/ASMODEUS HIMSELF SNAPS ALL FOUR BACK TO EARTH AFTER PHYSICALLY TAKING NASH'S METAL HEART**, and they ACCEPT no new obligation to retrieve Eye or kill Principle. **NO HOLLOW RING *GATE*, NO EVIL ACT BY HOPE, NO ATTUNEMENT CHANGE TO ANOTHER PARTY MEMBER, NO RECHARGE, STILL ZERO CHARGES**, so a claim that Hope “used her portal ring to escape Hell” is **FALSE**. At S3E13 cutoff HEROES on EARTH/SOLAR MINES; Hope still has ring unless later physical removal shown; using it for SIGIL/WHITE TOWER is a **CONSIDERED FUTURE OPTION only**, with **evil act requirement a deterrent**. [S3E13 audit](../../reports/WASTES_S3E13_ASR_COMPARISON_2026-10-27.md).
-
-## S3E12 — still Hope's, no charge, no performed evil recharge or escape
-
-In [played S3E12](../../episodes/S3E12.md), after the Soulbroker is defeated, the party ACTUALLY ENDS UP IN HELL with BRETT/ASMODEUS negotiating terms of release. **HOPE STILL WEARS/PHYSICALLY POSSESSES THE SAME HOLLOW RING** returned by Principle S3E11; its **SOLE *GATE* CHARGE WAS CONSUMED when she traveled to Château Weir, so CURRENT CHARGE = ZERO**. A GM/party exchange **REAFFIRMS “WEARER MUST COMMIT AN EVIL ACT TO RECHARGE”**; **NO ACTUAL EVIL ACT, NEW BINDING/ATTUNEMENT TO ANOTHER HERO, RECHARGE, GATE OR HELL ESCAPE IS PERFORMED**. Players **DEBATE** whether someone else can bear ring after 8-hour attunement, and whether to go **WHITE TOWER / SOLAR MINES CORE / PRIME EARTH**; purely future plans, NOT actual chosen destination or successful bypass of bargain. **Distinct from complete RUBY**, left behind inside *Otiluke's Resilient Sphere* in SOLAR MINES S3E11; Hope retains Ruby remote. [P/Q source audit](../../reports/WASTES_S3E12_ASR_COMPARISON_2026-10-27.md); original audio unchecked.
 
 ## Physically performed S3E11 sequence
 
@@ -25,5 +13,21 @@ In [played S3E12](../../episodes/S3E12.md), after the Soulbroker is defeated, th
 3. Hope **ACTUALLY PUTS ON THE RING, ATTUNES IMMEDIATELY and CASTS modified *GATE*** to **CHÂTEAU WEIR COURTYARD**; portal opens and **HOPE + PRINCIPLE + STANLEY + VOREL + MAIN NASH** really cross. Principle waits while others enter and does not leave Earth alone.
 4. **STANLEY PHYSICALLY REACTIVATES MASK OF ELTANFAWR *FORESIGHT* (-10 maximum HP) en route**; this effect is from DIFFERENT OBJECT, not Hollow Ring.
 5. HOPE **ACTUALLY CLOSES PORTAL** with all five inside Weir; **HOLLOW RING ONE CHARGE IS EXPLICITLY CONSUMED AND NOW ZERO**. **NO further recharge or subsequent casting shown by S3E11 cutoff**. Ruby is **NOT GATED TO WEIR**; it stays behind in *Otiluke's Resilient Sphere* in the Solar Mines chamber, while Hope keeps **Ruby remote** as a DIFFERENT ITEM.
+
+## S3E12 — still Hope's, no charge, no performed evil recharge or escape
+
+In [played S3E12](../../episodes/S3E12.md), after the Soulbroker is defeated, the party ACTUALLY ENDS UP IN HELL with BRETT/ASMODEUS negotiating terms of release. **HOPE STILL WEARS/PHYSICALLY POSSESSES THE SAME HOLLOW RING** returned by Principle S3E11; its **SOLE *GATE* CHARGE WAS CONSUMED when she traveled to Château Weir, so CURRENT CHARGE = ZERO**. A GM/party exchange **REAFFIRMS “WEARER MUST COMMIT AN EVIL ACT TO RECHARGE”**; **NO ACTUAL EVIL ACT, NEW BINDING/ATTUNEMENT TO ANOTHER HERO, RECHARGE, GATE OR HELL ESCAPE IS PERFORMED**. Players **DEBATE** whether someone else can bear ring after 8-hour attunement, and whether to go **WHITE TOWER / SOLAR MINES CORE / PRIME EARTH**; purely future plans, NOT actual chosen destination or successful bypass of bargain. **Distinct from complete RUBY**, left behind inside *Otiluke's Resilient Sphere* in SOLAR MINES S3E11; Hope retains Ruby remote. [P/Q source audit](../../reports/WASTES_S3E12_ASR_COMPARISON_2026-10-27.md); original audio unchecked.
+
+## S3E13 — Hell departure accomplished WITHOUT ring; charge still zero
+
+In [played S3E13](../../episodes/S3E13.md) the protagonists **LEAVE HELL ONLY WHEN BRETT/ASMODEUS HIMSELF SNAPS ALL FOUR BACK TO EARTH AFTER PHYSICALLY TAKING NASH'S METAL HEART**, and they ACCEPT no new obligation to retrieve Eye or kill Principle. **NO HOLLOW RING *GATE*, NO EVIL ACT BY HOPE, NO ATTUNEMENT CHANGE TO ANOTHER PARTY MEMBER, NO RECHARGE, STILL ZERO CHARGES**, so a claim that Hope “used her portal ring to escape Hell” is **FALSE**. At S3E13 cutoff HEROES on EARTH/SOLAR MINES; Hope still has ring unless later physical removal shown; using it for SIGIL/WHITE TOWER is a **CONSIDERED FUTURE OPTION only**, with **evil act requirement a deterrent**. [S3E13 audit](../../reports/WASTES_S3E13_ASR_COMPARISON_2026-10-27.md).
+
+## S3E15 — Hope's two Sigil/Earth crossings are the Principle's portals, NOT Hollow Ring
+
+[Played S3E15](../../episodes/S3E15.md) **~01:35–01:48**: TARRASQUE bites and GRAPPLES HOPE/PRINCIPLE in rotating mouth; **PRINCIPLE ACTUALLY OPENS PORTAL TO SIGIL, TAKES HOPE THROUGH**, then **PRINCIPLE OPENS SECOND PORTAL BACK EARTH**, both return ALIVE on powered windboards. **HOPE DOES NOT ACTIVATE HOLLOW RING, DOES NOT RECHARGE THROUGH EVIL ACT, DOES NOT PERFORM *GATE* HERSELF**; ring still in HOPE'S POSSESSION, ZERO CHARGES observed since S3E11. [P/Q audit](../../reports/WASTES_S3E15_ASR_COMPARISON_2026-10-27.md), no audio.
+
+## Current status
+
+**Last explicit physical custody:** Hope wears *Hollow Ring* in [S3E12](../../episodes/S3E12.md), with its lone S3E11 *Gate* charge already spent. [S3E13](../../episodes/S3E13.md) and [S3E15](../../episodes/S3E15.md) show other characters transporting the party by their own magic, **not** a second use of the ring. The maintained [S3E16](../../episodes/S3E16.md), [S3E17](../../episodes/S3E17.md) and [S3E18](../../episodes/S3E18.md) dossiers document no later *Hollow Ring* recharge, activation or custody transfer; they also provide **no independently witnessed final inventory check**. The last demonstrated charge state is **zero**, not proof the ring was destroyed or that it was necessarily still physically with Hope at the final scene. Original audio remains unchecked.
 
 **Uncertainties:** Precise written label “Hollow Ring” GM-confirmed, previously taken with Hand; **recharge radius 6 vs 60 feet** conflicting ASRs. An exact evil act to recharge initially is not observed. No demonstrated ability to bridge different TIMES, ignore precision rules, open portals at-will without charge or guarantee safety inside another plane. **ASR text only; original audio not listened to.** [Items directory](../ITEMS_AND_ARTIFACTS.md) · [Hope](../characters/hope-akmenos.md).
