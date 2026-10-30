@@ -1,6 +1,6 @@
 # Dual-color portal device — CHIDS secure laboratory apparatus
 
-> **Working descriptive name only.** No canon product/model label has been verified. This page tracks the **observed red/green portal apparatus** from [E075](../../episodes/E075.md) through [E079](../../episodes/E079.md), not a general rule for every ancient portal or a modern commercial device. **Processed-ASR source, not audio-verified.**
+> **Working descriptive name only.** No canon product/model label has been verified. This page tracks the **observed red/green portal apparatus** and its distinct weapon mode from [E075](../../episodes/E075.md) through **last directly documented use in [E080](../../episodes/E080.md)**, with E081–E082 custody limits. It is not a general rule for every ancient portal or a modern commercial device, and it is **not the larger Traversal Drive**. **Processed-ASR source, not audio-verified.**
 
 ## Acquisition and construction
 
@@ -33,6 +33,16 @@ The device is **not the Traversal Drive**. It is a smaller **locally retrieved p
 **E078:** The CHIDS hive calls the existing device **the 'displacement gun'** and considers it valuable against illithids. **Hope retains it** as the party receives other weapons. It is **not one of the new red Vorpal Laser Swords**, nor the high-power **Traversal Drive**.
 
 **E079:** With the party halted by a **four-finger handprint lock set into crystalline cave**, a **severed illithid hand fails to open the door**. Hope **first creates a green endpoint on the near side**, then Stanley **takes Hope through Dimension Door** to the far side. From there Hope fires **the matching red endpoint** so the others can **actually cross**. The door itself has not been unlocked; **the party leaves the portals available for retreat**. Later, Hope **fires both rockets from her separate launcher**, **not the displacement gun's neutralization beam**, into the engineering chamber. Keep these equipment functions separate in the event chronology.
+
+## E080 — last documented handheld use; neutralization attack evaded
+
+In [E080](../../episodes/E080.md), **Hope still possesses the one portable portal device and actually fires its separate necrotic neutralization mode at the surviving large illithid commander**. The target **evades her attempts**; do **not** credit the handheld beam with a hit or the eventual defeat. **Nash's recharged acid breath kills the commander**, while Dolo Popio survives at that cutoff. Hope's **two rockets were already spent in E079**, and Stanley's animated ordinary pipes are yet another weapon. This is the **latest positively documented firing and custody of the portable device** in the CHIDS E075–E082 source sequence; no additional range, charges or fuel limits are established.
+
+## E081–E082 — separate Drive console and unresolved device whereabouts
+
+In [E081](../../episodes/E081.md), **Hope examines and adjusts the large Traversal Drive's built-in frequency/color controls**, and Eddie later operates those machine controls as the four protagonists enter the crimson beam. These are **not demonstrated operations of Hope's portable red/green portal device or its neutralization mode**. The E081 dossier does **not separately narrate a further handheld firing, transfer, destruction or inventory check**, even though the scene includes Hope's equipment and the protagonists' dispersal into white light. **Sira and Eddie remain outside the beam**; this does not make either of them the portable device's new custodian.
+
+In [E082](../../episodes/E082.md), **Hope's body is found motionless in Sigil without her former metal arm and leg**, while Vorel has lost his ordinary kit, Nash is a conscious floating heart, and Stanley is still described as dead. **No separately witnessed recovery, possession, operation or destruction of the portal device is established in that episode**. The latest **confirmed holder and user remains Hope at E080**, but this is **not proof she retains the device in Sigil or at the campaign finale**. Do not infer an automatic transfer of all portable equipment, or confuse this one item with the huge CHIDS Traversal Drive. [Drive account](traversal-drive.md).
 
 ## Listening and evidence priorities
 
