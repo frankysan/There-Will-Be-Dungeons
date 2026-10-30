@@ -202,10 +202,7 @@ small non-semantic fixes do **not** create an approval hold.
   meaningful chronological changes, Current status last (Lasting legacy for
   suitable history studies). Put source IDs, clocks, research horizons and ASR
   limits in complete footnotes. Keep natural in-world attribution and uncertainty.
-- Narrative chapters use roughly 350–450 prose words as a diagnostic. Major
-  biography sections have separate 150–300-word guidance. Compare meaningful
-  sections within the domain; no padding, invented motives or lost developments
-  for a quota. Other world domains have no universal word budget.
+- **Future drafted or rebalanced narrative chapters** use roughly **400–600 main-prose words** as a **soft diagnostic** (D-069); event-heavy chapters may require more room for important scenes, agency and consequences. Quiet chapters may be shorter. Do **not** retroactively trim protected editions. Major biography sections retain separate **150–300-word** guidance. Compare meaningful sections within the domain; no padding, invented motives or lost developments for a quota. Other world domains have no universal word budget.
 - Separate observed events, GM exposition, NPC claims, private knowledge,
   retrospectives and unused plans. ASR agreement/disagreement is neither accuracy
   nor audio verification. A finale mention is not a final direct appearance.
