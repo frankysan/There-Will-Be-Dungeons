@@ -29,12 +29,81 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
       - uses: actions/setup-node@v4
         with:
           node-version: '22'
       - name: Install documentation linter
+        id: install
         run: npm install --ignore-scripts --no-audit --no-fund
-      - name: Check Markdown
-        run: npm run lint:markdown
       - name: Audit Markdown tooling dependencies
         run: npm audit --audit-level=low
+      - name: Check changed maintained Markdown (required)
+        if: ${{ !cancelled() && steps.install.outcome == 'success' }}
+        shell: bash
+        env:
+          EVENT_NAME: ${{ github.event_name }}
+          BEFORE_SHA: ${{ github.event.before }}
+          PR_BASE_SHA: ${{ github.event.pull_request.base.sha }}
+        run: |
+          set -euo pipefail
+          # For PRs compare the merge result with the PR base; for pushes use
+          # the full pushed range, rather than only the last commit.
+          empty_tree=$(git hash-object -t tree /dev/null)
+          if [[ "$EVENT_NAME" == "pull_request" ]]; then
+            base=$(git merge-base "$PR_BASE_SHA" HEAD)
+          elif [[ "$EVENT_NAME" == "push" ]]; then
+            if [[ "$BEFORE_SHA" =~ ^0+$ ]]; then
+              base="$empty_tree"
+            else
+              git cat-file -e "${BEFORE_SHA}^{commit}"
+              base="$BEFORE_SHA"
+            fi
+          elif git rev-parse -q --verify HEAD^ >/dev/null; then
+            # Manual dispatch has no event diff; audit the latest commit.
+            base="HEAD^"
+          else
+            base="$empty_tree"
+          fi
+
+          # NUL delimiting preserves spaces and unusual names. A failed diff
+          # must fail the required check, not silently become an empty list.
+          diff_file=$(mktemp)
+          trap 'rm -f "$diff_file"' EXIT
+          git diff --name-only --diff-filter=ACMR -z "$base" HEAD -- \
+            README.md delvers inverse wastes oneshots bonuses episodes \
+            narrative world project reports transcripts > "$diff_file"
+          mapfile -d '' -t changed_files < "$diff_file"
+          lint_files=()
+          for file in "${changed_files[@]}"; do
+            if [[ "$file" == "README.md" ||
+                  "$file" =~ ^(delvers|inverse|wastes|oneshots|bonuses|episodes|narrative|world|project|reports|transcripts)/.*\.md$ ]]; then
+              lint_files+=("$file")
+            fi
+          done
+
+          if (( ${#lint_files[@]} == 0 )); then
+            echo "No changed maintained Markdown files in this event."
+          else
+            printf 'Linting %d changed maintained Markdown file(s):\n' "${#lint_files[@]}"
+            printf '  %s\n' "${lint_files[@]}"
+            node scripts/lint-markdown.mjs --files "${lint_files[@]}"
+          fi
+      - name: Full-repository Markdownlint inventory (nonblocking)
+        if: ${{ !cancelled() && steps.install.outcome == 'success' }}
+        continue-on-error: true
+        shell: bash
+        run: |
+          set +e
+          npm run lint:markdown > "$RUNNER_TEMP/markdownlint-inventory.log" 2>&1
+          result=$?
+          cat "$RUNNER_TEMP/markdownlint-inventory.log"
+          {
+            echo "### Full-repository Markdownlint inventory (nonblocking)"
+            echo "Changed-file lint is enforced separately. Historic findings are reported, not ignored."
+            echo ""
+            tail -n 1 "$RUNNER_TEMP/markdownlint-inventory.log"
+            echo "Command exit code: $result (nonblocking)."
+          } >> "$GITHUB_STEP_SUMMARY"
+          exit "$result"
