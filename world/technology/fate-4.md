@@ -24,6 +24,16 @@ The companions later returned to Fate 4 after using other vehicles. Its interior
 
 Some components survived to serve a different purpose. Wheels, bent axles, a recovered seat and the slain dinosaur's bones became a rough new conveyance, **Fang Fate Five**. That cart was a successor built from salvage, not a restoration of Fate 4.[^arc-three]
 
+## E064–E067 — the original RV's return, destruction and separate successor
+
+**E064 — returned to the party's presence, not simply recovered from storage.** After escaping Razak Val on **four borrowed riding raptors**, the companions hear an engine in the purple sands and **actually see their own Fate 4, now hotwired and driven by a large orc**. In the played post-credit continuation they identify **Follow, his daughter Sira and the driver** aboard. The original heroes **physically board Fate 4 and release their raptors**. Follow asks to borrow it later to protect his child, while Nash protests that it belongs to their group; **no permanent vehicle gift or settled transfer of ownership occurs** in that episode. [E064](../../episodes/E064.md) · [Riding raptors](../creatures/riding-raptors.md).
+
+**E065 — Hope drives the still-operational RV until the cliffhanger.** The orc driver **Rorf** initially struggles to control it in the strange purple-sands rainstorm; **Hope actually takes over the wheel**. The vehicle becomes stuck in mud and **Nash uses *Mold Earth* to free it**. During the overnight stop near Stanley's *Tiny Hut*, a **T. rex approaches and nudges the vehicle**, but **neither a completed dinosaur attack nor the destruction of Fate 4 occurs before E065's cutoff**. [E065](../../episodes/E065.md).
+
+**E066 — the RV is destroyed and its salvage becomes a different vehicle.** The enormous T. rex **stomps and crushes Fate 4** while Vorel tries to draw it toward Nash's pit. An **actual later explosion ignites the wreckage**; the original powered camper is **not operable or rescued as a complete vehicle**. Vorel retrieves **wheels, axles, a seat and other salvage**, combines these with the slain beast's **bones and improvised bindings** and actually builds a **handmade, nonpowered rickshaw called “Fang Fate Five”** (phonetic ASR variants remain). This is a **separate cart**, not an intact fifth model, a motorized Fate 4 rebuilt, or Fate Six. Hope subsequently finds it **unable to negotiate the tightly packed eyeball-tree forest**. The party proceeds through that region using a **different spectral horse-drawn carriage**, not a functioning Fang Fate Five or repaired RV. [E066](../../episodes/E066.md).
+
+**E067 — recollection, not a later physical restoration.** Hope's encounter with Jimster and an earlier version of Fate 4 occurs **inside a subjective Dusthill memory/scene** during the supernatural carriage journey. It does **not undo the real E066 destruction**, return the original RV to Hope's possession or demonstrate new repairs. [E067](../../episodes/E067.md).
+
 ## Current status
 
 **Fate 4 was destroyed.** Its original body no longer serves as a powered vehicle or traveling home. What survived of its metalwork and wheels entered the construction of Fang Fate Five; the completed RV, its work of invention and the journeys it carried remain part of Hope's and her companions' history.[^status]
