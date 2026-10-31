@@ -6,7 +6,7 @@
 
 After the collapse of the buried facility and appearance of a black dragon, armed forces serving **the Principal** capture the travelers and take them to Slavetown. The city makes its violent institutions plain through soldiers, courts, martial orders, underclass labor and the continued captivity of people taken from **Dusthill**. The four protagonists win a **trial by combat**, but freeing themselves does **not free all enslaved townspeople or the people they originally set out to rescue**.
 
-The city contains hotels, a foundry, markets and a jewelry shop, competing patrons and bureaucracies, plus groups identified with **the Koromukishi** and other violent powers. Stanley meets **Talia**, Bruce Bane's mother, among enslaved people. **Celibus Stump**, the **Jeweler**, a magistrate and an elusive **mine deed** draw the group into political bargains that often appear mutually incompatible.
+The city contains hotels, a foundry, markets and a jewelry shop, competing patrons and bureaucracies, plus groups identified with **the Koromukishi** and other violent powers. The [Koromukishi martial order](../races/orcs.md) is distinct from orcs as a people: its initiates fight a trial and its members offer admission to the victors. Stanley meets **Talia**, Bruce Bane's mother, among enslaved people. **Celibus Stump**, the **Jeweler**, a magistrate and an elusive **mine deed** draw the group into political bargains that often appear mutually incompatible.
 
 ## Violence, mystery and fire
 

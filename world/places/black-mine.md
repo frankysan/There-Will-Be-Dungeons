@@ -16,6 +16,6 @@ A **beholder** battle and the extraction of a gemstone open a passage to **Catob
 
 ## Connections and gaps
 
-The mine links **Slavetown's** slave economy to ancient workings and old dragon-engine claims. Specific mineral wealth, levels, ownership and the ultimate **mine deed** are disputed or unresolved. A separate **government-controlled or experimental desert laboratory** entered E008–E009 is **not** the same place as the Black Mine merely because both are underground.
+The Oilbeard-controlled workings belong to a local dwarven operation, not the history or customs of every [dwarf community](../races/dwarves.md). The mine links **Slavetown's** slave economy to ancient workings and old dragon-engine claims. Specific mineral wealth, levels, ownership and the ultimate **mine deed** are disputed or unresolved. A separate **government-controlled or experimental desert laboratory** entered E008–E009 is **not** the same place as the Black Mine merely because both are underground.
 
 **Main dossier trail:** [E018](../../episodes/E018.md) · [E019](../../episodes/E019.md) · [E020](../../episodes/E020.md) · [E021](../../episodes/E021.md) · [E022](../../episodes/E022.md) · [E023](../../episodes/E023.md) · [E024](../../episodes/E024.md) · [E025](../../episodes/E025.md) · [E026](../../episodes/E026.md) · [Château Weir](chateau-weir.md) · [Slavetown](slavetown.md).

@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Elhandar was an inhabited elven sanctuary high above Earth, an immense technological station joined to a glass-enclosed sphere of living forest. Its woods were not illusions: trees, wildlife, lakes and brooks thrived within a great constructed habitat. Paths, hunting grounds and dwellings lay beneath a regulated succession of day and night. Beyond the dome stretched a long cylindrical complex, a reminder that this apparent wilderness depended upon a sophisticated union of engineering and magic.[^elhandar-first]
+Elhandar was an inhabited elven sanctuary high above Earth, an immense technological station joined to a glass-enclosed sphere of living forest. Its woods were not illusions: trees, wildlife, lakes and brooks thrived within a great constructed habitat. Paths, hunting grounds and dwellings lay beneath a regulated succession of day and night. Beyond the dome stretched a long cylindrical complex, a reminder that this apparent wilderness depended upon a sophisticated union of engineering and magic.[^elhandar-first] The [Elhandari community](../races/elves.md) has a separate people-level history distinct from the station's physical story.
 
 A luminous network called **Rainbow Road** linked the station's districts. Its inhabitants had access to science, magic, permanent teleportation facilities and care for the wounded. Admiral Chrysorius welcomed visiting travelers, while an elder known as the High Elf served as a spiritual leader of a society that professed cooperation rather than kingship. The High Elf spoke of his people's attempts to restore damaged ecosystems and of beliefs about elven souls; these remained the community's own accounts of its past.[^elhandar-society]
 
