@@ -1,5 +1,133 @@
 # Stanley Billings
 
+## Introduction
+
+Stanley Billings is a half-elf bard whose ambitions extend beyond personal fame. In [Dusthill](../places/dusthill.md), his confidence in speeches, negotiation and civic order meets a community's immediate struggle to survive. He wants people to live under something better than arbitrary power, and believes his voice can help bring that society into being. The people who travel with him will test both his ideals and his willingness to live by them.[^stanley-introduction]
+
+## Development by arc
+
+### Arc One — Beginnings in Dusthill
+
+The water crisis brings Stanley into company with [Nash](nash-maggard.md), [Hope](hope-akmenos.md) and [Vorel](vorel.md). His public ambitions take shape amid practical dangers: the settlement needs people who can investigate, persuade and act together. Being able to command a room does not mean that he can command the circumstances around it.
+
+The companions do not share one outlook. Stanley's interest in a more orderly society exists beside their different needs, loyalties and expectations. Their association begins the difficult work of turning cooperation into trust. His voice is one of the group's resources, but the friendship that grows among them will demand more than eloquence or an impressive account of what ought to be done.[^stanley-arc01]
+
+### Arc Two — Chains and Bargains
+
+The journey through Slavetown and the Black Mine confronts Stanley with societies in which authority and exploitation coexist. He continues to seek ways of making power useful, a conviction that helps explain his willingness to accept the [Soulbroker's](soulbroker.md) offer. With Hope and Nash, he agrees to kill the Principal within the compact's allotted time, receiving power and information under threat of losing his soul. Vorel refuses.
+
+The bargain makes Stanley's pursuit of reform inseparable from an obligation imposed by another powerful being. Cooperation with an institution has become something more binding than a practical alliance. The Soulbroker's account of his purposes is still the account of an interested party, however persuasive his hospitality and promises.
+
+Stanley's friendship with the others continues across that difference of consent. Their common journey does not make Vorel a signatory, and Stanley's willingness to accept this bargain will not make every later intrusion upon him a choice.[^stanley-arc02]
+
+### Arc Three — Road to a Lost Kingdom
+
+Stanley draws a boundary when [Diontalus](diontalus.md) offers a further arrangement. He refuses to enter another pact with a being who wants mass violence. Diontalus nevertheless enters his body through a forced magical act, leaving him with a presence whose agency he has not consented to share.
+
+That violation changes the meaning of Stanley's apparent power. His body can now become the means by which someone else speaks and acts. The distinction between a persuasive advocate choosing his words and an intruder using his form becomes essential to understanding him. The earlier Soulbroker agreement was accepted; this joining was imposed.
+
+His companions must likewise confront the difference between Stanley and the being within him. Their experience of him can no longer be understood solely from the body standing before them. The predicament puts his own freedom, as well as his trust in powerful arrangements, at the center of the journey toward T'ietkalla.[^stanley-arc03]
+
+### Arc Four — The Crown of T'ietkalla
+
+Diontalus's violence leaves Stanley with harms he could not prevent and did not choose. George Miller, P0D and Dashington die through the archfey's actions. Stanley's grief and shame do not make those killings his willing acts. Buttons also dies in the fighting, but Vorel delivers that fatal blow. The conflicts around [T'ietkalla](../places/tietkalla.md) give Stanley reason to feel responsible without making every death attributable to him.
+
+His capacity to help remains real. He works with his companions to survive the descent beneath the city, restore those turned to stone and free Angelashi. The same group that sees Diontalus's danger also depends on Stanley's magic and judgment. Neither usefulness nor affection removes the danger of the forced connection.
+
+Hope's coronation offers a new political beginning. Stanley takes part in the work around her government while the companions question prejudice, civilian protection and the limits placed on their friend's freedom as queen. His civic hopes now have a possible home, but the struggle to make authority humane is only beginning.[^stanley-arc04]
+
+### Arc Five — Kings and Consequences
+
+Life in T'ietkalla gives Stanley opportunities to put belief into practice. He works with Emenil and the Tidebearers, learns prayers and produces water through his new training. During the stonefall he helps evacuate residents, yet cannot save everyone. A child's death amid the rescue makes the cost of imperfect decisions immediate. Later, when Nobiery's hidden bargain endangers Emenil, Stanley protects and heals her. Religious service and moral authority do not prove identical.
+
+The Principal then visibly extracts Diontalus into a crystal. Stanley is freed from the bodily intrusion, although the ruler's allegations about the archfey's ancient crimes and his promised disposal of the crystal remain separate claims. A welcome intervention does not settle the justice of the intervening ruler.
+
+Razak Val and the journey onward confront him with captivity and responsibility again. When the dying Follow asks him to save Sira, Stanley promises. Follow dies and the companions bury him. Stanley carries forward an obligation to a particular child, rather than confidence that an institution or bargain will make the right outcome inevitable.[^stanley-arc05]
+
+### Arc Six — Beneath the World
+
+The search beneath Khaervilon makes Stanley's promise to Follow increasingly dangerous. [CHIDS](../places/chids.md) presents engineered lives, competing accounts of ancient projects and a machine whose destruction might threaten Earth. Explanations from its inhabitants can inform his choices without becoming guarantees that every claimed history or proposed solution is true.
+
+Stanley privately tells Vorel that he would take Sira's place if sacrifice really were the only way. The conditional intention becomes a direct choice at the Traversal Drive. Trapped with Sira and Eddie inside its beam, he refuses to leave the girl behind and offers himself. When an escape becomes possible, he urges her to take it. Sira is eventually beside Eddie at the controls, alive and able to thank him.
+
+Vorel proposes that the four friends share the burden rather than sacrifice Earth. Stanley joins them. They face the crimson beam together and are declared dead. The choice brings his protective ideals into their starkest form, but it does not establish that death has canceled the Soulbroker compact or verified every explanation of the machine.[^stanley-arc06]
+
+### Arc Seven — The City of Doors
+
+In Sigil, Stanley's return to life requires a choice of his own. His consciousness leaves a timeless void, and he emerges through Kidigree's mirror ritual in an embodied form. His former corpse remains behind. Restoration gives him another life to live; it does not itself prove the end of his soul obligation.
+
+Sigil also makes him question whether returning to the Wastes is desirable at all. Food, comfort and relative safety stand against the promises and people left on Earth. The question is serious even though the companions continue. His commitment is something argued and renewed rather than an effortless appetite for further danger.
+
+At the [White Tower](../places/white-tower.md), he develops an intimate bond with Alentris while helping the besieged community. Their talk of a peaceful future does not become a settled household. During the final struggle he survives grave injury and brings her to safety. Hope leaves through her own patron's intervention, whose private instructions Stanley does not hear. He remains with Nash and Vorel, facing a changed fellowship and unfinished responsibilities.[^stanley-arc07]
+
+### Arc Eight — Separate Paths
+
+Alentris offers Stanley the peaceful life he has considered, but he refuses because he intends to return Nash and Vorel home. His loyalty to those companions comes with an act that violates another person's freedom. When Alentris demands the Fist back, he casts *Modify Memory*, replacing her recollection of their argument and concealing their removal of the relic. Her departure follows a magically fabricated understanding, not informed agreement.
+
+The journey continues with Nash and Vorel, and the Fist is eventually delivered to Tobacho. At the tower of First Nash, Stanley gains counterparts of familiar possessions. The older Nash's memorials concern companions from another history; they are not evidence that Stanley's present friends have already died.
+
+Returning to devastated T'ietkalla brings actual losses and survivors into view. Stanley helps the group through renewed fighting and the rescue voyage. His promise to bring his friends home has not brought them back to an unchanged place. His public-minded ideals now have to reckon with both the destruction around them and the coercion he himself has chosen to use.[^stanley-arc08]
+
+### Arc Nine — The Fall of Elhandar
+
+Elhandar brings Stanley's original name and family history into the open. He is Valiir Or'Nath, but prefers to remain Stanley Billings. At [Villa Or'Nath](../places/villa-ornath.md), an inherited key and childhood song open his father's hidden study. The Book of Adjacencies, the Mask of Eltanfawr and Delit Or'Nath's journal offer tangible inheritances. The journal's theories do not establish that Stanley's life or Nash's nature has one proven explanation.
+
+Reunion with Hope initially brings mistrust. Working beside her again does not erase that conflict, while Emenil's declaration of love confronts him with another decision he cannot make on demand. He is relieved she survived but cannot reciprocate or begin a relationship while uncertain of himself. His treatment of these bonds is neither a simple return to former intimacy nor a clean severance.
+
+Dilo's betrayal and Diontalus's separate spectral appearance renew the threat without making Stanley the archfey's host again. Stanley negotiates an accord for Diontalus to wait at his own court and aid the companions, with its fulfillment still ahead. During Elhandar's collapse he protects the household; afterward he heals the fallen Diontalus without rejoining him. A private Soulbroker interview presents more allegations about Earth and their obligations. Stanley later tells the others what he heard, making that knowledge shared through his own disclosure.[^stanley-arc09]
+
+### Arc Ten — Across the Stars
+
+The completed exorcism at the start of the voyage removes Stanley's last obligation to the Weir while leaving the benefits of his original bargain. Freedom changes the basis of the company. He tells his companions they no longer have to continue together and offers a genuine choice; all four recommit to trying to save Earth.
+
+Fate Six also brings him a disturbing kind of family reunion. A speaking wooden likeness of Delit Or'Nath is presented as his father's continuing essence within the ship. The voice tells of a mortal wound, donated life essence and his mother's death. Stanley can speak with it, but the conversation does not return his parents to ordinary embodied life or make every historical explanation certain.
+
+The Elhandari elect him Solely Prime, their first half-elven choice, and the elder tree transforms his appearance. Inside it, a voice privately tells him that Nash is needed yet must die. Public office and private revelation are different burdens: his companions do not receive that message with him.
+
+The voyage tests his desire to lead against his longing for a home. Enchantment traps him in a fantasy of family peace before his companions help free him and his song destroys the enthralling eye. Later, failure to prevent Nash's apparent death gives way to a chance to help restore him: Vorel retrieves the living heart, and Stanley grows a new body through *Regenerate*. His leadership includes accepting rescue and repair, not simply directing other people's courage.[^stanley-arc10]
+
+### Arc Eleven — The Last War
+
+Before returning to Earth, Stanley accepts Elhandari augmentation, addresses his people and shares a sustaining feast with the companions. He urges them to enjoy what they may lose. He also tries to persuade Union Wheel to value her own life beyond her oath to him. Saving her from immediate danger cannot finally protect her: the giant later crushes Union and Emenil, while Diontalus's manifested form is destroyed before Stanley's eyes. He feels the loss of the archfey as an internal rupture without knowing the final limits of that destruction.
+
+The campaign also exposes his own capacity for violence. He kills Nash's former torturer and joins Vorel in attacking guards who have bowed to Nash's deception. His wish to protect people does not make every exercise of power an act of mercy. Privately, he continues to carry the instruction concerning Nash's death without revealing it or attempting to kill his friend.
+
+Stanley uses negotiation to secure release from Hell without signing a new soul pact. Later, protecting Nash's banishment of Worldbreaker drives him to extraordinary magic: a rejuvenation injection, a great protective barrier and a *Wish* that produces a crowd of copies at severe cost to his own strength. Those copies do not become a permanent army.
+
+After the companions agree to Earth's restoration, Stanley authorizes the device's use. Saving their world does not make him willing to accept Nash's death at the lunar base. He preserves a sample of his friend and insists on seeking a way to bring him back. His final great intervention is for that particular life. At the survivors' council, he also supports mercy and integration, helping decide what the world they fought for will offer its defeated enemies.[^stanley-arc11]
+
+## Friendship, consent and leadership
+
+Stanley's persuasiveness can sustain people, secure cooperation and help them survive. It can also serve coercion. Diontalus's violation of his body and Stanley's alteration of Alentris's memory belong to different acts by different agents; neither should disappear from an account of how he uses power. His ideals remain important because his conduct can fall short of them.
+
+His bonds with Nash, Hope and Vorel endure through hostility, separation, forgiveness and rescue without requiring them to agree on everything. Delit's explanations of destiny do not bring Stanley to a simple reconciliation with his father. Nor does the office of Solely Prime erase the man who wants a home and calls himself Stanley. His most consequential choices repeatedly concern whether other people will be treated as instruments, obligations or companions with lives of their own.[^stanley-bonds]
+
+## Current status
+
+Stanley is alive as Solely Prime and has crossed from Mars into the Feywild with many of the Elhandari, after offering people a choice about where to go. His last departure is aboard another Elhandari vessel; he has physically given the Mask of Eltanfawr to Hope, with future command of Fate Six dependent on her attunement.
+
+Before leaving, he uses *Wish* on Planet Nash, beyond Earth's suppressed spellcasting, to bring Nash back through *True Resurrection*. Nash returns to his family, and Stanley retains access to *Wish* while suffering its new cost. He grants Vorel the title Friend, then makes his own farewell as a leader whose responsibilities continue beyond the war. His future life in the Feywild remains ahead of him.[^stanley-status]
+
+[^stanley-introduction]: The Wastes through the played S3E18 ending, using the existing source-qualified biography and episode dossiers; no original audio was listened to for this restructuring. [E000](../../episodes/E000.md), [E001](../../episodes/E001.md). Stanley is portrayed by Jon. Valiir Or'Nath is the owner-confirmed original name of the same character; its later disclosure is not backdated into his introduction. Original studies and all nine original footnotes remain in the historical appendix.
+[^stanley-arc01]: [E000](../../episodes/E000.md), [E001](../../episodes/E001.md), and the original introduction/first-arc synthesis. The new Arc One uses D-045's E000–E009 boundary, with E013.5 supplementary at its appropriate fictional time; the later E023 Soulbroker agreement belongs to Arc Two, rather than being silently brought forward from the former five-arc organization.
+[^stanley-arc02]: [E023](../../episodes/E023.md), [E026](../../episodes/E026.md). Three signatories accept the 1,000-day/night compact; Vorel refuses. The bargain's boon and ordinary character advancement are distinct. Jon's explanations of developing guilt in the [June 2019 Q&A](../../episodes/BONUS-2019-06.md) are retrospective interpretation, not additional private thoughts automatically known by others.
+[^stanley-arc03]: [E029](../../episodes/E029.md): Stanley refuses; Diontalus forcibly joins him at the cutoff. This does not establish a second voluntarily signed contract or make every act through the shared body Stanley's act. See [Diontalus](diontalus.md) and the retained source studies for the subsequent agency history.
+[^stanley-arc04]: [E045](../../episodes/E045.md), [E049](../../episodes/E049.md), [E050](../../episodes/E050.md), [E051](../../episodes/E051.md), [E054](../../episodes/E054.md). Preserve Diontalus's George/P0D/Dashington victims and Vorel's actual killing of Buttons. E051 restores petrified companions during that episode; E054 frees Angelashi alive. Coronation-era clinic/scouting/reform proposals are not all completed public institutions at the E054 cutoff.
+[^stanley-arc05]: [E055](../../episodes/E055.md), [E056](../../episodes/E056.md), [E057](../../episodes/E057.md), [E059](../../episodes/E059.md), [E063](../../episodes/E063.md), [E065](../../episodes/E065.md), [E066](../../episodes/E066.md). E056 documents the civilian losses and rescues, Emenil's restoration of Vorel, Stanley's water-producing prayer and attack on Emenil continuing into E057. E059 actually extracts Diontalus into the crystal, but does not perform the promised space exile. Stanley promises the dying Follow in E066, before Follow's death; the child has not yet been rescued. Follow's history, Rorf's confession and Sira's powers retain their source distinctions.
+[^stanley-arc06]: [E069](../../episodes/E069.md), [E078](../../episodes/E078.md), [E081](../../episodes/E081.md). The private conditional substitution proposal is not the later played action. E081 depicts Sira's release and eventual position beside Eddie before the four-person absorption and declared deaths. Chance's unresolved location is separate; sacrifice does not independently cancel the Soulbroker pact or authenticate CHIDS's history. [CHIDS study](../HISTORY_CHIDS_DRIVE.md).
+[^stanley-arc07]: [E082](../../episodes/E082.md), [E083](../../episodes/E083.md), [E088](../../episodes/E088.md), [E089](../../episodes/E089.md), [E097](../../episodes/E097.md), [E100](../../episodes/E100.md), [E101](../../episodes/E101.md). E088 restores Stanley through the mirror while leaving his old body with Kidigree; its destruction is not witnessed. E089 contains the serious proposal to remain in Sigil. E101's death-save recovery and healing leave Stanley and Alentris alive; this is not another completed resurrection. Arc Seven ends at Hope's departure, not at the end of the entire E101 dossier. Hope's patron instructions are private.
+[^stanley-arc08]: E101 after Hope's departure; [E102](../../episodes/E102.md), [E106](../../episodes/E106.md), [E110](../../episodes/E110.md), [E111](../../episodes/E111.md), [E114](../../episodes/E114.md). **Chronology clarification:** Stanley's actual *Modify Memory* of Alentris is E102, before the alternate tower's replacement possessions in E110; the old appendix's composite paragraph must not be read as placing both actions at that tower. Alentris has not consented to the invented recollection. E106 delivers the separate Fist gauntlet to Tobacho, not Hope's attached Hand. Alternate companions' deaths are not deaths of the main party. E107–E109 are the historical Dunebreaker prequel.
+[^stanley-arc09]: [E115](../../episodes/E115.md), [E117](../../episodes/E117.md), [E118](../../episodes/E118.md), [E119](../../episodes/E119.md), [E120](../../episodes/E120.md), [E121](../../episodes/E121.md), [E124](../../episodes/E124.md), [E125](../../episodes/E125.md), [E126](../../episodes/E126.md), [E128](../../episodes/E128.md). E117 reunion does not immediately establish forgiveness; E118 shows joint study and actual heirloom transfer. Dilo's provisional pupil status and separate Diontalus are not a fresh possession of Stanley. E124 cures debuffs and wins a verbal accord, without showing the court journey or completed aid. E128 heals the spectral Diontalus and distinguishes Stanley's private Soulbroker interview from his later disclosure. The father's journal contains hypotheses. The [owner-confirmed written-name evidence](../../reports/DISCORD_NEW_SPELLING_2026-10-27.md#wastes-stanleys-original-elven-name--valiir-ornath) establishes Valiir Or'Nath, Delit Or'Nath and Villa Or'Nath, without establishing the poem's in-world occasion. E127 is a separate one-off.
+[^stanley-arc10]: [S2E01](../../episodes/S2E01.md), [S2E02](../../episodes/S2E02.md), [S2E03](../../episodes/S2E03.md), [S2E06](../../episodes/S2E06.md), [S2E07](../../episodes/S2E07.md), [S2E11](../../episodes/S2E11.md), [S2E12](../../episodes/S2E12.md), [S3E01](../../episodes/S3E01.md), [S3E02](../../episodes/S3E02.md), [S3E03](../../episodes/S3E03.md). S2E01 removes the final Weir obligation while benefits remain; it does not destroy the whole Weir. The father-shaped ship-mind is played; maternal death and donated life history are attributed testimony, not a new corporeal resurrection. Election and transformation do not prove changed biological ancestry. The cocoon instruction concerning Nash is private. Dream family scenes are not actual reunions, and the Wisdom-3 interlude is cured in S2E07. Stanley actually transfers *Diplomacy* to Hope in S3E03; Vorel's earlier temporary loan had been returned. The season boundary does not divide this approved arc.
+[^stanley-arc11]: [S3E04](../../episodes/S3E04.md), [S3E05](../../episodes/S3E05.md), [S3E08](../../episodes/S3E08.md), [S3E09](../../episodes/S3E09.md), [S3E10](../../episodes/S3E10.md), [S3E11](../../episodes/S3E11.md), [S3E12](../../episodes/S3E12.md), [S3E13](../../episodes/S3E13.md), [S3E16](../../episodes/S3E16.md), [S3E17](../../episodes/S3E17.md), [S3E18](../../episodes/S3E18.md). Bowl consumption, mask-based *Foresight* costs and the later performed *Prismatic Wall* are separate castings/activations; proposals are not casts. S3E08 destroys Diontalus's manifested form without establishing absolute metaphysical erasure, and Union's earlier rescue does not reverse her later crushing. Stanley is downed, then survives S3E09. S3E10 depicts both the instructor's killing and the preemptive attack on bowed guards. S3E13 recalls the Nash directive only to Stanley. The modified *Wish* chain is a specific table ruling, not a general rule or lasting clone army. [S3E019](../../episodes/S3E019.md) retrospectively interprets Nash's temporary death as fulfilling the prophecy; it does not show Stanley killing him or impose a new played order.
+[^stanley-bonds]: Synthesis from the chronological sources and retained relationship studies; [Diontalus](diontalus.md), [Emenil](emenil.md), [White Tower](../places/white-tower.md), [Fate Six](../technology/fate-six.md). Jon's thoughts in the [September 2020](../../episodes/BONUS-2020-09.md), [July-filed 2022](../../episodes/BONUS-2022-07.md) and other original bonus notes remain performer interpretations. A hypothetical cleric multiclass or alternate character design is not a played class change. Family names do not make Nash Stanley's literal brother, and faith/destiny claims are not proven laws of agency.
+[^stanley-status]: [S3E18](../../episodes/S3E18.md): original *Wish* loss roll 42 retains access; later roll 65 retains access after the extraordinary *True Resurrection* use, which imposes new stress. The resurrection happens on Planet Nash, outside Earth's mana-null field. **Unresolved timing:** the four-day recovery narrated in S3E18 differs from the explicit seven-day penalty in S3E17; the original `[[review-needed:7 versus 4 Wish recovery]]` remains in the appendix. The mask is physically handed over and worn by Hope as a crown; control after her attunement is prospective. Stanley departs on another Elhandari ship and actually crosses the Feywild portal after his Mars farewell; not all Elhandari go with him. Jon's fake-death retirement suggestion in the nonplayed [S3E019 roundtable](../../episodes/S3E019.md) is headcanon, not the character's observed ending. Native browser behavior and source audio were not tested.
+
+<details>
+<summary>Sources and project notes — retained historical research</summary>
+
+These pre-restructuring source studies retain their original prose, source qualifications, episode cutoffs, nine footnotes and review marker. The two former introduction/development heading labels are distinguished from the new main sections, which retain their original fragment names. Earlier five-arc labels, composite summaries and proposed actions are historical research, not a single final status; the new source notes distinguish the Alentris memory alteration in E102 from the replacement possessions in E110. The exact current-working-copy original is preserved in [the pre-WCL119 baseline](../../research/legacy/STANLEY_BILLINGS_PRE_WCL119_2026-10-31.md).
+
 **Original elven name (owner-confirmed): Valiir Or'Nath.** An [illustrated poem posted by Jon, Stanley's player](https://discord.com/channels/146848379853471744/671473359099527180/755289251192504340) is headed **Valiir Or'Nath**. The project owner confirmed on **2026-10-27** that this is **Stanley's original elven name**; its spelling and identification are therefore treated as **player-authoritative** (see [source register](../../reports/DISCORD_NEW_SPELLING_2026-10-27.md#wastes-stanleys-original-elven-name--valiir-ornath)). **Stanley Billings and Valiir Or'Nath are the same character**, not alternate individuals. Maintain `stanley-billings.md` and existing episode naming for compatibility. **Family spelling (owner-confirmed):** Stanley's father is **Delit Or'Nath**, and the family home is **[Villa Or'Nath](../places/villa-ornath.md)**. Earlier unpunctuated `Delit Ornath` and `Villa Ornath` are legacy aliases, not separate relatives or places. The poem does not establish when Stanley used his original name, who composed or heard it in-world, or the precise occasion.
 
 ## S3E019 cast Round Up — SECRET SOLELY PRIME PROPHECY, retrospective GM interpretation (not a new scene)
@@ -42,11 +170,11 @@ In [played S3E10](../../episodes/S3E10.md), Stanley **ACTUALLY SCOUTS SOLAR MINE
 
 In [monthly July-filed bonus, spoken as June](../../episodes/BONUS-2022-07.md), **~00:12:37–00:18:35**, Jon explains most of **Stanley's speeches are spontaneous**, and he has no complete top-five ranking; he references **“today's” Walmart megaphone speech** (the **actually played S3E09** speech that forced lurking Toyota Host combatants to reveal themselves). He considers the **earlier *Command* that compelled Medusa to confront mirror** his favorite improvised combat solution and remembers an **Elhandar confrontation/reconciliation conversation with Hope** as the moment **STANLEY BEGAN TO THINK OF HOPE AS HIS BEST FRIEND**. He describes both as reflecting on their own harmful acts and moral contradictions; this is **Jon's character-level PERSONAL retrospective about the meaning of a previously played scene**, not a new performed friendship pledge, actual spell in the bonus, or evidence that Hope herself explicitly used the identical phrase. In **~00:30–00:34**, Jon reacts sadly to **Diontalus's physical spectral disintegration in played S3E08**, saying he had hoped someday to play him again and doubts that will happen; **this is performer grief, not a formal impossible-to-resurrect decree**. The old **promise to go to Feywild** now seems moot to him; **no court trip, promise discharge ritual or new Diontalus death scene occurs**. [Bonus two-ASR audit](../../reports/BONUS_2022-07_ASR_COMPARISON_2026-10-27.md), no audio listening.
 
-## Introduction
+## Earlier five-arc introduction
 
 Stanley is a half-elf bard whose charm and command of a room serve an ambition larger than personal renown: he wants to shape a more orderly society. He begins among the people of Dusthill, where political ideals meet the practical needs of a settlement struggling to survive. His persuasive gifts make him a natural advocate, but his faith in institutions will be tested by what those institutions ask him to accept.[^introduction]
 
-## Development by arc
+## Earlier five-arc development
 
 ### Arc One — The promise of civic order
 
@@ -187,3 +315,5 @@ Stanley's effort to make amends for Nash's second death has a tangible result: n
 [^relationships]: [Nash](nash-maggard.md) · [Hope](hope-akmenos.md) · [Vorel](vorel.md) · [Diontalus](diontalus.md) · [Emenil](emenil.md) · [Alentris's White Tower history](../places/white-tower.md).
 
 [^current-status]: [E128](../../episodes/E128.md) · [E128 comparison](../../reports/E128_ASR_COMPARISON_2026-10-24.md) · [Diontalus's ocarina](../technology/diontalus-ocarina.md) · [Mask of Eltanfawr](../technology/mask-of-eltanfawr.md) · [Consistency ledger](../CONSISTENCY_LEDGER.md). The Soulbroker's account is Stanley's testimony of a private meeting until he tells the others; its historical claims remain unverified. [World portal](../README.md).
+
+</details>

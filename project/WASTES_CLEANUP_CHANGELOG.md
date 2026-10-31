@@ -15,6 +15,7 @@ The full cumulative 316,302-byte dated log, including detailed historic B1–B28
 | 2026-10-31 | Races pilot, v2 race/culture entity data and reciprocal navigation integrated. | [WCL-009](WASTES_CLEANUP_TASKS.md#wcl-009)–[WCL-011](WASTES_CLEANUP_TASKS.md#wcl-011) |
 | 2026-10-31 | Selected places, equipment and character reference pages migrated to reader-first text while retaining source evidence, historic originals and link destinations. | [WCL-014](WASTES_CLEANUP_TASKS.md#wcl-014)–[WCL-028](WASTES_CLEANUP_TASKS.md#wcl-028) |
 | 2026-10-31 | Owner requested a single indexed checkbox task register. Preserved all three redundant trackers exactly, then separated operational task status, artifact disposition, milestone history and compatibility pointer. | [WCL-042](WASTES_CLEANUP_TASKS.md#wcl-042) · [historic records](WASTES_CLEANUP_MANIFEST.md) |
+| 2026-10-31 | Owner granted standing approval for all changes in `/world` and `/narrative`, superseding per-change editorial approval holds in those directories. | [D-081](DECISIONS.md#standing-approval-for-world-and-narrative-changes-2026-10-31) · [WCL-118](WASTES_CLEANUP_TASKS.md#wcl-118) |
 
 ## When to add a new entry
 
