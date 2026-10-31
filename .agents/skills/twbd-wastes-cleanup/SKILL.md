@@ -23,8 +23,10 @@ through `rtk proxy`.
 
 At first use read the current controlling documents:
 
-- `project/WASTES_CAMPAIGN_CLEANUP_PLAN.md`: scope, phases and acceptance gates.
-- `project/WASTES_CLEANUP_MANIFEST.md`: inventory, lifecycle and migration record.
+- `project/WASTES_CLEANUP_TASKS.md`: **the sole authoritative indexed checkbox task list, task states and next action**.
+- `project/WASTES_CAMPAIGN_CLEANUP_PLAN.md`: historic scope, phases and acceptance gates.
+- `project/WASTES_CLEANUP_MANIFEST.md`: **artifact dispositions and compatibility only**, not task status.
+- `project/WASTES_CLEANUP_CHANGELOG.md`: significant milestones/decisions only, not batch recaps.
 - `project/WASTES_NARRATIVE_CHAPTER_MAPS.md`: proposed crosswalk and exceptions.
 - `project/DECISIONS.md`: applicable accepted/superseding decisions, especially
   D-037–D-044 and later Wastes cleanup decisions.
@@ -49,25 +51,33 @@ new reports or snapshots solely because another small operation or turn began.
 Apply the repository-wide baseline/reporting economy policy (D-052 in AGENTS.md).
 
 1. Inspect HEAD, staged/unstaged changes and untracked files. Preserve unrelated
-   work. Read `project/WASTES_CLEANUP_PROGRESS.md` if present, its active batch
-   journal and relevant manifest entries. Missing progress files mean initialize
-   records, not assume the campaign is untouched.
+   work. Read `project/WASTES_CLEANUP_TASKS.md` **first**; its unchecked stable
+   `WCL-###` items and current next-action pointer govern work. The old
+   `WASTES_CLEANUP_PROGRESS.md` is only a redirect. Read manifest dispositions
+   only when file creation, preservation, path compatibility or disposition is
+   relevant; the old full history is preserved under `research/legacy/`.
 2. Reconcile incomplete operations against actual bytes, hashes, archives and
    check results. A timed-out call has an unknown outcome until inspected. Never
    blindly repeat it, overwrite partial work or regenerate a baseline over edits.
 3. Reuse valid artifacts. HEAD advancing alone does not invalidate them: inspect
    changed inputs/dependencies and recheck only affected work. A validation-only
    resume does not trigger transcript rereading or another rewrite.
-4. Select the earliest unmet eligible gate. For read-only Phase 0 world censuses,
+4. Select the explicit next eligible unchecked `WCL-###` task; split it into
+   further stable child task IDs if it describes multiple independently verifiable
+   deliverables. An existing historical `Batch ###` number is evidence, **never**
+   a new task ID. For read-only Phase 0 world censuses,
    **prefer one related multi-file batch** after size/complexity preflight, rather
    than one administrative checkpoint per short article. Use the approved limits
    below; keep complex registers and large narrative/scene transformations in
    separate controlled slices. Never merge unrelated editorial decisions.
-5. Persist the ordered batch intent and per-file states, perform each file's
-   bounded operation, checkpoint its results, validate, then synchronize the
-   manifest and progress once at batch close. Continue only within authorized
-   scope and remaining capacity. On interruption resume from the first incomplete
-   file, not the beginning of the batch.
+5. Record the intended paths, approval basis and per-file operation states **in
+   that task's entry** (or a linked evidence worklist for a long census).
+   Perform and read back each bounded operation, record actual checks and limits,
+   then check **that one task** off only when its acceptance criteria pass.
+   Update the manifest **only** if an artifact's disposition/compatibility changed;
+   update the milestone changelog **only** for a meaningful milestone or decision.
+   Do not append a second progress or per-batch recap. On interruption recover
+   the first unverified file/state without rerunning completed work.
 
 ### Bounded multi-file audit selection (owner approved 2026-10-27)
 
@@ -87,20 +97,23 @@ actual full numbered-line census and findings are recorded.
 
 These envelopes are **guidelines, not quotas**. Split early if dense links, source
 uncertainty, conflicting canon, tool limits or a necessary approval decision makes
-a grouping unsafe. The **next Batch 15 pilot** should aim for 4–6 short/medium
-related unread world files, approximately 300 source lines, starting with a
-preflight of `world/ITEMS_AND_ARTIFACTS.md`. Record the *actual selected paths*
-before reading them in full. Grouping does not permit more substantive edits.
+a grouping unsafe. The historic **Batch 15** pilot instruction is retained only as historical
+method guidance, **not a live next-action pointer**. Use the next unchecked
+WCL task and name the actual selected paths before reading them in full.
+Grouping does not permit more substantive edits.
 
-One **continuously maintained workstream journal** (or existing manifest/progress ledger, where sufficient) retains **individual file subrecords** without creating a new report for every batch: path,
+The active **WCL task entry**, or an evidence-bearing linked census record when
+one task needs many per-file subrecords, retains them without a per-batch report:
+path,
 ordered operation ID, actual line coverage/size, purpose and source horizon,
 headings/notes/links (in-world listed versus out-of-world unchecked), D-044/D-045
 migration leads, verification limits and `queued | reading | complete | blocked |
 unknown` state. After each fully processed file, save a recovery checkpoint.
 An interrupted or ambiguous operation must be reconciled from actual data before
 resuming; retain completed per-file work and never infer results for unread files.
-At batch close, make one guarded manifest update and one progress-pointer update,
-read back all three records and check final Git status. Keep the preserved 134-file
+At task close, update **one checkbox and its evidence/limits**, read that task
+back and inspect Git status. Change the manifest only for actual disposition
+changes; the progress compatibility redirect must not be updated per batch. Keep the preserved 134-file
 world directory worklist as a `listed_only` baseline; track first-pass completion
 in separate evidence records. See [progress and recovery](references/progress-and-recovery.md).
 
@@ -114,7 +127,7 @@ and nothing has failed.** Never carry forward an old MCP outage or access-denied
 finding: if local files are unavailable, probe MCP again at the next batch so
 service recovery is detected automatically.
 
-**Required-write fallback:** On a failed manifest, progress, journal or source
+**Required-write fallback:** On a failed task-register, required artifact-disposition, evidence or source
 operation, inspect whether the operation partially persisted and **restart the
 same full priority check at step 1**, rather than assuming a previously failed
 route is still unavailable or silently omitting the write. Safely retry or use
@@ -152,7 +165,7 @@ crosswalk, or the minor-edit permission does not authorize those changes.
 If the next necessary edit **requires approval** and that approval is missing
 or unclear, **STOP before editing that target and request the owner's
 decision**, identifying affected files, proposed alternatives and evidence.
-Record the blocker in the journal/manifest/progress; do not bypass a genuine
+Record the blocker against the active WCL task; do not bypass a genuine
 substantive gate by changing other content instead. Read-only investigation
 to characterize the decision is allowed. Do not request approval again when
 it is already recorded and applicable.
@@ -209,7 +222,12 @@ small non-semantic fixes do **not** create an approval hold.
 
 ## Validate and hand off
 
-Before a major rewrite/restructure verify an exact working-copy baseline was preserved once for that coherent effort, with its SHA-256; reuse it for subsequent chapters/repairs. Ordinary bounded edits need no additional full-file archive. After each meaningful operation read back the output and update the existing change/recovery record with outcome, relevant hashes and remaining tasks. Do not generate a fresh report or duplicate snapshots as routine checkpoints.
+Before a major rewrite/restructure verify one exact SHA-256-checked working-copy
+baseline for that coherent effort; reuse it for subsequent repairs. Ordinary
+bounded edits need no extra archive. After each meaningful operation read back
+the output, **record the result once in its WCL task entry**, and update only
+actual artifact dispositions or significant milestone decisions where applicable.
+Do not generate new per-batch reports or duplicate snapshots.
 
 Review domain focus, claim coverage, knowledge boundaries, actual source horizon
 and final status. Check footnote references/definitions, relative links, incoming
@@ -230,8 +248,9 @@ when needed. Record commands, scope, exit codes, diagnostics and evidence paths.
 Unavailable or timed-out checks remain unrun/unknown. Run code tests when tools
 change, not as an editorial ritual. Passing tooling does not establish facts.
 
-Advance only evidenced lifecycle stages, synchronize the manifest and progress
-pointer, and state the exact next action. Checkpoint **in place** after meaningful slices, before expensive calls where recovery requires it, and immediately on recoverable errors; no standalone report is required per slice. End a turn with completed
+Advance only evidenced lifecycle stages; check off the **single WCL task** when
+validated and set the next action there. Update the manifest only for a real
+artifact disposition, not as another progress log. Checkpoint **in place** after meaningful slices, before expensive calls where recovery requires it, and immediately on recoverable errors; no standalone report is required per slice. End a turn with completed
 scope, actual validation, unresolved decisions/errors and checkpoint path. Do not
 commit, push, publish or launch background cleanup without explicit authorization.
 Do not mark the campaign complete because a batch or time allowance ended.
