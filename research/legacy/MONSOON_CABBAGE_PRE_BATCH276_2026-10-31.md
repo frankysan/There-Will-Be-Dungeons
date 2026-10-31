@@ -1,0 +1,47 @@
+# Monsoon Cabbage
+
+**Possible alternative identity/name:** `Septwyn`, `Sjeptwy`, `Septwyn Maer` as transcribed in later scenes; exact full spelling and equivalence remain for listening review. **Role:** Leader of the Twenty-Sixers in Trashburg, influential manipulator of the struggle for **Tietkalla**. **Status by episode:** E054 **escaped alive as mist**, while S3E18 **physically dies in sunlight**; these are different verified cutoffs.
+
+## E032–E054 — Twenty-Sixers, contested claims and a witnessed escape
+
+Monsoon first appears as an older tiefling commanding the **Twenty-Six Block**, operating in competition with the **Toe Rippers** and the fortress administration. He offers the party help entering the keep if they assassinate a rival leader. Vorel and the others eventually bring him **Blunt Goliver's head**, but Monsoon's help is inseparable from surveillance, coerced medicine and threats. His histories of **Tietkalla**, **Kefeli**, **Andreeste/the Nourisher** and a vampiric council are often **interested testimony**, not automatically verified ancient records.
+
+His broader plan comes into view around E049: **Buttons** claims an alternate arrangement involving **Jolt, the Principal, the Gem of Tides and control of the city**. Via radio, Monsoon issues **Order 26**, transforming **P0D** against her will into a giant pixie; other giant pixies join the violence. The Year One Q&A confirms **the GM had prepared Order 26 as a disguised super-soldier strike**, even though the exact resulting froghemoth disaster emerged unexpectedly in play.
+
+In E054 Monsoon occupies the throne in the smashed keep with **Prince Aladweir dead**, **Suck Master Din captive** and **Angelashi alive as hostage**. He says he will yield the city because Kefeli's death supposedly exposes it to **Andreeste's claim**. This is **his warning and political strategy**, not a documented divine intervention. After Vorel attacks, Monsoon **turns to mist and escapes**; no final death, genuine abdication of influence or disappearance from future affairs is shown.
+
+## E055 — alleged death contradicted by later played appearances
+
+A captured Twenty-Sixer **claims Monsoon Cabbage was killed**, but **the E054 played scene showed him escaping as mist**. This E055 prisoner statement is faction testimony and **does not overwrite Monsoon's last directly seen status**. [E055](../../episodes/E055.md).
+
+## S2E01–S2E03 — physically returns, exorcises Stanley and volunteers for Earth
+
+In [S2E01](../../episodes/S2E01.md), Monsoon **actually appears at Villa Or'Nath** with the captive, living **Softhead** in a cage and is initially **unable to enter without Stanley's invitation**. After Stanley invites him, Monsoon **claims** to have belonged to an ancient company with Delit Or'Nath, Tower Nash, Groxl and the Principal; his centuries-old fellowship and allegations about the Principal's lich transformation are **his testimony, not played ancient history**. At the party's consent, Monsoon **physically leads an exorcism of Stanley's Soulbroker/Weir obligation**, culminating in **Hope killing the manifested curse entity**. The GM confirms Stanley's obligation lifted while older pact benefits remain. Monsoon **leaves with Softhead still alive and captive**; neither the cure nor his presence verifies the ancient allegations. [Stanley](stanley-billings.md).
+
+In [S2E03](../../episodes/S2E03.md), Stanley **actually notices Monsoon entering the Earth Defenders' council on Mars** and later publicly identifies him. Monsoon **stands and volunteers himself as a vampire knight**. This is **one committed fighter**, not proof that a previously proposed vampire army has appeared or that any combat operation has begun.
+
+## S3E04 — physically on Mars; offered conditional farewell and approved tower assault
+
+In [played S3E04](../../episodes/S3E04.md) **~01:11–01:16**, Monsoon **ACTUALLY APPROACHES HOPE** by the elven celebration on Mars in **vampire-knight battle armor**, reflects on his bitter past and explains that if the war against the Principle is won, he **INTENDS TO DEPART THIS WORLD** for a place among creatures like himself, since he fears his endless vampiric hunger; **THIS IS FUTURE INTENTION, NOT AN OBSERVED DEPARTURE**. He apparently disappears from Hope's sight but is **PHYSICALLY PRESENT AT SECOND EARTHLY DEFENDERS WAR COUNCIL ~01:52** and **VOLUNTEERS FOR NORTHEAST SOLAR MINES AA CANNON (~02:25)**. Diontalus/Monsoon later plan to attack Slow Peters. **No Solar Mines engagement, enemy death or actual escape from world by cutoff**. [S3E04 audit](../../reports/WASTES_S3E04_ASR_COMPARISON_2026-10-26.md).
+
+## S3E05 — physically joins Earth invasion and rides toward NE cannon, success pending
+
+In [S3E05](../../episodes/S3E05.md) ~01:12–01:17, Monsoon **ACTUALLY DESCENDS TO EARTH WITH ARMY**, clad in full vampire-knight metallic battle armor, receives a hovering Elhandari speeder and **PHYSICALLY RIDES OFF toward assigned NORTHEAST Solar Mines anti-air cannon**. Via live radio **~02:19 and ~02:21**, reports he is operating/moving and enemy forces are converging toward the main northern gate; **NO AA gun destroyed, Slow Peter killed by Monsoon, departure from world, death or further personal speech with Hope observed by this episode cutoff**. His S3E04 plan to depart after victory remains conditional. [Report](../../reports/WASTES_S3E05_ASR_COMPARISON_2026-10-26.md).
+
+## S3E09 — actually rescues all four protagonists, stays to hold Solar Mines field
+
+In [played Wastes S3E09](../../episodes/S3E09.md), after the giant Groxl-like lizardfolk **physically falls and a catastrophic explosion threatens main companions at S3E08 cutoff**, **ADMIRAL CHRYSORIUS EXPLICITLY CREDITS MONSOON CABBAGE WITH ACTUALLY RESCUING ALL FOUR HEROES**, bringing them to an **allied defended wagon-circle** at Solar Mines. White Nash later heals the three unconscious original heroes; Monsoon is not credited as healer. Monsoon reports the **glass-domed “clean” suburban district** from his aerial reconnaissance, suggesting it may be Nash's remembered elite graduation enclave and alternate approach underground; **not personally proven to contain the passage** then. Party explicitly **CHOOSES to LEAVE MONSOON WITH THE MAIN ALLIED FIELD FORCE**, to prevent its collapse in absence of Diontalus; he **does not join dome Walmart or the freight elevator**. Vorel asks him to protect the survivors for Tietkalla; Monsoon **ACTUALLY FLIES OFF to another field battle**. His identity, survival and long-term intentions remain distinct from unverified conspiracy theories of the giant. [S3E09 two-ASR audit](../../reports/WASTES_S3E09_ASR_COMPARISON_2026-10-27.md); audio unchecked.
+
+## S3E17 — actual final-battle arrival, claws and Fate Six crash
+
+In [S3E17](../../episodes/S3E17.md) ~**01:19–01:49**, **Fate Six actually approaches the fight against the Principal's lunar-made chrome copies** and **Monsoon jumps down from the vessel**, wearing **dark enclosed vampire-knight helmet/armor**. He **physically attacks the copies with his claws (two hits)** and remains fighting outside Stanley's *Prismatic Wall* as Fate Six **actually crashes into the surrounding enemies**. **The ship's destruction does not show Monsoon dying**, and the fate of all outside copies is not decided solely by his attacks. He is **again physically present alive at the opening of S3E18**; do not invent an intervening resurrection. [Fate Six](../technology/fate-six.md).
+
+## S3E18 — FINAL witnessed fate: voluntary sunlight death, Hope inherits helmet
+
+[Final played Wastes S3E18](../../episodes/S3E18.md) ~**00:16–00:20**: Having helped the heroes against the lunar Principle copies in S3E17, **MONSOON CABBAGE APPEARS IN PERSON TO HOPE**, says his ancient **VAMPIRE KNIGHT OATH TO PROTECT EARTH WHEN DRAGONS CAME** was finally fulfilled, and that he had lived long enough despite intervening dishonor. **HE PURPOSEFULLY UNFASTENS PROTECTIVE MASK AND WALKS INTO FULL SUNLIGHT**, shedding protective armor; GM **PHYSICALLY DEPICTS HIS VAMPIRE BODY BURNING AND DISSOLVING UNTIL GONE**. **DEAD AT PLAYED-CAMPAIGN CUTOFF, NOT ESCAPED MIST OR UNVERIFIED RUMOR**. **HOPE PHYSICALLY PICKS UP HIS VAMPIRE-KNIGHT HELMET**, a real inventory transfer. This is shortly before **ELHANDARI TRIANGULOSPHERE EFFECT RESTORES GREEN EARTH**. Inheritance of Hope's realm is Monsoon's farewell endorsement, not a magical transfer of government office. [P/Q](../../reports/WASTES_S3E18_ASR_COMPARISON_2026-10-27.md), audio unchecked.
+
+## Connections and evidence
+
+**Main connections:** [Tietkalla](../places/tietkalla.md), the **Twenty-Sixers**, **Jolt**, **Buttons**, **P0D**, rival **Toe Rippers**, disputed history of **Kefeli/Andreeste**, and the party. His actions and reported bargains must not be compressed into a single verified master conspiracy with every clause proven.
+
+**Evidence:** [E032](../../episodes/E032.md) · [E037](../../episodes/E037.md) · [E038](../../episodes/E038.md) · [E039](../../episodes/E039.md) · [E049](../../episodes/E049.md) · [E050](../../episodes/E050.md) · [E051](../../episodes/E051.md) · [E054](../../episodes/E054.md) · [Buttons](buttons.md) · [P0D](p0d.md) · [Q&A](../../episodes/BONUS-2019-03.md) · [S2E01](../../episodes/S2E01.md) · [S2E03](../../episodes/S2E03.md) · [S3E17](../../episodes/S3E17.md) · [S3E18](../../episodes/S3E18.md).
