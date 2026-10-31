@@ -64,6 +64,23 @@ Record the action, affected files, source/approval, observed result, test scope 
 
 Original-audio verification must name the recording source, actual listened clock interval and verifier; two ASR outputs are not audio verification. Historical record URLs, evidence report paths and approved archive hashes remain retained as evidence.
 
+## Transport-safe check checkpoints
+
+After each successful targeted validation, record its status and any coverage
+limit **once in the active WCL task**. A final handoff should use a small
+readback of that task and a scoped Git check, not a second multi-file sweep.
+Limit concurrent checks, summarize large render/diff results inside the tool
+call, and never emit full HTML or base64 data as a diagnostic. If the tool
+request itself exceeds a call budget, break it into separate small calls.
+
+After a stream interruption, the **last operation is unconfirmed**, not
+automatically rolled back. On the next call: (1) inspect only the current
+Git status/target; (2) compare persisted results with the task's last confirmed
+checkpoint; (3) resume the first unverified action; and (4) mark a genuinely
+unrunnable test as pending, not passed. Reuse previously verified archive
+hashes instead of reopening large protected snapshots. Avoid repeating
+passed lint, link checks or major rewrites solely to produce a final summary.
+
 ## Operation protocol
 
 1. **Classify the edit permission, then write intent.** Straightforward

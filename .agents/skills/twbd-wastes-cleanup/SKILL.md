@@ -220,6 +220,43 @@ small non-semantic fixes do **not** create an approval hold.
   retrospectives and unused plans. ASR agreement/disagreement is neither accuracy
   nor audio verification. A finale mention is not a final direct appearance.
 
+## Stream-safe verification and recovery
+
+Use **small, bounded, recoverable checks** to reduce large-response or long-call
+stream failures. This is a transport-risk mitigation, **not** evidence of a
+confirmed transport root cause.
+
+1. **Check incrementally:** Validate each changed file close to its edit and
+   record the actual result/limits under its WCL task immediately. At final
+   handoff check only unresolved gates, the concise task readback and Git
+   status/diff; **do not rerun all previously passed checks**.
+2. **Bound calls and output:** Prefer one focused test or 1–3 short independent
+   calls at a time, rather than a broad parallel fan-out. Use short numbered
+   ranges for source reading. For binary files, request only small metadata
+   chunks when size/SHA-256 suffice. Never forward full rendered HTML, large
+   binary/base64 payloads, massive diffs or entire legacy reports as results.
+   Count link/anchor statuses within the call and return **only counts,
+   exceptions and precise failures**. Avoid a single script with dozens of
+   nested tool calls, even if each response is small.
+3. **Do not revalidate immutable archives repeatedly:** Verify an exact
+   preservation copy once (size + SHA-256), record the result and reuse it until
+   its bytes or relevant inputs change. Archived historical files above
+   renderer limits are not missing merely because HTML preview cannot inspect
+   them; note that limit separately from the verified file hash.
+4. **Handle transport errors as unknown outcomes:** On `Error in input stream`,
+   message-stream loss, timeout or interrupted verification, do **not** infer
+   that a write or check failed, and do not blindly repeat the last batch.
+   Reconnect with **one small read-only Git status or target readback**, verify
+   whether the last operation persisted, then resume **only incomplete checks**.
+   Record any genuinely unverified check as pending. Do not create a backup,
+   change task status, or redo a major rewrite merely because delivery failed.
+5. **Prioritize useful stopping points:** Once required checks are accounted
+   for, close the one WCL task and give a concise status. Extra independent
+   audits belong to separately scoped tasks, not an ever-expanding final
+   verification block. If one check is expensive or unreliable, isolate it,
+   explain its limitation and leave that gate explicitly open rather than
+   risking all completed work.
+
 ## Validate and hand off
 
 Before a major rewrite/restructure verify one exact SHA-256-checked working-copy
