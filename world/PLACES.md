@@ -2,6 +2,8 @@
 
 Travel through the settlements, ruins, planes and distant destinations of The Wastes. Each place has its own inhabitants, history and changing place in the companions' journey.
 
+**Peoples of these places:** [Lizardfolk](races/lizardfolk.md) · [Tieflings](races/tieflings.md) · [Peoples and cultures](RACES.md).
+
 ## Principal settlements and destinations
 
 | Place | Character and story significance | Detailed reference |

@@ -44,6 +44,8 @@ Kristen says in [post-Delvers Q&A ~29–31min](../../episodes/BONUS-2021-11-13.m
 
 Hope is a tiefling engineer whose instinct is to make broken things useful again. In Dusthill she brings that practical ingenuity to the journeys of Nash, Stanley and Vorel, while hoping that ancient technology might one day change what has already been lost.[^introduction]
 
+**Related people:** [Tieflings and their communities](../races/tieflings.md).
+
 ## Development by arc
 
 ### Arc One — A mechanic among the ruins

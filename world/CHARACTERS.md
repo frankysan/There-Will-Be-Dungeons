@@ -2,6 +2,8 @@
 
 Meet the people whose loyalties, rivalries and choices shape The Wastes. Follow the original companions, their families and allies, and the rulers and witnesses they encounter.
 
+**Their wider communities:** [Lizardfolk](races/lizardfolk.md) · [Tieflings](races/tieflings.md) · [Peoples and cultures](RACES.md).
+
 ## The original four protagonists
 
 | Character | Story and current path | Detailed profile |

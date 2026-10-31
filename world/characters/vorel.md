@@ -10,7 +10,7 @@
 
 **Portrayed by:** Kyle. **Identity:** Lizardfolk warrior and leader, protector of **Bok Bok**, bearer of the **Eye of Groxl** and claimant to many personal titles. **Spoilers:** Main Wastes through **S3E18** and cast Q&As, including the April, May and July-filed 2022 retrospectives. **Evidence:** ASR-provisional except owner-confirmed item/name orthography.[^march21]
 
-**Browse:** [Characters](../CHARACTERS.md) · [His source-indexed titles](vorel-titles.md) · [Eye of Groxl](../technology/eye-of-groxl.md) · [World portal](../README.md).
+**Browse:** [Characters](../CHARACTERS.md) · [Lizardfolk peoples](../races/lizardfolk.md) · [His source-indexed titles](vorel-titles.md) · [Eye of Groxl](../technology/eye-of-groxl.md) · [World portal](../README.md).
 
 ## S3E15 — one concentrated canyon TNT ambush prepared; no explosion yet
 

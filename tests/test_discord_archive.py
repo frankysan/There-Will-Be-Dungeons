@@ -229,6 +229,53 @@ class DiscordArchiveTests(unittest.TestCase):
         self.assertEqual(archive.search(self.index,'compass')[0]['message_id'],str(MID))
         self.assertEqual(archive.search(self.index,'Astral needle')[0]['message_id'],str(MID))
 
+    def test_version_two_races_preserve_existing_entity_lookup(self):
+        """Use only a synthetic Discord archive; the project entity names are public test inputs."""
+        data=json.loads((archive.ROOT/"world/entities.json").read_text(encoding="utf-8"))
+        self.assertEqual(data["version"],2)
+        self.assertEqual(data["stage"],"extended-pilot")
+        self.assertEqual(data["source_scope_policy"],"cited-episodes-only")
+        records=data["entities"]
+        ids=[record["id"] for record in records]
+        self.assertEqual(len(ids),18)
+        self.assertEqual(len(set(ids)),18)
+        self.assertEqual(ids[:16],[
+            "character.nash","character.hope","character.stanley","character.vorel",
+            "npc.softhead","npc.hillmaster","npc.gimster","npc.shun_t",
+            "place.dust_hill","place.blood_canyons","place.solar_mines",
+            "place.verithica","place.caegro","tech.dragon_engines",
+            "world.dark_pact","organization.hill_guard",
+        ])
+        self.assertEqual(ids[16:],["race.lizardfolk","race.tieflings"])
+        all_sources={source["episode"] for record in records for source in record["sources"]}
+        self.assertEqual(set(data["source_scope"]),all_sources)
+        self.assertEqual(len(data["source_scope"]),len(all_sources))
+        by_id={record["id"]:record for record in records}
+        for race_id,person_id in (( "race.lizardfolk","character.vorel"),
+                                  ("race.tieflings","character.hope")):
+            race=by_id[race_id]
+            self.assertEqual(race["type"],"race_culture")
+            self.assertEqual(race["name_status"],"known_label")
+            self.assertEqual(race["aliases"],[])
+            self.assertTrue((archive.ROOT/race["page_path"]).is_file())
+            self.assertEqual(race["relations"],[
+                {"relation":"documented_individual","entity_id":person_id},
+            ])
+            self.assertEqual(by_id[person_id]["type"],"person_character")
+            for source in race["sources"]:
+                self.assertTrue((archive.ROOT/"episodes"/(source["episode"]+".md")).is_file())
+                self.assertRegex(source["time"],r"^\d{2}:\d{2}:\d{2}$")
+        self.mutate("UPDATE messages SET text=? WHERE message_id=?",
+                    ("Vorel lizardfolk Hope Tieflings",MID))
+        archive.ingest(self.source,self.index,fallback=True)
+        for entity_id in ("character.vorel","character.hope","race.lizardfolk",
+                          "race.tieflings"):
+            result=archive.entity_search(self.index,entity_id)
+            self.assertEqual(result["entity_id"],entity_id)
+            self.assertIn(str(MID),[hit["message_id"] for hit in result["matches"]])
+        with self.assertRaisesRegex(ValueError,"Unknown project entity ID"):
+            archive.entity_search(self.index,"race.unknown")
+
 
 if __name__=='__main__':
     unittest.main()

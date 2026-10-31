@@ -1,10 +1,16 @@
 {
-  "version": 1,
-  "stage": "pilot-seed",
+  "version": 2,
+  "stage": "extended-pilot",
   "source_scope": [
     "E000",
-    "E001"
+    "E001",
+    "E028",
+    "E054",
+    "E060",
+    "E117",
+    "S3E18"
   ],
+  "source_scope_policy": "cited-episodes-only",
   "entities": [
     {
       "id": "character.nash",
@@ -410,6 +416,98 @@
       ],
       "questions": [
         "Confirm whether formal organization or ad hoc designation"
+      ]
+    },
+    {
+      "id": "race.lizardfolk",
+      "display_name": "Lizardfolk",
+      "type": "race_culture",
+      "aliases": [],
+      "name_status": "known_label",
+      "description": "Intelligent lizardfolk peoples, including Golden Land hunters and the distinct Razak Val clans. Their local Great Fang traditions are not universal traits; after Earth's restoration Vorel leads a surviving group toward Razak Val, without a witnessed reconstruction.",
+      "sources": [
+        {
+          "episode": "E000",
+          "time": "00:11:41",
+          "evidence_type": "character_intro"
+        },
+        {
+          "episode": "E028",
+          "time": "01:24:00",
+          "evidence_type": "session_event"
+        },
+        {
+          "episode": "E060",
+          "time": "00:22:00",
+          "evidence_type": "session_event"
+        },
+        {
+          "episode": "S3E18",
+          "time": "01:20:00",
+          "evidence_type": "session_event"
+        },
+        {
+          "episode": "S3E18",
+          "time": "02:13:00",
+          "evidence_type": "session_event"
+        }
+      ],
+      "questions": [
+        "Groxl's origin narrative and local creation stories are testimony, not independently verified general ancestry.",
+        "The group's arrival at and rebuilding of Razak Val are not shown."
+      ],
+      "page_path": "world/races/lizardfolk.md",
+      "relations": [
+        {
+          "relation": "documented_individual",
+          "entity_id": "character.vorel"
+        }
+      ]
+    },
+    {
+      "id": "race.tieflings",
+      "display_name": "Tieflings",
+      "type": "race_culture",
+      "aliases": [],
+      "name_status": "known_label",
+      "description": "Tiefling peoples connected with T'ietkalla and its displaced communities. Nobieri's ancient royal account is attributed testimony; Hope's coronation and the Harbor's founding are witnessed, while T'ietkalla's reconstruction remains incomplete.",
+      "sources": [
+        {
+          "episode": "E000",
+          "time": "00:07:27",
+          "evidence_type": "character_intro"
+        },
+        {
+          "episode": "E054",
+          "time": "01:06:00",
+          "evidence_type": "session_event"
+        },
+        {
+          "episode": "E117",
+          "time": "02:09:00",
+          "evidence_type": "session_event"
+        },
+        {
+          "episode": "S3E18",
+          "time": "01:20:00",
+          "evidence_type": "session_event"
+        },
+        {
+          "episode": "S3E18",
+          "time": "02:13:00",
+          "evidence_type": "session_event"
+        }
+      ],
+      "questions": [
+        "Ancient Akmenos genealogy and supernatural pacts are not independently established as species-wide history.",
+        "T'ietkalla's final rebuilding and a complete survivor census are not witnessed."
+      ],
+      "page_path": "world/races/tieflings.md",
+      "relations": [
+        {
+          "relation": "documented_individual",
+          "entity_id": "character.hope"
+        }
       ]
     }
   ]

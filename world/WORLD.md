@@ -1,6 +1,6 @@
 # The Wastes — world systems and setting overview
 
-Across a drought-stricken future Earth, ancient machinery, magic and competing political powers shape life from isolated settlements to other planes. This page describes *how the world works and what its inhabitants claim*, rather than duplicating every plot beat. Browse [places](PLACES.md), [characters](CHARACTERS.md), [artifacts](ITEMS_AND_ARTIFACTS.md), [factions](FACTIONS_AND_POWERS.md) and [historical events](HISTORICAL_EVENTS.md) for focused treatments.
+Across a drought-stricken future Earth, ancient machinery, magic and competing political powers shape life from isolated settlements to other planes. This page describes *how the world works and what its inhabitants claim*, rather than duplicating every plot beat. Browse [places](PLACES.md), [characters](CHARACTERS.md), [peoples and cultures](RACES.md), [artifacts](ITEMS_AND_ARTIFACTS.md), [factions](FACTIONS_AND_POWERS.md) and [historical events](HISTORICAL_EVENTS.md) for focused treatments.
 
 ## A surviving far-future Earth
 
