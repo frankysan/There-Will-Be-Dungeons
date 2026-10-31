@@ -12,6 +12,8 @@ Beyond the companions and the rulers they encounter are communities with their o
 | [Elves](races/elves.md) | The Elhandari's forest sanctuary and refuge for others, the fall of Elhandar, and the communities that survive on Mars, Earth and in the Feywild. |
 | [Dwarves](races/dwarves.md) | Ancient underground halls, the Oilbeard-controlled Black Mine, and Burp's declining mithril town, alongside distinct craftsmen and ship crews. |
 | [Orcs](races/orcs.md) | Differing loyalties among the Principal's Koromukishi martial order, Liberator dissidents, mercenary crews and former enemies offered a future with Vorel. |
+| [Illithids](races/illithids.md) | CHIDS invaders, a headset-mediated office and Fax's independent Sigil life; disputed Void Realm claims do not define every mind flayer. |
+| [Pixies](races/pixies.md) | P0D's testimony about captivity, the forced Pixie Hulks, and a separate alternate Pod's family at Tower Nash. |
 
 ## Communities and connections
 
@@ -21,7 +23,7 @@ The [factions and powers](FACTIONS_AND_POWERS.md) directory follows organization
 
 ## Sources and project notes
 
-The first two source-backed population studies, Lizardfolk and Tieflings, were created under the approved [Races-domain decision](../project/DECISIONS.md); later Harlequinari, Elves, Dwarves and Orcs studies use narrower, differently evidenced community histories. Their accounts distinguish events witnessed in play from local history, testimony and uncertain origins. Primary episode coverage includes [the early lizardfolk encounters](../episodes/E016.md), [Razak Val's succession](../episodes/E060.md), [the T'ietkalla coronation](../episodes/E054.md), [the Harbor's founding](../episodes/E117.md) and [the played campaign finale](../episodes/S3E18.md).
+The first two source-backed population studies, Lizardfolk and Tieflings, were created under the approved [Races-domain decision](../project/DECISIONS.md); later Harlequinari, Elves, Dwarves, Orcs, Illithids and Pixies studies use narrower, differently evidenced community histories. Their accounts distinguish events witnessed in play from local history, testimony and uncertain origins. Primary episode coverage includes [the early lizardfolk encounters](../episodes/E016.md), [Razak Val's succession](../episodes/E060.md), [the T'ietkalla coronation](../episodes/E054.md), [the Harbor's founding](../episodes/E117.md) and [the played campaign finale](../episodes/S3E18.md).
 
 **Lactids remain a research candidate, not a standalone population page.** The [Lactid Cartel](FACTIONS_AND_POWERS.md) is an organization implicated in the played [Sapphire attack](../episodes/E013.md), not representative evidence for the culture or abilities of all Lactids. [Bertrand's account](../episodes/E026.md) of a Principal City underworld and possible mind control, and [Monsoon's claim](../episodes/E039.md) about an exile influencing Blunt Goliver, are interested testimony rather than independently witnessed people-level history. The [S3E019 roundtable](../episodes/S3E019.md) discusses an underground, cockroach-like society and pixie-blush trafficker in **unused Principal City preparation**, not a city visit or played cultural survey. The owner's `Laktid` spelling remains a [research alias](../project/OWNER_EPISODE_NOTES.md), not a verified replacement for the working written form. **Disposition:** retain the cartel under Factions; defer an independent culture article until population-level evidence is established.
 

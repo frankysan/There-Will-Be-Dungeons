@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Pixie Hulks are enormous, muscular transformations of small pixies, combining crushing physical strength with pixie magic. [P0D](../characters/p0d.md) first revealed the horror of this change when Monsoon Cabbage's command forced her into a giant, aggressive form. Her distress and confusion remained visible beneath the violence.[^change]
+Pixie Hulks are enormous, muscular transformations of small pixies, combining crushing physical strength with pixie magic. The [Pixies people profile](../races/pixies.md) treats the original individuals, captivity and independent households; this page concerns the imposed form, not a separate people. [P0D](../characters/p0d.md) first revealed the horror of this change when Monsoon Cabbage's command forced her into a giant, aggressive form. Her distress and confusion remained visible beneath the violence.[^change]
 
 ## The assault on T'ietkalla
 
