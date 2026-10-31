@@ -11,20 +11,42 @@
 
 If records disagree, reconcile actual bytes and decisions, never unsupported success claims. Use `reports/` only for independently useful research, not routine batch paperwork.
 
-## Resume from the indexed task list
+## Recover and coordinate an adaptive WCL cohort
 
-1. Inspect the live HEAD and working tree. Read the register's next unchecked `WCL-###` and its acceptance criteria; inspect relevant artifacts.
-2. Save bounded path/operation intent, source/owner authority, checks and recovery state **once in that task**. For many independent files split into child task IDs or link one per-file census; keep older batch IDs as historical evidence labels only.
-3. Reconcile timeouts using current file contents; pending or unverified operations remain unchecked. Never regenerate an already verified baseline.
-4. Check off the one task when fully evidenced, attach actual tests/limits and set the next action **there**. Change the manifest only when a file's disposition changed; append a changelog row only for a genuine milestone, decision or significant blocker.
-5. Do not mirror completion in progress, duplicate long descriptions in three records, create fresh report snapshots per task, or falsely mark a whole phase complete from sample checks.
+1. Inspect live Git status/HEAD and the register's next actionable WCL ID.
+   A named user task takes precedence. Evaluate its dependencies and a
+   **small lookahead set** of related eligible siblings or same-source tasks
+   according to [the cleanup skill's adaptive batching contract](../SKILL.md).
+   An older unchecked deferred/conditional task is not automatically next.
+2. Record a compact **selected task ID set and ordered dependency/operation
+   plan** in the relevant existing WCL entries. Do not create another batch
+   record. The same source may support multiple IDs, but each retains its
+   own acceptance condition; parents close only after required children and
+   the parent exit gate are actually satisfied.
+3. Preflight the union of unique input sizes, source windows, link/fragment
+   density, edit risk, validation work and tool-output cost **before** loading
+   all files. Group small related tasks and split large/conflicting ones;
+   reserve room for edits, checks and checkpointing. This is an approximate
+   context budget, not a claimed exact token count.
+4. After each complete task, persist evidence and its individual checkbox.
+   If a tool or session interrupts the cohort, compare actual persisted bytes
+   and resume the first unfinished ID or operation, retaining all previously
+   validated work. Do **not** rerun the whole group.
+5. At close, read back only changed WCL entries, update the register's one
+   next-action pointer, and run bounded remaining checks. The manifest changes
+   only for actual artifact dispositions; the milestone log only for meaningful
+   decisions or changes. Never append progress in the old redirect or create
+   a parallel "completed batch" ledger.
 
 ## Grouped world census: per-file recovery contract (owner approved 2026-10-27)
 
-For Phase 0 **read-only structural audits**, record related files as **per-file subrecords under one WCL task**, or a linked continuing census when the list is extensive, **without a report per group**. Before the first full read, inspect live Git status and
-candidate sizes, then persist an ordered path list and estimated line budget. Default to a 4–6-file pilot (roughly 300 lines) for the next
-batch; subsequent choices follow the skill's short/medium/large grouping envelopes.
-Never treat a numeric target as a reason to add an unrelated or complex file.
+For Phase 0 **read-only structural audits**, record related files as per-file
+subrecords under their **selected WCL task IDs**, or a linked continuing census
+when the list is extensive, without a report per group. Preflight live Git
+status, actual file sizes and evidence overlap; choose the number of files
+by the skill's adaptive context/complexity budget. Four to six short files
+is a possible *small* census grouping, not a target to fill. Never add
+unrelated work merely to reach a numeric count.
 
 Create one **file record per planned path**, with:
 
@@ -40,7 +62,7 @@ Create one **file record per planned path**, with:
 - Any owner approval needed before a **material content edit**. Read-only
   structural completion is not `fact-reviewed`, `audio-verified` or accepted.
 
-**Checkpoint after each file in the existing record**, not in a new file:
+**Checkpoint each completed file under its specific WCL task**, not in a new file:
 update its status to `complete` only following full line coverage and saved
 findings; persist the next file and any error.
 If the tool times out, do not mark in-flight work complete. On resume compare
@@ -52,31 +74,33 @@ files as complete. A required **unapproved substantive edit stops the entire
 cleanup batch** under the skill's owner-approval gate; never process a different
 file as a workaround. Read-only investigation can document the blocked choice.
 
-At close, mark **only verified WCL file subrecords/tasks** complete, read back that task and check Git scope. Update the manifest only for actual file dispositions; never mirror task completion in progress. Do not create PRE_ copies for routine control edits. If interrupted, reconcile the task against persisted evidence without repeating finished reads. Count world
+At close, check off **each independently verified WCL task**, read back only changed entries and check Git scope. Update the manifest only for actual file dispositions; never mirror task completion in progress. Do not create PRE_ copies for routine control edits. If interrupted, reconcile the task against persisted evidence without repeating finished reads. Count world
 first-pass coverage per completed **unique path**; do not change the original
 134-file worklist's `listed_only` directory-baseline states. Missing hashes,
 source/fact/audio verification, incoming/backlink checks or lint remain explicitly
 pending and are never implied by a batch completion label.
 
-## Single-task evidence and milestone recording
+## Per-task evidence and milestone recording
 
-Record the action, affected files, source/approval, observed result, test scope and limits under the active `WCL-###`. For major rewrites, link the **one** SHA-verified pre-edit original and source/paragraph trace. For a census, retain actual per-file evidence in the task or a linked continuing census. A meaningful milestone/owner decision may also get **one brief changelog row referring to the task ID**. Incremental validation, ordinary typo fixes and routine checkoffs do not receive duplicate change entries.
+Record the action, affected files, source/approval, observed result, test scope and limits under **each affected `WCL-###`**, even when several share one source read. For major rewrites, link the **one** SHA-verified pre-edit original and source/paragraph trace. For a census, retain actual per-file evidence in the task or a linked continuing census. A meaningful milestone/owner decision may also get **one brief changelog row referring to the task ID**. Incremental validation, ordinary typo fixes and routine checkoffs do not receive duplicate change entries.
 
 Original-audio verification must name the recording source, actual listened clock interval and verifier; two ASR outputs are not audio verification. Historical record URLs, evidence report paths and approved archive hashes remain retained as evidence.
 
 ## Transport-safe check checkpoints
 
-After each successful targeted validation, record its status and any coverage
-limit **once in the active WCL task**. A final handoff should use a small
-readback of that task and a scoped Git check, not a second multi-file sweep.
+After each successful targeted validation, record its status and coverage
+limit once under the **relevant WCL ID**. At final handoff read back only
+the modified task entries and use a scoped Git check, never a second
+multi-file verification sweep.
 Limit concurrent checks, summarize large render/diff results inside the tool
 call, and never emit full HTML or base64 data as a diagnostic. If the tool
 request itself exceeds a call budget, break it into separate small calls.
 
 After a stream interruption, the **last operation is unconfirmed**, not
 automatically rolled back. On the next call: (1) inspect only the current
-Git status/target; (2) compare persisted results with the task's last confirmed
-checkpoint; (3) resume the first unverified action; and (4) mark a genuinely
+Git status/target; (2) compare persisted results with each task's last confirmed
+checkpoint; (3) resume the first unverified action in the selected cohort;
+(4) mark a genuinely
 unrunnable test as pending, not passed. Reuse previously verified archive
 hashes instead of reopening large protected snapshots. Avoid repeating
 passed lint, link checks or major rewrites solely to produce a final summary.
@@ -110,7 +134,7 @@ passed lint, link checks or major rewrites solely to produce a final summary.
 3. **Recheck the precondition.** Immediately before editing, ensure the target
    still matches its expected hash; reconcile intervening changes instead of
    overwriting them or treating an outdated archive as their backup.
-4. **Apply one bounded operation.** Read back the changed output and update the single WCL task with the result needed for recovery. Record a
+4. **Apply one bounded operation.** Read back the changed output and update the corresponding WCL task with the result needed for recovery. Record a
    post-edit SHA-256 for accepted/version-pinned or major rewritten documents,
    but do not require a new hash, backup or report for every minor edit. Where
    supported, write active controls atomically; a leftover temporary file is
@@ -122,7 +146,7 @@ passed lint, link checks or major rewrites solely to produce a final summary.
    stage inapplicable; never fabricate an original. Audio review is separate,
    not required for every ASR-provisional editorial acceptance. Record actual
    acceptance criteria and reviewer.
-6. **Close the task once.** Verify its defined deliverable and actual checks; update that checkbox, evidence and next action. Update the manifest only if an artifact's disposition/compatibility changed, and the changelog only for a material milestone/decision. Never update the progress redirect per batch. Reconcile interrupted writes before moving on.
+6. **Close each selected task independently.** Verify each deliverable and its own checks; update only its checkbox/evidence and set one next-action pointer. Update the manifest only if an artifact's disposition/compatibility changed, and the changelog only for a material milestone/decision. Never update the progress redirect per batch. Reconcile interrupted writes before moving on.
 
 ## Recovery decisions
 
@@ -134,11 +158,11 @@ passed lint, link checks or major rewrites solely to produce a final summary.
 | Input changed since checkpoint | Preserve new work, assess dependent operations, invalidate only affected evidence and rebuild that slice's prerequisites. Preserve baseline/history. |
 | Required major-rewrite baseline missing/hash mismatch | Stop the major rewrite; recover verifiable exact original bytes or record a blocker. Routine guarded copyedits and read-only work do not require a full-file baseline. |
 | Check fails/tool unavailable | Record exact scope/failure. Fix introduced problems where possible; keep missing checks pending and avoid falsely advancing acceptance. |
-| Task-register update interrupted | Reconstruct actual source state, then apply only the missing task edit. Keep unchecked until validated. |
+| Task-register update interrupted | Inspect each selected ID against persisted artifacts; restore only missing task-state edits, keeping unverified IDs unchecked. |
 | Routine unambiguous spelling/grammar/display correction | Apply under standing D-047 owner permission after guarded source-hash/archive checks; verify exact delta and preserve quotes, aliases, URLs, referents and uncertainty. No per-edit approval request. |
 | Substantive or ambiguous change has no explicit approval | **Stop before that edit**, persist the exact choice and evidence, request approval/clarification and do not substitute other substantive cleanup edits. Resume after decision is recorded. |
 
 After repeated failure, change approach or reduce the slice instead of blindly
 repeating a call. Preserve failures and recovery outcomes. A batch is complete
-only when its scoped outputs/checks are accounted for and its WCL task evidence agrees;
+only when its scoped outputs/checks are accounted for and **each selected WCL task's** evidence agrees;
 the phase may still remain incomplete.

@@ -1,6 +1,6 @@
 ---
 name: twbd-wastes-cleanup
-description: Progressively execute or resume The Wastes completed-campaign cleanup plan in bounded, related multi-file batches, with recoverable evidence and a compact, continuously maintained change and decision history rather than per-task backups or reports. Use for Wastes narrative consolidation, world cleanup, inventory, and campaign integration under that plan; not routine episode intake or other campaigns.
+description: Execute the indexed WCL task register for The Wastes cleanup, selecting dependency-safe groups of related unfinished tasks through adaptive context, source, and verification budgeting. Check off each task independently with recoverable evidence; keep other project records concise. Use for Wastes narrative, world, reference and integration cleanup; not routine episode intake or other campaigns.
 ---
 
 # Wastes campaign cleanup
@@ -43,49 +43,110 @@ For prose read `project/EDITORIAL_GUIDE.md`,
 `project/WORLD_REFERENCE_PAGE_TEMPLATE.md`. For taxonomy also read
 `project/WORLD_CREATURES_PLAN.md` and `world/ENTITY_SCHEMA.md`.
 
-## Resume and choose a slice
+## Select work from the WCL task register
 
-Read [progress and recovery](references/progress-and-recovery.md) before cleanup
-mutations. Maintain recoverable operation states in existing controls; do not create
-new reports or snapshots solely because another small operation or turn began.
-Apply the repository-wide baseline/reporting economy policy (D-052 in AGENTS.md).
+Read [progress and recovery](references/progress-and-recovery.md) before
+mutations. Follow D-052 backup/reporting economy. **The authoritative work
+queue is `project/WASTES_CLEANUP_TASKS.md`, not numeric historical batches,
+the old phase-plan "next" sentences, or manifest/changelog pointers.**
 
-1. Inspect HEAD, staged/unstaged changes and untracked files. Preserve unrelated
-   work. Read `project/WASTES_CLEANUP_TASKS.md` **first**; its unchecked stable
-   `WCL-###` items and current next-action pointer govern work. The old
-   `WASTES_CLEANUP_PROGRESS.md` is only a redirect. Read manifest dispositions
-   only when file creation, preservation, path compatibility or disposition is
-   relevant; the old full history is preserved under `research/legacy/`.
-2. Reconcile incomplete operations against actual bytes, hashes, archives and
-   check results. A timed-out call has an unknown outcome until inspected. Never
-   blindly repeat it, overwrite partial work or regenerate a baseline over edits.
-3. Reuse valid artifacts. HEAD advancing alone does not invalidate them: inspect
-   changed inputs/dependencies and recheck only affected work. A validation-only
-   resume does not trigger transcript rereading or another rewrite.
-4. Select the explicit next eligible unchecked `WCL-###` task; split it into
-   further stable child task IDs if it describes multiple independently verifiable
-   deliverables. An existing historical `Batch ###` number is evidence, **never**
-   a new task ID. For read-only Phase 0 world censuses,
-   **prefer one related multi-file batch** after size/complexity preflight, rather
-   than one administrative checkpoint per short article. Use the approved limits
-   below; keep complex registers and large narrative/scene transformations in
-   separate controlled slices. Never merge unrelated editorial decisions.
-5. Record the intended paths, approval basis and per-file operation states **in
-   that task's entry** (or a linked evidence worklist for a long census).
-   Perform and read back each bounded operation, record actual checks and limits,
-   then check **that one task** off only when its acceptance criteria pass.
-   Update the manifest **only** if an artifact's disposition/compatibility changed;
-   update the milestone changelog **only** for a meaningful milestone or decision.
-   Do not append a second progress or per-batch recap. On interruption recover
-   the first unverified file/state without rerunning completed work.
+1. **Refresh live state and task statuses.** Inspect HEAD and working-tree
+   changes, then read the task-register introduction, the explicit
+   **Current next action**, the relevant WCL entries and their parent/child
+   dependencies. Preserve other people's edits and reconcile incomplete work
+   against actual bytes, checks, archives and source horizons. A timed-out
+   operation has unknown outcome until read back.
+2. **Establish the anchor task.** If the owner names a task, use that scope.
+   Otherwise start from the register's current next actionable WCL ID, *not*
+   the lowest-numbered unchecked entry: older tasks may be deliberately
+   deferred, conditional, blocked or dependent on another review. If its
+   status is stale, reconcile and correct the pointer with evidence; do not
+   silently skip a genuinely blocked requested edit. A parent workstream is
+   not independently complete while required children remain unchecked.
+3. **Look ahead for related eligible tasks.** Inspect a small number of nearby
+   child/sibling tasks and other open WCL IDs sharing the **same article,
+   evidence windows, dependency chain or one coherent edit/validation pass**.
+   Check that all have satisfied prerequisites, applicable authorization and
+   individually testable acceptance criteria. Keep unrelated campaigns,
+   approvals and contested canon decisions separate. Open inventory candidates
+   are investigations, not automatic permission to author missing pages.
+4. **Preflight cost before selecting a cohort.** Inspect metadata and small
+   slices rather than loading all candidate articles and whole historical
+   archives. Estimate unique source bytes/lines, primary episodes or evidence
+   windows, files and incoming links to edit, expected output, validation
+   effort, risk of conflicting work, and source/approval uncertainty. Use the
+   **adaptive batching rules below**. Choose a small ordered cohort; it may
+   contain one task if the anchor itself is extensive. Do not group merely
+   because several checkboxes are adjacent in the register.
+5. **Execute in dependency order.** Record a compact intent and selected IDs
+   in their existing task entries (no extra batch journal), then perform each
+   bounded operation, its readback and necessary tests. Check off **each WCL
+   independently** once that task's outcome is proved. If the work is
+   interrupted, leave only unverified or blocked IDs unchecked and recover
+   from the first incomplete step without repeating verified reads/edits.
+6. **Close and select the next task.** Reconcile the parent only when its
+   defined exit gate and required children are evidenced. Set **Current next
+   action** to the next eligible unchecked WCL ID based on dependencies and
+   priority; this need not be numerically adjacent. Read back task changes
+   and inspect Git status. Update the manifest only for actual file
+   dispositions/compatibility, and the changelog only for meaningful
+   milestones/decisions. Never maintain a parallel progress log.
+
+### Adaptive, context-safe grouping of multiple tasks
+
+**Default: consider a cohort every time**, but prefer a useful finished
+subset to a large unfinished batch. Make an explicit **group-or-split**
+judgment at the beginning and reconsider after each completed task.
+
+| Work type | Usual grouping decision |
+| --- | --- |
+| Several small read-only checks on the same file/source | Group 2–6 short tasks if their evidence and acceptance checks overlap; share source reads |
+| Bounded independent copyedits/cross-links | Group about 2–4 low-risk tasks if approval, change set and validations are compatible |
+| One large biography/technical register, source-heavy audio check, contested canon, schema migration or major rewrite | Prefer one focused task, or a few ordered *stages of the same task*; plan a new slice before expanding |
+| Prerequisite → dependent task (such as [WCL-044](../../../project/WASTES_CLEANUP_TASKS.md#wcl-044) → [WCL-045](../../../project/WASTES_CLEANUP_TASKS.md#wcl-045) → [WCL-046](../../../project/WASTES_CLEANUP_TASKS.md#wcl-046)) | May share one research pass, **but close each separately and do not start the dependent edit/decision until prerequisite evidence is real** |
+| Browser-deferred, conditional public-release or unapproved substantive task | Not eligible for opportunistic grouping; retain the gate and request an owner decision where genuinely required |
+
+**Context and response budget (heuristic, not a precise token meter):**
+
+- Estimate the **union** of newly needed evidence, not the sum of repeated
+  references. Prefer small numbered-line windows and distilled findings over
+  copying whole articles into context. A large WCL record is not a mandate to
+  reread every historical batch.
+- Keep the next slice comfortably within the remaining context. Reserve
+  substantial room for comparing evidence, making guarded edits, checking
+  output, updating task status and explaining limitations. As a conservative
+  fallback, treat roughly **30,000 characters of newly read dense source text**
+  as a *preflight split warning*, **not a quota**; one large article may need
+  consecutive bounded reads and persisted subrecords. If the source is dense,
+  ambiguous or tool outputs are large, split sooner. Never claim an exact
+  remaining-token count without supporting instrumentation.
+- Limit verification fan-out to **1–3 small calls**, summarize responses
+  inside tools, and avoid forwarding full rendered HTML, massive diffs,
+  base64 text or repeated archived source. Keep independent validations
+  incremental, not one high-cost final sweep.
+- If a task develops new source uncertainties, incompatible edits, failing
+  checks or a required substantive owner decision, **shrink or stop the
+  cohort**. Preserve completed tasks, record the precise blocker in its
+  WCL entry, and do not pick unrelated substantive work merely to evade it.
+- If one task is too large, record a *checkpointed internal stage* within
+  that ID or register a new independently verifiable child ID; **do not
+  tick the checkbox until its full exit criteria are satisfied**. Parent
+  checkboxes are gates, not summaries of a sample.
+- Example: a read-only review may efficiently cover WCL-044–046 with a
+  shared Nash article inventory **only if** heading/anchor findings and
+  historical cutoffs are actually completed before recording the structural
+  disposition. Independently dense Hope/Vorel/Stanley biographies (WCL-047–049)
+  should normally be separate source-reading slices.
 
 ### Bounded multi-file audit selection (owner approved 2026-10-27)
 
 For a **structural read-only inventory**, choose files by theme and source
 relationship (e.g. items and related technology, or several creature profiles),
-not simply because they sort next. Start with the earliest unread eligible path;
-preflight line counts, scope, dependency/claim density and source horizons before
-fixing an ordered target list. Do not mark a worklist entry as read until its
+not simply because they sort next. Within the chosen eligible WCL task(s),
+start with the specified prerequisite paths and select other related unread
+files only if the adaptive source and context preflight allows it.
+Preflight line counts, scope, dependency/claim density and source horizons before
+fixing the ordered targets. Do not mark a worklist entry as read until its
 actual full numbered-line census and findings are recorded.
 
 | Complexity | Preferred grouping | Total source-line planning envelope |
@@ -111,8 +172,8 @@ migration leads, verification limits and `queued | reading | complete | blocked 
 unknown` state. After each fully processed file, save a recovery checkpoint.
 An interrupted or ambiguous operation must be reconciled from actual data before
 resuming; retain completed per-file work and never infer results for unread files.
-At task close, update **one checkbox and its evidence/limits**, read that task
-back and inspect Git status. Change the manifest only for actual disposition
+At cohort close, update **each completed task's checkbox and distinct evidence/limits**,
+read back only the changed WCL entries and inspect Git status. Change the manifest only for actual disposition
 changes; the progress compatibility redirect must not be updated per batch. Keep the preserved 134-file
 world directory worklist as a `listed_only` baseline; track first-pass completion
 in separate evidence records. See [progress and recovery](references/progress-and-recovery.md).
@@ -251,7 +312,7 @@ confirmed transport root cause.
    Record any genuinely unverified check as pending. Do not create a backup,
    change task status, or redo a major rewrite merely because delivery failed.
 5. **Prioritize useful stopping points:** Once required checks are accounted
-   for, close the one WCL task and give a concise status. Extra independent
+   for, close each verified WCL task in the selected cohort and give a concise status. Extra independent
    audits belong to separately scoped tasks, not an ever-expanding final
    verification block. If one check is expensive or unreliable, isolate it,
    explain its limitation and leave that gate explicitly open rather than
@@ -262,7 +323,7 @@ confirmed transport root cause.
 Before a major rewrite/restructure verify one exact SHA-256-checked working-copy
 baseline for that coherent effort; reuse it for subsequent repairs. Ordinary
 bounded edits need no extra archive. After each meaningful operation read back
-the output, **record the result once in its WCL task entry**, and update only
+the output, **record its result once in the corresponding WCL task entry**, and update only
 actual artifact dispositions or significant milestone decisions where applicable.
 Do not generate new per-batch reports or duplicate snapshots.
 
@@ -285,8 +346,9 @@ when needed. Record commands, scope, exit codes, diagnostics and evidence paths.
 Unavailable or timed-out checks remain unrun/unknown. Run code tests when tools
 change, not as an editorial ritual. Passing tooling does not establish facts.
 
-Advance only evidenced lifecycle stages; check off the **single WCL task** when
-validated and set the next action there. Update the manifest only for a real
+Advance only evidenced lifecycle stages; check off **each individually validated
+WCL task** in the selected cohort and set the next eligible action in the
+register introduction. Update the manifest only for a real
 artifact disposition, not as another progress log. Checkpoint **in place** after meaningful slices, before expensive calls where recovery requires it, and immediately on recoverable errors; no standalone report is required per slice. End a turn with completed
 scope, actual validation, unresolved decisions/errors and checkpoint path. Do not
 commit, push, publish or launch background cleanup without explicit authorization.
