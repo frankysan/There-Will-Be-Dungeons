@@ -243,6 +243,34 @@ substantive gate by changing other content instead. Read-only investigation
 to characterize the decision is allowed. Do not request approval again when
 it is already recorded and applicable.
 
+## Optional bounded reference diagnostics (WCL-115)
+
+The repository provides a **read-only, heuristic** helper at
+`tools/wastes_reference_diagnostics.py` with focused regression tests at
+`tests/test_wastes_reference_diagnostics.py`. Run through the authorized
+workspace `run_script` module `tools.wastes_reference_diagnostics` (or
+`python -m tools.wastes_reference_diagnostics` locally), optionally selecting
+`--domain world --domain narrative --domain wastes --max-links 18000`.
+`--sample-per-kind` controls short actionable console samples; `--json`
+provides structured findings and can exceed bounded remote output.
+
+The tool checks **simple inline local Markdown links**, approximate heading
+fragments, footnote reference/definition pairing, missing final-status headings,
+curated canonical-spelling aliases and potential stale high-impact finale
+assertions. It does not fully parse reference-style/nested Markdown, verify
+external bookmarks, perform native GitHub/interactive click-through, listen to
+audio or decide canon. Findings are **review candidates**, not automatic
+corrections; historical six-word-form arc prose remains excluded from active
+name warnings. The previously safety-restricted
+`world/CONSISTENCY_LEDGER.md` and `world/characters/bok-bok.md` are expressly
+**excluded from file-content scanning**, including fragment target reads; leave
+their existing validation tasks blocked until legitimately authorized. Do not
+use other scripts to circumvent these restrictions. Always retain normal
+per-file renderer/lint/source validation and the WCL-103 browser gap. Route
+meaningful corrections to their owning tasks (notably WCL-195/WCL-197 naming,
+WCL-040 source claims, and WCL-116 disposition), without silently rewriting
+historical or disputed evidence.
+
 ## Phases and exit evidence
 
 Use the live campaign plan's phases and gates. Phase completion and individual
