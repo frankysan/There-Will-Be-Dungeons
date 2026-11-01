@@ -1,5 +1,5 @@
 {
   "python.languageServer": "Pylance",
-  "python.analysis.diagnosticMode": "workspace",
+  "python.analysis.diagnosticMode": "openFilesOnly",
   "ruff.configuration": "${workspaceFolder}/pyproject.toml"
 }
