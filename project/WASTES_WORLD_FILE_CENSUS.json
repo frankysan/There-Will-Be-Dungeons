@@ -25,12 +25,12 @@
     "historic_paths": 134,
     "historic_retained": 134,
     "added_since_baseline": 12,
-    "structural_and_outgoing_links_checked": 32,
+    "structural_and_outgoing_links_checked": 44,
     "structural_with_partial_outgoing_links_checked": 5,
-    "structural_paths_verified_render_blocked": 1,
-    "structural_renderer_checked_lint_blocked": 1,
+    "structural_paths_verified_render_blocked": 2,
+    "structural_renderer_checked_lint_blocked": 2,
     "technical_json_structure_checked": 1,
-    "pending_current_per_file_review": 106,
+    "pending_current_per_file_review": 92,
     "by_domain": {
       "world": 17,
       "world/characters": 47,
@@ -796,7 +796,40 @@
       "domain": "characters",
       "in_original_2026_10_27_worklist": true,
       "review": {
-        "level": "pending_current_per_file_review"
+        "level": "structural_and_outgoing_links_checked",
+        "cohort": "WCL-149",
+        "purpose": "bounded_current_character_profile_structural_and_provenance_audit",
+        "source_lines_read": 19,
+        "source_window_note": "Source-first S3E12–S3E17 infernal host: S3E12 Voice Hand handed through Brett to assistant, S3E13 Nash dragon-metal heart removed and retained; S3E17 goatlike devil resembles Brett and collects Principle's soul, exact identity/contract still qualified.",
+        "D048_structure": "source_led_review_required_or_retained_exception",
+        "outgoing_local_links_total": 11,
+        "outgoing_local_links_renderer_checked": 11,
+        "outgoing_broken_links_renderer_checked": 0,
+        "outgoing_distinct_local_target_paths_checked": 10,
+        "outgoing_distinct_local_target_paths_missing": 0,
+        "footnote_references_rendered": 0,
+        "footnote_definitions_rendered": 0,
+        "footnote_references_static": 0,
+        "footnote_definitions_static": 0,
+        "markdown_image_embeds": 0,
+        "legacy_html_anchor_tags": 0,
+        "markdownlint": "passed_zero_violations",
+        "markdown_render": "checked_all_links",
+        "size_bytes": 6186,
+        "sha256": "126fbae2dd450c0b5a71b4cb8114684fe6b39a7a9c3d7f50ffe21191206313f6",
+        "historical_preserved_files": [],
+        "historical_preserved_sha256": [],
+        "incoming_links": "sampled_not_exhaustive",
+        "incoming_link_examples": [
+          "world/ANTAGONISTS.md"
+        ],
+        "primary_audio": "not_checked",
+        "full_source_claim_accuracy": "not_checked",
+        "native_browser": "deferred_WCL-103",
+        "open_questions": [
+          "Brett/Brent name variants and observed S3E17 resemblance are not automatic full identity proof.",
+          "Voice Hand, Eye and Groxl Eye are distinct; no successful new player pact is asserted."
+        ]
       }
     },
     {
@@ -804,7 +837,42 @@
       "domain": "characters",
       "in_original_2026_10_27_worklist": true,
       "review": {
-        "level": "pending_current_per_file_review"
+        "level": "structural_and_outgoing_links_checked",
+        "cohort": "WCL-149",
+        "purpose": "bounded_current_character_profile_structural_and_provenance_audit",
+        "source_lines_read": 21,
+        "source_window_note": "Source-first E028–E059: talking cat killed by Vorel E049; later Speak with Dead and Principal's report do not revive him. The Q&A reveals undisclosed romantic attachment to Stanley and motive to remove Diontalus as retrospective GM insight.",
+        "D048_structure": "source_led_review_required_or_retained_exception",
+        "outgoing_local_links_total": 15,
+        "outgoing_local_links_renderer_checked": 15,
+        "outgoing_broken_links_renderer_checked": 0,
+        "outgoing_distinct_local_target_paths_total": 13,
+        "outgoing_distinct_local_target_paths_checked": 13,
+        "outgoing_distinct_local_target_paths_not_checked": 0,
+        "footnote_references_rendered": 0,
+        "footnote_definitions_rendered": 0,
+        "markdown_image_embeds": 0,
+        "markdownlint": "passed_zero_violations",
+        "markdown_render": "checked_all_local_links",
+        "size_bytes": 3539,
+        "sha256": "5bf5a7d04af0107b595b6b17af2e36d7f5abe3f89ff08744939dc30a1f0ae846",
+        "historical_preserved_files": [
+          "research/legacy/BUTTONS_PRE_N1_P3_G_2026-10-28.md"
+        ],
+        "historical_preserved_sha256": [
+          "cd39099634f2ac895ad1b725e7970bf158e26cf596f6ee675a299329ca1fca03"
+        ],
+        "incoming_links": "sampled_not_exhaustive",
+        "incoming_link_examples": [
+          "world/CHARACTERS.md"
+        ],
+        "primary_audio": "not_checked",
+        "full_source_claim_accuracy": "not_checked",
+        "native_browser": "deferred_WCL-103",
+        "open_questions": [
+          "Retrospective motive not automatically public character knowledge or completed rescue.",
+          "D-048 reader-first main story could be strengthened without erasing cited source notes."
+        ]
       }
     },
     {
@@ -812,7 +880,39 @@
       "domain": "characters",
       "in_original_2026_10_27_worklist": true,
       "review": {
-        "level": "pending_current_per_file_review"
+        "level": "structural_and_outgoing_links_checked",
+        "cohort": "WCL-149",
+        "purpose": "bounded_current_character_profile_structural_and_provenance_audit",
+        "source_lines_read": 47,
+        "source_window_note": "Source-first E072–E075 CHIDS elf: cursed necklace and self-interested testimony, observed death E074, observed return E075, colludes with illithid and escapes alive; exact location unknown. Ancient racial/genetic theories are interested claims.",
+        "D048_structure": "source_led_review_required_or_retained_exception",
+        "outgoing_local_links_total": 17,
+        "outgoing_local_links_renderer_checked": 17,
+        "outgoing_broken_links_renderer_checked": 0,
+        "outgoing_distinct_local_target_paths_total": 11,
+        "outgoing_distinct_local_target_paths_checked": 11,
+        "outgoing_distinct_local_target_paths_not_checked": 0,
+        "footnote_references_rendered": 0,
+        "footnote_definitions_rendered": 0,
+        "markdown_image_embeds": 0,
+        "markdownlint": "passed_zero_violations",
+        "markdown_render": "checked_all_local_links",
+        "size_bytes": 10532,
+        "sha256": "bd37a566c2132d9651d5c2efe67663895a4c8d3fcc9d390b50c1b6865eade90c",
+        "historical_preserved_files": [],
+        "historical_preserved_sha256": [],
+        "incoming_links": "sampled_not_exhaustive",
+        "incoming_link_examples": [
+          "world/CHARACTERS.md"
+        ],
+        "primary_audio": "not_checked",
+        "full_source_claim_accuracy": "not_checked",
+        "native_browser": "deferred_WCL-103",
+        "open_questions": [
+          "E074 death is not final: direct resurrection/return E075 documented; do not extrapolate universal elven immortality.",
+          "Necklace removal mechanism and current ownership of older artifacts untested.",
+          "Provisional spelling and late appended E074/E075 account need editorial restructuring."
+        ]
       }
     },
     {
@@ -836,7 +936,40 @@
       "domain": "characters",
       "in_original_2026_10_27_worklist": true,
       "review": {
-        "level": "pending_current_per_file_review"
+        "level": "structural_and_outgoing_links_checked",
+        "cohort": "WCL-149",
+        "purpose": "bounded_current_character_profile_structural_and_provenance_audit",
+        "source_lines_read": 25,
+        "source_window_note": "Source-first dossier E118–E121: apparently enthusiastic elf apprentice joins hunt, actively abducts Hope E120, then Diontalus appears separately; Dilo's physical body E121 unresponsive and not breathing. His consent, survival and exact written name unconfirmed.",
+        "D048_structure": "source_led_review_required_or_retained_exception",
+        "outgoing_local_links_total": 14,
+        "outgoing_local_links_renderer_checked": 14,
+        "outgoing_broken_links_renderer_checked": 0,
+        "outgoing_distinct_local_target_paths_checked": 12,
+        "outgoing_distinct_local_target_paths_missing": 0,
+        "footnote_references_rendered": 0,
+        "footnote_definitions_rendered": 0,
+        "footnote_references_static": 0,
+        "footnote_definitions_static": 0,
+        "markdown_image_embeds": 0,
+        "legacy_html_anchor_tags": 0,
+        "markdownlint": "passed_zero_violations",
+        "markdown_render": "checked_all_links",
+        "size_bytes": 5152,
+        "sha256": "6406aa6ba898c226595b772a19a37754b5311301d191da134eb9b3fb6902c411",
+        "historical_preserved_files": [],
+        "historical_preserved_sha256": [],
+        "incoming_links": "sampled_not_exhaustive",
+        "incoming_link_examples": [
+          "world/CHARACTERS.md"
+        ],
+        "primary_audio": "not_checked",
+        "full_source_claim_accuracy": "not_checked",
+        "native_browser": "deferred_WCL-103",
+        "open_questions": [
+          "Dilo's knowledge/agency before Diontalus emergence unsettled; do not equate them permanently.",
+          "D-048 reader-first biography/lasting status needs separate review."
+        ]
       }
     },
     {
@@ -972,7 +1105,40 @@
       "domain": "characters",
       "in_original_2026_10_27_worklist": true,
       "review": {
-        "level": "pending_current_per_file_review"
+        "level": "structural_and_outgoing_links_checked",
+        "cohort": "WCL-149",
+        "purpose": "bounded_current_character_profile_structural_and_provenance_audit",
+        "source_lines_read": 9,
+        "source_window_note": "Compact source-led E094–E111 demonic general: E111 kills Squirts and Melgor; Elhandari pacification/capture observed, no confirmed death. Name, later custody and rehabilitation uncertain.",
+        "D048_structure": "source_led_review_required_or_retained_exception",
+        "outgoing_local_links_total": 6,
+        "outgoing_local_links_renderer_checked": 6,
+        "outgoing_broken_links_renderer_checked": 0,
+        "outgoing_distinct_local_target_paths_checked": 6,
+        "outgoing_distinct_local_target_paths_missing": 0,
+        "footnote_references_rendered": 0,
+        "footnote_definitions_rendered": 0,
+        "footnote_references_static": 0,
+        "footnote_definitions_static": 0,
+        "markdown_image_embeds": 0,
+        "legacy_html_anchor_tags": 0,
+        "markdownlint": "passed_zero_violations",
+        "markdown_render": "checked_all_links",
+        "size_bytes": 1194,
+        "sha256": "41076334468c54bdf1ecf17c2aff32581b84d92d24d2ec221bf78c0368724766",
+        "historical_preserved_files": [],
+        "historical_preserved_sha256": [],
+        "incoming_links": "sampled_not_exhaustive",
+        "incoming_link_examples": [
+          "world/CHARACTERS.md"
+        ],
+        "primary_audio": "not_checked",
+        "full_source_claim_accuracy": "not_checked",
+        "native_browser": "deferred_WCL-103",
+        "open_questions": [
+          "Short nine-line profile is a purposeful concise evidence sketch, not an S3E18 update.",
+          "Carthax spelling/ultimate custody need audio or later source confirmation."
+        ]
       }
     },
     {
@@ -1050,7 +1216,40 @@
       "domain": "characters",
       "in_original_2026_10_27_worklist": true,
       "review": {
-        "level": "pending_current_per_file_review"
+        "level": "structural_and_outgoing_links_checked",
+        "cohort": "WCL-149",
+        "purpose": "bounded_current_character_profile_structural_and_provenance_audit",
+        "source_lines_read": 7,
+        "source_window_note": "Concise E050–E051 serpent-haired claimant: Hope/Vorel petrification and recovery witnessed, Kefeli herself petrified and destroyed E051. Alleged royal ancestry/ancient pacts are contested with Monsoon's competing testimony.",
+        "D048_structure": "source_led_review_required_or_retained_exception",
+        "outgoing_local_links_total": 6,
+        "outgoing_local_links_renderer_checked": 6,
+        "outgoing_broken_links_renderer_checked": 0,
+        "outgoing_distinct_local_target_paths_checked": 6,
+        "outgoing_distinct_local_target_paths_missing": 0,
+        "footnote_references_rendered": 0,
+        "footnote_definitions_rendered": 0,
+        "footnote_references_static": 0,
+        "footnote_definitions_static": 0,
+        "markdown_image_embeds": 0,
+        "legacy_html_anchor_tags": 0,
+        "markdownlint": "passed_zero_violations",
+        "markdown_render": "checked_all_links",
+        "size_bytes": 1126,
+        "sha256": "95ea9329bbe3122488c494e41be0fb27d624f1145bc15dc36cef448121778e39",
+        "historical_preserved_files": [],
+        "historical_preserved_sha256": [],
+        "incoming_links": "sampled_not_exhaustive",
+        "incoming_link_examples": [
+          "world/CHARACTERS.md"
+        ],
+        "primary_audio": "not_checked",
+        "full_source_claim_accuracy": "not_checked",
+        "native_browser": "deferred_WCL-103",
+        "open_questions": [
+          "Kefeli/Kepheli spelling remains ASR provisional; destruction observed but theology not proven.",
+          "Compact source-first register may warrant story-first expansion under D-048."
+        ]
       }
     },
     {
@@ -1058,7 +1257,38 @@
       "domain": "characters",
       "in_original_2026_10_27_worklist": true,
       "review": {
-        "level": "pending_current_per_file_review"
+        "level": "structural_and_outgoing_links_checked",
+        "cohort": "WCL-149",
+        "purpose": "bounded_current_character_profile_structural_and_provenance_audit",
+        "source_lines_read": 47,
+        "source_window_note": "Source-first E114–E128 then S3E019 Q&A: Elhandari doctor/wizard shelters Angelashi's four infants, stabilizes family, departs with evacuation transports E128. Princess-versus-imagined-princess origin left unresolved by GM; Lyrielle name/surname remain provisional.",
+        "D048_structure": "source_led_review_required_or_retained_exception",
+        "outgoing_local_links_total": 17,
+        "outgoing_local_links_renderer_checked": 17,
+        "outgoing_broken_links_renderer_checked": 0,
+        "outgoing_distinct_local_target_paths_total": 16,
+        "outgoing_distinct_local_target_paths_checked": 16,
+        "outgoing_distinct_local_target_paths_not_checked": 0,
+        "footnote_references_rendered": 0,
+        "footnote_definitions_rendered": 0,
+        "markdown_image_embeds": 0,
+        "markdownlint": "passed_zero_violations",
+        "markdown_render": "checked_all_local_links",
+        "size_bytes": 9428,
+        "sha256": "71c66c15d13cd618c85f8681c00cada3528a96be3fd6681c3462696d4a083822",
+        "historical_preserved_files": [],
+        "historical_preserved_sha256": [],
+        "incoming_links": "sampled_not_exhaustive",
+        "incoming_link_examples": [
+          "world/CHARACTERS.md"
+        ],
+        "primary_audio": "not_checked",
+        "full_source_claim_accuracy": "not_checked",
+        "native_browser": "deferred_WCL-103",
+        "open_questions": [
+          "E128 departure is witnessed, actual Mars arrival and later S3E18 individual fate not proven.",
+          "Old E114 cutoff and Q&A are explicitly historical; D-048 introduction/status adaptation worth separate editorial task."
+        ]
       }
     },
     {
@@ -1066,7 +1296,40 @@
       "domain": "characters",
       "in_original_2026_10_27_worklist": true,
       "review": {
-        "level": "pending_current_per_file_review"
+        "level": "structural_and_outgoing_links_checked",
+        "cohort": "WCL-149",
+        "purpose": "bounded_current_character_profile_structural_and_provenance_audit",
+        "source_lines_read": 23,
+        "source_window_note": "Source-led E124 Fishbird encounter: watery realm, temporary disappearance/restoration of Stanley and Nash, observed curing of Vorel/Stanley Diontalus debuffs. Fishbird godhood, divine origins, Faerun engineering lead remain claimed not independently proven.",
+        "D048_structure": "source_led_review_required_or_retained_exception",
+        "outgoing_local_links_total": 8,
+        "outgoing_local_links_renderer_checked": 8,
+        "outgoing_broken_links_renderer_checked": 0,
+        "outgoing_distinct_local_target_paths_checked": 8,
+        "outgoing_distinct_local_target_paths_missing": 0,
+        "footnote_references_rendered": 0,
+        "footnote_definitions_rendered": 0,
+        "footnote_references_static": 0,
+        "footnote_definitions_static": 0,
+        "markdown_image_embeds": 0,
+        "legacy_html_anchor_tags": 0,
+        "markdownlint": "passed_zero_violations",
+        "markdown_render": "checked_all_links",
+        "size_bytes": 3656,
+        "sha256": "7d6154421d8e30d8ecfe96eafc671a23d7fe954b11e90104c5c445870617a6b1",
+        "historical_preserved_files": [],
+        "historical_preserved_sha256": [],
+        "incoming_links": "sampled_not_exhaustive",
+        "incoming_link_examples": [
+          "world/CHARACTERS.md"
+        ],
+        "primary_audio": "not_checked",
+        "full_source_claim_accuracy": "not_checked",
+        "native_browser": "deferred_WCL-103",
+        "open_questions": [
+          "No proven resurrection or death when heroes vanish and return.",
+          "Current presentation is functional evidence-first, D-048 story-led review optional."
+        ]
       }
     },
     {
@@ -1074,7 +1337,44 @@
       "domain": "characters",
       "in_original_2026_10_27_worklist": true,
       "review": {
-        "level": "pending_current_per_file_review"
+        "level": "structural_and_outgoing_links_checked",
+        "cohort": "WCL-149",
+        "purpose": "bounded_current_character_profile_structural_and_provenance_audit",
+        "source_lines_read": 77,
+        "source_window_note": "Reader-first T'ietkalla gang leader to defender; final direct S3E18 voluntary sunlight death, helmet passes to Hope. E054 mist escape refutes early death rumor. Order 26 coercion is played, ancestral claims and ancient vampire bargains remain interested testimony.",
+        "D048_structure": "observed_reader_subject",
+        "outgoing_local_links_total": 30,
+        "outgoing_local_links_renderer_checked": 30,
+        "outgoing_broken_links_renderer_checked": 0,
+        "outgoing_distinct_local_target_paths_checked": 26,
+        "outgoing_distinct_local_target_paths_missing": 0,
+        "footnote_references_rendered": 16,
+        "footnote_definitions_rendered": 10,
+        "footnote_references_static": 16,
+        "footnote_definitions_static": 10,
+        "markdown_image_embeds": 0,
+        "legacy_html_anchor_tags": 9,
+        "markdownlint": "passed_zero_violations",
+        "markdown_render": "checked_all_links",
+        "size_bytes": 11015,
+        "sha256": "32f9953aaa751a00a7df8d08e0df4fd80133c4a07c82357d7c55d0a533806064",
+        "historical_preserved_files": [
+          "research/legacy/MONSOON_CABBAGE_PRE_BATCH276_2026-10-31.md"
+        ],
+        "historical_preserved_sha256": [
+          "01c9073e51c58b2a36006f5d37f223d58a0b4cbb7b067b1fac3f3f90dfa55fdb"
+        ],
+        "incoming_links": "sampled_not_exhaustive",
+        "incoming_link_examples": [
+          "world/CHARACTERS.md"
+        ],
+        "primary_audio": "not_checked",
+        "full_source_claim_accuracy": "not_checked",
+        "native_browser": "deferred_WCL-103",
+        "open_questions": [
+          "Monsoon's final death is observed before Earth's restoration; never treat earlier escaped mist as that death.",
+          "Nine source-preserving HTML anchors not browser tested."
+        ]
       }
     },
     {
@@ -1280,7 +1580,38 @@
       "domain": "characters",
       "in_original_2026_10_27_worklist": true,
       "review": {
-        "level": "pending_current_per_file_review"
+        "level": "structural_and_outgoing_links_checked",
+        "cohort": "WCL-149",
+        "purpose": "bounded_current_character_profile_structural_and_provenance_audit",
+        "source_lines_read": 17,
+        "source_window_note": "Source-led S3E02–S3E03: independent speaking eye/mouth grows on Nash's shoulder and remains attached, survives face parasites and meets Angelashi/four children on Mars. Origin and biology remain unexplained; current profile cutoff S3E03.",
+        "D048_structure": "source_led_review_required_or_retained_exception",
+        "outgoing_local_links_total": 7,
+        "outgoing_local_links_renderer_checked": 7,
+        "outgoing_broken_links_renderer_checked": 0,
+        "outgoing_distinct_local_target_paths_total": 6,
+        "outgoing_distinct_local_target_paths_checked": 6,
+        "outgoing_distinct_local_target_paths_not_checked": 0,
+        "footnote_references_rendered": 0,
+        "footnote_definitions_rendered": 0,
+        "markdown_image_embeds": 0,
+        "markdownlint": "passed_zero_violations",
+        "markdown_render": "checked_all_local_links",
+        "size_bytes": 4107,
+        "sha256": "8102f7b79d16c8510a3871d680c89d2a2f8b5d3e54dfbd4a5698243a797e4adf",
+        "historical_preserved_files": [],
+        "historical_preserved_sha256": [],
+        "incoming_links": "sampled_not_exhaustive",
+        "incoming_link_examples": [
+          "world/CHARACTERS.md"
+        ],
+        "primary_audio": "not_checked",
+        "full_source_claim_accuracy": "not_checked",
+        "native_browser": "deferred_WCL-103",
+        "open_questions": [
+          "Do not extrapolate Nash's S3E18 restoration to separate Sprout fate without later direct corroboration.",
+          "Sprout distinct from earlier baby hand and four actual children; no automatic parentage claim."
+        ]
       }
     },
     {
@@ -1398,7 +1729,38 @@
       "domain": "characters",
       "in_original_2026_10_27_worklist": true,
       "review": {
-        "level": "pending_current_per_file_review"
+        "level": "structural_and_outgoing_links_checked",
+        "cohort": "WCL-149",
+        "purpose": "legacy_two_character_compatibility_route",
+        "source_lines_read": 8,
+        "source_window_note": "Eight-line compatibility page, intentionally a redirecting introduction and stable route to separate Stanley and Diontalus profiles. Not an independent in-world character or a second source of canon.",
+        "D048_structure": "retained_compatibility_exception",
+        "outgoing_local_links_total": 4,
+        "outgoing_local_links_renderer_checked": 4,
+        "outgoing_broken_links_renderer_checked": 0,
+        "outgoing_distinct_local_target_paths_total": 4,
+        "outgoing_distinct_local_target_paths_checked": 4,
+        "outgoing_distinct_local_target_paths_not_checked": 0,
+        "footnote_references_rendered": 0,
+        "footnote_definitions_rendered": 0,
+        "markdown_image_embeds": 0,
+        "markdownlint": "passed_zero_violations",
+        "markdown_render": "checked_all_local_links",
+        "size_bytes": 628,
+        "sha256": "88ead517c3106b21e1c8aac6e170f7417fa1970fcb6f2545bfd9ea93fa333595",
+        "historical_preserved_files": [],
+        "historical_preserved_sha256": [],
+        "incoming_links": "sampled_not_exhaustive",
+        "incoming_link_examples": [
+          "world/CHARACTERS.md"
+        ],
+        "primary_audio": "not_checked",
+        "full_source_claim_accuracy": "not_checked",
+        "native_browser": "deferred_WCL-103",
+        "open_questions": [
+          "Valid deliberate D-048 technical/compatibility exception; never invent standalone biography.",
+          "Legacy incoming anchors/rendered browser route deferred."
+        ]
       }
     },
     {
@@ -1406,7 +1768,38 @@
       "domain": "characters",
       "in_original_2026_10_27_worklist": true,
       "review": {
-        "level": "pending_current_per_file_review"
+        "level": "structural_and_outgoing_links_checked",
+        "cohort": "WCL-149",
+        "purpose": "bounded_current_character_profile_structural_and_provenance_audit",
+        "source_lines_read": 15,
+        "source_window_note": "Compact source-led E102–S3E02 minotaur. Downed twice S3E01, recovers S3E02 and released alive at Blast Belly Rock; grafted dead Squirts/Blood Skunk heads do not mean their resurrection or independent consciousness.",
+        "D048_structure": "source_led_review_required_or_retained_exception",
+        "outgoing_local_links_total": 17,
+        "outgoing_local_links_renderer_checked": 17,
+        "outgoing_broken_links_renderer_checked": 0,
+        "outgoing_distinct_local_target_paths_total": 16,
+        "outgoing_distinct_local_target_paths_checked": 16,
+        "outgoing_distinct_local_target_paths_not_checked": 0,
+        "footnote_references_rendered": 0,
+        "footnote_definitions_rendered": 0,
+        "markdown_image_embeds": 0,
+        "markdownlint": "passed_zero_violations",
+        "markdown_render": "checked_all_local_links",
+        "size_bytes": 3412,
+        "sha256": "988927183002b0f7f4c1355d04e31f03ac16adf03e94c952130728fce30a19cc",
+        "historical_preserved_files": [],
+        "historical_preserved_sha256": [],
+        "incoming_links": "sampled_not_exhaustive",
+        "incoming_link_examples": [
+          "world/CHARACTERS.md"
+        ],
+        "primary_audio": "not_checked",
+        "full_source_claim_accuracy": "not_checked",
+        "native_browser": "deferred_WCL-103",
+        "open_questions": [
+          "Owner-confirmed display spelling Steerious Business; later allegiance/ultimate fate not shown.",
+          "Source-first paragraph structure rather than a dedicated D-048 current-status section."
+        ]
       }
     },
     {
@@ -1469,7 +1862,40 @@
       "domain": "characters",
       "in_original_2026_10_27_worklist": true,
       "review": {
-        "level": "pending_current_per_file_review"
+        "level": "structural_paths_verified_render_blocked",
+        "cohort": "WCL-149",
+        "purpose": "bounded_current_character_profile_structural_and_provenance_audit",
+        "source_lines_read": 31,
+        "source_window_note": "Source-first Hope-private patron E101–S3E12: Voice Hand stolen S3E02 and pocketed by Brett's assistant S3E12, second Eye missing. Patron identity, metaphysics, key phrase and communication beyond separation unresolved.",
+        "D048_structure": "source_led_review_required_or_retained_exception",
+        "outgoing_local_links_total": 21,
+        "outgoing_local_links_renderer_checked": 0,
+        "outgoing_broken_links_renderer_checked": 0,
+        "outgoing_distinct_local_target_paths_checked": 20,
+        "outgoing_distinct_local_target_paths_missing": 0,
+        "footnote_references_rendered": null,
+        "footnote_definitions_rendered": null,
+        "footnote_references_static": 0,
+        "footnote_definitions_static": 0,
+        "markdown_image_embeds": 0,
+        "legacy_html_anchor_tags": 0,
+        "markdownlint": "passed_zero_violations",
+        "markdown_render": "blocked_safety_not_verified",
+        "size_bytes": 6580,
+        "sha256": "3470c13c5c8d95de7c32f31ad039de1e7f65f7722e419ad74c428db8e2584fa3",
+        "historical_preserved_files": [],
+        "historical_preserved_sha256": [],
+        "incoming_links": "sampled_not_exhaustive",
+        "incoming_link_examples": [
+          "world/CHARACTERS.md"
+        ],
+        "primary_audio": "not_checked",
+        "full_source_claim_accuracy": "not_checked",
+        "native_browser": "deferred_WCL-103",
+        "open_questions": [
+          "Safe offline HTML renderer blocked by safety checks; 20 distinct local target paths independently exist, 21 static Markdown link instances; no rendered/visual acceptance.",
+          "Hope's natural regrown arm is not a returned Voice Hand; Groxl Eye separate."
+        ]
       }
     },
     {
@@ -1501,7 +1927,39 @@
       "domain": "characters",
       "in_original_2026_10_27_worklist": true,
       "review": {
-        "level": "pending_current_per_file_review"
+        "level": "structural_renderer_checked_lint_blocked",
+        "cohort": "WCL-149",
+        "purpose": "bounded_current_character_profile_structural_and_provenance_audit",
+        "source_lines_read": 27,
+        "source_window_note": "Source-first S2E03–S3E08: Stanley's sworn Elhandari guardian survives Hell-ship injuries and S3E02 surgery, helps Vorel, then S3E08 lava rescue is followed by a separate directly witnessed giant-crushing death alongside Emenil. No resurrection shown.",
+        "D048_structure": "source_led_review_required_or_retained_exception",
+        "outgoing_local_links_total": 19,
+        "outgoing_local_links_renderer_checked": 19,
+        "outgoing_broken_links_renderer_checked": 0,
+        "outgoing_distinct_local_target_paths_total": 18,
+        "outgoing_distinct_local_target_paths_checked": 11,
+        "outgoing_distinct_local_target_paths_not_checked": 7,
+        "footnote_references_rendered": 0,
+        "footnote_definitions_rendered": 0,
+        "markdown_image_embeds": 0,
+        "markdownlint": "blocked_safety_not_verified",
+        "markdown_render": "checked_all_local_links",
+        "size_bytes": 7108,
+        "sha256": "d44aaf9ab744de71465902d214f90f35409e56f61e8e460165067dde65889c76",
+        "historical_preserved_files": [],
+        "historical_preserved_sha256": [],
+        "incoming_links": "sampled_not_exhaustive",
+        "incoming_link_examples": [
+          "world/CHARACTERS.md"
+        ],
+        "primary_audio": "not_checked",
+        "full_source_claim_accuracy": "not_checked",
+        "native_browser": "deferred_WCL-103",
+        "open_questions": [
+          "Targeted markdownlint was blocked by safety checks, NOT passed; offline renderer checked all 19 local links with zero broken.",
+          "Independent static target audit covered 11 of 18 distinct paths; one 7-path batch was blocked, not declared verified.",
+          "Union/Vorel attachment or earlier rescue is not a continuing romance or survival after S3E08."
+        ]
       }
     },
     {
