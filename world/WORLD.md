@@ -12,8 +12,6 @@ The early campaign's mechanical problem is **water**: Dusthill relies on undergr
 
 The **Solar Mines/Blood Canyons** figure in Nash's remembered history and later alternate-time stories, but a character's autobiographical account is not an independently played flashback. The moving **Dunebreaker** demonstrates an extraordinary glass-trailing landship in a **same-world historical prequel** set long before the original company leaves Dusthill. [Solar Mines](places/solar-mines.md) · [Dunebreaker](places/dunebreaker.md).
 
-After the Worldbreaker is banished from Earth, the companions authorize the Rubistic Triangulosphere's use. The planet visibly recovers: rain falls, grass and forests spread, and waterfalls return. Mana-wave spellcasting ceases on Earth, although spellcasting beyond Earth remains possible. The device's physical insertion is not separately shown, and permanent safety from every threat is not established.[^world-earth-restoration-s3e18] [Finale](../episodes/S3E18.md).
-
 ## Society, resources and political authority
 
 The setting's city-states are starkly unequal. **Slavetown**, called **Pristine** in an E013 GM background briefing, uses forced labor and competing commercial/political networks including Oilbeard interests and agents of the **Principal**. The protagonists gain their own freedom there, but this is not a blanket abolition of slavery. **The Black Mine** combines exploitative work and older supernatural dangers. [Slavetown](places/slavetown.md) · [Black Mine](places/black-mine.md) · [E013](../episodes/E013.md).
@@ -43,6 +41,12 @@ At [Château Weir](places/chateau-weir.md), **Hope, Nash and Stanley sign the So
 The E124 lake rite brings all five before the winged Malhya/Fishbird. Its banishment, return and cure of Stanley and Vorel's debuffs are witnessed; its account of dragon blight and the High Elf's ancient history remain unverified testimony. Stanley negotiates an accord, but no physical return or aid is shown.[^world-lake-rite-e124] [E124](../episodes/E124.md) · [Malhya](characters/malhya.md) · [Elhandar](places/elhandar.md).
 
 At the E081 beam sacrifice, four are declared dead, but E082 reveals them alive in altered circumstances. Hope separates from the others in E101 and they reunite in E116–E117. The E118 Book, Mask and Stanley's father's time theories do not demonstrate a solution to cosmic history.[^world-chronology-e081-e118] [Book of Adjacencies](technology/book-of-adjacencies.md) · [Mask of Eltanfawr](technology/mask-of-eltanfawr.md) · [chronology](CHRONOLOGY.md).
+
+## Earth's restoration and its limits
+
+The Worldbreaker is banished permanently **from Earth** in S3E17, but the planet is still barren at that point. In the final played session, Nash, Vorel and Hope agree to use the Rubistic Triangulosphere, and Stanley orders its activation. The device's physical insertion is not separately shown, but the recovery itself is: rain falls, grass and forests spread, and waterfalls return. Mana-wave spellcasting ceases on Earth, although magic is still demonstrably possible beyond Earth. Neither the banishment nor the restoration establishes permanent safety from every other threat.[^world-earth-restoration-s3e18] [Finale](../episodes/S3E18.md).
+
+The survivors begin new lives in a changed world. Hope brings resettlers to the damaged T'ietkalla, Vorel sets out toward Razak Val with his people, and Elhandari choices take some back toward the Feywild while others remain outside it. Their later rebuilding is not already accomplished, and a final unexplained warning on Planet Nash does not establish another witnessed catastrophe. [Finale](../episodes/S3E18.md).
 
 ## Sources and project notes
 

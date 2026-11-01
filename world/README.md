@@ -8,7 +8,7 @@ The Wastes stretch from desert settlements to buried machines, other planes and 
 | --- | --- | --- |
 | **Characters and companions** | [Characters](CHARACTERS.md) | Protagonists, allies, recurring NPCs, life histories and relationships |
 | **Antagonists and rivals** | [Antagonists](ANTAGONISTS.md) | Hostile actors, threatening powers and contested motives |
-| **Peoples and cultures** | [Races](RACES.md) | Eight published source-backed people and culture studies; the separate machine-readable pilot currently indexes only Lizardfolk and Tieflings |
+| **Peoples and cultures** | [Races](RACES.md) | Lizardfolk, Tieflings and other peoples encountered across Earth, the planes and distant worlds |
 | **Creatures and monsters** | [Creatures and monsters](CREATURES_AND_MONSTERS.md) | Beasts, predators and monstrous forms, including Chicken Lords and Pixie Hulks |
 | **Places and regions** | [Places](PLACES.md) | Settlements, ruins, planes, stations, vehicles used as settings |
 | **Items and artifacts** | [Items and artifacts](ITEMS_AND_ARTIFACTS.md) | Significant objects, relics and extraordinary technology |
@@ -27,6 +27,8 @@ The Wastes stretch from desert settlements to buried machines, other planes and 
 **Relics:** [Eye of Groxl](technology/eye-of-groxl.md) · [Hand of the Voice](technology/hand-of-the-voice.md) · [Gem of Tides](technology/gem-of-tides.md) · [portal device](technology/portal-device.md) · [Traversal Drive](technology/traversal-drive.md) · [Book of Adjacencies](technology/book-of-adjacencies.md) · [Nash's dragon heart](technology/nash-dragon-heart.md) · [Diontalus's ocarina](technology/diontalus-ocarina.md) · [Mask of Eltanfawr](technology/mask-of-eltanfawr.md) · [Henatar's guitar](technology/henatar-guitar.md) · [Rubistic Triangulosphere](technology/rubistic-triangulosphere.md) · [Diplomacy — transferred to Hope](technology/diplomacy.md) · [augmentation cylinder](technology/augmentation-cylinder.md) · [rejuvenation syringe](technology/rejuvenation-syringe.md).
 
 **Historical studies:** [Ancient catastrophe](HISTORY_ANCIENT_CATASTROPHE.md) · [T'ietkalla's history](HISTORY_TIETKALLA.md) · [CHIDS/Drive crisis](HISTORY_CHIDS_DRIVE.md) · [full chronology](CHRONOLOGY.md).
+
+The final war leaves Earth green and rain-washed again, but not unchanged: the Worldbreaker is banished from Earth, mana-wave spellcasting ceases there, and the survivors face the unfinished work of rebuilding. Read [Earth's restoration and its limits](WORLD.md#earths-restoration-and-its-limits) for the world's last witnessed condition and remaining uncertainty.
 
 ## Sources and project notes
 

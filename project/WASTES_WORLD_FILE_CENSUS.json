@@ -49,21 +49,21 @@
         "level": "structural_and_outgoing_links_checked",
         "cohort": "WCL-131",
         "purpose": "antagonist_reader_index",
-        "depicted_source_window": "E029 and earlier antagonists; final played S3E18; S3E019 cast commentary distinct",
+        "depicted_source_window": "E029 and earlier antagonists; final played S3E18 including lunar Council of Faces; S3E019 cast commentary distinct",
         "D048_structure": "observed_reader_index",
-        "outgoing_local_links_checked": 41,
+        "outgoing_local_links_checked": 44,
         "outgoing_broken_links": 0,
-        "footnote_references_rendered": 17,
-        "footnote_definitions_rendered": 17,
-        "size_bytes": 13526,
-        "sha256": "1d682e41185202007e095ced344886895893ef0eee647bd10e3b13a669ae4e39",
+        "footnote_references_rendered": 18,
+        "footnote_definitions_rendered": 18,
+        "size_bytes": 14600,
+        "sha256": "10b6c3b3f11d3d867e9e88edbc8339466f2fa51b7ba967e0ee0dde5258d49aae",
         "incoming_links": "sampled_not_exhaustive",
         "incoming_link_examples": ["world/README.md", "world/CHARACTERS.md", "world/FACTIONS_AND_POWERS.md", "world/characters/diontalus.md"],
         "primary_audio": "not_checked",
         "full_source_claim_accuracy": "not_checked",
         "native_browser": "deferred_WCL-103",
         "open_questions": ["role classification does not imply purely evil morality", "footnote apparatus is detailed/source-first as functional reference notes", "exact opening and terminal source windows not exhaustively checked across recordings"],
-        "source_window_note": "Current index article read in full; selected episode horizons are references, not independent full audio start/end determination"
+        "source_window_note": "WCL-109: Reader-first adversary roles reviewed to S3E18; Council of Faces given a separate source-limited entry, distinct from the Council of Clowns. All former headings preserved; no original audio/source-wide acceptance."
       }
     },
     {
@@ -76,12 +76,12 @@
         "purpose": "character_companion_reader_index",
         "depicted_source_window": "E000–S3E18 played; S3E019 Q&A identified as retrospective; E107–E109 prequel distinct",
         "D048_structure": "observed_reader_index",
-        "outgoing_local_links_checked": 92,
+        "outgoing_local_links_checked": 100,
         "outgoing_broken_links": 0,
         "footnote_references_rendered": 32,
         "footnote_definitions_rendered": 32,
-        "size_bytes": 22442,
-        "sha256": "17f3a6c82f1c2f0df9b28039b096d624700244689cc80b999bb4a51c8cb8f012",
+        "size_bytes": 24150,
+        "sha256": "0b8356619012ccc6d6429c69efd59863224593e187e14fadc1f941df4ad4259a",
         "incoming_links": "sampled_not_exhaustive",
         "incoming_link_examples": [
           "world/README.md",
@@ -93,11 +93,11 @@
         "full_source_claim_accuracy": "not_checked",
         "native_browser": "deferred_WCL-103",
         "open_questions": [
-          "Some individual footnotes retain earlier research cutoffs (e.g. pre-finale S3E15) and must not imply a global subject ending",
+          "The index now distinguishes the last directly witnessed Nobieri appearance (S3E05) from a S3E18 dossier reference naming a surviving Nobieri/Noberi; later individual duties and identity verification are not established",
           "Alias spelling and every individual last disposition still require separate evidence review",
           "Other inbound backlinks, quote claims and source horizon not exhaustive"
         ],
-        "source_window_note": "Navigation/selected current and former subject outcomes inspected, not an independent exhaustive episode or audio census"
+        "source_window_note": "WCL-109: Main entry and selected historical-source notes reconciled for Bok Bok, Emenil, Nobieri, Tungsten and Henatar through S3E18; 100/100 offline renderer links now exactly at its checking limit, 32/32 footnotes; not independent episode/audio-wide acceptance."
       }
     },
     {
@@ -231,10 +231,10 @@
         "D048_structure": "observed_reader_index",
         "outgoing_local_links_checked": 50,
         "outgoing_broken_links": 0,
-        "footnote_references_rendered": 1,
-        "footnote_definitions_rendered": 1,
-        "size_bytes": 8926,
-        "sha256": "6d29b053c10bf6d6abef25f72dd67807db220cf043b56c90bac5dba758f2e48c",
+        "footnote_references_rendered": 3,
+        "footnote_definitions_rendered": 3,
+        "size_bytes": 10288,
+        "sha256": "28535c0f5da9037e4510825ce3834da48bec3ee0fdb4169f60d44f29753ff465",
         "incoming_links": "sampled_not_exhaustive",
         "incoming_link_examples": [
           "world/README.md",
@@ -247,10 +247,10 @@
           "This is an E128-centered indexed creature directory with two particular later played episode entries, not a complete S3E18 bestiary. Mind fluff/Slow Peters remain index-level entries requiring any separate full creature study decisions.",
           "Intelligent people remain in Races or Characters; no species-wide intelligence inference from a transformation. Exact later appearances, ASR, audio and native-browser/release correctness require separate review."
         ],
-        "source_window_note": "WCL-133 corrected owner-approved T'ietkalla display spelling and Khaervilon in modern creature descriptions while preserving all existing creature links/slugs. Its original E128-era research scope is now explicitly distinct from individual S3E03 mind-fluff and S3E05 Slow Peter additions; no claim that final Season Three monster coverage is complete.",
+        "source_window_note": "WCL-113: Audited all 34 retained creature/encounter entries and reorganized them as wildlife and mounts, predators/other beings, and imposed forms/parasites/constructed threats. Original creature filenames and base heading preserved. The first/last observed source horizons remain in existing subject pages; additional played S3E03 mind-fluff and S3E05 Slow Peter encounters carry new cited source footnotes, not implied S3E18 coverage. The directory does not classify a reasoning person as a species of monster based on changed form. Renderer 50/50 links and 3/3 footnotes valid; Markdownlint and whitespace checks clear; full audio/source exhaustive and native-browser review remain open.",
         "markdownlint": "passed_zero_violations",
         "markdown_render": "checked_all_local_links",
-        "last_targeted_correction": "WCL-133"
+        "last_targeted_correction": "WCL-113"
       }
     },
     {
@@ -299,12 +299,12 @@
         "purpose": "factions_institutions_reader_index",
         "depicted_source_window": "E010–S3E15 selective historical faction snapshots, then S3E16 canyon detonations and Principal's betrayal, S3E17 Worldbreaker permanent banishment and collapse of chrome copies, S3E18 Elhandari/Ruby Earth restoration, Monsoon's voluntary daylight death, Moon Council of Faces destruction and postwar redistribution deliberations",
         "D048_structure": "observed_reader_index",
-        "outgoing_local_links_checked": 61,
+        "outgoing_local_links_checked": 71,
         "outgoing_broken_links": 0,
-        "footnote_references_rendered": 9,
-        "footnote_definitions_rendered": 9,
-        "size_bytes": 14155,
-        "sha256": "eba10fef0aecfcbd4824eb7feef8ba5cd497cb7086769618afc7a2dc68eff174",
+        "footnote_references_rendered": 10,
+        "footnote_definitions_rendered": 10,
+        "size_bytes": 17173,
+        "sha256": "5be64a4bfb72dbb6464be3a765d666cbd373712be64f1b618de6547e0805b1b4",
         "incoming_links": "sampled_not_exhaustive",
         "incoming_link_examples": [
           "world/README.md",
@@ -317,12 +317,12 @@
         "native_browser": "deferred_WCL-103",
         "open_questions": [
           "This is a selective historical index through S3E18, not a verified final disposition for every organization. Principal copy collapse, Moon Council defeat, Worldbreaker banishment and Earth regreening are performed; incomplete faction-member/captive inventories and settlement projects remain unverified.",
-          "Existing S3E05–S3E09 rows and nine research-heavy footnotes are dated source snapshots. S3E16 loss estimates vary and must not be flattened to a complete lizardfolk or goblin death count. D-048 stylistic acceptance, whole-corpus source completeness, original audio and native-browser remain open."
+          "Existing S3E05–S3E09 rows and ten research-heavy footnotes are dated source snapshots. S3E16 loss estimates vary and must not be flattened to a complete lizardfolk or goblin death count. Wider D-048 and whole-corpus source/audio/native-browser acceptance remain open."
         ],
-        "source_window_note": "WCL-133 added date-scoped S3E16–S3E18 rows and updated Principal, Soulbroker, Elhandari and source horizon without rewriting S3E05–S3E09 contemporaneous battle statements into final facts. S3E12 Weir-connection severance and existing S3E15 preparations are explicitly historical where appropriate. Accepted T'ietkalla display spelling adjusted in live navigation; original episode quotations and slugs retained. Postwar intergroup agreements and placements are not yet individual delivery/completion scenes.",
+        "source_window_note": "WCL-112: The reader index now separates institutions from dated war milestones; Oilbeard/Lactid interests, Kuromokishi, Liberators, ancient CHIDS research, later illithid actors and CHIDS hive council are individually distinguished. Lunar Council of Faces and Council of Clowns are separate recorded names without assuming an identity or total Harlequinari membership. Main Principal/Elhandari notes include source-qualified S3E18 endings; resettlement journeys are played, general rebuilding/reintegration uncompleted. All 71/71 offline links and 10/10 footnotes valid; no audio/native-browser or whole-corpus acceptance.",
         "markdownlint": "passed_zero_violations",
         "markdown_render": "checked_all_local_links",
-        "last_targeted_correction": "WCL-133"
+        "last_targeted_correction": "WCL-112"
       }
     },
     {
@@ -502,14 +502,14 @@
         "level": "structural_and_outgoing_links_checked",
         "cohort": "WCL-132",
         "purpose": "artifacts_custody_reader_index",
-        "depicted_source_window": "Selected object and custody studies E050–S3E15, with explicitly limited S3E16–S3E18 finale-status updates",
+        "depicted_source_window": "Selected object and custody studies E050–S3E15, with explicitly limited S3E16–S3E18 finale-status updates including Monsoon's helmet",
         "D048_structure": "observed_reader_index",
-        "outgoing_local_links_checked": 99,
+        "outgoing_local_links_checked": 100,
         "outgoing_broken_links": 0,
         "footnote_references_rendered": 43,
         "footnote_definitions_rendered": 43,
-        "size_bytes": 61682,
-        "sha256": "22ba59bf9ce0a74755b2c3a32574e92c24ad4d96539cff5c7f45a93393425958",
+        "size_bytes": 61908,
+        "sha256": "ff742b792d6167fedbc9d2982d52413c140e70a3d0615634c1adf6b3ab53dfce",
         "incoming_links": "sampled_not_exhaustive",
         "incoming_link_examples": [
           "world/README.md",
@@ -525,10 +525,10 @@
         "open_questions": [
           "Finite Heroes' Feast bowls, crossbows and Mask/Fate Six handovers have differentiated observed versus intended custody; terminal all-object inventory is not independently exhaustive",
           "The Eye of the Voice remains unverified as a possessed object; other objects have unresolved final ownership",
-          "99 local links are below the offline renderer's 100-link limit, so this check covered all reported local targets; inbound/semantic source checks remain open",
+          "Exactly 100 local link occurrences now reach the offline renderer's 100-link limit: all 100 were checked, none left unchecked or broken; additional future links require attention to the cap. Inbound/semantic source checks remain open",
           "Some technical equipment and source-first registers are purposeful research exceptions, not grounds to force every item into narrative prose"
         ],
-        "source_window_note": "Current 103-line overview read, covering selected object history, not a verified exhaustive inventory or first/last appearance census"
+        "source_window_note": "WCL-111: Full maintained artifact index read and audited; merged duplicate Hand of the Voice custody row into its existing primary entry, and indexed Hope's S3E18 acquisition of Monsoon's helmet separately from the Mask of Eltanfawr. Existing deep source/custody apparatus and time-qualified observations retained; all 100/100 local links and 43/43 footnotes rendered, Markdownlint clear. This is not a comprehensive end-of-campaign inventory, original-audio verification or native-browser check."
       }
     },
     {
@@ -541,12 +541,12 @@
         "purpose": "places_geography_reader_index",
         "depicted_source_window": "Selected histories from E003 through S3E15; specific S3E18 finales for Razak Val, Fate Six, Solar Mines, Planet Nash and T'ietkalla; E107–E109 historical prequel treated separately",
         "D048_structure": "observed_reader_index",
-        "outgoing_local_links_checked": 92,
+        "outgoing_local_links_checked": 100,
         "outgoing_broken_links": 0,
         "footnote_references_rendered": 15,
         "footnote_definitions_rendered": 15,
-        "size_bytes": 21195,
-        "sha256": "26b6f52576fa84c3d38a2bdc0a451b1c6b089d3ead67c50e359b85d7c43d6dca",
+        "size_bytes": 23198,
+        "sha256": "0c7a6cd3aa5eb453ce4bb8eef3ed4c4cf7de04c6015d6f7daa361f245407a2e0",
         "incoming_links": "sampled_not_exhaustive",
         "incoming_link_examples": [
           "world/README.md",
@@ -565,7 +565,7 @@
           "Routed map/arrival and destination identity ambiguities remain, including some Mars locations and S3E18 proposed rebuilding",
           "Full incoming-link graph, exact first/last source and all audio claims unverified"
         ],
-        "source_window_note": "Full 97-line current location directory read; per-entry source bounds deliberately nonuniform"
+        "source_window_note": "WCL-110: Full updated location index reviewed; eleven-arc navigation made available at the top, canonical map spellings distinguished from legacy aliases, and historical finale-labelled footnotes reconciled to the played S3E18 outcomes while retaining earlier cutoffs. All 100/100 offline local links and 15/15 footnotes render valid; no original-audio or exhaustive source/reader-browser acceptance."
       }
     },
     {
@@ -605,12 +605,12 @@
         "purpose": "world_navigation_portal",
         "depicted_source_window": "E000–S3E18 main campaign; E107–E109 prequel; S3E019 Q&A separate",
         "D048_structure": "observed_reader_index",
-        "outgoing_local_links_checked": 85,
+        "outgoing_local_links_checked": 86,
         "outgoing_broken_links": 0,
         "footnote_references_rendered": 0,
         "footnote_definitions_rendered": 0,
-        "size_bytes": 8127,
-        "sha256": "8d16903c94a318aa676664dd38363f29c596d1ea5c57e4eeedce5a2420b3e177",
+        "size_bytes": 8447,
+        "sha256": "07c9f89b50e485b01461c8c927d3b75a841fa817f4c136cf6b866c7f84ef8bf0",
         "incoming_links": "sampled_not_exhaustive",
         "incoming_link_examples": [
           "narrative/README.md",
@@ -627,7 +627,7 @@
         "source_window_note": "WCL-133 fixed stale source notes and Races directory description: eight actual published people pages, including Harlequinari, while Lactids remain research-only and exactly two race_culture types are indexed in the separate JSON pilot. All prior portal destinations retained. No claim of all-populations canon coverage.",
         "markdownlint": "passed_zero_violations",
         "markdown_render": "checked_all_local_links",
-        "last_targeted_correction": "WCL-133"
+        "last_targeted_correction": "WCL-108"
       }
     },
     {
@@ -638,14 +638,14 @@
         "level": "structural_and_outgoing_links_checked",
         "cohort": "WCL-132",
         "purpose": "world_systems_reader_overview",
-        "depicted_source_window": "Foundational E000 to E124 research, with selected E122 and played S3E17–S3E18 Earth-restoration consequences; separately attributed creator retrospectives",
+        "depicted_source_window": "Foundational E000 to E124 research, with selected E122 and played S3E17–S3E18 Earth-restoration and resettlement consequences; separately attributed creator retrospectives",
         "D048_structure": "observed_reader_index",
-        "outgoing_local_links_checked": 59,
+        "outgoing_local_links_checked": 60,
         "outgoing_broken_links": 0,
         "footnote_references_rendered": 8,
         "footnote_definitions_rendered": 8,
-        "size_bytes": 15884,
-        "sha256": "c7a17e597d132d4f74bdc64eb8158a963372ebd8c924b3b0272205a1bbbd1be0",
+        "size_bytes": 16522,
+        "sha256": "fa4f3955a40f83f2a9a4a21da2ea807da7cd551e3fdd8f9b606cf743f7a86a01",
         "incoming_links": "sampled_not_exhaustive",
         "incoming_link_examples": [
           "world/README.md",
@@ -664,7 +664,7 @@
           "Final Earthwide magic consequences distinguish Earth from offworld; long-term global permanence is not confirmed",
           "Unverified later political systems, missing original-audio/entire backlink coverage remain open"
         ],
-        "source_window_note": "Full current 64-line world systems page read; in-world intro and closing project notes observed"
+        "source_window_note": "WCL-108: 68-line world systems overview read through; S3E17–S3E18 recovery and resettlement horizon now closes the in-world overview before project notes; prior source limits remain"
       }
     },
     {
