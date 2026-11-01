@@ -6,6 +6,8 @@
 
 Inside, the makeshift home was every bit as improvised as its exterior. Weapons filled the place where an ordinary front passenger seat might have been, with more tools and equipment in its compartments. Its removable skull-shaped gearshift, radios and magnet-mounted javelins mingled with water, stores, sleeping places, a hot plate and a toilet. It was at once Hope's workshop creation, a defensible vehicle and a home the companions could carry into hostile lands.[^introduction]
 
+An owner-selected illustration depicts Fate 4 in Jimster's garage. It is an artistic reconstruction, not a photograph, measured design or independent evidence of the vehicle's features.[^illustration]
+
 ## Arc One — the road from Dusthill
 
 Hope unveiled Fate 4 as the companions prepared to leave Dusthill in search of people taken by raiders. The vehicle offered a rare combination of mobility, shelter, storage and protection. Its size, unusual fittings and rough mechanical temperament made it an emblem of the party's determination to improvise their way through danger.

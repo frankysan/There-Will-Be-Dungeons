@@ -25,12 +25,12 @@
     "historic_paths": 134,
     "historic_retained": 134,
     "added_since_baseline": 12,
-    "structural_and_outgoing_links_checked": 108,
+    "structural_and_outgoing_links_checked": 136,
     "structural_with_partial_outgoing_links_checked": 7,
     "structural_paths_verified_render_blocked": 1,
     "structural_renderer_checked_lint_blocked": 1,
     "technical_json_structure_checked": 1,
-    "pending_current_per_file_review": 28,
+    "pending_current_per_file_review": 0,
     "by_domain": {
       "world": 17,
       "world/characters": 47,
@@ -4194,7 +4194,44 @@
       "domain": "places",
       "in_original_2026_10_27_worklist": true,
       "review": {
-        "level": "pending_current_per_file_review"
+        "level": "structural_and_outgoing_links_checked",
+        "cohort": "WCL-178",
+        "purpose": "source_limited_current_chids_and_solar_mines_places_structure_outgoing_links_and_source_horizons",
+        "source_lines_read": 93,
+        "depicted_source_window": "E067 approach reports; E069 CHIDS discovery, transit and Julia guide; E070–E071 headsets/claimed Void and first combat; E072–E075 icy data center, Cerinthala and portal apparatus; E076–E079 containment/hive/engineering access; E080–E081 dragon-worm encounter, Drive operation and declared-death cliffhanger; 2022 GM retrospective separately attributed",
+        "source_window_note": "Directly witnessed complex, functional transport and security, hive/historical-claims distinctions and E081 shared four-person sacrifice distinguished from GM's retrospective one-person planning. Charles Dickens's reporting delay, Cerinthala's alleged genetic history, CHIDS hive-council's species-origin theories and spectral dragon/Quizquaz planetary mechanics remain testimony. E081 Sira/Eddie emerge alive while Chance is not located, and quartet GM declared dead at cutoff; bonus confirms later improvisation into Sigil, not a second played Drive scene.",
+        "D048_structure": "chronological_technical_reference_needs_reader_first_current_status",
+        "outgoing_local_links_total": 35,
+        "outgoing_local_links_renderer_checked": 35,
+        "outgoing_broken_links_renderer_checked": 0,
+        "outgoing_local_links_not_checked": 0,
+        "footnote_references_rendered": 0,
+        "footnote_definitions_rendered": 0,
+        "footnote_definitions_missing": 0,
+        "headings_rendered": 12,
+        "markdown_image_embeds": 0,
+        "html_image_embeds": 0,
+        "legacy_html_anchor_tags": 0,
+        "markdownlint": "passed_zero_violations",
+        "markdown_render": "checked_all_local_links",
+        "size_bytes": 25629,
+        "sha256": "d642371c2ec8fe790d501fb8bf139db64aca37b7dd071acffb9b63a8a81e17b7",
+        "incoming_links": "literal_world_filename_scan_only_not_exhaustive",
+        "incoming_link_examples": [
+          "world/PLACES.md",
+          "world/HISTORY_CHIDS_DRIVE.md",
+          "world/places/kervalon.md",
+          "world/characters/charles-dickens.md",
+          "world/technology/traversal-drive.md"
+        ],
+        "primary_audio": "not_checked",
+        "full_source_claim_accuracy": "not_checked",
+        "native_browser": "deferred_WCL-103",
+        "open_questions": [
+          "Although article advances E069–E081 chronologically and keeps claims qualified, it remains episode/technology-reference-first (not a concise reader-first physical site study), has no Current status separate from E081 cutoff, and the final Sources tail lists only E068–E075 while later E076–E081 are linked within prose. D-048 editorial follow-up should add a clear site state and maintain intact historical source cutoffs without implying permanent hero deaths or machine resolution.",
+          "The 2022 GM account is retrospective creative preparation, not E081 replay or proof the device was truly one-person-safe. Engineered species, illithid agency, past station dates and demonic technology claims stay unresolved; distinct CHIDS technology vs Solar Mines tech.",
+          "All 35 local links and 12 rendered headings validated, no rendered footnotes; original audio, complete factual assertions, external links, exhaustive incoming references and browser unverified."
+        ]
       }
     },
     {
@@ -4294,7 +4331,44 @@
       "domain": "places",
       "in_original_2026_10_27_worklist": true,
       "review": {
-        "level": "pending_current_per_file_review"
+        "level": "structural_and_outgoing_links_checked",
+        "cohort": "WCL-176",
+        "purpose": "source_limited_elhandar_and_tietkalla_places_structure_and_outgoing_link_census",
+        "source_lines_read": 99,
+        "depicted_source_window": "E115 orbital sanctuary/first visits; E116–E124 family, Harbor and cave/dragon-heart developments; E125–E126 collapse and Villa protection; E128 rescue, Mars-bound departure and world-burrower sandstorm; S2E02 and S3E18 later horizon reviewed for stale-current-status boundary",
+        "source_window_note": "Reader-first station history covers its inhabited forest biodome, refuge and Harbor settlement, old technology, spoken social traditions, battle and direct E125–E126 destruction, E128 natural dragon-heart retrieval and actual ship boarding/departure. The station does not remain orbital. S2E02 shows later performed Mars arrival of Fate Six and surviving Elhandari leaders; S3E18 documents Elhandari participation after restoration, not rebuilding of the former space station.",
+        "D048_structure": "reader_first_but_current_status_stale_at_E128_cutoff",
+        "outgoing_local_links_total": 61,
+        "outgoing_local_links_renderer_checked": 61,
+        "outgoing_broken_links_renderer_checked": 0,
+        "outgoing_local_links_not_checked": 0,
+        "footnote_references_rendered": 23,
+        "footnote_definitions_rendered": 23,
+        "footnote_definitions_missing": 0,
+        "headings_rendered": 10,
+        "markdown_image_embeds": 0,
+        "html_image_embeds": 0,
+        "legacy_html_anchor_tags": 0,
+        "markdownlint": "passed_zero_violations",
+        "markdown_render": "checked_all_local_links",
+        "size_bytes": 18433,
+        "sha256": "f9058ce223a89ea55ff32d6e3c07622c009e7197a520ecc78e8ce30e42da07ab",
+        "incoming_links": "literal_world_filename_scan_only_not_exhaustive",
+        "incoming_link_examples": [
+          "world/PLACES.md",
+          "world/WORLD.md",
+          "world/races/elves.md",
+          "world/places/villa-ornath.md",
+          "world/places/the-harbor.md"
+        ],
+        "primary_audio": "not_checked",
+        "full_source_claim_accuracy": "not_checked",
+        "native_browser": "deferred_WCL-103",
+        "open_questions": [
+          "The article calls E128's Mars-bound departure its current status and states family arrival remains unknown, although later S2E02 physically places named Elhandari leaders and companions on Mars and subsequent S3 events depict Elhandari forces. Preserve E128 history, but add explicitly later played horizons in a separate D-048 follow-up; do not claim every E128 refugee/family member or the original natural heart independently checked at arrival.",
+          "Its source footnote [^elhandar-status] explicitly labels the final status 'Season One/Arc Five cutoff': legitimate episode-bound snapshot, not complete current Wastes-world endpoint. Current status label needs qualification. The named father, divine powers and studio claims stay attributed.",
+          "All 23 rendered footnote refs/defs pair; the article uses canonical place identity but remains audio/whole-claim/browser unverified. Incoming references sampled only within world/."
+        ]
       }
     },
     {
@@ -4390,7 +4464,43 @@
       "domain": "places",
       "in_original_2026_10_27_worklist": true,
       "review": {
-        "level": "pending_current_per_file_review"
+        "level": "structural_and_outgoing_links_checked",
+        "cohort": "WCL-175",
+        "purpose": "bounded_current_razak_val_and_khaervilon_places_source_structure_and_outgoing_link_census",
+        "source_lines_read": 64,
+        "depicted_source_window": "E061/E064 warnings and approach; E065–E068 purple-sands/keep encounters; E069–E075 CHIDS interior and portal acquisition; E076–E081 actual engineering/Drive battle and E081 cliffhanger",
+        "source_window_note": "Khaervilon is owner-map-confirmed spelling despite kervalon.md route aliases. Early Zark reports, storm, dragon spirit's claimed planet-relocation machine and Sira abduction precede actual keep and CHIDS discovery. Source clearly separates failed and performed infiltration tactics, sealed unverified guard corridor, CHIDS virtual claims, E076 portal escape, E079 engineering and Sira captive, E080 commander killed and E081 Dolo Popio manifestation defeated with Sira visibly exiting beam while Chance remains lost. All four hero deaths are GM-declared specifically at E081 cutoff, not ultimate permanent fate.",
+        "D048_structure": "needs_reader_first_chronology_and_current_status_review",
+        "outgoing_local_links_total": 37,
+        "outgoing_local_links_renderer_checked": 37,
+        "outgoing_broken_links_renderer_checked": 0,
+        "outgoing_local_links_not_checked": 0,
+        "footnote_references_rendered": 0,
+        "footnote_definitions_rendered": 0,
+        "footnote_definitions_missing": 0,
+        "headings_rendered": 10,
+        "markdown_image_embeds": 0,
+        "html_image_embeds": 0,
+        "legacy_html_anchor_tags": 0,
+        "markdownlint": "passed_zero_violations",
+        "markdown_render": "checked_all_local_links",
+        "size_bytes": 16847,
+        "sha256": "f6d1b43c6edf084a9125e8f773e7c633e3a42c80630c68a7d222078292560b37",
+        "incoming_links": "literal_world_filename_scan_only_not_exhaustive",
+        "incoming_link_examples": [
+          "world/PLACES.md",
+          "world/HISTORY_CHIDS_DRIVE.md",
+          "world/places/chids.md",
+          "world/creatures/skeleton-spawning-flesh-giant.md"
+        ],
+        "primary_audio": "not_checked",
+        "full_source_claim_accuracy": "not_checked",
+        "native_browser": "deferred_WCL-103",
+        "open_questions": [
+          "Episode-indexed account remains source-led rather than D-048 reader-first: E067–E075 material precedes an Open issues section and source summary, then E076–E081 continuation appears after it. The prominent earlier E067 'Sira not rescued' note must be kept historical rather than misread as current state; reader-first Current status absent.",
+          "Owner-confirmed Khaervilon display spelling is independent of unchanged kervalon.md route; alleged ancient relocation machinery and magical/cosmic interpretation remain attributed testimony. Do not merge site, CHIDS interior and unseen Demon Vold location, nor infer original-audio/whole-arc truth from dossiers.",
+          "No footnote source apparatus, ten headings; rendered links are valid. E081 outcome not retroactive evidence of earlier source-cutoff knowledge. Native browser, original audio, complete backlinks and source facts unverified."
+        ]
       }
     },
     {
@@ -4489,7 +4599,44 @@
       "domain": "places",
       "in_original_2026_10_27_worklist": true,
       "review": {
-        "level": "pending_current_per_file_review"
+        "level": "structural_and_outgoing_links_checked",
+        "cohort": "WCL-175",
+        "purpose": "bounded_current_razak_val_and_khaervilon_places_source_structure_and_outgoing_link_census",
+        "source_lines_read": 89,
+        "depicted_source_window": "E059–E065 first arrival, challenge and parasitic outbreak; E104/E118–E121 Omnom later testimony and fate; S2E02 witnessed clan return and Mars departure; S3E09 Groxl claims; S3E18 rebuild journey begins",
+        "source_window_note": "Razak Val is an inhabited clan valley with an Orp-led Great Fang court. Vorel's challenge and recognition, court casualties and unfinished captive release are staged separately from the E064 worm/chicken-lord outbreak. Rorf confesses Bramie murder in E065; later witness testimony about city fall does not substitute for direct census. S2E02 confirms living lizardfolk and a contingent reaching Mars; S3E18 confirms intent and departure for rebuilding, not settlement arrival.",
+        "D048_structure": "reader_first_with_unrendered_legacy_html_anchors",
+        "outgoing_local_links_total": 36,
+        "outgoing_local_links_renderer_checked": 36,
+        "outgoing_broken_links_renderer_checked": 0,
+        "outgoing_local_links_not_checked": 0,
+        "footnote_references_rendered": 21,
+        "footnote_definitions_rendered": 13,
+        "footnote_definitions_missing": 0,
+        "headings_rendered": 9,
+        "markdown_image_embeds": 0,
+        "html_image_embeds": 0,
+        "legacy_html_anchor_tags": 8,
+        "markdownlint": "passed_zero_violations",
+        "markdown_render": "checked_all_local_links",
+        "size_bytes": 15804,
+        "sha256": "c2cec380106e5cae889a6ee49c201f1cbc04e9426831e349025dbb5d510ee3e6",
+        "incoming_links": "literal_world_filename_scan_only_not_exhaustive",
+        "incoming_link_examples": [
+          "world/PLACES.md",
+          "world/characters/vorel.md",
+          "world/characters/omnom-cinderborn.md",
+          "world/races/lizardfolk.md",
+          "world/places/kervalon.md"
+        ],
+        "primary_audio": "not_checked",
+        "full_source_claim_accuracy": "not_checked",
+        "native_browser": "deferred_WCL-103",
+        "open_questions": [
+          "Eight legacy raw-HTML <a id> anchors are escaped as literal text by safe renderer; their historical fragments are NOT confirmed working. D-048 follow-up must audit incoming fragments and preserve IDs, without assuming successful Markdown link check covers these aliases.",
+          "Groxl's first-Great-Fang creation story contradicts Razak-the-Bronze priest tradition: preserve them as competing attributed accounts, not resolved history. No automatic worm-origin/food transmission, Zark culpability or universal all-clan outcomes proven.",
+          "Twenty-one rendered footnote references correctly point to 13 definitions. Native browser, original audio, complete story-fact review and exhaustive incoming backlinks deferred."
+        ]
       }
     },
     {
@@ -4497,7 +4644,46 @@
       "domain": "places",
       "in_original_2026_10_27_worklist": true,
       "review": {
-        "level": "pending_current_per_file_review"
+        "level": "structural_and_outgoing_links_checked",
+        "cohort": "WCL-180",
+        "purpose": "bounded_current_sigil_final_places_source_structure_outgoing_link_and_reader_navigation_census",
+        "source_lines_read": 201,
+        "depicted_source_window": "E081 declaration→E082 Sigil physical arrival and variant survivals; E083–E089 chapel, marionette contest, E088 resurrection and GM magic-rule correction, E089 portal-registry lead; E090–E093 Hive/Tobacho bargain and observed Outlands departure; E094–E097 White Tower events explicitly OUTSIDE Sigil; E105/E106 return/handover, E112/E113 Hope's secondary Sigil and Pandemonium route, E116 retconned Council-to-docks route, S3E15 Principal's temporary combat escape through Sigil; later GM bonus Q&As separately attributed",
+        "source_window_note": "Sigil's curved/inverted cityscape and multiple docks/wards are directly observed at their episode cutoffs. E081's four declared dead followed by Vorel/Nash's differing E082 survival and E088 restoration of Hope and Stanley; cleric's petitioner account is attributed until later creator discussion. Vorel earns actual local then overall championship and 5000gp; E088 corrects GM's prior claim of a Sigil-wide spellcasting restriction. E089 finds a registry steward/portal lead, not access. E093 actually leaves Sigil for the Outlands; E094–E097 White Tower is OUTLANDS, not Sigil. E105–E106 party returns through an actually performed fruit gate and Tobacho receives Fist gauntlet but not Hand. Hope separately signs E112 compact, E113 ends at Tobacho bar but E116 explicitly revises the scene boundary and instead plays entry at departure docks; no invented round trip. S3E15 Principal and Hope use Sigil only as an actual portal transit amid Worldbreaker fight.",
+        "D048_structure": "newest_first_later_sections_plus_stale_E097_current_cutoff_needs_reader_first_chronological_and_geographical_restructure",
+        "outgoing_local_links_total": 71,
+        "outgoing_local_links_renderer_checked": 71,
+        "outgoing_broken_links_renderer_checked": 0,
+        "outgoing_local_links_not_checked": 0,
+        "footnote_references_rendered": 0,
+        "footnote_definitions_rendered": 0,
+        "footnote_definitions_missing": 0,
+        "headings_rendered": 29,
+        "markdown_image_embeds": 0,
+        "html_image_embeds": 0,
+        "legacy_html_anchor_tags": 0,
+        "markdownlint": "passed_zero_violations",
+        "markdown_render": "checked_all_local_links",
+        "size_bytes": 55329,
+        "sha256": "53934e82f61ed02f7ef42927fceadf8304821e04455a8a1ffbedc32438205472",
+        "incoming_links": "literal_world_filename_scan_only_not_exhaustive",
+        "incoming_link_examples": [
+          "world/PLACES.md",
+          "world/WORLD.md",
+          "world/characters/tobacho-fleur.md",
+          "world/characters/vorel.md",
+          "world/characters/nothing.md",
+          "world/places/white-tower.md"
+        ],
+        "primary_audio": "not_checked",
+        "full_source_claim_accuracy": "not_checked",
+        "native_browser": "deferred_WCL-103",
+        "open_questions": [
+          "The page opens in reverse newer-first S3E15/E116/E113/E112/E106/E105, then reverts to E082–E097 chronological material; a heading 'Current cutoff and unresolved questions' at E097 is stale for the complete page. Reader-first geographic site status and changing portal travel must be restructured separately without erasing E097's valid historical cutoff.",
+          "E113 original played return to Tobacho and E116 opening retcon are conflicting source boundaries, not a witnessed second journey; preserve both and mark the actual revised S3 geography. E094–E097 White Tower episodes occur in the Outlands, not within Sigil. S3E15 Sigil transit was temporary, not sustained occupancy.",
+          "E085 green enforcer is later identified by GM as Lady of Pain, but not self-identified in the played scene. Later Planescape cosmology comments and Far Realm/Weir interpretation remain retrospective rather than direct city geography; proper names remain ASR-provisional.",
+          "No footnote apparatus in source. All 71 local links checked without caps, but primary audio, full claims, external bookmarks, native browser and exhaustive incoming fragment links not verified. World/ scoped literal incoming filename scan found 16 references, zero 'sigil.md#' in world; not exhaustive."
+        ]
       }
     },
     {
@@ -4550,7 +4736,44 @@
       "domain": "places",
       "in_original_2026_10_27_worklist": true,
       "review": {
-        "level": "pending_current_per_file_review"
+        "level": "structural_and_outgoing_links_checked",
+        "cohort": "WCL-178",
+        "purpose": "source_limited_current_chids_and_solar_mines_places_structure_outgoing_links_and_source_horizons",
+        "source_lines_read": 86,
+        "depicted_source_window": "Nash remembered origins/E000 and E117 recital, E118 research; S2E03 proposed Solar Mines plan; S3E04 scout and proposal; S3E05–S3E11 actual surface battle, descent and lava-core standoff; S3E12 no mine return; S3E13–S3E15 allied occupation and guarded unactivated Ruby; S3E18 activation order and actually observed Earth restoration/aftermath",
+        "source_window_note": "Place page embeds Nash's personal history as attributed memories and follows actual entry to labor cages, closed then breached gate, generator and dome, then lava-core meeting; later Elhandari control and actual armed guards at Ruby are distinguished from previous source cutoffs and unexecuted proposals. S3E18 confirms order for Ruby use and restoration consequences, while insertion itself not separately depicted and future Clench-clearing/mixed settlement not yet played. No universal causal origin linkage to CHIDS inferred.",
+        "D048_structure": "newest_first_allcaps_recap_needs_chronological_reader_first_rewrite",
+        "outgoing_local_links_total": 43,
+        "outgoing_local_links_renderer_checked": 43,
+        "outgoing_broken_links_renderer_checked": 0,
+        "outgoing_local_links_not_checked": 0,
+        "footnote_references_rendered": 2,
+        "footnote_definitions_rendered": 2,
+        "footnote_definitions_missing": 0,
+        "headings_rendered": 17,
+        "markdown_image_embeds": 0,
+        "html_image_embeds": 0,
+        "legacy_html_anchor_tags": 0,
+        "markdownlint": "passed_zero_violations",
+        "markdown_render": "checked_all_local_links",
+        "size_bytes": 26386,
+        "sha256": "7ec399992a0fc8a2206bfb1db0cf3140e0a2a510f5a31dc2f30a677ca714d60b",
+        "incoming_links": "literal_world_filename_scan_only_not_exhaustive",
+        "incoming_link_examples": [
+          "world/PLACES.md",
+          "world/WORLD.md",
+          "world/characters/nash-maggard.md",
+          "world/FACTIONS_AND_POWERS.md",
+          "world/places/leaden-fingers-stormlands.md"
+        ],
+        "primary_audio": "not_checked",
+        "full_source_claim_accuracy": "not_checked",
+        "native_browser": "deferred_WCL-103",
+        "open_questions": [
+          "The main source blocks run in reverse order S3E18 → S3E04 → S2E03 and much text is ALL-CAPS play-by-play, with no reader-first Introduction, progressive arc narrative and final Current status. Requires independent D-048 major-rewrite task and one exact D-052 pre-rewrite snapshot; do not fix during first-pass census.",
+          "S3E18 Ruby activation order and planetary restoration are observed but physical insertion is unshown; S3E11–S3E15 earlier Ruby remains unactivated, so do not retroactively claim it was already used. Survivors' liberation, Clench clearance, township governance, in-world Nash childhood story remain incomplete/attributed.",
+          "Footer pre77-scope metadata still says spoilers only through S3E14, despite body through S3E18; explicitly historic carried-forward metadata rather than current scope. Two footnote refs to two definitions valid; no comprehensive full-audio, factual or native-browser acceptance."
+        ]
       }
     },
     {
@@ -4609,7 +4832,44 @@
       "domain": "places",
       "in_original_2026_10_27_worklist": true,
       "review": {
-        "level": "pending_current_per_file_review"
+        "level": "structural_and_outgoing_links_checked",
+        "cohort": "WCL-176",
+        "purpose": "source_limited_elhandar_and_tietkalla_places_structure_and_outgoing_link_census",
+        "source_lines_read": 111,
+        "depicted_source_window": "E028–E054 Trashburg/Teet keep, undercity and Hope coronation; E055–E059 reform, disaster, Principal promise and actual returned Dusthill persons; E103–E104 court/rail fire and Carthax raid; E110–E111 ruined keep/rescue; E115–E117 displacement and Harbor; S3E18 performed restoration and damaged-city return",
+        "source_window_note": "The place overview separates Teet keep from lower Trashburg, early gang politics, buried tiefling kingdom and attributed dynastic stories, actual E054 coronation, E055–E059 partial reform, E103 station fire, E104 Carthax attack, E110 observed occupation and E111 rescued parties, displaced refugees' later Harbor gathering, and S3E18 re-greened Earth with still-damaged T'ietkalla and Hope's actual return. Plans for rebuilding and social integration are explicitly not completed.",
+        "D048_structure": "reader_first_with_unrendered_legacy_html_anchors",
+        "outgoing_local_links_total": 57,
+        "outgoing_local_links_renderer_checked": 57,
+        "outgoing_broken_links_renderer_checked": 0,
+        "outgoing_local_links_not_checked": 0,
+        "footnote_references_rendered": 8,
+        "footnote_definitions_rendered": 7,
+        "footnote_definitions_missing": 0,
+        "headings_rendered": 13,
+        "markdown_image_embeds": 0,
+        "html_image_embeds": 0,
+        "legacy_html_anchor_tags": 10,
+        "markdownlint": "passed_zero_violations",
+        "markdown_render": "checked_all_local_links",
+        "size_bytes": 20047,
+        "sha256": "0bd0ea2820eebed23765962124780ac5737e62928c279ca350863b850805f832",
+        "incoming_links": "literal_world_filename_scan_only_not_exhaustive",
+        "incoming_link_examples": [
+          "world/PLACES.md",
+          "world/WORLD.md",
+          "world/HISTORY_TIETKALLA.md",
+          "world/characters/hope-akmenos.md",
+          "world/characters/nobieri.md"
+        ],
+        "primary_audio": "not_checked",
+        "full_source_claim_accuracy": "not_checked",
+        "native_browser": "deferred_WCL-103",
+        "open_questions": [
+          "Ten literal raw-HTML <a id> legacy named anchors are escaped text rather than functioning fragment targets in secure renderer; the 57/57 checked normal links do not certify those old identifiers. Search and preserve incoming fragments, then convert to functional Markdown-heading ID aliases under a dedicated D-048 follow-up.",
+          "Historical names/claim conflicts (Nobieri, Kefeli, Andreeste, Monsoon and dynastic right) remain explicitly interested or ASR-provisional. S3E18 confirms restored vegetation and a standing keep, not completed city rebuilding or finished representative administration.",
+          "Eight total rendered footnote references resolve to seven definitions (one repeated). Whole city history/source claims, original audio, all external bookmark backlinks and native browser not independently verified."
+        ]
       }
     },
     {
@@ -4926,7 +5186,41 @@
       "domain": "technology",
       "in_original_2026_10_27_worklist": true,
       "review": {
-        "level": "pending_current_per_file_review"
+        "level": "structural_and_outgoing_links_checked",
+        "cohort": "WCL-184",
+        "purpose": "bounded_current_six_technology_source_structure_mechanics_custody_and_outgoing_link_census",
+        "source_lines_read": 34,
+        "depicted_source_window": "S3E03 proposed operations/gear; S3E04 three completed surgery patients and Vorel's refusal; S3E05–S3E06 Vorel separately receives/equips +2 gear; S3E13 Nash heart intervention; S3E18 coercive chrome conversion/resurrection elsewhere",
+        "source_window_note": "Three consenting Stanley/Hope/Nash actually undergo Elhandari eight-hour cylinder operations and receive GM-confirmed level-15 benefits in S3E04. Vorel refuses; his later level-15 GM label does not prove a fourth surgery, and the +2 sword/shield was independently given/used later. Nash's Hell heart restoration and lunar chrome successor conversion are entirely separate interventions.",
+        "D048_structure": "reader_first_technology_and_distinct_surgeries",
+        "outgoing_local_links_total": 17,
+        "outgoing_local_links_renderer_checked": 17,
+        "outgoing_broken_links_renderer_checked": 0,
+        "outgoing_local_links_not_checked": 0,
+        "footnote_references_rendered": 2,
+        "footnote_definitions_rendered": 2,
+        "footnote_definitions_missing": 0,
+        "headings_rendered": 6,
+        "markdown_image_embeds": 0,
+        "html_image_embeds": 0,
+        "legacy_html_anchor_tags": 0,
+        "markdownlint": "passed_zero_violations",
+        "markdown_render": "checked_all_local_links",
+        "size_bytes": 6465,
+        "sha256": "d859fa8e5312faefb73082d893079a767ba83baf3a1ef2cedcf1d0f62e976f06",
+        "incoming_links": "literal_world_filename_scan_only_not_exhaustive",
+        "incoming_link_examples": [
+          "world/ITEMS_AND_ARTIFACTS.md",
+          "world/technology/rejuvenation-syringe.md",
+          "world/technology/elhandari-enchanted-equipment.md"
+        ],
+        "primary_audio": "not_checked",
+        "full_source_claim_accuracy": "not_checked",
+        "native_browser": "deferred_WCL-103",
+        "open_questions": [
+          "Vorel's exact in-game sheet level and experience accounting remain unresolved despite absence of surgery; no wound, Eye of Groxl, or dragon-heart extraction by cylinder was observed.",
+          "Two rendered footnote refs/defs valid, original surgery choices and sourced ASR exactness incomplete; final outcomes of Mars facility not established."
+        ]
       }
     },
     {
@@ -4934,7 +5228,43 @@
       "domain": "technology",
       "in_original_2026_10_27_worklist": true,
       "review": {
-        "level": "pending_current_per_file_review"
+        "level": "structural_and_outgoing_links_checked",
+        "cohort": "WCL-182",
+        "purpose": "bounded_current_six_compact_technology_artifact_source_and_outgoing_links_census",
+        "source_lines_read": 25,
+        "depicted_source_window": "E118 actual recovered responsive journal; E123 conversation about father's predictions; BONUS-2020-10 creative-process remarks",
+        "source_window_note": "Stanley physically acquires responsive father Delit Or'Nath journal in E118 after using key/poem; authorized queries produce pages but no witnessed omniscience or universal party knowledge. N4SH/Principal, map location, time/adjacency claims remain private first-person author testimony, and the October 2020 Q&A is creator context rather than played demonstration.",
+        "D048_structure": "reader_first_identity_acquisition_and_source_boundaries",
+        "outgoing_local_links_total": 13,
+        "outgoing_local_links_renderer_checked": 13,
+        "outgoing_broken_links_renderer_checked": 0,
+        "outgoing_local_links_not_checked": 0,
+        "footnote_references_rendered": 0,
+        "footnote_definitions_rendered": 0,
+        "footnote_definitions_missing": 0,
+        "headings_rendered": 5,
+        "markdown_image_embeds": 0,
+        "html_image_embeds": 0,
+        "legacy_html_anchor_tags": 0,
+        "markdownlint": "passed_zero_violations",
+        "markdown_render": "checked_all_local_links",
+        "size_bytes": 4141,
+        "sha256": "7fa21579ea19d01e2743ff25ce42ee60f141301386ffaf103567eafeb87acc9d",
+        "incoming_links": "literal_world_filename_scan_only_not_exhaustive",
+        "incoming_link_examples": [
+          "world/CONSISTENCY_LEDGER.md",
+          "world/HISTORICAL_EVENTS.md",
+          "world/ITEMS_AND_ARTIFACTS.md",
+          "world/characters/stanley-billings.md",
+          "world/technology/mask-of-eltanfawr.md"
+        ],
+        "primary_audio": "not_checked",
+        "full_source_claim_accuracy": "not_checked",
+        "native_browser": "deferred_WCL-103",
+        "open_questions": [
+          "Do not promote Delit Or'Nath's prediction, N4SH identity or time-barf branching models to confirmed mechanics. Stanley's recovered book is not the separate old dictionary or the E118 Mask.",
+          "Owner-confirmed canonical names override uncertain ASR, not independently listened; scope of authorization and fate of book after E123 not directly checked."
+        ]
       }
     },
     {
@@ -4942,7 +5272,41 @@
       "domain": "technology",
       "in_original_2026_10_27_worklist": true,
       "review": {
-        "level": "pending_current_per_file_review"
+        "level": "structural_and_outgoing_links_checked",
+        "cohort": "WCL-184",
+        "purpose": "bounded_current_six_technology_source_structure_mechanics_custody_and_outgoing_link_census",
+        "source_lines_read": 23,
+        "depicted_source_window": "S3E04 +2 sword selected for Vorel; S3E05 actually handed over; S3E06 first battle use; S3E07 Vorel names weapon and kills flying patchwork dragon; S3E08 Groxl heart-cable cut; S3E09 explicit retention; S3E16 sword thrown; S3E17 sword again wielded; S3E18 retained in epilogue summary",
+        "source_window_note": "Vorel's independently named +2 longsword Chrome's Bane is not his personal title nor enchanted with proven special anti-chrome powers. E07 naming and E08 Groxl strike are played, followed by E09 direct inventory confirmation; S3E16 throwing and S3E17 renewed use are both observed, with intermediate retrieval unseen, finale summary records retention.",
+        "D048_structure": "compact_provenance_use_custody_with_source_footnotes",
+        "outgoing_local_links_total": 16,
+        "outgoing_local_links_renderer_checked": 16,
+        "outgoing_broken_links_renderer_checked": 0,
+        "outgoing_local_links_not_checked": 0,
+        "footnote_references_rendered": 3,
+        "footnote_definitions_rendered": 3,
+        "footnote_definitions_missing": 0,
+        "headings_rendered": 2,
+        "markdown_image_embeds": 0,
+        "html_image_embeds": 0,
+        "legacy_html_anchor_tags": 0,
+        "markdownlint": "passed_zero_violations",
+        "markdown_render": "checked_all_local_links",
+        "size_bytes": 6941,
+        "sha256": "f4fd95602afba1f64ac35fab7a30932a66aa435e11c7334fd4089bdfbb7fc2c1",
+        "incoming_links": "literal_world_filename_scan_only_not_exhaustive",
+        "incoming_link_examples": [
+          "world/ITEMS_AND_ARTIFACTS.md",
+          "world/characters/vorel.md",
+          "world/technology/elhandari-enchanted-equipment.md"
+        ],
+        "primary_audio": "not_checked",
+        "full_source_claim_accuracy": "not_checked",
+        "native_browser": "deferred_WCL-103",
+        "open_questions": [
+          "Do not backfill a physical sword pickup between S3E16 and S3E17; S3E18 summary retention is not a witnessed handover. Groxl permanent death or unique chrome-destroying property unproven.",
+          "Three rendered footnote reference/definition pairs resolve, owner spelling and individual title distinctions need audio/handout confirmation."
+        ]
       }
     },
     {
@@ -4950,7 +5314,41 @@
       "domain": "technology",
       "in_original_2026_10_27_worklist": true,
       "review": {
-        "level": "pending_current_per_file_review"
+        "level": "structural_and_outgoing_links_checked",
+        "cohort": "WCL-182",
+        "purpose": "bounded_current_six_compact_technology_artifact_source_and_outgoing_links_census",
+        "source_lines_read": 21,
+        "depicted_source_window": "E125 physically handed to Stanley; E126 and E128 Diontalus' independent appearances and recovery; S3E08 spectral disintegration; S3E18 no separately documented artifact inventory",
+        "source_window_note": "Stanley actually receives the solid dark-wood instrument E125, but Diontalus' promise that playing a few notes summons him is never demonstrated. Later appearances are independently played events, not observed ocarina activation. S3E08 spectral body destroyed by Groxl, final metaphysical fate unverified; last direct artifact possession E125, with no observed transfer, loss or tested failure through finale.",
+        "D048_structure": "reader_first_acquisition_claim_and_later_status",
+        "outgoing_local_links_total": 9,
+        "outgoing_local_links_renderer_checked": 9,
+        "outgoing_broken_links_renderer_checked": 0,
+        "outgoing_local_links_not_checked": 0,
+        "footnote_references_rendered": 0,
+        "footnote_definitions_rendered": 0,
+        "footnote_definitions_missing": 0,
+        "headings_rendered": 4,
+        "markdown_image_embeds": 0,
+        "html_image_embeds": 0,
+        "legacy_html_anchor_tags": 0,
+        "markdownlint": "passed_zero_violations",
+        "markdown_render": "checked_all_local_links",
+        "size_bytes": 3802,
+        "sha256": "e8fdfb5ba804acb4bb266b185c182c3acf8ed0bfd3b8ff791c16156f03743f25",
+        "incoming_links": "literal_world_filename_scan_only_not_exhaustive",
+        "incoming_link_examples": [
+          "world/ITEMS_AND_ARTIFACTS.md",
+          "world/README.md",
+          "world/characters/stanley-billings.md"
+        ],
+        "primary_audio": "not_checked",
+        "full_source_claim_accuracy": "not_checked",
+        "native_browser": "deferred_WCL-103",
+        "open_questions": [
+          "Promise versus activation clearly separated; cannot extrapolate unlimited charges/range or lasting utility after S3E08, and should not merge with Diontalus-related Sphere device.",
+          "Later non-use refers to surveyed maintained episode dossiers, not a guaranteed exhaustive inventory; original audio/browser/complete all-source check deferred."
+        ]
       }
     },
     {
@@ -4958,7 +5356,42 @@
       "domain": "technology",
       "in_original_2026_10_27_worklist": true,
       "review": {
-        "level": "pending_current_per_file_review"
+        "level": "structural_and_outgoing_links_checked",
+        "cohort": "WCL-185",
+        "purpose": "bounded_current_four_medium_technology_source_provenance_custody_and_outgoing_links",
+        "source_lines_read": 42,
+        "depicted_source_window": "E089 failed Parley recall; E110 alternate-history Diplomacy counterpart; S2E08 temporary Vorel loan and return; S3E03 Stanley physically transfers sword to Hope; S3E06 out-of-range loss, S3E07 renewed use; S3E09 Walmart out-of-range, S3E10 renewed use; S3E12 used as movement; S3E16 misses Principal and S3E17–S3E18 no final inventory",
+        "source_window_note": "Stanley-to-Hope voluntary physical gift S3E03 is firm custody anchor. E110 another-history recovered counterpart may not be same material object as original, and E089 failed Parley call does not prove destruction. Hope directs sword S3E07/S3E10/S3E12/S3E16 even though S3E06/S3E09 intermediate pickups are unnarrated; S3E16 13 misses while separate +2 rapier hits. Final precise location not witnessed.",
+        "D048_structure": "chronological_item_and_custody_research_with_caps_style_followup",
+        "outgoing_local_links_total": 27,
+        "outgoing_local_links_renderer_checked": 27,
+        "outgoing_broken_links_renderer_checked": 0,
+        "outgoing_local_links_not_checked": 0,
+        "footnote_references_rendered": 2,
+        "footnote_definitions_rendered": 2,
+        "footnote_definitions_missing": 0,
+        "headings_rendered": 6,
+        "markdown_image_embeds": 0,
+        "html_image_embeds": 0,
+        "legacy_html_anchor_tags": 0,
+        "markdownlint": "passed_zero_violations",
+        "markdown_render": "checked_all_local_links",
+        "size_bytes": 9247,
+        "sha256": "adaf6ccaa7fb5d02bdff68ca772e8cc1a21bb0f59df5416f0d104b06f65683f1",
+        "incoming_links": "literal_world_filename_scan_only_not_exhaustive",
+        "incoming_link_examples": [
+          "world/ITEMS_AND_ARTIFACTS.md",
+          "world/README.md",
+          "world/characters/hope-akmenos.md",
+          "world/characters/stanley-billings.md"
+        ],
+        "primary_audio": "not_checked",
+        "full_source_claim_accuracy": "not_checked",
+        "native_browser": "deferred_WCL-103",
+        "open_questions": [
+          "Multiple all-caps encounter recaps could use D-048 style polish, but current chronology/custody logic is explicit and structurally sound. No historical pickup scene should be fabricated from later observed reuse.",
+          "The E110 alternative-history counterpart must not be collapsed into a proven recovery of original physical object; S3E18 absence is not proof loss/destruction. Two footnote references and definitions valid."
+        ]
       }
     },
     {
@@ -4993,7 +5426,43 @@
       "domain": "technology",
       "in_original_2026_10_27_worklist": true,
       "review": {
-        "level": "pending_current_per_file_review"
+        "level": "structural_and_outgoing_links_checked",
+        "cohort": "WCL-185",
+        "purpose": "bounded_current_four_medium_technology_source_provenance_custody_and_outgoing_links",
+        "source_lines_read": 39,
+        "depicted_source_window": "E052–E053 chest implantation; E077 CHIDS GR0X1 container; E080 flame-sword/shield; E124 Malhya recognition; S3E07 GM confirms Groxl identity through Eye; S3E08 Eye says NOT Groxl/abomination while generator and heart wiring are physically exposed and severed; S3E09 Groxl attributed historical warlock story; S3E17 visible Eye under chrome",
+        "source_window_note": "One owner-named Eye of Groxl physically implanted in Vorel's chest, separate from Eye of Voice. S3E07 explicit GM/Eye recognition contradicts Eye's S3E08 'not Grojil' claim; machine-dependent modified giant is seen but does not independently prove origin or Godhood. S3E09 supernatural visitor Groxl claims warlock removed his eye; after return Eye physically remains in Vorel. S3E17 explicit Eye still exposed and functional beneath chrome, no observed removal in S3E18.",
+        "D048_structure": "source_first_chronological_identity_contradictions_retained",
+        "outgoing_local_links_total": 26,
+        "outgoing_local_links_renderer_checked": 26,
+        "outgoing_broken_links_renderer_checked": 0,
+        "outgoing_local_links_not_checked": 0,
+        "footnote_references_rendered": 0,
+        "footnote_definitions_rendered": 0,
+        "footnote_definitions_missing": 0,
+        "headings_rendered": 9,
+        "markdown_image_embeds": 0,
+        "html_image_embeds": 0,
+        "legacy_html_anchor_tags": 0,
+        "markdownlint": "passed_zero_violations",
+        "markdown_render": "checked_all_local_links",
+        "size_bytes": 8715,
+        "sha256": "cee78fae6be51f4ebcabba1d2c070cbdb32bef9beb9e76dd9b1fac5677e11053",
+        "incoming_links": "literal_world_filename_scan_only_not_exhaustive",
+        "incoming_link_examples": [
+          "world/ANTAGONISTS.md",
+          "world/HISTORY_CHIDS_DRIVE.md",
+          "world/ITEMS_AND_ARTIFACTS.md",
+          "world/characters/vorel.md",
+          "world/technology/eye-of-the-voice.md"
+        ],
+        "primary_audio": "not_checked",
+        "full_source_claim_accuracy": "not_checked",
+        "native_browser": "deferred_WCL-103",
+        "open_questions": [
+          "Conflict between S3E07 GM positive identification and S3E08 Eye negative statement must remain uncollapsed; Groxl's S3E09 history is speaker testimony, not proven provenance or independent universal god-killing ability.",
+          "ASR variants Grojil/Groxl owner canonical name; exact audio/handout, divine origin, current final physical inspection and native browser remain unverified."
+        ]
       }
     },
     {
@@ -5028,7 +5497,46 @@
       "domain": "technology",
       "in_original_2026_10_27_worklist": true,
       "review": {
-        "level": "pending_current_per_file_review"
+        "level": "structural_and_outgoing_links_checked",
+        "cohort": "WCL-185",
+        "purpose": "bounded_current_four_medium_technology_source_provenance_custody_and_outgoing_links",
+        "source_lines_read": 48,
+        "depicted_source_window": "E001/E006 constructed Dusthill recreational vehicle; E007–E028 modifications/repairs; E064 actual return by Follow/Rorf/Sira; E065 operating vehicle and T. rex warning; E066 actual crushing/explosion and separate Fang Fate Five salvage; E067 subjective memory only",
+        "source_window_note": "Fate 4 physically reappears after Razak Val despite earlier storage assumption, companions board E064 but do not give ownership away. Hope drives E065 and T. rex threat is only pending at cutoff. E066 monster crushes RV and explosion burns wreck, salvage becomes nonmotorized Fang Fate Five. E067 Jimster/Dusthill interlude is subjective, not revival or new repairs.",
+        "D048_structure": "reader_first_with_rendered_provenance_footnote",
+        "outgoing_local_links_total": 25,
+        "outgoing_local_links_renderer_checked": 25,
+        "outgoing_broken_links_renderer_checked": 0,
+        "outgoing_local_links_not_checked": 0,
+        "footnote_references_rendered": 6,
+        "footnote_definitions_rendered": 6,
+        "footnote_definitions_missing": 0,
+        "headings_rendered": 7,
+        "markdown_image_embeds": 0,
+        "html_image_embeds": 0,
+        "legacy_html_anchor_tags": 0,
+        "markdownlint": "passed_zero_violations",
+        "markdown_render": "checked_all_local_links",
+        "size_bytes": 8746,
+        "sha256": "4260ad3db4049cb2fe1c8052112d19c96b7686abe2b5519641a6d730b5031dc7",
+        "incoming_links": "literal_world_filename_scan_only_not_exhaustive",
+        "incoming_link_examples": [
+          "world/ITEMS_AND_ARTIFACTS.md",
+          "world/PLACES.md",
+          "world/README.md",
+          "world/characters/diptak.md"
+        ],
+        "primary_audio": "not_checked",
+        "full_source_claim_accuracy": "not_checked",
+        "native_browser": "deferred_WCL-103",
+        "open_questions": [
+          "WCL-187 resolved formerly orphaned [^illustration] provenance: a short in-text Introduction note now explicitly calls selected Fate 4 depiction a reconstruction, not a photograph, measured design or independent evidence; secure renderer displays all six footnote references/definitions and all 25 local links valid. No actual image embedded in this Markdown page.",
+          "The depiction remains artistic, not a source for vehicle mechanics or geography. Fang Fate Five remains a separate salvage cart and Fate Six a different vessel. Primary audio, complete factual/source attestation, exhaustive external links and native browser WCL-103 not checked."
+        ],
+        "orphan_markdown_footnote_definitions": 0,
+        "orphan_markdown_footnote_names": [],
+        "last_targeted_correction": "WCL-187",
+        "targeted_correction_validation": "all_six_footnote_references_and_definitions_rendered_25_of_25_local_links_scoped_markdownlint_passed"
       }
     },
     {
@@ -5036,7 +5544,50 @@
       "domain": "technology",
       "in_original_2026_10_27_worklist": true,
       "review": {
-        "level": "pending_current_per_file_review"
+        "level": "structural_and_outgoing_links_checked",
+        "cohort": "WCL-189",
+        "purpose": "final_world_census_fate_six_large_file_source_navigation_and_link_cap_reconciliation",
+        "source_lines_read": 262,
+        "depicted_source_window": "E118 secret Villa Or'Nath study; E126 early unperformed ship transformation; S2E01 actually awakened after attunement; S2E02 Earth/Razak Val/Mars flight and first ghost crew; S2E04 first rift and family trip Planet Nash; S2E05–S2E07 Blast Belly Rock and Pentel Weiss, mortal orc losses; S2E12 rescue; S3E01–S3E03 Hell-vessel attack/escape, subsequent Mars arrival; S3E04 plans and S3E05 actual deployment; S3E07 performed cottage-to-ship change and first physical destruction by Groxl, Ruby saved separately; S3E13 actual ship rematerialization with incomplete ghost roster and Hope as navigator; S3E14 external-planar-Gate-only limit; S3E15 explosives delivery; S3E17 ship deliberately rams Principal copies and is destroyed again; S3E18 separate Moon ship, four-day Fate Six restoration, Hope pilots Planet Nash/Earth return and receives Mask/captaincy only afterwards; December 2021 GM ghost-stasis explanation kept retrospective",
+        "source_window_note": "A 262-line source-limited reader-first large vessel study with separate ship structure, ghost and mortal crews, voyage/cargo/communication/equipment tables and chronological episode accounts. E118 key and mask discovered; E126 described flight still unperformed, S2E01/02 real transformation/flight. Original coordinates Earth/Mars/Planet Nash, later discovered/testing episodes are distinct; no independent portal flight to Sigil or Feywild, and S3E14 GM says external planar Gate required. Both physical wrecks (S3E07 and S3E17) genuinely performed, followed by distinct S3E13 and S3E18 restored hulls. S3E13 only most ghosts return, Crooked Hand Row absent according to Sever, other lost spirits not inventoried. Temporary passengers (Nash's family, Twaddle, three later-deceased orcs, 99 alternate Nashes, lizardfolk), weapons/cargo including Ruby, bank papers and explosives have independently qualified custody and are not recreated by assumption. At finale Hope actually pilots restored ship BEFORE Stanley physically hands her Mask, transforms it to crown and proposes new ship command; independent Hope Mask attunement and first new command unperformed. Delit ship-mind source and power are claimed except for witnessed voice, and no post-wreck personal reappearance is separately seen.",
+        "D048_structure": "reader_first_overview_plus_detailed_technical_tables_and_sequential_episodes_with_explicit_historical_cutoffs_and_finite_final_status",
+        "outgoing_local_links_total": 100,
+        "outgoing_local_links_renderer_checked": 100,
+        "outgoing_broken_links_renderer_checked": 0,
+        "outgoing_local_links_not_checked": 0,
+        "link_coverage_method": "independent_complete_source_link_enumeration_100_markdown_links_equal_renderer_100_checked_no_skips_plus_44_distinct_destinations_exist_sha256_file_verification",
+        "outgoing_distinct_local_target_files_verified": 44,
+        "footnote_references_rendered": 0,
+        "footnote_definitions_rendered": 0,
+        "footnote_definitions_missing": 0,
+        "headings_rendered": 36,
+        "markdown_image_embeds": 0,
+        "html_image_embeds": 0,
+        "legacy_html_anchor_tags": 0,
+        "markdownlint": "passed_zero_violations",
+        "markdown_render": "checked_all_100_local_links_exactly_equals_independently_counted_source_links",
+        "size_bytes": 79725,
+        "sha256": "aaa55a3a7866a1e3cc3f6aa8a16d607aadc13b3bc0ccd9be37454a3e10bdeae4",
+        "incoming_links": "literal_world_filename_scan_only_not_exhaustive",
+        "incoming_link_matches_world": 23,
+        "incoming_link_examples": [
+          "world/CHARACTERS.md",
+          "world/ITEMS_AND_ARTIFACTS.md",
+          "world/PLACES.md",
+          "world/characters/hope-akmenos.md",
+          "world/characters/stanley-billings.md",
+          "world/places/villa-ornath.md",
+          "world/technology/mask-of-eltanfawr.md",
+          "world/technology/rubistic-triangulosphere.md"
+        ],
+        "primary_audio": "not_checked",
+        "full_source_claim_accuracy": "not_checked",
+        "native_browser": "deferred_WCL-103",
+        "open_questions": [
+          "Independent extraction found EXACTLY 100 source Markdown link occurrences with 44 distinct local target files; safe renderer checked 100/100 and did not cap further links; all 44 target files separately confirmed present. No heading-fragment link targets in article, no literal world/ incoming fate-six.md# links found; external/cross-repository bookmarks not covered.",
+          "Owner-normalized ghost/proper names and old Delit/vessel metaphysics are source-limited. Ghost crew size is approximate; some later absences are reported by Sever; no final crew or cargo inventory, medical equipment restoration or post-first-wreck Delit personal voice is directly tested.",
+          "Fate Six S3E13 and S3E18 reconstitution follows actual S3E07/S3E17 destructions, but does not imply every ghost/mortal/cargo survived. Hope's S3E18 Mask/crown transfer occurs after she pilots Fate Six; her new attunement and own Mask summon not shown. Original audio, complete independent fact validation, native browser and final D-048 editorial acceptance remain separate."
+        ]
       }
     },
     {
@@ -5044,7 +5595,42 @@
       "domain": "technology",
       "in_original_2026_10_27_worklist": true,
       "review": {
-        "level": "pending_current_per_file_review"
+        "level": "structural_and_outgoing_links_checked",
+        "cohort": "WCL-182",
+        "purpose": "bounded_current_six_compact_technology_artifact_source_and_outgoing_links_census",
+        "source_lines_read": 29,
+        "depicted_source_window": "E039 political Monsoon claim; E049–E050 actual artifact retrieval; E051 Vorel carrying stone to water-throne; E054–E056 plans/partial reconstruction; S3E18 planet restored by different Ruby device",
+        "source_window_note": "Glowing Gem physically retrieved E050 and explicitly in Vorel's bag E051 near an empty emplacement. Monsoon's oil-to-water story and intended civic installation are testimony/plans, not a recorded sustained conversion, handoff or ongoing Gem control; later rain/regreening caused by separate Rubistic Triangulosphere S3E18, not demonstrated Gem usage.",
+        "D048_structure": "reader_first_recovery_chronology_and_unverified_effect",
+        "outgoing_local_links_total": 18,
+        "outgoing_local_links_renderer_checked": 18,
+        "outgoing_broken_links_renderer_checked": 0,
+        "outgoing_local_links_not_checked": 0,
+        "footnote_references_rendered": 0,
+        "footnote_definitions_rendered": 0,
+        "footnote_definitions_missing": 0,
+        "headings_rendered": 5,
+        "markdown_image_embeds": 0,
+        "html_image_embeds": 0,
+        "legacy_html_anchor_tags": 0,
+        "markdownlint": "passed_zero_violations",
+        "markdown_render": "checked_all_local_links",
+        "size_bytes": 5401,
+        "sha256": "261b6ff75ac75ad79f2c975da9dde9b6a9184e9b936e286d85bddfc9b030be60",
+        "incoming_links": "literal_world_filename_scan_only_not_exhaustive",
+        "incoming_link_examples": [
+          "world/CHRONOLOGY.md",
+          "world/CONSISTENCY_LEDGER.md",
+          "world/ITEMS_AND_ARTIFACTS.md",
+          "world/characters/hope-akmenos.md"
+        ],
+        "primary_audio": "not_checked",
+        "full_source_claim_accuracy": "not_checked",
+        "native_browser": "deferred_WCL-103",
+        "open_questions": [
+          "Last direct custody check E051, not evidence of later placement in throne or final owner; no tested volume/rate of water purification or proven connection to Dusthill pump.",
+          "E054–E056 civic rebuild and S3E18 larger restoration observed separately; original audio, complete independent source claims and browser remain open."
+        ]
       }
     },
     {
@@ -5052,7 +5638,46 @@
       "domain": "technology",
       "in_original_2026_10_27_worklist": true,
       "review": {
-        "level": "pending_current_per_file_review"
+        "level": "structural_and_outgoing_links_checked",
+        "cohort": "WCL-186",
+        "purpose": "bounded_mask_and_living_hand_technology_structure_source_horizon_outgoing_links_and_custody_review",
+        "source_lines_read": 73,
+        "depicted_source_window": "E100 Vorel takes separate gauntlet with living Hand from case; E101 Hope actually severs her own hand, attaches supernatural Hand and parts from group while gauntlet is resealed; E106 Tobacho receives Hand-less gauntlet; E118 private Voice pressure but no Eye acquisition; E123 Hope claims fatal removal consequence, untested; S2E04–S2E08 unperformed removal proposal/rumored patron origin/prison Eye speculation; S3E02 Principal physically steals living Hand, Hope survives via table death saves and Stanley Regenerate restores ordinary arm; S3E03–S3E04 no return; S3E12 Principal→Brett/Asmodeus→succubus assistant physical transfer; S3E13–S3E18 no further observed handoff; February/May 2022 creator Q&As separately reported",
+        "source_window_note": "The living Hand of the Voice is distinct from the mechanical Zorander's Fist gauntlet, its case/medallion, the missing Eye of the Voice, Vorel's Eye of Groxl and Hope's charged/uncharged Hollow Ring. E101 Hope physically affixes Hand while Tobacho gets only gauntlet E106. The Principal steals Hand S3E02, despite written deadly-removal warning Hope survives and regains normal arm via Regenerate. S3E12 the Principal hands supernatural Hand to Brett/Asmodeus who immediately transfers it to a female succubus assistant, seen storing it in her pouch, superseding 'Principal last holder' S3E02 cutoff. No later actual recovery of Hand or missing Eye evidenced.",
+        "D048_structure": "source_heavy_chronological_custody_with_out_of_game_testimony_after_current_status",
+        "outgoing_local_links_total": 44,
+        "outgoing_local_links_renderer_checked": 44,
+        "outgoing_broken_links_renderer_checked": 0,
+        "outgoing_local_links_not_checked": 0,
+        "footnote_references_rendered": 0,
+        "footnote_definitions_rendered": 0,
+        "footnote_definitions_missing": 0,
+        "headings_rendered": 16,
+        "markdown_image_embeds": 0,
+        "html_image_embeds": 0,
+        "legacy_html_anchor_tags": 0,
+        "markdownlint": "passed_zero_violations",
+        "markdown_render": "checked_all_local_links",
+        "size_bytes": 17123,
+        "sha256": "cc958ec20638e57574933b409fa7ec8b558a02f6875ff82608d28fd06317b0ed",
+        "incoming_links": "literal_world_filename_scan_only_not_exhaustive",
+        "incoming_link_examples": [
+          "world/ITEMS_AND_ARTIFACTS.md",
+          "world/characters/hope-akmenos.md",
+          "world/characters/the-voice.md",
+          "world/characters/the-principle.md",
+          "world/characters/tobacho-fleur.md",
+          "world/characters/brett-asmodeus.md",
+          "world/technology/eye-of-the-voice.md"
+        ],
+        "primary_audio": "not_checked",
+        "full_source_claim_accuracy": "not_checked",
+        "native_browser": "deferred_WCL-103",
+        "open_questions": [
+          "The written Hand-removal fatality and actual S3E02 death-saves/Regenerate outcome diverge; preserve GM adjudication, not an automatic permanent death. Future ritual/lead-lined containment is Nobieri's speculation, never performed. The scarred prison warden's eye has not been identified as the separate Eye of the Voice, and GM disputes Hope's in-character Eye knowledge.",
+          "GM May 2022 Q&A attributes Principal as original contractor behind Tobacho's Hand search; authorial confirmation does not create a played prior hiring scene. February Q&A describes unplayed gauntlet attacks, not Hand feats. E101 Zorander lore, dead-wizard/lich patron claims and ASR names are not independently confirmed identities.",
+          "Original article source-led all-caps episodes and creator notes after latest witnessed-custody heading; reader-first stylistic/citation revision may be warranted independently. No footnote apparatus, but 44 local links and 16 headings valid. Later than S3E12 exact assistant possession, missing Eye whereabouts and original audio remain unverified."
+        ]
       }
     },
     {
@@ -5060,7 +5685,41 @@
       "domain": "technology",
       "in_original_2026_10_27_worklist": true,
       "review": {
-        "level": "pending_current_per_file_review"
+        "level": "structural_and_outgoing_links_checked",
+        "cohort": "WCL-184",
+        "purpose": "bounded_current_six_technology_source_structure_mechanics_custody_and_outgoing_link_census",
+        "source_lines_read": 27,
+        "depicted_source_window": "E126 hostile guitar attack and Stanley's contested physical seizure; E128 continued possession and harmless musical test; S3E12 guitar placed in Principal's chrome dome as proposed lightning rod; S3E13–S3E18 no separate later custody inspection",
+        "source_window_note": "Henatar's sonic, charm and missile effects are played. Stanley physically takes the guitar E126; the six blue spheres could be separate technology, and E128 explicitly confirms carried instrument without hazardous activated powers. S3E12 'Axe of Gilgamar' is the same electric guitar mounted in temporary chrome dome, but no actual recharge/number of charges or subsequent retrieval is demonstrated.",
+        "D048_structure": "chronological_item_use_record_needs_editorial_caps_and_name_confirmation",
+        "outgoing_local_links_total": 11,
+        "outgoing_local_links_renderer_checked": 11,
+        "outgoing_broken_links_renderer_checked": 0,
+        "outgoing_local_links_not_checked": 0,
+        "footnote_references_rendered": 0,
+        "footnote_definitions_rendered": 0,
+        "footnote_definitions_missing": 0,
+        "headings_rendered": 5,
+        "markdown_image_embeds": 0,
+        "html_image_embeds": 0,
+        "legacy_html_anchor_tags": 0,
+        "markdownlint": "passed_zero_violations",
+        "markdown_render": "checked_all_local_links",
+        "size_bytes": 6395,
+        "sha256": "fed07330619cdacb3470634f5f0afb6b105b4b80f9cd41372eb39327fa94d71b",
+        "incoming_links": "literal_world_filename_scan_only_not_exhaustive",
+        "incoming_link_examples": [
+          "world/ITEMS_AND_ARTIFACTS.md",
+          "world/characters/henitar-grape.md",
+          "world/characters/stanley-billings.md"
+        ],
+        "primary_audio": "not_checked",
+        "full_source_claim_accuracy": "not_checked",
+        "native_browser": "deferred_WCL-103",
+        "open_questions": [
+          "S3E12 all-caps insert is internally clear but needs future D-048 prose style harmonization; 'Axe of Gilgamar' is provisional phonetics, not separate sword nor owner-approved item name.",
+          "E126 six orbiting spheres not proven inseparable from guitar; Henatar limp E126 but killed E128; S3E12 dome placement and no documented guitar retrieval, original audio/item card unverified."
+        ]
       }
     },
     {
@@ -5068,7 +5727,42 @@
       "domain": "technology",
       "in_original_2026_10_27_worklist": true,
       "review": {
-        "level": "pending_current_per_file_review"
+        "level": "structural_and_outgoing_links_checked",
+        "cohort": "WCL-184",
+        "purpose": "bounded_current_six_technology_source_structure_mechanics_custody_and_outgoing_link_census",
+        "source_lines_read": 33,
+        "depicted_source_window": "S3E02 earlier theft from Hope by Principal; S3E11 physical return and modified Gate use; S3E12 confirmed ring on Hope and zero charge; S3E13 Asmodeus transports party without ring; S3E15 Principal portals through Sigil without ring; S3E16–S3E18 no further direct recharge or inventory check",
+        "source_window_note": "A single-charge Hollow Ring genuinely passes Principal→Hope S3E11, Hope attunes/casts Gate and enters Château Weir with allies, explicitly expending the charge. S3E12 ring on Hope with zero charge; the requirement for an evil act in proximity is spoken/GM-adjudicated but no recharge performed. Subsequent portal passages are Brett's or Principal's magic, not self-powered ring activations.",
+        "D048_structure": "chronological_usage_and_charge_status_but_uppercase_recaps",
+        "outgoing_local_links_total": 17,
+        "outgoing_local_links_renderer_checked": 17,
+        "outgoing_broken_links_renderer_checked": 0,
+        "outgoing_local_links_not_checked": 0,
+        "footnote_references_rendered": 0,
+        "footnote_definitions_rendered": 0,
+        "footnote_definitions_missing": 0,
+        "headings_rendered": 7,
+        "markdown_image_embeds": 0,
+        "html_image_embeds": 0,
+        "legacy_html_anchor_tags": 0,
+        "markdownlint": "passed_zero_violations",
+        "markdown_render": "checked_all_local_links",
+        "size_bytes": 6695,
+        "sha256": "42d3363dc62307bfaa48bdd2bfb2f3cb637b10a63eddac6d40f7db3192f12a93",
+        "incoming_links": "literal_world_filename_scan_only_not_exhaustive",
+        "incoming_link_examples": [
+          "world/ITEMS_AND_ARTIFACTS.md",
+          "world/characters/hope-akmenos.md",
+          "world/characters/the-principle.md",
+          "world/places/chateau-weir.md"
+        ],
+        "primary_audio": "not_checked",
+        "full_source_claim_accuracy": "not_checked",
+        "native_browser": "deferred_WCL-103",
+        "open_questions": [
+          "Recharge radius 6 versus 60 feet differs across ASR exports; original audio/item card needed, not a chosen radius. The original prior charging evil act is conjectured, not shown.",
+          "Evil-recharge/other-bearer possibilities are discussed only. Last direct physical custody S3E12, no final inventory evidence; source page uses all-caps recap and needs later style pass if editorially polished."
+        ]
       }
     },
     {
@@ -5076,7 +5770,45 @@
       "domain": "technology",
       "in_original_2026_10_27_worklist": true,
       "review": {
-        "level": "pending_current_per_file_review"
+        "level": "structural_and_outgoing_links_checked",
+        "cohort": "WCL-186",
+        "purpose": "bounded_mask_and_living_hand_technology_structure_source_horizon_outgoing_links_and_custody_review",
+        "source_lines_read": 69,
+        "depicted_source_window": "E118 Stanley discovers the mask and journal in Villa Or'Nath but does not wear mask; E126 actual donning/reshaping, failed lift and attunement requirement; S2E01–S2E02 achieved flight of villa/Fate Six to Mars; S3E05 mask's Peer into Plurality physically used to cast Foresight at 10 max-HP cost; S3E07 ship-to-house-and-back transformation and later ship destruction; S3E11 further Foresight; S3E13 actual mask summon/reappearance of vessel, incomplete ghost crew; S3E14 external Gate requirement; S3E15 Foresight again; S3E17 attempted but unproven remote command, ship second destruction; S3E18 four-day recovery and witnessed Stanley-to-Hope gift/crown",
+        "source_window_note": "This one owner-confirmed Mask of Eltanfawr is the same item referenced by historical mask-of-elton-iv.md alias, not two objects. Distinguish untested E118 future-d20 rewrite/psychic damage and possible shrink-to-dime from performed S3E05/S3E11/S3E15 Foresight and S3E07 house/ship transformation. Despite earlier destruction, Stanley actually summons Fate Six anew S3E13, with some ghost crew still absent. S3E14 source confines independent flight to Prime Material; S3E18 Stanley physically gives the mask to Hope who reshapes it as a crown, but her own four-day attunement and first independent mask command are not played.",
+        "D048_structure": "reader_first_chronological_with_explicit_historical_cutoffs_and_later_current_custody",
+        "outgoing_local_links_total": 44,
+        "outgoing_local_links_renderer_checked": 44,
+        "outgoing_broken_links_renderer_checked": 0,
+        "outgoing_local_links_not_checked": 0,
+        "footnote_references_rendered": 5,
+        "footnote_definitions_rendered": 5,
+        "footnote_definitions_missing": 0,
+        "headings_rendered": 15,
+        "markdown_image_embeds": 0,
+        "html_image_embeds": 0,
+        "legacy_html_anchor_tags": 0,
+        "markdownlint": "passed_zero_violations",
+        "markdown_render": "checked_all_local_links",
+        "size_bytes": 16281,
+        "sha256": "2adb3617d18b0ddb9483ccb27d298c33a4fcab0e161b48976d1432efed1d3b48",
+        "incoming_links": "literal_world_filename_scan_only_not_exhaustive",
+        "incoming_link_examples": [
+          "world/ITEMS_AND_ARTIFACTS.md",
+          "world/characters/stanley-billings.md",
+          "world/characters/hope-akmenos.md",
+          "world/places/villa-ornath.md",
+          "world/technology/fate-six.md",
+          "world/technology/mask-of-elton-iv.md"
+        ],
+        "primary_audio": "not_checked",
+        "full_source_claim_accuracy": "not_checked",
+        "native_browser": "deferred_WCL-103",
+        "open_questions": [
+          "GM-described E118 random-future number-change, death/return conditions, cost reset substances, ship miniaturization are not tested; the four consecutive long rests and four-day attunement wording differ in historical episodes and need direct item-sheet/audio confirmation.",
+          "Stanley's S3E05/S3E11 activation specifically costs 10 maximum HP; no fresh explicit S3E15 numerical loss is evidenced. S3E17 attempted remote ship order not established as causal for later physical arrival. Ghost crew does not automatically fully return with ship, and Hope's new attunement after S3E18 handover is not demonstrated.",
+          "Five rendered footnote refs and five definitions resolve; old E128-only no-flight note is historical, superseded by later flight. Source content uses some all-caps recap and retained historical sections but has a specific latest custody section; native-browser WCL-103, complete source/audio and external fragment review deferred."
+        ]
       }
     },
     {
@@ -5084,7 +5816,37 @@
       "domain": "technology",
       "in_original_2026_10_27_worklist": true,
       "review": {
-        "level": "pending_current_per_file_review"
+        "level": "structural_and_outgoing_links_checked",
+        "cohort": "WCL-182",
+        "purpose": "bounded_current_six_compact_technology_artifact_source_and_outgoing_links_census",
+        "source_lines_read": 5,
+        "depicted_source_window": "E118 actual discovery and inventory, E126 mask-linked spelljammer interface and canonical mask-of-eltanfawr.md owner spelling; legacy historical link only",
+        "source_window_note": "This route is deliberately a compatibility alias for the single Mask of Eltanfawr, not a second artifact or separately acquired Elton IV item. The E118 recovered mask and E126 demonstrated interface are documented in the canonical target; the historical filename remains for incoming links, with alternate transcribed spellings not independently heard.",
+        "D048_structure": "intentional_compact_compatibility_alias",
+        "outgoing_local_links_total": 5,
+        "outgoing_local_links_renderer_checked": 5,
+        "outgoing_broken_links_renderer_checked": 0,
+        "outgoing_local_links_not_checked": 0,
+        "footnote_references_rendered": 0,
+        "footnote_definitions_rendered": 0,
+        "footnote_definitions_missing": 0,
+        "headings_rendered": 1,
+        "markdown_image_embeds": 0,
+        "html_image_embeds": 0,
+        "legacy_html_anchor_tags": 0,
+        "markdownlint": "passed_zero_violations",
+        "markdown_render": "checked_all_local_links",
+        "size_bytes": 946,
+        "sha256": "232624ac3e57b59b38af07b9964c8ce3ca6a1e3bffe995dc6e2ff8918dac2538",
+        "incoming_links": "literal_world_filename_scan_only_not_exhaustive",
+        "incoming_link_examples": [],
+        "primary_audio": "not_checked",
+        "full_source_claim_accuracy": "not_checked",
+        "native_browser": "deferred_WCL-103",
+        "open_questions": [
+          "Intentional alias and one heading are appropriate for compatibility; 0 literal world/ incoming mentions of filename at time of scoped search does NOT justify deleting historical route or claiming no external backlinks.",
+          "Archive-owner Eltanfawr spelling is not audio-verified; no independent canonical mask mechanics, original audio or native-browser verification."
+        ]
       }
     },
     {
@@ -5092,7 +5854,45 @@
       "domain": "technology",
       "in_original_2026_10_27_worklist": true,
       "review": {
-        "level": "pending_current_per_file_review"
+        "level": "structural_and_outgoing_links_checked",
+        "cohort": "WCL-188",
+        "purpose": "source_limited_rubistic_triangulosphere_and_nash_dragon_heart_structure_outgoing_links_and_episode_custody_review",
+        "source_lines_read": 95,
+        "depicted_source_window": "E121 engineered heart opens and mother-dragon apparition; E122 heart resumes Nash body while separate dead dragon's natural heart harvested; E128 natural heart actually recovered and travels toward Mars; S2E02 unfinished Ruby distinct; S2E12 Nash dies but implanted engine/eyestalk survives; S3E01 Stanley Regenerate rebuilds Nash, S3E02 full body and Sprout; S3E03 paternity dream and refused cylinder extraction; S3E10 remembered surgery site; S3E12 lightning/duplicate Nash incident with engine still implanted; S3E13 Brett/Asmodeus removes and keeps engine, fabricates organic heart; S3E14 failed partial dragon shape; S3E18 chrome conversion, death and Wish/True Resurrection without witnessed engine return; bonus creator theories separately qualified",
+        "source_window_note": "Nash's original implanted mechanical dragon heart, physically removed and held by Brett/Asmodeus in S3E13, is NOT the much larger black-dragon natural heart recovered E128 for Ruby. S2E12 Nash physically dies but separate surviving engine/eyestalk is used by S3E01 Stanley Regenerate to grow a body. S3E13 Nash accepts actual heart extraction and gets a beating flesh replacement, still capable of minor magic and levitation; S3E14 dragon transformation partial fails. S3E18 Nash forcibly chromed, actually dies, then physically resurrected by Stanley on Planet Nash from chrome sample, without observed retrieval/reimplantation of old engine or regained complete adult dragon form.",
+        "D048_structure": "chronological_source_caveated_object_study_with_final_state_and_creator_appendices",
+        "outgoing_local_links_total": 51,
+        "outgoing_local_links_renderer_checked": 51,
+        "outgoing_broken_links_renderer_checked": 0,
+        "outgoing_local_links_not_checked": 0,
+        "footnote_references_rendered": 2,
+        "footnote_definitions_rendered": 1,
+        "footnote_definitions_missing": 0,
+        "headings_rendered": 21,
+        "markdown_image_embeds": 0,
+        "html_image_embeds": 0,
+        "legacy_html_anchor_tags": 0,
+        "markdownlint": "passed_zero_violations",
+        "markdown_render": "checked_all_local_links",
+        "size_bytes": 25182,
+        "sha256": "ff9d41fe494922d8ddced44eebb89c52fdae0f724560c147b88ebcffbc11b1c7",
+        "incoming_links": "literal_world_filename_scan_only_not_exhaustive",
+        "incoming_link_examples": [
+          "world/ITEMS_AND_ARTIFACTS.md",
+          "world/WORLD.md",
+          "world/characters/nash-maggard.md",
+          "world/characters/brett-asmodeus.md",
+          "world/technology/rubistic-triangulosphere.md",
+          "world/technology/augmentation-cylinder.md"
+        ],
+        "primary_audio": "not_checked",
+        "full_source_claim_accuracy": "not_checked",
+        "native_browser": "deferred_WCL-103",
+        "open_questions": [
+          "The E121 dragon mother/spectral projection is witnessed, but identity or literal soul presence and original manufactured heart origin are not proven. Nash's S3E10 childhood operating slab memory and Principal/Asmodeus parental/loan stories remain testimony.",
+          "S3E12 lightning clones are GM-adjudicated real bodies, but which clone Principal took to Hell cannot be identified as original to independent certainty. S3E13 old engine custody with Brett and later natural-heart replacement are observed; S3E18 restored Nash body after actual True Resurrection does not prove engine returned.",
+          "Two rendered footnote occurrences resolve to one definition; 51 local links valid. Creator commentary about theoretical item dispelling does NOT prove Dispel Magic works on heart; exact engineered mechanism/audio/final engine inventory, native browser and full historical source audit remain separate."
+        ]
       }
     },
     {
@@ -5100,7 +5900,42 @@
       "domain": "technology",
       "in_original_2026_10_27_worklist": true,
       "review": {
-        "level": "pending_current_per_file_review"
+        "level": "structural_and_outgoing_links_checked",
+        "cohort": "WCL-182",
+        "purpose": "bounded_current_six_compact_technology_artifact_source_and_outgoing_links_census",
+        "source_lines_read": 35,
+        "depicted_source_window": "E123 lodge keeper permits use, Hope tests and drives to Harbor; E124 vehicle actually left Villa Or'Nath; E125 three separately available biodome terminal vehicles ridden; E126 occupants survive; E128 separate four speeders attached to Villa",
+        "source_window_note": "Gatherers' Lodge vehicle lent rather than gifted; Hope demonstrates driving and towing Nash with harness. Its last independently observed location is Villa E124. Later three driven E125 and four granted/clamped E128 are separate groups; no evidence same original borrowed vehicle joined either fleet or survived wreckage. Six parked at terminal is source-specific provisional count, not safely added to four later granted.",
+        "D048_structure": "reader_first_custody_chronology_and_distinct_fleets",
+        "outgoing_local_links_total": 11,
+        "outgoing_local_links_renderer_checked": 11,
+        "outgoing_broken_links_renderer_checked": 0,
+        "outgoing_local_links_not_checked": 0,
+        "footnote_references_rendered": 0,
+        "footnote_definitions_rendered": 0,
+        "footnote_definitions_missing": 0,
+        "headings_rendered": 6,
+        "markdown_image_embeds": 0,
+        "html_image_embeds": 0,
+        "legacy_html_anchor_tags": 0,
+        "markdownlint": "passed_zero_violations",
+        "markdown_render": "checked_all_local_links",
+        "size_bytes": 6030,
+        "sha256": "31b52816818caaaa24951b602041e9dbad541fd96542bcf7e24d12d4fa40b756",
+        "incoming_links": "literal_world_filename_scan_only_not_exhaustive",
+        "incoming_link_examples": [
+          "world/ITEMS_AND_ARTIFACTS.md",
+          "world/README.md",
+          "world/places/elhandar.md",
+          "world/places/the-harbor.md"
+        ],
+        "primary_audio": "not_checked",
+        "full_source_claim_accuracy": "not_checked",
+        "native_browser": "deferred_WCL-103",
+        "open_questions": [
+          "Do not sum six provisional parked, three driven and four newly granted as cumulative unique fleet size or proof Lodge speeder physically recovered. E128 attached to Villa not to Lodge speeder.",
+          "Owner/fuel/speed unknown; E123 journey not a calibrated performance test; no post-impact original-speeder inventory. Primary audio and browser unchecked."
+        ]
       }
     },
     {
@@ -5108,7 +5943,44 @@
       "domain": "technology",
       "in_original_2026_10_27_worklist": true,
       "review": {
-        "level": "pending_current_per_file_review"
+        "level": "structural_and_outgoing_links_checked",
+        "cohort": "WCL-185",
+        "purpose": "bounded_current_four_medium_technology_source_provenance_custody_and_outgoing_links",
+        "source_lines_read": 57,
+        "depicted_source_window": "E075 secure vault and Vorel first acquisition; E075 portal pairing tests and transfer to Hope; E076 physical bugbear escape and handheld transfer to Nash; E077 Hope reuses device, discovers necrotic neutralization mode, collateral damage to Vorel; E078–E079 continued Hope use to bypass lock; E080 misses illithid; E081 separately operates major Drive console; E082 Hope in Sigil without handheld custody check",
+        "source_window_note": "The red/green handheld apparatus is separate from the CHIDS-sized Traversal Drive. E075 physical object retrieved, paired apertures demonstrate limited portal passage; E075 escape is proposed only, E076 escape actually performed and Nash uses it. E077 neutralization mode injures both enemy and ally. E079 bypasses sealed lock without opening lock. E080 neutralization shots miss commander, who is killed by Nash instead. Hope last directly observed holder E080; E081–E082 transfer, loss and ultimate whereabouts unverified.",
+        "D048_structure": "technological_chronology_reader_first_and_unverified_fate",
+        "outgoing_local_links_total": 14,
+        "outgoing_local_links_renderer_checked": 14,
+        "outgoing_broken_links_renderer_checked": 0,
+        "outgoing_local_links_not_checked": 0,
+        "footnote_references_rendered": 0,
+        "footnote_definitions_rendered": 0,
+        "footnote_definitions_missing": 0,
+        "headings_rendered": 9,
+        "markdown_image_embeds": 0,
+        "html_image_embeds": 0,
+        "legacy_html_anchor_tags": 0,
+        "markdownlint": "passed_zero_violations",
+        "markdown_render": "checked_all_local_links",
+        "size_bytes": 10647,
+        "sha256": "3b07b4b60defec86fafa382149e16d72f7a8edd9bc1ec9594581bc14d9ffa7c6",
+        "incoming_links": "literal_world_filename_scan_only_not_exhaustive",
+        "incoming_link_examples": [
+          "world/CONSISTENCY_LEDGER.md",
+          "world/HISTORY_CHIDS_DRIVE.md",
+          "world/ITEMS_AND_ARTIFACTS.md",
+          "world/characters/hope-akmenos.md",
+          "world/places/chids.md",
+          "world/technology/traversal-drive.md"
+        ],
+        "primary_audio": "not_checked",
+        "full_source_claim_accuracy": "not_checked",
+        "native_browser": "deferred_WCL-103",
+        "open_questions": [
+          "Unverified formal name, beam range/duration/charges and universal portal edge lethality. E081 Drive controls are not handheld-device operation, and Sigil destination does not establish transfer of Hope's kit.",
+          "E076 Nash→Hope intervening handoff is not explicitly observed although Hope demonstrably uses item again E077. No E082/finale item inventory, audio or native browser verification."
+        ]
       }
     },
     {
@@ -5116,7 +5988,41 @@
       "domain": "technology",
       "in_original_2026_10_27_worklist": true,
       "review": {
-        "level": "pending_current_per_file_review"
+        "level": "structural_and_outgoing_links_checked",
+        "cohort": "WCL-184",
+        "purpose": "bounded_current_six_technology_source_structure_mechanics_custody_and_outgoing_link_census",
+        "source_lines_read": 33,
+        "depicted_source_window": "S3E03 four inventory doses assigned; S3E04/S3E05 no administered syringes; S3E10 discussion and regular short rest; S3E11 natural long rest; S3E17 Stanley actually injects his own dose, separate second held reported; S3E18 no observed further consumption",
+        "source_window_note": "GM assigned four syringes one to each original hero S3E03. The action-triggered instantaneous rest and approximate five-year life cost are reported mechanics, but cost not measured. Stanley actually injects his dose during S3E17 and gains long-rest benefits; separate additional unspent dose reportedly transferred from Vorel, without witnessed date/hand-to-hand event. No fifth supplied dose or second use is established.",
+        "D048_structure": "chronological_allotment_and_use_with_precise_inventory_caveat",
+        "outgoing_local_links_total": 18,
+        "outgoing_local_links_renderer_checked": 18,
+        "outgoing_broken_links_renderer_checked": 0,
+        "outgoing_local_links_not_checked": 0,
+        "footnote_references_rendered": 3,
+        "footnote_definitions_rendered": 3,
+        "footnote_definitions_missing": 0,
+        "headings_rendered": 7,
+        "markdown_image_embeds": 0,
+        "html_image_embeds": 0,
+        "legacy_html_anchor_tags": 0,
+        "markdownlint": "passed_zero_violations",
+        "markdown_render": "checked_all_local_links",
+        "size_bytes": 7402,
+        "sha256": "ef674311219733387b2df4c1c1444a74fa188030a9a31bf46c80a537c4830c1b",
+        "incoming_links": "literal_world_filename_scan_only_not_exhaustive",
+        "incoming_link_examples": [
+          "world/ITEMS_AND_ARTIFACTS.md",
+          "world/README.md",
+          "world/technology/elhandari-enchanted-equipment.md"
+        ],
+        "primary_audio": "not_checked",
+        "full_source_claim_accuracy": "not_checked",
+        "native_browser": "deferred_WCL-103",
+        "open_questions": [
+          "Second syringe in Stanley's later inventory is reported, no prior physical handoff scene located; count cannot increase beyond initial four or be inventoried confidently at finale.",
+          "GM-estimated five-year cost is not witnessed physiological measurement, and no other hero's injection is shown in current dossiers. Three rendered footnotes valid; primary audio not heard."
+        ]
       }
     },
     {
@@ -5124,7 +6030,44 @@
       "domain": "technology",
       "in_original_2026_10_27_worklist": true,
       "review": {
-        "level": "pending_current_per_file_review"
+        "level": "structural_and_outgoing_links_checked",
+        "cohort": "WCL-188",
+        "purpose": "source_limited_rubistic_triangulosphere_and_nash_dragon_heart_structure_outgoing_links_and_episode_custody_review",
+        "source_lines_read": 91,
+        "depicted_source_window": "E122–E128 proposal and separate natural black-dragon-heart extraction/recovery; S2E02 partly built Mars machine; S3E01–S3E03 Tungsten claims reagent possession and actual work; S3E04 completed device and brief tested spin; S3E05 Earth shipment aboard Fate Six; S3E07 dragon Nash rescue from ship; S3E08 lava generator NOT Ruby; S3E09 ally wagon camp; S3E10 GM resets custody with underground team; S3E11 placed unactivated at geothermal core; S3E13 orders elite security, S3E14/S3E15 actual guards; S3E17 Worldbreaker banishment, S3E18 activation order and planetary restoration",
+        "source_window_note": "The natural dragon's harvested metal heart is separate from Nash's implanted engineered heart. S3E04 Ruby is completed and spun briefly on Mars with localized effects, but planetary repair not tested then. S3E07 Nash saves completed device after Fate Six crush, S3E08 distinct giant's generator detonates in lava, S3E09 Ruby is observed in friendly camp and S3E10 GM puts it with descending team without narrating pickup, S3E11 remains floating guarded in Principle's Solar Mines inner room. S3E13 security mission only ordered; S3E14 arrival confirmed; S3E18 allies authorize operation and GM confirms environmental recovery/ Earth mana-wave spellcasting shutdown after Worldbreaker already banished. Physical insertion into core NEVER directly shown.",
+        "D048_structure": "source_led_episode_by_episode_technical_chronology_with_final_outcome_and_source_footnote",
+        "outgoing_local_links_total": 45,
+        "outgoing_local_links_renderer_checked": 45,
+        "outgoing_broken_links_renderer_checked": 0,
+        "outgoing_local_links_not_checked": 0,
+        "footnote_references_rendered": 1,
+        "footnote_definitions_rendered": 1,
+        "footnote_definitions_missing": 0,
+        "headings_rendered": 22,
+        "markdown_image_embeds": 0,
+        "html_image_embeds": 0,
+        "legacy_html_anchor_tags": 0,
+        "markdownlint": "passed_zero_violations",
+        "markdown_render": "checked_all_local_links",
+        "size_bytes": 23890,
+        "sha256": "4f08aff0f7038cf91b45be510c039e343249a6cf8403e3c4b68dc5a3027b7cb4",
+        "incoming_links": "literal_world_filename_scan_only_not_exhaustive",
+        "incoming_link_examples": [
+          "world/ITEMS_AND_ARTIFACTS.md",
+          "world/characters/tungsten-wheel.md",
+          "world/places/solar-mines.md",
+          "world/technology/nash-dragon-heart.md",
+          "world/technology/gem-of-tides.md"
+        ],
+        "primary_audio": "not_checked",
+        "full_source_claim_accuracy": "not_checked",
+        "native_browser": "deferred_WCL-103",
+        "open_questions": [
+          "Technical episode-by-episode all-caps style would benefit reader-first condensed opening and clear source/cutoff separation under D-048; all 22 headings and 45 local links render. S3E18 observed rain/forests and mana loss do NOT prove an individually staged physical drop/insertion into molten core.",
+          "Tungsten's hidden Gluptwarp substance and origin story are testimony, not direct ingredient inspection; S3E04 physical finished machine does not show its manufacture. S3E09→S3E10 transfer is GM continuity correction, not proof of a performed offscreen courier. Planet permanently safe from every threat not established.",
+          "One footnote reference and one definition resolved. Original audio, owner-approved engineering design, exhaustive source-claim review, external links/browser and incoming fragments not checked."
+        ]
       }
     },
     {
@@ -5132,7 +6075,42 @@
       "domain": "technology",
       "in_original_2026_10_27_worklist": true,
       "review": {
-        "level": "pending_current_per_file_review"
+        "level": "structural_and_outgoing_links_checked",
+        "cohort": "WCL-182",
+        "purpose": "bounded_current_six_compact_technology_artifact_source_and_outgoing_links_census",
+        "source_lines_read": 25,
+        "depicted_source_window": "E067 and E070 reported ancient planetary purpose; E079 first physical Drive chamber, E080 interrupted battle, E081 actual machine controls and four-person life sacrifice, E082 Sigil aftermath",
+        "source_window_note": "Ancient large CHIDS Traversal Drive is distinct from portable red/green portal apparatus. Observed E079 chamber and E081 controls, Eddie and Sira freed, Chance missing, four volunteer together and GM declares death at E081 cutoff. E082 reveals different individual return states, not four alive; exact planetary relocation/safe shutdown/ether physics comes from interested Charles/Quizquaz testimony, not directly verified.",
+        "D048_structure": "reader_first_machine_provenance_played_use_and_cutoff",
+        "outgoing_local_links_total": 13,
+        "outgoing_local_links_renderer_checked": 13,
+        "outgoing_broken_links_renderer_checked": 0,
+        "outgoing_local_links_not_checked": 0,
+        "footnote_references_rendered": 0,
+        "footnote_definitions_rendered": 0,
+        "footnote_definitions_missing": 0,
+        "headings_rendered": 5,
+        "markdown_image_embeds": 0,
+        "html_image_embeds": 0,
+        "legacy_html_anchor_tags": 0,
+        "markdownlint": "passed_zero_violations",
+        "markdown_render": "checked_all_local_links",
+        "size_bytes": 4304,
+        "sha256": "a786fc928dd0f064fc803ace812e9b4b33c649f7728c54469114f4463b0b8247",
+        "incoming_links": "literal_world_filename_scan_only_not_exhaustive",
+        "incoming_link_examples": [
+          "world/HISTORY_CHIDS_DRIVE.md",
+          "world/ITEMS_AND_ARTIFACTS.md",
+          "world/characters/quizquaz.md",
+          "world/technology/portal-device.md"
+        ],
+        "primary_audio": "not_checked",
+        "full_source_claim_accuracy": "not_checked",
+        "native_browser": "deferred_WCL-103",
+        "open_questions": [
+          "Do not conflate E081 in-world shared sacrifice with February 2022 GM retrospective plan for one volunteer. Earth-safe outcome, machine's permanent shutdown and builder identity remain unverified.",
+          "No later E082 Earth-side survey or restored Chance; spell/planar mechanics and original audio not independently checked."
+        ]
       }
     },
     {
@@ -5140,7 +6118,42 @@
       "domain": "technology",
       "in_original_2026_10_27_worklist": true,
       "review": {
-        "level": "pending_current_per_file_review"
+        "level": "structural_and_outgoing_links_checked",
+        "cohort": "WCL-184",
+        "purpose": "bounded_current_six_technology_source_structure_mechanics_custody_and_outgoing_link_census",
+        "source_lines_read": 36,
+        "depicted_source_window": "S3E14 five boards physically offered, Hope's tests; S3E15 speed/use and Hope board physically ground up; S3E15 Principal makes two portals through Sigil; S3E16 three working boards with four riders at canyon opening; S3E17 Hope carries Nash during Banishment; S3E18 no final board inventory",
+        "source_window_note": "Five powered Kuromokishi boards physically offered S3E14, one physically lost to Worldbreaker in S3E15; normal 90 feet/turn and overdrive 180 are adjudicated. S3E16 three functioning boards observed with four riders; Hope still pilots one during S3E17, not proof all four other units functioning. Sigil crossings use Principal's portals, not native planar travel abilities.",
+        "D048_structure": "reader_first_chronological_vehicles_with_allcaps_episode_notes",
+        "outgoing_local_links_total": 17,
+        "outgoing_local_links_renderer_checked": 17,
+        "outgoing_broken_links_renderer_checked": 0,
+        "outgoing_local_links_not_checked": 0,
+        "footnote_references_rendered": 2,
+        "footnote_definitions_rendered": 2,
+        "footnote_definitions_missing": 0,
+        "headings_rendered": 8,
+        "markdown_image_embeds": 0,
+        "html_image_embeds": 0,
+        "legacy_html_anchor_tags": 0,
+        "markdownlint": "passed_zero_violations",
+        "markdown_render": "checked_all_local_links",
+        "size_bytes": 8469,
+        "sha256": "9fec76100dc411e414b5ae4c46f7945cf62741101209ad5994158bf01adc519f",
+        "incoming_links": "literal_world_filename_scan_only_not_exhaustive",
+        "incoming_link_examples": [
+          "world/ITEMS_AND_ARTIFACTS.md",
+          "world/characters/hope-akmenos.md",
+          "world/characters/vorel.md",
+          "world/places/leaden-fingers-stormlands.md"
+        ],
+        "primary_audio": "not_checked",
+        "full_source_claim_accuracy": "not_checked",
+        "native_browser": "deferred_WCL-103",
+        "open_questions": [
+          "Unlocated fifth board and Principal's post-grapple board outcome remain unknown; five originally, one destroyed, three observed at S3E16 is not a final inventory count.",
+          "Kuromokishi spelling/board provenance beyond Principal testimony are ASR-provisional. Two footnotes resolve; upper-case episodic style can be addressed in later D-048 polishing."
+        ]
       }
     }
   ]
