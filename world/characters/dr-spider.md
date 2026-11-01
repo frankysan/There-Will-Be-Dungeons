@@ -4,7 +4,6 @@
 
 **Historical S3E01 cutoff:** This infernal arachnoid doctor **actually accompanies revived Squirts, Steerious and Blood Skunk aboard Fate Six** in Brett's attack party. His immense ***Sickening Radiance*** is mis-measured initially then **enlarged to correct 30-ft radius**, unintentionally hurting Hell allies including Squirts; Stanley ultimately **dispels it**. He **casts illusory *Mental Prison* on adult-black-dragon Nash**, briefly restraining him until Nash breaks free with great psychic pain. Spider also **actually uses *Healing Light* to revive fallen Squirts and Steerious**, and creates an aggressive ***Wall of Fire* on the mast that burns comrades as well as foes**. He announces a planned ***Dream of the Blue Veil*** but **is ACTUALLY DOWNED by Nash's 51-point dragon acid breath before completed planar travel is established**. **He remains in death-save state by S3E01 cutoff**—not confirmed permanently killed. [Source-first dossier](../../episodes/S3E01.md) · [two-ASR audit](../../reports/WASTES_S3E01_ASR_COMPARISON_2026-10-26.md).
 
-
 **Browse:** [Characters](../CHARACTERS.md) · [World portal](../README.md)
 
 **Role:** A member of Hope's separate Arc Five group, assigned with Steerious Business and Blood Skunk by **Brett**. **Evidence:** Provisional processed ASR; the name is a character identifier, not proof of medical credentials.

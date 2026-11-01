@@ -25,12 +25,12 @@
     "historic_paths": 134,
     "historic_retained": 134,
     "added_since_baseline": 12,
-    "structural_and_outgoing_links_checked": 44,
-    "structural_with_partial_outgoing_links_checked": 5,
+    "structural_and_outgoing_links_checked": 60,
+    "structural_with_partial_outgoing_links_checked": 7,
     "structural_paths_verified_render_blocked": 2,
-    "structural_renderer_checked_lint_blocked": 2,
+    "structural_renderer_checked_lint_blocked": 3,
     "technical_json_structure_checked": 1,
-    "pending_current_per_file_review": 92,
+    "pending_current_per_file_review": 73,
     "by_domain": {
       "world": 17,
       "world/characters": 47,
@@ -656,7 +656,37 @@
       "domain": "characters",
       "in_original_2026_10_27_worklist": true,
       "review": {
-        "level": "pending_current_per_file_review"
+        "level": "structural_and_outgoing_links_checked",
+        "cohort": "WCL-155",
+        "purpose": "bounded_character_profile_structural_source_and_presentation_inventory",
+        "source_lines_read": 15,
+        "depicted_source_window": "E071 direct appearance and self-presented underworld-bureau and Principal origin claims",
+        "source_window_note": "Directly left outside CHIDS ventilation duct at E071 cutoff; UBI credentials, infernal bureaucracy and Principal history remain Alvert's interested claims, no independently observed later fate",
+        "D048_structure": "needs_reader_first_review",
+        "outgoing_local_links_total": 6,
+        "outgoing_local_links_renderer_checked": 6,
+        "outgoing_broken_links_renderer_checked": 0,
+        "outgoing_local_links_not_checked": 0,
+        "footnote_references_static": 0,
+        "footnote_definitions_static": 0,
+        "headings_rendered": 1,
+        "markdown_image_embeds": 0,
+        "html_image_embeds": 0,
+        "legacy_html_anchor_tags": 0,
+        "markdownlint": "passed_zero_violations",
+        "size_bytes": 3066,
+        "sha256": "206b8f711355e1d0a08a1f00be0449c248af93eec9c3b1e2e3181a10d6fdee91",
+        "incoming_links": "literal_world_link_scan_only_not_exhaustive",
+        "incoming_link_examples": [
+          "world/characters/the-principle.md"
+        ],
+        "primary_audio": "not_checked",
+        "full_source_claim_accuracy": "not_checked",
+        "native_browser": "deferred_WCL-103",
+        "open_questions": [
+          "Source-led short dossier, not accepted D-048 reader-first life/legacy narrative; later status cannot be invented beyond observed horizon",
+          "Original audio, fuller source claims, outside-world inbound links and native-browser behavior remain unchecked"
+        ]
       }
     },
     {
@@ -742,7 +772,33 @@
       "domain": "characters",
       "in_original_2026_10_27_worklist": true,
       "review": {
-        "level": "pending_current_per_file_review"
+        "level": "structural_and_outgoing_links_checked",
+        "cohort": "WCL-151",
+        "purpose": "bounded_character_profile_structure_and_source_horizon_audit",
+        "source_lines_read": 19,
+        "depicted_source_window": "E102–E116 and S3E01–S3E02; later E113 Harlequinari self-identification and 2020 nonplayed bonus",
+        "source_window_note": "S3E02 dead remains, head grafted inertly to living Steerious; no revival",
+        "D048_structure": "needs_reader_first_review",
+        "outgoing_local_links_renderer_checked": 20,
+        "outgoing_local_links_not_checked": 0,
+        "outgoing_broken_links_renderer_checked": 0,
+        "footnote_definitions_static": 0,
+        "markdown_image_embeds": 0,
+        "headings_rendered": 2,
+        "markdownlint": "passed_zero_violations",
+        "size_bytes": 4122,
+        "sha256": "ff00a2776f556d25333bfed1bf524a421cccbd02dc35b20bcb263bb977d8b140",
+        "incoming_links": "sampled_not_exhaustive",
+        "incoming_link_examples": [
+          "world/characters/dr-spider.md"
+        ],
+        "primary_audio": "not_checked",
+        "full_source_claim_accuracy": "not_checked",
+        "native_browser": "deferred_WCL-103",
+        "open_questions": [
+          "Source claim horizons and D-048 reader-first conversion require independent editorial review WCL-154; do not elevate interested testimony or historical cutoffs to final observed fact.",
+          "GitHub/native-browser fragments and exhaustive incoming links not verified"
+        ]
       }
     },
     {
@@ -928,7 +984,37 @@
       "domain": "characters",
       "in_original_2026_10_27_worklist": true,
       "review": {
-        "level": "pending_current_per_file_review"
+        "level": "structural_and_outgoing_links_checked",
+        "cohort": "WCL-155",
+        "purpose": "bounded_character_profile_structural_source_and_presentation_inventory",
+        "source_lines_read": 11,
+        "depicted_source_window": "S3E09 Solar Mines childhood reminiscence and played Walmart confrontation",
+        "source_window_note": "General Motors unmasks as Nash's bully Dick Pendleton; Hope kills him during fight; Principal paternity and genuine lasting magically induced remorse unproven",
+        "D048_structure": "needs_reader_first_review",
+        "outgoing_local_links_total": 5,
+        "outgoing_local_links_renderer_checked": 5,
+        "outgoing_broken_links_renderer_checked": 0,
+        "outgoing_local_links_not_checked": 0,
+        "footnote_references_static": 0,
+        "footnote_definitions_static": 0,
+        "headings_rendered": 1,
+        "markdown_image_embeds": 0,
+        "html_image_embeds": 0,
+        "legacy_html_anchor_tags": 0,
+        "markdownlint": "passed_zero_violations",
+        "size_bytes": 3162,
+        "sha256": "9dccbf820cd2eb9b0dee3cd0d8d018d7698e13875148b9b2931676bef87dc8dc",
+        "incoming_links": "literal_world_link_scan_only_not_exhaustive",
+        "incoming_link_examples": [
+          "world/characters/nash-maggard.md"
+        ],
+        "primary_audio": "not_checked",
+        "full_source_claim_accuracy": "not_checked",
+        "native_browser": "deferred_WCL-103",
+        "open_questions": [
+          "Source-led short dossier, not accepted D-048 reader-first life/legacy narrative; later status cannot be invented beyond observed horizon",
+          "Original audio, fuller source claims, outside-world inbound links and native-browser behavior remain unchecked"
+        ]
       }
     },
     {
@@ -1029,7 +1115,34 @@
       "domain": "characters",
       "in_original_2026_10_27_worklist": true,
       "review": {
-        "level": "pending_current_per_file_review"
+        "level": "structural_and_outgoing_links_checked",
+        "cohort": "WCL-151",
+        "editorial_cohort": "WCL-154",
+        "purpose": "bounded_character_profile_structure_and_source_horizon_audit",
+        "source_lines_read": 20,
+        "depicted_source_window": "E028 arrival; E058–E060 Razak Val dispute",
+        "source_window_note": "E060 killed directly by Orp; clan and full Council of Twelve status not known",
+        "D048_structure": "observed_reader_subject",
+        "outgoing_local_links_renderer_checked": 10,
+        "outgoing_local_links_not_checked": 0,
+        "outgoing_broken_links_renderer_checked": 0,
+        "footnote_definitions_static": 4,
+        "markdown_image_embeds": 0,
+        "headings_rendered": 4,
+        "markdownlint": "passed_zero_violations",
+        "size_bytes": 2621,
+        "sha256": "3ff4a2cf0f4074ce2e49190076dd4fefc52078ea28b80a6a084ffe27e55bb04a",
+        "incoming_links": "sampled_not_exhaustive",
+        "incoming_link_examples": [
+          "world/characters/orp.md"
+        ],
+        "primary_audio": "not_checked",
+        "full_source_claim_accuracy": "not_checked",
+        "native_browser": "deferred_WCL-103",
+        "open_questions": [
+          "Provisional names, retained historical and retrospective source notes and actual final witnessed state are not a complete fact/audio confirmation.",
+          "WCL-154 reader-first editorial pass completed with lint and rendered links, while native-browser, complete incoming links and full source/audio validation remain outstanding"
+        ]
       }
     },
     {
@@ -1037,7 +1150,33 @@
       "domain": "characters",
       "in_original_2026_10_27_worklist": true,
       "review": {
-        "level": "pending_current_per_file_review"
+        "level": "structural_and_outgoing_links_checked",
+        "cohort": "WCL-151",
+        "purpose": "bounded_character_profile_structure_and_source_horizon_audit",
+        "source_lines_read": 26,
+        "depicted_source_window": "E106–E116; S3E01–S3E02; independent E127 Christmas one-off and creator 2020 bonus",
+        "source_window_note": "Survives S3E02, operates on Union, departs at Blast Belly Rock; E127 professor not proven same character",
+        "D048_structure": "needs_reader_first_review",
+        "outgoing_local_links_renderer_checked": 18,
+        "outgoing_local_links_not_checked": 0,
+        "outgoing_broken_links_renderer_checked": 0,
+        "footnote_definitions_static": 0,
+        "markdown_image_embeds": 0,
+        "headings_rendered": 3,
+        "markdownlint": "passed_zero_violations",
+        "size_bytes": 5634,
+        "sha256": "69d96638da2bd9682b2cf32dcc39ea9de0af8e7a8690401831f9cf82fd9148ec",
+        "incoming_links": "sampled_not_exhaustive",
+        "incoming_link_examples": [
+          "world/characters/blood-skunk-hendrickson.md"
+        ],
+        "primary_audio": "not_checked",
+        "full_source_claim_accuracy": "not_checked",
+        "native_browser": "deferred_WCL-103",
+        "open_questions": [
+          "Source claim horizons and D-048 reader-first conversion require independent editorial review WCL-154; do not elevate interested testimony or historical cutoffs to final observed fact.",
+          "GitHub/native-browser fragments and exhaustive incoming links not verified"
+        ]
       }
     },
     {
@@ -1097,7 +1236,35 @@
       "domain": "characters",
       "in_original_2026_10_27_worklist": true,
       "review": {
-        "level": "pending_current_per_file_review"
+        "level": "structural_and_outgoing_links_checked",
+        "cohort": "WCL-155",
+        "purpose": "bounded_character_profile_structural_source_and_presentation_inventory",
+        "source_lines_read": 45,
+        "depicted_source_window": "E063–E066 three-person Razak Val flight and CHIDS abduction; Sira's observed rescue E081; July 2019 retrospective separate",
+        "source_window_note": "Follow and Rorf both die E066 without witnessed return. Sira escapes alive with Eddie E081, not a party member in final beam absorption; unproven T'ietkalla settlement and name spellings",
+        "D048_structure": "needs_reader_first_review",
+        "outgoing_local_links_total": 22,
+        "outgoing_local_links_renderer_checked": 22,
+        "outgoing_broken_links_renderer_checked": 0,
+        "outgoing_local_links_not_checked": 0,
+        "footnote_references_static": 0,
+        "footnote_definitions_static": 0,
+        "headings_rendered": 7,
+        "markdown_image_embeds": 0,
+        "html_image_embeds": 0,
+        "legacy_html_anchor_tags": 0,
+        "markdownlint": "passed_zero_violations",
+        "size_bytes": 8351,
+        "sha256": "33bae5c19c1e83ee829d0bc805e210909bd5a58d47fee4702089a5505be730ca",
+        "incoming_links": "literal_world_link_scan_only_not_exhaustive",
+        "incoming_link_examples": [],
+        "primary_audio": "not_checked",
+        "full_source_claim_accuracy": "not_checked",
+        "native_browser": "deferred_WCL-103",
+        "open_questions": [
+          "Reader-facing chronology/current outcome requires source-limited D-048 treatment; do not turn claims into observed facts.",
+          "Original audio, outside-world backlinks and native-browser behavior unchecked"
+        ]
       }
     },
     {
@@ -1146,7 +1313,35 @@
       "domain": "characters",
       "in_original_2026_10_27_worklist": true,
       "review": {
-        "level": "pending_current_per_file_review"
+        "level": "structural_and_outgoing_links_checked",
+        "cohort": "WCL-155",
+        "purpose": "bounded_character_profile_structural_source_and_presentation_inventory",
+        "source_lines_read": 21,
+        "depicted_source_window": "E125 Elhandar siege, E126 combat, E128 surrender, execution and corpse dialogue",
+        "source_window_note": "E126 limp fall not confirmed death; Nash kills yielding Henitar in E128, Diontalus consumes soul-like substance; faction name, employer and corpse testimony remain uncertain",
+        "D048_structure": "needs_reader_first_review",
+        "outgoing_local_links_total": 9,
+        "outgoing_local_links_renderer_checked": 9,
+        "outgoing_broken_links_renderer_checked": 0,
+        "outgoing_local_links_not_checked": 0,
+        "footnote_references_static": 0,
+        "footnote_definitions_static": 0,
+        "headings_rendered": 3,
+        "markdown_image_embeds": 0,
+        "html_image_embeds": 0,
+        "legacy_html_anchor_tags": 0,
+        "markdownlint": "passed_zero_violations",
+        "size_bytes": 5329,
+        "sha256": "7c2ed7462ddea5810017695309b32123ea1bebe60ef3c5291d39b82859347a56",
+        "incoming_links": "literal_world_link_scan_only_not_exhaustive",
+        "incoming_link_examples": [],
+        "primary_audio": "not_checked",
+        "full_source_claim_accuracy": "not_checked",
+        "native_browser": "deferred_WCL-103",
+        "open_questions": [
+          "Reader-facing chronology/current outcome requires source-limited D-048 treatment; do not turn claims into observed facts.",
+          "Original audio, outside-world backlinks and native-browser behavior unchecked"
+        ]
       }
     },
     {
@@ -1208,7 +1403,33 @@
       "domain": "characters",
       "in_original_2026_10_27_worklist": true,
       "review": {
-        "level": "pending_current_per_file_review"
+        "level": "structural_and_outgoing_links_checked",
+        "cohort": "WCL-151",
+        "purpose": "bounded_character_profile_structure_and_source_horizon_audit",
+        "source_lines_read": 23,
+        "depicted_source_window": "E121 returned captive dragon, E122 ancient-history testimony and observed death",
+        "source_window_note": "E122 dragon dies, body dissipates; separate natural heart hidden near cave spike; maternal/ancient claims remain testimony",
+        "D048_structure": "needs_reader_first_review",
+        "outgoing_local_links_renderer_checked": 8,
+        "outgoing_local_links_not_checked": 0,
+        "outgoing_broken_links_renderer_checked": 0,
+        "footnote_definitions_static": 0,
+        "markdown_image_embeds": 0,
+        "headings_rendered": 3,
+        "markdownlint": "passed_zero_violations",
+        "size_bytes": 4802,
+        "sha256": "f93c3c025c6746fc096f95549ff726203e00d58eb960326bddf454670f8eb566",
+        "incoming_links": "sampled_not_exhaustive",
+        "incoming_link_examples": [
+          "world/characters/the-principle.md"
+        ],
+        "primary_audio": "not_checked",
+        "full_source_claim_accuracy": "not_checked",
+        "native_browser": "deferred_WCL-103",
+        "open_questions": [
+          "Provisional names, retained historical and retrospective source notes and actual final witnessed state are not a complete fact/audio confirmation.",
+          "D-048 presentation review WCL-154; native browser and complete inbound-link coverage outstanding"
+        ]
       }
     },
     {
@@ -1436,7 +1657,38 @@
       "domain": "characters",
       "in_original_2026_10_27_worklist": true,
       "review": {
-        "level": "pending_current_per_file_review"
+        "level": "structural_with_partial_outgoing_links_checked",
+        "cohort": "WCL-156",
+        "purpose": "source_indexed_specialist_register_retained_exception",
+        "source_lines_read": 245,
+        "depicted_source_window": "48 permanent NSP IDs, 42 S1 through E126 and six later-season findings/seeds; E112–E126/E128 candidate extension; played S3E18 endpoint, separate S3E019 retrospective; source labels point to processed P/Q ASR, not verified performances",
+        "D048_structure": "source_first_exception_candidate",
+        "source_window_note": "Fully read in numbered chunks. Historic/local source cue references are ASR only; source-first tables/chronological evidence headings are intended functional structure, not an ordinary biography.",
+        "outgoing_local_links_total_reported": 275,
+        "outgoing_local_links_checked": 100,
+        "outgoing_broken_links": 0,
+        "outgoing_local_links_not_checked": 175,
+        "outgoing_link_check": "offline_renderer_first_100_only_remaining_links_unverified_WCL-101",
+        "headings_rendered": 7,
+        "footnote_references_rendered": 0,
+        "footnote_definitions_rendered": 0,
+        "markdown_image_embeds": 0,
+        "html_image_embeds": 0,
+        "markdownlint": "passed_zero_violations",
+        "size_bytes": 69754,
+        "sha256": "37ced797355f58fa3946f2e8f5dae67749a53ca27a8631eea536687e65678882",
+        "incoming_links": "examples_not_exhaustive",
+        "incoming_link_examples": [
+          "world/characters/nash-maggard.md"
+        ],
+        "primary_audio": "not_checked",
+        "full_source_claim_accuracy": "not_checked",
+        "native_browser": "deferred_WCL-103",
+        "open_questions": [
+          "Rendered link cap prevents full destination coverage; remaining links and exact heading compatibility require WCL-101/WCL-103, not claimed passed.",
+          "Speaker diarization, spell phrase and title spelling/clock remain provisional pending audio and independent source verification.",
+          "No new title/phrase ID, canonical word, scene or appendix created by the structural census"
+        ]
       }
     },
     {
@@ -1492,7 +1744,33 @@
       "domain": "characters",
       "in_original_2026_10_27_worklist": true,
       "review": {
-        "level": "pending_current_per_file_review"
+        "level": "structural_renderer_checked_lint_blocked",
+        "cohort": "WCL-151",
+        "purpose": "bounded_character_profile_structure_and_source_horizon_audit",
+        "source_lines_read": 59,
+        "depicted_source_window": "E082–E088 direct kenku guide scenes; 2020 cast Q&As; E089 only research cutoff",
+        "source_window_note": "Alive E088; private Pelvis kidnapping commission unperformed; later actual outcome unverified",
+        "D048_structure": "needs_reader_first_review",
+        "outgoing_local_links_renderer_checked": 26,
+        "outgoing_local_links_not_checked": 0,
+        "outgoing_broken_links_renderer_checked": 0,
+        "footnote_definitions_static": 0,
+        "markdown_image_embeds": 0,
+        "headings_rendered": 11,
+        "markdownlint": "safety_blocked_not_run_WCL-153",
+        "size_bytes": 12744,
+        "sha256": "5228c89642d70e60a732e18b2f9e38785355ae789d9161c04dc37fa21e2080cb",
+        "incoming_links": "sampled_not_exhaustive",
+        "incoming_link_examples": [
+          "world/characters/squirts.md"
+        ],
+        "primary_audio": "not_checked",
+        "full_source_claim_accuracy": "not_checked",
+        "native_browser": "deferred_WCL-103",
+        "open_questions": [
+          "Source claim horizons and D-048 reader-first conversion require independent editorial review WCL-154; do not elevate interested testimony or historical cutoffs to final observed fact.",
+          "GitHub/native-browser fragments and exhaustive incoming links not verified"
+        ]
       }
     },
     {
@@ -1500,7 +1778,33 @@
       "domain": "characters",
       "in_original_2026_10_27_worklist": true,
       "review": {
-        "level": "pending_current_per_file_review"
+        "level": "structural_and_outgoing_links_checked",
+        "cohort": "WCL-151",
+        "purpose": "bounded_character_profile_structure_and_source_horizon_audit",
+        "source_lines_read": 25,
+        "depicted_source_window": "E062 earlier rocket, E115–E121 testimony and played reconciliation/death; November 2020 nonplayed bonus",
+        "source_window_note": "E121 dead from Diontalus attack, feet remain in cave; bonus boots idea not played or crafted",
+        "D048_structure": "needs_reader_first_review",
+        "outgoing_local_links_renderer_checked": 14,
+        "outgoing_local_links_not_checked": 0,
+        "outgoing_broken_links_renderer_checked": 0,
+        "footnote_definitions_static": 0,
+        "markdown_image_embeds": 0,
+        "headings_rendered": 3,
+        "markdownlint": "passed_zero_violations",
+        "size_bytes": 6955,
+        "sha256": "663ac98821ea11ffc2d51046bb6a3374a1dd0a9a705d4f2ceef135210c3d85eb",
+        "incoming_links": "sampled_not_exhaustive",
+        "incoming_link_examples": [
+          "world/characters/vorel.md"
+        ],
+        "primary_audio": "not_checked",
+        "full_source_claim_accuracy": "not_checked",
+        "native_browser": "deferred_WCL-103",
+        "open_questions": [
+          "Provisional names, retained historical and retrospective source notes and actual final witnessed state are not a complete fact/audio confirmation.",
+          "D-048 presentation review WCL-154; native browser and complete inbound-link coverage outstanding"
+        ]
       }
     },
     {
@@ -1508,7 +1812,33 @@
       "domain": "characters",
       "in_original_2026_10_27_worklist": true,
       "review": {
-        "level": "pending_current_per_file_review"
+        "level": "structural_and_outgoing_links_checked",
+        "cohort": "WCL-151",
+        "purpose": "bounded_character_profile_structure_and_source_horizon_audit",
+        "source_lines_read": 15,
+        "depicted_source_window": "E014 Slavetown; E059–E063 Razak Val Great Fang fight and aftermath",
+        "source_window_note": "Vorel kills Orp E062; corpse butchered E063; captivity reforms not proved complete",
+        "D048_structure": "needs_reader_first_review",
+        "outgoing_local_links_renderer_checked": 9,
+        "outgoing_local_links_not_checked": 0,
+        "outgoing_broken_links_renderer_checked": 0,
+        "footnote_definitions_static": 0,
+        "markdown_image_embeds": 0,
+        "headings_rendered": 1,
+        "markdownlint": "passed_zero_violations",
+        "size_bytes": 2929,
+        "sha256": "89be53484ee69d60553ff8443367965a9a5919e21b74daf28e49e5e74740408e",
+        "incoming_links": "sampled_not_exhaustive",
+        "incoming_link_examples": [
+          "world/characters/diptak.md"
+        ],
+        "primary_audio": "not_checked",
+        "full_source_claim_accuracy": "not_checked",
+        "native_browser": "deferred_WCL-103",
+        "open_questions": [
+          "Source-first/chronology and final personal-status gaps require separate D-048 review WCL-154; older cutoff not universal final state.",
+          "No direct audio, full incoming-backlink map or native GitHub browser inspection"
+        ]
       }
     },
     {
@@ -1564,7 +1894,33 @@
       "domain": "characters",
       "in_original_2026_10_27_worklist": true,
       "review": {
-        "level": "pending_current_per_file_review"
+        "level": "structural_and_outgoing_links_checked",
+        "cohort": "WCL-151",
+        "purpose": "bounded_character_profile_structure_and_source_horizon_audit",
+        "source_lines_read": 9,
+        "depicted_source_window": "E004, E022, E056–E058, E081; profile itself labels scope only through E118",
+        "source_window_note": "Claims and advice are source-limited; later S3E11 encounter in Soulbroker account absent from this short profile and warrants separate horizon review",
+        "D048_structure": "needs_reader_first_review",
+        "outgoing_local_links_renderer_checked": 8,
+        "outgoing_local_links_not_checked": 0,
+        "outgoing_broken_links_renderer_checked": 0,
+        "footnote_definitions_static": 0,
+        "markdown_image_embeds": 0,
+        "headings_rendered": 1,
+        "markdownlint": "passed_zero_violations",
+        "size_bytes": 1525,
+        "sha256": "3f3cf9bbc4603ad4aa6986fea6712d0fb97fdcdc10922e866d889beefe10325a",
+        "incoming_links": "sampled_not_exhaustive",
+        "incoming_link_examples": [
+          "world/characters/soulbroker.md"
+        ],
+        "primary_audio": "not_checked",
+        "full_source_claim_accuracy": "not_checked",
+        "native_browser": "deferred_WCL-103",
+        "open_questions": [
+          "Source-first/chronology and final personal-status gaps require separate D-048 review WCL-154; older cutoff not universal final state.",
+          "No direct audio, full incoming-backlink map or native GitHub browser inspection"
+        ]
       }
     },
     {
@@ -1572,7 +1928,37 @@
       "domain": "characters",
       "in_original_2026_10_27_worklist": true,
       "review": {
-        "level": "pending_current_per_file_review"
+        "level": "structural_and_outgoing_links_checked",
+        "cohort": "WCL-151",
+        "purpose": "bounded_character_profile_structure_and_source_horizon_audit",
+        "source_lines_read": 60,
+        "depicted_source_window": "E022–E024 original three signatories, E048/E054 claims, E081 proposal, E122–E128 revived claims, S2E01 exorcism, S3E11–S3E12 death, later S3E17–S3E18 context",
+        "source_window_note": "Slain S3E12; Weir link severed; Worldbreaker later banished from Earth; no general extinction inferred",
+        "D048_structure": "observed_reader_subject",
+        "outgoing_local_links_renderer_checked": 24,
+        "outgoing_local_links_not_checked": 0,
+        "outgoing_broken_links_renderer_checked": 0,
+        "footnote_definitions_static": 12,
+        "footnote_references_static": "all referenced footnote labels matched available definitions in complete source review",
+        "markdown_image_embeds": 0,
+        "headings_rendered": 7,
+        "legacy_html_anchor_tags": "present_raw_html_disabled_in_renderer_native_browser_deferred",
+        "markdownlint": "passed_zero_violations",
+        "size_bytes": 10180,
+        "sha256": "b5c5e4289fe1ff50bcd91913563621986c88641d5ac16d2f3dd6a80108bafddd",
+              "historical_preserved_files": ["research/legacy/SOULBROKER_PRE_BATCH286_2026-10-31.md"],
+              "historical_preserved_sha256": ["c448c03702f58c705306d656aab6e8ef1f9d1c7227c15c72aa99db07912bc1f4"],
+        "incoming_links": "sampled_not_exhaustive",
+        "incoming_link_examples": [
+          "world/characters/quizquaz.md"
+        ],
+        "primary_audio": "not_checked",
+        "full_source_claim_accuracy": "not_checked",
+        "native_browser": "deferred_WCL-103",
+        "open_questions": [
+          "Interested claims, legacy heading behavior and deeper source-claim verification remain separate from this structural audit.",
+          "Native GitHub/browser and exhaustive incoming link checks deferred; D-048 follow-up WCL-154 where needed"
+        ]
       }
     },
     {
@@ -1854,7 +2240,37 @@
       "domain": "characters",
       "in_original_2026_10_27_worklist": true,
       "review": {
-        "level": "pending_current_per_file_review"
+        "level": "structural_and_outgoing_links_checked",
+        "cohort": "WCL-151",
+        "purpose": "bounded_character_profile_structure_and_source_horizon_audit",
+        "source_lines_read": 106,
+        "depicted_source_window": "E013 and later Principal affairs, E128 claims, S3E01–S3E18 confrontation and lunar finale; bonus/creator accounts segregated",
+        "source_window_note": "Earth-side body destroyed S3E16, twelve lunar copies collapsed S3E17, lunar successor system destroyed S3E18; Vladimir not witnessed returning",
+        "D048_structure": "observed_reader_subject",
+        "outgoing_local_links_renderer_checked": 61,
+        "outgoing_local_links_not_checked": 0,
+        "outgoing_broken_links_renderer_checked": 0,
+        "footnote_definitions_static": 14,
+        "footnote_references_static": "all referenced footnote labels matched available definitions in complete source review",
+        "markdown_image_embeds": 0,
+        "headings_rendered": 9,
+        "legacy_html_anchor_tags": "present_raw_html_disabled_in_renderer_native_browser_deferred",
+        "markdownlint": "passed_zero_violations",
+        "size_bytes": 21364,
+        "sha256": "9748af52b6c81a6f72eb4f03e6474ff751ec49d91a2a941e234513b7788f9b7e",
+              "historical_preserved_files": ["research/legacy/PRINCIPAL_PRE_BATCH288_2026-10-31.md"],
+              "historical_preserved_sha256": ["578b85e35b81e3e756217d85c11ac257aed29ccda7965f0dc01866467a2cfee6"],
+        "incoming_links": "sampled_not_exhaustive",
+        "incoming_link_examples": [
+          "world/characters/soulbroker.md"
+        ],
+        "primary_audio": "not_checked",
+        "full_source_claim_accuracy": "not_checked",
+        "native_browser": "deferred_WCL-103",
+        "open_questions": [
+          "Interested claims, legacy heading behavior and deeper source-claim verification remain separate from this structural audit.",
+          "Native GitHub/browser and exhaustive incoming link checks deferred; D-048 follow-up WCL-154 where needed"
+        ]
       }
     },
     {
@@ -1903,7 +2319,35 @@
       "domain": "characters",
       "in_original_2026_10_27_worklist": true,
       "review": {
-        "level": "pending_current_per_file_review"
+        "level": "structural_and_outgoing_links_checked",
+        "cohort": "WCL-151",
+        "purpose": "bounded_character_profile_structure_and_source_horizon_audit",
+        "source_lines_read": 13,
+        "depicted_source_window": "E089–E125 Sigil portal, Hand/Fist custody, Hope bargain, later adversarial testimony",
+        "source_window_note": "E125 maze imprisonment is Henitar Grape's report rather than directly witnessed custody or death",
+        "D048_structure": "needs_reader_first_review",
+        "outgoing_local_links_renderer_checked": 14,
+        "outgoing_local_links_not_checked": 0,
+        "outgoing_broken_links_renderer_checked": 0,
+        "footnote_definitions_static": 0,
+        "footnote_references_static": "all referenced footnote labels matched available definitions in complete source review",
+        "markdown_image_embeds": 0,
+        "headings_rendered": 1,
+        "legacy_html_anchor_tags": "none_observed",
+        "markdownlint": "passed_zero_violations",
+        "size_bytes": 2813,
+        "sha256": "6d339ca2c65c1a78f7958a48686e7a4e30c8876cb7a6aa1ba7c286ae6896acc6",
+        "incoming_links": "sampled_not_exhaustive",
+        "incoming_link_examples": [
+          "world/characters/the-principle.md"
+        ],
+        "primary_audio": "not_checked",
+        "full_source_claim_accuracy": "not_checked",
+        "native_browser": "deferred_WCL-103",
+        "open_questions": [
+          "Interested claims, legacy heading behavior and deeper source-claim verification remain separate from this structural audit.",
+          "Native GitHub/browser and exhaustive incoming link checks deferred; D-048 follow-up WCL-154 where needed"
+        ]
       }
     },
     {
@@ -1911,7 +2355,33 @@
       "domain": "characters",
       "in_original_2026_10_27_worklist": true,
       "review": {
-        "level": "pending_current_per_file_review"
+        "level": "structural_and_outgoing_links_checked",
+        "cohort": "WCL-151",
+        "purpose": "bounded_character_profile_structure_and_source_horizon_audit",
+        "source_lines_read": 63,
+        "depicted_source_window": "E125 initial lead, S2E02–S2E12 search/rescue, S3E01–S3E04 reunion and device",
+        "source_window_note": "S3E04 completed Rubistic Triangulosphere demonstrated on Mars; Earth deployment and later personal fate not established in this page; timeline sections out of order",
+        "D048_structure": "needs_reader_first_review",
+        "outgoing_local_links_renderer_checked": 36,
+        "outgoing_local_links_not_checked": 0,
+        "outgoing_broken_links_renderer_checked": 0,
+        "footnote_definitions_static": 0,
+        "markdown_image_embeds": 0,
+        "headings_rendered": 14,
+        "markdownlint": "passed_zero_violations",
+        "size_bytes": 16836,
+        "sha256": "047b581953167bb38ca3a311d8ac3927b6ca93cfa3febc475fa1861c85e5c78e",
+        "incoming_links": "sampled_not_exhaustive",
+        "incoming_link_examples": [
+          "world/characters/union-wheel.md"
+        ],
+        "primary_audio": "not_checked",
+        "full_source_claim_accuracy": "not_checked",
+        "native_browser": "deferred_WCL-103",
+        "open_questions": [
+          "Source-first/chronology and final personal-status gaps require separate D-048 review WCL-154; older cutoff not universal final state.",
+          "No direct audio, full incoming-backlink map or native GitHub browser inspection"
+        ]
       }
     },
     {
@@ -1919,7 +2389,35 @@
       "domain": "characters",
       "in_original_2026_10_27_worklist": true,
       "review": {
-        "level": "pending_current_per_file_review"
+        "level": "structural_and_outgoing_links_checked",
+        "cohort": "WCL-155",
+        "purpose": "bounded_character_profile_structural_source_and_presentation_inventory",
+        "source_lines_read": 7,
+        "depicted_source_window": "Early Wastes Slavetown and Black Mine context E013 and E019–E023",
+        "source_window_note": "Source-limited claims concerning slavery, mine ownership, deed and family; lacks individually verified last direct appearance and current status",
+        "D048_structure": "needs_reader_first_review",
+        "outgoing_local_links_total": 6,
+        "outgoing_local_links_renderer_checked": 6,
+        "outgoing_broken_links_renderer_checked": 0,
+        "outgoing_local_links_not_checked": 0,
+        "footnote_references_static": 0,
+        "footnote_definitions_static": 0,
+        "headings_rendered": 1,
+        "markdown_image_embeds": 0,
+        "html_image_embeds": 0,
+        "legacy_html_anchor_tags": 0,
+        "markdownlint": "passed_zero_violations",
+        "size_bytes": 1126,
+        "sha256": "ae0b6c81714d07c811e8bd148fa3cddff9256857a557614134ff01f8c3e6ce13",
+        "incoming_links": "literal_world_link_scan_only_not_exhaustive",
+        "incoming_link_examples": [],
+        "primary_audio": "not_checked",
+        "full_source_claim_accuracy": "not_checked",
+        "native_browser": "deferred_WCL-103",
+        "open_questions": [
+          "Reader-facing chronology/current outcome requires source-limited D-048 treatment; do not turn claims into observed facts.",
+          "Original audio, outside-world backlinks and native-browser behavior unchecked"
+        ]
       }
     },
     {
@@ -1967,7 +2465,38 @@
       "domain": "characters",
       "in_original_2026_10_27_worklist": true,
       "review": {
-        "level": "pending_current_per_file_review"
+        "level": "structural_with_partial_outgoing_links_checked",
+        "cohort": "WCL-156",
+        "purpose": "source_indexed_specialist_register_retained_exception",
+        "source_lines_read": 332,
+        "depicted_source_window": "First attestation vs repeated self-epithets/awarded titles through S3E18; S3E019 cast retrospective recitation not played conferral; S3E18 Friend title attributed to Stanley/Vorel, time window only P/Q cue alignment, still audio-provisional",
+        "D048_structure": "source_first_exception_candidate",
+        "source_window_note": "Fully read in numbered chunks. Historic/local source cue references are ASR only; source-first tables/chronological evidence headings are intended functional structure, not an ordinary biography.",
+        "outgoing_local_links_total_reported": 177,
+        "outgoing_local_links_checked": 100,
+        "outgoing_broken_links": 0,
+        "outgoing_local_links_not_checked": 77,
+        "outgoing_link_check": "offline_renderer_first_100_only_remaining_links_unverified_WCL-101",
+        "headings_rendered": 47,
+        "footnote_references_rendered": 0,
+        "footnote_definitions_rendered": 0,
+        "markdown_image_embeds": 0,
+        "html_image_embeds": 0,
+        "markdownlint": "passed_zero_violations",
+        "size_bytes": 67913,
+        "sha256": "27990629a0c3afc498ba1a1be6d13e6e0b5f77c44d65f6e0636d39bd976a597a",
+        "incoming_links": "examples_not_exhaustive",
+        "incoming_link_examples": [
+          "world/characters/vorel.md"
+        ],
+        "primary_audio": "not_checked",
+        "full_source_claim_accuracy": "not_checked",
+        "native_browser": "deferred_WCL-103",
+        "open_questions": [
+          "Rendered link cap prevents full destination coverage; remaining links and exact heading compatibility require WCL-101/WCL-103, not claimed passed.",
+          "Speaker diarization, spell phrase and title spelling/clock remain provisional pending audio and independent source verification.",
+          "No new title/phrase ID, canonical word, scene or appendix created by the structural census"
+        ]
       }
     },
     {
