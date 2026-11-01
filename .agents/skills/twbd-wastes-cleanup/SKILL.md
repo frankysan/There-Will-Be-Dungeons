@@ -311,6 +311,13 @@ confirmed transport root cause.
    Count link/anchor statuses within the call and return **only counts,
    exceptions and precise failures**. Avoid a single script with dozens of
    nested tool calls, even if each response is small.
+   **Workspace MCP path contract:** `search_workspace(path=...)` requires an
+   existing **directory** (e.g. the repository's `project` or `world` root),
+   never a specific `.md`/`.json` file; use `read_workspace_file` for exact
+   file content and numbered, bounded reads for local matches. A
+   `path_not_directory` rejection is an input-validation error, not proof of
+   an underlying stream failure or a failed repository write. Correct the
+   argument rather than retrying the same invalid call.
 3. **Do not revalidate immutable archives repeatedly:** Verify an exact
    preservation copy once (size + SHA-256), record the result and reuse it until
    its bytes or relevant inputs change. Archived historical files above
