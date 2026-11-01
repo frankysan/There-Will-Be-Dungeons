@@ -10,41 +10,31 @@ At a bonfire, Hope acknowledged that bringing the Hand of the Voice back to T'ie
 
 Nobieri led an ash-and-breath rite, during which a towering flaming tiefling figure appeared and identified itself as Abegir. Its counsel was heard, but its divine identity and promises of an afterlife remained claims. The refugees spoke of those they had lost. A ranger recounted his pregnant partner's death beneath falling masonry, and Emenil spoke of her faith in Malhya, her concern for Stanley and her hope that water might someday be plentiful. None of those remembered tragedies or hoped-for remedies was thereby newly performed or achieved.[^gathering]
 
-<a id="the-naming--actually-completed"></a>
-
-## The Harbor takes its name
+## The naming — actually completed
 
 When Nobieri asked Hope to name their new home and its people, she chose **the Harbor** and **Harborers**. She wanted a place for anyone lost or in need, even among the stars, and Nobieri proclaimed that intention before the assembled survivors. The naming was completed in their clearing; it did not create a second capital, a spacefaring rescue network or a restored government at T'ietkalla.[^gathering]
 
-<a id="status-at-e117-cutoff"></a>
+## Status at E117 cutoff
 
 For a time the Harbor remained a modest forest refuge. Nobieri and Emenil were alive, and the original companions had reunited, though Stanley had not forgiven or fully trusted Hope. Emenil privately confessed affection for Stanley without receiving a romantic promise, and later broke an altar associated with Malhya. A possible nearby lizardfolk presence went uninvestigated. There was no completed great construction, departure from Elhandar or solution to the wider water shortage.[^gathering]
 
-<a id="e123--actual-return-and-decision-to-retain-the-refuge"></a>
-
-## Choosing to remain
+## E123 — Actual return and decision to retain the refuge
 
 The companions later returned to the Harbor aboard a noble speeder, with Hope piloting and Nash towed behind in a harness. Hope delivered the mushrooms she had gathered to Nobieri; he helped free Nash from restraints and mended Hope's broken finger. Hope shared directions to a cave and authorized a limited inquiry, but that party had not yet departed.[^home]
 
 In Emenil's cottage, Stanley warned of Diontalus and possible danger. Emenil opposed abandoning the Elhandari who had sheltered them, and Stanley and Hope agreed the refugees should keep their home. They intended to warn the elves and draw danger away, but had not carried out that warning or any evacuation. Emenil entered the nearby lake seeking communion with Malhya, and Stanley followed her; no answer or cure had yet occurred.[^home]
 
-<a id="e124--shared-lake-encounter-refugees-retain-their-home"></a>
-
-## The lake and a fragile respite
+## E124 — Shared lake encounter; refugees retain their home
 
 The four companions joined Emenil beneath the lake for a rite using enchanted flakes. They breathed underwater and entered a strange shared experience in which Emenil called to Malhya. The being they encountered cured the afflictions Stanley and Vorel had suffered. When the companions returned, Emenil remained below the surface but answered Stanley, alive. Nobieri later gave Hope a cellstone and affirmed that the refugees could stand beside their queen. The residents stayed at the Harbor while the travelers went on to Villa Or'Nath and later gathered that household for work at Elhandar's core. This was neither an evacuation nor a cure for Earth's water scarcity.[^water]
 
-<a id="e126--transported-survivors-and-deaths-during-the-second-impact"></a>
-
-## The fall of Elhandar
+## E126 — Transported survivors and deaths during the second impact
 
 When Elhandar fell, dozens of Harbor tieflings were found inside Villa Or'Nath. A survivor said elves had instructed them to gather and that they next found themselves in the villa. Their transportation had happened, but neither the spell nor the person responsible was witnessed. Nobieri and Emenil tended the injured; Hope, Stanley and others helped where they could. Surviving the first impact did not mean that the forest clearing itself had been preserved.[^fall]
 
 A second violent impact hurled people through the villa and killed several tieflings. Adults protected Nash's four children and Chunks. The community had suffered genuine further losses, though no reliable total of the dead or surviving residents was established, and no new Harbor settlement emerged at the crash site.[^fall]
 
-<a id="e128--survivors-actually-depart-toward-mars"></a>
-
-## A passage toward Mars
+## E128 — Survivors actually depart toward Mars
 
 After the destruction of Elhandar, Hope directed the surviving Harbor tieflings to join the rescued elves rather than remain exposed in Earth's desert. They boarded Elhandari troop ships with Angelashi, her four children, Lyrielle and Bok Bok, and the vessels **actually departed for a terraforming platform on Mars**. Their arrival there, the number who survived the journey and the establishment of any renewed permanent Harbor were not shown.[^departure]
 

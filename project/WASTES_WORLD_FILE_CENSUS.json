@@ -25,12 +25,12 @@
     "historic_paths": 134,
     "historic_retained": 134,
     "added_since_baseline": 12,
-    "structural_and_outgoing_links_checked": 64,
+    "structural_and_outgoing_links_checked": 108,
     "structural_with_partial_outgoing_links_checked": 7,
     "structural_paths_verified_render_blocked": 1,
     "structural_renderer_checked_lint_blocked": 1,
     "technical_json_structure_checked": 1,
-    "pending_current_per_file_review": 72,
+    "pending_current_per_file_review": 28,
     "by_domain": {
       "world": 17,
       "world/characters": 47,
@@ -2679,7 +2679,40 @@
       "domain": "creatures",
       "in_original_2026_10_27_worklist": true,
       "review": {
-        "level": "pending_current_per_file_review"
+        "level": "structural_and_outgoing_links_checked",
+        "cohort": "WCL-167",
+        "purpose": "bounded_current_wilderness_creature_source_structure_and_outgoing_link_census",
+        "source_lines_read": 20,
+        "depicted_source_window": "E045 death; E051 remains/reversal",
+        "source_window_note": "E045 Vorel decapitates petrifying basilisk beneath T'ietkalla. E051 Nash/Stanley retrieve corpse ingredients and produce two table-adjudicated preparations restoring Hope/Vorel; not a universal antidote formula.",
+        "D048_structure": "observed_reader_subject",
+        "outgoing_local_links_total": 7,
+        "outgoing_local_links_renderer_checked": 7,
+        "outgoing_broken_links_renderer_checked": 0,
+        "outgoing_local_links_not_checked": 0,
+        "footnote_references_rendered": 4,
+        "footnote_definitions_rendered": 4,
+        "footnote_definitions_missing": 0,
+        "headings_rendered": 4,
+        "markdown_image_embeds": 0,
+        "html_image_embeds": 0,
+        "legacy_html_anchor_tags": 0,
+        "markdownlint": "passed_zero_violations",
+        "markdown_render": "checked_all_local_links",
+        "size_bytes": 2936,
+        "sha256": "b2eb69eb0ea62b4072cdbf07aef63c0131700e497cd04387e6ef12053331cf75",
+        "incoming_links": "literal_world_filename_scan_only_not_exhaustive",
+        "incoming_link_examples": [
+          "world/CREATURES_AND_MONSTERS.md"
+        ],
+        "primary_audio": "not_checked",
+        "full_source_claim_accuracy": "not_checked",
+        "native_browser": "deferred_WCL-103",
+        "open_questions": [
+          "Dead E045 and not killed anew in E051; E045 antidote discussion is not an actual prepared mixture.",
+          "Current article read to EOF and existing episode dossiers/research notes considered; no original audio, full independent transcription or objective confirmation of all attributed lore.",
+          "World-only incoming links sampled; project-wide backlinks, native browser and complete fact audit deferred."
+        ]
       }
     },
     {
@@ -2687,7 +2720,43 @@
       "domain": "creatures",
       "in_original_2026_10_27_worklist": true,
       "review": {
-        "level": "pending_current_per_file_review"
+        "level": "structural_and_outgoing_links_checked",
+        "cohort": "WCL-166",
+        "purpose": "bounded_current_creature_source_structure_and_outgoing_link_census",
+        "source_lines_read": 23,
+        "depicted_source_window": "E058, E063–E064, E075",
+        "source_window_note": "E058 living worm from dead bugbear brain; E063 eye movement in Zercil and separately captured bedding worm; E075 three worms physically removed and destroyed from illithid/guard heads. Specimens' shared species, control mechanism and creator not established.",
+        "D048_structure": "observed_reader_subject",
+        "outgoing_local_links_total": 9,
+        "outgoing_local_links_renderer_checked": 9,
+        "outgoing_broken_links_renderer_checked": 0,
+        "outgoing_local_links_not_checked": 0,
+        "footnote_references_rendered": 5,
+        "footnote_definitions_rendered": 5,
+        "footnote_definitions_missing": 0,
+        "headings_rendered": 4,
+        "markdown_image_embeds": 0,
+        "html_image_embeds": 0,
+        "legacy_html_anchor_tags": 0,
+        "markdownlint": "passed_zero_violations",
+        "markdown_render": "checked_all_local_links",
+        "size_bytes": 3731,
+        "sha256": "66f3cf551060af079daa79d2ca716f6db6f534901ad3983ae20415828ce31047",
+        "incoming_links": "literal_world_link_scan_only_not_exhaustive",
+        "incoming_link_examples": [
+          "world/CREATURES_AND_MONSTERS.md",
+          "world/creatures/dolo-popio-spawned-worms.md",
+          "world/creatures/razak-val-invasive-worms.md",
+          "world/races/illithids.md"
+        ],
+        "primary_audio": "not_checked",
+        "full_source_claim_accuracy": "not_checked",
+        "native_browser": "deferred_WCL-103",
+        "open_questions": [
+          "Captured bedding worm's final fate not known; E063 private visual observation is Vorel's, not group knowledge.",
+          "Existing source review and episode dossiers inspected; original audio not independently heard and no full source-claim verification or new inference of monster species, origin, intelligence or mechanics.",
+          "All current local links rendered and lint passed; world/ incoming references sampled, but project-wide backlinks and native-browser verification deferred."
+        ]
       }
     },
     {
@@ -2695,7 +2764,41 @@
       "domain": "creatures",
       "in_original_2026_10_27_worklist": true,
       "review": {
-        "level": "pending_current_per_file_review"
+        "level": "structural_and_outgoing_links_checked",
+        "cohort": "WCL-168",
+        "purpose": "bounded_current_underground_creature_source_structure_and_outgoing_link_census",
+        "source_lines_read": 20,
+        "depicted_source_window": "E042",
+        "source_window_note": "Two black ooze masses beneath T'ietkalla trap the party; bladed attacks split creatures and corrode Hope's machete, wood barriers dissolve, final fragments are destroyed by Hope's gunfire.",
+        "D048_structure": "observed_reader_subject",
+        "outgoing_local_links_total": 6,
+        "outgoing_local_links_renderer_checked": 6,
+        "outgoing_broken_links_renderer_checked": 0,
+        "outgoing_local_links_not_checked": 0,
+        "footnote_references_rendered": 4,
+        "footnote_definitions_rendered": 4,
+        "footnote_definitions_missing": 0,
+        "headings_rendered": 4,
+        "markdown_image_embeds": 0,
+        "html_image_embeds": 0,
+        "legacy_html_anchor_tags": 0,
+        "markdownlint": "passed_zero_violations",
+        "markdown_render": "checked_all_local_links",
+        "size_bytes": 2658,
+        "sha256": "6d385c1427cbdeeb8272bbc905ebb03cb31c04c78fc7a5212f7156dc436b4aca",
+        "incoming_links": "literal_world_filename_scan_only_not_exhaustive",
+        "incoming_link_examples": [
+          "world/CREATURES_AND_MONSTERS.md",
+          "world/creatures/pale-tentacled-burrower.md"
+        ],
+        "primary_audio": "not_checked",
+        "full_source_claim_accuracy": "not_checked",
+        "native_browser": "deferred_WCL-103",
+        "open_questions": [
+          "Nash gives black-pudding identification during rules discussion; not a universal official stat block, and clearing two individuals does not clear the caves.",
+          "Existing episode dossiers and targeted research report inspected; original audio, full source-claim re-verification and taxonomy are not independently verified.",
+          "Incoming links sampled in world/ only; native browser and full repository-wide backlinks remain unverified."
+        ]
       }
     },
     {
@@ -2703,7 +2806,40 @@
       "domain": "creatures",
       "in_original_2026_10_27_worklist": true,
       "review": {
-        "level": "pending_current_per_file_review"
+        "level": "structural_and_outgoing_links_checked",
+        "cohort": "WCL-167",
+        "purpose": "bounded_current_wilderness_creature_source_structure_and_outgoing_link_census",
+        "source_lines_read": 20,
+        "depicted_source_window": "E059",
+        "source_window_note": "E059 approaching desert cloud, mosquito-like noise and Diptak's bloodsucker warnings; party and raptors sheltered by Tiny Hut and Nash's sand canopy, no observed feeding or casualties.",
+        "D048_structure": "observed_reader_subject",
+        "outgoing_local_links_total": 6,
+        "outgoing_local_links_renderer_checked": 6,
+        "outgoing_broken_links_renderer_checked": 0,
+        "outgoing_local_links_not_checked": 0,
+        "footnote_references_rendered": 4,
+        "footnote_definitions_rendered": 4,
+        "footnote_definitions_missing": 0,
+        "headings_rendered": 4,
+        "markdown_image_embeds": 0,
+        "html_image_embeds": 0,
+        "legacy_html_anchor_tags": 0,
+        "markdownlint": "passed_zero_violations",
+        "markdown_render": "checked_all_local_links",
+        "size_bytes": 2704,
+        "sha256": "9253bd9bfb75dd907e276e95ec869513a42491dea155544e6c055e65097c990a",
+        "incoming_links": "literal_world_filename_scan_only_not_exhaustive",
+        "incoming_link_examples": [
+          "world/CREATURES_AND_MONSTERS.md"
+        ],
+        "primary_audio": "not_checked",
+        "full_source_claim_accuracy": "not_checked",
+        "native_browser": "deferred_WCL-103",
+        "open_questions": [
+          "Threat and numbers are Diptak testimony; no mosquito/stirge species determination or witnessed penetration of hut.",
+          "Current article read to EOF and existing episode dossiers/research notes considered; no original audio, full independent transcription or objective confirmation of all attributed lore.",
+          "World-only incoming links sampled; project-wide backlinks, native browser and complete fact audit deferred."
+        ]
       }
     },
     {
@@ -2711,7 +2847,41 @@
       "domain": "creatures",
       "in_original_2026_10_27_worklist": true,
       "review": {
-        "level": "pending_current_per_file_review"
+        "level": "structural_and_outgoing_links_checked",
+        "cohort": "WCL-167",
+        "purpose": "bounded_current_wilderness_creature_source_structure_and_outgoing_link_census",
+        "source_lines_read": 23,
+        "depicted_source_window": "E076",
+        "source_window_note": "E076 CHIDS leathery blue-black flyers with thorn/arrow tail; first shot dead by Hope, second loses head at portal; more present overhead. Separate from E077 speaking Lethanphius and wyvern specimens.",
+        "D048_structure": "observed_reader_subject",
+        "outgoing_local_links_total": 9,
+        "outgoing_local_links_renderer_checked": 9,
+        "outgoing_broken_links_renderer_checked": 0,
+        "outgoing_local_links_not_checked": 0,
+        "footnote_references_rendered": 5,
+        "footnote_definitions_rendered": 5,
+        "footnote_definitions_missing": 0,
+        "headings_rendered": 4,
+        "markdown_image_embeds": 0,
+        "html_image_embeds": 0,
+        "legacy_html_anchor_tags": 0,
+        "markdownlint": "passed_zero_violations",
+        "markdown_render": "checked_all_local_links",
+        "size_bytes": 3568,
+        "sha256": "250e6bb61d7dd6fe4041fd3af770ef9978faf7ed83caf0e3d7ec944e1ca11d0e",
+        "incoming_links": "literal_world_filename_scan_only_not_exhaustive",
+        "incoming_link_examples": [
+          "world/CREATURES_AND_MONSTERS.md",
+          "world/creatures/crater-wyvern.md"
+        ],
+        "primary_audio": "not_checked",
+        "full_source_claim_accuracy": "not_checked",
+        "native_browser": "deferred_WCL-103",
+        "open_questions": [
+          "Eye-supplied light weakness not demonstrated by an actual light experiment; second severed head twitch not permanent life.",
+          "Current article read to EOF and existing episode dossiers/research notes considered; no original audio, full independent transcription or objective confirmation of all attributed lore.",
+          "World-only incoming links sampled; project-wide backlinks, native browser and complete fact audit deferred."
+        ]
       }
     },
     {
@@ -2719,7 +2889,41 @@
       "domain": "creatures",
       "in_original_2026_10_27_worklist": true,
       "review": {
-        "level": "pending_current_per_file_review"
+        "level": "structural_and_outgoing_links_checked",
+        "cohort": "WCL-166",
+        "purpose": "bounded_current_creature_source_structure_and_outgoing_link_census",
+        "source_lines_read": 20,
+        "depicted_source_window": "E073–E075",
+        "source_window_note": "E073 looming CHIDS lift-shaft spider; E074 large brain-marked spider and smaller swarms poison Hope and briefly dominate Vorel, giant killed by Hope and carapace used for two shields; E075 pouch of small spiders in Cerinthala's belongings.",
+        "D048_structure": "observed_reader_subject",
+        "outgoing_local_links_total": 9,
+        "outgoing_local_links_renderer_checked": 9,
+        "outgoing_broken_links_renderer_checked": 0,
+        "outgoing_local_links_not_checked": 0,
+        "footnote_references_rendered": 4,
+        "footnote_definitions_rendered": 4,
+        "footnote_definitions_missing": 0,
+        "headings_rendered": 4,
+        "markdown_image_embeds": 0,
+        "html_image_embeds": 0,
+        "legacy_html_anchor_tags": 0,
+        "markdownlint": "passed_zero_violations",
+        "markdown_render": "checked_all_local_links",
+        "size_bytes": 3085,
+        "sha256": "759524bbb7bacceb920eaa71c2558cbee5665d9044ed37015f0b5905d0b8ad70",
+        "incoming_links": "literal_world_link_scan_only_not_exhaustive",
+        "incoming_link_examples": [
+          "world/CREATURES_AND_MONSTERS.md",
+          "world/creatures/mushroom-pit-spider.md"
+        ],
+        "primary_audio": "not_checked",
+        "full_source_claim_accuracy": "not_checked",
+        "native_browser": "deferred_WCL-103",
+        "open_questions": [
+          "Possessing a pouch does not prove Cerinthala bred or controlled the creatures; individual brain morphology does not establish a species or intelligence score.",
+          "Existing source review and episode dossiers inspected; original audio not independently heard and no full source-claim verification or new inference of monster species, origin, intelligence or mechanics.",
+          "All current local links rendered and lint passed; world/ incoming references sampled, but project-wide backlinks and native-browser verification deferred."
+        ]
       }
     },
     {
@@ -2727,7 +2931,41 @@
       "domain": "creatures",
       "in_original_2026_10_27_worklist": true,
       "review": {
-        "level": "pending_current_per_file_review"
+        "level": "structural_and_outgoing_links_checked",
+        "cohort": "WCL-167",
+        "purpose": "bounded_current_wilderness_creature_source_structure_and_outgoing_link_census",
+        "source_lines_read": 20,
+        "depicted_source_window": "E119 report; E120 direct hunt/death",
+        "source_window_note": "Dilo describes supposedly escaped laboratory hybrid E119; E120 reveals antlered bear/dinosaur animal, fight, tree fall kills Chester and Omnom consumes flesh. Named animal has no witnessed reasoning dialogue; retained as creature, not character.",
+        "D048_structure": "observed_reader_subject",
+        "outgoing_local_links_total": 5,
+        "outgoing_local_links_renderer_checked": 5,
+        "outgoing_broken_links_renderer_checked": 0,
+        "outgoing_local_links_not_checked": 0,
+        "footnote_references_rendered": 4,
+        "footnote_definitions_rendered": 4,
+        "footnote_definitions_missing": 0,
+        "headings_rendered": 4,
+        "markdown_image_embeds": 0,
+        "html_image_embeds": 0,
+        "legacy_html_anchor_tags": 0,
+        "markdownlint": "passed_zero_violations",
+        "markdown_render": "checked_all_local_links",
+        "size_bytes": 2897,
+        "sha256": "eeb00b8db8f17d936dd1d1527c35cb026be1163420c8932ad509eb9b88b61c74",
+        "incoming_links": "literal_world_filename_scan_only_not_exhaustive",
+        "incoming_link_examples": [
+          "world/CREATURES_AND_MONSTERS.md",
+          "world/creatures/purple-sands-tyrannosaurus.md"
+        ],
+        "primary_audio": "not_checked",
+        "full_source_claim_accuracy": "not_checked",
+        "native_browser": "deferred_WCL-103",
+        "open_questions": [
+          "Dilo's historical creation, age and casualties remain interested/secondhand statements; Chester dies E120, not E119.",
+          "Current article read to EOF and existing episode dossiers/research notes considered; no original audio, full independent transcription or objective confirmation of all attributed lore.",
+          "World-only incoming links sampled; project-wide backlinks, native browser and complete fact audit deferred."
+        ]
       }
     },
     {
@@ -2735,7 +2973,41 @@
       "domain": "creatures",
       "in_original_2026_10_27_worklist": true,
       "review": {
-        "level": "pending_current_per_file_review"
+        "level": "structural_and_outgoing_links_checked",
+        "cohort": "WCL-169",
+        "purpose": "bounded_current_transformations_creatures_source_structure_and_outgoing_link_census",
+        "source_lines_read": 26,
+        "depicted_source_window": "E107 prequel arena; E060 feast; E064 outbreak",
+        "source_window_note": "A Chicken Lord appears in the same-world Dunebreaker prequel E107 and dies at the guard arena; meat is served E060 with Demon Vold provenance only NPC testimony; E064 Razak Val Sun's Witness prisoners transform into Chicken Lords, several pursue the party and some fall into ravine; many remain unaccounted for.",
+        "D048_structure": "observed_reader_subject",
+        "outgoing_local_links_total": 6,
+        "outgoing_local_links_renderer_checked": 6,
+        "outgoing_broken_links_renderer_checked": 0,
+        "outgoing_local_links_not_checked": 0,
+        "footnote_references_rendered": 4,
+        "footnote_definitions_rendered": 4,
+        "footnote_definitions_missing": 0,
+        "headings_rendered": 6,
+        "markdown_image_embeds": 0,
+        "html_image_embeds": 0,
+        "legacy_html_anchor_tags": 0,
+        "markdownlint": "passed_zero_violations",
+        "markdown_render": "checked_all_local_links",
+        "size_bytes": 3221,
+        "sha256": "29a145c8ae63e509a48c609c4044f7687c7c7b0c1b9ef4ab18627f682c2d32c3",
+        "incoming_links": "literal_world_filename_scan_only_not_exhaustive",
+        "incoming_link_examples": [
+          "world/CREATURES_AND_MONSTERS.md",
+          "world/creatures/razak-val-invasive-worms.md"
+        ],
+        "primary_audio": "not_checked",
+        "full_source_claim_accuracy": "not_checked",
+        "native_browser": "deferred_WCL-103",
+        "open_questions": [
+          "Do not identify E107 arena beast as a specific later transformed captive or equate chicken-lord meat with guaranteed worm transmission. E064 outbreak's exact transmission and transformed captives' fate unresolved.",
+          "Read current file through EOF and compared claims to existing episode/source-review dossiers. Original audio and full independent factual attestations not performed.",
+          "Only world/ literal incoming links sampled; project-wide backlinks and native browser not verified."
+        ]
       }
     },
     {
@@ -2743,7 +3015,40 @@
       "domain": "creatures",
       "in_original_2026_10_27_worklist": true,
       "review": {
-        "level": "pending_current_per_file_review"
+        "level": "structural_and_outgoing_links_checked",
+        "cohort": "WCL-166",
+        "purpose": "bounded_current_creature_source_structure_and_outgoing_link_census",
+        "source_lines_read": 23,
+        "depicted_source_window": "E070–E071",
+        "source_window_note": "CHIDS alarm pack with fire-immune molten hounds, radiant and cold attacks narrated; E071 last remaining conference-room hound slain after earlier pack casualties. Separate from security apes and other facility defenders.",
+        "D048_structure": "observed_reader_subject",
+        "outgoing_local_links_total": 9,
+        "outgoing_local_links_renderer_checked": 9,
+        "outgoing_broken_links_renderer_checked": 0,
+        "outgoing_local_links_not_checked": 0,
+        "footnote_references_rendered": 5,
+        "footnote_definitions_rendered": 5,
+        "footnote_definitions_missing": 0,
+        "headings_rendered": 4,
+        "markdown_image_embeds": 0,
+        "html_image_embeds": 0,
+        "legacy_html_anchor_tags": 0,
+        "markdownlint": "passed_zero_violations",
+        "markdown_render": "checked_all_local_links",
+        "size_bytes": 3789,
+        "sha256": "c90df2a3850b1a44fb8224ea86cb0bc79a59e4141911d08783acdedc10ac020a",
+        "incoming_links": "literal_world_link_scan_only_not_exhaustive",
+        "incoming_link_examples": [
+          "world/CREATURES_AND_MONSTERS.md"
+        ],
+        "primary_audio": "not_checked",
+        "full_source_claim_accuracy": "not_checked",
+        "native_browser": "deferred_WCL-103",
+        "open_questions": [
+          "E071 ruling corrects fire resistant to immune locally; no species-wide radiant vulnerability or exact original pack size verified.",
+          "Existing source review and episode dossiers inspected; original audio not independently heard and no full source-claim verification or new inference of monster species, origin, intelligence or mechanics.",
+          "All current local links rendered and lint passed; world/ incoming references sampled, but project-wide backlinks and native-browser verification deferred."
+        ]
       }
     },
     {
@@ -2751,7 +3056,41 @@
       "domain": "creatures",
       "in_original_2026_10_27_worklist": true,
       "review": {
-        "level": "pending_current_per_file_review"
+        "level": "structural_and_outgoing_links_checked",
+        "cohort": "WCL-167",
+        "purpose": "bounded_current_wilderness_creature_source_structure_and_outgoing_link_census",
+        "source_lines_read": 23,
+        "depicted_source_window": "E057 played encounter; E058 retrospective label",
+        "source_window_note": "E057 winged stinging bugbear-associated pet is killed by Stanley's thunderous strike; E058 recap supplies wyvern label. Not automatically Dolo Popio's same pet nor E093 Outlands animals.",
+        "D048_structure": "observed_reader_subject",
+        "outgoing_local_links_total": 10,
+        "outgoing_local_links_renderer_checked": 10,
+        "outgoing_broken_links_renderer_checked": 0,
+        "outgoing_local_links_not_checked": 0,
+        "footnote_references_rendered": 5,
+        "footnote_definitions_rendered": 5,
+        "footnote_definitions_missing": 0,
+        "headings_rendered": 4,
+        "markdown_image_embeds": 0,
+        "html_image_embeds": 0,
+        "legacy_html_anchor_tags": 0,
+        "markdownlint": "passed_zero_violations",
+        "markdown_render": "checked_all_local_links",
+        "size_bytes": 3741,
+        "sha256": "67915e8ec70b1ac1b7ef52dddc42e29b3dde5620433c25753b633799531a5560",
+        "incoming_links": "literal_world_filename_scan_only_not_exhaustive",
+        "incoming_link_examples": [
+          "world/CREATURES_AND_MONSTERS.md",
+          "world/creatures/blue-black-chasm-flyers.md"
+        ],
+        "primary_audio": "not_checked",
+        "full_source_claim_accuracy": "not_checked",
+        "native_browser": "deferred_WCL-103",
+        "open_questions": [
+          "Pet attribution and Wormfather relationship are NPC statements; poison defense in dragon Nash is one local event; prior Vorel kill belongs to another combatant.",
+          "Current article read to EOF and existing episode dossiers/research notes considered; no original audio, full independent transcription or objective confirmation of all attributed lore.",
+          "World-only incoming links sampled; project-wide backlinks, native browser and complete fact audit deferred."
+        ]
       }
     },
     {
@@ -2759,7 +3098,41 @@
       "domain": "creatures",
       "in_original_2026_10_27_worklist": true,
       "review": {
-        "level": "pending_current_per_file_review"
+        "level": "structural_and_outgoing_links_checked",
+        "cohort": "WCL-166",
+        "purpose": "bounded_current_creature_source_structure_and_outgoing_link_census",
+        "source_lines_read": 20,
+        "depicted_source_window": "E080–E081",
+        "source_window_note": "E080 Dolo Popio expels six green acid-explosive worms with linked explosions; E081 exhales additional worms in weightless arena and Nash destroys some with dragon breath. Not equivalent to black headworms or invasive Razak Val spray.",
+        "D048_structure": "observed_reader_subject",
+        "outgoing_local_links_total": 7,
+        "outgoing_local_links_renderer_checked": 7,
+        "outgoing_broken_links_renderer_checked": 0,
+        "outgoing_local_links_not_checked": 0,
+        "footnote_references_rendered": 4,
+        "footnote_definitions_rendered": 4,
+        "footnote_definitions_missing": 0,
+        "headings_rendered": 4,
+        "markdown_image_embeds": 0,
+        "html_image_embeds": 0,
+        "legacy_html_anchor_tags": 0,
+        "markdownlint": "passed_zero_violations",
+        "markdown_render": "checked_all_local_links",
+        "size_bytes": 3122,
+        "sha256": "58a78f09cb630d8924959487e18291e8d03cde673705abaae2ff78d8d7c91c57",
+        "incoming_links": "literal_world_link_scan_only_not_exhaustive",
+        "incoming_link_examples": [
+          "world/CREATURES_AND_MONSTERS.md",
+          "world/creatures/black-headworms.md"
+        ],
+        "primary_audio": "not_checked",
+        "full_source_claim_accuracy": "not_checked",
+        "native_browser": "deferred_WCL-103",
+        "open_questions": [
+          "Original six not all individually confirmed destroyed; later worms' glow/detonation and all-worm fate after Dolo Popio's physical defeat not established; fire/acid-breath dossier disagreement retained.",
+          "Existing source review and episode dossiers inspected; original audio not independently heard and no full source-claim verification or new inference of monster species, origin, intelligence or mechanics.",
+          "All current local links rendered and lint passed; world/ incoming references sampled, but project-wide backlinks and native-browser verification deferred."
+        ]
       }
     },
     {
@@ -2767,7 +3140,41 @@
       "domain": "creatures",
       "in_original_2026_10_27_worklist": true,
       "review": {
-        "level": "pending_current_per_file_review"
+        "level": "structural_and_outgoing_links_checked",
+        "cohort": "WCL-169",
+        "purpose": "bounded_current_transformations_creatures_source_structure_and_outgoing_link_census",
+        "source_lines_read": 20,
+        "depicted_source_window": "E109 same-world Dunebreaker prequel; bonus retrospective",
+        "source_window_note": "Fruit-flecked larder ooze spreads through drain, incorporates waste/debris and endangers the landship; Al's steam vents shatter its vast body and Ramilda stamps out final cherry remnant. Cook's purchased gelatin history is testimony with a later GM retrospective about growth, not proof of animation mechanism.",
+        "D048_structure": "observed_reader_subject",
+        "outgoing_local_links_total": 8,
+        "outgoing_local_links_renderer_checked": 8,
+        "outgoing_broken_links_renderer_checked": 0,
+        "outgoing_local_links_not_checked": 0,
+        "footnote_references_rendered": 4,
+        "footnote_definitions_rendered": 4,
+        "footnote_definitions_missing": 0,
+        "headings_rendered": 4,
+        "markdown_image_embeds": 0,
+        "html_image_embeds": 0,
+        "legacy_html_anchor_tags": 0,
+        "markdownlint": "passed_zero_violations",
+        "markdown_render": "checked_all_local_links",
+        "size_bytes": 3323,
+        "sha256": "4b09e1cc12b752cdb1d7e401257a816b813afc47aea2960e4a293d1530346958",
+        "incoming_links": "literal_world_filename_scan_only_not_exhaustive",
+        "incoming_link_examples": [
+          "world/CREATURES_AND_MONSTERS.md",
+          "world/creatures/black-puddings.md"
+        ],
+        "primary_audio": "not_checked",
+        "full_source_claim_accuracy": "not_checked",
+        "native_browser": "deferred_WCL-103",
+        "open_questions": [
+          "Prequel E109 events precede main Dusthill journey. Ooze destroyed, but exact human losses/plumbing repair unknown; neither E127 figgy pudding nor sand squid are established offspring/ancestors.",
+          "Read current file through EOF and compared claims to existing episode/source-review dossiers. Original audio and full independent factual attestations not performed.",
+          "Only world/ literal incoming links sampled; project-wide backlinks and native browser not verified."
+        ]
       }
     },
     {
@@ -2775,7 +3182,41 @@
       "domain": "creatures",
       "in_original_2026_10_27_worklist": true,
       "review": {
-        "level": "pending_current_per_file_review"
+        "level": "structural_and_outgoing_links_checked",
+        "cohort": "WCL-166",
+        "purpose": "bounded_current_creature_source_structure_and_outgoing_link_census",
+        "source_lines_read": 20,
+        "depicted_source_window": "E008 direct encounter; E009 later facility context",
+        "source_window_note": "Eight-legged doglike predator teleports across doorway/table, is briefly put to sleep and resumes wary behavior; Chance feeds it a killed mimic's tongue, last observed alive and eating in Leopold facility.",
+        "D048_structure": "observed_reader_subject",
+        "outgoing_local_links_total": 9,
+        "outgoing_local_links_renderer_checked": 9,
+        "outgoing_broken_links_renderer_checked": 0,
+        "outgoing_local_links_not_checked": 0,
+        "footnote_references_rendered": 4,
+        "footnote_definitions_rendered": 4,
+        "footnote_definitions_missing": 0,
+        "headings_rendered": 4,
+        "markdown_image_embeds": 0,
+        "html_image_embeds": 0,
+        "legacy_html_anchor_tags": 0,
+        "markdownlint": "passed_zero_violations",
+        "markdown_render": "checked_all_local_links",
+        "size_bytes": 3284,
+        "sha256": "dc2f7f6335fee4478ef07dfc88b66b7e268ea02540e7a3e7478212a8764e010c",
+        "incoming_links": "literal_world_link_scan_only_not_exhaustive",
+        "incoming_link_examples": [
+          "world/CREATURES_AND_MONSTERS.md",
+          "world/creatures/green-case-mimic.md"
+        ],
+        "primary_audio": "not_checked",
+        "full_source_claim_accuracy": "not_checked",
+        "native_browser": "deferred_WCL-103",
+        "open_questions": [
+          "Later E009 facility collapse proves neither death nor escape; no externally supplied blink-dog species taxonomy, permanent taming or complete teleport mechanics.",
+          "Existing source review and episode dossiers inspected; original audio not independently heard and no full source-claim verification or new inference of monster species, origin, intelligence or mechanics.",
+          "All current local links rendered and lint passed; world/ incoming references sampled, but project-wide backlinks and native-browser verification deferred."
+        ]
       }
     },
     {
@@ -2783,7 +3224,40 @@
       "domain": "creatures",
       "in_original_2026_10_27_worklist": true,
       "review": {
-        "level": "pending_current_per_file_review"
+        "level": "structural_and_outgoing_links_checked",
+        "cohort": "WCL-168",
+        "purpose": "bounded_current_underground_creature_source_structure_and_outgoing_link_census",
+        "source_lines_read": 20,
+        "depicted_source_window": "E052–E053",
+        "source_window_note": "Stomach acid worms recoil from Nash's lightstone and seem to inject pixies; separately observed intestinal waste-processing worms have no visible eyes, ignore light and are not killed during passage.",
+        "D048_structure": "observed_reader_subject",
+        "outgoing_local_links_total": 7,
+        "outgoing_local_links_renderer_checked": 7,
+        "outgoing_broken_links_renderer_checked": 0,
+        "outgoing_local_links_not_checked": 0,
+        "footnote_references_rendered": 4,
+        "footnote_definitions_rendered": 4,
+        "footnote_definitions_missing": 0,
+        "headings_rendered": 4,
+        "markdown_image_embeds": 0,
+        "html_image_embeds": 0,
+        "legacy_html_anchor_tags": 0,
+        "markdownlint": "passed_zero_violations",
+        "markdown_render": "checked_all_local_links",
+        "size_bytes": 2746,
+        "sha256": "61394147d8512fd051797b1f209ae508486d3085b26736cd6a84929c292d4815",
+        "incoming_links": "literal_world_filename_scan_only_not_exhaustive",
+        "incoming_link_examples": [
+          "world/CREATURES_AND_MONSTERS.md"
+        ],
+        "primary_audio": "not_checked",
+        "full_source_claim_accuracy": "not_checked",
+        "native_browser": "deferred_WCL-103",
+        "open_questions": [
+          "Two distinct body forms grouped by host habitat, not proven same species or developmental stage; paralytic purpose speculative and post-host-decomposition survival unknown.",
+          "Existing episode dossiers and targeted research report inspected; original audio, full source-claim re-verification and taxonomy are not independently verified.",
+          "Incoming links sampled in world/ only; native browser and full repository-wide backlinks remain unverified."
+        ]
       }
     },
     {
@@ -2791,7 +3265,41 @@
       "domain": "creatures",
       "in_original_2026_10_27_worklist": true,
       "review": {
-        "level": "pending_current_per_file_review"
+        "level": "structural_and_outgoing_links_checked",
+        "cohort": "WCL-168",
+        "purpose": "bounded_current_underground_creature_source_structure_and_outgoing_link_census",
+        "source_lines_read": 20,
+        "depicted_source_window": "E053",
+        "source_window_note": "First eye-and-tendril roper-like predator kills through Hope's shells/Vorel cutting; second catches Vorel and attempts to seize Stanley, then is last observed alive and concealed in ooze.",
+        "D048_structure": "observed_reader_subject",
+        "outgoing_local_links_total": 6,
+        "outgoing_local_links_renderer_checked": 6,
+        "outgoing_broken_links_renderer_checked": 0,
+        "outgoing_local_links_not_checked": 0,
+        "footnote_references_rendered": 4,
+        "footnote_definitions_rendered": 4,
+        "footnote_definitions_missing": 0,
+        "headings_rendered": 4,
+        "markdown_image_embeds": 0,
+        "html_image_embeds": 0,
+        "legacy_html_anchor_tags": 0,
+        "markdownlint": "passed_zero_violations",
+        "markdown_render": "checked_all_local_links",
+        "size_bytes": 2758,
+        "sha256": "40c0cc7524d870dc07745e1eb3f45981825a291b007eb43606f9c95457dff990",
+        "incoming_links": "literal_world_filename_scan_only_not_exhaustive",
+        "incoming_link_examples": [
+          "world/CREATURES_AND_MONSTERS.md",
+          "world/creatures/white-filament-hunter.md"
+        ],
+        "primary_audio": "not_checked",
+        "full_source_claim_accuracy": "not_checked",
+        "native_browser": "deferred_WCL-103",
+        "open_questions": [
+          "The host carcass decays, but second roper death is unwitnessed; Eye of Groxl is a separate sentient artifact and filament hunter a separate specimen.",
+          "Existing episode dossiers and targeted research report inspected; original audio, full source-claim re-verification and taxonomy are not independently verified.",
+          "Incoming links sampled in world/ only; native browser and full repository-wide backlinks remain unverified."
+        ]
       }
     },
     {
@@ -2799,7 +3307,40 @@
       "domain": "creatures",
       "in_original_2026_10_27_worklist": true,
       "review": {
-        "level": "pending_current_per_file_review"
+        "level": "structural_and_outgoing_links_checked",
+        "cohort": "WCL-168",
+        "purpose": "bounded_current_underground_creature_source_structure_and_outgoing_link_census",
+        "source_lines_read": 20,
+        "depicted_source_window": "E009",
+        "source_window_note": "Leopold facility many-mouthed flesh monster ensnares Chance, whose unconscious condition is not death; Stanley and Nash free him and Eddie's arrow finishes creature; body hardens and stills.",
+        "D048_structure": "observed_reader_subject",
+        "outgoing_local_links_total": 8,
+        "outgoing_local_links_renderer_checked": 8,
+        "outgoing_broken_links_renderer_checked": 0,
+        "outgoing_local_links_not_checked": 0,
+        "footnote_references_rendered": 4,
+        "footnote_definitions_rendered": 4,
+        "footnote_definitions_missing": 0,
+        "headings_rendered": 4,
+        "markdown_image_embeds": 0,
+        "html_image_embeds": 0,
+        "legacy_html_anchor_tags": 0,
+        "markdownlint": "passed_zero_violations",
+        "markdown_render": "checked_all_local_links",
+        "size_bytes": 3334,
+        "sha256": "25e4583386740d3286a83be10de8c0c367bf420aa4a61a37e4ea9977ec08873b",
+        "incoming_links": "literal_world_filename_scan_only_not_exhaustive",
+        "incoming_link_examples": [
+          "world/CREATURES_AND_MONSTERS.md"
+        ],
+        "primary_audio": "not_checked",
+        "full_source_claim_accuracy": "not_checked",
+        "native_browser": "deferred_WCL-103",
+        "open_questions": [
+          "ASR disagreement over final gibbering (Parakeet silent vs Qwen repeated nonsense) preserved for audio check; not proof of renewed life. Fire Bolt vs Fireball table correction retained; no scientists-origin inference.",
+          "Existing episode dossiers and targeted research report inspected; original audio, full source-claim re-verification and taxonomy are not independently verified.",
+          "Incoming links sampled in world/ only; native browser and full repository-wide backlinks remain unverified."
+        ]
       }
     },
     {
@@ -2807,7 +3348,42 @@
       "domain": "creatures",
       "in_original_2026_10_27_worklist": true,
       "review": {
-        "level": "pending_current_per_file_review"
+        "level": "structural_and_outgoing_links_checked",
+        "cohort": "WCL-166",
+        "purpose": "bounded_current_creature_source_structure_and_outgoing_link_census",
+        "source_lines_read": 20,
+        "depicted_source_window": "E008",
+        "source_window_note": "Green military-case mimic in Leopold facility attacks Stanley/Chance/Nash; Stanley breaks two hinges and kills creature. Chance feeds tongue to the separately living eight-legged predator, and a metal tube is extracted from dead mimic.",
+        "D048_structure": "observed_reader_subject",
+        "outgoing_local_links_total": 7,
+        "outgoing_local_links_renderer_checked": 7,
+        "outgoing_broken_links_renderer_checked": 0,
+        "outgoing_local_links_not_checked": 0,
+        "footnote_references_rendered": 4,
+        "footnote_definitions_rendered": 4,
+        "footnote_definitions_missing": 0,
+        "headings_rendered": 4,
+        "markdown_image_embeds": 0,
+        "html_image_embeds": 0,
+        "legacy_html_anchor_tags": 0,
+        "markdownlint": "passed_zero_violations",
+        "markdown_render": "checked_all_local_links",
+        "size_bytes": 2916,
+        "sha256": "78404b9085e106db4f6a2cceb33ddde8562b862ffd07db7835af37aef552bbcb",
+        "incoming_links": "literal_world_link_scan_only_not_exhaustive",
+        "incoming_link_examples": [
+          "world/CREATURES_AND_MONSTERS.md",
+          "world/creatures/eight-legged-facility-predator.md",
+          "world/creatures/gibbering-mouther.md"
+        ],
+        "primary_audio": "not_checked",
+        "full_source_claim_accuracy": "not_checked",
+        "native_browser": "deferred_WCL-103",
+        "open_questions": [
+          "Observed case disguise, hinge defeat and tube do not confer universal mimic mechanics, species-wide vulnerability or a known tube function.",
+          "Existing source review and episode dossiers inspected; original audio not independently heard and no full source-claim verification or new inference of monster species, origin, intelligence or mechanics.",
+          "All current local links rendered and lint passed; world/ incoming references sampled, but project-wide backlinks and native-browser verification deferred."
+        ]
       }
     },
     {
@@ -2815,7 +3391,40 @@
       "domain": "creatures",
       "in_original_2026_10_27_worklist": true,
       "review": {
-        "level": "pending_current_per_file_review"
+        "level": "structural_and_outgoing_links_checked",
+        "cohort": "WCL-167",
+        "purpose": "bounded_current_wilderness_creature_source_structure_and_outgoing_link_census",
+        "source_lines_read": 20,
+        "depicted_source_window": "E006 initial lights; E007 witnessed beetles",
+        "source_window_note": "E006 darkness and three lights precede identification; E007 reveals glowing beetles near Fate 4, companions avoid them and Bok Bok returns with elderly man.",
+        "D048_structure": "observed_reader_subject",
+        "outgoing_local_links_total": 4,
+        "outgoing_local_links_renderer_checked": 4,
+        "outgoing_broken_links_renderer_checked": 0,
+        "outgoing_local_links_not_checked": 0,
+        "footnote_references_rendered": 4,
+        "footnote_definitions_rendered": 4,
+        "footnote_definitions_missing": 0,
+        "headings_rendered": 4,
+        "markdown_image_embeds": 0,
+        "html_image_embeds": 0,
+        "legacy_html_anchor_tags": 0,
+        "markdownlint": "passed_zero_violations",
+        "markdown_render": "checked_all_local_links",
+        "size_bytes": 2285,
+        "sha256": "22802f052c192e9a1d3c0317a39e9f986d087bb168313308ff51a0eac1ab89f1",
+        "incoming_links": "literal_world_filename_scan_only_not_exhaustive",
+        "incoming_link_examples": [
+          "world/CREATURES_AND_MONSTERS.md"
+        ],
+        "primary_audio": "not_checked",
+        "full_source_claim_accuracy": "not_checked",
+        "native_browser": "deferred_WCL-103",
+        "open_questions": [
+          "Three lights not proof exactly three insects; injured old man's injuries do not prove beetle attack; no creature casualties recorded.",
+          "Current article read to EOF and existing episode dossiers/research notes considered; no original audio, full independent transcription or objective confirmation of all attributed lore.",
+          "World-only incoming links sampled; project-wide backlinks, native browser and complete fact audit deferred."
+        ]
       }
     },
     {
@@ -2823,7 +3432,40 @@
       "domain": "creatures",
       "in_original_2026_10_27_worklist": true,
       "review": {
-        "level": "pending_current_per_file_review"
+        "level": "structural_and_outgoing_links_checked",
+        "cohort": "WCL-168",
+        "purpose": "bounded_current_underground_creature_source_structure_and_outgoing_link_census",
+        "source_lines_read": 20,
+        "depicted_source_window": "E044",
+        "source_window_note": "Large mushroom-pit spider conceals body above travelers, is defeated by Vorel severing its legs, falls dead into mushrooms whose disturbed spores cause sneezing. Vorel collects legs as food.",
+        "D048_structure": "observed_reader_subject",
+        "outgoing_local_links_total": 7,
+        "outgoing_local_links_renderer_checked": 7,
+        "outgoing_broken_links_renderer_checked": 0,
+        "outgoing_local_links_not_checked": 0,
+        "footnote_references_rendered": 4,
+        "footnote_definitions_rendered": 4,
+        "footnote_definitions_missing": 0,
+        "headings_rendered": 4,
+        "markdown_image_embeds": 0,
+        "html_image_embeds": 0,
+        "legacy_html_anchor_tags": 0,
+        "markdownlint": "passed_zero_violations",
+        "markdown_render": "checked_all_local_links",
+        "size_bytes": 3095,
+        "sha256": "3fe4919a4cd2fd6bfa3cbd68a418e058f623085f9dd55f2b00773b12ac87980b",
+        "incoming_links": "literal_world_filename_scan_only_not_exhaustive",
+        "incoming_link_examples": [
+          "world/CREATURES_AND_MONSTERS.md"
+        ],
+        "primary_audio": "not_checked",
+        "full_source_claim_accuracy": "not_checked",
+        "native_browser": "deferred_WCL-103",
+        "open_questions": [
+          "Mushroom spores are not a spider-generated attack; changes of skin/color do not establish interplanar phase-spider ability, and no identity with later CHIDS spider.",
+          "Existing episode dossiers and targeted research report inspected; original audio, full source-claim re-verification and taxonomy are not independently verified.",
+          "Incoming links sampled in world/ only; native browser and full repository-wide backlinks remain unverified."
+        ]
       }
     },
     {
@@ -2831,7 +3473,42 @@
       "domain": "creatures",
       "in_original_2026_10_27_worklist": true,
       "review": {
-        "level": "pending_current_per_file_review"
+        "level": "structural_and_outgoing_links_checked",
+        "cohort": "WCL-167",
+        "purpose": "bounded_current_wilderness_creature_source_structure_and_outgoing_link_census",
+        "source_lines_read": 20,
+        "depicted_source_window": "E093 aerial battle against Traveler's Twin",
+        "source_window_note": "Wyverns and distinct winged beastmen attack an Outlands airship; Vorel kills a belowdecks wyvern, Nash's acid strikes one, Stanley Polymorphs one into rat whose fate is not seen.",
+        "D048_structure": "observed_reader_subject",
+        "outgoing_local_links_total": 5,
+        "outgoing_local_links_renderer_checked": 5,
+        "outgoing_broken_links_renderer_checked": 0,
+        "outgoing_local_links_not_checked": 0,
+        "footnote_references_rendered": 4,
+        "footnote_definitions_rendered": 4,
+        "footnote_definitions_missing": 0,
+        "headings_rendered": 4,
+        "markdown_image_embeds": 0,
+        "html_image_embeds": 0,
+        "legacy_html_anchor_tags": 0,
+        "markdownlint": "passed_zero_violations",
+        "markdown_render": "checked_all_local_links",
+        "size_bytes": 3118,
+        "sha256": "28462121a924b3dc8a56ce5c7a8cd3e95622bcedf7b298b31265b0dc7f99dec7",
+        "incoming_links": "literal_world_filename_scan_only_not_exhaustive",
+        "incoming_link_examples": [
+          "world/CREATURES_AND_MONSTERS.md",
+          "world/creatures/blue-black-chasm-flyers.md",
+          "world/creatures/crater-wyvern.md"
+        ],
+        "primary_audio": "not_checked",
+        "full_source_claim_accuracy": "not_checked",
+        "native_browser": "deferred_WCL-103",
+        "open_questions": [
+          "Initial two reported wyverns versus later individual action tally needs source reconciliation; do not infer rat death, undead origin, same specimens as crater/chasm or fixed ship damage cause.",
+          "Current article read to EOF and existing episode dossiers/research notes considered; no original audio, full independent transcription or objective confirmation of all attributed lore.",
+          "World-only incoming links sampled; project-wide backlinks, native browser and complete fact audit deferred."
+        ]
       }
     },
     {
@@ -2839,7 +3516,41 @@
       "domain": "creatures",
       "in_original_2026_10_27_worklist": true,
       "review": {
-        "level": "pending_current_per_file_review"
+        "level": "structural_and_outgoing_links_checked",
+        "cohort": "WCL-167",
+        "purpose": "bounded_current_wilderness_creature_source_structure_and_outgoing_link_census",
+        "source_lines_read": 23,
+        "depicted_source_window": "E042 live underground encounter; E045 stone resemblance",
+        "source_window_note": "E042 pale wormlike cavern organism vibrates and burrows away when party withdraws; E045 a partly eaten stone resemblance is found, not identified as the same individual.",
+        "D048_structure": "observed_reader_subject",
+        "outgoing_local_links_total": 7,
+        "outgoing_local_links_renderer_checked": 7,
+        "outgoing_broken_links_renderer_checked": 0,
+        "outgoing_local_links_not_checked": 0,
+        "footnote_references_rendered": 5,
+        "footnote_definitions_rendered": 5,
+        "footnote_definitions_missing": 0,
+        "headings_rendered": 4,
+        "markdown_image_embeds": 0,
+        "html_image_embeds": 0,
+        "legacy_html_anchor_tags": 0,
+        "markdownlint": "passed_zero_violations",
+        "markdown_render": "checked_all_local_links",
+        "size_bytes": 3165,
+        "sha256": "b8606b11a431b944756692aca9aaeb801b7f394b5f67681856455c0237a376c7",
+        "incoming_links": "literal_world_filename_scan_only_not_exhaustive",
+        "incoming_link_examples": [
+          "world/CREATURES_AND_MONSTERS.md",
+          "world/creatures/froghemoth-gut-worms.md"
+        ],
+        "primary_audio": "not_checked",
+        "full_source_claim_accuracy": "not_checked",
+        "native_browser": "deferred_WCL-103",
+        "open_questions": [
+          "Stone-form cause, identity, offspring and basilisk prey/petrification remain speculative; no proof the live specimen died or that its body secretes surrounding coating.",
+          "Current article read to EOF and existing episode dossiers/research notes considered; no original audio, full independent transcription or objective confirmation of all attributed lore.",
+          "World-only incoming links sampled; project-wide backlinks, native browser and complete fact audit deferred."
+        ]
       }
     },
     {
@@ -2847,7 +3558,41 @@
       "domain": "creatures",
       "in_original_2026_10_27_worklist": true,
       "review": {
-        "level": "pending_current_per_file_review"
+        "level": "structural_and_outgoing_links_checked",
+        "cohort": "WCL-169",
+        "purpose": "bounded_current_transformations_creatures_source_structure_and_outgoing_link_census",
+        "source_lines_read": 24,
+        "depicted_source_window": "E049 compelled transformation; E050 P0D death; E051–E052 swallowed hulks; E054 reversion",
+        "source_window_note": "Monsoon Cabbage's Order 26 coerces P0D into giant form E049; she is killed in that form E050. Other independent pixies become hulks during the assault, some are swallowed by the giant froghemoth, and E054 a group reverts and disperses.",
+        "D048_structure": "observed_reader_subject",
+        "outgoing_local_links_total": 11,
+        "outgoing_local_links_renderer_checked": 11,
+        "outgoing_broken_links_renderer_checked": 0,
+        "outgoing_local_links_not_checked": 0,
+        "footnote_references_rendered": 4,
+        "footnote_definitions_rendered": 4,
+        "footnote_definitions_missing": 0,
+        "headings_rendered": 5,
+        "markdown_image_embeds": 0,
+        "html_image_embeds": 0,
+        "legacy_html_anchor_tags": 0,
+        "markdownlint": "passed_zero_violations",
+        "markdown_render": "checked_all_local_links",
+        "size_bytes": 3217,
+        "sha256": "693e747d6f569a094645a30bd3e17e1ce616a83d428b685db45f3166f8eaf81a",
+        "incoming_links": "literal_world_filename_scan_only_not_exhaustive",
+        "incoming_link_examples": [
+          "world/CREATURES_AND_MONSTERS.md",
+          "world/races/pixies.md"
+        ],
+        "primary_audio": "not_checked",
+        "full_source_claim_accuracy": "not_checked",
+        "native_browser": "deferred_WCL-103",
+        "open_questions": [
+          "Pixie Hulk is a forced form of reasoning pixie people, not a separate species or grounds to move P0D's biography. Reversion timer is player interpretation; E054 does not revive P0D or demonstrate rescue of every pixie.",
+          "Read current file through EOF and compared claims to existing episode/source-review dossiers. Original audio and full independent factual attestations not performed.",
+          "Only world/ literal incoming links sampled; project-wide backlinks and native browser not verified."
+        ]
       }
     },
     {
@@ -2855,7 +3600,40 @@
       "domain": "creatures",
       "in_original_2026_10_27_worklist": true,
       "review": {
-        "level": "pending_current_per_file_review"
+        "level": "structural_and_outgoing_links_checked",
+        "cohort": "WCL-167",
+        "purpose": "bounded_current_wilderness_creature_source_structure_and_outgoing_link_census",
+        "source_lines_read": 20,
+        "depicted_source_window": "E065 approach; E066 Fate 4 destruction and kill",
+        "source_window_note": "E065 huge dinosaur approaches Fate 4 in storm; E066 crushes vehicle, falls into pit, Nash uses fire and Vorel fatally strikes. Bones and teeth used for dagger and rickshaw, not a functioning rebuilt Fate 4.",
+        "D048_structure": "observed_reader_subject",
+        "outgoing_local_links_total": 8,
+        "outgoing_local_links_renderer_checked": 8,
+        "outgoing_broken_links_renderer_checked": 0,
+        "outgoing_local_links_not_checked": 0,
+        "footnote_references_rendered": 4,
+        "footnote_definitions_rendered": 4,
+        "footnote_definitions_missing": 0,
+        "headings_rendered": 4,
+        "markdown_image_embeds": 0,
+        "html_image_embeds": 0,
+        "legacy_html_anchor_tags": 0,
+        "markdownlint": "passed_zero_violations",
+        "markdown_render": "checked_all_local_links",
+        "size_bytes": 3146,
+        "sha256": "58fb6aa05b2ad6d15fb9c3e82849b2083bc2b74b6e6ec1bb74fe6352be3d6cb0",
+        "incoming_links": "literal_world_filename_scan_only_not_exhaustive",
+        "incoming_link_examples": [
+          "world/CREATURES_AND_MONSTERS.md"
+        ],
+        "primary_audio": "not_checked",
+        "full_source_claim_accuracy": "not_checked",
+        "native_browser": "deferred_WCL-103",
+        "open_questions": [
+          "E065 encounter stops before the vehicle is crushed; weather does not prove monster origin; Stormland is candidate shorthand, not verified place name.",
+          "Current article read to EOF and existing episode dossiers/research notes considered; no original audio, full independent transcription or objective confirmation of all attributed lore.",
+          "World-only incoming links sampled; project-wide backlinks, native browser and complete fact audit deferred."
+        ]
       }
     },
     {
@@ -2863,7 +3641,42 @@
       "domain": "creatures",
       "in_original_2026_10_27_worklist": true,
       "review": {
-        "level": "pending_current_per_file_review"
+        "level": "structural_and_outgoing_links_checked",
+        "cohort": "WCL-169",
+        "purpose": "bounded_current_transformations_creatures_source_structure_and_outgoing_link_census",
+        "source_lines_read": 20,
+        "depicted_source_window": "E064",
+        "source_window_note": "A transformed Sun's Witness captive expels invasive live worms E064; Vorel, Stanley, Nash, Omnom are struck, penetration is directly described on Vorel and Omnom, and Vorel burns the visible worms from the immediate group. Concurrent chicken-lord transformations do not establish every individual's infection route.",
+        "D048_structure": "observed_reader_subject",
+        "outgoing_local_links_total": 8,
+        "outgoing_local_links_renderer_checked": 8,
+        "outgoing_broken_links_renderer_checked": 0,
+        "outgoing_local_links_not_checked": 0,
+        "footnote_references_rendered": 4,
+        "footnote_definitions_rendered": 4,
+        "footnote_definitions_missing": 0,
+        "headings_rendered": 4,
+        "markdown_image_embeds": 0,
+        "html_image_embeds": 0,
+        "legacy_html_anchor_tags": 0,
+        "markdownlint": "passed_zero_violations",
+        "markdown_render": "checked_all_local_links",
+        "size_bytes": 2876,
+        "sha256": "59a3ba9e99d73ccf312bee4eebba5d1e0d8197c627b4e873e5296fb36e8ed5e3",
+        "incoming_links": "literal_world_filename_scan_only_not_exhaustive",
+        "incoming_link_examples": [
+          "world/CREATURES_AND_MONSTERS.md",
+          "world/creatures/black-headworms.md",
+          "world/creatures/dolo-popio-spawned-worms.md"
+        ],
+        "primary_audio": "not_checked",
+        "full_source_claim_accuracy": "not_checked",
+        "native_browser": "deferred_WCL-103",
+        "open_questions": [
+          "Burning visible worms is not full internal clearance, painless treatment or universal immunity. Source Qwen mispositions one spray clause; witness source is altered captive, not Omnom. Do not merge headworms or Dolo Popio's spawned worms into one biological species.",
+          "Read current file through EOF and compared claims to existing episode/source-review dossiers. Original audio and full independent factual attestations not performed.",
+          "Only world/ literal incoming links sampled; project-wide backlinks and native browser not verified."
+        ]
       }
     },
     {
@@ -2871,7 +3684,42 @@
       "domain": "creatures",
       "in_original_2026_10_27_worklist": true,
       "review": {
-        "level": "pending_current_per_file_review"
+        "level": "structural_and_outgoing_links_checked",
+        "cohort": "WCL-167",
+        "purpose": "bounded_current_wilderness_creature_source_structure_and_outgoing_link_census",
+        "source_lines_read": 28,
+        "depicted_source_window": "E027–E028 Diptak hunting mounts; E064 four escape mounts and release",
+        "source_window_note": "Diptak's party uses riding raptors, one is killed E028 and hides patch Fate 4; Omnom supplies four distinct mounts for E064 Razak Val escape, Vorel names one Mawstorm; travelers release them at E064 played post-credit Fate 4 boarding.",
+        "D048_structure": "observed_reader_subject",
+        "outgoing_local_links_total": 11,
+        "outgoing_local_links_renderer_checked": 11,
+        "outgoing_broken_links_renderer_checked": 0,
+        "outgoing_local_links_not_checked": 0,
+        "footnote_references_rendered": 6,
+        "footnote_definitions_rendered": 6,
+        "footnote_definitions_missing": 0,
+        "headings_rendered": 5,
+        "markdown_image_embeds": 0,
+        "html_image_embeds": 0,
+        "legacy_html_anchor_tags": 0,
+        "markdownlint": "passed_zero_violations",
+        "markdown_render": "checked_all_local_links",
+        "size_bytes": 3795,
+        "sha256": "ef50416e39201cf11c05f112bf7cddecabbd4a28639bc1ce1dc6563151a6a5d1",
+        "incoming_links": "literal_world_filename_scan_only_not_exhaustive",
+        "incoming_link_examples": [
+          "world/CREATURES_AND_MONSTERS.md",
+          "world/characters/vorel.md",
+          "world/technology/fate-4.md"
+        ],
+        "primary_audio": "not_checked",
+        "full_source_claim_accuracy": "not_checked",
+        "native_browser": "deferred_WCL-103",
+        "open_questions": [
+          "E064 seizure of Stanley's raptor not confirmed death. E065 generic dossier mounts not proof of reclaiming Mawstorm; Mawstorm raptor not same as sword.",
+          "Current article read to EOF and existing episode dossiers/research notes considered; no original audio, full independent transcription or objective confirmation of all attributed lore.",
+          "World-only incoming links sampled; project-wide backlinks, native browser and complete fact audit deferred."
+        ]
       }
     },
     {
@@ -2879,7 +3727,40 @@
       "domain": "creatures",
       "in_original_2026_10_27_worklist": true,
       "review": {
-        "level": "pending_current_per_file_review"
+        "level": "structural_and_outgoing_links_checked",
+        "cohort": "WCL-169",
+        "purpose": "bounded_current_transformations_creatures_source_structure_and_outgoing_link_census",
+        "source_lines_read": 23,
+        "depicted_source_window": "E045 river first sighting/attack; E046 final battle",
+        "source_window_note": "Blackened humanoid undead along T'ietkalla underground river chant in unidentified language and inflict headache/necrotic gaze effects. Diontalus destroys the first E045; more emerge; Nash's magic kills later attackers E046 and Vorel is stabilized after collapsing.",
+        "D048_structure": "observed_reader_subject",
+        "outgoing_local_links_total": 9,
+        "outgoing_local_links_renderer_checked": 9,
+        "outgoing_broken_links_renderer_checked": 0,
+        "outgoing_local_links_not_checked": 0,
+        "footnote_references_rendered": 5,
+        "footnote_definitions_rendered": 5,
+        "footnote_definitions_missing": 0,
+        "headings_rendered": 4,
+        "markdown_image_embeds": 0,
+        "html_image_embeds": 0,
+        "legacy_html_anchor_tags": 0,
+        "markdownlint": "passed_zero_violations",
+        "markdown_render": "checked_all_local_links",
+        "size_bytes": 3808,
+        "sha256": "f82f3a6246e62c3b7a83cb39046f1ce5cc126a336182a4e38a861d84565500a4",
+        "incoming_links": "literal_world_filename_scan_only_not_exhaustive",
+        "incoming_link_examples": [
+          "world/CREATURES_AND_MONSTERS.md"
+        ],
+        "primary_audio": "not_checked",
+        "full_source_claim_accuracy": "not_checked",
+        "native_browser": "deferred_WCL-103",
+        "open_questions": [
+          "Unintelligible chanting is not proof of mindlessness, translated motive or specific deceased individuals. Vorel stabilized with Spare the Dying (not fully healed on the spot); destroying observed attackers does not clear entire caves.",
+          "Read current file through EOF and compared claims to existing episode/source-review dossiers. Original audio and full independent factual attestations not performed.",
+          "Only world/ literal incoming links sampled; project-wide backlinks and native browser not verified."
+        ]
       }
     },
     {
@@ -2887,7 +3768,41 @@
       "domain": "creatures",
       "in_original_2026_10_27_worklist": true,
       "review": {
-        "level": "pending_current_per_file_review"
+        "level": "structural_and_outgoing_links_checked",
+        "cohort": "WCL-167",
+        "purpose": "bounded_current_wilderness_creature_source_structure_and_outgoing_link_census",
+        "source_lines_read": 28,
+        "depicted_source_window": "E010–E055 food/hunt; E082 request; E123 analogy",
+        "source_window_note": "Desert sand squid are caught at insect-feeding sites and provide preserved meat, fried food and creamy coffee ingredient; recurring cuisine extends beyond direct encounter. E082 Vorel requests but does not receive juice in Sigil; E123 drink is compared but not proven squid.",
+        "D048_structure": "observed_reader_subject",
+        "outgoing_local_links_total": 15,
+        "outgoing_local_links_renderer_checked": 15,
+        "outgoing_broken_links_renderer_checked": 0,
+        "outgoing_local_links_not_checked": 0,
+        "footnote_references_rendered": 6,
+        "footnote_definitions_rendered": 6,
+        "footnote_definitions_missing": 0,
+        "headings_rendered": 5,
+        "markdown_image_embeds": 0,
+        "html_image_embeds": 0,
+        "legacy_html_anchor_tags": 0,
+        "markdownlint": "passed_zero_violations",
+        "markdown_render": "checked_all_local_links",
+        "size_bytes": 4401,
+        "sha256": "8d79bf6199ec6160ade455bed45f0e8c5647422d9c3be51ff9540dc53eff56b4",
+        "incoming_links": "literal_world_filename_scan_only_not_exhaustive",
+        "incoming_link_examples": [
+          "world/CREATURES_AND_MONSTERS.md",
+          "world/creatures/dunebreaker-fruit-ooze.md"
+        ],
+        "primary_audio": "not_checked",
+        "full_source_claim_accuracy": "not_checked",
+        "native_browser": "deferred_WCL-103",
+        "open_questions": [
+          "Hunting, culinary juice and provisions documented; milky juice is not mammalian milk, unidentified E018 shelter carcass and CHIDS squidlike pools are not confirmed sand squid.",
+          "Current article read to EOF and existing episode dossiers/research notes considered; no original audio, full independent transcription or objective confirmation of all attributed lore.",
+          "World-only incoming links sampled; project-wide backlinks, native browser and complete fact audit deferred."
+        ]
       }
     },
     {
@@ -2895,7 +3810,40 @@
       "domain": "creatures",
       "in_original_2026_10_27_worklist": true,
       "review": {
-        "level": "pending_current_per_file_review"
+        "level": "structural_and_outgoing_links_checked",
+        "cohort": "WCL-168",
+        "purpose": "bounded_current_underground_creature_source_structure_and_outgoing_link_census",
+        "source_lines_read": 20,
+        "depicted_source_window": "E067",
+        "source_window_note": "Large flesh-and-bone body generates skeletons through shoulder cavities and attack wounds in Khaervilon; Stanley's animated Diplomacy kills the creature, remaining skeletons destroyed, but keep not cleared.",
+        "D048_structure": "observed_reader_subject",
+        "outgoing_local_links_total": 5,
+        "outgoing_local_links_renderer_checked": 5,
+        "outgoing_broken_links_renderer_checked": 0,
+        "outgoing_local_links_not_checked": 0,
+        "footnote_references_rendered": 4,
+        "footnote_definitions_rendered": 4,
+        "footnote_definitions_missing": 0,
+        "headings_rendered": 4,
+        "markdown_image_embeds": 0,
+        "html_image_embeds": 0,
+        "legacy_html_anchor_tags": 0,
+        "markdownlint": "passed_zero_violations",
+        "markdown_render": "checked_all_local_links",
+        "size_bytes": 2668,
+        "sha256": "69d25fe23fae4611d3f9a90ea4f7532e21a13d8a080c8ef1832353ef7f934b62",
+        "incoming_links": "literal_world_filename_scan_only_not_exhaustive",
+        "incoming_link_examples": [
+          "world/CREATURES_AND_MONSTERS.md"
+        ],
+        "primary_audio": "not_checked",
+        "full_source_claim_accuracy": "not_checked",
+        "native_browser": "deferred_WCL-103",
+        "open_questions": [
+          "Observed local spawning is not universal injury-to-skeleton mechanism or proven broader undead origin; the creature's maker and intelligence remain unknown.",
+          "Existing episode dossiers and targeted research report inspected; original audio, full source-claim re-verification and taxonomy are not independently verified.",
+          "Incoming links sampled in world/ only; native browser and full repository-wide backlinks remain unverified."
+        ]
       }
     },
     {
@@ -2903,7 +3851,41 @@
       "domain": "creatures",
       "in_original_2026_10_27_worklist": true,
       "review": {
-        "level": "pending_current_per_file_review"
+        "level": "structural_and_outgoing_links_checked",
+        "cohort": "WCL-169",
+        "purpose": "bounded_current_transformations_creatures_source_structure_and_outgoing_link_census",
+        "source_lines_read": 17,
+        "depicted_source_window": "E020",
+        "source_window_note": "In Black Mine cavern E020 a scarred tentacled displacer-beast-like cat shows apparent shifting/blinking position and exposed brain; Vorel kills it through a bite during chasm fight, and remains are used to trigger an unrelated magical darkness glyph.",
+        "D048_structure": "observed_reader_subject",
+        "outgoing_local_links_total": 6,
+        "outgoing_local_links_renderer_checked": 6,
+        "outgoing_broken_links_renderer_checked": 0,
+        "outgoing_local_links_not_checked": 0,
+        "footnote_references_rendered": 3,
+        "footnote_definitions_rendered": 3,
+        "footnote_definitions_missing": 0,
+        "headings_rendered": 4,
+        "markdown_image_embeds": 0,
+        "html_image_embeds": 0,
+        "legacy_html_anchor_tags": 0,
+        "markdownlint": "passed_zero_violations",
+        "markdown_render": "checked_all_local_links",
+        "size_bytes": 2092,
+        "sha256": "2f736fb0bb78b81236284eae042faea84e33d588cab89404699259712ff957b8",
+        "incoming_links": "literal_world_filename_scan_only_not_exhaustive",
+        "incoming_link_examples": [
+          "world/CREATURES_AND_MONSTERS.md",
+          "world/creatures/gibbering-mouther.md"
+        ],
+        "primary_audio": "not_checked",
+        "full_source_claim_accuracy": "not_checked",
+        "native_browser": "deferred_WCL-103",
+        "open_questions": [
+          "Tainted descriptive title not verified disease/species, and deceptive shifts do not certify literal teleport. Glyph darkness is not a property of the deceased beast; no known origin of wounds or identity with Leopold facility creatures.",
+          "Read current file through EOF and compared claims to existing episode/source-review dossiers. Original audio and full independent factual attestations not performed.",
+          "Only world/ literal incoming links sampled; project-wide backlinks and native browser not verified."
+        ]
       }
     },
     {
@@ -2911,7 +3893,40 @@
       "domain": "creatures",
       "in_original_2026_10_27_worklist": true,
       "review": {
-        "level": "pending_current_per_file_review"
+        "level": "structural_and_outgoing_links_checked",
+        "cohort": "WCL-168",
+        "purpose": "bounded_current_underground_creature_source_structure_and_outgoing_link_census",
+        "source_lines_read": 17,
+        "depicted_source_window": "E021",
+        "source_window_note": "Several large cap-and-tentacle animate purple fungi attack and grapple intruders amid Black Mine mushroom beds; party destroys encountered attackers and proceeds.",
+        "D048_structure": "observed_reader_subject",
+        "outgoing_local_links_total": 6,
+        "outgoing_local_links_renderer_checked": 6,
+        "outgoing_broken_links_renderer_checked": 0,
+        "outgoing_local_links_not_checked": 0,
+        "footnote_references_rendered": 3,
+        "footnote_definitions_rendered": 3,
+        "footnote_definitions_missing": 0,
+        "headings_rendered": 4,
+        "markdown_image_embeds": 0,
+        "html_image_embeds": 0,
+        "legacy_html_anchor_tags": 0,
+        "markdownlint": "passed_zero_violations",
+        "markdown_render": "checked_all_local_links",
+        "size_bytes": 2070,
+        "sha256": "069087a315d7787dcc570b3de456d119529b81b336e1cd045e8920fcc9b1ff7d",
+        "incoming_links": "literal_world_filename_scan_only_not_exhaustive",
+        "incoming_link_examples": [
+          "world/CREATURES_AND_MONSTERS.md"
+        ],
+        "primary_audio": "not_checked",
+        "full_source_claim_accuracy": "not_checked",
+        "native_browser": "deferred_WCL-103",
+        "open_questions": [
+          "Attackers destroyed, not all mushrooms in mine. Spore poisoning, safe edibility, exact number and identification with later fungal encounters unverified.",
+          "Existing episode dossiers and targeted research report inspected; original audio, full source-claim re-verification and taxonomy are not independently verified.",
+          "Incoming links sampled in world/ only; native browser and full repository-wide backlinks remain unverified."
+        ]
       }
     },
     {
@@ -2919,7 +3934,40 @@
       "domain": "creatures",
       "in_original_2026_10_27_worklist": true,
       "review": {
-        "level": "pending_current_per_file_review"
+        "level": "structural_and_outgoing_links_checked",
+        "cohort": "WCL-166",
+        "purpose": "bounded_current_creature_source_structure_and_outgoing_link_census",
+        "source_lines_read": 23,
+        "depicted_source_window": "E070",
+        "source_window_note": "Translucent CHIDS organisms float through walls, follow singing, convey painless wordless feelings and recoil from certain people and a squeaking toy; they do not provide directions or become companions.",
+        "D048_structure": "observed_reader_subject",
+        "outgoing_local_links_total": 5,
+        "outgoing_local_links_renderer_checked": 5,
+        "outgoing_broken_links_renderer_checked": 0,
+        "outgoing_local_links_not_checked": 0,
+        "footnote_references_rendered": 5,
+        "footnote_definitions_rendered": 5,
+        "footnote_definitions_missing": 0,
+        "headings_rendered": 4,
+        "markdown_image_embeds": 0,
+        "html_image_embeds": 0,
+        "legacy_html_anchor_tags": 0,
+        "markdownlint": "passed_zero_violations",
+        "markdown_render": "checked_all_local_links",
+        "size_bytes": 3408,
+        "sha256": "20ebbf8f2f06794a56b1495bd88362f5f27430ee5e0210a433446c16ca0c3cce",
+        "incoming_links": "literal_world_link_scan_only_not_exhaustive",
+        "incoming_link_examples": [
+          "world/CREATURES_AND_MONSTERS.md"
+        ],
+        "primary_audio": "not_checked",
+        "full_source_claim_accuracy": "not_checked",
+        "native_browser": "deferred_WCL-103",
+        "open_questions": [
+          "Observed empathy is not proof of sentient speech, universal moral judgment, psychic damage or species identity; none is known killed.",
+          "Existing source review and episode dossiers inspected; original audio not independently heard and no full source-claim verification or new inference of monster species, origin, intelligence or mechanics.",
+          "All current local links rendered and lint passed; world/ incoming references sampled, but project-wide backlinks and native-browser verification deferred."
+        ]
       }
     },
     {
@@ -2927,7 +3975,41 @@
       "domain": "creatures",
       "in_original_2026_10_27_worklist": true,
       "review": {
-        "level": "pending_current_per_file_review"
+        "level": "structural_and_outgoing_links_checked",
+        "cohort": "WCL-168",
+        "purpose": "bounded_current_underground_creature_source_structure_and_outgoing_link_census",
+        "source_lines_read": 20,
+        "depicted_source_window": "E052 direct encounter; E053 host aftermath",
+        "source_window_note": "White clawed hole-mouthed hunter captures Vorel with filament inside froghemoth; Stanley's Diplomacy severs line only; creature remains alive and lowers a replacement line after moving.",
+        "D048_structure": "observed_reader_subject",
+        "outgoing_local_links_total": 6,
+        "outgoing_local_links_renderer_checked": 6,
+        "outgoing_broken_links_renderer_checked": 0,
+        "outgoing_local_links_not_checked": 0,
+        "footnote_references_rendered": 4,
+        "footnote_definitions_rendered": 4,
+        "footnote_definitions_missing": 0,
+        "headings_rendered": 4,
+        "markdown_image_embeds": 0,
+        "html_image_embeds": 0,
+        "legacy_html_anchor_tags": 0,
+        "markdownlint": "passed_zero_violations",
+        "markdown_render": "checked_all_local_links",
+        "size_bytes": 2517,
+        "sha256": "da5c051d179f903856bf116c6e5ed8c33b624a7a0a9dda91838746dd541a4e4f",
+        "incoming_links": "literal_world_filename_scan_only_not_exhaustive",
+        "incoming_link_examples": [
+          "world/CREATURES_AND_MONSTERS.md",
+          "world/creatures/froghemoth-intestinal-ropers.md"
+        ],
+        "primary_audio": "not_checked",
+        "full_source_claim_accuracy": "not_checked",
+        "native_browser": "deferred_WCL-103",
+        "open_questions": [
+          "Hunter not proven scorpion, speech-capable, killed or same as later intestinal ropers; its exact fate after host separates is unknown.",
+          "Existing episode dossiers and targeted research report inspected; original audio, full source-claim re-verification and taxonomy are not independently verified.",
+          "Incoming links sampled in world/ only; native browser and full repository-wide backlinks remain unverified."
+        ]
       }
     },
     {
@@ -3018,7 +4100,44 @@
       "domain": "places",
       "in_original_2026_10_27_worklist": true,
       "review": {
-        "level": "pending_current_per_file_review"
+        "level": "structural_and_outgoing_links_checked",
+        "cohort": "WCL-170",
+        "purpose": "bounded_current_places_source_structure_and_outgoing_link_census",
+        "source_lines_read": 21,
+        "depicted_source_window": "E018–E026",
+        "source_window_note": "Oilbeard-controlled underground extraction workings, vertical shaft, undead, Tickles death, Tylander-related claims, living hazards, Soulbroker/Château Weir portal and eventual dragon-form escape. Mine deed custody and claimant history disputed.",
+        "D048_structure": "needs_reader_first_review",
+        "outgoing_local_links_total": 12,
+        "outgoing_local_links_renderer_checked": 12,
+        "outgoing_broken_links_renderer_checked": 0,
+        "outgoing_local_links_not_checked": 0,
+        "footnote_references_rendered": 0,
+        "footnote_definitions_rendered": 0,
+        "footnote_definitions_missing": 0,
+        "headings_rendered": 4,
+        "markdown_image_embeds": 0,
+        "html_image_embeds": 0,
+        "legacy_html_anchor_tags": 0,
+        "markdownlint": "passed_zero_violations",
+        "markdown_render": "checked_all_local_links",
+        "size_bytes": 3188,
+        "sha256": "c8e879d52885e1c687328767298e57d6adaf442302d922dcab684915b15ce9d4",
+        "incoming_links": "literal_world_filename_scan_only_not_exhaustive",
+        "incoming_link_examples": [
+          "world/PLACES.md",
+          "world/WORLD.md",
+          "world/characters/tylander-sullivan.md",
+          "world/creatures/tainted-displacer-beast.md",
+          "world/places/slavetown.md"
+        ],
+        "primary_audio": "not_checked",
+        "full_source_claim_accuracy": "not_checked",
+        "native_browser": "deferred_WCL-103",
+        "open_questions": [
+          "Tylander's Pristine past and mineral/deed ownership claims contested. Black Mine distinct from E008–E009 facility; offscreen slave and institutional records not objectively confirmed. Text has broad nested chronology and no separate source-footnote apparatus.",
+          "Current page read through EOF, episode dossier evidence sampled; complete source-by-source validation and original audio not independently reviewed.",
+          "World-only incoming reference sample, not repository-wide backlinks, browser presentation or editorial acceptance."
+        ]
       }
     },
     {
@@ -3026,7 +4145,48 @@
       "domain": "places",
       "in_original_2026_10_27_worklist": true,
       "review": {
-        "level": "pending_current_per_file_review"
+        "level": "structural_and_outgoing_links_checked",
+        "cohort": "WCL-171",
+        "purpose": "source_limited_WCL174_chronological_reader_first_editorial_restructure_after_WCL171_census",
+        "source_lines_read": 58,
+        "depicted_source_window": "E022–E025 first encounter; E048, E054 return and army; E083 retrospective; S3E11–S3E12 return, defeat and realm rupture",
+        "source_window_note": "E023 Soulbroker pact signed by Nash, Stanley, Hope but not Vorel; E048 Nobieri key passage and E054 armed tiefling return witnessed, without independent verification of ancient bargain. S3E11 five enter Château courtyard, face Soulbroker, S3E12 explicit defeat and fracturing Weir space; Earth's seed not thereby removed.",
+        "D048_structure": "reader_first_chronological_source_limited_pending_audio_factual_and_browser_review",
+        "outgoing_local_links_total": 18,
+        "outgoing_local_links_renderer_checked": 18,
+        "outgoing_broken_links_renderer_checked": 0,
+        "outgoing_local_links_not_checked": 0,
+        "footnote_references_rendered": 21,
+        "footnote_definitions_rendered": 6,
+        "footnote_definitions_missing": 0,
+        "headings_rendered": 8,
+        "markdown_image_embeds": 0,
+        "html_image_embeds": 0,
+        "legacy_html_anchor_tags": 0,
+        "markdownlint": "passed_zero_violations",
+        "markdown_render": "checked_all_local_links",
+        "size_bytes": 11774,
+        "sha256": "72a2e2d4af029692ee5f0a7a5a23d18603ca344e281ca501544d5631da1736af",
+        "incoming_links": "literal_world_filename_scan_only_not_exhaustive",
+        "incoming_link_examples": [
+          "world/FACTIONS_AND_POWERS.md",
+          "world/PLACES.md",
+          "world/WORLD.md",
+          "world/characters/soulbroker.md",
+          "world/characters/nash-maggard.md"
+        ],
+        "primary_audio": "not_checked",
+        "full_source_claim_accuracy": "not_checked",
+        "native_browser": "deferred_WCL-103",
+        "open_questions": [
+          "Chronological source-limited text now separates E023 soul pact, E024 key, E048 elder entry, E054 witnessed armed return, E083/December GM explanations, S3E11 giant-form confrontation without yet played defeat and S3E12 physical manifestation destroyed/realm fractured; exact castle/court fate and Worldbreaker seed remain separate uncertainties.",
+          "Primary audio, complete signed contract handout, precise key restriction and differing elapsed time mechanics have not been independently verified; alternate Catoblepraithe spelling still provisional.",
+          "No incoming chateau-weir.md# or chateau-weir# refs found in scoped world/narrative/episodes/project/reports literal searches, but external bookmarks, broader repository fragments, native-browser WCL-103 and complete source truth not verified."
+        ],
+        "last_editorial_restructure": "WCL-174",
+        "pre_rewrite_snapshot": "research/legacy/CHATEAU_WEIR_PRE_WCL174_2026-11-01.md",
+        "pre_rewrite_snapshot_sha256": "dcfa076a049b1cf82df51e17de8d08a9a7adfe982598b1c41a5f83ace4d642b0",
+        "original_heading_fragment_ids_preserved": 6
       }
     },
     {
@@ -3042,7 +4202,45 @@
       "domain": "places",
       "in_original_2026_10_27_worklist": true,
       "review": {
-        "level": "pending_current_per_file_review"
+        "level": "structural_and_outgoing_links_checked",
+        "cohort": "WCL-171",
+        "purpose": "source_limited_medium_places_structural_outgoing_link_and_reader_navigation_inventory",
+        "source_lines_read": 59,
+        "depicted_source_window": "E107–E109 historical side-story prequel and 2020 Q&A retrospective",
+        "source_window_note": "Dunebreaker giant articulated desert landship predates the Dusthill party. E107 arena Chicken Lord slain and murder initially unresolved; E108 older daughter identified via confession, father Lamulkin protects her and receives dangerous rat-worker sentence; E109 suspicion resumes, fruit gelatin-ooze killed by Al steam vents and Ramilda's final stamp, secret trade terms and remaining daughters unresolved.",
+        "D048_structure": "needs_reader_first_review",
+        "outgoing_local_links_total": 17,
+        "outgoing_local_links_renderer_checked": 17,
+        "outgoing_broken_links_renderer_checked": 0,
+        "outgoing_local_links_not_checked": 0,
+        "footnote_references_rendered": 0,
+        "footnote_definitions_rendered": 0,
+        "footnote_definitions_missing": 0,
+        "headings_rendered": 8,
+        "markdown_image_embeds": 0,
+        "html_image_embeds": 0,
+        "legacy_html_anchor_tags": 0,
+        "markdownlint": "passed_zero_violations",
+        "markdown_render": "checked_all_local_links",
+        "size_bytes": 12705,
+        "sha256": "df2490417921c1877bacd557714aad5b98ce05abb6f821f62ca779e9f012f6d9",
+        "incoming_links": "literal_world_filename_scan_only_not_exhaustive",
+        "incoming_link_examples": [
+          "world/PLACES.md",
+          "world/WORLD.md",
+          "world/HISTORICAL_EVENTS.md",
+          "world/creatures/dunebreaker-fruit-ooze.md"
+        ],
+        "primary_audio": "not_checked",
+        "full_source_claim_accuracy": "not_checked",
+        "native_browser": "deferred_WCL-103",
+        "open_questions": [
+          "Removed false opening assertion that E108/E109 details had NOT been included; now states current profile covers E107–E109 historical prequel while distinguishing episode-specific knowledge. Replaced old primary E108 SRT link with episode-dossier link and added E109 dossier link; all 17 local links verified. E107 homicide unknown at cutoff but culprit established by E108 admissions; E109 recurring uncertainty preserved. Remaining full reader-first reorganization is separate.",
+          "Current maintained page read through EOF; available time-coded episode dossiers cross-checked selectively. Full original audio, signed contracts and comprehensive source-claim validation not checked.",
+          "Only world/ literal filename incoming references sampled; complete fragment/backlinks and native browser not verified."
+        ],
+        "last_targeted_correction": "WCL-173",
+        "targeted_correction_validation": "scoped_markdownlint_passed_offline_renderer_all_links_valid_and_reviewed_historical_fragments"
       }
     },
     {
@@ -3050,7 +4248,45 @@
       "domain": "places",
       "in_original_2026_10_27_worklist": true,
       "review": {
-        "level": "pending_current_per_file_review"
+        "level": "structural_and_outgoing_links_checked",
+        "cohort": "WCL-170",
+        "purpose": "bounded_current_places_source_structure_and_outgoing_link_census",
+        "source_lines_read": 27,
+        "depicted_source_window": "E001–E007 source-town crisis; E010–E011 enslaved relatives; E058 promise and E059 actual returned survivor group",
+        "source_window_note": "Dusthill founding group meets E001 amid water failure; E006 surface water actually flows after repairs, raiding casualties/captives reported and rescuers depart. In E059 named survivors physically return to T'ietkalla; neither whole hostage cohort's release nor rebuilding of Dusthill verified.",
+        "D048_structure": "needs_reader_first_review",
+        "outgoing_local_links_total": 17,
+        "outgoing_local_links_renderer_checked": 17,
+        "outgoing_broken_links_renderer_checked": 0,
+        "outgoing_local_links_not_checked": 0,
+        "footnote_references_rendered": 1,
+        "footnote_definitions_rendered": 1,
+        "footnote_definitions_missing": 0,
+        "headings_rendered": 5,
+        "markdown_image_embeds": 0,
+        "html_image_embeds": 0,
+        "legacy_html_anchor_tags": 0,
+        "markdownlint": "passed_zero_violations",
+        "markdown_render": "checked_all_local_links",
+        "size_bytes": 5134,
+        "sha256": "4e5f1ef88247387d3cc28c51d66dc3bd5029b255d2114e58ef724bc4caa2111f",
+        "incoming_links": "literal_world_filename_scan_only_not_exhaustive",
+        "incoming_link_examples": [
+          "world/PLACES.md",
+          "world/HISTORY_ANCIENT_CATASTROPHE.md",
+          "world/characters/stanley-billings.md",
+          "world/races/dwarves.md"
+        ],
+        "primary_audio": "not_checked",
+        "full_source_claim_accuracy": "not_checked",
+        "native_browser": "deferred_WCL-103",
+        "open_questions": [
+          "The owner-selected opening-state illustration is now explicitly described in the Setting paragraph as a non-survey artistic reconstruction, with [^illustration] linked to the complete existing provenance note: 1 rendered footnote reference and 1 definition. Exact original water-system site identification and broader D-048 chronological prose improvements remain separate.",
+          "Current page read through EOF, episode dossier evidence sampled; complete source-by-source validation and original audio not independently reviewed.",
+          "World-only incoming reference sample, not repository-wide backlinks, browser presentation or editorial acceptance."
+        ],
+        "last_targeted_correction": "WCL-172",
+        "targeted_correction_validation": "scoped_markdownlint_zero_violations_and_offline_renderer_all_links_valid"
       }
     },
     {
@@ -3066,7 +4302,42 @@
       "domain": "places",
       "in_original_2026_10_27_worklist": true,
       "review": {
-        "level": "pending_current_per_file_review"
+        "level": "structural_and_outgoing_links_checked",
+        "cohort": "WCL-170",
+        "purpose": "bounded_current_places_source_structure_and_outgoing_link_census",
+        "source_lines_read": 27,
+        "depicted_source_window": "E112–E113 Hope's separate Gray Waste, Pointless, River Styx, Pandemonium journey",
+        "source_window_note": "Hope and three companions enter Gray Waste via Sigil E112, physically reach Pointless E113, pay Hesterbrook's four personal fares, confront serpent, reach Council of Clowns in Pandemonium, receive a compass and report about Eye of Voice, and return through Hope's Gate to Sigil.",
+        "D048_structure": "needs_reader_first_review",
+        "outgoing_local_links_total": 7,
+        "outgoing_local_links_renderer_checked": 7,
+        "outgoing_broken_links_renderer_checked": 0,
+        "outgoing_local_links_not_checked": 0,
+        "footnote_references_rendered": 0,
+        "footnote_definitions_rendered": 0,
+        "footnote_definitions_missing": 0,
+        "headings_rendered": 5,
+        "markdown_image_embeds": 0,
+        "html_image_embeds": 0,
+        "legacy_html_anchor_tags": 0,
+        "markdownlint": "passed_zero_violations",
+        "markdown_render": "checked_all_local_links",
+        "size_bytes": 4918,
+        "sha256": "c6bdcae10255299c404c60749fa11a876a547b31541c6749166a291e1d207694",
+        "incoming_links": "literal_world_filename_scan_only_not_exhaustive",
+        "incoming_link_examples": [
+          "world/PLACES.md",
+          "world/characters/hope-akmenos.md",
+          "world/races/harlequinari.md"
+        ],
+        "primary_audio": "not_checked",
+        "full_source_claim_accuracy": "not_checked",
+        "native_browser": "deferred_WCL-103",
+        "open_questions": [
+          "Headsy remains responsive after separation; ferryman former-prince claim and Council prison lore are testimony, compass untested and Eye not recovered. Different planes combined in one route page; E113 source names uncertain and original audio unchecked.",
+          "Current page read through EOF, episode dossier evidence sampled; complete source-by-source validation and original audio not independently reviewed.",
+          "World-only incoming reference sample, not repository-wide backlinks, browser presentation or editorial acceptance."
+        ]
       }
     },
     {
@@ -3074,7 +4345,44 @@
       "domain": "places",
       "in_original_2026_10_27_worklist": true,
       "review": {
-        "level": "pending_current_per_file_review"
+        "level": "structural_and_outgoing_links_checked",
+        "cohort": "WCL-170",
+        "purpose": "bounded_current_places_source_structure_and_outgoing_link_census",
+        "source_lines_read": 13,
+        "depicted_source_window": "E101–E102, E106; S3E12–S3E13 later infernal casino",
+        "source_window_note": "Hope enters named Kaiser Casino through infernal portal after E101 separation; meets Brett/Asmodeus and allies E102, later cooperates with Principal E106. S3E12–S3E13 four heroes visit Brett/Asmodeus's Hell casino; same venue as named Kaiser Casino not independently stated.",
+        "D048_structure": "needs_reader_first_review",
+        "outgoing_local_links_total": 11,
+        "outgoing_local_links_renderer_checked": 11,
+        "outgoing_broken_links_renderer_checked": 0,
+        "outgoing_local_links_not_checked": 0,
+        "footnote_references_rendered": 0,
+        "footnote_definitions_rendered": 0,
+        "footnote_definitions_missing": 0,
+        "headings_rendered": 1,
+        "markdown_image_embeds": 0,
+        "html_image_embeds": 0,
+        "legacy_html_anchor_tags": 0,
+        "markdownlint": "passed_zero_violations",
+        "markdown_render": "checked_all_local_links",
+        "size_bytes": 2911,
+        "sha256": "da97ec6b4dc93997420dd7c8e739f0782905016071fadba7e5c6a82e86b76bef",
+        "incoming_links": "literal_world_filename_scan_only_not_exhaustive",
+        "incoming_link_examples": [
+          "world/PLACES.md",
+          "world/characters/brett-asmodeus.md",
+          "world/characters/hope-akmenos.md"
+        ],
+        "primary_audio": "not_checked",
+        "full_source_claim_accuracy": "not_checked",
+        "native_browser": "deferred_WCL-103",
+        "open_questions": [
+          "S3E13 malformed Dispel Magic markup corrected against both E13 episode dossier and exact P/Q comparison: first cast reveals humanoid remains/bats/insects; second cast leaves replacement meal unchanged, not independently proving Tarrasque meat. Named Kaiser Casino and later unnamed VIP complex not definitively identified as one venue; reader-first cleanup of this long all-caps paragraph remains pending.",
+          "Current page read through EOF, episode dossier evidence sampled; complete source-by-source validation and original audio not independently reviewed.",
+          "World-only incoming reference sample, not repository-wide backlinks, browser presentation or editorial acceptance."
+        ],
+        "last_targeted_correction": "WCL-172",
+        "targeted_correction_validation": "scoped_markdownlint_zero_violations_and_offline_renderer_all_links_valid"
       }
     },
     {
@@ -3090,7 +4398,45 @@
       "domain": "places",
       "in_original_2026_10_27_worklist": true,
       "review": {
-        "level": "pending_current_per_file_review"
+        "level": "structural_and_outgoing_links_checked",
+        "cohort": "WCL-170",
+        "purpose": "bounded_current_places_source_structure_and_outgoing_link_census",
+        "source_lines_read": 15,
+        "depicted_source_window": "S3E14 reconnaissance and three-target setup; S3E15 one principal canyon revision and pre-ambush cliffhanger",
+        "source_window_note": "Vorel reconnoiters Leaden Fingers and Stormlands fringe by Fate Six in S3E14, takes goblin/TNT assistance from Bok Bok, initially deploys a three-target idea. S3E15 consolidates into principal canyon near provisional Corvutican label; fighters prepare, but charges are not detonated before cutoff.",
+        "D048_structure": "needs_reader_first_review",
+        "outgoing_local_links_total": 9,
+        "outgoing_local_links_renderer_checked": 9,
+        "outgoing_broken_links_renderer_checked": 0,
+        "outgoing_local_links_not_checked": 0,
+        "footnote_references_rendered": 0,
+        "footnote_definitions_rendered": 0,
+        "footnote_definitions_missing": 0,
+        "headings_rendered": 3,
+        "markdown_image_embeds": 0,
+        "html_image_embeds": 0,
+        "legacy_html_anchor_tags": 0,
+        "markdownlint": "passed_zero_violations",
+        "markdown_render": "checked_all_local_links",
+        "size_bytes": 3982,
+        "sha256": "11c2e3db28dbfbe47147a1f4b76da952985dab1804b397dae4a94d57f5c5a4be",
+        "incoming_links": "literal_world_filename_scan_only_not_exhaustive",
+        "incoming_link_examples": [
+          "world/PLACES.md",
+          "world/characters/vorel.md",
+          "world/characters/bok-bok.md",
+          "world/ITEMS_AND_ARTIFACTS.md"
+        ],
+        "primary_audio": "not_checked",
+        "full_source_claim_accuracy": "not_checked",
+        "native_browser": "deferred_WCL-103",
+        "open_questions": [
+          "S3E14/S3E15 displayed names and hrefs now correspond to the played episodes; updated the S3E15 pre-ambush cutoff so the prepared canyon rockfall is not implied to have detonated. Exact Corvutican map label and coordinates remain unverified. D-048 reader-first prose and all-caps style are outstanding.",
+          "Current page read through EOF, episode dossier evidence sampled; complete source-by-source validation and original audio not independently reviewed.",
+          "World-only incoming reference sample, not repository-wide backlinks, browser presentation or editorial acceptance."
+        ],
+        "last_targeted_correction": "WCL-172",
+        "targeted_correction_validation": "scoped_markdownlint_zero_violations_and_offline_renderer_all_links_valid"
       }
     },
     {
@@ -3098,7 +4444,44 @@
       "domain": "places",
       "in_original_2026_10_27_worklist": true,
       "review": {
-        "level": "pending_current_per_file_review"
+        "level": "structural_and_outgoing_links_checked",
+        "cohort": "WCL-170",
+        "purpose": "bounded_current_places_source_structure_and_outgoing_link_census",
+        "source_lines_read": 11,
+        "depicted_source_window": "E008–E009 played visit; June 2019 bonus retrospective",
+        "source_window_note": "Ancient desert experimental installation visited by Nash, Stanley and guests Eddie/Chance; containment, advanced machinery, escape and collapsed facility. GM bonus describes an optional staff never acquired.",
+        "D048_structure": "needs_reader_first_review",
+        "outgoing_local_links_total": 7,
+        "outgoing_local_links_renderer_checked": 7,
+        "outgoing_broken_links_renderer_checked": 0,
+        "outgoing_local_links_not_checked": 0,
+        "footnote_references_rendered": 0,
+        "footnote_definitions_rendered": 0,
+        "footnote_definitions_missing": 0,
+        "headings_rendered": 1,
+        "markdown_image_embeds": 0,
+        "html_image_embeds": 0,
+        "legacy_html_anchor_tags": 0,
+        "markdownlint": "passed_zero_violations",
+        "markdown_render": "checked_all_local_links",
+        "size_bytes": 1290,
+        "sha256": "4ad8eefed593d46180f464541003f5cf31b6e6f8b469e1be49bb56fb7b285102",
+        "incoming_links": "literal_world_filename_scan_only_not_exhaustive",
+        "incoming_link_examples": [
+          "world/PLACES.md",
+          "world/WORLD.md",
+          "world/creatures/eight-legged-facility-predator.md",
+          "world/creatures/gibbering-mouther.md",
+          "world/creatures/green-case-mimic.md"
+        ],
+        "primary_audio": "not_checked",
+        "full_source_claim_accuracy": "not_checked",
+        "native_browser": "deferred_WCL-103",
+        "open_questions": [
+          "Facility official name, final contents and link to ancient sites unverified. Leopold's technical claims and unclaimed bonus-item plans cannot become observed inventory; page has only H1 and compact source paragraphs.",
+          "Current page read through EOF, episode dossier evidence sampled; complete source-by-source validation and original audio not independently reviewed.",
+          "World-only incoming reference sample, not repository-wide backlinks, browser presentation or editorial acceptance."
+        ]
       }
     },
     {
@@ -3122,7 +4505,44 @@
       "domain": "places",
       "in_original_2026_10_27_worklist": true,
       "review": {
-        "level": "pending_current_per_file_review"
+        "level": "structural_and_outgoing_links_checked",
+        "cohort": "WCL-170",
+        "purpose": "bounded_current_places_source_structure_and_outgoing_link_census",
+        "source_lines_read": 27,
+        "depicted_source_window": "E009–E018 central city arc, E026/E037 follow-up accounts, E058–E059 restitution testimony",
+        "source_window_note": "Slavetown slaveholding nexus, trial by combat and mine deed disputes, Tylander history and real foundry fire. Later outside reports of abandoned city/council changes unproven. E059 Dusthill survivors actually arrive in T'ietkalla; does not establish all captives released or slavery abolished.",
+        "D048_structure": "needs_reader_first_review",
+        "outgoing_local_links_total": 17,
+        "outgoing_local_links_renderer_checked": 17,
+        "outgoing_broken_links_renderer_checked": 0,
+        "outgoing_local_links_not_checked": 0,
+        "footnote_references_rendered": 0,
+        "footnote_definitions_rendered": 0,
+        "footnote_definitions_missing": 0,
+        "headings_rendered": 5,
+        "markdown_image_embeds": 0,
+        "html_image_embeds": 0,
+        "legacy_html_anchor_tags": 0,
+        "markdownlint": "passed_zero_violations",
+        "markdown_render": "checked_all_local_links",
+        "size_bytes": 4363,
+        "sha256": "aa42b58c88471c3c8be0744492d721a76c27d2b4a7ef638cef89cfe68bcf2432",
+        "incoming_links": "literal_world_filename_scan_only_not_exhaustive",
+        "incoming_link_examples": [
+          "world/PLACES.md",
+          "world/WORLD.md",
+          "world/characters/the-principle.md",
+          "world/characters/orp.md",
+          "world/places/black-mine.md"
+        ],
+        "primary_audio": "not_checked",
+        "full_source_claim_accuracy": "not_checked",
+        "native_browser": "deferred_WCL-103",
+        "open_questions": [
+          "The fire's ultimate destruction/survival unknown; storm salvage, Principal's denial of responsibility for Dusthill raid and paid-labor claims are distinct proposed/attributed evidence. Later events appended after source trail; chronology and references need D048 editorial restructuring.",
+          "Current page read through EOF, episode dossier evidence sampled; complete source-by-source validation and original audio not independently reviewed.",
+          "World-only incoming reference sample, not repository-wide backlinks, browser presentation or editorial acceptance."
+        ]
       }
     },
     {
@@ -3138,7 +4558,50 @@
       "domain": "places",
       "in_original_2026_10_27_worklist": true,
       "review": {
-        "level": "pending_current_per_file_review"
+        "level": "structural_and_outgoing_links_checked",
+        "cohort": "WCL-171",
+        "purpose": "source_limited_medium_places_structural_outgoing_link_and_reader_navigation_inventory",
+        "source_lines_read": 54,
+        "depicted_source_window": "E115 surviving community; E117 formal Harbor founding; E123–E124 continuity and lake rite; E126 impact casualties; E128 Mars-bound survivor departure",
+        "source_window_note": "Hope meets Elhandar tiefling refugees and names Harbor/Harborers E117, declines to compel everyone's allegiance; villagers choose to remain E123, E124 Malhya rite restores debuffs. E126 some transported survivors die during further impact; E128 ships actually depart for Mars, but arrival and a rebuilt Harbor are not witnessed.",
+        "D048_structure": "reader_first_historical_anchors_as_markdown_headings",
+        "outgoing_local_links_total": 18,
+        "outgoing_local_links_renderer_checked": 18,
+        "outgoing_broken_links_renderer_checked": 0,
+        "outgoing_local_links_not_checked": 0,
+        "footnote_references_rendered": 14,
+        "footnote_definitions_rendered": 6,
+        "footnote_definitions_missing": 0,
+        "headings_rendered": 9,
+        "markdown_image_embeds": 0,
+        "html_image_embeds": 0,
+        "legacy_html_anchor_tags": 0,
+        "markdownlint": "passed_zero_violations",
+        "markdown_render": "checked_all_local_links",
+        "size_bytes": 9980,
+        "sha256": "4b31e432ced952020a4d5768979c6d56d667f04ddeaeb9567705b65a647d7967",
+        "incoming_links": "literal_world_filename_scan_only_not_exhaustive",
+        "incoming_link_examples": [
+          "world/PLACES.md",
+          "world/WORLD.md",
+          "world/characters/hope-akmenos.md",
+          "world/characters/nobieri.md",
+          "world/places/elhandar.md",
+          "world/races/tieflings.md"
+        ],
+        "primary_audio": "not_checked",
+        "full_source_claim_accuracy": "not_checked",
+        "native_browser": "deferred_WCL-103",
+        "open_questions": [
+          "All six legacy raw-HTML named anchors replaced by genuine Markdown headings generating the EXACT six former IDs in the secure renderer: the-naming--actually-completed, status-at-e117-cutoff, e123--actual-return-and-decision-to-retain-the-refuge, e124--shared-lake-encounter-refugees-retain-their-home, e126--transported-survivors-and-deaths-during-the-second-impact, e128--survivors-actually-depart-toward-mars. No escaped <a id=> remains. Changed previous readable heading text to keep these historic IDs; no matching incoming fragments found in scoped world/narrative/episodes/project/reports scan; not an external bookmark guarantee. Fourteen footnote reference occurrences to six definitions still render. Other chronology/source accuracy and browser checks remain separate.",
+          "Current maintained page read through EOF; available time-coded episode dossiers cross-checked selectively. Full original audio, signed contracts and comprehensive source-claim validation not checked.",
+          "Only world/ literal filename incoming references sampled; complete fragment/backlinks and native browser not verified."
+        ],
+        "footnote_unique_definitions_resolved": 6,
+        "footnote_total_reference_occurrences": 14,
+        "legacy_anchor_behavior": "six_historical_fragment_ids_resolve_to_rendered_markdown_headings",
+        "last_targeted_correction": "WCL-173",
+        "targeted_correction_validation": "scoped_markdownlint_passed_offline_renderer_all_links_valid_and_reviewed_historical_fragments"
       }
     },
     {
@@ -3154,7 +4617,47 @@
       "domain": "places",
       "in_original_2026_10_27_worklist": true,
       "review": {
-        "level": "pending_current_per_file_review"
+        "level": "structural_and_outgoing_links_checked",
+        "cohort": "WCL-171",
+        "purpose": "source_limited_medium_places_structural_outgoing_link_and_reader_navigation_inventory",
+        "source_lines_read": 35,
+        "depicted_source_window": "E115, E118 hidden study; E125–E126 impacts; E128 season-one survival; S2E01–S2E02 actual Fate Six departure and Mars landfall",
+        "source_window_note": "Owner-confirmed Villa Or'Nath is Delit Or'Nath/Stanley's home on Elhandar, hidden third floor and masks E118. Survivors protected E125–E126 with some Harbor casualties; E128 house endures on Earth while refugees leave for Mars. Later S2E01–S2E02 house becomes functional Fate Six airship and reaches Mars, despite only proposed flight/attunement in E126/E128.",
+        "D048_structure": "needs_reader_first_review",
+        "outgoing_local_links_total": 15,
+        "outgoing_local_links_renderer_checked": 15,
+        "outgoing_broken_links_renderer_checked": 0,
+        "outgoing_local_links_not_checked": 0,
+        "footnote_references_rendered": 0,
+        "footnote_definitions_rendered": 0,
+        "footnote_definitions_missing": 0,
+        "headings_rendered": 7,
+        "markdown_image_embeds": 0,
+        "html_image_embeds": 0,
+        "legacy_html_anchor_tags": 0,
+        "markdownlint": "passed_zero_violations",
+        "markdown_render": "checked_all_local_links",
+        "size_bytes": 8281,
+        "sha256": "835b9920a22c9ef49599e850520b0367947c200ce031372ba4112b5cf7e1584f",
+        "incoming_links": "literal_world_filename_scan_only_not_exhaustive",
+        "incoming_link_examples": [
+          "world/PLACES.md",
+          "world/places/the-harbor.md",
+          "world/places/elhandar.md",
+          "world/technology/fate-six.md",
+          "world/technology/mask-of-eltanfawr.md",
+          "world/characters/stanley-billings.md"
+        ],
+        "primary_audio": "not_checked",
+        "full_source_claim_accuracy": "not_checked",
+        "native_browser": "deferred_WCL-103",
+        "open_questions": [
+          "E126 post-impact status paragraph now explicitly says AT THE E126 CUTOFF the villa stood on Earth and had not traveled to Mars, and states that S2E01–S2E02 subsequently perform Fate Six transformation and Earth-to-Mars flight; original Historical E126 heading, individual event sequence, reported Delit life essence, and source links preserved. One external Discord reference not fetched.",
+          "Current maintained page read through EOF; available time-coded episode dossiers cross-checked selectively. Full original audio, legal/source handouts and comprehensive source-claim validation not checked.",
+          "Only world/ literal filename incoming references sampled; complete fragment/backlinks and native browser not verified."
+        ],
+        "last_targeted_correction": "WCL-173",
+        "targeted_correction_validation": "scoped_markdownlint_passed_offline_renderer_all_links_valid_and_reviewed_historical_fragments"
       }
     },
     {
@@ -3162,7 +4665,43 @@
       "domain": "places",
       "in_original_2026_10_27_worklist": true,
       "review": {
-        "level": "pending_current_per_file_review"
+        "level": "structural_and_outgoing_links_checked",
+        "cohort": "WCL-170",
+        "purpose": "bounded_current_places_source_structure_and_outgoing_link_census",
+        "source_lines_read": 19,
+        "depicted_source_window": "E093–E101",
+        "source_window_note": "Outlands tower observed under siege in E093, entered in E094; plague/cure and library sequence E095–E097; Hope takes living Hand and separates from original companions E101. E093 aircraft cliffhanger is not permanent crash, and E097 planning is not completed extraction.",
+        "D048_structure": "needs_reader_first_review",
+        "outgoing_local_links_total": 11,
+        "outgoing_local_links_renderer_checked": 11,
+        "outgoing_broken_links_renderer_checked": 0,
+        "outgoing_local_links_not_checked": 0,
+        "footnote_references_rendered": 0,
+        "footnote_definitions_rendered": 0,
+        "footnote_definitions_missing": 0,
+        "headings_rendered": 4,
+        "markdown_image_embeds": 0,
+        "html_image_embeds": 0,
+        "legacy_html_anchor_tags": 0,
+        "markdownlint": "passed_zero_violations",
+        "markdown_render": "checked_all_local_links",
+        "size_bytes": 2039,
+        "sha256": "477ba9ef12ae8f55c286f67b853dbb5f8922fc758ad0b2fbf82dfdbcd7969988",
+        "incoming_links": "literal_world_filename_scan_only_not_exhaustive",
+        "incoming_link_examples": [
+          "world/PLACES.md",
+          "world/characters/hope-akmenos.md",
+          "world/characters/stanley-billings.md",
+          "world/creatures/outlands-wyverns.md"
+        ],
+        "primary_audio": "not_checked",
+        "full_source_claim_accuracy": "not_checked",
+        "native_browser": "deferred_WCL-103",
+        "open_questions": [
+          "E101 demon retreat is an ending to siege, not universal proof of divine allegiances. Warded tower/gauntlet/Hand identities distinct; mixed source-era timeline compressed and needs reader-first D048 editorial pass.",
+          "Current page read through EOF, episode dossier evidence sampled; complete source-by-source validation and original audio not independently reviewed.",
+          "World-only incoming reference sample, not repository-wide backlinks, browser presentation or editorial acceptance."
+        ]
       }
     },
     {

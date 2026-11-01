@@ -1,6 +1,6 @@
 # The Dunebreaker — roaming landship of the Wastes (historical prequel)
 
-> **First directly documented:** [E107 — The Handshaking Algorithm](../../episodes/E107.md) (corrected Wastes S1, **same setting, long before the Dusthill party departs**), as explicitly declared by guest GM Jon Jagger at ~00:01–00:03. [Full-export ASR comparison](../../reports/E107_ASR_COMPARISON_2026-10-23.md). **ASR-provisional; no audio listened to.** The archive catalogue identifies [E108 — Save The Two](../../sources/The%20Wastes%20S1E108.%20Save%20The%20Two.parakeet.processed.srt) and E109 — *Sand Jell-O* as parts 2–3 of the Dunebreaker side story; their subsequent details are not imported into this E107-cutoff description. This is **not a ship Nash's present-day Arc Five group has been shown to use**.
+> **First directly documented:** [E107 — The Handshaking Algorithm](../../episodes/E107.md) (corrected Wastes S1, **same setting, long before the Dusthill party departs**), as explicitly declared by guest GM Jon Jagger at ~00:01–00:03. [Full-export ASR comparison](../../reports/E107_ASR_COMPARISON_2026-10-23.md). **ASR-provisional; no audio listened to.** This article also covers [E108 — Save The Two](../../episodes/E108.md) and [E109 — Sand Jell-O](../../episodes/E109.md), the second and third episodes of the same historical prequel, while distinguishing what was known at each episode cutoff. This is **not a ship Nash's present-day Arc Five group has been shown to use**.
 
 ## What is actually seen
 
