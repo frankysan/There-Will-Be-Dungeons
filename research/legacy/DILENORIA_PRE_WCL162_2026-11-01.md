@@ -1,0 +1,25 @@
+# Dilenoria / Dylanoria (?) — “Dilo”
+
+**Identity:** Young Elhandari elf pursuing an apprenticeship with **Stanley Billings**; full name rendered `Dilenoria`, `Dylanoria`, `Dillinoria` and other forms by independent ASR exports, **not yet orthographically confirmed**. **Nickname:** Dilo (stronger agreement). **Spoilers:** E118–E121, Arc Five. **Evidence:** Text-only processed ASR, not listened to. [Characters](../CHARACTERS.md) · [Elhandar](../places/elhandar.md).
+
+## From proposed pupil to hunt participant
+
+During the **E118** social visit to the Elhandar cottage, a dark-clad younger elf describes watching **Stanley's defense of the rescue ship E114**. He asks to become his apprentice and says he studies human unarmed combat. **Stanley asks him to return next morning**, but **does not accept him immediately as a permanent companion or make him a formal pupil**. [E118](../../episodes/E118.md).
+
+**E119:** Dilo returns in woodland clothing while Vorel prepares a therapeutic hunt with **Omnom**. He asks Stanley to teach him something different from martial-arts forms: heroic judgment and strategy against thinking opponents. **Stanley agrees Dilo may join this particular hunt** and teaches a deliberately comic **“lemon tree”** phrase for ending negotiations in battle. Vorel provides Dilo with a **deer-leg club including an improvised dagger**. Nash repeatedly uses a rude nickname despite Dilo's preference for **Dilo**. Dilo participates in the **actual expedition**, including identifying an alleged laboratory-made bear/dinosaur hybrid called **Chester the bearsaurus/barosaurus (?)**, helping with the **Nash bath**, traveling past the Harbor and preparing fish at the lakeside camp. He **does not kill Chester, enter combat or acquire a permanent title** during E119. [E119](../../episodes/E119.md) · [ASR comparison](../../reports/E119_ASR_COMPARISON_2026-10-23.md).
+
+## E120 — the pupil is a genuine betrayer
+
+After witnessing **Stanley *Polymorph* into a Tyrannosaurus rex and Chester's actual death**, Dilo reacts with awe and insecurity. He **apparently assists Hope** during an ambush by six hostile elves disguised as deer, using his **Flurry of Blows** against a grappled attacker. But when Stanley begins ***Destructive Wave***, Dilo **utters a prearranged cue**, prompting an accomplice elf to **imprison Hope in a magically sealed floating sphere** and throw a **wand/controller to Dilo**. **Dilo catches the wand and escapes with Hope**, moving with speed far beyond his earlier demeanor; the six other elves are killed, **but Dilo is alive and escapes**. He **takes Hope inside a mountain cave**, where her ***Teleport* attempt fails**, leaving her captive. **This is observed deception and abduction**, not only Stanley's E119 concern. [E120](../../episodes/E120.md) · [full ASR comparison](../../reports/E120_ASR_COMPARISON_2026-10-24.md).
+
+## E121 — the true agent revealed
+
+In the mountain cave, the supposed apprentice identifies Stanley's birth name and speaks as **Diontalus**. The duel separates a distinct **blue spectral Diontalus** from Dilo's physical form; the GM later confirms Dilo is **unresponsive and not breathing**. Diontalus ultimately escapes as a separate entity. **Dilo's own consent, previous freedom to act and potential for revival remain unknown**. [E121](../../episodes/E121.md).
+
+## Disputed danger and the truth boundary
+
+**Stanley privately tells Vorel** that the **Principle previously warned him** an old dangerous figure might have escaped and would return. Stanley connects the warning to **Diontalus** and fears an unexpectedly keen student might be hosting the separated entity. **This is Stanley's suspicion**, not a demonstrated re-possession, magically detected entity, or knowledge shared automatically with Dilo. Dilo notices the distrust and privately asks Nash, who tries to reassure him. **E120 establishes Dilo's active collusion with six disguised elven spellcasters, seizure of a sphere-control wand and abduction of Hope. It does not reveal that Diontalus inhabits Dilo, that the elf is Diontalus, or the ultimate authority behind the plot.** [Diontalus](diontalus.md) · [Stanley](stanley-billings.md) · [E115](../../episodes/E115.md) · [E119](../../episodes/E119.md).
+
+Dilo's claim that **Chester escaped an Elhandari genetics experiment centuries ago and killed past hunting parties** remains his report, partially echoed by a fisherman. **Chester himself is directly observed and killed E120**, corroborating the creature's existence, **but no primary laboratory records corroborate the alleged origin or ancient death toll**. The party's actual **six-person hunting group** at E119 cutoff includes Dilo and Omnom, plus the four original protagonists. [Elhandar](../places/elhandar.md).
+
+**Latest played state:** **Physical body motionless and not breathing in Elhandar cave E121, after Stanley's giant-ape strike; the separate Diontalus spirit has escaped alive**. Whether the elf had voluntary agency, how he was controlled, the possibility of revival and his name spelling remain unresolved. [Review queue](../../project/REVIEW_QUEUE.md).

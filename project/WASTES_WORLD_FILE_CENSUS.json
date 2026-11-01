@@ -25,12 +25,12 @@
     "historic_paths": 134,
     "historic_retained": 134,
     "added_since_baseline": 12,
-    "structural_and_outgoing_links_checked": 61,
+    "structural_and_outgoing_links_checked": 64,
     "structural_with_partial_outgoing_links_checked": 7,
-    "structural_paths_verified_render_blocked": 2,
-    "structural_renderer_checked_lint_blocked": 2,
+    "structural_paths_verified_render_blocked": 1,
+    "structural_renderer_checked_lint_blocked": 1,
     "technical_json_structure_checked": 1,
-    "pending_current_per_file_review": 73,
+    "pending_current_per_file_review": 72,
     "by_domain": {
       "world": 17,
       "world/characters": 47,
@@ -855,27 +855,22 @@
       "review": {
         "level": "structural_and_outgoing_links_checked",
         "cohort": "WCL-149",
-        "purpose": "bounded_current_character_profile_structural_and_provenance_audit",
-        "source_lines_read": 19,
-        "source_window_note": "Source-first S3E12–S3E17 infernal host: S3E12 Voice Hand handed through Brett to assistant, S3E13 Nash dragon-metal heart removed and retained; S3E17 goatlike devil resembles Brett and collects Principle's soul, exact identity/contract still qualified.",
-        "D048_structure": "source_led_review_required_or_retained_exception",
-        "outgoing_local_links_total": 11,
-        "outgoing_local_links_renderer_checked": 11,
-        "outgoing_broken_links_renderer_checked": 0,
-        "outgoing_distinct_local_target_paths_checked": 10,
-        "outgoing_distinct_local_target_paths_missing": 0,
-        "footnote_references_rendered": 0,
-        "footnote_definitions_rendered": 0,
-        "footnote_references_static": 0,
-        "footnote_definitions_static": 0,
+        "purpose": "D081_authorized_reader_first_rewrite_with_independent_scoped_validation",
+        "source_lines_read": 36,
+        "source_window_note": "E101/E102 Hope casino encounters, S3E12 Voice Hand passes through Brett to assistant; S3E13 Nash's engineered heart removed and retained. S3E17 devil resembles Brett and collects Principal soul; identity and infernal debt terms qualified.",
+        "D048_structure": "observed_reader_subject",
         "markdown_image_embeds": 0,
         "legacy_html_anchor_tags": 0,
         "markdownlint": "passed_zero_violations",
         "markdown_render": "checked_all_links",
-        "size_bytes": 6186,
-        "sha256": "126fbae2dd450c0b5a71b4cb8114684fe6b39a7a9c3d7f50ffe21191206313f6",
-        "historical_preserved_files": [],
-        "historical_preserved_sha256": [],
+        "size_bytes": 7477,
+        "sha256": "79210106b0536c45c9a46a7ddfd1f2e4e54b2cd5496c7e749ef43a94f4d99c8d",
+        "historical_preserved_files": [
+          "research/legacy/BRETT_ASMODEUS_PRE_WCL163_2026-11-01.md"
+        ],
+        "historical_preserved_sha256": [
+          "126fbae2dd450c0b5a71b4cb8114684fe6b39a7a9c3d7f50ffe21191206313f6"
+        ],
         "incoming_links": "sampled_not_exhaustive",
         "incoming_link_examples": [
           "world/ANTAGONISTS.md"
@@ -884,9 +879,19 @@
         "full_source_claim_accuracy": "not_checked",
         "native_browser": "deferred_WCL-103",
         "open_questions": [
-          "Brett/Brent name variants and observed S3E17 resemblance are not automatic full identity proof.",
-          "Voice Hand, Eye and Groxl Eye are distinct; no successful new player pact is asserted."
-        ]
+          "WCL-163 current reader-first source: targeted Markdownlint passed, offline renderer checked all current links and footnote references/definitions; no independent audio, exhaustive semantic claims or browser review.",
+          "Individual last observed states and reported/magic/theological uncertainty kept distinct; later fate and motive cannot be inferred.",
+          "Incoming links sampled, not exhaustively mapped."
+        ],
+        "editorial_cohort": "WCL-163",
+        "outgoing_local_links_total": 28,
+        "outgoing_local_links_renderer_checked": 28,
+        "outgoing_local_links_not_checked": 0,
+        "outgoing_broken_links_renderer_checked": 0,
+        "outgoing_distinct_target_recheck": "all_current_links_checked_with_offline_renderer_not_separate_exhaustive_incoming_audit",
+        "footnote_references_rendered": 8,
+        "footnote_definitions_rendered": 8,
+        "footnote_definitions_missing": 0
       }
     },
     {
@@ -942,37 +947,46 @@
       "review": {
         "level": "structural_and_outgoing_links_checked",
         "cohort": "WCL-149",
-        "purpose": "bounded_current_character_profile_structural_and_provenance_audit",
-        "source_lines_read": 47,
-        "source_window_note": "Source-first E072–E075 CHIDS elf: cursed necklace and self-interested testimony, observed death E074, observed return E075, colludes with illithid and escapes alive; exact location unknown. Ancient racial/genetic theories are interested claims.",
-        "D048_structure": "source_led_review_required_or_retained_exception",
-        "outgoing_local_links_total": 17,
-        "outgoing_local_links_renderer_checked": 17,
-        "outgoing_broken_links_renderer_checked": 0,
-        "outgoing_distinct_local_target_paths_total": 11,
-        "outgoing_distinct_local_target_paths_checked": 11,
-        "outgoing_distinct_local_target_paths_not_checked": 0,
-        "footnote_references_rendered": 0,
-        "footnote_definitions_rendered": 0,
+        "purpose": "D081_reader_first_biography_source_bounded_rewrite",
+        "source_lines_read": 56,
+        "source_window_note": "E072 frozen CHIDS server hall, ancient claims and Elhandar promise; E073 Toby ice attack, self-made curse, admitted prey intention, laboratory travel; E074 witnessed physical death; E075 employee ID and blue gem, visible return, direct betrayal and last observed escape alive. Name and ancient claims provisional.",
+        "D048_structure": "observed_reader_subject",
         "markdown_image_embeds": 0,
         "markdownlint": "passed_zero_violations",
-        "markdown_render": "checked_all_local_links",
-        "size_bytes": 10532,
-        "sha256": "bd37a566c2132d9651d5c2efe67663895a4c8d3fcc9d390b50c1b6865eade90c",
-        "historical_preserved_files": [],
-        "historical_preserved_sha256": [],
-        "incoming_links": "sampled_not_exhaustive",
+        "markdown_render": "checked_all_links",
+        "size_bytes": 10897,
+        "sha256": "a30b5a906bf2e56fca1c5cdc8f1c897c193ddf526db31bd572cf24ae28f118f8",
+        "historical_preserved_files": [
+          "research/legacy/CERINTHALA_PRE_WCL165_2026-11-01.md"
+        ],
+        "historical_preserved_sha256": [
+          "bd37a566c2132d9651d5c2efe67663895a4c8d3fcc9d390b50c1b6865eade90c"
+        ],
+        "incoming_links": "scoped_search_world_episodes_narrative_wastes_project_no_fragment_refs;_non_fragment_links_known;_other_scattered_sources_not_exhaustively_mapped",
         "incoming_link_examples": [
-          "world/CHARACTERS.md"
+          "world/CHARACTERS.md",
+          "episodes/E072.md",
+          "episodes/E073.md",
+          "episodes/E074.md",
+          "episodes/E075.md"
         ],
         "primary_audio": "not_checked",
         "full_source_claim_accuracy": "not_checked",
         "native_browser": "deferred_WCL-103",
         "open_questions": [
-          "E074 death is not final: direct resurrection/return E075 documented; do not extrapolate universal elven immortality.",
-          "Necklace removal mechanism and current ownership of older artifacts untested.",
-          "Provisional spelling and late appended E074/E075 account need editorial restructuring."
-        ]
+          "WCL-165 reader-first current file passed targeted lint and offline renderer all 24 links/12 footnotes; original SHA matched preservation copy. No original audio or independent complete claim-to-source verification.",
+          "E074 physical death followed by E075 observed return and escape; no evidence of universal elf immortality or permanent final death.",
+          "Name, ancient racial/technology claims, self-made necklace mechanics and illithid employment remain provisional or speaker-attributed.",
+          "Original major source headings retained; scoped directory searches found zero cerinthala.md# references, but native-browser and exhaustive repository-wide incoming/fragment audits remain deferred."
+        ],
+        "editorial_cohort": "WCL-165",
+        "outgoing_local_links_total": 24,
+        "outgoing_local_links_renderer_checked": 24,
+        "outgoing_local_links_not_checked": 0,
+        "outgoing_broken_links_renderer_checked": 0,
+        "footnote_references_rendered": 12,
+        "footnote_definitions_rendered": 12,
+        "footnote_definitions_missing": 0
       }
     },
     {
@@ -980,7 +994,40 @@
       "domain": "characters",
       "in_original_2026_10_27_worklist": true,
       "review": {
-        "level": "pending_current_per_file_review"
+        "level": "structural_and_outgoing_links_checked",
+        "cohort": "WCL-155",
+        "purpose": "bounded_character_profile_structural_source_and_presentation_inventory",
+        "source_lines_read": 13,
+        "depicted_source_window": "E070 virtual illithid office encounter and E071 computer follow-up",
+        "source_window_note": "Nash and Hope encounter a claimed illithid employee called Charles Dickens in a headset-mediated corporate office in E070. Nash uploads a memory stick containing supposedly falsified report data. An E071 terminal response claims successful transfer, but an actual months-long delay to the Traversal Drive is not observed; Charles's broader cosmology and motive are self-interested testimony.",
+        "D048_structure": "needs_reader_first_review",
+        "outgoing_local_links_total": 8,
+        "outgoing_local_links_renderer_checked": 8,
+        "outgoing_broken_links_renderer_checked": 0,
+        "outgoing_local_links_not_checked": 0,
+        "footnote_references_static": 0,
+        "footnote_definitions_static": 0,
+        "headings_rendered": 1,
+        "markdown_image_embeds": 0,
+        "html_image_embeds": 0,
+        "legacy_html_anchor_tags": 0,
+        "markdownlint": "passed_zero_violations",
+        "markdown_render": "checked_all_local_links",
+        "size_bytes": 2909,
+        "sha256": "65ea7b3a6e611e8b32089cd3300fd9af2c9d578efc893f5ef41b40b21d83793f",
+        "historical_preserved_files": [],
+        "historical_preserved_sha256": [],
+        "incoming_links": "literal_world_link_scan_only_not_exhaustive",
+        "incoming_link_examples": [],
+        "primary_audio": "not_checked",
+        "full_source_claim_accuracy": "not_checked",
+        "native_browser": "deferred_WCL-103",
+        "open_questions": [
+          "E070 avatar and headset interactions are performed, but Charles's claim of a Void Realm cosmology and intent to help Earth are speaker assertions, not verified universal facts.",
+          "E071 Charles-labelled sender claims the data upload succeeded; no directly observed months-long delay to the Traversal Drive. Do not equate remote acknowledgement with objective sabotage outcome.",
+          "Name identifies an in-story character, not the historical writer; exact spelling/provenance audio unverified. Separate D-048 reader-first review required.",
+          "Complete 13-line source review, current hash, 8/8 offline-rendered links and targeted Markdownlint verified at WCL-155 scope. Incoming link scan only world/; native browser and full source-claim audit unverified."
+        ]
       }
     },
     {
@@ -1027,28 +1074,23 @@
       "in_original_2026_10_27_worklist": true,
       "review": {
         "level": "structural_and_outgoing_links_checked",
-        "cohort": "WCL-149",
-        "purpose": "bounded_current_character_profile_structural_and_provenance_audit",
-        "source_lines_read": 25,
-        "source_window_note": "Source-first dossier E118–E121: apparently enthusiastic elf apprentice joins hunt, actively abducts Hope E120, then Diontalus appears separately; Dilo's physical body E121 unresponsive and not breathing. His consent, survival and exact written name unconfirmed.",
-        "D048_structure": "source_led_review_required_or_retained_exception",
-        "outgoing_local_links_total": 14,
-        "outgoing_local_links_renderer_checked": 14,
-        "outgoing_broken_links_renderer_checked": 0,
-        "outgoing_distinct_local_target_paths_checked": 12,
-        "outgoing_distinct_local_target_paths_missing": 0,
-        "footnote_references_rendered": 0,
-        "footnote_definitions_rendered": 0,
-        "footnote_references_static": 0,
-        "footnote_definitions_static": 0,
+        "cohort": "WCL-162",
+        "purpose": "D081_approved_reader_first_biography_rewrite_after_WCL149_census",
+        "source_lines_read": 35,
+        "source_window_note": "E118–E121 Dilo seeks Stanley's instruction, participates in the hunt, actively abducts Hope E120; distinct Diontalus emerges E121 from the nonbreathing body. Agency, revival and orthography unsettled.",
+        "D048_structure": "observed_reader_subject",
         "markdown_image_embeds": 0,
         "legacy_html_anchor_tags": 0,
         "markdownlint": "passed_zero_violations",
         "markdown_render": "checked_all_links",
-        "size_bytes": 5152,
-        "sha256": "6406aa6ba898c226595b772a19a37754b5311301d191da134eb9b3fb6902c411",
-        "historical_preserved_files": [],
-        "historical_preserved_sha256": [],
+        "size_bytes": 5754,
+        "sha256": "8fe9ae9cf1044f3e9f6613dc801badb04e08c0dd3f66a5ff3d4a20c66aa0a01e",
+        "historical_preserved_files": [
+          "research/legacy/DILENORIA_PRE_WCL162_2026-11-01.md"
+        ],
+        "historical_preserved_sha256": [
+          "6406aa6ba898c226595b772a19a37754b5311301d191da134eb9b3fb6902c411"
+        ],
         "incoming_links": "sampled_not_exhaustive",
         "incoming_link_examples": [
           "world/CHARACTERS.md"
@@ -1057,9 +1099,19 @@
         "full_source_claim_accuracy": "not_checked",
         "native_browser": "deferred_WCL-103",
         "open_questions": [
-          "Dilo's knowledge/agency before Diontalus emergence unsettled; do not equate them permanently.",
-          "D-048 reader-first biography/lasting status needs separate review."
-        ]
+          "WCL-162 D-048 reader-first rewrite and scoped links/lint/footnotes validated on current bytes; no full independent source-claim or original-audio verification.",
+          "Historical uncertainty and individual final states preserved; name/origin metaphysics and retrospective testimony remain qualified.",
+          "Exhaustive incoming-link and native-browser/HTML-compatibility verification not performed."
+        ],
+        "prior_structural_cohort": "WCL-149",
+        "outgoing_local_links_total": 24,
+        "outgoing_local_links_renderer_checked": 24,
+        "outgoing_broken_links_renderer_checked": 0,
+        "outgoing_local_links_not_checked": 0,
+        "outgoing_distinct_target_recheck": "renderer_checked_all_current_local_links;_no_independent_exhaustive_backlink_audit",
+        "footnote_references_rendered": 7,
+        "footnote_definitions_rendered": 7,
+        "footnote_definitions_missing": 0
       }
     },
     {
@@ -1492,26 +1544,22 @@
       "in_original_2026_10_27_worklist": true,
       "review": {
         "level": "structural_and_outgoing_links_checked",
-        "cohort": "WCL-149",
-        "purpose": "bounded_current_character_profile_structural_and_provenance_audit",
-        "source_lines_read": 47,
-        "source_window_note": "Source-first E114–E128 then S3E019 Q&A: Elhandari doctor/wizard shelters Angelashi's four infants, stabilizes family, departs with evacuation transports E128. Princess-versus-imagined-princess origin left unresolved by GM; Lyrielle name/surname remain provisional.",
-        "D048_structure": "source_led_review_required_or_retained_exception",
-        "outgoing_local_links_total": 17,
-        "outgoing_local_links_renderer_checked": 17,
-        "outgoing_broken_links_renderer_checked": 0,
-        "outgoing_distinct_local_target_paths_total": 16,
-        "outgoing_distinct_local_target_paths_checked": 16,
-        "outgoing_distinct_local_target_paths_not_checked": 0,
-        "footnote_references_rendered": 0,
-        "footnote_definitions_rendered": 0,
+        "cohort": "WCL-162",
+        "purpose": "D081_approved_reader_first_biography_rewrite_after_WCL149_census",
+        "source_lines_read": 58,
+        "source_window_note": "E114–E128 Lyrielle assists Angelashi's childbirth and the household on Elhandar, protects their evacuation E125, survives and departs bound for Mars E128. S3E019 retrospective leaves princess history unresolved; full name provisional.",
+        "D048_structure": "observed_reader_subject",
         "markdown_image_embeds": 0,
         "markdownlint": "passed_zero_violations",
-        "markdown_render": "checked_all_local_links",
-        "size_bytes": 9428,
-        "sha256": "71c66c15d13cd618c85f8681c00cada3528a96be3fd6681c3462696d4a083822",
-        "historical_preserved_files": [],
-        "historical_preserved_sha256": [],
+        "markdown_render": "checked_all_links",
+        "size_bytes": 9947,
+        "sha256": "9bf70f78fbc5c20bc1d3172be83fc7197dea2943681df9673804b136ceb11b3e",
+        "historical_preserved_files": [
+          "research/legacy/LYRIELLE_PRE_WCL162_2026-11-01.md"
+        ],
+        "historical_preserved_sha256": [
+          "71c66c15d13cd618c85f8681c00cada3528a96be3fd6681c3462696d4a083822"
+        ],
         "incoming_links": "sampled_not_exhaustive",
         "incoming_link_examples": [
           "world/CHARACTERS.md"
@@ -1520,9 +1568,19 @@
         "full_source_claim_accuracy": "not_checked",
         "native_browser": "deferred_WCL-103",
         "open_questions": [
-          "E128 departure is witnessed, actual Mars arrival and later S3E18 individual fate not proven.",
-          "Old E114 cutoff and Q&A are explicitly historical; D-048 introduction/status adaptation worth separate editorial task."
-        ]
+          "WCL-162 D-048 reader-first rewrite and scoped links/lint/footnotes validated on current bytes; no full independent source-claim or original-audio verification.",
+          "Historical uncertainty and individual final states preserved; name/origin metaphysics and retrospective testimony remain qualified.",
+          "Exhaustive incoming-link and native-browser/HTML-compatibility verification not performed."
+        ],
+        "prior_structural_cohort": "WCL-149",
+        "outgoing_local_links_total": 26,
+        "outgoing_local_links_renderer_checked": 26,
+        "outgoing_broken_links_renderer_checked": 0,
+        "outgoing_local_links_not_checked": 0,
+        "outgoing_distinct_target_recheck": "renderer_checked_all_current_local_links;_no_independent_exhaustive_backlink_audit",
+        "footnote_references_rendered": 12,
+        "footnote_definitions_rendered": 12,
+        "footnote_definitions_missing": 0
       }
     },
     {
@@ -1531,28 +1589,23 @@
       "in_original_2026_10_27_worklist": true,
       "review": {
         "level": "structural_and_outgoing_links_checked",
-        "cohort": "WCL-149",
-        "purpose": "bounded_current_character_profile_structural_and_provenance_audit",
-        "source_lines_read": 23,
-        "source_window_note": "Source-led E124 Fishbird encounter: watery realm, temporary disappearance/restoration of Stanley and Nash, observed curing of Vorel/Stanley Diontalus debuffs. Fishbird godhood, divine origins, Faerun engineering lead remain claimed not independently proven.",
-        "D048_structure": "source_led_review_required_or_retained_exception",
-        "outgoing_local_links_total": 8,
-        "outgoing_local_links_renderer_checked": 8,
-        "outgoing_broken_links_renderer_checked": 0,
-        "outgoing_distinct_local_target_paths_checked": 8,
-        "outgoing_distinct_local_target_paths_missing": 0,
-        "footnote_references_rendered": 0,
-        "footnote_definitions_rendered": 0,
-        "footnote_references_static": 0,
-        "footnote_definitions_static": 0,
+        "cohort": "WCL-162",
+        "purpose": "D081_approved_reader_first_biography_rewrite_after_WCL149_census",
+        "source_lines_read": 33,
+        "source_window_note": "E117/E123 testimony and witnessed E124 Fishbird lake encounter. Stanley/Nash temporarily vanish and return; Vorel/Stanley's Diontalus debuffs are cured. Deity, engineering and cosmic history remain attributed claims.",
+        "D048_structure": "observed_reader_subject",
         "markdown_image_embeds": 0,
         "legacy_html_anchor_tags": 0,
         "markdownlint": "passed_zero_violations",
         "markdown_render": "checked_all_links",
-        "size_bytes": 3656,
-        "sha256": "7d6154421d8e30d8ecfe96eafc671a23d7fe954b11e90104c5c445870617a6b1",
-        "historical_preserved_files": [],
-        "historical_preserved_sha256": [],
+        "size_bytes": 5821,
+        "sha256": "22ed9dad1c4e696d6cd225417ec6ec5c844afe2e20622eec346f60f95de1b359",
+        "historical_preserved_files": [
+          "research/legacy/MALHYA_PRE_WCL162_2026-11-01.md"
+        ],
+        "historical_preserved_sha256": [
+          "7d6154421d8e30d8ecfe96eafc671a23d7fe954b11e90104c5c445870617a6b1"
+        ],
         "incoming_links": "sampled_not_exhaustive",
         "incoming_link_examples": [
           "world/CHARACTERS.md"
@@ -1561,9 +1614,19 @@
         "full_source_claim_accuracy": "not_checked",
         "native_browser": "deferred_WCL-103",
         "open_questions": [
-          "No proven resurrection or death when heroes vanish and return.",
-          "Current presentation is functional evidence-first, D-048 story-led review optional."
-        ]
+          "WCL-162 D-048 reader-first rewrite and scoped links/lint/footnotes validated on current bytes; no full independent source-claim or original-audio verification.",
+          "Historical uncertainty and individual final states preserved; name/origin metaphysics and retrospective testimony remain qualified.",
+          "Exhaustive incoming-link and native-browser/HTML-compatibility verification not performed."
+        ],
+        "prior_structural_cohort": "WCL-149",
+        "outgoing_local_links_total": 17,
+        "outgoing_local_links_renderer_checked": 17,
+        "outgoing_broken_links_renderer_checked": 0,
+        "outgoing_local_links_not_checked": 0,
+        "outgoing_distinct_target_recheck": "renderer_checked_all_current_local_links;_no_independent_exhaustive_backlink_audit",
+        "footnote_references_rendered": 7,
+        "footnote_definitions_rendered": 7,
+        "footnote_definitions_missing": 0
       }
     },
     {
@@ -1991,25 +2054,21 @@
       "review": {
         "level": "structural_and_outgoing_links_checked",
         "cohort": "WCL-149",
-        "purpose": "bounded_current_character_profile_structural_and_provenance_audit",
-        "source_lines_read": 17,
-        "source_window_note": "Source-led S3E02–S3E03: independent speaking eye/mouth grows on Nash's shoulder and remains attached, survives face parasites and meets Angelashi/four children on Mars. Origin and biology remain unexplained; current profile cutoff S3E03.",
-        "D048_structure": "source_led_review_required_or_retained_exception",
-        "outgoing_local_links_total": 7,
-        "outgoing_local_links_renderer_checked": 7,
-        "outgoing_broken_links_renderer_checked": 0,
-        "outgoing_distinct_local_target_paths_total": 6,
-        "outgoing_distinct_local_target_paths_checked": 6,
-        "outgoing_distinct_local_target_paths_not_checked": 0,
-        "footnote_references_rendered": 0,
-        "footnote_definitions_rendered": 0,
+        "purpose": "D081_approved_reader_first_biography_with_scoped_validation",
+        "source_lines_read": 33,
+        "source_window_note": "S3E02–S3E03 witnessed independent shoulder mouth/eye on Nash, voluntary name Sprout, parasite contact and family conversation on Mars; S3E05 only hypothetical use of mouth. No confirmed species, origin, descent or distinct future fate.",
+        "D048_structure": "observed_reader_subject",
         "markdown_image_embeds": 0,
         "markdownlint": "passed_zero_violations",
-        "markdown_render": "checked_all_local_links",
-        "size_bytes": 4107,
-        "sha256": "8102f7b79d16c8510a3871d680c89d2a2f8b5d3e54dfbd4a5698243a797e4adf",
-        "historical_preserved_files": [],
-        "historical_preserved_sha256": [],
+        "markdown_render": "checked_all_links",
+        "size_bytes": 5556,
+        "sha256": "9ad7f42b17c6b086230018f3a6f3aa340ef30a5aa40205038e2f4e26ee6d94f4",
+        "historical_preserved_files": [
+          "research/legacy/SPROUT_PRE_WCL164_2026-11-01.md"
+        ],
+        "historical_preserved_sha256": [
+          "8102f7b79d16c8510a3871d680c89d2a2f8b5d3e54dfbd4a5698243a797e4adf"
+        ],
         "incoming_links": "sampled_not_exhaustive",
         "incoming_link_examples": [
           "world/CHARACTERS.md"
@@ -2018,9 +2077,19 @@
         "full_source_claim_accuracy": "not_checked",
         "native_browser": "deferred_WCL-103",
         "open_questions": [
-          "Do not extrapolate Nash's S3E18 restoration to separate Sprout fate without later direct corroboration.",
-          "Sprout distinct from earlier baby hand and four actual children; no automatic parentage claim."
-        ]
+          "WCL-164 reader-first rewrite; current-file Markdownlint passed and offline renderer checked all links/footnotes; original audio, complete source-claim fidelity and native browser not verified.",
+          "Uncertain motives, private knowledge, unobserved later state and alleged kinship/theology remain attributed; no invented resolution.",
+          "Exhaustive incoming-link map not completed."
+        ],
+        "editorial_cohort": "WCL-164",
+        "outgoing_local_links_total": 18,
+        "outgoing_local_links_renderer_checked": 18,
+        "outgoing_local_links_not_checked": 0,
+        "outgoing_broken_links_renderer_checked": 0,
+        "outgoing_distinct_target_recheck": "offline_renderer_all_current_local_links;_no_exhaustive_independent_incoming_link_map",
+        "footnote_references_rendered": 7,
+        "footnote_definitions_rendered": 7,
+        "footnote_definitions_missing": 0
       }
     },
     {
@@ -2179,25 +2248,21 @@
       "review": {
         "level": "structural_and_outgoing_links_checked",
         "cohort": "WCL-149",
-        "purpose": "bounded_current_character_profile_structural_and_provenance_audit",
-        "source_lines_read": 15,
-        "source_window_note": "Compact source-led E102–S3E02 minotaur. Downed twice S3E01, recovers S3E02 and released alive at Blast Belly Rock; grafted dead Squirts/Blood Skunk heads do not mean their resurrection or independent consciousness.",
-        "D048_structure": "source_led_review_required_or_retained_exception",
-        "outgoing_local_links_total": 17,
-        "outgoing_local_links_renderer_checked": 17,
-        "outgoing_broken_links_renderer_checked": 0,
-        "outgoing_distinct_local_target_paths_total": 16,
-        "outgoing_distinct_local_target_paths_checked": 16,
-        "outgoing_distinct_local_target_paths_not_checked": 0,
-        "footnote_references_rendered": 0,
-        "footnote_definitions_rendered": 0,
+        "purpose": "D081_authorized_reader_first_rewrite_with_independent_scoped_validation",
+        "source_lines_read": 33,
+        "source_window_note": "E102–S3E02 owner-spelled Steerious: Hope's infernal mercenary, down twice in S3E01, stabilizes then Doctor Spider grafts two dead teammates' heads; physically released alive at Blast Belly Rock S3E02.",
+        "D048_structure": "observed_reader_subject",
         "markdown_image_embeds": 0,
         "markdownlint": "passed_zero_violations",
-        "markdown_render": "checked_all_local_links",
-        "size_bytes": 3412,
-        "sha256": "988927183002b0f7f4c1355d04e31f03ac16adf03e94c952130728fce30a19cc",
-        "historical_preserved_files": [],
-        "historical_preserved_sha256": [],
+        "markdown_render": "checked_all_links",
+        "size_bytes": 5619,
+        "sha256": "b650ddf710e19bfdc64b24298f9637fdf0da7a6236b9068b05a7e558adc2e210",
+        "historical_preserved_files": [
+          "research/legacy/STEERIOUS_BUSINESS_PRE_WCL163_2026-11-01.md"
+        ],
+        "historical_preserved_sha256": [
+          "988927183002b0f7f4c1355d04e31f03ac16adf03e94c952130728fce30a19cc"
+        ],
         "incoming_links": "sampled_not_exhaustive",
         "incoming_link_examples": [
           "world/CHARACTERS.md"
@@ -2206,9 +2271,19 @@
         "full_source_claim_accuracy": "not_checked",
         "native_browser": "deferred_WCL-103",
         "open_questions": [
-          "Owner-confirmed display spelling Steerious Business; later allegiance/ultimate fate not shown.",
-          "Source-first paragraph structure rather than a dedicated D-048 current-status section."
-        ]
+          "WCL-163 current reader-first source: targeted Markdownlint passed, offline renderer checked all current links and footnote references/definitions; no independent audio, exhaustive semantic claims or browser review.",
+          "Individual last observed states and reported/magic/theological uncertainty kept distinct; later fate and motive cannot be inferred.",
+          "Incoming links sampled, not exhaustively mapped."
+        ],
+        "editorial_cohort": "WCL-163",
+        "outgoing_local_links_total": 24,
+        "outgoing_local_links_renderer_checked": 24,
+        "outgoing_local_links_not_checked": 0,
+        "outgoing_broken_links_renderer_checked": 0,
+        "outgoing_distinct_target_recheck": "all_current_links_checked_with_offline_renderer_not_separate_exhaustive_incoming_audit",
+        "footnote_references_rendered": 7,
+        "footnote_definitions_rendered": 7,
+        "footnote_definitions_missing": 0
       }
     },
     {
@@ -2301,29 +2376,24 @@
       "domain": "characters",
       "in_original_2026_10_27_worklist": true,
       "review": {
-        "level": "structural_paths_verified_render_blocked",
+        "level": "structural_and_outgoing_links_checked",
         "cohort": "WCL-149",
-        "purpose": "bounded_current_character_profile_structural_and_provenance_audit",
-        "source_lines_read": 31,
-        "source_window_note": "Source-first Hope-private patron E101–S3E12: Voice Hand stolen S3E02 and pocketed by Brett's assistant S3E12, second Eye missing. Patron identity, metaphysics, key phrase and communication beyond separation unresolved.",
-        "D048_structure": "source_led_review_required_or_retained_exception",
-        "outgoing_local_links_total": 21,
-        "outgoing_local_links_renderer_checked": 0,
-        "outgoing_broken_links_renderer_checked": 0,
-        "outgoing_distinct_local_target_paths_checked": 20,
-        "outgoing_distinct_local_target_paths_missing": 0,
-        "footnote_references_rendered": null,
-        "footnote_definitions_rendered": null,
-        "footnote_references_static": 0,
-        "footnote_definitions_static": 0,
+        "purpose": "D081_authorized_reader_first_rewrite_with_independent_scoped_validation",
+        "source_lines_read": 44,
+        "source_window_note": "E101–S3E12 Hope-private hooded patron. Hope receives the Hand; Eye uncollected; Voice demands and Hope refuses killing Diontalus; Principal severs Hand S3E02, which is delivered to Brett's assistant S3E12. No verified future Voice communication/identity/fate.",
+        "D048_structure": "observed_reader_subject",
         "markdown_image_embeds": 0,
         "legacy_html_anchor_tags": 0,
         "markdownlint": "passed_zero_violations",
-        "markdown_render": "blocked_safety_not_verified",
-        "size_bytes": 6580,
-        "sha256": "3470c13c5c8d95de7c32f31ad039de1e7f65f7722e419ad74c428db8e2584fa3",
-        "historical_preserved_files": [],
-        "historical_preserved_sha256": [],
+        "markdown_render": "checked_all_links",
+        "size_bytes": 8111,
+        "sha256": "82fd98180ff5351737d924a4ceb3bce7bee6dafa8ad7ef6504813db1c41a6a4f",
+        "historical_preserved_files": [
+          "research/legacy/THE_VOICE_PRE_WCL163_2026-11-01.md"
+        ],
+        "historical_preserved_sha256": [
+          "3470c13c5c8d95de7c32f31ad039de1e7f65f7722e419ad74c428db8e2584fa3"
+        ],
         "incoming_links": "sampled_not_exhaustive",
         "incoming_link_examples": [
           "world/CHARACTERS.md"
@@ -2332,9 +2402,21 @@
         "full_source_claim_accuracy": "not_checked",
         "native_browser": "deferred_WCL-103",
         "open_questions": [
-          "Safe offline HTML renderer blocked by safety checks; 20 distinct local target paths independently exist, 21 static Markdown link instances; no rendered/visual acceptance.",
-          "Hope's natural regrown arm is not a returned Voice Hand; Groxl Eye separate."
-        ]
+          "WCL-163 current reader-first source: targeted Markdownlint passed, offline renderer checked all current links and footnote references/definitions; no independent audio, exhaustive semantic claims or browser review.",
+          "Individual last observed states and reported/magic/theological uncertainty kept distinct; later fate and motive cannot be inferred.",
+          "Incoming links sampled, not exhaustively mapped.",
+          "Separate WCL-150 still owns the historic blocked Voice-render event and outstanding Union Wheel validation."
+        ],
+        "editorial_cohort": "WCL-163",
+        "outgoing_local_links_total": 33,
+        "outgoing_local_links_renderer_checked": 33,
+        "outgoing_local_links_not_checked": 0,
+        "outgoing_broken_links_renderer_checked": 0,
+        "outgoing_distinct_target_recheck": "all_current_links_checked_with_offline_renderer_not_separate_exhaustive_incoming_audit",
+        "footnote_references_rendered": 10,
+        "footnote_definitions_rendered": 10,
+        "footnote_definitions_missing": 0,
+        "prior_verification_exception": "WCL-149 old 31-line version renderer safety-blocked; 20 distinct static target paths passed. The ordinary renderer succeeded on the rewritten WCL-163 maintained 44-line file. WCL-150 historical and Union Wheel checks remain independent."
       }
     },
     {
@@ -2452,27 +2534,23 @@
       "domain": "characters",
       "in_original_2026_10_27_worklist": true,
       "review": {
-        "level": "structural_renderer_checked_lint_blocked",
+        "level": "structural_and_outgoing_links_checked",
         "cohort": "WCL-149",
-        "purpose": "bounded_current_character_profile_structural_and_provenance_audit",
-        "source_lines_read": 27,
-        "source_window_note": "Source-first S2E03–S3E08: Stanley's sworn Elhandari guardian survives Hell-ship injuries and S3E02 surgery, helps Vorel, then S3E08 lava rescue is followed by a separate directly witnessed giant-crushing death alongside Emenil. No resurrection shown.",
-        "D048_structure": "source_led_review_required_or_retained_exception",
-        "outgoing_local_links_total": 19,
-        "outgoing_local_links_renderer_checked": 19,
-        "outgoing_broken_links_renderer_checked": 0,
-        "outgoing_distinct_local_target_paths_total": 18,
-        "outgoing_distinct_local_target_paths_checked": 11,
-        "outgoing_distinct_local_target_paths_not_checked": 7,
-        "footnote_references_rendered": 0,
-        "footnote_definitions_rendered": 0,
+        "purpose": "D081_approved_reader_first_biography_with_scoped_validation",
+        "source_lines_read": 43,
+        "source_window_note": "S2E03–S3E08: guardian's oath, Tungsten reunion, prison injuries, surviving S3E02 surgery, Mars/Vorel developments, renewed S3E05 oath, S3E08 lava rescue followed by witnessed lethal crushing alongside Emenil. Soul fate unproven.",
+        "D048_structure": "observed_reader_subject",
         "markdown_image_embeds": 0,
-        "markdownlint": "blocked_safety_not_verified",
-        "markdown_render": "checked_all_local_links",
-        "size_bytes": 7108,
-        "sha256": "d44aaf9ab744de71465902d214f90f35409e56f61e8e460165067dde65889c76",
-        "historical_preserved_files": [],
-        "historical_preserved_sha256": [],
+        "markdownlint": "passed_zero_violations",
+        "markdown_render": "checked_all_links",
+        "size_bytes": 7717,
+        "sha256": "52f87deb1adb0afd9c9f2d1d7c9ee17300615fce27b4434242c15b6a692f0bfb",
+        "historical_preserved_files": [
+          "research/legacy/UNION_WHEEL_PRE_WCL164_2026-11-01.md"
+        ],
+        "historical_preserved_sha256": [
+          "d44aaf9ab744de71465902d214f90f35409e56f61e8e460165067dde65889c76"
+        ],
         "incoming_links": "sampled_not_exhaustive",
         "incoming_link_examples": [
           "world/CHARACTERS.md"
@@ -2481,10 +2559,21 @@
         "full_source_claim_accuracy": "not_checked",
         "native_browser": "deferred_WCL-103",
         "open_questions": [
-          "Targeted markdownlint was blocked by safety checks, NOT passed; offline renderer checked all 19 local links with zero broken.",
-          "Independent static target audit covered 11 of 18 distinct paths; one 7-path batch was blocked, not declared verified.",
-          "Union/Vorel attachment or earlier rescue is not a continuing romance or survival after S3E08."
-        ]
+          "WCL-164 reader-first rewrite; current-file Markdownlint passed and offline renderer checked all links/footnotes; original audio, complete source-claim fidelity and native browser not verified.",
+          "Uncertain motives, private knowledge, unobserved later state and alleged kinship/theology remain attributed; no invented resolution.",
+          "Exhaustive incoming-link map not completed.",
+          "Historical WCL-150 safety-blocked tests retain their recorded outcomes even though current maintained-file tests passed."
+        ],
+        "editorial_cohort": "WCL-164",
+        "outgoing_local_links_total": 26,
+        "outgoing_local_links_renderer_checked": 26,
+        "outgoing_local_links_not_checked": 0,
+        "outgoing_broken_links_renderer_checked": 0,
+        "outgoing_distinct_target_recheck": "offline_renderer_all_current_local_links;_no_exhaustive_independent_incoming_link_map",
+        "footnote_references_rendered": 9,
+        "footnote_definitions_rendered": 9,
+        "footnote_definitions_missing": 0,
+        "prior_verification_exception": "WCL-149 source version 27 lines: standalone lint safety blocked, renderer 19/19 passed; independent static existence only 11/18 with 7 supplemental blocked. Exact original archived and SHA-verified. Current 43-line rewritten source passed ordinary lint and renderer all 26/26; this does not retroactively validate the preserved original."
       }
     },
     {
