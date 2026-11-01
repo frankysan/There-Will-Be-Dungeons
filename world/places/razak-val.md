@@ -6,19 +6,19 @@ Razak Val lies in a mountain-walled valley where lizardfolk clans live among sto
 
 The sunken valley is reached through difficult lizardfolk country. The **Razak Duar** arena hosts public challenges; **Cave Fengar** is a center of clan business and feasting; and the open-air **Tailway** contains pillars and dragon-priestly shrines. Raptor-like mounts carry hunters and visitors through the surrounding lands. Vorel and his companions reach Razak Val after crossing the desert with such mounts and the vehicle Fate 4, sheltering in a magical hut when a vast bloodsucking swarm attacks.[^arrival]
 
-<a id="political-organization"></a>
-
 ## Clans, court and the Great Fang
+
+### Political organization
 
 The ruler **Orp** is a cyclops familiar to the travelers from Slavetown. The influential Fengar clan adopted him after he defeated the previous Great Fang. Its adviser **Mirion**, known as the Morsel, says that he is the former ruler's son and continues to wield power through the court. The office may be contested by **scaling**, a formal single-combat challenge before witnesses. An account of **478 clans** circulates at court, but is not an audited population or proof of identical traditions across all lizardfolk.[^court]
 
 Vorel's ally **Diptak** has come from the Golden Lands. Other powerful figures include hunter **Bramie Fengar**, remembered as a Tyrant Slayer, his close relative **Zercil**, and the martial leaders **General Toxar** and **Skrot**. Some question the court's hierarchy while still valuing strength and clan loyalty. Vorel had expected direct, uncomplicated warrior honor; instead he encounters a political system with advisers, feuds and obligations.[^court]
 
-<a id="clans-allies-and-priesthood"></a>
+### Clans, allies and priesthood
 
 At the Tailway, priests honor a **Council of Twelve** dragons, with an emissary for each divine figure. One tradition calls **Razak the Bronze** the first Great Fang, and priestess **Typalla** is said to serve **Fuxi**, the fire-father. **Rezar** is among the other named dragons. The shrine and its rituals are real aspects of city life, but the origins and supernatural status recounted by the priesthood remain accounts, not independent proof of an ancient history.[^beliefs]
 
-<a id="food-monsters-and-local-speech"></a>
+### Food, monsters and local speech
 
 The court's feasts include bloodberry drink, live snakes and mostly raw **chicken lord** meat said to be hunted from the dangerous **Demon Vold**. Hunters gain prestige by confronting such monsters, though the travelers have not explored Demon Vold when they first hear of it. Vorel is dismayed by the gap between the city's celebrated valor and its tolerance of cruelty.[^customs]
 
@@ -28,7 +28,7 @@ Orp has living human prisoners brought to him as food and kills captives in fron
 
 A preserved **Fengar egg** disappears in a theft involving two apparent Nash lookalikes, who claim extraordinary origins in the future. Bramie is found murdered, with his own weapon, **Tyrant's Bane**, left in his back. Nash's involvement in the theft is real, but this does not make him the proven killer or establish the visitors' story. Zercil offers Vorel a compact to kill Orp and then yield the title to her; he refuses. The confrontation becomes open battle. Hope fires a devastating rocket into the Fengar court, killing Mirion, Toxar, the Elder of Families, Typalla, Mola Janda and other attendees. Vorel fights and **kills Orp**, and Omnom Cinderborn publicly recognizes Vorel as Great Fang.[^succession]
 
-<a id="under-the-new-great-fang-e063"></a>
+### Under the new Great Fang (E063)
 
 Zercil survives the rocket blast and demands that Vorel surrender the office. The assembled lizardfolk instead acclaim him, and Zercil attacks. Stanley helps Vorel, while Hope destroys Zercil with an **Obsidian Nail**. Her death is witnessed, but the intervention of others makes the honor of Vorel's second scaling disputed. The killings devastate the court; they do not establish that every clan or resident died.[^succession]
 
@@ -38,9 +38,9 @@ In the battered throne cave Vorel rejects Orp's practice of feeding humans to th
 
 Some lizardfolk harvest Orp's remains as meat, while the visitors recover a **Necklace of Fireballs** from his body. Vorel and Hope find and capture a living black worm in Zercil's bed. Vorel has also seen wormlike motion behind her eyes, but those two observations and a separate recovered brain leech do not yet establish who implanted anything. Three surviving Fengar children, among them one called **Felcha**, must face the deaths of their elders; their future protection is unresolved.[^reform]
 
-<a id="razak-vals-spreading-catastrophe-e064-and-the-killer-identified-later-e065"></a>
-
 ## The worm outbreak and the city's fall
+
+### Razak Val's spreading catastrophe (E064) and the killer identified later (E065)
 
 Follow reveals telepathic speech and identifies a Sun's Witness with an unusual mental presence. After Vorel invokes **Dollo Poppio**, the prisoner develops strange eyes and sprays worms toward Vorel, Omnom and the others. Vorel's fire burns attached parasites, but the crisis spreads. Many Sun's Witnesses transform into chicken-lord creatures; outside the pit, six-armed transformed lizardfolk turn on their neighbors. Nash attacks monsters with fire and encloses a chamber, but some remain alive. A planned release becomes a battle, **not a completed emancipation or a witnessed destruction of every resident**.[^outbreak]
 
@@ -50,27 +50,29 @@ The mystery of Bramie's killing gains a different answer after the escape. **Ror
 
 Omnom's later history becomes known beyond Razak Val. Hope encounters him **alive in T'ietkalla**, where he **reports** that the city fell and his attempt to retake it failed; the meeting confirms his survival at that point, not the city's condition firsthand.[^outbreak] In the Elhandari forest, Vorel later **physically reunites with an injured Omnom**, who says he fought the attackers around Razak Val for five nights. Omnom accuses Hope of responsibility for his family's deaths and the T'ietkalla invasion, but his account of her intentions remains contested. After a later hunt, Omnom **personally reaffirms Vorel as Great Fang**—not a second coronation. He subsequently **dies in Diontalus's attack**, with no witnessed revival. These later events happen away from Razak Val and do not establish the settlement's final fate.[^omnom]
 
-<a id="s2e02--surviving-clans-and-great-fangs-actual-return"></a>
-
 ## A return to the surviving clans
+
+### S2E02 — Surviving clans and Great Fang's actual return
 
 Much later, the functioning [Fate Six](../technology/fate-six.md) **actually lands at Razak Val** with Vorel and the others aboard. The canyon bears scars of war, but has inhabited encampments. Around thirty lizardfolk can be seen from above and a gathering of roughly seventy or eighty forms on the ground; those observations overlap and are not a complete census. Orp's cyclops body has been stripped to bones.[^return]
 
 Survivors kneel before Vorel and reaffirm him as their Great Fang. They say hostile worms and attackers abruptly died, interpreting this as their victory. Vorel speaks of defeating Dollo Poppio, but the precise cause and the condition of every infected clan are not independently established. The residents describe a huge planetary burrower as an omen. When Vorel says he must go to Mars, some ask to join him. **Those willing to travel board Fate Six and physically reach Mars** with the group. Not every clan is thereby shown to have departed.[^return]
 
-<a id="s3e09--groxls-first-great-fang-claim-conflicts-with-razak-the-bronze-tradition"></a>
-
 ## The competing story of the first Great Fang
+
+### S3E09 — Groxl's first Great Fang claim conflicts with Razak the Bronze tradition
 
 In a later encounter beyond ordinary waking experience, **Groxl** tells Vorel that he was grown artificially, rejected by other lizardfolk and became Razak Val's founding Great Fang after uniting its tribes. He says his inability to have offspring led him to abandon the people, and asks Vorel to continue his vengeance against gods. Vorel refuses that inheritance and expresses a wish for lizardfolk to live peacefully and have families.[^origins]
 
 Groxl's claim to be **the first Great Fang** conflicts with the earlier priestly story naming **Razak the Bronze**. The two accounts cannot be reconciled without further evidence, and neither is independent proof of a universal lizardfolk origin. Groxl's insinuations about Vorel's possible biological condition are likewise claims, not a demonstrated hereditary fact.[^origins]
 
-<a id="editorial-follow-ups"></a>
-
 ## Current status
 
 After Earth's restoration, an allied contingent includes an estimated **fifty to sixty surviving lizardfolk**. Vorel takes responsibility for adopted **Kuromokishi** survivors and begins an **overland journey toward Razak Val**, intending to rebuild it. Their arrival, the repair of the settlement, the final fate of captives and Fengar children, and the political choices of clans not present are **not witnessed**. The title of Great Fang has been recognized by survivors, but the city Vorel hopes to restore remains a future task.[^final]
+
+### Editorial follow-ups
+
+The remaining uncertain names, conflicting founding accounts, full clan census and rebuilding outcomes require further source review; the [review queue](../../project/REVIEW_QUEUE.md) tracks open questions.
 
 **Related:** [World guide](../WORLD.md) · [Lizardfolk peoples](../races/lizardfolk.md) · [Vorel](../characters/vorel.md) · [campaign chronology](../CHRONOLOGY.md) · [review queue](../../project/REVIEW_QUEUE.md).
 

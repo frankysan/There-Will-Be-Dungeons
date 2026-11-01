@@ -4197,25 +4197,25 @@
         "level": "structural_and_outgoing_links_checked",
         "cohort": "WCL-178",
         "purpose": "source_limited_current_chids_and_solar_mines_places_structure_outgoing_links_and_source_horizons",
-        "source_lines_read": 93,
-        "depicted_source_window": "E067 approach reports; E069 CHIDS discovery, transit and Julia guide; E070–E071 headsets/claimed Void and first combat; E072–E075 icy data center, Cerinthala and portal apparatus; E076–E079 containment/hive/engineering access; E080–E081 dragon-worm encounter, Drive operation and declared-death cliffhanger; 2022 GM retrospective separately attributed",
-        "source_window_note": "Directly witnessed complex, functional transport and security, hive/historical-claims distinctions and E081 shared four-person sacrifice distinguished from GM's retrospective one-person planning. Charles Dickens's reporting delay, Cerinthala's alleged genetic history, CHIDS hive-council's species-origin theories and spectral dragon/Quizquaz planetary mechanics remain testimony. E081 Sira/Eddie emerge alive while Chance is not located, and quartet GM declared dead at cutoff; bonus confirms later improvisation into Sigil, not a second played Drive scene.",
-        "D048_structure": "chronological_technical_reference_needs_reader_first_current_status",
-        "outgoing_local_links_total": 35,
-        "outgoing_local_links_renderer_checked": 35,
+        "source_lines_read": 107,
+        "depicted_source_window": "E067–E069 location/entry; E069–E075 railway, Julia, VR/Charles, alarms, Cerinthala, portal device; E076–E079 biological containment, hive council and engineering entry; E080–E081 observed worm/Drive chamber events and all-four life-sacrifice/GM-declared deaths; E082 character consequences in Sigil, not CHIDS follow-up survey; February 2022 GM-retrospective creative intent kept distinct",
+        "source_window_note": "WCL-181 adds a reader-first physical site introduction, clear separated E081 latest witnessed site status, E082 beyond-site boundary, explicitly attributed historical research claims, and complete cited E068–E082 source navigation. Full E069–E081 detailed technical sections, their original heading IDs and player/GM distinctions preserved. E081 Sira/Eddie escape; Chance missing; four heroes voluntarily share the energy and are declared dead at cutoff, with different E082 Sigil states not a CHIDS reassessment. The machine's later physical status and planetary consequences not surveyed.",
+        "D048_structure": "reader_first_site_introduction_complete_chronological_E069_to_E081_source_sections_latest_site_status_and_creator_retrospective_separate",
+        "outgoing_local_links_total": 54,
+        "outgoing_local_links_renderer_checked": 54,
         "outgoing_broken_links_renderer_checked": 0,
         "outgoing_local_links_not_checked": 0,
         "footnote_references_rendered": 0,
         "footnote_definitions_rendered": 0,
         "footnote_definitions_missing": 0,
-        "headings_rendered": 12,
+        "headings_rendered": 14,
         "markdown_image_embeds": 0,
         "html_image_embeds": 0,
         "legacy_html_anchor_tags": 0,
         "markdownlint": "passed_zero_violations",
         "markdown_render": "checked_all_local_links",
-        "size_bytes": 25629,
-        "sha256": "d642371c2ec8fe790d501fb8bf139db64aca37b7dd071acffb9b63a8a81e17b7",
+        "size_bytes": 29312,
+        "sha256": "cc26ba07d2ed59df80d175d684e562d1b3a6a56977e29b844f765f3f8d3774fe",
         "incoming_links": "literal_world_filename_scan_only_not_exhaustive",
         "incoming_link_examples": [
           "world/PLACES.md",
@@ -4228,10 +4228,14 @@
         "full_source_claim_accuracy": "not_checked",
         "native_browser": "deferred_WCL-103",
         "open_questions": [
-          "Although article advances E069–E081 chronologically and keeps claims qualified, it remains episode/technology-reference-first (not a concise reader-first physical site study), has no Current status separate from E081 cutoff, and the final Sources tail lists only E068–E075 while later E076–E081 are linked within prose. D-048 editorial follow-up should add a clear site state and maintain intact historical source cutoffs without implying permanent hero deaths or machine resolution.",
-          "The 2022 GM account is retrospective creative preparation, not E081 replay or proof the device was truly one-person-safe. Engineered species, illithid agency, past station dates and demonic technology claims stay unresolved; distinct CHIDS technology vs Solar Mines tech.",
-          "All 35 local links and 12 rendered headings validated, no rendered footnotes; original audio, complete factual assertions, external links, exhaustive incoming references and browser unverified."
-        ]
+          "Reader-first WCL-181 introduction and current E081 witnessed status resolve previously missing narrative entry and post-E075 source list. All prior 12 heading IDs kept, two new headings added, 54/54 rendered links valid and scoped Markdownlint clean. E082 is a different location and only clarifies divergent fates, not return/Drive closure.",
+          "Cerinthala's genetic history, hive council's saved-minds and species-origin claims, Charles Dickens's VR explanation, spectral dragon's ancient machine story and Quizquaz's destructive-beam thesis remain attributed testimony. February 2022 GM one-person *planned* sacrifice is not the observed four-person choice; personal audio/visual and complete fact-check remain unverified.",
+          "D-052 byte-exact original preserved at research/legacy/CHIDS_PRE_WCL181_2026-11-01.md (25,629 bytes, SHA-256 matches prior baseline). No active incoming chids.md# found in scoped world/narrative/episodes/project/reports, but external bookmarks, browser WCL-103 and comprehensive publisher acceptance deferred."
+        ],
+        "pre_rewrite_snapshot": "research/legacy/CHIDS_PRE_WCL181_2026-11-01.md",
+        "pre_rewrite_snapshot_sha256": "d642371c2ec8fe790d501fb8bf139db64aca37b7dd071acffb9b63a8a81e17b7",
+        "pre_rewrite_heading_count": 12,
+        "last_editorial_restructure": "WCL-181"
       }
     },
     {
@@ -4334,16 +4338,16 @@
         "level": "structural_and_outgoing_links_checked",
         "cohort": "WCL-176",
         "purpose": "source_limited_elhandar_and_tietkalla_places_structure_and_outgoing_link_census",
-        "source_lines_read": 99,
+        "source_lines_read": 103,
         "depicted_source_window": "E115 orbital sanctuary/first visits; E116–E124 family, Harbor and cave/dragon-heart developments; E125–E126 collapse and Villa protection; E128 rescue, Mars-bound departure and world-burrower sandstorm; S2E02 and S3E18 later horizon reviewed for stale-current-status boundary",
         "source_window_note": "Reader-first station history covers its inhabited forest biodome, refuge and Harbor settlement, old technology, spoken social traditions, battle and direct E125–E126 destruction, E128 natural dragon-heart retrieval and actual ship boarding/departure. The station does not remain orbital. S2E02 shows later performed Mars arrival of Fate Six and surviving Elhandari leaders; S3E18 documents Elhandari participation after restoration, not rebuilding of the former space station.",
-        "D048_structure": "reader_first_but_current_status_stale_at_E128_cutoff",
-        "outgoing_local_links_total": 61,
-        "outgoing_local_links_renderer_checked": 61,
+        "D048_structure": "reader_first_with_explicit_E128_historical_cutoff_and_later_S2_S3_current_horizon",
+        "outgoing_local_links_total": 65,
+        "outgoing_local_links_renderer_checked": 65,
         "outgoing_broken_links_renderer_checked": 0,
         "outgoing_local_links_not_checked": 0,
-        "footnote_references_rendered": 23,
-        "footnote_definitions_rendered": 23,
+        "footnote_references_rendered": 24,
+        "footnote_definitions_rendered": 24,
         "footnote_definitions_missing": 0,
         "headings_rendered": 10,
         "markdown_image_embeds": 0,
@@ -4351,8 +4355,8 @@
         "legacy_html_anchor_tags": 0,
         "markdownlint": "passed_zero_violations",
         "markdown_render": "checked_all_local_links",
-        "size_bytes": 18433,
-        "sha256": "f9058ce223a89ea55ff32d6e3c07622c009e7197a520ecc78e8ce30e42da07ab",
+        "size_bytes": 20183,
+        "sha256": "0a25b8fd3ac9e19f18c5361ea9348867bfcbb265544958f1cd5298c461e9959f",
         "incoming_links": "literal_world_filename_scan_only_not_exhaustive",
         "incoming_link_examples": [
           "world/PLACES.md",
@@ -4365,10 +4369,11 @@
         "full_source_claim_accuracy": "not_checked",
         "native_browser": "deferred_WCL-103",
         "open_questions": [
-          "The article calls E128's Mars-bound departure its current status and states family arrival remains unknown, although later S2E02 physically places named Elhandari leaders and companions on Mars and subsequent S3 events depict Elhandari forces. Preserve E128 history, but add explicitly later played horizons in a separate D-048 follow-up; do not claim every E128 refugee/family member or the original natural heart independently checked at arrival.",
-          "Its source footnote [^elhandar-status] explicitly labels the final status 'Season One/Arc Five cutoff': legitimate episode-bound snapshot, not complete current Wastes-world endpoint. Current status label needs qualification. The named father, divine powers and studio claims stay attributed.",
-          "All 23 rendered footnote refs/defs pair; the article uses canonical place identity but remains audio/whole-claim/browser unverified. Incoming references sampled only within world/."
-        ]
+          "WCL-179 resolved E128's misleading apparent latest status: the original E128 departure, on-Earth Villa and unbuilt Ruby are explicitly historical at that episode cutoff. Later played S2E01 confirms household under Elhandari protection on Mars, S2E02 physically establishes Fate Six reaching Mars and Amanthalodar/Chrysorius greeting the party, while S3E18 shows active Elhandari forces and actual Earth regreening. Neither arrival of every specific E128 evacuee nor the station's reconstruction is inferred. A new cited [^elhandar-later] footnote cleanly separates later events from E128 source notes.",
+          "Station ruins, missing full casualty census, underlying divine/ancestral claims, natural dragon-heart exact later custody, final burrower disposition and broad factual/original-audio/browser validation remain unconfirmed. Secure renderer validates 65/65 links and 24/24 footnote occurrences/definitions."
+        ],
+        "last_targeted_correction": "WCL-179",
+        "targeted_correction_validation": "scoped_markdownlint_all_local_links_safe_rendered_footnotes_exact_legacy_headings_sha256_readback"
       }
     },
     {
@@ -4467,25 +4472,25 @@
         "level": "structural_and_outgoing_links_checked",
         "cohort": "WCL-175",
         "purpose": "bounded_current_razak_val_and_khaervilon_places_source_structure_and_outgoing_link_census",
-        "source_lines_read": 64,
+        "source_lines_read": 72,
         "depicted_source_window": "E061/E064 warnings and approach; E065–E068 purple-sands/keep encounters; E069–E075 CHIDS interior and portal acquisition; E076–E081 actual engineering/Drive battle and E081 cliffhanger",
         "source_window_note": "Khaervilon is owner-map-confirmed spelling despite kervalon.md route aliases. Early Zark reports, storm, dragon spirit's claimed planet-relocation machine and Sira abduction precede actual keep and CHIDS discovery. Source clearly separates failed and performed infiltration tactics, sealed unverified guard corridor, CHIDS virtual claims, E076 portal escape, E079 engineering and Sira captive, E080 commander killed and E081 Dolo Popio manifestation defeated with Sira visibly exiting beam while Chance remains lost. All four hero deaths are GM-declared specifically at E081 cutoff, not ultimate permanent fate.",
-        "D048_structure": "needs_reader_first_chronology_and_current_status_review",
-        "outgoing_local_links_total": 37,
-        "outgoing_local_links_renderer_checked": 37,
+        "D048_structure": "reader_first_entrance_chronological_E061_to_E081_then_latest_site_cutoff_and_separate_source_open_issues",
+        "outgoing_local_links_total": 48,
+        "outgoing_local_links_renderer_checked": 48,
         "outgoing_broken_links_renderer_checked": 0,
         "outgoing_local_links_not_checked": 0,
         "footnote_references_rendered": 0,
         "footnote_definitions_rendered": 0,
         "footnote_definitions_missing": 0,
-        "headings_rendered": 10,
+        "headings_rendered": 11,
         "markdown_image_embeds": 0,
         "html_image_embeds": 0,
         "legacy_html_anchor_tags": 0,
         "markdownlint": "passed_zero_violations",
         "markdown_render": "checked_all_local_links",
-        "size_bytes": 16847,
-        "sha256": "f6d1b43c6edf084a9125e8f773e7c633e3a42c80630c68a7d222078292560b37",
+        "size_bytes": 19421,
+        "sha256": "97b230418bc3415c249ef859bafbe308d464b2a71792e1f900664430b07ce700",
         "incoming_links": "literal_world_filename_scan_only_not_exhaustive",
         "incoming_link_examples": [
           "world/PLACES.md",
@@ -4497,10 +4502,14 @@
         "full_source_claim_accuracy": "not_checked",
         "native_browser": "deferred_WCL-103",
         "open_questions": [
-          "Episode-indexed account remains source-led rather than D-048 reader-first: E067–E075 material precedes an Open issues section and source summary, then E076–E081 continuation appears after it. The prominent earlier E067 'Sira not rescued' note must be kept historical rather than misread as current state; reader-first Current status absent.",
-          "Owner-confirmed Khaervilon display spelling is independent of unchanged kervalon.md route; alleged ancient relocation machinery and magical/cosmic interpretation remain attributed testimony. Do not merge site, CHIDS interior and unseen Demon Vold location, nor infer original-audio/whole-arc truth from dossiers.",
-          "No footnote source apparatus, ten headings; rendered links are valid. E081 outcome not retroactive evidence of earlier source-cutoff knowledge. Native browser, original audio, complete backlinks and source facts unverified."
-        ]
+          "WCL-177 inserted a reader-first place introduction and latest E081 site cutoff, moved earlier E067–E075 source/open-questions block after actual E076–E081 Drive outcome, and distinguished Sira's E067 missing history from performed E081 beam escape, Chance's still-missing status, GM-declared heroes' E081 deaths and distinct E082 Sigil fates. Safe renderer verifies all 48 local links, 11 headings, no orphan HTML/footnotes. Exact 16,847-byte pre-rewrite CRLF original SHA-verified in research/legacy under D-052.",
+          "The Khaervilon map spelling is owner-confirmed and existing kervalon.md route is unchanged; the supernatural dragon/Quizquaz planet-moving-machine claims, site/Drive's permanent post-E081 physical condition, blocked corridor guards, original audio/name spellings and external source canon remain unresolved. Scope/source updates do not establish the ultimate planet or Chance's fate; native-browser WCL-103 pending."
+        ],
+        "pre_rewrite_snapshot": "research/legacy/KHAERVILON_PRE_WCL177_2026-11-01.md",
+        "pre_rewrite_snapshot_sha256": "f6d1b43c6edf084a9125e8f773e7c633e3a42c80630c68a7d222078292560b37",
+        "original_heading_fragment_ids_preserved": 10,
+        "last_targeted_correction": "WCL-177",
+        "targeted_correction_validation": "scoped_markdownlint_passes_full_local_link_render_footnote_heading_ids_sha256_census_readback"
       }
     },
     {
@@ -4602,25 +4611,25 @@
         "level": "structural_and_outgoing_links_checked",
         "cohort": "WCL-175",
         "purpose": "bounded_current_razak_val_and_khaervilon_places_source_structure_and_outgoing_link_census",
-        "source_lines_read": 89,
+        "source_lines_read": 91,
         "depicted_source_window": "E059–E065 first arrival, challenge and parasitic outbreak; E104/E118–E121 Omnom later testimony and fate; S2E02 witnessed clan return and Mars departure; S3E09 Groxl claims; S3E18 rebuild journey begins",
         "source_window_note": "Razak Val is an inhabited clan valley with an Orp-led Great Fang court. Vorel's challenge and recognition, court casualties and unfinished captive release are staged separately from the E064 worm/chicken-lord outbreak. Rorf confesses Bramie murder in E065; later witness testimony about city fall does not substitute for direct census. S2E02 confirms living lizardfolk and a contingent reaching Mars; S3E18 confirms intent and departure for rebuilding, not settlement arrival.",
-        "D048_structure": "reader_first_with_unrendered_legacy_html_anchors",
-        "outgoing_local_links_total": 36,
-        "outgoing_local_links_renderer_checked": 36,
+        "D048_structure": "reader_first_all_eight_historical_fragment_ids_render_as_markdown_headings",
+        "outgoing_local_links_total": 37,
+        "outgoing_local_links_renderer_checked": 37,
         "outgoing_broken_links_renderer_checked": 0,
         "outgoing_local_links_not_checked": 0,
         "footnote_references_rendered": 21,
         "footnote_definitions_rendered": 13,
         "footnote_definitions_missing": 0,
-        "headings_rendered": 9,
+        "headings_rendered": 17,
         "markdown_image_embeds": 0,
         "html_image_embeds": 0,
-        "legacy_html_anchor_tags": 8,
+        "legacy_html_anchor_tags": 0,
         "markdownlint": "passed_zero_violations",
         "markdown_render": "checked_all_local_links",
-        "size_bytes": 15804,
-        "sha256": "c2cec380106e5cae889a6ee49c201f1cbc04e9426831e349025dbb5d510ee3e6",
+        "size_bytes": 15957,
+        "sha256": "12240a9b6e4f9772663677a7aa1a758bbc8dd932eee74693c9a645b0e939140a",
         "incoming_links": "literal_world_filename_scan_only_not_exhaustive",
         "incoming_link_examples": [
           "world/PLACES.md",
@@ -4633,10 +4642,12 @@
         "full_source_claim_accuracy": "not_checked",
         "native_browser": "deferred_WCL-103",
         "open_questions": [
-          "Eight legacy raw-HTML <a id> anchors are escaped as literal text by safe renderer; their historical fragments are NOT confirmed working. D-048 follow-up must audit incoming fragments and preserve IDs, without assuming successful Markdown link check covers these aliases.",
-          "Groxl's first-Great-Fang creation story contradicts Razak-the-Bronze priest tradition: preserve them as competing attributed accounts, not resolved history. No automatic worm-origin/food transmission, Zark culpability or universal all-clan outcomes proven.",
-          "Twenty-one rendered footnote references correctly point to 13 definitions. Native browser, original audio, complete story-fact review and exhaustive incoming backlinks deferred."
-        ]
+          "WCL-177 corrected all eight originally escaped literal <a id> compatibility anchors: each exact historical fragment now resolves as a native Markdown heading. Previously existing page headings kept their generated IDs; 17 headings total, all 37 links valid, 21 footnote references to 13 definitions. No matching deep-linked file fragments were found in scoped world/narrative/episodes/project/reports searches; external bookmarks/browser WCL-103 still not tested.",
+          "Groxl's first Great Fang account and Razak-the-Bronze priestly tradition remain conflicting attributed histories. Rebuilding begins in S3E18 but does not imply completed arrival or restoration; worm-origin, Zark responsibility, clan census and named kinship original-audio details still open."
+        ],
+        "legacy_anchor_behavior": "eight_existing_raw_html_ids_preserved_exactly_as_rendered_markdown_heading_ids",
+        "last_targeted_correction": "WCL-177",
+        "targeted_correction_validation": "scoped_markdownlint_passes_full_local_link_render_footnote_heading_ids_sha256_census_readback"
       }
     },
     {
@@ -4647,25 +4658,25 @@
         "level": "structural_and_outgoing_links_checked",
         "cohort": "WCL-180",
         "purpose": "bounded_current_sigil_final_places_source_structure_outgoing_link_and_reader_navigation_census",
-        "source_lines_read": 201,
+        "source_lines_read": 229,
         "depicted_source_window": "E081 declaration→E082 Sigil physical arrival and variant survivals; E083–E089 chapel, marionette contest, E088 resurrection and GM magic-rule correction, E089 portal-registry lead; E090–E093 Hive/Tobacho bargain and observed Outlands departure; E094–E097 White Tower events explicitly OUTSIDE Sigil; E105/E106 return/handover, E112/E113 Hope's secondary Sigil and Pandemonium route, E116 retconned Council-to-docks route, S3E15 Principal's temporary combat escape through Sigil; later GM bonus Q&As separately attributed",
-        "source_window_note": "Sigil's curved/inverted cityscape and multiple docks/wards are directly observed at their episode cutoffs. E081's four declared dead followed by Vorel/Nash's differing E082 survival and E088 restoration of Hope and Stanley; cleric's petitioner account is attributed until later creator discussion. Vorel earns actual local then overall championship and 5000gp; E088 corrects GM's prior claim of a Sigil-wide spellcasting restriction. E089 finds a registry steward/portal lead, not access. E093 actually leaves Sigil for the Outlands; E094–E097 White Tower is OUTLANDS, not Sigil. E105–E106 party returns through an actually performed fruit gate and Tobacho receives Fist gauntlet but not Hand. Hope separately signs E112 compact, E113 ends at Tobacho bar but E116 explicitly revises the scene boundary and instead plays entry at departure docks; no invented round trip. S3E15 Principal and Hope use Sigil only as an actual portal transit amid Worldbreaker fight.",
-        "D048_structure": "newest_first_later_sections_plus_stale_E097_current_cutoff_needs_reader_first_chronological_and_geographical_restructure",
-        "outgoing_local_links_total": 71,
-        "outgoing_local_links_renderer_checked": 71,
+        "source_window_note": "WCL-183 reorganized the complete 201-line original into a 229-line reader-first place study, retaining all source detailed episode paragraphs, E082 actual distinctive survival states and E088 later actual Hope/Stanley resurrection, E088 explicit DM-wide spell-dampening erratum, E089 portal-registry lead not actual access, E093 actual outbound Outlands ship, E094–E097 White Tower strictly Outlands and E097 historical—not Sigil current—cutoff, E105–E106 return and gauntlet delivery, E112 signed Tobacho pact without fulfillment, E113 played Sigil/Tobacho return scene superseded by E116 explicitly rewritten opening at docks without inventing offscreen movements, and S3E15 brief Principal+Hope portal escape and return to ongoing Earth fight. Maintains contemporaneous observations separate from recorded local NPC explanations and later GM retrospectives; newer top overview and explicit current status added.",
+        "D048_structure": "reader_first_geographic_overview_ordered_E082_to_E093_Sigil_White_Tower_Outlands_early_detour_E105_to_S3E15_later_rediscovery_and_latest_city_status",
+        "outgoing_local_links_total": 92,
+        "outgoing_local_links_renderer_checked": 92,
         "outgoing_broken_links_renderer_checked": 0,
         "outgoing_local_links_not_checked": 0,
         "footnote_references_rendered": 0,
         "footnote_definitions_rendered": 0,
         "footnote_definitions_missing": 0,
-        "headings_rendered": 29,
+        "headings_rendered": 35,
         "markdown_image_embeds": 0,
         "html_image_embeds": 0,
         "legacy_html_anchor_tags": 0,
         "markdownlint": "passed_zero_violations",
         "markdown_render": "checked_all_local_links",
-        "size_bytes": 55329,
-        "sha256": "53934e82f61ed02f7ef42927fceadf8304821e04455a8a1ffbedc32438205472",
+        "size_bytes": 61044,
+        "sha256": "4fd210999db2bd06dfa62631d059698c8ce4eda2f95d55234a6867436124ff77",
         "incoming_links": "literal_world_filename_scan_only_not_exhaustive",
         "incoming_link_examples": [
           "world/PLACES.md",
@@ -4679,11 +4690,15 @@
         "full_source_claim_accuracy": "not_checked",
         "native_browser": "deferred_WCL-103",
         "open_questions": [
-          "The page opens in reverse newer-first S3E15/E116/E113/E112/E106/E105, then reverts to E082–E097 chronological material; a heading 'Current cutoff and unresolved questions' at E097 is stale for the complete page. Reader-first geographic site status and changing portal travel must be restructured separately without erasing E097's valid historical cutoff.",
-          "E113 original played return to Tobacho and E116 opening retcon are conflicting source boundaries, not a witnessed second journey; preserve both and mark the actual revised S3 geography. E094–E097 White Tower episodes occur in the Outlands, not within Sigil. S3E15 Sigil transit was temporary, not sustained occupancy.",
-          "E085 green enforcer is later identified by GM as Lady of Pain, but not self-identified in the played scene. Later Planescape cosmology comments and Far Realm/Weir interpretation remain retrospective rather than direct city geography; proper names remain ASR-provisional.",
-          "No footnote apparatus in source. All 71 local links checked without caps, but primary audio, full claims, external bookmarks, native browser and exhaustive incoming fragment links not verified. World/ scoped literal incoming filename scan found 16 references, zero 'sigil.md#' in world; not exhaustive."
-        ]
+          "WCL-183 reader-first top overview, chronological E082–E093 original Sigil, independently labelled E094–E097 White Tower OUTLANDS excursion and historical E097 cutoff, E105–S3E15 later visits, current/latest-Sigil-site status, and creator-only retrospective section replace previously newest-first arrangement. Preserved 28 original generated heading IDs; only stale old 'Current cutoff and unresolved questions' heading is renamed explicitly to historical E097 White Tower. 35 rendered heading IDs, 92/92 local links valid and zero footnotes/images/raw HTML; scoped Markdownlint passed. Scoped world/narrative/episodes/project/reports checks found no active maintained sigil.md# references; task/census quote prior check. External bookmarks/native browser unverified.",
+          "E113 actually depicts return into Tobacho bar and E116 explicitly rewinds/revises to a Gate into Sigil docks without inventing a second, unplayed return to Pandemonium. E116 dock attack fails to take a ship; S3E15 Principal+Hope fly over city only on temporary Worldbreaker escape, not permanent city residence. E094–E097 White Tower battles, quarantine and recovery are OUTLANDS, even though carried by Sigil's outbound portal ship.",
+          "GM later identifies E085 green enforcer as Lady of Pain but scene gives no self-identification. Planescape/Far Realm/Weir and creator design notes remain later commentary, not direct geographic canon. Full-source claim-by-claim accuracy, original audio, native browser WCL-103, external bookmark preservation and publication acceptance not demonstrated.",
+          "One byte-exact 55,329-byte CRLF original saved and SHA-256 verified as research/legacy/SIGIL_PRE_WCL183_2026-11-01.md. Technical episode observations retained in depth; original all-caps source research style in some later-return paragraphs can be separately polished without treating this structural D-048 ordering as a full-fact audit."
+        ],
+        "pre_rewrite_snapshot": "research/legacy/SIGIL_PRE_WCL183_2026-11-01.md",
+        "pre_rewrite_snapshot_sha256": "53934e82f61ed02f7ef42927fceadf8304821e04455a8a1ffbedc32438205472",
+        "pre_rewrite_heading_count": 29,
+        "last_editorial_restructure": "WCL-183"
       }
     },
     {
@@ -4739,25 +4754,25 @@
         "level": "structural_and_outgoing_links_checked",
         "cohort": "WCL-178",
         "purpose": "source_limited_current_chids_and_solar_mines_places_structure_outgoing_links_and_source_horizons",
-        "source_lines_read": 86,
-        "depicted_source_window": "Nash remembered origins/E000 and E117 recital, E118 research; S2E03 proposed Solar Mines plan; S3E04 scout and proposal; S3E05–S3E11 actual surface battle, descent and lava-core standoff; S3E12 no mine return; S3E13–S3E15 allied occupation and guarded unactivated Ruby; S3E18 activation order and actually observed Earth restoration/aftermath",
-        "source_window_note": "Place page embeds Nash's personal history as attributed memories and follows actual entry to labor cages, closed then breached gate, generator and dome, then lava-core meeting; later Elhandari control and actual armed guards at Ruby are distinguished from previous source cutoffs and unexecuted proposals. S3E18 confirms order for Ruby use and restoration consequences, while insertion itself not separately depicted and future Clench-clearing/mixed settlement not yet played. No universal causal origin linkage to CHIDS inferred.",
-        "D048_structure": "newest_first_allcaps_recap_needs_chronological_reader_first_rewrite",
-        "outgoing_local_links_total": 43,
-        "outgoing_local_links_renderer_checked": 43,
+        "source_lines_read": 72,
+        "depicted_source_window": "E000/E024 remembered childhood; E117 recital/E118 Book/bonus creative retrospective; S2E03 unperformed council strategy; S3E04 scout estimates/unperformed assault plan; S3E05–S3E07 actual gate attack, rupture, Fate Six crushed and Ruby rescued; S3E08 giant generator and cable separate from Ruby; S3E09 camp and dome infiltration; S3E10 real child-labor/conditioning site and remote-custody discontinuity; S3E11 physical geothermal chamber and Ruby staged unactivated; S3E12 no return; S3E13–S3E15 allied occupation and actual core guards but continued nonactivation; S3E18 order, observed planet restoration, Nash monument, future township plans",
+        "source_window_note": "WCL-181 replaces S3E18-to-S2E03 newest-first allcaps encounter notes with chronological source-limited reader-first site narrative, preserving key battles and changing scene cutoffs, custody of Ruby, distinct broken giant generator vs intact Ruby, witnessable labor cages and Nash's memories, actual geothermal chamber, S3E13 guard order vs S3E14 confirmed presence, S3E15 nonactivation, S3E18 performed restoration after order but physical insertion unshown. Current status separates completed monument and planet-wide greening from proposed Clench work, mixed township and unproven all-prisoner release.",
+        "D048_structure": "reader_first_chronological_S2E03_to_S3E18_site_account_with_current_status_narrative_source_tiers_and_qualified_historical_S3E14_metadata",
+        "outgoing_local_links_total": 51,
+        "outgoing_local_links_renderer_checked": 51,
         "outgoing_broken_links_renderer_checked": 0,
         "outgoing_local_links_not_checked": 0,
         "footnote_references_rendered": 2,
         "footnote_definitions_rendered": 2,
         "footnote_definitions_missing": 0,
-        "headings_rendered": 17,
+        "headings_rendered": 11,
         "markdown_image_embeds": 0,
         "html_image_embeds": 0,
         "legacy_html_anchor_tags": 0,
         "markdownlint": "passed_zero_violations",
         "markdown_render": "checked_all_local_links",
-        "size_bytes": 26386,
-        "sha256": "7ec399992a0fc8a2206bfb1db0cf3140e0a2a510f5a31dc2f30a677ca714d60b",
+        "size_bytes": 18349,
+        "sha256": "d6ca79c0625566220ea45aca4708ca737a9e871e1cd549fae4ccc124e9db20be",
         "incoming_links": "literal_world_filename_scan_only_not_exhaustive",
         "incoming_link_examples": [
           "world/PLACES.md",
@@ -4770,10 +4785,14 @@
         "full_source_claim_accuracy": "not_checked",
         "native_browser": "deferred_WCL-103",
         "open_questions": [
-          "The main source blocks run in reverse order S3E18 → S3E04 → S2E03 and much text is ALL-CAPS play-by-play, with no reader-first Introduction, progressive arc narrative and final Current status. Requires independent D-048 major-rewrite task and one exact D-052 pre-rewrite snapshot; do not fix during first-pass census.",
-          "S3E18 Ruby activation order and planetary restoration are observed but physical insertion is unshown; S3E11–S3E15 earlier Ruby remains unactivated, so do not retroactively claim it was already used. Survivors' liberation, Clench clearance, township governance, in-world Nash childhood story remain incomplete/attributed.",
-          "Footer pre77-scope metadata still says spoilers only through S3E14, despite body through S3E18; explicitly historic carried-forward metadata rather than current scope. Two footnote refs to two definitions valid; no comprehensive full-audio, factual or native-browser acceptance."
-        ]
+          "Chronological WCL-181 rewrite resolves reverse-order all-caps recap and gives latest explicit S3E18 status. Both original footnotes are cited and rendered, including the old S3E14 source-scope metadata now explicitly labelled historical only. 51/51 local links valid, 11 narrative headings and zero broken/escaped HTML; old section heading IDs changed (not preserved verbatim), but no incoming solar-mines.md# links found in scanned maintained world/narrative/episodes/project/reports; external bookmarks/browser unresolved.",
+          "The in-world origin account is Nash's memory, with additional creator comments not played flashback. The S3E10 GM-updated Ruby underground custody lacks an individually shown transfer from S3E09 wagon camp. Guards first ordered S3E13, actual S3E14 presence, still unactivated S3E15; S3E18 planetary revival is witnessed, Ruby insertion unshown. No complete mine rebuild, universal freeing, Clench cleared, stable government/casualty census or original audio verification.",
+          "D-052 one-time byte-exact original preserved at research/legacy/SOLAR_MINES_PRE_WCL181_2026-11-01.md (26,386 bytes, original SHA verified). Reader-first prose is source-limited and not independent full-canon/editorial native-browser acceptance."
+        ],
+        "pre_rewrite_snapshot": "research/legacy/SOLAR_MINES_PRE_WCL181_2026-11-01.md",
+        "pre_rewrite_snapshot_sha256": "7ec399992a0fc8a2206bfb1db0cf3140e0a2a510f5a31dc2f30a677ca714d60b",
+        "pre_rewrite_heading_count": 17,
+        "last_editorial_restructure": "WCL-181"
       }
     },
     {
@@ -4838,7 +4857,7 @@
         "source_lines_read": 111,
         "depicted_source_window": "E028–E054 Trashburg/Teet keep, undercity and Hope coronation; E055–E059 reform, disaster, Principal promise and actual returned Dusthill persons; E103–E104 court/rail fire and Carthax raid; E110–E111 ruined keep/rescue; E115–E117 displacement and Harbor; S3E18 performed restoration and damaged-city return",
         "source_window_note": "The place overview separates Teet keep from lower Trashburg, early gang politics, buried tiefling kingdom and attributed dynastic stories, actual E054 coronation, E055–E059 partial reform, E103 station fire, E104 Carthax attack, E110 observed occupation and E111 rescued parties, displaced refugees' later Harbor gathering, and S3E18 re-greened Earth with still-damaged T'ietkalla and Hope's actual return. Plans for rebuilding and social integration are explicitly not completed.",
-        "D048_structure": "reader_first_with_unrendered_legacy_html_anchors",
+        "D048_structure": "reader_first_all_ten_historical_fragment_ids_replaced_with_rendered_markdown_headings",
         "outgoing_local_links_total": 57,
         "outgoing_local_links_renderer_checked": 57,
         "outgoing_broken_links_renderer_checked": 0,
@@ -4846,14 +4865,14 @@
         "footnote_references_rendered": 8,
         "footnote_definitions_rendered": 7,
         "footnote_definitions_missing": 0,
-        "headings_rendered": 13,
+        "headings_rendered": 23,
         "markdown_image_embeds": 0,
         "html_image_embeds": 0,
-        "legacy_html_anchor_tags": 10,
+        "legacy_html_anchor_tags": 0,
         "markdownlint": "passed_zero_violations",
         "markdown_render": "checked_all_local_links",
-        "size_bytes": 20047,
-        "sha256": "0bd0ea2820eebed23765962124780ac5737e62928c279ca350863b850805f832",
+        "size_bytes": 19975,
+        "sha256": "b0dc515b764b1433adb579a425ce7f6cf121d2c5ec618e9846a485c080bbe13b",
         "incoming_links": "literal_world_filename_scan_only_not_exhaustive",
         "incoming_link_examples": [
           "world/PLACES.md",
@@ -4866,10 +4885,13 @@
         "full_source_claim_accuracy": "not_checked",
         "native_browser": "deferred_WCL-103",
         "open_questions": [
-          "Ten literal raw-HTML <a id> legacy named anchors are escaped text rather than functioning fragment targets in secure renderer; the 57/57 checked normal links do not certify those old identifiers. Search and preserve incoming fragments, then convert to functional Markdown-heading ID aliases under a dedicated D-048 follow-up.",
-          "Historical names/claim conflicts (Nobieri, Kefeli, Andreeste, Monsoon and dynastic right) remain explicitly interested or ASR-provisional. S3E18 confirms restored vegetation and a standing keep, not completed city rebuilding or finished representative administration.",
-          "Eight total rendered footnote references resolve to seven definitions (one repeated). Whole city history/source claims, original audio, all external bookmark backlinks and native browser not independently verified."
-        ]
+          "WCL-179 replaced all ten escaped literal <a id> anchors with native visible Markdown H3 headings, each verified against the precise historical fragment identifier in safe rendered HTML; all 13 previous heading IDs are still present, for 23 headings total. Scope included incoming fragment searches in world/narrative/episodes/project/reports; one project task-reference mention appeared, no known broken maintained source fragment consumers. Ordinary 57/57 local links and 8 references to seven definitions remain valid.",
+          "S3E18 physical return and re-greening remain separate from complete city rebuilding or settled governance; early clan/kingdom claims and disputed person names remain source-qualified. External bookmarks, original audio/full historical attestation and native browser WCL-103 not verified."
+        ],
+        "last_targeted_correction": "WCL-179",
+        "targeted_correction_validation": "scoped_markdownlint_all_local_links_safe_rendered_footnotes_exact_legacy_headings_sha256_readback",
+        "legacy_anchor_behavior": "ten_historical_fragment_ids_exactly_resolve_as_safe_markdown_headings",
+        "original_heading_fragment_ids_preserved": 13
       }
     },
     {

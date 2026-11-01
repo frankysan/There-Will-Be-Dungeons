@@ -2,17 +2,17 @@
 
 T'ietkalla rises above the lower settlement called **Trashburg**, with the fortress or **Teet keep** watching over its crowded, gang-contested streets. Beneath both lies the older tiefling kingdom whose forgotten chambers lead the companions into political struggle and, eventually, Hope's public coronation. Its communities suffer invasion and displacement before Earth's restoration gives its survivors a chance to return; the final city is still damaged, not rebuilt.[^naming][^early-sources]
 
-<a id="the-city-of-gangs-and-a-wedding"></a>
-
 ## The lower city and its keep
+
+### The city of gangs and a wedding
 
 The companions approach in **Fate 4**, encountering the music and mysteries of the oil sands, then enter **Trashburg** in E031. The settlement's poverty, local coercion and heavy security stand in sharp contrast with the fortress overlooking it. The **Guzzle Gang/Suck Master Din** exercises power from the keep while the **Twenty-Sixers** under **Monsoon Cabbage** and **Toe Rippers** compete below. **Charlemagne's lodging**, a Blood Ball stadium and training ground, the **Golden Gargoyle** music venue, a clandestine clinic, rival gang territories, and the so-called **Pixie Blush** trade all matter to the party.
 
 **Jolt's intended wedding** to a prince becomes a proposed point of entry. The party **trains for Blood Ball**, but a game is **not actually played** in the second arc. Nash meets the pixie **P0D**, who reports the exploitation of pixies in the drug trade; the group repeatedly discusses rescue but does not carry out the prepared full-scale pixie liberation route in Arc Two.
 
-<a id="the-pit-and-the-underground-kingdom"></a>
-
 ## The Pit and the buried kingdom
+
+### The Pit and the underground kingdom
 
 Escaping persecution, the party enters the **Pit of Despair**, a punitive vertical pit whose original froghemoth lives beside strange glowing spheres. **George Miller** descends with the party; **Diontalus kills him E045**. The lower oily cave network holds puddings, a singing self-styled river king, a basilisk later used in emergency restorative preparations, a skeleton with a **gag enchanted earring** and an undeciphered private paper, a riddle, enchanted beans and a skeleton-marked key. A **huge green beanstalk** opens an older upper entrance.
 
@@ -20,25 +20,25 @@ Beyond the hatch are **ancient tiefling skeletal remains, enchanted armor, a liv
 
 The old **pool/pipe/Gem of Tides** chamber is reached in E050. **Kefeli**, a woman with petrifying snake hair/gaze, claims legitimacy and says she transformed to protect subjects from an older vampire menace and **Andreeste**. **Hope and Vorel are temporarily petrified E051 and then restored in the same episode**, while Kefeli is petrified and destroyed. Her extraordinary powers are directly encountered; her historical justification, the complete royal genealogy, and the consequences of killing her remain **disputed testimony**.
 
-<a id="the-warehouse-disaster-and-the-siege"></a>
-
 ## Betrayal, the warehouse and the siege
+
+### The warehouse disaster and the siege
 
 A hidden **grain/food storeroom** hosts Jolt and Buttons' betrayal. **Monsoon's Order 26** causes P0D's unwilling giant transformation E049; **Vorel kills Buttons E049**, **Diontalus kills P0D E050**, and **Tedna, Dashington and Jolt** also die in the aftermath. The party retrieves the **Gem of Tides**. Nearby mechanical/stone-age and ancient chambers provide routes away from the violence.
 
 As the fight spreads, an enlarged multi-eyed **froghemoth** swallows the party, who navigate its digestive system. In E053 the froghemoth **splits**: the **upper cocoon-like portion flies away**, while the **lower portion falls into the desert and decomposes**. This must not be simplified to a witnessed extinction of the whole organism.
 
-<a id="the-changed-throne-at-e054"></a>
-
 ## Hope's coronation
+
+### The changed throne at E054
 
 The adventurers return on **Nash in young-black-dragon form**, finding **Trashburg devastated and keep walls breached**. Giant transformed pixies begin returning to ordinary size. The throne room contains **Monsoon** with a dead prince, restrained **Suck Master Din**, and **Angelashi alive as Lazlo's hostage**. Monsoon warns of a coming **Andreeste claim** before **escaping as mist**. The party directly **frees Angelashi alive**, superseding the earlier report of her death.
 
 The old elder **returns with hundreds of armed tieflings**; their acclamation and a black crown make **Hope's coronation public and real**. **Din is executed by Vorel at Hope's signal**. Leaders discuss security sweeps, farms, rebuilding, anti-human prejudice, an heir and the remaining Principal threat. **No completed months-long rebuilding or settled government has yet been played**. The original 1,000-soldier census and purported ancient sacrificial bargain remain unverified.
 
-<a id="location-index-inside-tietkalla"></a>
-
 ## Places within the city
+
+### Location index inside Tietkalla
 
 | Locality | Evidence and relation |
 | --- | --- |
@@ -52,31 +52,31 @@ The old elder **returns with hundreds of armed tieflings**; their acclamation an
 
 The lower town and the fortress are closely linked without being interchangeable; place names and the original map remain source-qualified.[^naming]
 
-<a id="three-months-of-rule-and-the-stone-storm--e055e056"></a>
-
 ## Hope's first months of rule
+
+### Three months of rule and the stone storm — E055E056
 
 About three months after Hope's coronation, T'ietkalla has a functioning queen's court, **repaired walls and vehicles**, a new **Tidebearer/Fishbird church**, and the **Golden Sands inn/adventurers' guild**, where Vorel and Bok Bok work. Hope attempts **merit-based offices, abolition of serf-like houseless status, plumbing/toilets and new defense orders**, provoking noble-house competition. The chief engineer reports serious **wood/stone/steel shortages**. Some reconstruction has occurred; the city is not yet a perfectly reformed or self-sufficient state. **Softhead** enters court as a **claimed envoy of the Principal**, offering trade and release of remaining Dusthill slaves, then **has his tongue removed at Hope's order but survives E055**; no returned prisoners or actual summit witnessed. A demon-invoking attacker later wounds Hope before being killed by guards. [E055](../../episodes/E055.md).
 
 A comet-like flash and **stone storm** strike the region. **E056 directly portrays civilian deaths**, panicked shelter movement and the party's attempted evacuation to sewers. Under the keep, **Nobiery stages a ritual in the old laboratory**, enabling Hope's ethereal encounter. **George and P0D appear as ghosts**, not living returned characters. **Vorel's aging is healed in E056**. Priestess **Emenil** reacts to secret Soulbroker/demonic contracts, and **Nobiery commands an undead Carnage to bite her at the cliffhanger**; her fate is **unknown at E056 cutoff**. **Quizquaz's theory** of a dragon struck from the sky and an Andreeste contractor is **interested testimony**, not site-confirmed explanation of the storm. [E056](../../episodes/E056.md).[^rule-notes]
 
-<a id="rail-diplomacy-and-returned-dusthill-survivors--e057e059"></a>
-
 ## Railway diplomacy and Dusthill survivors
+
+### Rail diplomacy and returned Dusthill survivors — E057E059
 
 **Emenil is bitten by a raised corpse but healed in E057**, and survives to attend the Principal's formal court visit in E058. The Principal **promises** construction materials and **released Dusthill slaves** while proposing **rail access, a small embassy and Steel God place of worship**, all of which raise security and sovereignty questions. Several identifiable Dusthill survivors later actually arrive—among them Talia, Bruce Bane, Shun'ti and Jimster—and are directed toward **Sand Sanctuary** screening. The government provisionally agrees to rail **in principle**, not to a railway already operating. **The Principal extracts Diontalus into a crystal and departs with it**; permanent imprisonment remains untested. [E057](../../episodes/E057.md) · [E058](../../episodes/E058.md) · [E059](../../episodes/E059.md).
 
-<a id="hopes-later-return-and-the-damaged-rail-network--e103"></a>
-
 ## Hope's return and the railway fire
+
+### Hope's later return and the damaged rail network — E103
 
 When Hope returns, she finds a **populated keep**, with a functioning **Golden Sands** (Bok Bok working), a **Fishbird church** and living tieflings. **Celibus Stump**, the former Slavetown businessman, has been appointed acting chancellor during Hope's absence and **dies upon her return**. A ***Speak with Dead*** answer claims **three months** have elapsed, rather than a new time jump invented by the editor. **Jimster and Emenil** report major house disagreements, Nobiery's departure from governance and **rail supply attacks**; **rumors of three vanished political opponents** remain unverified, not a known final casualty list.
 
 Hope and the new henchmen **actually ignite the temporarily closed, empty railway station**, using a magical arrow and ***Wall of Fire***; city residents rush to extinguish the blaze. The building is aflame and rail operations apparently disrupted at cutoff, but **repair, casualties, duration of service outage and citywide political fallout are not shown**. A **blue-white sky fissure** and new rains are visible/mentioned; exact cause unverified. [Dual-ASR](../../reports/E103_ASR_COMPARISON_2026-10-23.md).[^rail-notes]
 
-<a id="e104--carthaxs-invasion-and-hopes-escape"></a>
-
 ## Carthax attacks the city
+
+### E104 — Carthax's invasion and Hope's escape
 
 The burning station is reduced to **ash and rubble**; the Voice accepts that deed. **Omnom Cinderborn is physically present and alive**, reporting his failure to retake Razak Val. Hope publicly rejects further dealings with the Principal. Before she can settle affairs, **a floating castle and winged force attack**, burning streets and striking the keep with a meteor that brings down a tower. Hope and Dr. Spider direct residents toward shelter, while Steerious carries two tieflings. **Carthax breaches the courtyard as Hope's group escapes through a ring gate**; the two carried residents and Spatulo go too. Destination unseen. **Celibus's zombie is last encountered during evacuation**. The full casualty list, survival of Bok Bok/Emenil/Jimster/Omnom after the assault and extent of lasting city destruction remain unobserved. The Voice's anticipation is not proof he commanded the invaders. [E104](../../episodes/E104.md) · [comparison](../../reports/E104_ASR_COMPARISON_2026-10-23.md).
 
@@ -94,9 +94,9 @@ The burning station is reduced to **ash and rubble**; the Voice accepts that dee
 
 A group of those displaced later chooses a home in Elhandar's forest, [the Harbor](the-harbor.md). Its public naming is witnessed in [E117](../../episodes/E117.md); that is distinct from rebuilding the original city. The refugee report does not provide a complete tally of survivors.[^displacement]
 
-<a id="campaign-finale-s3e18--rebuilding-tietkalla-after-planetary-restoration"></a>
-
 ## Current status
+
+### Campaign finale S3E18 — Rebuilding Tietkalla after planetary restoration
 
 The planetary cure in the final played session **actually restores greenery, rain and forests to Earth**; it does not repair the city's buildings by itself. The **T'ietkalla keep remains standing**, while trees grow through ruins and the streets still need reconstruction. **Hope Akmenos returns as queen** to several dozen surviving tieflings, offering space to human refugees from the Solar Mines, dragonsons and some former Toyota Host members. These are plans and invitations, not proof that a rebuilt inclusive settlement is already complete. Stanley gives her the **Mask of Eltanfawr** and **Fate Six**; she transforms the head-worn mask into a crown and begins governing. **Monsoon Cabbage dies in sunlight** before the world's renewal, and Hope takes his helmet; he is not a participant in rebuilding.[^finale]
 

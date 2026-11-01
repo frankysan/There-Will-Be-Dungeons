@@ -2,6 +2,8 @@
 
 > **Canonical written name (D-044):** **Khaervilon**, owner-confirmed from the larger *Known Wastes* map. Earlier project/ASR variants `Kervalon`, `Kaer Valon`, `Caravalon`, `Caeravalon` and similar forms remain historical aliases rather than separate places; pronunciation has not been audio-verified. Discussed [E061](../../episodes/E061.md), reached physically [E067](../../episodes/E067.md). **Full spoilers through E081**.
 
+The party approaches **Khaervilon**, a contested border keep above the buried **CHIDS** research complex, after Sira's abduction. Their exploration moves from the keep's defended ruins to the Traversal Drive chamber below. **By the played E081 cutoff**, Sira and Eddie escape the machine's beam, Chance remains missing, and the GM declares the four protagonists dead after their sacrifice. The next episode follows their divergent fates in **Sigil**, not a witnessed return to inspect Khaervilon's final condition. [E067](../../episodes/E067.md) · [E081](../../episodes/E081.md) · [E082](../../episodes/E082.md).
+
 ## Earlier warnings and route
 
 In **E061**, a northern **Zark clan** envoy at Razak Val reports that **Khaervilon** is a defended area near the **Demon Vold** where wardens are losing fighters to demonic incursion. The envoy alleges a formidable enemy with a name reminiscent of **Dollo Poppio**. The party later learns guards attribute the tainted **Sun's Witnesses** delivery to the Zarks, prompting suspicion but **not proving every Zark deliberately caused the outbreak**. In **E064** Vorel and the group flee Razak Val amid transforming prisoners and six-armed lizardfolk, heading toward **Khaervilon** to seek explanations. **Omnom stays to fight**, taking the Necklace of Fireballs. [E061](../../episodes/E061.md) · [E064](../../episodes/E064.md).
@@ -44,17 +46,6 @@ The party descends the **failed laboratory elevator shaft** through **brain-back
 
 Behind the console a sealed room yields one **red/green paired-[portal device](../technology/portal-device.md)** after coordinating ancient controls. **Vorel first takes it, later transfers it to Hope**. **Cerinthala uses the recovered blue gem to apparently summon ice Toby, paralyzes Hope, and flees**; the heroes defeat Toby and **Stanley dispels a Wall of Ice**, but **do not recapture her**. **Nash destroys some bugbears with Fireball**, and E075 ends with **Vorel drawing a charge from around fifty bugbears and an illithid** while the others consider a portal escape. **The escape is still a plan, not an accomplished return to the surface**. [CHIDS](chids.md).
 
-## Open issues
-
-- **Khaervilon** is the confirmed written name (D-044); pronunciation remains unverified. Verify **Demon Vold**, **Oubvayx/Ovaxiad**, **Kazdejira/Kazdeshira**, and **Sergeant T'Lupa/Tulupa** against audio/creator-written sources.
-- **Keep location / Demon Vold portal:** do not collapse these into one structure merely because both concern the Zarks and demon invasion.
-- **Dragon's planet-moving-machine claim:** distinguish observed beam and supernatural conversation from verified engineering. Also keep alleged spectral travelers' **warp coil/ship** distinct from the supposed relocation machine.
-- **Sira:** abducted alive E066, **not rescued E067**; Follow and Rorf **die E066**.
-- **Ruin's defenders:** the previously motionless rampart lizardfolk **might be enthralled**, but the discovered underground guard's allegiance and consciousness are not yet established.
-- **Travel:** the ghost carriage disappears at Khaervilon E067; **Fate 4 is destroyed E066**, and **Fang Fate Five** is not physically carried through the densely packed forest.
-
-**Sources:** [E061](../../episodes/E061.md) · [E064](../../episodes/E064.md) · [E065](../../episodes/E065.md) · [E066](../../episodes/E066.md) · [E067](../../episodes/E067.md) · [E068](../../episodes/E068.md). **Related:** [Razak Val](razak-val.md) · [world overview](../WORLD.md) · [chronology](../CHRONOLOGY.md) · [review queue](../../project/REVIEW_QUEUE.md).
-
 ## Drive chamber and end-of-arc outcome (E076–E081)
 
 After E075's unfinished bugbear charge, the party **actually escapes by the red/green linked portal device in E076**, enters **CHIDS Containment**, and discovers experimental **lizardfolk vats, weapons, the living hive council and alleged future Wall Nash** in E077. The council supplies cache codes and **physically transports the adventurers near engineering in E078**, where they rescue **Chance and Eddie**. **E079's illithid disguise and Stanley/Hope Dimension Door plus portal crossing bypass a crystal lock**. The team physically sees the **Traversal Drive's transformed engineering chamber, central column, dragon-worm Dolo Popio, large commander illithid and a captive Sira**. Hope's opening rockets destroy several illithids and Cerinthala's observed body. In **E080 Nash kills the large commander**.
@@ -62,3 +53,20 @@ After E075's unfinished bugbear charge, the party **actually escapes by the red/
 The **starry-void battlefield in E080–E081** is strange and partly unexplained, but is **directly depicted**. **Chance drifts away and is not recovered**, **Hope kills Dolo Popio's manifested body with radiant darts E081**, and the group returns to engineering. **Sira physically leaves the central beam**, ending the prior abducted status. **Quizquaz** offers the heroes a chance to allow Earth to be destroyed, allegedly defeating the Principal, but they reject that offer. Instead **all four protagonists enter a high-frequency crimson beam together**, disappear, and **are explicitly declared dead by the GM at E081 cutoff**. **Eddie and Sira remain outside alive**; **Chance's ultimate destination, the heroes' permanent fate, and the planet/Drive's later condition are not shown**.
 
 These are **source-cutoff observations and explicitly attributed claims**, not proof of either the spectral dragon's ancient planet-relocation theory or Quizquaz's Void mechanics. [E076](../../episodes/E076.md)–[E081](../../episodes/E081.md) · [CHIDS](chids.md) · [Arc chronology](../CHRONOLOGY.md).
+
+## Current status and limits of observation
+
+**At the last witnessed Khaervilon/CHIDS site cutoff (E081)**, the four heroes have used the crimson beam and disappeared; the GM declares them dead. **Sira and Eddie are out of the beam alive**, while **Chance remains missing in the void**. The group did not perform a subsequent inspection of the ruined keep, the entire CHIDS facility or the final physical condition of the Traversal Drive. Quizquaz's claim about a planet-threatening energy source and the spectral dragon's account of an ancient planetary relocation device remain testimony; the actual intervention does not independently establish the machine's permanent shutdown or all of Earth's later history. [E081](../../episodes/E081.md).
+
+**After the E081 cutoff**, [E082](../../episodes/E082.md) depicts the protagonists' different consequences in Sigil: Vorel returns in a living body, Nash persists in a mechanical heart, and Hope and Stanley are found motionless. That episode does not depict a return to Khaervilon or establish Chance's fate. The earlier statement that **Sira had not been rescued at E067** is a true historical episode cutoff, **superseded by her observed E081 exit**, not a description of her current captivity.
+
+## Open issues
+
+- **Name and geography:** **Khaervilon** is the owner-confirmed map spelling (D-044); the existing `kervalon.md` path is retained for compatibility. Pronunciation and **Demon Vold**, **Oubvayx/Ovaxiad**, **Kazdejira/Kazdeshira**, **Sergeant T'Lupa/Tulupa** need original-audio or creator-written verification. The keep and any Demon Vold portal must not be assumed to be the same structure.
+- **Machine origins:** The dragon's supposed pre-Scorching planet-moving device, its alleged builder and Quizquaz's Void account are **attributed claims**. The skeletal travelers' purported warp coil and crashed ship are separate from the witnessed CHIDS Drive.
+- **Defenders and earlier tactics:** The motionless rampart guards' mental condition is unknown; the E068 sealed-corridor lizardfolk were not inspected after hammering stopped. A T. rex attack plan proposed before entering the keep was not executed at E067, although Vorel later underwent a real polymorph in E068.
+- **Travel and custody:** The spectral carriage disappears at the keep; Fate 4 is physically destroyed in E066, and the later Fang Fate Five cart is not shown being brought through the dense forest. Sira's earlier abduction ends with her E081 beam exit, but Chance remains unlocated.
+
+**Sources and navigation:** [E061](../../episodes/E061.md) · [E064](../../episodes/E064.md) · [E065](../../episodes/E065.md) · [E066](../../episodes/E066.md) · [E067](../../episodes/E067.md) · [E068](../../episodes/E068.md) · [E069](../../episodes/E069.md) · [E075](../../episodes/E075.md) · [E076](../../episodes/E076.md) · [E081](../../episodes/E081.md) · [E082](../../episodes/E082.md). **Related:** [Razak Val](razak-val.md) · [CHIDS](chids.md) · [world overview](../WORLD.md) · [chronology](../CHRONOLOGY.md) · [review queue](../../project/REVIEW_QUEUE.md).
+
+**Evidence status:** Episode dossiers and ASR-derived comparisons support this chronology, **not independently listened original audio**. Historical and current cutoffs should not be combined into an invented rescue, later engineering inspection or proof that ancient testimony is literally true.
