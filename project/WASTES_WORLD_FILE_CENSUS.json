@@ -1,0 +1,2505 @@
+{
+  "schema_version": 1,
+  "title": "Wastes world current-path census and per-file review dispositions",
+  "as_of_local_date": "2026-11-01",
+  "repository": "There Will Be Dungeons Transcripts",
+  "sampled_at_head": "a59a7e335a8de0322245015bb2ba305dd641be5b",
+  "authoritative_task_register": "project/WASTES_CLEANUP_TASKS.md",
+  "parent_task_id": "WCL-063",
+  "historic_baseline": "project/WASTES_CLEANUP_WORLD_WORKLIST_2026-10-27.json",
+  "provenance": "Live complete directory listings and current UTF-8 file reads; 2026-10-27 baseline retained unchanged. This file records per-file evidence/dispositions, NOT task completion or permission to publish.",
+  "review_policy": {
+    "pending_current_per_file_review": "Path existence accounted for only; no updated prose/source/link checks inferred from October 27 first-pass.",
+    "structural_and_outgoing_links_checked": "Read full current file, inspected presentation and source scope, performed offline renderer local-link check and Markdownlint; missing incoming-link map, direct original audio and full fact verification remain explicit.",
+    "observed_reader_subject": "Reader-first structural arrangement observed, not complete D-048/factual/audio acceptance.",
+    "observed_reader_index": "Reader navigation and closing notes observed, not comprehensive D-048 acceptance.",
+    "source_first_exception_candidate": "Source-led technical register; record as prospective functional exception, not automatically accepted or forced into subject prose.",
+    "needs_reader_first_review": "Current in-world/research structure does not yet demonstrate the reader-first historical-study introduction and legacy outcome; do not imply canon is deficient or edit during structural census.",
+    "technical_json_structure_checked": "Non-Markdown JSON was read to EOF and strictly parsed; checked internal schema, IDs, source scope, relations and local page references. Markdownlint, Markdown rendering, footnotes, and D-048 prose presentation are not applicable; no external web/audio or API compatibility verification is implied.",
+    "structural_with_partial_outgoing_links_checked": "Read full Markdown document, inspected structure/provenance, linted and rendered; local links checked only to the renderer's 100-link limit. Unchecked links remain explicitly outstanding, so this is not a full outgoing-link validation or D-048/audio acceptance.",
+    "structural_paths_verified_render_blocked": "Read full current Markdown, inspected structure/provenance and linted; safe Markdown render blocked. Every statically parsed link's local file target was existence-checked in bounded batches, but rendered navigation, fragments and browser behavior remain unverified. Never equate path existence with full renderer acceptance.",
+    "structural_renderer_checked_lint_blocked": "Complete current Markdown read and safe offline renderer checked all local links, but targeted markdownlint was blocked by a safety check. Do not claim lint success or bypass the block; native browser and source accuracy remain unverified."
+  },
+  "counts": {
+    "total": 146,
+    "historic_paths": 134,
+    "historic_retained": 134,
+    "added_since_baseline": 12,
+    "structural_and_outgoing_links_checked": 32,
+    "structural_with_partial_outgoing_links_checked": 5,
+    "structural_paths_verified_render_blocked": 1,
+    "structural_renderer_checked_lint_blocked": 1,
+    "technical_json_structure_checked": 1,
+    "pending_current_per_file_review": 106,
+    "by_domain": {
+      "world": 17,
+      "world/characters": 47,
+      "world/places": 19,
+      "world/technology": 23,
+      "world/creatures": 32,
+      "world/races": 8
+    }
+  },
+  "files": [
+    {
+      "path": "world/ANTAGONISTS.md",
+      "domain": "root",
+      "in_original_2026_10_27_worklist": true,
+      "review": {
+        "level": "structural_and_outgoing_links_checked",
+        "cohort": "WCL-131",
+        "purpose": "antagonist_reader_index",
+        "depicted_source_window": "E029 and earlier antagonists; final played S3E18; S3E019 cast commentary distinct",
+        "D048_structure": "observed_reader_index",
+        "outgoing_local_links_checked": 41,
+        "outgoing_broken_links": 0,
+        "footnote_references_rendered": 17,
+        "footnote_definitions_rendered": 17,
+        "size_bytes": 13526,
+        "sha256": "1d682e41185202007e095ced344886895893ef0eee647bd10e3b13a669ae4e39",
+        "incoming_links": "sampled_not_exhaustive",
+        "incoming_link_examples": ["world/README.md", "world/CHARACTERS.md", "world/FACTIONS_AND_POWERS.md", "world/characters/diontalus.md"],
+        "primary_audio": "not_checked",
+        "full_source_claim_accuracy": "not_checked",
+        "native_browser": "deferred_WCL-103",
+        "open_questions": ["role classification does not imply purely evil morality", "footnote apparatus is detailed/source-first as functional reference notes", "exact opening and terminal source windows not exhaustively checked across recordings"],
+        "source_window_note": "Current index article read in full; selected episode horizons are references, not independent full audio start/end determination"
+      }
+    },
+    {
+      "path": "world/CHARACTERS.md",
+      "domain": "root",
+      "in_original_2026_10_27_worklist": true,
+      "review": {
+        "level": "structural_and_outgoing_links_checked",
+        "cohort": "WCL-131",
+        "purpose": "character_companion_reader_index",
+        "depicted_source_window": "E000–S3E18 played; S3E019 Q&A identified as retrospective; E107–E109 prequel distinct",
+        "D048_structure": "observed_reader_index",
+        "outgoing_local_links_checked": 92,
+        "outgoing_broken_links": 0,
+        "footnote_references_rendered": 32,
+        "footnote_definitions_rendered": 32,
+        "size_bytes": 22442,
+        "sha256": "17f3a6c82f1c2f0df9b28039b096d624700244689cc80b999bb4a51c8cb8f012",
+        "incoming_links": "sampled_not_exhaustive",
+        "incoming_link_examples": [
+          "world/README.md",
+          "world/ANTAGONISTS.md",
+          "world/FACTIONS_AND_POWERS.md",
+          "world/CREATURES_AND_MONSTERS.md"
+        ],
+        "primary_audio": "not_checked",
+        "full_source_claim_accuracy": "not_checked",
+        "native_browser": "deferred_WCL-103",
+        "open_questions": [
+          "Some individual footnotes retain earlier research cutoffs (e.g. pre-finale S3E15) and must not imply a global subject ending",
+          "Alias spelling and every individual last disposition still require separate evidence review",
+          "Other inbound backlinks, quote claims and source horizon not exhaustive"
+        ],
+        "source_window_note": "Navigation/selected current and former subject outcomes inspected, not an independent exhaustive episode or audio census"
+      }
+    },
+    {
+      "path": "world/CHRONOLOGY.md",
+      "domain": "root",
+      "in_original_2026_10_27_worklist": true,
+      "review": {
+        "level": "structural_with_partial_outgoing_links_checked",
+        "cohort": "WCL-138",
+        "purpose": "canonical_episode_ordered_time_of_knowledge_chronology_technical_exception",
+        "depicted_source_window": "E000–E128 main Season One, S2E01–S2E12 and S3E01–S3E18 played; 11-arc reader edition. E107–E109 is an earlier in-world prequel; E013.5 a misplaced supplemental scene; E043 and E127 non-main one-offs; S3E019 cast Q&A is nonplayed.",
+        "D048_structure": "source_first_exception_candidate",
+        "source_window_note": "WCL-138 read the prior 302-line chronology; WCL-140 added two lines of explicit final-episode-first navigation, current length 304. Original episode evidence rows are unchanged. E000–E128, Season Two and S3E01–S3E15 rows remain in sequence; top-pinned S3E18/S3E17/S3E16 finale snapshots are reverse chronological, with in-page navigation to the main timeline and back. The separate E081 continuity table retains its sectional cutoff. Original audio remains unverified.",
+        "outgoing_local_links_total_reported": 316,
+        "outgoing_local_links_checked": 100,
+        "outgoing_broken_links": 0,
+        "outgoing_local_links_not_checked": 216,
+        "outgoing_link_check": "renderer_first_100_only_all_static_file_targets_and_heading_fragments_verified",
+        "followup_cohort": "WCL-140",
+        "outgoing_link_instances_static": 316,
+        "outgoing_distinct_file_paths_verified": 253,
+        "outgoing_file_target_instances_verified": 316,
+        "outgoing_fragment_anchors_verified": 7,
+        "outgoing_fragment_anchors_missing": 0,
+        "renderer_local_links_checked": 100,
+        "renderer_local_links_not_checked": 216,
+        "source_lines_current": 304,
+        "footnote_references_rendered": 0,
+        "footnote_definitions_rendered": 0,
+        "markdown_image_embeds": 0,
+        "html_image_embeds": 0,
+        "headings": "1 H1 and 14 rendered H2 sections; no H3. Heading fragments rendered by offline preview; full native browser inspection deferred.",
+        "size_bytes": 188962,
+        "sha256": "2efb5585a4b8276b72bf7ca7c55e557446ed67da2ea77f361abe87e96c317095",
+        "historical_preserved_files": [
+          "research/legacy/2026-10-22/CHRONOLOGY_PRE_SECOND_ARC_CONSOLIDATION.md",
+          "research/legacy/2026-10-22/WORLD_CHRONOLOGY.md"
+        ],
+        "incoming_links": "sampled_not_exhaustive_search_truncated",
+        "incoming_link_examples": [
+          "world/README.md",
+          "world/WORLD.md",
+          "world/PLACES.md",
+          "world/HISTORICAL_EVENTS.md",
+          "world/HISTORY_TIETKALLA.md",
+          "world/HISTORY_CHIDS_DRIVE.md",
+          "world/CONSISTENCY_LEDGER.md"
+        ],
+        "primary_audio": "not_checked",
+        "full_source_claim_accuracy": "not_checked",
+        "native_browser": "deferred_WCL-103",
+        "open_questions": [
+          "Renderer still checks only first 100/316 local links and leaves 216 unchecked visually; independent static checks verified all 316 links point to 253 existing local file targets and all seven heading fragments have matching renderer IDs. Native browser behavior and link semantics remain unverified.",
+          "The new first-screen navigation explains the top-pinned, reverse-order S3E18–S3E16 snapshot and links to chronological sections. Actual reader usability and native-browser scrolling remain deferred WCL-103.",
+          "Title and complete-campaign horizon coexist with sectional legacy cutoff 'Third-arc ... E081'; keep scoped, avoid implying E081 is the entire document's latest episode.",
+          "The navigational display label now uses owner-confirmed T\u0027ietkalla under D-044, but legacy source quotations and other older written references across the chronology were not globally normalized.",
+          "Historically preserved files exist and were hashed; current claims, separate publication dates, authoritative audio and all inbound references have not been exhaustively verified."
+        ]
+      }
+    },
+    {
+      "path": "world/CONSISTENCY_LEDGER.md",
+      "domain": "root",
+      "in_original_2026_10_27_worklist": true,
+      "review": {
+        "level": "structural_paths_verified_render_blocked",
+        "cohort": "WCL-139",
+        "editorial_followup": "WCL-142 (2026-11-01): corrected only active place.tietkalla spelling policy to recognize later owner D-044 while retaining historical D-027 evidence, aliases, and original quoted spellings. Recounted 510 local link instances to unchanged 280 existing targets; no renderer/browser, audio, or substantive source claims accepted.",
+        "purpose": "canonical_active_uncertainties_and_resolutions_evidence_ledger_not_task_status_or_episode_chronology",
+        "depicted_source_window": "Episode/cutoff assessments across E000–E128, S2E01–S2E12 and S3E01–S3E18; E107–E109 prequel and multiple retrospective cast Q&As separately labeled. Later chapters add ASR-based evidence, not independent original audio.",
+        "D048_structure": "source_first_exception_candidate",
+        "source_window_note": "Full current 914-line technical/evidence ledger read to EOF. Unlike CHRONOLOGY.md this is a source cutoff, disputed-claim, entity spelling and item custody register; unlike WASTES_CLEANUP_TASKS.md its rows are in-story/source review issues, not WCL checkboxes. Top pins S3E18–S3E10 and maintains separate chronological/historical section keys; closure guidance explicitly distinguishes owner-confirmed display spelling, ASR source cutoffs, open audio/orthography, open lore, and unverified custody/mechanics.",
+        "markdownlint": "passed_zero_violations",
+        "markdown_render": "blocked_by_safety_check_not_validated",
+        "outgoing_markdown_link_instances_static": 510,
+        "outgoing_distinct_local_file_paths": 280,
+        "outgoing_distinct_local_file_paths_verified_exists": 280,
+        "outgoing_link_target_files_missing": 0,
+        "outgoing_link_instances_path_resolvable": 510,
+        "outgoing_fragments_present": 0,
+        "outgoing_link_check": "full_file_path_existence_only_via_six_bounded_batches_no_rendered_click_or_visual_checks",
+        "footnote_references_in_source": 0,
+        "footnote_definitions_in_source": 0,
+        "footnote_render": "not_checked_renderer_blocked",
+        "markdown_image_embeds": 0,
+        "html_image_embeds": 0,
+        "heading_count_static": 61,
+        "table_row_count_static": 423,
+        "first_column_backtick_issue_keys_count": 317,
+        "first_column_backtick_issue_keys_unique": 317,
+        "review_needed_markers": 3,
+        "size_bytes": 316680,
+        "sha256": "077c1f78fb84b223061fa132e54043a2751a3f460ac01b4289fc5d240a049677",
+        "historical_preserved_files": [
+          "research/legacy/2026-10-22/CONSISTENCY_LEDGER_PRE_SECOND_ARC_CONSOLIDATION.md",
+          "research/legacy/2026-10-22/WORLD_CONSISTENCY_LEDGER.md",
+          "research/legacy/2026-10-22/PROJECT_REVIEW_QUEUE.md"
+        ],
+        "incoming_links": "sampled_not_exhaustive_search_truncated",
+        "incoming_link_examples": [
+          "world/README.md",
+          "world/CHRONOLOGY.md",
+          "world/HISTORY_TIETKALLA.md",
+          "world/HISTORY_CHIDS_DRIVE.md",
+          "world/ANTAGONISTS.md",
+          "world/WORLD.md",
+          "world/characters/alvert.md"
+        ],
+        "primary_audio": "not_checked",
+        "full_source_claim_accuracy": "not_checked",
+        "native_browser": "deferred_WCL-103",
+        "open_questions": [
+          "The preview renderer call was blocked by a safety check. No rendered heading layout, anchor, inline-link behavior, footnote appearance or native-browser acceptance verified; a separate bounded render/fragment follow-up is required.",
+          "Every one of 280 distinct decoded local target file paths exists, covering 509 static Markdown link instances, but destination contents, link semantics and visible navigation were not independently checked.",
+          "WCL-142 updated the single place.tietkalla decision-summary row: owner D-044 now governs curated T'ietkalla display while D-027 remains provenance for older Tietkalla; immutable original quotations, aliases, file slug and audio-verification limits preserved. Native HTML rendering remains blocked and not accepted.",
+          "Source tracking warns 131 E055–E081 historical issue rows preserved in archives; absence of a former key in the shorter active table must not be treated as resolved. The exact 317 first-cell keyed rows have unique first IDs only, not a proof of full alias/semantic uniqueness.",
+          "Three [[review-needed:...]] markers remain source uncertainties: Wish recovery days; Banishment concentration rounds; S3E15 Fireballs versus S3E16 resistance/GM error. These are not cleared by spelling, parser or path checks.",
+          "No original listening, full evidence-claim audit, downstream consumer integration, complete incoming backlinks or native-browser verification has been performed."
+        ]
+      }
+    },
+    {
+      "path": "world/CREATURES_AND_MONSTERS.md",
+      "domain": "root",
+      "in_original_2026_10_27_worklist": true,
+      "review": {
+        "level": "structural_and_outgoing_links_checked",
+        "cohort": "WCL-131",
+        "purpose": "creature_monster_reader_index",
+        "depicted_source_window": "Mostly E000–E128-era creature research; added S3E03 mind fluff and S3E05 Slow Peters",
+        "D048_structure": "observed_reader_index",
+        "outgoing_local_links_checked": 50,
+        "outgoing_broken_links": 0,
+        "footnote_references_rendered": 1,
+        "footnote_definitions_rendered": 1,
+        "size_bytes": 8668,
+        "sha256": "2c5e37a7bfeac8f1c6da138960be1a213ee1ef02d7bae08418049c6b2e8587a1",
+        "incoming_links": "sampled_not_exhaustive",
+        "incoming_link_examples": [
+          "world/README.md",
+          "world/RACES.md"
+        ],
+        "primary_audio": "not_checked",
+        "full_source_claim_accuracy": "not_checked",
+        "native_browser": "deferred_WCL-103",
+        "open_questions": [
+          "Opening still uses noncanonical unapostrophized Tietkalla instead of owner-approved T'ietkalla",
+          "Closing scope note says compiled within E128 research horizon although index also includes S3E03 and S3E05 entries",
+          "Mind fluff/Slow Peters entries are index-only, requiring later category or subject scope review",
+          "Direct evidence of species-wide intelligence and remaining inbound backlinks not checked"
+        ],
+        "source_window_note": "Full index inspected; recorded mixed subject-era coverage, not a definitive first/last appearance for every beast or sentry"
+      }
+    },
+    {
+      "path": "world/ENTITY_SCHEMA.md",
+      "domain": "root",
+      "in_original_2026_10_27_worklist": true,
+      "review": {
+        "level": "structural_and_outgoing_links_checked",
+        "cohort": "WCL-136",
+        "purpose": "machine_readable_entity_schema_convention",
+        "depicted_source_window": "v1 E000/E001 pilot and v2 2026-10-31 cited-episode race_culture addition; editorial contract, not an episode narrative",
+        "D048_structure": "source_first_exception_candidate",
+        "outgoing_local_links_checked": 6,
+        "outgoing_broken_links": 0,
+        "footnote_references_rendered": 0,
+        "footnote_definitions_rendered": 0,
+        "markdown_image_embeds": 0,
+        "html_image_embeds": 0,
+        "size_bytes": 5202,
+        "sha256": "d92dc8194c5f8d6a832889e3fd61d6346197874a67902d6eaea84b0caa45a51e",
+        "incoming_links": "sampled_not_exhaustive",
+        "incoming_link_examples": [
+          "world/README.md",
+          "world/RACES.md"
+        ],
+        "source_window_note": "Entire 29-line schema read; contract distinguishes stable ID from display name/aliases, seven allowed types, five name statuses, episode/time/evidence class, source-limited questions, optional page_path and directed relations; v2 is additive, non-exhaustive, original written canonical decisions remain separate from actual audio spelling verification",
+        "open_questions": [
+          "The schema's 2026-10-31 sentence calling Harlequinari a research candidate is ambiguous now that an independent narrative people profile exists; still not represented in the two-race machine pilot—reconcile in WCL-133 without enlarging JSON",
+          "Claim that 16 original v1 records remain unchanged is documented in schema and compatible with present count/order, but an exact v1-byte comparison was not independently performed during this review",
+          "Entity schema is a functional technical reference exception, not a story-first history; external evidence URLs and complete incoming graph not independently fetched or validated"
+        ],
+        "primary_audio": "not_checked",
+        "full_source_claim_accuracy": "not_checked",
+        "native_browser": "deferred_WCL-103"
+      }
+    },
+    {
+      "path": "world/FACTIONS_AND_POWERS.md",
+      "domain": "root",
+      "in_original_2026_10_27_worklist": true,
+      "review": {
+        "level": "structural_and_outgoing_links_checked",
+        "cohort": "WCL-131",
+        "purpose": "factions_institutions_reader_index",
+        "depicted_source_window": "E010–S3E15 shown directly; S3E18 final consequences not integrated in active cutoff",
+        "D048_structure": "observed_reader_index",
+        "outgoing_local_links_checked": 51,
+        "outgoing_broken_links": 0,
+        "footnote_references_rendered": 9,
+        "footnote_definitions_rendered": 9,
+        "size_bytes": 11789,
+        "sha256": "eef3c2f5c23a24ee2e6a8ae20ecb23a1b84820a938396ce382b8932acbabff98",
+        "incoming_links": "sampled_not_exhaustive",
+        "incoming_link_examples": [
+          "world/README.md",
+          "world/RACES.md",
+          "world/ANTAGONISTS.md",
+          "world/CHARACTERS.md"
+        ],
+        "primary_audio": "not_checked",
+        "full_source_claim_accuracy": "not_checked",
+        "native_browser": "deferred_WCL-103",
+        "open_questions": [
+          "Active project-notes cutoff explicitly remains researched S3E15 despite final S3E18, requiring distinct future postwar state assessment",
+          "Index's Principal/Soulbroker/Elhandari war-phase descriptions reflect interim episodes and should not be misconstrued as final regime status",
+          "Research-heavy footnotes and direct source column are functional indexing but not automatically full D-048 acceptance",
+          "Unresolved source attribution and missing inbound backlinks need later validation"
+        ],
+        "source_window_note": "Current table and detailed footnotes read, covering selective military events rather than comprehensive S3E18 faction outcomes"
+      }
+    },
+    {
+      "path": "world/HISTORICAL_EVENTS.md",
+      "domain": "root",
+      "in_original_2026_10_27_worklist": true,
+      "review": {
+        "level": "structural_and_outgoing_links_checked",
+        "cohort": "WCL-132",
+        "purpose": "historical_events_reader_index",
+        "depicted_source_window": "Ancient disputed history and main played events only through E128 (end of Season One); E107–E109 separate older prequel; later seasons not incorporated into this index",
+        "D048_structure": "observed_reader_index",
+        "outgoing_local_links_checked": 49,
+        "outgoing_broken_links": 0,
+        "footnote_references_rendered": 0,
+        "footnote_definitions_rendered": 0,
+        "size_bytes": 5604,
+        "sha256": "7cc6f3969fe3e9554f09e4706def20af8601bc920e690e773c218ccd46dbac1c",
+        "incoming_links": "sampled_not_exhaustive",
+        "incoming_link_examples": [
+          "world/README.md",
+          "world/PLACES.md",
+          "world/FACTIONS_AND_POWERS.md",
+          "world/CHRONOLOGY.md",
+          "world/HISTORY_ANCIENT_CATASTROPHE.md"
+        ],
+        "primary_audio": "not_checked",
+        "full_source_claim_accuracy": "not_checked",
+        "native_browser": "deferred_WCL-103",
+        "markdown_image_embeds": 0,
+        "html_image_embeds": 0,
+        "open_questions": [
+          "This index openly ends at E128, leaving S2 and S3 turning points unindexed here despite the completed S3E18 campaign; assess complementary timeline before expanding",
+          "T'ietkalla display spelling appears without the owner-approved apostrophe in two descriptive/link labels; preserve path/slugs",
+          "Ancient chronologies remain disputed testimony, not measured dates; do not turn narrative summary into certified historical fact",
+          "Full incoming links and historical chronology crosswalk unverified"
+        ],
+        "source_window_note": "Full 38-line page read; clearly stated E128 scope is accurate for existing entries but not complete campaign coverage"
+      }
+    },
+    {
+      "path": "world/HISTORY_ANCIENT_CATASTROPHE.md",
+      "domain": "root",
+      "in_original_2026_10_27_worklist": true,
+      "review": {
+        "level": "structural_and_outgoing_links_checked",
+        "cohort": "WCL-135",
+        "purpose": "ancient_history_thematic_study",
+        "depicted_source_window": "E000 GM prologue; observed E003–E008 ruins and E067–E081 CHIDS encounters; retrospective E118 journal; no securely measured prehistoric calendar",
+        "D048_structure": "needs_reader_first_review",
+        "outgoing_local_links_checked": 17,
+        "outgoing_broken_links": 0,
+        "footnote_references_rendered": 0,
+        "footnote_definitions_rendered": 0,
+        "size_bytes": 2128,
+        "sha256": "d39439073b86160e800d713f6d43ee4a63cc904fda9403b2638d849d8c05b0f5",
+        "incoming_links": "sampled_not_exhaustive",
+        "incoming_link_examples": [
+          "world/README.md",
+          "world/HISTORICAL_EVENTS.md",
+          "world/CHRONOLOGY.md",
+          "world/WORLD.md",
+          "world/places/leopold-facility.md"
+        ],
+        "markdown_image_embeds": 0,
+        "html_image_embeds": 0,
+        "legacy_headings": "No previous rewriting-era heading aliases observed in this current file; native-browser fragment behavior not checked",
+        "source_window_note": "Current 17-line thematic article read in full; old advanced civilization and Scorching claims distinguish E000 GM prologue from later interested testimony; source links present inline rather than footnotes",
+        "open_questions": [
+          "First screen is browse/research metadata before story rather than a developed reader-first historical introduction; article ends in an Open list and lacks Lasting legacy",
+          "Older Tietkalla and Principle display spellings appear in unquoted current prose; D-044 spellings need a separately scoped pass",
+          "Competing claims about Scorching, gate builders, anti-dragon projects, planet-moving device and Weir remain unverified; full campaign history not synthesized here",
+          "Direct audio and full first/last sources, incoming backlinks and D-048 compliance remain unverified"
+        ],
+        "primary_audio": "not_checked",
+        "full_source_claim_accuracy": "not_checked",
+        "native_browser": "deferred_WCL-103"
+      }
+    },
+    {
+      "path": "world/HISTORY_CHIDS_DRIVE.md",
+      "domain": "root",
+      "in_original_2026_10_27_worklist": true,
+      "review": {
+        "level": "structural_and_outgoing_links_checked",
+        "cohort": "WCL-135",
+        "purpose": "chids_institutional_and_drive_crisis_history",
+        "depicted_source_window": "E067–E082 investigation, Drive activation and immediate Sigil aftermath; S3E18 Earth restoration mentioned only as later contextual consequence",
+        "D048_structure": "observed_reader_subject",
+        "outgoing_local_links_checked": 31,
+        "outgoing_broken_links": 0,
+        "footnote_references_rendered": 10,
+        "footnote_definitions_rendered": 9,
+        "size_bytes": 9363,
+        "sha256": "aaebb96688f7a9daf5ae07d08720fbf7165fbb68d059d040e96e282f1ddcb539",
+        "incoming_links": "sampled_not_exhaustive",
+        "incoming_link_examples": [
+          "world/README.md",
+          "world/HISTORICAL_EVENTS.md",
+          "world/PLACES.md",
+          "world/CHRONOLOGY.md",
+          "world/FACTIONS_AND_POWERS.md",
+          "world/characters/nash-maggard.md"
+        ],
+        "markdown_image_embeds": 0,
+        "html_image_embeds": 0,
+        "historical_before_state": "research/legacy/HISTORY_CHIDS_DRIVE_PRE_WCL122_2026-10-31.md",
+        "legacy_headings": "All three former H2 heading fragments still exist as matching current rendered H2 IDs; former H1 ID is represented by raw HTML alias, escaped/uncertified by offline renderer. Native-browser check remains deferred WCL-103",
+        "source_window_note": "Current 49-line reader-first study read in full. 10 footnote uses against 9 definitions because [^legacy] cited twice; all definitions render without missing targets. E081 death and E082 bodily states are separate observed cutoffs",
+        "open_questions": [
+          "The GM E081 death statement is historical episode cutoff and not later permanent death; E082 returns differ by character",
+          "CHIDS claims of species engineering, human minds in hive and GR0X1 origins remain interested institutional/other witness testimony",
+          "S3E18 physical Earth restoration cannot establish that the Traversal Drive was disabled, dismantled or fully understood",
+          "Former H1 raw HTML legacy alias requires future native/browser anchor verification; original audio, full backlinks and ultimate site status remain open"
+        ],
+        "primary_audio": "not_checked",
+        "full_source_claim_accuracy": "not_checked",
+        "native_browser": "deferred_WCL-103"
+      }
+    },
+    {
+      "path": "world/HISTORY_TIETKALLA.md",
+      "domain": "root",
+      "in_original_2026_10_27_worklist": true,
+      "review": {
+        "level": "structural_and_outgoing_links_checked",
+        "cohort": "WCL-135",
+        "purpose": "tietkalla_political_social_history",
+        "depicted_source_window": "Material ancient city history E047–E051; E031–E059 rulership; E103–E118 invasion/Harbor; S3E18 played Earth restoration, Hope returns",
+        "D048_structure": "observed_reader_subject",
+        "outgoing_local_links_checked": 32,
+        "outgoing_broken_links": 0,
+        "footnote_references_rendered": 10,
+        "footnote_definitions_rendered": 10,
+        "size_bytes": 8312,
+        "sha256": "a13d9125f8d9c79fc7ec5976d2fbfda8bd55aad10701fe6f3696c592ea0e6dda",
+        "incoming_links": "sampled_not_exhaustive",
+        "incoming_link_examples": [
+          "world/README.md",
+          "world/HISTORICAL_EVENTS.md",
+          "world/PLACES.md",
+          "world/CHRONOLOGY.md",
+          "world/FACTIONS_AND_POWERS.md",
+          "world/characters/hope-akmenos.md"
+        ],
+        "markdown_image_embeds": 0,
+        "html_image_embeds": 0,
+        "historical_before_state": "research/legacy/HISTORY_TIETKALLA_PRE_WCL121_2026-10-31.md",
+        "legacy_headings": "Four former H2 fragments are retained as raw HTML <a id> tags before replacement headings; renderer escapes/displays raw HTML and cannot certify active browser anchor compatibility; native-browser test deferred WCL-103",
+        "source_window_note": "Full 57-line reader-first political study with ten footnote definitions; ancient pact and succession presented as competing interested claims, finale place restoration as observed but city rebuilding prospective",
+        "open_questions": [
+          "Lasting legacy retains destroyed streets, a standing keep and newly returning Hope; rebuilding and political reconciliation not completed",
+          "Kefeli, Nobieri, Monsoon and Omnom offer differing testimony and casualty estimates unresolved",
+          "Four legacy raw HTML fragment aliases may not work with the safe offline Markdown renderer; test in native GitHub/browser only when WCL-103 is resumed",
+          "Place/character article crosswalk and comprehensive incoming backlinks not independently verified"
+        ],
+        "primary_audio": "not_checked",
+        "full_source_claim_accuracy": "not_checked",
+        "native_browser": "deferred_WCL-103"
+      }
+    },
+    {
+      "path": "world/ITEMS_AND_ARTIFACTS.md",
+      "domain": "root",
+      "in_original_2026_10_27_worklist": true,
+      "review": {
+        "level": "structural_and_outgoing_links_checked",
+        "cohort": "WCL-132",
+        "purpose": "artifacts_custody_reader_index",
+        "depicted_source_window": "Selected object and custody studies E050–S3E15, with explicitly limited S3E16–S3E18 finale-status updates",
+        "D048_structure": "observed_reader_index",
+        "outgoing_local_links_checked": 99,
+        "outgoing_broken_links": 0,
+        "footnote_references_rendered": 43,
+        "footnote_definitions_rendered": 43,
+        "size_bytes": 61682,
+        "sha256": "22ba59bf9ce0a74755b2c3a32574e92c24ad4d96539cff5c7f45a93393425958",
+        "incoming_links": "sampled_not_exhaustive",
+        "incoming_link_examples": [
+          "world/README.md",
+          "world/FACTIONS_AND_POWERS.md",
+          "world/PLACES.md",
+          "world/WORLD.md"
+        ],
+        "primary_audio": "not_checked",
+        "full_source_claim_accuracy": "not_checked",
+        "native_browser": "deferred_WCL-103",
+        "markdown_image_embeds": 0,
+        "html_image_embeds": 0,
+        "open_questions": [
+          "Finite Heroes' Feast bowls, crossbows and Mask/Fate Six handovers have differentiated observed versus intended custody; terminal all-object inventory is not independently exhaustive",
+          "The Eye of the Voice remains unverified as a possessed object; other objects have unresolved final ownership",
+          "99 local links are below the offline renderer's 100-link limit, so this check covered all reported local targets; inbound/semantic source checks remain open",
+          "Some technical equipment and source-first registers are purposeful research exceptions, not grounds to force every item into narrative prose"
+        ],
+        "source_window_note": "Current 103-line overview read, covering selected object history, not a verified exhaustive inventory or first/last appearance census"
+      }
+    },
+    {
+      "path": "world/PLACES.md",
+      "domain": "root",
+      "in_original_2026_10_27_worklist": true,
+      "review": {
+        "level": "structural_and_outgoing_links_checked",
+        "cohort": "WCL-132",
+        "purpose": "places_geography_reader_index",
+        "depicted_source_window": "Selected histories from E003 through S3E15; specific S3E18 finales for Razak Val, Fate Six, Solar Mines, Planet Nash and T'ietkalla; E107–E109 historical prequel treated separately",
+        "D048_structure": "observed_reader_index",
+        "outgoing_local_links_checked": 92,
+        "outgoing_broken_links": 0,
+        "footnote_references_rendered": 15,
+        "footnote_definitions_rendered": 15,
+        "size_bytes": 21195,
+        "sha256": "26b6f52576fa84c3d38a2bdc0a451b1c6b089d3ead67c50e359b85d7c43d6dca",
+        "incoming_links": "sampled_not_exhaustive",
+        "incoming_link_examples": [
+          "world/README.md",
+          "world/FACTIONS_AND_POWERS.md",
+          "world/WORLD.md",
+          "world/CHRONOLOGY.md"
+        ],
+        "primary_audio": "not_checked",
+        "full_source_claim_accuracy": "not_checked",
+        "native_browser": "deferred_WCL-103",
+        "markdown_image_embeds": 0,
+        "html_image_embeds": 0,
+        "open_questions": [
+          "Planet Nash and the S3E18 retired-family home are currently index/episode-backed; dedicated place treatment remains WCL-064, not a page fabricated during census",
+          "Several location entries have earlier scene-specific source cutoffs; the final events added for selected entries do not make all destinations finale-verified",
+          "Routed map/arrival and destination identity ambiguities remain, including some Mars locations and S3E18 proposed rebuilding",
+          "Full incoming-link graph, exact first/last source and all audio claims unverified"
+        ],
+        "source_window_note": "Full 97-line current location directory read; per-entry source bounds deliberately nonuniform"
+      }
+    },
+    {
+      "path": "world/RACES.md",
+      "domain": "root",
+      "in_original_2026_10_27_worklist": false,
+      "review": {
+        "level": "structural_and_outgoing_links_checked",
+        "cohort": "WCL-130",
+        "purpose": "reader_index",
+        "depicted_source_window": "Wastes range; E013–S3E18 played evidence, S3E019 retrospective",
+        "source_window_note": "Article/overview coverage as read; not an independently auditioned first/last appearance across all audio",
+        "D048_structure": "observed_reader_index",
+        "outgoing_local_links_checked": 33,
+        "outgoing_broken_links": 0,
+        "footnote_references_rendered": 0,
+        "footnote_definitions_rendered": 0,
+        "size_bytes": 4934,
+        "sha256": "7e425b0b7a7f2ca95cc150f0606f6e634087ed3d9ed402a52f96304c0132b1f0",
+        "incoming_links": "not_checked",
+        "primary_audio": "not_checked",
+        "full_source_claim_accuracy": "not_checked",
+        "native_browser": "deferred_WCL-103",
+        "open_questions": [
+          "Lactids remain an open research candidate",
+          "entities.json is a two-people pilot; not a complete graph"
+        ]
+      }
+    },
+    {
+      "path": "world/README.md",
+      "domain": "root",
+      "in_original_2026_10_27_worklist": true,
+      "review": {
+        "level": "structural_and_outgoing_links_checked",
+        "cohort": "WCL-131",
+        "purpose": "world_navigation_portal",
+        "depicted_source_window": "E000–S3E18 main campaign; E107–E109 prequel; S3E019 Q&A separate",
+        "D048_structure": "observed_reader_index",
+        "outgoing_local_links_checked": 84,
+        "outgoing_broken_links": 0,
+        "footnote_references_rendered": 0,
+        "footnote_definitions_rendered": 0,
+        "size_bytes": 7676,
+        "sha256": "b0b8e4b745db4f6a57d7d4fa17f0becbd1b269781ae1ca95cd87e88b1477041b",
+        "incoming_links": "sampled_not_exhaustive",
+        "incoming_link_examples": [
+          "narrative/README.md",
+          "narrative/ARC_FOUR.md",
+          "world/ANTAGONISTS.md"
+        ],
+        "primary_audio": "not_checked",
+        "full_source_claim_accuracy": "not_checked",
+        "native_browser": "deferred_WCL-103",
+        "open_questions": [
+          "Sources and project notes paragraph still says only Lizardfolk/Tieflings have race pages and Harlequinari lacks one; current Races directory has eight profiles",
+          "Index's summary of continued cleanup and historical arc route must remain aligned with completed eleven-arc private edition",
+          "Other inbound backlinks, named aliases and audio completeness unverified"
+        ],
+        "source_window_note": "Whole portal read, historical and finale coverage noted; dates do not prove full source-by-source factual acceptance"
+      }
+    },
+    {
+      "path": "world/WORLD.md",
+      "domain": "root",
+      "in_original_2026_10_27_worklist": true,
+      "review": {
+        "level": "structural_and_outgoing_links_checked",
+        "cohort": "WCL-132",
+        "purpose": "world_systems_reader_overview",
+        "depicted_source_window": "Foundational E000 to E124 research, with selected E122 and played S3E17–S3E18 Earth-restoration consequences; separately attributed creator retrospectives",
+        "D048_structure": "observed_reader_index",
+        "outgoing_local_links_checked": 59,
+        "outgoing_broken_links": 0,
+        "footnote_references_rendered": 8,
+        "footnote_definitions_rendered": 8,
+        "size_bytes": 15884,
+        "sha256": "c7a17e597d132d4f74bdc64eb8158a963372ebd8c924b3b0272205a1bbbd1be0",
+        "incoming_links": "sampled_not_exhaustive",
+        "incoming_link_examples": [
+          "world/README.md",
+          "world/ANTAGONISTS.md",
+          "world/FACTIONS_AND_POWERS.md",
+          "world/ITEMS_AND_ARTIFACTS.md"
+        ],
+        "primary_audio": "not_checked",
+        "full_source_claim_accuracy": "not_checked",
+        "native_browser": "deferred_WCL-103",
+        "markdown_image_embeds": 0,
+        "html_image_embeds": 0,
+        "open_questions": [
+          "Research synthesized through E124 with selected finale update, not all systems or societies certified current to S3E18",
+          "Ancient catastrophe cosmology and black-dragon Weir account require speaker/source attribution, not objective assumption",
+          "Final Earthwide magic consequences distinguish Earth from offworld; long-term global permanence is not confirmed",
+          "Unverified later political systems, missing original-audio/entire backlink coverage remain open"
+        ],
+        "source_window_note": "Full current 64-line world systems page read; in-world intro and closing project notes observed"
+      }
+    },
+    {
+      "path": "world/characters/alvert.md",
+      "domain": "characters",
+      "in_original_2026_10_27_worklist": true,
+      "review": {
+        "level": "pending_current_per_file_review"
+      }
+    },
+    {
+      "path": "world/characters/angelashi.md",
+      "domain": "characters",
+      "in_original_2026_10_27_worklist": true,
+      "review": {
+        "level": "structural_and_outgoing_links_checked",
+        "cohort": "WCL-145",
+        "purpose": "reader_first_chronological_angelashi_profile",
+        "depicted_source_window": "E035–E054, E055–E056, E110–E128, S2E02–S2E05, S3E03–S3E05, S3E18; retrospectives separated as evidence",
+        "D048_structure": "observed_reader_subject",
+        "source_window_note": "Full 92-line story-first biography: Angelashi's purported death is only Tedna's report; freed alive in E054. Nash's earlier vision is not their E111 physical reunion. She gives birth to four living changeling children, later flees Elhandar, actually reunites on Mars and Planet Nash. In S3E18 she does not witness lunar death or resurrection spell, but physically reunites after Stanley restores Nash; unknown second Nash appears in cottage.",
+        "source_lines_read": 92,
+        "outgoing_local_links_checked": 38,
+        "outgoing_broken_links": 0,
+        "outgoing_local_links_not_checked": 0,
+        "outgoing_link_check": "offline_renderer_complete_all_local_links",
+        "outgoing_distinct_local_file_paths_verified_exists": 37,
+        "footnote_references_rendered": 13,
+        "footnote_definitions_rendered": 12,
+        "footnote_definitions_missing": 0,
+        "markdown_image_embeds": 0,
+        "html_image_embeds": 0,
+        "headings_rendered": 11,
+        "legacy_html_anchor_tags": 13,
+        "markdownlint": "passed_zero_violations",
+        "size_bytes": 12903,
+        "sha256": "0ddf5236374208aaf6682d2923ea6a5465c21ab6c44da5d7d1481c3a6f6ad57a",
+        "historical_preserved_files": [
+          "research/legacy/ANGELASHI_PRE_BATCH284_2026-10-31.md"
+        ],
+        "historical_preserved_sha256": [
+          "b75eabde7bae12dfd9d6d19384ddd5adcc9aa04f1fce14d1eac26ea7a94aa713"
+        ],
+        "incoming_links": "sampled_not_exhaustive",
+        "incoming_link_examples": [
+          "world/CHARACTERS.md",
+          "world/CONSISTENCY_LEDGER.md",
+          "world/characters/nash-maggard.md",
+          "world/characters/tedna.md"
+        ],
+        "primary_audio": "not_checked",
+        "full_source_claim_accuracy": "not_checked",
+        "native_browser": "deferred_WCL-103",
+        "open_questions": [
+          "Angelashi / Angel Ashi spelling remains provisional without owner/audio verification",
+          "Nash Junior's individual sex/naming across E114/E115/E124 and later remains contradictory; do not invent changed identity",
+          "Legacy HTML heading aliases observed but native GitHub/browser fragment behavior not accepted",
+          "Source citations are processed transcript dossiers; original audio, entire backlink graph, semantic claims and eventual settlement not independently confirmed"
+        ]
+      }
+    },
+    {
+      "path": "world/characters/badass-t.md",
+      "domain": "characters",
+      "in_original_2026_10_27_worklist": false,
+      "review": {
+        "level": "structural_and_outgoing_links_checked",
+        "cohort": "WCL-130",
+        "purpose": "character_article",
+        "depicted_source_window": "First appearance E106; last direct depiction S2E09; later absence through S3E18",
+        "source_window_note": "Article/overview coverage as read; not an independently auditioned first/last appearance across all audio",
+        "D048_structure": "observed_reader_subject",
+        "outgoing_local_links_checked": 30,
+        "outgoing_broken_links": 0,
+        "footnote_references_rendered": 8,
+        "footnote_definitions_rendered": 8,
+        "size_bytes": 8477,
+        "sha256": "cab8934a23acba1f56cb6b2ea29fbd621dd2a5dbd664c38cbb87fb84f88bf2be",
+        "incoming_links": "not_checked",
+        "primary_audio": "not_checked",
+        "full_source_claim_accuracy": "not_checked",
+        "native_browser": "deferred_WCL-103",
+        "open_questions": [
+          "lycanthropy recovery and eventual fate unknown",
+          "source aliases/actor details require targeted listening"
+        ]
+      }
+    },
+    {
+      "path": "world/characters/blood-skunk-hendrickson.md",
+      "domain": "characters",
+      "in_original_2026_10_27_worklist": true,
+      "review": {
+        "level": "pending_current_per_file_review"
+      }
+    },
+    {
+      "path": "world/characters/bok-bok.md",
+      "domain": "characters",
+      "in_original_2026_10_27_worklist": true,
+      "review": {
+        "level": "structural_renderer_checked_lint_blocked",
+        "cohort": "WCL-145",
+        "purpose": "reverse_chronological_bok_bok_character_evidence_register",
+        "depicted_source_window": "E006–E117, E124, S3E05, S3E14–S3E15; no actual post-S3E15 final-personal-fate outcome claimed",
+        "D048_structure": "needs_reader_first_review",
+        "source_window_note": "Full 53-line source-first reverse-chronological notes; opening covers S3E15 canyon ambush preparations and King Bokbok alive there, no detonation or death at that cutoff; then S3E14 physical reunion, S3E05 witnessed crowned convoy, early E006 capture and later losses/hand-correction/Chunks caretaker status. There is no eleven-arc reader-first synthesis or S3E18 ending. Do not treat absence as a played death or retroactively complete the siege outcome.",
+        "source_lines_read": 53,
+        "outgoing_local_links_checked": 35,
+        "outgoing_broken_links": 0,
+        "outgoing_local_links_not_checked": 0,
+        "outgoing_link_check": "offline_renderer_complete_all_local_links",
+        "outgoing_distinct_local_file_paths_verified_exists": "not_independently_checked_renderer_validated_35_of_35",
+        "footnote_references_rendered": 0,
+        "footnote_definitions_rendered": 0,
+        "footnote_definitions_missing": 0,
+        "markdown_image_embeds": 0,
+        "html_image_embeds": 0,
+        "headings_rendered": 10,
+        "legacy_html_anchor_tags": 0,
+        "markdownlint": "blocked_by_safety_checks_not_verified",
+        "size_bytes": 11658,
+        "sha256": "ce4ebffa24f9b0d38895edecdbd665c9e199cf2e7e5f9a46f23367a96891364e",
+        "historical_preserved_files": [],
+        "historical_preserved_sha256": [],
+        "incoming_links": "sampled_not_exhaustive",
+        "incoming_link_examples": [
+          "world/CHARACTERS.md",
+          "world/characters/vorel.md"
+        ],
+        "primary_audio": "not_checked",
+        "full_source_claim_accuracy": "not_checked",
+        "native_browser": "deferred_WCL-103",
+        "open_questions": [
+          "Standalone markdownlint request and one subsequent read were blocked by safety checks; an earlier complete read (53 lines) and safe renderer 35/35 links succeeded. Do not claim lint passed or bypass checks",
+          "Current article begins with S3E15 rather than story-first biography; separate D-048 structural revision needed, preserving all original source cutoffs",
+          "Post-S3E15 fate not resolved by this profile: explosives were not detonated in S3E15, and future survival/death cannot be inferred",
+          "E111 injured hand versus E115 GM continuity correction, Squirts/Chunks roster confusion and caretaker commitment require cautious source-attributed treatment",
+          "No individual pre-rewrite backup was identified in the inspected root legacy listing; do not infer one exists. Original audio, semantic evidence and browser unverified"
+        ]
+      }
+    },
+    {
+      "path": "world/characters/brett-asmodeus.md",
+      "domain": "characters",
+      "in_original_2026_10_27_worklist": true,
+      "review": {
+        "level": "pending_current_per_file_review"
+      }
+    },
+    {
+      "path": "world/characters/buttons.md",
+      "domain": "characters",
+      "in_original_2026_10_27_worklist": true,
+      "review": {
+        "level": "pending_current_per_file_review"
+      }
+    },
+    {
+      "path": "world/characters/cerinthala.md",
+      "domain": "characters",
+      "in_original_2026_10_27_worklist": true,
+      "review": {
+        "level": "pending_current_per_file_review"
+      }
+    },
+    {
+      "path": "world/characters/charles-dickens.md",
+      "domain": "characters",
+      "in_original_2026_10_27_worklist": true,
+      "review": {
+        "level": "pending_current_per_file_review"
+      }
+    },
+    {
+      "path": "world/characters/dick-pendleton.md",
+      "domain": "characters",
+      "in_original_2026_10_27_worklist": true,
+      "review": {
+        "level": "pending_current_per_file_review"
+      }
+    },
+    {
+      "path": "world/characters/dilenoria.md",
+      "domain": "characters",
+      "in_original_2026_10_27_worklist": true,
+      "review": {
+        "level": "pending_current_per_file_review"
+      }
+    },
+    {
+      "path": "world/characters/diontalus.md",
+      "domain": "characters",
+      "in_original_2026_10_27_worklist": true,
+      "review": {
+        "level": "structural_and_outgoing_links_checked",
+        "cohort": "WCL-145",
+        "purpose": "reader_first_diontalus_as_distinct_person_character_profile",
+        "depicted_source_window": "E028–E059, E115–E128, S3E05–S3E08; 2022 Q&A ancient claims retrospectively attributed",
+        "D048_structure": "observed_reader_subject",
+        "source_window_note": "Full 107-line reader-first profile. Stanley refuses possession, Diontalus forcibly enters and retains separate agency; George/P0D/Dashington killed by Diontalus, Buttons killed by Vorel. Principal's crystal extraction, Dilo-associated spectral reappearance, later E128 healing and military deployment are distinguished. Final manifested ethereal form visibly disintegrates in S3E08; absolute archfey metaphysical erasure unproven.",
+        "source_lines_read": 107,
+        "outgoing_local_links_checked": 58,
+        "outgoing_broken_links": 0,
+        "outgoing_local_links_not_checked": 0,
+        "outgoing_link_check": "offline_renderer_complete_all_local_links",
+        "outgoing_distinct_local_file_paths_verified_exists": 52,
+        "footnote_references_rendered": 19,
+        "footnote_definitions_rendered": 15,
+        "footnote_definitions_missing": 0,
+        "markdown_image_embeds": 0,
+        "html_image_embeds": 0,
+        "headings_rendered": 11,
+        "legacy_html_anchor_tags": 14,
+        "markdownlint": "passed_zero_violations",
+        "size_bytes": 16747,
+        "sha256": "70a6940882f344738fa8c861fc6972a92f5b0aae1f10b1a7dbf8c0bc1e22f76c",
+        "historical_preserved_files": [
+          "research/legacy/DIONTALUS_PRE_BATCH281_2026-10-31.md"
+        ],
+        "historical_preserved_sha256": [
+          "21679423e46b65eb8e097b6a506ca5af3e13ba06ff31528ad64fa5e4a2a52d78"
+        ],
+        "incoming_links": "sampled_not_exhaustive",
+        "incoming_link_examples": [
+          "world/ANTAGONISTS.md",
+          "world/CHARACTERS.md",
+          "world/CONSISTENCY_LEDGER.md",
+          "world/README.md",
+          "world/characters/stanley-billings.md"
+        ],
+        "primary_audio": "not_checked",
+        "full_source_claim_accuracy": "not_checked",
+        "native_browser": "deferred_WCL-103",
+        "open_questions": [
+          "Disintegration of observed S3E08 spectral body is not independent proof of complete afterlife/archfey annihilation",
+          "Dilo consent, exact crystal escape, ancient Groxl history and retrospective Q&A are interested testimony, not direct played proof",
+          "Legacy HTML heading aliases exist but native fragment behavior unverified",
+          "Original-audio listening and comprehensive source-claim/backlink review outstanding"
+        ]
+      }
+    },
+    {
+      "path": "world/characters/diptak.md",
+      "domain": "characters",
+      "in_original_2026_10_27_worklist": true,
+      "review": {
+        "level": "pending_current_per_file_review"
+      }
+    },
+    {
+      "path": "world/characters/dr-spider.md",
+      "domain": "characters",
+      "in_original_2026_10_27_worklist": true,
+      "review": {
+        "level": "pending_current_per_file_review"
+      }
+    },
+    {
+      "path": "world/characters/emenil.md",
+      "domain": "characters",
+      "in_original_2026_10_27_worklist": true,
+      "review": {
+        "level": "structural_and_outgoing_links_checked",
+        "cohort": "WCL-145",
+        "purpose": "chronological_cutoff_research_register_for_emenil_tidebearer_priestess",
+        "depicted_source_window": "E055–E059, E103, E115–E117, E123–E124, final observed S3E08 Solar Mines death",
+        "D048_structure": "needs_reader_first_review",
+        "source_window_note": "All 29 current lines read. Opens with provisional ASR name and summary cutoffs, then source-heavy reverse-history entries E124/E123; no narrative life story/current-ending section. E115 survival was a third-party report, E117 actual appearance validates survival, E123/E124 lake encounter is played. Later S3E08 Groxl-like lizardfolk crushes Emenil and Union Wheel at Solar Mines; directly observed physical death, no resurrection shown, soul status unknown. Theology/miracles distinguish observed manifestations from interested testimony.",
+        "source_lines_read": 29,
+        "outgoing_local_links_checked": 19,
+        "outgoing_broken_links": 0,
+        "outgoing_local_links_not_checked": 0,
+        "outgoing_link_check": "offline_renderer_complete_all_local_links",
+        "outgoing_distinct_local_file_paths_verified_exists": 18,
+        "footnote_references_rendered": 0,
+        "footnote_definitions_rendered": 0,
+        "footnote_definitions_missing": 0,
+        "markdown_image_embeds": 0,
+        "html_image_embeds": 0,
+        "headings_rendered": 3,
+        "legacy_html_anchor_tags": 0,
+        "markdownlint": "passed_zero_violations",
+        "size_bytes": 7409,
+        "sha256": "139251bbb0eb7d7deeb89c959d2e3a5ed7d00ac2c50973d8eb93614f7ba042b4",
+        "historical_preserved_files": [
+          "research/legacy/EMENIL_PRE_N1_P3_G_2026-10-28.md"
+        ],
+        "historical_preserved_sha256": [
+          "234d8b5decae48b1a9104b0a66e68b55368789bef5bad3abafca06466e29c5f3"
+        ],
+        "incoming_links": "sampled_not_exhaustive",
+        "incoming_link_examples": [
+          "world/CHARACTERS.md",
+          "world/characters/stanley-billings.md",
+          "world/characters/malhya.md",
+          "world/places/the-harbor.md"
+        ],
+        "primary_audio": "not_checked",
+        "full_source_claim_accuracy": "not_checked",
+        "native_browser": "deferred_WCL-103",
+        "open_questions": [
+          "Source-first, top-pinned status rather than a story-led account ending with legacy; requires D-048 reader-facing rewrite",
+          "EMENIL/Eminel/Emanil orthography provisional without direct listening/owner authority",
+          "Current CHARACTERS.md summary emphasizes romantic declaration but omits S3E08 direct physical death; scoped index update needed",
+          "Theological claims and E115 third-party report should not be promoted to observed universal setting rules; no resurrection after S3E08 observed",
+          "Original audio, full native-browser and source-claim review not performed"
+        ]
+      }
+    },
+    {
+      "path": "world/characters/follow-sira-rorf.md",
+      "domain": "characters",
+      "in_original_2026_10_27_worklist": true,
+      "review": {
+        "level": "pending_current_per_file_review"
+      }
+    },
+    {
+      "path": "world/characters/general-carthax.md",
+      "domain": "characters",
+      "in_original_2026_10_27_worklist": true,
+      "review": {
+        "level": "pending_current_per_file_review"
+      }
+    },
+    {
+      "path": "world/characters/henitar-grape.md",
+      "domain": "characters",
+      "in_original_2026_10_27_worklist": true,
+      "review": {
+        "level": "pending_current_per_file_review"
+      }
+    },
+    {
+      "path": "world/characters/hope-akmenos.md",
+      "domain": "characters",
+      "in_original_2026_10_27_worklist": true,
+      "review": {
+        "level": "structural_with_partial_outgoing_links_checked",
+        "cohort": "WCL-143",
+        "purpose": "Eleven-arc reader-first Hope Akmenos biography and preserved source-first legacy character/custody studies",
+        "depicted_source_window": "E000–E128, S2E01–S2E12, S3E01–S3E18 played; separate cast Q&A and episode-era historical cutoffs",
+        "D048_structure": "observed_reader_subject",
+        "source_window_note": "Observed story-first introduction, eleven sequential arc chapters, relationship/equipment distinction and S3E18 current status, followed by Sources and project notes/old five-arc and episode studies; legacy source status is explicitly not current.",
+        "finale_status_note": "Hope survives as queen of T'ietkalla, begins rebuilding its damaged city, has Monsoon's helmet and Stanley's transferred mask reshaped into a crown; Fate Six control awaits attunement. Her old Voice Hand was lost; mother's fate and future reunions remain unresolved.",
+        "source_lines_read": 254,
+        "outgoing_local_links_total_reported": 234,
+        "outgoing_local_links_checked": 100,
+        "outgoing_broken_links": 0,
+        "outgoing_local_links_not_checked": 134,
+        "outgoing_link_check": "offline_renderer_first_100_only_all_unique_static_local_file_targets_exist",
+        "outgoing_distinct_local_file_paths_verified_exists": 171,
+        "outgoing_fragment_links": 0,
+        "footnote_references_rendered": 24,
+        "footnote_definitions_rendered": 20,
+        "footnote_definitions_missing": 0,
+        "markdown_image_embeds": 0,
+        "html_image_embeds": 0,
+        "heading_count_rendered": 53,
+        "size_bytes": 69817,
+        "sha256": "04ec19efd3c2b6d072fcf96b5b805972c0d5bb75b3d5a305f4a9e1ebb73db66d",
+        "historical_preserved_files": [
+          "research/legacy/HOPE_AKMENOS_PRE_WCL117_2026-10-31.md"
+        ],
+        "historical_preserved_sha256": [
+          "4f818286069774fb88475fa56443ba491292edeaa1f8a1ab6c748650d9088863"
+        ],
+        "incoming_links": "sampled_not_exhaustive_search_truncated",
+        "incoming_link_examples": [
+          "world/README.md",
+          "world/CHARACTERS.md",
+          "world/FACTIONS_AND_POWERS.md",
+          "world/PLACES.md",
+          "world/ITEMS_AND_ARTIFACTS.md",
+          "world/CONSISTENCY_LEDGER.md"
+        ],
+        "primary_audio": "not_checked",
+        "full_source_claim_accuracy": "not_checked",
+        "native_browser": "deferred_WCL-103",
+        "open_questions": [
+          "Intended city rebuilding, ship control after attunement and future annual reunions are not completed events",
+          "Voice's ultimate status, previous gear custody and Hope mother's outcome uncertain; cast retrospectives kept separate from played outcomes",
+          "Older archival summaries and cutoff headings preserve their original contexts; no mass cleanup of older spelling/quotations during census",
+          "Renderer limit leaves 134 link instances unchecked visually, although all 171 distinct file targets exist; original audio, full source claims and browser remain unverified"
+        ]
+      }
+    },
+    {
+      "path": "world/characters/imprisoned-black-dragon.md",
+      "domain": "characters",
+      "in_original_2026_10_27_worklist": true,
+      "review": {
+        "level": "pending_current_per_file_review"
+      }
+    },
+    {
+      "path": "world/characters/kefeli.md",
+      "domain": "characters",
+      "in_original_2026_10_27_worklist": true,
+      "review": {
+        "level": "pending_current_per_file_review"
+      }
+    },
+    {
+      "path": "world/characters/lyrielle.md",
+      "domain": "characters",
+      "in_original_2026_10_27_worklist": true,
+      "review": {
+        "level": "pending_current_per_file_review"
+      }
+    },
+    {
+      "path": "world/characters/malhya.md",
+      "domain": "characters",
+      "in_original_2026_10_27_worklist": true,
+      "review": {
+        "level": "pending_current_per_file_review"
+      }
+    },
+    {
+      "path": "world/characters/monsoon-cabbage.md",
+      "domain": "characters",
+      "in_original_2026_10_27_worklist": true,
+      "review": {
+        "level": "pending_current_per_file_review"
+      }
+    },
+    {
+      "path": "world/characters/nash-maggard.md",
+      "domain": "characters",
+      "in_original_2026_10_27_worklist": true,
+      "review": {
+        "level": "structural_with_partial_outgoing_links_checked",
+        "cohort": "WCL-143",
+        "purpose": "Eleven-arc reader-first Nash Maggard biography and distinct preserved source-first historical character notes",
+        "depicted_source_window": "E000–E128, S2E01–S2E12, S3E01–S3E18 played; separate cast retrospectives and earlier episode-specific cutoffs",
+        "D048_structure": "observed_reader_subject",
+        "source_window_note": "Observed introductory character story, eleven sequential arc chapters, current S3E18 status, then explicit Sources and project notes and reverse-chronological legacy source notes; historical cutoffs are not live current status.",
+        "finale_status_note": "Nash dies as a forced new chrome Principal at Moon facility, Stanley resurrects him off-Earth into flesh, retires with Angelashi/four children on Planet Nash; second apparent Nash's identity unproven. Brett last held metal heart; post-resurrection anatomy not examined.",
+        "source_lines_read": 320,
+        "outgoing_local_links_total_reported": 264,
+        "outgoing_local_links_checked": 100,
+        "outgoing_broken_links": 0,
+        "outgoing_local_links_not_checked": 164,
+        "outgoing_link_check": "offline_renderer_first_100_only_all_unique_static_local_file_targets_exist",
+        "outgoing_distinct_local_file_paths_verified_exists": 165,
+        "outgoing_fragment_links": 0,
+        "footnote_references_rendered": 42,
+        "footnote_definitions_rendered": 38,
+        "footnote_definitions_missing": 0,
+        "markdown_image_embeds": 0,
+        "html_image_embeds": 0,
+        "heading_count_rendered": 54,
+        "size_bytes": 85458,
+        "sha256": "a041a4c2081ece18b4d274b4d8fc29ff446bb10d8035e2fa197edf57af220d38",
+        "historical_preserved_files": [
+          "research/legacy/NASH_MAGGARD_PRE_WCL030_2026-10-31.md"
+        ],
+        "historical_preserved_sha256": [
+          "19b74c2936531f48fdf0b67d41f514a4eece82ec363e7ac76adefc225d5cfb6b"
+        ],
+        "incoming_links": "sampled_not_exhaustive_search_truncated",
+        "incoming_link_examples": [
+          "world/README.md",
+          "world/CHARACTERS.md",
+          "world/WORLD.md",
+          "world/ITEMS_AND_ARTIFACTS.md",
+          "world/characters/angelashi.md",
+          "world/CONSISTENCY_LEDGER.md"
+        ],
+        "primary_audio": "not_checked",
+        "full_source_claim_accuracy": "not_checked",
+        "native_browser": "deferred_WCL-103",
+        "open_questions": [
+          "Nash Junior gender/naming discrepancy between E114/E115/E124 unresolved; no played transformation inferred",
+          "Villain/dragon paternity and alternative Nash accounts remain interested testimony; restored heart anatomy and second apparent Nash unidentified",
+          "Legacy former five-arc/current status and earlier Season Two/Three cutoff notes purposefully retained; no unverified live/finale rewrite",
+          "Renderer limit leaves 164 link instances unchecked visually, although all 165 distinct file targets exist; original audio and source-to-claim/final browser checks unverified"
+        ]
+      }
+    },
+    {
+      "path": "world/characters/nash-spellcasting-phrases.md",
+      "domain": "characters",
+      "in_original_2026_10_27_worklist": true,
+      "review": {
+        "level": "pending_current_per_file_review"
+      }
+    },
+    {
+      "path": "world/characters/nobieri.md",
+      "domain": "characters",
+      "in_original_2026_10_27_worklist": true,
+      "review": {
+        "level": "structural_and_outgoing_links_checked",
+        "cohort": "WCL-146",
+        "purpose": "source_first_nobieri_dead_tongue_counselor_and_historical_testimony_register",
+        "depicted_source_window": "E047–E124, S3E04–S3E05; no final S3E18 direct personal resolution in current profile",
+        "D048_structure": "needs_reader_first_review",
+        "source_window_note": "All 33 lines read. Top metadata states ASR-provisional Nobieri/Nobiery and S3E05 latest deployed observation. Reverse S3E05/S3E04, E124, historical E047/E054, and E123 sections distinguish physically observed council attendance from scout's estimates and unverified ancient pact narrative. Scholar freed from book E047, armed tieflings physically return E054 for Hope's coronation. Personal role, rescue/counsel and later Harbor participation are sourced but not arranged as a continuous reader-first history.",
+        "source_lines_read": 33,
+        "outgoing_local_links_checked": 22,
+        "outgoing_broken_links": 0,
+        "outgoing_local_links_not_checked": 0,
+        "outgoing_link_check": "offline_renderer_all_local_links_checked_plus_independent_static_file_target_existence",
+        "outgoing_distinct_local_file_paths_verified_exists": 21,
+        "footnote_references_rendered": 0,
+        "footnote_definitions_rendered": 0,
+        "footnote_definitions_missing": 0,
+        "markdown_image_embeds": 0,
+        "html_image_embeds": 0,
+        "headings_rendered": 7,
+        "legacy_html_anchor_tags": 0,
+        "size_bytes": 5554,
+        "sha256": "b40198553e8a20f3c41336a6d9f5ef4c4d3faebcf93775e6d96965a8692a0837",
+        "historical_preserved_files": [],
+        "historical_preserved_sha256": [],
+        "incoming_links": "sampled_not_exhaustive",
+        "incoming_link_examples": [
+          "world/CHARACTERS.md",
+          "world/WORLD.md",
+          "world/characters/hope-akmenos.md",
+          "world/places/the-harbor.md",
+          "world/races/tieflings.md"
+        ],
+        "primary_audio": "not_checked",
+        "full_source_claim_accuracy": "not_checked",
+        "native_browser": "deferred_WCL-103",
+        "open_questions": [
+          "Article is an out-of-order source ledger rather than reader-first political history; WCL-148 should scope narrative reconstruction without inventing missing S3E18 fate.",
+          "Nobieri/Nobiery/Riddle Nobieri written form is provisional pending authoritative written evidence or original audio; don't force variant change.",
+          "E047 claim about old royal houses and bargains, E117 flame entity divinity, S3E04 enemy estimates remain speaker testimony rather than universally validated facts.",
+          "The mission authorized in E123 is not shown departing/completing by E124; cannot turn it into subsequent performed expedition.",
+          "No exact pre-rewrite original located in sampled root legacy listings; browser, original audio and full source claims unverified."
+        ]
+      }
+    },
+    {
+      "path": "world/characters/nothing.md",
+      "domain": "characters",
+      "in_original_2026_10_27_worklist": true,
+      "review": {
+        "level": "pending_current_per_file_review"
+      }
+    },
+    {
+      "path": "world/characters/omnom-cinderborn.md",
+      "domain": "characters",
+      "in_original_2026_10_27_worklist": true,
+      "review": {
+        "level": "pending_current_per_file_review"
+      }
+    },
+    {
+      "path": "world/characters/orp.md",
+      "domain": "characters",
+      "in_original_2026_10_27_worklist": true,
+      "review": {
+        "level": "pending_current_per_file_review"
+      }
+    },
+    {
+      "path": "world/characters/p0d.md",
+      "domain": "characters",
+      "in_original_2026_10_27_worklist": true,
+      "review": {
+        "level": "structural_and_outgoing_links_checked",
+        "cohort": "WCL-146",
+        "purpose": "short_source_backed_p0d_pixie_biography_and_postdeath_spirit_account",
+        "depicted_source_window": "Original played E031–E056 plus Year One Q&A; no later active living return",
+        "D048_structure": "observed_reader_subject",
+        "source_window_note": "All 15 lines read. Introduces P0D's captivity and role with Nash; Order 26 coerces transformation in E049; Diontalus kills her E050 while Nash attempts rescue. E056 ancestor rite depicts an ethereal communication, not living restoration or proof of all setting cosmology. Separates pixies as people from the forced huge forms and GM's unused rescue plans.",
+        "source_lines_read": 15,
+        "outgoing_local_links_checked": 13,
+        "outgoing_broken_links": 0,
+        "outgoing_local_links_not_checked": 0,
+        "outgoing_link_check": "offline_renderer_all_local_links_checked_plus_independent_static_file_target_existence",
+        "outgoing_distinct_local_file_paths_verified_exists": 13,
+        "footnote_references_rendered": 0,
+        "footnote_definitions_rendered": 0,
+        "footnote_definitions_missing": 0,
+        "markdown_image_embeds": 0,
+        "html_image_embeds": 0,
+        "headings_rendered": 2,
+        "legacy_html_anchor_tags": 0,
+        "size_bytes": 2652,
+        "sha256": "8ad7e27b39000a459605e42a1d01db4d2a1afc44ec5b04b62c2ecdbfaf8dd440",
+        "historical_preserved_files": [],
+        "historical_preserved_sha256": [],
+        "incoming_links": "sampled_not_exhaustive",
+        "incoming_link_examples": [
+          "world/CHARACTERS.md",
+          "world/CREATURES_AND_MONSTERS.md",
+          "world/characters/diontalus.md",
+          "world/characters/monsoon-cabbage.md",
+          "world/characters/nash-maggard.md",
+          "world/races/pixies.md"
+        ],
+        "primary_audio": "not_checked",
+        "full_source_claim_accuracy": "not_checked",
+        "native_browser": "deferred_WCL-103",
+        "open_questions": [
+          "Short 15-line biography ends with E056 postdeath spirit addendum; a true completed lasting-legacy ending was not assessed under D-048.",
+          "Alternate Pod family and transformed hulks must not be equated with the killed P0D; no living return is demonstrated.",
+          "Written capitalization P0D/Pod remains variable across sources; original audio and full source-to-claim fidelity not verified.",
+          "No exact preserved original for this file established from inspected legacy root listing."
+        ]
+      }
+    },
+    {
+      "path": "world/characters/quizquaz.md",
+      "domain": "characters",
+      "in_original_2026_10_27_worklist": true,
+      "review": {
+        "level": "pending_current_per_file_review"
+      }
+    },
+    {
+      "path": "world/characters/soulbroker.md",
+      "domain": "characters",
+      "in_original_2026_10_27_worklist": true,
+      "review": {
+        "level": "pending_current_per_file_review"
+      }
+    },
+    {
+      "path": "world/characters/sprout.md",
+      "domain": "characters",
+      "in_original_2026_10_27_worklist": true,
+      "review": {
+        "level": "pending_current_per_file_review"
+      }
+    },
+    {
+      "path": "world/characters/squirts.md",
+      "domain": "characters",
+      "in_original_2026_10_27_worklist": true,
+      "review": {
+        "level": "structural_and_outgoing_links_checked",
+        "cohort": "WCL-146",
+        "purpose": "reader_first_squirts_kobold_cleric_biography_with_two_witnessed_deaths_and_legacy_anchors",
+        "depicted_source_window": "E082–E115, separate Hell reappearance E125, S3E01–S3E02 second death and postdeath graft; campaign ending does not show third revival",
+        "D048_structure": "observed_reader_subject",
+        "source_window_note": "All 96 lines read. Reader-first profile recounts Squirts's ambiguous trickster morality, Sigil chapel/Stanley-Hope restoration, later ship journey, first disintegration E111, Chunks surviving, physically returned in E125 Hell scene according to Brett's interested soul/body mechanism account, and second witnessed death aboard Fate Six S3E01. S3E02 grafts her inert head onto a still-living Steerious; neither head speaks independently. The E124/E125/E128 household name conflict is preserved without inventing Hell-to-Mars transportation.",
+        "source_lines_read": 96,
+        "outgoing_local_links_checked": 49,
+        "outgoing_broken_links": 0,
+        "outgoing_local_links_not_checked": 0,
+        "outgoing_link_check": "offline_renderer_all_local_links_checked_plus_independent_static_file_target_existence",
+        "outgoing_distinct_local_file_paths_verified_exists": 44,
+        "footnote_references_rendered": 15,
+        "footnote_definitions_rendered": 15,
+        "footnote_definitions_missing": 0,
+        "markdown_image_embeds": 0,
+        "html_image_embeds": 0,
+        "headings_rendered": 10,
+        "legacy_html_anchor_tags": 23,
+        "size_bytes": 15653,
+        "sha256": "2853927a5943086d904ba1306009b3311688602813a00c1d8dc28eac10b5adf4",
+        "historical_preserved_files": [
+          "research/legacy/SQUIRTS_PRE_BATCH287_2026-10-31.md"
+        ],
+        "historical_preserved_sha256": [
+          "d280dc3aad32dfe596bd52f0b29c50d43eb30db68ef87fffe0ac93310d15d52d"
+        ],
+        "incoming_links": "sampled_not_exhaustive",
+        "incoming_link_examples": [
+          "world/CHARACTERS.md",
+          "world/CONSISTENCY_LEDGER.md",
+          "world/characters/general-carthax.md",
+          "world/characters/nothing.md",
+          "world/characters/vorel.md"
+        ],
+        "primary_audio": "not_checked",
+        "full_source_claim_accuracy": "not_checked",
+        "native_browser": "deferred_WCL-103",
+        "open_questions": [
+          "Final soul state, living status of grafted head, later Steerious whereabouts, exact ashes custody and contradictory household roster are unresolved.",
+          "The revived form's mechanism and agency in Hell are Brett's testimony beyond the physically played reappearance.",
+          "23 preserved raw HTML heading aliases exist; the offline renderer's success for local links is not native-browser validation of legacy alias fragments.",
+          "One long source citation uses a percent-encoded SRT filename; target existence and renderer links pass, but original audio and source interpretation not independently checked."
+        ]
+      }
+    },
+    {
+      "path": "world/characters/stanley-billings.md",
+      "domain": "characters",
+      "in_original_2026_10_27_worklist": true,
+      "review": {
+        "level": "structural_with_partial_outgoing_links_checked",
+        "cohort": "WCL-144",
+        "purpose": "stanley_billings_valiir_ornath_eleven_arc_reader_first_biography_with_preserved_source_research",
+        "depicted_source_window": "E000–E128, S2E01–S2E12 and S3E01–S3E18 played, plus separate S3E019 cast recap and out-of-game retrospective",
+        "D048_structure": "observed_reader_subject",
+        "source_window_note": "319 lines fully read. Story-first introduction, eleven arcs with first-party agency/consent notes, current S3E18 status, and a collapsed <details> preserved five-arc/episode-cutoff research archive. Valiir Or'Nath, Delit Or'Nath and Villa Or'Nath have owner-supported written forms; family/prophecy reports and performer alternatives remain attributed evidence. Stanley's Alentris Modify Memory is placed at E102 and acknowledged without conferring consent.",
+        "finale_status_note": "Stanley lives as Solely Prime; rescues Nash via off-Earth Wish-enabled True Resurrection, physically transfers Mask of Eltanfawr to Hope, gives Vorel title Friend, sails to Feywild with some Elhandari. Wish remains available with cost; four-day vs seven-day recovery conflict and private supposed Nash-death prophecy remain source-qualified rather than silently resolved.",
+        "source_lines_read": 319,
+        "outgoing_markdown_link_instances_static": 244,
+        "outgoing_external_links_not_fetched": 1,
+        "outgoing_local_links_total_reported": 243,
+        "outgoing_local_links_checked": 100,
+        "outgoing_broken_links": 0,
+        "outgoing_local_links_not_checked": 143,
+        "outgoing_link_check": "offline_renderer_first_100_valid_all_static_unique_file_targets_verified_and_actual_fragments_checked",
+        "outgoing_distinct_local_file_paths_verified_exists": 147,
+        "outgoing_fragment_links": 2,
+        "outgoing_fragment_links_target_ids_verified": 2,
+        "footnote_references_rendered": 23,
+        "footnote_definitions_rendered": 23,
+        "footnote_definitions_missing": 0,
+        "markdown_image_embeds": 0,
+        "html_image_embeds": 0,
+        "source_html_details_blocks": 1,
+        "heading_count_rendered": 53,
+        "size_bytes": 82956,
+        "sha256": "18c2a4b37f3b87f4ca21cb3b2b6c30c5fb7fdb57ea12953c6c4f35ac64e46857",
+        "historical_preserved_files": [
+          "research/legacy/STANLEY_BILLINGS_PRE_WCL119_2026-10-31.md"
+        ],
+        "historical_preserved_sha256": [
+          "1aef7e33b1999a8acb42f9f6176d83772194a6ed38b509c7b60c44983dddea0c"
+        ],
+        "incoming_links": "sampled_not_exhaustive_search_truncated",
+        "incoming_link_examples": [
+          "world/README.md",
+          "world/CHARACTERS.md",
+          "world/ANTAGONISTS.md",
+          "world/CONSISTENCY_LEDGER.md",
+          "world/characters/buttons.md",
+          "world/characters/diontalus.md"
+        ],
+        "primary_audio": "not_checked",
+        "full_source_claim_accuracy": "not_checked",
+        "native_browser": "deferred_WCL-103",
+        "open_questions": [
+          "Renderer checked first 100/243 local link instances with 143 unrendered by its cap. Independent static check verified all 147 distinct target files and 2 links to the same report heading fragment. Native browser still deferred.",
+          "One external Discord poem/message URL is linked as owner-supplied identity provenance and not fetched or independently authenticated during this pass.",
+          "The explicit four-day S3E18 vs seven-day S3E17 Wish recovery conflict remains unresolved; the S3E019 retrospective prophecy interpretation is not a new played scene or an imperative to kill Nash.",
+          "Separate historical/collapsed source-first appendix retains older written names and source-specific five-arc statuses; no bulk normalization or browser validation of <details> folding performed.",
+          "Original audio, completeness of inbound graph, exact source-to-claim evidence and final D-048 presentation acceptance have not been verified."
+        ]
+      }
+    },
+    {
+      "path": "world/characters/stanley-diontalus.md",
+      "domain": "characters",
+      "in_original_2026_10_27_worklist": true,
+      "review": {
+        "level": "pending_current_per_file_review"
+      }
+    },
+    {
+      "path": "world/characters/steerious-business.md",
+      "domain": "characters",
+      "in_original_2026_10_27_worklist": true,
+      "review": {
+        "level": "pending_current_per_file_review"
+      }
+    },
+    {
+      "path": "world/characters/tedna.md",
+      "domain": "characters",
+      "in_original_2026_10_27_worklist": true,
+      "review": {
+        "level": "structural_and_outgoing_links_checked",
+        "cohort": "WCL-146",
+        "purpose": "original_tedna_and_distinct_alternate_badass_t_source_horizon_profile",
+        "depicted_source_window": "Original E027–E050; distinct alternate counterpart S2E04–S2E09, plus March 2022 creator Q&A",
+        "D048_structure": "needs_reader_first_review",
+        "source_window_note": "Full 37 lines. Short opening recounts original young Tedna's E027 stowaway arrival, E048 prison rescue and witnessed death E050, while longer remaining sections reverse-track an alternate Badass T from S2E09 to S2E04. The latter is not the original Tedna resurrected, and his last played S2E09 state is unconscious in werefolk care, with suspected but not demonstrated lycanthropy.",
+        "source_lines_read": 37,
+        "outgoing_local_links_checked": 28,
+        "outgoing_broken_links": 0,
+        "outgoing_local_links_not_checked": 0,
+        "outgoing_link_check": "offline_renderer_all_local_links_checked_plus_independent_static_file_target_existence",
+        "outgoing_distinct_local_file_paths_verified_exists": 28,
+        "footnote_references_rendered": 0,
+        "footnote_definitions_rendered": 0,
+        "footnote_definitions_missing": 0,
+        "markdown_image_embeds": 0,
+        "html_image_embeds": 0,
+        "headings_rendered": 7,
+        "legacy_html_anchor_tags": 0,
+        "size_bytes": 8336,
+        "sha256": "33b91821dfadbce459e9e75762d04d32dc0d8f834bb4d61486178459d8d7ff67",
+        "historical_preserved_files": [],
+        "historical_preserved_sha256": [],
+        "incoming_links": "sampled_not_exhaustive",
+        "incoming_link_examples": [
+          "world/CHARACTERS.md",
+          "world/characters/angelashi.md",
+          "world/characters/badass-t.md",
+          "world/characters/hope-akmenos.md"
+        ],
+        "primary_audio": "not_checked",
+        "full_source_claim_accuracy": "not_checked",
+        "native_browser": "deferred_WCL-103",
+        "open_questions": [
+          "Article conflates original Tedna subject and separately embodied alternate Badass T under one main heading; crosslink to distinct existing Badass T page and keep provenance separated when revising.",
+          "Reverse S2E09→S2E04 cutoff blocks interrupt reader-first original Tedna story; follow-up WCL-148 to evaluate independent history/compatibility anchors.",
+          "Stanley's own S2E05 claim that he killed original Tedna must not overwrite observed E050 Diontalus/other agency without a source-specific audit.",
+          "No final S3E18 personal outcome for alternate T is shown; prior S2E09 unconscious status and future lycanthropy/regrowth remain unresolved.",
+          "Owner/cast spelling source exists but no fresh original audio or complete external fact check; no preserved exact pre-rewrite original established in sampled root legacy listing."
+        ]
+      }
+    },
+    {
+      "path": "world/characters/the-principle.md",
+      "domain": "characters",
+      "in_original_2026_10_27_worklist": true,
+      "review": {
+        "level": "pending_current_per_file_review"
+      }
+    },
+    {
+      "path": "world/characters/the-voice.md",
+      "domain": "characters",
+      "in_original_2026_10_27_worklist": true,
+      "review": {
+        "level": "pending_current_per_file_review"
+      }
+    },
+    {
+      "path": "world/characters/tobacho-fleur.md",
+      "domain": "characters",
+      "in_original_2026_10_27_worklist": true,
+      "review": {
+        "level": "pending_current_per_file_review"
+      }
+    },
+    {
+      "path": "world/characters/tungsten-wheel.md",
+      "domain": "characters",
+      "in_original_2026_10_27_worklist": true,
+      "review": {
+        "level": "pending_current_per_file_review"
+      }
+    },
+    {
+      "path": "world/characters/tylander-sullivan.md",
+      "domain": "characters",
+      "in_original_2026_10_27_worklist": true,
+      "review": {
+        "level": "pending_current_per_file_review"
+      }
+    },
+    {
+      "path": "world/characters/union-wheel.md",
+      "domain": "characters",
+      "in_original_2026_10_27_worklist": true,
+      "review": {
+        "level": "pending_current_per_file_review"
+      }
+    },
+    {
+      "path": "world/characters/vorel-titles.md",
+      "domain": "characters",
+      "in_original_2026_10_27_worklist": true,
+      "review": {
+        "level": "pending_current_per_file_review"
+      }
+    },
+    {
+      "path": "world/characters/vorel.md",
+      "domain": "characters",
+      "in_original_2026_10_27_worklist": true,
+      "review": {
+        "level": "structural_with_partial_outgoing_links_checked",
+        "cohort": "WCL-144",
+        "purpose": "vorel_lizardfolk_eleven_arc_reader_first_biography_with_preserved_source_research",
+        "depicted_source_window": "E001–E128, S2E01–S2E12 and S3E01–S3E18 played; separate earlier source cutoff and player Q&A interpretation",
+        "D048_structure": "observed_reader_subject",
+        "source_window_note": "369 lines read. Introductory story, eleven sequential arcs, friendships/pillars/strength synthesis and S3E18 present status; source-qualified original notes follow within one <details> appendix. Distinguishes self-bestowed epithets, earned Great Fang recognition, source-specific Eye of Groxl/custody, rejected soul bargains and clan obligations. No direct original audio heard.",
+        "finale_status_note": "Vorel lives on restored Earth with hardened chrome plating +2 AC, embedded Eye of Groxl and Chrome's Bane. He commissions a Nash memorial before Nash's subsequent resurrection, welcomes surviving lizardfolk and Kuromokishi, begins overland return toward Razak Val without completed arrival/rebuilding, and accepts Stanley's conferred Friend title.",
+        "source_lines_read": 369,
+        "outgoing_markdown_link_instances_static": 316,
+        "outgoing_external_links_not_fetched": 0,
+        "outgoing_local_links_total_reported": 316,
+        "outgoing_local_links_checked": 100,
+        "outgoing_broken_links": 0,
+        "outgoing_local_links_not_checked": 216,
+        "outgoing_link_check": "offline_renderer_first_100_valid_all_static_unique_file_targets_verified_and_actual_fragments_checked",
+        "outgoing_distinct_local_file_paths_verified_exists": 168,
+        "outgoing_fragment_links": 0,
+        "outgoing_fragment_links_target_ids_verified": 0,
+        "footnote_references_rendered": 15,
+        "footnote_definitions_rendered": 15,
+        "footnote_definitions_missing": 0,
+        "markdown_image_embeds": 0,
+        "html_image_embeds": 0,
+        "source_html_details_blocks": 1,
+        "heading_count_rendered": 59,
+        "size_bytes": 98994,
+        "sha256": "1185662783fe8d554a9cfbe08298acce576f8d988f1e99454f34bb32f0a0c50e",
+        "historical_preserved_files": [
+          "research/legacy/VOREL_PRE_WCL118_2026-10-31.md"
+        ],
+        "historical_preserved_sha256": [
+          "08a508f6c35d4fdb8b7a0a65be69e6ccb43cdad2829df3f28e99cf8c789bf2d2"
+        ],
+        "incoming_links": "sampled_not_exhaustive_search_truncated",
+        "incoming_link_examples": [
+          "world/README.md",
+          "world/CHARACTERS.md",
+          "world/RACES.md",
+          "world/ITEMS_AND_ARTIFACTS.md",
+          "world/characters/bok-bok.md",
+          "world/characters/diptak.md"
+        ],
+        "primary_audio": "not_checked",
+        "full_source_claim_accuracy": "not_checked",
+        "native_browser": "deferred_WCL-103",
+        "open_questions": [
+          "Renderer checked first 100/316 links with 216 unrendered by its cap; static check independently established all 168 distinct local targets, with no fragments. This is not complete visual/browser verification.",
+          "Lizardfolk survival figure remains approximate (~50–60); exact casualties, future lizardfolk/Kuromokishi resettlement, arrival and finished Razak Val reconstruction are unobserved.",
+          "Nash monument was commissioned before Nash was restored; actual future Eye powers on post-restoration Earth, chrome's permanence and lost ashes/equipment custody not fully proven.",
+          "Archived episode studies and player bonus notes remain contextual evidence only; some historical names and source-era cutoffs intentionally differ from canonical current display, not new final status.",
+          "Original audio, comprehensive backlink map, native browser collapsed-history appearance, and full source claim validation remain outstanding."
+        ]
+      }
+    },
+    {
+      "path": "world/creatures/basilisk-of-the-under-pit-caves.md",
+      "domain": "creatures",
+      "in_original_2026_10_27_worklist": true,
+      "review": {
+        "level": "pending_current_per_file_review"
+      }
+    },
+    {
+      "path": "world/creatures/black-headworms.md",
+      "domain": "creatures",
+      "in_original_2026_10_27_worklist": true,
+      "review": {
+        "level": "pending_current_per_file_review"
+      }
+    },
+    {
+      "path": "world/creatures/black-puddings.md",
+      "domain": "creatures",
+      "in_original_2026_10_27_worklist": true,
+      "review": {
+        "level": "pending_current_per_file_review"
+      }
+    },
+    {
+      "path": "world/creatures/bloodsucking-desert-swarm.md",
+      "domain": "creatures",
+      "in_original_2026_10_27_worklist": true,
+      "review": {
+        "level": "pending_current_per_file_review"
+      }
+    },
+    {
+      "path": "world/creatures/blue-black-chasm-flyers.md",
+      "domain": "creatures",
+      "in_original_2026_10_27_worklist": true,
+      "review": {
+        "level": "pending_current_per_file_review"
+      }
+    },
+    {
+      "path": "world/creatures/brain-backed-spiders.md",
+      "domain": "creatures",
+      "in_original_2026_10_27_worklist": true,
+      "review": {
+        "level": "pending_current_per_file_review"
+      }
+    },
+    {
+      "path": "world/creatures/chester-the-bearsaurus.md",
+      "domain": "creatures",
+      "in_original_2026_10_27_worklist": true,
+      "review": {
+        "level": "pending_current_per_file_review"
+      }
+    },
+    {
+      "path": "world/creatures/chicken-lords.md",
+      "domain": "creatures",
+      "in_original_2026_10_27_worklist": true,
+      "review": {
+        "level": "pending_current_per_file_review"
+      }
+    },
+    {
+      "path": "world/creatures/chids-hellhounds.md",
+      "domain": "creatures",
+      "in_original_2026_10_27_worklist": true,
+      "review": {
+        "level": "pending_current_per_file_review"
+      }
+    },
+    {
+      "path": "world/creatures/crater-wyvern.md",
+      "domain": "creatures",
+      "in_original_2026_10_27_worklist": true,
+      "review": {
+        "level": "pending_current_per_file_review"
+      }
+    },
+    {
+      "path": "world/creatures/dolo-popio-spawned-worms.md",
+      "domain": "creatures",
+      "in_original_2026_10_27_worklist": true,
+      "review": {
+        "level": "pending_current_per_file_review"
+      }
+    },
+    {
+      "path": "world/creatures/dunebreaker-fruit-ooze.md",
+      "domain": "creatures",
+      "in_original_2026_10_27_worklist": true,
+      "review": {
+        "level": "pending_current_per_file_review"
+      }
+    },
+    {
+      "path": "world/creatures/eight-legged-facility-predator.md",
+      "domain": "creatures",
+      "in_original_2026_10_27_worklist": true,
+      "review": {
+        "level": "pending_current_per_file_review"
+      }
+    },
+    {
+      "path": "world/creatures/froghemoth-gut-worms.md",
+      "domain": "creatures",
+      "in_original_2026_10_27_worklist": true,
+      "review": {
+        "level": "pending_current_per_file_review"
+      }
+    },
+    {
+      "path": "world/creatures/froghemoth-intestinal-ropers.md",
+      "domain": "creatures",
+      "in_original_2026_10_27_worklist": true,
+      "review": {
+        "level": "pending_current_per_file_review"
+      }
+    },
+    {
+      "path": "world/creatures/gibbering-mouther.md",
+      "domain": "creatures",
+      "in_original_2026_10_27_worklist": true,
+      "review": {
+        "level": "pending_current_per_file_review"
+      }
+    },
+    {
+      "path": "world/creatures/green-case-mimic.md",
+      "domain": "creatures",
+      "in_original_2026_10_27_worklist": true,
+      "review": {
+        "level": "pending_current_per_file_review"
+      }
+    },
+    {
+      "path": "world/creatures/luminous-desert-beetles.md",
+      "domain": "creatures",
+      "in_original_2026_10_27_worklist": true,
+      "review": {
+        "level": "pending_current_per_file_review"
+      }
+    },
+    {
+      "path": "world/creatures/mushroom-pit-spider.md",
+      "domain": "creatures",
+      "in_original_2026_10_27_worklist": true,
+      "review": {
+        "level": "pending_current_per_file_review"
+      }
+    },
+    {
+      "path": "world/creatures/outlands-wyverns.md",
+      "domain": "creatures",
+      "in_original_2026_10_27_worklist": true,
+      "review": {
+        "level": "pending_current_per_file_review"
+      }
+    },
+    {
+      "path": "world/creatures/pale-tentacled-burrower.md",
+      "domain": "creatures",
+      "in_original_2026_10_27_worklist": true,
+      "review": {
+        "level": "pending_current_per_file_review"
+      }
+    },
+    {
+      "path": "world/creatures/pixie-hulks.md",
+      "domain": "creatures",
+      "in_original_2026_10_27_worklist": true,
+      "review": {
+        "level": "pending_current_per_file_review"
+      }
+    },
+    {
+      "path": "world/creatures/purple-sands-tyrannosaurus.md",
+      "domain": "creatures",
+      "in_original_2026_10_27_worklist": true,
+      "review": {
+        "level": "pending_current_per_file_review"
+      }
+    },
+    {
+      "path": "world/creatures/razak-val-invasive-worms.md",
+      "domain": "creatures",
+      "in_original_2026_10_27_worklist": true,
+      "review": {
+        "level": "pending_current_per_file_review"
+      }
+    },
+    {
+      "path": "world/creatures/riding-raptors.md",
+      "domain": "creatures",
+      "in_original_2026_10_27_worklist": true,
+      "review": {
+        "level": "pending_current_per_file_review"
+      }
+    },
+    {
+      "path": "world/creatures/river-undead.md",
+      "domain": "creatures",
+      "in_original_2026_10_27_worklist": true,
+      "review": {
+        "level": "pending_current_per_file_review"
+      }
+    },
+    {
+      "path": "world/creatures/sand-squid.md",
+      "domain": "creatures",
+      "in_original_2026_10_27_worklist": true,
+      "review": {
+        "level": "pending_current_per_file_review"
+      }
+    },
+    {
+      "path": "world/creatures/skeleton-spawning-flesh-giant.md",
+      "domain": "creatures",
+      "in_original_2026_10_27_worklist": true,
+      "review": {
+        "level": "pending_current_per_file_review"
+      }
+    },
+    {
+      "path": "world/creatures/tainted-displacer-beast.md",
+      "domain": "creatures",
+      "in_original_2026_10_27_worklist": true,
+      "review": {
+        "level": "pending_current_per_file_review"
+      }
+    },
+    {
+      "path": "world/creatures/tentacled-purple-fungi.md",
+      "domain": "creatures",
+      "in_original_2026_10_27_worklist": true,
+      "review": {
+        "level": "pending_current_per_file_review"
+      }
+    },
+    {
+      "path": "world/creatures/translucent-wall-passers.md",
+      "domain": "creatures",
+      "in_original_2026_10_27_worklist": true,
+      "review": {
+        "level": "pending_current_per_file_review"
+      }
+    },
+    {
+      "path": "world/creatures/white-filament-hunter.md",
+      "domain": "creatures",
+      "in_original_2026_10_27_worklist": true,
+      "review": {
+        "level": "pending_current_per_file_review"
+      }
+    },
+    {
+      "path": "world/entities.json",
+      "domain": "root",
+      "in_original_2026_10_27_worklist": true,
+      "review": {
+        "level": "technical_json_structure_checked",
+        "cohort": "WCL-136",
+        "purpose": "non_exhaustive_machine_readable_entity_pilot",
+        "depicted_source_window": "source_scope (seven cited episodes only): E000, E001, E028, E054, E060, E117, S3E18",
+        "D048_structure": "not_applicable_nonmarkdown",
+        "source_window_note": "Entire 514-line JSON parsed strictly; 18 stable IDs (16 original-position entries plus 2 appended race_culture entries), seven declared source episodes match all actual cited episodes, and none are uncited; 33 source citations include HH:MM:SS times and evidence classes",
+        "record_count": 18,
+        "type_counts": {
+          "person_character": 4,
+          "person_npc": 4,
+          "place": 5,
+          "artifact_or_technology": 1,
+          "world_concept": 1,
+          "organization": 1,
+          "race_culture": 2
+        },
+        "aliases_count": 23,
+        "external_source_entries": 6,
+        "source_citations_count": 33,
+        "declared_source_episodes": [
+          "E000",
+          "E001",
+          "E028",
+          "E054",
+          "E060",
+          "E117",
+          "S3E18"
+        ],
+        "declared_episode_files_verified": 7,
+        "unique_id_check": "passed_18_of_18",
+        "required_field_and_known_enum_checks": "passed",
+        "source_scope_citation_bijection": "passed_7_of_7",
+        "source_episode_time_evidence_fields": "passed_33_of_33",
+        "cross_entity_name_collision_check": "no_collisions_observed",
+        "relations_checked": 2,
+        "relations_resolved": 2,
+        "page_paths_checked": 2,
+        "page_paths_resolved": 2,
+        "indexed_people": [
+          "Lizardfolk",
+          "Tieflings"
+        ],
+        "narrative_people_not_in_json_pilot": [
+          "Dwarves",
+          "Elves",
+          "Harlequinari",
+          "Illithids",
+          "Orcs",
+          "Pixies"
+        ],
+        "outgoing_local_links_checked": "not_applicable_json",
+        "outgoing_broken_links": "not_applicable_json",
+        "markdownlint": "not_applicable_json",
+        "markdown_render": "not_applicable_json",
+        "footnote_references_rendered": "not_applicable_json",
+        "footnote_definitions_rendered": "not_applicable_json",
+        "markdown_image_embeds": "not_applicable_json",
+        "html_image_embeds": "not_applicable_json",
+        "size_bytes": 14817,
+        "sha256": "1e8d0c551f46016210159121b21687ebc3323801f216eeef13096570c365d1ac",
+        "incoming_links": "sampled_not_exhaustive",
+        "incoming_link_examples": [
+          "world/ENTITY_SCHEMA.md",
+          "world/README.md",
+          "world/RACES.md"
+        ],
+        "open_questions": [
+          "The 16 original-position records are present in the expected order, but this check did not compare their contents byte-for-byte to an independent v1 baseline",
+          "The eight narrative race pages do not imply eight race_culture JSON records; two deliberate race entries have only documented_individual directed edges to existing characters",
+          "Source_scope describes only record citations and cannot imply episode-complete indexing, source/canon accuracy, full population coverage or original audio verification",
+          "External URLs are recorded with provenance metadata but were not fetched or authenticated; no consumer/API compatibility or native browser tests run",
+          "Preserve historical slug names and provisional aliases, including outdated spellings, until a separate owner-authorized schema/content migration"
+        ],
+        "primary_audio": "not_checked",
+        "full_source_claim_accuracy": "not_checked",
+        "native_browser": "not_applicable_json"
+      }
+    },
+    {
+      "path": "world/places/black-mine.md",
+      "domain": "places",
+      "in_original_2026_10_27_worklist": true,
+      "review": {
+        "level": "pending_current_per_file_review"
+      }
+    },
+    {
+      "path": "world/places/chateau-weir.md",
+      "domain": "places",
+      "in_original_2026_10_27_worklist": true,
+      "review": {
+        "level": "pending_current_per_file_review"
+      }
+    },
+    {
+      "path": "world/places/chids.md",
+      "domain": "places",
+      "in_original_2026_10_27_worklist": true,
+      "review": {
+        "level": "pending_current_per_file_review"
+      }
+    },
+    {
+      "path": "world/places/dunebreaker.md",
+      "domain": "places",
+      "in_original_2026_10_27_worklist": true,
+      "review": {
+        "level": "pending_current_per_file_review"
+      }
+    },
+    {
+      "path": "world/places/dusthill.md",
+      "domain": "places",
+      "in_original_2026_10_27_worklist": true,
+      "review": {
+        "level": "pending_current_per_file_review"
+      }
+    },
+    {
+      "path": "world/places/elhandar.md",
+      "domain": "places",
+      "in_original_2026_10_27_worklist": true,
+      "review": {
+        "level": "pending_current_per_file_review"
+      }
+    },
+    {
+      "path": "world/places/gray-waste-and-pandemonium.md",
+      "domain": "places",
+      "in_original_2026_10_27_worklist": true,
+      "review": {
+        "level": "pending_current_per_file_review"
+      }
+    },
+    {
+      "path": "world/places/kaiser-casino.md",
+      "domain": "places",
+      "in_original_2026_10_27_worklist": true,
+      "review": {
+        "level": "pending_current_per_file_review"
+      }
+    },
+    {
+      "path": "world/places/kervalon.md",
+      "domain": "places",
+      "in_original_2026_10_27_worklist": true,
+      "review": {
+        "level": "pending_current_per_file_review"
+      }
+    },
+    {
+      "path": "world/places/leaden-fingers-stormlands.md",
+      "domain": "places",
+      "in_original_2026_10_27_worklist": true,
+      "review": {
+        "level": "pending_current_per_file_review"
+      }
+    },
+    {
+      "path": "world/places/leopold-facility.md",
+      "domain": "places",
+      "in_original_2026_10_27_worklist": true,
+      "review": {
+        "level": "pending_current_per_file_review"
+      }
+    },
+    {
+      "path": "world/places/razak-val.md",
+      "domain": "places",
+      "in_original_2026_10_27_worklist": true,
+      "review": {
+        "level": "pending_current_per_file_review"
+      }
+    },
+    {
+      "path": "world/places/sigil.md",
+      "domain": "places",
+      "in_original_2026_10_27_worklist": true,
+      "review": {
+        "level": "pending_current_per_file_review"
+      }
+    },
+    {
+      "path": "world/places/slavetown.md",
+      "domain": "places",
+      "in_original_2026_10_27_worklist": true,
+      "review": {
+        "level": "pending_current_per_file_review"
+      }
+    },
+    {
+      "path": "world/places/solar-mines.md",
+      "domain": "places",
+      "in_original_2026_10_27_worklist": true,
+      "review": {
+        "level": "pending_current_per_file_review"
+      }
+    },
+    {
+      "path": "world/places/the-harbor.md",
+      "domain": "places",
+      "in_original_2026_10_27_worklist": true,
+      "review": {
+        "level": "pending_current_per_file_review"
+      }
+    },
+    {
+      "path": "world/places/tietkalla.md",
+      "domain": "places",
+      "in_original_2026_10_27_worklist": true,
+      "review": {
+        "level": "pending_current_per_file_review"
+      }
+    },
+    {
+      "path": "world/places/villa-ornath.md",
+      "domain": "places",
+      "in_original_2026_10_27_worklist": true,
+      "review": {
+        "level": "pending_current_per_file_review"
+      }
+    },
+    {
+      "path": "world/places/white-tower.md",
+      "domain": "places",
+      "in_original_2026_10_27_worklist": true,
+      "review": {
+        "level": "pending_current_per_file_review"
+      }
+    },
+    {
+      "path": "world/races/dwarves.md",
+      "domain": "races",
+      "in_original_2026_10_27_worklist": false,
+      "review": {
+        "level": "structural_and_outgoing_links_checked",
+        "cohort": "WCL-130",
+        "purpose": "people_article",
+        "depicted_source_window": "ancient ruins E003; communities through S3E02; E116 separate trade",
+        "source_window_note": "Article/overview coverage as read; not an independently auditioned first/last appearance across all audio",
+        "D048_structure": "observed_reader_subject",
+        "outgoing_local_links_checked": 29,
+        "outgoing_broken_links": 0,
+        "footnote_references_rendered": 9,
+        "footnote_definitions_rendered": 9,
+        "size_bytes": 7756,
+        "sha256": "a4e6d47619cfe0ef9406fad7813dc74301b620891d9efd5dddc3021935574d04",
+        "incoming_links": "not_checked",
+        "primary_audio": "not_checked",
+        "full_source_claim_accuracy": "not_checked",
+        "native_browser": "deferred_WCL-103",
+        "open_questions": [
+          "Moag Ferhain mapping to ruins unproved",
+          "Oilbeard conduct not universal"
+        ]
+      }
+    },
+    {
+      "path": "world/races/elves.md",
+      "domain": "races",
+      "in_original_2026_10_27_worklist": false,
+      "review": {
+        "level": "structural_and_outgoing_links_checked",
+        "cohort": "WCL-130",
+        "purpose": "people_article",
+        "depicted_source_window": "Elhandar E115–E128; subsequent S2E03–S3E18",
+        "source_window_note": "Article/overview coverage as read; not an independently auditioned first/last appearance across all audio",
+        "D048_structure": "observed_reader_subject",
+        "outgoing_local_links_checked": 28,
+        "outgoing_broken_links": 0,
+        "footnote_references_rendered": 9,
+        "footnote_definitions_rendered": 9,
+        "size_bytes": 8007,
+        "sha256": "8b1620dab98f0142674fcc129f42646bdb6c87693d71c263bc2d8198c8b1e95b",
+        "incoming_links": "not_checked",
+        "primary_audio": "not_checked",
+        "full_source_claim_accuracy": "not_checked",
+        "native_browser": "deferred_WCL-103",
+        "open_questions": [
+          "Elhandari society is not all elves",
+          "later station site page has a separate historical cutoff"
+        ]
+      }
+    },
+    {
+      "path": "world/races/harlequinari.md",
+      "domain": "races",
+      "in_original_2026_10_27_worklist": false,
+      "review": {
+        "level": "structural_and_outgoing_links_checked",
+        "cohort": "WCL-130",
+        "purpose": "people_article",
+        "depicted_source_window": "individual E102 onward; Council E113; later S3E02",
+        "source_window_note": "Article/overview coverage as read; not an independently auditioned first/last appearance across all audio",
+        "D048_structure": "observed_reader_subject",
+        "outgoing_local_links_checked": 15,
+        "outgoing_broken_links": 0,
+        "footnote_references_rendered": 7,
+        "footnote_definitions_rendered": 6,
+        "size_bytes": 5891,
+        "sha256": "5d85a39b4bf1f4e759a9835cfd13e38e09ed9654a461365dce17e31674e7fbd1",
+        "incoming_links": "not_checked",
+        "primary_audio": "not_checked",
+        "full_source_claim_accuracy": "not_checked",
+        "native_browser": "deferred_WCL-103",
+        "open_questions": [
+          "council membership not identical with Harlequinari",
+          "wider people unobserved"
+        ]
+      }
+    },
+    {
+      "path": "world/races/illithids.md",
+      "domain": "races",
+      "in_original_2026_10_27_worklist": false,
+      "review": {
+        "level": "structural_and_outgoing_links_checked",
+        "cohort": "WCL-130",
+        "purpose": "people_article",
+        "depicted_source_window": "CHIDS E066–E081; independent Fax E087–E090",
+        "source_window_note": "Article/overview coverage as read; not an independently auditioned first/last appearance across all audio",
+        "D048_structure": "observed_reader_subject",
+        "outgoing_local_links_checked": 30,
+        "outgoing_broken_links": 0,
+        "footnote_references_rendered": 9,
+        "footnote_definitions_rendered": 9,
+        "size_bytes": 8795,
+        "sha256": "2b42c77908cb4fbec1872d056631baadacce8e8cccf28f7c1c1f82bc1e144fe5",
+        "incoming_links": "not_checked",
+        "primary_audio": "not_checked",
+        "full_source_claim_accuracy": "not_checked",
+        "native_browser": "deferred_WCL-103",
+        "open_questions": [
+          "Void Realm and soul economics claimed not proved",
+          "human CHIDS hive separate; Fax later fate unknown"
+        ]
+      }
+    },
+    {
+      "path": "world/races/lizardfolk.md",
+      "domain": "races",
+      "in_original_2026_10_27_worklist": false,
+      "review": {
+        "level": "structural_and_outgoing_links_checked",
+        "cohort": "WCL-130",
+        "purpose": "people_article",
+        "depicted_source_window": "Vorel E000; community E016 onward; final S3E18",
+        "source_window_note": "Article/overview coverage as read; not an independently auditioned first/last appearance across all audio",
+        "D048_structure": "observed_reader_subject",
+        "outgoing_local_links_checked": 18,
+        "outgoing_broken_links": 0,
+        "footnote_references_rendered": 6,
+        "footnote_definitions_rendered": 6,
+        "size_bytes": 4882,
+        "sha256": "06e158316f5a49c56421c10b2e13a60dfa3db8149518619b104b8970b45f06ba",
+        "incoming_links": "not_checked",
+        "primary_audio": "not_checked",
+        "full_source_claim_accuracy": "not_checked",
+        "native_browser": "deferred_WCL-103",
+        "open_questions": [
+          "Razak Val return/reconstruction not witnessed",
+          "do not generalize clan practice"
+        ]
+      }
+    },
+    {
+      "path": "world/races/orcs.md",
+      "domain": "races",
+      "in_original_2026_10_27_worklist": false,
+      "review": {
+        "level": "structural_and_outgoing_links_checked",
+        "cohort": "WCL-130",
+        "purpose": "people_article",
+        "depicted_source_window": "E010 order contact; later S3E18 relocation",
+        "source_window_note": "Article/overview coverage as read; not an independently auditioned first/last appearance across all audio",
+        "D048_structure": "observed_reader_subject",
+        "outgoing_local_links_checked": 29,
+        "outgoing_broken_links": 0,
+        "footnote_references_rendered": 10,
+        "footnote_definitions_rendered": 10,
+        "size_bytes": 8381,
+        "sha256": "4a3792575a0f3767534659998cd4a85725760cd4324e38bb716935d22aaa738d",
+        "incoming_links": "not_checked",
+        "primary_audio": "not_checked",
+        "full_source_claim_accuracy": "not_checked",
+        "native_browser": "deferred_WCL-103",
+        "open_questions": [
+          "Koromukishi spelling variants, chrome mechanics uncertain",
+          "Vorel resettlement not completed"
+        ]
+      }
+    },
+    {
+      "path": "world/races/pixies.md",
+      "domain": "races",
+      "in_original_2026_10_27_worklist": false,
+      "review": {
+        "level": "structural_and_outgoing_links_checked",
+        "cohort": "WCL-130",
+        "purpose": "people_article",
+        "depicted_source_window": "P0D E031–E056; alternate Pod E110 and S2E04",
+        "source_window_note": "Article/overview coverage as read; not an independently auditioned first/last appearance across all audio",
+        "D048_structure": "observed_reader_subject",
+        "outgoing_local_links_checked": 35,
+        "outgoing_broken_links": 0,
+        "footnote_references_rendered": 11,
+        "footnote_definitions_rendered": 10,
+        "size_bytes": 8097,
+        "sha256": "2c74fa25b2b61bac12f663f59b44466f6b07da7c2ca5e7007a0babc94aef30fb",
+        "incoming_links": "not_checked",
+        "primary_audio": "not_checked",
+        "full_source_claim_accuracy": "not_checked",
+        "native_browser": "deferred_WCL-103",
+        "open_questions": [
+          "pixie farm not comprehensively visited or freed",
+          "alternate Pod is not revived original P0D",
+          "no established Feywild homeland"
+        ]
+      }
+    },
+    {
+      "path": "world/races/tieflings.md",
+      "domain": "races",
+      "in_original_2026_10_27_worklist": false,
+      "review": {
+        "level": "structural_and_outgoing_links_checked",
+        "cohort": "WCL-130",
+        "purpose": "people_article",
+        "depicted_source_window": "Hope E000; T'ietkalla E047 onward; final S3E18",
+        "source_window_note": "Article/overview coverage as read; not an independently auditioned first/last appearance across all audio",
+        "D048_structure": "observed_reader_subject",
+        "outgoing_local_links_checked": 19,
+        "outgoing_broken_links": 0,
+        "footnote_references_rendered": 6,
+        "footnote_definitions_rendered": 6,
+        "size_bytes": 4670,
+        "sha256": "36da15fbb113f230a97398d3b6fc4a8baf7a3aa7f0fb154a6893cabd7bc7d788",
+        "incoming_links": "not_checked",
+        "primary_audio": "not_checked",
+        "full_source_claim_accuracy": "not_checked",
+        "native_browser": "deferred_WCL-103",
+        "open_questions": [
+          "kingdom reconstruction not completed",
+          "no single political outlook"
+        ]
+      }
+    },
+    {
+      "path": "world/technology/augmentation-cylinder.md",
+      "domain": "technology",
+      "in_original_2026_10_27_worklist": true,
+      "review": {
+        "level": "pending_current_per_file_review"
+      }
+    },
+    {
+      "path": "world/technology/book-of-adjacencies.md",
+      "domain": "technology",
+      "in_original_2026_10_27_worklist": true,
+      "review": {
+        "level": "pending_current_per_file_review"
+      }
+    },
+    {
+      "path": "world/technology/chromes-bane.md",
+      "domain": "technology",
+      "in_original_2026_10_27_worklist": true,
+      "review": {
+        "level": "pending_current_per_file_review"
+      }
+    },
+    {
+      "path": "world/technology/diontalus-ocarina.md",
+      "domain": "technology",
+      "in_original_2026_10_27_worklist": true,
+      "review": {
+        "level": "pending_current_per_file_review"
+      }
+    },
+    {
+      "path": "world/technology/diplomacy.md",
+      "domain": "technology",
+      "in_original_2026_10_27_worklist": true,
+      "review": {
+        "level": "pending_current_per_file_review"
+      }
+    },
+    {
+      "path": "world/technology/elhandari-enchanted-equipment.md",
+      "domain": "technology",
+      "in_original_2026_10_27_worklist": false,
+      "review": {
+        "level": "structural_and_outgoing_links_checked",
+        "cohort": "WCL-130",
+        "purpose": "source_led_gear_register",
+        "depicted_source_window": "S3E03–S3E18",
+        "source_window_note": "Article/overview coverage as read; not an independently auditioned first/last appearance across all audio",
+        "D048_structure": "source_first_exception_candidate",
+        "outgoing_local_links_checked": 16,
+        "outgoing_broken_links": 0,
+        "footnote_references_rendered": 0,
+        "footnote_definitions_rendered": 0,
+        "size_bytes": 8292,
+        "sha256": "2c2793e154c64f1dec251809e1da5d5356851b1109321d3d5f724ca2b556d28a",
+        "incoming_links": "not_checked",
+        "primary_audio": "not_checked",
+        "full_source_claim_accuracy": "not_checked",
+        "native_browser": "deferred_WCL-103",
+        "open_questions": [
+          "owner-by-owner terminal inventory unresolved",
+          "technical register exception needs formal D-048 disposition"
+        ]
+      }
+    },
+    {
+      "path": "world/technology/eye-of-groxl.md",
+      "domain": "technology",
+      "in_original_2026_10_27_worklist": true,
+      "review": {
+        "level": "pending_current_per_file_review"
+      }
+    },
+    {
+      "path": "world/technology/eye-of-the-voice.md",
+      "domain": "technology",
+      "in_original_2026_10_27_worklist": false,
+      "review": {
+        "level": "structural_and_outgoing_links_checked",
+        "cohort": "WCL-130",
+        "purpose": "source_led_artifact_reference",
+        "depicted_source_window": "E106–S3E18",
+        "source_window_note": "Article/overview coverage as read; not an independently auditioned first/last appearance across all audio",
+        "D048_structure": "source_first_exception_candidate",
+        "outgoing_local_links_checked": 21,
+        "outgoing_broken_links": 0,
+        "footnote_references_rendered": 0,
+        "footnote_definitions_rendered": 0,
+        "size_bytes": 7404,
+        "sha256": "6dbc3d0eeee5a5859287e1f0a9914f404c979bb7585d451d8f20ab4dcbb8bee6",
+        "incoming_links": "not_checked",
+        "primary_audio": "not_checked",
+        "full_source_claim_accuracy": "not_checked",
+        "native_browser": "deferred_WCL-103",
+        "open_questions": [
+          "Eye never physically confirmed or retrieved",
+          "precise location, appearance and abilities remain unknown"
+        ]
+      }
+    },
+    {
+      "path": "world/technology/fate-4.md",
+      "domain": "technology",
+      "in_original_2026_10_27_worklist": true,
+      "review": {
+        "level": "pending_current_per_file_review"
+      }
+    },
+    {
+      "path": "world/technology/fate-six.md",
+      "domain": "technology",
+      "in_original_2026_10_27_worklist": true,
+      "review": {
+        "level": "pending_current_per_file_review"
+      }
+    },
+    {
+      "path": "world/technology/gem-of-tides.md",
+      "domain": "technology",
+      "in_original_2026_10_27_worklist": true,
+      "review": {
+        "level": "pending_current_per_file_review"
+      }
+    },
+    {
+      "path": "world/technology/hand-of-the-voice.md",
+      "domain": "technology",
+      "in_original_2026_10_27_worklist": true,
+      "review": {
+        "level": "pending_current_per_file_review"
+      }
+    },
+    {
+      "path": "world/technology/henatar-guitar.md",
+      "domain": "technology",
+      "in_original_2026_10_27_worklist": true,
+      "review": {
+        "level": "pending_current_per_file_review"
+      }
+    },
+    {
+      "path": "world/technology/hollow-ring.md",
+      "domain": "technology",
+      "in_original_2026_10_27_worklist": true,
+      "review": {
+        "level": "pending_current_per_file_review"
+      }
+    },
+    {
+      "path": "world/technology/mask-of-eltanfawr.md",
+      "domain": "technology",
+      "in_original_2026_10_27_worklist": true,
+      "review": {
+        "level": "pending_current_per_file_review"
+      }
+    },
+    {
+      "path": "world/technology/mask-of-elton-iv.md",
+      "domain": "technology",
+      "in_original_2026_10_27_worklist": true,
+      "review": {
+        "level": "pending_current_per_file_review"
+      }
+    },
+    {
+      "path": "world/technology/nash-dragon-heart.md",
+      "domain": "technology",
+      "in_original_2026_10_27_worklist": true,
+      "review": {
+        "level": "pending_current_per_file_review"
+      }
+    },
+    {
+      "path": "world/technology/noble-speeder.md",
+      "domain": "technology",
+      "in_original_2026_10_27_worklist": true,
+      "review": {
+        "level": "pending_current_per_file_review"
+      }
+    },
+    {
+      "path": "world/technology/portal-device.md",
+      "domain": "technology",
+      "in_original_2026_10_27_worklist": true,
+      "review": {
+        "level": "pending_current_per_file_review"
+      }
+    },
+    {
+      "path": "world/technology/rejuvenation-syringe.md",
+      "domain": "technology",
+      "in_original_2026_10_27_worklist": true,
+      "review": {
+        "level": "pending_current_per_file_review"
+      }
+    },
+    {
+      "path": "world/technology/rubistic-triangulosphere.md",
+      "domain": "technology",
+      "in_original_2026_10_27_worklist": true,
+      "review": {
+        "level": "pending_current_per_file_review"
+      }
+    },
+    {
+      "path": "world/technology/traversal-drive.md",
+      "domain": "technology",
+      "in_original_2026_10_27_worklist": true,
+      "review": {
+        "level": "pending_current_per_file_review"
+      }
+    },
+    {
+      "path": "world/technology/windboards.md",
+      "domain": "technology",
+      "in_original_2026_10_27_worklist": true,
+      "review": {
+        "level": "pending_current_per_file_review"
+      }
+    }
+  ]
+}

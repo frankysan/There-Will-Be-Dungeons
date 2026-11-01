@@ -15,12 +15,15 @@ If records disagree, reconcile actual bytes and decisions, never unsupported suc
 
 1. Inspect live Git status/HEAD and the register's next actionable WCL ID.
    A named user task takes precedence. Evaluate its dependencies and a
-   **small lookahead set** of related eligible siblings or same-source tasks
-   according to [the cleanup skill's adaptive batching contract](../SKILL.md).
+   **lookahead set** of related eligible siblings or same-source tasks
+   according to [the cleanup skill's D-082 adaptive batching contract](../SKILL.md).
+   Default to the largest manageable, dependency-safe cohort instead of
+   stopping at four files or one task by habit.
    An older unchecked deferred/conditional task is not automatically next.
-2. Record a compact **selected task ID set and ordered dependency/operation
-   plan** in the relevant existing WCL entries. Do not create another batch
-   record. The same source may support multiple IDs, but each retains its
+2. Record a compact **selected exact path set, task ID set and dependency/
+   operation plan** in the existing WCL/census records. A four-file anchor
+   may gain other related pending paths after preflight; do not silently
+   expand or claim unexamined work. Do not create another batch record. The same source may support multiple IDs, but each retains its
    own acceptance condition; parents close only after required children and
    the parent exit gate are actually satisfied.
 3. Preflight the union of unique input sizes, source windows, link/fragment
@@ -28,25 +31,28 @@ If records disagree, reconcile actual bytes and decisions, never unsupported suc
    all files. Group small related tasks and split large/conflicting ones;
    reserve room for edits, checks and checkpointing. This is an approximate
    context budget, not a claimed exact token count.
-4. After each complete task, persist evidence and its individual checkbox.
-   If a tool or session interrupts the cohort, compare actual persisted bytes
-   and resume the first unfinished ID or operation, retaining all previously
-   validated work. Do **not** rerun the whole group.
+4. Checkpoint each finished **file's evidence and validations** as the cohort
+   proceeds; mark each WCL checkbox independently after all of that task's
+   outputs pass. Prefer a **single task-register update per coherent cohort**
+   where practical. If interrupted, compare actual persisted bytes and
+   resume only unfinished IDs or operations, retaining completed work. Do **not** rerun the whole group.
 5. At close, read back only changed WCL entries, update the register's one
    next-action pointer, and run bounded remaining checks. The manifest changes
    only for actual artifact dispositions; the milestone log only for meaningful
    decisions or changes. Never append progress in the old redirect or create
    a parallel "completed batch" ledger.
 
-## Grouped world census: per-file recovery contract (owner approved 2026-10-27)
+## Grouped world census: per-file recovery contract (D-082, 2026-11-01)
 
-For Phase 0 **read-only structural audits**, record related files as per-file
-subrecords under their **selected WCL task IDs**, or a linked continuing census
-when the list is extensive, without a report per group. Preflight live Git
-status, actual file sizes and evidence overlap; choose the number of files
-by the skill's adaptive context/complexity budget. Four to six short files
-is a possible *small* census grouping, not a target to fill. Never add
-unrelated work merely to reach a numeric count.
+For read-only structural audits, record related files as per-file subrecords
+under their selected WCL task IDs or the continuing world census, with no
+per-batch report. Preflight live Git state, file sizes, evidence overlap,
+source and link density, and approval/tool limits. The new D-082 defaults
+prefer roughly **10–15 short, 5–8 medium, or 1–3 large related files**, with
+**800–1,500 source lines when practical**, instead of a routine four-file
+cohort. These are not quotas; choose fewer for dense or difficult work, and
+do not add unrelated files merely to fill a number. The October 27 small
+batch pilot is historical guidance, not the current selection limit.
 
 Create one **file record per planned path**, with:
 
@@ -62,9 +68,11 @@ Create one **file record per planned path**, with:
 - Any owner approval needed before a **material content edit**. Read-only
   structural completion is not `fact-reviewed`, `audio-verified` or accepted.
 
-**Checkpoint each completed file under its specific WCL task**, not in a new file:
-update its status to `complete` only following full line coverage and saved
-findings; persist the next file and any error.
+**Checkpoint each completed file in its existing WCL/census record**, not a
+new file: mark its per-file review level only after actual full line coverage,
+provenance and the applicable checks, with missing validations explicit.
+The parent WCL checkbox remains unchecked until the complete selected task
+scope passes. One cohort may close multiple independently evidenced WCL IDs.
 If the tool times out, do not mark in-flight work complete. On resume compare
 Git status and source input, retain evidenced completed files, recheck any changed
 input, and resume the first `reading` or `unknown` record from its last verified
@@ -74,7 +82,9 @@ files as complete. A required **unapproved substantive edit stops the entire
 cleanup batch** under the skill's owner-approval gate; never process a different
 file as a workaround. Read-only investigation can document the blocked choice.
 
-At close, check off **each independently verified WCL task**, read back only changed entries and check Git scope. Update the manifest only for actual file dispositions; never mirror task completion in progress. Do not create PRE_ copies for routine control edits. If interrupted, reconcile the task against persisted evidence without repeating finished reads. Count world
+At close, check off **each independently verified WCL task**, reconcile full
+census counts and unique paths, read back only changed entries and check Git
+scope. Do not rerun every already passed file check as a final monolithic audit. Update the manifest only for actual file dispositions; never mirror task completion in progress. Do not create PRE_ copies for routine control edits. If interrupted, reconcile the task against persisted evidence without repeating finished reads. Count world
 first-pass coverage per completed **unique path**; do not change the original
 134-file worklist's `listed_only` directory-baseline states. Missing hashes,
 source/fact/audio verification, incoming/backlink checks or lint remain explicitly

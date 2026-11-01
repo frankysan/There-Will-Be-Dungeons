@@ -30,6 +30,24 @@ For ordinary bounded edits, minor copyedits, audits, incremental drafting, sourc
 
 Use `reports/` for **independently useful findings** (e.g. substantive research, new evidence, comparisons or milestone reviews), not automatic one-report-per-task, per-chapter, per-status-check or per-retry paperwork. Prefer appending a short entry to a stable workstream log and linking to existing evidence. Recovery checkpoints may be updated after meaningful operations or interruptions **without creating a separate file each time**. Existing reports and `research/legacy/` artifacts are not retroactively disposable: inventory and propose deduplication, retain unique evidence and accepted baselines, and obtain approval before deletions or structural moves. This policy controls conflicting older per-operation snapshot/report wording in project plans and skills.
 
+## Wastes adaptive batching (owner decision D-082, 2026-11-01)
+
+For `$twbd-wastes-cleanup`, prefer **larger, coherent, dependency-safe cohorts**
+instead of routinely performing four files or one WCL task per conversation.
+Planning sizes: **10–15 short** files, **5–8 medium** files, **1–3 large/dense**
+files, or several compatible low-risk editorial tasks, often **800–1,500
+combined lines** for tractable inventories. These are flexible estimates,
+not quotas or permission to omit individual checks. Preflight actual sizes,
+source complexity, safety/tool limits, dependencies and authority; process
+in bounded waves, checkpoint per-file evidence in the live census, and
+complete each WCL checkbox independently. Prefer one compact task-register
+update per coherent cohort; no redundant batch reports, extra backups,
+full-suite verification or claims of tests not run. The [D-082 decision](project/DECISIONS.md)
+and [cleanup skill](.agents/skills/twbd-wastes-cleanup/SKILL.md) supersede
+older 2026-10-27 small-batch numeric guidance only for current Wastes work.
+All other source, preservation, canonical-name, browser/audio and publication
+safeguards remain unchanged.
+
 **Minor-editorial autonomy (owner clarification, 2026-10-28; D-047):** Small, unambiguous spelling, typo, punctuation, grammar and reader-facing canonical-name/display corrections may be made without seeking separate approval. Check each referent in context and record the standing permission; preserve legacy paths, links, identifiers, direct quotations, evidence/uncertainty, original audio and source material. Verify bounded deltas against the current working tree. **Still request approval before any substantive, ambiguous or meaning-changing work**, including canon/identity determinations, historical reinterpretation, structural moves, renames, deletions and narrative rewrites. Do not turn a minor-copyedit exception into permission for wide or blind replacements.
 
 **Project-wide reader-first presentation (owner direction D-048, 2026-10-28):** On **every new or revised reader-facing README, overview, index, narrative introduction and ordinary world-reference page**, lead with story, fictional world, lore and history. Put production/project-process notes, source/ASR methodology, audit status, links to reports, and illustration-generation records **last or in properly referenced Markdown footnotes**—not in the opening reader experience. Overview pages end with a clearly separated **Sources and project notes** section; in-universe subject pages end their story with **Current status/Lasting legacy**, then source footnotes. Do not automatically restore the illustration embeds the owner removed from **Fate 4** and **Dusthill**. This presentation rule applies to **Wastes, Delvers, Inverse, one-shots and bonus portals**, while original transcripts, source-first dossiers, technical instructions and specialist registers retain the functional evidence-first structure they need. **Full standard:** [reader-first presentation](project/READER_FIRST_PRESENTATION.md). This is not permission to rewrite lore, invent scenes or erase sources; roll out existing-page cleanup in bounded preserved batches under established substantive gates.

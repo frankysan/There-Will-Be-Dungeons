@@ -75,8 +75,9 @@ the old phase-plan "next" sentences, or manifest/changelog pointers.**
    archives. Estimate unique source bytes/lines, primary episodes or evidence
    windows, files and incoming links to edit, expected output, validation
    effort, risk of conflicting work, and source/approval uncertainty. Use the
-   **adaptive batching rules below**. Choose a small ordered cohort; it may
-   contain one task if the anchor itself is extensive. Do not group merely
+   **D-082 adaptive batching rules below**. Prefer the largest coherent,
+   dependency-safe ordered cohort that can be fully reviewed and validated;
+   retain a single focused task for genuinely dense or gated work. Do not group merely
    because several checkboxes are adjacent in the register.
 5. **Execute in dependency order.** Record a compact intent and selected IDs
    in their existing task entries (no extra batch journal), then perform each
@@ -92,91 +93,103 @@ the old phase-plan "next" sentences, or manifest/changelog pointers.**
    dispositions/compatibility, and the changelog only for meaningful
    milestones/decisions. Never maintain a parallel progress log.
 
-### Adaptive, context-safe grouping of multiple tasks
+### Adaptive, context-safe grouping of multiple WCL tasks (D-082)
 
-**Default: consider a cohort every time**, but prefer a useful finished
-subset to a large unfinished batch. Make an explicit **group-or-split**
-judgment at the beginning and reconsider after each completed task.
+**Default: select the largest coherent, dependency-safe cohort that can actually
+finish and be validated.** Do not limit a normal interaction to four files or
+one WCL task merely out of habit. Start from the authoritative next-action
+WCL ID, preflight a small lookahead of eligible related tasks/paths, and
+bundle their shared reads, edits and validation when the combined scope is
+manageable. Every file retains its own source horizon and validation result;
+every WCL checkbox retains its own acceptance gate. A larger invocation does
+**not** make an incomplete task complete.
 
-| Work type | Usual grouping decision |
-| --- | --- |
-| Several small read-only checks on the same file/source | Group 2–6 short tasks if their evidence and acceptance checks overlap; share source reads |
-| Bounded independent copyedits/cross-links | Group about 2–4 low-risk tasks if approval, change set and validations are compatible |
-| One large biography/technical register, source-heavy audio check, contested canon, schema migration or major rewrite | Prefer one focused task, or a few ordered *stages of the same task*; plan a new slice before expanding |
-| Prerequisite → dependent task (such as [WCL-044](../../../project/WASTES_CLEANUP_TASKS.md#wcl-044) → [WCL-045](../../../project/WASTES_CLEANUP_TASKS.md#wcl-045) → [WCL-046](../../../project/WASTES_CLEANUP_TASKS.md#wcl-046)) | May share one research pass, **but close each separately and do not start the dependent edit/decision until prerequisite evidence is real** |
-| Browser-deferred, conditional public-release or unapproved substantive task | Not eligible for opportunistic grouping; retain the gate and request an owner decision where genuinely required |
-
-**Context and response budget (heuristic, not a precise token meter):**
-
-- Estimate the **union** of newly needed evidence, not the sum of repeated
-  references. Prefer small numbered-line windows and distilled findings over
-  copying whole articles into context. A large WCL record is not a mandate to
-  reread every historical batch.
-- Keep the next slice comfortably within the remaining context. Reserve
-  substantial room for comparing evidence, making guarded edits, checking
-  output, updating task status and explaining limitations. As a conservative
-  fallback, treat roughly **30,000 characters of newly read dense source text**
-  as a *preflight split warning*, **not a quota**; one large article may need
-  consecutive bounded reads and persisted subrecords. If the source is dense,
-  ambiguous or tool outputs are large, split sooner. Never claim an exact
-  remaining-token count without supporting instrumentation.
-- Limit verification fan-out to **1–3 small calls**, summarize responses
-  inside tools, and avoid forwarding full rendered HTML, massive diffs,
-  base64 text or repeated archived source. Keep independent validations
-  incremental, not one high-cost final sweep.
-- If a task develops new source uncertainties, incompatible edits, failing
-  checks or a required substantive owner decision, **shrink or stop the
-  cohort**. Preserve completed tasks, record the precise blocker in its
-  WCL entry, and do not pick unrelated substantive work merely to evade it.
-- If one task is too large, record a *checkpointed internal stage* within
-  that ID or register a new independently verifiable child ID; **do not
-  tick the checkbox until its full exit criteria are satisfied**. Parent
-  checkboxes are gates, not summaries of a sample.
-- Example: a read-only review may efficiently cover WCL-044–046 with a
-  shared Nash article inventory **only if** heading/anchor findings and
-  historical cutoffs are actually completed before recording the structural
-  disposition. Independently dense Hope/Vorel/Stanley biographies (WCL-047–049)
-  should normally be separate source-reading slices.
-
-### Bounded multi-file audit selection (owner approved 2026-10-27)
-
-For a **structural read-only inventory**, choose files by theme and source
-relationship (e.g. items and related technology, or several creature profiles),
-not simply because they sort next. Within the chosen eligible WCL task(s),
-start with the specified prerequisite paths and select other related unread
-files only if the adaptive source and context preflight allows it.
-Preflight line counts, scope, dependency/claim density and source horizons before
-fixing the ordered targets. Do not mark a worklist entry as read until its
-actual full numbered-line census and findings are recorded.
-
-| Complexity | Preferred grouping | Total source-line planning envelope |
+| Work type | Typical candidate group | Planning notes |
 | --- | --- | --- |
-| Short subject files (roughly 15–50 lines) | 4–8 related files | Around 300 lines |
-| Medium subject files (roughly 50–150 lines) | 2–4 related files | Around 350 lines |
-| Large subject files (roughly 150–300 lines) | 1–2 where tractable | Around 400 lines |
-| Complex technical registers or files above 300 lines | One standalone file or checkpointed chunks | Separate batch |
+| Short character, creature or technology profiles | **10–15 related files** | Usually uncomplicated structure; group by relationships and actual sizes |
+| Medium reference/reader articles | **5–8 related files** | Favor a common source or link neighborhood |
+| Large or dense source documents | **1–3 files** | Use numbered chunks and checkpoints; one very dense register may still stand alone |
+| Compatible low-risk editorial WCL tasks | **Several tasks together** | Preserve substantive approvals, exact file ownership and independent acceptance |
+| Blocked browser, disallowed tool, contested canon or unapproved task | **Do not combine to evade the gate** | Record the blocker; safely complete independent already authorized work only when it does not depend on the blocked action |
 
-These envelopes are **guidelines, not quotas**. Split early if dense links, source
-uncertainty, conflicting canon, tool limits or a necessary approval decision makes
-a grouping unsafe. The historic **Batch 15** pilot instruction is retained only as historical
-method guidance, **not a live next-action pointer**. Use the next unchecked
-WCL task and name the actual selected paths before reading them in full.
-Grouping does not permit more substantive edits.
+**Typical source-line envelope:** Aim for roughly **800–1,500 combined
+source lines** on ordinary light-to-medium inventory cohorts *when practical*.
+This is a guide to reduce repetitive overhead, not a target to pad: ten tiny
+profiles may be 250 lines, and a single dense register may be 1,000 lines
+read in chunks. Adapt downward for large paragraphs, many source claims,
+many link targets/footnotes, rendering limits, slow tools, source ambiguity,
+or overlapping work. Counts and line lengths are not a token meter.
 
-The active **WCL task entry**, or an evidence-bearing linked census record when
-one task needs many per-file subrecords, retains them without a per-batch report:
-path,
-ordered operation ID, actual line coverage/size, purpose and source horizon,
-headings/notes/links (in-world listed versus out-of-world unchecked), D-044/D-045
-migration leads, verification limits and `queued | reading | complete | blocked |
-unknown` state. After each fully processed file, save a recovery checkpoint.
-An interrupted or ambiguous operation must be reconciled from actual data before
-resuming; retain completed per-file work and never infer results for unread files.
-At cohort close, update **each completed task's checkbox and distinct evidence/limits**,
-read back only the changed WCL entries and inspect Git status. Change the manifest only for actual disposition
-changes; the progress compatibility redirect must not be updated per batch. Keep the preserved 134-file
-world directory worklist as a `listed_only` baseline; track first-pass completion
-in separate evidence records. See [progress and recovery](references/progress-and-recovery.md).
+**Preflight and processing budget:**
+
+1. Inspect file metadata, actual line counts/bytes and a few introductory
+   slices before committing to the cohort. Estimate the **union of new
+   evidence**, expected link and footnote validation, output/result size,
+   source provenance, prerequisites and approval risk. Record the **exact
+   selected paths and WCL IDs** in their existing task/census records;
+   an expandable anchor is not a license to check unseen files.
+2. Work in **bounded waves** (usually 1–3 tool calls per wave, with compact
+   in-tool summaries). Read full contents of each selected file in numbered
+   chunks; do not forward all file bodies, full rendered HTML, raw diffs or
+   archives into conversation context. Around **30,000 characters of dense
+   source text in a single response** is a warning to reduce *that response
+   or wave*, **not** a hard ceiling on the whole recoverably checkpointed
+   cohort. Reserve capacity for interpretation, guarded changes and checks.
+3. Capture one individually attributable record per file: current hash/size,
+   fully read line coverage, source horizon and uncertainty, presentation
+   classification, local-link and fragment validation limits, footnotes,
+   image embeds, incoming examples and any failed/not-run checks. Keep
+   working validation distinctions (renderer first-100, independent target
+   existence, native-browser deferred) instead of promoting a partial check
+   to a pass. Use the live census for file dispositions and the WCL task
+   register for task completion; **no new batch report**.
+4. Checkpoint finished **per-file evidence** incrementally so a stream error
+   or oversized response never invalidates other finished work. Run scoped
+   checks by file or small group; **update the task register once per
+   coherent batch when possible**, checking off each independently
+   completed WCL ID and advancing one next-action pointer. If an ID
+   requires several files and only some pass, leave that checkbox open
+   with a recoverable exact subset and blockers.
+5. Reconsider group size after every checkpoint. Shrink, split or stop
+   for tool safety restrictions, actual context pressure, mismatched source,
+   missing authorization, incompatible edits or genuine canon ambiguity.
+   Never circumvent a blocked tool with alternate instructions. Avoid
+   repeatedly running whole-cohort final checks; verify only new or
+   uncertain deltas and the aggregate census/task consistency at close.
+
+The historical WCL-044–049 sequencing and old October 27 small-file pilot
+remain examples of dependency and source caution, **not live numeric batch
+limits**. This D-082 strategy changes execution economy, not D-048,
+D-052, D-078, D-081, canonical/audio, public/private or Git permissions.
+
+### Live multi-file audit selection (D-082 supersedes October 27 pilot)
+
+For a structural read-only census, use the **larger adaptive cohorts above**
+instead of the historical **4–8 short / 2–4 medium / 1–2 large files**
+and **300–400 combined source lines**. That 2026-10-27 guidance and
+Batch 15 pilot remain historical method evidence only. Start with the
+controlling WCL anchor, then choose other **eligible, related, pending**
+paths or WCL siblings after preflighting sizes, dependencies and source
+density; do not automatically group by alphabetical adjacency. Name exact
+chosen paths and WCL IDs before reading. When the anchor names four files,
+all four remain required, but additional compatible paths may be included
+under the owner-approved D-082 cohort procedure **after their scope is
+explicitly recorded and their independent evidence will be retained**.
+
+Use the current `project/WASTES_WORLD_FILE_CENSUS.json` as one per-path
+evidence store, retaining current source hash, actual line coverage,
+provenance, headings, incoming examples, footnotes/images, link and
+fragment coverage, and distinct `queued | reading | complete | blocked |
+unknown` verification states. Record renderer 100-link limits or safety
+blocks exactly, rather than replacing them with file-existence passes.
+If interrupted, retain completed per-file dispositions and resume only
+the first unknown/pending record after rereading Git status. Check off a
+WCL task only when **all of its selected required outputs** meet its
+documented exit criteria; unfinished work stays open, even if another
+WCL in the same invocation is completed. At cohort close, update the one
+task-register next-action pointer and validate census counts/unique paths.
+Do not generate an extra task journal, per-batch reports or redundant
+snapshots.
 
 **Fresh access preflight at every file-access batch:** Before the first read or
 write of each bounded group of files, each resumed work slice and each batch
@@ -197,7 +210,6 @@ stale remote tree. Verify results and distinguish applied changes from Git
 patches or ZIP bundles requiring manual application. If no method can apply a
 required edit, retain an explicit reconciliation checkpoint and report it as
 pending, never completed. All owner-approval gates still apply.
-
 
 ### Editorial autonomy and mandatory substantive owner-approval gate
 

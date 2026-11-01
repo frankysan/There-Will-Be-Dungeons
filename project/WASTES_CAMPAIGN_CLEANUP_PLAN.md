@@ -129,37 +129,58 @@ For every completed check record episode, absolute audio time/cues, source ident
 
 Phases 3–5 can proceed in carefully scoped linked batches. **Record progress and validation in one WCL checkbox entry** rather than parallel progress/manifest/changelog summaries. Reports remain for independently useful source research. Run scoped Markdownlint, link/anchor and whitespace checks where available; distinguish performed checks from recommended checks. Do not run the full test suite unnecessarily.
 
-### Bounded multi-file cleanup batches (owner approved 2026-10-27)
+### Adaptive, multi-file cleanup cohorts (D-082, owner approved 2026-11-01)
 
-**Phase 0 read-only structural inventory** should normally review *several related
-short world files per batch*, rather than opening and closing a report for each
-small article. Group by domain/source relationships, inspect actual lengths and
-complexity before selecting an ordered set, and preserve individual per-file
-findings under **one WCL task or linked census**. Recommended planning envelopes:
+The owner explicitly replaced the former highly conservative review cadence with
+**larger, adaptive batches**, to reduce repetitive reads, validations and
+task-register edits while keeping the per-file evidence contract. The
+2026-10-27 **4–8 short / 2–4 medium / 1–2 large file** and **300–400 line**
+pilots are superseded **for active selection**, but remain historical context;
+the older Batch 15 plan is not a live next-action pointer. The [cleanup
+skill](../.agents/skills/twbd-wastes-cleanup/SKILL.md) governs execution,
+[recovery instructions](../.agents/skills/twbd-wastes-cleanup/references/progress-and-recovery.md)
+govern interruption, and the [WCL task register](WASTES_CLEANUP_TASKS.md)
+owns statuses and the next action.
 
-| Source type | Typical grouping | Total source-line guide |
-| --- | --- | --- |
-| Short articles (~15–50 lines) | 4–8 related files | ~300 lines |
-| Medium articles (~50–150 lines) | 2–4 related files | ~350 lines |
-| Large articles (~150–300 lines) | 1–2 when safe | ~400 lines |
-| Registers / complicated source material / more than 300 lines | One file or bounded chunks | Standalone checkpoint |
+| Source/work type | Typical compatible files or tasks per execution |
+| --- | --- |
+| Short character, creature and technology articles | **10–15 files** |
+| Medium world-reference or narrative articles | **5–8 files** |
+| Large biographies, source-dense registers or long documents | **1–3 files**, with internal checkpoints as needed |
+| Several low-risk related editorial WCL tasks | Group if common evidence, approvals and validations permit |
 
-These are **adaptive guides**, not minimum throughput. Prefer fewer files when
-contention, density, uncertain provenance or cross-reference complexity demand
-it. The original **Batch 15 pilot** was a historical planning example, not the current resume action. Select related files using the next eligible [WCL ID](WASTES_CLEANUP_TASKS.md), record actual paths and line counts, and do not mark preflight as completed audit.
+For ordinary light-to-medium review, plan **about 800–1,500 combined source
+lines when practical**, not as a target to fill: a batch of 10 tiny pages
+may total fewer, and a very long technical register may need its own
+chunked audit. Preflight current line counts/bytes, provenance, link/footnote
+density, dependencies, approvals and context/tool limits. Start with the
+authoritative WCL anchor; a small lookahead may add related eligible
+**pending** files or independent tasks when the **exact chosen paths and
+WCL IDs** are recorded. The existing anchor's named files remain required.
+No speculative source expansion or checkbox completion from a preflight.
 
-Each chosen file needs one WCL subrecord with actual line coverage, source horizon, link split, notes, validation limits and recoverable state. Checkpoint the **same task record** after each file; at close, check off only evidenced tasks and read back the updated checklist. Change the manifest only when file disposition or compatibility changed, **never update the progress redirect**, and check Git status. On timeout recover completed files and resume only unconfirmed work.
-A pending unapproved substantive edit **stops the entire batch**, and the agent
-must not jump to another file to avoid asking the owner. See the
-[cleanup skill](../.agents/skills/twbd-wastes-cleanup/SKILL.md) and its
-[recovery instructions](../.agents/skills/twbd-wastes-cleanup/references/progress-and-recovery.md).
+Read and validate in **bounded waves**, not one huge response. Store
+**individual** source horizons, D-048 dispositions, link/fragment counts
+and limits, footnotes, hashes, incoming samples and caveats in the
+[146-path current world census](WASTES_WORLD_FILE_CENSUS.json) or owning
+WCL entry. Check off each WCL task **independently** only after all its
+required outputs have been read back and validated. At the end of a
+coherent batch, reconcile census totals and update **one** next-action
+pointer in the task register; avoid appending duplicate manifest,
+changelog and progress reports. On an interrupted operation or a blocked
+check, retain verified per-file work, leave incomplete acceptance pending,
+and resume only the uncertain part. Any renderer or safety limit must be
+recorded literally and must not be bypassed.
 
-**Coverage accounting remains per world file, not per batch.** The
-134-unique-path `WASTES_CLEANUP_WORLD_WORKLIST_2026-10-27.json` remains a
-`listed_only` directory snapshot; it must not be rewritten to claim fact/auditory
-approval. At the Batch 14 checkpoint, **14 of 134** world files have full first-pass
-structural reads and **120 remain**. This batching change does not itself audit
-another world file, advance the phase or authorize content changes.
+**This is an efficiency decision, not relaxed verification or added
+substantive authorization.** Preserve one exact baseline before a major
+rewrite (D-052), original source/ASR and episode knowledge boundaries,
+D-048 reader-first distinctions, owner D-081 boundaries and D-078's
+browser deferral. Do not infer audio validation, native-browser pass,
+canon certainty, commits, public deployment or publication. Coverage
+remains per **unique current file**, not per batch. The immutable
+2026-10-27 134-file worklist records a historical baseline; live counts
+come only from the current census.
 
 ## 8. Additional improvements to track
 
