@@ -12,7 +12,7 @@ At the Elhandar lakeside cottage, Dilo recalled watching Stanley defend the resc
 
 During the hunt, Stanley transformed into a Tyrannosaurus rex and the companions killed Chester. Six seemingly grateful talking deer then approached. Stanley exposed one as an elf under a magical disguise, and all six attacked. Dilo first appeared to aid Hope with unarmed strikes, but as Stanley began *Destructive Wave*, the young elf gave a prearranged signal. One of the attackers sealed Hope in a floating magical sphere and threw Dilo its control wand. Dilo caught the device and escaped with his captive, running far faster than he previously had. Hope's attempted *Teleport* failed inside the sphere.[^dilo-betrayal]
 
-His collusion and the abduction were witnessed. They did **not**, at that moment, identify the person directing him or establish whether he acted freely. Stanley had earlier feared that Dilo might be connected to the dangerous figure mentioned in the [Principal's](the-principle.md) warning; that fear was not yet proof of possession.[^dilo-suspicion]
+His collusion and the abduction were witnessed. They did **not**, at that moment, identify the person directing him or establish whether he acted freely. Stanley had earlier feared that Dilo might be connected to the dangerous figure mentioned in the [Principal's](the-principal.md) warning; that fear was not yet proof of possession.[^dilo-suspicion]
 
 ## E121 — the true agent revealed
 

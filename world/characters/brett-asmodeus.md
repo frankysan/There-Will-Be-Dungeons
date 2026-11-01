@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Brett, also heard as Brent or Brant, was an urbane infernal casino host who offered [Hope Akmenos](hope-akmenos.md) hospitality, gifts and bargains after her separation from the other adventurers. He presented himself as **Asmodeus**; the [Principal](the-principle.md) later addressed him by that name in person. His demonstrated control over his Hell establishment and several extraordinary acts was real within the played story, but his claims about divine rank, ancient debts and the ownership of souls remain those of an interested participant.[^brett-identity]
+Brett, also heard as Brent or Brant, was an urbane infernal casino host who offered [Hope Akmenos](hope-akmenos.md) hospitality, gifts and bargains after her separation from the other adventurers. He presented himself as **Asmodeus**; the [Principal](the-principal.md) later addressed him by that name in person. His demonstrated control over his Hell establishment and several extraordinary acts was real within the played story, but his claims about divine rank, ancient debts and the ownership of souls remain those of an interested participant.[^brett-identity]
 
 ## Hope's visit to the casino
 

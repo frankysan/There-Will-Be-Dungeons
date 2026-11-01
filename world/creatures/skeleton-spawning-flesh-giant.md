@@ -2,7 +2,7 @@
 
 ## Introduction
 
-A huge, malformed creature of flesh and bone occupied an old stone chamber beneath [Khaervilon](../places/kervalon.md). Extra bones protruded from its body, and cavities in its shoulders opened onto a still more dangerous feature: animated skeletons could erupt from within it.[^nature]
+A huge, malformed creature of flesh and bone occupied an old stone chamber beneath [Khaervilon](../places/khaervilon.md). Extra bones protruded from its body, and cavities in its shoulders opened onto a still more dangerous feature: animated skeletons could erupt from within it.[^nature]
 
 ## Arc Three — the chamber beneath Khaervilon
 

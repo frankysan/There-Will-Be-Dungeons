@@ -8,7 +8,7 @@ Buttons was an intelligent orange cat with spectacles and a mechanical leg, who 
 
 As Stanley's struggles with [Diontalus](diontalus.md) deepened, Buttons became troubled by the changes he saw. Their private conversations in Trashburg revealed affection and distrust as well as disagreement about whom to follow. Buttons' later conduct suggests a divided loyalty: he wanted Stanley separated from the power occupying him, yet chose to act against the companions who had traveled with him.[^buttons-conflict]
 
-At the confrontation with Jolt, Buttons described a counteroffer he claimed to have arranged with [Monsoon Cabbage](monsoon-cabbage.md), involving the **Gem of Tides**, control of T'ietkalla, the [Principal](the-principle.md) and promised rewards. Those details were **Buttons' account of proposed bargains**, not proof that every party had accepted them or that the plans came to pass. The resulting violence brought Buttons into direct conflict with his former companions. Hope restrained and wounded him; **Vorel dealt the fatal sword blow**.[^buttons-ambush]
+At the confrontation with Jolt, Buttons described a counteroffer he claimed to have arranged with [Monsoon Cabbage](monsoon-cabbage.md), involving the **Gem of Tides**, control of T'ietkalla, the [Principal](the-principal.md) and promised rewards. Those details were **Buttons' account of proposed bargains**, not proof that every party had accepted them or that the plans came to pass. The resulting violence brought Buttons into direct conflict with his former companions. Hope restrained and wounded him; **Vorel dealt the fatal sword blow**.[^buttons-ambush]
 
 ## What remained after his death
 

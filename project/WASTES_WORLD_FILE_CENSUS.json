@@ -21,11 +21,11 @@
     "structural_renderer_checked_lint_blocked": "Complete current Markdown read and safe offline renderer checked all local links, but targeted markdownlint was blocked by a safety check. Do not claim lint success or bypass the block; native browser and source accuracy remain unverified."
   },
   "counts": {
-    "total": 146,
+    "total": 148,
     "historic_paths": 134,
     "historic_retained": 134,
-    "added_since_baseline": 12,
-    "structural_and_outgoing_links_checked": 136,
+    "added_since_baseline": 14,
+    "structural_and_outgoing_links_checked": 138,
     "structural_with_partial_outgoing_links_checked": 7,
     "structural_paths_verified_render_blocked": 1,
     "structural_renderer_checked_lint_blocked": 1,
@@ -33,8 +33,8 @@
     "pending_current_per_file_review": 0,
     "by_domain": {
       "world": 17,
-      "world/characters": 47,
-      "world/places": 19,
+      "world/characters": 48,
+      "world/places": 20,
       "world/technology": 23,
       "world/creatures": 32,
       "world/races": 8
@@ -56,7 +56,7 @@
         "footnote_references_rendered": 18,
         "footnote_definitions_rendered": 18,
         "size_bytes": 14600,
-        "sha256": "10b6c3b3f11d3d867e9e88edbc8339466f2fa51b7ba967e0ee0dde5258d49aae",
+        "sha256": "1112a3ae51a402300931e9a549354491e15b79e9da52cb7555a6140464993876",
         "incoming_links": "sampled_not_exhaustive",
         "incoming_link_examples": ["world/README.md", "world/CHARACTERS.md", "world/FACTIONS_AND_POWERS.md", "world/characters/diontalus.md"],
         "primary_audio": "not_checked",
@@ -81,7 +81,7 @@
         "footnote_references_rendered": 32,
         "footnote_definitions_rendered": 32,
         "size_bytes": 24150,
-        "sha256": "0b8356619012ccc6d6429c69efd59863224593e187e14fadc1f941df4ad4259a",
+        "sha256": "b8985282867d3f5cf2f1d7fd452bc6badc70dd33e2e9f9d711a2193fbcc00a13",
         "incoming_links": "sampled_not_exhaustive",
         "incoming_link_examples": [
           "world/README.md",
@@ -304,7 +304,7 @@
         "footnote_references_rendered": 10,
         "footnote_definitions_rendered": 10,
         "size_bytes": 17173,
-        "sha256": "5be64a4bfb72dbb6464be3a765d666cbd373712be64f1b618de6547e0805b1b4",
+        "sha256": "74731b132ffab44836f6987669741e3a29a2f320b3f884987040885fe5364e9e",
         "incoming_links": "sampled_not_exhaustive",
         "incoming_link_examples": [
           "world/README.md",
@@ -340,7 +340,7 @@
         "footnote_references_rendered": 0,
         "footnote_definitions_rendered": 0,
         "size_bytes": 12401,
-        "sha256": "f462e85c3bc97d3087d13e01339f2e9b7df80080a14b4a0b46a4a69f3aadbd1e",
+        "sha256": "8e958b9a048f913c9ee9a9becabac51cf4580c4cf1cab7335943040f6d190238",
         "incoming_links": "sampled_not_exhaustive",
         "incoming_link_examples": [
           "world/README.md",
@@ -381,8 +381,8 @@
         "outgoing_broken_links": 0,
         "footnote_references_rendered": 6,
         "footnote_definitions_rendered": 5,
-        "size_bytes": 7589,
-        "sha256": "9c8bb79b9d2fd1afd8ef8b38c6e07e8a8f08a5bb84089603cf9b1cc4308fa25d",
+        "size_bytes": 7591,
+        "sha256": "b88f996419feccbf966c689300f26d2a5e7ce547e91eca673eae088e412771d3",
         "incoming_links": "sampled_not_exhaustive",
         "incoming_link_examples": [
           "world/README.md",
@@ -426,8 +426,8 @@
         "outgoing_broken_links": 0,
         "footnote_references_rendered": 10,
         "footnote_definitions_rendered": 9,
-        "size_bytes": 9363,
-        "sha256": "aaebb96688f7a9daf5ae07d08720fbf7165fbb68d059d040e96e282f1ddcb539",
+        "size_bytes": 9365,
+        "sha256": "c87fc5e79efaaf8e36c1b7bbc8a2e554c210cad917441621afe407831a5b1270",
         "incoming_links": "sampled_not_exhaustive",
         "incoming_link_examples": [
           "world/README.md",
@@ -545,8 +545,8 @@
         "outgoing_broken_links": 0,
         "footnote_references_rendered": 15,
         "footnote_definitions_rendered": 15,
-        "size_bytes": 23198,
-        "sha256": "0c7a6cd3aa5eb453ce4bb8eef3ed4c4cf7de04c6015d6f7daa361f245407a2e0",
+        "size_bytes": 23200,
+        "sha256": "03e1bd7e4f9d6d851d3a0536825dc8804594951a1679ac9bc5ab7fdb280c60dc",
         "incoming_links": "sampled_not_exhaustive",
         "incoming_link_examples": [
           "world/README.md",
@@ -610,7 +610,7 @@
         "footnote_references_rendered": 0,
         "footnote_definitions_rendered": 0,
         "size_bytes": 8447,
-        "sha256": "07c9f89b50e485b01461c8c927d3b75a841fa817f4c136cf6b866c7f84ef8bf0",
+        "sha256": "b2752202146d957aeb6a17eb4fd2bf88cbfabfd33eb35f65360a677915b5cc0e",
         "incoming_links": "sampled_not_exhaustive",
         "incoming_link_examples": [
           "narrative/README.md",
@@ -645,7 +645,7 @@
         "footnote_references_rendered": 8,
         "footnote_definitions_rendered": 8,
         "size_bytes": 16522,
-        "sha256": "fa4f3955a40f83f2a9a4a21da2ea807da7cd551e3fdd8f9b606cf743f7a86a01",
+        "sha256": "7bc2803151009d9677c8e635039738008b1ca0baabfb7a3028b3ccf88421870b",
         "incoming_links": "sampled_not_exhaustive",
         "incoming_link_examples": [
           "world/README.md",
@@ -880,7 +880,7 @@
         "markdownlint": "passed_zero_violations",
         "markdown_render": "checked_all_links",
         "size_bytes": 7477,
-        "sha256": "79210106b0536c45c9a46a7ddfd1f2e4e54b2cd5496c7e749ef43a94f4d99c8d",
+        "sha256": "da228449859ded22220ec2347729f030b240bb95201f1e56408f03928e7a5aeb",
         "historical_preserved_files": [
           "research/legacy/BRETT_ASMODEUS_PRE_WCL163_2026-11-01.md"
         ],
@@ -934,7 +934,7 @@
         "markdownlint": "passed_zero_violations",
         "markdown_render": "checked_all_local_links",
         "size_bytes": 5093,
-        "sha256": "e1611fc94cc23624a19ae78bfef4a0c526b5f5b973dd0956a95718b65ece13d3",
+        "sha256": "e7985e2baa32ad9a5ceacddf4f5562938bbd27771db3b69832d03eea54f9fbcc",
         "historical_preserved_files": [
           "research/legacy/BUTTONS_PRE_N1_P3_G_2026-10-28.md",
           "research/legacy/BUTTONS_PRE_WCL161_2026-11-01.md"
@@ -971,7 +971,7 @@
         "markdownlint": "passed_zero_violations",
         "markdown_render": "checked_all_links",
         "size_bytes": 10897,
-        "sha256": "a30b5a906bf2e56fca1c5cdc8f1c897c193ddf526db31bd572cf24ae28f118f8",
+        "sha256": "765236d0a5ce90fcef4979387065ff25345c7905322080c61481843ac442eaf6",
         "historical_preserved_files": [
           "research/legacy/CERINTHALA_PRE_WCL165_2026-11-01.md"
         ],
@@ -1100,7 +1100,7 @@
         "markdownlint": "passed_zero_violations",
         "markdown_render": "checked_all_links",
         "size_bytes": 5754,
-        "sha256": "8fe9ae9cf1044f3e9f6613dc801badb04e08c0dd3f66a5ff3d4a20c66aa0a01e",
+        "sha256": "f04efba13ef08534a4b4674fc793e1697a23b0275c589ff95de5cd6982e89de0",
         "historical_preserved_files": [
           "research/legacy/DILENORIA_PRE_WCL162_2026-11-01.md"
         ],
@@ -1156,7 +1156,7 @@
         "legacy_html_anchor_tags": 14,
         "markdownlint": "passed_zero_violations",
         "size_bytes": 16747,
-        "sha256": "70a6940882f344738fa8c861fc6972a92f5b0aae1f10b1a7dbf8c0bc1e22f76c",
+        "sha256": "9f769e1de35446725530da0aab03ea9a899c55b0bbf2d060f22170944d339818",
         "historical_preserved_files": [
           "research/legacy/DIONTALUS_PRE_BATCH281_2026-10-31.md"
         ],
@@ -1444,7 +1444,7 @@
         "html_image_embeds": 0,
         "heading_count_rendered": 53,
         "size_bytes": 69817,
-        "sha256": "04ec19efd3c2b6d072fcf96b5b805972c0d5bb75b3d5a305f4a9e1ebb73db66d",
+        "sha256": "dd66b8e5cc7a5fe89c57cd698e78b965669cb094171d0b1e45e3ced0760befbb",
         "historical_preserved_files": [
           "research/legacy/HOPE_AKMENOS_PRE_WCL117_2026-10-31.md"
         ],
@@ -2022,7 +2022,7 @@
         "headings_rendered": 5,
         "markdownlint": "passed_zero_violations",
         "size_bytes": 5980,
-        "sha256": "a988b24e45cf096d9421514b2343d85e759bec364307b3d579243f7a1c5d35f8",
+        "sha256": "b2b45578fab41b5267a90e91d8283823c71f3e0050bdd137762a9b2649e67e89",
         "incoming_links": "literal_world_link_scan_not_exhaustive",
         "incoming_link_examples": [
           "world/characters/soulbroker.md"
@@ -2058,7 +2058,7 @@
         "legacy_html_anchor_tags": "present_raw_html_disabled_in_renderer_native_browser_deferred",
         "markdownlint": "passed_zero_violations",
         "size_bytes": 10180,
-        "sha256": "b5c5e4289fe1ff50bcd91913563621986c88641d5ac16d2f3dd6a80108bafddd",
+        "sha256": "8aced60edcc4d190002ff58c94b0ff168cc0a7f00e24a049d74e897ddcbfb18a",
               "historical_preserved_files": ["research/legacy/SOULBROKER_PRE_BATCH286_2026-10-31.md"],
               "historical_preserved_sha256": ["c448c03702f58c705306d656aab6e8ef1f9d1c7227c15c72aa99db07912bc1f4"],
         "incoming_links": "sampled_not_exhaustive",
@@ -2367,17 +2367,19 @@
     },
     {
       "path": "world/characters/the-principle.md",
+      "canonical_primary_path": "world/characters/the-principal.md",
+      "migration_state": "temporary_legacy_route_WCL-195_pending_WCL-197",
       "domain": "characters",
       "in_original_2026_10_27_worklist": true,
       "review": {
         "level": "structural_and_outgoing_links_checked",
         "cohort": "WCL-151",
         "purpose": "bounded_character_profile_structure_and_source_horizon_audit",
-        "source_lines_read": 106,
+        "source_lines_read": 108,
         "depicted_source_window": "E013 and later Principal affairs, E128 claims, S3E01–S3E18 confrontation and lunar finale; bonus/creator accounts segregated",
         "source_window_note": "Earth-side body destroyed S3E16, twelve lunar copies collapsed S3E17, lunar successor system destroyed S3E18; Vladimir not witnessed returning",
         "D048_structure": "observed_reader_subject",
-        "outgoing_local_links_renderer_checked": 61,
+        "outgoing_local_links_renderer_checked": 62,
         "outgoing_local_links_not_checked": 0,
         "outgoing_broken_links_renderer_checked": 0,
         "footnote_definitions_static": 14,
@@ -2386,8 +2388,8 @@
         "headings_rendered": 9,
         "legacy_html_anchor_tags": "present_raw_html_disabled_in_renderer_native_browser_deferred",
         "markdownlint": "passed_zero_violations",
-        "size_bytes": 21364,
-        "sha256": "9748af52b6c81a6f72eb4f03e6474ff751ec49d91a2a941e234513b7788f9b7e",
+        "size_bytes": 21604,
+        "sha256": "4d2c2d33abf2fd36a6186c926b15b75530e0dcff92d5df680d9e8c0235a6d112",
               "historical_preserved_files": ["research/legacy/PRINCIPAL_PRE_BATCH288_2026-10-31.md"],
               "historical_preserved_sha256": ["578b85e35b81e3e756217d85c11ac257aed29ccda7965f0dc01866467a2cfee6"],
         "incoming_links": "sampled_not_exhaustive",
@@ -2419,7 +2421,7 @@
         "markdownlint": "passed_zero_violations",
         "markdown_render": "checked_all_links",
         "size_bytes": 8111,
-        "sha256": "82fd98180ff5351737d924a4ceb3bce7bee6dafa8ad7ef6504813db1c41a6a4f",
+        "sha256": "0ff9996a142e6aff99bdb77e4b1591f9496a2b5b58fae317529b2cfd1f17e9af",
         "historical_preserved_files": [
           "research/legacy/THE_VOICE_PRE_WCL163_2026-11-01.md"
         ],
@@ -2684,7 +2686,7 @@
         "source_html_details_blocks": 1,
         "heading_count_rendered": 59,
         "size_bytes": 98994,
-        "sha256": "1185662783fe8d554a9cfbe08298acce576f8d988f1e99454f34bb32f0a0c50e",
+        "sha256": "dabbbad6de532571fdcd8766467c5d254bbd9fdadc2e6289e1662192493db4b2",
         "historical_preserved_files": [
           "research/legacy/VOREL_PRE_WCL118_2026-10-31.md"
         ],
@@ -3658,8 +3660,8 @@
         "legacy_html_anchor_tags": 0,
         "markdownlint": "passed_zero_violations",
         "markdown_render": "checked_all_local_links",
-        "size_bytes": 3146,
-        "sha256": "58fb6aa05b2ad6d15fb9c3e82849b2083bc2b74b6e6ec1bb74fe6352be3d6cb0",
+        "size_bytes": 3148,
+        "sha256": "43969b4629860f8ec78354a29c985657dac0e7a35d4476eeb66224e721c350a3",
         "incoming_links": "literal_world_filename_scan_only_not_exhaustive",
         "incoming_link_examples": [
           "world/CREATURES_AND_MONSTERS.md"
@@ -3868,8 +3870,8 @@
         "legacy_html_anchor_tags": 0,
         "markdownlint": "passed_zero_violations",
         "markdown_render": "checked_all_local_links",
-        "size_bytes": 2668,
-        "sha256": "69d25fe23fae4611d3f9a90ea4f7532e21a13d8a080c8ef1832353ef7f934b62",
+        "size_bytes": 2670,
+        "sha256": "23ab7ba843c806e709c0c585202c6d844fee67d85c71eecb44951b28879e5d14",
         "incoming_links": "literal_world_filename_scan_only_not_exhaustive",
         "incoming_link_examples": [
           "world/CREATURES_AND_MONSTERS.md"
@@ -4252,8 +4254,8 @@
         "legacy_html_anchor_tags": 0,
         "markdownlint": "passed_zero_violations",
         "markdown_render": "checked_all_local_links",
-        "size_bytes": 29312,
-        "sha256": "cc26ba07d2ed59df80d175d684e562d1b3a6a56977e29b844f765f3f8d3774fe",
+        "size_bytes": 29318,
+        "sha256": "ea2e1846cdb0741da2f4c28509dacc21b427cc7f54e64c39980b9c305ffec1ec",
         "incoming_links": "literal_world_filename_scan_only_not_exhaustive",
         "incoming_link_examples": [
           "world/PLACES.md",
@@ -4483,7 +4485,7 @@
         "markdownlint": "passed_zero_violations",
         "markdown_render": "checked_all_local_links",
         "size_bytes": 2911,
-        "sha256": "da97ec6b4dc93997420dd7c8e739f0782905016071fadba7e5c6a82e86b76bef",
+        "sha256": "93589794907401fa0260433a9c3ab74ff958154c3f222ef27a221050b6f7332c",
         "incoming_links": "literal_world_filename_scan_only_not_exhaustive",
         "incoming_link_examples": [
           "world/PLACES.md",
@@ -4504,18 +4506,20 @@
     },
     {
       "path": "world/places/kervalon.md",
+      "canonical_primary_path": "world/places/khaervilon.md",
+      "migration_state": "temporary_legacy_route_WCL-195_pending_WCL-197",
       "domain": "places",
       "in_original_2026_10_27_worklist": true,
       "review": {
         "level": "structural_and_outgoing_links_checked",
         "cohort": "WCL-175",
         "purpose": "bounded_current_razak_val_and_khaervilon_places_source_structure_and_outgoing_link_census",
-        "source_lines_read": 72,
+        "source_lines_read": 74,
         "depicted_source_window": "E061/E064 warnings and approach; E065–E068 purple-sands/keep encounters; E069–E075 CHIDS interior and portal acquisition; E076–E081 actual engineering/Drive battle and E081 cliffhanger",
         "source_window_note": "Khaervilon is owner-map-confirmed spelling despite kervalon.md route aliases. Early Zark reports, storm, dragon spirit's claimed planet-relocation machine and Sira abduction precede actual keep and CHIDS discovery. Source clearly separates failed and performed infiltration tactics, sealed unverified guard corridor, CHIDS virtual claims, E076 portal escape, E079 engineering and Sira captive, E080 commander killed and E081 Dolo Popio manifestation defeated with Sira visibly exiting beam while Chance remains lost. All four hero deaths are GM-declared specifically at E081 cutoff, not ultimate permanent fate.",
         "D048_structure": "reader_first_entrance_chronological_E061_to_E081_then_latest_site_cutoff_and_separate_source_open_issues",
-        "outgoing_local_links_total": 48,
-        "outgoing_local_links_renderer_checked": 48,
+        "outgoing_local_links_total": 49,
+        "outgoing_local_links_renderer_checked": 49,
         "outgoing_broken_links_renderer_checked": 0,
         "outgoing_local_links_not_checked": 0,
         "footnote_references_rendered": 0,
@@ -4527,8 +4531,8 @@
         "legacy_html_anchor_tags": 0,
         "markdownlint": "passed_zero_violations",
         "markdown_render": "checked_all_local_links",
-        "size_bytes": 19421,
-        "sha256": "97b230418bc3415c249ef859bafbe308d464b2a71792e1f900664430b07ce700",
+        "size_bytes": 19616,
+        "sha256": "b08c53fbf34ffdb96920497e1e54c2e54a75606a8b209176582933604f8cafef",
         "incoming_links": "literal_world_filename_scan_only_not_exhaustive",
         "incoming_link_examples": [
           "world/PLACES.md",
@@ -6199,7 +6203,7 @@
         "markdownlint": "passed_zero_violations",
         "markdown_render": "checked_all_local_links",
         "size_bytes": 8469,
-        "sha256": "9fec76100dc411e414b5ae4c46f7945cf62741101209ad5994158bf01adc519f",
+        "sha256": "9a3af1d7a8c5fc9132fb54fb15c4778a212a8936e0d8272295aaa5b1cb442c34",
         "incoming_links": "literal_world_filename_scan_only_not_exhaustive",
         "incoming_link_examples": [
           "world/ITEMS_AND_ARTIFACTS.md",
@@ -6213,6 +6217,64 @@
         "open_questions": [
           "Unlocated fifth board and Principal's post-grapple board outcome remain unknown; five originally, one destroyed, three observed at S3E16 is not a final inventory count.",
           "Kuromokishi spelling/board provenance beyond Principal testimony are ASR-provisional. Two footnotes resolve; upper-case episodic style can be addressed in later D-048 polishing."
+        ]
+      }
+    },
+    {
+      "path": "world/characters/the-principal.md",
+      "domain": "characters",
+      "in_original_2026_10_27_worklist": false,
+      "review": {
+        "level": "structural_and_outgoing_links_checked",
+        "cohort": "WCL-195",
+        "purpose": "canonical_primary_migrated_from_the-principle.md",
+        "source_lines_read": 106,
+        "depicted_source_window": "E013–S3E18 Principal/Vladimir history; uncertain fatherhood and lunar successor distinguished",
+        "D048_structure": "observed_reader_subject",
+        "outgoing_local_links_renderer_checked": 61,
+        "outgoing_broken_links_renderer_checked": 0,
+        "outgoing_local_links_not_checked": 0,
+        "markdownlint": "passed_zero_violations",
+        "size_bytes": 21364,
+        "sha256": "9748af52b6c81a6f72eb4f03e6474ff751ec49d91a2a941e234513b7788f9b7e",
+        "source_copy_sha256": "9748af52b6c81a6f72eb4f03e6474ff751ec49d91a2a941e234513b7788f9b7e",
+        "legacy_compatibility_path": "world/characters/the-principle.md",
+        "incoming_links": "world_link_migration_in_progress_repository_wide_WCL-197_pending",
+        "primary_audio": "not_checked",
+        "full_source_claim_accuracy": "not_checked",
+        "native_browser": "deferred_WCL-103",
+        "open_questions": [
+          "Original content copied byte-for-byte; former path remains with temporary canonical-page banner and full historical body; legacy anchors may require native-browser check.",
+          "Current source citations and heading/footnote IDs retained; no new audio or exhaustive inbound verification."
+        ]
+      }
+    },
+    {
+      "path": "world/places/khaervilon.md",
+      "domain": "places",
+      "in_original_2026_10_27_worklist": false,
+      "review": {
+        "level": "structural_and_outgoing_links_checked",
+        "cohort": "WCL-195",
+        "purpose": "canonical_primary_migrated_from_kervalon.md",
+        "source_lines_read": 72,
+        "depicted_source_window": "E061–E081 fortress/CHIDS and Drive; E082 separate aftermath cutoff",
+        "D048_structure": "reader_first_entrance_chronological_E061_to_E081_then_latest_site_cutoff_and_separate_source_open_issues",
+        "outgoing_local_links_renderer_checked": 48,
+        "outgoing_broken_links_renderer_checked": 0,
+        "outgoing_local_links_not_checked": 0,
+        "markdownlint": "passed_zero_violations",
+        "size_bytes": 19460,
+        "sha256": "712e4f30218f5a524c56ed9b02928a291f83b79f38bf1cded096340b8f66e30b",
+        "source_copy_sha256": "97b230418bc3415c249ef859bafbe308d464b2a71792e1f900664430b07ce700",
+        "legacy_compatibility_path": "world/places/kervalon.md",
+        "incoming_links": "world_link_migration_in_progress_repository_wide_WCL-197_pending",
+        "primary_audio": "not_checked",
+        "full_source_claim_accuracy": "not_checked",
+        "native_browser": "deferred_WCL-103",
+        "open_questions": [
+          "Source cloned byte-for-byte before minimally updating the self-referential compatibility-path note.",
+          "Owner-confirmed mapped spelling Khaervilon; pronunciation and disputed supernatural site testimony remain unresolved."
         ]
       }
     }

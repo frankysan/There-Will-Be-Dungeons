@@ -20,7 +20,7 @@ In E124, when Hope was alone in a private exchange, the Voice demanded that she 
 
 At Pentel Weiss, the Voice told Hope privately that singing would destroy an alien eye. The companions later sang and the prison's eye melted, confirming that specific practical weakness without proving every claim the Voice made. It also insisted another fragment of its power lay at the prison's summit. Hope did not collect that missing object, and afterward refused the Voice's demands to return at the expense of her friends.[^voice-prison]
 
-When the [Principal](the-principle.md) came aboard Fate Six in S3E01, the hooded Voice **panicked and urged Hope to flee**. Hope stayed and fought. Its fear was portrayed in Hope's private experience, but the reason for that fear and any past relationship to the Principal remained unknown. The Principal claimed to have commissioned an earlier search for the Hand; that was his testimony, not an observed meeting with its original owner.[^voice-fear]
+When the [Principal](the-principal.md) came aboard Fate Six in S3E01, the hooded Voice **panicked and urged Hope to flee**. Hope stayed and fought. Its fear was portrayed in Hope's private experience, but the reason for that fear and any past relationship to the Principal remained unknown. The Principal claimed to have commissioned an earlier search for the Hand; that was his testimony, not an observed meeting with its original owner.[^voice-fear]
 
 ## The severed Hand and the Hell transfer
 

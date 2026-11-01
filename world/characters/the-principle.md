@@ -1,5 +1,7 @@
 # The Principal — Vladimir
 
+> **Canonical page:** [The Principal](the-principal.md). This historical filename is retained temporarily for compatibility while incoming links are migrated under WCL-195/WCL-197; the article below is the original content at this path.
+
 <a id="the-principal--vladimir"></a>
 
 The Principal ruled an influential domain of industry, slavery, armed power and chrome technology. To those negotiating with him he could be measured, courteous and even useful; to his enemies he represented a system willing to remold people and entire worlds in the name of a promised better future. He opposed the Weir and its Soulbroker, yet the methods he proposed to defeat them threatened almost everyone he claimed to protect. His insistence that Nash was his son—and ultimately his key to saving creation—made the dispute painfully personal as well as political.[^identity]

@@ -20,7 +20,7 @@ His refusal does not end his friendship with the signatories. He remains beside 
 
 ### Arc Three — Road to a Lost Kingdom
 
-Vorel's claims to leadership begin to meet obligations beyond his immediate companions. A challenge from [Diptak](diptak.md) ends with a pledge from the Golden Land clan to Vorel's clan. He sees the promise as potential support against [the Principal](the-principle.md), although the oath has not yet put an army at his disposal. His desire to gather his people becomes more concrete without establishing universal lizardfolk allegiance.
+Vorel's claims to leadership begin to meet obligations beyond his immediate companions. A challenge from [Diptak](diptak.md) ends with a pledge from the Golden Land clan to Vorel's clan. He sees the promise as potential support against [the Principal](the-principal.md), although the oath has not yet put an army at his disposal. His desire to gather his people becomes more concrete without establishing universal lizardfolk allegiance.
 
 He also stands up for companions whose Soulbroker bargain he rejected. When an armored paladin demands the signatories' execution, Vorel opposes surrender and fights for them. His independence from their contract does not mean indifference to their lives.
 
