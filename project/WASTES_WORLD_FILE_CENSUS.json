@@ -335,12 +335,12 @@
         "purpose": "historical_events_reader_index",
         "depicted_source_window": "Ancient retrospective and competing testimony, E000–E128 played Season One including prequel E107–E109 set long before E001; selected S2E01–S3E18 events with episode-bound source qualifiers, not complete per-episode timeline",
         "D048_structure": "reader_first_historical_index_with_distinct_retrospective_Season_One_and_selected_Season_Two_Three_events",
-        "outgoing_local_links_checked": 76,
+        "outgoing_local_links_checked": 80,
         "outgoing_broken_links": 0,
         "footnote_references_rendered": 0,
         "footnote_definitions_rendered": 0,
-        "size_bytes": 11010,
-        "sha256": "b459de12f92cc679f82dadd2698393d600828ecb34e6acb58fee041aba8099a6",
+        "size_bytes": 12401,
+        "sha256": "f462e85c3bc97d3087d13e01339f2e9b7df80080a14b4a0b46a4a69f3aadbd1e",
         "incoming_links": "sampled_not_exhaustive",
         "incoming_link_examples": [
           "world/README.md",
@@ -355,16 +355,16 @@
         "markdown_image_embeds": 0,
         "html_image_embeds": 0,
         "open_questions": [
-          "Ten selected later subject-centered Season Two and Season Three events are now indexed through witnessed S3E18; this does not exhaust each played scene or settle every character's fate. Historic E120 moved before E125 while preserving its source URLs.",
+          "Twelve selected later subject-centered Season Two and Season Three events are now indexed through witnessed S3E18; this does not exhaust each played scene or settle every character's fate. Historic E120 moved before E125 while preserving its source URLs.",
           "CHIDS E081 declaration of four deaths is distinguished from E082 partial survival conditions: Vorel conscious, Nash as engine-heart, Hope/Stanley motionless; subsequent restoration later. Contested ancient chronologies, historical genealogy, altered lizardfolk origin, Soulbroker cosmology and distant testimonies remain attributed not independent history.",
           "Ruby physically tested on Mars S3E04, staged but not activated S3E11–S3E15, actual S3E18 GM-observed effect after order without shown insertion; Worldbreaker actual S3E17 banishment and S3E18 Moon Council destruction are separate events. Postwar plans not completed rebuilding.",
-          "All 76 source index local links safely rendered and 5 headings verified, scoped Markdownlint zero violations. Original audio, complete external fragment/incoming link/browser WCL-103 and whole-corpus independent factual approval remain unverified."
+          "All 80 source index local links safely rendered and 5 headings verified, scoped Markdownlint zero violations. Original audio, complete external fragment/incoming link/browser WCL-103 and whole-corpus independent factual approval remain unverified."
         ],
-        "source_window_note": "Current 55-line page audited and expanded from E128 cutoff to selected S2/S3 turning points; 10 distinct subject-centered grouped events cover Fate Six/Mars/Planet Nash, Nash heart regeneration, Ruby Mars test, Solar Mines and staged core, Weir link severance, Elhandari guard/advance, Principal betrayal/Worldbreaker banishment, Ruby's actual Earth regreening, Council of Faces Moon facility/Nash death and later actual Wish resurrection, and postwar council/Hope's Mask/crown. E120 row moved to chronological position, E081 versus E082 survival qualification repaired, original D-044 T'ietkalla display restored, no legacy path change. Original audio not checked.",
+        "source_window_note": "WCL-114: Bounded full-page audit of the 55-line historical index; added a Season One witnessed-history reading introduction and split the former composite finale aftermath into three distinct S3E18 turning points: council agreements/future tasks; actually played separate companion journeys and handovers; final apparent second-Nash warning with no settled identity or inferred continuation. Explicitly preserved Monsoon's helmet retrieval and off-Earth spellcasting after Ruby's restoration. Earlier ancient testimony, E107–E109 prequel placement, E081/E082 cutoff distinction, D-044 place spelling, and historic episode link targets retained. All 80/80 local links, five heading IDs and Markdownlint passed; original audio, full claim verification and browser/inbound fragments not tested.",
         "headings_rendered": 5,
         "markdownlint": "passed_zero_violations",
-        "markdown_render": "checked_all_76_local_links",
-        "last_targeted_correction": "WCL-134"
+        "markdown_render": "checked_all_80_local_links",
+        "last_targeted_correction": "WCL-114"
       }
     },
     {
