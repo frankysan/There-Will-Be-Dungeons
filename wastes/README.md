@@ -20,7 +20,7 @@ The [story guide](../narrative/README.md) follows the complete eleven-arc journe
 | 10 | [Across the Stars](../narrative/ARC_10.md) | Fate Six, Mars and the worlds beyond |
 | 11 | [The Last War](../narrative/ARC_11.md) | The Solar Mines, the Worldbreaker and Earth's restoration |
 
-The [six-arc first edition](../narrative/README.md#historic-first-edition) remains readable at its original links.
+The [six-arc first edition](../narrative/README.md#historic-first-edition--six-arcs) remains readable at its original links.
 
 ## Explore the world and its people
 
@@ -42,6 +42,6 @@ The [one-shot index](../oneshots/README.md) keeps **Merry Chromeness!** and **Sp
 
 ## Sources and project notes
 
-The primary reading route follows the [approved eleven-arc organization](../project/WASTES_NARRATIVE_CHAPTER_MAPS.md). Under [D-049](../project/DECISIONS.md), all six historic first-edition arc files remain permanently readable and unchanged; the [story guide](../narrative/README.md#historic-first-edition) lists them together. This navigation update does not alter the underlying story, sources or historical links.
+The primary reading route follows the [approved eleven-arc organization](../project/WASTES_NARRATIVE_CHAPTER_MAPS.md). Under [D-049](../project/DECISIONS.md), all six historic first-edition arc files remain permanently readable and unchanged; the [story guide](../narrative/README.md#historic-first-edition--six-arcs) lists them together. This navigation update does not alter the underlying story, sources or historical links.
 
 Detailed evidence remains in the [episode dossiers](../episodes/E000.md), [consistency ledger](../world/CONSISTENCY_LEDGER.md) and [review queue](../project/REVIEW_QUEUE.md). Processed ASR and retrospective claims retain their evidence limits; a polished reference is not an audio-verified transcript. [Cleanup manifest](../project/WASTES_CLEANUP_MANIFEST.md) · [Numbering crosswalk](../project/EPISODE_NUMBERING.md) · [Archive home](../README.md).

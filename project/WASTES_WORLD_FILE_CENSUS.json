@@ -16,7 +16,7 @@
     "source_first_exception_candidate": "Source-led technical register; record as prospective functional exception, not automatically accepted or forced into subject prose.",
     "needs_reader_first_review": "Current in-world/research structure does not yet demonstrate the reader-first historical-study introduction and legacy outcome; do not imply canon is deficient or edit during structural census.",
     "technical_json_structure_checked": "Non-Markdown JSON was read to EOF and strictly parsed; checked internal schema, IDs, source scope, relations and local page references. Markdownlint, Markdown rendering, footnotes, and D-048 prose presentation are not applicable; no external web/audio or API compatibility verification is implied.",
-    "structural_with_partial_outgoing_links_checked": "Read full Markdown document, inspected structure/provenance, linted and rendered; local links checked only to the renderer's 100-link limit. Unchecked links remain explicitly outstanding, so this is not a full outgoing-link validation or D-048/audio acceptance.",
+    "structural_with_partial_outgoing_links_checked": "Read full Markdown document, inspected structure/provenance, linted and rendered; the preview renderer checks at most 100 local link occurrences. Per-file independent source parsing can additionally verify all target files and heading IDs, but the remaining links are still unrendered/unclicked in that preview. Static path existence is not full renderer/native-browser, D-048, audio or factual acceptance.",
     "structural_paths_verified_render_blocked": "Read full current Markdown, inspected structure/provenance and linted; safe Markdown render blocked. Every statically parsed link's local file target was existence-checked in bounded batches, but rendered navigation, fragments and browser behavior remain unverified. Never equate path existence with full renderer acceptance.",
     "structural_renderer_checked_lint_blocked": "Complete current Markdown read and safe offline renderer checked all local links, but targeted markdownlint was blocked by a safety check. Do not claim lint success or bypass the block; native browser and source accuracy remain unverified."
   },
@@ -233,8 +233,8 @@
         "outgoing_broken_links": 0,
         "footnote_references_rendered": 1,
         "footnote_definitions_rendered": 1,
-        "size_bytes": 8668,
-        "sha256": "2c5e37a7bfeac8f1c6da138960be1a213ee1ef02d7bae08418049c6b2e8587a1",
+        "size_bytes": 8926,
+        "sha256": "6d29b053c10bf6d6abef25f72dd67807db220cf043b56c90bac5dba758f2e48c",
         "incoming_links": "sampled_not_exhaustive",
         "incoming_link_examples": [
           "world/README.md",
@@ -244,12 +244,13 @@
         "full_source_claim_accuracy": "not_checked",
         "native_browser": "deferred_WCL-103",
         "open_questions": [
-          "Opening still uses noncanonical unapostrophized Tietkalla instead of owner-approved T'ietkalla",
-          "Closing scope note says compiled within E128 research horizon although index also includes S3E03 and S3E05 entries",
-          "Mind fluff/Slow Peters entries are index-only, requiring later category or subject scope review",
-          "Direct evidence of species-wide intelligence and remaining inbound backlinks not checked"
+          "This is an E128-centered indexed creature directory with two particular later played episode entries, not a complete S3E18 bestiary. Mind fluff/Slow Peters remain index-level entries requiring any separate full creature study decisions.",
+          "Intelligent people remain in Races or Characters; no species-wide intelligence inference from a transformation. Exact later appearances, ASR, audio and native-browser/release correctness require separate review."
         ],
-        "source_window_note": "Full index inspected; recorded mixed subject-era coverage, not a definitive first/last appearance for every beast or sentry"
+        "source_window_note": "WCL-133 corrected owner-approved T'ietkalla display spelling and Khaervilon in modern creature descriptions while preserving all existing creature links/slugs. Its original E128-era research scope is now explicitly distinct from individual S3E03 mind-fluff and S3E05 Slow Peter additions; no claim that final Season Three monster coverage is complete.",
+        "markdownlint": "passed_zero_violations",
+        "markdown_render": "checked_all_local_links",
+        "last_targeted_correction": "WCL-133"
       }
     },
     {
@@ -262,28 +263,30 @@
         "purpose": "machine_readable_entity_schema_convention",
         "depicted_source_window": "v1 E000/E001 pilot and v2 2026-10-31 cited-episode race_culture addition; editorial contract, not an episode narrative",
         "D048_structure": "source_first_exception_candidate",
-        "outgoing_local_links_checked": 6,
+        "outgoing_local_links_checked": 7,
         "outgoing_broken_links": 0,
         "footnote_references_rendered": 0,
         "footnote_definitions_rendered": 0,
         "markdown_image_embeds": 0,
         "html_image_embeds": 0,
-        "size_bytes": 5202,
-        "sha256": "d92dc8194c5f8d6a832889e3fd61d6346197874a67902d6eaea84b0caa45a51e",
+        "size_bytes": 5512,
+        "sha256": "349e0a5441baae38eff5d1c7a3d539147902abb003583bba961777b331f7eb3f",
         "incoming_links": "sampled_not_exhaustive",
         "incoming_link_examples": [
           "world/README.md",
           "world/RACES.md"
         ],
-        "source_window_note": "Entire 29-line schema read; contract distinguishes stable ID from display name/aliases, seven allowed types, five name statuses, episode/time/evidence class, source-limited questions, optional page_path and directed relations; v2 is additive, non-exhaustive, original written canonical decisions remain separate from actual audio spelling verification",
+        "source_window_note": "WCL-133 corrected the misleading Harlequinari 'research candidate' label to distinguish its extant source-limited Markdown people profile from absence of a Harlequinari race_culture machine record. Lactids remain a prospective people study. v2 16+2 stable JSON records and types not changed.",
         "open_questions": [
-          "The schema's 2026-10-31 sentence calling Harlequinari a research candidate is ambiguous now that an independent narrative people profile exists; still not represented in the two-race machine pilot—reconcile in WCL-133 without enlarging JSON",
-          "Claim that 16 original v1 records remain unchanged is documented in schema and compatible with present count/order, but an exact v1-byte comparison was not independently performed during this review",
-          "Entity schema is a functional technical reference exception, not a story-first history; external evidence URLs and complete incoming graph not independently fetched or validated"
+          "V2 machine-readable pilot remains exactly 16 retained legacy plus two race_culture records, not a synchronized index of the eight published people profiles; approval required for future schema additions.",
+          "Historical v1 original-record byte comparison, externally linked references, actual source-audio labels and full consumer compatibility still not independently validated."
         ],
         "primary_audio": "not_checked",
         "full_source_claim_accuracy": "not_checked",
-        "native_browser": "deferred_WCL-103"
+        "native_browser": "deferred_WCL-103",
+        "markdownlint": "passed_zero_violations",
+        "markdown_render": "checked_all_local_links",
+        "last_targeted_correction": "WCL-133"
       }
     },
     {
@@ -294,14 +297,14 @@
         "level": "structural_and_outgoing_links_checked",
         "cohort": "WCL-131",
         "purpose": "factions_institutions_reader_index",
-        "depicted_source_window": "E010–S3E15 shown directly; S3E18 final consequences not integrated in active cutoff",
+        "depicted_source_window": "E010–S3E15 selective historical faction snapshots, then S3E16 canyon detonations and Principal's betrayal, S3E17 Worldbreaker permanent banishment and collapse of chrome copies, S3E18 Elhandari/Ruby Earth restoration, Monsoon's voluntary daylight death, Moon Council of Faces destruction and postwar redistribution deliberations",
         "D048_structure": "observed_reader_index",
-        "outgoing_local_links_checked": 51,
+        "outgoing_local_links_checked": 61,
         "outgoing_broken_links": 0,
         "footnote_references_rendered": 9,
         "footnote_definitions_rendered": 9,
-        "size_bytes": 11789,
-        "sha256": "eef3c2f5c23a24ee2e6a8ae20ecb23a1b84820a938396ce382b8932acbabff98",
+        "size_bytes": 14155,
+        "sha256": "eba10fef0aecfcbd4824eb7feef8ba5cd497cb7086769618afc7a2dc68eff174",
         "incoming_links": "sampled_not_exhaustive",
         "incoming_link_examples": [
           "world/README.md",
@@ -313,12 +316,13 @@
         "full_source_claim_accuracy": "not_checked",
         "native_browser": "deferred_WCL-103",
         "open_questions": [
-          "Active project-notes cutoff explicitly remains researched S3E15 despite final S3E18, requiring distinct future postwar state assessment",
-          "Index's Principal/Soulbroker/Elhandari war-phase descriptions reflect interim episodes and should not be misconstrued as final regime status",
-          "Research-heavy footnotes and direct source column are functional indexing but not automatically full D-048 acceptance",
-          "Unresolved source attribution and missing inbound backlinks need later validation"
+          "This is a selective historical index through S3E18, not a verified final disposition for every organization. Principal copy collapse, Moon Council defeat, Worldbreaker banishment and Earth regreening are performed; incomplete faction-member/captive inventories and settlement projects remain unverified.",
+          "Existing S3E05–S3E09 rows and nine research-heavy footnotes are dated source snapshots. S3E16 loss estimates vary and must not be flattened to a complete lizardfolk or goblin death count. D-048 stylistic acceptance, whole-corpus source completeness, original audio and native-browser remain open."
         ],
-        "source_window_note": "Current table and detailed footnotes read, covering selective military events rather than comprehensive S3E18 faction outcomes"
+        "source_window_note": "WCL-133 added date-scoped S3E16–S3E18 rows and updated Principal, Soulbroker, Elhandari and source horizon without rewriting S3E05–S3E09 contemporaneous battle statements into final facts. S3E12 Weir-connection severance and existing S3E15 preparations are explicitly historical where appropriate. Accepted T'ietkalla display spelling adjusted in live navigation; original episode quotations and slugs retained. Postwar intergroup agreements and placements are not yet individual delivery/completion scenes.",
+        "markdownlint": "passed_zero_violations",
+        "markdown_render": "checked_all_local_links",
+        "last_targeted_correction": "WCL-133"
       }
     },
     {
@@ -329,14 +333,14 @@
         "level": "structural_and_outgoing_links_checked",
         "cohort": "WCL-132",
         "purpose": "historical_events_reader_index",
-        "depicted_source_window": "Ancient disputed history and main played events only through E128 (end of Season One); E107–E109 separate older prequel; later seasons not incorporated into this index",
-        "D048_structure": "observed_reader_index",
-        "outgoing_local_links_checked": 49,
+        "depicted_source_window": "Ancient retrospective and competing testimony, E000–E128 played Season One including prequel E107–E109 set long before E001; selected S2E01–S3E18 events with episode-bound source qualifiers, not complete per-episode timeline",
+        "D048_structure": "reader_first_historical_index_with_distinct_retrospective_Season_One_and_selected_Season_Two_Three_events",
+        "outgoing_local_links_checked": 76,
         "outgoing_broken_links": 0,
         "footnote_references_rendered": 0,
         "footnote_definitions_rendered": 0,
-        "size_bytes": 5604,
-        "sha256": "7cc6f3969fe3e9554f09e4706def20af8601bc920e690e773c218ccd46dbac1c",
+        "size_bytes": 11010,
+        "sha256": "b459de12f92cc679f82dadd2698393d600828ecb34e6acb58fee041aba8099a6",
         "incoming_links": "sampled_not_exhaustive",
         "incoming_link_examples": [
           "world/README.md",
@@ -351,12 +355,16 @@
         "markdown_image_embeds": 0,
         "html_image_embeds": 0,
         "open_questions": [
-          "This index openly ends at E128, leaving S2 and S3 turning points unindexed here despite the completed S3E18 campaign; assess complementary timeline before expanding",
-          "T'ietkalla display spelling appears without the owner-approved apostrophe in two descriptive/link labels; preserve path/slugs",
-          "Ancient chronologies remain disputed testimony, not measured dates; do not turn narrative summary into certified historical fact",
-          "Full incoming links and historical chronology crosswalk unverified"
+          "Ten selected later subject-centered Season Two and Season Three events are now indexed through witnessed S3E18; this does not exhaust each played scene or settle every character's fate. Historic E120 moved before E125 while preserving its source URLs.",
+          "CHIDS E081 declaration of four deaths is distinguished from E082 partial survival conditions: Vorel conscious, Nash as engine-heart, Hope/Stanley motionless; subsequent restoration later. Contested ancient chronologies, historical genealogy, altered lizardfolk origin, Soulbroker cosmology and distant testimonies remain attributed not independent history.",
+          "Ruby physically tested on Mars S3E04, staged but not activated S3E11–S3E15, actual S3E18 GM-observed effect after order without shown insertion; Worldbreaker actual S3E17 banishment and S3E18 Moon Council destruction are separate events. Postwar plans not completed rebuilding.",
+          "All 76 source index local links safely rendered and 5 headings verified, scoped Markdownlint zero violations. Original audio, complete external fragment/incoming link/browser WCL-103 and whole-corpus independent factual approval remain unverified."
         ],
-        "source_window_note": "Full 38-line page read; clearly stated E128 scope is accurate for existing entries but not complete campaign coverage"
+        "source_window_note": "Current 55-line page audited and expanded from E128 cutoff to selected S2/S3 turning points; 10 distinct subject-centered grouped events cover Fate Six/Mars/Planet Nash, Nash heart regeneration, Ruby Mars test, Solar Mines and staged core, Weir link severance, Elhandari guard/advance, Principal betrayal/Worldbreaker banishment, Ruby's actual Earth regreening, Council of Faces Moon facility/Nash death and later actual Wish resurrection, and postwar council/Hope's Mask/crown. E120 row moved to chronological position, E081 versus E082 survival qualification repaired, original D-044 T'ietkalla display restored, no legacy path change. Original audio not checked.",
+        "headings_rendered": 5,
+        "markdownlint": "passed_zero_violations",
+        "markdown_render": "checked_all_76_local_links",
+        "last_targeted_correction": "WCL-134"
       }
     },
     {
@@ -367,14 +375,14 @@
         "level": "structural_and_outgoing_links_checked",
         "cohort": "WCL-135",
         "purpose": "ancient_history_thematic_study",
-        "depicted_source_window": "E000 GM prologue; observed E003–E008 ruins and E067–E081 CHIDS encounters; retrospective E118 journal; no securely measured prehistoric calendar",
-        "D048_structure": "needs_reader_first_review",
-        "outgoing_local_links_checked": 17,
+        "depicted_source_window": "E000 ancient GM prologue (undated), physically encountered ruins and CHIDS E073/E077/E079, attributed E067/E078/E081 testimony, Delit E118 journal and black dragon E122 warning; S3E17–S3E18 later Earth renewal as lasting legacy, not evidence for ancient chronology",
+        "D048_structure": "reader_first_opening_historical_account_separate_surviving_evidence_and_competing_claims_lasting_legacy_and_unresolved_questions",
+        "outgoing_local_links_checked": 32,
         "outgoing_broken_links": 0,
-        "footnote_references_rendered": 0,
-        "footnote_definitions_rendered": 0,
-        "size_bytes": 2128,
-        "sha256": "d39439073b86160e800d713f6d43ee4a63cc904fda9403b2638d849d8c05b0f5",
+        "footnote_references_rendered": 6,
+        "footnote_definitions_rendered": 5,
+        "size_bytes": 7589,
+        "sha256": "9c8bb79b9d2fd1afd8ef8b38c6e07e8a8f08a5bb84089603cf9b1cc4308fa25d",
         "incoming_links": "sampled_not_exhaustive",
         "incoming_link_examples": [
           "world/README.md",
@@ -385,17 +393,23 @@
         ],
         "markdown_image_embeds": 0,
         "html_image_embeds": 0,
-        "legacy_headings": "No previous rewriting-era heading aliases observed in this current file; native-browser fragment behavior not checked",
-        "source_window_note": "Current 17-line thematic article read in full; old advanced civilization and Scorching claims distinguish E000 GM prologue from later interested testimony; source links present inline rather than footnotes",
+        "legacy_headings": "Exact prior H1 + #opening-account + #surviving-evidence-versus-claims preserved; new #lasting-legacy-and-unanswered-history. Scoped world/ search returned no literal HISTORY_ANCIENT_CATASTROPHE.md# incoming fragments; native/external bookmarks deferred.",
+        "source_window_note": "Substantial bounded narrative revision from 17-line 2,128-byte LF original to 35-line 7,589-byte reader-first historical study, with owner-canonical T'ietkalla and the Principal in prose. GM E000 opening framing is distinct from observed local CHIDS experimentation, competing E067/E078/E081/E118/E122 historical testimony and S3E18 later actual greening. All older source links retained; new explicit source footnotes explain evidence classes. No measured ancient date, comprehensive gateway/dragonflight canon, all-species creation claims, or fully known Weir history inferred.",
         "open_questions": [
-          "First screen is browse/research metadata before story rather than a developed reader-first historical introduction; article ends in an Open list and lacks Lasting legacy",
-          "Older Tietkalla and Principle display spellings appear in unquoted current prose; D-044 spellings need a separately scoped pass",
-          "Competing claims about Scorching, gate builders, anti-dragon projects, planet-moving device and Weir remain unverified; full campaign history not synthesized here",
-          "Direct audio and full first/last sources, incoming backlinks and D-048 compliance remain unverified"
+          "WCL-137 resolves story-first opening, historical versus claim layers, lasting legacy and canonical prose spellings. All three prior heading IDs survive; 32/32 rendered local links, six footnote references to five definitions resolve and scoped Markdownlint passes. Exact unmodified pre-rewrite LF bytes preserved once at research/legacy/HISTORY_ANCIENT_CATASTROPHE_PRE_WCL137_2026-11-01.md (2,128 bytes; expected SHA-256).",
+          "Ancient chronology, original gates' builders, war participants, Scorching mechanism, CHIDS human-mind archives/other-species origin, planet relocation and Delit/black-dragon/Quizquaz Weir cosmology remain disputed or unverified. Successful Ruby effect in S3E18 does not corroborate those original causal stories.",
+          "No original audio listening, exhaustive source-claim comparison, external fragment bookmarks or native-browser WCL-103 acceptance; D-048 text editorial acceptance is source-limited."
         ],
         "primary_audio": "not_checked",
         "full_source_claim_accuracy": "not_checked",
-        "native_browser": "deferred_WCL-103"
+        "native_browser": "deferred_WCL-103",
+        "headings_rendered": 4,
+        "source_lines_read": 35,
+        "markdownlint": "passed_zero_violations",
+        "markdown_render": "checked_all_local_links",
+        "pre_rewrite_snapshot": "research/legacy/HISTORY_ANCIENT_CATASTROPHE_PRE_WCL137_2026-11-01.md",
+        "pre_rewrite_snapshot_sha256": "d39439073b86160e800d713f6d43ee4a63cc904fda9403b2638d849d8c05b0f5",
+        "last_editorial_restructure": "WCL-137"
       }
     },
     {
@@ -591,12 +605,12 @@
         "purpose": "world_navigation_portal",
         "depicted_source_window": "E000–S3E18 main campaign; E107–E109 prequel; S3E019 Q&A separate",
         "D048_structure": "observed_reader_index",
-        "outgoing_local_links_checked": 84,
+        "outgoing_local_links_checked": 85,
         "outgoing_broken_links": 0,
         "footnote_references_rendered": 0,
         "footnote_definitions_rendered": 0,
-        "size_bytes": 7676,
-        "sha256": "b0b8e4b745db4f6a57d7d4fa17f0becbd1b269781ae1ca95cd87e88b1477041b",
+        "size_bytes": 8127,
+        "sha256": "8d16903c94a318aa676664dd38363f29c596d1ea5c57e4eeedce5a2420b3e177",
         "incoming_links": "sampled_not_exhaustive",
         "incoming_link_examples": [
           "narrative/README.md",
@@ -607,11 +621,13 @@
         "full_source_claim_accuracy": "not_checked",
         "native_browser": "deferred_WCL-103",
         "open_questions": [
-          "Sources and project notes paragraph still says only Lizardfolk/Tieflings have race pages and Harlequinari lacks one; current Races directory has eight profiles",
-          "Index's summary of continued cleanup and historical arc route must remain aligned with completed eleven-arc private edition",
-          "Other inbound backlinks, named aliases and audio completeness unverified"
+          "Eight standalone people profiles are available, but their source horizons vary and only Lizardfolk/Tieflings are present as machine-readable race_culture records; do not imply one-to-one JSON synchronization.",
+          "Later root reader-navigation and full release/browser checks remain separately open. Inbound backlinks, source-to-claim accuracy and original audio were not fully checked."
         ],
-        "source_window_note": "Whole portal read, historical and finale coverage noted; dates do not prove full source-by-source factual acceptance"
+        "source_window_note": "WCL-133 fixed stale source notes and Races directory description: eight actual published people pages, including Harlequinari, while Lactids remain research-only and exactly two race_culture types are indexed in the separate JSON pilot. All prior portal destinations retained. No claim of all-populations canon coverage.",
+        "markdownlint": "passed_zero_violations",
+        "markdown_render": "checked_all_local_links",
+        "last_targeted_correction": "WCL-133"
       }
     },
     {
@@ -1744,7 +1760,7 @@
         "outgoing_local_links_checked": 100,
         "outgoing_broken_links": 0,
         "outgoing_local_links_not_checked": 175,
-        "outgoing_link_check": "offline_renderer_first_100_only_remaining_links_unverified_WCL-101",
+        "outgoing_link_check": "renderer_100_cap_remainder_static_file_paths_and_heading_fragments_verified_WCL-190",
         "headings_rendered": 7,
         "footnote_references_rendered": 0,
         "footnote_definitions_rendered": 0,
@@ -1761,10 +1777,16 @@
         "full_source_claim_accuracy": "not_checked",
         "native_browser": "deferred_WCL-103",
         "open_questions": [
-          "Rendered link cap prevents full destination coverage; remaining links and exact heading compatibility require WCL-101/WCL-103, not claimed passed.",
+          "WCL-190 independently parsed all 149 inline and 126 reference-style Markdown links (275 occurrences) in current 245-line document, decoded and resolved 218 distinct target file paths in six bounded batches; 218/218 exist. Two explicit heading fragments point to current rendered IDs in EDITORIAL_GUIDE.md and REVIEW_QUEUE.md (2/2). The renderer STILL only checked first 100 links and leaves 175 unchecked there; file existence/heading IDs do not certify browser navigation, source-cue truth or ASR timings.",
           "Speaker diarization, spell phrase and title spelling/clock remain provisional pending audio and independent source verification.",
           "No new title/phrase ID, canonical word, scene or appendix created by the structural census"
-        ]
+        ],
+        "outgoing_link_instances_static_verified": 275,
+        "outgoing_distinct_local_file_paths_verified_exists": 218,
+        "outgoing_fragment_links": 2,
+        "outgoing_fragment_links_target_ids_verified": 2,
+        "outgoing_static_target_files_missing": 0,
+        "last_link_destination_audit": "WCL-190"
       }
     },
     {
@@ -1775,24 +1797,24 @@
         "level": "structural_and_outgoing_links_checked",
         "cohort": "WCL-146",
         "purpose": "source_first_nobieri_dead_tongue_counselor_and_historical_testimony_register",
-        "depicted_source_window": "E047–E124, S3E04–S3E05; no final S3E18 direct personal resolution in current profile",
-        "D048_structure": "needs_reader_first_review",
-        "source_window_note": "All 33 lines read. Top metadata states ASR-provisional Nobieri/Nobiery and S3E05 latest deployed observation. Reverse S3E05/S3E04, E124, historical E047/E054, and E123 sections distinguish physically observed council attendance from scout's estimates and unverified ancient pact narrative. Scholar freed from book E047, armed tieflings physically return E054 for Hope's coronation. Personal role, rescue/counsel and later Harbor participation are sourced but not arranged as a continuous reader-first history.",
-        "source_lines_read": 33,
-        "outgoing_local_links_checked": 22,
+        "depicted_source_window": "E047/E048 Nobieri freed from book and unverified ancient Akmenos/Dead Tongue history; actual E054 armed tiefling return/crowning, E111/E115/E117 rescue/Harbor presence, E123–E124 limited sample investigation, S3E04 physical scout council testimony, last direct S3E05 vehicle boarding; no established S3E18 personal status",
+        "D048_structure": "reader_first_personal_political_role_chronological_E047_to_S3E05_plus_last_witnessed_status_and_qualified_sources",
+        "source_window_note": "WCL-148 substantial 53-line reorder preserves all six previous source chapter heading IDs and all original detailed paragraphs; adds a reader-first tiefling-scholar/court/counsel introduction, E047→E054 history, E059/E111/E115/E117 refuge, E123/E124 specimens, S3E04 reported reconnaissance and S3E05 observed participation; finishes with source-specific current status. Named personal endpoint S3E05 physical deployment is NOT invented final survival/death through S3E18. Ancient ancestry/Dead Tongue/Night Pasture, Harbor manifestation, exact enemy scouting counts and former ritual claims are attributed, with E123 permission not reclassified as completed journey. 30/30 renderer links, 23 static unique files valid, no fragments, no footnotes; original CRLF 5,554 bytes independently preserved.",
+        "source_lines_read": 53,
+        "outgoing_local_links_checked": 30,
         "outgoing_broken_links": 0,
         "outgoing_local_links_not_checked": 0,
         "outgoing_link_check": "offline_renderer_all_local_links_checked_plus_independent_static_file_target_existence",
-        "outgoing_distinct_local_file_paths_verified_exists": 21,
+        "outgoing_distinct_local_file_paths_verified_exists": 23,
         "footnote_references_rendered": 0,
         "footnote_definitions_rendered": 0,
         "footnote_definitions_missing": 0,
         "markdown_image_embeds": 0,
         "html_image_embeds": 0,
-        "headings_rendered": 7,
+        "headings_rendered": 12,
         "legacy_html_anchor_tags": 0,
-        "size_bytes": 5554,
-        "sha256": "b40198553e8a20f3c41336a6d9f5ef4c4d3faebcf93775e6d96965a8692a0837",
+        "size_bytes": 8254,
+        "sha256": "3cd825760ede4ed4d263e65f779d4981f0d2870af7b4d8aba3835996f6c34c44",
         "historical_preserved_files": [],
         "historical_preserved_sha256": [],
         "incoming_links": "sampled_not_exhaustive",
@@ -1807,12 +1829,17 @@
         "full_source_claim_accuracy": "not_checked",
         "native_browser": "deferred_WCL-103",
         "open_questions": [
-          "Article is an out-of-order source ledger rather than reader-first political history; WCL-148 should scope narrative reconstruction without inventing missing S3E18 fate.",
-          "Nobieri/Nobiery/Riddle Nobieri written form is provisional pending authoritative written evidence or original audio; don't force variant change.",
-          "E047 claim about old royal houses and bargains, E117 flame entity divinity, S3E04 enemy estimates remain speaker testimony rather than universally validated facts.",
-          "The mission authorized in E123 is not shown departing/completing by E124; cannot turn it into subsequent performed expedition.",
-          "No exact pre-rewrite original located in sampled root legacy listings; browser, original audio and full source claims unverified."
-        ]
+          "WCL-148 resolves newest-first/out-of-order personal and political dossier into source-bounded chronology and current-status boundary without changing original six heading ID strings. All 30/30 local links valid and Markdownlint clean.",
+          "Nobieri/Nobiery/Riddle Nobieri exact written identity and titles remain ASR-provisional; E047 dynastic/afterlife claims, E117 Abegir divinity, S3E04 surveillance figures and full post-S3E05 personal fate remain unverified.",
+          "The last physical S3E05 Liberator boarding does not imply personal participation in every subsequent battle or completed S3E18 rebuilding council. D-052 5,554-byte pre-rewrite original SHA verified; original audio, browser/backlinks and exhaustive source factual review outstanding."
+        ],
+        "pre_rewrite_snapshot": "research/legacy/NOBIERI_PRE_WCL148_2026-11-01.md",
+        "pre_rewrite_snapshot_sha256": "b40198553e8a20f3c41336a6d9f5ef4c4d3faebcf93775e6d96965a8692a0837",
+        "pre_rewrite_heading_ids_preserved": 7,
+        "markdownlint": "passed_zero_violations",
+        "markdown_render": "checked_all_local_links",
+        "last_editorial_restructure": "WCL-148",
+        "source_fragment_ids_verified": 0
       }
     },
     {
@@ -2294,24 +2321,24 @@
         "level": "structural_and_outgoing_links_checked",
         "cohort": "WCL-146",
         "purpose": "original_tedna_and_distinct_alternate_badass_t_source_horizon_profile",
-        "depicted_source_window": "Original E027–E050; distinct alternate counterpart S2E04–S2E09, plus March 2022 creator Q&A",
-        "D048_structure": "needs_reader_first_review",
-        "source_window_note": "Full 37 lines. Short opening recounts original young Tedna's E027 stowaway arrival, E048 prison rescue and witnessed death E050, while longer remaining sections reverse-track an alternate Badass T from S2E09 to S2E04. The latter is not the original Tedna resurrected, and his last played S2E09 state is unconscious in werefolk care, with suspected but not demonstrated lycanthropy.",
-        "source_lines_read": 37,
-        "outgoing_local_links_checked": 28,
+        "depicted_source_window": "Original Tedna E027–E050 with witnessed E048 rescue and E050 death; explicitly separate alternate Badass T S2E04–S2E09 appendix with March 2022 Q&A not treated as performed recovery",
+        "D048_structure": "reader_first_original_Tedna_intro_and_legacy_chronology_then_chronological_separate_alternate_Badass_T_appendix_and_current_status",
+        "source_window_note": "WCL-148 source-bounded 57-line narrative reorganization: original Tedna stows away E027, helps in T'ietkalla, is actually freed E048 and dies E050. Six original reverse S2E09→S2E04 alternate-counterpart headings are retained exactly but ordered S2E04→S2E09 in a clearly separate Badass T appendix; dedicated independent alternate biography is linked, including current-status anchor. Current status distinguishes dead original from separately last-witnessed stabilized but unconscious S2E09 alternate. 36/36 local links render, 30 distinct target files exist and actual Badass T #current-status target ID verified. Original CRLF bytes preserved once under D-052.",
+        "source_lines_read": 57,
+        "outgoing_local_links_checked": 36,
         "outgoing_broken_links": 0,
         "outgoing_local_links_not_checked": 0,
         "outgoing_link_check": "offline_renderer_all_local_links_checked_plus_independent_static_file_target_existence",
-        "outgoing_distinct_local_file_paths_verified_exists": 28,
+        "outgoing_distinct_local_file_paths_verified_exists": 30,
         "footnote_references_rendered": 0,
         "footnote_definitions_rendered": 0,
         "footnote_definitions_missing": 0,
         "markdown_image_embeds": 0,
         "html_image_embeds": 0,
-        "headings_rendered": 7,
+        "headings_rendered": 11,
         "legacy_html_anchor_tags": 0,
-        "size_bytes": 8336,
-        "sha256": "33b91821dfadbce459e9e75762d04d32dc0d8f834bb4d61486178459d8d7ff67",
+        "size_bytes": 11056,
+        "sha256": "f832455369cec65abb11e529cb32529e035568b67b5626711cab09d528bb6d6b",
         "historical_preserved_files": [],
         "historical_preserved_sha256": [],
         "incoming_links": "sampled_not_exhaustive",
@@ -2325,12 +2352,17 @@
         "full_source_claim_accuracy": "not_checked",
         "native_browser": "deferred_WCL-103",
         "open_questions": [
-          "Article conflates original Tedna subject and separately embodied alternate Badass T under one main heading; crosslink to distinct existing Badass T page and keep provenance separated when revising.",
-          "Reverse S2E09→S2E04 cutoff blocks interrupt reader-first original Tedna story; follow-up WCL-148 to evaluate independent history/compatibility anchors.",
-          "Stanley's own S2E05 claim that he killed original Tedna must not overwrite observed E050 Diontalus/other agency without a source-specific audit.",
-          "No final S3E18 personal outcome for alternate T is shown; prior S2E09 unconscious status and future lycanthropy/regrowth remain unresolved.",
-          "Owner/cast spelling source exists but no fresh original audio or complete external fact check; no preserved exact pre-rewrite original established in sampled root legacy listing."
-        ]
+          "WCL-148 resolves reverse chronology and original-versus-alternate main-subject conflation without dropping the six historical chapter headings, citations or earlier status observations. All 7 prior heading IDs still render; 36/36 links valid, no footnotes, targeted Markdownlint clean. D-052 original 8,336 bytes, hash verified.",
+          "No evidence that original E050 death was reversed; Stanley's separate later confession is quoted speaker testimony, not a rewrite of performed E050 agency. Alternate Badass T last S2E09 alive/unconscious with unexplained full lycanthropy/lip regrowth/future; March 2022 creator notes remain speculative. Source-wide absence, audio and final canon not attested.",
+          "Old and new URLs stable; incoming world-scoped historical fragment search returned zero. Native browser, external bookmarks and original audio unverified."
+        ],
+        "pre_rewrite_snapshot": "research/legacy/TEDNA_PRE_WCL148_2026-11-01.md",
+        "pre_rewrite_snapshot_sha256": "33b91821dfadbce459e9e75762d04d32dc0d8f834bb4d61486178459d8d7ff67",
+        "pre_rewrite_heading_ids_preserved": 7,
+        "markdownlint": "passed_zero_violations",
+        "markdown_render": "checked_all_local_links",
+        "last_editorial_restructure": "WCL-148",
+        "source_fragment_ids_verified": 1
       }
     },
     {
@@ -2592,7 +2624,7 @@
         "outgoing_local_links_checked": 100,
         "outgoing_broken_links": 0,
         "outgoing_local_links_not_checked": 77,
-        "outgoing_link_check": "offline_renderer_first_100_only_remaining_links_unverified_WCL-101",
+        "outgoing_link_check": "renderer_100_cap_remainder_static_file_paths_and_heading_fragments_verified_WCL-190",
         "headings_rendered": 47,
         "footnote_references_rendered": 0,
         "footnote_definitions_rendered": 0,
@@ -2609,10 +2641,16 @@
         "full_source_claim_accuracy": "not_checked",
         "native_browser": "deferred_WCL-103",
         "open_questions": [
-          "Rendered link cap prevents full destination coverage; remaining links and exact heading compatibility require WCL-101/WCL-103, not claimed passed.",
+          "WCL-190 independently parsed 177 inline Markdown links in current 332-line register, decoded and resolved all 135 distinct local target file paths in four bounded batches; 135/135 exist. Its sole report heading fragment source-windows-and-export-inventory exists in the safe rendered VOREL_TITLE_AUDIT_2026-10-23.md (1/1). Its target report has a SEPARATE broken link back to an obsolete Vorel biography anchor, indexed as WCL-194, not a failure of this citation. Renderer STILL checks only 100 of 177 register links; native-browser and audio/title source verification remain open.",
           "Speaker diarization, spell phrase and title spelling/clock remain provisional pending audio and independent source verification.",
           "No new title/phrase ID, canonical word, scene or appendix created by the structural census"
-        ]
+        ],
+        "outgoing_link_instances_static_verified": 177,
+        "outgoing_distinct_local_file_paths_verified_exists": 135,
+        "outgoing_fragment_links": 1,
+        "outgoing_fragment_links_target_ids_verified": 1,
+        "outgoing_static_target_files_missing": 0,
+        "last_link_destination_audit": "WCL-190"
       }
     },
     {

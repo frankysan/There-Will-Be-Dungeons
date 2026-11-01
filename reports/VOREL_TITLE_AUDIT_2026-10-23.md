@@ -1,6 +1,6 @@
 # Vorel title-register audit — 2026-10-23
 
-**Scope:** Targeted transcript search for titles missing from [Vorel's character-page register](../world/characters/vorel.md#titles-and-epithets--source-indexed-register). Local checkout, starting HEAD `b25b64a`, initially clean. This is a **title search and selected-passage comparison**, not a full-episode dossier, listening review or validation of every exploit implied by a title.
+**Scope:** Targeted transcript search for titles missing from [Vorel's maintained titles register](../world/characters/vorel-titles.md). Local checkout, starting HEAD `b25b64a`, initially clean. This is a **title search and selected-passage comparison**, not a full-episode dossier, listening review or validation of every exploit implied by a title.
 
 ## Findings and editorial treatment
 

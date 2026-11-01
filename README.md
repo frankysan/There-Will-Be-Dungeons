@@ -2,9 +2,9 @@
 
 Explore the stories, people and worlds of *There Will Be Dungeons*. Choose a campaign for its narrative and setting, or browse the standalone adventures and cast conversations. Each campaign keeps its own continuity.
 
-<a id="choose-how-to-explore"></a>
+## Choose how to explore
 
-## Campaigns
+### Campaigns
 
 | Campaign | Story and setting | Start reading |
 | --- | --- | --- |
@@ -14,13 +14,13 @@ Explore the stories, people and worlds of *There Will Be Dungeons*. Choose a cam
 
 The Wastes, Delvers and Inverse are separate fictional realities. Similar names, performers or creatures do not establish a shared world. The campaign portals describe each story's recorded ending and unresolved threads.
 
-## One-shots and short adventures
+### One-shots and short adventures
 
 [Browse the one-shot index](oneshots/README.md) for **Merry Chromeness!**, **Spider Claws** and **Send In The Spores**. Their original dossier paths remain available; each entry explains its relationship to the main campaigns. A standalone adventure can use a campaign setting without continuing its main-party story.
 
 The **Dunebreaker** three-part story belongs to the Wastes' earlier history. Follow it from the [Wastes history route](wastes/README.md#earlier-history-and-related-adventures).
 
-## Cast conversations and bonus material
+### Cast conversations and bonus material
 
 [Browse bonus discussions and retrospectives](bonuses/README.md) for questions about the characters, setting design, abandoned possibilities and the making of the show. These conversations provide context; they do not add performed scenes to the campaigns.
 
