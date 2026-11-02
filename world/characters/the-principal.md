@@ -1,11 +1,6 @@
 # The Principal — Vladimir
 
-<a id="the-principal--vladimir"></a>
-
 The Principal ruled an influential domain of industry, slavery, armed power and chrome technology. To those negotiating with him he could be measured, courteous and even useful; to his enemies he represented a system willing to remold people and entire worlds in the name of a promised better future. He opposed the Weir and its Soulbroker, yet the methods he proposed to defeat them threatened almost everyone he claimed to protect. His insistence that Nash was his son—and ultimately his key to saving creation—made the dispute painfully personal as well as political.[^identity]
-
-<a id="activity-and-influence"></a>
-<a id="opponents-motives-and-outstanding-questions"></a>
 
 ## A ruler offering order at a price
 
@@ -13,21 +8,11 @@ The Principal's influence was felt long before his true ambitions were clear. Pr
 
 The most immediately persuasive proof of his power came when he pulled Diontalus from Stanley and confined the hostile archfey in a crystal. The extraction actually relieved Stanley of the active presence, though the Principal kept the crystal and its eventual custody remained uncertain. That combination—achievable benefits in exchange for trust in a coercive ruler—characterized his dealings with the companions. Elsewhere Hope heard his account of the ancient Lich Project, and Elhandar's leaders recognized him as Vladimir, an old adversary of their scientific and moral aspirations. His assertions that he had destroyed a city and become a demigod were never made facts merely by his telling them.[^rule]
 
-<a id="e128--the-soulbroker-accuses-a-new-threat-visibly-enters-earth"></a>
-<a id="may-2022-bonus--gm-confirms-original-tobacho-hand-commission-and-uses-lich-but-not-literal-paternity"></a>
-<a id="bonus-2022-07--creator-retrospect-on-ancient-diontalusgroxl-association-not-played"></a>
-<a id="s3e09--groxls-ancient-contractpaternity-stories-and-general-motorss-daddy-taunts"></a>
-<a id="s3e07--groxl-declares-the-principal-merely-a-man-plans-to-kill-him-enemy-testimony"></a>
-
 ## Competing stories about his past
 
 The Soulbroker wanted Hope, Stanley and Nash to kill the Principal under a pact that Vorel refused. Yet the Weir's version of history did not fit neatly with other testimony. An imprisoned black dragon described the Principal as an old agent of the Weir who sought a durable body; the Soulbroker depicted him as a human who had once made a bargain to save Earth, then broken it and obstructed the Weir's entry. Reports from Groxl and other ancient figures added claims of past alliances, wars and betrayals, some in direct conflict. The Principal's own view was that only wholesale conversion to chrome could defeat gods, demons and the Weir. None of these interested accounts was by itself a witnessed account of how humanity, the Weir or the Principal began.[^rivalry][^claims]
 
 Those who had known him as an enemy could still speak of an older fellowship or science. The out-of-game identification of him as a lich supports the title, but not an observed phylactery, a definite account of his transformation or proof that every proposed method of his survival works. Equally, repeated assertions that Nash was his natural son were never established by an independent parentage test. The Principal's true history was contested not because his acts in the present were unreal, but because nearly everyone explaining his past had reasons to shape the story.[^canon]
-
-<a id="season-three--physically-manifests-as-crowned-chrome-being"></a>
-<a id="s3e02--actually-steals-hand-claims-nash-as-jesus-chrome-escapes-alive"></a>
-<a id="s3e03--figure-speaks-inside-shared-parasite-mediated-dream-authenticity-open"></a>
 
 ## The Hand of the Voice and the claim to fatherhood
 
@@ -35,21 +20,13 @@ The Principal emerged openly aboard Fate Six as a crowned chrome figure amid an 
 
 A later shared nightmare portrayed a chrome parent who offered further accounts of Nash's childhood, death and manufacture. The companions woke from the influence of strange green parasites; the dream's speaker and the truth of his memories remained uncertain. Meanwhile other powers claimed to know the Principal's ambitions: Groxl threatened to destroy him, an old bully sought his favor as a replacement son, and an ancient dragon offered a different genealogy of the experiments. The Principal himself was not present to verify their competing stories.[^claims][^hand]
 
-<a id="s3e11--physically-met-at-inner-solar-mines-temporary-alliance-then-actually-gated-to-weir"></a>
-
 ## An alliance against the Soulbroker
 
 When the four companions reached the deep Solar Mines, they found the Principal directing a vast chrome-making operation near a geothermal core. His plan to transform the world remained abhorrent to them, yet he argued that the Weir's growing threat made cooperation necessary. Nash learned more of the Principal's claim to have engineered him and his dragon-metal heart, including assertions of repeated timelines; the Principal's account remained self-interested. Hope proposed a temporary ceasefire. The Principal accepted, supplying a ring that opened a gate to Château Weir, where all five confronted the Soulbroker together.[^weir]
 
 Their alliance was materially real: the Principal sheltered the party from a colossal storm, fought their enemy and opened a way out when the Soulbroker was destroyed. But as soon as he had the survivors in his power, he sent them to Hell instead of Earth, restrained them, and announced that Nash was too dangerous to live. The threat to remove his heart and kill him exposed how little safety his fatherly words had guaranteed. Brett, known as Asmodeus, intervened; in the infernal negotiations the Principal handed over the stolen Hand of the Voice and disappeared at Brett's command. **Nash was not killed, and the Principal's later whereabouts were initially unknown.**[^betrayal][^absence]
 
-<a id="s3e12--battles-soulbroker-then-actually-betrays-heroes-gives-voice-hand-to-asmodeus-and-is-snapped-away"></a>
-
 ## A weakened return and a more personal appeal
-
-<a id="s3e13--still-not-physically-seen-rumored-brett-reuse-intact-ruby-still-in-original-core-chamber"></a>
-<a id="s3e14--physically-reappears-weakenedringless-from-rocket-limited-truce-under-vorel-parole"></a>
-<a id="s3e15--works-with-heroes-professes-love-for-nash-first-tarrasque-clawsmouth-actually-portals-hope-to-sigil-and-back"></a>
 
 After the companions escaped Hell, the Principal returned from a small rocket in a younger, visibly weaker chrome body, without his familiar red rings. He said that Brett had destroyed his earlier form and that he had remade himself; the new body could be seen, but the journey and means of reconstruction could not. With Worldbreaker growing beneath Earth, he offered to help stop it. Vorel granted him only a monitored, conditional parole, not forgiveness or the legal right to continue his former rule. The other companions continued to distrust his intentions.[^absence][^mentoring]
 
@@ -63,11 +40,7 @@ The Principal's truce broke when the companions tried to banish Worldbreaker. Ha
 
 The death did not end the danger. **Twelve additional chrome Principals** arrived from the Moon in rocket pods, sharing a hostile purpose. They demanded that Nash allow Worldbreaker to return, claiming that its power was necessary to survive the gods. When Nash held his banishment to completion, Worldbreaker was permanently removed from Earth as adjudicated. The remaining lunar copies collapsed. An infernal being resembling Brett then gathered soul-like energy from their bodies and claimed a debt had come due. The Principal was defeated, but the mechanism and ownership of that collected soul were not fully established.[^defeat]
 
-<a id="s3e17--attempted-lunar-copy-counterattack-fails-bodies-collapse-soul-seized-by-devil"></a>
-
 ## The Council of Faces and an unwilling successor
-
-<a id="s3e18-epilogue-resolution--council-of-faces-moon-facility--successor-nash-ceased-campaign-complete"></a>
 
 After Earth was healed, the companions investigated the surviving lunar production facility. Inside was a hidden chamber of the **Council of Faces**, disembodied chrome intelligences who claimed to embody the minds and mission of ancient humanity. They regarded Nash as a manufactured offshoot of the Principal and forcibly transformed him into a new chrome Principal. Unlike the former ruler, **Nash refused their command to kill his friends**. He warned the others, helped them escape, and joined their effort to destroy the lunar factory. The Council's origins and mission remained its own account; the coercive transformation and subsequent destruction were witnessed.[^moon]
 

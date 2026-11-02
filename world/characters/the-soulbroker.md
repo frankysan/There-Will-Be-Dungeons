@@ -1,10 +1,6 @@
 # The Soulbroker
 
-<a id="the-soulbroker--catoblepraithe-"></a>
-
 Beyond the familiar world, the goat-headed lord who called himself the Soulbroker presided over the strange court of Château Weir. He offered sanctuary, knowledge and power, but made every gift part of a bargain. He spoke of souls as possessions and portrayed the Principal as the enemy standing between the Weir and Earth. His titles and offers were plainly heard; the distant history and moral necessity he claimed for them were far less certain.[^arrival]
-
-<a id="encounter-and-compact"></a>
 
 ## The first bargain
 
@@ -15,9 +11,6 @@ The Soulbroker subsequently supplied leads about weapons, passageways and distan
 ## His claim upon the living
 
 The Weir appeared to reach beyond those three signatures. An old T'ietkallan elder said he had sacrificed newborns to shelter an army there; the travelers saw him enter Château Weir, and the soldiers later returned, but the ancient price was not independently witnessed. Quizquaz, meanwhile, offered a brutal interpretation of the compact: destroy Earth to destroy the Principal, and escape with the heroes' souls. The companions rejected sacrificing their world. Neither offer established a general law of souls or proved that the compact could be enforced exactly as its messengers threatened.[^army][^choice]
-
-<a id="e123--approximate-clock-and-visible-brands"></a>
-<a id="e128--private-warning-and-observable-planetary-breach"></a>
 
 ## The bargain behind a threatened world
 
@@ -31,9 +24,6 @@ Monsoon Cabbage later offered to remove the curse binding Stanley to the Weir. T
 
 Yet when the heroes entered Château Weir again, Quizquaz accused the three original signatories of breaking their bargain and still threatened them. His demand was a character's claim, **not a demonstrated reversal of Stanley's completed exorcism**. Vorel's refusal was explicitly acknowledged. The degree to which Hope and Nash remained individually bound after their own earlier changes was never settled by this confrontation.[^meeting][^exorcism]
 
-<a id="s3e11--the-soulbroker-physically-meets-principle-and-heroes-worldbreaker-claim-and-giant-cliffhanger"></a>
-<a id="s3e12--actually-slain-in-3280-fireball-barrage-earth-worldbreaker-remains"></a>
-
 ## The storm at Château Weir
 
 The four companions returned with the Principal, their former enemy, under a temporary agreement against the Weir. The Soulbroker appeared before all five in his robed goatlike form. He demanded the Principal's death and said he had planted a Worldbreaker seed within Earth to turn the planet into a gateway for his people. Provoked by Hope and Stanley, he **claimed** he could withdraw it but refused; no such removal was witnessed. When negotiation collapsed, he grew to an impossible height and tore the château into a lightning-filled cyclone.[^meeting]
@@ -43,8 +33,6 @@ Within the storm the Soulbroker attacked the five. Lightning interacting with Na
 ## Current status
 
 **The Soulbroker was slain in the witnessed Château Weir battle**, and no later played appearance restores him. His stated ambitions for Earth failed, although the Worldbreaker he had introduced remained dangerous after his death. Nash finally banished that creature from Earth, and the Triangulosphere later restored the planet. The broken Weir connection, the unresolved nature of many of the Soulbroker's stories, and Quizquaz's separate fate should not be confused with a demonstrated extinction of every being who had served the Weir.[^aftermath][^identities]
-
-<a id="source-boundaries"></a>
 
 [^arrival]: The provisional personal-name forms include *Catoblepraithe*, *Catobelpraithe* and *Kitobol Prith*. *Soulbroker* is the secure title. The site is [Château Weir](../places/chateau-weir.md); none of the personal-name spellings has been verified against original audio. [E022](../../episodes/E022.md) distinguishes the arriving goatlike being from Quizquaz and the defeated beholder.
 [^compact]: [E023](../../episodes/E023.md) records three separately signed pacts, Vorel's refusal, hospitality and immediate boon; [E024](../../episodes/E024.md) records later gifts, Nash's demonstrated transformation, his private vision and the host's uncertain leads. The hotel paperwork is not the soul pact.
