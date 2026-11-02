@@ -79,12 +79,17 @@ the old phase-plan "next" sentences, or manifest/changelog pointers.**
    dependency-safe ordered cohort that can be fully reviewed and validated;
    retain a single focused task for genuinely dense or gated work. Do not group merely
    because several checkboxes are adjacent in the register.
-5. **Execute in dependency order.** Record a compact intent and selected IDs
-   in their existing task entries (no extra batch journal), then perform each
-   bounded operation, its readback and necessary tests. Check off **each WCL
-   independently** once that task's outcome is proved. If the work is
-   interrupted, leave only unverified or blocked IDs unchecked and recover
-   from the first incomplete step without repeating verified reads/edits.
+5. **Execute in dependency order.** Keep an open task's requirements, selected
+   paths, evidence and recovery checkpoint sufficiently detailed for safe
+   continuation, without an extra batch journal. Perform bounded operations,
+   readback and checks; mark each WCL independently only when its own scope
+   passes. **At completion, compact its entry to one short outcome paragraph**
+   retaining the checkbox, parent/dependencies, key evidence links and any
+   essential limits. Detailed raw validation, source windows and hashes belong
+   in source files, the per-file census, existing review records, the one-time
+   major-rewrite archive and Git history—not repeated in every checked task.
+   Never compact an incomplete task into a falsely resolved one. Recover the
+   first unfinished action after interruption.
 6. **Close and select the next task.** Reconcile the parent only when its
    defined exit gate and required children are evidenced. Set **Current next
    action** to the next eligible unchecked WCL ID based on dependencies and
