@@ -21,11 +21,11 @@
     "structural_renderer_checked_lint_blocked": "Complete current Markdown read and safe offline renderer checked all local links, but targeted markdownlint was blocked by a safety check. Do not claim lint success or bypass the block; native browser and source accuracy remain unverified."
   },
   "counts": {
-    "total": 149,
+    "total": 150,
     "historic_paths": 134,
     "historic_retained": 134,
-    "added_since_baseline": 15,
-    "structural_and_outgoing_links_checked": 139,
+    "added_since_baseline": 16,
+    "structural_and_outgoing_links_checked": 140,
     "structural_with_partial_outgoing_links_checked": 7,
     "structural_paths_verified_render_blocked": 1,
     "structural_renderer_checked_lint_blocked": 1,
@@ -35,7 +35,7 @@
       "world": 17,
       "world/characters": 49,
       "world/places": 20,
-      "world/technology": 23,
+      "world/technology": 24,
       "world/creatures": 32,
       "world/races": 8
     }
@@ -508,8 +508,8 @@
         "outgoing_broken_links": 0,
         "footnote_references_rendered": 43,
         "footnote_definitions_rendered": 43,
-        "size_bytes": 62036,
-        "sha256": "bcc6377279c99fefb429e663b5d9184169660d6eaa6172d60620d21069ffa080",
+        "size_bytes": 62043,
+        "sha256": "c9c6ce5809afdd0dd8df58254e69656e868551a286bbbfef08ef1fcdcdd50556",
         "incoming_links": "sampled_not_exhaustive",
         "incoming_link_examples": [
           "world/README.md",
@@ -609,8 +609,8 @@
         "outgoing_broken_links": 0,
         "footnote_references_rendered": 0,
         "footnote_definitions_rendered": 0,
-        "size_bytes": 8457,
-        "sha256": "d37337d228eed6319dbfc92c8bbeca6893b2d41fcdd98933ff3342284b9ccce1",
+        "size_bytes": 8466,
+        "sha256": "3c92e8c89948a48606bae9c57d2232c918b65eff1695c06586046dd43eda53f1",
         "incoming_links": "sampled_not_exhaustive",
         "incoming_link_examples": [
           "narrative/README.md",
@@ -1155,8 +1155,8 @@
         "headings_rendered": 11,
         "legacy_html_anchor_tags": 14,
         "markdownlint": "passed_zero_violations",
-        "size_bytes": 16751,
-        "sha256": "85fe51ca6070c45f20a9776cc3a19322ceec8c0bfd779f358b5f6384ddafe0ad",
+        "size_bytes": 16758,
+        "sha256": "9fbf53c55bc3feda7dbe30ab151adc25a6598d172d58c6501e160ea75b3923ce",
         "historical_preserved_files": [
           "research/legacy/DIONTALUS_PRE_BATCH281_2026-10-31.md"
         ],
@@ -1404,8 +1404,8 @@
         "html_image_embeds": 0,
         "legacy_html_anchor_tags": 0,
         "markdownlint": "passed_zero_violations",
-        "size_bytes": 5315,
-        "sha256": "f743da4f72faa9e9065280d8dcb769b84427a1033bc527c618e9af892497fb7b",
+        "size_bytes": 5322,
+        "sha256": "1ffff637d2a00e2c048ed6f5ccf1e05bcd3ed646c88469cf6e7059775a0d2ffd",
         "incoming_links": "literal_world_link_scan_only_not_exhaustive",
         "incoming_link_examples": [],
         "primary_audio": "not_checked",
@@ -2238,8 +2238,8 @@
         "html_image_embeds": 0,
         "source_html_details_blocks": 1,
         "heading_count_rendered": 53,
-        "size_bytes": 82960,
-        "sha256": "164bad1ff57fed02f3cf5decbaf4f26e5fc2f59fbb7cb72bd6421b9d4aa5bffc",
+        "size_bytes": 82973,
+        "sha256": "f1cfa9a023d51ced7b5b3b638d13a7d26309f251e0bc0a40ecb42930f23b78ff",
         "historical_preserved_files": [
           "research/legacy/STANLEY_BILLINGS_PRE_WCL119_2026-10-31.md"
         ],
@@ -5436,8 +5436,8 @@
         "legacy_html_anchor_tags": 0,
         "markdownlint": "passed_zero_violations",
         "markdown_render": "checked_all_local_links",
-        "size_bytes": 3802,
-        "sha256": "e8fdfb5ba804acb4bb266b185c182c3acf8ed0bfd3b8ff791c16156f03743f25",
+        "size_bytes": 3823,
+        "sha256": "a4a5c22e1b879d1ebae57d9f354814da92bdfabbb9dabfe3b96d29396ad6091c",
         "incoming_links": "literal_world_filename_scan_only_not_exhaustive",
         "incoming_link_examples": [
           "world/ITEMS_AND_ARTIFACTS.md",
@@ -5788,8 +5788,47 @@
       "in_original_2026_10_27_worklist": true,
       "review": {
         "level": "structural_and_outgoing_links_checked",
-        "cohort": "WCL-184",
-        "purpose": "bounded_current_six_technology_source_structure_mechanics_custody_and_outgoing_link_census",
+        "cohort": "WCL-195",
+        "purpose": "legacy_full_article_compatibility_route_to_grapes_magical_guitar",
+        "source_lines_read": 29,
+        "depicted_source_window": "E126 hostile guitar attack and Stanley's contested physical seizure; E128 continued possession and harmless musical test; S3E12 guitar placed in Principal's chrome dome as proposed lightning rod; S3E13–S3E18 no separate later custody inspection",
+        "source_window_note": "Henatar's sonic, charm and missile effects are played. Stanley physically takes the guitar E126; the six blue spheres could be separate technology, and E128 explicitly confirms carried instrument without hazardous activated powers. S3E12 'Axe of Gilgamar' is the same electric guitar mounted in temporary chrome dome, but no actual recharge/number of charges or subsequent retrieval is demonstrated.",
+        "D048_structure": "chronological_item_use_record_needs_editorial_caps_and_name_confirmation",
+        "outgoing_local_links_total": 12,
+        "outgoing_local_links_renderer_checked": 12,
+        "outgoing_broken_links_renderer_checked": 0,
+        "outgoing_local_links_not_checked": 0,
+        "footnote_references_rendered": 0,
+        "footnote_definitions_rendered": 0,
+        "footnote_definitions_missing": 0,
+        "headings_rendered": 5,
+        "markdown_image_embeds": 0,
+        "html_image_embeds": 0,
+        "legacy_html_anchor_tags": 0,
+        "markdownlint": "passed_zero_violations",
+        "markdown_render": "checked_all_local_links",
+        "size_bytes": 6804,
+        "sha256": "5ec0059fb94f99470afb5de08805fe953833d1f152fd27f64b46bd58d7a8c23f",
+        "incoming_links": "no_active_world_episode_narrative_wastes_or_tools_literal_filename_references",
+        "incoming_link_examples": [],
+        "primary_audio": "not_checked",
+        "full_source_claim_accuracy": "not_checked",
+        "native_browser": "deferred_WCL-103",
+        "open_questions": [
+          "Full original content retained verbatim below a legacy-route banner until WCL-197 verifies no meaningful distinct data or uncontrolled links; no original audio or GitHub browser proof.",
+          "Guitar given-name and spoken Axe of Gilgamar name remain phonetic/ASR variants and not settled canon."
+        ],
+        "canonical_primary_path": "world/technology/grapes-magical-guitar.md"
+      }
+    },
+    {
+      "path": "world/technology/grapes-magical-guitar.md",
+      "domain": "technology",
+      "in_original_2026_10_27_worklist": false,
+      "review": {
+        "level": "structural_and_outgoing_links_checked",
+        "cohort": "WCL-195",
+        "purpose": "owner_D086_agreed_provisional_primary_guitar_page",
         "source_lines_read": 27,
         "depicted_source_window": "E126 hostile guitar attack and Stanley's contested physical seizure; E128 continued possession and harmless musical test; S3E12 guitar placed in Principal's chrome dome as proposed lightning rod; S3E13–S3E18 no separate later custody inspection",
         "source_window_note": "Henatar's sonic, charm and missile effects are played. Stanley physically takes the guitar E126; the six blue spheres could be separate technology, and E128 explicitly confirms carried instrument without hazardous activated powers. S3E12 'Axe of Gilgamar' is the same electric guitar mounted in temporary chrome dome, but no actual recharge/number of charges or subsequent retrieval is demonstrated.",
@@ -5807,21 +5846,26 @@
         "legacy_html_anchor_tags": 0,
         "markdownlint": "passed_zero_violations",
         "markdown_render": "checked_all_local_links",
-        "size_bytes": 6395,
-        "sha256": "fed07330619cdacb3470634f5f0afb6b105b4b80f9cd41372eb39327fa94d71b",
-        "incoming_links": "literal_world_filename_scan_only_not_exhaustive",
+        "size_bytes": 6602,
+        "sha256": "155fc2c18326e022db2fd2dbcd5214ab7df250fbcc523fb5e5f0cde492af12a4",
+        "incoming_links": "six_active_world_markdown_references_point_directly_to_this_primary",
         "incoming_link_examples": [
           "world/ITEMS_AND_ARTIFACTS.md",
+          "world/README.md",
+          "world/characters/diontalus.md",
           "world/characters/henitar-grape.md",
-          "world/characters/stanley-billings.md"
+          "world/characters/stanley-billings.md",
+          "world/technology/diontalus-ocarina.md"
         ],
         "primary_audio": "not_checked",
         "full_source_claim_accuracy": "not_checked",
         "native_browser": "deferred_WCL-103",
         "open_questions": [
-          "S3E12 all-caps insert is internally clear but needs future D-048 prose style harmonization; 'Axe of Gilgamar' is provisional phonetics, not separate sword nor owner-approved item name.",
-          "E126 six orbiting spheres not proven inseparable from guitar; Henatar limp E126 but killed E128; S3E12 dome placement and no documented guitar retrieval, original audio/item card unverified."
-        ]
+          "Owner-approved descriptive provisional label, not a creator-confirmed item name; E126/E128 and S3E12 testimony/mechanics unchanged.",
+          "No measured successful lightning recharge; no final guitar disposition. Native GitHub and external bookmarks still unverified."
+        ],
+        "source_copy_sha256": "fed07330619cdacb3470634f5f0afb6b105b4b80f9cd41372eb39327fa94d71b",
+        "legacy_compatibility_path": "world/technology/henatar-guitar.md"
       }
     },
     {

@@ -9,6 +9,9 @@ import re
 from urllib.parse import unquote, urlsplit
 
 LINK = re.compile(r"\[[^\]\n]+\]\((<[^>\n]+>|[^)\n]+)\)")
+# Extra backlink forms: conservative reference-definition candidates and HTML anchors.
+REF_TARGET = re.compile(r"^[ \t]{0,3}\[[^\]\n]+\]:[ \t]*(<[^>\n]+>|[^\s\n]+)", re.M)
+HTML_LINK = re.compile(r"""<a\b[^>]*\bhref\s*=\s*(["'])([^"']+)\1""", re.I)
 NOTE = re.compile(r"\[\^([^\]\n]+)\]")
 DEF = re.compile(r"^\[\^([^\]\n]+)\]:", re.M)
 HEADING = re.compile(r"^#{1,6}\s+(.+?)\s*#*\s*$", re.M)
@@ -43,6 +46,81 @@ def heading_ids(text: str) -> set[str]:
         seen[key] += 1
         ids.add(key if n == 0 else f"{key}-{n}")
     return ids
+
+def audit_alias_backlinks(root: Path, aliases: tuple[str, ...],
+                          domains: tuple[str, ...], max_files: int = 1400,
+                          max_bytes: int = 450000, max_links: int = 30000,
+                          max_findings: int = 600) -> dict:
+    """Read-only exact-path scan for Markdown links pointing to candidate legacy pages.
+
+    Historical links are counted, not rewritten or treated as safe to break.
+    Checks inline Markdown links, conservative reference definitions and HTML anchor hrefs; not a browser crawl.
+    """
+    root = root.resolve()
+    targets = set()
+    for name in aliases:
+        target = (root / name).resolve()
+        if not target.is_relative_to(root) or target.suffix.lower() != ".md":
+            raise ValueError("Alias must be a repository-local Markdown path")
+        targets.add(target)
+    files = []
+    for domain in domains:
+        base = (root / domain).resolve()
+        if base.is_relative_to(root) and base.is_dir():
+            files.extend(p for p in base.rglob("*.md")
+                         if not p.is_symlink() and p.resolve().is_relative_to(root))
+    files = sorted(set(files))
+    restricted = sorted(p.relative_to(root).as_posix() for p in files
+                        if p.relative_to(root).as_posix() in RESTRICTED)
+    files = [p for p in files if p.relative_to(root).as_posix() not in RESTRICTED]
+    report = dict(files_discovered=len(files) + len(restricted), files_scanned=0,
+                  links_examined=0, matches_found=0, matches=[],
+                  by_target={}, by_domain={}, limits=[],
+                  disclaimer="Inline Markdown links, reference definitions (even unused) and HTML anchor hrefs; historical archives remain immutable.")
+    if restricted:
+        report["limits"].append("Restricted pages excluded: " + ", ".join(restricted))
+    if len(files) > max_files:
+        report["limits"].append(f"{len(files) - max_files} files over cap")
+    for path in files[:max_files]:
+        if path.stat().st_size > max_bytes:
+            report["limits"].append(f"size cap: {path.relative_to(root)}")
+            continue
+        source = path.read_text(encoding="utf-8-sig")
+        report["files_scanned"] += 1
+        candidates = [(m.start(), m.group(1).strip(), "inline") for m in LINK.finditer(source)]
+        candidates.extend((m.start(), m.group(1).strip(), "reference_definition")
+                          for m in REF_TARGET.finditer(source))
+        candidates.extend((m.start(), m.group(2).strip(), "html_href")
+                          for m in HTML_LINK.finditer(source))
+        for offset, raw, kind in sorted(candidates):
+            if report["links_examined"] >= max_links:
+                report["limits"].append("link cap")
+                break
+            report["links_examined"] += 1
+            dest = raw[1:].split(">", 1)[0] if raw.startswith("<") else raw.split(' "', 1)[0].split(" '", 1)[0]
+            parsed = urlsplit(dest)
+            if parsed.scheme or parsed.netloc or dest.startswith("//"):
+                continue
+            target = ((path.parent / unquote(parsed.path)) if parsed.path else path).resolve()
+            if target not in targets:
+                continue
+            rel = path.relative_to(root).as_posix()
+            name = target.relative_to(root).as_posix()
+            domain = rel.split("/", 1)[0]
+            report["matches_found"] += 1
+            report["by_target"][name] = report["by_target"].get(name, 0) + 1
+            report["by_domain"][domain] = report["by_domain"].get(domain, 0) + 1
+            if len(report["matches"]) < max_findings:
+                report["matches"].append(dict(file=rel, line=source.count("\n", 0, offset) + 1,
+                                              kind=kind, target=name, destination=dest,
+                                              historical=rel.startswith("research/legacy/")))
+        if report["links_examined"] >= max_links:
+            break
+    if report["matches_found"] > len(report["matches"]):
+        report["limits"].append("match sample cap")
+    report["complete_within_limits"] = not report["limits"]
+    return report
+
 
 def scan(root: Path, domains: tuple[str, ...] = ("world",), max_files: int = 200,
          max_bytes: int = 450000, max_links: int = 12000, max_findings: int = 600) -> dict:
@@ -144,7 +222,8 @@ def scan(root: Path, domains: tuple[str, ...] = ("world",), max_files: int = 200
 def main() -> None:
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument("--json", action="store_true")
-    parser.add_argument("--domain", choices=("world", "wastes", "narrative"), action="append")
+    parser.add_argument("--domain", choices=("world", "wastes", "narrative", "episodes", "project", "reports", "research"), action="append")
+    parser.add_argument("--alias-target", action="append", help="Read-only exact-path backlink audit for a repository-relative Markdown alias")
     parser.add_argument("--max-files", type=int, default=200)
     parser.add_argument("--max-bytes", type=int, default=450000)
     parser.add_argument("--max-links", type=int, default=12000)
@@ -153,6 +232,27 @@ def main() -> None:
     args = parser.parse_args()
     if min(args.max_files, args.max_bytes, args.max_links, args.max_findings) < 1 or args.sample_per_kind < 0:
         parser.error("All bounds must be positive")
+    if args.alias_target:
+        report = audit_alias_backlinks(Path(__file__).resolve().parents[1],
+                                       tuple(args.alias_target), tuple(args.domain or ("world",)),
+                                       args.max_files, args.max_bytes, args.max_links, args.max_findings)
+        if args.json:
+            print(json.dumps(report, indent=2, ensure_ascii=False))
+        else:
+            print(f"Alias audit: {report['files_scanned']}/{report['files_discovered']} files; "
+                  f"{report['links_examined']} link candidates examined; "
+                  f"{report['matches_found']} alias backlinks")
+            for target, count in sorted(report["by_target"].items()):
+                print(f"  {target}: {count}")
+            for domain, count in sorted(report["by_domain"].items()):
+                print(f"  {domain}: {count}")
+            for hit in report["matches"][:min(len(report["matches"]), args.sample_per_kind * len(args.alias_target))]:
+                print(f"  BACKLINK {hit['file']}:{hit['line']} -> {hit['target']}"
+                      + (" (historic)" if hit["historical"] else ""))
+            for limit in report["limits"]:
+                print(f"LIMIT: {limit}")
+            print("Read-only. Do not delete alias pages while preserved backlinks require them.")
+        return
     report = scan(Path(__file__).resolve().parents[1], tuple(args.domain or ("world",)),
                   args.max_files, args.max_bytes, args.max_links, args.max_findings)
     if args.json:

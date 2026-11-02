@@ -1,5 +1,7 @@
 # Henatar's magical guitar — sound weapon of the three-headed bounty hunter
 
+> **Legacy article path:** The maintained provisional subject page is now [Grape's magical guitar](grapes-magical-guitar.md), an owner-approved descriptive label that avoids choosing between **Henitar** and **Henatar** or certifying the spoken **“Axe of Gilgamar.”** This historical page remains fully accessible during the WCL-197 backlink audit; its older naming and source claims are preserved below.
+
 > **The Wastes · first directly observed in E126, with later E128 and S3E12 evidence.** The current name is descriptive, not a canon name for the item. [Henitar/Henatar Grape](../characters/henitar-grape.md) · [Stanley](../characters/stanley-billings.md) · [E126 source dossier](../../episodes/E126.md). **ASR-provisional, original audio/item card not checked.**
 
 ## E126 — Henatar's witnessed attacks and Stanley's seizure
