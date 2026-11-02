@@ -29,7 +29,7 @@ The archive owner reorganized and renamed the **six current map files** under `l
 
 **Content distinction:** This is a much broader color hex-grid map titled **The Known Wastes**, depicting numerous regions including the western wastes, the Stormlands, the Principal's Lands and the Solar Mines. It is **not** a renamed or higher-resolution copy of the compact `Beyond the Deadfingers` geography. The two smaller `Beyond the Deadfingers` variants remain distinct from it and from each other. **Owner-reviewed map orthography** includes **T'ietkalla**, **Moag Ferhain**, **the Principal / the Principal's Lands**, and **Ubere Mtaris**. Use these as *map-supported spellings*, not verified spoken words or evidence that the map reflects E001 conditions. Record `Tietkalla` and `the Principle` as longstanding editorial/source aliases rather than silently rewriting existing dossiers. The original creation/depicted-era dates and external reuse rights remain unresolved.
 
-**Full evidence and naming decisions:** [The Known Wastes map review](../reports/WASTES_KNOWN_MAP_ORTHOGRAPHY_2026-10-27.md). Source image remains under private, ignored `local/`; do not embed it into published world pages without a rights review.
+**Full evidence and naming decisions:** [The Known Wastes map review](../reports/WASTES_KNOWN_MAP_ORTHOGRAPHY_2026-10-27.md) · [canonical map-label and place crosswalk](WASTES_CARTOGRAPHIC_CROSSWALK.md). Source image remains under private, ignored `local/`; do not embed it into published world pages without a rights review.
 
 ## High-value images examined
 

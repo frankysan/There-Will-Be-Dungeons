@@ -6,7 +6,7 @@ The checkbox beside a task is its only **current** completion flag: **[x]** mean
 
 **Preserved completion history:** The full pre-compaction register, including **all 208 original WCL sections**, is retained as a [byte-identical archival snapshot](../research/legacy/WASTES_CLEANUP_TASKS_PRE_COMPACTION_2026-11-02.md) from clean `main` HEAD `8e34d1eb` (524,273 bytes; SHA-256 `acc1d797f19886d4bcee46867a9f3348d733f076106e471d86cfc311d11f04f5`). Archived checkboxes are *historical*: only this live register governs current status and next action. The archive and Git history preserve verbose source/validation notes without requiring them in every completed entry.
 
-**Current next action:** [WCL-068](#wcl-068) — reconcile the *Known Wastes v3* map-label crosswalk against approved canonical names and the original evidence; parent [WCL-018](#wcl-018) remains open. **Most recent:** [WCL-067](#wcl-067) (Solar Mines facilities). **Current inventories:** 152 world paths; 332 maintained paths in the acceptance matrix. Browser/external-bookmark checks [WCL-103](#wcl-103) remain deferred. The edition is private; no public deployment is claimed.
+**Current next action:** [WCL-206](#wcl-206) — rewrite Leaden Fingers/Stormlands as a reader-first history while keeping S3E14 storm reconnaissance separate from S3E15 preparation and later performed battle. **Most recent:** [WCL-205](#wcl-205) (Kaiser Casino chronology and separate unnamed Hell VIP venue). **Open gates:** [WCL-083](#wcl-083)–[WCL-092](#wcl-092) original audio and [WCL-103](#wcl-103) browser/bookmarks deferred. **Inventories:** 152 world paths, 332 maintained matrix paths. Edition private; no public deployment claimed.
 
 **How to maintain this register:** Give each new task a stable, never-reused WCL ID, clear completion criteria, dependencies and evidence links. Keep **open** tasks sufficiently detailed to resume safely. When an independently verified task is **completed**, reduce its entry to **one concise paragraph**: checkbox, outcome, parent and one or two useful evidence links, noting important scope limitations where needed. Do not repeat full logs, hashes, test transcripts, source quotations or batch reports here; retain detailed per-file evidence in the [world census](WASTES_WORLD_FILE_CENSUS.json), original source pages, review queue, one-time archives and Git history. Mark a task complete only when its own acceptance gate passes; parents with unfinished required children stay open. Continue using [D-082](DECISIONS.md) for dependency-safe grouped work. Keep the manifest for file dispositions and the changelog for meaningful decisions, not duplicate completion journals.
 
@@ -82,11 +82,11 @@ The checkbox beside a task is its only **current** completion flag: **[x]** mean
 
 ### WCL-017
 
-- [ ] **Complete remaining place profile rewrites.** The [census](WASTES_WORLD_FILE_CENSUS.json) has **23/23** place files structurally checked. [WCL-064](#wcl-064)–[WCL-067](#wcl-067) finished the targeted place-coverage pass; **eight** individual D-048 rewrites remain [WCL-201](#wcl-201)–[WCL-208](#wcl-208). No original-audio or browser acceptance implied.
+- [ ] **Complete remaining place profile rewrites.** The [census](WASTES_WORLD_FILE_CENSUS.json) has **23/23** place files structurally checked; [WCL-064](#wcl-064)–[WCL-067](#wcl-067) completed targeted coverage and [WCL-201](#wcl-201)–[WCL-205](#wcl-205) completed Black Mine, Dunebreaker, Dusthill, the Gray Waste route and Kaiser Casino. **Three** rewrites remain: [WCL-206](#wcl-206)–[WCL-208](#wcl-208). Original-audio/browser acceptance not implied.
 
 ### WCL-018
 
-- [ ] **Reconcile the Known Wastes map and canonical place-name crosswalk.** Preserve map-backed Khaervilon/T'ietkalla/Moag Ferhain labels and distinguish Principal City from the Principal's Lands; source pronunciation or unstated coordinates remain unresolved. **Identified subtasks:** [WCL-068](#wcl-068) · [WCL-069](#wcl-069).
+- [x] **Reconcile the Known Wastes map and canonical place-name crosswalk.** Completed [WCL-068](#wcl-068) and [WCL-069](#wcl-069): verified the private v3 source hash, linked approved names to places and differentiated mapped territory, city testimony and unused creator prep. Unverified original audio, map era, other fine labels, geography and publishing rights remain open questions, **not invented facts**. **Evidence:** [cartographic crosswalk](WASTES_CARTOGRAPHIC_CROSSWALK.md).
 
 ### WCL-019
 
@@ -146,7 +146,7 @@ The checkbox beside a task is its only **current** completion flag: **[x]** mean
 
 ### WCL-033
 
-- [ ] **Review remaining factions/creatures/history subjects for supported classifications and last-state claims.** Use WCL-013 inventory and separately addressable child tasks; do not merge races, characters and monsters without source support. **Identified subtasks:** [WCL-053](#wcl-053) · [WCL-054](#wcl-054) · [WCL-070](#wcl-070) · [WCL-071](#wcl-071) · [WCL-072](#wcl-072) · [WCL-073](#wcl-073).
+- [ ] **Review remaining factions/creatures/history subjects for supported classifications and last-state claims.** [WCL-053](#wcl-053), [WCL-054](#wcl-054) and [WCL-070](#wcl-070)–[WCL-073](#wcl-073) are individually complete. **Parent remains open** for [WCL-013](#wcl-013) census-level disposition of outstanding faction, creature and historical subjects; these six scoped checks do not establish exhaustive classifications or final inventories. Keep species, named individuals, institutions and monsters distinct, and add individually tracked children for remaining actionable findings.
 
 ### WCL-034
 
@@ -162,7 +162,7 @@ The checkbox beside a task is its only **current** completion flag: **[x]** mean
 
 ### WCL-037
 
-- [ ] **Triage and perform original-audio/handout checks for high-impact open issue keys.** Record each actual listened window, source identity and interpretation. Two ASR exports or rendered Markdown are *not* audio verification; split into individual issue tasks. **Identified subtasks:** [WCL-083](#wcl-083) · [WCL-084](#wcl-084) · [WCL-085](#wcl-085) · [WCL-086](#wcl-086) · [WCL-087](#wcl-087) · [WCL-088](#wcl-088) · [WCL-089](#wcl-089) · [WCL-090](#wcl-090) · [WCL-091](#wcl-091) · [WCL-092](#wcl-092) · [WCL-093](#wcl-093).
+- [ ] **Triage and perform original-audio/handout checks for high-impact open issue keys.** Record actual listened windows, source identities and findings for [WCL-083](#wcl-083)–[WCL-092](#wcl-092); two ASR exports or rendered Markdown **do not** prove audio fidelity. [WCL-093](#wcl-093) is **completed as a source-boundary editorial pass**, not as original-audio verification. Keep this parent open until the outstanding source reviews actually pass.
 
 ### WCL-038
 
@@ -288,29 +288,29 @@ The checkbox beside a task is its only **current** completion flag: **[x]** mean
 
 ### WCL-068
 
-- [ ] **Build Known Wastes v3 map-label crosswalk.** Record labels, regions, map edition/source and evidence limits without invented coordinates or release permissions. **Parent:** [WCL-018](#wcl-018). **Evidence:** [reference](WASTES_CAMPAIGN_CLEANUP_PLAN.md).
+- [x] **Build Known Wastes v3 map-label crosswalk.** **Parent:** [WCL-018](#wcl-018). **Result:** verified original private JPEG by size/SHA; recorded inscribed/owner-confirmed canonical labels, edition/provenance, regional inclusion, legacy aliases and unknown boundaries/rights, without invented coordinates or new map reproduction. **Evidence:** [cartographic crosswalk](WASTES_CARTOGRAPHIC_CROSSWALK.md) · [map review](../reports/WASTES_KNOWN_MAP_ORTHOGRAPHY_2026-10-27.md).
 
 ### WCL-069
 
-- [ ] **Distinguish Principal City from The Principal's Lands.** Reconcile city testimony versus map territory and S3E019 unused prep, without claiming a played city visit. **Parent:** [WCL-018](#wcl-018). **Evidence:** [reference](../episodes/S3E019.md).
+- [x] **Distinguish Principal City from the Principal's Lands.** **Parent:** [WCL-018](#wcl-018). **Result:** the Lands is directly map-labelled territory; city name follows owner-approved D-044 but is not verified printed on v3. E026/E106 claims, S3E13 aerial rifts and S3E019 *unused* city/spire/rail plans are separated, without claiming an urban visit or measured boundaries. **Evidence:** [city-versus-territory crosswalk](WASTES_CARTOGRAPHIC_CROSSWALK.md#principal-city-is-not-the-mapped-territory).
 
 ## Identified subtasks — Factions and world-resolution events
 
 ### WCL-070
 
-- [ ] **Audit the Council of Earthly Defenders as faction.** Check actual wartime council scenes, membership and already existing index/page coverage. **Parent:** [WCL-033](#wcl-033). **Evidence:** [reference](WASTES_CAMPAIGN_CLEANUP_PLAN.md).
+- [x] **Audit the Council of Earthly Defenders as a wartime coalition.** **Parent:** [WCL-033](#wcl-033). **Result:** added distinct faction index entry and source notes: S2E03 and S3E04 actual Mars councils, S3E05 deployed allies, no permanent unified government or automatic S3E18 continuity. **Evidence:** [faction directory](../world/FACTIONS_AND_POWERS.md#institutions-and-competing-powers).
 
 ### WCL-071
 
-- [ ] **Audit the Council of Faces as a faction.** Separate witnessed coercive successor process from Council's self-reported ancient-human origin. **Parent:** [WCL-033](#wcl-033). **Evidence:** [reference](../episodes/S3E18.md).
+- [x] **Audit the lunar Council of Faces.** **Parent:** [WCL-033](#wcl-033). **Result:** clarified physically forced Nash successor and destroyed lunar facility versus unverified ancient-human identity, mandate, backup copies and association with other councils. **Evidence:** [factions](../world/FACTIONS_AND_POWERS.md) · [S3E18](../episodes/S3E18.md).
 
 ### WCL-072
 
-- [ ] **Audit the Umbilical Order as faction/facility.** Distinguish finale commission to clear the facility from a completed witnessed operation. **Parent:** [WCL-033](#wcl-033). **Evidence:** [reference](../episodes/S3E18.md).
+- [x] **Audit the Umbilical Order as military faction and separate Clench facility.** **Parent:** [WCL-033](#wcl-033). **Result:** confirmed S3E06 Paladin confrontation and distinct Kuromokishi fighters; the S3E18 Clench-clearance mission remains an **unperformed commission**. **Evidence:** [factions](../world/FACTIONS_AND_POWERS.md) · [Solar Mines](../world/places/solar-mines.md).
 
 ### WCL-073
 
-- [ ] **Assess Arcanum Universalis survival and coverage.** Keep real in-story observations distinct from unused Principal City creator preparation. **Parent:** [WCL-033](#wcl-033). **Evidence:** [reference](../episodes/S3E019.md).
+- [x] **Assess Arcanum Universalis as an institution.** **Parent:** [WCL-033](#wcl-033). **Result:** new [faction entry](../world/FACTIONS_AND_POWERS.md#institutions-and-competing-powers) separates Buttons's E028 scholarly/alteration claims, the E039 reported-mage accusation, proposed E059 exchanges, and the map's fictional affiliation from **unused S3E019 speculation** that a flying citadel might have survived. No visited academy, independently verified autonomy or proven postwar citadel. Source-limited to processed dossiers; original audio unverified.
 
 ### WCL-074
 
@@ -390,7 +390,7 @@ The checkbox beside a task is its only **current** completion flag: **[x]** mean
 
 ### WCL-093
 
-- [ ] **Review S3E019 unused ideas versus played canon.** Keep cast retrospective and unused Principal City western dungeon/railway ideas clearly outside played history. **Parent:** [WCL-037](#wcl-037). **Evidence:** [reference](../episodes/S3E019.md).
+- [x] **Review S3E019 unused ideas versus played canon.** **Parent:** [WCL-037](#wcl-037). **Result:** audited the CHIDS single-sacrifice plan, unused western dungeon/Principal City rail/spire/Lactid stories, speculative Arcanum citadel, future headcanon and unresolved character outcomes against played references. Kept genuine T'ietkalla railway and Solar Mines dome events distinct; no unsupported played scene found in the targeted maintained corpus. **Evidence:** [source-boundary crosswalk](WASTES_CAMPAIGN_CLEANUP_PLAN.md#wcl-093--roundtable-versus-played-canon-2026-11-02) · [roundtable](../episodes/S3E019.md). Original audio not verified.
 
 ## Identified subtasks — Evidence maintenance, links and reader acceptance
 
@@ -824,23 +824,23 @@ The checkbox beside a task is its only **current** completion flag: **[x]** mean
 
 ### WCL-201
 
-- [ ] **Black Mine reader-first rewrite.** **Parent:** [WCL-017](#wcl-017). Preserve Oilbeard E018–E026 coercion, contested Tylander deeds, and separation from Leopold. Verify sources, links/anchors, lint and census.
+- [x] **Black Mine reader-first rewrite.** **Parent:** [WCL-017](#wcl-017). **Result:** rewrote [Black Mine](../world/places/black-mine.md) around E018–E026 arrival, forced labor, shaft failure, Tylander ritual, Soulbroker passage, dragon-flight escape and actual E026 prisoner rescue. Distinguished witnessed violence from rival deed/ownership claims, retained all three legacy headings and separated Leopold; **25/25 links and lint passed**. **Evidence:** [census](WASTES_WORLD_FILE_CENSUS.json) · [LF-normalized pre-edit text](../research/legacy/black-mine-pre-wcl201-2026-11-02.md). Original audio and deed unverified.
 
 ### WCL-202
 
-- [ ] **Dunebreaker E107–E109 historical-prequel rewrite.** **Parent:** [WCL-017](#wcl-017). Distinguish E107 uncertainty from later resolution and campaign timeline; preserve links, source windows and census.
+- [x] **Dunebreaker E107–E109 historical-prequel rewrite.** **Parent:** [WCL-017](#wcl-017). **Result:** restructured the [landship history](../world/places/dunebreaker.md) with observed geography and leadership first, then E107 unsolved engineer murder, E108 hidden-daughter confession/Lamulkin's vent sentence, and E109 unresolved investigation, secret trade and defeated gelatin ooze. Confirmed **same Wastes, long before Dusthill**, no main-party crossover; all seven historic anchors, 11/11 links and lint passed. **Evidence:** [census](WASTES_WORLD_FILE_CENSUS.json) · [original text](../research/legacy/dunebreaker-pre-wcl202-2026-11-02.md). Original audio unverified.
 
 ### WCL-203
 
-- [ ] **Dusthill chronological place rewrite.** **Parent:** [WCL-017](#wcl-017). Retain artistic/non-survey illustration caveat; do not assume uncertain water-system identity; verify links and census.
+- [x] **Dusthill chronological place rewrite.** **Parent:** [WCL-017](#wcl-017). **Result:** [place history](../world/places/dusthill.md) now distinguishes E003 intake repair, E005 machinery/raid, E006 confirmed surface water and E059 actual **partial** captive return to T'ietkalla. Moag Ferhain map/site identity remains uncertain; owner-selected artwork provenance preserved **without re-embedding**. All four historic anchors and the footnote retained; 26/26 links and lint pass. **Evidence:** [census](WASTES_WORLD_FILE_CENSUS.json) · [pre-edit text](../research/legacy/dusthill-pre-wcl203-2026-11-02.md).
 
 ### WCL-204
 
-- [ ] **Gray Waste–Styx–Pandemonium route rewrite.** **Parent:** [WCL-017](#wcl-017). Separate E112–E113 visited planes from ferryman/Council testimony, untested compass and unrecovered Eye; validate links/census.
+- [x] **Gray Waste–Styx–Pandemonium reader-first route rewrite.** **Parent:** [WCL-017](#wcl-017). **Result:** [route history](../world/places/gray-waste-and-pandemonium.md) now separates witnessed E112 Gray Waste portal, E113 Pointless/Styx crossing and Council audience from Hesterbrook's past, serpent lore and Council prison testimony. Four actual ferry fares, untested E113 compass gift, unrecovered Eye and actual Sigil return retained. All four historic anchors, **9/9 links** and lint passed. **Evidence:** [census](WASTES_WORLD_FILE_CENSUS.json) · [pre-edit original](../research/legacy/gray-waste-pandemonium-pre-wcl204-2026-11-02.md).
 
 ### WCL-205
 
-- [ ] **Kaiser Casino reader-first rewrite.** **Parent:** [WCL-017](#wcl-017). Preserve S3E13 *Dispel Magic* outcomes and unproven identity with unnamed Hell VIP venue; validate links/census.
+- [x] **Kaiser Casino reader-first rewrite.** **Parent:** [WCL-017](#wcl-017). **Result:** [place history](../world/places/kaiser-casino.md) now covers named E101–E102, E106 and E116 visits, while treating S3E12–S3E13 as an **unnamed VIP complex** of unproved identity. Kept first *Dispel Magic* revealing entrails/bats/insects, second leaving replacement meal unchanged, Brett’s disguise and Nash’s witnessed heart exchange; no fabricated pact, genuine Tarrasque meat or room 53C visit. **18/18 links**, lint and original heading anchor pass. **Evidence:** [census](WASTES_WORLD_FILE_CENSUS.json) · [original text](../research/legacy/kaiser-casino-pre-wcl205-2026-11-02.md).
 
 ### WCL-206
 

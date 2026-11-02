@@ -305,12 +305,12 @@
         "purpose": "factions_institutions_reader_index",
         "depicted_source_window": "E010–S3E15 selective historical faction snapshots, then S3E16 canyon detonations and Principal's betrayal, S3E17 Worldbreaker permanent banishment and collapse of chrome copies, S3E18 Elhandari/Ruby Earth restoration, Monsoon's voluntary daylight death, Moon Council of Faces destruction and postwar redistribution deliberations",
         "D048_structure": "observed_reader_index",
-        "outgoing_local_links_checked": 71,
+        "outgoing_local_links_checked": 94,
         "outgoing_broken_links": 0,
-        "footnote_references_rendered": 10,
-        "footnote_definitions_rendered": 10,
-        "size_bytes": 17177,
-        "sha256": "ad14e23da3b73d8f40180a781a983e7091881a238a80e70dbfbdb88f6b0d5b08",
+        "footnote_references_rendered": 13,
+        "footnote_definitions_rendered": 13,
+        "size_bytes": 24917,
+        "sha256": "04661faf7933d68d1f7ea9cbe860f64e7cf78996b758edba3fbbef112d363835",
         "incoming_links": "sampled_not_exhaustive",
         "incoming_link_examples": [
           "world/README.md",
@@ -322,13 +322,13 @@
         "full_source_claim_accuracy": "not_checked",
         "native_browser": "deferred_WCL-103",
         "open_questions": [
-          "This is a selective historical index through S3E18, not a verified final disposition for every organization. Principal copy collapse, Moon Council defeat, Worldbreaker banishment and Earth regreening are performed; incomplete faction-member/captive inventories and settlement projects remain unverified.",
+          "WCL-073 adds Arcanum as a distinct, source-attributed scholarly organization; whether campus or airborne citadel still exists after Principal City destruction remains entirely unverified, not established by an E039 accusation or S3E019 unused GM prep. Census-level final disposition of all factions/creatures/history beyond accepted WCL-053/054 and WCL-070–073 remains WCL-033/WCL-013 open.",
           "Existing S3E05–S3E09 rows and ten research-heavy footnotes are dated source snapshots. S3E16 loss estimates vary and must not be flattened to a complete lizardfolk or goblin death count. Wider D-048 and whole-corpus source/audio/native-browser acceptance remain open."
         ],
-        "source_window_note": "WCL-112: The reader index now separates institutions from dated war milestones; Oilbeard/Lactid interests, Kuromokishi, Liberators, ancient CHIDS research, later illithid actors and CHIDS hive council are individually distinguished. Lunar Council of Faces and Council of Clowns are separate recorded names without assuming an identity or total Harlequinari membership. Main Principal/Elhandari notes include source-qualified S3E18 endings; resettlement journeys are played, general rebuilding/reintegration uncompleted. All 71/71 offline links and 10/10 footnotes valid; no audio/native-browser or whole-corpus acceptance.",
+        "source_window_note": "WCL-070–072 source-bounded entries for Earthly Defenders, Council of Faces and Umbilical Order preserved. WCL-073 adds the Arcanum Universalis as a separate reported scholarly institution rather than an invented visited city/citadel: E028 Buttons says he studied there and was modified by a wizard, claiming autonomy; E039 witnessed public accusation cites Arcanum mage but accusation itself unverified; E059 educational exchanges only proposed; map's in-world Arcanum-affiliated cartographer not real-world rights credit; 2019-03 GM retrospective describes Buttons's unperformed rescue aim; S3E019 flying-citadel survival is explicit nonplayed possibility, not witnessed survival. No observed institution headquarters, confirmed charter or final operational status. Current 94/94 local links checked, 13 footnotes valid, Markdownlint zero; ASR only, original audio/browsers and exhaustive faction classification deferred.",
         "markdownlint": "passed_zero_violations",
         "markdown_render": "checked_all_local_links",
-        "last_targeted_correction": "WCL-112"
+        "last_targeted_correction": "WCL-073"
       }
     },
     {
@@ -553,8 +553,8 @@
         "outgoing_broken_links": 0,
         "footnote_references_rendered": 15,
         "footnote_definitions_rendered": 15,
-        "size_bytes": 25569,
-        "sha256": "c04b84b7109b99e66c81747b95e871adce30561167ca3f4accd9fd1caade3a14",
+        "size_bytes": 25571,
+        "sha256": "d74958df22c3568dd30fc3c0e88f3498fdcd3b0ffcee0c8762e8e9ceff50a71d",
         "incoming_links": "sampled_not_exhaustive",
         "incoming_link_examples": [
           "world/README.md",
@@ -568,12 +568,12 @@
         "markdown_image_embeds": 0,
         "html_image_embeds": 0,
         "open_questions": [
-          "WCL-067 links a source-confidence facilities guide at `world/places/solar-mines.md#distinct-facilities-and-source-confidence` from the index's existing second Solar Mines row, keeping the first general Solar Mines link and 100/100 valid local links. Postwar site status and geographical identities beyond witnessed episode cutoffs remain unresolved.",
+          "WCL-068/069 verified SHA of the private Known Wastes v3 map, retained D-044 canonical map labels and crosslinked map-vs-story source tiers. City name is not known printed in map; territory/city footprint unresolved; map creation/depicted era, artist and image publication rights remain unknown. Existing Places index has 100/100 links and 15 footnotes; browser/audio deferred.",
           "Several location entries have earlier scene-specific source cutoffs; the final events added for selected entries do not make all destinations finale-verified",
           "Routed map/arrival and destination identity ambiguities remain, including some Mars locations and S3E18 proposed rebuilding",
           "Full incoming-link graph, exact first/last source and all audio claims unverified"
         ],
-        "source_window_note": "WCL-110 places index and WCL-064 Planet Nash, WCL-065 Pentel Weiss, WCL-066 Mars profile additions maintained. WCL-067 clarifies the historical/secondary Solar Mines row as a direct in-page link to the new source-tiered facility guide while the main index entry still opens the article root and episode source windows. New anchor exists, 100/100 local links render valid and 15 footnotes preserved, zero missing/unchecked; no new index row/file or additional link beyond cap. Full browser/original audio and external bookmark tests remain outstanding."
+        "source_window_note": "WCL-110 reader-first places index, WCL-064–067 place/route pages and Solar Mines facilities remain unchanged in their factual scope. WCL-068/069 replaces one existing map-audit link in the editorial source boundary with the new, verified-source cartographic crosswalk at project/WASTES_CARTOGRAPHIC_CROSSWALK.md, which points to the prior report and distinguishes map-inscribed Principal's Lands from episode-supported Principal City and explicitly unused S3E019 prep. Maintains 100/100 rendered local links, zero broken/unchecked and 15/15 footnote references/definitions; no site locations/coordinates, map publication or original audio/browser acceptance claimed."
       }
     },
     {
@@ -4196,27 +4196,27 @@
       "in_original_2026_10_27_worklist": true,
       "review": {
         "level": "structural_and_outgoing_links_checked",
-        "cohort": "WCL-170",
-        "purpose": "bounded_current_places_source_structure_and_outgoing_link_census",
-        "source_lines_read": 21,
-        "depicted_source_window": "E018–E026",
-        "source_window_note": "Oilbeard-controlled underground extraction workings, vertical shaft, undead, Tickles death, Tylander-related claims, living hazards, Soulbroker/Château Weir portal and eventual dragon-form escape. Mine deed custody and claimant history disputed.",
-        "D048_structure": "needs_reader_first_review",
-        "outgoing_local_links_total": 12,
-        "outgoing_local_links_renderer_checked": 12,
+        "cohort": "WCL-201",
+        "purpose": "completed_reader_first_black_mine_place_history_source_bounded_E018_E026",
+        "source_lines_read": 33,
+        "depicted_source_window": "E013/E015 dispute precedes E018–E026 Black Mine played visit: E018 Oilbeard quarry/enslavement, E019 falling undead lift/Tickles, E020 death/diary/chasm, E021 Dorothy/chapel/false Catherine/captive, E022 beholder/Quizquaz gem, E023 Soulbroker/Château Weir and 3 signatures, E024 potions and audible Dorothy after door fire, E025 Nash dragon flight/Scrolly violence, E026 actual 3 captives rescued and departure in Fate 4.",
+        "source_window_note": "WCL-201 reader-first rewrite complete: updated 21-line broad source research page into 33-line place-first site history. Explicit Oilbeard claim vs firsthand forced-labor acts; Tickles survives elevator fall E019 and dies rockfall E020, unverified level 999; unidentified skeleton and Tylander diary/Pristine testimony and separately claimed Catherine, projection; actual beholder slain distinct from Quizquaz and later Soulbroker/Château Weir; E024 deed not found; E025 ascent and Scrolly's physical torture/shaft fall; E026 rescued Bok Bok, Bertrand and Trigger and departed via actually repaired Fate 4. Distinguishes E015 vanished purported deed from E024 demon account and E026 Bertrand dragon-metal theory. No site liberation, all-worker inventory, ownership or later facility fate inferred. Preserved historic three H2 link fragments, all 25/25 new local links valid, zero broken; 6 headings; lint zero. Pre-edit source was 3188 bytes SHA-256 c8e879d52885e1c687328767298e57d6adaf442302d922dcab684915b15ce9d4 with CRLF; LF-normalized, content-identical 3167-byte snapshot at research/legacy/black-mine-pre-wcl201-2026-11-02.md SHA-256 ee54a075f65b8db741275f46d1ad076cebdacc5a545b96adb2d9f358978d3e1f, verified. Snapshot not eligible for maintained Markdown lint; original audio, handouts and browser deferred.",
+        "D048_structure": "reader_first_regional_site_history_entrance_upper_workings_lower_ritual_custody_escape_current_condition",
+        "outgoing_local_links_total": 25,
+        "outgoing_local_links_renderer_checked": 25,
         "outgoing_broken_links_renderer_checked": 0,
         "outgoing_local_links_not_checked": 0,
         "footnote_references_rendered": 0,
         "footnote_definitions_rendered": 0,
         "footnote_definitions_missing": 0,
-        "headings_rendered": 4,
+        "headings_rendered": 6,
         "markdown_image_embeds": 0,
         "html_image_embeds": 0,
         "legacy_html_anchor_tags": 0,
         "markdownlint": "passed_zero_violations",
         "markdown_render": "checked_all_local_links",
-        "size_bytes": 3188,
-        "sha256": "c8e879d52885e1c687328767298e57d6adaf442302d922dcab684915b15ce9d4",
+        "size_bytes": 5492,
+        "sha256": "79ed7526935f70db2f469352de2c4180e5f399aba9df6a53e06e6bba1e8a64e3",
         "incoming_links": "literal_world_filename_scan_only_not_exhaustive",
         "incoming_link_examples": [
           "world/PLACES.md",
@@ -4229,9 +4229,9 @@
         "full_source_claim_accuracy": "not_checked",
         "native_browser": "deferred_WCL-103",
         "open_questions": [
-          "Tylander's Pristine past and mineral/deed ownership claims contested. Black Mine distinct from E008–E009 facility; offscreen slave and institutional records not objectively confirmed. Text has broad nested chronology and no separate source-footnote apparatus.",
-          "Current page read through EOF, episode dossier evidence sampled; complete source-by-source validation and original audio not independently reviewed.",
-          "World-only incoming reference sample, not repository-wide backlinks, browser presentation or editorial acceptance."
+          "Legal Black Mine ownership, authentic deed, gold/copper/dragon-metal claims, dwarf guard/mine prisoner census and final economic status are unresolved. Older E015 disappearing purported deed, E024 Soulbroker consumptive explanation and E026 Bertrand theory are not merged.",
+          "Tylander's E020 diary, chapel confession and impersonation separate from observed captives and undead; original audio, map/handout, speaker phonetics and complete tactical/loot inventories unverified.",
+          "Snapshot is text-equivalent but LF-normalized (original CRLF SHA retained separately); original Markdown section fragments retained, 25/25 outgoing links checked; native browser/exhaustive incoming links deferred."
         ]
       }
     },
@@ -4339,27 +4339,27 @@
       "in_original_2026_10_27_worklist": true,
       "review": {
         "level": "structural_and_outgoing_links_checked",
-        "cohort": "WCL-171",
-        "purpose": "source_limited_medium_places_structural_outgoing_link_and_reader_navigation_inventory",
-        "source_lines_read": 59,
-        "depicted_source_window": "E107–E109 historical side-story prequel and 2020 Q&A retrospective",
-        "source_window_note": "Dunebreaker giant articulated desert landship predates the Dusthill party. E107 arena Chicken Lord slain and murder initially unresolved; E108 older daughter identified via confession, father Lamulkin protects her and receives dangerous rat-worker sentence; E109 suspicion resumes, fruit gelatin-ooze killed by Al steam vents and Ramilda's final stamp, secret trade terms and remaining daughters unresolved.",
-        "D048_structure": "needs_reader_first_review",
-        "outgoing_local_links_total": 17,
-        "outgoing_local_links_renderer_checked": 17,
+        "cohort": "WCL-202",
+        "purpose": "reader_first_played_historical_Dunebreaker_prequel_E107_E109",
+        "source_lines_read": 45,
+        "depicted_source_window": "E107–E109 fictional historical prequel explicitly long before Dusthill departure; BONUS-2020-08 Hack appearance/mechanics and BONUS-2020-07 Dipshit commentary as retrospectively nonplayed",
+        "source_window_note": "WCL-202 2026-11-02: reader-first rewrite from 59-line chronology/source note to 45-line place-first landship history. Explicit Jon's historical prequel (same Wastes, long before original four depart Dusthill) versus release-order E106-E110; observed five-part articulated machine with head/three segments/tail vs engineer descriptions of power/resources and unverifiable merchant claims. E107 Chicken Lord recruitment and four-back-wound murder UNKNOWN at that cutoff; E108 elder daughter admits engineer stabbing, Lamulkin self-sacrificing false confession and assigned hazardous rat-worker vent duty, daughters not freed. E109 Lotho questions deception/reinvestigation ordered not performed; forbidden Dipshit fruit jelly grows in sewage; Al's Thunderwave damages plumbing, actual marauder trade terms hidden, Hack/Ramilda deck guns/Al steam/Ramilda final cherry kill, ship survives with casualties. Unresolved girls/Lamulkin/investigation/secret trade/Fleece/Strum/Hack scars/post-prequel ship whereabouts. Creator Q&As explicitly separated. All seven prior H2 fragment identifiers retained, new current-status heading. All 11/11 links valid, lint zero; source dossier research ASR only. One-time exact 12705-byte original stored as research/legacy/dunebreaker-pre-wcl202-2026-11-02.md SHA-256 df2490417921c1877bacd557714aad5b98ce05abb6f821f62ca779e9f012f6d9; audio/browser not performed.",
+        "D048_structure": "reader_first_landship_geography_authority_chronological_prequel_murder_reveal_ooze_fight_current_status_bonus_source",
+        "outgoing_local_links_total": 11,
+        "outgoing_local_links_renderer_checked": 11,
         "outgoing_broken_links_renderer_checked": 0,
         "outgoing_local_links_not_checked": 0,
         "footnote_references_rendered": 0,
         "footnote_definitions_rendered": 0,
         "footnote_definitions_missing": 0,
-        "headings_rendered": 8,
+        "headings_rendered": 9,
         "markdown_image_embeds": 0,
         "html_image_embeds": 0,
         "legacy_html_anchor_tags": 0,
         "markdownlint": "passed_zero_violations",
         "markdown_render": "checked_all_local_links",
-        "size_bytes": 12705,
-        "sha256": "df2490417921c1877bacd557714aad5b98ce05abb6f821f62ca779e9f012f6d9",
+        "size_bytes": 4951,
+        "sha256": "914572fbd8c711154cb5c57e9e87364ecb8903a3b1f5ce244eb387bf721612b6",
         "incoming_links": "literal_world_filename_scan_only_not_exhaustive",
         "incoming_link_examples": [
           "world/PLACES.md",
@@ -4371,12 +4371,12 @@
         "full_source_claim_accuracy": "not_checked",
         "native_browser": "deferred_WCL-103",
         "open_questions": [
-          "Removed false opening assertion that E108/E109 details had NOT been included; now states current profile covers E107–E109 historical prequel while distinguishing episode-specific knowledge. Replaced old primary E108 SRT link with episode-dossier link and added E109 dossier link; all 17 local links verified. E107 homicide unknown at cutoff but culprit established by E108 admissions; E109 recurring uncertainty preserved. Remaining full reader-first reorganization is separate.",
-          "Current maintained page read through EOF; available time-coded episode dossiers cross-checked selectively. Full original audio, signed contracts and comprehensive source-claim validation not checked.",
-          "Only world/ literal filename incoming references sampled; complete fragment/backlinks and native browser not verified."
+          "Later ship status, Ember's actual power/supply and secret marauder trade terms, Fleece's patron, Lamulkin's actual fate/daughters' safe departure, Lotho's planned reinvestigation and Strum's future remain unresolved, not an implied crossover with later main party.",
+          "Original 2020 Q&A statements concern creator/character mechanics rather than played new ship events; exact personal/ship spelling, original audio, contracts, engineering schematics and complete crew casualty ledger not independently checked.",
+          "All seven historic H2 fragments survived, 11/11 local links checked; complete backlinks and native-browser/manual original audio not checked."
         ],
-        "last_targeted_correction": "WCL-173",
-        "targeted_correction_validation": "scoped_markdownlint_passed_offline_renderer_all_links_valid_and_reviewed_historical_fragments"
+        "last_targeted_correction": "WCL-202",
+        "targeted_correction_validation": "markdownlint_zero_offline_renderer_11_of_11_valid_7_historical_headings_preserved_original_snapshot_sha_passed"
       }
     },
     {
@@ -4385,14 +4385,14 @@
       "in_original_2026_10_27_worklist": true,
       "review": {
         "level": "structural_and_outgoing_links_checked",
-        "cohort": "WCL-170",
-        "purpose": "bounded_current_places_source_structure_and_outgoing_link_census",
-        "source_lines_read": 27,
-        "depicted_source_window": "E001–E007 source-town crisis; E010–E011 enslaved relatives; E058 promise and E059 actual returned survivor group",
-        "source_window_note": "Dusthill founding group meets E001 amid water failure; E006 surface water actually flows after repairs, raiding casualties/captives reported and rescuers depart. In E059 named survivors physically return to T'ietkalla; neither whole hostage cohort's release nor rebuilding of Dusthill verified.",
-        "D048_structure": "needs_reader_first_review",
-        "outgoing_local_links_total": 17,
-        "outgoing_local_links_renderer_checked": 17,
+        "cohort": "WCL-203",
+        "purpose": "reader_first_Dusthill_settlement_water_raid_and_partial_return_history",
+        "source_lines_read": 31,
+        "depicted_source_window": "E001–E006 Dusthill water and raid sequence; E010–E011 enslaved contacts, E058 promise then E059 witnessed partial return to T'ietkalla; earlier historical source maps/art remain non-survey",
+        "source_window_note": "WCL-203 2026-11-02: Rewrote Dusthill into place-first history with protected red-rock settlement/cave farms, valve outlet and garage, E001 Hillmaster invitation, E002 dragon engine and Hillmaster death, E003 actual lower river-intake repair and Softhead fall without proven death, E004 Quizquaz defeat and queen collapse, E005 Peter's testimony and goblin raid, E006 directly tested surface running water and emergency figures 45 dead/25 taken as meeting-era counts, E058 Principal promise distinguished from E059 actual named survivor return to T'ietkalla not Dusthill. Mapped Moag Ferhain written spelling does not prove identity of E003–E005 underground ruin or exact coordinates. Maintained all 4 old headings/fragment IDs, original one owner-selected illustration provenance footnote verbatim, and no image embed in accordance with D-048. New article 31 lines, 26/26 rendered local links valid, 5 headings, one footnote and zero lint violations. Pre-edit tracked original 5134 bytes SHA-256 4e5f1ef88247387d3cc28c51d66dc3bd5029b255d2114e58ef724bc4caa2111f; 5107-byte LF-normalized content-identical research/legacy/dusthill-pre-wcl203-2026-11-02.md SHA-256 0963d09f523d8ee5df34b72310e8b7ef391840157157e668c1ad74192356a8b4 verified. Original audio and map rights not inspected.",
+        "D048_structure": "reader_first_concealed_settlement_water_underground_expedition_goblin_raid_governance_partial_E059_return_and_current_uncertainty",
+        "outgoing_local_links_total": 26,
+        "outgoing_local_links_renderer_checked": 26,
         "outgoing_broken_links_renderer_checked": 0,
         "outgoing_local_links_not_checked": 0,
         "footnote_references_rendered": 1,
@@ -4404,8 +4404,8 @@
         "legacy_html_anchor_tags": 0,
         "markdownlint": "passed_zero_violations",
         "markdown_render": "checked_all_local_links",
-        "size_bytes": 5134,
-        "sha256": "4e5f1ef88247387d3cc28c51d66dc3bd5029b255d2114e58ef724bc4caa2111f",
+        "size_bytes": 7218,
+        "sha256": "3c4dc92bc3bdc6d08ba72715d3a0c0eb51fb4eca4aaf886128ba1dcc3eb5ff53",
         "incoming_links": "literal_world_filename_scan_only_not_exhaustive",
         "incoming_link_examples": [
           "world/PLACES.md",
@@ -4417,12 +4417,12 @@
         "full_source_claim_accuracy": "not_checked",
         "native_browser": "deferred_WCL-103",
         "open_questions": [
-          "The owner-selected opening-state illustration is now explicitly described in the Setting paragraph as a non-survey artistic reconstruction, with [^illustration] linked to the complete existing provenance note: 1 rendered footnote reference and 1 definition. Exact original water-system site identification and broader D-048 chronological prose improvements remain separate.",
-          "Current page read through EOF, episode dossier evidence sampled; complete source-by-source validation and original audio not independently reviewed.",
-          "World-only incoming reference sample, not repository-wide backlinks, browser presentation or editorial acceptance."
+          "Dusthill surface outlet actually tested E006 but long-term water security not proven; some named abductees return E059 to T'ietkalla, no full captive census or documented Dusthill rebuilding/repatriation.",
+          "Moag Ferhain canonical map spelling may name surface mountain region, not proven identical to specific E003–E005 underground ruins; Peter's engine-blood/leadership history and later raid motives remain attributed testimony; private hand-drawn settlement/cave map and opening-state art are not accurate surveys or publisher rights evidence.",
+          "Original audio and contemporary map provenance not independently checked; one image-production provenance footnote retained without re-embedding picture, four historic anchors stable and all 26 local links verified; exhaustive incoming links/native browser deferred."
         ],
-        "last_targeted_correction": "WCL-172",
-        "targeted_correction_validation": "scoped_markdownlint_zero_violations_and_offline_renderer_all_links_valid"
+        "last_targeted_correction": "WCL-203",
+        "targeted_correction_validation": "markdownlint_passed_offline_26_of_26_local_links_4_legacy_heading_anchors_and_1_footnote_preserved_preedit_archived"
       }
     },
     {
@@ -4477,14 +4477,14 @@
       "in_original_2026_10_27_worklist": true,
       "review": {
         "level": "structural_and_outgoing_links_checked",
-        "cohort": "WCL-170",
-        "purpose": "bounded_current_places_source_structure_and_outgoing_link_census",
-        "source_lines_read": 27,
-        "depicted_source_window": "E112–E113 Hope's separate Gray Waste, Pointless, River Styx, Pandemonium journey",
-        "source_window_note": "Hope and three companions enter Gray Waste via Sigil E112, physically reach Pointless E113, pay Hesterbrook's four personal fares, confront serpent, reach Council of Clowns in Pandemonium, receive a compass and report about Eye of Voice, and return through Hope's Gate to Sigil.",
-        "D048_structure": "needs_reader_first_review",
-        "outgoing_local_links_total": 7,
-        "outgoing_local_links_renderer_checked": 7,
+        "cohort": "WCL-204",
+        "purpose": "reader_first_actual_E112_E113_Gray_Waste_Styx_Pandemonium_route_and_reported_Eye_search",
+        "source_lines_read": 36,
+        "depicted_source_window": "E112 House of Delights performed carrot-and-whip portal to Gray Waste; E113 Pointless and responsive Headsy, Hesterbrook's four paid ferry fares, real Styx crossing and claimed leviathan/ancient pact lore, Pandemonium Council audience, claimed Pentel Weiss/phlogiston location, actual untested keyed compass handoff, and Hope's real Gate return to Sigil",
+        "source_window_note": "WCL-204 (2026-11-02): restructured into reader-first itinerary with actual E112 Sigil portal and Gray Waste arrival; E113 Pointless ten huts and still-responsive decapitated Headsy who remains at dock; Hope/Fox, Steerious/greatsword, Blood Skunk/little-toe, Dr Spider/lab coat all actually surrender ferry fares, not returned at cutoff; Hesterbrook former prince/pact and serpent's former master are interested testimony while non-attack and completed voyage are witnessed. Actually traveled to Pandemonium, mine cart, Dario immediate audience and Bobo Council petition, observed compass handoff; Pentel Weiss, nebula and Eye-location account are Council claims, compass not tested by E113, Eye not acquired, Lady not deposed. Real return through Hope's copper Gate ring to Tobacho's Sigil bar. Distinguished Moon Council of Faces and the Eye of Groxl; later prison arrival referenced without backdating. All four original H2 fragment anchors retained; 9/9 links valid, 5 headings, no footnotes/embedded images, lint zero. Original exact 4918 bytes SHA256 c6bdcae10255299c404c60749fa11a876a547b31541c6749166a291e1d207694 archived at research/legacy/gray-waste-pandemonium-pre-wcl204-2026-11-02.md with verified hash. Original audio and native browser deferred.",
+        "D048_structure": "reader_first_planar_itinerary_portal_gray_waste_Styx_actual_fares_Pandemonium_hearing_and_reported_Eye_lead_return",
+        "outgoing_local_links_total": 9,
+        "outgoing_local_links_renderer_checked": 9,
         "outgoing_broken_links_renderer_checked": 0,
         "outgoing_local_links_not_checked": 0,
         "footnote_references_rendered": 0,
@@ -4496,8 +4496,8 @@
         "legacy_html_anchor_tags": 0,
         "markdownlint": "passed_zero_violations",
         "markdown_render": "checked_all_local_links",
-        "size_bytes": 4918,
-        "sha256": "c6bdcae10255299c404c60749fa11a876a547b31541c6749166a291e1d207694",
+        "size_bytes": 5419,
+        "sha256": "c65324ab51e370fb6af4bf939db374db40f5c4f1d6e51e4751eb8afb87b4d0b2",
         "incoming_links": "literal_world_filename_scan_only_not_exhaustive",
         "incoming_link_examples": [
           "world/PLACES.md",
@@ -4508,10 +4508,12 @@
         "full_source_claim_accuracy": "not_checked",
         "native_browser": "deferred_WCL-103",
         "open_questions": [
-          "Headsy remains responsive after separation; ferryman former-prince claim and Council prison lore are testimony, compass untested and Eye not recovered. Different planes combined in one route page; E113 source names uncertain and original audio unchecked.",
-          "Current page read through EOF, episode dossier evidence sampled; complete source-by-source validation and original audio not independently reviewed.",
-          "World-only incoming reference sample, not repository-wide backlinks, browser presentation or editorial acceptance."
-        ]
+          "Hesterbrook's life as prince, old ferryman pact, leviathan's claimed absent master and Council of Clowns' prison history/coordinates are testimony, not externally authenticated. Pending original audio, proper name spelling and exact Council/Harlequinari affiliations.",
+          "Hope physically received the jack-in-the-box compass in E113 but had not used it to verify location at that cutoff; Eye of the Voice was not retrieved and Tobacho compact remained unfulfilled. Later prison visit is separate.",
+          "All four historic headings retained and all 9 local links checked; archive exact pre-edit bytes verified; complete incoming/backlinks and native browser not performed."
+        ],
+        "last_targeted_correction": "WCL-204",
+        "targeted_correction_validation": "markdownlint_zero_offline_9_of_9_local_links_historic_4_anchors_preserved_archive_sha_passed"
       }
     },
     {
@@ -4520,27 +4522,27 @@
       "in_original_2026_10_27_worklist": true,
       "review": {
         "level": "structural_and_outgoing_links_checked",
-        "cohort": "WCL-170",
-        "purpose": "bounded_current_places_source_structure_and_outgoing_link_census",
-        "source_lines_read": 13,
-        "depicted_source_window": "E101–E102, E106; S3E12–S3E13 later infernal casino",
-        "source_window_note": "Hope enters named Kaiser Casino through infernal portal after E101 separation; meets Brett/Asmodeus and allies E102, later cooperates with Principal E106. S3E12–S3E13 four heroes visit Brett/Asmodeus's Hell casino; same venue as named Kaiser Casino not independently stated.",
-        "D048_structure": "needs_reader_first_review",
-        "outgoing_local_links_total": 11,
-        "outgoing_local_links_renderer_checked": 11,
+        "cohort": "WCL-205",
+        "purpose": "reader_first_Kaiser_Casino_E101_E116_distinct_later_unnamed_Hell_VIP_S3E12_S3E13",
+        "source_lines_read": 35,
+        "depicted_source_window": "E101–E102 Hope first named casino visits and unsigned Brett offer, E106 actual later Kaiser visit and Principal images, E116 actual rail passage to Kaiser and sword return, S3E12–S3E13 separate unnamed Hell VIP venue with first transformed/replaced meal and actual Nash heart replacement",
+        "source_window_note": "WCL-205 2026-11-02 reader-first rewrite: named Kaiser Casino E101 Hope/Spatulo admitted and refused formal Brett pact; E102 Brett gives stronger travel ring and three new assistants; E106 named return with actual two refugee arrivals/uncertain ultimate fate, witnessed Principal/Vladimir visit and interested historical projections; E116 actual infernal train to named Kaiser and Brett's physical return of Steerious greatsword without confirmed provenance. S3E12 reunited original four sent to unnamed Hell VIP complex after Soulbroker defeat, Brett receives stolen Hand of Voice and assistant holds, Principal vanished from view not proven dead, proposed heart deal unsigned. S3E13 note Room 53C 8 PM received not visited, Sinatra show not attended; Stanley actually casts first Dispel Magic on apparent Tarrasque steak exposing humanoid entrails, bats and insects, second spell leaves replacement meal unchanged without biological confirmation of Tarrasque origin; Brett reveals bartender disguise, removes Nash metal dragon heart with Nash nonresistance, creates functional replacement from his own flesh and snaps all four back to Earth without new pact or charged ring. No direct GM identity link between early named Kaiser and later VIP. Source limited to processed ASR; no independent audio/floorplan. New 35-line article, 6 headings and 18/18 local links valid, lint zero. Exact 2911-byte original archived research/legacy/kaiser-casino-pre-wcl205-2026-11-02.md and SHA-256 93589794907401fa0260433a9c3ab74ff958154c3f222ef27a221050b6f7332c verified.",
+        "D048_structure": "reader_first_infernal_named_casino_E101_E102_E106_E116_and_separate_unnamed_VIP_S3E12_E13_with_witnessed_heart_transfer_and_open_venue_identity",
+        "outgoing_local_links_total": 18,
+        "outgoing_local_links_renderer_checked": 18,
         "outgoing_broken_links_renderer_checked": 0,
         "outgoing_local_links_not_checked": 0,
         "footnote_references_rendered": 0,
         "footnote_definitions_rendered": 0,
         "footnote_definitions_missing": 0,
-        "headings_rendered": 1,
+        "headings_rendered": 6,
         "markdown_image_embeds": 0,
         "html_image_embeds": 0,
         "legacy_html_anchor_tags": 0,
         "markdownlint": "passed_zero_violations",
         "markdown_render": "checked_all_local_links",
-        "size_bytes": 2911,
-        "sha256": "93589794907401fa0260433a9c3ab74ff958154c3f222ef27a221050b6f7332c",
+        "size_bytes": 6308,
+        "sha256": "144a8f4ac9ea00ea57e87a1b0bede43300b827ed646ed1cfd7b0aa901f504d5e",
         "incoming_links": "literal_world_filename_scan_only_not_exhaustive",
         "incoming_link_examples": [
           "world/PLACES.md",
@@ -4551,12 +4553,12 @@
         "full_source_claim_accuracy": "not_checked",
         "native_browser": "deferred_WCL-103",
         "open_questions": [
-          "S3E13 malformed Dispel Magic markup corrected against both E13 episode dossier and exact P/Q comparison: first cast reveals humanoid remains/bats/insects; second cast leaves replacement meal unchanged, not independently proving Tarrasque meat. Named Kaiser Casino and later unnamed VIP complex not definitively identified as one venue; reader-first cleanup of this long all-caps paragraph remains pending.",
-          "Current page read through EOF, episode dossier evidence sampled; complete source-by-source validation and original audio not independently reviewed.",
-          "World-only incoming reference sample, not repository-wide backlinks, browser presentation or editorial acceptance."
+          "Kaiser Casino E101/E102/E106/E116 is physically named in played scenes, whereas S3E12/S3E13 Hell VIP complex identity remains unconfirmed despite common Brett/Asmodeus host; not silently treated as same address, floorplan or institution.",
+          "S3E13 first Dispel Magic reveals disguised remains, second replacement steak does not transform; no evidence of genuine Tarrasque carcass. Brett keeps removed metal dragon heart, Nash receives flesh heart, returned to Earth without signed new pact; ultimate consequences unknown.",
+          "E116 sword recovery from Styx ferryman remains unexplained. E106 two tiefling refugees' later fate unknown. Host self-presentation and illusions remain interested claims; original audio/browser and full inbound fragment scan not checked."
         ],
-        "last_targeted_correction": "WCL-172",
-        "targeted_correction_validation": "scoped_markdownlint_zero_violations_and_offline_renderer_all_links_valid"
+        "last_targeted_correction": "WCL-205",
+        "targeted_correction_validation": "markdownlint_zero_offline_18_of_18_local_links_existing_H1_fragment_preserved_archive_sha_passed"
       }
     },
     {
