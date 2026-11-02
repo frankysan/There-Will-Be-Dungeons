@@ -21,19 +21,19 @@ This is **per-file disposition accounting, not a new fact-review pass**. `A` acc
 
 | Scope | Files | Inventory basis |
 | --- | ---: | --- |
-| Current `world/` reference paths | 148 | [148-file live census](WASTES_WORLD_FILE_CENSUS.json) |
+| Current `world/` reference paths | 149 | [149-file live census](WASTES_WORLD_FILE_CENSUS.json) |
 | `narrative/` current, historic and index routes | 20 | Current directory listing |
 | `README.md` and `wastes/README.md` | 2 | Maintained story portals |
 | Wastes `episodes/` dossiers | 161 | `E000`–`E128`, `E013.5`, `S2E01`–`S2E12`, `S3E01`–`S3E18`, and nonplayed `S3E019` |
-| **Total distinct maintained paths** | **331** | Enumerated below |
+| **Total distinct maintained paths** | **332** | Enumerated below |
 
-**Disposition totals:** 11 bounded `A` / 150 `P` / 170 `E`. The world census records **138 fully structural/renderer-checked Markdown**, **7 renderer-capped**, **1 renderer-blocked**, **1 lint-blocked**, **1 technical JSON**. These categories are verification coverage, not content acceptance.
+**Disposition totals:** 11 bounded `A` / 151 `P` / 170 `E`. The world census records **139 fully structural/renderer-checked Markdown**, **7 renderer-capped**, **1 renderer-blocked**, **1 lint-blocked**, **1 technical JSON**. These categories are verification coverage, not content acceptance.
 
 **Out of scope:** Cross-campaign Delvers/Inverse pages; `episodes/STAR-TREK-S1E001.md`; generic `BONUS-*` episodes pending individual Wastes-source relevance classification; generated/transcript `sources/`, `local/`, maintenance scripts, protected original archives, research reports, source/illustration binaries, and project-control records. Relevant bonus evidence may still be cited by in-scope pages. Wastes-related one-off/prequel episode dossiers are included. This is an *editorial Wastes reading/reference* inventory, not an exhaustive repository file census.
 
-## World/reference paths (148)
+## World/reference paths (149)
 
-The two WCL-195 canonical primary additions currently coexist with temporary old-path compatibility copies; these aliases are slated for WCL-197 post-rename removal after full backlink audit.
+Three WCL-195 canonical primary additions currently coexist with temporary old-path compatibility copies: the Principal, Khaervilon and the Soulbroker. These legacy routes retain their full source text and are slated for WCL-197 post-rename review, with any redundant aliases removed only after full backlink audit.
 
 This table **reuses**, rather than silently upgrades, [the detailed world census](WASTES_WORLD_FILE_CENSUS.json). Its individual records retain hashes, episode cutoffs, all open questions, source qualifications, examples of incoming links, footnote counts and link-validation details. `Renderer` means the offline preview's local-link scan (maximum **100 per page**); static file/fragment checks are separate from clickable native GitHub validation. The following source-window summaries are **not** proof that all cited material was independently checked.
 
@@ -87,7 +87,8 @@ This table **reuses**, rather than silently upgrades, [the detailed world census
 | `world/characters/orp.md` | P-S | Structural audit recorded; detailed links in census | E014 Slavetown; E059–E063 Razak Val Great Fang fight and aftermath |
 | `world/characters/p0d.md` | P-S | Renderer 13 links; scoped lint recorded | Original played E031–E056 plus Year One Q&A; no later active living return |
 | `world/characters/quizquaz.md` | P-S | Structural audit recorded; detailed links in census | E004 Dream Drinker conflict; E022–E023 distinct Soulbroker introduction; E056–E058 proposals; E081 Drive; S3E11 separate later manifested throne-room appearance |
-| `world/characters/soulbroker.md` | P-S | Structural audit recorded; detailed links in census | E022–E024 original three signatories, E048/E054 claims, E081 proposal, E122–E128 revived claims, S2E01 exorcism, S3E11–S3E12 death, later S3E17–S3E18 context |
+| `world/characters/soulbroker.md` | P-T | Temporary legacy route with full preserved article; renderer 25/25 links valid | E022–E024 original three signatories, E048/E054 claims, E081 proposal, E122–E128 revived claims, S2E01 exorcism, S3E11–S3E12 death, later S3E17–S3E18 context |
+| `world/characters/the-soulbroker.md` | P-S | Canonical title-aligned primary; original article byte-exact; renderer 24/24 links and lint passed | E022–S3E18 with S3E12 death and later planetary aftermath distinct; disputed personal-name spellings remain unresolved |
 | `world/characters/sprout.md` | P-S | Structural audit recorded; detailed links in census | See detailed world census |
 | `world/characters/squirts.md` | P-S | Renderer 49 links; scoped lint recorded | E082–E115, separate Hell reappearance E125, S3E01–S3E02 second death and postdeath graft; campaign ending does not show third revival |
 | `world/characters/stanley-billings.md` | P-S | Renderer 100/243 local links; static targets checked | E000–E128, S2E01–S2E12 and S3E01–S3E18 played, plus separate S3E019 cast recap and out-of-game retrospective |

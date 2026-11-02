@@ -14,7 +14,7 @@ The companions do not share one outlook. Stanley's interest in a more orderly so
 
 ### Arc Two — Chains and Bargains
 
-The journey through Slavetown and the Black Mine confronts Stanley with societies in which authority and exploitation coexist. He continues to seek ways of making power useful, a conviction that helps explain his willingness to accept the [Soulbroker's](soulbroker.md) offer. With Hope and Nash, he agrees to kill the Principal within the compact's allotted time, receiving power and information under threat of losing his soul. Vorel refuses.
+The journey through Slavetown and the Black Mine confronts Stanley with societies in which authority and exploitation coexist. He continues to seek ways of making power useful, a conviction that helps explain his willingness to accept the [Soulbroker's](the-soulbroker.md) offer. With Hope and Nash, he agrees to kill the Principal within the compact's allotted time, receiving power and information under threat of losing his soul. Vorel refuses.
 
 The bargain makes Stanley's pursuit of reform inseparable from an obligation imposed by another powerful being. Cooperation with an institution has become something more binding than a practical alliance. The Soulbroker's account of his purposes is still the account of an interested party, however persuasive his hospitality and promises.
 

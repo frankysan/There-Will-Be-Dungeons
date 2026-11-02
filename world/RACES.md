@@ -6,10 +6,10 @@ Beyond the companions and the rulers they encounter are communities with their o
 
 | People | Where their stories lead |
 | --- | --- |
-| [Lizardfolk](races/lizardfolk.md) | Hunters and priestesses of the Golden Land; the clans, rivalries and Great Fang of Razak Val; survivors seeking a future after the war. |
-| [Tieflings](races/tieflings.md) | The old kingdom of T'ietkalla, Hope's contested coronation and reforms, the Harbor's refugees and the uncertain rebuilding of their city. |
+| [Lizardfolk](races/lizardfolk.md) | The CHIDS-engineered Wastes lineage and competing stories of older lizardfolk origins; Golden Land hunters, the Great Fang of Razak Val, and survivors seeking a future after the war. |
+| [Tieflings](races/tieflings.md) | The buried T'ietkallan kingdom and Nobieri's disputed Akmenos ancestry account; Hope's coronation, displaced Harbor community and the uncertain rebuilding of their city. |
 | [Harlequinari](races/harlequinari.md) | Blood Skunk's estrangement, the comic cruelty of the Council of Clowns and a wider, only partly known Harlequinari world. |
-| [Elves](races/elves.md) | The Elhandari's forest sanctuary and refuge for others, the fall of Elhandar, and the communities that survive on Mars, Earth and in the Feywild. |
+| [Elves](races/elves.md) | The Elhandari elder's account of a pre-Scorching mission, their preserved forest sanctuary, the fall of Elhandar and scattered communities on Mars, Earth and in the Feywild. |
 | [Dwarves](races/dwarves.md) | Ancient underground halls, the Oilbeard-controlled Black Mine, and Burp's declining mithril town, alongside distinct craftsmen and ship crews. |
 | [Orcs](races/orcs.md) | Differing loyalties among the Principal's Koromukishi martial order, Liberator dissidents, mercenary crews and former enemies offered a future with Vorel. |
 | [Illithids](races/illithids.md) | CHIDS invaders, a headset-mediated office and Fax's independent Sigil life; disputed Void Realm claims do not define every mind flayer. |

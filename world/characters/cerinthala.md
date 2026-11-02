@@ -1,4 +1,4 @@
-# Cerinthala / Saranthala — withered elf in the data center
+# Cerinthala — withered elf in the data center
 
 ## Introduction
 

@@ -1,5 +1,7 @@
 # The Soulbroker
 
+> **Maintained canonical page:** [The Soulbroker](the-soulbroker.md). This old `soulbroker.md` route temporarily preserves the full article and its historical headings for compatibility while links are migrated under WCL-195/WCL-197.
+
 <a id="the-soulbroker--catoblepraithe-"></a>
 
 Beyond the familiar world, the goat-headed lord who called himself the Soulbroker presided over the strange court of Château Weir. He offered sanctuary, knowledge and power, but made every gift part of a bargain. He spoke of souls as possessions and portrayed the Principal as the enemy standing between the Weir and Earth. His titles and offers were plainly heard; the distant history and moral necessity he claimed for them were far less certain.[^arrival]

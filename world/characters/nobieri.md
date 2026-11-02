@@ -1,4 +1,4 @@
-# Nobieri / Nobiery (?) — the Dead Tongue
+# Nobieri — the Dead Tongue
 
 ## Introduction
 
@@ -50,4 +50,4 @@ During [S3E05](../../episodes/S3E05.md) ~01:19:20–01:19:40 **Nobieri physicall
 
 **Identity:** Elder tiefling scholar and political intermediary. His name is transcribed as `Nobiery`, `Nobieri`, and sometimes `Riddle Nobieri`; the exact spelling and some titles await listening/written-source review. **Spoilers:** Through S3E05. **Evidence:** Processed ASR, not independent audio verification.
 
-**Relationships:** [Hope](hope-akmenos.md), [Tietkalla](../places/tietkalla.md), [the Harbor](../places/the-harbor.md), [Soulbroker](soulbroker.md). **Open:** name spelling, genealogy, ritual claims, the precise scale of the historic army, future governance. [Ledger](../CONSISTENCY_LEDGER.md).
+**Relationships:** [Hope](hope-akmenos.md), [Tietkalla](../places/tietkalla.md), [the Harbor](../places/the-harbor.md), [Soulbroker](the-soulbroker.md). **Open:** name spelling, genealogy, ritual claims, the precise scale of the historic army, future governance. [Ledger](../CONSISTENCY_LEDGER.md).

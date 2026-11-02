@@ -1,4 +1,4 @@
-# Follow/Follo, Sira/Sera and Rorf — a persecuted traveling group
+# Follow, Sira and Rorf — a persecuted traveling group
 
 > **Working spellings:** `Follow`/`Follo` (ASR); `Sira`/`Sera`/`Sierra`; `Rorf`/`Worf`/`Rolf` (ASR). No creator-written character sheet or audio verification yet. First presence: [E063](../../episodes/E063.md). **Spoilers through E081.** Three individuals, not interchangeable identities or confirmed biological relatives.
 

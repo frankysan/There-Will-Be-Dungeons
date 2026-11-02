@@ -12,7 +12,7 @@ The dragon had returned to the forest, it said, to die and nourish the land. At 
 
 ## The last account
 
-Before dying, the dragon offered a history of ancient human arrivals, a bargain with the [Soulbroker](soulbroker.md), the encroachment of the Weir and dragonflights that failed to save Earth. It described the Principal as a servant or pawn of that struggle and believed the Weir had damaged time, while admitting that it did not know the cause of Nash's particular alternate selves. Its tale was valuable testimony from a self-described survivor, not a witnessed account of those ancient events.[^dragon-history]
+Before dying, the dragon offered a history of ancient human arrivals, a bargain with the [Soulbroker](the-soulbroker.md), the encroachment of the Weir and dragonflights that failed to save Earth. It described the Principal as a servant or pawn of that struggle and believed the Weir had damaged time, while admitting that it did not know the cause of Nash's particular alternate selves. Its tale was valuable testimony from a self-described survivor, not a witnessed account of those ancient events.[^dragon-history]
 
 It also described experiments by the Dragon Sons and alleged that Nash had been constructed from many human donors for the Principal's ambitions. Finally, it asked the companions to bring **its own heart** to Elhandar's elves, who might fashion a strange triangulated device capable, if melted at Earth's hottest point, of sealing the corruption. Neither the genealogy nor the proposed device's effectiveness had been proved, and no such device was built during this meeting.[^dragon-legacy]
 

@@ -14,7 +14,7 @@ That early distinction matters to Vorel's growing stature. Being addressed as a 
 
 ### Arc Two — Chains and Bargains
 
-Slavery and manipulation in [Slavetown](../places/slavetown.md) and the Black Mine place Vorel's independence under pressure. He is capable of violent and disruptive schemes, and his later code of decency cannot make every earlier choice harmless. Yet he draws a clear boundary when the [Soulbroker](soulbroker.md) offers power in exchange for a soul-bound obligation. Hope, Nash and Stanley sign; Vorel refuses, declaring that he wants strength without corruption and will rely on his own abilities.
+Slavery and manipulation in [Slavetown](../places/slavetown.md) and the Black Mine place Vorel's independence under pressure. He is capable of violent and disruptive schemes, and his later code of decency cannot make every earlier choice harmless. Yet he draws a clear boundary when the [Soulbroker](the-soulbroker.md) offers power in exchange for a soul-bound obligation. Hope, Nash and Stanley sign; Vorel refuses, declaring that he wants strength without corruption and will rely on his own abilities.
 
 His refusal does not end his friendship with the signatories. He remains beside them while withholding the consent that would bind him to their bargain. His emerging Pillars of Decency express a related ambition: honest speech, fair dealing and kinship should provide a basis for living together. They are principles he proposes, rather than a guarantee that he will always act justly. Hunting with Bok Bok and sharing provisions show the practical side of that outlook alongside his appetite for impressive deeds.[^vorel-arc02]
 

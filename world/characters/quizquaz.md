@@ -6,7 +6,7 @@ Quizquaz was an oil-dark, winged supernatural figure whose dealings with the tra
 
 ## Servant of the Soulbroker
 
-Quizquaz later appeared again in the Black Mine ritual chamber, still separate from the great beholder concealed beneath the stage. After the beholder's defeat, he took a dark gem from its remains and opened a passage for a much larger, goat-like power. That visitor called himself the **[Soulbroker](soulbroker.md)**, and Quizquaz acted as his subordinate, arranging hospitality for the travelers. Quizquaz's return showed that his earlier defeat had not ended his appearances, but it did not reveal how he survived or whether any resurrection had occurred.[^quiz-mine]
+Quizquaz later appeared again in the Black Mine ritual chamber, still separate from the great beholder concealed beneath the stage. After the beholder's defeat, he took a dark gem from its remains and opened a passage for a much larger, goat-like power. That visitor called himself the **[Soulbroker](the-soulbroker.md)**, and Quizquaz acted as his subordinate, arranging hospitality for the travelers. Quizquaz's return showed that his earlier defeat had not ended his appearances, but it did not reveal how he survived or whether any resurrection had occurred.[^quiz-mine]
 
 His service to the Soulbroker drew him into the companions' long struggle over bargains and souls. When the party faced a devastating stonefall, Quizquaz approached Hope with claims about supernatural legal disputes, a dragon's supposed fall and a proposed exchange involving Melgor and fifty tiefling souls. Hope declined his offer. The falling stones and strange crater were real; his explanation of their origin was still testimony.[^quiz-stonefall]
 

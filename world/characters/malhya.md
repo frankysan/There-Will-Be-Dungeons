@@ -1,4 +1,4 @@
-# Malhya / Malhaya — the Fishbird
+# Malhya — the Fishbird
 
 ## Introduction
 

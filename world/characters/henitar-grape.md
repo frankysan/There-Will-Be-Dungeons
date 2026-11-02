@@ -1,4 +1,4 @@
-# Henitar / Henatar Grape (?) — mercenary fleet commander
+# Henitar Grape — mercenary fleet commander
 
 > **The Wastes · first observed E125 ~00:33–01:03.** Personal name and army title are **ASR-provisional**, not audio-verified. [E125 dossier](../../episodes/E125.md) · [comparison](../../reports/E125_ASR_COMPARISON_2026-10-24.md).
 

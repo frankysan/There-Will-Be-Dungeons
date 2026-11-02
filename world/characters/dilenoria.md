@@ -1,4 +1,4 @@
-# Dilenoria / Dylanoria (?) — “Dilo”
+# Dilenoria — “Dilo,” Stanley's prospective apprentice
 
 ## Introduction
 

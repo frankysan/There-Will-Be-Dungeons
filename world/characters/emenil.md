@@ -1,4 +1,4 @@
-# Emenil / Eminel — Tidebearer priestess
+# Emenil — Tidebearer priestess
 
 **Name:** `Emenil/Eminel` is provisional ASR; final spelling not listened or author-confirmed. **Status:** **Directly alive through E124; in played S3E08 at Solar Mines ACTUALLY physically crushed alongside Union Wheel by gigantic lizardfolk (99 damage, visible body remains), no resurrection observed**; E115 survival report remains an earlier cutoff. **Scope:** played E055–E059, E103, E117, E123 and E124, with E115 report kept distinct.
 

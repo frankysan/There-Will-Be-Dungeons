@@ -1,4 +1,4 @@
-# Brett / Brent — infernal host called Asmodeus
+# Brett (Asmodeus) — infernal casino host
 
 ## Introduction
 
@@ -26,7 +26,7 @@ Near the end of **S3E17**, after the Worldbreaker threat was banished and the Pr
 
 **Brett was last unequivocally seen taking Nash's dragon-metal heart and returning the four companions to Earth in S3E13.** The S3E17 soul-collector resembled him strongly and collected the defeated Principal's soul-energy before leaving, but remains an identity-qualified appearance. The Voice's Hand was last seen in Brett's assistant's pouch, its separate Eye remained missing, and no new four-hero pact or completed planetary restoration was demonstrated.[^brett-status]
 
-[^brett-identity]: [E101](../../episodes/E101.md) introduces the figure calling himself Asmodeus and inviting Hope to use the name Brett; [S3E12](../../episodes/S3E12.md) has the Principal directly address him as Asmodeus. Brett/Brent/Brant are processed-ASR variants. He is distinct from the Weir [Soulbroker](soulbroker.md), the Principal and the unidentified hooded Voice. No original audio independently checked.
+[^brett-identity]: [E101](../../episodes/E101.md) introduces the figure calling himself Asmodeus and inviting Hope to use the name Brett; [S3E12](../../episodes/S3E12.md) has the Principal directly address him as Asmodeus. Brett/Brent/Brant are processed-ASR variants. He is distinct from the Weir [Soulbroker](the-soulbroker.md), the Principal and the unidentified hooded Voice. No original audio independently checked.
 [^brett-hope]: [E101](../../episodes/E101.md), [E102](../../episodes/E102.md) and the [Hollow Ring](../technology/hollow-ring.md) record. The ring's complete potential powers and costs are not established by this first demonstration.
 [^brett-company]: [E102](../../episodes/E102.md); see the [June 2020 bonus](../../episodes/BONUS-2020-06.md) for retrospective character-name origins rather than new in-story episodes. The Hell patron's claims about Pumpo are not proof of later deliveries or rescues.
 [^brett-hand]: [S3E12](../../episodes/S3E12.md) and [S3E12 comparison](../../reports/WASTES_S3E12_ASR_COMPARISON_2026-10-27.md). The Principal had severed and carried the Hand from Hope in [S3E02](../../episodes/S3E02.md). The Hand is not the loose [Zorander's Fist](../ITEMS_AND_ARTIFACTS.md) or Groxl's Eye; the assistant's subsequent position is untracked.

@@ -1,4 +1,4 @@
-# The hooded Voice — Hope's patron (identity unresolved)
+# The Voice — Hope's hooded patron (identity unresolved)
 
 ## Introduction
 

@@ -2,9 +2,11 @@
 
 The tieflings of the Wastes have roots in the old city of [T'ietkalla](../places/tietkalla.md), but their people are not confined to its walls or united in a single political outlook. Hope Akmenos begins her travels far from the throne that will later be offered to her. The remains of an older kingdom, its returning soldiers and the lives of those displaced from it shape the tieflings' later story.[^beginnings]
 
-## The old city and the returned court
+## Origins and the buried kingdom
 
-Beneath T'ietkalla's keep, the travelers find ancient tiefling remains, hidden rooms, old records and a prisoner trapped in an enchanted book. The freed scholar, [Nobieri](../characters/nobieri.md), speaks of the Akmenos royal line, lost houses and bargains involving powers beyond the city. The structures and relics attest to an earlier polity; his full genealogy and supernatural account remain his testimony, not an independently established history of all tieflings.[^kingdom]
+The community Hope comes to rule rests upon the remains of an older tiefling polity. Beneath T'ietkalla's keep lie chambers, preserved writings and the bodies of people from an earlier age. In a hidden library the companions free [Nobieri](../characters/nobieri.md) from an enchanted book. He remembers an Akmenos royal line, lost noble houses and bargains through which an army supposedly survived beyond the city. The ruins establish that this kingdom existed, and his later return with armed tieflings gives the past political force in the present. But the elder's genealogy, the ancient bargains and the supposed afterlife refuge remain *his account*: they do not explain the creation of all tieflings or prove the ancestry of every family living here.[^kingdom]
+
+## The returned court
 
 When fighting and catastrophe engulf T'ietkalla, Nobieri returns through a portal accompanied by a large, visibly armed tiefling contingent. They recognize and crown **Hope** as queen. The new council includes competing house interests and officials who propose repairs, agriculture and security measures. Some speakers reject the presence of non-tieflings, but Hope insists her companions be admitted. Those divisions are real political conflicts among the people present; neither the hostility of a few leaders nor Hope's reforms describes every tiefling's beliefs.[^crown]
 

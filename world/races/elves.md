@@ -2,11 +2,15 @@
 
 The elves of the Wastes are encountered in more than one age and allegiance. Most visibly, they include the **Elhandari**, whose refuge among the stars combines an inhabited forest with immense machinery and magic. The travelers meet an organized elven community capable of welcoming strangers, tending the sick and undertaking work beyond Earth. Its ambitions, customs and political choices provide a window into **one elven society**, not the defining history of every elf.[^arrival]
 
+## Ancient history and the Elhandari mission
+
+The Elhandari remember Earth before its devastation, when their people were engaged in a long effort to understand and heal it. Their elder Amanthalodar speaks of an ancient mission, the loss and corruption that followed, and the dangers that Earth now poses to departing elven souls. This is the history and spiritual teaching the community passes on, not a record independently recovered from the lost age. The forest refuge that survives among the stars shows what the Elhandari have actually preserved: a living landscape sustained by extraordinary technology and magic. Their mission should not be mistaken for the first origin of all elves, whose wider beginnings remain unknown.[^beliefs]
+
 ## The forest sanctuary
 
 The Elhandari home of **[Elhandar](../places/elhandar.md)** encloses an actual living woodland within a great constructed station. Thousands of elves receive visiting travelers in a public gathering. Within their community, **Admiral Chrysorius** commands vessels and defenses while an elder known as **Amanthalodar**, or the High Elf, serves as a spiritual leader rather than an unquestioned monarch. The hosts provide places to rest, medical care and an expectation that new arrivals be assigned therapists; the admiral explains that attending therapy is voluntary. The society's technology does not displace its interest in living trees and cultivated landscapes.[^community]
 
-Amanthalodar tells the visitors that the Elhandari have long sought to understand and heal a damaged world. He also offers teachings about the journey of elven souls and the danger of dying in Earth's corrupted ground. These are the beliefs and historical accounts voiced by this leader; the companions cannot independently verify the full ancient mission or a universal law of elven death.[^beliefs]
+The elder's teachings shape how visitors are received: healing Earth is for the Elhandari both a practical undertaking and a matter of belief. The companions encounter their present-day care and research directly, but neither ancient memories nor a universal law of elven death is demonstrated by this welcome.[^beliefs]
 
 ## Families, conflict and refuge
 
