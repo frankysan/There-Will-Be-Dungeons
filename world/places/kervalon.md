@@ -1,6 +1,6 @@
 # Khaervilon — contested border keep and Demon Vold approach
 
-> **Canonical page:** [Khaervilon](khaervilon.md). This historical `kervalon.md` path remains temporarily available for compatibility; incoming links will be reconciled under WCL-195/WCL-197.
+> **Canonical page:** [Khaervilon](khaervilon.md). This historical `kervalon.md` path is retained as a **full-content compatibility copy** after WCL-195/WCL-197 backlink reconciliation. The active primary and maintained indexes use the owner-confirmed mapped spelling; keep this route for historical links and original context, not as a second place.
 
 > **Canonical written name (D-044):** **Khaervilon**, owner-confirmed from the larger *Known Wastes* map. Earlier project/ASR variants `Kervalon`, `Kaer Valon`, `Caravalon`, `Caeravalon` and similar forms remain historical aliases rather than separate places; pronunciation has not been audio-verified. Discussed [E061](../../episodes/E061.md), reached physically [E067](../../episodes/E067.md). **Full spoilers through E081**.
 

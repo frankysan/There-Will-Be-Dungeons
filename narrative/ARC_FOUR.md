@@ -4,7 +4,7 @@
 
 ## Prologue — After the light
 
-At the bottom of CHIDS, **Vorel, Nash, Hope and Stanley** entered the Traversal Drive's beam together. Their bodies dissolved into light, and all four died. **Sira and Eddie** survived beyond the beam; **Chance** was missing. Neither Earth's fate nor the outcome of the struggle against the Principle was known.[^four-2]
+At the bottom of CHIDS, **Vorel, Nash, Hope and Stanley** entered the Traversal Drive's beam together. Their bodies dissolved into light, and all four died. **Sira and Eddie** survived beyond the beam; **Chance** was missing. Neither Earth's fate nor the outcome of the struggle against the Principal was known.[^four-2]
 
 For Vorel, the light gives way to stars, an immense unidentified face, and finally a filthy sewer. He wakes without clothes or equipment. The **Eye of Groxl** in his chest has broken open, sacrificing its active presence to protect him. Nearby floats a black speck. An eye opens inside it.[^four-3]
 

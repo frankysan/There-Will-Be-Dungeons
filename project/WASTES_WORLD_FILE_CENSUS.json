@@ -130,8 +130,8 @@
         "markdown_image_embeds": 0,
         "html_image_embeds": 0,
         "headings": "1 H1 and 14 rendered H2 sections; no H3. Heading fragments rendered by offline preview; full native browser inspection deferred.",
-        "size_bytes": 188962,
-        "sha256": "2efb5585a4b8276b72bf7ca7c55e557446ed67da2ea77f361abe87e96c317095",
+        "size_bytes": 188968,
+        "sha256": "84060229e1bf901fa2884d0a406a1f198c7e23643c2a3fc296cf66f735ffb133",
         "historical_preserved_files": [
           "research/legacy/2026-10-22/CHRONOLOGY_PRE_SECOND_ARC_CONSOLIDATION.md",
           "research/legacy/2026-10-22/WORLD_CHRONOLOGY.md"
@@ -304,7 +304,7 @@
         "footnote_references_rendered": 10,
         "footnote_definitions_rendered": 10,
         "size_bytes": 17177,
-        "sha256": "d609b87bab2936d60779a464e392e88c5edbec4b770b6b4a0acbcd376d390d4e",
+        "sha256": "ad14e23da3b73d8f40180a781a983e7091881a238a80e70dbfbdb88f6b0d5b08",
         "incoming_links": "sampled_not_exhaustive",
         "incoming_link_examples": [
           "world/README.md",
@@ -1156,7 +1156,7 @@
         "legacy_html_anchor_tags": 14,
         "markdownlint": "passed_zero_violations",
         "size_bytes": 16758,
-        "sha256": "9fbf53c55bc3feda7dbe30ab151adc25a6598d172d58c6501e160ea75b3923ce",
+        "sha256": "abc013c7397c710a4c62732de9e3a6d04e29194e4ea913b2c0e4cc07032389a6",
         "historical_preserved_files": [
           "research/legacy/DIONTALUS_PRE_BATCH281_2026-10-31.md"
         ],
@@ -1716,8 +1716,8 @@
         "markdown_image_embeds": 0,
         "html_image_embeds": 0,
         "heading_count_rendered": 54,
-        "size_bytes": 85458,
-        "sha256": "a041a4c2081ece18b4d274b4d8fc29ff446bb10d8035e2fa197edf57af220d38",
+        "size_bytes": 85460,
+        "sha256": "3e89dad1d451b7fdca6c762e6eeabad43feb39e8991df51870349ee112cb4fac",
         "historical_preserved_files": [
           "research/legacy/NASH_MAGGARD_PRE_WCL030_2026-10-31.md"
         ],
@@ -2239,7 +2239,7 @@
         "source_html_details_blocks": 1,
         "heading_count_rendered": 53,
         "size_bytes": 82973,
-        "sha256": "f1cfa9a023d51ced7b5b3b638d13a7d26309f251e0bc0a40ecb42930f23b78ff",
+        "sha256": "24c641b8fb042378ab5917a90c1d16d6ed430ab8b2b9967347f5ca35f5012139",
         "historical_preserved_files": [
           "research/legacy/STANLEY_BILLINGS_PRE_WCL119_2026-10-31.md"
         ],
@@ -2671,8 +2671,8 @@
         "markdown_image_embeds": 0,
         "html_image_embeds": 0,
         "markdownlint": "passed_zero_violations",
-        "size_bytes": 68111,
-        "sha256": "dbf4e378dd13b84b60fa0898322e25bde4089dd5697c63b1a6e74f2f410b8c03",
+        "size_bytes": 68113,
+        "sha256": "4b6ceb3107d2933ad2a55a8427e2591ef2e13e41c1c3c1e3ce97acca885f173f",
         "incoming_links": "examples_not_exhaustive",
         "incoming_link_examples": [
           "world/characters/vorel.md"
@@ -2723,8 +2723,8 @@
         "html_image_embeds": 0,
         "source_html_details_blocks": 1,
         "heading_count_rendered": 59,
-        "size_bytes": 98998,
-        "sha256": "7db59b7acc04b249edfb9ade580139258771d037a31b62ff2256acd662c46c94",
+        "size_bytes": 99004,
+        "sha256": "d27cb815f1e1c50681af0ae7b085c40d8c8b28f9ea877dbcc1e3d6db4271e000",
         "historical_preserved_files": [
           "research/legacy/VOREL_PRE_WCL118_2026-10-31.md"
         ],
@@ -4569,8 +4569,8 @@
         "legacy_html_anchor_tags": 0,
         "markdownlint": "passed_zero_violations",
         "markdown_render": "checked_all_local_links",
-        "size_bytes": 19616,
-        "sha256": "b08c53fbf34ffdb96920497e1e54c2e54a75606a8b209176582933604f8cafef",
+        "size_bytes": 19775,
+        "sha256": "18e96789ac5ca7cf22681657c6d980001347172800eae616bc19e3ad7b5aba64",
         "incoming_links": "literal_world_filename_scan_only_not_exhaustive",
         "incoming_link_examples": [
           "world/PLACES.md",
@@ -4618,7 +4618,7 @@
         "markdownlint": "passed_zero_violations",
         "markdown_render": "checked_all_local_links",
         "size_bytes": 3982,
-        "sha256": "11c2e3db28dbfbe47147a1f4b76da952985dab1804b397dae4a94d57f5c5a4be",
+        "sha256": "9a6aae89a33d259d518694901de6c66e3dbc505902afcd19abf9e3611627d115",
         "incoming_links": "literal_world_filename_scan_only_not_exhaustive",
         "incoming_link_examples": [
           "world/PLACES.md",
@@ -5847,7 +5847,7 @@
         "markdownlint": "passed_zero_violations",
         "markdown_render": "checked_all_local_links",
         "size_bytes": 6602,
-        "sha256": "155fc2c18326e022db2fd2dbcd5214ab7df250fbcc523fb5e5f0cde492af12a4",
+        "sha256": "a26bc4098e2c94b14e4b9d71abb6083aba6e03c362ea1ceae184623ffe2ea84c",
         "incoming_links": "six_active_world_markdown_references_point_directly_to_this_primary",
         "incoming_link_examples": [
           "world/ITEMS_AND_ARTIFACTS.md",
@@ -5982,7 +5982,7 @@
         "markdownlint": "passed_zero_violations",
         "markdown_render": "checked_all_local_links",
         "size_bytes": 25182,
-        "sha256": "ff9d41fe494922d8ddced44eebb89c52fdae0f724560c147b88ebcffbc11b1c7",
+        "sha256": "6ecfc19fd0f21c579e98bef08d0473d231602d9a2ee4a70835a39434671ded04",
         "incoming_links": "literal_world_filename_scan_only_not_exhaustive",
         "incoming_link_examples": [
           "world/ITEMS_AND_ARTIFACTS.md",
@@ -6308,8 +6308,8 @@
         "outgoing_broken_links_renderer_checked": 0,
         "outgoing_local_links_not_checked": 0,
         "markdownlint": "passed_zero_violations",
-        "size_bytes": 19460,
-        "sha256": "712e4f30218f5a524c56ed9b02928a291f83b79f38bf1cded096340b8f66e30b",
+        "size_bytes": 19502,
+        "sha256": "771b535a9772f8aba614718ec49a9dc888fba6dce1ebe12372c55a26dea6a7be",
         "source_copy_sha256": "97b230418bc3415c249ef859bafbe308d464b2a71792e1f900664430b07ce700",
         "legacy_compatibility_path": "world/places/kervalon.md",
         "incoming_links": "world_link_migration_in_progress_repository_wide_WCL-197_pending",
