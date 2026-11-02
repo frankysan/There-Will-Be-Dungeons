@@ -21,17 +21,17 @@ This is **per-file disposition accounting, not a new fact-review pass**. `A` acc
 
 | Scope | Files | Inventory basis |
 | --- | ---: | --- |
-| Current `world/` reference paths | 150 | [150-file live census](WASTES_WORLD_FILE_CENSUS.json) |
+| Current `world/` reference paths | 149 | [149-file live census](WASTES_WORLD_FILE_CENSUS.json) |
 | `narrative/` current, historic and index routes | 20 | Current directory listing |
 | `README.md` and `wastes/README.md` | 2 | Maintained story portals |
 | Wastes `episodes/` dossiers | 161 | `E000`–`E128`, `E013.5`, `S2E01`–`S2E12`, `S3E01`–`S3E18`, and nonplayed `S3E019` |
-| **Total distinct maintained paths** | **333** | Enumerated below |
+| **Total distinct maintained paths** | **332** | Enumerated below |
 
-**Disposition totals:** 11 bounded `A` / 152 `P` / 170 `E`. The world census records **140 fully structural/renderer-checked Markdown**, **7 renderer-capped**, **1 renderer-blocked**, **1 lint-blocked**, **1 technical JSON**. These categories are verification coverage, not content acceptance.
+**Disposition totals:** 11 bounded `A` / 151 `P` / 170 `E`. The world census records **139 fully structural/renderer-checked Markdown**, **7 renderer-capped**, **1 renderer-blocked**, **1 lint-blocked**, **1 technical JSON**. These categories are verification coverage, not content acceptance.
 
 **Out of scope:** Cross-campaign Delvers/Inverse pages; `episodes/STAR-TREK-S1E001.md`; generic `BONUS-*` episodes pending individual Wastes-source relevance classification; generated/transcript `sources/`, `local/`, maintenance scripts, protected original archives, research reports, source/illustration binaries, and project-control records. Relevant bonus evidence may still be cited by in-scope pages. Wastes-related one-off/prequel episode dossiers are included. This is an *editorial Wastes reading/reference* inventory, not an exhaustive repository file census.
 
-## World/reference paths (150)
+## World/reference paths (149)
 
 Four WCL-195 canonical/provisional primary additions currently coexist with temporary old-path compatibility copies: the Principal, Khaervilon, the Soulbroker and Grape's magical guitar. These legacy routes retain their full source text and are slated for WCL-197 post-rename review, with any redundant aliases removed only after full backlink audit.
 
@@ -181,7 +181,6 @@ This table **reuses**, rather than silently upgrades, [the detailed world census
 | `world/technology/henatar-guitar.md` | P-T | Legacy former primary with full original narrative and a canonical-page banner; 12/12 rendered links | Historic Henatar/Grape ASR label preserved; source-window details duplicate maintained Grape guitar primary pending WCL-197 compatibility disposition |
 | `world/technology/hollow-ring.md` | P-S | Structural audit recorded; detailed links in census | S3E02 earlier theft from Hope by Principal; S3E11 physical return and modified Gate use; S3E12 confirmed ring on Hope and zero charge; S3E13 Asmodeus transports party without ring; S3E15 Principal portals through Sigil without ring; S3E16–S3E18 no further direct recharge or inventory check |
 | `world/technology/mask-of-eltanfawr.md` | P-S | Structural audit recorded; detailed links in census | E118 Stanley discovers the mask and journal in Villa Or'Nath but does not wear mask; E126 actual donning/reshaping, failed lift and attunement requirement; S2E01–S2E02 achieved flight of villa/Fate Six to Mars; S3E05 mask's Peer into Plurality physically used to cast Foresight at 10 max-HP cost; S3E07 ship-to-house-and-back transformation and later ship destruction; S3E11 further Foresight; S3E13 actual mask summon/reappearance of vessel, incomplete ghost crew; S3E14 external Gate requirement; S3E15 Foresight again; S3E17 attempted but unproven remote command, ship second destruction; S3E18 four-day recovery and witnessed Stanley-to-Hope gift/crown |
-| `world/technology/mask-of-elton-iv.md` | P-T | Structural audit recorded; detailed links in census | E118 actual discovery and inventory, E126 mask-linked spelljammer interface and canonical mask-of-eltanfawr.md owner spelling; legacy historical link only |
 | `world/technology/nash-dragon-heart.md` | P-S | Structural audit recorded; detailed links in census | E121 engineered heart opens and mother-dragon apparition; E122 heart resumes Nash body while separate dead dragon's natural heart harvested; E128 natural heart actually recovered and travels toward Mars; S2E02 unfinished Ruby distinct; S2E12 Nash dies but implanted engine/eyestalk survives; S3E01 Stanley Regenerate rebuilds Nash, S3E02 full body and Sprout; S3E03 paternity dream and refused cylinder extraction; S3E10 remembered surgery site; S3E12 lightning/duplicate Nash incident with engine still implanted; S3E13 Brett/Asmodeus removes and keeps engine, fabricates organic heart; S3E14 failed partial dragon shape; S3E18 chrome conversion, death and Wish/True Resurrection without witnessed engine return; bonus creator theories separately qualified |
 | `world/technology/noble-speeder.md` | P-S | Structural audit recorded; detailed links in census | E123 lodge keeper permits use, Hope tests and drives to Harbor; E124 vehicle actually left Villa Or'Nath; E125 three separately available biodome terminal vehicles ridden; E126 occupants survive; E128 separate four speeders attached to Villa |
 | `world/technology/portal-device.md` | P-S | Structural audit recorded; detailed links in census | E075 secure vault and Vorel first acquisition; E075 portal pairing tests and transfer to Hope; E076 physical bugbear escape and handheld transfer to Nash; E077 Hope reuses device, discovers necrotic neutralization mode, collateral damage to Vorel; E078–E079 continued Hope use to bypass lock; E080 misses illithid; E081 separately operates major Drive console; E082 Hope in Sigil without handheld custody check |

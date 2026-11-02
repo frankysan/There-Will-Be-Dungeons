@@ -12,7 +12,7 @@
 
 ## S3E11 — natural long rest, no injections
 
-**S3E11:** All four **ACTUALLY COMPLETE A FULL EIGHT-HOUR LONG REST** in the Principle's guest rooms beneath Solar Mines after negotiated ceasefire; **NO dose of the four syringes is administered to anyone, no years of life lost**, and ***Heroes' Feast* is newly cast by STANLEY after the overnight rest (separate resource)**. Their retained syringes are NOT a replacement for the observed natural long rest. [S3E11 source](../../episodes/S3E11.md) · [P/Q report](../../reports/WASTES_S3E11_ASR_COMPARISON_2026-10-27.md), audio unchecked.
+**S3E11:** All four **ACTUALLY COMPLETE A FULL EIGHT-HOUR LONG REST** in the Principal's guest rooms beneath Solar Mines after negotiated ceasefire; **NO dose of the four syringes is administered to anyone, no years of life lost**, and ***Heroes' Feast* is newly cast by STANLEY after the overnight rest (separate resource)**. Their retained syringes are NOT a replacement for the observed natural long rest. [S3E11 source](../../episodes/S3E11.md) · [P/Q report](../../reports/WASTES_S3E11_ASR_COMPARISON_2026-10-27.md), audio unchecked.
 
 ## S3E17 — Stanley injects his own dose
 

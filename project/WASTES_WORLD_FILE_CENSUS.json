@@ -21,11 +21,11 @@
     "structural_renderer_checked_lint_blocked": "Complete current Markdown read and safe offline renderer checked all local links, but targeted markdownlint was blocked by a safety check. Do not claim lint success or bypass the block; native browser and source accuracy remain unverified."
   },
   "counts": {
-    "total": 150,
+    "total": 149,
     "historic_paths": 134,
-    "historic_retained": 134,
+    "historic_retained": 133,
     "added_since_baseline": 16,
-    "structural_and_outgoing_links_checked": 140,
+    "structural_and_outgoing_links_checked": 139,
     "structural_with_partial_outgoing_links_checked": 7,
     "structural_paths_verified_render_blocked": 1,
     "structural_renderer_checked_lint_blocked": 1,
@@ -35,7 +35,7 @@
       "world": 17,
       "world/characters": 49,
       "world/places": 20,
-      "world/technology": 24,
+      "world/technology": 23,
       "world/creatures": 32,
       "world/races": 8
     }
@@ -1444,7 +1444,7 @@
         "html_image_embeds": 0,
         "heading_count_rendered": 53,
         "size_bytes": 69817,
-        "sha256": "dd66b8e5cc7a5fe89c57cd698e78b965669cb094171d0b1e45e3ced0760befbb",
+        "sha256": "649767d11aa5de443b6c3f287e0ef76ad02269e1ed13b257ac6c4b5f0f2fb43d",
         "historical_preserved_files": [
           "research/legacy/HOPE_AKMENOS_PRE_WCL117_2026-10-31.md"
         ],
@@ -1767,8 +1767,8 @@
         "markdown_image_embeds": 0,
         "html_image_embeds": 0,
         "markdownlint": "passed_zero_violations",
-        "size_bytes": 69754,
-        "sha256": "37ced797355f58fa3946f2e8f5dae67749a53ca27a8631eea536687e65678882",
+        "size_bytes": 69757,
+        "sha256": "c93abf26175fb8a0ca330e446555f2ae181a34de08c83f7ebab8ea912b9e4dfa",
         "incoming_links": "examples_not_exhaustive",
         "incoming_link_examples": [
           "world/characters/nash-maggard.md"
@@ -2671,8 +2671,8 @@
         "markdown_image_embeds": 0,
         "html_image_embeds": 0,
         "markdownlint": "passed_zero_violations",
-        "size_bytes": 67913,
-        "sha256": "27990629a0c3afc498ba1a1be6d13e6e0b5f77c44d65f6e0636d39bd976a597a",
+        "size_bytes": 68111,
+        "sha256": "dbf4e378dd13b84b60fa0898322e25bde4089dd5697c63b1a6e74f2f410b8c03",
         "incoming_links": "examples_not_exhaustive",
         "incoming_link_examples": [
           "world/characters/vorel.md"
@@ -5479,7 +5479,7 @@
         "markdownlint": "passed_zero_violations",
         "markdown_render": "checked_all_local_links",
         "size_bytes": 9247,
-        "sha256": "adaf6ccaa7fb5d02bdff68ca772e8cc1a21bb0f59df5416f0d104b06f65683f1",
+        "sha256": "9d7e2854cd4109d0105505ec3bef3e6cdcccd497ef889c55d8503eb211a921ce",
         "incoming_links": "literal_world_filename_scan_only_not_exhaustive",
         "incoming_link_examples": [
           "world/ITEMS_AND_ARTIFACTS.md",
@@ -5894,7 +5894,7 @@
         "markdownlint": "passed_zero_violations",
         "markdown_render": "checked_all_local_links",
         "size_bytes": 6695,
-        "sha256": "42d3363dc62307bfaa48bdd2bfb2f3cb637b10a63eddac6d40f7db3192f12a93",
+        "sha256": "1721e1b2a386331bd3fb8a4bf44be6c730cbbf9ad0bed4db78a0a803438491da",
         "incoming_links": "literal_world_filename_scan_only_not_exhaustive",
         "incoming_link_examples": [
           "world/ITEMS_AND_ARTIFACTS.md",
@@ -5944,8 +5944,7 @@
           "world/characters/stanley-billings.md",
           "world/characters/hope-akmenos.md",
           "world/places/villa-ornath.md",
-          "world/technology/fate-six.md",
-          "world/technology/mask-of-elton-iv.md"
+          "world/technology/fate-six.md"
         ],
         "primary_audio": "not_checked",
         "full_source_claim_accuracy": "not_checked",
@@ -5954,44 +5953,6 @@
           "GM-described E118 random-future number-change, death/return conditions, cost reset substances, ship miniaturization are not tested; the four consecutive long rests and four-day attunement wording differ in historical episodes and need direct item-sheet/audio confirmation.",
           "Stanley's S3E05/S3E11 activation specifically costs 10 maximum HP; no fresh explicit S3E15 numerical loss is evidenced. S3E17 attempted remote ship order not established as causal for later physical arrival. Ghost crew does not automatically fully return with ship, and Hope's new attunement after S3E18 handover is not demonstrated.",
           "Five rendered footnote refs and five definitions resolve; old E128-only no-flight note is historical, superseded by later flight. Source content uses some all-caps recap and retained historical sections but has a specific latest custody section; native-browser WCL-103, complete source/audio and external fragment review deferred."
-        ]
-      }
-    },
-    {
-      "path": "world/technology/mask-of-elton-iv.md",
-      "domain": "technology",
-      "in_original_2026_10_27_worklist": true,
-      "review": {
-        "level": "structural_and_outgoing_links_checked",
-        "cohort": "WCL-182",
-        "purpose": "bounded_current_six_compact_technology_artifact_source_and_outgoing_links_census",
-        "source_lines_read": 5,
-        "depicted_source_window": "E118 actual discovery and inventory, E126 mask-linked spelljammer interface and canonical mask-of-eltanfawr.md owner spelling; legacy historical link only",
-        "source_window_note": "This route is deliberately a compatibility alias for the single Mask of Eltanfawr, not a second artifact or separately acquired Elton IV item. The E118 recovered mask and E126 demonstrated interface are documented in the canonical target; the historical filename remains for incoming links, with alternate transcribed spellings not independently heard.",
-        "D048_structure": "intentional_compact_compatibility_alias",
-        "outgoing_local_links_total": 5,
-        "outgoing_local_links_renderer_checked": 5,
-        "outgoing_broken_links_renderer_checked": 0,
-        "outgoing_local_links_not_checked": 0,
-        "footnote_references_rendered": 0,
-        "footnote_definitions_rendered": 0,
-        "footnote_definitions_missing": 0,
-        "headings_rendered": 1,
-        "markdown_image_embeds": 0,
-        "html_image_embeds": 0,
-        "legacy_html_anchor_tags": 0,
-        "markdownlint": "passed_zero_violations",
-        "markdown_render": "checked_all_local_links",
-        "size_bytes": 946,
-        "sha256": "232624ac3e57b59b38af07b9964c8ce3ca6a1e3bffe995dc6e2ff8918dac2538",
-        "incoming_links": "literal_world_filename_scan_only_not_exhaustive",
-        "incoming_link_examples": [],
-        "primary_audio": "not_checked",
-        "full_source_claim_accuracy": "not_checked",
-        "native_browser": "deferred_WCL-103",
-        "open_questions": [
-          "Intentional alias and one heading are appropriate for compatibility; 0 literal world/ incoming mentions of filename at time of scoped search does NOT justify deleting historical route or claiming no external backlinks.",
-          "Archive-owner Eltanfawr spelling is not audio-verified; no independent canonical mask mechanics, original audio or native-browser verification."
         ]
       }
     },
@@ -6155,7 +6116,7 @@
         "markdownlint": "passed_zero_violations",
         "markdown_render": "checked_all_local_links",
         "size_bytes": 7402,
-        "sha256": "ef674311219733387b2df4c1c1444a74fa188030a9a31bf46c80a537c4830c1b",
+        "sha256": "5969805489c039765aec7f77432d2fc64a13e502b77e77b0fe347f0ca988a141",
         "incoming_links": "literal_world_filename_scan_only_not_exhaustive",
         "incoming_link_examples": [
           "world/ITEMS_AND_ARTIFACTS.md",
@@ -6197,7 +6158,7 @@
         "markdownlint": "passed_zero_violations",
         "markdown_render": "checked_all_local_links",
         "size_bytes": 23890,
-        "sha256": "4f08aff0f7038cf91b45be510c039e343249a6cf8403e3c4b68dc5a3027b7cb4",
+        "sha256": "c8c720792a222dbe349658962af0ad4fd869a167b02615a2c22f352d8df569e0",
         "incoming_links": "literal_world_filename_scan_only_not_exhaustive",
         "incoming_link_examples": [
           "world/ITEMS_AND_ARTIFACTS.md",
@@ -6285,7 +6246,7 @@
         "markdownlint": "passed_zero_violations",
         "markdown_render": "checked_all_local_links",
         "size_bytes": 8469,
-        "sha256": "9a3af1d7a8c5fc9132fb54fb15c4778a212a8936e0d8272295aaa5b1cb442c34",
+        "sha256": "e39065436cb39a01385857f5f6779df691c85355192b9894c0b20e0e91ed1acd",
         "incoming_links": "literal_world_filename_scan_only_not_exhaustive",
         "incoming_link_examples": [
           "world/ITEMS_AND_ARTIFACTS.md",
