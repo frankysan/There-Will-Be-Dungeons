@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "title": "Wastes world current-path census and per-file review dispositions",
-  "as_of_local_date": "2026-11-01",
+  "as_of_local_date": "2026-11-02",
   "repository": "There Will Be Dungeons Transcripts",
   "sampled_at_head": "a59a7e335a8de0322245015bb2ba305dd641be5b",
   "authoritative_task_register": "project/WASTES_CLEANUP_TASKS.md",
@@ -21,11 +21,11 @@
     "structural_renderer_checked_lint_blocked": "Complete current Markdown read and safe offline renderer checked all local links, but targeted markdownlint was blocked by a safety check. Do not claim lint success or bypass the block; native browser and source accuracy remain unverified."
   },
   "counts": {
-    "total": 149,
+    "total": 152,
     "historic_paths": 134,
     "historic_retained": 133,
-    "added_since_baseline": 16,
-    "structural_and_outgoing_links_checked": 138,
+    "added_since_baseline": 19,
+    "structural_and_outgoing_links_checked": 141,
     "structural_with_partial_outgoing_links_checked": 9,
     "structural_paths_verified_render_blocked": 0,
     "structural_renderer_checked_lint_blocked": 1,
@@ -34,7 +34,7 @@
     "by_domain": {
       "world": 17,
       "world/characters": 49,
-      "world/places": 20,
+      "world/places": 23,
       "world/technology": 23,
       "world/creatures": 32,
       "world/races": 8
@@ -80,8 +80,8 @@
         "outgoing_broken_links": 0,
         "footnote_references_rendered": 32,
         "footnote_definitions_rendered": 32,
-        "size_bytes": 24216,
-        "sha256": "412a916c822037b5105047ab655a100b87936ce6755cd076710152546cc1bf44",
+        "size_bytes": 24405,
+        "sha256": "2cb09f5a84bf8e434b6df92f394f7d81750533d682b9820dd8bb08a22e6ea700",
         "incoming_links": "sampled_not_exhaustive",
         "incoming_link_examples": [
           "world/README.md",
@@ -97,7 +97,7 @@
           "Alias spelling and every individual last disposition still require separate evidence review",
           "Other inbound backlinks, quote claims and source horizon not exhaustive"
         ],
-        "source_window_note": "WCL-109: Main entry and selected historical-source notes reconciled for Bok Bok, Emenil, Nobieri, Tungsten and Henatar through S3E18; 100/100 offline renderer links now exactly at its checking limit, 32/32 footnotes; not independent episode/audio-wide acceptance."
+        "source_window_note": "WCL-109: Main entry and selected historical-source notes reconciled for Bok Bok, Emenil, Nobieri, Tungsten and Henatar through S3E18. WCL-077: In the Angelashi footnote, the named child Nash Junior and earlier alternate Nashes are expressly not established as the finale cupboard visitor; the warning does not prove the Principal or Worldbreaker returned. The existing Nash biography, antagonist directory and principal articles already treat both the visitor and the warning as unidentified. Current full renderer: 100/100 links with zero broken and 32/32 footnotes; not independent episode/audio-wide acceptance."
       }
     },
     {
@@ -516,8 +516,8 @@
         "outgoing_broken_links": 0,
         "footnote_references_rendered": 43,
         "footnote_definitions_rendered": 43,
-        "size_bytes": 62043,
-        "sha256": "c9c6ce5809afdd0dd8df58254e69656e868551a286bbbfef08ef1fcdcdd50556",
+        "size_bytes": 68669,
+        "sha256": "a1a2f0281e8acd11af67ab09a6e5ccfb90298c4e32f7e48e974d2203b1c844ba",
         "incoming_links": "sampled_not_exhaustive",
         "incoming_link_examples": [
           "world/README.md",
@@ -536,7 +536,7 @@
           "Exactly 100 local link occurrences now reach the offline renderer's 100-link limit: all 100 were checked, none left unchecked or broken; additional future links require attention to the cap. Inbound/semantic source checks remain open",
           "Some technical equipment and source-first registers are purposeful research exceptions, not grounds to force every item into narrative prose"
         ],
-        "source_window_note": "WCL-111: Full maintained artifact index read and audited; merged duplicate Hand of the Voice custody row into its existing primary entry, and indexed Hope's S3E18 acquisition of Monsoon's helmet separately from the Mask of Eltanfawr. Existing deep source/custody apparatus and time-qualified observations retained; all 100/100 local links and 43/43 footnotes rendered, Markdownlint clear. This is not a comprehensive end-of-campaign inventory, original-audio verification or native-browser check."
+        "source_window_note": "WCL-111/WCL-079/WCL-080 earlier index and custody corrections retained. WCL-081 adds a selected S3E18 final-custody audit/table with explicit latest witnessed/confirmed versus unknown holder/charge: 5 original windboards, 1 destroyed, 3 working S3E16, 1 Hope use S3E17 and no S3E18 count; Hope Hollow Ring last worn S3E12 with zero charge since S3E11; four initial syringes, one Stanley injection S3E17 and reported distinct Vorel-given unspent second, no fifth; Nash's original nail staff fragment, enchanted Skyblinder, alternate staff and awarded +2 quarterstaff distinct, all not restored after equipment-free S3E18 resurrection; Hope broken crossbow versus Stanley functional crossbow; 3 spent gemmed bowls across 3 casts; Diplomacy/guitar last positioning unverified afterwards; Fox/Scully distinct from belt; confirmed S3E18 helmet and Mask gifts and Vorel Chrome's Bane summary, opposed to unknown final Ruby/Hand/Fist/Eye/heart. 100/100 current local links with zero broken and 43 footnotes rendered; Markdownlint zero. No complete actor inventory or original audio verification."
       }
     },
     {
@@ -553,8 +553,8 @@
         "outgoing_broken_links": 0,
         "footnote_references_rendered": 15,
         "footnote_definitions_rendered": 15,
-        "size_bytes": 23200,
-        "sha256": "03e1bd7e4f9d6d851d3a0536825dc8804594951a1679ac9bc5ab7fdb280c60dc",
+        "size_bytes": 25569,
+        "sha256": "c04b84b7109b99e66c81747b95e871adce30561167ca3f4accd9fd1caade3a14",
         "incoming_links": "sampled_not_exhaustive",
         "incoming_link_examples": [
           "world/README.md",
@@ -568,12 +568,12 @@
         "markdown_image_embeds": 0,
         "html_image_embeds": 0,
         "open_questions": [
-          "Planet Nash and the S3E18 retired-family home are currently index/episode-backed; dedicated place treatment remains WCL-064, not a page fabricated during census",
+          "WCL-067 links a source-confidence facilities guide at `world/places/solar-mines.md#distinct-facilities-and-source-confidence` from the index's existing second Solar Mines row, keeping the first general Solar Mines link and 100/100 valid local links. Postwar site status and geographical identities beyond witnessed episode cutoffs remain unresolved.",
           "Several location entries have earlier scene-specific source cutoffs; the final events added for selected entries do not make all destinations finale-verified",
           "Routed map/arrival and destination identity ambiguities remain, including some Mars locations and S3E18 proposed rebuilding",
           "Full incoming-link graph, exact first/last source and all audio claims unverified"
         ],
-        "source_window_note": "WCL-110: Full updated location index reviewed; eleven-arc navigation made available at the top, canonical map spellings distinguished from legacy aliases, and historical finale-labelled footnotes reconciled to the played S3E18 outcomes while retaining earlier cutoffs. All 100/100 offline local links and 15/15 footnotes render valid; no original-audio or exhaustive source/reader-browser acceptance."
+        "source_window_note": "WCL-110 places index and WCL-064 Planet Nash, WCL-065 Pentel Weiss, WCL-066 Mars profile additions maintained. WCL-067 clarifies the historical/secondary Solar Mines row as a direct in-page link to the new source-tiered facility guide while the main index entry still opens the article root and episode source windows. New anchor exists, 100/100 local links render valid and 15 footnotes preserved, zero missing/unchecked; no new index row/file or additional link beyond cap. Full browser/original audio and external bookmark tests remain outstanding."
       }
     },
     {
@@ -723,7 +723,7 @@
         "purpose": "reader_first_chronological_angelashi_profile",
         "depicted_source_window": "E035–E054, E055–E056, E110–E128, S2E02–S2E05, S3E03–S3E05, S3E18; retrospectives separated as evidence",
         "D048_structure": "observed_reader_subject",
-        "source_window_note": "Full 92-line story-first biography: Angelashi's purported death is only Tedna's report; freed alive in E054. Nash's earlier vision is not their E111 physical reunion. She gives birth to four living changeling children, later flees Elhandar, actually reunites on Mars and Planet Nash. In S3E18 she does not witness lunar death or resurrection spell, but physically reunites after Stanley restores Nash; unknown second Nash appears in cottage.",
+        "source_window_note": "Full 92-line story-first biography: Angelashi's purported death is only Tedna's report; freed alive in E054. Nash's earlier vision is not their E111 physical reunion. She gives birth to four living changeling children, later flees Elhandar, actually reunites on Mars and Planet Nash. In S3E18 she does not witness lunar death or resurrection spell, but physically reunites after Stanley restores Nash. WCL-077 explicitly separates the unknown second Nash in the cottage from named child Nash Junior, earlier alternates and the defeated Principal; none is identified as the visitor, and Angelashi's response and the warned-of person remain unknown. All current 38/38 links rendered, Markdownlint zero; no original audio.",
         "source_lines_read": 92,
         "outgoing_local_links_checked": 38,
         "outgoing_broken_links": 0,
@@ -738,8 +738,8 @@
         "headings_rendered": 11,
         "legacy_html_anchor_tags": 13,
         "markdownlint": "passed_zero_violations",
-        "size_bytes": 12903,
-        "sha256": "0ddf5236374208aaf6682d2923ea6a5465c21ab6c44da5d7d1481c3a6f6ad57a",
+        "size_bytes": 13160,
+        "sha256": "f6183977fc1f615c59767551abde15ec874b0e0b8a8ee7125999560c9dc4e6a7",
         "historical_preserved_files": [
           "research/legacy/ANGELASHI_PRE_BATCH284_2026-10-31.md"
         ],
@@ -881,14 +881,14 @@
         "cohort": "WCL-149",
         "purpose": "D081_authorized_reader_first_rewrite_with_independent_scoped_validation",
         "source_lines_read": 36,
-        "source_window_note": "E101/E102 Hope casino encounters, S3E12 Voice Hand passes through Brett to assistant; S3E13 Nash's engineered heart removed and retained. S3E17 devil resembles Brett and collects Principal soul; identity and infernal debt terms qualified.",
+        "source_window_note": "WCL-163 story-first Brett profile retained. WCL-080 clarifies S3E12 actual theft-payment chain: Principal physically hands Hope's stolen living Hand to Brett, who immediately transfers it to female assistant's pouch (last witnessed hand-holder); the separate Fist gauntlet previously delivered to Tobacho E106 and present E112 was NOT part of the Hell exchange. Eye remains missing, Bret's claim of former heart loan distinct from played S3E13 removal; S3E17 soul collector only resembles Brett. Current 28/28 local links and 8/8 footnotes rendered, lint clean; no original audio or last custody beyond seen transfers.",
         "D048_structure": "observed_reader_subject",
         "markdown_image_embeds": 0,
         "legacy_html_anchor_tags": 0,
         "markdownlint": "passed_zero_violations",
         "markdown_render": "checked_all_links",
-        "size_bytes": 7475,
-        "sha256": "952a8f26b269bd92b646876610cbcfdda9f42f94aa17a89218782e19756ccbbf",
+        "size_bytes": 7714,
+        "sha256": "c78c907bcfb2ecc14a0286398a3869353f7a26b3138c28276225956b0bf4b9cc",
         "historical_preserved_files": [
           "research/legacy/BRETT_ASMODEUS_PRE_WCL163_2026-11-01.md"
         ],
@@ -4701,6 +4701,129 @@
       }
     },
     {
+      "path": "world/places/planet-nash.md",
+      "domain": "places",
+      "in_original_2026_10_27_worklist": false,
+      "review": {
+        "level": "structural_and_outgoing_links_checked",
+        "cohort": "WCL-064",
+        "purpose": "new_reader_first_source_bounded_Planet_Nash_place_history_S2E04_to_S3E18",
+        "source_lines_read": 35,
+        "depicted_source_window": "S2E02 Mars family reunion and S2E03 proposed recruiting/refuge; S2E04 actual six-hour Fate Six rift voyage to two joined asteroids and Tower Nash encounter; S2E05 Angelashi/children stay temporarily, original party departs; S3E03 Angelashi/four children physically back on Mars and 99 alternate Nashes gathered there; S3E18 off-Earth Wish True Resurrection, family reunion at outpost and unresolved cottage visitor",
+        "source_window_note": "WCL-064: No preexisting world/places/planet-nash.md in live 20-file places directory or census. New unique story-first page cross-references S2E02–S2E05, S3E03 and S3E18. Distinguishes Mars proposal from S2E04 physical arrival, temporary family stay S2E05 from S3E03 real Mars reunion, Tower Nash's alternate-timeline testimony/projections from material extra Nashes on Mars, and S3E18 genuine off-Earth resurrection with Nash's family retirement from unverified continued tower residence. Final cottage is not proven same room as tower; 'second Nash' and 'he's coming' identities unknown. First Nash E110 earlier tower not automatically equated. 24/24 local links render, zero broken; no original-audio/map/native-browser verification.",
+        "D048_structure": "reader_first_place_description_chronological_visit_history_and_final_cutoff",
+        "outgoing_local_links_total": 24,
+        "outgoing_local_links_renderer_checked": 24,
+        "outgoing_broken_links_renderer_checked": 0,
+        "outgoing_local_links_not_checked": 0,
+        "footnote_references_rendered": 0,
+        "footnote_definitions_rendered": 0,
+        "footnote_definitions_missing": 0,
+        "headings_rendered": 6,
+        "markdown_image_embeds": 0,
+        "html_image_embeds": 0,
+        "legacy_html_anchor_tags": 0,
+        "markdownlint": "passed_zero_violations",
+        "markdown_render": "checked_all_local_links",
+        "size_bytes": 7433,
+        "sha256": "6bc8523a8e686539c2073eb7724906e10454f4a1815f3a0265a9a3e6b515bd1e",
+        "incoming_links": "world_PLACES_index_checked_other_backlinks_not_exhaustive",
+        "incoming_link_examples": [
+          "world/PLACES.md"
+        ],
+        "primary_audio": "not_checked",
+        "full_source_claim_accuracy": "not_checked",
+        "native_browser": "deferred_WCL-103",
+        "open_questions": [
+          "The exact Tower Nash and First Nash identities/location matching remain unconfirmed; E110 source does not prove a single tower or precise map coordinate.",
+          "Family's interim transfers between Planet Nash S2E05 and Mars S3E03 not separately staged; no complete chronology of all visitors or transit mechanisms.",
+          "Original audio, complete native rendering, map locations, government, census, outpost history, and ultimate safety unverified."
+        ]
+      }
+    },
+    {
+      "path": "world/places/mars-terraforming-colony.md",
+      "domain": "places",
+      "in_original_2026_10_27_worklist": false,
+      "review": {
+        "level": "structural_and_outgoing_links_checked",
+        "cohort": "WCL-066",
+        "purpose": "new_reader_first_regional_Mars_Elhandari_refuge_and_final_portal_history",
+        "source_lines_read": 39,
+        "depicted_source_window": "E128 Elhandari evacuation ships depart Earth with family/refugees/natural dragon heart; S2E01 family established on Mars; S2E02 Fate Six actual localized jungle landing, Dunglestar theatre and elder-tree council; S2E03–S2E04 strategic council, camp and actual family Planet Nash departure; S3E03 platform landing, canyon 99 Nashes, forest family reunion, refugee restaurant and subterranean lab; S3E04 actual surgeries, second council and local Ruby brief activation; S3E05 Elhandari/Fate Six/Ruby depart Mars, family stays; S3E18 Stanley arrives Mars on other vessel, real Feywild portal and partial Elhandari departure",
+        "source_window_note": "WCL-066: No prior standalone Mars regional place page. Added one 39-line reader-first Mars terraforming colony history, retaining distinct jungle/landing, refugee tents and civilian restaurant, Dunglestar theatre/workshop, council elder tree, underground lab, canyon, S3E03 platform and S3E18 final departure platform with no invented coordinates or building identity. E128 ships actually leave with refugees, family and recovered natural dragon heart, S2E01 confirms protection on Mars; first protagonist landing S2E02. Angelashi and four children move to Planet Nash S2E04, seen on Mars S3E03, remain at S3E05 departure, later choose Planet Nash with resurrected Nash; intervening travel unshown. S3E04 Ruby completed and locally spun then off; planetary effect only S3E18 on Earth. Stanley actually crosses Amanthalodar's summoned Feywild portal on Mars in S3E18 aboard other Elhandari vessel than Fate Six; some elves remain on Mars/return to T'ietkalla, no permanent portal or total evacuation. 28/28 links and 7 headings checked, 0 broken; lint passed. Audio and maps not inspected.",
+        "D048_structure": "reader_first_region_history_exodus_refuge_sites_research_war_and_final_departure",
+        "outgoing_local_links_total": 28,
+        "outgoing_local_links_renderer_checked": 28,
+        "outgoing_broken_links_renderer_checked": 0,
+        "outgoing_local_links_not_checked": 0,
+        "footnote_references_rendered": 0,
+        "footnote_definitions_rendered": 0,
+        "footnote_definitions_missing": 0,
+        "headings_rendered": 7,
+        "markdown_image_embeds": 0,
+        "html_image_embeds": 0,
+        "legacy_html_anchor_tags": 0,
+        "markdownlint": "passed_zero_violations",
+        "markdown_render": "checked_all_local_links",
+        "size_bytes": 8383,
+        "sha256": "d91774675f41af91408d54300bfb2ac09da2d79d8d67a3e78c42684618ed5809",
+        "incoming_links": "places_index_two_rows_current_link_other_backlinks_not_exhaustive",
+        "incoming_link_examples": [
+          "world/PLACES.md"
+        ],
+        "primary_audio": "not_checked",
+        "full_source_claim_accuracy": "not_checked",
+        "native_browser": "deferred_WCL-103",
+        "open_questions": [
+          "Exact spatial identity between S2E02 jungle landing, Dunglestar theatre, elder tree, S3E03 lab and landing platform, and S3E18 departure platform not demonstrated.",
+          "No complete Mars postwar census, permanent Feywild portal, Elhandar rebuilding or enduring refugee safety proven.",
+          "Original audio/handouts and native/browser navigation not verified."
+        ]
+      }
+    },
+    {
+      "path": "world/places/pentel-weiss.md",
+      "domain": "places",
+      "in_original_2026_10_27_worklist": false,
+      "review": {
+        "level": "structural_and_outgoing_links_checked",
+        "cohort": "WCL-065",
+        "purpose": "new_reader_first_source_bounded_Pentel_Weiss_prison_history_S2E07_S2E12",
+        "source_lines_read": 41,
+        "depicted_source_window": "S2E07 nebula and blue-edged sphere, actual Fate Six pyramid docking and Badass T intake drop; S2E08 scarred-eyed warden and actual flooded-shaft descent/rescue; S2E09 werefolk battle, Badass T left in care, Tungsten Wheel rescued in mage quarters; S2E10 crypt and carpets; S2E11 giant telepathic eye actually defeated by song and one candidate collector ring taken; S2E12 lich/mummy confrontation, Nash real death, group teleports aboard Fate Six and exits sphere without Badass T or Eye of Voice",
+        "source_window_note": "WCL-065: Live places directory had no Pentel Weiss article; created one reader-first prison/site account, linked from existing directory instead of duplicate placeholder. Only performed visits/escapes and confirmed fate of individual opponents are asserted. Distinguishes outer warden's damaged eye from unproven Eye of Voice, one obtained collector-bypass ring, confirmed Tungsten recovery from unperformed Badass T rescue, actual destruction of psychic eye/mummy lord from surviving Egnails lich and unverified Archeloft; the entire prison is NOT shown permanently closed, destroyed, evacuated or disarmed at S2E12. The departed ship's physical extraction and portal crossing are observed, postwar location/future inhabitants unverified. New 41-line article, 7 headings, 19/19 rendered local links and zero broken, Markdownlint passed. Primary audio, maps, precise phonetics, exhaustive backlink/native-browser and future events not checked.",
+        "D048_structure": "reader_first_geography_visit_rescue_dangers_escape_and_source_bounded_status",
+        "outgoing_local_links_total": 19,
+        "outgoing_local_links_renderer_checked": 19,
+        "outgoing_broken_links_renderer_checked": 0,
+        "outgoing_local_links_not_checked": 0,
+        "footnote_references_rendered": 0,
+        "footnote_definitions_rendered": 0,
+        "footnote_definitions_missing": 0,
+        "headings_rendered": 7,
+        "markdown_image_embeds": 0,
+        "html_image_embeds": 0,
+        "legacy_html_anchor_tags": 0,
+        "markdownlint": "passed_zero_violations",
+        "markdown_render": "checked_all_local_links",
+        "size_bytes": 8843,
+        "sha256": "7afcdec2f0900a5603763cd3fd4d1cbb3fba4c258bc62e81852c14001954dac7",
+        "incoming_links": "places_index_link_current_incoming_total_not_exhaustive",
+        "incoming_link_examples": [
+          "world/PLACES.md"
+        ],
+        "primary_audio": "not_checked",
+        "full_source_claim_accuracy": "not_checked",
+        "native_browser": "deferred_WCL-103",
+        "open_questions": [
+          "Exact spoken name Pentel Weiss/Pentelvice and warden/lich names depend on audio/handouts; do not canonize phonetic variants.",
+          "No post-S2E12 visited survey confirms warden, Badass T, surviving liches, release of captives, prison structural outcome or Eye of Voice location.",
+          "Source read from maintained ASR-based episode dossiers, no original audio or native browser; complete incoming link graph not verified."
+        ]
+      }
+    },
+    {
       "path": "world/places/razak-val.md",
       "domain": "places",
       "in_original_2026_10_27_worklist": true,
@@ -4851,25 +4974,25 @@
         "level": "structural_and_outgoing_links_checked",
         "cohort": "WCL-178",
         "purpose": "source_limited_current_chids_and_solar_mines_places_structure_outgoing_links_and_source_horizons",
-        "source_lines_read": 72,
+        "source_lines_read": 94,
         "depicted_source_window": "E000/E024 remembered childhood; E117 recital/E118 Book/bonus creative retrospective; S2E03 unperformed council strategy; S3E04 scout estimates/unperformed assault plan; S3E05–S3E07 actual gate attack, rupture, Fate Six crushed and Ruby rescued; S3E08 giant generator and cable separate from Ruby; S3E09 camp and dome infiltration; S3E10 real child-labor/conditioning site and remote-custody discontinuity; S3E11 physical geothermal chamber and Ruby staged unactivated; S3E12 no return; S3E13–S3E15 allied occupation and actual core guards but continued nonactivation; S3E18 order, observed planet restoration, Nash monument, future township plans",
-        "source_window_note": "WCL-181 replaces S3E18-to-S2E03 newest-first allcaps encounter notes with chronological source-limited reader-first site narrative, preserving key battles and changing scene cutoffs, custody of Ruby, distinct broken giant generator vs intact Ruby, witnessable labor cages and Nash's memories, actual geothermal chamber, S3E13 guard order vs S3E14 confirmed presence, S3E15 nonactivation, S3E18 performed restoration after order but physical insertion unshown. Current status separates completed monument and planet-wide greening from proposed Clench work, mixed township and unproven all-prisoner release.",
-        "D048_structure": "reader_first_chronological_S2E03_to_S3E18_site_account_with_current_status_narrative_source_tiers_and_qualified_historical_S3E14_metadata",
-        "outgoing_local_links_total": 51,
-        "outgoing_local_links_renderer_checked": 51,
+        "source_window_note": "WCL-181 prior chronological reader-first rewrite preserved S3E11–S3E18 source cutoffs and 2 footnotes; WCL-079 already clarified Elhandari guard and activation versus unknown physical installation. WCL-067 adds an early 11-row source-tiered facility guide: northern gate actual fall S3E07, 4 scout-reported/neutralized AA batteries, named Nobieri map districts Workerberg/Information Library/City of Chosen versus actually visited Suburbia/Walmart/freight elevator, lower mine-cart station, slave cages/whipping/school/old cell and medical slab, Door Authority, deeper lava chamber with separate Ruby protective sphere, distinct allied armory/security position and completed Nash monument against unbuilt township/Clench task. Site names and locations not silently collapsed into same proven rooms; source observations distinguished from childhood memories and plans. All 63 local links rendered, zero broken; 12 headings, 2 preserved footnotes, lint zero. Source audio, geographical survey, final personnel/inventory, original browser unverified.",
+        "D048_structure": "reader_first_site_overview_distinct_11_row_source_tiered_facilities_guide_followed_by_chronological_S2E03_to_S3E18_battle_status_and_separate_retrospective",
+        "outgoing_local_links_total": 63,
+        "outgoing_local_links_renderer_checked": 63,
         "outgoing_broken_links_renderer_checked": 0,
         "outgoing_local_links_not_checked": 0,
         "footnote_references_rendered": 2,
         "footnote_definitions_rendered": 2,
         "footnote_definitions_missing": 0,
-        "headings_rendered": 11,
+        "headings_rendered": 12,
         "markdown_image_embeds": 0,
         "html_image_embeds": 0,
         "legacy_html_anchor_tags": 0,
         "markdownlint": "passed_zero_violations",
         "markdown_render": "checked_all_local_links",
-        "size_bytes": 18349,
-        "sha256": "d6ca79c0625566220ea45aca4708ca737a9e871e1cd549fae4ccc124e9db20be",
+        "size_bytes": 24909,
+        "sha256": "fbc349eb7956419ada5160f59379c5be9fea093afb707a2fdcf75a71d21a8ba1",
         "incoming_links": "literal_world_filename_scan_only_not_exhaustive",
         "incoming_link_examples": [
           "world/PLACES.md",
@@ -4882,7 +5005,7 @@
         "full_source_claim_accuracy": "not_checked",
         "native_browser": "deferred_WCL-103",
         "open_questions": [
-          "Chronological WCL-181 rewrite resolves reverse-order all-caps recap and gives latest explicit S3E18 status. Both original footnotes are cited and rendered, including the old S3E14 source-scope metadata now explicitly labelled historical only. 51/51 local links valid, 11 narrative headings and zero broken/escaped HTML; old section heading IDs changed (not preserved verbatim), but no incoming solar-mines.md# links found in scanned maintained world/narrative/episodes/project/reports; external bookmarks/browser unresolved.",
+          "WCL-067 adds distinct reader guide for 11 location/facility groups; 63/63 valid local links, 12 rendered headings, 2 historic footnotes. Historical WCL-181 headings remain unchanged, new anchor `distinct-facilities-and-source-confidence` is linked from PLACES secondary index. No fake child stub, facility/school/slab/door/dome identity, universal liberation or rebuilt township asserted.",
           "The in-world origin account is Nash's memory, with additional creator comments not played flashback. The S3E10 GM-updated Ruby underground custody lacks an individually shown transfer from S3E09 wagon camp. Guards first ordered S3E13, actual S3E14 presence, still unactivated S3E15; S3E18 planetary revival is witnessed, Ruby insertion unshown. No complete mine rebuild, universal freeing, Clench cleared, stable government/casualty census or original audio verification.",
           "D-052 one-time byte-exact original preserved at research/legacy/SOLAR_MINES_PRE_WCL181_2026-11-01.md (26,386 bytes, original SHA verified). Reader-first prose is source-limited and not independent full-canon/editorial native-browser acceptance."
         ],
@@ -5760,25 +5883,25 @@
         "level": "structural_and_outgoing_links_checked",
         "cohort": "WCL-186",
         "purpose": "bounded_mask_and_living_hand_technology_structure_source_horizon_outgoing_links_and_custody_review",
-        "source_lines_read": 73,
+        "source_lines_read": 88,
         "depicted_source_window": "E100 Vorel takes separate gauntlet with living Hand from case; E101 Hope actually severs her own hand, attaches supernatural Hand and parts from group while gauntlet is resealed; E106 Tobacho receives Hand-less gauntlet; E118 private Voice pressure but no Eye acquisition; E123 Hope claims fatal removal consequence, untested; S2E04–S2E08 unperformed removal proposal/rumored patron origin/prison Eye speculation; S3E02 Principal physically steals living Hand, Hope survives via table death saves and Stanley Regenerate restores ordinary arm; S3E03–S3E04 no return; S3E12 Principal→Brett/Asmodeus→succubus assistant physical transfer; S3E13–S3E18 no further observed handoff; February/May 2022 creator Q&As separately reported",
-        "source_window_note": "The living Hand of the Voice is distinct from the mechanical Zorander's Fist gauntlet, its case/medallion, the missing Eye of the Voice, Vorel's Eye of Groxl and Hope's charged/uncharged Hollow Ring. E101 Hope physically affixes Hand while Tobacho gets only gauntlet E106. The Principal steals Hand S3E02, despite written deadly-removal warning Hope survives and regains normal arm via Regenerate. S3E12 the Principal hands supernatural Hand to Brett/Asmodeus who immediately transfers it to a female succubus assistant, seen storing it in her pouch, superseding 'Principal last holder' S3E02 cutoff. No later actual recovery of Hand or missing Eye evidenced.",
+        "source_window_note": "WCL-186 original source-heavy history retained; WCL-080 adds a concise two-relic, four-accessory custody table. In E100 Vorel carries severed Hand inside Fist; E101 Hope attaches the living Hand and the gauntlet is re-cased with Stanley holding key; E106 Tobacho receives only Hand-less Fist and case, key after unlocking untracked; E112 Tobacho still holds gauntlet while Hope retains Hand; S3E02 Principal steals Hand and Hope regrows ordinary arm; S3E12 Principal actually passes Hand to Brett and Brett hands it to female assistant who puts it in pouch. Last witnessed Hand holder assistant, last confirmed Fist holder Tobacho; Eye never acquired, medallion and case separate; ultimate final custody after these cutoffs unknown. May 2022 GM retrospective supports original Principal commissioning but is not a played historical transfer. Current 17 headings, 56/56 links, zero broken; no original-audio verification.",
         "D048_structure": "source_heavy_chronological_custody_with_out_of_game_testimony_after_current_status",
-        "outgoing_local_links_total": 44,
-        "outgoing_local_links_renderer_checked": 44,
+        "outgoing_local_links_total": 56,
+        "outgoing_local_links_renderer_checked": 56,
         "outgoing_broken_links_renderer_checked": 0,
         "outgoing_local_links_not_checked": 0,
         "footnote_references_rendered": 0,
         "footnote_definitions_rendered": 0,
         "footnote_definitions_missing": 0,
-        "headings_rendered": 16,
+        "headings_rendered": 17,
         "markdown_image_embeds": 0,
         "html_image_embeds": 0,
         "legacy_html_anchor_tags": 0,
         "markdownlint": "passed_zero_violations",
         "markdown_render": "checked_all_local_links",
-        "size_bytes": 17123,
-        "sha256": "cc958ec20638e57574933b409fa7ec8b558a02f6875ff82608d28fd06317b0ed",
+        "size_bytes": 20159,
+        "sha256": "1009649381896ce347256a509e08f6c2326aa8b79db62b05a5af0c9c333ceed4",
         "incoming_links": "literal_world_filename_scan_only_not_exhaustive",
         "incoming_link_examples": [
           "world/ITEMS_AND_ARTIFACTS.md",
@@ -5795,7 +5918,7 @@
         "open_questions": [
           "The written Hand-removal fatality and actual S3E02 death-saves/Regenerate outcome diverge; preserve GM adjudication, not an automatic permanent death. Future ritual/lead-lined containment is Nobieri's speculation, never performed. The scarred prison warden's eye has not been identified as the separate Eye of the Voice, and GM disputes Hope's in-character Eye knowledge.",
           "GM May 2022 Q&A attributes Principal as original contractor behind Tobacho's Hand search; authorial confirmation does not create a played prior hiring scene. February Q&A describes unplayed gauntlet attacks, not Hand feats. E101 Zorander lore, dead-wizard/lich patron claims and ASR names are not independently confirmed identities.",
-          "Original article source-led all-caps episodes and creator notes after latest witnessed-custody heading; reader-first stylistic/citation revision may be warranted independently. No footnote apparatus, but 44 local links and 16 headings valid. Later than S3E12 exact assistant possession, missing Eye whereabouts and original audio remain unverified."
+          "WCL-080 current 56/56 local links complete; original 44/44 report superseded. Later individual holders and exact voice origins unresolved."
         ]
       }
     },
@@ -6157,25 +6280,25 @@
         "level": "structural_and_outgoing_links_checked",
         "cohort": "WCL-188",
         "purpose": "source_limited_rubistic_triangulosphere_and_nash_dragon_heart_structure_outgoing_links_and_episode_custody_review",
-        "source_lines_read": 91,
+        "source_lines_read": 104,
         "depicted_source_window": "E122–E128 proposal and separate natural black-dragon-heart extraction/recovery; S2E02 partly built Mars machine; S3E01–S3E03 Tungsten claims reagent possession and actual work; S3E04 completed device and brief tested spin; S3E05 Earth shipment aboard Fate Six; S3E07 dragon Nash rescue from ship; S3E08 lava generator NOT Ruby; S3E09 ally wagon camp; S3E10 GM resets custody with underground team; S3E11 placed unactivated at geothermal core; S3E13 orders elite security, S3E14/S3E15 actual guards; S3E17 Worldbreaker banishment, S3E18 activation order and planetary restoration",
-        "source_window_note": "The natural dragon's harvested metal heart is separate from Nash's implanted engineered heart. S3E04 Ruby is completed and spun briefly on Mars with localized effects, but planetary repair not tested then. S3E07 Nash saves completed device after Fate Six crush, S3E08 distinct giant's generator detonates in lava, S3E09 Ruby is observed in friendly camp and S3E10 GM puts it with descending team without narrating pickup, S3E11 remains floating guarded in Principle's Solar Mines inner room. S3E13 security mission only ordered; S3E14 arrival confirmed; S3E18 allies authorize operation and GM confirms environmental recovery/ Earth mana-wave spellcasting shutdown after Worldbreaker already banished. Physical insertion into core NEVER directly shown.",
+        "source_window_note": "WCL-188 baseline retains the full custody trail and E122 natural heart separate from Nash's engineered heart. WCL-079 current custody summary: S3E04 brief Mars demonstration differs from S3E18 planetary cure; S3E09 surface wagon-circle to S3E10 underground custody is GM continuity ruling with no witnessed transfer; S3E11 Ruby floats in protected carrier in Principal's geothermal chamber, S3E13 orders Elhandari guard, S3E14 actual guards confirmed and S3E15–17 standby. Hope last reported holding remote/controller S3E13 (separate object); its later custody unknown. S3E18 Amanthalodar reports guards hold Ruby ready, Nash/Vorel/Hope consent and Stanley orders operation; GM depicts real environmental recovery and Earthbound arcane shutdown. The exact insertion, operator, protective sphere fate, final physical machine location/owner and controller disposition are not individually witnessed. The long episode-cutoff sections are retained, not rewritten as later hindsight.",
         "D048_structure": "source_led_episode_by_episode_technical_chronology_with_final_outcome_and_source_footnote",
-        "outgoing_local_links_total": 45,
-        "outgoing_local_links_renderer_checked": 45,
+        "outgoing_local_links_total": 53,
+        "outgoing_local_links_renderer_checked": 53,
         "outgoing_broken_links_renderer_checked": 0,
         "outgoing_local_links_not_checked": 0,
         "footnote_references_rendered": 1,
         "footnote_definitions_rendered": 1,
         "footnote_definitions_missing": 0,
-        "headings_rendered": 22,
+        "headings_rendered": 23,
         "markdown_image_embeds": 0,
         "html_image_embeds": 0,
         "legacy_html_anchor_tags": 0,
         "markdownlint": "passed_zero_violations",
         "markdown_render": "checked_all_local_links",
-        "size_bytes": 23890,
-        "sha256": "c8c720792a222dbe349658962af0ad4fd869a167b02615a2c22f352d8df569e0",
+        "size_bytes": 26264,
+        "sha256": "117588c4ada9f04cceed4dd3eef2c3f1f8e230e7bd8f6ddfcc714f6e2b50072d",
         "incoming_links": "literal_world_filename_scan_only_not_exhaustive",
         "incoming_link_examples": [
           "world/ITEMS_AND_ARTIFACTS.md",
@@ -6188,7 +6311,7 @@
         "full_source_claim_accuracy": "not_checked",
         "native_browser": "deferred_WCL-103",
         "open_questions": [
-          "Technical episode-by-episode all-caps style would benefit reader-first condensed opening and clear source/cutoff separation under D-048; all 22 headings and 45 local links render. S3E18 observed rain/forests and mana loss do NOT prove an individually staged physical drop/insertion into molten core.",
+          "Technical episode-by-episode all-caps style remains a potential reader-first editorial follow-up under D-048; WCL-079 adds a concise current custody/remote-control summary without rewriting the original dated cutoffs. Current 23 headings and 53/53 local links render, with zero broken. S3E18 planetary operation does not prove any individually staged insertion or postwar physical recovery.",
           "Tungsten's hidden Gluptwarp substance and origin story are testimony, not direct ingredient inspection; S3E04 physical finished machine does not show its manufacture. S3E09→S3E10 transfer is GM continuity correction, not proof of a performed offscreen courier. Planet permanently safe from every threat not established.",
           "One footnote reference and one definition resolved. Original audio, owner-approved engineering design, exhaustive source-claim review, external links/browser and incoming fragments not checked."
         ]

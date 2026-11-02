@@ -82,6 +82,19 @@ In [played S3E15](../../episodes/S3E15.md) ~00:16, GM repeats **STANLEY'S ELHAND
 
 After Nash's completed *Banishment* of the Worldbreaker in [played S3E17](../../episodes/S3E17.md), the Elhandari still guard Ruby in the Solar Mines. In [played S3E18](../../episodes/S3E18.md), Stanley obtains agreement from Nash, Vorel and Hope, orders the device used and receives Amanthalodar's acknowledgment. Its exact physical insertion into Earth's depths is **not separately shown**; the subsequent rain, forests, waterfalls and the end of Earthbound mana-wave spellcasting are **directly witnessed and confirmed by the GM**. Off-world spellcasting still works, and Earth's permanent safety from every threat is unproven.[^ruby-s3e18]
 
+## Last evidenced location, controller and postwar custody
+
+The **last independently described physical position before activation** is **the completed machine floating within a modified *Otiluke's Resilient Sphere* in the deep Solar Mines geothermal chamber**, with **Elhandari guards physically confirmed beside it in S3E14 and on standby through S3E15–S3E17**. [Amanthalodar's S3E18 radio exchange](../../episodes/S3E18.md) confirms the Elhandari **still hold Ruby ready to use**. The **remote/controller is a separate object**: Hope is reported holding it in S3E09–S3E13; neither its transfer to the guards nor its final disposal is actually narrated. The protector sphere is **not the Ruby** or the earlier generator dropped into lava.
+
+| Milestone | Evidenced device custody/status | What cannot be inferred |
+| --- | --- | --- |
+| [S3E09](../../episodes/S3E09.md) → [S3E10](../../episodes/S3E10.md) | Allied wagon circle → **GM explicitly places it with the underground group** | The intermediate pickup, courier or transfer mechanism is **not depicted** |
+| [S3E11](../../episodes/S3E11.md) → [S3E13](../../episodes/S3E13.md) | Left in the Principal's hot inner chamber while heroes leave; **S3E13 guard deployment is ordered only** | No core insertion or completed security arrival at the S3E13 cutoff |
+| [S3E14](../../episodes/S3E14.md) → [S3E17](../../episodes/S3E17.md) | **Elhandari guards confirmed in chamber**; Ruby remains unactivated while Worldbreaker is dealt with | No early activation or monster-defeating effect |
+| [S3E18](../../episodes/S3E18.md) | Stanley authorizes operation following companions' assent; **Amanthalodar acknowledges**, and the GM depicts the planet **actually restored** | The exact drop into lava, specific operator, protective sphere's fate, remaining machine location, recovered components, **post-activation holder** and **controller's final owner** are not shown |
+
+**Final distinction:** Successful operation **is witnessed through its planetary effects**, whereas the **individual installation maneuver and Ruby's final physical custody are unknown**. Do not label it destroyed, intact in a named character's inventory, removed from the mines, still hovering unchanged, or transferred to Stanley or Hope without another source. The S3E04 Mars spin was a **distinct limited test**, not the Earth restoration.
+
 ## Campaign-final outcome and limits
 
 **S3E18 outcome:** After the Worldbreaker has been permanently banished in [S3E17](../../episodes/S3E17.md), Stanley obtains his companions' assent and orders activation of the already guarded Rubistic Triangulosphere in [S3E18](../../episodes/S3E18.md). The Elhandari acknowledge the order. **Actual rain, returning greenery and Earth's mana-wave spellcasting shutdown are witnessed**, while magic still functions away from Earth. The precise **physical insertion into Earth's core is not separately narrated**: do not convert the successful planetary outcome into a witnessed installation scene. This outcome supersedes older episode-cutoff descriptions of an untested, incomplete or merely guarded device without changing what was observed at those earlier cutoffs.
