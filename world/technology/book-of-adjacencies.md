@@ -18,7 +18,7 @@ Stanley tells the group about his father's **future-Nash visitor and possible Na
 
 ## Out-of-game authorial commentary — October 2020
 
-**October 2020 bonus — origin outside the fiction:** Beau explains that he originally wrote a speculative note **about branching time for his own curiosity, apart from the campaign**, and later adapted it into an entry in **Stanley's father's Book of Adjacencies**. The model that proliferating alternatives resemble **“time barf”** is an intentional **authorial theme**, not verified cosmology, correct physics, or proof that every claim in Dalit's journal is true. [Bonus dossier](../../episodes/BONUS-2020-10.md) · [comparison](../../reports/BONUS_2020_10_ASR_COMPARISON_2026-10-24.md).
+**October 2020 bonus — origin outside the fiction:** Beau explains that he originally wrote a speculative note **about branching time for his own curiosity, apart from the campaign**, and later adapted it into an entry in **Stanley's father's Book of Adjacencies**. The model that proliferating alternatives resemble **“time barf”** is an intentional **authorial theme**, not verified cosmology, correct physics, or proof that every claim in Delit Or'Nath's journal is true. [Bonus dossier](../../episodes/BONUS-2020-10.md) · [comparison](../../reports/BONUS_2020_10_ASR_COMPARISON_2026-10-24.md).
 
 ## Unresolved questions and spellings
 

@@ -229,52 +229,170 @@ class DiscordArchiveTests(unittest.TestCase):
         self.assertEqual(archive.search(self.index,'compass')[0]['message_id'],str(MID))
         self.assertEqual(archive.search(self.index,'Astral needle')[0]['message_id'],str(MID))
 
-    def test_version_two_races_preserve_existing_entity_lookup(self):
-        """Use only a synthetic Discord archive; the project entity names are public test inputs."""
+    def test_version_three_evidence_edges_preserve_existing_entity_lookup(self):
+        """Synthetic Discord archive only; preserve the 18-ID v2 pilot prefix."""
         data=json.loads((archive.ROOT/"world/entities.json").read_text(encoding="utf-8"))
-        self.assertEqual(data["version"],2)
-        self.assertEqual(data["stage"],"extended-pilot")
+        self.assertEqual(data["version"],3)
+        self.assertEqual(data["stage"],"evidence-edges-cohort")
         self.assertEqual(data["source_scope_policy"],"cited-episodes-only")
         records=data["entities"]
         ids=[record["id"] for record in records]
-        self.assertEqual(len(ids),18)
-        self.assertEqual(len(set(ids)),18)
-        self.assertEqual(ids[:16],[
+        original_ids=[
             "character.nash","character.hope","character.stanley","character.vorel",
             "npc.softhead","npc.hillmaster","npc.gimster","npc.shun_t",
             "place.dust_hill","place.blood_canyons","place.solar_mines",
             "place.verithica","place.caegro","tech.dragon_engines",
             "world.dark_pact","organization.hill_guard",
-        ])
-        self.assertEqual(ids[16:],["race.lizardfolk","race.tieflings"])
-        all_sources={source["episode"] for record in records for source in record["sources"]}
-        self.assertEqual(set(data["source_scope"]),all_sources)
-        self.assertEqual(len(data["source_scope"]),len(all_sources))
+            "race.lizardfolk","race.tieflings",
+        ]
+        new_ids=[
+            "race.dwarves","race.elves","race.harlequinari",
+            "race.illithids","race.orcs","race.pixies",
+        ]
+        graph_ids=[
+            "npc.p0d","character.blood_skunk","npc.delit_ornath",
+            "tech.mask_of_eltanfawr",
+        ]
+        self.assertEqual(ids,original_ids+new_ids+graph_ids)
+        self.assertEqual(len(ids),28)
+        self.assertEqual(len(set(ids)),len(ids))
         by_id={record["id"]:record for record in records}
-        for race_id,person_id in (( "race.lizardfolk","character.vorel"),
-                                  ("race.tieflings","character.hope")):
-            race=by_id[race_id]
-            self.assertEqual(race["type"],"race_culture")
-            self.assertEqual(race["name_status"],"known_label")
-            self.assertEqual(race["aliases"],[])
-            self.assertTrue((archive.ROOT/race["page_path"]).is_file())
-            self.assertEqual(race["relations"],[
+
+        cited=[source["episode"] for record in records for source in record["sources"]]
+        self.assertEqual(set(data["source_scope"]),set(cited))
+        self.assertEqual(len(data["source_scope"]),len(set(data["source_scope"])))
+        known_types={
+            "person_character","person_npc","place","artifact_or_technology",
+            "organization","world_concept","race_culture",
+        }
+        for record in records:
+            self.assertIn(record["type"],known_types)
+            self.assertTrue(record["display_name"])
+            self.assertEqual(len(record["aliases"]),len(set(record["aliases"])))
+            self.assertNotIn(record["display_name"],record["aliases"])
+            for source in record["sources"]:
+                self.assertTrue((archive.ROOT/"episodes"/(source["episode"]+".md")).is_file())
+                self.assertRegex(source["time"],r"^\d{2}:\d{2}:\d{2}$")
+                self.assertTrue(source["evidence_type"])
+            if "page_path" in record:
+                page=Path(record["page_path"])
+                self.assertFalse(page.is_absolute())
+                self.assertNotIn("..",page.parts)
+                self.assertTrue((archive.ROOT/page).is_file())
+            seen_relations=set()
+            for edge in record.get("relations",[]):
+                self.assertIn(edge["entity_id"],by_id)
+                key=(edge["relation"],edge["entity_id"])
+                self.assertNotIn(key,seen_relations)
+                seen_relations.add(key)
+
+        for race_id,person_id in (
+            ("race.lizardfolk","character.vorel"),("race.tieflings","character.hope")
+        ):
+            self.assertEqual(by_id[race_id]["relations"],[
                 {"relation":"documented_individual","entity_id":person_id},
             ])
             self.assertEqual(by_id[person_id]["type"],"person_character")
-            for source in race["sources"]:
-                self.assertTrue((archive.ROOT/"episodes"/(source["episode"]+".md")).is_file())
-                self.assertRegex(source["time"],r"^\d{2}:\d{2}:\d{2}$")
-        self.mutate("UPDATE messages SET text=? WHERE message_id=?",
-                    ("Vorel lizardfolk Hope Tieflings",MID))
+        self.assertEqual(by_id["character.stanley"]["display_name"],"Stanley Billings")
+        self.assertEqual(by_id["character.stanley"]["aliases"],[
+            "Stanley","Valiir Or'Nath",
+        ])
+        self.assertEqual(by_id["npc.gimster"]["display_name"],"Jimster")
+        self.assertEqual(by_id["place.dust_hill"]["display_name"],"Dusthill")
+
+        for race_id in new_ids:
+            race=by_id[race_id]
+            self.assertEqual(race["type"],"race_culture")
+            self.assertEqual(race["name_status"],"known_label")
+            expected_members={
+                "race.harlequinari":"character.blood_skunk",
+                "race.pixies":"npc.p0d",
+            }
+            expected=(
+                [{"relation":"documented_individual",
+                  "entity_id":expected_members[race_id]}]
+                if race_id in expected_members else []
+            )
+            self.assertEqual(race.get("relations",[]),expected)
+            self.assertGreaterEqual(len(race["sources"]),1)
+            self.assertGreaterEqual(len(race["questions"]),1)
+            self.assertEqual(race["page_path"],"world/races/"+race_id.removeprefix("race.")+".md")
+
+        self.mutate("UPDATE messages SET text=? WHERE message_id=?",(
+            "Vorel lizardfolk Hope Tieflings Valiir Or'Nath Dwarves Elves "
+            "Harlequinari Illithids Mind flayers Orcs Pixies P0D "
+            "Blood Skunk Hendrickson Delit Or'Nath Mask of Eltanfawr",MID))
         archive.ingest(self.source,self.index,fallback=True)
-        for entity_id in ("character.vorel","character.hope","race.lizardfolk",
-                          "race.tieflings"):
+        for entity_id in (
+            "character.vorel","character.hope","character.stanley",
+            "race.lizardfolk","race.tieflings",*new_ids,*graph_ids,
+        ):
             result=archive.entity_search(self.index,entity_id)
             self.assertEqual(result["entity_id"],entity_id)
             self.assertIn(str(MID),[hit["message_id"] for hit in result["matches"]])
+        self.assertIn("Valiir Or'Nath",
+                      archive.entity_search(self.index,"character.stanley")["aliases_searched"])
+        self.assertIn("Mind flayers",
+                      archive.entity_search(self.index,"race.illithids")["aliases_searched"])
         with self.assertRaisesRegex(ValueError,"Unknown project entity ID"):
             archive.entity_search(self.index,"race.unknown")
+        self.assertEqual(by_id["npc.p0d"]["page_path"],"world/characters/p0d.md")
+        self.assertEqual(by_id["character.blood_skunk"]["page_path"],
+                         "world/characters/blood-skunk-hendrickson.md")
+        self.assertEqual(by_id["tech.mask_of_eltanfawr"]["page_path"],
+                         "world/technology/mask-of-eltanfawr.md")
+        self.assertEqual(by_id["npc.delit_ornath"]["display_name"],"Delit Or'Nath")
+
+        edges=data["evidence_edges"]
+        self.assertEqual(len(edges),4)
+        edge_ids=[edge["id"] for edge in edges]
+        self.assertEqual(len(edge_ids),len(set(edge_ids)))
+        self.assertEqual([edge["kind"] for edge in edges],[
+            "membership_evidence","membership_evidence",
+            "kinship_evidence","custody_event",
+        ])
+        expected_links={
+            "race.pixies":("npc.p0d","documented_individual"),
+            "race.harlequinari":("character.blood_skunk","documented_individual"),
+            "character.stanley":("npc.delit_ornath","child_of"),
+        }
+        for edge in edges:
+            self.assertIn(edge["subject_id"],by_id)
+            self.assertEqual(edge["episode"] in data["source_scope"],True)
+            self.assertTrue((archive.ROOT/"episodes"/(edge["episode"]+".md")).is_file())
+            self.assertRegex(edge["time"],r"^\d{2}:\d{2}:\d{2}$")
+            self.assertTrue(edge["certainty"])
+            self.assertTrue(edge["note"])
+            if edge["kind"]=="custody_event":
+                self.assertEqual(edge["relation"],"physical_transfer")
+                self.assertEqual(edge["temporal_scope"],"at_event_only")
+                self.assertEqual(edge["subject_id"],"tech.mask_of_eltanfawr")
+                self.assertEqual(edge["from_entity_id"],"character.stanley")
+                self.assertEqual(edge["to_entity_id"],"character.hope")
+                self.assertNotIn("object_id",edge)
+            else:
+                self.assertNotIn("temporal_scope",edge)
+                self.assertNotIn("from_entity_id",edge)
+                self.assertNotIn("to_entity_id",edge)
+                self.assertIn(edge["object_id"],by_id)
+                self.assertEqual((edge["object_id"],edge["relation"]),
+                                 expected_links[edge["subject_id"]])
+            if edge["kind"]=="membership_evidence":
+                subject=by_id[edge["subject_id"]]
+                self.assertEqual(subject["type"],"race_culture")
+                self.assertIn(
+                    {"relation":"documented_individual","entity_id":edge["object_id"]},
+                    subject["relations"],
+                )
+            if edge["kind"]=="kinship_evidence":
+                self.assertEqual(edge["subject_id"],"character.stanley")
+                self.assertEqual(edge["object_id"],"npc.delit_ornath")
+                self.assertEqual(edge["certainty"],
+                                 "owner_confirmed_written_name_and_played_family_discussion")
+        self.assertEqual({(e["episode"],e["time"]) for e in edges},{
+            ("E031","01:55:00"),("E113","02:22:00"),
+            ("E115","01:19:00"),("S3E18","02:15:00"),
+        })
 
 
 if __name__=='__main__':

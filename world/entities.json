@@ -1,16 +1,76 @@
 {
-  "version": 2,
-  "stage": "extended-pilot",
+  "version": 3,
+  "stage": "evidence-edges-cohort",
   "source_scope": [
     "E000",
     "E001",
+    "E010",
+    "E018",
     "E028",
+    "E031",
     "E054",
     "E060",
+    "E070",
+    "E087",
+    "E113",
+    "E115",
     "E117",
+    "S2E05",
     "S3E18"
   ],
   "source_scope_policy": "cited-episodes-only",
+  "evidence_edges": [
+    {
+      "id": "edge.pixies.p0d.e031",
+      "kind": "membership_evidence",
+      "relation": "documented_individual",
+      "subject_id": "race.pixies",
+      "object_id": "npc.p0d",
+      "episode": "E031",
+      "time": "01:55:00",
+      "evidence_type": "session_event",
+      "certainty": "witnessed_identity",
+      "note": "P0D identifies herself as a pixie; no inference about all pixie life, captivity or fate."
+    },
+    {
+      "id": "edge.harlequinari.blood_skunk.e113",
+      "kind": "membership_evidence",
+      "relation": "documented_individual",
+      "subject_id": "race.harlequinari",
+      "object_id": "character.blood_skunk",
+      "episode": "E113",
+      "time": "02:22:00",
+      "evidence_type": "character_claim",
+      "certainty": "self_identification",
+      "note": "Blood Skunk names his own people while disputing affiliation with the clowns; not proof of Council of Clowns membership."
+    },
+    {
+      "id": "edge.stanley.delit.e115",
+      "kind": "kinship_evidence",
+      "relation": "child_of",
+      "subject_id": "character.stanley",
+      "object_id": "npc.delit_ornath",
+      "episode": "E115",
+      "time": "01:19:00",
+      "evidence_type": "character_claim",
+      "certainty": "owner_confirmed_written_name_and_played_family_discussion",
+      "note": "Stanley's father is Delit Or'Nath; the father-name orthography is owner-confirmed and the played episode refers to the family, without proving burial, rescue or other parentage."
+    },
+    {
+      "id": "edge.mask.stanley_hope.s3e18",
+      "kind": "custody_event",
+      "relation": "physical_transfer",
+      "subject_id": "tech.mask_of_eltanfawr",
+      "from_entity_id": "character.stanley",
+      "to_entity_id": "character.hope",
+      "episode": "S3E18",
+      "time": "02:15:00",
+      "evidence_type": "session_event",
+      "certainty": "witnessed",
+      "temporal_scope": "at_event_only",
+      "note": "Stanley physically hands the mask to Hope, who forms and wears it as a crown; no new attunement, permanent legal ownership or subsequent custody is inferred."
+    }
+  ],
   "entities": [
     {
       "id": "character.nash",
@@ -88,7 +148,8 @@
       "display_name": "Stanley Billings",
       "type": "person_character",
       "aliases": [
-        "Stanley"
+        "Stanley",
+        "Valiir Or'Nath"
       ],
       "name_status": "known_label",
       "description": "John-associated character; wants to bring political order to the wasteland",
@@ -102,10 +163,24 @@
           "episode": "E001",
           "time": "00:08:55",
           "evidence_type": "session_event"
+        },
+        {
+          "episode": "E115",
+          "time": "01:19:00",
+          "evidence_type": "session_event"
         }
       ],
       "questions": [
-        "Verify details of his ancient tome"
+        "Verify details of his ancient tome",
+        "The birth name Valiir Or'Nath is owner-confirmed from a player-written poem; original episode audio and in-world poem timing are not independently verified."
+      ],
+      "external_sources": [
+        {
+          "url": "https://discord.com/channels/146848379853471744/671473359099527180/755289251192504340",
+          "evidence_type": "player_authored_written_name_owner_confirmed",
+          "chronology": "Stanley's original elven name; in-world poem timing unresolved",
+          "checked_on": "2026-10-27"
+        }
       ]
     },
     {
@@ -509,6 +584,251 @@
           "entity_id": "character.hope"
         }
       ]
+    },
+    {
+      "id": "race.dwarves",
+      "display_name": "Dwarves",
+      "type": "race_culture",
+      "aliases": [],
+      "name_status": "known_label",
+      "description": "Dwarves are encountered as Oilbeard guards at the Black Mine and as residents of Burp; these distinct communities do not establish one common dwarven government or set of customs.",
+      "sources": [
+        {
+          "episode": "E018",
+          "time": "01:34:00",
+          "evidence_type": "session_event"
+        },
+        {
+          "episode": "S2E05",
+          "time": "01:18:00",
+          "evidence_type": "session_event"
+        }
+      ],
+      "questions": [
+        "The Oilbeards' mine-ownership, uprising and population figures are interested testimony, not a dwarven-wide political history.",
+        "Burp's older founder, economy and the wider dwarven population are not independently established."
+      ],
+      "page_path": "world/races/dwarves.md"
+    },
+    {
+      "id": "race.elves",
+      "display_name": "Elves",
+      "type": "race_culture",
+      "aliases": [],
+      "name_status": "known_label",
+      "description": "The Elhandari receive travelers in a large inhabited forest station; their elder's accounts of ancient planetary work and spiritual law belong to that community, not to all elves.",
+      "sources": [
+        {
+          "episode": "E115",
+          "time": "00:40:00",
+          "evidence_type": "session_event"
+        }
+      ],
+      "questions": [
+        "Elhandari ancient history and beliefs are attributed accounts; the group is not interchangeable with every elven community.",
+        "The High Elf's attempted memory sharing is declined, not a completed memory transfer."
+      ],
+      "page_path": "world/races/elves.md"
+    },
+    {
+      "id": "race.harlequinari",
+      "display_name": "Harlequinari",
+      "type": "race_culture",
+      "aliases": [],
+      "name_status": "known_label",
+      "description": "Blood Skunk identifies as Harlequinari and is treated as an outsider by the Council of Clowns; the council's connections do not establish that all its members are Harlequinari.",
+      "sources": [
+        {
+          "episode": "E113",
+          "time": "01:03:00",
+          "evidence_type": "character_claim"
+        },
+        {
+          "episode": "E113",
+          "time": "02:22:00",
+          "evidence_type": "session_event"
+        }
+      ],
+      "questions": [
+        "Neither a complete Council of Clowns membership census nor universal Harlequinari appearance, abilities or rules of exile are established.",
+        "Blood Skunk's estrangement is documented, but the circumstances of his earlier departure are not."
+      ],
+      "page_path": "world/races/harlequinari.md",
+      "relations": [
+        {
+          "relation": "documented_individual",
+          "entity_id": "character.blood_skunk"
+        }
+      ]
+    },
+    {
+      "id": "race.illithids",
+      "display_name": "Illithids",
+      "type": "race_culture",
+      "aliases": [
+        "Mind flayers"
+      ],
+      "name_status": "known_label",
+      "description": "Illithids are encountered through a headset-mediated CHIDS office and through a contestant at Sigil's M-fighting championship; neither context establishes a single motive or culture for every illithid.",
+      "sources": [
+        {
+          "episode": "E070",
+          "time": "01:10:00",
+          "evidence_type": "session_event"
+        },
+        {
+          "episode": "E087",
+          "time": "00:25:00",
+          "evidence_type": "session_event"
+        }
+      ],
+      "questions": [
+        "Charles Dickens's explanation of the Void Realm and its invasion plans is interested testimony, not a verified universal illithid program.",
+        "Fax/Faks spelling and subsequent absence are unresolved; the CHIDS living-wall council must not be merged with illithids."
+      ],
+      "page_path": "world/races/illithids.md"
+    },
+    {
+      "id": "race.orcs",
+      "display_name": "Orcs",
+      "type": "race_culture",
+      "aliases": [],
+      "name_status": "known_label",
+      "description": "An armed orc enforces the Principal's authority on the road to Slavetown, while an unrelated orc is encountered in the Gray Waste; neither role represents all orcs or their political allegiance.",
+      "sources": [
+        {
+          "episode": "E010",
+          "time": "01:27:00",
+          "evidence_type": "session_event"
+        },
+        {
+          "episode": "E113",
+          "time": "00:14:00",
+          "evidence_type": "session_event"
+        }
+      ],
+      "questions": [
+        "Koromukishi/Kuromokishi order membership is not a universal orc ancestry or culture; its spelling remains source-provisional.",
+        "The Gray Waste orc's continued responsiveness after decapitation is an exceptional scene, not an established biological rule."
+      ],
+      "page_path": "world/races/orcs.md"
+    },
+    {
+      "id": "race.pixies",
+      "display_name": "Pixies",
+      "type": "race_culture",
+      "aliases": [],
+      "name_status": "known_label",
+      "description": "P0D is a pixie who reports forced captivity and Pixie Blush production; other transformed pixies are seen reverting near T'ietkalla, without proving a general pixie origin or universal transformation rule.",
+      "sources": [
+        {
+          "episode": "E031",
+          "time": "01:55:00",
+          "evidence_type": "session_event"
+        },
+        {
+          "episode": "E054",
+          "time": "00:08:00",
+          "evidence_type": "session_event"
+        }
+      ],
+      "questions": [
+        "P0D's account of Farmer Dewey's wider operation is testimony; the farm is not fully inspected in E031.",
+        "The cause of later pixie-hulk reversions and fate of all captives remain unverified; the alternate Pod is not P0D revived."
+      ],
+      "page_path": "world/races/pixies.md",
+      "relations": [
+        {
+          "relation": "documented_individual",
+          "entity_id": "npc.p0d"
+        }
+      ]
+    },
+    {
+      "id": "npc.p0d",
+      "display_name": "P0D",
+      "type": "person_npc",
+      "aliases": [
+        "Pod"
+      ],
+      "name_status": "known_label",
+      "description": "A pixie companion encountered in Trashburg who identifies herself by an aquarium label containing the numeral zero; her account of the wider farm's production is testimony, not a witnessed inventory.",
+      "sources": [
+        {
+          "episode": "E031",
+          "time": "01:55:00",
+          "evidence_type": "session_event"
+        }
+      ],
+      "questions": [
+        "The alternate Pod at Tower Nash is a distinct counterpart, not this individual returned to life.",
+        "P0D is killed in E050; her subsequent E056 spirit appearance is not bodily survival."
+      ],
+      "page_path": "world/characters/p0d.md"
+    },
+    {
+      "id": "character.blood_skunk",
+      "display_name": "Blood Skunk Hendrickson",
+      "type": "person_character",
+      "aliases": [
+        "Blood Skunk"
+      ],
+      "name_status": "known_label",
+      "description": "A member of Hope's separate traveling party who identifies himself as Harlequinari while explicitly rejecting affiliation with the Council of Clowns.",
+      "sources": [
+        {
+          "episode": "E113",
+          "time": "02:22:00",
+          "evidence_type": "character_claim"
+        }
+      ],
+      "questions": [
+        "He reports having left Harlequinari society; no full formal-exile history or council membership is established.",
+        "His later S3E01 death must not be confused with S3E02 reuse of his inert head."
+      ],
+      "page_path": "world/characters/blood-skunk-hendrickson.md"
+    },
+    {
+      "id": "npc.delit_ornath",
+      "display_name": "Delit Or'Nath",
+      "type": "person_npc",
+      "aliases": [
+        "Dalit",
+        "Daliot"
+      ],
+      "name_status": "known_label",
+      "description": "Stanley Billings's father, whose owner-confirmed written name is Delit Or'Nath; E115 recounts the father's scientific interests and Stanley's understanding of his death.",
+      "sources": [
+        {
+          "episode": "E115",
+          "time": "01:19:00",
+          "evidence_type": "character_claim"
+        }
+      ],
+      "questions": [
+        "Name is confirmed from owner/player-written evidence, not a direct original-audio spelling check.",
+        "E115 does not establish an actual recovery, resurrection, or the definitive site of his remains; any later status requires separate source review."
+      ]
+    },
+    {
+      "id": "tech.mask_of_eltanfawr",
+      "display_name": "Mask of Eltanfawr",
+      "type": "artifact_or_technology",
+      "aliases": [],
+      "name_status": "known_label",
+      "description": "The magical mask connected with Stanley's Fate Six; Stanley physically transfers it to Hope in S3E18, and Hope wears it as a crown without demonstrated completed attunement.",
+      "sources": [
+        {
+          "episode": "S3E18",
+          "time": "02:15:00",
+          "evidence_type": "session_event"
+        }
+      ],
+      "questions": [
+        "Receipt and wearing are witnessed; Hope's new attunement and independent command of the ship are not demonstrated in the handover.",
+        "This event alone does not establish perpetual future custody, ship ownership or the restoration of every ghost sailor."
+      ],
+      "page_path": "world/technology/mask-of-eltanfawr.md"
     }
   ]
 }
