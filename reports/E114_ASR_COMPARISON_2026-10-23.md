@@ -52,7 +52,7 @@ For full text reading, recording-clock ten-minute chunks represented both export
 
 ## Decision and next scope
 
-The provisional episode result is **four living changeling children and Angelashi's visible revelation**, alongside **Fluffy's death and the ship's successful escape with significant elven losses**. **No Elhandar arrival, Squirts resurrection, confirmed Principle death, or settled Nash ancestry**. The [dossier](../episodes/E114.md), [continuity ledger](../world/CONSISTENCY_LEDGER.md) and [review queue](../project/REVIEW_QUEUE.md) carry the same distinctions. The two labor poems are classified separately from spells in [Nash's register](../world/characters/nash-spellcasting-phrases.md#non-casting-poems--e114-labor-scene).
+The provisional episode result is **four living changeling children and Angelashi's visible revelation**, alongside **Fluffy's death and the ship's successful escape with significant elven losses**. **No Elhandar arrival, Squirts resurrection, confirmed Principle death, or settled Nash ancestry**. The [dossier](../episodes/E114.md), [continuity ledger](../world/CONSISTENCY_LEDGER.md) and [review queue](../project/REVIEW_QUEUE.md) carry the same distinctions. The two labor poems are classified separately from spells in [Nash's register](../world/characters/nash-spellcasting-phrases.md#related-wording-and-non-casting-performances).
 
 Next verified source pair: **The Wastes S1E115 — The Forest for The Trees**, [Parakeet](../sources/The%20Wastes%20S1E115.%20The%20Forest%20for%20The%20Trees.parakeet.processed.srt) / [Qwen](../sources/The%20Wastes%20S1E115.%20The%20Forest%20for%20The%20Trees.qwen-q8.canary-ctc.nemotron.srt). Files are nonempty; no E115 content is analyzed here. Original SRT/MP3 files remain untouched.
 

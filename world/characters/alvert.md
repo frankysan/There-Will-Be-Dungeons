@@ -1,15 +1,25 @@
-# Alvert — self-described UBI imp
+# Alvert — the self-described underworld investigator
 
-> **First appears E071**, name `Alvert`/ASR `Albert`, with speaker explicitly correcting the pronunciation. **A source-first provisional character reference, spoilers through E071, not audio verified**. [E071 dossier](../../episodes/E071.md).
+## Introduction
 
-After the **hellhound and security-ape battle** beneath Khaervilon, a **tiny gray, leathery, winged humanoid** with an aged man's face and infantlike body steps out from hiding. He is physically small, makes an awkward introduction and repeatedly asks **not to be attacked**; Vorel attempts to punch him before speaking. He says he has **followed the group since the CHIDS welcome center**, and carries a self-produced identification booklet from the **Underworld Bureau of Investigation (UBI)**. The booklet is observed, but **the credentials and institutional mandate are self-asserted**, not independently audited.
+Alvert emerged from hiding in the abandoned offices beneath Khaervilon after the companions defeated a pack of hellhounds and their ape-like guards. Small, leathery and winged, with an old man's face on a strangely infantlike body, he wanted above all not to be struck by Vorel before he could explain himself. He presented a booklet identifying him as an investigator of the Underworld Bureau of Investigation. That document was real enough to be shown, but it could not establish his claimed office or authority.[^encounter]
 
-He identifies himself as an **imp from Hell rather than a demon of the Weir** and describes a jurisdictional feud over mortal souls. In his account, ordinary afterlife authorities direct sinful souls to **Hell**, whereas **demons of the Weir** diverted souls to obtain power and use them as currency. He claims the Weir's practitioners are rejected powers pursuing shortcuts to divinity. His explicit enjoyment of torture and sarcastic social commentary **do not make him a morally benevolent helper**, even if his immediate goal competes with Ovaxiad's.
+## An imp with his own cause
 
-**Principal account:** Alvert says the **Principal was once a human scientist inside this facility**, made immortal through a final self-experiment during the great dragons' assault, and became **the Steel God's avatar/foremost priest**. He describes or repeats **rumors** that the Principal uses **gene farms, processing human beings to liquefied biomass** to sustain his structure and alchemical/magical works. **Record this strictly as Alvert's interested testimony and rumor**; neither a physical historical record nor such a human-processing operation is seen by the party in E071.
+Alvert called himself an imp from Hell, not a demon of the Weir. As he told it, Hell's keepers had an established claim on sinful mortal souls, while the Weir's powers diverted those souls for profit and strength. This made the two infernal interests rivals rather than partners. His desire to obstruct the Weir was therefore no assurance of benevolence: he spoke readily about torture and seemed as interested in his own side's advantage as in the companions' welfare.[^claims]
 
-**Practical guidance:** He claims knowledge of the **Traversal Drive** and suggests **engineering** houses it, but a face-like entrance **lacks power** and he cannot get through. He points out possible incoming silhouettes near the rail network, guesses **bugbears**, and offers to guide the group. The figures' identities and motivations are **not confirmed**. He accompanies the four PCs on the railcar and later on foot to the green-line area, but **refuses to enter the freezing ventilation duct** at the **data center** near E071's end. He is **left outside**, not proven dead or gone from the facility.
+He also offered a startling history of the Principal. Alvert claimed that the figure had once been a mortal scientist working in the facility, survived the dragons' assault through a final experiment, and became an immortal servant or avatar of the Steel God. He repeated darker rumors of people reduced to biological material in the Principal's so-called gene farms. Nothing the companions encountered during this conversation independently established those origins or practices. They remained Alvert's account and rumor, not witnessed history.[^claims]
 
-**Review:** [E071](../../episodes/E071.md) ~00:39–01:11 Alvert identity, UBI, afterlife/Principal; ~01:12–01:25 engineering/rail map; ~02:45–02:46 refusal to enter duct. Distinguish **observation** from the imp's **persuasive claims**.
+## Guide through the abandoned complex
 
-**Related:** [CHIDS](../places/chids.md) · [Principal world guide](../WORLD.md) · [chronology](../CHRONOLOGY.md) · [ledger](../CONSISTENCY_LEDGER.md).
+Alvert knew something of the Traversal Drive but could not lead the group straight to it. He believed engineering held the machine; its strange face-like entrance was unpowered. He also warned of distant figures along the rail route, guessing they might be bugbears without identifying them. The companions accepted his company for a time, riding the railway and then proceeding on foot toward the cold data-center approach.[^route]
+
+## Current status
+
+When the companions broke open a high ventilation duct above the frozen data-center entrance, Alvert refused to follow them into the severe cold. He remained outside while all four entered. His fate after that separation is not established, nor is any later fulfillment of his bureau's alleged mission.[^route]
+
+[^encounter]: [E071](../../episodes/E071.md), particularly the post-battle introduction and booklet, ~00:39–00:54. The name **Alvert** is retained as the archive's provisional display spelling; *Albert* appears in ASR and the actual pronunciation has not been checked against audio.
+
+[^claims]: [E071](../../episodes/E071.md), ~00:50–01:09. The UBI mandate, Hell–Weir division, Principal's mortal origins and Steel God affiliation are Alvert's interested testimony; human-processing accounts are presented as rumor, not witnessed fact.
+
+[^route]: [E071](../../episodes/E071.md), ~01:09–01:27 and ~01:48–02:46. The silhouettes are unidentified; neither engineering nor the Traversal Drive is reached. [CHIDS](../places/chids.md) · [Khaervilon](../places/khaervilon.md) · [Principal](the-principal.md) · [chronology](../CHRONOLOGY.md). Original audio, fuller source-claim review and native-browser links remain unverified.

@@ -82,21 +82,24 @@ reference or complete subject-appearance audit is implied.
   is retained as dated learning/provenance. Pilot
   on Nash E000; two earlier full-sheet render attempts were rejected.
   Four subsequent [Nash face studies](../reports/ILLUSTRATION_NASH_FACE_DIRECTION_2026-10-25.md)
-  yielded an owner-preferred style. **Assets now present:**
+  yielded an owner-preferred style. **Current registered assets and historical filenames:**
   [front v1](../illustrations/references/wastes_nash-maggard_e001_front_v01.png) is
   **FRONT_APPROVED** for E000/A01 (owner-accepted, 1024-square and sRGB-tagged,
-  repository SHA-256 verified); [face study v1](../illustrations/references/Nash_Maggard_Face_v1.png)
-  is preserved as an untagged 1254-square original; the [normalized
+  repository SHA-256 verified); the original `Nash_Maggard_Face_v1.png`
+  was an untagged 1254-square study (legacy filename absent from this checkout); the [normalized
   face anchor](../illustrations/references/wastes_nash-maggard_e001_sheet-02-face_v01.png)
   has since been uploaded, hash-verified and explicitly **FACE_APPROVED**.
-  The [corrected hood-up side reference](../illustrations/references/Nash_Maggard_Side_v2_HoodUp_1024_sRGB.png)
-  was subsequently placed in the repository: **SIDE_APPROVED** after
-  SHA-256 and 1024-square embedded-sRGB verification. The [single rear
+  The corrected hood-up side reference `Nash_Maggard_Side_v2_HoodUp_1024_sRGB.png`
+  was historically **SIDE_APPROVED** after SHA-256 and sRGB verification; that
+  exact legacy filename is absent now. The [registered E001 paired-side file](../illustrations/references/wastes_nash-maggard_e001_side-paired_v01.png)
+  exists with a separate manifest/hash; byte equivalence is not implied. The [single rear
   view](../reports/ILLUSTRATION_NASH_BACK_ANCHOR_2026-10-25.md) is now
-  **owner-accepted**, and the normalized [back image](../illustrations/references/Nash_Maggard_Back_v1_1024_sRGB.png)
-  was subsequently verified in the repository by exact SHA-256 and
-  embedded-sRGB/dimension checks: **BACK_APPROVED**. All four approved
-  character anchors are registered. **Two text-free 1024-square sRGB
+  **owner-accepted**, and the historical back export
+  `Nash_Maggard_Back_v1_1024_sRGB.png` was previously verified by SHA-256;
+  that legacy filename is absent now. The [registered E001 back file](../illustrations/references/wastes_nash-maggard_e001_back_v01.png)
+  has a distinct manifest/hash. The former export also passed
+  embedded-sRGB/dimension checks: **BACK_APPROVED** for that historical export. The current manifest registers
+  all four view roles, but removed legacy filenames are not assumed byte-identical to their current counterparts. **Two text-free 1024-square sRGB
   candidate pages have been assembled** from the accepted artwork
   ([assembly report](../reports/ILLUSTRATION_NASH_E000_SHEET_ASSEMBLY_2026-10-25.md)):
   front/back/two profiles on page 1, unchanged approved face art on page 2.

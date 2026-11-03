@@ -20,9 +20,11 @@
   "counts": {
     "published": 26,
     "draft-next": 0,
-    "focused-review": 3,
+    "focused-review": 0,
     "separate-oneoff": 2,
-    "routed-character-context": 1
+    "routed-character-context": 1,
+    "routed-existing-antagonist-history": 1,
+    "routed-index-boundary-no-species-claim": 2
   },
   "inventory": [
     {
@@ -1699,7 +1701,7 @@
     },
     {
       "id": "WSC-027",
-      "status": "focused-review",
+      "status": "routed-existing-antagonist-history",
       "name": "Six-limbed desert burrower",
       "evidence": [
         {
@@ -1709,11 +1711,14 @@
         }
       ],
       "observed_lead": "Immense gear-scaled creature falls through a rift and burrows into Earth as a violent sand front forms.",
-      "boundary_or_next_check": "Morphology and entry are witnessed; planetary conversion purpose is the Soulbroker's claim. Name, intelligence, origin and full mechanism remain unknown; no invented species or lethal outcome."
+      "boundary_or_next_check": "At E128 morphology and entry were witnessed but purpose was the Soulbroker's claim; later S3E14–S3E17 identify the same Earth-incursion threat as Worldbreaker/Tarrasque and establish banishment from Earth, NOT death or a surveyed destination. No invented new species or duplicate bestiary page.",
+      "disposition_task": "WCL-033",
+      "routed_to": ["world/ANTAGONISTS.md", "world/HISTORICAL_EVENTS.md"],
+      "disposition_basis": "E128 entry matched to the source-bounded S3E14–S3E17 Worldbreaker history; role-based antagonist/historical coverage already exists; no new audio reviewed."
     },
     {
       "id": "WSC-028",
-      "status": "focused-review",
+      "status": "routed-index-boundary-no-species-claim",
       "name": "Pit froghemoth and altered upper form",
       "evidence": [
         {
@@ -1743,11 +1748,14 @@
         }
       ],
       "observed_lead": "Three-eyed pit predator and later enormous many-eyed form with an inhabitable digestive tract and separating upper cocoon.",
-      "boundary_or_next_check": "E053 contains private mental bargaining and the creature's claim of intended ascent. Resolve form/NPC routing, continuity of specimens and attribution first. The upper portion escapes; the entire organism is not confirmed dead."
+      "boundary_or_next_check": "E041/E046 pit predator and E052 enlarged form are observed, but identity and mechanism linking forms are not conclusively demonstrated. E052/E053 contain private telepathic bargaining; an apparent reasoning individual cannot be presumed a non-intelligent species. The lower half dies and upper cocoon escapes. No audio or organism-wide death verification.",
+      "disposition_task": "WCL-033",
+      "routed_to": ["world/CREATURES_AND_MONSTERS.md", "world/HISTORY_TIETKALLA.md"],
+      "disposition_basis": "Cited E039/E041/E046/E052/E053 dossiers compared. Retain source-bounded exceptional-encounter note with no standalone species/character identity inferred; original voice and cross-form continuity remain future audio/source questions."
     },
     {
       "id": "WSC-029",
-      "status": "focused-review",
+      "status": "routed-index-boundary-no-species-claim",
       "name": "Red memory-devouring organisms",
       "evidence": [
         {
@@ -1772,7 +1780,10 @@
         }
       ],
       "observed_lead": "Many-faced red mass makes tethered lookalikes and inflicts a persistent penalty; later red growths attack and burrow.",
-      "boundary_or_next_check": "Copies can appear to speak. Check agency and whether later red organisms are the same kind before treating this as one non-reasoning species."
+      "boundary_or_next_check": "E074 large many-faced mass creates tethered Vorel and dragon-Nash copies; it is destroyed E075, both copies dissolve. Distinct later red attackers are encountered E080/E081; one burrowing into Hope is destroyed. Their shared origin, agency, speech and ultimate aggregate fate remain unverified; no invented single species or common consciousness.",
+      "disposition_task": "WCL-033",
+      "routed_to": ["world/CREATURES_AND_MONSTERS.md", "world/places/chids.md"],
+      "disposition_basis": "Cited E074/E075/E080/E081 dossiers compared; indexed as unresolved biological threat without collapsing later forms into the slain original, or proving copies have independent personhood."
     },
     {
       "id": "WSC-030",
@@ -2185,14 +2196,11 @@
       ]
     }
   ],
-  "last_updated": "2026-10-25",
+  "last_updated": "2026-11-03",
   "next_work": {
-    "type": "focused-source-review",
-    "candidate_ids": [
-      "WSC-027",
-      "WSC-028"
-    ],
-    "purpose": "Separate witnessed six-limbed burrower incursion from Soulbroker claims, and review Pit froghemoth identity, mental bargaining and upper-cocoon routing."
+    "type": "bounded-audio-or-new-evidence-only",
+    "candidate_ids": [],
+    "purpose": "WCL-033 has routed WSC-027 to existing Worldbreaker references and WSC-028/WSC-029 to explicitly uncertain index/history notes. All initial Season One candidates now have a source-bounded disposition; do not add species biographies without new independent identity, agency or audio evidence. WSC-030/031 retain separate E127 one-off chronology."
   },
   "inventory_snapshot_description": "Dossier fingerprints preserve the initial 2026-10-24 discovery scan; later targeted dossier amendments are recorded in follow-up reports.",
   "published_article_count": 30

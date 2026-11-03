@@ -1,11 +1,27 @@
-# Dick Pendleton — “General Motors” (half-tank Toyota Host commander)
+# Dick Pendleton — the commander called General Motors
 
-**Identity and first definite played appearance:** An enemy commander in [Wastes S3E09 — Tank Boy](../../episodes/S3E09.md) ~01:47–02:30; **DICK PENDLETON**, self-described childhood classmate and bully of **Nash Maggard** from the Solar Mines indoctrination school. **Physically revealed by unmasking** after addressing Nash at a Walmart ambush; his new military name is **“GENERAL MOTORS.”** His upper body is HUMAN, lower body mechanically augmented to **TANK TRACKS**, with a weapon attachment and mask, commanding a large Toyota Host mob and at least four Kuromokishi. He is **not proven an official historical corporation, a vehicle manufacturer, or a separate character called Tank Boy**. [Nash](nash-maggard.md) · [Solar Mines](../places/solar-mines.md) · [Factions](../FACTIONS_AND_POWERS.md).
+## Introduction
 
-**Retold childhood:** During journey from surviving allied Solar Mines wagon circle to affluent GLASS DOME (~00:37–01:27), Nash and alternate **White Nash** discuss a schoolmate named Dick Pendleton, a childhood challenge to steal a book from a privileged library/graduate zone; they recall the book as ***Moby Dick***. **GM/Scott accept/develop remembered character mid-session**. Dialogue is in-world memory but **not independently played childhood footage or proof shared Nash variants have completely identical childhoods**.
+Dick Pendleton was known to Nash Maggard as a boy from the Solar Mines' childhood indoctrination school. Nash and one of his alternate selves recalled a humiliating contest over a book stolen from an elite library: *Moby Dick*. Their memories made Pendleton part of a painful shared childhood, though this was a remembered story developed in conversation, not a scene the companions had witnessed and not proof that all alternate Nashes lived identical lives.[^past]
 
-**Observed confrontation:** At the WALMART ~01:47–01:54, General Motors **ACTUALLY UNMASKS AND IS ACKNOWLEDGED BY ORIGINAL NASH** as Pendleton; speaks with bitterness about Nash's supposed preferential candy/attention, claims the **PRINCIPAL IS NASH'S “DADDY”** and wants Nash's head to make himself the Principal's new son. **These are hostile character assertions, NOT verified biological parentage or proof the Principal ordered the exact encounter**. Orders Toyota Host to attack.
+## General Motors
 
-**Compassion magic and death:** Two Elhandari companions obey **HOPE** and **ACTUALLY throw EMPATHY GRENADES** near General Motors; the effect visibly causes his unguarded crying, regret and admission of bullying. This **does not independently prove authentic enduring remorse after the effect ends**. MAIN NASH nevertheless ***FIREBALL*S*** nearby soldiers, and HOPE **ACTUALLY MOVES CLOSE AND STABS GENERAL MOTORS TWICE WITH RAPIER, 31 combined damage**, causing **PHYSICAL DEATH** ~02:26–02:30, as he whispers **“NASH”**. His death causes the local Toyota Host crowd to ROUT. **No resurrection, return to consciousness or extraction of further intelligence observed by episode cutoff.** His personal feelings before magical compulsion remain nuanced but not independently established.
+Years later, beneath the protected Solar Mines dome, a masked commander confronted the companions in a shuttered Walmart. His upper body was human, but his lower half ran on tank tracks. He commanded an armed force of Toyota Host fighters and Kuromokishi. Removing his mask, he revealed himself as Pendleton and adopted the military title **General Motors**. Nash recognized him.[^reunion]
 
-**Source quality:** [Complete P/Q comparison](../../reports/WASTES_S3E09_ASR_COMPARISON_2026-10-27.md) covers full exports and targeted pivotal Q excerpts; no original audio listened to. “Dick Pendleton”, “General Motors” and exact spoken dialogue remain audio-provisional, while his unmasking and physical death are directly played. **Distinct from the later-episode campaign's other machine-bodied villains, and from the Principal himself**.
+Pendleton spoke with resentment about Nash's supposed privileges at school. He claimed that the Principal had favored Nash as a son and declared that he intended to take Nash's head to win the same place for himself. Those accusations reveal Pendleton's bitterness, not the Principal's biological parentage or proof that the Principal personally arranged this ambush. Pendleton ordered his fighters to attack.[^reunion]
+
+## Regret under compulsion
+
+During the battle, two Elhandari companions obeyed Hope's instruction to throw empathy grenades. Their magic overtook Pendleton and nearby soldiers. Pendleton cried, acknowledged having bullied Nash and spoke of their unequal treatment. His response was visible, but it occurred under a magical effect; whether he would have felt or sustained that remorse freely cannot be established.[^battle]
+
+Even as the soldiers faltered, Nash cast a fireball into the fighting. Hope then reached Pendleton and struck him twice with her rapier, killing him. He whispered Nash's name as he died. His followers broke and fled after the loss of their commander.[^battle]
+
+## Current status
+
+Pendleton died in the Walmart confrontation, still under the influence of the empathy magic. No return to life or later direct appearance is established. His story ends where childhood resentment, militarized power and a moment of compelled contrition met, without proving either the paternity he alleged or the lasting change of heart the magic seemed to produce.[^battle]
+
+[^past]: [S3E09](../../episodes/S3E09.md), ~00:33–00:43 and ~01:18–01:36. The school-book challenge emerges in remembered dialogue and table improvisation; *Moby Dick* is the book ultimately identified, not a newly performed childhood event.
+
+[^reunion]: [S3E09](../../episodes/S3E09.md), ~01:46–01:54. **General Motors** is the character's asserted title; it is not an independently verified corporation or separate individual. The Principal/Nash fatherhood claim remains adversarial testimony.
+
+[^battle]: [S3E09](../../episodes/S3E09.md), ~01:54–02:31, and the [ASR comparison](../../reports/WASTES_S3E09_ASR_COMPARISON_2026-10-27.md). Two empathy grenades are actually used; Nash's fireball and Hope's two rapier strikes occur during the same battle. The death is witnessed, but the exact spoken name/title and final words remain audio-provisional. [Nash](nash-maggard.md) · [Solar Mines](../places/solar-mines.md) · [Toyota Host and other factions](../FACTIONS_AND_POWERS.md).

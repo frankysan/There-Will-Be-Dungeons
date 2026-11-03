@@ -128,8 +128,7 @@ from supported material, preserving unknown fates and source limitations.
 The [initial season-wide dossier search](../reports/WASTES_S1_CREATURE_SEARCH_2026-10-24.md)
 and [machine-readable inventory](../reports/WASTES_S1_CREATURE_SEARCH_2026-10-24.json)
 record 32 additional candidate subjects or research clusters: twenty-six now published
-(sand squid, all twelve initially draftable candidates and thirteen source-reviewed clusters), none awaiting initial drafting, three requiring focused review, one routed
-to character context and two from the separately placed Wastes-setting Christmas one-off. The initial
+(sand squid, all twelve initially draftable candidates and thirteen source-reviewed clusters), none awaiting initial drafting, **two retained as index-only identity/agency boundary cases** (froghemoth and red memory organisms), one routed to existing Worldbreaker antagonist/history coverage, one routed to character context and two from the separately placed Wastes-setting Christmas one-off. The initial
 scan covers 130 available
 E-numbered dossiers; it is not a full transcript or audio review and excludes
 the alternate-setting E043 from Wastes evidence.
@@ -156,7 +155,4 @@ The **CHIDS hellhounds** are published after their
 The **blue-black chasm flyers** and **crater wyvern** are published after their
 [targeted review](../reports/WINGED_ATTACKERS_SOURCE_REVIEW_2026-10-25.md), keeping played observations distinct from recap identification and artifact guidance.
 The 26 published search subjects/clusters map to 30 articles, excluding the original
-Chicken Lords and Pixie Hulks. Next are the **six-limbed desert burrower** and
-**Pit froghemoth/altered upper form**, with attributed claims, identity and personhood still to resolve. These creature
-publications do not advance an episode-research pointer. Follow the report's
-specific identity, agency and source checks when continuing.
+Chicken Lords and Pixie Hulks. **WSC-027 is routed to existing [Worldbreaker history](../world/HISTORICAL_EVENTS.md#worldbreakers-arrival-and-earth-only-banishment--e128-to-s3e17) and the [antagonist index](../world/ANTAGONISTS.md)**: the E128 burrower is later identified as the same threat, removed from Earth in S3E17 but not killed. Do not duplicate it as a new species. **WSC-028** (private telepathic bargaining, lower carcass death, upper cocoon escaped) and **WSC-029** (E075 mass and tethered copies destroyed, later red forms not proved same species) now have evidence-bounded [index notes](../world/CREATURES_AND_MONSTERS.md), **not invented species pages**. Their remaining agency/identity questions are original-source/audio gates, not publication tasks. Decisions belong to [WCL-033](WASTES_CLEANUP_TASKS.md#wcl-033). This does not advance an episode-research pointer.

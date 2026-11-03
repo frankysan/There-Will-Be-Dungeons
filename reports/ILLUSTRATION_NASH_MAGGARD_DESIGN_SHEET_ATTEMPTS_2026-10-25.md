@@ -5,7 +5,7 @@
 **Outcome:** **No valid PNG delivered to the repository; no approved character
 design sheet.** Preserve these two noncompliant outputs as rejected studies
 outside the project illustration catalog; never cite them as approved visual
-references. The source-linked [written specification](../project/ILLUSTRATION_NASH_MAGGARD_REFERENCE.md#e000a01-character-design-sheet-brief--draft-v01-2026-10-25)
+references. The source-linked [written specification](../project/ILLUSTRATION_NASH_MAGGARD_REFERENCE.md#e000a01-character-design-sheet-brief--draft-v011-2026-10-25)
 was integrated separately, before generation.
 
 ## Input evidence actually reviewed

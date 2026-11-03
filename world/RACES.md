@@ -11,7 +11,7 @@ Beyond the companions and the rulers they encounter are communities with their o
 | [Harlequinari](races/harlequinari.md) | Blood Skunk's estrangement, the comic cruelty of the Council of Clowns and a wider, only partly known Harlequinari world. |
 | [Elves](races/elves.md) | The Elhandari elder's account of a pre-Scorching mission, their preserved forest sanctuary, the fall of Elhandar and scattered communities on Mars, Earth and in the Feywild. |
 | [Dwarves](races/dwarves.md) | Ancient underground halls, the Oilbeard-controlled Black Mine, and Burp's declining mithril town, alongside distinct craftsmen and ship crews. |
-| [Orcs](races/orcs.md) | Differing loyalties among the Principal's Koromukishi martial order, Liberator dissidents, mercenary crews and former enemies offered a future with Vorel. |
+| [Orcs](races/orcs.md) | Differing loyalties among the Principal's Kuromokishi martial order (working spelling), Liberator dissidents, mercenary crews and former enemies offered a future with Vorel. |
 | [Illithids](races/illithids.md) | CHIDS invaders, a headset-mediated office and Fax's independent Sigil life; disputed Void Realm claims do not define every mind flayer. |
 | [Pixies](races/pixies.md) | P0D's testimony about captivity, the forced Pixie Hulks, and a separate alternate Pod's family at Tower Nash. |
 
@@ -20,6 +20,8 @@ Beyond the companions and the rulers they encounter are communities with their o
 For the fuller accounts of the places and people, visit [Razak Val](places/razak-val.md), [T'ietkalla](places/tietkalla.md), [the Harbor](places/the-harbor.md), [Elhandar](places/elhandar.md) and the dwarf-run [Black Mine](places/black-mine.md). The lives of [Vorel](characters/vorel.md) and [Hope](characters/hope-akmenos.md) belong to their own biographies; clan leadership, the city and individual choices do not describe every member of a people.
 
 The [factions and powers](FACTIONS_AND_POWERS.md) directory follows organizations and alliances, while [creatures and monsters](CREATURES_AND_MONSTERS.md) describes encountered creatures rather than treating intelligent societies as monsters.
+
+Birdfolk, cyclopes and goblins also send identifiable leaders or fighters to the [Mars war council](../episodes/S2E03.md) and the [final leaders' gathering](../episodes/S3E18.md). Those are documented *participants and wartime alliances*, not evidence by themselves of a common ancestry history or a sufficiently established cultural account. Their individuals and military alliances remain in the character/faction/episode references pending a separately supported people-level study.
 
 ## Sources and project notes
 

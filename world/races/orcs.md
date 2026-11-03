@@ -4,13 +4,13 @@ Orcs are encountered across the Wastes as soldiers, mercenaries, travelers and p
 
 ## The martial order and Slavetown
 
-The Principal's forces first overtake the companions on the road to [Slavetown](../places/slavetown.md). A heavily armed orc warrior demands submission, and five orc initiates later fight the travelers in the Rusty Cage. Once the company wins, a magistrate and orc knight acknowledge the judgment. Members known as **Lady Saltbubble** and **Sir Chickenfinger** invite the victors to seek entry into the **Koromukishi** martial order. Its ceremonies and invitation make it an institution people can join, not a name for every orc.[^order]
+The Principal's forces first overtake the companions on the road to [Slavetown](../places/slavetown.md). A heavily armed orc warrior demands submission, and five orc initiates later fight the travelers in the Rusty Cage. Once the company wins, a magistrate and orc knight acknowledge the judgment. Members known as **Lady Saltbubble** and **Sir Chickenfinger** invite the victors to seek entry into the **Kuromokishi** martial order (working written form). Its ceremonies and invitation make it an institution people can join, not a name for every orc.[^order]
 
-The order is part of a larger web of power. The **Toyota Host** is a broader armed force; Koromukishi warriors hold a smaller, prestigious position associated with military discipline and claims of honor. The magistrate, town officials, mine owners and armed orders have overlapping interests but are not one organization. The orc soldiers the companions encounter therefore cannot stand in for the customs of all orcs.[^authority]
+The order is part of a larger web of power. The **Toyota Host** is a broader armed force; Kuromokishi warriors hold a smaller, prestigious position associated with military discipline and claims of honor. The magistrate, town officials, mine owners and armed orders have overlapping interests but are not one organization. The orc soldiers the companions encounter therefore cannot stand in for the customs of all orcs.[^authority]
 
 ## Leaving the Principal behind
 
-At the Liberators' camp the companions meet a sightless orc who has renounced the Koromukishi. He refuses a personal name and says he removed his own eyes in rejection of teachings he once followed. In private conversation with **Vorel**, he speaks of orcish life, the Principal's authority and the possibility of reform while arguing for a cautious campaign against the regime. His rejection is his own act and account; it does not reveal how all former members think, or prove that his earlier order represents traditional orcish culture.[^renegade]
+At the Liberators' camp the companions meet a sightless orc who has renounced the Kuromokishi. He refuses a personal name and says he removed his own eyes in rejection of teachings he once followed. In private conversation with **Vorel**, he speaks of orcish life, the Principal's authority and the possibility of reform while arguing for a cautious campaign against the regime. His rejection is his own act and account; it does not reveal how all former members think, or prove that his earlier order represents traditional orcish culture.[^renegade]
 
 ## Mercenaries, crews and strangers
 
@@ -28,11 +28,11 @@ After Earth's restoration, the assembled leaders decide to give surviving Kuromo
 
 ## Current status
 
-There is no single recorded fate for the orcs of the Wastes. The three recruits from Burp are dead or lost, the former Koromukishi dissenter's eventual fate is not settled by his early conversation, and other orcs remain associated with different factions and places. The final alliance under Vorel creates a possibility for former enemies to live differently without establishing a universal orcish culture, a new nation or a completed reconciliation.[^status]
+There is no single recorded fate for the orcs of the Wastes. The three recruits from Burp are dead or lost, the former Kuromokishi dissenter's eventual fate is not settled by his early conversation, and other orcs remain associated with different factions and places. The final alliance under Vorel creates a possibility for former enemies to live differently without establishing a universal orcish culture, a new nation or a completed reconciliation.[^status]
 
 [^overview]: [E010](../../episodes/E010.md), [E026](../../episodes/E026.md), [E102](../../episodes/E102.md), [S2E06](../../episodes/S2E06.md), [E113](../../episodes/E113.md) and [S3E18](../../episodes/S3E18.md). This is an episode-dossier/processed-ASR synthesis, not a newly audio-verified or exhaustive people survey. Do not import Delvers' distinct half-orc history into the Wastes.
 
-[^order]: [E010](../../episodes/E010.md), Rusty Cage trial and orc-led capture; [E011](../../episodes/E011.md), public acquittal and invitation from named order members. The records vary between Koromukishi, Kuromukishi and Kuromokishi, with original spoken and written orthography unsettled. Membership invitation does not mean the party actually joined.
+[^order]: [E010](../../episodes/E010.md), Rusty Cage trial and orc-led capture; [E011](../../episodes/E011.md), public acquittal and invitation from named order members. Kuromokishi is the working display form also used in the faction index; E010–E013 records vary between Koromukishi, Kuromukishi and Kuromokishi, with original spoken and written orthography unsettled. The working display form is not independently audio-verified. Membership invitation does not mean the party actually joined.
 
 [^authority]: [E013](../../episodes/E013.md) gives the GM's approximate background distinction between Toyota Host and fewer Koromukishi honor-code officers, more direct than local NPC accounts but not a complete recruitment law. [Slavetown](../places/slavetown.md) and [Factions](../FACTIONS_AND_POWERS.md) maintain the institutional boundary.
 
